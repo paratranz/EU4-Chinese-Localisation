@@ -1,7 +1,7 @@
 l_english:
  janissary_regiment:0 "耶尼切里"
  LEDGER_SCORE_TC:0 "团队分数"
- CAN_NOT_EXPLOIT_UNTIL:1 "§R- 我们最近降低了$WHERE|Y$的发展度，直到 $DATE|Y$ 之前不能再次降低§!"
+ CAN_NOT_EXPLOIT_UNTIL:1 "§R- 最近已经剥夺过$WHERE|Y$的发展度，因此$DATE|Y$之前不能再次剥夺。§!"
  CAN_NOT_EXPLOIT_OCCUPIED:1 "§R- 你现在不能降低发展度，因为 $WHERE|Y$ 目前控制于敌人的手上§!"
  CAN_NOT_EXPLOIT_ADM:1 "§R- 这里的税基太低以至于无法降低了§!"
  CAN_NOT_EXPLOIT_DIP:1 "§R- 这里的生产力太低以至于无法降低了§!"
@@ -515,7 +515,7 @@ l_english:
  GP_RANK_TT:0 "列强在任何时候都只能有$MAX|Y$个。"
  GP_RATING_TT:0 "强权评分是由§Y发展度§!除以国家当前§Y科技花费§!计算得出。"
  GP_TECH_TT:0 "科技花费受下列因素影响：\n"
- TRADE_COMPANY_PENALTY:0 "得到$EFFECT$持续到$DATE|Y$"
+ TRADE_COMPANY_PENALTY:0 "获得$EFFECT$效果，持续到$DATE|Y$"
  left_trade_company:0 "离开贸易公司"
  WILL_LOSE_POWER_AT_EMBRACE:0 "接受思潮之后，由于君王点数储存的最大值下降，你将会失去 $LOSS$ 点数。"
  LIBERTY_DESIRE_FROM_DEVELOPMENT_VASSAL:0 "由于 $AMOUNT|Y$ 发展度： $VAL$"
