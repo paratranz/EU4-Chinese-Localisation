@@ -7752,7 +7752,7 @@
  PROVINCEVIEW_OTHERS_TRADE_PORT:0 "这是 $COUNTRY$ 的贸易本埠。"
  CHURCH_POWER:0 "教会力量：$POWER|Y$"
  CHURCH_OF:0 "$COUNTRY$ 教会"
- CHURCH_POWER_MONTHLY:0 "$DIFF$ 每月 (base §Y$SKILL$§! 君主能力 * §Y$SCALE$§! 修正后的 $MOD$)\n\n如下修正有:\n"
+ CHURCH_POWER_MONTHLY:0 "$DIFF$ 每月 (基于 §Y$SKILL$§! 点君主能力 乘 §Y$SCALE$§! 修正后的 $MOD$)\n\n如下修正有:\n"
  NO_ASPECT_SELECTED:0 "没有可选的宗教信条"
  CHANGE_ASPECT_TOO_LOW_POWER:2 "§R你需要至少$COST$教会力量来选用另一个$ASPECTS_SHORT$§! (目前拥有$CURRENT|Y$)\n"
  CHANGE_ASPECT_TOO_LOW_STAB:1 "§R你需要至少$MIN$稳定度来移除一个$ASPECTS_SHORT$§!\n"
