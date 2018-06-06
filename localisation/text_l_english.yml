@@ -1899,7 +1899,7 @@
  alert_truce_will_expire_delayed:0 "$LIST$"
  alert_alliance_breaking_instant:0 "§Y联盟破裂§W"
  alert_alliance_breaking_delayed:1 "以下盟友不再认为与你的联盟值得保留，并且很快终止结盟:\n$LIST$."
- alert_alliance_breaking_reasons:0 "\n\n$COUNTRY_ADJ|Y$ 决定保留我们之间的联盟直到 $VAL$，因为:\n$REASONS$"
+ alert_alliance_breaking_reasons:0 "\n\n$COUNTRY_ADJ|Y$当前想保留与我们的同盟的愿望是$VAL$，因为：\n$REASONS$"
  alert_unconditional_surrender_instant:0 "§Y 无条件投降 §W"
  alert_unconditional_surrender_delayed:0 "如下国家放下了武器并且无条件投降:\n$LIST$.\n\n你必须与它们达成和平提议以便它们尽快自动接受，否则我国国内会有要求和平的呼声."
  alert_diplo_annexing_instant:0 "外交吞并机会:"
