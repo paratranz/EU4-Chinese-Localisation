@@ -1592,7 +1592,7 @@
  SIEGE_CAPABILITY_DESC:0 "实际的要塞等级所需的围攻部队数量可能会比这个数值要小，这取决于防御方的驻军规模修正。"
  LOOT_CAPABILITY:0 "这支部队每月的最大掠夺量"
  LOOT_CAPABILITY_DESC:0 "实际的掠夺量可能要比这个值小，这取决于正在被掠夺的省份的价值量，以及实际参与掠夺的部队数量。"
- UNIT_LOOT_EXPLANATION:0 "$COUNT$$UNIT$部队正在掠夺$VAL|Y$每=§G$LOOT$§!"
+ UNIT_LOOT_EXPLANATION:0 "$COUNT$支$UNIT$部队 * 每支部队掠夺$VAL|Y$ = §G$LOOT$§!"
  RR_SUPPRESSION_CAPABILITY:0 "省份叛乱度降低最大值"
  RR_SUPPRESSION_CAPABILITY_DESC:0 "由于单位站在省份上，叛乱度的最大值降低。\n省份叛乱度的最大降低值被限制到§G$MAX_UNREST_REDUCTION$§!"
  UNIT_RR_SUPPRESSION_EXPLANATION:0 " "
