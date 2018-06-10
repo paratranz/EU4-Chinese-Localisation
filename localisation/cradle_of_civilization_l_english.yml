@@ -13,7 +13,7 @@
  SUPPLY_DEPOT_NOT_OWNED_OR_CONTROLLED:0 "§R你只能在被你、你的属国、宗主国或战争盟友控制的省份建立补给站§!\n"
  SUPPLY_DEPOT_NEED_ARMY_PRO:0 "你需要 $LIMIT|Y%1$ 陆军职业度来建造补给站 (当前 $VAL|R%1$)\n"
  SUPPLY_DEPOTS_LIST:0 "§Y补给站§!\n补给站对相同地区内的友军有如下效果：\n$MOD$\n\n在该地区建立了补给站的国家：\n"
- SUPPLY_DEPOT_LIST_ENTRY:0 "$BUILTBY|Y$ ($PROV$). 于 $EXPIRES|Y$失效.\n"
+ SUPPLY_DEPOT_LIST_ENTRY:0 "$BUILTBY|Y$（$PROV$）。于$EXPIRES|Y$失效。\n"
  SUPPLY_DEPOT_CANT_AFFORD:0 "§R你需要 $COST$ £mil£ 来建造一个补给站。§!\n"
  FE_SHOW_STARTUP_SCREEN:0 "显示开始画面"
  FE_SHOW_STARTUP_SCREEN_DESC:0 "开关是否在一局新游戏开始时显示有关你的国家和宗教的背景信息的开始画面。"
