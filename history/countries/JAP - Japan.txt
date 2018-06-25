@@ -1,0 +1,653 @@
+﻿government = feudal_monarchy
+government_rank = 2
+primary_culture = togoku
+religion = shinto
+technology_group = chinese
+capital = 1020
+1325.1.1 = {
+    monarch = {
+        name = "Takauji"  # Takauji
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 4
+        dip = 5
+        mil = 4
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = charismatic_negotiator_personality
+    add_ruler_personality = inspiring_leader_personality
+}
+1330.7.4 = {
+    heir = {
+        name = "Yoshiakira"  # Yoshiakira
+        monarch_name = "Yoshiakira"  # Yoshiakira
+        dynasty = "Ashikaga"  # Ashikaga
+        birth_date = 1330.7.4
+        death_date = 1367.12.18
+        claim = 90
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1358.5.7 = {
+    monarch = {
+        name = "Yoshiakira"  # Yoshiakira
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1358.9.25 = {
+    heir = {
+        name = "Yoshimitsu"  # Yoshimitsu
+        monarch_name = "Yoshimitsu"  # Yoshimitsu
+        dynasty = "Ashikaga"  # Ashikaga
+        birth_date = 1358.9.25
+        death_date = 1408.5.31
+        claim = 90
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1367.12.18 = {
+    monarch = {
+        name = "Yoshimitsu"  # Yoshimitsu
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 4
+        dip = 5
+        mil = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = lawgiver_personality
+    add_ruler_personality = silver_tongue_personality
+}
+1368.1.1 = {
+    monarch = {
+        name = "Yoshimitsu"  # Yoshimitsu
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 4
+        dip = 5
+        mil = 3
+    }
+}
+1386.3.12 = {
+    heir = {
+        name = "Yoshimochi"  # Yoshimochi
+        monarch_name = "Yoshimochi"  # Yoshimochi
+        dynasty = "Ashikaga"  # Ashikaga
+        birth_date = 1386.3.12
+        death_date = 1428.2.3
+        claim = 90
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1408.5.31 = {
+    monarch = {
+        name = "Yoshimochi"  # Yoshimochi
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = careful_personality
+}
+1408.5.31 = {
+    heir = {
+        name = "Yoshikazu"  # Yoshikazu
+        monarch_name = "Yoshikazu"  # Yoshikazu
+        dynasty = "Ashikaga"  # Ashikaga
+        birth_date = 1407.8.27
+        death_date = 1425.3.17
+        claim = 90
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1425.3.17 = {
+    heir = {
+        name = "Yoshinori"  # Yoshinori
+        monarch_name = "Yoshinori"  # Yoshinori
+        dynasty = "Ashikaga"  # Ashikaga
+        birth_date = 1394.6.14
+        death_date = 1441.7.12
+        claim = 60
+        adm = 4
+        dip = 2
+        mil = 4
+    }
+}
+1428.2.3 = {
+    monarch = {
+        name = "Yoshinori"  # Yoshinori
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 4
+        dip = 2
+        mil = 4
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = cruel_personality
+}
+1434.3.19 = {
+    heir = {
+        name = "Yoshikatsu"  # Yoshikatsu
+        monarch_name = "Yoshikatsu"  # Yoshikatsu
+        dynasty = "Ashikaga"  # Ashikaga
+        birth_date = 1434.3.19
+        death_date = 1443.8.16
+        claim = 90
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1441.7.12 = {
+    monarch = {
+        name = "Yoshikatsu"  # Yoshikatsu
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 2
+        dip = 3
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+}
+1443.8.16 = {
+    monarch = {
+        name = "Yoshimasa"  # Yoshimasa
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 1
+        dip = 3
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = obsessive_perfectionist_personality
+}
+1464.1.1 = {
+    heir = {
+        name = "Yoshimi"  # Yoshimi
+        monarch_name = "Yoshimi"  # Yoshimi
+        dynasty = "Ashikaga"  # Ashikaga
+        birth_date = 1439.3.3
+        death_date = 1491.2.15
+        claim = 80
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1465.12.11 = {
+    heir = {
+        name = "Yoshihisa"  # Yoshihisa
+        monarch_name = "Yoshihisa"  # Yoshihisa
+        dynasty = "Ashikaga"  # Ashikaga
+        birth_date = 1465.12.11
+        death_date = 1489.4.26
+        claim = 90
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1473.1.1 = {
+    monarch = {
+        name = "Yoshihisa"  # Yoshihisa
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = drunkard_personality
+}
+1490.1.1 = {
+    monarch = {
+        name = "Yoshitane"  # Yoshitane
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+}
+1495.1.23 = {
+    monarch = {
+        name = "Yoshizumi"  # Yoshizumi
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = craven_personality
+}
+1508.7.1 = {
+    monarch = {
+        name = "Yoshitane"  # Yoshitane
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+}
+1521.12.25 = {
+    monarch = {
+        name = "Yoshiharu"  # Yoshiharu
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = charismatic_negotiator_personality
+}
+1536.3.31 = {
+    heir = {
+        name = "Yoshiteru"  # Yoshiteru
+        monarch_name = "Yoshiteru"  # Yoshiteru
+        dynasty = "Ashikaga"  # Ashikaga
+        birth_date = 1536.3.31
+        death_date = 1565.6.17
+        claim = 90
+        adm = 4
+        dip = 4
+        mil = 3
+    }
+}
+1546.12.1 = {
+    monarch = {
+        name = "Yoshiteru"  # Yoshiteru
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 4
+        dip = 4
+        mil = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = martial_educator_personality
+}
+1565.6.17 = {
+    monarch = {
+        name = "Yoshihide"  # Yoshihide
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = malevolent_personality
+}
+1568.9.1 = {
+    monarch = {
+        name = "Yoshiaki"  # Yoshiaki
+        dynasty = "Ashikaga"  # Ashikaga
+        adm = 2
+        dip = 3
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = silver_tongue_personality
+}
+1573.7.3 = {
+    monarch = {
+        name = "Nobunaga"  # Nobunaga
+        dynasty = "Oda"  # Oda
+        adm = 5
+        dip = 5
+        mil = 6
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = free_thinker_personality
+    add_ruler_personality = tolerant_personality
+    add_ruler_personality = midas_touched_personality
+}
+1582.6.22 = {
+    monarch = {
+        name = "Hideyoshi"  # Hideyoshi
+        dynasty = "Toyotomi"  # Toyotomi
+        adm = 5
+        dip = 6
+        mil = 5
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = entrepreneur_personality
+    add_ruler_personality = cruel_personality
+    add_ruler_personality = infertile_personality
+}
+1591.11.1 = {
+    heir = {
+        name = "Hidetsugu"  # Hidetsugu
+        monarch_name = "Hidetsugu"  # Hidetsugu
+        dynasty = "Toyotomi"  # Toyotomi
+        birth_date = 1568.1.1
+        death_date = 1595.8.20
+        claim = 80
+        adm = 3
+        dip = 2
+        mil = 4
+    }
+}
+1593.8.29 = {
+    heir = {
+        name = "Hideyori"  # Hideyori
+        monarch_name = "Hideyori"  # Hideyori
+        dynasty = "Toyotomi"  # Toyotomi
+        birth_date = 1593.8.29
+        death_date = 1615.6.4
+        claim = 90
+        adm = 3
+        dip = 3
+        mil = 4
+    }
+}
+1598.9.18 = {
+    monarch = {
+        name = "Hideyori"  # Hideyori
+        dynasty = "Toyotomi"  # Toyotomi
+        adm = 3
+        dip = 3
+        mil = 4
+    }
+    clear_scripted_personalities = yes
+}
+1603.3.24 = {
+    monarch = {
+        name = "Ieyasu"  # Ieyasu
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 6
+        dip = 5
+        mil = 5
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = careful_personality
+    add_ruler_personality = secretive_personality
+    add_ruler_personality = inspiring_leader_personality
+}
+1603.3.24 = {
+    heir = {
+        name = "Hidetada"  # Hidetada
+        monarch_name = "Hidetada"  # Hidetada
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1579.5.2
+        death_date = 1632.3.14
+        claim = 90
+        adm = 5
+        dip = 4
+        mil = 2
+    }
+    capital = 1028
+}
+1616.5.22 = {
+    monarch = {
+        name = "Hidetada"  # Hidetada
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 5
+        dip = 4
+        mil = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = lawgiver_personality
+}
+1616.5.22 = {
+    heir = {
+        name = "Iemitsu"  # Iemitsu
+        monarch_name = "Iemitsu"  # Iemitsu
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1604.8.12
+        death_date = 1651.6.8
+        claim = 90
+        adm = 4
+        dip = 3
+        mil = 3
+    }
+}
+1632.3.14 = {
+    monarch = {
+        name = "Iemitsu"  # Iemitsu
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 4
+        dip = 3
+        mil = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = well_advised_personality
+}
+1641.9.7 = {
+    heir = {
+        name = "Ietsuna"  # Ietsuna
+        monarch_name = "Ietsuna"  # Ietsuna
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1641.9.7
+        death_date = 1680.6.4
+        claim = 90
+        adm = 3
+        dip = 3
+        mil = 4
+    }
+}
+1651.6.8 = {
+    monarch = {
+        name = "Ietsuna"  # Ietsuna
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 3
+        dip = 3
+        mil = 4
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = calm_personality
+}
+1680.5.1 = {
+    heir = {
+        name = "Tsunayoshi"  # Tsunayoshi
+        monarch_name = "Tsunayoshi"  # Tsunayoshi
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1646.2.23
+        death_date = 1709.2.9
+        claim = 90
+        adm = 4
+        dip = 3
+        mil = 1
+    }
+}
+1680.6.4 = {
+    monarch = {
+        name = "Tsunayoshi"  # Tsunayoshi
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 4
+        dip = 3
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = scholar_personality
+    add_ruler_personality = naive_personality
+}
+1704.12.31 = {
+    heir = {
+        name = "Ienobu"  # Ienobu
+        monarch_name = "Ienobu"  # Ienobu
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1662.6.11
+        death_date = 1712.11.12
+        claim = 90
+        adm = 4
+        dip = 3
+        mil = 1
+    }
+}
+1709.2.9 = {
+    monarch = {
+        name = "Ienobu"  # Ienobu
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 4
+        dip = 3
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = benevolent_personality
+}
+1709.8.8 = {
+    heir = {
+        name = "Ietsugu"  # Ietsugu
+        monarch_name = "Ietsugu"  # Ietsugu
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1709.8.8
+        death_date = 1716.6.19
+        claim = 90
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+}
+1712.11.12 = {
+    monarch = {
+        name = "Ietsugu"  # Ietsugu
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = well_connected_personality
+}
+1716.6.19 = {
+    monarch = {
+        name = "Yoshimune"  # Yoshimune
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 4
+        dip = 3
+        mil = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = incorruptible_personality
+    add_ruler_personality = industrious_personality
+    add_ruler_personality = martial_educator_personality
+}
+1716.6.19 = {
+    heir = {
+        name = "Ieshige"  # Ieshige
+        monarch_name = "Ieshige"  # Ieshige
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1712.7.28
+        death_date = 1761.7.13
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1751.7.12 = {
+    monarch = {
+        name = "Ieshige"  # Ieshige
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = malevolent_personality
+}
+1751.7.12 = {
+    heir = {
+        name = "Ieharu"  # Ieharu
+        monarch_name = "Ieharu"  # Ieharu
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1737.6.20
+        death_date = 1786.9.17
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1760.5.3 = {
+    monarch = {
+        name = "Ieharu"  # Ieharu
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = embezzler_personality
+}
+1781.5.1 = {
+    heir = {
+        name = "Ienari"  # Ienari
+        monarch_name = "Ienari"  # Ienari
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1773.11.18
+        death_date = 1841.2.27
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1786.9.17 = {
+    monarch = {
+        name = "Ienari"  # Ienari
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = fertile_personality
+}
+1793.6.22 = {
+    heir = {
+        name = "Ieyoshi"  # Ieyoshi
+        monarch_name = "Ieyoshi"  # Ieyoshi
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1793.6.22
+        death_date = 1853.7.27
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1841.2.27 = {
+    monarch = {
+        name = "Ieyoshi"  # Ieyoshi
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1841.2.27 = {
+    heir = {
+        name = "Iesada"  # Iesada
+        monarch_name = "Iesada"  # Iesada
+        dynasty = "Tokugawa"  # Tokugawa
+        birth_date = 1824.5.6
+        death_date = 1858.8.14
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1853.7.27 = {
+    monarch = {
+        name = "Iesada"  # Iesada
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1858.8.14 = {
+    monarch = {
+        name = "Iemochi"  # Iemochi
+        dynasty = "Tokugawa"  # Tokugawa
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}

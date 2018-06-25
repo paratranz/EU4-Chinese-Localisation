@@ -1,0 +1,386 @@
+﻿government = tribal_kingdom
+government_rank = 1
+primary_culture = rajput
+religion = hinduism
+technology_group = indian
+capital = 512
+fixed_capital = 512
+1399.1.1 = {
+    monarch = {
+        name = "Rao"  # Rao
+        dynasty = "Bhati"  # Bhati
+        DIP = 0
+        MIL = 2
+        ADM = 0
+    }
+}
+1465.1.1 = {
+    monarch = {
+        name = "Bika"  # Bika
+        dynasty = "Rathore"  # Rathore
+        DIP = 2
+        MIL = 2
+        ADM = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = righteous_personality
+    add_ruler_personality = bold_fighter_personality
+}
+1468.1.1 = {
+    heir = {
+        name = "Naroji"  # Naroji
+        monarch_name = "Naroji Singh"  # Naroji Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1468.1.1
+        death_date = 1505.1.1
+        claim = 95
+        DIP = 1
+        MIL = 3
+        ADM = 1
+    }
+}
+1488.1.1 = {
+    government = despotic_monarchy
+}
+1504.1.1 = {
+    monarch = {
+        name = "Naroji Singh"  # Naroji Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 1
+        MIL = 3
+        ADM = 1
+    }
+}
+1504.1.1 = {
+    heir = {
+        name = "Naroji"  # Naroji
+        monarch_name = "Naroji Singh"  # Naroji Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1470.1.1
+        death_date = 1526.1.1
+        claim = 95
+        DIP = 1
+        MIL = 3
+        ADM = 2
+    }
+}
+1505.1.1 = {
+    monarch = {
+        name = "Naroji Singh"  # Naroji Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 1
+        MIL = 3
+        ADM = 2
+    }
+}
+1505.1.1 = {
+    heir = {
+        name = "Jetsiji"  # Jetsiji
+        monarch_name = "Jetsiji Singh"  # Jetsiji Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1489.1.1
+        death_date = 1542.1.1
+        claim = 95
+        DIP = 1
+        MIL = 3
+        ADM = 2
+    }
+}
+1526.1.1 = {
+    monarch = {
+        name = "Jetsiji Singh"  # Jetsiji Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 0
+        MIL = 3
+        ADM = 1
+    }
+}
+1526.1.1 = {
+    heir = {
+        name = "Kalyan"  # Kalyan
+        monarch_name = "Kalyan Singh"  # Kalyan Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1519.1.1
+        death_date = 1571.1.1
+        claim = 95
+        DIP = 1
+        MIL = 3
+        ADM = 1
+    }
+}
+1542.1.1 = {
+    monarch = {
+        name = "Kalyan Singh"  # Kalyan Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 1
+        MIL = 3
+        ADM = 1
+    }
+}
+1542.1.1 = {
+    heir = {
+        name = "Raj"  # Raj
+        monarch_name = "Raj Singh"  # Raj Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1541.1.1
+        death_date = 1611.1.1
+        claim = 95
+        DIP = 0
+        MIL = 4
+        ADM = 2
+    }
+}
+1571.1.1 = {
+    monarch = {
+        name = "Raj Singh"  # Raj Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 0
+        MIL = 4
+        ADM = 2
+    }
+}
+1571.1.1 = {
+    heir = {
+        name = "Dalpat"  # Dalpat
+        monarch_name = "Dalpat Singh"  # Dalpat Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1565.1.1
+        death_date = 1614.1.1
+        claim = 95
+        DIP = 1
+        MIL = 2
+        ADM = 0
+    }
+}
+1611.1.1 = {
+    monarch = {
+        name = "Dalpat Singh"  # Dalpat Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 1
+        MIL = 2
+        ADM = 0
+    }
+}
+1611.1.1 = {
+    heir = {
+        name = "Sur"  # Sur
+        monarch_name = "Sur Singh"  # Sur Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1595.1.1
+        death_date = 1631.1.1
+        claim = 95
+        DIP = 1
+        MIL = 3
+        ADM = 2
+    }
+}
+1614.1.1 = {
+    monarch = {
+        name = "Sur Singh"  # Sur Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 1
+        MIL = 3
+        ADM = 2
+    }
+}
+1616.1.1 = {
+    heir = {
+        name = "Karan"  # Karan
+        monarch_name = "Karan Singh"  # Karan Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1616.1.1
+        death_date = 1669.1.1
+        claim = 95
+        DIP = 0
+        MIL = 2
+        ADM = 0
+    }
+}
+1631.1.1 = {
+    monarch = {
+        name = "Karan Singh"  # Karan Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 0
+        MIL = 2
+        ADM = 0
+    }
+}
+1638.1.1 = {
+    heir = {
+        name = "Anup"  # Anup
+        monarch_name = "Anup Singh"  # Anup Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1638.1.1
+        death_date = 1698.1.1
+        claim = 95
+        DIP = 1
+        MIL = 2
+        ADM = 1
+    }
+}
+1669.1.1 = {
+    monarch = {
+        name = "Anup Singh"  # Anup Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 1
+        MIL = 2
+        ADM = 1
+    }
+}
+1689.1.1 = {
+    heir = {
+        name = "Sarup"  # Sarup
+        monarch_name = "Sarup Singh"  # Sarup Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1689.1.1
+        death_date = 1698.1.1
+        claim = 95
+        DIP = 1
+        MIL = 2
+        ADM = 0
+    }
+}
+1698.1.1 = {
+    monarch = {
+        name = "Sarup Singh"  # Sarup Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 1
+        MIL = 2
+        ADM = 0
+    }
+}
+1698.1.1 = {
+    heir = {
+        name = "Sujan"  # Sujan
+        monarch_name = "Sujan Singh"  # Sujan Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1690.1.1
+        death_date = 1736.1.1
+        claim = 95
+        DIP = 1
+        MIL = 2
+        ADM = 0
+    }
+}
+1700.1.1 = {
+    monarch = {
+        name = "Sujan Singh"  # Sujan Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 1
+        MIL = 2
+        ADM = 0
+    }
+}
+1713.1.1 = {
+    heir = {
+        name = "Zorawar"  # Zorawar
+        monarch_name = "Zorawar Singh"  # Zorawar Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1713.1.1
+        death_date = 1745.1.1
+        claim = 95
+        DIP = 2
+        MIL = 2
+        ADM = 0
+    }
+}
+1736.1.1 = {
+    monarch = {
+        name = "Zorawar Singh"  # Zorawar Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 2
+        MIL = 2
+        ADM = 0
+    }
+}
+1736.1.1 = {
+    heir = {
+        name = "Gaj"  # Gaj
+        monarch_name = "Gaj Singh"  # Gaj Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1723.1.1
+        death_date = 1787.1.1
+        claim = 95
+        DIP = 0
+        MIL = 3
+        ADM = 4
+    }
+}
+1745.1.1 = {
+    monarch = {
+        name = "Gaj Singh"  # Gaj Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 0
+        MIL = 3
+        ADM = 4
+    }
+}
+1745.1.1 = {
+    heir = {
+        name = "Raj"  # Raj
+        monarch_name = "Raj Singh II"  # Raj Singh II
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1744.1.1
+        death_date = 1787.1.13
+        claim = 95
+        DIP = 0
+        MIL = 1
+        ADM = 0
+    }
+}
+1787.1.1 = {
+    monarch = {
+        name = "Raj Singh II"  # Raj Singh II
+        dynasty = "Rathore"  # Rathore
+        DIP = 0
+        MIL = 1
+        ADM = 0
+    }
+}
+1787.1.1 = {
+    heir = {
+        name = "Pratap"  # Pratap
+        monarch_name = "Pratap Singh"  # Pratap Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1781.1.1
+        death_date = 1787.12.1
+        claim = 95
+        DIP = 0
+        MIL = 0
+        ADM = 0
+    }
+}
+1787.1.14 = {
+    monarch = {
+        name = "Pratap Singh"  # Pratap Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 0
+        MIL = 0
+        ADM = 0
+    }
+}
+1787.1.14 = {
+    heir = {
+        name = "Surat"  # Surat
+        monarch_name = "Surat Singh"  # Surat Singh
+        dynasty = "Rathore"  # Rathore
+        birth_date = 1766.1.1
+        death_date = 1828.12.1
+        claim = 95
+        DIP = 3
+        MIL = 2
+        ADM = 2
+    }
+}
+1788.1.1 = {
+    monarch = {
+        name = "Surat Singh"  # Surat Singh
+        dynasty = "Rathore"  # Rathore
+        DIP = 3
+        MIL = 2
+        ADM = 2
+    }
+}
+1816.1.1 = {
+    government_rank = 2
+}

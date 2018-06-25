@@ -1,0 +1,268 @@
+﻿technology_group = muslim
+primary_culture = uzbehk
+add_accepted_culture = khorasani
+add_accepted_culture = persian
+religion = sunni
+government = iqta
+government_rank = 3
+capital = 454
+historical_rival = DLH
+historical_rival = MUL
+religious_school = hanafi_school
+1370.1.1 = {
+    monarch = {
+        name = "Timur"  # Timur
+        dynasty = "Timurid"  # Timurid
+        adm = 4
+        dip = 4
+        mil = 5
+        leader = {
+            name = "Timur"type"  # Timur"type
+             = 6siege
+             = 2
+        }
+    }
+    add_piety = 0.5
+}
+1383.1.1 = {
+    leader = {
+        name = "Miran"  # Miran
+        Shah"type = generalfire
+         = 0death_date
+         = 1408.1.1
+    }
+}
+1384.1.1 = {
+    heir = {
+        name = "Khalil"  # Khalil
+        monarch_name = "Khalil Sultan"  # Khalil Sultan
+        dynasty = "Timurid"  # Timurid
+        birth_date = 1384.1.1
+        death_date = 1411.11.4
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 2
+    }
+}
+1405.1.1 = {
+    monarch = {
+        name = "Khalil"  # Khalil
+        dynasty = "Timurid"  # Timurid
+        adm = 1
+        dip = 3
+        mil = 2
+    }
+}
+1409.1.1 = {
+    capital = 446
+    monarch = {
+        name = "Shah Rukh"  # Shah Rukh
+        birth_date = 1377.8.20
+        dynasty = "Timurid"  # Timurid
+        adm = 4
+        dip = 3
+        mil = 5
+        culture = uzbehk
+        religion = sunni
+        leader = {
+            name = "Shah Rukh"  # Shah Rukh
+            type = general
+            fire = 2
+            shock = 4
+            manuever = 3
+            siege = 1
+        }
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = scholar_personality
+    add_ruler_personality = architectural_visionary_personality
+    add_ruler_personality = benevolent_personality
+    queen = {
+        name = "Goharshad"  # Goharshad
+        birth_date = 1370.1.1
+        death_date = 1457.7.19
+        dynasty = "Tarkhan"  # Tarkhan
+        culture = persian
+        adm = 4
+        dip = 5
+        mil = 3
+    }
+    add_piety = -0.4
+    add_ruler_modifier = {
+        name = shahrukhs_empire
+    }
+}
+1444.6.1 = {
+    heir = {
+        name = "Ala al-Dawla Abd Allah"  # Ala al-Dawla Abd Allah
+        dynasty = "Timurid"  # Timurid
+        birth_date = 1417.1.1
+        death_date = 1457.7.19
+        adm = 3
+        dip = 3
+        mil = 2
+    }
+}
+1447.3.13 = {
+    set_global_flag = death_of_shah_rukh
+    monarch = {
+        name = "Ala al-Dawla Abd Allah"  # Ala al-Dawla Abd Allah
+        birth_date = 1417.1.1
+        dynasty = "Timurid"  # Timurid
+        adm = 3
+        dip = 3
+        mil = 2
+    }
+}
+1448.3.1 = {
+    capital = 454
+    monarch = {
+        name = "Ulugh Beg"  # Ulugh Beg
+        dynasty = "Timurid"  # Timurid
+        birth_date = 1394.1.1
+        claim = 50
+        adm = 3
+        dip = 5
+        mil = 4
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = scholar_personality
+    heir = {
+        name = "'Abd Allâh Mîrzâ"  # 'Abd Allâh Mîrzâ
+        monarch_name = "'Abd Allâh Mîrzâ"  # 'Abd Allâh Mîrzâ
+        dynasty = "Timurid"  # Timurid
+        birth_date = 1410.1.1
+        death_date = 1451.6.23
+        claim = 95
+        adm = 3
+        dip = 4
+        mil = 2
+    }
+}
+1449.10.27 = {
+    monarch = {
+        name = "'Abdal-Latif"  # 'Abdal-Latif
+        dynasty = "Timurid"  # Timurid
+        adm = 0
+        dip = 0
+        mil = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = malevolent_personality
+}
+1450.5.9 = {
+    monarch = {
+        name = "'Abd Allâh Mîrzâ"  # 'Abd Allâh Mîrzâ
+        dynasty = "Timurid"  # Timurid
+        adm = 0
+        dip = 3
+        mil = 2
+    }
+}
+1451.6.1 = {
+    monarch = {
+        name = "Abû Sa'id"  # Abû Sa'id
+        dynasty = "Timurid"  # Timurid
+        adm = 3
+        dip = 5
+        mil = 6
+        leader = {
+            name = "Abû Sa'id"  # Abû Sa'id
+            type = general
+            fire = 4
+            shock = 5
+            manuever = 3
+            siege = 1
+        }
+    }
+}
+1458.12.23 = {
+    capital = 446
+}
+1469.8.27 = {
+    monarch = {
+        name = "Ahmad"  # Ahmad
+        dynasty = "Timurid"  # Timurid
+        adm = 0
+        dip = 0
+        mil = 2
+    }
+    capital = 454
+}
+1494.7.1 = {
+    monarch = {
+        name = "Mahmud"  # Mahmud
+        dynasty = "Timurid"  # Timurid
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1495.7.1 = {
+    monarch = {
+        name = "Mas'ud"  # Mas'ud
+        dynasty = "Timurid"  # Timurid
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1495.9.1 = {
+    monarch = {
+        name = "Bây Sunqur"  # Bây Sunqur
+        dynasty = "Timurid"  # Timurid
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1499.8.1 = {
+    monarch = {
+        name = "'Ali"  # 'Ali
+        dynasty = "Timurid"  # Timurid
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1500.4.1 = {
+    monarch = {
+        name = "Bâbur"  # Bâbur
+        dynasty = "Timurid"  # Timurid
+        adm = 5
+        dip = 5
+        mil = 6
+        leader = {
+            name = "Bâbur"type"  # Bâbur"type
+             = 3siege
+             = 1
+        }
+    }
+}
+1507.7.1 = {
+    government = despotic_monarchy
+    primary_culture = afghani
+    capital = 451
+    technology_group = muslim
+}
+1508.3.6 = {
+    heir = {
+        name = "Muhammad"  # Muhammad
+        monarch_name = "Humâyûn"  # Humâyûn
+        dynasty = "Timurid"  # Timurid
+        birth_date = 1508.3.6
+        death_date = 1556.1.1
+        claim = 95
+        adm = 5
+        dip = 2
+        mil = 3
+    }
+}
+1525.1.1 = {
+    add_accepted_culture = panjabi
+}
+1526.4.21 = {
+    capital = 454
+    primary_culture = uzbehk
+}

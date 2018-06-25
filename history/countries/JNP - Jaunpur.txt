@@ -1,0 +1,232 @@
+﻿government = iqta
+technology_group = indian
+religion = sunni
+primary_culture = avadhi
+capital = 555
+fixed_capital = 555
+religious_school = hanafi_school
+1399.1.1 = {
+    monarch = {
+        name = "Mubarak Shah"  # Mubarak Shah
+        dynasty = "Sharqi"  # Sharqi
+        ADM = 2
+        DIP = 1
+        MIL = 3
+    }
+}
+1399.1.1 = {
+    heir = {
+        name = "Malik Qaranfal"  # Malik Qaranfal
+        monarch_name = "Mubarrak Shah"  # Mubarrak Shah
+        dynasty = "Sharqi"  # Sharqi
+        claim = 75
+        birth_date = 1370.1.1
+        death_date = 1402.1.1
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+}
+1401.1.1 = {
+    heir = {
+        name = "Ibrahim"  # Ibrahim
+        monarch_name = "Ibrahim Shah"  # Ibrahim Shah
+        dynasty = "Sharqi"  # Sharqi
+        birth_date = 1380.1.1
+        death_date = 1436.1.1
+        claim = 95
+        ADM = 2
+        DIP = 1
+        MIL = 3
+    }
+}
+1402.1.1 = {
+    monarch = {
+        name = "Ibrahim Shah"  # Ibrahim Shah
+        dynasty = "Sharqi"  # Sharqi
+        ADM = 2
+        DIP = 1
+        MIL = 3
+    }
+}
+1402.1.1 = {
+    heir = {
+        name = "Mahmud"  # Mahmud
+        monarch_name = "Mahmud Shah"  # Mahmud Shah
+        dynasty = "Sharqi"  # Sharqi
+        claim = 95
+        birth_date = 1402.1.1
+        death_date = 1457.1.1
+        ADM = 5
+        DIP = 2
+        MIL = 2
+    }
+}
+1436.1.1 = {
+    monarch = {
+        name = "Mahmud Shah"  # Mahmud Shah
+        dynasty = "Sharqi"  # Sharqi
+        ADM = 5
+        DIP = 2
+        MIL = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = craven_personality
+    heir = {
+        name = "Bhikhan"  # Bhikhan
+        monarch_name = "Muhammad Shah"  # Muhammad Shah
+        dynasty = "Sharqi"  # Sharqi
+        claim = 95
+        birth_date = 1436.1.1
+        death_date = 1458.6.1
+        ADM = 3
+        DIP = 1
+        MIL = 2
+    }
+    add_heir_personality = naive_personality
+}
+1457.1.1 = {
+    monarch = {
+        name = "Muhammad Shah"  # Muhammad Shah
+        dynasty = "Sharqi"  # Sharqi
+        ADM = 3
+        DIP = 1
+        MIL = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = naive_personality
+}
+1457.1.1 = {
+    heir = {
+        name = "Hussain"  # Hussain
+        monarch_name = "Hussain Shah"  # Hussain Shah
+        dynasty = "Sharqi"  # Sharqi
+        birth_date = 1437.1.1
+        death_date = 1486.1.1
+        claim = 85
+        ADM = 4
+        DIP = 0
+        MIL = 3
+    }
+    clear_scripted_personalities = yes
+    add_heir_personality = strict_personality
+}
+1458.6.1 = {
+    monarch = {
+        name = "Hussain Shah"  # Hussain Shah
+        dynasty = "Sharqi"  # Sharqi
+        ADM = 4
+        DIP = 0
+        MIL = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = strict_personality
+}
+1553.1.1 = {
+    monarch = {
+        name = "Adil"  # Adil
+        dynasty = "Suri"  # Suri
+        ADM = 2
+        DIP = 2
+        MIL = 3
+    }
+}
+1553.1.1 = {
+    heir = {
+        name = "Sher Khan"  # Sher Khan
+        monarch_name = "Sher Khan"  # Sher Khan
+        dynasty = "Suri"  # Suri
+        birth_date = 1520.1.1
+        death_date = 1561.1.1
+        claim = 85
+        ADM = 1
+        DIP = 1
+        MIL = 4
+    }
+}
+1557.4.1 = {
+    monarch = {
+        name = "Sher Khan"  # Sher Khan
+        dynasty = "Suri"  # Suri
+        ADM = 1
+        DIP = 1
+        MIL = 4
+    }
+}
+1738.1.1 = {
+    monarch = {
+        name = "Balwant Singh"  # Balwant Singh
+        dynasty = "Narayan"  # Narayan
+        ADM = 3
+        DIP = 3
+        MIL = 3
+    }
+    religion = hinduism
+    primary_culture = bihari
+}
+1740.1.1 = {
+    heir = {
+        name = "Chait Singh"  # Chait Singh
+        monarch_name = "Chait Singh"  # Chait Singh
+        dynasty = "Narayan"  # Narayan
+        birth_date = 1730.1.1
+        death_date = 1810.1.1
+        claim = 95
+        ADM = 2
+        DIP = 3
+        MIL = 2
+    }
+}
+1770.8.19 = {
+    monarch = {
+        name = "Chait Singh"  # Chait Singh
+        dynasty = "Narayan"  # Narayan
+        ADM = 2
+        DIP = 3
+        MIL = 2
+    }
+}
+1770.8.19 = {
+    heir = {
+        name = "Mahipat Singh"  # Mahipat Singh
+        monarch_name = "Mahipat Singh"  # Mahipat Singh
+        dynasty = "Narayan"  # Narayan
+        birth_date = 1756.1.1
+        death_date = 1795.9.12
+        claim = 95
+        ADM = 1
+        DIP = 1
+        MIL = 1
+    }
+}
+1781.9.14 = {
+    monarch = {
+        name = "Mahipat Singh"  # Mahipat Singh
+        dynasty = "Narayan"  # Narayan
+        ADM = 2
+        DIP = 1
+        MIL = 2
+    }
+}
+1781.9.14 = {
+    heir = {
+        name = "Udit Singh"  # Udit Singh
+        monarch_name = "Udit Singh"  # Udit Singh
+        dynasty = "Narayan"  # Narayan
+        birth_date = 1770.1.1
+        death_date = 1835.4.4
+        claim = 95
+        ADM = 0
+        DIP = 1
+        MIL = 1
+    }
+}
+1795.9.12 = {
+    monarch = {
+        name = "Udit Singh"  # Udit Singh
+        dynasty = "Narayan"  # Narayan
+        ADM = 0
+        DIP = 1
+        MIL = 1
+    }
+}

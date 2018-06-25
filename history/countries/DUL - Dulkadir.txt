@@ -1,0 +1,179 @@
+﻿government = despotic_monarchy
+government_rank = 1
+primary_culture = turkish
+religion = sunni
+technology_group = ottoman
+capital = 332
+religious_school = hanafi_school
+1398.1.1 = {
+    monarch = {
+        name = "Mehmed"  # Mehmed
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1366.1.1
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+    add_piety = 0.25
+}
+1398.1.1 = {
+    heir = {
+        name = "Sülaymân"  # Sülaymân
+        monarch_name = "Sülaymân"  # Sülaymân
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1398.1.1
+        death_date = 1454.1.1
+        claim = 95
+        adm = 2
+        dip = 4
+        mil = 2
+    }
+}
+1442.1.1 = {
+    monarch = {
+        name = "Sülaymân"  # Sülaymân
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1398.1.1
+        adm = 2
+        dip = 4
+        mil = 2
+    }
+}
+1442.1.1 = {
+    heir = {
+        name = "Melik"  # Melik
+        monarch_name = "Melik Arslan"  # Melik Arslan
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1428.1.1
+        death_date = 1465.1.1
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1454.1.1 = {
+    monarch = {
+        name = "Melik Arslan"  # Melik Arslan
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1428.1.1
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1454.1.1 = {
+    heir = {
+        name = "Budak"  # Budak
+        monarch_name = "Sâh Budak"  # Sâh Budak
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1430.1.1
+        death_date = 1492.10.1
+        claim = 75
+        adm = 1
+        dip = 0
+        mil = 2
+    }
+}
+1465.1.1 = {
+    monarch = {
+        name = "Sâh Budak"  # Sâh Budak
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1430.1.1
+        adm = 1
+        dip = 0
+        mil = 2
+    }
+}
+1465.1.1 = {
+    heir = {
+        name = "Sahsuvar"  # Sahsuvar
+        monarch_name = "Sahsuvar"  # Sahsuvar
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1430.1.1
+        death_date = 1472.1.1
+        claim = 75
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1466.10.1 = {
+    monarch = {
+        name = "Sahsuvar"  # Sahsuvar
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1430.1.1
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1466.10.1 = {
+    heir = {
+        name = "Budak"  # Budak
+        monarch_name = "Sah Budak"  # Sah Budak
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1450.1.1
+        death_date = 1492.1.1
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 2
+    }
+}
+1472.1.1 = {
+    monarch = {
+        name = "Sah Budak"  # Sah Budak
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1450.1.1
+        adm = 1
+        dip = 0
+        mil = 2
+    }
+}
+1472.1.1 = {
+    heir = {
+        name = "Alaüddevle"  # Alaüddevle
+        monarch_name = "Alaüddevle Bozkurt"  # Alaüddevle Bozkurt
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1460.1.1
+        death_date = 1515.6.1
+        claim = 95
+        adm = 4
+        dip = 1
+        mil = 2
+    }
+}
+1479.1.1 = {
+    monarch = {
+        name = "Alaüddevle Bozkurt"  # Alaüddevle Bozkurt
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1460.1.1
+        adm = 4
+        dip = 1
+        mil = 2
+    }
+}
+1479.1.1 = {
+    heir = {
+        name = "Ali"  # Ali
+        monarch_name = "Sahsuvaroglu Ali"  # Sahsuvaroglu Ali
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1479.1.1
+        death_date = 1540.1.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 3
+    }
+}
+1515.6.1 = {
+    monarch = {
+        name = "Sahsuvaroglu Ali"  # Sahsuvaroglu Ali
+        dynasty = "Dulkadiroglu"  # Dulkadiroglu
+        birth_date = 1479.1.1
+        adm = 1
+        dip = 1
+        mil = 3
+    }
+}

@@ -1,0 +1,325 @@
+﻿government = feudal_theocracy
+primary_culture = yemeni_culture
+religion = shiite
+technology_group = muslim
+capital = 390
+government_rank = 1
+religious_school = zaidi_school
+1436.1.1 = {
+    monarch = {
+        name = "Al-Mutahhar"  # Al-Mutahhar
+        dynasty = "al-Mutahhar"  # al-Mutahhar
+        adm = 3
+        dip = 1
+        mil = 4
+    }
+    add_piety = 1
+}
+1474.1.1 = {
+    monarch = {
+        name = "Al-Mansur Muhammad"  # Al-Mansur Muhammad
+        dynasty = "al-Mutahhar"  # al-Mutahhar
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+    add_piety = 1
+}
+1504.1.1 = {
+    capital = 4282
+}
+1506.1.1 = {
+    monarch = {
+        name = "Yahya Sharaf ad-Din"  # Yahya Sharaf ad-Din
+        dynasty = "al-Mutahhar"  # al-Mutahhar
+        adm = 3
+        dip = 1
+        mil = 4
+    }
+    add_piety = 1
+}
+1517.1.1 = {
+    capital = 390
+}
+1547.1.1 = {
+    capital = 4282
+}
+1555.1.1 = {
+    monarch = {
+        name = "Al-Mutahhar"  # Al-Mutahhar
+        dynasty = "al-Mutahhar"  # al-Mutahhar
+        adm = 3
+        dip = 1
+        mil = 4
+    }
+    add_piety = 1
+}
+1566.1.1 = {
+    capital = 390
+}
+1568.1.1 = {
+    capital = 4282
+}
+1579.1.1 = {
+    monarch = {
+        name = "Al-Hasan"  # Al-Hasan
+        dynasty = "al-Mutahhar"  # al-Mutahhar
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+    add_piety = 1
+}
+1597.1.1 = {
+    monarch = {
+        name = "al-Qâsim"  # al-Qâsim
+        dynasty = "Qasimid"  # Qasimid
+        adm = 4
+        dip = 3
+        mil = 5
+    }
+    add_piety = 1
+}
+1597.1.1 = {
+    heir = {
+        name = "Muhammad"  # Muhammad
+        monarch_name = "Muhammad I"  # Muhammad I
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1582.1.1
+        death_date = 1644.9.30
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 3
+    }
+}
+1620.2.18 = {
+    monarch = {
+        name = "Muhammad I"  # Muhammad I
+        dynasty = "Qasimid"  # Qasimid
+        adm = 2
+        dip = 3
+        mil = 3
+    }
+    add_piety = 1
+}
+1620.2.18 = {
+    heir = {
+        name = "Ismâ'îl"  # Ismâ'îl
+        monarch_name = "Ismâ'îl"  # Ismâ'îl
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1610.1.1
+        death_Date = 1676.8.15
+        claim = 95
+        adm = 2
+        dip = 4
+        mil = 1
+    }
+}
+1644.9.30 = {
+    monarch = {
+        name = "Ismâ'îl"  # Ismâ'îl
+        dynasty = "Qasimid"  # Qasimid
+        adm = 2
+        dip = 4
+        mil = 1
+    }
+}
+1644.9.30 = {
+    heir = {
+        name = "Ahmad"  # Ahmad
+        monarch_name = "Ahmad I"  # Ahmad I
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1633.1.1
+        death_Date = 1681.6.1
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 2
+    }
+}
+1676.7.15 = {
+    monarch = {
+        name = "Ahmad I"  # Ahmad I
+        dynasty = "Qasimid"  # Qasimid
+        adm = 1
+        dip = 3
+        mil = 2
+    }
+}
+1676.7.15 = {
+    heir = {
+        name = "Muhammad"  # Muhammad
+        monarch_name = "Muhammad II"  # Muhammad II
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1650.1.1
+        death_Date = 1686.1.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1681.6.1 = {
+    monarch = {
+        name = "Muhammad II"  # Muhammad II
+        dynasty = "Qasimid"  # Qasimid
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1681.6.1 = {
+    heir = {
+        name = "Muhammad"  # Muhammad
+        monarch_name = "Muhammad III"  # Muhammad III
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1660.1.1
+        death_date = 1718.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1686.1.1 = {
+    monarch = {
+        name = "Muhammad III"  # Muhammad III
+        dynasty = "Qasimid"  # Qasimid
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1686.1.1 = {
+    heir = {
+        name = "al-Qásim"  # al-Qásim
+        monarch_name = "al-Qásim I"  # al-Qásim I
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1670.1.1
+        death_date = 1727.1.1
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 4
+    }
+}
+1718.1.1 = {
+    monarch = {
+        name = "al-Qâsim I"  # al-Qâsim I
+        dynasty = "Qasimid"  # Qasimid
+        adm = 2
+        dip = 1
+        mil = 4
+    }
+}
+1718.1.1 = {
+    heir = {
+        name = "al-Husayn"  # al-Husayn
+        monarch_name = "al-Husayn"  # al-Husayn
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1700.1.1
+        death_date = 1748.3.6
+        claim = 95
+        adm = 0
+        dip = 3
+        mil = 2
+    }
+}
+1727.1.1 = {
+    monarch = {
+        name = "al-Husayn"  # al-Husayn
+        dynasty = "Qasimid"  # Qasimid
+        adm = 0
+        dip = 3
+        mil = 2
+    }
+}
+1727.1.1 = {
+    heir = {
+        name = "al-'Abbâs"  # al-'Abbâs
+        monarch_name = "al-'Abbâs"  # al-'Abbâs
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1719.1.1
+        death_date = 1775.9.4
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1748.3.6 = {
+    monarch = {
+        name = "al-'Abbâs"  # al-'Abbâs
+        dynasty = "Qasimid"  # Qasimid
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1748.3.6 = {
+    heir = {
+        name = "'Alî"  # 'Alî
+        monarch_name = "'Alî I"  # 'Alî I
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1738.1.1
+        death_date = 1809.10.25
+        claim = 95
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1775.1.1 = {
+    monarch = {
+        name = "'Alî I"  # 'Alî I
+        dynasty = "Qasimid"  # Qasimid
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1775.1.1 = {
+    heir = {
+        name = "Ahmad"  # Ahmad
+        monarch_name = "Ahmad II"  # Ahmad II
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1765.1.1
+        death_date = 1816.1.1
+        claim = 95
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+}
+1809.1.1 = {
+    monarch = {
+        name = "Ahmad II"  # Ahmad II
+        dynasty = "Qasimid"  # Qasimid
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+}
+1809.1.1 = {
+    heir = {
+        name = "Abdallah"  # Abdallah
+        monarch_name = " Abdallah I"  #  Abdallah I
+        dynasty = "Qasimid"  # Qasimid
+        birth_date = 1793.1.1
+        death_date = 1835.11.28
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 3
+    }
+}
+1816.1.1 = {
+    monarch = {
+        name = "Abdallah I"  # Abdallah I
+        dynasty = "Qasimid"  # Qasimid
+        adm = 2
+        dip = 3
+        mil = 3
+    }
+}

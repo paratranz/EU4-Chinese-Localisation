@@ -1,0 +1,68 @@
+﻿government = principality
+government_rank = 1
+primary_culture = ryazanian
+religion = orthodox
+technology_group = eastern
+capital = 301
+fixed_capital = 301
+1372.1.1 = {
+    monarch = {
+        name = "Oleg Ivanovich"  # Oleg Ivanovich
+        dynasty = "Rurikovich"  # Rurikovich
+        adm = 1
+        dip = 3
+        mil = 1
+    }
+}
+1372.1.1 = {
+    heir = {
+        name = "Fyodor Olegovich"  # Fyodor Olegovich
+        monarch_name = "Fyodor Olegovich"  # Fyodor Olegovich
+        dynasty = "Rurikovich"  # Rurikovich
+        birth_date = 1372.1.1
+        death_date = 1427.1.1
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1402.1.1 = {
+    monarch = {
+        name = "Fyodor Olegovich"  # Fyodor Olegovich
+        dynasty = "Rurikovich"  # Rurikovich
+        birth_date = 1372.1.1
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1402.1.1 = {
+    heir = {
+        name = "Ivan Fyodorovich"  # Ivan Fyodorovich
+        monarch_name = "Ivan Fyodorovich"  # Ivan Fyodorovich
+        dynasty = "Rurikovich"  # Rurikovich
+        birth_date = 1402.1.1
+        death_date = 1456.1.1
+        claim = 95
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+}
+1427.1.1 = {
+    monarch = {
+        name = "Ivan Fyodorovich"  # Ivan Fyodorovich
+        dynasty = "Rurikovich"  # Rurikovich
+        birth_date = 1402.1.1
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = zealot_personality
+    add_ruler_personality = craven_personality
+}
+1454.1.1 = {
+    government_rank = 1
+}

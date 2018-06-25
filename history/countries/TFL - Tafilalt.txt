@@ -1,0 +1,134 @@
+﻿government = tribal_despotism
+government_rank = 1
+primary_culture = moroccan
+religion = sunni
+technology_group = muslim
+capital = 346
+fixed_capital = 346
+religious_school = maliki_school
+1472.1.1 = {
+    monarch = {
+        name = "Muhammad al-Qaim"  # Muhammad al-Qaim
+        dynasty = "Saadi"  # Saadi
+        adm = 4
+        dip = 5
+        mil = 4
+    }
+    add_piety = 1.0
+}
+1486.1.1 = {
+    heir = {
+        name = "Ahmad"  # Ahmad
+        monarch_name = "Ahmad al-Araj"  # Ahmad al-Araj
+        dynasty = "Saadi"  # Saadi
+        birth_date = 1486.1.1
+        death_Date = 1557.1.1
+        claim = 95
+        adm = 4
+        dip = 3
+        mil = 5
+    }
+}
+1509.1.1 = {
+    monarch = {
+        name = "Ahmad al-Araj"  # Ahmad al-Araj
+        dynasty = "Saadi"  # Saadi
+        adm = 4
+        dip = 3
+        mil = 5
+    }
+    add_piety = 1.0
+}
+1509.1.1 = {
+    heir = {
+        name = "Mohammed"  # Mohammed
+        monarch_name = "Mohammed ash-Sheikh"  # Mohammed ash-Sheikh
+        dynasty = "Saadi"  # Saadi
+        birth_date = 1490.1.1
+        death_Date = 1557.10.23
+        claim = 95
+        adm = 4
+        dip = 4
+        mil = 5
+    }
+}
+1544.1.1 = {
+    monarch = {
+        name = "Mohammed ash-Sheikh"  # Mohammed ash-Sheikh
+        dynasty = "Saadi"  # Saadi
+        adm = 4
+        dip = 4
+        mil = 5
+    }
+    add_piety = 1.0
+}
+1544.6.1 = {
+    heir = {
+        name = "Abdallah"  # Abdallah
+        monarch_name = "Abdallah al-Ghalib"  # Abdallah al-Ghalib
+        dynasty = "Saadi"  # Saadi
+        birth_date = 1527.6.1
+        death_Date = 1574.1.21
+        claim = 95
+        adm = 6
+        dip = 3
+        mil = 4
+    }
+}
+1557.10.23 = {
+    monarch = {
+        name = "Abdallah al-Ghalib"  # Abdallah al-Ghalib
+        dynasty = "Saadi"  # Saadi
+        adm = 6
+        dip = 3
+        mil = 4
+    }
+}
+1631.1.1 = {
+    monarch = {
+        name = "Moulay Ali Cherif"  # Moulay Ali Cherif
+        dynasty = "Alaouite"  # Alaouite
+        adm = 4
+        dip = 4
+        mil = 5
+    }
+    add_piety = 1.0
+}
+1631.1.1 = {
+    heir = {
+        name = "Muhammad"  # Muhammad
+        monarch_name = "Muhammad ibn Sharif"  # Muhammad ibn Sharif
+        dynasty = "Saadi"  # Saadi
+        birth_date = 1490.1.1
+        death_Date = 1668.8.2
+        claim = 95
+        adm = 3
+        dip = 4
+        mil = 5
+    }
+}
+1659.6.5 = {
+    monarch = {
+        name = "Muhammad ibn Sharif"  # Muhammad ibn Sharif
+        dynasty = "Alaouite"  # Alaouite
+        adm = 3
+        dip = 4
+        mil = 5
+    }
+    add_piety = 1.0
+}
+1668.8.2 = {
+    monarch = {
+        name = "ar-Rashid"  # ar-Rashid
+        dynasty = "Alaouite"  # Alaouite
+        adm = 4
+        dip = 3
+        mil = 5
+        leader = {
+            name = "ar-Rashid"type"  # ar-Rashid"type
+             = 4siege
+             = 1
+        }
+    }
+    add_piety = 1.0
+}
