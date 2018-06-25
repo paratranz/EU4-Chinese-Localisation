@@ -1,0 +1,929 @@
+﻿government = despotic_monarchy
+government_rank = 3
+primary_culture = amhara
+religion = coptic
+technology_group = east_african
+unit_type = sub_saharan
+capital = 1224
+1382.1.1 = {
+    monarch = {
+        name = "Dawit I"  # Dawit I
+        dynasty = "Solomonid"  # Solomonid
+        adm = 3
+        dip = 0
+        mil = 1
+    }
+}
+1385.1.1 = {
+    heir = {
+        name = "Tewodros"  # Tewodros
+        monarch_name = "Tewodros I"  # Tewodros I
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1385.1.1
+        death_date = 1414.1.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1413.10.6 = {
+    monarch = {
+        name = "Tewodros I"  # Tewodros I
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1413.10.6 = {
+    heir = {
+        name = "Yeshaq"  # Yeshaq
+        monarch_name = "Yeshaq I"  # Yeshaq I
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1405.1.1
+        death_date = 1429.1.1
+        claim = 95
+        adm = 0
+        dip = 3
+        mil = 2
+    }
+}
+1414.1.1 = {
+    monarch = {
+        name = "Yeshaq I"  # Yeshaq I
+        dynasty = "Solomonid"  # Solomonid
+        adm = 0
+        dip = 3
+        mil = 2
+    }
+}
+1414.1.1 = {
+    heir = {
+        name = "Andreyas"  # Andreyas
+        monarch_name = "Andreyas"  # Andreyas
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1400.1.1
+        death_date = 1430.1.1
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1429.1.1 = {
+    monarch = {
+        name = "Andreyas"  # Andreyas
+        dynasty = "Solomonid"  # Solomonid
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1429.1.1 = {
+    heir = {
+        name = "Takla Maryam"  # Takla Maryam
+        monarch_name = "Takla Maryam"  # Takla Maryam
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1410.1.1
+        death_date = 1433.1.1
+        claim = 95
+        adm = 0
+        dip = 3
+        mil = 0
+    }
+}
+1430.1.1 = {
+    monarch = {
+        name = "Takla Maryam"  # Takla Maryam
+        dynasty = "Solomonid"  # Solomonid
+        adm = 0
+        dip = 3
+        mil = 0
+    }
+}
+1430.1.1 = {
+    heir = {
+        name = "Amda Iyasus"  # Amda Iyasus
+        monarch_name = "Amda Iyasus"  # Amda Iyasus
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1410.1.1
+        death_date = 1434.6.2
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+}
+1433.1.1 = {
+    monarch = {
+        name = "Amda Iyasus"  # Amda Iyasus
+        dynasty = "Solomonid"  # Solomonid
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+}
+1433.1.1 = {
+    heir = {
+        name = "Zar'a Quastantînôs"  # Zar'a Quastantînôs
+        monarch_name = "Zar'a Quastantînôs III"  # Zar'a Quastantînôs III
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1410.1.1
+        death_date = 1468.9.7
+        claim = 95
+        adm = 6
+        dip = 5
+        mil = 5
+    }
+}
+1434.6.2 = {
+    monarch = {
+        name = "Zara Yakob"  # Zara Yakob
+        dynasty = "Solomonid"  # Solomonid
+        adm = 6
+        dip = 5
+        mil = 5
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = zealot_personality
+    add_ruler_personality = righteous_personality
+}
+1434.6.2 = {
+    heir = {
+        name = "Ba'eda Mâryâm"  # Ba'eda Mâryâm
+        monarch_name = "Ba'eda Mâryâm II"  # Ba'eda Mâryâm II
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1420.1.1
+        death_date = 1478.10.17
+        claim = 95
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1468.9.7 = {
+    monarch = {
+        name = "Ba'eda Mâryâm II"  # Ba'eda Mâryâm II
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1468.9.7 = {
+    heir = {
+        name = "Quastantînôs"  # Quastantînôs
+        monarch_name = "Quastantînôs IV"  # Quastantînôs IV
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1440.1.1
+        death_date = 1492.1.1
+        claim = 95
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+}
+1478.10.17 = {
+    monarch = {
+        name = "Quastantînôs IV"  # Quastantînôs IV
+        dynasty = "Solomonid"  # Solomonid
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+}
+1478.10.17 = {
+    heir = {
+        name = "'Amda Seyôn"  # 'Amda Seyôn
+        monarch_name = "'Amda Seyôn II"  # 'Amda Seyôn II
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1470.1.1
+        death_Date = 1494.11.2
+        claim = 95
+        adm = 1
+        dip = 2
+        mil = 0
+    }
+}
+1492.1.1 = {
+    monarch = {
+        name = "'Amda Seyôn II"  # 'Amda Seyôn II
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 2
+        mil = 0
+    }
+}
+1492.1.1 = {
+    heir = {
+        name = "Nâ'ôd"  # Nâ'ôd
+        monarch_name = "Nâ'ôd I"  # Nâ'ôd I
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1475.1.1
+        death_date = 1508.7.30
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 3
+    }
+}
+1494.11.2 = {
+    monarch = {
+        name = "Nâ'ôd I"  # Nâ'ôd I
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 1
+        mil = 3
+    }
+}
+1494.11.2 = {
+    heir = {
+        name = "Lebna Dengel Dâwît"  # Lebna Dengel Dâwît
+        monarch_name = "Lebna Dengel Dâwît II"  # Lebna Dengel Dâwît II
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1490.1.1
+        death_date = 1540.8.3
+        claim = 95
+        adm = 2
+        dip = 0
+        mil = 0
+    }
+}
+1508.7.30 = {
+    monarch = {
+        name = "Lebna Dengel Dâwît II"  # Lebna Dengel Dâwît II
+        dynasty = "Solomonid"  # Solomonid
+        adm = 2
+        dip = 0
+        mil = 0
+    }
+}
+1520.1.1 = {
+    heir = {
+        name = "Galâwdêwôs"  # Galâwdêwôs
+        monarch_name = "Galâwdêwôs"  # Galâwdêwôs
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1520.1.1
+        death_date = 1559.3.24
+        claim = 95
+        adm = 3
+        dip = 6
+        mil = 5
+    }
+}
+1540.8.3 = {
+    monarch = {
+        name = "Galâwdêwôs"  # Galâwdêwôs
+        dynasty = "Solomonid"  # Solomonid
+        adm = 3
+        dip = 6
+        mil = 5
+    }
+}
+1559.3.24 = {
+    heir = {
+        name = "Mînâs"  # Mînâs
+        monarch_name = "Mînâs"  # Mînâs
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1559.3.24
+        death_date = 1568.1.24
+        claim = 95
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1559.3.25 = {
+    monarch = {
+        name = "Mînâs"  # Mînâs
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1559.3.25 = {
+    heir = {
+        name = "Sarsa Dengel"  # Sarsa Dengel
+        monarch_name = "Sarsa Dengel"  # Sarsa Dengel
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1550.1.1
+        death_date = 1597.7.3
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 6
+        leader = {
+            name = "Sarsa"  # Sarsa
+            Dengel" = generalfire
+             = 4siege
+             = 0
+        }
+    }
+}
+1568.1.24 = {
+    monarch = {
+        name = "Sarsa Dengel"  # Sarsa Dengel
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 3
+        mil = 6
+        leader = {
+            name = "Sarsa"  # Sarsa
+            Dengel" = generalfire
+             = 4siege
+             = 0
+        }
+    }
+}
+1570.1.1 = {
+    heir = {
+        name = "Yâ'qob"  # Yâ'qob
+        monarch_name = "Yâ'qob"  # Yâ'qob
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1570.1.1
+        death_date = 1607.3.11
+        claim = 95
+        adm = 0
+        dip = 1
+        mil = 2
+    }
+}
+1597.7.3 = {
+    monarch = {
+        name = "Yâ'qob"  # Yâ'qob
+        dynasty = "Solomonid"  # Solomonid
+        adm = 0
+        dip = 1
+        mil = 2
+    }
+}
+1597.7.3 = {
+    heir = {
+        name = "Sûsenyôs"  # Sûsenyôs
+        monarch_name = "Sûsenyôs"  # Sûsenyôs
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1572.1.1
+        death_date = 1632.9.15
+        claim = 95
+        adm = 0
+        dip = 5
+        mil = 2
+    }
+}
+1607.3.11 = {
+    monarch = {
+        name = "Sûsenyôs"  # Sûsenyôs
+        dynasty = "Solomonid"  # Solomonid
+        adm = 0
+        dip = 5
+        mil = 2
+    }
+}
+1607.3.11 = {
+    heir = {
+        name = "Fâsîladas"  # Fâsîladas
+        monarch_name = "Fâsîladas"  # Fâsîladas
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1603.1.1
+        death_date = 1667.10.18
+        claim = 95
+        adm = 5
+        dip = 1
+        mil = 1
+    }
+}
+1632.9.15 = {
+    monarch = {
+        name = "Fâsîladas"  # Fâsîladas
+        dynasty = "Solomonid"  # Solomonid
+        adm = 5
+        dip = 1
+        mil = 1
+    }
+}
+1632.9.15 = {
+    heir = {
+        name = "Yôhannes"  # Yôhannes
+        monarch_name = "Yôhannes I"  # Yôhannes I
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1630.1.1
+        death_date = 1682.7.20
+        claim = 95
+        adm = 5
+        dip = 0
+        mil = 2
+    }
+}
+1667.10.19 = {
+    monarch = {
+        name = "Yôhannes I"  # Yôhannes I
+        dynasty = "Solomonid"  # Solomonid
+        adm = 5
+        dip = 0
+        mil = 2
+    }
+}
+1667.10.19 = {
+    heir = {
+        name = "Iyâsû"  # Iyâsû
+        monarch_name = "Iyâsû I"  # Iyâsû I
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1660.1.1
+        death_date = 1706.3.2
+        claim = 95
+        adm = 4
+        dip = 6
+        mil = 6
+        leader = {
+            name = "Iyâsû"  # Iyâsû
+            I" = generalfire
+             = 3siege
+             = 0
+        }
+    }
+}
+1682.7.20 = {
+    monarch = {
+        name = "Iyâsû I"  # Iyâsû I
+        dynasty = "Solomonid"  # Solomonid
+        adm = 4
+        dip = 6
+        mil = 6
+        leader = {
+            name = "Iyâsû"  # Iyâsû
+            I" = generalfire
+             = 3siege
+             = 0
+        }
+    }
+}
+1682.7.20 = {
+    heir = {
+        name = "Taqla Hâymânôt"  # Taqla Hâymânôt
+        monarch_name = "Taqla Hâymânôt I"  # Taqla Hâymânôt I
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1680.1.1
+        death_date = 1708.6.2
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 0
+    }
+}
+1706.3.2 = {
+    monarch = {
+        name = "Taqla Hâymânôt I"  # Taqla Hâymânôt I
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 1
+        mil = 0
+    }
+}
+1706.3.2 = {
+    heir = {
+        name = "Têwôflôs"  # Têwôflôs
+        monarch_name = "Têwôflôs"  # Têwôflôs
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1690.1.1
+        death_date = 1711.10.15
+        claim = 95
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1708.6.2 = {
+    monarch = {
+        name = "Têwôflôs"  # Têwôflôs
+        dynasty = "Solomonid"  # Solomonid
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1708.6.2 = {
+    heir = {
+        name = "Yôstôs"  # Yôstôs
+        monarch_name = "Yôstôs"  # Yôstôs
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1690.1.1
+        death_date = 1716.1.20
+        claim = 95
+        adm = 0
+        dip = 1
+        mil = 0
+    }
+}
+1711.10.15 = {
+    monarch = {
+        name = "Yôstôs"  # Yôstôs
+        dynasty = "Solomonid"  # Solomonid
+        adm = 0
+        dip = 1
+        mil = 0
+    }
+}
+1711.10.15 = {
+    heir = {
+        name = "Dâwît"  # Dâwît
+        monarch_name = "Dâwît III"  # Dâwît III
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1700.1.1
+        death_date = 1721.5.19
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1716.1.20 = {
+    monarch = {
+        name = "Dâwît III"  # Dâwît III
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1716.1.20 = {
+    heir = {
+        name = "'Amsa Gîyôrgîs"  # 'Amsa Gîyôrgîs
+        monarch_name = "'Amsa Gîyôrgîs"  # 'Amsa Gîyôrgîs
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1700.1.1
+        death_date = 1730.9.20
+        claim = 95
+        adm = 5
+        dip = 2
+        mil = 3
+    }
+}
+1721.5.19 = {
+    monarch = {
+        name = "'Amsa Gîyôrgîs"  # 'Amsa Gîyôrgîs
+        dynasty = "Solomonid"  # Solomonid
+        adm = 5
+        dip = 2
+        mil = 3
+    }
+}
+1721.5.19 = {
+    heir = {
+        name = "Iyâsû"  # Iyâsû
+        monarch_name = "Iyâsû II"  # Iyâsû II
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1700.1.1
+        death_date = 1755.5.27
+        claim = 95
+        adm = 0
+        dip = 3
+        mil = 3
+    }
+}
+1730.9.20 = {
+    monarch = {
+        name = "Iyâsû II"  # Iyâsû II
+        dynasty = "Solomonid"  # Solomonid
+        adm = 0
+        dip = 3
+        mil = 3
+    }
+}
+1730.9.20 = {
+    heir = {
+        name = "'Iyâ'ôs"  # 'Iyâ'ôs
+        monarch_name = "'Iyâ'ôs"  # 'Iyâ'ôs
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1730.1.1
+        death_date = 1769.5.8
+        claim = 95
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1755.5.27 = {
+    monarch = {
+        name = "'Iyâ'ôs"  # 'Iyâ'ôs
+        dynasty = "Solomonid"  # Solomonid
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1755.5.27 = {
+    heir = {
+        name = "Yôhannes"  # Yôhannes
+        monarch_name = "Yôhannes II"  # Yôhannes II
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1720.1.1
+        death_date = 1769.10.18
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1769.5.8 = {
+    monarch = {
+        name = "Yôhannes II"  # Yôhannes II
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1769.5.8 = {
+    heir = {
+        name = "Tuqla Hâymânôt"  # Tuqla Hâymânôt
+        monarch_name = "Tuqla Hâymânôt II"  # Tuqla Hâymânôt II
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1750.1.1
+        death_Date = 1777.9.16
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1769.10.18 = {
+    monarch = {
+        name = "Tuqla Hâymânôt II"  # Tuqla Hâymânôt II
+        dynasty = "Solomonid"  # Solomonid
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1769.10.18 = {
+    heir = {
+        name = "Salômôn"  # Salômôn
+        monarch_name = "Salômôn"  # Salômôn
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1750.1.1
+        death_date = 1779.7.21
+        claim = 95
+        adm = 0
+        dip = 1
+        mil = 1
+    }
+}
+1777.9.16 = {
+    monarch = {
+        name = "Salômôn"  # Salômôn
+        dynasty = "Solomonid"  # Solomonid
+        adm = 0
+        dip = 1
+        mil = 1
+    }
+}
+1777.9.16 = {
+    heir = {
+        name = "Tuqla Gîyôrgîs"  # Tuqla Gîyôrgîs
+        monarch_name = "Tuqla Gîyôrgîs"  # Tuqla Gîyôrgîs
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1760.1.1
+        death_date = 1784.1.9
+        claim = 95
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1779.7.21 = {
+    monarch = {
+        name = "Tuqla Gîyôrgîs"  # Tuqla Gîyôrgîs
+        dynasty = "Solomonid"  # Solomonid
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1779.7.21 = {
+    heir = {
+        name = "Iyâsû"  # Iyâsû
+        monarch_name = "Iyâsû III"  # Iyâsû III
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1770.1.1
+        death_Date = 1788.4.25
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1784.1.9 = {
+    monarch = {
+        name = "Iyâsû III"  # Iyâsû III
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1784.1.9 = {
+    heir = {
+        name = "Tuqla Hâymânôt"  # Tuqla Hâymânôt
+        monarch_name = "Tuqla Hâymânôt III"  # Tuqla Hâymânôt III
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1760.1.1
+        death_date = 1789.6.27
+        claim = 95
+        adm = 0
+        dip = 1
+        mil = 0
+    }
+}
+1788.4.25 = {
+    monarch = {
+        name = "Tuqla Hâymânôt III"  # Tuqla Hâymânôt III
+        dynasty = "Solomonid"  # Solomonid
+        adm = 0
+        dip = 1
+        mil = 0
+    }
+}
+1788.4.25 = {
+    heir = {
+        name = "Hezqeyâs"  # Hezqeyâs
+        monarch_name = "Hezqeyâs"  # Hezqeyâs
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1760.1.1
+        death_date = 1794.1.1
+        claim = 95
+        adm = 1
+        dip = 2
+        mil = 2
+    }
+}
+1789.6.27 = {
+    monarch = {
+        name = "Hezqeyâs"  # Hezqeyâs
+        dynasty = "Solomonid"  # Solomonid
+        adm = 1
+        dip = 2
+        mil = 2
+    }
+}
+1789.6.27 = {
+    heir = {
+        name = "Gîyôrgîs Yohannes"  # Gîyôrgîs Yohannes
+        monarch_name = "Gîyôrgîs I Yohannes"  # Gîyôrgîs I Yohannes
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1760.1.1
+        death_Date = 1795.4.15
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1794.1.1 = {
+    monarch = {
+        name = "Gîyôrgîs I Yohannes"  # Gîyôrgîs I Yohannes
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}
+1794.1.1 = {
+    heir = {
+        name = "Mariam Salomon"  # Mariam Salomon
+        monarch_name = "Mariam III Salomon"  # Mariam III Salomon
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1780.1.1
+        death_Date = 1795.12.10
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1795.4.15 = {
+    monarch = {
+        name = "Mariam III Salomon"  # Mariam III Salomon
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}
+1795.4.15 = {
+    heir = {
+        name = "Gîyôrgîs Yohannes"  # Gîyôrgîs Yohannes
+        monarch_name = "Gîyôrgîs I Yohannes"  # Gîyôrgîs I Yohannes
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1770.1.1
+        death_Date = 1796.5.20
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1795.12.10 = {
+    monarch = {
+        name = "Gîyôrgîs I Yohannes"  # Gîyôrgîs I Yohannes
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}
+1795.12.10 = {
+    heir = {
+        name = "Salomon"  # Salomon
+        monarch_name = "Salomon III"  # Salomon III
+        dynasty = "Solomonid"  # Solomonid
+        birth_date = 1770.1.1
+        death_date = 1797.7.15
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1796.5.20 = {
+    monarch = {
+        name = "Salomon III"  # Salomon III
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}
+1797.7.15 = {
+    monarch = {
+        name = "Yonas Letezum"  # Yonas Letezum
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}
+1798.1.4 = {
+    monarch = {
+        name = "Gîyôrgîs I Yohannes"  # Gîyôrgîs I Yohannes
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}
+1799.5.22 = {
+    monarch = {
+        name = "Salomon III"  # Salomon III
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}
+1799.9.1 = {
+    monarch = {
+        name = "Demetros Arqedewos"  # Demetros Arqedewos
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}
+1800.3.24 = {
+    monarch = {
+        name = "Gîyôrgîs I Yohannes"  # Gîyôrgîs I Yohannes
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}
+1800.6.5 = {
+    monarch = {
+        name = "Demetros Arqedewos"  # Demetros Arqedewos
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}
+1801.6.11 = {
+    monarch = {
+        name = "Egwale Seyon Hezqeyas"  # Egwale Seyon Hezqeyas
+        dynasty = "Solomonid"  # Solomonid
+        dip = 2
+        adm = 3
+        mil = 2
+    }
+}
+1818.6.3 = {
+    monarch = {
+        name = "Iyoas II Hezqeyas"  # Iyoas II Hezqeyas
+        dynasty = "Solomonid"  # Solomonid
+        dip = 0
+        adm = 1
+        mil = 0
+    }
+}

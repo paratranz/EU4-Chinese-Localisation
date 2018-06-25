@@ -1,0 +1,32 @@
+﻿government = iqta
+government_rank = 1
+primary_culture = persian
+add_accepted_culture = azerbaijani
+religion = shiite
+technology_group = muslim
+capital = 2213
+religious_school = ismaili_school
+1442.1.1 = {
+    religion = sunni
+    religious_school = hanafi_school
+    add_piety = -0.5
+    monarch = {
+        name = "Muhammad bin Baysonqor"  # Muhammad bin Baysonqor
+        birth_date = 1417.1.1
+        dynasty = "Timurid"  # Timurid
+        adm = 3
+        dip = 2
+        mil = 4
+        culture = uzbehk
+        religion = sunni
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = bold_fighter_personality
+}
+1451.1.1 = {
+    religion = shiite
+    religious_school = ismaili_school
+}
+1504.1.1 = {
+    religious_school = jafari_school
+}

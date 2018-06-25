@@ -1,0 +1,97 @@
+﻿government = feudal_monarchy
+technology_group = western
+religion = catholic
+primary_culture = gascon
+capital = 176
+fixed_capital = 176
+1398.1.1 = {
+    monarch = {
+        name = "Isabelle"  # Isabelle
+        dynasty = "de Foix"  # de Foix
+        female = yes
+        dip = 3
+        adm = 2
+        mil = 1
+    }
+}
+1398.1.1 = {
+    heir = {
+        name = "Jean"  # Jean
+        monarch_name = "Jean I"  # Jean I
+        dynasty = "de Foix"  # de Foix
+        birth_date = 1382.1.1
+        death_date = 1436.1.1
+        claim = 95
+        dip = 1
+        adm = 2
+        mil = 2
+    }
+}
+1413.1.1 = {
+    monarch = {
+        name = "Jean I"  # Jean I
+        dynasty = "de Foix"  # de Foix
+        birth_date = 1382.1.1
+        dip = 1
+        adm = 2
+        mil = 2
+    }
+}
+1423.2.26 = {
+    heir = {
+        name = "Gaston"  # Gaston
+        monarch_name = "Gaston IV"  # Gaston IV
+        dynasty = "de Foix"  # de Foix
+        claim = 95
+        birth_date = 1423.2.26
+        death_date = 1472.1.1
+        dip = 4
+        adm = 4
+        mil = 3
+    }
+}
+1436.1.1 = {
+    monarch = {
+        name = "Gaston IV"  # Gaston IV
+        dynasty = "de Foix"  # de Foix
+        birth_date = 1423.2.26
+        dip = 4
+        adm = 4
+        mil = 3
+    }
+}
+1467.1.1 = {
+    heir = {
+        name = "François Phébus"  # François Phébus
+        monarch_name = "François I Phébus"  # François I Phébus
+        dynasty = "de Foix"  # de Foix
+        birth_date = 1467.1.1
+        death_date = 1483.1.1
+        claim = 95
+        dip = 4
+        adm = 4
+        mil = 3
+    }
+}
+1472.7.26 = {
+    monarch = {
+        name = "François I Phébus"  # François I Phébus
+        dynasty = "de Foix"  # de Foix
+        birth_date = 1467.1.1
+        dip = 4
+        adm = 4
+        mil = 3
+    }
+}
+1512.9.1 = {
+    government = despotic_monarchy
+}
+1555.5.30 = {
+    government = administrative_monarchy
+}
+1560.1.1 = {
+    religion = reformed
+}
+1661.3.9 = {
+    government = despotic_monarchy
+}

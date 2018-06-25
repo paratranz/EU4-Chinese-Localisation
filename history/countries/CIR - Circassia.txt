@@ -1,0 +1,24 @@
+﻿government = tribal_kingdom
+government_rank = 1
+primary_culture = circassian
+religion = orthodox
+technology_group = eastern
+capital = 463
+1444.1.1 = {
+    monarch = {
+        name = "Petrezok"  # Petrezok
+        dynasty = "Petrezok"  # Petrezok
+        adm = 1
+        dip = 3
+        mil = 2
+    }
+}
+1470.1.1 = {
+    monarch = {
+        name = "(Interregnum)"  # (Interregnum)
+        adm = 0
+        mil = 0
+        dip = 0
+        regent = yes
+    }
+}

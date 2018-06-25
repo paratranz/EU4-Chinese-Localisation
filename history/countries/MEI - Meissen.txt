@@ -1,0 +1,38 @@
+﻿government = feudal_monarchy
+government_rank = 1
+primary_culture = saxon
+religion = catholic
+technology_group = western
+capital = 61
+fixed_capital = 61
+1382.1.1 = {
+    monarch = {
+        name = "Wilhelm I"  # Wilhelm I
+        dynasty = "von Wettin"  # von Wettin
+        dip = 2
+        adm = 3
+        mil = 1
+    }
+}
+1382.1.1 = {
+    heir = {
+        name = "Friedrich"  # Friedrich
+        monarch_name = "Friedrich IV"  # Friedrich IV
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1370.4.11
+        death_date = 1428.1.4
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1407.2.11 = {
+    monarch = {
+        name = "Friedrich IV"  # Friedrich IV
+        dynasty = "von Wettin"  # von Wettin
+        dip = 1
+        adm = 2
+        mil = 1
+    }
+}

@@ -1,0 +1,497 @@
+﻿government = feudal_monarchy
+government_rank = 1
+primary_culture = romanian
+religion = orthodox
+technology_group = eastern
+capital = 161
+1386.1.1 = {
+    monarch = {
+        name = "Mircea I"  # Mircea I
+        dynasty = "Basarab"  # Basarab
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1397.1.1 = {
+    heir = {
+        name = "Mihail"  # Mihail
+        monarch_name = "Mihail I"  # Mihail I
+        dynasty = "Basarab"  # Basarab
+        birth_date = 1390.1.1
+        death_date = 1420.8.1
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 1
+    }
+}
+1408.1.1 = {
+    monarch = {
+        name = "Mihail I"  # Mihail I
+        dynasty = "Basarab"  # Basarab
+        birth_date = 1390.1.1
+        adm = 1
+        dip = 0
+        mil = 1
+    }
+}
+1408.1.1 = {
+    heir = {
+        name = "Radu"  # Radu
+        monarch_name = "Radu II Chelul"  # Radu II Chelul
+        dynasty = "Basarab"  # Basarab
+        birth_date = 1400.1.1
+        death_date = 1427.1.1
+        claim = 95
+        adm = 0
+        dip = 3
+        mil = 0
+    }
+}
+1420.1.1 = {
+    monarch = {
+        name = "Radu II Chelul"  # Radu II Chelul
+        dynasty = "Basarab"  # Basarab
+        birth_date = 1400.1.1
+        adm = 0
+        dip = 3
+        mil = 0
+    }
+}
+1422.1.1 = {
+    monarch = {
+        name = "Dan II"  # Dan II
+        dynasty = "Danesti"  # Danesti
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1431.1.1 = {
+    monarch = {
+        name = "Alexandru I"  # Alexandru I
+        dynasty = "Aldea"  # Aldea
+        birth_date = 1397.1.1
+        adm = 3
+        dip = 4
+        mil = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = secretive_personality
+    add_ruler_personality = martial_educator_personality
+}
+1436.12.1 = {
+    monarch = {
+        name = "Vlad II"  # Vlad II
+        dynasty = "Draculesti"  # Draculesti
+        birth_date = 1390.1.1
+        adm = 2
+        dip = 1
+        mil = 1
+        leader = {
+            name = "Vlad"  # Vlad
+            II"type = generalfire
+             = 3siege
+             = 0
+        }
+    }
+}
+1442.1.1 = {
+    monarch = {
+        name = "Mircea II"  # Mircea II
+        dynasty = "Danesti"  # Danesti
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+}
+1442.8.1 = {
+    monarch = {
+        name = "Basarab II"  # Basarab II
+        dynasty = "Danesti"  # Danesti
+        adm = 4
+        dip = 1
+        mil = 2
+    }
+}
+1443.1.1 = {
+    monarch = {
+        name = "Vlad II"  # Vlad II
+        dynasty = "Draculesti"  # Draculesti
+        birth_date = 1390.1.1
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1443.1.1 = {
+    heir = {
+        name = "Mircea"  # Mircea
+        monarch_name = "Mircea II"  # Mircea II
+        dynasty = "Basarab"  # Basarab
+        birth_date = 1428.1.1
+        death_date = 1447.1.1
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+}
+1447.1.1 = {
+    monarch = {
+        name = "Vladislav II"  # Vladislav II
+        dynasty = "Danesti"  # Danesti
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+}
+1456.4.1 = {
+    monarch = {
+        name = "Vlad III Tepes"  # Vlad III Tepes
+        dynasty = "Draculesti"  # Draculesti
+        birth_date = 1431.11.1
+        adm = 1
+        dip = 0
+        mil = 5
+        leader = {
+            name = "Vlad"  # Vlad
+            III = generalfire
+             = 4siege
+             = 0
+        }
+    }
+}
+1462.11.1 = {
+    monarch = {
+        name = "Radu II cel Frumos"  # Radu II cel Frumos
+        dynasty = "Draculesti"  # Draculesti
+        adm = 1
+        dip = 1
+        mil = 0
+    }
+}
+1475.1.1 = {
+    monarch = {
+        name = "Basarab II Laoiota"  # Basarab II Laoiota
+        dynasty = "Danesti"  # Danesti
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1477.11.1 = {
+    monarch = {
+        name = "Basarab III cel Tînar"  # Basarab III cel Tînar
+        dynasty = "Danesti"  # Danesti
+        adm = 1
+        dip = 0
+        mil = 1
+    }
+}
+1482.3.1 = {
+    monarch = {
+        name = "Vlad IV Calugarul"  # Vlad IV Calugarul
+        dynasty = "Draculesti"  # Draculesti
+        birth_date = 1425.1.1
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1495.9.17 = {
+    monarch = {
+        name = "Radu IV cel Mare"  # Radu IV cel Mare
+        dynasty = "Draculesti"  # Draculesti
+        birth_date = 1467.1.1
+        adm = 0
+        dip = 1
+        mil = 5
+    }
+}
+1509.4.2 = {
+    monarch = {
+        name = "Neagoe Basarab"  # Neagoe Basarab
+        dynasty = "Craiovesti"  # Craiovesti
+        adm = 4
+        dip = 1
+        mil = 2
+    }
+}
+1521.9.16 = {
+    monarch = {
+        name = "Radu V de la Afumati"  # Radu V de la Afumati
+        dynasty = "Draculesti"  # Draculesti
+        adm = 0
+        dip = 2
+        mil = 5
+    }
+}
+1545.3.18 = {
+    monarch = {
+        name = "Mircea III Ciobanul"  # Mircea III Ciobanul
+        dynasty = "Draculesti"  # Draculesti
+        adm = 0
+        dip = 0
+        mil = 4
+    }
+}
+1559.9.22 = {
+    monarch = {
+        name = "Petru cel Tînar"  # Petru cel Tînar
+        dynasty = "Draculesti"  # Draculesti
+        birth_date = 1546.1.1
+        adm = 1
+        dip = 4
+        mil = 4
+    }
+}
+1568.6.15 = {
+    monarch = {
+        name = "Alexandru II"  # Alexandru II
+        dynasty = "Draculesti"  # Draculesti
+        birth_date = 1529.1.1
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1577.6.26 = {
+    monarch = {
+        name = "Mihnea II Turcitul"  # Mihnea II Turcitul
+        dynasty = "Draculesti"  # Draculesti
+        birth_date = 1564.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1591.2.1 = {
+    monarch = {
+        name = "Mihai II Viteazul"  # Mihai II Viteazul
+        dynasty = "Draculesti"  # Draculesti
+        birth_date = 1558.1.1
+        adm = 4
+        dip = 6
+        mil = 6
+        leader = {
+            name = "Mihai"  # Mihai
+            II = generalfire
+             = 4siege
+             = 0
+        }
+    }
+}
+1602.8.20 = {
+    monarch = {
+        name = "Radu IX Mihnea"  # Radu IX Mihnea
+        dynasty = "Draculesti"  # Draculesti
+        birth_date = 1585.1.1
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1623.8.2 = {
+    monarch = {
+        name = "Alexandru V Coconul"  # Alexandru V Coconul
+        dynasty = "Draculesti"  # Draculesti
+        adm = 1
+        dip = 0
+        mil = 3
+    }
+}
+1627.11.14 = {
+    monarch = {
+        name = "Leon"  # Leon
+        dynasty = "Tomsa"  # Tomsa
+        adm = 2
+        dip = 1
+        mil = 0
+    }
+}
+1632.7.30 = {
+    monarch = {
+        name = "Matei I Basarab"  # Matei I Basarab
+        dynasty = "Brâncovenesti"  # Brâncovenesti
+        birth_date = 1588.1.1
+        adm = 1
+        dip = 3
+        mil = 3
+    }
+}
+1654.4.20 = {
+    monarch = {
+        name = "Constantin I"  # Constantin I
+        dynasty = "Serban"  # Serban
+        adm = 0
+        dip = 1
+        mil = 0
+    }
+}
+1658.3.2 = {
+    monarch = {
+        name = "Grigore I"  # Grigore I
+        dynasty = "Ghica"  # Ghica
+        birth_date = 1600.3.3
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1674.11.2 = {
+    monarch = {
+        name = "Gheorge II"  # Gheorge II
+        dynasty = "Duca"  # Duca
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1678.11.2 = {
+    monarch = {
+        name = "Serban II"  # Serban II
+        dynasty = "Cantacuzene"  # Cantacuzene
+        birth_date = 1640.1.1
+        adm = 1
+        dip = 4
+        mil = 4
+    }
+}
+1688.11.10 = {
+    monarch = {
+        name = "Constantin II"  # Constantin II
+        dynasty = "Brâncovenesti"  # Brâncovenesti
+        birth_date = 1654.1.1
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1714.4.7 = {
+    monarch = {
+        name = "Nicolae II"  # Nicolae II
+        dynasty = "Mavrogordato"  # Mavrogordato
+        birth_date = 1670.5.3
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1730.9.15 = {
+    monarch = {
+        name = "Constantin III"  # Constantin III
+        dynasty = "Mavrogordato"  # Mavrogordato
+        birth_date = 1711.2.27
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1763.3.21 = {
+    monarch = {
+        name = "Alexandru VII"  # Alexandru VII
+        dynasty = "Ghica"  # Ghica
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1768.10.29 = {
+    monarch = {
+        name = "Grigore III"  # Grigore III
+        dynasty = "Ghica"  # Ghica
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1774.9.27 = {
+    monarch = {
+        name = "Alexandru VII"  # Alexandru VII
+        dynasty = "Ypsilanti"  # Ypsilanti
+        birth_date = 1725.1.1
+        adm = 2
+        dip = 0
+        mil = 2
+    }
+}
+1782.1.1 = {
+    monarch = {
+        name = "Mihai IV Sutu"  # Mihai IV Sutu
+        dynasty = "Soutzos"  # Soutzos
+        adm = 3
+        dip = 1
+        mil = 3
+    }
+}
+1793.1.1 = {
+    monarch = {
+        name = "Alexandru VIII"  # Alexandru VIII
+        dynasty = "Mourousi"  # Mourousi
+        birth_date = 1750.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1796.8.30 = {
+    monarch = {
+        name = "Alexandru VII"  # Alexandru VII
+        dynasty = "Ypsilanti"  # Ypsilanti
+        birth_date = 1725.1.1
+        adm = 2
+        dip = 0
+        mil = 2
+    }
+}
+1797.12.5 = {
+    monarch = {
+        name = "Constantin V"  # Constantin V
+        dynasty = "Hangerli"  # Hangerli
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1799.3.3 = {
+    monarch = {
+        name = "Alexandru VIII"  # Alexandru VIII
+        dynasty = "Mourousi"  # Mourousi
+        birth_date = 1750.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1801.10.22 = {
+    monarch = {
+        name = "Constantin VI"  # Constantin VI
+        dynasty = "Ypsilanti"  # Ypsilanti
+        birth_date = 1760.1.1
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+}
+1812.9.10 = {
+    monarch = {
+        name = "Ioan II"  # Ioan II
+        dynasty = "Caradja"  # Caradja
+        birth_date = 1754.1.1
+        adm = 3
+        dip = 1
+        mil = 1
+    }
+}
+1818.10.14 = {
+    monarch = {
+        name = "Alexandru IX Sutu"  # Alexandru IX Sutu
+        dynasty = "Soutzos"  # Soutzos
+        birth_date = 1758.1.18
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}

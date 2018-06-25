@@ -1,0 +1,303 @@
+﻿government = tribal_despotism
+primary_culture = tuareg
+religion = sunni
+technology_group = sub_saharan
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+capital = 1132
+fixed_capital = 1132
+religious_school = maliki_school
+1434.1.1 = {
+    monarch = {
+        name = "Akil"  # Akil
+        dynasty = "Akamalwal"  # Akamalwal
+        dip = 2
+        adm = 1
+        mil = 4
+    }
+    add_piety = -0.15
+}
+1618.1.1 = {
+    government = noble_republic
+    monarch = {
+        name = "Al-Hajj I"  # Al-Hajj I
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1618.1.1 = {
+    heir = {
+        name = "Muhammad Banakanu"  # Muhammad Banakanu
+        monarch_name = "Muhammad I Banakanu"  # Muhammad I Banakanu
+        dynasty = "Askia"  # Askia
+        birth_date = 1600.1.1
+        death_date = 1635.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1621.1.1 = {
+    monarch = {
+        name = "Muhammad I Banakanu"  # Muhammad I Banakanu
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1621.1.1 = {
+    heir = {
+        name = "'Ali Zalil"  # 'Ali Zalil
+        monarch_name = "'Ali Zalil"  # 'Ali Zalil
+        dynasty = "Askia"  # Askia
+        birth_date = 1600.1.1
+        death_Date = 1635.7.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1635.1.1 = {
+    monarch = {
+        name = "'Ali Zalil"  # 'Ali Zalil
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1635.7.1 = {
+    monarch = {
+        name = "Muhammad I Banakanu"  # Muhammad I Banakanu
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1635.7.1 = {
+    heir = {
+        name = "Muhammad"  # Muhammad
+        monarch_name = "Al-Hajj II Muhammad"  # Al-Hajj II Muhammad
+        dynasty = "Askia"  # Askia
+        birth_Date = 1615.1.1
+        death_Date = 1647.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1642.1.1 = {
+    monarch = {
+        name = "Al-Hajj II Muhammad"  # Al-Hajj II Muhammad
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1642.1.1 = {
+    heir = {
+        name = "Da'ud"  # Da'ud
+        monarch_name = "Da'ud"  # Da'ud
+        dynasty = "Askia"  # Askia
+        birth_Date = 1620.1.1
+        death_Date = 1668.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1647.1.1 = {
+    monarch = {
+        name = "Da'ud"  # Da'ud
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1647.1.1 = {
+    heir = {
+        name = "Muhammad al-Sadiq"  # Muhammad al-Sadiq
+        monarch_name = "Muhammad II al-Sadiq"  # Muhammad II al-Sadiq
+        dynasty = "Askia"  # Askia
+        birth_Date = 1640.1.1
+        death_date = 1684.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1668.1.1 = {
+    monarch = {
+        name = "Muhammad II al-Sadiq"  # Muhammad II al-Sadiq
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1668.1.1 = {
+    heir = {
+        name = "Muhammad"  # Muhammad
+        monarch_name = "Muhammad III"  # Muhammad III
+        dynasty = "Askia"  # Askia
+        birth_Date = 1660.1.1
+        death_date = 1702.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1684.1.1 = {
+    monarch = {
+        name = "Muhammad III"  # Muhammad III
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1684.1.1 = {
+    heir = {
+        name = "Bakari"  # Bakari
+        monarch_name = "Bakari"  # Bakari
+        dynasty = "Askia"  # Askia
+        birth_date = 1670.1.1
+        death_date = 1705.12.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1702.1.1 = {
+    monarch = {
+        name = "Bakari"  # Bakari
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1702.1.1 = {
+    heir = {
+        name = "'Abd al-Rahman"  # 'Abd al-Rahman
+        monarch_name = "'Abd al-Rahman"  # 'Abd al-Rahman
+        dynasty = "Askia"  # Askia
+        birth_date = 1690.1.1
+        death_Date = 1709.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1705.12.1 = {
+    monarch = {
+        name = "'Abd al-Rahman"  # 'Abd al-Rahman
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1705.12.1 = {
+    heir = {
+        name = "Bakr"  # Bakr
+        monarch_name = "Bakr"  # Bakr
+        dynasty = "Askia"  # Askia
+        birth_Date = 1680.1.1
+        death_date = 1713.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1709.1.1 = {
+    monarch = {
+        name = "Bakr"  # Bakr
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1709.1.1 = {
+    heir = {
+        name = "Al-Mukhtar"  # Al-Mukhtar
+        monarch_name = "Al-Mukhtar"  # Al-Mukhtar
+        dynasty = "Askia"  # Askia
+        birth_date = 1690.1.1
+        death_date = 1730.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1713.1.1 = {
+    monarch = {
+        name = "Al-Mukhtar"  # Al-Mukhtar
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1713.1.1 = {
+    heir = {
+        name = "Al-Hajj"  # Al-Hajj
+        monarch_name = "Al-Hajj III"  # Al-Hajj III
+        dynasty = "Askia"  # Askia
+        birth_date = 1700.1.1
+        death_date = 1748.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1730.1.1 = {
+    monarch = {
+        name = "Al-Hajj III"  # Al-Hajj III
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}
+1730.1.1 = {
+    heir = {
+        name = "Mahmud"  # Mahmud
+        monarch_name = "Mahmud"  # Mahmud
+        dynasty = "Askia"  # Askia
+        birth_Date = 1720.1.1
+        death_Date = 1769.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1748.1.1 = {
+    monarch = {
+        name = "Mahmud"  # Mahmud
+        dynasty = "Askia"  # Askia
+        dip = 2
+        adm = 2
+        mil = 2
+    }
+}

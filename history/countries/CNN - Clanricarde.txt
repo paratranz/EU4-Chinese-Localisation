@@ -1,0 +1,436 @@
+﻿government = feudal_monarchy
+government_rank = 1
+technology_group = western
+primary_culture = irish
+religion = catholic
+capital = 376
+1430.1.1 = {
+    monarch = {
+        name = "Ulick Ruadh"  # Ulick Ruadh
+        dynasty = "Burke"  # Burke
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = scholar_personality
+    add_ruler_personality = cruel_personality
+}
+1440.1.1 = {
+    heir = {
+        name = "Ulick Fionn"  # Ulick Fionn
+        monarch_name = "Ulick Fionn"  # Ulick Fionn
+        dynasty = "Burke"  # Burke
+        birth_date = 1440.1.1
+        death_date = 1509.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1485.1.1 = {
+    monarch = {
+        name = "Ulick Fionn"  # Ulick Fionn
+        dynasty = "Burke"  # Burke
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1485.1.1 = {
+    heir = {
+        name = "Richard Ã“ge"  # Richard Ã“ge
+        monarch_name = "Richard Ã“ge"  # Richard Ã“ge
+        dynasty = "Burke"  # Burke
+        birth_date = 1480.1.1
+        death_date = 1519.1.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1509.1.1 = {
+    monarch = {
+        name = "Richard Ã“ge"  # Richard Ã“ge
+        dynasty = "Burke"  # Burke
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1509.1.1 = {
+    heir = {
+        name = "Richard MÃ³r"  # Richard MÃ³r
+        monarch_name = "Richard MÃ³r"  # Richard MÃ³r
+        dynasty = "Burke"  # Burke
+        birth_date = 1482.1.1
+        death_date = 1530.1.1
+        claim = 95
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+}
+1520.1.1 = {
+    monarch = {
+        name = "Richard Ã“ge"  # Richard Ã“ge
+        dynasty = "Burke"  # Burke
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+}
+1520.1.1 = {
+    heir = {
+        name = "John"  # John
+        monarch_name = "John mac Richard MÃ³r"  # John mac Richard MÃ³r
+        dynasty = "Burke"  # Burke
+        birth_date = 1500.1.1
+        death_date = 1536.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1530.1.1 = {
+    monarch = {
+        name = "John mac Richard MÃ³r"  # John mac Richard MÃ³r
+        dynasty = "Burke"  # Burke
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1530.1.1 = {
+    heir = {
+        name = "Richard Bacach"  # Richard Bacach
+        monarch_name = "Richard Bacach"  # Richard Bacach
+        dynasty = "Burke"  # Burke
+        birth_date = 1520.1.1
+        death_date = 1538.1.1
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 2
+    }
+}
+1536.1.1 = {
+    monarch = {
+        name = "Richard Bacach"  # Richard Bacach
+        dynasty = "Burke"  # Burke
+        adm = 1
+        dip = 3
+        mil = 2
+    }
+}
+1536.1.1 = {
+    heir = {
+        name = "Ulick na gCeann"  # Ulick na gCeann
+        monarch_name = "Ulick na gCeann"  # Ulick na gCeann
+        dynasty = "Burke"  # Burke
+        birth_date = 1505.1.1
+        death_date = 1544.1.1
+        claim = 95
+        adm = 3
+        dip = 4
+        mil = 2
+    }
+}
+1538.1.1 = {
+    monarch = {
+        name = "Ulick na gCeann"  # Ulick na gCeann
+        dynasty = "Burke"  # Burke
+        adm = 3
+        dip = 4
+        mil = 2
+    }
+}
+1538.1.1 = {
+    heir = {
+        name = "Richard"  # Richard
+        monarch_name = "Richard"  # Richard
+        dynasty = "Burke"  # Burke
+        birth_date = 1520.1.1
+        death_date = 1582.1.1
+        claim = 95
+        adm = 1
+        dip = 2
+        mil = 4
+    }
+}
+1544.1.1 = {
+    monarch = {
+        name = "Richard"  # Richard
+        dynasty = "Burke"  # Burke
+        adm = 1
+        dip = 2
+        mil = 4
+    }
+}
+1544.1.1 = {
+    heir = {
+        name = "Ulick"  # Ulick
+        monarch_name = "Ulick"  # Ulick
+        dynasty = "Burke"  # Burke
+        birth_date = 1540.1.1
+        death_date = 1601.1.1
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 3
+    }
+}
+1582.1.1 = {
+    monarch = {
+        name = "Ulick"  # Ulick
+        dynasty = "Burke"  # Burke
+        adm = 1
+        dip = 3
+        mil = 3
+    }
+}
+1582.1.1 = {
+    heir = {
+        name = "Richard"  # Richard
+        monarch_name = "Richard"  # Richard
+        dynasty = "Burke"  # Burke
+        birth_date = 1572.1.1
+        death_date = 1635.11.12
+        claim = 95
+        adm = 3
+        dip = 3
+        mil = 4
+    }
+}
+1601.1.1 = {
+    monarch = {
+        name = "Richard"  # Richard
+        dynasty = "Burke"  # Burke
+        adm = 3
+        dip = 3
+        mil = 4
+    }
+}
+1604.1.1 = {
+    heir = {
+        name = "Ulick"  # Ulick
+        monarch_name = "Ulick"  # Ulick
+        dynasty = "Burke"  # Burke
+        birth_date = 1604.1.1
+        death_date = 1657.7.1
+        claim = 95
+        adm = 3
+        dip = 3
+        mil = 5
+    }
+}
+1635.11.12 = {
+    monarch = {
+        name = "Ulick"  # Ulick
+        dynasty = "Burke"  # Burke
+        adm = 3
+        dip = 3
+        mil = 5
+    }
+}
+1635.11.12 = {
+    heir = {
+        name = "Richard"  # Richard
+        monarch_name = "Richard"  # Richard
+        dynasty = "Burke"  # Burke
+        birth_date = 1620.1.1
+        death_date = 1666.8.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1657.7.1 = {
+    monarch = {
+        name = "Richard"  # Richard
+        dynasty = "Burke"  # Burke
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1657.7.1 = {
+    heir = {
+        name = "William"  # William
+        monarch_name = "William"  # William
+        dynasty = "Burke"  # Burke
+        birth_date = 1650.1.1
+        death_date = 1687.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1666.8.1 = {
+    monarch = {
+        name = "William"  # William
+        dynasty = "Burke"  # Burke
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1666.8.1 = {
+    heir = {
+        name = "Richard"  # Richard
+        monarch_name = "Richard"  # Richard
+        dynasty = "Burke"  # Burke
+        birth_date = 1640.1.1
+        death_date = 1708.1.1
+        claim = 95
+        adm = 3
+        dip = 1
+        mil = 3
+    }
+}
+1687.1.1 = {
+    monarch = {
+        name = "Richard"  # Richard
+        dynasty = "Burke"  # Burke
+        adm = 3
+        dip = 1
+        mil = 3
+    }
+}
+1687.1.1 = {
+    heir = {
+        name = "John"  # John
+        monarch_name = "John"  # John
+        dynasty = "Burke"  # Burke
+        birth_date = 1642.1.1
+        death_date = 1722.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1708.1.1 = {
+    monarch = {
+        name = "John"  # John
+        dynasty = "Burke"  # Burke
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1708.1.1 = {
+    heir = {
+        name = "Michael"  # Michael
+        monarch_name = "Michael"  # Michael
+        dynasty = "Burke"  # Burke
+        birth_date = 1686.1.1
+        death_date = 1726.1.1
+        claim = 95
+        adm = 4
+        dip = 1
+        mil = 2
+    }
+}
+1722.1.1 = {
+    monarch = {
+        name = "Michael"  # Michael
+        dynasty = "Burke"  # Burke
+        adm = 4
+        dip = 1
+        mil = 2
+    }
+}
+1722.1.1 = {
+    heir = {
+        name = "John Smith"  # John Smith
+        monarch_name = "John Smith"  # John Smith
+        dynasty = "Burke"  # Burke
+        birth_date = 1720.11.11
+        death_date = 1782.4.21
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1726.1.1 = {
+    monarch = {
+        name = "John Smith"  # John Smith
+        dynasty = "Burke"  # Burke
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1742.1.8 = {
+    heir = {
+        name = "Henry"  # Henry
+        monarch_name = "Henry"  # Henry
+        dynasty = "Burke"  # Burke
+        birth_date = 1742.1.8
+        death_date = 1797.12.8
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1782.4.21 = {
+    monarch = {
+        name = "Henry"  # Henry
+        dynasty = "Burke"  # Burke
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1782.4.21 = {
+    heir = {
+        name = "John"  # John
+        monarch_name = "John"  # John
+        dynasty = "Burke"  # Burke
+        birth_date = 1744.9.22
+        death_date = 1808.7.27
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1797.12.8 = {
+    monarch = {
+        name = "John"  # John
+        dynasty = "Burke"  # Burke
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1802.12.20 = {
+    heir = {
+        name = "Ulick"  # Ulick
+        monarch_name = "Ulick"  # Ulick
+        dynasty = "Burke"  # Burke
+        birth_date = 1802.12.20
+        death_date = 1874.4.10
+        claim = 95
+        adm = 5
+        dip = 4
+        mil = 2
+    }
+}
+1808.7.27 = {
+    monarch = {
+        name = "Ulick"  # Ulick
+        dynasty = "Burke"  # Burke
+        adm = 5
+        dip = 4
+        mil = 2
+    }
+}
