@@ -1,0 +1,175 @@
+﻿government = daimyo
+government_rank = 1
+primary_culture = japanese
+religion = shinto
+technology_group = chinese
+capital = 1018
+1325.1.1 = {
+    monarch = {
+        name = "Takauji"  # Takauji
+        dynasty = "Sasaki"  # Sasaki
+        adm = 4
+        dip = 5
+        mil = 3
+    }
+}
+1328.1.1 = {
+    heir = {
+        name = "Takahide"  # Takahide
+        monarch_name = "Takahide"  # Takahide
+        dynasty = "Sasaki"  # Sasaki
+        birth_date = 1328.1.1
+        death_date = 1391.11.7
+        claim = 90
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1353.1.1 = {
+    monarch = {
+        name = "Takahide"  # Takahide
+        dynasty = "Sasaki"  # Sasaki
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1363.1.1 = {
+    heir = {
+        name = "Takahisa"  # Takahisa
+        monarch_name = "Takahisa"  # Takahisa
+        dynasty = "Amago"  # Amago
+        birth_date = 1363.1.1
+        death_date = 1399.1.1
+        claim = 90
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+}
+1380.1.1 = {
+    monarch = {
+        name = "Takahisa"  # Takahisa
+        dynasty = "Amago"  # Amago
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1381.1.1 = {
+    heir = {
+        name = "Mochihisa"  # Mochihisa
+        monarch_name = "Mochihisa"  # Mochihisa
+        dynasty = "Amago"  # Amago
+        birth_date = 1381.1.1
+        death_date = 1437.3.31
+        claim = 90
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+}
+1399.1.1 = {
+    monarch = {
+        name = "Mochihisa"  # Mochihisa
+        dynasty = "Amago"  # Amago
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1410.1.1 = {
+    heir = {
+        name = "Kiyosada"  # Kiyosada
+        monarch_name = "Kiyosada"  # Kiyosada
+        dynasty = "Amago"  # Amago
+        birth_date = 1410.1.1
+        death_date = 1488.1.4
+        claim = 90
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+}
+1437.3.31 = {
+    monarch = {
+        name = "Kiyosada"  # Kiyosada
+        dynasty = "Amago"  # Amago
+        birth_date = 1410.1.1
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = lawgiver_personality
+}
+1458.12.25 = {
+    heir = {
+        name = "Tsunehisa"  # Tsunehisa
+        monarch_name = "Tunehisa"  # Tunehisa
+        dynasty = "Amago"  # Amago
+        birth_date = 1458.12.25
+        death_date = 1541.11.30
+        claim = 90
+        adm = 4
+        dip = 5
+        mil = 4
+    }
+}
+1478.1.1 = {
+    monarch = {
+        name = "Tsunehisa"  # Tsunehisa
+        dynasty = "Amago"  # Amago
+        birth_date = 1458.12.25
+        adm = 4
+        dip = 5
+        mil = 5
+    }
+}
+1514.3.8 = {
+    heir = {
+        name = "Haruhisa"  # Haruhisa
+        monarch_name = "Haruhisa"  # Haruhisa
+        dynasty = "Amago"  # Amago
+        birth_date = 1514.3.8
+        death_date = 1561.1.9
+        claim = 90
+        adm = 4
+        dip = 5
+        mil = 5
+    }
+}
+1537.1.1 = {
+    monarch = {
+        name = "Haruhisa"  # Haruhisa
+        dynasty = "Amago"  # Amago
+        birth_date = 1514.3.8
+        adm = 4
+        dip = 3
+        mil = 4
+    }
+}
+1540.1.1 = {
+    heir = {
+        name = "Yoshihisa"  # Yoshihisa
+        monarch_name = "Yoshihisa"  # Yoshihisa
+        dynasty = "Amago"  # Amago
+        birth_date = 1540.1.1
+        death_date = 1610.10.4
+        claim = 90
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1561.1.9 = {
+    monarch = {
+        name = "Yoshihisa"  # Yoshihisa
+        dynasty = "Amago"  # Amago
+        birth_date = 1540.1.1
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
