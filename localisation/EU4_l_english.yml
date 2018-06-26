@@ -110,7 +110,7 @@
  GOV_INTERACT_NO_CAPITAL:0 "你的首都需要在你的控制下才能 '$NAME|Y$'.\n"
  RUSABIL_DO_IT_STRELTSY:0 "使用$VAL|Y$点数来'$NAME|Y$'将会降低$CHANGE$厌战度并在你的首都招募$UNITS|Y$个射击军团。"
  RUSABIL_STRELTSY_MODIFIER:0 "由于任用这些军队，稳定花费将会增加到$MODIFIER$。"
- RUSABIL_POOL:1 "\n每年年初我们都将会获得 §G+$GAIN$§! $NAME|Y$ ，直到达到$MAX|Y$"
+ RUSABIL_POOL:1 "\n每年年初我们将获得§G+$GAIN$§!$NAME|Y$，上限为$MAX|Y$。"
  NEED_VALUE:0 "你需要$NEED|Y$$WHAT|Y$才能获得'$NAME|Y$'，但你目前只有$AVAILABLE|R$。\n"
  GOV_INTERACTION_COST:0 "消耗$COST|Y$启用$NAME|Y$。\n\n"
  GOV_INTERACTION_GLOBAL_MODIFIER:0 "在$YEARS|Y$年内，你将获得：\n$MODIFIER$\n"
