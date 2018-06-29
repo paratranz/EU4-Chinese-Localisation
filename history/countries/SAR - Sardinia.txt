@@ -1,0 +1,37 @@
+﻿government = feudal_monarchy
+technology_group = western
+religion = catholic
+primary_culture = sardinian
+capital = 127
+fixed_capital = 127
+1387.1.1 = {
+    monarch = {
+        name = "Mariano V"  # Mariano V
+        dynasty = "d'Arborea"  # d'Arborea
+        dip = 3
+        mil = 2
+        adm = 3
+    }
+}
+1387.1.1 = {
+    heir = {
+        name = "Guglielmo"  # Guglielmo
+        monarch_name = "Guglielmo I"  # Guglielmo I
+        dynasty = "d'Arborea"  # d'Arborea
+        birth_date = 1387.1.1
+        death_date = 1430.1.1
+        claim = 80
+        dip = 2
+        mil = 1
+        adm = 1
+    }
+}
+1407.1.1 = {
+    monarch = {
+        name = "Guglielmo I"  # Guglielmo I
+        dynasty = "d'Arborea"  # d'Arborea
+        dip = 2
+        mil = 1
+        adm = 1
+    }
+}

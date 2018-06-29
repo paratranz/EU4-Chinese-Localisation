@@ -1,0 +1,769 @@
+﻿government = tribal_kingdom
+primary_culture = kongolese
+religion = shamanism
+technology_group = central_african
+unlock_cult = mwari_cult
+unlock_cult = central_african_ancestor_cult
+unlock_cult = cwezi_cult
+unit_type = sub_saharan
+capital = 1170
+1399.1.1 = {
+    monarch = {
+        name = "Ntinu"  # Ntinu
+        dynasty = "Lukeni"  # Lukeni
+        adm = 1
+        dip = 4
+        mil = 0
+    }
+}
+1399.1.1 = {
+    heir = {
+        name = "Nkuwu"  # Nkuwu
+        monarch_name = "Nkuwu"  # Nkuwu
+        dynasty = "Lukeni"  # Lukeni
+        birth_date = 1390.1.1
+        death_Date = 1457.1.1
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 3
+    }
+}
+1419.1.1 = {
+    monarch = {
+        name = "Nkuwu"  # Nkuwu
+        dynasty = "Lukeni"  # Lukeni
+        adm = 2
+        dip = 3
+        mil = 3
+    }
+}
+1439.1.1 = {
+    heir = {
+        name = "Nzinga Nkuwa"  # Nzinga Nkuwa
+        monarch_name = "Nzinga Nkuwa"  # Nzinga Nkuwa
+        dynasty = "Lukeni"  # Lukeni
+        birth_date = 1439.1.1
+        death_Date = 1506.6.2
+        claim = 95
+        adm = 1
+        dip = 6
+        mil = 2
+    }
+}
+1457.1.1 = {
+    monarch = {
+        name = "Nzinga Nkuwa"  # Nzinga Nkuwa
+        dynasty = "Lukeni"  # Lukeni
+        adm = 1
+        dip = 6
+        mil = 2
+    }
+}
+1480.1.1 = {
+    heir = {
+        name = "Afonso"  # Afonso
+        monarch_name = "Afonso I"  # Afonso I
+        dynasty = "Lukeni"  # Lukeni
+        birth_date = 1480.1.1
+        death_Date = 1543.1.1
+        claim = 95
+        adm = 5
+        dip = 3
+        mil = 4
+    }
+}
+1506.6.2 = {
+    monarch = {
+        name = "Afonso I"  # Afonso I
+        dynasty = "Lukeni"  # Lukeni
+        adm = 5
+        dip = 3
+        mil = 4
+    }
+}
+1506.6.2 = {
+    heir = {
+        name = "Pedro"  # Pedro
+        monarch_name = "Pedro I"  # Pedro I
+        dynasty = "Lukeni"  # Lukeni
+        birth_date = 1500.1.1
+        death_Date = 1545.1.1
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 0
+    }
+    religion = catholic
+}
+1543.1.1 = {
+    monarch = {
+        name = "Pedro I"  # Pedro I
+        dynasty = "Lukeni"  # Lukeni
+        adm = 2
+        dip = 1
+        mil = 0
+    }
+}
+1543.1.1 = {
+    heir = {
+        name = "Diogo"  # Diogo
+        monarch_name = "Diogo I"  # Diogo I
+        dynasty = "Lukeni"  # Lukeni
+        birth_date = 1520.1.1
+        death_date = 1561.9.2
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1545.1.1 = {
+    monarch = {
+        name = "Diogo I"  # Diogo I
+        dynasty = "Lukeni"  # Lukeni
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1545.1.1 = {
+    heir = {
+        name = "Bernardo"  # Bernardo
+        monarch_name = "Bernardo I"  # Bernardo I
+        dynasty = "Lukeni"  # Lukeni
+        birth_date = 1520.1.1
+        death_Date = 1566.4.2
+        claim = 95
+        adm = 2
+        dip = 0
+        mil = 0
+    }
+}
+1561.9.2 = {
+    monarch = {
+        name = "Bernardo I"  # Bernardo I
+        dynasty = "Lukeni"  # Lukeni
+        adm = 2
+        dip = 0
+        mil = 0
+    }
+}
+1561.9.2 = {
+    heir = {
+        name = "Henrique"  # Henrique
+        monarch_name = "Henrique I"  # Henrique I
+        dynasty = "Lukeni"  # Lukeni
+        birth_date = 1540.1.1
+        death_date = 1568.1.1
+        claim = 95
+        adm = 0
+        dip = 0
+        mil = 1
+    }
+}
+1566.4.2 = {
+    monarch = {
+        name = "Henrique I"  # Henrique I
+        dynasty = "Lukeni"  # Lukeni
+        adm = 0
+        dip = 0
+        mil = 1
+    }
+}
+1566.4.2 = {
+    heir = {
+        name = "Alvaro"  # Alvaro
+        monarch_name = "Alvaro I"  # Alvaro I
+        dynasty = "Kwilu"  # Kwilu
+        birth_date = 1560.1.1
+        death_Date = 1587.1.1
+        claim = 95
+        adm = 4
+        dip = 1
+        mil = 2
+    }
+}
+1568.1.1 = {
+    monarch = {
+        name = "Alvaro I"  # Alvaro I
+        dynasty = "Kwilu"  # Kwilu
+        adm = 4
+        dip = 1
+        mil = 2
+    }
+}
+1568.1.1 = {
+    heir = {
+        name = "Alvaro"  # Alvaro
+        monarch_name = "Alvaro II"  # Alvaro II
+        dynasty = "Kwilu"  # Kwilu
+        birth_date = 1560.1.1
+        death_Date = 1614.8.2
+        claim = 95
+        adm = 6
+        dip = 1
+        mil = 4
+        leader = {
+            name = "Alvaro"  # Alvaro
+            II" = generalfire
+             = 2siege
+             = 0
+        }
+    }
+}
+1587.1.1 = {
+    monarch = {
+        name = "Alvaro II"  # Alvaro II
+        dynasty = "Kwilu"  # Kwilu
+        adm = 6
+        dip = 1
+        mil = 4
+        leader = {
+            name = "Alvaro"  # Alvaro
+            II" = generalfire
+             = 2siege
+             = 0
+        }
+    }
+}
+1587.1.1 = {
+    heir = {
+        name = "Bernardo"  # Bernardo
+        monarch_name = "Bernardo II"  # Bernardo II
+        dynasty = "Kwilu"  # Kwilu
+        birth_date = 1587.1.1
+        death_Date = 1615.8.2
+        claim = 95
+        adm = 0
+        dip = 0
+        mil = 2
+    }
+}
+1614.8.2 = {
+    monarch = {
+        name = "Bernardo II"  # Bernardo II
+        dynasty = "Kwilu"  # Kwilu
+        adm = 0
+        dip = 0
+        mil = 2
+    }
+}
+1614.8.2 = {
+    heir = {
+        name = "Alvaro"  # Alvaro
+        monarch_name = "Alvaro III"  # Alvaro III
+        dynasty = "Kwilu"  # Kwilu
+        birth_date = 1600.1.1
+        death_Date = 1622.5.5
+        claim = 95
+        adm = 3
+        dip = 5
+        mil = 2
+    }
+}
+1615.8.2 = {
+    monarch = {
+        name = "Alvaro III"  # Alvaro III
+        dynasty = "Kwilu"  # Kwilu
+        adm = 3
+        dip = 5
+        mil = 2
+    }
+}
+1622.5.5 = {
+    monarch = {
+        name = "Pedro II"  # Pedro II
+        dynasty = "Nsundi"  # Nsundi
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1624.4.14 = {
+    monarch = {
+        name = "Garcia I"  # Garcia I
+        dynasty = "Nsundi"  # Nsundi
+        adm = 0
+        dip = 0
+        mil = 1
+    }
+}
+1626.6.2 = {
+    monarch = {
+        name = "Ambrosio"  # Ambrosio
+        dynasty = "Kwilu"  # Kwilu
+        adm = 2
+        dip = 0
+        mil = 1
+    }
+}
+1631.3.2 = {
+    monarch = {
+        name = "Alvaro IV"  # Alvaro IV
+        dynasty = "Kwilu"  # Kwilu
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1636.2.24 = {
+    monarch = {
+        name = "Alvaro V"  # Alvaro V
+        dynasty = "Kimpanzu"  # Kimpanzu
+        adm = 0
+        dip = 0
+        mil = 2
+    }
+}
+1636.8.2 = {
+    monarch = {
+        name = "Alvaro VI"  # Alvaro VI
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 1
+        dip = 1
+        mil = 0
+    }
+}
+1636.8.2 = {
+    heir = {
+        name = "Garcia"  # Garcia
+        monarch_name = "Garcia II"  # Garcia II
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1620.1.1
+        death_Date = 1661.1.1
+        claim = 95
+        adm = 5
+        dip = 4
+        mil = 1
+    }
+}
+1641.2.21 = {
+    monarch = {
+        name = "Garcia II"  # Garcia II
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 5
+        dip = 4
+        mil = 1
+    }
+}
+1661.1.1 = {
+    monarch = {
+        name = "António I"  # António I
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 3
+        dip = 0
+        mil = 0
+    }
+}
+1665.10.30 = {
+    monarch = {
+        name = "Alvaro VII"  # Alvaro VII
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 0
+        dip = 1
+        mil = 2
+    }
+}
+1666.6.2 = {
+    monarch = {
+        name = "Alvaro VIII"  # Alvaro VIII
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1667.1.1 = {
+    monarch = {
+        name = "Afonso III"  # Afonso III
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 0
+        dip = 0
+        mil = 2
+    }
+}
+1669.1.1 = {
+    monarch = {
+        name = "Alvaro IX"  # Alvaro IX
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 1
+        dip = 0
+        mil = 1
+    }
+}
+1672.1.1 = {
+    monarch = {
+        name = "Raphael"  # Raphael
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1674.1.1 = {
+    monarch = {
+        name = "Daniel"  # Daniel
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 0
+        dip = 1
+        mil = 2
+    }
+}
+1674.1.1 = {
+    heir = {
+        name = "André"  # André
+        monarch_name = "André"  # André
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1660.1.1
+        death_date = 1690.1.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 3
+    }
+}
+1678.1.1 = {
+    monarch = {
+        name = "André"  # André
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 1
+        dip = 1
+        mil = 3
+    }
+}
+1690.1.1 = {
+    monarch = {
+        name = "Alvaro X"  # Alvaro X
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 0
+        dip = 2
+        mil = 1
+    }
+}
+1690.1.1 = {
+    heir = {
+        name = "Pedro"  # Pedro
+        monarch_name = "Pedro IV"  # Pedro IV
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1670.1.1
+        death_Date = 1717.1.1
+        claim = 95
+        adm = 5
+        dip = 4
+        mil = 1
+    }
+}
+1694.12.2 = {
+    monarch = {
+        name = "Pedro IV"  # Pedro IV
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 5
+        dip = 4
+        mil = 1
+    }
+}
+1694.12.2 = {
+    heir = {
+        name = "Nicolau"  # Nicolau
+        monarch_name = "Nicolau"  # Nicolau
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1690.1.1
+        death_Date = 1725.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1717.1.1 = {
+    monarch = {
+        name = "Nicolau"  # Nicolau
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1717.1.1 = {
+    heir = {
+        name = "Sebastião"  # Sebastião
+        monarch_name = "Sebastião"  # Sebastião
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1700.1.1
+        death_Date = 1732.1.1
+        claim = 95
+        adm = 4
+        dip = 1
+        mil = 3
+    }
+}
+1725.1.1 = {
+    monarch = {
+        name = "Sebastião"  # Sebastião
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 4
+        dip = 1
+        mil = 3
+    }
+}
+1725.1.1 = {
+    heir = {
+        name = "António"  # António
+        monarch_name = "António II"  # António II
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1710.1.1
+        death_date = 1741.1.1
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1732.1.1 = {
+    monarch = {
+        name = "António II"  # António II
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1732.1.1 = {
+    heir = {
+        name = "Alvaro"  # Alvaro
+        monarch_name = "Alvaro XI"  # Alvaro XI
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1700.1.1
+        death_Date = 1750.1.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 3
+    }
+}
+1741.1.1 = {
+    monarch = {
+        name = "Alvaro XI"  # Alvaro XI
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 1
+        dip = 1
+        mil = 3
+    }
+}
+1741.1.1 = {
+    heir = {
+        name = "Alexio"  # Alexio
+        monarch_name = "Alexio"  # Alexio
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1720.1.1
+        death_Date = 1757.1.1
+        claim = 95
+        adm = 3
+        dip = 2
+        mil = 0
+    }
+}
+1750.1.1 = {
+    monarch = {
+        name = "Alexio"  # Alexio
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 3
+        dip = 2
+        mil = 0
+    }
+}
+1750.1.1 = {
+    heir = {
+        name = "Henrique"  # Henrique
+        monarch_name = "Henrique II"  # Henrique II
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1750.1.1
+        death_Date = 1769.1.1
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 3
+    }
+}
+1757.1.1 = {
+    monarch = {
+        name = "Henrique II"  # Henrique II
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 2
+        dip = 1
+        mil = 3
+    }
+}
+1757.1.1 = {
+    heir = {
+        name = "Afonso"  # Afonso
+        monarch_name = "Afonso IV"  # Afonso IV
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1750.1.1
+        death_date = 1780.1.1
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1769.1.1 = {
+    monarch = {
+        name = "Afonso IV"  # Afonso IV
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1769.1.1 = {
+    heir = {
+        name = "José"  # José
+        monarch_name = "José I"  # José I
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1750.1.1
+        death_Date = 1784.2.1
+        claim = 95
+        adm = 0
+        dip = 2
+        mil = 2
+    }
+}
+1780.1.1 = {
+    monarch = {
+        name = "José I"  # José I
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 0
+        dip = 2
+        mil = 2
+    }
+}
+1784.2.1 = {
+    monarch = {
+        name = "Afonso V"  # Afonso V
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 1
+        dip = 3
+        mil = 0
+    }
+}
+1788.1.1 = {
+    monarch = {
+        name = "José II"  # José II
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 0
+        dip = 1
+        mil = 2
+    }
+}
+1788.1.1 = {
+    heir = {
+        name = "Pedro"  # Pedro
+        monarch_name = "Pedro VI"  # Pedro VI
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1769.1.1
+        death_Date = 1795.1.1
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 3
+    }
+}
+1792.1.1 = {
+    monarch = {
+        name = "Pedro VI"  # Pedro VI
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 1
+        dip = 3
+        mil = 3
+    }
+}
+1792.1.1 = {
+    heir = {
+        name = "Alvaro"  # Alvaro
+        monarch_name = "Alvaro XII"  # Alvaro XII
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1780.1.1
+        death_Date = 1798.1.1
+        claim = 95
+        adm = 0
+        dip = 1
+        mil = 3
+    }
+}
+1795.1.1 = {
+    monarch = {
+        name = "Alvaro XII"  # Alvaro XII
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 0
+        dip = 1
+        mil = 3
+    }
+}
+1795.1.1 = {
+    heir = {
+        name = "Francisco"  # Francisco
+        monarch_name = "Francisco II"  # Francisco II
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1780.1.1
+        death_Date = 1802.1.1
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1798.1.1 = {
+    monarch = {
+        name = "Francisco II"  # Francisco II
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1798.1.1 = {
+    heir = {
+        name = "Garcia"  # Garcia
+        monarch_name = "Garcia IV"  # Garcia IV
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1780.1.1
+        death_Date = 1814.1.1
+        claim = 95
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1802.1.1 = {
+    monarch = {
+        name = "Garcia IV"  # Garcia IV
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1802.1.1 = {
+    heir = {
+        name = "Garcia"  # Garcia
+        monarch_name = "Garcia V"  # Garcia V
+        dynasty = "Kinlaza"  # Kinlaza
+        birth_date = 1775.1.1
+        death_date = 1830.1.1
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 1
+    }
+}
+1814.1.1 = {
+    monarch = {
+        name = "Garcia V"  # Garcia V
+        dynasty = "Kinlaza"  # Kinlaza
+        adm = 1
+        dip = 3
+        mil = 1
+    }
+}

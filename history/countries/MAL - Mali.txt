@@ -1,0 +1,138 @@
+﻿government = despotic_monarchy
+primary_culture = mali
+religion = sunni
+technology_group = sub_saharan
+unlock_cult = yemoja_cult
+unlock_cult = roog_cult
+unlock_cult = nyame_cult
+capital = 1124
+religious_school = maliki_school
+1390.1.1 = {
+    monarch = {
+        name = "Mahmud"  # Mahmud
+        dynasty = "Keita"  # Keita
+        dip = 2
+        adm = 1
+        mil = 2
+    }
+    add_piety = -0.15
+}
+1390.1.1 = {
+    heir = {
+        name = "Musa"  # Musa
+        monarch_name = "Musa III"  # Musa III
+        dynasty = "Keita"  # Keita
+        birth_date = 1370.1.1
+        death_date = 1450.1.1
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1430.1.1 = {
+    monarch = {
+        name = "Musa III"  # Musa III
+        dynasty = "Keita"  # Keita
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1430.1.1 = {
+    heir = {
+        name = "Uli"  # Uli
+        monarch_name = "Uli II"  # Uli II
+        dynasty = "Keita"  # Keita
+        birth_date = 1430.1.1
+        death_date = 1481.9.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1450.1.1 = {
+    monarch = {
+        name = "Uli II"  # Uli II
+        dynasty = "Keita"  # Keita
+        dip = 1
+        adm = 1
+        mil = 1
+    }
+}
+1460.1.1 = {
+    heir = {
+        name = "Mamadu"  # Mamadu
+        monarch_name = "Mamadu II"  # Mamadu II
+        dynasty = "Keita"  # Keita
+        birth_date = 1460.1.1
+        death_date = 1496.1.1
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1481.9.1 = {
+    monarch = {
+        name = "Mamadu II"  # Mamadu II
+        dynasty = "Keita"  # Keita
+        dip = 3
+        adm = 2
+        mil = 2
+    }
+}
+1481.9.1 = {
+    heir = {
+        name = "Mamadu"  # Mamadu
+        monarch_name = "Mamadu III"  # Mamadu III
+        dynasty = "Keita"  # Keita
+        birth_date = 1480.1.1
+        death_date = 9999.1.1
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 1
+    }
+}
+1496.1.1 = {
+    monarch = {
+        name = "Mamadu III"  # Mamadu III
+        dynasty = "Keita"  # Keita
+        dip = 3
+        adm = 2
+        mil = 1
+    }
+}
+1520.1.1 = {
+    heir = {
+        name = "Mamadu"  # Mamadu
+        monarch_name = "Mamadu IV"  # Mamadu IV
+        dynasty = "Keita"  # Keita
+        birth_Date = 1520.1.1
+        death_date = 1600.1.1
+        claim = 95
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1535.1.1 = {
+    monarch = {
+        name = "Mamadu IV"  # Mamadu IV
+        dynasty = "Keita"  # Keita
+        dip = 0
+        adm = 0
+        mil = 0
+    }
+}
+1660.1.1 = {
+    monarch = {
+        name = "Mama Maghan I"  # Mama Maghan I
+        dynasty = "Keita"  # Keita
+        dip = 1
+        adm = 1
+        mil = 2
+    }
+}

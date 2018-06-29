@@ -1,0 +1,420 @@
+﻿government = daimyo
+government_rank = 1
+primary_culture = kyushuan
+religion = shinto
+technology_group = chinese
+capital = 4182
+1336.4.11 = {
+    monarch = {
+        name = "Yorinao"  # Yorinao
+        dynasty = "Shoni"  # Shoni
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1372.1.30 = {
+    monarch = {
+        name = "Fuyusuke"  # Fuyusuke
+        dynasty = "Shoni"  # Shoni
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+}
+1375.9.22 = {
+    monarch = {
+        name = "Fuyusuke"  # Fuyusuke
+        dynasty = "Shoni"  # Shoni
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+}
+1375.9.22 = {
+    heir = {
+        name = "Mitsusada"  # Mitsusada
+        monarch_name = "Mitsusada"  # Mitsusada
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1375.9.22
+        death_date = 1404.1.1
+        claim = 90
+        adm = 3
+        dip = 4
+        mil = 2
+    }
+}
+1387.1.1 = {
+    monarch = {
+        name = "Sadayori"  # Sadayori
+        dynasty = "Shoni"  # Shoni
+        adm = 3
+        dip = 4
+        mil = 2
+    }
+}
+1387.1.1 = {
+    heir = {
+        name = "Mitsusada"  # Mitsusada
+        monarch_name = "Mitsusada"  # Mitsusada
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1380.1.1
+        death_date = 1433.9.29
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1404.1.1 = {
+    monarch = {
+        name = "Mistusada"  # Mistusada
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1380.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1404.1.1 = {
+    heir = {
+        name = "Suketsugu"  # Suketsugu
+        monarch_name = "Suketsugu"  # Suketsugu
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1400.1.1
+        death_date = 1441.1.1
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1433.9.29 = {
+    monarch = {
+        name = "Suketsugu"  # Suketsugu
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1400.1.1
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = bold_fighter_personality
+}
+1441.1.1 = {
+    monarch = {
+        name = "Noriyori"  # Noriyori
+        dynasty = "Shoni"  # Shoni
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1450.1.1 = {
+    heir = {
+        name = "Masasuke"  # Masasuke
+        monarch_name = "Masasuke"  # Masasuke
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1450.1.1
+        death_date = 1497.1.1
+        claim = 90
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1468.1.1 = {
+    monarch = {
+        name = "Masasuke"  # Masasuke
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1450.1.1
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1491.1.1 = {
+    heir = {
+        name = "Sukemoto"  # Sukemoto
+        monarch_name = "Sukemoto"  # Sukemoto
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1491.1.1
+        death_date = 1536.1.22
+        claim = 90
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1497.1.1 = {
+    monarch = {
+        name = "Sukemoto"  # Sukemoto
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1491.1.1
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1529.1.1 = {
+    heir = {
+        name = "Fuyuhisa"  # Fuyuhisa
+        monarch_name = "Fuyuhisa"  # Fuyuhisa
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1529.1.1
+        death_date = 1559.2.18
+        claim = 90
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1536.1.22 = {
+    monarch = {
+        name = "Fuyuhisa"  # Fuyuhisa
+        dynasty = "Shoni"  # Shoni
+        birth_date = 1529.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1559.2.18 = {
+    monarch = {
+        name = "Takanobu"  # Takanobu
+        dynasty = "Ryuzoji"  # Ryuzoji
+        birth_date = 1529.3.2
+        adm = 4
+        dip = 3
+        mil = 6
+    }
+}
+1559.2.18 = {
+    heir = {
+        name = "Masaie"  # Masaie
+        monarch_name = "Masaie"  # Masaie
+        dynasty = "Ryuzoji"  # Ryuzoji
+        birth_date = 1556.1.1
+        death_date = 1607.11.21
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1607.11.21 = {
+    monarch = {
+        name = "Naoshige"  # Naoshige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1538.4.12
+        adm = 5
+        dip = 5
+        mil = 4
+    }
+}
+1607.11.21 = {
+    heir = {
+        name = "Katsushige"  # Katsushige
+        monarch_name = "Katsushige"  # Katsushige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1580.12.4
+        death_date = 1657.5.7
+        claim = 90
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+}
+1618.7.24 = {
+    monarch = {
+        name = "Katsushige"  # Katsushige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1580.12.4
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+}
+1632.7.10 = {
+    heir = {
+        name = "Mitsushige"  # Mitsushige
+        monarch_name = "Mitsushige"  # Mitsushige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1632.7.10
+        death_date = 1700.7.2
+        claim = 90
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1657.5.7 = {
+    monarch = {
+        name = "Mitsushige"  # Mitsushige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1632.7.10
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1657.5.7 = {
+    heir = {
+        name = "Tsunashige"  # Tsunashige
+        monarch_name = "Tsunashige"  # Tsunashige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1652.6.10
+        death_date = 1707.1.5
+        claim = 90
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1700.7.2 = {
+    monarch = {
+        name = "Tsunashige"  # Tsunashige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1652.6.10
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1700.7.2 = {
+    heir = {
+        name = "Yoshishige"  # Yoshishige
+        monarch_name = "Yoshishige"  # Yoshishige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1664.5.14
+        death_date = 1730.5.4
+        claim = 90
+        adm = 4
+        dip = 3
+        mil = 4
+    }
+}
+1707.1.5 = {
+    monarch = {
+        name = "Yoshishige"  # Yoshishige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1664.5.14
+        adm = 4
+        dip = 3
+        mil = 4
+    }
+}
+1707.1.5 = {
+    heir = {
+        name = "Muneshige"  # Muneshige
+        monarch_name = "Muneshige"  # Muneshige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1687.2.3
+        death_date = 1755.1.7
+        claim = 90
+        adm = 3
+        dip = 3
+        mil = 2
+    }
+}
+1730.5.4 = {
+    monarch = {
+        name = "Muneshige"  # Muneshige
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1687.2.3
+        adm = 3
+        dip = 3
+        mil = 2
+    }
+}
+1730.5.4 = {
+    heir = {
+        name = "Munenori"  # Munenori
+        monarch_name = "Munenori"  # Munenori
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1718.5.19
+        death_date = 1780.3.7
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1755.1.7 = {
+    monarch = {
+        name = "Munenori"  # Munenori
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1718.5.19
+        adm = 3
+        dip = 3
+        mil = 2
+    }
+}
+1755.1.7 = {
+    heir = {
+        name = "Shigemochi"  # Shigemochi
+        monarch_name = "Shigemochi"  # Shigemochi
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1733.8.27
+        death_date = 1770.8.1
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1760.1.1 = {
+    monarch = {
+        name = "Shigemochi"  # Shigemochi
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1733.8.27
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1770.8.1 = {
+    monarch = {
+        name = "Harushige"  # Harushige
+        dynasty = "Nabeshima"  # Nabeshima
+        adm = 4
+        dip = 4
+        mil = 4
+    }
+}
+1780.10.20 = {
+    heir = {
+        name = "Narinao"  # Narinao
+        monarch_name = "Narinao"  # Narinao
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1780.10.20
+        death_date = 1839.3.13
+        claim = 90
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1805.2.9 = {
+    monarch = {
+        name = "Narinao"  # Narinao
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1780.10.20
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1815.1.16 = {
+    heir = {
+        name = "Naomasa"  # Naomasa
+        monarch_name = "Naomasa"  # Naomasa
+        dynasty = "Nabeshima"  # Nabeshima
+        birth_date = 1815.1.16
+        death_date = 1871.3.8
+        claim = 90
+        adm = 5
+        dip = 5
+        mil = 5
+    }
+}

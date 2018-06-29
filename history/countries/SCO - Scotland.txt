@@ -1,0 +1,375 @@
+﻿government = feudal_monarchy
+primary_culture = scottish
+add_accepted_culture = highland_scottish
+religion = catholic
+technology_group = western
+capital = 248
+1390.1.1 = {
+    monarch = {
+        name = "Robert III"  # Robert III
+        dynasty = "Stuart"  # Stuart
+        adm = 1
+        dip = 2
+        mil = 2
+    }
+}
+1394.12.10 = {
+    heir = {
+        name = "James"  # James
+        monarch_name = "James I"  # James I
+        dynasty = "Stuart"  # Stuart
+        birth_date = 1394.12.10
+        death_date = 1437.2.21
+        claim = 95
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+}
+1400.12.24 = {
+    leader = {
+        name = "Archibald"  # Archibald
+        Douglas"type = generalfire
+         = 0death_date
+         = 1424.8.17
+    }
+}
+1406.1.1 = {
+    monarch = {
+        name = "James I"  # James I
+        dynasty = "Stuart"  # Stuart
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+}
+1430.10.16 = {
+    heir = {
+        name = "James"  # James
+        monarch_name = "James II"  # James II
+        dynasty = "Stuart"  # Stuart
+        birth_date = 1430.10.16
+        death_date = 1460.8.3
+        claim = 95
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1437.2.20 = {
+    monarch = {
+        name = "James II"  # James II
+        dynasty = "Stuart"  # Stuart
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = righteous_personality
+}
+1449.7.3 = {
+    queen = {
+        country_of_origin = GEL
+        name = "Mary"  # Mary
+        dynasty = "van Egmond"  # van Egmond
+        birth_date = 1434.1.1
+        death_date = 1460.8.3
+        female = yes
+        adm = 3
+        dip = 3
+        mil = 2
+    }
+}
+1451.7.10 = {
+    heir = {
+        name = "James"  # James
+        monarch_name = "James III"  # James III
+        dynasty = "Stuart"  # Stuart
+        birth_date = 1451.7.10
+        death_date = 1488.6.11
+        claim = 95
+        adm = 0
+        dip = 2
+        mil = 2
+    }
+}
+1460.8.3 = {
+    monarch = {
+        name = "James III"  # James III
+        dynasty = "Stuart"  # Stuart
+        adm = 0
+        dip = 2
+        mil = 2
+    }
+}
+1473.3.17 = {
+    heir = {
+        name = "James"  # James
+        monarch_name = "James IV"  # James IV
+        dynasty = "Stuart"  # Stuart
+        birth_date = 1473.3.17
+        death_date = 1513.9.9
+        claim = 95
+        adm = 3
+        dip = 4
+        mil = 1
+        leader = {
+            name = "James"  # James
+            IV"type = generalfire
+             = 2siege
+             = 0
+        }
+    }
+}
+1488.6.12 = {
+    monarch = {
+        name = "James IV"  # James IV
+        dynasty = "Stuart"  # Stuart
+        adm = 3
+        dip = 4
+        mil = 1
+        leader = {
+            name = "James"  # James
+            IV"type = generalfire
+             = 2siege
+             = 0
+        }
+    }
+}
+1512.4.10 = {
+    heir = {
+        name = "James"  # James
+        monarch_name = "James V"  # James V
+        dynasty = "Stuart"  # Stuart
+        birth_date = 1512.4.10
+        death_date = 1542.12.14
+        claim = 95
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+}
+1513.9.10 = {
+    monarch = {
+        name = "James V"  # James V
+        dynasty = "Stuart"  # Stuart
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+}
+1542.12.8 = {
+    heir = {
+        name = "Mary"  # Mary
+        monarch_name = "Mary I"  # Mary I
+        dynasty = "Stuart"  # Stuart
+        birth_date = 1542.12.8
+        death_date = 1587.2.8
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 3
+        female = yes
+    }
+}
+1542.12.15 = {
+    monarch = {
+        name = "Mary I"  # Mary I
+        dynasty = "Stuart"  # Stuart
+        adm = 2
+        dip = 3
+        mil = 3
+        female = yes
+    }
+}
+1546.1.1 = {
+    leader = {
+        name = "James"  # James
+        Hamilton" = generalfire
+         = 0death_date
+         = 1569.1.1
+    }
+}
+1550.1.1 = {
+    leader = {
+        name = "Malcolm"  # Malcolm
+         = 0death_date
+         = 1595.1.1
+    }
+}
+1560.8.1 = {
+    religion = reformed
+}
+1566.6.19 = {
+    heir = {
+        name = "James"  # James
+        monarch_name = "James VI"  # James VI
+        dynasty = "Stuart"  # Stuart
+        birth_date = 1566.6.19
+        death_date = 1625.3.27
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 4
+    }
+}
+1567.7.15 = {
+    monarch = {
+        name = "James VI"  # James VI
+        dynasty = "Stuart"  # Stuart
+        adm = 2
+        dip = 3
+        mil = 4
+    }
+}
+1567.7.15 = {
+    government = despotic_monarchyreligion
+     = reformed
+}
+1600.11.19 = {
+    heir = {
+        name = "Charles"  # Charles
+        monarch_name = "Charles I"  # Charles I
+        dynasty = "Stuart"  # Stuart
+        birth_date = 1600.11.19
+        death_date = 1649.1.30
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 4
+    }
+}
+1625.3.28 = {
+    monarch = {
+        name = "Charles I"  # Charles I
+        dynasty = "Stuart"  # Stuart
+        adm = 2
+        dip = 1
+        mil = 4
+    }
+}
+1630.1.1 = {
+    leader = {
+        name = "James"  # James
+        Hamilton"type = generalfire
+         = 0death_date
+         = 1649.3.9
+    }
+}
+1630.5.29 = {
+    heir = {
+        name = "Charles"  # Charles
+        monarch_name = "Charles II"  # Charles II
+        dynasty = "Stuart"  # Stuart
+        birth_date = 1630.5.29
+        death_date = 1685.2.6
+        claim = 95
+        adm = 4
+        dip = 3
+        mil = 5
+    }
+}
+1635.1.1 = {
+    leader = {
+        name = "Alexander"  # Alexander
+        Leslie"type = generalfire
+         = 0death_date
+         = 1651.8.1
+    }
+}
+1644.1.1 = {
+    leader = {
+        name = "David"  # David
+        Leslie"type = generalfire
+         = 0death_date
+         = 1650.1.1
+    }
+}
+1649.1.30 = {
+    monarch = {
+        name = "Alexander"  # Alexander
+        dynasty = "Leslie"  # Leslie
+        adm = 4
+        dip = 3
+        mil = 5
+    }
+}
+1660.4.24 = {
+    monarch = {
+        name = "Charles II"  # Charles II
+        dynasty = "Stuart"  # Stuart
+        adm = 0
+        dip = 3
+        mil = 3
+        leader = {
+            name = "Charles"  # Charles
+            II"type = generalfire
+             = 2siege
+             = 0
+        }
+    }
+}
+1660.4.24 = {
+    heir = {
+        name = "James"  # James
+        monarch_name = "James VII"  # James VII
+        dynasty = "Stuart"  # Stuart
+        birth_date = 1633.10.14
+        death_date = 1701.9.16
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 3
+    }
+}
+1678.1.1 = {
+    leader = {
+        name = "Dundee"  # Dundee
+         = 0death_date
+         = 1689.1.1
+    }
+}
+1685.2.6 = {
+    monarch = {
+        name = "James VII"  # James VII
+        dynasty = "Stuart"  # Stuart
+        adm = 1
+        dip = 3
+        mil = 3
+    }
+}
+1688.2.15 = {
+    monarch = {
+        name = "William III"  # William III
+        dynasty = "van Oranje"  # van Oranje
+        adm = 3
+        dip = 5
+        mil = 5
+    }
+}
+1694.1.1 = {
+    leader = {
+        name = "Berwick"  # Berwick
+         = 0death_date
+         = 1723.1.1
+    }
+}
+1701.9.7 = {
+    monarch = {
+        name = "James VIII"  # James VIII
+        dynasty = "Stuart"  # Stuart
+        adm = 3
+        dip = 5
+        mil = 4
+    }
+}
+1702.3.20 = {
+    monarch = {
+        name = "Anne"  # Anne
+        dynasty = "Stuart"  # Stuart
+        adm = 3
+        dip = 5
+        mil = 4
+        female = yes
+    }
+}

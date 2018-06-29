@@ -1,0 +1,22 @@
+﻿government = merchant_republic
+government_rank = 1
+mercantilism = 25
+technology_group = western
+religion = catholic
+primary_culture = hannoverian
+capital = 45
+historical_friend = HAM
+historical_friend = BRE
+historical_friend = RIG
+1444.11.11 = {
+    monarch = {
+        name = "Stadtrat"  # Stadtrat
+        adm = 3
+        dip = 3
+        mil = 3
+        regent = yes
+    }
+}
+1529.1.1 = {
+    religion = protestant
+}

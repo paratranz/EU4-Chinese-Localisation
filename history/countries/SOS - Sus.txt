@@ -1,0 +1,49 @@
+﻿government = iqta
+primary_culture = berber
+religion = sunni
+technology_group = muslim
+capital = 348
+fixed_capital = 348
+religious_school = maliki_school
+1472.1.1 = {
+    monarch = {
+        name = "Barakat"  # Barakat
+        dynasty = "al-Tadsi"  # al-Tadsi
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+    add_piety = 0.3
+}
+1613.1.1 = {
+    monarch = {
+        name = "Abu Hassun"  # Abu Hassun
+        dynasty = "al-Ilighi"  # al-Ilighi
+        adm = 4
+        dip = 2
+        mil = 3
+    }
+    add_piety = 1.0
+}
+1613.1.1 = {
+    heir = {
+        name = "Muhammad"  # Muhammad
+        monarch_name = "Muhammad"  # Muhammad
+        dynasty = "al-Ilighi"  # al-Ilighi
+        birth_date = 1613.1.1
+        death_Date = 1680.1.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1659.1.1 = {
+    monarch = {
+        name = "Muhammad"  # Muhammad
+        dynasty = "al-Ilighi"  # al-Ilighi
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}

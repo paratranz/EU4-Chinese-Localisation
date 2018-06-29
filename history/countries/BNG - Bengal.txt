@@ -1,0 +1,790 @@
+﻿government = iqta
+primary_culture = bengali
+religion = sunni
+technology_group = indian
+capital = 563
+religious_school = hanafi_school
+1390.1.1 = {
+    monarch = {
+        name = "Ghiyasuddin Azam"  # Ghiyasuddin Azam
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        ADM = 1
+        DIP = 2
+        MIL = 2
+    }
+}
+1390.1.1 = {
+    heir = {
+        name = "Hamza"  # Hamza
+        monarch_name = "Sayf-ud-Din Hamza"  # Sayf-ud-Din Hamza
+        dynasty = "Ilya Shahi"  # Ilya Shahi
+        birth_date = 1390.1.1
+        death_date = 1411.1.1
+        claim = 95
+        ADM = 3
+        DIP = 2
+        MIL = 1
+    }
+}
+1410.1.1 = {
+    monarch = {
+        name = "Sayf-ud-Din Hamza"  # Sayf-ud-Din Hamza
+        dynasty = "Ilya Shahi"  # Ilya Shahi
+        ADM = 3
+        DIP = 2
+        MIL = 1
+    }
+}
+1410.1.1 = {
+    heir = {
+        name = "Bayazid"  # Bayazid
+        monarch_name = "Shihab-ud-Din Bayazid"  # Shihab-ud-Din Bayazid
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        birth_date = 1390.1.1
+        death_Date = 1414.1.1
+        claim = 95
+        ADM = 1
+        DIP = 3
+        MIL = 1
+    }
+}
+1412.1.1 = {
+    monarch = {
+        name = "Shihab-ud-Din Bayazid"  # Shihab-ud-Din Bayazid
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        ADM = 1
+        DIP = 3
+        MIL = 1
+    }
+}
+1412.1.1 = {
+    heir = {
+        name = "Firuz"  # Firuz
+        monarch_name = "Ala-ud-Din Firuz"  # Ala-ud-Din Firuz
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        birth_date = 1390.1.1
+        death_Date = 1415.1.1
+        claim = 95
+        ADM = 2
+        DIP = 0
+        MIL = 0
+    }
+}
+1414.1.1 = {
+    monarch = {
+        name = "Ala-ud-Din Firuz"  # Ala-ud-Din Firuz
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        ADM = 2
+        DIP = 0
+        MIL = 0
+    }
+}
+1415.1.1 = {
+    monarch = {
+        name = "Raja Ganesh"  # Raja Ganesh
+        dynasty = "Ganesha"  # Ganesha
+        ADM = 1
+        DIP = 4
+        MIL = 3
+    }
+}
+1415.1.1 = {
+    heir = {
+        name = "Mohammed"  # Mohammed
+        monarch_name = "Jalaluddin Mohammed"  # Jalaluddin Mohammed
+        dynasty = "Ganesha"  # Ganesha
+        birth_date = 1400.1.1
+        death_date = 1433.1.1
+        claim = 95
+        ADM = 3
+        DIP = 1
+        MIL = 1
+    }
+}
+1418.1.1 = {
+    monarch = {
+        name = "Jalaluddin Mohammed"  # Jalaluddin Mohammed
+        dynasty = "Ganesha"  # Ganesha
+        ADM = 3
+        DIP = 1
+        MIL = 1
+    }
+}
+1418.1.1 = {
+    heir = {
+        name = "Ahmad"  # Ahmad
+        monarch_name = "Shamsuddin Ahmad"  # Shamsuddin Ahmad
+        dynasty = "Ganesha"  # Ganesha
+        birth_date = 1410.1.1
+        death_date = 1435.1.1
+        claim = 95
+        ADM = 2
+        DIP = 4
+        MIL = 1
+    }
+}
+1433.1.1 = {
+    monarch = {
+        name = "Shamsuddin Ahmad"  # Shamsuddin Ahmad
+        dynasty = "Ganesha"  # Ganesha
+        ADM = 2
+        DIP = 4
+        MIL = 1
+    }
+}
+1435.1.1 = {
+    monarch = {
+        name = "Nasir-ud-Din Mahmud"  # Nasir-ud-Din Mahmud
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        ADM = 3
+        DIP = 2
+        MIL = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = architectural_visionary_personality
+    add_heir_personality = bold_fighter_personality
+    heir = {
+        name = "Barbak"  # Barbak
+        monarch_name = "Rukun-ud-Din Barbak"  # Rukun-ud-Din Barbak
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        birth_date = 1430.1.1
+        death_date = 1474.1.1
+        claim = 95
+        ADM = 4
+        DIP = 4
+        MIL = 5
+    }
+}
+1459.1.1 = {
+    monarch = {
+        name = "Rukun-ud-Din Barbak"  # Rukun-ud-Din Barbak
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        ADM = 4
+        DIP = 4
+        MIL = 5
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = bold_fighter_personality
+    add_ruler_personality = well_connected_personality
+    add_ruler_personality = tolerant_personality
+}
+1459.1.1 = {
+    heir = {
+        name = "Yusuf"  # Yusuf
+        monarch_name = "Shams-ud-Din Yusuf"  # Shams-ud-Din Yusuf
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        birth_date = 1459.1.1
+        death_Date = 1481.1.1
+        claim = 95
+        ADM = 2
+        DIP = 1
+        MIL = 2
+    }
+}
+1474.1.1 = {
+    monarch = {
+        name = "Shams-ud-Din Yusuf"  # Shams-ud-Din Yusuf
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        ADM = 2
+        DIP = 1
+        MIL = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = zealot_personality
+    add_heir_personality = babbling_buffoon_personality
+    heir = {
+        name = "Sikandar"  # Sikandar
+        monarch_name = "Sikandar II"  # Sikandar II
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        birth_date = 1460.1.1
+        death_date = 1482.1.1
+        claim = 95
+        ADM = 1
+        DIP = 1
+        MIL = 1
+    }
+}
+1481.1.1 = {
+    monarch = {
+        name = "Sikandar II"  # Sikandar II
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        ADM = 1
+        DIP = 1
+        MIL = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = babbling_buffoon_personality
+    add_heir_personality = tolerant_personality
+    heir = {
+        name = "Jalal ad-Din Fateh"  # Jalal ad-Din Fateh
+        monarch_name = "Jalal ad-Din Fateh"  # Jalal ad-Din Fateh
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        birth_date = 1460.1.1
+        death_date = 1487.1.1
+        claim = 95
+        ADM = 3
+        DIP = 2
+        MIL = 3
+    }
+}
+1482.1.1 = {
+    monarch = {
+        name = "Jalal ad-Din Fateh"  # Jalal ad-Din Fateh
+        dynasty = "Ilyas Shahi"  # Ilyas Shahi
+        ADM = 3
+        DIP = 2
+        MIL = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = scholar_personality
+    add_ruler_personality = tolerant_personality
+}
+1487.1.1 = {
+    monarch = {
+        name = "Shahzada Barbak"  # Shahzada Barbak
+        dynasty = "Abyssinid"  # Abyssinid
+        ADM = 0
+        DIP = 0
+        MIL = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = cruel_personality
+}
+1487.1.1 = {
+    heir = {
+        name = "Sayf-ud-Din Firuz"  # Sayf-ud-Din Firuz
+        monarch_name = "Sayf ad-Din Firuz"  # Sayf ad-Din Firuz
+        dynasty = "Abyssinid"  # Abyssinid
+        birth_date = 1460.1.1
+        death_date = 1490.1.1
+        claim = 95
+        ADM = 0
+        DIP = 0
+        MIL = 1
+    }
+}
+1488.1.1 = {
+    monarch = {
+        name = "Sayf-ud-Din Firuz"  # Sayf-ud-Din Firuz
+        dynasty = "Abyssinid"  # Abyssinid
+        ADM = 0
+        DIP = 0
+        MIL = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = just_personality
+}
+1488.1.1 = {
+    heir = {
+        name = "Nasir-ud-Din Mahmud"  # Nasir-ud-Din Mahmud
+        monarch_name = "Nasir-ud-Din Mahmud II"  # Nasir-ud-Din Mahmud II
+        dynasty = "Abyssinid"  # Abyssinid
+        birth_date = 1488.1.1
+        death_date = 1491.1.1
+        claim = 95
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+}
+1490.1.1 = {
+    monarch = {
+        name = "Nasir-ud-Din Mahmud II"  # Nasir-ud-Din Mahmud II
+        dynasty = "Abyssinid"  # Abyssinid
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+}
+1490.1.1 = {
+    heir = {
+        name = "Shams ad-Din Muzaffar"  # Shams ad-Din Muzaffar
+        monarch_name = "Shams ad-Din Muzaffar"  # Shams ad-Din Muzaffar
+        dynasty = "Abyssinid"  # Abyssinid
+        birth_date = 1465.1.1
+        death_date = 1493.1.1
+        claim = 95
+        ADM = 0
+        DIP = 0
+        MIL = 1
+    }
+}
+1491.1.1 = {
+    monarch = {
+        name = "Shams ad-Din Muzaffar"  # Shams ad-Din Muzaffar
+        dynasty = "Abyssinid"  # Abyssinid
+        ADM = 0
+        DIP = 0
+        MIL = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = cruel_personality
+    add_ruler_personality = malevolent_personality
+}
+1493.1.1 = {
+    monarch = {
+        name = "Ala-ud-din Husain"  # Ala-ud-din Husain
+        dynasty = "Hussein Shahi"  # Hussein Shahi
+        ADM = 3
+        DIP = 2
+        MIL = 4
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = strict_personality
+    add_ruler_personality = scholar_personality
+    add_ruler_personality = tolerant_personality
+}
+1500.1.1 = {
+    heir = {
+        name = "Nasir ad-Din Nasrat"  # Nasir ad-Din Nasrat
+        monarch_name = "Nasir ad-Din Nasrat"  # Nasir ad-Din Nasrat
+        dynasty = "Hussein Shahi"  # Hussein Shahi
+        birth_date = 1500.1.1
+        death_date = 1533.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1519.1.1 = {
+    monarch = {
+        name = "Nasir ad-Din Nasrat"  # Nasir ad-Din Nasrat
+        dynasty = "Hussein Shahi"  # Hussein Shahi
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = silver_tongue_personality
+}
+1519.1.1 = {
+    heir = {
+        name = "Ala-ud-din Firuz"  # Ala-ud-din Firuz
+        monarch_name = "'Ala' ad-Din Firuz III"  # 'Ala' ad-Din Firuz III
+        dynasty = "Hussein Shahi"  # Hussein Shahi
+        birth_date = 1519.1.1
+        death_date = 1533.3.1
+        claim = 95
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+}
+1533.1.1 = {
+    monarch = {
+        name = "Ala-ud-din Firuz III"  # Ala-ud-din Firuz III
+        dynasty = "Hussein Shahi"  # Hussein Shahi
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+}
+1533.1.1 = {
+    heir = {
+        name = "Ghiyasuddin Mahmud"  # Ghiyasuddin Mahmud
+        monarch_name = "Ghiyasuddin Mahmud"  # Ghiyasuddin Mahmud
+        dynasty = "Hussein Shahi"  # Hussein Shahi
+        birth_date = 1510.1.1
+        death_date = 1538.4.1
+        claim = 95
+        ADM = 1
+        DIP = 1
+        MIL = 3
+    }
+}
+1533.3.1 = {
+    monarch = {
+        name = "Ghiyasuddin Mahmud"  # Ghiyasuddin Mahmud
+        dynasty = "Hussein Shahi"  # Hussein Shahi
+        ADM = 1
+        DIP = 1
+        MIL = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = craven_personality
+}
+1538.1.1 = {
+    monarch = {
+        name = "Sher Shah"  # Sher Shah
+        dynasty = "Suri"  # Suri
+        culture = afghani
+        ADM = 6
+        DIP = 4
+        MIL = 6
+        leader = {
+            name = "Sher"  # Sher
+            Shah"type = generalfire
+             = 5siege
+             = 2
+        }
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = conqueror_personality
+    add_ruler_personality = lawgiver_personality
+    add_ruler_personality = strict_personality
+    add_accepted_culture = avadhi
+}
+1538.4.1 = {
+    heir = {
+        name = "Islam Shah"  # Islam Shah
+        monarch_name = "Islam Shah"  # Islam Shah
+        culture = afghani
+        dynasty = "Suri"  # Suri
+        birth_date = 1510.1.1
+        death_date = 1545.4.23
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 3
+    }
+}
+1540.1.1 = {
+    add_accepted_culture = kanauji
+}
+1544.1.1 = {
+    add_accepted_culture = panjabi
+}
+1545.5.22 = {
+    monarch = {
+        name = "Islam Shah"  # Islam Shah
+        dynasty = "Suri"  # Suri
+        ADM = 2
+        DIP = 2
+        MIL = 3
+    }
+}
+1545.5.23 = {
+    heir = {
+        name = "Shams ud-Din Muhammad"  # Shams ud-Din Muhammad
+        monarch_name = "Shams ud-Din Muhammad"  # Shams ud-Din Muhammad
+        dynasty = "Suri"  # Suri
+        birth_date = 1520.1.1
+        death_date = 1555.1.1
+        claim = 45
+        ADM = 3
+        DIP = 3
+        MIL = 1
+    }
+}
+1553.1.1 = {
+    monarch = {
+        name = "Shams ud-Din Muhammad"  # Shams ud-Din Muhammad
+        dynasty = "Suri"  # Suri
+        ADM = 3
+        DIP = 3
+        MIL = 1
+    }
+    remove_accepted_culture = panjabi
+    remove_accepted_culture = avadhi
+    remove_accepted_culture = kanauji
+}
+1553.1.1 = {
+    capital = 563
+    heir = {
+        name = "Ghiyat ad-Din Bahadur"  # Ghiyat ad-Din Bahadur
+        monarch_name = "Ghiyat ad-Din Bahadur"  # Ghiyat ad-Din Bahadur
+        dynasty = "Suri"  # Suri
+        birth_date = 1530.1.1
+        death_Date = 1561.1.1
+        claim = 95
+        ADM = 4
+        DIP = 2
+        MIL = 4
+    }
+}
+1555.1.1 = {
+    monarch = {
+        name = "Ghiyat ad-Din Bahadur"  # Ghiyat ad-Din Bahadur
+        dynasty = "Suri"  # Suri
+        ADM = 4
+        DIP = 2
+        MIL = 4
+    }
+}
+1555.1.1 = {
+    heir = {
+        name = "Ghiyat ad-Din Jalal"  # Ghiyat ad-Din Jalal
+        monarch_name = "Ghiyat ad-Din Jalal"  # Ghiyat ad-Din Jalal
+        dynasty = "Suri"  # Suri
+        birth_date = 1530.1.1
+        death_date = 1564.1.1
+        claim = 95
+        ADM = 2
+        DIP = 1
+        MIL = 3
+    }
+}
+1561.1.1 = {
+    monarch = {
+        name = "Ghiyat ad-Din Jalal"  # Ghiyat ad-Din Jalal
+        dynasty = "Suri"  # Suri
+        ADM = 2
+        DIP = 1
+        MIL = 3
+    }
+}
+1564.1.1 = {
+    monarch = {
+        name = "Sulayman Khan"  # Sulayman Khan
+        dynasty = "Karrani"  # Karrani
+        ADM = 1
+        DIP = 1
+        MIL = 1
+    }
+}
+1564.1.1 = {
+    heir = {
+        name = "Da'ud"  # Da'ud
+        monarch_name = "Da'ud"  # Da'ud
+        dynasty = "Karrani"  # Karrani
+        birth_date = 1550.1.1
+        death_Date = 1576.7.12
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 3
+    }
+}
+1572.1.1 = {
+    monarch = {
+        name = "Da'ud"  # Da'ud
+        dynasty = "Karrani"  # Karrani
+        ADM = 2
+        DIP = 2
+        MIL = 3
+    }
+}
+1576.7.12 = {
+    capital = 563
+}
+1707.3.15 = {
+    monarch = {
+        name = "Murshid Quli"  # Murshid Quli
+        dynasty = "Nasiri"  # Nasiri
+        ADM = 5
+        DIP = 3
+        MIL = 4
+    }
+    government_rank = 1
+}
+1707.3.15 = {
+    heir = {
+        name = "Shuja' ad-Din Muhammad"  # Shuja' ad-Din Muhammad
+        monarch_name = "Shuja' ad-Din Muhammad"  # Shuja' ad-Din Muhammad
+        dynasty = "Nasiri"  # Nasiri
+        birth_date = 1670.1.1
+        death_date = 1739.8.26
+        claim = 95
+        ADM = 4
+        DIP = 3
+        MIL = 1
+    }
+}
+1726.1.1 = {
+    monarch = {
+        name = "Shuja' ad-Din Muhammad"  # Shuja' ad-Din Muhammad
+        dynasty = "Nasiri"  # Nasiri
+        ADM = 4
+        DIP = 3
+        MIL = 1
+    }
+}
+1726.1.1 = {
+    heir = {
+        name = "'Ala' ad-Daula Sarafaraz"  # 'Ala' ad-Daula Sarafaraz
+        monarch_name = "'Ala' ad-Daula Sarafaraz"  # 'Ala' ad-Daula Sarafaraz
+        dynasty = "Nasiri"  # Nasiri
+        birth_date = 1700.1.1
+        death_date = 1740.5.13
+        claim = 95
+        ADM = 0
+        DIP = 1
+        MIL = 0
+    }
+}
+1739.3.24 = {
+    monarch = {
+        name = "'Ala' ad-Daula Sarfaraz"  # 'Ala' ad-Daula Sarfaraz
+        dynasty = "Nasiri"  # Nasiri
+        ADM = 0
+        DIP = 1
+        MIL = 0
+    }
+}
+1739.3.24 = {
+    heir = {
+        name = "Ali-Vardi Khan"  # Ali-Vardi Khan
+        monarch_name = "Ali-Vardi Khan"  # Ali-Vardi Khan
+        dynasty = "Afshar"  # Afshar
+        birth_date = 1671.5.10
+        death_date = 1756.4.9
+        claim = 95
+        ADM = 4
+        DIP = 3
+        MIL = 2
+    }
+}
+1740.5.13 = {
+    monarch = {
+        name = "Ali-Vardi Khan"  # Ali-Vardi Khan
+        dynasty = "Afshar"  # Afshar
+        ADM = 4
+        DIP = 3
+        MIL = 2
+    }
+}
+1740.5.13 = {
+    heir = {
+        name = "Mirza Mahmud Siraj"  # Mirza Mahmud Siraj
+        monarch_name = "Mirza Mahmud Siraj"  # Mirza Mahmud Siraj
+        dynasty = "Afshar"  # Afshar
+        birth_date = 1733.1.1
+        death_date = 1757.7.2
+        claim = 95
+        ADM = 0
+        DIP = 1
+        MIL = 2
+    }
+}
+1756.4.10 = {
+    monarch = {
+        name = "Mirza Mahmud Siraj"  # Mirza Mahmud Siraj
+        dynasty = "Afshar"  # Afshar
+        ADM = 0
+        DIP = 1
+        MIL = 2
+    }
+}
+1756.4.10 = {
+    heir = {
+        name = "Mir Muhammad Ja'far"  # Mir Muhammad Ja'far
+        monarch_name = "Mir Muhammad Ja'far"  # Mir Muhammad Ja'far
+        dynasty = "Afshar"  # Afshar
+        birth_date = 1691.1.1
+        death_date = 1765.2.5
+        claim = 95
+        ADM = 1
+        DIP = 2
+        MIL = 2
+    }
+}
+1757.6.24 = {
+    monarch = {
+        name = "Mir Muhammad Ja'far"  # Mir Muhammad Ja'far
+        dynasty = "Afshar"  # Afshar
+        ADM = 1
+        DIP = 2
+        MIL = 2
+    }
+}
+1757.6.24 = {
+    heir = {
+        name = "Mir Qasim 'Ali"  # Mir Qasim 'Ali
+        monarch_name = "Mir Qasim 'Ali"  # Mir Qasim 'Ali
+        dynasty = "Afshar"  # Afshar
+        birth_date = 1720.1.1
+        death_Date = 1763.7.8
+        claim = 95
+        ADM = 3
+        DIP = 2
+        MIL = 3
+    }
+}
+1760.10.21 = {
+    monarch = {
+        name = "Mir Qasim 'Ali"  # Mir Qasim 'Ali
+        dynasty = "Afshar"  # Afshar
+        ADM = 3
+        DIP = 2
+        MIL = 3
+    }
+}
+1760.10.21 = {
+    heir = {
+        name = "Mir Muhammad Ja'far"  # Mir Muhammad Ja'far
+        monarch_name = "Mir Muhammad Ja'far"  # Mir Muhammad Ja'far
+        dynasty = "Najafi"  # Najafi
+        birth_date = 1691.1.1
+        death_date = 1765.2.5
+        claim = 95
+        ADM = 1
+        DIP = 2
+        MIL = 2
+    }
+}
+1763.7.8 = {
+    monarch = {
+        name = "Mir Muhammad Ja'far"  # Mir Muhammad Ja'far
+        dynasty = "Najafi"  # Najafi
+        ADM = 1
+        DIP = 2
+        MIL = 2
+    }
+}
+1763.7.8 = {
+    heir = {
+        name = "Mir Phulwari Najm"  # Mir Phulwari Najm
+        monarch_name = "Mir Phulwari Najm"  # Mir Phulwari Najm
+        dynasty = "Najafi"  # Najafi
+        birth_date = 1730.1.1
+        death_date = 1766.5.9
+        claim = 95
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+}
+1765.2.5 = {
+    monarch = {
+        name = "Mir Phulwari Najm"  # Mir Phulwari Najm
+        dynasty = "Najafi"  # Najafi
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+}
+1765.2.5 = {
+    heir = {
+        name = "Sayf ad-Daula"  # Sayf ad-Daula
+        monarch_name = "Sayf ad-Daula"  # Sayf ad-Daula
+        dynasty = "Najafi"  # Najafi
+        birth_date = 1730.1.1
+        death_date = 1770.3.11
+        claim = 95
+        ADM = 1
+        DIP = 0
+        MIL = 1
+    }
+}
+1766.5.9 = {
+    monarch = {
+        name = "Sayf ad-Daula"  # Sayf ad-Daula
+        dynasty = "Najafi"  # Najafi
+        ADM = 1
+        DIP = 0
+        MIL = 1
+    }
+}
+1766.5.9 = {
+    heir = {
+        name = "Mubarak ad-Daula"  # Mubarak ad-Daula
+        monarch_name = "Mubarak ad-Daula"  # Mubarak ad-Daula
+        dynasty = "Najafi"  # Najafi
+        birth_date = 1755.1.1
+        death_date = 1793.1.1
+        claim = 95
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+}
+1770.3.11 = {
+    monarch = {
+        name = "Mubarak ad-Daula"  # Mubarak ad-Daula
+        dynasty = "Najafi"  # Najafi
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+}

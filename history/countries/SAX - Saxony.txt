@@ -1,0 +1,570 @@
+﻿government = feudal_monarchy
+government_rank = 1
+primary_culture = saxon
+religion = catholic
+elector = yes
+technology_group = western
+capital = 62
+1388.1.1 = {
+    monarch = {
+        name = "Rudolf III"  # Rudolf III
+        dynasty = "Askanier"  # Askanier
+        birth_date = 1373.1.1
+        dip = 1
+        adm = 3
+        mil = 1
+    }
+}
+1388.1.1 = {
+    heir = {
+        name = "Albrecht"  # Albrecht
+        monarch_name = "Albrecht III"  # Albrecht III
+        dynasty = "Askanier"  # Askanier
+        birth_date = 1375.1.1
+        death_date = 1422.11.12
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1419.1.1 = {
+    monarch = {
+        name = "Albrecht III"  # Albrecht III
+        dynasty = "Askanier"  # Askanier
+        birth_date = 1375.1.1
+        dip = 3
+        adm = 2
+        mil = 2
+    }
+}
+1423.1.1 = {
+    monarch = {
+        name = "Friedrich I"  # Friedrich I
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1370.4.11
+        dip = 1
+        adm = 2
+        mil = 1
+    }
+}
+1423.1.1 = {
+    heir = {
+        name = "Friedrich"  # Friedrich
+        monarch_name = "Friedrich II"  # Friedrich II
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1412.8.22
+        death_date = 1464.9.7
+        claim = 95
+        adm = 4
+        dip = 3
+        mil = 0
+    }
+}
+1423.1.6 = {
+    capital = 61
+}
+1428.1.4 = {
+    monarch = {
+        name = "Friedrich II"  # Friedrich II
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1412.8.22
+        dip = 3
+        adm = 4
+        mil = 0
+    }
+    queen = {
+        country_of_origin = HAB
+        name = "Margaret"  # Margaret
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1416.6.3
+        death_date = 1464.9.7
+        female = yes
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = fertile_personality
+    add_ruler_personality = industrious_personality
+}
+1443.7.31 = {
+    heir = {
+        name = "Albrecht"  # Albrecht
+        monarch_name = "Albrecht I der Beherzte"  # Albrecht I der Beherzte
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1443.7.31
+        death_date = 1500.9.12
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 5
+    }
+}
+1464.9.7 = {
+    elector = no
+}
+1464.9.7 = {
+    monarch = {
+        name = "Albrecht I der Beherzte"  # Albrecht I der Beherzte
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1443.7.31
+        dip = 1
+        adm = 2
+        mil = 5
+    }
+}
+1471.8.27 = {
+    heir = {
+        name = "Georg"  # Georg
+        monarch_name = "Georg der Bärtige"  # Georg der Bärtige
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1471.8.27
+        death_date = 1539.4.17
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1500.9.12 = {
+    monarch = {
+        name = "Georg der Bärtige"  # Georg der Bärtige
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1471.8.27
+        dip = 1
+        adm = 1
+        mil = 2
+    }
+}
+1500.9.12 = {
+    heir = {
+        name = "Heinrich"  # Heinrich
+        monarch_name = "Heinrich der Fromme"  # Heinrich der Fromme
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1473.3.16
+        death_date = 1541.8.18
+        claim = 95
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1505.1.1 = {
+    leader = {
+        name = "Mauritz"  # Mauritz
+         = 0death_date
+         = 1532.1.1
+    }
+}
+1531.1.1 = {
+    religion = protestant
+}
+1539.4.17 = {
+    monarch = {
+        name = "Heinrich der Fromme"  # Heinrich der Fromme
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1473.3.16
+        dip = 2
+        adm = 1
+        mil = 1
+    }
+}
+1539.4.17 = {
+    heir = {
+        name = "Moritz"  # Moritz
+        monarch_name = "Moritz I"  # Moritz I
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1521.3.21
+        death_date = 1553.7.11
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 4
+        leader = {
+            name = "Moritz"  # Moritz
+            von = generalfire
+             = 4siege
+             = 1
+        }
+    }
+}
+1541.8.18 = {
+    monarch = {
+        name = "Moritz I"  # Moritz I
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1521.3.21
+        dip = 1
+        adm = 1
+        mil = 4
+        leader = {
+            name = "Moritz"  # Moritz
+            von = generalfire
+             = 4siege
+             = 1
+        }
+    }
+}
+1541.8.18 = {
+    heir = {
+        name = "August"  # August
+        monarch_name = "August"  # August
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1526.7.31
+        death_date = 1586.2.11
+        claim = 95
+        dip = 3
+        adm = 4
+        mil = 1
+    }
+}
+1547.5.19 = {
+    elector = yes
+}
+1550.1.1 = {
+    leader = {
+        name = "F."  # F.
+        von = generalfire
+         = 0death_date
+         = 1570.12.15
+    }
+}
+1553.7.11 = {
+    monarch = {
+        name = "August"  # August
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1526.7.31
+        dip = 3
+        adm = 4
+        mil = 1
+    }
+}
+1560.10.29 = {
+    heir = {
+        name = "Christian"  # Christian
+        monarch_name = "Christian I"  # Christian I
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1560.10.29
+        death_date = 1591.9.25
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1586.2.12 = {
+    monarch = {
+        name = "Christian I"  # Christian I
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1560.10.29
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1586.2.12 = {
+    heir = {
+        name = "Christian"  # Christian
+        monarch_name = "Christian II"  # Christian II
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1583.9.23
+        death_date = 1611.6.23
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1591.9.26 = {
+    monarch = {
+        name = "Christian II"  # Christian II
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1583.9.23
+        adm = 1
+        dip = 1
+        mil = 2
+    }
+}
+1591.9.26 = {
+    heir = {
+        name = "Johann Georg"  # Johann Georg
+        monarch_name = "Johann Georg I"  # Johann Georg I
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1585.3.5
+        death_date = 1656.10.8
+        claim = 95
+        adm = 3
+        dip = 4
+        mil = 4
+    }
+}
+1611.6.24 = {
+    monarch = {
+        name = "Johann Georg I"  # Johann Georg I
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1585.3.5
+        adm = 3
+        dip = 4
+        mil = 4
+    }
+}
+1613.6.10 = {
+    heir = {
+        name = "Johann Georg"  # Johann Georg
+        monarch_name = "Johann Georg II"  # Johann Georg II
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1613.6.10
+        death_date = 1680.8.22
+        claim = 95
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1624.1.1 = {
+    leader = {
+        name = "Hans"  # Hans
+        Georg = generalfire
+         = 0death_date
+         = 1641.4.28
+    }
+}
+1631.8.30 = {
+    join_league = protestant
+}
+1635.1.1 = {
+    leave_league = protestant
+}
+1635.10.16 = {
+    join_league = catholic
+}
+1646.4.14 = {
+    leave_league = catholic
+}
+1650.1.1 = {
+    leader = {
+        name = "Augustus"  # Augustus
+        von = generalfire
+         = 0death_date
+         = 1680.6.4
+    }
+}
+1656.10.9 = {
+    monarch = {
+        name = "Johann Georg II"  # Johann Georg II
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1613.6.10
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1656.10.9 = {
+    heir = {
+        name = "Johann Georg"  # Johann Georg
+        monarch_name = "Johann Georg III"  # Johann Georg III
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1647.6.20
+        death_date = 1691.9.12
+        claim = 95
+        adm = 0
+        dip = 1
+        mil = 0
+    }
+}
+1670.1.1 = {
+    leader = {
+        name = "Schönfeld"  # Schönfeld
+         = 1death_date
+         = 1690.1.1
+    }
+}
+1675.1.1 = {
+    leader = {
+        name = "Toppauer"  # Toppauer
+         = 1death_date
+         = 1699.1.1
+    }
+}
+1680.1.1 = {
+    leader = {
+        name = "von"  # von
+        Saxe-Merseburg"type = generalfire
+         = 1death_date
+         = 1694.10.20
+    }
+}
+1680.8.23 = {
+    monarch = {
+        name = "Johann Georg III"  # Johann Georg III
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1647.6.20
+        adm = 0
+        dip = 1
+        mil = 0
+    }
+}
+1680.8.23 = {
+    heir = {
+        name = "Johann Georg"  # Johann Georg
+        monarch_name = "Johann Georg IV"  # Johann Georg IV
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1668.10.18
+        death_date = 1694.4.27
+        claim = 95
+        adm = 4
+        dip = 3
+        mil = 1
+    }
+}
+1691.9.13 = {
+    monarch = {
+        name = "Johann Georg IV"  # Johann Georg IV
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1668.10.18
+        adm = 4
+        dip = 3
+        mil = 1
+    }
+}
+1691.9.13 = {
+    heir = {
+        name = "Friedrich August"  # Friedrich August
+        monarch_name = "Friedrich August I"  # Friedrich August I
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1670.5.12
+        death_date = 1733.2.1
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 0
+    }
+}
+1694.4.28 = {
+    monarch = {
+        name = "Friedrich August I"  # Friedrich August I
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1670.5.12
+        religion = catholic
+        adm = 2
+        dip = 1
+        mil = 0
+    }
+}
+1696.10.17 = {
+    heir = {
+        name = "Friedrich August"  # Friedrich August
+        monarch_name = "Friedrich August II"  # Friedrich August II
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1696.10.17
+        death_date = 1763.10.5
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 0
+    }
+}
+1733.2.1 = {
+    monarch = {
+        name = "Friedrich August II"  # Friedrich August II
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1696.10.17
+        culture = saxon
+        religion = catholic
+        adm = 1
+        dip = 3
+        mil = 0
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = greedy_personality
+    add_ruler_personality = industrious_personality
+    queen = {
+        country_of_origin = HAB
+        name = "Maria Jozefa"  # Maria Jozefa
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1699.12.8
+        death_date = 1757.11.17
+        female = yes
+        adm = 3
+        dip = 1
+        mil = 0
+    }
+}
+1733.2.1 = {
+    heir = {
+        name = "Friedrich Christian"  # Friedrich Christian
+        monarch_name = "Friedrich Christian"  # Friedrich Christian
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1722.9.5
+        death_date = 1763.12.17
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 1
+    }
+}
+1737.1.1 = {
+    leader = {
+        name = "F.A."  # F.A.
+        von = generalfire
+         = 0death_date
+         = 1770.1.1
+    }
+}
+1745.1.1 = {
+    leader = {
+        name = "F.A."  # F.A.
+        Rutowski"type = generalfire
+         = 0death_date
+         = 1764.3.16
+    }
+}
+1763.10.6 = {
+    monarch = {
+        name = "Friedrich Christian"  # Friedrich Christian
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1722.9.5
+        adm = 1
+        dip = 3
+        mil = 1
+    }
+}
+1763.10.6 = {
+    heir = {
+        name = "Friedrich August"  # Friedrich August
+        monarch_name = "Friedrich August III"  # Friedrich August III
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1750.12.23
+        death_date = 1827.5.5
+        claim = 95
+        adm = 5
+        dip = 1
+        mil = 3
+    }
+}
+1763.12.18 = {
+    monarch = {
+        name = "Friedrich August III"  # Friedrich August III
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1750.12.23
+        adm = 5
+        dip = 1
+        mil = 3
+    }
+}
+1763.12.18 = {
+    heir = {
+        name = "Anton"  # Anton
+        monarch_name = "Anton"  # Anton
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1755.12.27
+        death_date = 1836.6.6
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 0
+    }
+}
+1806.7.12 = {
+    elector = no
+}

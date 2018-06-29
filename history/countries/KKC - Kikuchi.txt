@@ -1,0 +1,219 @@
+﻿government = daimyo
+government_rank = 1
+primary_culture = kyushuan
+religion = shinto
+technology_group = chinese
+capital = 4181
+1335.1.1 = {
+    monarch = {
+        name = "Takeshige"  # Takeshige
+        dynasty = "Kikuchi"  # Kikuchi
+        adm = 3
+        dip = 2
+        mil = 4
+    }
+}
+1338.1.1 = {
+    monarch = {
+        name = "Takehito"  # Takehito
+        dynasty = "Kikuchi"  # Kikuchi
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1363.1.1 = {
+    monarch = {
+        name = "Takemitsu"  # Takemitsu
+        dynasty = "Kikuchi"  # Kikuchi
+        adm = 3
+        dip = 3
+        mil = 4
+    }
+}
+1373.12.19 = {
+    monarch = {
+        name = "Takemasa"  # Takemasa
+        dynasty = "Kikuchi"  # Kikuchi
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1374.7.6 = {
+    monarch = {
+        name = "Taketomo"  # Taketomo
+        dynasty = "Kikuchi"  # Kikuchi
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1383.1.1 = {
+    heir = {
+        name = "Kanetomo"  # Kanetomo
+        monarch_name = "Kanetomo"  # Kanetomo
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1383.1.1
+        death_date = 1444.3.27
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1407.4.25 = {
+    monarch = {
+        name = "Kanetomo"  # Kanetomo
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1383.1.1
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1409.1.1 = {
+    heir = {
+        name = "Mochitomo"  # Mochitomo
+        monarch_name = "Mochitomo"  # Mochitomo
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1409.1.1
+        death_date = 1446.1.1
+        claim = 90
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1444.3.27 = {
+    monarch = {
+        name = "Mochitomo"  # Mochitomo
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1409.1.1
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = charismatic_negotiator_personality
+}
+1444.3.27 = {
+    heir = {
+        name = "Tamekuni"  # Tamekuni
+        monarch_name = "Tamekuni"  # Tamekuni
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1430.1.1
+        death_date = 1488.1.1
+        claim = 90
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1446.1.1 = {
+    monarch = {
+        name = "Tamekuni"  # Tamekuni
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1430.1.1
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1449.1.1 = {
+    heir = {
+        name = "Shigehito"  # Shigehito
+        monarch_name = "Shigehito"  # Shigehito
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1449.1.1
+        death_date = 1493.12.7
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1466.1.1 = {
+    monarch = {
+        name = "Shigehito"  # Shigehito
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1449.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1483.1.1 = {
+    heir = {
+        name = "Yoshiyuki"  # Yoshiyuki
+        monarch_name = "Yoshiyuki"  # Yoshiyuki
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1483.1.1
+        death_date = 1504.3.1
+        claim = 90
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1493.12.7 = {
+    monarch = {
+        name = "Yoshiyuki"  # Yoshiyuki
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1483.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1493.12.7 = {
+    heir = {
+        name = "Masataka"  # Masataka
+        monarch_name = "Masataka"  # Masataka
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1491.1.1
+        death_date = 1509.9.30
+        claim = 90
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1504.3.1 = {
+    monarch = {
+        name = "Masataka"  # Masataka
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1491.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1507.1.1 = {
+    monarch = {
+        name = "Taketsune"  # Taketsune
+        dynasty = "Kikuchi"  # Kikuchi
+        birth_date = 1480.1.1
+        adm = 1
+        dip = 3
+        mil = 1
+    }
+}
+1511.1.1 = {
+    monarch = {
+        name = "Takekane"  # Takekane
+        dynasty = "Kikuchi"  # Kikuchi
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1520.1.1 = {
+    monarch = {
+        name = "Yoshitake"  # Yoshitake
+        dynasty = "Kikuchi"  # Kikuchi
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+}

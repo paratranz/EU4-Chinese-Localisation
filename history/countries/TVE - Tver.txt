@@ -1,0 +1,59 @@
+﻿government = principality
+government_rank = 1
+primary_culture = russian
+religion = orthodox
+technology_group = eastern
+capital = 294
+fixed_capital = 294
+1398.11.1 = {
+    monarch = {
+        name = "Mikhail II"  # Mikhail II
+        dynasty = "Rurikovich"  # Rurikovich
+        birth_date = 1333.1.1
+        adm = 2
+        dip = 0
+        mil = 1
+    }
+}
+1399.8.26 = {
+    monarch = {
+        name = "Ivan"  # Ivan
+        dynasty = "Rurikovich"  # Rurikovich
+        birth_date = 1357.1.1
+        adm = 0
+        dip = 1
+        mil = 0
+    }
+}
+1425.11.1 = {
+    monarch = {
+        name = "Boris"  # Boris
+        dynasty = "Rurikovich"  # Rurikovich
+        birth_date = 1399.1.1
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = well_connected_personality
+    add_ruler_personality = well_advised_personality
+}
+1461.2.10 = {
+    monarch = {
+        name = "Mikhail III"  # Mikhail III
+        dynasty = "Rurikovich"  # Rurikovich
+        birth_date = 1453.1.1
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1485.9.13 = {
+    monarch = {
+        name = "Ivan II"  # Ivan II
+        dynasty = "Rurikovich"  # Rurikovich
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}

@@ -1,0 +1,47 @@
+﻿government = feudal_monarchy
+government_rank = 1
+technology_group = eastern
+primary_culture = greek
+religion = orthodox
+capital = 145
+fixed_capital = 145
+1383.1.1 = {
+    monarch = {
+        name = "Theodoros I"  # Theodoros I
+        dynasty = "Palaiologos"  # Palaiologos
+        dip = 1
+        adm = 2
+        mil = 1
+    }
+}
+1396.1.1 = {
+    heir = {
+        name = "Theodoros"  # Theodoros
+        monarch_name = "Theodoros II"  # Theodoros II
+        dynasty = "Palaiologos"  # Palaiologos
+        birth_date = 1396.1.1
+        death_date = 1448.6.26
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1407.1.1 = {
+    monarch = {
+        name = "Theodoros II"  # Theodoros II
+        dynasty = "Palaiologos"  # Palaiologos
+        dip = 2
+        adm = 2
+        mil = 3
+    }
+}
+1443.1.1 = {
+    monarch = {
+        name = "Demetrios II"  # Demetrios II
+        dynasty = "Palaiologos"  # Palaiologos
+        dip = 2
+        adm = 1
+        mil = 1
+    }
+}

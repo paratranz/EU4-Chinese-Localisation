@@ -1,0 +1,92 @@
+﻿government = iqta
+primary_culture = rajput
+religion = sunni
+technology_group = indian
+capital = 2066
+fixed_capital = 2066
+religious_school = hanafi_school
+1399.1.1 = {
+    monarch = {
+        name = "Firuz Khan"  # Firuz Khan
+        dynasty = "Dandani"  # Dandani
+        culture = afghani
+        adm = 0
+        dip = 1
+        mil = 2
+    }
+}
+1399.1.1 = {
+    heir = {
+        name = "Qiyam"  # Qiyam
+        monarch_name = "Qiyam Khan"  # Qiyam Khan
+        dynasty = "Dandani"  # Dandani
+        culture = afghani
+        birth_date = 1399.1.1
+        death_date = 1453.1.1
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 2
+    }
+}
+1428.1.1 = {
+    monarch = {
+        name = "Qiyam Khan"  # Qiyam Khan
+        dynasty = "Dandani"  # Dandani
+        culture = afghani
+        adm = 1
+        dip = 0
+        mil = 2
+    }
+}
+1428.1.1 = {
+    heir = {
+        name = "Shams"  # Shams
+        monarch_name = "Shams Khan"  # Shams Khan
+        culture = afghani
+        dynasty = "Dandani"  # Dandani
+        birth_date = 1410.1.1
+        death_date = 1500.1.1
+        claim = 95
+        adm = 0
+        dip = 1
+        mil = 2
+    }
+}
+1453.1.1 = {
+    monarch = {
+        name = "Shams Khan"  # Shams Khan
+        dynasty = "Dandani"  # Dandani
+        culture = afghani
+        adm = 0
+        dip = 1
+        mil = 2
+    }
+}
+1453.1.1 = {
+    heir = {
+        name = "Muhammad"  # Muhammad
+        monarch_name = "Muhammad Khan"  # Muhammad Khan
+        culture = afghani
+        dynasty = "Dandani"  # Dandani
+        birth_date = 1410.1.1
+        death_date = 1513.1.1
+        claim = 95
+        adm = 0
+        dip = 1
+        mil = 1
+    }
+}
+1465.1.1 = {
+    government_rank = 1
+}
+1500.1.1 = {
+    monarch = {
+        name = "Muhammad Khan"  # Muhammad Khan
+        dynasty = "Dandani"  # Dandani
+        culture = afghani
+        adm = 0
+        dip = 1
+        mil = 1
+    }
+}

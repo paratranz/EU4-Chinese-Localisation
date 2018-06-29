@@ -1,0 +1,113 @@
+﻿government = despotic_monarchy
+primary_culture = georgian
+religion = orthodox
+technology_group = eastern
+capital = 2204
+government_rank = 1
+1444.1.1 = {
+    monarch = {
+        name = "Aghbugha II"  # Aghbugha II
+        dynasty = "Jaqeli"  # Jaqeli
+        birth_date = 1425.1.1
+        adm = 3
+        dip = 2
+        mil = 4
+    }
+    heir = {
+        name = "Qvarqvare"  # Qvarqvare
+        monarch_name = "Qvarqvare II"  # Qvarqvare II
+        dynasty = "Jaqeli"  # Jaqeli
+        birth_date = 1416.1.1
+        death_date = 1498.1.1
+        claim = 95
+        adm = 3
+        dip = 5
+        mil = 4
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = lawgiver_personality
+    add_heir_personality = intricate_web_weaver_personality
+}
+1451.1.1 = {
+    monarch = {
+        name = "Qvarqvare II"  # Qvarqvare II
+        dynasty = "Jaqeli"  # Jaqeli
+        adm = 3
+        dip = 5
+        mil = 4
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = intricate_web_weaver_personality
+}
+1498.1.1 = {
+    monarch = {
+        name = "Kaikhosro I"  # Kaikhosro I
+        dynasty = "Jaqeli"  # Jaqeli
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1500.1.1 = {
+    monarch = {
+        name = "Mzetchabuki"  # Mzetchabuki
+        dynasty = "Jaqeli"  # Jaqeli
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1515.1.1 = {
+    monarch = {
+        name = "Manuchar I"  # Manuchar I
+        dynasty = "Jaqeli"  # Jaqeli
+        adm = 2
+        dip = 3
+        mil = 2
+    }
+}
+1518.1.1 = {
+    monarch = {
+        name = "Qvarqvare III"  # Qvarqvare III
+        dynasty = "Jaqeli"  # Jaqeli
+        adm = 1
+        dip = 3
+        mil = 1
+    }
+}
+1535.1.1 = {
+    monarch = {
+        name = "Kaikhosro II"  # Kaikhosro II
+        dynasty = "Jaqeli"  # Jaqeli
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1573.1.1 = {
+    monarch = {
+        name = "Qvarqvare IV"  # Qvarqvare IV
+        dynasty = "Jaqeli"  # Jaqeli
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1581.1.1 = {
+    monarch = {
+        name = "Manuchar II"  # Manuchar II
+        dynasty = "Jaqeli"  # Jaqeli
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1607.1.1 = {
+    monarch = {
+        name = "Manuchar III"  # Manuchar III
+        dynasty = "Jaqeli"  # Jaqeli
+        adm = 3
+        dip = 3
+        mil = 2
+    }
+}

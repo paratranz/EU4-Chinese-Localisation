@@ -1,0 +1,519 @@
+﻿government = feudal_monarchy
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = avadhi
+capital = 559
+1399.1.1 = {
+    monarch = {
+        name = "Nasir al-Din Mahmud Shah"  # Nasir al-Din Mahmud Shah
+        dynasty = "Malikzada"  # Malikzada
+        adm = 5
+        dip = 4
+        mil = 3
+    }
+    capital = 2059
+    government = iqta
+    religion = sunni
+    religious_school = shafii_school
+}
+1399.1.1 = {
+    heir = {
+        name = "Qadir"  # Qadir
+        monarch_name = "Qadir Shah"  # Qadir Shah
+        dynasty = "Malikzada"  # Malikzada
+        birth_date = 1380.1.1
+        death_Date = 1432.1.1
+        claim = 95
+        adm = 4
+        dip = 6
+        mil = 3
+    }
+}
+1411.1.1 = {
+    monarch = {
+        name = "Qadir Shah"  # Qadir Shah
+        dynasty = "Malikzada"  # Malikzada
+        adm = 4
+        dip = 6
+        mil = 3
+    }
+}
+1411.1.1 = {
+    heir = {
+        name = "Fath al-Din Jalal"  # Fath al-Din Jalal
+        monarch_name = "Fath al-Din Jalal Shah"  # Fath al-Din Jalal Shah
+        dynasty = "Malikzada"  # Malikzada
+        birth_date = 1390.1.1
+        death_Date = 1439.1.1
+        claim = 95
+        adm = 5
+        dip = 6
+        mil = 1
+    }
+}
+1432.1.1 = {
+    monarch = {
+        name = "Fath al-Din Jalal Shah"  # Fath al-Din Jalal Shah
+        dynasty = "Malikzada"  # Malikzada
+        adm = 5
+        dip = 6
+        mil = 1
+    }
+}
+1432.1.1 = {
+    heir = {
+        name = "Nasir"  # Nasir
+        monarch_name = "Nasir Khan"  # Nasir Khan
+        dynasty = "Malikzada"  # Malikzada
+        birth_date = 1400.1.1
+        death_Date = 1460.1.1
+        claim = 95
+        adm = 6
+        dip = 4
+        mil = 3
+    }
+}
+1439.1.1 = {
+    monarch = {
+        name = "Nasir Khan"  # Nasir Khan
+        dynasty = "Malikzada"  # Malikzada
+        adm = 6
+        dip = 4
+        mil = 3
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = babbling_buffoon_personality
+}
+1479.1.1 = {
+    monarch = {
+        name = "Malkhan Singh"  # Malkhan Singh
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+    capital = 559
+    religion = hinduism
+    government = feudal_monarchy
+    clear_scripted_personalities = yes
+    add_ruler_personality = fertile_personality
+}
+1479.1.1 = {
+    heir = {
+        name = "Rudra-pratap Singh"  # Rudra-pratap Singh
+        monarch_name = "Rudra-pratap Singh"  # Rudra-pratap Singh
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1468.1.1
+        death_date = 1531.1.1
+        claim = 95
+        ADM = 5
+        DIP = 3
+        MIL = 3
+    }
+}
+1501.1.1 = {
+    monarch = {
+        name = "Rudra-pratap Singh"  # Rudra-pratap Singh
+        dynasty = "Bundela"  # Bundela
+        ADM = 5
+        DIP = 3
+        MIL = 3
+    }
+}
+1501.1.1 = {
+    heir = {
+        name = "Bharti-candra"  # Bharti-candra
+        monarch_name = "Bharti-candra I"  # Bharti-candra I
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1501.1.1
+        death_date = 1554.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1531.1.1 = {
+    monarch = {
+        name = "Bharti-candra I"  # Bharti-candra I
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1531.1.1 = {
+    heir = {
+        name = "Madukar"  # Madukar
+        monarch_name = "Madukar Shah"  # Madukar Shah
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1531.1.1
+        death_date = 1592.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1554.1.1 = {
+    monarch = {
+        name = "Madukar Shah"  # Madukar Shah
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1554.1.1 = {
+    heir = {
+        name = "Ram Shah"  # Ram Shah
+        monarch_name = "Ram Shah"  # Ram Shah
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1554.1.1
+        death_date = 1592.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1592.1.1 = {
+    monarch = {
+        name = "Ram Shah"  # Ram Shah
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1592.1.1 = {
+    heir = {
+        name = "Bir Singh Deo"  # Bir Singh Deo
+        monarch_name = "Bir Singh Deo I"  # Bir Singh Deo I
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1580.1.1
+        death_Date = 1626.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1604.1.1 = {
+    monarch = {
+        name = "Bir Singh Deo I"  # Bir Singh Deo I
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1604.1.1 = {
+    heir = {
+        name = "Jujhar Singh"  # Jujhar Singh
+        monarch_name = "Jujhar Singh"  # Jujhar Singh
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1604.1.1
+        death_Date = 1635.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1626.1.1 = {
+    monarch = {
+        name = "Jujhar Singh"  # Jujhar Singh
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1626.1.1 = {
+    heir = {
+        name = "Devi Singh"  # Devi Singh
+        monarch_name = "Devi Singh"  # Devi Singh
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1616.1.1
+        death_Date = 1641.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1635.1.1 = {
+    monarch = {
+        name = "Devi Singh"  # Devi Singh
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1635.1.1 = {
+    heir = {
+        name = "Pahar Singh"  # Pahar Singh
+        monarch_name = "Pahar Singh"  # Pahar Singh
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1610.1.1
+        death_Date = 1653.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1641.1.1 = {
+    monarch = {
+        name = "Pahar Singh"  # Pahar Singh
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1641.1.1 = {
+    heir = {
+        name = "Sujan Singh"  # Sujan Singh
+        monarch_name = "Sujan Singh I"  # Sujan Singh I
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1621.1.1
+        death_date = 1672.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1653.1.1 = {
+    monarch = {
+        name = "Sujan Singh I"  # Sujan Singh I
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1653.1.1 = {
+    heir = {
+        name = "Indramani Singh"  # Indramani Singh
+        monarch_name = "Indramani Singh"  # Indramani Singh
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1652.1.1
+        death_date = 1675.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1672.1.1 = {
+    monarch = {
+        name = "Indramani Singh"  # Indramani Singh
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1672.1.1 = {
+    heir = {
+        name = "Jaswant Singh"  # Jaswant Singh
+        monarch_name = "Jaswant Singh"  # Jaswant Singh
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1650.1.1
+        death_date = 1684.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1675.1.1 = {
+    monarch = {
+        name = "Jaswant Singh"  # Jaswant Singh
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1675.1.1 = {
+    heir = {
+        name = "Baghwat Singh"  # Baghwat Singh
+        monarch_name = "Baghwat Singh"  # Baghwat Singh
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1665.1.1
+        death_Date = 1689.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1684.1.1 = {
+    monarch = {
+        name = "Baghwat Singh"  # Baghwat Singh
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1684.1.1 = {
+    heir = {
+        name = "Udwat Singh"  # Udwat Singh
+        monarch_name = "Udwat Singh"  # Udwat Singh
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1660.1.1
+        death_date = 1735.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1689.1.1 = {
+    monarch = {
+        name = "Udwat Singh"  # Udwat Singh
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1689.1.1 = {
+    heir = {
+        name = "Prithvi Singh"  # Prithvi Singh
+        monarch_name = "Prithvi Singh"  # Prithvi Singh
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1689.1.1
+        death_date = 1752.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1735.1.1 = {
+    monarch = {
+        name = "Prithvi Singh"  # Prithvi Singh
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1735.1.1 = {
+    heir = {
+        name = "Sawant Singh Mahendra"  # Sawant Singh Mahendra
+        monarch_name = "Sawant Singh Mahendra"  # Sawant Singh Mahendra
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1730.1.1
+        death_date = 1765.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1752.1.1 = {
+    monarch = {
+        name = "Sawant Singh Mahendra"  # Sawant Singh Mahendra
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1752.1.1 = {
+    heir = {
+        name = "HatiSingh Mahendra"  # HatiSingh Mahendra
+        monarch_name = "HatiSingh Mahendra"  # HatiSingh Mahendra
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1740.1.1
+        death_date = 1768.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1765.1.1 = {
+    monarch = {
+        name = "HatiSingh Mahendra"  # HatiSingh Mahendra
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1765.1.1 = {
+    heir = {
+        name = "Man Singh Mahendra"  # Man Singh Mahendra
+        monarch_name = "Man Singh Mahendra"  # Man Singh Mahendra
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1750.1.1
+        death_date = 1775.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1768.1.1 = {
+    monarch = {
+        name = "Man Singh Mahendra"  # Man Singh Mahendra
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1768.1.1 = {
+    heir = {
+        name = "Bharti-candra Mahndra"  # Bharti-candra Mahndra
+        monarch_name = "Bharti-candra II Mahndra"  # Bharti-candra II Mahndra
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1760.1.1
+        death_date = 1776.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1775.1.1 = {
+    monarch = {
+        name = "Bharti-candra II Mahndra"  # Bharti-candra II Mahndra
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1775.1.1 = {
+    heir = {
+        name = "Vikramajit Mahendra"  # Vikramajit Mahendra
+        monarch_name = "Vikramajit Mahendra"  # Vikramajit Mahendra
+        dynasty = "Bundela"  # Bundela
+        birth_date = 1760.1.1
+        death_date = 1834.1.1
+        claim = 95
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}
+1776.1.1 = {
+    monarch = {
+        name = "Vikramajit Mahendra"  # Vikramajit Mahendra
+        dynasty = "Bundela"  # Bundela
+        ADM = 2
+        DIP = 2
+        MIL = 2
+    }
+}

@@ -1,0 +1,59 @@
+﻿government = feudal_monarchy
+government_rank = 1
+primary_culture = uralic
+religion = orthodox
+technology_group = eastern
+capital = 1963
+1444.1.1 = {
+    monarch = {
+        name = "Yermolay I"  # Yermolay I
+        dynasty = "Velikopermsky"  # Velikopermsky
+        adm = 6
+        dip = 4
+        mil = 5
+    }
+}
+1444.1.1 = {
+    heir = {
+        name = "Mikhail"  # Mikhail
+        monarch_name = "Mikhail I"  # Mikhail I
+        dynasty = "Velikopermsky"  # Velikopermsky
+        birth_date = 1420.1.1
+        death_date = 1481.1.1
+        claim = 95
+        adm = 6
+        dip = 5
+        mil = 5
+    }
+}
+1451.1.1 = {
+    monarch = {
+        name = "Mikhail I"  # Mikhail I
+        dynasty = "Velikopermsky"  # Velikopermsky
+        adm = 6
+        dip = 5
+        mil = 5
+    }
+}
+1451.1.1 = {
+    heir = {
+        name = "Matvey"  # Matvey
+        monarch_name = "Matvey I"  # Matvey I
+        dynasty = "Velikopermsky"  # Velikopermsky
+        birth_date = 1450.1.1
+        death_date = 1520.1.1
+        claim = 95
+        adm = 6
+        dip = 5
+        mil = 3
+    }
+}
+1481.1.1 = {
+    monarch = {
+        name = "Matvey I"  # Matvey I
+        dynasty = "Velikopermsky"  # Velikopermsky
+        adm = 6
+        dip = 5
+        mil = 3
+    }
+}

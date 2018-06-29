@@ -1,0 +1,138 @@
+﻿government = feudal_monarchy
+government_rank = 1
+primary_culture = kanauji
+religion = hinduism
+technology_group = indian
+capital = 525
+fixed_capital = 525
+1438.1.1 = {
+    monarch = {
+        name = "Beersingh Deo"  # Beersingh Deo
+        dynasty = "Tomar"  # Tomar
+        DIP = 1
+        MIL = 3
+        ADM = 2
+    }
+}
+1438.1.1 = {
+    heir = {
+        name = "Man Singh"  # Man Singh
+        monarch_name = "Man Singh"  # Man Singh
+        dynasty = "Tomar"  # Tomar
+        birth_date = 1420.1.1
+        death_date = 1500.1.1
+        claim = 95
+        DIP = 2
+        MIL = 3
+        ADM = 1
+    }
+}
+1486.1.1 = {
+    monarch = {
+        name = "Man Singh"  # Man Singh
+        dynasty = "Tomar"  # Tomar
+        DIP = 2
+        MIL = 3
+        ADM = 1
+    }
+}
+1731.1.1 = {
+    monarch = {
+        name = "Ranojirao"  # Ranojirao
+        dynasty = "Sindhia"  # Sindhia
+        culture = marathi
+        DIP = 4
+        MIL = 5
+        ADM = 2
+    }
+    primary_culture = marathi
+    government_rank = 2
+}
+1731.1.1 = {
+    heir = {
+        name = "Jayapparao"  # Jayapparao
+        monarch_name = "Jayapparao"  # Jayapparao
+        dynasty = "Sindhia"  # Sindhia
+        birth_date = 1701.1.1
+        death_date = 1755.6.25
+        claim = 95
+        DIP = 3
+        MIL = 5
+        ADM = 2
+    }
+}
+1745.6.19 = {
+    monarch = {
+        name = "Jayapparao"  # Jayapparao
+        dynasty = "Sindhia"  # Sindhia
+        DIP = 3
+        MIL = 5
+        ADM = 2
+    }
+}
+1745.6.19 = {
+    heir = {
+        name = "Jankijirao"  # Jankijirao
+        monarch_name = "Jankijirao I"  # Jankijirao I
+        dynasty = "Sindhia"  # Sindhia
+        birth_date = 1730.1.1
+        death_date = 1761.1.15
+        claim = 95
+        DIP = 1
+        MIL = 4
+        ADM = 3
+    }
+}
+1755.6.25 = {
+    monarch = {
+        name = "Jankijirao I"  # Jankijirao I
+        dynasty = "Sindhia"  # Sindhia
+        DIP = 1
+        MIL = 4
+        ADM = 3
+    }
+}
+1755.6.25 = {
+    heir = {
+        name = "Madhavrao"  # Madhavrao
+        monarch_name = "Madhavrao I"  # Madhavrao I
+        dynasty = "Sindhia"  # Sindhia
+        birth_date = 1740.1.1
+        death_date = 1794.2.12
+        claim = 95
+        DIP = 3
+        MIL = 5
+        ADM = 3
+    }
+}
+1761.1.15 = {
+    monarch = {
+        name = "Madhavrao I"  # Madhavrao I
+        dynasty = "Sindhia"  # Sindhia
+        DIP = 3
+        MIL = 5
+        ADM = 3
+    }
+}
+1761.1.15 = {
+    heir = {
+        name = "Daulatrao"  # Daulatrao
+        monarch_name = "Daulatrao I"  # Daulatrao I
+        dynasty = "Sindhia"  # Sindhia
+        birth_date = 1740.1.1
+        death_date = 1827.1.20
+        claim = 95
+        DIP = 3
+        MIL = 4
+        ADM = 3
+    }
+}
+1794.2.12 = {
+    monarch = {
+        name = "Daulatrao I"  # Daulatrao I
+        dynasty = "Sindhia"  # Sindhia
+        DIP = 3
+        MIL = 4
+        ADM = 3
+    }
+}

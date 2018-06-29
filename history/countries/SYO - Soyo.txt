@@ -1,0 +1,115 @@
+﻿government = tribal_kingdom
+primary_culture = kongolese
+religion = shamanism
+technology_group = central_african
+unlock_cult = mwari_cult
+unlock_cult = central_african_ancestor_cult
+unlock_cult = cwezi_cult
+unit_type = sub_saharan
+capital = 4080
+1430.1.1 = {
+    monarch = {
+        name = "Mani"  # Mani
+        dynasty = "Soyo"  # Soyo
+        adm = 2
+        dip = 3
+        mil = 3
+    }
+}
+1491.4.3 = {
+    monarch = {
+        name = "Manuel I"  # Manuel I
+        dynasty = "Silva"  # Silva
+        adm = 2
+        dip = 4
+        mil = 2
+    }
+    religion = catholic
+}
+1520.1.1 = {
+    heir = {
+        name = "Miguel"  # Miguel
+        monarch_name = "Miguel I"  # Miguel I
+        dynasty = "Silva"  # Silva
+        birth_date = 1520.1.1
+        death_Date = 1626.1.1
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 4
+    }
+}
+1540.1.1 = {
+    monarch = {
+        name = "Miguel I"  # Miguel I
+        dynasty = "Silva"  # Silva
+        adm = 2
+        dip = 3
+        mil = 4
+    }
+}
+1550.1.1 = {
+    heir = {
+        name = "Paulo"  # Paulo
+        monarch_name = "Paulo I"  # Paulo I
+        dynasty = "Silva"  # Silva
+        birth_date = 1550.1.1
+        death_Date = 1646.1.1
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+}
+1506.6.2 = {
+    religion = catholic
+}
+1626.1.1 = {
+    monarch = {
+        name = "Paulo I"  # Paulo I
+        dynasty = "Silva"  # Silva
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+}
+1626.1.1 = {
+    heir = {
+        name = "Daniel"  # Daniel
+        monarch_name = "Daniel I"  # Daniel I
+        dynasty = "Silva"  # Silva
+        birth_date = 1626.1.1
+        death_date = 1730.1.1
+        claim = 100
+        adm = 5
+        dip = 4
+        mil = 6
+    }
+}
+1646.1.1 = {
+    monarch = {
+        name = "Daniel I"  # Daniel I
+        dynasty = "Silva"  # Silva
+        adm = 5
+        dip = 4
+        mil = 6
+    }
+}
+1710.1.1 = {
+    monarch = {
+        name = "Paulo II"  # Paulo II
+        dynasty = "Silva"  # Silva
+        adm = 2
+        dip = 3
+        mil = 3
+    }
+}
+1770.1.1 = {
+    monarch = {
+        name = "Daniel II"  # Daniel II
+        dynasty = "Silva"  # Silva
+        adm = 5
+        dip = 4
+        mil = 6
+    }
+}

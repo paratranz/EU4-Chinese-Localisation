@@ -1,0 +1,119 @@
+﻿government = iqta
+primary_culture = panjabi
+religion = sunni
+technology_group = indian
+capital = 506
+fixed_capital = 506
+religious_school = hanafi_school
+1437.1.1 = {
+    monarch = {
+        name = "Qutbudin"  # Qutbudin
+        dynasty = "Langa"  # Langa
+        ADM = 0
+        DIP = 0
+        MIL = 3
+    }
+}
+1437.1.1 = {
+    heir = {
+        name = "Hussain"  # Hussain
+        monarch_name = "Hussain I"  # Hussain I
+        dynasty = "Langa"  # Langa
+        birth_date = 1400.1.1
+        death_date = 1480.1.1
+        claim = 95
+        ADM = 2
+        DIP = 0
+        MIL = 1
+    }
+}
+1444.1.1 = {
+    decision = jizya_tax
+}
+1460.1.1 = {
+    monarch = {
+        name = "Hussain I"  # Hussain I
+        dynasty = "Langa"  # Langa
+        ADM = 2
+        DIP = 0
+        MIL = 1
+    }
+}
+1460.1.1 = {
+    heir = {
+        name = "Firuz"  # Firuz
+        monarch_name = "Firuzshah"  # Firuzshah
+        dynasty = "Langa"  # Langa
+        birth_date = 1450.1.1
+        death_date = 1500.1.1
+        claim = 95
+        ADM = 1
+        DIP = 3
+        MIL = 2
+    }
+}
+1480.1.1 = {
+    monarch = {
+        name = "Firuzshah"  # Firuzshah
+        dynasty = "Langa"  # Langa
+        ADM = 1
+        DIP = 3
+        MIL = 2
+    }
+}
+1480.1.1 = {
+    heir = {
+        name = "Mahmud"  # Mahmud
+        monarch_name = "Mahmud"  # Mahmud
+        dynasty = "Langa"  # Langa
+        birth_date = 1460.1.1
+        death_date = 1518.1.1
+        claim = 95
+        ADM = 0
+        DIP = 2
+        MIL = 3
+    }
+}
+1500.1.1 = {
+    monarch = {
+        name = "Mahmud"  # Mahmud
+        dynasty = "Langa"  # Langa
+        ADM = 0
+        DIP = 2
+        MIL = 3
+    }
+}
+1500.1.1 = {
+    heir = {
+        name = "Hussain"  # Hussain
+        monarch_name = "Hussain II"  # Hussain II
+        dynasty = "Langa"  # Langa
+        birth_date = 1480.1.1
+        death_date = 1555.1.1
+        claim = 95
+        ADM = 0
+        DIP = 0
+        MIL = 1
+    }
+}
+1518.1.1 = {
+    monarch = {
+        name = "Hussain II"  # Hussain II
+        dynasty = "Langa"  # Langa
+        ADM = 0
+        DIP = 0
+        MIL = 1
+    }
+}
+1553.1.1 = {
+    government_rank = 1
+}
+1555.1.1 = {
+    monarch = {
+        name = "Ghazi Khan Mirrani"  # Ghazi Khan Mirrani
+        dynasty = "Mirrani"  # Mirrani
+        ADM = 0
+        DIP = 0
+        MIL = 3
+    }
+}

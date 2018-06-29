@@ -1,0 +1,1046 @@
+﻿government = feudal_monarchy
+primary_culture = portugese
+religion = catholic
+technology_group = western
+historical_friend = SPA
+historical_friend = CAS
+capital = 227
+add_army_professionalism = 0.05
+national_focus = DIP
+1385.1.1 = {
+    monarch = {
+        name = "João I"  # João I
+        dynasty = "de Avis"  # de Avis
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1385.4.1 = {
+    leader = {
+        name = "Nuno"  # Nuno
+        Álvares = generalfire
+         = 0death_date
+         = 1423.1.1
+    }
+}
+1391.10.31 = {
+    heir = {
+        name = "Duarte"  # Duarte
+        monarch_name = "Duarte"  # Duarte
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1391.10.31
+        death_date = 1438.9.9
+        claim = 95
+        adm = 1
+        dip = 3
+        mil = 0
+    }
+}
+1415.4.1 = {
+    leader = {
+        name = "Infantes"type"  # Infantes"type
+         = 0death_date
+         = 1449.1.1
+    }
+}
+1417.1.1 = {
+    leader = {
+        name = "João"  # João
+        Gonçalves = explorerfire
+         = 0death_date
+         = 1437.12.31
+    }
+}
+1417.1.1 = {
+    leader = {
+        name = "Tristão"  # Tristão
+        Vaz = explorerfire
+         = 0death_date
+         = 1425.12.31
+    }
+}
+1418.1.1 = {
+    leader = {
+        name = "Bartolomeu"  # Bartolomeu
+        Perestrelo"type = explorerfire
+         = 0death_date
+         = 1428.12.31
+    }
+}
+1426.1.1 = {
+    leader = {
+        name = "Diogo"  # Diogo
+        de = explorerfire
+         = 0death_date
+         = 1428.12.31
+    }
+}
+1432.1.1 = {
+    leader = {
+        name = "Gonçalo"  # Gonçalo
+        Velho = explorerfire
+         = 0death_date
+         = 1432.12.31
+    }
+}
+1433.1.1 = {
+    monarch = {
+        name = "Duarte"  # Duarte
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1391.10.31
+        adm = 1
+        dip = 3
+        mil = 0
+    }
+}
+1433.1.1 = {
+    heir = {
+        name = "Afonso"  # Afonso
+        monarch_name = "Afonso V"  # Afonso V
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1432.1.15
+        death_date = 1481.8.28
+        claim = 95
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+    leader = {
+        name = "Gonçalo
+        Velho = explorerfire
+         = 0death_date
+         = 1434.12.31
+    }
+}
+1434.1.1 = {
+    leader = {
+        name = "Afonso"  # Afonso
+        Gonçalves = explorerfire
+         = 0death_date
+         = 1437.12.31
+    }
+}
+1435.1.1 = {
+    leader = {
+        name = "Earl"  # Earl
+        of = generalfire
+         = 0death_date
+         = 1449.5.20
+    }
+}
+1438.9.10 = {
+    monarch = {
+        name = "Infante Pedro"  # Infante Pedro
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1392.1.1
+        regent = yes
+        adm = 4
+        dip = 2
+        mil = 1
+    }
+}
+1438.9.10 = {
+    heir = {
+        name = "Afonso"  # Afonso
+        monarch_name = "Afonso V"  # Afonso V
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1432.1.15
+        death_date = 1481.8.28
+        claim = 95
+        adm = 3
+        dip = 2
+        mil = 2
+        leader = {
+            name = "Afonso"  # Afonso
+            V"type = generalfire
+             = 3siege
+             = 1
+        }
+    }
+    clear_scripted_personalities = yes
+    add_heir_personality = expansionist_personality
+}
+1443.1.1 = {
+    leader = {
+        name = "Diogo"  # Diogo
+        Gomes"type = explorerfire
+         = 0death_date
+         = 1462.12.31
+    }
+}
+1448.6.9 = {
+    monarch = {
+        name = "Afonso V"  # Afonso V
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1432.1.15
+        adm = 3
+        dip = 2
+        mil = 2
+        leader = {
+            name = "Afonso"  # Afonso
+            V"type = generalfire
+             = 3siege
+             = 1
+        }
+    }
+    queen = {
+        country_of_origin = POR
+        name = "Isabella"  # Isabella
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1432.3.1
+        death_date = 1455.12.2
+        female = yes
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = expansionist_personality
+}
+1450.1.1 = {
+    decision = act_of_uniformity
+    decision = blasphemy_act
+}
+1454.1.1 = {
+    leader = {
+        name = "Alvise"  # Alvise
+        Ca' = explorerfire
+         = 0death_date
+         = 1457.1.1
+    }
+}
+1455.3.3 = {
+    heir = {
+        name = "João"  # João
+        monarch_name = "João II"  # João II
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1455.3.3
+        death_date = 1495.10.25
+        claim = 95
+        adm = 2
+        dip = 5
+        mil = 4
+    }
+}
+1459.1.1 = {
+    leader = {
+        name = "Diogo"  # Diogo
+        Gomes"type = explorerfire
+         = 0death_date
+         = 1463.1.1
+    }
+}
+1460.1.1 = {
+    leader = {
+        name = "Pedro"  # Pedro
+        de = explorerfire
+         = 0death_date
+         = 1463.1.1
+    }
+}
+1469.1.1 = {
+    leader = {
+        name = "Fernando"  # Fernando
+        Pó" = explorerfire
+         = 0death_date
+         = 1481.1.1
+    }
+}
+1471.1.1 = {
+    leader = {
+        name = "Rui"  # Rui
+        de = explorerfire
+         = 0death_date
+         = 1475.1.1
+    }
+}
+1475.5.30 = {
+    queen = {
+        country_of_origin = CAS
+        name = "Joanna"  # Joanna
+        dynasty = "de Trastámara"  # de Trastámara
+        birth_date = 1462.2.21
+        death_date = 1530.2.12
+        female = yes
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1480.1.1 = {
+    leader = {
+        name = "Diogo"  # Diogo
+        Cão" = explorerfire
+         = 0death_date
+         = 1486.1.1
+    }
+}
+1481.1.1 = {
+    government = despotic_monarchy
+}
+1481.8.29 = {
+    monarch = {
+        name = "João II"  # João II
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1455.3.3
+        adm = 2
+        dip = 5
+        mil = 4
+    }
+    queen = {
+        country_of_origin = POR
+        name = "Eleanor"  # Eleanor
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1458.5.2
+        death_date = 1525.11.17
+        female = yes
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+}
+1481.8.29 = {
+    heir = {
+        name = "Manuel"  # Manuel
+        monarch_name = "Manuel I"  # Manuel I
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1469.5.31
+        death_date = 1521.12.13
+        claim = 95
+        adm = 4
+        dip = 5
+        mil = 3
+    }
+}
+1482.1.1 = {
+    leader = {
+        name = "Diogo"  # Diogo
+        de = conquistadorfire
+         = 0death_date
+         = 1486.1.1
+    }
+}
+1487.1.1 = {
+    leader = {
+        name = "Bartolomeu"  # Bartolomeu
+        Dias" = explorerfire
+         = 0death_date
+         = 1500.5.29
+    }
+}
+1487.5.7 = {
+    leader = {
+        name = "Pêro"  # Pêro
+        da = conquistadorfire
+         = 0death_date
+         = 1530.1.1
+    }
+}
+1495.10.17 = {
+    monarch = {
+        name = "Manuel I"  # Manuel I
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1469.5.31
+        adm = 4
+        dip = 5
+        mil = 3
+    }
+}
+1497.7.8 = {
+    leader = {
+        name = "Vasco"  # Vasco
+        da = explorerfire
+         = 0death_date
+         = 1510.1.1
+    }
+}
+1497.9.30 = {
+    queen = {
+        country_of_origin = ARA
+        name = "Isabella"  # Isabella
+        dynasty = "de Trastámara"  # de Trastámara
+        birth_date = 1470.10.2
+        death_date = 1498.8.23
+        female = yes
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1500.1.1 = {
+    leader = {
+        name = "Rui"  # Rui
+        Lourenço = conquistadorfire
+         = 0death_date
+         = 1506.1.1
+    }
+}
+1500.3.9 = {
+    leader = {
+        name = "Pedro"  # Pedro
+        Álvares = explorerfire
+         = 0death_date
+         = 1502.1.1
+    }
+}
+1500.5.12 = {
+    leader = {
+        name = "Gaspar"  # Gaspar
+        Corte-Real" = explorerfire
+         = 0death_date
+         = 1503.1.1
+    }
+}
+1500.5.12 = {
+    leader = {
+        name = "Miguel"  # Miguel
+        Corte-Real" = explorerfire
+         = 0death_date
+         = 1503.1.1
+    }
+}
+1500.10.30 = {
+    queen = {
+        country_of_origin = ARA
+        name = "Maria"  # Maria
+        dynasty = "de Trastámara"  # de Trastámara
+        birth_date = 1482.6.29
+        death_date = 1517.3.7
+        female = yes
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1501.1.1 = {
+    leader = {
+        name = "Amerigo"  # Amerigo
+        Vespucci"type = explorerfire
+         = 0death_date
+         = 1504.1.1
+    }
+}
+1502.1.1 = {
+    leader = {
+        name = "Gaspar"  # Gaspar
+        de = explorerfire
+         = 0death_date
+         = 1504.1.1
+    }
+}
+1502.1.1 = {
+    leader = {
+        name = "Gonçalo"  # Gonçalo
+        Coelho"type = explorerfire
+         = 0death_date
+         = 1504.1.1
+    }
+}
+1502.6.7 = {
+    heir = {
+        name = "João"  # João
+        monarch_name = "João III"  # João III
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1502.6.7
+        death_date = 1557.6.11
+        claim = 95
+        adm = 1
+        dip = 5
+        mil = 1
+    }
+}
+1503.1.1 = {
+    leader = {
+        name = "Francisco"  # Francisco
+        de = conquistadorfire
+         = 2death_date
+         = 1510.3.1
+    }
+}
+1509.1.1 = {
+    leader = {
+        name = "Caramuru"type"  # Caramuru"type
+         = 0death_date
+         = 1527.1.1
+    }
+}
+1518.7.16 = {
+    queen = {
+        country_of_origin = HAB
+        name = "Leonor"  # Leonor
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1498.1.15
+        death_date = 1558.2.25
+        female = yes
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1521.12.17 = {
+    monarch = {
+        name = "João III"  # João III
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1502.6.7
+        adm = 1
+        dip = 5
+        mil = 1
+    }
+}
+1525.2.10 = {
+    queen = {
+        country_of_origin = HAB
+        name = "Catherine"  # Catherine
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1507.1.14
+        death_date = 1578.2.12
+        female = yes
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+}
+1530.1.1 = {
+    leader = {
+        name = "Martim"  # Martim
+        de = conquistadorfire
+         = 0death_date
+         = 1564.1.1
+    }
+}
+1534.8.15 = {
+    decision = join_the_counter_reformation
+}
+1540.1.1 = {
+    decision = institute_the_societas_jesu
+}
+1554.1.20 = {
+    heir = {
+        name = "Sebastião"  # Sebastião
+        monarch_name = "Sebastião I"  # Sebastião I
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1554.1.20
+        death_date = 1578.8.4
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 4
+    }
+}
+1556.1.1 = {
+    leader = {
+        name = "Mem"  # Mem
+        de = conquistadorfire
+         = 2death_date
+         = 1560.1.1
+    }
+}
+1557.6.13 = {
+    monarch = {
+        name = "Sebastião I"  # Sebastião I
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1554.1.20
+        adm = 2
+        dip = 2
+        mil = 4
+    }
+    queen = {
+        country_of_origin = HAB
+        name = "Joanna"  # Joanna
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1535.6.24
+        death_date = 1573.9.7
+        female = yes
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+}
+1557.6.13 = {
+    heir = {
+        name = "Henrique"  # Henrique
+        monarch_name = "Henrique I o Cardeal-Rei"  # Henrique I o Cardeal-Rei
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1512.1.31
+        death_date = 1580.1.31
+        claim = 80
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1578.1.1 = {
+    leader = {
+        name = "António,"  # António,
+        Prior = generalfire
+         = 0death_date
+         = 1580.2.1
+    }
+}
+1578.8.6 = {
+    monarch = {
+        name = "Henrique I o Cardeal-Rei"  # Henrique I o Cardeal-Rei
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1512.1.31
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1578.8.6 = {
+    heir = {
+        name = "António"  # António
+        monarch_name = "António I"  # António I
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1531.1.1
+        death_date = 1595.8.26
+        claim = 95
+        adm = 4
+        dip = 3
+        mil = 4
+        leader = {
+            name = "António"  # António
+            I" = generalfire
+             = 3siege
+             = 0
+        }
+    }
+}
+1580.2.1 = {
+    monarch = {
+        name = "António I"  # António I
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1531.1.1
+        adm = 4
+        dip = 3
+        mil = 4
+        leader = {
+            name = "António"  # António
+            I" = generalfire
+             = 3siege
+             = 0
+        }
+    }
+    queen = {
+        country_of_origin = POR
+        name = "Anna"  # Anna
+        dynasty = "Barbosa"  # Barbosa
+        birth_date = 1530.1.1
+        death_date = 1590.1.1
+        female = yes
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1585.1.1 = {
+    leader = {
+        name = "Afonso"  # Afonso
+        de = admiralfire
+         = 0death_date
+         = 1607.6.3
+    }
+}
+1595.1.1 = {
+    leader = {
+        name = "Pedro"  # Pedro
+        Fernandes = explorerfire
+         = 0death_date
+         = 1615.1.1
+    }
+}
+1602.1.1 = {
+    leader = {
+        name = "António"  # António
+        Fernandes" = explorerfire
+         = 0death_date
+         = 1624.1.1
+    }
+}
+1606.1.1 = {
+    leader = {
+        name = "D."  # D.
+        Álvaro = admiralfire
+         = 0death_date
+         = 1620.1.1
+    }
+}
+1624.1.1 = {
+    leader = {
+        name = "Nuno"  # Nuno
+        Álvares = admiralfire
+         = 0death_date
+         = 1650.1.1
+    }
+}
+1637.1.1 = {
+    leader = {
+        name = "Pedro"  # Pedro
+        Teixeira" = conquistadorfire
+         = 0death_date
+         = 1640.1.1
+    }
+}
+1640.12.1 = {
+    monarch = {
+        name = "João IV"  # João IV
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1604.3.19
+        adm = 3
+        dip = 5
+        mil = 3
+    }
+    queen = {
+        country_of_origin = SPA
+        name = "Luisa"  # Luisa
+        dynasty = "de Medina-Sidonia"  # de Medina-Sidonia
+        birth_date = 1631.10.31
+        death_date = 1666.2.27
+        female = yes
+        adm = 4
+        dip = 5
+        mil = 4
+    }
+}
+1643.8.21 = {
+    heir = {
+        name = "Afonso"  # Afonso
+        monarch_name = "Afonso VI"  # Afonso VI
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1643.8.21
+        death_date = 1683.9.12
+        claim = 95
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+}
+1655.1.1 = {
+    leader = {
+        name = "Álvares"  # Álvares
+        Botelho" = admiralfire
+         = 0death_date
+         = 1680.1.1
+    }
+}
+1656.11.7 = {
+    government = administrative_monarchy
+}
+1656.11.7 = {
+    monarch = {
+        name = "Afonso VI"  # Afonso VI
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1643.8.21
+        adm = 0
+        dip = 0
+        mil = 0
+    }
+    heir = {
+        name = "Pedro"
+        monarch_name = "Pedro II"
+        dynasty = "de Bragança"
+        birth_date = 1648.4.26
+        death_date = 1706.12.9
+        claim = 95
+        adm = 5
+        dip = 3
+        mil = 4
+    }
+}
+1659.1.1 = {
+    leader = {
+        name = "F."  # F.
+        von = generalfire
+         = 1death_date
+         = 1668.1.1
+    }
+}
+1666.8.2 = {
+    queen = {
+        country_of_origin = SAV
+        name = "Maria Francisca"  # Maria Francisca
+        dynasty = "di Savoia"  # di Savoia
+        birth_date = 1646.9.12
+        death_date = 1683.12.27
+        female = yes
+        adm = 3
+        dip = 4
+        mil = 3
+    }
+}
+1667.11.24 = {
+    monarch = {
+        name = "Pedro II"  # Pedro II
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1648.4.26
+        adm = 5
+        dip = 3
+        mil = 4
+    }
+    queen = {
+        country_of_origin = SAV
+        name = "Maria Francisca"  # Maria Francisca
+        dynasty = "di Savoia"  # di Savoia
+        birth_date = 1646.9.12
+        death_date = 1683.12.27
+        female = yes
+        adm = 3
+        dip = 4
+        mil = 3
+    }
+}
+1685.12.1 = {
+    leader = {
+        name = "Francisco"  # Francisco
+        da = admiralfire
+         = 0death_date
+         = 1720.2.28
+    }
+}
+1687.8.11 = {
+    queen = {
+        country_of_origin = PAL
+        name = "Maria Sophia"  # Maria Sophia
+        dynasty = "von Wittelsbach"  # von Wittelsbach
+        birth_date = 1666.8.6
+        death_date = 1699.8.4
+        female = yes
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+}
+1689.10.22 = {
+    heir = {
+        name = "João"  # João
+        monarch_name = "João V"  # João V
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1689.10.22
+        death_date = 1750.7.31
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1700.1.1 = {
+    leader = {
+        name = "António"  # António
+        Luís = generalfire
+         = 0death_date
+         = 1720.1.1
+    }
+}
+1706.12.11 = {
+    government = despotic_monarchy
+}
+1706.12.11 = {
+    monarch = {
+        name = "João V"  # João V
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1689.10.22
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+    queen = {
+        country_of_origin = HAB
+        name = "Maria Anna"  # Maria Anna
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1683.9.7
+        death_date = 1754.8.14
+        female = yes
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+}
+1708.10.27 = {
+    queen = {
+        country_of_origin = HAB
+        name = "Maria Anna"  # Maria Anna
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1683.9.7
+        death_date = 1754.8.14
+        female = yes
+        adm = 2
+        dip = 3
+        mil = 1
+    }
+}
+1714.6.6 = {
+    heir = {
+        name = "José"  # José
+        monarch_name = "José I"  # José I
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1714.6.6
+        death_date = 1777.2.24
+        claim = 95
+        adm = 6
+        dip = 3
+        mil = 3
+    }
+}
+1750.8.2 = {
+    government = enlightened_despotism
+}
+1750.8.2 = {
+    monarch = {
+        name = "José I"  # José I
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1714.6.6
+        adm = 6
+        dip = 3
+        mil = 3
+    }
+    queen = {
+        country_of_origin = SPA
+        name = "Maria Victoria"  # Maria Victoria
+        dynasty = "de Bourbon"  # de Bourbon
+        birth_date = 1718.3.31
+        death_date = 1781.1.17
+        female = yes
+        adm = 3
+        dip = 4
+        mil = 1
+    }
+    heir = {
+        name = "Maria"
+        monarch_name = "Maria I"
+        dynasty = "de Bragança"
+        birth_date = 1734.12.17
+        death_date = 1816.3.20
+        claim = 95
+        adm = 0
+        dip = 1
+        mil = 0
+        female = yes
+    }
+}
+1761.1.1 = {
+    leader = {
+        name = "Conde"  # Conde
+        de = generalfire
+         = 0death_date
+         = 1770.1.1
+    }
+}
+1777.2.23 = {
+    monarch = {
+        name = "Maria I"  # Maria I
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1734.12.17
+        adm = 0
+        dip = 1
+        mil = 0
+        female = yes
+    }
+    queen = {
+        country_of_origin = POR
+        name = "Pedro"  # Pedro
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1717.7.5
+        death_date = 1786.5.25
+        female = no
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1777.2.23 = {
+    heir = {
+        name = "João"  # João
+        monarch_name = "João VI"  # João VI
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1767.5.13
+        death_date = 1826.3.10
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 0
+    }
+}
+1790.2.27 = {
+    leader = {
+        name = "B."  # B.
+        Freire = generalfire
+         = 1death_date
+         = 1809.3.17
+    }
+}
+1794.4.25 = {
+    leader = {
+        name = "M."  # M.
+        Pereira = generalfire
+         = 1death_date
+         = 1827.11.6
+    }
+}
+1800.5.4 = {
+    leader = {
+        name = "M.J."  # M.J.
+        Dias = generalfire
+         = 1death_date
+         = 1821.2.11
+    }
+}
+1803.3.14 = {
+    leader = {
+        name = "Conde"  # Conde
+        de = generalfire
+         = 1death_date
+         = 1821.5.27
+    }
+}
+1808.1.1 = {
+    capital = 763
+}
+1809.1.1 = {
+    leader = {
+        name = "F."  # F.
+        Furtado = generalfire
+         = 1death_date
+         = 1854.3.11
+    }
+}
+1816.3.20 = {
+    monarch = {
+        name = "João VI"  # João VI
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1767.5.13
+        adm = 1
+        dip = 1
+        mil = 0
+    }
+    queen = {
+        country_of_origin = SPA
+        name = "Carlota"  # Carlota
+        dynasty = "de Bourbon"  # de Bourbon
+        birth_date = 1775.4.25
+        death_date = 1830.1.7
+        female = yes
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1433.1.1 = {
+    leader = {
+        name = "Gonçalo"  # Gonçalo
+    }
+}
+1656.11.7 = {
+    heir = {
+        name = "Pedro"  # Pedro
+        monarch_name = "Pedro II"  # Pedro II
+        dynasty = "de Bragança"  # de Bragança
+    }
+}
+1750.8.2 = {
+    heir = {
+        name = "Maria"  # Maria
+        monarch_name = "Maria I"  # Maria I
+        dynasty = "de Bragança"  # de Bragança
+    }
+}

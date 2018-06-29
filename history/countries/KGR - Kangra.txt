@@ -1,0 +1,603 @@
+﻿government = feudal_monarchy
+government_rank = 1
+technology_group = indian
+primary_culture = panjabi
+religion = hinduism
+capital = 509
+1390.1.1 = {
+    monarch = {
+        name = "Megh Chand"  # Megh Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 2
+        ADM = 1
+        MIL = 2
+    }
+}
+1390.1.1 = {
+    heir = {
+        name = "Hari Chand"  # Hari Chand
+        monarch_name = "Hari Chand I"  # Hari Chand I
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1380.1.1
+        death_date = 1420.1.1
+        claim = 95
+        DIP = 1
+        ADM = 1
+        MIL = 3
+    }
+}
+1405.1.1 = {
+    monarch = {
+        name = "Hari Chand I"  # Hari Chand I
+        dynasty = "Katoch"  # Katoch
+        DIP = 1
+        ADM = 1
+        MIL = 3
+    }
+}
+1405.1.1 = {
+    heir = {
+        name = "Karan Chand"  # Karan Chand
+        monarch_name = "Karan Chand II"  # Karan Chand II
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1390.1.1
+        death_date = 1430.1.1
+        claim = 95
+        DIP = 0
+        ADM = 3
+        MIL = 2
+    }
+}
+1420.1.1 = {
+    monarch = {
+        name = "Karan Chand II"  # Karan Chand II
+        dynasty = "Katoch"  # Katoch
+        DIP = 0
+        ADM = 3
+        MIL = 2
+    }
+}
+1420.1.1 = {
+    heir = {
+        name = "Sansar Chand"  # Sansar Chand
+        monarch_name = "Sansar Chand I"  # Sansar Chand I
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1400.1.1
+        death_date = 1450.1.1
+        claim = 95
+        DIP = 1
+        ADM = 1
+        MIL = 1
+    }
+}
+1430.1.1 = {
+    monarch = {
+        name = "Sansar Chand I"  # Sansar Chand I
+        dynasty = "Katoch"  # Katoch
+        DIP = 1
+        ADM = 1
+        MIL = 1
+    }
+}
+1430.1.1 = {
+    heir = {
+        name = "Devangga Chand"  # Devangga Chand
+        monarch_name = "Devangga Chand"  # Devangga Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1420.1.1
+        death_date = 1465.1.1
+        claim = 95
+        DIP = 3
+        ADM = 2
+        MIL = 3
+    }
+}
+1450.1.1 = {
+    monarch = {
+        name = "Devangga Chand"  # Devangga Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 3
+        ADM = 2
+        MIL = 3
+    }
+}
+1450.1.1 = {
+    heir = {
+        name = "Narendra Chand"  # Narendra Chand
+        monarch_name = "Devangga Chand"  # Devangga Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1430.1.1
+        death_date = 1480.1.1
+        claim = 95
+        DIP = 2
+        ADM = 1
+        MIL = 1
+    }
+}
+1465.1.1 = {
+    monarch = {
+        name = "Narendra Chand"  # Narendra Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 2
+        ADM = 1
+        MIL = 1
+    }
+}
+1465.1.1 = {
+    heir = {
+        name = "Suvira Chand"  # Suvira Chand
+        monarch_name = "Suvira Chand"  # Suvira Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1450.1.1
+        death_date = 1490.1.1
+        claim = 95
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1480.1.1 = {
+    monarch = {
+        name = "Suvira Chand"  # Suvira Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1480.1.1 = {
+    heir = {
+        name = "Prayag Chand"  # Prayag Chand
+        monarch_name = "Prayag Chand"  # Prayag Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1470.1.1
+        death_date = 1510.1.1
+        claim = 95
+        DIP = 3
+        ADM = 1
+        MIL = 0
+    }
+}
+1490.1.1 = {
+    monarch = {
+        name = "Prayag Chand"  # Prayag Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 3
+        ADM = 1
+        MIL = 0
+    }
+}
+1490.1.1 = {
+    heir = {
+        name = "Ram Chand"  # Ram Chand
+        monarch_name = "Ram Chand"  # Ram Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1480.1.1
+        death_date = 1528.1.1
+        claim = 95
+        DIP = 2
+        ADM = 1
+        MIL = 1
+    }
+}
+1510.1.1 = {
+    monarch = {
+        name = "Ram Chand"  # Ram Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 2
+        ADM = 1
+        MIL = 1
+    }
+}
+1510.1.1 = {
+    heir = {
+        name = "Dharam Chand"  # Dharam Chand
+        monarch_name = "Dharam Chand"  # Dharam Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1468.1.1
+        death_date = 1563.1.1
+        claim = 95
+        DIP = 4
+        ADM = 1
+        MIL = 0
+    }
+}
+1528.1.1 = {
+    monarch = {
+        name = "Dharam Chand"  # Dharam Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 4
+        ADM = 1
+        MIL = 0
+    }
+}
+1528.1.1 = {
+    heir = {
+        name = "Manika Chand"  # Manika Chand
+        monarch_name = "Manika Chand"  # Manika Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1495.1.1
+        death_date = 1570.1.1
+        claim = 95
+        DIP = 2
+        ADM = 2
+        MIL = 2
+    }
+}
+1563.1.1 = {
+    monarch = {
+        name = "Manika Chand"  # Manika Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 2
+        ADM = 2
+        MIL = 2
+    }
+}
+1563.1.1 = {
+    heir = {
+        name = "Jai Chand"  # Jai Chand
+        monarch_name = "Jai Chand V"  # Jai Chand V
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1510.1.1
+        death_date = 1585.1.1
+        claim = 95
+        DIP = 1
+        ADM = 1
+        MIL = 1
+    }
+}
+1570.1.1 = {
+    monarch = {
+        name = "Jai Chand V"  # Jai Chand V
+        dynasty = "Katoch"  # Katoch
+        DIP = 1
+        ADM = 1
+        MIL = 1
+    }
+}
+1570.1.1 = {
+    heir = {
+        name = "Bidhi Chand"  # Bidhi Chand
+        monarch_name = "Bidhi Chand"  # Bidhi Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1550.1.1
+        death_date = 1607.1.1
+        claim = 95
+        DIP = 5
+        ADM = 1
+        MIL = 3
+    }
+}
+1585.1.1 = {
+    monarch = {
+        name = "Bidhi Chand"  # Bidhi Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 5
+        ADM = 1
+        MIL = 3
+    }
+}
+1585.1.1 = {
+    heir = {
+        name = "Triloka Chand"  # Triloka Chand
+        monarch_name = "Triloka Chand"  # Triloka Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1560.1.1
+        death_date = 1612.1.1
+        claim = 95
+        DIP = 3
+        ADM = 1
+        MIL = 3
+    }
+}
+1607.1.1 = {
+    monarch = {
+        name = "Triloka Chand"  # Triloka Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 3
+        ADM = 1
+        MIL = 3
+    }
+}
+1608.1.1 = {
+    heir = {
+        name = "Hari Chand"  # Hari Chand
+        monarch_name = "Hari Chand II"  # Hari Chand II
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1608.1.1
+        death_date = 1627.1.1
+        claim = 95
+        DIP = 1
+        ADM = 2
+        MIL = 1
+    }
+}
+1612.1.1 = {
+    monarch = {
+        name = "Hari Chand II"  # Hari Chand II
+        dynasty = "Katoch"  # Katoch
+        DIP = 1
+        ADM = 2
+        MIL = 1
+    }
+}
+1612.1.1 = {
+    heir = {
+        name = "Chandarbhan Chand"  # Chandarbhan Chand
+        monarch_name = "Chandarbhan Chand"  # Chandarbhan Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1580.1.1
+        death_date = 1660.1.1
+        claim = 95
+        DIP = 3
+        ADM = 1
+        MIL = 3
+    }
+}
+1621.1.1 = {
+    capital = 511
+}
+1627.1.1 = {
+    monarch = {
+        name = "Chandarbhan Chand"  # Chandarbhan Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 3
+        ADM = 1
+        MIL = 3
+    }
+}
+1627.1.1 = {
+    heir = {
+        name = "Vijay"  # Vijay
+        monarch_name = "Vijay Ram Chand"  # Vijay Ram Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1590.1.1
+        death_date = 1687.1.1
+        claim = 95
+        DIP = 0
+        ADM = 1
+        MIL = 4
+    }
+}
+1660.1.1 = {
+    monarch = {
+        name = "Vijay Ram Chand"  # Vijay Ram Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 0
+        ADM = 1
+        MIL = 4
+    }
+}
+1660.1.1 = {
+    heir = {
+        name = "Udi"  # Udi
+        monarch_name = "Udi Ram Chand"  # Udi Ram Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1640.1.1
+        death_date = 1690.1.1
+        claim = 95
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1687.1.1 = {
+    monarch = {
+        name = "Udi Ram Chand"  # Udi Ram Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1687.1.1 = {
+    heir = {
+        name = "Bhim Chand"  # Bhim Chand
+        monarch_name = "Bhim Chand"  # Bhim Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1660.1.1
+        death_date = 1697.1.1
+        claim = 95
+        DIP = 0
+        ADM = 1
+        MIL = 2
+    }
+}
+1690.1.1 = {
+    monarch = {
+        name = "Bhim Chand"  # Bhim Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 0
+        ADM = 1
+        MIL = 2
+    }
+}
+1690.1.1 = {
+    heir = {
+        name = "Alam Chand"  # Alam Chand
+        monarch_name = "Alam Chand II"  # Alam Chand II
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1680.1.1
+        death_date = 1700.1.1
+        claim = 95
+        DIP = 0
+        ADM = 1
+        MIL = 0
+    }
+}
+1697.1.1 = {
+    monarch = {
+        name = "Alam Chand II"  # Alam Chand II
+        dynasty = "Katoch"  # Katoch
+        DIP = 0
+        ADM = 1
+        MIL = 0
+    }
+}
+1697.1.1 = {
+    heir = {
+        name = "Hamir Chand"  # Hamir Chand
+        monarch_name = "Hamir Chand"  # Hamir Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1690.1.1
+        death_date = 1747.1.1
+        claim = 95
+        DIP = 3
+        ADM = 4
+        MIL = 3
+    }
+}
+1700.1.1 = {
+    monarch = {
+        name = "Hamir Chand"  # Hamir Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 3
+        ADM = 4
+        MIL = 3
+    }
+}
+1700.1.1 = {
+    heir = {
+        name = "Abhay Chand"  # Abhay Chand
+        monarch_name = "Abhay Chand"  # Abhay Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1700.1.1
+        death_date = 1750.1.1
+        claim = 95
+        DIP = 0
+        ADM = 1
+        MIL = 0
+    }
+}
+1747.1.1 = {
+    monarch = {
+        name = "Abhay Chand"  # Abhay Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 0
+        ADM = 1
+        MIL = 0
+    }
+}
+1747.1.1 = {
+    heir = {
+        name = "Shrinagar Chand"  # Shrinagar Chand
+        monarch_name = "Shrinagar Chand"  # Shrinagar Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1730.1.1
+        death_date = 1750.6.1
+        claim = 95
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1750.1.1 = {
+    monarch = {
+        name = "Shrinagar Chand"  # Shrinagar Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1750.1.1 = {
+    heir = {
+        name = "Ghamir Chand"  # Ghamir Chand
+        monarch_name = "Ghamir Chand"  # Ghamir Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1730.1.1
+        death_date = 1751.1.1
+        claim = 95
+        DIP = 2
+        ADM = 4
+        MIL = 2
+    }
+}
+1750.6.1 = {
+    monarch = {
+        name = "Ghamir Chand"  # Ghamir Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 2
+        ADM = 4
+        MIL = 2
+    }
+}
+1750.6.1 = {
+    heir = {
+        name = "Ghamand Chand"  # Ghamand Chand
+        monarch_name = "Ghamand Chand"  # Ghamand Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1730.1.1
+        death_date = 1774.1.1
+        claim = 95
+        DIP = 3
+        ADM = 3
+        MIL = 4
+    }
+}
+1751.1.1 = {
+    monarch = {
+        name = "Ghamand Chand"  # Ghamand Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 3
+        ADM = 3
+        MIL = 4
+    }
+}
+1751.1.1 = {
+    heir = {
+        name = "Tegh Chand"  # Tegh Chand
+        monarch_name = "Tegh Chand"  # Tegh Chand
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1750.1.1
+        death_date = 1775.1.1
+        claim = 95
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1774.1.1 = {
+    monarch = {
+        name = "Tegh Chand"  # Tegh Chand
+        dynasty = "Katoch"  # Katoch
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1774.1.1 = {
+    heir = {
+        name = "Sansar Chand"  # Sansar Chand
+        monarch_name = "Sansar Chand II"  # Sansar Chand II
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1765.1.1
+        death_date = 1823.1.1
+        claim = 95
+        DIP = 4
+        ADM = 2
+        MIL = 2
+    }
+}
+1775.1.1 = {
+    monarch = {
+        name = "Sansar Chand II"  # Sansar Chand II
+        dynasty = "Katoch"  # Katoch
+        DIP = 4
+        ADM = 2
+        MIL = 2
+    }
+}
+1775.1.1 = {
+    heir = {
+        name = "Anirudh Chand"  # Anirudh Chand
+        monarch_name = "Anirudh Chand II"  # Anirudh Chand II
+        dynasty = "Katoch"  # Katoch
+        birth_date = 1765.1.1
+        death_date = 1833.1.1
+        claim = 95
+        DIP = 2
+        ADM = 0
+        MIL = 0
+    }
+}

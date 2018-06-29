@@ -1,0 +1,82 @@
+﻿government = feudal_monarchy
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = flemish
+capital = 92
+1355.1.1 = {
+    monarch = {
+        name = "Jeanne"  # Jeanne
+        dynasty = "de Reginar"  # de Reginar
+        adm = 2
+        dip = 2
+        mil = 2
+        female = yes
+    }
+}
+1384.8.1 = {
+    heir = {
+        name = "Antoine"  # Antoine
+        monarch_name = "Antoine"  # Antoine
+        dynasty = "de Valois"  # de Valois
+        birth_date = 1384.1.1
+        death_date = 1415.10.25
+        claim = 70
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1406.11.1 = {
+    monarch = {
+        name = "Antoine"  # Antoine
+        dynasty = "de Valois"  # de Valois
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1406.11.1 = {
+    heir = {
+        name = "John"  # John
+        monarch_name = "John IV"  # John IV
+        dynasty = "de Valois"  # de Valois
+        birth_date = 1403.6.11
+        death_date = 1427.4.17
+        claim = 95
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1415.1.1 = {
+    monarch = {
+        name = "John IV"  # John IV
+        dynasty = "de Valois"  # de Valois
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1415.1.1 = {
+    heir = {
+        name = "Philip"  # Philip
+        monarch_name = "Philip I"  # Philip I
+        dynasty = "de Valois"  # de Valois
+        birth_date = 1404.7.25
+        death_date = 1430.8.14
+        claim = 95
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1427.1.1 = {
+    monarch = {
+        name = "Philip I"  # Philip I
+        dynasty = "de Valois"  # de Valois
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}

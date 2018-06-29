@@ -1,0 +1,37 @@
+﻿government = despotic_monarchy
+primary_culture = aimara
+religion = inti
+technology_group = andean
+unit_type = south_american
+capital = 2942
+1444.1.1 = {
+    monarch = {
+        name = "Tunupa"  # Tunupa
+        dynasty = "Charca"  # Charca
+        adm = 1
+        dip = 1
+        mil = 3
+    }
+}
+1444.1.1 = {
+    heir = {
+        name = "Anquimarca"  # Anquimarca
+        monarch_name = "Anquimarca"  # Anquimarca
+        dynasty = "Charca"  # Charca
+        birth_date = 1430.1.1
+        death_date = 1476.1.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1470.1.1 = {
+    monarch = {
+        name = "Anquimarca"  # Anquimarca
+        dynasty = "Charca"  # Charca
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}

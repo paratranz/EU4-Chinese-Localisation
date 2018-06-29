@@ -1,0 +1,211 @@
+﻿government = feudal_monarchy
+primary_culture = czech
+religion = catholic
+elector = yes
+capital = 266
+technology_group = western
+add_accepted_culture = saxon
+add_army_professionalism = 0.1
+1378.11.29 = {
+    monarch = {
+        name = "Václav IV"  # Václav IV
+        dynasty = "von Luxemburg"  # von Luxemburg
+        birth_date = 1361.2.26
+        adm = 2
+        dip = 2
+        mil = 0
+    }
+}
+1419.1.1 = {
+    leader = {
+        name = "Jan"  # Jan
+        Zizka"type = generalfire
+         = 0death_date
+         = 1424.10.11
+    }
+}
+1419.1.1 = {
+    leader = {
+        name = "Prokop"  # Prokop
+        Holý"type = generalfire
+         = 1death_date
+         = 1434.5.30
+    }
+}
+1439.10.27 = {
+    monarch = {
+        name = "Landfriedens"  # Landfriedens
+        regent = yes
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1457.11.24 = {
+    monarch = {
+        name = "Jirí"  # Jirí
+        dynasty = "z Podebrad"  # z Podebrad
+        birth_date = 1420.4.23
+        adm = 5
+        dip = 4
+        mil = 3
+    }
+    queen = {
+        country_of_origin = BOH
+        name = "Joanna"  # Joanna
+        dynasty = "Rozmitál"  # Rozmitál
+        birth_date = 1430.1.1
+        death_date = 1475.11.12
+        female = yes
+        adm = 3
+        dip = 4
+        mil = 2
+    }
+}
+1471.3.23 = {
+    monarch = {
+        name = "Vladislav II"  # Vladislav II
+        dynasty = "Jagiellon"  # Jagiellon
+        birth_date = 1456.3.1
+        adm = 2
+        dip = 4
+        mil = 2
+    }
+}
+1476.1.1 = {
+    queen = {
+        country_of_origin = BRA
+        name = "Barbara"  # Barbara
+        dynasty = "von Hohenzollern"  # von Hohenzollern
+        birth_date = 1464.5.30
+        death_date = 1491.1.1
+        female = yes
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1490.10.4 = {
+    queen = {
+        country_of_origin = NAP
+        name = "Beatrice"  # Beatrice
+        dynasty = "de Trastámara"  # de Trastámara
+        birth_date = 1457.11.16
+        death_date = 1500.4.7
+        female = yes
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1502.9.29 = {
+    queen = {
+        country_of_origin = FRA
+        name = "Anne"  # Anne
+        dynasty = "de Foix"  # de Foix
+        birth_date = 1484.1.1
+        death_date = 1506.7.26
+        female = yes
+        adm = 3
+        dip = 3
+        mil = 1
+    }
+}
+1516.3.14 = {
+    monarch = {
+        name = "Ludvik I"  # Ludvik I
+        dynasty = "Jagiellon"  # Jagiellon
+        birth_date = 1506.7.1
+        adm = 3
+        dip = 3
+        mil = 2
+    }
+    queen = {
+        country_of_origin = HAB
+        name = "Maria"  # Maria
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1505.9.15
+        death_date = 1558.10.18
+        female = yes
+        adm = 4
+        dip = 3
+        mil = 3
+    }
+}
+1526.8.30 = {
+    government = despotic_monarchy
+    elector = no
+    add_accepted_culture = schlesian
+}
+1526.8.30 = {
+    monarch = {
+        name = "Ferdinand I"  # Ferdinand I
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1503.3.10
+        adm = 4
+        dip = 3
+        mil = 4
+    }
+}
+1556.10.2 = {
+    government = despotic_monarchy
+}
+1562.9.17 = {
+    monarch = {
+        name = "Maximilian II"  # Maximilian II
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1527.7.31
+        adm = 2
+        dip = 4
+        mil = 2
+    }
+}
+1576.1.1 = {
+    monarch = {
+        name = "Rudolf II"  # Rudolf II
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1552.7.18
+        adm = 5
+        dip = 3
+        mil = 2
+    }
+}
+1610.1.1 = {
+    leader = {
+        name = "Christian"  # Christian
+        of = generalfire
+         = 0death_date
+         = 1630.4.17
+    }
+}
+1612.1.22 = {
+    monarch = {
+        name = "Matthias"  # Matthias
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1557.2.24
+        adm = 2
+        dip = 2
+        mil = 0
+    }
+}
+1615.1.1 = {
+    leader = {
+        name = "Thurn"  # Thurn
+         = 0death_date
+         = 1640.1.28
+    }
+}
+1618.5.22 = {
+    monarch = {
+        name = "The Bohemian Estates"  # The Bohemian Estates
+        regent = yes
+        adm = 1
+        dip = 2
+        mil = 4
+    }
+    religion = protestant
+    join_league = protestant
+}
+1620.11.8 = {
+    leave_league = protestant
+}

@@ -1,0 +1,40 @@
+﻿government = feudal_monarchy
+government_rank = 1
+primary_culture = wallonian
+religion = catholic
+technology_group = western
+capital = 94
+fixed_capital = 94
+1388.1.1 = {
+    monarch = {
+        name = "Jobst I"  # Jobst I
+        dynasty = "von Luxemburg"  # von Luxemburg
+        adm = 3
+        dip = 3
+        mil = 4
+    }
+}
+1390.11.1 = {
+    heir = {
+        name = "Elisabeth"  # Elisabeth
+        monarch_name = "Elisabeth"  # Elisabeth
+        dynasty = "von Luxemburg"  # von Luxemburg
+        birth_date = 1390.11.1
+        death_date = 1451.8.3
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 1
+        female = yes
+    }
+}
+1415.1.1 = {
+    monarch = {
+        name = "Elisabeth I"  # Elisabeth I
+        dynasty = "von Luxemburg"  # von Luxemburg
+        adm = 2
+        dip = 2
+        mil = 1
+        female = yes
+    }
+}

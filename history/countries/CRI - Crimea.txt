@@ -1,0 +1,798 @@
+﻿government = steppe_horde
+technology_group = nomad_group
+religion = sunni
+primary_culture = crimean
+capital = 284
+religious_school = hanafi_school
+1441.1.1 = {
+    monarch = {
+        name = "Haji I"  # Haji I
+        dynasty = "Giray"  # Giray
+        birth_date = 1397.1.1
+        adm = 3
+        dip = 4
+        mil = 4
+    }
+    heir = {
+        name = "Nur Devlet"  # Nur Devlet
+        monarch_name = "Nur Devlet I"  # Nur Devlet I
+        dynasty = "Giray"  # Giray
+        birth_date = 1420.1.1
+        death_date = 1503.1.1
+        claim = 95
+        adm = 0
+        dip = 0
+        mil = 2
+    }
+    add_piety = 0.2
+    clear_scripted_personalities = yes
+    add_ruler_personality = silver_tongue_personality
+    add_heir_personality = naive_personality
+}
+1466.8.1 = {
+    monarch = {
+        name = "Nur Devlet I"  # Nur Devlet I
+        dynasty = "Giray"  # Giray
+        birth_date = 1420.1.1
+        adm = 0
+        dip = 0
+        mil = 2
+    }
+    set_global_flag = death_of_haji_giray
+}
+1469.1.1 = {
+    monarch = {
+        name = "Mengli I"  # Mengli I
+        dynasty = "Giray"  # Giray
+        birth_date = 1445.1.1
+        adm = 1
+        dip = 3
+        mil = 3
+    }
+}
+1475.3.1 = {
+    monarch = {
+        name = "Hayder I"  # Hayder I
+        dynasty = "Giray"  # Giray
+        birth_date = 1438.1.1
+        adm = 0
+        dip = 0
+        mil = 1
+    }
+}
+1475.12.1 = {
+    monarch = {
+        name = "Nur Devlet I"  # Nur Devlet I
+        dynasty = "Giray"  # Giray
+        birth_date = 1420.1.1
+        adm = 0
+        dip = 0
+        mil = 2
+    }
+}
+1478.5.1 = {
+    monarch = {
+        name = "Mengli I"  # Mengli I
+        dynasty = "Giray"  # Giray
+        birth_date = 1445.1.1
+        adm = 1
+        dip = 3
+        mil = 3
+    }
+    government_rank = 1
+}
+1478.5.1 = {
+    heir = {
+        name = "Mehmed"  # Mehmed
+        monarch_name = "Mehmed I"  # Mehmed I
+        dynasty = "Giray"  # Giray
+        birth_date = 1465.1.1
+        death_date = 1523.3.1
+        claim = 95
+        adm = 1
+        dip = 2
+        mil = 4
+    }
+}
+1515.4.1 = {
+    monarch = {
+        name = "Mehmed I"  # Mehmed I
+        dynasty = "Giray"  # Giray
+        birth_date = 1465.1.1
+        adm = 1
+        dip = 2
+        mil = 4
+    }
+}
+1515.4.1 = {
+    heir = {
+        name = "Ghazi"  # Ghazi
+        monarch_name = "Ghazi I"  # Ghazi I
+        dynasty = "Giray"  # Giray
+        birth_date = 1504.1.1
+        death_date = 1524.1.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 0
+    }
+}
+1523.3.1 = {
+    monarch = {
+        name = "Ghazi I"  # Ghazi I
+        dynasty = "Giray"  # Giray
+        birth_date = 1504.1.1
+        adm = 1
+        dip = 1
+        mil = 0
+    }
+}
+1524.1.1 = {
+    monarch = {
+        name = "Saadet I"  # Saadet I
+        dynasty = "Giray"  # Giray
+        birth_date = 1494.1.1
+        adm = 3
+        dip = 2
+        mil = 0
+    }
+}
+1532.5.1 = {
+    monarch = {
+        name = "Islam I"  # Islam I
+        dynasty = "Giray"  # Giray
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1532.10.1 = {
+    monarch = {
+        name = "Sahib I"  # Sahib I
+        dynasty = "Giray"  # Giray
+        birth_date = 1501.1.1
+        adm = 4
+        dip = 4
+        mil = 3
+    }
+}
+1537.1.1 = {
+    heir = {
+        name = "Amin"  # Amin
+        monarch_name = "Amin I"  # Amin I
+        dynasty = "Giray"  # Giray
+        birth_date = 1537.1.1
+        death_date = 1551.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 4
+    }
+}
+1551.1.1 = {
+    monarch = {
+        name = "Devlet I"  # Devlet I
+        dynasty = "Giray"  # Giray
+        birth_date = 1512.1.1
+        adm = 2
+        dip = 2
+        mil = 4
+        leader = {
+            name = "Dawlat"  # Dawlat
+            Giray = generalfire
+             = 5siege
+             = 0
+        }
+    }
+}
+1551.1.1 = {
+    heir = {
+        name = "Mehmed"  # Mehmed
+        monarch_name = "Mehmed II"  # Mehmed II
+        dynasty = "Giray"  # Giray
+        birth_date = 1532.1.1
+        death_date = 1584.6.1
+        claim = 95
+        adm = 0
+        dip = 2
+        mil = 2
+    }
+}
+1577.6.29 = {
+    monarch = {
+        name = "Mehmed II"  # Mehmed II
+        dynasty = "Giray"  # Giray
+        birth_date = 1532.1.1
+        adm = 0
+        dip = 2
+        mil = 2
+    }
+}
+1577.6.29 = {
+    heir = {
+        name = "Saadet"  # Saadet
+        monarch_name = "Saadet II"  # Saadet II
+        dynasty = "Giray"  # Giray
+        birth_date = 1555.1.1
+        death_date = 1587.1.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1584.1.1 = {
+    monarch = {
+        name = "Saadet II"  # Saadet II
+        dynasty = "Giray"  # Giray
+        birth_date = 1555.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1584.6.1 = {
+    monarch = {
+        name = "Islam II"  # Islam II
+        dynasty = "Giray"  # Giray
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1588.3.1 = {
+    monarch = {
+        name = "Ghazi II"  # Ghazi II
+        dynasty = "Giray"  # Giray
+        birth_date = 1554.1.1
+        adm = 2
+        dip = 1
+        mil = 3
+    }
+}
+1596.5.1 = {
+    monarch = {
+        name = "Fetih I"  # Fetih I
+        dynasty = "Giray"  # Giray
+        birth_date = 1557.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1596.9.1 = {
+    monarch = {
+        name = "Ghazi II"  # Ghazi II
+        dynasty = "Giray"  # Giray
+        birth_date = 1554.1.1
+        adm = 2
+        dip = 1
+        mil = 3
+    }
+}
+1596.9.1 = {
+    heir = {
+        name = "Toqtamish"  # Toqtamish
+        monarch_name = "Toqtamish I"  # Toqtamish I
+        dynasty = "Giray"  # Giray
+        birth_date = 1589.1.1
+        death_date = 1608.6.1
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1607.12.20 = {
+    monarch = {
+        name = "Toqtamish I"  # Toqtamish I
+        dynasty = "Giray"  # Giray
+        birth_date = 1589.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1608.6.1 = {
+    monarch = {
+        name = "Selamet I"  # Selamet I
+        dynasty = "Giray"  # Giray
+        birth_date = 1558.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1608.6.1 = {
+    heir = {
+        name = "Janibek"  # Janibek
+        monarch_name = "Janibek I"  # Janibek I
+        dynasty = "Giray"  # Giray
+        birth_date = 1558.1.1
+        death_date = 1636.6.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 0
+    }
+}
+1610.6.1 = {
+    monarch = {
+        name = "Janibek I"  # Janibek I
+        dynasty = "Giray"  # Giray
+        birth_date = 1558.1.1
+        adm = 2
+        dip = 2
+        mil = 0
+    }
+}
+1623.1.1 = {
+    monarch = {
+        name = "Mehmed III"  # Mehmed III
+        dynasty = "Giray"  # Giray
+        birth_date = 1584.1.1
+        adm = 2
+        dip = 2
+        mil = 3
+    }
+}
+1628.6.1 = {
+    monarch = {
+        name = "Janibek I"  # Janibek I
+        dynasty = "Giray"  # Giray
+        birth_date = 1558.1.1
+        adm = 2
+        dip = 2
+        mil = 0
+    }
+}
+1635.1.1 = {
+    monarch = {
+        name = "Inayet I"  # Inayet I
+        dynasty = "Giray"  # Giray
+        birth_date = 1597.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1637.1.1 = {
+    monarch = {
+        name = "Bahadir I"  # Bahadir I
+        dynasty = "Giray"  # Giray
+        birth_date = 1602.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1641.1.1 = {
+    monarch = {
+        name = "Mehmed IV"  # Mehmed IV
+        dynasty = "Giray"  # Giray
+        birth_date = 1610.1.1
+        adm = 1
+        dip = 4
+        mil = 1
+    }
+}
+1644.1.1 = {
+    monarch = {
+        name = "Islam III"  # Islam III
+        dynasty = "Giray"  # Giray
+        birth_date = 1604.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1654.1.1 = {
+    monarch = {
+        name = "Mehmed IV"  # Mehmed IV
+        dynasty = "Giray"  # Giray
+        birth_date = 1610.1.1
+        adm = 1
+        dip = 4
+        mil = 1
+    }
+}
+1666.3.1 = {
+    monarch = {
+        name = "Adil I"  # Adil I
+        dynasty = "Giray"  # Giray
+        birth_date = 1617.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1671.1.1 = {
+    monarch = {
+        name = "Selim I"  # Selim I
+        dynasty = "Giray"  # Giray
+        birth_date = 1631.1.1
+        adm = 3
+        dip = 5
+        mil = 3
+        leader = {
+            name = "Selim"  # Selim
+            I" = generalfire
+             = 4siege
+             = 0
+        }
+    }
+}
+1678.1.1 = {
+    monarch = {
+        name = "Murad I"  # Murad I
+        dynasty = "Giray"  # Giray
+        birth_date = 1627.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1683.1.1 = {
+    monarch = {
+        name = "Haji II"  # Haji II
+        dynasty = "Giray"  # Giray
+        birth_date = 1644.1.1
+        adm = 2
+        dip = 2
+        mil = 5
+        leader = {
+            name = "Haji"  # Haji
+            II" = generalfire
+             = 3siege
+             = 0
+        }
+    }
+}
+1684.1.1 = {
+    monarch = {
+        name = "Selim I"  # Selim I
+        dynasty = "Giray"  # Giray
+        birth_date = 1631.1.1
+        adm = 3
+        dip = 5
+        mil = 3
+        leader = {
+            name = "Selim"  # Selim
+            I" = generalfire
+             = 4siege
+             = 0
+        }
+    }
+}
+1691.1.1 = {
+    monarch = {
+        name = "Saadet III"  # Saadet III
+        dynasty = "Giray"  # Giray
+        birth_date = 1645.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1691.6.1 = {
+    monarch = {
+        name = "Safa I"  # Safa I
+        dynasty = "Giray"  # Giray
+        birth_date = 1637.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1692.1.1 = {
+    monarch = {
+        name = "Selim I"  # Selim I
+        dynasty = "Giray"  # Giray
+        birth_date = 1631.1.1
+        adm = 3
+        dip = 5
+        mil = 3
+        leader = {
+            name = "Selim"  # Selim
+            I" = generalfire
+             = 4siege
+             = 0
+        }
+    }
+}
+1699.1.1 = {
+    monarch = {
+        name = "Devlet II"  # Devlet II
+        dynasty = "Giray"  # Giray
+        birth_date = 1648.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1702.1.1 = {
+    monarch = {
+        name = "Selim I"  # Selim I
+        dynasty = "Giray"  # Giray
+        birth_date = 1631.1.1
+        adm = 3
+        dip = 5
+        mil = 3
+        leader = {
+            name = "Selim"  # Selim
+            I" = generalfire
+             = 4siege
+             = 0
+        }
+    }
+}
+1704.1.1 = {
+    monarch = {
+        name = "Ghazi III"  # Ghazi III
+        dynasty = "Giray"  # Giray
+        birth_date = 1673.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1707.1.1 = {
+    monarch = {
+        name = "Qaplan I"  # Qaplan I
+        dynasty = "Giray"  # Giray
+        birth_date = 1678.1.1
+        adm = 0
+        dip = 2
+        mil = 1
+    }
+}
+1709.1.1 = {
+    monarch = {
+        name = "Devlet II"  # Devlet II
+        dynasty = "Giray"  # Giray
+        birth_date = 1648.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1713.1.1 = {
+    monarch = {
+        name = "Qaplan I"  # Qaplan I
+        dynasty = "Giray"  # Giray
+        birth_date = 1678.1.1
+        adm = 0
+        dip = 2
+        mil = 1
+    }
+}
+1715.1.1 = {
+    monarch = {
+        name = "Devlet III"  # Devlet III
+        dynasty = "Giray"  # Giray
+        birth_date = 1647.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1717.1.1 = {
+    monarch = {
+        name = "Saadet IV"  # Saadet IV
+        dynasty = "Giray"  # Giray
+        birth_date = 1662.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1724.1.1 = {
+    monarch = {
+        name = "Mengli II"  # Mengli II
+        dynasty = "Giray"  # Giray
+        birth_date = 1678.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1730.1.1 = {
+    monarch = {
+        name = "Qaplan I"  # Qaplan I
+        dynasty = "Giray"  # Giray
+        birth_date = 1678.1.1
+        adm = 0
+        dip = 2
+        mil = 1
+    }
+}
+1736.1.1 = {
+    monarch = {
+        name = "Fetih II"  # Fetih II
+        dynasty = "Giray"  # Giray
+        birth_date = 1696.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1737.1.1 = {
+    monarch = {
+        name = "Mengli II"  # Mengli II
+        dynasty = "Giray"  # Giray
+        birth_date = 1678.1.1
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1740.1.1 = {
+    monarch = {
+        name = "Selamet II"  # Selamet II
+        dynasty = "Giray"  # Giray
+        birth_date = 1691.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1743.1.1 = {
+    monarch = {
+        name = "Selim II"  # Selim II
+        dynasty = "Giray"  # Giray
+        birth_date = 1708.1.1
+        adm = 0
+        dip = 1
+        mil = 0
+    }
+}
+1748.5.19 = {
+    monarch = {
+        name = "Arslan I"  # Arslan I
+        dynasty = "Giray"  # Giray
+        birth_date = 1692.1.1
+        adm = 1
+        dip = 4
+        mil = 2
+    }
+}
+1756.1.1 = {
+    monarch = {
+        name = "Halim I"  # Halim I
+        dynasty = "Giray"  # Giray
+        birth_date = 1689.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1758.1.1 = {
+    monarch = {
+        name = "Qirim I"  # Qirim I
+        dynasty = "Giray"  # Giray
+        birth_date = 1717.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1764.1.1 = {
+    monarch = {
+        name = "Selim III"  # Selim III
+        dynasty = "Giray"  # Giray
+        birth_date = 1713.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1767.1.1 = {
+    monarch = {
+        name = "Arslan I"  # Arslan I
+        dynasty = "Giray"  # Giray
+        birth_date = 1692.1.1
+        adm = 1
+        dip = 4
+        mil = 2
+    }
+}
+1767.6.2 = {
+    monarch = {
+        name = "Maqsud"  # Maqsud
+        dynasty = "Giray"  # Giray
+        birth_date = 1720.1.1
+        adm = 1
+        dip = 2
+        mil = 0
+    }
+}
+1768.1.1 = {
+    monarch = {
+        name = "Qirim I"  # Qirim I
+        dynasty = "Giray"  # Giray
+        birth_date = 1717.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1769.1.1 = {
+    monarch = {
+        name = "Devlet IV"  # Devlet IV
+        dynasty = "Giray"  # Giray
+        birth_date = 1730.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1770.1.1 = {
+    monarch = {
+        name = "Qaplan II"  # Qaplan II
+        dynasty = "Giray"  # Giray
+        birth_date = 1739.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1770.6.1 = {
+    monarch = {
+        name = "Selim III"  # Selim III
+        dynasty = "Giray"  # Giray
+        birth_date = 1713.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1771.1.1 = {
+    monarch = {
+        name = "Sahib II"  # Sahib II
+        dynasty = "Giray"  # Giray
+        birth_date = 1726.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1775.1.1 = {
+    monarch = {
+        name = "Devlet IV"  # Devlet IV
+        dynasty = "Giray"  # Giray
+        birth_date = 1730.1.1
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1777.5.5 = {
+    monarch = {
+        name = "Shahin I"  # Shahin I
+        dynasty = "Giray"  # Giray
+        birth_date = 1745.1.1
+        adm = 1
+        dip = 2
+        mil = 2
+    }
+}
+1782.5.1 = {
+    monarch = {
+        name = "Bahadir II"  # Bahadir II
+        dynasty = "Giray"  # Giray
+        birth_date = 1722.1.1
+        adm = 3
+        dip = 1
+        mil = 2
+    }
+}
+1782.11.1 = {
+    monarch = {
+        name = "Shahin I"  # Shahin I
+        dynasty = "Giray"  # Giray
+        birth_date = 1745.1.1
+        adm = 1
+        dip = 2
+        mil = 2
+    }
+}

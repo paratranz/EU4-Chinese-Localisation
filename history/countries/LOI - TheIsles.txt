@@ -1,0 +1,28 @@
+﻿government = feudal_monarchy
+primary_culture = highland_scottish
+religion = catholic
+technology_group = western
+capital = 4364
+government_rank = 1
+1423.1.1 = {
+    monarch = {
+        name = "Alasdair"  # Alasdair
+        dynasty = "MacDonald"  # MacDonald
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1444.1.1 = {
+    heir = {
+        name = "Eoin"  # Eoin
+        monarch_name = "Eoin II"  # Eoin II
+        dynasty = "MacDonald"  # MacDonald
+        birth_date = 1434.1.1
+        death_date = 1503.1.1
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 1
+    }
+}

@@ -1,0 +1,1289 @@
+﻿government = despotic_monarchy
+primary_culture = castillian
+add_accepted_culture = sicilian
+add_accepted_culture = leonese
+add_accepted_culture = neapolitan
+add_accepted_culture = wallonian
+religion = catholic
+technology_group = western
+historical_friend = POR
+capital = 219
+national_focus = MIL
+1491.1.1 = {
+    leader = {
+        name = "Fadrique"  # Fadrique
+        Álv. = generalfire
+         = 0death_date
+         = 1520.1.1
+    }
+}
+1495.1.1 = {
+    leader = {
+        name = "Prospero"  # Prospero
+        Colonna" = generalfire
+         = 0death_date
+         = 1523.12.1
+    }
+}
+1499.1.1 = {
+    leader = {
+        name = "Vicente"  # Vicente
+        Yáñez = explorerfire
+         = 0death_date
+         = 1523.1.1
+    }
+}
+1508.1.1 = {
+    leader = {
+        name = "Juan"  # Juan
+        Díaz = explorerfire
+         = 0death_date
+         = 1516.2.1
+    }
+}
+1509.1.1 = {
+    leader = {
+        name = "Vasco"  # Vasco
+        Núñez = conquistadorfire
+         = 0death_date
+         = 1519.1.25
+    }
+}
+1511.1.1 = {
+    leader = {
+        name = "Pánfilo"  # Pánfilo
+        de = conquistadorfire
+         = 0death_date
+         = 1528.1.1
+    }
+}
+1512.3.4 = {
+    leader = {
+        name = "Ponce"  # Ponce
+        de = conquistadorfire
+         = 0death_date
+         = 1521.7.1
+    }
+}
+1513.10.7 = {
+    leader = {
+        name = "Fernando"  # Fernando
+        de = generalfire
+         = 0death_date
+         = 1525.2.4
+    }
+}
+1516.1.23 = {
+    changed_tag_from = CAS
+    decision = act_of_uniformity
+    decision = blasphemy_act
+}
+1516.1.23 = {
+    monarch = {
+        name = "Carlos I"  # Carlos I
+        dynasty = "von Habsburg"  # von Habsburg
+        adm = 4
+        dip = 5
+        mil = 5
+    }
+    add_army_professionalism = 0.3
+}
+1518.1.1 = {
+    leader = {
+        name = "Juan"  # Juan
+        de = explorerfire
+         = 0death_date
+         = 1527.1.1
+    }
+}
+1519.1.1 = {
+    leader = {
+        name = "Hernán"  # Hernán
+        Cortés" = conquistadorfire
+         = 1death_date
+         = 1547.12.2
+    }
+}
+1519.1.1 = {
+    leader = {
+        name = "Cristóbal"  # Cristóbal
+        de = conquistador
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0death_date
+         = 1524.5.3
+    }
+}
+1519.1.12 = {
+    monarch = {
+        name = "Carlos V"  # Carlos V
+        dynasty = "von Habsburg"  # von Habsburg
+        culture = flemish
+        adm = 4
+        dip = 5
+        mil = 5
+    }
+}
+1519.1.12 = {
+    leader = {
+        name = "Carlos"  # Carlos
+        de = generalfire
+         = 0death_date
+         = 1527.9.23
+    }
+}
+1519.9.21 = {
+    leader = {
+        name = "Fernão"  # Fernão
+        de = explorerfire
+         = 0death_date
+         = 1521.4.27
+    }
+}
+1520.1.1 = {
+    add_accepted_culture = lombard
+}
+1521.1.1 = {
+    leader = {
+        name = "Antonio"  # Antonio
+        de = generalfire
+         = 0death_date
+         = 1536.1.1
+    }
+}
+1521.4.27 = {
+    leader = {
+        name = "Juan"  # Juan
+        Sebastián = explorerfire
+         = 0
+        death_date = 1526.8.4
+    }
+}
+1523.1.1 = {
+    leader = {
+        name = "Condestable"  # Condestable
+        Borbón" = generalfire
+         = 0death_date
+         = 1527.5.6
+    }
+}
+1523.1.1 = {
+    leader = {
+        name = "Pedro"  # Pedro
+        de = conquistador
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0death_date
+         = 1541.8.4
+    }
+}
+1524.9.13 = {
+    leader = {
+        name = "Gonzalo"  # Gonzalo
+        Pizarro" = conquistador
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0death_date
+         = 1548.4.10
+    }
+}
+1524.9.13 = {
+    leader = {
+        name = "Francisco"  # Francisco
+        Pizarro"type = conquistadorfire
+         = 1death_date
+         = 1541.6.26
+    }
+    leader = {
+        name = "Diego
+        de = conquistadorfire
+         = 0death_date
+         = 1538.4.1
+        name = "Francisco
+         = 1549.1.1
+    }
+}
+1525.1.1 = {
+    leader = {
+        name = "Bernardino"  # Bernardino
+        de = admiralfire
+         = 0death_date
+         = 1557.1.1
+    }
+}
+1525.7.24 = {
+    leader = {
+        name = "García"  # García
+        Jofre = explorerfire
+         = 0death_date
+         = 1526.8.4
+    }
+}
+1526.3.10 = {
+    queen = {
+        country_of_origin = POR
+        name = "Isabella"  # Isabella
+        dynasty = "de Avis"  # de Avis
+        birth_date = 1503.10.24
+        death_date = 1539.5.1
+        female = yes
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}
+1526.12.1 = {
+    leader = {
+        name = "Francisco"  # Francisco
+        de = conquistador
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0death_date
+         = 1542.1.1
+    }
+}
+1526.12.1 = {
+    leader = {
+        name = "Francisco"  # Francisco
+        de = conquistadorfire
+         = 0death_date
+         = 1535.1.1
+    }
+    leader = {
+        name = "Francisco
+        de = conquistador
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0death_date
+         = 1543.1.1
+        name = "Sebastián
+         = 1551.1.1
+    }
+}
+1527.1.1 = {
+    leader = {
+        name = "Álvar"  # Álvar
+        Cabeza = conquistadorfire
+         = 0death_date
+         = 1545.1.1
+    }
+}
+1527.5.21 = {
+    heir = {
+        name = "Felipe"  # Felipe
+        monarch_name = "Felipe II"  # Felipe II
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1527.5.21
+        death_date = 1598.9.13
+        claim = 95
+        adm = 4
+        dip = 3
+        mil = 4
+    }
+}
+1527.10.30 = {
+    leader = {
+        name = "Álvaro"  # Álvaro
+        de = explorerfire
+         = 0death_date
+         = 1529.1.1
+    }
+}
+1528.1.1 = {
+    leader = {
+        name = "Hernando"  # Hernando
+        de = conquistadorfire
+         = 0death_date
+         = 1542.5.21
+    }
+}
+1529.1.1 = {
+    leader = {
+        name = "Pedro"  # Pedro
+        de = conquistadorfire
+         = 0death_date
+         = 1537.1.1
+    }
+}
+1529.12.21 = {
+    leader = {
+        name = "Nuño"  # Nuño
+        de = conquistador
+        fire = 3
+        shock = 4
+        manuever = 2
+        siege = 0death_date
+         = 1536.1.1
+    }
+}
+1531.1.1 = {
+    leader = {
+        name = "Ginés"  # Ginés
+        de = explorer
+        fire = 2
+        shock = 1
+        manuever = 3
+        siege = 0death_date
+         = 1539.1.1
+    }
+}
+1534.8.15 = {
+    decision = join_the_counter_reformation
+}
+1535.1.1 = {
+    leader = {
+        name = "Duque"  # Duque
+        de = generalfire
+         = 0death_date
+         = 1582.12.11
+    }
+}
+1536.1.1 = {
+    leader = {
+        name = "Nikolaus"  # Nikolaus
+        Federmann" = conquistador
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0death_date
+         = 1539.7.8
+    }
+}
+1536.4.7 = {
+    leader = {
+        name = "G."  # G.
+        Jiménez = conquistadorfire
+         = 0death_date
+         = 1579.1.1
+    }
+}
+1537.1.1 = {
+    leader = {
+        name = "Alonso"  # Alonso
+        de = conquistador
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0death_date
+         = 1559.1.1
+    }
+}
+1539.1.1 = {
+    leader = {
+        name = "João"  # João
+        Rodrigues = explorer
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0death_date
+         = 1543.1.3
+    }
+}
+1539.1.1 = {
+    leader = {
+        name = "Francisco"  # Francisco
+        de = explorer
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0death_date
+         = 1540.1.1
+    }
+}
+1540.1.1 = {
+    leader = {
+        name = "Francisco"  # Francisco
+        V. = conquistadorfire
+         = 0death_date
+         = 1544.1.1
+    }
+}
+1540.1.4 = {
+    leader = {
+        name = "Pedro"  # Pedro
+        de = conquistadorfire
+         = 0death_date
+         = 1554.1.1
+    }
+}
+1540.6.1 = {
+    decision = institute_the_societas_jesu
+    decision = conventicle_act
+}
+1541.1.1 = {
+    leader = {
+        name = "Ruy"  # Ruy
+        López = explorer
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0death_date
+         = 1544.1.1
+    }
+}
+1542.1.1 = {
+    leader = {
+        name = "E."  # E.
+        Filiberto = generalfire
+         = 1death_date
+         = 1559.1.1
+    }
+}
+1544.1.1 = {
+    leader = {
+        name = "Lope"  # Lope
+        de = conquistadorfire
+         = 0death_date
+         = 1561.10.6
+    }
+}
+1556.1.16 = {
+    monarch = {
+        name = "Felipe II"  # Felipe II
+        dynasty = "von Habsburg"  # von Habsburg
+        adm = 4
+        dip = 3
+        mil = 4
+    }
+    queen = {
+        country_of_origin = ENG
+        name = "Mary"  # Mary
+        dynasty = "Tudor"  # Tudor
+        birth_date = 1516.2.18
+        death_date = 1558.12.17
+        female = yes
+        adm = 1
+        dip = 1
+        mil = 0
+    }
+}
+1559.6.22 = {
+    queen = {
+        country_of_origin = FRA
+        name = "Elisabeth"  # Elisabeth
+        dynasty = "de Valois"  # de Valois
+        birth_date = 1545.4.2
+        death_date = 1568.10.3
+        female = yes
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1560.1.1 = {
+    leader = {
+        name = "Bernardino"  # Bernardino
+        de = generalfire
+         = 0death_date
+         = 1578.1.1
+    }
+}
+1561.6.1 = {
+    capital = 217
+}
+1564.1.1 = {
+    leader = {
+        name = "Alvaro"  # Alvaro
+        de = admiralfire
+         = 0death_date
+         = 1588.2.9
+    }
+}
+1564.11.11 = {
+    leader = {
+        name = "Miguel"  # Miguel
+        López = conquistadorfire
+         = 0death_date
+         = 1571.6.24
+    }
+}
+1564.11.21 = {
+    leader = {
+        name = "Martín"  # Martín
+        de = conquistador
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0death_date
+         = 1574.1.1
+    }
+}
+1564.11.21 = {
+    leader = {
+        name = "Juan"  # Juan
+        de = conquistador
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0death_date
+         = 1576.3.11
+    }
+}
+1565.1.1 = {
+    leader = {
+        name = "Pedro"  # Pedro
+        Menéndez = conquistador
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0death_date
+         = 1574.9.16
+    }
+}
+1567.11.20 = {
+    leader = {
+        name = "Álvaro"  # Álvaro
+        de = explorer
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0death_date
+         = 1595.11.3
+    }
+}
+1568.1.1 = {
+    leader = {
+        name = "Juan"  # Juan
+        de = generalfire
+         = 0death_date
+         = 1571.1.1
+    }
+}
+1568.12.25 = {
+    set_country_flag = alpujarras_revolt_happened
+}
+1570.5.1 = {
+    queen = {
+        country_of_origin = HAB
+        name = "Anna"  # Anna
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1549.11.1
+        death_date = 1580.10.26
+        female = yes
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1570.10.28 = {
+    set_country_flag = end_of_granada
+}
+1571.1.1 = {
+    leader = {
+        name = "Juan"  # Juan
+        de = admiralfire
+         = 0death_date
+         = 1576.1.1
+    }
+}
+1572.1.1 = {
+    leader = {
+        name = "Alessandro"  # Alessandro
+        Farnese" = generalfire
+         = 2death_date
+         = 1586.9.18
+    }
+}
+1576.1.1 = {
+    leader = {
+        name = "Juan"  # Juan
+        de = generalfire
+         = 0death_date
+         = 1578.8.1
+    }
+}
+1578.4.14 = {
+    heir = {
+        name = "Felipe"  # Felipe
+        monarch_name = "Felipe III"  # Felipe III
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1578.4.14
+        death_date = 1621.3.31
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 1
+    }
+}
+1582.1.1 = {
+    leader = {
+        name = "Pedro"  # Pedro
+        Enríquez = generalfire
+         = 1death_date
+         = 1610.7.22
+    }
+}
+1588.2.9 = {
+    leader = {
+        name = "Duque"  # Duque
+        de = admiralfire
+         = 0death_date
+         = 1615.1.1
+    }
+}
+1595.1.1 = {
+    leader = {
+        name = "Juan"  # Juan
+        de = conquistadorfire
+         = 0death_date
+         = 1626.1.1
+    }
+}
+1598.1.1 = {
+    leader = {
+        name = "Luis"  # Luis
+        Fajardo" = admiralfire
+         = 0death_date
+         = 1617.5.21
+    }
+}
+1598.9.13 = {
+    monarch = {
+        name = "Felipe III"  # Felipe III
+        dynasty = "von Habsburg"  # von Habsburg
+        adm = 1
+        dip = 0
+        mil = 1
+    }
+}
+1599.4.18 = {
+    queen = {
+        country_of_origin = HAB
+        name = "Margaret"  # Margaret
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1584.12.25
+        death_date = 1611.10.3
+        female = yes
+        adm = 2
+        dip = 3
+        mil = 1
+    }
+}
+1601.1.1 = {
+    capital = 214
+}
+1602.1.1 = {
+    leader = {
+        name = "Sebastián"  # Sebastián
+        Vizcaíno" = explorerfire
+         = 0death_date
+         = 1623.1.1
+    }
+}
+1603.9.29 = {
+    leader = {
+        name = "Ambrogio"  # Ambrogio
+        Spinola"type = generalfire
+         = 1death_date
+         = 1630.8.25
+    }
+}
+1605.1.1 = {
+    leader = {
+        name = "Váez"  # Váez
+        de = explorerfire
+         = 0death_date
+         = 1610.1.1
+    }
+}
+1605.4.8 = {
+    heir = {
+        name = "Felipe"  # Felipe
+        monarch_name = "Felipe IV"  # Felipe IV
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1605.4.8
+        death_date = 1665.9.17
+        claim = 95
+        adm = 2
+        dip = 3
+        mil = 1
+    }
+}
+1605.12.21 = {
+    leader = {
+        name = "Pedro"  # Pedro
+        Fernández = explorer
+        fire = 2
+        shock = 3manuever
+         = 5
+        siege = 0death_date
+         = 1607.1.1
+    }
+}
+1606.1.1 = {
+    capital = 217
+}
+1609.7.15 = {
+    leader = {
+        name = "Antonio"  # Antonio
+        de = admiralfire
+         = 0death_date
+         = 1640.6.7
+    }
+}
+1619.3.20 = {
+    join_league = catholic
+}
+1621.3.31 = {
+    monarch = {
+        name = "Felipe IV"  # Felipe IV
+        dynasty = "von Habsburg"  # von Habsburg
+        adm = 2
+        dip = 3
+        mil = 1
+    }
+    queen = {
+        country_of_origin = FRA
+        name = "Elisabeth"  # Elisabeth
+        dynasty = "de Valois"  # de Valois
+        birth_date = 1602.11.22
+        death_date = 1644.10.6
+        female = yes
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1630.1.1 = {
+    leader = {
+        name = "Fernando"  # Fernando
+        Cardenal-Infante" = generalfire
+         = 1death_date
+         = 1641.11.9
+    }
+}
+1636.1.1 = {
+    leader = {
+        name = "Francisco"  # Francisco
+        de = generalfire
+         = 0death_date
+         = 1651.1.1
+    }
+}
+1640.1.1 = {
+    remove_accepted_culture = sicilian
+    remove_accepted_culture = lombard
+}
+1649.10.7 = {
+    queen = {
+        country_of_origin = HAB
+        name = "Mariana"  # Mariana
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1634.12.24
+        death_date = 1696.5.16
+        female = yes
+        adm = 4
+        dip = 1
+        mil = 1
+    }
+}
+1647.7.7 = {
+    leader = {
+        name = "Juan"  # Juan
+        José = generalfire
+         = 0death_date
+         = 1663.6.4
+    }
+}
+1648.1.30 = {
+    leave_league = catholic
+}
+1661.11.6 = {
+    heir = {
+        name = "Carlos"  # Carlos
+        monarch_name = "Carlos II"  # Carlos II
+        dynasty = "von Habsburg"  # von Habsburg
+        birth_date = 1661.11.6
+        death_date = 1700.11.1
+        claim = 95
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1664.1.1 = {
+    leader = {
+        name = "L."  # L.
+        de = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0death_date
+         = 1665.6.17
+    }
+}
+1665.9.17 = {
+    monarch = {
+        name = "Carlos II"  # Carlos II
+        dynasty = "von Habsburg"  # von Habsburg
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1679.11.19 = {
+    queen = {
+        country_of_origin = SPA
+        name = "Marie Louise"  # Marie Louise
+        dynasty = "de Valois"  # de Valois
+        birth_date = 1662.3.26
+        death_date = 1689.2.12
+        female = yes
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1683.12.19 = {
+    heir = {
+        name = "Felipe"  # Felipe
+        monarch_name = "Felipe V"  # Felipe V
+        culture = cosmopolitan_french
+        dynasty = "de Bourbon"  # de Bourbon
+        birth_date = 1683.12.19
+        death_date = 1746.7.9
+        claim = 95
+        adm = 3
+        dip = 1
+        mil = 3
+    }
+}
+1689.8.28 = {
+    queen = {
+        country_of_origin = PAL
+        name = "Maria Anna"  # Maria Anna
+        dynasty = "von Wittelsbach"  # von Wittelsbach
+        birth_date = 1662.3.26
+        death_date = 1689.2.12
+        female = yes
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1700.11.1 = {
+    monarch = {
+        name = "Felipe V"  # Felipe V
+        culture = cosmopolitan_french
+        dynasty = "de Bourbon"  # de Bourbon
+        adm = 3
+        dip = 1
+        mil = 3
+    }
+}
+1701.11.2 = {
+    queen = {
+        country_of_origin = SAV
+        name = "Maria Luisa"  # Maria Luisa
+        dynasty = "di Savoia"  # di Savoia
+        birth_date = 1688.8.17
+        death_date = 1714.2.14
+        female = yes
+        adm = 5
+        dip = 4
+        mil = 2
+    }
+}
+1707.8.25 = {
+    heir = {
+        name = "Luis"  # Luis
+        monarch_name = "Luis I"  # Luis I
+        dynasty = "de Bourbon"  # de Bourbon
+        birth_date = 1707.8.25
+        death_date = 1724.8.31
+        claim = 95
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1716.1.23 = {
+    government = despotic_monarchy
+}
+1717.1.1 = {
+    leader = {
+        name = "Marqués"  # Marqués
+        de = generalfire
+         = 0death_date
+         = 1724.1.1
+    }
+}
+1723.2.16 = {
+    leader = {
+        name = "Blas"  # Blas
+        de = admiralfire
+         = 0death_date
+         = 1741.9.7
+    }
+}
+1724.1.14 = {
+    monarch = {
+        name = "Luis I"  # Luis I
+        dynasty = "de Bourbon"  # de Bourbon
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1724.1.14 = {
+    heir = {
+        name = "Felipe"  # Felipe
+        monarch_name = "Felipe V"  # Felipe V
+        dynasty = "de Bourbon"  # de Bourbon
+        birth_date = 1683.12.19
+        death_date = 1746.7.9
+        claim = 95
+        adm = 3
+        dip = 1
+        mil = 3
+    }
+}
+1724.8.31 = {
+    monarch = {
+        name = "Felipe V"  # Felipe V
+        dynasty = "de Bourbon"  # de Bourbon
+        adm = 3
+        dip = 1
+        mil = 3
+    }
+    queen = {
+        country_of_origin = PAR
+        name = "Elisabeth"  # Elisabeth
+        dynasty = "Farnese"  # Farnese
+        birth_date = 1692.10.25
+        death_date = 1766.7.11
+        female = yes
+        adm = 5
+        dip = 5
+        mil = 3
+    }
+}
+1724.8.31 = {
+    heir = {
+        name = "Fernando"  # Fernando
+        monarch_name = "Fernando VI"  # Fernando VI
+        dynasty = "de Bourbon"  # de Bourbon
+        birth_date = 1713.9.23
+        death_date = 1759.8.10
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+}
+1730.1.1 = {
+    leader = {
+        name = "Luis"  # Luis
+        de = admiralfire
+         = 0death_date
+         = 1796.7.29
+    }
+}
+1732.1.1 = {
+    leader = {
+        name = "Marqués"  # Marqués
+        de = admiralfire
+         = 0death_date
+         = 1772.1.1
+    }
+}
+1746.7.9 = {
+    monarch = {
+        name = "Fernando VI"  # Fernando VI
+        dynasty = "de Bourbon"  # de Bourbon
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+    queen = {
+        country_of_origin = POR
+        name = "Barbara"  # Barbara
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1711.12.4
+        death_date = 1758.8.27
+        female = yes
+        adm = 3
+        dip = 4
+        mil = 2
+    }
+}
+1746.7.9 = {
+    heir = {
+        name = "Carlos"  # Carlos
+        monarch_name = "Carlos III"  # Carlos III
+        dynasty = "de Bourbon"  # de Bourbon
+        birth_date = 1716.1.20
+        death_date = 1788.12.14
+        claim = 95
+        adm = 4
+        dip = 2
+        mil = 3
+    }
+}
+1759.8.10 = {
+    monarch = {
+        name = "Carlos III"  # Carlos III
+        dynasty = "de Bourbon"  # de Bourbon
+        adm = 4
+        dip = 2
+        mil = 3
+    }
+    queen = {
+        country_of_origin = SAX
+        name = "Maria Amalia"  # Maria Amalia
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1724.11.24
+        death_date = 1760.9.27
+        female = yes
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1759.8.10 = {
+    heir = {
+        name = "Carlos"  # Carlos
+        monarch_name = "Carlos IV"  # Carlos IV
+        dynasty = "de Bourbon"  # de Bourbon
+        birth_date = 1748.11.11
+        death_date = 1819.1.20
+        claim = 95
+        adm = 0
+        dip = 2
+        mil = 1
+    }
+}
+1759.8.12 = {
+    government = enlightened_despotism
+}
+1769.6.29 = {
+    leader = {
+        name = "Gaspar"  # Gaspar
+        de = conquistadorfire
+         = 0death_date
+         = 1770.6.9
+    }
+}
+1770.1.1 = {
+    leader = {
+        name = "Antonio"  # Antonio
+        Barceló" = admiralfire
+         = 0death_date
+         = 1797.1.1
+    }
+}
+1775.1.1 = {
+    leader = {
+        name = "Bernardo"  # Bernardo
+        de = generalfire
+         = 0death_date
+         = 1785.1.1
+    }
+}
+1775.1.1 = {
+    leader = {
+        name = "Silvestre"  # Silvestre
+        V. = explorerfire
+         = 0death_date
+         = 1779.1.1
+    }
+}
+1785.1.1 = {
+    leader = {
+        name = "Federico"  # Federico
+        Carlos = admiralfire
+         = 0death_date
+         = 1806.1.1
+    }
+}
+1788.12.14 = {
+    monarch = {
+        name = "Carlos IV"  # Carlos IV
+        dynasty = "de Bourbon"  # de Bourbon
+        adm = 0
+        dip = 2
+        mil = 1
+    }
+    queen = {
+        country_of_origin = PAR
+        name = "Maria Luisa"  # Maria Luisa
+        dynasty = "de Bourbon"  # de Bourbon
+        birth_date = 1751.12.9
+        death_date = 1819.1.2
+        female = yes
+        adm = 2
+        dip = 2
+        mil = 1
+    }
+}
+1788.12.14 = {
+    heir = {
+        name = "Carlos"  # Carlos
+        monarch_name = "Carlos IV"  # Carlos IV
+        dynasty = "de Bourbon"  # de Bourbon
+        birth_date = 1788.12.14
+        death_date = 1833.9.29
+        claim = 95
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1793.1.1 = {
+    leader = {
+        name = "F.J."  # F.J.
+        Castaños"type = generalfire
+         = 1death_date
+         = 1806.5.6
+    }
+}
+1808.3.19 = {
+    monarch = {
+        name = "Fernando VII"  # Fernando VII
+        dynasty = "de Bourbon"  # de Bourbon
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1808.6.6 = {
+    government = constitutional_monarchy
+    government_rank = 1
+}
+1808.6.6 = {
+    monarch = {
+        name = "José I"  # José I
+        dynasty = "Bonaparte"  # Bonaparte
+        culture = sardinian
+        adm = 3
+        dip = 4
+        mil = 1
+    }
+    queen = {
+        country_of_origin = FRA
+        name = "Julie"  # Julie
+        dynasty = "Clary"  # Clary
+        birth_date = 1771.12.26
+        death_date = 1845.4.7
+        female = yes
+        adm = 2
+        dip = 1
+        mil = 1
+    }
+}
+1813.12.11 = {
+    government = enlightened_despotism
+    government_rank = 2
+}
+1813.12.11 = {
+    leader = {
+        name = "F.J."  # F.J.
+        Castaños"type = generalfire
+         = 1death_date
+         = 1852.9.24
+    }
+    leader = {
+        name = "José
+        de = generalfire
+         = 1death_date
+         = 1823.1.1
+        name = "Agustín
+        Maroto"type = generalfire
+         = 1833.9.29
+        Osorio"type = generalfire
+         = 1819.1.1
+        Olañeta"type = generalfire
+         = 1825.4.2
+        Iturbide"type = generalfire
+         = 1820.1.1
+    }
+    monarch = {
+        name = "Fernando VII"
+        dynasty = "de Bourbon"
+        adm = 1
+        dip = 2
+        mil = 1
+    }
+}
+1816.9.29 = {
+    queen = {
+        country_of_origin = POR
+        name = "Maria Isabel"  # Maria Isabel
+        dynasty = "de Bragança"  # de Bragança
+        birth_date = 1797.5.19
+        death_date = 1818.12.26
+        female = yes
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1819.10.20 = {
+    queen = {
+        country_of_origin = SAX
+        name = "Maria Josepha Amalia"  # Maria Josepha Amalia
+        dynasty = "von Wettin"  # von Wettin
+        birth_date = 1803.5.18
+        death_date = 1829.5.18
+        female = yes
+        adm = 1
+        dip = 1
+        mil = 1
+    }
+}
+1524.9.13 = {
+    leader = {
+        name = "Diego"  # Diego
+    }
+}
+1524.9.13 = {
+    leader = {
+        name = "Francisco"  # Francisco
+    }
+}
+1526.12.1 = {
+    leader = {
+        name = "Francisco"  # Francisco
+    }
+}
+1526.12.1 = {
+    leader = {
+        name = "Sebastián"  # Sebastián
+    }
+}
+1813.12.11 = {
+    leader = {
+        name = "José"  # José
+    }
+}
+1813.12.11 = {
+    leader = {
+        name = "Rafael"  # Rafael
+    }
+}
+1813.12.11 = {
+    leader = {
+        name = "Mariano"  # Mariano
+    }
+}
+1813.12.11 = {
+    leader = {
+        name = "Pedro"  # Pedro
+    }
+}
+1813.12.11 = {
+    leader = {
+        name = "Agustín"  # Agustín
+    }
+}
+1813.12.11 = {
+    monarch = {
+        name = "Fernando VII"  # Fernando VII
+        dynasty = "de Bourbon"  # de Bourbon
+    }
+}

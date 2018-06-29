@@ -1,0 +1,335 @@
+﻿government = tribal_despotism
+government_rank = 1
+primary_culture = madagasque
+religion = shamanism
+technology_group = east_african
+unit_type = sub_saharan
+capital = 1792
+unlock_cult = enkai_cult
+unlock_cult = waaq_cult
+unlock_cult = zanahary_cult
+1440.1.1 = {
+    monarch = {
+        name = "Andrianampandrandrandava"  # Andrianampandrandrandava
+        dynasty = "Vazimba"  # Vazimba
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1460.1.1 = {
+    monarch = {
+        name = "Andrianmasinidohafandrana"  # Andrianmasinidohafandrana
+        dynasty = "Vazimba"  # Vazimba
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1480.1.1 = {
+    monarch = {
+        name = "Rafandrampohy"  # Rafandrampohy
+        dynasty = "Vazimba"  # Vazimba
+        adm = 3
+        dip = 2
+        mil = 2
+    }
+}
+1500.1.1 = {
+    monarch = {
+        name = "Andrianmpandramanenitra"  # Andrianmpandramanenitra
+        dynasty = "Vazimba"  # Vazimba
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1520.1.1 = {
+    monarch = {
+        name = "Rangita"  # Rangita
+        female = yes
+        dynasty = "Vazimba"  # Vazimba
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1530.1.1 = {
+    monarch = {
+        name = "Rafohy"  # Rafohy
+        female = yes
+        dynasty = "Vazimba"  # Vazimba
+        adm = 2
+        dip = 3
+        mil = 3
+    }
+}
+1530.1.1 = {
+    heir = {
+        name = "Andriamanelo"  # Andriamanelo
+        monarch_name = "Andriamanelo"  # Andriamanelo
+        dynasty = "Merina"  # Merina
+        birth_date = 1520.1.1
+        death_date = 1575.1.1
+        claim = 95
+        adm = 5
+        dip = 4
+        mil = 4
+    }
+}
+1540.1.1 = {
+    monarch = {
+        name = "Andriamanelo"  # Andriamanelo
+        dynasty = "Merina"  # Merina
+        adm = 5
+        dip = 4
+        mil = 4
+    }
+}
+1540.1.1 = {
+    heir = {
+        name = "Ralambo"  # Ralambo
+        monarch_name = "Ralambo"  # Ralambo
+        dynasty = "Merina"  # Merina
+        birth_date = 1540.1.1
+        death_date = 1612.1.1
+        claim = 95
+        adm = 5
+        dip = 5
+        mil = 5
+    }
+}
+1575.1.1 = {
+    monarch = {
+        name = "Ralambo"  # Ralambo
+        dynasty = "Merina"  # Merina
+        adm = 5
+        dip = 5
+        mil = 5
+    }
+}
+1575.1.1 = {
+    heir = {
+        name = "Andrianjaka"  # Andrianjaka
+        monarch_name = "Andrianjaka"  # Andrianjaka
+        dynasty = "Merina"  # Merina
+        birth_date = 1570.1.1
+        death_date = 1630.1.1
+        claim = 95
+        adm = 4
+        dip = 4
+        mil = 5
+    }
+}
+1612.1.1 = {
+    monarch = {
+        name = "Andrianjaka"  # Andrianjaka
+        dynasty = "Merina"  # Merina
+        adm = 4
+        dip = 4
+        mil = 5
+    }
+}
+1612.1.1 = {
+    heir = {
+        name = "Andriantsitakatrandriana"  # Andriantsitakatrandriana
+        monarch_name = "Andriantsitakatrandriana"  # Andriantsitakatrandriana
+        dynasty = "Merina"  # Merina
+        birth_date = 1590.1.1
+        death_date = 1650.1.1
+        claim = 95
+        adm = 4
+        dip = 2
+        mil = 4
+    }
+}
+1630.1.1 = {
+    monarch = {
+        name = "Andriantsitakatrandriana"  # Andriantsitakatrandriana
+        dynasty = "Merina"  # Merina
+        adm = 4
+        dip = 2
+        mil = 4
+    }
+}
+1630.1.1 = {
+    heir = {
+        name = "Andriantsimitoviaminandriandehibe"  # Andriantsimitoviaminandriandehibe
+        monarch_name = "Andriantsimitoviaminandriandehibe"  # Andriantsimitoviaminandriandehibe
+        dynasty = "Merina"  # Merina
+        birth_date = 1630.1.1
+        death_date = 1670.1.1
+        claim = 95
+        adm = 4
+        dip = 2
+        mil = 2
+    }
+}
+1650.1.1 = {
+    monarch = {
+        name = "Andriantsimitoviaminandriandehibe"  # Andriantsimitoviaminandriandehibe
+        dynasty = "Merina"  # Merina
+        adm = 4
+        dip = 2
+        mil = 2
+    }
+}
+1650.1.1 = {
+    heir = {
+        name = "Razakatsitakatrandriana"  # Razakatsitakatrandriana
+        monarch_name = "Razakatsitakatrandriana"  # Razakatsitakatrandriana
+        dynasty = "Merina"  # Merina
+        birth_date = 1630.1.1
+        death_date = 1670.1.1
+        claim = 60
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1670.1.1 = {
+    monarch = {
+        name = "Razakatsitakatrandriana"  # Razakatsitakatrandriana
+        dynasty = "Merina"  # Merina
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1670.1.1 = {
+    heir = {
+        name = "Andriamasinavalona"  # Andriamasinavalona
+        monarch_name = "Andriamasinavalona"  # Andriamasinavalona
+        dynasty = "Merina"  # Merina
+        birth_date = 1630.1.1
+        death_date = 1670.1.1
+        claim = 95
+        adm = 2
+        dip = 4
+        mil = 4
+    }
+}
+1675.1.1 = {
+    monarch = {
+        name = "Andriamasinavalona"  # Andriamasinavalona
+        dynasty = "Merina"  # Merina
+        adm = 2
+        dip = 4
+        mil = 4
+    }
+}
+1675.1.1 = {
+    heir = {
+        name = "Andriantsimitoviaminandriandrazaka"  # Andriantsimitoviaminandriandrazaka
+        monarch_name = "Andriantsimitoviaminandriandrazaka"  # Andriantsimitoviaminandriandrazaka
+        dynasty = "Merina"  # Merina
+        birth_date = 1650.1.1
+        death_date = 1710.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 4
+    }
+}
+1710.1.1 = {
+    monarch = {
+        name = "Andriantsimitoviaminandriandrazaka"  # Andriantsimitoviaminandriandrazaka
+        dynasty = "Merina"  # Merina
+        adm = 2
+        dip = 2
+        mil = 4
+    }
+}
+1730.1.1 = {
+    heir = {
+        name = "Andriambelomasina"  # Andriambelomasina
+        monarch_name = "Andriambelomasina"  # Andriambelomasina
+        dynasty = "Merina"  # Merina
+        birth_date = 1730.1.1
+        death_date = 1770.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 4
+    }
+}
+1750.1.1 = {
+    monarch = {
+        name = "Andriambelomasina"  # Andriambelomasina
+        dynasty = "Merina"  # Merina
+        adm = 3
+        dip = 2
+        mil = 3
+    }
+}
+1750.1.1 = {
+    heir = {
+        name = "Andrianjafy"  # Andrianjafy
+        monarch_name = "Andrianjafy"  # Andrianjafy
+        dynasty = "Merina"  # Merina
+        birth_date = 1750.1.1
+        death_date = 1787.1.1
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+    heir = {
+        name = "Andrianampoinimerina"
+        monarch_name = "Andrianampoinimerina"
+        dynasty = "Merina"
+        birth_date = 1750.1.1
+        death_date = 1810.1.1
+        claim = 95
+        adm = 3
+        dip = 4
+        mil = 5
+    }
+}
+1770.1.1 = {
+    monarch = {
+        name = "Andrianjafy"  # Andrianjafy
+        dynasty = "Merina"  # Merina
+        adm = 2
+        dip = 1
+        mil = 2
+    }
+}
+1787.1.1 = {
+    monarch = {
+        name = "Andrianampoinimerina"  # Andrianampoinimerina
+        dynasty = "Merina"  # Merina
+        adm = 3
+        dip = 4
+        mil = 5
+    }
+}
+1793.1.1 = {
+    heir = {
+        name = "Radama"  # Radama
+        monarch_name = "Radama"  # Radama
+        dynasty = "Merina"  # Merina
+        birth_date = 1793.1.1
+        death_date = 1828.7.27
+        claim = 95
+        adm = 4
+        dip = 4
+        mil = 4
+    }
+}
+1810.1.1 = {
+    monarch = {
+        name = "Radama"  # Radama
+        dynasty = "Merina"  # Merina
+        adm = 4
+        dip = 4
+        mil = 4
+    }
+}
+1750.1.1 = {
+    heir = {
+        name = "Andrianampoinimerina"  # Andrianampoinimerina
+        monarch_name = "Andrianampoinimerina"  # Andrianampoinimerina
+        dynasty = "Merina"  # Merina
+    }
+}
