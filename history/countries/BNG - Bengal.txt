@@ -413,10 +413,12 @@ religious_school = hanafi_school
         DIP = 4
         MIL = 6
         leader = {
-            name = "Sher"  # Sher
-            Shah"type = generalfire
-             = 5siege
-             = 2
+            name = "Sher Shah"  # Sher Shah
+            type = general
+            fire = 2
+            shock = 5
+            manuever = 5
+            siege = 2
         }
     }
     clear_scripted_personalities = yes

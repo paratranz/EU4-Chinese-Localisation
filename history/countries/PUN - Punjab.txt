@@ -33,10 +33,12 @@ capital = 507
         DIP = 2
         MIL = 6
         leader = {
-            name = "Jassa"  # Jassa
-            Ahluwalia"type = generalfire
-             = 2siege
-             = 1
+            name = "Jassa Ahluwalia"  # Jassa Ahluwalia
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 2
+            siege = 1
         }
     }
     government = despotic_monarchy

@@ -73,10 +73,12 @@ religious_school = maliki_school
         dip = 0
         mil = 6
         leader = {
-            name = "'Alî"  # 'Alî
-            Ber" = generalfire
-             = 3siege
-             = 1
+            name = "'Alî Ber"  # 'Alî Ber
+            type = general
+            fire = 4
+            shock = 3
+            manuever = 3
+            siege = 1
         }
     }
 }
@@ -88,10 +90,12 @@ religious_school = maliki_school
         dip = 0
         mil = 6
         leader = {
-            name = "'Alî"  # 'Alî
-            Ber" = generalfire
-             = 3siege
-             = 1
+            name = "'Alî Ber"  # 'Alî Ber
+            type = general
+            fire = 4
+            shock = 3
+            manuever = 3
+            siege = 1
         }
     }
 }
@@ -107,10 +111,12 @@ religious_school = maliki_school
         dip = 2
         mil = 0
         leader = {
-            name = "Muhammad"  # Muhammad
-            I" = generalfire
-             = 3siege
-             = 0
+            name = "Muhammad I"  # Muhammad I
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -135,10 +141,12 @@ religious_school = maliki_school
         dip = 1
         mil = 5
         leader = {
-            name = "Muhammad"  # Muhammad
-            I" = generalfire
-             = 3siege
-             = 0
+            name = "Muhammad I"  # Muhammad I
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -150,10 +158,12 @@ religious_school = maliki_school
         dip = 1
         mil = 5
         leader = {
-            name = "Muhammad"  # Muhammad
-            I" = generalfire
-             = 3siege
-             = 0
+            name = "Muhammad I"  # Muhammad I
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -258,8 +268,11 @@ religious_school = maliki_school
         mil = 4
         leader = {
             name = "Dâ'ûd"  # Dâ'ûd
-             = 3siege
-             = 0
+            type = general
+            fire = 3
+            shock = 2
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -272,8 +285,11 @@ religious_school = maliki_school
         mil = 4
         leader = {
             name = "Dâ'ûd"  # Dâ'ûd
-             = 3siege
-             = 0
+            type = general
+            fire = 3
+            shock = 2
+            manuever = 3
+            siege = 0
         }
     }
 }

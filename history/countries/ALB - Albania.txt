@@ -14,8 +14,11 @@ capital = 4175
         mil = 6
         leader = {
             name = "斯坎德培"  # Skanderbeg
-             = 5siege
-             = 0
+            type = general
+            fire = 5
+            shock = 5
+            manuever = 5
+            siege = 0
         }
     }
     clear_scripted_personalities = yes

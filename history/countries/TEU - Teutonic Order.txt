@@ -16,10 +16,12 @@ add_army_professionalism = 0.1
         mil = 1
     }
     leader = {
-        name = "Ulrich"  # Ulrich
-        von = generalfire
-         = 3siege
-         = 0
+        name = "Ulrich von Jungingen"  # Ulrich von Jungingen
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
     }
 }
 1407.3.30 = {
@@ -126,10 +128,13 @@ add_army_professionalism = 0.1
 }
 1495.1.1 = {
     leader = {
-        name = "W."  # W.
-        von = generalfire
-         = 1death_date
-         = 1535.2.28
+        name = "W. von Plettenberg"  # W. von Plettenberg
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 3
+        siege = 1
+        death_date = 1535.2.28
     }
 }
 1497.8.26 = {

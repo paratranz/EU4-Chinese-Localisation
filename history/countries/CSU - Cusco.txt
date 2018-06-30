@@ -36,9 +36,12 @@ fixed_capital = 808
         dip = 4
         mil = 6
         leader = {
-            name = "Pachacuti"type"  # Pachacuti"type
-             = 4siege
-             = 2
+            name = "Pachacuti"  # Pachacuti
+            type = general
+            fire = 3
+            shock = 5
+            manuever = 4
+            siege = 2
         }
     }
     clear_scripted_personalities = yes
@@ -105,17 +108,24 @@ fixed_capital = 808
         dip = 0
         mil = 1
         leader = {
-            name = "Huáscar"type"  # Huáscar"type
-             = 2siege
-             = 0
+            name = "Huáscar"  # Huáscar
+            type = general
+            fire = 1
+            shock = 3
+            manuever = 2
+            siege = 0
         }
     }
 }
 1523.1.1 = {
     leader = {
         name = "Atoc"  # Atoc
-         = 0death_date
-         = 1532.1.1
+        type = general
+        fire = 1
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1532.1.1
     }
 }
 1527.1.1 = {
@@ -126,9 +136,12 @@ fixed_capital = 808
         dip = 0
         mil = 1
         leader = {
-            name = "Huáscar"type"  # Huáscar"type
-             = 2siege
-             = 0
+            name = "Huáscar"  # Huáscar
+            type = general
+            fire = 1
+            shock = 3
+            manuever = 2
+            siege = 0
         }
     }
 }

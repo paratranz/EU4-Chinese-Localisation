@@ -11,9 +11,11 @@ capital = 541
         DIP = 2
         MIL = 3
         leader = {
-            name = "Harihara"  # Harihara
-            II"type = generalfire
-             = 2
+            name = "Harihara II"  # Harihara II
+            type = general
+            fire = 1
+            shock = 2
+            manuever = 2
             siege = 0
         }
     }
@@ -169,9 +171,12 @@ capital = 541
 }
 1460.1.1 = {
     leader = {
-        name = "Narisimha"  # Narisimha
-        Saluva"type = generalfire
-         = 2
+        name = "Narisimha Saluva"  # Narisimha Saluva
+        type = general
+        fire = 2
+        shock = 3
+        siege = 0
+        manuever = 2
         death_date = 1486.1.1
     }
 }
@@ -216,9 +221,11 @@ capital = 541
         DIP = 3
         MIL = 4
         leader = {
-            name = "Saluva"  # Saluva
-            Narisimha"type = generalfire
-             = 2
+            name = "Saluva Narisimha"  # Saluva Narisimha
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 2
             siege = 1
         }
     }
@@ -329,9 +336,12 @@ capital = 541
         MIL = 3
     }
     leader = {
-        name = "Rama"  # Rama
-        Raya = generalfire
-         = 2
+        name = "Rama Raya Aravidu"  # Rama Raya Aravidu
+        type = general
+        fire = 2
+        shock = 2
+        siege = 1
+        manuever = 2
         death_date = 1549.1.1
     }
     clear_scripted_personalities = yes
@@ -419,10 +429,12 @@ capital = 541
     }
     clear_scripted_personalities = yes
     add_ruler_personality = naive_personality
+}
+1565.1.26 = {
     heir = {
-        name = "Ranga"
-        monarch_name = "Ranga I"
-        dynasty = "Aravidu"
+        name = "Ranga"  # Ranga
+        monarch_name = "Ranga I"  # Ranga I
+        dynasty = "Aravidu"  # Aravidu
         birth_date = 1550.1.1
         death_date = 1585.1.1
         claim = 95
@@ -572,12 +584,5 @@ capital = 541
         ADM = 2
         DIP = 1
         MIL = 1
-    }
-}
-1565.1.26 = {
-    heir = {
-        name = "Ranga"  # Ranga
-        monarch_name = "Ranga I"  # Ranga I
-        dynasty = "Aravidu"  # Aravidu
     }
 }

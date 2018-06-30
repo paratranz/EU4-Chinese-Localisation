@@ -50,10 +50,12 @@ religious_school = hanafi_school
         DIP = 4
         MIL = 5
         leader = {
-            name = "巴赫鲁勒"  # Bahlûl
-            Ludi"type = generalfire
-             = 4siege
-             = 1
+            name = "巴赫鲁勒"  # Bahlûl Ludi
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 4
+            siege = 1
         }
     }
     clear_scripted_personalities = yes
@@ -74,10 +76,12 @@ religious_school = hanafi_school
         DIP = 1
         MIL = 3
         leader = {
-            name = "希坎达尔"  # Sikandar
-            Shâh"type = generalfire
-             = 4siege
-             = 0
+            name = "希坎达尔"  # Sikandar Shâh
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -90,10 +94,12 @@ religious_school = hanafi_school
         DIP = 1
         MIL = 3
         leader = {
-            name = "希坎达尔"  # Sikandar
-            Shâh"type = generalfire
-             = 4siege
-             = 0
+            name = "希坎达尔"  # Sikandar Shâh
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 4
+            siege = 0
         }
     }
     clear_scripted_personalities = yes
@@ -114,10 +120,12 @@ religious_school = hanafi_school
         DIP = 0
         MIL = 0
         leader = {
-            name = "易卜拉欣"  # Ibrâhîm
-            Shâh"type = generalfire
-             = 1siege
-             = 0
+            name = "易卜拉欣"  # Ibrâhîm Shâh
+            type = general
+            fire = 0
+            shock = 1
+            manuever = 1
+            siege = 0
         }
     }
 }
@@ -130,10 +138,12 @@ religious_school = hanafi_school
         DIP = 0
         MIL = 0
         leader = {
-            name = "易卜拉欣"  # Ibrâhîm
-            Shâh"type = generalfire
-             = 1siege
-             = 0
+            name = "易卜拉欣"  # Ibrâhîm Shâh
+            type = general
+            fire = 0
+            shock = 1
+            manuever = 1
+            siege = 0
         }
     }
     clear_scripted_personalities = yes
@@ -161,9 +171,12 @@ religious_school = hanafi_school
         DIP = 3
         MIL = 5
         leader = {
-            name = "Hemu"type"  # Hemu"type
-             = 2siege
-             = 1
+            name = "Hemu"  # Hemu
+            type = general
+            fire = 3
+            shock = 4
+            manuever = 2
+            siege = 1
         }
     }
     religion = hinduism

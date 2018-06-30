@@ -134,10 +134,13 @@ capital = 74
 }
 1519.1.1 = {
     leader = {
-        name = "Georg"  # Georg
-        Truchsess" = generalfire
-         = 1death_date
-         = 1531.5.29
+        name = "Georg Truchsess"  # Georg Truchsess
+        type = general
+        fire = 1
+        shock = 2
+        manuever = 3
+        siege = 1
+        death_date = 1531.5.29
     }
 }
 1536.1.22 = {
@@ -318,10 +321,12 @@ capital = 74
         dip = 4
         mil = 4
         leader = {
-            name = "路德维希·威廉"  # Ludwig-Wilhelm
-            I"type = generalfire
-             = 2siege
-             = 0
+            name = "路德维希·威廉"  # Ludwig-Wilhelm I
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 2
+            siege = 0
         }
         dynasty = "冯·扎林根"  # von Zähringen
     }

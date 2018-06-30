@@ -146,10 +146,12 @@ capital = 210
         dip = 5
         mil = 5
         leader = {
-            name = "Enrique"  # Enrique
-            III"type = generalfire
-             = 2siege
-             = 0
+            name = "Enrique III"  # Enrique III
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -159,10 +161,13 @@ capital = 210
 }
 1562.1.1 = {
     leader = {
-        name = "Louis"  # Louis
-        I = generalfire
-         = 3death_date
-         = 1569.1.1
+        name = "Louis I de Condé"  # Louis I de Condé
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 3
+        death_date = 1569.1.1
     }
 }
 1572.6.9 = {
@@ -174,10 +179,12 @@ capital = 210
         dip = 5
         mil = 5
         leader = {
-            name = "Enrique"  # Enrique
-            III"type = generalfire
-             = 2siege
-             = 0
+            name = "Enrique III"  # Enrique III
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 2
+            siege = 0
         }
     }
 }

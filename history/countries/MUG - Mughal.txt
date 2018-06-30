@@ -11,33 +11,49 @@ capital = 524
         dip = 5
         mil = 6
         leader = {
-            name = "Bâbur"type"  # Bâbur"type
-             = 3siege
-             = 1
+            name = "Bâbur"  # Bâbur
+            type = general
+            fire = 5
+            shock = 5
+            manuever = 3
+            siege = 1
         }
     }
     leader = {
-        name = "Ustad"  # Ustad
-        Ali = generalfire
-         = 1
+        name = "Ustad Ali Quli"  # Ustad Ali Quli
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 1
+        siege = 1
         death_date = 1531.1.1
     }
     leader = {
-        name = "Chin"  # Chin
-        Timur = generalfire
-         = 1
-        death_date = 1531.1.1
-        name = "Raja
-        Rumi"type = generalfire
-         = 1531.1.1
-        Sanghar = generalfire
+        name = "Chin Timur Khan"  # Chin Timur Khan
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 1
+        siege = 0
         death_date = 1531.1.1
     }
     leader = {
-        name = "Mustafa"  # Mustafa
+        name = "Mustafa Rumi"  # Mustafa Rumi
+        type = general
+        fire = 4
+        shock = 1
+        manuever = 1
+        siege = 0
+        death_date = 1531.1.1
     }
     leader = {
-        name = "Raja"  # Raja
+        name = "Raja Sanghar Ali Khan"  # Raja Sanghar Ali Khan
+        type = general
+        fire = 1
+        shock = 2
+        manuever = 1
+        siege = 1
+        death_date = 1531.1.1
     }
 }
 1508.3.6 = {
@@ -96,9 +112,12 @@ capital = 524
         adm = 6
         mil = 6
         leader = {
-            name = "Akbar"type"  # Akbar"type
-             = 2siege
-             = 2
+            name = "Akbar"  # Akbar
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 2
+            siege = 2
         }
     }
     add_accepted_culture = bihari
@@ -196,10 +215,12 @@ capital = 524
         adm = 4
         mil = 6
         leader = {
-            name = "Aurangzîb"  # Aurangzîb
-            Alamgir = generalfire
-             = 2siege
-             = 0
+            name = "Aurangzîb Alamgir Timurid"  # Aurangzîb Alamgir Timurid
+            type = general
+            fire = 5
+            shock = 5
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -221,11 +242,13 @@ capital = 524
 }
 1686.1.1 = {
     leader = {
-        name = "Yakut"  # Yakut
-        Khan" = admiral
-        fire = 3shock
-         = 0death_date
-         = 1733.1.1
+        name = "Yakut Khan"  # Yakut Khan
+        type = admiral
+        fire = 3
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1733.1.1
     }
 }
 1707.3.15 = {

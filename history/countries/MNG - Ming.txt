@@ -35,10 +35,12 @@ capital = 1821
         dip = 6
         mil = 6
         leader = {
-            name = "朱棣"  # Di
-            Zhu"type = generalfire
-             = 4siege
-             = 0
+            name = "朱棣"  # Di Zhu
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -50,10 +52,12 @@ capital = 1821
         dip = 6
         mil = 6
         leader = {
-            name = "朱棣"  # Di
-            Zhu"type = generalfire
-             = 4siege
-             = 0
+            name = "朱棣"  # Di Zhu
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -72,10 +76,13 @@ capital = 1821
 }
 1405.1.1 = {
     leader = {
-        name = "郑和"  # Zheng
-        He"type = explorerfire
-         = 0death_date
-         = 1433.1.1
+        name = "郑和"  # Zheng He
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 6
+        siege = 0
+        death_date = 1433.1.1
     }
 }
 1421.1.1 = {
@@ -182,8 +189,8 @@ capital = 1821
 }
 1457.2.23 = {
     heir = {
-        name = "见濬"  # Jianjun
-        monarch_name = "见濬"  # Jianjun
+        name = "见深"  # Jianjun
+        monarch_name = "见深"  # Jianjun
         dynasty = "朱"  # Zhu
         birth_date = 1447.12.9
         death_date = 1487.9.9
@@ -195,7 +202,7 @@ capital = 1821
 }
 1464.3.24 = {
     monarch = {
-        name = "见濬"  # Jianjun
+        name = "见深"  # Jianjun
         dynasty = "朱"  # Zhu
         adm = 1
         dip = 0
@@ -204,8 +211,8 @@ capital = 1821
 }
 1470.7.30 = {
     heir = {
-        name = "佑樘"  # Youcheng
-        monarch_name = "佑樘"  # Youcheng
+        name = "祐樘"  # Youcheng
+        monarch_name = "祐樘"  # Youcheng
         dynasty = "朱"  # Zhu
         birth_date = 1470.7.30
         death_date = 1505.6.8
@@ -217,7 +224,7 @@ capital = 1821
 }
 1487.9.10 = {
     monarch = {
-        name = "佑樘"  # Youcheng
+        name = "祐樘"  # Youcheng
         dynasty = "朱"  # Zhu
         adm = 1
         dip = 3
@@ -270,16 +277,19 @@ capital = 1821
 }
 1522.1.1 = {
     leader = {
-        name = "戚继光"  # Qi
-        Jiguang"type = generalfire
-         = 1death_date
-         = 1585.1.1
+        name = "戚继光"  # Qi Jiguang
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 1
+        death_date = 1585.1.1
     }
 }
 1537.3.4 = {
     heir = {
-        name = "载垕"  # Zaihou
-        monarch_name = "载垕"  # Zaihou
+        name = "载坖"  # Zaihou
+        monarch_name = "载坖"  # Zaihou
         dynasty = "朱"  # Zhu
         birth_date = 1537.3.4
         death_date = 1572.7.5
@@ -291,7 +301,7 @@ capital = 1821
 }
 1567.1.24 = {
     monarch = {
-        name = "载垕"  # Zaihou
+        name = "载坖"  # Zaihou
         dynasty = "朱"  # Zhu
         adm = 3
         dip = 1
@@ -335,10 +345,13 @@ capital = 1821
 }
 1593.1.1 = {
     leader = {
-        name = "李如松"  # Li
-        Rusong"type = generalfire
-         = 0death_date
-         = 1598.4.3
+        name = "李如松"  # Li Rusong
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 1
+        siege = 0
+        death_date = 1598.4.3
     }
 }
 1600.1.1 = {
@@ -347,10 +360,13 @@ capital = 1821
 }
 1619.1.1 = {
     leader = {
-        name = "袁崇焕"  # Yuan
-        Chonghuan"type = generalfire
-         = 0death_date
-         = 1630.1.12
+        name = "袁崇焕"  # Yuan Chonghuan
+        type = general
+        fire = 4
+        shock = 5
+        manuever = 6
+        siege = 0
+        death_date = 1630.1.12
     }
 }
 1620.8.27 = {
@@ -477,10 +493,13 @@ capital = 1821
 }
 1650.1.1 = {
     leader = {
-        name = "郑成功"  # Chenggong
-        Zheng"type = admiralfire
-         = 0death_date
-         = 1662.6.23
+        name = "郑成功"  # Chenggong Zheng
+        type = admiral
+        fire = 5
+        shock = 5
+        manuever = 5
+        siege = 0
+        death_date = 1662.6.23
     }
 }
 1662.2.1 = {

@@ -90,10 +90,12 @@ capital = 161
         dip = 1
         mil = 1
         leader = {
-            name = "Vlad"  # Vlad
-            II"type = generalfire
-             = 3siege
-             = 0
+            name = "Vlad II"  # Vlad II
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -156,10 +158,12 @@ capital = 161
         dip = 0
         mil = 5
         leader = {
-            name = "Vlad"  # Vlad
-            III = generalfire
-             = 4siege
-             = 0
+            name = "Vlad III Tepes"  # Vlad III Tepes
+            type = general
+            fire = 3
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -276,10 +280,12 @@ capital = 161
         dip = 6
         mil = 6
         leader = {
-            name = "Mihai"  # Mihai
-            II = generalfire
-             = 4siege
-             = 0
+            name = "Mihai II Viteazul"  # Mihai II Viteazul
+            type = general
+            fire = 3
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }

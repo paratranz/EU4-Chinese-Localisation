@@ -28,10 +28,13 @@ capital = 248
 }
 1400.12.24 = {
     leader = {
-        name = "Archibald"  # Archibald
-        Douglas"type = generalfire
-         = 0death_date
-         = 1424.8.17
+        name = "Archibald Douglas"  # Archibald Douglas
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1424.8.17
     }
 }
 1406.1.1 = {
@@ -114,10 +117,12 @@ capital = 248
         dip = 4
         mil = 1
         leader = {
-            name = "James"  # James
-            IV"type = generalfire
-             = 2siege
-             = 0
+            name = "James IV"  # James IV
+            type = general
+            fire = 1
+            shock = 3
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -129,10 +134,12 @@ capital = 248
         dip = 4
         mil = 1
         leader = {
-            name = "James"  # James
-            IV"type = generalfire
-             = 2siege
-             = 0
+            name = "James IV"  # James IV
+            type = general
+            fire = 1
+            shock = 3
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -184,17 +191,24 @@ capital = 248
 }
 1546.1.1 = {
     leader = {
-        name = "James"  # James
-        Hamilton" = generalfire
-         = 0death_date
-         = 1569.1.1
+        name = "James Hamilton"  # James Hamilton
+        type = general
+        fire = 1
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1569.1.1
     }
 }
 1550.1.1 = {
     leader = {
         name = "Malcolm"  # Malcolm
-         = 0death_date
-         = 1595.1.1
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 2
+        siege = 0
+        death_date = 1595.1.1
     }
 }
 1560.8.1 = {
@@ -223,8 +237,8 @@ capital = 248
     }
 }
 1567.7.15 = {
-    government = despotic_monarchyreligion
-     = reformed
+    government = despotic_monarchy
+    religion = reformed
 }
 1600.11.19 = {
     heir = {
@@ -250,10 +264,13 @@ capital = 248
 }
 1630.1.1 = {
     leader = {
-        name = "James"  # James
-        Hamilton"type = generalfire
-         = 0death_date
-         = 1649.3.9
+        name = "James Hamilton"  # James Hamilton
+        type = general
+        fire = 1
+        shock = 1
+        manuever = 2
+        siege = 0
+        death_date = 1649.3.9
     }
 }
 1630.5.29 = {
@@ -271,18 +288,24 @@ capital = 248
 }
 1635.1.1 = {
     leader = {
-        name = "Alexander"  # Alexander
-        Leslie"type = generalfire
-         = 0death_date
-         = 1651.8.1
+        name = "Alexander Leslie"  # Alexander Leslie
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1651.8.1
     }
 }
 1644.1.1 = {
     leader = {
-        name = "David"  # David
-        Leslie"type = generalfire
-         = 0death_date
-         = 1650.1.1
+        name = "David Leslie"  # David Leslie
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1650.1.1
     }
 }
 1649.1.30 = {
@@ -302,10 +325,12 @@ capital = 248
         dip = 3
         mil = 3
         leader = {
-            name = "Charles"  # Charles
-            II"type = generalfire
-             = 2siege
-             = 0
+            name = "Charles II"  # Charles II
+            type = general
+            fire = 2
+            shock = 5
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -325,8 +350,12 @@ capital = 248
 1678.1.1 = {
     leader = {
         name = "Dundee"  # Dundee
-         = 0death_date
-         = 1689.1.1
+        type = general
+        fire = 1
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1689.1.1
     }
 }
 1685.2.6 = {
@@ -350,8 +379,12 @@ capital = 248
 1694.1.1 = {
     leader = {
         name = "Berwick"  # Berwick
-         = 0death_date
-         = 1723.1.1
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1723.1.1
     }
 }
 1701.9.7 = {

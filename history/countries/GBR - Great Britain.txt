@@ -98,10 +98,13 @@ capital = 236
 1725.1.1 = {
     decision = acknowledge_britanna_rules_the_waves
     leader = {
-        name = "Edward"  # Edward
-        Boscawen"type = admiralfire
-         = 0death_date
-         = 1761.1.10
+        name = "Edward Boscawen"  # Edward Boscawen
+        type = admiral
+        fire = 4
+        shock = 3
+        manuever = 5
+        siege = 0
+        death_date = 1761.1.10
     }
 }
 1727.6.11 = {
@@ -141,25 +144,34 @@ capital = 236
 }
 1740.1.1 = {
     leader = {
-        name = "George"  # George
-        Anson"type = admiralfire
-         = 0death_date
-         = 1762.1.1
+        name = "George Anson"  # George Anson
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1762.1.1
     }
 }
 1744.1.1 = {
     leader = {
-        name = "James"  # James
-        Wolfe"type = generalfire
-         = 0death_date
-         = 1759.9.13
+        name = "James Wolfe"  # James Wolfe
+        type = general
+        fire = 5
+        shock = 5
+        manuever = 4
+        siege = 0
+        death_date = 1759.9.13
     }
 }
 1748.1.1 = {
     leader = {
-        name = "Robert"  # Robert
-        Clive"type = conquistadorfire
-         = 1
+        name = "Robert Clive"  # Robert Clive
+        type = conquistador
+        fire = 6
+        shock = 6
+        manuever = 6
+        siege = 1
         death_date = 1774.11.22
     }
 }
@@ -181,18 +193,24 @@ capital = 236
 }
 1752.1.1 = {
     leader = {
-        name = "Edward"  # Edward
-        Braddock"type = generalfire
-         = 0death_date
-         = 1755.7.13
+        name = "Edward Braddock"  # Edward Braddock
+        type = general
+        fire = 1
+        shock = 1
+        manuever = 2
+        siege = 0
+        death_date = 1755.7.13
     }
 }
 1756.1.1 = {
     leader = {
-        name = "George"  # George
-        Washington"type = generalfire
-         = 0death_date
-         = 1764.12.30
+        name = "George Washington"  # George Washington
+        type = general
+        fire = 2
+        shock = 1
+        manuever = 5
+        siege = 0
+        death_date = 1764.12.30
     }
 }
 1760.10.25 = {
@@ -232,10 +250,13 @@ capital = 236
 }
 1768.1.1 = {
     leader = {
-        name = "James"  # James
-        Cook"type = explorerfire
-         = 0death_date
-         = 1779.2.14
+        name = "James Cook"  # James Cook
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 6
+        siege = 0
+        death_date = 1779.2.14
     }
 }
 1769.1.1 = {
@@ -243,58 +264,79 @@ capital = 236
 }
 1775.1.1 = {
     leader = {
-        name = "James"  # James
-        Carleton"type = conquistadorfire
-         = 0death_date
-         = 1790.1.1
+        name = "James Carleton"  # James Carleton
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1790.1.1
     }
 }
 1777.1.1 = {
     leader = {
-        name = "Banastre"  # Banastre
-        Tarleton"type = generalfire
-         = 0death_date
-         = 1833.1.25
+        name = "Banastre Tarleton"  # Banastre Tarleton
+        type = general
+        fire = 3
+        shock = 5
+        manuever = 4
+        siege = 0
+        death_date = 1833.1.25
     }
 }
 1778.1.1 = {
     leader = {
-        name = "Augustus"  # Augustus
-        Keppel"type = admiralfire
-         = 0death_date
-         = 1786.10.2
+        name = "Augustus Keppel"  # Augustus Keppel
+        type = admiral
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1786.10.2
     }
 }
 1783.1.1 = {
     leader = {
-        name = "Cuthbert"  # Cuthbert
-        Collingwood"type = admiralfire
-         = 0death_date
-         = 1810.3.7
+        name = "Cuthbert Collingwood"  # Cuthbert Collingwood
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1810.3.7
     }
 }
 1790.1.1 = {
     leader = {
-        name = "Horatio"  # Horatio
-        Nelson"type = admiralfire
-         = 0death_date
-         = 1805.10.21
+        name = "Horatio Nelson"  # Horatio Nelson
+        type = admiral
+        fire = 6
+        shock = 6
+        manuever = 6
+        siege = 0
+        death_date = 1805.10.21
     }
 }
 1791.1.1 = {
     leader = {
-        name = "George"  # George
-        Vancouver"type = explorerfire
-         = 0death_date
-         = 1798.5.12
+        name = "George Vancouver"  # George Vancouver
+        type = explorer
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1798.5.12
     }
 }
 1793.1.1 = {
     leader = {
-        name = "James"  # James
-        MacDonald"type = generalfire
-         = 0death_date
-         = 1830.1.1
+        name = "James MacDonald"  # James MacDonald
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1830.1.1
     }
 }
 1793.12.1 = {
@@ -310,18 +352,24 @@ capital = 236
 }
 1794.1.1 = {
     leader = {
-        name = "Duke"  # Duke
-        of = generalfire
-         = 0death_date
-         = 1819.1.1
+        name = "Duke of Wellington"  # Duke of Wellington
+        type = general
+        fire = 5
+        shock = 5
+        manuever = 6
+        siege = 0
+        death_date = 1819.1.1
     }
 }
 1804.1.1 = {
     leader = {
-        name = "Thomas"  # Thomas
-        Cochrane"type = admiralfire
-         = 0death_date
-         = 1810.1.1
+        name = "Thomas Cochrane"  # Thomas Cochrane
+        type = admiral
+        fire = 5
+        shock = 5
+        manuever = 5
+        siege = 0
+        death_date = 1810.1.1
     }
 }
 1807.1.1 = {

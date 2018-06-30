@@ -13,8 +13,11 @@ capital = 41
         mil = 1
         leader = {
             name = "Albrecht"  # Albrecht
-             = 2siege
-             = 0
+            type = general
+            fire = 1
+            shock = 2
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -131,10 +134,12 @@ capital = 41
         dip = 5
         mil = 3
         leader = {
-            name = "Georg"  # Georg
-            Wilhelm" = generalfire
-             = 3siege
-             = 0
+            name = "Georg Wilhelm"  # Georg Wilhelm
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -146,10 +151,12 @@ capital = 41
         dip = 5
         mil = 3
         leader = {
-            name = "Georg"  # Georg
-            Wilhelm" = generalfire
-             = 3siege
-             = 0
+            name = "Georg Wilhelm"  # Georg Wilhelm
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
     queen = {
@@ -176,10 +183,12 @@ capital = 41
         dip = 5
         mil = 5
         leader = {
-            name = "Friedrich"  # Friedrich
-            Wilhelm" = generalfire
-             = 2siege
-             = 0
+            name = "Friedrich Wilhelm"  # Friedrich Wilhelm
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -191,10 +200,12 @@ capital = 41
         dip = 5
         mil = 5
         leader = {
-            name = "Friedrich"  # Friedrich
-            Wilhelm" = generalfire
-             = 2siege
-             = 0
+            name = "Friedrich Wilhelm"  # Friedrich Wilhelm
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 2
+            siege = 0
         }
     }
     add_army_professionalism = 0.2
@@ -214,10 +225,13 @@ capital = 41
 }
 1654.1.1 = {
     leader = {
-        name = "G."  # G.
-        von = generalfire
-         = 1death_date
-         = 1695.2.14
+        name = "G. von Derfflinger"  # G. von Derfflinger
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1695.2.14
     }
 }
 1657.7.11 = {
@@ -232,10 +246,12 @@ capital = 41
         dip = 4
         mil = 4
         leader = {
-            name = "Friedrich"  # Friedrich
-            I" = generalfire
-             = 3siege
-             = 0
+            name = "Friedrich I"  # Friedrich I
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -254,18 +270,24 @@ capital = 41
 }
 1670.1.1 = {
     leader = {
-        name = "F."  # F.
-        Hessen-Homburg" = generalfire
-         = 2death_date
-         = 1708.1.24
+        name = "F. Hessen-Homburg"  # F. Hessen-Homburg
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 2
+        death_date = 1708.1.24
     }
 }
 1686.1.1 = {
     leader = {
-        name = "F.W."  # F.W.
-        von = generalfire
-         = 0death_date
-         = 1733.1.19
+        name = "F.W. von Kyau"  # F.W. von Kyau
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 1
+        siege = 0
+        death_date = 1733.1.19
     }
 }
 1688.5.10 = {
@@ -276,10 +298,12 @@ capital = 41
         dip = 4
         mil = 4
         leader = {
-            name = "Friedrich"  # Friedrich
-            I" = generalfire
-             = 3siege
-             = 0
+            name = "Friedrich I"  # Friedrich I
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
     queen = {
@@ -319,10 +343,13 @@ capital = 41
 }
 1702.1.1 = {
     leader = {
-        name = "Leopold"  # Leopold
-        von = generalfire
-         = 3death_date
-         = 1747.4.7
+        name = "Leopold von Dessau"  # Leopold von Dessau
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 3
+        death_date = 1747.4.7
     }
 }
 1708.11.28 = {
@@ -375,43 +402,57 @@ capital = 41
         dip = 6
         mil = 6
         leader = {
-            name = "Friedrich"  # Friedrich
-            II = generalfire
-             = 6siege
-             = 1
+            name = "Friedrich II der Große"  # Friedrich II der Große
+            type = general
+            fire = 6
+            shock = 6
+            manuever = 6
+            siege = 1
         }
     }
 }
 1720.1.1 = {
     leader = {
-        name = "Kurt"  # Kurt
-        von = generalfire
-         = 0death_date
-         = 1757.5.6
+        name = "Kurt von Schwerin"  # Kurt von Schwerin
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1757.5.6
     }
 }
 1725.1.1 = {
     leader = {
-        name = "A.F."  # A.F.
-        von = generalfire
-         = 0death_date
-         = 1741.4.10
+        name = "A.F. von Schulenburg"  # A.F. von Schulenburg
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1741.4.10
     }
 }
 1735.1.1 = {
     leader = {
-        name = "Hans"  # Hans
-        van = generalfire
-         = 1death_date
-         = 1768.1.1
+        name = "Hans van Lehwald"  # Hans van Lehwald
+        type = general
+        fire = 3
+        shock = 1
+        manuever = 3
+        siege = 1
+        death_date = 1768.1.1
     }
 }
 1735.1.1 = {
     leader = {
-        name = "von"  # von
-        Gessler"type = generalfire
-         = 0death_date
-         = 1745.1.1
+        name = "von Gessler"  # von Gessler
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1745.1.1
     }
 }
 1740.5.30 = {
@@ -422,10 +463,12 @@ capital = 41
         dip = 6
         mil = 6
         leader = {
-            name = "Friedrich"  # Friedrich
-            II = generalfire
-             = 6siege
-             = 1
+            name = "Friedrich II der Große"  # Friedrich II der Große
+            type = general
+            fire = 6
+            shock = 6
+            manuever = 6
+            siege = 1
         }
     }
     queen = {
@@ -447,10 +490,13 @@ capital = 41
 }
 1741.1.1 = {
     leader = {
-        name = "Hans"  # Hans
-        J. = generalfire
-         = 0death_date
-         = 1760.11.3
+        name = "Hans J. von Ziethen"  # Hans J. von Ziethen
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1760.11.3
     }
 }
 1744.9.25 = {
@@ -468,66 +514,90 @@ capital = 41
 }
 1745.1.1 = {
     leader = {
-        name = "Heinrich"  # Heinrich
-        von = generalfire
-         = 0death_date
-         = 1797.11.16
+        name = "Heinrich von Preußen"  # Heinrich von Preußen
+        type = general
+        fire = 3
+        shock = 5
+        manuever = 4
+        siege = 0
+        death_date = 1797.11.16
     }
 }
 1745.1.1 = {
     leader = {
-        name = "F.W."  # F.W.
-        von = generalfire
-         = 0death_date
-         = 1760.5.1
+        name = "F.W. von Seydlitz"  # F.W. von Seydlitz
+        type = general
+        fire = 1
+        shock = 6
+        manuever = 4
+        siege = 0
+        death_date = 1760.5.1
     }
 }
 1750.1.1 = {
     leader = {
-        name = "Ferdinand"  # Ferdinand
-        von = generalfire
-         = 0death_date
-         = 1786.8.17
+        name = "Ferdinand von Preußen"  # Ferdinand von Preußen
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1786.8.17
     }
 }
 1750.1.1 = {
     leader = {
-        name = "F.A."  # F.A.
-        von = generalfire
-         = 0death_date
-         = 1759.11.19
+        name = "F.A. von Finck"  # F.A. von Finck
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1759.11.19
     }
 }
 1755.1.1 = {
     leader = {
-        name = "Wilhelm"  # Wilhelm
-        zu = generalfire
-         = 0death_date
-         = 1790.4.27
+        name = "Wilhelm zu Dohna"  # Wilhelm zu Dohna
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1790.4.27
     }
 }
 1760.1.1 = {
     leader = {
-        name = "Gebhard"  # Gebhard
-        von = generalfire
-         = 0death_date
-         = 1819.9.12
+        name = "Gebhard von Blücher"  # Gebhard von Blücher
+        type = general
+        fire = 5
+        shock = 5
+        manuever = 5
+        siege = 0
+        death_date = 1819.9.12
     }
 }
 1772.1.1 = {
     leader = {
-        name = "F.W."  # F.W.
-        von = generalfire
-         = 0death_date
-         = 1816.2.25
+        name = "F.W. von Bülow"  # F.W. von Bülow
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 5
+        siege = 0
+        death_date = 1816.2.25
     }
 }
 1780.1.1 = {
     leader = {
-        name = "F.L."  # F.L.
-        zu = generalfire
-         = 0death_date
-         = 1806.8.1
+        name = "F.L. zu Hohenlohe"  # F.L. zu Hohenlohe
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1806.8.1
     }
 }
 1786.8.18 = {
@@ -601,10 +671,13 @@ capital = 41
 }
 1807.1.1 = {
     leader = {
-        name = "August"  # August
-        von = generalfire
-         = 0death_date
-         = 1831.8.23
+        name = "August von Gneisenau"  # August von Gneisenau
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1831.8.23
     }
 }
 1807.1.1 = {

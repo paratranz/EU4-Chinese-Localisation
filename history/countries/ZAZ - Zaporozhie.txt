@@ -329,7 +329,11 @@ capital = 283
 1640.1.1 = {
     leader = {
         name = "Chmielnicki"  # Chmielnicki
-         = 0
+        type = general
+        fire = 1
+        shock = 3
+        manuever = 5
+        siege = 0
         death_date = 1657.8.6
     }
 }
@@ -396,7 +400,11 @@ capital = 283
 1695.1.1 = {
     leader = {
         name = "Mazeppa"  # Mazeppa
-         = 0
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 5
+        siege = 0
         death_date = 1710.1.1
     }
 }

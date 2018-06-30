@@ -16,9 +16,12 @@ capital = 272
         dip = 3
         mil = 0
         leader = {
-            name = "Vytautas"type"  # Vytautas"type
-             = 3siege
-             = 0
+            name = "Vytautas"  # Vytautas
+            type = general
+            fire = 2
+            shock = 4
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -72,18 +75,24 @@ capital = 272
 }
 1492.1.1 = {
     leader = {
-        name = "Mykola"  # Mykola
-        Radivil" = generalfire
-         = 0death_date
-         = 1565.5.28
+        name = "Mykola Radivil"  # Mykola Radivil
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1565.5.28
     }
 }
 1492.1.1 = {
     leader = {
-        name = "Mykhaylo"  # Mykhaylo
-        Glynskiy" = generalfire
-         = 0death_date
-         = 1505.1.1
+        name = "Mykhaylo Glynskiy"  # Mykhaylo Glynskiy
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1505.1.1
     }
 }
 1492.6.8 = {
@@ -111,10 +120,13 @@ capital = 272
 }
 1497.9.12 = {
     leader = {
-        name = "Kostiantyn"  # Kostiantyn
-        Ostrozskiy"type = generalfire
-         = 1death_date
-         = 1530.8.10
+        name = "Kostiantyn Ostrozskiy"  # Kostiantyn Ostrozskiy
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 3
+        siege = 1
+        death_date = 1530.8.10
     }
 }
 1506.8.20 = {
@@ -142,18 +154,24 @@ capital = 272
 }
 1521.1.1 = {
     leader = {
-        name = "Juriy"  # Juriy
-        Radivil" = generalfire
-         = 1death_date
-         = 1541.4.1
+        name = "Juriy Radivil"  # Juriy Radivil
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 1
+        death_date = 1541.4.1
     }
 }
 1536.1.1 = {
     leader = {
-        name = "Andriy"  # Andriy
-        Nemyrovych" = generalfire
-         = 0death_date
-         = 1541.1.1
+        name = "Andriy Nemyrovych"  # Andriy Nemyrovych
+        type = general
+        fire = 1
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1541.1.1
     }
 }
 1548.4.2 = {
@@ -168,18 +186,24 @@ capital = 272
 }
 1553.1.1 = {
     leader = {
-        name = "Mykola"  # Mykola
-        Radivil" = generalfire
-         = 0death_date
-         = 1616.2.28
+        name = "Mykola Radivil"  # Mykola Radivil
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1616.2.28
     }
 }
 1559.1.1 = {
     leader = {
-        name = "Roman"  # Roman
-        Sangushka" = generalfire
-         = 1death_date
-         = 1571.5.12
+        name = "Roman Sangushka"  # Roman Sangushka
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1571.5.12
     }
 }
 1572.1.1 = {

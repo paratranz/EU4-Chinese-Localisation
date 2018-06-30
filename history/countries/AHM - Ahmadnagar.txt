@@ -227,9 +227,12 @@ religious_school = hanafi_school
         MIL = 3
     }
     leader = {
-        name = "Malik"  # Malik
-        Ambar"type = generalfire
-         = 1
+        name = "Malik Ambar"  # Malik Ambar
+        type = general
+        fire = 3
+        shock = 5
+        manuever = 3
+        siege = 1
         death_date = 1626.1.1
     }
     government = administrative_monarchy

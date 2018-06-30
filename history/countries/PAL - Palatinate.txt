@@ -149,10 +149,13 @@ capital = 77
 }
 1481.1.1 = {
     leader = {
-        name = "Franz"  # Franz
-        von = generalfire
-         = 3death_date
-         = 1523.5.7
+        name = "Franz von Sickingen"  # Franz von Sickingen
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 2
+        siege = 3
+        death_date = 1523.5.7
     }
 }
 1508.2.27 = {
@@ -386,10 +389,13 @@ capital = 77
 }
 1610.1.1 = {
     leader = {
-        name = "Ernst"  # Ernst
-        von = generalfire
-         = 0death_date
-         = 1626.11.29
+        name = "Ernst von Mansfeld"  # Ernst von Mansfeld
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 2
+        siege = 0
+        death_date = 1626.11.29
     }
 }
 1610.9.20 = {
@@ -608,10 +614,13 @@ capital = 77
 }
 1750.1.1 = {
     leader = {
-        name = "Friedrich"  # Friedrich
-        Riedesel" = generalfire
-         = 0death_date
-         = 1800.1.6
+        name = "Friedrich Riedesel"  # Friedrich Riedesel
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1800.1.6
     }
 }
 1777.12.30 = {

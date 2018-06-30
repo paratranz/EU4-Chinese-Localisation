@@ -216,10 +216,12 @@ fixed_capital = 85
         dip = 3
         mil = 5
         leader = {
-            name = "Joachim"  # Joachim
-            I"type = generalfire
-             = 5siege
-             = 2
+            name = "Joachim I"  # Joachim I
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 5
+            siege = 2
         }
     }
 }

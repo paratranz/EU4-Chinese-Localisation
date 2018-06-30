@@ -149,8 +149,12 @@ capital = 81
 1510.1.1 = {
     leader = {
         name = "Philipp"  # Philipp
-         = 0death_date
-         = 1560.1.1
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1560.1.1
     }
 }
 1527.1.1 = {
@@ -224,8 +228,12 @@ capital = 81
 1621.1.1 = {
     leader = {
         name = "Eberstein"  # Eberstein
-         = 0death_date
-         = 1651.1.1
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1651.1.1
     }
 }
 1627.3.18 = {
@@ -325,17 +333,24 @@ capital = 81
 }
 1690.1.1 = {
     leader = {
-        name = "von"  # von
-        Darmstadt" = generalfire
-         = 2death_date
-         = 1730.1.1
+        name = "von Darmstadt"  # von Darmstadt
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 3
+        siege = 2
+        death_date = 1730.1.1
     }
 }
 1740.1.1 = {
     leader = {
         name = "Hesse"  # Hesse
-         = 0death_date
-         = 1755.1.1
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1755.1.1
     }
 }
 1751.3.26 = {
@@ -363,10 +378,13 @@ capital = 81
 }
 1760.1.1 = {
     leader = {
-        name = "W."  # W.
-        von = generalfire
-         = 0death_date
-         = 1800.1.1
+        name = "W. von Knyphausen"  # W. von Knyphausen
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1800.1.1
     }
 }
 1760.2.1 = {

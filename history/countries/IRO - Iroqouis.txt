@@ -70,9 +70,13 @@ capital = 960
 }
 1765.1.1 = {
     leader = {
-        name = "Pontiac"type"  # Pontiac"type
-         = 1death_date
-         = 1769.4.20
+        name = "Pontiac"  # Pontiac
+        type = conquistador
+        fire = 3
+        shock = 5
+        manuever = 6
+        siege = 1
+        death_date = 1769.4.20
     }
 }
 1780.1.1 = {

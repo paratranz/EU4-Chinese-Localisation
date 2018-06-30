@@ -95,10 +95,12 @@ capital = 613
         dip = 3
         mil = 5
         leader = {
-            name = "黎"  # Lê
-            Loi"type = generalfire
-             = 5siege
-             = 0
+            name = "黎"  # Lê Loi
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 5
+            siege = 0
         }
     }
 }
@@ -192,10 +194,13 @@ capital = 613
 }
 1492.1.1 = {
     leader = {
-        name = "洪"  # Hong
-        Duc" = generalfire
-         = 0death_date
-         = 1497.1.1
+        name = "洪"  # Hong Duc
+        type = general
+        fire = 1
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1497.1.1
     }
 }
 1497.3.4 = {
@@ -474,10 +479,13 @@ capital = 613
 }
 1687.1.1 = {
     leader = {
-        name = "我"  # Ngai
-        Vuong" = generalfire
-         = 0death_date
-         = 1702.1.1
+        name = "我"  # Ngai Vuong
+        type = general
+        fire = 2
+        shock = 1
+        manuever = 3
+        siege = 0
+        death_date = 1702.1.1
     }
 }
 1705.5.23 = {
@@ -504,10 +512,13 @@ capital = 613
 }
 1715.1.1 = {
     leader = {
-        name = "阮"  # Nguyen
-        Cho" = generalfire
-         = 1death_date
-         = 1725.1.1
+        name = "阮"  # Nguyen Cho
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 1
+        siege = 1
+        death_date = 1725.1.1
     }
 }
 1729.4.1 = {
@@ -578,10 +589,13 @@ capital = 613
 }
 1738.1.1 = {
     leader = {
-        name = "阮"  # Nguyen
-        Khoat" = conquistadorfire
-         = 0death_date
-         = 1765.1.1
+        name = "阮"  # Nguyen Khoat
+        type = conquistador
+        fire = 1
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1765.1.1
     }
 }
 1740.6.1 = {
@@ -608,10 +622,13 @@ capital = 613
 }
 1767.1.1 = {
     leader = {
-        name = "盛"  # Trinh
-        Sam" = generalfire
-         = 0death_date
-         = 1782.1.1
+        name = "盛"  # Trinh Sam
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 1
+        siege = 0
+        death_date = 1782.1.1
     }
 }
 1776.1.1 = {
@@ -632,10 +649,13 @@ capital = 613
         mil = 4
     }
     leader = {
-        name = "阮"  # Nguyen
-        Hue"type = generalfire
-         = 1death_date
-         = 1792.1.1
+        name = "阮"  # Nguyen Hue
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 1
+        death_date = 1792.1.1
     }
 }
 1792.1.1 = {

@@ -61,18 +61,23 @@ fixed_capital = 151
         dip = 2
         mil = 2
         leader = {
-            name = "君士坦丁"  # Konstantinos
-            XI"type = generalfire
-             = 4siege
-             = 0
+            name = "君士坦丁"  # Konstantinos XI
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 4
+            siege = 0
         }
     }
 }
 1452.1.1 = {
     leader = {
-        name = "乔万尼"  # Giovanni
-        Giustiniani"type = generalfire
-         = 0death_date
-         = 1453.5.29
+        name = "乔万尼"  # Giovanni Giustiniani
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1453.5.29
     }
 }

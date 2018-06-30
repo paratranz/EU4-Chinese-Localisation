@@ -186,10 +186,12 @@ religious_school = jafari_school
 }
 1660.1.1 = {
     leader = {
-        name = "Yakut"  # Yakut
-        Khan"type = admiralfire
-         = 4siege
-         = 0
+        name = "Yakut Khan"  # Yakut Khan
+        type = admiral
+        fire = 3
+        shock = 2
+        manuever = 4
+        siege = 0
         death_date = 1686.1.1
     }
 }

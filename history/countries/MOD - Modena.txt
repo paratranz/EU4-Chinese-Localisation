@@ -109,10 +109,12 @@ fixed_capital = 106
         dip = 2
         mil = 1
     }
+}
+1662.7.6 = {
     heir = {
-        name = "Rinaldo"
-        monarch_name = "Rinaldo III"
-        dynasty = "d'Este"
+        name = "Rinaldo"  # Rinaldo
+        monarch_name = "Rinaldo III"  # Rinaldo III
+        dynasty = "d'Este"  # d'Este
         birth_date = 1655.4.26
         death_date = 1737.10.26
         claim = 95
@@ -156,10 +158,12 @@ fixed_capital = 106
         dip = 0
         mil = 3
     }
+}
+1737.10.27 = {
     heir = {
-        name = "Ercole"
-        monarch_name = "Ercole III"
-        dynasty = "d'Este"
+        name = "Ercole"  # Ercole
+        monarch_name = "Ercole III"  # Ercole III
+        dynasty = "d'Este"  # d'Este
         birth_date = 1727.11.22
         death_date = 1803.10.14
         claim = 95
@@ -201,19 +205,5 @@ fixed_capital = 106
         adm = 1
         dip = 0
         mil = 1
-    }
-}
-1662.7.6 = {
-    heir = {
-        name = "Rinaldo"  # Rinaldo
-        monarch_name = "Rinaldo III"  # Rinaldo III
-        dynasty = "d'Este"  # d'Este
-    }
-}
-1737.10.27 = {
-    heir = {
-        name = "Ercole"  # Ercole
-        monarch_name = "Ercole III"  # Ercole III
-        dynasty = "d'Este"  # d'Este
     }
 }

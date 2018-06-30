@@ -166,10 +166,12 @@ fixed_capital = 190
         dip = 1
         mil = 1
         leader = {
-            name = "Charles"  # Charles
-            de = generalfire
-             = 3siege
-             = 0
+            name = "Charles de Bourbon"  # Charles de Bourbon
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -182,10 +184,12 @@ fixed_capital = 190
         dip = 1
         mil = 1
         leader = {
-            name = "Charles"  # Charles
-            III" = generalfire
-             = 3siege
-             = 0
+            name = "Charles III"  # Charles III
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -248,10 +252,12 @@ fixed_capital = 190
         dip = 5
         mil = 5
         leader = {
-            name = "Henri"  # Henri
-            I" = generalfire
-             = 2siege
-             = 0
+            name = "Henri I"  # Henri I
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 2
+            siege = 0
         }
     }
 }

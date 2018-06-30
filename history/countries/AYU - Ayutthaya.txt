@@ -50,10 +50,12 @@ capital = 600
         dip = 2
         mil = 3
         leader = {
-            name = "Borommaracha"  # Borommaracha
-            II" = generalfire
-             = 3siege
-             = 1
+            name = "Borommaracha II"  # Borommaracha II
+            type = general
+            fire = 2
+            shock = 4
+            manuever = 3
+            siege = 1
         }
     }
 }
@@ -113,10 +115,12 @@ capital = 600
         dip = 1
         mil = 1
         leader = {
-            name = "Ramathibodi"  # Ramathibodi
-            II" = generalfire
-             = 4siege
-             = 0
+            name = "Ramathibodi II"  # Ramathibodi II
+            type = general
+            fire = 1
+            shock = 3
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -128,10 +132,12 @@ capital = 600
         dip = 1
         mil = 1
         leader = {
-            name = "Ramathibodi"  # Ramathibodi
-            II" = generalfire
-             = 4siege
-             = 0
+            name = "Ramathibodi II"  # Ramathibodi II
+            type = general
+            fire = 1
+            shock = 3
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -291,9 +297,12 @@ capital = 600
         dip = 3
         mil = 5
         leader = {
-            name = "Naresuen"type"  # Naresuen"type
-             = 4siege
-             = 1
+            name = "Naresuen"  # Naresuen
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 4
+            siege = 1
         }
     }
 }
@@ -308,9 +317,12 @@ capital = 600
         dip = 3
         mil = 5
         leader = {
-            name = "Naresuen"type"  # Naresuen"type
-             = 4siege
-             = 1
+            name = "Naresuen"  # Naresuen
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 4
+            siege = 1
         }
     }
 }
@@ -432,9 +444,12 @@ capital = 600
         dip = 1
         mil = 1
         leader = {
-            name = "Narai"type"  # Narai"type
-             = 2siege
-             = 0
+            name = "Narai"  # Narai
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -446,9 +461,12 @@ capital = 600
         dip = 1
         mil = 1
         leader = {
-            name = "Narai"type"  # Narai"type
-             = 2siege
-             = 0
+            name = "Narai"  # Narai
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -578,9 +596,13 @@ capital = 600
 }
 1760.1.1 = {
     leader = {
-        name = "Ponney"type"  # Ponney"type
-         = 0death_date
-         = 1770.1.1
+        name = "Ponney"  # Ponney
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1770.1.1
     }
 }
 1767.4.8 = {
@@ -591,9 +613,12 @@ capital = 600
         dip = 4
         mil = 6
         leader = {
-            name = "达信"  # Taksin"type
-             = 4siege
-             = 0
+            name = "达信"  # Taksin
+            type = general
+            fire = 2
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -605,10 +630,12 @@ capital = 600
         dip = 3
         mil = 5
         leader = {
-            name = "拉玛"  # Rama
-            I"type = generalfire
-             = 4siege
-             = 0
+            name = "拉玛"  # Rama I
+            type = general
+            fire = 2
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }

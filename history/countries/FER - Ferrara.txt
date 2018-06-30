@@ -136,10 +136,12 @@ add_army_professionalism = 0.05
         dip = 1
         mil = 1
     }
+}
+1534.10.30 = {
     heir = {
-        name = "Alfonso"
-        monarch_name = "Alfonso II"
-        dynasty = "d'Este"
+        name = "Alfonso"  # Alfonso
+        monarch_name = "Alfonso II"  # Alfonso II
+        dynasty = "德·埃斯特"  # d'Este
         claim = 95
         birth_date = 1533.11.22
         death_date = 1597.10.27
@@ -156,12 +158,5 @@ add_army_professionalism = 0.05
         adm = 4
         dip = 2
         mil = 1
-    }
-}
-1534.10.30 = {
-    heir = {
-        name = "Alfonso"  # Alfonso
-        monarch_name = "Alfonso II"  # Alfonso II
-        dynasty = "德·埃斯特"  # d'Este
     }
 }

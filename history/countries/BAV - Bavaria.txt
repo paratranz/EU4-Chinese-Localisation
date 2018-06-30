@@ -272,9 +272,13 @@ capital = 65
 }
 1609.1.1 = {
     leader = {
-        name = "Tilly"type"  # Tilly"type
-         = 1death_date
-         = 1632.4.30
+        name = "Tilly"  # Tilly
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 3
+        siege = 1
+        death_date = 1632.4.30
     }
 }
 1609.7.1 = {
@@ -285,17 +289,24 @@ capital = 65
 }
 1630.1.1 = {
     leader = {
-        name = "Mercy"type"  # Mercy"type
-         = 0death_date
-         = 1645.8.3
+        name = "Mercy"  # Mercy
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 1
+        siege = 0
+        death_date = 1645.8.3
     }
 }
 1635.1.1 = {
     leader = {
-        name = "von"  # von
-        Werth"type = generalfire
-         = 0death_date
-         = 1652.9.16
+        name = "von Werth"  # von Werth
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1652.9.16
     }
 }
 1635.7.15 = {
@@ -326,9 +337,13 @@ capital = 65
 }
 1641.1.1 = {
     leader = {
-        name = "Grönsfeld"type"  # Grönsfeld"type
-         = 0death_date
-         = 1660.1.1
+        name = "Grönsfeld"  # Grönsfeld
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1660.1.1
     }
 }
 1647.3.15 = {
@@ -367,10 +382,12 @@ capital = 65
         dip = 3
         mil = 2
         leader = {
-            name = "Max"  # Max
-            II = generalfire
-             = 3siege
-             = 0
+            name = "Max II Emmanuel"  # Max II Emmanuel
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -383,10 +400,12 @@ capital = 65
         dip = 3
         mil = 2
         leader = {
-            name = "Max"  # Max
-            II = generalfire
-             = 3siege
-             = 0
+            name = "Max II Emmanuel"  # Max II Emmanuel
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -471,9 +490,13 @@ capital = 65
 }
 1740.1.1 = {
     leader = {
-        name = "Seckendorf"type"  # Seckendorf"type
-         = 0death_date
-         = 1763.11.23
+        name = "Seckendorf"  # Seckendorf
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1763.11.23
     }
 }
 1745.1.21 = {

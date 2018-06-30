@@ -153,10 +153,12 @@ religious_school = maliki_school
         dip = 2
         mil = 2
         leader = {
-            name = "Ahmad"  # Ahmad
-            III"type = generalfire
-             = 3siege
-             = 0
+            name = "Ahmad III"  # Ahmad III
+            type = general
+            fire = 3
+            shock = 2
+            manuever = 3
+            siege = 0
         }
     }
 }

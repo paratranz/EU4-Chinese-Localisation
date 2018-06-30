@@ -94,6 +94,8 @@ capital = 1170
         dip = 1
         mil = 0
     }
+}
+1506.6.2 = {
     religion = catholic
 }
 1543.1.1 = {
@@ -205,10 +207,12 @@ capital = 1170
         dip = 1
         mil = 4
         leader = {
-            name = "Alvaro"  # Alvaro
-            II" = generalfire
-             = 2siege
-             = 0
+            name = "Alvaro II"  # Alvaro II
+            type = general
+            fire = 3
+            shock = 2
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -220,10 +224,12 @@ capital = 1170
         dip = 1
         mil = 4
         leader = {
-            name = "Alvaro"  # Alvaro
-            II" = generalfire
-             = 2siege
-             = 0
+            name = "Alvaro II"  # Alvaro II
+            type = general
+            fire = 3
+            shock = 2
+            manuever = 2
+            siege = 0
         }
     }
 }

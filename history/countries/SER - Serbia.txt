@@ -143,10 +143,13 @@ historical_friend = BOS
 }
 1781.1.1 = {
     leader = {
-        name = "Peter"  # Peter
-        I" = generalfire
-         = 1death_date
-         = 1830.10.18
+        name = "Peter I"  # Peter I
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1830.10.18
     }
 }
 1804.2.14 = {

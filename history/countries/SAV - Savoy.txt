@@ -253,10 +253,12 @@ add_army_professionalism = 0.05
         dip = 3
         mil = 3
         leader = {
-            name = "Carlo"  # Carlo
-            Emanuele" = generalfire
-             = 3siege
-             = 0
+            name = "Carlo Emanuele"  # Carlo Emanuele
+            type = general
+            fire = 2
+            shock = 4
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -271,10 +273,12 @@ add_army_professionalism = 0.05
         dip = 3
         mil = 3
         leader = {
-            name = "Carlo"  # Carlo
-            Emanuele" = generalfire
-             = 3siege
-             = 0
+            name = "Carlo Emanuele"  # Carlo Emanuele
+            type = general
+            fire = 2
+            shock = 4
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -290,10 +294,12 @@ add_army_professionalism = 0.05
         dip = 4
         mil = 2
         leader = {
-            name = "Vittorio"  # Vittorio
-            Amedeo = generalfire
-             = 3siege
-             = 0
+            name = "Vittorio Amedeo I"  # Vittorio Amedeo I
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -305,10 +311,12 @@ add_army_professionalism = 0.05
         dip = 4
         mil = 2
         leader = {
-            name = "Vittorio"  # Vittorio
-            Amedeo = generalfire
-             = 3siege
-             = 0
+            name = "Vittorio Amedeo I"  # Vittorio Amedeo I
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -349,10 +357,13 @@ add_army_professionalism = 0.05
 }
 1638.1.1 = {
     leader = {
-        name = "Tommaso"  # Tommaso
-        di = generalfire
-         = 0death_date
-         = 1656.1.1
+        name = "Tommaso di Savoia"  # Tommaso di Savoia
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1656.1.1
     }
 }
 1638.10.5 = {
@@ -376,10 +387,12 @@ add_army_professionalism = 0.05
         dip = 6
         mil = 5
         leader = {
-            name = "Vittorio"  # Vittorio
-            Amedeo = generalfire
-             = 2siege
-             = 2
+            name = "Vittorio Amedeo II"  # Vittorio Amedeo II
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 2
+            siege = 2
         }
     }
 }
@@ -391,10 +404,12 @@ add_army_professionalism = 0.05
         dip = 6
         mil = 5
         leader = {
-            name = "Vittorio"  # Vittorio
-            Amedeo = generalfire
-             = 2siege
-             = 2
+            name = "Vittorio Amedeo II"  # Vittorio Amedeo II
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 2
+            siege = 2
         }
     }
 }

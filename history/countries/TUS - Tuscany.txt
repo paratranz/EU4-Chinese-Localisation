@@ -59,15 +59,22 @@ capital = 116
 1490.1.1 = {
     leader = {
         name = "Uffreducci"  # Uffreducci
-         = 1
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 1
         death_date = 1503.1.1
     }
 }
 1490.1.1 = {
     leader = {
-        name = "Vitellozzo"  # Vitellozzo
-        Vitelli" = generalfire
-         = 0
+        name = "Vitellozzo Vitelli"  # Vitellozzo Vitelli
+        type = general
+        fire = 1
+        shock = 2
+        manuever = 4
+        siege = 0
         death_date = 1502.12.31
     }
 }
@@ -92,7 +99,11 @@ capital = 116
 1498.1.1 = {
     leader = {
         name = "Machiavelli"  # Machiavelli
-         = 2
+        type = general
+        fire = 1
+        shock = 1
+        manuever = 3
+        siege = 2
         death_date = 1512.8.1
     }
 }

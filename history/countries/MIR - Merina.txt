@@ -274,17 +274,6 @@ unlock_cult = zanahary_cult
         dip = 1
         mil = 2
     }
-    heir = {
-        name = "Andrianampoinimerina"
-        monarch_name = "Andrianampoinimerina"
-        dynasty = "Merina"
-        birth_date = 1750.1.1
-        death_date = 1810.1.1
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 5
-    }
 }
 1770.1.1 = {
     monarch = {
@@ -293,6 +282,19 @@ unlock_cult = zanahary_cult
         adm = 2
         dip = 1
         mil = 2
+    }
+}
+1750.1.1 = {
+    heir = {
+        name = "Andrianampoinimerina"  # Andrianampoinimerina
+        monarch_name = "Andrianampoinimerina"  # Andrianampoinimerina
+        dynasty = "Merina"  # Merina
+        birth_date = 1750.1.1
+        death_date = 1810.1.1
+        claim = 95
+        adm = 3
+        dip = 4
+        mil = 5
     }
 }
 1787.1.1 = {
@@ -324,12 +326,5 @@ unlock_cult = zanahary_cult
         adm = 4
         dip = 4
         mil = 4
-    }
-}
-1750.1.1 = {
-    heir = {
-        name = "Andrianampoinimerina"  # Andrianampoinimerina
-        monarch_name = "Andrianampoinimerina"  # Andrianampoinimerina
-        dynasty = "Merina"  # Merina
     }
 }

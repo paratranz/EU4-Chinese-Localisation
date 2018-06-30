@@ -18,18 +18,24 @@ add_army_professionalism = 0.1
 }
 1419.1.1 = {
     leader = {
-        name = "Jan"  # Jan
-        Zizka"type = generalfire
-         = 0death_date
-         = 1424.10.11
+        name = "Jan Zizka"  # Jan Zizka
+        type = general
+        fire = 6
+        shock = 3
+        manuever = 5
+        siege = 0
+        death_date = 1424.10.11
     }
 }
 1419.1.1 = {
     leader = {
-        name = "Prokop"  # Prokop
-        Holý"type = generalfire
-         = 1death_date
-         = 1434.5.30
+        name = "Prokop Holý"  # Prokop Holý
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 5
+        siege = 1
+        death_date = 1434.5.30
     }
 }
 1439.10.27 = {
@@ -172,10 +178,13 @@ add_army_professionalism = 0.1
 }
 1610.1.1 = {
     leader = {
-        name = "Christian"  # Christian
-        of = generalfire
-         = 0death_date
-         = 1630.4.17
+        name = "Christian of Anhalt"  # Christian of Anhalt
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1630.4.17
     }
 }
 1612.1.22 = {
@@ -191,8 +200,12 @@ add_army_professionalism = 0.1
 1615.1.1 = {
     leader = {
         name = "Thurn"  # Thurn
-         = 0death_date
-         = 1640.1.28
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1640.1.28
     }
 }
 1618.5.22 = {

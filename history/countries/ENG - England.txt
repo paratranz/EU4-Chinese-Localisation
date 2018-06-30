@@ -21,10 +21,13 @@ national_focus = DIP
 }
 1435.1.1 = {
     leader = {
-        name = "理查"  # Richard
-        Plantagenet"type = generalfire
-         = 0death_date
-         = 1460.12.30
+        name = "理查"  # Richard Plantagenet
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1460.12.30
     }
 }
 1445.4.23 = {
@@ -42,10 +45,13 @@ national_focus = DIP
 }
 1450.1.1 = {
     leader = {
-        name = "约翰"  # John
-        Mowbray"type = generalfire
-         = 0death_date
-         = 1461.3.4
+        name = "约翰"  # John Mowbray
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1461.3.4
     }
 }
 1453.10.13 = {
@@ -63,18 +69,24 @@ national_focus = DIP
 }
 1455.1.1 = {
     leader = {
-        name = "埃德蒙"  # Edmund
-        Beaufort"type = generalfire
-         = 0death_date
-         = 1461.3.4
+        name = "埃德蒙"  # Edmund Beaufort
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1461.3.4
     }
 }
 1455.1.1 = {
     leader = {
-        name = "约翰"  # John
-        Clifford"type = generalfire
-         = 0death_date
-         = 1461.3.4
+        name = "约翰"  # John Clifford
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1461.3.4
     }
 }
 1461.3.4 = {
@@ -86,10 +98,12 @@ national_focus = DIP
         dip = 2
         mil = 4
         leader = {
-            name = "爱德华"  # Edward
-            IV" = generalfire
-             = 4siege
-             = 0
+            name = "爱德华"  # Edward IV
+            type = general
+            fire = 2
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -105,17 +119,27 @@ national_focus = DIP
         dip = 2
         mil = 3
     }
+}
+1461.3.4 = {
     leader = {
-        name = "Richard
-        Neville"type = generalfire
-         = 0death_date
-         = 1471.4.14
+        name = "理查"  # Richard Neville
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1471.4.14
     }
+}
+1461.3.4 = {
     leader = {
-        name = "William
-        Hastings"type = generalfire
-         = 0death_date
-         = 1483.6.13
+        name = "威廉"  # William Hastings
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1483.6.13
     }
 }
 1465.5.1 = {
@@ -163,10 +187,12 @@ national_focus = DIP
         dip = 3
         mil = 4
         leader = {
-            name = "爱德华"  # Edward
-            IV" = generalfire
-             = 4siege
-             = 0
+            name = "爱德华"  # Edward IV
+            type = general
+            fire = 2
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -182,23 +208,32 @@ national_focus = DIP
         dip = 2
         mil = 2
     }
+}
+1471.4.11 = {
     leader = {
-        name = "Richard
-        Plantagenet"type = generalfire
-         = 1death_date
-         = 1483.6.25
+        name = "理查"  # Richard Plantagenet
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 4
+        siege = 1
+        death_date = 1483.6.25
     }
 }
 1475.8.29 = {
+    remove_accepted_culture = gascon
     remove_accepted_culture = normand
     set_global_flag = eng_had_end_of_hundred_years_war
 }
 1478.1.18 = {
     leader = {
-        name = "托马斯"  # Thomas
-        Howard"type = generalfire
-         = 0death_date
-         = 1513.10.1
+        name = "托马斯"  # Thomas Howard
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1513.10.1
     }
 }
 1483.4.9 = {
@@ -232,10 +267,12 @@ national_focus = DIP
         dip = 2
         mil = 4
         leader = {
-            name = "理查"  # Richard
-            III" = generalfire
-             = 4siege
-             = 1
+            name = "理查"  # Richard III
+            type = general
+            fire = 2
+            shock = 4
+            manuever = 4
+            siege = 1
         }
     }
     queen = {
@@ -275,10 +312,13 @@ national_focus = DIP
 }
 1485.8.23 = {
     leader = {
-        name = "贾斯珀"  # Jasper
-        Tudor"type = generalfire
-         = 0death_date
-         = 1495.12.21
+        name = "贾斯珀"  # Jasper Tudor
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1495.12.21
     }
 }
 1486.1.18 = {
@@ -309,10 +349,13 @@ national_focus = DIP
 }
 1497.1.1 = {
     leader = {
-        name = "约翰"  # John
-        Cabot" = explorerfire
-         = 0death_date
-         = 1499.7.2
+        name = "约翰"  # John Cabot
+        type = explorer
+        fire = 2
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1499.7.2
     }
 }
 1502.4.2 = {
@@ -330,10 +373,13 @@ national_focus = DIP
 }
 1508.1.1 = {
     leader = {
-        name = "塞巴斯蒂安"  # Sebastian
-        Cabot" = explorerfire
-         = 0death_date
-         = 1557.2.8
+        name = "塞巴斯蒂安"  # Sebastian Cabot
+        type = explorer
+        fire = 5
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1557.2.8
     }
 }
 1509.4.22 = {
@@ -361,18 +407,24 @@ national_focus = DIP
 }
 1512.1.1 = {
     leader = {
-        name = "查尔斯"  # Charles
-        Brandon" = generalfire
-         = 0death_date
-         = 1545.8.24
+        name = "查尔斯"  # Charles Brandon
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1545.8.24
     }
 }
 1513.1.1 = {
     leader = {
-        name = "爱德华"  # Edward
-        Howard" = admiralfire
-         = 0death_date
-         = 1513.4.25
+        name = "爱德华"  # Edward Howard
+        type = admiral
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1513.4.25
     }
 }
 1516.2.18 = {
@@ -500,26 +552,35 @@ national_focus = DIP
 }
 1552.1.1 = {
     leader = {
-        name = "休"  # Hugh
-        Willoughby" = explorerfire
-         = 0death_date
-         = 1554.10.19
+        name = "休"  # Hugh Willoughby
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 3
+        siege = 0
+        death_date = 1554.10.19
     }
 }
 1552.1.1 = {
     leader = {
-        name = "理查"  # Richard
-        Chancellor" = explorerfire
-         = 0death_date
-         = 1556.7.28
+        name = "理查"  # Richard Chancellor
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 3
+        siege = 0
+        death_date = 1556.7.28
     }
 }
 1553.1.1 = {
     leader = {
-        name = "马丁"  # Martin
-        Frobisher" = explorerfire
-         = 0death_date
-         = 1594.11.22
+        name = "马丁"  # Martin Frobisher
+        type = explorer
+        fire = 5
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1594.11.22
     }
 }
 1553.7.6 = {
@@ -581,22 +642,30 @@ national_focus = DIP
         mil = 5
         female = yes
     }
+}
+1553.7.19 = {
     religion = catholic
 }
 1556.1.1 = {
     leader = {
-        name = "威廉"  # William
-        Fitzwilliam" = admiralfire
-         = 0death_date
-         = 1599.2.6
+        name = "威廉"  # William Fitzwilliam
+        type = admiral
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1599.2.6
     }
 }
 1558.1.1 = {
     leader = {
-        name = "爱德华"  # Edward
-        Clinton" = admiralfire
-         = 0death_date
-         = 1585.1.16
+        name = "爱德华"  # Edward Clinton
+        type = admiral
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1585.1.16
     }
 }
 1558.11.17 = {
@@ -629,10 +698,13 @@ national_focus = DIP
 }
 1577.1.1 = {
     leader = {
-        name = "弗朗西斯"  # Francis
-        Drake" = explorerfire
-         = 0death_date
-         = 1596.1.28
+        name = "弗朗西斯"  # Francis Drake
+        type = explorer
+        fire = 5
+        shock = 5
+        manuever = 6
+        siege = 0
+        death_date = 1596.1.28
     }
 }
 1580.1.1 = {
@@ -640,50 +712,68 @@ national_focus = DIP
 }
 1580.1.1 = {
     leader = {
-        name = "沃尔特"  # Walter
-        Raleigh"type = conquistadorfire
-         = 0death_date
-         = 1618.10.29
+        name = "沃尔特"  # Walter Raleigh
+        type = conquistador
+        fire = 4
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1618.10.29
     }
 }
 1584.1.1 = {
     leader = {
-        name = "罗伯特"  # Robert
-        Devereux"type = conquistadorfire
-         = 0death_date
-         = 1601.2.25
+        name = "罗伯特"  # Robert Devereux
+        type = conquistador
+        fire = 4
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1601.2.25
     }
 }
 1584.1.1 = {
     leader = {
-        name = "威廉"  # William
-        Cavendish"type = explorerfire
-         = 0death_date
-         = 1626.3.3
+        name = "威廉"  # William Cavendish
+        type = explorer
+        fire = 4
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1626.3.3
     }
 }
 1585.1.1 = {
     leader = {
-        name = "查尔斯"  # Charles
-        Howard" = admiralfire
-         = 0death_date
-         = 1624.12.14
+        name = "查尔斯"  # Charles Howard
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1624.12.14
     }
 }
 1585.1.1 = {
     leader = {
-        name = "约翰"  # John
-        Davis"type = explorerfire
-         = 0death_date
-         = 1594.11.22
+        name = "约翰"  # John Davis
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 3
+        siege = 0
+        death_date = 1594.11.22
     }
 }
 1597.1.1 = {
     leader = {
-        name = "亨利"  # Henry
-        Hudson" = explorerfire
-         = 0death_date
-         = 1611.6.17
+        name = "亨利"  # Henry Hudson
+        type = explorer
+        fire = 3
+        shock = 2
+        manuever = 5
+        siege = 0
+        death_date = 1611.6.17
     }
 }
 1598.1.1 = {
@@ -691,10 +781,13 @@ national_focus = DIP
 }
 1600.1.1 = {
     leader = {
-        name = "约翰"  # John
-        Smith"type = conquistadorfire
-         = 0death_date
-         = 1617.7.11
+        name = "约翰"  # John Smith
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 6
+        siege = 0
+        death_date = 1617.7.11
     }
 }
 1603.3.24 = {
@@ -734,26 +827,35 @@ national_focus = DIP
 }
 1610.1.1 = {
     leader = {
-        name = "达德"  # Dudd
-        Dudley" = generalfire
-         = 0death_date
-         = 1684.3.3
+        name = "达德"  # Dudd Dudley
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1684.3.3
     }
 }
 1612.1.1 = {
     leader = {
-        name = "威廉"  # William
-        Baffin" = explorerfire
-         = 0death_date
-         = 1622.1.23
+        name = "威廉"  # William Baffin
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 5
+        siege = 0
+        death_date = 1622.1.23
     }
 }
 1612.1.1 = {
     leader = {
-        name = "托马斯"  # Thomas
-        Button" = explorerfire
-         = 0death_date
-         = 1634.4.8
+        name = "托马斯"  # Thomas Button
+        type = explorer
+        fire = 3
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1634.4.8
     }
 }
 1612.11.6 = {
@@ -771,10 +873,13 @@ national_focus = DIP
 }
 1623.1.1 = {
     leader = {
-        name = "乔治"  # George
-        Villiers" = generalfire
-         = 0death_date
-         = 1624.8.23
+        name = "乔治"  # George Villiers
+        type = general
+        fire = 3
+        shock = 1
+        manuever = 2
+        siege = 0
+        death_date = 1624.8.23
     }
 }
 1625.3.27 = {
@@ -815,10 +920,13 @@ national_focus = DIP
 }
 1642.1.1 = {
     leader = {
-        name = "普林斯"  # Prince
-        Rupert" = generalfire
-         = 0death_date
-         = 1646.5.5
+        name = "普林斯"  # Prince Rupert
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1646.5.5
     }
 }
 1646.5.5 = {
@@ -830,10 +938,12 @@ national_focus = DIP
         dip = 5
         mil = 6
         leader = {
-            name = "奥利弗"  # Oliver
-            Cromwell"type = generalfire
-             = 4siege
-             = 1
+            name = "奥利弗"  # Oliver Cromwell
+            type = general
+            fire = 5
+            shock = 5
+            manuever = 4
+            siege = 1
         }
     }
     religion = reformed
@@ -841,32 +951,46 @@ national_focus = DIP
 }
 1649.1.29 = {
     leader = {
-        name = "罗伯特"  # Robert
-        Blake"type = admiralfire
-         = 0death_date
-         = 1657.8.17
+        name = "罗伯特"  # Robert Blake
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1657.8.17
     }
 }
 1649.1.29 = {
     leader = {
-        name = "乔治"  # George
-        Monck"type = generalfire
-         = 0death_date
-         = 1670.1.3
+        name = "乔治"  # George Monck
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1670.1.3
     }
+}
+1649.1.29 = {
     leader = {
-        name = "Thomas
-        Fairfax"type = generalfire
-         = 1death_date
-         = 1671.11.12
+        name = "托马斯"  # Thomas Fairfax
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 3
+        siege = 1
+        death_date = 1671.11.12
     }
 }
 1650.1.1 = {
     leader = {
-        name = "乔治"  # George
-        Ayscue"type = admiralfire
-         = 0death_date
-         = 1671.7.19
+        name = "乔治"  # George Ayscue
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1671.7.19
     }
 }
 1651.12.30 = {
@@ -917,17 +1041,13 @@ national_focus = DIP
         dip = 2
         mil = 3
         leader = {
-            name = "詹姆士"  # James
-            Stuart" = generalfire
-             = 3siege
-             = 0
+            name = "詹姆士"  # James Stuart
+            type = general
+            fire = 3
+            shock = 2
+            manuever = 3
+            siege = 0
         }
-    }
-    leader = {
-        name = "Prince
-        Rupert"type = admiralfire
-         = 0death_date
-         = 1682.11.19
     }
 }
 1662.4.23 = {
@@ -943,12 +1063,26 @@ national_focus = DIP
         mil = 1
     }
 }
+1660.5.29 = {
+    leader = {
+        name = "普林斯"  # Prince Rupert
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1682.11.19
+    }
+}
 1668.1.1 = {
     leader = {
-        name = "皮埃尔-艾斯普瑞"  # Pierre-Esprit
-        Radisson"type = conquistadorfire
-         = 0death_date
-         = 1710.4.1
+        name = "皮埃尔-艾斯普瑞"  # Pierre-Esprit Radisson
+        type = conquistador
+        fire = 1
+        shock = 1
+        manuever = 5
+        siege = 0
+        death_date = 1710.4.1
     }
 }
 1672.1.1 = {
@@ -956,10 +1090,13 @@ national_focus = DIP
 }
 1672.1.1 = {
     leader = {
-        name = "约翰"  # John
-        Alden"type = generalfire
-         = 0death_date
-         = 1687.9.22
+        name = "约翰"  # John Alden
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1687.9.22
     }
 }
 1673.1.1 = {
@@ -967,18 +1104,24 @@ national_focus = DIP
 }
 1678.1.1 = {
     leader = {
-        name = "亚瑟"  # Arthur
-        Herbert"type = admiralfire
-         = 0death_date
-         = 1688.3.11
+        name = "亚瑟"  # Arthur Herbert
+        type = admiral
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1688.3.11
     }
 }
 1685.1.1 = {
     leader = {
-        name = "约翰"  # John
-        Churchill"type = generalfire
-         = 2death_date
-         = 1722.6.27
+        name = "约翰"  # John Churchill
+        type = general
+        fire = 6
+        shock = 6
+        manuever = 5
+        siege = 2
+        death_date = 1722.6.27
     }
 }
 1685.2.6 = {
@@ -990,10 +1133,12 @@ national_focus = DIP
         dip = 2
         mil = 3
         leader = {
-            name = "詹姆士"  # James
-            II" = generalfire
-             = 3siege
-             = 0
+            name = "詹姆士"  # James II
+            type = general
+            fire = 3
+            shock = 2
+            manuever = 3
+            siege = 0
         }
     }
     queen = {
@@ -1021,14 +1166,19 @@ national_focus = DIP
         mil = 3
         female = yes
     }
+}
+1685.2.6 = {
     religion = catholic
 }
 1686.1.1 = {
     leader = {
-        name = "詹姆士"  # James
-        FitzJames"type = generalfire
-         = 0death_date
-         = 1688.12.11
+        name = "詹姆士"  # James FitzJames
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1688.12.11
     }
 }
 1688.6.10 = {
@@ -1065,10 +1215,12 @@ national_focus = DIP
         dip = 5
         mil = 5
         leader = {
-            name = "威廉"  # William
-            III"type = generalfire
-             = 4siege
-             = 1
+            name = "威廉"  # William III
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 4
+            siege = 1
         }
     }
     queen = {
@@ -1100,26 +1252,35 @@ national_focus = DIP
 }
 1690.1.1 = {
     leader = {
-        name = "约翰"  # John
-        Benbow"type = admiralfire
-         = 0death_date
-         = 1702.11.4
+        name = "约翰"  # John Benbow
+        type = admiral
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1702.11.4
     }
 }
 1694.1.1 = {
     leader = {
-        name = "托马斯"  # Thomas
-        Mathews"type = generalfire
-         = 0death_date
-         = 1751.7.19
+        name = "托马斯"  # Thomas Mathews
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1751.7.19
     }
 }
 1700.1.1 = {
     leader = {
-        name = "乔治"  # George
-        Rooke"type = admiralfire
-         = 0death_date
-         = 1709.1.24
+        name = "乔治"  # George Rooke
+        type = admiral
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1709.1.24
     }
 }
 1702.3.8 = {
@@ -1168,30 +1329,5 @@ national_focus = DIP
         adm = 3
         dip = 3
         mil = 5
-    }
-}
-1461.3.4 = {
-    leader = {
-        name = "理查"  # Richard
-    }
-}
-1461.3.4 = {
-    leader = {
-        name = "威廉"  # William
-    }
-}
-1471.4.11 = {
-    leader = {
-        name = "理查"  # Richard
-    }
-}
-1649.1.29 = {
-    leader = {
-        name = "托马斯"  # Thomas
-    }
-}
-1660.5.29 = {
-    leader = {
-        name = "普林斯"  # Prince
     }
 }

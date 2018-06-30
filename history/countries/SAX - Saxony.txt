@@ -153,8 +153,12 @@ capital = 62
 1505.1.1 = {
     leader = {
         name = "Mauritz"  # Mauritz
-         = 0death_date
-         = 1532.1.1
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1532.1.1
     }
 }
 1531.1.1 = {
@@ -182,10 +186,12 @@ capital = 62
         dip = 1
         mil = 4
         leader = {
-            name = "Moritz"  # Moritz
-            von = generalfire
-             = 4siege
-             = 1
+            name = "Moritz von Wettin"  # Moritz von Wettin
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 4
+            siege = 1
         }
     }
 }
@@ -198,10 +204,12 @@ capital = 62
         adm = 1
         mil = 4
         leader = {
-            name = "Moritz"  # Moritz
-            von = generalfire
-             = 4siege
-             = 1
+            name = "Moritz von Wettin"  # Moritz von Wettin
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 4
+            siege = 1
         }
     }
 }
@@ -223,10 +231,13 @@ capital = 62
 }
 1550.1.1 = {
     leader = {
-        name = "F."  # F.
-        von = generalfire
-         = 0death_date
-         = 1570.12.15
+        name = "F. von Leignitz"  # F. von Leignitz
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1570.12.15
     }
 }
 1553.7.11 = {
@@ -323,10 +334,13 @@ capital = 62
 }
 1624.1.1 = {
     leader = {
-        name = "Hans"  # Hans
-        Georg = generalfire
-         = 0death_date
-         = 1641.4.28
+        name = "Hans Georg von Arnim"  # Hans Georg von Arnim
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1641.4.28
     }
 }
 1631.8.30 = {
@@ -343,10 +357,13 @@ capital = 62
 }
 1650.1.1 = {
     leader = {
-        name = "Augustus"  # Augustus
-        von = generalfire
-         = 0death_date
-         = 1680.6.4
+        name = "Augustus von Wettin"  # Augustus von Wettin
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1680.6.4
     }
 }
 1656.10.9 = {
@@ -375,23 +392,34 @@ capital = 62
 1670.1.1 = {
     leader = {
         name = "Schönfeld"  # Schönfeld
-         = 1death_date
-         = 1690.1.1
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 2
+        siege = 1
+        death_date = 1690.1.1
     }
 }
 1675.1.1 = {
     leader = {
         name = "Toppauer"  # Toppauer
-         = 1death_date
-         = 1699.1.1
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 1
+        death_date = 1699.1.1
     }
 }
 1680.1.1 = {
     leader = {
-        name = "von"  # von
-        Saxe-Merseburg"type = generalfire
-         = 1death_date
-         = 1694.10.20
+        name = "von Saxe-Merseburg"  # von Saxe-Merseburg
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 1
+        death_date = 1694.10.20
     }
 }
 1680.8.23 = {
@@ -505,18 +533,24 @@ capital = 62
 }
 1737.1.1 = {
     leader = {
-        name = "F.A."  # F.A.
-        von = generalfire
-         = 0death_date
-         = 1770.1.1
+        name = "F.A. von Cosel"  # F.A. von Cosel
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1770.1.1
     }
 }
 1745.1.1 = {
     leader = {
-        name = "F.A."  # F.A.
-        Rutowski"type = generalfire
-         = 0death_date
-         = 1764.3.16
+        name = "F.A. Rutowski"  # F.A. Rutowski
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1764.3.16
     }
 }
 1763.10.6 = {

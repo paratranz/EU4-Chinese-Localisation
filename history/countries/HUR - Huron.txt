@@ -36,8 +36,11 @@ capital = 988
         mil = 5
         leader = {
             name = "Adario"  # Adario
-             = 3siege
-             = 1
+            type = general
+            fire = 3
+            shock = 1
+            manuever = 3
+            siege = 1
         }
     }
 }

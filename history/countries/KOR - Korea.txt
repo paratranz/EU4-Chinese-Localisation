@@ -292,10 +292,13 @@ capital = 735
 }
 1576.1.1 = {
     leader = {
-        name = "李舜臣"  # Yi
-        Sun-Sin"type = admiralfire
-         = 0death_date
-         = 1598.11.1
+        name = "李舜臣"  # Yi Sun-Sin
+        type = admiral
+        fire = 6
+        shock = 6
+        manuever = 6
+        siege = 0
+        death_date = 1598.11.1
     }
 }
 1608.3.7 = {

@@ -109,10 +109,13 @@ fixed_capital = 101
 }
 1480.1.1 = {
     leader = {
-        name = "Paolo"  # Paolo
-        Fregoso" = generalfire
-         = 0death_date
-         = 1487.1.1
+        name = "Paolo Fregoso"  # Paolo Fregoso
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1487.1.1
     }
 }
 1483.11.26 = {
@@ -169,10 +172,13 @@ fixed_capital = 101
 }
 1513.1.1 = {
     leader = {
-        name = "Frederigo"  # Frederigo
-        Fregoso" = admiralfire
-         = 0death_date
-         = 1522.1.1
+        name = "Frederigo Fregoso"  # Frederigo Fregoso
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1522.1.1
     }
 }
 1513.6.21 = {
@@ -186,10 +192,13 @@ fixed_capital = 101
 }
 1520.1.1 = {
     leader = {
-        name = "Andrea"  # Andrea
-        Doria" = admiralfire
-         = 0death_date
-         = 1565.1.1
+        name = "Andrea Doria"  # Andrea Doria
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1565.1.1
     }
 }
 1528.10.13 = {
@@ -356,10 +365,13 @@ fixed_capital = 101
 }
 1565.1.1 = {
     leader = {
-        name = "G."  # G.
-        Doria" = admiralfire
-         = 0death_date
-         = 1590.1.1
+        name = "G. Doria"  # G. Doria
+        type = admiral
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1590.1.1
     }
 }
 1565.10.8 = {

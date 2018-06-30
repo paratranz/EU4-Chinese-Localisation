@@ -71,8 +71,11 @@ religious_school = shafii_school
         mil = 6
         leader = {
             name = "Bulkiah"  # Bulkiah
-             = 4siege
-             = 0
+            type = general
+            fire = 4
+            shock = 3
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -85,8 +88,11 @@ religious_school = shafii_school
         mil = 6
         leader = {
             name = "Bulkiah"  # Bulkiah
-             = 4siege
-             = 0
+            type = general
+            fire = 4
+            shock = 3
+            manuever = 4
+            siege = 0
         }
     }
 }

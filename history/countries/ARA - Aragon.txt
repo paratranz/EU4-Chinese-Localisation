@@ -55,10 +55,12 @@ add_army_professionalism = 0.05
         dip = 4
         mil = 6
         leader = {
-            name = "阿方索"  # Alfons
-            V"type = generalfire
-             = 4siege
-             = 1
+            name = "阿方索"  # Alfons V
+            type = general
+            fire = 4
+            shock = 3
+            manuever = 4
+            siege = 1
         }
     }
     clear_scripted_personalities = yes
@@ -89,10 +91,13 @@ add_army_professionalism = 0.05
 }
 1443.1.1 = {
     leader = {
-        name = "贝尔纳特"  # Bernat
-        de = admiralfire
-         = 0death_date
-         = 1463.9.1
+        name = "贝尔纳特"  # Bernat de Vilamarí
+        type = admiral
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1463.9.1
     }
 }
 1458.6.29 = {
@@ -138,10 +143,12 @@ add_army_professionalism = 0.05
         dip = 6
         mil = 5
         leader = {
-            name = "费尔南多"  # Ferran
-            II"type = generalfire
-             = 3siege
-             = 1
+            name = "费尔南多"  # Ferran II
+            type = general
+            fire = 3
+            shock = 2
+            manuever = 3
+            siege = 1
         }
     }
     queen = {
@@ -162,34 +169,46 @@ add_army_professionalism = 0.05
 }
 1495.7.1 = {
     leader = {
-        name = "普洛斯彼罗"  # Prospero
-        Colonna" = generalfire
-         = 0death_date
-         = 1516.1.23
+        name = "普洛斯彼罗"  # Prospero Colonna
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1516.1.23
     }
 }
 1499.1.1 = {
     leader = {
-        name = "佩德罗"  # Pedro
-        Navarro"type = generalfire
-         = 3death_date
-         = 1512.4.11
+        name = "佩德罗"  # Pedro Navarro
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 3
+        death_date = 1512.4.11
     }
 }
 1508.1.1 = {
     leader = {
-        name = "雷蒙"  # Ramón
-        de = generalfire
-         = 1death_date
-         = 1516.1.23
+        name = "雷蒙"  # Ramón de Cardona
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 1
+        death_date = 1516.1.23
     }
 }
 1512.1.1 = {
     leader = {
-        name = "费尔南多"  # Fernando
-        d'Avalos" = generalfire
-         = 1death_date
-         = 1525.11.4
+        name = "费尔南多"  # Fernando d'Avalos
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1525.11.4
     }
 }
 1516.1.23 = {

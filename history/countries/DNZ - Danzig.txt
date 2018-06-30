@@ -19,10 +19,12 @@ fixed_capital = 43
         dip = 1
         mil = 3
         leader = {
-            name = "弗朗茨"  # Franz
-            Joseph = generalfire
-             = 3siege
-             = 2
+            name = "弗朗茨"  # Franz Joseph I
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 2
         }
     }
 }

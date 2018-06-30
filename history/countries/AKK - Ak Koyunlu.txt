@@ -95,10 +95,12 @@ religious_school = hanafi_school
         dip = 5
         mil = 6
         leader = {
-            name = "乌尊·哈桑"  # Uzun
-            Hasan" = generalfire
-             = 5siege
-             = 0
+            name = "乌尊·哈桑"  # Uzun Hasan
+            type = general
+            fire = 4
+            shock = 5
+            manuever = 5
+            siege = 0
         }
     }
     add_ruler_personality = bold_fighter_personality

@@ -90,10 +90,13 @@ capital = 131
 }
 1500.1.1 = {
     leader = {
-        name = "Krsto"  # Krsto
-        Frankopan" = generalfire
-         = 0death_date
-         = 1671.4.30
+        name = "Krsto Frankopan"  # Krsto Frankopan
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1671.4.30
     }
 }
 1508.1.1 = {
@@ -116,10 +119,13 @@ capital = 131
 }
 1513.1.1 = {
     leader = {
-        name = "Petar"  # Petar
-        Berislavic" = generalfire
-         = 0death_date
-         = 1520.5.20
+        name = "Petar Berislavic"  # Petar Berislavic
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1520.5.20
     }
 }
 1521.1.1 = {
@@ -133,33 +139,45 @@ capital = 131
 }
 1538.1.1 = {
     leader = {
-        name = "Nikola"  # Nikola
-        Zrinski" = generalfire
-         = 0death_date
-         = 1566.9.8
+        name = "Nikola Zrinski"  # Nikola Zrinski
+        type = general
+        fire = 4
+        shock = 5
+        manuever = 5
+        siege = 0
+        death_date = 1566.9.8
     }
 }
 1582.1.1 = {
     leader = {
-        name = "Toma"  # Toma
-        Bakac = generalfire
-         = 0death_date
-         = 1605.1.1
+        name = "Toma Bakac Erdody"  # Toma Bakac Erdody
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1605.1.1
     }
 }
 1626.1.1 = {
     leader = {
-        name = "Vuk"  # Vuk
-        Krsto = generalfire
-         = 0death_date
-         = 1652.1.1
+        name = "Vuk Krsto Frankopan"  # Vuk Krsto Frankopan
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1652.1.1
     }
 }
 1792.1.1 = {
     leader = {
-        name = "Matija"  # Matija
-        Rukavina" = generalfire
-         = 0death_date
-         = 1802.1.1
+        name = "Matija Rukavina"  # Matija Rukavina
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1802.1.1
     }
 }

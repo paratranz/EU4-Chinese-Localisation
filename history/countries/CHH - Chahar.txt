@@ -68,10 +68,12 @@ capital = 702
         dip = 4
         mil = 5
         leader = {
-            name = "俺答汗"  # Altan
-            Khan"type = generalfire
-             = 5siege
-             = 1
+            name = "俺答汗"  # Altan Khan
+            type = general
+            fire = 3
+            shock = 5
+            manuever = 5
+            siege = 1
         }
     }
 }

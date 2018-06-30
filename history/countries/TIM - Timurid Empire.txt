@@ -17,19 +17,25 @@ religious_school = hanafi_school
         dip = 4
         mil = 5
         leader = {
-            name = "帖木儿"  # Timur"type
-             = 6siege
-             = 2
+            name = "帖木儿"  # Timur
+            type = general
+            fire = 6
+            shock = 6
+            manuever = 6
+            siege = 2
         }
     }
     add_piety = 0.5
 }
 1383.1.1 = {
     leader = {
-        name = "米兰"  # Miran
-        Shah"type = generalfire
-         = 0death_date
-         = 1408.1.1
+        name = "米兰"  # Miran Shah
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1408.1.1
     }
 }
 1384.1.1 = {
@@ -234,9 +240,12 @@ religious_school = hanafi_school
         dip = 5
         mil = 6
         leader = {
-            name = "巴布尔"  # Bâbur"type
-             = 3siege
-             = 1
+            name = "巴布尔"  # Bâbur
+            type = general
+            fire = 5
+            shock = 5
+            manuever = 3
+            siege = 1
         }
     }
 }

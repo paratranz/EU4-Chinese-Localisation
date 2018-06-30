@@ -58,10 +58,12 @@ fixed_capital = 175
         dip = 0
         mil = 1
         leader = {
-            name = "让"  # Jean
-            V" = generalfire
-             = 2siege
-             = 0
+            name = "让"  # Jean V
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 2
+            siege = 0
         }
     }
 }

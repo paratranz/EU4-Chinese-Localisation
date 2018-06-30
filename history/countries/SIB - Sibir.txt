@@ -24,10 +24,12 @@ religious_school = hanafi_school
         dip = 2
         mil = 2
     }
+}
+1495.1.1 = {
     heir = {
-        name = "Qasim"
-        monarch_name = "Qasim"
-        dynasty = "Taibughin"
+        name = "Qasim"  # Qasim
+        monarch_name = "Qasim"  # Qasim
+        dynasty = "Taibughin"  # Taibughin
         birth_date = 1490.1.1
         death_date = 1550.1.1
         claim = 95
@@ -96,12 +98,5 @@ religious_school = hanafi_school
         adm = 1
         dip = 1
         mil = 1
-    }
-}
-1495.1.1 = {
-    heir = {
-        name = "Qasim"  # Qasim
-        monarch_name = "Qasim"  # Qasim
-        dynasty = "Taibughin"  # Taibughin
     }
 }

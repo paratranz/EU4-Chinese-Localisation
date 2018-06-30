@@ -54,10 +54,13 @@ historical_rival = HAB
 }
 1418.1.1 = {
     leader = {
-        name = "艾蒂安"  # Étienne
-        de = generalfire
-         = 0death_date
-         = 1443.1.11
+        name = "艾蒂安"  # Étienne de Vignolles
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1443.1.11
     }
 }
 1422.10.22 = {
@@ -101,26 +104,36 @@ historical_rival = HAB
 }
 1427.1.1 = {
     leader = {
-        name = "让"  # Jean
-        de = generalfire
-         = 1death_date
-         = 1468.11.24
+        name = "让"  # Jean de Dunois
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1468.11.24
     }
 }
 1429.1.1 = {
     leader = {
-        name = "吉尔"  # Gilles
-        de = generalfire
-         = 0death_date
-         = 1435.1.1
+        name = "吉尔"  # Gilles de Rais
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1435.1.1
     }
 }
 1429.4.29 = {
     leader = {
-        name = "贞德"  # Jeanne
-        d'Arc"type = generalfire
-         = yesdeath_date
-         = 1430.5.23
+        name = "贞德"  # Jeanne d'Arc
+        type = general
+        fire = 3
+        shock = 6
+        manuever = 4
+        siege = 0
+        female = yes
+        death_date = 1430.5.23
     }
 }
 1439.1.1 = {
@@ -219,10 +232,13 @@ historical_rival = HAB
 }
 1488.7.27 = {
     leader = {
-        name = "路易"  # Louis
-        de = generalfire
-         = 0death_date
-         = 1525.2.24
+        name = "路易"  # Louis de la Trémoille
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1525.2.24
     }
 }
 1488.9.10 = {
@@ -230,27 +246,35 @@ historical_rival = HAB
 }
 1495.1.1 = {
     leader = {
-        name = "雅克"  # Jacques
-        de = generalfire
-         = 0death_date
-         = 1525.2.24
+        name = "雅克"  # Jacques de La Palice
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1525.2.24
     }
 }
 1495.1.1 = {
     leader = {
-        name = "路易"  # Louis
-        d'Armagnac"type = generalfire
-         = 0
-        manuever = 2siege
+        name = "路易"  # Louis d'Armagnac
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 0
         death_date = 1503.4.28
     }
 }
 1497.1.1 = {
     leader = {
-        name = "普雷根特"  # Prégent
-        de = admiralfire
-         = 0death_date
-         = 1528.8.1
+        name = "普雷根特"  # Prégent de Bidoux
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1528.8.1
     }
 }
 1498.4.7 = {
@@ -305,18 +329,24 @@ historical_rival = HAB
 }
 1509.1.1 = {
     leader = {
-        name = "皮埃尔"  # Pierre
-        Terrail = generalfire
-         = 1death_date
-         = 1524.4.30
+        name = "皮埃尔"  # Pierre Terrail de Bayard
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 1
+        death_date = 1524.4.30
     }
 }
 1511.1.1 = {
     leader = {
-        name = "加斯东"  # Gaston
-        de = generalfire
-         = 0death_date
-         = 1512.4.11
+        name = "加斯东"  # Gaston de Foix
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1512.4.11
     }
 }
 1515.1.1 = {
@@ -324,14 +354,19 @@ historical_rival = HAB
 }
 1515.1.1 = {
     leader = {
-        name = "佩德罗"  # Pedro
-        Navarro"type = generalfire
-         = 3death_date
-         = 1528.8.28
+        name = "佩德罗"  # Pedro Navarro
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 3
+        death_date = 1528.8.28
     }
+}
+1515.1.1 = {
     monarch = {
-        name = "François I"
-        dynasty = "de Valois"
+        name = "弗朗索瓦 I"  # François I
+        dynasty = "德 瓦卢瓦"  # de Valois
         birth_date = 1494.9.12
         adm = 4
         dip = 5
@@ -339,8 +374,8 @@ historical_rival = HAB
     }
     queen = {
         country_of_origin = FRA
-        name = "Claude"
-        dynasty = "de Valois"
+        name = "克洛德"  # Claude
+        dynasty = "德 瓦卢瓦"  # de Valois
         birth_date = 1499.10.13
         death_date = 1524.7.20
         female = yes
@@ -355,10 +390,13 @@ historical_rival = HAB
 }
 1515.9.1 = {
     leader = {
-        name = "奥代"  # Odet
-        de = generalfire
-         = 0death_date
-         = 1528.8.15
+        name = "奥代"  # Odet de Foix
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1528.8.15
     }
 }
 1519.3.31 = {
@@ -376,26 +414,35 @@ historical_rival = HAB
 }
 1521.1.1 = {
     leader = {
-        name = "克洛德"  # Claude
-        de = generalfire
-         = 1death_date
-         = 1550.4.12
+        name = "克洛德"  # Claude de Guise
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 2
+        siege = 1
+        death_date = 1550.4.12
     }
 }
 1522.1.1 = {
     leader = {
-        name = "让"  # Jean
-        de = explorerfire
-         = 0death_date
-         = 1528.1.1
+        name = "让"  # Jean de Verazzane
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 5
+        siege = 0
+        death_date = 1528.1.1
     }
 }
 1525.1.1 = {
     leader = {
-        name = "菲利普"  # Philippe
-        Chabot"type = admiralfire
-         = 0death_date
-         = 1543.6.7
+        name = "菲利普"  # Philippe Chabot
+        type = admiral
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1543.6.7
     }
 }
 1530.7.4 = {
@@ -414,38 +461,51 @@ historical_rival = HAB
 }
 1534.1.1 = {
     leader = {
-        name = "雅克"  # Jacques
-        Cartier"type = explorerfire
-         = 0death_date
-         = 1542.10.1
+        name = "雅克"  # Jacques Cartier
+        type = explorer
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1542.10.1
     }
 }
 1534.8.15 = {
+    decision = join_the_counter_reformation
     decision = conventicle_act
     decision = act_of_uniformity
 }
 1536.1.1 = {
     leader = {
-        name = "安内"  # Anne
-        de = generalfire
-         = 0death_date
-         = 1567.1.1
+        name = "安内"  # Anne de Montmorency
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1567.1.1
     }
 }
 1544.1.1 = {
     leader = {
-        name = "克劳德"  # Claude
-        d'Annebault"type = admiralfire
-         = 0death_date
-         = 1552.11.2
+        name = "克劳德"  # Claude d'Annebault
+        type = admiral
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1552.11.2
     }
 }
 1547.1.1 = {
     leader = {
-        name = "加斯帕尔"  # Gaspard
-        de = generalfire
-         = 0death_date
-         = 1562.1.1
+        name = "加斯帕尔"  # Gaspard de Coligny
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1562.1.1
     }
 }
 1547.3.31 = {
@@ -486,26 +546,35 @@ historical_rival = HAB
 }
 1552.1.1 = {
     leader = {
-        name = "路易"  # Louis
-        de = generalfire
-         = 0death_date
-         = 1562.1.1
+        name = "路易"  # Louis de Condé
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1562.1.1
     }
 }
 1552.1.1 = {
     leader = {
-        name = "弗朗索瓦"  # François
-        de = generalfire
-         = 0death_date
-         = 1563.2.18
+        name = "弗朗索瓦"  # François de Guise
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1563.2.18
     }
 }
 1553.1.1 = {
     leader = {
-        name = "尼古拉"  # Nicolas
-        de = explorerfire
-         = 0death_date
-         = 1557.1.1
+        name = "尼古拉"  # Nicolas de Villegagnon
+        type = explorer
+        fire = 3
+        shock = 1
+        manuever = 4
+        siege = 0
+        death_date = 1557.1.1
     }
 }
 1559.7.10 = {
@@ -567,10 +636,13 @@ historical_rival = HAB
 }
 1562.1.1 = {
     leader = {
-        name = "让"  # Jean
-        Ribaut"type = conquistadorfire
-         = 0death_date
-         = 1565.10.12
+        name = "让"  # Jean Ribaut
+        type = conquistador
+        fire = 3
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1565.10.12
     }
 }
 1562.1.1 = {
@@ -611,10 +683,12 @@ historical_rival = HAB
         dip = 5
         mil = 5
         leader = {
-            name = "亨利"  # Henri
-            IV"type = generalfire
-             = 2siege
-             = 0
+            name = "亨利"  # Henri IV
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 2
+            siege = 0
         }
     }
     clear_scripted_personalities = yes
@@ -636,10 +710,13 @@ historical_rival = HAB
 }
 1575.10.4 = {
     leader = {
-        name = "亨利"  # Henri
-        de = generalfire
-         = 1death_date
-         = 1588.12.23
+        name = "亨利"  # Henri de Guise
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 2
+        siege = 1
+        death_date = 1588.12.23
     }
 }
 1589.8.2 = {
@@ -651,10 +728,12 @@ historical_rival = HAB
         dip = 5
         mil = 5
         leader = {
-            name = "亨利"  # Henri
-            IV"type = generalfire
-             = 2siege
-             = 0
+            name = "亨利"  # Henri IV
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 2
+            siege = 0
         }
     }
     queen = {
@@ -675,18 +754,22 @@ historical_rival = HAB
 }
 1589.8.3 = {
     leader = {
-        name = "弗朗索瓦"  # François
-        de = generalfire
-         = 0death_date
-         = 1626.9.21
+        name = "弗朗索瓦"  # François de Bonne
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1626.9.21
     }
 }
 1589.8.8 = {
     government = despotic_monarchy
 }
 1598.4.13 = {
+    clr_country_flag = religious_turmoil
     clr_country_flag = religious_intolerance
-     = enact_edict_de_nantes
+    decision = enact_edict_de_nantes
 }
 1600.1.1 = {
     decision = enlist_privateers
@@ -720,10 +803,13 @@ historical_rival = HAB
 }
 1603.3.15 = {
     leader = {
-        name = "萨缪尔"  # Samuel
-        de = conquistadorfire
-         = 0death_date
-         = 1620.1.1
+        name = "萨缪尔"  # Samuel de Champlain
+        type = conquistador
+        fire = 4
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1620.1.1
     }
 }
 1610.5.14 = {
@@ -742,10 +828,13 @@ historical_rival = HAB
 }
 1615.1.1 = {
     leader = {
-        name = "奥古斯丁"  # Augustin
-        de = explorerfire
-         = 0death_date
-         = 1625.1.1
+        name = "奥古斯丁"  # Augustin de Beaulieu
+        type = explorer
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1625.1.1
     }
 }
 1615.11.24 = {
@@ -764,43 +853,68 @@ historical_rival = HAB
 }
 1630.1.1 = {
     leader = {
-        name = "亨利"  # Henri
-        de = generalfire
-         = 1death_date
-         = 1675.7.27
+        name = "亨利"  # Henri de Turenne
+        type = general
+        fire = 5
+        shock = 5
+        manuever = 5
+        siege = 1
+        death_date = 1675.7.27
     }
 }
 1634.1.1 = {
     leader = {
-        name = "让"  # Jean
-        Nicollet"type = conquistadorfire
-         = 0death_date
-         = 1642.11.1
+        name = "让"  # Jean Nicollet
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1642.11.1
     }
 }
 1635.1.1 = {
     leader = {
-        name = "让"  # Jean
-        Armand = admiralfire
-         = 0death_date
-         = 1646.6.14
+        name = "让"  # Jean Armand de Maillé
+        type = admiral
+        fire = 3
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1646.6.14
     }
 }
 1635.1.1 = {
     leader = {
-        name = "亨利"  # Henri
-        de = admiralfire
-         = 0death_date
-         = 1641.1.1
+        name = "亨利"  # Henri de Sourdis
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1641.1.1
     }
+}
+1635.1.1 = {
     leader = {
-        name = "Henri
-        d'Harcourt"type = generalfire
-         = 0death_date
-         = 1666.7.25
-        name = "Bernard
-        de = generalfire
-         = 1639.7.18
+        name = "亨利"  # Henri d'Harcourt
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1666.7.25
+    }
+}
+1635.1.1 = {
+    leader = {
+        name = "伯纳德"  # Bernard de Saxe-Weimar
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1639.7.18
     }
 }
 1635.5.1 = {
@@ -808,10 +922,13 @@ historical_rival = HAB
 }
 1638.1.1 = {
     leader = {
-        name = "谢瓦利埃"  # Chevalier
-        Paul" = admiralfire
-         = 0death_date
-         = 1666.1.1
+        name = "谢瓦利埃"  # Chevalier Paul
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1666.1.1
     }
 }
 1638.9.5 = {
@@ -829,10 +946,13 @@ historical_rival = HAB
 }
 1640.1.1 = {
     leader = {
-        name = "路易"  # Louis
-        II = generalfire
-         = 0death_date
-         = 1675.1.1
+        name = "路易"  # Louis II de Condé
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1675.1.1
     }
 }
 1643.5.14 = {
@@ -859,34 +979,46 @@ historical_rival = HAB
 }
 1650.1.1 = {
     leader = {
-        name = "亚伯拉罕"  # Abraham
-        Duquesne"type = admiralfire
-         = 0death_date
-         = 1684.12.31
+        name = "亚伯拉罕"  # Abraham Duquesne
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1684.12.31
     }
 }
 1653.1.1 = {
     leader = {
-        name = "让"  # Jean
-        de = admiralfire
-         = 0death_date
-         = 1693.1.1
+        name = "让"  # Jean de Gabaret
+        type = admiral
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1693.1.1
     }
 }
 1654.1.1 = {
     leader = {
-        name = "梅达尔"  # Médard
-        des = conquistadorfire
-         = 0death_date
-         = 1669.1.1
+        name = "梅达尔"  # Médard des Groseilliers
+        type = conquistador
+        fire = 3
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1669.1.1
     }
 }
 1660.1.1 = {
     leader = {
-        name = "弗朗索瓦"  # François
-        de = admiralfire
-         = 0death_date
-         = 1669.6.25
+        name = "弗朗索瓦"  # François de Vendôme
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1669.6.25
     }
 }
 1660.6.9 = {
@@ -908,98 +1040,134 @@ historical_rival = HAB
 }
 1665.1.1 = {
     leader = {
-        name = "让-巴普蒂斯特"  # Jean-Baptiste
-        de = admiralfire
-         = 0death_date
-         = 1690.1.1
+        name = "让-巴普蒂斯特"  # Jean-Baptiste de Valbelle
+        type = admiral
+        fire = 2
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1690.1.1
     }
 }
 1667.5.24 = {
     leader = {
-        name = "弗朗索瓦"  # F.
-        de = generalfire
-         = 1death_date
-         = 1695.1.4
+        name = "弗朗索瓦"  # F. de Luxembourg
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 1
+        death_date = 1695.1.4
     }
 }
 1669.1.1 = {
     leader = {
-        name = "勒内-罗贝尔"  # René-Robert
-        de = conquistadorfire
-         = 0death_date
-         = 1687.3.19
+        name = "勒内-罗贝尔"  # René-Robert de La Salle
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1687.3.19
     }
 }
 1670.1.1 = {
     leader = {
-        name = "费迪南"  # Ferdinand
-        de = admiralfire
-         = 0death_date
-         = 1704.8.24
+        name = "费迪南"  # Ferdinand de Relingue
+        type = admiral
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1704.8.24
     }
 }
 1672.1.1 = {
     leader = {
-        name = "弗朗索瓦-路易"  # François-Louis
-        de = admiralfire
-         = 0death_date
-         = 1716.1.1
+        name = "弗朗索瓦-路易"  # François-Louis de Châteaurenault
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1716.1.1
     }
 }
 1672.1.1 = {
     leader = {
-        name = "托马斯-克劳德"  # Thomas-Claude
-        d'Amblimont"type = admiralfire
-         = 0death_date
-         = 1694.1.1
+        name = "托马斯-克劳德"  # Thomas-Claude d'Amblimont
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 2
+        siege = 0
+        death_date = 1694.1.1
     }
 }
 1672.9.12 = {
     leader = {
-        name = "路易"  # Louis
-        de = conquistadorfire
-         = 0death_date
-         = 1689.11.28
+        name = "路易"  # Louis de Frontenac
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1689.11.28
     }
 }
 1673.1.1 = {
     leader = {
-        name = "让-弗朗索瓦"  # Jean-François
-        Hertel"type = conquistadorfire
-         = 0death_date
-         = 1722.3.22
+        name = "让-弗朗索瓦"  # Jean-François Hertel
+        type = conquistador
+        fire = 1
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1722.3.22
     }
 }
 1673.5.1 = {
     leader = {
-        name = "路易"  # Louis
-        Jolliet"type = conquistadorfire
-         = 0death_date
-         = 1700.5.1
+        name = "路易"  # Louis Jolliet
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1700.5.1
     }
 }
 1675.1.1 = {
     leader = {
-        name = "弗朗索瓦"  # François
-        de = generalfire
-         = 0death_date
-         = 1691.1.1
+        name = "弗朗索瓦"  # François de La Feuillade
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1691.1.1
     }
 }
 1675.1.1 = {
     leader = {
-        name = "路易-维克托"  # Louis-Victor
-        de = admiralfire
-         = 0death_date
-         = 1688.3.1
+        name = "路易-维克托"  # Louis-Victor de Vivonne
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 2
+        siege = 0
+        death_date = 1688.3.1
     }
 }
 1675.1.26 = {
     leader = {
-        name = "阿兰"  # Alain
-        de = admiralfire
-         = 0death_date
-         = 1730.6.7
+        name = "阿兰"  # Alain de Coëtlogon
+        type = admiral
+        fire = 3
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1730.6.7
     }
 }
 1682.5.1 = {
@@ -1024,48 +1192,68 @@ historical_rival = HAB
 }
 1688.1.1 = {
     leader = {
-        name = "尼古拉"  # Nicolas
-        de = generalfire
-         = 0death_date
-         = 1701.6.10
+        name = "尼古拉"  # Nicolas de Catinat
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1701.6.10
     }
 }
 1690.1.1 = {
     leader = {
-        name = "安内"  # Anne
-        de = admiralfire
-         = 0death_date
-         = 1697.9.20
+        name = "安内"  # Anne de Tourville
+        type = admiral
+        fire = 3
+        shock = 5
+        manuever = 4
+        siege = 0
+        death_date = 1697.9.20
     }
 }
 1701.1.1 = {
     leader = {
-        name = "路易-亚历山大"  # Louis-Alexandre
-        de = admiralfire
-         = 0death_date
-         = 1718.9.24
+        name = "路易-亚历山大"  # Louis-Alexandre de Bourbon
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1718.9.24
     }
 }
 1701.1.1 = {
     leader = {
-        name = "克洛德"  # Claude
-        de = generalfire
-         = 1death_date
-         = 1734.6.17
+        name = "克洛德"  # Claude de Villars
+        type = general
+        fire = 5
+        shock = 5
+        manuever = 4
+        siege = 1
+        death_date = 1734.6.17
     }
+}
+1701.1.1 = {
     leader = {
-        name = "Jean
-        de = conquistadorfire
-         = 0death_date
-         = 1713.1.1
+        name = "让"  # Jean de Rouville
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1713.1.1
     }
 }
 1703.1.1 = {
     leader = {
-        name = "费迪南"  # Ferdinand
-        de = generalfire
-         = 0death_date
-         = 1706.9.7
+        name = "费迪南"  # Ferdinand de Marsin
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1706.9.7
     }
 }
 1710.2.15 = {
@@ -1083,18 +1271,24 @@ historical_rival = HAB
 }
 1711.9.21 = {
     leader = {
-        name = "勒内"  # René
-        Duguay-Trouin"type = admiralfire
-         = 0death_date
-         = 1736.9.27
+        name = "勒内"  # René Duguay-Trouin
+        type = admiral
+        fire = 3
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1736.9.27
     }
 }
 1714.1.1 = {
     leader = {
-        name = "艾蒂安"  # Étienne
-        de = conquistadorfire
-         = 0death_date
-         = 1724.1.1
+        name = "艾蒂安"  # Étienne de Bourgmont
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1724.1.1
     }
 }
 1715.9.1 = {
@@ -1127,56 +1321,79 @@ historical_rival = HAB
 }
 1727.7.21 = {
     leader = {
-        name = "皮埃尔-伯努瓦"  # Pierre-Benoît
-        Dumas"type = conquistadorfire
-         = 0death_date
-         = 1735.7.11
+        name = "皮埃尔-伯努瓦"  # Pierre-Benoît Dumas
+        type = conquistador
+        fire = 1
+        shock = 1
+        manuever = 5
+        siege = 0
+        death_date = 1735.7.11
     }
 }
 1731.1.1 = {
     leader = {
-        name = "皮埃尔"  # Pierre
-        Gaultier = conquistadorfire
-         = 0death_date
-         = 1749.12.5
+        name = "皮埃尔"  # Pierre Gaultier de la Vérendrye
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1749.12.5
     }
 }
 1734.8.1 = {
     leader = {
-        name = "莫里斯"  # Maurice
-        de = generalfire
-         = 1death_date
-         = 1750.12.30
+        name = "莫里斯"  # Maurice de Saxe
+        type = general
+        fire = 4
+        shock = 5
+        manuever = 4
+        siege = 1
+        death_date = 1750.12.30
     }
 }
 1741.1.1 = {
     leader = {
-        name = "路易丝"  # L.
-        F. = generalfire
-         = 0death_date
-         = 1747.1.1
+        name = "路易丝"  # L. F. de Bourbon
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1747.1.1
     }
 }
 1748.1.1 = {
     leader = {
-        name = "埃曼纽尔"  # Emmanuel
-        d'Aiguillon"type = generalfire
-         = 0death_date
-         = 1753.1.1
+        name = "埃曼纽尔"  # Emmanuel d'Aiguillon
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 5
+        siege = 0
+        death_date = 1753.1.1
     }
 }
 1748.1.1 = {
     leader = {
-        name = "托马斯"  # Thomas
-        de = generalfire
-         = 0death_date
-         = 1761.1.16
+        name = "托马斯"  # Thomas de Lally-Tollendal
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1761.1.16
     }
+}
+1748.1.1 = {
     leader = {
-        name = "Victor-François
-        de = generalfire
-         = 0death_date
-         = 1761.1.1
+        name = "维克多-弗朗索瓦"  # Victor-François de Broglie
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1761.1.1
     }
 }
 1750.1.1 = {
@@ -1184,10 +1401,13 @@ historical_rival = HAB
 }
 1750.1.1 = {
     leader = {
-        name = "让-阿尔芒"  # Jean-Armand
-        Dieskau"type = generalfire
-         = 0death_date
-         = 1755.1.1
+        name = "让-阿尔芒"  # Jean-Armand Dieskau
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1755.1.1
     }
 }
 1754.8.23 = {
@@ -1205,42 +1425,57 @@ historical_rival = HAB
 }
 1756.1.1 = {
     leader = {
-        name = "路易-约瑟夫"  # Louis-Joseph
-        de = generalfire
-         = 0death_date
-         = 1759.9.14
+        name = "路易-约瑟夫"  # Louis-Joseph de Montcalm
+        type = general
+        fire = 4
+        shock = 6
+        manuever = 3
+        siege = 0
+        death_date = 1759.9.14
     }
 }
 1766.11.15 = {
     leader = {
-        name = "路易"  # Louis
-        de = explorerfire
-         = 0death_date
-         = 1769.3.16
+        name = "路易"  # Louis de Bougainville
+        type = explorer
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1769.3.16
     }
 }
 1769.1.1 = {
     leader = {
-        name = "马可-约瑟夫"  # Marc-Joseph
-        Marion-Dufresne"type = explorerfire
-         = 0death_date
-         = 1772.7.12
+        name = "马可-约瑟夫"  # Marc-Joseph Marion-Dufresne
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 4
+        siege = 0
+        death_date = 1772.7.12
     }
 }
 1772.1.1 = {
     leader = {
-        name = "伊夫"  # Yves
-        de = explorerfire
-         = 0death_date
-         = 1775.1.1
+        name = "伊夫"  # Yves de Kerguelen
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 4
+        siege = 0
+        death_date = 1775.1.1
     }
 }
 1774.1.1 = {
     leader = {
-        name = "保罗"  # Paul
-        Fleuriot = explorerfire
-         = 0death_date
-         = 1788.1.1
+        name = "保罗"  # Paul Fleuriot de Langle
+        type = explorer
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1788.1.1
     }
 }
 1774.5.10 = {
@@ -1270,58 +1505,79 @@ historical_rival = HAB
 }
 1776.1.1 = {
     leader = {
-        name = "卢克"  # Luc
-        de = admiralfire
-         = 0death_date
-         = 1790.1.13
+        name = "卢克"  # Luc de Guichen
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1790.1.13
     }
 }
 1776.1.1 = {
     leader = {
-        name = "弗朗索瓦"  # Francois
-        de = admiralfire
-         = 0death_date
-         = 1782.4.1
+        name = "弗朗索瓦"  # Francois de Grasse
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1782.4.1
     }
 }
 1780.1.1 = {
     leader = {
-        name = "让-巴普蒂斯"  # Jean-Baptiste
-        de = generalfire
-         = 0death_date
-         = 1792.1.1
+        name = "让-巴普蒂斯"  # Jean-Baptiste de Rochambeau
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1792.1.1
     }
 }
 1780.1.1 = {
     leader = {
-        name = "查理"  # Charles
-        de = admiralfire
-         = 0death_date
-         = 1780.1.1
+        name = "查理"  # Charles de Ternay
+        type = admiral
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1780.1.1
     }
 }
 1781.1.1 = {
     leader = {
-        name = "皮埃尔"  # Pierre
-        de = admiralfire
-         = 0death_date
-         = 1788.12.8
+        name = "皮埃尔"  # Pierre de Suffren
+        type = admiral
+        fire = 4
+        shock = 6
+        manuever = 4
+        siege = 0
+        death_date = 1788.12.8
     }
 }
 1782.1.1 = {
     leader = {
-        name = "查理"  # Charles
-        de = generalfire
-         = 0death_date
-         = 1785.1.1
+        name = "查理"  # Charles de Bussy-Castelnau
+        type = general
+        fire = 4
+        shock = 5
+        manuever = 5
+        siege = 0
+        death_date = 1785.1.1
     }
 }
 1785.1.1 = {
     leader = {
-        name = "安托万"  # Antoine
-        d'Entrecasteaux"type = explorerfire
-         = 0death_date
-         = 1793.7.21
+        name = "安托万"  # Antoine d'Entrecasteaux
+        type = explorer
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1793.7.21
     }
 }
 1785.1.1 = {
@@ -1342,10 +1598,13 @@ historical_rival = HAB
 }
 1785.8.1 = {
     leader = {
-        name = "让-弗朗索瓦"  # Jean-François
-        de = explorerfire
-         = 0death_date
-         = 1788.1.26
+        name = "让-弗朗索瓦"  # Jean-François de La Pérouse
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 5
+        siege = 0
+        death_date = 1788.1.26
     }
 }
 1786.5.5 = {
@@ -1368,19 +1627,29 @@ historical_rival = HAB
 }
 1792.9.21 = {
     leader = {
-        name = "路易-加布里埃尔"  # Louis-Gabriel
-        Suchet"type = generalfire
-         = 2death_date
-         = 1826.1.23
+        name = "路易-加布里埃尔"  # Louis-Gabriel Suchet
+        type = general
+        fire = 5
+        shock = 5
+        manuever = 4
+        siege = 2
+        death_date = 1826.1.23
     }
+}
+1792.9.21 = {
     leader = {
-        name = "Louis
-        Nicolas = generalfire
-         = 2death_date
-         = 1817.1.1
+        name = "路易"  # Louis Nicolas Davout
+        type = general
+        fire = 5
+        shock = 5
+        manuever = 5
+        siege = 2
+        death_date = 1817.1.1
     }
+}
+1792.9.21 = {
     monarch = {
-        name = "La Convention nationale"
+        name = "国民公会"  # La Convention nationale
         adm = 3
         dip = 0
         mil = 4
@@ -1389,40 +1658,57 @@ historical_rival = HAB
 }
 1793.1.1 = {
     leader = {
-        name = "克劳德-维克托"  # Claude-Victor
-        Perrin"type = generalfire
-         = 1death_date
-         = 1814.4.6
+        name = "克劳德-维克托"  # Claude-Victor Perrin
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1814.4.6
     }
 }
 1793.6.1 = {
     leader = {
-        name = "拿破仑"  # Napoléon
-        Bonaparte"type = generalfire
-         = 2death_date
-         = 1799.11.10
+        name = "拿破仑"  # Napoléon Bonaparte
+        type = general
+        fire = 6
+        shock = 6
+        manuever = 6
+        siege = 2
+        death_date = 1799.11.10
     }
 }
 1794.1.1 = {
     leader = {
-        name = "尼古拉斯-让-德迪乌"  # Jean-de-Dieu
-        Soult"type = generalfire
-         = 1death_date
-         = 1851.11.26
+        name = "尼古拉斯-让-德迪乌"  # Jean-de-Dieu Soult
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1851.11.26
     }
 }
 1794.1.1 = {
     leader = {
-        name = "让-巴蒂斯特"  # Jean-Baptiste
-        Bernadotte"type = generalfire
-         = 0death_date
-         = 1810.11.2
+        name = "让-巴蒂斯特"  # Jean-Baptiste Bernadotte
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1810.11.2
     }
+}
+1794.1.1 = {
     leader = {
-        name = "Laurent
-        de = generalfire
-         = 0death_date
-         = 1814.4.6
+        name = "洛朗"  # Laurent de Gouvion-Saint-Cyr
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1814.4.6
     }
 }
 1795.11.2 = {
@@ -1436,58 +1722,79 @@ historical_rival = HAB
 }
 1796.1.1 = {
     leader = {
-        name = "皮埃尔"  # Pierre
-        Charles = admiralfire
-         = 0death_date
-         = 1805.10.21
+        name = "皮埃尔"  # Pierre Charles Silvestre de Villeneuve
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1805.10.21
     }
 }
 1796.8.1 = {
     leader = {
-        name = "米歇尔"  # Michel
-        Ney"type = generalfire
-         = 0death_date
-         = 1815.12.7
+        name = "米歇尔"  # Michel Ney
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1815.12.7
     }
 }
 1797.1.1 = {
     leader = {
-        name = "埃蒂安"  # Étienne
-        Macdonald"type = generalfire
-         = 1death_date
-         = 1814.4.11
+        name = "埃蒂安"  # Étienne Macdonald
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 1
+        death_date = 1814.4.11
     }
 }
 1797.1.1 = {
     leader = {
-        name = "弗朗索瓦-约瑟夫"  # François-Joseph
-        Lefebvre"type = generalfire
-         = 2death_date
-         = 1807.7.9
+        name = "弗朗索瓦-约瑟夫"  # François-Joseph Lefebvre
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 2
+        death_date = 1807.7.9
     }
 }
 1799.1.1 = {
     leader = {
-        name = "爱德华"  # Édouard
-        Mortier"type = generalfire
-         = 1death_date
-         = 1835.7.28
+        name = "爱德华"  # Édouard Mortier
+        type = general
+        fire = 5
+        shock = 4
+        manuever = 4
+        siege = 1
+        death_date = 1835.7.28
     }
 }
 1799.11.9 = {
     leader = {
-        name = "若阿尚"  # Joachim
-        Murat"type = generalfire
-         = 2death_date
-         = 1806.1.1
+        name = "若阿尚"  # Joachim Murat
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 6
+        siege = 2
+        death_date = 1806.1.1
     }
 }
 1799.11.9 = {
     leader = {
-        name = "让"  # Jean
-        Lannes"type = generalfire
-         = 2death_date
-         = 1809.5.31
+        name = "让"  # Jean Lannes
+        type = general
+        fire = 4
+        shock = 5
+        manuever = 4
+        siege = 2
+        death_date = 1809.5.31
     }
 }
 1799.11.10 = {
@@ -1500,9 +1807,12 @@ historical_rival = HAB
         dynasty = "波拿巴"  # Bonaparte
         birth_date = 1769.8.15
         leader = {
-            name = "拿破仑"  # Napoléon"type
-             = 6siege
-             = 2
+            name = "拿破仑"  # Napoléon
+            type = general
+            fire = 6
+            shock = 6
+            manuever = 6
+            siege = 2
         }
     }
     add_army_professionalism = 0.4
@@ -1512,18 +1822,24 @@ historical_rival = HAB
 }
 1800.1.1 = {
     leader = {
-        name = "奥古斯特-弗雷德里克-路易"  # Auguste-Frédéric-Louis
-        Viesse = generalfire
-         = 2death_date
-         = 1814.4.6
+        name = "奥古斯特-弗雷德里克-路易"  # Auguste-Frédéric-Louis Viesse de Marmont
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 5
+        siege = 2
+        death_date = 1814.4.6
     }
 }
 1802.1.1 = {
     leader = {
-        name = "让-巴普蒂斯"  # Jean-Baptiste
-        Bessières"type = generalfire
-         = 1death_date
-         = 1813.5.1
+        name = "让-巴普蒂斯"  # Jean-Baptiste Bessières
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 4
+        siege = 1
+        death_date = 1813.5.1
     }
 }
 1804.5.18 = {
@@ -1591,50 +1907,5 @@ historical_rival = HAB
         adm = 2
         dip = 3
         mil = 1
-    }
-}
-1515.1.1 = {
-    monarch = {
-        name = "弗朗索瓦 I"  # François I
-        dynasty = "德 瓦卢瓦"  # de Valois
-    }
-    queen = {
-        name = "克洛德"  # Claude
-        dynasty = "德 瓦卢瓦"  # de Valois
-    }
-}
-1635.1.1 = {
-    leader = {
-        name = "亨利"  # Henri
-    }
-}
-1635.1.1 = {
-    leader = {
-        name = "伯纳德"  # Bernard
-    }
-}
-1701.1.1 = {
-    leader = {
-        name = "让"  # Jean
-    }
-}
-1748.1.1 = {
-    leader = {
-        name = "维克多-弗朗索瓦"  # Victor-François
-    }
-}
-1792.9.21 = {
-    leader = {
-        name = "路易"  # Louis
-    }
-}
-1792.9.21 = {
-    monarch = {
-        name = "国民公会"  # La Convention nationale
-    }
-}
-1794.1.1 = {
-    leader = {
-        name = "洛朗"  # Laurent
     }
 }

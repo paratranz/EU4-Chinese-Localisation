@@ -171,10 +171,12 @@ capital = 121
         dip = 6
         mil = 5
         leader = {
-            name = "Vittorio"  # Vittorio
-            Amedeo = generalfire
-             = 2siege
-             = 2
+            name = "Vittorio Amedeo II"  # Vittorio Amedeo II
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 2
+            siege = 2
         }
     }
 }
@@ -245,10 +247,12 @@ capital = 121
         mil = 2
         adm = 2
         leader = {
-            name = "Gioacchino"  # Gioacchino
-            I = generalfire
-             = 6siege
-             = 2
+            name = "Gioacchino I Murat"  # Gioacchino I Murat
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 6
+            siege = 2
         }
     }
 }

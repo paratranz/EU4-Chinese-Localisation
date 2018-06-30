@@ -15,10 +15,12 @@ national_focus = MIL
         dip = 0
         mil = 2
         leader = {
-            name = "Karl"  # Karl
-            VIII" = generalfire
-             = 3siege
-             = 0
+            name = "Karl VIII"  # Karl VIII
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 3
+            siege = 0
         }
     }
     queen = {
@@ -73,10 +75,12 @@ national_focus = MIL
         dip = 0
         mil = 2
         leader = {
-            name = "Karl"  # Karl
-            VIII" = generalfire
-             = 3siege
-             = 0
+            name = "Karl VIII"  # Karl VIII
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -133,10 +137,12 @@ national_focus = MIL
         dip = 0
         mil = 2
         leader = {
-            name = "Karl"  # Karl
-            VIII" = generalfire
-             = 3siege
-             = 0
+            name = "Karl VIII"  # Karl VIII
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -201,10 +207,13 @@ national_focus = MIL
 }
 1501.1.1 = {
     leader = {
-        name = "Hemming"  # Hemming
-        Gadh"type = generalfire
-         = 1death_date
-         = 1520.12.1
+        name = "Hemming Gadh"  # Hemming Gadh
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 1
+        death_date = 1520.12.1
     }
 }
 1501.11.15 = {
@@ -269,10 +278,13 @@ national_focus = MIL
 }
 1520.1.1 = {
     leader = {
-        name = "Jakob"  # Jakob
-        Bagge"type = admiralfire
-         = 0death_date
-         = 1577.1.1
+        name = "Jakob Bagge"  # Jakob Bagge
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1577.1.1
     }
 }
 1520.2.3 = {
@@ -287,18 +299,24 @@ national_focus = MIL
 }
 1521.1.1 = {
     leader = {
-        name = "Lars"  # Lars
-        Eriksson" = generalfire
-         = 0death_date
-         = 1540.1.1
+        name = "Lars Eriksson"  # Lars Eriksson
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1540.1.1
     }
 }
 1521.1.1 = {
     leader = {
-        name = "Berendt"  # Berendt
-        von = generalfire
-         = 0death_date
-         = 1550.1.1
+        name = "Berendt von Mehlen"  # Berendt von Mehlen
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1550.1.1
     }
 }
 1521.1.2 = {
@@ -349,10 +367,13 @@ national_focus = MIL
 }
 1534.1.1 = {
     leader = {
-        name = "Johan"  # Johan
-        T. = generalfire
-         = 0death_date
-         = 1556.1.1
+        name = "Johan T. Tre Rosor"  # Johan T. Tre Rosor
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1556.1.1
     }
 }
 1536.10.1 = {
@@ -386,18 +407,24 @@ national_focus = MIL
 }
 1551.1.1 = {
     leader = {
-        name = "Klas"  # Klas
-        Horn" = admiralfire
-         = 0death_date
-         = 1566.9.9
+        name = "Klas Horn"  # Klas Horn
+        type = admiral
+        fire = 5
+        shock = 5
+        manuever = 4
+        siege = 0
+        death_date = 1566.9.9
     }
 }
 1560.1.1 = {
     leader = {
-        name = "Hans"  # Hans
-        Boije = generalfire
-         = 0death_date
-         = 1573.1.1
+        name = "Hans Boije af Gennäs"  # Hans Boije af Gennäs
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1573.1.1
     }
 }
 1560.9.30 = {
@@ -427,34 +454,46 @@ national_focus = MIL
 }
 1561.1.1 = {
     leader = {
-        name = "Bo"  # Bo
-        Grip" = generalfire
-         = 0death_date
-         = 1569.1.1
+        name = "Bo Grip"  # Bo Grip
+        type = general
+        fire = 4
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1569.1.1
     }
 }
 1563.1.1 = {
     leader = {
-        name = "Charles"  # Charles
-        de = generalfire
-         = 0death_date
-         = 1574.9.4
+        name = "Charles de Mornay"  # Charles de Mornay
+        type = general
+        fire = 4
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1574.9.4
     }
 }
 1563.1.1 = {
     leader = {
-        name = "Henrik"  # Henrik
-        Horn" = generalfire
-         = 1death_date
-         = 1693.1.1
+        name = "Henrik Horn"  # Henrik Horn
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 3
+        siege = 1
+        death_date = 1693.1.1
     }
 }
 1565.1.1 = {
     leader = {
-        name = "Pontus"  # Pontus
-        de = generalfire
-         = 1death_date
-         = 1585.11.5
+        name = "Pontus de la Gardie"  # Pontus de la Gardie
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 4
+        siege = 1
+        death_date = 1585.11.5
     }
 }
 1568.7.4 = {
@@ -521,10 +560,13 @@ national_focus = MIL
 }
 1575.1.1 = {
     leader = {
-        name = "Karl"  # Karl
-        Horn" = generalfire
-         = 1death_date
-         = 1601.5.16
+        name = "Karl Horn"  # Karl Horn
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1601.5.16
     }
 }
 1585.2.21 = {
@@ -563,10 +605,13 @@ national_focus = MIL
 }
 1595.1.1 = {
     leader = {
-        name = "Carl"  # Carl
-        C. = admiralfire
-         = 0death_date
-         = 1650.1.1
+        name = "Carl C. Gyllenhielm"  # Carl C. Gyllenhielm
+        type = admiral
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1650.1.1
     }
 }
 1598.8.1 = {
@@ -602,35 +647,46 @@ national_focus = MIL
         dip = 6
         mil = 6
         leader = {
-            name = "Gustav"  # Gustav
-            II = generalfire
-             = 6siege
-             = 1
+            name = "Gustav II Adolf"  # Gustav II Adolf
+            type = general
+            fire = 6
+            shock = 5
+            manuever = 6
+            siege = 1
         }
     }
 }
 1600.1.1 = {
     leader = {
-        name = "Herman"  # Herman
-        Wrangel" = generalfire
-         = 0death_date
-         = 1643.12.11
+        name = "Herman Wrangel"  # Herman Wrangel
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1643.12.11
     }
 }
 1605.1.1 = {
     leader = {
-        name = "Evert"  # Evert
-        Horn" = generalfire
-         = 2death_date
-         = 1615.7.30
+        name = "Evert Horn"  # Evert Horn
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 2
+        death_date = 1615.7.30
     }
 }
 1610.1.1 = {
     leader = {
-        name = "Klas"  # Klas
-        L. = admiralfire
-         = 0death_date
-         = 1644.7.26
+        name = "Klas L. Fleming"  # Klas L. Fleming
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1644.7.26
     }
 }
 1611.10.30 = {
@@ -642,10 +698,12 @@ national_focus = MIL
         dip = 6
         mil = 6
         leader = {
-            name = "Gustav"  # Gustav
-            II = generalfire
-             = 6siege
-             = 1
+            name = "Gustav II Adolf"  # Gustav II Adolf
+            type = general
+            fire = 6
+            shock = 5
+            manuever = 6
+            siege = 1
         }
     }
     add_army_professionalism = 0.3
@@ -668,10 +726,13 @@ national_focus = MIL
 }
 1625.1.1 = {
     leader = {
-        name = "Gustav"  # Gustav
-        Horn" = generalfire
-         = 0death_date
-         = 1657.5.10
+        name = "Gustav Horn"  # Gustav Horn
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1657.5.10
     }
 }
 1626.12.18 = {
@@ -690,18 +751,24 @@ national_focus = MIL
 }
 1630.1.1 = {
     leader = {
-        name = "Johan"  # Johan
-        Banér"type = generalfire
-         = 1death_date
-         = 1641.5.10
+        name = "Johan Banér"  # Johan Banér
+        type = general
+        fire = 4
+        shock = 5
+        manuever = 5
+        siege = 1
+        death_date = 1641.5.10
     }
 }
 1630.1.1 = {
     leader = {
-        name = "Lennart"  # Lennart
-        Torstensson"type = generalfire
-         = 2death_date
-         = 1651.5.7
+        name = "Lennart Torstensson"  # Lennart Torstensson
+        type = general
+        fire = 5
+        shock = 4
+        manuever = 5
+        siege = 2
+        death_date = 1651.5.7
     }
 }
 1630.7.1 = {
@@ -710,16 +777,23 @@ national_focus = MIL
 1631.1.1 = {
     leader = {
         name = "Bernhard"  # Bernhard
-         = 1death_date
-         = 1639.7.8
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 3
+        siege = 1
+        death_date = 1639.7.8
     }
 }
 1632.1.1 = {
     leader = {
-        name = "Carl"  # Carl
-        Gustaf = generalfire
-         = 1death_date
-         = 1676.6.25
+        name = "Carl Gustaf Wrangel"  # Carl Gustaf Wrangel
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 4
+        siege = 1
+        death_date = 1676.6.25
     }
 }
 1632.11.8 = {
@@ -738,26 +812,35 @@ national_focus = MIL
 }
 1634.1.1 = {
     leader = {
-        name = "Arvid"  # Arvid
-        Wittenberg"type = generalfire
-         = 0death_date
-         = 1657.9.7
+        name = "Arvid Wittenberg"  # Arvid Wittenberg
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1657.9.7
     }
 }
 1635.1.1 = {
     leader = {
-        name = "H.C."  # H.C.
-        von = generalfire
-         = 0death_date
-         = 1694.7.12
+        name = "H.C. von Königsmarck"  # H.C. von Königsmarck
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 6
+        siege = 0
+        death_date = 1694.7.12
     }
 }
 1639.1.1 = {
     leader = {
-        name = "Johan"  # Johan
-        P. = conquistadorfire
-         = 0death_date
-         = 1663.5.3
+        name = "Johan P. Björnsson"  # Johan P. Björnsson
+        type = conquistador
+        fire = 3
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1663.5.3
     }
 }
 1648.10.24 = {
@@ -765,10 +848,13 @@ national_focus = MIL
 }
 1650.1.1 = {
     leader = {
-        name = "Rutger"  # Rutger
-        von = generalfire
-         = 0death_date
-         = 1693.5.17
+        name = "Rutger von Ascheberg"  # Rutger von Ascheberg
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1693.5.17
     }
 }
 1654.6.8 = {
@@ -780,10 +866,12 @@ national_focus = MIL
         dip = 1
         mil = 6
         leader = {
-            name = "Karl"  # Karl
-            X = generalfire
-             = 5siege
-             = 1
+            name = "Karl X Gustav"  # Karl X Gustav
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 5
+            siege = 1
         }
     }
     clear_scripted_personalities = yes
@@ -804,10 +892,13 @@ national_focus = MIL
 }
 1655.1.1 = {
     leader = {
-        name = "Gustav"  # Gustav
-        Otto = admiralfire
-         = 0death_date
-         = 1685.9.24
+        name = "Gustav Otto Stenbock"  # Gustav Otto Stenbock
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1685.9.24
     }
 }
 1655.12.4 = {
@@ -822,10 +913,12 @@ national_focus = MIL
         dip = 3
         mil = 2
         leader = {
-            name = "Karl"  # Karl
-            XI" = generalfire
-             = 5siege
-             = 0
+            name = "Karl XI"  # Karl XI
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 5
+            siege = 0
         }
     }
 }
@@ -838,10 +931,12 @@ national_focus = MIL
         dip = 3
         mil = 2
         leader = {
-            name = "Karl"  # Karl
-            XI" = generalfire
-             = 5siege
-             = 0
+            name = "Karl XI"  # Karl XI
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 5
+            siege = 0
         }
     }
     add_army_professionalism = 0.1
@@ -852,10 +947,13 @@ national_focus = MIL
 }
 1680.1.1 = {
     leader = {
-        name = "Gustaf"  # Gustaf
-        Armfeldt" = generalfire
-         = 0death_date
-         = 1736.10.24
+        name = "Gustaf Armfeldt"  # Gustaf Armfeldt
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1736.10.24
     }
 }
 1680.5.6 = {
@@ -883,10 +981,12 @@ national_focus = MIL
         dip = 1
         mil = 6
         leader = {
-            name = "Karl"  # Karl
-            XII"type = generalfire
-             = 5siege
-             = 1
+            name = "Karl XII"  # Karl XII
+            type = general
+            fire = 6
+            shock = 6
+            manuever = 5
+            siege = 1
         }
     }
 }
@@ -899,10 +999,12 @@ national_focus = MIL
         dip = 1
         mil = 6
         leader = {
-            name = "Karl"  # Karl
-            XII"type = generalfire
-             = 5siege
-             = 1
+            name = "Karl XII"  # Karl XII
+            type = general
+            fire = 6
+            shock = 6
+            manuever = 5
+            siege = 1
         }
     }
     add_army_professionalism = 0.1
@@ -926,41 +1028,57 @@ national_focus = MIL
 }
 1700.1.1 = {
     leader = {
-        name = "Arvid"  # Arvid
-        Bernhard = generalfire
-         = 1death_date
-         = 1742.4.17
+        name = "Arvid Bernhard Horn"  # Arvid Bernhard Horn
+        type = general
+        fire = 4
+        shock = 2
+        manuever = 3
+        siege = 1
+        death_date = 1742.4.17
     }
 }
 1700.1.1 = {
     leader = {
         name = "Wachtmeister"  # Wachtmeister
-         = 0death_date
-         = 1717.1.1
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1717.1.1
     }
 }
 1701.1.1 = {
     leader = {
-        name = "Adam"  # Adam
-        Lewenhaupt"type = generalfire
-         = 1death_date
-         = 1719.2.12
+        name = "Adam Lewenhaupt"  # Adam Lewenhaupt
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 2
+        siege = 1
+        death_date = 1719.2.12
     }
 }
 1707.1.1 = {
     leader = {
-        name = "Lars"  # Lars
-        Gathenhielm"type = admiralfire
-         = 0death_date
-         = 1718.4.25
+        name = "Lars Gathenhielm"  # Lars Gathenhielm
+        type = admiral
+        fire = 0
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1718.4.25
     }
 }
 1710.1.1 = {
     leader = {
-        name = "H.M."  # H.M.
-        von = generalfire
-         = 0death_date
-         = 1743.7.16
+        name = "H.M. von Buddenbrock"  # H.M. von Buddenbrock
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1743.7.16
     }
 }
 1718.12.2 = {
@@ -1009,26 +1127,35 @@ national_focus = MIL
 }
 1722.1.1 = {
     leader = {
-        name = "Charles"  # Charles
-        Lewenhaupt"type = generalfire
-         = 0death_date
-         = 1743.8.4
+        name = "Charles Lewenhaupt"  # Charles Lewenhaupt
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1743.8.4
     }
 }
 1747.1.1 = {
     leader = {
-        name = "Agustin"  # Agustin
-        Ehrensvärd"type = generalfire
-         = 2death_date
-         = 1772.10.4
+        name = "Agustin Ehrensvärd"  # Agustin Ehrensvärd
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 3
+        siege = 2
+        death_date = 1772.10.4
     }
 }
 1750.1.1 = {
     leader = {
-        name = "Fredrik"  # Fredrik
-        von = generalfire
-         = 0death_date
-         = 1794.4.24
+        name = "Fredrik von Fersen"  # Fredrik von Fersen
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1794.4.24
     }
 }
 1751.3.27 = {
@@ -1064,19 +1191,24 @@ national_focus = MIL
         dip = 4
         mil = 2
         leader = {
-            name = "Gustav"  # Gustav
-            III"type = generalfire
-             = 2siege
-             = 0
+            name = "Gustav III"  # Gustav III
+            type = general
+            fire = 1
+            shock = 2
+            manuever = 2
+            siege = 0
         }
     }
 }
 1755.1.1 = {
     leader = {
-        name = "Henrik"  # Henrik
-        af = generalfire
-         = 0death_date
-         = 1784.3.11
+        name = "Henrik af Trolle"  # Henrik af Trolle
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1784.3.11
     }
 }
 1771.2.13 = {
@@ -1088,10 +1220,12 @@ national_focus = MIL
         dip = 4
         mil = 2
         leader = {
-            name = "Gustav"  # Gustav
-            III"type = generalfire
-             = 2siege
-             = 0
+            name = "Gustav III"  # Gustav III
+            type = general
+            fire = 1
+            shock = 2
+            manuever = 2
+            siege = 0
         }
     }
     queen = {
@@ -1121,26 +1255,35 @@ national_focus = MIL
 }
 1781.1.1 = {
     leader = {
-        name = "Georg"  # Georg
-        C. = generalfire
-         = 0death_date
-         = 1820.2.16
+        name = "Georg C. von Döbeln"  # Georg C. von Döbeln
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1820.2.16
     }
 }
 1789.1.1 = {
     leader = {
-        name = "Carl"  # Carl
-        J. = generalfire
-         = 0death_date
-         = 1815.8.21
+        name = "Carl J. Adlercreutz"  # Carl J. Adlercreutz
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1815.8.21
     }
 }
 1790.1.1 = {
     leader = {
-        name = "Hans"  # Hans
-        H. = generalfire
-         = 0death_date
-         = 1824.7.28
+        name = "Hans H. von Essen"  # Hans H. von Essen
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1824.7.28
     }
 }
 1792.4.3 = {
@@ -1182,15 +1325,23 @@ national_focus = MIL
 1801.1.1 = {
     leader = {
         name = "Sandels"  # Sandels
-         = 0death_date
-         = 1827.1.1
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 6
+        siege = 0
+        death_date = 1827.1.1
     }
 }
 1801.1.1 = {
     leader = {
         name = "Toll"  # Toll
-         = 0death_date
-         = 1817.1.1
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1817.1.1
     }
 }
 1809.5.1 = {
@@ -1216,10 +1367,13 @@ national_focus = MIL
 }
 1810.8.21 = {
     leader = {
-        name = "J.B."  # J.B.
-        Bernadotte"type = generalfire
-         = 0death_date
-         = 1818.2.5
+        name = "J.B. Bernadotte"  # J.B. Bernadotte
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1818.2.5
     }
 }
 1818.2.6 = {
@@ -1232,10 +1386,12 @@ national_focus = MIL
         dip = 2
         mil = 4
         leader = {
-            name = "Karl"  # Karl
-            XIV = generalfire
-             = 3siege
-             = 0
+            name = "Karl XIV Johan"  # Karl XIV Johan
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 3
+            siege = 0
         }
     }
     queen = {

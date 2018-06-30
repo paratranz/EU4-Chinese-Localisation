@@ -138,10 +138,12 @@ religious_school = shafii_school
         dip = 1
         mil = 3
         leader = {
-            name = "Al"  # Al
-            Kansur" = generalfire
-             = 5siege
-             = 0
+            name = "Al Kansur"  # Al Kansur
+            type = general
+            fire = 1
+            shock = 4
+            manuever = 5
+            siege = 0
         }
     }
 }
@@ -153,10 +155,12 @@ religious_school = shafii_school
         dip = 0
         mil = 2
         leader = {
-            name = "Tûmân"  # Tûmân
-            Bay = generalfire
-             = 3siege
-             = 1
+            name = "Tûmân Bay II"  # Tûmân Bay II
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 1
         }
     }
 }
@@ -189,18 +193,24 @@ religious_school = shafii_school
 }
 1792.1.1 = {
     leader = {
-        name = "易卜拉欣"  # Ibrahim
-        Bey" = generalfire
-         = 0death_date
-         = 1804.3.14
+        name = "易卜拉欣"  # Ibrahim Bey
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1804.3.14
     }
 }
 1792.1.1 = {
     leader = {
-        name = "Murad"  # Murad
-        Bey" = generalfire
-         = 0death_date
-         = 1801.4.22
+        name = "Murad Bey"  # Murad Bey
+        type = general
+        fire = 1
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1801.4.22
     }
 }
 1801.4.23 = {
@@ -220,10 +230,12 @@ religious_school = shafii_school
         dip = 4
         mil = 6
         leader = {
-            name = "Mehmet"  # Mehmet
-            Ali"type = generalfire
-             = 5siege
-             = 0
+            name = "Mehmet Ali"  # Mehmet Ali
+            type = general
+            fire = 1
+            shock = 4
+            manuever = 5
+            siege = 0
         }
     }
 }

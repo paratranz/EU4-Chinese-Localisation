@@ -87,10 +87,13 @@ fixed_capital = 79
 }
 1524.8.1 = {
     leader = {
-        name = "Thomas"  # Thomas
-        Müntzer"type = generalfire
-         = 0death_date
-         = 1525.5.15
+        name = "Thomas Müntzer"  # Thomas Müntzer
+        type = general
+        fire = 1
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1525.5.15
     }
 }
 1524.8.1 = {
@@ -171,10 +174,13 @@ fixed_capital = 79
 }
 1630.1.1 = {
     leader = {
-        name = "J.P."  # J.P.
-        Saxe-Altenburg" = generalfire
-         = 0death_date
-         = 1639.4.1
+        name = "J.P. Saxe-Altenburg"  # J.P. Saxe-Altenburg
+        type = general
+        fire = 4
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1639.4.1
     }
 }
 1631.7.17 = {

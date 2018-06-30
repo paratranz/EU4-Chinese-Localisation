@@ -82,10 +82,12 @@ capital = 189
         dip = 1
         mil = 4
         leader = {
-            name = "Antoine"  # Antoine
-            I" = generalfire
-             = 3siege
-             = 0
+            name = "Antoine I"  # Antoine I
+            type = general
+            fire = 3
+            shock = 1
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -98,10 +100,12 @@ capital = 189
         dip = 1
         mil = 4
         leader = {
-            name = "Antoine"  # Antoine
-            I" = generalfire
-             = 3siege
-             = 0
+            name = "Antoine I"  # Antoine I
+            type = general
+            fire = 3
+            shock = 1
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -212,10 +216,12 @@ capital = 189
         dip = 0
         mil = 0
         leader = {
-            name = "Charles"  # Charles
-            IV" = generalfire
-             = 3siege
-             = 1
+            name = "Charles IV"  # Charles IV
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 3
+            siege = 1
         }
     }
 }
@@ -228,10 +234,12 @@ capital = 189
         dip = 0
         mil = 0
         leader = {
-            name = "Charles"  # Charles
-            IV" = generalfire
-             = 3siege
-             = 1
+            name = "Charles IV"  # Charles IV
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 3
+            siege = 1
         }
     }
 }
@@ -276,10 +284,12 @@ capital = 189
         dip = 0
         mil = 0
         leader = {
-            name = "Charles"  # Charles
-            IV" = generalfire
-             = 3siege
-             = 1
+            name = "Charles IV"  # Charles IV
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 3
+            siege = 1
         }
     }
 }

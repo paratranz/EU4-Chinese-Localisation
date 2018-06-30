@@ -15,10 +15,13 @@ religious_school = maliki_school
         dip = 4
         mil = 5
         leader = {
-            name = "Oruç"  # Oruç
-            Reis" = admiralfire
-             = 0death_date
-             = 1516.1.1
+            name = "Oruç Reis"  # Oruç Reis
+            type = admiral
+            fire = 1
+            shock = 4
+            manuever = 5
+            siege = 0
+            death_date = 1516.1.1
         }
     }
     capital = 353
@@ -32,10 +35,13 @@ religious_school = maliki_school
         dip = 4
         mil = 4
         leader = {
-            name = "Kurtoglu"  # Kurtoglu
-            Reis" = admiralfire
-             = 0death_date
-             = 1516.1.1
+            name = "Kurtoglu Reis"  # Kurtoglu Reis
+            type = admiral
+            fire = 1
+            shock = 3
+            manuever = 5
+            siege = 0
+            death_date = 1516.1.1
         }
     }
 }

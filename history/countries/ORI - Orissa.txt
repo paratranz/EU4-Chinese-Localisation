@@ -11,9 +11,12 @@ capital = 552
         DIP = 5
         MIL = 6
         leader = {
-            name = "Kapilendra"type"  # Kapilendra"type
-             = 2siege
-             = 1
+            name = "Kapilendra"  # Kapilendra
+            type = general
+            fire = 3
+            shock = 5
+            manuever = 2
+            siege = 1
         }
     }
     clear_scripted_personalities = yes

@@ -102,8 +102,12 @@ add_army_professionalism = 0.05
 1418.1.1 = {
     leader = {
         name = "Carmagnola"  # Carmagnola
-         = 1death_date
-         = 1432.5.5
+        type = general
+        fire = 4
+        shock = 5
+        manuever = 5
+        siege = 1
+        death_date = 1432.5.5
     }
 }
 1427.12.2 = {
@@ -134,10 +138,12 @@ add_army_professionalism = 0.05
         dip = 5
         mil = 5
     }
+}
+1450.3.27 = {
     heir = {
-        name = "Galeazzo Maria"
-        monarch_name = "Galeazzo Maria I"
-        dynasty = "Sforza"
+        name = "Galeazzo Maria"  # Galeazzo Maria
+        monarch_name = "Galeazzo Maria I"  # Galeazzo Maria I
+        dynasty = "Sforza"  # Sforza
         birth_date = 1444.1.24
         death_date = 1476.12.26
         claim = 95
@@ -191,10 +197,12 @@ add_army_professionalism = 0.05
         dip = 5
         mil = 4
         leader = {
-            name = "Ludovico"  # Ludovico
-            Sforza" = generalfire
-             = 3siege
-             = 1
+            name = "Ludovico Sforza"  # Ludovico Sforza
+            type = general
+            fire = 3
+            shock = 2
+            manuever = 3
+            siege = 1
         }
     }
 }
@@ -207,10 +215,12 @@ add_army_professionalism = 0.05
         dip = 5
         mil = 4
         leader = {
-            name = "Ludovico"  # Ludovico
-            Sforza" = generalfire
-             = 3siege
-             = 1
+            name = "Ludovico Sforza"  # Ludovico Sforza
+            type = general
+            fire = 3
+            shock = 2
+            manuever = 3
+            siege = 1
         }
     }
 }
@@ -226,10 +236,12 @@ add_army_professionalism = 0.05
         dip = 4
         mil = 1
         leader = {
-            name = "Massimiliano"  # Massimiliano
-            Sforza" = generalfire
-             = 2siege
-             = 0
+            name = "Massimiliano Sforza"  # Massimiliano Sforza
+            type = general
+            fire = 1
+            shock = 1
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -242,10 +254,12 @@ add_army_professionalism = 0.05
         dip = 4
         mil = 1
         leader = {
-            name = "Massimiliano"  # Massimiliano
-            Sforza" = generalfire
-             = 2siege
-             = 0
+            name = "Massimiliano Sforza"  # Massimiliano Sforza
+            type = general
+            fire = 1
+            shock = 1
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -258,19 +272,24 @@ add_army_professionalism = 0.05
         dip = 2
         mil = 1
         leader = {
-            name = "Francesco"  # Francesco
-            Sforza" = generalfire
-             = 2siege
-             = 0
+            name = "Francesco Sforza"  # Francesco Sforza
+            type = general
+            fire = 1
+            shock = 1
+            manuever = 2
+            siege = 0
         }
     }
 }
 1535.1.1 = {
     leader = {
-        name = "Marquis"  # Marquis
-        del = generalfire
-         = 0death_date
-         = 1546.3.31
+        name = "Marquis del Vasto"  # Marquis del Vasto
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1546.3.31
     }
 }
 1796.11.15 = {
@@ -282,12 +301,5 @@ add_army_professionalism = 0.05
         adm = 3
         dip = 4
         mil = 1
-    }
-}
-1450.3.27 = {
-    heir = {
-        name = "Galeazzo Maria"  # Galeazzo Maria
-        monarch_name = "Galeazzo Maria I"  # Galeazzo Maria I
-        dynasty = "Sforza"  # Sforza
     }
 }

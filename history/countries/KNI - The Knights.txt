@@ -75,27 +75,35 @@ add_army_professionalism = 0.1
         dip = 4
         mil = 4
         leader = {
-            name = "Pierre"  # Pierre
-            d'Aubusson"type = generalfire
-             = 4siege
-             = 1
+            name = "Pierre d'Aubusson"  # Pierre d'Aubusson
+            type = general
+            fire = 5
+            shock = 6
+            manuever = 4
+            siege = 1
         }
     }
 }
 1489.1.1 = {
     leader = {
-        name = "Andrea"  # Andrea
-        d'Amaral" = admiralfire
-         = 0death_date
-         = 1522.11.1
+        name = "Andrea d'Amaral"  # Andrea d'Amaral
+        type = admiral
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1522.11.1
     }
 }
 1493.1.1 = {
     leader = {
-        name = "Aurelio"  # Aurelio
-        Bottigella" = admiralfire
-         = 0death_date
-         = 1545.1.1
+        name = "Aurelio Bottigella"  # Aurelio Bottigella
+        type = admiral
+        fire = 5
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1545.1.1
     }
 }
 1503.7.12 = {
@@ -137,19 +145,24 @@ add_army_professionalism = 0.1
         dip = 4
         mil = 5
         leader = {
-            name = "L'Isle"  # L'Isle
-            Adam"type = generalfire
-             = 5siege
-             = 1
+            name = "L'Isle Adam"  # L'Isle Adam
+            type = general
+            fire = 6
+            shock = 5
+            manuever = 5
+            siege = 1
         }
     }
 }
 1528.1.1 = {
     leader = {
-        name = "Pietro"  # Pietro
-        Giustiniani" = admiralfire
-         = 0death_date
-         = 1584.1.1
+        name = "Pietro Giustiniani"  # Pietro Giustiniani
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1584.1.1
     }
 }
 1530.1.1 = {
@@ -187,18 +200,24 @@ add_army_professionalism = 0.1
 }
 1537.1.1 = {
     leader = {
-        name = "Leone"  # Leone
-        Strozzi"type = admiralfire
-         = 0death_date
-         = 1554.6.28
+        name = "Leone Strozzi"  # Leone Strozzi
+        type = admiral
+        fire = 4
+        shock = 5
+        manuever = 4
+        siege = 0
+        death_date = 1554.6.28
     }
 }
 1539.1.1 = {
     leader = {
-        name = "M."  # M.
-        de = admiralfire
-         = 0death_date
-         = 1581.1.1
+        name = "M. de Lescout Romegas"  # M. de Lescout Romegas
+        type = admiral
+        fire = 6
+        shock = 6
+        manuever = 6
+        siege = 0
+        death_date = 1581.1.1
     }
 }
 1553.9.12 = {
@@ -220,10 +239,12 @@ add_army_professionalism = 0.1
         dip = 3
         mil = 5
         leader = {
-            name = "La"  # La
-            Valette"type = generalfire
-             = 4siege
-             = 2
+            name = "La Valette"  # La Valette
+            type = general
+            fire = 6
+            shock = 6
+            manuever = 4
+            siege = 2
         }
     }
 }
@@ -379,10 +400,13 @@ add_army_professionalism = 0.1
 }
 1701.1.1 = {
     leader = {
-        name = "Jacques"  # Jacques
-        de = admiralfire
-         = 0death_date
-         = 1756.1.1
+        name = "Jacques de Chambray"  # Jacques de Chambray
+        type = admiral
+        fire = 6
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1756.1.1
     }
 }
 1720.1.14 = {
@@ -427,10 +451,13 @@ add_army_professionalism = 0.1
 }
 1759.1.1 = {
     leader = {
-        name = "P."  # P.
-        de = admiralfire
-         = 0death_date
-         = 1788.1.1
+        name = "P. de Saint-Tropez"  # P. de Saint-Tropez
+        type = admiral
+        fire = 6
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1788.1.1
     }
 }
 1773.1.29 = {
@@ -452,10 +479,12 @@ add_army_professionalism = 0.1
         dip = 4
         mil = 5
         leader = {
-            name = "Emmanuel"  # Emmanuel
-            de = generalfire
-             = 4siege
-             = 0
+            name = "Emmanuel de Rohan"  # Emmanuel de Rohan
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }

@@ -11,66 +11,90 @@ capital = 219
 national_focus = MIL
 1491.1.1 = {
     leader = {
-        name = "Fadrique"  # Fadrique
-        Álv. = generalfire
-         = 0death_date
-         = 1520.1.1
+        name = "Fadrique Álv. de Toledo"  # Fadrique Álv. de Toledo
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1520.1.1
     }
 }
 1495.1.1 = {
     leader = {
-        name = "Prospero"  # Prospero
-        Colonna" = generalfire
-         = 0death_date
-         = 1523.12.1
+        name = "Prospero Colonna"  # Prospero Colonna
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1523.12.1
     }
 }
 1499.1.1 = {
     leader = {
-        name = "Vicente"  # Vicente
-        Yáñez = explorerfire
-         = 0death_date
-         = 1523.1.1
+        name = "Vicente Yáñez Pinzón"  # Vicente Yáñez Pinzón
+        type = explorer
+        fire = 2
+        shock = 3
+        manuever = 6
+        siege = 0
+        death_date = 1523.1.1
     }
 }
 1508.1.1 = {
     leader = {
-        name = "Juan"  # Juan
-        Díaz = explorerfire
-         = 0death_date
-         = 1516.2.1
+        name = "Juan Díaz de Solís"  # Juan Díaz de Solís
+        type = explorer
+        fire = 3
+        shock = 2
+        manuever = 5
+        siege = 0
+        death_date = 1516.2.1
     }
 }
 1509.1.1 = {
     leader = {
-        name = "Vasco"  # Vasco
-        Núñez = conquistadorfire
-         = 0death_date
-         = 1519.1.25
+        name = "Vasco Núñez de Balboa"  # Vasco Núñez de Balboa
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1519.1.25
     }
 }
 1511.1.1 = {
     leader = {
-        name = "Pánfilo"  # Pánfilo
-        de = conquistadorfire
-         = 0death_date
-         = 1528.1.1
+        name = "Pánfilo de Narváez"  # Pánfilo de Narváez
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1528.1.1
     }
 }
 1512.3.4 = {
     leader = {
-        name = "Ponce"  # Ponce
-        de = conquistadorfire
-         = 0death_date
-         = 1521.7.1
+        name = "Ponce de León"  # Ponce de León
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1521.7.1
     }
 }
 1513.10.7 = {
     leader = {
-        name = "Fernando"  # Fernando
-        de = generalfire
-         = 0death_date
-         = 1525.2.4
+        name = "Fernando de Ávalos"  # Fernando de Ávalos
+        type = general
+        fire = 3
+        shock = 5
+        manuever = 3
+        siege = 0
+        death_date = 1525.2.4
     }
 }
 1516.1.23 = {
@@ -90,29 +114,35 @@ national_focus = MIL
 }
 1518.1.1 = {
     leader = {
-        name = "Juan"  # Juan
-        de = explorerfire
-         = 0death_date
-         = 1527.1.1
+        name = "Juan de Grijalva"  # Juan de Grijalva
+        type = explorer
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1527.1.1
     }
 }
 1519.1.1 = {
     leader = {
-        name = "Hernán"  # Hernán
-        Cortés" = conquistadorfire
-         = 1death_date
-         = 1547.12.2
+        name = "Hernán Cortés"  # Hernán Cortés
+        type = conquistador
+        fire = 5
+        shock = 5
+        manuever = 6
+        siege = 1
+        death_date = 1547.12.2
     }
 }
 1519.1.1 = {
     leader = {
-        name = "Cristóbal"  # Cristóbal
-        de = conquistador
+        name = "Cristóbal de Olid"  # Cristóbal de Olid
+        type = conquistador
         fire = 3
         shock = 3
         manuever = 3
-        siege = 0death_date
-         = 1524.5.3
+        siege = 0
+        death_date = 1524.5.3
     }
 }
 1519.1.12 = {
@@ -127,18 +157,24 @@ national_focus = MIL
 }
 1519.1.12 = {
     leader = {
-        name = "Carlos"  # Carlos
-        de = generalfire
-         = 0death_date
-         = 1527.9.23
+        name = "Carlos de Lannoy"  # Carlos de Lannoy
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1527.9.23
     }
 }
 1519.9.21 = {
     leader = {
-        name = "Fernão"  # Fernão
-        de = explorerfire
-         = 0death_date
-         = 1521.4.27
+        name = "Fernão de Magalhães"  # Fernão de Magalhães
+        type = explorer
+        fire = 2
+        shock = 2
+        manuever = 5
+        siege = 0
+        death_date = 1521.4.27
     }
 }
 1520.1.1 = {
@@ -146,80 +182,112 @@ national_focus = MIL
 }
 1521.1.1 = {
     leader = {
-        name = "Antonio"  # Antonio
-        de = generalfire
-         = 0death_date
-         = 1536.1.1
+        name = "Antonio de Leyva"  # Antonio de Leyva
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1536.1.1
     }
 }
 1521.4.27 = {
     leader = {
-        name = "Juan"  # Juan
-        Sebastián = explorerfire
-         = 0
+        name = "Juan Sebastián Elcano"  # Juan Sebastián Elcano
+        type = explorer
+        fire = 3
+        shock = 2
+        manuever = 6
+        siege = 0
         death_date = 1526.8.4
     }
 }
 1523.1.1 = {
     leader = {
-        name = "Condestable"  # Condestable
-        Borbón" = generalfire
-         = 0death_date
-         = 1527.5.6
+        name = "Condestable Borbón"  # Condestable Borbón
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1527.5.6
     }
 }
 1523.1.1 = {
     leader = {
-        name = "Pedro"  # Pedro
-        de = conquistador
+        name = "Pedro de Alvarado"  # Pedro de Alvarado
+        type = conquistador
         fire = 3
         shock = 3
         manuever = 3
-        siege = 0death_date
-         = 1541.8.4
+        siege = 0
+        death_date = 1541.8.4
     }
 }
 1524.9.13 = {
     leader = {
-        name = "Gonzalo"  # Gonzalo
-        Pizarro" = conquistador
+        name = "Gonzalo Pizarro"  # Gonzalo Pizarro
+        type = conquistador
         fire = 3
         shock = 3
         manuever = 3
-        siege = 0death_date
-         = 1548.4.10
+        siege = 0
+        death_date = 1548.4.10
     }
 }
 1524.9.13 = {
     leader = {
-        name = "Francisco"  # Francisco
-        Pizarro"type = conquistadorfire
-         = 1death_date
-         = 1541.6.26
+        name = "Francisco Pizarro"  # Francisco Pizarro
+        type = conquistador
+        fire = 4
+        shock = 4
+        manuever = 5
+        siege = 1
+        death_date = 1541.6.26
     }
+}
+1524.9.13 = {
     leader = {
-        name = "Diego
-        de = conquistadorfire
-         = 0death_date
-         = 1538.4.1
-        name = "Francisco
-         = 1549.1.1
+        name = "Diego de Almagro"  # Diego de Almagro
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 6
+        siege = 0
+        death_date = 1538.4.1
+    }
+}
+1524.9.13 = {
+    leader = {
+        name = "Francisco de Orellana"  # Francisco de Orellana
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1549.1.1
     }
 }
 1525.1.1 = {
     leader = {
-        name = "Bernardino"  # Bernardino
-        de = admiralfire
-         = 0death_date
-         = 1557.1.1
+        name = "Bernardino de Mendoza"  # Bernardino de Mendoza
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1557.1.1
     }
 }
 1525.7.24 = {
     leader = {
-        name = "García"  # García
-        Jofre = explorerfire
-         = 0death_date
-         = 1526.8.4
+        name = "García Jofre de Loaísa"  # García Jofre de Loaísa
+        type = explorer
+        fire = 1
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1526.8.4
     }
 }
 1526.3.10 = {
@@ -237,40 +305,57 @@ national_focus = MIL
 }
 1526.12.1 = {
     leader = {
-        name = "Francisco"  # Francisco
-        de = conquistador
+        name = "Francisco de Montejo Hijo"  # Francisco de Montejo Hijo
+        type = conquistador
         fire = 3
         shock = 3
         manuever = 3
-        siege = 0death_date
-         = 1542.1.1
+        siege = 0
+        death_date = 1542.1.1
     }
 }
 1526.12.1 = {
     leader = {
-        name = "Francisco"  # Francisco
-        de = conquistadorfire
-         = 0death_date
-         = 1535.1.1
+        name = "Francisco de Montejo"  # Francisco de Montejo
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1535.1.1
     }
+}
+1526.12.1 = {
     leader = {
-        name = "Francisco
-        de = conquistador
+        name = "Francisco de Montejo Sob."  # Francisco de Montejo Sob.
+        type = conquistador
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1543.1.1
+    }
+}
+1526.12.1 = {
+    leader = {
+        name = "Sebastián de Belalcázar"  # Sebastián de Belalcázar
+        type = conquistador
         fire = 2
         shock = 3
         manuever = 3
-        siege = 0death_date
-         = 1543.1.1
-        name = "Sebastián
-         = 1551.1.1
+        siege = 0
+        death_date = 1551.1.1
     }
 }
 1527.1.1 = {
     leader = {
-        name = "Álvar"  # Álvar
-        Cabeza = conquistadorfire
-         = 0death_date
-         = 1545.1.1
+        name = "Álvar Cabeza de Vaca"  # Álvar Cabeza de Vaca
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1545.1.1
     }
 }
 1527.5.21 = {
@@ -288,48 +373,57 @@ national_focus = MIL
 }
 1527.10.30 = {
     leader = {
-        name = "Álvaro"  # Álvaro
-        de = explorerfire
-         = 0death_date
-         = 1529.1.1
+        name = "Álvaro de Saavedra Cerón"  # Álvaro de Saavedra Cerón
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 3
+        siege = 0
+        death_date = 1529.1.1
     }
 }
 1528.1.1 = {
     leader = {
-        name = "Hernando"  # Hernando
-        de = conquistadorfire
-         = 0death_date
-         = 1542.5.21
+        name = "Hernando de Soto"  # Hernando de Soto
+        type = conquistador
+        fire = 2
+        shock = 3
+        manuever = 6
+        siege = 0
+        death_date = 1542.5.21
     }
 }
 1529.1.1 = {
     leader = {
-        name = "Pedro"  # Pedro
-        de = conquistadorfire
-         = 0death_date
-         = 1537.1.1
+        name = "Pedro de Mendoza"  # Pedro de Mendoza
+        type = conquistador
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1537.1.1
     }
 }
 1529.12.21 = {
     leader = {
-        name = "Nuño"  # Nuño
-        de = conquistador
+        name = "Nuño de Guzmán"  # Nuño de Guzmán
+        type = conquistador
         fire = 3
         shock = 4
         manuever = 2
-        siege = 0death_date
-         = 1536.1.1
+        siege = 0
+        death_date = 1536.1.1
     }
 }
 1531.1.1 = {
     leader = {
-        name = "Ginés"  # Ginés
-        de = explorer
+        name = "Ginés de Mafra"  # Ginés de Mafra
+        type = explorer
         fire = 2
         shock = 1
         manuever = 3
-        siege = 0death_date
-         = 1539.1.1
+        siege = 0
+        death_date = 1539.1.1
     }
 }
 1534.8.15 = {
@@ -337,78 +431,90 @@ national_focus = MIL
 }
 1535.1.1 = {
     leader = {
-        name = "Duque"  # Duque
-        de = generalfire
-         = 0death_date
-         = 1582.12.11
+        name = "Duque de Alba"  # Duque de Alba
+        type = general
+        fire = 5
+        shock = 5
+        manuever = 5
+        siege = 0
+        death_date = 1582.12.11
     }
 }
 1536.1.1 = {
     leader = {
-        name = "Nikolaus"  # Nikolaus
-        Federmann" = conquistador
+        name = "Nikolaus Federmann"  # Nikolaus Federmann
+        type = conquistador
         fire = 2
         shock = 2
         manuever = 2
-        siege = 0death_date
-         = 1539.7.8
+        siege = 0
+        death_date = 1539.7.8
     }
 }
 1536.4.7 = {
     leader = {
-        name = "G."  # G.
-        Jiménez = conquistadorfire
-         = 0death_date
-         = 1579.1.1
+        name = "G. Jiménez de Quesada"  # G. Jiménez de Quesada
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1579.1.1
     }
 }
 1537.1.1 = {
     leader = {
-        name = "Alonso"  # Alonso
-        de = conquistador
+        name = "Alonso de Alvarado"  # Alonso de Alvarado
+        type = conquistador
         fire = 2
         shock = 2
         manuever = 2
-        siege = 0death_date
-         = 1559.1.1
+        siege = 0
+        death_date = 1559.1.1
     }
 }
 1539.1.1 = {
     leader = {
-        name = "João"  # João
-        Rodrigues = explorer
+        name = "João Rodrigues Cabrilho"  # João Rodrigues Cabrilho
+        type = explorer
         fire = 2
         shock = 2
         manuever = 3
-        siege = 0death_date
-         = 1543.1.3
+        siege = 0
+        death_date = 1543.1.3
     }
 }
 1539.1.1 = {
     leader = {
-        name = "Francisco"  # Francisco
-        de = explorer
+        name = "Francisco de Ulloa"  # Francisco de Ulloa
+        type = explorer
         fire = 2
         shock = 2
         manuever = 4
-        siege = 0death_date
-         = 1540.1.1
+        siege = 0
+        death_date = 1540.1.1
     }
 }
 1540.1.1 = {
     leader = {
-        name = "Francisco"  # Francisco
-        V. = conquistadorfire
-         = 0death_date
-         = 1544.1.1
+        name = "Francisco V. de Coronado"  # Francisco V. de Coronado
+        type = conquistador
+        fire = 3
+        shock = 2
+        manuever = 5
+        siege = 0
+        death_date = 1544.1.1
     }
 }
 1540.1.4 = {
     leader = {
-        name = "Pedro"  # Pedro
-        de = conquistadorfire
-         = 0death_date
-         = 1554.1.1
+        name = "Pedro de Valdivia"  # Pedro de Valdivia
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1554.1.1
     }
 }
 1540.6.1 = {
@@ -417,29 +523,35 @@ national_focus = MIL
 }
 1541.1.1 = {
     leader = {
-        name = "Ruy"  # Ruy
-        López = explorer
+        name = "Ruy López de Villalobos"  # Ruy López de Villalobos
+        type = explorer
         fire = 2
         shock = 2
         manuever = 4
-        siege = 0death_date
-         = 1544.1.1
+        siege = 0
+        death_date = 1544.1.1
     }
 }
 1542.1.1 = {
     leader = {
-        name = "E."  # E.
-        Filiberto = generalfire
-         = 1death_date
-         = 1559.1.1
+        name = "E. Filiberto di Savoia"  # E. Filiberto di Savoia
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1559.1.1
     }
 }
 1544.1.1 = {
     leader = {
-        name = "Lope"  # Lope
-        de = conquistadorfire
-         = 0death_date
-         = 1561.10.6
+        name = "Lope de Aguirre"  # Lope de Aguirre
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1561.10.6
     }
 }
 1556.1.16 = {
@@ -477,10 +589,13 @@ national_focus = MIL
 }
 1560.1.1 = {
     leader = {
-        name = "Bernardino"  # Bernardino
-        de = generalfire
-         = 0death_date
-         = 1578.1.1
+        name = "Bernardino de Mendoza"  # Bernardino de Mendoza
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1578.1.1
     }
 }
 1561.6.1 = {
@@ -488,70 +603,79 @@ national_focus = MIL
 }
 1564.1.1 = {
     leader = {
-        name = "Alvaro"  # Alvaro
-        de = admiralfire
-         = 0death_date
-         = 1588.2.9
+        name = "Alvaro de Bazán"  # Alvaro de Bazán
+        type = admiral
+        fire = 5
+        shock = 5
+        manuever = 5
+        siege = 0
+        death_date = 1588.2.9
     }
 }
 1564.11.11 = {
     leader = {
-        name = "Miguel"  # Miguel
-        López = conquistadorfire
-         = 0death_date
-         = 1571.6.24
+        name = "Miguel López de Legazpi"  # Miguel López de Legazpi
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1571.6.24
     }
 }
 1564.11.21 = {
     leader = {
-        name = "Martín"  # Martín
-        de = conquistador
+        name = "Martín de Goiti"  # Martín de Goiti
+        type = conquistador
         fire = 2
         shock = 3
         manuever = 3
-        siege = 0death_date
-         = 1574.1.1
+        siege = 0
+        death_date = 1574.1.1
     }
 }
 1564.11.21 = {
     leader = {
-        name = "Juan"  # Juan
-        de = conquistador
+        name = "Juan de Salcedo"  # Juan de Salcedo
+        type = conquistador
         fire = 3
         shock = 3
         manuever = 3
-        siege = 0death_date
-         = 1576.3.11
+        siege = 0
+        death_date = 1576.3.11
     }
 }
 1565.1.1 = {
     leader = {
-        name = "Pedro"  # Pedro
-        Menéndez = conquistador
+        name = "Pedro Menéndez de Avilés"  # Pedro Menéndez de Avilés
+        type = conquistador
         fire = 3
         shock = 3
         manuever = 3
-        siege = 0death_date
-         = 1574.9.16
+        siege = 0
+        death_date = 1574.9.16
     }
 }
 1567.11.20 = {
     leader = {
-        name = "Álvaro"  # Álvaro
-        de = explorer
+        name = "Álvaro de Mendaña"  # Álvaro de Mendaña
+        type = explorer
         fire = 2
         shock = 2
         manuever = 4
-        siege = 0death_date
-         = 1595.11.3
+        siege = 0
+        death_date = 1595.11.3
     }
 }
 1568.1.1 = {
     leader = {
-        name = "Juan"  # Juan
-        de = generalfire
-         = 0death_date
-         = 1571.1.1
+        name = "Juan de Austria"  # Juan de Austria
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 2
+        siege = 0
+        death_date = 1571.1.1
     }
 }
 1568.12.25 = {
@@ -575,26 +699,35 @@ national_focus = MIL
 }
 1571.1.1 = {
     leader = {
-        name = "Juan"  # Juan
-        de = admiralfire
-         = 0death_date
-         = 1576.1.1
+        name = "Juan de Austria"  # Juan de Austria
+        type = admiral
+        fire = 4
+        shock = 5
+        manuever = 4
+        siege = 0
+        death_date = 1576.1.1
     }
 }
 1572.1.1 = {
     leader = {
-        name = "Alessandro"  # Alessandro
-        Farnese" = generalfire
-         = 2death_date
-         = 1586.9.18
+        name = "Alessandro Farnese"  # Alessandro Farnese
+        type = general
+        fire = 5
+        shock = 6
+        manuever = 4
+        siege = 2
+        death_date = 1586.9.18
     }
 }
 1576.1.1 = {
     leader = {
-        name = "Juan"  # Juan
-        de = generalfire
-         = 0death_date
-         = 1578.8.1
+        name = "Juan de Austria"  # Juan de Austria
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 2
+        siege = 0
+        death_date = 1578.8.1
     }
 }
 1578.4.14 = {
@@ -612,34 +745,46 @@ national_focus = MIL
 }
 1582.1.1 = {
     leader = {
-        name = "Pedro"  # Pedro
-        Enríquez = generalfire
-         = 1death_date
-         = 1610.7.22
+        name = "Pedro Enríquez de Acevedo"  # Pedro Enríquez de Acevedo
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1610.7.22
     }
 }
 1588.2.9 = {
     leader = {
-        name = "Duque"  # Duque
-        de = admiralfire
-         = 0death_date
-         = 1615.1.1
+        name = "Duque de Medina-Sidonia"  # Duque de Medina-Sidonia
+        type = admiral
+        fire = 1
+        shock = 1
+        manuever = 2
+        siege = 0
+        death_date = 1615.1.1
     }
 }
 1595.1.1 = {
     leader = {
-        name = "Juan"  # Juan
-        de = conquistadorfire
-         = 0death_date
-         = 1626.1.1
+        name = "Juan de Oñate"  # Juan de Oñate
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1626.1.1
     }
 }
 1598.1.1 = {
     leader = {
-        name = "Luis"  # Luis
-        Fajardo" = admiralfire
-         = 0death_date
-         = 1617.5.21
+        name = "Luis Fajardo"  # Luis Fajardo
+        type = admiral
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1617.5.21
     }
 }
 1598.9.13 = {
@@ -669,26 +814,35 @@ national_focus = MIL
 }
 1602.1.1 = {
     leader = {
-        name = "Sebastián"  # Sebastián
-        Vizcaíno" = explorerfire
-         = 0death_date
-         = 1623.1.1
+        name = "Sebastián Vizcaíno"  # Sebastián Vizcaíno
+        type = explorer
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1623.1.1
     }
 }
 1603.9.29 = {
     leader = {
-        name = "Ambrogio"  # Ambrogio
-        Spinola"type = generalfire
-         = 1death_date
-         = 1630.8.25
+        name = "Ambrogio Spinola"  # Ambrogio Spinola
+        type = general
+        fire = 5
+        shock = 5
+        manuever = 3
+        siege = 1
+        death_date = 1630.8.25
     }
 }
 1605.1.1 = {
     leader = {
-        name = "Váez"  # Váez
-        de = explorerfire
-         = 0death_date
-         = 1610.1.1
+        name = "Váez de Torres"  # Váez de Torres
+        type = explorer
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1610.1.1
     }
 }
 1605.4.8 = {
@@ -706,13 +860,13 @@ national_focus = MIL
 }
 1605.12.21 = {
     leader = {
-        name = "Pedro"  # Pedro
-        Fernández = explorer
+        name = "Pedro Fernández de Quirós"  # Pedro Fernández de Quirós
+        type = explorer
         fire = 2
-        shock = 3manuever
-         = 5
-        siege = 0death_date
-         = 1607.1.1
+        shock = 3
+        manuever = 5
+        siege = 0
+        death_date = 1607.1.1
     }
 }
 1606.1.1 = {
@@ -720,10 +874,13 @@ national_focus = MIL
 }
 1609.7.15 = {
     leader = {
-        name = "Antonio"  # Antonio
-        de = admiralfire
-         = 0death_date
-         = 1640.6.7
+        name = "Antonio de Oquendo"  # Antonio de Oquendo
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1640.6.7
     }
 }
 1619.3.20 = {
@@ -751,18 +908,24 @@ national_focus = MIL
 }
 1630.1.1 = {
     leader = {
-        name = "Fernando"  # Fernando
-        Cardenal-Infante" = generalfire
-         = 1death_date
-         = 1641.11.9
+        name = "Fernando Cardenal-Infante"  # Fernando Cardenal-Infante
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1641.11.9
     }
 }
 1636.1.1 = {
     leader = {
-        name = "Francisco"  # Francisco
-        de = generalfire
-         = 0death_date
-         = 1651.1.1
+        name = "Francisco de Melo"  # Francisco de Melo
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1651.1.1
     }
 }
 1640.1.1 = {
@@ -784,10 +947,13 @@ national_focus = MIL
 }
 1647.7.7 = {
     leader = {
-        name = "Juan"  # Juan
-        José = generalfire
-         = 0death_date
-         = 1663.6.4
+        name = "Juan José de Austria"  # Juan José de Austria
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1663.6.4
     }
 }
 1648.1.30 = {
@@ -808,13 +974,13 @@ national_focus = MIL
 }
 1664.1.1 = {
     leader = {
-        name = "L."  # L.
-        de = general
+        name = "L. de Benavides Carrillo"  # L. de Benavides Carrillo
+        type = general
         fire = 2
         shock = 2
         manuever = 2
-        siege = 0death_date
-         = 1665.6.17
+        siege = 0
+        death_date = 1665.6.17
     }
 }
 1665.9.17 = {
@@ -907,18 +1073,24 @@ national_focus = MIL
 }
 1717.1.1 = {
     leader = {
-        name = "Marqués"  # Marqués
-        de = generalfire
-         = 0death_date
-         = 1724.1.1
+        name = "Marqués de Lede"  # Marqués de Lede
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1724.1.1
     }
 }
 1723.2.16 = {
     leader = {
-        name = "Blas"  # Blas
-        de = admiralfire
-         = 0death_date
-         = 1741.9.7
+        name = "Blas de Lezo"  # Blas de Lezo
+        type = admiral
+        fire = 5
+        shock = 5
+        manuever = 5
+        siege = 0
+        death_date = 1741.9.7
     }
 }
 1724.1.14 = {
@@ -978,18 +1150,24 @@ national_focus = MIL
 }
 1730.1.1 = {
     leader = {
-        name = "Luis"  # Luis
-        de = admiralfire
-         = 0death_date
-         = 1796.7.29
+        name = "Luis de Córdova"  # Luis de Córdova
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1796.7.29
     }
 }
 1732.1.1 = {
     leader = {
-        name = "Marqués"  # Marqués
-        de = admiralfire
-         = 0death_date
-         = 1772.1.1
+        name = "Marqués de la Victoria"  # Marqués de la Victoria
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1772.1.1
     }
 }
 1746.7.9 = {
@@ -1063,42 +1241,57 @@ national_focus = MIL
 }
 1769.6.29 = {
     leader = {
-        name = "Gaspar"  # Gaspar
-        de = conquistadorfire
-         = 0death_date
-         = 1770.6.9
+        name = "Gaspar de Portolá"  # Gaspar de Portolá
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1770.6.9
     }
 }
 1770.1.1 = {
     leader = {
-        name = "Antonio"  # Antonio
-        Barceló" = admiralfire
-         = 0death_date
-         = 1797.1.1
+        name = "Antonio Barceló"  # Antonio Barceló
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1797.1.1
     }
 }
 1775.1.1 = {
     leader = {
-        name = "Bernardo"  # Bernardo
-        de = generalfire
-         = 0death_date
-         = 1785.1.1
+        name = "Bernardo de Gálvez"  # Bernardo de Gálvez
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1785.1.1
     }
 }
 1775.1.1 = {
     leader = {
-        name = "Silvestre"  # Silvestre
-        V. = explorerfire
-         = 0death_date
-         = 1779.1.1
+        name = "Silvestre V. de Escalante"  # Silvestre V. de Escalante
+        type = explorer
+        fire = 1
+        shock = 1
+        manuever = 3
+        siege = 0
+        death_date = 1779.1.1
     }
 }
 1785.1.1 = {
     leader = {
-        name = "Federico"  # Federico
-        Carlos = admiralfire
-         = 0death_date
-         = 1806.1.1
+        name = "Federico Carlos Gravina"  # Federico Carlos Gravina
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1806.1.1
     }
 }
 1788.12.14 = {
@@ -1136,10 +1329,13 @@ national_focus = MIL
 }
 1793.1.1 = {
     leader = {
-        name = "F.J."  # F.J.
-        Castaños"type = generalfire
-         = 1death_date
-         = 1806.5.6
+        name = "F.J. Castaños"  # F.J. Castaños
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 1
+        death_date = 1806.5.6
     }
 }
 1808.3.19 = {
@@ -1182,29 +1378,74 @@ national_focus = MIL
 }
 1813.12.11 = {
     leader = {
-        name = "F.J."  # F.J.
-        Castaños"type = generalfire
-         = 1death_date
-         = 1852.9.24
+        name = "F.J. Castaños"  # F.J. Castaños
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 1
+        death_date = 1852.9.24
     }
+}
+1813.12.11 = {
     leader = {
-        name = "José
-        de = generalfire
-         = 1death_date
-         = 1823.1.1
-        name = "Agustín
-        Maroto"type = generalfire
-         = 1833.9.29
-        Osorio"type = generalfire
-         = 1819.1.1
-        Olañeta"type = generalfire
-         = 1825.4.2
-        Iturbide"type = generalfire
-         = 1820.1.1
+        name = "José de Palafox"  # José de Palafox
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1823.1.1
     }
+}
+1813.12.11 = {
+    leader = {
+        name = "Rafael Maroto"  # Rafael Maroto
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1833.9.29
+    }
+}
+1813.12.11 = {
+    leader = {
+        name = "Mariano Osorio"  # Mariano Osorio
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 1
+        death_date = 1819.1.1
+    }
+}
+1813.12.11 = {
+    leader = {
+        name = "Pedro Olañeta"  # Pedro Olañeta
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 1
+        death_date = 1825.4.2
+    }
+}
+1813.12.11 = {
+    leader = {
+        name = "Agustín Iturbide"  # Agustín Iturbide
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1820.1.1
+    }
+}
+1813.12.11 = {
     monarch = {
-        name = "Fernando VII"
-        dynasty = "de Bourbon"
+        name = "Fernando VII"  # Fernando VII
+        dynasty = "德·波旁"  # de Bourbon
         adm = 1
         dip = 2
         mil = 1
@@ -1234,56 +1475,5 @@ national_focus = MIL
         adm = 1
         dip = 1
         mil = 1
-    }
-}
-1524.9.13 = {
-    leader = {
-        name = "Diego"  # Diego
-    }
-}
-1524.9.13 = {
-    leader = {
-        name = "Francisco"  # Francisco
-    }
-}
-1526.12.1 = {
-    leader = {
-        name = "Francisco"  # Francisco
-    }
-}
-1526.12.1 = {
-    leader = {
-        name = "Sebastián"  # Sebastián
-    }
-}
-1813.12.11 = {
-    leader = {
-        name = "José"  # José
-    }
-}
-1813.12.11 = {
-    leader = {
-        name = "Rafael"  # Rafael
-    }
-}
-1813.12.11 = {
-    leader = {
-        name = "Mariano"  # Mariano
-    }
-}
-1813.12.11 = {
-    leader = {
-        name = "Pedro"  # Pedro
-    }
-}
-1813.12.11 = {
-    leader = {
-        name = "Agustín"  # Agustín
-    }
-}
-1813.12.11 = {
-    monarch = {
-        name = "Fernando VII"  # Fernando VII
-        dynasty = "德·波旁"  # de Bourbon
     }
 }

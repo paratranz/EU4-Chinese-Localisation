@@ -31,10 +31,13 @@ national_focus = ADM
 }
 1420.1.1 = {
     leader = {
-        name = "Yuri"  # Yuri
-        Patrikeev"type = generalfire
-         = 1death_date
-         = 1439.1.1
+        name = "Yuri Patrikeev"  # Yuri Patrikeev
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 1
+        death_date = 1439.1.1
     }
 }
 1424.2.27 = {
@@ -52,10 +55,13 @@ national_focus = ADM
 }
 1430.1.1 = {
     leader = {
-        name = "Dmitry"  # Dmitry
-        Shemiaka"type = generalfire
-         = 0death_date
-         = 1453.1.1
+        name = "Dmitry Shemiaka"  # Dmitry Shemiaka
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1453.1.1
     }
 }
 1433.1.1 = {
@@ -86,25 +92,35 @@ national_focus = ADM
 }
 1446.1.1 = {
     leader = {
-        name = "Fedor"  # Fedor
-        Basenok" = generalfire
-         = 0death_date
-         = 1460.1.1
+        name = "Fedor Basenok"  # Fedor Basenok
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1460.1.1
     }
 }
 1447.1.1 = {
     leader = {
-        name = "Ivan"  # Ivan
-        Obolenski-Striga" = generalfire
-         = 0death_date
-         = 1469.1.1
+        name = "Ivan Obolenski-Striga"  # Ivan Obolenski-Striga
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1469.1.1
     }
 }
 1460.1.1 = {
     leader = {
         name = "Kholmski"  # Kholmski
-         = 1death_date
-         = 1495.1.1
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 1
+        death_date = 1495.1.1
     }
 }
 1462.3.28 = {
@@ -162,8 +178,10 @@ national_focus = ADM
         siege = 0
         death_date = 1520.1.1
     }
+}
+1495.1.1 = {
     leader = {
-        name = "Ivan A. Chelyadnin"
+        name = "Ivan A. Chelyadnin"  # Ivan A. Chelyadnin
         type = general
         fire = 1
         shock = 3
@@ -174,9 +192,4 @@ national_focus = ADM
 }
 1503.4.1 = {
     capital = 297
-}
-1495.1.1 = {
-    leader = {
-        name = "Ivan A. Chelyadnin"  # Ivan A. Chelyadnin
-    }
 }

@@ -31,10 +31,13 @@ capital = 1951
         dip = 3
         mil = 5
         leader = {
-            name = "János"  # János
-            Hunyadi"type = generalfire
-             = 1death_date
-             = 1456.8.11
+            name = "János Hunyadi"  # János Hunyadi
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 4
+            siege = 1
+            death_date = 1456.8.11
         }
     }
 }

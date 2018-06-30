@@ -45,10 +45,13 @@ religious_school = maliki_school
 }
 1482.1.1 = {
     leader = {
-        name = "Demba"  # Demba
-        Dondi" = generalfire
-         = 1death_date
-         = 1494.1.1
+        name = "Demba Dondi"  # Demba Dondi
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 2
+        siege = 1
+        death_date = 1494.1.1
     }
 }
 1500.1.1 = {

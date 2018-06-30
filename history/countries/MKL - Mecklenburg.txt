@@ -214,10 +214,12 @@ fixed_capital = 46
 1631.1.1 = {
     leave_league = catholic
     join_league = protestant
+}
+1631.1.1 = {
     heir = {
-        name = "Christian Ludwig"
-        monarch_name = "Christian Ludwig I"
-        dynasty = "von Mecklenburg"
+        name = "Christian Ludwig"  # Christian Ludwig
+        monarch_name = "Christian Ludwig I"  # Christian Ludwig I
+        dynasty = "冯·梅克伦堡"  # von Mecklenburg
         birth_date = 1623.12.1
         death_date = 1692.6.21
         claim = 95
@@ -368,12 +370,5 @@ fixed_capital = 46
         adm = 2
         dip = 2
         mil = 2
-    }
-}
-1631.1.1 = {
-    heir = {
-        name = "Christian Ludwig"  # Christian Ludwig
-        monarch_name = "Christian Ludwig I"  # Christian Ludwig I
-        dynasty = "冯·梅克伦堡"  # von Mecklenburg
     }
 }

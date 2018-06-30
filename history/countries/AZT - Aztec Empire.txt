@@ -69,10 +69,12 @@ add_army_professionalism = 0.1
         dip = 3
         mil = 5
         leader = {
-            name = "蒙特苏马"  # Moctezuma
-            I" = generalfire
-             = 4siege
-             = 0
+            name = "蒙特苏马"  # Moctezuma I
+            type = general
+            fire = 3
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -84,10 +86,12 @@ add_army_professionalism = 0.1
         dip = 3
         mil = 5
         leader = {
-            name = "蒙特苏马"  # Moctezuma
-            I" = generalfire
-             = 4siege
-             = 0
+            name = "蒙特苏马"  # Moctezuma I
+            type = general
+            fire = 3
+            shock = 4
+            manuever = 4
+            siege = 0
         }
     }
 }
@@ -148,8 +152,11 @@ add_army_professionalism = 0.1
         mil = 6
         leader = {
             name = "阿维特索特尔"  # Ahuitzotl
-             = 3siege
-             = 0
+            type = general
+            fire = 3
+            shock = 5
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -162,8 +169,11 @@ add_army_professionalism = 0.1
         mil = 6
         leader = {
             name = "阿维特索特尔"  # Ahuitzotl
-             = 3siege
-             = 0
+            type = general
+            fire = 3
+            shock = 5
+            manuever = 3
+            siege = 0
         }
     }
 }
@@ -179,10 +189,12 @@ add_army_professionalism = 0.1
         dip = 0
         mil = 0
         leader = {
-            name = "蒙特苏马"  # Moctezuma
-            II" = generalfire
-             = 2siege
-             = 0
+            name = "蒙特苏马"  # Moctezuma II
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 2
+            siege = 0
         }
     }
 }
@@ -194,10 +206,12 @@ add_army_professionalism = 0.1
         dip = 0
         mil = 0
         leader = {
-            name = "蒙特苏马"  # Moctezuma
-            II" = generalfire
-             = 2siege
-             = 0
+            name = "蒙特苏马"  # Moctezuma II
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 2
+            siege = 0
         }
     }
 }

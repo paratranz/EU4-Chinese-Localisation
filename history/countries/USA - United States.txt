@@ -14,67 +14,101 @@ capital = 965
 }
 1750.1.1 = {
     leader = {
-        name = "巴伦"  # Baron
-        von = generalfire
-         = 0
+        name = "巴伦"  # Baron von Steuben
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
         death_date = 1794.11.28
     }
 }
 1755.1.1 = {
     leader = {
-        name = "安东尼·韦恩"  # Anthony
-        Wayne" = generalfire
-         = 0
-         = 1795.12.15
+        name = "安东尼·韦恩"  # Anthony Wayne
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 5
+        siege = 0
+        death_date = 1795.12.15
     }
 }
 1765.1.1 = {
     leader = {
-        name = "乔治·华盛顿"  # George
-        Washington" = generalfire
-         = 0
-         = 1789.4.30
+        name = "乔治·华盛顿"  # George Washington
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 6
+        siege = 0
+        death_date = 1789.4.30
     }
 }
 1770.1.1 = {
     leader = {
-        name = "霍雷肖·盖茨"  # Horatio
-        Gates" = generalfire
-         = 0
-         = 1806.4.10
+        name = "霍雷肖·盖茨"  # Horatio Gates
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1806.4.10
     }
 }
 1770.1.1 = {
     leader = {
-        name = "查尔斯·李"  # Charles
-        Lee" = generalfire
-         = 0
-         = 1782.10.2
+        name = "查尔斯·李"  # Charles Lee
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1782.10.2
     }
+}
+1770.1.1 = {
     leader = {
-        name = "Nathanael
-        Greene" = generalfire
-         = 0
-         = 1786.6.19
-        name = "Benjamin
-        Lincoln" = generalfire
-         = 1810.5.9
+        name = "纳撒内尔·格林"  # Nathanael Greene
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1786.6.19
+    }
+}
+1770.1.1 = {
+    leader = {
+        name = "本杰明·林肯"  # Benjamin Lincoln
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1810.5.9
     }
 }
 1775.1.1 = {
     leader = {
-        name = "本尼迪克特·阿诺德"  # Benedict
-        Arnold" = generalfire
-         = 0
-         = 1780.7.1
+        name = "本尼迪克特·阿诺德"  # Benedict Arnold
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1780.7.1
     }
 }
 1776.1.1 = {
     leader = {
-        name = "塔德乌什"  # Thaddeus
-        Kosciuszko" = generalfire
-         = 0
-         = 1784.7.1
+        name = "塔德乌什"  # Thaddeus Kosciuszko
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1784.7.1
     }
 }
 1776.1.1 = {
@@ -85,26 +119,35 @@ capital = 965
 }
 1776.12.1 = {
     leader = {
-        name = "乔治·罗杰斯·克拉克"  # George
-        Rogers = generalfire
-         = 0
-         = 1793.2.2
+        name = "乔治·罗杰斯·克拉克"  # George Rogers Clark
+        type = general
+        fire = 1
+        shock = 1
+        manuever = 4
+        siege = 0
+        death_date = 1793.2.2
     }
 }
 1777.1.1 = {
     leader = {
-        name = "卡齐米日"  # Casimir
-        Pulaski" = generalfire
-         = 0
-         = 1779.10.11
+        name = "卡齐米日"  # Casimir Pulaski
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1779.10.11
     }
 }
 1780.1.1 = {
     leader = {
-        name = "吉尔伯特"  # Gilbert
-        Lafayette" = generalfire
-         = 0
-         = 1834.5.20
+        name = "吉尔伯特"  # Gilbert Lafayette
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1834.5.20
     }
 }
 1789.3.4 = {
@@ -117,10 +160,13 @@ capital = 965
         dip = 5
         mil = 6
         leader = {
-            name = "乔治·华盛顿"  # George
-            Washington" = generalfire
-             = 0
-             = 1799.12.14
+            name = "乔治·华盛顿"  # George Washington
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 6
+            siege = 0
+            death_date = 1799.12.14
         }
     }
 }
@@ -137,10 +183,13 @@ capital = 965
 }
 1800.1.1 = {
     leader = {
-        name = "所罗门"  # Solomon
-        van = generalfire
-         = 0
-         = 1852.4.23
+        name = "所罗门"  # Solomon van Rensselaer
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1852.4.23
     }
 }
 1800.5.14 = {
@@ -159,17 +208,23 @@ capital = 965
 }
 1805.1.1 = {
     leader = {
-        name = "威廉"  # William
-        Hull"type = generalfire
-         = 0
-         = 1825.11.29
+        name = "威廉"  # William Hull
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1825.11.29
     }
 }
 1808.1.1 = {
     leader = {
-        name = "韦德"  # Wade
-        Hampton = generalfire
-         = 0
+        name = "韦德"  # Wade Hampton I
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 0
         death_date = 1814.4.6
     }
 }
@@ -183,34 +238,46 @@ capital = 965
 }
 1810.1.1 = {
     leader = {
-        name = "威廉"  # William
-        H. = generalfire
-         = 1
-         = 1813.10.5
+        name = "威廉"  # William H. Harrison
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 1
+        death_date = 1813.10.5
     }
 }
 1810.1.1 = {
     leader = {
-        name = "奧利弗"  # Oliver
-        Hazard = admiralfire
-         = 0
-         = 1819.8.29
+        name = "奧利弗"  # Oliver Hazard Perry
+        type = admiral
+        fire = 5
+        shock = 4
+        manuever = 5
+        siege = 0
+        death_date = 1819.8.29
     }
 }
 1812.1.1 = {
     leader = {
-        name = "詹姆斯"  # James
-        Wilkinson"type = generalfire
-         = 0
-         = 1825.12.28
+        name = "詹姆斯"  # James Wilkinson
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1825.12.28
     }
 }
 1812.1.27 = {
     leader = {
-        name = "亨利"  # Henry
-        Dearborn"type = generalfire
-         = 0
-         = 1813.7.6
+        name = "亨利"  # Henry Dearborn
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1813.7.6
     }
 }
 1817.3.4 = {
@@ -219,15 +286,5 @@ capital = 965
         adm = 6
         dip = 5
         mil = 3
-    }
-}
-1770.1.1 = {
-    leader = {
-        name = "纳撒内尔·格林"  # Nathanael
-    }
-}
-1770.1.1 = {
-    leader = {
-        name = "本杰明·林肯"  # Benjamin
     }
 }

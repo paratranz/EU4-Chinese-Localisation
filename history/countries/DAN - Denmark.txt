@@ -94,9 +94,12 @@ capital = 12
         dip = 3
         mil = 4
         leader = {
-            name = "汉斯"  # Hans"type
-             = 2siege
-             = 0
+            name = "汉斯"  # Hans
+            type = general
+            fire = 2
+            shock = 2
+            manuever = 2
+            siege = 0
         }
     }
     queen = {
@@ -123,27 +126,35 @@ capital = 12
         dip = 1
         mil = 0
         leader = {
-            name = "克里斯蒂安"  # Christian
-            II"type = generalfire
-             = 2siege
-             = 1
+            name = "克里斯蒂安"  # Christian II
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 2
+            siege = 1
         }
     }
 }
 1488.1.1 = {
     leader = {
-        name = "Junker"  # Junker
-        Schlentz" = generalfire
-         = 0death_date
-         = 1500.1.1
+        name = "Junker Schlentz"  # Junker Schlentz
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1500.1.1
     }
 }
 1504.1.1 = {
     leader = {
-        name = "Søren"  # Søren
-        Norby" = admiralfire
-         = 0death_date
-         = 1530.1.1
+        name = "Søren Norby"  # Søren Norby
+        type = admiral
+        fire = 2
+        shock = 5
+        manuever = 3
+        siege = 0
+        death_date = 1530.1.1
     }
 }
 1513.2.20 = {
@@ -155,10 +166,12 @@ capital = 12
         dip = 1
         mil = 0
         leader = {
-            name = "克里斯蒂安"  # Christian
-            II"type = generalfire
-             = 2siege
-             = 1
+            name = "克里斯蒂安"  # Christian II
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 2
+            siege = 1
         }
     }
 }
@@ -190,17 +203,23 @@ capital = 12
 }
 1519.1.1 = {
     leader = {
-        name = "奥托"  # Otto
-        Krumpen" = generalfire
-         = 0death_date
-         = 1569.1.1
+        name = "奥托"  # Otto Krumpen
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1569.1.1
     }
 }
 1523.1.1 = {
     leader = {
-        name = "Johan"  # Johan
-        Rantzau" = generalfire
-         = 0
+        name = "Johan Rantzau"  # Johan Rantzau
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
         death_date = 1565.12.12
     }
 }
@@ -240,10 +259,13 @@ capital = 12
 }
 1526.1.1 = {
     leader = {
-        name = "Vincens"  # Vincens
-        Lunge" = generalfire
-         = 0death_date
-         = 1536.1.3
+        name = "Vincens Lunge"  # Vincens Lunge
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1536.1.3
     }
 }
 1533.4.12 = {
@@ -282,10 +304,13 @@ capital = 12
 }
 1535.1.1 = {
     leader = {
-        name = "Peder"  # Peder
-        Skram" = admiralfire
-         = 0death_date
-         = 1581.7.11
+        name = "Peder Skram"  # Peder Skram
+        type = admiral
+        fire = 3
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1581.7.11
     }
 }
 1536.1.1 = {
@@ -294,10 +319,13 @@ capital = 12
 }
 1540.1.1 = {
     leader = {
-        name = "Herluf"  # Herluf
-        Trolle" = admiralfire
-         = 0death_date
-         = 1565.6.25
+        name = "Herluf Trolle"  # Herluf Trolle
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1565.6.25
     }
 }
 1559.1.3 = {
@@ -312,10 +340,13 @@ capital = 12
 }
 1562.1.1 = {
     leader = {
-        name = "Daniel"  # Daniel
-        Rantzau" = generalfire
-         = 1death_date
-         = 1569.11.11
+        name = "Daniel Rantzau"  # Daniel Rantzau
+        type = general
+        fire = 4
+        shock = 5
+        manuever = 3
+        siege = 1
+        death_date = 1569.11.11
     }
 }
 1572.7.20 = {
@@ -361,10 +392,12 @@ capital = 12
         dip = 4
         mil = 0
         leader = {
-            name = "克里斯蒂安"  # Christian
-            IV"type = generalfire
-             = 2siege
-             = 1
+            name = "克里斯蒂安"  # Christian IV
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 2
+            siege = 1
         }
     }
 }
@@ -396,18 +429,24 @@ capital = 12
 }
 1610.1.1 = {
     leader = {
-        name = "Jens"  # Jens
-        Munk" = explorerfire
-         = 0death_date
-         = 1628.1.1
+        name = "Jens Munk"  # Jens Munk
+        type = explorer
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1628.1.1
     }
 }
 1610.1.1 = {
     leader = {
-        name = "Gert"  # Gert
-        Rantzau" = generalfire
-         = 0death_date
-         = 1627.1.1
+        name = "Gert Rantzau"  # Gert Rantzau
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1627.1.1
     }
 }
 1615.12.31 = {
@@ -425,10 +464,13 @@ capital = 12
 }
 1618.1.1 = {
     leader = {
-        name = "Ove"  # Ove
-        Gjedde" = conquistadorfire
-         = 0death_date
-         = 1660.1.1
+        name = "Ove Gjedde"  # Ove Gjedde
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1660.1.1
     }
 }
 1618.5.23 = {
@@ -436,10 +478,13 @@ capital = 12
 }
 1628.1.1 = {
     leader = {
-        name = "Peder"  # Peder
-        Galt" = admiralfire
-         = 0death_date
-         = 1644.1.1
+        name = "Peder Galt"  # Peder Galt
+        type = admiral
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1644.1.1
     }
 }
 1629.5.22 = {
@@ -447,41 +492,56 @@ capital = 12
 }
 1635.1.1 = {
     leader = {
-        name = "Anders"  # Anders
-        Bille" = generalfire
-         = 0death_date
-         = 1657.11.10
+        name = "Anders Bille"  # Anders Bille
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1657.11.10
     }
 }
 1635.1.1 = {
     leader = {
-        name = "Hannibal"  # Hannibal
-        Sehested" = generalfire
-         = 0death_date
-         = 1666.9.23
+        name = "Hannibal Sehested"  # Hannibal Sehested
+        type = general
+        fire = 3
+        shock = 5
+        manuever = 3
+        siege = 0
+        death_date = 1666.9.23
     }
 }
 1637.1.1 = {
     leader = {
-        name = "Ebbe"  # Ebbe
-        Ulfeld" = generalfire
-         = 0death_date
-         = 1645.1.1
+        name = "Ebbe Ulfeld"  # Ebbe Ulfeld
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 2
+        siege = 0
+        death_date = 1645.1.1
     }
 }
 1648.1.1 = {
     leader = {
-        name = "Hans"  # Hans
-        Schack" = generalfire
-         = 0death_date
-         = 1676.2.27
+        name = "Hans Schack"  # Hans Schack
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1676.2.27
     }
 }
 1648.1.1 = {
     leader = {
-        name = "Tønne"  # Tønne
-        Huitfeldt" = generalfire
-         = 2
+        name = "Tønne Huitfeldt"  # Tønne Huitfeldt
+        type = general
+        fire = 2
+        shock = 1
+        manuever = 1
+        siege = 2
         death_date = 1660.1.1
     }
 }
@@ -529,48 +589,68 @@ capital = 12
 }
 1650.1.1 = {
     leader = {
-        name = "Ivar"  # Ivar
-        Krabbe" = generalfire
-         = 0death_date
-         = 1666.10.30
+        name = "Ivar Krabbe"  # Ivar Krabbe
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1666.10.30
     }
 }
 1650.1.1 = {
     leader = {
         name = "Eberstein"  # Eberstein
-         = 0death_date
-         = 1681.8.28
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1681.8.28
     }
 }
 1651.1.1 = {
     leader = {
-        name = "Jørgen"  # Jørgen
-        Bjelke" = generalfire
-         = 0death_date
-         = 1697.1.1
+        name = "Jørgen Bjelke"  # Jørgen Bjelke
+        type = general
+        fire = 1
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1697.1.1
     }
 }
 1657.1.1 = {
     leader = {
-        name = "Niels"  # Niels
-        Juel" = admiralfire
-         = 0death_date
-         = 1697.4.8
+        name = "Niels Juel"  # Niels Juel
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 0
+        death_date = 1697.4.8
     }
 }
 1662.1.1 = {
     leader = {
-        name = "Cort"  # Cort
-        Adelaer" = admiralfire
-         = 0death_date
-         = 1675.1.1
+        name = "Cort Adelaer"  # Cort Adelaer
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1675.1.1
     }
 }
 1664.1.1 = {
     leader = {
         name = "Holstein-Plön"  # Holstein-Plön
-         = 0death_date
-         = 1676.1.1
+        type = general
+        fire = 4
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1676.1.1
     }
 }
 1670.2.10 = {
@@ -582,10 +662,12 @@ capital = 12
         dip = 3
         mil = 2
         leader = {
-            name = "克里斯蒂安"  # Christian
-            V"type = generalfire
-             = 3siege
-             = 0
+            name = "克里斯蒂安"  # Christian V
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
     queen = {
@@ -618,42 +700,57 @@ capital = 12
 }
 1673.1.1 = {
     leader = {
-        name = "Ulrich"  # Ulrich
-        Gyldenlöwe" = generalfire
-         = 0death_date
-         = 1676.1.1
+        name = "Ulrich Gyldenlöwe"  # Ulrich Gyldenlöwe
+        type = general
+        fire = 3
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1676.1.1
     }
 }
 1690.1.1 = {
     leader = {
-        name = "Andreas"  # Andreas
-        Harboe" = generalfire
-         = 0death_date
-         = 1706.1.1
+        name = "Andreas Harboe"  # Andreas Harboe
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1706.1.1
     }
 }
 1693.1.1 = {
     leader = {
-        name = "Frederik"  # Frederik
-        Gersdorff" = generalfire
-         = 0
+        name = "Frederik Gersdorff"  # Frederik Gersdorff
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
         death_date = 1724.1.1
     }
 }
 1693.1.1 = {
     leader = {
-        name = "弗里德里希"  # Friedrich
-        von = generalfire
-         = 0death_date
-         = 1704.1.1
+        name = "弗里德里希"  # Friedrich von Trampe
+        type = general
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1704.1.1
     }
 }
 1696.1.1 = {
     leader = {
-        name = "Christian"  # Christian
-        Gyldenlöwe" = generalfire
-         = 0death_date
-         = 1717.1.1
+        name = "Christian Gyldenlöwe"  # Christian Gyldenlöwe
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1717.1.1
     }
 }
 1699.8.27 = {
@@ -692,49 +789,68 @@ capital = 12
 }
 1700.1.1 = {
     leader = {
-        name = "Christian"  # Christian
-        Sehested" = admiralfire
-         = 0death_date
-         = 1740.1.1
+        name = "Christian Sehested"  # Christian Sehested
+        type = admiral
+        fire = 4
+        shock = 4
+        manuever = 3
+        siege = 0
+        death_date = 1740.1.1
     }
 }
 1700.1.1 = {
     leader = {
-        name = "Christian"  # Christian
-        Reventlow" = generalfire
-         = 0death_date
-         = 1713.1.1
+        name = "Christian Reventlow"  # Christian Reventlow
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1713.1.1
     }
 }
 1710.1.1 = {
     leader = {
         name = "Lützow"  # Lützow
-         = 0death_date
-         = 1720.1.1
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1720.1.1
     }
 }
 1711.1.1 = {
     leader = {
-        name = "Peter"  # Peter
-        Tordenskiold" = admiralfire
-         = 0death_date
-         = 1720.1.1
+        name = "Peter Tordenskiold"  # Peter Tordenskiold
+        type = admiral
+        fire = 2
+        shock = 6
+        manuever = 5
+        siege = 0
+        death_date = 1720.1.1
     }
 }
 1711.1.1 = {
     leader = {
-        name = "Poul"  # Poul
-        Løvenørn" = generalfire
-         = 0death_date
-         = 1730.1.1
+        name = "Poul Løvenørn"  # Poul Løvenørn
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1730.1.1
     }
 }
 1721.1.1 = {
     leader = {
-        name = "Hans"  # Hans
-        Egedes" = explorerfire
-         = 0death_date
-         = 1758.1.1
+        name = "Hans Egedes"  # Hans Egedes
+        type = explorer
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1758.1.1
     }
 }
 1721.4.4 = {
@@ -786,10 +902,13 @@ capital = 12
 }
 1745.1.1 = {
     leader = {
-        name = "Hans"  # Hans
-        Knudtzon" = admiralfire
-         = 0death_date
-         = 1780.1.1
+        name = "Hans Knudtzon"  # Hans Knudtzon
+        type = admiral
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1780.1.1
     }
 }
 1746.8.8 = {
@@ -841,10 +960,13 @@ capital = 12
 }
 1760.1.1 = {
     leader = {
-        name = "F.C."  # F.C.
-        Kaas" = admiralfire
-         = 0death_date
-         = 1775.1.1
+        name = "F.C. Kaas"  # F.C. Kaas
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1775.1.1
     }
 }
 1766.1.16 = {
@@ -883,10 +1005,13 @@ capital = 12
 }
 1780.1.1 = {
     leader = {
-        name = "Steen"  # Steen
-        Bille" = admiralfire
-         = 0death_date
-         = 1792.1.1
+        name = "Steen Bille"  # Steen Bille
+        type = admiral
+        fire = 3
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1792.1.1
     }
 }
 1808.3.15 = {

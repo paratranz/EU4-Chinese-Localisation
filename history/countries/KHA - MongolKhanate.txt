@@ -160,10 +160,12 @@ historical_rival = OIR
         dip = 0
         mil = 1
     }
+}
+1393.1.1 = {
     heir = {
-        name = "Gün Temür"
-        monarch_name = "Gün Temür"
-        dynasty = "Borjigin"
+        name = "Gün Temür"  # Gün Temür
+        monarch_name = "Gün Temür"  # Gün Temür
+        dynasty = "孛儿只斤"  # Borjigin
         birth_date = 1377.1.1
         death_date = 1402.1.1
         claim = 95
@@ -321,10 +323,13 @@ historical_rival = OIR
 }
 1479.1.1 = {
     leader = {
-        name = "Mandukhai"  # Mandukhai
-        Khatun" = generalfire
-         = 0death_date
-         = 1511.1.1
+        name = "Mandukhai Khatun"  # Mandukhai Khatun
+        type = general
+        fire = 1
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1511.1.1
     }
 }
 1490.1.1 = {
@@ -405,10 +410,12 @@ historical_rival = OIR
         dip = 4
         mil = 5
         leader = {
-            name = "Altan"  # Altan
-            Khan"type = generalfire
-             = 5siege
-             = 1
+            name = "Altan Khan"  # Altan Khan
+            type = general
+            fire = 3
+            shock = 5
+            manuever = 5
+            siege = 1
         }
     }
 }
@@ -485,12 +492,5 @@ historical_rival = OIR
         adm = 1
         dip = 1
         mil = 1
-    }
-}
-1393.1.1 = {
-    heir = {
-        name = "Gün Temür"  # Gün Temür
-        monarch_name = "Gün Temür"  # Gün Temür
-        dynasty = "孛儿只斤"  # Borjigin
     }
 }

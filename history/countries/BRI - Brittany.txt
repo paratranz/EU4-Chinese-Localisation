@@ -180,10 +180,12 @@ capital = 172
         dip = 2
         mil = 4
         leader = {
-            name = "Arthur"  # Arthur
-            de = generalfire
-             = 4siege
-             = 1
+            name = "Arthur de Dreux"  # Arthur de Dreux
+            type = general
+            fire = 4
+            shock = 4
+            manuever = 4
+            siege = 1
         }
     }
 }

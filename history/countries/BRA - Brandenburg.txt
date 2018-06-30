@@ -166,9 +166,13 @@ capital = 50
 }
 1499.1.1 = {
     leader = {
-        name = "卡齐米日"  # Casimir"type
-         = 1death_date
-         = 1527.9.21
+        name = "卡齐米日"  # Casimir
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 1
+        death_date = 1527.9.21
     }
 }
 1499.1.10 = {
@@ -209,10 +213,13 @@ capital = 50
 }
 1527.1.1 = {
     leader = {
-        name = "Georg"  # Georg
-        von = generalfire
-         = 0death_date
-         = 1528.8.20
+        name = "格奥尔格"  # Georg von Frundsberg
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1528.8.20
     }
 }
 1535.7.12 = {
@@ -226,8 +233,8 @@ capital = 50
     }
     queen = {
         country_of_origin = POL
-        name = "Hedwig"  # Hedwig
-        dynasty = "Jagiellon"  # Jagiellon
+        name = "海德薇格"  # Hedwig
+        dynasty = "雅盖隆"  # Jagiellon
         birth_date = 1513.3.15
         death_date = 1573.2.7
         female = yes
@@ -238,8 +245,8 @@ capital = 50
 }
 1537.7.12 = {
     heir = {
-        name = "Johann Georg"  # Johann Georg
-        monarch_name = "Johann Georg I"  # Johann Georg I
+        name = "约翰 格奥尔格"  # Johann Georg
+        monarch_name = "约翰 格奥尔格 I"  # Johann Georg I
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1525.9.11
         death_date = 1598.1.8
@@ -248,10 +255,12 @@ capital = 50
         dip = 6
         mil = 5
         leader = {
-            name = "Johann"  # Johann
-            Georg = generalfire
-             = 3siege
-             = 1
+            name = "约翰"  # Johann Georg I
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 3
+            siege = 1
         }
     }
 }
@@ -260,30 +269,35 @@ capital = 50
 }
 1543.1.1 = {
     leader = {
-        name = "Albrecht"  # Albrecht
-        Alcibiades"type = generalfire
-         = 1death_date
-         = 1557.1.8
+        name = "阿尔布雷希特"  # Albrecht Alcibiades
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 1
+        death_date = 1557.1.8
     }
 }
 1571.1.3 = {
     monarch = {
-        name = "Johann Georg I"  # Johann Georg I
+        name = "约翰 格奥尔格 I"  # Johann Georg I
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1525.9.11
         adm = 2
         dip = 6
         mil = 3
         leader = {
-            name = "Johann"  # Johann
-            Georg = generalfire
-             = 3siege
-             = 1
+            name = "约翰"  # Johann Georg I
+            type = general
+            fire = 2
+            shock = 3
+            manuever = 3
+            siege = 1
         }
     }
     queen = {
         country_of_origin = ANS
-        name = "Sabina"  # Sabina
+        name = "萨拜娜"  # Sabina
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1529.5.12
         death_date = 1575.11.2
@@ -295,8 +309,8 @@ capital = 50
 }
 1571.1.3 = {
     heir = {
-        name = "Joachim Friedrich"  # Joachim Friedrich
-        monarch_name = "Joachim Friedrich I"  # Joachim Friedrich I
+        name = "约阿希姆 腓特烈"  # Joachim Friedrich
+        monarch_name = "约阿希姆 腓特烈 I"  # Joachim Friedrich I
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1546.1.27
         death_date = 1608.7.18
@@ -309,8 +323,8 @@ capital = 50
 1577.10.6 = {
     queen = {
         country_of_origin = ANS
-        name = "Elisabeth"  # Elisabeth
-        dynasty = "Askanier"  # Askanier
+        name = "伊丽莎白"  # Elisabeth
+        dynasty = "阿斯坎尼"  # Askanier
         birth_date = 1563.9.15
         death_date = 1607.11.8
         female = yes
@@ -321,7 +335,7 @@ capital = 50
 }
 1598.1.9 = {
     monarch = {
-        name = "Joachim Friedrich I"  # Joachim Friedrich I
+        name = "约阿希姆 腓特烈 I"  # Joachim Friedrich I
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1546.1.27
         adm = 5
@@ -330,7 +344,7 @@ capital = 50
     }
     queen = {
         country_of_origin = BRA
-        name = "Catherine"  # Catherine
+        name = "凯瑟琳"  # Catherine
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1549.8.10
         death_date = 1602.9.30
@@ -342,8 +356,8 @@ capital = 50
 }
 1598.1.9 = {
     heir = {
-        name = "Johann Sigismund"  # Johann Sigismund
-        monarch_name = "Johann I Sigismund"  # Johann I Sigismund
+        name = "约翰 西吉斯蒙德"  # Johann Sigismund
+        monarch_name = "约翰 I 西吉斯蒙德"  # Johann I Sigismund
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1572.11.8
         death_date = 1619.12.23
@@ -356,7 +370,7 @@ capital = 50
 1603.11.2 = {
     queen = {
         country_of_origin = PRU
-        name = "Eleanor"  # Eleanor
+        name = "埃莉诺"  # Eleanor
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1583.8.21
         death_date = 1607.4.9
@@ -371,7 +385,7 @@ capital = 50
 }
 1608.7.19 = {
     monarch = {
-        name = "Johann Sigismund I"  # Johann Sigismund I
+        name = "约翰 西吉斯蒙德 I"  # Johann Sigismund I
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1572.11.8
         adm = 3
@@ -380,7 +394,7 @@ capital = 50
     }
     queen = {
         country_of_origin = PRU
-        name = "Anna"  # Anna
+        name = "安娜"  # Anna
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1576.7.3
         death_date = 1625.8.30
@@ -392,8 +406,8 @@ capital = 50
 }
 1608.7.19 = {
     heir = {
-        name = "Georg Wilhelm"  # Georg Wilhelm
-        monarch_name = "Georg Wilhelm I"  # Georg Wilhelm I
+        name = "格奥尔格 威廉"  # Georg Wilhelm
+        monarch_name = "格奥尔格 威廉 I"  # Georg Wilhelm I
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1595.11.13
         death_date = 1640.12.1
@@ -402,31 +416,35 @@ capital = 50
         dip = 5
         mil = 3
         leader = {
-            name = "Georg"  # Georg
-            Wilhelm = generalfire
-             = 3siege
-             = 0
+            name = "格奥尔格"  # Georg Wilhelm I
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
 1619.12.24 = {
     monarch = {
-        name = "Georg Wilhelm I"  # Georg Wilhelm I
+        name = "格奥尔格 威廉 I"  # Georg Wilhelm I
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1595.11.13
         adm = 5
         dip = 5
         mil = 3
         leader = {
-            name = "Georg"  # Georg
-            Wilhelm = generalfire
-             = 3siege
-             = 0
+            name = "格奥尔格"  # Georg Wilhelm I
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
     queen = {
         country_of_origin = PAL
-        name = "Elisabeth Charlotte"  # Elisabeth Charlotte
+        name = "伊丽莎白 夏洛特"  # Elisabeth Charlotte
         dynasty = "冯·维特尔斯巴赫"  # von Wittelsbach
         birth_date = 1597.11.19
         death_date = 1660.4.26
@@ -438,8 +456,8 @@ capital = 50
 }
 1620.2.16 = {
     heir = {
-        name = "Friedrich Wilhelm"  # Friedrich Wilhelm
-        monarch_name = "Friedrich I Wilhelm"  # Friedrich I Wilhelm
+        name = "腓特烈 威廉"  # Friedrich Wilhelm
+        monarch_name = "腓特烈 I 威廉"  # Friedrich I Wilhelm
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1620.2.16
         death_date = 1688.4.29
@@ -448,42 +466,49 @@ capital = 50
         dip = 5
         mil = 5
         leader = {
-            name = "Friedrich"  # Friedrich
-            Wilhelm = generalfire
-             = 2siege
-             = 0
+            name = "腓特烈"  # Friedrich Wilhelm I
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 2
+            siege = 0
         }
     }
 }
 1640.12.2 = {
     monarch = {
-        name = "Friedrich Wilhelm I"  # Friedrich Wilhelm I
+        name = "腓特烈 威廉 I"  # Friedrich Wilhelm I
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1620.2.16
         adm = 4
         dip = 5
         mil = 5
         leader = {
-            name = "Friedrich"  # Friedrich
-            Wilhelm = generalfire
-             = 2siege
-             = 0
+            name = "腓特烈"  # Friedrich Wilhelm I
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 2
+            siege = 0
         }
     }
     add_army_professionalism = 0.2
 }
 1645.1.1 = {
     leader = {
-        name = "Otto"  # Otto
-        von = generalfire
-         = 2death_date
-         = 1668.5.9
+        name = "奥托"  # Otto von Sparr
+        type = general
+        fire = 3
+        shock = 2
+        manuever = 2
+        siege = 2
+        death_date = 1668.5.9
     }
 }
 1646.12.7 = {
     queen = {
         country_of_origin = NSA
-        name = "Louise Henriette"  # Louise Henriette
+        name = "路易丝 亨丽埃特"  # Louise Henriette
         dynasty = "冯·拿骚"  # von Nassau
         birth_date = 1627.11.27
         death_date = 1667.6.18
@@ -498,16 +523,19 @@ capital = 50
 }
 1654.1.1 = {
     leader = {
-        name = "Georg"  # Georg
-        von = generalfire
-         = 2death_date
-         = 1695.2.14
+        name = "格奥尔格"  # Georg von Derfflinger
+        type = general
+        fire = 4
+        shock = 3
+        manuever = 3
+        siege = 2
+        death_date = 1695.2.14
     }
 }
 1657.7.11 = {
     heir = {
-        name = "Friedrich"  # Friedrich
-        monarch_name = "Friedrich III"  # Friedrich III
+        name = "腓特烈"  # Friedrich
+        monarch_name = "腓特烈 III"  # Friedrich III
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1657.7.11
         death_date = 1713.2.25
@@ -516,18 +544,20 @@ capital = 50
         dip = 4
         mil = 4
         leader = {
-            name = "Friedrich"  # Friedrich
-            III"type = generalfire
-             = 3siege
-             = 0
+            name = "腓特烈"  # Friedrich III
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
 }
 1668.6.14 = {
     queen = {
         country_of_origin = SHL
-        name = "Sophia Dorothea"  # Sophia Dorothea
-        dynasty = "von Holstein-Gottorp"  # von Holstein-Gottorp
+        name = "索菲 夏洛特"  # Sophia Dorothea
+        dynasty = "冯 荷尔斯泰因-哥道普"  # von Holstein-Gottorp
         birth_date = 1627.11.27
         death_date = 1667.6.18
         female = yes
@@ -538,30 +568,35 @@ capital = 50
 }
 1670.1.1 = {
     leader = {
-        name = "F."  # F.
-        von = generalfire
-         = 2death_date
-         = 1708.1.24
+        name = "腓特烈"  # F. von Hessen-Homburg
+        type = general
+        fire = 2
+        shock = 4
+        manuever = 3
+        siege = 2
+        death_date = 1708.1.24
     }
 }
 1688.5.10 = {
     monarch = {
-        name = "Friedrich III"  # Friedrich III
+        name = "腓特烈 III"  # Friedrich III
         dynasty = "冯·霍亨索伦"  # von Hohenzollern
         birth_date = 1657.7.11
         adm = 6
         dip = 4
         mil = 4
         leader = {
-            name = "Friedrich"  # Friedrich
-            III"type = generalfire
-             = 3siege
-             = 0
+            name = "腓特烈"  # Friedrich III
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
         }
     }
     queen = {
         country_of_origin = HAN
-        name = "Sophia Charlotte"  # Sophia Charlotte
+        name = "索菲 夏洛特"  # Sophia Charlotte
         dynasty = "冯·汉诺威"  # von Hannover
         birth_date = 1668.10.30
         death_date = 1705.2.1
@@ -576,10 +611,13 @@ capital = 50
 }
 1690.1.1 = {
     leader = {
-        name = "von"  # von
-        Dessau" = generalfire
-         = 3death_date
-         = 1747.4.7
+        name = "冯"  # von Dessau
+        type = general
+        fire = 4
+        shock = 4
+        manuever = 4
+        siege = 3
+        death_date = 1747.4.7
     }
 }
 1701.1.18 = {

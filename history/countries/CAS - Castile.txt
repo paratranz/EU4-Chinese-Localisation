@@ -62,10 +62,13 @@ add_army_professionalism = 0.1
 }
 1422.1.1 = {
     leader = {
-        name = "阿尔瓦罗"  # Álvaro
-        de = generalfire
-         = 0death_date
-         = 1453.6.2
+        name = "阿尔瓦罗"  # Álvaro de Luna
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1453.6.2
     }
 }
 1425.1.5 = {
@@ -185,18 +188,24 @@ add_army_professionalism = 0.1
 }
 1491.1.1 = {
     leader = {
-        name = "费德里克"  # Fadrique
-        Álv. = generalfire
-         = 0death_date
-         = 1516.1.23
+        name = "费德里克"  # Fadrique Álv. de Toledo
+        type = general
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1516.1.23
     }
 }
 1492.1.1 = {
     leader = {
-        name = "克里斯托弗"  # Cristóbal
-        Colón" = explorerfire
-         = 0death_date
-         = 1506.5.20
+        name = "克里斯托弗"  # Cristóbal Colón
+        type = explorer
+        fire = 2
+        shock = 2
+        manuever = 6
+        siege = 0
+        death_date = 1506.5.20
     }
     set_global_flag = columbus_happened
 }
@@ -205,26 +214,35 @@ add_army_professionalism = 0.1
 }
 1495.1.1 = {
     leader = {
-        name = "贡萨洛"  # El
-        Gran = generalfire
-         = 0death_date
-         = 1515.12.2
+        name = "贡萨洛"  # El Gran Capitán
+        type = general
+        fire = 6
+        shock = 5
+        manuever = 5
+        siege = 0
+        death_date = 1515.12.2
     }
 }
 1499.1.1 = {
     leader = {
-        name = "阿隆索"  # Alonso
-        de = conquistadorfire
-         = 0death_date
-         = 1515.1.1
+        name = "阿隆索"  # Alonso de Ojeda
+        type = conquistador
+        fire = 2
+        shock = 3
+        manuever = 3
+        siege = 0
+        death_date = 1515.1.1
     }
 }
 1499.1.1 = {
     leader = {
-        name = "亚美利哥"  # Amerigo
-        Vespucci" = explorerfire
-         = 0death_date
-         = 1500.12.30
+        name = "亚美利哥"  # Amerigo Vespucci
+        type = explorer
+        fire = 2
+        shock = 2
+        manuever = 4
+        siege = 0
+        death_date = 1500.12.30
     }
 }
 1504.11.26 = {
@@ -293,26 +311,35 @@ add_army_professionalism = 0.1
 }
 1509.1.1 = {
     leader = {
-        name = "潘菲洛"  # Pánfilo
-        de = conquistadorfire
-         = 0death_date
-         = 1516.1.23
+        name = "潘菲洛"  # Pánfilo de Narváez
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1516.1.23
     }
 }
 1510.1.1 = {
     leader = {
-        name = "巴斯克"  # Vasco
-        Núñez = conquistadorfire
-         = 0death_date
-         = 1516.1.23
+        name = "巴斯克"  # Vasco Núñez de Balboa
+        type = conquistador
+        fire = 3
+        shock = 3
+        manuever = 4
+        siege = 0
+        death_date = 1516.1.23
     }
 }
 1512.3.4 = {
     leader = {
-        name = "胡安"  # Juan
-        Ponce = conquistadorfire
-         = 0death_date
-         = 1516.1.23
+        name = "胡安"  # Juan Ponce de León
+        type = conquistador
+        fire = 2
+        shock = 2
+        manuever = 3
+        siege = 0
+        death_date = 1516.1.23
     }
 }
 1516.1.23 = {

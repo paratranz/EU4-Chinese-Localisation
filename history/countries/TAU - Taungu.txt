@@ -197,10 +197,13 @@ capital = 585
 }
 1530.10.26 = {
     leader = {
-        name = "Minye"  # Minye
-        Thihathu"type = generalfire
-         = 0death_date
-         = 1551.1.11
+        name = "Minye Thihathu"  # Minye Thihathu
+        type = general
+        fire = 2
+        shock = 2
+        manuever = 1
+        siege = 0
+        death_date = 1551.1.11
     }
 }
 1539.1.1 = {
@@ -231,9 +234,12 @@ capital = 585
         dip = 4
         mil = 6
         leader = {
-            name = "Bayinnaung"type"  # Bayinnaung"type
-             = 3siege
-             = 2
+            name = "Bayinnaung"  # Bayinnaung
+            type = general
+            fire = 5
+            shock = 3
+            manuever = 3
+            siege = 2
         }
     }
 }
@@ -245,9 +251,12 @@ capital = 585
         dip = 4
         mil = 6
         leader = {
-            name = "Bayinnaung"type"  # Bayinnaung"type
-             = 3siege
-             = 2
+            name = "Bayinnaung"  # Bayinnaung
+            type = general
+            fire = 5
+            shock = 3
+            manuever = 3
+            siege = 2
         }
     }
 }

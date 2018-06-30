@@ -197,8 +197,11 @@ capital = 2108
         mil = 6
         leader = {
             name = "努尔哈赤"  # Nurhachi
-             = 4siege
-             = 2
+            type = general
+            fire = 2
+            shock = 5
+            manuever = 4
+            siege = 2
         }
     }
 }

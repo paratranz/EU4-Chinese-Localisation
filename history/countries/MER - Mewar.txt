@@ -269,21 +269,31 @@ capital = 518
 }
 1572.3.3 = {
     leader = {
-        name = "Jhala"  # Jhala
-        Maansinh"type = generalfire
-         = 0death_date
-         = 1576.6.21
+        name = "Jhala Maansinh"  # Jhala Maansinh
+        type = general
+        fire = 1
+        shock = 3
+        manuever = 2
+        siege = 0
+        death_date = 1576.6.21
     }
+}
+1572.3.3 = {
     leader = {
-        name = "Hakim
-        Khan = generalfire
-         = 0death_date
-         = 1616.1.1
+        name = "Hakim Khan Sur Pathan"  # Hakim Khan Sur Pathan
+        type = general
+        fire = 1
+        shock = 2
+        manuever = 1
+        siege = 0
+        death_date = 1616.1.1
     }
+}
+1572.3.3 = {
     heir = {
-        name = "Amar"
-        monarch_name = "Amar Singh I"
-        dynasty = "Sisodiya"
+        name = "Amar"  # Amar
+        monarch_name = "Amar Singh I"  # Amar Singh I
+        dynasty = "Sisodiya"  # Sisodiya
         birth_date = 1559.3.16
         death_date = 1620.1.26
         claim = 95
@@ -648,16 +658,4 @@ capital = 518
 }
 1818.1.1 = {
     government_rank = 2
-}
-1572.3.3 = {
-    leader = {
-        name = "Hakim"  # Hakim
-    }
-}
-1572.3.3 = {
-    heir = {
-        name = "Amar"  # Amar
-        monarch_name = "Amar Singh I"  # Amar Singh I
-        dynasty = "Sisodiya"  # Sisodiya
-    }
 }
