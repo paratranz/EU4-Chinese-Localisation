@@ -1,152 +1,29 @@
-﻿government = feudal_monarchy
-technology_group = western
-primary_culture = gascon
-religion = catholic
-capital = 175
-fixed_capital = 175
-1391.7.25 = {
-    monarch = {
-        name = "Bernard VII"  # Bernard VII
-        dynasty = "德 阿玛涅克"  # d'Armagnac
-        adm = 1
-        dip = 1
-        mil = 0
-    }
-}
-1396.10.15 = {
-    heir = {
-        name = "让"  # Jean
-        monarch_name = "让 IV"  # Jean IV
-        dynasty = "德 阿玛涅克"  # d'Armagnac
-        claim = 95
-        birth_date = 1396.10.15
-        death_date = 1450.11.5
-        adm = 1
-        dip = 2
-        mil = 2
-    }
-}
-1418.6.12 = {
-    monarch = {
-        name = "让 IV"  # Jean IV
-        dynasty = "德 阿玛涅克"  # d'Armagnac
-        birth_date = 1396.10.15
-        adm = 1
-        dip = 2
-        mil = 2
-    }
-}
-1420.1.1 = {
-    heir = {
-        name = "让"  # Jean
-        monarch_name = "让 V"  # Jean V
-        dynasty = "德 阿玛涅克"  # d'Armagnac
-        birth_date = 1420.1.1
-        death_date = 1473.2.10
-        claim = 95
-        adm = 2
-        dip = 0
-        mil = 1
-    }
-}
-1450.11.6 = {
-    monarch = {
-        name = "让 V"  # Jean V
-        dynasty = "德 阿玛涅克"  # d'Armagnac
-        birth_date = 1420.1.1
-        adm = 2
-        dip = 0
-        mil = 1
-        leader = {
-            name = "让"  # Jean V
-            type = general
-            fire = 2
-            shock = 2
-            manuever = 2
-            siege = 0
-        }
-    }
-}
-1450.11.6 = {
-    heir = {
-        name = "查理"  # Charles
-        monarch_name = "查理 I"  # Charles I
-        dynasty = "德 阿玛涅克"  # d'Armagnac
-        birth_date = 1425.1.1
-        death_date = 1497.6.3
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 1
-    }
-}
-1473.2.10 = {
-    monarch = {
-        name = "查理 I"  # Charles I
-        dynasty = "德 阿玛涅克"  # d'Armagnac
-        birth_date = 1425.1.1
-        adm = 1
-        dip = 1
-        mil = 1
-    }
-}
-1489.1.1 = {
-    heir = {
-        name = "查理"  # Charles
-        monarch_name = "查理 II"  # Charles II
-        dynasty = "德 阿玛涅克"  # d'Armagnac
-        birth_date = 1489.1.1
-        death_date = 1525.4.12
-        claim = 95
-        adm = 4
-        dip = 3
-        mil = 2
-    }
-}
-1497.6.4 = {
-    monarch = {
-        name = "查理 II"  # Charles II
-        dynasty = "德 阿玛涅克"  # d'Armagnac
-        birth_date = 1489.1.1
-        adm = 4
-        dip = 3
-        mil = 2
-    }
-}
-1497.6.4 = {
-    heir = {
-        name = "玛格丽特"  # Marguerite
-        monarch_name = "玛格丽特 I"  # Marguerite I
-        dynasty = "德 昂古莱姆"  # d'Angoulême
-        birth_date = 1492.4.11
-        death_date = 1549.12.21
-        claim = 85
-        adm = 3
-        dip = 5
-        mil = 2
-        female = yes
-    }
-}
-1525.4.12 = {
-    government = despotic_monarchy
-}
-1525.4.12 = {
-    monarch = {
-        name = "玛格丽特 I"  # Marguerite I
-        dynasty = "德 昂古莱姆"  # d'Angoulême
-        birth_date = 1492.4.11
-        adm = 3
-        dip = 5
-        mil = 2
-        female = yes
-    }
-}
-1560.1.1 = {
-    religion = reformed
-}
-1562.11.18 = {
-    government = administrative_monarchy
-}
-1661.3.9 = {
-    government = despotic_monarchy
-}
+﻿l_english:
+ 1391.7.25|monarch|name "贝尔纳 VII"
+ 1391.7.25|monarch|dynasty "德 阿玛涅克"
+ 1396.10.15|heir|name "让"
+ 1396.10.15|heir|monarch_name "让 IV"
+ 1396.10.15|heir|dynasty "德 阿玛涅克"
+ 1418.6.12|monarch|name "让 IV"
+ 1418.6.12|monarch|dynasty "德 阿玛涅克"
+ 1420.1.1|heir|name "让"
+ 1420.1.1|heir|monarch_name "让 V"
+ 1420.1.1|heir|dynasty "德 阿玛涅克"
+ 1450.11.6|monarch|name "让 V"
+ 1450.11.6|monarch|dynasty "德 阿玛涅克"
+ 1450.11.6|monarch|leader|name "让"
+ 1450.11.6#|heir|name "查理"
+ 1450.11.6#|heir|monarch_name "查理 I"
+ 1450.11.6#|heir|dynasty "德 阿玛涅克"
+ 1473.2.10|monarch|name "查理 I"
+ 1473.2.10|monarch|dynasty "德 阿玛涅克"
+ 1489.1.1|heir|name "查理"
+ 1489.1.1|heir|monarch_name "查理 II"
+ 1489.1.1|heir|dynasty "德 阿玛涅克"
+ 1497.6.4|monarch|name "查理 II"
+ 1497.6.4|monarch|dynasty "德 阿玛涅克"
+ 1497.6.4#|heir|name "玛格丽特"
+ 1497.6.4#|heir|monarch_name "玛格丽特 I"
+ 1497.6.4#|heir|dynasty "德 昂古莱姆"
+ 1525.4.12#|monarch|name "玛格丽特 I"
+ 1525.4.12#|monarch|dynasty "德 昂古莱姆"
