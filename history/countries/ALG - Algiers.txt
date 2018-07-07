@@ -1,684 +1,139 @@
-﻿government = iqta
-government_rank = 1
-technology_group = muslim
-religion = sunni
-primary_culture = algerian
-capital = 338
-religious_school = maliki_school
-1510.1.1 = {
-    monarch = {
-        name = "萨利姆"  # Salim
-        dynasty = "Al-Tumi"  # Al-Tumi
-        adm = 1
-        dip = 3
-        mil = 1
-    }
-}
-1516.1.1 = {
-    monarch = {
-        name = "Oruc Reis"  # Oruc Reis
-        dynasty = "雅库布"  # Yakubid
-        culture = greek
-        adm = 2
-        dip = 4
-        mil = 5
-    }
-}
-1518.1.1 = {
-    monarch = {
-        name = "Hayreddin Barbarossa"  # Hayreddin Barbarossa
-        culture = greek
-        dynasty = "雅库布"  # Yakubid
-        adm = 3
-        dip = 4
-        mil = 5
-    }
-}
-1525.1.1 = {
-    heir = {
-        name = "哈桑"  # Hasan
-        monarch_name = "哈桑"  # Hasan
-        dynasty = "雅库布"  # Yakubid
-        culture = greek
-        birth_date = 1525.1.1
-        death_Date = 1572.1.1
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 5
-    }
-}
-1545.1.1 = {
-    monarch = {
-        name = "哈桑"  # Hasan
-        dynasty = "雅库布"  # Yakubid
-        culture = greek
-        adm = 3
-        dip = 4
-        mil = 5
-    }
-}
-1552.1.1 = {
-    monarch = {
-        name = "Salah Reis"  # Salah Reis
-        dynasty = "Biga"  # Biga
-        culture = turkish
-        adm = 3
-        dip = 3
-        mil = 3
-    }
-}
-1556.1.1 = {
-    monarch = {
-        name = "哈桑"  # Hasan
-        dynasty = "Corso"  # Corso
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 2
-    }
-}
-1556.5.1 = {
-    monarch = {
-        name = "穆罕默德"  # Muhammad
-        dynasty = "Kurdogli"  # Kurdogli
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 2
-    }
-}
-1557.6.1 = {
-    monarch = {
-        name = "哈桑"  # Hasan
-        dynasty = "雅库布"  # Yakubid
-        culture = turkish
-        adm = 3
-        dip = 4
-        mil = 5
-    }
-}
-1561.1.1 = {
-    monarch = {
-        name = "艾哈迈德"  # Ahmad
-        dynasty = "Bostandji"  # Bostandji
-        culture = turkish
-        adm = 1
-        dip = 2
-        mil = 2
-    }
-}
-1562.1.1 = {
-    monarch = {
-        name = "哈桑"  # Hasan
-        dynasty = "雅库布"  # Yakubid
-        culture = turkish
-        adm = 3
-        dip = 4
-        mil = 5
-    }
-}
-1566.1.1 = {
-    monarch = {
-        name = "穆罕默德"  # Muhammad
-        dynasty = "穆罕默德"  # Muhammadid
-        culture = turkish
-        adm = 2
-        dip = 2
-        mil = 3
-    }
-}
-1568.1.1 = {
-    monarch = {
-        name = "Uluç Ali Reis"  # Uluç Ali Reis
-        dynasty = "Galeni"  # Galeni
-        culture = turkish
-        adm = 3
-        dip = 4
-        mil = 5
-    }
-}
-1571.1.1 = {
-    monarch = {
-        name = "Ahmed"  # Ahmed
-        dynasty = "艾哈迈迪"  # Ahmadi
-        culture = turkish
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1574.1.1 = {
-    monarch = {
-        name = "拉马丹"  # Ramadan
-        dynasty = "拉马丹"  # Ramadanid
-        culture = turkish
-        adm = 1
-        dip = 2
-        mil = 1
-    }
-}
-1577.1.1 = {
-    monarch = {
-        name = "哈桑"  # Hassan
-        dynasty = "Vénéziano"  # Vénéziano
-        culture = venetian
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1580.1.1 = {
-    monarch = {
-        name = "Djafar"  # Djafar
-        dynasty = "Djafarid"  # Djafarid
-        culture = turkish
-        adm = 3
-        dip = 2
-        mil = 1
-    }
-}
-1582.1.1 = {
-    monarch = {
-        name = "哈桑"  # Hassan
-        dynasty = "Vénéziano"  # Vénéziano
-        culture = venetian
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1589.1.1 = {
-    monarch = {
-        name = "艾哈迈德"  # Ahmad
-        dynasty = "Dali"  # Dali
-        culture = turkish
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1592.1.1 = {
-    monarch = {
-        name = "Khizr"  # Khizr
-        dynasty = "Khederid"  # Khederid
-        culture = turkish
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1595.1.1 = {
-    monarch = {
-        name = "Shaban"  # Shaban
-        dynasty = "Shabanid"  # Shabanid
-        culture = turkish
-        adm = 1
-        dip = 1
-        mil = 2
-    }
-}
-1596.1.1 = {
-    monarch = {
-        name = "穆斯塔法"  # Mustafa
-        dynasty = "Mustafid"  # Mustafid
-        culture = turkish
-        adm = 1
-        dip = 1
-        mil = 1
-    }
-}
-1599.1.1 = {
-    monarch = {
-        name = "哈桑"  # Hassan
-        dynasty = "Dali"  # Dali
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 3
-    }
-}
-1599.5.1 = {
-    monarch = {
-        name = "苏莱曼"  # Süleyman
-        dynasty = "Veneziano"  # Veneziano
-        culture = turkish
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1604.1.1 = {
-    monarch = {
-        name = "Khizr"  # Khizr
-        dynasty = "Khederid"  # Khederid
-        culture = turkish
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1605.1.1 = {
-    monarch = {
-        name = "穆斯塔法"  # Mustafa
-        dynasty = "Köse"  # Köse
-        culture = turkish
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1607.1.1 = {
-    monarch = {
-        name = "Rizvan"  # Rizvan
-        dynasty = "Rizvanid"  # Rizvanid
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 2
-    }
-}
-1610.1.1 = {
-    monarch = {
-        name = "穆斯塔法"  # Mustafa
-        dynasty = "Köse"  # Köse
-        culture = turkish
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1613.1.1 = {
-    monarch = {
-        name = "哈桑"  # Hassan
-        dynasty = "哈桑"  # Hassanid
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 2
-    }
-}
-1616.1.1 = {
-    monarch = {
-        name = "穆斯塔法"  # Mustafa
-        dynasty = "Köse"  # Köse
-        culture = turkish
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1617.1.1 = {
-    monarch = {
-        name = "哈桑"  # Hassan
-        dynasty = "哈桑"  # Hassanid
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 2
-    }
-}
-1621.1.1 = {
-    monarch = {
-        name = "Khizr"  # Khizr
-        dynasty = "Khederid"  # Khederid
-        culture = turkish
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1622.1.1 = {
-    monarch = {
-        name = "穆拉德"  # Murad
-        dynasty = "穆拉德"  # Muradid
-        culture = turkish
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1627.1.1 = {
-    monarch = {
-        name = "侯赛因"  # Hussein
-        dynasty = "侯赛因"  # Husseinid
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 2
-    }
-}
-1634.1.1 = {
-    monarch = {
-        name = "优素福"  # Yusuf
-        dynasty = "优素福"  # Yusufid
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 3
-    }
-}
-1636.1.1 = {
-    monarch = {
-        name = "阿布"  # Abu
-        dynasty = "哈桑"  # al-Hassan
-        culture = turkish
-        adm = 3
-        dip = 3
-        mil = 3
-    }
-}
-1638.1.1 = {
-    monarch = {
-        name = "侯赛因"  # Hussein
-        dynasty = "侯赛因"  # Husseinid
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 2
-    }
-}
-1642.1.1 = {
-    monarch = {
-        name = "Muhammed"  # Muhammed
-        dynasty = "Bursala"  # Bursala
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 3
-    }
-}
-1645.1.1 = {
-    monarch = {
-        name = "阿里"  # Ali
-        dynasty = "Bitchin"  # Bitchin
-        culture = turkish
-        adm = 1
-        dip = 4
-        mil = 4
-    }
-}
-1646.1.1 = {
-    monarch = {
-        name = "Muhammed"  # Muhammed
-        dynasty = "Bursala"  # Bursala
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 3
-    }
-}
-1647.1.1 = {
-    monarch = {
-        name = "优素福"  # Yusuf
-        dynasty = "优素福"  # Yusufid
-        culture = turkish
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1650.1.1 = {
-    monarch = {
-        name = "Mehmed"  # Mehmed
-        dynasty = "Mehmedi"  # Mehmedi
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 2
-    }
-}
-1659.1.1 = {
-    monarch = {
-        name = "Ismail"  # Ismail
-        dynasty = "Ismaili"  # Ismaili
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 3
-    }
-}
-1671.1.1 = {
-    monarch = {
-        name = "Mohamed"  # Mohamed
-        dynasty = "Hadj"  # Hadj
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 3
-    }
-    government = noble_republic
-}
-1682.1.1 = {
-    monarch = {
-        name = "哈桑"  # Hassan
-        dynasty = "Baba"  # Baba
-        culture = turkish
-        adm = 2
-        dip = 1
-        mil = 2
-    }
-}
-1683.1.1 = {
-    monarch = {
-        name = "侯赛因"  # Hussein
-        dynasty = "Mezzomorto"  # Mezzomorto
-        culture = venetian
-        adm = 3
-        dip = 4
-        mil = 4
-    }
-}
-1688.1.1 = {
-    monarch = {
-        name = "Chabane"  # Chabane
-        dynasty = "Hajj"  # Hajj
-        culture = turkish
-        adm = 2
-        dip = 3
-        mil = 3
-    }
-}
-1695.1.1 = {
-    monarch = {
-        name = "Ahmed"  # Ahmed
-        dynasty = "Hajj"  # Hajj
-        culture = turkish
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1699.1.1 = {
-    monarch = {
-        name = "哈桑"  # Hassan
-        culture = turkish
-        dynasty = "Chaouch"  # Chaouch
-        adm = 1
-        dip = 1
-        mil = 1
-    }
-}
-1700.1.1 = {
-    monarch = {
-        name = "穆斯塔法"  # Mustafa
-        dynasty = "Hajj"  # Hajj
-        culture = turkish
-        adm = 1
-        dip = 3
-        mil = 1
-    }
-}
-1705.1.1 = {
-    monarch = {
-        name = "侯赛因"  # Hussein
-        dynasty = "Khoja"  # Khoja
-        culture = turkish
-        adm = 1
-        dip = 2
-        mil = 2
-    }
-}
-1707.1.1 = {
-    monarch = {
-        name = "Muhamed"  # Muhamed
-        dynasty = "Muhammadid"  # Muhammadid
-        culture = turkish
-        adm = 1
-        dip = 2
-        mil = 2
-    }
-}
-1710.1.1 = {
-    monarch = {
-        name = "易卜拉欣"  # Ibrahim
-        dynasty = "Deli"  # Deli
-        culture = turkish
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1710.8.1 = {
-    monarch = {
-        name = "阿里 I"  # 'Ali I
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 3
-        dip = 4
-        mil = 5
-        leader = {
-            name = "阿里 I"  # 'Ali I
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 3
-            siege = 0
-        }
-    }
-}
-1718.4.5 = {
-    monarch = {
-        name = "穆罕默德 I"  # Muhammad I
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1724.5.19 = {
-    monarch = {
-        name = "'Abdi"  # 'Abdi
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 2
-        dip = 1
-        mil = 3
-    }
-}
-1731.1.1 = {
-    monarch = {
-        name = "易卜拉欣 I"  # Ibrâhîm I
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 3
-        dip = 3
-        mil = 0
-    }
-}
-1745.11.3 = {
-    monarch = {
-        name = "易卜拉欣 II"  # Ibrâhîm II
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 0
-        dip = 2
-        mil = 3
-    }
-}
-1748.2.2 = {
-    monarch = {
-        name = "穆罕默德 II"  # Muhammad II
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 3
-        dip = 2
-        mil = 3
-    }
-}
-1754.12.13 = {
-    monarch = {
-        name = "阿里 II"  # 'Alî II
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 2
-        dip = 1
-        mil = 1
-    }
-}
-1766.2.2 = {
-    monarch = {
-        name = "穆罕默德 III"  # Muhammad III
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 4
-        dip = 2
-        mil = 1
-    }
-}
-1791.7.23 = {
-    monarch = {
-        name = "哈桑"  # Hasan
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 0
-        dip = 1
-        mil = 3
-    }
-}
-1798.6.2 = {
-    monarch = {
-        name = "穆斯塔法"  # Mustafa
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 1
-        dip = 0
-        mil = 1
-    }
-}
-1805.7.2 = {
-    monarch = {
-        name = "Ahmed"  # Ahmed
-        dynasty = "ben Ali"  # ben Ali
-        adm = 2
-        dip = 2
-        mil = 3
-    }
-}
-1808.11.16 = {
-    monarch = {
-        name = "阿里 III"  # 'Alî III
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 0
-        dip = 1
-        mil = 0
-    }
-}
-1815.4.4 = {
-    monarch = {
-        name = "欧麦尔"  # 'Umar
-        dynasty = "Kuloglu"  # Kuloglu
-        adm = 2
-        dip = 1
-        mil = 1
-    }
-}
-1817.5.3 = {
-    monarch = {
-        name = "阿里 IV"  # 'Alî IV
-        dynasty = "ben Ahmed"  # ben Ahmed
-        adm = 1
-        dip = 0
-        mil = 0
-    }
-}
-1818.3.3 = {
-    monarch = {
-        name = "Husain III"  # Husain III
-        dynasty = "本 哈桑"  # ben Hassan
-        adm = 2
-        dip = 0
-        mil = 1
-    }
-}
+﻿l_english:
+ 1510.1.1|monarch|name "萨利姆"
+ 1510.1.1|monarch|dynasty "Al-Tumi"
+ 1516.1.1|monarch|name "Oruc Reis"
+ 1516.1.1|monarch|dynasty "雅库布"
+ 1518.1.1|monarch|name "Hayreddin Barbarossa"
+ 1518.1.1|monarch|dynasty "雅库布"
+ 1525.1.1|heir|name "哈桑"
+ 1525.1.1|heir|monarch_name "哈桑"
+ 1525.1.1|heir|dynasty "雅库布"
+ 1545.1.1|monarch|name "哈桑"
+ 1545.1.1|monarch|dynasty "雅库布"
+ 1552.1.1|monarch|name "Salah Reis"
+ 1552.1.1|monarch|dynasty "Biga"
+ 1556.1.1|monarch|name "哈桑"
+ 1556.1.1|monarch|dynasty "Corso"
+ 1556.5.1|monarch|name "穆罕默德"
+ 1556.5.1|monarch|dynasty "Kurdogli"
+ 1557.6.1|monarch|name "哈桑"
+ 1557.6.1|monarch|dynasty "雅库布"
+ 1561.1.1|monarch|name "艾哈迈德"
+ 1561.1.1|monarch|dynasty "Bostandji"
+ 1562.1.1|monarch|name "哈桑"
+ 1562.1.1|monarch|dynasty "雅库布"
+ 1566.1.1|monarch|name "穆罕默德"
+ 1566.1.1|monarch|dynasty "穆罕默德"
+ 1568.1.1|monarch|name "Uluç Ali Reis"
+ 1568.1.1|monarch|dynasty "Galeni"
+ 1571.1.1|monarch|name "Ahmed"
+ 1571.1.1|monarch|dynasty "艾哈迈迪"
+ 1574.1.1|monarch|name "拉马丹"
+ 1574.1.1|monarch|dynasty "拉马丹"
+ 1577.1.1|monarch|name "哈桑"
+ 1577.1.1|monarch|dynasty "Vénéziano"
+ 1580.1.1|monarch|name "Djafar"
+ 1580.1.1|monarch|dynasty "Djafarid"
+ 1582.1.1|monarch|name "哈桑"
+ 1582.1.1|monarch|dynasty "Vénéziano"
+ 1589.1.1|monarch|name "艾哈迈德"
+ 1589.1.1|monarch|dynasty "Dali"
+ 1592.1.1|monarch|name "Khizr"
+ 1592.1.1|monarch|dynasty "Khederid"
+ 1595.1.1|monarch|name "Shaban"
+ 1595.1.1|monarch|dynasty "Shabanid"
+ 1596.1.1|monarch|name "穆斯塔法"
+ 1596.1.1|monarch|dynasty "Mustafid"
+ 1599.1.1|monarch|name "哈桑"
+ 1599.1.1|monarch|dynasty "Dali"
+ 1599.5.1|monarch|name "苏莱曼"
+ 1599.5.1|monarch|dynasty "Veneziano"
+ 1604.1.1|monarch|name "Khizr"
+ 1604.1.1|monarch|dynasty "Khederid"
+ 1605.1.1|monarch|name "穆斯塔法"
+ 1605.1.1|monarch|dynasty "Köse"
+ 1607.1.1|monarch|name "Rizvan"
+ 1607.1.1|monarch|dynasty "Rizvanid"
+ 1610.1.1|monarch|name "穆斯塔法"
+ 1610.1.1|monarch|dynasty "Köse"
+ 1613.1.1|monarch|name "哈桑"
+ 1613.1.1|monarch|dynasty "哈桑"
+ 1616.1.1|monarch|name "穆斯塔法"
+ 1616.1.1|monarch|dynasty "Köse"
+ 1617.1.1|monarch|name "哈桑"
+ 1617.1.1|monarch|dynasty "哈桑"
+ 1621.1.1|monarch|name "Khizr"
+ 1621.1.1|monarch|dynasty "Khederid"
+ 1622.1.1|monarch|name "穆拉德"
+ 1622.1.1|monarch|dynasty "穆拉德"
+ 1627.1.1|monarch|name "侯赛因"
+ 1627.1.1|monarch|dynasty "侯赛因"
+ 1634.1.1|monarch|name "优素福"
+ 1634.1.1|monarch|dynasty "优素福"
+ 1636.1.1|monarch|name "阿布"
+ 1636.1.1|monarch|dynasty "哈桑"
+ 1638.1.1|monarch|name "侯赛因"
+ 1638.1.1|monarch|dynasty "侯赛因"
+ 1642.1.1|monarch|name "Muhammed"
+ 1642.1.1|monarch|dynasty "Bursala"
+ 1645.1.1|monarch|name "阿里"
+ 1645.1.1|monarch|dynasty "Bitchin"
+ 1646.1.1|monarch|name "穆罕默德"
+ 1646.1.1|monarch|dynasty "Bursala"
+ 1647.1.1|monarch|name "优素福"
+ 1647.1.1|monarch|dynasty "优素福"
+ 1650.1.1|monarch|name "Mehmed"
+ 1650.1.1|monarch|dynasty "Mehmedi"
+ 1659.1.1|monarch|name "伊斯迈尔"
+ 1659.1.1|monarch|dynasty "Ismaili"
+ 1671.1.1|monarch|name "穆罕默德"
+ 1671.1.1|monarch|dynasty "Hadj"
+ 1682.1.1|monarch|name "哈桑"
+ 1682.1.1|monarch|dynasty "Baba"
+ 1683.1.1|monarch|name "侯赛因"
+ 1683.1.1|monarch|dynasty "Mezzomorto"
+ 1688.1.1|monarch|name "Chabane"
+ 1688.1.1|monarch|dynasty "Hajj"
+ 1695.1.1|monarch|name "Ahmed"
+ 1695.1.1|monarch|dynasty "Hajj"
+ 1699.1.1|monarch|name "哈桑"
+ 1699.1.1|monarch|dynasty "Chaouch"
+ 1700.1.1|monarch|name "穆斯塔法"
+ 1700.1.1|monarch|dynasty "Hajj"
+ 1705.1.1|monarch|name "侯赛因"
+ 1705.1.1|monarch|dynasty "Khoja"
+ 1707.1.1|monarch|name "Muhamed"
+ 1707.1.1|monarch|dynasty "Muhammadid"
+ 1710.1.1|monarch|name "易卜拉欣"
+ 1710.1.1|monarch|dynasty "Deli"
+ 1710.8.1|monarch|name "阿里 I"
+ 1710.8.1|monarch|dynasty "Kuloglu"
+ 1710.8.1|monarch|leader|name "阿里 I"
+ 1718.4.5|monarch|name "穆罕默德 I"
+ 1718.4.5|monarch|dynasty "Kuloglu"
+ 1724.5.19|monarch|name "'Abdi"
+ 1724.5.19|monarch|dynasty "Kuloglu"
+ 1731.1.1|monarch|name "易卜拉欣 I"
+ 1731.1.1|monarch|dynasty "Kuloglu"
+ 1745.11.3|monarch|name "易卜拉欣 II"
+ 1745.11.3|monarch|dynasty "Kuloglu"
+ 1748.2.2|monarch|name "穆罕默德 II"
+ 1748.2.2|monarch|dynasty "Kuloglu"
+ 1754.12.13|monarch|name "阿里 II"
+ 1754.12.13|monarch|dynasty "Kuloglu"
+ 1766.2.2|monarch|name "穆罕默德 III"
+ 1766.2.2|monarch|dynasty "Kuloglu"
+ 1791.7.23|monarch|name "哈桑"
+ 1791.7.23|monarch|dynasty "Kuloglu"
+ 1798.6.2|monarch|name "穆斯塔法"
+ 1798.6.2|monarch|dynasty "Kuloglu"
+ 1805.7.2|monarch|name "Ahmed"
+ 1805.7.2|monarch|dynasty "ben Ali"
+ 1808.11.16|monarch|name "阿里 III"
+ 1808.11.16|monarch|dynasty "Kuloglu"
+ 1815.4.4|monarch|name "欧麦尔"
+ 1815.4.4|monarch|dynasty "Kuloglu"
+ 1817.5.3|monarch|name "阿里 IV"
+ 1817.5.3|monarch|dynasty "ben Ahmed"
+ 1818.3.3|monarch|name "Husain III"
+ 1818.3.3|monarch|dynasty "本 哈桑"
