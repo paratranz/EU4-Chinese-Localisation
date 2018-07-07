@@ -1,228 +1,40 @@
-﻿government = feudal_monarchy
-government_rank = 1
-primary_culture = burgundian
-add_accepted_culture = wallonian
-religion = catholic
-technology_group = western
-capital = 192
-add_army_professionalism = 0.1
-1363.1.1 = {
-    monarch = {
-        name = "腓力 II"  # Philippe II
-        dynasty = "德 勃艮第"  # de Bourgogne
-        birth_date = 1342.1.17
-        adm = 2
-        dip = 3
-        mil = 1
-    }
-}
-1371.5.28 = {
-    heir = {
-        name = "让"  # Jean
-        monarch_name = "让 II"  # Jean II
-        dynasty = "德 勃艮第"  # de Bourgogne
-        birth_date = 1371.5.28
-        death_date = 1419.9.10
-        claim = 95
-        dip = 2
-        adm = 2
-        mil = 1
-    }
-}
-1404.1.1 = {
-    monarch = {
-        name = "让 II"  # Jean II
-        dynasty = "德 勃艮第"  # de Bourgogne
-        birth_date = 1371.5.28
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-}
-1404.1.1 = {
-    heir = {
-        name = "腓力"  # Philippe
-        monarch_name = "腓力 III"  # Philippe III
-        dynasty = "德 勃艮第"  # de Bourgogne
-        birth_date = 1396.7.31
-        death_date = 1467.6.15
-        claim = 95
-        dip = 5
-        adm = 5
-        mil = 5
-    }
-}
-1408.1.1 = {
-    leader = {
-        name = "让 德 普莱西"  # Jean de Pressy
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1437.1.1
-    }
-}
-1419.9.11 = {
-    monarch = {
-        name = "腓力 III"  # Philippe III
-        dynasty = "德 勃艮第"  # de Bourgogne
-        birth_date = 1396.7.31
-        adm = 5
-        dip = 5
-        mil = 5
-        leader = {
-            name = "腓力"  # Philippe III
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 3
-            siege = 1
-        }
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = calm_personality
-    add_ruler_personality = well_connected_personality
-    add_ruler_personality = well_advised_personality
-    add_heir_personality = bold_fighter_personality
-}
-1430.1.7 = {
-    queen = {
-        country_of_origin = POR
-        name = "伊莎贝拉"  # Isabella
-        dynasty = "德 阿维斯"  # de Avis
-        birth_date = 1397.2.21
-        death_date = 1471.12.17
-        female = yes
-        adm = 3
-        dip = 4
-        mil = 1
-    }
-}
-1433.11.10 = {
-    heir = {
-        name = "查理"  # Charles
-        monarch_name = "查理 I"  # Charles I
-        dynasty = "德 勃艮第"  # de Bourgogne
-        birth_date = 1433.11.10
-        death_date = 1477.1.5
-        claim = 95
-        adm = 2
-        dip = 0
-        mil = 4
-    }
-}
-1467.6.16 = {
-    monarch = {
-        name = "查理 I"  # Charles I
-        dynasty = "德 勃艮第"  # de Bourgogne
-        birth_date = 1433.11.10
-        adm = 2
-        dip = 0
-        mil = 4
-        leader = {
-            name = "查理 I「大胆的」"  # Charles I le Téméraire
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 3
-            siege = 1
-        }
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = bold_fighter_personality
-    add_heir_personality = benevolent_personality
-    heir = {
-        name = "玛丽"  # Marie
-        monarch_name = "玛丽 I"  # Marie I
-        dynasty = "德 勃艮第"  # de Bourgogne
-        birth_date = 1457.2.13
-        death_date = 1482.3.27
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 2
-        female = yes
-    }
-}
-1468.7.3 = {
-    queen = {
-        country_of_origin = ENG
-        name = "玛格丽特"  # Margaret
-        dynasty = "约克"  # York
-        birth_date = 1446.5.3
-        death_date = 1503.11.23
-        female = yes
-        adm = 5
-        dip = 4
-        mil = 1
-    }
-}
-1477.1.6 = {
-    monarch = {
-        name = "玛丽 I"  # Marie I
-        dynasty = "德 勃艮第"  # de Bourgogne
-        birth_date = 1457.2.13
-        adm = 3
-        dip = 4
-        mil = 2
-        female = yes
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = benevolent_personality
-}
-1478.7.22 = {
-    heir = {
-        name = "腓力"  # Philippe
-        monarch_name = "腓力 IV"  # Philippe IV
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1478.7.22
-        death_date = 1506.9.25
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-}
-1482.3.28 = {
-    monarch = {
-        name = "腓力 IV"  # Philippe IV
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1478.7.22
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-}
-1500.2.24 = {
-    heir = {
-        name = "查理"  # Charles
-        monarch_name = "查理 II"  # Charles II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1500.2.24
-        death_date = 1558.9.21
-        claim = 95
-        adm = 4
-        dip = 5
-        mil = 5
-    }
-}
-1506.9.26 = {
-    government = despotic_monarchy
-}
-1506.9.26 = {
-    monarch = {
-        name = "查理 II"  # Charles II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1500.2.24
-        adm = 4
-        dip = 5
-        mil = 5
-    }
-}
-1589.8.3 = {
-    government = administrative_monarchy
-}
-1661.3.9 = {
-    government = despotic_monarchy
-}
+﻿l_english:
+ 1363.1.1|monarch|name "腓力 II"
+ 1363.1.1|monarch|dynasty "德 勃艮第"
+ 1371.5.28|heir|name "让"
+ 1371.5.28|heir|monarch_name "让 II"
+ 1371.5.28|heir|dynasty "德 勃艮第"
+ 1404.1.1|monarch|name "让 II"
+ 1404.1.1|monarch|dynasty "德 勃艮第"
+ 1404.1.1#|heir|name "腓力"
+ 1404.1.1#|heir|monarch_name "腓力 III"
+ 1404.1.1#|heir|dynasty "德 勃艮第"
+ 1408.1.1|leader|name "让 德 普莱西"
+ 1419.9.11|monarch|name "腓力 III"
+ 1419.9.11|monarch|dynasty "德 勃艮第"
+ 1419.9.11|monarch|leader|name "腓力 III"
+ 1430.1.7|queen|name "伊莎贝拉"
+ 1430.1.7|queen|dynasty "德 阿维斯"
+ 1433.11.10|heir|name "查理"
+ 1433.11.10|heir|monarch_name "查理 I"
+ 1433.11.10|heir|dynasty "德 勃艮第"
+ 1467.6.16|monarch|name "查理 I"
+ 1467.6.16|monarch|dynasty "德 勃艮第"
+ 1467.6.16|monarch|leader|name "查理 I「大胆的」"
+ 1467.6.16|heir|name "玛丽"
+ 1467.6.16|heir|monarch_name "玛丽 I"
+ 1467.6.16|heir|dynasty "德 勃艮第"
+ 1468.7.3|queen|name "玛格丽特"
+ 1468.7.3|queen|dynasty "约克"
+ 1477.1.6|monarch|name "玛丽 I"
+ 1477.1.6|monarch|dynasty "德 勃艮第"
+ 1478.7.22|heir|name "腓力"
+ 1478.7.22|heir|monarch_name "腓力 IV"
+ 1478.7.22|heir|dynasty "冯 哈布斯堡"
+ 1482.3.28|monarch|name "腓力 IV"
+ 1482.3.28|monarch|dynasty "冯 哈布斯堡"
+ 1500.2.24|heir|name "查理"
+ 1500.2.24|heir|monarch_name "查理 II"
+ 1500.2.24|heir|dynasty "冯 哈布斯堡"
+ 1506.9.26#|monarch|name "查理 II"
+ 1506.9.26#|monarch|dynasty "冯 哈布斯堡"

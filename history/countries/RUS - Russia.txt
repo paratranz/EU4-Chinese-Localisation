@@ -1,1041 +1,140 @@
-﻿government = tsardom
-primary_culture = russian
-religion = orthodox
-technology_group = eastern
-unit_type = eastern
-capital = 295
-government_rank = 3
-1462.1.1 = {
-    monarch = {
-        name = "伊凡 III 瓦西里耶维奇"  # Ivan III Veliky
-        dynasty = "留里克"  # Rurikovich
-        adm = 3
-        dip = 4
-        mil = 5
-    }
-}
-1479.3.25 = {
-    heir = {
-        name = "瓦西里"  # Vasiliy
-        monarch_name = "瓦西里 III"  # Vasiliy III
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1479.3.25
-        death_date = 1533.12.3
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 3
-        leader = {
-            name = "瓦西里"  # Vasiliy III
-            type = general
-            fire = 2
-            shock = 2
-            manuever = 2
-            siege = 0
-        }
-    }
-}
-1503.3.22 = {
-    changed_tag_from = MOS
-}
-1505.1.1 = {
-    leader = {
-        name = "米哈伊尔 格林斯基"  # Mihail Glinski
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 1
-        death_date = 1520.1.1
-    }
-}
-1505.10.29 = {
-    monarch = {
-        name = "瓦西里 III"  # Vasiliy III
-        dynasty = "留里克"  # Rurikovich
-        adm = 3
-        dip = 2
-        mil = 3
-        leader = {
-            name = "瓦西里 III"  # Vasiliy III
-            type = general
-            fire = 2
-            shock = 2
-            manuever = 2
-            siege = 0
-        }
-    }
-}
-1530.1.1 = {
-    leader = {
-        name = "Ovchina-Obolenski"  # Ovchina-Obolenski
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1539.1.1
-    }
-}
-1530.1.1 = {
-    leader = {
-        name = "卡西莫夫斯基"  # Kasimovskiy
-        type = general
-        fire = 1
-        shock = 2
-        manuever = 4
-        siege = 0
-        death_date = 1567.1.1
-    }
-}
-1530.8.25 = {
-    heir = {
-        name = "伊凡"  # Ivan
-        monarch_name = "伊凡 IV「恐怖的」"  # Ivan IV Grozny
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1530.8.25
-        death_date = 1584.3.28
-        claim = 95
-        adm = 2
-        dip = 5
-        mil = 6
-    }
-}
-1531.1.1 = {
-    leader = {
-        name = "米库林斯基"  # Mikulinski
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1540.1.1
-    }
-}
-1533.12.4 = {
-    monarch = {
-        name = "伊凡 IV「恐怖的」"  # Ivan IV Grozny
-        dynasty = "留里克"  # Rurikovich
-        adm = 2
-        dip = 5
-        mil = 6
-    }
-}
-1539.1.1 = {
-    leader = {
-        name = "彼得 舒伊斯基"  # Pyotr Shuiski
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 2
-        siege = 1
-        death_date = 1564.1.1
-    }
-}
-1550.1.1 = {
-    leader = {
-        name = "Sheremetev"  # Sheremetev
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1564.1.1
-    }
-}
-1550.1.1 = {
-    leader = {
-        name = "Vorotinski"  # Vorotinski
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 5
-        siege = 1
-        death_date = 1573.1.1
-    }
-}
-1552.1.1 = {
-    leader = {
-        name = "Andrey Kurbski"  # Andrey Kurbski
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1564.1.1
-    }
-}
-1553.1.1 = {
-    leader = {
-        name = "Alexei Adashev"  # Alexei Adashev
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1560.1.1
-    }
-}
-1555.1.1 = {
-    leader = {
-        name = "Grigorii Stroganov"  # Grigorii Stroganov
-        type = conquistador
-        fire = 1
-        shock = 1
-        manuever = 3
-        siege = 0
-        death_date = 1575.1.1
-    }
-}
-1557.1.1 = {
-    leader = {
-        name = "Vishnevetski"  # Vishnevetski
-        type = general
-        fire = 1
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1563.1.1
-    }
-}
-1557.5.31 = {
-    heir = {
-        name = "费奥多尔"  # Fedor
-        monarch_name = "费奥多尔 I"  # Fedor I
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1557.5.31
-        death_date = 1598.1.16
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 3
-    }
-}
-1560.1.1 = {
-    leader = {
-        name = "伊凡 舒伊斯基"  # Ivan Shuiski
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 2
-        siege = 0
-        death_date = 1587.1.1
-    }
-}
-1565.1.1 = {
-    leader = {
-        name = "伊凡 彼得罗夫"  # Ivan Petrov
-        type = conquistador
-        fire = 3
-        shock = 4
-        manuever = 2
-        siege = 0
-        death_date = 1570.1.1
-    }
-}
-1565.1.1 = {
-    leader = {
-        name = "Burnash Yalichev"  # Burnash Yalichev
-        type = conquistador
-        fire = 2
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1576.1.1
-    }
-}
-1579.1.1 = {
-    leader = {
-        name = "Yermak Timofeyevich"  # Yermak Timofeyevich
-        type = conquistador
-        fire = 6
-        shock = 6
-        manuever = 5
-        siege = 0
-        death_date = 1585.8.6
-    }
-}
-1580.1.1 = {
-    leader = {
-        name = "Koltsov-Mosalski"  # Koltsov-Mosalski
-        type = conquistador
-        fire = 2
-        shock = 2
-        manuever = 5
-        siege = 0
-        death_date = 1605.1.1
-    }
-}
-1584.1.1 = {
-    leader = {
-        name = "伊凡"  # Ivan Mansurov
-        type = conquistador
-        fire = 2
-        shock = 2
-        manuever = 5
-        siege = 0
-        death_date = 1598.1.1
-    }
-}
-1584.3.20 = {
-    monarch = {
-        name = "费奥多尔 I"  # Fedor I
-        dynasty = "留里克"  # Rurikovich
-        adm = 1
-        dip = 2
-        mil = 3
-    }
-}
-1588.1.1 = {
-    decision = establish_russian_patriarchate
-}
-1595.1.1 = {
-    leader = {
-        name = "Basmanov"  # Basmanov
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1606.1.1
-    }
-}
-1598.1.6 = {
-    set_country_flag = time_of_troubles
-}
-1598.1.9 = {
-    monarch = {
-        name = "鲍里斯 I"  # Boris I
-        dynasty = "戈东诺夫"  # Godunov
-        adm = 5
-        dip = 2
-        mil = 3
-        leader = {
-            name = "鲍里斯"  # Boris Godunov
-            type = general
-            fire = 3
-            shock = 2
-            manuever = 2
-            siege = 0
-        }
-    }
-}
-1605.4.15 = {
-    monarch = {
-        name = "德米特里"  # Dmitry
-        dynasty = "皇位觊觎者"  # Samozvanets
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-}
-1606.1.1 = {
-    leader = {
-        name = "Skopin-Shuiski"  # Skopin-Shuiski
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1610.1.1
-    }
-}
-1606.5.20 = {
-    monarch = {
-        name = "瓦西里 IV"  # Vasiliy IV
-        dynasty = "叔伊斯基"  # Shuisky
-        adm = 1
-        dip = 1
-        mil = 3
-    }
-}
-1607.1.1 = {
-    leader = {
-        name = "Mihail Shein"  # Mihail Shein
-        type = general
-        fire = 1
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1640.1.1
-    }
-}
-1608.1.1 = {
-    leader = {
-        name = "Dmitry Pozharski"  # Dmitry Pozharski
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 1
-        death_date = 1642.4.20
-    }
-}
-1610.7.21 = {
-    monarch = {
-        name = "Vladislav I"  # Vladislav I
-        dynasty = "Vasa"  # Vasa
-        adm = 0
-        dip = 1
-        mil = 0
-    }
-}
-1613.7.22 = {
-    clr_country_flag = time_of_troubles
-}
-1613.7.22 = {
-    monarch = {
-        name = "米哈伊尔 I"  # Mikhail I
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 4
-        dip = 2
-        mil = 3
-    }
-}
-1619.1.1 = {
-    leader = {
-        name = "A. Dubenski"  # A. Dubenski
-        type = conquistador
-        fire = 1
-        shock = 1
-        manuever = 5
-        siege = 0
-        death_date = 1630.1.1
-    }
-}
-1629.3.9 = {
-    heir = {
-        name = "阿列克谢"  # Aleksey
-        monarch_name = "阿列克谢 I"  # Aleksey I
-        dynasty = "罗曼诺夫"  # Romanov
-        birth_date = 1629.3.9
-        death_date = 1676.1.29
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 3
-    }
-}
-1630.1.1 = {
-    leader = {
-        name = "Dolgorukov"  # Dolgorukov
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1682.1.1
-    }
-}
-1631.1.1 = {
-    leader = {
-        name = "Pyotr Beketov"  # Pyotr Beketov
-        type = conquistador
-        fire = 3
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1655.1.1
-    }
-}
-1633.1.1 = {
-    leader = {
-        name = "Ivan Rebrov"  # Ivan Rebrov
-        type = explorer
-        fire = 1
-        shock = 1
-        manuever = 4
-        siege = 0
-        death_date = 1647.1.1
-    }
-}
-1638.1.1 = {
-    leader = {
-        name = "Semen Dezhnev"  # Semen Dezhnev
-        type = explorer
-        fire = 2
-        shock = 2
-        manuever = 5
-        siege = 0
-        death_date = 1659.1.1
-    }
-}
-1638.1.1 = {
-    leader = {
-        name = "Ivan Moskvitin"  # Ivan Moskvitin
-        type = conquistador
-        fire = 2
-        shock = 2
-        manuever = 4
-        siege = 0
-        death_date = 1645.1.1
-    }
-}
-1642.1.1 = {
-    leader = {
-        name = "Vasiliy Poyarkov"  # Vasiliy Poyarkov
-        type = conquistador
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1648.1.1
-    }
-}
-1642.1.1 = {
-    leader = {
-        name = "Baryatiski"  # Baryatiski
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1672.1.1
-    }
-}
-1645.1.1 = {
-    leader = {
-        name = "I. Sheremetev"  # I. Sheremetev
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 2
-        siege = 1
-        death_date = 1680.1.1
-    }
-}
-1645.7.25 = {
-    monarch = {
-        name = "阿列克谢 I"  # Aleksey I
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 2
-        dip = 2
-        mil = 3
-    }
-}
-1648.1.1 = {
-    leader = {
-        name = "Erofey Khabarov"  # Erofey Khabarov
-        type = conquistador
-        fire = 4
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1654.1.1
-    }
-}
-1650.1.1 = {
-    leader = {
-        name = "Romodanovski"  # Romodanovski
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1682.1.1
-    }
-}
-1655.1.1 = {
-    leader = {
-        name = "Ivan A. Khovanski"  # Ivan A. Khovanski
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 2
-        siege = 0
-        death_date = 1683.1.1
-    }
-}
-1661.6.9 = {
-    heir = {
-        name = "Fedor"  # Fedor
-        monarch_name = "Fedor III"  # Fedor III
-        dynasty = "罗曼诺夫"  # Romanov
-        birth_date = 1661.6.9
-        death_date = 1682.5.7
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 4
-    }
-}
-1665.1.1 = {
-    leader = {
-        name = "Chernigovets"  # Chernigovets
-        type = conquistador
-        fire = 1
-        shock = 1
-        manuever = 3
-        siege = 0
-        death_date = 1672.1.1
-    }
-}
-1676.2.1 = {
-    monarch = {
-        name = "Fedor III"  # Fedor III
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 3
-        dip = 3
-        mil = 4
-    }
-}
-1676.2.1 = {
-    heir = {
-        name = "彼得"  # Pyotr
-        monarch_name = "彼得 I「大帝」"  # Pyotr I Veliky
-        dynasty = "罗曼诺夫"  # Romanov
-        birth_date = 1672.6.9
-        death_date = 1725.1.28
-        claim = 95
-        adm = 6
-        dip = 6
-        mil = 6
-    }
-}
-1680.1.1 = {
-    leader = {
-        name = "Gordon"  # Gordon
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1699.1.1
-    }
-}
-1680.1.1 = {
-    leader = {
-        name = "Vasiliy Golitsyn"  # Vasiliy Golitsyn
-        type = general
-        fire = 1
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1689.1.1
-    }
-}
-1682.4.28 = {
-    monarch = {
-        name = "彼得 I「大帝」"  # Pyotr I Veliky
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 6
-        dip = 6
-        mil = 6
-    }
-}
-1690.1.1 = {
-    leader = {
-        name = "Franz Lefort"  # Franz Lefort
-        type = general
-        fire = 4
-        shock = 2
-        manuever = 2
-        siege = 1
-        death_date = 1699.3.1
-    }
-}
-1700.1.1 = {
-    leader = {
-        name = "Matfey Gagarin"  # Matfey Gagarin
-        type = conquistador
-        fire = 3
-        shock = 3
-        manuever = 5
-        siege = 0
-        death_date = 1715.1.1
-    }
-}
-1700.1.1 = {
-    leader = {
-        name = "Fyodor M. Apraxine"  # Fyodor M. Apraxine
-        type = admiral
-        fire = 4
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1728.11.10
-    }
-}
-1700.1.1 = {
-    leader = {
-        name = "Aleksandr Menshikov"  # Aleksandr Menshikov
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1729.1.1
-    }
-}
-1705.1.1 = {
-    leader = {
-        name = "Spiridof"  # Spiridof
-        type = admiral
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1715.1.1
-    }
-}
-1707.1.1 = {
-    heir = {
-        name = "叶卡捷琳娜"  # Yekaterina
-        monarch_name = "叶卡捷琳娜 I"  # Yekaterina I
-        dynasty = "罗曼诺夫"  # Romanov
-        birth_date = 1684.4.15
-        death_date = 1727.5.17
-        claim = 80
-        adm = 4
-        mil = 3
-        dip = 2
-        female = yes
-    }
-}
-1711.1.1 = {
-    technology_group = western
-}
-1712.1.1 = {
-    decision = make_st_petersburg_capital
-}
-1721.1.1 = {
-    decision = dissolution_of_the_monasteries
-}
-1725.1.1 = {
-    leader = {
-        name = "Minih"  # Minih
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1739.1.1
-    }
-}
-1725.1.1 = {
-    leader = {
-        name = "Tottleben"  # Tottleben
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 2
-        siege = 0
-        death_date = 1765.1.1
-    }
-}
-1725.1.30 = {
-    monarch = {
-        name = "叶卡捷琳娜 I"  # Yekaterina I
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 4
-        dip = 2
-        mil = 3
-        female = yes
-    }
-}
-1725.1.30 = {
-    heir = {
-        name = "彼得"  # Pyotr
-        monarch_name = "彼得 II"  # Pyotr II
-        dynasty = "罗曼诺夫"  # Romanov
-        birth_date = 1715.10.23
-        death_date = 1730.1.30
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 1
-    }
-}
-1727.5.8 = {
-    monarch = {
-        name = "彼得 II"  # Pyotr II
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 0
-        dip = 1
-        mil = 1
-    }
-}
-1728.1.1 = {
-    leader = {
-        name = "Vitus Bering"  # Vitus Bering
-        type = explorer
-        fire = 4
-        shock = 2
-        manuever = 5
-        siege = 0
-        death_date = 1747.12.19
-    }
-}
-1730.1.21 = {
-    monarch = {
-        name = "Anna I"  # Anna I
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 2
-        dip = 2
-        mil = 1
-        female = yes
-    }
-}
-1735.1.1 = {
-    leader = {
-        name = "Semion Chelyuskin"  # Semion Chelyuskin
-        type = conquistador
-        fire = 2
-        shock = 3
-        manuever = 5
-        siege = 0
-        death_date = 1760.1.1
-    }
-}
-1740.10.19 = {
-    monarch = {
-        name = "伊凡 VI"  # Ivan VI
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-}
-1741.1.1 = {
-    leader = {
-        name = "P. Soltikov"  # P. Soltikov
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1760.1.1
-    }
-}
-1741.11.27 = {
-    monarch = {
-        name = "Elizaveta I"  # Elizaveta I
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 3
-        dip = 4
-        mil = 3
-        female = yes
-    }
-}
-1750.1.1 = {
-    leader = {
-        name = "De Long"  # De Long
-        type = explorer
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1770.1.1
-    }
-}
-1761.12.27 = {
-    monarch = {
-        name = "Pyotr III"  # Pyotr III
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 1
-        dip = 0
-        mil = 2
-    }
-}
-1761.12.27 = {
-    heir = {
-        name = "叶卡捷琳娜"  # Yekaterina
-        monarch_name = "叶卡捷琳娜 II「大帝」"  # Yekaterina II Velikaya
-        dynasty = "罗曼诺夫"  # Romanov
-        birth_date = 1729.5.2
-        death_date = 1796.11.6
-        claim = 80
-        adm = 6
-        dip = 6
-        mil = 5
-        female = yes
-    }
-}
-1762.6.30 = {
-    monarch = {
-        name = "叶卡捷琳娜 II「大帝」"  # Yekaterina II Velikaya
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 6
-        dip = 6
-        mil = 5
-        female = yes
-    }
-}
-1762.6.30 = {
-    heir = {
-        name = "Pavel"  # Pavel
-        monarch_name = "Pavel I"  # Pavel I
-        dynasty = "罗曼诺夫"  # Romanov
-        birth_date = 1754.10.1
-        death_date = 1801.3.23
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-}
-1765.1.1 = {
-    leader = {
-        name = "Alexandr Baranov"  # Alexandr Baranov
-        type = conquistador
-        fire = 4
-        shock = 4
-        manuever = 5
-        siege = 0
-        death_date = 1819.1.1
-    }
-}
-1770.1.1 = {
-    leader = {
-        name = "Orlov"  # Orlov
-        type = admiral
-        fire = 4
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1795.1.1
-    }
-}
-1770.1.1 = {
-    leader = {
-        name = "Alexander Suvorov"  # Alexander Suvorov
-        type = general
-        fire = 5
-        shock = 6
-        manuever = 6
-        siege = 1
-        death_date = 1800.5.18
-    }
-}
-1796.11.7 = {
-    monarch = {
-        name = "Pavel I"  # Pavel I
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-}
-1796.11.7 = {
-    heir = {
-        name = "亚历山大"  # Aleksandr
-        monarch_name = "亚历山大 I"  # Aleksandr I
-        dynasty = "罗曼诺夫"  # Romanov
-        birth_date = 1777.12.23
-        death_date = 1825.12.1
-        claim = 95
-        adm = 2
-        dip = 4
-        mil = 4
-    }
-}
-1797.1.1 = {
-    leader = {
-        name = "A. Osterman-Tolstoy"  # A. Osterman-Tolstoy
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1857.2.12
-    }
-}
-1801.3.13 = {
-    monarch = {
-        name = "亚历山大 I"  # Aleksandr I
-        dynasty = "罗曼诺夫"  # Romanov
-        adm = 2
-        dip = 4
-        mil = 4
-    }
-}
-1801.3.13 = {
-    heir = {
-        name = "尼古拉"  # Nikolaj
-        monarch_name = "尼古拉 I"  # Nikolaj I
-        dynasty = "罗曼诺夫"  # Romanov
-        birth_date = 1796.7.6
-        death_date = 1855.3.2
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1805.1.1 = {
-    leader = {
-        name = "Michael A. de Tolly"  # Michael A. de Tolly
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1818.5.26
-    }
-}
-1805.1.1 = {
-    leader = {
-        name = "Mikhail Kutuzov"  # Mikhail Kutuzov
-        type = general
-        fire = 4
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1813.4.28
-    }
-}
-1805.1.1 = {
-    leader = {
-        name = "Pyotr Bagration"  # Pyotr Bagration
-        type = general
-        fire = 4
-        shock = 4
-        manuever = 3
-        siege = 2
-        death_date = 1812.9.12
-    }
-}
-1806.1.1 = {
-    leader = {
-        name = "Dmitry Senyavin"  # Dmitry Senyavin
-        type = admiral
-        fire = 4
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1831.4.5
-    }
-}
-1808.1.1 = {
-    leader = {
-        name = "托马索夫"  # Tomasov
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1814.1.1
-    }
-}
-1811.1.1 = {
-    leader = {
-        name = "阿列克谢 叶尔莫洛夫"  # Aleksey Ermolov
-        type = general
-        fire = 4
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1861.4.23
-    }
-}
-1812.1.1 = {
-    leader = {
-        name = "彼得 维特根斯坦"  # Peter Wittgenstein
-        type = general
-        fire = 4
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1843.6.11
-    }
-}
+﻿l_english:
+ 1462.1.1|monarch|name "伊凡 III 瓦西里耶维奇"
+ 1462.1.1|monarch|dynasty "留里克"
+ 1479.3.25|heir|name "瓦西里"
+ 1479.3.25|heir|monarch_name "瓦西里 III"
+ 1479.3.25|heir|dynasty "留里克"
+ 1479.3.25|heir|leader|name "瓦西里 III"
+ 1505.1.1|leader|name "米哈伊尔 格林斯基"
+ 1505.10.29|monarch|name "瓦西里 III"
+ 1505.10.29|monarch|dynasty "留里克"
+ 1505.10.29|monarch|leader|name "瓦西里 III"
+ 1530.1.1|leader|name "Ovchina-Obolenski"
+ 1530.1.1#|leader|name "卡西莫夫斯基"
+ 1530.8.25|heir|name "伊凡"
+ 1530.8.25|heir|monarch_name "伊凡 IV「恐怖的」"
+ 1530.8.25|heir|dynasty "留里克"
+ 1531.1.1|leader|name "米库林斯基"
+ 1533.12.4|monarch|name "伊凡 IV「恐怖的」"
+ 1533.12.4|monarch|dynasty "留里克"
+ 1539.1.1|leader|name "彼得 舒伊斯基"
+ 1550.1.1|leader|name "Sheremetev"
+ 1550.1.1#|leader|name "Vorotinski"
+ 1552.1.1|leader|name "Andrey Kurbski"
+ 1553.1.1|leader|name "Alexei Adashev"
+ 1555.1.1|leader|name "Grigorii Stroganov"
+ 1557.1.1|leader|name "Vishnevetski"
+ 1557.5.31|heir|name "费奥多尔"
+ 1557.5.31|heir|monarch_name "费奥多尔 I"
+ 1557.5.31|heir|dynasty "留里克"
+ 1560.1.1|leader|name "伊凡 舒伊斯基"
+ 1565.1.1|leader|name "伊凡 彼得罗夫"
+ 1565.1.1#|leader|name "Burnash Yalichev"
+ 1579.1.1|leader|name "Yermak Timofeyevich"
+ 1580.1.1|leader|name "Koltsov-Mosalski"
+ 1584.1.1|leader|name "伊凡"
+ 1584.3.20|monarch|name "费奥多尔 I"
+ 1584.3.20|monarch|dynasty "留里克"
+ 1595.1.1|leader|name "Basmanov"
+ 1598.1.9|monarch|name "鲍里斯 I"
+ 1598.1.9|monarch|dynasty "戈东诺夫"
+ 1598.1.9|monarch|leader|name "鲍里斯"
+ 1605.4.15|monarch|name "德米特里"
+ 1605.4.15|monarch|dynasty "皇位觊觎者"
+ 1606.1.1|leader|name "Skopin-Shuiski"
+ 1606.5.20|monarch|name "瓦西里 IV"
+ 1606.5.20|monarch|dynasty "叔伊斯基"
+ 1607.1.1|leader|name "Mihail Shein"
+ 1608.1.1|leader|name "Dmitry Pozharski"
+ 1610.7.21|monarch|name "Vladislav I"
+ 1610.7.21|monarch|dynasty "Vasa"
+ 1613.7.22#|monarch|name "米哈伊尔 I"
+ 1613.7.22#|monarch|dynasty "罗曼诺夫"
+ 1619.1.1|leader|name "A. Dubenski"
+ 1629.3.9|heir|name "阿列克谢"
+ 1629.3.9|heir|monarch_name "阿列克谢 I"
+ 1629.3.9|heir|dynasty "罗曼诺夫"
+ 1630.1.1|leader|name "Dolgorukov"
+ 1631.1.1|leader|name "Pyotr Beketov"
+ 1633.1.1|leader|name "Ivan Rebrov"
+ 1638.1.1|leader|name "Semen Dezhnev"
+ 1638.1.1#|leader|name "Ivan Moskvitin"
+ 1642.1.1|leader|name "Vasiliy Poyarkov"
+ 1642.1.1#|leader|name "Baryatiski"
+ 1645.1.1|leader|name "I. Sheremetev"
+ 1645.7.25|monarch|name "阿列克谢 I"
+ 1645.7.25|monarch|dynasty "罗曼诺夫"
+ 1648.1.1|leader|name "Erofey Khabarov"
+ 1650.1.1|leader|name "Romodanovski"
+ 1655.1.1|leader|name "Ivan A. Khovanski"
+ 1661.6.9|heir|name "Fedor"
+ 1661.6.9|heir|monarch_name "Fedor III"
+ 1661.6.9|heir|dynasty "罗曼诺夫"
+ 1665.1.1|leader|name "Chernigovets"
+ 1676.2.1|monarch|name "Fedor III"
+ 1676.2.1|monarch|dynasty "罗曼诺夫"
+ 1676.2.1#|heir|name "彼得"
+ 1676.2.1#|heir|monarch_name "彼得 I「大帝」"
+ 1676.2.1#|heir|dynasty "罗曼诺夫"
+ 1680.1.1|leader|name "Gordon"
+ 1680.1.1#|leader|name "Vasiliy Golitsyn"
+ 1682.4.28|monarch|name "彼得 I「大帝」"
+ 1682.4.28|monarch|dynasty "罗曼诺夫"
+ 1690.1.1|leader|name "Franz Lefort"
+ 1700.1.1|leader|name "Matfey Gagarin"
+ 1700.1.1#|leader|name "Fyodor M. Apraxine"
+ 1700.1.1##|leader|name "Aleksandr Menshikov"
+ 1705.1.1|leader|name "Spiridof"
+ 1707.1.1|heir|name "叶卡捷琳娜"
+ 1707.1.1|heir|monarch_name "叶卡捷琳娜 I"
+ 1707.1.1|heir|dynasty "罗曼诺夫"
+ 1725.1.1|leader|name "Minih"
+ 1725.1.1#|leader|name "Tottleben"
+ 1725.1.30|monarch|name "叶卡捷琳娜 I"
+ 1725.1.30|monarch|dynasty "罗曼诺夫"
+ 1725.1.30#|heir|name "彼得"
+ 1725.1.30#|heir|monarch_name "彼得 II"
+ 1725.1.30#|heir|dynasty "罗曼诺夫"
+ 1727.5.8|monarch|name "彼得 II"
+ 1727.5.8|monarch|dynasty "罗曼诺夫"
+ 1728.1.1|leader|name "Vitus Bering"
+ 1730.1.21|monarch|name "Anna I"
+ 1730.1.21|monarch|dynasty "罗曼诺夫"
+ 1735.1.1|leader|name "Semion Chelyuskin"
+ 1740.10.19|monarch|name "伊凡 VI"
+ 1740.10.19|monarch|dynasty "罗曼诺夫"
+ 1741.1.1|leader|name "P. Soltikov"
+ 1741.11.27|monarch|name "Elizaveta I"
+ 1741.11.27|monarch|dynasty "罗曼诺夫"
+ 1750.1.1|leader|name "De Long"
+ 1761.12.27|monarch|name "Pyotr III"
+ 1761.12.27|monarch|dynasty "罗曼诺夫"
+ 1761.12.27#|heir|name "叶卡捷琳娜"
+ 1761.12.27#|heir|monarch_name "叶卡捷琳娜 II「大帝」"
+ 1761.12.27#|heir|dynasty "罗曼诺夫"
+ 1762.6.30|monarch|name "叶卡捷琳娜 II「大帝」"
+ 1762.6.30|monarch|dynasty "罗曼诺夫"
+ 1762.6.30#|heir|name "Pavel"
+ 1762.6.30#|heir|monarch_name "Pavel I"
+ 1762.6.30#|heir|dynasty "罗曼诺夫"
+ 1765.1.1|leader|name "Alexandr Baranov"
+ 1770.1.1|leader|name "Orlov"
+ 1770.1.1#|leader|name "Alexander Suvorov"
+ 1796.11.7|monarch|name "Pavel I"
+ 1796.11.7|monarch|dynasty "罗曼诺夫"
+ 1796.11.7#|heir|name "亚历山大"
+ 1796.11.7#|heir|monarch_name "亚历山大 I"
+ 1796.11.7#|heir|dynasty "罗曼诺夫"
+ 1797.1.1|leader|name "A. Osterman-Tolstoy"
+ 1801.3.13|monarch|name "亚历山大 I"
+ 1801.3.13|monarch|dynasty "罗曼诺夫"
+ 1801.3.13#|heir|name "尼古拉"
+ 1801.3.13#|heir|monarch_name "尼古拉 I"
+ 1801.3.13#|heir|dynasty "罗曼诺夫"
+ 1805.1.1|leader|name "Michael A. de Tolly"
+ 1805.1.1#|leader|name "Mikhail Kutuzov"
+ 1805.1.1##|leader|name "Pyotr Bagration"
+ 1806.1.1|leader|name "Dmitry Senyavin"
+ 1808.1.1|leader|name "托马索夫"
+ 1811.1.1|leader|name "阿列克谢 叶尔莫洛夫"
+ 1812.1.1|leader|name "彼得 维特根斯坦"
