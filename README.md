@@ -11,7 +11,7 @@ Please visit https://paratranz.com/projects/2 if you want to edit.
 ## Encoding
 UTF8-BOM
 
-## Backup Intveral
+## Backup Interval
 Every Hour
 
 ## License
