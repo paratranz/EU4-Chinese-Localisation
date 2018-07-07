@@ -1,283 +1,58 @@
-﻿government = feudal_monarchy
-government_rank = 1
-technology_group = western
-primary_culture = saxon
-religion = catholic
-capital = 58
-fixed_capital = 58
-1396.1.1 = {
-    monarch = {
-        name = "西吉斯蒙德 I"  # Sigismund I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1368.1.1
-        adm = 3
-        dip = 1
-        mil = 1
-    }
-}
-1396.1.1 = {
-    heir = {
-        name = "乔治"  # Georg
-        monarch_name = "乔治 I"  # Georg I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1390.1.1
-        death_date = 1474.9.21
-        claim = 85
-        adm = 2
-        dip = 1
-        mil = 2
-    }
-}
-1405.1.19 = {
-    monarch = {
-        name = "乔治 I"  # Georg I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1390.1.1
-        adm = 2
-        dip = 1
-        mil = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = fertile_personality
-    add_ruler_personality = benevolent_personality
-    add_ruler_personality = charismatic_negotiator_personality
-}
-1450.1.1 = {
-    heir = {
-        name = "恩斯特"  # Ernst
-        monarch_name = "恩斯特 I"  # Ernst I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1450.1.1
-        death_date = 1516.6.12
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 2
-    }
-}
-1474.9.2 = {
-    monarch = {
-        name = "恩斯特 I"  # Ernst I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1450.1.1
-        adm = 1
-        dip = 3
-        mil = 2
-    }
-}
-1504.9.4 = {
-    heir = {
-        name = "约翰"  # Johann
-        monarch_name = "约翰 II"  # Johann II
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1504.9.4
-        death_date = 1551.2.4
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-}
-1516.3.2 = {
-    monarch = {
-        name = "约翰 II"  # Johann II
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1504.9.4
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-}
-1529.1.1 = {
-    religion = protestant
-}
-1536.10.21 = {
-    heir = {
-        name = "约阿希姆 恩斯特"  # Joachim Ernst
-        monarch_name = "约阿希姆 恩斯特"  # Joachim Ernst
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1536.10.21
-        death_date = 1586.12.6
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 3
-    }
-}
-1551.4.2 = {
-    monarch = {
-        name = "约阿希姆 恩斯特"  # Joachim Ernst
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1536.10.21
-        adm = 1
-        dip = 3
-        mil = 3
-    }
-}
-1567.5.9 = {
-    heir = {
-        name = "约翰 乔治"  # Johann Georg
-        monarch_name = "约翰 乔治 I"  # Johann Georg I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1567.5.9
-        death_date = 1618.5.24
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 1
-    }
-}
-1586.3.2 = {
-    monarch = {
-        name = "约翰 乔治 I"  # Johann Georg I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1567.5.9
-        adm = 1
-        dip = 2
-        mil = 1
-    }
-}
-1596.9.7 = {
-    heir = {
-        name = "Johann Kasimir"  # Johann Kasimir
-        monarch_name = "Johann Kasimir I"  # Johann Kasimir I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1596.9.7
-        death_date = 1660.9.15
-        claim = 95
-        adm = 4
-        dip = 2
-        mil = 2
-    }
-}
-1608.5.14 = {
-    join_league = protestant
-}
-1618.1.1 = {
-    monarch = {
-        name = "Johann Kasimir I"  # Johann Kasimir I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1596.9.7
-        adm = 4
-        dip = 2
-        mil = 2
-    }
-}
-1627.11.17 = {
-    heir = {
-        name = "约翰 乔治"  # Johann Georg
-        monarch_name = "约翰 乔治 II"  # Johann Georg II
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1627.11.17
-        death_date = 1693.8.7
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 3
-    }
-}
-1635.5.30 = {
-    leave_league = protestant
-}
-1660.7.2 = {
-    monarch = {
-        name = "约翰 乔治 II"  # Johann Georg II
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1627.11.17
-        adm = 1
-        dip = 1
-        mil = 3
-    }
-}
-1676.7.3 = {
-    heir = {
-        name = "Leopold"  # Leopold
-        monarch_name = "Leopold I"  # Leopold I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1676.7.3
-        death_date = 1747.4.7
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1693.5.12 = {
-    monarch = {
-        name = "Leopold I"  # Leopold I
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1676.7.3
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1700.12.25 = {
-    heir = {
-        name = "Leopold Maximilian"  # Leopold Maximilian
-        monarch_name = "Leopold II Maximilian"  # Leopold II Maximilian
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1700.12.25
-        death_date = 1751.12.16
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 4
-    }
-}
-1747.4.9 = {
-    monarch = {
-        name = "Leopold II Maximilian"  # Leopold II Maximilian
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1700.12.25
-        adm = 2
-        dip = 3
-        mil = 4
-    }
-}
-1747.4.9 = {
-    heir = {
-        name = "Leopold Frederick Franz"  # Leopold Frederick Franz
-        monarch_name = "Leopold III"  # Leopold III
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1740.8.10
-        death_date = 1817.8.9
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-}
-1751.5.16 = {
-    monarch = {
-        name = "Leopold III"  # Leopold III
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1740.8.10
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-}
-1794.10.1 = {
-    heir = {
-        name = "Leopold Friedrich"  # Leopold Friedrich
-        monarch_name = " Leopold IV"  #  Leopold IV
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1794.10.1
-        death_date = 1871.5.22
-        claim = 95
-        adm = 1
-        dip = 0
-        mil = 1
-    }
-}
-1817.1.1 = {
-    monarch = {
-        name = "Leopold IV"  # Leopold IV
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1794.10.1
-        adm = 1
-        dip = 0
-        mil = 1
-    }
-}
+﻿l_english:
+ 1396.1.1|monarch|name "西吉斯蒙德 I"
+ 1396.1.1|monarch|dynasty "阿斯坎尼"
+ 1396.1.1#|heir|name "乔治"
+ 1396.1.1#|heir|monarch_name "乔治 I"
+ 1396.1.1#|heir|dynasty "阿斯坎尼"
+ 1405.1.19|monarch|name "乔治 I"
+ 1405.1.19|monarch|dynasty "阿斯坎尼"
+ 1450.1.1|heir|name "恩斯特"
+ 1450.1.1|heir|monarch_name "恩斯特 I"
+ 1450.1.1|heir|dynasty "阿斯坎尼"
+ 1474.9.2|monarch|name "恩斯特 I"
+ 1474.9.2|monarch|dynasty "阿斯坎尼"
+ 1504.9.4|heir|name "约翰"
+ 1504.9.4|heir|monarch_name "约翰 II"
+ 1504.9.4|heir|dynasty "阿斯坎尼"
+ 1516.3.2|monarch|name "约翰 II"
+ 1516.3.2|monarch|dynasty "阿斯坎尼"
+ 1536.10.21|heir|name "约阿希姆 恩斯特"
+ 1536.10.21|heir|monarch_name "约阿希姆 恩斯特"
+ 1536.10.21|heir|dynasty "阿斯坎尼"
+ 1551.4.2|monarch|name "约阿希姆 恩斯特"
+ 1551.4.2|monarch|dynasty "阿斯坎尼"
+ 1567.5.9|heir|name "约翰 乔治"
+ 1567.5.9|heir|monarch_name "约翰 乔治 I"
+ 1567.5.9|heir|dynasty "阿斯坎尼"
+ 1586.3.2|monarch|name "约翰 乔治 I"
+ 1586.3.2|monarch|dynasty "阿斯坎尼"
+ 1596.9.7|heir|name "约翰 卡西米尔"
+ 1596.9.7|heir|monarch_name "约翰 卡西米尔 I"
+ 1596.9.7|heir|dynasty "阿斯坎尼"
+ 1618.1.1|monarch|name "约翰 卡西米尔 I"
+ 1618.1.1|monarch|dynasty "阿斯坎尼"
+ 1627.11.17|heir|name "约翰 乔治"
+ 1627.11.17|heir|monarch_name "约翰 乔治 II"
+ 1627.11.17|heir|dynasty "阿斯坎尼"
+ 1660.7.2|monarch|name "约翰 乔治 II"
+ 1660.7.2|monarch|dynasty "阿斯坎尼"
+ 1676.7.3|heir|name "利奥波德"
+ 1676.7.3|heir|monarch_name "利奥波德 I"
+ 1676.7.3|heir|dynasty "阿斯坎尼"
+ 1693.5.12|monarch|name "利奥波德 I"
+ 1693.5.12|monarch|dynasty "阿斯坎尼"
+ 1700.12.25|heir|name "利奥波德 马克西米利安"
+ 1700.12.25|heir|monarch_name "利奥波德 II 马克西米利安"
+ 1700.12.25|heir|dynasty "阿斯坎尼"
+ 1747.4.9|monarch|name "利奥波德 II 马克西米利安"
+ 1747.4.9|monarch|dynasty "阿斯坎尼"
+ 1747.4.9#|heir|name "利奥波德 弗雷德里克 弗朗茨"
+ 1747.4.9#|heir|monarch_name "利奥波德 III"
+ 1747.4.9#|heir|dynasty "阿斯坎尼"
+ 1751.5.16|monarch|name "利奥波德 III"
+ 1751.5.16|monarch|dynasty "阿斯坎尼"
+ 1794.10.1|heir|name "利奥波德 腓特烈"
+ 1794.10.1|heir|monarch_name "利奥波德 IV"
+ 1794.10.1|heir|dynasty "阿斯坎尼"
+ 1817.1.1|monarch|name "利奥波德 IV"
+ 1817.1.1|monarch|dynasty "阿斯坎尼"

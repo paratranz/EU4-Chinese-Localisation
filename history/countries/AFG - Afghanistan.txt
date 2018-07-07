@@ -1,238 +1,52 @@
-﻿government = iqta
-technology_group = muslim
-religion = sunni
-primary_culture = afghani
-capital = 451
-religious_school = hanafi_school
-1443.1.1 = {
-    monarch = {
-        name = "Karatshar bin Soyurghatmish"  # Karatshar bin Soyurghatmish
-        culture = uzbehk
-        dynasty = "帖木儿"  # Timurid
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1565.1.1 = {
-    monarch = {
-        name = "Hakim"  # Hakim
-        dynasty = "帖木儿"  # Timurid
-        culture = kanauji
-        adm = 2
-        dip = 2
-        mil = 3
-    }
-}
-1707.1.1 = {
-    monarch = {
-        name = "Mir Ways"  # Mir Ways
-        dynasty = "Ghilzai"  # Ghilzai
-        adm = 3
-        dip = 5
-        mil = 5
-    }
-    capital = 447
-}
-1707.1.1 = {
-    heir = {
-        name = "Mir 'Abd al-'Aziz"  # Mir 'Abd al-'Aziz
-        monarch_name = "Mir 'Abd al-'Aziz"  # Mir 'Abd al-'Aziz
-        dynasty = "Ghilzai"  # Ghilzai
-        birth_date = 1700.1.1
-        death_date = 1716.3.1
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 2
-    }
-}
-1715.11.1 = {
-    monarch = {
-        name = "Mir 'Abd-al'Aziz"  # Mir 'Abd-al'Aziz
-        dynasty = "Ghilzai"  # Ghilzai
-        adm = 0
-        dip = 1
-        mil = 2
-    }
-}
-1715.11.1 = {
-    heir = {
-        name = "Mir Mahmud"  # Mir Mahmud
-        monarch_name = "Mir Mahmud"  # Mir Mahmud
-        dynasty = "Ghilzai"  # Ghilzai
-        birth_date = 1715.11.1
-        death_date = 1725.4.25
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 5
-    }
-}
-1716.3.1 = {
-    monarch = {
-        name = "Mir Mahmud"  # Mir Mahmud
-        dynasty = "Ghilzai"  # Ghilzai
-        adm = 1
-        dip = 1
-        mil = 5
-    }
-}
-1716.3.1 = {
-    heir = {
-        name = "Mir Ashraf"  # Mir Ashraf
-        monarch_name = "Mir Ashraf"  # Mir Ashraf
-        dynasty = "Ghilzai"  # Ghilzai
-        birth_date = 1700.1.1
-        death_date = 1729.11.2
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 1
-    }
-}
-1725.4.25 = {
-    monarch = {
-        name = "Mir Ashraf"  # Mir Ashraf
-        dynasty = "Ghilzai"  # Ghilzai
-        adm = 1
-        dip = 3
-        mil = 1
-    }
-}
-1725.4.25 = {
-    heir = {
-        name = "Mir Husayn"  # Mir Husayn
-        monarch_name = "Mir Husayn"  # Mir Husayn
-        dynasty = "Ghilzai"  # Ghilzai
-        birth_date = 1710.1.1
-        death_date = 1738.3.12
-        claim = 95
-        adm = 1
-        dip = 0
-        mil = 1
-    }
-}
-1729.11.2 = {
-    monarch = {
-        name = "Mir Husayn"  # Mir Husayn
-        dynasty = "Ghilzai"  # Ghilzai
-        adm = 1
-        dip = 0
-        mil = 1
-    }
-}
-1747.1.1 = {
-    monarch = {
-        name = "Ahmad Shah Durr-i-Durran"  # Ahmad Shah Durr-i-Durran
-        dynasty = "Durrani"  # Durrani
-        adm = 3
-        dip = 3
-        mil = 6
-    }
-}
-1748.1.1 = {
-    heir = {
-        name = "Taimur"  # Taimur
-        monarch_name = "Taimur Shah"  # Taimur Shah
-        dynasty = "Durrani"  # Durrani
-        birth_date = 1748.1.1
-        death_date = 1793.1.1
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 3
-    }
-}
-1772.10.1 = {
-    monarch = {
-        name = "Taimur Shah"  # Taimur Shah
-        dynasty = "Durrani"  # Durrani
-        adm = 1
-        dip = 2
-        mil = 3
-    }
-}
-1772.10.1 = {
-    heir = {
-        name = "Zaman"  # Zaman
-        monarch_name = "Zaman Shah"  # Zaman Shah
-        dynasty = "Durrani"  # Durrani
-        birth_date = 1770.1.1
-        death_date = 1801.1.1
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 3
-    }
-}
-1780.1.1 = {
-    capital = 451
-}
-1793.1.1 = {
-    monarch = {
-        name = "Zaman Shah"  # Zaman Shah
-        dynasty = "Durrani"  # Durrani
-        adm = 1
-        dip = 1
-        mil = 3
-    }
-}
-1793.1.1 = {
-    heir = {
-        name = "Mahmud"  # Mahmud
-        monarch_name = "Mahmud Shah"  # Mahmud Shah
-        dynasty = "Durrani"  # Durrani
-        birth_date = 1769.1.1
-        death_date = 1803.1.1
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-}
-1801.1.1 = {
-    monarch = {
-        name = "Mahmud Shah"  # Mahmud Shah
-        dynasty = "Durrani"  # Durrani
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-}
-1803.1.1 = {
-    monarch = {
-        name = "Shuja Shah"  # Shuja Shah
-        dynasty = "Durrani"  # Durrani
-        adm = 2
-        dip = 2
-        mil = 3
-    }
-}
-1809.5.3 = {
-    monarch = {
-        name = "Mahmud Shah"  # Mahmud Shah
-        dynasty = "Durrani"  # Durrani
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-}
-1818.1.1 = {
-    monarch = {
-        name = "阿里 沙"  # Ali Shah
-        dynasty = "Durrani"  # Durrani
-        adm = 2
-        dip = 1
-        mil = 0
-    }
-}
-1819.1.1 = {
-    monarch = {
-        name = "Ayub Shah"  # Ayub Shah
-        dynasty = "Durrani"  # Durrani
-        adm = 1
-        dip = 1
-        mil = 0
-    }
-}
+﻿l_english:
+ 1443.1.1|monarch|name "Karatshar bin Soyurghatmish"
+ 1443.1.1|monarch|dynasty "帖木儿"
+ 1565.1.1|monarch|name "哈基姆"
+ 1565.1.1|monarch|dynasty "帖木儿"
+ 1707.1.1|monarch|name "Mir Ways"
+ 1707.1.1|monarch|dynasty "Ghilzai"
+ 1707.1.1#|heir|name "Mir 'Abd al-'Aziz"
+ 1707.1.1#|heir|monarch_name "Mir 'Abd al-'Aziz"
+ 1707.1.1#|heir|dynasty "Ghilzai"
+ 1715.11.1|monarch|name "Mir 'Abd-al'Aziz"
+ 1715.11.1|monarch|dynasty "Ghilzai"
+ 1715.11.1#|heir|name "Mir Mahmud"
+ 1715.11.1#|heir|monarch_name "Mir Mahmud"
+ 1715.11.1#|heir|dynasty "Ghilzai"
+ 1716.3.1|monarch|name "Mir Mahmud"
+ 1716.3.1|monarch|dynasty "Ghilzai"
+ 1716.3.1#|heir|name "Mir Ashraf"
+ 1716.3.1#|heir|monarch_name "Mir Ashraf"
+ 1716.3.1#|heir|dynasty "Ghilzai"
+ 1725.4.25|monarch|name "Mir Ashraf"
+ 1725.4.25|monarch|dynasty "Ghilzai"
+ 1725.4.25#|heir|name "Mir Husayn"
+ 1725.4.25#|heir|monarch_name "Mir Husayn"
+ 1725.4.25#|heir|dynasty "Ghilzai"
+ 1729.11.2|monarch|name "Mir Husayn"
+ 1729.11.2|monarch|dynasty "Ghilzai"
+ 1747.1.1|monarch|name "Ahmad Shah Durr-i-Durran"
+ 1747.1.1|monarch|dynasty "Durrani"
+ 1748.1.1|heir|name "Taimur"
+ 1748.1.1|heir|monarch_name "Taimur Shah"
+ 1748.1.1|heir|dynasty "Durrani"
+ 1772.10.1|monarch|name "Taimur Shah"
+ 1772.10.1|monarch|dynasty "Durrani"
+ 1772.10.1#|heir|name "Zaman"
+ 1772.10.1#|heir|monarch_name "Zaman Shah"
+ 1772.10.1#|heir|dynasty "Durrani"
+ 1793.1.1|monarch|name "Zaman Shah"
+ 1793.1.1|monarch|dynasty "Durrani"
+ 1793.1.1#|heir|name "Mahmud"
+ 1793.1.1#|heir|monarch_name "Mahmud Shah"
+ 1793.1.1#|heir|dynasty "Durrani"
+ 1801.1.1|monarch|name "Mahmud Shah"
+ 1801.1.1|monarch|dynasty "Durrani"
+ 1803.1.1|monarch|name "Shuja Shah"
+ 1803.1.1|monarch|dynasty "Durrani"
+ 1809.5.3|monarch|name "Mahmud Shah"
+ 1809.5.3|monarch|dynasty "Durrani"
+ 1818.1.1|monarch|name "阿里 沙"
+ 1818.1.1|monarch|dynasty "Durrani"
+ 1819.1.1|monarch|name "Ayub Shah"
+ 1819.1.1|monarch|dynasty "Durrani"

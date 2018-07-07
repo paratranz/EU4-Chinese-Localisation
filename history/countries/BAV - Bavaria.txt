@@ -1,623 +1,113 @@
-﻿government = feudal_monarchy
-government_rank = 1
-technology_group = western
-primary_culture = bavarian
-religion = catholic
-capital = 65
-1397.1.1 = {
-    monarch = {
-        name = "恩斯特 I"  # Ernst I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1373.1.1
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1401.3.27 = {
-    heir = {
-        name = "阿尔布雷希特"  # Albrecht
-        monarch_name = "阿尔布雷希特 III"  # Albrecht III
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1401.3.27
-        death_date = 1460.2.28
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-}
-1438.7.3 = {
-    monarch = {
-        name = "阿尔布雷希特 III"  # Albrecht III
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1401.3.27
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-    queen = {
-        country_of_origin = BRU
-        name = "安娜"  # Anna
-        dynasty = "冯 韦尔夫"  # von Welf
-        birth_date = 1414.1.1
-        death_date = 1474.4.14
-        female = yes
-        adm = 2
-        dip = 3
-        mil = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = benevolent_personality
-}
-1438.7.3 = {
-    heir = {
-        name = "约翰"  # Johann
-        monarch_name = "约翰 IV"  # Johann IV
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1438.7.3
-        death_date = 1463.11.18
-        claim = 95
-        adm = 1
-        dip = 0
-        mil = 1
-    }
-}
-1460.2.28 = {
-    monarch = {
-        name = "约翰 IV"  # Johann IV
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1438.7.3
-        adm = 1
-        dip = 0
-        mil = 1
-    }
-}
-1460.2.28 = {
-    heir = {
-        name = "西格蒙德"  # Siegmund
-        monarch_name = "西格蒙德 I"  # Siegmund I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1437.7.26
-        death_date = 1501.2.1
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-}
-1463.11.20 = {
-    monarch = {
-        name = "西格蒙德 I"  # Siegmund I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1437.7.26
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-}
-1463.11.20 = {
-    heir = {
-        name = "阿尔布雷希特「智者」"  # Albrecht der Weise
-        monarch_name = "阿尔布雷希特 IV「智者」"  # Albrecht IV der Weise
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1447.12.15
-        death_date = 1508.3.18
-        claim = 95
-        adm = 5
-        dip = 3
-        mil = 2
-    }
-}
-1467.9.4 = {
-    monarch = {
-        name = "阿尔布雷希特 IV「智者"  # Albrecht IV der Weise
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1447.12.15
-        adm = 5
-        dip = 3
-        mil = 2
-    }
-}
-1487.1.2 = {
-    queen = {
-        country_of_origin = HAB
-        name = "Kunigunde"  # Kunigunde
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1465.3.16
-        death_date = 1520.8.6
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 2
-    }
-}
-1493.11.13 = {
-    heir = {
-        name = "威廉"  # Wilhelm
-        monarch_name = "威廉 IV"  # Wilhelm IV
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1493.11.13
-        death_date = 1550.3.7
-        claim = 95
-        adm = 4
-        dip = 1
-        mil = 2
-    }
-}
-1508.3.19 = {
-    monarch = {
-        name = "威廉 IV"  # Wilhelm IV
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1493.11.13
-        adm = 4
-        dip = 1
-        mil = 2
-    }
-}
-1522.10.5 = {
-    queen = {
-        country_of_origin = BAD
-        name = "Kunigunde"  # Kunigunde
-        dynasty = "冯 扎林根"  # von Zähringen
-        birth_date = 1507.6.25
-        death_date = 1580.11.16
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-}
-1528.2.28 = {
-    heir = {
-        name = "阿尔布雷希特"  # Albrecht
-        monarch_name = "阿尔布雷希特 V"  # Albrecht V
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1528.2.28
-        death_date = 1579.10.24
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 0
-    }
-}
-1550.3.7 = {
-    monarch = {
-        name = "阿尔布雷希特 V"  # Albrecht V
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1528.2.28
-        adm = 2
-        dip = 3
-        mil = 0
-    }
-    queen = {
-        country_of_origin = HAB
-        name = "安娜"  # Anna
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1528.7.7
-        death_date = 1590.10.16
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-}
-1550.3.7 = {
-    heir = {
-        name = "威廉"  # Wilhelm
-        monarch_name = "威廉 V"  # Wilhelm V
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1548.9.29
-        death_date = 1626.2.7
-        claim = 95
-        adm = 4
-        dip = 1
-        mil = 1
-    }
-}
-1579.10.25 = {
-    monarch = {
-        name = "威廉 V"  # Wilhelm V
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1548.9.29
-        adm = 4
-        dip = 1
-        mil = 1
-    }
-    queen = {
-        country_of_origin = LOR
-        name = "Renata"  # Renata
-        dynasty = "德 沃代蒙"  # de Vaudémont
-        birth_date = 1544.4.20
-        death_date = 1602.5.22
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-}
-1579.10.25 = {
-    heir = {
-        name = "马克西米利安"  # Maximilian
-        monarch_name = "马克西米利安 I"  # Maximilian I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1573.4.17
-        death_date = 1651.9.27
-        claim = 95
-        adm = 2
-        dip = 4
-        mil = 0
-    }
-}
-1597.10.16 = {
-    monarch = {
-        name = "马克西米利安 I"  # Maximilian I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1573.4.17
-        adm = 2
-        dip = 4
-        mil = 0
-    }
-    queen = {
-        country_of_origin = LOR
-        name = "伊丽莎白"  # Elisabeth
-        dynasty = "德 沃代蒙"  # de Vaudémont
-        birth_date = 1574.10.9
-        death_date = 1635.1.4
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-}
-1609.1.1 = {
-    leader = {
-        name = "Tilly"  # Tilly
-        type = general
-        fire = 4
-        shock = 4
-        manuever = 3
-        siege = 1
-        death_date = 1632.4.30
-    }
-}
-1609.7.1 = {
-    join_league = catholic
-}
-1623.1.1 = {
-    elector = yes
-}
-1630.1.1 = {
-    leader = {
-        name = "Mercy"  # Mercy
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 1
-        siege = 0
-        death_date = 1645.8.3
-    }
-}
-1635.1.1 = {
-    leader = {
-        name = "von Werth"  # von Werth
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 4
-        siege = 0
-        death_date = 1652.9.16
-    }
-}
-1635.7.15 = {
-    queen = {
-        country_of_origin = HAB
-        name = "玛丽亚 安娜"  # Maria Anna
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1610.3.13
-        death_date = 1665.9.25
-        female = yes
-        adm = 4
-        dip = 3
-        mil = 1
-    }
-}
-1636.10.31 = {
-    heir = {
-        name = "斐迪南 玛丽亚"  # Ferdinand Maria
-        monarch_name = "斐迪南 玛丽亚 I"  # Ferdinand Maria I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1636.10.31
-        death_date = 1679.5.26
-        claim = 95
-        adm = 4
-        dip = 2
-        mil = 3
-    }
-}
-1641.1.1 = {
-    leader = {
-        name = "Grönsfeld"  # Grönsfeld
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1660.1.1
-    }
-}
-1647.3.15 = {
-    leave_league = catholic
-}
-1651.9.28 = {
-    monarch = {
-        name = "斐迪南 玛丽亚 I"  # Ferdinand Maria I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1636.10.31
-        adm = 4
-        dip = 2
-        mil = 3
-    }
-    queen = {
-        country_of_origin = SAV
-        name = "Henrietta Adelaide"  # Henrietta Adelaide
-        dynasty = "迪 萨伏伊"  # di Savoia
-        birth_date = 1636.11.6
-        death_date = 1676.6.13
-        female = yes
-        adm = 4
-        dip = 3
-        mil = 1
-    }
-}
-1662.7.11 = {
-    heir = {
-        name = "Maximilian Emanuel"  # Maximilian Emanuel
-        monarch_name = "Maximilian II Emanuel"  # Maximilian II Emanuel
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1662.7.11
-        death_date = 1726.2.26
-        claim = 95
-        adm = 7
-        dip = 3
-        mil = 2
-        leader = {
-            name = "Max II Emmanuel"  # Max II Emmanuel
-            type = general
-            fire = 2
-            shock = 3
-            manuever = 3
-            siege = 0
-        }
-    }
-}
-1679.5.27 = {
-    monarch = {
-        name = "Maximilian II Emanuel"  # Maximilian II Emanuel
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1662.7.11
-        adm = 4
-        dip = 3
-        mil = 2
-        leader = {
-            name = "Max II Emmanuel"  # Max II Emmanuel
-            type = general
-            fire = 2
-            shock = 3
-            manuever = 3
-            siege = 0
-        }
-    }
-}
-1685.7.15 = {
-    queen = {
-        country_of_origin = HAB
-        name = "Maria Antonia"  # Maria Antonia
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1669.1.18
-        death_date = 1692.12.24
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-}
-1695.1.2 = {
-    queen = {
-        country_of_origin = PLC
-        name = "Theresa Kunigunde"  # Theresa Kunigunde
-        dynasty = "Sobieski"  # Sobieski
-        birth_date = 1669.1.18
-        death_date = 1692.12.24
-        female = yes
-        adm = 3
-        dip = 2
-        mil = 1
-    }
-}
-1697.8.6 = {
-    heir = {
-        name = "卡尔 阿尔布雷希特"  # Karl Albrecht
-        monarch_name = "卡尔 阿尔布雷希特 I"  # Karl Albrecht I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1697.8.6
-        death_date = 1745.1.20
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 1
-    }
-}
-1706.1.1 = {
-    elector = no
-}
-1714.1.1 = {
-    elector = yes
-}
-1726.2.25 = {
-    monarch = {
-        name = "卡尔 阿尔布雷希特 I"  # Karl Albrecht I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1697.8.6
-        adm = 2
-        dip = 3
-        mil = 1
-    }
-    queen = {
-        country_of_origin = HAB
-        name = "玛丽亚 阿玛莉亚"  # Maria Amalia
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1701.10.22
-        death_date = 1756.12.11
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-}
-1727.3.28 = {
-    heir = {
-        name = "马克西米利安 约瑟夫"  # Maximilian Joseph
-        monarch_name = "Maximilian III Joseph"  # Maximilian III Joseph
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1727.3.28
-        death_date = 1777.12.30
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 3
-    }
-}
-1740.1.1 = {
-    leader = {
-        name = "Seckendorf"  # Seckendorf
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1763.11.23
-    }
-}
-1745.1.21 = {
-    monarch = {
-        name = "Maximilian III Joseph"  # Maximilian III Joseph
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1727.3.28
-        adm = 0
-        dip = 1
-        mil = 3
-    }
-}
-1745.1.21 = {
-    heir = {
-        name = "卡尔 西奥多"  # Karl Theodor
-        monarch_name = "卡尔 西奥多 I"  # Karl Theodor I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1724.12.11
-        death_date = 1799.2.16
-        claim = 65
-        adm = 3
-        dip = 4
-        mil = 0
-    }
-}
-1747.7.9 = {
-    queen = {
-        country_of_origin = SAX
-        name = "玛丽亚 安娜"  # Maria Anna
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1728.8.29
-        death_date = 1797.2.17
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-}
-1777.12.30 = {
-    monarch = {
-        name = "卡尔 西奥多 I"  # Karl Theodor I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1724.12.11
-        adm = 3
-        dip = 4
-        mil = 0
-    }
-    queen = {
-        country_of_origin = PAL
-        name = "伊丽莎白 奥古斯特"  # Elisabeth Auguste
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1721.1.17
-        death_date = 1794.8.17
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-}
-1777.12.30 = {
-    heir = {
-        name = "Maximilian Joseph"  # Maximilian Joseph
-        monarch_name = "Maximilian IV Joseph"  # Maximilian IV Joseph
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1756.5.27
-        death_date = 1825.10.13
-        claim = 95
-        adm = 5
-        dip = 5
-        mil = 2
-    }
-}
-1795.2.15 = {
-    queen = {
-        country_of_origin = HAB
-        name = "Maria Leopoldina"  # Maria Leopoldina
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1776.12.10
-        death_date = 1848.6.23
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
-}
-1799.2.15 = {
-    monarch = {
-        name = "Maximilian IV Joseph"  # Maximilian IV Joseph
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1756.5.27
-        adm = 5
-        dip = 5
-        mil = 2
-    }
-    queen = {
-        country_of_origin = BAD
-        name = "Karoline"  # Karoline
-        dynasty = "冯 扎林根"  # von Zähringen
-        birth_date = 1776.6.13
-        death_date = 1841.11.13
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-    heir = {
-        name = "路德维希"  # Ludwig
-        monarch_name = "路德维希 I"  # Ludwig I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1786.8.25
-        death_date = 1868.2.28
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 2
-    }
-}
-1806.7.12 = {
-    elector = no
-    government_rank = 1
-}
-1813.10.20 = {
-    government_rank = 2
-}
+﻿l_english:
+ 1397.1.1|monarch|name "恩斯特 I"
+ 1397.1.1|monarch|dynasty "冯 维特尔斯巴赫"
+ 1401.3.27|heir|name "阿尔布雷希特"
+ 1401.3.27|heir|monarch_name "阿尔布雷希特 III"
+ 1401.3.27|heir|dynasty "冯 维特尔斯巴赫"
+ 1438.7.3|monarch|name "阿尔布雷希特 III"
+ 1438.7.3|monarch|dynasty "冯 维特尔斯巴赫"
+ 1438.7.3|queen|name "安娜"
+ 1438.7.3|queen|dynasty "冯 韦尔夫"
+ 1438.7.3#|heir|name "约翰"
+ 1438.7.3#|heir|monarch_name "约翰 IV"
+ 1438.7.3#|heir|dynasty "冯 维特尔斯巴赫"
+ 1460.2.28|monarch|name "约翰 IV"
+ 1460.2.28|monarch|dynasty "冯 维特尔斯巴赫"
+ 1460.2.28#|heir|name "西格蒙德"
+ 1460.2.28#|heir|monarch_name "西格蒙德 I"
+ 1460.2.28#|heir|dynasty "冯 维特尔斯巴赫"
+ 1463.11.20|monarch|name "西格蒙德 I"
+ 1463.11.20|monarch|dynasty "冯 维特尔斯巴赫"
+ 1463.11.20#|heir|name "阿尔布雷希特「智者」"
+ 1463.11.20#|heir|monarch_name "阿尔布雷希特 IV「智者」"
+ 1463.11.20#|heir|dynasty "冯 维特尔斯巴赫"
+ 1467.9.4|monarch|name "阿尔布雷希特 IV「智者"
+ 1467.9.4|monarch|dynasty "冯 维特尔斯巴赫"
+ 1487.1.2|queen|name "库尼贡德"
+ 1487.1.2|queen|dynasty "冯 哈布斯堡"
+ 1493.11.13|heir|name "威廉"
+ 1493.11.13|heir|monarch_name "威廉 IV"
+ 1493.11.13|heir|dynasty "冯 维特尔斯巴赫"
+ 1508.3.19|monarch|name "威廉 IV"
+ 1508.3.19|monarch|dynasty "冯 维特尔斯巴赫"
+ 1522.10.5|queen|name "库尼贡德"
+ 1522.10.5|queen|dynasty "冯 扎林根"
+ 1528.2.28|heir|name "阿尔布雷希特"
+ 1528.2.28|heir|monarch_name "阿尔布雷希特 V"
+ 1528.2.28|heir|dynasty "冯 维特尔斯巴赫"
+ 1550.3.7|monarch|name "阿尔布雷希特 V"
+ 1550.3.7|monarch|dynasty "冯 维特尔斯巴赫"
+ 1550.3.7|queen|name "安娜"
+ 1550.3.7|queen|dynasty "冯 哈布斯堡"
+ 1550.3.7#|heir|name "威廉"
+ 1550.3.7#|heir|monarch_name "威廉 V"
+ 1550.3.7#|heir|dynasty "冯 维特尔斯巴赫"
+ 1579.10.25|monarch|name "威廉 V"
+ 1579.10.25|monarch|dynasty "冯 维特尔斯巴赫"
+ 1579.10.25|queen|name "瑞娜塔"
+ 1579.10.25|queen|dynasty "德 沃代蒙"
+ 1579.10.25#|heir|name "马克西米利安"
+ 1579.10.25#|heir|monarch_name "马克西米利安 I"
+ 1579.10.25#|heir|dynasty "冯 维特尔斯巴赫"
+ 1597.10.16|monarch|name "马克西米利安 I"
+ 1597.10.16|monarch|dynasty "冯 维特尔斯巴赫"
+ 1597.10.16|queen|name "伊丽莎白"
+ 1597.10.16|queen|dynasty "德 沃代蒙"
+ 1609.1.1|leader|name "Tilly"
+ 1630.1.1|leader|name "Mercy"
+ 1635.1.1|leader|name "von Werth"
+ 1635.7.15|queen|name "玛丽亚 安娜"
+ 1635.7.15|queen|dynasty "冯 哈布斯堡"
+ 1636.10.31|heir|name "斐迪南 玛丽亚"
+ 1636.10.31|heir|monarch_name "斐迪南 玛丽亚 I"
+ 1636.10.31|heir|dynasty "冯 维特尔斯巴赫"
+ 1641.1.1|leader|name "Grönsfeld"
+ 1651.9.28|monarch|name "斐迪南 玛丽亚 I"
+ 1651.9.28|monarch|dynasty "冯 维特尔斯巴赫"
+ 1651.9.28|queen|name "Henrietta Adelaide"
+ 1651.9.28|queen|dynasty "迪 萨伏伊"
+ 1662.7.11|heir|name "Maximilian Emanuel"
+ 1662.7.11|heir|monarch_name "Maximilian II Emanuel"
+ 1662.7.11|heir|dynasty "冯 维特尔斯巴赫"
+ 1662.7.11|heir|leader|name "Max II Emmanuel"
+ 1679.5.27|monarch|name "Maximilian II Emanuel"
+ 1679.5.27|monarch|dynasty "冯 维特尔斯巴赫"
+ 1679.5.27|monarch|leader|name "Max II Emmanuel"
+ 1685.7.15|queen|name "Maria Antonia"
+ 1685.7.15|queen|dynasty "冯 哈布斯堡"
+ 1695.1.2|queen|name "Theresa Kunigunde"
+ 1695.1.2|queen|dynasty "Sobieski"
+ 1697.8.6|heir|name "卡尔 阿尔布雷希特"
+ 1697.8.6|heir|monarch_name "卡尔 阿尔布雷希特 I"
+ 1697.8.6|heir|dynasty "冯 维特尔斯巴赫"
+ 1726.2.25|monarch|name "卡尔 阿尔布雷希特 I"
+ 1726.2.25|monarch|dynasty "冯 维特尔斯巴赫"
+ 1726.2.25|queen|name "玛丽亚 阿玛莉亚"
+ 1726.2.25|queen|dynasty "冯 哈布斯堡"
+ 1727.3.28|heir|name "马克西米利安 约瑟夫"
+ 1727.3.28|heir|monarch_name "Maximilian III Joseph"
+ 1727.3.28|heir|dynasty "冯 维特尔斯巴赫"
+ 1740.1.1|leader|name "Seckendorf"
+ 1745.1.21|monarch|name "Maximilian III Joseph"
+ 1745.1.21|monarch|dynasty "冯 维特尔斯巴赫"
+ 1745.1.21#|heir|name "卡尔 西奥多"
+ 1745.1.21#|heir|monarch_name "卡尔 西奥多 I"
+ 1745.1.21#|heir|dynasty "冯 维特尔斯巴赫"
+ 1747.7.9|queen|name "玛丽亚 安娜"
+ 1747.7.9|queen|dynasty "冯 韦廷"
+ 1777.12.30|monarch|name "卡尔 西奥多 I"
+ 1777.12.30|monarch|dynasty "冯 维特尔斯巴赫"
+ 1777.12.30|queen|name "伊丽莎白 奥古斯特"
+ 1777.12.30|queen|dynasty "冯 维特尔斯巴赫"
+ 1777.12.30#|heir|name "Maximilian Joseph"
+ 1777.12.30#|heir|monarch_name "Maximilian IV Joseph"
+ 1777.12.30#|heir|dynasty "冯 维特尔斯巴赫"
+ 1795.2.15|queen|name "Maria Leopoldina"
+ 1795.2.15|queen|dynasty "冯 哈布斯堡"
+ 1799.2.15|monarch|name "Maximilian IV Joseph"
+ 1799.2.15|monarch|dynasty "冯 维特尔斯巴赫"
+ 1799.2.15|queen|name "Karoline"
+ 1799.2.15|queen|dynasty "冯 扎林根"
+ 1799.2.15|heir|name "路德维希"
+ 1799.2.15|heir|monarch_name "路德维希 I"
+ 1799.2.15|heir|dynasty "冯 维特尔斯巴赫"
