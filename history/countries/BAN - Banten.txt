@@ -1,88 +1,390 @@
-﻿l_english:
- 1525.1.1|monarch|name "毛拉纳 哈桑丁"
- 1525.1.1|monarch|dynasty "古农查蒂"
- 1525.1.1#|heir|name "毛拉纳 优素福"
- 1525.1.1#|heir|monarch_name "毛拉纳 优素福"
- 1525.1.1#|heir|dynasty "古农查蒂"
- 1552.1.1|monarch|name "毛拉纳 优素福"
- 1552.1.1|monarch|dynasty "古农查蒂"
- 1552.1.1#|heir|name "毛拉纳 穆罕默德"
- 1552.1.1#|heir|monarch_name "毛拉纳 穆罕默德"
- 1552.1.1#|heir|dynasty "古农查蒂"
- 1570.1.1|monarch|name "毛拉纳 穆罕默德"
- 1570.1.1|monarch|dynasty "古农查蒂"
- 1570.1.1#|heir|name "Abdul Mufakir"
- 1570.1.1#|heir|monarch_name "Abdul Mufakir"
- 1570.1.1#|heir|dynasty "Gunungjati"
- 1580.1.1|monarch|name "Abdul Mufakir"
- 1580.1.1|monarch|dynasty "Gunungjati"
- 1580.1.1#|heir|name "Abdul Ma'ali"
- 1580.1.1#|heir|monarch_name "Abdul Ma'ali"
- 1580.1.1#|heir|dynasty "Gunungjati"
- 1598.1.1|monarch|name "Abdul Ma'ali"
- 1598.1.1|monarch|dynasty "Gunungjati"
- 1598.1.1#|heir|name "Ageng Tirtayasa"
- 1598.1.1#|heir|monarch_name "Ageng Tirtayasa"
- 1598.1.1#|heir|dynasty "古农查蒂"
- 1640.1.1|monarch|name "Ageng Tirtayasa"
- 1640.1.1|monarch|dynasty "古农查蒂"
- 1640.1.1#|heir|name "Abunasr"
- 1640.1.1#|heir|monarch_name "哈吉 阿布纳斯尔"
- 1640.1.1#|heir|dynasty "古农查蒂"
- 1651.1.1|monarch|name "Haji Abunasr"
- 1651.1.1|monarch|dynasty "Gunungjati"
- 1651.1.1#|heir|name "bul Fadhal"
- 1651.1.1#|heir|monarch_name "bul Fadhal"
- 1651.1.1#|heir|dynasty "Gunungjati"
- 1672.1.1|monarch|name "bul Fadhal"
- 1672.1.1|monarch|dynasty "Gunungjati"
- 1672.1.1#|heir|name "Abdul Mahasin"
- 1672.1.1#|heir|monarch_name "Abdul Mahasin"
- 1672.1.1#|heir|dynasty "Gunungjati"
- 1687.1.1|monarch|name "Abdul Mahasin"
- 1687.1.1|monarch|dynasty "Gunungjati"
- 1687.1.1#|heir|name "Muhamad Syifa"
- 1687.1.1#|heir|monarch_name "Muhamad Syifa"
- 1687.1.1#|heir|dynasty "Gunungjati"
- 1690.1.1|monarch|name "Muhamad Syifa"
- 1690.1.1|monarch|dynasty "Gunungjati"
- 1690.1.1#|heir|name "Syarifudin Ratu"
- 1690.1.1#|heir|monarch_name "Syarifudin Ratu"
- 1690.1.1#|heir|dynasty "Gunungjati"
- 1733.1.1|monarch|name "Syarifudin Ratu"
- 1733.1.1|monarch|dynasty "Gunungjati"
- 1733.1.1#|heir|name "Muhammad Wasizainul"
- 1733.1.1#|heir|monarch_name "Muhammad Wasizainul"
- 1733.1.1#|heir|dynasty "Gunungjati"
- 1750.1.1|monarch|name "Muhammad Wasizainul"
- 1750.1.1|monarch|dynasty "Gunungjati"
- 1750.1.1#|heir|name "Muhammad Arief"
- 1750.1.1#|heir|monarch_name "Muhammad Arief"
- 1750.1.1#|heir|dynasty "Gunungjati"
- 1752.1.1|monarch|name "Muhammad Arief"
- 1752.1.1|monarch|dynasty "Gunungjati"
- 1752.1.1#|heir|name "Abdul Mafakin"
- 1752.1.1#|heir|monarch_name "Abdul Mafakin"
- 1752.1.1#|heir|dynasty "Gunungjati"
- 1773.1.1|monarch|name "Abdul Mafakin"
- 1773.1.1|monarch|dynasty "Gunungjati"
- 1773.1.1#|heir|name "Muhyidin Zainussolihin"
- 1773.1.1#|heir|monarch_name "Muhyidin Zainussolihin"
- 1773.1.1#|heir|dynasty "Gunungjati"
- 1799.1.1|monarch|name "Muhyidin Zainussolihin"
- 1799.1.1|monarch|dynasty "Gunungjati"
- 1799.1.1#|heir|name "Muhammad Ishaq"
- 1799.1.1#|heir|monarch_name "Muhammad Ishaq"
- 1799.1.1#|heir|dynasty "Gunungjati"
- 1801.1.1|monarch|name "Muhammad Ishaq"
- 1801.1.1|monarch|dynasty "Gunungjati"
- 1802.1.1|monarch|name "Wakil Pangeran"
- 1802.1.1|monarch|dynasty "Gunungjati"
- 1803.1.1|monarch|name "Aliyuddin II"
- 1803.1.1|monarch|dynasty "Gunungjati"
- 1808.1.1|monarch|name "Wakil Pangeran"
- 1808.1.1|monarch|dynasty "Gunungjati"
- 1809.1.1|monarch|name "Muhammad Syafiuddin"
- 1809.1.1|monarch|dynasty "Gunungjati"
- 1813.1.1|monarch|name "Muhammad Rafiuddin"
- 1813.1.1|monarch|dynasty "古农查蒂"
+﻿government = despotic_monarchy
+technology_group = chinese
+primary_culture = javanese
+religion = sunni
+capital = 624
+religious_school = shafii_school
+1525.1.1 = {
+    monarch = {
+        name = "毛拉纳 哈桑丁"  # Maulana Hasanudin
+        dynasty = "古农查蒂"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1525.1.1 = {
+    heir = {
+        name = "毛拉纳 优素福"  # Maulana yusuf
+        monarch_name = "毛拉纳 优素福"  # Maulana Yusuf
+        dynasty = "古农查蒂"  # Gunungjati
+        birth_date = 1520.1.1
+        death_Date = 1570.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1552.1.1 = {
+    monarch = {
+        name = "毛拉纳 优素福"  # Maulana Yusuf
+        dynasty = "古农查蒂"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1552.1.1 = {
+    heir = {
+        name = "毛拉纳 穆罕默德"  # Maulana Muhammad
+        monarch_name = "毛拉纳 穆罕默德"  # Maulana Muhammad
+        dynasty = "古农查蒂"  # Gunungjati
+        birth_date = 1542.1.1
+        death_date = 1580.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1570.1.1 = {
+    monarch = {
+        name = "毛拉纳 穆罕默德"  # Maulana Muhammad
+        dynasty = "古农查蒂"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1570.1.1 = {
+    heir = {
+        name = "Abdul Mufakir"  # Abdul Mufakir
+        monarch_name = "Abdul Mufakir"  # Abdul Mufakir
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1560.1.1
+        death_date = 1598.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1580.1.1 = {
+    monarch = {
+        name = "Abdul Mufakir"  # Abdul Mufakir
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1580.1.1 = {
+    heir = {
+        name = "Abdul Ma'ali"  # Abdul Ma'ali
+        monarch_name = "Abdul Ma'ali"  # Abdul Ma'ali
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1580.1.1
+        death_date = 1640.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1598.1.1 = {
+    monarch = {
+        name = "Abdul Ma'ali"  # Abdul Ma'ali
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1598.1.1 = {
+    heir = {
+        name = "Ageng Tirtayasa"  # Ageng Tirtayasa
+        monarch_name = "Ageng Tirtayasa"  # Ageng Tirtayasa
+        dynasty = "古农查蒂"  # Gunungjati
+        birth_date = 1598.1.1
+        death_date = 1651.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1640.1.1 = {
+    monarch = {
+        name = "Ageng Tirtayasa"  # Ageng Tirtayasa
+        dynasty = "古农查蒂"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1640.1.1 = {
+    heir = {
+        name = "Abunasr"  # Abunasr
+        monarch_name = "哈吉 阿布纳斯尔"  # Haji Abunasr
+        dynasty = "古农查蒂"  # Gunungjati
+        birth_date = 1620.1.1
+        death_date = 1672.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1651.1.1 = {
+    monarch = {
+        name = "Haji Abunasr"  # Haji Abunasr
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1651.1.1 = {
+    heir = {
+        name = "bul Fadhal"  # bul Fadhal
+        monarch_name = "bul Fadhal"  # bul Fadhal
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1651.1.1
+        death_date = 1687.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1672.1.1 = {
+    monarch = {
+        name = "bul Fadhal"  # bul Fadhal
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1672.1.1 = {
+    heir = {
+        name = "Abdul Mahasin"  # Abdul Mahasin
+        monarch_name = "Abdul Mahasin"  # Abdul Mahasin
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1672.1.1
+        death_date = 1690.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1687.1.1 = {
+    monarch = {
+        name = "Abdul Mahasin"  # Abdul Mahasin
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1687.1.1 = {
+    heir = {
+        name = "Muhamad Syifa"  # Muhamad Syifa
+        monarch_name = "Muhamad Syifa"  # Muhamad Syifa
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1660.1.1
+        death_date = 1733.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1690.1.1 = {
+    monarch = {
+        name = "Muhamad Syifa"  # Muhamad Syifa
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1690.1.1 = {
+    heir = {
+        name = "Syarifudin Ratu"  # Syarifudin Ratu
+        monarch_name = "Syarifudin Ratu"  # Syarifudin Ratu
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1690.1.1
+        death_date = 1750.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1733.1.1 = {
+    monarch = {
+        name = "Syarifudin Ratu"  # Syarifudin Ratu
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1733.1.1 = {
+    heir = {
+        name = "Muhammad Wasizainul"  # Muhammad Wasizainul
+        monarch_name = "Muhammad Wasizainul"  # Muhammad Wasizainul
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1713.1.1
+        death_date = 1752.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1750.1.1 = {
+    monarch = {
+        name = "Muhammad Wasizainul"  # Muhammad Wasizainul
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1750.1.1 = {
+    heir = {
+        name = "Muhammad Arief"  # Muhammad Arief
+        monarch_name = "Muhammad Arief"  # Muhammad Arief
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1730.1.1
+        death_date = 1773.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1752.1.1 = {
+    monarch = {
+        name = "Muhammad Arief"  # Muhammad Arief
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1752.1.1 = {
+    heir = {
+        name = "Abdul Mafakin"  # Abdul Mafakin
+        monarch_name = "Abdul Mafakin"  # Abdul Mafakin
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1752.1.1
+        death_date = 1799.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1773.1.1 = {
+    monarch = {
+        name = "Abdul Mafakin"  # Abdul Mafakin
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1773.1.1 = {
+    heir = {
+        name = "Muhyidin Zainussolihin"  # Muhyidin Zainussolihin
+        monarch_name = "Muhyidin Zainussolihin"  # Muhyidin Zainussolihin
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1773.1.1
+        death_date = 1801.1.1
+        claim = 95
+        adm = 2
+        dip = 2
+        mil = 2
+    }
+}
+1799.1.1 = {
+    monarch = {
+        name = "Muhyidin Zainussolihin"  # Muhyidin Zainussolihin
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1799.1.1 = {
+    heir = {
+        name = "Muhammad Ishaq"  # Muhammad Ishaq
+        monarch_name = "Muhammad Ishaq"  # Muhammad Ishaq
+        dynasty = "Gunungjati"  # Gunungjati
+        birth_date = 1793.1.1
+        death_date = 1802.1.1
+        claim = 95
+        adm = 2
+        dip = 1
+        mil = 3
+    }
+}
+1801.1.1 = {
+    monarch = {
+        name = "Muhammad Ishaq"  # Muhammad Ishaq
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 1
+        mil = 3
+        adm = 2
+    }
+}
+1802.1.1 = {
+    monarch = {
+        name = "Wakil Pangeran"  # Wakil Pangeran
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 0
+        adm = 2
+    }
+}
+1803.1.1 = {
+    monarch = {
+        name = "Aliyuddin II"  # Aliyuddin II
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 2
+        mil = 2
+        adm = 2
+    }
+}
+1808.1.1 = {
+    monarch = {
+        name = "Wakil Pangeran"  # Wakil Pangeran
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 0
+        mil = 2
+        adm = 3
+    }
+}
+1809.1.1 = {
+    monarch = {
+        name = "Muhammad Syafiuddin"  # Muhammad Syafiuddin
+        dynasty = "Gunungjati"  # Gunungjati
+        dip = 1
+        mil = 2
+        adm = 2
+    }
+}
+1813.1.1 = {
+    monarch = {
+        name = "Muhammad Rafiuddin"  # Muhammad Rafiuddin
+        dynasty = "古农查蒂"  # Gunungjati
+        dip = 3
+        mil = 2
+        adm = 0
+    }
+}

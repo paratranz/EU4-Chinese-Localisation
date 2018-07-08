@@ -1,11 +1,61 @@
-﻿l_english:
- 1361.1.1|monarch|name "皮埃尔 II"
- 1361.1.1|monarch|dynasty "德 瓦卢瓦"
- 1404.1.1|monarch|name "让 I"
- 1404.1.1|monarch|dynasty "德 瓦卢瓦"
- 1414.1.1|monarch|name "让 II"
- 1414.1.1|monarch|dynasty "德 瓦卢瓦"
- 1478.1.1|monarch|name "勒内"
- 1478.1.1|monarch|dynasty "德 瓦卢瓦"
- 1492.1.1|monarch|name "查理 IV"
- 1492.1.1|monarch|dynasty "德 瓦卢瓦"
+﻿government = feudal_monarchy
+government_rank = 1
+primary_culture = cosmopolitan_french
+religion = catholic
+technology_group = western
+capital = 1879
+fixed_capital = 1879
+1361.1.1 = {
+    monarch = {
+        name = "皮埃尔 II"  # Pierre II
+        dynasty = "德 瓦卢瓦"  # de Valois
+        adm = 1
+        dip = 0
+        mil = 0
+    }
+}
+1404.1.1 = {
+    monarch = {
+        name = "让 I"  # Jean I
+        dynasty = "德 瓦卢瓦"  # de Valois
+        adm = 0
+        dip = 1
+        mil = 2
+    }
+}
+1414.1.1 = {
+    monarch = {
+        name = "让 II"  # Jean II
+        dynasty = "德 瓦卢瓦"  # de Valois
+        adm = 0
+        mil = 2
+        dip = 4
+    }
+}
+1478.1.1 = {
+    monarch = {
+        name = "勒内"  # René
+        dynasty = "德 瓦卢瓦"  # de Valois
+        adm = 1
+        mil = 1
+        dip = 3
+    }
+}
+1492.1.1 = {
+    monarch = {
+        name = "查理 IV"  # Charles IV
+        dynasty = "德 瓦卢瓦"  # de Valois
+        adm = 1
+        mil = 2
+        dip = 1
+    }
+}
+1515.1.2 = {
+    government = despotic_monarchy
+}
+1589.8.3 = {
+    government = administrative_monarchy
+}
+1661.3.9 = {
+    government = despotic_monarchy
+}

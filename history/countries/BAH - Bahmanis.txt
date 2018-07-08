@@ -1,75 +1,353 @@
-﻿l_english:
- 1397.1.1|monarch|name "Taj ud-Din Firuz"
- 1397.1.1|monarch|dynasty "巴赫曼"
- 1397.1.1|monarch|leader|name "Taj ud-Din Firuz"
- 1397.1.1#|heir|name "艾哈迈德"
- 1397.1.1#|heir|monarch_name "Ahmad Shah I Wali"
- 1397.1.1#|heir|dynasty "巴赫曼"
- 1422.1.1|monarch|name "Ahmad Shah I Wali"
- 1422.1.1|monarch|dynasty "巴赫曼"
- 1422.1.1#|heir|name "Ala ud-Din Ahmad"
- 1422.1.1#|heir|monarch_name "Ala ud-Din Ahmad Shah II"
- 1422.1.1#|heir|dynasty "巴赫曼"
- 1436.4.17|monarch|name "Ala ud-Din Ahmad Shah II"
- 1436.4.17|monarch|dynasty "巴赫曼"
- 1436.4.17|heir|name "Ala ud-Din Humayun"
- 1436.4.17|heir|monarch_name "Ala ud-Din Humanyun Shah"
- 1436.4.17|heir|dynasty "巴赫曼"
- 1458.5.6|monarch|name "Ala ud-Din Humayun Shah"
- 1458.5.6|monarch|dynasty "巴赫曼"
- 1458.5.6|heir|name "艾哈迈德"
- 1458.5.6|heir|monarch_name "艾哈迈德 沙 III"
- 1458.5.6|heir|dynasty "巴赫曼"
- 1461.9.4|monarch|name "Makhduma-e-Jahan Nargis Begum"
- 1463.7.30|monarch|name "穆罕默德 沙 III"
- 1463.7.30|monarch|dynasty "巴赫曼"
- 1463.7.30#|heir|name "马哈茂德"
- 1463.7.30#|heir|monarch_name "马哈茂德 沙阿 IV"
- 1463.7.30#|heir|dynasty "巴赫曼"
- 1482.3.26|monarch|name "卡西姆 I"
- 1482.3.26|monarch|dynasty "Barid Shahi"
- 1489.1.1|monarch|name "Qasim I"
- 1489.1.1|monarch|dynasty "Barid Shahi"
- 1489.1.1#|heir|name "Amir"
- 1489.1.1#|heir|monarch_name "Amir I"
- 1489.1.1#|heir|dynasty "Barid Shahi"
- 1490.1.1|heir|name "艾哈迈德"
- 1490.1.1|heir|monarch_name "艾哈迈德 沙 III"
- 1490.1.1|heir|dynasty "巴赫曼"
- 1504.1.1|monarch|name "Amir I"
- 1504.1.1|monarch|dynasty "Barid Shahi"
- 1504.1.1#|heir|name "阿里"
- 1504.1.1#|heir|monarch_name "阿里"
- 1504.1.1#|heir|dynasty "Barid Shahi"
- 1542.1.1|monarch|name "阿里"
- 1542.1.1|monarch|dynasty "Barid Shahi"
- 1542.1.1#|heir|name "易卜拉欣"
- 1542.1.1#|heir|monarch_name "易卜拉欣"
- 1542.1.1#|heir|dynasty "Barid Shahi"
- 1580.1.1|monarch|name "易卜拉欣"
- 1580.1.1|monarch|dynasty "Barid Shahi"
- 1580.1.1#|heir|name "Qasim"
- 1580.1.1#|heir|monarch_name "Qasim II"
- 1580.1.1#|heir|dynasty "Barid Shahi"
- 1587.1.1|monarch|name "Qasim II"
- 1587.1.1|monarch|dynasty "Barid Shahi"
- 1587.1.1#|heir|name "阿里"
- 1587.1.1#|heir|monarch_name "阿里 II"
- 1587.1.1#|heir|dynasty "Barid Shahi"
- 1591.1.1|monarch|name "阿里 II"
- 1591.1.1|monarch|dynasty "Barid Shahi"
- 1591.1.1#|heir|name "Amir"
- 1591.1.1#|heir|monarch_name "Amir II"
- 1591.1.1#|heir|dynasty "Barid Shahi"
- 1591.8.1|monarch|name "Amir II"
- 1591.8.1|monarch|dynasty "Barid Shahi"
- 1591.8.1#|heir|name "米尔扎 阿里"
- 1591.8.1#|heir|monarch_name "米尔扎 阿里"
- 1591.8.1#|heir|dynasty "Barid Shahi"
- 1601.1.1|monarch|name "米尔扎 阿里"
- 1601.1.1|monarch|dynasty "Barid Shahi"
- 1601.1.1#|heir|name "Amir"
- 1601.1.1#|heir|monarch_name "Amir III"
- 1601.1.1#|heir|dynasty "Barid Shahi"
- 1609.1.1|monarch|name "Amir III"
- 1609.1.1|monarch|dynasty "Barid Shahi"
+﻿government = iqta
+technology_group = indian
+religion = shiite
+primary_culture = kannada
+capital = 1948
+add_accepted_culture = marathi
+add_accepted_culture = telegu
+religious_school = jafari_school
+1397.1.1 = {
+    monarch = {
+        name = "Taj ud-Din Firuz"  # Taj ud-Din Firuz
+        dynasty = "巴赫曼"  # Bahmanid
+        DIP = 3
+        ADM = 4
+        MIL = 4
+        leader = {
+            name = "Taj ud-Din Firuz"  # Taj ud-Din Firuz
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 2
+            siege = 0
+        }
+    }
+}
+1397.1.1 = {
+    heir = {
+        name = "艾哈迈德"  # Ahmad
+        monarch_name = "Ahmad Shah I Wali"  # Ahmad Shah I Wali
+        dynasty = "巴赫曼"  # Bahmanid
+        birth_date = 1370.1.1
+        death_date = 1436.4.17
+        claim = 95
+        ADM = 4
+        DIP = 4
+        MIL = 3
+    }
+}
+1422.1.1 = {
+    monarch = {
+        name = "Ahmad Shah I Wali"  # Ahmad Shah I Wali
+        dynasty = "巴赫曼"  # Bahmanid
+        DIP = 2
+        ADM = 2
+        MIL = 2
+    }
+}
+1422.1.1 = {
+    heir = {
+        name = "Ala ud-Din Ahmad"  # Ala ud-Din Ahmad
+        monarch_name = "Ala ud-Din Ahmad Shah II"  # Ala ud-Din Ahmad Shah II
+        dynasty = "巴赫曼"  # Bahmanid
+        birth_date = 1410.1.1
+        death_Date = 1458.5.6
+        claim = 95
+        ADM = 4
+        DIP = 4
+        MIL = 5
+    }
+}
+1436.4.17 = {
+    monarch = {
+        name = "Ala ud-Din Ahmad Shah II"  # Ala ud-Din Ahmad Shah II
+        dynasty = "巴赫曼"  # Bahmanid
+        DIP = 4
+        ADM = 4
+        MIL = 5
+    }
+    heir = {
+        name = "Ala ud-Din Humayun"  # Ala ud-Din Humayun
+        monarch_name = "Ala ud-Din Humanyun Shah"  # Ala ud-Din Humanyun Shah
+        dynasty = "巴赫曼"  # Bahmanid
+        birth_date = 1410.1.1
+        death_Date = 1461.9.4
+        claim = 95
+        ADM = 3
+        DIP = 3
+        MIL = 4
+    }
+    add_piety = -0.5
+    clear_scripted_personalities = yes
+    add_ruler_personality = well_connected_personality
+    add_ruler_personality = fierce_negotiator_personality
+    add_heir_personality = well_advised_personality
+}
+1458.5.6 = {
+    monarch = {
+        name = "Ala ud-Din Humayun Shah"  # Ala ud-Din Humayun Shah
+        birth_date = 1410.1.1
+        dynasty = "巴赫曼"  # Bahmanid
+        DIP = 3
+        ADM = 3
+        MIL = 4
+    }
+    heir = {
+        name = "艾哈迈德"  # Ahmad
+        monarch_name = "艾哈迈德 沙 III"  # Ahmad Shah III
+        dynasty = "巴赫曼"  # Bahmanid
+        birth_date = 1440.1.1
+        death_date = 1463.7.30
+        claim = 95
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = well_advised_personality
+    add_ruler_personality = cruel_personality
+}
+1461.9.4 = {
+    monarch = {
+        name = "Makhduma-e-Jahan Nargis Begum"  # Makhduma-e-Jahan Nargis Begum
+        regent = yes
+        DIP = 3
+        ADM = 4
+        MIL = 2
+    }
+    clear_scripted_personalities = yes
+    add_queen_personality = charismatic_negotiator_personality
+}
+1463.7.30 = {
+    monarch = {
+        name = "穆罕默德 沙 III"  # Muhammad Shah III
+        dynasty = "巴赫曼"  # Bahmanid
+        DIP = 4
+        ADM = 4
+        MIL = 5
+    }
+    clear_scripted_personalities = yes
+    add_ruler_personality = well_advised_personality
+    add_ruler_personality = naive_personality
+}
+1463.7.30 = {
+    heir = {
+        name = "马哈茂德"  # Mahmud
+        monarch_name = "马哈茂德 沙阿 IV"  # Mahmud Shah IV
+        dynasty = "巴赫曼"  # Bahmanid
+        birth_date = 1450.1.1
+        death_date = 1518.12.18
+        claim = 95
+        ADM = 0
+        DIP = 0
+        MIL = 0
+    }
+}
+1482.3.26 = {
+    monarch = {
+        name = "卡西姆 I"  # Qasim I
+        dynasty = "Barid Shahi"  # Barid Shahi
+        regent = yes
+        DIP = 3
+        ADM = 4
+        MIL = 3
+    }
+}
+1489.1.1 = {
+    monarch = {
+        name = "Qasim I"  # Qasim I
+        dynasty = "Barid Shahi"  # Barid Shahi
+        DIP = 3
+        ADM = 4
+        MIL = 3
+    }
+}
+1489.1.1 = {
+    heir = {
+        name = "Amir"  # Amir
+        monarch_name = "Amir I"  # Amir I
+        dynasty = "Barid Shahi"  # Barid Shahi
+        birth_date = 1489.1.1
+        death_date = 1542.1.1
+        claim = 95
+        DIP = 2
+        ADM = 4
+        MIL = 2
+    }
+}
+1490.1.1 = {
+    heir = {
+        name = "艾哈迈德"  # Ahmad
+        monarch_name = "艾哈迈德 沙 III"  # Ahmad Shah III
+        dynasty = "巴赫曼"  # Bahmanid
+        birth_date = 1490.1.1
+        death_date = 1521.1.1
+        claim = 95
+        ADM = 1
+        DIP = 2
+        MIL = 0
+    }
+}
+1504.1.1 = {
+    monarch = {
+        name = "Amir I"  # Amir I
+        dynasty = "Barid Shahi"  # Barid Shahi
+        DIP = 2
+        ADM = 4
+        MIL = 2
+    }
+}
+1504.1.1 = {
+    heir = {
+        name = "阿里"  # Ali
+        monarch_name = "阿里"  # Ali
+        dynasty = "Barid Shahi"  # Barid Shahi
+        birth_date = 1504.1.1
+        death_date = 1580.1.1
+        claim = 95
+        DIP = 1
+        ADM = 1
+        MIL = 3
+    }
+}
+1542.1.1 = {
+    monarch = {
+        name = "阿里"  # Ali
+        dynasty = "Barid Shahi"  # Barid Shahi
+        DIP = 1
+        ADM = 1
+        MIL = 3
+    }
+}
+1542.1.1 = {
+    heir = {
+        name = "易卜拉欣"  # Ibrahim
+        monarch_name = "易卜拉欣"  # Ibrahim
+        dynasty = "Barid Shahi"  # Barid Shahi
+        birth_date = 1542.1.1
+        death_date = 1587.1.1
+        claim = 95
+        DIP = 0
+        ADM = 0
+        MIL = 2
+    }
+}
+1580.1.1 = {
+    monarch = {
+        name = "易卜拉欣"  # Ibrahim
+        dynasty = "Barid Shahi"  # Barid Shahi
+        DIP = 0
+        ADM = 0
+        MIL = 2
+    }
+}
+1580.1.1 = {
+    heir = {
+        name = "Qasim"  # Qasim
+        monarch_name = "Qasim II"  # Qasim II
+        dynasty = "Barid Shahi"  # Barid Shahi
+        birth_date = 1548.1.1
+        death_date = 1591.1.1
+        claim = 95
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1587.1.1 = {
+    monarch = {
+        name = "Qasim II"  # Qasim II
+        dynasty = "Barid Shahi"  # Barid Shahi
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1587.1.1 = {
+    heir = {
+        name = "阿里"  # Ali
+        monarch_name = "阿里 II"  # Ali II
+        dynasty = "Barid Shahi"  # Barid Shahi
+        birth_date = 1587.1.1
+        death_date = 1591.8.1
+        claim = 95
+        DIP = 2
+        ADM = 0
+        MIL = 0
+    }
+}
+1591.1.1 = {
+    monarch = {
+        name = "阿里 II"  # Ali II
+        dynasty = "Barid Shahi"  # Barid Shahi
+        DIP = 2
+        ADM = 0
+        MIL = 0
+    }
+}
+1591.1.1 = {
+    heir = {
+        name = "Amir"  # Amir
+        monarch_name = "Amir II"  # Amir II
+        dynasty = "Barid Shahi"  # Barid Shahi
+        birth_date = 1560.1.1
+        death_date = 1601.1.1
+        claim = 55
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1591.8.1 = {
+    monarch = {
+        name = "Amir II"  # Amir II
+        dynasty = "Barid Shahi"  # Barid Shahi
+        DIP = 0
+        ADM = 0
+        MIL = 0
+    }
+}
+1591.8.1 = {
+    heir = {
+        name = "米尔扎 阿里"  # Mirza Ali
+        monarch_name = "米尔扎 阿里"  # Mirza Ali
+        dynasty = "Barid Shahi"  # Barid Shahi
+        birth_date = 1570.1.1
+        death_date = 1609.1.1
+        claim = 55
+        DIP = 2
+        ADM = 1
+        MIL = 2
+    }
+}
+1601.1.1 = {
+    monarch = {
+        name = "米尔扎 阿里"  # Mirza Ali
+        dynasty = "Barid Shahi"  # Barid Shahi
+        DIP = 2
+        ADM = 1
+        MIL = 2
+    }
+}
+1601.1.1 = {
+    heir = {
+        name = "Amir"  # Amir
+        monarch_name = "Amir III"  # Amir III
+        dynasty = "Barid Shahi"  # Barid Shahi
+        birth_date = 1580.1.1
+        death_date = 1619.1.1
+        claim = 95
+        DIP = 1
+        ADM = 2
+        MIL = 3
+    }
+}
+1609.1.1 = {
+    monarch = {
+        name = "Amir III"  # Amir III
+        dynasty = "Barid Shahi"  # Barid Shahi
+        DIP = 1
+        ADM = 2
+        MIL = 3
+    }
+}
