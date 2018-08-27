@@ -1,0 +1,575 @@
+﻿mande = {
+    graphical_culture = africangfx
+    mali = {
+        primary = MAL
+        dynasty_names = {
+            "Keita"  # Keita
+            "Sama"  # Sama
+        }
+        male_names = {
+            "Mule"  # Mule
+            "Mamadu"  # Mamadu
+            "Al-Hajj"  # Al-Hajj
+            "'Ali Zalil"  # 'Ali Zalil
+            "Muhammad"  # Muhammad
+            "Da'ud"  # Da'ud
+            "Bakari"  # Bakari
+            "'Abd al-Rahman"  # 'Abd al-Rahman
+            "Bakr"  # Bakr
+            "Al-Mukhtar"  # Al-Mukhtar
+            "Mahmud"  # Mahmud
+            "Majan"  # Majan
+            "Birahim"  # Birahim
+            "'Ali"  # 'Ali
+            "Amada Sire"  # Amada Sire
+            "Nguia"  # Nguia
+            "Bubu"  # Bubu
+            "Ilo"  # Ilo
+            "Kanta"  # Kanta
+            "Al-Mansur"  # Al-Mansur
+            "'Ammar"  # 'Ammar
+            "Sa'ud 'Arjud"  # Sa'ud 'Arjud
+            "Haddu"  # Haddu
+            "Sa'id"  # Sa'id
+            "Dhu al-Nun"  # Dhu al-Nun
+            "'Abd Allah"  # 'Abd Allah
+            "Nasr"  # Nasr
+            "Yahya"  # Yahya
+            "Sanibar"  # Sanibar
+            "Hammadi"  # Hammadi
+            "'Abbas"  # 'Abbas
+            "Benkano"  # Benkano
+            "Zenka"  # Zenka
+            "Mami"  # Mami
+            "Ba-Bakribin"  # Ba-Bakribin
+            "'Abd al-Qadir"  # 'Abd al-Qadir
+            "Yusuf"  # Yusuf
+            "Santa'a"  # Santa'a
+            "Al-Fa' Ibrahim"  # Al-Fa' Ibrahim
+            "Sandaki"  # Sandaki
+        }
+        female_names = {
+            "Amna"  # Amna
+            "Ghadir"  # Ghadir
+            "Latifa"  # Latifa
+            "Maha"  # Maha
+            "Ranya"  # Ranya
+            "Ibtisam"  # Ibtisam
+            "Isra"  # Isra
+            "Karima"  # Karima
+            "Kera"  # Kera
+            "Khadija"  # Khadija
+            "Layla"  # Layla
+            "Malika"  # Malika
+            "Mariam"  # Mariam
+            "Maria"  # Maria
+            "Munya"  # Munya
+            "Munia"  # Munia
+            "Nadia"  # Nadia
+            "Naila"  # Naila
+            "Nur"  # Nur
+            "Rafiqa"  # Rafiqa
+            "Rahat"  # Rahat
+        }
+    }
+    songhai = {
+        primary = SON
+        dynasty_names = {
+            "Askia"  # Askia
+            "Sonni"  # Sonni
+        }
+        male_names = {
+            "Muhammad"  # Muhammad
+            "Karbifo"  # Karbifo
+            "Mar Fai"  # Mar Fai
+            "Mar-Arkana"  # Mar-Arkana
+            "Mar Arandan"  # Mar Arandan
+            "Sulaymân"  # Sulaymân
+            "`Alî Ber"  # `Alî Ber
+            "Bakarî"  # Bakarî
+            "Mûsâ"  # Mûsâ
+            "Ismâ`îl"  # Ismâ`îl
+            "Ishâq"  # Ishâq
+            "Dâ`ûd"  # Dâ`ûd
+            "Nûh"  # Nûh
+            "Hârûn"  # Hârûn
+            "al-Amîn"  # al-Amîn
+            "Hanga"  # Hanga
+            "Samsu"  # Samsu
+            "Harangi"  # Harangi
+            "Silman"  # Silman
+            "Abu Bakr"  # Abu Bakr
+            "Fodi Mayrumfa"  # Fodi Mayrumfa
+            "Al-Mustafa"  # Al-Mustafa
+            "Harun"  # Harun
+            "Tomo"  # Tomo
+            "Bassaru Missi"  # Bassaru Missi
+            "Bumi"  # Bumi
+            "Koyze Baba"  # Koyze Baba
+            "Wankoy"  # Wankoy
+            "Mar Kiray"  # Mar Kiray
+            "Bakr Zanku"  # Bakr Zanku
+            "Salman"  # Salman
+            "Birahim"  # Birahim
+            "Hammadi"  # Hammadi
+            "Al-Mansur"  # Al-Mansur
+            "`Ammar"  # `Ammar
+            "Sa`id"  # Sa`id
+            "`Abd Allah"  # `Abd Allah
+            "Nasr"  # Nasr
+            "Yahya"  # Yahya
+            "Yusuf"  # Yusuf
+        }
+        female_names = {
+            "Amna"  # Amna
+            "Ghadir"  # Ghadir
+            "Latifa"  # Latifa
+            "Maha"  # Maha
+            "Ranya"  # Ranya
+            "Ibtisam"  # Ibtisam
+            "Isra"  # Isra
+            "Karima"  # Karima
+            "Kera"  # Kera
+            "Khadija"  # Khadija
+            "Layla"  # Layla
+            "Malika"  # Malika
+            "Mariam"  # Mariam
+            "Maria"  # Maria
+            "Munya"  # Munya
+            "Munia"  # Munia
+            "Nadia"  # Nadia
+            "Naila"  # Naila
+            "Nur"  # Nur
+            "Rafiqa"  # Rafiqa
+            "Rahat"  # Rahat
+        }
+    }
+    soninke = {
+        primary = ZAF
+        dynasty_names = {
+            "Ghana"  # Ghana
+            "Diarisso"  # Diarisso
+            "Kante"  # Kante
+        }
+        male_names = {
+            "Barama N'Golo"  # Barama N'Golo
+            "Danfasri"  # Danfasri
+            "Suma"  # Suma
+            "Denkoro"  # Denkoro
+            "Bakari"  # Bakari
+            "Ton Mansa Demele"  # Ton Mansa Demele
+            "Kera Djugu"  # Kera Djugu
+            "Monson"  # Monson
+            "Tonkomo"  # Tonkomo
+            "Fa Sine"  # Fa Sine
+            "Da Kaha"  # Da Kaha
+            "Tyefolo"  # Tyefolo
+            "Nga Ngolo"  # Nga Ngolo
+            "Sunsa"  # Sunsa
+            "Massa"  # Massa
+            "Sekolo"  # Sekolo
+            "Forokolo"  # Forokolo
+            "Seba Mana"  # Seba Mana
+            "Deni ba Bo"  # Deni ba Bo
+            "Sira Bo"  # Sira Bo
+            "Dessekoro"  # Dessekoro
+            "Saraba"  # Saraba
+            "Nntinkoro"  # Nntinkoro
+            "Nanka"  # Nanka
+            "Daoula"  # Daoula
+            "Yadega"  # Yadega
+            "Yolomfaogoma"  # Yolomfaogoma
+            "Kourita"  # Kourita
+            "Geba"  # Geba
+            "Wobgho"  # Wobgho
+            "Saaga"  # Saaga
+            "Kaongo"  # Kaongo
+            "Dulugu"  # Dulugu
+            "Sawadogo"  # Sawadogo
+            "Karfo"  # Karfo
+            "Baongo"  # Baongo
+            "Tontuoriba"  # Tontuoriba
+        }
+        female_names = {
+            "Tabara"  # Tabara
+            "Gaisiri"  # Gaisiri
+            "Bello"  # Bello
+            "Diallo"  # Diallo
+            "Nyako"  # Nyako
+            "Endana"  # Endana
+            "Gethera"  # Gethera
+            "Hinya"  # Hinya
+            "Ikeno"  # Ikeno
+            "Inira"  # Inira
+            "Inithia"  # Inithia
+            "Itanya"  # Itanya
+            "Jamba"  # Jamba
+            "Kakena"  # Kakena
+            "Kenja"  # Kenja
+            "Kenithia"  # Kenithia
+            "Kenura"  # Kenura
+            "Kiama"  # Kiama
+            "Kiania"  # Kiania
+            "Kianira"  # Kianira
+            "Kiira"  # Kiira
+            "Kirima"  # Kirima
+            "Muney"  # Muney
+            "Muraty"  # Muraty
+            "Oyana"  # Oyana
+            "Therania"  # Therania
+            "Tia"  # Tia
+        }
+    }
+    bambara = {
+        primary = SOF
+        dynasty_names = {
+            "Coulibaly"  # Coulibaly
+            "Diarra"  # Diarra
+            "Massassi"  # Massassi
+        }
+    }
+    bozo = {
+        primary = JNN
+        dynasty_names = {
+            "Konboro"  # Konboro
+            "Seku"  # Seku
+        }
+        male_names = {
+            "Barama N'Golo"  # Barama N'Golo
+            "Kaladyan Kulibaly"  # Kaladyan Kulibaly
+            "Danfasri"  # Danfasri
+            "Suma"  # Suma
+            "Biton Mamari"  # Biton Mamari
+            "Denkoro"  # Denkoro
+            "Bakari"  # Bakari
+            "Ton Mansa Demele"  # Ton Mansa Demele
+            "Kanyuba Nyama"  # Kanyuba Nyama
+            "Kera Djugu"  # Kera Djugu
+            "N'Golo Diara"  # N'Golo Diara
+            "Monson"  # Monson
+            "Tonkomo"  # Tonkomo
+            "Fa Sine"  # Fa Sine
+            "Da Kaha"  # Da Kaha
+            "Tyefolo"  # Tyefolo
+            "Nga Ngolo"  # Nga Ngolo
+            "Sunsa"  # Sunsa
+            "Massa"  # Massa
+            "Sekolo"  # Sekolo
+            "Forokolo"  # Forokolo
+            "Seba Mana"  # Seba Mana
+            "Deni ba Bo"  # Deni ba Bo
+            "Sira Bo"  # Sira Bo
+            "Dessekoro"  # Dessekoro
+            "Saraba"  # Saraba
+            "Nntinkoro"  # Nntinkoro
+            "Nanka"  # Nanka
+            "Daoula"  # Daoula
+            "Yadega"  # Yadega
+            "Yolomfaogoma"  # Yolomfaogoma
+            "Kourita"  # Kourita
+            "Geba"  # Geba
+            "Wobgho"  # Wobgho
+            "Saaga"  # Saaga
+            "Kaongo"  # Kaongo
+            "Dulugu"  # Dulugu
+            "Sawadogo"  # Sawadogo
+            "Karfo"  # Karfo
+            "Baongo"  # Baongo
+            "Tontuoriba"  # Tontuoriba
+        }
+        female_names = {
+            "Masego"  # Masego
+            "Sekai"  # Sekai
+            "Tsholofelo"  # Tsholofelo
+            "Boipelo"  # Boipelo
+            "Boitumelo"  # Boitumelo
+            "Dikeledi"  # Dikeledi
+            "Itumeleng"  # Itumeleng
+            "Kagiso"  # Kagiso
+            "Katlego"  # Katlego
+            "Kefilwe"  # Kefilwe
+            "Lesedi"  # Lesedi
+            "Neo"  # Neo
+            "Refilwe"  # Refilwe
+            "Sethunya"  # Sethunya
+            "Tumelo"  # Tumelo
+        }
+    }
+    dyola = {
+        primary = KNG
+        dynasty_names = {
+            "Gorogo"  # Gorogo
+            "Wattara"  # Wattara
+        }
+        male_names = {
+            "Agyen Kokobo"  # Agyen Kokobo
+            "Ofusu Kwabi"  # Ofusu Kwabi
+            "Oduro"  # Oduro
+            "Ado"  # Ado
+            "Otumfo Asare"  # Otumfo Asare
+            "Yanza"  # Yanza
+            "Ansa Saseraku"  # Ansa Saseraku
+            "Akotia"  # Akotia
+            "Abuako Dako"  # Abuako Dako
+            "Afera Kuma"  # Afera Kuma
+            "Manukure"  # Manukure
+            "Akwamno Panyini"  # Akwamno Panyini
+            "Dako Booman"  # Dako Booman
+            "Mnumunumfi"  # Mnumunumfi
+            "Werempe Ampem"  # Werempe Ampem
+            "Boa Amponsem"  # Boa Amponsem
+            "Ntim Gyakari"  # Ntim Gyakari
+            "Boado Ahafo Berempon"  # Boado Ahafo Berempon
+            "Kyei Akobeng"  # Kyei Akobeng
+            "Amoako Atta Panyin"  # Amoako Atta Panyin
+            "Gyan Badu"  # Gyan Badu
+            "Amoako Atta Kuma"  # Amoako Atta Kuma
+            "Amoako Atta Yiadom"  # Amoako Atta Yiadom
+            "Owusu Bori"  # Owusu Bori
+            "Kwadwo Tibu"  # Kwadwo Tibu
+            "Kwakye Fram"  # Kwakye Fram
+            "Kwesi Kyei"  # Kwesi Kyei
+            "Nkwantabisa"  # Nkwantabisa
+        }
+        female_names = {
+            "Adaeze"  # Adaeze
+            "Adanna"  # Adanna
+            "Adannaya"  # Adannaya
+            "Akachi"  # Akachi
+            "Akuchi"  # Akuchi
+            "Amaka"  # Amaka
+            "Schiamaka"  # Schiamaka
+            "Amara"  # Amara
+            "Amarachi"  # Amarachi
+            "Añuli"  # Añuli
+            "Chi"  # Chi
+            "Chiamaka"  # Chiamaka
+            "Chibueze"  # Chibueze
+            "Chibuike"  # Chibuike
+            "Chibuzo"  # Chibuzo
+            "Chichi"  # Chichi
+            "Chidi"  # Chidi
+            "Chidiebere"  # Chidiebere
+            "Chidiebube"  # Chidiebube
+            "Chidiegwu"  # Chidiegwu
+            "Chidimma"  # Chidimma
+            "Chijindum"  # Chijindum
+            "Chika"  # Chika
+            "Chike"  # Chike
+            "Chikelu"  # Chikelu
+            "Chikere"  # Chikere
+            "Chinasa"  # Chinasa
+            "Chinedu"  # Chinedu
+            "Chinonso"  # Chinonso
+            "Chinwe"  # Chinwe
+            "Chinweike"  # Chinweike
+            "Chinwendu"  # Chinwendu
+            "Chinweuba"  # Chinweuba
+            "Chinyelu"  # Chinyelu
+            "Chinyere"  # Chinyere
+            "Chioma"  # Chioma
+            "Chizoba"  # Chizoba
+            "Ebele"  # Ebele
+            "Ekene"  # Ekene
+            "Ekenedilichukwu"  # Ekenedilichukwu
+            "Fumnanya"  # Fumnanya
+            "Funanya"  # Funanya
+            "Ndidi"  # Ndidi
+            "Ngozi"  # Ngozi
+            "Nkechi"  # Nkechi
+            "Nkechinyere"  # Nkechinyere
+            "Nkemdilim"  # Nkemdilim
+            "Nkiru"  # Nkiru
+            "Nkiruka"  # Nkiruka
+            "Nneka"  # Nneka
+            "Nnenna"  # Nnenna
+            "Nnenne"  # Nnenne
+            "Nwanneka"  # Nwanneka
+            "Ogechi"  # Ogechi
+            "Ogechukwukama"  # Ogechukwukama
+            "Oluchi"  # Oluchi
+            "Onyeka"  # Onyeka
+            "Onyekachi"  # Onyekachi
+            "Onyekachukwu"  # Onyekachukwu
+            "Udo"  # Udo
+            "Uzoma"  # Uzoma
+        }
+    }
+    male_names = {
+        "Abi-Bakr"  # Abi-Bakr
+        "Abubakari"  # Abubakari
+        "Akoi"  # Akoi
+        "Alayaman"  # Alayaman
+        "Ali"  # Ali
+        "Ali"  # Ali
+        "Ali-Fay"  # Ali-Fay
+        "Ali-Kolon"  # Ali-Kolon
+        "Ali-Zalil"  # Ali-Zalil
+        "Badä"  # Badä
+        "Bakr"  # Bakr
+        "Bakr-Kanbu"  # Bakr-Kanbu
+        "Bamari"  # Bamari
+        "Bankanu"  # Bankanu
+        "Bannu"  # Bannu
+        "Bassarou"  # Bassarou
+        "Bassi"  # Bassi
+        "Birama"  # Birama
+        "Bisi"  # Bisi
+        "Biyu"  # Biyu
+        "Bonga"  # Bonga
+        "Cisse"  # Cisse
+        "Dankaran"  # Dankaran
+        "Daoud"  # Daoud
+        "David"  # David
+        "Dawud"  # Dawud
+        "David"  # David
+        "Demba"  # Demba
+        "Diara"  # Diara
+        "Düru"  # Düru
+        "Faga-Laye"  # Faga-Laye
+        "Fatta"  # Fatta
+        "Fodi"  # Fodi
+        "Fuluku"  # Fuluku
+        "Fädazu"  # Fädazu
+        "Gane"  # Gane
+        "Gao"  # Gao
+        "Hargani"  # Hargani
+        "Harun"  # Harun
+        "Igoumou"  # Igoumou
+        "Ishaq"  # Ishaq
+        "Isaac"  # Isaac
+        "Ismail"  # Ismail
+        "Ismail"  # Ismail
+        "Kabayo"  # Kabayo
+        "Kalabi"  # Kalabi
+        "Kambine"  # Kambine
+        "Kanafa"  # Kanafa
+        "Kassa"  # Kassa
+        "Kasseï"  # Kasseï
+        "Kaya"  # Kaya
+        "Kayna"  # Kayna
+        "Kinkin"  # Kinkin
+        "Kisha"  # Kisha
+        "Kodama"  # Kodama
+        "Koïzé"  # Koïzé
+        "Kukuray"  # Kukuray
+        "Kusoy"  # Kusoy
+        "Lahiltoul"  # Lahiltoul
+        "M'Bali"  # M'Bali
+        "Maammarou"  # Maammarou
+        "Maghan"  # Maghan
+        "Mahmud"  # Mahmud
+        "Mahmud"  # Mahmud
+        "Majan"  # Majan
+        "Malla"  # Malla
+        "Mamadi"  # Mamadi
+        "Mamoudou"  # Mamoudou
+        "Manding-Bory"  # Manding-Bory
+        "Mari-Djata"  # Mari-Djata
+        "Maÿroumfa"  # Maÿroumfa
+        "Missi-Izé"  # Missi-Izé
+        "Morobani"  # Morobani
+        "Musa"  # Musa
+        "Moses"  # Moses
+        "Nintasanay"  # Nintasanay
+        "Nuh"  # Nuh
+        "Ouali"  # Ouali
+        "Ouankoÿ"  # Ouankoÿ
+        "Ouati"  # Ouati
+        "Reidja"  # Reidja
+        "Sakoura"  # Sakoura
+        "Salman"  # Salman
+        "Solomon"  # Solomon
+        "Samsou-Béri"  # Samsou-Béri
+        "Samsou-Keïna"  # Samsou-Keïna
+        "Sandaki"  # Sandaki
+        "Soumaba"  # Soumaba
+        "Soumaoro"  # Soumaoro
+        "Soundiata"  # Soundiata
+        "Sulayman"  # Sulayman
+        "Solomon"  # Solomon
+        "Takoi"  # Takoi
+        "Tib"  # Tib
+        "Tomo"  # Tomo
+        "Thomas"  # Thomas
+        "Tunka"  # Tunka
+        "Umar"  # Umar
+        "Umar"  # Umar
+        "Yama"  # Yama
+        "Yaqub"  # Yaqub
+        "Jacob"  # Jacob
+        "Yasiboy"  # Yasiboy
+        "Zakoi"  # Zakoi
+        "Zenku"  # Zenku
+    }
+    female_names = {
+        "Adja"  # Adja
+        "Aichata"  # Aichata
+        "Aissata"  # Aissata
+        "Alima"  # Alima
+        "Aminata"  # Aminata
+        "Amita"  # Amita
+        "Aoua"  # Aoua
+        "Barakissa"  # Barakissa
+        "Bintou"  # Bintou
+        "Deye"  # Deye
+        "Djeneba"  # Djeneba
+        "Djenly"  # Djenly
+        "Djire"  # Djire
+        "Fadima"  # Fadima
+        "Fatim"  # Fatim
+        "Fatoumata"  # Fatoumata
+        "Halima"  # Halima
+        "Hawa"  # Hawa
+        "Ina"  # Ina
+        "Kadi"  # Kadi
+        "Kilia"  # Kilia
+        "Kolonkan"  # Kolonkan
+        "Lorane"  # Lorane
+        "Mariam"  # Mariam
+        "Nafissa"  # Nafissa
+        "Namandjé"  # Namandjé
+        "Namiss"  # Namiss
+        "Nana"  # Nana
+        "Safiatou"  # Safiatou
+        "Salimata"  # Salimata
+        "Sassouma"  # Sassouma
+        "Sidibé"  # Sidibé
+        "Siya"  # Siya
+        "Sogolon"  # Sogolon
+        "Tekhaye"  # Tekhaye
+        "Youma"  # Youma
+        "Zeïnab"  # Zeïnab
+    }
+    dynasty_names = {
+        "Cisse"  # Cisse
+        "Diarisso"  # Diarisso
+        "Keita"  # Keita
+        "Bereté"  # Bereté
+        "Kédjou"  # Kédjou
+        "Moussa"  # Moussa
+        "Zuwa"  # Zuwa
+        "Sonni"  # Sonni
+        "Askiya"  # Askiya
+        "Konare"  # Konare
+        "Traoré"  # Traoré
+        "Modibo"  # Modibo
+        "Toumani"  # Toumani
+        "Gurmanche"  # Gurmanche
+        "Buricimba"  # Buricimba
+        "Nungu"  # Nungu
+        "Mossi"  # Mossi
+        "Habe"  # Habe
+        "of Zarma"  # of Zarma
+        "of Gurma"  # of Gurma
+        "of Djenne"  # of Djenne
+        "of Bambuk"  # of Bambuk
+        "Ezekoye"  # Ezekoye
+        "Sahara"  # Sahara
+        "Oualata"  # Oualata
+        "Bambuk"  # Bambuk
+        "Gurma"  # Gurma
+        "Djenné"  # Djenné
+        "Tadmekka"  # Tadmekka
+    }
+}
