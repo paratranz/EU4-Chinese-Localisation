@@ -1,0 +1,77 @@
+﻿government = tribal
+add_government_reform = tribal_kingdom
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = saurashtri
+capital = 515
+1440.1.1 = {
+    monarch = {
+        name = "Mahipala III"  # Mahipala III
+        dynasty = "Chudasama"  # Chudasama
+        ADM = 4
+        DIP = 4
+        MIL = 2
+    }
+}
+1444.1.1 = {
+    heir = {
+        name = "Mandalika III"  # Mandalika III
+        monarch_name = "Mandalika"  # Mandalika
+        dynasty = "Chudasama"  # Chudasama
+        birth_date = 1440.1.1
+        death_Date = 1472.1.1
+        claim = 95
+        ADM = 3
+        DIP = 4
+        MIL = 5
+    }
+}
+1451.1.1 = {
+    monarch = {
+        name = "Mandalika III"  # Mandalika III
+        dynasty = "Chudasama"  # Chudasama
+        ADM = 3
+        DIP = 4
+        MIL = 5
+    }
+}
+1725.1.1 = {
+    religion = sunni
+    government = monarchy
+    add_government_reform = indian_sultanate_reform
+    monarch = {
+        name = "Mohammad Bahadur"  # Mohammad Bahadur
+        dynasty = "Babi"  # Babi
+        ADM = 3
+        DIP = 4
+        MIL = 3
+    }
+}
+1758.1.1 = {
+    monarch = {
+        name = "Mohammad Mahabat"  # Mohammad Mahabat
+        dynasty = "Babi"  # Babi
+        ADM = 2
+        DIP = 0
+        MIL = 1
+    }
+}
+1774.1.1 = {
+    monarch = {
+        name = "Mohammad Hamid"  # Mohammad Hamid
+        dynasty = "Babi"  # Babi
+        ADM = 2
+        DIP = 0
+        MIL = 1
+    }
+}
+1811.1.1 = {
+    monarch = {
+        name = "Mohammad Bahadur II"  # Mohammad Bahadur II
+        dynasty = "Babi"  # Babi
+        ADM = 2
+        DIP = 0
+        MIL = 1
+    }
+}
