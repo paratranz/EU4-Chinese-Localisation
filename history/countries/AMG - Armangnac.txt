@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 technology_group = western
 primary_culture = gascon
 religion = catholic
@@ -6,7 +7,7 @@ capital = 175
 fixed_capital = 175
 1391.7.25 = {
     monarch = {
-        name = "贝尔纳 VII"  # Bernard VII
+        name = "伯纳德 VII"  # Bernard VII
         dynasty = "德 阿马尼亚克"  # d'Armagnac
         adm = 1
         dip = 1
@@ -128,7 +129,8 @@ fixed_capital = 175
     }
 }
 1525.4.12 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1525.4.12 = {
     monarch = {
@@ -145,8 +147,9 @@ fixed_capital = 175
     religion = reformed
 }
 1562.11.18 = {
-    government = administrative_monarchy
+    set_legacy_government = administrative_monarchy
 }
 1661.3.9 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
