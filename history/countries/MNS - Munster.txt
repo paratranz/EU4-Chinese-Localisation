@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 technology_group = western
 religion = catholic
@@ -217,8 +218,8 @@ capital = 375
     }
 }
 1617.1.1 = {
-    government = administrative_monarchy
+    set_legacy_government = administrative_monarchy
 }
 1707.1.1 = {
-    government = constitutional_monarchy
+    set_legacy_government = constitutional_monarchy
 }

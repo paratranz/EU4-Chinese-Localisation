@@ -1,4 +1,5 @@
-﻿government = iqta
+﻿government = monarchy
+add_government_reform = iqta
 primary_culture = andalucian
 religion = sunni
 add_accepted_culture = berber
@@ -181,11 +182,13 @@ religious_school = maliki_school
     }
 }
 1568.1.1 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1724.1.20 = {
-    government = administrative_monarchy
+    set_legacy_government = administrative_monarchy
 }
 1759.8.12 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }

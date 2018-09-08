@@ -1,4 +1,5 @@
-﻿government = revolutionary_republic
+﻿government = republic
+add_government_reform = revolutionary_republic_reform
 government_rank = 3
 primary_culture = castillian
 religion = catholic
@@ -149,7 +150,7 @@ capital = 787
     }
 }
 1818.2.18 = {
-    government = republican_dictatorship
+    add_government_reform = presidential_despot_reform
 }
 1818.2.18 = {
     monarch = {

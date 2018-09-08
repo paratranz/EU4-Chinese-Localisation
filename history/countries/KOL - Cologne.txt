@@ -1,4 +1,5 @@
-﻿government = theocratic_government
+﻿government = theocracy
+add_government_reform = leading_clergy_reform
 primary_culture = hessian
 religion = catholic
 elector = yes
@@ -206,7 +207,7 @@ fixed_capital = 85
     elector = no
 }
 1806.7.12 = {
-    government = constitutional_monarchy
+    set_legacy_government = constitutional_monarchy
 }
 1806.7.12 = {
     monarch = {

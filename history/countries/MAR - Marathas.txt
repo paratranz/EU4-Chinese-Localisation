@@ -1,4 +1,5 @@
-﻿government = despotic_monarchy
+﻿government = monarchy
+add_government_reform = autocracy_reform
 technology_group = indian
 primary_culture = marathi
 religion = hinduism
@@ -107,7 +108,7 @@ capital = 1946
     }
 }
 1713.11.6 = {
-    government = administrative_monarchy
+    set_legacy_government = administrative_monarchy
     monarch = {
         name = "巴拉吉 I 维什瓦纳特"  # Balaji I Vishvanath
         dynasty = "巴特"  # Bhat
@@ -272,7 +273,8 @@ capital = 1946
 }
 1808.1.1 = {
     government_rank = 2
-    government = feudal_monarchy
+    government = monarchy
+    add_government_reform = feudalism_reform
     monarch = {
         name = "普拉塔普 辛格"  # Pratap Singh
         dynasty = "邦斯莱"  # Bhonsle

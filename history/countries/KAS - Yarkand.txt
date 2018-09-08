@@ -1,4 +1,5 @@
-﻿government = iqta
+﻿government = monarchy
+add_government_reform = iqta
 primary_culture = uyghur
 religion = sunni
 technology_group = chinese
@@ -333,7 +334,8 @@ religious_school = hanafi_school
         dip = 3
         mil = 4
     }
-    government = theocratic_government
+    government = theocracy
+    add_government_reform = leading_clergy_reform
 }
 1690.1.1 = {
     monarch = {
@@ -343,7 +345,8 @@ religious_school = hanafi_school
         dip = 1
         mil = 1
     }
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1692.1.1 = {
     monarch = {
@@ -353,7 +356,8 @@ religious_school = hanafi_school
         dip = 2
         mil = 1
     }
-    government = theocratic_government
+    government = theocracy
+    add_government_reform = leading_clergy_reform
 }
 1695.1.1 = {
     monarch = {
@@ -364,7 +368,8 @@ religious_school = hanafi_school
         dip = 2
         mil = 1
     }
-    government = iqta
+    government = monarchy
+    add_government_reform = iqta
 }
 1695.8.1 = {
     monarch = {

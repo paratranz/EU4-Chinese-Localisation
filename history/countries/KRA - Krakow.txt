@@ -1,17 +1,18 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 primary_culture = polish
 religion = catholic
 technology_group = eastern
 capital = 262
 fixed_capital = 262
 1530.1.1 = {
-    government = administrative_monarchy
+    set_legacy_government = administrative_monarchy
 }
 1540.1.1 = {
-    government = administrative_republic
+    set_legacy_government = administrative_republic
 }
 1750.1.1 = {
-    government = constitutional_republic
+    set_legacy_government = constitutional_republic
 }
 1815.5.3 = {
     monarch = {

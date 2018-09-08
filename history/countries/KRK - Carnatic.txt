@@ -1,64 +1,9 @@
-﻿government = iqta
+﻿government = monarchy
+add_government_reform = indian_sultanate_reform
 government_rank = 1
 technology_group = indian
-religion = hinduism
+religion = sunni
 primary_culture = tamil
-1535.1.1 = {
-    monarch = {
-        name = "嗔纳波"  # Chennappa
-        dynasty = "Tupakula"  # Tupakula
-        adm = 5
-        dip = 5
-        mil = 5
-    }
-}
-1535.1.1 = {
-    heir = {
-        name = "Gangama"  # Gangama
-        monarch_name = "Gangama"  # Gangama
-        dynasty = "Tupakula"  # Tupakula
-        birth_date = 1525.1.1
-        death_date = 1612.1.1
-        claim = 95
-        adm = 5
-        dip = 6
-        mil = 5
-    }
-}
-1565.1.26 = {
-    capital = 1947
-}
-1590.1.1 = {
-    monarch = {
-        name = "Gangama"  # Gangama
-        dynasty = "Tupakula"  # Tupakula
-        adm = 5
-        dip = 6
-        mil = 5
-    }
-}
-1590.1.1 = {
-    heir = {
-        name = "Venkata"  # Venkata
-        monarch_name = "Venkata Krishnappa"  # Venkata Krishnappa
-        dynasty = "Tupakula"  # Tupakula
-        birth_date = 1580.1.1
-        death_date = 1660.1.1
-        claim = 95
-        adm = 5
-        dip = 5
-        mil = 3
-    }
-}
-1612.1.1 = {
-    monarch = {
-        name = "Venkata Krishnappa"  # Venkata Krishnappa
-        dynasty = "Tupakula"  # Tupakula
-        adm = 5
-        dip = 5
-        mil = 3
-    }
-}
 1710.1.1 = {
     monarch = {
         name = "Muhammad Sa'adat I"  # Muhammad Sa'adat I
@@ -240,5 +185,37 @@ primary_culture = tamil
         ADM = 2
         DIP = 2
         MIL = 2
+    }
+}
+1535.1.1 = {
+    monarch = {
+        name = "嗔纳波"  # Chennappa
+        dynasty = "Tupakula"  # Tupakula
+    }
+}
+1535.1.1 = {
+    heir = {
+        name = "Gangama"  # Gangama
+        monarch_name = "Gangama"  # Gangama
+        dynasty = "Tupakula"  # Tupakula
+    }
+}
+1590.1.1 = {
+    monarch = {
+        name = "Gangama"  # Gangama
+        dynasty = "Tupakula"  # Tupakula
+    }
+}
+1590.1.1 = {
+    heir = {
+        name = "Venkata"  # Venkata
+        monarch_name = "Venkata Krishnappa"  # Venkata Krishnappa
+        dynasty = "Tupakula"  # Tupakula
+    }
+}
+1612.1.1 = {
+    monarch = {
+        name = "Venkata Krishnappa"  # Venkata Krishnappa
+        dynasty = "Tupakula"  # Tupakula
     }
 }

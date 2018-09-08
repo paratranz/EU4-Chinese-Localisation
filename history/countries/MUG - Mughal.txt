@@ -1,8 +1,10 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = indian_sultanate_reform
 technology_group = muslim
 religion = sunni
 primary_culture = afghani
 capital = 524
+religious_school = hanafi_school
 1494.6.6 = {
     monarch = {
         name = "巴布尔"  # Bâbur
@@ -55,6 +57,7 @@ capital = 524
         siege = 1
         death_date = 1531.1.1
     }
+    add_government_reform = mughal_government
 }
 1508.3.6 = {
     heir = {

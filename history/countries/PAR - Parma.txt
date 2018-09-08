@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = romagnan
 religion = catholic
@@ -28,7 +29,8 @@ fixed_capital = 105
     }
 }
 1545.10.20 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1547.9.11 = {
     monarch = {
@@ -106,7 +108,8 @@ fixed_capital = 105
     }
 }
 1622.3.6 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1630.9.17 = {
     heir = {
@@ -175,7 +178,7 @@ fixed_capital = 105
     }
 }
 1731.1.21 = {
-    government = enlightened_despotism
+    government = monarchy
 }
 1731.1.21 = {
     monarch = {

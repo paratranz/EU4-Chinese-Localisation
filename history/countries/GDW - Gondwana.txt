@@ -1,4 +1,5 @@
-﻿government = tribal_kingdom
+﻿government = tribal
+add_government_reform = gond_kingdom
 government_rank = 1
 technology_group = indian
 religion = hinduism
@@ -74,7 +75,8 @@ capital = 550
     monarch = {
         name = "Durgavati"  # Durgavati
         female = yes
-        dynasty = "Garha-Mandli"  # Garha-Mandli
+        regent = yes
+        dynasty = "Chandella"  # Chandella
         ADM = 3
         DIP = 4
         MIL = 5

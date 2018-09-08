@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = cosmopolitan_french
 religion = catholic
@@ -51,11 +52,13 @@ fixed_capital = 1879
     }
 }
 1515.1.2 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1589.8.3 = {
-    government = administrative_monarchy
+    set_legacy_government = administrative_monarchy
 }
 1661.3.9 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }

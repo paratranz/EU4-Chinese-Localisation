@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 primary_culture = hungarian
 add_accepted_culture = slovak
 add_accepted_culture = transylvanian
@@ -116,7 +117,8 @@ historical_friend = HAB
     }
 }
 1540.8.30 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1541.1.1 = {
     capital = 154

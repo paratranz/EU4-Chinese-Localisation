@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 primary_culture = cosmopolitan_french
 add_accepted_culture = gascon
 add_accepted_culture = occitain
@@ -350,7 +351,8 @@ historical_rival = HAB
     }
 }
 1515.1.1 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1515.1.1 = {
     leader = {
@@ -764,7 +766,8 @@ historical_rival = HAB
     }
 }
 1589.8.8 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1598.4.13 = {
     clr_country_flag = religious_turmoil
@@ -1034,9 +1037,6 @@ historical_rival = HAB
         mil = 2
     }
     add_queen_personality = charismatic_negotiator_personality
-}
-1661.3.9 = {
-    government = enlightened_despotism
 }
 1665.1.1 = {
     leader = {
@@ -1615,13 +1615,13 @@ historical_rival = HAB
 }
 1789.7.14 = {
     set_country_flag = revolution
-    government = constitutional_monarchy
 }
 1791.1.1 = {
     decision = abolish_slavery_act
 }
 1792.9.21 = {
-    government = revolutionary_republic
+    government = republic
+    add_government_reform = revolutionary_republic_reform
     revolution_target = yes
     government_rank = 3
 }
@@ -1843,7 +1843,8 @@ historical_rival = HAB
     }
 }
 1804.5.18 = {
-    government = revolutionary_empire
+    government = monarchy
+    add_government_reform = revolutionary_empire_reform
     queen = {
         country_of_origin = FRA
         name = "约瑟芬"  # Joséphine
@@ -1885,8 +1886,8 @@ historical_rival = HAB
     }
 }
 1814.4.11 = {
-    government = administrative_monarchy
     government_rank = 2
+    add_government_reform = feudalism_reform
     monarch = {
         name = "路易 XVIII"  # Louis XVIII
         dynasty = "德 波旁"  # de Bourbon

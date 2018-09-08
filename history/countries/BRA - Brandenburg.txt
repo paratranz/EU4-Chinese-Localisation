@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 elector = yes
 technology_group = western
@@ -607,7 +608,8 @@ capital = 50
     }
 }
 1688.5.10 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1690.1.1 = {
     leader = {

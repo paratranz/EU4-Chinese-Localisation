@@ -1,4 +1,5 @@
-﻿government = tribal_kingdom
+﻿government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 primary_culture = rajput
 religion = hinduism
@@ -40,7 +41,8 @@ fixed_capital = 512
     }
 }
 1488.1.1 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1504.1.1 = {
     monarch = {

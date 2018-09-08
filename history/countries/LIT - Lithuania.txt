@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = grand_duchy_reform
 government_rank = 1
 primary_culture = lithuanian
 add_accepted_culture = byelorussian
@@ -207,5 +208,6 @@ capital = 272
     }
 }
 1572.1.1 = {
-    government = noble_republic
+    government = republic
+    add_government_reform = noble_elite_reform
 }

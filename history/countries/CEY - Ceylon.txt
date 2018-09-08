@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = nayankara_reform
 technology_group = indian
 religion = buddhism
 primary_culture = sinhala
@@ -148,32 +149,19 @@ capital = 572
     monarch = {
         name = "毗摩罗 达摩苏利耶 I"  # Vimala Dharmasuriya I
         dynasty = "根那掊 槃陀罗"  # Konnapu Bandara
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
-    capital = 2099
 }
 1597.5.27 = {
     heir = {
         name = "仙楼陀"  # Senarut
         monarch_name = "仙楼陀"  # Senarut
         dynasty = "根那掊 槃陀罗"  # Kinnapu Bandara
-        birth_date = 1580.1.1
-        death_date = 1604.1.1
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1604.1.1 = {
     monarch = {
         name = "仙楼陀"  # Senarut
         dynasty = "根那掊 槃陀罗"  # Konnapu Bandara
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1608.1.1 = {
@@ -181,21 +169,12 @@ capital = 572
         name = "罗阇僧伽"  # Rajasimha
         monarch_name = "罗阇僧伽"  # Rajasimha
         dynasty = "根那掊 槃陀罗"  # Konnapu Bandara
-        birth_date = 1608.1.1
-        death_date = 1687.12.6
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1635.6.1 = {
     monarch = {
         name = "罗阇僧伽"  # Rajasimha
         dynasty = "根那掊 槃陀罗"  # Konnapu Bandara
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1635.6.1 = {
@@ -203,21 +182,12 @@ capital = 572
         name = "毗摩罗 达摩苏利耶"  # Vimala Dharmasuriya
         monarch_name = "毗摩罗 达摩苏利耶 II"  # Vimala Dharmasuriya II
         dynasty = "根那掊 槃陀罗"  # Konnapu Bandara
-        birth_date = 1635.6.1
-        death_date = 1707.6.4
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1687.1.1 = {
     monarch = {
         name = "毗摩罗 达摩苏利耶 II"  # Vimala Dharmasuriya II
         dynasty = "根那掊 槃陀罗"  # Konnapu Bandara
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1690.1.1 = {
@@ -225,21 +195,12 @@ capital = 572
         name = "那莲陀罗"  # Narendra
         monarch_name = "那莲陀罗"  # Narendra
         dynasty = "根那掊 槃陀罗"  # Konnapu Bandara
-        birth_date = 1690.1.1
-        death_date = 1739.5.13
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1707.6.4 = {
     monarch = {
         name = "那莲陀罗"  # Narendra
         dynasty = "根那掊 槃陀罗"  # Konnapu Bandara
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1707.6.4 = {
@@ -247,21 +208,12 @@ capital = 572
         name = "释利 毗阇耶 罗阇僧伽"  # Sri Vijaya Rajasimha
         monarch_name = "释利 毗阇耶 罗阇僧伽"  # Sri Vijaya Rajasimha
         dynasty = "干提 那耶妿罗"  # Kandy Nayakar
-        birth_date = 1707.6.4
-        death_date = 1747.8.11
-        claim = 60
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1739.5.13 = {
     monarch = {
         name = "释利 毗阇耶 罗阇僧伽"  # Sri Vijaya Rajasimha
         dynasty = "干提 那耶妿罗"  # Kandy Nayakar
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1739.5.13 = {
@@ -269,21 +221,12 @@ capital = 572
         name = "基徵 释利 罗阇僧伽"  # Kitri Sri Rajasimha
         monarch_name = "基徵 释利 罗阇僧伽"  # Kitri Sri Rajasimha
         dynasty = "干提 那耶妿罗"  # Kandy Nayakar
-        birth_date = 1730.1.1
-        death_date = 1782.1.2
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1747.8.11 = {
     monarch = {
         name = "基徵 释利 罗阇僧伽"  # Kitri Sri Rajasimha
         dynasty = "干提 那耶妿罗"  # Kandy Nayakar
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1747.8.11 = {
@@ -291,21 +234,12 @@ capital = 572
         name = "释利 罗阇底罗阇 僧伽"  # Sri Rajadhiraja Simha
         monarch_name = "释利 罗阇底罗阇 僧伽"  # Sri Rajadhiraja Simha
         dynasty = "干提 那耶妿罗"  # Kandy Nayakar
-        birth_date = 1747.8.11
-        death_date = 1798.7.26
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1782.1.2 = {
     monarch = {
         name = "释利 罗阇底罗阇 僧伽"  # Sri Rajadhiraja Simha
         dynasty = "干提 那耶妿罗"  # Kandy Nayakar
-        ADM = 2
-        DIP = 2
-        MIL = 2
     }
 }
 1782.1.2 = {
@@ -313,11 +247,5 @@ capital = 572
         name = "释利 毗加摩 罗阇僧伽"  # Sri Vikrama Rajasinha
         monarch_name = "释利 毗加摩 罗阇僧伽"  # Sri Vikrama Rajasinha
         dynasty = "干提 那耶妿罗"  # Kandy Nayakar
-        birth_date = 1780.1.1
-        death_date = 1832.1.30
-        claim = 95
-        ADM = 2
-        DIP = 3
-        MIL = 0
     }
 }

@@ -1,4 +1,5 @@
-﻿government = iqta
+﻿government = monarchy
+add_government_reform = indian_sultanate_reform
 primary_culture = bengali
 religion = sunni
 technology_group = indian
@@ -136,9 +137,9 @@ religious_school = hanafi_school
     monarch = {
         name = "纳西尔乌丁 马赫穆德"  # Nasir-ud-Din Mahmud
         dynasty = "伊利亚斯沙希"  # Ilyas Shahi
-        ADM = 3
-        DIP = 2
-        MIL = 2
+        ADM = 4
+        DIP = 3
+        MIL = 3
     }
     clear_scripted_personalities = yes
     add_ruler_personality = architectural_visionary_personality

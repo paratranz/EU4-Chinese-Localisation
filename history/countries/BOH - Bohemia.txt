@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 primary_culture = czech
 religion = catholic
 elector = yes
@@ -139,7 +140,8 @@ add_army_professionalism = 0.1
     }
 }
 1526.8.30 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
     elector = no
     add_accepted_culture = schlesian
 }
@@ -154,7 +156,8 @@ add_army_professionalism = 0.1
     }
 }
 1556.10.2 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1562.9.17 = {
     monarch = {

@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = romagnan
 religion = catholic
@@ -120,7 +121,8 @@ capital = 109
     }
 }
 1519.5.30 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1519.5.30 = {
     monarch = {
@@ -284,7 +286,8 @@ capital = 109
     }
 }
 1627.12.26 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1627.12.26 = {
     monarch = {

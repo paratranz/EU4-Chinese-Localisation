@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 primary_culture = basque
 religion = catholic
 technology_group = western
@@ -97,7 +98,8 @@ capital = 210
 }
 1512.9.1 = {
     capital = 176
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1517.1.1 = {
     monarch = {
@@ -157,7 +159,7 @@ capital = 210
 }
 1560.1.1 = {
     religion = reformed
-    government = administrative_monarchy
+    set_legacy_government = administrative_monarchy
 }
 1562.1.1 = {
     leader = {
@@ -189,5 +191,6 @@ capital = 210
     }
 }
 1661.3.9 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
