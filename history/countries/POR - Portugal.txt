@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 primary_culture = portugese
 religion = catholic
 technology_group = western
@@ -335,7 +336,8 @@ national_focus = DIP
     }
 }
 1481.1.1 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1481.8.29 = {
     monarch = {
@@ -473,7 +475,7 @@ national_focus = DIP
 }
 1500.5.12 = {
     leader = {
-        name = "Miguel Corte-Real"  # Miguel Corte-Real
+        name = "米格尔 科特 雷亚莱"  # Miguel Corte-Real
         type = explorer
         fire = 3
         shock = 3
@@ -497,7 +499,7 @@ national_focus = DIP
 }
 1501.1.1 = {
     leader = {
-        name = "Amerigo Vespucci"  # Amerigo Vespucci
+        name = "阿美利哥 维斯普西"  # Amerigo Vespucci
         type = explorer
         fire = 2
         shock = 2
@@ -508,7 +510,7 @@ national_focus = DIP
 }
 1502.1.1 = {
     leader = {
-        name = "Gaspar de Lemos"  # Gaspar de Lemos
+        name = "加斯帕 德 莱莫斯"  # Gaspar de Lemos
         type = explorer
         fire = 2
         shock = 2
@@ -519,7 +521,7 @@ national_focus = DIP
 }
 1502.1.1 = {
     leader = {
-        name = "Gonçalo Coelho"  # Gonçalo Coelho
+        name = "孔卡洛 科埃尔奥"  # Gonçalo Coelho
         type = explorer
         fire = 2
         shock = 2
@@ -780,7 +782,7 @@ national_focus = DIP
 }
 1606.1.1 = {
     leader = {
-        name = "D. Álvaro de Meneses"  # D. Álvaro de Meneses
+        name = "阿尔瓦罗 德 梅內塞斯"  # D. Álvaro de Meneses
         type = admiral
         fire = 3
         shock = 3
@@ -791,7 +793,7 @@ national_focus = DIP
 }
 1624.1.1 = {
     leader = {
-        name = "Nuno Álvares Botelho"  # Nuno Álvares Botelho
+        name = "努诺 阿尔瓦里什 博特略"  # Nuno Álvares Botelho
         type = admiral
         fire = 3
         shock = 2
@@ -847,7 +849,7 @@ national_focus = DIP
 }
 1655.1.1 = {
     leader = {
-        name = "Álvares Botelho"  # Álvares Botelho
+        name = "阿尔瓦里什 博特略"  # Álvares Botelho
         type = admiral
         fire = 3
         shock = 2
@@ -857,7 +859,7 @@ national_focus = DIP
     }
 }
 1656.11.7 = {
-    government = administrative_monarchy
+    set_legacy_government = administrative_monarchy
 }
 1656.11.7 = {
     monarch = {
@@ -884,7 +886,7 @@ national_focus = DIP
 }
 1659.1.1 = {
     leader = {
-        name = "F. von Schomberg"  # F. von Schomberg
+        name = "弗雷德里希 冯 绍姆贝格"  # F. von Schomberg
         type = general
         fire = 3
         shock = 2
@@ -976,7 +978,8 @@ national_focus = DIP
     }
 }
 1706.12.11 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1706.12.11 = {
     monarch = {
@@ -1026,7 +1029,7 @@ national_focus = DIP
     }
 }
 1750.8.2 = {
-    government = enlightened_despotism
+    government = monarchy
 }
 1750.8.2 = {
     monarch = {
@@ -1065,7 +1068,7 @@ national_focus = DIP
 }
 1761.1.1 = {
     leader = {
-        name = "Conde de Lippe"  # Conde de Lippe
+        name = "孔迪 德 利佩"  # Conde de Lippe
         type = general
         fire = 2
         shock = 2
@@ -1111,7 +1114,7 @@ national_focus = DIP
 }
 1790.2.27 = {
     leader = {
-        name = "B. Freire de Andrade"  # B. Freire de Andrade
+        name = "伯纳蒂 弗雷里 德 安德雷德"  # B. Freire de Andrade
         type = general
         fire = 5
         shock = 3
