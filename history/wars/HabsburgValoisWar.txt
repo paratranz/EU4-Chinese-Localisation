@@ -1,4 +1,4 @@
-﻿name = "Habsburg-Valois War"  # Habsburg-Valois War
+﻿name = "哈布斯堡-瓦卢瓦之战"  # Habsburg-Valois War
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -15,17 +15,17 @@ war_goal = {
 }
 1557.8.10 = {
     battle = {
-        name = "St. Quentin"  # St. Quentin
+        name = "圣康坦"  # St. Quentin
         location = 89
         attacker = {
-            commander = "Anne de Montmorency"  # Anne de Montmorency
+            commander = "阿内 德 蒙莫朗西"  # Anne de Montmorency
             infantry = 17000
             cavalry = 7000
             losses = 59
             country = FRA
         }
         defender = {
-            commander = "Emmanuel Philibert"  # Emmanuel Philibert
+            commander = "伊曼纽尔 菲利伯特"  # Emmanuel Philibert
             infantry = 6000
             cavalry = 4000
             losses = 2
@@ -36,7 +36,7 @@ war_goal = {
 }
 1558.7.13 = {
     battle = {
-        name = "Gravelines"  # Gravelines
+        name = "格拉沃利讷"  # Gravelines
         location = 87
         attacker = {
             commander = "Paul des Thermes"  # Paul des Thermes
