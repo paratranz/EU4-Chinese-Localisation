@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 technology_group = western
 unit_type = western
 primary_culture = swedish
@@ -36,7 +37,9 @@ national_focus = MIL
     }
 }
 1457.2.25 = {
-    government = noble_republic
+    government = republic
+    add_government_reform = noble_elite_reform
+    set_legacy_government = noble_republic
 }
 1457.2.25 = {
     monarch = {
@@ -85,7 +88,8 @@ national_focus = MIL
     }
 }
 1464.9.2 = {
-    government = feudal_monarchy
+    government = monarchy
+    add_government_reform = feudalism_reform
 }
 1465.1.31 = {
     monarch = {
@@ -97,7 +101,9 @@ national_focus = MIL
     }
 }
 1465.1.31 = {
-    government = noble_republic
+    government = republic
+    add_government_reform = noble_elite_reform
+    set_legacy_government = noble_republic
 }
 1465.6.16 = {
     monarch = {
@@ -147,7 +153,8 @@ national_focus = MIL
     }
 }
 1467.11.12 = {
-    government = feudal_monarchy
+    government = monarchy
+    add_government_reform = feudalism_reform
 }
 1470.1.1 = {
     queen = {
@@ -183,7 +190,9 @@ national_focus = MIL
     }
 }
 1470.5.15 = {
-    government = noble_republic
+    government = republic
+    add_government_reform = noble_elite_reform
+    set_legacy_government = noble_republic
 }
 1497.10.6 = {
     monarch = {
@@ -320,7 +329,8 @@ national_focus = MIL
     }
 }
 1521.1.2 = {
-    government = feudal_monarchy
+    government = monarchy
+    add_government_reform = feudalism_reform
 }
 1521.1.2 = {
     monarch = {

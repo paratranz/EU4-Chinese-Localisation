@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = piedmontese
 religion = catholic
@@ -222,7 +223,8 @@ add_army_professionalism = 0.05
     capital = 102
 }
 1553.8.18 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1553.8.18 = {
     monarch = {

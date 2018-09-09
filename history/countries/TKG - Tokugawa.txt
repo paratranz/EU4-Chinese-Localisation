@@ -1,4 +1,5 @@
-﻿government = daimyo
+﻿government = monarchy
+add_government_reform = daimyo
 government_rank = 1
 primary_culture = togoku
 religion = shinto
@@ -181,7 +182,9 @@ capital = 4360
     capital = 1028
 }
 1603.3.24 = {
-    government = shogunate
+    capital = 1020
+    government = monarchy
+    add_government_reform = shogunate
     government_rank = 2
 }
 1616.5.22 = {

@@ -1,4 +1,5 @@
-﻿government = theocratic_government
+﻿government = theocracy
+add_government_reform = leading_clergy_reform
 technology_group = western
 primary_culture = prussian
 historical_friend = LIV
@@ -97,7 +98,7 @@ historical_friend = HAM
     }
 }
 1561.1.1 = {
-    government = administrative_republic
+    set_legacy_government = administrative_republic
     monarch = {
         name = "市议会"  # Stadtrat
         adm = 3

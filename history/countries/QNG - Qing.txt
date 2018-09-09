@@ -1,4 +1,5 @@
-﻿government = despotic_monarchy
+﻿government = monarchy
+add_government_reform = autocracy_reform
 technology_group = chinese
 primary_culture = manchu
 religion = confucianism
@@ -288,7 +289,8 @@ government_rank = 3
     }
 }
 1644.10.30 = {
-    government = celestial_empire
+    government = monarchy
+    add_government_reform = celestial_empire
 }
 1645.7.1 = {
     capital = 1816

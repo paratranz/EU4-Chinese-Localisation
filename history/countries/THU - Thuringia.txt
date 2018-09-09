@@ -1,4 +1,5 @@
-﻿government = feudal_monarchy
+﻿government = monarchy
+add_government_reform = feudalism_reform
 government_rank = 1
 primary_culture = saxon
 religion = catholic
@@ -402,7 +403,8 @@ capital = 63
     }
 }
 1746.1.1 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1748.1.19 = {
     monarch = {
@@ -457,7 +459,7 @@ capital = 63
         dip = 5
         mil = 3
     }
-    government = enlightened_despotism
+    government = monarchy
 }
 1783.2.2 = {
     heir = {

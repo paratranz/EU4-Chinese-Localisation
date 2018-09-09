@@ -1,4 +1,5 @@
-﻿government = tribal_kingdom
+﻿government = tribal
+add_government_reform = tribal_kingdom
 government_rank = 1
 primary_culture = tibetan
 religion = vajrayana
@@ -89,7 +90,8 @@ capital = 677
     }
 }
 1642.1.1 = {
-    government = theocratic_government
+    government = theocracy
+    add_government_reform = leading_clergy_reform
 }
 1642.1.1 = {
     monarch = {

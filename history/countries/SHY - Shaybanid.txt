@@ -1,4 +1,5 @@
-﻿government = steppe_horde
+﻿government = tribal
+add_government_reform = steppe_horde
 technology_group = nomad_group
 religion = sunni
 primary_culture = uzbehk
@@ -49,7 +50,8 @@ religious_school = hanafi_school
 }
 1501.1.1 = {
     capital = 454
-    government = iqta
+    government = monarchy
+    add_government_reform = iqta
     technology_group = muslim
 }
 1510.1.1 = {

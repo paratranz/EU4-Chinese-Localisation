@@ -1,4 +1,5 @@
-﻿government = despotic_monarchy
+﻿government = monarchy
+add_government_reform = autocracy_reform
 primary_culture = castillian
 add_accepted_culture = sicilian
 add_accepted_culture = leonese
@@ -1069,7 +1070,8 @@ national_focus = MIL
     }
 }
 1716.1.23 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1717.1.1 = {
     leader = {
@@ -1237,7 +1239,7 @@ national_focus = MIL
     }
 }
 1759.8.12 = {
-    government = enlightened_despotism
+    government = monarchy
 }
 1769.6.29 = {
     leader = {
@@ -1348,7 +1350,7 @@ national_focus = MIL
     }
 }
 1808.6.6 = {
-    government = constitutional_monarchy
+    set_legacy_government = constitutional_monarchy
     government_rank = 1
 }
 1808.6.6 = {
@@ -1373,7 +1375,7 @@ national_focus = MIL
     }
 }
 1813.12.11 = {
-    government = enlightened_despotism
+    government = monarchy
     government_rank = 2
 }
 1813.12.11 = {

@@ -1,4 +1,5 @@
-﻿government = theocratic_government
+﻿government = theocracy
+add_government_reform = leading_clergy_reform
 government_rank = 1
 technology_group = western
 primary_culture = franconian
@@ -133,7 +134,8 @@ fixed_capital = 79
     }
 }
 1556.10.2 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
 }
 1558.4.18 = {
     monarch = {

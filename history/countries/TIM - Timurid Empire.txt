@@ -3,7 +3,8 @@ primary_culture = uzbehk
 add_accepted_culture = khorasani
 add_accepted_culture = persian
 religion = sunni
-government = iqta
+government = monarchy
+add_government_reform = iqta
 government_rank = 3
 capital = 454
 historical_rival = DLH
@@ -250,7 +251,8 @@ religious_school = hanafi_school
     }
 }
 1507.7.1 = {
-    government = despotic_monarchy
+    government = monarchy
+    add_government_reform = autocracy_reform
     primary_culture = afghani
     capital = 451
     technology_group = muslim

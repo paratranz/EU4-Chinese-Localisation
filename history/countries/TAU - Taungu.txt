@@ -1,4 +1,5 @@
-﻿government = despotic_monarchy
+﻿government = monarchy
+add_government_reform = mandala_reform
 primary_culture = burmese
 religion = buddhism
 technology_group = chinese
@@ -79,14 +80,25 @@ capital = 585
     monarch = {
         name = "多罗般"  # Tarabya
         dynasty = "东吁"  # Taungu
+        adm = 3
+        dip = 2
+        mil = 4
+    }
+    heir = {
+        name = "Minkhaung"  # Minkhaung
+        monarch_name = "Minkhaung"  # Minkhaung
+        dynasty = "Taungu"  # Taungu
+        birth_date = 1420.1.1
+        death_Date = 1451.1.1
+        claim = 95
         adm = 1
-        dip = 1
-        mil = 0
+        dip = 0
+        mil = 1
     }
 }
 1446.1.2 = {
     monarch = {
-        name = "明康"  # Minkhaung Nge
+        name = "明康"  # Minkhaung
         dynasty = "东吁"  # Taungu
         adm = 1
         dip = 0
