@@ -1,4 +1,4 @@
-﻿name = "American War of Independence"  # American War of Independence
+﻿name = "美国独立战争"  # American War of Independence
 war_goal = {
     type = defend_capital_independence
     casus_belli = cb_independence_war
@@ -10,16 +10,16 @@ war_goal = {
 }
 1776.8.27 = {
     battle = {
-        name = "Brooklyn"  # Brooklyn
+        name = "布鲁克林"  # Brooklyn
         location = 965
         attacker = {
-            commander = "George Washington"  # George Washington
+            commander = "乔治 华盛顿"  # George Washington
             infantry = 12000
             losses = 15
             country = USA
         }
         defender = {
-            commander = "William Howe"  # William Howe
+            commander = "威廉 豪威"  # William Howe
             infantry = 22000
             losses = 2
             country = GBR
@@ -29,16 +29,16 @@ war_goal = {
 }
 1777.1.2 = {
     battle = {
-        name = "Trenton"  # Trenton
+        name = "特伦顿之战"  # Trenton
         location = 957
         attacker = {
-            commander = "George Washington"  # George Washington
+            commander = "乔治 华盛顿"  # George Washington
             infantry = 2500
             losses = 1
             country = USA
         }
         defender = {
-            commander = "Johan Rall"  # Johan Rall
+            commander = "约翰 拉尔"  # Johan Rall
             infantry = 1500
             losses = 2
             country = GBR
@@ -48,16 +48,16 @@ war_goal = {
 }
 1777.1.3 = {
     battle = {
-        name = "Princeton"  # Princeton
+        name = "普林斯顿之战"  # Princeton
         location = 957
         attacker = {
-            commander = "George Washington"  # George Washington
+            commander = "乔治 华盛顿"  # George Washington
             infantry = 4500
             losses = 1
             country = USA
         }
         defender = {
-            commander = "Charles Cornwallis"  # Charles Cornwallis
+            commander = "查尔斯 康沃利斯"  # Charles Cornwallis
             infantry = 800
             losses = 32
             country = GBR
@@ -67,16 +67,16 @@ war_goal = {
 }
 1777.4.13 = {
     battle = {
-        name = "Bound Brook"  # Bound Brook
+        name = "邦德 布鲁克"  # Bound Brook
         location = 957
         attacker = {
-            commander = "Benjamin Lincoln"  # Benjamin Lincoln
+            commander = "本杰明 林肯"  # Benjamin Lincoln
             infantry = 500
             losses = 22
             country = USA
         }
         defender = {
-            commander = "Charles Cornwallis"  # Charles Cornwallis
+            commander = "查尔斯 康沃利斯"  # Charles Cornwallis
             infantry = 4000
             losses = 1
             country = GBR
@@ -89,16 +89,16 @@ war_goal = {
 }
 1778.6.30 = {
     battle = {
-        name = "Alligator Bridge"  # Alligator Bridge
+        name = "鳄鱼桥之战"  # Alligator Bridge
         location = 926
         attacker = {
-            commander = "Elijah Clark"  # Elijah Clark
+            commander = "以利亚 克拉克"  # Elijah Clark
             infantry = 300
             losses = 4
             country = USA
         }
         defender = {
-            commander = "Marc Prevost"  # Marc Prevost
+            commander = "马克 普雷沃"  # Marc Prevost
             infantry = 800
             losses = 2
             country = GBR
@@ -108,16 +108,16 @@ war_goal = {
 }
 1779.2.14 = {
     battle = {
-        name = "Kettle Creek"  # Kettle Creek
+        name = "凯特尔河之战"  # Kettle Creek
         location = 953
         attacker = {
-            commander = "Andrew Pickens"  # Andrew Pickens
+            commander = "安德列 派金森"  # Andrew Pickens
             infantry = 350
             losses = 4
             country = USA
         }
         defender = {
-            commander = "James Boyd"  # James Boyd
+            commander = "詹姆斯 博伊德"  # James Boyd
             infantry = 600
             losses = 3
             country = GBR
@@ -127,16 +127,16 @@ war_goal = {
 }
 1779.3.3 = {
     battle = {
-        name = "Briar Creek"  # Briar Creek
+        name = "布莱河之战"  # Briar Creek
         location = 929
         attacker = {
-            commander = "John Ashe"  # John Ashe
+            commander = "约翰 阿什"  # John Ashe
             infantry = 450
             losses = 98
             country = USA
         }
         defender = {
-            commander = "Archibald Campbell"  # Archibald Campbell
+            commander = "阿奇巴德 坎贝尔"  # Archibald Campbell
             infantry = 2200
             losses = 1
             country = GBR
@@ -152,16 +152,16 @@ war_goal = {
 }
 1780.8.16 = {
     battle = {
-        name = "Camden"  # Camden
+        name = "卡姆登之战"  # Camden
         location = 929
         attacker = {
-            commander = "Horatio Gates"  # Horatio Gates
+            commander = "霍拉肖 盖茨"  # Horatio Gates
             infantry = 3000
             losses = 50
             country = USA
         }
         defender = {
-            commander = "Charles Cornwallis"  # Charles Cornwallis
+            commander = "查尔斯 康沃利斯"  # Charles Cornwallis
             infantry = 2300
             losses = 4
             country = GBR
@@ -171,16 +171,16 @@ war_goal = {
 }
 1780.10.7 = {
     battle = {
-        name = "Kings Mountain"  # Kings Mountain
+        name = "国王山之战"  # Kings Mountain
         location = 932
         attacker = {
-            commander = "William Campell"  # William Campell
+            commander = "威廉 坎贝尔"  # William Campell
             infantry = 850
             losses = 3
             country = USA
         }
         defender = {
-            commander = "Patrick Ferguson"  # Patrick Ferguson
+            commander = "帕特里克 弗格森"  # Patrick Ferguson
             infantry = 1000
             losses = 16
             country = GBR
@@ -190,16 +190,16 @@ war_goal = {
 }
 1781.1.17 = {
     battle = {
-        name = "Cowpens"  # Cowpens
+        name = "考彭斯之战"  # Cowpens
         location = 932
         attacker = {
-            commander = "Daniel Morgan"  # Daniel Morgan
+            commander = "丹尼尔 摩根"  # Daniel Morgan
             infantry = 1000
             losses = 5
             country = USA
         }
         defender = {
-            commander = "Banastare Tarleton"  # Banastare Tarleton
+            commander = "伯纳斯特 塔尔顿"  # Banastare Tarleton
             infantry = 1000
             losses = 45
             country = GBR
