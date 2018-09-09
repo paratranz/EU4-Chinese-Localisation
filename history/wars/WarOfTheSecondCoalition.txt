@@ -1,4 +1,4 @@
-﻿name = "War of the Second Coalition"  # War of the Second Coalition
+﻿name = "第二次反法同盟战争"  # War of the Second Coalition
 war_goal = {
     type = superiority_revolution
     casus_belli = cb_spread_the_revolution
@@ -32,16 +32,16 @@ war_goal = {
 }
 1799.3.25 = {
     battle = {
-        name = "Stockash"  # Stockash
+        name = "斯托卡什"  # Stockash
         location = 69
         attacker = {
-            commander = "Jean-Baptiste Jourdan"  # Jean-Baptiste Jourdan
+            commander = "让-巴普蒂斯 儒尔当"  # Jean-Baptiste Jourdan
             infantry = 40000
             losses = 10
             country = FRA
         }
         defender = {
-            commander = "Archduke Charles"  # Archduke Charles
+            commander = "查尔斯大公"  # Archduke Charles
             infantry = 60000
             losses = 5
             country = HAB
@@ -51,10 +51,10 @@ war_goal = {
 }
 1799.4.16 = {
     battle = {
-        name = "Tabor"  # Tabor
+        name = "塔博尔"  # Tabor
         location = 379
         attacker = {
-            commander = "Napoléon Bonaparte"  # Napoléon Bonaparte
+            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
             infantry = 4000
             losses = 1
             country = FRA
@@ -70,16 +70,16 @@ war_goal = {
 }
 1799.4.27 = {
     battle = {
-        name = "Cassano"  # Cassano
+        name = "卡萨诺"  # Cassano
         location = 104
         attacker = {
-            commander = "General Moreau"  # General Moreau
+            commander = "莫罗将军"  # General Moreau
             infantry = 35000
             losses = 6
             country = FRA
         }
         defender = {
-            commander = "Alexander Suvorov"  # Alexander Suvorov
+            commander = "亚历山大 苏沃洛夫"  # Alexander Suvorov
             infantry = 36000
             losses = 3
             country = RUS
@@ -89,16 +89,16 @@ war_goal = {
 }
 1799.6.4 = {
     battle = {
-        name = "Zürich"  # Zürich
+        name = "苏黎世"  # Zürich
         location = 166
         attacker = {
-            commander = "André Masséna"  # André Masséna
+            commander = "安德烈 马塞纳"  # André Masséna
             infantry = 30000
             losses = 6
             country = FRA
         }
         defender = {
-            commander = "Archduke Charles"  # Archduke Charles
+            commander = "查尔斯大公"  # Archduke Charles
             infantry = 40000
             losses = 9
             country = HAB
@@ -108,16 +108,16 @@ war_goal = {
 }
 1799.6.17 = {
     battle = {
-        name = "Trebbia"  # Trebbia
+        name = "特雷比亚河"  # Trebbia
         location = 105
         attacker = {
-            commander = "Étienne MacDonald"  # Étienne MacDonald
+            commander = "埃蒂安 麦克唐纳"  # Étienne MacDonald
             infantry = 33500
             losses = 5
             country = FRA
         }
         defender = {
-            commander = "Alexander Suvorov"  # Alexander Suvorov
+            commander = "亚历山大 苏沃罗夫"  # Alexander Suvorov
             infantry = 33000
             losses = 18
             country = RUS
@@ -130,17 +130,17 @@ war_goal = {
 }
 1799.8.15 = {
     battle = {
-        name = "Novi"  # Novi
+        name = "法案"  # Novi
         location = 103
         attacker = {
-            commander = "Barthélemy Catherine Joubert"  # Barthélemy Catherine Joubert
+            commander = "巴泰勒米 卡特林 儒贝尔"  # Barthélemy Catherine Joubert
             infantry = 35000
             artillery = 20
             losses = 35
             country = FRA
         }
         defender = {
-            commander = "Alexander Suvorov"  # Alexander Suvorov
+            commander = "亚历山大 苏沃洛夫"  # Alexander Suvorov
             infantry = 51500
             artillery = 25
             losses = 16
@@ -151,16 +151,16 @@ war_goal = {
 }
 1799.9.25 = {
     battle = {
-        name = "Zürich"  # Zürich
+        name = "苏黎世"  # Zürich
         location = 166
         attacker = {
-            commander = "André Masséna"  # André Masséna
+            commander = "安德烈 马塞纳"  # André Masséna
             infantry = 75000
             losses = 20
             country = FRA
         }
         defender = {
-            commander = "Alexander Suvorov"  # Alexander Suvorov
+            commander = "亚历山大 苏沃洛夫"  # Alexander Suvorov
             infantry = 60000
             losses = 37
             country = RUS
@@ -173,10 +173,10 @@ war_goal = {
 }
 1800.4.6 = {
     battle = {
-        name = "Genoa"  # Genoa
+        name = "热那亚"  # Genoa
         location = 101
         attacker = {
-            commander = "André Masséna"  # André Masséna
+            commander = "安德烈 马塞纳"  # André Masséna
             infantry = 18000
             losses = 60
             country = FRA
@@ -240,7 +240,7 @@ war_goal = {
 }
 1801.3.8 = {
     battle = {
-        name = "Abukir"  # Abukir
+        name = "阿布吉尔"  # Abukir
         location = 358
         attacker = {
             commander = "Louis Friant"  # Louis Friant
