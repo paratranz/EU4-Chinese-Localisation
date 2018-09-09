@@ -1,4 +1,4 @@
-﻿name = "Anglo-Spanish War"  # Anglo-Spanish War
+﻿name = "盎格鲁西班牙战争"  # Anglo-Spanish War
 war_goal = {
     type = take_capital_throne
     casus_belli = cb_claim_throne
@@ -10,7 +10,7 @@ war_goal = {
 }
 1588.7.29 = {
     battle = {
-        name = "Gravelines"  # Gravelines
+        name = "格拉沃利讷"  # Gravelines
         location = 90
         attacker = {
             commander = "Alonso de Guzmán El Bueno"  # Alonso de Guzmán El Bueno
@@ -19,7 +19,7 @@ war_goal = {
             country = SPA
         }
         defender = {
-            commander = "Francis Drake"  # Francis Drake
+            commander = "弗朗西斯 德雷克"  # Francis Drake
             heavy_ship = 55
             losses = 1
             country = ENG
