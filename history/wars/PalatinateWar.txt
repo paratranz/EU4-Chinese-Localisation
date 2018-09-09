@@ -1,4 +1,4 @@
-﻿name = "War in the Palatinate"  # War in the Palatinate
+﻿name = "普法尔茨的战争"  # War in the Palatinate
 war_goal = {
     type = superiority_heretic
     casus_belli = cb_heretic
@@ -12,17 +12,17 @@ war_goal = {
 }
 1622.5.6 = {
     battle = {
-        name = "Wimpfen"  # Wimpfen
+        name = "温普芬之战"  # Wimpfen
         location = 74
         attacker = {
-            commander = "Johann Tserclaes von Tilly"  # Johann Tserclaes von Tilly
+            commander = "约翰 策尔卡莱斯 冯 蒂利"  # Johann Tserclaes von Tilly
             infantry = 15400
             cavalry = 7000
             losses = 20
             country = HAB
         }
         defender = {
-            commander = "Friedrich von Baden"  # Friedrich von Baden
+            commander = "弗里德里希 冯 巴登"  # Friedrich von Baden
             infantry = 10200
             cavalry = 4000
             losses = 75
@@ -33,17 +33,17 @@ war_goal = {
 }
 1622.6.22 = {
     battle = {
-        name = "Höchst"  # Höchst
+        name = "赫希斯特之战"  # Höchst
         location = 83
         attacker = {
-            commander = "Johann Tserclaes von Tilly"  # Johann Tserclaes von Tilly
+            commander = "约翰 策尔卡莱斯 冯 蒂利"  # Johann Tserclaes von Tilly
             infantry = 16000
             cavalry = 7000
             losses = 3
             country = HAB
         }
         defender = {
-            commander = "Christian"  # Christian
+            commander = "克里斯蒂安"  # Christian
             infantry = 4500
             cavalry = 7000
             losses = 17
