@@ -1,0 +1,16 @@
+﻿name = "Conquest of Kandesh"  # Conquest of Kandesh
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 527
+}
+1507.1.1 = {
+    add_attacker = GUJ
+    add_defender = KHD
+    add_defender = MLW
+}
+1508.1.1 = {
+    rem_attacker = GUJ
+    rem_defender = KHD
+    rem_defender = MLW
+}

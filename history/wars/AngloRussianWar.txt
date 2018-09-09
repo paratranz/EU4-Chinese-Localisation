@@ -1,0 +1,13 @@
+﻿name = "Anglo-Russian War"  # Anglo-Russian War
+war_goal = {
+    type = superiority_trade_mutual
+    casus_belli = cb_trade_war
+}
+1807.11.1 = {
+    add_attacker = RUS
+    add_defender = GBR
+}
+1812.4.1 = {
+    rem_attacker = RUS
+    rem_defender = GBR
+}

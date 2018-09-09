@@ -1,0 +1,34 @@
+﻿name = "Conquest of Novgorod"  # Conquest of Novgorod
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 310
+}
+1471.5.1 = {
+    add_attacker = MOS
+    add_defender = NOV
+}
+1471.7.14 = {
+    battle = {
+        name = "Shelon"  # Shelon
+        location = 310
+        attacker = {
+            commander = "Daniel Kholmsky"  # Daniel Kholmsky
+            infantry = 5000
+            losses = 10
+            country = MOS
+        }
+        defender = {
+            commander = "Dmitry Isakevich Boretsky"  # Dmitry Isakevich Boretsky
+            infantry = 14000
+            cavalry = 6000
+            losses = 60
+            country = NOV
+        }
+        result = yes
+    }
+}
+1478.1.1 = {
+    rem_attacker = MOS
+    rem_defender = NOV
+}

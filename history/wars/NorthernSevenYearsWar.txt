@@ -1,0 +1,43 @@
+﻿name = "Northern Seven Years War"  # Northern Seven Years War
+war_goal = {
+    type = take_capital_personal_union
+    casus_belli = cb_restore_personal_union
+    tag = SWE
+}
+1563.8.13 = {
+    add_attacker = DAN
+    add_attacker = POL
+    add_attacker = HSA
+    add_defender = SWE
+}
+1565.10.20 = {
+    battle = {
+        name = "Axtorna"  # Axtorna
+        location = 26
+        attacker = {
+            commander = "Daniel Rantzau"  # Daniel Rantzau
+            infantry = 5000
+            cavalry = 2500
+            losses = 20
+            country = DAN
+        }
+        defender = {
+            commander = "Jacob Henriksson Hästesko"  # Jacob Henriksson Hästesko
+            infantry = 8000
+            cavalry = 3000
+            losses = 14
+            country = SWE
+        }
+        result = yes
+    }
+}
+1569.7.1 = {
+    rem_attacker = POL
+    add_attacker = PLC
+}
+1570.12.13 = {
+    rem_attacker = DAN
+    rem_attacker = PLC
+    rem_attacker = HSA
+    rem_defender = SWE
+}

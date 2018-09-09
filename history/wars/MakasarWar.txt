@@ -1,0 +1,14 @@
+﻿name = "Makasar War"  # Makasar War
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 641
+}
+1666.1.1 = {
+    add_attacker = NED
+    add_defender = MKS
+}
+1669.1.1 = {
+    rem_attacker = NED
+    rem_defender = MKS
+}

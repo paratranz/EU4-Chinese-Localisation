@@ -1,0 +1,14 @@
+﻿name = "Manchu Invasion of Tibet"  # Manchu Invasion of Tibet
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 705
+}
+1718.1.1 = {
+    add_attacker = QNG
+    add_defender = TIB
+}
+1720.1.1 = {
+    rem_attacker = QNG
+    rem_defender = TIB
+}

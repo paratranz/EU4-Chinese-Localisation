@@ -1,0 +1,41 @@
+﻿name = "The Long War"  # The Long War
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 135
+}
+1593.7.29 = {
+    add_attacker = TUR
+    add_defender = HAB
+}
+1595.1.28 = {
+    add_defender = TRA
+}
+1596.10.24 = {
+    battle = {
+        name = "Keresztes"  # Keresztes
+        location = 155
+        attacker = {
+            commander = "Mehmet II"  # Mehmet II
+            infantry = 60000
+            cavalry = 30000
+            losses = 25
+            country = TUR
+        }
+        defender = {
+            commander = "Maximilian Habsburg"  # Maximilian Habsburg
+            infantry = 30000
+            cavalry = 15000
+            losses = 65
+            country = HAB
+        }
+        result = no
+    }
+}
+1599.3.17 = {
+    rem_defender = TRA
+}
+1606.11.11 = {
+    rem_attacker = TUR
+    rem_defender = HAB
+}

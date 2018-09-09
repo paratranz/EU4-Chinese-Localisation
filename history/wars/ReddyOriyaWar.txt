@@ -1,0 +1,16 @@
+﻿name = "Kalipendras Conquest of the Reddy Kingdom"  # Kalipendras Conquest of the Reddy Kingdom
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 2084
+}
+1445.1.1 = {
+    add_attacker = ORI
+    add_defender = YOR
+    add_defender = VIJ
+}
+1448.1.1 = {
+    rem_attacker = ORI
+    rem_defender = YOR
+    rem_defender = VIJ
+}

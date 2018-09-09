@@ -1,0 +1,14 @@
+﻿name = "Bundeli War"  # Bundeli War
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 559
+}
+1576.1.1 = {
+    add_attacker = MUG
+    add_defender = BND
+}
+1577.1.1 = {
+    rem_attacker = MUG
+    rem_defender = BND
+}

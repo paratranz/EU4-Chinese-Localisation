@@ -1,0 +1,35 @@
+﻿name = "Second Bishops War"  # Second Bishops War
+war_goal = {
+    type = take_border
+    casus_belli = cb_border_war
+    province = 248
+}
+1640.1.1 = {
+    add_attacker = ENG
+    add_defender = SCO
+}
+1640.8.27 = {
+    battle = {
+        name = "Newburn"  # Newburn
+        location = 246
+        attacker = {
+            commander = "Conway"  # Conway
+            infantry = 5800
+            cavalry = 3000
+            losses = 5
+            country = ENG
+        }
+        defender = {
+            commander = "Alexander Leslie"  # Alexander Leslie
+            infantry = 16500
+            cavalry = 4500
+            losses = 1
+            country = SCO
+        }
+        result = no
+    }
+}
+1640.10.26 = {
+    rem_attacker = ENG
+    rem_defender = SCO
+}

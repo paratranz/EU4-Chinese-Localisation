@@ -1,0 +1,14 @@
+﻿name = "Koch Behars war for independence"  # Koch Behars war for independence
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 563
+}
+1658.1.1 = {
+    add_attacker = KMT
+    add_defender = MUG
+}
+1661.1.1 = {
+    rem_attacker = KMT
+    rem_defender = MUG
+}

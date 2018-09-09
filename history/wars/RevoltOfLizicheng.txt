@@ -1,0 +1,18 @@
+﻿name = "Revolt of Li Zicheng"  # Revolt of Li Zicheng
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 690
+}
+1643.1.1 = {
+    add_attacker = CSH
+    add_attacker = CXI
+    add_defender = MNG
+}
+1645.7.1 = {
+    rem_attacker = CSH
+}
+1648.11.1 = {
+    rem_attacker = CXI
+    rem_defender = MNG
+}

@@ -1,0 +1,14 @@
+﻿name = "Bhutanese invasion of Koch Bihar"  # Bhutanese invasion of Koch Bihar
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 562
+}
+1772.1.1 = {
+    add_attacker = BHU
+    add_defender = KMT
+}
+1772.5.1 = {
+    rem_attacker = BHU
+    rem_defender = KMT
+}

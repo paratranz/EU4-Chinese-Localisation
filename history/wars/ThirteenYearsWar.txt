@@ -1,0 +1,56 @@
+﻿name = "Thirteen Years War"  # Thirteen Years War
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 43
+}
+1454.2.1 = {
+    add_attacker = POL
+    add_defender = TEU
+}
+1454.9.18 = {
+    battle = {
+        name = "Chojnice"  # Chojnice
+        location = 48
+        attacker = {
+            commander = "Casimir IV"  # Casimir IV
+            infantry = 3000
+            cavalry = 16000
+            losses = 17
+            country = POL
+        }
+        defender = {
+            commander = "Bernard Szumborski"  # Bernard Szumborski
+            infantry = 6000
+            cavalry = 9000
+            losses = 1
+            country = TEU
+        }
+        result = no
+    }
+}
+1462.9.17 = {
+    battle = {
+        name = "Swiecino"  # Swiecino
+        location = 43
+        attacker = {
+            commander = "Piotr Dunin"  # Piotr Dunin
+            infantry = 1200
+            cavalry = 900
+            losses = 15
+            country = POL
+        }
+        defender = {
+            commander = "Fritz Raweneck"  # Fritz Raweneck
+            infantry = 1600
+            cavalry = 1000
+            losses = 50
+            country = TEU
+        }
+        result = yes
+    }
+}
+1466.10.19 = {
+    rem_attacker = POL
+    rem_defender = TEU
+}

@@ -1,0 +1,14 @@
+﻿name = "Golconda-Bastari War"  # Golconda-Bastari War
+war_goal = {
+    type = take_border
+    casus_belli = cb_border_war
+    province = 547
+}
+1572.1.1 = {
+    add_attacker = GOC
+    add_defender = BST
+}
+1574.1.1 = {
+    rem_attacker = GOC
+    rem_defender = BST
+}

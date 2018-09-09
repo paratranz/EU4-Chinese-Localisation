@@ -1,0 +1,16 @@
+﻿name = "Delhi-Jaunpuri war"  # Delhi-Jaunpuri war
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 524
+}
+1494.1.1 = {
+    add_attacker = DLH
+    add_defender = JNP
+    add_defender = BGL
+}
+1495.1.1 = {
+    rem_attacker = DLH
+    rem_defender = JNP
+    rem_defender = BGL
+}

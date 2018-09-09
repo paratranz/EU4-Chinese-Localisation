@@ -1,0 +1,16 @@
+﻿name = "Spanish Conquest of Melilla"  # Spanish Conquest of Melilla
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 335
+}
+1497.1.1 = {
+    add_attacker = CAS
+    add_attacker = ARA
+    add_defender = FEZ
+}
+1497.9.17 = {
+    rem_attacker = CAS
+    rem_attacker = ARA
+    rem_defender = FEZ
+}

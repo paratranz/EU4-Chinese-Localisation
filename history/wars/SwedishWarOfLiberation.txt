@@ -1,0 +1,14 @@
+﻿name = "Swedish War of Liberation"  # Swedish War of Liberation
+war_goal = {
+    type = defend_capital_independence
+    casus_belli = cb_independence_war
+    tag = SWE
+}
+1521.6.6 = {
+    add_attacker = SWE
+    add_defender = DAN
+}
+1524.9.1 = {
+    rem_attacker = SWE
+    rem_defender = DAN
+}

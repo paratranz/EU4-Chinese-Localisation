@@ -1,0 +1,14 @@
+﻿name = "Jahan Shah's invasion of Khorasan"  # Jahan Shah's invasion of Khorasan
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 436
+}
+1457.12.13 = {
+    add_attacker = QAR
+    add_defender = KHO
+}
+1458.12.22 = {
+    rem_attacker = QAR
+    rem_defender = KHO
+}

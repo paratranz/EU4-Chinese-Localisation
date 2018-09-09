@@ -1,0 +1,14 @@
+﻿name = "Babur's invasion of Delhi"  # Babur's invasion of Delhi
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 522
+}
+1525.1.1 = {
+    add_attacker = TIM
+    add_defender = DLH
+}
+1526.4.21 = {
+    rem_attacker = TIM
+    rem_defender = DLH
+}

@@ -1,0 +1,14 @@
+﻿name = "Kabyle Devastation of Mitidja"  # Kabyle Devastation of Mitidja
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 338
+}
+1524.1.1 = {
+    add_attacker = KBA
+    add_defender = ALG
+}
+1525.1.1 = {
+    rem_attacker = KBA
+    rem_defender = ALG
+}

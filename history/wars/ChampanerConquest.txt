@@ -1,0 +1,14 @@
+﻿name = "Conquest of Champaner"  # Conquest of Champaner
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 2056
+}
+1484.6.1 = {
+    add_attacker = GUJ
+    add_defender = CMP
+}
+1485.11.21 = {
+    rem_attacker = GUJ
+    rem_defender = CMP
+}

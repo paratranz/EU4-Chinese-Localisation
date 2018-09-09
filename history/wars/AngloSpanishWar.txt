@@ -1,0 +1,33 @@
+﻿name = "Anglo-Spanish War"  # Anglo-Spanish War
+war_goal = {
+    type = take_capital_throne
+    casus_belli = cb_claim_throne
+    tag = ENG
+}
+1585.8.20 = {
+    add_attacker = SPA
+    add_defender = ENG
+}
+1588.7.29 = {
+    battle = {
+        name = "Gravelines"  # Gravelines
+        location = 90
+        attacker = {
+            commander = "Alonso de Guzmán El Bueno"  # Alonso de Guzmán El Bueno
+            heavy_ship = 42
+            losses = 5
+            country = SPA
+        }
+        defender = {
+            commander = "Francis Drake"  # Francis Drake
+            heavy_ship = 55
+            losses = 1
+            country = ENG
+        }
+        result = yes
+    }
+}
+1604.8.1 = {
+    rem_attacker = SPA
+    rem_defender = ENG
+}

@@ -1,0 +1,14 @@
+﻿name = "Smolensk War"  # Smolensk War
+war_goal = {
+    type = take_core
+    casus_belli = cb_core
+    province = 293
+}
+1632.6.1 = {
+    add_attacker = RUS
+    add_defender = PLC
+}
+1634.6.14 = {
+    rem_attacker = RUS
+    rem_defender = PLC
+}

@@ -1,0 +1,14 @@
+﻿name = "Swiss Conquest of the Thurgau"  # Swiss Conquest of the Thurgau
+war_goal = {
+    type = take_core
+    casus_belli = cb_core
+    province = 107
+}
+1460.1.1 = {
+    add_attacker = SWI
+    add_defender = HAB
+}
+1460.12.30 = {
+    rem_attacker = SWI
+    rem_defender = HAB
+}

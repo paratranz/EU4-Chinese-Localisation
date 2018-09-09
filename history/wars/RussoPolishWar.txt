@@ -1,0 +1,14 @@
+﻿name = "Russo-Commonwealth War"  # Russo-Commonwealth War
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 1937
+}
+1792.5.18 = {
+    add_attacker = RUS
+    add_defender = PLC
+}
+1792.12.1 = {
+    rem_attacker = RUS
+    rem_defender = PLC
+}

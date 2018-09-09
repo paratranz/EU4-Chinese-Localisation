@@ -1,0 +1,35 @@
+﻿name = "War of the Black and White Sheep"  # War of the Black and White Sheep
+war_goal = {
+    type = take_claim
+    casus_belli = cb_conquest
+    province = 416
+}
+1467.5.16 = {
+    add_attacker = AKK
+    add_defender = QAR
+}
+1467.11.11 = {
+    battle = {
+        name = "Chapakchur"  # Chapakchur
+        location = 331
+        attacker = {
+            commander = "Uzun Hasan"  # Uzun Hasan
+            infantry = 7000
+            cavalry = 10000
+            losses = 10
+            country = AKK
+        }
+        defender = {
+            commander = "JahÃ¢n ShÃ¢h"  # JahÃ¢n ShÃ¢h
+            infantry = 4000
+            cavalry = 8000
+            losses = 45
+            country = QAR
+        }
+        result = yes
+    }
+}
+1468.6.1 = {
+    rem_attacker = AKK
+    rem_defender = QAR
+}
