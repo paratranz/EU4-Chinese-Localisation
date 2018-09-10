@@ -14,13 +14,13 @@ war_goal = {
         name = "的黎波里"  # Tripoli
         location = 1313
         attacker = {
-            commander = "Hassan Bey"  # Hassan Bey
+            commander = "哈桑酋长"  # Hassan Bey
             heavy_ship = 8
             losses = 2
             country = TRP
         }
         defender = {
-            commander = "Edward Preble"  # Edward Preble
+            commander = "爱德华 普雷贝尔"  # Edward Preble
             heavy_ship = 7
             losses = 2
             country = USA
@@ -30,16 +30,16 @@ war_goal = {
 }
 1805.4.27 = {
     battle = {
-        name = "Derne"  # Derne
+        name = "德尔纳"  # Derne
         location = 1313
         attacker = {
-            commander = "Hassan Bey"  # Hassan Bey
+            commander = "哈桑酋长"  # Hassan Bey
             infantry = 700
             losses = 25
             country = TRP
         }
         defender = {
-            commander = "William Eaton"  # William Eaton
+            commander = "威廉 伊顿"  # William Eaton
             infantry = 4000
             losses = 3
             country = USA
