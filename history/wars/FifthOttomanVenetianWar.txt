@@ -1,4 +1,4 @@
-﻿name = "Fifth Ottoman-Venetian War"  # Fifth Ottoman-Venetian War
+﻿name = "第五次奥斯曼-威尼斯战争"  # Fifth Ottoman-Venetian War
 war_goal = {
     type = superiority_crusade
     casus_belli = cb_crusade
@@ -14,16 +14,16 @@ war_goal = {
 }
 1571.10.7 = {
     battle = {
-        name = "Lepanto"  # Lepanto
+        name = "勒班陀"  # Lepanto
         location = 1312
         attacker = {
-            commander = "John of Austria"  # John of Austria
+            commander = "奥地利的唐·胡安"  # John of Austria
             galley = 210
             losses = 6
             country = SPA
         }
         defender = {
-            commander = "Ali Pasha"  # Ali Pasha
+            commander = "阿里 帕夏"  # Ali Pasha
             galley = 260
             losses = 90
             country = TUR

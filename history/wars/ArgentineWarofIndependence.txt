@@ -1,4 +1,4 @@
-﻿name = "Argentine War of Independence"  # Argentine War of Independence
+﻿name = "阿根廷独立战争"  # Argentine War of Independence
 war_goal = {
     type = defend_capital_independence
     casus_belli = cb_independence_war
@@ -10,10 +10,10 @@ war_goal = {
 }
 1817.2.12 = {
     battle = {
-        name = "Chacabuco"  # Chacabuco
+        name = "查卡布科"  # Chacabuco
         location = 787
         attacker = {
-            commander = "José de San Martin"  # José de San Martin
+            commander = "何塞 德 圣马丁"  # José de San Martin
             infantry = 4000
             cavalry = 600
             losses = 2
@@ -30,10 +30,10 @@ war_goal = {
 }
 1818.4.5 = {
     battle = {
-        name = "Maipú"  # Maipú
+        name = "迈普"  # Maipú
         location = 787
         attacker = {
-            commander = "José de San Martin"  # José de San Martin
+            commander = "何塞 德 圣马丁"  # José de San Martin
             infantry = 5000
             losses = 20
             country = LAP

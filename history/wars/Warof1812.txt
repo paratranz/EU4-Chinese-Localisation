@@ -1,4 +1,4 @@
-﻿name = "War of 1812"  # War of 1812
+﻿name = "1812年战争"  # War of 1812
 war_goal = {
     type = superiority_trade_mutual
     casus_belli = cb_trade_war
@@ -9,16 +9,16 @@ war_goal = {
 }
 1812.8.15 = {
     battle = {
-        name = "Detroit"  # Detroit
+        name = "底特律"  # Detroit
         location = 944
         attacker = {
-            commander = "William Hull"  # William Hull
+            commander = "威廉 赫尔"  # William Hull
             infantry = 2500
             losses = 1
             country = USA
         }
         defender = {
-            commander = "Isaac Brock"  # Isaac Brock
+            commander = "艾萨克 布洛克"  # Isaac Brock
             infantry = 1250
             losses = 1
             country = GBR
@@ -37,7 +37,7 @@ war_goal = {
             country = USA
         }
         defender = {
-            commander = "Isaac Brock"  # Isaac Brock
+            commander = "艾萨克 布洛克"  # Isaac Brock
             infantry = 1300
             losses = 1
             country = GBR
@@ -50,7 +50,7 @@ war_goal = {
         name = "Lacolle Mills"  # Lacolle Mills
         location = 994
         attacker = {
-            commander = "Henry Dearborn"  # Henry Dearborn
+            commander = "亨利 迪尔伯恩"  # Henry Dearborn
             infantry = 600
             losses = 2
             country = USA

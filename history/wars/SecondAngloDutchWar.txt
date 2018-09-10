@@ -1,4 +1,4 @@
-﻿name = "Second Anglo-Dutch War"  # Second Anglo-Dutch War
+﻿name = "第二次英荷战争"  # Second Anglo-Dutch War
 war_goal = {
     type = superiority_trade_mutual
     casus_belli = cb_trade_war
@@ -9,16 +9,16 @@ war_goal = {
 }
 1665.6.13 = {
     battle = {
-        name = "Lowestoft"  # Lowestoft
+        name = "洛斯托夫特"  # Lowestoft
         location = 1270
         attacker = {
-            commander = "James Stuart"  # James Stuart
+            commander = "詹姆斯 斯图亚特"  # James Stuart
             heavy_ship = 109
             losses = 1
             country = ENG
         }
         defender = {
-            commander = "Jacob van Wassenaer Obdam"  # Jacob van Wassenaer Obdam
+            commander = "雅各布 范 瓦塞纳 奥布达姆"  # Jacob van Wassenaer Obdam
             heavy_ship = 103
             losses = 16
             country = NED
@@ -31,13 +31,13 @@ war_goal = {
         name = "North Foreland"  # North Foreland
         location = 1271
         attacker = {
-            commander = "George Monck"  # George Monck
+            commander = "乔治 蒙克"  # George Monck
             heavy_ship = 79
             losses = 13
             country = ENG
         }
         defender = {
-            commander = "Michiel de Ruyter"  # Michiel de Ruyter
+            commander = "米希尔 德 鲁伊特"  # Michiel de Ruyter
             heavy_ship = 84
             losses = 5
             country = NED

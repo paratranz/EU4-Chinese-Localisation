@@ -1,4 +1,4 @@
-﻿name = "War of Devolution"  # War of Devolution
+﻿name = "遗产战争"  # War of Devolution
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -10,17 +10,17 @@ war_goal = {
 }
 1667.8.28 = {
     battle = {
-        name = "Lille"  # Lille
+        name = "里尔"  # Lille
         location = 88
         attacker = {
-            commander = "Henri de la Tour d'Auvergne"  # Henri de la Tour d'Auvergne
+            commander = "亨利 德 拉图尔 奥弗涅"  # Henri de la Tour d'Auvergne
             infantry = 32000
             cavalry = 15000
             losses = 1
             country = FRA
         }
         defender = {
-            commander = "Carlos"  # Carlos
+            commander = "卡洛斯"  # Carlos
             infantry = 4000
             cavalry = 500
             losses = 10

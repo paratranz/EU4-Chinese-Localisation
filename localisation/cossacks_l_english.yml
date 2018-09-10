@@ -1439,7 +1439,7 @@
  GRANT_ESTATE_DESC_2:0 "这将提高他们$AMT|G$忠诚度（到$TOTAL$）、$INFLUENCE|Y$影响力（到$TOTAL2|Y$）和$TERRITORY|Y$控制土地占比（到$TOTAL3|Y$）。"
  GRANT_ESTATE_DESC_2_INFLUENCE_CAP:0 "这将提高他们$AMT|G$忠诚度（到$TOTAL$）和$TERRITORY|Y$控制土地占比（到$TOTAL3|Y$）。影响力早已超过上限$TOTAL2|Y$，因此不会改变。"
  GRANT_ESTATE_DESC_2_PROVINCE_INFLUENCE_CAP:0 "这将提高他们$AMT|G$忠诚度（到$TOTAL$）和$TERRITORY|Y$控制土地占比（到$TOTAL3|Y$）。影响力早已超过省份上限$TOTAL2|Y$，因此不会改变。"
- REVOKE_ESTATE_DESC_2_INFLUENCE_CAP:0 "This will decrease their loyalty by $AMT|R$ (to $TOTAL$) and percentage of land by $TERRITORY|Y$ (to $TOTAL3|Y$). Influence will still remain over $TOTAL2|Y$ cap."
+ REVOKE_ESTATE_DESC_2_INFLUENCE_CAP:0 "这会降低他们$AMT|R$的忠诚 (变为$TOTAL$)，$TERRITORY|Y$的土地占有率(变为$TOTAL3|Y$)。影响力仍会高于$TOTAL2|Y$的上限。"
  REVOKE_ESTATE_DESC_2_PROVINCE_INFLUENCE_CAP:0 "This will decrease their loyalty by $AMT|R$ (to $TOTAL$) and percentage of land by $TERRITORY|Y$ (to $TOTAL3|Y$). Influence will not change due to province influence remaining over $TOTAL2|Y$ cap."
  FE_USE_AGE_SCORING:0 "Use Age Scoring"
  FE_USE_AGE_SCORING_DESC:0 "Resets score & victory cards between ages."

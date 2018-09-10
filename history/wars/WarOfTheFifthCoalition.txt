@@ -1,4 +1,4 @@
-﻿name = "War of the Fifth Coalition"  # War of the Fifth Coalition
+﻿name = "第五次反法同盟战争"  # War of the Fifth Coalition
 war_goal = {
     type = take_capital_revolution
     casus_belli = cb_crush_the_revolution
@@ -26,7 +26,7 @@ war_goal = {
 }
 1809.4.15 = {
     battle = {
-        name = "Sacile"  # Sacile
+        name = "萨奇莱"  # Sacile
         location = 112
         attacker = {
             commander = "Johann of Austria"  # Johann of Austria
@@ -35,7 +35,7 @@ war_goal = {
             country = HAB
         }
         defender = {
-            commander = "Eugene de Beauharnais"  # Eugene de Beauharnais
+            commander = "欧仁 德 博阿尔内"  # Eugene de Beauharnais
             infantry = 36000
             losses = 16
             country = FRA
@@ -54,7 +54,7 @@ war_goal = {
             country = HAB
         }
         defender = {
-            commander = "Louis Nicolas Davout"  # Louis Nicolas Davout
+            commander = "路易 尼古拉 达武"  # Louis Nicolas Davout
             infantry = 28000
             losses = 14
             country = FRA
@@ -75,7 +75,7 @@ war_goal = {
             country = HAB
         }
         defender = {
-            commander = "Louis Nicolas Davout"  # Louis Nicolas Davout
+            commander = "路易 尼古拉 达武"  # Louis Nicolas Davout
             infantry = 10500
             cavalry = 3500
             artillery = 45
@@ -87,7 +87,7 @@ war_goal = {
 }
 1809.4.20 = {
     battle = {
-        name = "Abensberg"  # Abensberg
+        name = "阿本斯贝格"  # Abensberg
         location = 257
         attacker = {
             commander = "Charles of Austria"  # Charles of Austria
@@ -96,7 +96,7 @@ war_goal = {
             country = HAB
         }
         defender = {
-            commander = "Napoléon Bonaparte"  # Napoléon Bonaparte
+            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
             infantry = 90000
             losses = 6
             country = FRA
@@ -109,7 +109,7 @@ war_goal = {
         name = "Ratisbon"  # Ratisbon
         location = 64
         attacker = {
-            commander = "Archduke Charles"  # Archduke Charles
+            commander = "查尔斯大公"  # Archduke Charles
             infantry = 26000
             losses = 23
             country = HAB
@@ -125,7 +125,7 @@ war_goal = {
 }
 1809.5.3 = {
     battle = {
-        name = "Ebersberg"  # Ebersberg
+        name = "埃伯斯贝格"  # Ebersberg
         location = 133
         attacker = {
             commander = "Hiller"  # Hiller
@@ -134,7 +134,7 @@ war_goal = {
             country = HAB
         }
         defender = {
-            commander = "André Masséna"  # André Masséna
+            commander = "安德烈 马塞纳"  # André Masséna
             infantry = 22000
             losses = 14
             country = FRA
@@ -154,7 +154,7 @@ war_goal = {
             country = HAB
         }
         defender = {
-            commander = "Eugène de Beauharnais"  # Eugène de Beauharnais
+            commander = "欧仁 德 博阿尔内"  # Eugène de Beauharnais
             infantry = 39000
             cavalry = 6000
             losses = 5
@@ -174,7 +174,7 @@ war_goal = {
             country = HAB
         }
         defender = {
-            commander = "Napoléon Bonaparte"  # Napoléon Bonaparte
+            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
             infantry = 90000
             losses = 23
             country = FRA
@@ -194,7 +194,7 @@ war_goal = {
             country = HAB
         }
         defender = {
-            commander = "Eugène de Beauharnais"  # Eugène de Beauharnais
+            commander = "欧仁 德 博阿尔内"  # Eugène de Beauharnais
             infantry = 35000
             losses = 11
             country = FRA
@@ -204,7 +204,7 @@ war_goal = {
 }
 1809.7.5 = {
     battle = {
-        name = "Wagram"  # Wagram
+        name = "瓦格拉姆"  # Wagram
         location = 134
         attacker = {
             commander = "Charles of Austria"  # Charles of Austria
@@ -213,7 +213,7 @@ war_goal = {
             country = HAB
         }
         defender = {
-            commander = "Napoléon Bonaparte"  # Napoléon Bonaparte
+            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
             infantry = 180000
             losses = 19
             country = FRA

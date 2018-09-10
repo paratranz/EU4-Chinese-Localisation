@@ -1,4 +1,4 @@
-﻿name = "Conquest of the Inca"  # Conquest of the Inca
+﻿name = "征服印加"  # Conquest of the Inca
 war_goal = {
     type = annex_country
     casus_belli = cb_annex
@@ -9,10 +9,10 @@ war_goal = {
 }
 1531.4.1 = {
     battle = {
-        name = "Puná"  # Puná
+        name = "普拿"  # Puná
         location = 816
         attacker = {
-            commander = "Francisco Pizarro"  # Francisco Pizarro
+            commander = "弗朗西斯科 皮萨罗"  # Francisco Pizarro
             infantry = 160
             cavalry = 30
             losses = 1
@@ -29,10 +29,10 @@ war_goal = {
 }
 1532.11.16 = {
     battle = {
-        name = "Cajamarca"  # Cajamarca
+        name = "卡哈马卡"  # Cajamarca
         location = 813
         attacker = {
-            commander = "Francisco Pizarro"  # Francisco Pizarro
+            commander = "弗朗西斯科 皮萨罗"  # Francisco Pizarro
             infantry = 110
             cavalry = 70
             artillery = 5
@@ -40,7 +40,7 @@ war_goal = {
             country = SPA
         }
         defender = {
-            commander = "Atahualpa"  # Atahualpa
+            commander = "阿塔瓦尔帕"  # Atahualpa
             infantry = 6000
             losses = 70
             country = INC
