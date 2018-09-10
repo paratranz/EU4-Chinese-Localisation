@@ -1,4 +1,4 @@
-﻿name = "Livonian War"  # Livonian War
+﻿name = "利沃尼亚战争"  # Livonian War
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -23,16 +23,16 @@ war_goal = {
 }
 1581.11.2 = {
     battle = {
-        name = "Pskov"  # Pskov
+        name = "普斯科夫"  # Pskov
         location = 274
         attacker = {
-            commander = "Ivan Shuisky"  # Ivan Shuisky
+            commander = "伊凡 舒斯基"  # Ivan Shuisky
             infantry = 15000
             losses = 10
             country = RUS
         }
         defender = {
-            commander = "Stefan Bathory"  # Stefan Bathory
+            commander = "斯特凡 巴托里"  # Stefan Bathory
             infantry = 35000
             cavalry = 10000
             artillery = 50
