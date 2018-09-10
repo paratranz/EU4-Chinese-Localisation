@@ -1,4 +1,4 @@
-﻿name = "First Ottoman-Hungarian War"  # First Ottoman-Hungarian War
+﻿name = "第一次奥斯曼-匈牙利战争"  # First Ottoman-Hungarian War
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -12,17 +12,17 @@ war_goal = {
 }
 1456.7.14 = {
     battle = {
-        name = "Belgrade"  # Belgrade
+        name = "贝尔格莱德"  # Belgrade
         location = 141
         attacker = {
-            commander = "Mehmet II"  # Mehmet II
+            commander = "穆罕默德 II"  # Mehmet II
             infantry = 50000
             cavalry = 10000
             losses = 50
             country = TUR
         }
         defender = {
-            commander = "Hunyadi János"  # Hunyadi János
+            commander = "匈雅提 亚诺什"  # Hunyadi János
             infantry = 40000
             cavalry = 10000
             losses = 10
