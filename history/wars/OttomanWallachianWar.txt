@@ -1,4 +1,4 @@
-﻿name = "Ottoman-Wallachian War"  # Ottoman-Wallachian War
+﻿name = "奥斯曼-瓦拉吉亚战争"  # Ottoman-Wallachian War
 war_goal = {
     type = take_capital_disloyal
     casus_belli = cb_disloyal_vassal
@@ -10,17 +10,17 @@ war_goal = {
 }
 1595.8.13 = {
     battle = {
-        name = "Calugareni"  # Calugareni
+        name = "克鲁格列尼"  # Calugareni
         location = 161
         attacker = {
-            commander = "Sinan Pasha"  # Sinan Pasha
+            commander = "锡南 帕夏"  # Sinan Pasha
             infantry = 86000
             cavalry = 42000
             losses = 10
             country = TUR
         }
         defender = {
-            commander = "Michael the Brave"  # Michael the Brave
+            commander = "勇士迈克尔"  # Michael the Brave
             infantry = 15000
             cavalry = 8000
             losses = 5
