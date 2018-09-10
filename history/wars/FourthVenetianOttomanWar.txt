@@ -1,4 +1,4 @@
-﻿name = "Fourth Ottoman-Venetian War"  # Fourth Ottoman-Venetian War
+﻿name = "第四次奥斯曼-威尼斯战争"  # Fourth Ottoman-Venetian War
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -23,16 +23,16 @@ war_goal = {
 }
 1538.9.28 = {
     battle = {
-        name = "Preveza"  # Preveza
+        name = "普雷韦扎"  # Preveza
         location = 1312
         attacker = {
-            commander = "Barbarossa Hayreddin Pasha"  # Barbarossa Hayreddin Pasha
+            commander = "巴巴罗萨 海雷丁 帕夏"  # Barbarossa Hayreddin Pasha
             galley = 122
             losses = 0
             country = TUR
         }
         defender = {
-            commander = "Andrea Doria"  # Andrea Doria
+            commander = "安德烈亚 多里亚"  # Andrea Doria
             galley = 302
             losses = 49
             country = GEN
