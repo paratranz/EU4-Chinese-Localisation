@@ -1,4 +1,4 @@
-﻿name = "War of the League of Cognac"  # War of the League of Cognac
+﻿name = "科涅克同盟战争"  # War of the League of Cognac
 war_goal = {
     type = take_border
     casus_belli = cb_border_war
@@ -16,17 +16,17 @@ war_goal = {
 }
 1529.6.21 = {
     battle = {
-        name = "Landriano"  # Landriano
+        name = "兰德里亚诺"  # Landriano
         location = 104
         attacker = {
-            commander = "Duke of St. Pol"  # Duke of St. Pol
+            commander = "圣波尔公爵"  # Duke of St. Pol
             infantry = 3600
             cavalry = 1250
             losses = 52
             country = FRA
         }
         defender = {
-            commander = "Luigi"  # Luigi
+            commander = "路易吉"  # Luigi
             infantry = 5800
             cavalry = 1500
             losses = 10
