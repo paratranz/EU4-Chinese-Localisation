@@ -28,10 +28,10 @@ war_goal = {
 }
 1544.4.11 = {
     battle = {
-        name = "Ceresole"  # Ceresole
+        name = "切雷索莱"  # Ceresole
         location = 103
         attacker = {
-            commander = "Francois de Vendome"  # Francois de Vendome
+            commander = "弗朗索瓦 德 旺多姆"  # Francois de Vendome
             infantry = 15000
             cavalry = 2000
             artillery = 20
@@ -39,7 +39,7 @@ war_goal = {
             country = FRA
         }
         defender = {
-            commander = "Marques del Vasto"  # Marques del Vasto
+            commander = "瓦斯托侯爵"  # Marques del Vasto
             infantry = 18000
             cavalry = 1500
             artillery = 25
@@ -51,17 +51,17 @@ war_goal = {
 }
 1545.7.18 = {
     battle = {
-        name = "Solent"  # Solent
+        name = "索伦特"  # Solent
         location = 1272
         attacker = {
-            commander = "Claude d'Annebault"  # Claude d'Annebault
+            commander = "克劳德 德 阿内博尔"  # Claude d'Annebault
             heavy_ship = 80
             light_ship = 60
             losses = 10
             country = FRA
         }
         defender = {
-            commander = "John Dudley"  # John Dudley
+            commander = "约翰 达德利"  # John Dudley
             heavy_ship = 70
             light_ship = 20
             losses = 5
