@@ -1,4 +1,4 @@
-﻿name = "Thirty Years War"  # Thirty Years War
+﻿name = "三十年战争"  # Thirty Years War
 war_goal = {
     type = superiority_religious_league
     casus_belli = cb_religious_league
@@ -50,17 +50,17 @@ war_goal = {
 }
 1631.9.17 = {
     battle = {
-        name = "Breitenfeld"  # Breitenfeld
+        name = "布赖滕费尔德"  # Breitenfeld
         location = 62
         attacker = {
-            commander = "Gustavus Adolphus"  # Gustavus Adolphus
+            commander = "古斯塔夫 阿道夫"  # Gustavus Adolphus
             infantry = 30000
             cavalry = 10000
             losses = 15
             country = SWE
         }
         defender = {
-            commander = "Johan Tzerclaes"  # Johan Tzerclaes
+            commander = "约翰 蒂利"  # Johan Tzerclaes
             infantry = 16000
             cavalry = 8000
             losses = 34
@@ -75,10 +75,10 @@ war_goal = {
 }
 1632.1.1 = {
     battle = {
-        name = "Lützen"  # Lützen
+        name = "吕岑"  # Lützen
         location = 62
         attacker = {
-            commander = "Gustav Adolf"  # Gustav Adolf
+            commander = "古斯塔夫 阿道夫"  # Gustav Adolf
             infantry = 13000
             cavalry = 6500
             artillery = 60
@@ -86,7 +86,7 @@ war_goal = {
             country = SWE
         }
         defender = {
-            commander = "Albrecht von Wallenstein"  # Albrecht von Wallenstein
+            commander = "阿尔布雷希特 冯 瓦伦斯坦"  # Albrecht von Wallenstein
             infantry = 10000
             cavalry = 7000
             artillery = 25
@@ -101,10 +101,10 @@ war_goal = {
 }
 1634.9.6 = {
     battle = {
-        name = "Nördlingen"  # Nördlingen
+        name = "诺德林根"  # Nördlingen
         location = 64
         attacker = {
-            commander = "Gustav Horn"  # Gustav Horn
+            commander = "古斯塔夫 霍恩"  # Gustav Horn
             infantry = 15000
             cavalry = 10000
             artillery = 50
@@ -112,7 +112,7 @@ war_goal = {
             country = SWE
         }
         defender = {
-            commander = "Ferdinand III"  # Ferdinand III
+            commander = "斐迪南 III"  # Ferdinand III
             infantry = 20000
             cavalry = 12000
             artillery = 30
@@ -137,10 +137,10 @@ war_goal = {
 }
 1636.10.4 = {
     battle = {
-        name = "Wittstock"  # Wittstock
+        name = "维特施托克"  # Wittstock
         location = 50
         attacker = {
-            commander = "Johan Banér"  # Johan Banér
+            commander = "约翰 巴纳"  # Johan Banér
             infantry = 15000
             losses = 2
             country = SWE
