@@ -1,0 +1,889 @@
+﻿graphical_culture = easterngfx
+color = {
+    40
+    164
+    157
+}
+historical_idea_groups = {
+    defensive_ideas
+    offensive_ideas
+    trade_ideas
+    spy_ideas
+    religious_ideas
+    maritime_ideas
+    diplomatic_ideas
+    economic_ideas
+}
+historical_units = {
+    ottoman_yaya
+    ottoman_musellem
+    ottoman_azab
+    ottoman_timariot
+    ottoman_janissary
+    ottoman_spahi
+    ottoman_sekban
+    ottoman_reformed_spahi
+    ottoman_reformed_janissary
+    ottoman_toprakli_hit_and_run
+    ottoman_nizami_cedid
+    ottoman_toprakli_dragoon
+    eastern_skirmisher
+    eastern_uhlan
+    eastern_carabinier
+    ottoman_new_model
+    ottoman_lancer
+}
+monarch_names = {
+    "Ioannes #3" = 20
+    "David #0" = 10
+    "Skantarios #0" = 0
+    "Michael #1" = 0
+    "Aineias #0" = 0
+    "Ambrosios #0" = 0
+    "Bartholomaios #0" = 0
+    "Diogenes #0" = 0
+    "Eirenaios #0" = 0
+    "Gregorios #0" = 0
+    "Herakles #0" = -1
+    "Iason #0" = 15
+    "Kastor #0" = 0
+    "Matthaios #0" = 0
+    "Nikolaos #0" = 0
+    "Orestes #0" = 0
+    "Pavlos #0" = 0
+    "Petros #0" = 0
+    "Philippos #0" = 0
+    "Stefanos #0" = 0
+    "Timotheos #0" = 0
+    "Photine #0" = -1
+    "Alexios #3" = 20
+    "Basileios #1" = 10
+    "Georgios #1" = 0
+    "Aristoteles #0" = 0
+    "Dionysos #0" = 0
+    "Hektor #0" = 0
+    "Iosephos #0" = 0
+    "Nestor #0" = -1
+}
+leader_names = {
+    "Komnenos"  # Komnenos
+    "Gidos"  # Gidos
+    "Axuochos"  # Axuochos
+    "Amiroutzes"  # Amiroutzes
+    "Trepizuntius"  # Trepizuntius
+    "Choniades"  # Choniades
+    "Lazaropoulos"  # Lazaropoulos
+    "Panaretos"  # Panaretos
+    "Xiphilinos"  # Xiphilinos
+    "Bessarion"  # Bessarion
+    "Chalkokondyles"  # Chalkokondyles
+}
+ship_names = {
+    "Ydra"  # Ydra
+    "Lesvos"  # Lesvos
+    "Limnos"  # Limnos
+    "Mikonos"  # Mikonos
+    "Salamis"  # Salamis
+    "Samos"  # Samos
+    "Themistoklis"  # Themistoklis
+    "Evripidis"  # Evripidis
+    "Aischylos"  # Aischylos
+    "Aristofanis"  # Aristofanis
+    "Archimedes"  # Archimedes
+    "Demokritos"  # Demokritos
+    "Anaxagoras"  # Anaxagoras
+    "Diomedes"  # Diomedes
+    "Herakles"  # Herakles
+    "Atreas"  # Atreas
+    "Perseas"  # Perseas
+    "Aigyptos"  # Aigyptos
+    "Aiolos"  # Aiolos
+    "Poseidon"  # Poseidon
+    "Athena"  # Athena
+    "Zeus"  # Zeus
+    "Dias"  # Dias
+    "Kronos"  # Kronos
+    "Rea"  # Rea
+    "Ouranos"  # Ouranos
+    "Hera"  # Hera
+    "Adonis"  # Adonis
+    "Afroditi"  # Afroditi
+    "Charavgi"  # Charavgi
+    "Orion"  # Orion
+    "Iasonas"  # Iasonas
+    "Theseus"  # Theseus
+    "Achilleas"  # Achilleas
+    "Mermidon"  # Mermidon
+    "Makedon"  # Makedon
+    "Lakedemon"  # Lakedemon
+    "Athineos"  # Athineos
+    "Xenofon"  # Xenofon
+    "Miltiades"  # Miltiades
+    "Alexandros"  # Alexandros
+    "Megalexandros"  # Megalexandros
+    "Gorgona"  # Gorgona
+    "Midia"  # Midia
+    "Efterpi"  # Efterpi
+    "Andriantas"  # Andriantas
+    "Demetra"  # Demetra
+    "Estia"  # Estia
+    "Apollon"  # Apollon
+    "Ermis"  # Ermis
+    "Gorgopodaros"  # Gorgopodaros
+    "Gorgoplefstos"  # Gorgoplefstos
+    "Artemis"  # Artemis
+    "Aris"  # Aris
+    "Theofanis"  # Theofanis
+    "Theochara"  # Theochara
+    "Filippos"  # Filippos
+    "Edessa"  # Edessa
+    "Ionia"  # Ionia
+    "Korinthos"  # Korinthos
+    "Sparti"  # Sparti
+    "Athenai"  # Athenai
+    "Messina"  # Messina
+    "Anthosparti"  # Anthosparti
+    "Kampos"  # Kampos
+    "Argolida"  # Argolida
+    "Argo"  # Argo
+    "Hephestos"  # Hephestos
+    "Hephestion"  # Hephestion
+    "Nearchos"  # Nearchos
+    "Parmenion"  # Parmenion
+    "Leonidas"  # Leonidas
+    "Averof"  # Averof
+    "Christos"  # Christos
+    "Christoforos"  # Christoforos
+    "Agios Christoforos"  # Agios Christoforos
+    "Vasileus Christoforos"  # Vasileus Christoforos
+    "Theodora"  # Theodora
+    "Agia Theodora"  # Agia Theodora
+    "Agios Theodoros"  # Agios Theodoros
+    "Vasileus Theodoros"  # Vasileus Theodoros
+    "Aftokrator"  # Aftokrator
+    "Vasillisa Theodora"  # Vasillisa Theodora
+    "Nikephoros"  # Nikephoros
+    "Agios Nikephoros"  # Agios Nikephoros
+    "Vasileus Nikephoros"  # Vasileus Nikephoros
+    "Pavlos"  # Pavlos
+    "Apostolos Pavlos"  # Apostolos Pavlos
+    "Osios Pavlos"  # Osios Pavlos
+    "Alexios"  # Alexios
+    "Agios Alexios"  # Agios Alexios
+    "Agia Alexia"  # Agia Alexia
+    "Alexia"  # Alexia
+    "Vasileus Alexios"  # Vasileus Alexios
+    "Vasilissa Alexia"  # Vasilissa Alexia
+    "Konstantinos"  # Konstantinos
+    "Agios Konstantinos"  # Agios Konstantinos
+    "Konstantinos o Megas"  # Konstantinos o Megas
+    "Vasileus Konstantinos"  # Vasileus Konstantinos
+    "Autokrator Konstantinos"  # Autokrator Konstantinos
+    "Herakleios"  # Herakleios
+    "Agios Herakleios"  # Agios Herakleios
+    "Vasileus Herakleios"  # Vasileus Herakleios
+    "Agios Herakleidios"  # Agios Herakleidios
+    "Agios Sergios"  # Agios Sergios
+    "Agios Maximos"  # Agios Maximos
+    "Agios Athanasios"  # Agios Athanasios
+    "Agia Athanasia"  # Agia Athanasia
+    "Agia Eleni"  # Agia Eleni
+    "Eleni"  # Eleni
+    "Oraia Eleni"  # Oraia Eleni
+    "Vasilissa Eleni"  # Vasilissa Eleni
+    "Aftokrateira Eleni"  # Aftokrateira Eleni
+    "Konstantinos kai Eleni"  # Konstantinos kai Eleni
+    "Stephanos"  # Stephanos
+    "Agios Stephanos"  # Agios Stephanos
+    "Agia Stephania"  # Agia Stephania
+    "Vasileus Stephanos"  # Vasileus Stephanos
+    "Autokrator Stephanos"  # Autokrator Stephanos
+    "Archangellos Michael"  # Archangellos Michael
+    "Archangellos Gavriel"  # Archangellos Gavriel
+    "Archangellos Uriel"  # Archangellos Uriel
+    "Archangellos"  # Archangellos
+    "Angelos"  # Angelos
+    "Exangelos"  # Exangelos
+    "Exapterygon"  # Exapterygon
+    "Cheruvim"  # Cheruvim
+    "Seraphim"  # Seraphim
+    "Osios"  # Osios
+    "Osia"  # Osia
+    "Ostia"  # Ostia
+    "Ioustiniani"  # Ioustiniani
+    "Agios Ioustinianos"  # Agios Ioustinianos
+    "Agia Ioustiniani"  # Agia Ioustiniani
+    "Aftokrator Ioustinianos"  # Aftokrator Ioustinianos
+    "Vasileus Ioustinianos"  # Vasileus Ioustinianos
+    "Ioustinianos o Megas"  # Ioustinianos o Megas
+    "Vasileus Michael"  # Vasileus Michael
+    "Andronikos"  # Andronikos
+    "Androniki"  # Androniki
+    "Agios Andronikos"  # Agios Andronikos
+    "Agia Androniki"  # Agia Androniki
+    "Vasileus Andronikos"  # Vasileus Andronikos
+    "Vasileios"  # Vasileios
+    "Vasileia"  # Vasileia
+    "Agios Vasileios"  # Agios Vasileios
+    "Agia Vasileia"  # Agia Vasileia
+    "Vasileus Vasileios"  # Vasileus Vasileios
+    "Vasileios o Vulgaroktonos"  # Vasileios o Vulgaroktonos
+    "Zoe"  # Zoe
+    "Agia Zoe"  # Agia Zoe
+    "Iera Zoe"  # Iera Zoe
+    "Vasilissa Zoe"  # Vasilissa Zoe
+    "Velissarios"  # Velissarios
+    "Piri"  # Piri
+    "Reis"  # Reis
+    "Aetos"  # Aetos
+    "Dikephalos Aetos"  # Dikephalos Aetos
+    "Dikephalos tou Vorra"  # Dikephalos tou Vorra
+    "Tryfilli"  # Tryfilli
+    "Olympios"  # Olympios
+    "Delphini"  # Delphini
+    "Delphina"  # Delphina
+    "Apochis"  # Apochis
+    "Nemesis"  # Nemesis
+    "Yvris"  # Yvris
+    "Drakon"  # Drakon
+    "Lykourgos"  # Lykourgos
+    "Solon"  # Solon
+    "Kroisos"  # Kroisos
+    "Lysippos"  # Lysippos
+    "Phedias"  # Phedias
+    "Ades"  # Ades
+    "Plutonas"  # Plutonas
+    "Mpaniera tou Poseidona"  # Mpaniera tou Poseidona
+    "Ikaros"  # Ikaros
+    "Daidalos"  # Daidalos
+    "Ikaria"  # Ikaria
+    "Imvros"  # Imvros
+    "Fournoi"  # Fournoi
+    "Kia"  # Kia
+    "Naxos"  # Naxos
+    "Chios"  # Chios
+    "Christos Soter"  # Christos Soter
+    "Soter"  # Soter
+    "Soterios"  # Soterios
+    "Sozomenos"  # Sozomenos
+    "Despotis"  # Despotis
+    "Despotis tou Moria"  # Despotis tou Moria
+    "Peloponissos"  # Peloponissos
+    "Nafplio"  # Nafplio
+    "Athos"  # Athos
+    "Agion Oros"  # Agion Oros
+    "Panagia"  # Panagia
+    "Panagia Parthena"  # Panagia Parthena
+    "Panagia Chrysorogiatissa"  # Panagia Chrysorogiatissa
+    "Panagia Pleomeni"  # Panagia Pleomeni
+    "Panagia Dakryzousa"  # Panagia Dakryzousa
+    "Panagia Romaion"  # Panagia Romaion
+    "Panagia Mitera"  # Panagia Mitera
+    "Panagia Chrysospilliotisa"  # Panagia Chrysospilliotisa
+    "Panagia Ampelokamoti"  # Panagia Ampelokamoti
+    "Panagia Pigazousa"  # Panagia Pigazousa
+    "Panagia Anthousa"  # Panagia Anthousa
+    "Hektor"  # Hektor
+    "Menelaos"  # Menelaos
+    "Aias"  # Aias
+    "Aias o Telamonios"  # Aias o Telamonios
+    "Odysseas"  # Odysseas
+    "Ithaki"  # Ithaki
+    "Tilemachos"  # Tilemachos
+    "Penelopi"  # Penelopi
+    "Minoas"  # Minoas
+    "Minotavros"  # Minotavros
+    "Tryfon"  # Tryfon
+    "Agamemnon"  # Agamemnon
+    "Ifigeneia"  # Ifigeneia
+    "Tavrida"  # Tavrida
+    "Tavros"  # Tavros
+    "Ichthys"  # Ichthys
+    "Galaxias"  # Galaxias
+    "Astir"  # Astir
+    "Asteras"  # Asteras
+    "Erythros Asteras"  # Erythros Asteras
+    "Asteri tis Vithleem"  # Asteri tis Vithleem
+    "Agioi Topoi"  # Agioi Topoi
+    "Ierosolima"  # Ierosolima
+    "Alexandreia"  # Alexandreia
+    "Doxa tou Theou"  # Doxa tou Theou
+    "Chara Theou"  # Chara Theou
+    "Tama"  # Tama
+    "Ieromartyras"  # Ieromartyras
+    "Kyprianos"  # Kyprianos
+    "Archiepiskopos"  # Archiepiskopos
+    "Episkopos"  # Episkopos
+    "Doukas"  # Doukas
+    "Ionion"  # Ionion
+    "Aigaion"  # Aigaion
+    "Kritikon"  # Kritikon
+    "Kriti"  # Kriti
+    "Zoniana"  # Zoniana
+    "Herakleia"  # Herakleia
+    "Herakleion"  # Herakleion
+    "Chania"  # Chania
+    "Lesvos"  # Lesvos
+    "Kypros"  # Kypros
+    "Rodos"  # Rodos
+    "Gigantas"  # Gigantas
+    "Polyphimos"  # Polyphimos
+    "Laistrygona"  # Laistrygona
+    "Lamia"  # Lamia
+    "Skylla"  # Skylla
+    "Charyvdi"  # Charyvdi
+    "Echidna"  # Echidna
+    "Ofis"  # Ofis
+    "Eva"  # Eva
+    "Hellespontos"  # Hellespontos
+    "Efxeinos Pontos"  # Efxeinos Pontos
+    "Prokopios"  # Prokopios
+    "Prokopia"  # Prokopia
+    "Agios Prokopios"  # Agios Prokopios
+    "Prokomenos"  # Prokomenos
+    "Frixos"  # Frixos
+    "Elli"  # Elli
+    "Kerkyra"  # Kerkyra
+    "Kyriarchos"  # Kyriarchos
+    "Kentavros"  # Kentavros
+    "Kaisar"  # Kaisar
+    "Keravnos"  # Keravnos
+    "Keratios"  # Keratios
+    "Keraton"  # Keraton
+    "Konstantinoupolis"  # Konstantinoupolis
+    "Leon Skleros"  # Leon Skleros
+    "Lykia"  # Lykia
+    "Thalassolykos"  # Thalassolykos
+    "Megaleion"  # Megaleion
+    "Megaleion tis Makedonias"  # Megaleion tis Makedonias
+    "Mikra Asia"  # Mikra Asia
+    "Morfeas"  # Morfeas
+    "Orfeas"  # Orfeas
+    "Evridiki"  # Evridiki
+    "Keryneia"  # Keryneia
+    "Ammochostos"  # Ammochostos
+    "Ledra"  # Ledra
+    "Pafos"  # Pafos
+    "Akamas"  # Akamas
+    "Amathous"  # Amathous
+    "Evagoras"  # Evagoras
+    "Chalkanoras"  # Chalkanoras
+    "Grigorios"  # Grigorios
+    "Kyrillos"  # Kyrillos
+    "Methodios"  # Methodios
+    "Nike"  # Nike
+    "Okeanos"  # Okeanos
+    "Tyranos"  # Tyranos
+    "Orestis"  # Orestis
+    "Orgi Theou"  # Orgi Theou
+    "Orthodoxia"  # Orthodoxia
+    "Loukia"  # Loukia
+    "Loukiani"  # Loukiani
+    "Agios Loukas"  # Agios Loukas
+    "Osios Loukas"  # Osios Loukas
+    "Profitis Helias"  # Profitis Helias
+    "Ai Lias"  # Ai Lias
+    "Profitis"  # Profitis
+    "Sampson"  # Sampson
+    "David"  # David
+    "Goliath"  # Goliath
+    "Patrida"  # Patrida
+    "Ellas Patrida"  # Ellas Patrida
+    "Patris"  # Patris
+    "Mitera"  # Mitera
+    "Pateras"  # Pateras
+    "Pater"  # Pater
+    "Papas"  # Papas
+    "Papadia"  # Papadia
+    "Diakonos"  # Diakonos
+    "Atlas"  # Atlas
+    "Egkelados"  # Egkelados
+    "Titanas"  # Titanas
+    "Yperion"  # Yperion
+    "Helios"  # Helios
+    "Helios Pantokrator"  # Helios Pantokrator
+    "Diomedes"  # Diomedes
+    "Avgeas"  # Avgeas
+    "Achellos"  # Achellos
+    "Acheros"  # Acheros
+    "Stymfalida"  # Stymfalida
+    "Lernea"  # Lernea
+    "Lernea Ydra"  # Lernea Ydra
+    "Nemea"  # Nemea
+    "Leon tis Nemeas"  # Leon tis Nemeas
+    "Kapros"  # Kapros
+    "Erymanthea"  # Erymanthea
+    "Monastiri"  # Monastiri
+    "Ouranos"  # Ouranos
+    "Nefeli"  # Nefeli
+    "Gea"  # Gea
+    "Thalassa"  # Thalassa
+    "Mesogeios"  # Mesogeios
+    "Politis"  # Politis
+    "Vasilevousa"  # Vasilevousa
+    "Thalassokrator"  # Thalassokrator
+    "Pantheras"  # Pantheras
+    "Leon"  # Leon
+    "Pelargos"  # Pelargos
+    "Mermigkas"  # Mermigkas
+    "Onos"  # Onos
+    "Thesallia"  # Thesallia
+    "Thesalloniki"  # Thesalloniki
+    "Theophylaktos"  # Theophylaktos
+    "Taxiarchos"  # Taxiarchos
+    "Stratilatis"  # Stratilatis
+    "Oplarchigos"  # Oplarchigos
+    "Navarchos"  # Navarchos
+    "Sikelia"  # Sikelia
+    "Ellas"  # Ellas
+    "Samos"  # Samos
+    "Samothraki"  # Samothraki
+    "Thraki"  # Thraki
+    "Rodopi"  # Rodopi
+    "Alexandroupoli"  # Alexandroupoli
+    "Andrianoupolis"  # Andrianoupolis
+    "Thrylos"  # Thrylos
+    "Triton"  # Triton
+    "Achinos"  # Achinos
+    "Asterias"  # Asterias
+    "Xiphias"  # Xiphias
+    "Xiphomachos"  # Xiphomachos
+    "Xiphos"  # Xiphos
+    "Spatha"  # Spatha
+    "Zakynthos"  # Zakynthos
+    "Zoodotis"  # Zoodotis
+    "Ypertatos"  # Ypertatos
+    "Andrianos"  # Andrianos
+    "Anthimos"  # Anthimos
+    "Dragumanos"  # Dragumanos
+    "Akritas"  # Akritas
+    "Digenis"  # Digenis
+    "Digenis Akritas"  # Digenis Akritas
+    "Mavroskyllos"  # Mavroskyllos
+    "Charon"  # Charon
+    "Kalymnos"  # Kalymnos
+    "Oraia Kalymnos"  # Oraia Kalymnos
+    "Psara"  # Psara
+    "Psaras"  # Psaras
+    "Varrangios"  # Varrangios
+    "Gothos"  # Gothos
+    "Pontios"  # Pontios
+    "Mavromata"  # Mavromata
+    "Prasinomata"  # Prasinomata
+    "Kastanomata"  # Kastanomata
+    "Gata"  # Gata
+    "Gatos"  # Gatos
+    "Magkas"  # Magkas
+    "Foneas"  # Foneas
+    "Karcharias"  # Karcharias
+    "Skyllopsaro"  # Skyllopsaro
+    "Pyrofis"  # Pyrofis
+    "Stavraetos"  # Stavraetos
+    "Zenon"  # Zenon
+    "Machairas"  # Machairas
+    "Kykkos"  # Kykkos
+    "Anthos"  # Anthos
+    "Korax"  # Korax
+    "Mavros Korax"  # Mavros Korax
+    "Phovos"  # Phovos
+    "Dimos"  # Dimos
+    "Theodoros Kolokotronis"  # Theodoros Kolokotronis
+    "Odysseas Andrutsos"  # Odysseas Andrutsos
+    "Georgios Karaiskakis"  # Georgios Karaiskakis
+    "Rigas Ferraios"  # Rigas Ferraios
+    "Dionysios Solomos"  # Dionysios Solomos
+    "Dionysios"  # Dionysios
+    "Dionysos"  # Dionysos
+    "Talos"  # Talos
+    "Efterpi"  # Efterpi
+    "Mpoumpoulina"  # Mpoumpoulina
+    "Manto Mavrogenous"  # Manto Mavrogenous
+    "Konstantinos Kanaris"  # Konstantinos Kanaris
+    "Nikitaras"  # Nikitaras
+    "Tourkofagos"  # Tourkofagos
+    "Nikitas"  # Nikitas
+    "Vulgaroktonos"  # Vulgaroktonos
+    "Messologi"  # Messologi
+    "Palaiologos"  # Palaiologos
+    "Komnenos"  # Komnenos
+    "Isaakios Komnenos"  # Isaakios Komnenos
+    "Thalpori"  # Thalpori
+    "Lazaros"  # Lazaros
+    "Apostolos Andreas"  # Apostolos Andreas
+    "Apostolos Varnavas"  # Apostolos Varnavas
+    "Apostolos Loukas"  # Apostolos Loukas
+    "Apostolos Thomas"  # Apostolos Thomas
+    "Apostolos Petros"  # Apostolos Petros
+    "Apostolos Iakovos"  # Apostolos Iakovos
+    "Apostolos Stephanos"  # Apostolos Stephanos
+    "Apostolos Ioannis"  # Apostolos Ioannis
+    "Apostolos Simonas "Apostolos"  # Apostolos Simonas "Apostolos
+    "Vartholomaios" "Apostolos"  # Vartholomaios" "Apostolos
+    "Thaddeos" "12"  # Thaddeos" "12
+    "Apostoloi" "Agioi"  # Apostoloi" "Agioi
+    "Saranta" "Agioi"  # Saranta" "Agioi
+    "Pantes"  # Pantes
+    "Agios Nikolaos"  # Agios Nikolaos
+    "Naftikos"  # Naftikos
+    "O Leventis ton Psaron"  # O Leventis ton Psaron
+    "Leventis"  # Leventis
+    "Tromos"  # Tromos
+    "Rigaina"  # Rigaina
+    "Rigas"  # Rigas
+    "Doukaina"  # Doukaina
+    "Dioskouroi"  # Dioskouroi
+    "Romos"  # Romos
+    "Romylos"  # Romylos
+    "Romos kai Romylos"  # Romos kai Romylos
+    "Papandreas"  # Papandreas
+    "Papamichalis"  # Papamichalis
+    "Papakonstantinos"  # Papakonstantinos
+    "Agios Demetrios"  # Agios Demetrios
+    "Agios Theodoros"  # Agios Theodoros
+    "Agia Marina"  # Agia Marina
+    "Agia Evlampia"  # Agia Evlampia
+    "Agia Charalambia"  # Agia Charalambia
+    "Agios Charalambos"  # Agios Charalambos
+    "Agios Charilaos"  # Agios Charilaos
+    "Agios Antonios"  # Agios Antonios
+    "Agia Antonia"  # Agia Antonia
+    "Agios Amvrosios"  # Agios Amvrosios
+    "Panagia Aggelovastachti"  # Panagia Aggelovastachti
+    "Panagia Filoptochi"  # Panagia Filoptochi
+    "Panagia Thalassofiliti"  # Panagia Thalassofiliti
+    "Thalassomachos"  # Thalassomachos
+    "Amfitriti"  # Amfitriti
+    "Thalassios Ippos"  # Thalassios Ippos
+    "Thalassios Leontas"  # Thalassios Leontas
+    "Persoktonos"  # Persoktonos
+    "Autokrator Isavros"  # Autokrator Isavros
+    "Autokrato Makedon"  # Autokrato Makedon
+    "Thekla"  # Thekla
+    "Agia Thekla"  # Agia Thekla
+    "Papaflessas"  # Papaflessas
+    "Alexandros Ypsilantis"  # Alexandros Ypsilantis
+    "Nea Ionia"  # Nea Ionia
+    "Alikarnassos"  # Alikarnassos
+    "Voukefalas"  # Voukefalas
+    "Afros tou Kymmatos"  # Afros tou Kymmatos
+    "Afros tis Thalassas"  # Afros tis Thalassas
+    "Trieiris"  # Trieiris
+    "Iris"  # Iris
+    "Daphni"  # Daphni
+    "Salamis"  # Salamis
+    "Thermopyles"  # Thermopyles
+    "Marathon"  # Marathon
+    "Platees"  # Platees
+    "Theva"  # Theva
+    "Epta Epi Thevas"  # Epta Epi Thevas
+    "Platees"  # Platees
+    "Dervenakia"  # Dervenakia
+    "Elefthero Pouli"  # Elefthero Pouli
+    "Peristera"  # Peristera
+    "Oraia Peristera"  # Oraia Peristera
+    "Perifanos"  # Perifanos
+    "Perifani"  # Perifani
+    "Perifania"  # Perifania
+    "Akritikon"  # Akritikon
+    "Eleftheros Poliorkimenos"  # Eleftheros Poliorkimenos
+    "Eleftheros"  # Eleftheros
+    "Eleftheria"  # Eleftheria
+    "Eleftheria H Thanatos"  # Eleftheria H Thanatos
+    "Vasileios Digenis Akritas"  # Vasileios Digenis Akritas
+    "Prosfygopoulla"  # Prosfygopoulla
+    "Giofyri"  # Giofyri
+    "Giofyrin tis Artas"  # Giofyrin tis Artas
+    "Gefyra"  # Gefyra
+    "Serres"  # Serres
+    "Trikoupis"  # Trikoupis
+    "Athanatos"  # Athanatos
+    "Athanati"  # Athanati
+    "Styga"  # Styga
+    "Agios Athanasios"  # Agios Athanasios
+    "Agia Athanasia"  # Agia Athanasia
+    "Athanasia"  # Athanasia
+    "Agerochos"  # Agerochos
+    "Agerochi"  # Agerochi
+    "Atrotos"  # Atrotos
+    "Atroti"  # Atroti
+    "Pachyammos"  # Pachyammos
+    "Maa"  # Maa
+    "Agia Paraskevi"  # Agia Paraskevi
+    "Agios Paraskevas"  # Agios Paraskevas
+    "Larnaka"  # Larnaka
+    "Amathounta"  # Amathounta
+    "Lemesos"  # Lemesos
+    "Kolossi"  # Kolossi
+    "Kolossos"  # Kolossos
+    "Akamas"  # Akamas
+    "Lara"  # Lara
+    "Onisilos"  # Onisilos
+    "Makarios"  # Makarios
+    "Agios Grigorios"  # Agios Grigorios
+    "Petra"  # Petra
+    "Kypseli"  # Kypseli
+    "Melissa"  # Melissa
+    "Sfikas"  # Sfikas
+    "Kifinas"  # Kifinas
+    "Meliteni"  # Meliteni
+    "Kentri"  # Kentri
+    "Mavra Ori"  # Mavra Ori
+    "Karagkiozis"  # Karagkiozis
+    "Nionios"  # Nionios
+    "Nafpaktos"  # Nafpaktos
+    "Rodon"  # Rodon
+    "Emporopoulla"  # Emporopoulla
+    "Emporas"  # Emporas
+    "Chontros"  # Chontros
+    "Chontri"  # Chontri
+    "Iera Odos"  # Iera Odos
+    "Egnatia Odos"  # Egnatia Odos
+    "Egnatia"  # Egnatia
+    "Ignatios"  # Ignatios
+    "Thalis"  # Thalis
+    "Efkleidis"  # Efkleidis
+    "Milos"  # Milos
+    "Omiros"  # Omiros
+    "Iliada"  # Iliada
+    "Odysseia"  # Odysseia
+    "Faiakas"  # Faiakas
+    "Fylakas"  # Fylakas
+    "Chalkida"  # Chalkida
+    "Psalida"  # Psalida
+    "Zodia"  # Zodia
+    "Morfou"  # Morfou
+    "Aeriko"  # Aeriko
+    "Stefana"  # Stefana
+    "Oneiro"  # Oneiro
+    "Onar"  # Onar
+    "Ilarion"  # Ilarion
+    "Agios Ilarion"  # Agios Ilarion
+    "Eftychia"  # Eftychia
+    "Agios Eftychios"  # Agios Eftychios
+    "Chara"  # Chara
+    "Mystras"  # Mystras
+    "3 Charites"  # 3 Charites
+    "Nymfi"  # Nymfi
+    "Nymfes"  # Nymfes
+    "Ariadni"  # Ariadni
+    "Stratiotis"  # Stratiotis
+    "Palikaras"  # Palikaras
+    "Markos Mpotsaris"  # Markos Mpotsaris
+    "Lampros Katsonis"  # Lampros Katsonis
+    "Karavida"  # Karavida
+    "Kavouri"  # Kavouri
+    "Mana Kavourina"  # Mana Kavourina
+    "Mana"  # Mana
+    "Mana Kouragio"  # Mana Kouragio
+    "Kouragio"  # Kouragio
+    "Voreios"  # Voreios
+    "Notios"  # Notios
+    "To Vlemma tis Theodoras"  # To Vlemma tis Theodoras
+    "Rizokarpaso"  # Rizokarpaso
+    "Lysis"  # Lysis
+    "Enosis"  # Enosis
+    "Philippos o Makedon"  # Philippos o Makedon
+    "Evropi"  # Evropi
+    "Ypatia"  # Ypatia
+    "Aristarchos"  # Aristarchos
+    "Aristos"  # Aristos
+    "Ellada"  # Ellada
+    "Ellinopoulla"  # Ellinopoulla
+    "Romiopoulla"  # Romiopoulla
+    "Omorfi"  # Omorfi
+    "Omorfoulla"  # Omorfoulla
+    "Gynaika"  # Gynaika
+    "Pyr Gyni kai Thalassa"  # Pyr Gyni kai Thalassa
+    "Athlos"  # Athlos
+    "Mpessa"  # Mpessa
+    "Apostolos"  # Apostolos
+    "Pani tou Osiou"  # Pani tou Osiou
+    "Osio Pani"  # Osio Pani
+    "Kapetanios"  # Kapetanios
+    "Kapetaneos"  # Kapetaneos
+    "Sfyra"  # Sfyra
+    "Chelona"  # Chelona
+    "Porfyrogennitos"  # Porfyrogennitos
+    "Porfyrogenis"  # Porfyrogenis
+    "Porfyros"  # Porfyros
+    "Mavrogenis"  # Mavrogenis
+    "Savatogennimenos"  # Savatogennimenos
+    "Kyriaki"  # Kyriaki
+    "Re Alexis"  # Re Alexis
+    "Prigkipessa"  # Prigkipessa
+    "Prigkips"  # Prigkips
+    "Voskos"  # Voskos
+    "Poimenas"  # Poimenas
+    "Thanatos"  # Thanatos
+    "Ethnikos"  # Ethnikos
+    "Olympia"  # Olympia
+    "Olympiakos"  # Olympiakos
+    "Athlitis"  # Athlitis
+    "Axios"  # Axios
+    "Antaxios"  # Antaxios
+    "Antartis"  # Antartis
+    "Kallinikos"  # Kallinikos
+    "Prespa"  # Prespa
+    "Sofia"  # Sofia
+    "Agia Sofia"  # Agia Sofia
+    "Vlacheia"  # Vlacheia
+    "Vlachopoulla"  # Vlachopoulla
+    "Vlacherna"  # Vlacherna
+    "Kaffa"  # Kaffa
+    "Moldavia"  # Moldavia
+    "Vulgaria"  # Vulgaria
+    "Servia"  # Servia
+    "Mavrovunion"  # Mavrovunion
+    "Ragusa"  # Ragusa
+    "Dyrrachion"  # Dyrrachion
+    "Kastoria"  # Kastoria
+    "Kastoras"  # Kastoras
+    "Xylino Toichos"  # Xylino Toichos
+    "Xoanon"  # Xoanon
+    "Zoni"  # Zoni
+    "Zallogos"  # Zallogos
+    "O Choros tou Zallogou"  # O Choros tou Zallogou
+    "Achaea"  # Achaea
+    "Aigina"  # Aigina
+    "Avydos"  # Avydos
+    "Akanthos"  # Akanthos
+    "Agrinion"  # Agrinion
+    "Alexandretta"  # Alexandretta
+    "Patra"  # Patra
+    "Antipatra"  # Antipatra
+    "Amisos"  # Amisos
+    "Amarinthos"  # Amarinthos
+    "Antigona"  # Antigona
+    "Antigoni"  # Antigoni
+    "Amphipolis"  # Amphipolis
+    "Antiocheia"  # Antiocheia
+    "Anir"  # Anir
+    "Andros"  # Andros
+    "Apollonia"  # Apollonia
+    "Argos"  # Argos
+    "Elia"  # Elia
+    "Elaion"  # Elaion
+    "Argyroupoli"  # Argyroupoli
+    "Tigris"  # Tigris
+    "Tyros"  # Tyros
+    "Foiniki"  # Foiniki
+    "Asklepios"  # Asklepios
+    "Pontos"  # Pontos
+    "Pontios"  # Pontios
+    "Varis"  # Varis
+    "Verga"  # Verga
+    "Vyvlos"  # Vyvlos
+    "Vyzantion"  # Vyzantion
+    "Vosporos"  # Vosporos
+    "Chersonesos"  # Chersonesos
+    "Chalkis"  # Chalkis
+    "Kroton"  # Kroton
+    "Kyrinea"  # Kyrinea
+    "Dekeleia"  # Dekeleia
+    "Delos"  # Delos
+    "Delphoi"  # Delphoi
+    "Mantis"  # Mantis
+    "Tiresias"  # Tiresias
+    "Mantis Tiresias"  # Mantis Tiresias
+    "Dodona"  # Dodona
+    "Doryaion"  # Doryaion
+    "Doryn"  # Doryn
+    "Sarissa"  # Sarissa
+    "Dorystolon"  # Dorystolon
+    "Stolos"  # Stolos
+    "Elefsis"  # Elefsis
+    "Ephesos"  # Ephesos
+    "Epidavros"  # Epidavros
+    "Eretria"  # Eretria
+    "Efvoia"  # Efvoia
+    "Gaza"  # Gaza
+    "Gonios"  # Gonios
+    "Goneas"  # Goneas
+    "Agios Onoufrios"  # Agios Onoufrios
+    "Agia Triada"  # Agia Triada
+    "Alikarnassos"  # Alikarnassos
+    "Helioupolis"  # Helioupolis
+    "Ellinikon"  # Ellinikon
+    "Ierapolis"  # Ierapolis
+    "Ierapetra"  # Ierapetra
+    "Chimera"  # Chimera
+    "Iasos"  # Iasos
+    "Ialysos"  # Ialysos
+    "Ithaki"  # Ithaki
+    "Kallipolis"  # Kallipolis
+    "Kamares"  # Kamares
+    "Kameiros"  # Kameiros
+    "Kipos"  # Kipos
+    "Kipoi"  # Kipoi
+    "Kimmerikon"  # Kimmerikon
+    "Knidos"  # Knidos
+    "Kios"  # Kios
+    "Kionas"  # Kionas
+    "Knossos"  # Knossos
+    "Kos"  # Kos
+    "Kourion"  # Kourion
+    "Laodikeia"  # Laodikeia
+    "Lapithos"  # Lapithos
+    "Lation"  # Lation
+    "Lefkada"  # Lefkada
+    "Lissos"  # Lissos
+    "Lindos"  # Lindos
+    "Magnesia"  # Magnesia
+    "Marathonas"  # Marathonas
+    "Massalia"  # Massalia
+    "Megara"  # Megara
+    "Methoni"  # Methoni
+    "Militos"  # Militos
+    "Mylasa"  # Mylasa
+    "Nafkratis"  # Nafkratis
+    "Neapolis"  # Neapolis
+    "Nikea"  # Nikea
+    "Nikopolis"  # Nikopolis
+    "Nymfeon"  # Nymfeon
+    "Nysa"  # Nysa
+    "Odessos"  # Odessos
+    "Olvia"  # Olvia
+    "Orchomenos"  # Orchomenos
+    "Erchomenos"  # Erchomenos
+    "Palaikastro"  # Palaikastro
+    "Pandosia"  # Pandosia
+    "Festos"  # Festos
+    "Pirreas"  # Pirreas
+    "Pella"  # Pella
+    "Phanagoria"  # Phanagoria
+    "Pamflagonia"  # Pamflagonia
+    "Farnakia"  # Farnakia
+    "Faros"  # Faros
+    "Fillipoi"  # Fillipoi
+    "Fillipopolis"  # Fillipopolis
+    "Platanos"  # Platanos
+    "Fokida"  # Fokida
+    "Fokea"  # Fokea
+    "Elis"  # Elis
+    "Kampania"  # Kampania
+    "Kampana"  # Kampana
+    "Poseidonia"  # Poseidonia
+    "Psychros"  # Psychros
+    "Pseira"  # Pseira
+    "Pylos"  # Pylos
+    "Pylion"  # Pylion
+    "Amforeas"  # Amforeas
+    "Krassoamfora"  # Krassoamfora
+    "Region"  # Region
+    "Sinopi"  # Sinopi
+    "Sozopolis"  # Sozopolis
+    "Pisidia"  # Pisidia
+    "Thassos"  # Thassos
+    "Thespia"  # Thespia
+    "Tragurion"  # Tragurion
+    "Trapeza"  # Trapeza
+    "Agia Trapeza"  # Agia Trapeza
+    "Tripolis"  # Tripolis
+    "Troia"  # Troia
+    "Tylissos"  # Tylissos
+    "Tyra"  # Tyra
+    "Vasilliki"  # Vasilliki
+    "Zakros"  # Zakros
+    "Vathypetra"  # Vathypetra
+    "Megalopetra"  # Megalopetra
+}

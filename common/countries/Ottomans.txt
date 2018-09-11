@@ -1,0 +1,466 @@
+﻿graphical_culture = muslimgfx
+color = {
+    126
+    203
+    120
+}
+revolutionary_colors = {
+    5
+    9
+    5
+}
+historical_score = 5500
+historical_idea_groups = {
+    humanist_ideas
+    trade_ideas
+    offensive_ideas
+    administrative_ideas
+    quantity_ideas
+    influence_ideas
+    quality_ideas
+    innovativeness_ideas
+}
+historical_units = {
+    ottoman_yaya
+    ottoman_musellem
+    ottoman_azab
+    ottoman_timariot
+    ottoman_janissary
+    ottoman_spahi
+    ottoman_sekban
+    ottoman_reformed_spahi
+    ottoman_reformed_janissary
+    ottoman_toprakli_hit_and_run
+    ottoman_nizami_cedid
+    ottoman_toprakli_dragoon
+    eastern_skirmisher
+    eastern_uhlan
+    eastern_carabinier
+    ottoman_new_model
+    ottoman_lancer
+}
+monarch_names = {
+    "Mustafa #0" = 60
+    "Ahmed #0" = 40
+    "Osman #1" = 10
+    "Süleyman #0" = 1
+    "Orhan #1" = 1
+    "Abdülhamid #0" = 1
+    "Abdülmecid #0" = 0
+    "Cem #0" = 0
+    "Alaaddin #0" = 0
+    "Musa #0" = 0
+    "Seyfeddin #0" = 0
+    "Yusuf #0" = 0
+    "Numan #0" = 0
+    "Ali #0" = 0
+    "Hasan #0" = 0
+    "Ishak #0" = -1
+    "Kasim #0" = -1
+    "Emin #0" = -1
+    "Halil #0" = 80
+    "Hamid #0" = 1
+    "Izzeddin #0" = 0
+    "Sinan #0" = 0
+    "Salih #0" = -1
+    "Cüneyd #0" = 0
+    "Hizir #0" = 0
+    "Cemal #0" = 0
+    "Celaleddin #0" = 0
+    "Hayreddin #0" = 0
+    "Ramazan #0" = 0
+    "Hadice #0" = -1
+    "Zeynep #0" = -1
+    "Mihrimah #0" = -1
+    "Handan #0" = -1
+    "Hüma #0" = -1
+    "Emine #0" = -1
+    "Gülfem #0" = -1
+    "Turhan #0" = -1
+    "Murad #1" = 60
+    "Mahmud #0" = 10
+    "Abdülaziz #0" = 1
+    "Abdullah #0" = 0
+    "Isa #0" = 0
+    "Yakub #0" = 0
+    "Abdurrahman #0" = 0
+    "Hüseyin #0" = -1
+    "Korkud #0" = -1
+    "Said #0" = 20
+    "Nizameddin #0" = 0
+    "Ismail #0" = -1
+}
+leader_names = {
+    "Abaza"  # Abaza
+    "Alemdar"  # Alemdar
+    "Amasyali"  # Amasyali
+    "Ayas"  # Ayas
+    "Bali"  # Bali
+    "Bayram"  # Bayram
+    "Bey"  # Bey
+    "Boshnak"  # Boshnak
+    "Cezzar"  # Cezzar
+    "Çelebi"  # Çelebi
+    "Cerrah"  # Cerrah
+    "Çerkes"  # Çerkes
+    "Civan"  # Civan
+    "Çuhadar"  # Çuhadar
+    "Damad"  # Damad
+    "Dervish"  # Dervish
+    "Defterdar"  # Defterdar
+    "Gedik"  # Gedik
+    "Gazi"  # Gazi
+    "Gürcü"  # Gürcü
+    "Hadim"  # Hadim
+    "Haseki"  # Haseki
+    "Hekimoglu"  # Hekimoglu
+    "Hersekli"  # Hersekli
+    "Kemal"  # Kemal
+    "Küçük"  # Küçük
+    "Koca"  # Koca
+    "Karamanli"  # Karamanli
+    "Köse"  # Köse
+    "Kara"  # Kara
+    "Kemankesh"  # Kemankesh
+    "Kaymak"  # Kaymak
+    "Kavalali"  # Kavalali
+    "Ishak"  # Ishak
+    "Izzed"  # Izzed
+    "Lala"  # Lala
+    "Lefkeli"  # Lefkeli
+    "Malkoç"  # Malkoç
+    "Müezzinzade"  # Müezzinzade
+    "Nevshehirli"  # Nevshehirli
+    "Nishanci"  # Nishanci
+    "Oruç"  # Oruç
+    "Uluç"  # Uluç
+    "Ohrili"  # Ohrili
+    "Rumi"  # Rumi
+    "Pasha"  # Pasha
+    "Piri"  # Piri
+    "Piyale"  # Piyale
+    "Pehlivan"  # Pehlivan
+    "Salih"  # Salih
+    "Sari"  # Sari
+    "Silahdar"  # Silahdar
+    "Semiz"  # Semiz
+    "Serdar"  # Serdar
+    "Seydi"  # Seydi
+    "Topal"  # Topal
+    "Tayyar"  # Tayyar
+    "Turgut"  # Turgut
+    "Tarhuncu"  # Tarhuncu
+    "Veli"  # Veli
+    "Yemisçi"  # Yemisçi
+    "Pashaoglu"  # Pashaoglu
+}
+ship_names = {
+    "Abdul Kadir"  # Abdul Kadir
+    "Akcasehir"  # Akcasehir
+    "Akhisar"  # Akhisar
+    "Akrep Basli"  # Akrep Basli
+    "Al At Basli"  # Al At Basli
+    "Alis Fezzan"  # Alis Fezzan
+    "Ankan-i Bahri"  # Ankan-i Bahri
+    "Ankara"  # Ankara
+    "Ankay-i Bahri"  # Ankay-i Bahri
+    "Antalya"  # Antalya
+    "Arslan-i Bahri"  # Arslan-i Bahri
+    "Asar-i Nusret"  # Asar-i Nusret
+    "Asar-i Sevket"  # Asar-i Sevket
+    "Asar-i Tevfik"  # Asar-i Tevfik
+    "Ates Fesan"  # Ates Fesan
+    "Avnillah"  # Avnillah
+    "Ay Bagceli"  # Ay Bagceli
+    "Ayet-i Hayir"  # Ayet-i Hayir
+    "Aziziye"  # Aziziye
+    "Baderi-i-Zafer"  # Baderi-i-Zafer
+    "Badi-i Nusret"  # Badi-i Nusret
+    "Bahr-i Zafer"  # Bahr-i Zafer
+    "Bais-i Nusret"  # Bais-i Nusret
+    "Bark-i Hafiz"  # Bark-i Hafiz
+    "Barli Osman Kapudan"  # Barli Osman Kapudan
+    "Basra"  # Basra
+    "Bed-i Nusret"  # Bed-i Nusret
+    "Bedr-i Zafer"  # Bedr-i Zafer
+    "Bekberi-Kufret"  # Bekberi-Kufret
+    "Berid-i Futuh"  # Berid-i Futuh
+    "Berid-i Zafer"  # Berid-i Zafer
+    "Berk"  # Berk
+    "Berk Efsan"  # Berk Efsan
+    "Berk-i Bahri"  # Berk-i Bahri
+    "Berk-i Satvet"  # Berk-i Satvet
+    "Berk-i Zafer"  # Berk-i Zafer
+    "Besaretnuma"  # Besaretnuma
+    "Besir-i Safer"  # Besir-i Safer
+    "Beyaz At Basli"  # Beyaz At Basli
+    "Beyrut"  # Beyrut
+    "Bidayetu'l Futuh"  # Bidayetu'l Futuh
+    "Bin Zafer"  # Bin Zafer
+    "Bisharet"  # Bisharet
+    "Bodrum"  # Bodrum
+    "Bogurtlen"  # Bogurtlen
+    "Bulheves"  # Bulheves
+    "Burc-i Zafer"  # Burc-i Zafer
+    "Burhaneddin"  # Burhaneddin
+    "Bur-i Zafer"  # Bur-i Zafer
+    "Bursa"  # Bursa
+    "Buyuk Gul Basli"  # Buyuk Gul Basli
+    "Cabbar-i Bahri"  # Cabbar-i Bahri
+    "Candia"  # Candia
+    "Causse"  # Causse
+    "Cedid-i Gumru"  # Cedid-i Gumru
+    "Cedid-i Midilli"  # Cedid-i Midilli
+    "Cengaver"  # Cengaver
+    "Ceylan-i Bahri"  # Ceylan-i Bahri
+    "Cift Aslan"  # Cift Aslan
+    "Cift Kaplan"  # Cift Kaplan
+    "Cifte Ceylan Kicli"  # Cifte Ceylan Kicli
+    "Cifte Teber Kicli"  # Cifte Teber Kicli
+    "Civan-i Bahri"  # Civan-i Bahri
+    "Dad-i Hakk"  # Dad-i Hakk
+    "Demirhisar"  # Demirhisar
+    "Diwan"  # Diwan
+    "Drac"  # Drac
+    "Edirne"  # Edirne
+    "Ejder"  # Ejder
+    "Ejder Basli"  # Ejder Basli
+    "Ejder-i Bahri"  # Ejder-i Bahri
+    "Ertugrul"  # Ertugrul
+    "Eser-i Cedid"  # Eser-i Cedid
+    "Eser-i Terakki"  # Eser-i Terakki
+    "Faht-i Bahri"  # Faht-i Bahri
+    "Fara Numa"  # Fara Numa
+    "Fathiye"  # Fathiye
+    "Fatih-i Bahri"  # Fatih-i Bahri
+    "Fazlullah"  # Fazlullah
+    "Ferahnuma"  # Ferahnuma
+    "Feth-i Bulend"  # Feth-i Bulend
+    "Fethiye"  # Fethiye
+    "Fethu'l Fetteh"  # Fethu'l Fetteh
+    "Fethu'l Islam"  # Fethu'l Islam
+    "Fevz Nusrat"  # Fevz Nusrat
+    "Fevziye"  # Fevziye
+    "Feyza-i Bahri"  # Feyza-i Bahri
+    "Feyz-i Huda"  # Feyz-i Huda
+    "Fivriye"  # Fivriye
+    "Gayret-i Vataniye"  # Gayret-i Vataniye
+    "Gazal-i Bahri"  # Gazal-i Bahri
+    "Girtili Ismail Kapudan"  # Girtili Ismail Kapudan
+    "Girtini Omer Kapudan"  # Girtini Omer Kapudan
+    "Gulbang-i Nusrat"  # Gulbang-i Nusrat
+    "Gunes Kicli"  # Gunes Kicli
+    "Hamidabad"  # Hamidabad
+    "Hamidiye"  # Hamidiye
+    "Haz Gazat"  # Haz Gazat
+    "Hediye-i Devlet"  # Hediye-i Devlet
+    "Hediye-i Hakim-i Fas"  # Hediye-i Hakim-i Fas
+    "Hediyyetu'l Muluk"  # Hediyyetu'l Muluk
+    "Heybet Numa"  # Heybet Numa
+    "Heybetendaz"  # Heybetendaz
+    "Hifz-i Huda"  # Hifz-i Huda
+    "Hifz-i Rahman"  # Hifz-i Rahman
+    "Hilal-i Zafer"  # Hilal-i Zafer
+    "Hisn-i Bahri"  # Hisn-i Bahri
+    "Hisn-i Gazat"  # Hisn-i Gazat
+    "Hisn-i Gurab"  # Hisn-i Gurab
+    "Hisn-i Saheyn"  # Hisn-i Saheyn
+    "Hizanetu'l Futuh"  # Hizanetu'l Futuh
+    "Hizber"  # Hizber
+    "Hudavendigar"  # Hudavendigar
+    "Hudaverdi"  # Hudaverdi
+    "Humay-i Bahri"  # Humay-i Bahri
+    "Humay-i Zafer"  # Humay-i Zafer
+    "Iclaliye"  # Iclaliye
+    "Ifrit Basli"  # Ifrit Basli
+    "Inayet-i Hakk"  # Inayet-i Hakk
+    "Iskenderiye"  # Iskenderiye
+    "Iskodra"  # Iskodra
+    "Izmir"  # Izmir
+    "Jebel-Andaz"  # Jebel-Andaz
+    "Kaid-i Zafer"  # Kaid-i Zafer
+    "Kaplan Basli"  # Kaplan Basli
+    "Kaplan-i Bahri"  # Kaplan-i Bahri
+    "Kebir Uc Ambarli"  # Kebir Uc Ambarli
+    "Kerem-i Bahri"  # Kerem-i Bahri
+    "Kervan-i Bahri"  # Kervan-i Bahri
+    "Kilid-i Bahri"  # Kilid-i Bahri
+    "Krimizi Kusakli"  # Krimizi Kusakli
+    "Kucuk Firkateyn"  # Kucuk Firkateyn
+    "Kucuk Gul Basli"  # Kucuk Gul Basli
+    "Kuh-i Revan"  # Kuh-i Revan
+    "Kula At Basli"  # Kula At Basli
+    "Kurt Mustafa Kapudan"  # Kurt Mustafa Kapudan
+    "Kus Bagceli Karavele"  # Kus Bagceli Karavele
+    "Kusade Baht"  # Kusade Baht
+    "Kuthaya"  # Kuthaya
+    "Lubnan"  # Lubnan
+    "Lutf-i Celil"  # Lutf-i Celil
+    "Lutf-u Humayun"  # Lutf-u Humayun
+    "Lvitsa"  # Lvitsa
+    "Mahabbet"  # Mahabbet
+    "Mahmudiye"  # Mahmudiye
+    "Mahubey Subhan"  # Mahubey Subhan
+    "Malika-i Bahr"  # Malika-i Bahr
+    "Mansure"  # Mansure
+    "Mansuriye"  # Mansuriye
+    "Mavi Arslan Basli"  # Mavi Arslan Basli
+    "Mavi Kicli Karavele"  # Mavi Kicli Karavele
+    "Mazhar- i Tevfik"  # Mazhar- i Tevfik
+    "Mazhar-i Hidayet"  # Mazhar-i Hidayet
+    "Mazhar-i Saadet"  # Mazhar-i Saadet
+    "Meheng-i Bahri"  # Meheng-i Bahri
+    "Mehmet Selim"  # Mehmet Selim
+    "Mejr-i Zafer"  # Mejr-i Zafer
+    "Meliku'l Bahr"  # Meliku'l Bahr
+    "Meric"  # Meric
+    "Merih-i Bahri"  # Merih-i Bahri
+    "Meserret-i Bahri"  # Meserret-i Bahri
+    "Mesken-i Gazi"  # Mesken-i Gazi
+    "Mesudiye"  # Mesudiye
+    "Mirat-i Zafer"  # Mirat-i Zafer
+    "Muavenet-i Milliye"  # Muavenet-i Milliye
+    "Muhbir-i Surur"  # Muhbir-i Surur
+    "Muin-i Rahmet"  # Muin-i Rahmet
+    "Muin-i Zafer"  # Muin-i Zafer
+    "Mukaddeme-i Hayir"  # Mukaddeme-i Hayir
+    "Mukaddeme-i Nusret"  # Mukaddeme-i Nusret
+    "Mukkademe-i Hayir"  # Mukkademe-i Hayir
+    "Muradiye"  # Muradiye
+    "Murg-i Bahri"  # Murg-i Bahri
+    "Musul"  # Musul
+    "Muzaffer"  # Muzaffer
+    "Nasir-i Bahri"  # Nasir-i Bahri
+    "Nasir-i Cenk"  # Nasir-i Cenk
+    "Nasru'l Aziz"  # Nasru'l Aziz
+    "Navek-i Bahri"  # Navek-i Bahri
+    "Necm-i Sevket"  # Necm-i Sevket
+    "Necm-i Zafer"  # Necm-i Zafer
+    "Nesim-i Futuh"  # Nesim-i Futuh
+    "Nesim-i Zafer"  # Nesim-i Zafer
+    "Nimet"  # Nimet
+    "Nimet-i Huda"  # Nimet-i Huda
+    "Nir-i Sevket"  # Nir-i Sevket
+    "Nizamiye"  # Nizamiye
+    "Nouhan Bahari"  # Nouhan Bahari
+    "Numune-i Hamiyet"  # Numune-i Hamiyet
+    "Nusret-i Yezdan"  # Nusret-i Yezdan
+    "Nusretiye"  # Nusretiye
+    "Nusretnuma"  # Nusretnuma
+    "Nuvid-i Futuh"  # Nuvid-i Futuh
+    "Orhaniye"  # Orhaniye
+    "Osman-i Evvel"  # Osman-i Evvel
+    "Osmaniye"  # Osmaniye
+    "Peleng-i Bahri"  # Peleng-i Bahri
+    "Perr-i Bahri"  # Perr-i Bahri
+    "Pertev-i Nusret"  # Pertev-i Nusret
+    "Pervin"  # Pervin
+    "Peyk-i Mesiret"  # Peyk-i Mesiret
+    "Peyk-i Nusret"  # Peyk-i Nusret
+    "Peyk-i Seref"  # Peyk-i Seref
+    "Peyk-i Zafer"  # Peyk-i Zafer
+    "Pir-i Sevket"  # Pir-i Sevket
+    "Polad-i Bahri"  # Polad-i Bahri
+    "Raad-i Bahri"  # Raad-i Bahri
+    "Rehber-i Nusret"  # Rehber-i Nusret
+    "Rehber-i Tevfik"  # Rehber-i Tevfik
+    "Resadiye"  # Resadiye
+    "Reshad-i Hamiss"  # Reshad-i Hamiss
+    "Resid"  # Resid
+    "Rodos"  # Rodos
+    "Sadd-i Bahri"  # Sadd-i Bahri
+    "Sadirvan Kicli"  # Sadirvan Kicli
+    "Sadiye"  # Sadiye
+    "Sahab"  # Sahab
+    "Sahin-i Derya"  # Sahin-i Derya
+    "Saiki"  # Saiki
+    "Saik-i Sadi"  # Saik-i Sadi
+    "Salka Bar"  # Salka Bar
+    "Samsun"  # Samsun
+    "Sanaver"  # Sanaver
+    "Sari Kusakli"  # Sari Kusakli
+    "Satvet"  # Satvet
+    "Sayyad-i Bahri"  # Sayyad-i Bahri
+    "Seddu'l Bahir"  # Seddu'l Bahir
+    "Seham"  # Seham
+    "Sehbaz-i Bahri"  # Sehbaz-i Bahri
+    "Sehper-i Zafer"  # Sehper-i Zafer
+    "Selabetnuma"  # Selabetnuma
+    "Selimiye"  # Selimiye
+    "Semend-i Bahri"  # Semend-i Bahri
+    "Semsir-i Hucum"  # Semsir-i Hucum
+    "Serafeddin"  # Serafeddin
+    "Serheng-i Nusret"  # Serheng-i Nusret
+    "Servi Bagceli"  # Servi Bagceli
+    "Sespay-i Bahri"  # Sespay-i Bahri
+    "Sevketnuma"  # Sevketnuma
+    "Seyfi"  # Seyfi
+    "Seyyar-i Bahri"  # Seyyar-i Bahri
+    "Shihab-i Nakib"  # Shihab-i Nakib
+    "Siar-i Nusret"  # Siar-i Nusret
+    "Siayh At Basli"  # Siayh At Basli
+    "Sihab-i Bahri"  # Sihab-i Bahri
+    "Sihab-i Sakib"  # Sihab-i Sakib
+    "Sinop"  # Sinop
+    "Sipahi-i Bahri"  # Sipahi-i Bahri
+    "Sivrihisar"  # Sivrihisar
+    "Siyah Arslan Basli"  # Siyah Arslan Basli
+    "Suca-i Bahri"  # Suca-i Bahri
+    "Sugur Chitzli"  # Sugur Chitzli
+    "Sultanhisar"  # Sultanhisar
+    "Suriye"  # Suriye
+    "Tac Basli"  # Tac Basli
+    "Taif"  # Taif
+    "Tair-i Bahri"  # Tair-i Bahri
+    "Tarik"  # Tarik
+    "Tasoz"  # Tasoz
+    "Tavus-i Bahri"  # Tavus-i Bahri
+    "Tayyar"  # Tayyar
+    "Tesrifiye"  # Tesrifiye
+    "Tevfik Nyuma"  # Tevfik Nyuma
+    "Tevfik-i Huda"  # Tevfik-i Huda
+    "Tevfikiye"  # Tevfikiye
+    "Tevfiku'llah"  # Tevfiku'llah
+    "Tijfetu'l Muluk"  # Tijfetu'l Muluk
+    "Tilsim-i Bahri"  # Tilsim-i Bahri
+    "Timsah"  # Timsah
+    "Tir-i Sevket"  # Tir-i Sevket
+    "Tir-i Zafer"  # Tir-i Zafer
+    "Tiz Hareket"  # Tiz Hareket
+    "Tokad"  # Tokad
+    "Ukab-i Bahri"  # Ukab-i Bahri
+    "Urfa"  # Urfa
+    "Uri Bahar"  # Uri Bahar
+    "Uri Nasard"  # Uri Nasard
+    "Utarit"  # Utarit
+    "Vesile-i Nusret"  # Vesile-i Nusret
+    "Yadigar-i Millet"  # Yadigar-i Millet
+    "Yaldizli Hurma"  # Yaldizli Hurma
+    "Yaldizli Nar Kicli"  # Yaldizli Nar Kicli
+    "Yaldizli Sahin"  # Yaldizli Sahin
+    "Yarhisar"  # Yarhisar
+    "Yaver-i Tevfik"  # Yaver-i Tevfik
+    "Yesil Kusakli"  # Yesil Kusakli
+    "Yilan Basli"  # Yilan Basli
+    "Yildiz Bagceli"  # Yildiz Bagceli
+    "Yildiz Kicli"  # Yildiz Kicli
+    "Zafer Kusa"  # Zafer Kusa
+    "Zir-i Chiat"  # Zir-i Chiat
+    "Ziver-i Bahri"  # Ziver-i Bahri
+    "Zuhaf"  # Zuhaf
+    "Zulfikar Kicli"  # Zulfikar Kicli
+}
+army_names = {
+    "Anadolu Ordusu"  # Anadolu Ordusu
+    "Balkan Ordusu"  # Balkan Ordusu
+    "Mîsîr Ordusu"  # Mîsîr Ordusu
+    "Kîrîm Ordusu"  # Kîrîm Ordusu
+    "$PROVINCE$ Ordusu"  # $PROVINCE$ Ordusu
+}
+fleet_names = {
+    "Karadeniz Donanmasî"  # Karadeniz Donanmasî
+    "Ege Donanmasî"  # Ege Donanmasî
+    "Akdeniz Donanmasî"  # Akdeniz Donanmasî
+    "Kîzîldeniz Donanmasî"  # Kîzîldeniz Donanmasî
+    "$PROVINCE$ Donanmasî"  # $PROVINCE$ Donanmasî
+}

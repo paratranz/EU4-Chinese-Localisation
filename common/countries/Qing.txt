@@ -1,0 +1,731 @@
+﻿graphical_culture = asiangfx
+color = {
+    237
+    152
+    18
+}
+revolutionary_colors = {
+    5
+    8
+    13
+}
+historical_score = 350
+historical_idea_groups = {
+    trade_ideas
+    economic_ideas
+    defensive_ideas
+    expansion_ideas
+    humanist_ideas
+    quantity_ideas
+    influence_ideas
+    offensive_ideas
+}
+historical_units = {
+    chinese_longspear
+    eastern_bow
+    chinese_footsoldier
+    chinese_steppe
+    asian_arquebusier
+    asian_charge_cavalry
+    asian_mass_infantry
+    manchu_banner
+    han_banner
+    asian_musketeer
+    chinese_dragoon
+    reformed_asian_musketeer
+    reformed_asian_cavalry
+    reformed_manchu_rifle
+}
+monarch_names = {
+    "Fulin #0" = 10
+    "Yinzhen #0" = 10
+    "Yongyan #0" = 10
+    "Loge #0" = 10
+    "Yebusu #0" = 10
+    "Gose #0" = 10
+    "Toose #0" = 10
+    "Fuquan #0" = 10
+    "Qishou #0" = 10
+    "Yonggan #0" = 10
+    "Chenghu #0" = 10
+    "Yinzhi #0" = 10
+    "Yinreng #0" = 10
+    "Wanpu #0" = 10
+    "Yinzan #0" = 10
+    "Yinzuo #0" = 10
+    "Yinsi #0" = 10
+    "Yintang #0" = 10
+    "Yinzhi #0" = 10
+    "Yinxiang #0" = 10
+    "Yinji #0" = 5
+    "Yinlu #0" = 5
+    "Yinxie #0" = 5
+    "Yinxi #0" = 0
+    "Yinqi #0" = 10
+    "Yinyuan #0" = 0
+    "Hongpan #0" = 0
+    "Hongshi #0" = 0
+    "Fuyi #0" = 0
+    "Fupei #0" = 0
+    "Yonghuang #0" = 0
+    "Yongzhang #0" = 0
+    "Yongqi #0" = 0
+    "Yongcong #0" = 0
+    "Yongxing #0" = 0
+    "Yongjing #0" = 0
+    "Yonglin #0" = 0
+    "Mianning #0" = 0
+    "Mianxin #0" = 0
+    "Surgaci #0" = 0
+    "Yoto #0" = 0
+    "Ajige #0" = -1
+    "Hooge #0" = 5
+    "Huse #0" = 0
+    "Giyesu #0" = 0
+    "Cangaing #0" = 0
+    "Yunceng #0" = 0
+    "Gong #0" = 0
+    "Leji #0" = 0
+    "Dacheng #0" = 0
+    "Yuanwen #0" = 0
+    "Wosi #0" = 0
+    "Qizun #0" = 0
+    "Dingqiu #0" = 0
+    "Kentang #0" = 0
+    "Youqi #0" = 0
+    "Pan #0" = 0
+    "Yunjing #0" = 0
+    "Shichen #0" = 0
+    "Taozhang #0" = 0
+    "Zhongyue #0" = 0
+    "Qifeng #0" = 0
+    "Yougong #0" = 0
+    "Guozhi #0" = 0
+    "Peiyin #0" = 0
+    "Jie #0" = 0
+    "Chuzhe #0" = 0
+    "Xiling #0" = 0
+    "Shi'en #0" = 0
+    "Xinzhong #0" = 0
+    "Zhenjun #0" = 0
+    "Fubao #0" = 0
+    "Yongji #0" = 0
+    "Jiqi #0" = 0
+    "Hongzuo #0" = 0
+    "Dexuan #0" = 0
+    "Cuizhong #0" = 0
+    "Yuanlong #0" = 0
+    "Dashou #0" = 0
+    "Yongyi #0" = 0
+    "Guangdi #0" = 0
+    "Mingshi #0" = 0
+    "Jian #0" = 0
+    "Ahadan #0" = 0
+    "Aisingga #0" = 0
+    "Ajige #0" = 0
+    "Ajigen #0" = 0
+    "Alan #0" = 0
+    "Anabu #0" = 0
+    "Arsun #0" = 0
+    "Ashai #0" = 0
+    "Ayanda #0" = 0
+    "Baha #0" = 0
+    "Bahai #0" = 0
+    "Bajar #0" = 0
+    "Balu #0" = 0
+    "Basan #0" = 0
+    "Boji #0" = 0
+    "Boro #0" = 0
+    "Busuku #0" = 0
+    "Buyandai Efu #0" = 0
+    "Caida #0" = 0
+    "Carki #0" = 0
+    "Centai #0" = 0
+    "Colhon #0" = 0
+    "Coohar #0" = 0
+    "Dai #0" = 0
+    "Dalan #0" = 0
+    "Dasu #0" = 0
+    "Dodo #0" = 0
+    "Doholon #0" = 0
+    "Dorgon #0" = -1
+    "Dulba #0" = 10
+    "Dungga #0" = 10
+    "Elbihe #0" = 10
+    "Fakjin #0" = 10
+    "Fatha #0" = 10
+    "Fiyada #0" = 5
+    "Fiyahan #0" = 0
+    "Gabula #0" = 0
+    "Gadahun #0" = 0
+    "Gajitai #0" = 0
+    "Garin #0" = -1
+    "Gebungge #0" = 0
+    "Gisun #0" = 0
+    "Gohon #0" = 0
+    "Gungge #0" = 0
+    "Haidu #0" = 0
+    "Hari #0" = 0
+    "Hatan #0" = 0
+    "Hedu #0" = 0
+    "Hethe #0" = 0
+    "Heye #0" = 0
+    "Hife #0" = 0
+    "Hirgen #0" = 0
+    "Hohori #0" = 0
+    "Hokton #0" = 0
+    "Homin #0" = 0
+    "Horontai #0" = 0
+    "Hoto #0" = 0
+    "Huju #0" = 0
+    "Huba #0" = 10
+    "Hulan #0" = 0
+    "Huse #0" = 0
+    "Icangga #0" = 0
+    "Ilha #0" = 0
+    "Indahun #0" = 0
+    "Isangga #0" = 0
+    "Isu #0" = 10
+    "Jingji #0" = 0
+    "Jolo #0" = 0
+    "Jortai #0" = 0
+    "Jucengge Baturu #0" = 0
+    "Juntai #0" = 0
+    "Kacilan #0" = 0
+    "Kenje #0" = 0
+    "Kesibu #0" = 0
+    "Kuri #0" = 0
+    "Ladu #0" = 0
+    "Laju #0" = 0
+    "Lenggeri #0" = 0
+    "Lomi #0" = 0
+    "Mahu #0" = 0
+    "Maise #0" = 0
+    "Majan #0" = 0
+    "Malukan #0" = 0
+    "Manggai #0" = 0
+    "Manggiya #0" = 0
+    "Megu #0" = 0
+    "Minggatu #0" = 0
+    "Mucen #0" = 0
+    "Muhu #0" = 0
+    "Mulu #0" = 0
+    "Muri #0" = 0
+    "Musi #0" = 0
+    "Nacin #0" = 0
+    "Nere #0" = 0
+    "Nionio #0" = 0
+    "Niyada #0" = 0
+    "Ocir #0" = 0
+    "Oha #0" = 0
+    "Okson #0" = 0
+    "Orhodai #0" = 0
+    "Ordo #0" = 0
+    "Sabi #0" = 0
+    "Saha #0" = 0
+    "Sahaliyan #0" = 0
+    "Saibigan #0" = 0
+    "Samha #0" = 0
+    "Sehe #0" = 0
+    "Selmin #0" = 0
+    "Sijintai #0" = 0
+    "Silan #0" = 0
+    "Solho #0" = 0
+    "Songgotu Baturu #0" = 0
+    "Sonin Baturu #0" = 0
+    "Sube #0" = 0
+    "Suhe #0" = 0
+    "Suiha #0" = 0
+    "Songkoro Baturu #0" = 0
+    "Sunta #0" = 0
+    "Sahun #0" = 0
+    "Sunjaci #0" = 0
+    "Talman #0" = 0
+    "Tantu #0" = 0
+    "Toro #0" = 0
+    "Tulhun #0" = 0
+    "Tura #0" = 0
+    "Tusa #0" = 0
+    "Wajima #0" = 0
+    "Wehe #0" = 0
+    "Ukada #0" = 0
+    "Ukuri #0" = 0
+    "Ulgiyaci #0" = 0
+    "Uli #0" = 0
+    "Unca #0" = 0
+    "Usun #0" = 0
+    "Yabu #0" = 0
+    "Yaki #0" = 0
+    "Yentai #0" = 0
+    "Yolo #0" = 0
+    "Yuwamboo #0" = 0
+    "Jian #0" = -1
+    "Hong Taiji #0" = 10
+    "Hongli #0" = 10
+    "Lobohoi #0" = 10
+    "Cangsu #0" = 10
+    "Changning #0" = 10
+    "Chengrui #0" = 10
+    "Changhua #0" = 10
+    "Yinzhi #0"#" = 10
+    "Yinyou #0" = 10
+    "Yin'e #0" = 10
+    "Yintao #0" = 10
+    "Yinwu #0" = 5
+    "Yinji #0"#" = 5
+    "Yinqi #0"#" = 0
+    "Honghui #0" = 0
+    "Hongzhou #0" = 0
+    "Hongyan #0" = 0
+    "Yongcheng #0" = 0
+    "Yongxuan #0" = 0
+    "Yonglu #0" = 0
+    "Miankai #0" = 0
+    "Daisan #0" = 0
+    "Fiyanggu #0" = 0
+    "Bolo #0" = 0
+    "Fuciowan #0" = 0
+    "Yijian #0" = 0
+    "Zhongyi #0" = 0
+    "Shijun #0" = 0
+    "Yan #0" = 0
+    "Shengyuan #0" = 0
+    "Shidan #0" = 0
+    "Jingming #0" = 0
+    "Dehua #0" = 0
+    "Weicheng #0" = 0
+    "Yitai #0" = 0
+    "Jinbang #0" = 0
+    "Wentian #0" = 0
+    "Mingxiang #0" = 0
+    "Yongji #0"#" = 0
+    "Qingbiao #0" = 0
+    "Yushu #0" = 0
+    "Anguo #0" = 0
+    "Lide #0" = 0
+    "Fen #0" = 0
+    "Aihana #0" = 0
+    "Ajige #0"#" = 0
+    "Akdun #0" = 0
+    "Anaku #0" = 0
+    "Asu #0" = 0
+    "Bahabu #0" = 0
+    "Baksan #0" = 0
+    "Bohoto #0" = 0
+    "Buka #0" = 0
+    "Cagan #0" = 0
+    "Ceke #0" = 0
+    "Coki #0" = 0
+    "Daihan #0" = 0
+    "Defu #0" = 0
+    "Doola #0" = -1
+    "Dulei #0" = 10
+    "Faka #0" = 10
+    "Fatan #0" = 5
+    "Fiyasha #0" = 0
+    "Gaha #0" = 0
+    "Gasha #0" = 0
+    "Goho #0" = 0
+    "Hada #0" = 0
+    "Hasiri #0" = 0
+    "Hele #0" = 0
+    "Hida #0" = 0
+    "Hiribu #0" = 0
+    "Holo #0" = 0
+    "Hose #0" = 0
+    "Hutu #0" = 10
+    "Huri #0" = 0
+    "Ibahan #0" = 0
+    "Ilibu #0" = 0
+    "Isha #0" = 0
+    "Jiratai #0" = 0
+}
+leader_names = {
+    "Aisin Gioro"  # Aisin Gioro
+    "Aihui"  # Aihui
+    "Arakta"  # Arakta
+    "Baica"  # Baica
+    "Boduri"  # Boduri
+    "Cemgun"  # Cemgun
+    "Cibukinut"  # Cibukinut
+    "Dagiya"  # Dagiya
+    "Donggiya"  # Donggiya
+    "Ecolo"  # Ecolo
+    "Ergi"  # Ergi
+    "Feiya"  # Feiya
+    "Futa"  # Futa
+    "Gingciri"  # Gingciri
+    "Git"  # Git
+    "Hegiya"  # Hegiya
+    "Heseri"  # Heseri
+    "Io"  # Io
+    "Irgen Gioro"  # Irgen Gioro
+    "Jakuta"  # Jakuta
+    "Jurk"  # Jurk
+    "Keyere"  # Keyere
+    "Kuicelik"  # Kuicelik
+    "Ledi"  # Ledi
+    "Lu"  # Lu
+    "Moketo"  # Moketo
+    "Namutu"  # Namutu
+    "Niohuru"  # Niohuru
+    "Pan"  # Pan
+    "Po"  # Po
+    "Rao"  # Rao
+    "Ruburi"  # Ruburi
+    "Si"  # Si
+    "Socoro"  # Socoro
+    "Taicut"  # Taicut
+    "Tukdun"  # Tukdun
+    U
+    "Ula"  # Ula
+    "Wang"  # Wang
+    "Wenggit"  # Wenggit
+    "Yan"  # Yan
+    "Yehe"  # Yehe
+    "Amura"  # Amura
+    "Ayan gioro"  # Ayan gioro
+    "Asuri"  # Asuri
+    "Aha gioro"  # Aha gioro
+    "Akjan"  # Akjan
+    "Aisin"  # Aisin
+    "Borjigin"  # Borjigin
+    "Bayot"  # Bayot
+    "Bayara"  # Bayara
+    "Boheri"  # Boheri
+    "Be"  # Be
+    "Bugirgen"  # Bugirgen
+    "Besut"  # Besut
+    "Biru"  # Biru
+    "Buyaci"  # Buyaci
+    "Bohori"  # Bohori
+    "Busai"  # Busai
+    "Bulca"  # Bulca
+    "Busa"  # Busa
+    "Buhi"  # Buhi
+    "Bira"  # Bira
+    "Botis"  # Botis
+    "Borjik"  # Borjik
+    "Baige"  # Baige
+    "Besu"  # Besu
+    "Bari"  # Bari
+    "Carala"  # Carala
+    "Cakcin"  # Cakcin
+    "Cygiya"  # Cygiya
+    "Cui"  # Cui
+    "Daigiya"  # Daigiya
+    "Donggo"  # Donggo
+    "Dunggiya"  # Dunggiya
+    "Dagiya"  # Dagiya
+    "Dorgun"  # Dorgun
+    "Dedure"  # Dedure
+    "Dukta"  # Dukta
+    "Duktari"  # Duktari
+    "Elge"  # Elge
+    "Esuri"  # Esuri
+    "Ertut"  # Ertut
+    "Fuca"  # Fuca
+    "Foimo"  # Foimo
+    "Fiya"  # Fiya
+    "Fujuri"  # Fujuri
+    "Guwalgiya"  # Guwalgiya
+    "Gioro"  # Gioro
+    "Giorca"  # Giorca
+    "Gioro Hala"  # Gioro Hala
+    "Giorcan"  # Giorcan
+    "Gejile"  # Gejile
+    "Guwalca"  # Guwalca
+    "Gorlo"  # Gorlo
+    "Giranggi Warka"  # Giranggi Warka
+    "Gerungioro"  # Gerungioro
+    "Gin"  # Gin
+    "Gioroi"  # Gioroi
+    "Gorben"  # Gorben
+    "Gocir"  # Gocir
+    "Giri"  # Giri
+    "Gour"  # Gour
+    "Gijile"  # Gijile
+    "Guwanggiyara"  # Guwanggiyara
+    "Hitara"  # Hitara
+    "Hunggoco"  # Hunggoco
+    "Hunggo"  # Hunggo
+    "Hoiho"  # Hoiho
+    "Hurhasu"  # Hurhasu
+    "Hasara"  # Hasara
+    "Hulhu"  # Hulhu
+    "Huk Sahari"  # Huk Sahari
+    "Hunggiri"  # Hunggiri
+    "Hinggiyan"  # Hinggiyan
+    "Hushari"  # Hushari
+    "Hinggiya"  # Hinggiya
+    "Han"  # Han
+    "Hurha"  # Hurha
+    "Hunglo"  # Hunglo
+    "Hoggo"  # Hoggo
+    "Huya"  # Huya
+    "Huilo"  # Huilo
+    "Menu"  # Menu
+    "Ilara"  # Ilara
+    "Itari"  # Itari
+    "Iork Ule"  # Iork Ule
+    "Iokuri"  # Iokuri
+    "Irgen Baturu"  # Irgen Baturu
+    "Ituma"  # Ituma
+    "Ira"  # Ira
+    "Joogiya"  # Joogiya
+    "Jalari"  # Jalari
+    "Janggiya"  # Janggiya
+    "Jangci"  # Jangci
+    "Jerde"  # Jerde
+    "Jathe"  # Jathe
+    "Jash Uri"  # Jash Uri
+    "Jebe"  # Jebe
+    "Jugiya"  # Jugiya
+    "Jusu"  # Jusu
+    "Jinggeri"  # Jinggeri
+    "Jaruca"  # Jaruca
+    "Julgen"  # Julgen
+    "Juge"  # Juge
+    "Juru"  # Juru
+    "Jot"  # Jot
+    "Jodomu"  # Jodomu
+    "Ki"  # Ki
+    "Kerde"  # Kerde
+    "Kuyala"  # Kuyala
+    "Kocili"  # Kocili
+    "Karla"  # Karla
+    "Kardasu"  # Kardasu
+    "Kubulu"  # Kubulu
+    "Ligiya"  # Ligiya
+    "Laibu"  # Laibu
+    "Lumburi"  # Lumburi
+    "Lei"  # Lei
+    "Lak Ule"  # Lak Ule
+    "Lubui"  # Lubui
+    "Magiya"  # Magiya
+    "Monggori"  # Monggori
+    "Mu"  # Mu
+    "Murcan"  # Murcan
+    "Monggo"  # Monggo
+    "Meng"  # Meng
+    "Menggoro"  # Menggoro
+    "Murca"  # Murca
+    "Muljire"  # Muljire
+    "Manja"  # Manja
+    "Morci"  # Morci
+    "Monggoro"  # Monggoro
+    "Muyan"  # Muyan
+    "Nara"  # Nara
+    "Ningguta"  # Ningguta
+    "Nimaca"  # Nimaca
+    "Namduru"  # Namduru
+    "Nikiri"  # Nikiri
+    "Nisa"  # Nisa
+    "Niowanggiya"  # Niowanggiya
+    "Noyan"  # Noyan
+    "Nahata"  # Nahata
+    "Nimaha"  # Nimaha
+    "Nata"  # Nata
+    "Naya"  # Naya
+    "Namdolu"  # Namdolu
+    "Omoto"  # Omoto
+    "Oji"  # Oji
+    "Sumuru"  # Sumuru
+    "Sakda"  # Sakda
+    "Sirin gioro"  # Sirin gioro
+    "Sioheri"  # Sioheri
+    "Sartu"  # Sartu
+    "Semira"  # Semira
+    "Sikteri"  # Sikteri
+    "Saca"  # Saca
+    "Samargi"  # Samargi
+    "Sakdaholo"  # Sakdaholo
+    "Sanggiya"  # Sanggiya
+    "Sitara"  # Sitara
+    "Sunggiya"  # Sunggiya
+    "Sugiya"  # Sugiya
+    "Samara"  # Samara
+    "Suigiya"  # Suigiya
+    "Sikteli"  # Sikteli
+    "Sakca"  # Sakca
+    "Socara"  # Socara
+    "Sahajiri"  # Sahajiri
+    "Socor"  # Socor
+    "Sorgi"  # Sorgi
+    "Sogiya"  # Sogiya
+    "Sorgiya"  # Sorgiya
+    "Sigiya"  # Sigiya
+    "Saimire"  # Saimire
+    "Surtu"  # Surtu
+    "Seheri"  # Seheri
+    "Sadara"  # Sadara
+    "Suru"  # Suru
+    "Sikda"  # Sikda
+    "Tatara"  # Tatara
+    "Tunggiya"  # Tunggiya
+    "Tajagiorca"  # Tajagiorca
+    "Tokoro"  # Tokoro
+    "Tsanggiya"  # Tsanggiya
+    "Tomo"  # Tomo
+    "Tooli"  # Tooli
+    "Tuseri"  # Tuseri
+    "Tomu"  # Tomu
+    "Tuktan"  # Tuktan
+    "Tunggi"  # Tunggi
+    "Tumen"  # Tumen
+    "Tolote"  # Tolote
+    "Taicuru"  # Taicuru
+    "Untahe"  # Untahe
+    "Ujala"  # Ujala
+    "Urgucan"  # Urgucan
+    "Unuhucin"  # Unuhucin
+    "Usin"  # Usin
+    "Ulu"  # Ulu
+    "Usu"  # Usu
+    "Uya"  # Uya
+    "Undu"  # Undu
+    "Urguca"  # Urguca
+    "Ujaku"  # Ujaku
+    "Unggiot"  # Unggiot
+    "Uncehen"  # Uncehen
+    "Unggirgin"  # Unggirgin
+    "Urda"  # Urda
+    "Ukuri"  # Ukuri
+    "Ulingga"  # Ulingga
+    "Uksun"  # Uksun
+    "Usujan"  # Usujan
+    "Usila"  # Usila
+    "Use"  # Use
+    "Wanggiya"  # Wanggiya
+    "Weikutu"  # Weikutu
+    "Wei"  # Wei
+    "Weigute"  # Weigute
+    "Were"  # Were
+    "Wase"  # Wase
+    "Wangjab"  # Wangjab
+    "Wali"  # Wali
+    "Yonoto"  # Yonoto
+    "Yanja"  # Yanja
+    "Yanggiya"  # Yanggiya
+    "Yeher"  # Yeher
+    "Yanji"  # Yanji
+    "Yukuri"  # Yukuri
+    "Yunde"  # Yunde
+    "Yur"  # Yur
+    "Yasu"  # Yasu
+    "Zhu"  # Zhu
+    "Wu"  # Wu
+    "Geng"  # Geng
+    "Shang"  # Shang
+    "Zheng"  # Zheng
+    "Zhao"  # Zhao
+    "Li"  # Li
+    "Shi"  # Shi
+    "Liu"  # Liu
+    "Guo"  # Guo
+    "Yang"  # Yang
+    "Qian"  # Qian
+    "Ma"  # Ma
+    "Gao"  # Gao
+    "Chen"  # Chen
+    "Sun"  # Sun
+    "Sima"  # Sima
+    "Cao"  # Cao
+    "Xiao"  # Xiao
+    "Qi"  # Qi
+    "Zu"  # Zu
+    "Zhou"  # Zhou
+    "Huang"  # Huang
+    "Bai"  # Bai
+    "Qiu"  # Qiu
+    "Tang"  # Tang
+    "Xu"  # Xu
+    "Chang"  # Chang
+    "Feng"  # Feng
+    "Deng"  # Deng
+    "Hua"  # Hua
+    "Gu"  # Gu
+    "Fei"  # Fei
+    "Fu"  # Fu
+    "Hu"  # Hu
+    "Mei"  # Mei
+    "Xue"  # Xue
+    "Liao"  # Liao
+    "Jin"  # Jin
+    "Ye"  # Ye
+    "He"  # He
+    "Lan"  # Lan
+    "Du"  # Du
+    "Fang"  # Fang
+    "Mao"  # Mao
+    "Hao"  # Hao
+    "Kong"  # Kong
+    "Jiao"  # Jiao
+    "Zuo"  # Zuo
+    "Ding"  # Ding
+    "Bao"  # Bao
+    "Tan"  # Tan
+    "Luo"  # Luo
+    "Xie"  # Xie
+    "Yuan"  # Yuan
+    "Qin"  # Qin
+    "Ruan"  # Ruan
+    "Niu"  # Niu
+    "Zeng"  # Zeng
+    "Dong"  # Dong
+    "Lin"  # Lin
+    "Shen"  # Shen
+    "Ouyang"  # Ouyang
+    "Su"  # Su
+    "Yu"  # Yu
+    "Ren"  # Ren
+    "Chai"  # Chai
+    "Xia"  # Xia
+    "Mo"  # Mo
+    "Dai"  # Dai
+    "Jiang"  # Jiang
+    "Yue"  # Yue
+    "Jia"  # Jia
+    "Xiong"  # Xiong
+    "Ou'yang"  # Ou'yang
+    "Huangfu"  # Huangfu
+    "Dongfang"  # Dongfang
+    "Linghu"  # Linghu
+}
+ship_names = {
+    "Dingyuan"  # Dingyuan
+    "Zhenyuan"  # Zhenyuan
+    "Jingyuan"  # Jingyuan
+    "Laiyuan"  # Laiyuan
+    "Zhiyuan"  # Zhiyuan
+    "Jingyuan"  # Jingyuan
+    "Jiyuan"  # Jiyuan
+    "Pingyuan"  # Pingyuan
+    "Chaoyong"  # Chaoyong
+    "Yangwei"  # Yangwei
+    "Guangjia"  # Guangjia
+    "Guangyi"  # Guangyi
+    "Guangbing"  # Guangbing
+    "Zhendong"  # Zhendong
+    "Zhennan"  # Zhennan
+    "Zhenxi"  # Zhenxi
+    "Zhenbei"  # Zhenbei
+    "Zhenzhong"  # Zhenzhong
+    "Zhenbian"  # Zhenbian
+    "Weiyuan"  # Weiyuan
+    "Kangji"  # Kangji
+    "Minjie"  # Minjie
+    "Zhenhai"  # Zhenhai
+    "Tai'an"  # Tai'an
+    "Caojiang"  # Caojiang
+    "Meiyun"  # Meiyun
+    "Fulong"  # Fulong
+    "Jieshun"  # Jieshun
+    "Zhenwu"  # Zhenwu
+    "Jintai"  # Jintai
+    "Yitong"  # Yitong
+    "Guangshou"  # Guangshou
+    "Baiyue"  # Baiyue
+    "Sanwei"  # Sanwei
+    "Desheng"  # Desheng
+}

@@ -1,0 +1,663 @@
+﻿graphical_culture = westerngfx
+color = {
+    20
+    50
+    210
+}
+revolutionary_colors = {
+    15
+    0
+    16
+}
+historical_score = 6700
+historical_idea_groups = {
+    economic_ideas
+    offensive_ideas
+    exploration_ideas
+    defensive_ideas
+    administrative_ideas
+    maritime_ideas
+    quality_ideas
+    innovativeness_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    chevauchee
+    western_men_at_arms
+    swiss_landsknechten
+    dutch_maurician
+    french_caracolle
+    anglofrench_line
+    french_dragoon
+    french_bluecoat
+    french_cuirassier
+    french_impulse
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Charles #5" = 60
+    "François #0" = 10
+    "Jean #2" = 5
+    "Nicolas-Henri #0" = 1
+    "Jacques #0" = 0
+    "Xavier #0" = 0
+    "Hugues #1" = 0
+    "Alexandre #0" = 0
+    "Ambroise #0" = 0
+    "Augustin #0" = 0
+    "Benoît #0" = 0
+    "Blaise #0" = 0
+    "Clément #0" = -10
+    "Étienne #0" = -10
+    "Georges #0" = 5
+    "Guillaume #0" = 0
+    "Jean-Antoine #0" = 0
+    "Jean-Jacques #0" = 160
+    "Joseph #0" = 0
+    "Jules #0" = 0
+    "Maurice #0" = 0
+    "Michel #0" = 0
+    "Pascal #0" = 0
+    "René #0" = 0
+    "Simon #0" = 0
+    "Marie #0" = -1
+    "Anne #0" = -10
+    "Adélaïde #0" = -10
+    "Henri #1" = 10
+    "Gaston #0" = 1
+    "Joachim #0" = 0
+    "Raoul #1" = 0
+    "Armand #0" = 0
+    "Bernard #0" = 0
+    "Denis #0" = -1
+    "Guy #0" = 0
+    "Jean-Baptiste #0" = 0
+}
+leader_names = {
+    "d'Ambleteuse"  # d'Ambleteuse
+    "d'Aulnay"  # d'Aulnay
+    "de Beauharnais"  # de Beauharnais
+    "de Bercy"  # de Bercy
+    "de Béthune"  # de Béthune
+    "de Boissieu"  # de Boissieu
+    "de Bonnefoy"  # de Bonnefoy
+    "de Bonneuil"  # de Bonneuil
+    "du Bosquet"  # du Bosquet
+    "de la Bretonnière"  # de la Bretonnière
+    "de Broglie"  # de Broglie
+    "de Castaing"  # de Castaing
+    "de Caumartin"  # de Caumartin
+    "de Chambly"  # de Chambly
+    "de Chambronne"  # de Chambronne
+    "de Champmartin"  # de Champmartin
+    "de Chevigny"  # de Chevigny
+    "des Coulons"  # des Coulons
+    "de Crèvecœur"  # de Crèvecœur
+    "de Crussol"  # de Crussol
+    "de Dampierre"  # de Dampierre
+    "Desgouttes"  # Desgouttes
+    "Duquesne"  # Duquesne
+    "des Écures"  # des Écures
+    "d'Entraigues"  # d'Entraigues
+    "d'Estrées"  # d'Estrées
+    "du Fournay"  # du Fournay
+    "de Galard"  # de Galard
+    "des Herbiers"  # des Herbiers
+    "de La Barthe"  # de La Barthe
+    "de La Ferrandie"  # de La Ferrandie
+    "de La Galissonière"  # de La Galissonière
+    "de La Mothe"  # de La Mothe
+    "de La Motte d'Airan"  # de La Motte d'Airan
+    "de La Porte"  # de La Porte
+    "Le Tellier"  # Le Tellier
+    "de Lhéry"  # de Lhéry
+    "de Luynes"  # de Luynes
+    "de Marguerye"  # de Marguerye
+    "de Maurepas"  # de Maurepas
+    "de Neufchâtel"  # de Neufchâtel
+    "d'Ornano"  # d'Ornano
+    "de Pellefort"  # de Pellefort
+    "de Richemont"  # de Richemont
+    "de Rochechouart"  # de Rochechouart
+    "de Rochemaure"  # de Rochemaure
+    "de Rieu"  # de Rieu
+    "de Saint-Chamond"  # de Saint-Chamond
+    "de Saint-Esprit"  # de Saint-Esprit
+    "de Saint-Germain"  # de Saint-Germain
+    "de Saint-Omer"  # de Saint-Omer
+    "de Siorac"  # de Siorac
+    "de Tocqueville"  # de Tocqueville
+    "de La Tour d'Auvergne"  # de La Tour d'Auvergne
+    "de Tréville"  # de Tréville
+    "d'Usson"  # d'Usson
+    "du Valentinois"  # du Valentinois
+    "de Vergennes"  # de Vergennes
+    "de Vibien"  # de Vibien
+    "de Vigny"  # de Vigny
+    "de Villeneuve"  # de Villeneuve
+}
+ship_names = {
+    "Amiral de Biscaye"  # Amiral de Biscaye
+    "Amiral de Galice"  # Amiral de Galice
+    "Arc-en-Ciel"  # Arc-en-Ciel
+    "Belle Poule"  # Belle Poule
+    "Bien-Aimé"  # Bien-Aimé
+    "Charles II"  # Charles II
+    "Cheval Marin"  # Cheval Marin
+    "Commerce de Bordeaux"  # Commerce de Bordeaux
+    "Commerce de Marseille"  # Commerce de Marseille
+    "Commerce de Paris"  # Commerce de Paris
+    "Commerce du Lyon"  # Commerce du Lyon
+    "Couronne Ottomane"  # Couronne Ottomane
+    "Croissant d'Afrique"  # Croissant d'Afrique
+    "Dauphin Royal"  # Dauphin Royal
+    "Deux Frères"  # Deux Frères
+    "Don de Dieu"  # Don de Dieu
+    "Dragon d'Or"  # Dragon d'Or
+    "Duc d'Angoulême"  # Duc d'Angoulême
+    "Duc d'Aquitaine"  # Duc d'Aquitaine
+    "Duc de Berry"  # Duc de Berry
+    "Duc de Bourgogne"  # Duc de Bourgogne
+    "Ésperance d'Angleterre"  # Ésperance d'Angleterre
+    "Ésperance de Dieu"  # Ésperance de Dieu
+    "Ésperance en Dieu"  # Ésperance en Dieu
+    "États de Bourgogne"  # États de Bourgogne
+    "Étoile de Diane"  # Étoile de Diane
+    "Faucon Anglais"  # Faucon Anglais
+    "Fleur de Lys"  # Fleur de Lys
+    "Frégate Royale"  # Frégate Royale
+    "Galion de Guise"  # Galion de Guise
+    "Grand Anglais"  # Grand Anglais
+    "Grand Chalain"  # Grand Chalain
+    "Grand Danois"  # Grand Danois
+    "Grand Henry"  # Grand Henry
+    "Grand Saint Louis"  # Grand Saint Louis
+    "Grand Vainqueur"  # Grand Vainqueur
+    "Grand Vasseau du Roi"  # Grand Vasseau du Roi
+    "Grande Galion de Malte"  # Grande Galion de Malte
+    "Grande Nef d'Écosse"  # Grande Nef d'Écosse
+    "Grande Saint Jean"  # Grande Saint Jean
+    "Île de France"  # Île de France
+    "Le Beau Parterre"  # Le Beau Parterre
+    "Lion Couronné"  # Lion Couronné
+    "Lion d'Or"  # Lion d'Or
+    "Madeleine de Brest"  # Madeleine de Brest
+    "Marguerite du Ponant"  # Marguerite du Ponant
+    "Marie la Cordelière"  # Marie la Cordelière
+    "Marie-Elisabeth"  # Marie-Elisabeth
+    "Mont Saint-Bernard"  # Mont Saint-Bernard
+    "Navire-du-Roi"  # Navire-du-Roi
+    "Noire Galère"  # Noire Galère
+    "Notre Dame de la Victoire"  # Notre Dame de la Victoire
+    "Notre Dame des Martyres"  # Notre Dame des Martyres
+    "Notre Dame du Peuple"  # Notre Dame du Peuple
+    "Notre Dame"  # Notre Dame
+    "Ours Blanc"  # Ours Blanc
+    "Ours d'Or"  # Ours d'Or
+    "Petit Saint Jean"  # Petit Saint Jean
+    "Petit Saint Louis"  # Petit Saint Louis
+    "Prince Henri"  # Prince Henri
+    "Quatre Frères"  # Quatre Frères
+    "Roi de Rome"  # Roi de Rome
+    "Royal Duc"  # Royal Duc
+    "Royal Hollandais"  # Royal Hollandais
+    "Royal Italien"  # Royal Italien
+    "Royal Louis"  # Royal Louis
+    "Royale Thérèse"  # Royale Thérèse
+    "Saint André"  # Saint André
+    "Saint Antoine de Gênes"  # Saint Antoine de Gênes
+    "Saint Antoine"  # Saint Antoine
+    "Saint Augustin"  # Saint Augustin
+    "Saint Basile"  # Saint Basile
+    "Saint Catherine"  # Saint Catherine
+    "Saint Charles"  # Saint Charles
+    "Saint Cosme"  # Saint Cosme
+    "Saint Dominique"  # Saint Dominique
+    "Saint Edmé"  # Saint Edmé
+    "Saint Esprit"  # Saint Esprit
+    "Saint François"  # Saint François
+    "Saint Georges de Londres"  # Saint Georges de Londres
+    "Saint Ignace"  # Saint Ignace
+    "Saint Jacques du Portugal"  # Saint Jacques du Portugal
+    "Saint Jacques"  # Saint Jacques
+    "Saint Jean de Bordeaux"  # Saint Jean de Bordeaux
+    "Saint Jean de Hollande"  # Saint Jean de Hollande
+    "Saint Jean"  # Saint Jean
+    "Saint Joseph"  # Saint Joseph
+    "Saint Louis de Brest"  # Saint Louis de Brest
+    "Saint Louis de Nevers"  # Saint Louis de Nevers
+    "Saint Louis de Saint-Malo"  # Saint Louis de Saint-Malo
+    "Saint Louis"  # Saint Louis
+    "Saint Michel"  # Saint Michel
+    "Saint Paul"  # Saint Paul
+    "Saint Philippe"  # Saint Philippe
+    "Saint Pierre"  # Saint Pierre
+    "Saint Sébastien"  # Saint Sébastien
+    "Saint Thomas d'Aquin"  # Saint Thomas d'Aquin
+    "Saint Vincent"  # Saint Vincent
+    "Sainte Croix"  # Sainte Croix
+    "Sainte Geneviève"  # Sainte Geneviève
+    "Sainte Marie"  # Sainte Marie
+    "Saint-Malo"  # Saint-Malo
+    "Saint-Sacrement"  # Saint-Sacrement
+    "Sans Pareil"  # Sans Pareil
+    "Soleil d'Afrique"  # Soleil d'Afrique
+    "Soleil d'Alger"  # Soleil d'Alger
+    "Soleil Royal"  # Soleil Royal
+    "Trois Fanaux"  # Trois Fanaux
+    "Trois Rois"  # Trois Rois
+    "Vaisseau de Torais"  # Vaisseau de Torais
+    "Vaisseau du Roi"  # Vaisseau du Roi
+    "Ville-de-Marseille"  # Ville-de-Marseille
+    "Ville-de-Paris"  # Ville-de-Paris
+    "Ville-de-Rouen"  # Ville-de-Rouen
+    "Achille"  # Achille
+    "Actif"  # Actif
+    "Actionnaire"  # Actionnaire
+    "Adelaïde"  # Adelaïde
+    "Admirable"  # Admirable
+    "Adroit"  # Adroit
+    "Africain"  # Africain
+    "Agamemnon"  # Agamemnon
+    "Aigle"  # Aigle
+    "Aigrette"  # Aigrette
+    "Aimable"  # Aimable
+    "Ajax"  # Ajax
+    "Alcide"  # Alcide
+    "Alcyon"  # Alcyon
+    "Alexandre"  # Alexandre
+    "Alliance"  # Alliance
+    "Alsace"  # Alsace
+    "Altier"  # Altier
+    "Amarante"  # Amarante
+    "Amazone"  # Amazone
+    "Ambitieux"  # Ambitieux
+    "America"  # America
+    "Amiral"  # Amiral
+    "Amphion"  # Amphion
+    "Amphitrite"  # Amphitrite
+    "Andromaque"  # Andromaque
+    "Anglais"  # Anglais
+    "Anna"  # Anna
+    "Annibal"  # Annibal
+    "Anonyme"  # Anonyme
+    "Anversois"  # Anversois
+    "Apollon"  # Apollon
+    "Aquilon"  # Aquilon
+    "Arcole"  # Arcole
+    "Ardent"  # Ardent
+    "Aréthuse"  # Aréthuse
+    "Argonaute"  # Argonaute
+    "Artésien"  # Artésien
+    "Asie"  # Asie
+    "Assuré"  # Assuré
+    "Astrée"  # Astrée
+    "Astrolabe"  # Astrolabe
+    "Athénien"  # Athénien
+    "Atlante"  # Atlante
+    "Audacieux"  # Audacieux
+    "Auguste"  # Auguste
+    "Aurore"  # Aurore
+    "Avenant"  # Avenant
+    "Aventurier"  # Aventurier
+    "Badine"  # Badine
+    "Banel"  # Banel
+    "Basque"  # Basque
+    "Beaufort"  # Beaufort
+    "Belliqueux"  # Belliqueux
+    "Bellone"  # Bellone
+    "Bienfaisant"  # Bienfaisant
+    "Bizarre"  # Bizarre
+    "Bon"  # Bon
+    "Bonne"  # Bonne
+    "Bordelais"  # Bordelais
+    "Borée"  # Borée
+    "Boudeuse"  # Boudeuse
+    "Bouffonne"  # Bouffonne
+    "Bourbon"  # Bourbon
+    "Boussole"  # Boussole
+    "Brave"  # Brave
+    "Brélé"  # Brélé
+    "Bretagne"  # Bretagne
+    "Breton"  # Breton
+    "Brillant"  # Brillant
+    "Brutal"  # Brutal
+    "Bucentaure"  # Bucentaure
+    "Calypso"  # Calypso
+    "Capable"  # Capable
+    "Capricieux"  # Capricieux
+    "Caraquon"  # Caraquon
+    "Cardinal"  # Cardinal
+    "Caribou"  # Caribou
+    "Cassard"  # Cassard
+    "Castiglione"  # Castiglione
+    "Catholique"  # Catholique
+    "Caton"  # Caton
+    "Censeur"  # Censeur
+    "Centaure"  # Centaure
+    "César"  # César
+    "Chalain"  # Chalain
+    "Charente"  # Charente
+    "Charlemagne"  # Charlemagne
+    "Charmante"  # Charmante
+    "Chasseur"  # Chasseur
+    "Choquante"  # Choquante
+    "Christine"  # Christine
+    "Citoyen"  # Citoyen
+    "Cléopâtre"  # Cléopâtre
+    "Clorinde"  # Clorinde
+    "Colosse"  # Colosse
+    "Comète"  # Comète
+    "Comte"  # Comte
+    "Concorde"  # Concorde
+    "Conquérant"  # Conquérant
+    "Consolante"  # Consolante
+    "Content"  # Content
+    "Coq"  # Coq
+    "Corail"  # Corail
+    "Courageux"  # Courageux
+    "Couronne"  # Couronne
+    "Courtisan"  # Courtisan
+    "Croissant"  # Croissant
+    "Curieux"  # Curieux
+    "Cygne"  # Cygne
+    "Dalmate"  # Dalmate
+    "Dansé"  # Dansé
+    "Dantzig"  # Dantzig
+    "Dauphin"  # Dauphin
+    "Dédaigneuse"  # Dédaigneuse
+    "Défenseur"  # Défenseur
+    "Dego"  # Dego
+    "Desaix"  # Desaix
+    "Destin"  # Destin
+    "Diadème"  # Diadème
+    "Diamant"  # Diamant
+    "Dictateur"  # Dictateur
+    "Dragon"  # Dragon
+    "Dryade"  # Dryade
+    "Dubois"  # Dubois
+    "Duc"  # Duc
+    "Duguesclin"  # Duguesclin
+    "Dunkerquois"  # Dunkerquois
+    "Duperre"  # Duperre
+    "Duquesne"  # Duquesne
+    "Dur"  # Dur
+    "Éclatant"  # Éclatant
+    "Écueil"  # Écueil
+    "Écureuil"  # Écureuil
+    "Église"  # Église
+    "Elbeuf"  # Elbeuf
+    "Embuscade"  # Embuscade
+    "Émerillon"  # Émerillon
+    "Éminent"  # Éminent
+    "Empereur"  # Empereur
+    "Emporte"  # Emporte
+    "Engageante"  # Engageante
+    "Enjouree"  # Enjouree
+    "Entendu"  # Entendu
+    "Entreprenant"  # Entreprenant
+    "Éole"  # Éole
+    "Ésperance"  # Ésperance
+    "Europe"  # Europe
+    "Éveillé"  # Éveillé
+    "Excellent"  # Excellent
+    "Fâcheux"  # Fâcheux
+    "Fantasque"  # Fantasque
+    "Faucon"  # Faucon
+    "Favori"  # Favori
+    "Fée"  # Fée
+    "Félicité"  # Félicité
+    "Fendant"  # Fendant
+    "Ferronière"  # Ferronière
+    "Fidèle"  # Fidèle
+    "Fier"  # Fier
+    "Fiesque"  # Fiesque
+    "Flamand"  # Flamand
+    "Fleuron"  # Fleuron
+    "Florissant"  # Florissant
+    "Formidable"  # Formidable
+    "Fort"  # Fort
+    "Fortune"  # Fortune
+    "Foudroyant"  # Foudroyant
+    "Fougueux"  # Fougueux
+    "Français"  # Français
+    "Frédéric"  # Frédéric
+    "Friponne"  # Friponne
+    "Fulminant"  # Fulminant
+    "Gaillard"  # Gaillard
+    "Galant"  # Galant
+    "Galathée"  # Galathée
+    "Gaulois"  # Gaulois
+    "Gazelle"  # Gazelle
+    "Généreux"  # Généreux
+    "Gênois"  # Gênois
+    "Gentille"  # Gentille
+    "Gerze"  # Gerze
+    "Gloire"  # Gloire
+    "Gracieuse"  # Gracieuse
+    "Grand"  # Grand
+    "Griffon"  # Griffon
+    "Guerrier"  # Guerrier
+    "Guirlande"  # Guirlande
+    "Hardi"  # Hardi
+    "Hasardeux"  # Hasardeux
+    "Havre"  # Havre
+    "Hébé"  # Hébé
+    "Henri"  # Henri
+    "Hercule"  # Hercule
+    "Hermione"  # Hermione
+    "Héroïne"  # Héroïne
+    "Héros"  # Héros
+    "Heureux"  # Heureux
+    "Hippopotame"  # Hippopotame
+    "Hirondelle"  # Hirondelle
+    "Hymen"  # Hymen
+    "Inconstante"  # Inconstante
+    "Indien"  # Indien
+    "Indomptable"  # Indomptable
+    "Infante"  # Infante
+    "Inflexible"  # Inflexible
+    "Intrépide"  # Intrépide
+    "Invincible"  # Invincible
+    "Iphighénie"  # Iphighénie
+    "Isabelle"  # Isabelle
+    "Jason"  # Jason
+    "Jemmapes"  # Jemmapes
+    "Jeux"  # Jeux
+    "Joli"  # Joli
+    "Jules"  # Jules
+    "Junon"  # Junon
+    "Jupiter"  # Jupiter
+    "Juste"  # Juste
+    "Languedoc"  # Languedoc
+    "Laurier"  # Laurier
+    "Léger"  # Léger
+    "Léopard"  # Léopard
+    "Licorne"  # Licorne
+    "Ligourois"  # Ligourois
+    "Lion"  # Lion
+    "Lionne"  # Lionne
+    "Lune"  # Lune
+    "Lutine"  # Lutine
+    "Lys"  # Lys
+    "Madame"  # Madame
+    "Madeleine"  # Madeleine
+    "Magicienne"  # Magicienne
+    "Magnanime"  # Magnanime
+    "Magnifique"  # Magnifique
+    "Maistresse"  # Maistresse
+    "Majestueux"  # Majestueux
+    "Maquedo"  # Maquedo
+    "Marabout"  # Marabout
+    "Marguerite"  # Marguerite
+    "Marin"  # Marin
+    "Marquise"  # Marquise
+    "Mars"  # Mars
+    "Maure"  # Maure
+    "Maurepas"  # Maurepas
+    "Mazarin"  # Mazarin
+    "Méduse"  # Méduse
+    "Mercœur"  # Mercœur
+    "Mercure"  # Mercure
+    "Merveilleux"  # Merveilleux
+    "Mignonne"  # Mignonne
+    "Minotaure"  # Minotaure
+    "Modéré"  # Modéré
+    "Monarque"  # Monarque
+    "Montebello"  # Montebello
+    "Montenotte"  # Montenotte
+    "Montmorency"  # Montmorency
+    "Montolieu"  # Montolieu
+    "Mutine"  # Mutine
+    "Nassau"  # Nassau
+    "Navarrais"  # Navarrais
+    "Neptune"  # Neptune
+    "Néréide"  # Néréide
+    "Nieuport"  # Nieuport
+    "Normand"  # Normand
+    "Océan"  # Océan
+    "Oiseau"  # Oiseau
+    "Opiniâtre"  # Opiniâtre
+    "Orgueilleux"  # Orgueilleux
+    "Orient"  # Orient
+    "Oriflamme"  # Oriflamme
+    "Orion"  # Orion
+    "Orphée"  # Orphée
+    "Ours"  # Ours
+    "Pacificateur"  # Pacificateur
+    "Palmier"  # Palmier
+    "Parfait"  # Parfait
+    "Paris"  # Paris
+    "Patriote"  # Patriote
+    "Pégase"  # Pégase
+    "Pélican"  # Pélican
+    "Pélicorne"  # Pélicorne
+    "Perle"  # Perle
+    "Persée"  # Persée
+    "Persévérante"  # Persévérante
+    "Pléiade"  # Pléiade
+    "Poli"  # Poli
+    "Polonais"  # Polonais
+    "Polyphème"  # Polyphème
+    "Pompée"  # Pompée
+    "Pompeux"  # Pompeux
+    "Pourvoyeuse"  # Pourvoyeuse
+    "Prince"  # Prince
+    "Princesse"  # Princesse
+    "Prompt"  # Prompt
+    "Prosélyte"  # Prosélyte
+    "Protée"  # Protée
+    "Provençal"  # Provençal
+    "Prudent"  # Prudent
+    "Pucelle"  # Pucelle
+    "Puissant"  # Puissant
+    "Pyrrhus"  # Pyrrhus
+    "Railleuse"  # Railleuse
+    "Raisonnable"  # Raisonnable
+    "Redoutable"  # Redoutable
+    "Réfléchi"  # Réfléchi
+    "Régénérateur"  # Régénérateur
+    "Regina"  # Regina
+    "Regulus"  # Regulus
+    "Reine"  # Reine
+    "Renommée"  # Renommée
+    "Résistance"  # Résistance
+    "Robuste"  # Robuste
+    "Rochefort"  # Rochefort
+    "Roland"  # Roland
+    "Rouen"  # Rouen
+    "Royal"  # Royal
+    "Rubis"  # Rubis
+    "Sage"  # Sage
+    "Sagittaire"  # Sagittaire
+    "Salamandre"  # Salamandre
+    "Sceptre"  # Sceptre
+    "Scipion"  # Scipion
+    "Séduisant"  # Séduisant
+    "Seine"  # Seine
+    "Sémillante"  # Sémillante
+    "Sérieux"  # Sérieux
+    "Sirène"  # Sirène
+    "Soleil"  # Soleil
+    "Solide"  # Solide
+    "Sophie"  # Sophie
+    "Sorlingue"  # Sorlingue
+    "Sourdis"  # Sourdis
+    "Souverain"  # Souverain
+    "Sphinx"  # Sphinx
+    "Subtile"  # Subtile
+    "Suffisant"  # Suffisant
+    "Suffren"  # Suffren
+    "Superbe"  # Superbe
+    "Surveillante"  # Surveillante
+    "Suzanne"  # Suzanne
+    "Sylvie"  # Sylvie
+    "Téméraire"  # Téméraire
+    "Tempête"  # Tempête
+    "Terpsichore"  # Terpsichore
+    "Terreur"  # Terreur
+    "Terrible"  # Terrible
+    "Thémistocle"  # Thémistocle
+    "Thérèse"  # Thérèse
+    "Thésée"  # Thésée
+    "Thétis"  # Thétis
+    "Tigre"  # Tigre
+    "Tonnant"  # Tonnant
+    "Topaze"  # Topaze
+    "Toulon"  # Toulon
+    "Tourbillon"  # Tourbillon
+    "Tourville"  # Tourville
+    "Trajan"  # Trajan
+    "Trident"  # Trident
+    "Triomphe"  # Triomphe
+    "Triton"  # Triton
+    "Trocadero"  # Trocadero
+    "Trompeuse"  # Trompeuse
+    "Uranie"  # Uranie
+    "Utile"  # Utile
+    "Vaillant"  # Vaillant
+    "Vainqueur"  # Vainqueur
+    "Valeur"  # Valeur
+    "Vendôme"  # Vendôme
+    "Vengeur"  # Vengeur
+    "Vénus"  # Vénus
+    "Vertu"  # Vertu
+    "Vestale"  # Vestale
+    "Vétéran"  # Vétéran
+    "Victoire"  # Victoire
+    "Victorieux"  # Victorieux
+    "Vierge"  # Vierge
+    "Volage"  # Volage
+    "Volontaire"  # Volontaire
+    "Wallon"  # Wallon
+    "Zélandais"  # Zélandais
+    "Zélé"  # Zélé
+    "Zodiaque"  # Zodiaque
+}
+army_names = {
+    "Armée royale"  # Armée royale
+    "Armée des Flandres"  # Armée des Flandres
+    "Armée du Nord"  # Armée du Nord
+    "Armée de l'Est"  # Armée de l'Est
+    "Armée du Jura"  # Armée du Jura
+    "Armée du Lyonnais"  # Armée du Lyonnais
+    "Armée des Alpes"  # Armée des Alpes
+    "Armée du Midi"  # Armée du Midi
+    "Armée des Pyrénées"  # Armée des Pyrénées
+    "Armée de l'Atlantique"  # Armée de l'Atlantique
+    "Armée de Bretagne"  # Armée de Bretagne
+    "Armée d'Italie"  # Armée d'Italie
+    "Armée de $PROVINCE$"  # Armée de $PROVINCE$
+}
+fleet_names = {
+    "Escadre de la Manche"  # Escadre de la Manche
+    "Escadre de l'Atlantique"  # Escadre de l'Atlantique
+    "Escadre de Méditerranée"  # Escadre de Méditerranée
+    "Escadre de Gascogne"  # Escadre de Gascogne
+    "Escadre Bleue"  # Escadre Bleue
+    "Escadre Rouge"  # Escadre Rouge
+    "Escadre Blanche"  # Escadre Blanche
+}

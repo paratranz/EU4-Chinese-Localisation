@@ -1,0 +1,523 @@
+﻿graphical_culture = asiangfx
+color = {
+    194
+    53
+    60
+}
+random_nation_chance = 0
+historical_score = 500
+historical_idea_groups = {
+    economic_ideas
+    quality_ideas
+    expansion_ideas
+    offensive_ideas
+    administrative_ideas
+    maritime_ideas
+    trade_ideas
+    defensive_ideas
+}
+historical_units = {
+    japanese_archer
+    eastern_bow
+    japanese_footsoldier
+    japanese_samurai
+    asian_arquebusier
+    asian_charge_cavalry
+    asian_mass_infantry
+    asian_musketeer
+    reformed_asian_musketeer
+    reformed_asian_cavalry
+}
+monarch_names = {
+    "Mihito #0" = 20
+    "Fusahito #0" = 20
+    "Tomohito #0" = 20
+    "Kazuhito #0" = -10
+    "Okiko #0" = 20
+    "Nagahito #0" = 20
+    "Asahito #0" = 20
+    "Yasuhito #0" = 20
+    "Hidehito #0" = 20
+    "Ayahito #0" = 20
+    "Yoshiakira #0" = 20
+    "Yoshimochi #0" = 20
+    "Yoshinori #0" = 20
+    "Yoshimasa #0" = -5
+    "Yoshitane #0" = -5
+    "Yoshiharu #0" = 20
+    "Yoshihide #0" = 20
+    "Nobutada #0" = 20
+    "Hideyoshi #0" = 20
+    "Ieyasu #0" = 20
+    "Iemitsu #0" = 20
+    "Tsunayoshi #0" = 20
+    "Ietsugu #0" = 20
+    "Ieshige #0" = 20
+    "Ienari #0" = 20
+    "Iesada #0" = 20
+    "Yoshinobu #0" = 20
+    "Sen #0" = -5
+    "Aya #0" = -5
+    "Motohito #0" = 20
+    "Katsuhito #0" = 20
+    "Kotohito #0" = 20
+    "Satohito #0" = 20
+    "Teruhito #0" = 20
+    "Takauji #0" = 20
+    "Yoshikazu #0" = 20
+    "Yoshihisa #0" = -5
+    "Yoshiteru #0" = 20
+    "Hidenobu #0" = 20
+}
+leader_names = {
+    "Akamatsu"  # Akamatsu
+    "Akechi"  # Akechi
+    "Ashikaga"  # Ashikaga
+    "Amago"  # Amago
+    "Kyogoku"  # Kyogoku
+    "Rokkaku"  # Rokkaku
+    "Asakura"  # Asakura
+    "Asano"  # Asano
+    "Aso"  # Aso
+    "Chosokabe"  # Chosokabe
+    "Date"  # Date
+    "Hachisuka"  # Hachisuka
+    "Hatakeyama"  # Hatakeyama
+    "Hojo"  # Hojo
+    "Hosokawa"  # Hosokawa
+    "Ichijo"  # Ichijo
+    "Keda"  # Keda
+    "Imagawa"  # Imagawa
+    "Isshiki"  # Isshiki
+    "Ito"  # Ito
+    "Jinbo"  # Jinbo
+    "Kikuchi"  # Kikuchi
+    "Kono"  # Kono
+    "Maeda"  # Maeda
+    "Matsunaga"  # Matsunaga
+    "Mimura"  # Mimura
+    "Miyoshi"  # Miyoshi
+    "Mogami"  # Mogami
+    "Mori"  # Mori
+    "Nabeshima"  # Nabeshima
+    "Nagao"  # Nagao
+    "Oda"  # Oda
+    "Ogasawara"  # Ogasawara
+    "Otomo"  # Otomo
+    "Ouchi"  # Ouchi
+    "Ryuzoji"  # Ryuzoji
+    "Sagara"  # Sagara
+    "Saito"  # Saito
+    "Sanada"  # Sanada
+    "Satake"  # Satake
+    "Satomi"  # Satomi
+    "Shiba"  # Shiba
+    "Shibata"  # Shibata
+    "Shimazu"  # Shimazu
+    "Shoni"  # Shoni
+    "Takeda"  # Takeda
+    "Toki"  # Toki
+    "Tokugawa"  # Tokugawa
+    "Matsudaira"  # Matsudaira
+    "Toyotomi"  # Toyotomi
+    "Tsutsui"  # Tsutsui
+    "Uesugi"  # Uesugi
+    "Uragami"  # Uragami
+    "Yamana"  # Yamana
+    "Yamauchi"  # Yamauchi
+}
+ship_names = {
+    "Abukuma"  # Abukuma
+    "Akagi"  # Akagi
+    "Akashi"  # Akashi
+    "Akatsuki"  # Akatsuki
+    "Akebono"  # Akebono
+    "Aki"  # Aki
+    "Akigumo"  # Akigumo
+    "Akikaze"  # Akikaze
+    "Akisame"  # Akisame
+    "Akishimo"  # Akishimo
+    "Akitsushima"  # Akitsushima
+    "Akizuki"  # Akizuki
+    "Amagi"  # Amagi
+    "Amagiri"  # Amagiri
+    "Amatsukaze"  # Amatsukaze
+    "Aoba"  # Aoba
+    "Aoi"  # Aoi
+    "Arare"  # Arare
+    "Arashi"  # Arashi
+    "Arashio"  # Arashio
+    "Ariake"  # Ariake
+    "Asadori"  # Asadori
+    "Asagao"  # Asagao
+    "Asagiri"  # Asagiri
+    "Asagumo"  # Asagumo
+    "Asahi"  # Asahi
+    "Asakaze"  # Asakaze
+    "Asama"  # Asama
+    "Asanagi"  # Asanagi
+    "Asashimo"  # Asashimo
+    "Asashio"  # Asashio
+    "Ashi"  # Ashi
+    "Ashigara"  # Ashigara
+    "Aso"  # Aso
+    "Ataka"  # Ataka
+    "Atami"  # Atami
+    "Atogo"  # Atogo
+    "Ayanami"  # Ayanami
+    "Azuma"  # Azuma
+    "Azusa"  # Azusa
+    "Banjo"  # Banjo
+    "Banryu"  # Banryu
+    "Chidori"  # Chidori
+    "Chikuma"  # Chikuma
+    "Chishima"  # Chishima
+    "Chitose"  # Chitose
+    "Chiyoda"  # Chiyoda
+    "Chiyodagata"  # Chiyodagata
+    "Chogei"  # Chogei
+    "Chokai"  # Chokai
+    "Chuyo"  # Chuyo
+    "Enoki"  # Enoki
+    "Etorofu"  # Etorofu
+    "Fubuki"  # Fubuki
+    "Fuji"  # Fuji
+    "Fujinami"  # Fujinami
+    "Furutaka"  # Furutaka
+    "Fushimi"  # Fushimi
+    "Fuso"  # Fuso
+    "Futami"  # Futami
+    "Fuyo"  # Fuyo
+    "Fuyutsuki"  # Fuyutsuki
+    "Hae"  # Hae
+    "Hagi"  # Hagi
+    "Hagikaze"  # Hagikaze
+    "Haguro"  # Haguro
+    "Hakaze"  # Hakaze
+    "Hamakaze"  # Hamakaze
+    "Hamanami"  # Hamanami
+    "Hanazuki"  # Hanazuki
+    "Haogi"  # Haogi
+    "Harukaze"  # Harukaze
+    "Haruna"  # Haruna
+    "Harusame"  # Harusame
+    "Harutsuki"  # Harutsuki
+    "Hashidate"  # Hashidate
+    "Hashima"  # Hashima
+    "Hatakaze"  # Hatakaze
+    "Hato"  # Hato
+    "Hatsuharu"  # Hatsuharu
+    "Hatsukari"  # Hatsukari
+    "Hatsukaze"  # Hatsukaze
+    "Hatsuse"  # Hatsuse
+    "Hatsushimo"  # Hatsushimo
+    "Hatsuume"  # Hatsuume
+    "Hatsuyuki"  # Hatsuyuki
+    "Hatsuzakura"  # Hatsuzakura
+    "Hatsuzuki"  # Hatsuzuki
+    "Hayabusa"  # Hayabusa
+    "Hayaharu"  # Hayaharu
+    "Hayanami"  # Hayanami
+    "Hayase"  # Hayase
+    "Hayashimo"  # Hayashimo
+    "Hayashio"  # Hayashio
+    "Hayasui"  # Hayasui
+    "Hayate"  # Hayate
+    "Heien"  # Heien
+    "Hibiki"  # Hibiki
+    "Hiei"  # Hiei
+    "Hinoki"  # Hinoki
+    "Hira"  # Hira
+    "Hirado"  # Hirado
+    "Hiryu"  # Hiryu
+    "Hishi"  # Hishi
+    "Hitonose"  # Hitonose
+    "Hiyodori"  # Hiyodori
+    "Hizen"  # Hizen
+    "Hokaze"  # Hokaze
+    "Hosho"  # Hosho
+    "Hyuga"  # Hyuga
+    "Ibuki"  # Ibuki
+    "Ikazuchi"  # Ikazuchi
+    "Ikazuchi"  # Ikazuchi
+    "Iki"  # Iki
+    "Ikoma"  # Ikoma
+    "Inazuma"  # Inazuma
+    "Ioshima"  # Ioshima
+    "Isokaze"  # Isokaze
+    "Isonami"  # Isonami
+    "Isuzo"  # Isuzo
+    "Itsukushima"  # Itsukushima
+    "Iwami"  # Iwami
+    "Iwate"  # Iwate
+    "Izumi"  # Izumi
+    "Izumo"  # Izumo
+    "Jingei"  # Jingei
+    "Jintsu"  # Jintsu
+    "Junyo"  # Junyo
+    "Kaba"  # Kaba
+    "Kaede"  # Kaede
+    "Kaga"  # Kaga
+    "Kagero"  # Kagero
+    "Kaimon"  # Kaimon
+    "Kaiten"  # Kaiten
+    "Kaiyo"  # Kaiyo
+    "Kaki"  # Kaki
+    "Kako"  # Kako
+    "Kamikaze"  # Kamikaze
+    "Kamoi"  # Kamoi
+    "Karatsu"  # Karatsu
+    "Karukaya"  # Karukaya
+    "Kasagi"  # Kasagi
+    "Kashi"  # Kashi
+    "Kashii"  # Kashii
+    "Kashiwara"  # Kashiwara
+    "Kasuga"  # Kasuga
+    "Kasumi"  # Kasumi
+    "Katori"  # Katori
+    "Katsura"  # Katsura
+    "Katsuragi"  # Katsuragi
+    "Kawachi"  # Kawachi
+    "Kawakaze"  # Kawakaze
+    "Kaya"  # Kaya
+    "Kazagumo"  # Kazagumo
+    "Keyaki"  # Keyaki
+    "Kiji"  # Kiji
+    "Kikuzuki"  # Kikuzuki
+    "Kinu"  # Kinu
+    "Kinugasa"  # Kinugasa
+    "Kiri"  # Kiri
+    "Kirishima"  # Kirishima
+    "Kisaragi"  # Kisaragi
+    "Kishinami"  # Kishinami
+    "Kiso"  # Kiso
+    "Kitakami"  # Kitakami
+    "Kiyonami"  # Kiyonami
+    "Kiyoshimo"  # Kiyoshimo
+    "Komahashi"  # Komahashi
+    "Kongo"  # Kongo
+    "Kotaka"  # Kotaka
+    "Kotetsu"  # Kotetsu
+    "Kuma"  # Kuma
+    "Kumano"  # Kumano
+    "Kurama"  # Kurama
+    "Kuroshio"  # Kuroshio
+    "Kusunoki"  # Kusunoki
+    "Kuwa"  # Kuwa
+    "Kuzu"  # Kuzu
+    "Maikaze"  # Maikaze
+    "Maki"  # Maki
+    "Makigumo"  # Makigumo
+    "Makinami"  # Makinami
+    "Manazuru"  # Manazuru
+    "Matsu"  # Matsu
+    "Matsukaze"  # Matsukaze
+    "Matsushima"  # Matsushima
+    "Maya"  # Maya
+    "Michishio"  # Michishio
+    "Michizuki"  # Michizuki
+    "Mikaho"  # Mikaho
+    "Mikasa"  # Mikasa
+    "Mikazuki"  # Mikazuki
+    "Mikuma"  # Mikuma
+    "Minazuki"  # Minazuki
+    "Minegumo"  # Minegumo
+    "Minekaze"  # Minekaze
+    "Mishima"  # Mishima
+    "Miyuki"  # Miyuki
+    "Mizhuo"  # Mizhuo
+    "Mochizuki"  # Mochizuki
+    "Mogami"  # Mogami
+    "Momi"  # Momi
+    "Momo"  # Momo
+    "Moshun"  # Moshun
+    "Murakumo"  # Murakumo
+    "Murasame"  # Murasame
+    "Musashi"  # Musashi
+    "Mutsu"  # Mutsu
+    "Mutsuki"  # Mutsuki
+    "Myoko"  # Myoko
+    "Nachi"  # Nachi
+    "Naganami"  # Naganami
+    "Nagara"  # Nagara
+    "Nagato"  # Nagato
+    "Nagatsuki"  # Nagatsuki
+    "Naka"  # Naka
+    "Namikaze"  # Namikaze
+    "Naniwa"  # Naniwa
+    "Nara"  # Nara
+    "Nashi"  # Nashi
+    "Natori"  # Natori
+    "Natsugumo"  # Natsugumo
+    "Natsushio"  # Natsushio
+    "Natsuzuki"  # Natsuzuki
+    "Nenohi"  # Nenohi
+    "Niitaka"  # Niitaka
+    "Niizuki"  # Niizuki
+    "Nire"  # Nire
+    "Nisshin"  # Nisshin
+    "Niyodo"  # Niyodo
+    "Nojima"  # Nojima
+    "Nokaze"  # Nokaze
+    "Noshiro"  # Noshiro
+    "Notoro"  # Notoro
+    "Nowaki"  # Nowaki
+    "Numakaze"  # Numakaze
+    "Oboro"  # Oboro
+    "Odake"  # Odake
+    "Oi"  # Oi
+    "Oite"  # Oite
+    "Okikaze"  # Okikaze
+    "Okinami"  # Okinami
+    "Okinawa"  # Okinawa
+    "Okinoshima"  # Okinoshima
+    "Onami"  # Onami
+    "Oshima"  # Oshima
+    "Oshio"  # Oshio
+    "Otomari"  # Otomari
+    "Otori"  # Otori
+    "Otowa"  # Otowa
+    "Oyashio"  # Oyashio
+    "Oyodo"  # Oyodo
+    "Ryuho"  # Ryuho
+    "Ryujo"  # Ryujo
+    "Sagami"  # Sagami
+    "Sagi"  # Sagi
+    "Sagiri"  # Sagiri
+    "Sakaki"  # Sakaki
+    "Sakawa"  # Sakawa
+    "Sakura"  # Sakura
+    "Samidare"  # Samidare
+    "Sanae"  # Sanae
+    "Satsuki"  # Satsuki
+    "Satsuma"  # Satsuma
+    "Sawakaze"  # Sawakaze
+    "Sazanami"  # Sazanami
+    "Sendai"  # Sendai
+    "Settsu"  # Settsu
+    "Shigure"  # Shigure
+    "Shii"  # Shii
+    "Shikinami"  # Shikinami
+    "Shikishima"  # Shikishima
+    "Shimakaze"  # Shimakaze
+    "Shimotsutki"  # Shimotsutki
+    "Shimushu"  # Shimushu
+    "Shinano"  # Shinano
+    "Shinonome"  # Shinonome
+    "Shinsoku"  # Shinsoku
+    "Shiokaze"  # Shiokaze
+    "Shirakami"  # Shirakami
+    "Shirakumo"  # Shirakumo
+    "Shiranui"  # Shiranui
+    "Shirataka"  # Shirataka
+    "Shiratsuyu"  # Shiratsuyu
+    "Shoho"  # Shoho
+    "Shokaku"  # Shokaku
+    "Sokuten"  # Sokuten
+    "Soryu"  # Soryu
+    "Sugi"  # Sugi
+    "Suma"  # Suma
+    "Sumida"  # Sumida
+    "Sumire"  # Sumire
+    "Suwo"  # Suwo
+    "Suzukaze"  # Suzukaze
+    "Suzunami"  # Suzunami
+    "Suzutsuki"  # Suzutsuki
+    "Suzuya"  # Suzuya
+    "Suzuya"  # Suzuya
+    "Tachibana"  # Tachibana
+    "Tachikaze"  # Tachikaze
+    "Taiho"  # Taiho
+    "Taiyo"  # Taiyo
+    "Takachiho"  # Takachiho
+    "Takanami"  # Takanami
+    "Takao"  # Takao
+    "Takasago"  # Takasago
+    "Takashio"  # Takashio
+    "Take"  # Take
+    "Tama"  # Tama
+    "Tamanami"  # Tamanami
+    "Tango"  # Tango
+    "Tanikaze"  # Tanikaze
+    "Tatara"  # Tatara
+    "Tategami"  # Tategami
+    "Tatsuta"  # Tatsuta
+    "Teibo"  # Teibo
+    "Tenryu"  # Tenryu
+    "Teruzuki"  # Teruzuki
+    "Toba"  # Toba
+    "Tokitsukaze"  # Tokitsukaze
+    "Tokiwa"  # Tokiwa
+    "Tomozuru"  # Tomozuru
+    "Tone"  # Tone
+    "Tosa"  # Tosa
+    "Tsubaki"  # Tsubaki
+    "Tsubame"  # Tsubame
+    "Tsugaru"  # Tsugaru
+    "Tsukuba"  # Tsukuba
+    "Tsukushi"  # Tsukushi
+    "Tsushima"  # Tsushima
+    "Tsuta"  # Tsuta
+    "Uji"  # Uji
+    "Ume"  # Ume
+    "Umikaze"  # Umikaze
+    "Unebi"  # Unebi
+    "Unryu"  # Unryu
+    "Unyo"  # Unyo
+    "Unyo"  # Unyo
+    "Urakaze"  # Urakaze
+    "Uranami"  # Uranami
+    "Ushio"  # Ushio
+    "Usugumo"  # Usugumo
+    "Uzuki"  # Uzuki
+    "Wakaba"  # Wakaba
+    "Wakakusa"  # Wakakusa
+    "Wakamiya"  # Wakamiya
+    "Wakatake"  # Wakatake
+    "Wakatsuki"  # Wakatsuki
+    "Wakazakura"  # Wakazakura
+    "Warabi"  # Warabi
+    "Yadake"  # Yadake
+    "Yaeyama"  # Yaeyama
+    "Yaezakura"  # Yaezakura
+    "Yahagi"  # Yahagi
+    "Yakaze"  # Yakaze
+    "Yakumo"  # Yakumo
+    "Yamagumo"  # Yamagumo
+    "Yamakaze"  # Yamakaze
+    "Yamashiro"  # Yamashiro
+    "Yamato"  # Yamato
+    "Yamazuki"  # Yamazuki
+    "Yanagi"  # Yanagi
+    "Yashima"  # Yashima
+    "Yasoshima"  # Yasoshima
+    "Yayoi"  # Yayoi
+    "Yodo"  # Yodo
+    "Yodohashi"  # Yodohashi
+    "Yoizuki"  # Yoizuki
+    "Yomogi"  # Yomogi
+    "Yoshino"  # Yoshino
+    "Yoshun"  # Yoshun
+    "Yubari"  # Yubari
+    "Yugiri"  # Yugiri
+    "Yugumo"  # Yugumo
+    "Yukigumo"  # Yukigumo
+    "Yukikaze"  # Yukikaze
+    "Yunagi"  # Yunagi
+    "Yura"  # Yura
+    "Yuzuki"  # Yuzuki
+    "Zuiho"  # Zuiho
+    "Zuikaku"  # Zuikaku
+}
+army_names = {
+    "Imperial Army"  # Imperial Army
+    "$PROVINCE$ Gun"  # $PROVINCE$ Gun
+    "$PROVINCE$ Zei"  # $PROVINCE$ Zei
+    "$PROVINCE$ Dan"  # $PROVINCE$ Dan
+}
+fleet_names = {
+    "Imperial Navy"  # Imperial Navy
+    "$PROVINCE$ Suigun"  # $PROVINCE$ Suigun
+    "$PROVINCE$ Sendan"  # $PROVINCE$ Sendan
+    "$PROVINCE$ Tai"  # $PROVINCE$ Tai
+}

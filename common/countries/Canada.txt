@@ -1,0 +1,314 @@
+﻿graphical_culture = westerngfx
+colonial_parent = GBR
+random_nation_chance = 0
+color = {
+    94
+    117
+    55
+}
+historical_idea_groups = {
+    defensive_ideas
+    religious_ideas
+    trade_ideas
+    economic_ideas
+    plutocracy_ideas
+    diplomatic_ideas
+    offensive_ideas
+    spy_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    western_medieval_knights
+    western_longbow
+    gaelic_mercenary
+    gaelic_free_shooter
+    irish_charge
+    anglofrench_line
+    british_redcoat
+    british_hussar
+    british_square
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Samuel #0" = 5
+    "Guy #0" = 20
+    "Robert #0" = 5
+    "George #0" = 5
+    "Louis #0" = 5
+    "Pierre #0" = 0
+    "Augustin #0" = 0
+    "Jacques #0" = 0
+    "Roland #0" = 0
+    "Gordon #0" = 0
+    "Amable #0" = 0
+    "Benjamin #0" = 0
+    "David #0" = 0
+    "Edward #0" = 0
+    "FranÃ§ois #0" = -1
+    "Guillaume #0" = 5
+    "Hugh #0" = 5
+    "Ignace #0" = 0
+    "Jacob #0" = 0
+    "Charles-Michel #0" = 40
+    "John #0" = 0
+    "Louis-Hippolyte #0" = 0
+    "Nathaniel #0" = 0
+    "Parshall #0" = 0
+    "Philip #0" = 0
+    "Richard #0" = 0
+    "Solomon #0" = 0
+    "William #0" = 0
+    "Maria #0" = -1
+    "Charlotte #0" = -1
+    "Marguerite #0" = -1
+    "James #0" = 20
+    "Thomas #0" = 20
+    "Jean #0" = 0
+    "Joseph #0" = 0
+    "Michel #0" = 0
+    "Antoine #0" = 0
+    "David William #0" = 0
+    "Gabriel #0" = -1
+    "Hyacinthe #0" = 0
+    "Jean-Baptiste #0" = -1
+}
+leader_names = {
+    "Allsopp"  # Allsopp
+    "Amherst"  # Amherst
+    "Auldjo"  # Auldjo
+    "Baby"  # Baby
+    "Barnes"  # Barnes
+    "Beasley"  # Beasley
+    "BÃ©dard"  # BÃ©dard
+    "BÃ©gin"  # BÃ©gin
+    "Bell"  # Bell
+    "Bernier"  # Bernier
+    "Berthelot"  # Berthelot
+    "Black"  # Black
+    "Boileau"  # Boileau
+    "Boisseau"  # Boisseau
+    "Booth"  # Booth
+    "Bouc"  # Bouc
+    "Boucher"  # Boucher
+    "Boudreau"  # Boudreau
+    "Bowen"  # Bowen
+    "Brodeur"  # Brodeur
+    "Brock"  # Brock
+    "Bronson"  # Bronson
+    "Browne"  # Browne
+    "By"  # By
+    "Caldwell"  # Caldwell
+    "Campbell"  # Campbell
+    "Carleton"  # Carleton
+    "Cartier"  # Cartier
+    "Chartier"  # Chartier
+    "Cherrier"  # Cherrier
+    "Coffin"  # Coffin
+    "Cornwall"  # Cornwall
+    "Craig"  # Craig
+    "Craigie"  # Craigie
+    "Cuthbert"  # Cuthbert
+    "Dalhousie"  # Dalhousie
+    "DambourgÃ©s"  # DambourgÃ©s
+    "Dartigny"  # Dartigny
+    "D'Arcy"  # D'Arcy
+    "de Bonne"  # de Bonne
+    "de Lavaltrie"  # de Lavaltrie
+    "de Lorimier"  # de Lorimier
+    "de LotbiniÃ¨re"  # de LotbiniÃ¨re
+    "de Rocheblave"  # de Rocheblave
+    "de Rouville"  # de Rouville
+    "de Salaberry"  # de Salaberry
+    "de Tonnancour"  # de Tonnancour
+    "DigÃ©"  # DigÃ©
+    "Dorion"  # Dorion
+    "Dorland"  # Dorland
+    "Ducharme"  # Ducharme
+    "Duchesnay"  # Duchesnay
+    "Dufour"  # Dufour
+    "Dumont"  # Dumont
+    "DuniÃ¨re"  # DuniÃ¨re
+    "Dunn"  # Dunn
+    "DuprÃ©"  # DuprÃ©
+    "Duplessis"  # Duplessis
+    "Dumas"  # Dumas
+    "Durocher"  # Durocher
+    "Duvernay"  # Duvernay
+    "Ã‰thier"  # Ã‰thier
+    "Fairfield"  # Fairfield
+    "Fisher"  # Fisher
+    "Foucher"  # Foucher
+    "Fraser"  # Fraser
+    "French"  # French
+    "Frobisher"  # Frobisher
+    "Grant"  # Grant
+    "Gray"  # Gray
+    "Godefroy"  # Godefroy
+    "Gouin"  # Gouin
+    "Guerout"  # Guerout
+    "Guy"  # Guy
+    "Hardison"  # Hardison
+    "Hart"  # Hart
+    "Harwood"  # Harwood
+    "HÃ©bert"  # HÃ©bert
+    "Henry"  # Henry
+    "Hertel"  # Hertel
+    "Huot"  # Huot
+    "Ingersoll"  # Ingersoll
+    "Irvine"  # Irvine
+    "Jessup"  # Jessup
+    "Jodoin"  # Jodoin
+    "Jordan"  # Jordan
+    "Jones"  # Jones
+    "Lacroix"  # Lacroix
+    "Lafontaine"  # Lafontaine
+    "Larocque"  # Larocque
+    "Lebreton"  # Lebreton
+    "le Comte"  # le Comte
+    "Lee"  # Lee
+    "Lees"  # Lees
+    "Lester"  # Lester
+    "Lynd"  # Lynd
+    "Macnider"  # Macnider
+    "Macomb"  # Macomb
+    "Malhiot"  # Malhiot
+    "Marcoux"  # Marcoux
+    "Martineau"  # Martineau
+    "McBeath"  # McBeath
+    "McCrae"  # McCrae
+    "McDonell"  # McDonell
+    "McGill"  # McGill
+    "McGillivray"  # McGillivray
+    "McKee"  # McKee
+    "McLeod"  # McLeod
+    "Menut"  # Menut
+    "Millet"  # Millet
+    "Monk"  # Monk
+    "Montour"  # Montour
+    "Moore"  # Moore
+    "Mure"  # Mure
+    "Murray"  # Murray
+    "Nelson"  # Nelson
+    "Panet"  # Panet
+    "Papineau"  # Papineau
+    "Paquet"  # Paquet
+    "Pawling"  # Pawling
+    "Perrault"  # Perrault
+    "PÃ©rinault"  # PÃ©rinault
+    "Pettit"  # Pettit
+    "Pierreville"  # Pierreville
+    "PlantÃ©"  # PlantÃ©
+    "Prescott"  # Prescott
+    "PrÃ©vost"  # PrÃ©vost
+    "Raby"  # Raby
+    "Richardson"  # Richardson
+    "Richmond"  # Richmond
+    "Riel"  # Riel
+    "Rivard"  # Rivard
+    "Robinson"  # Robinson
+    "Rogers"  # Rogers
+    "Roy"  # Roy
+    "Saint-Martin"  # Saint-Martin
+    "Secord"  # Secord
+    "Sewell"  # Sewell
+    "Shaw"  # Shaw
+    "Sherbrooke"  # Sherbrooke
+    "Sirois"  # Sirois
+    "Smith"  # Smith
+    "Spencer"  # Spencer
+    "Stanley"  # Stanley
+    "Stuart"  # Stuart
+    "Street"  # Street
+    "Swayze"  # Swayze
+    "TachÃ©"  # TachÃ©
+    "Taschereau"  # Taschereau
+    "Terry"  # Terry
+    "Thompson"  # Thompson
+    "Tod"  # Tod
+    "Van Alstine"  # Van Alstine
+    "Vanier"  # Vanier
+    "Viger"  # Viger
+    "Walker"  # Walker
+    "White"  # White
+    "Wilkinson"  # Wilkinson
+    "Young"  # Young
+}
+ship_names = {
+    "Cabot"  # Cabot
+    "Champlain"  # Champlain
+    "Cartier"  # Cartier
+    "Acadia"  # Acadia
+    "Hochelaga"  # Hochelaga
+    "Stadacona"  # Stadacona
+    "Laurentian"  # Laurentian
+    "QuÃ©bec"  # QuÃ©bec
+    "Ontario"  # Ontario
+    "Athabaskan"  # Athabaskan
+    "Cayuga"  # Cayuga
+    "Huron"  # Huron
+    "Iroquois"  # Iroquois
+    "Micmac"  # Micmac
+    "Algonquin"  # Algonquin
+    "Sioux"  # Sioux
+    "Ojibwa"  # Ojibwa
+    "Onondaga"  # Onondaga
+    "Saguenay"  # Saguenay
+    "St. Maurice"  # St. Maurice
+    "Ottawa"  # Ottawa
+    "ChaudiÃ¨re"  # ChaudiÃ¨re
+    "Richelieu"  # Richelieu
+    "St. Laurent"  # St. Laurent
+    "Gatineau"  # Gatineau
+    "Margaree"  # Margaree
+    "Restigouche"  # Restigouche
+    "Saskatchewan"  # Saskatchewan
+    "Qu'Appelle"  # Qu'Appelle
+    "St. Francis"  # St. Francis
+    "St. Croix"  # St. Croix
+    "Niagara"  # Niagara
+    "Bonaventure"  # Bonaventure
+    "Manitoulin"  # Manitoulin
+    "Anticosti"  # Anticosti
+    "Baffin"  # Baffin
+    "Miscou"  # Miscou
+    "Magdalen"  # Magdalen
+    "Gaspe"  # Gaspe
+    "Fundy"  # Fundy
+    "Labrador"  # Labrador
+    "Chaleur"  # Chaleur
+    "Chignecto"  # Chignecto
+    "Fortune"  # Fortune
+    "Miramichi"  # Miramichi
+    "Quinte"  # Quinte
+    "Thunder"  # Thunder
+    "Ungava"  # Ungava
+    "Cape Breton"  # Cape Breton
+    "MemphrÃ©magog"  # MemphrÃ©magog
+    "Bras d'Or"  # Bras d'Or
+    "Nipigon"  # Nipigon
+    "Preserver"  # Preserver
+    "Protecteur"  # Protecteur
+    "Cormorant"  # Cormorant
+    "Lynx"  # Lynx
+    "Badger"  # Badger
+    "Caribou"  # Caribou
+    "Otter"  # Otter
+    "Wolf"  # Wolf
+    "Grizzly"  # Grizzly
+    "Raccoon"  # Raccoon
+    "Loon"  # Loon
+    "Blue Heron"  # Blue Heron
+    "Mallard"  # Mallard
+    "Vison"  # Vison
+    "Renard"  # Renard
+    "Elk"  # Elk
+    "Beaver"  # Beaver
+    "Ambler"  # Ambler
+    "Husky"  # Husky
+    "Reindeer"  # Reindeer
+    "Moose"  # Moose
+    "Outarde"  # Outarde
+}

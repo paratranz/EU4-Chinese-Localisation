@@ -1,0 +1,675 @@
+﻿graphical_culture = westerngfx
+color = {
+    8
+    82
+    165
+}
+revolutionary_colors = {
+    13
+    8
+    13
+}
+historical_score = 2100
+preferred_religion = protestant
+historical_idea_groups = {
+    administrative_ideas
+    offensive_ideas
+    maritime_ideas
+    quality_ideas
+    innovativeness_ideas
+    defensive_ideas
+    expansion_ideas
+    trade_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    western_medieval_knights
+    western_men_at_arms
+    dutch_maurician
+    french_caracolle
+    swedish_gallop
+    swedish_gustavian
+    swedish_caroline
+    swedish_arme_blanche
+    prussian_uhlan
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Gustav #0" = 40
+    "Johan #2" = 20
+    "Karl #7 Gustav" = 10
+    "Christian #0" = 5
+    "Adolf Fredrik #0" = 5
+    "Magnus #3" = 1
+    "Oskar #0" = 0
+    "Fredrik Adolf #0" = 0
+    "Göran Love #0" = 0
+    "Björn #3" = 0
+    "Inge #2" = 0
+    "Alfred #0" = -10
+    "Bengt #0" = -1
+    "Einar #0" = -1
+    "Gottfrid #0" = 20
+    "Jakob #0" = 0
+    "Ludvig #0" = 0
+    "Nils #0" = 100
+    "Patrik #0" = 0
+    "Rettil #0" = 0
+    "Simon #0" = 0
+    "Svante #0" = 0
+    "Ulrik #0" = 0
+    "Hedwig #0" = -5
+    "Margareta #0" = -1
+    "Anna #0" = -1
+    "Elisabet #0" = -1
+    "Ulrika Eleonora #0" = -10
+    "Erik #13" = 40
+    "Karl #7 Johan" = 10
+    "Karl #7 Filip" = 1
+    "Fredrik #0" = 0
+    "Sigismund #0" = 0
+    "Sven #1" = 0
+    "Edvard #0" = -1
+    "Henrik #0" = 5
+    "Mikael #0" = -1
+}
+leader_names = {
+    "Andersson"  # Andersson
+    "Armfeldt"  # Armfeldt
+    "von Ascheberg"  # von Ascheberg
+    "Adlercreutz"  # Adlercreutz
+    "Adlersparre"  # Adlersparre
+    "Alkmaar"  # Alkmaar
+    "Anckarström"  # Anckarström
+    "Bagge"  # Bagge
+    "Banér"  # Banér
+    "Bielke"  # Bielke
+    "Brahe"  # Brahe
+    "Cronstedt"  # Cronstedt
+    "von Döbeln"  # von Döbeln
+    "Dahlbergh"  # Dahlbergh
+    "Dufwa"  # Dufwa
+    "Engelbrekt"  # Engelbrekt
+    "Eriksson"  # Eriksson
+    "Ehrensvärd"  # Ehrensvärd
+    "von Essen"  # von Essen
+    "Eka"  # Eka
+    "Ehrenstrahl"  # Ehrenstrahl
+    "Fleming"  # Fleming
+    "von Fersen"  # von Fersen
+    "Gadh"  # Gadh
+    "Grip"  # Grip
+    "af Gennäs"  # af Gennäs
+    "de la Gardie"  # de la Gardie
+    "Gyllenhielm"  # Gyllenhielm
+    "Gathenhielm"  # Gathenhielm
+    "Gustavsson"  # Gustavsson
+    "Horn"  # Horn
+    "Hård"  # Hård
+    "Hahn"  # Hahn
+    "Hastfer"  # Hastfer
+    "Hjärne"  # Hjärne
+    "Jägerhorn"  # Jägerhorn
+    "Königsmarck"  # Königsmarck
+    "Klingspor"  # Klingspor
+    "Lewenhaupt"  # Lewenhaupt
+    "Leijonhufvud"  # Leijonhufvud
+    "Liljencrantz"  # Liljencrantz
+    "Lindschöld"  # Lindschöld
+    "Oxenstierna"  # Oxenstierna
+    "Lilliehöök"  # Lilliehöök
+    "Palmstruch"  # Palmstruch
+    "Piper"  # Piper
+    "Prinz"  # Prinz
+    "Rehnskiöld"  # Rehnskiöld
+    "Ribbing"  # Ribbing
+    "Stenbock"  # Stenbock
+    "Sandels"  # Sandels
+    "Skytte"  # Skytte
+    "Sture"  # Sture
+    "Tre Rosor"  # Tre Rosor
+    "Torstensson"  # Torstensson
+    "Trolle"  # Trolle
+    "Toll"  # Toll
+    "Tott"  # Tott
+    "Wrangel"  # Wrangel
+    "Wachtmeister"  # Wachtmeister
+    "Wallenberg"  # Wallenberg
+    "Åkerhielm"  # Åkerhielm
+}
+ship_names = {
+    "Abboren"  # Abboren
+    "Abraham"  # Abraham
+    "Akilles"  # Akilles
+    "Alexander"  # Alexander
+    "Alexander Magnus"  # Alexander Magnus
+    "Alfsborg"  # Alfsborg
+    "Amarant"  # Amarant
+    "Amphion"  # Amphion
+    "Anclam"  # Anclam
+    "Andromeda"  # Andromeda
+    "Ankan"  # Ankan
+    "Anna Regina"  # Anna Regina
+    "Apollo"  # Apollo
+    "Arendal"  # Arendal
+    "Astrild"  # Astrild
+    "Baccus"  # Baccus
+    "Balder"  # Balder
+    "Bartolomeus"  # Bartolomeus
+    "Basiliskus"  # Basiliskus
+    "Bauta"  # Bauta
+    "Bellona"  # Bellona
+    "Bernhardus"  # Bernhardus
+    "Berserk"  # Berserk
+    "Beständig"  # Beständig
+    "Biet"  # Biet
+    "Bifrost"  # Bifrost
+    "Birger Jarl"  # Birger Jarl
+    "Björn"  # Björn
+    "Björn Järnsida"  # Björn Järnsida
+    "Blekinge"  # Blekinge
+    "Blomman"  # Blomman
+    "Blå Måne"  # Blå Måne
+    "Blå Örn"  # Blå Örn
+    "Blåmannen"  # Blåmannen
+    "Bodvar"  # Bodvar
+    "Bohus"  # Bohus
+    "Braxen"  # Braxen
+    "Bremen"  # Bremen
+    "Brokinge Lejonet"  # Brokinge Lejonet
+    "Bruna Björn"  # Bruna Björn
+    "Bruna Lejon"  # Bruna Lejon
+    "Brynhilda"  # Brynhilda
+    "Brämaren"  # Brämaren
+    "Byens Löve"  # Byens Löve
+    "Bönan"  # Bönan
+    "Böse Lejon"  # Böse Lejon
+    "Cabeljon"  # Cabeljon
+    "Caesar"  # Caesar
+    "Camilla"  # Camilla
+    "Carolus X"  # Carolus X
+    "Carolus XI"  # Carolus XI
+    "Cassel"  # Cassel
+    "Castor"  # Castor
+    "Cedercreutz"  # Cedercreutz
+    "Charlotta"  # Charlotta
+    "Christopher"  # Christopher
+    "Concordia"  # Concordia
+    "Cronhielm"  # Cronhielm
+    "Dalarna"  # Dalarna
+    "Danska Falken"  # Danska Falken
+    "Danska Fenix"  # Danska Fenix
+    "Danska Gripen"  # Danska Gripen
+    "Danska Hector"  # Danska Hector
+    "Danska Prinsen"  # Danska Prinsen
+    "Danska Svan"  # Danska Svan
+    "Danske Hjorten"  # Danske Hjorten
+    "Danske Morian"  # Danske Morian
+    "Danske Pinckan"  # Danske Pinckan
+    "David"  # David
+    "Delfin"  # Delfin
+    "Delmenhorst"  # Delmenhorst
+    "Desirée"  # Desirée
+    "Diana"  # Diana
+    "Disa"  # Disa
+    "Dragendorpt"  # Dragendorpt
+    "Draken"  # Draken
+    "Drakenäs Skeppet"  # Drakenäs Skeppet
+    "Dristigheten"  # Dristigheten
+    "Dromedarius"  # Dromedarius
+    "Drottning Hedvig Eleonora"  # Drottning Hedvig Eleonora
+    "Drottning Lovisa Ulrika"  # Drottning Lovisa Ulrika
+    "Drottning Sofia Magdalena"  # Drottning Sofia Magdalena
+    "Drottning Ulrika Eleonora"  # Drottning Ulrika Eleonora
+    "Drottningen"  # Drottningen
+    "Drottningen af Sverige"  # Drottningen af Sverige
+    "Drottningholm"  # Drottningholm
+    "Dücker"  # Dücker
+    "Dygden"  # Dygden
+    "Ebenetzer"  # Ebenetzer
+    "Ehrenpreus"  # Ehrenpreus
+    "Ekeblad"  # Ekeblad
+    "Ekholmsund"  # Ekholmsund
+    "Ekorre"  # Ekorre
+    "Elefanten"  # Elefanten
+    "Elfsborgs Bark"  # Elfsborgs Bark
+    "Elg"  # Elg
+    "Endräkten"  # Endräkten
+    "Engel"  # Engel
+    "Engelska Drake"  # Engelska Drake
+    "Engelsman"  # Engelsman
+    "Enhjörningen"  # Enhjörningen
+    "Enigheten"  # Enigheten
+    "Enigheten"  # Enigheten
+    "Erik Segersäll"  # Erik Segersäll
+    "Estland"  # Estland
+    "Etna"  # Etna
+    "Eugenie"  # Eugenie
+    "Eurydice"  # Eurydice
+    "Falken"  # Falken
+    "Fama"  # Fama
+    "Fama Göteborg"  # Fama Göteborg
+    "Feden"  # Feden
+    "Fenix"  # Fenix
+    "Fides"  # Fides
+    "Fildrim"  # Fildrim
+    "Finland"  # Finland
+    "Finska Mamnon"  # Finska Mamnon
+    "Finska Björnen"  # Finska Björnen
+    "Finska Svanen"  # Finska Svanen
+    "Flygande Draken"  # Flygande Draken
+    "Flygande Serpent"  # Flygande Serpent
+    "Flygande Vargen"  # Flygande Vargen
+    "Folke"  # Folke
+    "Fortuna"  # Fortuna
+    "Framfuss"  # Framfuss
+    "Fransiskus"  # Fransiskus
+    "Freden"  # Freden
+    "Fredericus"  # Fredericus
+    "Fredericus Rex"  # Fredericus Rex
+    "Fredericus Rex Suecia"  # Fredericus Rex Suecia
+    "Frederika Amalia"  # Frederika Amalia
+    "Fredrika"  # Fredrika
+    "Fredrika Amalia"  # Fredrika Amalia
+    "Frej"  # Frej
+    "Frernskanten"  # Frernskanten
+    "Frigga"  # Frigga
+    "Friheten"  # Friheten
+    "Frisk Opp"  # Frisk Opp
+    "Fröja"  # Fröja
+    "Fröken Eleonora"  # Fröken Eleonora
+    "Fäderneslandet"  # Fäderneslandet
+    "Förgylda Blommen"  # Förgylda Blommen
+    "Förgylda Bönan"  # Förgylda Bönan
+    "Förgylda Falken"  # Förgylda Falken
+    "Förgylda Galejan"  # Förgylda Galejan
+    "Förgylda Måsen"  # Förgylda Måsen
+    "Förgylda Rosen"  # Förgylda Rosen
+    "Förgylda Äpplet"  # Förgylda Äpplet
+    "Förlengaren"  # Förlengaren
+    "Försiktigheten"  # Försiktigheten
+    "Fågel Struts"  # Fågel Struts
+    "Galatea"  # Galatea
+    "Gamla"  # Gamla
+    "Gamla Svärdet"  # Gamla Svärdet
+    "Gamle Frantsen"  # Gamle Frantsen
+    "Ge På"  # Ge På
+    "Gotland"  # Gotland
+    "Greve Cronstedt"  # Greve Cronstedt
+    "Greve Gyllenborg"  # Greve Gyllenborg
+    "Greve Meijerfelt"  # Greve Meijerfelt
+    "Greve Sparre"  # Greve Sparre
+    "Gripen"  # Gripen
+    "Gröna Jagaren"  # Gröna Jagaren
+    "Grå Ulven"  # Grå Ulven
+    "Gustaf den Store"  # Gustaf den Store
+    "Göja"  # Göja
+    "Göta"  # Göta
+    "Göta Ark"  # Göta Ark
+    "Göta Lejon"  # Göta Lejon
+    "Göta Rike"  # Göta Rike
+    "Göteborg"  # Göteborg
+    "Göteborgs Falken"  # Göteborgs Falken
+    "Göteborgs Kastell"  # Göteborgs Kastell
+    "Göteborgs Svan"  # Göteborgs Svan
+    "Göteborgs Vapen"  # Göteborgs Vapen
+    "Gåsen"  # Gåsen
+    "Halland"  # Halland
+    "Halmstadt"  # Halmstadt
+    "Halvmånen"  # Halvmånen
+    "Hanö"  # Hanö
+    "Harbo Lejonet"  # Harbo Lejonet
+    "Harboviks"  # Harboviks
+    "Havfrun"  # Havfrun
+    "Hedvig Elisabeth Charlotta"  # Hedvig Elisabeth Charlotta
+    "Hektor"  # Hektor
+    "Hercules"  # Hercules
+    "Hertig Ferdinand"  # Hertig Ferdinand
+    "Hessen Cassel"  # Hessen Cassel
+    "Hinden"  # Hinden
+    "Hjalmar"  # Hjalmar
+    "Hjorten"  # Hjorten
+    "Hollands Concordia"  # Hollands Concordia
+    "Hollands Flöjten"  # Hollands Flöjten
+    "Hollands Moranien"  # Hollands Moranien
+    "Hollands Svanen"  # Hollands Svanen
+    "Hollands Tuin"  # Hollands Tuin
+    "Hollands Ängeln"  # Hollands Ängeln
+    "Holländska Prinsen"  # Holländska Prinsen
+    "Hoppet"  # Hoppet
+    "Horn"  # Horn
+    "Hurtig"  # Hurtig
+    "Hvita Svan"  # Hvita Svan
+    "Hälsinge Lejonet"  # Hälsinge Lejonet
+    "Höken"  # Höken
+    "Illerim"  # Illerim
+    "Ingeborg"  # Ingeborg
+    "Ivar Benlus"  # Ivar Benlus
+    "Ivar Vitsurk"  # Ivar Vitsurk
+    "Jarislawitz"  # Jarislawitz
+    "Jarramas"  # Jarramas
+    "Jegermeister"  # Jegermeister
+    "Jonas"  # Jonas
+    "Jonas van Emden"  # Jonas van Emden
+    "Jonköping"  # Jonköping
+    "Josephine"  # Josephine
+    "Jozua"  # Jozua
+    "Jungfrun"  # Jungfrun
+    "Jupiter"  # Jupiter
+    "Jute Stjärnan"  # Jute Stjärnan
+    "Jägaren"  # Jägaren
+    "Järnvågen"  # Järnvågen
+    "Kalmar"  # Kalmar
+    "Kalmar Barken"  # Kalmar Barken
+    "Kalmar Kastell"  # Kalmar Kastell
+    "Kalmar Valen"  # Kalmar Valen
+    "Kalmar Ängeln"  # Kalmar Ängeln
+    "Kampen"  # Kampen
+    "Karl XIII"  # Karl XIII
+    "Karl XIV Johann"  # Karl XIV Johann
+    "Karlberg"  # Karlberg
+    "Karlshamn"  # Karlshamn
+    "Karlshamns Kastell"  # Karlshamns Kastell
+    "Karlskrona"  # Karlskrona
+    "Karlskrona Vapen"  # Karlskrona Vapen
+    "Karpen"  # Karpen
+    "Kastellet"  # Kastellet
+    "Katarina"  # Katarina
+    "Katta"  # Katta
+    "Kilduin"  # Kilduin
+    "Kiskin"  # Kiskin
+    "Klosterkon"  # Klosterkon
+    "Konstantin"  # Konstantin
+    "Konung Adolf Frederik"  # Konung Adolf Frederik
+    "Konung David"  # Konung David
+    "Konung Gustav III"  # Konung Gustav III
+    "Konung Gustav IV Adolf"  # Konung Gustav IV Adolf
+    "Konung Karl"  # Konung Karl
+    "Krabbe"  # Krabbe
+    "Kristina"  # Kristina
+    "Kronan"  # Kronan
+    "Kronfisk"  # Kronfisk
+    "Krono Solen"  # Krono Solen
+    "Kronoberg"  # Kronoberg
+    "Kronoskeppet"  # Kronoskeppet
+    "Kronprins Adolf Frederik"  # Kronprins Adolf Frederik
+    "Kronprins Gustav"  # Kronprins Gustav
+    "Kronprins Gustav Adolf"  # Kronprins Gustav Adolf
+    "Kräftan"  # Kräftan
+    "Krönte Kiärleken"  # Krönte Kiärleken
+    "Kåter"  # Kåter
+    "Lagerberg"  # Lagerberg
+    "Lagerbielke"  # Lagerbielke
+    "Lammet"  # Lammet
+    "Lampret"  # Lampret
+    "Lax"  # Lax
+    "Le Comte de Mörner"  # Le Comte de Mörner
+    "Lejoninna"  # Lejoninna
+    "Leoparden"  # Leoparden
+    "Lidungun"  # Lidungun
+    "Liefde"  # Liefde
+    "Lilla Fenix"  # Lilla Fenix
+    "Lilla Leoparden"  # Lilla Leoparden
+    "Lilla Nyckeln"  # Lilla Nyckeln
+    "Lille Blå Duvan"  # Lille Blå Duvan
+    "Livland"  # Livland
+    "Ljungalden"  # Ljungalden
+    "Lodbrok"  # Lodbrok
+    "Louis et Anne"  # Louis et Anne
+    "Lovisa Ulrika"  # Lovisa Ulrika
+    "Lybska Duvan"  # Lybska Duvan
+    "Lybska Hjorten"  # Lybska Hjorten
+    "Lybska Örnen"  # Lybska Örnen
+    "Madam"  # Madam
+    "Makalös"  # Makalös
+    "Malmö"  # Malmö
+    "Manligheten"  # Manligheten
+    "Margareta"  # Margareta
+    "Maria"  # Maria
+    "Maria Carolina"  # Maria Carolina
+    "Mars"  # Mars
+    "Marstrand"  # Marstrand
+    "Medelpad"  # Medelpad
+    "Meerman"  # Meerman
+    "Mercurius"  # Mercurius
+    "Minerva"  # Minerva
+    "Mjöhunden"  # Mjöhunden
+    "Monikendam"  # Monikendam
+    "Morgonstjärnan"  # Morgonstjärnan
+    "Muskatenbom"  # Muskatenbom
+    "Mönsterås"  # Mönsterås
+    "Månen"  # Månen
+    "Måsen"  # Måsen
+    "Najaden"  # Najaden
+    "Neptunus"  # Neptunus
+    "Nikolaus"  # Nikolaus
+    "Norden"  # Norden
+    "Nordstjärnan"  # Nordstjärnan
+    "Nordstjärneorden"  # Nordstjärneorden
+    "Nya Delfin"  # Nya Delfin
+    "Nyckeln"  # Nyckeln
+    "Nyköpings Rosen"  # Nyköpings Rosen
+    "Nyköpings Stjärnan"  # Nyköpings Stjärnan
+    "Näktergalen"  # Näktergalen
+    "Nättelbladet"  # Nättelbladet
+    "Nörrköping"  # Nörrköping
+    "Obekant"  # Obekant
+    "Oden"  # Oden
+    "Oldenburg"  # Oldenburg
+    "Oranienbom"  # Oranienbom
+    "Orfeus"  # Orfeus
+    "Ormen"  # Ormen
+    "Orädd"  # Orädd
+    "Oxdjupet"  # Oxdjupet
+    "Oxen"  # Oxen
+    "Packan"  # Packan
+    "Palmstjärna"  # Palmstjärna
+    "Papegöjan"  # Papegöjan
+    "Patentia"  # Patentia
+    "Patrioten"  # Patrioten
+    "Pelikanen"  # Pelikanen
+    "Pluto"  # Pluto
+    "Pollux"  # Pollux
+    "Pommern"  # Pommern
+    "Postiljon"  # Postiljon
+    "Postryttaren"  # Postryttaren
+    "Prins Gustav"  # Prins Gustav
+    "Prins Karl"  # Prins Karl
+    "Prins Karl Frederik"  # Prins Karl Frederik
+    "Prins Oscar"  # Prins Oscar
+    "Prins Wilhelm"  # Prins Wilhelm
+    "Prinsessan"  # Prinsessan
+    "Prinsessan Hedvig Sofia"  # Prinsessan Hedvig Sofia
+    "Prinsessan Sofia Albertina"  # Prinsessan Sofia Albertina
+    "Prinsessan Sofia Charlotta"  # Prinsessan Sofia Charlotta
+    "Prinsessan Ulrika Eleonora"  # Prinsessan Ulrika Eleonora
+    "Pryssen"  # Pryssen
+    "Prysske Svanen"  # Prysske Svanen
+    "Psilander"  # Psilander
+    "Rafael"  # Rafael
+    "Ragvald"  # Ragvald
+    "Raumö Kravelen"  # Raumö Kravelen
+    "Recompens"  # Recompens
+    "Regina"  # Regina
+    "Remus"  # Remus
+    "Reval"  # Reval
+    "Riddar St. Göran"  # Riddar St. Göran
+    "Riddarhuset"  # Riddarhuset
+    "Riga"  # Riga
+    "Riksens Ständer"  # Riksens Ständer
+    "Rikskronan"  # Rikskronan
+    "Riksnyckeln"  # Riksnyckeln
+    "Riksscepter"  # Riksscepter
+    "Rikssvärdet"  # Rikssvärdet
+    "Riksvasa"  # Riksvasa
+    "Riksäpplet"  # Riksäpplet
+    "Romulus"  # Romulus
+    "Rosen"  # Rosen
+    "Rosen Galeja"  # Rosen Galeja
+    "Rosenkrans"  # Rosenkrans
+    "Ruschenfelt"  # Ruschenfelt
+    "Rutenkrans"  # Rutenkrans
+    "Rättvisan"  # Rättvisan
+    "Röda Hanen"  # Röda Hanen
+    "Röda Lejon"  # Röda Lejon
+    "Röde Draken"  # Röde Draken
+    "Röde Hund"  # Röde Hund
+    "Råbocken"  # Råbocken
+    "Sankt Erik"  # Sankt Erik
+    "Sallan Varre"  # Sallan Varre
+    "Salvator"  # Salvator
+    "Samson"  # Samson
+    "Samsons Galeja"  # Samsons Galeja
+    "Sankt Anna"  # Sankt Anna
+    "Sankt Göran"  # Sankt Göran
+    "Sankt Hieronymus"  # Sankt Hieronymus
+    "Sankt Jacob"  # Sankt Jacob
+    "Sankt Johannes"  # Sankt Johannes
+    "Sankt Maria"  # Sankt Maria
+    "Sankt Mathias"  # Sankt Mathias
+    "Sankt Thomas"  # Sankt Thomas
+    "Saturnus"  # Saturnus
+    "Scepter"  # Scepter
+    "Scipio"  # Scipio
+    "Serafimeorden"  # Serafimeorden
+    "Sigurd Ormuga"  # Sigurd Ormuga
+    "Sjöblad"  # Sjöblad
+    "Skeppsholmen"  # Skeppsholmen
+    "Skorpionen"  # Skorpionen
+    "Skåne"  # Skåne
+    "Småland"  # Småland
+    "Smålands Hjort"  # Smålands Hjort
+    "Smålands Lejonet"  # Smålands Lejonet
+    "Snarsven"  # Snarsven
+    "Snörepilen"  # Snörepilen
+    "Solen"  # Solen
+    "Spegeln"  # Spegeln
+    "Spes"  # Spes
+    "Sprengtporten"  # Sprengtporten
+    "St. Johannes Evangelista"  # St. Johannes Evangelista
+    "Stadvarvet"  # Stadvarvet
+    "Starkotter"  # Starkotter
+    "Stenbocken"  # Stenbocken
+    "Stettin"  # Stettin
+    "Stockholm"  # Stockholm
+    "Stockholms Hjort"  # Stockholms Hjort
+    "Stockholms Hoppet"  # Stockholms Hoppet
+    "Stockholms Raathuijs"  # Stockholms Raathuijs
+    "Stockholms Riddarhuus"  # Stockholms Riddarhuus
+    "Stockholms Sluijs"  # Stockholms Sluijs
+    "Stora Kraveln"  # Stora Kraveln
+    "Stora Kronan"  # Stora Kronan
+    "Store Fenix"  # Store Fenix
+    "Stralsunds Johannes"  # Stralsunds Johannes
+    "Strömstad"  # Strömstad
+    "Styrburn"  # Styrburn
+    "Stövaren"  # Stövaren
+    "Stå Bi"  # Stå Bi
+    "Stå Fast"  # Stå Fast
+    "Stålnäbben"  # Stålnäbben
+    "Suecia"  # Suecia
+    "Sundska Maria"  # Sundska Maria
+    "Sundsvall"  # Sundsvall
+    "Svalan"  # Svalan
+    "Svan"  # Svan
+    "Svarta Hunden"  # Svarta Hunden
+    "Svarta Kon"  # Svarta Kon
+    "Svarta Kåter"  # Svarta Kåter
+    "Svarta Örn"  # Svarta Örn
+    "Svea Rike"  # Svea Rike
+    "Sveaborg"  # Sveaborg
+    "Svenska Hektor"  # Svenska Hektor
+    "Svenska Lejonet"  # Svenska Lejonet
+    "Sverige"  # Sverige
+    "Svärdet"  # Svärdet
+    "Södermanland"  # Södermanland
+    "Tantheijen"  # Tantheijen
+    "Tapperheten"  # Tapperheten
+    "Thais"  # Thais
+    "Theresia"  # Theresia
+    "Thetis"  # Thetis
+    "Thure Bielke"  # Thure Bielke
+    "Tigar"  # Tigar
+    "Tigern"  # Tigern
+    "Tor"  # Tor
+    "Torborg"  # Torborg
+    "Tre Kronor"  # Tre Kronor
+    "Tre Lejon"  # Tre Lejon
+    "Trumslagaren"  # Trumslagaren
+    "Tu Lejon"  # Tu Lejon
+    "Tumlaren"  # Tumlaren
+    "Turken"  # Turken
+    "Ulla Fersen"  # Ulla Fersen
+    "Ulriksdal"  # Ulriksdal
+    "Ulven"  # Ulven
+    "Unga Lybska Salvator"  # Unga Lybska Salvator
+    "Uppassaren"  # Uppassaren
+    "Uppland"  # Uppland
+    "Uppsala"  # Uppsala
+    "Uttern"  # Uttern
+    "Vaksam"  # Vaksam
+    "Vanadis"  # Vanadis
+    "Vapen von Viborg"  # Vapen von Viborg
+    "Varberg"  # Varberg
+    "Vasen"  # Vasen
+    "Vaxholm"  # Vaxholm
+    "Venus"  # Venus
+    "Venus"  # Venus
+    "Verden"  # Verden
+    "Vesterviksoxe"  # Vesterviksoxe
+    "Viborg"  # Viborg
+    "Viktoria"  # Viktoria
+    "Vita Örn"  # Vita Örn
+    "Vladislaff"  # Vladislaff
+    "Väduren"  # Väduren
+    "Väktaren"  # Väktaren
+    "Välkomst från Orienten"  # Välkomst från Orienten
+    "Välkomsten"  # Välkomsten
+    "Vändekåpen"  # Vändekåpen
+    "Värmland"  # Värmland
+    "Västergötland"  # Västergötland
+    "Västervik"  # Västervik
+    "Västerviks Fortuna"  # Västerviks Fortuna
+    "Västgöta Lejonet"  # Västgöta Lejonet
+    "Västmanland"  # Västmanland
+    "Wachtmeister"  # Wachtmeister
+    "Wasa"  # Wasa
+    "Wenden"  # Wenden
+    "Wolgemot"  # Wolgemot
+    "Wrangel"  # Wrangel
+    "Wrede"  # Wrede
+    "Yngve"  # Yngve
+    "Zemire"  # Zemire
+    "Älgen"  # Älgen
+    "Älvborgs Hector"  # Älvborgs Hector
+    "Älvborgs Lejonet"  # Älvborgs Lejonet
+    "Älvborgs Svanen"  # Älvborgs Svanen
+    "Älvsborg"  # Älvsborg
+    "Älvsborgs Hektor"  # Älvsborgs Hektor
+    "Ängel Mikael"  # Ängel Mikael
+    "Ängel Rafael"  # Ängel Rafael
+    "Ängeln"  # Ängeln
+    "Äpplet"  # Äpplet
+    "Äran"  # Äran
+    "Öland"  # Öland
+    "Ömheten"  # Ömheten
+    "Örnen"  # Örnen
+    "Örns Prins"  # Örns Prins
+    "Ösel"  # Ösel
+    "Östergötland"  # Östergötland
+    "Östgöta Lejonet"  # Östgöta Lejonet
+    "Ångermanland"  # Ångermanland
+}
+army_names = {
+    "Kungliga Arméen"  # Kungliga Arméen
+    "Finska Arméen"  # Finska Arméen
+    "Skånska Arméen"  # Skånska Arméen
+    "Livländska Arméen"  # Livländska Arméen
+}
+fleet_names = {
+    "Högsjöflottan"  # Högsjöflottan
+    "Skärgårdsflottan"  # Skärgårdsflottan
+}

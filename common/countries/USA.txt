@@ -1,0 +1,301 @@
+﻿graphical_culture = westerngfx
+colonial_parent = GBR
+random_nation_chance = 0
+historical_score = 200
+color = {
+    69
+    157
+    208
+}
+historical_idea_groups = {
+    plutocracy_ideas
+    trade_ideas
+    economic_ideas
+    defensive_ideas
+    maritime_ideas
+    administrative_ideas
+    offensive_ideas
+    quantity_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    chevauchee
+    western_longbow
+    gaelic_mercenary
+    gaelic_free_shooter
+    french_caracolle
+    irish_charge
+    anglofrench_line
+    french_dragoon
+    british_redcoat
+    british_hussar
+    british_square
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "James #0" = 20
+    "Thomas #0" = 15
+    "Daniel #0" = 10
+    "Samuel #0" = 10
+    "Cyrus #0" = 0
+    "Elias #0" = 0
+    "Nathaniel #0" = 0
+    "Richard #0" = 0
+    "Angus #0" = 0
+    "Benjamin #0" = 0
+    "Darren #0" = -1
+    "Eric #0" = 15
+    "Frederick #0" = 0
+    "Jonathan #0" = 0
+    "Kyran #0" = 0
+    "Milton #0" = 0
+    "Paul #0" = 0
+    "Randolf #0" = 0
+    "Timothy #0" = 0
+    "William #0" = 0
+    "Stephen #0" = 0
+    "Sarah #0" = -1
+    "George #0" = 20
+    "Charles #0" = 10
+    "Arthur #0" = 0
+    "Frederick Augustus #0" = 0
+    "Aaron #0" = 0
+    "Calvin #0" = 0
+    "Francis #0" = 10
+    "Joseph #0" = -1
+}
+leader_names = {
+    "Adams"  # Adams
+    "Burr"  # Burr
+    "Clinton"  # Clinton
+    "Jay"  # Jay
+    "Jefferson"  # Jefferson
+    "Harrison"  # Harrison
+    "King"  # King
+    "Langdon"  # Langdon
+    "Madison"  # Madison
+    "Monroe"  # Monroe
+    "Pickney"  # Pickney
+    "Rutledge"  # Rutledge
+    "Starbuck"  # Starbuck
+    "Steed"  # Steed
+    "Stryder"  # Stryder
+    "Sutcliffe"  # Sutcliffe
+    "Swaggert"  # Swaggert
+    "Stover"  # Stover
+    "Stetson"  # Stetson
+    "Kempton"  # Kempton
+    "Kendrick"  # Kendrick
+    "Lane"  # Lane
+    "Lindon"  # Lindon
+    "Lyle"  # Lyle
+    "Merrick"  # Merrick
+    "Atworth"  # Atworth
+    "Arnott"  # Arnott
+    "Ashton"  # Ashton
+    "Boyd"  # Boyd
+    "Caddock"  # Caddock
+    "Drummond"  # Drummond
+    "Arkeith"  # Arkeith
+    "Kennedy"  # Kennedy
+    "Trevin"  # Trevin
+    "Vaughan"  # Vaughan
+    "Dylan"  # Dylan
+    "Dalton"  # Dalton
+    "Dellwin"  # Dellwin
+    "Sheldon"  # Sheldon
+    "Spencer"  # Spencer
+    "Thorley"  # Thorley
+    "Thompson"  # Thompson
+    "Unwin"  # Unwin
+    "Walden"  # Walden
+    "Ward"  # Ward
+    "Winston"  # Winston
+    "Douglas"  # Douglas
+    "Floyd"  # Floyd
+    "Richardson"  # Richardson
+}
+ship_names = {
+    "American Fabius"  # American Fabius
+    "American Revenue"  # American Revenue
+    "Black Prince"  # Black Prince
+    "Bonhomme Richard"  # Bonhomme Richard
+    "Bunker Hill"  # Bunker Hill
+    "General Gadsen"  # General Gadsen
+    "General Gates"  # General Gates
+    "General Greene"  # General Greene
+    "General Mifflin"  # General Mifflin
+    "General Montgomery"  # General Montgomery
+    "General Washington"  # General Washington
+    "Happy Return"  # Happy Return
+    "Morning Star"  # Morning Star
+    "New Haven"  # New Haven
+    "New York"  # New York
+    "Norfolk Revenge"  # Norfolk Revenge
+    "North Carolina"  # North Carolina
+    "Queen of France"  # Queen of France
+    "South Carolina"  # South Carolina
+    "South Edisto"  # South Edisto
+    "St. Lawrence"  # St. Lawrence
+    "St. Louis"  # St. Louis
+    "True Blue"  # True Blue
+    "United States"  # United States
+    "White Oak"  # White Oak
+    "Abigail"  # Abigail
+    "Achilles"  # Achilles
+    "Active"  # Active
+    "Adams"  # Adams
+    "Addition"  # Addition
+    "Adventure"  # Adventure
+    "Albany"  # Albany
+    "Alfred"  # Alfred
+    "Alliance"  # Alliance
+    "Alston"  # Alston
+    "America"  # America
+    "Amphitrite"  # Amphitrite
+    "Annapolis"  # Annapolis
+    "Argo"  # Argo
+    "Ariel"  # Ariel
+    "Arnold"  # Arnold
+    "Astrea"  # Astrea
+    "Aurora"  # Aurora
+    "Bachelor"  # Bachelor
+    "Boston"  # Boston
+    "Bourbon"  # Bourbon
+    "Brandywine"  # Brandywine
+    "Bricole"  # Bricole
+    "Bruke"  # Bruke
+    "Bulldog"  # Bulldog
+    "Bulloch"  # Bulloch
+    "Cabot"  # Cabot
+    "Camden"  # Camden
+    "Caswell"  # Caswell
+    "Chatham"  # Chatham
+    "Chesapeake"  # Chesapeake
+    "Columbus"  # Columbus
+    "Comet"  # Comet
+    "Commerce"  # Commerce
+    "Concord"  # Concord
+    "Confederacy"  # Confederacy
+    "Confiance"  # Confiance
+    "Congress"  # Congress
+    "Connecticut"  # Connecticut
+    "Constellation"  # Constellation
+    "Constitution"  # Constitution
+    "Cyane"  # Cyane
+    "Deane"  # Deane
+    "Defence"  # Defence
+    "Delaware"  # Delaware
+    "Dickenson"  # Dickenson
+    "Dilligent"  # Dilligent
+    "Disdain"  # Disdain
+    "Dolphin"  # Dolphin
+    "Dragon"  # Dragon
+    "Eagle"  # Eagle
+    "Effingham"  # Effingham
+    "Endeavour"  # Endeavour
+    "Enterprise"  # Enterprise
+    "Essex"  # Essex
+    "Experiment"  # Experiment
+    "Fairfield"  # Fairfield
+    "Fox"  # Fox
+    "Franklin"  # Franklin
+    "Friendship"  # Friendship
+    "Frolic"  # Frolic
+    "Ganges"  # Ganges
+    "Greyhound"  # Greyhound
+    "Griffon"  # Griffon
+    "Guilford"  # Guilford
+    "Hague"  # Hague
+    "Hammond"  # Hammond
+    "Hampden"  # Hampden
+    "Hancock"  # Hancock
+    "Hannah"  # Hannah
+    "Hannibal"  # Hannibal
+    "Harlequin"  # Harlequin
+    "Hawke"  # Hawke
+    "Hazard"  # Hazard
+    "Henry"  # Henry
+    "Hero"  # Hero
+    "Hibernia"  # Hibernia
+    "Hudson"  # Hudson
+    "Hunter"  # Hunter
+    "Impertinent"  # Impertinent
+    "Independence"  # Independence
+    "Insurgent"  # Insurgent
+    "Jamestown"  # Jamestown
+    "Java"  # Java
+    "Katy"  # Katy
+    "Lee"  # Lee
+    "Lewis"  # Lewis
+    "Lexington"  # Lexington
+    "Liberty"  # Liberty
+    "Lincoln"  # Lincoln
+    "Lynch"  # Lynch
+    "Macedonia"  # Macedonia
+    "Manly"  # Manly
+    "Marblehead"  # Marblehead
+    "Massachusetts"  # Massachusetts
+    "Merrimack"  # Merrimack
+    "Middletown"  # Middletown
+    "Mifflin"  # Mifflin
+    "Minerva"  # Minerva
+    "Monmouth"  # Monmouth
+    "Montezuma"  # Montezuma
+    "Morris"  # Morris
+    "Mosquito"  # Mosquito
+    "Northampton"  # Northampton
+    "Ohio"  # Ohio
+    "Page"  # Page
+    "Patapsco"  # Patapsco
+    "Peacock"  # Peacock
+    "Pennsylvania"  # Pennsylvania
+    "Philadephia"  # Philadephia
+    "Pilgrim"  # Pilgrim
+    "Pompey"  # Pompey
+    "Portsmouth"  # Portsmouth
+    "Potomac"  # Potomac
+    "President"  # President
+    "Prosper"  # Prosper
+    "Protector"  # Protector
+    "Providence"  # Providence
+    "Putnam"  # Putnam
+    "Raleigh"  # Raleigh
+    "Randolph"  # Randolph
+    "Ranger"  # Ranger
+    "Rattlesnake"  # Rattlesnake
+    "Reprisal"  # Reprisal
+    "Republic"  # Republic
+    "Repulse"  # Repulse
+    "Resistance"  # Resistance
+    "Resolution"  # Resolution
+    "Retrieve"  # Retrieve
+    "Rhodes"  # Rhodes
+    "Richard"  # Richard
+    "Sabine"  # Sabine
+    "Safeguard"  # Safeguard
+    "Saratoga"  # Saratoga
+    "Scorpion"  # Scorpion
+    "Shark"  # Shark
+    "Spitfire"  # Spitfire
+    "Spy"  # Spy
+    "Surprise"  # Surprise
+    "Swift"  # Swift
+    "Tartar"  # Tartar
+    "Tempest"  # Tempest
+    "Trumbull"  # Trumbull
+    "Tyrannicide"  # Tyrannicide
+    "Vengeance"  # Vengeance
+    "Vermont"  # Vermont
+    "Viper"  # Viper
+    "Virginia"  # Virginia
+    "Wabash"  # Wabash
+    "Warren"  # Warren
+    "Warren"  # Warren
+    "Washington"  # Washington
+    "Wasp"  # Wasp
+    "Wilkes"  # Wilkes
+}

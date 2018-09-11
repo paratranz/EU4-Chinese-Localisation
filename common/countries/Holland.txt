@@ -1,0 +1,470 @@
+﻿graphical_culture = westerngfx
+color = {
+    156
+    96
+    100
+}
+historical_idea_groups = {
+    administrative_ideas
+    defensive_ideas
+    exploration_ideas
+    innovativeness_ideas
+    trade_ideas
+    quality_ideas
+    maritime_ideas
+    economic_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    western_medieval_knights
+    western_men_at_arms
+    dutch_maurician
+    austrian_tercio
+    austrian_grenzer
+    french_bluecoat
+    french_dragoon
+    french_impulse
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Albert #0" = 15
+    "Lodewijk #0" = 5
+    "Dirk #7" = 0
+    "Jan #1" = 0
+    "Adriaan #0" = 0
+    "Barthout #0" = 0
+    "Constantijn #0" = 0
+    "Filips #0" = 0
+    "Gabriël #0" = 0
+    "Gerardus #0" = -10
+    "Hendrik #0" = -1
+    "Joost #0" = 15
+    "Kasper #0" = 0
+    "Hugo #0" = 0
+    "Pieter #0" = 0
+    "Prosper #0" = 0
+    "Rembrandt #0" = 0
+    "Rodolf #0" = 0
+    "Jakoba #0" = -15
+    "Isabella #0" = -1
+    "Maria #0" = -1
+    "Aleid #0" = -1
+    "Willem #5" = 40
+    "Eberhard #0" = 5
+    "Arnolf #1" = 0
+    "Christiaan #0" = 0
+    "Frans #0" = 0
+    "Gerbrand #0" = -1
+    "Karel #0" = 0
+    "Jacob #0" = -1
+}
+leader_names = {
+    "Ameland"  # Ameland
+    "Amersfoort"  # Amersfoort
+    "Amstel"  # Amstel
+    "Appingedam"  # Appingedam
+    "Arnhem"  # Arnhem
+    "Bieldeers"  # Bieldeers
+    "Blokker"  # Blokker
+    "Bolsward"  # Bolsward
+    "Botha"  # Botha
+    "Breda"  # Breda
+    "Brielle"  # Brielle
+    "Coemans"  # Coemans
+    "Coevorden"  # Coevorden
+    "Cornelis"  # Cornelis
+    "Costers"  # Costers
+    "Culemborg"  # Culemborg
+    "De Witt"  # De Witt
+    "Den Burg"  # Den Burg
+    "Deodati"  # Deodati
+    "Dokkum"  # Dokkum
+    "Dordrecht"  # Dordrecht
+    "Drenthe"  # Drenthe
+    "Driesman"  # Driesman
+    "Eindhoven"  # Eindhoven
+    "Elst"  # Elst
+    "Elten Leur"  # Elten Leur
+    "Enkhuizen"  # Enkhuizen
+    "Fliesingen"  # Fliesingen
+    "Friesen"  # Friesen
+    "Geelvinck"  # Geelvinck
+    "Geerit"  # Geerit
+    "Genk"  # Genk
+    "Goes"  # Goes
+    "Gouda"  # Gouda
+    "Groningen"  # Groningen
+    "Gulder"  # Gulder
+    "Haag"  # Haag
+    "Haarlem"  # Haarlem
+    "Hebenal"  # Hebenal
+    "Heerlen"  # Heerlen
+    "Heertognebosh"  # Heertognebosh
+    "Heineken"  # Heineken
+    "Helder"  # Helder
+    "Hendryck"  # Hendryck
+    "Hilversum"  # Hilversum
+    "Jansz"  # Jansz
+    "Kampen"  # Kampen
+    "Karstens"  # Karstens
+    "Kortenaer"  # Kortenaer
+    "Kortrijk"  # Kortrijk
+    "Lauwers"  # Lauwers
+    "Lemmer"  # Lemmer
+    "Leyden"  # Leyden
+    "Limburg"  # Limburg
+    "Maastricht"  # Maastricht
+    "Meppel"  # Meppel
+    "Middenmeer"  # Middenmeer
+    "Middleburg"  # Middleburg
+    "Neuwegen"  # Neuwegen
+    "Nijkerk"  # Nijkerk
+    "Nijmegen"  # Nijmegen
+    "Oldenbarneveld"  # Oldenbarneveld
+    "Olderzaal"  # Olderzaal
+    "Opdorf"  # Opdorf
+    "Overijssel"  # Overijssel
+    "Philipps"  # Philipps
+    "Piet"  # Piet
+    "Poszt"  # Poszt
+    "Scheveningen"  # Scheveningen
+    "Schiedam"  # Schiedam
+    "Scholtecheren"  # Scholtecheren
+    "Schoonebeck"  # Schoonebeck
+    "Schouwen"  # Schouwen
+    "Sluis"  # Sluis
+    "Smuts"  # Smuts
+    "Spijkenise"  # Spijkenise
+    "Terchelling"  # Terchelling
+    "Texel"  # Texel
+    "Twente"  # Twente
+    "Utrecht"  # Utrecht
+    "Valkenswaard"  # Valkenswaard
+    "Van Den Dorp"  # Van Den Dorp
+    "Van der Does"  # Van der Does
+    "Van Hessling"  # Van Hessling
+    "Van Spilbergen"  # Van Spilbergen
+    "Van Stabel"  # Van Stabel
+    "Van Wick"  # Van Wick
+    "Veendam"  # Veendam
+    "Venloo"  # Venloo
+    "Venray"  # Venray
+    "Volendam"  # Volendam
+    "Vroom"  # Vroom
+    "Willem"  # Willem
+    "Woerden"  # Woerden
+    "Waalwijck"  # Waalwijck
+    "Zandwort"  # Zandwort
+    "Zoetermeer"  # Zoetermeer
+    "Zuiderzee"  # Zuiderzee
+    "Zwijndrecht"  # Zwijndrecht
+    "Zwolle"  # Zwolle
+}
+ship_names = {
+    "Aartsengel Michael"  # Aartsengel Michael
+    "Admiraal Generaal"  # Admiraal Generaal
+    "Beurs van Amsterdam"  # Beurs van Amsterdam
+    "Blauwe Reiger"  # Blauwe Reiger
+    "Bloys van Treslong"  # Bloys van Treslong
+    "Burcht van Leiden"  # Burcht van Leiden
+    "Commercie van Amsterdam"  # Commercie van Amsterdam
+    "Dom van Utrecht"  # Dom van Utrecht
+    "Drie Gebroeders"  # Drie Gebroeders
+    "David's Drie Helden"  # David's Drie Helden
+    "Drie Koningen"  # Drie Koningen
+    "d'Unij"  # d'Unij
+    "Elf Steden"  # Elf Steden
+    "Engel Gabriel"  # Engel Gabriel
+    "Frederik Hendrik"  # Frederik Hendrik
+    "Gewapenden Ruijter"  # Gewapenden Ruijter
+    "Gouden Dolfijn"  # Gouden Dolfijn
+    "Gouden Leeuw"  # Gouden Leeuw
+    "Gouden Maan"  # Gouden Maan
+    "Graaf Willem"  # Graaf Willem
+    "Groot Hollandia"  # Groot Hollandia
+    "Groote Liefde"  # Groote Liefde
+    "Halve Maan"  # Halve Maan
+    "Hof Sint Janskerken"  # Hof Sint Janskerken
+    "Hof van Rheenen"  # Hof van Rheenen
+    "Hof van Souburg"  # Hof van Souburg
+    "Hof van Zeeland"  # Hof van Zeeland
+    "Hollandsche Tuin"  # Hollandsche Tuin
+    "Huijs te Zwieten"  # Huijs te Zwieten
+    "Huis te Jaarsveld"  # Huis te Jaarsveld
+    "Huis te Kruiningen"  # Huis te Kruiningen
+    "Huis te Oostewijk"  # Huis te Oostewijk
+    "Huis te Zwieten"  # Huis te Zwieten
+    "Huis Tijdverdrijf"  # Huis Tijdverdrijf
+    "Huis van Groeningen"  # Huis van Groeningen
+    "Huis van Nassau"  # Huis van Nassau
+    "Huis van Raaphorst"  # Huis van Raaphorst
+    "Kasteel van Medemblik"  # Kasteel van Medemblik
+    "Katwijk aan Zee"  # Katwijk aan Zee
+    "Keurvorst van Brandenburg"  # Keurvorst van Brandenburg
+    "Keurvorst van Saksen"  # Keurvorst van Saksen
+    "Keurvorstin van Brandenburg"  # Keurvorstin van Brandenburg
+    "Klein Frisia"  # Klein Frisia
+    "Klein Hollandia"  # Klein Hollandia
+    "Klein Zutphen"  # Klein Zutphen
+    "Kleine Harder"  # Kleine Harder
+    "Koning William"  # Koning William
+    "Louisa Hendrika"  # Louisa Hendrika
+    "Maagd van Enkhuizen"  # Maagd van Enkhuizen
+    "Marcus Curtius"  # Marcus Curtius
+    "Postiljon van Smyrna"  # Postiljon van Smyrna
+    "Prins Friso"  # Prins Friso
+    "Prins Hendrik Casimir"  # Prins Hendrik Casimir
+    "Prins Hendrik"  # Prins Hendrik
+    "Prins Maurits"  # Prins Maurits
+    "Prins te Paard"  # Prins te Paard
+    "Prins van Portugal"  # Prins van Portugal
+    "Prins Willem"  # Prins Willem
+    "Prinses Aemilia"  # Prinses Aemilia
+    "Prinses Albertina"  # Prinses Albertina
+    "Prinses Maria"  # Prinses Maria
+    "Prinses Roijael Maria"  # Prinses Roijael Maria
+    "Provincie Utrecht"  # Provincie Utrecht
+    "Provincie van Holland"  # Provincie van Holland
+    "Raadhuis van Haarlem"  # Raadhuis van Haarlem
+    "Roode Leeuw"  # Roode Leeuw
+    "Salomons Oordeel"  # Salomons Oordeel
+    "Schager Roos"  # Schager Roos
+    "Sint Andries"  # Sint Andries
+    "Sint Jacob"  # Sint Jacob
+    "Sint Laurens"  # Sint Laurens
+    "Sint Maria"  # Sint Maria
+    "Sint Matheeus"  # Sint Matheeus
+    "Sint Pieter"  # Sint Pieter
+    "Stad en Lande"  # Stad en Lande
+    "Stad Gouda"  # Stad Gouda
+    "Stad Haarlem"  # Stad Haarlem
+    "Stad Utrecht"  # Stad Utrecht
+    "Ter Goes"  # Ter Goes
+    "Ter Veere"  # Ter Veere
+    "Verenigde Provinciën"  # Verenigde Provinciën
+    "Vergulden Draeck"  # Vergulden Draeck
+    "Vliegende Vis"  # Vliegende Vis
+    "Vogel Phesant"  # Vogel Phesant
+    "Vogel Struis"  # Vogel Struis
+    "Wakende Boei"  # Wakende Boei
+    "Wakende Kraan"  # Wakende Kraan
+    "Wapen van Edam"  # Wapen van Edam
+    "Wapen van Haarlem"  # Wapen van Haarlem
+    "Wapen van Holland"  # Wapen van Holland
+    "Wapen van Leijden"  # Wapen van Leijden
+    "Wapen van Nassau"  # Wapen van Nassau
+    "Wapen van Utrecht"  # Wapen van Utrecht
+    "Wapen van Zeeland"  # Wapen van Zeeland
+    "Willem van Nieuhoff"  # Willem van Nieuhoff
+    "Witte Lam"  # Witte Lam
+    "Zwarte Arend"  # Zwarte Arend
+    "Zwarte Bul"  # Zwarte Bul
+    "Aemilia"  # Aemilia
+    "Agatha"  # Agatha
+    "Ajax"  # Ajax
+    "Akerboom"  # Akerboom
+    "Alida"  # Alida
+    "Alkmaar"  # Alkmaar
+    "Alliantie"  # Alliantie
+    "Alphen"  # Alphen
+    "Amalia"  # Amalia
+    "Amazoon"  # Amazoon
+    "Amphitrite"  # Amphitrite
+    "Amsterdam"  # Amsterdam
+    "Arend"  # Arend
+    "Argo"  # Argo
+    "Arnhem"  # Arnhem
+    "Assendelft"  # Assendelft
+    "Banier"  # Banier
+    "Barbestein"  # Barbestein
+    "Batavia"  # Batavia
+    "Batavier"  # Batavier
+    "Beekvliet"  # Beekvliet
+    "Beemster"  # Beemster
+    "Beemsterlust"  # Beemsterlust
+    "Beliona"  # Beliona
+    "Beschermer"  # Beschermer
+    "Boekenrode"  # Boekenrode
+    "Boetzelaar"  # Boetzelaar
+    "Bommel"  # Bommel
+    "Braave"  # Braave
+    "Brakel"  # Brakel
+    "Breda"  # Breda
+    "Brederode"  # Brederode
+    "Brielle"  # Brielle
+    "Broederschap"  # Broederschap
+    "Brutus"  # Brutus
+    "Buis"  # Buis
+    "Bul"  # Bul
+    "Burgvliet"  # Burgvliet
+    "Caleb"  # Caleb
+    "Callantsoog"  # Callantsoog
+    "Castricum"  # Castricum
+    "Catharina"  # Catharina
+    "Cerberus"  # Cerberus
+    "Convertine"  # Convertine
+    "Curacao"  # Curacao
+    "Dalem"  # Dalem
+    "Damiaten"  # Damiaten
+    "Dankbaarheid"  # Dankbaarheid
+    "Delfland"  # Delfland
+    "Delft"  # Delft
+    "Deutekom"  # Deutekom
+    "Deventer"  # Deventer
+    "Diepenheim"  # Diepenheim
+    "Dieren"  # Dieren
+    "Doesburg"  # Doesburg
+    "Doggersbank"  # Doggersbank
+    "Dolfijn"  # Dolfijn
+    "Dolfijn"  # Dolfijn
+    "Dordrecht"  # Dordrecht
+    "Draak"  # Draak
+    "Drakestein"  # Drakestein
+    "Drente"  # Drente
+    "Drielst"  # Drielst
+    "Duinveld"  # Duinveld
+    "Duivenvoorde"  # Duivenvoorde
+    "Echo"  # Echo
+    "Edam"  # Edam
+    "Eendracht"  # Eendracht
+    "Eenhoorn"  # Eenhoorn
+    "Elswoud"  # Elswoud
+    "Engel"  # Engel
+    "Erfprins"  # Erfprins
+    "Fortuin"  # Fortuin
+    "Friesland"  # Friesland
+    "Galei"  # Galei
+    "Gelderland"  # Gelderland
+    "Geloof"  # Geloof
+    "Gideon"  # Gideon
+    "Glindhorst"  # Glindhorst
+    "Goes"  # Goes
+    "Gouda"  # Gouda
+    "Gouderak"  # Gouderak
+    "Haarlem"  # Haarlem
+    "Haarlemmerhout"  # Haarlemmerhout
+    "Hardenbroek"  # Hardenbroek
+    "Harderwijk"  # Harderwijk
+    "Havik"  # Havik
+    "Hector"  # Hector
+    "Heemstede"  # Heemstede
+    "Hersteller"  # Hersteller
+    "Het"  # Het
+    "Loo"  # Loo
+    "Hilverbeek"  # Hilverbeek
+    "Hilversum"  # Hilversum
+    "Hollandia"  # Hollandia
+    "Hoop"  # Hoop
+    "Jaarsveld"  # Jaarsveld
+    "Jonas"  # Jonas
+    "Jozua"  # Jozua
+    "Jupiter"  # Jupiter
+    "Kalandsoog"  # Kalandsoog
+    "Kameel"  # Kameel
+    "Kampen"  # Kampen
+    "Kampveere"  # Kampveere
+    "Kennemerland"  # Kennemerland
+    "Koevorden"  # Koevorden
+    "Komeet"  # Komeet
+    "Kooge"  # Kooge
+    "Landman"  # Landman
+    "Landskroon"  # Landskroon
+    "Leeuwarden"  # Leeuwarden
+    "Leeuwenhorst"  # Leeuwenhorst
+    "Liefde"  # Liefde
+    "Loosdregt"  # Loosdregt
+    "Luipaard"  # Luipaard
+    "Lynx"  # Lynx
+    "Maan"  # Maan
+    "Maarseveen"  # Maarseveen
+    "Maas"  # Maas
+    "Margarethe"  # Margarethe
+    "Mars"  # Mars
+    "Matenes"  # Matenes
+    "Medusa"  # Medusa
+    "Meermin"  # Meermin
+    "Mercuur"  # Mercuur
+    "Middelbare"  # Middelbare
+    "Middelburg"  # Middelburg
+    "Morgenstar"  # Morgenstar
+    "Moriaanshoofd"  # Moriaanshoofd
+    "Naerden"  # Naerden
+    "Neptunus"  # Neptunus
+    "Noorderkwartier"  # Noorderkwartier
+    "Olifant"  # Olifant
+    "Omlandia"  # Omlandia
+    "Oostergo"  # Oostergo
+    "Oosterwijk"  # Oosterwijk
+    "Oranjeboom"  # Oranjeboom
+    "Oudshoorn"  # Oudshoorn
+    "Overijssel"  # Overijssel
+    "Overwinnaer"  # Overwinnaer
+    "Pacificatie"  # Pacificatie
+    "Parel"  # Parel
+    "Pelikaan"  # Pelikaan
+    "Pijl"  # Pijl
+    "Post"  # Post
+    "Prins"  # Prins
+    "Raaf"  # Raaf
+    "Ramhorst"  # Ramhorst
+    "Reebok"  # Reebok
+    "Reigersberg"  # Reigersberg
+    "Rijnland"  # Rijnland
+    "Rosenkranz"  # Rosenkranz
+    "Salamander"  # Salamander
+    "Schieland"  # Schieland
+    "Schonauwen"  # Schonauwen
+    "Souterwoude"  # Souterwoude
+    "Spiegel"  # Spiegel
+    "Spion"  # Spion
+    "Starrenburg"  # Starrenburg
+    "Stavoren"  # Stavoren
+    "Susanna"  # Susanna
+    "Tholen"  # Tholen
+    "Tijdverdrijf"  # Tijdverdrijf
+    "Tijger"  # Tijger
+    "Triton"  # Triton
+    "Tromp"  # Tromp
+    "Unie"  # Unie
+    "Utrecht"  # Utrecht
+    "Valk"  # Valk
+    "Veere"  # Veere
+    "Velsen"  # Velsen
+    "Vlaming"  # Vlaming
+    "Vlissingen"  # Vlissingen
+    "Voorzichtigheid"  # Voorzichtigheid
+    "Vrede"  # Vrede
+    "Vrijheid"  # Vrijheid
+    "Waag"  # Waag
+    "Waakzamheid"  # Waakzamheid
+    "Walcheren"  # Walcheren
+    "Wassenaer"  # Wassenaer
+    "Westergo"  # Westergo
+    "Westfriesland"  # Westfriesland
+    "Weststellingwerft"  # Weststellingwerft
+    "Windhond"  # Windhond
+    "Wolf"  # Wolf
+    "Wolfswinkel"  # Wolfswinkel
+    "Wreker"  # Wreker
+    "Zeelandia"  # Zeelandia
+    "Zeepaard"  # Zeepaard
+    "Zephier"  # Zephier
+    "Zierikzee"  # Zierikzee
+    "Zon"  # Zon
+    "Zuiderhuis"  # Zuiderhuis
+    "Zuileveld"  # Zuileveld
+    "Zutphen"  # Zutphen
+    "Zwaan"  # Zwaan
+    "Zwaluw"  # Zwaluw
+    "Zwanenburg"  # Zwanenburg
+    "Zwieten"  # Zwieten
+}
+army_names = {
+    "Leger van $PROVINCE$"  # Leger van $PROVINCE$
+}
+fleet_names = {
+    "Vloot van $PROVINCE$"  # Vloot van $PROVINCE$
+}

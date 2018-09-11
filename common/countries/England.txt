@@ -1,0 +1,770 @@
+﻿graphical_culture = westerngfx
+color = {
+    193
+    26
+    14
+}
+revolutionary_colors = {
+    5
+    13
+    0
+}
+preferred_religion = protestant
+historical_idea_groups = {
+    administrative_ideas
+    exploration_ideas
+    quality_ideas
+    maritime_ideas
+    economic_ideas
+    expansion_ideas
+    trade_ideas
+    naval_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    chevauchee
+    western_longbow
+    gaelic_mercenary
+    gaelic_free_shooter
+    french_caracolle
+    irish_charge
+    anglofrench_line
+    french_dragoon
+    british_redcoat
+    british_hussar
+    british_square
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Edward #3" = 40
+    "James #0" = -20
+    "Richard #2" = 10
+    "Philip #0" = 5
+    "Anne #0" = 0
+    "Charles #0 James" = 0
+    "Thomas #0" = 0
+    "George #0" = 0
+    "Jacob #0" = 0
+    "Robert #0" = 0
+    "Adam #0" = 0
+    "Albert #0" = 0
+    "Ambrose #0" = -10
+    "Anthony #0" = 20
+    "Benjamin #0" = 1
+    "Daniel #0" = 0
+    "Ernest #0" = -1
+    "Geoffrey #0" = 0
+    "Horatio #0" = 0
+    "Isaac #0" = 0
+    "Jonathan #0" = 0
+    "Lawrence #0" = 0
+    "Nehemiah #0" = 0
+    "Samuel #0" = 0
+    "Elizabeth #0" = -10
+    "Margaret #0" = -1
+    "Henry #3" = 100
+    "William #2" = 10
+    "Henry #3 Frederick" = 1
+    "Edgar #0" = 0
+    "John #1" = 0
+    "Stephen #1" = 0
+    "Alfred #0" = 0
+    "Archibald #0" = 10
+    "David #0" = 0
+}
+leader_names = {
+    "Albemarle"  # Albemarle
+    "Amherst"  # Amherst
+    "Anson"  # Anson
+    "Buckingham"  # Buckingham
+    "Braddock"  # Braddock
+    "Byron"  # Byron
+    "Burgoyne"  # Burgoyne
+    "Beresford"  # Beresford
+    "Brock"  # Brock
+    "Benbow"  # Benbow
+    "Blake"  # Blake
+    "Bedford"  # Bedford
+    "Boscawen"  # Boscawen
+    "Baffin"  # Baffin
+    "Button"  # Button
+    "Clarence"  # Clarence
+    "de Clifford"  # de Clifford
+    "Cromwell"  # Cromwell
+    "Cumberland"  # Cumberland
+    "Clinton"  # Clinton
+    "Cornwallis"  # Cornwallis
+    "Clive"  # Clive
+    "Cabot"  # Cabot
+    "Carleton"  # Carleton
+    "Cavendish"  # Cavendish
+    "Cook"  # Cook
+    "Dampier"  # Dampier
+    "Davis"  # Davis
+    "Drake"  # Drake
+    "Essex"  # Essex
+    "Fairfax"  # Fairfax
+    "Frobisher"  # Frobisher
+    "Gloucester"  # Gloucester
+    "Gilbert"  # Gilbert
+    "Howe"  # Howe
+    "Howard"  # Howard
+    "Herbert"  # Herbert
+    "Hawke"  # Hawke
+    "Hood"  # Hood
+    "Hastings"  # Hastings
+    "Hudson"  # Hudson
+    "Leicester"  # Leicester
+    "Marlborough"  # Marlborough
+    "Middleton"  # Middleton
+    "Moore"  # Moore
+    "Northumberland"  # Northumberland
+    "Norfolk"  # Norfolk
+    "Procter"  # Procter
+    "Rooke"  # Rooke
+    "Rodney"  # Rodney
+    "Raleigh"  # Raleigh
+    "Salisbury"  # Salisbury
+    "Somerset"  # Somerset
+    "Suffolk"  # Suffolk
+    "Saunders"  # Saunders
+    "Smith"  # Smith
+    "Talbot"  # Talbot
+    "Tarleton"  # Tarleton
+    "Uxbridge"  # Uxbridge
+    "Warwick"  # Warwick
+    "Wolfe"  # Wolfe
+    "York"  # York
+}
+ship_names = {
+    "Abyssinia"  # Abyssinia
+    "Achilles"  # Achilles
+    "Adamant"  # Adamant
+    "Advantage"  # Advantage
+    "Adventure"  # Adventure
+    "Advice"  # Advice
+    "Africa"  # Africa
+    "Agamemnon"  # Agamemnon
+    "Agase"  # Agase
+    "Agincourt"  # Agincourt
+    "Aid"  # Aid
+    "Ajax"  # Ajax
+    "Albemarle"  # Albemarle
+    "Albion"  # Albion
+    "Alcide"  # Alcide
+    "Aldborough"  # Aldborough
+    "Alexander"  # Alexander
+    "Alexandria"  # Alexandria
+    "Alfred"  # Alfred
+    "America"  # America
+    "Amity"  # Amity
+    "Andrew"  # Andrew
+    "Anglesea"  # Anglesea
+    "Anne"  # Anne
+    "Anne Gallant"  # Anne Gallant
+    "Anson"  # Anson
+    "Answer"  # Answer
+    "Antelope"  # Antelope
+    "Ardent"  # Ardent
+    "Argonaut"  # Argonaut
+    "Argyll"  # Argyll
+    "Ark Royal"  # Ark Royal
+    "Armada"  # Armada
+    "Arrogant"  # Arrogant
+    "Artigo"  # Artigo
+    "Asia"  # Asia
+    "Assistance"  # Assistance
+    "Association"  # Association
+    "Assurance"  # Assurance
+    "Atlas"  # Atlas
+    "Audacious"  # Audacious
+    "August"  # August
+    "Augusta"  # Augusta
+    "Barbara of Greenwich"  # Barbara of Greenwich
+    "Barfleur"  # Barfleur
+    "Barham"  # Barham
+    "Bark of Bullen"  # Bark of Bullen
+    "Bark of Murless"  # Bark of Murless
+    "Basing"  # Basing
+    "Bear"  # Bear
+    "Beaver"  # Beaver
+    "Bedford"  # Bedford
+    "Belleisle"  # Belleisle
+    "Bellerophon"  # Bellerophon
+    "Belliqueux"  # Belliqueux
+    "Bellona"  # Bellona
+    "Benbow"  # Benbow
+    "Berwick"  # Berwick
+    "Bideford"  # Bideford
+    "Black Bark"  # Black Bark
+    "Black Bull"  # Black Bull
+    "Black Dog"  # Black Dog
+    "Black Galley"  # Black Galley
+    "Black Pinnace"  # Black Pinnace
+    "Black Prince"  # Black Prince
+    "Black Rave"  # Black Rave
+    "Black Spread Eagle"  # Black Spread Eagle
+    "Blackamoor Lady"  # Blackamoor Lady
+    "Blackwall"  # Blackwall
+    "Blake"  # Blake
+    "Blenheim"  # Blenheim
+    "Bonaventure"  # Bonaventure
+    "Boreas"  # Boreas
+    "Bounty"  # Bounty
+    "Boyne"  # Boyne
+    "Bradford"  # Bradford
+    "Breda"  # Breda
+    "Bridgewater"  # Bridgewater
+    "Brigantine"  # Brigantine
+    "Bristol"  # Bristol
+    "Britannia"  # Britannia
+    "Brunswick"  # Brunswick
+    "Buckingham"  # Buckingham
+    "Bull"  # Bull
+    "Bulwark"  # Bulwark
+    "Burford"  # Burford
+    "Burlington"  # Burlington
+    "Caesar"  # Caesar
+    "Caledonia"  # Caledonia
+    "Cambridge"  # Cambridge
+    "Canada"  # Canada
+    "Canterbury"  # Canterbury
+    "Captain"  # Captain
+    "Cardiff"  # Cardiff
+    "Carlisle"  # Carlisle
+    "Carvel of Eve"  # Carvel of Eve
+    "Castor"  # Castor
+    "Cato"  # Cato
+    "Cavendish"  # Cavendish
+    "Centurion"  # Centurion
+    "Cerberus"  # Cerberus
+    "Charles"  # Charles
+    "Charles Galley"  # Charles Galley
+    "Charles V"  # Charles V
+    "Chatham"  # Chatham
+    "Chester"  # Chester
+    "Chichester"  # Chichester
+    "Christ"  # Christ
+    "Christopher"  # Christopher
+    "Christopher of Bream"  # Christopher of Bream
+    "Christopher Spayne"  # Christopher Spayne
+    "Clarence"  # Clarence
+    "Clove Tree"  # Clove Tree
+    "Colchester"  # Colchester
+    "Collingwood"  # Collingwood
+    "Colossus"  # Colossus
+    "Conqueror"  # Conqueror
+    "Conquestador"  # Conquestador
+    "Constant Reformation"  # Constant Reformation
+    "Constant Warwick"  # Constant Warwick
+    "Content"  # Content
+    "Convertine"  # Convertine
+    "Cornelius"  # Cornelius
+    "Cornwall"  # Cornwall
+    "Coronation"  # Coronation
+    "Courageux"  # Courageux
+    "Coventry"  # Coventry
+    "Covertine"  # Covertine
+    "Crane"  # Crane
+    "Cressy"  # Cressy
+    "Crocodile"  # Crocodile
+    "Crown"  # Crown
+    "Crowned Lion"  # Crowned Lion
+    "Culloden"  # Culloden
+    "Cumberland"  # Cumberland
+    "Dainty"  # Dainty
+    "Daisy"  # Daisy
+    "Dartmouth"  # Dartmouth
+    "Deal Castle"  # Deal Castle
+    "Dee"  # Dee
+    "Defence"  # Defence
+    "Defiance"  # Defiance
+    "Deptford"  # Deptford
+    "Devastation"  # Devastation
+    "Devonshire"  # Devonshire
+    "Devonshire"  # Devonshire
+    "Diadem"  # Diadem
+    "Diamond"  # Diamond
+    "Dido"  # Dido
+    "Diomede"  # Diomede
+    "Director"  # Director
+    "Dolphin"  # Dolphin
+    "Dorsetshire"  # Dorsetshire
+    "Dover"  # Dover
+    "Dragon"  # Dragon
+    "Drake"  # Drake
+    "Dreadnaught"  # Dreadnaught
+    "Druid"  # Druid
+    "Dublin"  # Dublin
+    "Duchess"  # Duchess
+    "Due Repulse"  # Due Repulse
+    "Duke"  # Duke
+    "Dunbar"  # Dunbar
+    "Duncan"  # Duncan
+    "Duncannon"  # Duncannon
+    "Dunkirk"  # Dunkirk
+    "Eagle"  # Eagle
+    "Edgar"  # Edgar
+    "Edinburgh"  # Edinburgh
+    "Edward Bonaventure"  # Edward Bonaventure
+    "Edward Howard"  # Edward Howard
+    "Egmont"  # Egmont
+    "Elephant"  # Elephant
+    "Elias"  # Elias
+    "Elizabeth"  # Elizabeth
+    "Elizabeth Jonas"  # Elizabeth Jonas
+    "Ellynore"  # Ellynore
+    "Essex"  # Essex
+    "Europa"  # Europa
+    "Excellent"  # Excellent
+    "Exchange"  # Exchange
+    "Exeter"  # Exeter
+    "Exmouth"  # Exmouth
+    "Expedition"  # Expedition
+    "Experiment"  # Experiment
+    "Fagons"  # Fagons
+    "Fairfax"  # Fairfax
+    "Falcon"  # Falcon
+    "Falkland"  # Falkland
+    "Falmouth"  # Falmouth
+    "Fame"  # Fame
+    "Faversham"  # Faversham
+    "Favourite"  # Favourite
+    "Fellowship"  # Fellowship
+    "Ferme"  # Ferme
+    "Firm"  # Firm
+    "Flamborough"  # Flamborough
+    "Fleetwood"  # Fleetwood
+    "Flight"  # Flight
+    "Flirt"  # Flirt
+    "Folkestone"  # Folkestone
+    "Formidable"  # Formidable
+    "Forrester"  # Forrester
+    "Fortitude"  # Fortitude
+    "Fortune"  # Fortune
+    "Foudroyant"  # Foudroyant
+    "Francis"  # Francis
+    "French Ruby"  # French Ruby
+    "Friday"  # Friday
+    "Gabriel Royal"  # Gabriel Royal
+    "Galley Subtile"  # Galley Subtile
+    "Garland"  # Garland
+    "George"  # George
+    "Gibraltar"  # Gibraltar
+    "Gillyflower"  # Gillyflower
+    "Globe"  # Globe
+    "Gloucester"  # Gloucester
+    "Golden Horse"  # Golden Horse
+    "Golden Lion"  # Golden Lion
+    "Golden Phoenix"  # Golden Phoenix
+    "Goliath"  # Goliath
+    "Goodgrace"  # Goodgrace
+    "Governor"  # Governor
+    "Grace Dieu"  # Grace Dieu
+    "Grafton"  # Grafton
+    "Grampus"  # Grampus
+    "Grand Mistress"  # Grand Mistress
+    "Grantham"  # Grantham
+    "Great Bark"  # Great Bark
+    "Great Bark Aiger"  # Great Bark Aiger
+    "Great Charity"  # Great Charity
+    "Great Elizabeth"  # Great Elizabeth
+    "Great Galley"  # Great Galley
+    "Great Gift"  # Great Gift
+    "Great Harry"  # Great Harry
+    "Great Nicholas"  # Great Nicholas
+    "Great Pinnace"  # Great Pinnace
+    "Great Zebra"  # Great Zebra
+    "Green Dragon"  # Green Dragon
+    "Greenwich"  # Greenwich
+    "Greyhound"  # Greyhound
+    "Griffin"  # Griffin
+    "Guernsey"  # Guernsey
+    "Guide"  # Guide
+    "Guilford"  # Guilford
+    "Guinea"  # Guinea
+    "Half Moon"  # Half Moon
+    "Hampshire"  # Hampshire
+    "Hampton Court"  # Hampton Court
+    "Hannibal"  # Hannibal
+    "Hare"  # Hare
+    "Harie Sandwich"  # Harie Sandwich
+    "Harpy"  # Harpy
+    "Harwich"  # Harwich
+    "Hastings"  # Hastings
+    "Hawke"  # Hawke
+    "Hazardous"  # Hazardous
+    "Heart"  # Heart
+    "Hector"  # Hector
+    "Helverson"  # Helverson
+    "Henrietta Maria"  # Henrietta Maria
+    "Henry Grace a Dieu"  # Henry Grace a Dieu
+    "Henry Hampton"  # Henry Hampton
+    "Hercules"  # Hercules
+    "Hermione"  # Hermione
+    "Hero"  # Hero
+    "Hibernia"  # Hibernia
+    "Hind"  # Hind
+    "Hogue"  # Hogue
+    "Holighost Spayne"  # Holighost Spayne
+    "Hope"  # Hope
+    "Hope Bark"  # Hope Bark
+    "Hopeful Adventure"  # Hopeful Adventure
+    "House of Sweeds"  # House of Sweeds
+    "Humber"  # Humber
+    "Hunter"  # Hunter
+    "Hussar"  # Hussar
+    "Illustrious"  # Illustrious
+    "Impregnable"  # Impregnable
+    "Increase"  # Increase
+    "Indefatigable"  # Indefatigable
+    "Inflexible"  # Inflexible
+    "Intrepid"  # Intrepid
+    "Invincible"  # Invincible
+    "Ipswich"  # Ipswich
+    "Isis"  # Isis
+    "Islip"  # Islip
+    "James"  # James
+    "James Galley"  # James Galley
+    "James of Hull"  # James of Hull
+    "Jennet"  # Jennet
+    "Jennet Prywin"  # Jennet Prywin
+    "Jer Falcon"  # Jer Falcon
+    "Jersey"  # Jersey
+    "Jesus"  # Jesus
+    "Jesus of Lubeck"  # Jesus of Lubeck
+    "John Baptist"  # John Baptist
+    "John of Greenwich"  # John of Greenwich
+    "Juno"  # Juno
+    "Kateryn Galley"  # Kateryn Galley
+    "Katherine"  # Katherine
+    "Katherine Bark"  # Katherine Bark
+    "Kent"  # Kent
+    "Kingfisher"  # Kingfisher
+    "Kingston"  # Kingston
+    "Kinsale"  # Kinsale
+    "Lancaster"  # Lancaster
+    "Langport"  # Langport
+    "Lapwing"  # Lapwing
+    "Lark"  # Lark
+    "Laurel"  # Laurel
+    "Leander"  # Leander
+    "Lee"  # Lee
+    "Lenox"  # Lenox
+    "Leopard"  # Leopard
+    "Less Bark"  # Less Bark
+    "Less Pinnace"  # Less Pinnace
+    "Less Zebra"  # Less Zebra
+    "Lichfield"  # Lichfield
+    "Lincoln"  # Lincoln
+    "Lion's Whelp"  # Lion's Whelp
+    "Little Barbara"  # Little Barbara
+    "Little Charity"  # Little Charity
+    "Lively"  # Lively
+    "Lizard"  # Lizard
+    "London"  # London
+    "Lowestoffe"  # Lowestoffe
+    "Loyal London"  # Loyal London
+    "Ludlow"  # Ludlow
+    "Lyme"  # Lyme
+    "Lys"  # Lys
+    "Magdala"  # Magdala
+    "Magdeline"  # Magdeline
+    "Magnanime"  # Magnanime
+    "Magnificent"  # Magnificent
+    "Maidstone"  # Maidstone
+    "Majestic"  # Majestic
+    "Makeshift"  # Makeshift
+    "Margaret"  # Margaret
+    "Marie Hampton"  # Marie Hampton
+    "Marie Spayne"  # Marie Spayne
+    "Marigold"  # Marigold
+    "Marlborough"  # Marlborough
+    "Marlion"  # Marlion
+    "Marmaduke"  # Marmaduke
+    "Marryan"  # Marryan
+    "Mars"  # Mars
+    "Marston Moor"  # Marston Moor
+    "Martin"  # Martin
+    "Mary"  # Mary
+    "Mary and Joseph"  # Mary and Joseph
+    "Mary and John"  # Mary and John
+    "Mary Antrim"  # Mary Antrim
+    "Mary Fortune"  # Mary Fortune
+    "Mary Gloria"  # Mary Gloria
+    "Mary Grace"  # Mary Grace
+    "Mary Guildford"  # Mary Guildford
+    "Mary Hambrough"  # Mary Hambrough
+    "Mary Howard"  # Mary Howard
+    "Mary Imperial"  # Mary Imperial
+    "Mary James"  # Mary James
+    "Mary Norwell"  # Mary Norwell
+    "Mary Odierne"  # Mary Odierne
+    "Mary Rose"  # Mary Rose
+    "Mary Thomas"  # Mary Thomas
+    "Mary Willoughby"  # Mary Willoughby
+    "Matthew"  # Matthew
+    "Matthew Gonson"  # Matthew Gonson
+    "Mawdlyn of Deptford"  # Mawdlyn of Deptford
+    "Medusa"  # Medusa
+    "Medway"  # Medway
+    "Meeanee"  # Meeanee
+    "Melville"  # Melville
+    "Mercury"  # Mercury
+    "Merhonour"  # Merhonour
+    "Merlin"  # Merlin
+    "Mermaid"  # Mermaid
+    "Michael"  # Michael
+    "Milford"  # Milford
+    "Minden"  # Minden
+    "Minion"  # Minion
+    "Minnikin"  # Minnikin
+    "Minotaur"  # Minotaur
+    "Moderate"  # Moderate
+    "Monarch"  # Monarch
+    "Monck"  # Monck
+    "Monmouth"  # Monmouth
+    "Montagu"  # Montagu
+    "Moon"  # Moon
+    "Moor"  # Moor
+    "Mordaunt"  # Mordaunt
+    "Mulgrave"  # Mulgrave
+    "Namur"  # Namur
+    "Naseby"  # Naseby
+    "Nassau"  # Nassau
+    "Neptune"  # Neptune
+    "New Bark"  # New Bark
+    "Newark"  # Newark
+    "Newcastle"  # Newcastle
+    "Nightingale"  # Nightingale
+    "Nonpareil"  # Nonpareil
+    "Nonsuch"  # Nonsuch
+    "Norfolk"  # Norfolk
+    "Northumberland"  # Northumberland
+    "Norwich"  # Norwich
+    "Nottingham"  # Nottingham
+    "Ocean"  # Ocean
+    "Orford"  # Orford
+    "Orion"  # Orion
+    "Ormonde"  # Ormonde
+    "Ossory"  # Ossory
+    "Oxford"  # Oxford
+    "Pallas"  # Pallas
+    "Pansy"  # Pansy
+    "Panther"  # Panther
+    "Parrot"  # Parrot
+    "Patrick"  # Patrick
+    "Paul"  # Paul
+    "Pelican"  # Pelican
+    "Pembroke"  # Pembroke
+    "Pendennis"  # Pendennis
+    "Perseus"  # Perseus
+    "Peter"  # Peter
+    "Peter Pomegranate"  # Peter Pomegranate
+    "Philip and Mary"  # Philip and Mary
+    "Pitt"  # Pitt
+    "Plymouth"  # Plymouth
+    "Poictiers"  # Poictiers
+    "Polyphemus"  # Polyphemus
+    "Popinjay"  # Popinjay
+    "Porcupine"  # Porcupine
+    "Port Mahon"  # Port Mahon
+    "Portland"  # Portland
+    "Powerful"  # Powerful
+    "President"  # President
+    "Preston"  # Preston
+    "Primrose"  # Primrose
+    "Primrose Hoy"  # Primrose Hoy
+    "Prince"  # Prince
+    "Prince Consort"  # Prince Consort
+    "Prince Frederick"  # Prince Frederick
+    "Prince George"  # Prince George
+    "Prince of Orange"  # Prince of Orange
+    "Prince of Wales"  # Prince of Wales
+    "Prince Royal"  # Prince Royal
+    "Princess Amelia"  # Princess Amelia
+    "Princess Caroline"  # Princess Caroline
+    "Princess Louisa"  # Princess Louisa
+    "Princess Royal"  # Princess Royal
+    "Promt"  # Promt
+    "Prudent"  # Prudent
+    "Queen"  # Queen
+    "Queen Charlotte"  # Queen Charlotte
+    "Quittance"  # Quittance
+    "Rainbow"  # Rainbow
+    "Raisonnable"  # Raisonnable
+    "Ramillies"  # Ramillies
+    "Ranelagh"  # Ranelagh
+    "Red Lion"  # Red Lion
+    "Redoubtable"  # Redoubtable
+    "Reformation"  # Reformation
+    "Regent"  # Regent
+    "Renown"  # Renown
+    "Repulse"  # Repulse
+    "Research"  # Research
+    "Reserve"  # Reserve
+    "Resistance"  # Resistance
+    "Resolution"  # Resolution
+    "Restoration"  # Restoration
+    "Revenge"  # Revenge
+    "Revenge of Whitehall"  # Revenge of Whitehall
+    "Rippon"  # Rippon
+    "Rochester"  # Rochester
+    "Rochfort"  # Rochfort
+    "Rodney"  # Rodney
+    "Roebuck"  # Roebuck
+    "Romney"  # Romney
+    "Roo"  # Roo
+    "Rose Galley"  # Rose Galley
+    "Rosebush"  # Rosebush
+    "Royal Adelaide"  # Royal Adelaide
+    "Royal Alfred"  # Royal Alfred
+    "Royal Anne Galley"  # Royal Anne Galley
+    "Royal Charles"  # Royal Charles
+    "Royal James"  # Royal James
+    "Royal Katherine"  # Royal Katherine
+    "Royal Oak"  # Royal Oak
+    "Royal Sovereign"  # Royal Sovereign
+    "Royal William"  # Royal William
+    "Ruby"  # Ruby
+    "Rupert"  # Rupert
+    "Russell"  # Russell
+    "Sacrett"  # Sacrett
+    "Saint Albans"  # Saint Albans
+    "Saint Andrew"  # Saint Andrew
+    "Saint David"  # Saint David
+    "Saint George"  # Saint George
+    "Saint Lawrence"  # Saint Lawrence
+    "Saint Michael"  # Saint Michael
+    "Saint Patrick"  # Saint Patrick
+    "Saint"  # Saint
+    "Paul"  # Paul
+    "Saker"  # Saker
+    "Salamander"  # Salamander
+    "Salisbury"  # Salisbury
+    "Sampson"  # Sampson
+    "Sandwich"  # Sandwich
+    "Sapphire"  # Sapphire
+    "Satisfaction"  # Satisfaction
+    "Saturn"  # Saturn
+    "Saudadoes"  # Saudadoes
+    "Scarborough"  # Scarborough
+    "Scipio"  # Scipio
+    "Seahorse"  # Seahorse
+    "Search"  # Search
+    "Sedgemoor"  # Sedgemoor
+    "Selby"  # Selby
+    "Seven Oaks"  # Seven Oaks
+    "Seven Stars"  # Seven Stars
+    "Severn"  # Severn
+    "Sheerness"  # Sheerness
+    "Shrewsbury"  # Shrewsbury
+    "Siren"  # Siren
+    "Slothany"  # Slothany
+    "Small Swallow"  # Small Swallow
+    "Solebay"  # Solebay
+    "Solitaire"  # Solitaire
+    "Somerset"  # Somerset
+    "Sorlings"  # Sorlings
+    "Southampton"  # Southampton
+    "Southsea Castle"  # Southsea Castle
+    "Sovereign"  # Sovereign
+    "Sovereign of the Seas"  # Sovereign of the Seas
+    "Speaker"  # Speaker
+    "Speedwell"  # Speedwell
+    "Spencer"  # Spencer
+    "Sphinx"  # Sphinx
+    "Splendid"  # Splendid
+    "Sprite"  # Sprite
+    "Stag"  # Stag
+    "Standard"  # Standard
+    "Stately"  # Stately
+    "Stirling Castle"  # Stirling Castle
+    "Stork"  # Stork
+    "Strafford"  # Strafford
+    "Struss"  # Struss
+    "Success"  # Success
+    "Suffolk"  # Suffolk
+    "Sunderland"  # Sunderland
+    "Sunne"  # Sunne
+    "Superb"  # Superb
+    "Sussex"  # Sussex
+    "Sutherland"  # Sutherland
+    "Swallow"  # Swallow
+    "Swan"  # Swan
+    "Sweepstake"  # Sweepstake
+    "Swift"  # Swift
+    "Swiftsure"  # Swiftsure
+    "Tartar"  # Tartar
+    "Tavistock"  # Tavistock
+    "Temeraire"  # Temeraire
+    "Terrible"  # Terrible
+    "Theseus"  # Theseus
+    "Thomas"  # Thomas
+    "Three Kings"  # Three Kings
+    "Thunderer"  # Thunderer
+    "Tiger"  # Tiger
+    "Tilbury"  # Tilbury
+    "Torbay"  # Torbay
+    "Torrington"  # Torrington
+    "Towey"  # Towey
+    "Tramontana"  # Tramontana
+    "Tredagh"  # Tredagh
+    "Trego Ronnyger"  # Trego Ronnyger
+    "Tremendous"  # Tremendous
+    "Trident"  # Trident
+    "Trinity"  # Trinity
+    "Trinity Henry"  # Trinity Henry
+    "Trinity Royal"  # Trinity Royal
+    "Triton"  # Triton
+    "Triumph"  # Triumph
+    "Trusty"  # Trusty
+    "Trywright"  # Trywright
+    "Two Lions"  # Two Lions
+    "Unicorn"  # Unicorn
+    "Union"  # Union
+    "Unity"  # Unity
+    "Valiant"  # Valiant
+    "Vanguard"  # Vanguard
+    "Venerable"  # Venerable
+    "Vestal"  # Vestal
+    "Veteran"  # Veteran
+    "Victory"  # Victory
+    "Vigo"  # Vigo
+    "Vindictive"  # Vindictive
+    "Violet"  # Violet
+    "Volage"  # Volage
+    "Warrior"  # Warrior
+    "Warspite"  # Warspite
+    "Warwick"  # Warwick
+    "Westergate"  # Westergate
+    "Weymouth"  # Weymouth
+    "White Bear"  # White Bear
+    "White Raven"  # White Raven
+    "Winchester"  # Winchester
+    "Windsor"  # Windsor
+    "Windsor Castle"  # Windsor Castle
+    "Wivern"  # Wivern
+    "Woolwich"  # Woolwich
+    "Worcester"  # Worcester
+    "Yarmouth"  # Yarmouth
+    "York"  # York
+    "Young Prince"  # Young Prince
+    "Zealous"  # Zealous
+}
+army_names = {
+    "Royal Army"  # Royal Army
+    "Army of Scotland"  # Army of Scotland
+    "Army of Ireland"  # Army of Ireland
+}
+fleet_names = {
+    "Royal Navy"  # Royal Navy
+    "Blue Squadron"  # Blue Squadron
+    "Red Squadron"  # Red Squadron
+    "White Squadron"  # White Squadron
+    "North Sea Squadron"  # North Sea Squadron
+    "Channel Squadron"  # Channel Squadron
+}

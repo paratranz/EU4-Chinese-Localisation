@@ -1,0 +1,244 @@
+﻿graphical_culture = westerngfx
+color = {
+    131
+    138
+    116
+}
+historical_idea_groups = {
+    defensive_ideas
+    trade_ideas
+    religious_ideas
+    diplomatic_ideas
+    economic_ideas
+    innovativeness_ideas
+    maritime_ideas
+    spy_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    chevauchee
+    western_men_at_arms
+    swiss_landsknechten
+    dutch_maurician
+    french_caracolle
+    anglofrench_line
+    french_dragoon
+    french_bluecoat
+    french_cuirassier
+    french_impulse
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Charles #0" = 5
+    "Édouard #1" = 1
+    "Jean #1" = 0
+    "Guillaume #2" = 0
+    "Adrien #0" = 0
+    "Amédée #0" = 0
+    "Artus #0" = 0
+    "Blaise #0" = 0
+    "Constant #0" = 0
+    "Didier #0" = 0
+    "Eudes #0" = -1
+    "Gilles #0" = 0
+    "Isembart #0" = 0
+    "Jérôme #0" = 5
+    "Léon #0" = 0
+    "Marin #0" = 0
+    "Maurice #0" = 0
+    "Quentin #0" = 0
+    "Romain #0" = 0
+    "Zacharie #0" = 0
+    "Sibylle #0" = -1
+    "Henri #4" = 20
+    "Godefroid #1" = 1
+    "Étienne #1" = 0
+    "André #0" = 0
+    "Claude #0" = 0
+    "Émery #0" = -1
+    "Hercule #0" = 0
+    "Julien #0" = 0
+}
+leader_names = {
+    "d'Amfreville"  # d'Amfreville
+    "d'Abancourt"  # d'Abancourt
+    "d'Aboville"  # d'Aboville
+    "de Bailleul"  # de Bailleul
+    "de Berquetot"  # de Berquetot
+    "de Béthencourt"  # de Béthencourt
+    "de la Boucque"  # de la Boucque
+    "de Bracquemont"  # de Bracquemont
+    "de Brionne"  # de Brionne
+    "de Croismarie"  # de Croismarie
+    "de Crottay"  # de Crottay
+    "du Chastel"  # du Chastel
+    "de Dampierre"  # de Dampierre
+    "Duquesne"  # Duquesne
+    "d'Émondeville"  # d'Émondeville
+    "d'Estrimont"  # d'Estrimont
+    "Esquemelin"  # Esquemelin
+    "de Fréville"  # de Fréville
+    "de Fry"  # de Fry
+    "de la Galissonière"  # de la Galissonière
+    "Gosselin"  # Gosselin
+    "de Graville"  # de Graville
+    "Guillaumery"  # Guillaumery
+    "d'Harcourt"  # d'Harcourt
+    "d'Herbouville"  # d'Herbouville
+    "de Houdetot"  # de Houdetot
+    "de La Houssaye"  # de La Houssaye
+    "d'Imbleval"  # d'Imbleval
+    "de Joigny"  # de Joigny
+    "de Jourville"  # de Jourville
+    "de La Motte"  # de La Motte
+    "Le Moyne"  # Le Moyne
+    "de Lenemont"  # de Lenemont
+    "Lesperon"  # Lesperon
+    "de Lessard"  # de Lessard
+    "Le Tellier"  # Le Tellier
+    "de Marigny"  # de Marigny
+    "de Mauquenchy"  # de Mauquenchy
+    "de Mornay"  # de Mornay
+    "du Moucel"  # du Moucel
+    "de Noscey"  # de Noscey
+    "d'Alençon"  # d'Alençon
+    "d'Ozenne"  # d'Ozenne
+    "de Parbay"  # de Parbay
+    "Parmentier"  # Parmentier
+    "de Presteval"  # de Presteval
+    "de Quenonville"  # de Quenonville
+    "de Quesdeville"  # de Quesdeville
+    "du Quesnoy"  # du Quesnoy
+    "de Riancourt"  # de Riancourt
+    "Roncerolles "  # Roncerolles 
+    "de Saint-Passy"  # de Saint-Passy
+    "de Saint-Bosmer"  # de Saint-Bosmer
+    "de Sébouville"  # de Sébouville
+    "de Tallebot"  # de Tallebot
+    "de Tassigny"  # de Tassigny
+    "de Thiboutot"  # de Thiboutot
+    "de Valiquerville"  # de Valiquerville
+    "de Vauquelin"  # de Vauquelin
+    "d'Ymonville"  # d'Ymonville
+}
+ship_names = {
+    "l'Actif"  # l'Actif
+    "l'Adroit"  # l'Adroit
+    "l'Aigrette"  # l'Aigrette
+    "l'Alouette"  # l'Alouette
+    "l'Amarante"  # l'Amarante
+    "l'Angélique"  # l'Angélique
+    "l'Ardent"  # l'Ardent
+    "l'Aréthuse"  # l'Aréthuse
+    "l'Arrogant"  # l'Arrogant
+    "l'Alcyon"  # l'Alcyon
+    "l'Atalante"  # l'Atalante
+    "l'Aurore"  # l'Aurore
+    "la Balance"  # la Balance
+    "la Blanche"  # la Blanche
+    "la Blonde"  # la Blonde
+    "le Brave"  # le Brave
+    "la Brune"  # la Brune
+    "la Bricolle"  # la Bricolle
+    "la Brûlante"  # la Brûlante
+    "la Carpe"  # la Carpe
+    "la Charente"  # la Charente
+    "le Chariot-Royal"  # le Chariot-Royal
+    "la Chasse"  # la Chasse
+    "la Corneille"  # la Corneille
+    "la Coulisse"  # la Coulisse
+    "la Cruelle"  # la Cruelle
+    "la Curieuse"  # la Curieuse
+    "le Danaé"  # le Danaé
+    "la Danuble"  # la Danuble
+    "la Dauphine"  # la Dauphine
+    "la Digue"  # la Digue
+    "la Diligente"  # la Diligente
+    "la Dryade"  # la Dryade
+    "l'Écluse"  # l'Écluse
+    "l'Écueil"  # l'Écueil
+    "l'Embuscade"  # l'Embuscade
+    "l'Émeraude"  # l'Émeraude
+    "l'Enjouée"  # l'Enjouée
+    "l'Entendue"  # l'Entendue
+    "l'Éole"  # l'Éole
+    "l'Étoile"  # l'Étoile
+    "la Favorite"  # la Favorite
+    "la Fée"  # la Fée
+    "la Félicité"  # la Félicité
+    "la Fidèle"  # la Fidèle
+    "la Fine"  # la Fine
+    "la Flatteuse"  # la Flatteuse
+    "la Flore"  # la Flore
+    "le François"  # le François
+    "le Gaillard"  # le Gaillard
+    "la Galatée"  # la Galatée
+    "la Garonne"  # la Garonne
+    "la Gazelle"  # la Gazelle
+    "la Gentille"  # la Gentille
+    "la Gironde"  # la Gironde
+    "la Gloire"  # la Gloire
+    "la Grâce"  # la Grâce
+    "la Gracieuse"  # la Gracieuse
+    "le Grand-Ponton"  # le Grand-Ponton
+    "la Grive"  # la Grive
+    "l'Harmonie"  # l'Harmonie
+    "l'Hébé"  # l'Hébé
+    "l'Heureux"  # l'Heureux
+    "l'Inconstante"  # l'Inconstante
+    "l'Infidèle"  # l'Infidèle
+    "le Jason"  # le Jason
+    "la Jolie"  # la Jolie
+    "la Joyeuse"  # la Joyeuse
+    "la Junon"  # la Junon
+    "le Juste"  # le Juste
+    "le Léger"  # le Léger
+    "Le Havre"  # Le Havre
+    "la Levrette"  # la Levrette
+    "le Lion"  # le Lion
+    "la Marie-Françoise"  # la Marie-Françoise
+    "le Marin"  # le Marin
+    "la Martiale"  # la Martiale
+    "la Menaçante"  # la Menaçante
+    "la Nayade"  # la Nayade
+    "la Normande"  # la Normande
+    "l'Orage"  # l'Orage
+    "l'Oriflamme"  # l'Oriflamme
+    "le Palmier"  # le Palmier
+    "la Palombe"  # la Palombe
+    "la Pélerine"  # la Pélerine
+    "le Petit-Ponton"  # le Petit-Ponton
+    "le Petit Saint-François"  # le Petit Saint-François
+    "la Pintade"  # la Pintade
+    "le Précieux"  # le Précieux
+    "le Prompte"  # le Prompte
+    "le Résolu"  # le Résolu
+    "la Rocheloise"  # la Rocheloise
+    "le Rubis"  # le Rubis
+    "le Saint-Louis"  # le Saint-Louis
+    "le Saint-Michel"  # le Saint-Michel
+    "le Sans-Pareil"  # le Sans-Pareil
+    "la Somme"  # la Somme
+    "la Subtile"  # la Subtile
+    "la Trompeuse"  # la Trompeuse
+    "la Turquoise"  # la Turquoise
+}
+army_names = {
+    "Armée du Cotentin"  # Armée du Cotentin
+    "Armée du Bessin"  # Armée du Bessin
+    "Armée du Pays d'Auge"  # Armée du Pays d'Auge
+    "Armée d'Alençon"  # Armée d'Alençon
+    "Armée de Caen"  # Armée de Caen
+    "Armée d'Argentan"  # Armée d'Argentan
+    "Armée de Falaise"  # Armée de Falaise
+    "Armée du Virois"  # Armée du Virois
+    "Armée de Neubourg"  # Armée de Neubourg
+    "Armée de l'Avranchin"  # Armée de l'Avranchin
+    "Armée du Perche"  # Armée du Perche
+    "Armée du Mortainais"  # Armée du Mortainais
+    "Armée du Pays de Caux"  # Armée du Pays de Caux
+    "Armée de $PROVINCE$"  # Armée de $PROVINCE$
+}

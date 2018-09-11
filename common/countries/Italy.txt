@@ -1,0 +1,591 @@
+﻿graphical_culture = westerngfx
+color = {
+    125
+    171
+    84
+}
+revolutionary_colors = {
+    10
+    0
+    5
+}
+historical_idea_groups = {
+    administrative_ideas
+    defensive_ideas
+    trade_ideas
+    innovativeness_ideas
+    maritime_ideas
+    offensive_ideas
+    economic_ideas
+    quality_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    western_medieval_knights
+    western_men_at_arms
+    italian_condotta
+    austrian_tercio
+    austrian_grenzer
+    austrian_hussar
+    austrian_white_coat
+    austrian_jaeger
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Ferdinando #0" = 60
+    "Lodovico #2" = 20
+    "Carlo #4 Felice" = 20
+    "Alessandre #0" = 20
+    "Galeazzo Maria #0" = 10
+    "Gian Gastone #0" = 10
+    "Napoleone #0" = 5
+    "Vittorio Amedeo #0" = 5
+    "Antonio #0" = 5
+    "Eugenio #0" = 5
+    "Gian Carlo #0" = 0
+    "Pietro #0" = 0
+    "Rodolfo #1" = -1
+    "Augusto #0" = 20
+    "Emmanuele Filiberto #0" = 10
+    "Giovanni #0" = 5
+    "Leopoldo #0" = -1
+    "Maurizio #0" = 5
+    "Raniero #0" = 5
+    "Agostino #0" = 0
+    "Demetrio #0" = 0
+    "Giordano #0" = 0
+    "Niccolò #0" = 0
+    "Romeo #0" = 0
+    "Vittorio #0" = 0
+    "Zaira #0" = -1
+    "Cosimo #0" = 60
+    "Carlo #4 Emmanuele" = 20
+    "Francesco #0 Stefano" = 10
+    "Massimiliano #0" = 5
+    "Carlo #4" = 5
+    "Filippo #0" = 0
+    "Alberto #1" = 0
+    "Benedetto #0" = 20
+    "Giuseppe #0" = 0
+}
+leader_names = {
+    "Appiani d'Aragona"  # Appiani d'Aragona
+    "Arborio Mella"  # Arborio Mella
+    "Barberini"  # Barberini
+    "Barzagli"  # Barzagli
+    "Boncompagni"  # Boncompagni
+    "Borghese"  # Borghese
+    "Borromeo"  # Borromeo
+    "Buonarroti"  # Buonarroti
+    "di Busca"  # di Busca
+    "di Campofregoso"  # di Campofregoso
+    "Carafa"  # Carafa
+    "di Cardé"  # di Cardé
+    "del Carreto"  # del Carreto
+    "Casanova"  # Casanova
+    "Castagna"  # Castagna
+    "Castagnaro"  # Castagnaro
+    "di Cavour"  # di Cavour
+    "Chigi"  # Chigi
+    "Colonna"  # Colonna
+    "Contarini"  # Contarini
+    "Conti"  # Conti
+    "Corsini"  # Corsini
+    "Cybo"  # Cybo
+    "Doria di Cirié"  # Doria di Cirié
+    "Doria-Landi"  # Doria-Landi
+    "Doria-Pamphili"  # Doria-Pamphili
+    "d'Este"  # d'Este
+    "di Farnese"  # di Farnese
+    "di Ferrari"  # di Ferrari
+    "Gaetani dell'Aquila"  # Gaetani dell'Aquila
+    "Galilei"  # Galilei
+    "Gambacorta"  # Gambacorta
+    "Gentileschi"  # Gentileschi
+    "Giustiniani"  # Giustiniani
+    "Gonzaga"  # Gonzaga
+    "Grimaldi"  # Grimaldi
+    "Ludovisi"  # Ludovisi
+    "Malaspina"  # Malaspina
+    "de' Medici"  # de' Medici
+    "Melzi"  # Melzi
+    "Montefeltro"  # Montefeltro
+    "Orsini"  # Orsini
+    "di Paesana"  # di Paesana
+    "Paleologi Montferrato"  # Paleologi Montferrato
+    "Pallavicini"  # Pallavicini
+    "Paradisi"  # Paradisi
+    "Petrucci"  # Petrucci
+    "Pico"  # Pico
+    "Pignatelli"  # Pignatelli
+    "dalla Rosa"  # dalla Rosa
+    "della Rovere"  # della Rovere
+    "di Saluzzo"  # di Saluzzo
+    "di Savoia"  # di Savoia
+    "Sfondrati"  # Sfondrati
+    "Sforza"  # Sforza
+    "Spinola"  # Spinola
+    "della Torre"  # della Torre
+    "della Ubaldini"  # della Ubaldini
+    "Vico"  # Vico
+    "Visconti"  # Visconti
+}
+ship_names = {
+    "Abbodanza e Ricchezza"  # Abbodanza e Ricchezza
+    "Adria in Pace"  # Adria in Pace
+    "Amazzone Guerriera"  # Amazzone Guerriera
+    "Anna Maria"  # Anna Maria
+    "Aquila Incoronata"  # Aquila Incoronata
+    "Aquila Reale"  # Aquila Reale
+    "Aquila Valeria"  # Aquila Valeria
+    "Aquila Volante"  # Aquila Volante
+    "Arca di Noè"  # Arca di Noè
+    "Arma di Lech"  # Arma di Lech
+    "Arma di Nassau"  # Arma di Nassau
+    "Barza Grande"  # Barza Grande
+    "Beata Margherita"  # Beata Margherita
+    "Bella Genovese"  # Bella Genovese
+    "Buon Consiglio"  # Buon Consiglio
+    "Campo d'Oche"  # Campo d'Oche
+    "Capitana Barbarigo"  # Capitana Barbarigo
+    "Capitana Canale"  # Capitana Canale
+    "Capitana dei Mari"  # Capitana dei Mari
+    "Capitana di Sua Santità"  # Capitana di Sua Santità
+    "Capitana Lanterna"  # Capitana Lanterna
+    "Carli Regolati"  # Carli Regolati
+    "Carlo Duca di Lorena"  # Carlo Duca di Lorena
+    "Cavalier Angelo"  # Cavalier Angelo
+    "Cavallo Marino di Candia"  # Cavallo Marino di Candia
+    "Cavallo Marino"  # Cavallo Marino
+    "Cervo d'Oro"  # Cervo d'Oro
+    "Cristo di Venezia"  # Cristo di Venezia
+    "Cocha Granda di Comun"  # Cocha Granda di Comun
+    "Colomba d'Oro"  # Colomba d'Oro
+    "Commerce di Genova"  # Commerce di Genova
+    "Corona d'Or"  # Corona d'Or
+    "Corriera Veneta"  # Corriera Veneta
+    "Costanza Guerriera"  # Costanza Guerriera
+    "Cristo di Candia"  # Cristo di Candia
+    "Cristo di Corfù"  # Cristo di Corfù
+    "Cristo Resuscitato di Veglia"  # Cristo Resuscitato di Veglia
+    "Cristo Resuscitato di Venezia"  # Cristo Resuscitato di Venezia
+    "Cristo Risorto"  # Cristo Risorto
+    "Croce d'Oro"  # Croce d'Oro
+    "Croce Rossa"  # Croce Rossa
+    "Dama a Cavallo"  # Dama a Cavallo
+    "David Golia"  # David Golia
+    "Dio Padre e Santa Trinità"  # Dio Padre e Santa Trinità
+    "Donna con il Cavallo Armata"  # Donna con il Cavallo Armata
+    "Drago Volante"  # Drago Volante
+    "Duca di Lorena"  # Duca di Lorena
+    "Due Delfini"  # Due Delfini
+    "Due Leoni"  # Due Leoni
+    "Due Mani"  # Due Mani
+    "Elettore di Colonia"  # Elettore di Colonia
+    "Ercole Grande"  # Ercole Grande
+    "Ercole Piccolo"  # Ercole Piccolo
+    "Ercole Vittorioso"  # Ercole Vittorioso
+    "Fama Volante"  # Fama Volante
+    "Fattor del Zante"  # Fattor del Zante
+    "Fede Guerriera"  # Fede Guerriera
+    "Fontana d'Oro"  # Fontana d'Oro
+    "Fortuna Guerriera"  # Fortuna Guerriera
+    "Fortunato Jacob"  # Fortunato Jacob
+    "Fregata Contarini"  # Fregata Contarini
+    "Galeone di San Marco"  # Galeone di San Marco
+    "Galeone Grande"  # Galeone Grande
+    "Galeone Piccolo"  # Galeone Piccolo
+    "Galeone Pubblico"  # Galeone Pubblico
+    "Galera Balbi"  # Galera Balbi
+    "Galera Bembo"  # Galera Bembo
+    "Galera Civran"  # Galera Civran
+    "Galera Diedo"  # Galera Diedo
+    "Galera Dona"  # Galera Dona
+    "Galera Gritti"  # Galera Gritti
+    "Galera Magno"  # Galera Magno
+    "Galera Palma"  # Galera Palma
+    "Galera Paruta"  # Galera Paruta
+    "Galera Sagredo"  # Galera Sagredo
+    "Galera Soranzo"  # Galera Soranzo
+    "Giglio d'Oro"  # Giglio d'Oro
+    "Giove Fulminante"  # Giove Fulminante
+    "Gloria Veneta"  # Gloria Veneta
+    "Gran Delfino"  # Gran Delfino
+    "Grande Alessandro"  # Grande Alessandro
+    "Haute Combe"  # Haute Combe
+    "I Sette Fratelli"  # I Sette Fratelli
+    "I Tre Re"  # I Tre Re
+    "Illuminazione Celeste"  # Illuminazione Celeste
+    "Immacolata Concezione"  # Immacolata Concezione
+    "Isabella Maria"  # Isabella Maria
+    "La Donna"  # La Donna
+    "Leon Coronato"  # Leon Coronato
+    "Leon d'Oro"  # Leon d'Oro
+    "Leon Incoronato"  # Leon Incoronato
+    "Leon Negro"  # Leon Negro
+    "Leone di Candia"  # Leone di Candia
+    "Leone di Capodistria"  # Leone di Capodistria
+    "Leone e Fenice"  # Leone e Fenice
+    "Leone Trionfante"  # Leone Trionfante
+    "Lepre Rossa"  # Lepre Rossa
+    "Lucien Charles"  # Lucien Charles
+    "Madonna degli Angeli"  # Madonna degli Angeli
+    "Madonna dei Carmine"  # Madonna dei Carmine
+    "Madonna dei Miracoli"  # Madonna dei Miracoli
+    "Madonna dei Sette Dolori"  # Madonna dei Sette Dolori
+    "Madonna del Rosario e San Domenico"  # Madonna del Rosario e San Domenico
+    "Madonna del Rosario"  # Madonna del Rosario
+    "Madonna dell'Arsenal"  # Madonna dell'Arsenal
+    "Madonna delle Grazie"  # Madonna delle Grazie
+    "Madonna delle Salute"  # Madonna delle Salute
+    "Madonna delle Vigne"  # Madonna delle Vigne
+    "Madonna di Loreto e San Paolo"  # Madonna di Loreto e San Paolo
+    "Madonna di Loreto"  # Madonna di Loreto
+    "Madonna di Marina"  # Madonna di Marina
+    "Marchese Doria"  # Marchese Doria
+    "Maria Teresa"  # Maria Teresa
+    "Mezza Luna"  # Mezza Luna
+    "Monton d'Oro"  # Monton d'Oro
+    "Nostra Donna"  # Nostra Donna
+    "Nostra Signora del Rosario"  # Nostra Signora del Rosario
+    "Nostra Signora del Soccorso"  # Nostra Signora del Soccorso
+    "Nostra Signora delle Vigne"  # Nostra Signora delle Vigne
+    "Nostra Signora di Venezia"  # Nostra Signora di Venezia
+    "Nostra Signora di Zanti"  # Nostra Signora di Zanti
+    "Nostra Signora"  # Nostra Signora
+    "Nuova Caparra"  # Nuova Caparra
+    "Pace e Abbondanza"  # Pace e Abbondanza
+    "Padre Eterno"  # Padre Eterno
+    "Padrone di Davide Imperiale"  # Padrone di Davide Imperiale
+    "Piramide con Cane"  # Piramide con Cane
+    "Principe di Colonia"  # Principe di Colonia
+    "Principessa Grande"  # Principessa Grande
+    "Principessa Piccola"  # Principessa Piccola
+    "Profeta Elia"  # Profeta Elia
+    "Profeta Samuel"  # Profeta Samuel
+    "Re Attila"  # Re Attila
+    "Re David"  # Re David
+    "Redentor del Mondo"  # Redentor del Mondo
+    "Regina del Mar"  # Regina del Mar
+    "Regina Incoronata"  # Regina Incoronata
+    "Regina Isabella"  # Regina Isabella
+    "Rizzo d'Oro"  # Rizzo d'Oro
+    "Rosa Blanca"  # Rosa Blanca
+    "Rosa Moceniga"  # Rosa Moceniga
+    "Ruota con Serpente"  # Ruota con Serpente
+    "Sacra Lega"  # Sacra Lega
+    "Sacrificio d'Abramo"  # Sacrificio d'Abramo
+    "San Alvise"  # San Alvise
+    "San Andrea"  # San Andrea
+    "San Antonio Abate"  # San Antonio Abate
+    "San Antonio di Padova"  # San Antonio di Padova
+    "San Antonio"  # San Antonio
+    "San Bartolomeo"  # San Bartolomeo
+    "San Bonaventura"  # San Bonaventura
+    "San Brun"  # San Brun
+    "San Carlo Borrome"  # San Carlo Borrome
+    "San Carlo"  # San Carlo
+    "San Cristoforo"  # San Cristoforo
+    "San Demetrio"  # San Demetrio
+    "San Domenico"  # San Domenico
+    "San Ferdinando"  # San Ferdinando
+    "San Filippo"  # San Filippo
+    "San Francesco di Paola"  # San Francesco di Paola
+    "San Gabriele"  # San Gabriele
+    "San Gaetano"  # San Gaetano
+    "San Gennaro"  # San Gennaro
+    "San Giacomo"  # San Giacomo
+    "San Gioacchino"  # San Gioacchino
+    "San Giorgio"  # San Giorgio
+    "San Giovanni Battista"  # San Giovanni Battista
+    "San Giovanni"  # San Giovanni
+    "San Girolamo"  # San Girolamo
+    "San Giuseppe"  # San Giuseppe
+    "San Giulian"  # San Giulian
+    "San Guiseppe"  # San Guiseppe
+    "San Ignazio"  # San Ignazio
+    "San Iseppo"  # San Iseppo
+    "San Jacopo"  # San Jacopo
+    "San Jose"  # San Jose
+    "San Leopoldo"  # San Leopoldo
+    "San Lorenzo Giustinian"  # San Lorenzo Giustinian
+    "San Luca"  # San Luca
+    "San Luigi Gonzaga"  # San Luigi Gonzaga
+    "San Luigi"  # San Luigi
+    "San Marco e San Tito"  # San Marco e San Tito
+    "San Marco Grande"  # San Marco Grande
+    "San Marco"  # San Marco
+    "San Michele Arcangelo"  # San Michele Arcangelo
+    "San Michele"  # San Michele
+    "San Niccolò"  # San Niccolò
+    "San Paolo"  # San Paolo
+    "San Pasquale"  # San Pasquale
+    "San Pietro Apostolo"  # San Pietro Apostolo
+    "San Pietro di Alcantara"  # San Pietro di Alcantara
+    "San Pietro"  # San Pietro
+    "San Pio Quinto"  # San Pio Quinto
+    "San Sebastiano"  # San Sebastiano
+    "San Spiridione"  # San Spiridione
+    "San Teodoro"  # San Teodoro
+    "San Trifone"  # San Trifone
+    "San Vincenzo Ferrer"  # San Vincenzo Ferrer
+    "San Vittore"  # San Vittore
+    "San Vittorio"  # San Vittorio
+    "San Zaccaria"  # San Zaccaria
+    "Santa Amalia"  # Santa Amalia
+    "Santa Anna"  # Santa Anna
+    "Santa Barbara"  # Santa Barbara
+    "Santa Caterina"  # Santa Caterina
+    "Santa Chiara"  # Santa Chiara
+    "Santa Dorotea"  # Santa Dorotea
+    "Santa Elena"  # Santa Elena
+    "Santa Elisabetta"  # Santa Elisabetta
+    "Santa Francisco"  # Santa Francisco
+    "Santa Lucia"  # Santa Lucia
+    "Santa Maddalena"  # Santa Maddalena
+    "Santa Margherita"  # Santa Margherita
+    "Santa Maria Torre di Mar"  # Santa Maria Torre di Mar
+    "Santa Maria"  # Santa Maria
+    "Santa Michele Arcangelo"  # Santa Michele Arcangelo
+    "Santa Teresa"  # Santa Teresa
+    "Santa Virginia"  # Santa Virginia
+    "Sant'Alessandro"  # Sant'Alessandro
+    "Sant'Andrea"  # Sant'Andrea
+    "Sant'Angelo"  # Sant'Angelo
+    "Sant'Eufemia"  # Sant'Eufemia
+    "Santissima Annunziata"  # Santissima Annunziata
+    "Santissima Concezione"  # Santissima Concezione
+    "Santissima Trinità"  # Santissima Trinità
+    "Santissimo Crocefisso"  # Santissimo Crocefisso
+    "Scala di Giacob"  # Scala di Giacob
+    "Scudo della Fede"  # Scudo della Fede
+    "Sibilla Europa"  # Sibilla Europa
+    "Signora del Belvedere"  # Signora del Belvedere
+    "Sol d'Oro"  # Sol d'Oro
+    "Stella Maris"  # Stella Maris
+    "Tomaso Francesco"  # Tomaso Francesco
+    "Toro Negro"  # Toro Negro
+    "Tre Mani"  # Tre Mani
+    "Tre Re"  # Tre Re
+    "Uomo Armato"  # Uomo Armato
+    "Uomo di Mare"  # Uomo di Mare
+    "Valor Coronato"  # Valor Coronato
+    "Venezia Trionfante"  # Venezia Trionfante
+    "Vergine Santa"  # Vergine Santa
+    "Virgo Potens"  # Virgo Potens
+    "Vittorio Emanuele"  # Vittorio Emanuele
+    "Achille"  # Achille
+    "Agile"  # Agile
+    "Aguila"  # Aguila
+    "Alceste"  # Alceste
+    "Aletto"  # Aletto
+    "Amalia"  # Amalia
+    "Amazzone"  # Amazzone
+    "Angelo"  # Angelo
+    "Aquila"  # Aquila
+    "Archimede"  # Archimede
+    "Aretusa"  # Aretusa
+    "Armellino"  # Armellino
+    "Aurora"  # Aurora
+    "Azzardo"  # Azzardo
+    "Azzardoso"  # Azzardoso
+    "Baccana"  # Baccana
+    "Barzotto"  # Barzotto
+    "Bastarda"  # Bastarda
+    "Bechignana"  # Bechignana
+    "Bellona"  # Bellona
+    "Beroldo"  # Beroldo
+    "Braccio"  # Braccio
+    "Brava"  # Brava
+    "Bucintoro"  # Bucintoro
+    "Cacciatore"  # Cacciatore
+    "Capitana"  # Capitana
+    "Capri"  # Capri
+    "Caracciolo"  # Caracciolo
+    "Carlo"  # Carlo
+    "Felice"  # Felice
+    "Carloforte"  # Carloforte
+    "Carolana"  # Carolana
+    "Cerere"  # Cerere
+    "Cigno"  # Cigno
+    "Cingana"  # Cingana
+    "Colombo"  # Colombo
+    "Concezione"  # Concezione
+    "Concordia"  # Concordia
+    "Confidenzia"  # Confidenzia
+    "Constanza"  # Constanza
+    "Corona"  # Corona
+    "Costanza"  # Costanza
+    "Cristina"  # Cristina
+    "Cristo"  # Cristo
+    "Croce"  # Croce
+    "Cupido"  # Cupido
+    "Daino"  # Daino
+    "Determinada"  # Determinada
+    "Diamante"  # Diamante
+    "Diana"  # Diana
+    "Diligenza"  # Diligenza
+    "Donzella"  # Donzella
+    "Doria"  # Doria
+    "Ecate"  # Ecate
+    "Elbigina"  # Elbigina
+    "Enea"  # Enea
+    "Eolo"  # Eolo
+    "Ercole"  # Ercole
+    "Eridano"  # Eridano
+    "Etna"  # Etna
+    "Euridice"  # Euridice
+    "Europa"  # Europa
+    "Falco"  # Falco
+    "Falcone"  # Falcone
+    "Fama"  # Fama
+    "Fede"  # Fede
+    "Fedeltà"  # Fedeltà
+    "Fenice"  # Fenice
+    "Ferme"  # Ferme
+    "Fiamma"  # Fiamma
+    "Fiorenza"  # Fiorenza
+    "Flora"  # Flora
+    "Fortuna"  # Fortuna
+    "Forza"  # Forza
+    "Fulmine"  # Fulmine
+    "Fuoco"  # Fuoco
+    "Furia"  # Furia
+    "Galantuomo"  # Galantuomo
+    "Galatea"  # Galatea
+    "Galatea"  # Galatea
+    "Generoso"  # Generoso
+    "Gerusalemme"  # Gerusalemme
+    "Giano"  # Giano
+    "Giasone"  # Giasone
+    "Gioacchino"  # Gioacchino
+    "Gioia"  # Gioia
+    "Giove"  # Giove
+    "Giuditta"  # Giuditta
+    "Giustizia"  # Giustizia
+    "Gloria"  # Gloria
+    "Grifona"  # Grifona
+    "Gru"  # Gru
+    "Guerriera"  # Guerriera
+    "Guiditta"  # Guiditta
+    "Guiscardo"  # Guiscardo
+    "Gusmana"  # Gusmana
+    "Hardie"  # Hardie
+    "Idra"  # Idra
+    "Idra"  # Idra
+    "Intrepido"  # Intrepido
+    "Invidia"  # Invidia
+    "Ira"  # Ira
+    "Iride"  # Iride
+    "Jupiter"  # Jupiter
+    "Ketianana"  # Ketianana
+    "Lampreda"  # Lampreda
+    "Leone"  # Leone
+    "Leonessa"  # Leonessa
+    "Letiza"  # Letiza
+    "Levriero"  # Levriero
+    "Libertà"  # Libertà
+    "Liguria"  # Liguria
+    "Lomellina"  # Lomellina
+    "Luna"  # Luna
+    "Lupa"  # Lupa
+    "Maddalena"  # Maddalena
+    "Madonna"  # Madonna
+    "Marchesa"  # Marchesa
+    "Margherita"  # Margherita
+    "Medea"  # Medea
+    "Medusa"  # Medusa
+    "Megera"  # Megera
+    "Mendoza"  # Mendoza
+    "Mercurio"  # Mercurio
+    "Minerva"  # Minerva
+    "Monagina"  # Monagina
+    "Monarca"  # Monarca
+    "Mondo"  # Mondo
+    "Mongibello"  # Mongibello
+    "Montagna"  # Montagna
+    "Natività"  # Natività
+    "Nave"  # Nave
+    "Negrona"  # Negrona
+    "Neireide"  # Neireide
+    "Nettuno"  # Nettuno
+    "Nino"  # Nino
+    "Ocasion"  # Ocasion
+    "Oliva"  # Oliva
+    "Oltremare"  # Oltremare
+    "Pace"  # Pace
+    "Padrona"  # Padrona
+    "Pallade"  # Pallade
+    "Palma"  # Palma
+    "Partenope"  # Partenope
+    "Passaro"  # Passaro
+    "Patrona"  # Patrona
+    "Perla"  # Perla
+    "Piemontese"  # Piemontese
+    "Pilastro"  # Pilastro
+    "Piramide"  # Piramide
+    "Pisana"  # Pisana
+    "Polonia"  # Polonia
+    "Postiglione"  # Postiglione
+    "Prima"  # Prima
+    "Pugliese"  # Pugliese
+    "Pylades"  # Pylades
+    "Pynele"  # Pynele
+    "Raggia"  # Raggia
+    "Regina"  # Regina
+    "Roccafortis"  # Roccafortis
+    "Rodi"  # Rodi
+    "Roma"  # Roma
+    "Rondinella"  # Rondinella
+    "Rosa"  # Rosa
+    "Ruggiero"  # Ruggiero
+    "Sagittaria"  # Sagittaria
+    "Samnita"  # Samnita
+    "Scala"  # Scala
+    "Seconda"  # Seconda
+    "Serena"  # Serena
+    "Sibilla"  # Sibilla
+    "Sicilia"  # Sicilia
+    "Signora"  # Signora
+    "Simplon"  # Simplon
+    "Sirena"  # Sirena
+    "Sole"  # Sole
+    "Sparviero"  # Sparviero
+    "Speranza"  # Speranza
+    "Stabia"  # Stabia
+    "Staffetta"  # Staffetta
+    "Stromboli"  # Stromboli
+    "Suprema"  # Suprema
+    "Tancredi"  # Tancredi
+    "Taranto"  # Taranto
+    "Temperanza"  # Temperanza
+    "Terana"  # Terana
+    "Tigre"  # Tigre
+    "Tirsi"  # Tirsi
+    "Torre"  # Torre
+    "Toscana"  # Toscana
+    "Totusmundus"  # Totusmundus
+    "Trionfo"  # Trionfo
+    "Tritone"  # Tritone
+    "Tronco"  # Tronco
+    "Turca"  # Turca
+    "Urania"  # Urania
+    "Valor"  # Valor
+    "Veloce"  # Veloce
+    "Vendicatore"  # Vendicatore
+    "Venere"  # Venere
+    "Venetia"  # Venetia
+    "Vesuvio"  # Vesuvio
+    "Vigilante"  # Vigilante
+    "Vigilanza"  # Vigilanza
+    "Vittoria"  # Vittoria
+    "Volpe"  # Volpe
+    "Vulcano"  # Vulcano
+    "Zeffiro"  # Zeffiro
+}
+army_names = {
+    "Armata di $PROVINCE$"  # Armata di $PROVINCE$
+}

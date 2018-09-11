@@ -1,0 +1,597 @@
+﻿graphical_culture = westerngfx
+color = {
+    190
+    70
+    70
+}
+revolutionary_colors = {
+    5
+    0
+    5
+}
+historical_score = 1700
+preferred_religion = protestant
+historical_idea_groups = {
+    maritime_ideas
+    administrative_ideas
+    aristocracy_ideas
+    expansion_ideas
+    naval_ideas
+    trade_ideas
+    quality_ideas
+    economic_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    western_medieval_knights
+    western_men_at_arms
+    dutch_maurician
+    swedish_gallop
+    swedish_gustavian
+    swedish_caroline
+    swedish_arme_blanche
+    prussian_frederickian
+    prussian_uhlan
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Frederik #0" = 20
+    "Christoffer #3" = 10
+    "Niels #1" = 10
+    "Magnus #1" = 1
+    "Ulrik #0" = 0
+    "Vilhelm #0" = 0
+    "Valdemar #4" = 0
+    "Oluf #2" = 0
+    "Anton #0" = 0
+    "Emanuel #0" = 0
+    "Fritjof #0" = -10
+    "Gunnar #0" = -1
+    "Henrik #0" = 10
+    "Jørgen #0" = 20
+    "Peter #0" = 0
+    "Rudolf #0" = 0
+    "Stefan #0" = 0
+    "Torbald #0" = 0
+    "Vilfred #0" = 0
+    "Ernst #0" = 0
+    "Sofie #0" = -5
+    "Margrete #1" = -10
+    "Vilhelmina #0" = -1
+    "Christina #0" = -1
+    "Erik #7" = 10
+    "Karl #0" = 1
+    "Abel #1" = 0
+    "Harald #3" = 0
+    "Bent #0" = 0
+    "Frode #0" = -1
+    "Holger #0" = 0
+    "Poul #0" = 140
+}
+leader_names = {
+    "Adeler"  # Adeler
+    "Ahlefeldt"  # Ahlefeldt
+    "Akeleye"  # Akeleye
+    "Arenstorff"  # Arenstorff
+    "Bille"  # Bille
+    "Bielke"  # Bielke
+    "Brahe"  # Brahe
+    "Bernstorff"  # Bernstorff
+    "Brockenhuus"  # Brockenhuus
+    "Brock"  # Brock
+    "Christiansen"  # Christiansen
+    "Daa"  # Daa
+    "Ebbesen"  # Ebbesen
+    "Eberstein"  # Eberstein
+    "Ellbrecht"  # Ellbrecht
+    "Falkenskjold"  # Falkenskjold
+    "Fischer"  # Fischer
+    "Galt"  # Galt
+    "Gersdorff"  # Gersdorff
+    "Gjedde"  # Gjedde
+    "Gyldenløve"  # Gyldenløve
+    "Gyldenstjerne"  # Gyldenstjerne
+    "Gøye"  # Gøye
+    "Harboe"  # Harboe
+    "Hardenberg"  # Hardenberg
+    "Holstein"  # Holstein
+    "Huitfeldt"  # Huitfeldt
+    "Høegh"  # Høegh
+    "Høegh-Guldberg"  # Høegh-Guldberg
+    "Jensen"  # Jensen
+    "Juel"  # Juel
+    "Krabbe"  # Krabbe
+    "Krag"  # Krag
+    "Krumpen"  # Krumpen
+    "Knudtzon"  # Knudtzon
+    "Kvistgaard"  # Kvistgaard
+    "Kaas"  # Kaas
+    "Lillienskjold"  # Lillienskjold
+    "Lingby"  # Lingby
+    "Lunge"  # Lunge
+    "Lützow"  # Lützow
+    "Løvenørn"  # Løvenørn
+    "Moltke"  # Moltke
+    "Moth"  # Moth
+    "Munk"  # Munk
+    "Norby"  # Norby
+    "Pedersen"  # Pedersen
+    "Povlsen"  # Povlsen
+    "Pallesen"  # Pallesen
+    "Pil"  # Pil
+    "Rantzau"  # Rantzau
+    "Reventlow"  # Reventlow
+    "Rosenkrantz"  # Rosenkrantz
+    "Rosenørn"  # Rosenørn
+    "Schlentz"  # Schlentz
+    "Schack"  # Schack
+    "Schimmelmann"  # Schimmelmann
+    "Scholten"  # Scholten
+    "Sehested"  # Sehested
+    "Skram"  # Skram
+    "Thomsen"  # Thomsen
+    "von Trampe"  # von Trampe
+    "Trolle"  # Trolle
+    "Ulfeldt"  # Ulfeldt
+}
+ship_names = {
+    "Aalborg"  # Aalborg
+    "Admirante"  # Admirante
+    "Aero"  # Aero
+    "Aggershus"  # Aggershus
+    "Ahrendahl"  # Ahrendahl
+    "Akerhus Kravel"  # Akerhus Kravel
+    "Allart"  # Allart
+    "Alsen"  # Alsen
+    "Alvorligheden"  # Alvorligheden
+    "Andriken"  # Andriken
+    "Anna Sophia"  # Anna Sophia
+    "Anne Jacobine"  # Anne Jacobine
+    "Anne Marie"  # Anne Marie
+    "Anthonette"  # Anthonette
+    "Arche Noae"  # Arche Noae
+    "Argo"  # Argo
+    "Argo Rosa"  # Argo Rosa
+    "Arveprins Frederik"  # Arveprins Frederik
+    "Arveprinsen"  # Arveprinsen
+    "Aurora"  # Aurora
+    "Baasø"  # Baasø
+    "Balder"  # Balder
+    "Bellona"  # Bellona
+    "Beskiermeren"  # Beskiermeren
+    "Bikuben"  # Bikuben
+    "Blaa Due"  # Blaa Due
+    "Blaa Mynden"  # Blaa Mynden
+    "Blaaheiren"  # Blaaheiren
+    "Bon Eventyr"  # Bon Eventyr
+    "Borholm"  # Borholm
+    "Bremer Slottel"  # Bremer Slottel
+    "Brevdragaeren"  # Brevdragaeren
+    "Buntede Flak"  # Buntede Flak
+    "Byens Loffue"  # Byens Loffue
+    "Caroline Mathilde"  # Caroline Mathilde
+    "Charitas"  # Charitas
+    "Charlotte Amalia"  # Charlotte Amalia
+    "Christian den Ottende"  # Christian den Ottende
+    "Christian den Syvende"  # Christian den Syvende
+    "Christiania"  # Christiania
+    "Christians Ark"  # Christians Ark
+    "Christiansand"  # Christiansand
+    "Christiansborg"  # Christiansborg
+    "Christiansoe"  # Christiansoe
+    "Christiansund"  # Christiansund
+    "Christianus Quartus"  # Christianus Quartus
+    "Christianus Sextus"  # Christianus Sextus
+    "Churprinsen"  # Churprinsen
+    "Citronen"  # Citronen
+    "Cometen"  # Cometen
+    "Concordia"  # Concordia
+    "Corsoer"  # Corsoer
+    "Crokodillen"  # Crokodillen
+    "Dannebroge"  # Dannebroge
+    "Dannemark"  # Dannemark
+    "Delmenhorst"  # Delmenhorst
+    "Delphinen"  # Delphinen
+    "Den Aarvaagne"  # Den Aarvaagne
+    "Den Golende"  # Den Golende
+    "Den Hvide Svane"  # Den Hvide Svane
+    "Den Praegtige"  # Den Praegtige
+    "Det Gjenfødte Haab"  # Det Gjenfødte Haab
+    "Det Store Belt"  # Det Store Belt
+    "Deus Nobiscum"  # Deus Nobiscum
+    "Diana"  # Diana
+    "Disco"  # Disco
+    "Ditmarsken"  # Ditmarsken
+    "Dokken"  # Dokken
+    "Dorothea Caroline"  # Dorothea Caroline
+    "Drachsholm"  # Drachsholm
+    "Dragoneren"  # Dragoneren
+    "Dristigheden"  # Dristigheden
+    "Dronning Anna Sophia"  # Dronning Anna Sophia
+    "Dronning Juliane Marie"  # Dronning Juliane Marie
+    "Dronning Lovisa"  # Dronning Lovisa
+    "Dronningen af Danmark"  # Dronningen af Danmark
+    "Duckanden"  # Duckanden
+    "Duen"  # Duen
+    "Dybendal"  # Dybendal
+    "Dynkerker Bojort"  # Dynkerker Bojort
+    "Ebenetzer"  # Ebenetzer
+    "Eegelykke"  # Eegelykke
+    "Egernet"  # Egernet
+    "Eijderen"  # Eijderen
+    "Elephanten"  # Elephanten
+    "Elvin"  # Elvin
+    "Emanuel"  # Emanuel
+    "Engel Gabriel"  # Engel Gabriel
+    "Enhjørning"  # Enhjørning
+    "Enigheden"  # Enigheden
+    "Esbern Snare"  # Esbern Snare
+    "Faerøe"  # Faerøe
+    "Faestemøen"  # Faestemøen
+    "Falk van Olleborg"  # Falk van Olleborg
+    "Falken af Bergen"  # Falken af Bergen
+    "Falster"  # Falster
+    "Fama"  # Fama
+    "Felkkerøe"  # Felkkerøe
+    "Fides"  # Fides
+    "Fire Kronede Lilier"  # Fire Kronede Lilier
+    "Flasken"  # Flasken
+    "Flensborg"  # Flensborg
+    "Flyvende Aand"  # Flyvende Aand
+    "Flyvende Abe"  # Flyvende Abe
+    "Flyvende Fiske"  # Flyvende Fiske
+    "Flyvende Fortuna"  # Flyvende Fortuna
+    "Flyvende Hjort"  # Flyvende Hjort
+    "Flyvende Los"  # Flyvende Los
+    "Flyvende Piil"  # Flyvende Piil
+    "Flyvende Ulv"  # Flyvende Ulv
+    "Flyvende Ørn"  # Flyvende Ørn
+    "Forgyldte Bjørn"  # Forgyldte Bjørn
+    "Forgyldte Drage"  # Forgyldte Drage
+    "Forgyldte Fisk"  # Forgyldte Fisk
+    "Forgyldte Krone"  # Forgyldte Krone
+    "Forloren Søn"  # Forloren Søn
+    "Forskraekkelsen"  # Forskraekkelsen
+    "Forsva"  # Forsva
+    "Fortuna"  # Fortuna
+    "Fredensborg Slot"  # Fredensborg Slot
+    "Fredericus Quartus"  # Fredericus Quartus
+    "Fredericus Quintus"  # Fredericus Quintus
+    "Fredericus Tertius"  # Fredericus Tertius
+    "Frederik"  # Frederik
+    "Frederik III"  # Frederik III
+    "Frederik IV"  # Frederik IV
+    "Frederiksort"  # Frederiksort
+    "Frederiksvaern"  # Frederiksvaern
+    "Freja"  # Freja
+    "Frøken Elschen"  # Frøken Elschen
+    "Fylla"  # Fylla
+    "Fynen"  # Fynen
+    "Gabriel"  # Gabriel
+    "Gak Med"  # Gak Med
+    "Galatea"  # Galatea
+    "Galiotjagten"  # Galiotjagten
+    "Gamle Delmenhorst"  # Gamle Delmenhorst
+    "Gefion"  # Gefion
+    "Geheimraad Moltke"  # Geheimraad Moltke
+    "Gejser"  # Gejser
+    "Georg"  # Georg
+    "Gerner"  # Gerner
+    "Gideon"  # Gideon
+    "Gjengafjord"  # Gjengafjord
+    "Glasjagten"  # Glasjagten
+    "Glommen"  # Glommen
+    "Gluckstadt"  # Gluckstadt
+    "Gotteborg"  # Gotteborg
+    "Graa Falk"  # Graa Falk
+    "Graa Ulv"  # Graa Ulv
+    "Grev Morner"  # Grev Morner
+    "Griben"  # Griben
+    "Griffen"  # Griffen
+    "Grippen"  # Grippen
+    "Grønland"  # Grønland
+    "Grønne Drage"  # Grønne Drage
+    "Grå Kat"  # Grå Kat
+    "Guldregn"  # Guldregn
+    "Gulland"  # Gulland
+    "Gyldenløve"  # Gyldenløve
+    "Hafridderen"  # Hafridderen
+    "Haien"  # Haien
+    "Hamlet"  # Hamlet
+    "Hannibal"  # Hannibal
+    "Hans Peter"  # Hans Peter
+    "Haren"  # Haren
+    "Havfruen"  # Havfruen
+    "Havhesten"  # Havhesten
+    "Havmanden"  # Havmanden
+    "Heiren"  # Heiren
+    "Hejmdal"  # Hejmdal
+    "Hekla"  # Hekla
+    "Hekla"  # Hekla
+    "Helena"  # Helena
+    "Helleflynderen"  # Helleflynderen
+    "Helsingør"  # Helsingør
+    "Herringnæs"  # Herringnæs
+    "Hester Marie"  # Hester Marie
+    "Hielperen"  # Hielperen
+    "Hieronimius"  # Hieronimius
+    "Hjaelperinden"  # Hjaelperinden
+    "Hjelsminde"  # Hjelsminde
+    "Hollandske Fregat"  # Hollandske Fregat
+    "Holsteen"  # Holsteen
+    "Hummeren"  # Hummeren
+    "Hurtigheden"  # Hurtigheden
+    "Husaren"  # Husaren
+    "Hvalfisken"  # Hvalfisken
+    "Hvalrossen"  # Hvalrossen
+    "Hvedholm"  # Hvedholm
+    "Hvide Bjørn"  # Hvide Bjørn
+    "Hvide Falk"  # Hvide Falk
+    "Hvide Fortuna"  # Hvide Fortuna
+    "Hvide Hund"  # Hvide Hund
+    "Høyenhald"  # Høyenhald
+    "Håbet"  # Håbet
+    "Iderim"  # Iderim
+    "Infødsretten"  # Infødsretten
+    "Iresine"  # Iresine
+    "Iris"  # Iris
+    "Island"  # Island
+    "Jaegare"  # Jaegare
+    "Jaegerborg"  # Jaegerborg
+    "Jaegeren"  # Jaegeren
+    "Johannes"  # Johannes
+    "Jomfrusvend"  # Jomfrusvend
+    "Jonas"  # Jonas
+    "Josaphat"  # Josaphat
+    "Julius Caesar"  # Julius Caesar
+    "Juncker"  # Juncker
+    "Jupiter"  # Jupiter
+    "Justitia"  # Justitia
+    "Jylland"  # Jylland
+    "Karlshavn"  # Karlshavn
+    "Kiel"  # Kiel
+    "Kiempen"  # Kiempen
+    "Kieringvigen"  # Kieringvigen
+    "Kioge"  # Kioge
+    "Kjerteminde"  # Kjerteminde
+    "Kong David"  # Kong David
+    "Kongens Jagt"  # Kongens Jagt
+    "Krabaten"  # Krabaten
+    "Kragerø"  # Kragerø
+    "Kronborg"  # Kronborg
+    "Kronfisk"  # Kronfisk
+    "Kronjagten"  # Kronjagten
+    "Kronprins Frederik"  # Kronprins Frederik
+    "Kronprinsen"  # Kronprinsen
+    "Kronprinsesse Maria"  # Kronprinsesse Maria
+    "Kronprinsessen"  # Kronprinsessen
+    "Kruset"  # Kruset
+    "København"  # København
+    "Laaland"  # Laaland
+    "Laerken"  # Laerken
+    "Lammet"  # Lammet
+    "Lamprenen"  # Lamprenen
+    "Langeland"  # Langeland
+    "Langesund"  # Langesund
+    "Laxen"  # Laxen
+    "Leoparden"  # Leoparden
+    "Liden Elephant"  # Liden Elephant
+    "Lilien"  # Lilien
+    "Lille Belt"  # Lille Belt
+    "Lille Lykkepot"  # Lille Lykkepot
+    "Lindeboom"  # Lindeboom
+    "Linden"  # Linden
+    "Lindormen"  # Lindormen
+    "Lossen"  # Lossen
+    "Lougen"  # Lougen
+    "Lovisa"  # Lovisa
+    "Lovisenlund"  # Lovisenlund
+    "Lybske David"  # Lybske David
+    "Lybske Vildman"  # Lybske Vildman
+    "Lykkelig"  # Lykkelig
+    "Lykkepotten"  # Lykkepotten
+    "Løberen"  # Løberen
+    "Løvehjerte"  # Løvehjerte
+    "Løvendals Galej"  # Løvendals Galej
+    "Maagen"  # Maagen
+    "Mageløs"  # Mageløs
+    "Makrelen"  # Makrelen
+    "Malmøs Prøve"  # Malmøs Prøve
+    "Mandigheden"  # Mandigheden
+    "Maria"  # Maria
+    "Markatten"  # Markatten
+    "Markgrevinde Sophia Chrstina"  # Markgrevinde Sophia Chrstina
+    "Mars"  # Mars
+    "Marstrand"  # Marstrand
+    "Marstrands Plage"  # Marstrands Plage
+    "Mercurius"  # Mercurius
+    "Middelfart"  # Middelfart
+    "Minx"  # Minx
+    "Modet"  # Modet
+    "Moss"  # Moss
+    "Mynden"  # Mynden
+    "Møen"  # Møen
+    "Naesevis"  # Naesevis
+    "Najaden"  # Najaden
+    "Nakskov"  # Nakskov
+    "Naskau"  # Naskau
+    "Nattergalen"  # Nattergalen
+    "Neldebladet"  # Neldebladet
+    "Neptunus"  # Neptunus
+    "Nidelven"  # Nidelven
+    "Nordstiernen"  # Nordstiernen
+    "Norske Fregat"  # Norske Fregat
+    "Norske Hund"  # Norske Hund
+    "Norske Løve"  # Norske Løve
+    "Norske Vaaben"  # Norske Vaaben
+    "Nye Københavnske Galej"  # Nye Københavnske Galej
+    "Nyborg"  # Nyborg
+    "Nye Delmenhorst"  # Nye Delmenhorst
+    "Nye Elephant"  # Nye Elephant
+    "Nye Lindormen"  # Nye Lindormen
+    "Nykjøbing"  # Nykjøbing
+    "Nymfen"  # Nymfen
+    "Odderen"  # Odderen
+    "Odense"  # Odense
+    "Odin"  # Odin
+    "Oldenborg"  # Oldenborg
+    "Oliemøllen"  # Oliemøllen
+    "Onge Jaeger"  # Onge Jaeger
+    "Ora et Labora"  # Ora et Labora
+    "Ormen"  # Ormen
+    "Pak An"  # Pak An
+    "Papegøjen"  # Papegøjen
+    "Patientia"  # Patientia
+    "Pelikanen"  # Pelikanen
+    "Perlen"  # Perlen
+    "Phøenix"  # Phøenix
+    "Pilen"  # Pilen
+    "Pommerantsen"  # Pommerantsen
+    "Pommern"  # Pommern
+    "Ponitens"  # Ponitens
+    "Postillionen"  # Postillionen
+    "Praestø"  # Praestø
+    "Prindse-Bark"  # Prindse-Bark
+    "Prins Carl"  # Prins Carl
+    "Prins Christian"  # Prins Christian
+    "Prins Christian Frederik"  # Prins Christian Frederik
+    "Prins Frederik"  # Prins Frederik
+    "Prins Jørgen"  # Prins Jørgen
+    "Prins Wilhelm"  # Prins Wilhelm
+    "Prinsen av Augustenborg"  # Prinsen av Augustenborg
+    "Prinsens Jagt"  # Prinsens Jagt
+    "Prinsesse Caroline"  # Prinsesse Caroline
+    "Prinsesse Charlotte"  # Prinsesse Charlotte
+    "Prinsesse Charlotte Amalie"  # Prinsesse Charlotte Amalie
+    "Prinsesse Lovise"  # Prinsesse Lovise
+    "Prinsesse Sophia Frederica"  # Prinsesse Sophia Frederica
+    "Prinsesse Sophia Hedvig"  # Prinsesse Sophia Hedvig
+    "Prinsesse Sophia Magdalena"  # Prinsesse Sophia Magdalena
+    "Prinsesse Wilhelmine Caroline"  # Prinsesse Wilhelmine Caroline
+    "Prøvesteen"  # Prøvesteen
+    "Psyke"  # Psyke
+    "Raae"  # Raae
+    "Raphael"  # Raphael
+    "Ravnen"  # Ravnen
+    "Recompens"  # Recompens
+    "Rendsborg"  # Rendsborg
+    "Rigernes Ønske"  # Rigernes Ønske
+    "Ringende Jacob"  # Ringende Jacob
+    "Roeskilde"  # Roeskilde
+    "Rokken"  # Rokken
+    "Rosen"  # Rosen
+    "Rosen Galej"  # Rosen Galej
+    "Rota"  # Rota
+    "Røde Hane"  # Røde Hane
+    "Røde Løve"  # Røde Løve
+    "Røde Raev"  # Røde Raev
+    "Røde Ulv"  # Røde Ulv
+    "Røde Vinfad"  # Røde Vinfad
+    "Saekkepiben"  # Saekkepiben
+    "Saelland"  # Saelland
+    "Saltholmen"  # Saltholmen
+    "Salvator"  # Salvator
+    "Samsoe"  # Samsoe
+    "Samsons Galej"  # Samsons Galej
+    "Sanct Anna"  # Sanct Anna
+    "Sanct Croix"  # Sanct Croix
+    "Sanct Jacob"  # Sanct Jacob
+    "Sanct Johannes"  # Sanct Johannes
+    "Sanct Joris"  # Sanct Joris
+    "Sanct Jørgen"  # Sanct Jørgen
+    "Sanct Lorentz"  # Sanct Lorentz
+    "Sanct Matheus"  # Sanct Matheus
+    "Sanct Mathias"  # Sanct Mathias
+    "Sanct Michael"  # Sanct Michael
+    "Sanct Peder"  # Sanct Peder
+    "Sanct Peter af Nyborg"  # Sanct Peter af Nyborg
+    "Sanct Sophia"  # Sanct Sophia
+    "Sanct Thomas"  # Sanct Thomas
+    "Sarpen"  # Sarpen
+    "Sejer"  # Sejer
+    "Skatmester Grev Schimmelmann"  # Skatmester Grev Schimmelmann
+    "Skiold"  # Skiold
+    "Slesvig"  # Slesvig
+    "Snarensvend"  # Snarensvend
+    "Sophia Amalia"  # Sophia Amalia
+    "Sophia Hedvig"  # Sophia Hedvig
+    "Sophia Magdalena"  # Sophia Magdalena
+    "Sorte Bjørn"  # Sorte Bjørn
+    "Sorte Hund"  # Sorte Hund
+    "Sorte Kat"  # Sorte Kat
+    "Sorte Ravn"  # Sorte Ravn
+    "Sorte Rytter"  # Sorte Rytter
+    "Spes"  # Spes
+    "Spragelede Falk"  # Spragelede Falk
+    "Staabraf"  # Staabraf
+    "Stege"  # Stege
+    "Stiernen"  # Stiernen
+    "Stjern"  # Stjern
+    "Stockfiskes"  # Stockfiskes
+    "Stokfisken"  # Stokfisken
+    "Store Bysse"  # Store Bysse
+    "Store Lykkepot"  # Store Lykkepot
+    "Store Sophia"  # Store Sophia
+    "Storebælts Skræk"  # Storebælts Skræk
+    "Storen"  # Storen
+    "Stormarn"  # Stormarn
+    "Stralsundske Falk"  # Stralsundske Falk
+    "Stralsundske Pucenelle"  # Stralsundske Pucenelle
+    "Stubbekjøbing"  # Stubbekjøbing
+    "Stumpet Dorette"  # Stumpet Dorette
+    "Støren"  # Støren
+    "Svaerdfisken"  # Svaerdfisken
+    "Svanen"  # Svanen
+    "Svendborg"  # Svendborg
+    "Svenske Falk"  # Svenske Falk
+    "Svenske Havfrue"  # Svenske Havfrue
+    "Svenske Løve"  # Svenske Løve
+    "Svenske Diderich"  # Svenske Diderich
+    "Svermeren"  # Svermeren
+    "Sydermanland"  # Sydermanland
+    "Sylt"  # Sylt
+    "Syvstjernen"  # Syvstjernen
+    "Søbladet"  # Søbladet
+    "Søhesten"  # Søhesten
+    "Søhunden"  # Søhunden
+    "Søridderen"  # Søridderen
+    "Thetis"  # Thetis
+    "Thor"  # Thor
+    "To Løver"  # To Løver
+    "Trangvebar"  # Trangvebar
+    "Tre Kroner"  # Tre Kroner
+    "Tre Kroners Galej"  # Tre Kroners Galej
+    "Tre Løver"  # Tre Løver
+    "Trefoldighed"  # Trefoldighed
+    "Triton"  # Triton
+    "Trost"  # Trost
+    "Tumleren"  # Tumleren
+    "Turtelduen"  # Turtelduen
+    "Tygeren af København"  # Tygeren af København
+    "Tønsberg Fløjte"  # Tønsberg Fløjte
+    "Tønsberg Skude"  # Tønsberg Skude
+    "Unge Tobias"  # Unge Tobias
+    "Vaek Op"  # Vaek Op
+    "Valkyrien"  # Valkyrien
+    "Vanhunden"  # Vanhunden
+    "Venus"  # Venus
+    "Viborg"  # Viborg
+    "Viceguvernor Berg"  # Viceguvernor Berg
+    "Victoria"  # Victoria
+    "Vildanden"  # Vildanden
+    "Vindhunden"  # Vindhunden
+    "Vordingborg"  # Vordingborg
+    "Waldemar"  # Waldemar
+    "Wardoehuus"  # Wardoehuus
+    "Wenden"  # Wenden
+    "Wildmanden"  # Wildmanden
+    "Wismarske Rev"  # Wismarske Rev
+    "Wohl Herr in Gottes Namen"  # Wohl Herr in Gottes Namen
+    "Wrangels Palais"  # Wrangels Palais
+    "Øresund"  # Øresund
+    "Ørnen"  # Ørnen
+    "Øsels Ørn"  # Øsels Ørn
+}

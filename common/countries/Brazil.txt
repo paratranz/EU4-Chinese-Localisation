@@ -1,0 +1,212 @@
+﻿graphical_culture = westerngfx
+colonial_parent = POR
+random_nation_chance = 0
+color = {
+    129
+    177
+    125
+}
+historical_idea_groups = {
+    defensive_ideas
+    religious_ideas
+    offensive_ideas
+    trade_ideas
+    diplomatic_ideas
+    maritime_ideas
+    spy_ideas
+    quality_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    western_medieval_knights
+    western_men_at_arms
+    spanish_tercio
+    austrian_tercio
+    austrian_grenzer
+    austrian_hussar
+    austrian_white_coat
+    austrian_jaeger
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Pedro #0" = 15
+    "Miguel #0" = 0
+    "António #0" = 0
+    "Augusto #0" = 0
+    "Bento #0" = 0
+    "Deodoro #0" = 0
+    "Ernesto #0" = 0
+    "Floriano #0" = 0
+    "Francisco José #0" = 0
+    "Hermínio #0" = -10
+    "Hermes #0" = 0
+    "Isaías #0" = 0
+    "João Baptista #0" = 20
+    "Luís #0" = 0
+    "Márcio #0" = 0
+    "Nilo #0" = 0
+    "Paulino #0" = 0
+    "Venceslau #0" = 0
+    "Isabel #0" = -15
+    "Silvia #0" = -1
+    "João #0" = 0
+    "Artur #0" = 0
+    "Carlos #0" = 0
+    "Fernando #0" = 0
+    "Gaspar #0" = 0
+    "Inácio #0" = 0
+    "José #0" = 0
+}
+leader_names = {
+    "Álvares"  # Álvares
+    "Ayres Gomes"  # Ayres Gomes
+    "Borges do Canto"  # Borges do Canto
+    "da Costa"  # da Costa
+    "da Silva"  # da Silva
+    "de Amorim"  # de Amorim
+    "de Melo"  # de Melo
+    "de Mendonça"  # de Mendonça
+    "dos Reis"  # dos Reis
+    "dos Santos"  # dos Santos
+    "Freire de Andrade"  # Freire de Andrade
+    "Gonzaga"  # Gonzaga
+    "Lopes"  # Lopes
+    "Maciel"  # Maciel
+    "Melo"  # Melo
+    "Nascimento"  # Nascimento
+    "Nunes Viana"  # Nunes Viana
+    "Peixoto"  # Peixoto
+    "Rolim"  # Rolim
+    "Santos Pedroso"  # Santos Pedroso
+    "Tavares"  # Tavares
+    "Torres"  # Torres
+    "Veiga"  # Veiga
+    "Vieira"  # Vieira
+    "Xavier"  # Xavier
+}
+ship_names = {
+    "Anunciada"  # Anunciada
+    "Bérrio"  # Bérrio
+    "Boa Viagem"  # Boa Viagem
+    "Bom Jesus"  # Bom Jesus
+    "Bom Jesus do Carmo"  # Bom Jesus do Carmo
+    "Bom Jesus de Marzagão"  # Bom Jesus de Marzagão
+    "Bom Jesus da Vidigueira"  # Bom Jesus da Vidigueira
+    "Bretão"  # Bretão
+    "Cambaia"  # Cambaia
+    "Chagas"  # Chagas
+    "Correio d'Ásia"  # Correio d'Ásia
+    "El-Rei"  # El-Rei
+    "Enxobregas"  # Enxobregas
+    "Espírito Santo"  # Espírito Santo
+    "Estrela"  # Estrela
+    "Flor do Mar"  # Flor do Mar
+    "Garça"  # Garça
+    "Imaculada Conceição"  # Imaculada Conceição
+    "Jóia"  # Jóia
+    "Monte Carvalho"  # Monte Carvalho
+    "Nazaré"  # Nazaré
+    "Nossa Senhora"  # Nossa Senhora
+    "N. Sra. da Aparecida"  # N. Sra. da Aparecida
+    "N. Sra. da Atalaia"  # N. Sra. da Atalaia
+    "N. Sra. da Batalha"  # N. Sra. da Batalha
+    "N. Sra. da Boa Hora"  # N. Sra. da Boa Hora
+    "N. Sra. da Boa Memória"  # N. Sra. da Boa Memória
+    "N. Sra. da Boa Viagem"  # N. Sra. da Boa Viagem
+    "N. Sra. da Candalaria"  # N. Sra. da Candalaria
+    "N. Sra. da Caridade"  # N. Sra. da Caridade
+    "N.Sra. da Conceição"  # N.Sra. da Conceição
+    "N. Sra. da Consolação"  # N. Sra. da Consolação
+    "N. Sra. da Esperança"  # N. Sra. da Esperança
+    "N. Sra. da Glória"  # N. Sra. da Glória
+    "N. Sra. da Graça"  # N. Sra. da Graça
+    "N. Sra. da Guia"  # N. Sra. da Guia
+    "N. Sra. d'Ajuda Lusitana"  # N. Sra. d'Ajuda Lusitana
+    "N. Sra. da Luz"  # N. Sra. da Luz
+    "N. Sra. da Nazaré"  # N. Sra. da Nazaré
+    "N. Sra. da Oliveira"  # N. Sra. da Oliveira
+    "N. Sra. da Palma"  # N. Sra. da Palma
+    "N. Sra. da Penha de França"  # N. Sra. da Penha de França
+    "N. Sra. da Quietação"  # N. Sra. da Quietação
+    "N. Sra. da Salvação"  # N. Sra. da Salvação
+    "N. Sra. da Saúde"  # N. Sra. da Saúde
+    "N. Sra. da Visitação"  # N. Sra. da Visitação
+    "N. Sra. da Vitória"  # N. Sra. da Vitória
+    "N. Sra. das Ondas"  # N. Sra. das Ondas
+    "N. Sra. das Portas do Céu"  # N. Sra. das Portas do Céu
+    "N. Sra. das Relíquias"  # N. Sra. das Relíquias
+    "N. Sra. de Belém"  # N. Sra. de Belém
+    "N. Sra. de Guadalupe"  # N. Sra. de Guadalupe
+    "N. Sra. do Castelo"  # N. Sra. do Castelo
+    "N. Sra. do Livramento"  # N. Sra. do Livramento
+    "N. Sra. do Loreto"  # N. Sra. do Loreto
+    "N. Sra do Paraíso"  # N. Sra do Paraíso
+    "N. Sra. do Pilar"  # N. Sra. do Pilar
+    "N. Sra. do Rosário"  # N. Sra. do Rosário
+    "N. Sra. dos Prazeres"  # N. Sra. dos Prazeres
+    "N. Sra. dos Ramos"  # N. Sra. dos Ramos
+    "Princesa do Céu"  # Princesa do Céu
+    "Raínha"  # Raínha
+    "Reis Magos"  # Reis Magos
+    "Sacramento"  # Sacramento
+    "Santa Ana"  # Santa Ana
+    "Santa Catarina"  # Santa Catarina
+    "Santa Cruz"  # Santa Cruz
+    "Santa Fé"  # Santa Fé
+    "Santa Helena"  # Santa Helena
+    "Santa Joana"  # Santa Joana
+    "Santa Madre de Deus"  # Santa Madre de Deus
+    "S. Maria de Sabóia"  # S. Maria de Sabóia
+    "Santo Milagre"  # Santo Milagre
+    "Santiago Maior"  # Santiago Maior
+    "Santíssima Trindade"  # Santíssima Trindade
+    "Santíssimo Sacramento"  # Santíssimo Sacramento
+    "Santo Alberto"  # Santo Alberto
+    "Santo António"  # Santo António
+    "Santo Espírito"  # Santo Espírito
+    "Santo Inácio"  # Santo Inácio
+    "São Bartolomeu"  # São Bartolomeu
+    "São Bento"  # São Bento
+    "São Bernardo"  # São Bernardo
+    "São Carlos"  # São Carlos
+    "São Cristovão"  # São Cristovão
+    "São Domingos"  # São Domingos
+    "São Filipe"  # São Filipe
+    "São Francisco"  # São Francisco
+    "São Francisco de Borja"  # São Francisco de Borja
+    "São Gabriel"  # São Gabriel
+    "São Gonçalo"  # São Gonçalo
+    "São João"  # São João
+    "São João de Deus"  # São João de Deus
+    "São Jorge"  # São Jorge
+    "S. José"  # S. José
+    "São Julião"  # São Julião
+    "São Lourenço"  # São Lourenço
+    "São Lucas"  # São Lucas
+    "São Luís"  # São Luís
+    "São Mateus"  # São Mateus
+    "São Paulo"  # São Paulo
+    "São Pedro"  # São Pedro
+    "São Rafael"  # São Rafael
+    "São Roque"  # São Roque
+    "São Salvador"  # São Salvador
+    "São Tomé"  # São Tomé
+    "São Valentim"  # São Valentim
+    "S. António de Lisboa"  # S. António de Lisboa
+    "S. Catarina de Ribamar"  # S. Catarina de Ribamar
+    "S. Francisco de Assis"  # S. Francisco de Assis
+    "S. Francisco Xavier"  # S. Francisco Xavier
+    "S. João Baptista"  # S. João Baptista
+    "S. João Evangelista"  # S. João Evangelista
+    "S. Pedro de Rates"  # S. Pedro de Rates
+    "S. Pedro da Ribeira"  # S. Pedro da Ribeira
+    "S. Salvador do Mundo"  # S. Salvador do Mundo
+    "S. Teresa de Jesus"  # S. Teresa de Jesus
+    "S. Tomé da Cantuária"  # S. Tomé da Cantuária
+    "Taforeia"  # Taforeia
+    "Trindade"  # Trindade
+    "Visitação"  # Visitação
+}

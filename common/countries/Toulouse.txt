@@ -1,0 +1,188 @@
+﻿graphical_culture = westerngfx
+color = {
+    127
+    170
+    146
+}
+historical_idea_groups = {
+    defensive_ideas
+    trade_ideas
+    religious_ideas
+    diplomatic_ideas
+    economic_ideas
+    innovativeness_ideas
+    offensive_ideas
+    spy_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    western_medieval_knights
+    western_men_at_arms
+    swiss_landsknechten
+    dutch_maurician
+    french_caracolle
+    anglofrench_line
+    french_dragoon
+    french_bluecoat
+    french_cuirassier
+    french_impulse
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Alphonse #3" = 20
+    "Guillaume #4" = 10
+    "Bernard #2" = 0
+    "Odo #1" = 0
+    "Antoine #0" = 0
+    "Charles #0" = 0
+    "Danis #0" = 0
+    "Eugène #0" = 0
+    "Foilan #0" = 0
+    "Frédéric #0" = 0
+    "Godefroi #0" = 80
+    "Henri #0" = 0
+    "Ignace #0" = 0
+    "Jules #0" = 0
+    "Louis #0" = 0
+    "Maurice #0" = 0
+    "Patrici #0" = 0
+    "Roger #0" = 0
+    "Valeray #0" = 0
+    "Jeanne #0" = -15
+    "Philippa #0" = -1
+    "Simon #1" = 15
+    "Pons #2" = 0
+    "Borel #0" = 0
+    "Emmanuel #0" = 0
+    "François #0" = 0
+    "Guiraud #0" = 0
+    "Jacques #0" = -1
+}
+leader_names = {
+    "d'Arnal"  # d'Arnal
+    "Assézat"  # Assézat
+    "de Bacalan"  # de Bacalan
+    "de Barbasan"  # de Barbasan
+    "de Bernuy"  # de Bernuy
+    "de Bezons"  # de Bezons
+    "de Boulbène"  # de Boulbène
+    "de Casteras"  # de Casteras
+    "de Caussade"  # de Caussade
+    "de Corneillan"  # de Corneillan
+    "Delguy"  # Delguy
+    "Delpuech"  # Delpuech
+    "d'Espagne"  # d'Espagne
+    "d'Estadens"  # d'Estadens
+    "d'Estissac"  # d'Estissac
+    "Fabre"  # Fabre
+    "Faure"  # Faure
+    "de Galard"  # de Galard
+    "de Goth"  # de Goth
+    "de Grossoles"  # de Grossoles
+    "Imbert"  # Imbert
+    "de l'Isle-Jourdain"  # de l'Isle-Jourdain
+    "de La Broue de Gandelon"  # de La Broue de Gandelon
+    "de Lacaze"  # de Lacaze
+    "de Ladevèze"  # de Ladevèze
+    "de Loupiac"  # de Loupiac
+    "de Madaillan"  # de Madaillan
+    "Malvin de Montazet"  # Malvin de Montazet
+    "Martin de Viviès"  # Martin de Viviès
+    "de Nogarède"  # de Nogarède
+    "de Nogaret"  # de Nogaret
+    "Noguès"  # Noguès
+    "d'Ouvrier"  # d'Ouvrier
+    "Pandaries"  # Pandaries
+    "de Pelamourgues"  # de Pelamourgues
+    "Perès"  # Perès
+    "de Perricard"  # de Perricard
+    "Pons"  # Pons
+    "de Pradines"  # de Pradines
+    "de Puechgarric"  # de Puechgarric
+    "de Rabastens"  # de Rabastens
+    "de Roux d'Alzonne"  # de Roux d'Alzonne
+    "Sabatier"  # Sabatier
+    "de Saint Félix"  # de Saint Félix
+    "Teyssier"  # Teyssier
+    "de Tholozany"  # de Tholozany
+    "de Toulouse-Foissac"  # de Toulouse-Foissac
+    "de Toulouse-Lautrec"  # de Toulouse-Lautrec
+    "de Villemur"  # de Villemur
+    "de Xaintrailles"  # de Xaintrailles
+}
+ship_names = {
+    "l'Aucamville"  # l'Aucamville
+    "l'Auzeville-Tolosane"  # l'Auzeville-Tolosane
+    "le Balma"  # le Balma
+    "le Beauzelle"  # le Beauzelle
+    "le Busca"  # le Busca
+    "le Blagnac"  # le Blagnac
+    "le Capitole"  # le Capitole
+    "le Castanet-Tolosan"  # le Castanet-Tolosan
+    "le Colomiers"  # le Colomiers
+    "le Cugneaux"  # le Cugneaux
+    "l'Île-du-Ramier"  # l'Île-du-Ramier
+    "le Labège"  # le Labège
+    "le Labruc"  # le Labruc
+    "le La Cépière"  # le La Cépière
+    "le La Pasquière"  # le La Pasquière
+    "le Laran"  # le Laran
+    "le Lardenne"  # le Lardenne
+    "le Launaguet"  # le Launaguet
+    "le Grand-Rond"  # le Grand-Rond
+    "le Mirail"  # le Mirail
+    "le Demoiselles"  # le Demoiselles
+    "le Minimes"  # le Minimes
+    "le Paradous"  # le Paradous
+    "l'Union"  # l'Union
+    "le Marquisat"  # le Marquisat
+    "le Montaudran"  # le Montaudran
+    "le Montrabé"  # le Montrabé
+    "le Muret"  # le Muret
+    "le Pechbonnieu"  # le Pechbonnieu
+    "le Pechbusque"  # le Pechbusque
+    "le Pech David"  # le Pech David
+    "le Pibrac"  # le Pibrac
+    "le Plaisance-du-Touch"  # le Plaisance-du-Touch
+    "le Portet-sur-Garonne"  # le Portet-sur-Garonne
+    "le Quint-Fonsegrives"  # le Quint-Fonsegrives
+    "la Patte-d'Oie"  # la Patte-d'Oie
+    "le Ramonville-Saintt-Agne"  # le Ramonville-Saintt-Agne
+    "le Rangueil"  # le Rangueil
+    "le Tournefeuille"  # le Tournefeuille
+    "le Saint-Aubin"  # le Saint-Aubin
+    "le Saint-Geniès-Bellevue"  # le Saint-Geniès-Bellevue
+    "le Saint-Martin-du-Touch"  # le Saint-Martin-du-Touch
+    "le Saint-Orens"  # le Saint-Orens
+    "le Saint-Sernin"  # le Saint-Sernin
+    "le Saint-Simon"  # le Saint-Simon
+    "le Salvetat-Saint-Gilles"  # le Salvetat-Saint-Gilles
+    "le Soulé"  # le Soulé
+    "le Stade-Toulousain"  # le Stade-Toulousain
+    "la Vieille-Toulouse"  # la Vieille-Toulouse
+    "le Villeneuve-Tolosane"  # le Villeneuve-Tolosane
+}
+army_names = {
+    "Armée du Lauragais"  # Armée du Lauragais
+    "Armée du Minervois"  # Armée du Minervois
+    "Armée du Cabardès"  # Armée du Cabardès
+    "Armée des Corbières"  # Armée des Corbières
+    "Armée du Carcassès"  # Armée du Carcassès
+    "Armée de la Montagne Noire"  # Armée de la Montagne Noire
+    "Armée du Quercob"  # Armée du Quercob
+    "Armée du Razès"  # Armée du Razès
+    "Armée du Pays de Sault"  # Armée du Pays de Sault
+    "Armée de Foix"  # Armée de Foix
+    "Armée du Couserans"  # Armée du Couserans
+    "Armée de Comminges"  # Armée de Comminges
+    "Armée de Gascogne"  # Armée de Gascogne
+    "Armée de Savès"  # Armée de Savès
+    "Armée du Pays d'Aure"  # Armée du Pays d'Aure
+    "Armée de Bigorre"  # Armée de Bigorre
+    "Armée des Capitouls"  # Armée des Capitouls
+    "Armée de l'Albigeois"  # Armée de l'Albigeois
+    "Armée de $PROVINCE$"  # Armée de $PROVINCE$
+}

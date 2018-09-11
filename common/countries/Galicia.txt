@@ -1,0 +1,212 @@
+﻿graphical_culture = westerngfx
+color = {
+    240
+    167
+    130
+}
+historical_idea_groups = {
+    religious_ideas
+    maritime_ideas
+    defensive_ideas
+    economic_ideas
+    innovativeness_ideas
+    spy_ideas
+    trade_ideas
+    diplomatic_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    western_medieval_knights
+    western_men_at_arms
+    spanish_tercio
+    austrian_tercio
+    austrian_grenzer
+    austrian_hussar
+    austrian_white_coat
+    austrian_jaeger
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Ordoño #2" = 15
+    "Sancho #1" = 10
+    "Bermudo #2" = 0
+    "Aleixo #0" = 0
+    "Anxo #0" = 0
+    "Bernaldo #0" = 0
+    "Carlos #0" = 0
+    "Domingos #0" = 0
+    "Felipe #0" = 0
+    "Francisco #0" = 0
+    "Gonzalo #0" = 0
+    "Gumersindo #0" = 20
+    "Hermenexildo #0" = 0
+    "Hugo #0" = 0
+    "Ignacio #0" = 0
+    "Lope #0" = 0
+    "Nuno #0" = 0
+    "Paulo #0" = 0
+    "Ramón #0" = 0
+    "Tomé #0" = 0
+    "Xoan #0" = 0
+    "Branca #0" = -1
+    "Sabela #0" = -1
+    "Afonso #5" = 10
+    "Froila #2" = 0
+    "Baltasar #0" = 0
+    "Cristovo #0" = 0
+    "Fernán #0" = 0
+    "Guillerme #0" = -1
+    "Hixinio #0" = 0
+    "Leandro #0" = 0
+}
+leader_names = {
+    "de Aguirre"  # de Aguirre
+    "de Alarcón"  # de Alarcón
+    "de Toledo"  # de Toledo
+    "de Andrade"  # de Andrade
+    "de Ayala"  # de Ayala
+    "de Bazán"  # de Bazán
+    "de Benavides"  # de Benavides
+    "Campomanes"  # Campomanes
+    "de Castilla"  # de Castilla
+    "de la Cerda"  # de la Cerda
+    "Cienfuegos"  # Cienfuegos
+    "Colón"  # Colón
+    "Coronado"  # Coronado
+    "Cortés"  # Cortés
+    "de Toledo"  # de Toledo
+    "de Córdoba"  # de Córdoba
+    "de la Cueva"  # de la Cueva
+    "de Figueroa"  # de Figueroa
+    "Fonseca"  # Fonseca
+    "Gálvez"  # Gálvez
+    "Gómez"  # Gómez
+    "de Guzmán"  # de Guzmán
+    "Jiménez de Cisneros"  # Jiménez de Cisneros
+    "de Leiva"  # de Leiva
+    "López de Haro"  # López de Haro
+    "de Luna"  # de Luna
+    "de Lara"  # de Lara
+    "de Velasco"  # de Velasco
+    "de Villena"  # de Villena
+    "de Mendoza"  # de Mendoza
+    "Narváez"  # Narváez
+    "de Nebrija"  # de Nebrija
+    "Nuñez de Balboa"  # Nuñez de Balboa
+    "de Ojeda"  # de Ojeda
+    "Orellana"  # Orellana
+    "Osorio"  # Osorio
+    "Pimentel"  # Pimentel
+    "Pinzón"  # Pinzón
+    "Pizarro"  # Pizarro
+    "Ponce de León"  # Ponce de León
+    "Portocarrero"  # Portocarrero
+    "de Rojas"  # de Rojas
+    "Tellez-Girón"  # Tellez-Girón
+    "de la Vega"  # de la Vega
+    "de Zúñiga"  # de Zúñiga
+}
+ship_names = {
+    "Galicia"  # Galicia
+    "Argonauta"  # Argonauta
+    "Asturias"  # Asturias
+    "Asunción"  # Asunción
+    "Atrevido"  # Atrevido
+    "Azor"  # Azor
+    "Cartagonova"  # Cartagonova
+    "Castilla"  # Castilla
+    "Castillo Negro"  # Castillo Negro
+    "Castor"  # Castor
+    "Ciervo Volante"  # Ciervo Volante
+    "Doncella"  # Doncella
+    "Dragón"  # Dragón
+    "El Gran Grin"  # El Gran Grin
+    "El Retiro"  # El Retiro
+    "Eneas"  # Eneas
+    "Eolo"  # Eolo
+    "Esperanza"  # Esperanza
+    "Espíritu Santo"  # Espíritu Santo
+    "Extremadura"  # Extremadura
+    "Furor"  # Furor
+    "Gran Grifón"  # Gran Grifón
+    "Halcón"  # Halcón
+    "Hércules"  # Hércules
+    "Isabela"  # Isabela
+    "Júpiter"  # Júpiter
+    "La Concepción"  # La Concepción
+    "La Magdalena"  # La Magdalena
+    "La Manuela"  # La Manuela
+    "León"  # León
+    "Ligera"  # Ligera
+    "Lobo Marino"  # Lobo Marino
+    "Marte"  # Marte
+    "Mercurio"  # Mercurio
+    "Neptuno"  # Neptuno
+    "Niña"  # Niña
+    "Orión"  # Orión
+    "Paloma Blanca"  # Paloma Blanca
+    "Pegaso"  # Pegaso
+    "Perro Marino"  # Perro Marino
+    "Pinta"  # Pinta
+    "Plutón"  # Plutón
+    "Pollux"  # Pollux
+    "Príncipe de Asturias"  # Príncipe de Asturias
+    "Rayo"  # Rayo
+    "Real Alfonso"  # Real Alfonso
+    "Real Enrique"  # Real Enrique
+    "Real Juan"  # Real Juan
+    "Rey Pelayo"  # Rey Pelayo
+    "Rey Rodrigo"  # Rey Rodrigo
+    "San Andrés"  # San Andrés
+    "San Antonio"  # San Antonio
+    "San Bartolomé"  # San Bartolomé
+    "San Bernabé"  # San Bernabé
+    "San Cristobal"  # San Cristobal
+    "San Enrique"  # San Enrique
+    "San Esteban"  # San Esteban
+    "San Fernando"  # San Fernando
+    "San Francisco"  # San Francisco
+    "San Gabriel"  # San Gabriel
+    "San Isidoro"  # San Isidoro
+    "San Jerónimo"  # San Jerónimo
+    "San José"  # San José
+    "San Juan"  # San Juan
+    "San Juan Bautista"  # San Juan Bautista
+    "San Leandro"  # San Leandro
+    "San Miguel"  # San Miguel
+    "San Pedro"  # San Pedro
+    "San Rafael"  # San Rafael
+    "San Salvador"  # San Salvador
+    "San Sebastian"  # San Sebastian
+    "Santa Ana"  # Santa Ana
+    "Santa Bárbara"  # Santa Bárbara
+    "Santa Beatriz"  # Santa Beatriz
+    "Santa Catalina"  # Santa Catalina
+    "Santa Cruz"  # Santa Cruz
+    "Santa Fe"  # Santa Fe
+    "Santa Isabel"  # Santa Isabel
+    "Santa Justa"  # Santa Justa
+    "Santa María"  # Santa María
+    "Santa Marta"  # Santa Marta
+    "Santa Rita"  # Santa Rita
+    "Santa Teresa"  # Santa Teresa
+    "Santiago"  # Santiago
+    "Santísima Trinidad"  # Santísima Trinidad
+    "Santo Domingo"  # Santo Domingo
+    "Sirena"  # Sirena
+    "Terror"  # Terror
+    "Toledo"  # Toledo
+    "Trinidad"  # Trinidad
+    "Tritón"  # Tritón
+    "Unicornio"  # Unicornio
+    "Vencedora"  # Vencedora
+    "Ventura"  # Ventura
+    "Victoria"  # Victoria
+    "Vigilante"  # Vigilante
+    "Vizcaya"  # Vizcaya
+    "Vulcano"  # Vulcano
+    "Zúñiga"  # Zúñiga
+}

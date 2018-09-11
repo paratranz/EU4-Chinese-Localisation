@@ -1,0 +1,288 @@
+﻿graphical_culture = muslimgfx
+color = {
+    0
+    123
+    12
+}
+historical_idea_groups = {
+    defensive_ideas
+    offensive_ideas
+    religious_ideas
+    spy_ideas
+    trade_ideas
+    innovativeness_ideas
+    economic_ideas
+    diplomatic_ideas
+}
+historical_units = {
+    ottoman_yaya
+    ottoman_musellem
+    ottoman_azab
+    ottoman_timariot
+    ottoman_janissary
+    ottoman_spahi
+    ottoman_sekban
+    ottoman_reformed_spahi
+    ottoman_reformed_janissary
+    ottoman_toprakli_hit_and_run
+    ottoman_nizami_cedid
+    ottoman_toprakli_dragoon
+    eastern_skirmisher
+    eastern_uhlan
+    eastern_carabinier
+    ottoman_new_model
+    ottoman_lancer
+}
+monarch_names = {
+    "Ishak #1" = 40
+    "Hizir #0" = 5
+    "Selim #0" = 5
+    "Süleyman #0" = 0
+    "Ibrahim #0" = 0
+    "Abdülmecid #0" = 0
+    "Giyasuddin #0" = 0
+    "Numan #0" = 0
+    "Cem #0" = 0
+    "Abdulaziz #0" = -1
+    "Abdulrahman #0" = -1
+    "Ali #0" = -1
+    "Hasan #0" = 5
+    "Ishak #0" = 0
+    "Kasim #0" = 0
+    "Murad #0" = 0
+    "Seyfettin #0" = 0
+    "Yusuf #0" = 0
+    "Ayse #0" = -1
+    "Fatma #0" = -1
+    "Gamze #0" = -1
+    "Melis #0" = -1
+    "Safiye #0" = -1
+    "Ziynet #0" = -1
+    "Saruhan #1" = 40
+    "Ahmed #0" = 5
+    "Abdülhamid #0" = 0
+    "Cihangir #0" = 0
+    "Musa #0" = 0
+    "Abdulmalik #0" = -1
+    "Davud #0" = -1
+    "Kamer #0" = 0
+    "Ömer #0" = -1
+}
+leader_names = {
+    "Alemdar"  # Alemdar
+    "Amasyali"  # Amasyali
+    "Ayas"  # Ayas
+    "Bali"  # Bali
+    "Barbaros"  # Barbaros
+    "Bayram"  # Bayram
+    "Cezzar"  # Cezzar
+    "Çandarli"  # Çandarli
+    "Çelebi"  # Çelebi
+    "Cerrah"  # Cerrah
+    "Çerkes"  # Çerkes
+    "Civan"  # Civan
+    "Çuhadar"  # Çuhadar
+    "Damad"  # Damad
+    "Dervis"  # Dervis
+    "Defterdar"  # Defterdar
+    "Gedik"  # Gedik
+    "Gazi"  # Gazi
+    "Gümülcineli"  # Gümülcineli
+    "Gürcü"  # Gürcü
+    "Hadim"  # Hadim
+    "Hekimoglu"  # Hekimoglu
+    "Hersekli"  # Hersekli
+    "Köprülü"  # Köprülü
+    "Kemal"  # Kemal
+    "Küçük"  # Küçük
+    "Koca"  # Koca
+    "Karamanli"  # Karamanli
+    "Köse"  # Köse
+    "Kara"  # Kara
+    "Kanijeli"  # Kanijeli
+    "Kemankes"  # Kemankes
+    "Kaymak"  # Kaymak
+    "Kavalali"  # Kavalali
+    "Ishak"  # Ishak
+    "Izzed"  # Izzed
+    "Lala"  # Lala
+    "Lefkeli"  # Lefkeli
+    "Malkoç"  # Malkoç
+    "Müezzinzade"  # Müezzinzade
+    "Nevsehirli"  # Nevsehirli
+    "Nisanci"  # Nisanci
+    "Oruç"  # Oruç
+    "Uluç"  # Uluç
+    "Osmancikli"  # Osmancikli
+    "Ohrili"  # Ohrili
+    "Oflu"  # Oflu
+    "Rumi"  # Rumi
+    "Piri"  # Piri
+    "Pargali"  # Pargali
+    "Piyale"  # Piyale
+    "Pehlivan"  # Pehlivan
+    "Salih"  # Salih
+    "Sokullu"  # Sokullu
+    "Sari"  # Sari
+    "Silahdar"  # Silahdar
+    "Semiz"  # Semiz
+    "Serdar"  # Serdar
+    "Topal"  # Topal
+    "Tayyar"  # Tayyar
+    "Turgut"  # Turgut
+    "Tarhuncu"  # Tarhuncu
+    "Veli"  # Veli
+    "Yemisçi"  # Yemisçi
+}
+ship_names = {
+    "Osmaniye"  # Osmaniye
+    "Orhaniye"  # Orhaniye
+    "Konstantiniyye"  # Konstantiniyye
+    "Hüdavendigar"  # Hüdavendigar
+    "Muradiye"  # Muradiye
+    "Mesudiye"  # Mesudiye
+    "Hamidiye"  # Hamidiye
+    "Resadiye"  # Resadiye
+    "Heybetnüma"  # Heybetnüma
+    "Tayyar"  # Tayyar
+    "Sultanhisar"  # Sultanhisar
+    "Gelibolu"  # Gelibolu
+    "Alparslan"  # Alparslan
+    "Timsah"  # Timsah
+    "Mecidiye"  # Mecidiye
+    "Mahabet"  # Mahabet
+    "Ejder"  # Ejder
+    "Yunus"  # Yunus
+    "Sivrihisar"  # Sivrihisar
+    "Akhisar"  # Akhisar
+    "Akka"  # Akka
+    "Aziziye"  # Aziziye
+    "Bereket"  # Bereket
+    "Galata"  # Galata
+    "Kozlu"  # Kozlu
+    "Kuzlum"  # Kuzlum
+    "Nilüfer"  # Nilüfer
+    "Zuhaf"  # Zuhaf
+    "Ceyhan"  # Ceyhan
+    "Feke"  # Feke
+    "Kozan"  # Kozan
+    "Seyhan"  # Seyhan
+    "Kahta"  # Kahta
+    "Bolvadin"  # Bolvadin
+    "Dinar"  # Dinar
+    "Ihsaniye"  # Ihsaniye
+    "Incehisar"  # Incehisar
+    "Sandikli"  # Sandikli
+    "Sultandagi"  # Sultandagi
+    "Güdül"  # Güdül
+    "Haymana"  # Haymana
+    "Kazan"  # Kazan
+    "Kalecik"  # Kalecik
+    "Nallihan"  # Nallihan
+    "Polatli"  # Polatli
+    "Akseki"  # Akseki
+    "Alanya"  # Alanya
+    "Elmali"  # Elmali
+    "Finike"  # Finike
+    "Kepez"  # Kepez
+    "Korkuteli"  # Korkuteli
+    "Kumluca"  # Kumluca
+    "Manavgat"  # Manavgat
+    "Serik"  # Serik
+    "Germiyan"  # Germiyan
+    "Saka"  # Saka
+    "Saruhan"  # Saruhan
+    "Aydin"  # Aydin
+    "Kuyucak"  # Kuyucak
+    "Kusadasi"  # Kusadasi
+    "Nazilli"  # Nazilli
+    "Söke"  # Söke
+    "Ayvalik"  # Ayvalik
+    "Havran"  # Havran
+    "Bigadiç"  # Bigadiç
+    "Edremit"  # Edremit
+    "Manyas"  # Manyas
+    "Balya"  # Balya
+    "Amasra"  # Amasra
+    "Bozüyük"  # Bozüyük
+    "Sögüt"  # Sögüt
+    "Adakli"  # Adakli
+    "Solhan"  # Solhan
+    "Ahlat"  # Ahlat
+    "Gerede"  # Gerede
+    "Seben"  # Seben
+    "Göynük"  # Göynük
+    "Bucak"  # Bucak
+    "Gemlik"  # Gemlik
+    "Gürsu"  # Gürsu
+    "Inegöl"  # Inegöl
+    "Ayvacik"  # Ayvacik
+    "Biga"  # Biga
+    "Ezine"  # Ezine
+    "Lapseki"  # Lapseki
+    "Korgun"  # Korgun
+    "Dodurga"  # Dodurga
+    "Iskilip"  # Iskilip
+    "Laçin"  # Laçin
+    "Çivril"  # Çivril
+    "Honaz"  # Honaz
+    "Tavas"  # Tavas
+    "Dicle"  # Dicle
+    "Firat"  # Firat
+    "Lice"  # Lice
+    "Ergani"  # Ergani
+    "Enez"  # Enez
+    "Ipsala"  # Ipsala
+    "Meriç"  # Meriç
+    "Havsa"  # Havsa
+    "Nizip"  # Nizip
+    "Görele"  # Görele
+    "Göce"  # Göce
+    "Kelkit"  # Kelkit
+    "Belen"  # Belen
+    "Erzin"  # Erzin
+    "Hassa"  # Hassa
+    "Gönen"  # Gönen
+    "Safranbolu"  # Safranbolu
+    "Ermenek"  # Ermenek
+    "Akyaka"  # Akyaka
+    "Sürmene"  # Sürmene
+    "Vakfikebir"  # Vakfikebir
+    "Eregli"  # Eregli
+    "Darica"  # Darica
+    "Kandira"  # Kandira
+    "Ahirli"  # Ahirli
+    "Çumra"  # Çumra
+    "Emet"  # Emet
+    "Bodrum"  # Bodrum
+    "Dalaman"  # Dalaman
+    "Fethiye"  # Fethiye
+    "Milas"  # Milas
+    "Yatagan"  # Yatagan
+    "Malazgirt"  # Malazgirt
+    "Fatsa"  # Fatsa
+    "Ünye"  # Ünye
+    "Kadirli"  # Kadirli
+    "Findikli"  # Findikli
+    "Arifiye"  # Arifiye
+    "Atakum"  # Atakum
+    "Bafra"  # Bafra
+    "Canik"  # Canik
+    "Carsamba"  # Carsamba
+    "Havza"  # Havza
+    "Kavak"  # Kavak
+    "Ladik"  # Ladik
+    "Terme"  # Terme
+    "Baykan"  # Baykan
+    "Boyabat"  # Boyabat
+    "Divrigi"  # Divrigi
+    "Kangal"  # Kangal
+    "Saray"  # Saray
+    "Niksar"  # Niksar
+    "Zile"  # Zile
+    "Akçaabat"  # Akçaabat
+    "Maçka"  # Maçka
+    "Of"  # Of
+    "Çaykara"  # Çaykara
+    "Hayrat"  # Hayrat
+}

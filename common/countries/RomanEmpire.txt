@@ -1,0 +1,613 @@
+﻿graphical_culture = easterngfx
+color = {
+    167
+    10
+    100
+}
+historical_idea_groups = {
+    offensive_ideas
+    defensive_ideas
+    trade_ideas
+    administrative_ideas
+    spy_ideas
+    economic_ideas
+    innovativeness_ideas
+    diplomatic_ideas
+}
+army_names = {
+    "Legio I Herculia"  # Legio I Herculia
+    "Legio II Rapax"  # Legio II Rapax
+    "Legio III Liberatrix"  # Legio III Liberatrix
+    "Legio IV Apollonaris"  # Legio IV Apollonaris
+    "Legio V Alaudae"  # Legio V Alaudae
+    "Legio VI Victrix"  # Legio VI Victrix
+    "Legio VII Ferrata"  # Legio VII Ferrata
+    "Legio VIII Augusta"  # Legio VIII Augusta
+    "Legio IX Triumphalis"  # Legio IX Triumphalis
+    "Legio X Italica"  # Legio X Italica
+    "Legio XI Macedonica"  # Legio XI Macedonica
+    "Legio XII Minervia"  # Legio XII Minervia
+    "Legio XIII Fulminata"  # Legio XIII Fulminata
+    "Legio XIV Fretensis"  # Legio XIV Fretensis
+    "Legio XV Primigenia"  # Legio XV Primigenia
+    "Legio XVI Claudia"  # Legio XVI Claudia
+    "Legio XX Scythica"  # Legio XX Scythica
+}
+fleet_names = {
+    "Classis Alexandrina"  # Classis Alexandrina
+    "Classis Seleucena"  # Classis Seleucena
+    "Classis Carpathia"  # Classis Carpathia
+    "Classis Venetum"  # Classis Venetum
+    "Classis Constantinopolis"  # Classis Constantinopolis
+    "Classis Roma"  # Classis Roma
+    "Classis Adrianopolis"  # Classis Adrianopolis
+    "Classis Atlanticum"  # Classis Atlanticum
+    "Classis Mediterraneus"  # Classis Mediterraneus
+    "Classis Euxeinos Pontos"  # Classis Euxeinos Pontos
+}
+leader_names = {
+    "Basileios"  # Basileios
+    "Leon"  # Leon
+    "Bardas"  # Bardas
+    "Marinos"  # Marinos
+    "Anastasia"  # Anastasia
+    "Konstantinos"  # Konstantinos
+    "Augustus"  # Augustus
+    "Tiberius"  # Tiberius
+    "Caligula"  # Caligula
+    "Claudius"  # Claudius
+    "Nero"  # Nero
+    "Galba"  # Galba
+    "Otho"  # Otho
+    "Vitellius"  # Vitellius
+    "Vespasian"  # Vespasian
+    "Titus"  # Titus
+    "Domitian"  # Domitian
+    "Nerva"  # Nerva
+    "Trajan"  # Trajan
+    "Hadrian"  # Hadrian
+    "Antoninus"  # Antoninus
+    "Lucius"  # Lucius
+    "Marcus"  # Marcus
+    "Commodus"  # Commodus
+    "Pertinax"  # Pertinax
+    "Julian"  # Julian
+    "Septimius"  # Septimius
+    "Geta"  # Geta
+    "Caracalla"  # Caracalla
+    "Macrinus"  # Macrinus
+    "Heliogabalus"  # Heliogabalus
+    "Alexander"  # Alexander
+    "Maximinus"  # Maximinus
+    "Gordian"  # Gordian
+    "Pupienus"  # Pupienus
+    "Balbinus"  # Balbinus
+    "Philip"  # Philip
+    "Decius"  # Decius
+    "Trebonianus"  # Trebonianus
+    "Aemilian"  # Aemilian
+    "Valerian"  # Valerian
+    "Gallienus"  # Gallienus
+    "Quintillus"  # Quintillus
+    "Aurelian"  # Aurelian
+    "Severina"  # Severina
+    "Tacitus"  # Tacitus
+    "Florian"  # Florian
+    "Probus"  # Probus
+    "Carus"  # Carus
+    "Numerian"  # Numerian
+    "Carinus"  # Carinus
+    "Diocletian"  # Diocletian
+    "Constantius"  # Constantius
+    "Galerius"  # Galerius
+    "Licinius"  # Licinius
+    "Constantine"  # Constantine
+    "Constans"  # Constans
+    "Jovian"  # Jovian
+    "Valentinian"  # Valentinian
+    "Valens"  # Valens
+    "Gratian"  # Gratian
+    "Theodosius"  # Theodosius
+    "Arcadius"  # Arcadius
+    "Honorius"  # Honorius
+    "Pulcheria"  # Pulcheria
+    "Marcian"  # Marcian
+    "Zenon"  # Zenon
+    "Basiliskos"  # Basiliskos
+    "Anastasios"  # Anastasios
+    "Ioustinos"  # Ioustinos
+    "Ioustinianos"  # Ioustinianos
+    "Tiberios"  # Tiberios
+    "Maurikios"  # Maurikios
+    "Phokas"  # Phokas
+    "Herakleios"  # Herakleios
+    "Herakleonas"  # Herakleonas
+    "Konstas"  # Konstas
+    "Leontios"  # Leontios
+    "Philippikos"  # Philippikos
+    "Theodosios"  # Theodosios
+    "Artavasdos"  # Artavasdos
+    "Eirene"  # Eirene
+    "Nikephoros"  # Nikephoros
+    "Stavrakios"  # Stavrakios
+    "Michael"  # Michael
+    "Theophilos"  # Theophilos
+    "Adrianos"  # Adrianos
+    "Akakios"  # Akakios
+    "Alexandros"  # Alexandros
+    "Alexios"  # Alexios
+    "Anatolios"  # Anatolios
+    "Andreas"  # Andreas
+    "Andronikos"  # Andronikos
+    "Anthemios"  # Anthemios
+    "Anthimos"  # Anthimos
+    "Antiochos"  # Antiochos
+    "Antonios"  # Antonios
+    "Apollonios"  # Apollonios
+    "Arsenios"  # Arsenios
+    "Artemios"  # Artemios
+    "Athanasios"  # Athanasios
+    "Bartholomaios"  # Bartholomaios
+    "Belisarios"  # Belisarios
+    "Boethios"  # Boethios
+    "Bosporios"  # Bosporios
+    "Christophoros"  # Christophoros
+    "Chrysanthos"  # Chrysanthos
+    "Chrysogonos"  # Chrysogonos
+    "Damianos"  # Damianos
+    "Daniel"  # Daniel
+    "David"  # David
+    "Demetrios"  # Demetrios
+    "Diogenes"  # Diogenes
+    "Dionysios"  # Dionysios
+    "Dorotheos"  # Dorotheos
+    "Eirenaios"  # Eirenaios
+    "Eudoxios"  # Eudoxios
+    "Eustratios"  # Eustratios
+    "Eugenios"  # Eugenios
+    "Euphemios"  # Euphemios
+    "Eusebios"  # Eusebios
+    "Eustathios"  # Eustathios
+    "Evangelos"  # Evangelos
+    "Gabriel"  # Gabriel
+    "Gennadios"  # Gennadios
+    "Georgios"  # Georgios
+    "Gerasimos"  # Gerasimos
+    "Germanos"  # Germanos
+    "Gregoras"  # Gregoras
+    "Gregorios"  # Gregorios
+    "Hektorios"  # Hektorios
+    "Helias"  # Helias
+    "Hierotheos"  # Hierotheos
+    "Himerios"  # Himerios
+    "Hippolytos"  # Hippolytos
+    "Hypatios"  # Hypatios
+    "Iakobos"  # Iakobos
+    "Ignatios"  # Ignatios
+    "Innokentios"  # Innokentios
+    "Ioannes"  # Ioannes
+    "Ioannikios"  # Ioannikios
+    "Iordanes"  # Iordanes
+    "Ioseph"  # Ioseph
+    "Isaakios"  # Isaakios
+    "Isaias"  # Isaias
+    "Isidoros"  # Isidoros
+    "Ioulianos"  # Ioulianos
+    "Kaisarios"  # Kaisarios
+    "Kallinikos"  # Kallinikos
+    "Kallistos"  # Kallistos
+    "Komitas"  # Komitas
+    "Konstantios"  # Konstantios
+    "Kosmas"  # Kosmas
+    "Kyriakos"  # Kyriakos
+    "Kyrillos"  # Kyrillos
+    "Kyros"  # Kyros
+    "Laurentios"  # Laurentios
+    "Lazaros"  # Lazaros
+    "Loukas"  # Loukas
+    "Makarios"  # Makarios
+    "Manuel"  # Manuel
+    "Markos"  # Markos
+    "Matthaios"  # Matthaios
+    "Maximos"  # Maximos
+    "Megistos"  # Megistos
+    "Meletios"  # Meletios
+    "Methodios"  # Methodios
+    "Narses"  # Narses
+    "Neophytos"  # Neophytos
+    "Niketas"  # Niketas
+    "Nikodemos"  # Nikodemos
+    "Nikolaos"  # Nikolaos
+    "Niphon"  # Niphon
+    "Orestes"  # Orestes
+    "Pamphilios"  # Pamphilios
+    "Pankratios"  # Pankratios
+    "Pantoleon"  # Pantoleon
+    "Paschalis"  # Paschalis
+    "Pavlos"  # Pavlos
+    "Pelagios"  # Pelagios
+    "Petros"  # Petros
+    "Philaretos"  # Philaretos
+    "Philippos"  # Philippos
+    "Philotheos"  # Philotheos
+    "Photios"  # Photios
+    "Polykarpos"  # Polykarpos
+    "Porphyrios"  # Porphyrios
+    "Prokopios"  # Prokopios
+    "Pyrros"  # Pyrros
+    "Raphail"  # Raphail
+    "Romanos"  # Romanos
+    "Sabas"  # Sabas
+    "Samuel"  # Samuel
+    "Serapion"  # Serapion
+    "Sebastianos"  # Sebastianos
+    "Sergios"  # Sergios
+    "Stephanos"  # Stephanos
+    "Staurakios"  # Staurakios
+    "Symeon"  # Symeon
+    "Symmachos"  # Symmachos
+    "Theocharistos"  # Theocharistos
+    "Theodoros"  # Theodoros
+    "Theodotos"  # Theodotos
+    "Theodoulos"  # Theodoulos
+    "Theoktistos"  # Theoktistos
+    "Theophanes"  # Theophanes
+    "Theophylaktos"  # Theophylaktos
+    "Thomas"  # Thomas
+    "Traianos"  # Traianos
+    "Timotheos"  # Timotheos
+    "Tryphon"  # Tryphon
+    "Valerios"  # Valerios
+    "Zacharias"  # Zacharias
+    "Zenobios"  # Zenobios
+}
+monarch_names = {
+    "Leon #5" = 22
+    "Marinos #0" = 0
+    "Konstantinos #4" = 0
+    "Tiberius #1" = 0
+    "Claudius #2" = 0
+    "Galba #1" = 0
+    "Vitellius #1" = 0
+    "Titus #1" = 0
+    "Nerva #1" = 0
+    "Hadrian #1" = 0
+    "Lucius #1" = 0
+    "Commodus #1" = 0
+    "Julian #2" = 0
+    "Geta #1" = 0
+    "Macrinus #1" = 0
+    "Alexander #1" = 0
+    "Gordian #3" = 0
+    "Balbinus #1" = 0
+    "Decius #1" = 0
+    "Aemilian #1" = 0
+    "Gallienus #1" = 0
+    "Aurelian #1" = 0
+    "Tacitus #1" = 0
+    "Probus #1" = 0
+    "Numerian #1" = 0
+    "Diocletian #1" = 0
+    "Galerius #1" = 0
+    "Constantine #2" = 0
+    "Jovian #1" = 0
+    "Valens #1" = 0
+    "Theodosius #2" = 0
+    "Honorius #1" = 0
+    "Marcian #1" = 0
+    "Basiliskos #1" = 0
+    "Ioustinos #2" = 0
+    "Tiberios #2" = 0
+    "Phokas #1" = 0
+    "Herakleonas #1" = 0
+    "Leontios #1" = 0
+    "Theodosios #1" = 0
+    "Eirene #1" = 0
+    "Stavrakios #1" = 0
+    "Theophilos #1" = 0
+    "Akakios #0" = 0
+    "Alexios #0" = 0
+    "Andreas #0" = 0
+    "Anthemios #0" = 0
+    "Antiochos #0" = 0
+    "Apollonios #0" = 0
+    "Artemios #0" = 0
+    "Bartholomaios #0" = 0
+    "Boethios #0" = 0
+    "Christophoros #0" = 0
+    "Chrysogonos #0" = 22
+    "Daniel #0" = 0
+    "Demetrios #0" = 0
+    "Dionysios #0" = 0
+    "Eirenaios #0" = -1
+    "Eustratios #0" = 0
+    "Euphemios #0" = 0
+    "Eustathios #0" = 0
+    "Gabriel #0" = 0
+    "Georgios #0" = 0
+    "Germanos #0" = 0
+    "Gregorios #0" = 0
+    "Helias #0" = 0
+    "Himerios #0" = 0
+    "Hypatios #0" = 0
+    "Ignatios #0" = 0
+    "Ioannes #0" = 0
+    "Iordanes #0" = 0
+    "Isaakios #0" = 0
+    "Isidoros #0" = 0
+    "Kaisarios #0" = 0
+    "Kallistos #0" = 0
+    "Konstantios #0" = 0
+    "Kyriakos #0" = 0
+    "Kyros #0" = 0
+    "Lazaros #0" = 0
+    "Makarios #0" = 0
+    "Markos #0" = 0
+    "Maximos #0" = 0
+    "Meletios #0" = 0
+    "Narses #0" = 0
+    "Niketas #0" = 0
+    "Nikolaos #0" = 0
+    "Orestes #0" = 0
+    "Pankratios #0" = 0
+    "Paschalis #0" = 0
+    "Pelagios #0" = 0
+    "Philaretos #0" = 0
+    "Philotheos #0" = 0
+    "Polykarpos #0" = 0
+    "Prokopios #0" = 0
+    "Raphail #0" = 0
+    "Sabas #0" = 0
+    "Serapion #0" = 0
+    "Sergios #0" = 0
+    "Staurakios #0" = 0
+    "Symmachos #0" = 0
+    "Theodoros #0" = 0
+    "Theodoulos #0" = 0
+    "Theophanes #0" = 0
+    "Thomas #0" = 0
+    "Timotheos #0" = 0
+    "Valerios #0" = 0
+    "Zenobios #0" = 0
+    "Bardas #0" = -23
+    "Augustus #1" = 0
+    "Nero #1" = 0
+    "Vespasian #1" = 0
+    "Trajan #1" = 0
+    "Marcus #1" = -1
+    "Septimius #1" = 0
+    "Heliogabalus #1" = 0
+    "Pupienus #1" = 0
+    "Trebonianus #1" = 0
+    "Quintillus #1" = 0
+    "Florian #1" = 0
+    "Carinus #1" = 0
+    "Licinius #1" = 0
+    "Valentinian #1" = 0
+    "Arcadius #1" = 0
+    "Zenon #1" = 0
+    "Ioustinianos #2" = 0
+    "Herakleios #1" = 0
+    "Philippikos #1" = 0
+    "Nikephoros #1" = 0
+    "Adrianos #0" = 0
+    "Anatolios #0" = 0
+    "Anthimos #0" = 0
+    "Arsenios #0" = 0
+    "Belisarios #0" = 0
+    "Chrysanthos #0" = 0
+    "David #0" = 0
+    "Dorotheos #0" = 0
+    "Eugenios #0" = 0
+    "Evangelos #0" = 0
+    "Gerasimos #0" = 0
+    "Hektorios #0" = 0
+    "Hippolytos #0" = 0
+    "Innokentios #0" = 0
+    "Ioseph #0" = 0
+}
+ship_names = {
+    "Abundantia"  # Abundantia
+    "Acca Larentia"  # Acca Larentia
+    "Acis"  # Acis
+    "Aerecura"  # Aerecura
+    "Aequitas"  # Aequitas
+    "Aesculapius"  # Aesculapius
+    "Aeternitas"  # Aeternitas
+    "Aeon"  # Aeon
+    "Aius Locutius"  # Aius Locutius
+    "Alernus"  # Alernus
+    "Angerona"  # Angerona
+    "Angitia"  # Angitia
+    "Anna Perenna"  # Anna Perenna
+    "Annona"  # Annona
+    "Antevorta"  # Antevorta
+    "Apollo"  # Apollo
+    "Arimanius"  # Arimanius
+    "Aura"  # Aura
+    "Aurora"  # Aurora
+    "Averruncus"  # Averruncus
+    "Bacchus"  # Bacchus
+    "Bellona"  # Bellona
+    "Bona Dea"  # Bona Dea
+    "Bonus Eventus"  # Bonus Eventus
+    "Bubona"  # Bubona
+    "Caca"  # Caca
+    "Cacus"  # Cacus
+    "Camenae"  # Camenae
+    "Cardea"  # Cardea
+    "Carmenta"  # Carmenta
+    "Carmentes"  # Carmentes
+    "Carna"  # Carna
+    "Ceres"  # Ceres
+    "Clementia"  # Clementia
+    "Cloacina"  # Cloacina
+    "Concordia"  # Concordia
+    "Consus"  # Consus
+    "Cupid"  # Cupid
+    "Cura"  # Cura
+    "Cybele"  # Cybele
+    "Dea Dia"  # Dea Dia
+    "Dea Tacita"  # Dea Tacita
+    "Decima"  # Decima
+    "Devera"  # Devera
+    "Diana"  # Diana
+    "Diana Nemorensis"  # Diana Nemorensis
+    "Dius Fidius"  # Dius Fidius
+    "Disciplina"  # Disciplina
+    "Dis Pater"  # Dis Pater
+    "Egeria"  # Egeria
+    "Empanda"  # Empanda
+    "Epona"  # Epona
+    "Falacer"  # Falacer
+    "Fama"  # Fama
+    "Fascinus"  # Fascinus
+    "Fauna"  # Fauna
+    "Faunus"  # Faunus
+    "Faustitas"  # Faustitas
+    "Februus"  # Februus
+    "Febris"  # Febris
+    "Fecunditas"  # Fecunditas
+    "Felicitas"  # Felicitas
+    "Ferentina"  # Ferentina
+    "Feronia"  # Feronia
+    "Fides"  # Fides
+    "Flora"  # Flora
+    "Fornax"  # Fornax
+    "Fontus"  # Fontus
+    "Fortuna"  # Fortuna
+    "Fulgora"  # Fulgora
+    "Furrina"  # Furrina
+    "Genius"  # Genius
+    "Gratiae"  # Gratiae
+    "Hercules"  # Hercules
+    "Hermaphroditus"  # Hermaphroditus
+    "Hilaritas"  # Hilaritas
+    "Honos"  # Honos
+    "Hora"  # Hora
+    "Indiges"  # Indiges
+    "Intercidona"  # Intercidona
+    "Inuus"  # Inuus
+    "Invidia"  # Invidia
+    "Isis"  # Isis
+    "Iris"  # Iris
+    "Janus"  # Janus
+    "Juno"  # Juno
+    "Jupiter"  # Jupiter
+    "Justitia"  # Justitia
+    "Juturna"  # Juturna
+    "Juventas"  # Juventas
+    "Lares"  # Lares
+    "Laverna"  # Laverna
+    "Levana"  # Levana
+    "Letum"  # Letum
+    "Liber"  # Liber
+    "Libera"  # Libera
+    "Liberalitas"  # Liberalitas
+    "Libertas"  # Libertas
+    "Libitina"  # Libitina
+    "Lua"  # Lua
+    "Lucina"  # Lucina
+    "Luna"  # Luna
+    "Lupercus"  # Lupercus
+    "Lympha"  # Lympha
+    "Mana Genita"  # Mana Genita
+    "Manes"  # Manes
+    "Mania"  # Mania
+    "Mantus"  # Mantus
+    "Mars"  # Mars
+    "Mater Matuta"  # Mater Matuta
+    "Meditrina"  # Meditrina
+    "Mephitis"  # Mephitis
+    "Mellonia"  # Mellonia
+    "Mercury"  # Mercury
+    "Minerva"  # Minerva
+    "Mithras"  # Mithras
+    "Molae"  # Molae
+    "Moneta"  # Moneta
+    "Mors"  # Mors
+    "Morta"  # Morta
+    "Murcia"  # Murcia
+    "Mutunus Tutunus"  # Mutunus Tutunus
+    "Naenia"  # Naenia
+    "Nascio"  # Nascio
+    "Necessitas"  # Necessitas
+    "Nemesis"  # Nemesis
+    "Neptune"  # Neptune
+    "Nerio"  # Nerio
+    "Neverita"  # Neverita
+    "Nixi"  # Nixi
+    "Nona"  # Nona
+    "Nox"  # Nox
+    "Opis"  # Opis
+    "Orcus"  # Orcus
+    "Palatua"  # Palatua
+    "Pales"  # Pales
+    "Parcae"  # Parcae
+    "Pax"  # Pax
+    "Penates"  # Penates
+    "Picumnus"  # Picumnus
+    "Picus"  # Picus
+    "Pietas"  # Pietas
+    "Pilumnus"  # Pilumnus
+    "Pluto"  # Pluto
+    "Poena"  # Poena
+    "Pomona"  # Pomona
+    "Porrima"  # Porrima
+    "Portunes"  # Portunes
+    "Postverta"  # Postverta
+    "Priapus"  # Priapus
+    "Proserpina"  # Proserpina
+    "Providentia"  # Providentia
+    "Pudicitia"  # Pudicitia
+    "Querquetulanae"  # Querquetulanae
+    "Quirinus"  # Quirinus
+    "Quiritis"  # Quiritis
+    "Robigus"  # Robigus
+    "Roma"  # Roma
+    "Rumina"  # Rumina
+    "Salacia"  # Salacia
+    "Salus"  # Salus
+    "Sancus"  # Sancus
+    "Saturn"  # Saturn
+    "Securitas"  # Securitas
+    "Silvanus"  # Silvanus
+    "Sol Invictus"  # Sol Invictus
+    "Somnus"  # Somnus
+    "Soranus"  # Soranus
+    "Sors"  # Sors
+    "Spes"  # Spes
+    "Stata"  # Stata
+    "Mater"  # Mater
+    "Sterquilinus"  # Sterquilinus
+    "Suadela"  # Suadela
+    "Summanus"  # Summanus
+    "Sulis Minerva"  # Sulis Minerva
+    "Tellurus"  # Tellurus
+    "Tempestas"  # Tempestas
+    "Terra Mater"  # Terra Mater
+    "Terminus"  # Terminus
+    "Tiberinus"  # Tiberinus
+    "Tibertus"  # Tibertus
+    "Tranquillitas"  # Tranquillitas
+    "Trivia"  # Trivia
+    "Ubertas"  # Ubertas
+    "Unxia"  # Unxia
+    "Uranus"  # Uranus
+    "Vacuna"  # Vacuna
+    "Vediovus"  # Vediovus
+    "Venilia"  # Venilia
+    "Venti"  # Venti
+    "Venus"  # Venus
+    "Veritas"  # Veritas
+    "Verminus"  # Verminus
+    "Vertumnus"  # Vertumnus
+    "Vesta"  # Vesta
+    "Vica Pota"  # Vica Pota
+    "Victoria"  # Victoria
+    "Virbius"  # Virbius
+    "Virtus"  # Virtus
+    "Volturnus"  # Volturnus
+    "Voluptas"  # Voluptas
+    "Vulcan"  # Vulcan
+}

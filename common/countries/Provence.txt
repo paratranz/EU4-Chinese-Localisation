@@ -1,0 +1,242 @@
+﻿graphical_culture = westerngfx
+color = {
+    93
+    160
+    163
+}
+historical_idea_groups = {
+    defensive_ideas
+    trade_ideas
+    religious_ideas
+    diplomatic_ideas
+    economic_ideas
+    innovativeness_ideas
+    offensive_ideas
+    spy_ideas
+}
+historical_units = {
+    western_medieval_infantry
+    western_medieval_knights
+    western_men_at_arms
+    swiss_landsknechten
+    dutch_maurician
+    french_caracolle
+    anglofrench_line
+    french_dragoon
+    french_bluecoat
+    french_cuirassier
+    french_impulse
+    mixed_order_infantry
+    open_order_cavalry
+    napoleonic_square
+    napoleonic_lancers
+}
+monarch_names = {
+    "Louis #1" = 20
+    "Nicolas #0" = 1
+    "Raymond Berengar #3" = 0
+    "Robert #1" = 0
+    "Aymeric #0" = 0
+    "Benedit #0" = 0
+    "Bertran #0" = 0
+    "Emeric #0" = 0
+    "Estève #0" = 0
+    "Folquet #0" = 0
+    "Gastó #0" = -1
+    "Huc #0" = 0
+    "Jaufre #0" = 0
+    "Loys #0" = 5
+    "Martí #0" = 0
+    "Miqueu #0" = 0
+    "Pol #0" = 0
+    "Sanc #0" = 0
+    "Vicentz #0" = 0
+    "Xavier #0" = 0
+    "Osanne #0" = -1
+    "Charles #2" = 40
+    "Jean #0" = 0
+    "Adhémar #0" = 0
+    "Bernat #0" = 0
+    "Enric #0" = 0
+    "Frances #0" = -1
+    "Jacme #0" = 0
+    "Lucas #0" = 0
+}
+leader_names = {
+    "d'Abeille"  # d'Abeille
+    "d'Adhémar"  # d'Adhémar
+    "d'Agoult"  # d'Agoult
+    "d'Aiglun"  # d'Aiglun
+    "d'Aiguières"  # d'Aiguières
+    "d'Allemagne"  # d'Allemagne
+    "d'Amalric"  # d'Amalric
+    "d'Audiffredi"  # d'Audiffredi
+    "de Bagnols"  # de Bagnols
+    "de Barberin"  # de Barberin
+    "de Barcillon"  # de Barcillon
+    "de Baschi"  # de Baschi
+    "des Baux"  # des Baux
+    "de Bermond"  # de Bermond
+    "de Bionneau"  # de Bionneau
+    "de Brunet"  # de Brunet
+    "de Cadenet"  # de Cadenet
+    "de Cascaris-Castellet"  # de Cascaris-Castellet
+    "de Castaing"  # de Castaing
+    "de Castellane"  # de Castellane
+    "de Castillon"  # de Castillon
+    "Coquerel"  # Coquerel
+    "de Cordes"  # de Cordes
+    "de Cormis"  # de Cormis
+    "de Crillon"  # de Crillon
+    "d'Entrecasteaux"  # d'Entrecasteaux
+    "d'Espagnet"  # d'Espagnet
+    "Esparron"  # Esparron
+    "d'Espinouze"  # d'Espinouze
+    "de Fargis"  # de Fargis
+    "Fauque de Jonquières"  # Fauque de Jonquières
+    "Ferré de la Grange"  # Ferré de la Grange
+    "de Gassendi"  # de Gassendi
+    "de Gévaudan"  # de Gévaudan
+    "de Gombert"  # de Gombert
+    "de Gordes"  # de Gordes
+    "de Grignan"  # de Grignan
+    "Grimaldi"  # Grimaldi
+    "de Grimaud"  # de Grimaud
+    "de Guast"  # de Guast
+    "des Isnards"  # des Isnards
+    "de Lauris"  # de Lauris
+    "de Libertat"  # de Libertat
+    "de Loménie"  # de Loménie
+    "de Monteil"  # de Monteil
+    "de Montpezat"  # de Montpezat
+    "de Paule"  # de Paule
+    "de Pena"  # de Pena
+    "Pene de la Borde"  # Pene de la Borde
+    "de la Pérusse"  # de la Pérusse
+    "de Pontevès"  # de Pontevès
+    "de Raimondis"  # de Raimondis
+    "de Revest"  # de Revest
+    "de Riquetti"  # de Riquetti
+    "de Sabran"  # de Sabran
+    "de Sade"  # de Sade
+    "de Saint Victoret"  # de Saint Victoret
+    "de Séguiran"  # de Séguiran
+    "de Simiane"  # de Simiane
+    "de Valbelle"  # de Valbelle
+}
+ship_names = {
+    "Achille"  # Achille
+    "Agréable"  # Agréable
+    "Aigle Volant"  # Aigle Volant
+    "Alcyon"  # Alcyon
+    "Alouette"  # Alouette
+    "Altier"  # Altier
+    "Aquilon"  # Aquilon
+    "Ardente"  # Ardente
+    "Assuré"  # Assuré
+    "Avenant"  # Avenant
+    "Aventurier"  # Aventurier
+    "Baleine"  # Baleine
+    "Bécasse"  # Bécasse
+    "Bienvenu"  # Bienvenu
+    "Bizarre"  # Bizarre
+    "Borée"  # Borée
+    "Branche d'Olivier"  # Branche d'Olivier
+    "Brillant"  # Brillant
+    "Bucentaure"  # Bucentaure
+    "Caché"  # Caché
+    "Caille"  # Caille
+    "Capable"  # Capable
+    "Centaure"  # Centaure
+    "César"  # César
+    "Cheval Marin"  # Cheval Marin
+    "Coche"  # Coche
+    "Commerce de Marseille"  # Commerce de Marseille
+    "Commerce de Montpellier"  # Commerce de Montpellier
+    "Comte de Provence"  # Comte de Provence
+    "Conquérant"  # Conquérant
+    "Constant"  # Constant
+    "Content"  # Content
+    "Croissant"  # Croissant
+    "Dauphine"  # Dauphine
+    "Diamant"  # Diamant
+    "Dieppoise"  # Dieppoise
+    "Dur"  # Dur
+    "Dromadaire"  # Dromadaire
+    "Eclatant"  # Eclatant
+    "Eole"  # Eole
+    "Espérance"  # Espérance
+    "Fantasque"  # Fantasque
+    "Ferme"  # Ferme
+    "Fidèle"  # Fidèle
+    "Fier"  # Fier
+    "Florissant"  # Florissant
+    "Formidable"  # Formidable
+    "Fort"  # Fort
+    "Foudroyant"  # Foudroyant
+    "Gaillard"  # Gaillard
+    "Heureux"  # Heureux
+    "Héros"  # Héros
+    "Jason"  # Jason
+    "Lion"  # Lion
+    "Mignon"  # Mignon
+    "Minerve"  # Minerve
+    "Océan"  # Océan
+    "Orphée"  # Orphée
+    "Parfait"  # Parfait
+    "Phénix"  # Phénix
+    "Poli"  # Poli
+    "Pompeux"  # Pompeux
+    "Portefaix"  # Portefaix
+    "Protecteur"  # Protecteur
+    "Provençal"  # Provençal
+    "Provence"  # Provence
+    "Prudent"  # Prudent
+    "Puissant"  # Puissant
+    "Réale"  # Réale
+    "Redoutable"  # Redoutable
+    "Requin"  # Requin
+    "Royal Louis"  # Royal Louis
+    "Sage"  # Sage
+    "Sagittaire"  # Sagittaire
+    "Royal Thérèse"  # Royal Thérèse
+    "Saint Esprit"  # Saint Esprit
+    "Saint Joseph"  # Saint Joseph
+    "Saint Philippe"  # Saint Philippe
+    "Sardine"  # Sardine
+    "Sceptre"  # Sceptre
+    "Séduisant"  # Séduisant
+    "Seine"  # Seine
+    "Sérieux"  # Sérieux
+    "Solide"  # Solide
+    "Souverain"  # Souverain
+    "Suffisant"  # Suffisant
+    "Téméraire"  # Téméraire
+    "Terrible"  # Terrible
+    "Tigre"  # Tigre
+    "Tonnant"  # Tonnant
+    "Toulon"  # Toulon
+    "Toulouse"  # Toulouse
+    "Trident"  # Trident
+    "Triomphant"  # Triomphant
+    "Triton"  # Triton
+    "Union"  # Union
+    "Vaillant"  # Vaillant
+    "Vigilant"  # Vigilant
+    "Volontaire"  # Volontaire
+    "Zélé"  # Zélé
+}
+army_names = {
+    "Armée de Marseille"  # Armée de Marseille
+    "Armée des Baux"  # Armée des Baux
+    "Armée de Provence-Forcalquier"  # Armée de Provence-Forcalquier
+    "Armée d'Orange"  # Armée d'Orange
+    "Armée du Pays d'Arles"  # Armée du Pays d'Arles
+    "Armée des Alpes"  # Armée des Alpes
+    "Armée du Rhône"  # Armée du Rhône
+    "Armée de la Durance"  # Armée de la Durance
+    "Armée de Haute Provence"  # Armée de Haute Provence
+    "Armée de Basse Provence"  # Armée de Basse Provence
+    "Armée du Vivarais"  # Armée du Vivarais
+    "Armée de $PROVINCE$"  # Armée de $PROVINCE$
+}

@@ -1,0 +1,198 @@
+﻿graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+color = {
+    127
+    180
+    60
+}
+historical_idea_groups = {
+    defensive_ideas
+    offensive_ideas
+    spy_ideas
+    trade_ideas
+    economic_ideas
+    administrative_ideas
+    innovativeness_ideas
+    religious_ideas
+}
+historical_units = {
+    east_asian_spearmen
+    eastern_bow
+    asian_arquebusier
+    asian_charge_cavalry
+    asian_mass_infantry
+    asian_musketeer
+    reformed_asian_musketeer
+    reformed_asian_cavalry
+}
+monarch_names = {
+    "Noreay Ramathipatei #0" = 20
+    "Thommo Reachea #0" = 20
+    "Ang Chan #0" = 25
+    "Barom Reachea #0" = 30
+    "Ney Khan #0" = 20
+    "Keo Hua #0" = 5
+    "Sri Dharmaraja #0" = 5
+    "Ramathipadi #0" = 5
+    "Ream Reachea #0" = 5
+    "Ponhea Yat #0" = 5
+    "Sri Raja #0" = 5
+    "Dharmarajadhiraja #0" = 5
+    "Reamea Chungprey #0" = -1
+    "Ponhea Yor #0" = 40
+    "Ponhea Nhom #0" = 5
+    "Udayaraja #0" = 10
+    "Ang Non #0" = 20
+    "Ang Sur #0" = 5
+    "Ang Nan #0" = 5
+    "Ang Yong #0" = 5
+    "Ang Tham #0" = 5
+    "Ang Tong #0" = 5
+    "Ang Eng #0" = 5
+    "Boupha #0" = -1
+    "Ang Mey #0" = -1
+    "Neang Pou #0" = -1
+    "Soriyotei #1" = 20
+    "Reachea Ramathipatei #0" = 35
+    "Preah Ram #0" = 5
+    "Padumaraja #0" = 5
+    "Narayanaraja #1" = 5
+    "Rajadhiraja #0" = 5
+    "Keo Ban On #0" = 45
+    "Srei Soriyopear #0" = 5
+    "Ponhea Chan #0" = -1
+}
+leader_names = {
+    "Ann"  # Ann
+    "Bopha"  # Bopha
+    "Chak"  # Chak
+    "Charny"  # Charny
+    "Chea"  # Chea
+    "Chhay"  # Chhay
+    "Chhoub"  # Chhoub
+    "Chim"  # Chim
+    "Choeun"  # Choeun
+    "Chop"  # Chop
+    "Dara"  # Dara
+    "Daro"  # Daro
+    "Em"  # Em
+    "Heang"  # Heang
+    "Hout"  # Hout
+    "Houy"  # Houy
+    "Hoy"  # Hoy
+    "Huy"  # Huy
+    "In"  # In
+    khai
+    "Khan"  # Khan
+    "Khlot"  # Khlot
+    "Khoeun"  # Khoeun
+    "Khoun"  # Khoun
+    khun
+    "Khuth"  # Khuth
+    "Lim"  # Lim
+    "Lorn"  # Lorn
+    "Loun"  # Loun
+    "Mak"  # Mak
+    "Meang"  # Meang
+    "Meas"  # Meas
+    "Meng"  # Meng
+    "Mok"  # Mok
+    "Mon"  # Mon
+    "Moul"  # Moul
+    "Nak"  # Nak
+    "Nam"  # Nam
+    "Nary"  # Nary
+    "Neak"  # Neak
+    "Nimol"  # Nimol
+    "Norodom"  # Norodom
+    "Noung"  # Noung
+    "Nourn"  # Nourn
+    "Nout"  # Nout
+    "Oeun"  # Oeun
+    "On"  # On
+    "Or"  # Or
+    "Ou"  # Ou
+    "Ouk"  # Ouk
+    "Pang"  # Pang
+    "Pen"  # Pen
+    "Phann"  # Phann
+    "Phaul"  # Phaul
+    "Pheng"  # Pheng
+    "Phon"  # Phon
+    "Pichenda"  # Pichenda
+    "Prak"  # Prak
+    "Preap"  # Preap
+    "Prum"  # Prum
+    "Rangsey"  # Rangsey
+    "Rath"  # Rath
+    "Rithy"  # Rithy
+    "Rous"  # Rous
+    "Saluk"  # Saluk
+    "Sam"  # Sam
+    "San"  # San
+    "Samphan"  # Samphan
+    "Sarith"  # Sarith
+    "Sary"  # Sary
+    "Sem"  # Sem
+    "Sen"  # Sen
+    "Sim"  # Sim
+    "Sin"  # Sin
+    "Sivorn"  # Sivorn
+    "Soch"  # Soch
+    "Sok"  # Sok
+    "Sokal"  # Sokal
+    "Som"  # Som
+    "Sorm"  # Sorm
+    "Sun"  # Sun
+    "Thith"  # Thith
+    "Thong"  # Thong
+    "Thy"  # Thy
+    "Touch"  # Touch
+    "Tum"  # Tum
+    "Van"  # Van
+    "Vanneth"  # Vanneth
+    "Vichea"  # Vichea
+    "Voeum"  # Voeum
+    "Vuthy"  # Vuthy
+    "Vy"  # Vy
+}
+ship_names = {
+    "Angkor"  # Angkor
+    "Angkor Thom"  # Angkor Thom
+    "Angkor Wat"  # Angkor Wat
+    "Bayon"  # Bayon
+    "Baphuon"  # Baphuon
+    "Bati"  # Bati
+    "Banteay Srei"  # Banteay Srei
+    "Banteay Kdei"  # Banteay Kdei
+    "Banteay Chmar"  # Banteay Chmar
+    "Beng Melea"  # Beng Melea
+    "Isanapura"  # Isanapura
+    "Koh Ker"  # Koh Ker
+    "Kra Isthmus"  # Kra Isthmus
+    "Kompong Svay"  # Kompong Svay
+    "Koh Kor"  # Koh Kor
+    "Mekong"  # Mekong
+    "Muang Sing"  # Muang Sing
+    "Muang Tam"  # Muang Tam
+    "Neak Pean"  # Neak Pean
+    "Phimai"  # Phimai
+    "Preah Ko"  # Preah Ko
+    "Phnom Bakheng"  # Phnom Bakheng
+    "Phra Phang Sam Yod"  # Phra Phang Sam Yod
+    "Phnom Rung"  # Phnom Rung
+    "Phnom Chisor"  # Phnom Chisor
+    "Preah Vihear"  # Preah Vihear
+    "Prasat Kamphaeng Yai"  # Prasat Kamphaeng Yai
+    "Roy Et"  # Roy Et
+    "Sikhoraphum"  # Sikhoraphum
+    "Srah Srang"  # Srah Srang
+    "Ta Keo"  # Ta Keo
+    "Ta Prohm"  # Ta Prohm
+    "Tonle Sap"  # Tonle Sap
+    "Vyadhapura"  # Vyadhapura
+    "Vat Banon"  # Vat Banon
+    "Vat Nokor"  # Vat Nokor
+    "Vat Phu"  # Vat Phu
+    "Zhenla"  # Zhenla
+}
