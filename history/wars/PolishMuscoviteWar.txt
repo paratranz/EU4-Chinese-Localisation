@@ -1,4 +1,4 @@
-﻿name = "Russo-Commonwealth War"  # Russo-Commonwealth War
+﻿name = "俄罗斯-波兰立陶宛联邦战争"  # Russo-Commonwealth War
 war_goal = {
     type = take_capital_throne
     casus_belli = cb_claim_throne
@@ -10,17 +10,17 @@ war_goal = {
 }
 1605.1.21 = {
     battle = {
-        name = "Dobrynichi"  # Dobrynichi
+        name = "多勃雷尼奇"  # Dobrynichi
         location = 292
         attacker = {
-            commander = "False Dmitriy I"  # False Dmitriy I
+            commander = "伪德米特里 I"  # False Dmitriy I
             infantry = 15000
             cavalry = 7000
             losses = 65
             country = PLC
         }
         defender = {
-            commander = "Fyodor Mstislavsky"  # Fyodor Mstislavsky
+            commander = "费奥多 米斯蒂拉夫斯基"  # Fyodor Mstislavsky
             infantry = 12000
             cavalry = 5000
             losses = 20
@@ -31,10 +31,10 @@ war_goal = {
 }
 1610.7.4 = {
     battle = {
-        name = "Klushino"  # Klushino
+        name = "克鲁瑟诺"  # Klushino
         location = 293
         attacker = {
-            commander = "Fyodor Mstislavsky"  # Fyodor Mstislavsky
+            commander = "费奥多 米斯蒂拉夫斯基"  # Fyodor Mstislavsky
             infantry = 1000
             cavalry = 6000
             artillery = 30
@@ -42,7 +42,7 @@ war_goal = {
             country = PLC
         }
         defender = {
-            commander = "Dmitry Shuisky"  # Dmitry Shuisky
+            commander = "德米特里 舒斯基"  # Dmitry Shuisky
             infantry = 18000
             cavalry = 12000
             losses = 17
@@ -53,10 +53,10 @@ war_goal = {
 }
 1611.6.3 = {
     battle = {
-        name = "Smolensk"  # Smolensk
+        name = "斯模棱斯克"  # Smolensk
         location = 293
         attacker = {
-            commander = "Sigismund III"  # Sigismund III
+            commander = "西吉斯蒙德 III"  # Sigismund III
             infantry = 6000
             cavalry = 15000
             artillery = 30
@@ -64,7 +64,7 @@ war_goal = {
             country = PLC
         }
         defender = {
-            commander = "Mikhail Borisovich Shein"  # Mikhail Borisovich Shein
+            commander = "米哈伊尔 鲍里索维奇 沙因"  # Mikhail Borisovich Shein
             infantry = 4800
             cavalry = 500
             losses = 35

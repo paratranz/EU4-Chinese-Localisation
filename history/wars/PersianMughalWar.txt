@@ -1,4 +1,4 @@
-﻿name = "Persian-Mughal War"  # Persian-Mughal War
+﻿name = "波斯-莫卧儿战争"  # Persian-Mughal War
 war_goal = {
     type = take_border
     casus_belli = cb_border_war
@@ -10,17 +10,17 @@ war_goal = {
 }
 1739.2.24 = {
     battle = {
-        name = "Karnal"  # Karnal
+        name = "迦罗那罗"  # Karnal
         location = 510
         attacker = {
-            commander = "Nadir Shah"  # Nadir Shah
+            commander = "纳迪尔 沙阿"  # Nadir Shah
             infantry = 48000
             cavalry = 5000
             losses = 10
             country = PER
         }
         defender = {
-            commander = "Muhammad Shah"  # Muhammad Shah
+            commander = "穆罕默德 沙"  # Muhammad Shah
             infantry = 85000
             losses = 45
             country = MUG

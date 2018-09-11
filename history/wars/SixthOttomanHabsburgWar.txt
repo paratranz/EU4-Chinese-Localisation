@@ -1,4 +1,4 @@
-﻿name = "Sixth Ottoman-Habsburg War"  # Sixth Ottoman-Habsburg War
+﻿name = "第六次奥斯曼-奥地利战争"  # Sixth Ottoman-Habsburg War
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -12,17 +12,17 @@ war_goal = {
 }
 1664.8.1 = {
     battle = {
-        name = "Saint Gotthard"  # Saint Gotthard
+        name = "圣哥达"  # Saint Gotthard
         location = 135
         attacker = {
-            commander = "Ahmed Koprulu"  # Ahmed Koprulu
+            commander = "艾哈迈德 科普鲁卢"  # Ahmed Koprulu
             infantry = 45000
             cavalry = 15000
             losses = 17
             country = TUR
         }
         defender = {
-            commander = "Raimondo Montecuccoli"  # Raimondo Montecuccoli
+            commander = "雷蒙多 蒙泰库科利"  # Raimondo Montecuccoli
             infantry = 30000
             cavalry = 10000
             losses = 5
