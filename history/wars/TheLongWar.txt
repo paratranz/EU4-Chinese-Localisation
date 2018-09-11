@@ -1,4 +1,4 @@
-﻿name = "The Long War"  # The Long War
+﻿name = "长期战争"  # The Long War
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -13,17 +13,17 @@ war_goal = {
 }
 1596.10.24 = {
     battle = {
-        name = "Keresztes"  # Keresztes
+        name = "克雷斯特斯"  # Keresztes
         location = 155
         attacker = {
-            commander = "Mehmet II"  # Mehmet II
+            commander = "穆罕默德 II"  # Mehmet II
             infantry = 60000
             cavalry = 30000
             losses = 25
             country = TUR
         }
         defender = {
-            commander = "Maximilian Habsburg"  # Maximilian Habsburg
+            commander = "马克西米利安 哈布斯堡"  # Maximilian Habsburg
             infantry = 30000
             cavalry = 15000
             losses = 65
