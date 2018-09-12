@@ -30,19 +30,19 @@ historical_units = {
 monarch_names = {
     "Sher #0" = 20
     "Rukn ad-Din Barbak #0" = 10
-    "Nasir-ud-Din Mahmud #1" = 10
-    "Jalaluddin Mohammed #1" = 5
-    "Mirza Muhammad #0" = 5
-    "Shams-ud-Din Ahmad #1" = 5
-    "Mir Muhammad Ja'far #0" = 0
-    "Mir Qasim 'Ali #0" = 0
-    "Ghiyasuddin Azam #1" = 0
-    "Ghiyat ad-Din Bahadur #0" = 0
-    "Da'ud #0" = -1
-    "Murshid Quli #0" = 10
-    "Azam #0" = 5
+    "Nasir-ud-Din Mahmud #1" = 20
+    "Jalaluddin Mohammed #1" = 10
+    "Mirza Muhammad #0" = 10
+    "Shams-ud-Din Ahmad #1" = 10
+    "Mir Muhammad Ja'far #0" = 10
+    "Mir Qasim 'Ali #0" = 5
+    "Ghiyasuddin Azam #1" = 5
+    "Ghiyat ad-Din Bahadur #0" = 5
+    "Da'ud #0" = 5
+    "Murshid Quli #0" = 5
+    "Azam #0" = 0
     "Abu Nasr #0" = 0
-    "Farid #0" = 5
+    "Farid #0" = 0
     "Husain #0" = 0
     "Nasrat #0" = 0
     "Bayazid #0" = 0
@@ -50,77 +50,92 @@ monarch_names = {
     "Raja #0" = 0
     "Malika Bibi #0" = -1
     "Kamala #0" = -1
-    "Ala-ud-Din Firuz #2" = 10
-    "Nasir ad-Din Nasrat #0" = 10
-    "Shams-ud-Din Yusuf #1" = 5
-    "Shihab-ud-Din Bayazid #1" = 0
-    "Ghiyasuddin Mahmud #0" = 0
-    "Sulayman #0" = 20
-    "Ahmad #0" = 0
+    "舍尔 #0" = 20
+    "鲁克乌丁 巴尔巴克 #0" = 10
+    "纳希尔乌丁 马哈茂德 #1" = 10
+    "贾拉鲁丁 穆罕默德 #1" = 5
+    "米尔扎 穆罕默德 #0" = 5
+    "沙姆斯乌丁 艾哈迈德 #1" = 5
+    "米尔 穆罕默德 贾法尔 #0" = 0
+    "米尔 卡西姆 阿里 #0" = 0
+    "吉亚斯乌丁 阿扎姆 #1" = 0
+    "吉亚西乌丁 巴哈杜尔 #0" = 0
+    "达乌德 #0" = -1
+    "穆尔希德 库里 #0" = 10
+    "阿扎姆 #0" = 10
+    "阿布 纳萨尔 #0" = 5
+    "法里德 #0" = 0
+    "侯赛因 #0" = 0
+    "纳斯拉特 #0" = 20
+    "巴耶基德 #0" = 5
+    "吉亚苏丁 #0" = 0
+    "罗阇 #0" = 10
+    "马丽卡 比比 #0" = 0
+    "卡玛拉 #0" = 5
 }
 leader_names = {
-    "Azad"  # Azad
-    "ad-Daula"  # ad-Daula
-    "Ganesha"  # Ganesha
-    "Bose"  # Bose
-    "Chodhury"  # Chodhury
-    "Das"  # Das
-    "Debshikdar"  # Debshikdar
-    "Ganguly"  # Ganguly
-    "Ghosh"  # Ghosh
-    "Karani"  # Karani
-    "Khan"  # Khan
-    "Majumdar"  # Majumdar
-    "Mukerjhee"  # Mukerjhee
-    "Pal"  # Pal
-    "Roy"  # Roy
-    "Saraswoti"  # Saraswoti
-    "Sarkar"  # Sarkar
-    "Sen"  # Sen
-    "Shahi"  # Shahi
-    "Shaikh"  # Shaikh
-    "Suri"  # Suri
-    "Thakur"  # Thakur
-    "Waddedar"  # Waddedar
-    "Zamindar"  # Zamindar
+    "阿扎德"  # Azad
+    "阿德 道拉"  # ad-Daula
+    "伽内什"  # Ganesha
+    "卜色"  # Bose
+    "乔杜里"  # Chodhury
+    "达斯"  # Das
+    "德布什克达尔"  # Debshikdar
+    "甘古利"  # Ganguly
+    "乔什"  # Ghosh
+    "卡拉尼"  # Karani
+    "汗"  # Khan
+    "马居达尔"  # Majumdar
+    "穆克尔杰"  # Mukerjhee
+    "巴勒"  # Pal
+    "鲁伊"  # Roy
+    "萨拉瓦提"  # Saraswoti
+    "萨卡尔"  # Sarkar
+    "舍"  # Sen
+    "沙希"  # Shahi
+    "沙汗"  # Shaikh
+    "苏尔"  # Suri
+    "塔库尔"  # Thakur
+    "瓦德达尔"  # Waddedar
+    "扎米达尔"  # Zamindar
 }
 ship_names = {
-    "Abu Bakr"  # Abu Bakr
-    "Ali Khan"  # Ali Khan
-    "Bhagirathi"  # Bhagirathi
-    "Brahmaputra"  # Brahmaputra
-    "Chingri Mach"  # Chingri Mach
-    "Chittagong"  # Chittagong
-    "Durbar"  # Durbar
-    "Durdasha"  # Durdasha
-    "Fatima"  # Fatima
-    "Ganga"  # Ganga
-    "Hilsa Mach"  # Hilsa Mach
-    "Hooghly"  # Hooghly
-    "Ilish Mach"  # Ilish Mach
-    "Jalangi"  # Jalangi
-    "Jasmine"  # Jasmine
-    "Kolkata"  # Kolkata
-    "Machli"  # Machli
-    "Kali Meghana"  # Kali Meghana
-    "Kali Nauk"  # Kali Nauk
-    "Lal Nauk"  # Lal Nauk
-    "Malda"  # Malda
-    "Meghna"  # Meghna
-    "Mongla"  # Mongla
-    "Murshidabad"  # Murshidabad
-    "Nauk-i-Islam"  # Nauk-i-Islam
-    "Nawaber Nauk"  # Nawaber Nauk
-    "Nil Nauk"  # Nil Nauk
-    "Nil Sagor"  # Nil Sagor
-    "Osman"  # Osman
-    "Padma"  # Padma
-    "Rui Mach"  # Rui Mach
-    "Sagorer Bahini"  # Sagorer Bahini
-    "Shaheed"  # Shaheed
-    "Sheikher Nauk"  # Sheikher Nauk
-    "Sonar Bangladesh"  # Sonar Bangladesh
-    "Sunderboner Bahini"  # Sunderboner Bahini
-    "Sunderboner Nauk"  # Sunderboner Nauk
-    "Tasleema"  # Tasleema
+    "阿布巴克尔"  # Abu Bakr
+    "阿里汗"  # Ali Khan
+    "帕吉拉提"  # Bhagirathi
+    "布拉马普特"  # Brahmaputra
+    "赤吉拉 马齐"  # Chingri Mach
+    "吉大港"  # Chittagong
+    "杜尔巴"  # Durbar
+    "杜尔达沙"  # Durdasha
+    "法提马"  # Fatima
+    "恒河"  # Ganga
+    "海勒沙 马齐"  # Hilsa Mach
+    "胡格利"  # Hooghly
+    "伊利斯 马齐"  # Ilish Mach
+    "贾兰吉"  # Jalangi
+    "茉莉花"  # Jasmine
+    "加尔各答"  # Kolkata
+    "马齐里"  # Machli
+    "卡里 梅克纳"  # Kali Meghana
+    "卡里 瑙克"  # Kali Nauk
+    "拉尔 瑙克"  # Lal Nauk
+    "马尔达"  # Malda
+    "梅克纳"  # Meghna
+    "莫卧儿"  # Mongla
+    "穆尔什希达巴德"  # Murshidabad
+    "瑙克 伊 萨利姆"  # Nauk-i-Islam
+    "纳瓦布 瑙克"  # Nawaber Nauk
+    "尼尔 瑙克"  # Nil Nauk
+    "尼尔 萨古尔"  # Nil Sagor
+    "奥斯曼"  # Osman
+    "帕德玛"  # Padma
+    "鲁伊 马齐"  # Rui Mach
+    "萨古尔 巴赫利"  # Sagorer Bahini
+    "沙赫德"  # Shaheed
+    "沙汗 瑙克"  # Sheikher Nauk
+    "萨古尔 孟加拉"  # Sonar Bangladesh
+    "宋达伯尼尔 巴赫利"  # Sunderboner Bahini
+    "宋达伯尼尔 瑙克"  # Sunderboner Nauk
+    "塔斯勒玛"  # Tasleema
 }
