@@ -1,4 +1,4 @@
-﻿name = "Second Bishops War"  # Second Bishops War
+﻿name = "第二次主教战争"  # Second Bishops War
 war_goal = {
     type = take_border
     casus_belli = cb_border_war
@@ -10,17 +10,17 @@ war_goal = {
 }
 1640.8.27 = {
     battle = {
-        name = "Newburn"  # Newburn
+        name = "纽伯恩"  # Newburn
         location = 246
         attacker = {
-            commander = "Conway"  # Conway
+            commander = "康威"  # Conway
             infantry = 5800
             cavalry = 3000
             losses = 5
             country = ENG
         }
         defender = {
-            commander = "Alexander Leslie"  # Alexander Leslie
+            commander = "亚历山大  莱斯利"  # Alexander Leslie
             infantry = 16500
             cavalry = 4500
             losses = 1
