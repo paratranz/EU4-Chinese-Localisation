@@ -33,20 +33,20 @@ historical_units = {
     napoleonic_lancers
 }
 monarch_names = {
-    "Johann #1" = 20
+    "Johann #1" = 40
     "Friedrich #1" = 20
     "Baldwin #0" = 20
-    "Georg #0" = 10
-    "Johann Friedrich #0" = 0
-    "Burkhard #2" = 0
-    "Gottfried #1" = 0
-    "Florent #1" = 0
+    "Georg #0" = 20
+    "Johann Friedrich #0" = 20
+    "Burkhard #2" = 15
+    "Gottfried #1" = 15
+    "Florent #1" = 10
     "Alexander #0" = 0
     "Baldur #0" = 0
-    "Clemens #0" = -1
-    "Eckhard #0" = 15
+    "Clemens #0" = 0
+    "Eckhard #0" = 0
     "Florian #0" = 0
-    "Helmfried #0" = 20
+    "Helmfried #0" = 0
     "Isaak #0" = 0
     "Jürgen #0" = 0
     "Martin #0" = 0
@@ -54,56 +54,70 @@ monarch_names = {
     "Rudolf #0" = 0
     "Siegmund #0" = 0
     "Alexia #0" = -1
-    "Heinrich #1" = 40
-    "Otto #1" = 20
-    "Johann Adolf #0" = 0
-    "Albrecht #1" = 0
-    "Adam #0" = 0
-    "Bruno #0" = -1
-    "Ernst #0" = 0
-    "Helmut #0" = 0
+    "海因里希 #1" = 40
+    "格哈德 #2" = 20
+    "奥托 #1" = 20
+    "克里斯托夫 #0" = 15
+    "约翰 阿道夫 #0" = 0
+    "尼克劳斯 #0" = 0
+    "阿尔布雷希特 #1" = 0
+    "伯恩哈德 #1" = 0
+    "亚当 #0" = 0
+    "安德利亚斯 #0" = 0
+    "布鲁诺 #0" = -1
+    "丹尼斯 #0" = 20
+    "恩斯特 #0" = 20
+    "格雷戈尔 #0" = 0
+    "赫尔穆特 #0" = 0
+    "约阿希姆 #0" = 0
+    "克劳斯 #0" = -1
+    "马克西米利安 #0" = 10
+    "莱纳 #0" = 0
+    "西格特 #0" = 20
+    "维瑞娜 #0" = 0
+    "贝娅特丽克丝 #0" = 0
 }
 leader_names = {
-    "Adler"  # Adler
-    "Alers"  # Alers
-    "Bake"  # Bake
-    "Beckröge"  # Beckröge
-    "Bergius"  # Bergius
-    "Berninghausen"  # Berninghausen
-    "Boelken"  # Boelken
-    "Bollheim"  # Bollheim
-    "Brill"  # Brill
-    "Delius"  # Delius
-    "Drewers"  # Drewers
-    "Engels"  # Engels
-    "Ficke"  # Ficke
-    "Foukhard"  # Foukhard
-    "Geffken"  # Geffken
-    "Gildemeister"  # Gildemeister
-    "Grovermann"  # Grovermann
-    "Happach"  # Happach
-    "Heimbruch"  # Heimbruch
-    "Hinke"  # Hinke
-    "Kindt"  # Kindt
-    "Köhne"  # Köhne
-    "Krefting"  # Krefting
-    "Laporte"  # Laporte
-    "Löning"  # Löning
-    "Meyer"  # Meyer
-    "Oelrichs"  # Oelrichs
-    "Ordemann"  # Ordemann
-    "Reiners"  # Reiners
-    "Rohde"  # Rohde
-    "Sanders"  # Sanders
-    "Schulken"  # Schulken
-    "Steinwachs"  # Steinwachs
-    "Stucken"  # Stucken
-    "Truernitt"  # Truernitt
-    "von Bobert"  # von Bobert
-    "von Cappeln"  # von Cappeln
-    "von Holten"  # von Holten
-    "von Horn"  # von Horn
-    "von Meinertzhagen"  # von Meinertzhagen
+    "阿德勒"  # Adler
+    "阿勒斯"  # Alers
+    "贝克"  # Bake
+    "贝克罗格"  # Beckröge
+    "贝吉乌斯"  # Bergius
+    "伯宁豪森"  # Berninghausen
+    "博尔肯"  # Boelken
+    "贝尔海姆"  # Bollheim
+    "布里尔"  # Brill
+    "狄里亚斯"  # Delius
+    "卓瓦斯"  # Drewers
+    "恩格斯"  # Engels
+    "菲克"  # Ficke
+    "富查德"  # Foukhard
+    "格弗肯"  # Geffken
+    "吉尔德迈斯特"  # Gildemeister
+    "格罗费尔曼"  # Grovermann
+    "哈帕希"  # Happach
+    "海姆博赫"  # Heimbruch
+    "欣克"  # Hinke
+    "金特"  # Kindt
+    "库讷"  # Köhne
+    "克雷夫廷"  # Krefting
+    "拉波尔特"  # Laporte
+    "吕宁"  # Löning
+    "迈耶"  # Meyer
+    "奥尔里克斯"  # Oelrichs
+    "奥德曼"  # Ordemann
+    "赖纳斯"  # Reiners
+    "罗德"  # Rohde
+    "桑德斯"  # Sanders
+    "舒尔肯"  # Schulken
+    "施泰因瓦克斯"  # Steinwachs
+    "施图肯"  # Stucken
+    "特鲁尼特"  # Truernitt
+    "冯 博贝特"  # von Bobert
+    "冯 卡佩尔恩"  # von Cappeln
+    "冯 霍尔滕"  # von Holten
+    "冯 霍恩"  # von Horn
+    "冯 迈纳茨哈根"  # von Meinertzhagen
 }
 ship_names = {
     "Adler von Lübeck"  # Adler von Lübeck
