@@ -1,4 +1,4 @@
-﻿name = "Second Anglo-Maratha War"  # Second Anglo-Maratha War
+﻿name = "第二次盎格鲁-马拉塔战争"  # Second Anglo-Maratha War
 war_goal = {
     type = take_capital_imperial
     casus_belli = cb_imperial
@@ -10,10 +10,10 @@ war_goal = {
 }
 1803.9.11 = {
     battle = {
-        name = "Delhi"  # Delhi
+        name = "德里"  # Delhi
         location = 522
         attacker = {
-            commander = "Gerard Lake"  # Gerard Lake
+            commander = "杰拉德"  # Gerard Lake
             infantry = 4500
             losses = 7
             country = GBR
@@ -32,7 +32,7 @@ war_goal = {
         name = "Assaye"  # Assaye
         location = 545
         attacker = {
-            commander = "Arthur Wellesley"  # Arthur Wellesley
+            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
             infantry = 4500
             cavalry = 2000
             losses = 56
