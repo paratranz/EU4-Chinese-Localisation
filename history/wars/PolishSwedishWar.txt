@@ -1,4 +1,4 @@
-﻿name = "First Commonwealth-Swedish War"  # First Commonwealth-Swedish War
+﻿name = "第一次波兰立陶宛-瑞典战争"  # First Commonwealth-Swedish War
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -13,14 +13,14 @@ war_goal = {
         name = "Kircholm"  # Kircholm
         location = 38
         attacker = {
-            commander = "Jan Karol Chodkiewicz"  # Jan Karol Chodkiewicz
+            commander = "扬 卡罗尔 赫特基耶维奇"  # Jan Karol Chodkiewicz
             infantry = 1300
             cavalry = 2500
             losses = 21
             country = PLC
         }
         defender = {
-            commander = "Karl IX"  # Karl IX
+            commander = "卡尔 IX"  # Karl IX
             infantry = 9000
             cavalry = 3000
             losses = 59
