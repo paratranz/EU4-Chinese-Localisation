@@ -44,12 +44,12 @@ monarch_names = {
     "Ladislav #0" = 20
     "Leopold #7 Johann" = 10
     "Ferdinand #0 Wenzel" = 10
-    "Philipp #0" = 0
-    "Johann Leopold #0" = 0
-    "Leopold #7 Wilhelm" = 0
-    "Alexander #0" = 0
-    "Franz Karl #0" = 0
-    "Ludwig #0" = -1
+    "Philipp #0" = 15
+    "Johann Leopold #0" = 15
+    "Leopold #7 Wilhelm" = 10
+    "Alexander #0" = 10
+    "Franz Karl #0" = 10
+    "Ludwig #0" = 10
     "Adolf #0" = -1
     "Benno #0" = -1
     "Cristoph #0" = -1
@@ -59,11 +59,11 @@ monarch_names = {
     "Jörg #0" = 15
     "Oskar #0" = 10
     "Siegfried #0" = 0
-    "Ulrich #0" = -1
-    "Wilhelm #0" = -1
-    "Maria Theresia #0" = 0
-    "Maria Anna #0" = -1
-    "Maria Amalia #0" = -1
+    "Ulrich #0" = 0
+    "Wilhelm #0" = 0
+    "Maria Theresia #0" = -1
+    "Maria Anna #0" = 20
+    "Maria Amalia #0" = 0
     "Maria Antonia #0" = -1
     "Theresa Benedicta #0" = -1
     "Maximiliane #0" = -1
@@ -79,15 +79,19 @@ monarch_names = {
     "弗里德里希 #4" = 15
     "拉迪斯拉夫 #0" = 15
     "恩斯特 #1" = 10
-    "Johann Karl #0" = 0
-    "Rudolf #4" = 0
-    "Johann #0" = 0
+    "菲利普 #0" = 0
+    "约翰 利奥波德 #0" = 0
+    "利奥波德 #7 威廉" = 0
+    "亚历山大 #0" = 0
+    "弗朗兹 卡尔 #0" = 0
+    "路德维希 #0" = -1
     "Alfred #0" = -1
     "Clemens #0" = -1
     "Heinrich #0" = 60
     "Michael #0" = 15
     "Stefan #0" = 0
-    "Wolfgang #0" = 20
+    "Wolfgang #0" = -1
+    "Maria Carolina #0" = 0
 }
 leader_names = {
     "von Habsburg"  # von Habsburg
@@ -97,8 +101,8 @@ leader_names = {
     "Haemrich"  # Haemrich
     "von Esterhazy"  # von Esterhazy
     "von Oberg"  # von Oberg
-    "von Schönburg"  # von Schönburg
-    "von Quadt"  # von Quadt
+    "冯 香恩堡"  # von Schönburg
+    "冯 夸特"  # von Quadt
     "Ketterer"  # Ketterer
     "von Stubenrauch"  # von Stubenrauch
     "von Hatzfeldt"  # von Hatzfeldt
@@ -109,14 +113,14 @@ leader_names = {
     "Alvintzky"  # Alvintzky
     "von Hohenberg"  # von Hohenberg
     "Erlmayr"  # Erlmayr
-    "von Stark"  # von Stark
+    "冯 史塔克"  # von Stark
     "Meinl"  # Meinl
     "Bethmann"  # Bethmann
-    "Kolin"  # Kolin
+    "科林"  # Kolin
     "Heinrich"  # Heinrich
-    "von Riedesel"  # von Riedesel
+    "冯 莱德所"  # von Riedesel
     "Freystadt"  # Freystadt
-    "von Guttenberg"  # von Guttenberg
+    "冯 格滕堡"  # von Guttenberg
     "Frantsits"  # Frantsits
     "von Stauffenberg"  # von Stauffenberg
     "von Kapfenberg"  # von Kapfenberg
@@ -127,22 +131,22 @@ leader_names = {
     "Sulerzycki"  # Sulerzycki
     "Stichsenstein"  # Stichsenstein
     "Hagedorn"  # Hagedorn
-    "Arenberg"  # Arenberg
+    "艾伦伯格"  # Arenberg
     "Boroewitsch"  # Boroewitsch
     "Steiger"  # Steiger
     "Tegethoff"  # Tegethoff
     "Buseck"  # Buseck
     "Byszynski"  # Byszynski
     "Zwerger"  # Zwerger
-    "Casper"  # Casper
+    "卡斯帕"  # Casper
     "von Schönbrunn"  # von Schönbrunn
     "Poll"  # Poll
-    "von Schwarzenberg"  # von Schwarzenberg
+    "冯 施瓦岑贝格"  # von Schwarzenberg
 }
 ship_names = {
     "Viribus Unitis"  # Viribus Unitis
     "Theresia"  # Theresia
-    "Austria"  # Austria
+    "奥地利"  # Austria
     "Habsburg"  # Habsburg
     "Tirol"  # Tirol
     "Baron Bruck"  # Baron Bruck
