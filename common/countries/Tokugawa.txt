@@ -38,8 +38,8 @@ monarch_names = {
     "Tsunatoyo #0" = 20
     "Ietsugu #0" = 20
     "Ienari #0" = 20
-    "Iesada #0" = -5
-    "Yoshinobu #0" = -5
+    "Iesada #0" = 20
+    "Yoshinobu #0" = 5
     "Sen #0" = -5
     "Aya #0" = -5
     "亲氏 #0" = 10
@@ -51,46 +51,51 @@ monarch_names = {
     "家康 #0" = 20
     "家光 #0" = -5
     "纲吉 #0" = 10
-    "Ieharu #0" = 20
-    "Ieshige #0" = 20
+    "家宣 #0" = 20
+    "家治 #0" = 20
+    "家庆 #0" = -5
+    "家重 #0" = 20
+    "德 #0" = 20
+    "玉 #0" = 20
+    "伊奈 #0" = -5
 }
 leader_names = {
-    "Akamatsu"  # Akamatsu
-    "Akechi"  # Akechi
-    "Ashikaga"  # Ashikaga
-    "Amago"  # Amago
-    "Kyogoku"  # Kyogoku
-    "Rokkaku"  # Rokkaku
-    "Asakura"  # Asakura
-    "Asano"  # Asano
-    "Aso"  # Aso
-    "Chosokabe"  # Chosokabe
-    "Date"  # Date
-    "Hachisuka"  # Hachisuka
-    "Hatakeyama"  # Hatakeyama
-    "Hojo"  # Hojo
-    "Hosokawa"  # Hosokawa
-    "Ichijo"  # Ichijo
-    "Keda"  # Keda
-    "Imagawa"  # Imagawa
-    "Isshiki"  # Isshiki
-    "Ito"  # Ito
-    "Jinbo"  # Jinbo
-    "Kikuchi"  # Kikuchi
-    "Kono"  # Kono
-    "Maeda"  # Maeda
-    "Matsunaga"  # Matsunaga
-    "Mimura"  # Mimura
-    "Miyoshi"  # Miyoshi
-    "Mogami"  # Mogami
-    "Mori"  # Mori
-    "Nabeshima"  # Nabeshima
-    "Nagao"  # Nagao
-    "Oda"  # Oda
-    "Ogasawara"  # Ogasawara
-    "Otomo"  # Otomo
-    "Ouchi"  # Ouchi
-    "Ryuzoji"  # Ryuzoji
+    "赤松"  # Akamatsu
+    "明智"  # Akechi
+    "足利"  # Ashikaga
+    "尼子"  # Amago
+    "京极"  # Kyogoku
+    "六角"  # Rokkaku
+    "朝仓"  # Asakura
+    "浅野"  # Asano
+    "阿苏"  # Aso
+    "长宗我部"  # Chosokabe
+    "伊达"  # Date
+    "蜂须贺"  # Hachisuka
+    "畠山"  # Hatakeyama
+    "北条"  # Hojo
+    "细川"  # Hosokawa
+    "一条"  # Ichijo
+    "毛田"  # Keda
+    "今川"  # Imagawa
+    "一色"  # Isshiki
+    "伊东"  # Ito
+    "神保"  # Jinbo
+    "菊池"  # Kikuchi
+    "河野"  # Kono
+    "前田"  # Maeda
+    "松永"  # Matsunaga
+    "三村"  # Mimura
+    "三好"  # Miyoshi
+    "最上"  # Mogami
+    "毛利"  # Mori
+    "锅岛"  # Nabeshima
+    "长尾"  # Nagao
+    "织田"  # Oda
+    "小笠原"  # Ogasawara
+    "大友"  # Otomo
+    "大内"  # Ouchi
+    "龙造寺"  # Ryuzoji
     "Sagara"  # Sagara
     "Saito"  # Saito
     "Sanada"  # Sanada
@@ -141,46 +146,46 @@ leader_names = {
     "Sakakibara"  # Sakakibara
     "Sakakibara"  # Sakakibara
     "Ii"  # Ii
-    "Ii"  # Ii
-    "Ii"  # Ii
-    "Ii"  # Ii
-    "Ii"  # Ii
-    "Torii"  # Torii
-    "Torii"  # Torii
-    "Torii"  # Torii
-    "Torii"  # Torii
-    "Torii"  # Torii
-    "Okubo"  # Okubo
-    "Okubo"  # Okubo
-    "Okubo"  # Okubo
-    "Okubo"  # Okubo
-    "Okubo"  # Okubo
-    "Toki"  # Toki
-    "Toyama"  # Toyama
-    "Endo"  # Endo
-    "Saito"  # Saito
-    "Ujiie"  # Ujiie
-    "Inaba"  # Inaba
-    "Ando"  # Ando
-    "Fuwa"  # Fuwa
-    "Akechi"  # Akechi
-    "Takenaka"  # Takenaka
-    "Hineno"  # Hineno
-    "Aoki"  # Aoki
-    "Sengoku"  # Sengoku
-    "Anekoji"  # Anekoji
-    "Ema"  # Ema
-    "Miki"  # Miki
-    "Kanamori"  # Kanamori
-    "Imagawa"  # Imagawa
-    "Amano"  # Amano
-    "Asahina"  # Asahina
-    "Okabe"  # Okabe
-    "Iio"  # Iio
-    "Hamana"  # Hamana
-    "Sekiguchi"  # Sekiguchi
-    "Sena"  # Sena
-    "Fuji"  # Fuji
+    "井伊"  # Ii
+    "井伊"  # Ii
+    "井伊"  # Ii
+    "井伊"  # Ii
+    "鸟居"  # Torii
+    "鸟居"  # Torii
+    "鸟居"  # Torii
+    "鸟居"  # Torii
+    "鸟居"  # Torii
+    "大久保"  # Okubo
+    "大久保"  # Okubo
+    "大久保"  # Okubo
+    "大久保"  # Okubo
+    "大久保"  # Okubo
+    "土岐"  # Toki
+    "远山"  # Toyama
+    "远藤"  # Endo
+    "斋藤"  # Saito
+    "氏家"  # Ujiie
+    "稻庭"  # Inaba
+    "安东"  # Ando
+    "風羽"  # Fuwa
+    "明智"  # Akechi
+    "竹中"  # Takenaka
+    "日根野"  # Hineno
+    "青木"  # Aoki
+    "战国时代"  # Sengoku
+    "姉小路"  # Anekoji
+    "江马"  # Ema
+    "三木"  # Miki
+    "金森"  # Kanamori
+    "今川"  # Imagawa
+    "天野"  # Amano
+    "朝比奈"  # Asahina
+    "冈部"  # Okabe
+    "饭尾"  # Iio
+    "浜名"  # Hamana
+    "关口"  # Sekiguchi
+    "瀬名"  # Sena
+    "藤"  # Fuji
     "Matsushita"  # Matsushita
     "Ii"  # Ii
     "Katsurayama"  # Katsurayama
