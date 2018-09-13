@@ -1,4 +1,4 @@
-﻿name = "Northern Seven Years War"  # Northern Seven Years War
+﻿name = "北方七年战争"  # Northern Seven Years War
 war_goal = {
     type = take_capital_personal_union
     casus_belli = cb_restore_personal_union
@@ -12,17 +12,17 @@ war_goal = {
 }
 1565.10.20 = {
     battle = {
-        name = "Axtorna"  # Axtorna
+        name = "阿克斯托纳"  # Axtorna
         location = 26
         attacker = {
-            commander = "Daniel Rantzau"  # Daniel Rantzau
+            commander = "丹尼尔 兰曹"  # Daniel Rantzau
             infantry = 5000
             cavalry = 2500
             losses = 20
             country = DAN
         }
         defender = {
-            commander = "Jacob Henriksson Hästesko"  # Jacob Henriksson Hästesko
+            commander = "雅各布 亨里克松 黑斯特斯科"  # Jacob Henriksson Hästesko
             infantry = 8000
             cavalry = 3000
             losses = 14

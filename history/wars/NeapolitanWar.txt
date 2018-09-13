@@ -1,4 +1,4 @@
-﻿name = "Neapolitan War"  # Neapolitan War
+﻿name = "那不勒斯战争"  # Neapolitan War
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -10,17 +10,17 @@ war_goal = {
 }
 1815.5.2 = {
     battle = {
-        name = "Tolentino"  # Tolentino
+        name = "托伦蒂诺"  # Tolentino
         location = 119
         attacker = {
-            commander = "Joachim Murat"  # Joachim Murat
+            commander = "若阿基姆 缪拉"  # Joachim Murat
             infantry = 15700
             cavalry = 3500
             losses = 6
             country = NAP
         }
         defender = {
-            commander = "Frederick Bianchi"  # Frederick Bianchi
+            commander = "弗雷德里克 比安希"  # Frederick Bianchi
             infantry = 12000
             cavalry = 1500
             artillery = 28
