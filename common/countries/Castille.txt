@@ -45,12 +45,12 @@ monarch_names = {
     "Baltasar #0" = 0
     "Bertrán #0" = 0
     "Diego #0" = 0
-    "Esteban #0" = 10
-    "Francisco #0" = 1
+    "Esteban #0" = 0
+    "Francisco #0" = 0
     "Gómez #0" = 0
     "Gutierre #0" = 0
-    "Hernando #0" = 40
-    "Laín #0" = 0
+    "Hernando #0" = 0
+    "Laín #0" = 1
     "Miguel #0" = 0
     "Odón #0" = 0
     "Rodrigo #0" = 0
@@ -63,51 +63,55 @@ monarch_names = {
     "拉米罗 #2" = 0
     "阿隆索 #0" = 0
     "巴尔塔萨 #0" = 0
-    "Cristobal #0" = 0
+    "克里斯托巴尔 #0" = 0
+    "多明戈 #0" = 40
     "Fadrique #0" = -5
-    "Gonzalo #0" = 0
-    "Ignacio #0" = 0
+    "加西亚 #0" = 0
+    "冈萨洛 #0" = 0
+    "赫门吉多 #0" = 0
+    "洛佩 #0" = 0
+    "Nuño #0" = 10
 }
 leader_names = {
-    "de Aguirre"  # de Aguirre
+    "德 阿吉雷"  # de Aguirre
     "de Alarcón"  # de Alarcón
-    "de Toledo"  # de Toledo
-    "de Andrade"  # de Andrade
-    "de Ayala"  # de Ayala
-    "de Bazán"  # de Bazán
-    "de Benavides"  # de Benavides
+    "德 托莱多"  # de Toledo
+    "德 安德雷德"  # de Andrade
+    "德 阿亚拉"  # de Ayala
+    "德 巴赞"  # de Bazán
+    "德 贝纳维兹"  # de Benavides
     "Campomanes"  # Campomanes
-    "de Castilla"  # de Castilla
-    "de la Cerda"  # de la Cerda
+    "德 卡斯蒂利亚"  # de Castilla
+    "德 拉塞尔达"  # de la Cerda
     "Cienfuegos"  # Cienfuegos
-    "Colón"  # Colón
-    "Coronado"  # Coronado
-    "Cortés"  # Cortés
-    "de Toledo"  # de Toledo
-    "de Córdoba"  # de Córdoba
-    "de la Cueva"  # de la Cueva
-    "de Figueroa"  # de Figueroa
-    "Fonseca"  # Fonseca
-    "Gálvez"  # Gálvez
-    "Gómez"  # Gómez
-    "de Guzmán"  # de Guzmán
-    "Jiménez de Cisneros"  # Jiménez de Cisneros
-    "de Leiva"  # de Leiva
-    "López de Haro"  # López de Haro
-    "de Luna"  # de Luna
+    "哥伦布"  # Colón
+    "科罗纳多"  # Coronado
+    "科尔特斯"  # Cortés
+    "德 托莱多"  # de Toledo
+    "德 科尔多瓦"  # de Córdoba
+    "德 拉 奎瓦斯"  # de la Cueva
+    "德 菲格罗阿"  # de Figueroa
+    "丰塞卡"  # Fonseca
+    "加尔维斯"  # Gálvez
+    "戈麦斯"  # Gómez
+    "德 古斯曼"  # de Guzmán
+    "德 西斯内罗斯"  # Jiménez de Cisneros
+    "德 雷瓦"  # de Leiva
+    "洛佩斯 德 哈罗"  # López de Haro
+    "德 露那"  # de Luna
     "de Lara"  # de Lara
     "de Velasco"  # de Velasco
-    "de Villena"  # de Villena
-    "de Mendoza"  # de Mendoza
-    "Narváez"  # Narváez
-    "de Nebrija"  # de Nebrija
-    "Nuñez de Balboa"  # Nuñez de Balboa
+    "德 比列那"  # de Villena
+    "德 门多萨"  # de Mendoza
+    "纳尔瓦埃斯"  # Narváez
+    "德 内布里哈"  # de Nebrija
+    "努涅斯 德 巴尔波亚"  # Nuñez de Balboa
     "de Ojeda"  # de Ojeda
-    "Orellana"  # Orellana
-    "Osorio"  # Osorio
-    "Pimentel"  # Pimentel
+    "奥雷利亚纳"  # Orellana
+    "奥索里奥"  # Osorio
+    "皮门特尔"  # Pimentel
     "Pinzón"  # Pinzón
-    "Pizarro"  # Pizarro
+    "皮萨罗"  # Pizarro
     "Ponce de León"  # Ponce de León
     "Portocarrero"  # Portocarrero
     "de Rojas"  # de Rojas
@@ -153,28 +157,28 @@ ship_names = {
     "Asia"  # Asia
     "Astrea"  # Astrea
     "Astrolabio"  # Astrolabio
-    "Asturias"  # Asturias
+    "阿斯图里亚斯"  # Asturias
     "Astuzzana"  # Astuzzana
-    "Asunción"  # Asunción
+    "亚松森"  # Asunción
     "Atlante"  # Atlante
     "Atocha"  # Atocha
     "Atrevida"  # Atrevida
     "Aurora"  # Aurora
     "Ave de Gracia"  # Ave de Gracia
     "Aventurero"  # Aventurero
-    "Bahama"  # Bahama
+    "巴哈马"  # Bahama
     "Bailen"  # Bailen
     "Baltidore"  # Baltidore
-    "Bautista"  # Bautista
+    "巴蒂斯塔"  # Bautista
     "Batador"  # Batador
     "Bella Carolina"  # Bella Carolina
-    "Bellona"  # Bellona
-    "Viscaya"  # Viscaya
-    "Bizarro"  # Bizarro
+    "贝洛娜"  # Bellona
+    "比斯开"  # Viscaya
+    "比扎罗"  # Bizarro
     "Voladora"  # Voladora
     "Buen Jesús"  # Buen Jesús
-    "Braganza"  # Braganza
-    "Brava"  # Brava
+    "布拉甘扎"  # Braganza
+    "布拉瓦"  # Brava
     "Brillante"  # Brillante
     "Brilliano"  # Brilliano
     "Brújula"  # Brújula
@@ -190,9 +194,9 @@ ship_names = {
     "Cantela"  # Cantela
     "Cántabro"  # Cántabro
     "Capitana"  # Capitana
-    "Carmen"  # Carmen
+    "卡门"  # Carmen
     "Carmen del Rosario"  # Carmen del Rosario
-    "Castilla"  # Castilla
+    "卡斯蒂利亚"  # Castilla
     "Casualidad"  # Casualidad
     "Catalán"  # Catalán
     "Caimán"  # Caimán
@@ -205,7 +209,7 @@ ship_names = {
     "Ciudadanía de Mercia"  # Ciudadanía de Mercia
     "Ciervo"  # Ciervo
     "Coccila"  # Coccila
-    "Colón"  # Colón
+    "哥伦布"  # Colón
     "Cometa"  # Cometa
     "Concepción"  # Concepción
     "Conde de Chican"  # Conde de Chican
@@ -244,16 +248,16 @@ ship_names = {
     "El Savador"  # El Savador
     "Virgen del Carmen"  # Virgen del Carmen
     "Elise"  # Elise
-    "Elizabet"  # Elizabet
-    "Empresa"  # Empresa
+    "伊丽莎白"  # Elizabet
+    "企业"  # Empresa
     "Encantadora"  # Encantadora
     "Encarnación"  # Encarnación
-    "Eolo"  # Eolo
+    "埃俄罗斯"  # Eolo
     "Escariotte"  # Escariotte
-    "Esmeralda"  # Esmeralda
+    "祖母绿"  # Esmeralda
     "Espaciosa"  # Espaciosa
-    "España"  # España
-    "Esperanza"  # Esperanza
+    "西班牙"  # España
+    "希望"  # Esperanza
     "Estrella"  # Estrella
     "Estrella del Mar"  # Estrella del Mar
     "Estrella del Norte"  # Estrella del Norte
@@ -263,10 +267,10 @@ ship_names = {
     "Fama"  # Fama
     "Fama Volante"  # Fama Volante
     "Felicidad"  # Felicidad
-    "Félix"  # Félix
-    "Fénix"  # Fénix
+    "费利克斯"  # Félix
+    "凤凰"  # Fénix
     "Ferme"  # Ferme
-    "Fernando VII"  # Fernando VII
+    "费尔南多 VII"  # Fernando VII
     "Ferrolana"  # Ferrolana
     "Fidela"  # Fidela
     "Finisterre"  # Finisterre
@@ -281,7 +285,7 @@ ship_names = {
     "Galera Victoria"  # Galera Victoria
     "Galga"  # Galga
     "Galgo de Andalucía"  # Galgo de Andalucía
-    "Galicia"  # Galicia
+    "加利西亚"  # Galicia
     "Gallardo"  # Gallardo
     "Gallo Indiano"  # Gallo Indiano
     "Gamo"  # Gamo
@@ -304,14 +308,14 @@ ship_names = {
     "Halcón"  # Halcón
     "Héctor"  # Héctor
     "Hércules"  # Hércules
-    "Hermione"  # Hermione
+    "赫敏"  # Hermione
     "Hermosa Mariana"  # Hermosa Mariana
     "Héroe"  # Héroe
     "Hurón"  # Hurón
     "Hidra"  # Hidra
-    "Iberia"  # Iberia
+    "伊比利亚"  # Iberia
     "Ibicenco"  # Ibicenco
-    "Ifigenia"  # Ifigenia
+    "伊菲革涅亚"  # Ifigenia
     "Emperador Alejandro"  # Emperador Alejandro
     "Impomenes"  # Impomenes
     "Incendio"  # Incendio
