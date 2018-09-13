@@ -1,4 +1,4 @@
-﻿name = "War of the Holy League"  # War of the Holy League
+﻿name = "神圣同盟战争"  # War of the Holy League
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -16,7 +16,7 @@ war_goal = {
 }
 1683.9.12 = {
     battle = {
-        name = "Vienna"  # Vienna
+        name = "维也纳"  # Vienna
         location = 134
         attacker = {
             commander = "梅尔济丰卢 卡拉 穆斯塔法 帕夏"  # Merzifonlu Kara Mustafa Pasha
@@ -45,7 +45,7 @@ war_goal = {
         name = "Mt. Harsan"  # Mt. Harsan
         location = 153
         attacker = {
-            commander = "Muhammad IV"  # Muhammad IV
+            commander = "穆罕默德 IV"  # Muhammad IV
             infantry = 38000
             cavalry = 22000
             artillery = 180
@@ -75,7 +75,7 @@ war_goal = {
             country = TUR
         }
         defender = {
-            commander = "Louis William"  # Louis William
+            commander = "路易 威廉"  # Louis William
             infantry = 14000
             cavalry = 6000
             losses = 15
