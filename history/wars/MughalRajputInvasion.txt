@@ -1,4 +1,4 @@
-﻿name = "Rajput-Mughal War"  # Rajput-Mughal War
+﻿name = "拉杰普特-莫卧儿战争"  # Rajput-Mughal War
 war_goal = {
     type = take_claim
     casus_belli = cb_conquest
@@ -15,16 +15,16 @@ war_goal = {
 }
 1527.3.17 = {
     battle = {
-        name = "Khanwa"  # Khanwa
+        name = "坎瓦"  # Khanwa
         location = 524
         attacker = {
-            commander = "Sangha"  # Sangha
+            commander = "桑加"  # Sangha
             infantry = 120000
             losses = 55
             country = MER
         }
         defender = {
-            commander = "Babur"  # Babur
+            commander = "巴布尔"  # Babur
             infantry = 12000
             losses = 20
             country = MUG
