@@ -27,49 +27,58 @@ historical_units = {
     reformed_asian_cavalry
 }
 monarch_names = {
-    "Munemura #0" = 20
+    "Munemura #0" = 50
     "Masayori #0" = 50
     "Motomune #0" = 50
     "Muneto #0" = 50
     "Mochimune #0" = 50
-    "Naomune #0" = -5
-    "Harumune #0" = -5
+    "Naomune #0" = 50
+    "Harumune #0" = 50
     "Tadamune #0" = 50
     "Morimune #0" = 50
     "Munekiyo #0" = 50
     "Yoshimune #0" = 50
     "Sen #0" = -5
     "Aya #0" = -5
-    "Masamune #0" = 50
-    "Munetsuna #0" = 50
-    "Ujimune #0" = 50
-    "Tanemune #0" = -5
-    "Tsunamune #0" = 50
+    "政宗 #0" = 50
+    "义弘 #0" = 50
+    "宗纲 #0" = 50
+    "行宗 #0" = 50
+    "氏宗 #0" = 50
+    "成宗 #0" = 50
+    "稙宗 #0" = -5
+    "辉宗 #0" = 20
+    "纲宗 #0" = 50
+    "宗信 #0" = 50
+    "宗实 #0" = -5
+    "德 #0" = 50
+    "玉 #0" = 50
+    "伊奈 #0" = -5
 }
 leader_names = {
-    "Akamatsu"  # Akamatsu
-    "Akechi"  # Akechi
-    "Ashikaga"  # Ashikaga
-    "Amago"  # Amago
-    "Kyogoku"  # Kyogoku
-    "Rokkaku"  # Rokkaku
-    "Asakura"  # Asakura
-    "Asano"  # Asano
-    "Aso"  # Aso
-    "Chosokabe"  # Chosokabe
-    "Date"  # Date
-    "Hachisuka"  # Hachisuka
-    "Hatakeyama"  # Hatakeyama
-    "Hojo"  # Hojo
-    "Hosokawa"  # Hosokawa
-    "Ichijo"  # Ichijo
-    "Keda"  # Keda
-    "Imagawa"  # Imagawa
-    "Isshiki"  # Isshiki
-    "Ito"  # Ito
-    "Jinbo"  # Jinbo
-    "Kikuchi"  # Kikuchi
-    "Kono"  # Kono
+    "赤松"  # Akamatsu
+    "明智"  # Akechi
+    "足利"  # Ashikaga
+    "尼子"  # Amago
+    "京极"  # Kyogoku
+    "六角"  # Rokkaku
+    "朝仓"  # Asakura
+    "浅野"  # Asano
+    "阿苏"  # Aso
+    "长宗我部"  # Chosokabe
+    "伊达"  # Date
+    "蜂须贺"  # Hachisuka
+    "畠山"  # Hatakeyama
+    "北条"  # Hojo
+    "细川"  # Hosokawa
+    "一条"  # Ichijo
+    "毛田"  # Keda
+    "今川"  # Imagawa
+    "一色"  # Isshiki
+    "伊东"  # Ito
+    "神保"  # Jinbo
+    "菊池"  # Kikuchi
+    "河野"  # Kono
     "Maeda"  # Maeda
     "Matsunaga"  # Matsunaga
     "Mimura"  # Mimura
@@ -120,48 +129,48 @@ leader_names = {
     "Date"  # Date
     "Date"  # Date
     "Date"  # Date
-    "Date"  # Date
-    "Date"  # Date
-    "Katakura"  # Katakura
-    "Katakura"  # Katakura
-    "Katakura"  # Katakura
-    "Katakura"  # Katakura
-    "Katakura"  # Katakura
-    "Nakano"  # Nakano
-    "Nakano"  # Nakano
-    "Nakano"  # Nakano
-    "Nakano"  # Nakano
-    "Nakano"  # Nakano
-    "Oniniwa"  # Oniniwa
-    "Oniniwa"  # Oniniwa
-    "Oniniwa"  # Oniniwa
-    "Oniniwa"  # Oniniwa
-    "Oniniwa"  # Oniniwa
-    "Endo"  # Endo
-    "Endo"  # Endo
-    "Endo"  # Endo
-    "Endo"  # Endo
-    "Endo"  # Endo
-    "Yashiro"  # Yashiro
-    "Yashiro"  # Yashiro
-    "Yashiro"  # Yashiro
-    "Yashiro"  # Yashiro
-    "Yashiro"  # Yashiro
-    "Shiraishi"  # Shiraishi
-    "Shiraishi"  # Shiraishi
-    "Shiraishi"  # Shiraishi
-    "Shiraishi"  # Shiraishi
-    "Shiraishi"  # Shiraishi
-    "Hasekura"  # Hasekura
-    "Hasekura"  # Hasekura
-    "Hasekura"  # Hasekura
-    "Hasekura"  # Hasekura
-    "Hasekura"  # Hasekura
-    "Harada"  # Harada
-    "Harada"  # Harada
-    "Harada"  # Harada
-    "Harada"  # Harada
-    "Harada"  # Harada
+    "伊达"  # Date
+    "伊达"  # Date
+    "片仓"  # Katakura
+    "片仓"  # Katakura
+    "片仓"  # Katakura
+    "片仓"  # Katakura
+    "片仓"  # Katakura
+    "中野"  # Nakano
+    "中野"  # Nakano
+    "中野"  # Nakano
+    "中野"  # Nakano
+    "中野"  # Nakano
+    "鬼庭"  # Oniniwa
+    "鬼庭"  # Oniniwa
+    "鬼庭"  # Oniniwa
+    "鬼庭"  # Oniniwa
+    "鬼庭"  # Oniniwa
+    "远藤"  # Endo
+    "远藤"  # Endo
+    "远藤"  # Endo
+    "远藤"  # Endo
+    "远藤"  # Endo
+    "屋代"  # Yashiro
+    "屋代"  # Yashiro
+    "屋代"  # Yashiro
+    "屋代"  # Yashiro
+    "屋代"  # Yashiro
+    "白石"  # Shiraishi
+    "白石"  # Shiraishi
+    "白石"  # Shiraishi
+    "白石"  # Shiraishi
+    "白石"  # Shiraishi
+    "支仓"  # Hasekura
+    "支仓"  # Hasekura
+    "支仓"  # Hasekura
+    "支仓"  # Hasekura
+    "支仓"  # Hasekura
+    "原田"  # Harada
+    "原田"  # Harada
+    "原田"  # Harada
+    "原田"  # Harada
+    "原田"  # Harada
     "Goto"  # Goto
     "Goto"  # Goto
     "Goto"  # Goto
