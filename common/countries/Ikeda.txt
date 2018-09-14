@@ -29,87 +29,91 @@ historical_units = {
 monarch_names = {
     #0" = 50
     "Tsugumasa #0" = 50
-    "Munemasa #0" = -5
-    "Narimasa #0" = -5
+    "Munemasa #0" = 50
+    "Narimasa #0" = 50
     #0" = 50
-    "Sen #0" = 50
+    "Sen #0" = -5
     "Aya #0" = -5
-    "Terumasa #0" = 50\r "Toshitaka
-    "Mitsumasa #0" = 50
-    "Harumasa #0" = -5
-    "Yoshimasa #0" = 50\r "Yoshimasa
+    "辉政 #0" = 50\r "Toshitaka
+    "光政 #0" = 50
+    "纲政 #0" = 50\r "Yoshimasa
+    "治政 #0" = -5
+    "齐敏 #0" = 50
+    "德 #0" = -5
+    "玉 #0" = 50
+    "伊奈 #0" = -5
 }
 leader_names = {
-    "Akamatsu"  # Akamatsu
-    "Akechi"  # Akechi
-    "Asakura"  # Asakura
-    "Ashikaga"  # Ashikaga
-    "Amago"  # Amago
-    "Aso"  # Aso
-    "Chosokabe"  # Chosokabe
-    "Date"  # Date
-    "Hatakeyama"  # Hatakeyama
-    "Ichijo"  # Ichijo
-    "Imagawa"  # Imagawa
-    "Isshiki"  # Isshiki
-    "Ito"  # Ito
-    "Jinbo"  # Jinbo
-    "Kikuchi"  # Kikuchi
-    "Kono"  # Kono
-    "Matsunaga"  # Matsunaga
-    "Miyoshi"  # Miyoshi
-    "Mogami"  # Mogami
-    "Mori"  # Mori
-    "Nagao"  # Nagao
-    "Oda"  # Oda
-    "Ogasawara"  # Ogasawara
-    "Otomo"  # Otomo
-    "Ouchi"  # Ouchi
-    "Ryuzoji"  # Ryuzoji
-    "Sagara"  # Sagara
-    "Saito"  # Saito
-    "Satake"  # Satake
-    "Satomi"  # Satomi
-    "Shiba"  # Shiba
-    "Shibata"  # Shibata
-    "Shimazu"  # Shimazu
-    "Takeda"  # Takeda
-    "Toki"  # Toki
-    "Toyotomi"  # Toyotomi
-    "Tsutsui"  # Tsutsui
-    "Ukita"  # Ukita
-    "Uesugi"  # Uesugi
-    "Uragami"  # Uragami
-    "Yamana"  # Yamana
-    "Hosokawa"  # Hosokawa
-    "Hojo"  # Hojo
-    "Mimura"  # Mimura
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Ikeda"  # Ikeda
-    "Toki"  # Toki
-    "Toyama"  # Toyama
-    "Endo"  # Endo
-    "Saito"  # Saito
-    "Ujiie"  # Ujiie
-    "Inaba"  # Inaba
+    "赤松"  # Akamatsu
+    "明智"  # Akechi
+    "朝仓"  # Asakura
+    "足利"  # Ashikaga
+    "尼子"  # Amago
+    "阿苏"  # Aso
+    "长宗我部"  # Chosokabe
+    "伊达"  # Date
+    "畠山"  # Hatakeyama
+    "一条"  # Ichijo
+    "今川"  # Imagawa
+    "一色"  # Isshiki
+    "伊东"  # Ito
+    "神保"  # Jinbo
+    "菊池"  # Kikuchi
+    "河野"  # Kono
+    "松永"  # Matsunaga
+    "三善"  # Miyoshi
+    "最上"  # Mogami
+    "毛利"  # Mori
+    "长尾"  # Nagao
+    "织田"  # Oda
+    "小笠原"  # Ogasawara
+    "大友"  # Otomo
+    "大内"  # Ouchi
+    "龙造寺"  # Ryuzoji
+    "相良"  # Sagara
+    "斋藤"  # Saito
+    "佐竹"  # Satake
+    "里见"  # Satomi
+    "斯波"  # Shiba
+    "新发田"  # Shibata
+    "岛津"  # Shimazu
+    "武田"  # Takeda
+    "土岐"  # Toki
+    "丰臣"  # Toyotomi
+    "筒井"  # Tsutsui
+    "宇喜多"  # Ukita
+    "上杉"  # Uesugi
+    "浦上"  # Uragami
+    "山名"  # Yamana
+    "细川"  # Hosokawa
+    "北条"  # Hojo
+    "三村"  # Mimura
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "池田"  # Ikeda
+    "土岐"  # Toki
+    "远山"  # Toyama
+    "远藤"  # Endo
+    "斋藤"  # Saito
+    "氏家"  # Ujiie
+    "稻庭"  # Inaba
     "Ando"  # Ando
     "Fuwa"  # Fuwa
     "Akechi"  # Akechi
@@ -158,74 +162,74 @@ leader_names = {
     "Oda"  # Oda
     "Mizuno"  # Mizuno
     "Saji"  # Saji
-    "Ikeda"  # Ikeda
-    "Shibata"  # Shibata
-    "Niwa"  # Niwa
-    "Takigawa"  # Takigawa
-    "Kinoshita"  # Kinoshita
-    "Maeda"  # Maeda
-    "Sassa"  # Sassa
-    "Sakuma"  # Sakuma
-    "Hirate"  # Hirate
-    "Hayashi"  # Hayashi
-    "Hachisuka"  # Hachisuka
-    "Kato"  # Kato
-    "Asano"  # Asano
-    "Ikoma"  # Ikoma
-    "Horio"  # Horio
-    "Fukushima"  # Fukushima
-    "Maeda"  # Maeda
+    "池田"  # Ikeda
+    "新发田"  # Shibata
+    "丹羽"  # Niwa
+    "泷川"  # Takigawa
+    "木下"  # Kinoshita
+    "前田"  # Maeda
+    "佐佐"  # Sassa
+    "佐久间"  # Sakuma
+    "平手"  # Hirate
+    "林"  # Hayashi
+    "蜂须贺"  # Hachisuka
+    "加藤"  # Kato
+    "浅野"  # Asano
+    "生驹"  # Ikoma
+    "堀尾"  # Horio
+    "福岛"  # Fukushima
+    "前田"  # Maeda
 }
 ship_names = {
-    "Mutsu Maru"  # Mutsu Maru
-    "Dewa Maru"  # Dewa Maru
-    "Shimotsuke Maru"  # Shimotsuke Maru
-    "Hitachi Maru"  # Hitachi Maru
-    "Kazusa Maru"  # Kazusa Maru
-    "Shimousa Maru"  # Shimousa Maru
-    "Musashi Maru"  # Musashi Maru
-    "Kozuke Maru"  # Kozuke Maru
-    "Izu Maru"  # Izu Maru
-    "Echigo Maru"  # Echigo Maru
-    "Ettchu Maru"  # Ettchu Maru
-    "Kaga Maru"  # Kaga Maru
-    "Noto Maru"  # Noto Maru
-    "Suruga Maru"  # Suruga Maru
-    "Totomi Maru"  # Totomi Maru
-    "Joshu Maru"  # Joshu Maru
-    "Enshu Maru"  # Enshu Maru
-    "Bushu Maru"  # Bushu Maru
-    "Esshu Maru"  # Esshu Maru
-    "Mikawa Maru"  # Mikawa Maru
-    "Ushu Maru"  # Ushu Maru
-    "Soushu Maru"  # Soushu Maru
-    "Boushu Maru"  # Boushu Maru
-    "Kai Maru"  # Kai Maru
-    "Shinshu Maru"  # Shinshu Maru
-    "Koshu Maru"  # Koshu Maru
-    "Owari Maru"  # Owari Maru
-    "Bishu Maru"  # Bishu Maru
-    "Mino Maru"  # Mino Maru
-    "Echizen Maru"  # Echizen Maru
-    "Ise Maru"  # Ise Maru
-    "Shima Maru"  # Shima Maru
-    "Omi Maru"  # Omi Maru
-    "Goushu Maru"  # Goushu Maru
-    "Yamashiro Maru"  # Yamashiro Maru
-    "Wakasa Maru"  # Wakasa Maru
-    "Tanba Maru"  # Tanba Maru
-    "Tango Maru"  # Tango Maru
-    "Yamato Maru"  # Yamato Maru
-    "Kii Maru"  # Kii Maru
-    "Kishu Maru"  # Kishu Maru
-    "Iga Maru"  # Iga Maru
-    "Awa Maru"  # Awa Maru
-    "Sanuki Maru"  # Sanuki Maru
-    "Tosa Maru"  # Tosa Maru
-    "Iyo Maru"  # Iyo Maru
-    "Harima Maru"  # Harima Maru
-    "Banshu Maru"  # Banshu Maru
-    "Hoki Maru"  # Hoki Maru
+    "陆奥丸"  # Mutsu Maru
+    "出羽丸"  # Dewa Maru
+    "下野丸"  # Shimotsuke Maru
+    "常陆丸"  # Hitachi Maru
+    "上总丸"  # Kazusa Maru
+    "下总丸"  # Shimousa Maru
+    "武藏丸"  # Musashi Maru
+    "上野丸"  # Kozuke Maru
+    "伊豆丸"  # Izu Maru
+    "越后丸"  # Echigo Maru
+    "越前丸"  # Ettchu Maru
+    "加贺丸"  # Kaga Maru
+    "能登丸"  # Noto Maru
+    "骏河丸"  # Suruga Maru
+    "远江丸"  # Totomi Maru
+    "上州丸"  # Joshu Maru
+    "远州丸"  # Enshu Maru
+    "武州丸"  # Bushu Maru
+    "越州丸"  # Esshu Maru
+    "三河丸"  # Mikawa Maru
+    "羽州丸"  # Ushu Maru
+    "相州丸"  # Soushu Maru
+    "防州丸"  # Boushu Maru
+    "甲斐丸"  # Kai Maru
+    "信州丸"  # Shinshu Maru
+    "甲州丸"  # Koshu Maru
+    "尾张丸"  # Owari Maru
+    "尾州丸"  # Bishu Maru
+    "美浓丸"  # Mino Maru
+    "越前丸"  # Echizen Maru
+    "伊势丸"  # Ise Maru
+    "志摩丸"  # Shima Maru
+    "大见丸"  # Omi Maru
+    "豪州丸"  # Goushu Maru
+    "山城丸"  # Yamashiro Maru
+    "若狭丸"  # Wakasa Maru
+    "丹波丸"  # Tanba Maru
+    "丹后丸"  # Tango Maru
+    "大和丸"  # Yamato Maru
+    "纪伊丸"  # Kii Maru
+    "纪州丸"  # Kishu Maru
+    "伊贺丸"  # Iga Maru
+    "阿波丸"  # Awa Maru
+    "讃岐丸"  # Sanuki Maru
+    "土佐丸"  # Tosa Maru
+    "伊予丸"  # Iyo Maru
+    "播磨丸"  # Harima Maru
+    "播州丸"  # Banshu Maru
+    "伯耆丸"  # Hoki Maru
     "Inaba Maru"  # Inaba Maru
     "Bizen Maru"  # Bizen Maru
     "Mimasaka Maru"  # Mimasaka Maru
