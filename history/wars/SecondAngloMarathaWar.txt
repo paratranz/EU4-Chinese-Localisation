@@ -13,13 +13,13 @@ war_goal = {
         name = "德里"  # Delhi
         location = 522
         attacker = {
-            commander = "杰拉德"  # Gerard Lake
+            commander = "杰拉德 莱克"  # Gerard Lake
             infantry = 4500
             losses = 7
             country = GBR
         }
         defender = {
-            commander = "Bourquin"  # Bourquin
+            commander = "布尔坎"  # Bourquin
             infantry = 19000
             losses = 40
             country = GWA
@@ -29,7 +29,7 @@ war_goal = {
 }
 1803.9.23 = {
     battle = {
-        name = "Assaye"  # Assaye
+        name = "阿萨耶"  # Assaye
         location = 545
         attacker = {
             commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
@@ -39,7 +39,7 @@ war_goal = {
             country = GBR
         }
         defender = {
-            commander = "Ragojee Bhonsla"  # Ragojee Bhonsla
+            commander = "拉戈吉 邦斯莱"  # Ragojee Bhonsla
             infantry = 50000
             artillery = 100
             losses = 12
