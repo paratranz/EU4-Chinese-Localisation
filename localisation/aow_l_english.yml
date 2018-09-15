@@ -1,5 +1,5 @@
 ﻿l_english:
- LOCAL_AUTONOMY_EFFECTS:0 "当前的地方自治度对$NAME$有如下效果：\n$EFFECT$"
+ LOCAL_AUTONOMY_EFFECTS:0 "当前的地方自治度对$NAME$有如下影响：\n$EFFECT$"
  NO_LOCAL_AUTONOMY_EFFECTS:0 "目前的地方自治度对 $NAME$ 没有影响."
  LOCAL_AUTONOMY_DECREASE_EFFECT:0 "如果 $NAME$ 有 §Y0.0%§! 的叛乱度，地方自治度将降低.\n\n"
  LOCAL_AUTO_CHANGE:0 "目前预计每月变化 $DECREASE$，原因如下：\n$DESC$"
@@ -550,7 +550,7 @@
  REVOLUTION_IS_TAKING_PLACE:0 "在$WHERE$发起了一场革命。"
  revolution_target:0 "革命的发起点"
  REVOLUTION_TARGET_DESC:0 "当革命发生的时候，这个国家会有 $SCORE|+0%$ 更多的分数."
- FOLLOWING_EFFECTS:0 "拥有以下的效果："
+ FOLLOWING_EFFECTS:0 "拥有以下影响："
  PEACE_DISMANTLE_REVOLUTION:0 "阻止革命"
  PEACE_CHANGE_HRE_RELIGION:0 "宗教霸权"
  DISMANTLE_REVOLUTION:0 "革命将会结束而$WHO$将会恢复君主制。"
