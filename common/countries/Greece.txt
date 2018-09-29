@@ -33,41 +33,58 @@ historical_units = {
     ottoman_lancer
 }
 monarch_names = {
+    "Georgios #0" = 40
     "Alexandros #0" = 20
-    "Pavlos #0" = -10
-    "Nikolaos #0" = -1
-    "Antonia #0" = -1
-    "Artemisia #0" = 0
-    "Euphrosyne #0" = 0
-    "Manto #0" = 0
-    "Sevasti #0" = 0
+    "Konstantinos #0" = 20
+    "Pavlos #0" = 15
+    "Andreas #0" = 10
+    "Nikolaos #0" = 10
+    "Alexandra #0" = -10
+    "Antonia #0" = -5
+    "Anna #0" = -5
+    "Artemisia #0" = -1
+    "Eirene #0" = -1
+    "Euphrosyne #0" = -1
+    "Laskarina #0" = -1
+    "Manto #0" = -1
+    "Thalia #0" = -1
+    "Sevasti #0" = -1
+    "Sophia #0" = -1
     "Aineias #0" = 0
-    "Ambrosios #0" = 0
-    "Basileios #0" = 0
-    "David #0" = 0
-    "Diogenes #0" = 0
-    "Eirenaios #0" = -5
-    "Gregorios #0" = 0
-    "Herakles #0" = 0
-    "Ioannes #0" = -1
-    "Lambros #0" = 0
-    "Matthaios #0" = 0
-    "Nikomedes #0" = 0
-    "Palaemon #0" = 0
-    "Petros #0" = 0
-    "Philippos #0" = 0
-    "Skantarios #0" = 0
-    "Tasos #0" = 0
-    "Thomas #0" = 0
-    "Konstantinos #0" = 10
-    "Alexandra #0" = -1
-    "Eirene #0" = 0
-    "Thalia #0" = 0
     "Alexeios #0" = 0
+    "Ambrosios #0" = 0
+    "Bartholomaios #0" = 0
+    "Basileios #0" = 0
     "Chrysanthos #0" = 0
-    "Dionysos #0" = 40
+    "David #0" = 0
+    "Dimitrios #0" = 0
+    "Diogenes #0" = 0
+    "Dionysos #0" = 0
+    "Eirenaios #0" = 0
+    "Elpidios #0" = 0
+    "Gregorios #0" = 0
     "Hektor #0" = 0
+    "Herakles #0" = 0
+    "Iason #0" = 0
+    "Ioannes #0" = 0
     "Kastor #0" = 0
+    "Lambros #0" = 0
+    "Manuel #0" = 0
+    "Matthaios #0" = 0
+    "Nestor #0" = 0
+    "Nikomedes #0" = 0
+    "Orestes #0" = 0
+    "Palaemon #0" = 0
+    "Pelagios #0" = 0
+    "Petros #0" = 0
+    "Philemon #0" = 0
+    "Philippos #0" = 0
+    "Prokopios #0" = 0
+    "Skantarios #0" = 0
+    "Stefanos #0" = 0
+    "Tasos #0" = 0
+    "Theodoros #0" = 0
+    "Thomas #0" = 0
 }
 leader_names = {
     "Anina"  # Anina
@@ -165,25 +182,25 @@ ship_names = {
     "Evripidis"  # Evripidis
     "Aischylos"  # Aischylos
     "Aristofanis"  # Aristofanis
-    "Archimedes"  # Archimedes
+    "阿基米德"  # Archimedes
     "Demokritos"  # Demokritos
     "Anaxagoras"  # Anaxagoras
-    "Diomedes"  # Diomedes
-    "Herakles"  # Herakles
+    "狄俄墨得斯"  # Diomedes
+    "赫拉克勒斯"  # Herakles
     "Atreas"  # Atreas
     "Perseas"  # Perseas
     "Aigyptos"  # Aigyptos
     "Aiolos"  # Aiolos
     "Poseidon"  # Poseidon
-    "Athena"  # Athena
-    "Zeus"  # Zeus
+    "雅典娜"  # Athena
+    "宙斯"  # Zeus
     "Dias"  # Dias
-    "Kronos"  # Kronos
+    "克洛诺斯"  # Kronos
     "Rea"  # Rea
-    "Ouranos"  # Ouranos
-    "Hera"  # Hera
+    "乌拉诺斯"  # Ouranos
+    "赫拉"  # Hera
     "Adonis"  # Adonis
-    "Afroditi"  # Afroditi
+    "阿芙洛狄忒"  # Afroditi
     "Charavgi"  # Charavgi
     "Orion"  # Orion
     "Iasonas"  # Iasonas
@@ -293,7 +310,7 @@ ship_names = {
     "Vasileus Ioustinianos"  # Vasileus Ioustinianos
     "Ioustinianos o Megas"  # Ioustinianos o Megas
     "Vasileus Michael"  # Vasileus Michael
-    "Andronikos"  # Andronikos
+    "安德罗尼科斯"  # Andronikos
     "Androniki"  # Androniki
     "Agios Andronikos"  # Agios Andronikos
     "Agia Androniki"  # Agia Androniki
@@ -792,8 +809,8 @@ ship_names = {
     "Poimenas"  # Poimenas
     "Thanatos"  # Thanatos
     "Ethnikos"  # Ethnikos
-    "Olympia"  # Olympia
-    "Olympiakos"  # Olympiakos
+    "奥林匹亚"  # Olympia
+    "奥林匹亚科斯"  # Olympiakos
     "Athlitis"  # Athlitis
     "Axios"  # Axios
     "Antaxios"  # Antaxios
@@ -806,7 +823,7 @@ ship_names = {
     "Vlachopoulla"  # Vlachopoulla
     "Vlacherna"  # Vlacherna
     "Kaffa"  # Kaffa
-    "Moldavia"  # Moldavia
+    "摩尔达维亚"  # Moldavia
     "Vulgaria"  # Vulgaria
     "Servia"  # Servia
     "Mavrovunion"  # Mavrovunion
@@ -819,7 +836,7 @@ ship_names = {
     "Zoni"  # Zoni
     "Zallogos"  # Zallogos
     "O Choros tou Zallogou"  # O Choros tou Zallogou
-    "Achaea"  # Achaea
+    "亚该亚"  # Achaea
     "Aigina"  # Aigina
     "Avydos"  # Avydos
     "Akanthos"  # Akanthos

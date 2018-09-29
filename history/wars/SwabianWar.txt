@@ -1,4 +1,4 @@
-﻿name = "施瓦本之战"  # Swabian War
+﻿name = "施瓦本战争"  # Swabian War
 war_goal = {
     type = take_capital_vassalize
     casus_belli = cb_vassalize_mission
@@ -10,7 +10,7 @@ war_goal = {
 }
 1499.2.20 = {
     battle = {
-        name = "Hard"  # Hard
+        name = "哈尔德"  # Hard
         location = 73
         attacker = {
             commander = "马克西米利安"  # Maximilian
@@ -20,7 +20,7 @@ war_goal = {
             country = HAB
         }
         defender = {
-            commander = "Wilhelm Tell"  # Wilhelm Tell
+            commander = "威廉 退尔"  # Wilhelm Tell
             infantry = 4200
             losses = 6
             country = SWI

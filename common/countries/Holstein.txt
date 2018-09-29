@@ -31,60 +31,74 @@ historical_units = {
     napoleonic_lancers
 }
 monarch_names = {
-    "Friedrich #0" = 40
-    "Johann #0" = 20
-    "Gerhard #6" = 20
-    "Albrecht #1" = 20
-    "August #0" = 10
-    "Friedrich Ludwig #0" = 5
-    "Karl Anton #0" = 5
-    "Peter August #0" = 0
-    "Franz #0" = 0
-    "Karl Friedrich #0" = 0
-    "Philip Ludwig #0" = -1
-    "Ernst #0" = 20
-    "Karl Gustav #0" = 0
-    "Philip Wilhelm #0" = 20
-    "Bruno #0" = 0
-    "Florian #0" = 0
-    "Joachim #0" = 0
-    "Leonhard #0" = 0
-    "Peter #0" = 0
-    "Waldemar #0" = 0
-    "Germaine #0" = -1
-    "Christian #0" = 60
-    "Adolf #7" = 20
-    "Alexander #0" = 10
-    "Karl #0" = 5
-    "Eugen #0" = 0
-    "Magnus #0" = -1
-    "Ernst Kasimir #0" = 10
-    "Adelmar #0" = 0
+    "克里斯蒂安 #0" = 60
+    "弗雷德里克 #0" = 60
+    "弗雷德里克 魏海姆 #0" = 40
+    "约翰 #0" = 40
+    "阿道夫 #7" = 20
+    "格哈德 #6" = 20
+    "海因里希 #2" = 20
+    "阿尔布莱特 #1" = 20
+    "亚历山大 #0" = 20
+    "奥古斯特 #0" = 20
+    "奥古斯特 菲利普 #0" = 20
+    "弗雷德里克 路德维希 #0" = 20
+    "卡尔 #0" = 20
+    "卡尔 安东 #0" = 20
+    "卡尔 路德维希 #0" = 20
+    "彼得 奥古斯特 #0" = 20
+    "奥根 #0" = 10
+    "弗朗茨 #0" = 10
+    "约翰 克里斯蒂安 #0" = 10
+    "卡尔 弗雷德里克 #0" = 10
+    "马格努斯 #0" = 10
+    "菲利普 路德维希 #0" = 10
+    "安东 #0" = 5
+    "厄恩斯特 #0" = 5
+    "厄恩斯特 卡西米尔 #0" = 5
+    "卡尔 古斯塔夫 #0" = 5
+    "马克西米利安 #0" = 5
+    "菲利普 魏海姆 #0" = 5
+    "阿德玛 #0" = 0
+    "布鲁诺 #0" = 0
+    "康拉德 #0" = 0
+    "弗洛里安 #0" = 0
+    "哈拉德 #0" = 0
+    "约海姆 #0" = 0
+    "卡斯帕尔 #0" = 0
+    "雷恩哈德 #0" = 0
+    "奥斯卡 #0" = 0
+    "彼得 #0" = 0
+    "托马斯 #0" = 0
+    "魏德玛 #0" = 0
+    "阿达 #0" = -1
+    "德曼 #0" = -1
+    "玛蒂尔德 #0" = -1
 }
 leader_names = {
-    "Albert"  # Albert
-    "Augustenborg"  # Augustenborg
-    "Günther"  # Günther
-    "Holstein"  # Holstein
-    "Holstein-Gottorp"  # Holstein-Gottorp
-    "Oldenburg"  # Oldenburg
-    "Philip"  # Philip
-    "Rantzau"  # Rantzau
-    "von Barner"  # von Barner
-    "von Dellwigh"  # von Dellwigh
+    "阿尔伯特"  # Albert
+    "奥古斯滕堡"  # Augustenborg
+    "古滕"  # Günther
+    "荷尔施泰因"  # Holstein
+    "荷尔斯泰因-戈托普"  # Holstein-Gottorp
+    "奥尔登堡"  # Oldenburg
+    "菲利普"  # Philip
+    "兰道"  # Rantzau
+    "冯 巴恩尔"  # von Barner
+    "冯 戴尔"  # von Dellwigh
 }
 ship_names = {
-    "Dahme"  # Dahme
-    "Grömtz"  # Grömtz
-    "Grossenbrode"  # Grossenbrode
-    "Kiel"  # Kiel
-    "Kellenhusen"  # Kellenhusen
-    "Neustadt"  # Neustadt
-    "Ostsee"  # Ostsee
-    "Scharbeutz"  # Scharbeutz
-    "Sierksdorf"  # Sierksdorf
-    "Wedel"  # Wedel
+    "达米"  # Dahme
+    "格罗姆兹"  # Grömtz
+    "格罗森布罗德"  # Grossenbrode
+    "基尔"  # Kiel
+    "凯伦胡森"  # Kellenhusen
+    "纽施塔特"  # Neustadt
+    "奥特西"  # Ostsee
+    "沙布尔茨"  # Scharbeutz
+    "锡尔施道夫"  # Sierksdorf
+    "魏德尔"  # Wedel
 }
 army_names = {
-    "Armee von $PROVINCE$"  # Armee von $PROVINCE$
+    "陆军 $PROVINCE$"  # Armee von $PROVINCE$
 }

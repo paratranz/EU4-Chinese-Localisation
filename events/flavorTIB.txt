@@ -1,0 +1,225 @@
+﻿namespace = flavor_tib
+normal_or_historical_nations = yes
+country_event = {
+    id = flavor_tib.1
+    title = "flavor_tib.EVTNAME1"
+    desc = "flavor_tib.EVTDESC1"
+    picture = RELIGION_eventPicture
+    fire_only_once = yes
+    trigger = {
+        OR = {
+            AND = {
+                tag = TIB
+                OR = {
+                    NOT = {
+                        dip = 3
+                    }
+                    NOT = {
+                        mil = 3
+                    }
+                    NOT = {
+                        adm = 3
+                    }
+                }
+                any_owned_province = {
+                    religion = vajrayana
+                }
+                NOT = {
+                    is_year = 1642
+                }
+                NOT = {
+                    government = theocracy
+                }
+                NOT = {
+                    has_reform = celestial_empire
+                }
+            }
+            has_country_flag = dalai_lama_flag
+        }
+    }
+    mean_time_to_happen = {
+        months = 200
+    }
+    option = {
+        trigger = {
+            NOT = {
+                has_reform = celestial_empire
+            }
+        }
+        name = "flavor_tib.EVTOPTA1"
+        ai_chance = {
+            factor = 100
+        }
+        if = {
+            limit = {
+                NOT = {
+                    religion = vajrayana
+                }
+            }
+            change_religion = vajrayana
+        }
+        if = {
+            limit = {
+                NOT = {
+                    government = theocracy
+                }
+            }
+            change_government = theocracy
+            set_legacy_government = theocratic_government
+        }
+        else = {
+            add_devotion = 20
+        }
+    }
+    option = {
+        name = "flavor_tib.EVTOPTB1"
+        ai_chance = {
+            factor = 0
+        }
+        add_stability_or_adm_power = yes
+    }
+}
+country_event = {
+    id = flavor_tib.2
+    title = "flavor_tib.EVTNAME2"
+    desc = "flavor_tib.EVTDESC2"
+    picture = HORDE_ON_HORSEBACK_eventPicture
+    fire_only_once = yes
+    is_triggered_only = yes
+    mean_time_to_happen = {
+        days = 1
+    }
+    immediate = {
+        hidden_effect = {
+            set_country_flag = tibetan_government_flag
+        }
+    }
+    option = {
+        name = "flavor_tib.EVTOPTA2"
+        ai_chance = {
+            factor = 100
+        }
+        every_country = {
+            limit = {
+                culture_group = altaic
+                has_reform = steppe_horde
+            }
+            add_opinion = {
+                who = ROOT
+                modifier = tibetan_steppe_relations
+            }
+        }
+    }
+    option = {
+        name = "flavor_tib.EVTOPTB2"
+        ai_chance = {
+            factor = 0
+        }
+        trigger = {
+            NOT = {
+                exists = KLK
+            }
+            NOT = {
+                has_reform = celestial_empire
+            }
+            was_never_end_game_tag_trigger = yes
+        }
+        add_stability = -2
+        change_tag = KLK
+        change_government = tribal
+        add_government_reform = steppe_horde
+        change_primary_culture = khalkha
+        add_accepted_culture = tibetan
+        if = {
+            limit = {
+                is_year = 1527
+                NOT = {
+                    is_year = 1582
+                }
+            }
+            define_ruler = {
+                name = "俺答"  # Altan
+                dynasty = "孛儿只斤"  # Borjigin
+                culture = khalkha
+                adm = 4
+                dip = 4
+                mil = 5
+            }
+        }
+        else = {
+            define_ruler = {
+                dynasty = "孛儿只斤"  # Borjigin
+                culture = khalkha
+            }
+        }
+    }
+    option = {
+        name = "flavor_tib.EVTOPTC2"
+        ai_chance = {
+            factor = 0
+        }
+        trigger = {
+            NOT = {
+                exists = KSD
+            }
+            NOT = {
+                has_reform = celestial_empire
+            }
+            was_never_end_game_tag_trigger = yes
+        }
+        add_stability = -2
+        change_tag = KSD
+        change_primary_culture = oirats
+        add_accepted_culture = tibetan
+        change_government = tribal
+        add_government_reform = steppe_horde
+        if = {
+            limit = {
+                is_year = 1600
+                NOT = {
+                    is_year = 1655
+                }
+            }
+            define_ruler = {
+                name = "固始"  # Gushri
+                dynasty = "和硕特"  # Khoshut
+                culture = oirats
+                adm = 2
+                dip = 4
+                mil = 5
+            }
+        }
+        else = {
+            define_ruler = {
+                dynasty = "和硕特"  # Khoshut
+                culture = oirats
+            }
+        }
+    }
+    option = {
+        name = "flavor_tib.EVTOPTD2"
+        ai_chance = {
+            factor = 0
+        }
+        trigger = {
+            is_year = 1634
+            NOT = {
+                exists = ZUN
+            }
+            NOT = {
+                has_reform = celestial_empire
+            }
+            was_never_end_game_tag_trigger = yes
+        }
+        add_stability = -2
+        change_tag = ZUN
+        change_primary_culture = oirats
+        add_accepted_culture = tibetan
+        change_government = tribal
+        add_government_reform = steppe_horde
+        define_ruler = {
+            dynasty = "绰罗斯"  # Choros
+            culture = oirats
+        }
+    }
+}

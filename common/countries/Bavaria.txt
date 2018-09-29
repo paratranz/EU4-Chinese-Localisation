@@ -37,95 +37,113 @@ historical_units = {
     napoleonic_lancers
 }
 monarch_names = {
-    "Wilhelm #3" = 20
-    "Ernst #0" = 20
-    "Karl Albrecht #0" = 20
-    "Maximilian #0" = 15
-    "Maximilian #0 Emanuel" = 15
-    "Ludwig #9" = 10
-    "Christoph #0" = 10
-    "Joseph Clemens #0" = 10
-    "Karl #0" = 0
-    "Maximilian #0 Philipp" = 0
-    "Theodor #0" = -1
-    "Alois Johann #0" = -1
-    "Friedrich #0" = -1
-    "Joseph Ludwig #0" = 60
-    "Luitpold #0" = 15
-    "Philipp Moritz #0" = 10
-    "Engelbert #0" = -1
-    "Hieronymus #0" = -1
-    "Markus #0" = 0
-    "Raphael #0" = 0
-    "Friede #0" = -1
-    "Luise #0" = -1
-    "Violante #0" = -1
-    "Maria Josepha #0" = -1
-    "Amalie #0" = -1
-    "Ludovika #0" = -1
-    "Sibylle #0" = -1
-    "Johann #3" = 20
-    "Karl Theodor #0" = 15
-    "Siegmund #0" = 15
-    "Ferdinand #0" = 10
-    "Leopold Ferdinand #0" = 0
-    "Adalbert #0" = -1
-    "Johann Theodor #0" = -1
-    "Otto #0" = 10
-    "Gottfried #0" = 40
+    "阿尔布雷希特 #2" = 60
+    "威廉 #3" = 40
+    "约翰 #3" = 20
+    "恩斯特 #0" = 20
+    "斐迪南 玛丽亚 #0" = 20
+    "卡尔 阿尔布雷希特 #0" = 20
+    "卡尔 提奥多 #0" = 20
+    "马克西米利安 #0" = 20
+    "马克西米利安 约瑟夫 #0" = 40
+    "马克西米利安  #0 伊曼努艾尔" = 20
+    "西格蒙德 #0" = 20
+    "路德维希 #9" = 15
+    "安东 #0" = 15
+    "克里斯托夫 #0" = 15
+    "斐迪南 #0" = 15
+    "约瑟夫 克莱芒 #0" = 15
+    "约瑟夫 斐迪南 #0" = 15
+    "卡尔 #0" = 15
+    "利奥波德 斐迪南  #0" = 15
+    "马克西米利安 #0 菲利普" = 15
+    "菲利普 威廉  #0" = 15
+    "提奥多  #0" = 15
+    "阿达尔伯特  #0" = 10
+    "阿洛伊斯 约翰  #0" = 10
+    "克莱门斯 奥古斯特 #0" = 10
+    "腓特烈 #0" = 10
+    "约翰 提奥多 #0" = 10
+    "约瑟夫 路德维希 #0" = 10
+    "卡耶坦 玛利亚 #0" = 10
+    "路易特波德 #0" = 10
+    "奥托 #0" = 10
+    "菲利普 莫里茨 #0" = 10
+    "沃尔夫冈 #0" = 10
+    "恩格尔伯特 #0" = 0
+    "戈特弗里德 #0" = 0
+    "希罗尼穆斯 #0" = 0
+    "伊格纳茨 #0" = 0
+    "马库斯 #0" = 0
+    "迈因哈德 #0" = 0
+    "拉斐尔 #0" = 0
+    "希尔特劳德 #0" = -1
+    "芙莉德 #0" = -1
+    "尤莉安妮 #0" = -1
+    "露易丝 #0" = -1
+    "玛丽亚 安娜 #0" = -1
+    "薇奥兰特 #0" = -1
+    "玛丽亚 #0" = -1
+    "玛丽亚 约瑟法 #0" = -1
+    "泰丽莎 #0" = -1
+    "阿玛莉 #0" = -1
+    "索菲娅 #0" = -1
+    "路朵薇卡 #0" = -1
+    "马克西米莉安妮 #0" = -1
+    "西碧勒 #0" = -1
 }
 leader_names = {
-    "von Armansperg"  # von Armansperg
-    "Wilsenhütten"  # Wilsenhütten
-    "Asch"  # Asch
-    "Dulac"  # Dulac
-    "Chlingensperg"  # Chlingensperg
-    "Gumpenberg"  # Gumpenberg
-    "Hafenbrädl"  # Hafenbrädl
-    "Hannet"  # Hannet
-    "Scherer"  # Scherer
-    "Hugenpoet"  # Hugenpoet
-    "Livizzani"  # Livizzani
-    "Lechner"  # Lechner
-    "von Seckendorf"  # von Seckendorf
-    "Morawitzky"  # Morawitzky
-    "von Zentner"  # von Zentner
-    "Moshamm"  # Moshamm
-    "von Pappenheim"  # von Pappenheim
-    "Pfretschner"  # Pfretschner
-    "Maximillian"  # Maximillian
-    "Riedesel"  # Riedesel
-    "Rickauer"  # Rickauer
-    "Satzenhofen"  # Satzenhofen
-    "Vieregg"  # Vieregg
-    "Treuberg"  # Treuberg
+    "冯 阿尔芒斯佩格"  # von Armansperg
+    "维尔森赫伊藤"  # Wilsenhütten
+    "阿施"  # Asch
+    "杜拉克"  # Dulac
+    "钱林斯伯格"  # Chlingensperg
+    "古本堡"  # Gumpenberg
+    "哈芬布莱德勒"  # Hafenbrädl
+    "哈内特"  # Hannet
+    "歇尔"  # Scherer
+    "胡根泊耶特"  # Hugenpoet
+    "李维擦尼"  # Livizzani
+    "莱希纳"  # Lechner
+    "冯 泽肯多夫"  # von Seckendorf
+    "莫拉维茨基"  # Morawitzky
+    "冯 森特纳"  # von Zentner
+    "莫斯哈姆"  # Moshamm
+    "冯 帕彭海姆"  # von Pappenheim
+    "斐池纳"  # Pfretschner
+    "马克西米利安"  # Maximillian
+    "里德泽勒"  # Riedesel
+    "里考厄尔"  # Rickauer
+    "萨尔岑霍芬"  # Satzenhofen
+    "斐尔艾格"  # Vieregg
+    "特雷堡"  # Treuberg
 }
 army_names = {
-    "Armee von $PROVINCE$"  # Armee von $PROVINCE$
+    "$PROVINCE$ 之军"  # Armee von $PROVINCE$
 }
 ship_names = {
-    "St. Kilian"  # St. Kilian
-    "Tassilo III"  # Tassilo III
-    "Kaiser Ludwig IV"  # Kaiser Ludwig IV
-    "König Arnulf"  # König Arnulf
-    "Graf von Bogen"  # Graf von Bogen
-    "Graf von Andechs"  # Graf von Andechs
-    "Graf von Sulzbach"  # Graf von Sulzbach
-    "Wittelsbach"  # Wittelsbach
-    "Graf von Diepolding"  # Graf von Diepolding
-    "König Konrad III"  # König Konrad III
-    "König Friedrich I"  # König Friedrich I
-    "Pfalzgraf Otto"  # Pfalzgraf Otto
-    "Augsburg"  # Augsburg
-    "Andechs"  # Andechs
-    "Burgau"  # Burgau
-    "Diessen"  # Diessen
-    "Friedberg"  # Friedberg
-    "Kempten"  # Kempten
-    "Lindau"  # Lindau
-    "Memmingen"  # Memmingen
-    "Mindel"  # Mindel
-    "Oettingen"  # Oettingen
-    "Straubing"  # Straubing
-    "Wolfstein"  # Wolfstein
+    "圣基里安"  # St. Kilian
+    "塔西洛三世"  # Tassilo III
+    "路德维希四世皇帝"  # Kaiser Ludwig IV
+    "阿努尔夫国王"  # König Arnulf
+    "孛根伯爵"  # Graf von Bogen
+    "安德希斯伯爵"  # Graf von Andechs
+    "苏尔茨巴赫伯爵"  # Graf von Sulzbach
+    "维特尔斯巴赫"  # Wittelsbach
+    "第泊勒丁伯爵"  # Graf von Diepolding
+    "康拉德三世国王"  # König Konrad III
+    "腓特烈一世国王"  # König Friedrich I
+    "宫中伯爵奥托"  # Pfalzgraf Otto
+    "奥格斯堡"  # Augsburg
+    "安德希斯"  # Andechs
+    "布尔高"  # Burgau
+    "迪森"  # Diessen
+    "弗里德堡"  # Friedberg
+    "肯普滕"  # Kempten
+    "林道"  # Lindau
+    "梅明根"  # Memmingen
+    "民德勒"  # Mindel
+    "厄廷根"  # Oettingen
+    "施特劳宾"  # Straubing
+    "沃尔夫斯泰因"  # Wolfstein
 }

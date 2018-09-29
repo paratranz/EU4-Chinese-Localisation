@@ -28,36 +28,39 @@ historical_units = {
     reformed_steppe_rifles
 }
 monarch_names = {
-    "Ali #0" = 20
-    "Cihangir #0" = 20
-    "Halîl #0" = 20
-    "Rüstem #0" = 20
-    "Murâd #0" = 20
-    "Hamza #0" = 10
-    "Fahreddîn Qutlu #0" = 10
-    "Qara Hasan #0" = 10
-    "Salwah #1" = 20
-    "Aisha #1" = -1
-    "Rabia #0" = -1
-    "Umut #0" = 20
-    "Zübeyde #0" = -1
+    "哈剌 雍鲁克 斡思蛮 #0" = 10
     "阿里 #0" = 20
-    "吉汉吉尔 #0" = 20
-    "哈利勒 #0" = 20
-    "鲁斯坦 #0" = 10
-    "穆拉德 #0" = -1
-    "哈姆扎 #0" = -1
-    "哈山 #0" = 20
-    "穆罕默德 米尔扎 #1" = 10
-    "艾莎 #1" = -1
+    "牙忽布 #0" = 20
+    "只罕杰儿 #0" = 20
+    "乌尊 哈桑 #0" = 20
+    "哈里勒 #0" = 20
+    "拜宋豁儿 #0" = 20
+    "鲁思谭 #0" = 20
+    "阿合马 豁兀答 #0" = 20
+    "木剌迪 #0" = 20
+    "阿勒完 穆罕默德 #0" = 20
+    "哈姆扎 #0" = 10
+    "图尔 阿里 #0" = 10
+    "法赫鲁丁 忽都鲁 #0" = 10
+    "哈桑 #0" = 10
+    "哈剌 哈桑 #0" = 10
+    "穆罕默德 米尔扎 #1" = 20
+    "撒儿完 #1" = -1
+    "哈里马 #1" = -1
+    "爱莎 #1" = -1
+    "灭里思 #0" = -1
     "拉比耶 #0" = -1
+    "莎菲耶 #0" = -1
+    "兀木 #0" = -1
+    "兹内特 #0" = -1
+    "祖贝伊德 #0" = -1
 }
 leader_names = {
     "阿里"  # Ali
     "艾哈迈德"  # Ahmed
-    "吉汉吉尔"  # Cihangir
+    "只罕杰儿"  # Cihangir
     "埃尔文德"  # Elvend
-    "Fahreddîn"  # Fahreddîn
+    "法赫鲁丁"  # Fahreddîn
     "格乌代"  # Gövde
     "哈利勒"  # Halil
     "哈马扎"  # Hamza
@@ -66,43 +69,43 @@ leader_names = {
     "穆罕默德"  # Muhammed
     "穆拉德"  # Murâd
     "奥斯曼"  # Osman
-    "卡拉"  # Qara
-    "Qutlu"  # Qutlu
+    "哈剌"  # Qara
+    "忽都鲁"  # Qutlu
     "鲁斯坦"  # Rüstem
     "乌尊"  # Uzun
     "雅古布"  # Yaqûb
-    "Yülüq"  # Yülüq
+    "雍鲁克"  # Yülüq
 }
 ship_names = {
-    "Ahlat"  # Ahlat
-    "Ardabîl"  # Ardabîl
-    "Basra"  # Basra
-    "Bayburt"  # Bayburt
-    "Bayîndîr"  # Bayîndîr
-    "Diyar Baqr"  # Diyar Baqr
-    "Erzincan"  # Erzincan
-    "Esfahan"  # Esfahan
-    "Fahreddîn Qutlu"  # Fahreddîn Qutlu
-    "Gilan"  # Gilan
-    "Hamadan"  # Hamadan
-    "Hasan"  # Hasan
-    "Hazar"  # Hazar
-    "Karbala"  # Karbala
-    "Mardin"  # Mardin
-    "Musul"  # Musul
-    "Qara Yülüq"  # Qara Yülüq
-    "Sirvan"  # Sirvan
-    "Sultan"  # Sultan
-    "Tur Ali"  # Tur Ali
-    "Urfa"  # Urfa
-    "Van"  # Van
-    "Yazd"  # Yazd
+    "阿赫拉特"  # Ahlat
+    "阿尔达比勒"  # Ardabîl
+    "巴士拉"  # Basra
+    "巴伊布尔特"  # Bayburt
+    "巴因迪尔"  # Bayîndîr
+    "迪亚巴克尔"  # Diyar Baqr
+    "埃尔津詹"  # Erzincan
+    "伊斯法罕"  # Esfahan
+    "法赫鲁丁 忽都鲁"  # Fahreddîn Qutlu
+    "吉兰"  # Gilan
+    "哈马丹"  # Hamadan
+    "哈桑"  # Hasan
+    "哈扎尔"  # Hazar
+    "卡尔巴拉"  # Karbala
+    "马尔丁"  # Mardin
+    "摩苏尔"  # Musul
+    "哈剌 雍鲁克"  # Qara Yülüq
+    "希尔万"  # Sirvan
+    "苏丹"  # Sultan
+    "图尔 阿里"  # Tur Ali
+    "乌尔法"  # Urfa
+    "凡城"  # Van
+    "亚兹德"  # Yazd
 }
 army_names = {
-    "Army of $PROVINCE$"  # Army of $PROVINCE$
+    "$PROVINCE$ 之军"  # Army of $PROVINCE$
 }
 fleet_names = {
-    "Black Sea fleet"  # Black Sea fleet
-    "Caspian Sea fleet"  # Caspian Sea fleet
-    "Persian Gulf Fleet"  # Persian Gulf Fleet
+    "黑海舰队"  # Black Sea fleet
+    "里海舰队"  # Caspian Sea fleet
+    "波斯湾舰队"  # Persian Gulf Fleet
 }

@@ -36,48 +36,66 @@ historical_units = {
     napoleonic_lancers
 }
 monarch_names = {
-    "Albrecht #1" = 40
-    "Friedrich #2 August" = 20
-    "Wilhelm #0" = 20
-    "Christian #0" = 15
-    "Maximilian #0" = 15
-    "Joseph #0" = 15
-    "Karl #4 Albrecht" = 15
-    "Friedrich #2 Albrecht" = 15
-    "Albrecht #1 Achilles" = 15
-    "Ernest #0" = 10
-    "Franz #0 Stefan" = 10
-    "Georg #0 Wilhelm" = 10
-    "Joachim #0 Nestor" = -1
-    "Johann #0 Cicero" = 30
-    "Johann #0 Siegmund" = 15
-    "Leopold #0" = 10
-    "Mortiz #0" = -1
-    "Karl #4 Joseph" = 15
-    "August #0 Wilhelm" = 10
-    "Alexander #0" = 10
-    "Christian #0 Albrecht" = 10
-    "Johann #0 Karl" = 10
-    "Leopold #0 Ferdinand" = 10
-    "Maximilian #0 Philipp" = 10
-    "Wenzel #0" = 10
+    "腓特烈 #2" = 60
+    "阿尔布雷希特 #1" = 50
+    "弗里德里希 #2 威廉" = 40
+    "腓特烈 #2 奥古斯特" = 30
+    "斐迪南 #0" = 30
+    "威廉 #0" = 30
+    "卡尔 #4" = 20
+    "克里斯蒂安 #0" = 20
+    "约翰 #0 格奥尔格" = 20
+    "马克西米连 #0" = 20
+    "弗朗茨 #0" = 20
+    "约瑟夫 #0" = 20
+    "海因里希 #7" = 15
+    "卡尔 #4 阿尔布雷希特" = 15
+    "卡尔 #4 西奥多" = 15
+    "腓特烈 #2 阿尔布雷希特" = 15
+    "腓特烈 #2 克里斯蒂安" = 15
+    "阿尔布雷希特 #1 阿基里斯" = 15
+    "奥古斯特 #0" = 15
+    "欧内斯特 #0" = 15
+    "斐迪南 #0 玛丽亚" = 15
+    "弗朗茨 #0 斯特凡" = 15
+    "格奥尔格 #0" = 15
+    "格奥尔格 #0 威廉" = 15
+    "约阿希姆 #0赫克托尔" = 15
+    "约阿希姆 #0 涅斯托尔" = 15
+    "约翰 #0" = 15
+    "约翰 #0 西塞罗" = 15
+    "约翰 #0 弗里德里希" = 15
+    "约翰 #0 西格蒙德" = 15
+    "拉迪斯拉夫 #0" = 15
+    "利奥波德  #0" = 15
+    "马蒂亚斯 #0" = 15
+    "Mortiz #0" = 15
+    "西格蒙德 #0" = 15
+    "卡尔 #4 约瑟夫" = 10
+    "路德维希 #4" = 10
+    "奥古斯特 #0 威廉" = 10
+    "弗里德里希 #0 威廉" = 10
+    "亚历山大 #0" = 10
+    "安东 #0" = 10
+    "克里斯蒂安 #0 阿尔布雷希特" = 10
+    "赫克托 #0" = 10
+    "约翰 #0 卡尔" = 10
+    "约翰 #0 利奥波德" = 10
+    "利奥波德 #0 斐迪南" = 10
+    "利奥波德 #0 约翰" = 10
+    "马克西米利安 #0 菲利普" = 10
+    "鲁普莱希特 #0" = 10
+    "文策尔 #0" = 10
+    "Ortrun #0" = -1
     "Marianne #0" = -1
-    "Friedrich #2" = 60
-    "Ferdinand #0" = 20
-    "Johann #0 Georg" = 15
-    "Heinrich #7" = 15
-    "Friedrich #2 Christian" = 15
-    "Ferdinand #0 Maria" = 10
-    "Joachim #0 Hector" = 10
-    "Johann #0 Friedrich" = 15
-    "Matthias #0" = 10
+    "Raffaela #0" = -1
 }
 leader_names = {
-    "Adam"  # Adam
+    "亚当"  # Adam
     "Angermann"  # Angermann
     "Appelt"  # Appelt
     "Arndt"  # Arndt
-    "Beck"  # Beck
+    "贝克"  # Beck
     "Becker"  # Becker
     "Bening"  # Bening
     "Blasius"  # Blasius
@@ -91,7 +109,7 @@ leader_names = {
     "Edelmann"  # Edelmann
     "Elsner"  # Elsner
     "Feil"  # Feil
-    "Fischer"  # Fischer
+    "费舍尔"  # Fischer
     "Franke"  # Franke
     "Giewer"  # Giewer
     "Haase"  # Haase
@@ -119,7 +137,7 @@ leader_names = {
     "Scharfbillig"  # Scharfbillig
     "Schave"  # Schave
     "Scheler"  # Scheler
-    "Schmitt"  # Schmitt
+    "施密特"  # Schmitt
     "Schneider"  # Schneider
     "Schumann"  # Schumann
     "Stephan"  # Stephan
@@ -128,9 +146,9 @@ leader_names = {
     "Uhlig"  # Uhlig
     "von Franken"  # von Franken
     "von Rothenburg"  # von Rothenburg
-    "von Schwaben"  # von Schwaben
+    "冯 施瓦本"  # von Schwaben
     "von Vitzgau"  # von Vitzgau
-    "von Weimar"  # von Weimar
+    "冯 魏玛"  # von Weimar
     "Wachsmuth"  # Wachsmuth
     "Wacht"  # Wacht
     "von Werl"  # von Werl
@@ -143,7 +161,7 @@ ship_names = {
     "Arche Noah"  # Arche Noah
     "Brandenburgischer Dragoner"  # Brandenburgischer Dragoner
     "Brunte Kuh"  # Brunte Kuh
-    "Charlotte Louise"  # Charlotte Louise
+    "夏洛特 露易丝"  # Charlotte Louise
     "Churfürst von Brandenburg"  # Churfürst von Brandenburg
     "Churfürtstlische Liebjagd"  # Churfürtstlische Liebjagd
     "Churprinz von Brandenburg"  # Churprinz von Brandenburg
@@ -157,10 +175,10 @@ ship_names = {
     "Engel Gabriel"  # Engel Gabriel
     "Fliegender Drache"  # Fliegender Drache
     "Fliegender Hirsch"  # Fliegender Hirsch
-    "Friedrich Carl"  # Friedrich Carl
-    "Friedrich der Große"  # Friedrich der Große
+    "腓特烈 卡尔"  # Friedrich Carl
+    "腓特烈大帝"  # Friedrich der Große
     "Friedrich Wilhelm zu Pferde"  # Friedrich Wilhelm zu Pferde
-    "Friedrich Wilhelm"  # Friedrich Wilhelm
+    "腓特烈 威廉"  # Friedrich Wilhelm
     "Füchslein"  # Füchslein
     "Gelber Löve"  # Gelber Löve
     "Goldener Löve"  # Goldener Löve
@@ -194,10 +212,10 @@ ship_names = {
     "Markgraf von Brandenburg"  # Markgraf von Brandenburg
     "Meve von Churlandt"  # Meve von Churlandt
     "Nordischer Löwe"  # Nordischer Löwe
-    "Peter und Paul"  # Peter und Paul
-    "Peter von Danzig"  # Peter von Danzig
-    "Preußischer Adler"  # Preußischer Adler
-    "Princess Maria"  # Princess Maria
+    "彼得和保罗"  # Peter und Paul
+    "彼得 冯 但泽"  # Peter von Danzig
+    "普鲁士之鹰"  # Preußischer Adler
+    "公主玛丽亚"  # Princess Maria
     "Prinz Adalbert"  # Prinz Adalbert
     "Prinz Ludwig"  # Prinz Ludwig
     "Prinz Philipp"  # Prinz Philipp
@@ -219,7 +237,7 @@ ship_names = {
     "Schwarzer Rabe"  # Schwarzer Rabe
     "Sieben Provinzien"  # Sieben Provinzien
     "Stad Emden"  # Stad Emden
-    "Victoria Louise"  # Victoria Louise
+    "维多利亚 露易丝"  # Victoria Louise
     "Vogel Greif"  # Vogel Greif
     "Wapen von Bremen"  # Wapen von Bremen
     "Wapen von Hamburg"  # Wapen von Hamburg
@@ -233,24 +251,24 @@ ship_names = {
     "Weißer Löwe"  # Weißer Löwe
     "Wilhelmina Margaretta"  # Wilhelmina Margaretta
     "Wilhelmine Margrethe"  # Wilhelmine Margrethe
-    "Zwei Brüder"  # Zwei Brüder
+    "两个兄弟"  # Zwei Brüder
     "Afrikaner"  # Afrikaner
     "Amazone"  # Amazone
     "Anna"  # Anna
     "Arminius"  # Arminius
-    "Barbarossa"  # Barbarossa
+    "巴巴罗萨"  # Barbarossa
     "Basilisk"  # Basilisk
-    "Bayern"  # Bayern
+    "巴伐利亚"  # Bayern
     "Beowulf"  # Beowulf
-    "Berlin"  # Berlin
+    "柏林"  # Berlin
     "Bersteinfänger"  # Bersteinfänger
     "Bielefeld"  # Bielefeld
     "Blitz"  # Blitz
     "Blumentopf"  # Blumentopf
     "Bracke"  # Bracke
-    "Brandenburg"  # Brandenburg
-    "Braunschweig"  # Braunschweig
-    "Britannia"  # Britannia
+    "勃兰登堡"  # Brandenburg
+    "布伦瑞克"  # Braunschweig
+    "不列颠尼亚"  # Britannia
     "Bulle"  # Bulle
     "Bussard"  # Bussard
     "Camaeleon"  # Camaeleon
@@ -267,15 +285,15 @@ ship_names = {
     "Crokodil"  # Crokodil
     "Cyclop"  # Cyclop
     "Dame"  # Dame
-    "Danzig"  # Danzig
+    "但泽"  # Danzig
     "Delphin"  # Delphin
     "Derffinger"  # Derffinger
-    "Deutschland"  # Deutschland
+    "德意志"  # Deutschland
     "Dorothea"  # Dorothea
     "Drache"  # Drache
     "Eichhorn"  # Eichhorn
     "Elent"  # Elent
-    "Elsaß"  # Elsaß
+    "阿尔萨斯"  # Elsaß
     "Engel"  # Engel
     "Falke"  # Falke
     "Feuerblase"  # Feuerblase
@@ -296,14 +314,14 @@ ship_names = {
     "Grönlandfahrer"  # Grönlandfahrer
     "Habicht"  # Habicht
     "Hagen"  # Hagen
-    "Hannover"  # Hannover
-    "Hansa"  # Hansa
+    "汉诺威"  # Hannover
+    "汉萨"  # Hansa
     "Hay"  # Hay
     "Heimdall"  # Heimdall
     "Hela"  # Hela
     "Helgoland"  # Helgoland
     "Hertha"  # Hertha
-    "Hessen"  # Hessen
+    "黑森"  # Hessen
     "Hildebrand"  # Hildebrand
     "Hoffning"  # Hoffning
     "Hyäne"  # Hyäne
@@ -311,21 +329,21 @@ ship_names = {
     "Invidia"  # Invidia
     "Irene"  # Irene
     "Isländer"  # Isländer
-    "Johannesburg"  # Johannesburg
+    "约翰内斯堡"  # Johannesburg
     "Jupiter"  # Jupiter
     "Jäger"  # Jäger
-    "Kaiser"  # Kaiser
-    "Kaiserin"  # Kaiserin
+    "皇帝"  # Kaiser
+    "女皇"  # Kaiserin
     "Kronprinz"  # Kronprinz
     "Kurprinz"  # Kurprinz
     "Leopard"  # Leopard
     "Levitas"  # Levitas
-    "Lothringen"  # Lothringen
+    "洛林根"  # Lothringen
     "Lux"  # Lux
     "Makarele"  # Makarele
-    "Maria"  # Maria
+    "玛丽亚"  # Maria
     "Mars"  # Mars
-    "Mecklenburg"  # Mecklenburg
+    "梅克伦堡"  # Mecklenburg
     "Meermann"  # Meermann
     "Meerweib"  # Meerweib
     "Mercurius"  # Mercurius
@@ -337,13 +355,13 @@ ship_names = {
     "Morian"  # Morian
     "Mummelpot"  # Mummelpot
     "Musquito"  # Musquito
-    "Nassau"  # Nassau
+    "拿骚"  # Nassau
     "Natter"  # Natter
     "Neptun"  # Neptun
     "Neptunus"  # Neptunus
     "Niobe"  # Niobe
-    "Odin"  # Odin
-    "Oldenburg"  # Oldenburg
+    "奥丁"  # Odin
+    "奥尔登堡"  # Oldenburg
     "Orpheus"  # Orpheus
     "Pallas"  # Pallas
     "Parsimonia"  # Parsimonia
@@ -352,24 +370,24 @@ ship_names = {
     "Pfeil"  # Pfeil
     "Pierelepomp"  # Pierelepomp
     "Pietas"  # Pietas
-    "Pommern"  # Pommern
+    "波美拉尼亚"  # Pommern
     "Posen"  # Posen
     "Post"  # Post
-    "Potsdam"  # Potsdam
-    "Preußen"  # Preußen
+    "波茨坦"  # Potsdam
+    "普鲁士"  # Preußen
     "Prosperpina"  # Prosperpina
     "Prudentia"  # Prudentia
-    "Rheinland"  # Rheinland
+    "莱茵兰"  # Rheinland
     "Ringeltaube"  # Ringeltaube
-    "Roland"  # Roland
+    "罗兰"  # Roland
     "Rommelpot"  # Rommelpot
     "Roon"  # Roon
     "Rosenfelde"  # Rosenfelde
     "Rover"  # Rover
-    "Sachsen"  # Sachsen
+    "萨克森"  # Sachsen
     "Salamander"  # Salamander
     "Schwalbe"  # Schwalbe
-    "Schwann"  # Schwann
+    "施旺"  # Schwann
     "Scientia"  # Scientia
     "Seeadler"  # Seeadler
     "Seemoewe"  # Seemoewe
@@ -388,20 +406,20 @@ ship_names = {
     "Wasserhund"  # Wasserhund
     "Weissenburg"  # Weissenburg
     "Wespe"  # Wespe
-    "Westfalen"  # Westfalen
-    "Wettin"  # Wettin
+    "威斯特法伦"  # Westfalen
+    "维丁"  # Wettin
     "Windhund"  # Windhund
-    "Wittelsbach"  # Wittelsbach
+    "维特尔斯巴赫"  # Wittelsbach
     "Wolkensäule"  # Wolkensäule
-    "Württemberg"  # Württemberg
+    "符腾堡"  # Württemberg
     "Wörth"  # Wörth
     "Zähringen"  # Zähringen
     "Ägir"  # Ägir
 }
 army_names = {
-    "Kaiserliche Armee"  # Kaiserliche Armee
-    "Armee von $PROVINCE$"  # Armee von $PROVINCE$
+    "帝国军队"  # Kaiserliche Armee
+    "$PROVINCE$之军"  # Armee von $PROVINCE$
 }
 fleet_names = {
-    "Kaiserliche Flotte"  # Kaiserliche Flotte
+    "帝国舰队"  # Kaiserliche Flotte
 }

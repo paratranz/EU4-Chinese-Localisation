@@ -31,338 +31,406 @@ historical_units = {
     reformed_manchu_rifle
 }
 monarch_names = {
-    "Zhanjun #0" = 10
-    "Zhanyin #0" = 10
-    "Zhangang #0" = 10
-    "Zhankai #0" = 10
-    "Jianrui #0" = 10
-    "Jianti #0" = 10
-    "Jianze #0" = 10
-    "Jianzhi #0" = 10
-    "Jianji #0" = 10
-    "Youtang #0" = 10
-    "Youlun #0" = 10
-    "Youyun #0" = 10
-    "You'kai #0" = 10
-    "Houwei #0" = 10
-    "Houcong #0" = 10
-    "Zairui #0" = 10
-    "Yiling #0" = 10
-    "Yiliu #0" = 10
-    "Changxu #0" = 10
-    "Changzhi #0" = 10
-    "Changrun #0" = 10
-    "Changbo #0" = 10
-    "Youxue #0" = 10
-    "Youjian #0" = 10
-    "Youshan #0" = 10
-    "Ciyu #0" = 10
-    "Cilang #0" = 10
-    "Cizhao #0" = 10
-    "Cican #0" = 10
-    "Shanglie #0" = 10
-    "Shanghong #0" = 10
-    "Zhibao #0" = 10
-    "Gongjian #0" = 10
-    "Gongming #0" = 10
-    "Jiye #0" = 10
-    "Jihuan #0" = 0
-    "Meigui #0" = 0
-    "Zhongxuan #0" = 0
-    "Qiyuan #0" = 0
-    "Qirong #0" = 0
-    "Zishi #0" = 0
-    "Cijue #0" = 0
-    "Cikai #0" = 0
-    "Linyuan #0" = 0
-    "Biao #0" = 0
-    "Gang #0" = 0
-    "Zhen #0" = 0
-    "Zi #0" = 0
-    "Bo #0" = 10
-    "Xuntan #0" = 0
-    "Ying #0" = 0
-    "Zhi #0" = 0
-    "Chenhao #0" = 0
-    "Hui #0" = 0
-    "Mo #0" = 0
-    "Jing #0" = 0
-    "Nan #0" = 0
-    "Xiongying #0" = 0
-    "Yunjian #0" = 0
-    "Wenkui #0" = 0
-    "Gaosui #0" = 0
-    "ZhanYong #0" = 0
-    "Yousi #0" = 0
-    "Jianshu #0" = 0
-    "Yourong #0" = 0
-    "Zailun #0" = 0
-    "Changfang #0" = 0
-    "Changxun #0" = 10
-    "Changrun #0" = 10
-    "Cihuan #0" = 10
-    "Keqin #0" = -1
-    "Dounan #0" = 10
-    "Zixiang #0" = 10
-    "Guan #0" = 0
-    "Yuan #0" = 10
-    "Xingui #0" = 10
-    "Ji #0" = 10
-    "Yu #0" = 10
-    "Zhong #0" = 10
-    "Xizheng #0" = 10
-    "Shao'en #0" = 10
-    "Song #0" = 0
-    "Youxue #0" = 0
-    "Yingfang #0" = 0
-    "Mo #0" = 0
-    "Qing #0" = 0
-    "Duan #0" = 0
-    "Bao #0" = 0
-    "Xiao #0" = 0
-    "Tang #0" = -1
-    "Chunyao #0" = -1
-    "Liang #0" = 10
-    "Shouyi #0" = 10
-    "Ti #0" = 10
-    "Shihuai #0" = 0
-    "Yizan #0" = 0
-    "Zhide #0" = 0
-    "Xixue #0" = -1
-    "Han #0" = 0
-    "Mian #0" = 0
-    "Kai #0" = 0
-    "Hong #0" = 0
-    "Danian #0" = 0
-    "Minzheng #0" = 0
-    "Jingming #0" = 0
-    "Gong #0" = 0
-    "Shen #0" = 0
-    "Zuo #0" = 0
-    "Shenzhong #0" = 0
-    "Youguang #0" = 0
-    "Shisheng #0" = 0
-    "Hongdao #0" = 0
-    "Shaozong #0" = 0
-    "Wenshi #0" = 0
-    "Wannian #0" = 0
-    "Tingkui #0" = 0
-    "Ruxiu #0" = 0
-    "Huanchun #0" = 0
-    "Shengdou #0" = 0
-    "Shimei #0" = 0
-    "Shangzhen #0" = 0
-    "Tingbiao #0" = 0
-    "Wan #0" = 0
-    "Ding #0" = 0
-    "Chengzhang #0" = 0
-    "Wenyong #0" = 0
-    "Chonghua #0" = 0
-    "Wanyan #0" = 0
-    "Zhongwen #0" = 0
-    "Yuanjie #0" = 0
-    "Kexi  #0" = 0
-    "Jinxing  #0" = 0
-    "Yingxiang  #0" = 0
-    "Heying #0" = -1
-    "Tianhui #0" = -1
-    "Mao #0" = -1
-    "Yuantong #0" = -1
-    "Xiurong #0" = -1
-    "Fuyuan #0" = -1
-    "Ruirong #0" = -1
-    "Xiao'e #0" = -1
-    "Xiaoyuan #0" = -1
-    "Xiaolou #0" = -1
+    "瞻基 #0" = 10
     "瞻埈 #0" = 10
+    "瞻墉 #0" = 10
     "瞻垠 #0" = 10
+    "瞻墡 #0" = 10
     "瞻堈 #0" = 10
+    "瞻墺 #0" = 10
     "瞻垲 #0" = 10
-    "Jianlin #0" = 10
-    "Jianjun #0" = 10
-    "Youji #0" = 10
-    "Youbing #0" = 10
-    "Houzhao #0" = 10
-    "Zaiji #0" = 10
-    "Yijun #0" = 10
-    "Changxun #0" = 10
-    "Changyin #0" = 10
-    "Youmo #0" = 10
-    "Ciran #0" = 10
-    "Ciheng #0" = 10
-    "Shangbing #0" = 10
-    "Zhijun #0" = 10
-    "Gongtang #0" = 10
-    "Jihuang #0" = 0
-    "Meiyuan #0" = 0
-    "Qiying #0" = 0
-    "Linmei #0" = 0
-    "Youhua #0" = 0
-    "Shuang #0" = 0
-    "Bo #0" = 0
-    "Bo #0"#" = 0
-    "Xunquan #0" = 0
-    "Quan #0" = 0
-    "Song #0" = 0
-    "Dong #0" = 0
-    "Yuntong #0" = 0
-    "Gaoxu #0" = 0
-    "Zhanshan #0"#" = 0
-    "Jianzhi #0"#" = 0
-    "Zaiji #0"#" = 0
-    "Changxun #0"#" = -1
-    "Changrun #0"#" = -1
-    "Cihuan #0"#" = -1
-    "Fu #0" = -1
-    "Bingyi #0" = 10
-    "Zongren #0" = 10
-    "Zonglian #0" = 10
-    "Quan #0"#" = 10
-    "Jian #0" = 10
-    "Song #0"#" = 0
-    "Youxue #0"#" = 0
-    "Kekuan #0" = 0
-    "Juren #0" = 0
+    "瞻埏 #0" = 10
+    "见深 #0" = 10
+    "见潾 #0" = 10
+    "见湜 #0" = 10
+    "见淳 #0" = 10
+    "见泽 #0" = 10
+    "见治 #0" = 10
+    "见沛 #0" = 10
+    "见济 #0" = 10
+    "祐极 #0" = 10
+    "祐樘 #0" = 10
+    "祐杬 #0" = 10
+    "祐棆 #0" = 10
+    "祐槟 #0" = 10
+    "祐枟 #0" = 10
+    "祐梈 #0" = 10
+    "祐楷 #0" = 10
+    "厚照 #0" = 10
+    "厚炜 #0" = 10
+    "厚熙 #0" = 10
+    "厚熜 #0" = 10
+    "载基 #0" = 10
+    "载壡 #0" = 10
+    "载坖 #0" = 10
+    "翊铃 #0" = 10
+    "翊钧 #0" = 10
+    "翊镠 #0" = 10
+    "常洛 #0" = 10
+    "常溆 #0" = 10
+    "常洵 #0" = 10
+    "常治 #0" = 10
+    "常浩 #0" = 10
+    "常润 #0" = 10
+    "常瀛 #0" = 10
+    "常溥 #0" = 10
+    "由校 #0" = 10
+    "由㰒 #0" = 10
+    "由模 #0" = 10
+    "由检 #0" = 10
+    "由栩 #0" = 10
+    "由橏 #0" = 10
+    "慈然 #0" = 10
+    "慈焴 #0" = 10
+    "慈炅 #0" = 10
+    "慈烺 #0" = 10
+    "慈烜 #0" = 10
+    "慈炤 #0" = 10
+    "慈焕 #0" = 10
+    "慈灿 #0" = 10
+    "尚炳 #0" = 10
+    "尚烈 #0" = 10
+    "尚煜 #0" = 10
+    "尚灴 #0" = 10
+    "志均 #0" = 10
+    "志堢 #0" = 10
+    "公锡 #0" = 10
+    "公键 #0" = 10
+    "公镗 #0" = 10
+    "公铭 #0" = 10
+    "济熺 #0" = 10
+    "济烨 #0" = 10
+    "济熿 #0" = 10
+    "济焕 #0" = 10
+    "济炫 #0" = 10
+    "美圭 #0" = 10
+    "美垸 #0" = 10
+    "钟铉 #0" = 10
+    "钟铎 #0" = 10
+    "奇源 #0" = 10
+    "奇渶 #0" = 10
+    "奇溶 #0" = 10
+    "有炖 #0" = 10
+    "子埘 #0" = 10
+    "琳渼 #0" = 10
+    "慈爝 #0" = 10
+    "慈炜 #0" = 10
+    "慈熠 #0" = 10
+    "由桦 #0" = 10
+    "琳源 #0" = 10
+    "器墭 #0" = 10
+    "标 #0" = 10
+    "樉 #0" = 10
+    "棡 #0" = 10
+    "橚 #0" = 10
+    "桢 #0" = 10
+    "柏 #0" = 10
+    "梓 #0" = 10
+    "椿 #0" = 0
+    "桂 #0" = 10
+    "逊燂 #0" = 10
+    "逊烇 #0" = 10
+    "楹 #0" = 10
+    "瞻焰 #0" = 10
+    "植 #0" = 10
+    "权 #0" = 10
+    "宸濠 #0" = 10
+    "楩 #0" = 10
+    "橞 #0" = 10
+    "宋 #0" = 10
+    "莫 #0" = 10
+    "殷 #0" = 10
+    "敬 #0" = 10
+    "董 #0" = 10
+    "楠 #0" = 10
+    "守谦 #0" = 10
+    "雄英 #0" = 10
+    "允熥 #0" = 10
+    "允熞 #0" = 10
+    "文圭 #0" = 10
+    "文奎 #0" = 10
+    "高煦 #0" = 10
+    "高燧 #0" = 10
+    "厚煜 #0" = 10
+    "祐楒 #0" = 10
+    "见澍 #0" = 10
+    "祐榕 #0" = 10
+    "厚爝 #0" = 10
+    "载埨 #0" = 10
+    "常淓 #0" = 10
+    "灌 #0" = 0
+    "克勤 #0" = 0
+    "履 #0" = 0
+    "斗南 #0" = 0
+    "诚祖 #0" = 0
+    "子襄 #0" = 0
+    "秉彝 #0" = 0
+    "观 #0" = 0
+    "宗仁 #0" = 0
+    "源 #0" = 0
+    "信圭 #0" = 0
+    "宗琏 #0" = 0
+    "济 #0" = 0
+    "湘 #0" = 0
+    "豫 #0" = 0
+    "泉 #0" = 0
+    "衷 #0" = 0
+    "希正 #0" = 0
+    "坚 #0" = 0
+    "绍恩 #0" = 0
+    "九思 #0" = 0
+    "嵩 #0" = 0
+    "幼学 #0" = 0
+    "祖干 #0" = 0
+    "应芳 #0" = 0
+    "克宽 #0" = 0
+    "模 #0" = 0
+    "居仁 #0" = 0
+    "清 #0" = 0
+    "钦顺 #0" = 0
     "端 #0" = 0
-    "Li #0" = 0
-    "Boyuan #0" = -1
-    "Ruoshui #0" = 10
-    "Hongxian #0" = 10
-    "Huali #0" = 0
-    "Weizhen #0" = 10
+    "真晟 #0" = 0
+    "宝 #0" = 0
+    "李 #0" = 0
+    "萧 #0" = 0
+    "铣 #0" = 0
+    "唐 #0" = 0
+    "伯元 #0" = 0
+    "淳耀 #0" = 0
+    "谅 #0" = 0
+    "若水 #0" = 0
+    "守益 #0" = 0
+    "德 #0" = 0
+    "悌 #0" = 0
+    "洪先 #0" = 0
+    "时槐 #0" = 0
+    "时熙 #0" = 0
+    "以赞 #0" = 0
+    "化鲤 #0" = 0
+    "知德 #0" = 0
+    "元锡 #0" = 0
+    "希学 #0" = 0
+    "维桢 #0" = 0
+    "翰 #0" = 0
+    "伯衡 #0" = 0
+    "冕 #0" = 0
+    "宗仪 #0" = 0
+    "凯 #0" = 0
+    "蒙 #0" = 0
+    "鸿 #0" = 0
+    "度 #0" = 0
+    "大年 #0" = 0
+    "泰 #0" = 0
+    "敏政 #0" = 0
+    "景明 #0" = 0
+    "祯卿 #0" = 0
+    "恭 #0" = 0
+    "善夫 #0" = 0
+    "深 #0" = 0
+    "徵明 #0" = 0
+    "佐 #0" = 0
+    "维骐 #0" = 0
+    "慎中 #0" = 0
+    "攀龙 #0" = 0
+    "有光 #0" = 0
+    "时升 #0" = 0
+    "其昌 #0" = 0
+    "弘道 #0" = 0
+    "南英 #0" = 0
+    "绍宗 #0" = 0
+    "彭 #0" = 0
+    "闻诗 #0" = 0
+    "良相 #0" = 0
+    "万年 #0" = 0
+    "宗颜 #0" = 0
+    "廷魁 #0" = 0
+    "邦佐 #0" = 0
+    "儒秀 #0" = 0
+    "国昌 #0" = 0
+    "还醇 #0" = 0
+    "献明 #0" = 0
+    "生斗 #0" = 0
+    "肇坤 #0" = 0
+    "士美 #0" = 0
+    "国玺 #0" = 0
+    "上珍 #0" = 0
+    "道兴 #0" = 0
+    "廷标 #0" = 0
+    "允让 #0" = 0
+    "琬 #0" = 0
+    "谨 #0" = 0
+    "鼐 #0" = 0
+    "五常 #0" = 0
+    "成章 #0" = 0
+    "介福 #0" = 0
+    "文咏 #0" = 0
+    "世名 #0" = 0
+    "重华 #0" = 0
+    "三丰 #0" = 0
+    "万言 #0" = 0
+    "大用 #0" = 0
+    "仲文 #0" = 0
+    "可学 #0" = 0
+    "元节 #0" = 0
+    "汝才 #0" = 0
+    "可喜 #0" = 0
+    "仲明 #0" = 0
+    "金星 #0" = 0
+    "岩 #0" = 0
+    "迎祥 #0" = 0
+    "宗敏 #0" = 0
+    "和媖 #0" = -1
+    "春梅 #0" = -1
+    "恬慧 #0" = -1
+    "箜 #0" = -1
+    "毛 #0" = -1
+    "玉英 #0" = -1
+    "圆通 #0" = -1
+    "延祥 #0" = -1
+    "秀荣 #0" = -1
+    "寿媖 #0" = -1
+    "福媛 #0" = -1
+    "禄媜 #0" = -1
+    "瑞嬫 #0" = -1
+    "素嫃 #0" = -1
+    "尧娥 #0" = -1
+    "尧媖 #0" = -1
+    "尧媛 #0" = -1
+    "小吉 #0" = -1
+    "尧㜢 #0" = -1
 }
 leader_names = {
-    "Zhu"  # Zhu
-    "Wu"  # Wu
-    "Geng"  # Geng
-    "Shang"  # Shang
-    "Zheng"  # Zheng
-    "Zhao"  # Zhao
-    "Li"  # Li
-    "Shi"  # Shi
-    "Liu"  # Liu
-    "Guo"  # Guo
-    "Yang"  # Yang
-    "Wang"  # Wang
-    "Qian"  # Qian
-    "Ma"  # Ma
-    "Meng"  # Meng
-    "Gao"  # Gao
-    "Chen"  # Chen
-    "Sun"  # Sun
-    "Sima"  # Sima
-    "Cao"  # Cao
-    "Xiao"  # Xiao
-    "Qi"  # Qi
-    "Zu"  # Zu
-    "Zhou"  # Zhou
-    "Huang"  # Huang
-    "Bai"  # Bai
-    "Qiu"  # Qiu
-    "Tang"  # Tang
-    "Lu"  # Lu
-    "Xu"  # Xu
-    "Chang"  # Chang
-    "Feng"  # Feng
-    "Deng"  # Deng
-    "Hua"  # Hua
-    "Gu"  # Gu
-    "Fei"  # Fei
-    "Fu"  # Fu
-    "Hu"  # Hu
-    "Mei"  # Mei
-    "Xue"  # Xue
-    "Liao"  # Liao
-    "Jin"  # Jin
-    "Ye"  # Ye
-    "He"  # He
-    "Lan"  # Lan
+    "朱"  # Zhu
+    "吴"  # Wu
+    "耿"  # Geng
+    "尚"  # Shang
+    "郑"  # Zheng
+    "赵"  # Zhao
+    "李"  # Li
+    "施"  # Shi
+    "刘"  # Liu
+    "郭"  # Guo
+    "杨"  # Yang
+    "王"  # Wang
+    "钱"  # Qian
+    "马"  # Ma
+    "蒙"  # Meng
+    "高"  # Gao
+    "陈"  # Chen
+    "孙"  # Sun
+    "司马"  # Sima
+    "曹"  # Cao
+    "校"  # Xiao
+    "齐"  # Qi
+    "祖"  # Zu
+    "周"  # Zhou
+    "黄"  # Huang
+    "白"  # Bai
+    "丘"  # Qiu
+    "唐"  # Tang
+    "陆"  # Lu
+    "许"  # Xu
+    "常"  # Chang
+    "冯"  # Feng
+    "邓"  # Deng
+    "华"  # Hua
+    "顾"  # Gu
+    "费"  # Fei
+    "福"  # Fu
+    "胡"  # Hu
+    "梅"  # Mei
+    "薛"  # Xue
+    "廖"  # Liao
+    "金"  # Jin
+    "叶"  # Ye
+    "何"  # He
+    "蓝"  # Lan
     "度"  # Du
-    "Fang"  # Fang
-    "Mao"  # Mao
-    "Hao"  # Hao
-    "Kong"  # Kong
-    "Jiao"  # Jiao
-    "Si"  # Si
-    "Pan"  # Pan
-    "Zuo"  # Zuo
-    "Ding"  # Ding
-    "Bao"  # Bao
-    "Yan"  # Yan
-    "Tan"  # Tan
-    "Han"  # Han
-    "Luo"  # Luo
-    "Xie"  # Xie
-    "Yuan"  # Yuan
-    "Qin"  # Qin
-    "Ruan"  # Ruan
-    "Niu"  # Niu
-    "Zeng"  # Zeng
-    "Dong"  # Dong
-    "Lin"  # Lin
-    "Shen"  # Shen
-    "Ouyang"  # Ouyang
-    "Su"  # Su
-    "Yu"  # Yu
-    "Ren"  # Ren
-    "Chai"  # Chai
-    "Xia"  # Xia
-    "Mo"  # Mo
-    "Dai"  # Dai
-    "Jiang"  # Jiang
-    "Yue"  # Yue
-    "Jia"  # Jia
-    "Xiong"  # Xiong
-    "Cui"  # Cui
-    "Ou'yang"  # Ou'yang
-    "Huangfu"  # Huangfu
-    "Dongfang"  # Dongfang
-    "Linghu"  # Linghu
+    "方"  # Fang
+    "毛"  # Mao
+    "郝"  # Hao
+    "孔"  # Kong
+    "焦"  # Jiao
+    "司"  # Si
+    "潘"  # Pan
+    "左"  # Zuo
+    "丁"  # Ding
+    "包"  # Bao
+    "燕"  # Yan
+    "谭"  # Tan
+    "韩"  # Han
+    "洛"  # Luo
+    "谢"  # Xie
+    "元"  # Yuan
+    "秦"  # Qin
+    "阮"  # Ruan
+    "牛"  # Niu
+    "曾"  # Zeng
+    "董"  # Dong
+    "林"  # Lin
+    "林"  # Shen
+    "欧阳"  # Ouyang
+    "苏"  # Su
+    "于"  # Yu
+    "任"  # Ren
+    "柴"  # Chai
+    "夏"  # Xia
+    "莫"  # Mo
+    "戴"  # Dai
+    "姜"  # Jiang
+    "岳"  # Yue
+    "贾"  # Jia
+    "熊"  # Xiong
+    "崔"  # Cui
+    "欧阳"  # Ou'yang
+    "皇甫"  # Huangfu
+    "东方"  # Dongfang
+    "令狐"  # Linghu
 }
 ship_names = {
-    "Beiji"  # Beiji
-    "Tianshu"  # Tianshu
-    "Sifu"  # Sifu
-    "Gouchen"  # Gouchen
-    "Tianzhu"  # Tianzhu
-    "Zhushi"  # Zhushi
-    "Tianqiang"  # Tianqiang
-    "Xuange"  # Xuange
-    "Taizun"  # Taizun
-    "Beidou"  # Beidou
-    "Santai"  # Santai
-    "Tianji"  # Tianji
-    "Wenchang"  # Wenchang
-    "Qizhenjiangjun"  # Qizhenjiangjun
-    "Tenshe"  # Tenshe
-    "Liaoning"  # Liaoning
-    "Beiluoshimen"  # Beiluoshimen
-    "Yujing"  # Yujing
-    "Hongshi"  # Hongshi
-    "Qinglong"  # Qinglong
-    "Baihu"  # Baihu
-    "Zhuque"  # Zhuque
-    "Xuanwu"  # Xuanwu
-    "Zhaowu"  # Zhaowu
-    "Yong'an"  # Yong'an
-    "Nan'an"  # Nan'an
-    "Longhai"  # Longhai
-    "Fu'an"  # Fu'an
-    "Fuding"  # Fuding
-    "Jinchang"  # Jinchang
-    "Qingyuan"  # Qingyuan
-    "Xining"  # Xining
-    "Xingyi"  # Xingyi
-    "Wu'an"  # Wu'an
-    "Xianning"  # Xianning
-    "Ruichang"  # Ruichang
-    "Xinghua"  # Xinghua
-    "Zhaoyuan"  # Zhaoyuan
-    "Xingping"  # Xingping
-    "Yongji"  # Yongji
-    "Xiaoyi"  # Xiaoyi
-    "Yongkang"  # Yongkang
-    "Rende"  # Rende
-    "Anding"  # Anding
-    "Yanping"  # Yanping
+    "北极"  # Beiji
+    "天枢"  # Tianshu
+    "嗣复"  # Sifu
+    "勾陈"  # Gouchen
+    "天竺"  # Tianzhu
+    "柱石"  # Zhushi
+    "天樯"  # Tianqiang
+    "玄戈"  # Xuange
+    "太尊"  # Taizun
+    "北斗"  # Beidou
+    "三泰"  # Santai
+    "天玑"  # Tianji
+    "文昌"  # Wenchang
+    "齐镇将军"  # Qizhenjiangjun
+    "腾蛇"  # Tenshe
+    "辽宁"  # Liaoning
+    "北落师门"  # Beiluoshimen
+    "玉京"  # Yujing
+    "弘时"  # Hongshi
+    "青龙"  # Qinglong
+    "白虎"  # Baihu
+    "朱雀"  # Zhuque
+    "玄武"  # Xuanwu
+    "昭武"  # Zhaowu
+    "永安"  # Yong'an
+    "南安"  # Nan'an
+    "陇海"  # Longhai
+    "福安"  # Fu'an
+    "福鼎"  # Fuding
+    "金昌"  # Jinchang
+    "清源"  # Qingyuan
+    "西宁"  # Xining
+    "兴义"  # Xingyi
+    "武安"  # Wu'an
+    "咸宁"  # Xianning
+    "瑞昌"  # Ruichang
+    "兴化"  # Xinghua
+    "招远"  # Zhaoyuan
+    "兴平"  # Xingping
+    "永济"  # Yongji
+    "肖夷"  # Xiaoyi
+    "永康"  # Yongkang
+    "仁德"  # Rende
+    "安定"  # Anding
+    "延平"  # Yanping
 }

@@ -39,43 +39,56 @@ historical_units = {
     russian_mass
 }
 monarch_names = {
-    "Fyodor #1" = 60
-    "Vasiliy #2" = 20
-    "Alexei #0" = 15
-    "Mikhail #0" = 15
-    "Yekaterina #0" = -20
-    "Yuriy #4" = 15
-    "Elizaveta #0" = -15
-    "Andrei #3" = 0
-    "Nikolai #0" = 10
-    "Anatoliy #0" = 0
-    "Arseniy #0" = 0
-    "Artemiy #0" = 0
-    "Demyan #0" = 0
-    "Feofan #0" = 10
-    "Grigoriy #0" = 0
-    "Isaak #0" = 0
-    "Lavrentiy #0" = 0
-    "Lev #0" = 0
-    "Mark #0" = 0
-    "Nikifor #0" = 0
-    "Nikodim #0" = 0
-    "Platon #0" = 0
-    "Sergei #0" = 0
-    "Varfolomey #0" = 0
-    "Yulian #0" = 0
-    "Pyotr #0" = 20
-    "Boris #0" = -15
-    "叶卡捷琳娜 #0" = 0
-    "尤里 #4" = 0
-    "伊丽莎白 #0" = 0
-    "Semen #1" = 0
-    "Afanasiy #0" = 0
+    "伊凡  #3" = 60
+    "费奥多尔 #1" = 60
+    "彼得 #0" = 60
+    "瓦西里 #2" = 20
+    "亚历山大 #0" = 20
+    "阿列克谢 #0" = 20
+    "鲍里斯 #0" = 20
+    "米哈伊尔 #0" = 20
+    "保罗 #0" = 20
+    "叶卡捷琳娜 #0" = -20
+    "季米特里 #6" = 15
+    "尤里 #4" = 15
+    "安娜 #0" = -15
+    "伊丽莎白 #0" = -15
+    "康斯坦丁 #0" = 15
+    "安德烈 #3" = 10
+    "谢苗 #1" = 10
+    "尼古拉 #0" = 10
+    "阿法纳西 #0" = 0
+    "安纳托利 #0" = 0
+    "安东 #0" = 0
+    "阿尔谢尼 #0" = 0
     "Artamon #0" = 0
-    "季米扬 #0" = 60
+    "Artemiy #0" = 0
+    "Bogdan #0" = 0
+    "季米扬 #0" = 0
+    "Epifaniy #0" = 0
+    "Feofan #0" = 0
     "Gavriil #0" = 0
+    "格里高利 #0" = 0
     "Iosif #0" = 0
-    "Lazar #0" = 20
+    "Isaak #0" = 0
+    "基里尔 #0" = 0
+    "Lavrentiy #0" = 0
+    "Lazar #0" = 0
+    "Lev #0" = 0
+    "Malyuta #0" = 0
+    "Mark #0" = 0
+    "Mefodiy #0" = 0
+    "Nikifor #0" = 0
+    "Nikita #0" = 0
+    "Nikodim #0" = 0
+    "奥列格 #0" = 0
+    "Platon #0" = 0
+    "Prokopiy #0" = 0
+    "谢尔盖 #0" = 0
+    "Stanislav #0" = 0
+    "Varfolomey #0" = 0
+    "Yefim #0" = 0
+    "Yulian #0" = 0
 }
 leader_names = {
     "Adashev"  # Adashev
@@ -90,7 +103,7 @@ leader_names = {
     "Chelyuskin"  # Chelyuskin
     "Chuiski"  # Chuiski
     "Dolgorukov"  # Dolgorukov
-    "Dubenski"  # Dubenski
+    "杜本斯基"  # Dubenski
     "Dezhnev"  # Dezhnev
     "Ermolov"  # Ermolov
     "Fermor"  # Fermor
@@ -161,7 +174,7 @@ ship_names = {
     "Imperatritsa Anna"  # Imperatritsa Anna
     "Ioann Zlatoust Pervyi"  # Ioann Zlatoust Pervyi
     "Isaak Viktoriia"  # Isaak Viktoriia
-    "Ivan Gorod"  # Ivan Gorod
+    "伊凡 哥罗德"  # Ivan Gorod
     "Kavaler Sviatoi Aleksandr"  # Kavaler Sviatoi Aleksandr
     "Kavaler Sviatoi Andrei"  # Kavaler Sviatoi Andrei
     "Kazanskaya Bogoroditsa"  # Kazanskaya Bogoroditsa
@@ -451,20 +464,20 @@ ship_names = {
     "Zvezda"  # Zvezda
 }
 army_names = {
-    "Russian Imperial Army"  # Russian Imperial Army
-    "Army of Finland"  # Army of Finland
-    "Army of Poland"  # Army of Poland
-    "Army of Ukraine"  # Army of Ukraine
-    "Army of Crimea"  # Army of Crimea
-    "Army of the Ural"  # Army of the Ural
-    "Army of the Caucasus"  # Army of the Caucasus
-    "Army of Siberia"  # Army of Siberia
-    "Army of the Baltic"  # Army of the Baltic
+    "俄罗斯帝国陆军"  # Russian Imperial Army
+    "芬兰军"  # Army of Finland
+    "波兰军"  # Army of Poland
+    "乌克兰军"  # Army of Ukraine
+    "克里米亚军"  # Army of Crimea
+    "乌拉尔军"  # Army of the Ural
+    "高加索军"  # Army of the Caucasus
+    "西伯利亚军"  # Army of Siberia
+    "波罗的军"  # Army of the Baltic
 }
 fleet_names = {
-    "Blue Squadron"  # Blue Squadron
-    "Red Squadron"  # Red Squadron
-    "White Squadron"  # White Squadron
-    "Baltic Squadron"  # Baltic Squadron
-    "Black Sea Squadron"  # Black Sea Squadron
+    "蓝色中队"  # Blue Squadron
+    "红色中队"  # Red Squadron
+    "白色中队"  # White Squadron
+    "波罗地海中队"  # Baltic Squadron
+    "黑海中队"  # Black Sea Squadron
 }

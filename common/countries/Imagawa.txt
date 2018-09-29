@@ -27,49 +27,58 @@ historical_units = {
     reformed_asian_cavalry
 }
 monarch_names = {
-    "Nakaaki #0" = 50
-    "Sadasuke #0" = 50
-    "Sadanobu #0" = 50
-    "Noriuji #0" = 50
-    "Noritada #0" = 50
-    "Ujichika #0" = -5
-    "Yoshimoto #0" = 50
-    "Ujitaka #0" = 50
-    "Motouji #0" = -5
-    "Norihiko #0" = 50
-    "Toku #0" = -5
-    "Tama #0" = -5
-    "Ina #0" = -5
-    "Sadaomi #0" = 50
-    "Norikuni #0" = 50
-    "Yoshitada #0" = 50
-    "Ujizane #0" = 50
+    "贞义 #0" = 50
+    "仲秋 #0" = 50
+    "贞臣 #0" = 50
+    "贞祐 #0" = 50
+    "范政 #0" = 50
+    "贞信 #0" = 50
+    "范国 #0" = 50
+    "范氏 #0" = 50
+    "易则 #0" = 50
+    "范忠 #0" = 50
+    "义格 #0" = 50
+    "氏亲 #0" = 50
+    "氏辉 #0" = 50
+    "吉元 #0" = 50
+    "氏真 #0" = 50
+    "氏隆 #0" = 50
+    "国氏 #0" = 50
+    "干氏 #0" = 50
+    "则隆 #0" = 50
+    "信秀 #0" = 50
+    "氏丰 #0" = 50
+    "德 #0" = -5
+    "善 #0" = -5
+    "玉 #0" = -5
+    "绫 #0" = -5
+    "伊奈 #0" = -5
 }
 leader_names = {
-    "Akamatsu"  # Akamatsu
-    "Akechi"  # Akechi
-    "Ashikaga"  # Ashikaga
-    "Amago"  # Amago
-    "Kyogoku"  # Kyogoku
-    "Rokkaku"  # Rokkaku
-    "Asakura"  # Asakura
-    "Asano"  # Asano
-    "Aso"  # Aso
-    "Chosokabe"  # Chosokabe
-    "Date"  # Date
-    "Hachisuka"  # Hachisuka
-    "Hatakeyama"  # Hatakeyama
-    "Hojo"  # Hojo
-    "Hosokawa"  # Hosokawa
-    "Ichijo"  # Ichijo
-    "Keda"  # Keda
-    "Imagawa"  # Imagawa
-    "Isshiki"  # Isshiki
-    "Ito"  # Ito
-    "Jinbo"  # Jinbo
-    "Kikuchi"  # Kikuchi
-    "Kono"  # Kono
-    "Maeda"  # Maeda
+    "赤松"  # Akamatsu
+    "明智"  # Akechi
+    "足利"  # Ashikaga
+    "尼子"  # Amago
+    "京极"  # Kyogoku
+    "六角"  # Rokkaku
+    "朝仓"  # Asakura
+    "浅野"  # Asano
+    "阿苏"  # Aso
+    "长宗我部"  # Chosokabe
+    "伊达"  # Date
+    "蜂须贺"  # Hachisuka
+    "畠山"  # Hatakeyama
+    "北条"  # Hojo
+    "细川"  # Hosokawa
+    "一条"  # Ichijo
+    "毛田"  # Keda
+    "今川"  # Imagawa
+    "一色"  # Isshiki
+    "伊东"  # Ito
+    "神保"  # Jinbo
+    "菊池"  # Kikuchi
+    "河野"  # Kono
+    "前田"  # Maeda
     "Matsunaga"  # Matsunaga
     "Mimura"  # Mimura
     "Miyoshi"  # Miyoshi
@@ -120,56 +129,56 @@ leader_names = {
     "Imagawa"  # Imagawa
     "Imagawa"  # Imagawa
     "Imagawa"  # Imagawa
-    "Imagawa"  # Imagawa
-    "Asahina"  # Asahina
-    "Asahina"  # Asahina
-    "Asahina"  # Asahina
-    "Asahina"  # Asahina
-    "Asahina"  # Asahina
-    "Udono"  # Udono
-    "Udono"  # Udono
-    "Udono"  # Udono
-    "Udono"  # Udono
-    "Udono"  # Udono
-    "Okabe"  # Okabe
-    "Okabe"  # Okabe
-    "Okabe"  # Okabe
-    "Okabe"  # Okabe
-    "Okabe"  # Okabe
-    "Miura"  # Miura
-    "Miura"  # Miura
-    "Miura"  # Miura
-    "Miura"  # Miura
-    "Miura"  # Miura
-    "Katsurayama"  # Katsurayama
-    "Katsurayama"  # Katsurayama
-    "Katsurayama"  # Katsurayama
-    "Katsurayama"  # Katsurayama
-    "Katsurayama"  # Katsurayama
-    "Sena"  # Sena
-    "Sena"  # Sena
-    "Sena"  # Sena
-    "Sena"  # Sena
-    "Sena"  # Sena
-    "Sekiguchi"  # Sekiguchi
-    "Sekiguchi"  # Sekiguchi
-    "Sekiguchi"  # Sekiguchi
-    "Sekiguchi"  # Sekiguchi
-    "Sekiguchi"  # Sekiguchi
-    "Iio"  # Iio
-    "Iio"  # Iio
-    "Iio"  # Iio
-    "Iio"  # Iio
-    "Iio"  # Iio
-    "Matsudaira"  # Matsudaira
-    "Matsudaira"  # Matsudaira
-    "Matsudaira"  # Matsudaira
-    "Matsudaira"  # Matsudaira
-    "Matsudaira"  # Matsudaira
-    "Matsui"  # Matsui
-    "Matsui"  # Matsui
-    "Matsui"  # Matsui
-    "Matsui"  # Matsui
+    "今川"  # Imagawa
+    "朝比奈"  # Asahina
+    "朝比奈"  # Asahina
+    "朝比奈"  # Asahina
+    "朝比奈"  # Asahina
+    "朝比奈"  # Asahina
+    "宇土野"  # Udono
+    "宇土野"  # Udono
+    "宇土野"  # Udono
+    "宇土野"  # Udono
+    "宇土野"  # Udono
+    "冈部"  # Okabe
+    "冈部"  # Okabe
+    "冈部"  # Okabe
+    "冈部"  # Okabe
+    "冈部"  # Okabe
+    "三浦"  # Miura
+    "三浦"  # Miura
+    "三浦"  # Miura
+    "三浦"  # Miura
+    "三浦"  # Miura
+    "葛山"  # Katsurayama
+    "葛山"  # Katsurayama
+    "葛山"  # Katsurayama
+    "葛山"  # Katsurayama
+    "葛山"  # Katsurayama
+    "濑名"  # Sena
+    "濑名"  # Sena
+    "濑名"  # Sena
+    "濑名"  # Sena
+    "濑名"  # Sena
+    "关口"  # Sekiguchi
+    "关口"  # Sekiguchi
+    "关口"  # Sekiguchi
+    "关口"  # Sekiguchi
+    "关口"  # Sekiguchi
+    "饭尾"  # Iio
+    "饭尾"  # Iio
+    "饭尾"  # Iio
+    "饭尾"  # Iio
+    "饭尾"  # Iio
+    "松平"  # Matsudaira
+    "松平"  # Matsudaira
+    "松平"  # Matsudaira
+    "松平"  # Matsudaira
+    "松平"  # Matsudaira
+    "松井"  # Matsui
+    "松井"  # Matsui
+    "松井"  # Matsui
+    "松井"  # Matsui
     "Matsui"  # Matsui
     "Ii"  # Ii
     "Ii"  # Ii
@@ -220,58 +229,58 @@ leader_names = {
     "Tokugawa"  # Tokugawa
     "Matsudaira"  # Matsudaira
     "Udono"  # Udono
-    "Okudaira"  # Okudaira
-    "Suganuma"  # Suganuma
-    "Toda"  # Toda
-    "Natsume"  # Natsume
-    "Ishikawa"  # Ishikawa
-    "Hattori"  # Hattori
-    "Torii"  # Torii
-    "Naito"  # Naito
-    "Okubo"  # Okubo
-    "Honda"  # Honda
-    "Hiraiwa"  # Hiraiwa
-    "Sakai"  # Sakai
-    "Sakakibara"  # Sakakibara
-    "Itakura"  # Itakura
-    "Ina"  # Ina
-    "Shiba"  # Shiba
-    "Niki"  # Niki
-    "Oda"  # Oda
-    "Mizuno"  # Mizuno
-    "Saji"  # Saji
-    "Ikeda"  # Ikeda
-    "Shibata"  # Shibata
-    "Niwa"  # Niwa
-    "Takigawa"  # Takigawa
-    "Kinoshita"  # Kinoshita
-    "Maeda"  # Maeda
-    "Sassa"  # Sassa
-    "Sakuma"  # Sakuma
-    "Hirate"  # Hirate
-    "Hayashi"  # Hayashi
-    "Hachisuka"  # Hachisuka
-    "Kato"  # Kato
-    "Asano"  # Asano
-    "Ikoma"  # Ikoma
-    "Horio"  # Horio
-    "Fukushima"  # Fukushima
-    "Maeda"  # Maeda
+    "奥平"  # Okudaira
+    "菅沼"  # Suganuma
+    "户田"  # Toda
+    "夏目"  # Natsume
+    "石川"  # Ishikawa
+    "服部"  # Hattori
+    "鸟居"  # Torii
+    "内藤"  # Naito
+    "大久保"  # Okubo
+    "本田"  # Honda
+    "平岩"  # Hiraiwa
+    "酒井"  # Sakai
+    "榊原"  # Sakakibara
+    "板仓"  # Itakura
+    "伊奈"  # Ina
+    "斯波"  # Shiba
+    "仁木"  # Niki
+    "织田"  # Oda
+    "水野"  # Mizuno
+    "佐治"  # Saji
+    "池田"  # Ikeda
+    "柴田"  # Shibata
+    "丹羽"  # Niwa
+    "泷川"  # Takigawa
+    "木下"  # Kinoshita
+    "前田"  # Maeda
+    "佐佐"  # Sassa
+    "佐久间"  # Sakuma
+    "平手"  # Hirate
+    "林"  # Hayashi
+    "蜂须贺"  # Hachisuka
+    "加藤"  # Kato
+    "浅野"  # Asano
+    "生驹"  # Ikoma
+    "堀尾"  # Horio
+    "福岛"  # Fukushima
+    "前田"  # Maeda
 }
 ship_names = {
-    "Mutsu Maru"  # Mutsu Maru
-    "Dewa Maru"  # Dewa Maru
-    "Shimotsuke Maru"  # Shimotsuke Maru
-    "Hitachi Maru"  # Hitachi Maru
-    "Kazusa Maru"  # Kazusa Maru
-    "Shimousa Maru"  # Shimousa Maru
-    "Musashi Maru"  # Musashi Maru
-    "Kozuke Maru"  # Kozuke Maru
-    "Izu Maru"  # Izu Maru
-    "Echigo Maru"  # Echigo Maru
-    "Ettchu Maru"  # Ettchu Maru
-    "Kaga Maru"  # Kaga Maru
-    "Noto Maru"  # Noto Maru
+    "陆奥丸"  # Mutsu Maru
+    "出羽丸"  # Dewa Maru
+    "下野丸"  # Shimotsuke Maru
+    "常陆丸"  # Hitachi Maru
+    "上总丸"  # Kazusa Maru
+    "下总丸"  # Shimousa Maru
+    "武藏丸"  # Musashi Maru
+    "上野丸"  # Kozuke Maru
+    "伊豆丸"  # Izu Maru
+    "越后丸"  # Echigo Maru
+    "越中丸"  # Ettchu Maru
+    "加贺丸"  # Kaga Maru
+    "能登丸"  # Noto Maru
     "Suruga Maru"  # Suruga Maru
     "Totomi Maru"  # Totomi Maru
     "Joshu Maru"  # Joshu Maru
@@ -322,24 +331,24 @@ ship_names = {
     "Bungo Maru"  # Bungo Maru
     "Buzen Maru"  # Buzen Maru
     "Chikuzen Maru"  # Chikuzen Maru
-    "Chikugo Maru"  # Chikugo Maru
-    "Hizen Maru"  # Hizen Maru
-    "Higo Maru"  # Higo Maru
-    "Chikushu Maru"  # Chikushu Maru
-    "Hyuga Maru"  # Hyuga Maru
-    "Osumi Maru"  # Osumi Maru
-    "Satsuma Maru"  # Satsuma Maru
-    "Sasshu Maru"  # Sasshu Maru
+    "筑后丸"  # Chikugo Maru
+    "肥前丸"  # Hizen Maru
+    "肥后丸"  # Higo Maru
+    "筑州丸"  # Chikushu Maru
+    "日向丸"  # Hyuga Maru
+    "大隅丸"  # Osumi Maru
+    "萨摩丸"  # Satsuma Maru
+    "萨州丸"  # Sasshu Maru
 }
 army_names = {
-    "Imagawa Gun"  # Imagawa Gun
-    "$PROVINCE$ Gun"  # $PROVINCE$ Gun
-    "$PROVINCE$ Zei"  # $PROVINCE$ Zei
-    "$PROVINCE$ Dan"  # $PROVINCE$ Dan
+    "今川"  # Imagawa Gun
+    "$PROVINCE$军"  # $PROVINCE$ Gun
+    "$PROVINCE$ 势"  # $PROVINCE$ Zei
+    "$PROVINCE$团"  # $PROVINCE$ Dan
 }
 fleet_names = {
-    "Imagawa Suigun"  # Imagawa Suigun
-    "$PROVINCE$ Suigun"  # $PROVINCE$ Suigun
-    "$PROVINCE$ Sendan"  # $PROVINCE$ Sendan
-    "$PROVINCE$ Tai"  # $PROVINCE$ Tai
+    "今川"  # Imagawa Suigun
+    "$PROVINCE$水军"  # $PROVINCE$ Suigun
+    "$PROVINCE$ 船团"  # $PROVINCE$ Sendan
+    "$PROVINCE$ 队"  # $PROVINCE$ Tai
 }

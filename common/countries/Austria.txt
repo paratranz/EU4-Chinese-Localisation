@@ -37,92 +37,109 @@ historical_units = {
     napoleonic_lancers
 }
 monarch_names = {
-    "Albrecht #3" = 40
-    "Joseph #0" = 40
-    "Maximilian #0" = 40
-    "Friedrich #4" = 20
-    "Ladislav #0" = 20
-    "Leopold #7 Johann" = 10
-    "Ferdinand #0 Wenzel" = 10
-    "Philipp #0" = 15
-    "Johann Leopold #0" = 15
-    "Leopold #7 Wilhelm" = 10
-    "Alexander #0" = 10
-    "Franz Karl #0" = 10
-    "Ludwig #0" = 10
-    "Adolf #0" = -1
-    "Benno #0" = -1
-    "Cristoph #0" = -1
-    "Florian #0" = -1
-    "Günther #0" = -1
-    "Jakob #0" = 40
-    "Jörg #0" = 15
-    "Oskar #0" = 10
-    "Siegfried #0" = 0
-    "Ulrich #0" = 0
-    "Wilhelm #0" = 0
-    "Maria Theresia #0" = -1
-    "Maria Anna #0" = 20
-    "Maria Amalia #0" = 0
-    "Maria Antonia #0" = -1
-    "Theresa Benedicta #0" = -1
-    "Maximiliane #0" = -1
-    "Maria Margaret #0" = -1
-    "Cecilia Renata  #0" = -1
-    "Eleanor #0" = -1
-    "Helena #0" = -1
-    "Elisabeth #0" = -1
-    "Kunigunde #0" = -1
+    "斐迪南 #0" = 60
     "阿尔布雷希特 #3" = 40
-    "约瑟夫 #0" = 20
-    "马克西米利安 #0" = 20
-    "弗里德里希 #4" = 15
-    "拉迪斯拉夫 #0" = 15
-    "恩斯特 #1" = 10
-    "菲利普 #0" = 0
-    "约翰 利奥波德 #0" = 0
-    "利奥波德 #7 威廉" = 0
-    "亚历山大 #0" = 0
-    "弗朗兹 卡尔 #0" = 0
-    "路德维希 #0" = -1
-    "Alfred #0" = -1
-    "Clemens #0" = -1
-    "Heinrich #0" = 60
-    "Michael #0" = 15
-    "Stefan #0" = 0
-    "Wolfgang #0" = -1
-    "Maria Carolina #0" = 0
+    "弗朗茨 #0" = 40
+    "约瑟夫 #0" = 40
+    "卡尔 #0" = 40
+    "马克西米利安 #0" = 40
+    "利奥波德 #7" = 20
+    "弗里德里希 #4" = 20
+    "弗朗茨 #0 斯特凡" = 20
+    "拉迪斯拉夫 #0" = 20
+    "马蒂亚斯 #0" = 20
+    "利奥波德 #7约翰" = 15
+    "恩斯特 #1" = 15
+    "斐迪南 #0文策尔" = 15
+    "格奥尔格 #0" = 15
+    "菲利普 #0" = 15
+    "约翰 卡尔 #0" = 15
+    "约翰 利奥波德 #0" = 15
+    "卡尔 #0 约瑟夫" = 15
+    "利奥波德 #7 威廉" = 10
+    "鲁道夫 #4" = 10
+    "亚历山大 #0" = 10
+    "安东 #0" = 10
+    "弗朗兹 卡尔 #0" = 10
+    "约翰 #0" = 10
+    "路德维希 #0" = 10
+    "莱纳 #0" = 10
+    "阿道夫 #0" = 0
+    "阿尔弗雷德 #0" = 0
+    "本诺 #0" = 0
+    "布鲁诺 #0" = 0
+    "克里斯托夫 #0" = 0
+    "克莱门斯 #0" = 0
+    "弗洛里安 #0" = 0
+    "格哈德 #0" = 0
+    "冈瑟 #0" = 0
+    "海因里希 #0" = 0
+    "雅各布 #0" = 0
+    "约阿希姆 #0" = 0
+    "约尔格 #0" = 0
+    "米夏埃尔 #0" = 0
+    "奥斯卡尔 #0" = 0
+    "奥托 #0" = 0
+    "齐格弗里德 #0" = 0
+    "斯特凡 #0" = 0
+    "乌尔里希 #0" = 0
+    "维克多 #0" = 0
+    "威廉 #0" = 0
+    "沃尔夫冈 #0" = 0
+    "玛丽亚 特蕾莎 #0" = -15
+    "玛丽亚 伊丽莎白 #0" = -1
+    "玛丽亚 安娜 #0" = -1
+    "玛丽亚 卡洛琳娜 #0" = -1
+    "玛丽亚 阿玛莉娅 #0" = -1
+    "玛丽亚 约瑟法 #0" = -1
+    "玛丽 安托瓦尼特 #0" = -1
+    "约翰娜 #0" = -1
+    "特雷莎 贝内蒂克塔 #0" = -1
+    "瓦尔布加 #0" = -1
+    "马克西米莉安妮 #0" = -1
+    "马克西米莉安妮 #0"#" = -1
+    "玛丽亚 玛格丽特 #0" = -1
+    "玛丽亚 玛格达列娜 #0" = -1
+    "塞西莉亚 蕾娜塔 #0" = -1
+    "安娜 #0" = -1
+    "埃莉诺 #0" = -1
+    "芭芭拉 #0" = -1
+    "海伦娜 #0" = -1
+    "乔安娜 #0" = -1
+    "伊丽莎白 #0" = -1
+    "玛丽亚 #0" = -1
+    "库妮贡德 #0" = -1
 }
 leader_names = {
-    "von Habsburg"  # von Habsburg
-    "von Waldstein"  # von Waldstein
-    "von Ihering"  # von Ihering
-    "Seyssel"  # Seyssel
-    "Haemrich"  # Haemrich
-    "von Esterhazy"  # von Esterhazy
-    "von Oberg"  # von Oberg
+    "冯 哈布斯堡"  # von Habsburg
+    "冯 华伦斯坦"  # von Waldstein
+    "冯 耶灵"  # von Ihering
+    "赛塞尔"  # Seyssel
+    "亨姆里希"  # Haemrich
+    "冯 埃施特哈齐"  # von Esterhazy
+    "冯 奥伯格"  # von Oberg
     "冯 香恩堡"  # von Schönburg
     "冯 夸特"  # von Quadt
-    "Ketterer"  # Ketterer
-    "von Stubenrauch"  # von Stubenrauch
-    "von Hatzfeldt"  # von Hatzfeldt
-    "von Neippberg"  # von Neippberg
-    "Lobkowitz"  # Lobkowitz
+    "克特雷尔"  # Ketterer
+    "冯 斯图本耐赫"  # von Stubenrauch
+    "冯 哈茨菲尔德"  # von Hatzfeldt
+    "冯 奈普贝尔格"  # von Neippberg
+    "洛布科维茨"  # Lobkowitz
     "Mittelbach"  # Mittelbach
-    "von Laudon"  # von Laudon
+    "冯 劳东"  # von Laudon
     "Alvintzky"  # Alvintzky
-    "von Hohenberg"  # von Hohenberg
+    "冯 霍恩堡"  # von Hohenberg
     "Erlmayr"  # Erlmayr
     "冯 史塔克"  # von Stark
     "Meinl"  # Meinl
     "Bethmann"  # Bethmann
     "科林"  # Kolin
-    "Heinrich"  # Heinrich
+    "海因里希"  # Heinrich
     "冯 莱德所"  # von Riedesel
     "Freystadt"  # Freystadt
     "冯 格滕堡"  # von Guttenberg
     "Frantsits"  # Frantsits
-    "von Stauffenberg"  # von Stauffenberg
+    "冯 施陶芬贝格"  # von Stauffenberg
     "von Kapfenberg"  # von Kapfenberg
     "Zakrzewsky"  # Zakrzewsky
     "Schrüder"  # Schrüder
@@ -147,24 +164,24 @@ ship_names = {
     "Viribus Unitis"  # Viribus Unitis
     "Theresia"  # Theresia
     "奥地利"  # Austria
-    "Habsburg"  # Habsburg
-    "Tirol"  # Tirol
+    "哈布斯堡"  # Habsburg
+    "蒂罗尔"  # Tirol
     "Baron Bruck"  # Baron Bruck
     "Baron Call"  # Baron Call
     "Belvedre"  # Belvedre
-    "Pannonia"  # Pannonia
+    "潘诺尼亚"  # Pannonia
     "Salzach"  # Salzach
-    "Wien"  # Wien
+    "维也纳"  # Wien
     "Pustazer"  # Pustazer
     "Traisen"  # Traisen
-    "Erzherzog Ferdinand"  # Erzherzog Ferdinand
+    "费迪南德大公"  # Erzherzog Ferdinand
     "Herkules"  # Herkules
     "Lacroma"  # Lacroma
-    "Triest"  # Triest
+    "特里斯特"  # Triest
     "Plus Ultra"  # Plus Ultra
     "Aurora"  # Aurora
     "Albatros"  # Albatros
-    "Saida"  # Saida
+    "塞伊达"  # Saida
     "Novara"  # Novara
     "Imperator"  # Imperator
     "Trinitas"  # Trinitas

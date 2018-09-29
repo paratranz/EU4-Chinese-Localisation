@@ -28,61 +28,87 @@ historical_units = {
     reformed_steppe_rifles
 }
 monarch_names = {
-    "Abdul-Latif #0" = 40
-    "Abdullah #0" = 40
-    "Ahmad #0" = 30
-    "Ali Beg #0" = 20
-    "Arslan #0" = 20
+    "阿不都 克里木 #0" = 40
+    "Abdul-Latif #0" = 20
+    "Abdul-Rahman #0" = 40
+    "Abdullah #0" = 20
+    "Agalak #0" = 20
+    "Ahmad #0" = 50
+    "Ak Köbek #0" = 40
+    "阿里别哥 #0" = 20
+    "Arab Shah #1" = 20
+    "阿儿思兰 #0" = 20
+    "八剌 #1" = 30
     "Bek Bulat #0" = 20
+    "Bolaq #1" = 20
     "Cherkes #1" = 20
-    "Daniyal #0" = 20
-    "Darwish Ali #0" = 30
-    "Edigu #0" = 80
-    "Husayn #0" = 20
-    "Ibrahim #0" = 20
-    "Ishim #0" = 60
-    "Jalal al-Din #1" = 20
-    "Janay #0" = 20
-    "Jumaduq #0" = 20
-    "Kebek #1" = 40
-    "Khaqan Beg #1" = 20
-    "Kuchum #0" = -1
-    "Mahmudak #0" = 40
-    "Mamuk #0" = 20
-    "Muhammad #0" = 20
-    "Mustafa Ali #0" = 20
-    "Pulad #1" = 20
-    "Qadir Berdi #1" = 20
-    "Sain Bulat #0" = -1
-    "Sayid Ahmad #0" = 60
-    "Sayid Mahmud #0" = 20
-    "Shah Ali #0" = 20
-    "Shaikh Awliar #0" = 20
-    "Shiban #0" = 20
-    "Timur #1" = 20
-    "Toqtamish #1" = 20
-    "Urus #1" = 20
-    "Yadigar Muhammad #0" = 20
-    "Fatima #0" = -1
-    "Jalila #0" = -1
-    "Layla #0" = -1
-    "Sharifa #0" = -1
-    "Abdul-Rahman #0" = 20
-    "Ak Köbek #0" = 20
-    "Baraq #1" = 20
     "Chokra #1" = 20
-    "Devlet Berdi #0" = 40
+    "Daniyal #0" = 20
+    "Darwish #1" = 20
+    "Darwish Ali #0" = 20
+    "Devlet Berdi #0" = 20
+    "也迪古 #0" = 20
+    "Hajji Muhammad #1" = 20
+    "Husayn #0" = 30
     "Ibak #0" = 20
+    "Ibrahim #0" = 50
+    "Ilham #0" = 20
+    "Ishim #0" = 20
     "Jabbar Berdi #1" = 20
-    "Jani Beg #1" = 20
-    "Khalil #0" = 20
-    "Mahmud #0" = -1
+    "Jalal al-Din #1" = 20
+    "Jan Ali #0" = 20
+    "Janay #0" = 20
+    "札尼别 #1" = 20
+    "Jumaduq #0" = 20
+    "克里木 别儿迪 #1" = 20
+    "Kebek #1" = 20
+    "Khalil #0" = 30
+    "Khaqan Beg #1" = 20
+    "库楚克 马黑麻 #0" = 40
+    "库楚 #0" = 20
+    "Mahmud #0" = 80
+    "Mahmudak #0" = 50
+    "Mamai #0" = 20
+    "Mamuk #0" = 30
     "Mansur #0" = 20
+    "Muhammad #0" = 50
+    "Murtaza #0" = 20
+    "Mustafa Ali #0" = 20
     "Nogai #0" = 20
-    "Qasim #0" = 20
+    "Pulad #1" = 20
+    "不剌帖木儿 #0" = 20
+    "Qadir Berdi #1" = 20
+    "Qasim #0" = 60
+    "Sain Bulat #0" = 20
+    "Satilghan #0" = 20
+    "Sayid Ahmad #0" = 60
+    "Sayid Burhan #0" = 20
+    "Sayid Mahmud #0" = 20
+    "撒迪别 #1" = 20
+    "Shah Ali #0" = 20
+    "Shaikh Ahmad #0" = 20
+    "Shaikh Awliar #0" = 20
+    "Shaikh Haidar #0" = 20
+    "Shiban #0" = 20
+    "Taibugha #0" = 20
+    "帖木儿 #1" = 20
+    "帖木儿 忽都鲁 #1" = 20
+    "脱脱迷失 #1" = 20
+    "兀鲁 马黑麻 #0" = 40
+    "Urus #1" = 20
+    "Urus Muhammad #0" = 20
+    "Yadigar Muhammad #0" = 20
+    "Yamghurchi #0" = 20
+    "Fatima #0" = -1
+    "Ibtisam #0" = -1
+    "Jalila #0" = -1
+    "Janan #0" = -1
+    "Layla #0" = -1
+    "萨吉娜 #0" = -1
+    "Sharifa #0" = -1
 }
 leader_names = {
-    "Boke Temur"  # Boke Temur
+    "不哥帖木儿"  # Boke Temur
     "Qutlugh Vachir"  # Qutlugh Vachir
     "Suren Chinua"  # Suren Chinua
     "Delger Bayar"  # Delger Bayar
@@ -91,45 +117,45 @@ leader_names = {
     "Nasange"  # Nasange
     "Temur-chi"  # Temur-chi
     "Chinuagene"  # Chinuagene
-    "Toluilun"  # Toluilun
+    "秃鲁伦"  # Toluilun
     "Qutughqan"  # Qutughqan
     "Koke Burilgi"  # Koke Burilgi
     "Surenchar"  # Surenchar
     "Bayangge"  # Bayangge
 }
 ship_names = {
-    "Batu"  # Batu
+    "拔都"  # Batu
     "Sartaq"  # Sartaq
     "Ulaghchi"  # Ulaghchi
     "Berke"  # Berke
-    "Mengu-Timur"  # Mengu-Timur
+    "蒙哥帖木儿"  # Mengu-Timur
     "Tuda-Mengu"  # Tuda-Mengu
     "Talabuga"  # Talabuga
     "Nogai Khan"  # Nogai Khan
     "Tokhta"  # Tokhta
-    "Öz Beg"  # Öz Beg
+    "月即别"  # Öz Beg
     "Tini Beg"  # Tini Beg
-    "Jani Beg"  # Jani Beg
+    "札尼别"  # Jani Beg
     "Berdi Beg"  # Berdi Beg
     "Qulpa"  # Qulpa
     "Nawruz Beg"  # Nawruz Beg
     "Khidr"  # Khidr
-    "Timur Khwaja"  # Timur Khwaja
+    "帖木儿 火者"  # Timur Khwaja
     "Abdallah"  # Abdallah
     "Muhammad Bolak"  # Muhammad Bolak
     "Mamai Khan"  # Mamai Khan
     "Toqtamish"  # Toqtamish
-    "Temür Qutlugh"  # Temür Qutlugh
-    "Ediguh"  # Ediguh
-    "Shadi Beg"  # Shadi Beg
+    "帖木儿 忽都鲁"  # Temür Qutlugh
+    "也迪古"  # Ediguh
+    "撒迪别"  # Shadi Beg
     "Polad Khan"  # Polad Khan
-    "Temür"  # Temür
+    "帖木儿"  # Temür
     "Jalal ad-Din"  # Jalal ad-Din
-    "Karim Berdi"  # Karim Berdi
+    "克里木 别儿迪"  # Karim Berdi
     "Kebek"  # Kebek
     "Jabbar Berdi"  # Jabbar Berdi
-    "Ulugh Muhammad"  # Ulugh Muhammad
+    "兀鲁 马黑麻"  # Ulugh Muhammad
     "Dawlat Berdi"  # Dawlat Berdi
-    "Baraq"  # Baraq
+    "八剌"  # Baraq
     "Sayud Ahmad"  # Sayud Ahmad
 }

@@ -1,0 +1,163 @@
+﻿namespace = flavor_dai
+normal_or_historical_nations = yes
+country_event = {
+    id = flavor_dai.1
+    title = "flavor_dai.EVTNAME1"
+    desc = "flavor_dai.EVTDESC1"
+    picture = REFORM_eventPicture
+    fire_only_once = yes
+    trigger = {
+        tag = DAI
+        is_year = 1460
+        NOT = {
+            is_year = 1470
+        }
+    }
+    mean_time_to_happen = {
+        months = 200
+    }
+    option = {
+        name = "flavor_dai.EVTOPTA1"
+        if = {
+            limit = {
+                NOT = {
+                    has_completed_all_reforms_trigger = yes
+                }
+            }
+            add_reform_progress_small_effect = yes
+        }
+        add_adm_power = 100
+    }
+    option = {
+        name = "flavor_dai.EVTOPTB1"
+        if = {
+            limit = {
+                NOT = {
+                    has_completed_all_reforms_trigger = yes
+                }
+            }
+            add_reform_progress_small_effect = yes
+        }
+        add_dip_power = 100
+    }
+    option = {
+        name = "flavor_dai.EVTOPTC1"
+        if = {
+            limit = {
+                NOT = {
+                    has_completed_all_reforms_trigger = yes
+                }
+            }
+            add_reform_progress_small_effect = yes
+        }
+        add_mil_power = 100
+    }
+}
+country_event = {
+    id = flavor_dai.2
+    title = "flavor_dai.EVTNAME2"
+    desc = "flavor_dai.EVTDESC2"
+    picture = BATTLE_eventPicture
+    fire_only_once = yes
+    trigger = {
+        tag = DAI
+        is_year = 1527
+        dynasty = "莫"  # Mac
+    }
+    mean_time_to_happen = {
+        months = 200
+    }
+    option = {
+        name = "flavor_dai.EVTOPTA2"
+        random_owned_province = {
+            limit = {
+                is_core = ROOT
+            }
+            add_unrest = 2
+        }
+    }
+    option = {
+        name = "flavor_dai.EVTOPTB2"
+        add_adm_power = -20
+    }
+}
+country_event = {
+    id = flavor_dai.3
+    title = "flavor_dai.EVTNAME3"
+    desc = "flavor_dai.EVTDESC3"
+    picture = ANGRY_MOB_eventPicture
+    fire_only_once = yes
+    trigger = {
+        tag = DAI
+        is_year = 1700
+        NOT = {
+            is_year = 1800
+        }
+        NOT = {
+            stability = 0
+        }
+    }
+    mean_time_to_happen = {
+        months = 200
+    }
+    immediate = {
+        hidden_effect = {
+            random_owned_province = {
+                limit = {
+                    is_core = ROOT
+                }
+                set_province_flag = dai_tayson_rebellion_flag
+            }
+            random_owned_province = {
+                limit = {
+                    is_core = ROOT
+                    NOT = {
+                        has_province_flag = dai_tayson_rebellion_flag
+                    }
+                }
+                set_province_flag = dai_tayson_rebellion_flag
+            }
+            random_owned_province = {
+                limit = {
+                    is_core = ROOT
+                    NOT = {
+                        has_province_flag = dai_tayson_rebellion_flag
+                    }
+                }
+                set_province_flag = dai_tayson_rebellion_flag
+            }
+        }
+    }
+    option = {
+        name = "flavor_dai.EVTOPTA3"
+        every_owned_province = {
+            limit = {
+                has_province_flag = dai_tayson_rebellion_flag
+            }
+            spawn_rebels = {
+                type = anti_tax_rebels
+                size = 2
+            }
+            clr_province_flag = dai_tayson_rebellion_flag
+        }
+    }
+    option = {
+        name = "flavor_dai.EVTOPTB3"
+        random_owned_province = {
+            limit = {
+                has_province_flag = dai_tayson_rebellion_flag
+                is_capital = no
+            }
+            add_local_autonomy = 100
+            clr_province_flag = dai_tayson_rebellion_flag
+        }
+        hidden_effect = {
+            every_owned_province = {
+                limit = {
+                    has_province_flag = dai_tayson_rebellion_flag
+                }
+                clr_province_flag = dai_tayson_rebellion_flag
+            }
+        }
+    }
+}
