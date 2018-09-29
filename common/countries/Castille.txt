@@ -52,7 +52,7 @@ monarch_names = {
     "阿尔瓦罗 #0" = 0
     "巴尔塔萨 #0" = 0
     "贝尔纳多 #0" = 0
-    "Bertrán #0" = 0
+    "贝尔特兰 #0" = 0
     "克里斯托巴尔 #0" = 0
     "迭戈 #0" = 0
     "多明戈 #0" = 0
@@ -70,15 +70,15 @@ monarch_names = {
     "洛佩 #0" = 0
     "米格尔 #0" = 0
     "努尼奥 #0" = 0
-    "Odón #0" = 0
+    "奥东 #0" = 0
     "雷蒙多 #0" = 0
     "罗德里戈 #0" = 0
     "托马斯 #0" = 0
-    "Valeriano #0" = 0
+    "巴莱里亚诺 #0" = 0
 }
 leader_names = {
     "德 阿吉雷"  # de Aguirre
-    "de Alarcón"  # de Alarcón
+    "德 阿拉尔孔"  # de Alarcón
     "德 托莱多"  # de Toledo
     "德 安德雷德"  # de Andrade
     "德 阿亚拉"  # de Ayala
@@ -110,7 +110,7 @@ leader_names = {
     "纳尔瓦埃斯"  # Narváez
     "德 内布里哈"  # de Nebrija
     "努涅斯 德 巴尔波亚"  # Nuñez de Balboa
-    "de Ojeda"  # de Ojeda
+    "德 奥赫达"  # de Ojeda
     "奥雷利亚纳"  # Orellana
     "奥索里奥"  # Osorio
     "皮门特尔"  # Pimentel
@@ -118,7 +118,7 @@ leader_names = {
     "皮萨罗"  # Pizarro
     "庞塞 德 莱昂"  # Ponce de León
     "Portocarrero"  # Portocarrero
-    "de Rojas"  # de Rojas
+    "德 罗哈斯"  # de Rojas
     "Tellez-Girón"  # Tellez-Girón
     "de la Vega"  # de la Vega
     "de Zúñiga"  # de Zúñiga
@@ -728,9 +728,9 @@ ship_names = {
 }
 army_names = {
     "Guardia Real"  # Guardia Real
-    "Ejército de $PROVINCE$"  # Ejército de $PROVINCE$
+    "$PROVINCE$军"  # Ejército de $PROVINCE$
 }
 fleet_names = {
-    "Armada Real"  # Armada Real
-    "Flota de $PROVINCE$"  # Flota de $PROVINCE$
+    "皇家海军"  # Armada Real
+    "$PROVINCE$舰队"  # Flota de $PROVINCE$
 }

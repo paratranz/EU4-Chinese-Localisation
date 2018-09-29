@@ -457,7 +457,7 @@ ship_names = {
 army_names = {
     "Staatse Leger"  # Staatse Leger
     "Prinselijk Leger"  # Prinselijk Leger
-    "Leger van $PROVINCE$"  # Leger van $PROVINCE$
+    "$PROVINCE$军"  # Leger van $PROVINCE$
 }
 fleet_names = {
     "Staatse Vloot"  # Staatse Vloot
@@ -466,5 +466,5 @@ fleet_names = {
     "Oost-Indiëvloot"  # Oost-Indiëvloot
     "West-Indiëvloot"  # West-Indiëvloot
     "Middellandse Zeevloot"  # Middellandse Zeevloot
-    "Vloot van $PROVINCE$"  # Vloot van $PROVINCE$
+    "$PROVINCE$舰队"  # Vloot van $PROVINCE$
 }
