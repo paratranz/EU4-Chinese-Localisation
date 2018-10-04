@@ -5351,14 +5351,13 @@ country_event = {
         name = women_history_events.89.c
         define_ruler = {
             name = "阿喜亚拜"  # Ahilyabai
-            dynasty = "Holkar"
+            dynasty = "豪卡"  # Holkar
             culture = marathi
             fixed = yes
             ADM = 6
             DIP = 4
             MIL = 2
             female = yes
-            dyna = "豪卡"  # Holkar
         }
         if = {
             limit = {
@@ -5399,23 +5398,21 @@ country_event = {
         add_meritocracy_effect = yes
         define_advisor = {
             discount = yes
-            name = "Jahanzeb Banu Begum"
+            name = "扎汗则布·巴努·贝古姆"  # Jahanzeb Banu Begum
             type = diplomat
             skill = 2
             female = yes
-            nam = "扎汗则布·巴努·贝古姆"  # Jahanzeb Banu Begum
         }
     }
     option = {
         name = women_history_events.90.b
         define_general = {
-            name = "Jahanzeb Banu Begum"
+            name = "扎汗则布·巴努·贝古姆"  # Jahanzeb Banu Begum
             shock = 4
             fire = 3
             manuever = 3
             siege = 4
             female = yes
-            na = "扎汗则布·巴努·贝古姆"  # Jahanzeb Banu Begum
         }
     }
 }
@@ -5455,24 +5452,22 @@ country_event = {
         name = women_history_events.91.a
         add_meritocracy_effect = yes
         define_advisor = {
-            name = "Ching Shih"
+            name = "郑氏"  # Ching Shih
             culture = chihan
             type = naval_reformer
             discount = yes
             skill = 2
             female = yes
-            na = "郑氏"  # Ching Shih
         }
     }
     option = {
         name = women_history_events.91.b
         define_admiral = {
-            name = "Ching Shih"
+            name = "郑氏"  # Ching Shih
             shock = 3
             fire = 4
             manuever = 3
             female = yes
-            n = "郑氏"  # Ching Shih
         }
     }
 }
@@ -5510,28 +5505,25 @@ country_event = {
         add_dip_power = 100
         add_mil_power = 100
         define_advisor = {
-            name = "Mentewab"
+            name = "门特瓦布"  # Mentewab
             type = statesman
             culture = amhara
             discount = yes
             skill = 2
             female = yes
-            n = "门特瓦布"  # Mentewab
         }
     }
     option = {
         name = women_history_events.92.b
         define_ruler = {
-            name = "Mentewab"
-            dynasty = "Solomonid"
+            name = "门特瓦布"  # Mentewab
+            dynasty = "所罗门"  # Solomonid
             fixed = yes
             culture = amhara
             adm = 3
             dip = 4
             mil = 3
             female = yes
-            na = "门特瓦布"  # Mentewab
-            dy = "所罗门"  # Solomonid
         }
         if = {
             limit = {
@@ -5577,19 +5569,26 @@ country_event = {
         name = women_history_events.93.a
         add_meritocracy_effect = yes
         define_advisor = {
-            name = "Safiye Sultan"
+            name = "莎菲耶苏丹"  # Safiye Sultan
             culture = albanian
             religion = sunni
             type = treasurer
             skill = 2
             discount = yes
             female = yes
-             = "莎菲耶苏丹"  # Safiye Sultan
         }
     }
     option = {
         name = women_history_events.93.b
-        define_advisor = "莎菲耶苏丹"  # Safiye Sultan
+        define_advisor = {
+            name = "莎菲耶苏丹"  # Safiye Sultan
+            type = diplomat
+            culture = albanian
+            religion = sunni
+            skill = 2
+            discount = yes
+            female = yes
+        }
     }
 }
 country_event = {
@@ -5623,7 +5622,14 @@ country_event = {
     option = {
         name = women_history_events.94.a
         add_meritocracy_effect = yes
-        define_advisor = "安杰丽卡·考夫曼"  # Angelica Kauffman
+        define_advisor = {
+            name = "安杰丽卡·考夫曼"  # Angelica Kauffman
+            culture = swiss
+            type = artist
+            skill = 2
+            discount = yes
+            female = yes
+        }
     }
     option = {
         name = women_history_events.94.b
@@ -5664,18 +5670,26 @@ country_event = {
         add_mil_power = 100
         add_meritocracy_effect = yes
         define_advisor = {
-            name = "Elizaveta Romanov"
+            name = "伊丽莎白 罗曼诺夫"  # Elizaveta Romanov
             type = statesman
             discount = yes
             culture = russian
             skill = 2
             female = yes
         }
-        define_adviso = "伊丽莎白 罗曼诺夫"  # Elizaveta Romanov
     }
     option = {
         name = women_history_events.95.b
-        define_ruler = "罗曼诺夫"  # Romanov
+        define_ruler = {
+            name = "Elizaveta"
+            dynasty = "罗曼诺夫"  # Romanov
+            culture = russian
+            fixed = yes
+            adm = 3
+            dip = 4
+            mil = 3
+            female = yes
+        }
         if = {
             limit = {
                 has_dlc = "Rights of Man"
@@ -5738,20 +5752,19 @@ country_event = {
         add_mil_power = 100
         add_meritocracy_effect = yes
         define_advisor = {
-            name = "Anna of Russia"
+            name = "俄罗斯的安娜"  # Anna of Russia
             culture = russian
             type = statesman
             skill = 2
             discount = yes
             female = yes
         }
-        define_advis = "俄罗斯的安娜"  # Anna of Russia
     }
     option = {
         name = women_history_events.96.b
         define_ruler = {
             name = "Anna"
-            dynasty = Romanov
+            dynasty = "罗曼诺夫"  # Romanov
             culture = russian
             fixed = yes
             adm = 3
@@ -5767,7 +5780,6 @@ country_event = {
                 add_ruler_personality = incorruptible_personality
             }
         }
-        define_rule = "罗曼诺夫"  # Romanov
     }
 }
 country_event = {
@@ -5816,7 +5828,9 @@ country_event = {
             discount = yes
             female = yes
         }
-        define_advi = "努尔巴努苏丹"  # Nurbanu Sultan
+        define_advior = {
+            name = "努尔巴努苏丹"  # Nurbanu Sultan
+        }
     }
     option = {
         name = women_history_events.97.b
@@ -5836,7 +5850,7 @@ country_event = {
             }
             define_ruler = {
                 name = "Nurbanu Sultan"
-                dynasty = "Osmanoglu"
+                dynasty = "奥斯曼"  # Osmanoglu
                 fixed = yes
                 culture = greek
                 religion = sunni
@@ -5845,7 +5859,6 @@ country_event = {
                 mil = 3
                 female = yes
             }
-            define_ = "奥斯曼"  # Osmanoglu
         }
         if = {
             limit = {
@@ -5865,7 +5878,9 @@ country_event = {
                 add_queen_personality = secretive_personality
                 add_queen_personality = silver_tongue_personality
             }
-            define = "努尔巴努苏丹"  # Nurbanu Sultan
+            define_advisor = {
+                name = "努尔巴努苏丹"  # Nurbanu Sultan
+            }
         }
     }
 }
@@ -5896,14 +5911,13 @@ country_event = {
         name = women_history_events.98.a
         add_meritocracy_effect = yes
         define_advisor = {
-            name = "Heo Nanseolheon"
+            name = "许兰雪轩"  # Heo Nanseolheon
             discount = yes
             culture = korean
             type = artist
             skill = 2
             female = yes
         }
-        define_adv = "许兰雪轩"  # Heo Nanseolheon
     }
     option = {
         name = women_history_events.98.b
@@ -5940,14 +5954,13 @@ country_event = {
         name = women_history_events.99.a
         add_meritocracy_effect = yes
         define_advisor = {
-            name = "Mariam-uz-Zamani"
+            name = "马里昂-乌兹-扎马尼"  # Mariam-uz-Zamani
             culture = kanauji
             discount = yes
             type = treasurer
             skill = 3
             female = yes
         }
-        define_ad = "马里昂-乌兹-扎马尼"  # Mariam-uz-Zamani
     }
     option = {
         name = women_history_events.99.b
@@ -5988,14 +6001,13 @@ country_event = {
         name = women_history_events.100.a
         add_meritocracy_effect = yes
         define_advisor = {
-            name = "Franciszka Urszula Radziwillowa"
+            name = "弗朗西斯卡 乌苏拉 拉齐维洛娃"  # Franciszka Urszula Radziwillowa
             culture = polish
             discount = yes
             type = artist
             skill = 2
             female = yes
         }
-        define_a = "弗朗西斯卡 乌苏拉 拉齐维洛娃"  # Franciszka Urszula Radziwillowa
     }
     option = {
         name = women_history_events.100.b
