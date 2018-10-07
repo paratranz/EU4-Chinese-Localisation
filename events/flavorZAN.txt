@@ -332,6 +332,12 @@ country_event = {
             name = "苏莱曼"  # Suleiman
             claim = 80
         }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
         set_ruler_flag = zan_muhammad_and_suleiman
         hidden_effect = {
             define_heir = {
@@ -353,6 +359,12 @@ country_event = {
             name = "穆罕默德"  # Muhammad
             dynasty = "玛兹卢姆"  # al-Mazlum
             claim = 80
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         set_ruler_flag = zan_muhammad_and_suleiman
         hidden_effect = {

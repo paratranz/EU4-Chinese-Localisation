@@ -174,6 +174,12 @@ country_event = {
             religion = hinduism
             culture = rajput
         }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
         random_owned_province = {
             limit = {
                 is_capital = no
@@ -193,6 +199,12 @@ country_event = {
             dynasty = "西索迪亚"  # Sisodiya
             culture = rajput
             religion = hinduism
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         random_owned_province = {
             limit = {

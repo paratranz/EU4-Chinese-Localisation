@@ -82,7 +82,7 @@ country_event = {
             random_owned_province = {
                 limit = {
                     is_capital = no
-                    has_province_modifier = center_of_trade_modifier
+                    province_has_center_of_trade_of_level = 1
                     NOT = {
                         has_province_modifier = chi_local_trade_regulations
                     }

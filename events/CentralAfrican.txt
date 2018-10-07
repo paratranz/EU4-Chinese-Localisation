@@ -57,7 +57,7 @@ country_event = {
     option = {
         name = "central_african.1.a"
         add_country_modifier = {
-            name = "maroserana"
+            name = "maroserana"  # maroserana
             duration = 36500
         }
     }
@@ -570,6 +570,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -790,6 +796,12 @@ country_event = {
             mil = 4
             age = 20
             claim = 70
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {

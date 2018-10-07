@@ -787,6 +787,12 @@ country_event = {
         define_ruler = {
             dynasty = "冯 霍亨索伦"  # von Hohenzollern
         }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
     }
 }
 country_event = {
@@ -835,7 +841,7 @@ country_event = {
         }
         OR = {
             NOT = {
-                has_ruler = "Albrecht III Achilles"
+                has_ruler = "Albrecht III Achilles"  # Albrecht III Achilles
             }
             senior_union_with = ANS
         }
@@ -858,6 +864,12 @@ country_event = {
                 break_union = BRA
                 define_ruler = {
                     dynasty = "冯 霍亨索伦"  # von Hohenzollern
+                }
+                if = {
+                    limit = {
+                        has_states_general_mechanic = yes
+                    }
+                    change_statists_vs_orangists = 200
                 }
             }
             remove_casus_belli = {

@@ -85,26 +85,7 @@ country_event = {
     desc = "flavor_pol.EVTDESC3473"
     picture = COURT_eventPicture
     fire_only_once = yes
-    trigger = {
-        OR = {
-            AND = {
-                tag = POL
-                NOT = {
-                    exists = PLC
-                }
-            }
-            tag = PLC
-        }
-        NOT = {
-            exists = MAZ
-        }
-        owns_core_province = 257
-        owns_core_province = 1938
-        owns_core_province = 256
-    }
-    mean_time_to_happen = {
-        months = 12
-    }
+    is_triggered_only = yes
     option = {
         name = "flavor_pol.EVTOPTA3473"
         257 = {
@@ -838,30 +819,16 @@ country_event = {
     desc = "flavor_pol.EVTDESC5100"
     picture = ADVISOR_eventPicture
     fire_only_once = yes
-    trigger = {
-        OR = {
-            AND = {
-                tag = POL
-                NOT = {
-                    exists = PLC
-                }
-            }
-            tag = PLC
-        }
-        is_year = 1500
-        NOT = {
-            is_year = 1543
-        }
-    }
-    mean_time_to_happen = {
-        months = 120
-    }
+    is_triggered_only = yes
     option = {
         name = "flavor_pol.EVTOPTOK"
-        add_adm_power = 40
-        add_dip_power = 40
-        add_mil_power = 40
-        add_prestige = 10
+        define_advisor = {
+            type = natural_scientist
+            name = "Nicolaus Copernicus"  # Nicolaus Copernicus
+            culture = polish
+            skill = 3
+            cost_multiplier = 0.25
+        }
     }
 }
 country_event = {
@@ -870,24 +837,9 @@ country_event = {
     desc = "flavor_pol.EVTDESC1"
     picture = NAVAL_MILITARY_eventPicture
     fire_only_once = yes
+    is_triggered_only = yes
     trigger = {
-        OR = {
-            AND = {
-                tag = POL
-                NOT = {
-                    exists = PLC
-                }
-            }
-            tag = PLC
-        }
-        is_year = 1625
-        NOT = {
-            is_year = 1650
-        }
         num_of_ports = 1
-    }
-    mean_time_to_happen = {
-        months = 50
     }
     option = {
         name = "flavor_pol.EVTOPTA1"
@@ -903,10 +855,6 @@ country_event = {
                 cost = 0
             }
         }
-    }
-    option = {
-        name = "flavor_pol.EVTOPTB1"
-        add_stability_or_adm_power = yes
     }
 }
 country_event = {
@@ -1192,7 +1140,7 @@ country_event = {
                     has_reform = celestial_empire
                 }
             }
-            change_government = republic
+            change_government_via_reform = republic
             add_government_reform = oligarchy_reform
         }
         define_ruler = {
@@ -1637,9 +1585,7 @@ country_event = {
             has_reform = celestial_empire
         }
         LIT = {
-            ai = yes
             exists = yes
-            was_player = no
             is_subject = no
             NOT = {
                 junior_union_with = POL
@@ -1649,6 +1595,9 @@ country_event = {
         NOT = {
             is_year = 1450
         }
+    }
+    immediate = {
+        set_global_flag = plc_union_outcome_flag
     }
     mean_time_to_happen = {
         months = 12
@@ -1667,6 +1616,12 @@ country_event = {
     }
     option = {
         name = flavor_pol.18.a
+        trigger = {
+            LIT = {
+                ai = yes
+                was_player = no
+            }
+        }
         ai_chance = {
             factor = 75
         }
@@ -1686,6 +1641,12 @@ country_event = {
             MIL = 4
             claim = 100
             culture = polish
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         LIT = {
             add_opinion = {

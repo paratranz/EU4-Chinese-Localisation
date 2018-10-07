@@ -56,6 +56,12 @@ country_event = {
             name = "鲍里斯"  # Boris
             dynasty = "戈东诺夫"  # Godunov
         }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
     }
 }
 country_event = {
@@ -92,7 +98,7 @@ country_event = {
         }
         add_years_of_income = -0.25
         add_country_modifier = {
-            name = famine
+            name = "famine"  # famine
             duration = 3650
         }
     }
@@ -209,6 +215,7 @@ country_event = {
     picture = ACCUSATION_eventPicture
     is_triggered_only = yes
     trigger = {
+        is_lesser_in_union = no
         NOT = {
             has_country_flag = RUS_had_event_1106
         }
@@ -260,6 +267,12 @@ country_event = {
         define_ruler = {
             name = "德米特里 I"  # Dimitri I
             dynasty = "留里克"  # Rurikovich
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         add_ruler_modifier = {
             name = usurper_on_the_throne
@@ -802,6 +815,12 @@ country_event = {
             name = "瓦西里"  # Vasily
             dynasty = "叔伊斯基"  # Shuisky
         }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
         random_known_country = {
             limit = {
                 has_country_flag = supporter_of_dimitri
@@ -857,6 +876,12 @@ country_event = {
             adm = 4
             dip = 2
             mil = 3
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
     }
 }

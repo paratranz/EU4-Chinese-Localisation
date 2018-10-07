@@ -498,7 +498,7 @@ country_event = {
     option = {
         name = "flavor_dan.EVTOPTA3307"
         add_country_modifier = {
-            name = "pietism"  # pietism
+            name = pietism
             duration = -1
         }
     }
@@ -957,7 +957,7 @@ country_event = {
     desc = {
         trigger = {
             NOT = {
-                dynasty = "von Oldenburg"
+                dynasty = "冯 奥尔登堡"  # von Oldenburg
             }
         }
         desc = "flavor_dan.4.da"
@@ -985,7 +985,7 @@ country_event = {
         if = {
             limit = {
                 NOT = {
-                    dynasty = "von Oldenburg"
+                    dynasty = "冯 奥尔登堡"  # von Oldenburg
                 }
             }
             add_years_of_income = -1
@@ -1166,7 +1166,7 @@ country_event = {
             is_subject_of = ROOT
         }
         NOT = {
-            dynasty = "von Oldenburg"
+            dynasty = "冯 奥尔登堡"  # von Oldenburg
         }
         is_year = 1450
         NOT = {

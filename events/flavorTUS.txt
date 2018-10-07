@@ -654,7 +654,7 @@ country_event = {
                             government = republic
                         }
                     }
-                    change_government = republic
+                    change_government_via_reform = republic
                     set_legacy_government = oligarchic_republic
                 }
                 define_ruler = {
@@ -662,7 +662,7 @@ country_event = {
                 }
             }
             2 = {
-                change_government = theocracy
+                change_government_via_reform = theocracy
                 set_legacy_government = theocratic_government
             }
         }

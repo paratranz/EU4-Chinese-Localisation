@@ -22,10 +22,21 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
                 add_ruler_personality = well_connected_personality
+            }
+            random_owned_province = {
+                spawn_rebels = {
+                    leader = "理查德 约克"  # Richard York
+                }
             }
         }
         add_yearly_manpower = -2.5
@@ -50,8 +61,13 @@ country_event = {
                 spawn_rebels = {
                     type = pretender_rebels
                     size = 3
-                    leader = "理查德 约克"  # Richard York
+                    leader = "Richard York"  # Richard York
                     win = yes
+                }
+            }
+            245 = {
+                spawn_rebels = {
+                    leader = "理查德 约克"  # Richard York
                 }
             }
         }
@@ -72,7 +88,7 @@ country_event = {
                 spawn_rebels = {
                     type = pretender_rebels
                     size = 3
-                    leader = "理查德 约克"  # Richard York
+                    leader = "Richard York"  # Richard York
                     win = yes
                 }
             }
@@ -87,10 +103,21 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
                 add_ruler_personality = tactical_genius_personality
+            }
+            random_owned_province = {
+                spawn_rebels = {
+                    leader = "爱德华 兰开斯特"  # Edward Lancaster
+                }
             }
         }
         add_yearly_manpower = -2.5
@@ -115,6 +142,11 @@ country_event = {
                 spawn_rebels = {
                     type = pretender_rebels
                     size = 3
+                    leader = "Edward Lancaster"  # Edward Lancaster
+                }
+            }
+            244 = {
+                spawn_rebels = {
                     leader = "爱德华 兰开斯特"  # Edward Lancaster
                 }
             }
@@ -136,7 +168,7 @@ country_event = {
                 spawn_rebels = {
                     type = pretender_rebels
                     size = 3
-                    leader = "爱德华 兰开斯特"  # Edward Lancaster
+                    leader = "Edward Lancaster"  # Edward Lancaster
                 }
             }
         }
@@ -1117,7 +1149,7 @@ country_event = {
         tag = ENG
         has_disaster = war_of_the_roses
         NOT = {
-            dynasty = York
+            dynasty = "York"  # York
         }
         NOT = {
             dynasty = "兰开斯特"  # Lancaster

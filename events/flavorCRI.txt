@@ -96,6 +96,12 @@ country_event = {
             }
             if = {
                 limit = {
+                    has_states_general_mechanic = yes
+                }
+                change_statists_vs_orangists = 200
+            }
+            if = {
+                limit = {
                     has_dlc = "Rights of Man"
                 }
                 hidden_effect = {
@@ -114,6 +120,12 @@ country_event = {
                 dynasty = "格莱"  # Giray
                 age = 33
                 claim = 75
+            }
+            if = {
+                limit = {
+                    has_states_general_mechanic = yes
+                }
+                change_statists_vs_orangists = 200
             }
             if = {
                 limit = {
@@ -188,6 +200,12 @@ country_event = {
             }
             if = {
                 limit = {
+                    has_states_general_mechanic = yes
+                }
+                change_statists_vs_orangists = 200
+            }
+            if = {
+                limit = {
                     has_dlc = "Rights of Man"
                 }
                 hidden_effect = {
@@ -206,6 +224,12 @@ country_event = {
                 dynasty = "格莱"  # Giray
                 age = 33
                 claim = 75
+            }
+            if = {
+                limit = {
+                    has_states_general_mechanic = yes
+                }
+                change_statists_vs_orangists = 200
             }
             if = {
                 limit = {
@@ -578,6 +602,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -656,5 +686,44 @@ country_event = {
     option = {
         name = "flavor_cri.7.a" 
         custom_tooltip = flavor_cri.7.a.tt
+    }
+}
+country_event = {
+    id = flavor_cri.8
+    title = "flavor_cri.8.t"
+    desc = "flavor_cri.8.d"
+    picture = MONGOL_BANNERS_eventPicture
+    fire_only_once = yes
+    is_triggered_only = yes
+    major = yes
+    option = {
+        name = flavor_cri.8.a
+        persia_region = {
+            limit = {
+                owned_by = ROOT
+            }
+            add_core = ILK
+        }
+        release = ILK
+        create_march = ILK
+        ILK = {
+            change_government = monarchy
+            set_legacy_government = despotic_monarchy
+            change_primary_culture = ROOT
+            change_religion = ROOT
+            define_ruler = {
+                dynasty = ROOT
+                culture = ROOT
+                religion = ROOT
+            }
+        }
+    }
+    option = {
+        name = flavor_cri.8.b
+        4338 = {
+            add_base_tax = 2
+            add_base_manpower = 2
+            add_base_production = 2
+        }
     }
 }

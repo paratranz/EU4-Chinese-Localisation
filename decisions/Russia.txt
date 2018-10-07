@@ -33,6 +33,18 @@
             33 = {
                 move_capital_effect = yes
             }
+            if = {
+                limit = {
+                    33 = {
+                        NOT = {
+                            province_has_center_of_trade_of_level = 3
+                        }
+                    }
+                }
+                33 = {
+                    add_center_of_trade_level = 1
+                }
+            }
         }
         ai_will_do = {
             factor = 1

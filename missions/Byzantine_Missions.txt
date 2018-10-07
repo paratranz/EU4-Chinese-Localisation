@@ -112,7 +112,7 @@
         }
     }
     recover_the_balkans = {
-        icon = mission_unite_home_region
+        icon = mission_eastern_european_city
         required_missions = {
             recover_greece
         }
@@ -157,7 +157,7 @@
         }
     }
     recover_south_italy = {
-        icon = mission_cannons_firing
+        icon = mission_italian_condottiere
         required_missions = {
             recover_the_balkans
         }
@@ -241,7 +241,7 @@ byz_generic_slot_2 = {
     has_country_shield = yes
     recover_rome = {
         position = 6
-        icon = mission_early_game_buildings
+        icon = mission_religious
         required_missions = {
             recover_south_italy
         }
@@ -722,7 +722,7 @@ byz_generic_slot_5 = {
         }
     }
     convert_asia_minor = {
-        icon = mission_hands_praying
+        icon = mission_non-western_soldiers
         required_missions = {
             reestablish_the_theme_system
         }

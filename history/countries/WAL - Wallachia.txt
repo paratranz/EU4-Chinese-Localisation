@@ -88,8 +88,8 @@ capital = 161
         dynasty = "德古拉"  # Draculesti
         birth_date = 1390.1.1
         adm = 2
-        dip = 1
-        mil = 1
+        dip = 2
+        mil = 3
         leader = {
             name = "弗拉德 II"  # Vlad II
             type = general
@@ -124,8 +124,16 @@ capital = 161
         dynasty = "德古拉"  # Draculesti
         birth_date = 1390.1.1
         adm = 2
-        dip = 1
-        mil = 1
+        dip = 2
+        mil = 3
+        leader = {
+            name = "Vlad II"  # Vlad II
+            type = general
+            fire = 3
+            shock = 3
+            manuever = 3
+            siege = 0
+        }
     }
 }
 1443.1.1 = {
@@ -167,6 +175,8 @@ capital = 161
             siege = 0
         }
     }
+    clear_scripted_personalities = yes
+    add_ruler_personality = cruel_personality
 }
 1462.11.1 = {
     monarch = {

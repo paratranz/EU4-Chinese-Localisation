@@ -1168,7 +1168,7 @@ country_event = {
         is_free_or_tributary_trigger = yes
         government = monarchy
         NOT = {
-            dynasty = "von Habsburg"
+            dynasty = "冯 哈布斯堡"  # von Habsburg
         }
         NOT = {
             has_ruler_modifier = spurn_habsburgs

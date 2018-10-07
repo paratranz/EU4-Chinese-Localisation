@@ -104,14 +104,14 @@ country_event = {
         name = "flavor_tim.2.b" 
         trigger = {
             NOT = {
-                dynasty = Timurid
+                dynasty = "Timurid"  # Timurid
             }
         }
         custom_tooltip = flavor_tim.2.a.tt
         if = {
             limit = {
                 NOT = {
-                    dynasty = "Timurid"
+                    dynasty = "Timurid"  # Timurid
                 }
                 government = monarchy
                 NOT = {

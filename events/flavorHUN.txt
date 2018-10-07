@@ -32,7 +32,15 @@ country_event = {
             DIP = 5
             ADM = 4
             MIL = 5
+            fixed = yes
+            age = 39
             attach_leader = "亚诺什 匈雅提"  # János Hunyadi
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -184,7 +192,7 @@ country_event = {
         trigger = {
             has_heir = yes
             NOT = {
-                has_heir = "Ladislaus Postumus"
+                has_heir = "Ladislaus Postumus"  # Ladislaus Postumus
             }
             NOT = {
                 dynasty = HAB
@@ -1553,6 +1561,12 @@ country_event = {
             DIP = 3
             MIL = 3
         }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
         every_owned_province = {
             limit = {
                 is_permanent_claim = HAB
@@ -2288,6 +2302,12 @@ country_event = {
             dip = 5
             mil = 4
         }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
     }
     option = {
         name = flavor_hun.34.b
@@ -2351,6 +2371,12 @@ country_event = {
             adm = 4
             dip = 5
             mil = 4
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
     }
     option = {

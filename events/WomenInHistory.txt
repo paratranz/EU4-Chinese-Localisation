@@ -52,6 +52,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -127,6 +133,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -199,6 +211,12 @@ country_event = {
                 mil = 5
                 female = yes
             }
+            if = {
+                limit = {
+                    has_states_general_mechanic = yes
+                }
+                change_statists_vs_orangists = 200
+            }
         }
         else_if = {
             limit = {
@@ -230,6 +248,12 @@ country_event = {
                 dip = 4
                 mil = 5
                 female = yes
+            }
+            if = {
+                limit = {
+                    has_states_general_mechanic = yes
+                }
+                change_statists_vs_orangists = 200
             }
         }
     }
@@ -294,6 +318,12 @@ country_event = {
             dip = 5
             mil = 4
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -413,6 +443,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -465,7 +501,7 @@ country_event = {
             culture = swiss
             discount = yes
             skill = 2
-            name = "杰曼·德·斯塔尔"  # Germaine de Staël
+            name = "杰曼 德 斯塔尔"  # Germaine de Staël
         }
     }
     option = {
@@ -844,6 +880,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -907,6 +949,12 @@ country_event = {
             dip = 3
             mil = 2
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -1115,6 +1163,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -1186,6 +1240,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -1254,6 +1314,12 @@ country_event = {
             DIP = 4
             ADM = 3
             MIL = 3
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -1621,6 +1687,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -1758,6 +1830,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -1825,6 +1903,12 @@ country_event = {
             dip = 2
             mil = 4
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         add_corruption = 1
         if = {
@@ -2091,6 +2175,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -2304,6 +2394,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -2415,6 +2511,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -2475,6 +2577,12 @@ country_event = {
             DIP = 4
             MIL = 5
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -2881,6 +2989,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -3176,6 +3290,12 @@ country_event = {
             dip = 4
             mil = 3
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -3696,6 +3816,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -3757,6 +3883,12 @@ country_event = {
             dip = 3
             mil = 3
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -3827,6 +3959,12 @@ country_event = {
             dip = 3
             mil = 3
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -3904,6 +4042,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -3975,6 +4119,12 @@ country_event = {
             dip = 4
             mil = 2
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -4062,6 +4212,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -4129,6 +4285,12 @@ country_event = {
             dip = 4
             mil = 3
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -4380,6 +4542,12 @@ country_event = {
                 mil = 3
                 female = yes
             }
+            if = {
+                limit = {
+                    has_states_general_mechanic = yes
+                }
+                change_statists_vs_orangists = 200
+            }
             hidden_effect = {
                 add_ruler_personality = righteous_personality
                 add_ruler_personality = intricate_web_weaver_personality
@@ -4456,6 +4624,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -4519,6 +4693,12 @@ country_event = {
             dip = 4
             mil = 2
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -4760,6 +4940,12 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
@@ -4792,6 +4978,12 @@ country_event = {
             dip = 4
             mil = 3
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -4828,6 +5020,12 @@ country_event = {
             dip = 3
             mil = 4
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -4897,6 +5095,12 @@ country_event = {
             dip = 3
             mil = 2
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -5076,6 +5280,12 @@ country_event = {
             dip = 4
             mil = 4
             female = yes
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -5358,6 +5568,13 @@ country_event = {
             DIP = 4
             MIL = 2
             female = yes
+            dyna = "豪卡"  # Holkar
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -5402,6 +5619,7 @@ country_event = {
             type = diplomat
             skill = 2
             female = yes
+            nam = "扎汗则布 巴努 贝古姆"  # Jahanzeb Banu Begum
         }
     }
     option = {
@@ -5413,6 +5631,7 @@ country_event = {
             manuever = 3
             siege = 4
             female = yes
+            na = "扎汗则布 巴努 贝古姆"  # Jahanzeb Banu Begum
         }
     }
 }
@@ -5458,6 +5677,7 @@ country_event = {
             discount = yes
             skill = 2
             female = yes
+            na = "郑氏"  # Ching Shih
         }
     }
     option = {
@@ -5468,6 +5688,7 @@ country_event = {
             fire = 4
             manuever = 3
             female = yes
+            n = "郑氏"  # Ching Shih
         }
     }
 }
@@ -5511,6 +5732,7 @@ country_event = {
             discount = yes
             skill = 2
             female = yes
+            n = "门特瓦布"  # Mentewab
         }
     }
     option = {
@@ -5524,6 +5746,14 @@ country_event = {
             dip = 4
             mil = 3
             female = yes
+            na = "门特瓦布"  # Mentewab
+            dy = "所罗门"  # Solomonid
+        }
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -5576,19 +5806,12 @@ country_event = {
             skill = 2
             discount = yes
             female = yes
+             = "索菲亚苏丹"  # Safiye Sultan
         }
     }
     option = {
         name = women_history_events.93.b
-        define_advisor = {
-            name = "莎菲耶苏丹"  # Safiye Sultan
-            type = diplomat
-            culture = albanian
-            religion = sunni
-            skill = 2
-            discount = yes
-            female = yes
-        }
+        define_advisor = "索菲亚苏丹"  # Safiye Sultan
     }
 }
 country_event = {
@@ -5622,14 +5845,7 @@ country_event = {
     option = {
         name = women_history_events.94.a
         add_meritocracy_effect = yes
-        define_advisor = {
-            name = "安杰丽卡·考夫曼"  # Angelica Kauffman
-            culture = swiss
-            type = artist
-            skill = 2
-            discount = yes
-            female = yes
-        }
+        define_advisor = "安杰丽卡 考夫曼"  # Angelica Kauffman
     }
     option = {
         name = women_history_events.94.b
@@ -5677,18 +5893,16 @@ country_event = {
             skill = 2
             female = yes
         }
+        define_adviso = "伊丽莎白 罗曼诺夫"  # Elizaveta Romanov
     }
     option = {
         name = women_history_events.95.b
-        define_ruler = {
-            name = "Elizaveta"
-            dynasty = "罗曼诺夫"  # Romanov
-            culture = russian
-            fixed = yes
-            adm = 3
-            dip = 4
-            mil = 3
-            female = yes
+        define_ruler = "罗曼诺夫"  # Romanov
+        if = {
+            limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
         }
         if = {
             limit = {
@@ -5759,6 +5973,7 @@ country_event = {
             discount = yes
             female = yes
         }
+        define_advis = "俄罗斯的安娜"  # Anna of Russia
     }
     option = {
         name = women_history_events.96.b
@@ -5774,12 +5989,19 @@ country_event = {
         }
         if = {
             limit = {
+                has_states_general_mechanic = yes
+            }
+            change_statists_vs_orangists = 200
+        }
+        if = {
+            limit = {
                 has_dlc = "Rights of Man"
             }
             hidden_effect = {
                 add_ruler_personality = incorruptible_personality
             }
         }
+        define_rule = "罗曼诺夫"  # Romanov
     }
 }
 country_event = {
@@ -5831,6 +6053,7 @@ country_event = {
         define_advior = {
             name = "努尔巴努苏丹"  # Nurbanu Sultan
         }
+        define_advi = "努尔巴努苏丹"  # Nurbanu Sultan
     }
     option = {
         name = women_history_events.97.b
@@ -5859,6 +6082,13 @@ country_event = {
                 mil = 3
                 female = yes
             }
+            if = {
+                limit = {
+                    has_states_general_mechanic = yes
+                }
+                change_statists_vs_orangists = 200
+            }
+            define_ = "奥斯曼"  # Osmanoglu
         }
         if = {
             limit = {
@@ -5881,6 +6111,7 @@ country_event = {
             define_advisor = {
                 name = "努尔巴努苏丹"  # Nurbanu Sultan
             }
+            define = "努尔巴努苏丹"  # Nurbanu Sultan
         }
     }
 }
@@ -5918,6 +6149,7 @@ country_event = {
             skill = 2
             female = yes
         }
+        define_adv = "许兰雪轩"  # Heo Nanseolheon
     }
     option = {
         name = women_history_events.98.b
@@ -5961,6 +6193,7 @@ country_event = {
             skill = 3
             female = yes
         }
+        define_ad = "马里昂 乌兹 扎马尼"  # Mariam-uz-Zamani
     }
     option = {
         name = women_history_events.99.b
@@ -6008,6 +6241,7 @@ country_event = {
             skill = 2
             female = yes
         }
+        define_a = "弗朗西斯卡 乌苏拉 拉齐维洛娃"  # Franciszka Urszula Radziwillowa
     }
     option = {
         name = women_history_events.100.b

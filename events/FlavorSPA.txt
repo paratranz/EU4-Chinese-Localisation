@@ -1390,6 +1390,12 @@ country_event = {
                 }
                 add_claim = ROOT
             }
+            tooltip = {
+                add_opinion = {
+                    who = ROOT
+                    modifier = claimed_italy
+                }
+            }
             hidden_effect = {
                 country_event = {
                     id = flavor_spa.1009

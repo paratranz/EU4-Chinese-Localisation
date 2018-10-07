@@ -305,13 +305,11 @@ bah_gharbians = {
                 province_id = 2221
             }
             NOT = {
-                owned_by = ROOT
-            }
-            NOT = {
-                has_estate = estate_church
-            }
-            NOT = {
-                devastation = 1
+                AND = {
+                    owned_by = ROOT
+                    has_estate = estate_church
+                    devastation = 1
+                }
             }
         }
         trigger = {

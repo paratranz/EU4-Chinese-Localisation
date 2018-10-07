@@ -33,7 +33,7 @@
         }
     }
     gen_north_india_unite_culture = {
-        icon = mission_have_two_subjects
+        icon = mission_indian_stateman
         required_missions = {}
         trigger = {
             num_accepted_cultures = 2
@@ -53,7 +53,7 @@
         }
     }
     gen_north_india_conquer_delhi = {
-        icon = mission_non-western_soldiers
+        icon = mission_persian_soldiers
         required_missions = {
             gen_north_india_unite_culture
         }
@@ -382,7 +382,15 @@ gen_south_india_2 = {
         provinces_to_highlight = {}
         trigger = {
             grown_by_development = 25
-            num_of_war_reparations = 2
+            if = {
+                limit = {
+                    has_dlc = "Art of War"
+                }
+                num_of_war_reparations = 3
+            }
+            else = {
+                share_of_starting_income = 1.25
+            }
         }
         effect = {
             capital_scope = {
@@ -534,7 +542,7 @@ gen_south_india_2 = {
         }
     }
     gen_south_india_deccan_conquest = {
-        icon = mission_unite_home_region
+        icon = mission_persian_soldiers
         required_missions = {
             gen_south_india_maratha
         }
@@ -684,7 +692,7 @@ gen_hindu = {
         }
     }
     gen_hindu_caste_loyalty = {
-        icon = mission_rice_field
+        icon = mission_ottoman_harem
         required_missions = {
             gen_hindu_temples
         }
@@ -730,7 +738,7 @@ gen_hindu = {
         }
     }
     gen_hindu_education = {
-        icon = mission_buddhist_monk_praying
+        icon = mission_early_modern_university
         required_missions = {
             gen_hindu_caste_loyalty
         }
@@ -747,7 +755,7 @@ gen_hindu = {
         }
     }
     gen_hindu_administration = {
-        icon = mission_monarch_in_throne_room
+        icon = mission_indian_stateman
         required_missions = {
             gen_hindu_education
         }
@@ -942,7 +950,7 @@ gen_indian_muslim = {
         religion_group = muslim
     }
     gen_indian_muslim_harem = {
-        icon = mission_alliances
+        icon = mission_ottoman_harem
         required_missions = {}
         provinces_to_highlight = {}
         trigger = {
@@ -1096,7 +1104,7 @@ gen_indian_muslim = {
         }
     }
     gen_indian_muslim_hajj = {
-        icon = mission_invade_island
+        icon = mission_bedouins
         required_missions = {
             gen_indian_muslim_brahmins_church
         }
@@ -1321,7 +1329,7 @@ gen_indian_sikh = {
         }
     }
     gen_indian_sikh_amritsar = {
-        icon = mission_conquer_50_development
+        icon = mission_central_asian_city
         required_missions = {
             gen_indian_sikh_punjab
         }
@@ -1612,7 +1620,7 @@ gen_north_india_4 = {
         }
     }
     gen_north_india_gujarat_bengal = {
-        icon = mission_galleys_in_port
+        icon = mission_junk_boat
         required_missions = {
             gen_north_india_powerful_subject
         }
@@ -1767,7 +1775,7 @@ gen_south_india_4 = {
         }
     }
     gen_south_india_trade = {
-        icon = mission_sea_battles
+        icon = mission_junk_boat
         required_missions = {
             gen_south_india_navy
         }

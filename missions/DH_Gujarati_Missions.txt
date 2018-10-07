@@ -139,14 +139,19 @@
         completed_by = 1470.1.1
         provinces_to_highlight = {
             OR = {
-                province_id = 400
-                province_id = 503
+                AND = {
+                    OR = {
+                        province_id = 400
+                        province_id = 503
+                        province_id = 504
+                        province_id = 2231
+                        province_id = 2999
+                    }
+                    NOT = {
+                        owned_by = ROOT
+                    }
+                }
                 province_id = 504
-                province_id = 2231
-                province_id = 2999
-            }
-            NOT = {
-                owned_by = ROOT
             }
         }
         trigger = {
@@ -267,6 +272,7 @@ guj_malwa_focus = {
         trigger = {
             2056 = {
                 owned_by = ROOT
+                is_core = ROOT
             }
         }
         effect = {

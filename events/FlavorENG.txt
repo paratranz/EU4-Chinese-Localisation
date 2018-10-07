@@ -83,7 +83,7 @@ country_event = {
                 has_province_flag = lollards
             }
             add_province_modifier = {
-                name = lollards
+                name = "lollards"  # lollards
                 duration = 7300
             }
             clr_province_flag = lollards
@@ -2598,7 +2598,7 @@ country_event = {
         months = 1
     }
     trigger = {
-        has_country_flag = war_of_the_roses_was_had
+        has_country_flag = war_of_the_roses_ended
         OR = {
             dynasty = "约克"  # York
             dynasty = "兰开斯特"  # Lancaster
