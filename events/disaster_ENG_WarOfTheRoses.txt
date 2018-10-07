@@ -61,7 +61,7 @@ country_event = {
                 spawn_rebels = {
                     type = pretender_rebels
                     size = 3
-                    leader = "Richard York"  # Richard York
+                    leader = "理查德 约克"  # Richard York
                     win = yes
                 }
             }
@@ -88,7 +88,7 @@ country_event = {
                 spawn_rebels = {
                     type = pretender_rebels
                     size = 3
-                    leader = "Richard York"  # Richard York
+                    leader = "理查德 约克"  # Richard York
                     win = yes
                 }
             }
@@ -142,7 +142,7 @@ country_event = {
                 spawn_rebels = {
                     type = pretender_rebels
                     size = 3
-                    leader = "Edward Lancaster"  # Edward Lancaster
+                    leader = "爱德华 兰开斯特"  # Edward Lancaster
                 }
             }
             244 = {
@@ -168,7 +168,7 @@ country_event = {
                 spawn_rebels = {
                     type = pretender_rebels
                     size = 3
-                    leader = "Edward Lancaster"  # Edward Lancaster
+                    leader = "爱德华 兰开斯特"  # Edward Lancaster
                 }
             }
         }
@@ -1149,7 +1149,7 @@ country_event = {
         tag = ENG
         has_disaster = war_of_the_roses
         NOT = {
-            dynasty = "York"  # York
+            dynasty = "约克"  # York
         }
         NOT = {
             dynasty = "兰开斯特"  # Lancaster
