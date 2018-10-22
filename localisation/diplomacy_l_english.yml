@@ -115,7 +115,7 @@
  DIP_MAINT_VASSAL:0 "拥有附属国：(§Y$COUNTRY$§W)：§Y-$VAL$§W."
  alert_agreement_fail_instant:0 "§Y一个外交协定将因外交点数不足而失效！§W"
  alert_agreement_fail_delayed:0 "我们与 $LIST$ 的外交协定将因外交点数不足而失败！"
- UPKEEP_EXPLANATION:0 "$CURR$/$ALLOW$外交关系：$COST$"
+ UPKEEP_EXPLANATION:0 "$CURR$/$ALLOW$外交关系：$COST$\n$LIST$"
  UPKEEP_MOD_DESC:0 "我国可维持与$NUM|Y$个国家的外交关系，这归功于："
  DIP_MAINT:0 "$RELATION$：（§Y$COUNTRY$§W）：§Y-$VAL$§W"
  RIVAL_IMPACT_ON_SPY:0 "宿敌：$VAL$\n"
