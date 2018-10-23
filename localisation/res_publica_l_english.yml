@@ -66,7 +66,7 @@
  dutch_republic.12.a:0 "我们知道如何处理。"
  dutch_republic.12.b:0 "接受敌人如此的要求是难以置信的！"
  dutch_republic.13.t:0 "牢不可破的纽带"
- dutch_republic.13.d:0 "[Root.GetName]或许是共和国，但我们仍然通过联姻的血缘关系在与其他国家的关系上保持了足够的力量。即便如此，当权者的统治越不稳定，这些关系就越脆弱。\n\n那些更加支持中央集权统治者的国家现在担心<div style="background-color: #000000"><textarea></textarea></div>与 [Root.GetAdjective]联姻的力量会因为我们国家的世袭传统被废弃。他们希望确保具有影响力的家族保留一些权力。。。包括奥兰治家族。"
+ dutch_republic.13.d:0 "[Root.GetName]或许是共和国，但我们仍然通过联姻的血缘关系在与其他国家的关系上保持了足够的力量。即便如此，当权者的统治越不稳定，这些关系就越脆弱。\n\n那些更加支持中央集权统治者的国家现在担心与[Root.GetAdjective]联姻的力量会因为我们国家的世袭传统被废弃。他们希望确保具有影响力的家族保留一些权力……包括奥兰治家族。"
  dutch_republic.13.a:0 "他们将被时代所抛弃，但我们不会。"
  dutch_republic.13.b:0 "出让一些权力来确保牢靠的关系。"
  dutch_republic.14.d:0 "爱国派成功地使[Root.GetName]的政府机构体系更加共和化，但是有一个机构对改革非常抗拒，那就是军队。和奥兰治家族十分亲密的一位将军破坏了我们试图架空忠于奥兰治家族的高阶将领的努力。\n\n现在，他甚至更进一步，想要他的一位亲戚，同样也是奥兰治派的人，成为[Root.Monarch.GetTitle]的顾问。虽然这个年轻人看起来是个有才华的指挥官，我们不会乐见他取得影响力。"
@@ -559,12 +559,8 @@
  dutch_republic.9.db:0 "[Root.Monarch.GetName]已经建立了决定的统治。在这之前亲王们对[Root.GetName]的统治已经持续很久，所有迹象都表明[Root.Monarch.GetTitle][Root.Monarch.GetHerHis]的统治将维持终生。\n\n$SPYMASTER$，一位 [Root.Monarch.GetHerHis]的密友赞同这个判断。他是一位对国家如此忠诚，以至于如果发现对共和国有威胁的人存在，会毫不犹豫的取他性命的人。最近一次只有少部分人参加的密会中，$SPYMASTER$告知大家[Root.Monarch.GetTitle] [Root.Monarch.GetHerHim]本人以及奥兰治党对权力的把持或许是对共和体制的最大威胁。$SPYMASTER$宣称的终生执政将不会长久。"
  dutch_republic.10.da:0 "奥兰治亲王要求毫无疑问的忠诚。自由选举已成往事，尽管我们国家自诩为共和国。不仅是集权者在质疑 [Root.GetName]共和制度的完整性;这些思想越来越少地被提及。无论我们的 [Root.Monarch.GetTitle]理想多么崇高，我们政府的基石已然消失。"
  dutch_republic.10.db:0 "[Root.GetName]亲王要求毫无疑问的忠诚。自由选举已成往事，尽管我们国家自诩为共和国。不仅是集权者在质疑 [Root.GetName]共和制度的完整性;这些思想越来越少地被提及。无论我们的 [Root.Monarch.GetTitle]理想多么崇高，我们政府的基石已然消失。"
- dutch_republic.13.da:0 "[Root.GetName]或许是共和国，但我们仍然通过联姻的血缘关系在与其他国家的关系上保持了足够的力量。即便如此，当权者的统治越不稳定，这些关系就越脆弱。
-
-那些更加支持中央集权统治者的国家现在担心[Root.GetAdjective]与 [Root.GetAdjective]联姻的力量会因为我们国家的世袭传统被废弃。他们希望确保具有影响力的家族保留一些权力。。。包括奥兰治家族。"
- dutch_republic.13.db:0 "[Root.GetName]或许是共和国，但我们仍然通过联姻的血缘关系在与其他国家的关系上保持了足够的力量。即便如此，当权者的统治越不稳定，这些关系就越脆弱。
-
-那些更加支持中央集权统治者的国家现在担心[Root.GetAdjective]与 [Root.GetAdjective]联姻的力量会因为我们国家的世袭传统被废弃。他们希望确保具有影响力的家族保留一些权力。。。包括[Root.Monarch.Dynasty.GetName]家族。"
+ dutch_republic.13.da:0 "[Root.GetName]或许是共和国，但我们仍然通过联姻的血缘关系在与其他国家的关系上保持了足够的力量。即便如此，当权者的统治越不稳定，这些关系就越脆弱。\n\n那些更加支持中央集权统治者的国家现在担心与[Root.GetAdjective]联姻的力量会因为我们国家的世袭传统被废弃。他们希望确保具有影响力的家族保留一些权力……包括奥兰治家族。"
+ dutch_republic.13.db:0 "[Root.GetName]或许是共和国，但我们仍然通过联姻的血缘关系在与其他国家的关系上保持了足够的力量。即便如此，当权者的统治越不稳定，这些关系就越脆弱。\n\n那些更加支持中央集权统治者的国家现在担心与[Root.GetAdjective]联姻的力量会因为我们国家的世袭传统被废弃。他们希望确保具有影响力的家族保留一些权力……包括[Root.Monarch.Dynasty.GetName]家族。"
  dutch_republic.14.t:1 "陆军中的贵族团体"
  dutch_republic.14.da:0 "爱国派成功地使[Root.GetName]的政府机构体系更加共和化，但是有一个机构对改革非常抗拒，那就是军队。和奥兰治家族十分亲密的一位将军破坏了我们试图架空忠于奥兰治家族的高阶将领的努力。\n\n现在，他甚至更进一步，想要他的一位亲戚，同样也是奥兰治派的人，成为[Root.Monarch.GetTitle]的顾问。虽然这个年轻人看起来是个有才华的指挥官，我们不会乐见他取得影响力。"
  dutch_republic.14.db:0 "爱国派成功地使[Root.GetName]的政府机构体系更加共和化，但是有一个机构对改革非常抗拒，那就是军队。和[Root.Monarch.Dynasty.GetName]家族十分亲密的一位将军破坏了我们试图架空忠于[Monarch.Dynasty.GetName]家族的高阶将领的努力。\n\n现在，他甚至更进一步，想要他的一位亲戚，同样也是君主派的人，成为[Root.Monarch.GetTitle]的顾问。虽然这个年轻人看起来是个有才华的指挥官，我们不会乐见他取得影响力。"
