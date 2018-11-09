@@ -23,27 +23,27 @@ army_names = {
     "第六凯旋军团"  # Legio VI Victrix
     "第七费拉塔军团"  # Legio VII Ferrata
     "第八奥古斯塔军团"  # Legio VIII Augusta
-    "Legio IX Triumphalis"  # Legio IX Triumphalis
+    "第九凯旋军团"  # Legio IX Triumphalis
     "第十意大利加军团"  # Legio X Italica
     "第十一马其顿军团"  # Legio XI Macedonica
     "第十二弥涅耳瓦军团"  # Legio XII Minervia
     "第十三雷电军团"  # Legio XIII Fulminata
     "第十四弗雷腾西斯军团"  # Legio XIV Fretensis
-    "Legio XV Primigenia"  # Legio XV Primigenia
+    "第十五原始军团"  # Legio XV Primigenia
     "第十六克劳迪亚军团"  # Legio XVI Claudia
-    "Legio XX Scythica"  # Legio XX Scythica
+    "第二十斯基泰军团"  # Legio XX Scythica
 }
 fleet_names = {
     "亚历山德里娜"  # Classis Alexandrina
-    "Classis Seleucena"  # Classis Seleucena
+    "塞琉西纳"  # Classis Seleucena
     "卡帕提亚"  # Classis Carpathia
-    "Classis Venetum"  # Classis Venetum
-    "Classis Constantinopolis"  # Classis Constantinopolis
-    "Classis Roma"  # Classis Roma
+    "威尼托"  # Classis Venetum
+    "君士坦丁堡"  # Classis Constantinopolis
+    "罗马"  # Classis Roma
     "阿德里安波利斯"  # Classis Adrianopolis
-    "Classis Atlanticum"  # Classis Atlanticum
-    "Classis Mediterraneus"  # Classis Mediterraneus
-    "Classis Euxeinos Pontos"  # Classis Euxeinos Pontos
+    "大西洋"  # Classis Atlanticum
+    "地中海"  # Classis Mediterraneus
+    "攸克辛海"  # Classis Euxeinos Pontos
 }
 leader_names = {
     "巴西尔"  # Basileios
@@ -126,22 +126,22 @@ leader_names = {
     "利昂提乌斯"  # Leontios
     "菲利皮科斯"  # Philippikos
     "狄奥多西"  # Theodosios
-    "阿塔瓦斯多斯"  # Artavasdos
+    "阿尔塔瓦斯多斯"  # Artavasdos
     "伊琳娜"  # Eirene
     "尼基弗鲁斯"  # Nikephoros
     "斯陶拉基奥斯"  # Stavrakios
-    "迈克尔"  # Michael
+    "米海尔"  # Michael
     "狄奥菲洛斯"  # Theophilos
-    "阿德里安"  # Adrianos
+    "阿德里亚诺斯"  # Adrianos
     "阿卡基奥斯"  # Akakios
     "亚历山大"  # Alexandros
     "阿莱克修斯"  # Alexios
     "安纳托里奥斯"  # Anatolios
-    "安德利亚斯"  # Andreas
+    "安德烈亚斯"  # Andreas
     "安德罗尼库斯"  # Andronikos
     "安塞米奥斯"  # Anthemios
     "安提莫斯"  # Anthimos
-    "安提奥科斯"  # Antiochos
+    "安提俄克斯"  # Antiochos
     "安东尼奥斯"  # Antonios
     "阿波罗尼奥斯"  # Apollonios
     "阿塞尼奥斯"  # Arsenios
@@ -197,7 +197,7 @@ leader_names = {
     "卡里尼科斯"  # Kallinikos
     "卡里斯托斯"  # Kallistos
     "科米塔斯"  # Komitas
-    "君士坦提乌斯"  # Konstantios
+    "君士坦提奥斯"  # Konstantios
     "科斯马斯"  # Kosmas
     "凯利亚科斯"  # Kyriakos
     "凯利洛斯"  # Kyrillos
@@ -215,7 +215,7 @@ leader_names = {
     "梅索迪奥斯"  # Methodios
     "纳尔西斯"  # Narses
     "尼奥菲托斯"  # Neophytos
-    "尼克塔斯"  # Niketas
+    "尼基塔斯"  # Niketas
     "尼科德莫斯"  # Nikodemos
     "尼科劳斯"  # Nikolaos
     "尼丰"  # Niphon
@@ -223,12 +223,12 @@ leader_names = {
     "帕菲里奥斯"  # Pamphilios
     "潘克拉提奥斯"  # Pankratios
     "潘托莱昂"  # Pantoleon
-    "帕斯加"  # Paschalis
+    "巴斯加"  # Paschalis
     "帕夫洛斯"  # Pavlos
-    "Pelagios"  # Pelagios
-    "裴特若"  # Petros
+    "佩拉吉奥斯"  # Pelagios
+    "佩特罗斯"  # Petros
     "菲拉雷托斯"  # Philaretos
-    "腓力"  # Philippos
+    "菲利波斯"  # Philippos
     "菲洛修斯"  # Philotheos
     "佛提奥斯"  # Photios
     "颇利卡尔普"  # Polykarpos
@@ -237,25 +237,25 @@ leader_names = {
     "皮洛士"  # Pyrros
     "拉斐尔"  # Raphail
     "罗曼诺斯"  # Romanos
-    "Sabas"  # Sabas
-    "Samuel"  # Samuel
-    "Serapion"  # Serapion
-    "Sebastianos"  # Sebastianos
-    "Sergios"  # Sergios
-    "Stephanos"  # Stephanos
-    "Staurakios"  # Staurakios
-    "Symeon"  # Symeon
-    "Symmachos"  # Symmachos
-    "Theocharistos"  # Theocharistos
+    "萨巴斯"  # Sabas
+    "萨穆埃尔"  # Samuel
+    "谢拉皮翁"  # Serapion
+    "塞巴斯蒂亚诺斯"  # Sebastianos
+    "塞尔吉奥斯"  # Sergios
+    "斯特凡诺斯"  # Stephanos
+    "斯陶拉基奥斯"  # Staurakios
+    "赛米恩"  # Symeon
+    "席马科斯"  # Symmachos
+    "狄奥查理斯托斯"  # Theocharistos
     "狄奥多罗斯"  # Theodoros
-    "Theodotos"  # Theodotos
-    "Theodoulos"  # Theodoulos
-    "Theoktistos"  # Theoktistos
-    "Theophanes"  # Theophanes
-    "Theophylaktos"  # Theophylaktos
+    "狄奥多托斯"  # Theodotos
+    "狄奥多洛斯"  # Theodoulos
+    "狄奥克提斯托斯"  # Theoktistos
+    "狄奥凡内斯"  # Theophanes
+    "狄奥菲拉克托斯"  # Theophylaktos
     "托马斯"  # Thomas
-    "Traianos"  # Traianos
-    "Timotheos"  # Timotheos
+    "特拉伊诺斯"  # Traianos
+    "提莫修斯"  # Timotheos
     "特里丰"  # Tryphon
     "瓦莱里奥斯"  # Valerios
     "撒迦利亚"  # Zacharias
@@ -311,12 +311,12 @@ monarch_names = {
     "弗洛里安 #1" = 0
     "普罗布斯 #1" = 0
     "卡鲁斯 #1" = 0
-    "Numerian #1" = 0
-    "Carinus #1" = 0
-    "Diocletian #1" = 0
-    "Constantius #3" = 0
-    "Galerius #1" = 0
-    "Licinius #1" = 0
+    "努梅里安 #1" = 0
+    "卡里努斯 #1" = 0
+    "戴克里先 #1" = 0
+    "君士坦提乌斯 #3" = 0
+    "伽列里乌斯 #1" = 0
+    "李锡尼 #1" = 0
     "君士坦丁 #2" = 0
     "君士坦斯 #1" = 0
     "约维安 #1" = 0
@@ -326,43 +326,42 @@ monarch_names = {
     "狄奥多西 #2" = 0
     "阿卡狄乌斯 #1" = 0
     "霍诺留 #1" = 0
-    "Pulcheria #1" = -1
-    "Marcian #1" = 0
-    "Zenon #1" = 0
-    "Basiliskos #1" = 0
-    "Anastasios #2" = 0
-    "Ioustinos #2" = 0
-    "Ioustinianos #2" = 0
-    "Tiberios #2" = 0
-    "Maurikios #1" = 0
-    "Phokas #1" = 0
-    "Herakleios #1" = 0
-    "Herakleonas #1" = 0
-    "Konstas #1" = 0
-    "Leontios #1" = 0
-    "Philippikos #1" = 0
-    "Theodosios #1" = 0
-    "Artavasdos #1" = 0
-    "Eirene #1" = -1
-    "Nikephoros #1" = 0
-    "Stavrakios #1" = 0
-    "Michael #3" = 0
-    "Theophilos #1" = 0
-    "Adrianos #0" = 0
-    "Akakios #0" = 0
-    "Alexandros #0" = 0
-    "Alexios #0" = 0
-    "Anatolios #0" = 0
-    "Andreas #0" = 0
+    "普尔喀丽娅 #1" = -1
+    "马尔西安 #1" = 0
+    "芝诺 #1" = 0
+    "瓦西里斯科斯 #1" = 0
+    "阿纳斯塔修斯 #2" = 0
+    "查士丁 #2" = 0
+    "查士丁尼 #2" = 0
+    "提比略 #2" = 0
+    "莫里斯 #1" = 0
+    "福卡斯 #1" = 0
+    "希拉克略 #1" = 0
+    "赫拉克洛纳斯 #1" = 0
+    "利昂提乌斯 #1" = 0
+    "菲利皮科斯 #1" = 0
+    "狄奥多西 #1" = 0
+    "阿尔塔瓦斯多斯 #1" = 0
+    "伊琳娜 #1" = -1
+    "尼基弗鲁斯 #1" = 0
+    "斯陶拉基奥斯 #1" = 0
+    "米海尔 #3" = 0
+    "狄奥菲洛斯 #1" = 0
+    "阿德里亚诺斯 #0" = 0
+    "阿卡基奥斯 #0" = 0
+    "亚历山德罗斯 #0" = 0
+    "阿莱克修斯 #0" = 0
+    "安纳托里奥斯 #0" = 0
+    "安德烈亚斯 #0" = 0
     "安德罗尼库斯 #0" = 0
-    "Anthemios #0" = 0
-    "Anthimos #0" = 0
-    "Antiochos #0" = 0
-    "Antonios #0" = 0
-    "Apollonios #0" = 0
-    "Arsenios #0" = 0
-    "Artemios #0" = 0
-    "Athanasios #0" = 0
+    "安塞米奥斯 #0" = 0
+    "安提莫斯 #0" = 0
+    "安提俄克斯 #0" = 0
+    "安东尼奥斯 #0" = 0
+    "阿波罗尼奥斯 #0" = 0
+    "阿塞尼奥斯 #0" = 0
+    "阿特米奥斯 #0" = 0
+    "阿塔纳修斯 #0" = 0
     "巴尔托洛迈奥斯 #0" = 0
     "贝利撒里奥斯 #0" = 0
     "博伊狄欧斯 #0" = 0
@@ -413,56 +412,56 @@ monarch_names = {
     "卡里尼科斯 #0" = 0
     "卡里斯托斯 #0" = 0
     "科米塔斯 #0" = 0
-    "Konstantios #0" = 0
-    "Kosmas #0" = 0
-    "Kyriakos #0" = 0
-    "Kyrillos #0" = 0
-    "Kyros #0" = 0
-    "Laurentios #0" = 0
-    "Lazaros #0" = 0
-    "Loukas #0" = 0
-    "Makarios #0" = 0
-    "Manuel #0" = 0
-    "Markos #0" = 0
-    "Matthaios #0" = 0
-    "Maximos #0" = 0
-    "Megistos #0" = 0
-    "Meletios #0" = 0
-    "Methodios #0" = 0
-    "Narses #0" = 0
-    "Neophytos #0" = 0
-    "Niketas #0" = 0
-    "Nikodemos #0" = 0
-    "Nikolaos #0" = 0
-    "Niphon #0" = 0
-    "Orestes #0" = 0
-    "Pamphilios #0" = 0
-    "Pankratios #0" = 0
-    "Pantoleon #0" = 0
-    "Paschalis #0" = 0
-    "Pavlos #0" = 0
-    "Pelagios #0" = 0
-    "Petros #0" = 0
-    "Philaretos #0" = 0
-    "Philippos #0" = 0
-    "Philotheos #0" = 0
-    "Photios #0" = 0
-    "Polykarpos #0" = 0
-    "Porphyrios #0" = 0
-    "Prokopios #0" = 0
-    "Pyrros #0" = 0
-    "Raphail #0" = 0
-    "Romanos #0" = 0
-    "Sabas #0" = 0
-    "Samuel #0" = 0
-    "Serapion #0" = 0
-    "Sebastianos #0" = 0
-    "Sergios #0" = 0
-    "Stephanos #0" = 0
-    "Staurakios #0" = 0
-    "Symeon #0" = 0
-    "Symmachos #0" = 0
-    "Theocharistos #0" = 0
+    "君士坦提奥斯 #0" = 0
+    "科斯马斯 #0" = 0
+    "凯利亚科斯 #0" = 0
+    "凯利洛斯 #0" = 0
+    "凯罗斯 #0" = 0
+    "劳伦提奥斯 #0" = 0
+    "拉萨罗斯 #0" = 0
+    "卢卡斯 #0" = 0
+    "马卡里奥斯 #0" = 0
+    "曼努埃尔 #0" = 0
+    "马科斯 #0" = 0
+    "马太奥斯 #0" = 0
+    "马克西莫斯 #0" = 0
+    "梅吉斯托斯 #0" = 0
+    "梅莱提奥斯 #0" = 0
+    "梅索迪奥斯 #0" = 0
+    "纳尔西斯 #0" = 0
+    "尼奥菲托斯 #0" = 0
+    "尼基塔斯 #0" = 0
+    "尼科德莫斯 #0" = 0
+    "尼科劳斯 #0" = 0
+    "尼丰 #0" = 0
+    "奥雷斯特斯 #0" = 0
+    "帕菲里奥斯 #0" = 0
+    "潘克拉提奥斯 #0" = 0
+    "潘托莱昂 #0" = 0
+    "巴斯加 #0" = 0
+    "帕夫洛斯 #0" = 0
+    "佩拉吉奥斯 #0" = 0
+    "佩特罗斯 #0" = 0
+    "菲拉雷托斯 #0" = 0
+    "菲利波斯 #0" = 0
+    "菲洛修斯 #0" = 0
+    "佛提奥斯 #0" = 0
+    "波莱卡波斯 #0" = 0
+    "波菲琉斯 #0" = 0
+    "普罗科皮奥斯 #0" = 0
+    "皮洛士 #0" = 0
+    "拉斐尔 #0" = 0
+    "罗曼诺斯 #0" = 0
+    "萨巴斯 #0" = 0
+    "萨缪埃尔 #0" = 0
+    "谢拉皮翁 #0" = 0
+    "塞巴斯蒂亚诺斯 #0" = 0
+    "塞尔吉奥斯 #0" = 0
+    "斯特凡诺斯 #0" = 0
+    "斯陶拉基奥斯 #0" = 0
+    "赛米恩 #0" = 0
+    "席马科斯 #0" = 0
+    "狄奥查理斯托斯 #0" = 0
     "狄奥多罗斯 #0" = 0
     "狄奥多托斯 #0" = 0
     "狄奥多洛斯 #0" = 0
@@ -478,25 +477,25 @@ monarch_names = {
     "齐诺比奥斯 #0" = 0
 }
 ship_names = {
-    "Abundantia"  # Abundantia
-    "Acca Larentia"  # Acca Larentia
-    "Acis"  # Acis
-    "Aerecura"  # Aerecura
-    "Aequitas"  # Aequitas
-    "Aesculapius"  # Aesculapius
-    "Aeternitas"  # Aeternitas
-    "Aeon"  # Aeon
-    "Aius Locutius"  # Aius Locutius
-    "Alernus"  # Alernus
-    "Angerona"  # Angerona
-    "Angitia"  # Angitia
-    "Anna Perenna"  # Anna Perenna
-    "Annona"  # Annona
-    "Antevorta"  # Antevorta
-    "Apollo"  # Apollo
-    "Arimanius"  # Arimanius
-    "Aura"  # Aura
-    "Aurora"  # Aurora
+    "阿布恩丹提亚"  # Abundantia
+    "阿卡 劳伦缇雅"  # Acca Larentia
+    "阿西斯"  # Acis
+    "阿瑞库拉"  # Aerecura
+    "公平者"  # Aequitas
+    "阿斯克勒庇俄斯"  # Aesculapius
+    "艾德涅塔"  # Aeternitas
+    "永恒生命"  # Aeon
+    "阿尤斯·罗库提乌斯"  # Aius Locutius
+    "赫勒纽斯"  # Alernus
+    "安居罗娜"  # Angerona
+    "安吉提亚"  # Angitia
+    "安娜 佩壬娜"  # Anna Perenna
+    "安诺娜"  # Annona
+    "安特沃尔塔"  # Antevorta
+    "阿波罗"  # Apollo
+    "安利曼纽斯"  # Arimanius
+    "奥拉"  # Aura
+    "欧若拉"  # Aurora
     "Averruncus"  # Averruncus
     "Bacchus"  # Bacchus
     "Bellona"  # Bellona
