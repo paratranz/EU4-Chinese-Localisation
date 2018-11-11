@@ -28,15 +28,9 @@ historical_units = {
     persian_rifle
 }
 monarch_names = {
-    "易卜拉欣 #0 穆罕默德" = 20
-    "易卜拉欣 #0" = 20
     "Farrukhsiyar Khalil #0" = 60
     "Bahram Farrukhsiyar #0" = 40
     "Ghazi Farrukhsiyar #0" = 20
-    "伊斯迈尔 #0" = 10
-    "塔赫玛斯普 #0" = 10
-    "朱奈德 #0" = 10
-    "法鲁赫 #0" = 10
     "Khalilullah #0" = 10
     "Adila #0" = -3
     "Malahat #0" = -3
@@ -51,140 +45,146 @@ monarch_names = {
     "Gunish #0" = -1
     "Pari #0" = -1
     "Khair #0" = -1
-    "沙阿 #0" = -1
     "Farangis #0" = -1
     "Mahin Banu #0" = -1
     "Tajlu #0" = -1
     "Gowhar #0" = -1
     "Zainab #0" = -1
     "Fatemeh #0" = -1
+    "易卜拉欣 #0 穆罕默德" = 20   # Ibrahim #0 Muhammad
+    "易卜拉欣 #0" = 20   # Ibrahim #0
+    "伊斯玛仪 #0" = 10   # Ismail #0
+    "塔赫玛斯普 #0" = 10   # Tahmasp #0
+    "朱奈德 #0" = 10   # Junayd #0
+    "法鲁赫 #0" = 10   # Farrukh #0
+    "沙阿 #0" = -1   # Shah #0
 }
 leader_names = {
-    "Sabiri"  # Sabiri
-    "Jalili"  # Jalili
-    "Azizi"  # Azizi
-    "Shahy"  # Shahy
-    "Daei"  # Daei
-    "Qazai"  # Qazai
-    "Dalwand"  # Dalwand
-    "Ahrari"  # Ahrari
-    "Fatemi"  # Fatemi
-    "Sabet"  # Sabet
-    "Ansari"  # Ansari
+    "Sabiri"
+    "Jalili"
+    "Azizi"
+    "Shahy"
+    "Daei"
+    "Qazai"
+    "Dalwand"
+    "Ahrari"
+    "Fatemi"
+    "Sabet"
+    "Ansari"
 }
 ship_names = {
-    "Baku"  # Baku
-    "Abathur"  # Abathur
-    "Adamn Kasia"  # Adamn Kasia
-    "Aesma Daeva"  # Aesma Daeva
-    "Agas"  # Agas
-    "Ahriman"  # Ahriman
-    "Ahura"  # Ahura
-    "Ahura Mazda"  # Ahura Mazda
-    "Ahurani"  # Ahurani
-    "Airyaman"  # Airyaman
-    "Aka Manah"  # Aka Manah
-    "Aladdin"  # Aladdin
-    "Allatum"  # Allatum
-    "Amashaspan"  # Amashaspan
-    "Ameratat"  # Ameratat
-    "Amesha Spentas"  # Amesha Spentas
-    "Anahita"  # Anahita
-    "Angra Mainyu"  # Angra Mainyu
-    "Anjuman"  # Anjuman
-    "Apam-natat"  # Apam-natat
-    "Apaosa"  # Apaosa
-    "Aredvi"  # Aredvi
-    "Arishtat"  # Arishtat
-    "Armaiti"  # Armaiti
-    "Arsaces"  # Arsaces
-    "Asha vahista"  # Asha vahista
-    "Asman"  # Asman
-    "Asto Vidatu"  # Asto Vidatu
-    "Astvat-Ereta"  # Astvat-Ereta
-    "Atar"  # Atar
-    "Azi Dahaka"  # Azi Dahaka
-    "Baga"  # Baga
-    "Bahram"  # Bahram
-    "Burijas"  # Burijas
-    "Bushyasta"  # Bushyasta
-    "Buyasta"  # Buyasta
-    "Camros"  # Camros
-    "Daena"  # Daena
-    "Daevas"  # Daevas
-    "Ahaka"  # Ahaka
-    "Dahhak"  # Dahhak
-    "Dena"  # Dena
-    "Dev"  # Dev
-    "Diwe"  # Diwe
-    "Drug"  # Drug
-    "Drvaspa"  # Drvaspa
-    "Frashegird"  # Frashegird
-    "Fravashis"  # Fravashis
-    "Gandarewa"  # Gandarewa
-    "Gao-kerena"  # Gao-kerena
-    "Gayomard"  # Gayomard
-    "Gayomart"  # Gayomart
-    "Geus-Tasan"  # Geus-Tasan
-    "Geus-Urvan"  # Geus-Urvan
-    "Haoma"  # Haoma
-    "Haurvatat"  # Haurvatat
-    "Humay"  # Humay
-    "Hvar"  # Hvar
-    "Hvarekhshaeta"  # Hvarekhshaeta
-    "Indar"  # Indar
-    "Indra"  # Indra
-    "Izha"  # Izha
-    "Jamshid"  # Jamshid
-    "Jeh"  # Jeh
-    "Karshipta"  # Karshipta
-    "Kavi"  # Kavi
-    "Khara"  # Khara
-    "Khshathra vairya"  # Khshathra vairya
-    "Kundrav"  # Kundrav
-    "Mah"  # Mah
-    "Mahre"  # Mahre
-    "Mahrianag"  # Mahrianag
-    "Manu"  # Manu
-    "Manuchihir"  # Manuchihir
-    "Mao"  # Mao
-    "Mashyane"  # Mashyane
-    "Mashye"  # Mashye
-    "Menog"  # Menog
-    "Mithra"  # Mithra
-    "Nairyosangha"  # Nairyosangha
-    "Nanghaithya"  # Nanghaithya
-    "Neriosang"  # Neriosang
-    "Ormazd"  # Ormazd
-    "Peris"  # Peris
-    "Peshdadians"  # Peshdadians
-    "Rapithwin"  # Rapithwin
-    "Rashnu"  # Rashnu
-    "Rustam"  # Rustam
-    "Saurva"  # Saurva
-    "Simurgh"  # Simurgh
-    "Spenta Mainyu"  # Spenta Mainyu
-    "Sraosa"  # Sraosa
-    "Srosh"  # Srosh
-    "Tawrich"  # Tawrich
-    "Thunaupa"  # Thunaupa
-    "Tistrya"  # Tistrya
-    "Tushnamatay"  # Tushnamatay
-    "Vanant"  # Vanant
-    "Vata"  # Vata
-    "Verethragna"  # Verethragna
-    "Vohu Manah"  # Vohu Manah
-    "Vouruskasha"  # Vouruskasha
-    "Yam"  # Yam
-    "Yasht"  # Yasht
-    "Yazata"  # Yazata
-    "Yezidi"  # Yezidi
-    "Yima"  # Yima
-    "Zal"  # Zal
-    "Zam"  # Zam
-    "Zam-Armatay"  # Zam-Armatay
-    "Zarathustra"  # Zarathustra
-    "Zarich"  # Zarich
-    "Zend-Avesta"  # Zend-Avesta
-    "Zurvan"  # Zurvan
+    "Baku"
+    "Abathur"
+    "Adamn Kasia"
+    "Aesma Daeva"
+    "Agas"
+    "Ahriman"
+    "Ahura"
+    "Ahura Mazda"
+    "Ahurani"
+    "Airyaman"
+    "Aka Manah"
+    "Aladdin"
+    "Allatum"
+    "Amashaspan"
+    "Ameratat"
+    "Amesha Spentas"
+    "Anahita"
+    "Angra Mainyu"
+    "Anjuman"
+    "Apam-natat"
+    "Apaosa"
+    "Aredvi"
+    "Arishtat"
+    "Armaiti"
+    "Arsaces"
+    "Asha vahista"
+    "Asman"
+    "Asto Vidatu"
+    "Astvat-Ereta"
+    "Atar"
+    "Azi Dahaka"
+    "Baga"
+    "Bahram"
+    "Burijas"
+    "Bushyasta"
+    "Buyasta"
+    "Camros"
+    "Daena"
+    "Daevas"
+    "Ahaka"
+    "Dahhak"
+    "Dena"
+    "Dev"
+    "Diwe"
+    "Drug"
+    "Drvaspa"
+    "Frashegird"
+    "Fravashis"
+    "Gandarewa"
+    "Gao-kerena"
+    "Gayomard"
+    "Gayomart"
+    "Geus-Tasan"
+    "Geus-Urvan"
+    "Haoma"
+    "Haurvatat"
+    "Humay"
+    "Hvar"
+    "Hvarekhshaeta"
+    "Indar"
+    "Indra"
+    "Izha"
+    "Jamshid"
+    "Jeh"
+    "Karshipta"
+    "Kavi"
+    "Khara"
+    "Khshathra vairya"
+    "Kundrav"
+    "Mah"
+    "Mahre"
+    "Mahrianag"
+    "Manu"
+    "Manuchihir"
+    "Mao"
+    "Mashyane"
+    "Mashye"
+    "Menog"
+    "Mithra"
+    "Nairyosangha"
+    "Nanghaithya"
+    "Neriosang"
+    "Ormazd"
+    "Peris"
+    "Peshdadians"
+    "Rapithwin"
+    "Rashnu"
+    "Rustam"
+    "Saurva"
+    "Simurgh"
+    "Spenta Mainyu"
+    "Sraosa"
+    "Srosh"
+    "Tawrich"
+    "Thunaupa"
+    "Tistrya"
+    "Tushnamatay"
+    "Vanant"
+    "Vata"
+    "Verethragna"
+    "Vohu Manah"
+    "Vouruskasha"
+    "Yam"
+    "Yasht"
+    "Yazata"
+    "Yezidi"
+    "Yima"
+    "Zal"
+    "Zam"
+    "Zam-Armatay"
+    "Zarathustra"
+    "Zarich"
+    "Zend-Avesta"
+    "Zurvan"
 }
