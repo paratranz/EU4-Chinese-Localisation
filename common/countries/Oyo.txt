@@ -29,10 +29,7 @@ historical_units = {
 }
 monarch_names = {
     "Oranyan #0" = 20
-    "桑格 #0" = 20
-    "阿阇迦 #0" = 20
     "Aganju #0" = 20
-    "卡利 #0" = 20
     "Oluaso #0" = 20
     "Onigbogi #0" = 20
     "Ofinran #0" = 20
@@ -65,7 +62,6 @@ monarch_names = {
     "Ganye Hessu #0" = 0
     "Wegbaja #0" = 0
     "Akaba #0" = 0
-    "Agaja #0" = 0
     "Tegbesu #0" = 0
     "Kpengla #0" = 0
     "Anonglo #0" = 0
@@ -77,29 +73,33 @@ monarch_names = {
     "Isi #0" = -1
     "Erinwide #0" = -1
     "Aruigba-Ifá #0" = -1
+    "桑格 #0" = 20  # Sango #0
+    "阿阇迦 #0" = 20  # Ajaka #0
+    "卡利 #0" = 20  # Kari #0
+    "阿加扎 #0" = 0  # Agaja #0
 }
 leader_names = {
     "乌巴"  # Ubah
-    "Umaru"  # Umaru
-    "Aliu"  # Aliu
-    "Solaja"  # Solaja
-    "Okara"  # Okara
-    "Ajuwa"  # Ajuwa
-    "Ezinwa"  # Ezinwa
+    "Umaru"
+    "Aliu"
+    "Solaja"
+    "Okara"
+    "Ajuwa"
+    "Ezinwa"
     "卡努"  # Kanu
-    "Opara"  # Opara
-    "Rufai"  # Rufai
+    "Opara"
+    "Rufai"
 }
 ship_names = {
-    "Oranyan"  # Oranyan
+    "Oranyan"
     "阿阇迦"  # Ajaka
     "桑格"  # Sango
     "奥约"  # Oyo-Ille
-    "Oduduwa"  # Oduduwa
+    "Oduduwa"
     "奥伦 奥洛都马尔"  # Olorun Olodumare
-    "Ille-Ife"  # Ille-Ife
-    "Odudua"  # Odudua
-    "Obatala"  # Obatala
-    "O'odua"  # O'odua
-    "Ile n'fe"  # Ile n'fe
+    "Ille-Ife"
+    "Odudua"
+    "Obatala"
+    "O'odua"
+    "Ile n'fe"
 }
