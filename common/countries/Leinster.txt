@@ -31,58 +31,52 @@ historical_units = {
     napoleonic_lancers
 }
 leader_names = {
-    "Caomhanach"  # Caomhanach
-    "Conchobhair"  # Conchobhair
-    "Mac Amhalghaidh"  # Mac Amhalghaidh
-    "Mac an tSionnaigh"  # Mac an tSionnaigh
-    "Mac Cochláin"  # Mac Cochláin
-    "Mac Coibheanaigh"  # Mac Coibheanaigh
-    "Mac Conshnámha"  # Mac Conshnámha
-    "Mac Fhlannchaidh"  # Mac Fhlannchaidh
-    "Mac Fionbhair"  # Mac Fionbhair
-    "Mac Giolla Phadraig"  # Mac Giolla Phadraig
-    "Mac Raghnaill"  # Mac Raghnaill
-    "Mac Tighearnáin"  # Mac Tighearnáin
-    "Mag Eochagáin"  # Mag Eochagáin
-    "Ó hAimheirgin"  # Ó hAimheirgin
-    "Ó Braoin"  # Ó Braoin
-    "Ó Cairbre"  # Ó Cairbre
-    "Ó Caoindealbháin"  # Ó Caoindealbháin
-    "Ó Catharnaigh"  # Ó Catharnaigh
-    "Ó Ceallaigh"  # Ó Ceallaigh
-    "Ó Ciardha"  # Ó Ciardha
-    "Ó Cearbhaill"  # Ó Cearbhaill
-    "Ó Comhraidhe"  # Ó Comhraidhe
-    "Ó Congalaig"  # Ó Congalaig
-    "Ó Cosraigh"  # Ó Cosraigh
-    "Ó Diubhgeannáin"  # Ó Diubhgeannáin
-    "Ó Doinn"  # Ó Doinn
-    "Ó Donnchadha"  # Ó Donnchadha
-    "Ó Dubhghaill"  # Ó Dubhghaill
-    "Ó Dubhuidhe"  # Ó Dubhuidhe
-    "Ó Faolain"  # Ó Faolain
-    "Ó Fhearghaill"  # Ó Fhearghaill
-    "Ó Fionnaláin"  # Ó Fionnaláin
-    "Ó Finntighearn"  # Ó Finntighearn
-    "Ó hAonghusa"  # Ó hAonghusa
-    "Ó Lorcáin"  # Ó Lorcáin
-    "Ó Maolmhuaidh"  # Ó Maolmhuaidh
-    "Ó Ruairc"  # Ó Ruairc
-    "Ó Seaghdha"  # Ó Seaghdha
-    "Ó Seanáin"  # Ó Seanáin
-    "Ó Tuathail"  # Ó Tuathail
+    "Caomhanach"
+    "康乔沃尔"  # Conchobhair
+    "Mac Amhalghaidh"
+    "Mac an tSionnaigh"
+    "Mac Cochláin"
+    "Mac Coibheanaigh"
+    "Mac Conshnámha"
+    "Mac Fhlannchaidh"
+    "Mac Fionbhair"
+    "Mac Giolla Phadraig"
+    "Mac Raghnaill"
+    "Mac Tighearnáin"
+    "Mag Eochagáin"
+    "Ó hAimheirgin"
+    "Ó Braoin"
+    "Ó Cairbre"
+    "Ó Caoindealbháin"
+    "Ó Catharnaigh"
+    "Ó Ceallaigh"
+    "Ó Ciardha"
+    "Ó Cearbhaill"
+    "Ó Comhraidhe"
+    "Ó Congalaig"
+    "Ó Cosraigh"
+    "Ó Diubhgeannáin"
+    "Ó Doinn"
+    "Ó Donnchadha"
+    "Ó Dubhghaill"
+    "Ó Dubhuidhe"
+    "Ó Faolain"
+    "Ó Fhearghaill"
+    "Ó Fionnaláin"
+    "Ó Finntighearn"
+    "Ó hAonghusa"
+    "Ó Lorcáin"
+    "Ó Maolmhuaidh"
+    "Ó Ruairc"
+    "Ó Seaghdha"
+    "Ó Seanáin"
+    "Ó Tuathail"
 }
 monarch_names = {
     "Donal #7" = 40
     "Muchadh #3" = 40
     "Art #1" = 40
-    "Cathaoir #0" = 40
-    "Gearóid #1" = 20
-    "Muiris #1" = 20
-    "Muireadhach #1" = 20
-    "Criomhthann #0" = 20
     "Diarmaid #5" = 1
-    "Donnchad #5" = 1
     "Ádhamh #0" = 0
     "Cadwgwan #0" = 0
     "Caoimhín #0" = 0
@@ -91,43 +85,49 @@ monarch_names = {
     "Dougal #0" = 0
     "Fionnlagh #0" = 0
     "Garbhán #0" = 0
-    "Lachtna #0" = 0
     "Lorccán #0" = 0
     "Mainchín #0" = 0
     "Mathúin #0" = 0
     "Meallán #0" = 0
     "Naomhán #0" = 0
-    "Niall #0" = 0
     "Odhrán #0" = 0
-    "Pádraig #0" = 0
-    "Quinn #0" = 0
     "Riain #0" = 0
     "Ríoghnán #0" = 0
     "Rórdan #0" = 0
     "Ruaidhrí #0" = 0
-    "Ruarc #0" = 0
     "Séaghdhá #0" = 0
     "Seanán #0" = 0
     "Sechnall #0" = 0
-    "Tighearnach #0" = 0
-    "Tuathal #0" = 0
-    "Uilliam #0" = 0
     "Uinseann #0" = 0
     "Neassa #0" = -1
     "Rosheen #0" = -1
     "Siofra #0" = -1
+    "卡齐尔 #0" = 40  # Cathaoir #0
+    "盖劳伊德 #1" = 20  # Gearóid #1
+    "米里斯 #1" = 20  # Muiris #1
+    "米雷查奇 #1" = 20  # Muireadhach #1
+    "克里姆赫钱恩 #0" = 20  # Criomhthann #0
+    "唐恩切德 #5" = 1  # Donnchad #5
+    "利希特瑙 #0" = 0  # Lachtna #0
+    "尼尔 #0" = 0  # Niall #0
+    "帕德里格 #0" = 0  # Pádraig #0
+    "奎因 #0" = 0  # Quinn #0
+    "吕阿卡 #0" = 0  # Ruarc #0
+    "提赫亚那 #0" = 0  # Tighearnach #0
+    "图厄撒尔 #0" = 0  # Tuathal #0
+    "威廉 #0" = 0  # Uilliam #0
 }
 ship_names = {
-    "Carlow"  # Carlow
-    "Dublin"  # Dublin
-    "Kildare"  # Kildare
-    "Kilkenny"  # Kilkenny
-    "Laios"  # Laios
-    "Longford"  # Longford
-    "Louth"  # Louth
-    "Meath"  # Meath
-    "Offaly"  # Offaly
-    "Westmeath"  # Westmeath
-    "Wexford"  # Wexford
-    "Wicklow"  # Wicklow
+    "卡洛"  # Carlow
+    "都柏林"  # Dublin
+    "基尔代尔"  # Kildare
+    "基尔肯尼"  # Kilkenny
+    "Laios"
+    "朗福德"  # Longford
+    "劳斯"  # Louth
+    "米斯"  # Meath
+    "奥法利"  # Offaly
+    "Westmeath"
+    "威克斯福德"  # Wexford
+    "威克洛"  # Wicklow
 }
