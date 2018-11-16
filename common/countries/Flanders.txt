@@ -30,22 +30,13 @@ historical_units = {
     napoleonic_lancers
 }
 monarch_names = {
-    "Filips #1" = 15
     "Jan #0" = 15
     "Boudewijn #9" = 5
     "Arnolf #3" = 5
-    "Lodewijk #3" = 5
     "Robrecht #3" = 5
-    "Willem #2" = 5
-    "Diederik #1" = 5
     "Gwijde #1" = 5
-    "Karel #1" = 5
-    "Antoon #0" = 5
-    "Abraham #0" = 0
-    "Alexander #0" = 0
     "Alfons #0" = 0
     "Andries #0" = 0
-    "Balthasar #0" = 0
     "Bartholomeus #0" = 0
     "Christoffel #0" = 0
     "Constantijn #0" = 0
@@ -71,47 +62,56 @@ monarch_names = {
     "Valentijn #0" = 0
     "Margareta #3" = -15
     "Maria #0" = -5
-    "让娜 #0" = -1
     "Matilda #0" = -1
     "Beatrix #0" = -1
     "Yolande #2" = -1
+    "菲利普 #1" = 15  # Filips #1
+    "路德维克 #3" = 5  # Lodewijk #3
+    "威廉 #2" = 5  # Willem #2
+    "迪德里克 #1" = 5  # Diederik #1
+    "卡雷尔 #1" = 5  # Karel #1
+    "安东 #0" = 5  # Antoon #0
+    "亚伯拉罕 #0" = 0  # Abraham #0
+    "亚历山大 #0" = 0  # Alexander #0
+    "巴尔塔萨 #0" = 0  # Balthasar #0
+    "让娜 #0" = -1  # Jeanne #0
 }
 leader_names = {
-    "Dampierre"  # Dampierre
-    "Deconinck"  # Deconinck
-    "Goethals"  # Goethals
-    "Nevers"  # Nevers
-    "Penen"  # Penen
-    "Van Bellegem"  # Van Bellegem
-    "Van Gulik"  # Van Gulik
-    "Van Herstal"  # Van Herstal
-    "Van Leeuwergem"  # Van Leeuwergem
-    "Van Lichtervelde"  # Van Lichtervelde
-    "Van Nieuwland"  # Van Nieuwland
-    "Van Oudenaarde"  # Van Oudenaarde
-    "Van Petershem"  # Van Petershem
-    "Van Raveschoot"  # Van Raveschoot
-    "Van Renesse"  # Van Renesse
+    "Dampierre"
+    "Deconinck"
+    "Goethals"
+    "Nevers"
+    "Penen"
+    "Van Bellegem"
+    "Van Gulik"
+    "Van Herstal"
+    "Van Leeuwergem"
+    "Van Lichtervelde"
+    "Van Nieuwland"
+    "Van Oudenaarde"
+    "Van Petershem"
+    "Van Raveschoot"
+    "Van Renesse"
 }
 ship_names = {
-    "Antwerpen"  # Antwerpen
-    "Boudewijn I"  # Boudewijn I
-    "Brugge"  # Brugge
-    "De Vlaamse leeuw"  # De Vlaamse leeuw
-    "Gent"  # Gent
-    "Guldensporenslag"  # Guldensporenslag
-    "Gwijde van Dampierre"  # Gwijde van Dampierre
-    "Hasselt"  # Hasselt
-    "Jacob van Artevelde"  # Jacob van Artevelde
-    "Karel de Goede"  # Karel de Goede
-    "Kerel van Vlaanderen"  # Kerel van Vlaanderen
-    "Leuven"  # Leuven
-    "Manneken Pis"  # Manneken Pis
-    "Mechelen"  # Mechelen
-    "Pieter de Coninck"  # Pieter de Coninck
-    "Schelde"  # Schelde
-    "Tijl Uilenspiegel"  # Tijl Uilenspiegel
-    "Vlaanderen"  # Vlaanderen
+    "Antwerpen"
+    "Boudewijn I"
+    "Brugge"
+    "De Vlaamse leeuw"
+    "Gent"
+    "Guldensporenslag"
+    "Gwijde van Dampierre"
+    "Hasselt"
+    "Jacob van Artevelde"
+    "Karel de Goede"
+    "Kerel van Vlaanderen"
+    "Leuven"
+    "Manneken Pis"
+    "Mechelen"
+    "Pieter de Coninck"
+    "Schelde"
+    "Tijl Uilenspiegel"
+    "Vlaanderen"
 }
 army_names = {
     "$PROVINCE$军"  # Leger van $PROVINCE$
