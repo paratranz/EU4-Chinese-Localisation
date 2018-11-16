@@ -1,8 +1,8 @@
 ﻿l_english:
  LIBERTY_DESIRE_CURRENT:0 "目前的独立倾向：§Y$VAL$%§!"
- LIB_OUR_TARIFF:0 "将我们的收入中的§Y$VAL$%§!作为关税支付给$MOTHER$，如果关税高于我们的独立倾向，我们的独立倾向每年将提高§G+$INC$%§!。"
+ LIB_OUR_TARIFF:0 "我们将收入中的 §Y$VAL$%§! 作为关税支付给$MOTHER$。如果我们的独立倾向低于关税，则每年将提高 §G+$INC$%§!。"
  LIBERTY_DESIRE_CURRENT_DESC:0 "独立倾向代表殖民地追求独立的迫切程度。提高关税等事件会使其随着时间推移而增长。"
- LIBERTY_DESIRE_CURRENT_LIMITS:0 "独立倾向代表国家追求独立的迫切程度。他们可能在独立倾向超过§Y$VAL$%§!时反叛"
+ LIBERTY_DESIRE_CURRENT_LIMITS:0 "独立倾向代表国家追求独立的迫切程度，他们可能在独立倾向超过 §Y$VAL$%§!时反叛"
  INCREASE_TARIFFS:0 "增收关税"
  INCREASE_TARIFFS_DESC:1 "消耗$POINTS|R$$TYPE$提高$TARIFFS|%0G$关税（当前每月值$WORTH|Y$¤），同时会增加$COUNTRY|Y$的独立倾向§R$LIBERTY|0$%§!。"
  INCREASE_TARRIF_MAX:0 "关税已达最高值。"
