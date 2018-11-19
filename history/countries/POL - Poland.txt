@@ -9,287 +9,287 @@ capital = 262
 add_accepted_culture = ruthenian
 national_focus = ADM
 1444.11.11 = {
-    monarch = {
-        name = "(空位期)"  # (Interregnum)
-        adm = 0
-        mil = 0
-        dip = 0
-        regent = yes
-    }
+  monarch = {
+    name = "(空位期)"  # (Interregnum)
+    adm = 0
+    mil = 0
+    dip = 0
+    regent = yes
+  }
 }
 1447.6.25 = {
-    monarch = {
-        name = "卡齐米日 IV"  # Kazimierz IV
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1427.11.30
-        adm = 4
-        dip = 4
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = scholar_personality
-    add_ruler_personality = incorruptible_personality
+  monarch = {
+    name = "卡齐米日 IV"  # Kazimierz IV
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1427.11.30
+    adm = 4
+    dip = 4
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = scholar_personality
+  add_ruler_personality = incorruptible_personality
 }
 1454.2.10 = {
-    queen = {
-        country_of_origin = SAX
-        name = "艾尔兹贝塔"  # Elzbieta
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1437.1.1
-        death_date = 1505.8.30
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 2
-    }
+  queen = {
+    country_of_origin = SAX
+    name = "艾尔兹贝塔"  # Elzbieta
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1437.1.1
+    death_date = 1505.8.30
+    female = yes
+    adm = 3
+    dip = 3
+    mil = 2
+  }
 }
 1459.12.27 = {
-    heir = {
-        name = "扬 奥波拉特"  # Jan Olbracht
-        monarch_name = "扬 I 奥波拉特"  # Jan I Olbracht
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1459.12.27
-        death_date = 1501.6.17
-        claim = 95
-        adm = 2
-        dip = 0
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_heir_personality = silver_tongue_personality
+  heir = {
+    name = "扬 奥波拉特"  # Jan Olbracht
+    monarch_name = "扬 I 奥波拉特"  # Jan I Olbracht
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1459.12.27
+    death_date = 1501.6.17
+    claim = 95
+    adm = 2
+    dip = 0
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_heir_personality = silver_tongue_personality
 }
 1461.1.1 = {
-    leader = {
-        name = "Piotr Dunin"  # Piotr Dunin
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1484.1.1
-    }
+  leader = {
+    name = "Piotr Dunin"
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1484.1.1
+  }
 }
 1465.1.1 = {
-    leader = {
-        name = "Feliks Paniewski"  # Feliks Paniewski
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 2
-        siege = 0
-        death_date = 1488.1.1
-    }
+  leader = {
+    name = "Feliks Paniewski"
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1488.1.1
+  }
 }
 1475.1.1 = {
-    leader = {
-        name = "Dobieslaw Kurozwecki"  # Dobieslaw Kurozwecki
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 2
-        siege = 0
-        death_date = 1496.1.1
-    }
+  leader = {
+    name = "Dobieslaw Kurozwecki"
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1496.1.1
+  }
 }
 1492.6.8 = {
-    monarch = {
-        name = "扬 I 奥波拉特"  # Jan I Olbracht
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1459.12.27
-        adm = 2
-        dip = 0
-        mil = 1
-    }
-    heir = {
-        name = "亚历山大"  # Aleksander
-        monarch_name = "亚历山大 I"  # Aleksander I
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1461.8.5
-        death_date = 1506.8.19
-        claim = 95
-        adm = 3
-        dip = 0
-        mil = 0
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = silver_tongue_personality
-    add_heir_personality = naive_personality
+  monarch = {
+    name = "扬 I 奥波拉特"  # Jan I Olbracht
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1459.12.27
+    adm = 2
+    dip = 0
+    mil = 1
+  }
+  heir = {
+    name = "亚历山大"  # Aleksander
+    monarch_name = "亚历山大 I"  # Aleksander I
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1461.8.5
+    death_date = 1506.8.19
+    claim = 95
+    adm = 3
+    dip = 0
+    mil = 0
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = silver_tongue_personality
+  add_heir_personality = naive_personality
 }
 1495.2.15 = {
-    queen = {
-        country_of_origin = MOS
-        name = "海伦娜"  # Helena
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1476.5.19
-        death_date = 1513.1.20
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  queen = {
+    country_of_origin = MOS
+    name = "海伦娜"  # Helena
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1476.5.19
+    death_date = 1513.1.20
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1501.6.18 = {
-    monarch = {
-        name = "亚历山大 I"  # Aleksander I
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1461.8.5
-        adm = 3
-        dip = 0
-        mil = 0
-    }
-    heir = {
-        name = "齐格蒙特"  # Zygmunt
-        monarch_name = "齐格蒙特 I 斯塔里"  # Zygmunt I Stary
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1467.1.1
-        death_date = 1548.4.1
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = naive_personality
-    add_heir_personality = scholar_personality
-    add_heir_personality = charismatic_negotiator_personality
+  monarch = {
+    name = "亚历山大 I"  # Aleksander I
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1461.8.5
+    adm = 3
+    dip = 0
+    mil = 0
+  }
+  heir = {
+    name = "齐格蒙特"  # Zygmunt
+    monarch_name = "齐格蒙特 I 斯塔里"  # Zygmunt I Stary
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1467.1.1
+    death_date = 1548.4.1
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = naive_personality
+  add_heir_personality = scholar_personality
+  add_heir_personality = charismatic_negotiator_personality
 }
 1506.8.20 = {
-    monarch = {
-        name = "齐格蒙特 I 斯塔里"  # Zygmunt I Stary
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1467.1.1
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = scholar_personality
-    add_ruler_personality = charismatic_negotiator_personality
+  monarch = {
+    name = "齐格蒙特 I 斯塔里"  # Zygmunt I Stary
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1467.1.1
+    adm = 3
+    dip = 3
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = scholar_personality
+  add_ruler_personality = charismatic_negotiator_personality
 }
 1512.2.8 = {
-    queen = {
-        country_of_origin = TRA
-        name = "芭芭拉"  # Barbara
-        dynasty = "扎波尧"  # Zápolya
-        birth_date = 1490.1.1
-        death_date = 1515.10.2
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  queen = {
+    country_of_origin = TRA
+    name = "芭芭拉"  # Barbara
+    dynasty = "扎波尧"  # Zápolya
+    birth_date = 1490.1.1
+    death_date = 1515.10.2
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1518.4.18 = {
-    queen = {
-        country_of_origin = MLO
-        name = "博娜"  # Bona
-        dynasty = "斯福尔扎"  # Sforza
-        birth_date = 1494.2.2
-        death_date = 1557.11.19
-        female = yes
-        adm = 1
-        dip = 5
-        mil = 2
-    }
+  queen = {
+    country_of_origin = MLO
+    name = "博娜"  # Bona
+    dynasty = "斯福尔扎"  # Sforza
+    birth_date = 1494.2.2
+    death_date = 1557.11.19
+    female = yes
+    adm = 1
+    dip = 5
+    mil = 2
+  }
 }
 1520.8.1 = {
-    heir = {
-        name = "齐格蒙特 奥古斯特"  # Zygmunt August
-        monarch_name = "齐格蒙特 I 奥古斯特"  # Zygmunt I August
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1520.8.1
-        death_date = 1572.7.7
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 3
-    }
-    clear_scripted_personalities = yes
-    add_heir_personality = infertile_personality
-    add_heir_personality = industrious_personality
+  heir = {
+    name = "齐格蒙特 奥古斯特"  # Zygmunt August
+    monarch_name = "齐格蒙特 I 奥古斯特"  # Zygmunt I August
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1520.8.1
+    death_date = 1572.7.7
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_heir_personality = infertile_personality
+  add_heir_personality = industrious_personality
 }
 1521.1.1 = {
-    leader = {
-        name = "扬 塔瑙斯基"  # Jan Tarnowski
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 4
-        siege = 1
-        death_date = 1561.5.16
-    }
+  leader = {
+    name = "扬 塔瑙斯基"  # Jan Tarnowski
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 4
+    siege = 1
+    death_date = 1561.5.16
+  }
 }
 1548.4.2 = {
-    monarch = {
-        name = "齐格蒙特 II 奥古斯特"  # Zygmunt II August
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1520.8.1
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = infertile_personality
-    add_ruler_personality = industrious_personality
+  monarch = {
+    name = "齐格蒙特 II 奥古斯特"  # Zygmunt II August
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1520.8.1
+    adm = 3
+    dip = 3
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = infertile_personality
+  add_ruler_personality = industrious_personality
 }
 1543.5.6 = {
-    queen = {
-        country_of_origin = HAB
-        name = "艾尔兹贝塔"  # Elzbieta
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1526.7.9
-        death_date = 1545.6.15
-        female = yes
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "艾尔兹贝塔"  # Elzbieta
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1526.7.9
+    death_date = 1545.6.15
+    female = yes
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1550.12.7 = {
-    queen = {
-        country_of_origin = LIT
-        name = "芭芭拉"  # Barbara
-        dynasty = "拉齐维乌"  # Radvilos
-        birth_date = 1520.12.6
-        death_date = 1551.5.8
-        female = yes
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  queen = {
+    country_of_origin = LIT
+    name = "芭芭拉"  # Barbara
+    dynasty = "拉齐维乌"  # Radvilos
+    birth_date = 1520.12.6
+    death_date = 1551.5.8
+    female = yes
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1553.7.30 = {
-    queen = {
-        country_of_origin = HAB
-        name = "凯瑟琳"  # Katarzyna
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1533.9.15
-        death_date = 1572.2.28
-        female = yes
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "凯瑟琳"  # Katarzyna
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1533.9.15
+    death_date = 1572.2.28
+    female = yes
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1560.1.1 = {
-    leader = {
-        name = "塞巴斯蒂安 卢博米尔斯基"  # Sebastian Lubomirski
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1613.7.20
-    }
+  leader = {
+    name = "塞巴斯蒂安 卢博米尔斯基"  # Sebastian Lubomirski
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1613.7.20
+  }
 }
 1565.1.1 = {
-    leader = {
-        name = "安杰伊 库尔布斯基"  # Andrzej Kurbski
-        type = general
-        fire = 2
-        shock = 1
-        manuever = 3
-        siege = 0
-        death_date = 1575.1.1
-    }
+  leader = {
+    name = "安杰伊 库尔布斯基"  # Andrzej Kurbski
+    type = general
+    fire = 2
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1575.1.1
+  }
 }

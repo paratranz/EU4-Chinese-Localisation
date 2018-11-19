@@ -1,16 +1,16 @@
 ﻿name = "九军之战"  # War of Nine Armies
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 601
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 601
 }
 1785.1.1 = {
-    add_attacker = TAU
-    add_defender = AYU
-    add_defender = LNA
+  add_attacker = TAU
+  add_defender = AYU
+  add_defender = LNA
 }
 1792.1.1 = {
-    rem_attacker = TAU
-    rem_defender = AYU
-    rem_defender = LNA
+  rem_attacker = TAU
+  rem_defender = AYU
+  rem_defender = LNA
 }

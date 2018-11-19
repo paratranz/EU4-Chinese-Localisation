@@ -1,14 +1,14 @@
 ﻿name = "瑞典-挪威战争"  # Swedish Campaign Against Norway
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 17
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 17
 }
 1814.5.17 = {
-    add_attacker = SWE
-    add_defender = NOR
+  add_attacker = SWE
+  add_defender = NOR
 }
 1814.8.14 = {
-    rem_attacker = SWE
-    rem_defender = NOR
+  rem_attacker = SWE
+  rem_defender = NOR
 }

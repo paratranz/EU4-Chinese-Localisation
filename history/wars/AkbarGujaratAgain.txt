@@ -1,14 +1,14 @@
 ﻿name = "莫卧儿-古吉拉特战争"  # Mughal Gujarati War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 2054
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 2054
 }
 1570.1.1 = {
-    add_attacker = MUG
-    add_defender = GUJ
+  add_attacker = MUG
+  add_defender = GUJ
 }
 1573.6.1 = {
-    rem_attacker = MUG
-    rem_defender = GUJ
+  rem_attacker = MUG
+  rem_defender = GUJ
 }

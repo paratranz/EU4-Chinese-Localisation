@@ -1,16 +1,16 @@
 ﻿name = "第二次伽尔毗战争"  # Second Kalpi War
 war_goal = {
-    type = take_border
-    casus_belli = cb_border_war
-    province = 2059
+  type = take_border
+  casus_belli = cb_border_war
+  province = 2059
 }
 1479.1.1 = {
-    add_attacker = DLH
-    add_defender = MLW
-    add_defender = BND
+  add_attacker = DLH
+  add_defender = MLW
+  add_defender = BND
 }
 1480.1.1 = {
-    rem_attacker = DLH
-    rem_defender = MLW
-    rem_defender = BND
+  rem_attacker = DLH
+  rem_defender = MLW
+  rem_defender = BND
 }

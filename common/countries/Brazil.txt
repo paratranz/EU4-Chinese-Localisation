@@ -2,224 +2,224 @@
 colonial_parent = POR
 random_nation_chance = 0
 color = {
-    129
-    177
-    125
+  129
+  177
+  125
 }
 historical_idea_groups = {
-    defensive_ideas
-    religious_ideas
-    offensive_ideas
-    trade_ideas
-    diplomatic_ideas
-    maritime_ideas
-    spy_ideas
-    quality_ideas
+  defensive_ideas
+  religious_ideas
+  offensive_ideas
+  trade_ideas
+  diplomatic_ideas
+  maritime_ideas
+  spy_ideas
+  quality_ideas
 }
 historical_units = {
-    western_medieval_infantry
-    western_medieval_knights
-    western_men_at_arms
-    spanish_tercio
-    austrian_tercio
-    austrian_grenzer
-    austrian_hussar
-    austrian_white_coat
-    austrian_jaeger
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 monarch_names = {
-    "阿方索 #0" = 20
-    "佩德罗 #0" = 20
-    "若昂 #0" = 15
-    "米格尔 #0" = 10
-    "阿比洛 #0" = 0
-    "安东尼奥 #0" = 0
-    "阿蒂尔 #0" = 0
-    "奥古斯托 #0" = 0
-    "奥雷利奥 #0" = 0
-    "本笃 #0" = 0
-    "卡洛斯 #0" = 0
-    "迪奥多罗 #0" = 0
-    "艾米利奥 #0" = 0
-    "埃内斯托 #0" = 0
-    "费迪南多 #0" = 0
-    "弗洛里亚诺 #0" = 0
-    "弗朗西斯科 #0" = 0
-    "弗朗西斯科  若泽 #0" = 0
-    "加斯帕 #0" = 0
-    "埃米尼奥 #0" = 0
-    "罗德里戈 #0" = 0
-    "赫尔墨斯 #0" = 0
-    "伊纳西奥 #0" = 0
-    "以赛亚 #0" = 0
-    "若阿金 #0" = 0
-    "若昂 巴普蒂斯塔 #0" = 0
-    "何塞 #0" = 0
-    "路易斯 #0" = 0
-    "曼努埃尔 #0" = 0
-    "马尔西奥 #0" = 0
-    "Nereu #0" = 0
-    "尼罗 #0" = 0
-    "Paschoal #0" = 0
-    "Paulino #0" = 0
-    "Prudente #0" = 0
-    "Venceslau #0" = 0
-    "Zeferino #0" = 0
-    "伊莎贝尔 #0" = -15
-    "玛丽亚 #0" = -10
-    "西尔维亚 #0" = -1
+  "Nereu #0" = 0
+  "Paschoal #0" = 0
+  "Paulino #0" = 0
+  "Prudente #0" = 0
+  "Venceslau #0" = 0
+  "Zeferino #0" = 0
+  "阿方索 #0" = 20  # Afonso #0
+  "佩德罗 #0" = 20  # Pedro #0
+  "若昂 #0" = 15  # João #0
+  "米格尔 #0" = 10  # Miguel #0
+  "阿比洛 #0" = 0  # Abílio #0
+  "安东尼奥 #0" = 0  # António #0
+  "阿蒂尔 #0" = 0  # Artur #0
+  "奥古斯托 #0" = 0  # Augusto #0
+  "奥雷利奥 #0" = 0  # Aurélio #0
+  "本笃 #0" = 0  # Bento #0
+  "卡洛斯 #0" = 0  # Carlos #0
+  "迪奥多罗 #0" = 0  # Deodoro #0
+  "艾米利奥 #0" = 0  # Emilio #0
+  "埃内斯托 #0" = 0  # Ernesto #0
+  "费迪南多 #0" = 0  # Fernando #0
+  "弗洛里亚诺 #0" = 0  # Floriano #0
+  "弗朗西斯科 #0" = 0  # Francisco #0
+  "弗朗西斯科  若泽 #0" = 0  # Francisco José #0
+  "加斯帕 #0" = 0  # Gaspar #0
+  "埃米尼奥 #0" = 0  # Hermínio #0
+  "罗德里戈 #0" = 0  # Rodrigo #0
+  "赫尔墨斯 #0" = 0  # Hermes #0
+  "伊纳西奥 #0" = 0  # Inácio #0
+  "以赛亚 #0" = 0  # Isaías #0
+  "若阿金 #0" = 0  # Joaquim #0
+  "若昂 巴普蒂斯塔 #0" = 0  # João Baptista #0
+  "何塞 #0" = 0  # José #0
+  "路易斯 #0" = 0  # Luís #0
+  "曼努埃尔 #0" = 0  # Manuel #0
+  "马尔西奥 #0" = 0  # Márcio #0
+  "尼罗 #0" = 0  # Nilo #0
+  "伊莎贝尔 #0" = -15  # Isabel #0
+  "玛丽亚 #0" = -10  # Maria #0
+  "西尔维亚 #0" = -1  # Silvia #0
 }
 leader_names = {
-    "阿尔瓦里什"  # Álvares
-    "Ayres Gomes"  # Ayres Gomes
-    "Borges do Canto"  # Borges do Canto
-    "达 科斯塔"  # da Costa
-    "达 席尔瓦"  # da Silva
-    "de Amorim"  # de Amorim
-    "德 梅洛"  # de Melo
-    "de Mendonça"  # de Mendonça
-    "dos Reis"  # dos Reis
-    "dos Santos"  # dos Santos
-    "伯纳蒂 弗雷里 德 安德雷德"  # Freire de Andrade
-    "贡萨加"  # Gonzaga
-    "洛佩斯"  # Lopes
-    "Maciel"  # Maciel
-    "梅洛"  # Melo
-    "Nascimento"  # Nascimento
-    "努内斯 维亚纳"  # Nunes Viana
-    "Peixoto"  # Peixoto
-    "Rolim"  # Rolim
-    "Santos Pedroso"  # Santos Pedroso
-    "Tavares"  # Tavares
-    "托雷斯"  # Torres
-    "维伽"  # Veiga
-    "Vieira"  # Vieira
-    "哈维尔"  # Xavier
+  "阿尔瓦里什"  # Álvares
+  "Ayres Gomes"
+  "Borges do Canto"
+  "达 科斯塔"  # da Costa
+  "达 席尔瓦"  # da Silva
+  "de Amorim"
+  "德 梅洛"  # de Melo
+  "de Mendonça"
+  "dos Reis"
+  "dos Santos"
+  "伯纳蒂 弗雷里 德 安德雷德"  # Freire de Andrade
+  "贡萨加"  # Gonzaga
+  "洛佩斯"  # Lopes
+  "Maciel"
+  "梅洛"  # Melo
+  "Nascimento"
+  "努内斯 维亚纳"  # Nunes Viana
+  "Peixoto"
+  "Rolim"
+  "Santos Pedroso"
+  "Tavares"
+  "托雷斯"  # Torres
+  "维伽"  # Veiga
+  "Vieira"
+  "哈维尔"  # Xavier
 }
 ship_names = {
-    "Anunciada"  # Anunciada
-    "Bérrio"  # Bérrio
-    "Boa Viagem"  # Boa Viagem
-    "Bom Jesus"  # Bom Jesus
-    "Bom Jesus do Carmo"  # Bom Jesus do Carmo
-    "Bom Jesus de Marzagão"  # Bom Jesus de Marzagão
-    "Bom Jesus da Vidigueira"  # Bom Jesus da Vidigueira
-    "Bretão"  # Bretão
-    "Cambaia"  # Cambaia
-    "Chagas"  # Chagas
-    "Correio d'Ásia"  # Correio d'Ásia
-    "El-Rei"  # El-Rei
-    "Enxobregas"  # Enxobregas
-    "Espírito Santo"  # Espírito Santo
-    "Estrela"  # Estrela
-    "Flor do Mar"  # Flor do Mar
-    "Garça"  # Garça
-    "Imaculada Conceição"  # Imaculada Conceição
-    "Jóia"  # Jóia
-    "Monte Carvalho"  # Monte Carvalho
-    "Nazaré"  # Nazaré
-    "Nossa Senhora"  # Nossa Senhora
-    "N. Sra. da Aparecida"  # N. Sra. da Aparecida
-    "N. Sra. da Atalaia"  # N. Sra. da Atalaia
-    "N. Sra. da Batalha"  # N. Sra. da Batalha
-    "N. Sra. da Boa Hora"  # N. Sra. da Boa Hora
-    "N. Sra. da Boa Memória"  # N. Sra. da Boa Memória
-    "N. Sra. da Boa Viagem"  # N. Sra. da Boa Viagem
-    "N. Sra. da Candalaria"  # N. Sra. da Candalaria
-    "N. Sra. da Caridade"  # N. Sra. da Caridade
-    "N.Sra. da Conceição"  # N.Sra. da Conceição
-    "N. Sra. da Consolação"  # N. Sra. da Consolação
-    "N. Sra. da Esperança"  # N. Sra. da Esperança
-    "N. Sra. da Glória"  # N. Sra. da Glória
-    "N. Sra. da Graça"  # N. Sra. da Graça
-    "N. Sra. da Guia"  # N. Sra. da Guia
-    "N. Sra. d'Ajuda Lusitana"  # N. Sra. d'Ajuda Lusitana
-    "N. Sra. da Luz"  # N. Sra. da Luz
-    "N. Sra. da Nazaré"  # N. Sra. da Nazaré
-    "N. Sra. da Oliveira"  # N. Sra. da Oliveira
-    "N. Sra. da Palma"  # N. Sra. da Palma
-    "N. Sra. da Penha de França"  # N. Sra. da Penha de França
-    "N. Sra. da Quietação"  # N. Sra. da Quietação
-    "N. Sra. da Salvação"  # N. Sra. da Salvação
-    "N. Sra. da Saúde"  # N. Sra. da Saúde
-    "N. Sra. da Visitação"  # N. Sra. da Visitação
-    "N. Sra. da Vitória"  # N. Sra. da Vitória
-    "N. Sra. das Ondas"  # N. Sra. das Ondas
-    "N. Sra. das Portas do Céu"  # N. Sra. das Portas do Céu
-    "N. Sra. das Relíquias"  # N. Sra. das Relíquias
-    "N. Sra. de Belém"  # N. Sra. de Belém
-    "N. Sra. de Guadalupe"  # N. Sra. de Guadalupe
-    "N. Sra. do Castelo"  # N. Sra. do Castelo
-    "N. Sra. do Livramento"  # N. Sra. do Livramento
-    "N. Sra. do Loreto"  # N. Sra. do Loreto
-    "N. Sra do Paraíso"  # N. Sra do Paraíso
-    "N. Sra. do Pilar"  # N. Sra. do Pilar
-    "N. Sra. do Rosário"  # N. Sra. do Rosário
-    "N. Sra. dos Prazeres"  # N. Sra. dos Prazeres
-    "N. Sra. dos Ramos"  # N. Sra. dos Ramos
-    "Princesa do Céu"  # Princesa do Céu
-    "Raínha"  # Raínha
-    "Reis Magos"  # Reis Magos
-    "萨克拉门托"  # Sacramento
-    "圣安娜"  # Santa Ana
-    "圣卡塔琳娜"  # Santa Catarina
-    "圣克鲁斯"  # Santa Cruz
-    "Santa Fé"  # Santa Fé
-    "圣赫勒拿"  # Santa Helena
-    "Santa Joana"  # Santa Joana
-    "Santa Madre de Deus"  # Santa Madre de Deus
-    "S. Maria de Sabóia"  # S. Maria de Sabóia
-    "Santo Milagre"  # Santo Milagre
-    "Santiago Maior"  # Santiago Maior
-    "Santíssima Trindade"  # Santíssima Trindade
-    "Santíssimo Sacramento"  # Santíssimo Sacramento
-    "Santo Alberto"  # Santo Alberto
-    "Santo António"  # Santo António
-    "Santo Espírito"  # Santo Espírito
-    "Santo Inácio"  # Santo Inácio
-    "圣巴尔托洛梅乌"  # São Bartolomeu
-    "圣本笃"  # São Bento
-    "São Bernardo"  # São Bernardo
-    "圣卡洛斯"  # São Carlos
-    "São Cristovão"  # São Cristovão
-    "圣多明戈"  # São Domingos
-    "圣菲利佩"  # São Filipe
-    "圣弗朗西斯科"  # São Francisco
-    "圣弗朗西斯科 德 博尔哈"  # São Francisco de Borja
-    "圣加百列"  # São Gabriel
-    "São Gonçalo"  # São Gonçalo
-    "圣若昂"  # São João
-    "São João de Deus"  # São João de Deus
-    "圣豪尔赫"  # São Jorge
-    "圣何塞"  # S. José
-    "圣朱利奥"  # São Julião
-    "圣洛伦索"  # São Lourenço
-    "圣卢卡斯"  # São Lucas
-    "圣路易斯"  # São Luís
-    "圣马特乌什"  # São Mateus
-    "圣保罗"  # São Paulo
-    "圣佩德罗"  # São Pedro
-    "圣拉斐尔"  # São Rafael
-    "圣罗克"  # São Roque
-    "圣萨尔瓦多"  # São Salvador
-    "圣多美"  # São Tomé
-    "圣瓦伦蒂姆"  # São Valentim
-    "S. António de Lisboa"  # S. António de Lisboa
-    "S. Catarina de Ribamar"  # S. Catarina de Ribamar
-    "S. Francisco de Assis"  # S. Francisco de Assis
-    "S. Francisco Xavier"  # S. Francisco Xavier
-    "S. João Baptista"  # S. João Baptista
-    "S. João Evangelista"  # S. João Evangelista
-    "S. Pedro de Rates"  # S. Pedro de Rates
-    "S. Pedro da Ribeira"  # S. Pedro da Ribeira
-    "S. Salvador do Mundo"  # S. Salvador do Mundo
-    "S. Teresa de Jesus"  # S. Teresa de Jesus
-    "S. Tomé da Cantuária"  # S. Tomé da Cantuária
-    "Taforeia"  # Taforeia
-    "Trindade"  # Trindade
-    "Visitação"  # Visitação
+  "Anunciada"
+  "Bérrio"
+  "Boa Viagem"
+  "Bom Jesus"
+  "Bom Jesus do Carmo"
+  "Bom Jesus de Marzagão"
+  "Bom Jesus da Vidigueira"
+  "Bretão"
+  "Cambaia"
+  "Chagas"
+  "Correio d'Ásia"
+  "El-Rei"
+  "Enxobregas"
+  "Espírito Santo"
+  "Estrela"
+  "Flor do Mar"
+  "Garça"
+  "Imaculada Conceição"
+  "Jóia"
+  "Monte Carvalho"
+  "Nazaré"
+  "Nossa Senhora"
+  "N. Sra. da Aparecida"
+  "N. Sra. da Atalaia"
+  "N. Sra. da Batalha"
+  "N. Sra. da Boa Hora"
+  "N. Sra. da Boa Memória"
+  "N. Sra. da Boa Viagem"
+  "N. Sra. da Candalaria"
+  "N. Sra. da Caridade"
+  "N.Sra. da Conceição"
+  "N. Sra. da Consolação"
+  "N. Sra. da Esperança"
+  "N. Sra. da Glória"
+  "N. Sra. da Graça"
+  "N. Sra. da Guia"
+  "N. Sra. d'Ajuda Lusitana"
+  "N. Sra. da Luz"
+  "N. Sra. da Nazaré"
+  "N. Sra. da Oliveira"
+  "N. Sra. da Palma"
+  "N. Sra. da Penha de França"
+  "N. Sra. da Quietação"
+  "N. Sra. da Salvação"
+  "N. Sra. da Saúde"
+  "N. Sra. da Visitação"
+  "N. Sra. da Vitória"
+  "N. Sra. das Ondas"
+  "N. Sra. das Portas do Céu"
+  "N. Sra. das Relíquias"
+  "N. Sra. de Belém"
+  "N. Sra. de Guadalupe"
+  "N. Sra. do Castelo"
+  "N. Sra. do Livramento"
+  "N. Sra. do Loreto"
+  "N. Sra do Paraíso"
+  "N. Sra. do Pilar"
+  "N. Sra. do Rosário"
+  "N. Sra. dos Prazeres"
+  "N. Sra. dos Ramos"
+  "Princesa do Céu"
+  "Raínha"
+  "Reis Magos"
+  "萨克拉门托"  # Sacramento
+  "圣安娜"  # Santa Ana
+  "圣卡塔琳娜"  # Santa Catarina
+  "圣克鲁斯"  # Santa Cruz
+  "Santa Fé"
+  "圣赫勒拿"  # Santa Helena
+  "Santa Joana"
+  "Santa Madre de Deus"
+  "S. Maria de Sabóia"
+  "Santo Milagre"
+  "Santiago Maior"
+  "Santíssima Trindade"
+  "Santíssimo Sacramento"
+  "Santo Alberto"
+  "Santo António"
+  "Santo Espírito"
+  "Santo Inácio"
+  "圣巴尔托洛梅乌"  # São Bartolomeu
+  "圣本笃"  # São Bento
+  "São Bernardo"
+  "圣卡洛斯"  # São Carlos
+  "São Cristovão"
+  "圣多明戈"  # São Domingos
+  "圣菲利佩"  # São Filipe
+  "圣弗朗西斯科"  # São Francisco
+  "圣弗朗西斯科 德 博尔哈"  # São Francisco de Borja
+  "圣加百列"  # São Gabriel
+  "São Gonçalo"
+  "圣若昂"  # São João
+  "São João de Deus"
+  "圣豪尔赫"  # São Jorge
+  "圣何塞"  # S. José
+  "圣朱利奥"  # São Julião
+  "圣洛伦索"  # São Lourenço
+  "圣卢卡斯"  # São Lucas
+  "圣路易斯"  # São Luís
+  "圣马特乌什"  # São Mateus
+  "圣保罗"  # São Paulo
+  "圣佩德罗"  # São Pedro
+  "圣拉斐尔"  # São Rafael
+  "圣罗克"  # São Roque
+  "圣萨尔瓦多"  # São Salvador
+  "圣多美"  # São Tomé
+  "圣瓦伦蒂姆"  # São Valentim
+  "S. António de Lisboa"
+  "S. Catarina de Ribamar"
+  "S. Francisco de Assis"
+  "S. Francisco Xavier"
+  "S. João Baptista"
+  "S. João Evangelista"
+  "S. Pedro de Rates"
+  "S. Pedro da Ribeira"
+  "S. Salvador do Mundo"
+  "S. Teresa de Jesus"
+  "S. Tomé da Cantuária"
+  "Taforeia"
+  "Trindade"
+  "Visitação"
 }

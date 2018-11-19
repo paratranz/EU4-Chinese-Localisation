@@ -1,55 +1,55 @@
 ﻿name = "第一次巴巴里战争"  # First Barbary War
 war_goal = {
-    type = superiority_insult_mutual
-    casus_belli = cb_insult
+  type = superiority_insult_mutual
+  casus_belli = cb_insult
 }
 1801.5.1 = {
-    add_attacker = MOR
-    add_attacker = TRP
-    add_attacker = ALG
-    add_defender = USA
+  add_attacker = MOR
+  add_attacker = TRP
+  add_attacker = ALG
+  add_defender = USA
 }
 1803.10.1 = {
-    battle = {
-        name = "的黎波里"  # Tripoli
-        location = 1313
-        attacker = {
-            commander = "哈桑酋长"  # Hassan Bey
-            heavy_ship = 8
-            losses = 2
-            country = TRP
-        }
-        defender = {
-            commander = "爱德华 普雷贝尔"  # Edward Preble
-            heavy_ship = 7
-            losses = 2
-            country = USA
-        }
-        result = no
+  battle = {
+    name = "的黎波里"  # Tripoli
+    location = 1313
+    attacker = {
+      commander = "哈桑酋长"  # Hassan Bey
+      heavy_ship = 8
+      losses = 2
+      country = TRP
     }
+    defender = {
+      commander = "爱德华 普雷贝尔"  # Edward Preble
+      heavy_ship = 7
+      losses = 2
+      country = USA
+    }
+    result = no
+  }
 }
 1805.4.27 = {
-    battle = {
-        name = "德尔纳"  # Derne
-        location = 1313
-        attacker = {
-            commander = "哈桑酋长"  # Hassan Bey
-            infantry = 700
-            losses = 25
-            country = TRP
-        }
-        defender = {
-            commander = "威廉 伊顿"  # William Eaton
-            infantry = 4000
-            losses = 3
-            country = USA
-        }
-        result = no
+  battle = {
+    name = "德尔纳"  # Derne
+    location = 1313
+    attacker = {
+      commander = "哈桑酋长"  # Hassan Bey
+      infantry = 700
+      losses = 25
+      country = TRP
     }
+    defender = {
+      commander = "威廉 伊顿"  # William Eaton
+      infantry = 4000
+      losses = 3
+      country = USA
+    }
+    result = no
+  }
 }
 1805.6.4 = {
-    rem_attacker = MOR
-    rem_attacker = TRP
-    rem_attacker = ALG
-    rem_defender = USA
+  rem_attacker = MOR
+  rem_attacker = TRP
+  rem_attacker = ALG
+  rem_defender = USA
 }

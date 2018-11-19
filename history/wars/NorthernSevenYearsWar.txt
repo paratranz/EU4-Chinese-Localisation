@@ -1,43 +1,43 @@
 ﻿name = "北方七年战争"  # Northern Seven Years War
 war_goal = {
-    type = take_capital_personal_union
-    casus_belli = cb_restore_personal_union
-    tag = SWE
+  type = take_capital_personal_union
+  casus_belli = cb_restore_personal_union
+  tag = SWE
 }
 1563.8.13 = {
-    add_attacker = DAN
-    add_attacker = POL
-    add_attacker = HSA
-    add_defender = SWE
+  add_attacker = DAN
+  add_attacker = POL
+  add_attacker = HSA
+  add_defender = SWE
 }
 1565.10.20 = {
-    battle = {
-        name = "阿克斯托纳"  # Axtorna
-        location = 26
-        attacker = {
-            commander = "丹尼尔 兰曹"  # Daniel Rantzau
-            infantry = 5000
-            cavalry = 2500
-            losses = 20
-            country = DAN
-        }
-        defender = {
-            commander = "雅各布 亨里克松 黑斯特斯科"  # Jacob Henriksson Hästesko
-            infantry = 8000
-            cavalry = 3000
-            losses = 14
-            country = SWE
-        }
-        result = yes
+  battle = {
+    name = "阿克斯托纳"  # Axtorna
+    location = 26
+    attacker = {
+      commander = "丹尼尔 兰曹"  # Daniel Rantzau
+      infantry = 5000
+      cavalry = 2500
+      losses = 20
+      country = DAN
     }
+    defender = {
+      commander = "雅各布 亨里克松 黑斯特斯科"  # Jacob Henriksson Hästesko
+      infantry = 8000
+      cavalry = 3000
+      losses = 14
+      country = SWE
+    }
+    result = yes
+  }
 }
 1569.7.1 = {
-    rem_attacker = POL
-    add_attacker = PLC
+  rem_attacker = POL
+  add_attacker = PLC
 }
 1570.12.13 = {
-    rem_attacker = DAN
-    rem_attacker = PLC
-    rem_attacker = HSA
-    rem_defender = SWE
+  rem_attacker = DAN
+  rem_attacker = PLC
+  rem_attacker = HSA
+  rem_defender = SWE
 }

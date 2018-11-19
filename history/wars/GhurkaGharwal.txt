@@ -1,14 +1,14 @@
 ﻿name = "廓尔喀入侵加尔沃尔"  # Ghurka Invasion of Gharwal
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 511
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 511
 }
 1804.1.1 = {
-    add_attacker = NPL
-    add_defender = GHR
+  add_attacker = NPL
+  add_defender = GHR
 }
 1805.1.1 = {
-    rem_attacker = NPL
-    rem_defender = GHR
+  rem_attacker = NPL
+  rem_defender = GHR
 }

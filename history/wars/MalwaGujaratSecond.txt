@@ -1,14 +1,14 @@
 ﻿name = "征服摩腊婆"  # Conquest of Malwa
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 526
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 526
 }
 1529.1.1 = {
-    add_attacker = GUJ
-    add_defender = MLW
+  add_attacker = GUJ
+  add_defender = MLW
 }
 1532.1.1 = {
-    rem_attacker = GUJ
-    rem_defender = MLW
+  rem_attacker = GUJ
+  rem_defender = MLW
 }

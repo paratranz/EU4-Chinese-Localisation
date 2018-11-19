@@ -1,14 +1,14 @@
 ﻿name = "阿克巴入侵冈瓦纳"  # Akbar's Invasion of Gondwana
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 550
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 550
 }
 1564.1.1 = {
-    add_attacker = MUG
-    add_defender = GDW
+  add_attacker = MUG
+  add_defender = GDW
 }
 1564.7.1 = {
-    rem_attacker = MUG
-    rem_defender = GDW
+  rem_attacker = MUG
+  rem_defender = GDW
 }

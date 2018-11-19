@@ -1,19 +1,19 @@
 ﻿name = "卡斯特鲁的战争"  # War of Castro
 war_goal = {
-    type = superiority_loan
-    casus_belli = cb_loan_cancelled
+  type = superiority_loan
+  casus_belli = cb_loan_cancelled
 }
 1641.10.13 = {
-    add_attacker = PAP
-    add_defender = PAR
-    add_defender = VEN
-    add_defender = MOD
-    add_defender = TUS
+  add_attacker = PAP
+  add_defender = PAR
+  add_defender = VEN
+  add_defender = MOD
+  add_defender = TUS
 }
 1644.3.31 = {
-    rem_attacker = PAP
-    rem_defender = PAR
-    rem_defender = VEN
-    rem_defender = MOD
-    rem_defender = TUS
+  rem_attacker = PAP
+  rem_defender = PAR
+  rem_defender = VEN
+  rem_defender = MOD
+  rem_defender = TUS
 }

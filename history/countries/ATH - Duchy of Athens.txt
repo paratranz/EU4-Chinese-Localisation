@@ -8,87 +8,87 @@ technology_group = western
 capital = 146
 fixed_capital = 146
 1402.1.1 = {
-    monarch = {
-        name = "安东尼奥 I"  # Antonio I
-        dynasty = "阿恰约利"  # Acciaioli
-        adm = 0
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "安东尼奥 I"  # Antonio I
+    dynasty = "阿恰约利"  # Acciaioli
+    adm = 0
+    dip = 1
+    mil = 2
+  }
 }
 1416.1.1 = {
-    heir = {
-        name = "内里奥"  # Nerio
-        monarch_name = "内里奥 II"  # Nerio II
-        dynasty = "阿恰约利"  # Acciaioli
-        birth_date = 1416.1.1
-        death_date = 1451.1.1
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 0
-    }
+  heir = {
+    name = "内里奥"  # Nerio
+    monarch_name = "内里奥 II"  # Nerio II
+    dynasty = "阿恰约利"  # Acciaioli
+    birth_date = 1416.1.1
+    death_date = 1451.1.1
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 0
+  }
 }
 1435.1.1 = {
-    monarch = {
-        name = "内里奥 II"  # Nerio II
-        dynasty = "阿恰约利"  # Acciaioli
-        birth_date = 1416.1.1
-        adm = 1
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "内里奥 II"  # Nerio II
+    dynasty = "阿恰约利"  # Acciaioli
+    birth_date = 1416.1.1
+    adm = 1
+    dip = 1
+    mil = 0
+  }
 }
 1439.1.1 = {
-    monarch = {
-        name = "安东尼奥 II"  # Antonio II
-        dynasty = "阿恰约利"  # Acciaioli
-        adm = 2
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "安东尼奥 II"  # Antonio II
+    dynasty = "阿恰约利"  # Acciaioli
+    adm = 2
+    dip = 1
+    mil = 2
+  }
 }
 1441.1.1 = {
-    monarch = {
-        name = "内里奥 II"  # Nerio II
-        dynasty = "阿恰约利"  # Acciaioli
-        birth_date = 1416.1.1
-        adm = 2
-        dip = 2
-        mil = 0
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = scholar_personality
+  monarch = {
+    name = "内里奥 II"  # Nerio II
+    dynasty = "阿恰约利"  # Acciaioli
+    birth_date = 1416.1.1
+    adm = 2
+    dip = 2
+    mil = 0
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = scholar_personality
 }
 1441.1.1 = {
-    heir = {
-        name = "弗朗切斯科"  # Francesco
-        monarch_name = "弗朗切斯科 I"  # Francesco I
-        dynasty = "阿恰约利"  # Acciaioli
-        birth_date = 1440.1.1
-        death_date = 1455.1.1
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "弗朗切斯科"  # Francesco
+    monarch_name = "弗朗切斯科 I"  # Francesco I
+    dynasty = "阿恰约利"  # Acciaioli
+    birth_date = 1440.1.1
+    death_date = 1455.1.1
+    claim = 95
+    adm = 2
+    dip = 3
+    mil = 1
+  }
 }
 1451.1.1 = {
-    monarch = {
-        name = "弗朗切斯科 I"  # Francesco I
-        dynasty = "阿恰约利"  # Acciaioli
-        birth_date = 1440.1.1
-        adm = 2
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "弗朗切斯科 I"  # Francesco I
+    dynasty = "阿恰约利"  # Acciaioli
+    birth_date = 1440.1.1
+    adm = 2
+    dip = 3
+    mil = 1
+  }
 }
 1455.1.1 = {
-    monarch = {
-        name = "弗朗切斯科 II"  # Francesco II
-        dynasty = "阿恰约利"  # Acciaioli
-        adm = 4
-        dip = 3
-        mil = 3
-    }
+  monarch = {
+    name = "弗朗切斯科 II"  # Francesco II
+    dynasty = "阿恰约利"  # Acciaioli
+    adm = 4
+    dip = 3
+    mil = 3
+  }
 }

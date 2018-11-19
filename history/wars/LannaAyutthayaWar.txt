@@ -1,16 +1,16 @@
 ﻿name = "兰纳 - 阿瑜陀耶 战争"  # Lan Na-Ayutthaya War
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 601
+  type = take_core
+  casus_belli = cb_core
+  province = 601
 }
 1456.1.1 = {
-    add_attacker = LNA
-    add_defender = AYU
-    add_defender = SUK
+  add_attacker = LNA
+  add_defender = AYU
+  add_defender = SUK
 }
 1474.1.1 = {
-    rem_attacker = LNA
-    rem_defender = AYU
-    rem_defender = SUK
+  rem_attacker = LNA
+  rem_defender = AYU
+  rem_defender = SUK
 }

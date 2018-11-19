@@ -1,235 +1,235 @@
 ﻿name = "芬兰战争"  # Finnish War
 war_goal = {
-    type = superiority_trade_mutual
-    casus_belli = cb_trade_war
+  type = superiority_trade_mutual
+  casus_belli = cb_trade_war
 }
 1807.7.8 = {
-    add_attacker = FRA
-    add_defender = SWE
+  add_attacker = FRA
+  add_defender = SWE
 }
 1808.2.21 = {
-    add_attacker = RUS
+  add_attacker = RUS
 }
 1808.2.28 = {
-    add_attacker = DAN
+  add_attacker = DAN
 }
 1808.3.2 = {
-    battle = {
-        name = "瑞典堡"  # Sveaborg
-        location = 28
-        attacker = {
-            commander = "腓特烈 威廉 冯 布克斯赫韦登"  # Friedrich Wilhelm von Buxhoeveden
-            infantry = 1100
-            losses = 1
-            country = RUS
-        }
-        defender = {
-            commander = "卡尔 奥洛夫 克龙斯泰特"  # Carl Olof Cronstedt
-            infantry = 7500
-            artillery = 2000
-            losses = 1
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "瑞典堡"  # Sveaborg
+    location = 28
+    attacker = {
+      commander = "腓特烈 威廉 冯 布克斯赫韦登"  # Friedrich Wilhelm von Buxhoeveden
+      infantry = 1100
+      losses = 1
+      country = RUS
     }
+    defender = {
+      commander = "卡尔 奥洛夫 克龙斯泰特"  # Carl Olof Cronstedt
+      infantry = 7500
+      artillery = 2000
+      losses = 1
+      country = SWE
+    }
+    result = no
+  }
 }
 1808.4.18 = {
-    battle = {
-        name = "锡卡河"  # Siikajoki
-        location = 19
-        attacker = {
-            commander = "亚科夫 佩特罗维奇 库尔内夫"  # Yakov Petrovitch Kulnev
-            infantry = 1080
-            losses = 3
-            country = RUS
-        }
-        defender = {
-            commander = "卡尔 约翰 埃德勒克罗茨"  # Carl Johan Adlercreutz
-            infantry = 400
-            losses = 1
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "锡卡河"  # Siikajoki
+    location = 19
+    attacker = {
+      commander = "亚科夫 佩特罗维奇 库尔内夫"  # Yakov Petrovitch Kulnev
+      infantry = 1080
+      losses = 3
+      country = RUS
     }
+    defender = {
+      commander = "卡尔 约翰 埃德勒克罗茨"  # Carl Johan Adlercreutz
+      infantry = 400
+      losses = 1
+      country = SWE
+    }
+    result = no
+  }
 }
 1808.4.27 = {
-    battle = {
-        name = "雷沃拉克斯"  # Revolax
-        location = 19
-        attacker = {
-            commander = "米哈伊尔 列奥恩捷维奇 布拉托夫"  # Michail Leontjevich Bulatov
-            infantry = 1080
-            losses = 17
-            country = RUS
-        }
-        defender = {
-            commander = "威廉 毛里茨 克林斯波"  # Wilhelm Mauritz Klingspor
-            infantry = 2300
-            losses = 4
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "雷沃拉克斯"  # Revolax
+    location = 19
+    attacker = {
+      commander = "米哈伊尔 列奥恩捷维奇 布拉托夫"  # Michail Leontjevich Bulatov
+      infantry = 1080
+      losses = 17
+      country = RUS
     }
+    defender = {
+      commander = "威廉 毛里茨 克林斯波"  # Wilhelm Mauritz Klingspor
+      infantry = 2300
+      losses = 4
+      country = SWE
+    }
+    result = no
+  }
 }
 1808.5.2 = {
-    battle = {
-        name = "普尔基拉"  # Pulkkila
-        location = 19
-        attacker = {
-            commander = "奥布霍夫"  # Obuhov
-            infantry = 1200
-            losses = 5
-            country = RUS
-        }
-        defender = {
-            commander = "约翰 奥古斯特 桑德尔斯"  # Johan August Sandels
-            infantry = 1500
-            losses = 3
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "普尔基拉"  # Pulkkila
+    location = 19
+    attacker = {
+      commander = "奥布霍夫"  # Obuhov
+      infantry = 1200
+      losses = 5
+      country = RUS
     }
+    defender = {
+      commander = "约翰 奥古斯特 桑德尔斯"  # Johan August Sandels
+      infantry = 1500
+      losses = 3
+      country = SWE
+    }
+    result = no
+  }
 }
 1808.7.14 = {
-    battle = {
-        name = "拉普阿"  # Lapua
-        location = 27
-        attacker = {
-            commander = "尼古拉 尼古拉耶维奇 拉耶夫斯基"  # Nikolai Nikolaievitsch Rayevskij
-            infantry = 4000
-            losses = 1
-            country = RUS
-        }
-        defender = {
-            commander = "卡尔 约翰 埃德勒克罗茨"  # Carl Johan Adlercreutz
-            infantry = 4650
-            losses = 1
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "拉普阿"  # Lapua
+    location = 27
+    attacker = {
+      commander = "尼古拉 尼古拉耶维奇 拉耶夫斯基"  # Nikolai Nikolaievitsch Rayevskij
+      infantry = 4000
+      losses = 1
+      country = RUS
     }
+    defender = {
+      commander = "卡尔 约翰 埃德勒克罗茨"  # Carl Johan Adlercreutz
+      infantry = 4650
+      losses = 1
+      country = SWE
+    }
+    result = no
+  }
 }
 1808.8.10 = {
-    battle = {
-        name = "考哈约基"  # Kauhajoki
-        location = 27
-        attacker = {
-            commander = "谢佩列夫"  # Schepeljeff
-            infantry = 2000
-            losses = 1
-            country = RUS
-        }
-        defender = {
-            commander = "乔治 卡尔 冯 德伯尔恩"  # Georg Carl von Döbeln
-            infantry = 2000
-            losses = 1
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "考哈约基"  # Kauhajoki
+    location = 27
+    attacker = {
+      commander = "谢佩列夫"  # Schepeljeff
+      infantry = 2000
+      losses = 1
+      country = RUS
     }
+    defender = {
+      commander = "乔治 卡尔 冯 德伯尔恩"  # Georg Carl von Döbeln
+      infantry = 2000
+      losses = 1
+      country = SWE
+    }
+    result = no
+  }
 }
 1808.8.17 = {
-    battle = {
-        name = "阿拉武斯"  # Alavus
-        location = 27
-        attacker = {
-            commander = "埃里克森"  # Erikson
-            infantry = 2400
-            losses = 15
-            country = RUS
-        }
-        defender = {
-            commander = "卡尔 约翰 埃德勒克罗茨"  # Carl Johan Adlercreutz
-            infantry = 3900
-            losses = 5
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "阿拉武斯"  # Alavus
+    location = 27
+    attacker = {
+      commander = "埃里克森"  # Erikson
+      infantry = 2400
+      losses = 15
+      country = RUS
     }
+    defender = {
+      commander = "卡尔 约翰 埃德勒克罗茨"  # Carl Johan Adlercreutz
+      infantry = 3900
+      losses = 5
+      country = SWE
+    }
+    result = no
+  }
 }
 1808.9.13 = {
-    battle = {
-        name = "尤塔斯"  # Jutas
-        location = 27
-        attacker = {
-            commander = "科斯乔夫斯基"  # Kosatchoffskij
-            infantry = 1500
-            losses = 9
-            country = RUS
-        }
-        defender = {
-            commander = "乔治 卡尔 冯 德伯尔恩"  # Georg Carl von Döbeln
-            infantry = 1500
-            losses = 3
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "尤塔斯"  # Jutas
+    location = 27
+    attacker = {
+      commander = "科斯乔夫斯基"  # Kosatchoffskij
+      infantry = 1500
+      losses = 9
+      country = RUS
     }
+    defender = {
+      commander = "乔治 卡尔 冯 德伯尔恩"  # Georg Carl von Döbeln
+      infantry = 1500
+      losses = 3
+      country = SWE
+    }
+    result = no
+  }
 }
 1808.9.14 = {
-    battle = {
-        name = "奥拉瓦伊斯"  # Oravais
-        location = 27
-        attacker = {
-            commander = "尼古拉 米哈伊洛维奇 卡门斯基"  # Nikolay Mikhailovich Kamensky
-            infantry = 6500
-            losses = 15
-            country = RUS
-        }
-        defender = {
-            commander = "卡尔 约翰 埃德勒克罗茨"  # Carl Johan Adlercreutz
-            infantry = 5000
-            losses = 16
-            country = SWE
-        }
-        result = yes
+  battle = {
+    name = "奥拉瓦伊斯"  # Oravais
+    location = 27
+    attacker = {
+      commander = "尼古拉 米哈伊洛维奇 卡门斯基"  # Nikolay Mikhailovich Kamensky
+      infantry = 6500
+      losses = 15
+      country = RUS
     }
+    defender = {
+      commander = "卡尔 约翰 埃德勒克罗茨"  # Carl Johan Adlercreutz
+      infantry = 5000
+      losses = 16
+      country = SWE
+    }
+    result = yes
+  }
 }
 1808.10.27 = {
-    battle = {
-        name = "科利永维尔塔"  # Koljonvirta
-        location = 31
-        attacker = {
-            commander = "尼古拉 阿列克谢耶维奇 图奇科夫"  # Nikolai Alexejvitsch Tutschkoff
-            infantry = 7000
-            losses = 15
-            country = RUS
-        }
-        defender = {
-            commander = "约翰 奥古斯特 桑德尔斯"  # Johan August Sandels
-            infantry = 1800
-            losses = 17
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "科利永维尔塔"  # Koljonvirta
+    location = 31
+    attacker = {
+      commander = "尼古拉 阿列克谢耶维奇 图奇科夫"  # Nikolai Alexejvitsch Tutschkoff
+      infantry = 7000
+      losses = 15
+      country = RUS
     }
+    defender = {
+      commander = "约翰 奥古斯特 桑德尔斯"  # Johan August Sandels
+      infantry = 1800
+      losses = 17
+      country = SWE
+    }
+    result = no
+  }
 }
 1809.8.19 = {
-    battle = {
-        name = "塞瓦尔和拉坦"  # Sävar and Ratan
-        location = 11
-        attacker = {
-            commander = "尼古拉 米哈伊洛维奇 卡门斯基"  # Nikolay Mikhailovich Kamensky
-            infantry = 5000
-            losses = 35
-            country = RUS
-        }
-        defender = {
-            commander = "古斯塔夫 瓦赫特迈斯特"  # Gustaf Wachtmeister
-            infantry = 6800
-            losses = 17
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "塞瓦尔和拉坦"  # Sävar and Ratan
+    location = 11
+    attacker = {
+      commander = "尼古拉 米哈伊洛维奇 卡门斯基"  # Nikolay Mikhailovich Kamensky
+      infantry = 5000
+      losses = 35
+      country = RUS
     }
+    defender = {
+      commander = "古斯塔夫 瓦赫特迈斯特"  # Gustaf Wachtmeister
+      infantry = 6800
+      losses = 17
+      country = SWE
+    }
+    result = no
+  }
 }
 1809.9.17 = {
-    rem_attacker = RUS
+  rem_attacker = RUS
 }
 1809.12.11 = {
-    rem_attacker = DAN
+  rem_attacker = DAN
 }
 1810.1.6 = {
-    rem_attacker = FRA
-    rem_defender = SWE
+  rem_attacker = FRA
+  rem_defender = SWE
 }

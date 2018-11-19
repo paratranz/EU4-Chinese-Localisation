@@ -7,227 +7,227 @@ capital = 555
 fixed_capital = 555
 religious_school = hanafi_school
 1399.1.1 = {
-    monarch = {
-        name = "穆巴拉克 沙阿"  # Mubarak Shah
-        dynasty = "沙尔吉"  # Sharqi
-        ADM = 2
-        DIP = 1
-        MIL = 3
-    }
+  monarch = {
+    name = "穆巴拉克 沙阿"  # Mubarak Shah
+    dynasty = "沙尔吉"  # Sharqi
+    ADM = 2
+    DIP = 1
+    MIL = 3
+  }
 }
 1399.1.1 = {
-    heir = {
-        name = "马利克 加兰法尔"  # Malik Qaranfal
-        monarch_name = "穆巴拉克 沙阿"  # Mubarrak Shah
-        dynasty = "沙尔吉"  # Sharqi
-        claim = 75
-        birth_date = 1370.1.1
-        death_date = 1402.1.1
-        ADM = 0
-        DIP = 0
-        MIL = 0
-    }
+  heir = {
+    name = "马利克 加兰法尔"  # Malik Qaranfal
+    monarch_name = "穆巴拉克 沙阿"  # Mubarrak Shah
+    dynasty = "沙尔吉"  # Sharqi
+    claim = 75
+    birth_date = 1370.1.1
+    death_date = 1402.1.1
+    ADM = 0
+    DIP = 0
+    MIL = 0
+  }
 }
 1401.1.1 = {
-    heir = {
-        name = "易卜拉欣"  # Ibrahim
-        monarch_name = "易卜拉欣 沙"  # Ibrahim Shah
-        dynasty = "沙尔吉"  # Sharqi
-        birth_date = 1380.1.1
-        death_date = 1436.1.1
-        claim = 95
-        ADM = 2
-        DIP = 1
-        MIL = 3
-    }
+  heir = {
+    name = "易卜拉欣"  # Ibrahim
+    monarch_name = "易卜拉欣 沙"  # Ibrahim Shah
+    dynasty = "沙尔吉"  # Sharqi
+    birth_date = 1380.1.1
+    death_date = 1436.1.1
+    claim = 95
+    ADM = 2
+    DIP = 1
+    MIL = 3
+  }
 }
 1402.1.1 = {
-    monarch = {
-        name = "易卜拉欣 沙"  # Ibrahim Shah
-        dynasty = "沙尔吉"  # Sharqi
-        ADM = 2
-        DIP = 1
-        MIL = 3
-    }
+  monarch = {
+    name = "易卜拉欣 沙"  # Ibrahim Shah
+    dynasty = "沙尔吉"  # Sharqi
+    ADM = 2
+    DIP = 1
+    MIL = 3
+  }
 }
 1402.1.1 = {
-    heir = {
-        name = "马哈茂德"  # Mahmud
-        monarch_name = "马哈茂德 沙阿"  # Mahmud Shah
-        dynasty = "沙尔吉"  # Sharqi
-        claim = 95
-        birth_date = 1402.1.1
-        death_date = 1457.1.1
-        ADM = 5
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "马哈茂德"  # Mahmud
+    monarch_name = "马哈茂德 沙阿"  # Mahmud Shah
+    dynasty = "沙尔吉"  # Sharqi
+    claim = 95
+    birth_date = 1402.1.1
+    death_date = 1457.1.1
+    ADM = 5
+    DIP = 2
+    MIL = 2
+  }
 }
 1436.1.1 = {
-    monarch = {
-        name = "马哈茂德 沙阿"  # Mahmud Shah
-        dynasty = "沙尔吉"  # Sharqi
-        ADM = 5
-        DIP = 2
-        MIL = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = craven_personality
-    heir = {
-        name = "比汗"  # Bhikhan
-        monarch_name = "穆罕默德 沙"  # Muhammad Shah
-        dynasty = "沙尔吉"  # Sharqi
-        claim = 95
-        birth_date = 1436.1.1
-        death_date = 1458.6.1
-        ADM = 3
-        DIP = 1
-        MIL = 2
-    }
-    add_heir_personality = naive_personality
+  monarch = {
+    name = "马哈茂德 沙阿"  # Mahmud Shah
+    dynasty = "沙尔吉"  # Sharqi
+    ADM = 5
+    DIP = 2
+    MIL = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = craven_personality
+  heir = {
+    name = "比汗"  # Bhikhan
+    monarch_name = "穆罕默德 沙"  # Muhammad Shah
+    dynasty = "沙尔吉"  # Sharqi
+    claim = 95
+    birth_date = 1436.1.1
+    death_date = 1458.6.1
+    ADM = 3
+    DIP = 1
+    MIL = 2
+  }
+  add_heir_personality = naive_personality
 }
 1457.1.1 = {
-    monarch = {
-        name = "穆罕默德 沙"  # Muhammad Shah
-        dynasty = "沙尔吉"  # Sharqi
-        ADM = 3
-        DIP = 1
-        MIL = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = naive_personality
+  monarch = {
+    name = "穆罕默德 沙"  # Muhammad Shah
+    dynasty = "沙尔吉"  # Sharqi
+    ADM = 3
+    DIP = 1
+    MIL = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = naive_personality
 }
 1457.1.1 = {
-    heir = {
-        name = "侯赛因"  # Hussain
-        monarch_name = "侯赛因 沙"  # Hussain Shah
-        dynasty = "沙尔吉"  # Sharqi
-        birth_date = 1437.1.1
-        death_date = 1486.1.1
-        claim = 85
-        ADM = 4
-        DIP = 0
-        MIL = 3
-    }
-    clear_scripted_personalities = yes
-    add_heir_personality = strict_personality
+  heir = {
+    name = "侯赛因"  # Hussain
+    monarch_name = "侯赛因 沙"  # Hussain Shah
+    dynasty = "沙尔吉"  # Sharqi
+    birth_date = 1437.1.1
+    death_date = 1486.1.1
+    claim = 85
+    ADM = 4
+    DIP = 0
+    MIL = 3
+  }
+  clear_scripted_personalities = yes
+  add_heir_personality = strict_personality
 }
 1458.6.1 = {
-    monarch = {
-        name = "侯赛因 沙"  # Hussain Shah
-        dynasty = "沙尔吉"  # Sharqi
-        ADM = 4
-        DIP = 0
-        MIL = 3
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = strict_personality
+  monarch = {
+    name = "侯赛因 沙"  # Hussain Shah
+    dynasty = "沙尔吉"  # Sharqi
+    ADM = 4
+    DIP = 0
+    MIL = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = strict_personality
 }
 1553.1.1 = {
-    monarch = {
-        name = "阿迪勒"  # Adil
-        dynasty = "苏里"  # Suri
-        ADM = 2
-        DIP = 2
-        MIL = 3
-    }
+  monarch = {
+    name = "阿迪勒"  # Adil
+    dynasty = "苏里"  # Suri
+    ADM = 2
+    DIP = 2
+    MIL = 3
+  }
 }
 1553.1.1 = {
-    heir = {
-        name = "舍尔 汗"  # Sher Khan
-        monarch_name = "舍尔 汗"  # Sher Khan
-        dynasty = "苏里"  # Suri
-        birth_date = 1520.1.1
-        death_date = 1561.1.1
-        claim = 85
-        ADM = 1
-        DIP = 1
-        MIL = 4
-    }
+  heir = {
+    name = "舍尔 汗"  # Sher Khan
+    monarch_name = "舍尔 汗"  # Sher Khan
+    dynasty = "苏里"  # Suri
+    birth_date = 1520.1.1
+    death_date = 1561.1.1
+    claim = 85
+    ADM = 1
+    DIP = 1
+    MIL = 4
+  }
 }
 1557.4.1 = {
-    monarch = {
-        name = "舍尔 汗"  # Sher Khan
-        dynasty = "苏里"  # Suri
-        ADM = 1
-        DIP = 1
-        MIL = 4
-    }
+  monarch = {
+    name = "舍尔 汗"  # Sher Khan
+    dynasty = "苏里"  # Suri
+    ADM = 1
+    DIP = 1
+    MIL = 4
+  }
 }
 1738.1.1 = {
-    monarch = {
-        name = "婆罗槃陀辛格"  # Balwant Singh
-        dynasty = "纳拉扬"  # Narayan
-        ADM = 3
-        DIP = 3
-        MIL = 3
-    }
-    religion = hinduism
-    primary_culture = bihari
+  monarch = {
+    name = "婆罗槃陀辛格"  # Balwant Singh
+    dynasty = "纳拉扬"  # Narayan
+    ADM = 3
+    DIP = 3
+    MIL = 3
+  }
+  religion = hinduism
+  primary_culture = bihari
 }
 1740.1.1 = {
-    heir = {
-        name = "猜陀辛格"  # Chait Singh
-        monarch_name = "猜陀辛格"  # Chait Singh
-        dynasty = "纳拉扬"  # Narayan
-        birth_date = 1730.1.1
-        death_date = 1810.1.1
-        claim = 95
-        ADM = 2
-        DIP = 3
-        MIL = 2
-    }
+  heir = {
+    name = "猜陀辛格"  # Chait Singh
+    monarch_name = "猜陀辛格"  # Chait Singh
+    dynasty = "纳拉扬"  # Narayan
+    birth_date = 1730.1.1
+    death_date = 1810.1.1
+    claim = 95
+    ADM = 2
+    DIP = 3
+    MIL = 2
+  }
 }
 1770.8.19 = {
-    monarch = {
-        name = "猜陀辛格"  # Chait Singh
-        dynasty = "纳拉扬"  # Narayan
-        ADM = 2
-        DIP = 3
-        MIL = 2
-    }
+  monarch = {
+    name = "猜陀辛格"  # Chait Singh
+    dynasty = "纳拉扬"  # Narayan
+    ADM = 2
+    DIP = 3
+    MIL = 2
+  }
 }
 1770.8.19 = {
-    heir = {
-        name = "摩喜婆陀辛格"  # Mahipat Singh
-        monarch_name = "摩喜婆陀辛格"  # Mahipat Singh
-        dynasty = "纳拉扬"  # Narayan
-        birth_date = 1756.1.1
-        death_date = 1795.9.12
-        claim = 95
-        ADM = 1
-        DIP = 1
-        MIL = 1
-    }
+  heir = {
+    name = "摩喜婆陀辛格"  # Mahipat Singh
+    monarch_name = "摩喜婆陀辛格"  # Mahipat Singh
+    dynasty = "纳拉扬"  # Narayan
+    birth_date = 1756.1.1
+    death_date = 1795.9.12
+    claim = 95
+    ADM = 1
+    DIP = 1
+    MIL = 1
+  }
 }
 1781.9.14 = {
-    monarch = {
-        name = "摩喜婆陀辛格"  # Mahipat Singh
-        dynasty = "纳拉扬"  # Narayan
-        ADM = 2
-        DIP = 1
-        MIL = 2
-    }
+  monarch = {
+    name = "摩喜婆陀辛格"  # Mahipat Singh
+    dynasty = "纳拉扬"  # Narayan
+    ADM = 2
+    DIP = 1
+    MIL = 2
+  }
 }
 1781.9.14 = {
-    heir = {
-        name = "优提陀辛格"  # Udit Singh
-        monarch_name = "优提陀辛格"  # Udit Singh
-        dynasty = "纳拉扬"  # Narayan
-        birth_date = 1770.1.1
-        death_date = 1835.4.4
-        claim = 95
-        ADM = 0
-        DIP = 1
-        MIL = 1
-    }
+  heir = {
+    name = "优提陀辛格"  # Udit Singh
+    monarch_name = "优提陀辛格"  # Udit Singh
+    dynasty = "纳拉扬"  # Narayan
+    birth_date = 1770.1.1
+    death_date = 1835.4.4
+    claim = 95
+    ADM = 0
+    DIP = 1
+    MIL = 1
+  }
 }
 1795.9.12 = {
-    monarch = {
-        name = "优提陀辛格"  # Udit Singh
-        dynasty = "纳拉扬"  # Narayan
-        ADM = 0
-        DIP = 1
-        MIL = 1
-    }
+  monarch = {
+    name = "优提陀辛格"  # Udit Singh
+    dynasty = "纳拉扬"  # Narayan
+    ADM = 0
+    DIP = 1
+    MIL = 1
+  }
 }

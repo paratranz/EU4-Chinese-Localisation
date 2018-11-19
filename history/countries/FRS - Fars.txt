@@ -6,27 +6,27 @@ religion = shiite
 technology_group = muslim
 capital = 2218
 1442.1.1 = {
+  religion = sunni
+  religious_school = hanafi_school
+  add_piety = -0.5
+  monarch = {
+    name = "（穆尼兹丁 马利克）"  # (Mu'izz al-Din Malik)
+    dynasty = "希姆纳尼"  # Simnani
+    regent = yes
+    adm = 3
+    dip = 3
+    mil = 1
+  }
+  heir = {
+    name = "阿不都剌 本 亦不剌金"  # Abdallah bin Ibrahim
+    dynasty = "帖木儿"  # Timurid
+    birth_date = 1433.1.1
+    death_date = 1451.6.1
+    claim = 95
+    culture = uzbehk
     religion = sunni
-    religious_school = hanafi_school
-    add_piety = -0.5
-    monarch = {
-        name = "（穆尼兹丁 马利克）"  # (Mu'izz al-Din Malik)
-        dynasty = "希姆纳尼"  # Simnani
-        regent = yes
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-    heir = {
-        name = "阿不都剌 本 亦不剌金"  # Abdallah bin Ibrahim
-        dynasty = "帖木儿"  # Timurid
-        birth_date = 1433.1.1
-        death_date = 1451.6.1
-        claim = 95
-        culture = uzbehk
-        religion = sunni
-        adm = 4
-        dip = 2
-        mil = 3
-    }
+    adm = 4
+    dip = 2
+    mil = 3
+  }
 }

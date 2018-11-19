@@ -1,14 +1,14 @@
 ﻿name = "舍尔沙东征"  # Sher Shah's Eastern Campaign
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 505
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 505
 }
 1540.1.1 = {
-    add_attacker = BNG
-    add_defender = SND
+  add_attacker = BNG
+  add_defender = SND
 }
 1544.1.1 = {
-    rem_attacker = BNG
-    rem_defender = SND
+  rem_attacker = BNG
+  rem_defender = SND
 }

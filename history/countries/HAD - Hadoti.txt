@@ -7,416 +7,416 @@ technology_group = indian
 capital = 528
 fixed_capital = 528
 1384.1.1 = {
-    monarch = {
-        name = "Hamuj"  # Hamuj
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        DIP = 1
-        ADM = 2
-        MIL = 3
-    }
+  monarch = {
+    name = "Hamuj"
+    dynasty = "Hada-Chauhan"
+    DIP = 1
+    ADM = 2
+    MIL = 3
+  }
 }
 1384.1.1 = {
-    heir = {
-        name = "Birsingh"  # Birsingh
-        monarch_name = "Birsingh"  # Birsingh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1370.1.1
-        death_date = 1415.1.1
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "Birsingh"
+    monarch_name = "Birsingh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1370.1.1
+    death_date = 1415.1.1
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 2
+  }
 }
 1400.1.1 = {
-    monarch = {
-        name = "Birsingh"  # Birsingh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 2
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "Birsingh"
+    dynasty = "Hada-Chauhan"
+    adm = 2
+    dip = 1
+    mil = 2
+  }
 }
 1400.1.1 = {
-    heir = {
-        name = "Biru"  # Biru
-        monarch_name = "Biru"  # Biru
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1390.1.1
-        death_date = 1470.1.1
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "Biru"
+    monarch_name = "Biru"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1390.1.1
+    death_date = 1470.1.1
+    claim = 95
+    adm = 0
+    dip = 1
+    mil = 2
+  }
 }
 1415.1.1 = {
-    monarch = {
-        name = "Biru"  # Biru
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 0
-        dip = 1
-        mil = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = naive_personality
+  monarch = {
+    name = "Biru"
+    dynasty = "Hada-Chauhan"
+    adm = 0
+    dip = 1
+    mil = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = naive_personality
 }
 1415.1.1 = {
-    heir = {
-        name = "Bandu"  # Bandu
-        monarch_name = "Bandu"  # Bandu
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1410.1.1
-        death_date = 1491.1.1
-        claim = 95
-        adm = 3
-        dip = 1
-        mil = 0
-    }
+  heir = {
+    name = "Bandu"
+    monarch_name = "Bandu"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1410.1.1
+    death_date = 1491.1.1
+    claim = 95
+    adm = 3
+    dip = 1
+    mil = 0
+  }
 }
 1470.1.1 = {
-    monarch = {
-        name = "Bandu"  # Bandu
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 3
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "Bandu"
+    dynasty = "Hada-Chauhan"
+    adm = 3
+    dip = 1
+    mil = 0
+  }
 }
 1470.1.1 = {
-    heir = {
-        name = "纳拉扬"  # Narayan
-        monarch_name = "纳拉扬 达斯"  # Narayan Das
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1450.1.1
-        death_date = 1527.1.1
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 4
-    }
-    clear_scripted_personalities = yes
-    add_heir_personality = lawgiver_personality
+  heir = {
+    name = "纳拉扬"  # Narayan
+    monarch_name = "纳拉扬 达斯"  # Narayan Das
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1450.1.1
+    death_date = 1527.1.1
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 4
+  }
+  clear_scripted_personalities = yes
+  add_heir_personality = lawgiver_personality
 }
 1491.1.1 = {
-    monarch = {
-        name = "纳拉扬 达斯"  # Narayan Das
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 3
-        dip = 2
-        mil = 4
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = lawgiver_personality
+  monarch = {
+    name = "纳拉扬 达斯"  # Narayan Das
+    dynasty = "Hada-Chauhan"
+    adm = 3
+    dip = 2
+    mil = 4
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = lawgiver_personality
 }
 1491.1.1 = {
-    heir = {
-        name = "Suraj Mal"  # Suraj Mal
-        monarch_name = "Suraj Mal"  # Suraj Mal
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1481.1.1
-        death_date = 1531.1.1
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 0
-    }
+  heir = {
+    name = "Suraj Mal"
+    monarch_name = "Suraj Mal"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1481.1.1
+    death_date = 1531.1.1
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 0
+  }
 }
 1527.1.1 = {
-    monarch = {
-        name = "Suraj Mal"  # Suraj Mal
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 1
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "Suraj Mal"
+    dynasty = "Hada-Chauhan"
+    adm = 1
+    dip = 1
+    mil = 0
+  }
 }
 1527.1.1 = {
-    heir = {
-        name = "Surtan Singh"  # Surtan Singh
-        monarch_name = "Surtan Singh"  # Surtan Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1510.1.1
-        death_date = 1544.1.1
-        claim = 95
-        adm = 2
-        dip = 4
-        mil = 0
-    }
+  heir = {
+    name = "Surtan Singh"
+    monarch_name = "Surtan Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1510.1.1
+    death_date = 1544.1.1
+    claim = 95
+    adm = 2
+    dip = 4
+    mil = 0
+  }
 }
 1531.1.1 = {
-    monarch = {
-        name = "Surtan Singh"  # Surtan Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 2
-        dip = 4
-        mil = 0
-    }
+  monarch = {
+    name = "Surtan Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 2
+    dip = 4
+    mil = 0
+  }
 }
 1531.1.1 = {
-    heir = {
-        name = "Surjan Singh"  # Surjan Singh
-        monarch_name = "Surjan Singh"  # Surjan Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1520.1.1
-        death_date = 1585.1.1
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "Surjan Singh"
+    monarch_name = "Surjan Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1520.1.1
+    death_date = 1585.1.1
+    claim = 95
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1544.1.1 = {
-    monarch = {
-        name = "Surjan Singh"  # Surjan Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "Surjan Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1544.1.1 = {
-    heir = {
-        name = "Bhoj Singh"  # Bhoj Singh
-        monarch_name = "Bhoj Singh"  # Bhoj Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1520.1.1
-        death_date = 1608.1.1
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "Bhoj Singh"
+    monarch_name = "Bhoj Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1520.1.1
+    death_date = 1608.1.1
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1585.1.1 = {
-    monarch = {
-        name = "Bhoj Singh"  # Bhoj Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "Bhoj Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1585.1.1 = {
-    heir = {
-        name = "Ratan Singh"  # Ratan Singh
-        monarch_name = "Ratan Singh"  # Ratan Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1570.1.1
-        death_date = 1632.1.1
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 4
-    }
+  heir = {
+    name = "Ratan Singh"
+    monarch_name = "Ratan Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1570.1.1
+    death_date = 1632.1.1
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 4
+  }
 }
 1608.1.1 = {
-    monarch = {
-        name = "Ratan Singh"  # Ratan Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 3
-        dip = 2
-        mil = 4
-    }
+  monarch = {
+    name = "Ratan Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 3
+    dip = 2
+    mil = 4
+  }
 }
 1608.1.1 = {
-    heir = {
-        name = "Chatra Singh"  # Chatra Singh
-        monarch_name = "Chatra Singh"  # Chatra Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1590.1.1
-        death_date = 1658.1.1
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "Chatra Singh"
+    monarch_name = "Chatra Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1590.1.1
+    death_date = 1658.1.1
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1632.1.1 = {
-    monarch = {
-        name = "Chatra Singh"  # Chatra Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "Chatra Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1632.1.1 = {
-    heir = {
-        name = "Bao Singh"  # Bao Singh
-        monarch_name = "Bao Singh"  # Bao Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1630.1.1
-        death_date = 1682.1.1
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "Bao Singh"
+    monarch_name = "Bao Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1630.1.1
+    death_date = 1682.1.1
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 2
+  }
 }
 1658.1.1 = {
-    monarch = {
-        name = "Bao Singh"  # Bao Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 3
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "Bao Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 3
+    dip = 3
+    mil = 2
+  }
 }
 1658.1.1 = {
-    heir = {
-        name = "Anirudh Singh"  # Anirudh Singh
-        monarch_name = "Anirudh Singh"  # Anirudh Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1640.1.1
-        death_date = 1696.1.1
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "Anirudh Singh"
+    monarch_name = "Anirudh Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1640.1.1
+    death_date = 1696.1.1
+    claim = 95
+    adm = 1
+    dip = 3
+    mil = 2
+  }
 }
 1682.1.1 = {
-    monarch = {
-        name = "Anirudh Singh"  # Anirudh Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 1
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "Anirudh Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 1
+    dip = 3
+    mil = 2
+  }
 }
 1682.1.1 = {
-    heir = {
-        name = "Budh Singh"  # Budh Singh
-        monarch_name = "Budh Singh"  # Budh Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1670.1.1
-        death_date = 1735.1.1
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 1
-    }
+  heir = {
+    name = "Budh Singh"
+    monarch_name = "Budh Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1670.1.1
+    death_date = 1735.1.1
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 1
+  }
 }
 1696.1.1 = {
-    monarch = {
-        name = "Anirudh Singh"  # Anirudh Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 3
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "Anirudh Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 3
+    dip = 2
+    mil = 1
+  }
 }
 1696.1.1 = {
-    heir = {
-        name = "Dalel Singh"  # Dalel Singh
-        monarch_name = "Dalel Singh"  # Dalel Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1680.1.1
-        death_date = 1749.1.1
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  heir = {
+    name = "Dalel Singh"
+    monarch_name = "Dalel Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1680.1.1
+    death_date = 1749.1.1
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1735.1.1 = {
-    monarch = {
-        name = "Dalel Singh"  # Dalel Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "Dalel Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1735.1.1 = {
-    heir = {
-        name = "Umaid Singh"  # Umaid Singh
-        monarch_name = "Umaid Singh"  # Umaid Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1729.6.14
-        death_date = 1804.1.1
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 4
-    }
+  heir = {
+    name = "Umaid Singh"
+    monarch_name = "Umaid Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1729.6.14
+    death_date = 1804.1.1
+    claim = 95
+    adm = 3
+    dip = 4
+    mil = 4
+  }
 }
 1749.1.1 = {
-    monarch = {
-        name = "Umaid Singh"  # Umaid Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 3
-        dip = 4
-        mil = 4
-    }
+  monarch = {
+    name = "Umaid Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 3
+    dip = 4
+    mil = 4
+  }
 }
 1749.1.1 = {
-    heir = {
-        name = "Ajit Singh"  # Ajit Singh
-        monarch_name = "Ajit Singh"  # Ajit Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1730.1.1
-        death_date = 1773.1.1
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 0
-    }
+  heir = {
+    name = "Ajit Singh"
+    monarch_name = "Ajit Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1730.1.1
+    death_date = 1773.1.1
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 0
+  }
 }
 1770.1.1 = {
-    monarch = {
-        name = "Ajit Singh"  # Ajit Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 2
-        dip = 2
-        mil = 0
-    }
+  monarch = {
+    name = "Ajit Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 2
+    dip = 2
+    mil = 0
+  }
 }
 1770.1.1 = {
-    heir = {
-        name = "Umaid Singh"  # Umaid Singh
-        monarch_name = "Umaid Singh"  # Umaid Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1729.6.14
-        death_date = 1804.1.1
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 4
-    }
+  heir = {
+    name = "Umaid Singh"
+    monarch_name = "Umaid Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1729.6.14
+    death_date = 1804.1.1
+    claim = 95
+    adm = 3
+    dip = 4
+    mil = 4
+  }
 }
 1773.1.1 = {
-    monarch = {
-        name = "Umaid Singh"  # Umaid Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 3
-        dip = 4
-        mil = 4
-    }
+  monarch = {
+    name = "Umaid Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 3
+    dip = 4
+    mil = 4
+  }
 }
 1773.1.1 = {
-    heir = {
-        name = "Bishen Singh"  # Bishen Singh
-        monarch_name = "Bishen Singh"  # Bishen Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        birth_Date = 1770.1.1
-        death_date = 1821.1.1
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  heir = {
+    name = "Bishen Singh"
+    monarch_name = "Bishen Singh"
+    dynasty = "Hada-Chauhan"
+    birth_Date = 1770.1.1
+    death_date = 1821.1.1
+    claim = 95
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1804.1.1 = {
-    monarch = {
-        name = "Bishen Singh"  # Bishen Singh
-        dynasty = "Hada-Chauhan"  # Hada-Chauhan
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "Bishen Singh"
+    dynasty = "Hada-Chauhan"
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1818.2.10 = {
-    government_rank = 2
+  government_rank = 2
 }

@@ -5,41 +5,41 @@ religion = catholic
 primary_culture = sicilian
 capital = 125
 1377.1.28 = {
-    monarch = {
-        name = "玛丽亚 I"  # Maria I
-        dynasty = "德 阿拉贡"  # d'Aragó
-        dip = 3
-        mil = 4
-        adm = 2
-        female = yes
-    }
+  monarch = {
+    name = "玛丽亚 I"  # Maria I
+    dynasty = "德 阿拉贡"  # d'Aragó
+    dip = 3
+    mil = 4
+    adm = 2
+    female = yes
+  }
 }
 1713.4.12 = {
-    monarch = {
-        name = "维托里奥 阿梅迪奥 II"  # Vittorio Amedeo II
-        dynasty = "迪 萨伏伊"  # di Savoia
-        adm = 4
-        dip = 6
-        mil = 5
-        leader = {
-            name = "维托里奥 阿梅迪奥 II"  # Vittorio Amedeo II
-            type = general
-            fire = 4
-            shock = 4
-            manuever = 2
-            siege = 2
-        }
+  monarch = {
+    name = "维托里奥 阿梅迪奥 II"  # Vittorio Amedeo II
+    dynasty = "迪 萨伏伊"  # di Savoia
+    adm = 4
+    dip = 6
+    mil = 5
+    leader = {
+      name = "维托里奥 阿梅迪奥 II"  # Vittorio Amedeo II
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 2
+      siege = 2
     }
+  }
 }
 1806.3.11 = {
-    government = monarchy
+  government = monarchy
 }
 1806.3.11 = {
-    monarch = {
-        name = "费兰特 IV"  # Ferrante IV
-        dynasty = "德 波旁"  # de Bourbon
-        dip = 0
-        mil = 0
-        adm = 0
-    }
+  monarch = {
+    name = "费兰特 IV"  # Ferrante IV
+    dynasty = "德 波旁"  # de Bourbon
+    dip = 0
+    mil = 0
+    adm = 0
+  }
 }

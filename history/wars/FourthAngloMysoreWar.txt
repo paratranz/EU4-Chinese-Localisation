@@ -1,13 +1,13 @@
 ﻿name = "第四次英国-迈索尔战争"  # Fourth Anglo-Mysore War
 war_goal = {
-    type = take_capital_imperial
-    casus_belli = cb_imperial
+  type = take_capital_imperial
+  casus_belli = cb_imperial
 }
 1798.1.1 = {
-    add_attacker = GBR
-    add_defender = MYS
+  add_attacker = GBR
+  add_defender = MYS
 }
 1799.1.1 = {
-    rem_attacker = GBR
-    rem_defender = MYS
+  rem_attacker = GBR
+  rem_defender = MYS
 }

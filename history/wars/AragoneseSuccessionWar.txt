@@ -1,14 +1,14 @@
 ﻿name = "阿拉贡继承战争"  # Aragonese Succession War
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = ARA
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = ARA
 }
 1462.4.11 = {
-    add_attacker = CAS
-    add_defender = ARA
+  add_attacker = CAS
+  add_defender = ARA
 }
 1463.1.1 = {
-    rem_attacker = CAS
-    rem_defender = ARA
+  rem_attacker = CAS
+  rem_defender = ARA
 }

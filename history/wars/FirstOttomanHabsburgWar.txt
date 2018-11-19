@@ -1,47 +1,47 @@
 ﻿name = "第一次奥土战争"  # First Ottoman-Habsburg War
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 1951
+  type = take_core
+  casus_belli = cb_core
+  province = 1951
 }
 1527.7.1 = {
-    add_attacker = HAB
-    add_defender = TRA
+  add_attacker = HAB
+  add_defender = TRA
 }
 1528.9.1 = {
-    add_defender = TUR
-    add_defender = WAL
-    add_defender = MOL
-    add_defender = CRI
-    add_defender = RAG
+  add_defender = TUR
+  add_defender = WAL
+  add_defender = MOL
+  add_defender = CRI
+  add_defender = RAG
 }
 1529.9.27 = {
-    battle = {
-        name = "维也纳"  # Vienna
-        location = 134
-        attacker = {
-            commander = "威廉 冯 罗根多夫"  # Wilhelm von Roggendorf
-            infantry = 24700
-            cavalry = 2000
-            losses = 15
-            country = HAB
-        }
-        defender = {
-            commander = "苏莱曼 I"  # Suleiman I
-            infantry = 80000
-            cavalry = 40000
-            losses = 20
-            country = TUR
-        }
-        result = yes
+  battle = {
+    name = "维也纳"  # Vienna
+    location = 134
+    attacker = {
+      commander = "威廉 冯 罗根多夫"  # Wilhelm von Roggendorf
+      infantry = 24700
+      cavalry = 2000
+      losses = 15
+      country = HAB
     }
+    defender = {
+      commander = "苏莱曼 I"  # Suleiman I
+      infantry = 80000
+      cavalry = 40000
+      losses = 20
+      country = TUR
+    }
+    result = yes
+  }
 }
 1533.6.22 = {
-    rem_attacker = HAB
-    rem_defender = TRA
-    rem_defender = TUR
-    rem_defender = WAL
-    rem_defender = MOL
-    rem_defender = CRI
-    rem_defender = RAG
+  rem_attacker = HAB
+  rem_defender = TRA
+  rem_defender = TUR
+  rem_defender = WAL
+  rem_defender = MOL
+  rem_defender = CRI
+  rem_defender = RAG
 }

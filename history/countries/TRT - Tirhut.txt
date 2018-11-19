@@ -6,169 +6,169 @@ religion = hinduism
 technology_group = indian
 capital = 2047
 1399.1.1 = {
-    monarch = {
-        name = "波陀摩僧诃"  # Padma Singh
-        dynasty = "Oinwara"  # Oinwara
-        adm = 1
-        dip = 2
-        mil = 0
-    }
+  monarch = {
+    name = "波陀摩僧诃"  # Padma Singh
+    dynasty = "Oinwara"
+    adm = 1
+    dip = 2
+    mil = 0
+  }
 }
 1399.1.1 = {
-    heir = {
-        name = "毗湿婆苏"  # Bishwas
-        monarch_name = "毗湿婆苏提毗"  # Bishwas Devi
-        dynasty = "Oinwara"  # Oinwara
-        birth_date = 1360.1.1
-        death_Date = 1420.1.1
-        female = yes
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 1
-    }
+  heir = {
+    name = "毗湿婆苏"  # Bishwas
+    monarch_name = "毗湿婆苏提毗"  # Bishwas Devi
+    dynasty = "Oinwara"
+    birth_date = 1360.1.1
+    death_Date = 1420.1.1
+    female = yes
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 1
+  }
 }
 1415.1.1 = {
-    monarch = {
-        name = "毗湿婆苏提毗"  # Bishwas Devi
-        dynasty = "Oinwara"  # Oinwara
-        female = yes
-        adm = 3
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "毗湿婆苏提毗"  # Bishwas Devi
+    dynasty = "Oinwara"
+    female = yes
+    adm = 3
+    dip = 2
+    mil = 1
+  }
 }
 1415.1.1 = {
-    heir = {
-        name = "曷利僧诃"  # Hari Singh
-        monarch_name = "曷利僧诃"  # Hari Singh
-        dynasty = "Oinwara"  # Oinwara
-        birth_date = 1380.1.1
-        death_Date = 1440.1.1
-        claim = 95
-        adm = 3
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "曷利僧诃"  # Hari Singh
+    monarch_name = "曷利僧诃"  # Hari Singh
+    dynasty = "Oinwara"
+    birth_date = 1380.1.1
+    death_Date = 1440.1.1
+    claim = 95
+    adm = 3
+    dip = 1
+    mil = 2
+  }
 }
 1420.1.1 = {
-    monarch = {
-        name = "曷利僧诃"  # Hari Singh
-        dynasty = "Oinwara"  # Oinwara
-        adm = 3
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "曷利僧诃"  # Hari Singh
+    dynasty = "Oinwara"
+    adm = 3
+    dip = 1
+    mil = 2
+  }
 }
 1420.1.1 = {
-    heir = {
-        name = "那梨僧诃"  # Nar Singh
-        monarch_name = "那利 僧诃"  # Nar Singh
-        dynasty = "Oinwara"  # Oinwara
-        birth_date = 1390.1.1
-        death_Date = 1459.1.1
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 1
-    }
+  heir = {
+    name = "那梨僧诃"  # Nar Singh
+    monarch_name = "那利 僧诃"  # Nar Singh
+    dynasty = "Oinwara"
+    birth_date = 1390.1.1
+    death_Date = 1459.1.1
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 1
+  }
 }
 1440.1.1 = {
-    monarch = {
-        name = "那梨僧诃"  # Nar Singh
-        dynasty = "Oinwara"  # Oinwara
-        adm = 2
-        dip = 2
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = scholar_personality
+  monarch = {
+    name = "那梨僧诃"  # Nar Singh
+    dynasty = "Oinwara"
+    adm = 2
+    dip = 2
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = scholar_personality
 }
 1440.1.1 = {
-    heir = {
-        name = "提罗 僧诃"  # Dhir Singh
-        monarch_name = "提罗僧诃"  # Dhir Singh
-        dynasty = "Oinwara"  # Oinwara
-        birth_date = 1420.1.1
-        death_Date = 1480.1.1
-        claim = 95
-        adm = 3
-        dip = 0
-        mil = 0
-    }
+  heir = {
+    name = "提罗 僧诃"  # Dhir Singh
+    monarch_name = "提罗僧诃"  # Dhir Singh
+    dynasty = "Oinwara"
+    birth_date = 1420.1.1
+    death_Date = 1480.1.1
+    claim = 95
+    adm = 3
+    dip = 0
+    mil = 0
+  }
 }
 1459.1.1 = {
-    monarch = {
-        name = "提罗僧诃"  # Dhir Singh
-        dynasty = "Oinwara"  # Oinwara
-        adm = 3
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "提罗僧诃"  # Dhir Singh
+    dynasty = "Oinwara"
+    adm = 3
+    dip = 0
+    mil = 0
+  }
 }
 1459.1.1 = {
-    heir = {
-        name = "陪胪 僧诃"  # Bhairav Singh
-        monarch_name = "陪胪僧诃"  # Bhairav Singh
-        dynasty = "Oinwara"  # Oinwara
-        birth_date = 1440.1.1
-        death_Date = 1515.1.1
-        claim = 95
-        adm = 4
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "陪胪 僧诃"  # Bhairav Singh
+    monarch_name = "陪胪僧诃"  # Bhairav Singh
+    dynasty = "Oinwara"
+    birth_date = 1440.1.1
+    death_Date = 1515.1.1
+    claim = 95
+    adm = 4
+    dip = 3
+    mil = 1
+  }
 }
 1480.1.1 = {
-    monarch = {
-        name = "陪胪 僧诃"  # Bhairav Singh
-        dynasty = "Oinwara"  # Oinwara
-        adm = 4
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "陪胪 僧诃"  # Bhairav Singh
+    dynasty = "Oinwara"
+    adm = 4
+    dip = 3
+    mil = 1
+  }
 }
 1480.1.1 = {
-    heir = {
-        name = "Rambhadra Singh"  # Rambhadra Singh
-        monarch_name = "Rambhadra Singh"  # Rambhadra Singh
-        dynasty = "Oinwara"  # Oinwara
-        birth_date = 1460.1.1
-        death_Date = 1520.1.1
-        claim = 95
-        adm = 0
-        dip = 2
-        mil = 0
-    }
+  heir = {
+    name = "Rambhadra Singh"
+    monarch_name = "Rambhadra Singh"
+    dynasty = "Oinwara"
+    birth_date = 1460.1.1
+    death_Date = 1520.1.1
+    claim = 95
+    adm = 0
+    dip = 2
+    mil = 0
+  }
 }
 1515.1.1 = {
-    monarch = {
-        name = "Rambhadra Singh"  # Rambhadra Singh
-        dynasty = "Oinwara"  # Oinwara
-        adm = 0
-        dip = 2
-        mil = 0
-    }
+  monarch = {
+    name = "Rambhadra Singh"
+    dynasty = "Oinwara"
+    adm = 0
+    dip = 2
+    mil = 0
+  }
 }
 1515.1.1 = {
-    heir = {
-        name = "Laxminath Singh"  # Laxminath Singh
-        monarch_name = "Laxminath Singh"  # Laxminath Singh
-        dynasty = "Oinwara"  # Oinwara
-        birth_date = 1470.1.1
-        death_Date = 1524.1.1
-        claim = 95
-        adm = 1
-        dip = 0
-        mil = 0
-    }
+  heir = {
+    name = "Laxminath Singh"
+    monarch_name = "Laxminath Singh"
+    dynasty = "Oinwara"
+    birth_date = 1470.1.1
+    death_Date = 1524.1.1
+    claim = 95
+    adm = 1
+    dip = 0
+    mil = 0
+  }
 }
 1520.1.1 = {
-    monarch = {
-        name = "Rambhadra Singh"  # Rambhadra Singh
-        dynasty = "Oinwara"  # Oinwara
-        adm = 1
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "Rambhadra Singh"
+    dynasty = "Oinwara"
+    adm = 1
+    dip = 0
+    mil = 0
+  }
 }

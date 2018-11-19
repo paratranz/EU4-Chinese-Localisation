@@ -1,16 +1,16 @@
 ﻿name = "第一次奥斯曼-威尼斯战争"  # First Ottoman-Venetian War
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 148
+  type = take_core
+  casus_belli = cb_core
+  province = 148
 }
 1423.1.1 = {
-    add_attacker = TUR
-    add_defender = VEN
-    add_defender = CEP
+  add_attacker = TUR
+  add_defender = VEN
+  add_defender = CEP
 }
 1430.3.29 = {
-    rem_attacker = TUR
-    rem_defender = VEN
-    rem_defender = CEP
+  rem_attacker = TUR
+  rem_defender = VEN
+  rem_defender = CEP
 }

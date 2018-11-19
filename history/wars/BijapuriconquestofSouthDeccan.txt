@@ -1,16 +1,16 @@
 ﻿name = "对南徳干的侵略"  # Invasion of Southern Deccan
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 538
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 538
 }
 1649.1.1 = {
-    add_attacker = BIJ
-    add_defender = MYS
-    add_defender = GNG
+  add_attacker = BIJ
+  add_defender = MYS
+  add_defender = GNG
 }
 1649.12.1 = {
-    rem_attacker = BIJ
-    rem_defender = MYS
-    rem_defender = GNG
+  rem_attacker = BIJ
+  rem_defender = MYS
+  rem_defender = GNG
 }

@@ -1,16 +1,16 @@
 ﻿name = "第一次英国-迈索尔战争"  # First Anglo-Mysore War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 541
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 541
 }
 1766.1.1 = {
-    add_attacker = DEC
-    add_attacker = GBR
-    add_defender = MYS
+  add_attacker = DEC
+  add_attacker = GBR
+  add_defender = MYS
 }
 1769.1.1 = {
-    rem_attacker = DEC
-    rem_attacker = GBR
-    rem_defender = MYS
+  rem_attacker = DEC
+  rem_attacker = GBR
+  rem_defender = MYS
 }

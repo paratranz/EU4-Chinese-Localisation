@@ -1,16 +1,16 @@
 ﻿name = "加贾帕蒂入侵安得拉海岸"  # Gajapati Invasion of Coastal Andhra
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 543
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 543
 }
 1476.1.1 = {
-    add_attacker = ORI
-    add_attacker = GRJ
-    add_defender = BAH
+  add_attacker = ORI
+  add_attacker = GRJ
+  add_defender = BAH
 }
 1478.1.1 = {
-    rem_attacker = ORI
-    rem_attacker = GRJ
-    rem_defender = BAH
+  rem_attacker = ORI
+  rem_attacker = GRJ
+  rem_defender = BAH
 }

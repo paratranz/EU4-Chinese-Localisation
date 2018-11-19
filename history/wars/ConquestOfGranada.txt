@@ -1,15 +1,15 @@
 ﻿name = "征服格拉纳达"  # Conquest of Granada
 war_goal = {
-    type = superiority_crusade
-    casus_belli = cb_crusade
+  type = superiority_crusade
+  casus_belli = cb_crusade
 }
 1482.12.26 = {
-    add_attacker = CAS
-    add_attacker = ARA
-    add_defender = GRA
+  add_attacker = CAS
+  add_attacker = ARA
+  add_defender = GRA
 }
 1492.1.2 = {
-    rem_attacker = CAS
-    rem_attacker = ARA
-    rem_defender = GRA
+  rem_attacker = CAS
+  rem_attacker = ARA
+  rem_defender = GRA
 }

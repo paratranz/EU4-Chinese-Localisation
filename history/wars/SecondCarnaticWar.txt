@@ -1,20 +1,20 @@
 ﻿name = "第二次卡纳提克战争"  # The second Carnatic War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 1947
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 1947
 }
 1750.12.16 = {
-    add_attacker = GBR
-    add_attacker = MAR
-    add_defender = KRK
-    add_defender = DEC
-    add_defender = FRA
+  add_attacker = GBR
+  add_attacker = MAR
+  add_defender = KRK
+  add_defender = DEC
+  add_defender = FRA
 }
 1754.8.2 = {
-    rem_attacker = GBR
-    rem_attacker = MAR
-    rem_defender = DEC
-    rem_defender = KRK
-    rem_defender = FRA
+  rem_attacker = GBR
+  rem_attacker = MAR
+  rem_defender = DEC
+  rem_defender = KRK
+  rem_defender = FRA
 }

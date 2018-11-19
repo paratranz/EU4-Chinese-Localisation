@@ -1,14 +1,14 @@
 ﻿name = "莫卧儿入侵卡提阿瓦"  # Mughal Invasion of Kathiawar
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 503
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 503
 }
 1590.1.1 = {
-    add_attacker = MUG
-    add_defender = KAT
+  add_attacker = MUG
+  add_defender = KAT
 }
 1592.1.1 = {
-    rem_attacker = MUG
-    rem_defender = KAT
+  rem_attacker = MUG
+  rem_defender = KAT
 }

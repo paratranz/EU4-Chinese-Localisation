@@ -8,26 +8,26 @@ technology_group = muslim
 capital = 2213
 religious_school = ismaili_school
 1442.1.1 = {
+  religion = sunni
+  religious_school = hanafi_school
+  add_piety = -0.5
+  monarch = {
+    name = "穆罕默德 本 拜宋豁儿"  # Muhammad bin Baysonqor
+    birth_date = 1417.1.1
+    dynasty = "帖木儿"  # Timurid
+    adm = 3
+    dip = 2
+    mil = 4
+    culture = uzbehk
     religion = sunni
-    religious_school = hanafi_school
-    add_piety = -0.5
-    monarch = {
-        name = "穆罕默德 本 拜宋豁儿"  # Muhammad bin Baysonqor
-        birth_date = 1417.1.1
-        dynasty = "帖木儿"  # Timurid
-        adm = 3
-        dip = 2
-        mil = 4
-        culture = uzbehk
-        religion = sunni
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = bold_fighter_personality
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = bold_fighter_personality
 }
 1451.1.1 = {
-    religion = shiite
-    religious_school = ismaili_school
+  religion = shiite
+  religious_school = ismaili_school
 }
 1504.1.1 = {
-    religious_school = jafari_school
+  religious_school = jafari_school
 }

@@ -1,28 +1,28 @@
 ﻿name = "俄罗斯-波兰战争"  # Russo-Polish War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 276
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 276
 }
 1654.1.1 = {
-    add_attacker = RUS
-    add_defender = PLC
+  add_attacker = RUS
+  add_defender = PLC
 }
 1656.12.1 = {
-    add_defender = HAB
-    add_defender = DAN
+  add_defender = HAB
+  add_defender = DAN
 }
 1657.6.1 = {
-    add_defender = BRA
+  add_defender = BRA
 }
 1658.2.26 = {
-    rem_defender = HAB
-    rem_defender = DAN
+  rem_defender = HAB
+  rem_defender = DAN
 }
 1660.3.5 = {
-    rem_defender = BRA
+  rem_defender = BRA
 }
 1667.1.1 = {
-    rem_defender = PLC
-    rem_attacker = RUS
+  rem_defender = PLC
+  rem_attacker = RUS
 }

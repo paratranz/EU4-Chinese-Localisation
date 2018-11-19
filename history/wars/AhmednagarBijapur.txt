@@ -1,14 +1,14 @@
 ﻿name = "比贾布尔-艾哈迈德纳格尔战争"  # Bijapuri-Ahmednagar War
 war_goal = {
-    type = take_border
-    casus_belli = cb_border_war
-    province = 544
+  type = take_border
+  casus_belli = cb_border_war
+  province = 544
 }
 1621.1.1 = {
-    add_attacker = BIJ
-    add_defender = AHM
+  add_attacker = BIJ
+  add_defender = AHM
 }
 1623.1.1 = {
-    rem_attacker = BIJ
-    rem_defender = AHM
+  rem_attacker = BIJ
+  rem_defender = AHM
 }

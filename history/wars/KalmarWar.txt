@@ -1,32 +1,32 @@
 ﻿name = "卡尔马战争"  # Kalmar War
 war_goal = {
-    type = superiority_trade_mutual
-    casus_belli = cb_trade_war
+  type = superiority_trade_mutual
+  casus_belli = cb_trade_war
 }
 1611.4.4 = {
-    add_attacker = DAN
-    add_defender = SWE
+  add_attacker = DAN
+  add_defender = SWE
 }
 1612.8.26 = {
-    battle = {
-        name = "克林根"  # Kringen
-        location = 22
-        attacker = {
-            commander = "拉尔斯 格拉姆"  # Lars Gram
-            infantry = 500
-            losses = 3
-            country = DAN
-        }
-        defender = {
-            commander = "亚历山大 拉姆齐"  # Alexander Ramsay
-            infantry = 300
-            losses = 92
-            country = SWE
-        }
-        result = yes
+  battle = {
+    name = "克林根"  # Kringen
+    location = 22
+    attacker = {
+      commander = "拉尔斯 格拉姆"  # Lars Gram
+      infantry = 500
+      losses = 3
+      country = DAN
     }
+    defender = {
+      commander = "亚历山大 拉姆齐"  # Alexander Ramsay
+      infantry = 300
+      losses = 92
+      country = SWE
+    }
+    result = yes
+  }
 }
 1613.1.20 = {
-    rem_attacker = DAN
-    rem_defender = SWE
+  rem_attacker = DAN
+  rem_defender = SWE
 }

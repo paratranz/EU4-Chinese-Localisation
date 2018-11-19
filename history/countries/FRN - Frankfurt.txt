@@ -8,28 +8,28 @@ primary_culture = hessian
 capital = 1876
 fixed_capital = 1876
 1399.1.1 = {
-    monarch = {
-        name = "市议会"  # Stadtrat
-        adm = 3
-        dip = 3
-        mil = 3
-        regent = yes
-    }
+  monarch = {
+    name = "市议会"  # Stadtrat
+    adm = 3
+    dip = 3
+    mil = 3
+    regent = yes
+  }
 }
 1798.1.1 = {
-    set_legacy_government = constitutional_republic
+  set_legacy_government = constitutional_republic
 }
 1806.1.1 = {
-    government = monarchy
-    add_government_reform = autocracy_reform
+  government = monarchy
+  add_government_reform = autocracy_reform
 }
 1806.1.1 = {
-    monarch = {
-        name = "卡尔 泰奥多尔 安东 玛利亚"  # Karl Theodor Anton Maria
-        dynasty = "冯 达尔贝格"  # von Dalberg
-        birth_date = 1744.2.8
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "卡尔 泰奥多尔 安东 玛利亚"  # Karl Theodor Anton Maria
+    dynasty = "冯 达尔贝格"  # von Dalberg
+    birth_date = 1744.2.8
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }

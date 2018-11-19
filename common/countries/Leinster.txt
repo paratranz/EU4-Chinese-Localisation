@@ -1,133 +1,133 @@
 ﻿graphical_culture = westerngfx
 color = {
-    48
-    164
-    51
+  48
+  164
+  51
 }
 historical_idea_groups = {
-    maritime_ideas
-    aristocracy_ideas
-    trade_ideas
-    diplomatic_ideas
-    economic_ideas
-    spy_ideas
-    innovativeness_ideas
-    offensive_ideas
+  maritime_ideas
+  aristocracy_ideas
+  trade_ideas
+  diplomatic_ideas
+  economic_ideas
+  spy_ideas
+  innovativeness_ideas
+  offensive_ideas
 }
 historical_units = {
-    western_medieval_infantry
-    western_medieval_knights
-    gaelic_galloglaigh
-    gaelic_mercenary
-    gaelic_free_shooter
-    irish_charge
-    anglofrench_line
-    british_redcoat
-    british_hussar
-    british_square
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  western_medieval_infantry
+  western_medieval_knights
+  gaelic_galloglaigh
+  gaelic_mercenary
+  gaelic_free_shooter
+  irish_charge
+  anglofrench_line
+  british_redcoat
+  british_hussar
+  british_square
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 leader_names = {
-    "Caomhanach"
-    "康乔沃尔"  # Conchobhair
-    "Mac Amhalghaidh"
-    "Mac an tSionnaigh"
-    "Mac Cochláin"
-    "Mac Coibheanaigh"
-    "Mac Conshnámha"
-    "Mac Fhlannchaidh"
-    "Mac Fionbhair"
-    "Mac Giolla Phadraig"
-    "Mac Raghnaill"
-    "Mac Tighearnáin"
-    "Mag Eochagáin"
-    "Ó hAimheirgin"
-    "Ó Braoin"
-    "Ó Cairbre"
-    "Ó Caoindealbháin"
-    "Ó Catharnaigh"
-    "Ó Ceallaigh"
-    "Ó Ciardha"
-    "Ó Cearbhaill"
-    "Ó Comhraidhe"
-    "Ó Congalaig"
-    "Ó Cosraigh"
-    "Ó Diubhgeannáin"
-    "Ó Doinn"
-    "Ó Donnchadha"
-    "Ó Dubhghaill"
-    "Ó Dubhuidhe"
-    "Ó Faolain"
-    "Ó Fhearghaill"
-    "Ó Fionnaláin"
-    "Ó Finntighearn"
-    "Ó hAonghusa"
-    "Ó Lorcáin"
-    "Ó Maolmhuaidh"
-    "Ó Ruairc"
-    "Ó Seaghdha"
-    "Ó Seanáin"
-    "Ó Tuathail"
+  "Caomhanach"
+  "康乔沃尔"  # Conchobhair
+  "Mac Amhalghaidh"
+  "Mac an tSionnaigh"
+  "Mac Cochláin"
+  "Mac Coibheanaigh"
+  "Mac Conshnámha"
+  "Mac Fhlannchaidh"
+  "Mac Fionbhair"
+  "Mac Giolla Phadraig"
+  "Mac Raghnaill"
+  "Mac Tighearnáin"
+  "Mag Eochagáin"
+  "Ó hAimheirgin"
+  "Ó Braoin"
+  "Ó Cairbre"
+  "Ó Caoindealbháin"
+  "Ó Catharnaigh"
+  "Ó Ceallaigh"
+  "Ó Ciardha"
+  "Ó Cearbhaill"
+  "Ó Comhraidhe"
+  "Ó Congalaig"
+  "Ó Cosraigh"
+  "Ó Diubhgeannáin"
+  "Ó Doinn"
+  "Ó Donnchadha"
+  "Ó Dubhghaill"
+  "Ó Dubhuidhe"
+  "Ó Faolain"
+  "Ó Fhearghaill"
+  "Ó Fionnaláin"
+  "Ó Finntighearn"
+  "Ó hAonghusa"
+  "Ó Lorcáin"
+  "Ó Maolmhuaidh"
+  "Ó Ruairc"
+  "Ó Seaghdha"
+  "Ó Seanáin"
+  "Ó Tuathail"
 }
 monarch_names = {
-    "Donal #7" = 40
-    "Muchadh #3" = 40
-    "Art #1" = 40
-    "Diarmaid #5" = 1
-    "Ádhamh #0" = 0
-    "Cadwgwan #0" = 0
-    "Caoimhín #0" = 0
-    "Cinnéidigh #0" = 0
-    "Deaglán #0" = 0
-    "Dougal #0" = 0
-    "Fionnlagh #0" = 0
-    "Garbhán #0" = 0
-    "Lorccán #0" = 0
-    "Mainchín #0" = 0
-    "Mathúin #0" = 0
-    "Meallán #0" = 0
-    "Naomhán #0" = 0
-    "Odhrán #0" = 0
-    "Riain #0" = 0
-    "Ríoghnán #0" = 0
-    "Rórdan #0" = 0
-    "Ruaidhrí #0" = 0
-    "Séaghdhá #0" = 0
-    "Seanán #0" = 0
-    "Sechnall #0" = 0
-    "Uinseann #0" = 0
-    "Neassa #0" = -1
-    "Rosheen #0" = -1
-    "Siofra #0" = -1
-    "卡齐尔 #0" = 40  # Cathaoir #0
-    "盖劳伊德 #1" = 20  # Gearóid #1
-    "米里斯 #1" = 20  # Muiris #1
-    "米雷查奇 #1" = 20  # Muireadhach #1
-    "克里姆赫钱恩 #0" = 20  # Criomhthann #0
-    "唐恩切德 #5" = 1  # Donnchad #5
-    "利希特瑙 #0" = 0  # Lachtna #0
-    "尼尔 #0" = 0  # Niall #0
-    "帕德里格 #0" = 0  # Pádraig #0
-    "奎因 #0" = 0  # Quinn #0
-    "吕阿卡 #0" = 0  # Ruarc #0
-    "提赫亚那 #0" = 0  # Tighearnach #0
-    "图厄撒尔 #0" = 0  # Tuathal #0
-    "威廉 #0" = 0  # Uilliam #0
+  "Donal #7" = 40
+  "Muchadh #3" = 40
+  "Art #1" = 40
+  "Diarmaid #5" = 1
+  "Ádhamh #0" = 0
+  "Cadwgwan #0" = 0
+  "Caoimhín #0" = 0
+  "Cinnéidigh #0" = 0
+  "Deaglán #0" = 0
+  "Dougal #0" = 0
+  "Fionnlagh #0" = 0
+  "Garbhán #0" = 0
+  "Lorccán #0" = 0
+  "Mainchín #0" = 0
+  "Mathúin #0" = 0
+  "Meallán #0" = 0
+  "Naomhán #0" = 0
+  "Odhrán #0" = 0
+  "Riain #0" = 0
+  "Ríoghnán #0" = 0
+  "Rórdan #0" = 0
+  "Ruaidhrí #0" = 0
+  "Séaghdhá #0" = 0
+  "Seanán #0" = 0
+  "Sechnall #0" = 0
+  "Uinseann #0" = 0
+  "Neassa #0" = -1
+  "Rosheen #0" = -1
+  "Siofra #0" = -1
+  "卡齐尔 #0" = 40  # Cathaoir #0
+  "盖劳伊德 #1" = 20  # Gearóid #1
+  "米里斯 #1" = 20  # Muiris #1
+  "米雷查奇 #1" = 20  # Muireadhach #1
+  "克里姆赫钱恩 #0" = 20  # Criomhthann #0
+  "唐恩切德 #5" = 1  # Donnchad #5
+  "利希特瑙 #0" = 0  # Lachtna #0
+  "尼尔 #0" = 0  # Niall #0
+  "帕德里格 #0" = 0  # Pádraig #0
+  "奎因 #0" = 0  # Quinn #0
+  "吕阿卡 #0" = 0  # Ruarc #0
+  "提赫亚那 #0" = 0  # Tighearnach #0
+  "图厄撒尔 #0" = 0  # Tuathal #0
+  "威廉 #0" = 0  # Uilliam #0
 }
 ship_names = {
-    "卡洛"  # Carlow
-    "都柏林"  # Dublin
-    "基尔代尔"  # Kildare
-    "基尔肯尼"  # Kilkenny
-    "Laios"
-    "朗福德"  # Longford
-    "劳斯"  # Louth
-    "米斯"  # Meath
-    "奥法利"  # Offaly
-    "Westmeath"
-    "威克斯福德"  # Wexford
-    "威克洛"  # Wicklow
+  "卡洛"  # Carlow
+  "都柏林"  # Dublin
+  "基尔代尔"  # Kildare
+  "基尔肯尼"  # Kilkenny
+  "Laios"
+  "朗福德"  # Longford
+  "劳斯"  # Louth
+  "米斯"  # Meath
+  "奥法利"  # Offaly
+  "Westmeath"
+  "威克斯福德"  # Wexford
+  "威克洛"  # Wicklow
 }

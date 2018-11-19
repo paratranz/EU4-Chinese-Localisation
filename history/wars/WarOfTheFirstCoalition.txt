@@ -1,473 +1,473 @@
 ﻿name = "第一次反法同盟战争"  # War of the First Coalition
 war_goal = {
-    type = superiority_revolution
-    casus_belli = cb_spread_the_revolution
-    tag = HAB
+  type = superiority_revolution
+  casus_belli = cb_spread_the_revolution
+  tag = HAB
 }
 1792.4.20 = {
-    add_attacker = FRA
-    add_defender = HAB
-    add_defender = PRU
-    add_defender = HAN
-    add_defender = HES
-    add_defender = BAD
-    add_defender = WUR
-    add_defender = TRI
-    add_defender = MAI
+  add_attacker = FRA
+  add_defender = HAB
+  add_defender = PRU
+  add_defender = HAN
+  add_defender = HES
+  add_defender = BAD
+  add_defender = WUR
+  add_defender = TRI
+  add_defender = MAI
 }
 1792.9.1 = {
-    add_defender = SPI
+  add_defender = SPI
 }
 1792.9.20 = {
-    battle = {
-        name = "瓦尔密"  # Valmy
-        location = 186
-        attacker = {
-            commander = "迪穆里埃"  # Dumouriez
-            infantry = 47000
-            losses = 6
-            country = FRA
-        }
-        defender = {
-            commander = "布伦瑞克公爵"  # Duke of Brunswick
-            infantry = 35000
-            losses = 5
-            country = PRU
-        }
-        result = yes
+  battle = {
+    name = "瓦尔密"  # Valmy
+    location = 186
+    attacker = {
+      commander = "迪穆里埃"  # Dumouriez
+      infantry = 47000
+      losses = 6
+      country = FRA
     }
+    defender = {
+      commander = "布伦瑞克公爵"  # Duke of Brunswick
+      infantry = 35000
+      losses = 5
+      country = PRU
+    }
+    result = yes
+  }
 }
 1792.10.1 = {
-    add_defender = FRN
+  add_defender = FRN
 }
 1792.11.6 = {
-    battle = {
-        name = "热马普"  # Jemappes
-        location = 91
-        attacker = {
-            commander = "夏尔 弗朗索瓦 迪穆里埃"  # Charles François Dumouriez
-            infantry = 35000
-            losses = 5
-            country = FRA
-        }
-        defender = {
-            commander = "阿尔伯特 萨克森-特申"  # Albert of Saxe-Teschen
-            infantry = 18000
-            losses = 15
-            country = PRU
-        }
-        result = yes
+  battle = {
+    name = "热马普"  # Jemappes
+    location = 91
+    attacker = {
+      commander = "夏尔 弗朗索瓦 迪穆里埃"  # Charles François Dumouriez
+      infantry = 35000
+      losses = 5
+      country = FRA
     }
+    defender = {
+      commander = "阿尔伯特 萨克森-特申"  # Albert of Saxe-Teschen
+      infantry = 18000
+      losses = 15
+      country = PRU
+    }
+    result = yes
+  }
 }
 1792.12.1 = {
-    add_defender = SAX
+  add_defender = SAX
 }
 1792.12.10 = {
-    add_defender = AAC
+  add_defender = AAC
 }
 1793.1.1 = {
-    add_defender = BAV
+  add_defender = BAV
 }
 1793.2.1 = {
-    add_defender = GBR
-    add_defender = NED
+  add_defender = GBR
+  add_defender = NED
 }
 1793.3.7 = {
-    add_defender = SPA
+  add_defender = SPA
 }
 1793.4.17 = {
-    add_defender = POR
+  add_defender = POR
 }
 1793.5.23 = {
-    battle = {
-        name = "法马斯"  # Famars
-        location = 167
-        attacker = {
-            commander = "拉马尔什将军"  # General Lamarche
-            infantry = 27000
-            artillery = 30
-            losses = 1
-            country = FRA
-        }
-        defender = {
-            commander = "约克公爵腓特烈"  # Frederick, Duke of York
-            infantry = 53000
-            losses = 2
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "法马斯"  # Famars
+    location = 167
+    attacker = {
+      commander = "拉马尔什将军"  # General Lamarche
+      infantry = 27000
+      artillery = 30
+      losses = 1
+      country = FRA
     }
+    defender = {
+      commander = "约克公爵腓特烈"  # Frederick, Duke of York
+      infantry = 53000
+      losses = 2
+      country = GBR
+    }
+    result = no
+  }
 }
 1793.7.14 = {
-    battle = {
-        name = "美因茨"  # Mainz
-        location = 78
-        attacker = {
-            commander = "伊尼亚斯 德瓦勒"  # Ignace d'Oyré
-            infantry = 23000
-            artillery = 184
-            losses = 17
-            country = FRA
-        }
-        defender = {
-            commander = "弗里德里希 冯 卡尔克罗伊特"  # Friedrich von Kalckreuth
-            infantry = 36000
-            artillery = 207
-            losses = 8
-            country = PRU
-        }
-        result = no
+  battle = {
+    name = "美因茨"  # Mainz
+    location = 78
+    attacker = {
+      commander = "伊尼亚斯 德瓦勒"  # Ignace d'Oyré
+      infantry = 23000
+      artillery = 184
+      losses = 17
+      country = FRA
     }
+    defender = {
+      commander = "弗里德里希 冯 卡尔克罗伊特"  # Friedrich von Kalckreuth
+      infantry = 36000
+      artillery = 207
+      losses = 8
+      country = PRU
+    }
+    result = no
+  }
 }
 1793.8.14 = {
-    battle = {
-        name = "吕松"  # Luçon
-        location = 172
-        attacker = {
-            commander = "通克"  # Tuncq
-            infantry = 10000
-            losses = 5
-            country = FRA
-        }
-        defender = {
-            commander = "吉戈特 戴尔贝"  # Gigot d’Elbée
-            infantry = 35000
-            artillery = 17
-            losses = 14
-            country = PRU
-        }
-        result = yes
+  battle = {
+    name = "吕松"  # Luçon
+    location = 172
+    attacker = {
+      commander = "通克"  # Tuncq
+      infantry = 10000
+      losses = 5
+      country = FRA
     }
+    defender = {
+      commander = "吉戈特 戴尔贝"  # Gigot d’Elbée
+      infantry = 35000
+      artillery = 17
+      losses = 14
+      country = PRU
+    }
+    result = yes
+  }
 }
 1793.9.22 = {
-    battle = {
-        name = "特吕亚"  # Truillas
-        location = 197
-        attacker = {
-            commander = "奥古斯特 达格伯特"  # Auguste Dagobert
-            infantry = 22000
-            losses = 14
-            country = FRA
-        }
-        defender = {
-            commander = "安东尼奥 里卡多斯"  # Antonio Ricardos
-            infantry = 17000
-            losses = 12
-            country = SPA
-        }
-        result = no
+  battle = {
+    name = "特吕亚"  # Truillas
+    location = 197
+    attacker = {
+      commander = "奥古斯特 达格伯特"  # Auguste Dagobert
+      infantry = 22000
+      losses = 14
+      country = FRA
     }
+    defender = {
+      commander = "安东尼奥 里卡多斯"  # Antonio Ricardos
+      infantry = 17000
+      losses = 12
+      country = SPA
+    }
+    result = no
+  }
 }
 1793.10.16 = {
-    battle = {
-        name = "瓦蒂尼"  # Wattignies
-        location = 88
-        attacker = {
-            commander = "让-巴普蒂斯 儒尔当"  # Jean-Baptiste Jourdan
-            infantry = 43000
-            losses = 7
-            country = FRA
-        }
-        defender = {
-            commander = "科堡的约西亚斯"  # Josias of Coburg
-            infantry = 23000
-            losses = 11
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "瓦蒂尼"  # Wattignies
+    location = 88
+    attacker = {
+      commander = "让-巴普蒂斯 儒尔当"  # Jean-Baptiste Jourdan
+      infantry = 43000
+      losses = 7
+      country = FRA
     }
+    defender = {
+      commander = "科堡的约西亚斯"  # Josias of Coburg
+      infantry = 23000
+      losses = 11
+      country = HAB
+    }
+    result = yes
+  }
 }
 1794.5.18 = {
-    battle = {
-        name = "图尔宽"  # Tourcoing
-        location = 167
-        attacker = {
-            commander = "约瑟夫 苏阿姆"  # Joseph Souham
-            infantry = 70000
-            artillery = 10
-            losses = 4
-            country = FRA
-        }
-        defender = {
-            commander = "科堡亲王"  # Prince of Coburg
-            infantry = 74000
-            losses = 7
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "图尔宽"  # Tourcoing
+    location = 167
+    attacker = {
+      commander = "约瑟夫 苏阿姆"  # Joseph Souham
+      infantry = 70000
+      artillery = 10
+      losses = 4
+      country = FRA
     }
+    defender = {
+      commander = "科堡亲王"  # Prince of Coburg
+      infantry = 74000
+      losses = 7
+      country = HAB
+    }
+    result = yes
+  }
 }
 1794.5.22 = {
-    battle = {
-        name = "图尔奈"  # Tournay
-        location = 91
-        attacker = {
-            commander = "让-夏尔 皮什格鲁"  # Jean-Charles Pichegru
-            infantry = 45000
-            artillery = 20
-            losses = 12
-            country = FRA
-        }
-        defender = {
-            commander = "科堡的约西亚斯"  # Josias of Coburg
-            infantry = 28000
-            losses = 11
-            country = HAB
-        }
-        result = no
+  battle = {
+    name = "图尔奈"  # Tournay
+    location = 91
+    attacker = {
+      commander = "让-夏尔 皮什格鲁"  # Jean-Charles Pichegru
+      infantry = 45000
+      artillery = 20
+      losses = 12
+      country = FRA
     }
+    defender = {
+      commander = "科堡的约西亚斯"  # Josias of Coburg
+      infantry = 28000
+      losses = 11
+      country = HAB
+    }
+    result = no
+  }
 }
 1794.6.1 = {
-    battle = {
-        name = "韦桑"  # Ushant
-        location = 1272
-        attacker = {
-            commander = "路易 托马斯 维拉雷 德 乔伊斯"  # Louis Thomas Villaret de Joyeuse
-            heavy_ship = 25
-            losses = 8
-            country = FRA
-        }
-        defender = {
-            commander = "理查德 豪威"  # Richard Howe
-            heavy_ship = 26
-            losses = 7
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "韦桑"  # Ushant
+    location = 1272
+    attacker = {
+      commander = "路易 托马斯 维拉雷 德 乔伊斯"  # Louis Thomas Villaret de Joyeuse
+      heavy_ship = 25
+      losses = 8
+      country = FRA
     }
+    defender = {
+      commander = "理查德 豪威"  # Richard Howe
+      heavy_ship = 26
+      losses = 7
+      country = GBR
+    }
+    result = no
+  }
 }
 1794.7.13 = {
-    battle = {
-        name = "孚日"  # Vosges
-        location = 75
-        attacker = {
-            commander = "米肖"  # Michaud
-            infantry = 115000
-            artillery = 10
-            losses = 2
-            country = FRA
-        }
-        defender = {
-            commander = "冯 米伦多夫"  # von Möllendorf
-            infantry = 70000
-            losses = 2
-            country = PRU
-        }
-        result = yes
+  battle = {
+    name = "孚日"  # Vosges
+    location = 75
+    attacker = {
+      commander = "米肖"  # Michaud
+      infantry = 115000
+      artillery = 10
+      losses = 2
+      country = FRA
     }
+    defender = {
+      commander = "冯 米伦多夫"  # von Möllendorf
+      infantry = 70000
+      losses = 2
+      country = PRU
+    }
+    result = yes
+  }
 }
 1794.11.17 = {
-    battle = {
-        name = "圣罗伦佐德拉穆加"  # San-Lorenzo de la Muga
-        location = 212
-        attacker = {
-            commander = "雅克 弗朗索瓦 迪戈米耶"  # Jacques François Dugommier
-            infantry = 35000
-            losses = 9
-            country = FRA
-        }
-        defender = {
-            commander = "路易斯 费尔明"  # Luis Firmin
-            infantry = 50000
-            artillery = 40
-            losses = 20
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "圣罗伦佐德拉穆加"  # San-Lorenzo de la Muga
+    location = 212
+    attacker = {
+      commander = "雅克 弗朗索瓦 迪戈米耶"  # Jacques François Dugommier
+      infantry = 35000
+      losses = 9
+      country = FRA
     }
+    defender = {
+      commander = "路易斯 费尔明"  # Luis Firmin
+      infantry = 50000
+      artillery = 40
+      losses = 20
+      country = SPA
+    }
+    result = yes
+  }
 }
 1795.1.19 = {
-    rem_defender = NED
-    add_attacker = NED
+  rem_defender = NED
+  add_attacker = NED
 }
 1795.3.14 = {
-    battle = {
-        name = "热那亚"  # Genoa
-        location = 1298
-        attacker = {
-            commander = "马丁"  # Martin
-            heavy_ship = 13
-            losses = 2
-            country = FRA
-        }
-        defender = {
-            commander = "威廉 霍特汉姆"  # William Hotham
-            heavy_ship = 14
-            losses = 1
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "热那亚"  # Genoa
+    location = 1298
+    attacker = {
+      commander = "马丁"  # Martin
+      heavy_ship = 13
+      losses = 2
+      country = FRA
     }
+    defender = {
+      commander = "威廉 霍特汉姆"  # William Hotham
+      heavy_ship = 14
+      losses = 1
+      country = GBR
+    }
+    result = no
+  }
 }
 1795.4.5 = {
-    rem_defender = PRU
+  rem_defender = PRU
 }
 1795.7.13 = {
-    battle = {
-        name = "耶尔群岛"  # Hyères Islands
-        location = 1298
-        attacker = {
-            commander = "马丁"  # Martin
-            heavy_ship = 10
-            losses = 1
-            country = FRA
-        }
-        defender = {
-            commander = "威廉 霍特汉姆"  # William Hotham
-            heavy_ship = 6
-            losses = 1
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "耶尔群岛"  # Hyères Islands
+    location = 1298
+    attacker = {
+      commander = "马丁"  # Martin
+      heavy_ship = 10
+      losses = 1
+      country = FRA
     }
+    defender = {
+      commander = "威廉 霍特汉姆"  # William Hotham
+      heavy_ship = 6
+      losses = 1
+      country = GBR
+    }
+    result = no
+  }
 }
 1795.7.22 = {
-    rem_defender = SPA
+  rem_defender = SPA
 }
 1795.8.28 = {
-    rem_defender = HES
+  rem_defender = HES
 }
 1796.4.12 = {
-    battle = {
-        name = "蒙特诺特"  # Montenotte
-        location = 101
-        attacker = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 14000
-            losses = 6
-            country = FRA
-        }
-        defender = {
-            commander = "阿让托伯爵"  # Count Argenteau
-            infantry = 9000
-            losses = 23
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "蒙特诺特"  # Montenotte
+    location = 101
+    attacker = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 14000
+      losses = 6
+      country = FRA
     }
+    defender = {
+      commander = "阿让托伯爵"  # Count Argenteau
+      infantry = 9000
+      losses = 23
+      country = HAB
+    }
+    result = yes
+  }
 }
 1796.4.14 = {
-    battle = {
-        name = "代戈"  # Dego
-        location = 101
-        attacker = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 15000
-            losses = 14
-            country = FRA
-        }
-        defender = {
-            commander = "阿让托伯爵"  # Count Argenteau
-            infantry = 5700
-            losses = 82
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "代戈"  # Dego
+    location = 101
+    attacker = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 15000
+      losses = 14
+      country = FRA
     }
+    defender = {
+      commander = "阿让托伯爵"  # Count Argenteau
+      infantry = 5700
+      losses = 82
+      country = HAB
+    }
+    result = yes
+  }
 }
 1796.5.10 = {
-    battle = {
-        name = "洛迪"  # Lodi
-        location = 104
-        attacker = {
-            commander = "拿破仑 波拿巴"  # Napoleon Bonaparte
-            infantry = 30000
-            losses = 5
-            country = FRA
-        }
-        defender = {
-            commander = "塞伯腾多夫"  # Sebottendorf
-            infantry = 6600
-            artillery = 15
-            losses = 30
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "洛迪"  # Lodi
+    location = 104
+    attacker = {
+      commander = "拿破仑 波拿巴"  # Napoleon Bonaparte
+      infantry = 30000
+      losses = 5
+      country = FRA
     }
+    defender = {
+      commander = "塞伯腾多夫"  # Sebottendorf
+      infantry = 6600
+      artillery = 15
+      losses = 30
+      country = HAB
+    }
+    result = yes
+  }
 }
 1796.5.18 = {
-    rem_defender = SPI
+  rem_defender = SPI
 }
 1796.8.19 = {
-    add_attacker = SPA
+  add_attacker = SPA
 }
 1796.9.4 = {
-    battle = {
-        name = "罗维雷托"  # Rovereto
-        location = 110
-        attacker = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 20000
-            losses = 4
-            country = FRA
-        }
-        defender = {
-            commander = "保罗 达维多维奇"  # Paul Davidovich
-            infantry = 10000
-            artillery = 40
-            losses = 30
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "罗维雷托"  # Rovereto
+    location = 110
+    attacker = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 20000
+      losses = 4
+      country = FRA
     }
+    defender = {
+      commander = "保罗 达维多维奇"  # Paul Davidovich
+      infantry = 10000
+      artillery = 40
+      losses = 30
+      country = HAB
+    }
+    result = yes
+  }
 }
 1796.9.7 = {
-    rem_defender = BAV
-    rem_defender = WUR
-    rem_defender = BAD
+  rem_defender = BAV
+  rem_defender = WUR
+  rem_defender = BAD
 }
 1796.9.8 = {
-    battle = {
-        name = "巴萨诺"  # Bassano
-        location = 112
-        attacker = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 20000
-            artillery = 40
-            losses = 2
-            country = FRA
-        }
-        defender = {
-            commander = "达格伯特 冯 维尔姆泽"  # Dagobert von Wurmser
-            infantry = 11000
-            artillery = 40
-            losses = 9
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "巴萨诺"  # Bassano
+    location = 112
+    attacker = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 20000
+      artillery = 40
+      losses = 2
+      country = FRA
     }
+    defender = {
+      commander = "达格伯特 冯 维尔姆泽"  # Dagobert von Wurmser
+      infantry = 11000
+      artillery = 40
+      losses = 9
+      country = HAB
+    }
+    result = yes
+  }
 }
 1796.11.15 = {
-    battle = {
-        name = "阿尔克勒"  # Arcole
-        location = 108
-        attacker = {
-            commander = "拿破仑 波拿巴"  # Napoleon Bonaparte
-            infantry = 28500
-            losses = 5
-            country = FRA
-        }
-        defender = {
-            commander = "约瑟夫 阿尔文齐"  # József Alvinczi
-            infantry = 22600
-            artillery = 10
-            losses = 30
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "阿尔克勒"  # Arcole
+    location = 108
+    attacker = {
+      commander = "拿破仑 波拿巴"  # Napoleon Bonaparte
+      infantry = 28500
+      losses = 5
+      country = FRA
     }
+    defender = {
+      commander = "约瑟夫 阿尔文齐"  # József Alvinczi
+      infantry = 22600
+      artillery = 10
+      losses = 30
+      country = HAB
+    }
+    result = yes
+  }
 }
 1797.10.17 = {
-    rem_attacker = FRA
-    rem_attacker = SPA
-    rem_attacker = NED
-    rem_defender = HAB
-    rem_defender = TRI
-    rem_defender = SAX
-    rem_defender = HAN
-    rem_defender = GBR
-    rem_defender = POR
-    rem_defender = MAI
-    rem_defender = AAC
-    rem_defender = FRN
+  rem_attacker = FRA
+  rem_attacker = SPA
+  rem_attacker = NED
+  rem_defender = HAB
+  rem_defender = TRI
+  rem_defender = SAX
+  rem_defender = HAN
+  rem_defender = GBR
+  rem_defender = POR
+  rem_defender = MAI
+  rem_defender = AAC
+  rem_defender = FRN
 }

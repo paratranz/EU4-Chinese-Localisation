@@ -1,14 +1,14 @@
 ﻿name = "为安得拉海岸奋斗"  # Struggle for Coastal Andhra
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 2083
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 2083
 }
 1577.1.1 = {
-    add_attacker = GOC
-    add_defender = VIJ
+  add_attacker = GOC
+  add_defender = VIJ
 }
 1598.1.1 = {
-    rem_attacker = GOC
-    rem_defender = VIJ
+  rem_attacker = GOC
+  rem_defender = VIJ
 }

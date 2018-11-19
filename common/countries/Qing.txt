@@ -1,848 +1,848 @@
 ﻿graphical_culture = asiangfx
 color = {
-    237
-    152
-    18
+  237
+  152
+  18
 }
 revolutionary_colors = {
-    5
-    8
-    13
+  5
+  8
+  13
 }
 historical_score = 350
 historical_idea_groups = {
-    trade_ideas
-    economic_ideas
-    defensive_ideas
-    expansion_ideas
-    humanist_ideas
-    quantity_ideas
-    influence_ideas
-    offensive_ideas
+  trade_ideas
+  economic_ideas
+  defensive_ideas
+  expansion_ideas
+  humanist_ideas
+  quantity_ideas
+  influence_ideas
+  offensive_ideas
 }
 historical_units = {
-    chinese_longspear
-    eastern_bow
-    chinese_footsoldier
-    chinese_steppe
-    asian_arquebusier
-    asian_charge_cavalry
-    asian_mass_infantry
-    manchu_banner
-    han_banner
-    asian_musketeer
-    chinese_dragoon
-    reformed_asian_musketeer
-    reformed_asian_cavalry
-    reformed_manchu_rifle
+  chinese_longspear
+  eastern_bow
+  chinese_footsoldier
+  chinese_steppe
+  asian_arquebusier
+  asian_charge_cavalry
+  asian_mass_infantry
+  manchu_banner
+  han_banner
+  asian_musketeer
+  chinese_dragoon
+  reformed_asian_musketeer
+  reformed_asian_cavalry
+  reformed_manchu_rifle
 }
 monarch_names = {
-    "皇太极 #0" = 10  # Hong Taiji #0
-    "福临 #0" = 10  # Fulin #0
-    "玄烨 #0" = 10  # Xuanye #0
-    "胤禛 #0" = 10  # Yinzhen #0
-    "弘历 #0" = 10  # Hongli #0
-    "颙琰 #0" = 10  # Yongyan #0
-    "豪格 #0" = 5  # Bolo #0
-    "洛格 #0" = 10  # Loge #0
-    "洛博会 #0" = 10  # Lobohoi #0
-    "叶布舒 #0" = 10  # Yebusu #0
-    "硕塞 #0" = 10  # Sose #0
-    "高塞 #0" = 10  # Gose #0
-    "常舒 #0" = 10  # Cangsu #0
-    "韬塞 #0" = 10  # Toose #0
-    "博穆博果尔 #0" = 5  # Giyesu #0
-    "福全 #0" = 10  # Fuquan #0
-    "常颖 #0" = 10  # Changning #0
-    "奇授 #0" = 10  # Qishou #0
-    "隆禧 #0" = 5  # Yunceng #0
-    "永干 #0" = 10  # Yonggan #0
-    "承瑞 #0" = 10  # Chengrui #0
-    "承祜 #0" = 10  # Chenghu #0
-    "承庆 #0" = 10  # Chengqing #0
-    "胤禔 #0" = 10  # Yinzhi #0
-    "长华 #0" = 10  # Changhua #0
-    "胤礽 #0" = 10  # Yinreng #0
-    "长生 #0" = 10  # Changsheng #0
-    "万黼 #0" = 10  # Wanpu #0
-    "胤禶 #0" = 10  # Yinzan #0
-    "胤祺 #0" = 10  # Yinqi #0
-    "胤祚 #0" = 10  # Yinzuo #0
-    "胤祐 #0" = 10  # Yinyou #0
-    "胤禩 #0" = 10  # Yinsi #0
-    "胤䄔 #0" = 10  # Yinju #0
-    "胤禟 #0" = 10  # Yintang #0
-    "胤䄉 #0" = 10  # Yin'e #0
-    "胤祹 #0" = 10  # Yintao #0
-    "胤祥 #0" = 10  # Yinxiang #0
-    "胤禵 #0" = 10  # Yinti #0
-    "胤禨 #0" = 10  # Yinji #0
-    "胤禑 #0" = 10  # Yinwu #0
-    "胤禄 #0" = 10  # Yinlu #0
-    "胤礼 #0" = 10  # Yinli #0
-    "胤祄 #0" = 10  # Yinxie #0
-    "胤禧 #0" = 10  # Yinxi #0
-    "胤祜 #0" = 10  # Yinhu #0
-    "胤秘 #0" = 10  # Yinmi #0
-    "胤禐 #0" = 10  # Yinyuan #0
-    "弘晖 #0" = 10  # Honghui #0
-    "弘昐 #0" = 10  # Hongpan #0
-    "弘昀 #0" = 10  # Hongyun #0
-    "弘时 #0" = 10  # Hongshi #0
-    "弘昼 #0" = 10  # Hongzhou #0
-    "福宜 #0" = 10  # Fuyi #0
-    "福惠 #0" = 10  # Fuhui #0
-    "福沛 #0" = 10  # Fupei #0
-    "弘曕 #0" = 10  # Hongyan #0
-    "永璜 #0" = 10  # Yonghuang #0
-    "永琏 #0" = 10  # Yonglian #0
-    "永璋 #0" = 10  # Yongzhang #0
-    "永珹 #0" = 10  # Yongcheng #0
-    "永琪 #0" = 10  # Yongqi #0
-    "永瑢 #0" = 10  # Yongrong #0
-    "永琮 #0" = 10  # Yongcong #0
-    "永璇 #0" = 10  # Yongxuan #0
-    "永瑆 #0" = 10  # Yongxing #0
-    "永璂 #0" = 0  # Yongji #0
-    "永璟 #0" = 10  # Yongjing #0
-    "永璐 #0" = 10  # Yonglu #0
-    "永璘 #0" = 10  # Yonglin #0
-    "绵怡 #0" = 10  # Mianmu #0
-    "旻宁 #0" = 10  # Mianning #0
-    "绵恺 #0" = 10  # Miankai #0
-    "绵忻 #0" = 10  # Mianxin #0
-    "绵愉 #0" = 10  # Mianyu #0
-    "舒尔哈齐 #0" = 5  # Surgaci #0
-    "代善 #0" = 5  # Daisan #0
-    "岳讬 #0" = 5  # Yoto #0
-    "济尔哈朗 #0" = 5  # Jirgalang #0
-    "阿济格 #0" = 0  # Ajige #0
-    "费扬果 #0" = 5  # Fiyanggu #0
-    "博洛 #0" = 0  # Huse #0
-    "祜塞  #0" = 5  # Bomubogor #0
-    "杰书 #0" = 5  # Fuciowan #0
-    "Fuciowan #0" = 5  # Cangaing #0
-    "常宁 #0" = 5  # Lunghi #0
-    "允礽 #0" = 0  # Yijian #0
-    "翼简 #0" = 0  # Gong #0
-    "恭 #0" = 0  # Zizhuang #0
-    "子壯 #0" = 0  # Leji #0
-    "忠义 #0" = 0  # Dacheng #0
-    "大城 #0" = 0  # Cheng'en #0
-    "成恩 #0" = 0  # Yuanwen #0
-    "元文 #0" = 0  # Shijun #0
-    "世俊 #0" = 0  # Wosi #0
-    "侗 #0" = 0  # Qizun #0
-    "启尊 #0" = 0  # Yan #0
-    "严 #0" = 0  # Dingqiu #0
-    "允肃 #0" = 0  # Yunsu #0
-    "恳棠 #0" = 0  # Kentang #0
-    "晟源 #0" = 0  # Shengyuan #0
-    "右旗 #0" = 0  # Renyu #0
-    "潘 #0" = 0  # Shidan #0
-    "恽敬 #0" = 0  # Yunjing #0
-    "焽曌 #0" = 0  # Xiongzhao #0
-    "嗣谶 #0" = 0  # Shichen #0
-    "景明 #0" = 0  # Taozhang #0
-    "颍荃 #0" = 0  # Yingquan #0
-    "钟钺 #0" = 0  # Zhongyue #0
-    "德华 #0" = 0  # Qifeng #0
-    "叔 #0" = 0  # Shu #0
-    "友恭 #0" = 0  # Yougong #0
-    "伟诚 #0" = 0  # Weicheng #0
-    "国治 #0" = 0  # Guozhi #0
-    "国志 #0" = 0  # Dashi #0
-    "大石 #0" = 0  # Peiyin #0
-    "仪泰 #0" = 0  # Yitai #0
-    "颉 #0" = 0  # Jie #0
-    "澍勋 #0" = 0  # Shuxun #0
-    "楚喆 #0" = 0  # Chuzhe #0
-    "缙邦 #0" = 0  # Jinbang #0
-    "金邦 #0" = 0  # Xiling #0
-    "西辽 #0" = 0  # Ruyang #0
-    "汝阳 #0" = 0  # Shi'en #0
-    "施恩 #0" = 0  # Wentian #0
-    "文田 #0" = 0  # Xinzhong #0
-    "澜汾 #0" = 0  # Lanfen #0
-    "兰芬 #0" = 0  # Zhenjun #0
-    "明相 #0" = 0  # Mingxiang #0
-    "明香 #0" = 0  # Fubao #0
-    "富宝 #0" = 0  # Yuyou #0
-    "明福 #0" = 0  # Jiqi #0
-    "卿摽 #0" = 0  # Qingbiao #0
-    "鸿酢 #0" = 0  # Hongzuo #0
-    "之密 #0" = 0  # Zhimi #0
-    "德玄 #0" = 0  # Dexuan #0
-    "豫叔 #0" = 0  # Yushu #0
-    "粹忠 #0" = 0  # Cuizhong #0
-    "谌询 #0" = 0  # Chenxun #0
-    "元龙 #0" = 0  # Yuanlong #0
-    "安国 #0" = 0  # Anguo #0
-    "大寿 #0" = 0  # Dashou #0
-    "芫蕤 #0" = 0  # Yuanrui #0
-    "永逸 #0" = 0  # Yongyi #0
-    "立德 #0" = 0  # Lide #0
-    "光第 #0" = 0  # Guangdi #0
-    "晁 #0" = 0  # Chao #0
-    "螟嗣 #0" = 0  # Mingshi #0
-    "汾 #0" = -1  # Fen #0
-    "坚 #0" = -1  # Jian #0
-    "温 #0" = -1  # Wen #0
-    "阿哈旦 #0" = 0  # Ahadan #0
-    "艾哈纳 #0" = 0  # Aihana #0
-    "爱星阿 #0" = 0  # Aisingga #0
-    "阿济达 #0" = 0  # Ajida #0
-    "阿达礼 #0" = 0  # Adali #0
-    "阿达尔 #0" = 0  # Ajigen #0
-    "阿克敦 #0" = 0  # Akdun #0
-    "阿兰 #0" = 0  # Alin #0
-    "阿纳布 #0" = 0  # Anabu #0
-    "阿纳库 #0" = 0  # Anaku #0
-    "阿尔逊 #0" = 0  # Arsun #0
-    "阿尔萨兰 #0" = 0  # Ashai #0
-    "亚夏 #0" = 0  # Asu #0
-    "阿苏 #0" = 0  # Ayanda #0
-    "巴歹 #0" = 0  # Baha #0
-    "巴哈 #0" = 0  # Bahabu #0
-    "跋海 #0" = 0  # Bahai #0
-    "拜色 #0" = 0  # Baise #0
-    "巴渣立 #0" = 0  # Bajar #0
-    "巴克山 #0" = 0  # Baksan #0
-    "巴鲁 #0" = 0  # Baran #0
-    "巴拉 #0" = 0  # Basan #0
-    "巴桑 #0" = 0  # Bohoto #0
-    "博吉 #0" = 0  # Bootai #0
-    "博罗 #0" = 0  # Buka #0
-    "布恕库 #0" = 0  # Busuku #0
-    "布雅里墨尔根 #0" = 0  # Buyali Mergen #0
-    "布颜代额附 #0" = 0  # Buyandai Efu #0
-    "察干 #0" = 0  # Cagan #0
-    "柴达 #0" = 0  # Caida #0
-    "常阿岱 #0" = 0  # Canggadai #0
-    "察尔奇 #0" = 0  # Carki #0
-    "车克 #0" = 0  # Ceke #0
-    "陈泰 #0" = 0  # Centai #0
-    "戚哈喇 #0" = 0  # Cihala #0
-    "绰罗欢 #0" = 0  # Colhon #0
-    "绰奇 #0" = 0  # Coki #0
-    "超哈尔 #0" = 0  # Coohar #0
-    "褚库巴图鲁 #0" = 0  # Cukuaturu #0
-    "戴 #0" = 0  # Dai #0
-    "戴玕 #0" = 0  # Daihan #0
-    "达兰 #0" = 0  # Dalan #0
-    "达礼 #0" = 0  # Dari #0
-    "达素 #0" = 0  # Dasu #0
-    "德福 #0" = 0  # Defu #0
-    "多铎 #0" = 0  # Dodo #0
-    "多哈 #0" = 0  # Doha #0
-    "多和隆 #0" = 0  # Doholon #0
-    "道喇 #0" = 0  # Doola #0
-    "多尔衮 #0" = 0  # Dorgon #0
-    "堆齐 #0" = 0  # Duici #0
-    "都尔巴 #0" = 0  # Dulei #0
-    "杜雷 #0" = 0  # Dungga #0
-    "东阿 #0" = 0  # Ebilun #0
-    "遏必隆 #0" = 0  # Elbihe #0
-    "厄尔必和 #0" = 0  # Faka #0
-    "法喀 #0" = 0  # Fakjin #0
-    "法克进 #0" = 0  # Fangge #0
-    "方额 #0" = 0  # Fatha #0
-    "法特哈 #0" = 0  # Fatan #0
-    "法谭 #0" = 0  # Fiyada #0
-    "费雅达 #0" = 0  # Fiyangga #0
-    "费扬阿 #0" = 0  # Fiyahan #0
-    "费雅汉 #0" = 0  # Fiyasha #0
-    "噶布喇 #0" = 0  # Gabula #0
-    "噶布喇巴图鲁 #0" = 0  # Gabula Baturu #0
-    "噶布剌  巴图鲁 #0" = 0  # Gadahun #0
-    "噶达浑 #0" = 0  # Gaha #0
-    "噶哈 #0" = 0  # Gajitai #0
-    "甘珠翰 #0" = 0  # Ganjuhan #0
-    "噶林 #0" = 0  # Garin #0
-    "噶思哈 #0" = 0  # Gasha #0
-    "格布额 #0" = 0  # Gebungge #0
-    "觉和托 #0" = 0  # Giohoto #0
-    "吉荪 #0" = 0  # Gisun #0
-    "郭和 #0" = 0  # Goho #0
-    "郭浑 #0" = 0  # Gohon #0
-    "郭科 #0" = 0  # Goko #0
-    "公格 #0" = 0  # Gungge #0
-    "哈达 #0" = 0  # Hada #0
-    "海都 #0" = 0  # Haidu #0
-    "哈尔汉 #0" = 0  # Halhan #0
-    "哈礼 #0" = 0  # Hari #0
-    "哈席里 #0" = 0  # Hasiri #0
-    "哈谭 #0" = 0  # Hatan #0
-    "赫臣 #0" = 0  # Hecen #0
-    "赫都 #0" = 0  # Hedu #0
-    "赫勒 #0" = 0  # Hele #0
-    "赫特赫 #0" = 0  # Hethe #0
-    "赫图 #0" = 0  # Hetu #0
-    "赫业 #0" = 0  # Heye #0
-    "席达 #0" = 0  # Hida #0
-    "希福 #0" = 0  # Hife #0
-    "希福巴克什 #0" = 0  # Hife Baks #0
-    "希尔根 #0" = 0  # Hirgen #0
-    "西里布 #0" = 0  # Hiribu #0
-    "何和礼 #0" = 0  # Hohori #0
-    "何和礼额驸 #0" = 0  # Hohori Efu #0
-    "何克屯 #0" = 0  # Hokton #0
-    "和罗 #0" = 0  # Holo #0
-    "和敏 #0" = 0  # Homin #0
-    "浑托和 #0" = 0  # Hontoho #0
-    "和伦泰 #0" = 0  # Horontai #0
-    "霍色 #0" = 0  # Hose #0
-    "和托 #0" = 0  # Hoto #0
-    "胡虎 #0" = 0  # Huhu #0
-    "胡住 #0" = 0  # Huju #0
-    "胡图 #0" = 0  # Hutu #0
-    "胡巴 #0" = 0  # Huba #0
-    "胡班 #0" = 0  # Huban #0
-    "胡兰 #0" = 0  # Hulan #0
-    "胡里 #0" = 0  # Huri #0
-    "伊巴汉 #0" = 0  # Ibahan #0
-    "伊长阿 #0" = 0  # Icangga #0
-    "伊成额 #0" = 0  # Icengge #0
-    "宜尔哈 #0" = 0  # Ilha #0
-    "宜礼布 #0" = 0  # Ilibu #0
-    "殷达浑 #0" = 0  # Indahun #0
-    "伊三 #0" = 0  # Isan #0
-    "伊桑阿 #0" = 0  # Isangga #0
-    "宜思哈 #0" = 0  # Isha #0
-    "伊苏 #0" = 0  # Isu #0
-    "伊图 #0" = 0  # Itu #0
-    "荆集 #0" = 0  # Jingji #0
-    "季喇泰 #0" = 0  # Jiratai #0
-    "卓罗 #0" = 0  # Jolo #0
-    "卓尔和 #0" = 0  # Jorho #0
-    "卓尔泰 #0" = 0  # Jortai #0
-    "朱辙 #0" = 0  # Juce #0
-    "朱成额巴图鲁 #0" = 0  # Jucengge Baturu #0
-    "朱成额 巴图鲁 #0" = 0  # Jumara #0
-    "准泰 #0" = 0  # Juntai #0
-    "喀木图 #0" = 0  # Kamtu #0
-    "喀齐兰 #0" = 0  # Kacilan #0
-    "喀喇 #0" = 0  # Kara #0
-    "肯哲 #0" = 0  # Kenje #0
-    "克什 #0" = 0  # Kesi #0
-    "克什布 #0" = 0  # Kesibu #0
-    "奇琳 #0" = 0  # Kilin #0
-    "库礼 #0" = 0  # Kuri #0
-    "喇壁 #0" = 0  # Labi #0
-    "喇都 #0" = 0  # Ladu #0
-    "拉哈礼 #0" = 0  # Lahari #0
-    "喇珠 #0" = 0  # Laju #0
-    "喇门 #0" = 0  # Lamun #0
-    "楞额礼 #0" = 0  # Lenggeri #0
-    "罗壁 #0" = 0  # Lobi #0
-    "罗密 #0" = 0  # Lomi #0
-    "隆古 #0" = 0  # Lunggu #0
-    "马祜 #0" = 0  # Mahu #0
-    "迈堪 #0" = 0  # Maikan #0
-    "麦色 #0" = 0  # Maise #0
-    "迈图 #0" = 0  # Maitu #0
-    "马毡 #0" = 0  # Majan #0
-    "马喇 #0" = 0  # Mala #0
-    "马禄堪 #0" = 0  # Malukan #0
-    "马喇希 #0" = 0  # Malahi #0
-    "莽爱 #0" = 0  # Manggai #0
-    "马禄 #0" = 0  # Malu #0
-    "莽佳 #0" = 0  # Manggiya #0
-    "马山 #0" = 0  # Masan #0
-    "墨古 #0" = 0  # Megu #0
-    "明安 #0" = 0  # Minggan #0
-    "明阿图 #0" = 0  # Minggatu #0
-    "蒙哥 #0" = 0  # Monggo #0
-    "木臣 #0" = 0  # Mucen #0
-    "穆赫林 #0" = 0  # Muheliyen #0
-    "穆虎 #0" = 0  # Muhu #0
-    "穆占 #0" = 0  # Mujan #0
-    "穆鲁 #0" = 0  # Mulu #0
-    "穆尔查 #0" = 0  # Murca #0
-    "穆里 #0" = 0  # Muri #0
-    "穆森 #0" = 0  # Musen #0
-    "穆实 #0" = 0  # Musi #0
-    "纳摹 #0" = 0  # Namu #0
-    "纳青 #0" = 0  # Nacin #0
-    "尼堪 #0" = 0  # Nikan #0
-    "讷勒 #0" = 0  # Nere #0
-    "尼堪巴图鲁 #0" = 0  # Nikan Baturu #0
-    "尼堪 巴图鲁 #0" = 0  # Nionio #0
-    "倪什哈 #0" = 0  # Nisiha #0
-    "倪雅达 #0" = 0  # Niyada #0
-    "穆舒 #0" = 0  # Musu #0
-    "鄂齐尔 #0" = 0  # Ocir #0
-    "鄂福和 #0" = 0  # Ofono #0
-    "鄂哈 #0" = 0  # Oha #0
-    "鄂尔博 #0" = 0  # Olbo #0
-    "鄂克逊 #0" = 0  # Okson #0
-    "鄂伦 #0" = 0  # Olon #0
-    "鄂尔和岱 #0" = 0  # Orhodai #0
-    "翁额洛 #0" = 0  # Ongoro #0
-    "鄂尔多 #0" = 0  # Ordo #0
-    "萨布当阿 #0" = 0  # Sabdangga #0
-    "萨弼 #0" = 0  # Sabi #0
-    "萨敦 #0" = 0  # Sadun #0
-    "萨哈 #0" = 0  # Saha #0
-    "萨哈达 #0" = 0  # Sahada #0
-    "萨哈连 #0" = 0  # Sahaliyan #0
-    "萨哈纳 #0" = 0  # Sahana #0
-    "赛弼甘 #0" = 0  # Saibigan #0
-    "赛色 #0" = 0  # Saise #0
-    "萨穆哈 #0" = 0  # Samha #0
-    "桑阿布 #0" = 0  # Sanggabu #0
-    "色赫 #0" = 0  # Sehe #0
-    "色勒 #0" = 0  # Sele #0
-    "色尔敏 #0" = 0  # Selmin #0
-    "星格里 #0" = 0  # Singgeri #0
-    "席锦泰 #0" = 0  # Sijintai #0
-    "辛泰 #0" = 0  # Sintai #0
-    "西兰 #0" = 0  # Silan #0
-    "西特库 #0" = 0  # Siteku #0
-    "索尔和 #0" = 0  # Solho #0
-    "索伦 #0" = 0  # Solon #0
-    "索额图巴图鲁 #0" = 0  # Songgotu Baturu #0
-    "索额图  巴图鲁 #0" = 0  # Sonin Baksi #0
-    "索宁巴图鲁 #0" = 0  # Sonin Baturu #0
-    "索尼  巴图鲁 #0" = 0  # Suburi #0
-    "苏白 #0" = 0  # Sube #0
-    "苏丹 #0" = 0  # Sudan #0
-    "苏赫 #0" = 0  # Suhe #0
-    "苏和臣 #0" = 0  # Suhecen #0
-    "绥哈 #0" = 0  # Suiha #0
-    "绥兰 #0" = 0  # Suilan #0
-    "松科罗巴图鲁 #0" = 0  # Songkoro Baturu #0
-    "硕翁科罗  巴图鲁 #0" = 0  # Sunggina #0
-    "孙塔 #0" = 0  # Sunta #0
-    "苏雅 #0" = 0  # Suya #0
-    "沙浑 #0" = 0  # Sahun #0
-    "沙礼 #0" = 0  # Sari #0
-    "孙札齐 #0" = 0  # Sunjaci #0
-    "他克图巴图鲁 #0" = 0  # Taktu Baturu #0
-    "塔克图 巴图鲁 #0" = 0  # Talman #0
-    "唐古哈 #0" = 0  # Tangguha #0
-    "谈图 #0" = 0  # Tantu #0
-    "苏 #0" = 0  # To #0
-    "托罗 #0" = 0  # Toro #0
-    "图弼赫 #0" = 0  # Tubihe #0
-    "图尔浑 #0" = 0  # Tulhun #0
-    "图门 #0" = 0  # Tumen #0
-    "图拉 #0" = 0  # Tura #0
-    "图礼 #0" = 0  # Turi #0
-    "图萨 #0" = 0  # Tusa #0
-    "瓦浑 #0" = 0  # Wahun #0
-    "瓦济麻 #0" = 0  # Wajima #0
-    "斡色 #0" = 0  # Wase #0
-    "邬黑 #0" = 0  # Wehe #0
-    "魏黑 #0" = 0  # Weihe #0
-    "吴喀达 #0" = 0  # Ukada #0
-    "吴库 #0" = 0  # Uku #0
-    "乌库哩 #0" = 0  # Ukuri #0
-    "吴勒 #0" = 0  # Ule #0
-    "吴尔佳齐 #0" = 0  # Ulgiyaci #0
-    "吴尔护 #0" = 0  # Ulhu #0
-    "吴礼 #0" = 0  # Uli #0
-    "吴木笃 #0" = 0  # Umudu #0
-    "温察 #0" = 0  # Unca #0
-    "温都礼 #0" = 0  # Unduri #0
-    "兀孙 #0" = 0  # Usun #0
-    "吴沙库 #0" = 0  # USaku #0
-    "雅布 #0" = 0  # Yabu #0
-    "雅拉 #0" = 0  # Yala #0
-    "雅奇 #0" = 0  # Yaki #0
-    "雅思哈 #0" = 0  # Yasha #0
-    "殷泰 #0" = 0  # Yentai #0
-    "岳丹 #0" = 0  # Yodan #0
-    "岳乐 #0" = 0  # Yolo #0
-    "岳洛 #0" = 0  # Yoro #0
-    "元宝 #0" = 0  # Yuwamboo #0
+  "皇太极 #0" = 10  # Hong Taiji #0
+  "福临 #0" = 10  # Fulin #0
+  "玄烨 #0" = 10  # Xuanye #0
+  "胤禛 #0" = 10  # Yinzhen #0
+  "弘历 #0" = 10  # Hongli #0
+  "颙琰 #0" = 10  # Yongyan #0
+  "豪格 #0" = 5  # Bolo #0
+  "洛格 #0" = 10  # Loge #0
+  "洛博会 #0" = 10  # Lobohoi #0
+  "叶布舒 #0" = 10  # Yebusu #0
+  "硕塞 #0" = 10  # Sose #0
+  "高塞 #0" = 10  # Gose #0
+  "常舒 #0" = 10  # Cangsu #0
+  "韬塞 #0" = 10  # Toose #0
+  "博穆博果尔 #0" = 5  # Giyesu #0
+  "福全 #0" = 10  # Fuquan #0
+  "常颖 #0" = 10  # Changning #0
+  "奇授 #0" = 10  # Qishou #0
+  "隆禧 #0" = 5  # Yunceng #0
+  "永干 #0" = 10  # Yonggan #0
+  "承瑞 #0" = 10  # Chengrui #0
+  "承祜 #0" = 10  # Chenghu #0
+  "承庆 #0" = 10  # Chengqing #0
+  "胤禔 #0" = 10  # Yinzhi #0
+  "长华 #0" = 10  # Changhua #0
+  "胤礽 #0" = 10  # Yinreng #0
+  "长生 #0" = 10  # Changsheng #0
+  "万黼 #0" = 10  # Wanpu #0
+  "胤禶 #0" = 10  # Yinzan #0
+  "胤祺 #0" = 10  # Yinqi #0
+  "胤祚 #0" = 10  # Yinzuo #0
+  "胤祐 #0" = 10  # Yinyou #0
+  "胤禩 #0" = 10  # Yinsi #0
+  "胤䄔 #0" = 10  # Yinju #0
+  "胤禟 #0" = 10  # Yintang #0
+  "胤䄉 #0" = 10  # Yin'e #0
+  "胤祹 #0" = 10  # Yintao #0
+  "胤祥 #0" = 10  # Yinxiang #0
+  "胤禵 #0" = 10  # Yinti #0
+  "胤禨 #0" = 10  # Yinji #0
+  "胤禑 #0" = 10  # Yinwu #0
+  "胤禄 #0" = 10  # Yinlu #0
+  "胤礼 #0" = 10  # Yinli #0
+  "胤祄 #0" = 10  # Yinxie #0
+  "胤禧 #0" = 10  # Yinxi #0
+  "胤祜 #0" = 10  # Yinhu #0
+  "胤秘 #0" = 10  # Yinmi #0
+  "胤禐 #0" = 10  # Yinyuan #0
+  "弘晖 #0" = 10  # Honghui #0
+  "弘昐 #0" = 10  # Hongpan #0
+  "弘昀 #0" = 10  # Hongyun #0
+  "弘时 #0" = 10  # Hongshi #0
+  "弘昼 #0" = 10  # Hongzhou #0
+  "福宜 #0" = 10  # Fuyi #0
+  "福惠 #0" = 10  # Fuhui #0
+  "福沛 #0" = 10  # Fupei #0
+  "弘曕 #0" = 10  # Hongyan #0
+  "永璜 #0" = 10  # Yonghuang #0
+  "永琏 #0" = 10  # Yonglian #0
+  "永璋 #0" = 10  # Yongzhang #0
+  "永珹 #0" = 10  # Yongcheng #0
+  "永琪 #0" = 10  # Yongqi #0
+  "永瑢 #0" = 10  # Yongrong #0
+  "永琮 #0" = 10  # Yongcong #0
+  "永璇 #0" = 10  # Yongxuan #0
+  "永瑆 #0" = 10  # Yongxing #0
+  "永璂 #0" = 0  # Yongji #0
+  "永璟 #0" = 10  # Yongjing #0
+  "永璐 #0" = 10  # Yonglu #0
+  "永璘 #0" = 10  # Yonglin #0
+  "绵怡 #0" = 10  # Mianmu #0
+  "旻宁 #0" = 10  # Mianning #0
+  "绵恺 #0" = 10  # Miankai #0
+  "绵忻 #0" = 10  # Mianxin #0
+  "绵愉 #0" = 10  # Mianyu #0
+  "舒尔哈齐 #0" = 5  # Surgaci #0
+  "代善 #0" = 5  # Daisan #0
+  "岳讬 #0" = 5  # Yoto #0
+  "济尔哈朗 #0" = 5  # Jirgalang #0
+  "阿济格 #0" = 0  # Ajige #0
+  "费扬果 #0" = 5  # Fiyanggu #0
+  "博洛 #0" = 0  # Huse #0
+  "祜塞  #0" = 5  # Bomubogor #0
+  "杰书 #0" = 5  # Fuciowan #0
+  "Fuciowan #0" = 5  # Cangaing #0
+  "常宁 #0" = 5  # Lunghi #0
+  "允礽 #0" = 0  # Yijian #0
+  "翼简 #0" = 0  # Gong #0
+  "恭 #0" = 0  # Zizhuang #0
+  "子壯 #0" = 0  # Leji #0
+  "忠义 #0" = 0  # Dacheng #0
+  "大城 #0" = 0  # Cheng'en #0
+  "成恩 #0" = 0  # Yuanwen #0
+  "元文 #0" = 0  # Shijun #0
+  "世俊 #0" = 0  # Wosi #0
+  "侗 #0" = 0  # Qizun #0
+  "启尊 #0" = 0  # Yan #0
+  "严 #0" = 0  # Dingqiu #0
+  "允肃 #0" = 0  # Yunsu #0
+  "恳棠 #0" = 0  # Kentang #0
+  "晟源 #0" = 0  # Shengyuan #0
+  "右旗 #0" = 0  # Renyu #0
+  "潘 #0" = 0  # Shidan #0
+  "恽敬 #0" = 0  # Yunjing #0
+  "焽曌 #0" = 0  # Xiongzhao #0
+  "嗣谶 #0" = 0  # Shichen #0
+  "景明 #0" = 0  # Taozhang #0
+  "颍荃 #0" = 0  # Yingquan #0
+  "钟钺 #0" = 0  # Zhongyue #0
+  "德华 #0" = 0  # Qifeng #0
+  "叔 #0" = 0  # Shu #0
+  "友恭 #0" = 0  # Yougong #0
+  "伟诚 #0" = 0  # Weicheng #0
+  "国治 #0" = 0  # Guozhi #0
+  "国志 #0" = 0  # Dashi #0
+  "大石 #0" = 0  # Peiyin #0
+  "仪泰 #0" = 0  # Yitai #0
+  "颉 #0" = 0  # Jie #0
+  "澍勋 #0" = 0  # Shuxun #0
+  "楚喆 #0" = 0  # Chuzhe #0
+  "缙邦 #0" = 0  # Jinbang #0
+  "金邦 #0" = 0  # Xiling #0
+  "西辽 #0" = 0  # Ruyang #0
+  "汝阳 #0" = 0  # Shi'en #0
+  "施恩 #0" = 0  # Wentian #0
+  "文田 #0" = 0  # Xinzhong #0
+  "澜汾 #0" = 0  # Lanfen #0
+  "兰芬 #0" = 0  # Zhenjun #0
+  "明相 #0" = 0  # Mingxiang #0
+  "明香 #0" = 0  # Fubao #0
+  "富宝 #0" = 0  # Yuyou #0
+  "明福 #0" = 0  # Jiqi #0
+  "卿摽 #0" = 0  # Qingbiao #0
+  "鸿酢 #0" = 0  # Hongzuo #0
+  "之密 #0" = 0  # Zhimi #0
+  "德玄 #0" = 0  # Dexuan #0
+  "豫叔 #0" = 0  # Yushu #0
+  "粹忠 #0" = 0  # Cuizhong #0
+  "谌询 #0" = 0  # Chenxun #0
+  "元龙 #0" = 0  # Yuanlong #0
+  "安国 #0" = 0  # Anguo #0
+  "大寿 #0" = 0  # Dashou #0
+  "芫蕤 #0" = 0  # Yuanrui #0
+  "永逸 #0" = 0  # Yongyi #0
+  "立德 #0" = 0  # Lide #0
+  "光第 #0" = 0  # Guangdi #0
+  "晁 #0" = 0  # Chao #0
+  "螟嗣 #0" = 0  # Mingshi #0
+  "汾 #0" = -1  # Fen #0
+  "坚 #0" = -1  # Jian #0
+  "温 #0" = -1  # Wen #0
+  "阿哈旦 #0" = 0  # Ahadan #0
+  "艾哈纳 #0" = 0  # Aihana #0
+  "爱星阿 #0" = 0  # Aisingga #0
+  "阿济达 #0" = 0  # Ajida #0
+  "阿达礼 #0" = 0  # Adali #0
+  "阿达尔 #0" = 0  # Ajigen #0
+  "阿克敦 #0" = 0  # Akdun #0
+  "阿兰 #0" = 0  # Alin #0
+  "阿纳布 #0" = 0  # Anabu #0
+  "阿纳库 #0" = 0  # Anaku #0
+  "阿尔逊 #0" = 0  # Arsun #0
+  "阿尔萨兰 #0" = 0  # Ashai #0
+  "亚夏 #0" = 0  # Asu #0
+  "阿苏 #0" = 0  # Ayanda #0
+  "巴歹 #0" = 0  # Baha #0
+  "巴哈 #0" = 0  # Bahabu #0
+  "跋海 #0" = 0  # Bahai #0
+  "拜色 #0" = 0  # Baise #0
+  "巴渣立 #0" = 0  # Bajar #0
+  "巴克山 #0" = 0  # Baksan #0
+  "巴鲁 #0" = 0  # Baran #0
+  "巴拉 #0" = 0  # Basan #0
+  "巴桑 #0" = 0  # Bohoto #0
+  "博吉 #0" = 0  # Bootai #0
+  "博罗 #0" = 0  # Buka #0
+  "布恕库 #0" = 0  # Busuku #0
+  "布雅里墨尔根 #0" = 0  # Buyali Mergen #0
+  "布颜代额附 #0" = 0  # Buyandai Efu #0
+  "察干 #0" = 0  # Cagan #0
+  "柴达 #0" = 0  # Caida #0
+  "常阿岱 #0" = 0  # Canggadai #0
+  "察尔奇 #0" = 0  # Carki #0
+  "车克 #0" = 0  # Ceke #0
+  "陈泰 #0" = 0  # Centai #0
+  "戚哈喇 #0" = 0  # Cihala #0
+  "绰罗欢 #0" = 0  # Colhon #0
+  "绰奇 #0" = 0  # Coki #0
+  "超哈尔 #0" = 0  # Coohar #0
+  "褚库巴图鲁 #0" = 0  # Cukuaturu #0
+  "戴 #0" = 0  # Dai #0
+  "戴玕 #0" = 0  # Daihan #0
+  "达兰 #0" = 0  # Dalan #0
+  "达礼 #0" = 0  # Dari #0
+  "达素 #0" = 0  # Dasu #0
+  "德福 #0" = 0  # Defu #0
+  "多铎 #0" = 0  # Dodo #0
+  "多哈 #0" = 0  # Doha #0
+  "多和隆 #0" = 0  # Doholon #0
+  "道喇 #0" = 0  # Doola #0
+  "多尔衮 #0" = 0  # Dorgon #0
+  "堆齐 #0" = 0  # Duici #0
+  "都尔巴 #0" = 0  # Dulei #0
+  "杜雷 #0" = 0  # Dungga #0
+  "东阿 #0" = 0  # Ebilun #0
+  "遏必隆 #0" = 0  # Elbihe #0
+  "厄尔必和 #0" = 0  # Faka #0
+  "法喀 #0" = 0  # Fakjin #0
+  "法克进 #0" = 0  # Fangge #0
+  "方额 #0" = 0  # Fatha #0
+  "法特哈 #0" = 0  # Fatan #0
+  "法谭 #0" = 0  # Fiyada #0
+  "费雅达 #0" = 0  # Fiyangga #0
+  "费扬阿 #0" = 0  # Fiyahan #0
+  "费雅汉 #0" = 0  # Fiyasha #0
+  "噶布喇 #0" = 0  # Gabula #0
+  "噶布喇巴图鲁 #0" = 0  # Gabula Baturu #0
+  "噶布剌  巴图鲁 #0" = 0  # Gadahun #0
+  "噶达浑 #0" = 0  # Gaha #0
+  "噶哈 #0" = 0  # Gajitai #0
+  "甘珠翰 #0" = 0  # Ganjuhan #0
+  "噶林 #0" = 0  # Garin #0
+  "噶思哈 #0" = 0  # Gasha #0
+  "格布额 #0" = 0  # Gebungge #0
+  "觉和托 #0" = 0  # Giohoto #0
+  "吉荪 #0" = 0  # Gisun #0
+  "郭和 #0" = 0  # Goho #0
+  "郭浑 #0" = 0  # Gohon #0
+  "郭科 #0" = 0  # Goko #0
+  "公格 #0" = 0  # Gungge #0
+  "哈达 #0" = 0  # Hada #0
+  "海都 #0" = 0  # Haidu #0
+  "哈尔汉 #0" = 0  # Halhan #0
+  "哈礼 #0" = 0  # Hari #0
+  "哈席里 #0" = 0  # Hasiri #0
+  "哈谭 #0" = 0  # Hatan #0
+  "赫臣 #0" = 0  # Hecen #0
+  "赫都 #0" = 0  # Hedu #0
+  "赫勒 #0" = 0  # Hele #0
+  "赫特赫 #0" = 0  # Hethe #0
+  "赫图 #0" = 0  # Hetu #0
+  "赫业 #0" = 0  # Heye #0
+  "席达 #0" = 0  # Hida #0
+  "希福 #0" = 0  # Hife #0
+  "希福巴克什 #0" = 0  # Hife Baks #0
+  "希尔根 #0" = 0  # Hirgen #0
+  "西里布 #0" = 0  # Hiribu #0
+  "何和礼 #0" = 0  # Hohori #0
+  "何和礼额驸 #0" = 0  # Hohori Efu #0
+  "何克屯 #0" = 0  # Hokton #0
+  "和罗 #0" = 0  # Holo #0
+  "和敏 #0" = 0  # Homin #0
+  "浑托和 #0" = 0  # Hontoho #0
+  "和伦泰 #0" = 0  # Horontai #0
+  "霍色 #0" = 0  # Hose #0
+  "和托 #0" = 0  # Hoto #0
+  "胡虎 #0" = 0  # Huhu #0
+  "胡住 #0" = 0  # Huju #0
+  "胡图 #0" = 0  # Hutu #0
+  "胡巴 #0" = 0  # Huba #0
+  "胡班 #0" = 0  # Huban #0
+  "胡兰 #0" = 0  # Hulan #0
+  "胡里 #0" = 0  # Huri #0
+  "伊巴汉 #0" = 0  # Ibahan #0
+  "伊长阿 #0" = 0  # Icangga #0
+  "伊成额 #0" = 0  # Icengge #0
+  "宜尔哈 #0" = 0  # Ilha #0
+  "宜礼布 #0" = 0  # Ilibu #0
+  "殷达浑 #0" = 0  # Indahun #0
+  "伊三 #0" = 0  # Isan #0
+  "伊桑阿 #0" = 0  # Isangga #0
+  "宜思哈 #0" = 0  # Isha #0
+  "伊苏 #0" = 0  # Isu #0
+  "伊图 #0" = 0  # Itu #0
+  "荆集 #0" = 0  # Jingji #0
+  "季喇泰 #0" = 0  # Jiratai #0
+  "卓罗 #0" = 0  # Jolo #0
+  "卓尔和 #0" = 0  # Jorho #0
+  "卓尔泰 #0" = 0  # Jortai #0
+  "朱辙 #0" = 0  # Juce #0
+  "朱成额巴图鲁 #0" = 0  # Jucengge Baturu #0
+  "朱成额 巴图鲁 #0" = 0  # Jumara #0
+  "准泰 #0" = 0  # Juntai #0
+  "喀木图 #0" = 0  # Kamtu #0
+  "喀齐兰 #0" = 0  # Kacilan #0
+  "喀喇 #0" = 0  # Kara #0
+  "肯哲 #0" = 0  # Kenje #0
+  "克什 #0" = 0  # Kesi #0
+  "克什布 #0" = 0  # Kesibu #0
+  "奇琳 #0" = 0  # Kilin #0
+  "库礼 #0" = 0  # Kuri #0
+  "喇壁 #0" = 0  # Labi #0
+  "喇都 #0" = 0  # Ladu #0
+  "拉哈礼 #0" = 0  # Lahari #0
+  "喇珠 #0" = 0  # Laju #0
+  "喇门 #0" = 0  # Lamun #0
+  "楞额礼 #0" = 0  # Lenggeri #0
+  "罗壁 #0" = 0  # Lobi #0
+  "罗密 #0" = 0  # Lomi #0
+  "隆古 #0" = 0  # Lunggu #0
+  "马祜 #0" = 0  # Mahu #0
+  "迈堪 #0" = 0  # Maikan #0
+  "麦色 #0" = 0  # Maise #0
+  "迈图 #0" = 0  # Maitu #0
+  "马毡 #0" = 0  # Majan #0
+  "马喇 #0" = 0  # Mala #0
+  "马禄堪 #0" = 0  # Malukan #0
+  "马喇希 #0" = 0  # Malahi #0
+  "莽爱 #0" = 0  # Manggai #0
+  "马禄 #0" = 0  # Malu #0
+  "莽佳 #0" = 0  # Manggiya #0
+  "马山 #0" = 0  # Masan #0
+  "墨古 #0" = 0  # Megu #0
+  "明安 #0" = 0  # Minggan #0
+  "明阿图 #0" = 0  # Minggatu #0
+  "蒙哥 #0" = 0  # Monggo #0
+  "木臣 #0" = 0  # Mucen #0
+  "穆赫林 #0" = 0  # Muheliyen #0
+  "穆虎 #0" = 0  # Muhu #0
+  "穆占 #0" = 0  # Mujan #0
+  "穆鲁 #0" = 0  # Mulu #0
+  "穆尔查 #0" = 0  # Murca #0
+  "穆里 #0" = 0  # Muri #0
+  "穆森 #0" = 0  # Musen #0
+  "穆实 #0" = 0  # Musi #0
+  "纳摹 #0" = 0  # Namu #0
+  "纳青 #0" = 0  # Nacin #0
+  "尼堪 #0" = 0  # Nikan #0
+  "讷勒 #0" = 0  # Nere #0
+  "尼堪巴图鲁 #0" = 0  # Nikan Baturu #0
+  "尼堪 巴图鲁 #0" = 0  # Nionio #0
+  "倪什哈 #0" = 0  # Nisiha #0
+  "倪雅达 #0" = 0  # Niyada #0
+  "穆舒 #0" = 0  # Musu #0
+  "鄂齐尔 #0" = 0  # Ocir #0
+  "鄂福和 #0" = 0  # Ofono #0
+  "鄂哈 #0" = 0  # Oha #0
+  "鄂尔博 #0" = 0  # Olbo #0
+  "鄂克逊 #0" = 0  # Okson #0
+  "鄂伦 #0" = 0  # Olon #0
+  "鄂尔和岱 #0" = 0  # Orhodai #0
+  "翁额洛 #0" = 0  # Ongoro #0
+  "鄂尔多 #0" = 0  # Ordo #0
+  "萨布当阿 #0" = 0  # Sabdangga #0
+  "萨弼 #0" = 0  # Sabi #0
+  "萨敦 #0" = 0  # Sadun #0
+  "萨哈 #0" = 0  # Saha #0
+  "萨哈达 #0" = 0  # Sahada #0
+  "萨哈连 #0" = 0  # Sahaliyan #0
+  "萨哈纳 #0" = 0  # Sahana #0
+  "赛弼甘 #0" = 0  # Saibigan #0
+  "赛色 #0" = 0  # Saise #0
+  "萨穆哈 #0" = 0  # Samha #0
+  "桑阿布 #0" = 0  # Sanggabu #0
+  "色赫 #0" = 0  # Sehe #0
+  "色勒 #0" = 0  # Sele #0
+  "色尔敏 #0" = 0  # Selmin #0
+  "星格里 #0" = 0  # Singgeri #0
+  "席锦泰 #0" = 0  # Sijintai #0
+  "辛泰 #0" = 0  # Sintai #0
+  "西兰 #0" = 0  # Silan #0
+  "西特库 #0" = 0  # Siteku #0
+  "索尔和 #0" = 0  # Solho #0
+  "索伦 #0" = 0  # Solon #0
+  "索额图巴图鲁 #0" = 0  # Songgotu Baturu #0
+  "索额图  巴图鲁 #0" = 0  # Sonin Baksi #0
+  "索宁巴图鲁 #0" = 0  # Sonin Baturu #0
+  "索尼  巴图鲁 #0" = 0  # Suburi #0
+  "苏白 #0" = 0  # Sube #0
+  "苏丹 #0" = 0  # Sudan #0
+  "苏赫 #0" = 0  # Suhe #0
+  "苏和臣 #0" = 0  # Suhecen #0
+  "绥哈 #0" = 0  # Suiha #0
+  "绥兰 #0" = 0  # Suilan #0
+  "松科罗巴图鲁 #0" = 0  # Songkoro Baturu #0
+  "硕翁科罗  巴图鲁 #0" = 0  # Sunggina #0
+  "孙塔 #0" = 0  # Sunta #0
+  "苏雅 #0" = 0  # Suya #0
+  "沙浑 #0" = 0  # Sahun #0
+  "沙礼 #0" = 0  # Sari #0
+  "孙札齐 #0" = 0  # Sunjaci #0
+  "他克图巴图鲁 #0" = 0  # Taktu Baturu #0
+  "塔克图 巴图鲁 #0" = 0  # Talman #0
+  "唐古哈 #0" = 0  # Tangguha #0
+  "谈图 #0" = 0  # Tantu #0
+  "苏 #0" = 0  # To #0
+  "托罗 #0" = 0  # Toro #0
+  "图弼赫 #0" = 0  # Tubihe #0
+  "图尔浑 #0" = 0  # Tulhun #0
+  "图门 #0" = 0  # Tumen #0
+  "图拉 #0" = 0  # Tura #0
+  "图礼 #0" = 0  # Turi #0
+  "图萨 #0" = 0  # Tusa #0
+  "瓦浑 #0" = 0  # Wahun #0
+  "瓦济麻 #0" = 0  # Wajima #0
+  "斡色 #0" = 0  # Wase #0
+  "邬黑 #0" = 0  # Wehe #0
+  "魏黑 #0" = 0  # Weihe #0
+  "吴喀达 #0" = 0  # Ukada #0
+  "吴库 #0" = 0  # Uku #0
+  "乌库哩 #0" = 0  # Ukuri #0
+  "吴勒 #0" = 0  # Ule #0
+  "吴尔佳齐 #0" = 0  # Ulgiyaci #0
+  "吴尔护 #0" = 0  # Ulhu #0
+  "吴礼 #0" = 0  # Uli #0
+  "吴木笃 #0" = 0  # Umudu #0
+  "温察 #0" = 0  # Unca #0
+  "温都礼 #0" = 0  # Unduri #0
+  "兀孙 #0" = 0  # Usun #0
+  "吴沙库 #0" = 0  # USaku #0
+  "雅布 #0" = 0  # Yabu #0
+  "雅拉 #0" = 0  # Yala #0
+  "雅奇 #0" = 0  # Yaki #0
+  "雅思哈 #0" = 0  # Yasha #0
+  "殷泰 #0" = 0  # Yentai #0
+  "岳丹 #0" = 0  # Yodan #0
+  "岳乐 #0" = 0  # Yolo #0
+  "岳洛 #0" = 0  # Yoro #0
+  "元宝 #0" = 0  # Yuwamboo #0
 }
 leader_names = {
-    "爱新觉罗"  # Aisin Gioro
-    "瑷珲"  # Aihui
-    "阿拉克塔"  # Arakta
-    "拜察"  # Baica
-    "博都哩"  # Boduri
-    "彻穆衮"  # Cemgun
-    "齐布齐努特"  # Cibukinut
-    "达佳"  # Dagiya
-    "佟佳"  # Donggiya
-    "鄂绰罗"  # Ecolo
-    "额尔吉"  # Ergi
-    "费雅"  # Feiya
-    "富塔"  # Futa
-    "精奇哩"  # Gingciri
-    "吉悌"  # Git
-    "赫佳"  # Hegiya
-    "赫舍里"  # Heseri
-    "洛"  # Io
-    "依尔根觉罗"  # Irgen Gioro
-    "查库塔"  # Jakuta
-    "朱尔克"  # Jurk
-    "克叶哷"  # Keyere
-    "奎车里克"  # Kuicelik
-    "勒第"  # Ledi
-    "陆"  # Lu
-    "谟克拖"  # Moketo
-    "那木图"  # Namutu
-    "钮祜禄"  # Niohuru
-    "潘"  # Pan
-    "婆"  # Po
-    "饶"  # Rao
-    "鲁布哩"  # Ruburi
-    "姒"  # Si
-    "索绰罗"  # Socoro
-    "泰楚特"  # Taicut
-    "涂格敦"  # Tukdun
-    U
-    "乌拉"  # Ula
-    "王"  # Wang
-    "翁吉特"  # Wenggit
-    "严"  # Yan
-    "叶赫"  # Yehe
-    "阿穆喇"  # Amura
-    "阿颜觉罗"  # Ayan gioro
-    "阿苏礼"  # Asuri
-    "阿哈觉罗"  # Aha gioro
-    "阿克占"  # Akjan
-    "爱新"  # Aisin
-    "博尔济锦"  # Borjigin
-    "巴耀特"  # Bayot
-    "巴雅喇"  # Bayara
-    "博赫礼"  # Boheri
-    "博"  # Be
-    "布济尔根"  # Bugirgen
-    "博苏特"  # Besut
-    "毕禄"  # Biru
-    "布雅齐"  # Buyaci
-    "伯力"  # Bohori
-    "布赛"  # Busai
-    "布尔查"  # Bulca
-    "布萨"  # Busa
-    "布希"  # Buhi
-    "必剌"  # Bira
-    "博提斯"  # Botis
-    "博尔济克"  # Borjik
-    "拜格"  # Baige
-    "伯苏"  # Besu
-    "巴里"  # Bari
-    "查喇拉"  # Carala
-    "察克钦"  # Cakcin
-    "查佳"  # Cygiya
-    "崔"  # Cui
-    "戴佳"  # Daigiya
-    "东郭"  # Donggo
-    "佟佳"  # Dunggiya
-    "达佳"  # Dagiya
-    "多尔衮"  # Dorgun
-    "德都哷"  # Dedure
-    "都克塔"  # Dukta
-    "都克塔哩"  # Duktari
-    "鄂尔格"  # Elge
-    "额苏哩"  # Esuri
-    "额尔图待"  # Ertut
-    "富察"  # Fuca
-    "费摩"  # Foimo
-    "费雅"  # Fiya
-    "富珠哩"  # Fujuri
-    "瓜尔佳"  # Guwalgiya
-    "觉罗"  # Gioro
-    "觉尔察"  # Giorca
-    "觉罗哈喇"  # Gioro Hala
-    "觉尔禅"  # Giorcan
-    "格济勒"  # Gejile
-    "瓜尔查"  # Guwalca
-    "郭尔洛"  # Gorlo
-    "济朗吉瓦尔喀"  # Giranggi Warka
-    "格伦觉罗"  # Gerungioro
-    "金"  # Gin
-    "觉罗宜"  # Gioroi
-    "郭尔本"  # Gorben
-    "郭齐尔"  # Gocir
-    "吉利"  # Giri
-    "顾尔"  # Gour
-    "吉济勒"  # Gijile
-    "光嘉喇"  # Guwanggiyara
-    "喜塔腊"  # Hitara
-    "弘敖绰"  # Hunggoco
-    "弘敖"  # Hunggo
-    "何依和"  # Hoiho
-    "和尔哈舒"  # Hurhasu
-    "哈萨喇"  # Hasara
-    "胡尔呼"  # Hulhu
-    "呼克沙哈礼"  # Huk Sahari
-    "弘吉利"  # Hunggiri
-    "兴颜"  # Hinggiyan
-    "呼思哈礼"  # Hushari
-    "兴佳"  # Hinggiya
-    "韩"  # Han
-    "呼尔哈"  # Hurha
-    "弘罗"  # Hunglo
-    "洪果"  # Hoggo
-    "呼雅"  # Huya
-    "辉罗"  # Huilo
-    "赫舒"  # Menu
-    "依喇拉"  # Ilara
-    "宜喇礼"  # Itari
-    "由尔库勒"  # Iork Ule
-    "由库礼"  # Iokuri
-    "伊尔根 巴图鲁"  # Irgen Baturu
-    "依图玛"  # Ituma
-    "依喇"  # Ira
-    "赵佳"  # Joogiya
-    "札喇理"  # Jalari
-    "章佳"  # Janggiya
-    "章齐"  # Jangci
-    "哲尔得"  # Jerde
-    "札特赫"  # Jathe
-    "札思呼里"  # Jash Uri
-    "哲别"  # Jebe
-    "朱佳"  # Jugiya
-    "诸苏"  # Jusu
-    "景格礼"  # Jinggeri
-    "札鲁查"  # Jaruca
-    "珠勒根"  # Julgen
-    "珠格"  # Juge
-    "珠噜"  # Juru
-    "卓特"  # Jot
-    "卓多穆"  # Jodomu
-    "奇"  # Ki
-    "克尔德"  # Kerde
-    "库雅喇"  # Kuyala
-    "科奇礼"  # Kocili
-    "喀尔喇"  # Karla
-    "喀尔达舒"  # Kardasu
-    "库布鲁"  # Kubulu
-    "李佳"  # Ligiya
-    "赖布"  # Laibu
-    "卢布礼"  # Lumburi
-    "雷"  # Lei
-    "喇库勒"  # Lak Ule
-    "卢布宜"  # Lubui
-    "马佳"  # Magiya
-    "孟敖礼"  # Monggori
-    "木"  # Mu
-    "穆尔禅"  # Murcan
-    "蒙哥"  # Monggo
-    "孟"  # Meng
-    "孟敖劳"  # Menggoro
-    "穆尔查"  # Murca
-    "穆尔吉勒"  # Muljire
-    "满札"  # Manja
-    "莫尔齐"  # Morci
-    "蒙敖劳"  # Monggoro
-    "穆延"  # Muyan
-    "那拉"  # Nara
-    "宁古塔"  # Ningguta
-    "尼玛查"  # Nimaca
-    "那木都禄"  # Namduru
-    "尼奇礼"  # Nikiri
-    "尼沙"  # Nisa
-    "钮望佳"  # Niowanggiya
-    "那颜"  # Noyan
-    "纳哈塔"  # Nahata
-    "尼玛哈"  # Nimaha
-    "纳塔"  # Nata
-    "纳雅"  # Naya
-    "纳木都鲁"  # Namdolu
-    "鄂莫托"  # Omoto
-    "鄂吉"  # Oji
-    "舒穆禄"  # Sumuru
-    "萨克达"  # Sakda
-    "西林觉罗"  # Sirin gioro
-    "萧贺礼"  # Sioheri
-    "萨尔图"  # Sartu
-    "色弥喇"  # Semira
-    "西克特礼"  # Sikteri
-    "萨察"  # Saca
-    "萨玛尔吉"  # Samargi
-    "萨克达和乐"  # Sakdaholo
-    "尚佳"  # Sanggiya
-    "锡塔拉"  # Sitara
-    "松佳"  # Sunggiya
-    "苏佳"  # Sugiya
-    "萨马拉"  # Samara
-    "绥佳"  # Suigiya
-    "西克特礼"  # Sikteli
-    "萨克查"  # Sakca
-    "索查喇"  # Socara
-    "萨哈吉利"  # Sahajiri
-    "索绰尔"  # Socor
-    "索尔吉"  # Sorgi
-    "索佳"  # Sogiya
-    "索尔佳"  # Sorgiya
-    "实佳"  # Sigiya
-    "赛弥勒"  # Saimire
-    "舒尔图"  # Surtu
-    "色赫哩"  # Seheri
-    "沙达喇"  # Sadara
-    "苏伮"  # Suru
-    "舒克达"  # Sikda
-    "塔塔喇"  # Tatara
-    "佟佳"  # Tunggiya
-    "塔札觉尔查"  # Tajagiorca
-    "托科罗"  # Tokoro
-    "昌佳"  # Tsanggiya
-    "托莫"  # Tomo
-    "陶立"  # Tooli
-    "冈色礼"  # Tuseri
-    "托穆"  # Tomu
-    "冈克坦"  # Tuktan
-    "通吉"  # Tunggi
-    "图门"  # Tumen
-    "托罗特"  # Tolote
-    "泰储禄"  # Taicuru
-    "温特赫"  # Untahe
-    "乌札拉"  # Ujala
-    "乌尔古禅"  # Urgucan
-    "吴努呼勤"  # Unuhucin
-    "乌新"  # Usin
-    "兀鲁"  # Ulu
-    "乌苏"  # Usu
-    "乌雅"  # Uya
-    "温都"  # Undu
-    "乌尔古查"  # Urguca
-    "乌扎库"  # Ujaku
-    "温觉忒"  # Unggiot
-    "温彻恒"  # Uncehen
-    "翁济尔金"  # Unggirgin
-    "乌尔达"  # Urda
-    "乌库哩"  # Ukuri
-    "乌凌阿"  # Ulingga
-    "乌克逊"  # Uksun
-    "乌苏占"  # Usujan
-    "乌实拉"  # Usila
-    "乌色"  # Use
-    "完颜"  # Wanggiya
-    "卫库图"  # Weikutu
-    "韦"  # Wei
-    "韦古特"  # Weigute
-    "沃哷"  # Were
-    "斡色"  # Wase
-    "旺札卜"  # Wangjab
-    "瓦力"  # Wali
-    "岳诺托"  # Yonoto
-    "延扎"  # Yanja
-    "杨佳"  # Yanggiya
-    "叶赫尔"  # Yeher
-    "颜吉"  # Yanji
-    "于库礼"  # Yukuri
-    "允德"  # Yunde
-    "裕尔"  # Yur
-    "雅苏"  # Yasu
-    "朱"  # Zhu
-    "吴"  # Wu
-    "耿"  # Geng
-    "尚"  # Shang
-    "郑"  # Zheng
-    "赵"  # Zhao
-    "李"  # Li
-    "史"  # Shi
-    "刘"  # Liu
-    "郭"  # Guo
-    "杨"  # Yang
-    "钱"  # Qian
-    "马"  # Ma
-    "高"  # Gao
-    "陈"  # Chen
-    "孙"  # Sun
-    "司马"  # Sima
-    "曹"  # Cao
-    "萧"  # Xiao
-    "齐"  # Qi
-    "祖"  # Zu
-    "周"  # Zhou
-    "黄"  # Huang
-    "白"  # Bai
-    "丘"  # Qiu
-    "唐"  # Tang
-    "徐"  # Xu
-    "常"  # Chang
-    "冯"  # Feng
-    "邓"  # Deng
-    "华"  # Hua
-    "顾"  # Gu
-    "费"  # Fei
-    "傅"  # Fu
-    "胡"  # Hu
-    "梅"  # Mei
-    "薛"  # Xue
-    "廖"  # Liao
-    "金"  # Jin
-    "叶"  # Ye
-    "何"  # He
-    "蓝"  # Lan
-    "度"  # Du
-    "方"  # Fang
-    "毛"  # Mao
-    "郝"  # Hao
-    "孔"  # Kong
-    "焦"  # Jiao
-    "左"  # Zuo
-    "丁"  # Ding
-    "包"  # Bao
-    "谭"  # Tan
-    "罗"  # Luo
-    "谢"  # Xie
-    "袁"  # Yuan
-    "秦"  # Qin
-    "阮"  # Ruan
-    "牛"  # Niu
-    "曾"  # Zeng
-    "董"  # Dong
-    "林"  # Lin
-    "沈"  # Shen
-    "欧阳"  # Ouyang
-    "苏"  # Su
-    "于"  # Yu
-    "任"  # Ren
-    "柴"  # Chai
-    "夏"  # Xia
-    "莫"  # Mo
-    "戴"  # Dai
-    "江"  # Jiang
-    "岳"  # Yue
-    "贾"  # Jia
-    "熊"  # Xiong
-    "欧阳"  # Ou'yang
-    "皇甫"  # Huangfu
-    "东方"  # Dongfang
-    "令狐"  # Linghu
+  "爱新觉罗"  # Aisin Gioro
+  "瑷珲"  # Aihui
+  "阿拉克塔"  # Arakta
+  "拜察"  # Baica
+  "博都哩"  # Boduri
+  "彻穆衮"  # Cemgun
+  "齐布齐努特"  # Cibukinut
+  "达佳"  # Dagiya
+  "佟佳"  # Donggiya
+  "鄂绰罗"  # Ecolo
+  "额尔吉"  # Ergi
+  "费雅"  # Feiya
+  "富塔"  # Futa
+  "精奇哩"  # Gingciri
+  "吉悌"  # Git
+  "赫佳"  # Hegiya
+  "赫舍里"  # Heseri
+  "洛"  # Io
+  "依尔根觉罗"  # Irgen Gioro
+  "查库塔"  # Jakuta
+  "朱尔克"  # Jurk
+  "克叶哷"  # Keyere
+  "奎车里克"  # Kuicelik
+  "勒第"  # Ledi
+  "陆"  # Lu
+  "谟克拖"  # Moketo
+  "那木图"  # Namutu
+  "钮祜禄"  # Niohuru
+  "潘"  # Pan
+  "婆"  # Po
+  "饶"  # Rao
+  "鲁布哩"  # Ruburi
+  "姒"  # Si
+  "索绰罗"  # Socoro
+  "泰楚特"  # Taicut
+  "涂格敦"  # Tukdun
+  U
+  "乌拉"  # Ula
+  "王"  # Wang
+  "翁吉特"  # Wenggit
+  "严"  # Yan
+  "叶赫"  # Yehe
+  "阿穆喇"  # Amura
+  "阿颜觉罗"  # Ayan gioro
+  "阿苏礼"  # Asuri
+  "阿哈觉罗"  # Aha gioro
+  "阿克占"  # Akjan
+  "爱新"  # Aisin
+  "博尔济锦"  # Borjigin
+  "巴耀特"  # Bayot
+  "巴雅喇"  # Bayara
+  "博赫礼"  # Boheri
+  "博"  # Be
+  "布济尔根"  # Bugirgen
+  "博苏特"  # Besut
+  "毕禄"  # Biru
+  "布雅齐"  # Buyaci
+  "伯力"  # Bohori
+  "布赛"  # Busai
+  "布尔查"  # Bulca
+  "布萨"  # Busa
+  "布希"  # Buhi
+  "必剌"  # Bira
+  "博提斯"  # Botis
+  "博尔济克"  # Borjik
+  "拜格"  # Baige
+  "伯苏"  # Besu
+  "巴里"  # Bari
+  "查喇拉"  # Carala
+  "察克钦"  # Cakcin
+  "查佳"  # Cygiya
+  "崔"  # Cui
+  "戴佳"  # Daigiya
+  "东郭"  # Donggo
+  "佟佳"  # Dunggiya
+  "达佳"  # Dagiya
+  "多尔衮"  # Dorgun
+  "德都哷"  # Dedure
+  "都克塔"  # Dukta
+  "都克塔哩"  # Duktari
+  "鄂尔格"  # Elge
+  "额苏哩"  # Esuri
+  "额尔图待"  # Ertut
+  "富察"  # Fuca
+  "费摩"  # Foimo
+  "费雅"  # Fiya
+  "富珠哩"  # Fujuri
+  "瓜尔佳"  # Guwalgiya
+  "觉罗"  # Gioro
+  "觉尔察"  # Giorca
+  "觉罗哈喇"  # Gioro Hala
+  "觉尔禅"  # Giorcan
+  "格济勒"  # Gejile
+  "瓜尔查"  # Guwalca
+  "郭尔洛"  # Gorlo
+  "济朗吉瓦尔喀"  # Giranggi Warka
+  "格伦觉罗"  # Gerungioro
+  "金"  # Gin
+  "觉罗宜"  # Gioroi
+  "郭尔本"  # Gorben
+  "郭齐尔"  # Gocir
+  "吉利"  # Giri
+  "顾尔"  # Gour
+  "吉济勒"  # Gijile
+  "光嘉喇"  # Guwanggiyara
+  "喜塔腊"  # Hitara
+  "弘敖绰"  # Hunggoco
+  "弘敖"  # Hunggo
+  "何依和"  # Hoiho
+  "和尔哈舒"  # Hurhasu
+  "哈萨喇"  # Hasara
+  "胡尔呼"  # Hulhu
+  "呼克沙哈礼"  # Huk Sahari
+  "弘吉利"  # Hunggiri
+  "兴颜"  # Hinggiyan
+  "呼思哈礼"  # Hushari
+  "兴佳"  # Hinggiya
+  "韩"  # Han
+  "呼尔哈"  # Hurha
+  "弘罗"  # Hunglo
+  "洪果"  # Hoggo
+  "呼雅"  # Huya
+  "辉罗"  # Huilo
+  "赫舒"  # Menu
+  "依喇拉"  # Ilara
+  "宜喇礼"  # Itari
+  "由尔库勒"  # Iork Ule
+  "由库礼"  # Iokuri
+  "伊尔根 巴图鲁"  # Irgen Baturu
+  "依图玛"  # Ituma
+  "依喇"  # Ira
+  "赵佳"  # Joogiya
+  "札喇理"  # Jalari
+  "章佳"  # Janggiya
+  "章齐"  # Jangci
+  "哲尔得"  # Jerde
+  "札特赫"  # Jathe
+  "札思呼里"  # Jash Uri
+  "哲别"  # Jebe
+  "朱佳"  # Jugiya
+  "诸苏"  # Jusu
+  "景格礼"  # Jinggeri
+  "札鲁查"  # Jaruca
+  "珠勒根"  # Julgen
+  "珠格"  # Juge
+  "珠噜"  # Juru
+  "卓特"  # Jot
+  "卓多穆"  # Jodomu
+  "奇"  # Ki
+  "克尔德"  # Kerde
+  "库雅喇"  # Kuyala
+  "科奇礼"  # Kocili
+  "喀尔喇"  # Karla
+  "喀尔达舒"  # Kardasu
+  "库布鲁"  # Kubulu
+  "李佳"  # Ligiya
+  "赖布"  # Laibu
+  "卢布礼"  # Lumburi
+  "雷"  # Lei
+  "喇库勒"  # Lak Ule
+  "卢布宜"  # Lubui
+  "马佳"  # Magiya
+  "孟敖礼"  # Monggori
+  "木"  # Mu
+  "穆尔禅"  # Murcan
+  "蒙哥"  # Monggo
+  "孟"  # Meng
+  "孟敖劳"  # Menggoro
+  "穆尔查"  # Murca
+  "穆尔吉勒"  # Muljire
+  "满札"  # Manja
+  "莫尔齐"  # Morci
+  "蒙敖劳"  # Monggoro
+  "穆延"  # Muyan
+  "那拉"  # Nara
+  "宁古塔"  # Ningguta
+  "尼玛查"  # Nimaca
+  "那木都禄"  # Namduru
+  "尼奇礼"  # Nikiri
+  "尼沙"  # Nisa
+  "钮望佳"  # Niowanggiya
+  "那颜"  # Noyan
+  "纳哈塔"  # Nahata
+  "尼玛哈"  # Nimaha
+  "纳塔"  # Nata
+  "纳雅"  # Naya
+  "纳木都鲁"  # Namdolu
+  "鄂莫托"  # Omoto
+  "鄂吉"  # Oji
+  "舒穆禄"  # Sumuru
+  "萨克达"  # Sakda
+  "西林觉罗"  # Sirin gioro
+  "萧贺礼"  # Sioheri
+  "萨尔图"  # Sartu
+  "色弥喇"  # Semira
+  "西克特礼"  # Sikteri
+  "萨察"  # Saca
+  "萨玛尔吉"  # Samargi
+  "萨克达和乐"  # Sakdaholo
+  "尚佳"  # Sanggiya
+  "锡塔拉"  # Sitara
+  "松佳"  # Sunggiya
+  "苏佳"  # Sugiya
+  "萨马拉"  # Samara
+  "绥佳"  # Suigiya
+  "西克特礼"  # Sikteli
+  "萨克查"  # Sakca
+  "索查喇"  # Socara
+  "萨哈吉利"  # Sahajiri
+  "索绰尔"  # Socor
+  "索尔吉"  # Sorgi
+  "索佳"  # Sogiya
+  "索尔佳"  # Sorgiya
+  "实佳"  # Sigiya
+  "赛弥勒"  # Saimire
+  "舒尔图"  # Surtu
+  "色赫哩"  # Seheri
+  "沙达喇"  # Sadara
+  "苏伮"  # Suru
+  "舒克达"  # Sikda
+  "塔塔喇"  # Tatara
+  "佟佳"  # Tunggiya
+  "塔札觉尔查"  # Tajagiorca
+  "托科罗"  # Tokoro
+  "昌佳"  # Tsanggiya
+  "托莫"  # Tomo
+  "陶立"  # Tooli
+  "冈色礼"  # Tuseri
+  "托穆"  # Tomu
+  "冈克坦"  # Tuktan
+  "通吉"  # Tunggi
+  "图门"  # Tumen
+  "托罗特"  # Tolote
+  "泰储禄"  # Taicuru
+  "温特赫"  # Untahe
+  "乌札拉"  # Ujala
+  "乌尔古禅"  # Urgucan
+  "吴努呼勤"  # Unuhucin
+  "乌新"  # Usin
+  "兀鲁"  # Ulu
+  "乌苏"  # Usu
+  "乌雅"  # Uya
+  "温都"  # Undu
+  "乌尔古查"  # Urguca
+  "乌扎库"  # Ujaku
+  "温觉忒"  # Unggiot
+  "温彻恒"  # Uncehen
+  "翁济尔金"  # Unggirgin
+  "乌尔达"  # Urda
+  "乌库哩"  # Ukuri
+  "乌凌阿"  # Ulingga
+  "乌克逊"  # Uksun
+  "乌苏占"  # Usujan
+  "乌实拉"  # Usila
+  "乌色"  # Use
+  "完颜"  # Wanggiya
+  "卫库图"  # Weikutu
+  "韦"  # Wei
+  "韦古特"  # Weigute
+  "沃哷"  # Were
+  "斡色"  # Wase
+  "旺札卜"  # Wangjab
+  "瓦力"  # Wali
+  "岳诺托"  # Yonoto
+  "延扎"  # Yanja
+  "杨佳"  # Yanggiya
+  "叶赫尔"  # Yeher
+  "颜吉"  # Yanji
+  "于库礼"  # Yukuri
+  "允德"  # Yunde
+  "裕尔"  # Yur
+  "雅苏"  # Yasu
+  "朱"  # Zhu
+  "吴"  # Wu
+  "耿"  # Geng
+  "尚"  # Shang
+  "郑"  # Zheng
+  "赵"  # Zhao
+  "李"  # Li
+  "史"  # Shi
+  "刘"  # Liu
+  "郭"  # Guo
+  "杨"  # Yang
+  "钱"  # Qian
+  "马"  # Ma
+  "高"  # Gao
+  "陈"  # Chen
+  "孙"  # Sun
+  "司马"  # Sima
+  "曹"  # Cao
+  "萧"  # Xiao
+  "齐"  # Qi
+  "祖"  # Zu
+  "周"  # Zhou
+  "黄"  # Huang
+  "白"  # Bai
+  "丘"  # Qiu
+  "唐"  # Tang
+  "徐"  # Xu
+  "常"  # Chang
+  "冯"  # Feng
+  "邓"  # Deng
+  "华"  # Hua
+  "顾"  # Gu
+  "费"  # Fei
+  "傅"  # Fu
+  "胡"  # Hu
+  "梅"  # Mei
+  "薛"  # Xue
+  "廖"  # Liao
+  "金"  # Jin
+  "叶"  # Ye
+  "何"  # He
+  "蓝"  # Lan
+  "度"  # Du
+  "方"  # Fang
+  "毛"  # Mao
+  "郝"  # Hao
+  "孔"  # Kong
+  "焦"  # Jiao
+  "左"  # Zuo
+  "丁"  # Ding
+  "包"  # Bao
+  "谭"  # Tan
+  "罗"  # Luo
+  "谢"  # Xie
+  "袁"  # Yuan
+  "秦"  # Qin
+  "阮"  # Ruan
+  "牛"  # Niu
+  "曾"  # Zeng
+  "董"  # Dong
+  "林"  # Lin
+  "沈"  # Shen
+  "欧阳"  # Ouyang
+  "苏"  # Su
+  "于"  # Yu
+  "任"  # Ren
+  "柴"  # Chai
+  "夏"  # Xia
+  "莫"  # Mo
+  "戴"  # Dai
+  "江"  # Jiang
+  "岳"  # Yue
+  "贾"  # Jia
+  "熊"  # Xiong
+  "欧阳"  # Ou'yang
+  "皇甫"  # Huangfu
+  "东方"  # Dongfang
+  "令狐"  # Linghu
 }
 ship_names = {
-    "定远"  # Dingyuan
-    "镇远"  # Zhenyuan
-    "经远"  # Jingyuan
-    "来远"  # Laiyuan
-    "致远"  # Zhiyuan
-    "经远"  # Jingyuan
-    "济远"  # Jiyuan
-    "平远"  # Pingyuan
-    "超勇"  # Chaoyong
-    "扬威"  # Yangwei
-    "广甲"  # Guangjia
-    "广乙"  # Guangyi
-    "广丙"  # Guangbing
-    "镇东"  # Zhendong
-    "镇南"  # Zhennan
-    "镇西"  # Zhenxi
-    "镇北"  # Zhenbei
-    "镇中"  # Zhenzhong
-    "镇边"  # Zhenbian
-    "威远"  # Weiyuan
-    "康济"  # Kangji
-    "敏捷"  # Minjie
-    "镇海"  # Zhenhai
-    "泰安"  # Tai'an
-    "操江"  # Caojiang
-    "湄云"  # Meiyun
-    "福龙"  # Fulong
-    "捷顺"  # Jieshun
-    "振武"  # Zhenwu
-    "锦泰"  # Jintai
-    "仪佟"  # Yitong
-    "光绶"  # Guangshou
-    "白钺"  # Baiyue
-    "三畏"  # Sanwei
-    "德胜"  # Desheng
+  "定远"  # Dingyuan
+  "镇远"  # Zhenyuan
+  "经远"  # Jingyuan
+  "来远"  # Laiyuan
+  "致远"  # Zhiyuan
+  "经远"  # Jingyuan
+  "济远"  # Jiyuan
+  "平远"  # Pingyuan
+  "超勇"  # Chaoyong
+  "扬威"  # Yangwei
+  "广甲"  # Guangjia
+  "广乙"  # Guangyi
+  "广丙"  # Guangbing
+  "镇东"  # Zhendong
+  "镇南"  # Zhennan
+  "镇西"  # Zhenxi
+  "镇北"  # Zhenbei
+  "镇中"  # Zhenzhong
+  "镇边"  # Zhenbian
+  "威远"  # Weiyuan
+  "康济"  # Kangji
+  "敏捷"  # Minjie
+  "镇海"  # Zhenhai
+  "泰安"  # Tai'an
+  "操江"  # Caojiang
+  "湄云"  # Meiyun
+  "福龙"  # Fulong
+  "捷顺"  # Jieshun
+  "振武"  # Zhenwu
+  "锦泰"  # Jintai
+  "仪佟"  # Yitong
+  "光绶"  # Guangshou
+  "白钺"  # Baiyue
+  "三畏"  # Sanwei
+  "德胜"  # Desheng
 }

@@ -1,158 +1,157 @@
 ﻿graphical_culture = westerngfx
 color = {
-    252
-    233
-    58
+  252
+  233
+  58
 }
 historical_idea_groups = {
-    maritime_ideas
-    religious_ideas
-    defensive_ideas
-    economic_ideas
-    innovativeness_ideas
-    spy_ideas
-    offensive_ideas
-    diplomatic_ideas
+  maritime_ideas
+  religious_ideas
+  defensive_ideas
+  economic_ideas
+  innovativeness_ideas
+  spy_ideas
+  offensive_ideas
+  diplomatic_ideas
 }
 historical_units = {
-    western_medieval_infantry
-    western_medieval_knights
-    western_men_at_arms
-    spanish_tercio
-    french_caracolle
-    austrian_tercio
-    austrian_grenzer
-    austrian_hussar
-    austrian_white_coat
-    austrian_jaeger
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  spanish_tercio
+  french_caracolle
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 monarch_names = {
-    "恩里克 #1" = 40
-    "卡洛斯 #2" = 20
-    "弗朗西斯科 #0 费博" = 20
-    "胡安娜 #2" = -10
-    "胡安 #1" = 10
-    "路易斯 #1" = 10
-    "安德烈斯 #0 费博" = 10
-    "卡塔莉娜 #0" = -10
-    "加斯通 #0" = 10
-    "莱昂诺尔 #0" = -10
-    "布兰卡 #1" = -10
-    "佩德罗 #1" = 5
-    "布埃纳文图拉 #0" = 5
-    "弗朗西斯科 #0" = 5
-    "戈多弗雷多 #0" = 5
-    "詹姆 #0" = 5
-    "兰萨罗特 #0" = 5
-    "莱昂内尔 #0" = 5
-    "马丁 #0" = 5
-    "桑乔 #7" = 1
-    "加西亚 #5" = 1
-    "费利佩 #3" = 1
-    "泰奥巴尔多 #2" = 1
-    "阿方索 #1" = 1
-    "阿古斯丁 #0" = 0
-    "亚历桑德罗 #0" = 0
-    "阿尔瓦罗 #0" = 0
-    "安德烈斯 #0" = 0
-    "安东尼奥 #0" = 0
-    "贝尔纳多 #0" = 0
-    "塞萨尔 #0" = 0
-    "克里斯托弗 #0" = 0
-    "迭戈 #0" = 0
-    "埃斯特班 #0" = 0
-    "费尔南多 #0" = 0
-    "加斯帕 #0" = 0
-    "何塞 #0" = 0
-    "梅尔乔 #0" = 0
-    "尼科劳斯 #0" = 0
-    "西蒙 #0" = 0
+  "恩里克 #1" = 40  # Enrique #1
+  "卡洛斯 #2" = 20  # Carlos #2
+  "弗朗西斯科 #0 费博" = 20  # Francisco #0 Febo
+  "胡安娜 #2" = -10  # Juana #2
+  "胡安 #1" = 10  # Juan #1
+  "路易斯 #1" = 10  # Luis #1
+  "安德烈斯 #0 费博" = 10  # Andrés #0 Febo
+  "卡塔莉娜 #0" = -10  # Catalina #0
+  "加斯通 #0" = 10  # Gastón #0
+  "莱昂诺尔 #0" = -10  # Leonor #0
+  "布兰卡 #1" = -10  # Blanca #1
+  "佩德罗 #1" = 5  # Pedro #1
+  "布埃纳文图拉 #0" = 5  # Buenaventura #0
+  "弗朗西斯科 #0" = 5  # Francisco #0
+  "戈多弗雷多 #0" = 5  # Godofredo #0
+  "詹姆 #0" = 5  # Jaime #0
+  "兰萨罗特 #0" = 5  # Lanzarote #0
+  "莱昂内尔 #0" = 5  # Leonel #0
+  "马丁 #0" = 5  # Martín #0
+  "桑乔 #7" = 1  # Sancho #7
+  "加西亚 #5" = 1  # García #5
+  "费利佩 #3" = 1  # Felipe #3
+  "泰奥巴尔多 #2" = 1  # Teobaldo #2
+  "阿方索 #1" = 1  # Alfonso #1
+  "阿古斯丁 #0" = 0  # Agustín #0
+  "亚历桑德罗 #0" = 0  # Alejandro #0
+  "阿尔瓦罗 #0" = 0  # Álvaro #0
+  "安德烈斯 #0" = 0  # Andrés #0
+  "安东尼奥 #0" = 0  # Antonio #0
+  "贝尔纳多 #0" = 0  # Bernardo #0
+  "塞萨尔 #0" = 0  # César #0
+  "克里斯托弗 #0" = 0  # Cristóbal #0
+  "迭戈 #0" = 0  # Diego #0
+  "埃斯特班 #0" = 0  # Esteban #0
+  "费尔南多 #0" = 0  # Fernando #0
+  "加斯帕 #0" = 0  # Gaspar #0
+  "何塞 #0" = 0  # José #0
+  "梅尔乔 #0" = 0  # Melchor #0
+  "尼科劳斯 #0" = 0  # Nicolás #0
+  "西蒙 #0" = 0  # Simón #0
 }
 leader_names = {
-    "德 阿吉雷"  # de Aguirre
-    "德 阿尔伯特"  # de Albret
-    "de Antillón"  # de Antillón
-    "德 阿兰达"  # de Aranda
-    "德 阿门达里兹"  # de Armendariz
-    "德 阿萨格拉"  # de Azagra
-    "de Azpilcueta"  # de Azpilcueta
-    "德 博蒙特"  # de Beaumont
-    "de Beortegui"  # de Beortegui
-    "贝尔热拉克"  # Bergera
-    "德 波旁"  # de Borbón
-    "德 卡兰萨"  # de Carranza
-    "Elizalde"  # Elizalde
-    "德 高劳伊"  # de Garay
-    "德 戈比"  # de Goñi
-    "戈耶内切"  # Goyeneche
-    "德 埃雷迪亚"  # de Heredia
-    "德 伊哈尔"  # de Hijar
-    "德 加索"  # de Jaso
-    "希梅内兹 德 拉达"  # Jiménez de Rada
-    "西梅诺"  # Jimeno
-    "de Landívar"  # de Landívar
-    "纳瓦罗"  # Navarro
-    "帕拉福克斯"  # Palafox
-    "佩雷斯 德 萨尔巴萨"  # Pérez de Zabalza
-    "德 萨拉查"  # de Salazar
-    "德 乌里韦"  # de Uribe
-    "德 埃劳索"  # de Ursúa
-    "德 扬瓜斯"  # de Yanguas
-    "德 撒拉特"  # de Zárate
+  "德 阿吉雷"  # de Aguirre
+  "德 阿尔伯特"  # de Albret
+  "de Antillón"
+  "德 阿兰达"  # de Aranda
+  "德 阿门达里兹"  # de Armendariz
+  "德 阿萨格拉"  # de Azagra
+  "de Azpilcueta"
+  "德 博蒙特"  # de Beaumont
+  "de Beortegui"
+  "贝尔热拉克"  # Bergera
+  "德 波旁"  # de Borbón
+  "de Carranza"Elizalde
+  "德 高劳伊"  # de Garay
+  "德 戈比"  # de Goñi
+  "戈耶内切"  # Goyeneche
+  "德 埃雷迪亚"  # de Heredia
+  "德 伊哈尔"  # de Hijar
+  "德 加索"  # de Jaso
+  "希梅内兹 德 拉达"  # Jiménez de Rada
+  "西梅诺"  # Jimeno
+  "de Landívar"
+  "纳瓦罗"  # Navarro
+  "帕拉福克斯"  # Palafox
+  "佩雷斯 德 萨尔巴萨"  # Pérez de Zabalza
+  "德 萨拉查"  # de Salazar
+  "德 乌里韦"  # de Uribe
+  "德 埃劳索"  # de Ursúa
+  "德 扬瓜斯"  # de Yanguas
+  "德 撒拉特"  # de Zárate
 }
 ship_names = {
-    "Atlántida"  # Atlántida
-    "孔迪 德 埃夫勒"  # Conde de Evreux
-    "孔迪 德 富瓦"  # Conde de Foix
-    "Conde de Guenduláin"  # Conde de Guenduláin
-    "Conde de Lerín"  # Conde de Lerín
-    "唐 西梅诺"  # Don Jimeno
-    "阿尔玛涅克公爵"  # Duque de Armagnac
-    "香槟公爵"  # Duque de Champaña
-    "El Agramontés"  # El Agramontés
-    "El Beaomontés"  # El Beaomontés
-    "El Bearnés"  # El Bearnés
-    "El Cruzado Navarro"  # El Cruzado Navarro
-    "El Montañés"  # El Montañés
-    "纳瓦罗"  # El Navarro
-    "萨尔瓦多"  # El Salvador
-    "El Trobador"  # El Trobador
-    "El Viñador"  # El Viñador
-    "Emperador Hispánico"  # Emperador Hispánico
-    "欧罗巴"  # Europa
-    "玛尔 德 纳瓦拉"  # Mar de Navarra
-    "Nuestra Sra de Leyre"  # Nuestra Sra de Leyre
-    "维亚纳亲王"  # Príncipe de Viana
-    "Reina Juana"  # Reina Juana
-    "雷伊 恩里克"  # Rey Enrique
-    "雷伊 加西亚"  # Rey García
-    "雷伊 桑乔"  # Rey Sancho
-    "雷亚诺 德 纳瓦拉"  # Reyno de Navarra
-    "Reyno de Pamplona"  # Reyno de Pamplona
-    "圣阿古斯丁"  # San Agustín
-    "圣安德烈斯"  # San Andrés
-    "圣安东尼奥"  # San Antonio
-    "圣卡洛斯"  # San Carlos
-    "圣恩里克"  # San Enrique
-    "圣埃斯特班"  # San Esteban
-    "San Fermín"  # San Fermín
-    "圣弗朗西斯科"  # San Francisco
-    "San Francisco Xabier"  # San Francisco Xabier
-    "圣格雷戈里奥"  # San Gregorio
-    "圣胡安"  # San Juan
-    "圣莱昂"  # San León
-    "San Miguel Arcángel"  # San Miguel Arcángel
-    "圣雷蒙多"  # San Raimundo
-    "San Virila"  # San Virila
-    "圣安娜"  # Santa Ana
-    "圣卡塔利娜"  # Santa Catalina
-    "圣胡安娜"  # Santa Juana
-    "圣利奥诺"  # Santa Leonor
-    "Santísima Trinidad"  # Santísima Trinidad
-    "Señor de Tudela"  # Señor de Tudela
-    "瓦斯科尼亚"  # Vasconia
+  "Atlántida"
+  "孔迪 德 埃夫勒"  # Conde de Evreux
+  "孔迪 德 富瓦"  # Conde de Foix
+  "Conde de Guenduláin"
+  "Conde de Lerín"
+  "唐 西梅诺"  # Don Jimeno
+  "阿尔玛涅克公爵"  # Duque de Armagnac
+  "香槟公爵"  # Duque de Champaña
+  "El Agramontés"
+  "El Beaomontés"
+  "El Bearnés"
+  "El Cruzado Navarro"
+  "El Montañés"
+  "纳瓦罗"  # El Navarro
+  "萨尔瓦多"  # El Salvador
+  "El Trobador"
+  "El Viñador"
+  "Emperador Hispánico"
+  "欧罗巴"  # Europa
+  "玛尔 德 纳瓦拉"  # Mar de Navarra
+  "Nuestra Sra de Leyre"
+  "维亚纳亲王"  # Príncipe de Viana
+  "Reina Juana"
+  "雷伊 恩里克"  # Rey Enrique
+  "雷伊 加西亚"  # Rey García
+  "雷伊 桑乔"  # Rey Sancho
+  "雷亚诺 德 纳瓦拉"  # Reyno de Navarra
+  "Reyno de Pamplona"
+  "圣阿古斯丁"  # San Agustín
+  "圣安德烈斯"  # San Andrés
+  "圣安东尼奥"  # San Antonio
+  "圣卡洛斯"  # San Carlos
+  "圣恩里克"  # San Enrique
+  "圣埃斯特班"  # San Esteban
+  "San Fermín"
+  "圣弗朗西斯科"  # San Francisco
+  "San Francisco Xabier"
+  "圣格雷戈里奥"  # San Gregorio
+  "圣胡安"  # San Juan
+  "圣莱昂"  # San León
+  "San Miguel Arcángel"
+  "圣雷蒙多"  # San Raimundo
+  "San Virila"
+  "圣安娜"  # Santa Ana
+  "圣卡塔利娜"  # Santa Catalina
+  "圣胡安娜"  # Santa Juana
+  "圣利奥诺"  # Santa Leonor
+  "Santísima Trinidad"
+  "Señor de Tudela"
+  "瓦斯科尼亚"  # Vasconia
 }

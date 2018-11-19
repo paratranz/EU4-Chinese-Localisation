@@ -1,14 +1,14 @@
 ﻿name = "比贾普尔入侵科拉迪"  # Bijapur invasion of Keladi Nayaka
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 2033
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 2033
 }
 1572.1.1 = {
-    add_attacker = BIJ
-    add_defender = KLN
+  add_attacker = BIJ
+  add_defender = KLN
 }
 1574.1.1 = {
-    rem_attacker = BIJ
-    rem_defender = KLN
+  rem_attacker = BIJ
+  rem_defender = KLN
 }

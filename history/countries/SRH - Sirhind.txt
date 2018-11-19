@@ -5,44 +5,44 @@ primary_culture = panjabi
 religion = hinduism
 capital = 510
 1431.1.1 = {
-    monarch = {
-        name = "巴鲁儿"  # Bahlûl
-        dynasty = "洛迪"  # Lodi
-        culture = afghani
-        religion = sunni
-        ADM = 4
-        DIP = 5
-        MIL = 6
-        leader = {
-            name = "巴鲁儿 洛迪"  # Bahlûl Lodi
-            type = general
-            fire = 4
-            shock = 5
-            manuever = 4
-            siege = 2
-        }
-    }
-    government = monarchy
-    add_government_reform = indian_sultanate_reform
+  monarch = {
+    name = "巴鲁儿"  # Bahlûl
+    dynasty = "洛迪"  # Lodi
+    culture = afghani
     religion = sunni
-    religious_school = hanafi_school
-    clear_scripted_personalities = yes
-    add_ruler_personality = strict_personality
-    add_ruler_personality = conqueror_personality
-    add_ruler_personality = industrious_personality
+    ADM = 4
+    DIP = 5
+    MIL = 6
+    leader = {
+      name = "巴鲁儿 洛迪"  # Bahlûl Lodi
+      Lodi"type = "
+      generalfire = "
+      4shock = "
+      5manuever = "
+      4siege = 2
+    }
+  }
+  government = monarchy
+  add_government_reform = indian_sultanate_reform
+  religion = sunni
+  religious_school = hanafi_school
+  clear_scripted_personalities = yes
+  add_ruler_personality = strict_personality
+  add_ruler_personality = conqueror_personality
+  add_ruler_personality = industrious_personality
 }
 1553.1.1 = {
-    monarch = {
-        name = "锡坎达尔"  # Sikandar
-        dynasty = "苏尔"  # Suri
-        ADM = 1
-        DIP = 3
-        MIL = 2
-        culture = afghani
-    }
-    religion = sunni
-    religious_school = hanafi_school
-    government = monarchy
-    add_government_reform = iqta
-    capital = 507
+  monarch = {
+    name = "锡坎达尔"  # Sikandar
+    dynasty = "苏尔"  # Suri
+    ADM = 1
+    DIP = 3
+    MIL = 2
+    culture = afghani
+  }
+  religion = sunni
+  religious_school = hanafi_school
+  government = monarchy
+  add_government_reform = iqta
+  capital = 507
 }

@@ -1,33 +1,33 @@
 ﻿name = "英西战争"  # Anglo-Spanish War
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = ENG
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = ENG
 }
 1585.8.20 = {
-    add_attacker = SPA
-    add_defender = ENG
+  add_attacker = SPA
+  add_defender = ENG
 }
 1588.7.29 = {
-    battle = {
-        name = "格拉沃利讷"  # Gravelines
-        location = 90
-        attacker = {
-            commander = "阿隆索 德 古兹曼 埃尔布诺"  # Alonso de Guzmán El Bueno
-            heavy_ship = 42
-            losses = 5
-            country = SPA
-        }
-        defender = {
-            commander = "弗朗西斯 德雷克"  # Francis Drake
-            heavy_ship = 55
-            losses = 1
-            country = ENG
-        }
-        result = yes
+  battle = {
+    name = "格拉沃利讷"  # Gravelines
+    location = 90
+    attacker = {
+      commander = "阿隆索 德 古兹曼 埃尔布诺"  # Alonso de Guzmán El Bueno
+      heavy_ship = 42
+      losses = 5
+      country = SPA
     }
+    defender = {
+      commander = "弗朗西斯 德雷克"  # Francis Drake
+      heavy_ship = 55
+      losses = 1
+      country = ENG
+    }
+    result = yes
+  }
 }
 1604.8.1 = {
-    rem_attacker = SPA
-    rem_defender = ENG
+  rem_attacker = SPA
+  rem_defender = ENG
 }

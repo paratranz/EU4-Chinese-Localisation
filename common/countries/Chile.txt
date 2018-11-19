@@ -2,142 +2,142 @@
 colonial_parent = SPA
 random_nation_chance = 0
 color = {
-    236
-    159
-    89
+  236
+  159
+  89
 }
 historical_idea_groups = {
-    defensive_ideas
-    religious_ideas
-    offensive_ideas
-    trade_ideas
-    diplomatic_ideas
-    spy_ideas
-    economic_ideas
-    administrative_ideas
+  defensive_ideas
+  religious_ideas
+  offensive_ideas
+  trade_ideas
+  diplomatic_ideas
+  spy_ideas
+  economic_ideas
+  administrative_ideas
 }
 historical_units = {
-    western_medieval_infantry
-    western_medieval_knights
-    western_men_at_arms
-    spanish_tercio
-    austrian_tercio
-    austrian_grenzer
-    austrian_hussar
-    austrian_white_coat
-    austrian_jaeger
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 monarch_names = {
-    "阿古斯丁 #0" = 20
-    "费尔南多 #0" = 20
-    "何塞 #0 米格尔" = 20
-    "马丁 #0" = 20
-    "贝尔纳多 #0" = 15
-    "弗朗西斯科 #0" = 15
-    "何塞 #0 圣地亚哥" = 15
-    "佩德罗 何塞 #0" = 15
-    "安东尼奥 何塞 #0" = 10
-    "Francisco #0 安东尼奥" = 10
-    "Juan #0" = 10
-    "Juan #0 Antonio" = 10
-    "Juan #0 Enrique" = 10
-    "Mateo #0" = 10
-    "Adrián #0" = 0
-    "Alfonso #0" = 0
-    "Antonio #0" = 0
-    "Benigno #0" = 0
-    "Camilo #0" = 0
-    "Carlos #0" = 0
-    "Desiderio #0" = 0
-    "Diego #0" = 0
-    "Eduardo #0" = 0
-    "Emilio #0" = 0
-    "Federico #0" = 0
-    "Germán #0" = 0
-    "Hipólito #0" = 0
-    "Ismael #0" = 0
-    "Joaquín #0" = 0
-    "José #0" = 0
-    "Luis #0" = 0
-    "Marcelino #0" = 0
-    "Nicolás #0" = 0
-    "Ovidio #0" = 0
-    "Porfirio #0" = 0
-    "Rufino #0" = 0
-    "Sergio #0" = 0
-    "Teófilo #0" = 0
-    "Urbano #0" = 0
-    "Víctor #0" = 0
-    "Cristina #0" = -1
-    "Felicia #0" = -1
-    "Isidora #0" = -1
+  "Juan #0" = 10
+  "Juan #0 Antonio" = 10
+  "Juan #0 Enrique" = 10
+  "Mateo #0" = 10
+  "Adrián #0" = 0
+  "Alfonso #0" = 0
+  "Antonio #0" = 0
+  "Benigno #0" = 0
+  "Camilo #0" = 0
+  "Carlos #0" = 0
+  "Desiderio #0" = 0
+  "Diego #0" = 0
+  "Eduardo #0" = 0
+  "Emilio #0" = 0
+  "Federico #0" = 0
+  "Germán #0" = 0
+  "Hipólito #0" = 0
+  "Ismael #0" = 0
+  "Joaquín #0" = 0
+  "José #0" = 0
+  "Luis #0" = 0
+  "Marcelino #0" = 0
+  "Nicolás #0" = 0
+  "Ovidio #0" = 0
+  "Porfirio #0" = 0
+  "Rufino #0" = 0
+  "Sergio #0" = 0
+  "Teófilo #0" = 0
+  "Urbano #0" = 0
+  "Víctor #0" = 0
+  "Cristina #0" = -1
+  "Felicia #0" = -1
+  "Isidora #0" = -1
+  "阿古斯丁 #0" = 20  # Agustín #0
+  "费尔南多 #0" = 20  # Fernando #0
+  "何塞 #0 米格尔" = 20  # José #0 Miguel
+  "马丁 #0" = 20  # Martín #0
+  "贝尔纳多 #0" = 15  # Bernardo #0
+  "弗朗西斯科 #0" = 15  # Francisco #0
+  "何塞 #0 圣地亚哥" = 15  # José #0 Santiago
+  "佩德罗 何塞 #0" = 15  # Pedro José #0
+  "安东尼奥 何塞 #0" = 10  # Antonio José #0
+  "Francisco #0 安东尼奥" = 10  # Francisco #0 Antonio
 }
 leader_names = {
-    "Álvarez"  # Álvarez
-    "Argomedo"  # Argomedo
-    "Balmaceda"  # Balmaceda
-    "Barros"  # Barros
-    "Bello"  # Bello
-    "Bilbao"  # Bilbao
-    "Blanco"  # Blanco
-    "Borgoño"  # Borgoño
-    "Bulnes"  # Bulnes
-    "Carrera"  # Carrera
-    "de Carrera"  # de Carrera
-    "Cochrane"  # Cochrane
-    "de la Cruz"  # de la Cruz
-    "Echevarría"  # Echevarría
-    "Egaña"  # Egaña
-    "Errázuriz"  # Errázuriz
-    "Freire"  # Freire
-    "Henríquez"  # Henríquez
-    "Herrera"  # Herrera
-    "Infante"  # Infante
-    "de Irisarri"  # de Irisarri
-    "de Lasta"  # de Lasta
-    "Lastarria"  # Lastarria
-    "de la Lastra"  # de la Lastra
-    "Mackenna"  # Mackenna
-    "Marín"  # Marín
-    "Márquez de la Plata"  # Márquez de la Plata
-    "Martínez de Aldunate"  # Martínez de Aldunate
-    "Martínez de Rozas"  # Martínez de Rozas
-    "Montt"  # Montt
-    "O'Higgins"  # O'Higgins
-    "Ovalle"  # Ovalle
-    "Pérez"  # Pérez
-    "Pinto"  # Pinto
-    "Portales"  # Portales
-    "Prieto"  # Prieto
-    "de la Reina"  # de la Reina
-    "Rengifo"  # Rengifo
-    "Rodríguez"  # Rodríguez
-    "Rosales"  # Rosales
-    "de San Martín"  # de San Martín
-    "Sarmiento"  # Sarmiento
-    "Soler"  # Soler
-    "Tocornal"  # Tocornal
-    "de Toro"  # de Toro
-    "Varas"  # Varas
-    "Vidaurre"  # Vidaurre
-    "de Villegas"  # de Villegas
-    "Zañartu"  # Zañartu
-    "Zenteno"  # Zenteno
+  "Álvarez"
+  "Argomedo"
+  "Balmaceda"
+  "Barros"
+  "Bello"
+  "Bilbao"
+  "Blanco"
+  "Borgoño"
+  "Bulnes"
+  "Carrera"
+  "de Carrera"
+  "Cochrane"
+  "de la Cruz"
+  "Echevarría"
+  "Egaña"
+  "Errázuriz"
+  "Freire"
+  "Henríquez"
+  "Herrera"
+  "Infante"
+  "de Irisarri"
+  "de Lasta"
+  "Lastarria"
+  "de la Lastra"
+  "Mackenna"
+  "Marín"
+  "Márquez de la Plata"
+  "Martínez de Aldunate"
+  "Martínez de Rozas"
+  "Montt"
+  "O'Higgins"
+  "Ovalle"
+  "Pérez"
+  "Pinto"
+  "Portales"
+  "Prieto"
+  "de la Reina"
+  "Rengifo"
+  "Rodríguez"
+  "Rosales"
+  "de San Martín"
+  "Sarmiento"
+  "Soler"
+  "Tocornal"
+  "de Toro"
+  "Varas"
+  "Vidaurre"
+  "de Villegas"
+  "Zañartu"
+  "Zenteno"
 }
 ship_names = {
-    "Abtao"  # Abtao
-    "Blanco Encalada"  # Blanco Encalada
-    "Chacubuco"  # Chacubuco
-    "Esmeralda"  # Esmeralda
-    "Huascar"  # Huascar
-    "Latorre"  # Latorre
-    "Orella"  # Orella
-    "Riquelme"  # Riquelme
-    "Serrano"  # Serrano
-    "Valparaiso"  # Valparaiso
-    "Virgilio Uribe"  # Virgilio Uribe
+  "Abtao"
+  "Blanco Encalada"
+  "Chacubuco"
+  "Esmeralda"
+  "Huascar"
+  "Latorre"
+  "Orella"
+  "Riquelme"
+  "Serrano"
+  "Valparaiso"
+  "Virgilio Uribe"
 }

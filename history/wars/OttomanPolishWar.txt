@@ -1,40 +1,40 @@
 ﻿name = "奥斯曼-波兰战争"  # Ottoman-Polish War
 war_goal = {
-    type = defend_country_faith
-    casus_belli = cb_defender_of_the_faith
+  type = defend_country_faith
+  casus_belli = cb_defender_of_the_faith
 }
 1497.1.1 = {
-    add_attacker = POL
-    add_defender = TUR
-    add_defender = MOL
-    add_defender = WAL
-    add_defender = CRI
+  add_attacker = POL
+  add_defender = TUR
+  add_defender = MOL
+  add_defender = WAL
+  add_defender = CRI
 }
 1497.10.26 = {
-    battle = {
-        name = "科斯明森林"  # Cosmin Forest
-        location = 268
-        attacker = {
-            commander = "扬 I 奥波拉特"  # Jan I Olbracht
-            infantry = 55000
-            cavalry = 20000
-            losses = 7
-            country = POL
-        }
-        defender = {
-            commander = "摩尔达维亚的斯蒂芬  III"  # Stephen III of Moldavia
-            infantry = 25000
-            cavalry = 7000
-            losses = 3
-            country = MOL
-        }
-        result = no
+  battle = {
+    name = "科斯明森林"  # Cosmin Forest
+    location = 268
+    attacker = {
+      commander = "扬 I 奥波拉特"  # Jan I Olbracht
+      infantry = 55000
+      cavalry = 20000
+      losses = 7
+      country = POL
     }
+    defender = {
+      commander = "摩尔达维亚的斯蒂芬  III"  # Stephen III of Moldavia
+      infantry = 25000
+      cavalry = 7000
+      losses = 3
+      country = MOL
+    }
+    result = no
+  }
 }
 1499.7.1 = {
-    rem_attacker = POL
-    rem_defender = TUR
-    rem_defender = MOL
-    rem_defender = WAL
-    rem_defender = CRI
+  rem_attacker = POL
+  rem_defender = TUR
+  rem_defender = MOL
+  rem_defender = WAL
+  rem_defender = CRI
 }

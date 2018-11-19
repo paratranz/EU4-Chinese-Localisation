@@ -1,14 +1,14 @@
 ﻿name = "卡利卡特之战"  # The Calicut war
 war_goal = {
-    type = take_colony
-    casus_belli = cb_colonial
-    tag = POR
+  type = take_colony
+  casus_belli = cb_colonial
+  tag = POR
 }
 1524.1.1 = {
-    add_attacker = POR
-    add_defender = MAB
+  add_attacker = POR
+  add_defender = MAB
 }
 1540.1.1 = {
-    rem_attacker = POR
-    rem_defender = MAB
+  rem_attacker = POR
+  rem_defender = MAB
 }

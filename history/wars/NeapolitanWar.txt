@@ -1,36 +1,36 @@
 ﻿name = "那不勒斯战争"  # Neapolitan War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 1826
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 1826
 }
 1815.3.15 = {
-    add_attacker = NAP
-    add_defender = HAB
+  add_attacker = NAP
+  add_defender = HAB
 }
 1815.5.2 = {
-    battle = {
-        name = "托伦蒂诺"  # Tolentino
-        location = 119
-        attacker = {
-            commander = "若阿尚·缪拉"  # Joachim Murat
-            infantry = 15700
-            cavalry = 3500
-            losses = 6
-            country = NAP
-        }
-        defender = {
-            commander = "弗雷德里克 比安希"  # Frederick Bianchi
-            infantry = 12000
-            cavalry = 1500
-            artillery = 28
-            losses = 5
-            country = HAB
-        }
-        result = no
+  battle = {
+    name = "托伦蒂诺"  # Tolentino
+    location = 119
+    attacker = {
+      commander = "若阿尚·缪拉"  # Joachim Murat
+      infantry = 15700
+      cavalry = 3500
+      losses = 6
+      country = NAP
     }
+    defender = {
+      commander = "弗雷德里克 比安希"  # Frederick Bianchi
+      infantry = 12000
+      cavalry = 1500
+      artillery = 28
+      losses = 5
+      country = HAB
+    }
+    result = no
+  }
 }
 1815.5.3 = {
-    rem_attacker = NAP
-    rem_defender = HAB
+  rem_attacker = NAP
+  rem_defender = HAB
 }

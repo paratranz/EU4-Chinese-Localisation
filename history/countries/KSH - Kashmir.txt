@@ -6,375 +6,375 @@ technology_group = indian
 capital = 508
 religious_school = ismaili_school
 1389.1.1 = {
-    monarch = {
-        name = "西坎德尔"  # Sikandar
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 1
-        DIP = 1
-        MIL = 4
-    }
+  monarch = {
+    name = "西坎德尔"  # Sikandar
+    dynasty = "Shah Miri"
+    ADM = 1
+    DIP = 1
+    MIL = 4
+  }
 }
 1389.1.1 = {
-    heir = {
-        name = "阿里 沙"  # Ali Shah
-        monarch_name = "阿里 沙 I"  # Ali Shah I
-        dynasty = "Shah Miri"  # Shah Miri
-        birth_date = 1389.1.1
-        death_date = 1420.6.1
-        claim = 95
-        ADM = 1
-        DIP = 3
-        MIL = 2
-    }
+  heir = {
+    name = "阿里 沙"  # Ali Shah
+    monarch_name = "阿里 沙 I"  # Ali Shah I
+    dynasty = "Shah Miri"
+    birth_date = 1389.1.1
+    death_date = 1420.6.1
+    claim = 95
+    ADM = 1
+    DIP = 3
+    MIL = 2
+  }
 }
 1413.1.1 = {
-    monarch = {
-        name = "阿里 沙 I"  # Ali Shah I
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 1
-        DIP = 3
-        MIL = 2
-    }
+  monarch = {
+    name = "阿里 沙 I"  # Ali Shah I
+    dynasty = "Shah Miri"
+    ADM = 1
+    DIP = 3
+    MIL = 2
+  }
 }
 1413.1.1 = {
-    heir = {
-        name = "Zayn al-'Abidin"  # Zayn al-'Abidin
-        monarch_name = "Zayn al-'Abidin"  # Zayn al-'Abidin
-        dynasty = "Shah Miri"  # Shah Miri
-        birth_date = 1400.1.1
-        death_Date = 1470.5.12
-        claim = 95
-        ADM = 4
-        DIP = 4
-        MIL = 3
-    }
+  heir = {
+    name = "Zayn al-'Abidin"
+    monarch_name = "Zayn al-'Abidin"
+    dynasty = "Shah Miri"
+    birth_date = 1400.1.1
+    death_Date = 1470.5.12
+    claim = 95
+    ADM = 4
+    DIP = 4
+    MIL = 3
+  }
 }
 1420.6.1 = {
-    monarch = {
-        name = "Zayn al-'Abidin"  # Zayn al-'Abidin
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 4
-        DIP = 4
-        MIL = 3
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = scholar_personality
-    add_ruler_personality = just_personality
+  monarch = {
+    name = "Zayn al-'Abidin"
+    dynasty = "Shah Miri"
+    ADM = 4
+    DIP = 4
+    MIL = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = scholar_personality
+  add_ruler_personality = just_personality
 }
 1440.1.1 = {
-    heir = {
-        name = "海达尔 沙阿"  # Haydar Shah
-        monarch_name = "海达尔 沙阿"  # Haydar Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        birth_date = 1440.1.1
-        death_Date = 1472.4.13
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "海达尔 沙阿"  # Haydar Shah
+    monarch_name = "海达尔 沙阿"  # Haydar Shah
+    dynasty = "Shah Miri"
+    birth_date = 1440.1.1
+    death_Date = 1472.4.13
+    claim = 95
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1470.5.12 = {
-    monarch = {
-        name = "海达尔 沙阿"  # Haydar Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = drunkard_personality
-    add_ruler_personality = sinner_personality
+  monarch = {
+    name = "海达尔 沙阿"  # Haydar Shah
+    dynasty = "Shah Miri"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = drunkard_personality
+  add_ruler_personality = sinner_personality
 }
 1470.5.12 = {
-    heir = {
-        name = "哈桑 沙阿"  # Hasan Shah
-        monarch_name = "哈桑 沙阿"  # Hasan Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        birth_date = 1460.1.1
-        death_date = 1484.1.1
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "哈桑 沙阿"  # Hasan Shah
+    monarch_name = "哈桑 沙阿"  # Hasan Shah
+    dynasty = "Shah Miri"
+    birth_date = 1460.1.1
+    death_date = 1484.1.1
+    claim = 95
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1472.4.13 = {
-    monarch = {
-        name = "哈桑 沙阿"  # Hasan Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = obsessive_perfectionist_personality
+  monarch = {
+    name = "哈桑 沙阿"  # Hasan Shah
+    dynasty = "Shah Miri"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = obsessive_perfectionist_personality
 }
 1472.4.13 = {
-    heir = {
-        name = "穆罕默德 沙"  # Muhammad Shah
-        monarch_name = "穆罕默德 沙"  # Muhammad Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        birth_date = 1460.1.1
-        death_Date = 1486.1.1
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 3
-    }
+  heir = {
+    name = "穆罕默德 沙"  # Muhammad Shah
+    monarch_name = "穆罕默德 沙"  # Muhammad Shah
+    dynasty = "Shah Miri"
+    birth_date = 1460.1.1
+    death_Date = 1486.1.1
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 3
+  }
 }
 1484.1.1 = {
-    monarch = {
-        name = "穆罕默德 沙"  # Muhammad Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 0
-        MIL = 3
-    }
+  monarch = {
+    name = "穆罕默德 沙"  # Muhammad Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 0
+    MIL = 3
+  }
 }
 1484.1.1 = {
-    heir = {
-        name = "法特赫 沙阿"  # Fath Shah
-        monarch_name = "法特赫 沙阿"  # Fath Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        birth_date = 1460.1.1
-        death_Date = 1493.1.1
-        claim = 95
-        ADM = 0
-        DIP = 1
-        MIL = 2
-    }
+  heir = {
+    name = "法特赫 沙阿"  # Fath Shah
+    monarch_name = "法特赫 沙阿"  # Fath Shah
+    dynasty = "Shah Miri"
+    birth_date = 1460.1.1
+    death_Date = 1493.1.1
+    claim = 95
+    ADM = 0
+    DIP = 1
+    MIL = 2
+  }
 }
 1486.1.1 = {
-    monarch = {
-        name = "法特赫 沙阿"  # Fath Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 1
-        MIL = 2
-    }
+  monarch = {
+    name = "法特赫 沙阿"  # Fath Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 1
+    MIL = 2
+  }
 }
 1486.1.1 = {
-    heir = {
-        name = "穆罕默德 沙"  # Muhammad Shah
-        monarch_name = "穆罕默德 沙"  # Muhammad Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        birth_date = 1470.1.1
-        death_Date = 1505.1.1
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 3
-    }
+  heir = {
+    name = "穆罕默德 沙"  # Muhammad Shah
+    monarch_name = "穆罕默德 沙"  # Muhammad Shah
+    dynasty = "Shah Miri"
+    birth_date = 1470.1.1
+    death_Date = 1505.1.1
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 3
+  }
 }
 1493.1.1 = {
-    monarch = {
-        name = "穆罕默德 沙"  # Muhammad Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 0
-        MIL = 3
-    }
+  monarch = {
+    name = "穆罕默德 沙"  # Muhammad Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 0
+    MIL = 3
+  }
 }
 1505.1.1 = {
-    monarch = {
-        name = "法特赫 沙阿"  # Fath Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 1
-        MIL = 2
-    }
+  monarch = {
+    name = "法特赫 沙阿"  # Fath Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 1
+    MIL = 2
+  }
 }
 1514.1.1 = {
-    monarch = {
-        name = "穆罕默德 沙"  # Muhammad Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 0
-        MIL = 3
-    }
+  monarch = {
+    name = "穆罕默德 沙"  # Muhammad Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 0
+    MIL = 3
+  }
 }
 1515.1.1 = {
-    monarch = {
-        name = "法特赫 沙阿"  # Fath Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 1
-        MIL = 2
-    }
+  monarch = {
+    name = "法特赫 沙阿"  # Fath Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 1
+    MIL = 2
+  }
 }
 1517.8.1 = {
-    monarch = {
-        name = "穆罕默德 沙"  # Muhammad Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 0
-        MIL = 3
-    }
+  monarch = {
+    name = "穆罕默德 沙"  # Muhammad Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 0
+    MIL = 3
+  }
 }
 1528.1.1 = {
-    monarch = {
-        name = "易卜拉欣 沙"  # Ibrahim Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 2
-        MIL = 3
-    }
+  monarch = {
+    name = "易卜拉欣 沙"  # Ibrahim Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 2
+    MIL = 3
+  }
 }
 1529.1.1 = {
-    monarch = {
-        name = "Nazuk Shah"  # Nazuk Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 1
-        MIL = 2
-    }
+  monarch = {
+    name = "Nazuk Shah"
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 1
+    MIL = 2
+  }
 }
 1530.7.1 = {
-    monarch = {
-        name = "穆罕默德 沙"  # Muhammad Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 0
-        MIL = 3
-    }
+  monarch = {
+    name = "穆罕默德 沙"  # Muhammad Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 0
+    MIL = 3
+  }
 }
 1537.6.1 = {
-    monarch = {
-        name = "沙姆斯丁"  # Shams ad-Din
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "沙姆斯丁"  # Shams ad-Din
+    dynasty = "Shah Miri"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1538.1.1 = {
-    monarch = {
-        name = "伊斯梅尔 沙阿"  # Isma'il Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 2
-        MIL = 3
-    }
+  monarch = {
+    name = "伊斯梅尔 沙阿"  # Isma'il Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 2
+    MIL = 3
+  }
 }
 1540.1.1 = {
-    monarch = {
-        name = "Nazuk Shah"  # Nazuk Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 1
-        MIL = 2
-    }
+  monarch = {
+    name = "Nazuk Shah"
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 1
+    MIL = 2
+  }
 }
 1552.11.1 = {
-    monarch = {
-        name = "易卜拉欣 沙"  # Ibrahim Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 2
-        MIL = 3
-    }
+  monarch = {
+    name = "易卜拉欣 沙"  # Ibrahim Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 2
+    MIL = 3
+  }
 }
 1555.1.1 = {
-    monarch = {
-        name = "伊斯梅尔 沙阿"  # Isma'il Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 0
-        DIP = 2
-        MIL = 3
-    }
+  monarch = {
+    name = "伊斯梅尔 沙阿"  # Isma'il Shah
+    dynasty = "Shah Miri"
+    ADM = 0
+    DIP = 2
+    MIL = 3
+  }
 }
 1556.1.1 = {
-    monarch = {
-        name = "马哈茂德 哈比卜 沙阿"  # Mahmud Habib Shah
-        dynasty = "Shah Miri"  # Shah Miri
-        ADM = 2
-        DIP = 0
-        MIL = 4
-    }
+  monarch = {
+    name = "马哈茂德 哈比卜 沙阿"  # Mahmud Habib Shah
+    dynasty = "Shah Miri"
+    ADM = 2
+    DIP = 0
+    MIL = 4
+  }
 }
 1561.1.1 = {
-    monarch = {
-        name = "加齐 沙阿"  # Ghazi Shah
-        dynasty = "Chacki"  # Chacki
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "加齐 沙阿"  # Ghazi Shah
+    dynasty = "Chacki"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1563.1.1 = {
-    monarch = {
-        name = "侯赛因 沙阿 I"  # Husayn Shah I
-        dynasty = "Chacki"  # Chacki
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "侯赛因 沙阿 I"  # Husayn Shah I
+    dynasty = "Chacki"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1563.1.1 = {
-    heir = {
-        name = "阿里 沙"  # 'Ali Shah
-        monarch_name = "阿里 沙"  # 'Ali Shah
-        dynasty = "Chacki"  # Chacki
-        birth_date = 1540.1.1
-        death_date = 1579.5.1
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "阿里 沙"  # 'Ali Shah
+    monarch_name = "阿里 沙"  # 'Ali Shah
+    dynasty = "Chacki"
+    birth_date = 1540.1.1
+    death_date = 1579.5.1
+    claim = 95
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1569.1.1 = {
-    monarch = {
-        name = "阿里 沙"  # 'Ali Shah
-        dynasty = "Chacki"  # Chacki
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "阿里 沙"  # 'Ali Shah
+    dynasty = "Chacki"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1579.5.1 = {
-    monarch = {
-        name = "优素福 沙阿"  # Yusuf Shah
-        dynasty = "Chacki"  # Chacki
-        ADM = 1
-        DIP = 2
-        MIL = 4
-    }
+  monarch = {
+    name = "优素福 沙阿"  # Yusuf Shah
+    dynasty = "Chacki"
+    ADM = 1
+    DIP = 2
+    MIL = 4
+  }
 }
 1579.7.1 = {
-    monarch = {
-        name = "赛义德 穆巴拉克 拜哈吉"  # Saiyid Mubarak Baihaqi
-        dynasty = "Chacki"  # Chacki
-        ADM = 0
-        DIP = 0
-        MIL = 3
-    }
+  monarch = {
+    name = "赛义德 穆巴拉克 拜哈吉"  # Saiyid Mubarak Baihaqi
+    dynasty = "Chacki"
+    ADM = 0
+    DIP = 0
+    MIL = 3
+  }
 }
 1579.10.1 = {
-    monarch = {
-        name = "Lohir Shah"  # Lohir Shah
-        dynasty = "Chacki"  # Chacki
-        ADM = 1
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "Lohir Shah"
+    dynasty = "Chacki"
+    ADM = 1
+    DIP = 2
+    MIL = 2
+  }
 }
 1580.11.1 = {
-    monarch = {
-        name = "优素福 沙阿"  # Yusuf Shah
-        dynasty = "Chacki"  # Chacki
-        ADM = 1
-        DIP = 2
-        MIL = 4
-    }
+  monarch = {
+    name = "优素福 沙阿"  # Yusuf Shah
+    dynasty = "Chacki"
+    ADM = 1
+    DIP = 2
+    MIL = 4
+  }
 }
 1586.3.1 = {
-    monarch = {
-        name = "雅各布 沙阿"  # Ya'qub Shah
-        dynasty = "Chacki"  # Chacki
-        ADM = 0
-        DIP = 0
-        MIL = 2
-    }
+  monarch = {
+    name = "雅各布 沙阿"  # Ya'qub Shah
+    dynasty = "Chacki"
+    ADM = 0
+    DIP = 0
+    MIL = 2
+  }
 }

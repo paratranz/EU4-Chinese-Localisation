@@ -7,180 +7,180 @@ capital = 522
 fixed_capital = 522
 religious_school = hanafi_school
 1435.1.1 = {
-    monarch = {
-        name = "穆罕默德 沙 IV"  # Mohammed Shah IV
-        dynasty = "赛义德"  # Sayyid
-        ADM = 1
-        DIP = 1
-        MIL = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = babbling_buffoon_personality
+  monarch = {
+    name = "穆罕默德 沙 IV"  # Mohammed Shah IV
+    dynasty = "赛义德"  # Sayyid
+    ADM = 1
+    DIP = 1
+    MIL = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = babbling_buffoon_personality
 }
 1435.1.1 = {
-    heir = {
-        name = "阿拉丁 阿拉姆"  # Aladdin Alam
-        monarch_name = "阿拉丁 阿拉姆 沙"  # Aladdin Alam Shah
-        dynasty = "赛义德"  # Sayyid
-        birth_date = 1420.1.1
-        death_Date = 1451.4.20
-        claim = 95
-        ADM = 1
-        DIP = 0
-        MIL = 0
-    }
+  heir = {
+    name = "阿拉丁 阿拉姆"  # Aladdin Alam
+    monarch_name = "阿拉丁 阿拉姆 沙"  # Aladdin Alam Shah
+    dynasty = "赛义德"  # Sayyid
+    birth_date = 1420.1.1
+    death_Date = 1451.4.20
+    claim = 95
+    ADM = 1
+    DIP = 0
+    MIL = 0
+  }
 }
 1445.1.1 = {
-    monarch = {
-        name = "阿拉丁 阿拉姆 沙"  # Aladdin Alam Shah
-        dynasty = "赛义德"  # Sayyid
-        ADM = 1
-        DIP = 0
-        MIL = 0
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = babbling_buffoon_personality
+  monarch = {
+    name = "阿拉丁 阿拉姆 沙"  # Aladdin Alam Shah
+    dynasty = "赛义德"  # Sayyid
+    ADM = 1
+    DIP = 0
+    MIL = 0
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = babbling_buffoon_personality
 }
 1451.4.20 = {
-    monarch = {
-        name = "巴鲁儿"  # Bahlûl
-        dynasty = "洛迪"  # Lodi
-        culture = afghani
-        ADM = 4
-        DIP = 5
-        MIL = 6
-        leader = {
-            name = "巴鲁儿 洛迪"  # Bahlûl Lodi
-            type = general
-            fire = 4
-            shock = 4
-            manuever = 4
-            siege = 1
-        }
+  monarch = {
+    name = "巴鲁儿"  # Bahlûl
+    dynasty = "洛迪"  # Lodi
+    culture = afghani
+    ADM = 4
+    DIP = 5
+    MIL = 6
+    leader = {
+      name = "巴鲁儿 洛迪"  # Bahlûl Lodi
+      Lodi"type = "
+      generalfire = "
+      4shock = "
+      4manuever = "
+      4siege = 1
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = strict_personality
-    add_ruler_personality = conqueror_personality
-    add_ruler_personality = industrious_personality
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = strict_personality
+  add_ruler_personality = conqueror_personality
+  add_ruler_personality = industrious_personality
 }
 1451.4.20 = {
-    heir = {
-        name = "尼沙 汗"  # Nizam Khan
-        monarch_name = "锡坎达尔 沙"  # Sikandar Shâh
-        dynasty = "洛迪"  # Lodi
-        culture = afghani
-        birth_date = 1450.1.1
-        death_Date = 1517.11.21
-        claim = 95
-        ADM = 0
-        DIP = 1
-        MIL = 3
-        leader = {
-            name = "锡坎达尔"  # Sikandar Shâh
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 4
-            siege = 0
-        }
+  heir = {
+    name = "尼沙 汗"  # Nizam Khan
+    monarch_name = "锡坎达尔 沙"  # Sikandar Shâh
+    dynasty = "洛迪"  # Lodi
+    culture = afghani
+    birth_date = 1450.1.1
+    death_Date = 1517.11.21
+    claim = 95
+    ADM = 0
+    DIP = 1
+    MIL = 3
+    leader = {
+      name = "锡坎达尔"  # Sikandar Shâh
+      Shâh"type = "
+      generalfire = "
+      3shock = "
+      3manuever = "
+      4siege = 0
     }
+  }
 }
 1489.7.17 = {
-    monarch = {
-        name = "锡坎达尔 沙"  # Sikandar Shâh
-        dynasty = "洛迪"  # Lodi
-        culture = afghani
-        ADM = 0
-        DIP = 1
-        MIL = 3
-        leader = {
-            name = "锡坎达尔 沙"  # Sikandar Shâh
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 4
-            siege = 0
-        }
+  monarch = {
+    name = "锡坎达尔 沙"  # Sikandar Shâh
+    dynasty = "洛迪"  # Lodi
+    culture = afghani
+    ADM = 0
+    DIP = 1
+    MIL = 3
+    leader = {
+      name = "锡坎达尔 沙"  # Sikandar Shâh
+      Shâh"type = "
+      generalfire = "
+      3shock = "
+      3manuever = "
+      4siege = 0
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = secretive_personality
-    add_ruler_personality = industrious_personality
-    add_ruler_personality = zealot_personality
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = secretive_personality
+  add_ruler_personality = industrious_personality
+  add_ruler_personality = zealot_personality
 }
 1489.7.17 = {
-    heir = {
-        name = "易卜拉欣 沙"  # Ibrâhîm Shâh
-        monarch_name = "易卜拉欣 沙"  # Ibrâhîm Shâh
-        dynasty = "洛迪"  # Lodi
-        culture = afghani
-        birth_date = 1489.1.1
-        death_Date = 1526.4.21
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 0
-        leader = {
-            name = "易卜拉欣 沙"  # Ibrâhîm Shâh
-            type = general
-            fire = 0
-            shock = 1
-            manuever = 1
-            siege = 0
-        }
+  heir = {
+    name = "易卜拉欣 沙"  # Ibrâhîm Shâh
+    monarch_name = "易卜拉欣 沙"  # Ibrâhîm Shâh
+    dynasty = "洛迪"  # Lodi
+    culture = afghani
+    birth_date = 1489.1.1
+    death_Date = 1526.4.21
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 0
+    leader = {
+      name = "易卜拉欣 沙"  # Ibrâhîm Shâh
+      Shâh"type = "
+      generalfire = "
+      0shock = "
+      1manuever = "
+      1siege = 0
     }
+  }
 }
 1517.11.21 = {
-    monarch = {
-        name = "易卜拉欣 沙"  # Ibrâhîm Shâh
-        dynasty = "洛迪"  # Lodi
-        culture = afghani
-        ADM = 0
-        DIP = 0
-        MIL = 0
-        leader = {
-            name = "易卜拉欣 沙"  # Ibrâhîm Shâh
-            type = general
-            fire = 0
-            shock = 1
-            manuever = 1
-            siege = 0
-        }
+  monarch = {
+    name = "易卜拉欣 沙"  # Ibrâhîm Shâh
+    dynasty = "洛迪"  # Lodi
+    culture = afghani
+    ADM = 0
+    DIP = 0
+    MIL = 0
+    leader = {
+      name = "易卜拉欣 沙"  # Ibrâhîm Shâh
+      Shâh"type = "
+      generalfire = "
+      0shock = "
+      1manuever = "
+      1siege = 0
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = malevolent_personality
-    add_ruler_personality = secretive_personality
-    capital = 524
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
+  add_ruler_personality = secretive_personality
+  capital = 524
 }
 1526.4.21 = {
-    capital = 522
+  capital = 522
 }
 1553.1.1 = {
-    monarch = {
-        name = "易卜拉欣 沙"  # Ibrâhîm Shâh
-        dynasty = "苏尔"  # Suri
-        ADM = 2
-        DIP = 3
-        MIL = 1
-    }
+  monarch = {
+    name = "易卜拉欣 沙"  # Ibrâhîm Shâh
+    dynasty = "苏尔"  # Suri
+    ADM = 2
+    DIP = 3
+    MIL = 1
+  }
 }
 1556.9.1 = {
-    monarch = {
-        name = "赫姆"  # Hemu
-        dynasty = "雷瓦里"  # Rewari
-        ADM = 5
-        DIP = 3
-        MIL = 5
-        leader = {
-            name = "Hemu"  # Hemu
-            type = general
-            fire = 3
-            shock = 4
-            manuever = 2
-            siege = 1
-        }
+  monarch = {
+    name = "赫姆"  # Hemu
+    dynasty = "雷瓦里"  # Rewari
+    ADM = 5
+    DIP = 3
+    MIL = 5
+    leader = {
+      name = "Hemu"
+      "Hemu"type = "
+      generalfire = "
+      3shock = "
+      4manuever = "
+      2siege = 1
     }
-    religion = hinduism
+  }
+  religion = hinduism
 }
 1556.11.5 = {
-    religion = sunni
+  religion = sunni
 }

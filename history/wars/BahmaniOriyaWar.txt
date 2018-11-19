@@ -1,14 +1,14 @@
 ﻿name = "卡里彭德拉斯征服特伦甘纳"  # Kalipendras Conquest of Telingana
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 2037
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 2037
 }
 1450.1.1 = {
-    add_attacker = ORI
-    add_defender = BAH
+  add_attacker = ORI
+  add_defender = BAH
 }
 1452.1.1 = {
-    rem_attacker = ORI
-    rem_defender = BAH
+  rem_attacker = ORI
+  rem_defender = BAH
 }

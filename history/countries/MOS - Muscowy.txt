@@ -9,188 +9,188 @@ capital = 295
 fixed_capital = 295
 national_focus = ADM
 1389.5.19 = {
-    monarch = {
-        name = "瓦西里 I"  # Vasiliy I
-        dynasty = "留里克"  # Rurikovich
-        adm = 1
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "瓦西里 I"  # Vasiliy I
+    dynasty = "留里克"  # Rurikovich
+    adm = 1
+    dip = 3
+    mil = 2
+  }
 }
 1415.3.10 = {
-    heir = {
-        name = "瓦西里 捷姆内"  # Vasiliy Temny
-        monarch_name = "瞎子瓦西里 II"  # Vasiliy II Temny
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1415.3.10
-        death_date = 1462.3.27
-        claim = 95
-        adm = 3
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "瓦西里 捷姆内"  # Vasiliy Temny
+    monarch_name = "瞎子瓦西里 II"  # Vasiliy II Temny
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1415.3.10
+    death_date = 1462.3.27
+    claim = 95
+    adm = 3
+    dip = 1
+    mil = 2
+  }
 }
 1420.1.1 = {
-    leader = {
-        name = "尤里 帕特里克耶夫"  # Yuri Patrikeev
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 3
-        siege = 1
-        death_date = 1439.1.1
-    }
+  leader = {
+    name = "尤里 帕特里克耶夫"  # Yuri Patrikeev
+    Patrikeev"type = "
+    generalfire = "
+    2shock = "
+    4manuever = "
+    3siege = "
+    1death_date = 1439.1.1
+  }
 }
 1424.2.27 = {
-    monarch = {
-        name = "瞎子 瓦西里 II"  # Vasiliy II Temny
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1415.3.10
-        adm = 3
-        dip = 1
-        mil = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = careful_personality
-    add_ruler_personality = intricate_web_weaver_personality
+  monarch = {
+    name = "瞎子 瓦西里 II"  # Vasiliy II Temny
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1415.3.10
+    adm = 3
+    dip = 1
+    mil = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = careful_personality
+  add_ruler_personality = intricate_web_weaver_personality
 }
 1430.1.1 = {
-    leader = {
-        name = "德米特里 舍米亚卡"  # Dmitry Shemiaka
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1453.1.1
-    }
+  leader = {
+    name = "德米特里 舍米亚卡"  # Dmitry Shemiaka
+    Shemiaka"type = "
+    generalfire = "
+    3shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1453.1.1
+  }
 }
 1433.1.1 = {
-    queen = {
-        country_of_origin = YAR
-        name = "玛丽亚"  # Maria
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1418.1.1
-        death_date = 1484.1.1
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 1
-    }
+  queen = {
+    country_of_origin = YAR
+    name = "玛丽亚"  # Maria
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1418.1.1
+    death_date = 1484.1.1
+    female = yes
+    adm = 3
+    dip = 3
+    mil = 1
+  }
 }
 1440.1.22 = {
-    heir = {
-        name = "伊凡「大帝」"  # Ivan Veliky
-        monarch_name = "伊凡 III「大帝」"  # Ivan III Veliky
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1440.1.22
-        death_date = 1505.10.27
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 5
-    }
+  heir = {
+    name = "伊凡「大帝」"  # Ivan Veliky
+    monarch_name = "伊凡 III「大帝」"  # Ivan III Veliky
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1440.1.22
+    death_date = 1505.10.27
+    claim = 95
+    adm = 3
+    dip = 4
+    mil = 5
+  }
 }
 1446.1.1 = {
-    leader = {
-        name = "Fedor Basenok"  # Fedor Basenok
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1460.1.1
-    }
+  leader = {
+    name = "Fedor Basenok"
+    type = "
+    generalfire = "
+    3shock = "
+    4manuever = "
+    4siege = "
+    0death_date = 1460.1.1
+  }
 }
 1447.1.1 = {
-    leader = {
-        name = "伊凡 奥博连斯基-斯特里加"  # Ivan Obolenski-Striga
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1469.1.1
-    }
+  leader = {
+    name = "伊凡 奥博连斯基-斯特里加"  # Ivan Obolenski-Striga
+    type = "
+    generalfire = "
+    2shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1469.1.1
+  }
 }
 1460.1.1 = {
-    leader = {
-        name = "霍尔姆斯基"  # Kholmski
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1495.1.1
-    }
+  leader = {
+    name = "霍尔姆斯基"  # Kholmski
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    1death_date = 1495.1.1
+  }
 }
 1462.3.28 = {
-    monarch = {
-        name = "伊凡 III「大帝」"  # Ivan III Veliky
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1440.1.22
-        adm = 3
-        dip = 4
-        mil = 5
-    }
+  monarch = {
+    name = "伊凡 III「大帝」"  # Ivan III Veliky
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1440.1.22
+    adm = 3
+    dip = 4
+    mil = 5
+  }
 }
 1479.3.25 = {
-    heir = {
-        name = "瓦西里"  # Vasiliy
-        monarch_name = "瓦西里 III"  # Vasiliy III
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1479.3.25
-        death_date = 1533.12.3
-        claim = 95
-        adm = 6
-        dip = 4
-        mil = 1
-    }
+  heir = {
+    name = "瓦西里"  # Vasiliy
+    monarch_name = "瓦西里 III"  # Vasiliy III
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1479.3.25
+    death_date = 1533.12.3
+    claim = 95
+    adm = 6
+    dip = 4
+    mil = 1
+  }
 }
 1490.1.1 = {
-    leader = {
-        name = "Shenja"  # Shenja
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1516.1.1
-    }
+  leader = {
+    name = "Shenja"
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1516.1.1
+  }
 }
 1495.1.1 = {
-    leader = {
-        name = "伊凡 李雅普"  # Ivan Lyapun
-        type = conquistador
-        fire = 1
-        shock = 1
-        manuever = 4
-        siege = 0
-        death_date = 1505.1.1
-    }
+  leader = {
+    name = "伊凡 李雅普"  # Ivan Lyapun
+    type = conquistador
+    fire = 1
+    shock = 1
+    manuever = 4
+    siege = 0
+    death_date = 1505.1.1
+  }
 }
 1495.1.1 = {
-    leader = {
-        name = "列普宁"  # Repnin
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1520.1.1
-    }
+  leader = {
+    name = "列普宁"  # Repnin
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1520.1.1
+  }
 }
 1495.1.1 = {
-    leader = {
-        name = "Ivan A. Chelyadnin"  # Ivan A. Chelyadnin
-        type = general
-        fire = 1
-        shock = 3
-        manuever = 2
-        siege = 0
-        death_date = 1514.1.1
-    }
+  leader = {
+    name = "Ivan A. Chelyadnin"
+    type = general
+    fire = 1
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1514.1.1
+  }
 }
 1503.4.1 = {
-    capital = 297
+  capital = 297
 }

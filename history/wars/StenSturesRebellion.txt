@@ -1,14 +1,14 @@
 ﻿name = "斯滕斯图雷叛乱"  # Sten Sture Rebellion
 war_goal = {
-    type = defend_capital_independence
-    casus_belli = cb_independence_war
-    tag = SWE
+  type = defend_capital_independence
+  casus_belli = cb_independence_war
+  tag = SWE
 }
 1501.1.1 = {
-    add_attacker = SWE
-    add_defender = DAN
+  add_attacker = SWE
+  add_defender = DAN
 }
 1503.12.14 = {
-    rem_attacker = SWE
-    rem_defender = DAN
+  rem_attacker = SWE
+  rem_defender = DAN
 }

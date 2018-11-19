@@ -1,256 +1,257 @@
 ﻿graphical_culture = easterngfx
 color = {
-    190
-    35
-    37
+  190
+  35
+  37
 }
 historical_idea_groups = {
-    defensive_ideas
-    offensive_ideas
-    trade_ideas
-    spy_ideas
-    diplomatic_ideas
-    economic_ideas
-    religious_ideas
-    quantity_ideas
+  defensive_ideas
+  offensive_ideas
+  trade_ideas
+  spy_ideas
+  diplomatic_ideas
+  economic_ideas
+  religious_ideas
+  quantity_ideas
 }
 historical_units = {
-    eastern_medieval_infantry
-    eastern_knights
-    slavic_stradioti
-    eastern_militia
-    muscovite_musketeer
-    muscovite_caracolle
-    muscovite_soldaty
-    muscovite_cossack
-    russian_petrine
-    russian_lancer
-    russian_green_coat
-    russian_cuirassier
-    eastern_skirmisher
-    eastern_uhlan
-    eastern_carabinier
-    russian_mass
+  eastern_medieval_infantry
+  eastern_knights
+  slavic_stradioti
+  eastern_militia
+  muscovite_musketeer
+  muscovite_caracolle
+  muscovite_soldaty
+  muscovite_cossack
+  russian_petrine
+  russian_lancer
+  russian_green_coat
+  russian_cuirassier
+  eastern_skirmisher
+  eastern_uhlan
+  eastern_carabinier
+  russian_mass
 }
 monarch_names = {
-    "Giorgi #6" = 120
-    "David #9" = 60
-    "Vakhtang #3" = 60
-    "Bagrat #5" = 40
-    "Aleksandre #0" = 20
-    "Erekle #0" = 40
-    "Konstantine #0" = 40
-    "Luarsab #0" = 40
-    "Simon #0" = 40
-    "Teimuraz #0" = 40
-    "Archil #0" = 10
-    "Bakar #0" = 5
-    "Iese #0" = 15
-    "Kaikhosro #0" = 10
-    "Rostom #0" = 10
-    "Levan #0" = 15
-    "Demetre #2" = 20
-    "Bebur #0" = 0
-    "Torgva #0" = 0
-    "Stepanoz #0" = 0
-    "奥高塔尼格 #0" = 0
-    "Andukapar #0" = 0
-    "Givi #0" = 0
-    "Grigol #0" = 0
-    "伊万涅 #0" = 0
-    "Paata #0" = 0
-    "Tornike #0" = 0
-    "Tsotne #0" = 0
-    "Zaal #0" = 0
-    "Zaza #0" = 0
-    "Zurab #0" = 0
-    "Zviad #0" = 0
-    "Sumbat #0" = 0
-    "Bidzina #0" = 0
-    "Nikoloz #0" = 0
-    "Garsevan #0" = 0
-    "Ioane #0" = 0
-    "Datua #0" = 0
-    "Bezhan #0" = 0
-    "Katsia #0" = 0
-    "Otia #0" = 0
-    "Kakhaber #0" = 0
-    "Shamandavle #0" = 0
-    "Vamiq #0" = 0
-    "Liparit #0" = 0
-    "Rabia #0" = 0
-    "Puto #0" = 0
-    "Seteman #0" = 0
-    "Zegnak #0" = 0
-    "Timote #0" = 0
-    "Qvarqvare #0" = 0
-    "Beka #0" = 0
-    "Manuchar #0" = 0
-    "Aghbugha #0" = 0
-    "Baadur #0" = 0
-    "Mzetchabuk #0" = 0
-    "Botso #0" = 0
-    "Sargis #0" = 0
-    "Tamar #1" = -20
-    "Rusudan #1" = -10
-    "Nestan-Darejan #0" = -10
-    "Darejan #0" = -5
-    "Ketevan #0" = -5
-    "Tinatin #0" = -5
-    "Nino #0" = -1
-    "Elene #0" = -1
-    "Ana #0" = -1
-    "Mariam #0" = -1
-    "Khoreshan #0" = -1
-    "Dedisimedi #0" = -1
+  "Giorgi #6" = 120
+  "David #9" = 60
+  "Vakhtang #3" = 60
+  "Bagrat #5" = 40
+  "Aleksandre #0" = 20
+  "Erekle #0" = 40
+  "Konstantine #0" = 40
+  "Luarsab #0" = 40
+  "Simon #0" = 40
+  "Teimuraz #0" = 40
+  "Archil #0" = 10
+  "Bakar #0" = 5
+  "Iese #0" = 15
+  "Kaikhosro #0" = 10
+  "Rostom #0" = 10
+  "Levan #0" = 15
+  "Demetre #2" = 20
+  "Bebur #0" = 0
+  "Torgva #0" = 0
+  "Stepanoz #0" = 0
+  "Andukapar #0" = 0
+  "Givi #0" = 0
+  "Grigol #0" = 0
+  "Paata #0" = 0
+  "Tornike #0" = 0
+  "Tsotne #0" = 0
+  "Zaal #0" = 0
+  "Zaza #0" = 0
+  "Zurab #0" = 0
+  "Zviad #0" = 0
+  "Sumbat #0" = 0
+  "Bidzina #0" = 0
+  "Nikoloz #0" = 0
+  "Garsevan #0" = 0
+  "Ioane #0" = 0
+  "Datua #0" = 0
+  "Bezhan #0" = 0
+  "Katsia #0" = 0
+  "Otia #0" = 0
+  "Grigol #0" = 0
+  "Kakhaber #0" = 0
+  "Shamandavle #0" = 0
+  "Vamiq #0" = 0
+  "Liparit #0" = 0
+  "Rabia #0" = 0
+  "Puto #0" = 0
+  "Seteman #0" = 0
+  "Zegnak #0" = 0
+  "Timote #0" = 0
+  "Qvarqvare #0" = 0
+  "Beka #0" = 0
+  "Manuchar #0" = 0
+  "Aghbugha #0" = 0
+  "Baadur #0" = 0
+  "Mzetchabuk #0" = 0
+  "Botso #0" = 0
+  "Sargis #0" = 0
+  "Tamar #1" = -20
+  "Rusudan #1" = -10
+  "Nestan-Darejan #0" = -10
+  "Darejan #0" = -5
+  "Ketevan #0" = -5
+  "Tinatin #0" = -5
+  "Nino #0" = -1
+  "Elene #0" = -1
+  "Ana #0" = -1
+  "Mariam #0" = -1
+  "Khoreshan #0" = -1
+  "Dedisimedi #0" = -1
+  "奥高塔尼格 #0" = 0  # Aghatang #0
+  "伊万涅 #0" = 0  # Ivane #0
 }
 leader_names = {
-    "Gabashvili"  # Gabashvili
-    "Gegechkori"  # Gegechkori
-    "Amilakhvari"  # Amilakhvari
-    "Amirejibi"  # Amirejibi
-    "Baratashvili"  # Baratashvili
-    "Bebutashvili"  # Bebutashvili
-    "Begtabegishvili"  # Begtabegishvili
-    "Cherkezeshvili"  # Cherkezeshvili
-    "Chkhetidze"  # Chkhetidze
-    "Gabashvili"  # Gabashvili
-    "Javakhishvili"  # Javakhishvili
-    "Kherkheulidze"  # Kherkheulidze
-    "Kvenipneveli"  # Kvenipneveli
-    "Maghalashvili"  # Maghalashvili
-    "Mikeladze"  # Mikeladze
-    "Mukhrani"  # Mukhrani
-    "Mukhranbatoni"  # Mukhranbatoni
-    "Orbeliani"  # Orbeliani
-    "Ratishvili"  # Ratishvili
-    "Sidamoni"  # Sidamoni
-    "Solagashvili"  # Solagashvili
-    "Tsitsishvili"  # Tsitsishvili
-    "Turkestanishvili"  # Turkestanishvili
-    "Abashidze"  # Abashidze
-    "Abkhazi"  # Abkhazi
-    "Andronikashvili"  # Andronikashvili
-    "Babadishvili"  # Babadishvili
-    "Chavchavadze"  # Chavchavadze
-    "Cherkezeshvili"  # Cherkezeshvili
-    "Cholokashvili"  # Cholokashvili
-    "Guramishvili"  # Guramishvili
-    "Gurgenidze"  # Gurgenidze
-    "Jandieri"  # Jandieri
-    "Jorjadze"  # Jorjadze
-    "Kobulashvili"  # Kobulashvili
-    "Lionidze"  # Lionidze
-    "Robatishvili"  # Robatishvili
-    "Rusishvili"  # Rusishvili
-    "Shaburidze"  # Shaburidze
-    "Tumanisdze"  # Tumanisdze
-    "Tusishvili"  # Tusishvili
-    "Vachnadze"  # Vachnadze
-    "Agiashvili"  # Agiashvili
-    "Anchabadze"  # Anchabadze
-    "Apakidze"  # Apakidze
-    "Chichua"  # Chichua
-    "Chijavadze"  # Chijavadze
-    "Chikovani"  # Chikovani
-    "Chkheidze"  # Chkheidze
-    "Dadiani"  # Dadiani
-    "Dadeshkeliani"  # Dadeshkeliani
-    "Gelovani"  # Gelovani
-    "Gurieli"  # Gurieli
-    "Iashvili"  # Iashvili
-    "Lortkipanidze"  # Lortkipanidze
-    "Machavariani"  # Machavariani
-    "Machutadze"  # Machutadze
-    "Mkheidze"  # Mkheidze
-    "Mikeladze"  # Mikeladze
-    "Nakashidze"  # Nakashidze
-    "Nikoladze"  # Nikoladze
-    "Nizharadze"  # Nizharadze
-    "Shervashidze"  # Shervashidze
-    "Tsereteli"  # Tsereteli
-    "Tsulukidze"  # Tsulukidze
-    "Amilakhori"  # Amilakhori
-    "Avilishvili"  # Avilishvili
-    "Diasamidze"  # Diasamidze
-    "Gaganidze"  # Gaganidze
-    "Gogibashvili"  # Gogibashvili
-    "Gogorishvili"  # Gogorishvili
-    "Khildirbegashvili"  # Khildirbegashvili
-    "Kobulisdze"  # Kobulisdze
-    "Kopasdze"  # Kopasdze
-    "Palavandishvili"  # Palavandishvili
-    "Panaskerteli"  # Panaskerteli
-    "Shalikashvili"  # Shalikashvili
-    "Sologashvili"  # Sologashvili
-    "Sumbatishvili"  # Sumbatishvili
-    "Tavdgiridze"  # Tavdgiridze
-    "Tukhareli"  # Tukhareli
+  "Gabashvili"
+  "Gegechkori"
+  "Amilakhvari"
+  "Amirejibi"
+  "Baratashvili"
+  "Bebutashvili"
+  "Begtabegishvili"
+  "Cherkezeshvili"
+  "Chkhetidze"
+  "Gabashvili"
+  "Javakhishvili"
+  "Kherkheulidze"
+  "Kvenipneveli"
+  "Maghalashvili"
+  "Mikeladze"
+  "Mukhrani"
+  "Mukhranbatoni"
+  "Orbeliani"
+  "Ratishvili"
+  "Sidamoni"
+  "Solagashvili"
+  "Tsitsishvili"
+  "Turkestanishvili"
+  "Abashidze"
+  "Abkhazi"
+  "Andronikashvili"
+  "Babadishvili"
+  "Chavchavadze"
+  "Cherkezeshvili"
+  "Cholokashvili"
+  "Guramishvili"
+  "Gurgenidze"
+  "Jandieri"
+  "Jorjadze"
+  "Kobulashvili"
+  "Lionidze"
+  "Robatishvili"
+  "Rusishvili"
+  "Shaburidze"
+  "Tumanisdze"
+  "Tusishvili"
+  "Vachnadze"
+  "Agiashvili"
+  "Anchabadze"
+  "Apakidze"
+  "Chichua"
+  "Chijavadze"
+  "Chikovani"
+  "Chkheidze"
+  "Dadiani"
+  "Dadeshkeliani"
+  "Gelovani"
+  "Gurieli"
+  "Iashvili"
+  "Lortkipanidze"
+  "Machavariani"
+  "Machutadze"
+  "Mkheidze"
+  "Mikeladze"
+  "Nakashidze"
+  "Nikoladze"
+  "Nizharadze"
+  "Shervashidze"
+  "Tsereteli"
+  "Tsulukidze"
+  "Amilakhori"
+  "Avilishvili"
+  "Diasamidze"
+  "Gaganidze"
+  "Gogibashvili"
+  "Gogorishvili"
+  "Khildirbegashvili"
+  "Kobulisdze"
+  "Kopasdze"
+  "Palavandishvili"
+  "Panaskerteli"
+  "Shalikashvili"
+  "Sologashvili"
+  "Sumbatishvili"
+  "Tavdgiridze"
+  "Tukhareli"
 }
 ship_names = {
-    "Abo"  # Abo
-    "Amirani"  # Amirani
-    "Aragvi"  # Aragvi
-    "Armazi"  # Armazi
-    "Anakopia"  # Anakopia
-    "Artaani"  # Artaani
-    "Argo"  # Argo
-    "Abkhazeti"  # Abkhazeti
-    "Apsaros"  # Apsaros
-    "Ateni Sioni"  # Ateni Sioni
-    "Avtandil"  # Avtandil
-    "Bichvinta"  # Bichvinta
-    "Batomi"  # Batomi
-    "Bodbe"  # Bodbe
-    "Colchis"  # Colchis
-    "Dmanisi"  # Dmanisi
-    "Demetre Tavdadebuli"  # Demetre Tavdadebuli
-    "Davit Gareja"  # Davit Gareja
-    "Didgori"  # Didgori
-    "Davit Aghmashenebeli"  # Davit Aghmashenebeli
-    "Dioscurias"  # Dioscurias
-    "Geguti"  # Geguti
-    "Gelati"  # Gelati
-    "Giorgi V Brtskinvale"  # Giorgi V Brtskinvale
-    "Gori"  # Gori
-    "Gremi"  # Gremi
-    "Hereti"  # Hereti
-    "Iberia"  # Iberia
-    "Jvari"  # Jvari
-    "Jvari Vazisa"  # Jvari Vazisa
-    "Kartlos"  # Kartlos
-    "Kutaisi"  # Kutaisi
-    "Khornabuji"  # Khornabuji
-    "Lasharisjvari"  # Lasharisjvari
-    "Lore"  # Lore
-    "Mtkvari"  # Mtkvari
-    "Mtskheta"  # Mtskheta
-    "Narikala"  # Narikala
-    "Ninotsminda"  # Ninotsminda
-    "Okros Satsmisi"  # Okros Satsmisi
-    "Parnavaz"  # Parnavaz
-    "Phasis"  # Phasis
-    "Pityus"  # Pityus
-    "Petre Iberi"  # Petre Iberi
-    "Ruisi"  # Ruisi
-    "Racha"  # Racha
-    "Rioni"  # Rioni
-    "Seti"  # Seti
-    "Skhalta"  # Skhalta
-    "Svaneti"  # Svaneti
-    "Svetitskhoveli"  # Svetitskhoveli
-    "Shota Rustaveli"  # Shota Rustaveli
-    "Tamar"  # Tamar
-    "Tbilisi"  # Tbilisi
-    "Telavi"  # Telavi
-    "Tashiri"  # Tashiri
-    "Tsminda Giorgi"  # Tsminda Giorgi
-    "Tsotne Dadiani"  # Tsotne Dadiani
-    "Tetri Giorgi"  # Tetri Giorgi
-    "Urbnisi"  # Urbnisi
-    "Ushba"  # Ushba
-    "Uplistsikhe"  # Uplistsikhe
-    "Vakhtang Gorgasali"  # Vakhtang Gorgasali
-    "Vardzia"  # Vardzia
-    "Venakhi"  # Venakhi
+  "Abo"
+  "Amirani"
+  "Aragvi"
+  "Armazi"
+  "Anakopia"
+  "Artaani"
+  "Argo"
+  "Abkhazeti"
+  "Apsaros"
+  "Ateni Sioni"
+  "Avtandil"
+  "Bichvinta"
+  "Batomi"
+  "Bodbe"
+  "Colchis"
+  "Dmanisi"
+  "Demetre Tavdadebuli"
+  "Davit Gareja"
+  "Didgori"
+  "Davit Aghmashenebeli"
+  "Dioscurias"
+  "Geguti"
+  "Gelati"
+  "Giorgi V Brtskinvale"
+  "Gori"
+  "Gremi"
+  "Hereti"
+  "Iberia"
+  "Jvari"
+  "Jvari Vazisa"
+  "Kartlos"
+  "Kutaisi"
+  "Khornabuji"
+  "Lasharisjvari"
+  "Lore"
+  "Mtkvari"
+  "Mtskheta"
+  "Narikala"
+  "Ninotsminda"
+  "Okros Satsmisi"
+  "Parnavaz"
+  "Phasis"
+  "Pityus"
+  "Petre Iberi"
+  "Ruisi"
+  "Racha"
+  "Rioni"
+  "Seti"
+  "Skhalta"
+  "Svaneti"
+  "Svetitskhoveli"
+  "Shota Rustaveli"
+  "Tamar"
+  "Tbilisi"
+  "Telavi"
+  "Tashiri"
+  "Tsminda Giorgi"
+  "Tsotne Dadiani"
+  "Tetri Giorgi"
+  "Urbnisi"
+  "Ushba"
+  "Uplistsikhe"
+  "Vakhtang Gorgasali"
+  "Vardzia"
+  "Venakhi"
 }

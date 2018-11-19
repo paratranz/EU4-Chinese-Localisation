@@ -6,274 +6,274 @@ religion = catholic
 technology_group = western
 capital = 1775
 1381.1.1 = {
-    monarch = {
-        name = "格哈德 VI"  # Gerhard VI
-        dynasty = "冯 绍恩堡"  # von Schauenburg
-        birth_date = 1367.1.1
-        adm = 3
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "格哈德 VI"  # Gerhard VI
+    dynasty = "冯 绍恩堡"  # von Schauenburg
+    birth_date = 1367.1.1
+    adm = 3
+    dip = 2
+    mil = 1
+  }
 }
 1397.1.1 = {
-    heir = {
-        name = "海因里希"  # Heinrich
-        monarch_name = "海因里希 IV"  # Heinrich IV
-        dynasty = "冯 绍恩堡"  # von Schauenburg
-        birth_date = 1397.1.1
-        death_date = 1427.5.28
-        claim = 95
-        adm = 1
-        dip = 0
-        mil = 1
-    }
+  heir = {
+    name = "海因里希"  # Heinrich
+    monarch_name = "海因里希 IV"  # Heinrich IV
+    dynasty = "冯 绍恩堡"  # von Schauenburg
+    birth_date = 1397.1.1
+    death_date = 1427.5.28
+    claim = 95
+    adm = 1
+    dip = 0
+    mil = 1
+  }
 }
 1404.1.1 = {
-    monarch = {
-        name = "海因里希 IV"  # Heinrich IV
-        dynasty = "冯 绍恩堡"  # von Schauenburg
-        birth_date = 1397.1.1
-        adm = 1
-        dip = 0
-        mil = 1
-    }
+  monarch = {
+    name = "海因里希 IV"  # Heinrich IV
+    dynasty = "冯 绍恩堡"  # von Schauenburg
+    birth_date = 1397.1.1
+    adm = 1
+    dip = 0
+    mil = 1
+  }
 }
 1404.1.1 = {
-    heir = {
-        name = "阿道夫"  # Adolf
-        monarch_name = "阿道夫 VIII"  # Adolf VIII
-        dynasty = "冯 绍恩堡"  # von Schauenburg
-        birth_date = 1401.1.1
-        death_date = 1459.12.1
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 3
-    }
+  heir = {
+    name = "阿道夫"  # Adolf
+    monarch_name = "阿道夫 VIII"  # Adolf VIII
+    dynasty = "冯 绍恩堡"  # von Schauenburg
+    birth_date = 1401.1.1
+    death_date = 1459.12.1
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 3
+  }
 }
 1427.5.29 = {
-    monarch = {
-        name = "阿道夫 VIII"  # Adolf VIII
-        dynasty = "冯 绍恩堡"  # von Schauenburg
-        birth_date = 1401.1.1
-        adm = 3
-        dip = 3
-        mil = 3
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = infertile_personality
-    add_ruler_personality = fierce_negotiator_personality
+  monarch = {
+    name = "阿道夫 VIII"  # Adolf VIII
+    dynasty = "冯 绍恩堡"  # von Schauenburg
+    birth_date = 1401.1.1
+    adm = 3
+    dip = 3
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = infertile_personality
+  add_ruler_personality = fierce_negotiator_personality
 }
 1440.1.1 = {
-    heir = {
-        name = "克里斯蒂安 I"  # Christian I
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1426.2.1
-        adm = 4
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "克里斯蒂安 I"  # Christian I
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1426.2.1
+    adm = 4
+    dip = 1
+    mil = 2
+  }
 }
 1459.12.1 = {
-    set_global_flag = death_of_adolf_of_slesvig
+  set_global_flag = death_of_adolf_of_slesvig
 }
 1544.1.1 = {
-    monarch = {
-        name = "阿道夫 IX"  # Adolf IX
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1526.1.25
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "阿道夫 IX"  # Adolf IX
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1526.1.25
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1568.4.21 = {
-    heir = {
-        name = "腓特烈"  # Friedrich
-        monarch_name = "腓特烈 II"  # Friedrich II
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorop
-        birth_date = 1568.4.21
-        death_date = 1587.6.15
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "腓特烈"  # Friedrich
+    monarch_name = "腓特烈 II"  # Friedrich II
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorop
+    birth_date = 1568.4.21
+    death_date = 1587.6.15
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1586.10.2 = {
-    monarch = {
-        name = "腓特烈 II"  # Friedrich II
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1568.4.21
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "腓特烈 II"  # Friedrich II
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1568.4.21
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1586.10.2 = {
-    heir = {
-        name = "腓力"  # Philipp
-        monarch_name = "腓力"  # Philipp
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1570.8.10
-        death_date = 1590.10.18
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "腓力"  # Philipp
+    monarch_name = "腓力"  # Philipp
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1570.8.10
+    death_date = 1590.10.18
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1587.6.16 = {
-    monarch = {
-        name = "腓力"  # Philipp
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1570.8.10
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "腓力"  # Philipp
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1570.8.10
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1587.6.16 = {
-    heir = {
-        name = "约翰 阿道夫"  # Johann Adolf
-        monarch_name = "约翰 阿道夫"  # Johann Adolf
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1575.2.27
-        death_date = 1616.3.31
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "约翰 阿道夫"  # Johann Adolf
+    monarch_name = "约翰 阿道夫"  # Johann Adolf
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1575.2.27
+    death_date = 1616.3.31
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1590.10.19 = {
-    monarch = {
-        name = "约翰 阿道夫"  # Johann Adolf
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1575.2.27
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "约翰 阿道夫"  # Johann Adolf
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1575.2.27
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1597.12.22 = {
-    heir = {
-        name = "腓特烈"  # Friedrich
-        monarch_name = "腓特烈 III"  # Friedrich III
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1597.12.22
-        death_date = 1659.8.10
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "腓特烈"  # Friedrich
+    monarch_name = "腓特烈 III"  # Friedrich III
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1597.12.22
+    death_date = 1659.8.10
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1616.3.30 = {
-    monarch = {
-        name = "腓特烈 III"  # Friedrich III
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1597.12.22
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "腓特烈 III"  # Friedrich III
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1597.12.22
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1625.5.9 = {
-    join_league = protestant
+  join_league = protestant
 }
 1629.5.22 = {
-    leave_league = protestant
+  leave_league = protestant
 }
 1641.2.3 = {
-    heir = {
-        name = "克里斯蒂安 阿尔布雷希特"  # Christian Albrecht
-        monarch_name = "克里斯蒂安 阿尔布雷希特"  # Christian Albrecht
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1641.2.3
-        death_date = 1695.1.6
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "克里斯蒂安 阿尔布雷希特"  # Christian Albrecht
+    monarch_name = "克里斯蒂安 阿尔布雷希特"  # Christian Albrecht
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1641.2.3
+    death_date = 1695.1.6
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1659.8.11 = {
-    monarch = {
-        name = "克里斯蒂安 阿尔布雷希特"  # Christian Albrecht
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1641.2.3
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "克里斯蒂安 阿尔布雷希特"  # Christian Albrecht
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1641.2.3
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1671.10.18 = {
-    heir = {
-        name = "腓特烈"  # Friedrich
-        monarch_name = "腓特烈 IV"  # Friedrich IV
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorop
-        birth_date = 1671.10.18
-        death_date = 1702.7.20
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "腓特烈"  # Friedrich
+    monarch_name = "腓特烈 IV"  # Friedrich IV
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorop
+    birth_date = 1671.10.18
+    death_date = 1702.7.20
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1695.1.7 = {
-    monarch = {
-        name = "腓特烈 IV"  # Friedrich IV
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1671.10.18
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "腓特烈 IV"  # Friedrich IV
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1671.10.18
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1700.4.30 = {
-    heir = {
-        name = "卡尔 弗里德里希"  # Karl Friedrich
-        monarch_name = "卡尔 弗里德里希"  # Karl Friedrich
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1700.4.30
-        death_date = 1739.6.18
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "卡尔 弗里德里希"  # Karl Friedrich
+    monarch_name = "卡尔 弗里德里希"  # Karl Friedrich
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1700.4.30
+    death_date = 1739.6.18
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1702.7.20 = {
-    monarch = {
-        name = "卡尔 弗里德里希"  # Karl Friedrich
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1700.4.30
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "卡尔 弗里德里希"  # Karl Friedrich
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1700.4.30
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1728.2.21 = {
-    heir = {
-        name = "卡尔 彼得 乌尔里希"  # Karl Peter Ulrich
-        monarch_name = "卡尔 彼得 乌尔里希"  # Karl Peter Ulrich
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1728.2.21
-        death_date = 1762.7.17
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "卡尔 彼得 乌尔里希"  # Karl Peter Ulrich
+    monarch_name = "卡尔 彼得 乌尔里希"  # Karl Peter Ulrich
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1728.2.21
+    death_date = 1762.7.17
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1739.6.19 = {
-    monarch = {
-        name = "卡尔 彼得 乌尔里希"  # Karl Peter Ulrich
-        dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
-        birth_date = 1728.2.21
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "卡尔 彼得 乌尔里希"  # Karl Peter Ulrich
+    dynasty = "冯 荷尔斯泰因 戈托普"  # von Holstein-Gottorp
+    birth_date = 1728.2.21
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }

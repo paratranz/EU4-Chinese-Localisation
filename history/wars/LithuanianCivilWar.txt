@@ -1,18 +1,18 @@
 ﻿name = "立陶宛内战"  # Lithuanian Civil War
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = LIT
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = LIT
 }
 1432.1.1 = {
-    add_attacker = TEU
-    add_attacker = LIV
-    add_defender = LIT
-    add_defender = POL
+  add_attacker = TEU
+  add_attacker = LIV
+  add_defender = LIT
+  add_defender = POL
 }
 1444.11.10 = {
-    rem_attaacker = TEU
-    rem_attaacker = LIV
-    rem_defender = LIT
-    rem_defender = POL
+  rem_attaacker = TEU
+  rem_attaacker = LIV
+  rem_defender = LIT
+  rem_defender = POL
 }

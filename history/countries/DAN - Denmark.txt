@@ -6,1047 +6,1047 @@ technology_group = western
 historical_friend = NOR
 capital = 12
 1397.6.17 = {
-    monarch = {
-        name = "埃里克 VII"  # Eric VII
-        dynasty = "格雷夫"  # Gryf
-        birth_date = 1381.1.1
-        adm = 1
-        dip = 2
-        mil = 3
-    }
+  monarch = {
+    name = "埃里克 VII"  # Eric VII
+    dynasty = "格雷夫"  # Gryf
+    birth_date = 1381.1.1
+    adm = 1
+    dip = 2
+    mil = 3
+  }
 }
 1440.4.9 = {
-    monarch = {
-        name = "克里斯托弗 III"  # Christopher III
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1416.2.26
-        culture = bavarian
-        adm = 3
-        dip = 2
-        mil = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = infertile_personality
+  monarch = {
+    name = "克里斯托弗 III"  # Christopher III
+    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
+    birth_date = 1416.2.26
+    culture = bavarian
+    adm = 3
+    dip = 2
+    mil = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = infertile_personality
 }
 1445.9.26 = {
-    queen = {
-        country_of_origin = BRA
-        name = "多萝西娅"  # Dorothea
-        dynasty = "冯 霍亨索伦"  # von Hohenzollern
-        birth_date = 1430.1.1
-        death_date = 1471.4.11
-        female = yes
-        adm = 5
-        dip = 5
-        mil = 2
-    }
+  queen = {
+    country_of_origin = BRA
+    name = "多萝西娅"  # Dorothea
+    dynasty = "冯 霍亨索伦"  # von Hohenzollern
+    birth_date = 1430.1.1
+    death_date = 1471.4.11
+    female = yes
+    adm = 5
+    dip = 5
+    mil = 2
+  }
 }
 1448.9.1 = {
-    monarch = {
-        name = "克里斯蒂安 I"  # Christian I
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1426.2.1
-        adm = 4
-        dip = 3
-        mil = 2
-    }
-    set_country_flag = christian_elected
+  monarch = {
+    name = "克里斯蒂安 I"  # Christian I
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1426.2.1
+    adm = 4
+    dip = 3
+    mil = 2
+  }
+  set_country_flag = christian_elected
 }
 1445.9.26 = {
-    queen = {
-        country_of_origin = BRA
-        name = "多萝西娅"  # Dorothea
-        dynasty = "冯 霍亨索伦"  # von Hohenzollern
-        birth_date = 1430.1.1
-        death_date = 1471.4.11
-        female = yes
-        adm = 5
-        dip = 4
-        mil = 2
-    }
+  queen = {
+    country_of_origin = BRA
+    name = "多萝西娅"  # Dorothea
+    dynasty = "冯 霍亨索伦"  # von Hohenzollern
+    birth_date = 1430.1.1
+    death_date = 1471.4.11
+    female = yes
+    adm = 5
+    dip = 4
+    mil = 2
+  }
 }
 1455.2.2 = {
-    heir = {
-        name = "汉斯"  # Hans
-        monarch_name = "汉斯 I"  # Hans I
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        claim = 95
-        birth_date = 1455.2.2
-        death_date = 1513.2.20
-        adm = 1
-        dip = 3
-        mil = 4
-        leader = {
-            name = "汉斯"  # Hans
-            type = general
-            fire = 2
-            shock = 2
-            manuever = 2
-            siege = 0
-        }
+  heir = {
+    name = "汉斯"  # Hans
+    monarch_name = "汉斯 I"  # Hans I
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    claim = 95
+    birth_date = 1455.2.2
+    death_date = 1513.2.20
+    adm = 1
+    dip = 3
+    mil = 4
+    leader = {
+      name = "汉斯"  # Hans
+      type = general
+      fire = 2
+      shock = 2
+      manuever = 2
+      siege = 0
     }
+  }
 }
 1481.5.23 = {
-    monarch = {
-        name = "汉斯 I"  # Hans I
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1455.2.2
-        adm = 1
-        dip = 3
-        mil = 4
-        leader = {
-            name = "汉斯"  # Hans
-            type = general
-            fire = 2
-            shock = 2
-            manuever = 2
-            siege = 0
-        }
+  monarch = {
+    name = "汉斯 I"  # Hans I
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1455.2.2
+    adm = 1
+    dip = 3
+    mil = 4
+    leader = {
+      name = "汉斯"  # Hans
+      "Hans"type = "
+      generalfire = "
+      2shock = "
+      2manuever = "
+      2siege = 0
     }
-    queen = {
-        country_of_origin = SAX
-        name = "克里斯蒂娜"  # Christina
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1461.12.25
-        death_date = 1521.12.8
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  }
+  queen = {
+    country_of_origin = SAX
+    name = "克里斯蒂娜"  # Christina
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1461.12.25
+    death_date = 1521.12.8
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1481.7.1 = {
-    heir = {
-        name = "克里斯蒂安"  # Christian
-        monarch_name = "克里斯蒂安 II"  # Christian II
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1481.7.1
-        death_date = 1559.1.25
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 0
-        leader = {
-            name = "克里斯蒂安"  # Christian II
-            type = general
-            fire = 2
-            shock = 3
-            manuever = 2
-            siege = 1
-        }
+  heir = {
+    name = "克里斯蒂安"  # Christian
+    monarch_name = "克里斯蒂安 II"  # Christian II
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1481.7.1
+    death_date = 1559.1.25
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 0
+    leader = {
+      name = "克里斯蒂安"  # Christian II
+      II"type = "
+      generalfire = "
+      2shock = "
+      3manuever = "
+      2siege = 1
     }
+  }
 }
 1488.1.1 = {
-    leader = {
-        name = "容克 史兰茨"  # Junker Schlentz
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1500.1.1
-    }
+  leader = {
+    name = "容克 史兰茨"  # Junker Schlentz
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1500.1.1
+  }
 }
 1504.1.1 = {
+  leader = {
+    name = "索伦 诺比"  # Søren Norby
+    type = "
+    admiralfire = "
+    2shock = "
+    5manuever = "
+    3siege = "
+    0death_date = 1530.1.1
+  }
+}
+1513.2.20 = {
+  monarch = {
+    name = "克里斯蒂安 II"  # Christian II
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1481.7.1
+    adm = 1
+    dip = 1
+    mil = 0
     leader = {
-        name = "索伦 诺比"  # Søren Norby
-        type = admiral
-        fire = 2
-        shock = 5
-        manuever = 3
-        siege = 0
-        death_date = 1530.1.1
+      name = "克里斯蒂安"  # Christian II
+      II"type = "
+      generalfire = "
+      2shock = "
+      3manuever = "
+      2siege = 1
     }
+  }
 }
 1513.2.20 = {
-    monarch = {
-        name = "克里斯蒂安 II"  # Christian II
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1481.7.1
-        adm = 1
-        dip = 1
-        mil = 0
-        leader = {
-            name = "克里斯蒂安"  # Christian II
-            type = general
-            fire = 2
-            shock = 3
-            manuever = 2
-            siege = 1
-        }
-    }
-}
-1513.2.20 = {
-    heir = {
-        name = "弗雷德里克"  # Frederik
-        monarch_name = "弗雷德里克 I"  # Frederik I
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1471.10.7
-        death_date = 1533.4.10
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 4
-    }
+  heir = {
+    name = "弗雷德里克"  # Frederik
+    monarch_name = "弗雷德里克 I"  # Frederik I
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1471.10.7
+    death_date = 1533.4.10
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 4
+  }
 }
 1515.8.12 = {
-    queen = {
-        country_of_origin = HAB
-        name = "伊丽莎白"  # Elisabeth
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1501.7.18
-        death_date = 1526.1.19
-        female = yes
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "伊丽莎白"  # Elisabeth
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1501.7.18
+    death_date = 1526.1.19
+    female = yes
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1519.1.1 = {
-    leader = {
-        name = "奥托 克伦彭"  # Otto Krumpen
-        type = general
-        fire = 4
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1569.1.1
-    }
+  leader = {
+    name = "奥托 克伦彭"  # Otto Krumpen
+    type = "
+    generalfire = "
+    4shock = "
+    4manuever = "
+    4siege = "
+    0death_date = 1569.1.1
+  }
 }
 1523.1.1 = {
-    leader = {
-        name = "约翰 兰曹"  # Johan Rantzau
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1565.12.12
-    }
+  leader = {
+    name = "约翰 兰曹"  # Johan Rantzau
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = 0
+    death_date = 1565.12.12
+  }
 }
 1523.4.14 = {
-    monarch = {
-        name = "弗雷德里克 I"  # Frederik I
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1471.10.7
-        adm = 3
-        dip = 3
-        mil = 4
-    }
-    queen = {
-        country_of_origin = POM
-        name = "索菲"  # Sophie
-        dynasty = "格雷夫"  # Gryf
-        birth_date = 1498.1.1
-        death_date = 1568.5.13
-        female = yes
-        adm = 3
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "弗雷德里克 I"  # Frederik I
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1471.10.7
+    adm = 3
+    dip = 3
+    mil = 4
+  }
+  queen = {
+    country_of_origin = POM
+    name = "索菲"  # Sophie
+    dynasty = "格雷夫"  # Gryf
+    birth_date = 1498.1.1
+    death_date = 1568.5.13
+    female = yes
+    adm = 3
+    dip = 2
+    mil = 1
+  }
 }
 1523.4.14 = {
-    heir = {
-        name = "克里斯蒂安"  # Christian
-        monarch_name = "克里斯蒂安 III"  # Christian III
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1503.8.12
-        death_date = 1559.1.1
-        claim = 95
-        adm = 4
-        dip = 4
-        mil = 3
-    }
+  heir = {
+    name = "克里斯蒂安"  # Christian
+    monarch_name = "克里斯蒂安 III"  # Christian III
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1503.8.12
+    death_date = 1559.1.1
+    claim = 95
+    adm = 4
+    dip = 4
+    mil = 3
+  }
 }
 1526.1.1 = {
-    leader = {
-        name = "文森斯 隆格"  # Vincens Lunge
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1536.1.3
-    }
+  leader = {
+    name = "文森斯 隆格"  # Vincens Lunge
+    type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    2siege = "
+    0death_date = 1536.1.3
+  }
 }
 1533.4.12 = {
-    monarch = {
-        name = "克里斯蒂安 III"  # Christian III
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1503.8.12
-        adm = 4
-        dip = 4
-        mil = 3
-    }
-    queen = {
-        country_of_origin = LAU
-        name = "多萝西娅"  # Dorothea
-        dynasty = "阿斯卡尼尔"  # Askanier
-        birth_date = 1511.7.9
-        death_date = 1571.10.7
-        female = yes
-        adm = 4
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "克里斯蒂安 III"  # Christian III
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1503.8.12
+    adm = 4
+    dip = 4
+    mil = 3
+  }
+  queen = {
+    country_of_origin = LAU
+    name = "多萝西娅"  # Dorothea
+    dynasty = "阿斯卡尼尔"  # Askanier
+    birth_date = 1511.7.9
+    death_date = 1571.10.7
+    female = yes
+    adm = 4
+    dip = 3
+    mil = 1
+  }
 }
 1534.7.1 = {
-    heir = {
-        name = "弗雷德里克"  # Frederik
-        monarch_name = "弗雷德里克 II"  # Frederik II
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1534.7.1
-        death_date = 1588.4.4
-        claim = 95
-        adm = 4
-        dip = 3
-        mil = 3
-    }
+  heir = {
+    name = "弗雷德里克"  # Frederik
+    monarch_name = "弗雷德里克 II"  # Frederik II
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1534.7.1
+    death_date = 1588.4.4
+    claim = 95
+    adm = 4
+    dip = 3
+    mil = 3
+  }
 }
 1535.1.1 = {
-    leader = {
-        name = "彼泽 斯克拉姆"  # Peder Skram
-        type = admiral
-        fire = 3
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1581.7.11
-    }
+  leader = {
+    name = "彼泽 斯克拉姆"  # Peder Skram
+    type = "
+    admiralfire = "
+    3shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1581.7.11
+  }
 }
 1536.1.1 = {
-    religion = protestant
-    add_accepted_culture = norwegian
+  religion = protestant
+  add_accepted_culture = norwegian
 }
 1540.1.1 = {
-    leader = {
-        name = "海鲁夫 特罗勒"  # Herluf Trolle
-        type = admiral
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1565.6.25
-    }
+  leader = {
+    name = "海鲁夫 特罗勒"  # Herluf Trolle
+    type = "
+    admiralfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1565.6.25
+  }
 }
 1559.1.3 = {
-    monarch = {
-        name = "弗雷德里克 II"  # Frederik II
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1534.7.1
-        adm = 4
-        dip = 3
-        mil = 3
-    }
+  monarch = {
+    name = "弗雷德里克 II"  # Frederik II
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1534.7.1
+    adm = 4
+    dip = 3
+    mil = 3
+  }
 }
 1562.1.1 = {
-    leader = {
-        name = "丹尼尔 兰曹"  # Daniel Rantzau
-        type = general
-        fire = 4
-        shock = 5
-        manuever = 3
-        siege = 1
-        death_date = 1569.11.11
-    }
+  leader = {
+    name = "丹尼尔 兰曹"  # Daniel Rantzau
+    type = "
+    generalfire = "
+    4shock = "
+    5manuever = "
+    3siege = "
+    1death_date = 1569.11.11
+  }
 }
 1572.7.20 = {
-    queen = {
-        country_of_origin = MKL
-        name = "索菲"  # Sophie
-        dynasty = "冯 梅克伦堡"  # von Mecklenburg
-        birth_date = 1557.9.4
-        death_date = 1631.10.14
-        female = yes
-        adm = 5
-        dip = 3
-        mil = 1
-    }
+  queen = {
+    country_of_origin = MKL
+    name = "索菲"  # Sophie
+    dynasty = "冯 梅克伦堡"  # von Mecklenburg
+    birth_date = 1557.9.4
+    death_date = 1631.10.14
+    female = yes
+    adm = 5
+    dip = 3
+    mil = 1
+  }
 }
 1577.4.12 = {
-    heir = {
-        name = "克里斯蒂安"  # Christian
-        monarch_name = "克里斯蒂安 IV"  # Christian IV
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1577.4.12
-        death_date = 1648.2.28
-        claim = 95
-        adm = 1
-        dip = 4
-        mil = 0
-        leader = {
-            name = "克里斯蒂安 IV"  # Christian IV
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 2
-            siege = 1
-        }
+  heir = {
+    name = "克里斯蒂安"  # Christian
+    monarch_name = "克里斯蒂安 IV"  # Christian IV
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1577.4.12
+    death_date = 1648.2.28
+    claim = 95
+    adm = 1
+    dip = 4
+    mil = 0
+    leader = {
+      name = "克里斯蒂安 IV"  # Christian IV
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 2
+      siege = 1
     }
+  }
 }
 1588.4.6 = {
-    monarch = {
-        name = "克里斯蒂安 IV"  # Christian IV
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1577.4.12
-        adm = 1
-        dip = 4
-        mil = 0
-        leader = {
-            name = "克里斯蒂安"  # Christian IV
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 2
-            siege = 1
-        }
+  monarch = {
+    name = "克里斯蒂安 IV"  # Christian IV
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1577.4.12
+    adm = 1
+    dip = 4
+    mil = 0
+    leader = {
+      name = "克里斯蒂安"  # Christian IV
+      IV"type = "
+      generalfire = "
+      3shock = "
+      3manuever = "
+      2siege = 1
     }
+  }
 }
 1597.11.27 = {
-    queen = {
-        country_of_origin = BRA
-        name = "安娜 凯瑟琳"  # Anna Kathrine
-        dynasty = "冯 霍亨索伦"  # von Hohenzollern
-        birth_date = 1575.6.26
-        death_date = 1612.4.4
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  queen = {
+    country_of_origin = BRA
+    name = "安娜 凯瑟琳"  # Anna Kathrine
+    dynasty = "冯 霍亨索伦"  # von Hohenzollern
+    birth_date = 1575.6.26
+    death_date = 1612.4.4
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1609.3.18 = {
-    heir = {
-        name = "弗雷德里克"  # Frederik
-        monarch_name = "弗雷德里克 III"  # Frederik III
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1609.3.18
-        death_date = 1670.2.9
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 3
-    }
+  heir = {
+    name = "弗雷德里克"  # Frederik
+    monarch_name = "弗雷德里克 III"  # Frederik III
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1609.3.18
+    death_date = 1670.2.9
+    claim = 95
+    adm = 0
+    dip = 0
+    mil = 3
+  }
 }
 1610.1.1 = {
-    leader = {
-        name = "杨斯 蒙克"  # Jens Munk
-        type = explorer
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1628.1.1
-    }
+  leader = {
+    name = "杨斯 蒙克"  # Jens Munk
+    type = "
+    explorerfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1628.1.1
+  }
 }
 1610.1.1 = {
-    leader = {
-        name = "格特 兰曹"  # Gert Rantzau
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 2
-        siege = 0
-        death_date = 1627.1.1
-    }
+  leader = {
+    name = "格特 兰曹"  # Gert Rantzau
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    2siege = "
+    0death_date = 1627.1.1
+  }
 }
 1615.12.31 = {
-    queen = {
-        country_of_origin = DAN
-        name = "基尔斯滕"  # Kirsten
-        dynasty = "芒克"  # Munk
-        birth_date = 1598.7.6
-        death_date = 1658.4.19
-        female = yes
-        adm = 2
-        dip = 3
-        mil = 1
-    }
+  queen = {
+    country_of_origin = DAN
+    name = "基尔斯滕"  # Kirsten
+    dynasty = "芒克"  # Munk
+    birth_date = 1598.7.6
+    death_date = 1658.4.19
+    female = yes
+    adm = 2
+    dip = 3
+    mil = 1
+  }
 }
 1618.1.1 = {
-    leader = {
-        name = "欧维 杰德"  # Ove Gjedde
-        type = conquistador
-        fire = 2
-        shock = 2
-        manuever = 4
-        siege = 0
-        death_date = 1660.1.1
-    }
+  leader = {
+    name = "欧维 杰德"  # Ove Gjedde
+    type = "
+    conquistadorfire = "
+    2shock = "
+    2manuever = "
+    4siege = "
+    0death_date = 1660.1.1
+  }
 }
 1618.5.23 = {
-    join_league = protestant
+  join_league = protestant
 }
 1628.1.1 = {
-    leader = {
-        name = "彼泽 盖特"  # Peder Galt
-        type = admiral
-        fire = 2
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1644.1.1
-    }
+  leader = {
+    name = "彼泽 盖特"  # Peder Galt
+    type = "
+    admiralfire = "
+    2shock = "
+    2manuever = "
+    2siege = "
+    0death_date = 1644.1.1
+  }
 }
 1629.5.22 = {
-    leave_league = protestant
+  leave_league = protestant
 }
 1635.1.1 = {
-    leader = {
-        name = "安德斯 比勒"  # Anders Bille
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1657.11.10
-    }
+  leader = {
+    name = "安德斯 比勒"  # Anders Bille
+    type = "
+    generalfire = "
+    2shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1657.11.10
+  }
 }
 1635.1.1 = {
-    leader = {
-        name = "汉尼拔 塞赫斯泰德"  # Hannibal Sehested
-        type = general
-        fire = 3
-        shock = 5
-        manuever = 3
-        siege = 0
-        death_date = 1666.9.23
-    }
+  leader = {
+    name = "汉尼拔 塞赫斯泰德"  # Hannibal Sehested
+    type = "
+    generalfire = "
+    3shock = "
+    5manuever = "
+    3siege = "
+    0death_date = 1666.9.23
+  }
 }
 1637.1.1 = {
-    leader = {
-        name = "埃伯 乌费尔德"  # Ebbe Ulfeld
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1645.1.1
-    }
+  leader = {
+    name = "埃伯 乌费尔德"  # Ebbe Ulfeld
+    type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    2siege = "
+    0death_date = 1645.1.1
+  }
 }
 1648.1.1 = {
-    leader = {
-        name = "汉斯 沙克"  # Hans Schack
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1676.2.27
-    }
+  leader = {
+    name = "汉斯 沙克"  # Hans Schack
+    type = "
+    generalfire = "
+    3shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1676.2.27
+  }
 }
 1648.1.1 = {
-    leader = {
-        name = "Tønne Huitfeldt"  # Tønne Huitfeldt
-        type = general
-        fire = 2
-        shock = 1
-        manuever = 1
-        siege = 2
-        death_date = 1660.1.1
-    }
+  leader = {
+    name = "Tønne Huitfeldt"
+    type = "
+    generalfire = "
+    2shock = "
+    1manuever = "
+    1siege = 2
+    death_date = 1660.1.1
+  }
 }
 1648.3.2 = {
-    monarch = {
-        name = "弗雷德里克 III"  # Frederik III
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1609.3.18
-        adm = 0
-        dip = 0
-        mil = 3
-    }
-    queen = {
-        country_of_origin = LUN
-        name = "索菲·阿玛莉"  # Sophie Amalie
-        dynasty = "冯 韦尔夫"  # von Welf
-        birth_date = 1628.3.24
-        death_date = 1685.2.20
-        female = yes
-        adm = 4
-        dip = 4
-        mil = 2
-    }
+  monarch = {
+    name = "弗雷德里克 III"  # Frederik III
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1609.3.18
+    adm = 0
+    dip = 0
+    mil = 3
+  }
+  queen = {
+    country_of_origin = LUN
+    name = "索菲·阿玛莉"  # Sophie Amalie
+    dynasty = "冯 韦尔夫"  # von Welf
+    birth_date = 1628.3.24
+    death_date = 1685.2.20
+    female = yes
+    adm = 4
+    dip = 4
+    mil = 2
+  }
 }
 1648.3.2 = {
-    heir = {
-        name = "克里斯蒂安"  # Christian
-        monarch_name = "克里斯蒂安 V"  # Christian V
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1646.4.15
-        death_date = 1699.8.25
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 3
-        leader = {
-            name = "克里斯蒂安 V"  # Christian V
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 3
-            siege = 0
-        }
+  heir = {
+    name = "克里斯蒂安"  # Christian
+    monarch_name = "克里斯蒂安 V"  # Christian V
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1646.4.15
+    death_date = 1699.8.25
+    claim = 95
+    adm = 1
+    dip = 3
+    mil = 3
+    leader = {
+      name = "克里斯蒂安 V"  # Christian V
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 0
     }
+  }
 }
 1650.1.1 = {
-    leader = {
-        name = "伊瓦尔 克拉贝"  # Ivar Krabbe
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1666.10.30
-    }
+  leader = {
+    name = "伊瓦尔 克拉贝"  # Ivar Krabbe
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1666.10.30
+  }
 }
 1650.1.1 = {
-    leader = {
-        name = "埃伯施泰因"  # Eberstein
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1681.8.28
-    }
+  leader = {
+    name = "埃伯施泰因"  # Eberstein
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1681.8.28
+  }
 }
 1651.1.1 = {
-    leader = {
-        name = "约恩 比耶尔克"  # Jørgen Bjelke
-        type = general
-        fire = 1
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1697.1.1
-    }
+  leader = {
+    name = "约恩 比耶尔克"  # Jørgen Bjelke
+    type = "
+    generalfire = "
+    1shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1697.1.1
+  }
 }
 1657.1.1 = {
-    leader = {
-        name = "尼尔斯 尤尔"  # Niels Juel
-        type = admiral
-        fire = 4
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1697.4.8
-    }
+  leader = {
+    name = "尼尔斯 尤尔"  # Niels Juel
+    type = "
+    admiralfire = "
+    4shock = "
+    4manuever = "
+    4siege = "
+    0death_date = 1697.4.8
+  }
 }
 1662.1.1 = {
-    leader = {
-        name = "科特 阿德拉"  # Cort Adelaer
-        type = admiral
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1675.1.1
-    }
+  leader = {
+    name = "科特 阿德拉"  # Cort Adelaer
+    type = "
+    admiralfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1675.1.1
+  }
 }
 1664.1.1 = {
+  leader = {
+    name = "荷尔斯泰因-普伦"  # Holstein-Plön
+    type = "
+    generalfire = "
+    4shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1676.1.1
+  }
+}
+1670.2.10 = {
+  monarch = {
+    name = "克里斯蒂安 V"  # Christian V
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1646.4.15
+    adm = 1
+    dip = 3
+    mil = 2
     leader = {
-        name = "荷尔斯泰因-普伦"  # Holstein-Plön
-        type = general
-        fire = 4
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1676.1.1
+      name = "克里斯蒂安 V"  # Christian V
+      V"type = "
+      generalfire = "
+      3shock = "
+      3manuever = "
+      3siege = 0
     }
+  }
+  queen = {
+    country_of_origin = HES
+    name = "索菲·阿玛莉"  # Sophie Amalie
+    dynasty = "冯 黑森"  # von Hessen
+    birth_date = 1650.4.27
+    death_date = 1714.3.27
+    female = yes
+    adm = 3
+    dip = 1
+    mil = 3
+  }
 }
 1670.2.10 = {
-    monarch = {
-        name = "克里斯蒂安 V"  # Christian V
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1646.4.15
-        adm = 1
-        dip = 3
-        mil = 2
-        leader = {
-            name = "克里斯蒂安 V"  # Christian V
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 3
-            siege = 0
-        }
-    }
-    queen = {
-        country_of_origin = HES
-        name = "索菲·阿玛莉"  # Sophie Amalie
-        dynasty = "冯 黑森"  # von Hessen
-        birth_date = 1650.4.27
-        death_date = 1714.3.27
-        female = yes
-        adm = 3
-        dip = 1
-        mil = 3
-    }
-}
-1670.2.10 = {
-    government = monarchy
-    add_government_reform = autocracy_reform
+  government = monarchy
+  add_government_reform = autocracy_reform
 }
 1671.10.11 = {
-    heir = {
-        name = "弗雷德里克"  # Frederik
-        monarch_name = "弗雷德里克 IV"  # Frederik IV
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1671.10.11
-        death_date = 1730.10.12
-        claim = 95
-        adm = 6
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "弗雷德里克"  # Frederik
+    monarch_name = "弗雷德里克 IV"  # Frederik IV
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1671.10.11
+    death_date = 1730.10.12
+    claim = 95
+    adm = 6
+    dip = 2
+    mil = 2
+  }
 }
 1673.1.1 = {
-    leader = {
-        name = "Ulrich Gyldenlöwe"  # Ulrich Gyldenlöwe
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1676.1.1
-    }
+  leader = {
+    name = "Ulrich Gyldenlöwe"
+    type = "
+    generalfire = "
+    3shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1676.1.1
+  }
 }
 1690.1.1 = {
-    leader = {
-        name = "安德烈亚斯 哈尔博"  # Andreas Harboe
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1706.1.1
-    }
+  leader = {
+    name = "安德烈亚斯 哈尔博"  # Andreas Harboe
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1706.1.1
+  }
 }
 1693.1.1 = {
-    leader = {
-        name = "弗雷德里克 格斯多夫"  # Frederik Gersdorff
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1724.1.1
-    }
+  leader = {
+    name = "弗雷德里克 格斯多夫"  # Frederik Gersdorff
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    3siege = 0
+    death_date = 1724.1.1
+  }
 }
 1693.1.1 = {
-    leader = {
-        name = "弗里德里希 冯 特兰伯"  # Friedrich von Trampe
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1704.1.1
-    }
+  leader = {
+    name = "弗里德里希 冯 特兰伯"  # Friedrich von Trampe
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1704.1.1
+  }
 }
 1696.1.1 = {
-    leader = {
-        name = "Christian Gyldenlöwe"  # Christian Gyldenlöwe
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1717.1.1
-    }
+  leader = {
+    name = "Christian Gyldenlöwe"
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1717.1.1
+  }
 }
 1699.8.27 = {
-    monarch = {
-        name = "弗雷德里克 IV"  # Frederik IV
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1671.10.11
-        adm = 3
-        dip = 2
-        mil = 2
-    }
-    queen = {
-        country_of_origin = MKL
-        name = "路易斯"  # Louise
-        dynasty = "冯 梅克伦堡"  # von Mecklenburg
-        birth_date = 1667.8.28
-        death_date = 1721.3.15
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "弗雷德里克 IV"  # Frederik IV
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1671.10.11
+    adm = 3
+    dip = 2
+    mil = 2
+  }
+  queen = {
+    country_of_origin = MKL
+    name = "路易斯"  # Louise
+    dynasty = "冯 梅克伦堡"  # von Mecklenburg
+    birth_date = 1667.8.28
+    death_date = 1721.3.15
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1699.11.30 = {
-    heir = {
-        name = "克里斯蒂安"  # Christian
-        monarch_name = "克里斯蒂安 VI"  # Christian VI
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1699.11.30
-        death_date = 1746.8.6
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "克里斯蒂安"  # Christian
+    monarch_name = "克里斯蒂安 VI"  # Christian VI
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1699.11.30
+    death_date = 1746.8.6
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 1
+  }
 }
 1700.1.1 = {
-    leader = {
-        name = "克里斯蒂安 塞赫斯泰德"  # Christian Sehested
-        type = admiral
-        fire = 4
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1740.1.1
-    }
+  leader = {
+    name = "克里斯蒂安 塞赫斯泰德"  # Christian Sehested
+    type = "
+    admiralfire = "
+    4shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1740.1.1
+  }
 }
 1700.1.1 = {
-    leader = {
-        name = "克里斯蒂安 雷文特洛"  # Christian Reventlow
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1713.1.1
-    }
+  leader = {
+    name = "克里斯蒂安 雷文特洛"  # Christian Reventlow
+    type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1713.1.1
+  }
 }
 1710.1.1 = {
-    leader = {
-        name = "呂佐"  # Lützow
-        type = general
-        fire = 4
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1720.1.1
-    }
+  leader = {
+    name = "呂佐"  # Lützow
+    type = "
+    generalfire = "
+    4shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1720.1.1
+  }
 }
 1711.1.1 = {
-    leader = {
-        name = "彼得 托登舍尔德"  # Peter Tordenskiold
-        type = admiral
-        fire = 2
-        shock = 6
-        manuever = 5
-        siege = 0
-        death_date = 1720.1.1
-    }
+  leader = {
+    name = "彼得 托登舍尔德"  # Peter Tordenskiold
+    type = "
+    admiralfire = "
+    2shock = "
+    6manuever = "
+    5siege = "
+    0death_date = 1720.1.1
+  }
 }
 1711.1.1 = {
-    leader = {
-        name = "保尔 拉文诺恩"  # Poul Løvenørn
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1730.1.1
-    }
+  leader = {
+    name = "保尔 拉文诺恩"  # Poul Løvenørn
+    type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1730.1.1
+  }
 }
 1721.1.1 = {
-    leader = {
-        name = "Hans Egedes"  # Hans Egedes
-        type = explorer
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1758.1.1
-    }
+  leader = {
+    name = "Hans Egedes"
+    type = "
+    explorerfire = "
+    2shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1758.1.1
+  }
 }
 1721.4.4 = {
-    queen = {
-        country_of_origin = DAN
-        name = "安妮 索菲"  # Anne Sophie
-        dynasty = "莱文特洛"  # Reventlow
-        birth_date = 1693.4.16
-        death_date = 1743.1.7
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  queen = {
+    country_of_origin = DAN
+    name = "安妮 索菲"  # Anne Sophie
+    dynasty = "莱文特洛"  # Reventlow
+    birth_date = 1693.4.16
+    death_date = 1743.1.7
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1730.10.14 = {
-    monarch = {
-        name = "克里斯蒂安 VI"  # Christian VI
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1699.11.30
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-    queen = {
-        country_of_origin = BRA
-        name = "Sophie Magdalene"  # Sophie Magdalene
-        dynasty = "冯 霍亨索伦"  # von Hohenzollern
-        birth_date = 1700.11.28
-        death_date = 1770.5.27
-        female = yes
-        adm = 2
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "克里斯蒂安 VI"  # Christian VI
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1699.11.30
+    adm = 3
+    dip = 3
+    mil = 1
+  }
+  queen = {
+    country_of_origin = BRA
+    name = "Sophie Magdalene"
+    dynasty = "冯 霍亨索伦"  # von Hohenzollern
+    birth_date = 1700.11.28
+    death_date = 1770.5.27
+    female = yes
+    adm = 2
+    dip = 1
+    mil = 1
+  }
 }
 1730.10.14 = {
-    heir = {
-        name = "弗雷德里克"  # Frederik
-        monarch_name = "弗雷德里克 V"  # Frederik V
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1723.3.31
-        death_date = 1766.1.14
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 3
-    }
+  heir = {
+    name = "弗雷德里克"  # Frederik
+    monarch_name = "弗雷德里克 V"  # Frederik V
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1723.3.31
+    death_date = 1766.1.14
+    claim = 95
+    adm = 1
+    dip = 3
+    mil = 3
+  }
 }
 1745.1.1 = {
-    leader = {
-        name = "汉斯 克努茨贡"  # Hans Knudtzon
-        type = admiral
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1780.1.1
-    }
+  leader = {
+    name = "汉斯 克努茨贡"  # Hans Knudtzon
+    type = "
+    admiralfire = "
+    2shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1780.1.1
+  }
 }
 1746.8.8 = {
-    monarch = {
-        name = "弗雷德里克 V"  # Frederik V
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1723.3.31
-        adm = 1
-        dip = 3
-        mil = 3
-    }
-    queen = {
-        country_of_origin = GBR
-        name = "路易斯"  # Louise
-        dynasty = "冯 汉诺威"  # von Hannover
-        birth_date = 1724.12.18
-        death_date = 1751.12.19
-        female = yes
-        adm = 2
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "弗雷德里克 V"  # Frederik V
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1723.3.31
+    adm = 1
+    dip = 3
+    mil = 3
+  }
+  queen = {
+    country_of_origin = GBR
+    name = "路易斯"  # Louise
+    dynasty = "冯 汉诺威"  # von Hannover
+    birth_date = 1724.12.18
+    death_date = 1751.12.19
+    female = yes
+    adm = 2
+    dip = 3
+    mil = 1
+  }
 }
 1749.1.29 = {
-    heir = {
-        name = "克里斯蒂安"  # Christian
-        monarch_name = "克里斯蒂安 VII"  # Christian VII
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1749.1.29
-        death_date = 1808.3.13
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  heir = {
+    name = "克里斯蒂安"  # Christian
+    monarch_name = "克里斯蒂安 VII"  # Christian VII
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1749.1.29
+    death_date = 1808.3.13
+    claim = 95
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1752.7.8 = {
-    queen = {
-        country_of_origin = BRU
-        name = "朱莉安娜 玛丽亚"  # Juliana Maria
-        dynasty = "冯 韦尔夫"  # von Welf
-        birth_date = 1729.9.4
-        death_date = 1796.10.10
-        female = yes
-        adm = 4
-        dip = 4
-        mil = 2
-    }
+  queen = {
+    country_of_origin = BRU
+    name = "朱莉安娜 玛丽亚"  # Juliana Maria
+    dynasty = "冯 韦尔夫"  # von Welf
+    birth_date = 1729.9.4
+    death_date = 1796.10.10
+    female = yes
+    adm = 4
+    dip = 4
+    mil = 2
+  }
 }
 1760.1.1 = {
-    leader = {
-        name = "F.C. Kaas"  # F.C. Kaas
-        type = admiral
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1775.1.1
-    }
+  leader = {
+    name = "F.C. Kaas"
+    type = "
+    admiralfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1775.1.1
+  }
 }
 1766.1.16 = {
-    monarch = {
-        name = "克里斯蒂安 VII"  # Christian VII
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1749.1.29
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-    queen = {
-        country_of_origin = GBR
-        name = "卡罗琳 玛蒂尔德"  # Caroline Mathilde
-        dynasty = "冯 汉诺威"  # von Hannover
-        birth_date = 1751.7.22
-        death_date = 1775.5.10
-        female = yes
-        adm = 4
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "克里斯蒂安 VII"  # Christian VII
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1749.1.29
+    adm = 0
+    dip = 0
+    mil = 0
+  }
+  queen = {
+    country_of_origin = GBR
+    name = "卡罗琳 玛蒂尔德"  # Caroline Mathilde
+    dynasty = "冯 汉诺威"  # von Hannover
+    birth_date = 1751.7.22
+    death_date = 1775.5.10
+    female = yes
+    adm = 4
+    dip = 3
+    mil = 2
+  }
 }
 1768.1.28 = {
-    heir = {
-        name = "弗雷德里克"  # Frederik
-        monarch_name = "弗雷德里克 VI"  # Frederik VI
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1768.1.28
-        death_date = 1839.12.3
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  heir = {
+    name = "弗雷德里克"  # Frederik
+    monarch_name = "弗雷德里克 VI"  # Frederik VI
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1768.1.28
+    death_date = 1839.12.3
+    claim = 95
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1780.1.1 = {
-    leader = {
-        name = "斯蒂恩 比勒"  # Steen Bille
-        type = admiral
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1792.1.1
-    }
+  leader = {
+    name = "斯蒂恩 比勒"  # Steen Bille
+    type = "
+    admiralfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1792.1.1
+  }
 }
 1808.3.15 = {
-    monarch = {
-        name = "弗雷德里克 VI"  # Frederik VI
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1768.1.28
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-    queen = {
-        country_of_origin = HES
-        name = "玛丽 苏菲 弗雷德里克"  # Marie Sophie Frederikke
-        dynasty = "冯 黑森"  # von Hessen
-        birth_date = 1767.10.28
-        death_date = 1852.3.24
-        female = yes
-        adm = 4
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "弗雷德里克 VI"  # Frederik VI
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1768.1.28
+    adm = 0
+    dip = 0
+    mil = 0
+  }
+  queen = {
+    country_of_origin = HES
+    name = "玛丽 苏菲 弗雷德里克"  # Marie Sophie Frederikke
+    dynasty = "冯 黑森"  # von Hessen
+    birth_date = 1767.10.28
+    death_date = 1852.3.24
+    female = yes
+    adm = 4
+    dip = 2
+    mil = 2
+  }
 }
 1808.9.18 = {
-    heir = {
-        name = "克里斯蒂安"  # Christian
-        monarch_name = "克里斯蒂安 VIII"  # Christian VIII
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1786.9.18
-        death_date = 1848.1.20
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 1
-    }
+  heir = {
+    name = "克里斯蒂安"  # Christian
+    monarch_name = "克里斯蒂安 VIII"  # Christian VIII
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1786.9.18
+    death_date = 1848.1.20
+    claim = 95
+    adm = 3
+    dip = 4
+    mil = 1
+  }
 }

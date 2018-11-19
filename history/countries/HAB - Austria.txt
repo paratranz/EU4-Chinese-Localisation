@@ -10,1480 +10,1480 @@ historical_rival = TUR
 historical_rival = FRA
 national_focus = ADM
 1395.8.29 = {
-    monarch = {
-        name = "阿尔布雷希特 IV"  # Albrecht IV
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        adm = 1
-        dip = 1
-        mil = 3
-    }
+  monarch = {
+    name = "阿尔布雷希特 IV"  # Albrecht IV
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    adm = 1
+    dip = 1
+    mil = 3
+  }
 }
 1397.8.10 = {
-    heir = {
-        name = "阿尔布雷希特"  # Albrecht
-        monarch_name = "阿尔布雷希特 V"  # Albrecht V
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1397.8.10
-        death_date = 1439.10.27
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 3
-    }
+  heir = {
+    name = "阿尔布雷希特"  # Albrecht
+    monarch_name = "阿尔布雷希特 V"  # Albrecht V
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1397.8.10
+    death_date = 1439.10.27
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 3
+  }
 }
 1404.9.14 = {
-    monarch = {
-        name = "阿尔布雷希特 V"  # Albrecht V
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1397.8.10
-        adm = 1
-        dip = 1
-        mil = 3
-    }
+  monarch = {
+    name = "阿尔布雷希特 V"  # Albrecht V
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1397.8.10
+    adm = 1
+    dip = 1
+    mil = 3
+  }
 }
 1439.10.27 = {
-    monarch = {
-        name = "腓特烈 III"  # Friedrich III
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1415.9.21
-        adm = 2
-        dip = 5
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = careful_personality
+  monarch = {
+    name = "腓特烈 III"  # Friedrich III
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1415.9.21
+    adm = 2
+    dip = 5
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = careful_personality
 }
 1440.2.22 = {
-    heir = {
-        name = "拉迪斯拉斯 波斯图慕斯"  # Ladislaus Postumus
-        monarch_name = "拉迪斯劳斯 波斯图慕斯"  # Ladislaus Postumus
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1440.2.22
-        death_date = 1457.11.24
-        adm = 3
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "拉迪斯拉斯 波斯图慕斯"  # Ladislaus Postumus
+    monarch_name = "拉迪斯劳斯 波斯图慕斯"  # Ladislaus Postumus
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1440.2.22
+    death_date = 1457.11.24
+    adm = 3
+    dip = 3
+    mil = 2
+  }
 }
 1452.1.1 = {
-    monarch = {
-        name = "拉迪斯劳斯 波斯图慕斯"  # Ladislaus Postumus
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1440.2.22
-        death_date = 1457.11.24
-        adm = 3
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "拉迪斯劳斯 波斯图慕斯"  # Ladislaus Postumus
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1440.2.22
+    death_date = 1457.11.24
+    adm = 3
+    dip = 3
+    mil = 2
+  }
 }
 1457.11.24 = {
-    monarch = {
-        name = "腓特烈 III"  # Friedrich III
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1415.9.21
-        adm = 2
-        dip = 5
-        mil = 1
-    }
-    queen = {
-        country_of_origin = POR
-        name = "埃莉诺"  # Eleanor
-        dynasty = "德 阿维斯"  # de Avis
-        birth_date = 1434.9.18
-        death_date = 1467.9.3
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "腓特烈 III"  # Friedrich III
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1415.9.21
+    adm = 2
+    dip = 5
+    mil = 1
+  }
+  queen = {
+    country_of_origin = POR
+    name = "埃莉诺"  # Eleanor
+    dynasty = "德 阿维斯"  # de Avis
+    birth_date = 1434.9.18
+    death_date = 1467.9.3
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 1
+  }
 }
 1459.3.22 = {
-    heir = {
-        name = "马克西米利安"  # Maximilian
-        monarch_name = "马克西米利安 I"  # Maximilian I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1459.3.22
-        death_date = 1519.1.12
-        claim = 95
-        adm = 2
-        dip = 4
-        mil = 2
-    }
+  heir = {
+    name = "马克西米利安"  # Maximilian
+    monarch_name = "马克西米利安 I"  # Maximilian I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1459.3.22
+    death_date = 1519.1.12
+    claim = 95
+    adm = 2
+    dip = 4
+    mil = 2
+  }
 }
 1485.1.1 = {
-    set_global_flag = faceting_happened
-    change_price = {
-        trade_goods = gems
-        key = FACETING
-        value = 0.25
-        duration = -1
-    }
+  set_global_flag = faceting_happened
+  change_price = {
+    trade_goods = gems
+    key = FACETING
+    value = 0.25
+    duration = -1
+  }
 }
 1493.8.21 = {
-    monarch = {
-        name = "马克西米利安 I"  # Maximilian I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1459.3.22
-        adm = 2
-        dip = 4
-        mil = 2
-    }
+  monarch = {
+    name = "马克西米利安 I"  # Maximilian I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1459.3.22
+    adm = 2
+    dip = 4
+    mil = 2
+  }
 }
 1490.1.1 = {
-    set_global_flag = paper_in_bureaucracies
-    change_price = {
-        trade_goods = paper
-        key = PAPER_IN_BUREAUCRACY
-        value = 0.25
-        duration = -1
-    }
+  set_global_flag = paper_in_bureaucracies
+  change_price = {
+    trade_goods = paper
+    key = PAPER_IN_BUREAUCRACY
+    value = 0.25
+    duration = -1
+  }
 }
 1493.8.21 = {
-    heir = {
-        name = "腓力"  # Philip
-        monarch_name = "腓力 I"  # Philip I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1478.7.22
-        death_date = 1506.9.25
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "腓力"  # Philip
+    monarch_name = "腓力 I"  # Philip I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1478.7.22
+    death_date = 1506.9.25
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1494.3.16 = {
-    queen = {
-        country_of_origin = MLO
-        name = "比安卡 玛丽亚"  # Bianca Maria
-        dynasty = "斯福尔扎"  # Sforza
-        birth_date = 1472.4.5
-        death_date = 1510.12.31
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 1
-    }
+  queen = {
+    country_of_origin = MLO
+    name = "比安卡 玛丽亚"  # Bianca Maria
+    dynasty = "斯福尔扎"  # Sforza
+    birth_date = 1472.4.5
+    death_date = 1510.12.31
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 1
+  }
 }
 1495.1.1 = {
-    set_global_flag = italy_out_of_HRE
+  set_global_flag = italy_out_of_HRE
 }
 1499.1.1 = {
-    leader = {
-        name = "冯 弗伦茨贝格"  # von Frundsberg
-        type = general
-        fire = 4
-        shock = 5
-        manuever = 3
-        siege = 2
-        death_date = 1528.8.20
-    }
+  leader = {
+    name = "冯 弗伦茨贝格"  # von Frundsberg
+    type = general
+    fire = 4
+    shock = 5
+    manuever = 3
+    siege = 2
+    death_date = 1528.8.20
+  }
 }
 1500.1.1 = {
-    set_global_flag = bronze_cannons_happened
-    change_price = {
-        trade_goods = copper
-        key = BRONZE_CANNONS
-        value = 0.5
-        duration = -1
-    }
+  set_global_flag = bronze_cannons_happened
+  change_price = {
+    trade_goods = copper
+    key = BRONZE_CANNONS
+    value = 0.5
+    duration = -1
+  }
 }
 1510.1.1 = {
-    set_global_flag = great_fisheries_happened
-    set_global_flag = spice_trade_happened
-    change_price = {
-        trade_goods = spices
-        key = SPICE_TRADE
-        value = 0.5
-        duration = -1
-    }
-    change_price = {
-        trade_goods = fish
-        key = GREAT_FISHERIES
-        value = -0.1
-        duration = -1
-    }
-    change_price = {
-        trade_goods = salt
-        key = GREAT_FISHERIES
-        value = 0.1
-        duration = -1
-    }
+  set_global_flag = great_fisheries_happened
+  set_global_flag = spice_trade_happened
+  change_price = {
+    trade_goods = spices
+    key = SPICE_TRADE
+    value = 0.5
+    duration = -1
+  }
+  change_price = {
+    trade_goods = fish
+    key = GREAT_FISHERIES
+    value = -0.1
+    duration = -1
+  }
+  change_price = {
+    trade_goods = salt
+    key = GREAT_FISHERIES
+    value = 0.1
+    duration = -1
+  }
 }
 1521.4.28 = {
-    monarch = {
-        name = "斐迪南 I"  # Ferdinand I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1503.3.10
-        adm = 4
-        dip = 3
-        mil = 4
-        leader = {
-            name = "斐迪南 I"  # Ferdinand I
-            type = general
-            fire = 2
-            shock = 2
-            manuever = 3
-            siege = 0
-        }
+  monarch = {
+    name = "斐迪南 I"  # Ferdinand I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1503.3.10
+    adm = 4
+    dip = 3
+    mil = 4
+    leader = {
+      name = "斐迪南 I"  # Ferdinand I
+      I"type = "
+      generalfire = "
+      2shock = "
+      2manuever = "
+      3siege = 0
     }
+  }
 }
 1521.5.26 = {
-    queen = {
-        country_of_origin = HUN
-        name = "安娜"  # Anna
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1503.7.23
-        death_date = 1547.1.27
-        female = yes
-        adm = 3
-        dip = 4
-        mil = 1
-    }
+  queen = {
+    country_of_origin = HUN
+    name = "安娜"  # Anna
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1503.7.23
+    death_date = 1547.1.27
+    female = yes
+    adm = 3
+    dip = 4
+    mil = 1
+  }
 }
 1526.8.30 = {
-    add_accepted_culture = hungarian
-    add_accepted_culture = slovak
+  add_accepted_culture = hungarian
+  add_accepted_culture = slovak
 }
 1527.7.31 = {
-    heir = {
-        name = "马克西米利安"  # Maximilian
-        monarch_name = "马克西米利安 II"  # Maximilian II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1527.7.31
-        death_date = 1576.10.12
-        claim = 95
-        adm = 2
-        dip = 4
-        mil = 2
-    }
+  heir = {
+    name = "马克西米利安"  # Maximilian
+    monarch_name = "马克西米利安 II"  # Maximilian II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1527.7.31
+    death_date = 1576.10.12
+    claim = 95
+    adm = 2
+    dip = 4
+    mil = 2
+  }
 }
 1540.1.1 = {
-    set_global_flag = new_draperies_happened
-    set_global_flag = japanese_tea_happened
-    set_global_flag = cotton_imports_global
-    set_global_flag = incense_rejected
-    change_price = {
-        trade_goods = wool
-        key = COTTON_IMPORTS
-        value = -0.10
-        duration = -1
-    }
-    change_price = {
-        trade_goods = cotton
-        key = COTTON_IMPORTS
-        value = 0.20
-        duration = -1
-    }
-    change_price = {
-        trade_goods = cloth
-        key = NEW_DRAPERIES
-        value = 0.25
-        duration = -1
-    }
-    change_price = {
-        trade_goods = wool
-        key = NEW_DRAPERIES
-        value = -0.25
-        duration = -1
-    }
-    change_price = {
-        trade_goods = tea
-        key = JAPANESE_TEA_CULTURE
-        value = 0.25
-        duration = -1
-    }
-    change_price = {
-        trade_goods = incense
-        key = JAPANESE_TEA_CULTURE
-        value = 0.10
-        duration = -1
-    }
-    change_price = {
-        trade_goods = incense
-        key = REFORMED_REJECTION_OF_INCENSE
-        value = -0.25
-        duration = -1
-    }
+  set_global_flag = new_draperies_happened
+  set_global_flag = japanese_tea_happened
+  set_global_flag = cotton_imports_global
+  set_global_flag = incense_rejected
+  change_price = {
+    trade_goods = wool
+    key = COTTON_IMPORTS
+    value = -0.10
+    duration = -1
+  }
+  change_price = {
+    trade_goods = cotton
+    key = COTTON_IMPORTS
+    value = 0.20
+    duration = -1
+  }
+  change_price = {
+    trade_goods = cloth
+    key = NEW_DRAPERIES
+    value = 0.25
+    duration = -1
+  }
+  change_price = {
+    trade_goods = wool
+    key = NEW_DRAPERIES
+    value = -0.25
+    duration = -1
+  }
+  change_price = {
+    trade_goods = tea
+    key = JAPANESE_TEA_CULTURE
+    value = 0.25
+    duration = -1
+  }
+  change_price = {
+    trade_goods = incense
+    key = JAPANESE_TEA_CULTURE
+    value = 0.10
+    duration = -1
+  }
+  change_price = {
+    trade_goods = incense
+    key = REFORMED_REJECTION_OF_INCENSE
+    value = -0.25
+    duration = -1
+  }
 }
 1550.1.1 = {
-    set_global_flag = protestant_fish_happened
-    change_price = {
-        trade_goods = fish
-        key = PROTESTANT_DONT_EAT_FISH
-        value = -0.1
-        duration = -1
-    }
+  set_global_flag = protestant_fish_happened
+  change_price = {
+    trade_goods = fish
+    key = PROTESTANT_DONT_EAT_FISH
+    value = -0.1
+    duration = -1
+  }
 }
 1551.7.19 = {
-    add_accepted_culture = transylvanian
+  add_accepted_culture = transylvanian
 }
 1555.1.1 = {
-    set_global_flag = printing_paper_prices_rise
-    change_price = {
-        trade_goods = paper
-        key = INCREASED_PRINTING
-        value = 0.25
-        duration = -1
-    }
+  set_global_flag = printing_paper_prices_rise
+  change_price = {
+    trade_goods = paper
+    key = INCREASED_PRINTING
+    value = 0.25
+    duration = -1
+  }
 }
 1556.10.2 = {
-    government = monarchy
-    add_government_reform = autocracy_reform
+  government = monarchy
+  add_government_reform = autocracy_reform
 }
 1560.1.1 = {
-    leader = {
-        name = "弗朗茨 约瑟夫"  # Franz-Josef
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1580.1.1
-    }
-    set_global_flag = columbian_exchange_happened
-    change_price = {
-        trade_goods = grain
-        key = COLUMBIAN_EXCHANGE
-        value = -0.20
-        duration = -1
-    }
+  leader = {
+    name = "弗朗茨 约瑟夫"  # Franz-Josef
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1580.1.1
+  }
+  set_global_flag = columbian_exchange_happened
+  change_price = {
+    trade_goods = grain
+    key = COLUMBIAN_EXCHANGE
+    value = -0.20
+    duration = -1
+  }
 }
 1564.7.27 = {
-    monarch = {
-        name = "马克西米利安 II"  # Maximilian II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1527.7.31
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-    queen = {
-        country_of_origin = HAB
-        name = "玛利亚"  # Maria
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1528.6.21
-        death_date = 1603.2.26
-        female = yes
-        adm = 4
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "马克西米利安 II"  # Maximilian II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1527.7.31
+    adm = 2
+    dip = 4
+    mil = 2
+  }
+  queen = {
+    country_of_origin = HAB
+    name = "玛利亚"  # Maria
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1528.6.21
+    death_date = 1603.2.26
+    female = yes
+    adm = 4
+    dip = 2
+    mil = 1
+  }
 }
 1564.7.27 = {
-    heir = {
-        name = "鲁道夫"  # Rudolf
-        monarch_name = "鲁道夫 II"  # Rudolf II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1552.7.18
-        death_date = 1612.1.20
-        claim = 95
-        adm = 4
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "鲁道夫"  # Rudolf
+    monarch_name = "鲁道夫 II"  # Rudolf II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1552.7.18
+    death_date = 1612.1.20
+    claim = 95
+    adm = 4
+    dip = 3
+    mil = 2
+  }
 }
 1570.1.1 = {
-    set_global_flag = depleted_beaver_happened
-    set_global_flag = veneering_happened
-    change_price = {
-        trade_goods = fur
-        key = DEPLETION_OF_EUROPEAN_BEAVER
-        value = 0.4
-        duration = -1
-    }
-    change_price = {
-        trade_goods = tropical_wood
-        key = VENEERING
-        value = 0.35
-        duration = -1
-    }
+  set_global_flag = depleted_beaver_happened
+  set_global_flag = veneering_happened
+  change_price = {
+    trade_goods = fur
+    key = DEPLETION_OF_EUROPEAN_BEAVER
+    value = 0.4
+    duration = -1
+  }
+  change_price = {
+    trade_goods = tropical_wood
+    key = VENEERING
+    value = 0.35
+    duration = -1
+  }
 }
 1575.1.1 = {
-    set_global_flag = triangle_happened
-    change_price = {
-        trade_goods = slaves
-        key = TRIANGLE_TRADE
-        value = 0.5
-        duration = -1
-    }
+  set_global_flag = triangle_happened
+  change_price = {
+    trade_goods = slaves
+    key = TRIANGLE_TRADE
+    value = 0.5
+    duration = -1
+  }
 }
 1576.10.14 = {
-    monarch = {
-        name = "鲁道夫 II"  # Rudolf II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1552.7.18
-        adm = 4
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "鲁道夫 II"  # Rudolf II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1552.7.18
+    adm = 4
+    dip = 3
+    mil = 2
+  }
 }
 1576.10.14 = {
-    heir = {
-        name = "马蒂亚斯"  # Matthias
-        monarch_name = "马蒂亚斯 I"  # Matthias I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1557.2.24
-        death_date = 1619.3.20
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 0
-    }
+  heir = {
+    name = "马蒂亚斯"  # Matthias
+    monarch_name = "马蒂亚斯 I"  # Matthias I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1557.2.24
+    death_date = 1619.3.20
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 0
+  }
 }
 1583.1.1 = {
-    capital = 266
+  capital = 266
 }
 1585.1.1 = {
-    leader = {
-        name = "卡尔"  # Karl
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1600.1.1
-    }
+  leader = {
+    name = "卡尔"  # Karl
+    type = "
+    generalfire = "
+    2shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1600.1.1
+  }
 }
 1600.1.1 = {
-    set_global_flag = coffee_boom_happened
-    set_global_flag = felt_hats_happened
-    set_global_flag = popularization_of_tobacco_happened
-    set_global_flag = bohemian_glass
-    change_price = {
-        trade_goods = coffee
-        key = COFFEE_BOOM
-        value = 0.5
-        duration = -1
-    }
-    change_price = {
-        trade_goods = fur
-        key = FELT_HATS
-        value = 0.35
-        duration = -1
-    }
-    change_price = {
-        trade_goods = tobacco
-        key = POPULARIZATION_OF_TOBACCO
-        value = 0.5
-        duration = -1
-    }
-    change_price = {
-        trade_goods = glass
-        key = BOHEMIAN_GLASS
-        value = 0.25
-        duration = -1
-    }
+  set_global_flag = coffee_boom_happened
+  set_global_flag = felt_hats_happened
+  set_global_flag = popularization_of_tobacco_happened
+  set_global_flag = bohemian_glass
+  change_price = {
+    trade_goods = coffee
+    key = COFFEE_BOOM
+    value = 0.5
+    duration = -1
+  }
+  change_price = {
+    trade_goods = fur
+    key = FELT_HATS
+    value = 0.35
+    duration = -1
+  }
+  change_price = {
+    trade_goods = tobacco
+    key = POPULARIZATION_OF_TOBACCO
+    value = 0.5
+    duration = -1
+  }
+  change_price = {
+    trade_goods = glass
+    key = BOHEMIAN_GLASS
+    value = 0.25
+    duration = -1
+  }
 }
 1608.5.14 = {
-    enable_hre_leagues = yes
-    set_global_flag = evangelical_union_happened
+  enable_hre_leagues = yes
+  set_global_flag = evangelical_union_happened
 }
 1610.1.1 = {
-    leader = {
-        name = "弗朗茨 冯 莫西"  # Franz von Mercy
-        type = general
-        fire = 4
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1645.1.1
-    }
+  leader = {
+    name = "弗朗茨 冯 莫西"  # Franz von Mercy
+    type = "
+    generalfire = "
+    4shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1645.1.1
+  }
 }
 1611.1.1 = {
-    capital = 134
+  capital = 134
 }
 1612.1.22 = {
-    monarch = {
-        name = "马蒂亚斯 I"  # Matthias I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1557.2.24
-        adm = 2
-        dip = 2
-        mil = 0
-    }
-    queen = {
-        country_of_origin = HAB
-        name = "安娜"  # Anna
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1585.10.4
-        death_date = 1618.12.14
-        female = yes
-        adm = 2
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "马蒂亚斯 I"  # Matthias I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1557.2.24
+    adm = 2
+    dip = 2
+    mil = 0
+  }
+  queen = {
+    country_of_origin = HAB
+    name = "安娜"  # Anna
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1585.10.4
+    death_date = 1618.12.14
+    female = yes
+    adm = 2
+    dip = 1
+    mil = 1
+  }
 }
 1612.1.22 = {
-    heir = {
-        name = "斐迪南"  # Ferdinand
-        monarch_name = "斐迪南 II"  # Ferdinand II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1578.7.9
-        death_date = 1637.2.15
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 1
-    }
+  heir = {
+    name = "斐迪南"  # Ferdinand
+    monarch_name = "斐迪南 II"  # Ferdinand II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1578.7.9
+    death_date = 1637.2.15
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 1
+  }
 }
 1613.1.1 = {
-    join_league = catholic
+  join_league = catholic
 }
 1614.1.1 = {
-    decision = conventicle_act
+  decision = conventicle_act
 }
 1615.1.1 = {
-    leader = {
-        name = "华伦斯坦"  # Wallenstein
-        type = general
-        fire = 4
-        shock = 4
-        manuever = 4
-        siege = 1
-        death_date = 1634.2.25
-    }
+  leader = {
+    name = "华伦斯坦"  # Wallenstein
+    "Wallenstein"type = "
+    generalfire = "
+    4shock = "
+    4manuever = "
+    4siege = "
+    1death_date = 1634.2.25
+  }
 }
 1618.1.1 = {
-    leader = {
-        name = "戈特 巴本海姆"  # Gottfried Pappenheim
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 3
-        siege = 1
-        death_date = 1632.11.17
-    }
+  leader = {
+    name = "戈特 巴本海姆"  # Gottfried Pappenheim
+    Pappenheim"type = "
+    generalfire = "
+    3shock = "
+    4manuever = "
+    3siege = "
+    1death_date = 1632.11.17
+  }
 }
 1619.3.22 = {
-    monarch = {
-        name = "斐迪南 II"  # Ferdinand II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1578.7.9
-        adm = 2
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "斐迪南 II"  # Ferdinand II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1578.7.9
+    adm = 2
+    dip = 1
+    mil = 2
+  }
 }
 1619.3.22 = {
-    heir = {
-        name = "斐迪南"  # Ferdinand
-        monarch_name = "斐迪南 III"  # Ferdinand III
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1608.7.13
-        death_date = 1657.4.2
-        claim = 95
-        adm = 4
-        dip = 1
-        mil = 5
-    }
+  heir = {
+    name = "斐迪南"  # Ferdinand
+    monarch_name = "斐迪南 III"  # Ferdinand III
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1608.7.13
+    death_date = 1657.4.2
+    claim = 95
+    adm = 4
+    dip = 1
+    mil = 5
+  }
 }
 1620.1.1 = {
-    decision = act_of_uniformity
+  decision = act_of_uniformity
 }
 1622.2.2 = {
-    queen = {
-        country_of_origin = MAN
-        name = "埃莉诺"  # Eleonora
-        dynasty = "贡萨加"  # Gonzaga
-        birth_date = 1598.9.23
-        death_date = 1655.6.27
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  queen = {
+    country_of_origin = MAN
+    name = "埃莉诺"  # Eleonora
+    dynasty = "贡萨加"  # Gonzaga
+    birth_date = 1598.9.23
+    death_date = 1655.6.27
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1624.1.1 = {
-    leader = {
-        name = "冯 哈滋菲尔特"  # von Hatzfeldt
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1647.1.1
-    }
+  leader = {
+    name = "冯 哈滋菲尔特"  # von Hatzfeldt
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1647.1.1
+  }
 }
 1625.1.1 = {
-    leader = {
-        name = "马蒂亚斯 加拉斯"  # Matthias Gallas
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 2
-        siege = 0
-        death_date = 1647.1.1
-    }
+  leader = {
+    name = "马蒂亚斯 加拉斯"  # Matthias Gallas
+    Gallas"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    2siege = "
+    0death_date = 1647.1.1
+  }
 }
 1627.1.1 = {
-    leader = {
-        name = "皮科洛米尼"  # Piccolomini
-        type = general
-        fire = 4
-        shock = 3
-        manuever = 4
-        siege = 1
-        death_date = 1656.8.11
-    }
+  leader = {
+    name = "皮科洛米尼"  # Piccolomini
+    type = "
+    generalfire = "
+    4shock = "
+    3manuever = "
+    4siege = "
+    1death_date = 1656.8.11
+  }
 }
 1630.1.1 = {
-    leader = {
-        name = "蒙泰库科利"  # Montecuccoli
-        type = general
-        fire = 4
-        shock = 3
-        manuever = 4
-        siege = 1
-        death_date = 1680.10.16
-    }
+  leader = {
+    name = "蒙泰库科利"  # Montecuccoli
+    type = "
+    generalfire = "
+    4shock = "
+    3manuever = "
+    4siege = "
+    1death_date = 1680.10.16
+  }
 }
 1635.1.1 = {
-    set_global_flag = popular_silk_happened
-    set_global_flag = iron_working_happened
-    set_global_flag = development_of_optics
-    change_price = {
-        trade_goods = silk
-        key = POPULAR_SILK_FABRICS
-        value = 0.25
-        duration = -1
-    }
-    change_price = {
-        trade_goods = iron
-        key = IRON_WORKING
-        value = 0.5
-        duration = -1
-    }
-    change_price = {
-        trade_goods = copper
-        key = IRON_WORKING
-        value = -0.35
-        duration = -1
-    }
-    change_price = {
-        trade_goods = glass
-        key = MODERN_OPTICS
-        value = 0.25
-        duration = -1
-    }
+  set_global_flag = popular_silk_happened
+  set_global_flag = iron_working_happened
+  set_global_flag = development_of_optics
+  change_price = {
+    trade_goods = silk
+    key = POPULAR_SILK_FABRICS
+    value = 0.25
+    duration = -1
+  }
+  change_price = {
+    trade_goods = iron
+    key = IRON_WORKING
+    value = 0.5
+    duration = -1
+  }
+  change_price = {
+    trade_goods = copper
+    key = IRON_WORKING
+    value = -0.35
+    duration = -1
+  }
+  change_price = {
+    trade_goods = glass
+    key = MODERN_OPTICS
+    value = 0.25
+    duration = -1
+  }
 }
 1637.2.15 = {
-    monarch = {
-        name = "斐迪南 III"  # Ferdinand III
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1608.7.13
-        adm = 4
-        dip = 1
-        mil = 5
-    }
-    queen = {
-        country_of_origin = SPA
-        name = "埃莉诺"  # Eleonora
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1606.8.18
-        death_date = 1646.5.13
-        female = yes
-        adm = 3
-        dip = 4
-        mil = 2
-    }
+  monarch = {
+    name = "斐迪南 III"  # Ferdinand III
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1608.7.13
+    adm = 4
+    dip = 1
+    mil = 5
+  }
+  queen = {
+    country_of_origin = SPA
+    name = "埃莉诺"  # Eleonora
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1606.8.18
+    death_date = 1646.5.13
+    female = yes
+    adm = 3
+    dip = 4
+    mil = 2
+  }
 }
 1640.6.9 = {
-    heir = {
-        name = "利奥波德"  # Leopold
-        monarch_name = "利奥波德 I"  # Leopold I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1640.6.9
-        death_date = 1705.5.5
-        claim = 95
-        adm = 4
-        dip = 4
-        mil = 5
-    }
+  heir = {
+    name = "利奥波德"  # Leopold
+    monarch_name = "利奥波德 I"  # Leopold I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1640.6.9
+    death_date = 1705.5.5
+    claim = 95
+    adm = 4
+    dip = 4
+    mil = 5
+  }
 }
 1648.7.2 = {
-    queen = {
-        country_of_origin = HAB
-        name = "玛丽亚 莱奥波尔迪娜"  # Maria Leopoldine
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1632.4.6
-        death_date = 1649.8.7
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "玛丽亚 莱奥波尔迪娜"  # Maria Leopoldine
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1632.4.6
+    death_date = 1649.8.7
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1648.10.24 = {
-    set_hre_religion_treaty = yes
-    leave_league = catholic
+  set_hre_religion_treaty = yes
+  leave_league = catholic
 }
 1650.1.1 = {
-    set_global_flag = europeans_in_china_happened
-    set_global_flag = tea_and_sugar_happened
-    change_price = {
-        trade_goods = chinaware
-        key = EUROPEANS_IN_CHINA
-        value = 0.5
-        duration = -1
-    }
-    change_price = {
-        trade_goods = tea
-        key = TEA_AND_SUGAR
-        value = 0.25
-        duration = -1
-    }
-    change_price = {
-        trade_goods = sugar
-        key = TEA_AND_SUGAR
-        value = 0.25
-        duration = -1
-    }
+  set_global_flag = europeans_in_china_happened
+  set_global_flag = tea_and_sugar_happened
+  change_price = {
+    trade_goods = chinaware
+    key = EUROPEANS_IN_CHINA
+    value = 0.5
+    duration = -1
+  }
+  change_price = {
+    trade_goods = tea
+    key = TEA_AND_SUGAR
+    value = 0.25
+    duration = -1
+  }
+  change_price = {
+    trade_goods = sugar
+    key = TEA_AND_SUGAR
+    value = 0.25
+    duration = -1
+  }
 }
 1651.4.30 = {
-    queen = {
-        country_of_origin = MAN
-        name = "埃莉诺"  # Eleonora
-        dynasty = "贡萨加"  # Gonzaga
-        birth_date = 1630.11.18
-        death_date = 1686.12.6
-        female = yes
-        adm = 1
-        dip = 3
-        mil = 1
-    }
+  queen = {
+    country_of_origin = MAN
+    name = "埃莉诺"  # Eleonora
+    dynasty = "贡萨加"  # Gonzaga
+    birth_date = 1630.11.18
+    death_date = 1686.12.6
+    female = yes
+    adm = 1
+    dip = 3
+    mil = 1
+  }
 }
 1658.7.1 = {
-    monarch = {
-        name = "利奥波德 I"  # Leopold I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1640.6.9
-        adm = 4
-        dip = 4
-        mil = 5
-    }
+  monarch = {
+    name = "利奥波德 I"  # Leopold I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1640.6.9
+    adm = 4
+    dip = 4
+    mil = 5
+  }
 }
 1650.1.1 = {
-    set_global_flag = mocha_killed
-    change_price = {
-        trade_goods = coffee
-        key = JAVA_COFFEE
-        value = -0.4
-        duration = -1
-    }
+  set_global_flag = mocha_killed
+  change_price = {
+    trade_goods = coffee
+    key = JAVA_COFFEE
+    value = -0.4
+    duration = -1
+  }
 }
 1660.1.1 = {
-    set_global_flag = decline_of_spices_happened
-    set_global_flag = popularization_of_sugar_happened
-    change_price = {
-        trade_goods = spices
-        key = DECLINE_OF_SPICE_TRADE
-        value = -0.4
-        duration = -1
-    }
-    change_price = {
-        trade_goods = sugar
-        key = POPULARIZATION_OF_SUGAR
-        value = 0.5
-        duration = -1
-    }
+  set_global_flag = decline_of_spices_happened
+  set_global_flag = popularization_of_sugar_happened
+  change_price = {
+    trade_goods = spices
+    key = DECLINE_OF_SPICE_TRADE
+    value = -0.4
+    duration = -1
+  }
+  change_price = {
+    trade_goods = sugar
+    key = POPULARIZATION_OF_SUGAR
+    value = 0.5
+    duration = -1
+  }
 }
 1666.12.12 = {
-    queen = {
-        country_of_origin = SPA
-        name = "马佳莉塔 德雷"  # Margaret Theresa
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1651.7.12
-        death_date = 1673.3.12
-        female = yes
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  queen = {
+    country_of_origin = SPA
+    name = "马佳莉塔 德雷"  # Margaret Theresa
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1651.7.12
+    death_date = 1673.3.12
+    female = yes
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1670.1.1 = {
-    set_global_flag = wine_corks_happened
-    set_global_flag = regulated_uniforms_happened
-    set_global_flag = hollender_beater_flag
-    set_global_flag = lead_crystal_happened
-    change_price = {
-        trade_goods = wine
-        key = WINE_CORKS
-        value = 0.25
-        duration = -1
-    }
-    change_price = {
-        trade_goods = glass
-        key = WINE_CORKS
-        value = 0.25
-        duration = -1
-    }
-    change_price = {
-        trade_goods = cloth
-        key = REGULATED_UNIFORMS
-        value = 0.15
-        duration = -1
-    }
-    change_price = {
-        trade_goods = wool
-        key = REGULATED_UNIFORMS
-        value = 0.1
-        duration = -1
-    }
-    change_price = {
-        trade_goods = dyes
-        key = REGULATED_UNIFORMS
-        value = 0.25
-        duration = -1
-    }
-    change_price = {
-        trade_goods = paper
-        key = HOLLENDER_BEATER
-        value = -0.5
-        duration = -1
-    }
-    change_price = {
-        trade_goods = glass
-        key = LEAD_CRYSTAL
-        value = 0.25
-        duration = -1
-    }
+  set_global_flag = wine_corks_happened
+  set_global_flag = regulated_uniforms_happened
+  set_global_flag = hollender_beater_flag
+  set_global_flag = lead_crystal_happened
+  change_price = {
+    trade_goods = wine
+    key = WINE_CORKS
+    value = 0.25
+    duration = -1
+  }
+  change_price = {
+    trade_goods = glass
+    key = WINE_CORKS
+    value = 0.25
+    duration = -1
+  }
+  change_price = {
+    trade_goods = cloth
+    key = REGULATED_UNIFORMS
+    value = 0.15
+    duration = -1
+  }
+  change_price = {
+    trade_goods = wool
+    key = REGULATED_UNIFORMS
+    value = 0.1
+    duration = -1
+  }
+  change_price = {
+    trade_goods = dyes
+    key = REGULATED_UNIFORMS
+    value = 0.25
+    duration = -1
+  }
+  change_price = {
+    trade_goods = paper
+    key = HOLLENDER_BEATER
+    value = -0.5
+    duration = -1
+  }
+  change_price = {
+    trade_goods = glass
+    key = LEAD_CRYSTAL
+    value = 0.25
+    duration = -1
+  }
 }
 1670.1.1 = {
-    leader = {
-        name = "斐迪南"  # Ferdinand
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1695.1.1
-    }
+  leader = {
+    name = "斐迪南"  # Ferdinand
+    type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1695.1.1
+  }
 }
 1670.1.1 = {
-    leader = {
-        name = "格奥尔格 瓦尔德克"  # Georg Waldeck
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 3
-        siege = 1
-        death_date = 1692.11.19
-    }
+  leader = {
+    name = "格奥尔格 瓦尔德克"  # Georg Waldeck
+    Waldeck"type = "
+    generalfire = "
+    3shock = "
+    2manuever = "
+    3siege = "
+    1death_date = 1692.11.19
+  }
 }
 1673.10.15 = {
-    queen = {
-        country_of_origin = HAB
-        name = "克劳迪娅 费利西塔斯"  # Claudia Felicitas
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1653.5.30
-        death_date = 1676.4.8
-        female = yes
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "克劳迪娅 费利西塔斯"  # Claudia Felicitas
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1653.5.30
+    death_date = 1676.4.8
+    female = yes
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1675.1.1 = {
-    leader = {
-        name = "查理V 洛林"  # Charles V de Lorraine
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1690.1.1
-    }
+  leader = {
+    name = "查理V 洛林"  # Charles V de Lorraine
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1690.1.1
+  }
 }
 1676.12.14 = {
-    queen = {
-        country_of_origin = PAL
-        name = "埃琳诺 马德莲纳"  # Eleonor Magdalene
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1655.1.6
-        death_date = 1720.1.19
-        female = yes
-        adm = 4
-        dip = 4
-        mil = 3
-    }
+  queen = {
+    country_of_origin = PAL
+    name = "埃琳诺 马德莲纳"  # Eleonor Magdalene
+    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
+    birth_date = 1655.1.6
+    death_date = 1720.1.19
+    female = yes
+    adm = 4
+    dip = 4
+    mil = 3
+  }
 }
 1678.7.26 = {
-    heir = {
-        name = "约瑟夫"  # Josef
-        monarch_name = "约瑟夫 I"  # Josef I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1678.7.26
-        death_date = 1711.4.17
-        claim = 95
-        adm = 3
-        dip = 1
-        mil = 3
-    }
+  heir = {
+    name = "约瑟夫"  # Josef
+    monarch_name = "约瑟夫 I"  # Josef I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1678.7.26
+    death_date = 1711.4.17
+    claim = 95
+    adm = 3
+    dip = 1
+    mil = 3
+  }
 }
 1680.1.1 = {
-    set_global_flag = calicoes_happened
-    set_global_flag = permanent_navies_happened
-    change_price = {
-        trade_goods = cotton
-        key = CALICOES
-        value = 0.45
-        duration = -1
-    }
-    change_price = {
-        trade_goods = naval_supplies
-        key = PERMANENT_NAVIES
-        value = 0.5
-        duration = -1
-    }
-    change_price = {
-        trade_goods = glass
-        key = PERMANENT_NAVIES
-        value = 0.15
-        duration = -1
-    }
-    change_price = {
-        trade_goods = livestock
-        key = PERMANENT_NAVIES
-        value = 0.10
-        duration = -1
-    }
+  set_global_flag = calicoes_happened
+  set_global_flag = permanent_navies_happened
+  change_price = {
+    trade_goods = cotton
+    key = CALICOES
+    value = 0.45
+    duration = -1
+  }
+  change_price = {
+    trade_goods = naval_supplies
+    key = PERMANENT_NAVIES
+    value = 0.5
+    duration = -1
+  }
+  change_price = {
+    trade_goods = glass
+    key = PERMANENT_NAVIES
+    value = 0.15
+    duration = -1
+  }
+  change_price = {
+    trade_goods = livestock
+    key = PERMANENT_NAVIES
+    value = 0.10
+    duration = -1
+  }
 }
 1685.1.1 = {
-    leader = {
-        name = "欧根亲王"  # Prinz Eugen
-        type = general
-        fire = 5
-        shock = 5
-        manuever = 5
-        siege = 1
-        death_date = 1730.1.1
-    }
+  leader = {
+    name = "欧根亲王"  # Prinz Eugen
+    type = "
+    generalfire = "
+    5shock = "
+    5manuever = "
+    5siege = "
+    1death_date = 1730.1.1
+  }
 }
 1685.1.1 = {
-    leader = {
-        name = "冯 施塔尔亨贝格"  # von Starhemberg
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 3
-        death_date = 1705.1.1
-    }
+  leader = {
+    name = "冯 施塔尔亨贝格"  # von Starhemberg
+    type = "
+    generalfire = "
+    3shock = "
+    4manuever = "
+    4siege = "
+    3death_date = 1705.1.1
+  }
 }
 1690.1.1 = {
-    leader = {
-        name = "路德维希"  # Ludwig
-        type = general
-        fire = 4
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1710.1.1
-    }
+  leader = {
+    name = "路德维希"  # Ludwig
+    type = "
+    generalfire = "
+    4shock = "
+    4manuever = "
+    4siege = "
+    0death_date = 1710.1.1
+  }
 }
 1697.1.1 = {
-    leader = {
-        name = "冯 特劳恩"  # von Traun
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1748.1.1
-    }
+  leader = {
+    name = "冯 特劳恩"  # von Traun
+    type = "
+    generalfire = "
+    3shock = "
+    4manuever = "
+    4siege = "
+    0death_date = 1748.1.1
+  }
 }
 1699.1.1 = {
-    add_accepted_culture = croatian
+  add_accepted_culture = croatian
 }
 1700.1.1 = {
-    set_global_flag = hot_chocolate_happened
-    change_price = {
-        trade_goods = cocoa
-        key = HOT_CHOCOLATE
-        value = 0.4
-        duration = -1
-    }
+  set_global_flag = hot_chocolate_happened
+  change_price = {
+    trade_goods = cocoa
+    key = HOT_CHOCOLATE
+    value = 0.4
+    duration = -1
+  }
 }
 1705.5.7 = {
-    monarch = {
-        name = "约瑟夫 I"  # Josef I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1678.7.26
-        adm = 3
-        dip = 1
-        mil = 3
-    }
-    queen = {
-        country_of_origin = LUN
-        name = "威廉明妮 阿玛莉亚"  # Wilhelmine Amalia
-        dynasty = "冯 韦尔夫"  # von Welf
-        birth_date = 1673.4.21
-        death_date = 1742.4.10
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "约瑟夫 I"  # Josef I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1678.7.26
+    adm = 3
+    dip = 1
+    mil = 3
+  }
+  queen = {
+    country_of_origin = LUN
+    name = "威廉明妮 阿玛莉亚"  # Wilhelmine Amalia
+    dynasty = "冯 韦尔夫"  # von Welf
+    birth_date = 1673.4.21
+    death_date = 1742.4.10
+    female = yes
+    adm = 3
+    dip = 3
+    mil = 1
+  }
 }
 1705.5.7 = {
-    heir = {
-        name = "卡尔"  # Karl
-        monarch_name = "卡尔 II"  # Karl II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1685.10.1
-        death_date = 1740.10.20
-        claim = 95
-        adm = 4
-        dip = 3
-        mil = 3
-    }
+  heir = {
+    name = "卡尔"  # Karl
+    monarch_name = "卡尔 II"  # Karl II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1685.10.1
+    death_date = 1740.10.20
+    claim = 95
+    adm = 4
+    dip = 3
+    mil = 3
+  }
 }
 1710.1.1 = {
-    set_global_flag = bottger_happened
-    set_global_flag = popular_literacy
-    set_global_flag = brazilian_gems_happened
-    set_global_flag = selective_breeding_happened
-    change_price = {
-        trade_goods = chinaware
-        key = JOHAN_FRIEDRICH_BOTTGER
-        value = -0.5
-        duration = -1
-    }
-    change_price = {
-        trade_goods = paper
-        key = LENDING_LIBRARIES
-        value = 0.35
-        duration = -1
-    }
-    change_price = {
-        trade_goods = gems
-        key = BRAZILIAN_DIAMONDS
-        value = -0.5
-        duration = -1
-    }
-    change_price = {
-        trade_goods = livestock
-        key = SELECTIVE_BREEDING
-        value = 0.5
-        duration = -1
-    }
-    change_price = {
-        trade_goods = wool
-        key = SELECTIVE_BREEDING
-        value = 0.25
-        duration = -1
-    }
+  set_global_flag = bottger_happened
+  set_global_flag = popular_literacy
+  set_global_flag = brazilian_gems_happened
+  set_global_flag = selective_breeding_happened
+  change_price = {
+    trade_goods = chinaware
+    key = JOHAN_FRIEDRICH_BOTTGER
+    value = -0.5
+    duration = -1
+  }
+  change_price = {
+    trade_goods = paper
+    key = LENDING_LIBRARIES
+    value = 0.35
+    duration = -1
+  }
+  change_price = {
+    trade_goods = gems
+    key = BRAZILIAN_DIAMONDS
+    value = -0.5
+    duration = -1
+  }
+  change_price = {
+    trade_goods = livestock
+    key = SELECTIVE_BREEDING
+    value = 0.5
+    duration = -1
+  }
+  change_price = {
+    trade_goods = wool
+    key = SELECTIVE_BREEDING
+    value = 0.25
+    duration = -1
+  }
 }
 1711.4.19 = {
-    monarch = {
-        name = "卡尔 II"  # Karl II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1685.10.1
-        adm = 4
-        dip = 3
-        mil = 3
-    }
-    queen = {
-        country_of_origin = BRU
-        name = "伊丽莎白 克里斯蒂娜"  # Elisabeth Christine
-        dynasty = "冯 韦尔夫"  # von Welf
-        birth_date = 1691.8.28
-        death_date = 1750.12.21
-        female = yes
-        adm = 2
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "卡尔 II"  # Karl II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1685.10.1
+    adm = 4
+    dip = 3
+    mil = 3
+  }
+  queen = {
+    country_of_origin = BRU
+    name = "伊丽莎白 克里斯蒂娜"  # Elisabeth Christine
+    dynasty = "冯 韦尔夫"  # von Welf
+    birth_date = 1691.8.28
+    death_date = 1750.12.21
+    female = yes
+    adm = 2
+    dip = 3
+    mil = 1
+  }
 }
 1717.5.13 = {
-    heir = {
-        name = "玛丽亚 特蕾莎"  # Maria Theresia
-        monarch_name = "玛丽亚 特蕾莎 I"  # Maria Theresia I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1717.5.13
-        death_date = 1780.11.29
-        claim = 95
-        adm = 5
-        dip = 5
-        mil = 4
-        female = yes
-    }
+  heir = {
+    name = "玛丽亚 特蕾莎"  # Maria Theresia
+    monarch_name = "玛丽亚 特蕾莎 I"  # Maria Theresia I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1717.5.13
+    death_date = 1780.11.29
+    claim = 95
+    adm = 5
+    dip = 5
+    mil = 4
+    female = yes
+  }
 }
 1720.1.1 = {
-    leader = {
-        name = "弗朗茨"  # Franz
-        type = general
-        fire = 4
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1735.1.1
-    }
+  leader = {
+    name = "弗朗茨"  # Franz
+    type = "
+    generalfire = "
+    4shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1735.1.1
+  }
 }
 1720.1.1 = {
-    leader = {
-        name = "罗默"  # Romer
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1741.1.1
-    }
+  leader = {
+    name = "罗默"  # Romer
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    1death_date = 1741.1.1
+  }
 }
 1725.1.1 = {
-    leader = {
-        name = "洛布科维茨"  # Lobkowitz
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 2
-        siege = 2
-        death_date = 1750.1.1
-    }
+  leader = {
+    name = "洛布科维茨"  # Lobkowitz
+    type = "
+    generalfire = "
+    3shock = "
+    2manuever = "
+    2siege = "
+    2death_date = 1750.1.1
+  }
 }
 1730.1.1 = {
-    leader = {
-        name = "尼普佩格"  # von Neipperg
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1774.5.26
-    }
+  leader = {
+    name = "尼普佩格"  # von Neipperg
+    type = "
+    generalfire = "
+    3shock = "
+    4manuever = "
+    4siege = "
+    0death_date = 1774.5.26
+  }
 }
 1730.1.1 = {
-    leader = {
-        name = "贝斯亚尼"  # Bathyany
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1750.1.1
-    }
+  leader = {
+    name = "贝斯亚尼"  # Bathyany
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1750.1.1
+  }
 }
 1734.1.1 = {
-    leader = {
-        name = "冯 多恩"  # von Daun
-        type = general
-        fire = 5
-        shock = 4
-        manuever = 4
-        siege = 1
-        death_date = 1741.7.30
-    }
+  leader = {
+    name = "冯 多恩"  # von Daun
+    type = "
+    generalfire = "
+    5shock = "
+    4manuever = "
+    4siege = "
+    1death_date = 1741.7.30
+  }
 }
 1735.1.1 = {
-    leader = {
-        name = "萨克森"  # Sachsen
-        type = general
-        fire = 4
-        shock = 5
-        manuever = 4
-        siege = 1
-        death_date = 1750.1.1
-    }
+  leader = {
+    name = "萨克森"  # Sachsen
+    type = "
+    generalfire = "
+    4shock = "
+    5manuever = "
+    4siege = "
+    1death_date = 1750.1.1
+  }
 }
 1738.1.1 = {
-    leader = {
-        name = "布朗"  # Browne
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1757.1.1
-    }
+  leader = {
+    name = "布朗"  # Browne
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    1death_date = 1757.1.1
+  }
 }
 1740.10.22 = {
-    monarch = {
-        name = "玛丽亚 特蕾莎 I"  # Maria Theresia I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1717.5.13
-        adm = 5
-        dip = 5
-        mil = 4
-        female = yes
-    }
-    queen = {
-        country_of_origin = LOR
-        name = "弗朗西斯"  # Francis
-        dynasty = "德 沃代蒙"  # de Vaudémont
-        birth_date = 1708.12.8
-        death_date = 1765.8.12
-        female = no
-        adm = 5
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "玛丽亚 特蕾莎 I"  # Maria Theresia I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1717.5.13
+    adm = 5
+    dip = 5
+    mil = 4
+    female = yes
+  }
+  queen = {
+    country_of_origin = LOR
+    name = "弗朗西斯"  # Francis
+    dynasty = "德 沃代蒙"  # de Vaudémont
+    birth_date = 1708.12.8
+    death_date = 1765.8.12
+    female = no
+    adm = 5
+    dip = 2
+    mil = 1
+  }
 }
 1740.10.22 = {
-    government = monarchy
+  government = monarchy
 }
 1741.1.1 = {
-    leader = {
-        name = "冯 劳东"  # von Laudon
-        type = general
-        fire = 4
-        shock = 5
-        manuever = 5
-        siege = 0
-        death_date = 1789.1.1
-    }
+  leader = {
+    name = "冯 劳东"  # von Laudon
+    type = "
+    generalfire = "
+    4shock = "
+    5manuever = "
+    5siege = "
+    0death_date = 1789.1.1
+  }
 }
 1741.3.13 = {
-    heir = {
-        name = "约瑟夫"  # Josef
-        monarch_name = "约瑟夫 II"  # Josef II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1741.3.13
-        death_date = 1790.2.20
-        claim = 95
-        adm = 5
-        dip = 6
-        mil = 4
-    }
+  heir = {
+    name = "约瑟夫"  # Josef
+    monarch_name = "约瑟夫 II"  # Josef II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1741.3.13
+    death_date = 1790.2.20
+    claim = 95
+    adm = 5
+    dip = 6
+    mil = 4
+  }
 }
 1743.1.1 = {
-    leader = {
-        name = "弗朗茨 冯 莱西"  # Franz von Lacy
-        type = general
-        fire = 4
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1801.11.24
-    }
+  leader = {
+    name = "弗朗茨 冯 莱西"  # Franz von Lacy
+    Lacy"type = "
+    generalfire = "
+    4shock = "
+    4manuever = "
+    4siege = "
+    0death_date = 1801.11.24
+  }
 }
 1750.1.1 = {
-    set_global_flag = ivory_shortage_happened
-    set_global_flag = perfume_industry
-    change_price = {
-        trade_goods = ivory
-        key = IVORY_SHORTAGE
-        value = 0.25
-        duration = -1
-    }
-    change_price = {
-        trade_goods = incense
-        key = GROWTH_OF_PERFUME_BUSINESS
-        value = 0.35
-        duration = -1
-    }
+  set_global_flag = ivory_shortage_happened
+  set_global_flag = perfume_industry
+  change_price = {
+    trade_goods = ivory
+    key = IVORY_SHORTAGE
+    value = 0.25
+    duration = -1
+  }
+  change_price = {
+    trade_goods = incense
+    key = GROWTH_OF_PERFUME_BUSINESS
+    value = 0.35
+    duration = -1
+  }
 }
 1760.1.1 = {
-    leader = {
-        name = "纳达西"  # Nadasy
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1785.1.1
-    }
+  leader = {
+    name = "纳达西"  # Nadasy
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1785.1.1
+  }
 }
 1780.1.1 = {
-    leader = {
-        name = "约泽夫 阿尔文奇齐"  # Jozsef Alvintzy
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1810.9.25
-    }
+  leader = {
+    name = "约泽夫 阿尔文奇齐"  # Jozsef Alvintzy
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1810.9.25
+  }
 }
 1780.11.30 = {
-    monarch = {
-        name = "约瑟夫 II"  # Josef II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1741.3.13
-        adm = 5
-        dip = 6
-        mil = 4
-    }
+  monarch = {
+    name = "约瑟夫 II"  # Josef II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1741.3.13
+    adm = 5
+    dip = 6
+    mil = 4
+  }
 }
 1780.11.30 = {
-    heir = {
-        name = "利奥波德"  # Leopold
-        monarch_name = "利奥波德 II"  # Leopold II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1747.5.5
-        death_date = 1792.3.1
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "利奥波德"  # Leopold
+    monarch_name = "利奥波德 II"  # Leopold II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1747.5.5
+    death_date = 1792.3.1
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 2
+  }
 }
 1785.1.1 = {
-    leader = {
-        name = "马克"  # Mack
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 2
-        siege = 0
-        death_date = 1828.1.1
-    }
+  leader = {
+    name = "马克"  # Mack
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    2siege = "
+    0death_date = 1828.1.1
+  }
 }
 1789.1.1 = {
-    leader = {
-        name = "冯 维尔姆泽"  # von Wurmser
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1797.1.1
-    }
+  leader = {
+    name = "冯 维尔姆泽"  # von Wurmser
+    type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1797.1.1
+  }
 }
 1790.1.1 = {
-    set_global_flag = abolitionism_happened
-    change_price = {
-        trade_goods = slaves
-        key = ABOLITIONISM
-        value = -0.4
-        duration = -1
-    }
+  set_global_flag = abolitionism_happened
+  change_price = {
+    trade_goods = slaves
+    key = ABOLITIONISM
+    value = -0.4
+    duration = -1
+  }
 }
 1790.2.20 = {
-    monarch = {
-        name = "利奥波德 II"  # Leopold II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1747.5.5
-        adm = 3
-        dip = 2
-        mil = 2
-    }
-    queen = {
-        country_of_origin = SPA
-        name = "玛丽 路易莎"  # Maria Luisa
-        dynasty = "德 波旁"  # de Bourbon
-        birth_date = 1745.9.24
-        death_date = 1792.5.15
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "利奥波德 II"  # Leopold II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1747.5.5
+    adm = 3
+    dip = 2
+    mil = 2
+  }
+  queen = {
+    country_of_origin = SPA
+    name = "玛丽 路易莎"  # Maria Luisa
+    dynasty = "德 波旁"  # de Bourbon
+    birth_date = 1745.9.24
+    death_date = 1792.5.15
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 1
+  }
 }
 1790.2.20 = {
-    heir = {
-        name = "弗朗茨"  # Franz
-        monarch_name = "弗朗茨 II"  # Franz II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1768.2.12
-        death_date = 1835.3.2
-        claim = 95
-        adm = 2
-        dip = 4
-        mil = 2
-    }
+  heir = {
+    name = "弗朗茨"  # Franz
+    monarch_name = "弗朗茨 II"  # Franz II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1768.2.12
+    death_date = 1835.3.2
+    claim = 95
+    adm = 2
+    dip = 4
+    mil = 2
+  }
 }
 1792.1.1 = {
-    leader = {
-        name = "卡尔大公"  # Erzherzog Karl
-        type = general
-        fire = 5
-        shock = 4
-        manuever = 4
-        siege = 1
-        death_date = 1840.1.1
-    }
+  leader = {
+    name = "卡尔大公"  # Erzherzog Karl
+    type = "
+    generalfire = "
+    5shock = "
+    4manuever = "
+    4siege = "
+    1death_date = 1840.1.1
+  }
 }
 1792.3.3 = {
-    monarch = {
-        name = "弗朗茨 II"  # Franz II
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1768.2.12
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-    queen = {
-        country_of_origin = NAP
-        name = "玛丽亚 特雷莎"  # Maria Theresa
-        dynasty = "德 波旁"  # de Bourbon
-        birth_date = 1772.6.6
-        death_date = 1807.3.2
-        female = yes
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "弗朗茨 II"  # Franz II
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1768.2.12
+    adm = 2
+    dip = 4
+    mil = 2
+  }
+  queen = {
+    country_of_origin = NAP
+    name = "玛丽亚 特雷莎"  # Maria Theresa
+    dynasty = "德 波旁"  # de Bourbon
+    birth_date = 1772.6.6
+    death_date = 1807.3.2
+    female = yes
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1793.4.19 = {
-    heir = {
-        name = "斐迪南"  # Ferdinand
-        monarch_name = "斐迪南 I"  # Ferdinand I
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1793.4.19
-        death_date = 1875.6.29
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 2
-    }
+  heir = {
+    name = "斐迪南"  # Ferdinand
+    monarch_name = "斐迪南 I"  # Ferdinand I
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1793.4.19
+    death_date = 1875.6.29
+    claim = 95
+    adm = 3
+    dip = 4
+    mil = 2
+  }
 }
 1799.1.1 = {
-    leader = {
-        name = "米夏埃尔 冯 梅拉斯"  # Michael von Melas
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 1
-        death_date = 1803.1.1
-    }
+  leader = {
+    name = "米夏埃尔 冯 梅拉斯"  # Michael von Melas
+    Melas"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    1death_date = 1803.1.1
+  }
 }
 1800.1.1 = {
-    leader = {
-        name = "约翰大公"  # Erzherzog Johann
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1859.1.1
-    }
+  leader = {
+    name = "约翰大公"  # Erzherzog Johann
+    type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    2siege = "
+    0death_date = 1859.1.1
+  }
 }
 1805.1.1 = {
-    leader = {
-        name = "施瓦岑贝格"  # Schwarzenberg
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1817.1.1
-    }
+  leader = {
+    name = "施瓦岑贝格"  # Schwarzenberg
+    type = "
+    generalfire = "
+    3shock = "
+    4manuever = "
+    4siege = "
+    0death_date = 1817.1.1
+  }
 }
 1808.1.6 = {
-    queen = {
-        country_of_origin = HAB
-        name = "玛丽亚 特雷莎"  # Maria Theresa
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1787.12.14
-        death_date = 1816.4.7
-        female = yes
-        adm = 4
-        dip = 5
-        mil = 2
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "玛丽亚 特雷莎"  # Maria Theresa
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1787.12.14
+    death_date = 1816.4.7
+    female = yes
+    adm = 4
+    dip = 5
+    mil = 2
+  }
 }
 1816.10.29 = {
-    queen = {
-        country_of_origin = BAV
-        name = "卡罗琳 奥古斯塔"  # Caroline Augusta
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1792.2.8
-        death_date = 1835.3.2
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 1
-    }
+  queen = {
+    country_of_origin = BAV
+    name = "卡罗琳 奥古斯塔"  # Caroline Augusta
+    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
+    birth_date = 1792.2.8
+    death_date = 1835.3.2
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 1
+  }
 }

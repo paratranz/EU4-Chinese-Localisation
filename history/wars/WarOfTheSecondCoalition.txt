@@ -1,277 +1,277 @@
 ﻿name = "第二次反法同盟战争"  # War of the Second Coalition
 war_goal = {
-    type = superiority_revolution
-    casus_belli = cb_spread_the_revolution
-    tag = GBR
+  type = superiority_revolution
+  casus_belli = cb_spread_the_revolution
+  tag = GBR
 }
 1797.10.18 = {
-    add_attacker = FRA
-    add_attacker = SPA
-    add_defender = GBR
-    add_defender = POR
+  add_attacker = FRA
+  add_attacker = SPA
+  add_defender = GBR
+  add_defender = POR
 }
 1798.1.1 = {
-    add_defender = KOL
+  add_defender = KOL
 }
 1798.3.5 = {
-    add_defender = SWI
+  add_defender = SWI
 }
 1798.6.9 = {
-    add_defender = KNI
+  add_defender = KNI
 }
 1798.7.2 = {
-    add_defender = TUR
+  add_defender = TUR
 }
 1798.12.24 = {
-    add_defender = NAP
-    add_defender = RUS
-    add_defender = HAB
+  add_defender = NAP
+  add_defender = RUS
+  add_defender = HAB
 }
 1799.1.1 = {
-    add_defender = BAV
+  add_defender = BAV
 }
 1799.3.25 = {
-    battle = {
-        name = "斯托卡什"  # Stockash
-        location = 69
-        attacker = {
-            commander = "让-巴普蒂斯 儒尔当"  # Jean-Baptiste Jourdan
-            infantry = 40000
-            losses = 10
-            country = FRA
-        }
-        defender = {
-            commander = "查尔斯大公"  # Archduke Charles
-            infantry = 60000
-            losses = 5
-            country = HAB
-        }
-        result = no
+  battle = {
+    name = "斯托卡什"  # Stockash
+    location = 69
+    attacker = {
+      commander = "让-巴普蒂斯 儒尔当"  # Jean-Baptiste Jourdan
+      infantry = 40000
+      losses = 10
+      country = FRA
     }
+    defender = {
+      commander = "查尔斯大公"  # Archduke Charles
+      infantry = 60000
+      losses = 5
+      country = HAB
+    }
+    result = no
+  }
 }
 1799.4.16 = {
-    battle = {
-        name = "塔博尔"  # Tabor
-        location = 379
-        attacker = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 4000
-            losses = 1
-            country = FRA
-        }
-        defender = {
-            commander = "艾哈迈德 巴沙 贾扎"  # Ahmad Basha al-Jazzar
-            infantry = 25000
-            losses = 1
-            country = TUR
-        }
-        result = yes
+  battle = {
+    name = "塔博尔"  # Tabor
+    location = 379
+    attacker = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 4000
+      losses = 1
+      country = FRA
     }
+    defender = {
+      commander = "艾哈迈德 巴沙 贾扎"  # Ahmad Basha al-Jazzar
+      infantry = 25000
+      losses = 1
+      country = TUR
+    }
+    result = yes
+  }
 }
 1799.4.27 = {
-    battle = {
-        name = "卡萨诺"  # Cassano
-        location = 104
-        attacker = {
-            commander = "莫罗将军"  # General Moreau
-            infantry = 35000
-            losses = 6
-            country = FRA
-        }
-        defender = {
-            commander = "亚历山大 苏沃洛夫"  # Alexander Suvorov
-            infantry = 36000
-            losses = 3
-            country = RUS
-        }
-        result = no
+  battle = {
+    name = "卡萨诺"  # Cassano
+    location = 104
+    attacker = {
+      commander = "莫罗将军"  # General Moreau
+      infantry = 35000
+      losses = 6
+      country = FRA
     }
+    defender = {
+      commander = "亚历山大 苏沃洛夫"  # Alexander Suvorov
+      infantry = 36000
+      losses = 3
+      country = RUS
+    }
+    result = no
+  }
 }
 1799.6.4 = {
-    battle = {
-        name = "苏黎世"  # Zürich
-        location = 166
-        attacker = {
-            commander = "安德烈 马塞纳"  # André Masséna
-            infantry = 30000
-            losses = 6
-            country = FRA
-        }
-        defender = {
-            commander = "查尔斯大公"  # Archduke Charles
-            infantry = 40000
-            losses = 9
-            country = HAB
-        }
-        result = no
+  battle = {
+    name = "苏黎世"  # Zürich
+    location = 166
+    attacker = {
+      commander = "安德烈 马塞纳"  # André Masséna
+      infantry = 30000
+      losses = 6
+      country = FRA
     }
+    defender = {
+      commander = "查尔斯大公"  # Archduke Charles
+      infantry = 40000
+      losses = 9
+      country = HAB
+    }
+    result = no
+  }
 }
 1799.6.17 = {
-    battle = {
-        name = "特雷比亚河"  # Trebbia
-        location = 105
-        attacker = {
-            commander = "埃蒂安 麦克唐纳"  # Étienne MacDonald
-            infantry = 33500
-            losses = 5
-            country = FRA
-        }
-        defender = {
-            commander = "亚历山大 苏沃罗夫"  # Alexander Suvorov
-            infantry = 33000
-            losses = 18
-            country = RUS
-        }
-        result = no
+  battle = {
+    name = "特雷比亚河"  # Trebbia
+    location = 105
+    attacker = {
+      commander = "埃蒂安 麦克唐纳"  # Étienne MacDonald
+      infantry = 33500
+      losses = 5
+      country = FRA
     }
+    defender = {
+      commander = "亚历山大 苏沃罗夫"  # Alexander Suvorov
+      infantry = 33000
+      losses = 18
+      country = RUS
+    }
+    result = no
+  }
 }
 1799.8.1 = {
-    add_attacker = NED
+  add_attacker = NED
 }
 1799.8.15 = {
-    battle = {
-        name = "法案"  # Novi
-        location = 103
-        attacker = {
-            commander = "巴泰勒米 卡特林 儒贝尔"  # Barthélemy Catherine Joubert
-            infantry = 35000
-            artillery = 20
-            losses = 35
-            country = FRA
-        }
-        defender = {
-            commander = "亚历山大 苏沃洛夫"  # Alexander Suvorov
-            infantry = 51500
-            artillery = 25
-            losses = 16
-            country = RUS
-        }
-        result = no
+  battle = {
+    name = "法案"  # Novi
+    location = 103
+    attacker = {
+      commander = "巴泰勒米 卡特林 儒贝尔"  # Barthélemy Catherine Joubert
+      infantry = 35000
+      artillery = 20
+      losses = 35
+      country = FRA
     }
+    defender = {
+      commander = "亚历山大 苏沃洛夫"  # Alexander Suvorov
+      infantry = 51500
+      artillery = 25
+      losses = 16
+      country = RUS
+    }
+    result = no
+  }
 }
 1799.9.25 = {
-    battle = {
-        name = "苏黎世"  # Zürich
-        location = 166
-        attacker = {
-            commander = "安德烈 马塞纳"  # André Masséna
-            infantry = 75000
-            losses = 20
-            country = FRA
-        }
-        defender = {
-            commander = "亚历山大 苏沃洛夫"  # Alexander Suvorov
-            infantry = 60000
-            losses = 37
-            country = RUS
-        }
-        result = yes
+  battle = {
+    name = "苏黎世"  # Zürich
+    location = 166
+    attacker = {
+      commander = "安德烈 马塞纳"  # André Masséna
+      infantry = 75000
+      losses = 20
+      country = FRA
     }
+    defender = {
+      commander = "亚历山大 苏沃洛夫"  # Alexander Suvorov
+      infantry = 60000
+      losses = 37
+      country = RUS
+    }
+    result = yes
+  }
 }
 1800.1.1 = {
-    rem_defender = KNI
+  rem_defender = KNI
 }
 1800.4.6 = {
-    battle = {
-        name = "热那亚"  # Genoa
-        location = 101
-        attacker = {
-            commander = "安德烈 马塞纳"  # André Masséna
-            infantry = 18000
-            losses = 60
-            country = FRA
-        }
-        defender = {
-            commander = "米夏埃尔 冯 梅拉斯"  # Michael von Melas
-            infantry = 40000
-            losses = 43
-            country = HAB
-        }
-        result = no
+  battle = {
+    name = "热那亚"  # Genoa
+    location = 101
+    attacker = {
+      commander = "安德烈 马塞纳"  # André Masséna
+      infantry = 18000
+      losses = 60
+      country = FRA
     }
+    defender = {
+      commander = "米夏埃尔 冯 梅拉斯"  # Michael von Melas
+      infantry = 40000
+      losses = 43
+      country = HAB
+    }
+    result = no
+  }
 }
 1800.6.14 = {
-    battle = {
-        name = "马伦哥"  # Marengo
-        location = 103
-        attacker = {
-            commander = "拿破仑 波拿巴"  # Napoleon Bonaparte
-            infantry = 28000
-            artillery = 25
-            losses = 4
-            country = FRA
-        }
-        defender = {
-            commander = "米夏埃尔 冯 梅拉斯"  # Michael von Melas
-            infantry = 31000
-            artillery = 100
-            losses = 3
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "马伦哥"  # Marengo
+    location = 103
+    attacker = {
+      commander = "拿破仑 波拿巴"  # Napoleon Bonaparte
+      infantry = 28000
+      artillery = 25
+      losses = 4
+      country = FRA
     }
+    defender = {
+      commander = "米夏埃尔 冯 梅拉斯"  # Michael von Melas
+      infantry = 31000
+      artillery = 100
+      losses = 3
+      country = HAB
+    }
+    result = yes
+  }
 }
 1800.12.3 = {
-    battle = {
-        name = "霍恩林登"  # Hohenlinden
-        location = 65
-        attacker = {
-            commander = "让 维克多 马里 莫罗"  # Jean Victor Marie Moreau
-            infantry = 56000
-            artillery = 25
-            losses = 11
-            country = FRA
-        }
-        defender = {
-            commander = "奥地利的约翰"  # Johann of Austria
-            infantry = 64000
-            artillery = 100
-            losses = 13
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "霍恩林登"  # Hohenlinden
+    location = 65
+    attacker = {
+      commander = "让 维克多 马里 莫罗"  # Jean Victor Marie Moreau
+      infantry = 56000
+      artillery = 25
+      losses = 11
+      country = FRA
     }
+    defender = {
+      commander = "奥地利的约翰"  # Johann of Austria
+      infantry = 64000
+      artillery = 100
+      losses = 13
+      country = HAB
+    }
+    result = yes
+  }
 }
 1801.2.9 = {
-    rem_defender = HAB
-    rem_defender = SWI
-    rem_defender = KOL
-    rem_defender = BAV
+  rem_defender = HAB
+  rem_defender = SWI
+  rem_defender = KOL
+  rem_defender = BAV
 }
 1801.3.8 = {
-    battle = {
-        name = "阿布吉尔"  # Abukir
-        location = 358
-        attacker = {
-            commander = "路易 弗里安"  # Louis Friant
-            infantry = 5000
-            losses = 25
-            country = FRA
-        }
-        defender = {
-            commander = "拉尔夫 阿伯克隆比"  # Ralph Abercromby
-            infantry = 2000
-            losses = 55
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "阿布吉尔"  # Abukir
+    location = 358
+    attacker = {
+      commander = "路易 弗里安"  # Louis Friant
+      infantry = 5000
+      losses = 25
+      country = FRA
     }
+    defender = {
+      commander = "拉尔夫 阿伯克隆比"  # Ralph Abercromby
+      infantry = 2000
+      losses = 55
+      country = GBR
+    }
+    result = no
+  }
 }
 1801.3.18 = {
-    rem_defender = NAP
+  rem_defender = NAP
 }
 1801.9.1 = {
-    rem_defender = POR
+  rem_defender = POR
 }
 1801.10.8 = {
-    rem_defender = RUS
+  rem_defender = RUS
 }
 1802.3.25 = {
-    rem_defender = GBR
-    rem_attacker = SPA
-    rem_attacker = NED
+  rem_defender = GBR
+  rem_attacker = SPA
+  rem_attacker = NED
 }
 1802.10.1 = {
-    rem_attacker = FRA
-    rem_defender = TUR
+  rem_attacker = FRA
+  rem_defender = TUR
 }

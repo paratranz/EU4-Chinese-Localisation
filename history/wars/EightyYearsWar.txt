@@ -1,101 +1,101 @@
 ﻿name = "八十年战争"  # Eighty Years War
 war_goal = {
-    type = defend_capital_independence
-    casus_belli = cb_independence_war
-    tag = NED
+  type = defend_capital_independence
+  casus_belli = cb_independence_war
+  tag = NED
 }
 1579.1.23 = {
-    add_attacker = SPA
-    add_defender = NED
+  add_attacker = SPA
+  add_defender = NED
 }
 1597.1.23 = {
-    battle = {
-        name = "蒂尔瑙特"  # Turnhout
-        location = 90
-        attacker = {
-            commander = "瓦拉克斯"  # Varax
-            infantry = 4600
-            cavalry = 550
-            artillery = 5
-            losses = 38
-            country = SPA
-        }
-        defender = {
-            commander = "毛里茨 德 拿骚"  # Maurice de Nassau
-            infantry = 5900
-            cavalry = 820
-            artillery = 5
-            losses = 1
-            country = NED
-        }
-        result = no
+  battle = {
+    name = "蒂尔瑙特"  # Turnhout
+    location = 90
+    attacker = {
+      commander = "瓦拉克斯"  # Varax
+      infantry = 4600
+      cavalry = 550
+      artillery = 5
+      losses = 38
+      country = SPA
     }
+    defender = {
+      commander = "毛里茨 德 拿骚"  # Maurice de Nassau
+      infantry = 5900
+      cavalry = 820
+      artillery = 5
+      losses = 1
+      country = NED
+    }
+    result = no
+  }
 }
 1600.7.2 = {
-    battle = {
-        name = "尼乌波尔特"  # Nieuwpoort
-        location = 90
-        attacker = {
-            commander = "阿尔布雷希特"  # Albrecht
-            infantry = 6000
-            cavalry = 1200
-            artillery = 10
-            losses = 36
-            country = SPA
-        }
-        defender = {
-            commander = "拿骚的莫里斯"  # Maurits of Nassau
-            infantry = 9000
-            cavalry = 1500
-            artillery = 15
-            losses = 15
-            country = NED
-        }
-        result = no
+  battle = {
+    name = "尼乌波尔特"  # Nieuwpoort
+    location = 90
+    attacker = {
+      commander = "阿尔布雷希特"  # Albrecht
+      infantry = 6000
+      cavalry = 1200
+      artillery = 10
+      losses = 36
+      country = SPA
     }
+    defender = {
+      commander = "拿骚的莫里斯"  # Maurits of Nassau
+      infantry = 9000
+      cavalry = 1500
+      artillery = 15
+      losses = 15
+      country = NED
+    }
+    result = no
+  }
 }
 1607.4.25 = {
-    battle = {
-        name = "直布罗陀"  # Gibraltar
-        location = 1293
-        attacker = {
-            commander = "胡安 阿尔瓦雷斯 德 阿维拉"  # Juan Álvarez de Ávila
-            heavy_ship = 10
-            light_ship = 11
-            losses = 100
-            country = SPA
-        }
-        defender = {
-            commander = "雅各布 范 海姆斯科尔克"  # Jacob van Heemskerk
-            light_ship = 26
-            losses = 2
-            country = NED
-        }
-        result = no
+  battle = {
+    name = "直布罗陀"  # Gibraltar
+    location = 1293
+    attacker = {
+      commander = "胡安 阿尔瓦雷斯 德 阿维拉"  # Juan Álvarez de Ávila
+      heavy_ship = 10
+      light_ship = 11
+      losses = 100
+      country = SPA
     }
+    defender = {
+      commander = "雅各布 范 海姆斯科尔克"  # Jacob van Heemskerk
+      light_ship = 26
+      losses = 2
+      country = NED
+    }
+    result = no
+  }
 }
 1639.10.31 = {
-    battle = {
-        name = "唐斯"  # Downs
-        location = 1271
-        attacker = {
-            commander = "安东尼奥 德 奥肯多"  # Antonio de Oquendo
-            heavy_ship = 60
-            light_ship = 10
-            losses = 86
-            country = SPA
-        }
-        defender = {
-            commander = "马尔滕 特龙普"  # Maarten Tromp
-            heavy_ship = 60
-            light_ship = 70
-            losses = 1
-            country = NED
-        }
-        result = no
+  battle = {
+    name = "唐斯"  # Downs
+    location = 1271
+    attacker = {
+      commander = "安东尼奥 德 奥肯多"  # Antonio de Oquendo
+      heavy_ship = 60
+      light_ship = 10
+      losses = 86
+      country = SPA
     }
+    defender = {
+      commander = "马尔滕 特龙普"  # Maarten Tromp
+      heavy_ship = 60
+      light_ship = 70
+      losses = 1
+      country = NED
+    }
+    result = no
+  }
 }
 1648.1.30 = {
-    rem_attacker = SPA
-    rem_defender = NED
+  rem_attacker = SPA
+  rem_defender = NED
 }

@@ -1,39 +1,39 @@
 ﻿name = "第一次奥斯曼-匈牙利战争"  # First Ottoman-Hungarian War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 156
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 156
 }
 1453.1.1 = {
-    add_attacker = TUR
-    add_attacker = WAL
-    add_defender = HUN
-    add_defender = SER
+  add_attacker = TUR
+  add_attacker = WAL
+  add_defender = HUN
+  add_defender = SER
 }
 1456.7.14 = {
-    battle = {
-        name = "贝尔格莱德"  # Belgrade
-        location = 141
-        attacker = {
-            commander = "穆罕默德 II"  # Mehmet II
-            infantry = 50000
-            cavalry = 10000
-            losses = 50
-            country = TUR
-        }
-        defender = {
-            commander = "匈雅提 亚诺什"  # Hunyadi János
-            infantry = 40000
-            cavalry = 10000
-            losses = 10
-            country = HUN
-        }
-        result = no
+  battle = {
+    name = "贝尔格莱德"  # Belgrade
+    location = 141
+    attacker = {
+      commander = "穆罕默德 II"  # Mehmet II
+      infantry = 50000
+      cavalry = 10000
+      losses = 50
+      country = TUR
     }
+    defender = {
+      commander = "匈雅提 亚诺什"  # Hunyadi János
+      infantry = 40000
+      cavalry = 10000
+      losses = 10
+      country = HUN
+    }
+    result = no
+  }
 }
 1456.7.23 = {
-    rem_attacker = TUR
-    rem_attacker = WAL
-    rem_defender = HUN
-    rem_defender = SER
+  rem_attacker = TUR
+  rem_attacker = WAL
+  rem_defender = HUN
+  rem_defender = SER
 }

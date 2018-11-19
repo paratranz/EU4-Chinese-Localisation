@@ -1,222 +1,222 @@
 ﻿name = "1812年战争"  # War of 1812
 war_goal = {
-    type = superiority_trade_mutual
-    casus_belli = cb_trade_war
+  type = superiority_trade_mutual
+  casus_belli = cb_trade_war
 }
 1812.6.18 = {
-    add_attacker = USA
-    add_defender = GBR
+  add_attacker = USA
+  add_defender = GBR
 }
 1812.8.15 = {
-    battle = {
-        name = "底特律"  # Detroit
-        location = 944
-        attacker = {
-            commander = "威廉 赫尔"  # William Hull
-            infantry = 2500
-            losses = 1
-            country = USA
-        }
-        defender = {
-            commander = "艾萨克 布洛克"  # Isaac Brock
-            infantry = 1250
-            losses = 1
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "底特律"  # Detroit
+    location = 944
+    attacker = {
+      commander = "威廉 赫尔"  # William Hull
+      infantry = 2500
+      losses = 1
+      country = USA
     }
+    defender = {
+      commander = "艾萨克 布洛克"  # Isaac Brock
+      infantry = 1250
+      losses = 1
+      country = GBR
+    }
+    result = no
+  }
 }
 1812.10.13 = {
-    battle = {
-        name = "皇后镇高地"  # Queenston Heights
-        location = 986
-        attacker = {
-            commander = "斯蒂芬 范 伦塞勒"  # Stephen Van Rensselaer
-            infantry = 1500
-            losses = 2
-            country = USA
-        }
-        defender = {
-            commander = "艾萨克 布洛克"  # Isaac Brock
-            infantry = 1300
-            losses = 1
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "皇后镇高地"  # Queenston Heights
+    location = 986
+    attacker = {
+      commander = "斯蒂芬 范 伦塞勒"  # Stephen Van Rensselaer
+      infantry = 1500
+      losses = 2
+      country = USA
     }
+    defender = {
+      commander = "艾萨克 布洛克"  # Isaac Brock
+      infantry = 1300
+      losses = 1
+      country = GBR
+    }
+    result = no
+  }
 }
 1812.11.20 = {
-    battle = {
-        name = "拉科勒 米尔斯"  # Lacolle Mills
-        location = 994
-        attacker = {
-            commander = "亨利 迪尔伯恩"  # Henry Dearborn
-            infantry = 600
-            losses = 2
-            country = USA
-        }
-        defender = {
-            commander = "查尔斯 德 德萨拉贝利"  # Charles de Salaberry
-            infantry = 500
-            losses = 0
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "拉科勒 米尔斯"  # Lacolle Mills
+    location = 994
+    attacker = {
+      commander = "亨利 迪尔伯恩"  # Henry Dearborn
+      infantry = 600
+      losses = 2
+      country = USA
     }
+    defender = {
+      commander = "查尔斯 德 德萨拉贝利"  # Charles de Salaberry
+      infantry = 500
+      losses = 0
+      country = GBR
+    }
+    result = no
+  }
 }
 1813.2.22 = {
-    battle = {
-        name = "奥格登斯堡"  # Ogdensburg
-        location = 964
-        attacker = {
-            commander = "本杰明 福赛斯"  # Benjamin Forsyth
-            infantry = 250
-            losses = 36
-            country = USA
-        }
-        defender = {
-            commander = "乔治 麦克唐纳"  # George MacDonnell
-            infantry = 500
-            losses = 11
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "奥格登斯堡"  # Ogdensburg
+    location = 964
+    attacker = {
+      commander = "本杰明 福赛斯"  # Benjamin Forsyth
+      infantry = 250
+      losses = 36
+      country = USA
     }
+    defender = {
+      commander = "乔治 麦克唐纳"  # George MacDonnell
+      infantry = 500
+      losses = 11
+      country = GBR
+    }
+    result = no
+  }
 }
 1813.4.27 = {
-    battle = {
-        name = "约克"  # York
-        location = 986
-        attacker = {
-            commander = "泽伦 派克"  # Zebulon Pike 
-            infantry = 2000
-            losses = 16
-            country = USA
-        }
-        defender = {
-            commander = "罗杰 谢弗"  # Roger Sheaffe
-            infantry = 700
-            losses = 21
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "约克"  # York
+    location = 986
+    attacker = {
+      commander = "泽伦 派克"  # Zebulon Pike 
+      infantry = 2000
+      losses = 16
+      country = USA
     }
+    defender = {
+      commander = "罗杰 谢弗"  # Roger Sheaffe
+      infantry = 700
+      losses = 21
+      country = GBR
+    }
+    result = no
+  }
 }
 1813.6.6 = {
-    battle = {
-        name = "斯通尼 克里克"  # Stoney Creek
-        location = 987
-        attacker = {
-            commander = "乔治 钱德勒"  # John Chandler
-            infantry = 3400
-            losses = 2
-            country = USA
-        }
-        defender = {
-            commander = "乔治 文森特"  # John Vincent
-            infantry = 700
-            losses = 3
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "斯通尼 克里克"  # Stoney Creek
+    location = 987
+    attacker = {
+      commander = "乔治 钱德勒"  # John Chandler
+      infantry = 3400
+      losses = 2
+      country = USA
     }
+    defender = {
+      commander = "乔治 文森特"  # John Vincent
+      infantry = 700
+      losses = 3
+      country = GBR
+    }
+    result = no
+  }
 }
 1813.10.25 = {
-    battle = {
-        name = "夏杜盖"  # Chateauguay
-        location = 994
-        attacker = {
-            commander = "韦德 汉普顿"  # Wade Hampton
-            infantry = 4000
-            losses = 1
-            country = USA
-        }
-        defender = {
-            commander = "查尔斯 德 德萨拉贝利"  # Charles de Salaberry
-            infantry = 570
-            losses = 1
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "夏杜盖"  # Chateauguay
+    location = 994
+    attacker = {
+      commander = "韦德 汉普顿"  # Wade Hampton
+      infantry = 4000
+      losses = 1
+      country = USA
     }
+    defender = {
+      commander = "查尔斯 德 德萨拉贝利"  # Charles de Salaberry
+      infantry = 570
+      losses = 1
+      country = GBR
+    }
+    result = no
+  }
 }
 1813.11.11 = {
-    battle = {
-        name = "克莱斯勒农场"  # Crysler's farm
-        location = 989
-        attacker = {
-            commander = "詹姆斯 威尔金森"  # James Wilkinson
-            infantry = 2500
-            losses = 1
-            country = USA
-        }
-        defender = {
-            commander = "威廉 马尔卡斯特"  # William Mulcaster
-            infantry = 800
-            losses = 4
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "克莱斯勒农场"  # Crysler's farm
+    location = 989
+    attacker = {
+      commander = "詹姆斯 威尔金森"  # James Wilkinson
+      infantry = 2500
+      losses = 1
+      country = USA
     }
+    defender = {
+      commander = "威廉 马尔卡斯特"  # William Mulcaster
+      infantry = 800
+      losses = 4
+      country = GBR
+    }
+    result = no
+  }
 }
 1814.7.5 = {
-    battle = {
-        name = "奇珀瓦"  # Chippawa
-        location = 987
-        attacker = {
-            commander = "雅格 布朗"  # Jacob Brown
-            infantry = 3500
-            losses = 2
-            country = USA
-        }
-        defender = {
-            commander = "菲内亚斯 里尔"  # Phineas Riall
-            infantry = 2000
-            losses = 7
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "奇珀瓦"  # Chippawa
+    location = 987
+    attacker = {
+      commander = "雅格 布朗"  # Jacob Brown
+      infantry = 3500
+      losses = 2
+      country = USA
     }
+    defender = {
+      commander = "菲内亚斯 里尔"  # Phineas Riall
+      infantry = 2000
+      losses = 7
+      country = GBR
+    }
+    result = no
+  }
 }
 1814.8.24 = {
-    battle = {
-        name = "布拉登斯堡"  # Bladensburg
-        location = 953
-        attacker = {
-            commander = "威廉 H 温德尔"  # William H. Winder
-            infantry = 4500
-            losses = 1
-            country = USA
-        }
-        defender = {
-            commander = "罗伯特 罗斯"  # Robert Ross
-            infantry = 7000
-            losses = 1
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "布拉登斯堡"  # Bladensburg
+    location = 953
+    attacker = {
+      commander = "威廉 H 温德尔"  # William H. Winder
+      infantry = 4500
+      losses = 1
+      country = USA
     }
+    defender = {
+      commander = "罗伯特 罗斯"  # Robert Ross
+      infantry = 7000
+      losses = 1
+      country = GBR
+    }
+    result = no
+  }
 }
 1814.9.6 = {
-    battle = {
-        name = "普拉茨堡"  # Plattsburgh
-        location = 964
-        attacker = {
-            commander = "托马斯 麦克多诺"  # Thomas MacDonough
-            infantry = 3400
-            losses = 6
-            country = USA
-        }
-        defender = {
-            commander = "乔治 普雷沃斯特"  # George Prevost
-            infantry = 11000
-            losses = 3
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "普拉茨堡"  # Plattsburgh
+    location = 964
+    attacker = {
+      commander = "托马斯 麦克多诺"  # Thomas MacDonough
+      infantry = 3400
+      losses = 6
+      country = USA
     }
+    defender = {
+      commander = "乔治 普雷沃斯特"  # George Prevost
+      infantry = 11000
+      losses = 3
+      country = GBR
+    }
+    result = no
+  }
 }
 1814.12.24 = {
-    rem_attacker = USA
-    rem_defender = GBR
+  rem_attacker = USA
+  rem_defender = GBR
 }

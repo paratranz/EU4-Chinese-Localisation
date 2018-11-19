@@ -1,264 +1,264 @@
 ﻿name = "大北方战争"  # Great Nordic War
 war_goal = {
-    type = superiority_punitive
-    casus_belli = cb_super_badboy
-    province = 1
+  type = superiority_punitive
+  casus_belli = cb_super_badboy
+  province = 1
 }
 1699.12.10 = {
-    add_attacker = DAN
-    add_attacker = RUS
-    add_attacker = PLC
-    add_attacker = KUR
-    add_attacker = SAX
-    add_defender = SWE
+  add_attacker = DAN
+  add_attacker = RUS
+  add_attacker = PLC
+  add_attacker = KUR
+  add_attacker = SAX
+  add_defender = SWE
 }
 1700.8.18 = {
-    rem_attacker = DAN
+  rem_attacker = DAN
 }
 1700.11.20 = {
-    battle = {
-        name = "纳尔瓦"  # Narva
-        location = 33
-        attacker = {
-            commander = "彼得大帝"  # Peter the Great
-            infantry = 30000
-            cavalry = 10000
-            losses = 45
-            country = RUS
-        }
-        defender = {
-            commander = "卡尔 XII"  # Karl XII
-            infantry = 8500
-            losses = 10
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "纳尔瓦"  # Narva
+    location = 33
+    attacker = {
+      commander = "彼得大帝"  # Peter the Great
+      infantry = 30000
+      cavalry = 10000
+      losses = 45
+      country = RUS
     }
+    defender = {
+      commander = "卡尔 XII"  # Karl XII
+      infantry = 8500
+      losses = 10
+      country = SWE
+    }
+    result = no
+  }
 }
 1702.7.19 = {
-    battle = {
-        name = "克利舒夫"  # Kliszow
-        location = 259
-        attacker = {
-            commander = "奥古斯特 II"  # August II
-            infantry = 7500
-            cavalry = 12000
-            losses = 11
-            country = PLC
-        }
-        defender = {
-            commander = "卡尔 XII"  # Karl XII
-            infantry = 7900
-            cavalry = 12000
-            losses = 5
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "克利舒夫"  # Kliszow
+    location = 259
+    attacker = {
+      commander = "奥古斯特 II"  # August II
+      infantry = 7500
+      cavalry = 12000
+      losses = 11
+      country = PLC
     }
+    defender = {
+      commander = "卡尔 XII"  # Karl XII
+      infantry = 7900
+      cavalry = 12000
+      losses = 5
+      country = SWE
+    }
+    result = no
+  }
 }
 1706.2.3 = {
-    battle = {
-        name = "弗劳斯塔德"  # Fraustadt
-        location = 254
-        attacker = {
-            commander = "约翰 马蒂亚斯 冯 德舒伦堡"  # Johann Matthias von der Schulenburg
-            infantry = 8500
-            cavalry = 9000
-            losses = 80
-            country = SAX
-        }
-        defender = {
-            commander = "卡尔 古斯塔夫 雷恩斯基尔德"  # Carl Gustaf Rehnskiöld
-            infantry = 6500
-            cavalry = 4000
-            losses = 4
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "弗劳斯塔德"  # Fraustadt
+    location = 254
+    attacker = {
+      commander = "约翰 马蒂亚斯 冯 德舒伦堡"  # Johann Matthias von der Schulenburg
+      infantry = 8500
+      cavalry = 9000
+      losses = 80
+      country = SAX
     }
+    defender = {
+      commander = "卡尔 古斯塔夫 雷恩斯基尔德"  # Carl Gustaf Rehnskiöld
+      infantry = 6500
+      cavalry = 4000
+      losses = 4
+      country = SWE
+    }
+    result = no
+  }
 }
 1706.9.24 = {
-    rem_attacker = SAX
-    rem_attacker = PLC
+  rem_attacker = SAX
+  rem_attacker = PLC
 }
 1708.7.4 = {
-    battle = {
-        name = "霍洛夫琴"  # Holowczyn
-        location = 276
-        attacker = {
-            commander = "鲍里斯 舍列梅捷夫"  # Boris Sheremetyev
-            infantry = 20000
-            cavalry = 18000
-            losses = 7
-            country = RUS
-        }
-        defender = {
-            commander = "卡尔 XII"  # Karl XII
-            infantry = 8500
-            cavalry = 4500
-            losses = 3
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "霍洛夫琴"  # Holowczyn
+    location = 276
+    attacker = {
+      commander = "鲍里斯 舍列梅捷夫"  # Boris Sheremetyev
+      infantry = 20000
+      cavalry = 18000
+      losses = 7
+      country = RUS
     }
+    defender = {
+      commander = "卡尔 XII"  # Karl XII
+      infantry = 8500
+      cavalry = 4500
+      losses = 3
+      country = SWE
+    }
+    result = no
+  }
 }
 1708.9.28 = {
-    battle = {
-        name = "莱斯纳亚"  # Lesnaya
-        location = 278
-        attacker = {
-            commander = "彼得大帝"  # Peter the Great
-            infantry = 8000
-            cavalry = 5500
-            losses = 9
-            country = RUS
-        }
-        defender = {
-            commander = "亚当 卢德维格 莱文豪普特"  # Adam Ludwig Lewenhaupt
-            infantry = 9000
-            cavalry = 5000
-            losses = 48
-            country = SWE
-        }
-        result = yes
+  battle = {
+    name = "莱斯纳亚"  # Lesnaya
+    location = 278
+    attacker = {
+      commander = "彼得大帝"  # Peter the Great
+      infantry = 8000
+      cavalry = 5500
+      losses = 9
+      country = RUS
     }
+    defender = {
+      commander = "亚当 卢德维格 莱文豪普特"  # Adam Ludwig Lewenhaupt
+      infantry = 9000
+      cavalry = 5000
+      losses = 48
+      country = SWE
+    }
+    result = yes
+  }
 }
 1709.6.28 = {
-    battle = {
-        name = "波尔塔瓦"  # Poltava
-        location = 290
-        attacker = {
-            commander = "彼得大帝"  # Peter the Great
-            infantry = 30000
-            cavalry = 10000
-            artillery = 30
-            losses = 10
-            country = RUS
-        }
-        defender = {
-            commander = "卡尔 XII"  # Karl XII
-            infantry = 15000
-            cavalry = 9000
-            losses = 45
-            country = SWE
-        }
-        result = yes
+  battle = {
+    name = "波尔塔瓦"  # Poltava
+    location = 290
+    attacker = {
+      commander = "彼得大帝"  # Peter the Great
+      infantry = 30000
+      cavalry = 10000
+      artillery = 30
+      losses = 10
+      country = RUS
     }
+    defender = {
+      commander = "卡尔 XII"  # Karl XII
+      infantry = 15000
+      cavalry = 9000
+      losses = 45
+      country = SWE
+    }
+    result = yes
+  }
 }
 1709.8.8 = {
-    add_attacker = SAX
-    add_attacker = PLC
+  add_attacker = SAX
+  add_attacker = PLC
 }
 1709.10.28 = {
-    add_attacker = DAN
+  add_attacker = DAN
 }
 1710.11.10 = {
-    add_defender = TUR
-    add_defender = MOL
+  add_defender = TUR
+  add_defender = MOL
 }
 1711.7.21 = {
-    rem_defender = TUR
-    rem_defender = MOL
+  rem_defender = TUR
+  rem_defender = MOL
 }
 1712.4.1 = {
-    add_attacker = HAN
-    add_attacker = NED
+  add_attacker = HAN
+  add_attacker = NED
 }
 1712.12.9 = {
-    battle = {
-        name = "加德布施"  # Gadebusch
-        location = 45
-        attacker = {
-            commander = "弗雷德里克 IV"  # Frederick IV
-            infantry = 15000
-            cavalry = 2000
-            losses = 10
-            country = DAN
-        }
-        defender = {
-            commander = "马格努斯 斯滕博克"  # Magnus Stenbock
-            infantry = 12500
-            cavalry = 1500
-            losses = 21
-            country = SWE
-        }
-        result = no
+  battle = {
+    name = "加德布施"  # Gadebusch
+    location = 45
+    attacker = {
+      commander = "弗雷德里克 IV"  # Frederick IV
+      infantry = 15000
+      cavalry = 2000
+      losses = 10
+      country = DAN
     }
+    defender = {
+      commander = "马格努斯 斯滕博克"  # Magnus Stenbock
+      infantry = 12500
+      cavalry = 1500
+      losses = 21
+      country = SWE
+    }
+    result = no
+  }
 }
 1714.7.27 = {
-    battle = {
-        name = "里拉克斯战役"  # Slaget vid Rilax
-        location = 1254
-        attacker = {
-            commander = "费奥多尔 阿普拉克辛"  # Fyodor Apraksin
-            galley = 80
-            light_ship = 10
-            losses = 2
-            country = RUS
-        }
-        defender = {
-            commander = "古斯塔夫 瓦塔朗"  # Gustaf Wattarang
-            galley = 20
-            light_ship = 5
-            losses = 10
-            country = SWE
-        }
-        result = yes
+  battle = {
+    name = "里拉克斯战役"  # Slaget vid Rilax
+    location = 1254
+    attacker = {
+      commander = "费奥多尔 阿普拉克辛"  # Fyodor Apraksin
+      galley = 80
+      light_ship = 10
+      losses = 2
+      country = RUS
     }
+    defender = {
+      commander = "古斯塔夫 瓦塔朗"  # Gustaf Wattarang
+      galley = 20
+      light_ship = 5
+      losses = 10
+      country = SWE
+    }
+    result = yes
+  }
 }
 1715.1.1 = {
-    add_attacker = PRU
+  add_attacker = PRU
 }
 1716.7.8 = {
-    battle = {
-        name = "丁内希伦"  # Dynekilen
-        location = 1259
-        attacker = {
-            commander = "托登肖尔"  # Tordenskjold
-            galley = 2
-            light_ship = 3
-            losses = 5
-            country = DAN
-        }
-        defender = {
-            commander = "奥洛夫 斯特勒姆谢尔纳"  # Olof Strömstierna
-            galley = 8
-            light_ship = 4
-            losses = 7
-            country = SWE
-        }
-        result = yes
+  battle = {
+    name = "丁内希伦"  # Dynekilen
+    location = 1259
+    attacker = {
+      commander = "托登肖尔"  # Tordenskjold
+      galley = 2
+      light_ship = 3
+      losses = 5
+      country = DAN
     }
+    defender = {
+      commander = "奥洛夫 斯特勒姆谢尔纳"  # Olof Strömstierna
+      galley = 8
+      light_ship = 4
+      losses = 7
+      country = SWE
+    }
+    result = yes
+  }
 }
 1719.6.4 = {
-    battle = {
-        name = "厄塞尔岛"  # Osel Island
-        location = 1256
-        attacker = {
-            commander = "瑙姆 谢尼亚文"  # Naum Senyavin
-            galley = 7
-            losses = 5
-            country = RUS
-        }
-        defender = {
-            commander = "弗兰格尔"  # Wrangel
-            galley = 3
-            losses = 100
-            country = SWE
-        }
-        result = yes
+  battle = {
+    name = "厄塞尔岛"  # Osel Island
+    location = 1256
+    attacker = {
+      commander = "瑙姆 谢尼亚文"  # Naum Senyavin
+      galley = 7
+      losses = 5
+      country = RUS
     }
+    defender = {
+      commander = "弗兰格尔"  # Wrangel
+      galley = 3
+      losses = 100
+      country = SWE
+    }
+    result = yes
+  }
 }
 1719.9.30 = {
-    rem_attacker = DAN
-    rem_attacker = PLC
-    rem_attacker = KUR
-    rem_attacker = HAN
-    rem_attacker = PRU
-    rem_attacker = NED
-    rem_attacker = SAX
+  rem_attacker = DAN
+  rem_attacker = PLC
+  rem_attacker = KUR
+  rem_attacker = HAN
+  rem_attacker = PRU
+  rem_attacker = NED
+  rem_attacker = SAX
 }
 1721.8.30 = {
-    rem_attacker = RUS
-    rem_defender = SWE
+  rem_attacker = RUS
+  rem_defender = SWE
 }

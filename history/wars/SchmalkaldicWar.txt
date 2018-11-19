@@ -1,47 +1,47 @@
 ﻿name = "施马卡尔登战争"  # Schmalkaldic War
 war_goal = {
-    type = take_capital_conformance
-    casus_belli = cb_religious_conformance
-    tag = SAX
+  type = take_capital_conformance
+  casus_belli = cb_religious_conformance
+  tag = SAX
 }
 1546.7.15 = {
-    add_attacker = SPA
-    add_defender = SAX
-    add_defender = HES
-    add_defender = ANH
-    add_defender = BRE
-    add_defender = BRU
-    add_defender = LUN
+  add_attacker = SPA
+  add_defender = SAX
+  add_defender = HES
+  add_defender = ANH
+  add_defender = BRE
+  add_defender = BRU
+  add_defender = LUN
 }
 1547.4.24 = {
-    battle = {
-        name = "米尔贝格"  # Mühlberg
-        location = 61
-        attacker = {
-            commander = "查理 V"  # Charles V
-            infantry = 24000
-            cavalry = 5000
-            artillery = 20
-            losses = 1
-            country = SPA
-        }
-        defender = {
-            commander = "约翰 弗雷德里克 I"  # John Frederick I
-            infantry = 12000
-            cavalry = 3000
-            artillery = 15
-            losses = 55
-            country = SAX
-        }
-        result = yes
+  battle = {
+    name = "米尔贝格"  # Mühlberg
+    location = 61
+    attacker = {
+      commander = "查理 V"  # Charles V
+      infantry = 24000
+      cavalry = 5000
+      artillery = 20
+      losses = 1
+      country = SPA
     }
+    defender = {
+      commander = "约翰 弗雷德里克 I"  # John Frederick I
+      infantry = 12000
+      cavalry = 3000
+      artillery = 15
+      losses = 55
+      country = SAX
+    }
+    result = yes
+  }
 }
 1555.9.25 = {
-    rem_attacker = SPA
-    rem_defender = SAX
-    rem_defender = HES
-    rem_defender = ANH
-    rem_defender = BRE
-    rem_defender = BRU
-    rem_defender = LUN
+  rem_attacker = SPA
+  rem_defender = SAX
+  rem_defender = HES
+  rem_defender = ANH
+  rem_defender = BRE
+  rem_defender = BRU
+  rem_defender = LUN
 }

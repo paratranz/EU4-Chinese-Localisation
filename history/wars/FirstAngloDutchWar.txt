@@ -1,108 +1,108 @@
 ﻿name = "第一次英荷战争"  # First Anglo-Dutch War
 war_goal = {
-    type = superiority_trade_mutual
-    casus_belli = cb_trade_war
+  type = superiority_trade_mutual
+  casus_belli = cb_trade_war
 }
 1652.7.10 = {
-    add_attacker = ENG
-    add_defender = NED
+  add_attacker = ENG
+  add_defender = NED
 }
 1652.10.8 = {
-    battle = {
-        name = "肯梯斯诺克"  # Kentish Knock
-        location = 1271
-        attacker = {
-            commander = "罗伯特 布莱克"  # Robert Blake
-            heavy_ship = 68
-            losses = 1
-            country = ENG
-        }
-        defender = {
-            commander = "维特 科内利松 德 维特"  # Witte Corneliszoon de With
-            light_ship = 57
-            losses = 3
-            country = NED
-        }
-        result = yes
+  battle = {
+    name = "肯梯斯诺克"  # Kentish Knock
+    location = 1271
+    attacker = {
+      commander = "罗伯特 布莱克"  # Robert Blake
+      heavy_ship = 68
+      losses = 1
+      country = ENG
     }
+    defender = {
+      commander = "维特 科内利松 德 维特"  # Witte Corneliszoon de With
+      light_ship = 57
+      losses = 3
+      country = NED
+    }
+    result = yes
+  }
 }
 1653.2.28 = {
-    battle = {
-        name = "波特兰"  # Portland
-        location = 1272
-        attacker = {
-            commander = "罗伯特 布莱克"  # Robert Blake
-            heavy_ship = 65
-            losses = 1
-            country = ENG
-        }
-        defender = {
-            commander = "马尔滕 特龙普"  # Maarten Tromp
-            light_ship = 92
-            losses = 1
-            country = NED
-        }
-        result = yes
+  battle = {
+    name = "波特兰"  # Portland
+    location = 1272
+    attacker = {
+      commander = "罗伯特 布莱克"  # Robert Blake
+      heavy_ship = 65
+      losses = 1
+      country = ENG
     }
+    defender = {
+      commander = "马尔滕 特龙普"  # Maarten Tromp
+      light_ship = 92
+      losses = 1
+      country = NED
+    }
+    result = yes
+  }
 }
 1653.3.14 = {
-    battle = {
-        name = "里窝那"  # Leghorn
-        location = 1298
-        attacker = {
-            commander = "亨利 阿普尔顿"  # Henry Appleton
-            heavy_ship = 6
-            losses = 33
-            country = ENG
-        }
-        defender = {
-            commander = "约翰 范 盖伦"  # Jahan van Galen
-            light_ship = 16
-            losses = 1
-            country = NED
-        }
-        result = no
+  battle = {
+    name = "里窝那"  # Leghorn
+    location = 1298
+    attacker = {
+      commander = "亨利 阿普尔顿"  # Henry Appleton
+      heavy_ship = 6
+      losses = 33
+      country = ENG
     }
+    defender = {
+      commander = "约翰 范 盖伦"  # Jahan van Galen
+      light_ship = 16
+      losses = 1
+      country = NED
+    }
+    result = no
+  }
 }
 1653.6.12 = {
-    battle = {
-        name = "北福兰角"  # North Foreland
-        location = 1270
-        attacker = {
-            commander = "乔治 蒙克和理查德 迪恩"  # George Monck and Richard Deane
-            heavy_ship = 100
-            losses = 1
-            country = ENG
-        }
-        defender = {
-            commander = "马尔滕 特龙普"  # Maarten Tromp
-            light_ship = 98
-            losses = 1
-            country = NED
-        }
-        result = yes
+  battle = {
+    name = "北福兰角"  # North Foreland
+    location = 1270
+    attacker = {
+      commander = "乔治 蒙克和理查德 迪恩"  # George Monck and Richard Deane
+      heavy_ship = 100
+      losses = 1
+      country = ENG
     }
+    defender = {
+      commander = "马尔滕 特龙普"  # Maarten Tromp
+      light_ship = 98
+      losses = 1
+      country = NED
+    }
+    result = yes
+  }
 }
 1653.8.8 = {
-    battle = {
-        name = "斯赫弗宁根"  # Scheveningen
-        location = 1271
-        attacker = {
-            commander = "乔治 蒙克"  # George Monck
-            heavy_ship = 120
-            losses = 16
-            country = ENG
-        }
-        defender = {
-            commander = "马尔滕 特龙普"  # Maarten Tromp
-            light_ship = 100
-            losses = 5
-            country = NED
-        }
-        result = no
+  battle = {
+    name = "斯赫弗宁根"  # Scheveningen
+    location = 1271
+    attacker = {
+      commander = "乔治 蒙克"  # George Monck
+      heavy_ship = 120
+      losses = 16
+      country = ENG
     }
+    defender = {
+      commander = "马尔滕 特龙普"  # Maarten Tromp
+      light_ship = 100
+      losses = 5
+      country = NED
+    }
+    result = no
+  }
 }
 1654.4.5 = {
-    rem_attacker = ENG
-    rem_defender = NED
+  rem_attacker = ENG
+  rem_defender = NED
 }

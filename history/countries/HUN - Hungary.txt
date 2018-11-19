@@ -8,311 +8,311 @@ technology_group = eastern
 capital = 153
 historical_friend = HAB
 1387.3.31 = {
-    monarch = {
-        name = "西吉什蒙德 I"  # Sigismund I
-        dynasty = "冯 卢森堡"  # von Luxemburg
-        birth_date = 1368.2.14
-        adm = 4
-        dip = 3
-        mil = 3
-    }
+  monarch = {
+    name = "西吉什蒙德 I"  # Sigismund I
+    dynasty = "冯 卢森堡"  # von Luxemburg
+    birth_date = 1368.2.14
+    adm = 4
+    dip = 3
+    mil = 3
+  }
 }
 1437.1.1 = {
-    leader = {
-        name = "亚诺什 匈雅提"  # János Hunyadi
-        type = general
-        fire = 4
-        shock = 4
-        manuever = 4
-        siege = 1
-        death_date = 1445.1.1
-    }
+  leader = {
+    name = "亚诺什 匈雅提"  # János Hunyadi
+    type = "
+    generalfire = "
+    4shock = "
+    4manuever = "
+    4siege = "
+    1death_date = 1445.1.1
+  }
 }
 1444.11.10 = {
-    monarch = {
-        name = "（摄政会议）"  # (Regency Council)
-        adm = 0
-        mil = 0
-        dip = 0
-        regent = yes
-    }
+  monarch = {
+    name = "（摄政会议）"  # (Regency Council)
+    adm = 0
+    mil = 0
+    dip = 0
+    regent = yes
+  }
 }
 1452.1.1 = {
-    monarch = {
-        name = "拉迪斯劳斯 波斯图穆斯"  # Ladislaus Postumus
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        culture = austrian
-        birth_date = 1440.2.22
-        adm = 3
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "拉迪斯劳斯 波斯图穆斯"  # Ladislaus Postumus
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    culture = austrian
+    birth_date = 1440.2.22
+    adm = 3
+    dip = 3
+    mil = 2
+  }
 }
 1457.11.24 = {
-    monarch = {
-        name = "马加什"  # Mátyás
-        dynasty = "科尔温"  # Corvin
-        birth_date = 1443.2.23
-        adm = 4
-        dip = 5
-        mil = 5
-        leader = {
-            name = "马加什 科尔温"  # Mátyás Corvin
-            type = general
-            fire = 3
-            shock = 4
-            manuever = 3
-            siege = 1
-        }
+  monarch = {
+    name = "马加什"  # Mátyás
+    dynasty = "科尔温"  # Corvin
+    birth_date = 1443.2.23
+    adm = 4
+    dip = 5
+    mil = 5
+    leader = {
+      name = "马加什 科尔温"  # Mátyás Corvin
+      type = "
+      generalfire = "
+      3shock = "
+      4manuever = "
+      3siege = 1
     }
+  }
 }
 1462.1.1 = {
-    leader = {
-        name = "帕尔 基尼日"  # Pal Kinizsi
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1494.1.1
-    }
+  leader = {
+    name = "帕尔 基尼日"  # Pal Kinizsi
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    1death_date = 1494.1.1
+  }
 }
 1515.1.1 = {
-    leader = {
-        name = "米克洛什 兹里尼"  # Miklos Zrinyi
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 3
-        siege = 1
-        death_date = 1530.1.1
-    }
+  leader = {
+    name = "米克洛什 兹里尼"  # Miklos Zrinyi
+    type = "
+    generalfire = "
+    2shock = "
+    4manuever = "
+    3siege = "
+    1death_date = 1530.1.1
+  }
 }
 1526.8.30 = {
-    monarch = {
-        name = "亚诺什 I"  # János I
-        dynasty = "扎波尧"  # Zápolya
-        birth_date = 1487.2.2
-        adm = 4
-        dip = 3
-        mil = 2
-        leader = {
-            name = "亚诺什 I 扎波尧"  # János I Zápolya
-            type = general
-            fire = 2
-            shock = 2
-            manuever = 2
-            siege = 0
-        }
+  monarch = {
+    name = "亚诺什 I"  # János I
+    dynasty = "扎波尧"  # Zápolya
+    birth_date = 1487.2.2
+    adm = 4
+    dip = 3
+    mil = 2
+    leader = {
+      name = "亚诺什 I 扎波尧"  # János I Zápolya
+      type = "
+      generalfire = "
+      2shock = "
+      2manuever = "
+      2siege = 0
     }
+  }
 }
 1540.7.24 = {
-    monarch = {
-        name = "亚诺什 II"  # János II
-        birth_date = 1540.7.7
-        dynasty = "扎波尧"  # Zápolya
-        adm = 1
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "亚诺什 II"  # János II
+    birth_date = 1540.7.7
+    dynasty = "扎波尧"  # Zápolya
+    adm = 1
+    dip = 2
+    mil = 2
+  }
 }
 1540.8.30 = {
-    government = monarchy
-    add_government_reform = autocracy_reform
+  government = monarchy
+  add_government_reform = autocracy_reform
 }
 1541.1.1 = {
-    capital = 154
+  capital = 154
 }
 1571.5.26 = {
-    monarch = {
-        name = "伊什特万"  # István
-        dynasty = "巴陶里"  # Báthory
-        birth_date = 1533.9.27
-        adm = 5
-        dip = 2
-        mil = 6
-    }
+  monarch = {
+    name = "伊什特万"  # István
+    dynasty = "巴陶里"  # Báthory
+    birth_date = 1533.9.27
+    adm = 5
+    dip = 2
+    mil = 6
+  }
 }
 1576.5.3 = {
-    monarch = {
-        name = "克里斯托弗"  # Christofer
-        dynasty = "巴陶里"  # Báthory
-        birth_date = 1530.5.27
-        adm = 1
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "克里斯托弗"  # Christofer
+    dynasty = "巴陶里"  # Báthory
+    birth_date = 1530.5.27
+    adm = 1
+    dip = 2
+    mil = 2
+  }
 }
 1581.1.1 = {
-    monarch = {
-        name = "西吉什蒙德"  # Sigismund
-        dynasty = "巴陶里"  # Báthory
-        birth_date = 1572.3.27
-        adm = 1
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "西吉什蒙德"  # Sigismund
+    dynasty = "巴陶里"  # Báthory
+    birth_date = 1572.3.27
+    adm = 1
+    dip = 2
+    mil = 2
+  }
 }
 1596.1.1 = {
-    leader = {
-        name = "伊什特万 博奇考伊"  # Istvan Bocskai
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1606.1.1
-    }
+  leader = {
+    name = "伊什特万 博奇考伊"  # Istvan Bocskai
+    type = "
+    generalfire = "
+    3shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1606.1.1
+  }
 }
 1599.1.1 = {
-    monarch = {
-        name = "勇敢者 米哈伊"  # Mihai Viteazul
-        dynasty = "德勒库莱什蒂"  # Draculecti
-        birth_date = 1558.1.1
-        adm = 4
-        dip = 6
-        mil = 6
-    }
+  monarch = {
+    name = "勇敢者 米哈伊"  # Mihai Viteazul
+    dynasty = "德勒库莱什蒂"  # Draculecti
+    birth_date = 1558.1.1
+    adm = 4
+    dip = 6
+    mil = 6
+  }
 }
 1602.1.1 = {
-    monarch = {
-        name = "空位期"  # Interregnum
-        regent = yes
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "空位期"  # Interregnum
+    regent = yes
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1605.1.1 = {
-    monarch = {
-        name = "伊什特万"  # István
-        dynasty = "博奇考伊"  # Bocskai
-        birth_date = 1557.1.1
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  monarch = {
+    name = "伊什特万"  # István
+    dynasty = "博奇考伊"  # Bocskai
+    birth_date = 1557.1.1
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1606.12.30 = {
-    monarch = {
-        name = "加博尔"  # Gábor
-        dynasty = "巴陶里"  # Báthory
-        birth_date = 1589.8.15
-        adm = 4
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "加博尔"  # Gábor
+    dynasty = "巴陶里"  # Báthory
+    birth_date = 1589.8.15
+    adm = 4
+    dip = 3
+    mil = 2
+  }
 }
 1613.1.1 = {
-    monarch = {
-        name = "加博尔"  # Gábor
-        dynasty = "拜特伦"  # Bethlen
-        birth_date = 1580.1.1
-        adm = 4
-        dip = 5
-        mil = 4
-        leader = {
-            name = "加博尔 拜特伦"  # Gabor Bethlen
-            type = general
-            fire = 2
-            shock = 3
-            manuever = 5
-            siege = 1
-        }
+  monarch = {
+    name = "加博尔"  # Gábor
+    dynasty = "拜特伦"  # Bethlen
+    birth_date = 1580.1.1
+    adm = 4
+    dip = 5
+    mil = 4
+    leader = {
+      name = "加博尔 拜特伦"  # Gabor Bethlen
+      type = "
+      generalfire = "
+      2shock = "
+      3manuever = "
+      5siege = 1
     }
+  }
 }
 1629.11.17 = {
-    monarch = {
-        name = "哲尔吉 I"  # György I
-        dynasty = "拉科奇"  # Rákóczy
-        birth_date = 1593.6.8
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  monarch = {
+    name = "哲尔吉 I"  # György I
+    dynasty = "拉科奇"  # Rákóczy
+    birth_date = 1593.6.8
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1648.1.1 = {
-    monarch = {
-        name = "哲尔吉 II"  # György II
-        dynasty = "拉科奇"  # Rákóczy
-        birth_date = 1621.1.30
-        adm = 3
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "哲尔吉 II"  # György II
+    dynasty = "拉科奇"  # Rákóczy
+    birth_date = 1621.1.30
+    adm = 3
+    dip = 1
+    mil = 2
+  }
 }
 1649.1.1 = {
-    leader = {
-        name = "米克洛什 兹里尼 II"  # Miklos Zrinyi II
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1664.1.1
-    }
+  leader = {
+    name = "米克洛什 兹里尼 II"  # Miklos Zrinyi II
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1664.1.1
+  }
 }
 1665.1.1 = {
-    monarch = {
-        name = "费伦茨 I"  # Ferenc I
-        dynasty = "拉科奇"  # Rákóczy
-        birth_date = 1645.2.24
-        adm = 3
-        dip = 0
-        mil = 1
-    }
+  monarch = {
+    name = "费伦茨 I"  # Ferenc I
+    dynasty = "拉科奇"  # Rákóczy
+    birth_date = 1645.2.24
+    adm = 3
+    dip = 0
+    mil = 1
+  }
 }
 1678.1.1 = {
-    leader = {
-        name = "伊姆赖 特克伊"  # Imre Thokoly
-        type = general
-        fire = 1
-        shock = 3
-        manuever = 2
-        siege = 1
-        death_date = 1705.9.13
-    }
+  leader = {
+    name = "伊姆赖 特克伊"  # Imre Thokoly
+    type = "
+    generalfire = "
+    1shock = "
+    3manuever = "
+    2siege = "
+    1death_date = 1705.9.13
+  }
 }
 1691.1.1 = {
-    monarch = {
-        name = "费伦茨 II"  # Ferenc II
-        dynasty = "拉科齐"  # Rákóczy
-        birth_date = 1676.3.27
-        adm = 4
-        dip = 5
-        mil = 4
-        leader = {
-            name = "费伦茨 拉科齐 II"  # Ferenc Rakoczi II
-            type = general
-            fire = 2
-            shock = 4
-            manuever = 2
-            siege = 0
-        }
+  monarch = {
+    name = "费伦茨 II"  # Ferenc II
+    dynasty = "拉科齐"  # Rákóczy
+    birth_date = 1676.3.27
+    adm = 4
+    dip = 5
+    mil = 4
+    leader = {
+      name = "费伦茨 拉科齐 II"  # Ferenc Rakoczi II
+      type = "
+      generalfire = "
+      2shock = "
+      4manuever = "
+      2siege = 0
     }
+  }
 }
 1739.1.1 = {
-    leader = {
-        name = "费伦茨 纳道什迪"  # Ferenc Nadasdy
-        type = general
-        fire = 1
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1763.1.1
-    }
+  leader = {
+    name = "费伦茨 纳道什迪"  # Ferenc Nadasdy
+    type = "
+    generalfire = "
+    1shock = "
+    4manuever = "
+    4siege = "
+    0death_date = 1763.1.1
+  }
 }
 1744.1.1 = {
-    leader = {
-        name = "安德拉斯 哈迪克"  # Andras Hadik
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1790.3.12
-    }
+  leader = {
+    name = "安德拉斯 哈迪克"  # Andras Hadik
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1790.3.12
+  }
 }
 1784.1.1 = {
-    capital = 153
+  capital = 153
 }

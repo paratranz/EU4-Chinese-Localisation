@@ -1,18 +1,18 @@
 ﻿name = "第五次俄土战争"  # Fifth Russo-Turkish War
 war_goal = {
-    type = take_capital_liberation
-    casus_belli = cb_liberation
-    tag = TUR
+  type = take_capital_liberation
+  casus_belli = cb_liberation
+  tag = TUR
 }
 1806.1.1 = {
-    add_attacker = RUS
-    add_defender = TUR
-    add_defender = WAL
-    add_defender = MOL
+  add_attacker = RUS
+  add_defender = TUR
+  add_defender = WAL
+  add_defender = MOL
 }
 1812.5.28 = {
-    rem_attacker = RUS
-    rem_defender = TUR
-    rem_defender = WAL
-    rem_defender = MOL
+  rem_attacker = RUS
+  rem_defender = TUR
+  rem_defender = WAL
+  rem_defender = MOL
 }

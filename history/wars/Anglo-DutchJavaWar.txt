@@ -1,14 +1,14 @@
 ﻿name = "英荷爪哇战争"  # Anglo-Dutch Java War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 641
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 641
 }
 1810.1.1 = {
-    add_attacker = GBR
-    add_defender = NED
+  add_attacker = GBR
+  add_defender = NED
 }
 1811.9.17 = {
-    rem_attacker = GBR
-    rem_defender = NED
+  rem_attacker = GBR
+  rem_defender = NED
 }

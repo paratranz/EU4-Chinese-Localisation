@@ -1,801 +1,801 @@
 ﻿byz_western = {
-    slot = 1
-    generic = no
-    ai = yes
-    potential = {
-        tag = BYZ
-        NOT = {
-            map_setup = map_setup_random
-        }
+  slot = 1
+  generic = no
+  ai = yes
+  potential = {
+    tag = BYZ
+    NOT = {
+      map_setup = map_setup_random
     }
-    has_country_shield = yes
-    recover_greece = {
-        icon = mission_assemble_an_army
-        required_missions = {}
-        ai_weight = {
-            factor = 5
+  }
+  has_country_shield = yes
+  recover_greece = {
+    icon = mission_assemble_an_army
+    required_missions = {}
+    ai_weight = {
+      factor = 5
+    }
+    ai_priority = {
+      factor = 5
+    }
+    provinces_to_highlight = {
+      OR = {
+        province_id = 144
+        province_id = 145
+        province_id = 146
+        province_id = 147
+        province_id = 148
+        province_id = 148
+        province_id = 149
+        province_id = 1773
+        province_id = 1853
+      }
+      NOT = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    trigger = {
+      owns_or_non_sovereign_subject_of = 144
+      owns_or_non_sovereign_subject_of = 145
+      owns_or_non_sovereign_subject_of = 146
+      owns_or_non_sovereign_subject_of = 147
+      owns_or_non_sovereign_subject_of = 148
+      owns_or_non_sovereign_subject_of = 149
+      owns_or_non_sovereign_subject_of = 1773
+      owns_or_non_sovereign_subject_of = 1853
+    }
+    effect = {
+      add_country_modifier = {
+        name = "byzantium_resurgent"
+        duration = 5475
+      }
+      bulgaria_area = {
+        limit = {
+          NOT = {
+            is_core = ROOT
+          }
+          NOT = {
+            is_permanent_claim = ROOT
+          }
         }
-        ai_priority = {
-            factor = 5
+        add_permanent_claim = ROOT
+      }
+      hudavendigar_area = {
+        limit = {
+          NOT = {
+            is_core = ROOT
+          }
+          NOT = {
+            is_permanent_claim = ROOT
+          }
         }
-        provinces_to_highlight = {
-            OR = {
-                province_id = 144
-                province_id = 145
-                province_id = 146
-                province_id = 147
-                province_id = 148
-                province_id = 148
-                province_id = 149
-                province_id = 1773
-                province_id = 1853
+        add_permanent_claim = ROOT
+      }
+      aydin_area = {
+        limit = {
+          NOT = {
+            is_core = ROOT
+          }
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
+      if = {
+        limit = {
+          has_dlc = "Purple Phoenix"
+        }
+        albania_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
             }
             NOT = {
-                country_or_non_sovereign_subject_holds = ROOT
+              is_permanent_claim = ROOT
             }
+          }
+          add_permanent_claim = ROOT
         }
-        trigger = {
-            owns_or_non_sovereign_subject_of = 144
-            owns_or_non_sovereign_subject_of = 145
-            owns_or_non_sovereign_subject_of = 146
-            owns_or_non_sovereign_subject_of = 147
-            owns_or_non_sovereign_subject_of = 148
-            owns_or_non_sovereign_subject_of = 149
-            owns_or_non_sovereign_subject_of = 1773
-            owns_or_non_sovereign_subject_of = 1853
-        }
-        effect = {
-            add_country_modifier = {
-                name = "byzantium_resurgent"
-                duration = 5475
-            }
-            bulgaria_area = {
-                limit = {
-                    NOT = {
-                        is_core = ROOT
-                    }
-                    NOT = {
-                        is_permanent_claim = ROOT
-                    }
-                }
-                add_permanent_claim = ROOT
-            }
-            hudavendigar_area = {
-                limit = {
-                    NOT = {
-                        is_core = ROOT
-                    }
-                    NOT = {
-                        is_permanent_claim = ROOT
-                    }
-                }
-                add_permanent_claim = ROOT
-            }
-            aydin_area = {
-                limit = {
-                    NOT = {
-                        is_core = ROOT
-                    }
-                    NOT = {
-                        is_permanent_claim = ROOT
-                    }
-                }
-                add_permanent_claim = ROOT
-            }
-            if = {
-                limit = {
-                    has_dlc = "Purple Phoenix"
-                }
-                albania_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-                macedonia_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-            }
-        }
-    }
-    recover_the_balkans = {
-        icon = mission_eastern_european_city
-        required_missions = {
-            recover_greece
-        }
-        position = 3
-        provinces_to_highlight = {
-            area = bulgaria_area
+        macedonia_area = {
+          limit = {
             NOT = {
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-        }
-        trigger = {
-            bulgaria_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-        }
-        effect = {
-            apulia_area = {
-                limit = {
-                    NOT = {
-                        is_core = ROOT
-                    }
-                    NOT = {
-                        is_permanent_claim = ROOT
-                    }
-                }
-                add_permanent_claim = ROOT
-            }
-            calabria_area = {
-                limit = {
-                    NOT = {
-                        is_core = ROOT
-                    }
-                    NOT = {
-                        is_permanent_claim = ROOT
-                    }
-                }
-                add_permanent_claim = ROOT
-            }
-            add_permanent_claim = 121
-            add_permanent_claim = 2983
-        }
-    }
-    recover_south_italy = {
-        icon = mission_italian_condottiere
-        required_missions = {
-            recover_the_balkans
-        }
-        position = 5
-        provinces_to_highlight = {
-            OR = {
-                area = apulia_area
-                area = calabria_area
-                province_id = 121
-                province_id = 2983
+              is_core = ROOT
             }
             NOT = {
-                country_or_non_sovereign_subject_holds = ROOT
+              is_permanent_claim = ROOT
             }
+          }
+          add_permanent_claim = ROOT
         }
-        trigger = {
-            owns_or_non_sovereign_subject_of = 121
-            owns_or_non_sovereign_subject_of = 2983
-            apulia_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-            calabria_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-        }
-        effect = {
-            capital_scope = {
-                add_base_manpower = 2
-                add_base_tax = 2
-                add_base_production = 2
-            }
-            add_permanent_claim = 118
-            add_permanent_claim = 124
-            add_permanent_claim = 125
-            add_permanent_claim = 2982
-        }
+      }
     }
-    recover_sicily = {
-        icon = mission_sea_battles
-        required_missions = {
-            recover_south_italy
-        }
-        provinces_to_highlight = {
-            OR = {
-                province_id = 124
-                province_id = 125
-                province_id = 2982
-            }
-            NOT = {
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-        }
-        trigger = {
-            owns_or_non_sovereign_subject_of = 124
-            owns_or_non_sovereign_subject_of = 125
-            owns_or_non_sovereign_subject_of = 2982
-        }
-        effect = {
-            add_country_modifier = {
-                name = "theme_of_sicily"
-                duration = 5475
-            }
-        }
+  }
+  recover_the_balkans = {
+    icon = mission_eastern_european_city
+    required_missions = {
+      recover_greece
     }
+    position = 3
+    provinces_to_highlight = {
+      area = bulgaria_area
+      NOT = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    trigger = {
+      bulgaria_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    effect = {
+      apulia_area = {
+        limit = {
+          NOT = {
+            is_core = ROOT
+          }
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
+      calabria_area = {
+        limit = {
+          NOT = {
+            is_core = ROOT
+          }
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
+      add_permanent_claim = 121
+      add_permanent_claim = 2983
+    }
+  }
+  recover_south_italy = {
+    icon = mission_italian_condottiere
+    required_missions = {
+      recover_the_balkans
+    }
+    position = 5
+    provinces_to_highlight = {
+      OR = {
+        area = apulia_area
+        area = calabria_area
+        province_id = 121
+        province_id = 2983
+      }
+      NOT = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    trigger = {
+      owns_or_non_sovereign_subject_of = 121
+      owns_or_non_sovereign_subject_of = 2983
+      apulia_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      calabria_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    effect = {
+      capital_scope = {
+        add_base_manpower = 2
+        add_base_tax = 2
+        add_base_production = 2
+      }
+      add_permanent_claim = 118
+      add_permanent_claim = 124
+      add_permanent_claim = 125
+      add_permanent_claim = 2982
+    }
+  }
+  recover_sicily = {
+    icon = mission_sea_battles
+    required_missions = {
+      recover_south_italy
+    }
+    provinces_to_highlight = {
+      OR = {
+        province_id = 124
+        province_id = 125
+        province_id = 2982
+      }
+      NOT = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    trigger = {
+      owns_or_non_sovereign_subject_of = 124
+      owns_or_non_sovereign_subject_of = 125
+      owns_or_non_sovereign_subject_of = 2982
+    }
+    effect = {
+      add_country_modifier = {
+        name = "theme_of_sicily"
+        duration = 5475
+      }
+    }
+  }
 }
 byz_generic_slot_2 = {
-    slot = 2
-    generic = no
-    ai = yes
-    potential = {
-        NOT = {
-            map_setup = map_setup_random
-        }
-        tag = BYZ
-        NOT = {
-            has_dlc = "Purple Phoenix"
-        }
+  slot = 2
+  generic = no
+  ai = yes
+  potential = {
+    NOT = {
+      map_setup = map_setup_random
     }
-    has_country_shield = yes
-    recover_rome = {
-        position = 6
-        icon = mission_religious
-        required_missions = {
-            recover_south_italy
-        }
-        provinces_to_highlight = {
-            province_id = 118
-            NOT = {
-                owned_by = ROOT
-            }
-        }
-        trigger = {
-            owns = 118
-        }
-        effect = {
-            add_country_modifier = {
-                name = "roman_italy"
-                duration = 5475
-            }
-            venetia_area = {
-                limit = {
-                    NOT = {
-                        is_core = ROOT
-                    }
-                    NOT = {
-                        is_permanent_claim = ROOT
-                    }
-                }
-                add_permanent_claim = ROOT
-            }
-        }
+    tag = BYZ
+    NOT = {
+      has_dlc = "Purple Phoenix"
     }
-    destroy_venice = {
-        icon = mission_monarch_in_throne_room
-        required_missions = {
-            recover_rome
-        }
-        provinces_to_highlight = {
-            area = venetia_area
-            NOT = {
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-        }
-        trigger = {
-            venetia_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-        }
-        effect = {
-            add_prestige = 20
-            add_adm_power = 100
-            country_event = {
-                id = flavor_byz.1
-            }
-            venetia_area = {
-                add_province_modifier = {
-                    name = "faster_integration"
-                    duration = 5475
-                }
-            }
-        }
+  }
+  has_country_shield = yes
+  recover_rome = {
+    position = 6
+    icon = mission_religious
+    required_missions = {
+      recover_south_italy
     }
+    provinces_to_highlight = {
+      province_id = 118
+      NOT = {
+        owned_by = ROOT
+      }
+    }
+    trigger = {
+      owns = 118
+    }
+    effect = {
+      add_country_modifier = {
+        name = "roman_italy"
+        duration = 5475
+      }
+      venetia_area = {
+        limit = {
+          NOT = {
+            is_core = ROOT
+          }
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
+    }
+  }
+  destroy_venice = {
+    icon = mission_monarch_in_throne_room
+    required_missions = {
+      recover_rome
+    }
+    provinces_to_highlight = {
+      area = venetia_area
+      NOT = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    trigger = {
+      venetia_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    effect = {
+      add_prestige = 20
+      add_adm_power = 100
+      country_event = {
+        id = flavor_byz.1
+      }
+      venetia_area = {
+        add_province_modifier = {
+          name = "faster_integration"
+          duration = 5475
+        }
+      }
+    }
+  }
 }
 byz_east = {
-    slot = 5
-    generic = no
-    ai = yes
-    potential = {
-        NOT = {
-            map_setup = map_setup_random
-        }
-        tag = BYZ
+  slot = 5
+  generic = no
+  ai = yes
+  potential = {
+    NOT = {
+      map_setup = map_setup_random
     }
-    has_country_shield = yes
-    recover_the_coast_of_asia_minor = {
-        icon = mission_galleys_in_port
-        required_missions = {}
-        provinces_to_highlight = {
-            OR = {
-                area = hudavendigar_area
-                area = aydin_area
+    tag = BYZ
+  }
+  has_country_shield = yes
+  recover_the_coast_of_asia_minor = {
+    icon = mission_galleys_in_port
+    required_missions = {}
+    provinces_to_highlight = {
+      OR = {
+        area = hudavendigar_area
+        area = aydin_area
+      }
+      NOT = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    trigger = {
+      hudavendigar_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      aydin_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    effect = {
+      if = {
+        limit = {
+          NOT = {
+            has_dlc = "Purple Phoenix"
+          }
+        }
+        germiyan_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
             }
             NOT = {
-                country_or_non_sovereign_subject_holds = ROOT
+              is_permanent_claim = ROOT
             }
+          }
+          add_permanent_claim = ROOT
         }
-        trigger = {
-            hudavendigar_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
+        ankara_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
             }
-            aydin_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
+            NOT = {
+              is_permanent_claim = ROOT
             }
+          }
+          add_permanent_claim = ROOT
         }
-        effect = {
-            if = {
-                limit = {
-                    NOT = {
-                        has_dlc = "Purple Phoenix"
-                    }
-                }
-                germiyan_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-                ankara_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-                karaman_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-                kastamonu_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-                rum_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-                thrace_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-                erzurum_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-                add_permanent_claim = 327
-                add_permanent_claim = 2302
-                add_permanent_claim = 2750
-                add_permanent_claim = 4310
+        karaman_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
             }
-            else = {
-                germiyan_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-                ankara_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
-                kastamonu_area = {
-                    limit = {
-                        NOT = {
-                            is_core = ROOT
-                        }
-                        NOT = {
-                            is_permanent_claim = ROOT
-                        }
-                    }
-                    add_permanent_claim = ROOT
-                }
+            NOT = {
+              is_permanent_claim = ROOT
             }
+          }
+          add_permanent_claim = ROOT
         }
+        kastamonu_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
+            }
+            NOT = {
+              is_permanent_claim = ROOT
+            }
+          }
+          add_permanent_claim = ROOT
+        }
+        rum_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
+            }
+            NOT = {
+              is_permanent_claim = ROOT
+            }
+          }
+          add_permanent_claim = ROOT
+        }
+        thrace_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
+            }
+            NOT = {
+              is_permanent_claim = ROOT
+            }
+          }
+          add_permanent_claim = ROOT
+        }
+        erzurum_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
+            }
+            NOT = {
+              is_permanent_claim = ROOT
+            }
+          }
+          add_permanent_claim = ROOT
+        }
+        add_permanent_claim = 327
+        add_permanent_claim = 2302
+        add_permanent_claim = 2750
+        add_permanent_claim = 4310
+      }
+      else = {
+        germiyan_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
+            }
+            NOT = {
+              is_permanent_claim = ROOT
+            }
+          }
+          add_permanent_claim = ROOT
+        }
+        ankara_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
+            }
+            NOT = {
+              is_permanent_claim = ROOT
+            }
+          }
+          add_permanent_claim = ROOT
+        }
+        kastamonu_area = {
+          limit = {
+            NOT = {
+              is_core = ROOT
+            }
+            NOT = {
+              is_permanent_claim = ROOT
+            }
+          }
+          add_permanent_claim = ROOT
+        }
+      }
     }
+  }
 }
 byz_generic_slot_5 = {
-    slot = 5
-    generic = no
-    ai = yes
-    potential = {
+  slot = 5
+  generic = no
+  ai = yes
+  potential = {
+    NOT = {
+      map_setup = map_setup_random
+    }
+    tag = BYZ
+    NOT = {
+      has_dlc = "Purple Phoenix"
+    }
+  }
+  has_country_shield = yes
+  reestablish_the_theme_system = {
+    icon = mission_non-western_cavalry_raid
+    required_missions = {
+      recover_the_coast_of_asia_minor
+    }
+    position = 3
+    provinces_to_highlight = {
+      OR = {
+        area = hudavendigar_area
+        area = germiyan_area
+        area = aydin_area
+        area = ankara_area
+        area = karaman_area
+        area = kastamonu_area
+        area = rum_area
+        area = thrace_area
+        area = erzurum_area
+        province_id = 327
+        province_id = 2302
+        province_id = 4310
+        province_id = 2750
+      }
+      NOT = {
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+    }
+    trigger = {
+      hudavendigar_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      germiyan_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      aydin_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      ankara_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      karaman_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      kastamonu_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      rum_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      thrace_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      erzurum_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      owns = 327
+      owns = 2302
+      owns = 4310
+      owns = 2750
+    }
+    effect = {
+      hidden_effect = {
+        149 = {
+          change_province_name = "阿德里安堡"  # Adrianople
+          rename_capital = "阿德里安堡"  # Adrianople
+        }
+        151 = {
+          change_province_name = "君士坦丁堡"  # Constantinople
+          rename_capital = "君士坦丁堡"  # Constantinople
+        }
+        316 = {
+          change_province_name = "奥普提马通"  # Optimatoi
+          rename_capital = "尼科米底亚"  # Nikomedeia
+        }
+        317 = {
+          change_province_name = "奥普希金"  # Opsikion
+          rename_capital = "布尔萨"  # Prussa
+        }
+        318 = {
+          change_province_name = "士麦拿"  # Smyrna
+          rename_capital = "士麦拿"  # Smyrna
+        }
+        319 = {
+          change_province_name = "米拉斯"  # Mylasa
+          rename_capital = "穆拉"  # Mougla
+        }
+        322 = {
+          change_province_name = "屈塔希亚"  # Kotyaion
+          rename_capital = "屈塔希亚"  # Kotyaion
+        }
+        323 = {
+          change_province_name = "伊科尼安"  # Ikonion
+          rename_capital = "伊科尼安"  # Iconion
+        }
+        324 = {
+          change_province_name = "拉兰达"  # Laranda
+          rename_capital = "拉兰达"  # Laranda
+        }
+        325 = {
+          change_province_name = "帕夫拉戈尼亚"  # Paphlagonia
+          rename_capital = "提墨尼奥"  # Timonio
+        }
+        326 = {
+          change_province_name = "加拉太"  # Galatia
+          rename_capital = "安卡拉"  # Ancyra
+        }
+        327 = {
+          change_province_name = "奇里乞亚"  # Cilicia
+          rename_capital = "阿塔纳"  # Atana
+        }
+        328 = {
+          change_province_name = "锡诺普"  # Sinope
+          rename_capital = "锡诺普"  # Sinop
+        }
+        329 = {
+          change_province_name = "塞巴斯蒂安"  # Sebasteia
+          rename_capital = "塞巴斯托普利斯"  # Sebastopolis
+        }
+        330 = {
+          change_province_name = "特拉比松"  # Trebizond
+          rename_capital = "特拉布宗"  # Trapezous
+        }
+        331 = {
+          change_province_name = "狄奥多西波利斯"  # Theodosiopolis
+          rename_capital = "狄奥多西波利斯"  # Theodosiopolis
+        }
+        1764 = {
+          change_province_name = "梅森布里亚"  # Mesambria
+          rename_capital = "梅森布里亚"  # Mesambria
+        }
+        1846 = {
+          change_province_name = "亚美尼亚坎"  # Armeniakon
+          rename_capital = "阿马西亚"  # Amasea
+        }
+        1848 = {
+          change_province_name = "索佐波利斯"  # Baris
+          rename_capital = "巴里斯"  # Baris
+        }
+        2296 = {
+          change_province_name = "阿卑多斯"  # Abydos
+          rename_capital = "皮盖伊"  # Pigai
+        }
+        2297 = {
+          change_province_name = "色雷斯西安"  # Thrakesion
+          rename_capital = "马格内西亚"  # Magnesia
+        }
+        2298 = {
+          change_province_name = "安塔利亚"  # Attalia
+          rename_capital = "安塔利亚"  # Attalia
+        }
+        2299 = {
+          change_province_name = "赫拉克利亚"  # Boukellarion
+          rename_capital = "布凯拉里安"  # Klaudiopol
+        }
+        2300 = {
+          change_province_name = "卡帕多西亚"  # Cappadocia
+          rename_capital = "塔维姆"  # Tavium
+        }
+        2301 = {
+          change_province_name = "哈尔希安"  # Charsianon
+          rename_capital = "凯撒利亚"  # Ceasarea
+        }
+        2302 = {
+          change_province_name = "塞琉西亚"  # Seleucia
+          rename_capital = "塞琉西亚"  # Kermarage
+        }
+        2304 = {
+          change_province_name = "迦勒底"  # Chaldia
+          rename_capital = "萨姆松"  # Amissos
+        }
+        2305 = {
+          change_province_name = "阿希里森"  # Acilisene
+          rename_capital = "阿希里森"  # Acilisene
+        }
+        2750 = {
+          change_province_name = "菲利普波利斯"  # Philippopolis
+          rename_capital = "菲利普波利斯"  # Philippopolis
+        }
+        4307 = {
+          change_province_name = "科洛尼亚"  # Colonia
+          rename_capital = "科洛尼亚"  # Colonia
+        }
+        4308 = {
+          change_province_name = "劳迪基亚"  # Laodicea
+          rename_capital = "劳迪基亚"  # Laodicea
+        }
+        4309 = {
+          change_province_name = "特拉勒斯"  # Tralles
+          rename_capital = "特拉勒斯"  # Tralles
+        }
+        4310 = {
+          change_province_name = "迪夫里伊"  # Tephrike
+          rename_capital = "迪夫里伊"  # Tephrike
+        }
+        4311 = {
+          change_province_name = "安纳托利亚"  # Anatolikon
+          rename_capital = "布尔杜尔"  # Polydorion
+        }
+        4312 = {
+          change_province_name = "多利留姆"  # Dorylaeum
+          rename_capital = "多利留姆"  # Dorylaeum
+        }
+        4313 = {
+          change_province_name = "冈格拉"  # Gangra
+          rename_capital = "冈格拉"  # Gangra
+        }
+        4314 = {
+          change_province_name = "查士丁尼波利斯"  # Justinianopolis
+          rename_capital = "查士丁尼波利斯"  # Justinianopolis
+        }
+        4315 = {
+          change_province_name = "埃夫多克西亚"  # Evdoksia
+          rename_capital = "埃夫多克西亚"  # Evdoksia
+        }
+      }
+      custom_tooltip = reestablishing_themes_names_tooltip
+      if = {
+        limit = {
+          NOT = {
+            has_global_flag = constantinople_restored
+          }
+        }
+        151 = {
+          add_base_tax = 4
+          add_base_production = 4
+          add_base_manpower = 3
+        }
+        set_global_flag = constantinople_restored
+      }
+      add_country_modifier = {
+        name = "the_theme_system"
+        duration = -1
+      }
+    }
+  }
+  convert_asia_minor = {
+    icon = mission_non-western_soldiers
+    required_missions = {
+      reestablish_the_theme_system
+    }
+    position = 5
+    provinces_to_highlight = {
+      OR = {
+        area = aydin_area
+        area = hudavendigar_area
+      }
+      OR = {
         NOT = {
-            map_setup = map_setup_random
+          religion = orthodox
         }
-        tag = BYZ
         NOT = {
-            has_dlc = "Purple Phoenix"
+          owned_by = ROOT
         }
+      }
     }
-    has_country_shield = yes
-    reestablish_the_theme_system = {
-        icon = mission_non-western_cavalry_raid
-        required_missions = {
-            recover_the_coast_of_asia_minor
-        }
-        position = 3
-        provinces_to_highlight = {
-            OR = {
-                area = hudavendigar_area
-                area = germiyan_area
-                area = aydin_area
-                area = ankara_area
-                area = karaman_area
-                area = kastamonu_area
-                area = rum_area
-                area = thrace_area
-                area = erzurum_area
-                province_id = 327
-                province_id = 2302
-                province_id = 4310
-                province_id = 2750
-            }
-            NOT = {
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-        }
-        trigger = {
-            hudavendigar_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-            germiyan_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-            aydin_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-            ankara_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-            karaman_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-            kastamonu_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-            rum_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-            thrace_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-            erzurum_area = {
-                type = all
-                country_or_non_sovereign_subject_holds = ROOT
-            }
-            owns = 327
-            owns = 2302
-            owns = 4310
-            owns = 2750
-        }
-        effect = {
-            hidden_effect = {
-                149 = {
-                    change_province_name = "阿德里安堡"  # Adrianople
-                    rename_capital = "阿德里安堡"  # Adrianople
-                }
-                151 = {
-                    change_province_name = "君士坦丁堡"  # Constantinople
-                    rename_capital = "君士坦丁堡"  # Constantinople
-                }
-                316 = {
-                    change_province_name = "奥普提马通"  # Optimatoi
-                    rename_capital = "尼科米底亚"  # Nikomedeia
-                }
-                317 = {
-                    change_province_name = "奥普希金"  # Opsikion
-                    rename_capital = "布尔萨"  # Prussa
-                }
-                318 = {
-                    change_province_name = "士麦拿"  # Smyrna
-                    rename_capital = "士麦拿"  # Smyrna
-                }
-                319 = {
-                    change_province_name = "米拉斯"  # Mylasa
-                    rename_capital = "穆拉"  # Mougla
-                }
-                322 = {
-                    change_province_name = "屈塔希亚"  # Kotyaion
-                    rename_capital = "屈塔希亚"  # Kotyaion
-                }
-                323 = {
-                    change_province_name = "伊科尼安"  # Ikonion
-                    rename_capital = "伊科尼安"  # Iconion
-                }
-                324 = {
-                    change_province_name = "拉兰达"  # Laranda
-                    rename_capital = "拉兰达"  # Laranda
-                }
-                325 = {
-                    change_province_name = "帕夫拉戈尼亚"  # Paphlagonia
-                    rename_capital = "提墨尼奥"  # Timonio
-                }
-                326 = {
-                    change_province_name = "加拉太"  # Galatia
-                    rename_capital = "安卡拉"  # Ancyra
-                }
-                327 = {
-                    change_province_name = "奇里乞亚"  # Cilicia
-                    rename_capital = "阿塔纳"  # Atana
-                }
-                328 = {
-                    change_province_name = "锡诺普"  # Sinope
-                    rename_capital = "锡诺普"  # Sinop
-                }
-                329 = {
-                    change_province_name = "塞巴斯蒂安"  # Sebasteia
-                    rename_capital = "塞巴斯托普利斯"  # Sebastopolis
-                }
-                330 = {
-                    change_province_name = "特拉比松"  # Trebizond
-                    rename_capital = "特拉布宗"  # Trapezous
-                }
-                331 = {
-                    change_province_name = "狄奥多西波利斯"  # Theodosiopolis
-                    rename_capital = "狄奥多西波利斯"  # Theodosiopolis
-                }
-                1764 = {
-                    change_province_name = "梅森布里亚"  # Mesambria
-                    rename_capital = "梅森布里亚"  # Mesambria
-                }
-                1846 = {
-                    change_province_name = "亚美尼亚坎"  # Armeniakon
-                    rename_capital = "阿马西亚"  # Amasea
-                }
-                1848 = {
-                    change_province_name = "索佐波利斯"  # Baris
-                    rename_capital = "巴里斯"  # Baris
-                }
-                2296 = {
-                    change_province_name = "阿卑多斯"  # Abydos
-                    rename_capital = "皮盖伊"  # Pigai
-                }
-                2297 = {
-                    change_province_name = "色雷斯西安"  # Thrakesion
-                    rename_capital = "马格内西亚"  # Magnesia
-                }
-                2298 = {
-                    change_province_name = "安塔利亚"  # Attalia
-                    rename_capital = "安塔利亚"  # Attalia
-                }
-                2299 = {
-                    change_province_name = "赫拉克利亚"  # Boukellarion
-                    rename_capital = "布凯拉里安"  # Klaudiopol
-                }
-                2300 = {
-                    change_province_name = "卡帕多西亚"  # Cappadocia
-                    rename_capital = "塔维姆"  # Tavium
-                }
-                2301 = {
-                    change_province_name = "哈尔希安"  # Charsianon
-                    rename_capital = "凯撒利亚"  # Ceasarea
-                }
-                2302 = {
-                    change_province_name = "塞琉西亚"  # Seleucia
-                    rename_capital = "塞琉西亚"  # Kermarage
-                }
-                2304 = {
-                    change_province_name = "迦勒底"  # Chaldia
-                    rename_capital = "萨姆松"  # Amissos
-                }
-                2305 = {
-                    change_province_name = "阿希里森"  # Acilisene
-                    rename_capital = "阿希里森"  # Acilisene
-                }
-                2750 = {
-                    change_province_name = "菲利普波利斯"  # Philippopolis
-                    rename_capital = "菲利普波利斯"  # Philippopolis
-                }
-                4307 = {
-                    change_province_name = "科洛尼亚"  # Colonia
-                    rename_capital = "科洛尼亚"  # Colonia
-                }
-                4308 = {
-                    change_province_name = "劳迪基亚"  # Laodicea
-                    rename_capital = "劳迪基亚"  # Laodicea
-                }
-                4309 = {
-                    change_province_name = "特拉勒斯"  # Tralles
-                    rename_capital = "特拉勒斯"  # Tralles
-                }
-                4310 = {
-                    change_province_name = "迪夫里伊"  # Tephrike
-                    rename_capital = "迪夫里伊"  # Tephrike
-                }
-                4311 = {
-                    change_province_name = "安纳托利亚"  # Anatolikon
-                    rename_capital = "布尔杜尔"  # Polydorion
-                }
-                4312 = {
-                    change_province_name = "多利留姆"  # Dorylaeum
-                    rename_capital = "多利留姆"  # Dorylaeum
-                }
-                4313 = {
-                    change_province_name = "冈格拉"  # Gangra
-                    rename_capital = "冈格拉"  # Gangra
-                }
-                4314 = {
-                    change_province_name = "查士丁尼波利斯"  # Justinianopolis
-                    rename_capital = "查士丁尼波利斯"  # Justinianopolis
-                }
-                4315 = {
-                    change_province_name = "埃夫多克西亚"  # Evdoksia
-                    rename_capital = "埃夫多克西亚"  # Evdoksia
-                }
-            }
-            custom_tooltip = reestablishing_themes_names_tooltip
-            if = {
-                limit = {
-                    NOT = {
-                        has_global_flag = constantinople_restored
-                    }
-                }
-                151 = {
-                    add_base_tax = 4
-                    add_base_production = 4
-                    add_base_manpower = 3
-                }
-                set_global_flag = constantinople_restored
-            }
-            add_country_modifier = {
-                name = "the_theme_system"
-                duration = -1
-            }
-        }
+    trigger = {
+      religion = orthodox
+      aydin_area = {
+        type = all
+        owned_by = ROOT
+        religion = orthodox
+      }
+      hudavendigar_area = {
+        type = all
+        owned_by = ROOT
+        religion = orthodox
+      }
     }
-    convert_asia_minor = {
-        icon = mission_non-western_soldiers
-        required_missions = {
-            reestablish_the_theme_system
-        }
-        position = 5
-        provinces_to_highlight = {
-            OR = {
-                area = aydin_area
-                area = hudavendigar_area
-            }
-            OR = {
-                NOT = {
-                    religion = orthodox
-                }
-                NOT = {
-                    owned_by = ROOT
-                }
-            }
-        }
-        trigger = {
-            religion = orthodox
-            aydin_area = {
-                type = all
-                owned_by = ROOT
-                religion = orthodox
-            }
-            hudavendigar_area = {
-                type = all
-                owned_by = ROOT
-                religion = orthodox
-            }
-        }
-        effect = {
-            add_country_modifier = {
-                name = "growth_of_the_orthodox_church"
-                duration = 7300
-            }
-            add_patriarch_authority = 0.1
-            add_permanent_claim = 358
-            add_permanent_claim = 379
-            add_permanent_claim = 2313
-        }
+    effect = {
+      add_country_modifier = {
+        name = "growth_of_the_orthodox_church"
+        duration = 7300
+      }
+      add_patriarch_authority = 0.1
+      add_permanent_claim = 358
+      add_permanent_claim = 379
+      add_permanent_claim = 2313
     }
-    the_pentarchy = {
-        icon = mission_empire
-        position = 7
-        required_missions = {
-            recover_rome
-            convert_asia_minor
-        }
-        provinces_to_highlight = {
-            OR = {
-                province_id = 118
-                province_id = 151
-                province_id = 358
-                province_id = 379
-                province_id = 2313
-            }
-        }
-        trigger = {
-            owns = 118
-            owns = 151
-            owns = 358
-            owns = 379
-            owns = 2313
-        }
-        effect = {
-            add_country_modifier = {
-                name = "healing_the_schism"
-                duration = -1
-            }
-            country_event = {
-                id = catholic_flavor.3
-            }
-        }
+  }
+  the_pentarchy = {
+    icon = mission_empire
+    position = 7
+    required_missions = {
+      recover_rome
+      convert_asia_minor
     }
+    provinces_to_highlight = {
+      OR = {
+        province_id = 118
+        province_id = 151
+        province_id = 358
+        province_id = 379
+        province_id = 2313
+      }
+    }
+    trigger = {
+      owns = 118
+      owns = 151
+      owns = 358
+      owns = 379
+      owns = 2313
+    }
+    effect = {
+      add_country_modifier = {
+        name = "healing_the_schism"
+        duration = -1
+      }
+      country_event = {
+        id = catholic_flavor.3
+      }
+    }
+  }
 }

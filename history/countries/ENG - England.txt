@@ -9,1328 +9,1328 @@ religion = catholic
 capital = 236
 national_focus = DIP
 1429.11.6 = {
-    monarch = {
-        name = "亨利 VI"  # Henry VI
-        dynasty = "兰开斯特"  # Lancaster
-        birth_date = 1421.12.6
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = infertile_personality
+  monarch = {
+    name = "亨利 VI"  # Henry VI
+    dynasty = "兰开斯特"  # Lancaster
+    birth_date = 1421.12.6
+    adm = 0
+    dip = 0
+    mil = 0
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = infertile_personality
 }
 1435.1.1 = {
-    leader = {
-        name = "理查德 金雀花"  # Richard Plantagenet
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1460.12.30
-    }
+  leader = {
+    name = "理查德 金雀花"  # Richard Plantagenet
+    Plantagenet"type = "
+    generalfire = "
+    2shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1460.12.30
+  }
 }
 1445.4.23 = {
-    queen = {
-        country_of_origin = PRO
-        name = "玛格丽特"  # Margaret
-        dynasty = "德 安茹"  # d'Anjou
-        birth_date = 1430.3.23
-        death_date = 1471.4.11
-        female = yes
-        adm = 4
-        dip = 4
-        mil = 4
-    }
+  queen = {
+    country_of_origin = PRO
+    name = "玛格丽特"  # Margaret
+    dynasty = "德 安茹"  # d'Anjou
+    birth_date = 1430.3.23
+    death_date = 1471.4.11
+    female = yes
+    adm = 4
+    dip = 4
+    mil = 4
+  }
 }
 1450.1.1 = {
-    leader = {
-        name = "约翰 莫布雷"  # John Mowbray
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1461.3.4
-    }
+  leader = {
+    name = "约翰 莫布雷"  # John Mowbray
+    Mowbray"type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1461.3.4
+  }
 }
 1453.10.13 = {
-    heir = {
-        name = "爱德华"  # Edward
-        monarch_name = "爱德华 IV"  # Edward IV
-        dynasty = "兰开斯特"  # Lancaster
-        birth_date = 1453.10.13
-        death_date = 1471.5.4
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 4
-    }
+  heir = {
+    name = "爱德华"  # Edward
+    monarch_name = "爱德华 IV"  # Edward IV
+    dynasty = "兰开斯特"  # Lancaster
+    birth_date = 1453.10.13
+    death_date = 1471.5.4
+    claim = 95
+    adm = 1
+    dip = 2
+    mil = 4
+  }
 }
 1455.1.1 = {
-    leader = {
-        name = "埃德蒙 博福特"  # Edmund Beaufort
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1461.3.4
-    }
+  leader = {
+    name = "埃德蒙 博福特"  # Edmund Beaufort
+    Beaufort"type = "
+    generalfire = "
+    3shock = "
+    2manuever = "
+    2siege = "
+    0death_date = 1461.3.4
+  }
 }
 1455.1.1 = {
+  leader = {
+    name = "约翰 克利福德"  # John Clifford
+    Clifford"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    2siege = "
+    0death_date = 1461.3.4
+  }
+}
+1461.3.4 = {
+  monarch = {
+    name = "爱德华 IV"  # Edward IV
+    dynasty = "约克"  # York
+    birth_date = 1442.4.28
+    adm = 3
+    dip = 2
+    mil = 4
     leader = {
-        name = "约翰 克利福德"  # John Clifford
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 2
-        siege = 0
-        death_date = 1461.3.4
+      name = "爱德华 IV"  # Edward IV
+      type = "
+      generalfire = "
+      2shock = "
+      4manuever = "
+      4siege = 0
     }
+  }
 }
 1461.3.4 = {
-    monarch = {
-        name = "爱德华 IV"  # Edward IV
-        dynasty = "约克"  # York
-        birth_date = 1442.4.28
-        adm = 3
-        dip = 2
-        mil = 4
-        leader = {
-            name = "爱德华 IV"  # Edward IV
-            type = general
-            fire = 2
-            shock = 4
-            manuever = 4
-            siege = 0
-        }
-    }
+  heir = {
+    name = "乔治"  # George
+    monarch_name = "乔治 I"  # George I
+    dynasty = "约克"  # York
+    birth_date = 1449.10.21
+    death_date = 1478.2.18
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1461.3.4 = {
-    heir = {
-        name = "乔治"  # George
-        monarch_name = "乔治 I"  # George I
-        dynasty = "约克"  # York
-        birth_date = 1449.10.21
-        death_date = 1478.2.18
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  leader = {
+    name = "理查德 内维尔"  # Richard Neville
+    Neville"type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1471.4.14
+  }
 }
 1461.3.4 = {
-    leader = {
-        name = "理查德 内维尔"  # Richard Neville
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1471.4.14
-    }
-}
-1461.3.4 = {
-    leader = {
-        name = "威廉 黑斯廷斯"  # William Hastings
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1483.6.13
-    }
+  leader = {
+    name = "威廉 黑斯廷斯"  # William Hastings
+    Hastings"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1483.6.13
+  }
 }
 1465.5.1 = {
-    queen = {
-        country_of_origin = ENG
-        name = "伊丽莎白"  # Elisabeth
-        dynasty = "伍德维尔"  # Woodville
-        birth_date = 1437.1.1
-        death_date = 1492.6.8
-        female = yes
-        adm = 2
-        dip = 5
-        mil = 2
-    }
+  queen = {
+    country_of_origin = ENG
+    name = "伊丽莎白"  # Elisabeth
+    dynasty = "伍德维尔"  # Woodville
+    birth_date = 1437.1.1
+    death_date = 1492.6.8
+    female = yes
+    adm = 2
+    dip = 5
+    mil = 2
+  }
 }
 1470.10.30 = {
-    monarch = {
-        name = "亨利 VI"  # Henry VI
-        dynasty = "兰开斯特"  # Lancaster
-        birth_date = 1421.12.6
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "亨利 VI"  # Henry VI
+    dynasty = "兰开斯特"  # Lancaster
+    birth_date = 1421.12.6
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1470.10.30 = {
-    heir = {
-        name = "爱德华"  # Edward
-        monarch_name = "爱德华 V"  # Edward V
-        dynasty = "兰开斯特"  # Lancaster
-        birth_date = 1453.10.13
-        death_date = 1471.5.4
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  heir = {
+    name = "爱德华"  # Edward
+    monarch_name = "爱德华 V"  # Edward V
+    dynasty = "兰开斯特"  # Lancaster
+    birth_date = 1453.10.13
+    death_date = 1471.5.4
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1471.4.11 = {
-    monarch = {
-        name = "爱德华 IV"  # Edward IV
-        dynasty = "约克"  # York
-        birth_date = 1442.4.28
-        adm = 4
-        dip = 3
-        mil = 4
-        leader = {
-            name = "爱德华 IV"  # Edward IV
-            type = general
-            fire = 2
-            shock = 4
-            manuever = 4
-            siege = 0
-        }
-    }
-}
-1471.4.11 = {
-    heir = {
-        name = "爱德华"  # Edward
-        monarch_name = "爱德华 V"  # Edward V
-        dynasty = "约克"  # York
-        birth_date = 1470.11.2
-        death_date = 1483.6.26
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 2
-    }
-}
-1471.4.11 = {
+  monarch = {
+    name = "爱德华 IV"  # Edward IV
+    dynasty = "约克"  # York
+    birth_date = 1442.4.28
+    adm = 4
+    dip = 3
+    mil = 4
     leader = {
-        name = "理查德 金雀花"  # Richard Plantagenet
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 4
-        siege = 1
-        death_date = 1483.6.25
+      name = "爱德华 IV"  # Edward IV
+      type = "
+      generalfire = "
+      2shock = "
+      4manuever = "
+      4siege = 0
     }
+  }
+}
+1471.4.11 = {
+  heir = {
+    name = "爱德华"  # Edward
+    monarch_name = "爱德华 V"  # Edward V
+    dynasty = "约克"  # York
+    birth_date = 1470.11.2
+    death_date = 1483.6.26
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 2
+  }
+}
+1471.4.11 = {
+  leader = {
+    name = "理查德 金雀花"  # Richard Plantagenet
+    Plantagenet"type = "
+    generalfire = "
+    2shock = "
+    4manuever = "
+    4siege = "
+    1death_date = 1483.6.25
+  }
 }
 1475.8.29 = {
-    remove_accepted_culture = gascon
-    remove_accepted_culture = normand
-    set_global_flag = eng_had_end_of_hundred_years_war
+  remove_accepted_culture = gascon
+  remove_accepted_culture = normand
+  set_global_flag = eng_had_end_of_hundred_years_war
 }
 1478.1.18 = {
-    leader = {
-        name = "托马斯 霍华德"  # Thomas Howard
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1513.10.1
-    }
+  leader = {
+    name = "托马斯 霍华德"  # Thomas Howard
+    Howard"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1513.10.1
+  }
 }
 1483.4.9 = {
-    monarch = {
-        name = "爱德华 V"  # Edward V
-        dynasty = "约克"  # York
-        birth_date = 1470.11.1
-        adm = 0
-        dip = 0
-        mil = 2
-    }
+  monarch = {
+    name = "爱德华 V"  # Edward V
+    dynasty = "约克"  # York
+    birth_date = 1470.11.1
+    adm = 0
+    dip = 0
+    mil = 2
+  }
 }
 1483.4.9 = {
-    heir = {
-        name = "理查德"  # Richard
-        monarch_name = "理查德 III"  # Richard III
-        dynasty = "约克"  # York
-        birth_date = 1473.8.17
-        death_date = 1483.6.26
-        claim = 95
-        adm = 2
-        mil = 2
-        dip = 1
-    }
+  heir = {
+    name = "理查德"  # Richard
+    monarch_name = "理查德 III"  # Richard III
+    dynasty = "约克"  # York
+    birth_date = 1473.8.17
+    death_date = 1483.6.26
+    claim = 95
+    adm = 2
+    mil = 2
+    dip = 1
+  }
 }
 1483.6.26 = {
-    monarch = {
-        name = "理查德 III"  # Richard III
-        dynasty = "约克"  # York
-        adm = 3
-        dip = 2
-        mil = 4
-        leader = {
-            name = "理查德 III"  # Richard III
-            type = general
-            fire = 2
-            shock = 4
-            manuever = 4
-            siege = 1
-        }
-    }
-    queen = {
-        country_of_origin = ENG
-        name = "安妮"  # Anne
-        dynasty = "内维尔"  # Neville
-        birth_date = 1465.6.11
-        death_date = 1485.3.16
-        female = yes
-        adm = 2
-        dip = 4
-        mil = 2
-    }
-}
-1483.6.26 = {
-    heir = {
-        name = "爱德华"  # Edward
-        monarch_name = "爱德华 VI"  # Edward VI
-        dynasty = "约克"  # York
-        birth_date = 1473.12.8
-        death_date = 1484.3.31
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 2
-    }
-}
-1485.8.23 = {
-    monarch = {
-        name = "亨利 VII"  # Henry VII
-        dynasty = "都铎"  # Tudor
-        birth_date = 1457.1.28
-        adm = 3
-        dip = 4
-        mil = 2
-    }
-}
-1485.8.23 = {
+  monarch = {
+    name = "理查德 III"  # Richard III
+    dynasty = "约克"  # York
+    adm = 3
+    dip = 2
+    mil = 4
     leader = {
-        name = "贾斯珀 都铎"  # Jasper Tudor
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1495.12.21
+      name = "理查德 III"  # Richard III
+      type = "
+      generalfire = "
+      2shock = "
+      4manuever = "
+      4siege = 1
     }
+  }
+  queen = {
+    country_of_origin = ENG
+    name = "安妮"  # Anne
+    dynasty = "内维尔"  # Neville
+    birth_date = 1465.6.11
+    death_date = 1485.3.16
+    female = yes
+    adm = 2
+    dip = 4
+    mil = 2
+  }
+}
+1483.6.26 = {
+  heir = {
+    name = "爱德华"  # Edward
+    monarch_name = "爱德华 VI"  # Edward VI
+    dynasty = "约克"  # York
+    birth_date = 1473.12.8
+    death_date = 1484.3.31
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 2
+  }
+}
+1485.8.23 = {
+  monarch = {
+    name = "亨利 VII"  # Henry VII
+    dynasty = "都铎"  # Tudor
+    birth_date = 1457.1.28
+    adm = 3
+    dip = 4
+    mil = 2
+  }
+}
+1485.8.23 = {
+  leader = {
+    name = "贾斯珀 都铎"  # Jasper Tudor
+    Tudor"type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1495.12.21
+  }
 }
 1486.1.18 = {
-    queen = {
-        country_of_origin = ENG
-        name = "伊丽莎白"  # Elisabeth
-        dynasty = "约克"  # York
-        birth_date = 1466.2.11
-        death_date = 1503.2.11
-        female = yes
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  queen = {
+    country_of_origin = ENG
+    name = "伊丽莎白"  # Elisabeth
+    dynasty = "约克"  # York
+    birth_date = 1466.2.11
+    death_date = 1503.2.11
+    female = yes
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1486.9.20 = {
-    heir = {
-        name = "阿瑟"  # Arthur
-        monarch_name = "阿瑟 I"  # Arthur I
-        dynasty = "都铎"  # Tudor
-        birth_date = 1486.9.20
-        death_date = 1502.4.2
-        claim = 95
-        adm = 2
-        dip = 4
-        mil = 3
-    }
+  heir = {
+    name = "阿瑟"  # Arthur
+    monarch_name = "阿瑟 I"  # Arthur I
+    dynasty = "都铎"  # Tudor
+    birth_date = 1486.9.20
+    death_date = 1502.4.2
+    claim = 95
+    adm = 2
+    dip = 4
+    mil = 3
+  }
 }
 1497.1.1 = {
-    leader = {
-        name = "约翰 卡伯特"  # John Cabot
-        type = explorer
-        fire = 2
-        shock = 4
-        manuever = 5
-        siege = 0
-        death_date = 1499.7.2
-    }
+  leader = {
+    name = "约翰 卡伯特"  # John Cabot
+    type = "
+    explorerfire = "
+    2shock = "
+    4manuever = "
+    5siege = "
+    0death_date = 1499.7.2
+  }
 }
 1502.4.2 = {
-    heir = {
-        name = "亨利"  # Henry
-        monarch_name = "亨利 VIII"  # Henry VIII
-        dynasty = "都铎"  # Tudor
-        birth_date = 1491.6.28
-        death_date = 1547.1.28
-        claim = 95
-        adm = 4
-        dip = 4
-        mil = 4
-    }
+  heir = {
+    name = "亨利"  # Henry
+    monarch_name = "亨利 VIII"  # Henry VIII
+    dynasty = "都铎"  # Tudor
+    birth_date = 1491.6.28
+    death_date = 1547.1.28
+    claim = 95
+    adm = 4
+    dip = 4
+    mil = 4
+  }
 }
 1508.1.1 = {
-    leader = {
-        name = "塞巴斯蒂安 卡伯特"  # Sebastian Cabot
-        type = explorer
-        fire = 5
-        shock = 2
-        manuever = 4
-        siege = 0
-        death_date = 1557.2.8
-    }
+  leader = {
+    name = "塞巴斯蒂安 卡伯特"  # Sebastian Cabot
+    type = "
+    explorerfire = "
+    5shock = "
+    2manuever = "
+    4siege = "
+    0death_date = 1557.2.8
+  }
 }
 1509.4.22 = {
-    monarch = {
-        name = "亨利 VIII"  # Henry VIII
-        dynasty = "都铎"  # Tudor
-        birth_date = 1491.6.28
-        adm = 4
-        dip = 4
-        mil = 4
-    }
+  monarch = {
+    name = "亨利 VIII"  # Henry VIII
+    dynasty = "都铎"  # Tudor
+    birth_date = 1491.6.28
+    adm = 4
+    dip = 4
+    mil = 4
+  }
 }
 1509.6.24 = {
-    queen = {
-        country_of_origin = ARA
-        name = "凯瑟琳"  # Catherine
-        dynasty = "德 特拉斯塔马拉"  # de TrastÃ¡mara
-        birth_date = 1485.12.16
-        death_date = 1536.1.7
-        female = yes
-        adm = 5
-        dip = 4
-        mil = 4
-    }
+  queen = {
+    country_of_origin = ARA
+    name = "凯瑟琳"  # Catherine
+    dynasty = "德 特拉斯塔马拉"  # de TrastÃ¡mara
+    birth_date = 1485.12.16
+    death_date = 1536.1.7
+    female = yes
+    adm = 5
+    dip = 4
+    mil = 4
+  }
 }
 1512.1.1 = {
-    leader = {
-        name = "查尔斯 布兰登"  # Charles Brandon
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1545.8.24
-    }
+  leader = {
+    name = "查尔斯 布兰登"  # Charles Brandon
+    type = "
+    generalfire = "
+    3shock = "
+    2manuever = "
+    2siege = "
+    0death_date = 1545.8.24
+  }
 }
 1513.1.1 = {
-    leader = {
-        name = "爱德华 霍华德"  # Edward Howard
-        type = admiral
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1513.4.25
-    }
+  leader = {
+    name = "爱德华 霍华德"  # Edward Howard
+    type = "
+    admiralfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1513.4.25
+  }
 }
 1516.2.18 = {
-    heir = {
-        name = "玛丽"  # Mary
-        monarch_name = "玛丽 I"  # Mary I
-        dynasty = "都铎"  # Tudor
-        birth_date = 1516.2.18
-        death_date = 1558.11.17
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 0
-        female = yes
-    }
+  heir = {
+    name = "玛丽"  # Mary
+    monarch_name = "玛丽 I"  # Mary I
+    dynasty = "都铎"  # Tudor
+    birth_date = 1516.2.18
+    death_date = 1558.11.17
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 0
+    female = yes
+  }
 }
 1533.5.28 = {
-    queen = {
-        country_of_origin = ENG
-        name = "安妮"  # Anne
-        dynasty = "博林"  # Boleyn
-        birth_date = 1501.1.1
-        death_date = 1536.5.17
-        female = yes
-        adm = 4
-        dip = 4
-        mil = 2
-    }
+  queen = {
+    country_of_origin = ENG
+    name = "安妮"  # Anne
+    dynasty = "博林"  # Boleyn
+    birth_date = 1501.1.1
+    death_date = 1536.5.17
+    female = yes
+    adm = 4
+    dip = 4
+    mil = 2
+  }
 }
 1534.1.1 = {
-    religion = protestant
+  religion = protestant
 }
 1536.1.1 = {
-    decision = dissolution_of_the_monasteries
-    queen = {
-        country_of_origin = ENG
-        name = "简"  # Jane
-        dynasty = "西摩"  # Seymour
-        birth_date = 1508.1.1
-        death_date = 1537.11.12
-        female = yes
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  decision = dissolution_of_the_monasteries
+  queen = {
+    country_of_origin = ENG
+    name = "简"  # Jane
+    dynasty = "西摩"  # Seymour
+    birth_date = 1508.1.1
+    death_date = 1537.11.12
+    female = yes
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1537.10.12 = {
-    heir = {
-        name = "爱德华"  # Edward
-        monarch_name = "爱德华 VI"  # Edward VI
-        dynasty = "都铎"  # Tudor
-        birth_date = 1537.10.12
-        death_date = 1553.7.6
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "爱德华"  # Edward
+    monarch_name = "爱德华 VI"  # Edward VI
+    dynasty = "都铎"  # Tudor
+    birth_date = 1537.10.12
+    death_date = 1553.7.6
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 1
+  }
 }
 1540.1.6 = {
-    queen = {
-        country_of_origin = KLE
-        name = "安妮"  # Anne
-        dynasty = "冯 德 马克"  # von der Mark
-        birth_date = 1515.9.22
-        death_date = 1557.7.16
-        female = yes
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  queen = {
+    country_of_origin = KLE
+    name = "安妮"  # Anne
+    dynasty = "冯 德 马克"  # von der Mark
+    birth_date = 1515.9.22
+    death_date = 1557.7.16
+    female = yes
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1540.7.28 = {
-    queen = {
-        country_of_origin = ENG
-        name = "凯瑟琳"  # Catherine
-        dynasty = "霍华德"  # Howard
-        birth_date = 1523.1.1
-        death_date = 1541.11.23
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  queen = {
+    country_of_origin = ENG
+    name = "凯瑟琳"  # Catherine
+    dynasty = "霍华德"  # Howard
+    birth_date = 1523.1.1
+    death_date = 1541.11.23
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1543.7.12 = {
-    queen = {
-        country_of_origin = ENG
-        name = "凯瑟琳"  # Catherine
-        dynasty = "帕尔"  # Parr
-        birth_date = 1512.1.1
-        death_date = 1548.9.5
-        female = yes
-        adm = 4
-        dip = 4
-        mil = 2
-    }
+  queen = {
+    country_of_origin = ENG
+    name = "凯瑟琳"  # Catherine
+    dynasty = "帕尔"  # Parr
+    birth_date = 1512.1.1
+    death_date = 1548.9.5
+    female = yes
+    adm = 4
+    dip = 4
+    mil = 2
+  }
 }
 1547.1.28 = {
-    monarch = {
-        name = "爱德华 VI"  # Edward VI
-        dynasty = "都铎"  # Tudor
-        birth_date = 1537.10.12
-        adm = 3
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "爱德华 VI"  # Edward VI
+    dynasty = "都铎"  # Tudor
+    birth_date = 1537.10.12
+    adm = 3
+    dip = 3
+    mil = 1
+  }
 }
 1547.1.28 = {
-    heir = {
-        name = "玛丽"  # Mary
-        monarch_name = "玛丽 I"  # Mary I
-        dynasty = "都铎"  # Tudor
-        birth_date = 1516.2.18
-        death_date = 1558.11.17
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 0
-        female = yes
-    }
+  heir = {
+    name = "玛丽"  # Mary
+    monarch_name = "玛丽 I"  # Mary I
+    dynasty = "都铎"  # Tudor
+    birth_date = 1516.2.18
+    death_date = 1558.11.17
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 0
+    female = yes
+  }
 }
 1549.1.1 = {
-    decision = act_of_uniformity
+  decision = act_of_uniformity
 }
 1552.1.1 = {
-    leader = {
-        name = "休 威洛比"  # Hugh Willoughby
-        type = explorer
-        fire = 1
-        shock = 1
-        manuever = 3
-        siege = 0
-        death_date = 1554.10.19
-    }
+  leader = {
+    name = "休 威洛比"  # Hugh Willoughby
+    type = "
+    explorerfire = "
+    1shock = "
+    1manuever = "
+    3siege = "
+    0death_date = 1554.10.19
+  }
 }
 1552.1.1 = {
-    leader = {
-        name = "理查德 钱塞勒"  # Richard Chancellor
-        type = explorer
-        fire = 1
-        shock = 1
-        manuever = 3
-        siege = 0
-        death_date = 1556.7.28
-    }
+  leader = {
+    name = "理查德 钱塞勒"  # Richard Chancellor
+    type = "
+    explorerfire = "
+    1shock = "
+    1manuever = "
+    3siege = "
+    0death_date = 1556.7.28
+  }
 }
 1553.1.1 = {
-    leader = {
-        name = "马丁 弗罗比歇"  # Martin Frobisher
-        type = explorer
-        fire = 5
-        shock = 2
-        manuever = 4
-        siege = 0
-        death_date = 1594.11.22
-    }
+  leader = {
+    name = "马丁 弗罗比歇"  # Martin Frobisher
+    type = "
+    explorerfire = "
+    5shock = "
+    2manuever = "
+    4siege = "
+    0death_date = 1594.11.22
+  }
 }
 1553.7.6 = {
-    monarch = {
-        name = "简 I"  # Jane I
-        dynasty = "格雷"  # Grey
-        birth_date = 1536.1.1
-        adm = 3
-        dip = 2
-        mil = 2
-        female = yes
-    }
-    queen = {
-        country_of_origin = ENG
-        name = "吉尔福德"  # Guildford
-        dynasty = "达德利"  # Dudley
-        birth_date = 1535.1.1
-        death_date = 1554.2.12
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "简 I"  # Jane I
+    dynasty = "格雷"  # Grey
+    birth_date = 1536.1.1
+    adm = 3
+    dip = 2
+    mil = 2
+    female = yes
+  }
+  queen = {
+    country_of_origin = ENG
+    name = "吉尔福德"  # Guildford
+    dynasty = "达德利"  # Dudley
+    birth_date = 1535.1.1
+    death_date = 1554.2.12
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1553.7.6 = {
-    heir = {
-        name = "凯萨琳"  # Catherine
-        monarch_name = "凯萨琳 I"  # Catherine I
-        dynasty = "格雷"  # Grey
-        birth_date = 1540.8.25
-        death_date = 1568.1.26
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 1
-        female = yes
-    }
+  heir = {
+    name = "凯萨琳"  # Catherine
+    monarch_name = "凯萨琳 I"  # Catherine I
+    dynasty = "格雷"  # Grey
+    birth_date = 1540.8.25
+    death_date = 1568.1.26
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 1
+    female = yes
+  }
 }
 1553.7.19 = {
-    monarch = {
-        name = "玛丽 I"  # Mary I
-        dynasty = "都铎"  # Tudor
-        birth_date = 1516.2.18
-        adm = 1
-        dip = 1
-        mil = 0
-        female = yes
-    }
+  monarch = {
+    name = "玛丽 I"  # Mary I
+    dynasty = "都铎"  # Tudor
+    birth_date = 1516.2.18
+    adm = 1
+    dip = 1
+    mil = 0
+    female = yes
+  }
 }
 1553.7.19 = {
-    heir = {
-        name = "伊丽莎白"  # Elizabeth
-        monarch_name = "伊丽莎白 I"  # Elizabeth I
-        dynasty = "都铎"  # Tudor
-        birth_date = 1533.9.7
-        death_date = 1603.3.24
-        claim = 95
-        adm = 6
-        dip = 6
-        mil = 5
-        female = yes
-    }
+  heir = {
+    name = "伊丽莎白"  # Elizabeth
+    monarch_name = "伊丽莎白 I"  # Elizabeth I
+    dynasty = "都铎"  # Tudor
+    birth_date = 1533.9.7
+    death_date = 1603.3.24
+    claim = 95
+    adm = 6
+    dip = 6
+    mil = 5
+    female = yes
+  }
 }
 1553.7.19 = {
-    religion = catholic
+  religion = catholic
 }
 1556.1.1 = {
-    leader = {
-        name = "威廉 菲兹威廉"  # William Fitzwilliam
-        type = admiral
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1599.2.6
-    }
+  leader = {
+    name = "威廉 菲兹威廉"  # William Fitzwilliam
+    type = "
+    admiralfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1599.2.6
+  }
 }
 1558.1.1 = {
-    leader = {
-        name = "爱德华 克林顿"  # Edward Clinton
-        type = admiral
-        fire = 2
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1585.1.16
-    }
+  leader = {
+    name = "爱德华 克林顿"  # Edward Clinton
+    type = "
+    admiralfire = "
+    2shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1585.1.16
+  }
 }
 1558.11.17 = {
-    monarch = {
-        name = "伊丽莎白 I"  # Elizabeth I
-        dynasty = "都铎"  # Tudor
-        birth_date = 1533.9.7
-        adm = 6
-        dip = 6
-        mil = 5
-        female = yes
-    }
+  monarch = {
+    name = "伊丽莎白 I"  # Elizabeth I
+    dynasty = "都铎"  # Tudor
+    birth_date = 1533.9.7
+    adm = 6
+    dip = 6
+    mil = 5
+    female = yes
+  }
 }
 1558.11.17 = {
-    religion = protestant
+  religion = protestant
 }
 1566.6.19 = {
-    heir = {
-        name = "詹姆斯"  # James
-        culture = scottish
-        monarch_name = "詹姆士 I"  # James I
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1566.6.19
-        death_date = 1625.3.27
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "詹姆斯"  # James
+    culture = scottish
+    monarch_name = "詹姆士 I"  # James I
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1566.6.19
+    death_date = 1625.3.27
+    claim = 95
+    adm = 2
+    dip = 3
+    mil = 1
+  }
 }
 1577.1.1 = {
-    leader = {
-        name = "弗朗西斯 德雷克"  # Francis Drake
-        type = explorer
-        fire = 5
-        shock = 5
-        manuever = 6
-        siege = 0
-        death_date = 1596.1.28
-    }
+  leader = {
+    name = "弗朗西斯 德雷克"  # Francis Drake
+    type = "
+    explorerfire = "
+    5shock = "
+    5manuever = "
+    6siege = "
+    0death_date = 1596.1.28
+  }
 }
 1580.1.1 = {
-    decision = enlist_privateers
+  decision = enlist_privateers
 }
 1580.1.1 = {
-    leader = {
-        name = "沃尔特 雷利"  # Walter Raleigh
-        type = conquistador
-        fire = 4
-        shock = 4
-        manuever = 5
-        siege = 0
-        death_date = 1618.10.29
-    }
+  leader = {
+    name = "沃尔特 雷利"  # Walter Raleigh
+    Raleigh"type = "
+    conquistadorfire = "
+    4shock = "
+    4manuever = "
+    5siege = "
+    0death_date = 1618.10.29
+  }
 }
 1584.1.1 = {
-    leader = {
-        name = "罗伯特 德弗罗"  # Robert Devereux
-        type = conquistador
-        fire = 4
-        shock = 4
-        manuever = 5
-        siege = 0
-        death_date = 1601.2.25
-    }
+  leader = {
+    name = "罗伯特 德弗罗"  # Robert Devereux
+    Devereux"type = "
+    conquistadorfire = "
+    4shock = "
+    4manuever = "
+    5siege = "
+    0death_date = 1601.2.25
+  }
 }
 1584.1.1 = {
-    leader = {
-        name = "威廉 卡文迪什"  # William Cavendish
-        type = explorer
-        fire = 4
-        shock = 4
-        manuever = 5
-        siege = 0
-        death_date = 1626.3.3
-    }
+  leader = {
+    name = "威廉 卡文迪什"  # William Cavendish
+    Cavendish"type = "
+    explorerfire = "
+    4shock = "
+    4manuever = "
+    5siege = "
+    0death_date = 1626.3.3
+  }
 }
 1585.1.1 = {
-    leader = {
-        name = "查尔斯 霍华德"  # Charles Howard
-        type = admiral
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1624.12.14
-    }
+  leader = {
+    name = "查尔斯 霍华德"  # Charles Howard
+    type = "
+    admiralfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1624.12.14
+  }
 }
 1585.1.1 = {
-    leader = {
-        name = "约翰 戴维斯"  # John Davis
-        type = explorer
-        fire = 1
-        shock = 1
-        manuever = 3
-        siege = 0
-        death_date = 1594.11.22
-    }
+  leader = {
+    name = "约翰 戴维斯"  # John Davis
+    Davis"type = "
+    explorerfire = "
+    1shock = "
+    1manuever = "
+    3siege = "
+    0death_date = 1594.11.22
+  }
 }
 1597.1.1 = {
-    leader = {
-        name = "亨利 哈得孙"  # Henry Hudson
-        type = explorer
-        fire = 3
-        shock = 2
-        manuever = 5
-        siege = 0
-        death_date = 1611.6.17
-    }
+  leader = {
+    name = "亨利 哈得孙"  # Henry Hudson
+    type = "
+    explorerfire = "
+    3shock = "
+    2manuever = "
+    5siege = "
+    0death_date = 1611.6.17
+  }
 }
 1598.1.1 = {
-    mercantilism = 10
+  mercantilism = 10
 }
 1600.1.1 = {
-    leader = {
-        name = "约翰 史密斯"  # John Smith
-        type = conquistador
-        fire = 2
-        shock = 2
-        manuever = 6
-        siege = 0
-        death_date = 1617.7.11
-    }
+  leader = {
+    name = "约翰 史密斯"  # John Smith
+    Smith"type = "
+    conquistadorfire = "
+    2shock = "
+    2manuever = "
+    6siege = "
+    0death_date = 1617.7.11
+  }
 }
 1603.3.24 = {
-    monarch = {
-        name = "詹姆斯 I"  # James I
-        culture = scottish
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1566.6.19
-        adm = 2
-        dip = 3
-        mil = 1
-    }
-    queen = {
-        country_of_origin = DAN
-        name = "安妮"  # Anne
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1574.12.12
-        death_date = 1619.3.2
-        female = yes
-        adm = 3
-        dip = 4
-        mil = 1
-    }
+  monarch = {
+    name = "詹姆斯 I"  # James I
+    culture = scottish
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1566.6.19
+    adm = 2
+    dip = 3
+    mil = 1
+  }
+  queen = {
+    country_of_origin = DAN
+    name = "安妮"  # Anne
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1574.12.12
+    death_date = 1619.3.2
+    female = yes
+    adm = 3
+    dip = 4
+    mil = 1
+  }
 }
 1603.3.24 = {
-    heir = {
-        name = "亨利 弗雷德里克"  # Henry Frederick
-        monarch_name = "亨利 IX"  # Henry IX
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1594.2.19
-        death_date = 1612.11.6
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 2
-    }
+  heir = {
+    name = "亨利 弗雷德里克"  # Henry Frederick
+    monarch_name = "亨利 IX"  # Henry IX
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1594.2.19
+    death_date = 1612.11.6
+    claim = 95
+    adm = 3
+    dip = 4
+    mil = 2
+  }
 }
 1610.1.1 = {
-    leader = {
-        name = "达德 达德利"  # Dudd Dudley
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1684.3.3
-    }
+  leader = {
+    name = "达德 达德利"  # Dudd Dudley
+    type = "
+    generalfire = "
+    3shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1684.3.3
+  }
 }
 1612.1.1 = {
-    leader = {
-        name = "威廉 巴芬"  # William Baffin
-        type = explorer
-        fire = 1
-        shock = 1
-        manuever = 5
-        siege = 0
-        death_date = 1622.1.23
-    }
+  leader = {
+    name = "威廉 巴芬"  # William Baffin
+    type = "
+    explorerfire = "
+    1shock = "
+    1manuever = "
+    5siege = "
+    0death_date = 1622.1.23
+  }
 }
 1612.1.1 = {
-    leader = {
-        name = "托马斯 巴顿"  # Thomas Button
-        type = explorer
-        fire = 3
-        shock = 2
-        manuever = 4
-        siege = 0
-        death_date = 1634.4.8
-    }
+  leader = {
+    name = "托马斯 巴顿"  # Thomas Button
+    type = "
+    explorerfire = "
+    3shock = "
+    2manuever = "
+    4siege = "
+    0death_date = 1634.4.8
+  }
 }
 1612.11.6 = {
-    heir = {
-        name = "查尔斯"  # Charles
-        monarch_name = "查尔斯 I"  # Charles I
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1600.11.19
-        death_date = 1649.1.30
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "查尔斯"  # Charles
+    monarch_name = "查尔斯 I"  # Charles I
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1600.11.19
+    death_date = 1649.1.30
+    claim = 95
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1623.1.1 = {
-    leader = {
-        name = "乔治 维利尔斯"  # George Villiers
-        type = general
-        fire = 3
-        shock = 1
-        manuever = 2
-        siege = 0
-        death_date = 1624.8.23
-    }
+  leader = {
+    name = "乔治 维利尔斯"  # George Villiers
+    type = "
+    generalfire = "
+    3shock = "
+    1manuever = "
+    2siege = "
+    0death_date = 1624.8.23
+  }
 }
 1625.3.27 = {
-    monarch = {
-        name = "查尔斯 I"  # Charles I
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1600.11.19
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "查尔斯 I"  # Charles I
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1600.11.19
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1625.6.13 = {
-    queen = {
-        country_of_origin = FRA
-        name = "亨利埃塔 玛丽亚"  # Henrietta Maria
-        dynasty = "德 波旁"  # de Bourbon
-        birth_date = 1609.11.25
-        death_date = 1669.9.10
-        female = yes
-        adm = 3
-        dip = 4
-        mil = 2
-    }
+  queen = {
+    country_of_origin = FRA
+    name = "亨利埃塔 玛丽亚"  # Henrietta Maria
+    dynasty = "德 波旁"  # de Bourbon
+    birth_date = 1609.11.25
+    death_date = 1669.9.10
+    female = yes
+    adm = 3
+    dip = 4
+    mil = 2
+  }
 }
 1630.5.29 = {
-    heir = {
-        name = "查尔斯"  # Charles
-        monarch_name = "查尔斯 II"  # Charles II
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1630.5.29
-        death_date = 1685.2.6
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 0
-    }
+  heir = {
+    name = "查尔斯"  # Charles
+    monarch_name = "查尔斯 II"  # Charles II
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1630.5.29
+    death_date = 1685.2.6
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 0
+  }
 }
 1642.1.1 = {
-    leader = {
-        name = "鲁珀特亲王"  # Prince Rupert
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1646.5.5
-    }
+  leader = {
+    name = "鲁珀特亲王"  # Prince Rupert
+    type = "
+    generalfire = "
+    3shock = "
+    4manuever = "
+    4siege = "
+    0death_date = 1646.5.5
+  }
 }
 1646.5.5 = {
-    monarch = {
-        name = "奥利弗"  # Oliver
-        dynasty = "克伦威尔"  # Cromwell
-        birth_date = 1599.4.25
-        adm = 5
-        dip = 5
-        mil = 6
-        leader = {
-            name = "奥利弗 克伦威尔"  # Oliver Cromwell
-            type = general
-            fire = 5
-            shock = 5
-            manuever = 4
-            siege = 1
-        }
+  monarch = {
+    name = "奥利弗"  # Oliver
+    dynasty = "克伦威尔"  # Cromwell
+    birth_date = 1599.4.25
+    adm = 5
+    dip = 5
+    mil = 6
+    leader = {
+      name = "奥利弗 克伦威尔"  # Oliver Cromwell
+      Cromwell"type = "
+      generalfire = "
+      5shock = "
+      5manuever = "
+      4siege = 1
     }
-    religion = reformed
-    add_government_reform = presidential_despot_reform
-    set_legacy_government = republican_dictatorship
+  }
+  religion = reformed
+  add_government_reform = presidential_despot_reform
+  set_legacy_government = republican_dictatorship
 }
 1649.1.29 = {
-    leader = {
-        name = "罗伯特 布莱克"  # Robert Blake
-        type = admiral
-        fire = 4
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1657.8.17
-    }
+  leader = {
+    name = "罗伯特 布莱克"  # Robert Blake
+    Blake"type = "
+    admiralfire = "
+    4shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1657.8.17
+  }
 }
 1649.1.29 = {
-    leader = {
-        name = "乔治 蒙克"  # George Monck
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1670.1.3
-    }
+  leader = {
+    name = "乔治 蒙克"  # George Monck
+    Monck"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1670.1.3
+  }
 }
 1649.1.29 = {
-    leader = {
-        name = "托马斯 费尔法克斯"  # Thomas Fairfax
-        type = general
-        fire = 4
-        shock = 4
-        manuever = 3
-        siege = 1
-        death_date = 1671.11.12
-    }
+  leader = {
+    name = "托马斯 费尔法克斯"  # Thomas Fairfax
+    Fairfax"type = "
+    generalfire = "
+    4shock = "
+    4manuever = "
+    3siege = "
+    1death_date = 1671.11.12
+  }
 }
 1650.1.1 = {
-    leader = {
-        name = "乔治 艾斯丘"  # George Ayscue
-        type = admiral
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1671.7.19
-    }
+  leader = {
+    name = "乔治 艾斯丘"  # George Ayscue
+    Ayscue"type = "
+    admiralfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1671.7.19
+  }
 }
 1651.12.30 = {
-    mercantilism = 25
+  mercantilism = 25
 }
 1658.9.3 = {
-    monarch = {
-        name = "理查德"  # Richard
-        dynasty = "克伦威尔"  # Cromwell
-        birth_date = 1626.10.4
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "理查德"  # Richard
+    dynasty = "克伦威尔"  # Cromwell
+    birth_date = 1626.10.4
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1659.5.25 = {
-    monarch = {
-        name = "议会"  # Convention Parliament
-        adm = 2
-        dip = 2
-        mil = 2
-        regent = yes
-    }
-    religion = protestant
-    government = republic
-    add_government_reform = noble_elite_reform
-    set_legacy_government = noble_republic
+  monarch = {
+    name = "议会"  # Convention Parliament
+    adm = 2
+    dip = 2
+    mil = 2
+    regent = yes
+  }
+  religion = protestant
+  government = republic
+  add_government_reform = noble_elite_reform
+  set_legacy_government = noble_republic
 }
 1660.5.29 = {
-    monarch = {
-        name = "查尔斯 II"  # Charles II
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1630.5.29
-        adm = 3
-        dip = 2
-        mil = 0
-    }
-    set_legacy_government = administrative_monarchy
+  monarch = {
+    name = "查尔斯 II"  # Charles II
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1630.5.29
+    adm = 3
+    dip = 2
+    mil = 0
+  }
+  set_legacy_government = administrative_monarchy
 }
 1660.5.29 = {
-    heir = {
-        name = "詹姆斯"  # James
-        monarch_name = "詹姆斯 II"  # James II
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1633.10.14
-        death_date = 1701.9.16
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 3
-        leader = {
-            name = "詹姆斯 斯图亚特"  # James Stuart
-            type = general
-            fire = 3
-            shock = 2
-            manuever = 3
-            siege = 0
-        }
+  heir = {
+    name = "詹姆斯"  # James
+    monarch_name = "詹姆斯 II"  # James II
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1633.10.14
+    death_date = 1701.9.16
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 3
+    leader = {
+      name = "詹姆斯 斯图亚特"  # James Stuart
+      type = "
+      generalfire = "
+      3shock = "
+      2manuever = "
+      3siege = 0
     }
+  }
 }
 1662.4.23 = {
-    queen = {
-        country_of_origin = POR
-        name = "凯瑟琳"  # Catherine
-        dynasty = "德 布拉干萨"  # de BraganÃ§a
-        birth_date = 1638.11.25
-        death_date = 1705.12.31
-        female = yes
-        adm = 3
-        dip = 5
-        mil = 1
-    }
+  queen = {
+    country_of_origin = POR
+    name = "凯瑟琳"  # Catherine
+    dynasty = "德 布拉干萨"  # de BraganÃ§a
+    birth_date = 1638.11.25
+    death_date = 1705.12.31
+    female = yes
+    adm = 3
+    dip = 5
+    mil = 1
+  }
 }
 1660.5.29 = {
-    leader = {
-        name = "鲁珀特亲王"  # Prince Rupert
-        type = admiral
-        fire = 4
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1682.11.19
-    }
+  leader = {
+    name = "鲁珀特亲王"  # Prince Rupert
+    Rupert"type = "
+    admiralfire = "
+    4shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1682.11.19
+  }
 }
 1668.1.1 = {
-    leader = {
-        name = "皮埃尔 艾斯普瑞 拉迪松"  # Pierre-Esprit Radisson
-        type = conquistador
-        fire = 1
-        shock = 1
-        manuever = 5
-        siege = 0
-        death_date = 1710.4.1
-    }
+  leader = {
+    name = "皮埃尔 艾斯普瑞 拉迪松"  # Pierre-Esprit Radisson
+    Radisson"type = "
+    conquistadorfire = "
+    1shock = "
+    1manuever = "
+    5siege = "
+    0death_date = 1710.4.1
+  }
 }
 1672.1.1 = {
-    religion = protestant
+  religion = protestant
 }
 1672.1.1 = {
-    leader = {
-        name = "约翰 奥尔登"  # John Alden
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1687.9.22
-    }
+  leader = {
+    name = "约翰 奥尔登"  # John Alden
+    Alden"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1687.9.22
+  }
 }
 1673.1.1 = {
-    decision = test_act
+  decision = test_act
 }
 1678.1.1 = {
-    leader = {
-        name = "阿瑟 赫伯特"  # Arthur Herbert
-        type = admiral
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1688.3.11
-    }
+  leader = {
+    name = "阿瑟 赫伯特"  # Arthur Herbert
+    Herbert"type = "
+    admiralfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1688.3.11
+  }
 }
 1685.1.1 = {
+  leader = {
+    name = "约翰 丘吉尔"  # John Churchill
+    Churchill"type = "
+    generalfire = "
+    6shock = "
+    6manuever = "
+    5siege = "
+    2death_date = 1722.6.27
+  }
+}
+1685.2.6 = {
+  monarch = {
+    name = "詹姆斯 II"  # James II
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1633.10.14
+    adm = 2
+    dip = 2
+    mil = 3
     leader = {
-        name = "约翰 丘吉尔"  # John Churchill
-        type = general
-        fire = 6
-        shock = 6
-        manuever = 5
-        siege = 2
-        death_date = 1722.6.27
+      name = "詹姆斯 II"  # James II
+      type = "
+      generalfire = "
+      3shock = "
+      2manuever = "
+      3siege = 0
     }
+  }
+  queen = {
+    country_of_origin = MOD
+    name = "玛丽"  # Mary
+    dynasty = "德斯特"  # d'Este
+    birth_date = 1658.10.5
+    death_date = 1718.5.7
+    female = yes
+    adm = 2
+    dip = 4
+    mil = 1
+  }
 }
 1685.2.6 = {
-    monarch = {
-        name = "詹姆斯 II"  # James II
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1633.10.14
-        adm = 2
-        dip = 2
-        mil = 3
-        leader = {
-            name = "詹姆斯 II"  # James II
-            type = general
-            fire = 3
-            shock = 2
-            manuever = 3
-            siege = 0
-        }
-    }
-    queen = {
-        country_of_origin = MOD
-        name = "玛丽"  # Mary
-        dynasty = "德斯特"  # d'Este
-        birth_date = 1658.10.5
-        death_date = 1718.5.7
-        female = yes
-        adm = 2
-        dip = 4
-        mil = 1
-    }
+  heir = {
+    name = "玛丽"  # Mary
+    monarch_name = "玛丽 II"  # Mary II
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1662.4.30
+    death_date = 1694.12.28
+    claim = 95
+    adm = 2
+    dip = 4
+    mil = 3
+    female = yes
+  }
 }
 1685.2.6 = {
-    heir = {
-        name = "玛丽"  # Mary
-        monarch_name = "玛丽 II"  # Mary II
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1662.4.30
-        death_date = 1694.12.28
-        claim = 95
-        adm = 2
-        dip = 4
-        mil = 3
-        female = yes
-    }
-}
-1685.2.6 = {
-    religion = catholic
+  religion = catholic
 }
 1686.1.1 = {
-    leader = {
-        name = "詹姆斯 菲茨詹姆斯"  # James FitzJames
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1688.12.11
-    }
+  leader = {
+    name = "詹姆斯 菲茨詹姆斯"  # James FitzJames
+    FitzJames"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1688.12.11
+  }
 }
 1688.6.10 = {
-    heir = {
-        name = "詹姆斯"  # James
-        monarch_name = "詹姆斯 III"  # James III
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1688.6.10
-        death_date = 1766.1.1
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  heir = {
+    name = "詹姆斯"  # James
+    monarch_name = "詹姆斯 III"  # James III
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1688.6.10
+    death_date = 1766.1.1
+    claim = 95
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1688.12.11 = {
-    religion = protestant
+  religion = protestant
 }
 1688.12.11 = {
-    monarch = {
-        name = "议会"  # Convention Parliament
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "议会"  # Convention Parliament
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1689.2.15 = {
-    monarch = {
-        name = "威廉 III"  # William III
-        culture = dutch
-        dynasty = "范 奥兰治"  # van Oranje
-        birth_date = 1650.11.4
-        adm = 3
-        dip = 5
-        mil = 5
-        leader = {
-            name = "威廉 III"  # William III
-            type = general
-            fire = 4
-            shock = 4
-            manuever = 4
-            siege = 1
-        }
+  monarch = {
+    name = "威廉 III"  # William III
+    culture = dutch
+    dynasty = "范 奥兰治"  # van Oranje
+    birth_date = 1650.11.4
+    adm = 3
+    dip = 5
+    mil = 5
+    leader = {
+      name = "威廉 III"  # William III
+      III"type = "
+      generalfire = "
+      4shock = "
+      4manuever = "
+      4siege = 1
     }
-    queen = {
-        country_of_origin = MOD
-        name = "玛丽"  # Mary
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1662.4.30
-        death_date = 1694.12.28
-        female = yes
-        adm = 4
-        dip = 4
-        mil = 3
-    }
-    set_legacy_government = constitutional_monarchy
+  }
+  queen = {
+    country_of_origin = MOD
+    name = "玛丽"  # Mary
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1662.4.30
+    death_date = 1694.12.28
+    female = yes
+    adm = 4
+    dip = 4
+    mil = 3
+  }
+  set_legacy_government = constitutional_monarchy
 }
 1689.2.15 = {
-    heir = {
-        name = "安妮"  # Anne
-        monarch_name = "安妮 I"  # Anne I
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1665.2.6
-        death_date = 1714.8.1
-        claim = 95
-        adm = 3
-        dip = 5
-        mil = 4
-        female = yes
-    }
+  heir = {
+    name = "安妮"  # Anne
+    monarch_name = "安妮 I"  # Anne I
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1665.2.6
+    death_date = 1714.8.1
+    claim = 95
+    adm = 3
+    dip = 5
+    mil = 4
+    female = yes
+  }
 }
 1690.1.1 = {
-    leader = {
-        name = "约翰 本博"  # John Benbow
-        type = admiral
-        fire = 2
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1702.11.4
-    }
+  leader = {
+    name = "约翰 本博"  # John Benbow
+    Benbow"type = "
+    admiralfire = "
+    2shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1702.11.4
+  }
 }
 1694.1.1 = {
-    leader = {
-        name = "托马斯 马修斯"  # Thomas Mathews
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1751.7.19
-    }
+  leader = {
+    name = "托马斯 马修斯"  # Thomas Mathews
+    Mathews"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1751.7.19
+  }
 }
 1700.1.1 = {
-    leader = {
-        name = "乔治 鲁克"  # George Rooke
-        type = admiral
-        fire = 4
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1709.1.24
-    }
+  leader = {
+    name = "乔治 鲁克"  # George Rooke
+    Rooke"type = "
+    admiralfire = "
+    4shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1709.1.24
+  }
 }
 1702.3.8 = {
-    monarch = {
-        name = "安妮 I"  # Anne I
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1665.2.6
-        adm = 3
-        dip = 5
-        mil = 4
-        female = yes
-    }
-    queen = {
-        country_of_origin = DAN
-        name = "乔治"  # George
-        dynasty = "冯 奥尔登堡"  # von Oldenburg
-        birth_date = 1653.4.2
-        death_date = 1708.10.28
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "安妮 I"  # Anne I
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1665.2.6
+    adm = 3
+    dip = 5
+    mil = 4
+    female = yes
+  }
+  queen = {
+    country_of_origin = DAN
+    name = "乔治"  # George
+    dynasty = "冯 奥尔登堡"  # von Oldenburg
+    birth_date = 1653.4.2
+    death_date = 1708.10.28
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1702.3.8 = {
-    heir = {
-        name = "索菲娅"  # Sophia
-        monarch_name = "索菲娅 I"  # Sophia I
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1630.10.14
-        death_date = 1714.6.8
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 2
-        female = yes
-    }
+  heir = {
+    name = "索菲娅"  # Sophia
+    monarch_name = "索菲娅 I"  # Sophia I
+    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
+    birth_date = 1630.10.14
+    death_date = 1714.6.8
+    claim = 95
+    adm = 3
+    dip = 4
+    mil = 2
+    female = yes
+  }
 }
 1714.6.8 = {
-    heir = {
-        name = "乔治 路易斯"  # George Louis
-        monarch_name = "乔治 I"  # George I
-        dynasty = "冯 汉诺威"  # von Hannover
-        birth_date = 1660.5.28
-        death_date = 1727.6.11
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 5
-    }
+  heir = {
+    name = "乔治 路易斯"  # George Louis
+    monarch_name = "乔治 I"  # George I
+    dynasty = "冯 汉诺威"  # von Hannover
+    birth_date = 1660.5.28
+    death_date = 1727.6.11
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 5
+  }
 }

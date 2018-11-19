@@ -1,24 +1,24 @@
 ﻿name = "布列塔尼独立战争"  # Breton War of Independence
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 87
+  type = take_core
+  casus_belli = cb_core
+  province = 87
 }
 1489.2.1 = {
-    add_attacker = FRA
-    add_defender = ENG
-    add_defender = BRI
+  add_attacker = FRA
+  add_defender = ENG
+  add_defender = BRI
 }
 1491.12.6 = {
-    rem_defender = BRI
+  rem_defender = BRI
 }
 1492.7.1 = {
-    add_defender = HAB
+  add_defender = HAB
 }
 1492.11.3 = {
-    rem_defender = ENG
+  rem_defender = ENG
 }
 1493.5.23 = {
-    rem_attacker = FRA
-    rem_defender = HAB
+  rem_attacker = FRA
+  rem_defender = HAB
 }

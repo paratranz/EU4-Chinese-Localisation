@@ -1,18 +1,18 @@
 ﻿name = "奥斯曼-马穆鲁克战争"  # Ottoman-Mamluk War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 378
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 378
 }
 1485.1.1 = {
-    add_attacker = TUR
-    add_attacker = WAL
-    add_attacker = CRI
-    add_defender = MAM
+  add_attacker = TUR
+  add_attacker = WAL
+  add_attacker = CRI
+  add_defender = MAM
 }
 1491.1.1 = {
-    rem_attacker = TUR
-    rem_attacker = WAL
-    rem_attacker = CRI
-    rem_defender = MAM
+  rem_attacker = TUR
+  rem_attacker = WAL
+  rem_attacker = CRI
+  rem_defender = MAM
 }

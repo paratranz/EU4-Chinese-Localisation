@@ -1,14 +1,14 @@
 ﻿name = "缅甸-勃固战争"  # Burmese-Pegu War
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 586
+  type = take_core
+  casus_belli = cb_core
+  province = 586
 }
 1534.1.1 = {
-    add_attacker = TAU
-    add_defender = PEG
+  add_attacker = TAU
+  add_defender = PEG
 }
 1541.1.1 = {
-    rem_attacker = TAU
-    rem_defender = PEG
+  rem_attacker = TAU
+  rem_defender = PEG
 }

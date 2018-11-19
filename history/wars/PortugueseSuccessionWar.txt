@@ -1,38 +1,38 @@
 ﻿name = "葡萄牙继承战争"  # Portuguese Succession War
 succession = POR
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = POR
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = POR
 }
 1580.7.24 = {
-    add_attacker = SPA
-    add_defender = ENG
-    add_defender = POR
+  add_attacker = SPA
+  add_defender = ENG
+  add_defender = POR
 }
 1580.8.25 = {
-    battle = {
-        name = "阿尔坎塔拉战役"  # Battle of Alcantara
-        location = 227
-        attacker = {
-            commander = "阿尔瓦公爵"  # Duque de Alba
-            infantry = 15000
-            cavalry = 5000
-            losses = 20
-            country = SPA
-        }
-        defender = {
-            commander = "安东尼奥 I"  # António I
-            infantry = 18000
-            cavalry = 6000
-            losses = 80
-            country = POR
-        }
-        result = yes
+  battle = {
+    name = "阿尔坎塔拉战役"  # Battle of Alcantara
+    location = 227
+    attacker = {
+      commander = "阿尔瓦公爵"  # Duque de Alba
+      infantry = 15000
+      cavalry = 5000
+      losses = 20
+      country = SPA
     }
+    defender = {
+      commander = "安东尼奥 I"  # António I
+      infantry = 18000
+      cavalry = 6000
+      losses = 80
+      country = POR
+    }
+    result = yes
+  }
 }
 1580.8.26 = {
-    rem_attacker = SPA
-    rem_defender = ENG
-    rem_defender = POR
+  rem_attacker = SPA
+  rem_defender = ENG
+  rem_defender = POR
 }

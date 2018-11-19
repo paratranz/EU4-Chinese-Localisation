@@ -1,14 +1,14 @@
 ﻿name = "马铃薯战争"  # Potato War
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = HAB
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = HAB
 }
 1778.1.1 = {
-    add_attacker = PRU
-    add_defender = HAB
+  add_attacker = PRU
+  add_defender = HAB
 }
 1779.5.13 = {
-    rem_attacker = PRU
-    rem_defender = HAB
+  rem_attacker = PRU
+  rem_defender = HAB
 }

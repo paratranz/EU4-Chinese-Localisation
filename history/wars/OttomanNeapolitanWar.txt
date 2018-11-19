@@ -1,24 +1,24 @@
 ﻿name = "奥斯曼-那不勒斯战争"  # Ottoman-Neapolitan War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 320
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 320
 }
 1480.5.1 = {
-    add_attacker = TUR
-    add_defender = KNI
+  add_attacker = TUR
+  add_defender = KNI
 }
 1480.7.28 = {
-    add_defender = NAP
-    add_defender = ARA
-    add_defender = VEN
-    add_defender = CAS
+  add_defender = NAP
+  add_defender = ARA
+  add_defender = VEN
+  add_defender = CAS
 }
 1481.9.10 = {
-    rem_attacker = TUR
-    rem_defender = KNI
-    rem_defender = NAP
-    rem_defender = ARA
-    rem_defender = VEN
-    rem_defender = CAS
+  rem_attacker = TUR
+  rem_defender = KNI
+  rem_defender = NAP
+  rem_defender = ARA
+  rem_defender = VEN
+  rem_defender = CAS
 }

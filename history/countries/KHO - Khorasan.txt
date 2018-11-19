@@ -6,128 +6,128 @@ religion = shiite
 technology_group = muslim
 capital = 2214
 1444.1.1 = {
-    monarch = {
-        name = "巴八儿 本 拜宋豁儿"  # Babur bin Baysunkur
-        dynasty = "帖木儿"  # Timurid
-        culture = uzbehk
-        adm = 3
-        dip = 5
-        mil = 5
-        culture = uzbehk
-        religion = sunni
-    }
+  monarch = {
+    name = "巴八儿 本 拜宋豁儿"  # Babur bin Baysunkur
+    dynasty = "帖木儿"  # Timurid
+    culture = uzbehk
+    adm = 3
+    dip = 5
+    mil = 5
+    culture = uzbehk
     religion = sunni
-    religious_school = hanafi_school
-    add_piety = -0.5
-    clear_scripted_personalities = yes
-    add_ruler_personality = bold_fighter_personality
-    heir = {
-        name = "马哈茂德"  # Mahmud
-        monarch_name = "马哈木 沙"  # Mahmud Shah
-        dynasty = "帖木儿"  # Timurid
-        birth_date = 1444.1.1
-        death_date = 1457.1.1
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  }
+  religion = sunni
+  religious_school = hanafi_school
+  add_piety = -0.5
+  clear_scripted_personalities = yes
+  add_ruler_personality = bold_fighter_personality
+  heir = {
+    name = "马哈茂德"  # Mahmud
+    monarch_name = "马哈木 沙"  # Mahmud Shah
+    dynasty = "帖木儿"  # Timurid
+    birth_date = 1444.1.1
+    death_date = 1457.1.1
+    claim = 95
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1449.2.1 = {
-    capital = 446
+  capital = 446
 }
 1457.3.22 = {
-    monarch = {
-        name = "希赫儿"  # Shihr
-        dynasty = "哈吉"  # Hajji
-        regent = yes
-        adm = 1
-        dip = 1
-        mil = 0
-    }
-    heir = {
-        name = "马哈木 沙"  # Mahmud Shah
-        monarch_name = "马哈木 沙"  # Mahmud Shah
-        dynasty = "帖木儿"  # Timurid
-        birth_date = 1446.1.1
-        death_date = 1457.1.1
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "希赫儿"  # Shihr
+    dynasty = "哈吉"  # Hajji
+    regent = yes
+    adm = 1
+    dip = 1
+    mil = 0
+  }
+  heir = {
+    name = "马哈木 沙"  # Mahmud Shah
+    monarch_name = "马哈木 沙"  # Mahmud Shah
+    dynasty = "帖木儿"  # Timurid
+    birth_date = 1446.1.1
+    death_date = 1457.1.1
+    claim = 95
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1457.5.31 = {
-    monarch = {
-        name = "易卜拉欣"  # Ibrahim
-        dynasty = "帖木儿"  # Timurid
-        adm = 4
-        dip = 4
-        mil = 5
-    }
+  monarch = {
+    name = "易卜拉欣"  # Ibrahim
+    dynasty = "帖木儿"  # Timurid
+    adm = 4
+    dip = 4
+    mil = 5
+  }
 }
 1459.3.1 = {
-    monarch = {
-        name = "空位期"  # Interregnum
-        dynasty = "帖木儿"  # Timurid
-        regent = yes
-        adm = 1
-        dip = 1
-        mil = 0
-    }
-    capital = 451
+  monarch = {
+    name = "空位期"  # Interregnum
+    dynasty = "帖木儿"  # Timurid
+    regent = yes
+    adm = 1
+    dip = 1
+    mil = 0
+  }
+  capital = 451
 }
 1461.1.1 = {
-    monarch = {
-        name = "阿布 赛义德"  # Abû Sa'id
-        dynasty = "帖木儿"  # Timurid
-        adm = 3
-        dip = 5
-        mil = 6
-    }
+  monarch = {
+    name = "阿布 赛义德"  # Abû Sa'id
+    dynasty = "帖木儿"  # Timurid
+    adm = 3
+    dip = 5
+    mil = 6
+  }
 }
 1461.1.1 = {
-    heir = {
-        name = "忽辛 拜合剌"  # Hussein Baiqara
-        monarch_name = "忽辛 拜合剌"  # Hussein Baiqara
-        dynasty = "帖木儿"  # Timurid
-        birth_date = 1438.1.1
-        death_date = 1506.5.4
-        claim = 95
-        adm = 4
-        dip = 5
-        mil = 5
-    }
+  heir = {
+    name = "忽辛 拜合剌"  # Hussein Baiqara
+    monarch_name = "忽辛 拜合剌"  # Hussein Baiqara
+    dynasty = "帖木儿"  # Timurid
+    birth_date = 1438.1.1
+    death_date = 1506.5.4
+    claim = 95
+    adm = 4
+    dip = 5
+    mil = 5
+  }
 }
 1469.8.27 = {
-    monarch = {
-        name = "忽辛 拜合剌"  # Hussein Baiqara
-        dynasty = "帖木儿"  # Timurid
-        adm = 4
-        dip = 5
-        mil = 5
-    }
-    capital = 446
+  monarch = {
+    name = "忽辛 拜合剌"  # Hussein Baiqara
+    dynasty = "帖木儿"  # Timurid
+    adm = 4
+    dip = 5
+    mil = 5
+  }
+  capital = 446
 }
 1475.1.1 = {
-    heir = {
-        name = "巴迪 咱蛮"  # Badi' al-Zaman
-        monarch_name = "巴迪 咱蛮"  # Badi' al-Zaman
-        dynasty = "帖木儿"  # Timurid
-        birth_date = 1475.1.1
-        death_date = 1517.1.1
-        claim = 95
-        adm = 1
-        dip = 0
-        mil = 0
-    }
+  heir = {
+    name = "巴迪 咱蛮"  # Badi' al-Zaman
+    monarch_name = "巴迪 咱蛮"  # Badi' al-Zaman
+    dynasty = "帖木儿"  # Timurid
+    birth_date = 1475.1.1
+    death_date = 1517.1.1
+    claim = 95
+    adm = 1
+    dip = 0
+    mil = 0
+  }
 }
 1750.1.2 = {
-    monarch = {
-        name = "沙哈鲁"  # Shah Rukh
-        dynasty = "阿夫沙尔"  # Afsharid
-        adm = 3
-        dip = 3
-        mil = 3
-    }
+  monarch = {
+    name = "沙哈鲁"  # Shah Rukh
+    dynasty = "阿夫沙尔"  # Afsharid
+    adm = 3
+    dip = 3
+    mil = 3
+  }
 }

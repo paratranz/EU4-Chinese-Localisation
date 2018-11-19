@@ -1,103 +1,103 @@
 ﻿name = "大洪水时代"  # Deluge
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 43
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 43
 }
 1655.1.1 = {
-    add_attacker = SWE
-    add_defender = PLC
-    add_defender = KUR
+  add_attacker = SWE
+  add_defender = PLC
+  add_defender = KUR
 }
 1656.1.17 = {
-    add_attacker = BRA
+  add_attacker = BRA
 }
 1656.3.28 = {
-    battle = {
-        name = "瓦尔卡"  # Warka
-        location = 257
-        attacker = {
-            commander = "弗雷德里克"  # Frederick
-            infantry = 3800
-            cavalry = 2500
-            losses = 70
-            country = SWE
-        }
-        defender = {
-            commander = "恰尔涅茨基"  # Czarniecki
-            infantry = 5200
-            cavalry = 4200
-            losses = 5
-            country = PLC
-        }
-        result = yes
+  battle = {
+    name = "瓦尔卡"  # Warka
+    location = 257
+    attacker = {
+      commander = "弗雷德里克"  # Frederick
+      infantry = 3800
+      cavalry = 2500
+      losses = 70
+      country = SWE
     }
+    defender = {
+      commander = "恰尔涅茨基"  # Czarniecki
+      infantry = 5200
+      cavalry = 4200
+      losses = 5
+      country = PLC
+    }
+    result = yes
+  }
 }
 1656.7.28 = {
-    battle = {
-        name = "华沙"  # Warsaw
-        location = 257
-        attacker = {
-            commander = "卡尔十世"  # Karl X
-            infantry = 5300
-            cavalry = 11800
-            losses = 10
-            country = SWE
-        }
-        defender = {
-            commander = "扬 卡齐米日"  # Jan Kazimierz
-            infantry = 5000
-            cavalry = 29500
-            losses = 15
-            country = PLC
-        }
-        result = yes
+  battle = {
+    name = "华沙"  # Warsaw
+    location = 257
+    attacker = {
+      commander = "卡尔十世"  # Karl X
+      infantry = 5300
+      cavalry = 11800
+      losses = 10
+      country = SWE
     }
+    defender = {
+      commander = "扬 卡齐米日"  # Jan Kazimierz
+      infantry = 5000
+      cavalry = 29500
+      losses = 15
+      country = PLC
+    }
+    result = yes
+  }
 }
 1656.10.8 = {
-    battle = {
-        name = "普罗斯特基"  # Prostki
-        location = 269
-        attacker = {
-            commander = "博古斯瓦夫 拉齐维乌"  # Boguslaw Radziwill
-            infantry = 4200
-            cavalry = 2800
-            losses = 80
-            country = BRA
-        }
-        defender = {
-            commander = "文岑蒂 考文 戈西夫斯基"  # Wincenty Korwin Gosiewski
-            infantry = 4000
-            cavalry = 6000
-            losses = 35
-            country = PLC
-        }
-        result = no
+  battle = {
+    name = "普罗斯特基"  # Prostki
+    location = 269
+    attacker = {
+      commander = "博古斯瓦夫 拉齐维乌"  # Boguslaw Radziwill
+      infantry = 4200
+      cavalry = 2800
+      losses = 80
+      country = BRA
     }
+    defender = {
+      commander = "文岑蒂 考文 戈西夫斯基"  # Wincenty Korwin Gosiewski
+      infantry = 4000
+      cavalry = 6000
+      losses = 35
+      country = PLC
+    }
+    result = no
+  }
 }
 1656.12.1 = {
-    add_defender = HAB
-    add_defender = DAN
+  add_defender = HAB
+  add_defender = DAN
 }
 1657.6.1 = {
-    rem_attacker = BRA
-    add_defender = BRA
+  rem_attacker = BRA
+  add_defender = BRA
 }
 1658.2.26 = {
-    rem_defender = HAB
-    rem_defender = DAN
+  rem_defender = HAB
+  rem_defender = DAN
 }
 1658.4.1 = {
-    add_defender = DAN
+  add_defender = DAN
 }
 1660.3.5 = {
-    rem_defender = BRA
-    rem_defender = KUR
+  rem_defender = BRA
+  rem_defender = KUR
 }
 1660.5.27 = {
-    rem_defender = DAN
+  rem_defender = DAN
 }
 1661.6.21 = {
-    rem_attacker = SWE
-    rem_defender = PLC
+  rem_attacker = SWE
+  rem_defender = PLC
 }

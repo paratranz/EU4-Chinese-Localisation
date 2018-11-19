@@ -7,236 +7,236 @@ capital = 526
 add_accepted_culture = rajput
 religious_school = hanafi_school
 1390.1.1 = {
-    monarch = {
-        name = "Dilavar Khan Husain"  # Dilavar Khan Husain
-        dynasty = "Ghuri"  # Ghuri
-        ADM = 1
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "Dilavar Khan Husain"
+    dynasty = "Ghuri"
+    ADM = 1
+    DIP = 2
+    MIL = 2
+  }
 }
 1390.1.1 = {
-    heir = {
-        name = "Alp Khan Hushang"  # Alp Khan Hushang
-        monarch_name = "Alp Khan Hushang"  # Alp Khan Hushang
-        dynasty = "Ghuri"  # Ghuri
-        birth_date = 1380.1.1
-        death_date = 1435.1.1
-        claim = 95
-        ADM = 3
-        DIP = 3
-        MIL = 0
-    }
+  heir = {
+    name = "Alp Khan Hushang"
+    monarch_name = "Alp Khan Hushang"
+    dynasty = "Ghuri"
+    birth_date = 1380.1.1
+    death_date = 1435.1.1
+    claim = 95
+    ADM = 3
+    DIP = 3
+    MIL = 0
+  }
 }
 1405.1.1 = {
-    monarch = {
-        name = "Alp Khan Hushang"  # Alp Khan Hushang
-        dynasty = "Ghuri"  # Ghuri
-        ADM = 3
-        DIP = 3
-        MIL = 0
-    }
+  monarch = {
+    name = "Alp Khan Hushang"
+    dynasty = "Ghuri"
+    ADM = 3
+    DIP = 3
+    MIL = 0
+  }
 }
 1405.1.1 = {
-    heir = {
-        name = "Ghazni"  # Ghazni
-        monarch_name = "Ghazni Khan"  # Ghazni Khan
-        dynasty = "Ghuri"  # Ghuri
-        birth_date = 1380.1.1
-        death_date = 1436.5.3
-        claim = 95
-        ADM = 2
-        DIP = 1
-        MIL = 2
-    }
+  heir = {
+    name = "Ghazni"
+    monarch_name = "Ghazni Khan"
+    dynasty = "Ghuri"
+    birth_date = 1380.1.1
+    death_date = 1436.5.3
+    claim = 95
+    ADM = 2
+    DIP = 1
+    MIL = 2
+  }
 }
 1435.1.1 = {
-    monarch = {
-        name = "Ghazni Khan"  # Ghazni Khan
-        dynasty = "Ghuri"  # Ghuri
-        ADM = 2
-        DIP = 1
-        MIL = 2
-    }
+  monarch = {
+    name = "Ghazni Khan"
+    dynasty = "Ghuri"
+    ADM = 2
+    DIP = 1
+    MIL = 2
+  }
 }
 1436.5.3 = {
-    monarch = {
-        name = "马哈茂德 I"  # Mahmud I
-        dynasty = "Khalji"  # Khalji
-        ADM = 5
-        DIP = 5
-        MIL = 6
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = careful_personality
+  monarch = {
+    name = "马哈茂德 I"  # Mahmud I
+    dynasty = "Khalji"
+    ADM = 5
+    DIP = 5
+    MIL = 6
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = careful_personality
 }
 1450.1.1 = {
-    heir = {
-        name = "Ghiyath Shah"  # Ghiyath Shah
-        monarch_name = "Ghiyath Shah"  # Ghiyath Shah
-        dynasty = "Khalji"  # Khalji
-        birth_date = 1450.1.1
-        death_date = 1500.11.18
-        claim = 95
-        ADM = 1
-        DIP = 3
-        MIL = 1
-    }
+  heir = {
+    name = "Ghiyath Shah"
+    monarch_name = "Ghiyath Shah"
+    dynasty = "Khalji"
+    birth_date = 1450.1.1
+    death_date = 1500.11.18
+    claim = 95
+    ADM = 1
+    DIP = 3
+    MIL = 1
+  }
 }
 1469.5.30 = {
-    monarch = {
-        name = "Ghiyath Shah"  # Ghiyath Shah
-        dynasty = "Khalji"  # Khalji
-        ADM = 1
-        DIP = 3
-        MIL = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = sinner_personality
+  monarch = {
+    name = "Ghiyath Shah"
+    dynasty = "Khalji"
+    ADM = 1
+    DIP = 3
+    MIL = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = sinner_personality
 }
 1469.5.30 = {
-    heir = {
-        name = "Nasir Shah"  # Nasir Shah
-        monarch_name = "Nasir Shah"  # Nasir Shah
-        dynasty = "Khalji"  # Khalji
-        birth_date = 1469.5.30
-        death_date = 1511.4.30
-        claim = 95
-        ADM = 1
-        DIP = 0
-        MIL = 3
-    }
+  heir = {
+    name = "Nasir Shah"
+    monarch_name = "Nasir Shah"
+    dynasty = "Khalji"
+    birth_date = 1469.5.30
+    death_date = 1511.4.30
+    claim = 95
+    ADM = 1
+    DIP = 0
+    MIL = 3
+  }
 }
 1500.11.18 = {
-    monarch = {
-        name = "Nasir Shah"  # Nasir Shah
-        dynasty = "Khalji"  # Khalji
-        ADM = 1
-        DIP = 0
-        MIL = 3
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = cruel_personality
+  monarch = {
+    name = "Nasir Shah"
+    dynasty = "Khalji"
+    ADM = 1
+    DIP = 0
+    MIL = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = cruel_personality
 }
 1500.11.18 = {
-    heir = {
-        name = "马哈茂德 沙阿"  # Mahmud Shah
-        monarch_name = "马哈茂德 沙阿"  # Mahmud Shah
-        dynasty = "Khalji"  # Khalji
-        birth_date = 1490.1.1
-        death_date = 1531.3.29
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 2
-    }
+  heir = {
+    name = "马哈茂德 沙阿"  # Mahmud Shah
+    monarch_name = "马哈茂德 沙阿"  # Mahmud Shah
+    dynasty = "Khalji"
+    birth_date = 1490.1.1
+    death_date = 1531.3.29
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 2
+  }
 }
 1511.4.30 = {
-    monarch = {
-        name = "马哈茂德 沙阿"  # Mahmud Shah
-        dynasty = "Khalji"  # Khalji
-        ADM = 0
-        DIP = 0
-        MIL = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = naive_personality
+  monarch = {
+    name = "马哈茂德 沙阿"  # Mahmud Shah
+    dynasty = "Khalji"
+    ADM = 0
+    DIP = 0
+    MIL = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = naive_personality
 }
 1519.1.1 = {
-    remove_accepted_culture = rajput
+  remove_accepted_culture = rajput
 }
 1536.1.1 = {
-    monarch = {
-        name = "Qadir Shah"  # Qadir Shah
-        dynasty = "卡迪尔"  # Qadirid
-        ADM = 2
-        DIP = 1
-        MIL = 0
-    }
+  monarch = {
+    name = "Qadir Shah"
+    dynasty = "卡迪尔"  # Qadirid
+    ADM = 2
+    DIP = 1
+    MIL = 0
+  }
 }
 1554.1.1 = {
-    monarch = {
-        name = "Salim Shah"  # Salim Shah
-        dynasty = "Shaja'atid"  # Shaja'atid
-        ADM = 1
-        DIP = 1
-        MIL = 0
-    }
+  monarch = {
+    name = "Salim Shah"
+    dynasty = "Shaja'atid"
+    ADM = 1
+    DIP = 1
+    MIL = 0
+  }
 }
 1554.1.1 = {
-    heir = {
-        name = "Baz Bahadur"  # Baz Bahadur
-        monarch_name = "Baz Bahadur"  # Baz Bahadur
-        dynasty = "Shaja'atid"  # Shaja'atid
-        birth_date = 1534.1.1
-        death_date = 1562.1.1
-        claim = 95
-        ADM = 2
-        DIP = 0
-        MIL = 0
-    }
+  heir = {
+    name = "Baz Bahadur"
+    monarch_name = "Baz Bahadur"
+    dynasty = "Shaja'atid"
+    birth_date = 1534.1.1
+    death_date = 1562.1.1
+    claim = 95
+    ADM = 2
+    DIP = 0
+    MIL = 0
+  }
 }
 1555.1.1 = {
-    monarch = {
-        name = "Baz Bahadur"  # Baz Bahadur
-        dynasty = "Shaja'atid"  # Shaja'atid
-        ADM = 2
-        DIP = 0
-        MIL = 0
-    }
+  monarch = {
+    name = "Baz Bahadur"
+    dynasty = "Shaja'atid"
+    ADM = 2
+    DIP = 0
+    MIL = 0
+  }
 }
 1728.1.1 = {
-    monarch = {
-        name = "Malhar Rao I"  # Malhar Rao I
-        dynasty = "Holkar"  # Holkar
-        ADM = 2
-        DIP = 3
-        MIL = 5
-    }
+  monarch = {
+    name = "Malhar Rao I"
+    dynasty = "Holkar"
+    ADM = 2
+    DIP = 3
+    MIL = 5
+  }
 }
 1740.1.1 = {
-    heir = {
-        name = "Mali"  # Mali
-        monarch_name = "Mali Rao"  # Mali Rao
-        dynasty = "Holkar"  # Holkar
-        birth_date = 1740.1.1
-        death_date = 1767.4.5
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 1
-    }
+  heir = {
+    name = "Mali"
+    monarch_name = "Mali Rao"
+    dynasty = "Holkar"
+    birth_date = 1740.1.1
+    death_date = 1767.4.5
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 1
+  }
 }
 1766.5.19 = {
-    monarch = {
-        name = "Mali Rao"  # Mali Rao
-        dynasty = "Holkar"  # Holkar
-        ADM = 0
-        DIP = 0
-        MIL = 1
-    }
+  monarch = {
+    name = "Mali Rao"
+    dynasty = "Holkar"
+    ADM = 0
+    DIP = 0
+    MIL = 1
+  }
 }
 1766.5.19 = {
-    heir = {
-        name = "Ahalya Bai"  # Ahalya Bai
-        monarch_name = "Ahalya Bai"  # Ahalya Bai
-        dynasty = "Holkar"  # Holkar
-        birth_date = 1740.1.1
-        death_date = 1818.1.1
-        claim = 95
-        ADM = 6
-        DIP = 4
-        MIL = 2
-        female = yes
-    }
+  heir = {
+    name = "Ahalya Bai"
+    monarch_name = "Ahalya Bai"
+    dynasty = "Holkar"
+    birth_date = 1740.1.1
+    death_date = 1818.1.1
+    claim = 95
+    ADM = 6
+    DIP = 4
+    MIL = 2
+    female = yes
+  }
 }
 1767.4.5 = {
-    monarch = {
-        name = "Ahalya Bai"  # Ahalya Bai
-        dynasty = "Holkar"  # Holkar
-        ADM = 6
-        DIP = 4
-        MIL = 2
-        female = yes
-    }
+  monarch = {
+    name = "Ahalya Bai"
+    dynasty = "Holkar"
+    ADM = 6
+    DIP = 4
+    MIL = 2
+    female = yes
+  }
 }

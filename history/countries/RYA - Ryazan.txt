@@ -7,63 +7,63 @@ technology_group = eastern
 capital = 301
 fixed_capital = 301
 1372.1.1 = {
-    monarch = {
-        name = "奥列格 伊万诺维奇"  # Oleg Ivanovich
-        dynasty = "留里克"  # Rurikovich
-        adm = 1
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "奥列格 伊万诺维奇"  # Oleg Ivanovich
+    dynasty = "留里克"  # Rurikovich
+    adm = 1
+    dip = 3
+    mil = 1
+  }
 }
 1372.1.1 = {
-    heir = {
-        name = "Fyodor Olegovich"  # Fyodor Olegovich
-        monarch_name = "Fyodor Olegovich"  # Fyodor Olegovich
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1372.1.1
-        death_date = 1427.1.1
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "Fyodor Olegovich"
+    monarch_name = "Fyodor Olegovich"
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1372.1.1
+    death_date = 1427.1.1
+    claim = 95
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1402.1.1 = {
-    monarch = {
-        name = "Fyodor Olegovich"  # Fyodor Olegovich
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1372.1.1
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "Fyodor Olegovich"
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1372.1.1
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1402.1.1 = {
-    heir = {
-        name = "伊凡 菲多罗维奇"  # Ivan Fyodorovich
-        monarch_name = "伊凡 菲多罗维奇"  # Ivan Fyodorovich
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1402.1.1
-        death_date = 1456.1.1
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "伊凡 菲多罗维奇"  # Ivan Fyodorovich
+    monarch_name = "伊凡 菲多罗维奇"  # Ivan Fyodorovich
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1402.1.1
+    death_date = 1456.1.1
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 1
+  }
 }
 1427.1.1 = {
-    monarch = {
-        name = "伊凡 菲多罗维奇"  # Ivan Fyodorovich
-        dynasty = "留里克"  # Rurikovich
-        birth_date = 1402.1.1
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = zealot_personality
-    add_ruler_personality = craven_personality
+  monarch = {
+    name = "伊凡 菲多罗维奇"  # Ivan Fyodorovich
+    dynasty = "留里克"  # Rurikovich
+    birth_date = 1402.1.1
+    adm = 3
+    dip = 3
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = zealot_personality
+  add_ruler_personality = craven_personality
 }
 1454.1.1 = {
-    government_rank = 1
+  government_rank = 1
 }

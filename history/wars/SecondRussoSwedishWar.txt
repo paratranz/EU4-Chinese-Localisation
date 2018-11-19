@@ -1,125 +1,125 @@
 ﻿name = "第二次俄瑞战争"  # Second Russo-Swedish War
 war_goal = {
-    type = take_border
-    casus_belli = cb_border_war
-    province = 33
+  type = take_border
+  casus_belli = cb_border_war
+  province = 33
 }
 1788.6.1 = {
-    add_attacker = SWE
-    add_defender = RUS
+  add_attacker = SWE
+  add_defender = RUS
 }
 1788.6.17 = {
-    battle = {
-        name = "霍格兰"  # Hogland
-        location = 1254
-        attacker = {
-            commander = "瑟德曼兰的卡尔"  # Karl of Södermanland
-            heavy_ship = 15
-            light_ship = 7
-            losses = 1
-            country = SWE
-        }
-        defender = {
-            commander = "塞缪尔 格雷格"  # Samuel Greigh
-            heavy_ship = 15
-            light_ship = 7
-            losses = 1
-            country = RUS
-        }
-        result = no
+  battle = {
+    name = "霍格兰"  # Hogland
+    location = 1254
+    attacker = {
+      commander = "瑟德曼兰的卡尔"  # Karl of Södermanland
+      heavy_ship = 15
+      light_ship = 7
+      losses = 1
+      country = SWE
     }
+    defender = {
+      commander = "塞缪尔 格雷格"  # Samuel Greigh
+      heavy_ship = 15
+      light_ship = 7
+      losses = 1
+      country = RUS
+    }
+    result = no
+  }
 }
 1788.9.24 = {
-    add_defender = DAN
+  add_defender = DAN
 }
 1789.5.13 = {
-    battle = {
-        name = "日瓦尔"  # Reval
-        location = 1254
-        attacker = {
-            commander = "瑟德曼兰的卡尔"  # Karl of Södermanland
-            heavy_ship = 22
-            light_ship = 4
-            losses = 2
-            country = SWE
-        }
-        defender = {
-            commander = "瓦西里 奇恰戈夫"  # Vasili Chichagov
-            heavy_ship = 9
-            light_ship = 5
-            losses = 3
-            country = RUS
-        }
-        result = no
+  battle = {
+    name = "日瓦尔"  # Reval
+    location = 1254
+    attacker = {
+      commander = "瑟德曼兰的卡尔"  # Karl of Södermanland
+      heavy_ship = 22
+      light_ship = 4
+      losses = 2
+      country = SWE
     }
+    defender = {
+      commander = "瓦西里 奇恰戈夫"  # Vasili Chichagov
+      heavy_ship = 9
+      light_ship = 5
+      losses = 3
+      country = RUS
+    }
+    result = no
+  }
 }
 1789.7.9 = {
-    rem_defender = DAN
+  rem_defender = DAN
 }
 1789.7.26 = {
-    battle = {
-        name = "厄兰"  # Öland
-        location = 3
-        attacker = {
-            commander = "瑟德曼兰的卡尔"  # Karl of Södermanland
-            heavy_ship = 14
-            light_ship = 5
-            losses = 1
-            country = SWE
-        }
-        defender = {
-            commander = "瓦西里 奇恰戈夫"  # Vasili Chichagov
-            heavy_ship = 12
-            light_ship = 6
-            losses = 1
-            country = RUS
-        }
-        result = no
+  battle = {
+    name = "厄兰"  # Öland
+    location = 3
+    attacker = {
+      commander = "瑟德曼兰的卡尔"  # Karl of Södermanland
+      heavy_ship = 14
+      light_ship = 5
+      losses = 1
+      country = SWE
     }
+    defender = {
+      commander = "瓦西里 奇恰戈夫"  # Vasili Chichagov
+      heavy_ship = 12
+      light_ship = 6
+      losses = 1
+      country = RUS
+    }
+    result = no
+  }
 }
 1790.7.4 = {
-    battle = {
-        name = "维堡"  # Viborg
-        location = 1254
-        attacker = {
-            commander = "瑟德曼兰的卡尔"  # Karl of Södermanland
-            heavy_ship = 21
-            light_ship = 380
-            losses = 5
-            country = SWE
-        }
-        defender = {
-            commander = "瓦西里 奇恰戈夫"  # Vasili Chichagov
-            heavy_ship = 50
-            light_ship = 150
-            losses = 2
-            country = RUS
-        }
-        result = no
+  battle = {
+    name = "维堡"  # Viborg
+    location = 1254
+    attacker = {
+      commander = "瑟德曼兰的卡尔"  # Karl of Södermanland
+      heavy_ship = 21
+      light_ship = 380
+      losses = 5
+      country = SWE
     }
+    defender = {
+      commander = "瓦西里 奇恰戈夫"  # Vasili Chichagov
+      heavy_ship = 50
+      light_ship = 150
+      losses = 2
+      country = RUS
+    }
+    result = no
+  }
 }
 1790.7.10 = {
-    battle = {
-        name = "斯文斯克松德"  # Svensksund
-        location = 1254
-        attacker = {
-            commander = "古斯塔夫 III"  # Gustav III
-            heavy_ship = 6
-            light_ship = 170
-            losses = 6
-            country = SWE
-        }
-        defender = {
-            commander = "拿骚-锡根的查理"  # Charles of Nassau-Siegen
-            heavy_ship = 35
-            light_ship = 100
-            losses = 10
-            country = RUS
-        }
-        result = yes
+  battle = {
+    name = "斯文斯克松德"  # Svensksund
+    location = 1254
+    attacker = {
+      commander = "古斯塔夫 III"  # Gustav III
+      heavy_ship = 6
+      light_ship = 170
+      losses = 6
+      country = SWE
     }
+    defender = {
+      commander = "拿骚-锡根的查理"  # Charles of Nassau-Siegen
+      heavy_ship = 35
+      light_ship = 100
+      losses = 10
+      country = RUS
+    }
+    result = yes
+  }
 }
 1790.8.14 = {
-    rem_attacker = SWE
-    rem_defender = RUS
+  rem_attacker = SWE
+  rem_defender = RUS
 }

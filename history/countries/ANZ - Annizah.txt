@@ -6,25 +6,25 @@ religion = sunni
 capital = 4272
 religious_school = shafii_school
 1444.1.1 = {
-    monarch = {
-        name = "阿卜杜拉"  # Abdullah
-        dynasty = "达纳 马斯拉姆"  # Dhana Maslam
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-    add_piety = 0.1
+  monarch = {
+    name = "阿卜杜拉"  # Abdullah
+    dynasty = "达纳 马斯拉姆"  # Dhana Maslam
+    adm = 2
+    dip = 2
+    mil = 2
+  }
+  add_piety = 0.1
 }
 1444.1.1 = {
-    heir = {
-        name = "穆罕默德"  # Muhammed
-        dynasty = "达纳 马斯拉姆"  # Dhana Maslam
-        monarch_name = "穆罕默德 I"  # Muhammed I
-        birth_date = 1444.1.1
-        death_date = 1505.1.1
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 3
-    }
+  heir = {
+    name = "穆罕默德"  # Muhammed
+    dynasty = "达纳 马斯拉姆"  # Dhana Maslam
+    monarch_name = "穆罕默德 I"  # Muhammed I
+    birth_date = 1444.1.1
+    death_date = 1505.1.1
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 3
+  }
 }

@@ -1,807 +1,807 @@
 ﻿name = "半岛战争"  # Peninsular War
 war_goal = {
-    type = take_capital_imperial
-    casus_belli = cb_imperial
-    tag = POR
+  type = take_capital_imperial
+  casus_belli = cb_imperial
+  tag = POR
 }
 1807.10.27 = {
-    add_attacker = FRA
-    add_attacker = BAV
-    add_attacker = BAD
-    add_attacker = HES
-    add_attacker = ANH
-    add_attacker = WUR
-    add_attacker = WBG
-    add_attacker = SAX
-    add_attacker = MKL
-    add_attacker = ITA
-    add_defender = POR
-    add_defender = SPA
+  add_attacker = FRA
+  add_attacker = BAV
+  add_attacker = BAD
+  add_attacker = HES
+  add_attacker = ANH
+  add_attacker = WUR
+  add_attacker = WBG
+  add_attacker = SAX
+  add_attacker = MKL
+  add_attacker = ITA
+  add_defender = POR
+  add_defender = SPA
 }
 1808.6.12 = {
-    battle = {
-        name = "布鲁克"  # El Bruc
-        location = 213
-        attacker = {
-            commander = "施瓦茨"  # Schwartz
-            infantry = 3800
-            losses = 11
-            country = FRA
-        }
-        defender = {
-            commander = "弗兰奇"  # Franch
-            infantry = 2000
-            losses = 2
-            country = SPA
-        }
-        result = no
+  battle = {
+    name = "布鲁克"  # El Bruc
+    location = 213
+    attacker = {
+      commander = "施瓦茨"  # Schwartz
+      infantry = 3800
+      losses = 11
+      country = FRA
     }
+    defender = {
+      commander = "弗兰奇"  # Franch
+      infantry = 2000
+      losses = 2
+      country = SPA
+    }
+    result = no
+  }
 }
 1808.6.12 = {
-    battle = {
-        name = "卡韦松"  # Cabezón
-        location = 216
-        attacker = {
-            commander = "让-巴普蒂斯 贝西埃"  # Jean-Baptiste Bessières
-            infantry = 9000
-            losses = 1
-            country = FRA
-        }
-        defender = {
-            commander = "格雷戈里奥 德 拉库埃斯塔"  # Gregorio de la Cuesta
-            infantry = 4700
-            cavalry = 300
-            artillery = 4
-            losses = 10
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "卡韦松"  # Cabezón
+    location = 216
+    attacker = {
+      commander = "让-巴普蒂斯 贝西埃"  # Jean-Baptiste Bessières
+      infantry = 9000
+      losses = 1
+      country = FRA
     }
+    defender = {
+      commander = "格雷戈里奥 德 拉库埃斯塔"  # Gregorio de la Cuesta
+      infantry = 4700
+      cavalry = 300
+      artillery = 4
+      losses = 10
+      country = SPA
+    }
+    result = yes
+  }
 }
 1808.6.15 = {
-    battle = {
-        name = "萨拉戈萨"  # Zaragoza
-        location = 214
-        attacker = {
-            commander = "查理 德 勒费布尔"  # Charles de Lefebvre
-            infantry = 8500
-            cavalry = 1000
-            artillery = 12
-            losses = 32
-            country = FRA
-        }
-        defender = {
-            commander = "何塞 德 帕拉福克斯和梅尔西"  # José de Palafox y Melzi
-            infantry = 6500
-            losses = 5
-            country = SPA
-        }
-        result = no
+  battle = {
+    name = "萨拉戈萨"  # Zaragoza
+    location = 214
+    attacker = {
+      commander = "查理 德 勒费布尔"  # Charles de Lefebvre
+      infantry = 8500
+      cavalry = 1000
+      artillery = 12
+      losses = 32
+      country = FRA
     }
+    defender = {
+      commander = "何塞 德 帕拉福克斯和梅尔西"  # José de Palafox y Melzi
+      infantry = 6500
+      losses = 5
+      country = SPA
+    }
+    result = no
+  }
 }
 1808.7.14 = {
-    battle = {
-        name = "梅迪纳德里奥塞科"  # Medina del Rio Seco
-        location = 216
-        attacker = {
-            commander = "让-巴普蒂斯 贝西埃"  # Jean-Baptiste Bessières
-            infantry = 14000
-            artillery = 40
-            losses = 4
-            country = FRA
-        }
-        defender = {
-            commander = "华金 布莱克"  # Joaquín Blake
-            infantry = 22000
-            artillery = 20
-            losses = 14
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "梅迪纳德里奥塞科"  # Medina del Rio Seco
+    location = 216
+    attacker = {
+      commander = "让-巴普蒂斯 贝西埃"  # Jean-Baptiste Bessières
+      infantry = 14000
+      artillery = 40
+      losses = 4
+      country = FRA
     }
+    defender = {
+      commander = "华金 布莱克"  # Joaquín Blake
+      infantry = 22000
+      artillery = 20
+      losses = 14
+      country = SPA
+    }
+    result = yes
+  }
 }
 1808.7.18 = {
-    battle = {
-        name = "拜伦"  # Bailén
-        location = 227
-        attacker = {
-            commander = "皮埃尔 杜邦"  # Pierre Dupont
-            infantry = 24000
-            artillery = 5
-            losses = 11
-            country = FRA
-        }
-        defender = {
-            commander = "弗朗西斯科 卡斯塔尼奥斯"  # Francisco Castaños
-            infantry = 33000
-            losses = 3
-            country = SPA
-        }
-        result = no
+  battle = {
+    name = "拜伦"  # Bailén
+    location = 227
+    attacker = {
+      commander = "皮埃尔 杜邦"  # Pierre Dupont
+      infantry = 24000
+      artillery = 5
+      losses = 11
+      country = FRA
     }
+    defender = {
+      commander = "弗朗西斯科 卡斯塔尼奥斯"  # Francisco Castaños
+      infantry = 33000
+      losses = 3
+      country = SPA
+    }
+    result = no
+  }
 }
 1808.8.1 = {
-    add_defender = GBR
+  add_defender = GBR
 }
 1808.8.17 = {
-    battle = {
-        name = "罗利萨"  # Roliça
-        location = 227
-        attacker = {
-            commander = "亨利 德拉博德"  # Henri Delaborde
-            infantry = 4000
-            artillery = 5
-            losses = 18
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 15500
-            losses = 3
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "罗利萨"  # Roliça
+    location = 227
+    attacker = {
+      commander = "亨利 德拉博德"  # Henri Delaborde
+      infantry = 4000
+      artillery = 5
+      losses = 18
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 15500
+      losses = 3
+      country = GBR
+    }
+    result = no
+  }
 }
 1808.8.20 = {
-    battle = {
-        name = "维梅罗"  # Vimeiro
-        location = 227
-        attacker = {
-            commander = "让-安多歇 朱诺"  # Jean-Andoche Junot
-            infantry = 14000
-            artillery = 23
-            losses = 14
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 15000
-            cavalry = 5500
-            losses = 4
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "维梅罗"  # Vimeiro
+    location = 227
+    attacker = {
+      commander = "让-安多歇 朱诺"  # Jean-Andoche Junot
+      infantry = 14000
+      artillery = 23
+      losses = 14
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 15000
+      cavalry = 5500
+      losses = 4
+      country = GBR
+    }
+    result = no
+  }
 }
 1808.10.31 = {
-    battle = {
-        name = "潘科尔沃"  # Pancorbo
-        location = 209
-        attacker = {
-            commander = "弗朗索瓦 约瑟夫 勒菲弗"  # François Joseph Lefebvre
-            infantry = 24000
-            losses = 1
-            country = FRA
-        }
-        defender = {
-            commander = "华金 布莱克"  # Joaquín Blake
-            infantry = 19000
-            losses = 2
-            country = SPA
-        }
-        result = no
+  battle = {
+    name = "潘科尔沃"  # Pancorbo
+    location = 209
+    attacker = {
+      commander = "弗朗索瓦 约瑟夫 勒菲弗"  # François Joseph Lefebvre
+      infantry = 24000
+      losses = 1
+      country = FRA
     }
+    defender = {
+      commander = "华金 布莱克"  # Joaquín Blake
+      infantry = 19000
+      losses = 2
+      country = SPA
+    }
+    result = no
+  }
 }
 1808.11.7 = {
-    battle = {
-        name = "布尔戈斯"  # Burgos
-        location = 215
-        attacker = {
-            commander = "让-巴普蒂斯·贝西埃尔"  # Jean-Baptiste Bessières
-            infantry = 20000
-            cavalry = 4000
-            losses = 2
-            country = FRA
-        }
-        defender = {
-            commander = "孔迪 德 贝尔韦德"  # Conde de Belveder
-            infantry = 9000
-            losses = 22
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "布尔戈斯"  # Burgos
+    location = 215
+    attacker = {
+      commander = "让-巴普蒂斯·贝西埃尔"  # Jean-Baptiste Bessières
+      infantry = 20000
+      cavalry = 4000
+      losses = 2
+      country = FRA
     }
+    defender = {
+      commander = "孔迪 德 贝尔韦德"  # Conde de Belveder
+      infantry = 9000
+      losses = 22
+      country = SPA
+    }
+    result = yes
+  }
 }
 1808.11.10 = {
-    battle = {
-        name = "埃斯皮诺萨"  # Espinosa
-        location = 209
-        attacker = {
-            commander = "克劳德 维克多"  # Claude Victor
-            infantry = 22000
-            losses = 6
-            country = FRA
-        }
-        defender = {
-            commander = "华金 布莱克"  # Joaquín Blake
-            infantry = 23000
-            losses = 13
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "埃斯皮诺萨"  # Espinosa
+    location = 209
+    attacker = {
+      commander = "克劳德 维克多"  # Claude Victor
+      infantry = 22000
+      losses = 6
+      country = FRA
     }
+    defender = {
+      commander = "华金 布莱克"  # Joaquín Blake
+      infantry = 23000
+      losses = 13
+      country = SPA
+    }
+    result = yes
+  }
 }
 1808.11.23 = {
-    battle = {
-        name = "图德拉"  # Tudela
-        location = 214
-        attacker = {
-            commander = "让 拉纳"  # Jean Lannes
-            infantry = 31000
-            losses = 2
-            country = FRA
-        }
-        defender = {
-            commander = "弗朗西斯科 卡斯塔尼奥斯"  # Francisco Castaños
-            infantry = 19000
-            losses = 21
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "图德拉"  # Tudela
+    location = 214
+    attacker = {
+      commander = "让 拉纳"  # Jean Lannes
+      infantry = 31000
+      losses = 2
+      country = FRA
     }
+    defender = {
+      commander = "弗朗西斯科 卡斯塔尼奥斯"  # Francisco Castaños
+      infantry = 19000
+      losses = 21
+      country = SPA
+    }
+    result = yes
+  }
 }
 1808.11.30 = {
-    battle = {
-        name = "索莫谢拉"  # Somosierra
-        location = 217
-        attacker = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 45000
-            losses = 2
-            country = FRA
-        }
-        defender = {
-            commander = "贝尼托 德 圣胡安"  # Benito de San Juan
-            infantry = 12000
-            artillery = 16
-            losses = 16
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "索莫谢拉"  # Somosierra
+    location = 217
+    attacker = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 45000
+      losses = 2
+      country = FRA
     }
+    defender = {
+      commander = "贝尼托 德 圣胡安"  # Benito de San Juan
+      infantry = 12000
+      artillery = 16
+      losses = 16
+      country = SPA
+    }
+    result = yes
+  }
 }
 1808.12.20 = {
-    battle = {
-        name = "萨拉戈萨"  # Zaragoza
-        location = 214
-        attacker = {
-            commander = "让诺 德 蒙塞"  # Jeannot de Moncey
-            infantry = 40000
-            cavalry = 4000
-            artillery = 60
-            losses = 9
-            country = FRA
-        }
-        defender = {
-            commander = "贝尼托 德 圣胡安"  # Benito de San Juan
-            infantry = 31000
-            cavalry = 1400
-            artillery = 160
-            losses = 90
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "萨拉戈萨"  # Zaragoza
+    location = 214
+    attacker = {
+      commander = "让诺 德 蒙塞"  # Jeannot de Moncey
+      infantry = 40000
+      cavalry = 4000
+      artillery = 60
+      losses = 9
+      country = FRA
     }
+    defender = {
+      commander = "贝尼托 德 圣胡安"  # Benito de San Juan
+      infantry = 31000
+      cavalry = 1400
+      artillery = 160
+      losses = 90
+      country = SPA
+    }
+    result = yes
+  }
 }
 1809.1.16 = {
-    battle = {
-        name = "科鲁尼亚"  # Corunna
-        location = 206
-        attacker = {
-            commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean de Dieu Soult
-            infantry = 12000
-            cavalry = 4000
-            artillery = 20
-            losses = 9
-            country = FRA
-        }
-        defender = {
-            commander = "约翰 摩尔"  # John Moore
-            infantry = 16000
-            artillery = 10
-            losses = 5
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "科鲁尼亚"  # Corunna
+    location = 206
+    attacker = {
+      commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean de Dieu Soult
+      infantry = 12000
+      cavalry = 4000
+      artillery = 20
+      losses = 9
+      country = FRA
     }
+    defender = {
+      commander = "约翰 摩尔"  # John Moore
+      infantry = 16000
+      artillery = 10
+      losses = 5
+      country = GBR
+    }
+    result = no
+  }
 }
 1809.2.25 = {
-    battle = {
-        name = "巴尔斯"  # Valls
-        location = 212
-        attacker = {
-            commander = "洛朗 古维翁 圣西尔"  # Laurent Gouvion Saint-Cyr
-            infantry = 13350
-            losses = 7
-            country = FRA
-        }
-        defender = {
-            commander = "泰奥多尔 冯 雷丁"  # Theodor von Redding
-            infantry = 10500
-            cavalry = 700
-            artillery = 8
-            losses = 13
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "巴尔斯"  # Valls
+    location = 212
+    attacker = {
+      commander = "洛朗 古维翁 圣西尔"  # Laurent Gouvion Saint-Cyr
+      infantry = 13350
+      losses = 7
+      country = FRA
     }
+    defender = {
+      commander = "泰奥多尔 冯 雷丁"  # Theodor von Redding
+      infantry = 10500
+      cavalry = 700
+      artillery = 8
+      losses = 13
+      country = SPA
+    }
+    result = yes
+  }
 }
 1809.3.17 = {
-    battle = {
-        name = "比利亚弗兰卡"  # Villafranca
-        location = 210
-        attacker = {
-            commander = "洛朗 古维翁 圣西尔"  # Laurent Gouvion Saint-Cyr
-            infantry = 1000
-            losses = 80
-            country = FRA
-        }
-        defender = {
-            commander = "何塞 德 门迪萨瓦尔"  # José de Mendizábal
-            infantry = 1500
-            losses = 50
-            country = SPA
-        }
-        result = no
+  battle = {
+    name = "比利亚弗兰卡"  # Villafranca
+    location = 210
+    attacker = {
+      commander = "洛朗 古维翁 圣西尔"  # Laurent Gouvion Saint-Cyr
+      infantry = 1000
+      losses = 80
+      country = FRA
     }
+    defender = {
+      commander = "何塞 德 门迪萨瓦尔"  # José de Mendizábal
+      infantry = 1500
+      losses = 50
+      country = SPA
+    }
+    result = no
+  }
 }
 1809.3.28 = {
-    battle = {
-        name = "麦德林"  # Medellin
-        location = 218
-        attacker = {
-            commander = "克劳德 维克多"  # Claude Victor
-            infantry = 13000
-            cavalry = 4500
-            artillery = 50
-            losses = 6
-            country = FRA
-        }
-        defender = {
-            commander = "格雷戈里奥 德 拉库埃斯塔"  # Gregorio de la Cuesta
-            infantry = 20000
-            cavalry = 3000
-            artillery = 30
-            losses = 35
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "麦德林"  # Medellin
+    location = 218
+    attacker = {
+      commander = "克劳德 维克多"  # Claude Victor
+      infantry = 13000
+      cavalry = 4500
+      artillery = 50
+      losses = 6
+      country = FRA
     }
+    defender = {
+      commander = "格雷戈里奥 德 拉库埃斯塔"  # Gregorio de la Cuesta
+      infantry = 20000
+      cavalry = 3000
+      artillery = 30
+      losses = 35
+      country = SPA
+    }
+    result = yes
+  }
 }
 1809.5.6 = {
-    battle = {
-        name = "赫罗纳"  # Girona
-        location = 212
-        attacker = {
-            commander = "皮埃尔 奥热罗"  # Pierre Augereau
-            infantry = 35000
-            artillery = 40
-            losses = 40
-            country = FRA
-        }
-        defender = {
-            commander = "马里亚诺 阿尔瓦雷斯 德 卡斯特罗"  # Mariano Alvarez de Castro
-            infantry = 5600
-            losses = 80
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "赫罗纳"  # Girona
+    location = 212
+    attacker = {
+      commander = "皮埃尔 奥热罗"  # Pierre Augereau
+      infantry = 35000
+      artillery = 40
+      losses = 40
+      country = FRA
     }
+    defender = {
+      commander = "马里亚诺 阿尔瓦雷斯 德 卡斯特罗"  # Mariano Alvarez de Castro
+      infantry = 5600
+      losses = 80
+      country = SPA
+    }
+    result = yes
+  }
 }
 1809.5.23 = {
-    battle = {
-        name = "阿尔卡尼斯"  # Alcaniz
-        location = 212
-        attacker = {
-            commander = "路易-加布里埃尔 絮歇"  # Louis Gabriel Suchet
-            infantry = 10000
-            cavalry = 800
-            losses = 32
-            country = FRA
-        }
-        defender = {
-            commander = "华金 布莱克"  # Joaquín Blake
-            infantry = 8500
-            cavalry = 500
-            losses = 3
-            country = SPA
-        }
-        result = no
+  battle = {
+    name = "阿尔卡尼斯"  # Alcaniz
+    location = 212
+    attacker = {
+      commander = "路易-加布里埃尔 絮歇"  # Louis Gabriel Suchet
+      infantry = 10000
+      cavalry = 800
+      losses = 32
+      country = FRA
     }
+    defender = {
+      commander = "华金 布莱克"  # Joaquín Blake
+      infantry = 8500
+      cavalry = 500
+      losses = 3
+      country = SPA
+    }
+    result = no
+  }
 }
 1809.6.15 = {
-    battle = {
-        name = "马里亚"  # María
-        location = 214
-        attacker = {
-            commander = "路易-加布里埃尔 絮歇"  # Louis Gabriel Suchet
-            infantry = 12000
-            losses = 7
-            country = FRA
-        }
-        defender = {
-            commander = "华金 布莱克"  # Joaquín Blake
-            infantry = 14000
-            cavalry = 500
-            losses = 14
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "马里亚"  # María
+    location = 214
+    attacker = {
+      commander = "路易-加布里埃尔 絮歇"  # Louis Gabriel Suchet
+      infantry = 12000
+      losses = 7
+      country = FRA
     }
+    defender = {
+      commander = "华金 布莱克"  # Joaquín Blake
+      infantry = 14000
+      cavalry = 500
+      losses = 14
+      country = SPA
+    }
+    result = yes
+  }
 }
 1809.7.27 = {
-    battle = {
-        name = "塔拉韦拉"  # Talavera
-        location = 217
-        attacker = {
-            commander = "约瑟夫 波拿巴"  # Joseph Bonaparte
-            infantry = 55500
-            losses = 16
-            country = FRA
-        }
-        defender = {
-            commander = "约瑟夫 波拿巴"  # Arthur Wellesley
-            infantry = 46000
-            losses = 12
-            country = GBR
-        }
-        result = yes
+  battle = {
+    name = "塔拉韦拉"  # Talavera
+    location = 217
+    attacker = {
+      commander = "约瑟夫 波拿巴"  # Joseph Bonaparte
+      infantry = 55500
+      losses = 16
+      country = FRA
     }
+    defender = {
+      commander = "约瑟夫 波拿巴"  # Arthur Wellesley
+      infantry = 46000
+      losses = 12
+      country = GBR
+    }
+    result = yes
+  }
 }
 1809.8.11 = {
-    battle = {
-        name = "阿尔莫纳西"  # Almonacid
-        location = 219
-        attacker = {
-            commander = "奥拉塞 弗朗索瓦 德 塞巴斯蒂亚尼"  # Horace François de Sébastiani
-            infantry = 26000
-            cavalry = 4000
-            artillery = 40
-            losses = 8
-            country = FRA
-        }
-        defender = {
-            commander = "华金 贝内加斯"  # Joaquín Venegas
-            infantry = 23000
-            cavalry = 3000
-            artillery = 30
-            losses = 15
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "阿尔莫纳西"  # Almonacid
+    location = 219
+    attacker = {
+      commander = "奥拉塞 弗朗索瓦 德 塞巴斯蒂亚尼"  # Horace François de Sébastiani
+      infantry = 26000
+      cavalry = 4000
+      artillery = 40
+      losses = 8
+      country = FRA
     }
+    defender = {
+      commander = "华金 贝内加斯"  # Joaquín Venegas
+      infantry = 23000
+      cavalry = 3000
+      artillery = 30
+      losses = 15
+      country = SPA
+    }
+    result = yes
+  }
 }
 1809.10.18 = {
-    battle = {
-        name = "塔马梅斯"  # Tamamés
-        location = 216
-        attacker = {
-            commander = "米歇尔 奈伊"  # Michel Ney
-            infantry = 10000
-            cavalry = 1200
-            artillery = 14
-            losses = 12
-            country = FRA
-        }
-        defender = {
-            commander = "帕尔克公爵"  # Duque del Parque
-            infantry = 10000
-            cavalry = 1000
-            losses = 6
-            country = SPA
-        }
-        result = no
+  battle = {
+    name = "塔马梅斯"  # Tamamés
+    location = 216
+    attacker = {
+      commander = "米歇尔 奈伊"  # Michel Ney
+      infantry = 10000
+      cavalry = 1200
+      artillery = 14
+      losses = 12
+      country = FRA
     }
+    defender = {
+      commander = "帕尔克公爵"  # Duque del Parque
+      infantry = 10000
+      cavalry = 1000
+      losses = 6
+      country = SPA
+    }
+    result = no
+  }
 }
 1809.11.19 = {
-    battle = {
-        name = "奥卡尼亚"  # Ocana
-        location = 217
-        attacker = {
-            commander = "尼古拉 苏尔特"  # Nicolas Soult
-            infantry = 35000
-            losses = 6
-            country = FRA
-        }
-        defender = {
-            commander = "胡安 德 阿里萨加"  # Juan de Arizagua
-            infantry = 51000
-            losses = 14
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "奥卡尼亚"  # Ocana
+    location = 217
+    attacker = {
+      commander = "尼古拉 苏尔特"  # Nicolas Soult
+      infantry = 35000
+      losses = 6
+      country = FRA
     }
+    defender = {
+      commander = "胡安 德 阿里萨加"  # Juan de Arizagua
+      infantry = 51000
+      losses = 14
+      country = SPA
+    }
+    result = yes
+  }
 }
 1810.7.24 = {
-    battle = {
-        name = "夸河"  # Côa
-        location = 232
-        attacker = {
-            commander = "米歇尔 奈伊"  # Michel Ney
-            infantry = 20000
-            losses = 7
-            country = FRA
-        }
-        defender = {
-            commander = "罗伯特 克劳福德"  # Robert Craufurd
-            infantry = 4200
-            cavalry = 800
-            artillery = 6
-            losses = 17
-            country = GBR
-        }
-        result = yes
+  battle = {
+    name = "夸河"  # Côa
+    location = 232
+    attacker = {
+      commander = "米歇尔 奈伊"  # Michel Ney
+      infantry = 20000
+      losses = 7
+      country = FRA
     }
+    defender = {
+      commander = "罗伯特 克劳福德"  # Robert Craufurd
+      infantry = 4200
+      cavalry = 800
+      artillery = 6
+      losses = 17
+      country = GBR
+    }
+    result = yes
+  }
 }
 1810.9.25 = {
-    battle = {
-        name = "布萨科"  # Buçaco
-        location = 228
-        attacker = {
-            commander = "安德烈 马塞纳"  # André Masséna
-            infantry = 65000
-            losses = 7
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 50000
-            losses = 2
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "布萨科"  # Buçaco
+    location = 228
+    attacker = {
+      commander = "安德烈 马塞纳"  # André Masséna
+      infantry = 65000
+      losses = 7
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 50000
+      losses = 2
+      country = GBR
+    }
+    result = no
+  }
 }
 1810.10.14 = {
-    battle = {
-        name = "林哈斯 德 托雷斯"  # Linhas de Torres
-        location = 227
-        attacker = {
-            commander = "安德烈 马塞纳"  # André Masséna
-            infantry = 61000
-            losses = 30
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 68665
-            artillery = 534
-            losses = 2
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "林哈斯 德 托雷斯"  # Linhas de Torres
+    location = 227
+    attacker = {
+      commander = "安德烈 马塞纳"  # André Masséna
+      infantry = 61000
+      losses = 30
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 68665
+      artillery = 534
+      losses = 2
+      country = GBR
+    }
+    result = no
+  }
 }
 1810.10.15 = {
-    battle = {
-        name = "丰希罗拉"  # Fuengirola
-        location = 223
-        attacker = {
-            commander = "弗朗齐歇克 姆洛科谢维奇"  # Franciszek Mlokosiewicz
-            infantry = 400
-            losses = 10
-            country = FRA
-        }
-        defender = {
-            commander = "安德鲁 布莱尼"  # Andrew Blayney
-            infantry = 4500
-            losses = 10
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "丰希罗拉"  # Fuengirola
+    location = 223
+    attacker = {
+      commander = "弗朗齐歇克 姆洛科谢维奇"  # Franciszek Mlokosiewicz
+      infantry = 400
+      losses = 10
+      country = FRA
     }
+    defender = {
+      commander = "安德鲁 布莱尼"  # Andrew Blayney
+      infantry = 4500
+      losses = 10
+      country = SPA
+    }
+    result = yes
+  }
 }
 1811.5.3 = {
-    battle = {
-        name = "丰特斯 德 奥尼奥罗"  # Fuentes de Onoro
-        location = 216
-        attacker = {
-            commander = "安德烈 马塞纳"  # André Masséna
-            infantry = 42000
-            cavalry = 4500
-            artillery = 40
-            losses = 10
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 34000
-            cavalry = 2000
-            artillery = 50
-            losses = 4
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "丰特斯 德 奥尼奥罗"  # Fuentes de Onoro
+    location = 216
+    attacker = {
+      commander = "安德烈 马塞纳"  # André Masséna
+      infantry = 42000
+      cavalry = 4500
+      artillery = 40
+      losses = 10
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 34000
+      cavalry = 2000
+      artillery = 50
+      losses = 4
+      country = GBR
+    }
+    result = no
+  }
 }
 1811.5.16 = {
-    battle = {
-        name = "阿尔武埃拉"  # Albuera
-        location = 218
-        attacker = {
-            commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean de Dieu Soult
-            infantry = 25000
-            artillery = 40
-            losses = 28
-            country = FRA
-        }
-        defender = {
-            commander = "威廉 贝尔斯福德"  # William Beresford
-            infantry = 35000
-            artillery = 50
-            losses = 17
-            country = GBR
-        }
-        result = yes
+  battle = {
+    name = "阿尔武埃拉"  # Albuera
+    location = 218
+    attacker = {
+      commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean de Dieu Soult
+      infantry = 25000
+      artillery = 40
+      losses = 28
+      country = FRA
     }
+    defender = {
+      commander = "威廉 贝尔斯福德"  # William Beresford
+      infantry = 35000
+      artillery = 50
+      losses = 17
+      country = GBR
+    }
+    result = yes
+  }
 }
 1812.3.16 = {
-    battle = {
-        name = "巴达霍斯"  # Badajoz
-        location = 218
-        attacker = {
-            commander = "菲利蓬"  # Philippon
-            infantry = 25000
-            losses = 20
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 52000
-            losses = 30
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "巴达霍斯"  # Badajoz
+    location = 218
+    attacker = {
+      commander = "菲利蓬"  # Philippon
+      infantry = 25000
+      losses = 20
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 52000
+      losses = 30
+      country = GBR
+    }
+    result = no
+  }
 }
 1812.7.22 = {
-    battle = {
-        name = "萨拉曼卡"  # Salamanca
-        location = 216
-        attacker = {
-            commander = "奥古斯特 马尔蒙"  # Auguste Marmont
-            infantry = 50000
-            losses = 12
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 52000
-            losses = 26
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "萨拉曼卡"  # Salamanca
+    location = 216
+    attacker = {
+      commander = "奥古斯特 马尔蒙"  # Auguste Marmont
+      infantry = 50000
+      losses = 12
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 52000
+      losses = 26
+      country = GBR
+    }
+    result = no
+  }
 }
 1813.6.21 = {
-    battle = {
-        name = "维多利亚"  # Vitoria
-        location = 211
-        attacker = {
-            commander = "让-巴普蒂斯 儒尔当"  # Jean-Baptiste Jourdan
-            infantry = 58000
-            losses = 10
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 80000
-            losses = 6
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "维多利亚"  # Vitoria
+    location = 211
+    attacker = {
+      commander = "让-巴普蒂斯 儒尔当"  # Jean-Baptiste Jourdan
+      infantry = 58000
+      losses = 10
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 80000
+      losses = 6
+      country = GBR
+    }
+    result = no
+  }
 }
 1813.7.25 = {
-    battle = {
-        name = "比利牛斯"  # Pyrenees
-        location = 211
-        attacker = {
-            commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean de Dieu Soult
-            infantry = 80000
-            losses = 5
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 60000
-            losses = 8
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "比利牛斯"  # Pyrenees
+    location = 211
+    attacker = {
+      commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean de Dieu Soult
+      infantry = 80000
+      losses = 5
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 60000
+      losses = 8
+      country = GBR
+    }
+    result = no
+  }
 }
 1813.8.31 = {
-    battle = {
-        name = "圣马西亚尔"  # San Marcial
-        location = 209
-        attacker = {
-            commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean Dieu Soult
-            infantry = 35000
-            losses = 11
-            country = FRA
-        }
-        defender = {
-            commander = "曼努埃尔 弗莱雷"  # Manuel Freire
-            infantry = 16000
-            losses = 16
-            country = SPA
-        }
-        result = no
+  battle = {
+    name = "圣马西亚尔"  # San Marcial
+    location = 209
+    attacker = {
+      commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean Dieu Soult
+      infantry = 35000
+      losses = 11
+      country = FRA
     }
+    defender = {
+      commander = "曼努埃尔 弗莱雷"  # Manuel Freire
+      infantry = 16000
+      losses = 16
+      country = SPA
+    }
+    result = no
+  }
 }
 1813.11.10 = {
-    battle = {
-        name = "尼韦勒"  # Nivelle
-        location = 210
-        attacker = {
-            commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean Dieu Soult
-            infantry = 60000
-            losses = 7
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 80000
-            losses = 3
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "尼韦勒"  # Nivelle
+    location = 210
+    attacker = {
+      commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean Dieu Soult
+      infantry = 60000
+      losses = 7
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 80000
+      losses = 3
+      country = GBR
+    }
+    result = no
+  }
 }
 1813.12.11 = {
-    rem_defender = SPA
+  rem_defender = SPA
 }
 1813.12.12 = {
-    battle = {
-        name = "尼夫"  # Nive
-        location = 210
-        attacker = {
-            commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean Dieu Soult
-            infantry = 62000
-            losses = 3
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 64000
-            losses = 3
-            country = GBR
-        }
-        result = no
+  battle = {
+    name = "尼夫"  # Nive
+    location = 210
+    attacker = {
+      commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean Dieu Soult
+      infantry = 62000
+      losses = 3
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 64000
+      losses = 3
+      country = GBR
+    }
+    result = no
+  }
 }
 1814.4.10 = {
-    battle = {
-        name = "图卢兹"  # Toulouse
-        location = 196
-        attacker = {
-            commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean Dieu Soult
-            infantry = 42500
-            losses = 8
-            country = FRA
-        }
-        defender = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 50000
-            losses = 9
-            country = GBR
-        }
-        result = yes
+  battle = {
+    name = "图卢兹"  # Toulouse
+    location = 196
+    attacker = {
+      commander = "尼古拉 让 德 迪厄 苏尔特"  # Nicolas Jean Dieu Soult
+      infantry = 42500
+      losses = 8
+      country = FRA
     }
+    defender = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 50000
+      losses = 9
+      country = GBR
+    }
+    result = yes
+  }
 }
 1814.4.11 = {
-    rem_attacker = FRA
-    rem_attacker = BAV
-    rem_attacker = BAD
-    rem_attacker = HES
-    rem_attacker = ANH
-    rem_attacker = WUR
-    rem_attacker = WBG
-    rem_attacker = SAX
-    rem_attacker = MKL
-    rem_attacker = ITA
-    rem_defender = GBR
-    rem_defender = POR
+  rem_attacker = FRA
+  rem_attacker = BAV
+  rem_attacker = BAD
+  rem_attacker = HES
+  rem_attacker = ANH
+  rem_attacker = WUR
+  rem_attacker = WBG
+  rem_attacker = SAX
+  rem_attacker = MKL
+  rem_attacker = ITA
+  rem_defender = GBR
+  rem_defender = POR
 }

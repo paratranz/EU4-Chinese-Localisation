@@ -1,42 +1,42 @@
 ﻿name = "奥斯曼-萨法维战争"  # Ottoman-Safavid War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 329
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 329
 }
 1514.1.1 = {
-    add_attacker = PER
-    add_defender = TUR
-    add_defender = WAL
-    add_defender = CRI
-    add_defender = MOL
+  add_attacker = PER
+  add_defender = TUR
+  add_defender = WAL
+  add_defender = CRI
+  add_defender = MOL
 }
 1514.8.23 = {
-    battle = {
-        name = "察德兰"  # Chaldiran
-        location = 414
-        attacker = {
-            commander = "伊斯迈尔 I"  # Ismail I
-            infantry = 122000
-            cavalry = 42500
-            losses = 5
-            country = PER
-        }
-        defender = {
-            commander = "撒里木 I"  # Selim I
-            infantry = 46300
-            cavalry = 25000
-            artillery = 220
-            losses = 45
-            country = TUR
-        }
-        result = no
+  battle = {
+    name = "察德兰"  # Chaldiran
+    location = 414
+    attacker = {
+      commander = "伊斯迈尔 I"  # Ismail I
+      infantry = 122000
+      cavalry = 42500
+      losses = 5
+      country = PER
     }
+    defender = {
+      commander = "撒里木 I"  # Selim I
+      infantry = 46300
+      cavalry = 25000
+      artillery = 220
+      losses = 45
+      country = TUR
+    }
+    result = no
+  }
 }
 1516.1.1 = {
-    rem_attacker = PER
-    rem_defender = TUR
-    rem_defender = WAL
-    rem_defender = CRI
-    rem_defender = MOL
+  rem_attacker = PER
+  rem_defender = TUR
+  rem_defender = WAL
+  rem_defender = CRI
+  rem_defender = MOL
 }

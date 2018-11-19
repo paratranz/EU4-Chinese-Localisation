@@ -1,14 +1,14 @@
 ﻿name = "英格里亚战争"  # Ingrian War
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = RUS
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = RUS
 }
 1610.9.1 = {
-    add_attacker = SWE
-    add_defender = RUS
+  add_attacker = SWE
+  add_defender = RUS
 }
 1617.2.27 = {
-    rem_attacker = SWE
-    rem_defender = RUS
+  rem_attacker = SWE
+  rem_defender = RUS
 }

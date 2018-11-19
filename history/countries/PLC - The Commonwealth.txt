@@ -8,678 +8,678 @@ religion = catholic
 technology_group = eastern
 capital = 262
 1572.1.1 = {
-    leader = {
-        name = "克日什托夫 拉齐维尔"  # Krzysztof Radziwill
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1603.11.20
-    }
+  leader = {
+    name = "克日什托夫 拉齐维尔"  # Krzysztof Radziwill
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1603.11.20
+  }
 }
 1573.5.11 = {
-    monarch = {
-        name = "亨里克 I"  # Henryk I
-        culture = cosmpolitan_french
-        dynasty = "德 瓦卢瓦"  # de Valois
-        birth_date = 1551.9.19
-        adm = 1
-        dip = 1
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = embezzler_personality
-    add_ruler_personality = craven_personality
+  monarch = {
+    name = "亨里克 I"  # Henryk I
+    culture = cosmpolitan_french
+    dynasty = "德 瓦卢瓦"  # de Valois
+    birth_date = 1551.9.19
+    adm = 1
+    dip = 1
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = embezzler_personality
+  add_ruler_personality = craven_personality
 }
 1575.12.15 = {
-    monarch = {
-        name = "斯特凡 I"  # Stefan I
-        dynasty = "巴陶里"  # Báthory
-        culture = hungarian
-        birth_date = 1533.9.27
-        adm = 5
-        dip = 2
-        mil = 6
-        leader = {
-            name = "斯特凡 巴陶里"  # Stefan Báthory
-            type = general
-            fire = 3
-            shock = 5
-            manuever = 5
-            siege = 1
-        }
+  monarch = {
+    name = "斯特凡 I"  # Stefan I
+    dynasty = "巴陶里"  # Báthory
+    culture = hungarian
+    birth_date = 1533.9.27
+    adm = 5
+    dip = 2
+    mil = 6
+    leader = {
+      name = "斯特凡 巴陶里"  # Stefan Báthory
+      type = general
+      fire = 3
+      shock = 5
+      manuever = 5
+      siege = 1
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = bold_fighter_personality
-    add_ruler_personality = tolerant_personality
-    queen = {
-        country_of_origin = LIT
-        name = "安娜"  # Anna
-        dynasty = "雅盖隆"  # Jagiellon
-        birth_date = 1523.10.18
-        death_date = 1596.9.9
-        female = yes
-        adm = 1
-        dip = 2
-        mil = 0
-    }
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = bold_fighter_personality
+  add_ruler_personality = tolerant_personality
+  queen = {
+    country_of_origin = LIT
+    name = "安娜"  # Anna
+    dynasty = "雅盖隆"  # Jagiellon
+    birth_date = 1523.10.18
+    death_date = 1596.9.9
+    female = yes
+    adm = 1
+    dip = 2
+    mil = 0
+  }
 }
 1581.1.1 = {
-    leader = {
-        name = "扬 扎莫伊斯基"  # Jan Zamojski
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1605.6.3
-    }
+  leader = {
+    name = "扬 扎莫伊斯基"  # Jan Zamojski
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1605.6.3
+  }
 }
 1587.8.19 = {
-    monarch = {
-        name = "齐格蒙特 III"  # Zygmunt III
-        dynasty = "瓦萨"  # Vasa
-        culture = swedish
-        birth_date = 1566.6.20
-        adm = 1
-        dip = 2
-        mil = 2
-        leader = {
-            name = "齐格蒙特 III"  # Zygmunt III
-            type = general
-            fire = 3
-            shock = 4
-            manuever = 4
-            siege = 0
-        }
+  monarch = {
+    name = "齐格蒙特 III"  # Zygmunt III
+    dynasty = "瓦萨"  # Vasa
+    culture = swedish
+    birth_date = 1566.6.20
+    adm = 1
+    dip = 2
+    mil = 2
+    leader = {
+      name = "齐格蒙特 III"  # Zygmunt III
+      type = general
+      fire = 3
+      shock = 4
+      manuever = 4
+      siege = 0
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = zealot_personality
-    add_ruler_personality = conqueror_personality
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = zealot_personality
+  add_ruler_personality = conqueror_personality
 }
 1592.5.31 = {
-    queen = {
-        country_of_origin = HAB
-        name = "安娜"  # Anna
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1573.8.16
-        death_date = 1598.2.10
-        female = yes
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "安娜"  # Anna
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1573.8.16
+    death_date = 1598.2.10
+    female = yes
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1589.1.1 = {
-    leader = {
-        name = "杨 萨庇耶哈"  # Jan Sapieha
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 1
-        death_date = 1611.1.1
-    }
+  leader = {
+    name = "杨 萨庇耶哈"  # Jan Sapieha
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 1
+    death_date = 1611.1.1
+  }
 }
 1595.6.9 = {
-    heir = {
-        name = "瓦迪斯瓦夫"  # Wladyslaw
-        monarch_name = "瓦迪斯瓦夫 IV"  # Wladyslaw IV
-        dynasty = "瓦萨"  # Vasa
-        birth_date = 1595.6.9
-        death_date = 1648.5.20
-        claim = 95
-        adm = 4
-        dip = 5
-        mil = 4
-        leader = {
-            name = "瓦迪斯瓦夫 IV"  # Wladyslaw IV
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 4
-            siege = 1
-        }
+  heir = {
+    name = "瓦迪斯瓦夫"  # Wladyslaw
+    monarch_name = "瓦迪斯瓦夫 IV"  # Wladyslaw IV
+    dynasty = "瓦萨"  # Vasa
+    birth_date = 1595.6.9
+    death_date = 1648.5.20
+    claim = 95
+    adm = 4
+    dip = 5
+    mil = 4
+    leader = {
+      name = "瓦迪斯瓦夫 IV"  # Wladyslaw IV
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 4
+      siege = 1
     }
-    clear_scripted_personalities = yes
-    add_heir_personality = scholar_personality
-    add_heir_personality = martial_educator_personality
+  }
+  clear_scripted_personalities = yes
+  add_heir_personality = scholar_personality
+  add_heir_personality = martial_educator_personality
 }
 1596.1.1 = {
-    capital = 257
+  capital = 257
 }
 1600.1.1 = {
-    leader = {
-        name = "扬 卡罗尔 赫特基耶维奇"  # Jan Karol Chodkiewicz
-        type = general
-        fire = 3
-        shock = 5
-        manuever = 4
-        siege = 0
-        death_date = 1621.9.24
-    }
+  leader = {
+    name = "扬 卡罗尔 赫特基耶维奇"  # Jan Karol Chodkiewicz
+    type = general
+    fire = 3
+    shock = 5
+    manuever = 4
+    siege = 0
+    death_date = 1621.9.24
+  }
 }
 1600.1.1 = {
-    leader = {
-        name = "斯坦尼斯瓦夫 卢博米尔斯基"  # Stanislaw Lubomirski
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1649.1.1
-    }
+  leader = {
+    name = "斯坦尼斯瓦夫 卢博米尔斯基"  # Stanislaw Lubomirski
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1649.1.1
+  }
 }
 1605.1.1 = {
-    leader = {
-        name = "斯坦尼斯瓦夫 若乌凯夫斯基"  # Stanislaw Zolkiewski
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1620.10.6
-    }
+  leader = {
+    name = "斯坦尼斯瓦夫 若乌凯夫斯基"  # Stanislaw Zolkiewski
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1620.10.6
+  }
 }
 1605.12.11 = {
-    queen = {
-        country_of_origin = HAB
-        name = "康斯坦齐娅"  # Konstancja
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1588.12.24
-        death_date = 1631.7.10
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 1
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "康斯坦齐娅"  # Konstancja
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1588.12.24
+    death_date = 1631.7.10
+    female = yes
+    adm = 3
+    dip = 3
+    mil = 1
+  }
 }
 1615.1.1 = {
-    leader = {
-        name = "克日什托夫 拉齐维尔"  # Krzysztof Radziwill
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1640.1.1
-    }
+  leader = {
+    name = "克日什托夫 拉齐维尔"  # Krzysztof Radziwill
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1640.1.1
+  }
 }
 1618.1.1 = {
-    leader = {
-        name = "阿伦德 迪克曼"  # Arend Dickmann
-        type = admiral
-        fire = 3
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1627.1.1
-    }
+  leader = {
+    name = "阿伦德 迪克曼"  # Arend Dickmann
+    type = admiral
+    fire = 3
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1627.1.1
+  }
 }
 1620.1.1 = {
-    leader = {
-        name = "米克瓦伊 波托茨基"  # Mikolaj Potocki
-        type = general
-        fire = 2
-        shock = 1
-        manuever = 3
-        siege = 0
-        death_date = 1651.11.20
-    }
+  leader = {
+    name = "米克瓦伊 波托茨基"  # Mikolaj Potocki
+    type = general
+    fire = 2
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1651.11.20
+  }
 }
 1620.1.1 = {
-    leader = {
-        name = "斯坦尼斯瓦夫 科涅茨波尔斯基"  # Stanislaw Koniecpolski
-        type = general
-        fire = 2
-        shock = 5
-        manuever = 5
-        siege = 0
-        death_date = 1646.3.11
-    }
+  leader = {
+    name = "斯坦尼斯瓦夫 科涅茨波尔斯基"  # Stanislaw Koniecpolski
+    type = general
+    fire = 2
+    shock = 5
+    manuever = 5
+    siege = 0
+    death_date = 1646.3.11
+  }
 }
 1621.1.1 = {
-    leader = {
-        name = "克日什托夫 阿齐泽维斯基"  # Krzysztof Arciszewski
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 5
-        siege = 1
-        death_date = 1656.4.7
-    }
+  leader = {
+    name = "克日什托夫 阿齐泽维斯基"  # Krzysztof Arciszewski
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 5
+    siege = 1
+    death_date = 1656.4.7
+  }
 }
 1630.1.1 = {
-    leader = {
-        name = "帕维尔 杨 萨庇耶哈"  # Pawel Jan Sapieha
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 5
-        siege = 0
-        death_date = 1665.1.1
-    }
+  leader = {
+    name = "帕维尔 杨 萨庇耶哈"  # Pawel Jan Sapieha
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 5
+    siege = 0
+    death_date = 1665.1.1
+  }
 }
 1632.11.8 = {
-    monarch = {
-        name = "瓦迪斯瓦夫 IV"  # Wladyslaw IV
-        dynasty = "瓦萨"  # Vasa
-        birth_date = 1595.6.9
-        adm = 4
-        dip = 5
-        mil = 4
-        leader = {
-            name = "瓦迪斯瓦夫 IV"  # Wladyslaw IV
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 4
-            siege = 1
-        }
+  monarch = {
+    name = "瓦迪斯瓦夫 IV"  # Wladyslaw IV
+    dynasty = "瓦萨"  # Vasa
+    birth_date = 1595.6.9
+    adm = 4
+    dip = 5
+    mil = 4
+    leader = {
+      name = "瓦迪斯瓦夫 IV"  # Wladyslaw IV
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 4
+      siege = 1
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = scholar_personality
-    add_ruler_personality = martial_educator_personality
-    add_heir_personality = bold_fighter_personality
-    heir = {
-        name = "扬 卡齐米日"  # Jan Kazimierz
-        monarch_name = "扬 II 卡齐米日"  # Jan II Kazimierz
-        dynasty = "瓦萨"  # Vasa
-        birth_date = 1609.3.22
-        death_date = 1672.12.16
-        claim = 95
-        adm = 0
-        dip = 3
-        mil = 1
-    }
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = scholar_personality
+  add_ruler_personality = martial_educator_personality
+  add_heir_personality = bold_fighter_personality
+  heir = {
+    name = "扬 卡齐米日"  # Jan Kazimierz
+    monarch_name = "扬 II 卡齐米日"  # Jan II Kazimierz
+    dynasty = "瓦萨"  # Vasa
+    birth_date = 1609.3.22
+    death_date = 1672.12.16
+    claim = 95
+    adm = 0
+    dip = 3
+    mil = 1
+  }
 }
 1637.9.13 = {
-    queen = {
-        country_of_origin = HAB
-        name = "塞西莉亚 瑞娜塔"  # Cecylia Renata
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1611.7.16
-        death_date = 1644.3.24
-        female = yes
-        adm = 2
-        dip = 1
-        mil = 0
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "塞西莉亚 瑞娜塔"  # Cecylia Renata
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1611.7.16
+    death_date = 1644.3.24
+    female = yes
+    adm = 2
+    dip = 1
+    mil = 0
+  }
 }
 1640.1.1 = {
-    leader = {
-        name = "杰瑞米 韦斯尼奥威耶茨基"  # Jeremi Wisnowiecki
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1651.8.20
-    }
+  leader = {
+    name = "杰瑞米 韦斯尼奥威耶茨基"  # Jeremi Wisnowiecki
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1651.8.20
+  }
 }
 1646.7.15 = {
-    queen = {
-        country_of_origin = MAN
-        name = "露德维卡 玛丽亚"  # Ludwika Maria
-        dynasty = "贡萨加"  # Gonzaga
-        birth_date = 1611.8.18
-        death_date = 1667.5.10
-        female = yes
-        adm = 3
-        dip = 2
-        mil = 1
-    }
+  queen = {
+    country_of_origin = MAN
+    name = "露德维卡 玛丽亚"  # Ludwika Maria
+    dynasty = "贡萨加"  # Gonzaga
+    birth_date = 1611.8.18
+    death_date = 1667.5.10
+    female = yes
+    adm = 3
+    dip = 2
+    mil = 1
+  }
 }
 1648.11.20 = {
-    monarch = {
-        name = "扬 II 卡齐米日"  # Jan II Kazimierz
-        dynasty = "瓦萨"  # Vasa
-        birth_date = 1609.3.22
-        adm = 0
-        dip = 3
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = bold_fighter_personality
+  monarch = {
+    name = "扬 II 卡齐米日"  # Jan II Kazimierz
+    dynasty = "瓦萨"  # Vasa
+    birth_date = 1609.3.22
+    adm = 0
+    dip = 3
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = bold_fighter_personality
 }
 1649.5.30 = {
-    queen = {
-        country_of_origin = MAN
-        name = "露德维卡 玛丽亚"  # Ludwika Maria
-        dynasty = "贡萨加"  # Gonzaga
-        birth_date = 1611.8.18
-        death_date = 1667.5.10
-        female = yes
-        adm = 3
-        dip = 2
-        mil = 1
-    }
+  queen = {
+    country_of_origin = MAN
+    name = "露德维卡 玛丽亚"  # Ludwika Maria
+    dynasty = "贡萨加"  # Gonzaga
+    birth_date = 1611.8.18
+    death_date = 1667.5.10
+    female = yes
+    adm = 3
+    dip = 2
+    mil = 1
+  }
 }
 1650.1.1 = {
-    leader = {
-        name = "冯 温特"  # von Winter
-        type = general
-        fire = 4
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1671.1.1
-    }
+  leader = {
+    name = "冯 温特"  # von Winter
+    type = general
+    fire = 4
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1671.1.1
+  }
 }
 1651.1.1 = {
-    leader = {
-        name = "文岑蒂 戈西夫斯基"  # Wincenty Gosiewski
-        type = general
-        fire = 4
-        shock = 3
-        manuever = 2
-        siege = 0
-        death_date = 1658.1.1
-    }
+  leader = {
+    name = "文岑蒂 戈西夫斯基"  # Wincenty Gosiewski
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1658.1.1
+  }
 }
 1654.1.1 = {
-    leader = {
-        name = "斯坦尼斯瓦夫 杨 雅布洛诺夫斯基"  # Stanislaw Jan Jablonowski
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1690.1.1
-    }
+  leader = {
+    name = "斯坦尼斯瓦夫 杨 雅布洛诺夫斯基"  # Stanislaw Jan Jablonowski
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1690.1.1
+  }
 }
 1655.1.1 = {
-    leader = {
-        name = "斯特凡 恰尔涅茨基"  # Stefan Czarniecki
-        type = general
-        fire = 3
-        shock = 5
-        manuever = 4
-        siege = 0
-        death_date = 1665.2.16
-    }
+  leader = {
+    name = "斯特凡 恰尔涅茨基"  # Stefan Czarniecki
+    type = general
+    fire = 3
+    shock = 5
+    manuever = 4
+    siege = 0
+    death_date = 1665.2.16
+  }
 }
 1657.1.1 = {
-    leader = {
-        name = "耶日 卢博米尔斯基"  # Jerzy Lubomirski
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1667.1.1
-    }
+  leader = {
+    name = "耶日 卢博米尔斯基"  # Jerzy Lubomirski
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1667.1.1
+  }
 }
 1666.1.1 = {
-    leader = {
-        name = "埃内斯特 登霍夫"  # Ernest Denhoff
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1693.1.1
-    }
+  leader = {
+    name = "埃内斯特 登霍夫"  # Ernest Denhoff
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1693.1.1
+  }
 }
 1669.6.19 = {
-    monarch = {
-        name = "米哈尔 I"  # Michal I
-        dynasty = "维什尼维斯基"  # Wisniowiecki
-        birth_date = 1640.5.31
-        adm = 0
-        dip = 0
-        mil = 0
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = naive_personality
+  monarch = {
+    name = "米哈尔 I"  # Michal I
+    dynasty = "维什尼维斯基"  # Wisniowiecki
+    birth_date = 1640.5.31
+    adm = 0
+    dip = 0
+    mil = 0
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = naive_personality
 }
 1670.10.19 = {
-    queen = {
-        country_of_origin = HAB
-        name = "埃莱奥诺拉"  # Eleonora
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1653.5.31
-        death_date = 1697.12.17
-        female = yes
-        adm = 1
-        dip = 3
-        mil = 0
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "埃莱奥诺拉"  # Eleonora
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1653.5.31
+    death_date = 1697.12.17
+    female = yes
+    adm = 1
+    dip = 3
+    mil = 0
+  }
 }
 1674.5.21 = {
-    monarch = {
-        name = "扬 III"  # Jan III
-        dynasty = "索别斯基"  # Sobieski
-        birth_date = 1629.8.17
-        adm = 2
-        dip = 5
-        mil = 6
-        leader = {
-            name = "扬 III"  # Jan III
-            type = general
-            fire = 3
-            shock = 5
-            manuever = 3
-            siege = 0
-        }
+  monarch = {
+    name = "扬 III"  # Jan III
+    dynasty = "索别斯基"  # Sobieski
+    birth_date = 1629.8.17
+    adm = 2
+    dip = 5
+    mil = 6
+    leader = {
+      name = "扬 III"  # Jan III
+      type = general
+      fire = 3
+      shock = 5
+      manuever = 3
+      siege = 0
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = tactical_genius_personality
-    add_ruler_personality = martial_educator_personality
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = tactical_genius_personality
+  add_ruler_personality = martial_educator_personality
 }
 1676.2.2 = {
-    queen = {
-        country_of_origin = FRA
-        name = "玛丽亚 卡齐米拉"  # Maria Kazimiera
-        dynasty = "德 阿奎恩"  # d’Arquien
-        birth_date = 1641.6.28
-        death_date = 1716.1.30
-        female = yes
-        adm = 1
-        dip = 3
-        mil = 0
-    }
+  queen = {
+    country_of_origin = FRA
+    name = "玛丽亚 卡齐米拉"  # Maria Kazimiera
+    dynasty = "德 阿奎恩"  # d’Arquien
+    birth_date = 1641.6.28
+    death_date = 1716.1.30
+    female = yes
+    adm = 1
+    dip = 3
+    mil = 0
+  }
 }
 1680.1.1 = {
-    leader = {
-        name = "杨 莱因霍尔德 帕特库"  # Jan Reinhold Patkul
-        type = general
-        fire = 2
-        shock = 1
-        manuever = 4
-        siege = 0
-        death_date = 1707.10.10
-    }
+  leader = {
+    name = "杨 莱因霍尔德 帕特库"  # Jan Reinhold Patkul
+    type = general
+    fire = 2
+    shock = 1
+    manuever = 4
+    siege = 0
+    death_date = 1707.10.10
+  }
 }
 1697.6.27 = {
-    monarch = {
-        name = "强者 奥古斯特 II"  # August II Mocny
-        culture = saxon
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1670.5.12
-        adm = 2
-        dip = 1
-        mil = 0
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = drunkard_personality
+  monarch = {
+    name = "强者 奥古斯特 II"  # August II Mocny
+    culture = saxon
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1670.5.12
+    adm = 2
+    dip = 1
+    mil = 0
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = drunkard_personality
 }
 1694.4.27 = {
-    queen = {
-        country_of_origin = BAV
-        name = "克雷斯蒂娜 埃伯哈汀娜"  # Krystyna Eberhardyna
-        dynasty = "霍亨索伦"  # Hohenzollern
-        birth_date = 1671.12.29
-        death_date = 1727.9.5
-        female = yes
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  queen = {
+    country_of_origin = BAV
+    name = "克雷斯蒂娜 埃伯哈汀娜"  # Krystyna Eberhardyna
+    dynasty = "霍亨索伦"  # Hohenzollern
+    birth_date = 1671.12.29
+    death_date = 1727.9.5
+    female = yes
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1700.1.1 = {
-    leader = {
-        name = "杨 卡齐米日 萨庇耶哈"  # Jan Kazimierz Sapieha
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1726.1.1
-    }
+  leader = {
+    name = "杨 卡齐米日 萨庇耶哈"  # Jan Kazimierz Sapieha
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1726.1.1
+  }
 }
 1704.7.12 = {
-    monarch = {
-        name = "斯坦尼斯瓦夫 I"  # Stanislaw I
-        dynasty = "莱什琴斯基"  # Leszczynski
-        birth_date = 1677.10.20
-        adm = 5
-        dip = 2
-        mil = 3
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = embezzler_personality
+  monarch = {
+    name = "斯坦尼斯瓦夫 I"  # Stanislaw I
+    dynasty = "莱什琴斯基"  # Leszczynski
+    birth_date = 1677.10.20
+    adm = 5
+    dip = 2
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = embezzler_personality
 }
 1705.10.7 = {
-    queen = {
-        country_of_origin = POL
-        name = "凯瑟琳"  # Katarzyna
-        dynasty = "欧帕林斯基"  # Opaliñski
-        birth_date = 1680.10.13
-        death_date = 1747.3.19
-        female = yes
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  queen = {
+    country_of_origin = POL
+    name = "凯瑟琳"  # Katarzyna
+    dynasty = "欧帕林斯基"  # Opaliñski
+    birth_date = 1680.10.13
+    death_date = 1747.3.19
+    female = yes
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1730.1.1 = {
-    leader = {
-        name = "米哈尔 杨 帕茨"  # Michal Jan Pac
-        type = general
-        fire = 1
-        shock = 2
-        manuever = 4
-        siege = 0
-        death_date = 1780.1.1
-    }
+  leader = {
+    name = "米哈尔 杨 帕茨"  # Michal Jan Pac
+    type = general
+    fire = 1
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1780.1.1
+  }
 }
 1733.10.5 = {
-    monarch = {
-        name = "奥古斯特 III 萨克森"  # August III Sas
-        dynasty = "冯 韦廷"  # von Wettin
-        culture = saxon
-        religion = catholic
-        birth_date = 1696.10.17
-        adm = 1
-        dip = 3
-        mil = 0
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = greedy_personality
-    add_ruler_personality = industrious_personality
-    queen = {
-        country_of_origin = HAB
-        name = "玛丽亚 约瑟法"  # Maria Jozefa
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1699.12.8
-        death_date = 1757.11.17
-        female = yes
-        adm = 3
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "奥古斯特 III 萨克森"  # August III Sas
+    dynasty = "冯 韦廷"  # von Wettin
+    culture = saxon
+    religion = catholic
+    birth_date = 1696.10.17
+    adm = 1
+    dip = 3
+    mil = 0
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = greedy_personality
+  add_ruler_personality = industrious_personality
+  queen = {
+    country_of_origin = HAB
+    name = "玛丽亚 约瑟法"  # Maria Jozefa
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1699.12.8
+    death_date = 1757.11.17
+    female = yes
+    adm = 3
+    dip = 1
+    mil = 0
+  }
 }
 1734.1.17 = {
-    queen = {
-        country_of_origin = HAB
-        name = "玛丽亚 约瑟法"  # Maria Jozefa
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1699.12.8
-        death_date = 1757.11.17
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 0
-    }
+  queen = {
+    country_of_origin = HAB
+    name = "玛丽亚 约瑟法"  # Maria Jozefa
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1699.12.8
+    death_date = 1757.11.17
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 0
+  }
 }
 1735.11.10 = {
-    leader = {
-        name = "米哈尔 拉齐维乌"  # Michal Radziwill
-        type = general
-        fire = 1
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1762.5.22
-    }
+  leader = {
+    name = "米哈尔 拉齐维乌"  # Michal Radziwill
+    type = general
+    fire = 1
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1762.5.22
+  }
 }
 1755.1.1 = {
-    leader = {
-        name = "斯坦尼斯瓦夫 波尼亚托夫斯基"  # Stanislaw Poniatowski
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1798.2.12
-    }
+  leader = {
+    name = "斯坦尼斯瓦夫 波尼亚托夫斯基"  # Stanislaw Poniatowski
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1798.2.12
+  }
 }
 1762.10.9 = {
-    leader = {
-        name = "亚历山大 萨庇耶哈"  # Aleksander Sapieha
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1775.9.13
-    }
+  leader = {
+    name = "亚历山大 萨庇耶哈"  # Aleksander Sapieha
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1775.9.13
+  }
 }
 1764.9.7 = {
-    monarch = {
-        name = "斯坦尼斯瓦夫 II"  # Stanislaw II
-        dynasty = "波尼亚托夫斯基"  # Poniatowski
-        birth_date = 1732.1.17
-        adm = 2
-        dip = 4
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = naive_personality
-    add_ruler_personality = craven_personality
+  monarch = {
+    name = "斯坦尼斯瓦夫 II"  # Stanislaw II
+    dynasty = "波尼亚托夫斯基"  # Poniatowski
+    birth_date = 1732.1.17
+    adm = 2
+    dip = 4
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = naive_personality
+  add_ruler_personality = craven_personality
 }
 1779.1.1 = {
-    leader = {
-        name = "卡齐米日 普瓦斯基"  # Kazimierz Pulaski
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1779.10.11
-    }
+  leader = {
+    name = "卡齐米日 普瓦斯基"  # Kazimierz Pulaski
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1779.10.11
+  }
 }
 1789.1.1 = {
-    leader = {
-        name = "塔德乌什 柯斯丘什科"  # Tadeusz Kosciuszko
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 5
-        siege = 1
-        death_date = 1817.10.15
-    }
+  leader = {
+    name = "塔德乌什 柯斯丘什科"  # Tadeusz Kosciuszko
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 5
+    siege = 1
+    death_date = 1817.10.15
+  }
 }
 1789.1.1 = {
-    leader = {
-        name = "约瑟夫 波尼亚托夫斯基"  # Jozef Poniatowski
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 4
-        siege = 0
-        death_date = 1813.1.1
-    }
+  leader = {
+    name = "约瑟夫 波尼亚托夫斯基"  # Jozef Poniatowski
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1813.1.1
+  }
 }

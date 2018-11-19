@@ -1,14 +1,14 @@
 ﻿name = "戈尔孔达-毗阇耶那伽罗战争"  # Golconda-Vijayanagara War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 1949
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 1949
 }
 1642.1.1 = {
-    add_attacker = GOC
-    add_defender = VIJ
+  add_attacker = GOC
+  add_defender = VIJ
 }
 1646.1.1 = {
-    rem_attacker = GOC
-    rem_defender = VIJ
+  rem_attacker = GOC
+  rem_defender = VIJ
 }

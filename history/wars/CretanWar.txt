@@ -1,14 +1,14 @@
 ﻿name = "克里特战争"  # Cretan War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 130
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 130
 }
 1645.6.24 = {
-    add_attacker = TUR
-    add_defender = VEN
+  add_attacker = TUR
+  add_defender = VEN
 }
 1669.9.27 = {
-    rem_attacker = TUR
-    rem_defender = VEN
+  rem_attacker = TUR
+  rem_defender = VEN
 }

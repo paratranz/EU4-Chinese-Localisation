@@ -7,385 +7,385 @@ technology_group = indian
 capital = 533
 fixed_capital = 533
 1399.1.1 = {
-    monarch = {
-        name = "甘加 拉贾"  # Ganga Raja
-        dynasty = "乌马图尔"  # Ummatur
-        ADM = 2
-        DIP = 1
-        MIL = 3
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = bold_fighter_personality
-    add_ruler_personality = intricate_web_weaver_personality
+  monarch = {
+    name = "甘加 拉贾"  # Ganga Raja
+    dynasty = "乌马图尔"  # Ummatur
+    ADM = 2
+    DIP = 1
+    MIL = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = bold_fighter_personality
+  add_ruler_personality = intricate_web_weaver_personality
 }
 1513.1.1 = {
-    monarch = {
-        name = "查马 拉贾 III"  # Châma Râja III
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 3
-        DIP = 1
-        MIL = 2
-    }
+  monarch = {
+    name = "查马 拉贾 III"  # Châma Râja III
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 3
+    DIP = 1
+    MIL = 2
+  }
 }
 1513.1.1 = {
-    heir = {
-        name = "蒂马"  # Timma
-        monarch_name = "蒂马 拉贾 II"  # Timma Râja II
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1513.1.1
-        death_date = 1572.1.1
-        claim = 95
-        ADM = 4
-        DIP = 2
-        MIL = 0
-    }
+  heir = {
+    name = "蒂马"  # Timma
+    monarch_name = "蒂马 拉贾 II"  # Timma Râja II
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1513.1.1
+    death_date = 1572.1.1
+    claim = 95
+    ADM = 4
+    DIP = 2
+    MIL = 0
+  }
 }
 1552.1.1 = {
-    monarch = {
-        name = "蒂马 拉贾 II"  # Timma Râja II
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 4
-        DIP = 2
-        MIL = 0
-    }
-    government_rank = 2
+  monarch = {
+    name = "蒂马 拉贾 II"  # Timma Râja II
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 4
+    DIP = 2
+    MIL = 0
+  }
+  government_rank = 2
 }
 1552.1.1 = {
-    heir = {
-        name = "查马"  # Châma
-        monarch_name = "查马 拉贾 IV"  # Châma Râja II
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1552.1.1
-        death_date = 1576.1.1
-        claim = 95
-        ADM = 0
-        DIP = 1
-        MIL = 0
-    }
+  heir = {
+    name = "查马"  # Châma
+    monarch_name = "查马 拉贾 IV"  # Châma Râja II
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1552.1.1
+    death_date = 1576.1.1
+    claim = 95
+    ADM = 0
+    DIP = 1
+    MIL = 0
+  }
 }
 1572.1.1 = {
-    monarch = {
-        name = "查马 拉贾 IV"  # Châma Râja IV
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 0
-        DIP = 1
-        MIL = 0
-    }
+  monarch = {
+    name = "查马 拉贾 IV"  # Châma Râja IV
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 0
+    DIP = 1
+    MIL = 0
+  }
 }
 1572.1.1 = {
-    heir = {
-        name = "贝塔达 德瓦"  # Bettada Deva
-        monarch_name = "贝塔达 德瓦 拉贾"  # Bettada Deva Râja
-        birth_date = 1556.1.1
-        death_date = 1578.1.1
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 3
-    }
+  heir = {
+    name = "贝塔达 德瓦"  # Bettada Deva
+    monarch_name = "贝塔达 德瓦 拉贾"  # Bettada Deva Râja
+    birth_date = 1556.1.1
+    death_date = 1578.1.1
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 3
+  }
 }
 1576.1.1 = {
-    monarch = {
-        name = "贝塔达 德瓦 拉贾"  # Bettada Deva Râja 
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 0
-        DIP = 0
-        MIL = 3
-    }
+  monarch = {
+    name = "贝塔达 德瓦 拉贾"  # Bettada Deva Râja 
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 0
+    DIP = 0
+    MIL = 3
+  }
 }
 1576.1.1 = {
-    heir = {
-        name = "瓦迪亚尔"  # Wadaiyâr
-        monarch_name = "拉贾 瓦迪亚尔"  # Râja Wadaiyâr
-        dynasty = "菩提耶罗"  # Wodeyar
-        birth_date = 1558.1.1
-        death_date = 1617.6.21
-        claim = 95
-        ADM = 2
-        DIP = 3
-        MIL = 0
-    }
+  heir = {
+    name = "瓦迪亚尔"  # Wadaiyâr
+    monarch_name = "拉贾 瓦迪亚尔"  # Râja Wadaiyâr
+    dynasty = "菩提耶罗"  # Wodeyar
+    birth_date = 1558.1.1
+    death_date = 1617.6.21
+    claim = 95
+    ADM = 2
+    DIP = 3
+    MIL = 0
+  }
 }
 1578.11.27 = {
-    monarch = {
-        name = "拉贾 瓦迪亚尔"  # Râja Wadaiyâr
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 2
-        DIP = 3
-        MIL = 0
-    }
+  monarch = {
+    name = "拉贾 瓦迪亚尔"  # Râja Wadaiyâr
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 2
+    DIP = 3
+    MIL = 0
+  }
 }
 1578.11.27 = {
-    heir = {
-        name = "查马"  # Châma
-        monarch_name = "查马 拉贾 V"  # Châma Râja V
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1578.11.27
-        death_date = 1637.1.1
-        claim = 95
-        ADM = 3
-        DIP = 1
-        MIL = 3
-    }
+  heir = {
+    name = "查马"  # Châma
+    monarch_name = "查马 拉贾 V"  # Châma Râja V
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1578.11.27
+    death_date = 1637.1.1
+    claim = 95
+    ADM = 3
+    DIP = 1
+    MIL = 3
+  }
 }
 1617.6.21 = {
-    monarch = {
-        name = "查马 拉贾 V"  # Châma Râja V
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 3
-        DIP = 1
-        MIL = 3
-    }
+  monarch = {
+    name = "查马 拉贾 V"  # Châma Râja V
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 3
+    DIP = 1
+    MIL = 3
+  }
 }
 1617.6.21 = {
-    heir = {
-        name = "伊马迪"  # Imadi
-        monarch_name = "伊马迪 拉贾"  # Imadi Râja
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1617.6.21
-        death_date = 1638.10.9
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 0
-    }
+  heir = {
+    name = "伊马迪"  # Imadi
+    monarch_name = "伊马迪 拉贾"  # Imadi Râja
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1617.6.21
+    death_date = 1638.10.9
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 0
+  }
 }
 1637.5.3 = {
-    monarch = {
-        name = "伊马迪 拉贾"  # Imadi Râja
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 0
-        DIP = 0
-        MIL = 0
-    }
+  monarch = {
+    name = "伊马迪 拉贾"  # Imadi Râja
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 0
+    DIP = 0
+    MIL = 0
+  }
 }
 1637.5.3 = {
-    heir = {
-        name = "坎蒂拉瓦 纳拉萨"  # Kanthirava Narasa
-        monarch_name = "坎蒂拉瓦 纳拉萨 拉贾 I"  # Kanthirava Narasa Râja I
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1617.1.1
-        death_date = 1659.8.3
-        claim = 95
-        ADM = 1
-        DIP = 0
-        MIL = 1
-    }
+  heir = {
+    name = "坎蒂拉瓦 纳拉萨"  # Kanthirava Narasa
+    monarch_name = "坎蒂拉瓦 纳拉萨 拉贾 I"  # Kanthirava Narasa Râja I
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1617.1.1
+    death_date = 1659.8.3
+    claim = 95
+    ADM = 1
+    DIP = 0
+    MIL = 1
+  }
 }
 1638.10.9 = {
-    monarch = {
-        name = "坎蒂拉瓦 纳拉萨 拉贾 I"  # Kanthirava Narasa Râja I
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 1
-        DIP = 0
-        MIL = 1
-    }
+  monarch = {
+    name = "坎蒂拉瓦 纳拉萨 拉贾 I"  # Kanthirava Narasa Râja I
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 1
+    DIP = 0
+    MIL = 1
+  }
 }
 1638.10.9 = {
-    heir = {
-        name = "肯帕 德瓦"  # Kempa Deva
-        monarch_name = "肯帕 德瓦 拉贾"  # Kempa Deva Râja
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1610.1.1
-        death_date = 1672.2.11
-        claim = 95
-        ADM = 1
-        DIP = 1
-        MIL = 3
-    }
+  heir = {
+    name = "肯帕 德瓦"  # Kempa Deva
+    monarch_name = "肯帕 德瓦 拉贾"  # Kempa Deva Râja
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1610.1.1
+    death_date = 1672.2.11
+    claim = 95
+    ADM = 1
+    DIP = 1
+    MIL = 3
+  }
 }
 1659.8.3 = {
-    monarch = {
-        name = "肯帕 德瓦 拉贾"  # Kempa Deva Râja
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 1
-        DIP = 1
-        MIL = 3
-    }
+  monarch = {
+    name = "肯帕 德瓦 拉贾"  # Kempa Deva Râja
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 1
+    DIP = 1
+    MIL = 3
+  }
 }
 1659.8.3 = {
-    heir = {
-        name = "齐卡 德瓦"  # Chikka Deva
-        monarch_name = "齐卡 德瓦 拉贾"  # Chikka Deva Râja
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1659.8.3
-        death_date = 1704.11.17
-        claim = 95
-        ADM = 0
-        DIP = 2
-        MIL = 3
-    }
+  heir = {
+    name = "齐卡 德瓦"  # Chikka Deva
+    monarch_name = "齐卡 德瓦 拉贾"  # Chikka Deva Râja
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1659.8.3
+    death_date = 1704.11.17
+    claim = 95
+    ADM = 0
+    DIP = 2
+    MIL = 3
+  }
 }
 1672.2.11 = {
-    monarch = {
-        name = "齐卡 德瓦 拉贾"  # Chikka Deva Râja
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 0
-        DIP = 2
-        MIL = 3
-    }
+  monarch = {
+    name = "齐卡 德瓦 拉贾"  # Chikka Deva Râja
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 0
+    DIP = 2
+    MIL = 3
+  }
 }
 1672.2.11 = {
-    heir = {
-        name = "坎蒂拉瓦 纳拉萨"  # Kanthirava Narasa
-        monarch_name = "坎蒂拉瓦 纳拉萨 拉贾 II"  # Kanthirava Narasa Râja II
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1672.2.11
-        death_date = 1714.2.17
-        claim = 95
-        ADM = 3
-        DIP = 1
-        MIL = 4
-    }
+  heir = {
+    name = "坎蒂拉瓦 纳拉萨"  # Kanthirava Narasa
+    monarch_name = "坎蒂拉瓦 纳拉萨 拉贾 II"  # Kanthirava Narasa Râja II
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1672.2.11
+    death_date = 1714.2.17
+    claim = 95
+    ADM = 3
+    DIP = 1
+    MIL = 4
+  }
 }
 1704.11.17 = {
-    monarch = {
-        name = "坎蒂拉瓦 纳拉萨 拉贾 II"  # Kanthirava Narasa Râja II
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 3
-        DIP = 1
-        MIL = 4
-    }
+  monarch = {
+    name = "坎蒂拉瓦 纳拉萨 拉贾 II"  # Kanthirava Narasa Râja II
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 3
+    DIP = 1
+    MIL = 4
+  }
 }
 1704.11.17 = {
-    heir = {
-        name = "克里希纳"  # Krishna
-        monarch_name = "克里希纳 拉贾 I"  # Krishna Râja I
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1690.1.1
-        death_date = 1732.3.6
-        claim = 95
-        ADM = 1
-        DIP = 2
-        MIL = 0
-    }
+  heir = {
+    name = "克里希纳"  # Krishna
+    monarch_name = "克里希纳 拉贾 I"  # Krishna Râja I
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1690.1.1
+    death_date = 1732.3.6
+    claim = 95
+    ADM = 1
+    DIP = 2
+    MIL = 0
+  }
 }
 1714.2.17 = {
-    monarch = {
-        name = "克里希纳 拉贾 I"  # Krishna Râja I
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 1
-        DIP = 2
-        MIL = 0
-    }
+  monarch = {
+    name = "克里希纳 拉贾 I"  # Krishna Râja I
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 1
+    DIP = 2
+    MIL = 0
+  }
 }
 1714.2.17 = {
-    heir = {
-        name = "查马"  # Châma
-        monarch_name = "查马 拉贾 VI"  # Châma Râja VI
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1710.1.1
-        death_date = 1734.6.12
-        claim = 95
-        ADM = 3
-        DIP = 0
-        MIL = 3
-    }
+  heir = {
+    name = "查马"  # Châma
+    monarch_name = "查马 拉贾 VI"  # Châma Râja VI
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1710.1.1
+    death_date = 1734.6.12
+    claim = 95
+    ADM = 3
+    DIP = 0
+    MIL = 3
+  }
 }
 1732.3.6 = {
-    monarch = {
-        name = "查马 拉贾 VI"  # Châma Râja VI
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 3
-        DIP = 0
-        MIL = 3
-    }
+  monarch = {
+    name = "查马 拉贾 VI"  # Châma Râja VI
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 3
+    DIP = 0
+    MIL = 3
+  }
 }
 1732.3.6 = {
-    heir = {
-        name = "克里希纳"  # Krishna
-        monarch_name = "克里希纳 拉贾 II"  # Krishna Râja II
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        birth_date = 1710.1.1
-        death_date = 1761.6.3
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 2
-    }
+  heir = {
+    name = "克里希纳"  # Krishna
+    monarch_name = "克里希纳 拉贾 II"  # Krishna Râja II
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    birth_date = 1710.1.1
+    death_date = 1761.6.3
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 2
+  }
 }
 1734.6.12 = {
-    monarch = {
-        name = "克里希纳 拉贾 II"  # Krishna Râja II
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 0
-        DIP = 0
-        MIL = 2
-    }
+  monarch = {
+    name = "克里希纳 拉贾 II"  # Krishna Râja II
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 0
+    DIP = 0
+    MIL = 2
+  }
 }
 1761.6.3 = {
-    monarch = {
-        name = "海达尔 阿里"  # Haydar 'Alî
-        dynasty = "法特希"  # Fatehi
-        ADM = 3
-        DIP = 3
-        MIL = 5
-        religion = sunni
-        leader = {
-            name = "海达尔 阿里"  # Haydar 'Alî
-            type = general
-            fire = 4
-            shock = 4
-            manuever = 3
-            siege = 1
-        }
-    }
+  monarch = {
+    name = "海达尔 阿里"  # Haydar 'Alî
+    dynasty = "法特希"  # Fatehi
+    ADM = 3
+    DIP = 3
+    MIL = 5
     religion = sunni
-    government = monarchy
-    add_government_reform = indian_sultanate_reform
-    religious_school = hanafi_school
+    leader = {
+      name = "海达尔 阿里"  # Haydar 'Alî
+      type = "
+      generalfire = "
+      4shock = "
+      4manuever = "
+      3siege = 1
+    }
+  }
+  religion = sunni
+  government = monarchy
+  add_government_reform = indian_sultanate_reform
+  religious_school = hanafi_school
 }
 1761.6.3 = {
-    heir = {
-        name = "提普 萨希卜"  # Tippoo Sahib
-        monarch_name = "提普 萨希卜"  # Tippoo Sahib
-        dynasty = "法特希"  # Fatehi
-        birth_date = 1750.1.1
-        death_date = 1799.5.5
-        claim = 95
-        ADM = 2
-        DIP = 4
-        MIL = 5
-    }
+  heir = {
+    name = "提普 萨希卜"  # Tippoo Sahib
+    monarch_name = "提普 萨希卜"  # Tippoo Sahib
+    dynasty = "法特希"  # Fatehi
+    birth_date = 1750.1.1
+    death_date = 1799.5.5
+    claim = 95
+    ADM = 2
+    DIP = 4
+    MIL = 5
+  }
 }
 1780.1.1 = {
-    leader = {
-        name = "提普 萨希卜"  # Tippoo Sahib
-        type = general
-        fire = 5
-        shock = 5
-        manuever = 3
-        siege = 1
-        death_date = 1782.12.8
-    }
+  leader = {
+    name = "提普 萨希卜"  # Tippoo Sahib
+    type = "
+    generalfire = "
+    5shock = "
+    5manuever = "
+    3siege = "
+    1death_date = 1782.12.8
+  }
 }
 1782.12.8 = {
-    monarch = {
-        name = "提普 萨希卜"  # Tîpû Sâhib
-        dynasty = "法特希"  # Fatehi
-        ADM = 2
-        DIP = 5
-        MIL = 6
-        leader = {
-            name = "提普 萨希卜"  # Tippoo Sahib
-            type = general
-            fire = 5
-            shock = 5
-            manuever = 3
-            siege = 1
-        }
+  monarch = {
+    name = "提普 萨希卜"  # Tîpû Sâhib
+    dynasty = "法特希"  # Fatehi
+    ADM = 2
+    DIP = 5
+    MIL = 6
+    leader = {
+      name = "提普 萨希卜"  # Tippoo Sahib
+      type = "
+      generalfire = "
+      5shock = "
+      5manuever = "
+      3siege = 1
     }
-    add_army_professionalism = 0.3
+  }
+  add_army_professionalism = 0.3
 }
 1799.5.5 = {
-    monarch = {
-        name = "克里希纳 拉贾 III"  # Krishna Râja III
-        dynasty = "瓦迪亚尔"  # Wodeyar
-        ADM = 1
-        DIP = 0
-        MIL = 0
-    }
-    religion = hinduism
-    government = monarchy
-    add_government_reform = feudalism_reform
+  monarch = {
+    name = "克里希纳 拉贾 III"  # Krishna Râja III
+    dynasty = "瓦迪亚尔"  # Wodeyar
+    ADM = 1
+    DIP = 0
+    MIL = 0
+  }
+  religion = hinduism
+  government = monarchy
+  add_government_reform = feudalism_reform
 }

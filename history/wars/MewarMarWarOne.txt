@@ -1,14 +1,14 @@
 ﻿name = "梅瓦尔入侵马尔瓦"  # Mewari invasion of Marwar
 war_goal = {
-    type = take_border
-    casus_belli = cb_border_war
-    province = 514
+  type = take_border
+  casus_belli = cb_border_war
+  province = 514
 }
 1459.1.1 = {
-    add_attacker = MER
-    add_defender = MAW
+  add_attacker = MER
+  add_defender = MAW
 }
 1465.1.1 = {
-    rem_attacker = MER
-    rem_defender = MAW
+  rem_attacker = MER
+  rem_defender = MAW
 }

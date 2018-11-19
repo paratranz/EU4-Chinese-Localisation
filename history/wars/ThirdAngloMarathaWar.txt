@@ -1,15 +1,15 @@
 ﻿name = "第三次盎格鲁-马拉塔战争"  # Third Anglo-Maratha War
 war_goal = {
-    type = take_capital_imperial
-    casus_belli = cb_imperial
+  type = take_capital_imperial
+  casus_belli = cb_imperial
 }
 1817.1.1 = {
-    add_attacker = GBR
-    add_defender = MAR
-    add_defender = NAG
+  add_attacker = GBR
+  add_defender = MAR
+  add_defender = NAG
 }
 1818.6.3 = {
-    rem_attacker = GBR
-    rem_defender = MAR
-    rem_defender = NAG
+  rem_attacker = GBR
+  rem_defender = MAR
+  rem_defender = NAG
 }

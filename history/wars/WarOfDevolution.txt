@@ -1,35 +1,35 @@
 ﻿name = "遗产战争"  # War of Devolution
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 92
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 92
 }
 1667.5.24 = {
-    add_attacker = FRA
-    add_defender = SPA
+  add_attacker = FRA
+  add_defender = SPA
 }
 1667.8.28 = {
-    battle = {
-        name = "里尔"  # Lille
-        location = 88
-        attacker = {
-            commander = "亨利 德 拉图尔 奥弗涅"  # Henri de la Tour d'Auvergne
-            infantry = 32000
-            cavalry = 15000
-            losses = 1
-            country = FRA
-        }
-        defender = {
-            commander = "卡洛斯"  # Carlos
-            infantry = 4000
-            cavalry = 500
-            losses = 10
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "里尔"  # Lille
+    location = 88
+    attacker = {
+      commander = "亨利 德 拉图尔 奥弗涅"  # Henri de la Tour d'Auvergne
+      infantry = 32000
+      cavalry = 15000
+      losses = 1
+      country = FRA
     }
+    defender = {
+      commander = "卡洛斯"  # Carlos
+      infantry = 4000
+      cavalry = 500
+      losses = 10
+      country = SPA
+    }
+    result = yes
+  }
 }
 1668.5.2 = {
-    rem_attacker = FRA
-    rem_defender = SPA
+  rem_attacker = FRA
+  rem_defender = SPA
 }

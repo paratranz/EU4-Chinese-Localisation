@@ -1,53 +1,53 @@
 ﻿name = "阿根廷独立战争"  # Argentine War of Independence
 war_goal = {
-    type = defend_capital_independence
-    casus_belli = cb_independence_war
-    tag = LAP
+  type = defend_capital_independence
+  casus_belli = cb_independence_war
+  tag = LAP
 }
 1816.7.9 = {
-    add_attacker = LAP
-    add_defender = SPA
+  add_attacker = LAP
+  add_defender = SPA
 }
 1817.2.12 = {
-    battle = {
-        name = "查卡布科"  # Chacabuco
-        location = 787
-        attacker = {
-            commander = "何塞 德 圣马丁"  # José de San Martin
-            infantry = 4000
-            cavalry = 600
-            losses = 2
-            country = LAP
-        }
-        defender = {
-            commander = "拉斐尔 马洛托"  # Rafael Maroto
-            infantry = 1500
-            losses = 58
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "查卡布科"  # Chacabuco
+    location = 787
+    attacker = {
+      commander = "何塞 德 圣马丁"  # José de San Martin
+      infantry = 4000
+      cavalry = 600
+      losses = 2
+      country = LAP
     }
+    defender = {
+      commander = "拉斐尔 马洛托"  # Rafael Maroto
+      infantry = 1500
+      losses = 58
+      country = SPA
+    }
+    result = yes
+  }
 }
 1818.4.5 = {
-    battle = {
-        name = "迈普"  # Maipú
-        location = 787
-        attacker = {
-            commander = "何塞 德 圣马丁"  # José de San Martin
-            infantry = 5000
-            losses = 20
-            country = LAP
-        }
-        defender = {
-            commander = "马里亚诺 奥索里奥"  # Mariano Osorio
-            infantry = 5000
-            losses = 90
-            country = SPA
-        }
-        result = yes
+  battle = {
+    name = "迈普"  # Maipú
+    location = 787
+    attacker = {
+      commander = "何塞 德 圣马丁"  # José de San Martin
+      infantry = 5000
+      losses = 20
+      country = LAP
     }
+    defender = {
+      commander = "马里亚诺 奥索里奥"  # Mariano Osorio
+      infantry = 5000
+      losses = 90
+      country = SPA
+    }
+    result = yes
+  }
 }
 1818.4.5 = {
-    rem_attacker = LAP
-    rem_defender = SPA
+  rem_attacker = LAP
+  rem_defender = SPA
 }

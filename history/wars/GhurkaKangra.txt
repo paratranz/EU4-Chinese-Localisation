@@ -1,16 +1,16 @@
 ﻿name = "廓尔喀入侵坎格拉"  # Ghurka Invasion of Kangra
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 509
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 509
 }
 1806.1.1 = {
-    add_attacker = NPL
-    add_defender = KGR
-    add_defender = PUN
+  add_attacker = NPL
+  add_defender = KGR
+  add_defender = PUN
 }
 1809.1.1 = {
-    rem_attacker = NPL
-    rem_defender = KGR
-    rem_defender = PUN
+  rem_attacker = NPL
+  rem_defender = KGR
+  rem_defender = PUN
 }

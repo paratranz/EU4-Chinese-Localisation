@@ -1,14 +1,14 @@
 ﻿name = "第二次暹罗-缅甸战争"  # Second Siamese-Burmese War
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 2404
+  type = take_core
+  casus_belli = cb_core
+  province = 2404
 }
 1594.1.1 = {
-    add_attacker = TAU
-    add_defender = AYU
+  add_attacker = TAU
+  add_defender = AYU
 }
 1605.5.17 = {
-    rem_attacker = TAU
-    rem_defender = AYU
+  rem_attacker = TAU
+  rem_defender = AYU
 }

@@ -1,14 +1,14 @@
 ﻿name = "征服蒂鲁德"  # Conquest of Tirhut
 war_goal = {
-    type = take_capital_vassalize
-    casus_belli = cb_vassalize_mission
-    tag = TRT
+  type = take_capital_vassalize
+  casus_belli = cb_vassalize_mission
+  tag = TRT
 }
 1496.1.1 = {
-    add_attacker = DLH
-    add_defender = TRT
+  add_attacker = DLH
+  add_defender = TRT
 }
 1498.1.1 = {
-    rem_attacker = DLH
-    rem_defender = TRT
+  rem_attacker = DLH
+  rem_defender = TRT
 }

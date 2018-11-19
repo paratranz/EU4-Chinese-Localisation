@@ -8,293 +8,293 @@ technology_group = muslim
 capital = 418
 religious_school = hanafi_school
 1396.1.1 = {
-    monarch = {
-        name = "哈剌 雍鲁克 斡思蛮"  # Qara Yülüq Osman
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        adm = 2
-        dip = 1
-        mil = 2
-    }
-    add_piety = 0.3
+  monarch = {
+    name = "哈剌 雍鲁克 斡思蛮"  # Qara Yülüq Osman
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    adm = 2
+    dip = 1
+    mil = 2
+  }
+  add_piety = 0.3
 }
 1396.1.1 = {
-    heir = {
-        name = "阿里"  # Ali
-        monarch_name = "阿里"  # Ali
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1396.1.1
-        death_date = 1444.1.1
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 1
-    }
+  heir = {
+    name = "阿里"  # Ali
+    monarch_name = "阿里"  # Ali
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1396.1.1
+    death_date = 1444.1.1
+    claim = 95
+    adm = 0
+    dip = 1
+    mil = 1
+  }
 }
 1435.1.1 = {
-    monarch = {
-        name = "阿里"  # Ali
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1396.1.1
-        adm = 0
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "阿里"  # Ali
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1396.1.1
+    adm = 0
+    dip = 1
+    mil = 1
+  }
 }
 1435.1.1 = {
-    heir = {
-        name = "只罕杰儿"  # Cihangir
-        monarch_name = "只罕杰儿"  # Cihangir
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1424.1.1
-        death_date = 1453.1.1
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "只罕杰儿"  # Cihangir
+    monarch_name = "只罕杰儿"  # Cihangir
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1424.1.1
+    death_date = 1453.1.1
+    claim = 95
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1444.1.1 = {
-    monarch = {
-        name = "只罕杰儿"  # Cihangir
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1424.1.1
-        adm = 2
-        dip = 3
-        mil = 2
-    }
-    add_piety = -0.6
+  monarch = {
+    name = "只罕杰儿"  # Cihangir
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1424.1.1
+    adm = 2
+    dip = 3
+    mil = 2
+  }
+  add_piety = -0.6
 }
 1444.1.1 = {
-    heir = {
-        name = "乌尊 哈桑"  # Uzun Hasan
-        monarch_name = "乌尊 哈桑"  # Uzun Hasan
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1423.1.6
-        death_date = 1478.1.5
-        claim = 95
-        adm = 4
-        dip = 5
-        mil = 6
-        leader = {
-            name = "乌尊 哈桑"  # Uzun Hasan
-            type = general
-            fire = 4
-            shock = 5
-            manuever = 5
-            siege = 0
-        }
+  heir = {
+    name = "乌尊 哈桑"  # Uzun Hasan
+    monarch_name = "乌尊 哈桑"  # Uzun Hasan
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1423.1.6
+    death_date = 1478.1.5
+    claim = 95
+    adm = 4
+    dip = 5
+    mil = 6
+    leader = {
+      name = "乌尊 哈桑"  # Uzun Hasan
+      type = general
+      fire = 4
+      shock = 5
+      manuever = 5
+      siege = 0
     }
-    clear_scripted_personalities = yes
-    add_heir_personality = bold_fighter_personality
+  }
+  clear_scripted_personalities = yes
+  add_heir_personality = bold_fighter_personality
 }
 1453.1.1 = {
-    monarch = {
-        name = "乌尊 哈桑"  # Uzun Hasan
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1423.1.6
-        adm = 4
-        dip = 5
-        mil = 6
-        leader = {
-            name = "乌尊 哈桑"  # Uzun Hasan
-            type = general
-            fire = 4
-            shock = 5
-            manuever = 5
-            siege = 0
-        }
+  monarch = {
+    name = "乌尊 哈桑"  # Uzun Hasan
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1423.1.6
+    adm = 4
+    dip = 5
+    mil = 6
+    leader = {
+      name = "乌尊 哈桑"  # Uzun Hasan
+      type = "
+      generalfire = "
+      4shock = "
+      5manuever = "
+      5siege = 0
     }
-    add_ruler_personality = bold_fighter_personality
-    clear_scripted_personalities = yes
+  }
+  add_ruler_personality = bold_fighter_personality
+  clear_scripted_personalities = yes
 }
 1453.1.1 = {
-    heir = {
-        name = "哈里勒"  # Halîl
-        monarch_name = "哈里勒"  # Halîl
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1453.1.1
-        death_date = 1478.7.16
-        claim = 50
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  heir = {
+    name = "哈里勒"  # Halîl
+    monarch_name = "哈里勒"  # Halîl
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1453.1.1
+    death_date = 1478.7.16
+    claim = 50
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1469.1.1 = {
-    capital = 416
+  capital = 416
 }
 1478.1.6 = {
-    monarch = {
-        name = "哈里勒"  # Halîl
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1453.1.1
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  monarch = {
+    name = "哈里勒"  # Halîl
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1453.1.1
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1478.1.6 = {
-    heir = {
-        name = "牙忽布"  # Yaqûb
-        monarch_name = "牙忽布"  # Yaqûb
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1458.1.1
-        death_date = 1490.12.25
-        claim = 50
-        adm = 1
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "牙忽布"  # Yaqûb
+    monarch_name = "牙忽布"  # Yaqûb
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1458.1.1
+    death_date = 1490.12.25
+    claim = 50
+    adm = 1
+    dip = 3
+    mil = 1
+  }
 }
 1478.7.16 = {
-    monarch = {
-        name = "牙忽布"  # Yaqûb
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1458.1.1
-        adm = 1
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "牙忽布"  # Yaqûb
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1458.1.1
+    adm = 1
+    dip = 3
+    mil = 1
+  }
 }
 1478.7.16 = {
-    heir = {
-        name = "拜宋豁儿"  # Baysungur
-        monarch_name = "拜宋豁儿"  # Baysungur
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1470.1.1
-        death_date = 1492.5.23
-        claim = 50
-        adm = 4
-        dip = 1
-        mil = 1
-    }
+  heir = {
+    name = "拜宋豁儿"  # Baysungur
+    monarch_name = "拜宋豁儿"  # Baysungur
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1470.1.1
+    death_date = 1492.5.23
+    claim = 50
+    adm = 4
+    dip = 1
+    mil = 1
+  }
 }
 1490.12.25 = {
-    monarch = {
-        name = "拜宋豁儿"  # Baysungur
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1470.1.1
-        adm = 4
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "拜宋豁儿"  # Baysungur
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1470.1.1
+    adm = 4
+    dip = 1
+    mil = 1
+  }
 }
 1490.12.25 = {
-    heir = {
-        name = "鲁思谭"  # Rüstem
-        monarch_name = "鲁思谭"  # Rüstem
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1470.1.1
-        death_date = 1496.2.8
-        claim = 50
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  heir = {
+    name = "鲁思谭"  # Rüstem
+    monarch_name = "鲁思谭"  # Rüstem
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1470.1.1
+    death_date = 1496.2.8
+    claim = 50
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1492.5.23 = {
-    monarch = {
-        name = "鲁思谭"  # Rüstem
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1470.1.1
-        adm = 0
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "鲁思谭"  # Rüstem
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1470.1.1
+    adm = 0
+    dip = 2
+    mil = 1
+  }
 }
 1492.5.23 = {
-    heir = {
-        name = "阿合马"  # Ahmed
-        monarch_name = "阿合马 豁兀答"  # Ahmed Gövde
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1475.1.1
-        death_date = 1497.1.1
-        claim = 50
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  heir = {
+    name = "阿合马"  # Ahmed
+    monarch_name = "阿合马 豁兀答"  # Ahmed Gövde
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1475.1.1
+    death_date = 1497.1.1
+    claim = 50
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1496.2.8 = {
-    monarch = {
-        name = "阿合马 豁兀答"  # Ahmed Gövde
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1475.1.1
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "阿合马 豁兀答"  # Ahmed Gövde
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1475.1.1
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1496.2.8 = {
-    heir = {
-        name = "木剌迪"  # Murâd
-        monarch_name = "木剌迪"  # Murâd
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1475.1.1
-        death_date = 1498.1.1
-        claim = 50
-        adm = 0
-        dip = 3
-        mil = 0
-    }
+  heir = {
+    name = "木剌迪"  # Murâd
+    monarch_name = "木剌迪"  # Murâd
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1475.1.1
+    death_date = 1498.1.1
+    claim = 50
+    adm = 0
+    dip = 3
+    mil = 0
+  }
 }
 1497.1.1 = {
-    monarch = {
-        name = "木剌迪"  # Murâd
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1475.1.1
-        adm = 0
-        dip = 3
-        mil = 0
-    }
+  monarch = {
+    name = "木剌迪"  # Murâd
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1475.1.1
+    adm = 0
+    dip = 3
+    mil = 0
+  }
 }
 1497.1.1 = {
-    heir = {
-        name = "阿勒完"  # Elvend
-        monarch_name = "阿勒完 穆罕默德"  # Elvend Mehmed
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1475.1.1
-        death_date = 1499.5.1
-        claim = 50
-        adm = 0
-        dip = 1
-        mil = 0
-    }
+  heir = {
+    name = "阿勒完"  # Elvend
+    monarch_name = "阿勒完 穆罕默德"  # Elvend Mehmed
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1475.1.1
+    death_date = 1499.5.1
+    claim = 50
+    adm = 0
+    dip = 1
+    mil = 0
+  }
 }
 1498.1.1 = {
-    monarch = {
-        name = "阿勒完 穆罕默德"  # Elvend Mehmed
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1475.1.1
-        adm = 0
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "阿勒完 穆罕默德"  # Elvend Mehmed
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1475.1.1
+    adm = 0
+    dip = 1
+    mil = 0
+  }
 }
 1498.1.1 = {
-    heir = {
-        name = "木剌迪"  # Murâd
-        monarch_name = "木剌迪"  # Murâd
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1475.1.1
-        death_date = 1508.1.1
-        claim = 50
-        adm = 0
-        dip = 3
-        mil = 0
-    }
+  heir = {
+    name = "木剌迪"  # Murâd
+    monarch_name = "木剌迪"  # Murâd
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1475.1.1
+    death_date = 1508.1.1
+    claim = 50
+    adm = 0
+    dip = 3
+    mil = 0
+  }
 }
 1501.7.1 = {
-    monarch = {
-        name = "木剌迪"  # Murâd
-        dynasty = "阿克科雍鲁"  # Aq Qoyunlu
-        birth_date = 1475.1.1
-        adm = 0
-        dip = 3
-        mil = 0
-    }
-    capital = 433
+  monarch = {
+    name = "木剌迪"  # Murâd
+    dynasty = "阿克科雍鲁"  # Aq Qoyunlu
+    birth_date = 1475.1.1
+    adm = 0
+    dip = 3
+    mil = 0
+  }
+  capital = 433
 }
 1504.1.1 = {
-    capital = 410
+  capital = 410
 }

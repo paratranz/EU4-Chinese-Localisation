@@ -1,16 +1,16 @@
 ﻿name = "暹罗-越南战争"  # Siamese-Vietnamese War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 605
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 605
 }
 1769.1.1 = {
-    add_attacker = AYU
-    add_attacker = KHM
-    add_defender = ANN
+  add_attacker = AYU
+  add_attacker = KHM
+  add_defender = ANN
 }
 1773.1.1 = {
-    rem_attacker = AYU
-    rem_attacker = KHM
-    rem_defender = ANN
+  rem_attacker = AYU
+  rem_attacker = KHM
+  rem_defender = ANN
 }

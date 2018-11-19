@@ -1,229 +1,228 @@
 ﻿graphical_culture = westerngfx
 color = {
-    99
-    14
-    87
+  99
+  14
+  87
 }
 historical_idea_groups = {
-    exploration_ideas
-    religious_ideas
-    offensive_ideas
-    expansion_ideas
-    influence_ideas
-    maritime_ideas
-    quality_ideas
-    defensive_ideas
+  exploration_ideas
+  religious_ideas
+  offensive_ideas
+  expansion_ideas
+  influence_ideas
+  maritime_ideas
+  quality_ideas
+  defensive_ideas
 }
 historical_units = {
-    western_medieval_infantry
-    western_medieval_knights
-    western_men_at_arms
-    spanish_tercio
-    austrian_tercio
-    austrian_grenzer
-    austrian_hussar
-    austrian_white_coat
-    austrian_jaeger
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 monarch_names = {
-    "Alfonso #11" = 40
-    "Fernando #4" = 20
-    "Sancho #4" = 10
-    "Ramiro #2" = 10
-    "Juan #1" = 10
-    "Felipe #0" = 10
-    "Carlos #0" = 10
-    "Enrique #2" = 5
-    "Pedro #1" = 1
-    "Isabel #0" = -10
-    "Juana #0" = -10
-    "María #0" = -5
-    "Urraca #0" = -5
-    "Alonso #0" = 0
-    "Álvaro #0" = 0
-    "巴尔塔萨 #0" = 0
-    "Bernardo #0" = 0
-    "Bertrán #0" = 0
-    "Cristobal #0" = 0
-    "Diego #0" = 0
-    "Domingo #0" = 0
-    "Esteban #0" = 0
-    "Fadrique #0" = 0
-    "Francisco #0" = 0
-    "García #0" = 0
-    "Gómez #0" = 0
-    "Gonzalo #0" = 0
-    "Gutierre #0" = 0
-    "Hermenegildo #0" = 0
-    "Hernando #0" = 0
-    "Ignacio #0" = 0
-    "Laín #0" = 0
-    "Lope #0" = 0
-    "Miguel #0" = 0
-    "Nuño #0" = 0
-    "Odón #0" = 0
-    "拉蒙 #0" = 0
-    "Rodrigo #0" = 0
-    "Tomás #0" = 0
-    "Valeriano #0" = 0
+  "Alfonso #11" = 40
+  "Fernando #4" = 20
+  "Sancho #4" = 10
+  "Ramiro #2" = 10
+  "Juan #1" = 10
+  "Felipe #0" = 10
+  "Carlos #0" = 10
+  "Enrique #2" = 5
+  "Pedro #1" = 1
+  "Isabel #0" = -10
+  "Juana #0" = -10
+  "María #0" = -5
+  "Urraca #0" = -5
+  "Alonso #0" = 0
+  "Álvaro #0" = 0
+  "Bernardo #0" = 0
+  "Bertrán #0" = 0
+  "Cristobal #0" = 0
+  "Diego #0" = 0
+  "Domingo #0" = 0
+  "Esteban #0" = 0
+  "Fadrique #0" = 0
+  "Francisco #0" = 0
+  "García #0" = 0
+  "Gómez #0" = 0
+  "Gonzalo #0" = 0
+  "Gutierre #0" = 0
+  "Hermenegildo #0" = 0
+  "Hernando #0" = 0
+  "Ignacio #0" = 0
+  "Laín #0" = 0
+  "Lope #0" = 0
+  "Miguel #0" = 0
+  "Nuño #0" = 0
+  "Odón #0" = 0
+  "Rodrigo #0" = 0
+  "Tomás #0" = 0
+  "Valeriano #0" = 0
+  "巴尔塔萨 #0" = 0  # Baltasar #0
+  "拉蒙 #0" = 0  # Ramón #0
 }
 leader_names = {
-    "de Aguirre"  # de Aguirre
-    "德 阿拉尔孔"  # de Alarcón
-    "de Toledo"  # de Toledo
-    "de Andrade"  # de Andrade
-    "de Ayala"  # de Ayala
-    "de Bazán"  # de Bazán
-    "de Benavides"  # de Benavides
-    "Campomanes"  # Campomanes
-    "de Castilla"  # de Castilla
-    "de la Cerda"  # de la Cerda
-    "Cienfuegos"  # Cienfuegos
-    "哥伦布"  # Colón
-    "Coronado"  # Coronado
-    "Cortés"  # Cortés
-    "de Toledo"  # de Toledo
-    "de Córdoba"  # de Córdoba
-    "de la Cueva"  # de la Cueva
-    "de Figueroa"  # de Figueroa
-    "Fonseca"  # Fonseca
-    "Gálvez"  # Gálvez
-    "Gómez"  # Gómez
-    "de Guzmán"  # de Guzmán
-    "Jiménez de Cisneros"  # Jiménez de Cisneros
-    "de Leiva"  # de Leiva
-    "López de Haro"  # López de Haro
-    "de Luna"  # de Luna
-    "de Lara"  # de Lara
-    "de Velasco"  # de Velasco
-    "de Villena"  # de Villena
-    "de Mendoza"  # de Mendoza
-    "Narváez"  # Narváez
-    "de Nebrija"  # de Nebrija
-    "Nuñez de Balboa"  # Nuñez de Balboa
-    "de Ojeda"  # de Ojeda
-    "Orellana"  # Orellana
-    "Osorio"  # Osorio
-    "Pimentel"  # Pimentel
-    "Pinzón"  # Pinzón
-    "Pizarro"  # Pizarro
-    "Ponce de León"  # Ponce de León
-    "Portocarrero"  # Portocarrero
-    "de Rojas"  # de Rojas
-    "Tellez-Girón"  # Tellez-Girón
-    "de la Vega"  # de la Vega
-    "de Zúñiga"  # de Zúñiga
+  "de Aguirre"
+  "德 阿拉尔孔"  # de Alarcón
+  "de Toledo"
+  "de Andrade"
+  "de Ayala"
+  "de Bazán"
+  "de Benavides"
+  "Campomanes"
+  "de Castilla"
+  "de la Cerda"
+  "Cienfuegos"
+  "哥伦布"  # Colón
+  "Coronado"
+  "Cortés"
+  "de Toledo"
+  "de Córdoba"
+  "de la Cueva"
+  "de Figueroa"
+  "Fonseca"
+  "Gálvez"
+  "Gómez"
+  "de Guzmán"
+  "Jiménez de Cisneros"
+  "de Leiva"
+  "López de Haro"
+  "de Luna"
+  "de Lara"
+  "de Velasco"
+  "de Villena"
+  "de Mendoza"
+  "Narváez"
+  "de Nebrija"
+  "Nuñez de Balboa"
+  "de Ojeda"
+  "Orellana"
+  "Osorio"
+  "Pimentel"
+  "Pinzón"
+  "Pizarro"
+  "Ponce de León"
+  "Portocarrero"
+  "de Rojas"
+  "Tellez-Girón"
+  "de la Vega"
+  "de Zúñiga"
 }
 ship_names = {
-    "León"  # León
-    "Argonauta"  # Argonauta
-    "Asturias"  # Asturias
-    "Asunción"  # Asunción
-    "Atrevido"  # Atrevido
-    "Azor"  # Azor
-    "Cartagonova"  # Cartagonova
-    "Castilla"  # Castilla
-    "Castillo Negro"  # Castillo Negro
-    "Castor"  # Castor
-    "Ciervo Volante"  # Ciervo Volante
-    "Doncella"  # Doncella
-    "Dragón"  # Dragón
-    "El Gran Grin"  # El Gran Grin
-    "El Retiro"  # El Retiro
-    "Eneas"  # Eneas
-    "Eolo"  # Eolo
-    "Esperanza"  # Esperanza
-    "Espíritu Santo"  # Espíritu Santo
-    "Extremadura"  # Extremadura
-    "Furor"  # Furor
-    "Galicia"  # Galicia
-    "Gran Grifón"  # Gran Grifón
-    "Halcón"  # Halcón
-    "Hércules"  # Hércules
-    "Isabela"  # Isabela
-    "Júpiter"  # Júpiter
-    "La Concepción"  # La Concepción
-    "La Magdalena"  # La Magdalena
-    "La Manuela"  # La Manuela
-    "Ligera"  # Ligera
-    "Lobo Marino"  # Lobo Marino
-    "Marte"  # Marte
-    "Mercurio"  # Mercurio
-    "Neptuno"  # Neptuno
-    "Niña"  # Niña
-    "Orión"  # Orión
-    "Paloma Blanca"  # Paloma Blanca
-    "Pegaso"  # Pegaso
-    "Perro Marino"  # Perro Marino
-    "Pinta"  # Pinta
-    "Plutón"  # Plutón
-    "Pollux"  # Pollux
-    "Príncipe de Asturias"  # Príncipe de Asturias
-    "Rayo"  # Rayo
-    "Real Alfonso"  # Real Alfonso
-    "Real Enrique"  # Real Enrique
-    "Real Juan"  # Real Juan
-    "Rey Pelayo"  # Rey Pelayo
-    "Rey Rodrigo"  # Rey Rodrigo
-    "San Andrés"  # San Andrés
-    "San Antonio"  # San Antonio
-    "San Bartolomé"  # San Bartolomé
-    "San Bernabé"  # San Bernabé
-    "San Cristobal"  # San Cristobal
-    "San Enrique"  # San Enrique
-    "San Esteban"  # San Esteban
-    "San Fernando"  # San Fernando
-    "San Francisco"  # San Francisco
-    "San Gabriel"  # San Gabriel
-    "San Isidoro"  # San Isidoro
-    "San Jerónimo"  # San Jerónimo
-    "San José"  # San José
-    "San Juan"  # San Juan
-    "San Juan Bautista"  # San Juan Bautista
-    "San Leandro"  # San Leandro
-    "San Miguel"  # San Miguel
-    "San Pedro"  # San Pedro
-    "San Rafael"  # San Rafael
-    "San Salvador"  # San Salvador
-    "San Sebastian"  # San Sebastian
-    "Santa Ana"  # Santa Ana
-    "Santa Bárbara"  # Santa Bárbara
-    "Santa Beatriz"  # Santa Beatriz
-    "Santa Catalina"  # Santa Catalina
-    "Santa Cruz"  # Santa Cruz
-    "Santa Fe"  # Santa Fe
-    "Santa Isabel"  # Santa Isabel
-    "Santa Justa"  # Santa Justa
-    "Santa María"  # Santa María
-    "Santa Marta"  # Santa Marta
-    "Santa Rita"  # Santa Rita
-    "Santa Teresa"  # Santa Teresa
-    "Santiago"  # Santiago
-    "Santísima Trinidad"  # Santísima Trinidad
-    "Santo Domingo"  # Santo Domingo
-    "Sirena"  # Sirena
-    "Terror"  # Terror
-    "Toledo"  # Toledo
-    "Trinidad"  # Trinidad
-    "Tritón"  # Tritón
-    "Unicornio"  # Unicornio
-    "Vencedora"  # Vencedora
-    "Ventura"  # Ventura
-    "Victoria"  # Victoria
-    "Vigilante"  # Vigilante
-    "Vizcaya"  # Vizcaya
-    "Vulcano"  # Vulcano
-    "Zúñiga"  # Zúñiga
+  "León"
+  "Argonauta"
+  "Asturias"
+  "Asunción"
+  "Atrevido"
+  "Azor"
+  "Cartagonova"
+  "Castilla"
+  "Castillo Negro"
+  "Castor"
+  "Ciervo Volante"
+  "Doncella"
+  "Dragón"
+  "El Gran Grin"
+  "El Retiro"
+  "Eneas"
+  "Eolo"
+  "Esperanza"
+  "Espíritu Santo"
+  "Extremadura"
+  "Furor"
+  "Galicia"
+  "Gran Grifón"
+  "Halcón"
+  "Hércules"
+  "Isabela"
+  "Júpiter"
+  "La Concepción"
+  "La Magdalena"
+  "La Manuela"
+  "Ligera"
+  "Lobo Marino"
+  "Marte"
+  "Mercurio"
+  "Neptuno"
+  "Niña"
+  "Orión"
+  "Paloma Blanca"
+  "Pegaso"
+  "Perro Marino"
+  "Pinta"
+  "Plutón"
+  "Pollux"
+  "Príncipe de Asturias"
+  "Rayo"
+  "Real Alfonso"
+  "Real Enrique"
+  "Real Juan"
+  "Rey Pelayo"
+  "Rey Rodrigo"
+  "San Andrés"
+  "San Antonio"
+  "San Bartolomé"
+  "San Bernabé"
+  "San Cristobal"
+  "San Enrique"
+  "San Esteban"
+  "San Fernando"
+  "San Francisco"
+  "San Gabriel"
+  "San Isidoro"
+  "San Jerónimo"
+  "San José"
+  "San Juan"
+  "San Juan Bautista"
+  "San Leandro"
+  "San Miguel"
+  "San Pedro"
+  "San Rafael"
+  "San Salvador"
+  "San Sebastian"
+  "Santa Ana"
+  "Santa Bárbara"
+  "Santa Beatriz"
+  "Santa Catalina"
+  "Santa Cruz"
+  "Santa Fe"
+  "Santa Isabel"
+  "Santa Justa"
+  "Santa María"
+  "Santa Marta"
+  "Santa Rita"
+  "Santa Teresa"
+  "Santiago"
+  "Santísima Trinidad"
+  "Santo Domingo"
+  "Sirena"
+  "Terror"
+  "Toledo"
+  "Trinidad"
+  "Tritón"
+  "Unicornio"
+  "Vencedora"
+  "Ventura"
+  "Victoria"
+  "Vigilante"
+  "Vizcaya"
+  "Vulcano"
+  "Zúñiga"
 }
 army_names = {
-    "Guardia Real"  # Guardia Real
-    "$PROVINCE$军"  # Ejército de $PROVINCE$
+  "Guardia Real"
+  "$PROVINCE$军"  # Ejército de $PROVINCE$
 }
 fleet_names = {
-    "皇家海军"  # Armada Real
-    "$PROVINCE$舰队"  # Flota de $PROVINCE$
+  "Armada Real""Flota de $PROVINCE$"
 }

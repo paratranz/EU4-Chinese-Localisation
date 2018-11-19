@@ -1,14 +1,14 @@
 ﻿name = "莫卧儿征服达让"  # Mughal Conquest of Darrang
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 571
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 571
 }
 1661.1.1 = {
-    add_attacker = MUG
-    add_defender = ASS
+  add_attacker = MUG
+  add_defender = ASS
 }
 1663.1.1 = {
-    rem_attacker = MUG
-    rem_defender = ASS
+  rem_attacker = MUG
+  rem_defender = ASS
 }

@@ -1,256 +1,256 @@
 ﻿graphical_culture = westerngfx
 color = {
-    93
-    160
-    163
+  93
+  160
+  163
 }
 historical_idea_groups = {
-    defensive_ideas
-    trade_ideas
-    religious_ideas
-    diplomatic_ideas
-    economic_ideas
-    innovativeness_ideas
-    offensive_ideas
-    spy_ideas
+  defensive_ideas
+  trade_ideas
+  religious_ideas
+  diplomatic_ideas
+  economic_ideas
+  innovativeness_ideas
+  offensive_ideas
+  spy_ideas
 }
 historical_units = {
-    western_medieval_infantry
-    western_medieval_knights
-    western_men_at_arms
-    swiss_landsknechten
-    dutch_maurician
-    french_caracolle
-    anglofrench_line
-    french_dragoon
-    french_bluecoat
-    french_cuirassier
-    french_impulse
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_cuirassier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 monarch_names = {
-    "查理 #2" = 40
-    "路易斯 #1" = 40
-    "勒内 #1" = 20
-    "尼古拉 #0" = 10
-    "约翰 #0" = 5
-    "雷蒙德 贝伦伽尔 #3" = 1
-    "阿方斯 #2" = 1
-    "罗伯特 #1" = 1
-    "埃德马尔 #0" = 0
-    "阿玛里克 #0" = 0
-    "巴托密乌 #0" = 0
-    "Benedit #0" = 0
-    "贝尔纳特 #0" = 0
-    "贝尔特兰 #0" = 0
-    "Damián #0" = 0
-    "埃默里克 #0" = 0
-    "恩里克 #0" = 0
-    "埃斯泰夫 #0" = 0
-    "费兰 #0" = 0
-    "佛尔桂特 #0" = 0
-    "弗朗西斯 #0" = 0
-    "加斯托 #0" = 0
-    "吉雷姆 #0" = 0
-    "Huc #0" = 0
-    "雅格米 #0" = 0
-    "Jaufre #0" = 0
-    "乔丹 #0" = 0
-    "罗伊丝 #0" = 0
-    "卢卡斯 #0" = 0
-    "马蒂 #0" = 0
-    "马特乌 #0" = 0
-    "米克 #0" = 0
-    "帕尔 #0" = 0
-    "珀尔 #0" = 0
-    "庞 #0" = 0
-    "Sanc #0" = 0
-    "蒂博 #0" = 0
-    "维桑茨 #0" = 0
-    "维克多 #0" = 0
-    "哈维尔 #0" = 0
-    "纳丁 #0" = -1
-    "Osanne #0" = -1
-    "约朗德 #0" = -1
+  "Benedit #0" = 0
+  "Damián #0" = 0
+  "Huc #0" = 0
+  "Jaufre #0" = 0
+  "Sanc #0" = 0
+  "Osanne #0" = -1
+  "查理 #2" = 40  # Charles #2
+  "路易斯 #1" = 40  # Louis #1
+  "勒内 #1" = 20  # René #1
+  "尼古拉 #0" = 10  # Nicolas #0
+  "约翰 #0" = 5  # Jean #0
+  "雷蒙德 贝伦伽尔 #3" = 1  # Raymond Berengar #3
+  "阿方斯 #2" = 1  # Alphonse #2
+  "罗伯特 #1" = 1  # Robert #1
+  "埃德马尔 #0" = 0  # Adhémar #0
+  "阿玛里克 #0" = 0  # Aymeric #0
+  "巴托密乌 #0" = 0  # Bartomiu #0
+  "贝尔纳特 #0" = 0  # Bernat #0
+  "贝尔特兰 #0" = 0  # Bertran #0
+  "埃默里克 #0" = 0  # Emeric #0
+  "恩里克 #0" = 0  # Enric #0
+  "埃斯泰夫 #0" = 0  # Estève #0
+  "费兰 #0" = 0  # Ferrán #0
+  "佛尔桂特 #0" = 0  # Folquet #0
+  "弗朗西斯 #0" = 0  # Frances #0
+  "加斯托 #0" = 0  # Gastó #0
+  "吉雷姆 #0" = 0  # Guilhem #0
+  "雅格米 #0" = 0  # Jacme #0
+  "乔丹 #0" = 0  # Jordan #0
+  "罗伊丝 #0" = 0  # Loys #0
+  "卢卡斯 #0" = 0  # Lucas #0
+  "马蒂 #0" = 0  # Martí #0
+  "马特乌 #0" = 0  # Matheu #0
+  "米克 #0" = 0  # Miqueu #0
+  "帕尔 #0" = 0  # Per #0
+  "珀尔 #0" = 0  # Pol #0
+  "庞 #0" = 0  # Pons #0
+  "蒂博 #0" = 0  # Thibaud #0
+  "维桑茨 #0" = 0  # Vicentz #0
+  "维克多 #0" = 0  # Victor #0
+  "哈维尔 #0" = 0  # Xavier #0
+  "纳丁 #0" = -1  # Nadine #0
+  "约朗德 #0" = -1  # Yolande #0
 }
 leader_names = {
-    "d'Abeille"  # d'Abeille
-    "d'Adhémar"  # d'Adhémar
-    "德 阿古勒"  # d'Agoult
-    "d'Aiglun"  # d'Aiglun
-    "d'Aiguières"  # d'Aiguières
-    "d'Allemagne"  # d'Allemagne
-    "德 阿玛里克"  # d'Amalric
-    "d'Audiffredi"  # d'Audiffredi
-    "de Bagnols"  # de Bagnols
-    "de Barberin"  # de Barberin
-    "de Barcillon"  # de Barcillon
-    "de Baschi"  # de Baschi
-    "des Baux"  # des Baux
-    "de Bermond"  # de Bermond
-    "de Bionneau"  # de Bionneau
-    "de Brunet"  # de Brunet
-    "de Cadenet"  # de Cadenet
-    "de Cascaris-Castellet"  # de Cascaris-Castellet
-    "de Castaing"  # de Castaing
-    "de Castellane"  # de Castellane
-    "de Castillon"  # de Castillon
-    "Coquerel"  # Coquerel
-    "de Cordes"  # de Cordes
-    "de Cormis"  # de Cormis
-    "de Crillon"  # de Crillon
-    "d'Entrecasteaux"  # d'Entrecasteaux
-    "d'Espagnet"  # d'Espagnet
-    "Esparron"  # Esparron
-    "d'Espinouze"  # d'Espinouze
-    "de Fargis"  # de Fargis
-    "Fauque de Jonquières"  # Fauque de Jonquières
-    "Ferré de la Grange"  # Ferré de la Grange
-    "de Gassendi"  # de Gassendi
-    "德 热沃当"  # de Gévaudan
-    "de Gombert"  # de Gombert
-    "德 格尔德斯"  # de Gordes
-    "德 格里尼昂"  # de Grignan
-    "格里马尔迪"  # Grimaldi
-    "德 格里莫"  # de Grimaud
-    "de Guast"  # de Guast
-    "德 伊纳赫"  # des Isnards
-    "de Lauris"  # de Lauris
-    "德 利伯塔"  # de Libertat
-    "德 罗梅尼"  # de Loménie
-    "德 蒙泰"  # de Monteil
-    "德 蒙珀扎"  # de Montpezat
-    "德 波勒"  # de Paule
-    "德 佩纳"  # de Pena
-    "佩纳 德 拉 博德"  # Pene de la Borde
-    "de la Pérusse"  # de la Pérusse
-    "德 蓬特维"  # de Pontevès
-    "德 雷蒙迪"  # de Raimondis
-    "德 雷韦斯特"  # de Revest
-    "德 里克蒂"  # de Riquetti
-    "德 萨布朗"  # de Sabran
-    "德 萨德"  # de Sade
-    "德 圣维克多"  # de Saint Victoret
-    "de Séguiran"  # de Séguiran
-    "de Simiane"  # de Simiane
-    "德 瓦尔贝尔"  # de Valbelle
+  "d'Abeille"
+  "d'Adhémar"
+  "德 阿古勒"  # d'Agoult
+  "d'Aiglun"
+  "d'Aiguières"
+  "d'Allemagne"
+  "德 阿玛里克"  # d'Amalric
+  "d'Audiffredi"
+  "de Bagnols"
+  "de Barberin"
+  "de Barcillon"
+  "de Baschi"
+  "des Baux"
+  "de Bermond"
+  "de Bionneau"
+  "de Brunet"
+  "de Cadenet"
+  "de Cascaris-Castellet"
+  "de Castaing"
+  "de Castellane"
+  "de Castillon"
+  "Coquerel"
+  "de Cordes"
+  "de Cormis"
+  "de Crillon"
+  "d'Entrecasteaux"
+  "d'Espagnet"
+  "Esparron"
+  "d'Espinouze"
+  "de Fargis"
+  "Fauque de Jonquières"
+  "Ferré de la Grange"
+  "de Gassendi"
+  "德 热沃当"  # de Gévaudan
+  "de Gombert"
+  "德 格尔德斯"  # de Gordes
+  "德 格里尼昂"  # de Grignan
+  "格里马尔迪"  # Grimaldi
+  "德 格里莫"  # de Grimaud
+  "de Guast"
+  "德 伊纳赫"  # des Isnards
+  "de Lauris"
+  "德 利伯塔"  # de Libertat
+  "德 罗梅尼"  # de Loménie
+  "德 蒙泰"  # de Monteil
+  "德 蒙珀扎"  # de Montpezat
+  "德 波勒"  # de Paule
+  "德 佩纳"  # de Pena
+  "佩纳 德 拉 博德"  # Pene de la Borde
+  "de la Pérusse"
+  "德 蓬特维"  # de Pontevès
+  "德 雷蒙迪"  # de Raimondis
+  "德 雷韦斯特"  # de Revest
+  "德 里克蒂"  # de Riquetti
+  "德 萨布朗"  # de Sabran
+  "德 萨德"  # de Sade
+  "德 圣维克多"  # de Saint Victoret
+  "de Séguiran"
+  "de Simiane"
+  "德 瓦尔贝尔"  # de Valbelle
 }
 ship_names = {
-    "阿基莱"  # Achille
-    "Agréable"  # Agréable
-    "迅疾雄鹰"  # Aigle Volant
-    "翠鸟"  # Alcyon
-    "Alouette"  # Alouette
-    "高傲"  # Altier
-    "阿奎隆"  # Aquilon
-    "Ardente"  # Ardente
-    "Assuré"  # Assuré
-    "受爱者"  # Avenant
-    "冒险者"  # Aventurier
-    "鲸鱼"  # Baleine
-    "Bécasse"  # Bécasse
-    "Bienvenu"  # Bienvenu
-    "奇境"  # Bizarre
-    "Borée"  # Borée
-    "橄榄枝"  # Branche d'Olivier
-    "Brillant"  # Brillant
-    "Bucentaure"  # Bucentaure
-    "Caché"  # Caché
-    "Caille"  # Caille
-    "行动者"  # Capable
-    "半人马"  # Centaure
-    "塞萨尔"  # César
-    "海马"  # Cheval Marin
-    "Coche"  # Coche
-    "马赛商船"  # Commerce de Marseille
-    "蒙彼利埃商船"  # Commerce de Montpellier
-    "普罗旺斯伯爵"  # Comte de Provence
-    "征服者"  # Conquérant
-    "康斯坦特"  # Constant
-    "知足者"  # Content
-    "新月"  # Croissant
-    "道芬"  # Dauphine
-    "金刚"  # Diamant
-    "Dieppoise"  # Dieppoise
-    "杜兹"  # Dur
-    "Dromadaire"  # Dromadaire
-    "Eclatant"  # Eclatant
-    "风神"  # Eole
-    "Espérance"  # Espérance
-    "Fantasque"  # Fantasque
-    "菲姆"  # Ferme
-    "Fidèle"  # Fidèle
-    "骄傲"  # Fier
-    "Florissant"  # Florissant
-    "无敌"  # Formidable
-    "要塞"  # Fort
-    "可怖"  # Foudroyant
-    "盖拉德"  # Gaillard
-    "Heureux"  # Heureux
-    "Héros"  # Héros
-    "杰森"  # Jason
-    "獅子"  # Lion
-    "Mignon"  # Mignon
-    "密涅瓦"  # Minerve
-    "Océan"  # Océan
-    "俄耳甫斯"  # Orphée
-    "完美"  # Parfait
-    "凤凰"  # Phénix
-    "波利"  # Poli
-    "Pompeux"  # Pompeux
-    "Portefaix"  # Portefaix
-    "Protecteur"  # Protecteur
-    "普罗旺斯"  # Provençal
-    "普罗旺斯"  # Provence
-    "谨慎"  # Prudent
-    "Puissant"  # Puissant
-    "Réale"  # Réale
-    "Redoutable"  # Redoutable
-    "鲨鱼"  # Requin
-    "皇家路易"  # Royal Louis
-    "睿智"  # Sage
-    "射手座"  # Sagittaire
-    "皇家泰蕾丝"  # Royal Thérèse
-    "圣埃斯普利特"  # Saint Esprit
-    "圣约瑟夫"  # Saint Joseph
-    "圣菲利普"  # Saint Philippe
-    "沙丁鱼"  # Sardine
-    "权杖"  # Sceptre
-    "Séduisant"  # Séduisant
-    "塞纳"  # Seine
-    "Sérieux"  # Sérieux
-    "Solide"  # Solide
-    "Souverain"  # Souverain
-    "Suffisant"  # Suffisant
-    "无畏"  # Téméraire
-    "灾厄"  # Terrible
-    "虎"  # Tigre
-    "Tonnant"  # Tonnant
-    "土伦"  # Toulon
-    "图卢兹"  # Toulouse
-    "三叉戟"  # Trident
-    "Triomphant"  # Triomphant
-    "特莱顿"  # Triton
-    "联盟"  # Union
-    "英勇"  # Vaillant
-    "警戒"  # Vigilant
-    "自愿"  # Volontaire
-    "虔敬"  # Zélé
+  "阿基莱"  # Achille
+  "Agréable"
+  "迅疾雄鹰"  # Aigle Volant
+  "翠鸟"  # Alcyon
+  "Alouette"
+  "高傲"  # Altier
+  "阿奎隆"  # Aquilon
+  "Ardente"
+  "Assuré"
+  "受爱者"  # Avenant
+  "冒险者"  # Aventurier
+  "鲸鱼"  # Baleine
+  "Bécasse"
+  "Bienvenu"
+  "奇境"  # Bizarre
+  "Borée"
+  "橄榄枝"  # Branche d'Olivier
+  "Brillant"
+  "Bucentaure"
+  "Caché"
+  "Caille"
+  "行动者"  # Capable
+  "半人马"  # Centaure
+  "塞萨尔"  # César
+  "海马"  # Cheval Marin
+  "Coche"
+  "马赛商船"  # Commerce de Marseille
+  "蒙彼利埃商船"  # Commerce de Montpellier
+  "普罗旺斯伯爵"  # Comte de Provence
+  "征服者"  # Conquérant
+  "康斯坦特"  # Constant
+  "知足者"  # Content
+  "新月"  # Croissant
+  "道芬"  # Dauphine
+  "金刚"  # Diamant
+  "Dieppoise"
+  "杜兹"  # Dur
+  "Dromadaire"
+  "Eclatant"
+  "风神"  # Eole
+  "Espérance"
+  "Fantasque"
+  "菲姆"  # Ferme
+  "Fidèle"
+  "骄傲"  # Fier
+  "Florissant"
+  "无敌"  # Formidable
+  "要塞"  # Fort
+  "可怖"  # Foudroyant
+  "盖拉德"  # Gaillard
+  "Heureux"
+  "Héros"
+  "杰森"  # Jason
+  "獅子"  # Lion
+  "Mignon"
+  "密涅瓦"  # Minerve
+  "Océan"
+  "俄耳甫斯"  # Orphée
+  "完美"  # Parfait
+  "凤凰"  # Phénix
+  "波利"  # Poli
+  "Pompeux"
+  "Portefaix"
+  "Protecteur"
+  "普罗旺斯"  # Provençal
+  "普罗旺斯"  # Provence
+  "谨慎"  # Prudent
+  "Puissant"
+  "Réale"
+  "Redoutable"
+  "鲨鱼"  # Requin
+  "皇家路易"  # Royal Louis
+  "睿智"  # Sage
+  "射手座"  # Sagittaire
+  "皇家泰蕾丝"  # Royal Thérèse
+  "圣埃斯普利特"  # Saint Esprit
+  "圣约瑟夫"  # Saint Joseph
+  "圣菲利普"  # Saint Philippe
+  "沙丁鱼"  # Sardine
+  "权杖"  # Sceptre
+  "Séduisant"
+  "塞纳"  # Seine
+  "Sérieux"
+  "Solide"
+  "Souverain"
+  "Suffisant"
+  "无畏"  # Téméraire
+  "灾厄"  # Terrible
+  "虎"  # Tigre
+  "Tonnant"
+  "土伦"  # Toulon
+  "图卢兹"  # Toulouse
+  "三叉戟"  # Trident
+  "Triomphant"
+  "特莱顿"  # Triton
+  "联盟"  # Union
+  "英勇"  # Vaillant
+  "警戒"  # Vigilant
+  "自愿"  # Volontaire
+  "虔敬"  # Zélé
 }
 army_names = {
-    "马赛军"  # Armée de Marseille
-    "德斯鲍斯军"  # Armée des Baux
-    "普罗旺斯—福卡尔基耶军"  # Armée de Provence-Forcalquier
-    "纪尧姆军"  # Armée d'Orange
-    "Armée du Pays d'Arles"  # Armée du Pays d'Arles
-    "阿尔卑斯军"  # Armée des Alpes
-    "罗纳军"  # Armée du Rhône
-    "朵昂思军"  # Armée de la Durance
-    "上普罗旺斯军"  # Armée de Haute Provence
-    "下普罗旺斯军"  # Armée de Basse Provence
-    "维瓦莱军"  # Armée du Vivarais
-    "$PROVINCE$军"  # Armée de $PROVINCE$
+  "马赛军"  # Armée de Marseille
+  "德斯鲍斯军"  # Armée des Baux
+  "普罗旺斯—福卡尔基耶军"  # Armée de Provence-Forcalquier
+  "纪尧姆军"  # Armée d'Orange
+  "Armée du Pays d'Arles"
+  "阿尔卑斯军"  # Armée des Alpes
+  "罗纳军"  # Armée du Rhône
+  "朵昂思军"  # Armée de la Durance
+  "上普罗旺斯军"  # Armée de Haute Provence
+  "下普罗旺斯军"  # Armée de Basse Provence
+  "维瓦莱军"  # Armée du Vivarais
+  "$PROVINCE$军"  # Armée de $PROVINCE$
 }

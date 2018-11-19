@@ -1,14 +1,14 @@
 ﻿name = "卡尔吉攻击德里"  # Khalji attack on Delhi
 war_goal = {
-    type = take_border
-    casus_belli = cb_border_war
-    province = 525
+  type = take_border
+  casus_belli = cb_border_war
+  province = 525
 }
 1441.1.1 = {
-    add_attacker = MLW
-    add_defender = DLH
+  add_attacker = MLW
+  add_defender = DLH
 }
 1443.1.1 = {
-    rem_attacker = MLW
-    rem_defender = DLH
+  rem_attacker = MLW
+  rem_defender = DLH
 }

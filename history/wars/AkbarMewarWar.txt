@@ -1,14 +1,14 @@
 ﻿name = "吉多尔之劫"  # Sack of Chittor
 war_goal = {
-    type = take_capital_vassalize
-    casus_belli = cb_vassalize_mission
-    tag = MER
+  type = take_capital_vassalize
+  casus_belli = cb_vassalize_mission
+  tag = MER
 }
 1567.9.1 = {
-    add_attacker = MUG
-    add_defender = MER
+  add_attacker = MUG
+  add_defender = MER
 }
 1568.2.1 = {
-    rem_attacker = MUG
-    rem_defender = MER
+  rem_attacker = MUG
+  rem_defender = MER
 }

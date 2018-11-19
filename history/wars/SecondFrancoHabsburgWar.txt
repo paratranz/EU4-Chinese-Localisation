@@ -1,16 +1,16 @@
 ﻿name = "第二次法国-哈布斯堡战争"  # Second Franco-Habsburg War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 104
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 104
 }
 1536.4.1 = {
-    add_attacker = FRA
-    add_defender = HAB
-    add_defender = SAV
+  add_attacker = FRA
+  add_defender = HAB
+  add_defender = SAV
 }
 1538.6.17 = {
-    rem_attacker = FRA
-    rem_defender = HAB
-    rem_defender = SAV
+  rem_attacker = FRA
+  rem_defender = HAB
+  rem_defender = SAV
 }

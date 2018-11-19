@@ -1,14 +1,14 @@
 ﻿name = "莫卧儿入侵戈尔康达"  # Mughal Invasion of Golconda
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 542
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 542
 }
 1684.1.1 = {
-    add_attacker = MUG
-    add_defender = BIJ
+  add_attacker = MUG
+  add_defender = BIJ
 }
 1686.1.1 = {
-    rem_attacker = MUG
-    rem_defender = BIJ
+  rem_attacker = MUG
+  rem_defender = BIJ
 }

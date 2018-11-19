@@ -6,296 +6,296 @@ religion = catholic
 technology_group = western
 capital = 172
 1345.9.16 = {
-    monarch = {
-        name = "约翰 V"  # Jean V
-        dynasty = "德 德勒"  # de Dreux
-        adm = 2
-        dip = 2
-        mil = 4
-    }
+  monarch = {
+    name = "约翰 V"  # Jean V
+    dynasty = "德 德勒"  # de Dreux
+    adm = 2
+    dip = 2
+    mil = 4
+  }
 }
 1361.7.3 = {
-    queen = {
-        country_of_origin = ENG
-        name = "玛丽"  # Mary
-        dynasty = "兰开斯特"  # Lancaster
-        birth_date = 1344.10.10
-        death_date = 1361.9.1
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  queen = {
+    country_of_origin = ENG
+    name = "玛丽"  # Mary
+    dynasty = "兰开斯特"  # Lancaster
+    birth_date = 1344.10.10
+    death_date = 1361.9.1
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1366.5.1 = {
-    queen = {
-        country_of_origin = ENG
-        name = "让娜"  # Joan
-        dynasty = "霍兰"  # Holland
-        birth_date = 1350.1.1
-        death_date = 1384.10.1
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  queen = {
+    country_of_origin = ENG
+    name = "让娜"  # Joan
+    dynasty = "霍兰"  # Holland
+    birth_date = 1350.1.1
+    death_date = 1384.10.1
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1386.9.11 = {
-    queen = {
-        country_of_origin = NAV
-        name = "让娜"  # Jeanne
-        dynasty = "德 埃夫勒"  # d'Évreux
-        birth_date = 1370.1.1
-        death_date = 1437.7.9
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  queen = {
+    country_of_origin = NAV
+    name = "让娜"  # Jeanne
+    dynasty = "德 埃夫勒"  # d'Évreux
+    birth_date = 1370.1.1
+    death_date = 1437.7.9
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1389.12.24 = {
-    heir = {
-        name = "约翰"  # Jean
-        monarch_name = "约翰 VI"  # Jean VI
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1389.12.24
-        death_date = 1442.8.29
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "约翰"  # Jean
+    monarch_name = "约翰 VI"  # Jean VI
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1389.12.24
+    death_date = 1442.8.29
+    claim = 95
+    adm = 1
+    dip = 2
+    mil = 2
+  }
 }
 1399.11.1 = {
-    monarch = {
-        name = "约翰 VI"  # Jean VI
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1389.12.24
-        adm = 1
-        dip = 2
-        mil = 2
-    }
-    queen = {
-        country_of_origin = FRA
-        name = "让娜"  # Jeanne
-        dynasty = "德 瓦卢瓦"  # de Valois
-        birth_date = 1391.1.24
-        death_date = 1433.9.27
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "约翰 VI"  # Jean VI
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1389.12.24
+    adm = 1
+    dip = 2
+    mil = 2
+  }
+  queen = {
+    country_of_origin = FRA
+    name = "让娜"  # Jeanne
+    dynasty = "德 瓦卢瓦"  # de Valois
+    birth_date = 1391.1.24
+    death_date = 1433.9.27
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1414.5.11 = {
-    heir = {
-        name = "弗朗索瓦"  # François
-        monarch_name = "弗朗索瓦 I"  # François I
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1414.5.11
-        death_date = 1450.7.18
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "弗朗索瓦"  # François
+    monarch_name = "弗朗索瓦 I"  # François I
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1414.5.11
+    death_date = 1450.7.18
+    claim = 95
+    adm = 1
+    dip = 3
+    mil = 2
+  }
 }
 1442.8.29 = {
-    monarch = {
-        name = "弗朗索瓦 I"  # François I
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1414.5.14
-        adm = 1
-        dip = 3
-        mil = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = charismatic_negotiator_personality
+  monarch = {
+    name = "弗朗索瓦 I"  # François I
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1414.5.14
+    adm = 1
+    dip = 3
+    mil = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = charismatic_negotiator_personality
 }
 1442.8.29 = {
-    heir = {
-        name = "皮埃尔"  # Pierre
-        monarch_name = "皮埃尔 II"  # Pierre II
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1418.7.7
-        death_date = 1457.9.22
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  heir = {
+    name = "皮埃尔"  # Pierre
+    monarch_name = "皮埃尔 II"  # Pierre II
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1418.7.7
+    death_date = 1457.9.22
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1442.10.30 = {
-    queen = {
-        country_of_origin = SCO
-        name = "伊莎贝尔"  # Isabel
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1426.1.1
-        death_date = 1494.10.13
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  queen = {
+    country_of_origin = SCO
+    name = "伊莎贝尔"  # Isabel
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1426.1.1
+    death_date = 1494.10.13
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1450.7.19 = {
-    monarch = {
-        name = "皮埃尔 II"  # Pierre II
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1418.7.7
-        adm = 2
-        dip = 2
-        mil = 3
-    }
-    queen = {
-        country_of_origin = FRA
-        name = "弗朗索瓦丝"  # Françoise
-        dynasty = "德 安布瓦兹"  # d'Amboise
-        birth_date = 1427.5.29
-        death_date = 1485.11.4
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "皮埃尔 II"  # Pierre II
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1418.7.7
+    adm = 2
+    dip = 2
+    mil = 3
+  }
+  queen = {
+    country_of_origin = FRA
+    name = "弗朗索瓦丝"  # Françoise
+    dynasty = "德 安布瓦兹"  # d'Amboise
+    birth_date = 1427.5.29
+    death_date = 1485.11.4
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1450.7.20 = {
-    heir = {
-        name = "阿蒂尔"  # Arthur
-        monarch_name = "阿蒂尔 III"  # Arthur III
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1393.8.24
-        death_date = 1458.12.26
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 4
-    }
+  heir = {
+    name = "阿蒂尔"  # Arthur
+    monarch_name = "阿蒂尔 III"  # Arthur III
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1393.8.24
+    death_date = 1458.12.26
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 4
+  }
 }
 1457.9.23 = {
-    monarch = {
-        name = "阿蒂尔 III"  # Artur III
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1393.8.24
-        adm = 3
-        dip = 2
-        mil = 4
-        leader = {
-            name = "阿蒂尔 德 德勒"  # Arthur de Dreux
-            type = general
-            fire = 4
-            shock = 4
-            manuever = 4
-            siege = 1
-        }
+  monarch = {
+    name = "阿蒂尔 III"  # Artur III
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1393.8.24
+    adm = 3
+    dip = 2
+    mil = 4
+    leader = {
+      name = "阿蒂尔 德 德勒"  # Arthur de Dreux
+      Dreux"type = "
+      generalfire = "
+      4shock = "
+      4manuever = "
+      4siege = 1
     }
+  }
 }
 1457.9.23 = {
-    heir = {
-        name = "弗朗索瓦"  # François
-        monarch_name = "弗朗索瓦 II"  # François II
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1433.6.23
-        death_date = 1488.9.9
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_heir_personality = cruel_personality
+  heir = {
+    name = "弗朗索瓦"  # François
+    monarch_name = "弗朗索瓦 II"  # François II
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1433.6.23
+    death_date = 1488.9.9
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_heir_personality = cruel_personality
 }
 1458.12.27 = {
-    monarch = {
-        name = "弗朗索瓦 II"  # François II
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1433.6.23
-        adm = 3
-        dip = 3
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = cruel_personality
+  monarch = {
+    name = "弗朗索瓦 II"  # François II
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1433.6.23
+    adm = 3
+    dip = 3
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = cruel_personality
 }
 1477.1.25 = {
-    heir = {
-        name = "安妮"  # Anne
-        monarch_name = "安妮 I"  # Anne I
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1477.1.25
-        death_date = 1514.1.9
-        claim = 95
-        adm = 5
-        dip = 4
-        mil = 1
-        female = yes
-    }
+  heir = {
+    name = "安妮"  # Anne
+    monarch_name = "安妮 I"  # Anne I
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1477.1.25
+    death_date = 1514.1.9
+    claim = 95
+    adm = 5
+    dip = 4
+    mil = 1
+    female = yes
+  }
 }
 1488.9.10 = {
-    monarch = {
-        name = "安妮 I"  # Anne I
-        dynasty = "德 德勒"  # de Dreux
-        birth_date = 1477.1.25
-        adm = 5
-        dip = 4
-        mil = 1
-        female = yes
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = just_personality
+  monarch = {
+    name = "安妮 I"  # Anne I
+    dynasty = "德 德勒"  # de Dreux
+    birth_date = 1477.1.25
+    adm = 5
+    dip = 4
+    mil = 1
+    female = yes
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = just_personality
 }
 1499.10.14 = {
-    heir = {
-        name = "克洛德"  # Claude
-        monarch_name = "克洛德 I"  # Claude I
-        dynasty = "德 瓦卢瓦"  # de Valois
-        birth_date = 1499.10.14
-        death_date = 1525.7.20
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-        female = yes
-    }
+  heir = {
+    name = "克洛德"  # Claude
+    monarch_name = "克洛德 I"  # Claude I
+    dynasty = "德 瓦卢瓦"  # de Valois
+    birth_date = 1499.10.14
+    death_date = 1525.7.20
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+    female = yes
+  }
 }
 1514.1.10 = {
-    monarch = {
-        name = "克洛德 I"  # Claude I
-        dynasty = "德 瓦卢瓦"  # de Valois
-        birth_date = 1499.10.14
-        adm = 2
-        dip = 2
-        mil = 2
-        female = yes
-    }
+  monarch = {
+    name = "克洛德 I"  # Claude I
+    dynasty = "德 瓦卢瓦"  # de Valois
+    birth_date = 1499.10.14
+    adm = 2
+    dip = 2
+    mil = 2
+    female = yes
+  }
 }
 1518.2.28 = {
-    heir = {
-        name = "弗朗索瓦"  # François
-        monarch_name = "弗朗索瓦 III"  # François III
-        dynasty = "德 瓦卢瓦"  # de Valois
-        birth_date = 1518.2.28
-        death_date = 1536.8.10
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 1
-    }
+  heir = {
+    name = "弗朗索瓦"  # François
+    monarch_name = "弗朗索瓦 III"  # François III
+    dynasty = "德 瓦卢瓦"  # de Valois
+    birth_date = 1518.2.28
+    death_date = 1536.8.10
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 1
+  }
 }
 1524.7.21 = {
-    monarch = {
-        name = "弗朗索瓦 III"  # François III
-        dynasty = "德 瓦卢瓦"  # de Valois
-        birth_date = 1518.2.28
-        adm = 3
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "弗朗索瓦 III"  # François III
+    dynasty = "德 瓦卢瓦"  # de Valois
+    birth_date = 1518.2.28
+    adm = 3
+    dip = 2
+    mil = 1
+  }
 }
 1589.8.3 = {
-    set_legacy_government = administrative_monarchy
+  set_legacy_government = administrative_monarchy
 }
 1661.3.9 = {
-    government = monarchy
-    add_government_reform = autocracy_reform
+  government = monarchy
+  add_government_reform = autocracy_reform
 }

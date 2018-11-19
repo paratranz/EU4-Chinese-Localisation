@@ -1,14 +1,14 @@
 ﻿name = "莫卧儿入侵比贾普尔"  # Mughal Invasion of Bijapur
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 569
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 569
 }
 1684.1.1 = {
-    add_attacker = MUG
-    add_defender = BIJ
+  add_attacker = MUG
+  add_defender = BIJ
 }
 1686.1.1 = {
-    rem_attacker = MUG
-    rem_defender = BIJ
+  rem_attacker = MUG
+  rem_defender = BIJ
 }

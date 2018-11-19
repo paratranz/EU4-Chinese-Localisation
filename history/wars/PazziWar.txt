@@ -1,16 +1,16 @@
 ﻿name = "帕奇战争"  # Pazzi War
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = NAP
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = NAP
 }
 1478.5.1 = {
-    add_attacker = PAP
-    add_attacker = NAP
-    add_defender = TUS
+  add_attacker = PAP
+  add_attacker = NAP
+  add_defender = TUS
 }
 1480.1.1 = {
-    rem_attacker = PAP
-    rem_attacker = NAP
-    rem_defender = TUS
+  rem_attacker = PAP
+  rem_attacker = NAP
+  rem_defender = TUS
 }

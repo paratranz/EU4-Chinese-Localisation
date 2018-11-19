@@ -1,245 +1,245 @@
 ﻿name = "第三次反法同盟战争"  # War of the Third Coalition
 war_goal = {
-    type = take_capital_revolution
-    casus_belli = cb_crush_the_revolution
-    tag = FRA
+  type = take_capital_revolution
+  casus_belli = cb_crush_the_revolution
+  tag = FRA
 }
 1803.5.18 = {
-    add_attacker = GBR
-    add_defender = FRA
-    add_defender = NED
-    add_defender = ETR
-    add_defender = BAV
-    add_defender = ITA
+  add_attacker = GBR
+  add_defender = FRA
+  add_defender = NED
+  add_defender = ETR
+  add_defender = BAV
+  add_defender = ITA
 }
 1803.7.5 = {
-    add_attacker = HAN
+  add_attacker = HAN
 }
 1804.12.12 = {
-    add_defender = SPA
+  add_defender = SPA
 }
 1805.4.11 = {
-    add_attacker = RUS
+  add_attacker = RUS
 }
 1805.8.9 = {
-    add_attacker = HAB
-    add_attacker = NAP
+  add_attacker = HAB
+  add_attacker = NAP
 }
 1805.9.25 = {
-    battle = {
-        name = "佛得角"  # Cape Finisterre
-        location = 1290
-        attacker = {
-            commander = "罗伯特 考尔德"  # Robert Calder
-            heavy_ship = 15
-            losses = 2
-            country = GBR
-        }
-        defender = {
-            commander = "皮埃尔 德 维伦纽夫"  # Pierre de Villeneuve
-            heavy_ship = 14
-            losses = 3
-            country = FRA
-        }
-        result = yes
+  battle = {
+    name = "佛得角"  # Cape Finisterre
+    location = 1290
+    attacker = {
+      commander = "罗伯特 考尔德"  # Robert Calder
+      heavy_ship = 15
+      losses = 2
+      country = GBR
     }
+    defender = {
+      commander = "皮埃尔 德 维伦纽夫"  # Pierre de Villeneuve
+      heavy_ship = 14
+      losses = 3
+      country = FRA
+    }
+    result = yes
+  }
 }
 1805.10.8 = {
-    battle = {
-        name = "韦尔廷根"  # Wertingen
-        location = 64
-        attacker = {
-            commander = "弗朗茨 泽维尔 奥芬伯格"  # Franz Xavier Auffenberg
-            infantry = 12000
-            losses = 7
-            country = HAB
-        }
-        defender = {
-            commander = "若阿尚·缪拉"  # Joachim Murat
-            infantry = 5500
-            losses = 2
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "韦尔廷根"  # Wertingen
+    location = 64
+    attacker = {
+      commander = "弗朗茨 泽维尔 奥芬伯格"  # Franz Xavier Auffenberg
+      infantry = 12000
+      losses = 7
+      country = HAB
     }
+    defender = {
+      commander = "若阿尚·缪拉"  # Joachim Murat
+      infantry = 5500
+      losses = 2
+      country = FRA
+    }
+    result = no
+  }
 }
 1805.10.11 = {
-    battle = {
-        name = "哈斯拉赫 永京根"  # Haslach-Jungingen
-        location = 74
-        attacker = {
-            commander = "卡尔 马克 冯 莱贝里希"  # Karl Mack von Lieberich
-            infantry = 25000
-            losses = 2
-            country = HAB
-        }
-        defender = {
-            commander = "皮埃尔 杜邦 德 亿唐"  # Pierre Dupont de l'Etang
-            infantry = 6000
-            losses = 16
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "哈斯拉赫 永京根"  # Haslach-Jungingen
+    location = 74
+    attacker = {
+      commander = "卡尔 马克 冯 莱贝里希"  # Karl Mack von Lieberich
+      infantry = 25000
+      losses = 2
+      country = HAB
     }
+    defender = {
+      commander = "皮埃尔 杜邦 德 亿唐"  # Pierre Dupont de l'Etang
+      infantry = 6000
+      losses = 16
+      country = FRA
+    }
+    result = no
+  }
 }
 1805.10.16 = {
-    battle = {
-        name = "乌尔姆"  # Ulm
-        location = 70
-        attacker = {
-            commander = "卡尔 马克 冯 莱贝里希"  # Karl Mack von Liebereich
-            infantry = 72000
-            losses = 16
-            country = HAB
-        }
-        defender = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 150000
-            losses = 4
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "乌尔姆"  # Ulm
+    location = 70
+    attacker = {
+      commander = "卡尔 马克 冯 莱贝里希"  # Karl Mack von Liebereich
+      infantry = 72000
+      losses = 16
+      country = HAB
     }
+    defender = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 150000
+      losses = 4
+      country = FRA
+    }
+    result = no
+  }
 }
 1805.10.18 = {
-    add_defender = WUR
+  add_defender = WUR
 }
 1805.10.21 = {
-    battle = {
-        name = "特拉法尔加"  # Trafalgar
-        location = 1292
-        attacker = {
-            commander = "霍雷肖 纳尔逊"  # Horatio Nelson
-            heavy_ship = 27
-            losses = 2
-            country = GBR
-        }
-        defender = {
-            commander = "皮埃尔 德 维伦纽夫"  # Pierre de Villeneuve
-            heavy_ship = 33
-            light_ship = 8
-            losses = 22
-            country = FRA
-        }
-        result = yes
+  battle = {
+    name = "特拉法尔加"  # Trafalgar
+    location = 1292
+    attacker = {
+      commander = "霍雷肖 纳尔逊"  # Horatio Nelson
+      heavy_ship = 27
+      losses = 2
+      country = GBR
     }
+    defender = {
+      commander = "皮埃尔 德 维伦纽夫"  # Pierre de Villeneuve
+      heavy_ship = 33
+      light_ship = 8
+      losses = 22
+      country = FRA
+    }
+    result = yes
+  }
 }
 1805.10.30 = {
-    battle = {
-        name = "卡尔迪耶罗"  # Caldiero
-        location = 108
-        attacker = {
-            commander = "奥地利的卡尔"  # Charles of Austria
-            infantry = 50000
-            losses = 6
-            country = HAB
-        }
-        defender = {
-            commander = "安德烈 马塞纳"  # André Masséna
-            infantry = 37000
-            losses = 11
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "卡尔迪耶罗"  # Caldiero
+    location = 108
+    attacker = {
+      commander = "奥地利的卡尔"  # Charles of Austria
+      infantry = 50000
+      losses = 6
+      country = HAB
     }
+    defender = {
+      commander = "安德烈 马塞纳"  # André Masséna
+      infantry = 37000
+      losses = 11
+      country = FRA
+    }
+    result = no
+  }
 }
 1805.10.31 = {
-    add_attacker = SWE
+  add_attacker = SWE
 }
 1805.11.3 = {
-    add_attacker = PRU
+  add_attacker = PRU
 }
 1805.11.5 = {
-    battle = {
-        name = "阿姆施泰滕"  # Amstetten
-        location = 134
-        attacker = {
-            commander = "彼得 巴格拉季昂"  # Pyotr Bagration
-            infantry = 6700
-            losses = 7
-            country = RUS
-        }
-        defender = {
-            commander = "缪拉元帅"  # Marshal Murat
-            infantry = 10000
-            losses = 10
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "阿姆施泰滕"  # Amstetten
+    location = 134
+    attacker = {
+      commander = "彼得 巴格拉季昂"  # Pyotr Bagration
+      infantry = 6700
+      losses = 7
+      country = RUS
     }
+    defender = {
+      commander = "缪拉元帅"  # Marshal Murat
+      infantry = 10000
+      losses = 10
+      country = FRA
+    }
+    result = no
+  }
 }
 1805.11.11 = {
-    battle = {
-        name = "杜伦斯坦"  # Dürenstein
-        location = 134
-        attacker = {
-            commander = "米哈伊尔 伊拉里奥诺维奇 库图佐夫"  # Mikhail Illarionovich Kutuzov
-            infantry = 24000
-            losses = 8
-            country = RUS
-        }
-        defender = {
-            commander = "爱德华 莫尔捷"  # Édouard Mortier
-            infantry = 8000
-            losses = 22
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "杜伦斯坦"  # Dürenstein
+    location = 134
+    attacker = {
+      commander = "米哈伊尔 伊拉里奥诺维奇 库图佐夫"  # Mikhail Illarionovich Kutuzov
+      infantry = 24000
+      losses = 8
+      country = RUS
     }
+    defender = {
+      commander = "爱德华 莫尔捷"  # Édouard Mortier
+      infantry = 8000
+      losses = 22
+      country = FRA
+    }
+    result = no
+  }
 }
 1805.11.16 = {
-    battle = {
-        name = "舍恩格拉本"  # Schöngrabern
-        location = 134
-        attacker = {
-            commander = "彼得 巴格拉季昂"  # Pyotr Bagration
-            infantry = 7300
-            losses = 34
-            country = RUS
-        }
-        defender = {
-            commander = "若阿尚·缪拉"  # Joachim Murat
-            infantry = 21000
-            losses = 6
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "舍恩格拉本"  # Schöngrabern
+    location = 134
+    attacker = {
+      commander = "彼得 巴格拉季昂"  # Pyotr Bagration
+      infantry = 7300
+      losses = 34
+      country = RUS
     }
+    defender = {
+      commander = "若阿尚·缪拉"  # Joachim Murat
+      infantry = 21000
+      losses = 6
+      country = FRA
+    }
+    result = no
+  }
 }
 1805.12.2 = {
-    battle = {
-        name = "奥斯德立兹"  # Austerlitz
-        location = 265
-        attacker = {
-            commander = "亚历山大一世 巴甫洛維奇"  # Aleksandr I Pavlovich
-            infantry = 73000
-            losses = 21
-            country = RUS
-        }
-        defender = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 65000
-            losses = 2
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "奥斯德立兹"  # Austerlitz
+    location = 265
+    attacker = {
+      commander = "亚历山大一世 巴甫洛維奇"  # Aleksandr I Pavlovich
+      infantry = 73000
+      losses = 21
+      country = RUS
     }
+    defender = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 65000
+      losses = 2
+      country = FRA
+    }
+    result = no
+  }
 }
 1805.12.15 = {
-    rem_attacker = PRU
-    rem_attacker = HAN
+  rem_attacker = PRU
+  rem_attacker = HAN
 }
 1805.12.26 = {
-    rem_defender = FRA
-    rem_defender = NED
-    rem_defender = ETR
-    rem_defender = SPA
-    rem_defender = WUR
-    rem_defender = BAV
-    rem_defender = ITA
-    rem_attacker = HAB
-    rem_attacker = RUS
-    rem_attacker = GBR
-    rem_attacker = NAP
-    rem_attacker = SWE
+  rem_defender = FRA
+  rem_defender = NED
+  rem_defender = ETR
+  rem_defender = SPA
+  rem_defender = WUR
+  rem_defender = BAV
+  rem_defender = ITA
+  rem_attacker = HAB
+  rem_attacker = RUS
+  rem_attacker = GBR
+  rem_attacker = NAP
+  rem_attacker = SWE
 }

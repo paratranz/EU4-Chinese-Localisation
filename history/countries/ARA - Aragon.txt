@@ -8,218 +8,218 @@ technology_group = western
 capital = 220
 add_army_professionalism = 0.05
 1396.5.19 = {
-    monarch = {
-        name = "马蒂 I"  # Martí I
-        dynasty = "德 阿拉贡"  # d'Aragó
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  monarch = {
+    name = "马蒂 I"  # Martí I
+    dynasty = "德 阿拉贡"  # d'Aragó
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1410.5.31 = {
-    monarch = {
-        name = "卡斯佩妥协方案"  # Compromís de Casp
-        regent = yes
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "卡斯佩妥协方案"  # Compromís de Casp
+    regent = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1412.6.24 = {
-    monarch = {
-        name = "费尔南多 I"  # Ferran I
-        dynasty = "德 特拉斯塔马拉"  # de Trastámara
-        adm = 2
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "费尔南多 I"  # Ferran I
+    dynasty = "德 特拉斯塔马拉"  # de Trastámara
+    adm = 2
+    dip = 1
+    mil = 2
+  }
 }
 1412.6.24 = {
-    heir = {
-        name = "阿方索"  # Alfons
-        monarch_name = "阿方索 V"  # Alfons V
-        dynasty = "德 特拉斯塔马拉"  # de Trastámara
-        birth_date = 1396.1.1
-        death_date = 1458.6.27
-        claim = 95
-        adm = 2
-        dip = 4
-        mil = 6
-    }
+  heir = {
+    name = "阿方索"  # Alfons
+    monarch_name = "阿方索 V"  # Alfons V
+    dynasty = "德 特拉斯塔马拉"  # de Trastámara
+    birth_date = 1396.1.1
+    death_date = 1458.6.27
+    claim = 95
+    adm = 2
+    dip = 4
+    mil = 6
+  }
 }
 1416.4.2 = {
-    monarch = {
-        name = "阿方索 V"  # Alfons V
-        dynasty = "德 特拉斯塔马拉"  # de Trastámara
-        birth_date = 1396.1.1
-        adm = 2
-        dip = 4
-        mil = 6
-        leader = {
-            name = "阿方索 V"  # Alfons V
-            type = general
-            fire = 4
-            shock = 3
-            manuever = 4
-            siege = 1
-        }
+  monarch = {
+    name = "阿方索 V"  # Alfons V
+    dynasty = "德 特拉斯塔马拉"  # de Trastámara
+    birth_date = 1396.1.1
+    adm = 2
+    dip = 4
+    mil = 6
+    leader = {
+      name = "阿方索 V"  # Alfons V
+      V"type = "
+      generalfire = "
+      4shock = "
+      3manuever = "
+      4siege = 1
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = well_connected_personality
-    add_ruler_personality = architectural_visionary_personality
-    heir = {
-        name = "胡安"  # Joan
-        monarch_name = "胡安 II"  # Joan II
-        dynasty = "德 特拉斯塔马拉"  # de Trastámara
-        birth_date = 1397.6.29
-        death_date = 1479.1.20
-        claim = 95
-        adm = 4
-        dip = 1
-        mil = 0
-    }
-    queen = {
-        country_of_origin = CAS
-        name = "玛丽亚"  # Maria
-        dynasty = "德 特拉斯塔马拉"  # de Trastámara
-        birth_date = 1401.9.14
-        death_date = 1458.9.7
-        female = yes
-        adm = 4
-        dip = 4
-        mil = 3
-    }
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = well_connected_personality
+  add_ruler_personality = architectural_visionary_personality
+  heir = {
+    name = "胡安"  # Joan
+    monarch_name = "胡安 II"  # Joan II
+    dynasty = "德 特拉斯塔马拉"  # de Trastámara
+    birth_date = 1397.6.29
+    death_date = 1479.1.20
+    claim = 95
+    adm = 4
+    dip = 1
+    mil = 0
+  }
+  queen = {
+    country_of_origin = CAS
+    name = "玛丽亚"  # Maria
+    dynasty = "德 特拉斯塔马拉"  # de Trastámara
+    birth_date = 1401.9.14
+    death_date = 1458.9.7
+    female = yes
+    adm = 4
+    dip = 4
+    mil = 3
+  }
 }
 1443.1.1 = {
-    leader = {
-        name = "贝尔纳特 德 贝拉玛丽"  # Bernat de Vilamarí
-        type = admiral
-        fire = 3
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1463.9.1
-    }
+  leader = {
+    name = "贝尔纳特 德 贝拉玛丽"  # Bernat de Vilamarí
+    Vilamarí"type = "
+    admiralfire = "
+    3shock = "
+    2manuever = "
+    2siege = "
+    0death_date = 1463.9.1
+  }
 }
 1458.6.29 = {
-    monarch = {
-        name = "胡安 II"  # Joan II
-        dynasty = "德 特拉斯塔马拉"  # de Trastámara
-        birth_date = 1397.6.29
-        adm = 4
-        dip = 1
-        mil = 0
-    }
-    queen = {
-        country_of_origin = CAS
-        name = "胡安娜 恩里克斯"  # Juana Enríquez
-        dynasty = "德 科尔多瓦"  # de Córdoba
-        birth_date = 1425.1.1
-        death_date = 1468.2.13
-        female = yes
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "胡安 II"  # Joan II
+    dynasty = "德 特拉斯塔马拉"  # de Trastámara
+    birth_date = 1397.6.29
+    adm = 4
+    dip = 1
+    mil = 0
+  }
+  queen = {
+    country_of_origin = CAS
+    name = "胡安娜 恩里克斯"  # Juana Enríquez
+    dynasty = "德 科尔多瓦"  # de Córdoba
+    birth_date = 1425.1.1
+    death_date = 1468.2.13
+    female = yes
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1458.6.29 = {
-    heir = {
-        name = "费尔南多"  # Ferran
-        monarch_name = "费尔南多 II"  # Ferran II
-        dynasty = "德 特拉斯塔马拉"  # de Trastámara
-        birth_date = 1452.3.10
-        death_date = 1516.1.23
-        claim = 95
-        adm = 4
-        dip = 6
-        mil = 5
-    }
+  heir = {
+    name = "费尔南多"  # Ferran
+    monarch_name = "费尔南多 II"  # Ferran II
+    dynasty = "德 特拉斯塔马拉"  # de Trastámara
+    birth_date = 1452.3.10
+    death_date = 1516.1.23
+    claim = 95
+    adm = 4
+    dip = 6
+    mil = 5
+  }
 }
 1479.1.20 = {
-    monarch = {
-        name = "费尔南多 II"  # Ferran II
-        dynasty = "德 特拉斯塔马拉"  # de Trastámara
-        birth_date = 1452.3.10
-        adm = 4
-        dip = 6
-        mil = 5
-        leader = {
-            name = "费尔南多 II"  # Ferran II
-            type = general
-            fire = 3
-            shock = 2
-            manuever = 3
-            siege = 1
-        }
+  monarch = {
+    name = "费尔南多 II"  # Ferran II
+    dynasty = "德 特拉斯塔马拉"  # de Trastámara
+    birth_date = 1452.3.10
+    adm = 4
+    dip = 6
+    mil = 5
+    leader = {
+      name = "费尔南多 II"  # Ferran II
+      II"type = "
+      generalfire = "
+      3shock = "
+      2manuever = "
+      3siege = 1
     }
-    queen = {
-        country_of_origin = CAS
-        name = "伊莎贝拉"  # Isabella
-        dynasty = "德 特拉斯塔马拉"  # de Trastámara
-        birth_date = 1451.4.22
-        death_date = 1504.11.26
-        female = yes
-        adm = 5
-        dip = 6
-        mil = 3
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = zealot_personality
-    add_ruler_personality = lawgiver_personality
-    add_ruler_personality = martial_educator_personality
+  }
+  queen = {
+    country_of_origin = CAS
+    name = "伊莎贝拉"  # Isabella
+    dynasty = "德 特拉斯塔马拉"  # de Trastámara
+    birth_date = 1451.4.22
+    death_date = 1504.11.26
+    female = yes
+    adm = 5
+    dip = 6
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = zealot_personality
+  add_ruler_personality = lawgiver_personality
+  add_ruler_personality = martial_educator_personality
 }
 1495.7.1 = {
-    leader = {
-        name = "普洛斯彼罗 科隆纳"  # Prospero Colonna
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1516.1.23
-    }
+  leader = {
+    name = "普洛斯彼罗 科隆纳"  # Prospero Colonna
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1516.1.23
+  }
 }
 1499.1.1 = {
-    leader = {
-        name = "佩德罗 纳瓦罗"  # Pedro Navarro
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 2
-        siege = 3
-        death_date = 1512.4.11
-    }
+  leader = {
+    name = "佩德罗 纳瓦罗"  # Pedro Navarro
+    Navarro"type = "
+    generalfire = "
+    3shock = "
+    2manuever = "
+    2siege = "
+    3death_date = 1512.4.11
+  }
 }
 1508.1.1 = {
-    leader = {
-        name = "雷蒙 德 卡多纳"  # Ramón de Cardona
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 2
-        siege = 1
-        death_date = 1516.1.23
-    }
+  leader = {
+    name = "雷蒙 德 卡多纳"  # Ramón de Cardona
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    2siege = "
+    1death_date = 1516.1.23
+  }
 }
 1512.1.1 = {
-    leader = {
-        name = "费尔南多 德 阿瓦洛斯"  # Fernando d'Avalos
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1525.11.4
-    }
+  leader = {
+    name = "费尔南多 德 阿瓦洛斯"  # Fernando d'Avalos
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    1death_date = 1525.11.4
+  }
 }
 1516.1.23 = {
-    government = monarchy
-    add_government_reform = autocracy_reform
+  government = monarchy
+  add_government_reform = autocracy_reform
 }
 1724.1.20 = {
-    set_legacy_government = administrative_monarchy
+  set_legacy_government = administrative_monarchy
 }
 1759.8.12 = {
-    government = monarchy
-    add_government_reform = autocracy_reform
+  government = monarchy
+  add_government_reform = autocracy_reform
 }

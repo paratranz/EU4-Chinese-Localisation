@@ -1,14 +1,14 @@
 ﻿name = "第七次奥斯曼-萨法维战争"  # Seventh Ottoman-Safavid War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 419
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 419
 }
 1615.5.22 = {
-    add_attacker = TUR
-    add_defender = PER
+  add_attacker = TUR
+  add_defender = PER
 }
 1618.9.26 = {
-    rem_attacker = TUR
-    rem_defender = PER
+  rem_attacker = TUR
+  rem_defender = PER
 }

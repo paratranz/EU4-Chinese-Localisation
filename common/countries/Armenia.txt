@@ -1,133 +1,133 @@
 ﻿graphical_culture = easterngfx
 color = {
-    145
-    30
-    75
+  145
+  30
+  75
 }
 historical_idea_groups = {
-    defensive_ideas
-    offensive_ideas
-    trade_ideas
-    spy_ideas
-    maritime_ideas
-    economic_ideas
-    diplomatic_ideas
-    administrative_ideas
+  defensive_ideas
+  offensive_ideas
+  trade_ideas
+  spy_ideas
+  maritime_ideas
+  economic_ideas
+  diplomatic_ideas
+  administrative_ideas
 }
 historical_units = {
-    bardiche_infantry
-    eastern_knights
-    slavic_stradioti
-    eastern_militia
-    muscovite_musketeer
-    muscovite_caracolle
-    muscovite_soldaty
-    muscovite_cossack
-    russian_petrine
-    russian_lancer
-    russian_green_coat
-    russian_cuirassier
-    eastern_skirmisher
-    eastern_uhlan
-    eastern_carabinier
-    russian_mass
+  bardiche_infantry
+  eastern_knights
+  slavic_stradioti
+  eastern_militia
+  muscovite_musketeer
+  muscovite_caracolle
+  muscovite_soldaty
+  muscovite_cossack
+  russian_petrine
+  russian_lancer
+  russian_green_coat
+  russian_cuirassier
+  eastern_skirmisher
+  eastern_uhlan
+  eastern_carabinier
+  russian_mass
 }
 monarch_names = {
-    "大卫 #0" = 20
-    "梅希塔尔 #0" = 20
-    "阿绍特 #4" = 15
-    "加吉克 #2" = 15
-    "斯姆巴特 #3" = 15
-    "阿拔斯 #1" = 15
-    "霍夫汉内斯 斯姆巴特 #1" = 15
-    "Vagram #1" = 10
-    "穆塞格 #0" = 10
-    "萨哈克 #0" = 10
-    "塔查尔 #0" = 10
-    "Arakel #0" = 0
-    "阿里 #0" = 0
-    "阿曼 #0" = 0
-    "阿尔森 #0" = 0
-    "阿沙维尔 #0" = 0
-    "阿韦迪斯 #0" = 0
-    "Badouagan #0" = 0
-    "Bedros #0" = 0
-    "贝尔乔希 #0" = 0
-    "Boghos #0" = 0
-    "Ghoukas #0" = 0
-    "哈戈普 #0" = 0
-    "Haig #0" = 0
-    "霍夫汉内斯 #0" = 0
-    "霍夫塞普 #0" = 0
-    "Jirair #0" = 0
-    "Kapriel #0" = 0
-    "Karayan #0" = 0
-    "Kevork #0" = 0
-    "Khajag #0" = 0
-    "克里克尔 #0" = 0
-    "列翁 #0" = 0
-    "莫乌瑟斯 #0" = 0
-    "Nairi #0" = 0
-    "塞凡 #0" = 0
-    "Taniel #0" = 0
-    "瓦罕 #0" = 0
-    "Zadig #0" = 0
-    "佐拉万 #0" = 0
-    "阿德林 #0" = -1
-    "Elsapet #0" = -1
-    "Sarine #0" = -1
+  "Vagram #1" = 10
+  "Arakel #0" = 0
+  "Badouagan #0" = 0
+  "Bedros #0" = 0
+  "Boghos #0" = 0
+  "Ghoukas #0" = 0
+  "Haig #0" = 0
+  "Jirair #0" = 0
+  "Kapriel #0" = 0
+  "Karayan #0" = 0
+  "Kevork #0" = 0
+  "Khajag #0" = 0
+  "Nairi #0" = 0
+  "Taniel #0" = 0
+  "Zadig #0" = 0
+  "Elsapet #0" = -1
+  "Sarine #0" = -1
+  "大卫 #0" = 20  # David #0
+  "梅希塔尔 #0" = 20  # Mkhitar #0
+  "阿绍特 #4" = 15  # Ashot #4
+  "加吉克 #2" = 15  # Gagik #2
+  "斯姆巴特 #3" = 15  # Smbat #3
+  "阿拔斯 #1" = 15  # Abbas #1
+  "霍夫汉内斯 斯姆巴特 #1" = 15  # Hovhannes Smbat #1
+  "穆塞格 #0" = 10  # Musegh #0
+  "萨哈克 #0" = 10  # Sahak #0
+  "塔查尔 #0" = 10  # Tachar #0
+  "阿里 #0" = 0  # Ari #0
+  "阿曼 #0" = 0  # Armen #0
+  "阿尔森 #0" = 0  # Arsen #0
+  "阿沙维尔 #0" = 0  # Arshavir #0
+  "阿韦迪斯 #0" = 0  # Avedis #0
+  "贝尔乔希 #0" = 0  # Berjouhi #0
+  "哈戈普 #0" = 0  # Hagop #0
+  "霍夫汉内斯 #0" = 0  # Hovhannes #0
+  "霍夫塞普 #0" = 0  # Hovsep #0
+  "克里克尔 #0" = 0  # Krikor #0
+  "列翁 #0" = 0  # Levon #0
+  "莫乌瑟斯 #0" = 0  # Movses #0
+  "塞凡 #0" = 0  # Sevan #0
+  "瓦罕 #0" = 0  # Vahan #0
+  "佐拉万 #0" = 0  # Zoravan #0
+  "阿德林 #0" = -1  # Adrine #0
 }
 leader_names = {
-    "Adamian"  # Adamian
-    "Adomian"  # Adomian
-    "奥高加尼安"  # Aghajanian
-    "Altounyan"  # Altounyan
-    "Apkarian"  # Apkarian
-    "巴吉恩"  # Bagian
-    "Babaian"  # Babaian
-    "Babikian"  # Babikian
-    "Chobanian"  # Chobanian
-    "Bhobanyan"  # Bhobanyan
-    "Damadian"  # Damadian
-    "Eskandarian"  # Eskandarian
-    "Kapikian"  # Kapikian
-    "喀山季扬"  # Kazanjian
-    "Kebabian"  # Kebabian
-    "Kevorkian"  # Kevorkian
-    "Khachikyan"  # Khachikyan
-    "Khatchaturian"  # Khatchaturian
-    "Kirlian"  # Kirlian
-    "Mergelyan"  # Mergelyan
-    "奥尔贝利"  # Orbeli
-    "Pogosyan"  # Pogosyan
-    "Sadian"  # Sadian
-    "Simjian"  # Simjian
-    "瑟瓦尼安"  # Sevanian
-    "梅马里安"  # Meymarian
-    "沙希尼安"  # Shahinian
+  "Adamian"
+  "Adomian"
+  "奥高加尼安"  # Aghajanian
+  "Altounyan"
+  "Apkarian"
+  "巴吉恩"  # Bagian
+  "Babaian"
+  "Babikian"
+  "Chobanian"
+  "Bhobanyan"
+  "Damadian"
+  "Eskandarian"
+  "Kapikian"
+  "喀山季扬"  # Kazanjian
+  "Kebabian"
+  "Kevorkian"
+  "Khachikyan"
+  "Khatchaturian"
+  "Kirlian"
+  "Mergelyan"
+  "奥尔贝利"  # Orbeli
+  "Pogosyan"
+  "Sadian"
+  "Simjian"
+  "瑟瓦尼安"  # Sevanian
+  "梅马里安"  # Meymarian
+  "沙希尼安"  # Shahinian
 }
 ship_names = {
-    "阿拉穆"  # Aramu
-    "阿尔吉什提"  # Argishtis
-    "阿拉拉特"  # Ararat
-    "阿尼"  # Ani
-    "阿尔扎赫"  # Artsakh
-    "德维"  # Dvin
-    "埃里米纳"  # Erimena
-    "哈伊克"  # Haik
-    "诃罗提"  # Haldi
-    "伊什普尼斯"  # Ishpuinis
-    "卡尔斯"  # Kars
-    "鲁蒂普里"  # Lutipri
-    "Musasir"  # Musasir
-    "Menuas"  # Menuas
-    "马拉兹吉尔特"  # Manzikert
-    "Parisos"  # Parisos
-    "Rusas II"  # Rusas II
-    "Siwini"  # Siwini
-    "Selardi"  # Selardi
-    "Sarduri I"  # Sarduri I
-    "Sarduris II"  # Sarduris II
-    "瓦斯普拉坎"  # Vaspurakan
-    "埃里温"  # Yerevan
+  "阿拉穆"  # Aramu
+  "阿尔吉什提"  # Argishtis
+  "阿拉拉特"  # Ararat
+  "阿尼"  # Ani
+  "阿尔扎赫"  # Artsakh
+  "德维"  # Dvin
+  "埃里米纳"  # Erimena
+  "哈伊克"  # Haik
+  "诃罗提"  # Haldi
+  "伊什普尼斯"  # Ishpuinis
+  "卡尔斯"  # Kars
+  "鲁蒂普里"  # Lutipri
+  "Musasir"
+  "Menuas"
+  "马拉兹吉尔特"  # Manzikert
+  "Parisos"
+  "Rusas II"
+  "Siwini"
+  "Selardi"
+  "Sarduri I"
+  "Sarduris II"
+  "瓦斯普拉坎"  # Vaspurakan
+  "埃里温"  # Yerevan
 }

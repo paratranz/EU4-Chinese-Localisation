@@ -1,73 +1,73 @@
 ﻿name = "炮舰战争"  # Gunboat War
 war_goal = {
-    type = superiority_insult_mutual
-    casus_belli = cb_insult
+  type = superiority_insult_mutual
+  casus_belli = cb_insult
 }
 1807.8.15 = {
-    add_attacker = GBR
-    add_defender = DAN
+  add_attacker = GBR
+  add_defender = DAN
 }
 1808.3.22 = {
-    battle = {
-        name = "西兰"  # Zealand
-        location = 1259
-        attacker = {
-            commander = "乔治 派克"  # George Parker
-            heavy_ship = 3
-            light_ship = 1
-            losses = 1
-            country = GBR
-        }
-        defender = {
-            commander = "卡尔 威廉 耶森"  # C.W. Jessen
-            heavy_ship = 1
-            losses = 1
-            country = DAN
-        }
-        result = yes
+  battle = {
+    name = "西兰"  # Zealand
+    location = 1259
+    attacker = {
+      commander = "乔治 派克"  # George Parker
+      heavy_ship = 3
+      light_ship = 1
+      losses = 1
+      country = GBR
     }
+    defender = {
+      commander = "卡尔 威廉 耶森"  # C.W. Jessen
+      heavy_ship = 1
+      losses = 1
+      country = DAN
+    }
+    result = yes
+  }
 }
 1811.3.27 = {
-    battle = {
-        name = "安霍尔特"  # Anholt
-        location = 1259
-        attacker = {
-            commander = "乔治 派克"  # George Parker
-            heavy_ship = 3
-            losses = 1
-            country = GBR
-        }
-        defender = {
-            commander = "约根 孔拉德 德 法尔森"  # Jørgen C. de Falsen
-            light_ship = 5
-            losses = 1
-            country = DAN
-        }
-        result = yes
+  battle = {
+    name = "安霍尔特"  # Anholt
+    location = 1259
+    attacker = {
+      commander = "乔治 派克"  # George Parker
+      heavy_ship = 3
+      losses = 1
+      country = GBR
     }
+    defender = {
+      commander = "约根 孔拉德 德 法尔森"  # Jørgen C. de Falsen
+      light_ship = 5
+      losses = 1
+      country = DAN
+    }
+    result = yes
+  }
 }
 1812.7.12 = {
-    battle = {
-        name = "林约尔"  # Lyngør
-        location = 1259
-        attacker = {
-            commander = "詹姆斯 帕蒂森 斯图尔德"  # James Pattison Steward
-            heavy_ship = 1
-            light_ship = 3
-            losses = 1
-            country = GBR
-        }
-        defender = {
-            commander = "汉斯 彼得 霍尔姆"  # Hans Peter Holm
-            heavy_ship = 1
-            light_ship = 3
-            losses = 1
-            country = DAN
-        }
-        result = yes
+  battle = {
+    name = "林约尔"  # Lyngør
+    location = 1259
+    attacker = {
+      commander = "詹姆斯 帕蒂森 斯图尔德"  # James Pattison Steward
+      heavy_ship = 1
+      light_ship = 3
+      losses = 1
+      country = GBR
     }
+    defender = {
+      commander = "汉斯 彼得 霍尔姆"  # Hans Peter Holm
+      heavy_ship = 1
+      light_ship = 3
+      losses = 1
+      country = DAN
+    }
+    result = yes
+  }
 }
 1814.1.15 = {
-    rem_attacker = GBR
-    rem_defender = DAN
+  rem_attacker = GBR
+  rem_defender = DAN
 }

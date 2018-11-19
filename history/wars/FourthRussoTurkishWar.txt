@@ -1,24 +1,24 @@
 ﻿name = "第四次俄土战争"  # Fourth Russo-Turkish War
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 287
+  type = take_core
+  casus_belli = cb_core
+  province = 287
 }
 1787.8.24 = {
-    add_attacker = TUR
-    add_attacker = WAL
-    add_attacker = MOL
-    add_defender = RUS
+  add_attacker = TUR
+  add_attacker = WAL
+  add_attacker = MOL
+  add_defender = RUS
 }
 1788.2.9 = {
-    add_defender = HAB
+  add_defender = HAB
 }
 1791.8.4 = {
-    rem_defender = HAB
+  rem_defender = HAB
 }
 1792.1.9 = {
-    rem_attacker = TUR
-    rem_attacker = WAL
-    rem_attacker = MOL
-    rem_defender = RUS
+  rem_attacker = TUR
+  rem_attacker = WAL
+  rem_attacker = MOL
+  rem_defender = RUS
 }

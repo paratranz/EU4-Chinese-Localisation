@@ -1,41 +1,41 @@
 ﻿name = "长期战争"  # The Long War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 135
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 135
 }
 1593.7.29 = {
-    add_attacker = TUR
-    add_defender = HAB
+  add_attacker = TUR
+  add_defender = HAB
 }
 1595.1.28 = {
-    add_defender = TRA
+  add_defender = TRA
 }
 1596.10.24 = {
-    battle = {
-        name = "克雷斯特斯"  # Keresztes
-        location = 155
-        attacker = {
-            commander = "穆罕默德 II"  # Mehmet II
-            infantry = 60000
-            cavalry = 30000
-            losses = 25
-            country = TUR
-        }
-        defender = {
-            commander = "马克西米利安 哈布斯堡"  # Maximilian Habsburg
-            infantry = 30000
-            cavalry = 15000
-            losses = 65
-            country = HAB
-        }
-        result = no
+  battle = {
+    name = "克雷斯特斯"  # Keresztes
+    location = 155
+    attacker = {
+      commander = "穆罕默德 II"  # Mehmet II
+      infantry = 60000
+      cavalry = 30000
+      losses = 25
+      country = TUR
     }
+    defender = {
+      commander = "马克西米利安 哈布斯堡"  # Maximilian Habsburg
+      infantry = 30000
+      cavalry = 15000
+      losses = 65
+      country = HAB
+    }
+    result = no
+  }
 }
 1599.3.17 = {
-    rem_defender = TRA
+  rem_defender = TRA
 }
 1606.11.11 = {
-    rem_attacker = TUR
-    rem_defender = HAB
+  rem_attacker = TUR
+  rem_defender = HAB
 }

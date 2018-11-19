@@ -1,14 +1,14 @@
 ﻿name = "明清战争"  # Ming-Manchu War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 731
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 731
 }
 1618.1.1 = {
-    add_attacker = MNG
-    add_defender = MCH
+  add_attacker = MNG
+  add_defender = MCH
 }
 1628.1.1 = {
-    rem_attacker = MNG
-    rem_defender = MCH
+  rem_attacker = MNG
+  rem_defender = MCH
 }

@@ -1,14 +1,14 @@
 ﻿name = "莫卧儿从孟加拉驱逐卡兰人"  # Mughal expulsion of the Karranis from Bengal
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 563
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 563
 }
 1574.1.1 = {
-    add_attacker = MUG
-    add_defender = BNG
+  add_attacker = MUG
+  add_defender = BNG
 }
 1576.7.12 = {
-    rem_attacker = MUG
-    rem_defender = BNG
+  rem_attacker = MUG
+  rem_defender = BNG
 }

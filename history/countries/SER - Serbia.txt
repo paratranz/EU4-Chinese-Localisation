@@ -6,228 +6,228 @@ technology_group = eastern
 capital = 4176
 historical_friend = BOS
 1389.1.1 = {
-    government_rank = 1
+  government_rank = 1
 }
 1397.6.24 = {
-    monarch = {
-        name = "斯特凡 II"  # Stefan II
-        dynasty = "拉扎列维奇"  # Lazarevic
-        birth_date = 1377.1.1
-        adm = 5
-        dip = 3
-        mil = 4
-    }
+  monarch = {
+    name = "斯特凡 II"  # Stefan II
+    dynasty = "拉扎列维奇"  # Lazarevic
+    birth_date = 1377.1.1
+    adm = 5
+    dip = 3
+    mil = 4
+  }
 }
 1397.6.24 = {
-    heir = {
-        name = "朱拉德"  # Ðurad
-        monarch_name = "朱拉德 I"  # Ðurad I
-        dynasty = "布兰科维奇"  # Brankovic
-        birth_date = 1377.1.1
-        death_date = 1456.12.24
-        claim = 85
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  heir = {
+    name = "朱拉德"  # Ðurad
+    monarch_name = "朱拉德 I"  # Ðurad I
+    dynasty = "布兰科维奇"  # Brankovic
+    birth_date = 1377.1.1
+    death_date = 1456.12.24
+    claim = 85
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1402.7.1 = {
-    government_rank = 2
+  government_rank = 2
 }
 1427.7.20 = {
-    monarch = {
-        name = "朱拉德 I"  # Ðurad I
-        dynasty = "布兰科维奇"  # Brankovic
-        birth_date = 1377.1.1
-        adm = 2
-        dip = 2
-        mil = 3
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = charismatic_negotiator_personality
-    add_ruler_personality = well_connected_personality
-    queen = {
-        country_of_origin = BYZ
-        name = "耶里娜"  # Jerina
-        dynasty = "坎塔库泽诺斯"  # Kantakouzenos
-        birth_date = 1400.1.1
-        death_date = 1456.1.1
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "朱拉德 I"  # Ðurad I
+    dynasty = "布兰科维奇"  # Brankovic
+    birth_date = 1377.1.1
+    adm = 2
+    dip = 2
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = charismatic_negotiator_personality
+  add_ruler_personality = well_connected_personality
+  queen = {
+    country_of_origin = BYZ
+    name = "耶里娜"  # Jerina
+    dynasty = "坎塔库泽诺斯"  # Kantakouzenos
+    birth_date = 1400.1.1
+    death_date = 1456.1.1
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1427.7.20 = {
-    heir = {
-        name = "拉扎尔"  # Lazar
-        monarch_name = "拉扎尔 II"  # Lazar II
-        dynasty = "布兰科维奇"  # Brankovic
-        birth_date = 1421.1.1
-        death_date = 1458.2.20
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 1
-    }
+  heir = {
+    name = "拉扎尔"  # Lazar
+    monarch_name = "拉扎尔 II"  # Lazar II
+    dynasty = "布兰科维奇"  # Brankovic
+    birth_date = 1421.1.1
+    death_date = 1458.2.20
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 1
+  }
 }
 1456.12.25 = {
-    monarch = {
-        name = "拉扎尔 II"  # Lazar II
-        dynasty = "布兰科维奇"  # Brankovic
-        birth_date = 1421.1.1
-        adm = 2
-        dip = 1
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = well_connected_personality
-    add_ruler_personality = careful_personality
-    queen = {
-        country_of_origin = BYZ
-        name = "耶莱娜"  # Jelena
-        dynasty = "巴列奥略"  # Palaiologos
-        birth_date = 1431.1.1
-        death_date = 1458.1.20
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "拉扎尔 II"  # Lazar II
+    dynasty = "布兰科维奇"  # Brankovic
+    birth_date = 1421.1.1
+    adm = 2
+    dip = 1
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = well_connected_personality
+  add_ruler_personality = careful_personality
+  queen = {
+    country_of_origin = BYZ
+    name = "耶莱娜"  # Jelena
+    dynasty = "巴列奥略"  # Palaiologos
+    birth_date = 1431.1.1
+    death_date = 1458.1.20
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1456.12.25 = {
-    heir = {
-        name = "斯特凡"  # Stefan
-        monarch_name = "斯特凡 III"  # Stefan III
-        dynasty = "布兰科维奇"  # Brankovic
-        birth_date = 1425.1.1
-        death_date = 1476.10.9
-        claim = 85
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  heir = {
+    name = "斯特凡"  # Stefan
+    monarch_name = "斯特凡 III"  # Stefan III
+    dynasty = "布兰科维奇"  # Brankovic
+    birth_date = 1425.1.1
+    death_date = 1476.10.9
+    claim = 85
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1458.1.21 = {
-    monarch = {
-        name = "斯特凡 III"  # Stefan III
-        dynasty = "布兰科维奇"  # Brankovic
-        birth_date = 1425.1.1
-        adm = 1
-        dip = 1
-        mil = 1
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = well_connected_personality
-    add_ruler_personality = careful_personality
+  monarch = {
+    name = "斯特凡 III"  # Stefan III
+    dynasty = "布兰科维奇"  # Brankovic
+    birth_date = 1425.1.1
+    adm = 1
+    dip = 1
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = well_connected_personality
+  add_ruler_personality = careful_personality
 }
 1459.4.9 = {
-    monarch = {
-        name = "斯捷潘 托马舍维奇"  # Stjepan Tomaševic
-        dynasty = "科特罗曼尼奇"  # Kotromanic
-        birth_date = 1438.1.1
-        adm = 3
-        dip = 3
-        mil = 3
-    }
-    queen = {
-        country_of_origin = SER
-        name = "耶莱娜"  # Jelena
-        dynasty = "布兰科维奇"  # Brankovic
-        birth_date = 1447.1.1
-        death_date = 1505.1.20
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "斯捷潘 托马舍维奇"  # Stjepan Tomaševic
+    dynasty = "科特罗曼尼奇"  # Kotromanic
+    birth_date = 1438.1.1
+    adm = 3
+    dip = 3
+    mil = 3
+  }
+  queen = {
+    country_of_origin = SER
+    name = "耶莱娜"  # Jelena
+    dynasty = "布兰科维奇"  # Brankovic
+    birth_date = 1447.1.1
+    death_date = 1505.1.20
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1781.1.1 = {
-    leader = {
-        name = "彼得 I"  # Peter I
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 3
-        siege = 1
-        death_date = 1830.10.18
-    }
+  leader = {
+    name = "彼得 I"  # Peter I
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    3siege = "
+    1death_date = 1830.10.18
+  }
 }
 1804.2.14 = {
-    monarch = {
-        name = "朱尔德 I 彼得罗维奇"  # Ðorde I Petrovic
-        dynasty = "卡拉乔尔杰维奇"  # Karadordevic
-        birth_date = 1762.11.16
-        adm = 5
-        dip = 4
-        mil = 4
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = strict_personality
-    add_ruler_personality = bold_fighter_personality
-    add_ruler_personality = inspiring_leader_personality
-    queen = {
-        country_of_origin = SER
-        name = "耶莱娜"  # Jelena
-        dynasty = "约万诺维奇"  # Jovanovic
-        birth_date = 1765.1.1
-        death_date = 1813.10.4
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
-    set_legacy_government = administrative_monarchy
-    capital = 141
+  monarch = {
+    name = "朱尔德 I 彼得罗维奇"  # Ðorde I Petrovic
+    dynasty = "卡拉乔尔杰维奇"  # Karadordevic
+    birth_date = 1762.11.16
+    adm = 5
+    dip = 4
+    mil = 4
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = strict_personality
+  add_ruler_personality = bold_fighter_personality
+  add_ruler_personality = inspiring_leader_personality
+  queen = {
+    country_of_origin = SER
+    name = "耶莱娜"  # Jelena
+    dynasty = "约万诺维奇"  # Jovanovic
+    birth_date = 1765.1.1
+    death_date = 1813.10.4
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
+  set_legacy_government = administrative_monarchy
+  capital = 141
 }
 1806.10.11 = {
-    heir = {
-        name = "亚历山大"  # Alexander
-        monarch_name = "亚历山大 I"  # Alexander I
-        dynasty = "卡拉乔尔杰维奇"  # Karadordevic
-        claim = 95
-        birth_date = 1806.10.11
-        death_date = 1885.5.3
-        adm = 2
-        dip = 1
-        mil = 0
-    }
+  heir = {
+    name = "亚历山大"  # Alexander
+    monarch_name = "亚历山大 I"  # Alexander I
+    dynasty = "卡拉乔尔杰维奇"  # Karadordevic
+    claim = 95
+    birth_date = 1806.10.11
+    death_date = 1885.5.3
+    adm = 2
+    dip = 1
+    mil = 0
+  }
 }
 1813.10.4 = {
-    monarch = {
-        name = "米洛什 I"  # Milosh I
-        dynasty = "奥布雷诺维奇"  # Obrenovic
-        birth_date = 1806.10.11
-        adm = 4
-        dip = 5
-        mil = 5
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = fierce_negotiator_personality
-    add_ruler_personality = inspiring_leader_personality
-    add_ruler_personality = careful_personality
-    queen = {
-        country_of_origin = SER
-        name = "柳比察"  # Ljubica
-        dynasty = "武科曼诺维奇"  # Vukomanovic
-        birth_date = 1788.1.1
-        death_date = 1843.1.20
-        female = yes
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "米洛什 I"  # Milosh I
+    dynasty = "奥布雷诺维奇"  # Obrenovic
+    birth_date = 1806.10.11
+    adm = 4
+    dip = 5
+    mil = 5
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = fierce_negotiator_personality
+  add_ruler_personality = inspiring_leader_personality
+  add_ruler_personality = careful_personality
+  queen = {
+    country_of_origin = SER
+    name = "柳比察"  # Ljubica
+    dynasty = "武科曼诺维奇"  # Vukomanovic
+    birth_date = 1788.1.1
+    death_date = 1843.1.20
+    female = yes
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1819.10.21 = {
-    heir = {
-        name = "米洛什"  # Milosh
-        monarch_name = "米洛什 II"  # Milosh II
-        dynasty = "奥布雷诺维奇"  # Obrenovic
-        birth_date = 1819.10.21
-        death_date = 1839.7.6
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  heir = {
+    name = "米洛什"  # Milosh
+    monarch_name = "米洛什 II"  # Milosh II
+    dynasty = "奥布雷诺维奇"  # Obrenovic
+    birth_date = 1819.10.21
+    death_date = 1839.7.6
+    claim = 95
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }

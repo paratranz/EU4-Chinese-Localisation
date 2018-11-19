@@ -1,34 +1,34 @@
 ﻿name = "施瓦本战争"  # Swabian War
 war_goal = {
-    type = take_capital_vassalize
-    casus_belli = cb_vassalize_mission
-    tag = SWI
+  type = take_capital_vassalize
+  casus_belli = cb_vassalize_mission
+  tag = SWI
 }
 1499.1.1 = {
-    add_attacker = HAB
-    add_defender = SWI
+  add_attacker = HAB
+  add_defender = SWI
 }
 1499.2.20 = {
-    battle = {
-        name = "哈尔德"  # Hard
-        location = 73
-        attacker = {
-            commander = "马克西米利安"  # Maximilian
-            infantry = 9800
-            artillery = 15
-            losses = 20
-            country = HAB
-        }
-        defender = {
-            commander = "威廉 退尔"  # Wilhelm Tell
-            infantry = 4200
-            losses = 6
-            country = SWI
-        }
-        result = no
+  battle = {
+    name = "哈尔德"  # Hard
+    location = 73
+    attacker = {
+      commander = "马克西米利安"  # Maximilian
+      infantry = 9800
+      artillery = 15
+      losses = 20
+      country = HAB
     }
+    defender = {
+      commander = "威廉 退尔"  # Wilhelm Tell
+      infantry = 4200
+      losses = 6
+      country = SWI
+    }
+    result = no
+  }
 }
 1499.9.22 = {
-    rem_attacker = HAB
-    rem_defender = SWI
+  rem_attacker = HAB
+  rem_defender = SWI
 }

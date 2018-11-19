@@ -1,309 +1,309 @@
 ﻿graphical_culture = asiangfx
 color = {
-    2
-    135
-    96
+  2
+  135
+  96
 }
 historical_idea_groups = {
-    offensive_ideas
-    defensive_ideas
-    naval_ideas
-    trade_ideas
-    quality_ideas
-    spy_ideas
-    diplomatic_ideas
-    administrative_ideas
+  offensive_ideas
+  defensive_ideas
+  naval_ideas
+  trade_ideas
+  quality_ideas
+  spy_ideas
+  diplomatic_ideas
+  administrative_ideas
 }
 historical_units = {
-    japanese_archer
-    eastern_bow
-    japanese_footsoldier
-    japanese_samurai
-    asian_arquebusier
-    asian_charge_cavalry
-    asian_mass_infantry
-    asian_musketeer
-    reformed_asian_musketeer
-    reformed_asian_cavalry
+  japanese_archer
+  eastern_bow
+  japanese_footsoldier
+  japanese_samurai
+  asian_arquebusier
+  asian_charge_cavalry
+  asian_mass_infantry
+  asian_musketeer
+  reformed_asian_musketeer
+  reformed_asian_cavalry
 }
 monarch_names = {
-    "Yoshimori #0" = 50
-    "Yoshihito #0" = 50
-    "Yoshitoshi #0" = 50
-    "Yoshiharu #0" = 50
-    "Yoshitaka #0" = 50
-    "Yoshiatsu #0" = 50
-    "Yoshiaki #0" = 50
-    "Yoshishige #0" = 50
-    "Yashinobu #0" = 50
-    "Yoshitane #0" = 50
-    "Nagayoshi #0" = 50
-    "Yukiyoshi #0" = 50
-    "Hideyoshi #0" = 50
-    "Takayoshi #0" = 50
-    "Masayoshi #0" = 50
-    "Sadayoshi #0" = 50
-    "Yoshinobu #0" = 50
-    "Yoshizumi #0" = 50
-    "Yoshikado #0" = 50
-    "Yoshihisa #0" = 50
-    "Yoshikata #0" = 50
-    "Yoshinao #0" = 50
-    "Toku #0" = -5
-    "Sen #0" = -5
-    "Tama #0" = -5
-    "Aya #0" = -5
-    "Ina #0" = -5
+  "Yoshimori #0" = 50
+  "Yoshihito #0" = 50
+  "Yoshitoshi #0" = 50
+  "Yoshiharu #0" = 50
+  "Yoshitaka #0" = 50
+  "Yoshiatsu #0" = 50
+  "Yoshiaki #0" = 50
+  "Yoshishige #0" = 50
+  "Yashinobu #0" = 50
+  "Yoshitane #0" = 50
+  "Nagayoshi #0" = 50
+  "Yukiyoshi #0" = 50
+  "Hideyoshi #0" = 50
+  "Takayoshi #0" = 50
+  "Masayoshi #0" = 50
+  "Sadayoshi #0" = 50
+  "Yoshinobu #0" = 50
+  "Yoshizumi #0" = 50
+  "Yoshikado #0" = 50
+  "Yoshihisa #0" = 50
+  "Yoshikata #0" = 50
+  "Yoshinao #0" = 50
+  "Toku #0" = -5
+  "Sen #0" = -5
+  "Tama #0" = -5
+  "Aya #0" = -5
+  "Ina #0" = -5
 }
 leader_names = {
-    "赤松"  # Akamatsu
-    "明智"  # Akechi
-    "足利"  # Ashikaga
-    "尼子"  # Amago
-    "京极"  # Kyogoku
-    "六角"  # Rokkaku
-    "朝仓"  # Asakura
-    "浅野"  # Asano
-    "阿苏"  # Aso
-    "长宗我部"  # Chosokabe
-    "伊达"  # Date
-    "蜂须贺"  # Hachisuka
-    "畠山"  # Hatakeyama
-    "北条"  # Hojo
-    "细川"  # Hosokawa
-    "一条"  # Ichijo
-    "毛田"  # Keda
-    "今川"  # Imagawa
-    "一色"  # Isshiki
-    "伊东"  # Ito
-    "神保"  # Jinbo
-    "菊池"  # Kikuchi
-    "河野"  # Kono
-    "前田"  # Maeda
-    "松永"  # Matsunaga
-    "三村"  # Mimura
-    "三好"  # Miyoshi
-    "最上"  # Mogami
-    "毛利"  # Mori
-    "锅岛"  # Nabeshima
-    "长尾"  # Nagao
-    "织田"  # Oda
-    "小笠原"  # Ogasawara
-    "大友"  # Otomo
-    "大内"  # Ouchi
-    "龙造寺"  # Ryuzoji
-    "相良"  # Sagara
-    "斋藤"  # Saito
-    "真田"  # Sanada
-    "佐竹"  # Satake
-    "里见"  # Satomi
-    "斯波"  # Shiba
-    "柴田"  # Shibata
-    "岛津"  # Shimazu
-    "少贰"  # Shoni
-    "武田"  # Takeda
-    "土岐"  # Toki
-    "德川"  # Tokugawa
-    "松平"  # Matsudaira
-    "丰臣"  # Toyotomi
-    "筒井"  # Tsutsui
-    "上杉"  # Uesugi
-    "浦上"  # Uragami
-    "山名"  # Yamana
-    "山内"  # Yamauchi
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "佐竹"  # Satake
-    "和田"  # Wada
-    "和田"  # Wada
-    "和田"  # Wada
-    "和田"  # Wada
-    "和田"  # Wada
-    "冈本"  # Okamoto
-    "冈本"  # Okamoto
-    "冈本"  # Okamoto
-    "冈本"  # Okamoto
-    "冈本"  # Okamoto
-    "Umezu"  # Umezu
-    "Umezu"  # Umezu
-    "Umezu"  # Umezu
-    "Umezu"  # Umezu
-    "Umezu"  # Umezu
-    "真壁"  # Makabe
-    "真壁"  # Makabe
-    "真壁"  # Makabe
-    "真壁"  # Makabe
-    "真壁"  # Makabe
-    "Shibue"  # Shibue
-    "Shibue"  # Shibue
-    "Shibue"  # Shibue
-    "Shibue"  # Shibue
-    "Shibue"  # Shibue
-    "那须"  # Nasu
-    "小田原"  # Otawara
-    "宇都宫"  # Utsunomiya
-    "小山"  # Oyama
-    "芳贺"  # Haga
-    "佐野"  # Sano
-    "长沼"  # Naganuma
-    "冈本"  # Okamoto
-    "尤基"  # Yuki
-    "佐竹"  # Satake
-    "江户"  # Edo
-    "太政"  # Daijo
-    "鹿岛"  # Kashima
-    "多贺谷"  # Tagaya
-    "织田"  # Oda
-    "笠间"  # Kasama
-    "真壁"  # Makabe
-    "小栗"  # Oguri
-    "长野"  # Nagano
-    "小幡"  # Obata
-    "沼田"  # Numata
-    "和田"  # Wada
-    "新田"  # Nitta
-    "由良"  # Yura
-    "横濑"  # Yokose
-    "渡濑"  # Watase
-    "安中"  # Annaka
-    "上泉"  # Kamiizumi
-    "长尾"  # Nagao
-    "赤井"  # Akai
-    "桐生"  # Kiryu
-    "千叶"  # Chiba
-    "慧美"  # Satomi
-    "武田"  # Takeda
-    "正木"  # Masaki
-    "酒井"  # Sakai
-    "海上"  # Unakami
-    "原"  # Hara
-    "相原"  # Aihara
-    "安西"  # Anzai
-    "大须贺"  # Osuka
-    "相马"  # Soma
-    "吉良"  # Kira
-    "成田"  # Narita
-    "大田"  # Ota
-    "大石"  # Oishi
-    "远山"  # Toyama
-    "江户"  # Edo
-    "丰岛"  # Toshima
-    "河越"  # Kawagoe
-    "金子"  # Kaneko
-    "藤田"  # Fujita
-    "冈部"  # Okabe
-    "上杉"  # Uesugi
-    "足利"  # Ashikaga
-    "北条"  # Hojo
-    "三浦"  # Miura
-    "大森"  # Omori
-    "葛山"  # Katsurayama
-    "板部丘"  # Itabeoka
-    "苏我"  # Soga
-    "梶原"  # Kajiwara
-    "大道寺"  # Daidoji
-    "清水"  # Shimizu
+  "赤松"  # Akamatsu
+  "明智"  # Akechi
+  "足利"  # Ashikaga
+  "尼子"  # Amago
+  "京极"  # Kyogoku
+  "六角"  # Rokkaku
+  "朝仓"  # Asakura
+  "浅野"  # Asano
+  "阿苏"  # Aso
+  "长宗我部"  # Chosokabe
+  "伊达"  # Date
+  "蜂须贺"  # Hachisuka
+  "畠山"  # Hatakeyama
+  "北条"  # Hojo
+  "细川"  # Hosokawa
+  "一条"  # Ichijo
+  "毛田"  # Keda
+  "今川"  # Imagawa
+  "一色"  # Isshiki
+  "伊东"  # Ito
+  "神保"  # Jinbo
+  "菊池"  # Kikuchi
+  "河野"  # Kono
+  "前田"  # Maeda
+  "松永"  # Matsunaga
+  "三村"  # Mimura
+  "三好"  # Miyoshi
+  "最上"  # Mogami
+  "毛利"  # Mori
+  "锅岛"  # Nabeshima
+  "长尾"  # Nagao
+  "织田"  # Oda
+  "小笠原"  # Ogasawara
+  "大友"  # Otomo
+  "大内"  # Ouchi
+  "龙造寺"  # Ryuzoji
+  "相良"  # Sagara
+  "斋藤"  # Saito
+  "真田"  # Sanada
+  "佐竹"  # Satake
+  "里见"  # Satomi
+  "斯波"  # Shiba
+  "柴田"  # Shibata
+  "岛津"  # Shimazu
+  "少贰"  # Shoni
+  "武田"  # Takeda
+  "土岐"  # Toki
+  "德川"  # Tokugawa
+  "松平"  # Matsudaira
+  "丰臣"  # Toyotomi
+  "筒井"  # Tsutsui
+  "上杉"  # Uesugi
+  "浦上"  # Uragami
+  "山名"  # Yamana
+  "山内"  # Yamauchi
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "佐竹"  # Satake
+  "和田"  # Wada
+  "和田"  # Wada
+  "和田"  # Wada
+  "和田"  # Wada
+  "和田"  # Wada
+  "冈本"  # Okamoto
+  "冈本"  # Okamoto
+  "冈本"  # Okamoto
+  "冈本"  # Okamoto
+  "冈本"  # Okamoto
+  "Umezu"
+  "Umezu"
+  "Umezu"
+  "Umezu"
+  "Umezu"
+  "真壁"  # Makabe
+  "真壁"  # Makabe
+  "真壁"  # Makabe
+  "真壁"  # Makabe
+  "真壁"  # Makabe
+  "Shibue"
+  "Shibue"
+  "Shibue"
+  "Shibue"
+  "Shibue"
+  "那须"  # Nasu
+  "小田原"  # Otawara
+  "宇都宫"  # Utsunomiya
+  "小山"  # Oyama
+  "芳贺"  # Haga
+  "佐野"  # Sano
+  "长沼"  # Naganuma
+  "冈本"  # Okamoto
+  "尤基"  # Yuki
+  "佐竹"  # Satake
+  "江户"  # Edo
+  "太政"  # Daijo
+  "鹿岛"  # Kashima
+  "多贺谷"  # Tagaya
+  "织田"  # Oda
+  "笠间"  # Kasama
+  "真壁"  # Makabe
+  "小栗"  # Oguri
+  "长野"  # Nagano
+  "小幡"  # Obata
+  "沼田"  # Numata
+  "和田"  # Wada
+  "新田"  # Nitta
+  "由良"  # Yura
+  "横濑"  # Yokose
+  "渡濑"  # Watase
+  "安中"  # Annaka
+  "上泉"  # Kamiizumi
+  "长尾"  # Nagao
+  "赤井"  # Akai
+  "桐生"  # Kiryu
+  "千叶"  # Chiba
+  "里见"  # Satomi
+  "武田"  # Takeda
+  "正木"  # Masaki
+  "酒井"  # Sakai
+  "海上"  # Unakami
+  "原"  # Hara
+  "相原"  # Aihara
+  "安西"  # Anzai
+  "大须贺"  # Osuka
+  "相马"  # Soma
+  "吉良"  # Kira
+  "成田"  # Narita
+  "大田"  # Ota
+  "大石"  # Oishi
+  "远山"  # Toyama
+  "江户"  # Edo
+  "丰岛"  # Toshima
+  "河越"  # Kawagoe
+  "金子"  # Kaneko
+  "藤田"  # Fujita
+  "冈部"  # Okabe
+  "上杉"  # Uesugi
+  "足利"  # Ashikaga
+  "北条"  # Hojo
+  "三浦"  # Miura
+  "大森"  # Omori
+  "葛山"  # Katsurayama
+  "板部丘"  # Itabeoka
+  "苏我"  # Soga
+  "梶原"  # Kajiwara
+  "大道寺"  # Daidoji
+  "清水"  # Shimizu
 }
 ship_names = {
-    "陆奥丸"  # Mutsu Maru
-    "出羽丸"  # Dewa Maru
-    "下野丸"  # Shimotsuke Maru
-    "常陆丸"  # Hitachi Maru
-    "上总丸"  # Kazusa Maru
-    "下总丸"  # Shimousa Maru
-    "阿波丸"  # Awa Maru
-    "武藏丸"  # Musashi Maru
-    "上野丸"  # Kozuke Maru
-    "伊豆丸"  # Izu Maru
-    "越后丸"  # Echigo Maru
-    "越中丸"  # Ettchu Maru
-    "加贺丸"  # Kaga Maru
-    "能登丸"  # Noto Maru
-    "骏河丸"  # Suruga Maru
-    "远江丸"  # Totomi Maru
-    "上州丸"  # Joshu Maru
-    "远州丸"  # Enshu Maru
-    "武州丸"  # Bushu Maru
-    "越州丸"  # Esshu Maru
-    "三河丸"  # Mikawa Maru
-    "羽州丸"  # Ushu Maru
-    "相州丸"  # Soushu Maru
-    "防州丸"  # Boushu Maru
-    "甲斐丸"  # Kai Maru
-    "信州丸"  # Shinshu Maru
-    "甲州丸"  # Koshu Maru
-    "尾张丸"  # Owari Maru
-    "尾州丸"  # Bishu Maru
-    "美浓丸"  # Mino Maru
-    "越前丸"  # Echizen Maru
-    "伊势丸"  # Ise Maru
-    "志摩丸"  # Shima Maru
-    "近江丸"  # Omi Maru
-    "江州丸"  # Goushu Maru
-    "山城丸"  # Yamashiro Maru
-    "若狭丸"  # Wakasa Maru
-    "丹波丸"  # Tanba Maru
-    "丹后丸"  # Tango Maru
-    "大和丸"  # Yamato Maru
-    "纪伊丸"  # Kii Maru
-    "纪州丸"  # Kishu Maru
-    "伊贺丸"  # Iga Maru
-    "阿波丸"  # Awa Maru
-    "讃岐丸"  # Sanuki Maru
-    "土佐丸"  # Tosa Maru
-    "伊予丸"  # Iyo Maru
-    "播磨丸"  # Harima Maru
-    "播州丸"  # Banshu Maru
-    "伯耆丸"  # Hoki Maru
-    "因幡丸"  # Inaba Maru
-    "备前丸"  # Bizen Maru
-    "美作丸"  # Mimasaka Maru
-    "备州丸"  # Binshu Maru
-    "备后丸"  # Bingo Maru
-    "备中丸"  # Bittchu Maru
-    "安艺丸"  # Aki Maru
-    "出云丸"  # Izumo Maru
-    "石见丸"  # Iwami Maru
-    "周防丸"  # Suou Maru
-    "长门丸"  # Nagato Maru
-    "丰后丸"  # Bungo Maru
-    "丰前丸"  # Buzen Maru
-    "筑前丸"  # Chikuzen Maru
-    "筑后丸"  # Chikugo Maru
-    "肥前丸"  # Hizen Maru
-    "肥后丸"  # Higo Maru
-    "筑州丸"  # Chikushu Maru
-    "日向丸"  # Hyuga Maru
-    "大隅丸"  # Osumi Maru
-    "萨摩丸"  # Satsuma Maru
-    "萨州丸"  # Sasshu Maru
+  "陆奥丸"  # Mutsu Maru
+  "出羽丸"  # Dewa Maru
+  "下野丸"  # Shimotsuke Maru
+  "常陆丸"  # Hitachi Maru
+  "上总丸"  # Kazusa Maru
+  "下总丸"  # Shimousa Maru
+  "阿波丸"  # Awa Maru
+  "武藏丸"  # Musashi Maru
+  "上野丸"  # Kozuke Maru
+  "伊豆丸"  # Izu Maru
+  "越后丸"  # Echigo Maru
+  "越中丸"  # Ettchu Maru
+  "加贺丸"  # Kaga Maru
+  "能登丸"  # Noto Maru
+  "骏河丸"  # Suruga Maru
+  "远江丸"  # Totomi Maru
+  "上州丸"  # Joshu Maru
+  "远州丸"  # Enshu Maru
+  "武州丸"  # Bushu Maru
+  "越州丸"  # Esshu Maru
+  "三河丸"  # Mikawa Maru
+  "羽州丸"  # Ushu Maru
+  "相州丸"  # Soushu Maru
+  "防州丸"  # Boushu Maru
+  "甲斐丸"  # Kai Maru
+  "信州丸"  # Shinshu Maru
+  "甲州丸"  # Koshu Maru
+  "尾张丸"  # Owari Maru
+  "尾州丸"  # Bishu Maru
+  "美浓丸"  # Mino Maru
+  "越前丸"  # Echizen Maru
+  "伊势丸"  # Ise Maru
+  "志摩丸"  # Shima Maru
+  "近江丸"  # Omi Maru
+  "江州丸"  # Goushu Maru
+  "山城丸"  # Yamashiro Maru
+  "若狭丸"  # Wakasa Maru
+  "丹波丸"  # Tanba Maru
+  "丹后丸"  # Tango Maru
+  "大和丸"  # Yamato Maru
+  "纪伊丸"  # Kii Maru
+  "纪州丸"  # Kishu Maru
+  "伊贺丸"  # Iga Maru
+  "阿波丸"  # Awa Maru
+  "讃岐丸"  # Sanuki Maru
+  "土佐丸"  # Tosa Maru
+  "伊予丸"  # Iyo Maru
+  "播磨丸"  # Harima Maru
+  "播州丸"  # Banshu Maru
+  "伯耆丸"  # Hoki Maru
+  "因幡丸"  # Inaba Maru
+  "备前丸"  # Bizen Maru
+  "美作丸"  # Mimasaka Maru
+  "备州丸"  # Binshu Maru
+  "备后丸"  # Bingo Maru
+  "备中丸"  # Bittchu Maru
+  "安艺丸"  # Aki Maru
+  "出云丸"  # Izumo Maru
+  "石见丸"  # Iwami Maru
+  "周防丸"  # Suou Maru
+  "长门丸"  # Nagato Maru
+  "丰后丸"  # Bungo Maru
+  "丰前丸"  # Buzen Maru
+  "筑前丸"  # Chikuzen Maru
+  "筑后丸"  # Chikugo Maru
+  "肥前丸"  # Hizen Maru
+  "肥后丸"  # Higo Maru
+  "筑州丸"  # Chikushu Maru
+  "日向丸"  # Hyuga Maru
+  "大隅丸"  # Osumi Maru
+  "萨摩丸"  # Satsuma Maru
+  "萨州丸"  # Sasshu Maru
 }
 army_names = {
-    "佐竹军"  # Satake Gun
-    "$PROVINCE$军"  # $PROVINCE$ Gun
-    "$PROVINCE$势"  # $PROVINCE$ Zei
-    "$PROVINCE$团"  # $PROVINCE$ Dan
+  "佐竹军"  # Satake Gun
+  "$PROVINCE$军"  # $PROVINCE$ Gun
+  "$PROVINCE$势"  # $PROVINCE$ Zei
+  "$PROVINCE$团"  # $PROVINCE$ Dan
 }
 fleet_names = {
-    "佐竹水军"  # Satake Suigun
-    "$PROVINCE$水军"  # $PROVINCE$ Suigun
-    "$PROVINCE$船团"  # $PROVINCE$ Sendan
-    "$PROVINCE$队"  # $PROVINCE$ Tai
+  "佐竹水军"  # Satake Suigun
+  "$PROVINCE$水军"  # $PROVINCE$ Suigun
+  "$PROVINCE$船团"  # $PROVINCE$ Sendan
+  "$PROVINCE$队"  # $PROVINCE$ Tai
 }

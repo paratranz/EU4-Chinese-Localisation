@@ -1,79 +1,79 @@
 ﻿name = "俄罗斯-波兰立陶宛联邦战争"  # Russo-Commonwealth War
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = RUS
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = RUS
 }
 1605.1.1 = {
-    add_attacker = PLC
-    add_defender = RUS
+  add_attacker = PLC
+  add_defender = RUS
 }
 1605.1.21 = {
-    battle = {
-        name = "多勃雷尼奇"  # Dobrynichi
-        location = 292
-        attacker = {
-            commander = "伪德米特里 I"  # False Dmitriy I
-            infantry = 15000
-            cavalry = 7000
-            losses = 65
-            country = PLC
-        }
-        defender = {
-            commander = "费奥多 米斯蒂拉夫斯基"  # Fyodor Mstislavsky
-            infantry = 12000
-            cavalry = 5000
-            losses = 20
-            country = RUS
-        }
-        result = no
+  battle = {
+    name = "多勃雷尼奇"  # Dobrynichi
+    location = 292
+    attacker = {
+      commander = "伪德米特里 I"  # False Dmitriy I
+      infantry = 15000
+      cavalry = 7000
+      losses = 65
+      country = PLC
     }
+    defender = {
+      commander = "费奥多 米斯蒂拉夫斯基"  # Fyodor Mstislavsky
+      infantry = 12000
+      cavalry = 5000
+      losses = 20
+      country = RUS
+    }
+    result = no
+  }
 }
 1610.7.4 = {
-    battle = {
-        name = "克鲁瑟诺"  # Klushino
-        location = 293
-        attacker = {
-            commander = "费奥多 米斯蒂拉夫斯基"  # Fyodor Mstislavsky
-            infantry = 1000
-            cavalry = 6000
-            artillery = 30
-            losses = 6
-            country = PLC
-        }
-        defender = {
-            commander = "德米特里 舒斯基"  # Dmitry Shuisky
-            infantry = 18000
-            cavalry = 12000
-            losses = 17
-            country = RUS
-        }
-        result = yes
+  battle = {
+    name = "克鲁瑟诺"  # Klushino
+    location = 293
+    attacker = {
+      commander = "费奥多 米斯蒂拉夫斯基"  # Fyodor Mstislavsky
+      infantry = 1000
+      cavalry = 6000
+      artillery = 30
+      losses = 6
+      country = PLC
     }
+    defender = {
+      commander = "德米特里 舒斯基"  # Dmitry Shuisky
+      infantry = 18000
+      cavalry = 12000
+      losses = 17
+      country = RUS
+    }
+    result = yes
+  }
 }
 1611.6.3 = {
-    battle = {
-        name = "斯模棱斯克"  # Smolensk
-        location = 293
-        attacker = {
-            commander = "西吉斯蒙德 III"  # Sigismund III
-            infantry = 6000
-            cavalry = 15000
-            artillery = 30
-            losses = 20
-            country = PLC
-        }
-        defender = {
-            commander = "米哈伊尔 鲍里索维奇 沙因"  # Mikhail Borisovich Shein
-            infantry = 4800
-            cavalry = 500
-            losses = 35
-            country = RUS
-        }
-        result = yes
+  battle = {
+    name = "斯模棱斯克"  # Smolensk
+    location = 293
+    attacker = {
+      commander = "西吉斯蒙德 III"  # Sigismund III
+      infantry = 6000
+      cavalry = 15000
+      artillery = 30
+      losses = 20
+      country = PLC
     }
+    defender = {
+      commander = "米哈伊尔 鲍里索维奇 沙因"  # Mikhail Borisovich Shein
+      infantry = 4800
+      cavalry = 500
+      losses = 35
+      country = RUS
+    }
+    result = yes
+  }
 }
 1618.12.11 = {
-    rem_attacker = PLC
-    rem_defender = RUS
+  rem_attacker = PLC
+  rem_defender = RUS
 }

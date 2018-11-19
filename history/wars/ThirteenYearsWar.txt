@@ -1,56 +1,56 @@
 ﻿name = "十三年战争"  # Thirteen Years War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 43
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 43
 }
 1454.2.1 = {
-    add_attacker = POL
-    add_defender = TEU
+  add_attacker = POL
+  add_defender = TEU
 }
 1454.9.18 = {
-    battle = {
-        name = "霍伊尼采"  # Chojnice
-        location = 48
-        attacker = {
-            commander = "卡西米尔 IV"  # Casimir IV
-            infantry = 3000
-            cavalry = 16000
-            losses = 17
-            country = POL
-        }
-        defender = {
-            commander = "伯纳德 辛波丝卡"  # Bernard Szumborski
-            infantry = 6000
-            cavalry = 9000
-            losses = 1
-            country = TEU
-        }
-        result = no
+  battle = {
+    name = "霍伊尼采"  # Chojnice
+    location = 48
+    attacker = {
+      commander = "卡西米尔 IV"  # Casimir IV
+      infantry = 3000
+      cavalry = 16000
+      losses = 17
+      country = POL
     }
+    defender = {
+      commander = "伯纳德 辛波丝卡"  # Bernard Szumborski
+      infantry = 6000
+      cavalry = 9000
+      losses = 1
+      country = TEU
+    }
+    result = no
+  }
 }
 1462.9.17 = {
-    battle = {
-        name = "思维希诺"  # Swiecino
-        location = 43
-        attacker = {
-            commander = "彼得 杜宁"  # Piotr Dunin
-            infantry = 1200
-            cavalry = 900
-            losses = 15
-            country = POL
-        }
-        defender = {
-            commander = "弗里茨 拉温克"  # Fritz Raweneck
-            infantry = 1600
-            cavalry = 1000
-            losses = 50
-            country = TEU
-        }
-        result = yes
+  battle = {
+    name = "思维希诺"  # Swiecino
+    location = 43
+    attacker = {
+      commander = "彼得 杜宁"  # Piotr Dunin
+      infantry = 1200
+      cavalry = 900
+      losses = 15
+      country = POL
     }
+    defender = {
+      commander = "弗里茨 拉温克"  # Fritz Raweneck
+      infantry = 1600
+      cavalry = 1000
+      losses = 50
+      country = TEU
+    }
+    result = yes
+  }
 }
 1466.10.19 = {
-    rem_attacker = POL
-    rem_defender = TEU
+  rem_attacker = POL
+  rem_defender = TEU
 }

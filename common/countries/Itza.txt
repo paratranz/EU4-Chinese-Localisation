@@ -1,208 +1,208 @@
 ﻿graphical_culture = southamericagfx
 color = {
-    94
-    236
-    191
+  94
+  236
+  191
 }
 historical_idea_groups = {
-    religious_ideas
-    defensive_ideas
-    offensive_ideas
-    maritime_ideas
-    trade_ideas
-    spy_ideas
-    diplomatic_ideas
-    economic_ideas
+  religious_ideas
+  defensive_ideas
+  offensive_ideas
+  maritime_ideas
+  trade_ideas
+  spy_ideas
+  diplomatic_ideas
+  economic_ideas
 }
 historical_units = {
-    mesoamerican_spearmen
-    central_american_horsemen
-    maya_tribal_warfare
-    maya_forest_warfare
-    maya_gunpowder_warfare
-    westernized_mayan
-    maya_guerilla_warfare
+  mesoamerican_spearmen
+  central_american_horsemen
+  maya_tribal_warfare
+  maya_forest_warfare
+  maya_gunpowder_warfare
+  westernized_mayan
+  maya_guerilla_warfare
 }
 leader_names = {
-    "阿金索克"  # Ahkinxoc
-    "阿麦塔坎库尔"  # Ahmetakkukul
-    "阿默克"  # Ahmok
-    "阿纳库科佩"  # Ahnakukpech
-    "阿泡普 阿奇"  # Ahpop-Achi
-    "阿拉纳"  # Arana
-    "巴坎"  # Bakan
-    "巴兰姆"  # Balam
-    "博尔"  # Bor
-    "坎尼克"  # Canek
-    "凯奥伯"  # Chaob
-    "查姆"  # Chiam
-    "哈努伊格"  # Hnuyg
-    "卡约姆"  # Kayom
-    "基林"  # Kíin
-    "古古玛兹"  # Kukumatz
-    "莫察库奥"  # Mochcouoh
-    "纳查坎"  # Nachancan
-    "诺霍查约姆"  # Nohochacyum
-    "帕卡尔"  # Pacal
-    "奎泽 巴兰姆"  # Quitze Balam
-    "特库努曼"  # Tecunuman
-    "瓦塔其"  # Vataki
-    "约马卡斯"  # Yumcaax
-    "佐兹"  # Zotz
+  "阿金索克"  # Ahkinxoc
+  "阿麦塔坎库尔"  # Ahmetakkukul
+  "阿默克"  # Ahmok
+  "阿纳库科佩"  # Ahnakukpech
+  "阿泡普 阿奇"  # Ahpop-Achi
+  "阿拉纳"  # Arana
+  "巴坎"  # Bakan
+  "巴兰姆"  # Balam
+  "博尔"  # Bor
+  "坎尼克"  # Canek
+  "凯奥伯"  # Chaob
+  "查姆"  # Chiam
+  "哈努伊格"  # Hnuyg
+  "卡约姆"  # Kayom
+  "基林"  # Kíin
+  "古古玛兹"  # Kukumatz
+  "莫察库奥"  # Mochcouoh
+  "纳查坎"  # Nachancan
+  "诺霍查约姆"  # Nohochacyum
+  "帕卡尔"  # Pacal
+  "奎泽 巴兰姆"  # Quitze Balam
+  "特库努曼"  # Tecunuman
+  "瓦塔其"  # Vataki
+  "约马卡斯"  # Yumcaax
+  "佐兹"  # Zotz
 }
 monarch_names = {
-    "Cotuja #0" = 0
-    "Gucamatz #0" = 0
-    "Hnuyg #0" = 0
-    "Kan Bahlun Mo #0" = 0
-    "Kayom #0" = 0
-    "Kukumatz #0" = 0
-    "Mochcouoh #0" = 0
-    "Nohochacyum #0" = 0
-    "Oxib Queh #0" = 0
-    "Tecunuman #0" = 0
-    "Tutul Xiu #0" = 0
-    "Tziquin #0" = 0
-    "Vataki #0" = 0
-    "Yumcaaz #0" = 0
-    "Zotz #0" = 0
-    "Sacnite #0" = -1
-    "Namox Chel #0" = -1
-    "Itzel  #0" = -1
-    "坎 艾克 #0" = 60  # Can Ek #0
-    "巴兰姆 奎泽 #0" = 20  # Balam Quitze #0
-    "科科姆 #1" = 20  # Cocom #1
-    "帕卡尔 #1" = 20  # Pacal #1
-    "瓦扎其 卡姆 #0" = 20  # Vahxaqui Caam #0
-    "阿 卡卡奥 #1" = 15  # Ah Cacao #1
-    "查姆 巴伦 #1" = 15  # Cham Bahlun #1
-    "库 埃克斯 #1" = 15  # Cu Ix #1
-    "帕卡尔 巴拉姆 #1" = 15  # Pacal Balam #1
-    "亚克森 巴拉姆 #1" = 15  # Yaxum Balam #1
-    "巴兹 查安 #1" = 10  # Butz Chan #1
-    "查安 穆安 #1" = 10  # Chaan Muan #1
-    "坎 包尔 #1" = 10  # Kan Boar #1
-    "雅克斯 库克 默克 #1" = 10  # Yax Kuk Mok #1
-    "雅克斯 帕克 #1" = 10  # Yax Pac #1
-    "阿 坎 #0" = 0  # Ah Can #0
-    "阿金索克 #0" = 0  # Ahkinxok #0
-    "阿默克 #0" = 0  # Ahmok #0
-    "阿泡普 阿奇 #0" = 0  # Ahpop-Achi #0
-    "阿拉纳 #0" = 0  # Arana #0
-    "巴坎 #0" = 0  # Bakan #0
-    "博尔 #0" = 0  # Bor #0
-    "寇凯布 #0" = 0  # Cocaib #0
-    "考寇雅 #0" = 0  # Cocoja #0
-    "考纳彻 #0" = 0  # Conache #0
+  "Cotuja #0" = 0
+  "Gucamatz #0" = 0
+  "Hnuyg #0" = 0
+  "Kan Bahlun Mo #0" = 0
+  "Kayom #0" = 0
+  "Kukumatz #0" = 0
+  "Mochcouoh #0" = 0
+  "Nohochacyum #0" = 0
+  "Oxib Queh #0" = 0
+  "Tecunuman #0" = 0
+  "Tutul Xiu #0" = 0
+  "Tziquin #0" = 0
+  "Vataki #0" = 0
+  "Yumcaaz #0" = 0
+  "Zotz #0" = 0
+  "Sacnite #0" = -1
+  "Namox Chel #0" = -1
+  "Itzel  #0" = -1
+  "坎 艾克 #0" = 60  # Can Ek #0
+  "巴兰姆 奎泽 #0" = 20  # Balam Quitze #0
+  "科科姆 #1" = 20  # Cocom #1
+  "帕卡尔 #1" = 20  # Pacal #1
+  "瓦扎其 卡姆 #0" = 20  # Vahxaqui Caam #0
+  "阿 卡卡奥 #1" = 15  # Ah Cacao #1
+  "查姆 巴伦 #1" = 15  # Cham Bahlun #1
+  "库 埃克斯 #1" = 15  # Cu Ix #1
+  "帕卡尔 巴拉姆 #1" = 15  # Pacal Balam #1
+  "亚克森 巴拉姆 #1" = 15  # Yaxum Balam #1
+  "巴兹 查安 #1" = 10  # Butz Chan #1
+  "查安 穆安 #1" = 10  # Chaan Muan #1
+  "坎 包尔 #1" = 10  # Kan Boar #1
+  "雅克斯 库克 默克 #1" = 10  # Yax Kuk Mok #1
+  "雅克斯 帕克 #1" = 10  # Yax Pac #1
+  "阿 坎 #0" = 0  # Ah Can #0
+  "阿金索克 #0" = 0  # Ahkinxok #0
+  "阿默克 #0" = 0  # Ahmok #0
+  "阿泡普 阿奇 #0" = 0  # Ahpop-Achi #0
+  "阿拉纳 #0" = 0  # Arana #0
+  "巴坎 #0" = 0  # Bakan #0
+  "博尔 #0" = 0  # Bor #0
+  "寇凯布 #0" = 0  # Cocaib #0
+  "考寇雅 #0" = 0  # Cocoja #0
+  "考纳彻 #0" = 0  # Conache #0
 }
 ship_names = {
-    "Aké"
-    "Ah Puch"
-    "Altun Ha"
-    "Bonampak"
-    "Becan"
-    "Bolonchen"
-    "Chaac"
-    "Camazotz"
-    "Cancuén"
-    "Caracol"
-    "Cerros"
-    "Chacchoben"
-    "Chacmultun"
-    "Chinikiha"
-    "Chinkultic"
-    "Chunchucmil"
-    "Civiltuk"
-    "Calakmul"
-    "Copan"
-    "Coba"
-    "Chichen Itza"
-    "Dzibilchaltun"
-    "Dzibilnocac"
-    "Dzilam"
-    "Dos Pilas"
-    "Cahal Pech"
-    "Edzná"
-    "Ekab"
-    "Ek'Balam"
-    "Gumarcaj"
-    "Gucumatz"
-    "Hocchob"
-    "Hormiguero"
-    "Hunahpu"
-    "Huracan"
-    "Ixbalanque"
-    "Ixchel"
-    "Ixtab"
-    "Ichmac"
-    "Ichmul"
-    "Itzan"
-    "Ixil"
-    "Iximche"
-    "Ixlu"
-    "Izamal"
-    "Ix Chel"
-    "Labná"
-    "Louisville"
-    "Lubaantun"
-    "Lubaantun"
-    "Jaina"
-    "Jolja"
-    "Joya de Cerén"
-    "Kaminaljuyu"
-    "Kabah"
-    "Kiuic"
-    "Kantunil Kin"
-    "Lamanai"
-    "Mayapan"
-    "Machaquila"
-    "Mani"
-    "Muluchtzekel"
-    "Muyil"
-    "Nakum"
-    "Nakbe"
-    "Naranjo"
-    "Nebaj"
-    "Nim Li Punit"
-    "Okop"
-    "Oxcutzcab"
-    "Oxkintok"
-    "Palenque"
-    "Pomoná"
-    "Pusilha"
-    "Piedras Negras"
-    "Quirigua"
-    "Rio Azul"
-    "Rio Bec"
-    "Sayil"
-    "Seibal"
-    "Sisila"
-    "Tonina"
-    "Tikal"
-    "Tulum"
-    "Tancah"
-    "Tazumal"
-    "Tecoh"
-    "Topoxté"
-    "Uxmal"
-    "Uaxactun"
-    "Ucanal"
-    "Uci"
-    "Utatlan"
-    "Waká"
-    "Xcalumkin"
-    "Xcaret"
-    "Xcorralche"
-    "Xcucsuc"
-    "Xculoc"
-    "Xlapak"
-    "Xpuhil"
-    "Xultun"
-    "Xunantunich"
-    "Yaklmai"
-    "Yaxchilan"
-    "Yaxha"
-    "Yo'okop"
-    "Zipacna"
-    "Zaculeu"
+  "Aké"
+  "Ah Puch"
+  "Altun Ha"
+  "Bonampak"
+  "Becan"
+  "Bolonchen"
+  "Chaac"
+  "Camazotz"
+  "Cancuén"
+  "Caracol"
+  "Cerros"
+  "Chacchoben"
+  "Chacmultun"
+  "Chinikiha"
+  "Chinkultic"
+  "Chunchucmil"
+  "Civiltuk"
+  "Calakmul"
+  "Copan"
+  "Coba"
+  "Chichen Itza"
+  "Dzibilchaltun"
+  "Dzibilnocac"
+  "Dzilam"
+  "Dos Pilas"
+  "Cahal Pech"
+  "Edzná"
+  "Ekab"
+  "Ek'Balam"
+  "Gumarcaj"
+  "Gucumatz"
+  "Hocchob"
+  "Hormiguero"
+  "Hunahpu"
+  "Huracan"
+  "Ixbalanque"
+  "Ixchel"
+  "Ixtab"
+  "Ichmac"
+  "Ichmul"
+  "Itzan"
+  "Ixil"
+  "Iximche"
+  "Ixlu"
+  "Izamal"
+  "Ix Chel"
+  "Labná"
+  "Louisville"
+  "Lubaantun"
+  "Lubaantun"
+  "Jaina"
+  "Jolja"
+  "Joya de Cerén"
+  "Kaminaljuyu"
+  "Kabah"
+  "Kiuic"
+  "Kantunil Kin"
+  "Lamanai"
+  "Mayapan"
+  "Machaquila"
+  "Mani"
+  "Muluchtzekel"
+  "Muyil"
+  "Nakum"
+  "Nakbe"
+  "Naranjo"
+  "Nebaj"
+  "Nim Li Punit"
+  "Okop"
+  "Oxcutzcab"
+  "Oxkintok"
+  "Palenque"
+  "Pomoná"
+  "Pusilha"
+  "Piedras Negras"
+  "Quirigua"
+  "Rio Azul"
+  "Rio Bec"
+  "Sayil"
+  "Seibal"
+  "Sisila"
+  "Tonina"
+  "Tikal"
+  "Tulum"
+  "Tancah"
+  "Tazumal"
+  "Tecoh"
+  "Topoxté"
+  "Uxmal"
+  "Uaxactun"
+  "Ucanal"
+  "Uci"
+  "Utatlan"
+  "Waká"
+  "Xcalumkin"
+  "Xcaret"
+  "Xcorralche"
+  "Xcucsuc"
+  "Xculoc"
+  "Xlapak"
+  "Xpuhil"
+  "Xultun"
+  "Xunantunich"
+  "Yaklmai"
+  "Yaxchilan"
+  "Yaxha"
+  "Yo'okop"
+  "Zipacna"
+  "Zaculeu"
 }

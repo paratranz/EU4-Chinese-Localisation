@@ -1,188 +1,188 @@
 ﻿namespace = flavor_tim
 normal_or_historical_nations = yes
 country_event = {
-    id = flavor_tim.0
-    title = "flavor_tim.0.t"
-    desc = "flavor_tim.0.d"
-    picture = OVEREXTENSION_eventPicture
-    fire_only_once = yes
-    trigger = {
-        tag = TIM
-        exists = QOM
-        has_ruler = "沙哈鲁"  # Shah Rukh
-    }
-    mean_time_to_happen = {
-        months = 1
-    }
-    option = {
-        name = "flavor_tim.0.a" 
-        custom_tooltip = flavor_tim.0.a.tt
-        hidden_effect = {
-            every_country = {
-                limit = {
-                    NOT = {
-                        tag = ROOT
-                    }
-                    OR = {
-                        is_neighbor_of = ROOT
-                        dynasty = "帖木儿"  # Timurid
-                        any_owned_province = {
-                            is_core = TIM
-                        }
-                        any_neighbor_country = {
-                            dynasty = "帖木儿"  # Timurid
-                        }
-                    }
-                }
-                country_event = {
-                    id = flavor_tim.4
-                }
-            }
-        }
-    }
-}
-country_event = {
-    id = flavor_tim.1
-    title = "flavor_tim.1.t"
-    desc = "flavor_tim.1.d"
-    picture = DEATH_OF_HEIR_eventPicture
-    is_triggered_only = yes
-    fire_only_once = yes
-    trigger = {
-        tag = TIM
-        NOT = {
-            has_global_flag = death_of_shah_rukh
-        }
-    }
-    mean_time_to_happen = {
-        days = 1
-    }
-    immediate = {
-        set_global_flag = death_of_shah_rukh
-    }
-    option = {
-        name = "flavor_tim.1.a"
-        custom_tooltip = flavor_tim.1.a.tt
-        hidden_effect = {
-            every_country = {
-                limit = {
-                    NOT = {
-                        tag = ROOT
-                    }
-                    OR = {
-                        is_neighbor_of = ROOT
-                        dynasty = "帖木儿"  # Timurid
-                        any_owned_province = {
-                            is_core = TIM
-                        }
-                        any_neighbor_country = {
-                            dynasty = "帖木儿"  # Timurid
-                        }
-                    }
-                }
-                country_event = {
-                    id = flavor_tim.2
-                }
-            }
-        }
-    }
-}
-country_event = {
-    id = flavor_tim.2
-    title = "flavor_tim.2.t"
-    desc = "flavor_tim.2.d"
-    picture = DEATH_OF_HEIR_eventPicture
-    is_triggered_only = yes
-    option = {
-        name = "flavor_tim.2.a"
-        trigger = {
+  id = flavor_tim.0
+  title = "flavor_tim.0.t"
+  desc = "flavor_tim.0.d"
+  picture = OVEREXTENSION_eventPicture
+  fire_only_once = yes
+  trigger = {
+    tag = TIM
+    exists = QOM
+    has_ruler = "沙哈鲁"  # Shah Rukh
+  }
+  mean_time_to_happen = {
+    months = 1
+  }
+  option = {
+    name = "flavor_tim.0.a" 
+    custom_tooltip = flavor_tim.0.a.tt
+    hidden_effect = {
+      every_country = {
+        limit = {
+          NOT = {
+            tag = ROOT
+          }
+          OR = {
+            is_neighbor_of = ROOT
             dynasty = "帖木儿"  # Timurid
-        }
-        custom_tooltip = flavor_tim.2.a.tt
-    }
-    option = {
-        name = "flavor_tim.2.b" 
-        trigger = {
-            NOT = {
-                dynasty = "帖木儿"  # Timurid
+            any_owned_province = {
+              is_core = TIM
             }
-        }
-        custom_tooltip = flavor_tim.2.a.tt
-        if = {
-            limit = {
-                NOT = {
-                    dynasty = "帖木儿"  # Timurid
-                }
-                government = monarchy
-                NOT = {
-                    tag = HLR
-                }
-                NOT = {
-                    tag = ROM
-                }
-                NOT = {
-                    tag = MUG
-                }
-                NOT = {
-                    tag = PER
-                }
-                OR = {
-                    culture_group = iranian
-                    primary_culture = uzbehk
-                    primary_culture = turkmeni
-                }
-                NOT = {
-                    primary_culture = azerbaijani
-                }
-                NOT = {
-                    has_reform = tribal_federation
-                }
-                religion_group = muslim
+            any_neighbor_country = {
+              dynasty = "帖木儿"  # Timurid
             }
-            custom_tooltip = flavor_tim.2.b.tt
+          }
         }
+        country_event = {
+          id = flavor_tim.4
+        }
+      }
     }
+  }
 }
 country_event = {
-    id = flavor_tim.3
-    title = "flavor_tim.EVTNAME3"
-    desc = "flavor_tim.EVTDESC3"
-    picture = UNIVERSITY_eventPicture
-    fire_only_once = yes
+  id = flavor_tim.1
+  title = "flavor_tim.1.t"
+  desc = "flavor_tim.1.d"
+  picture = DEATH_OF_HEIR_eventPicture
+  is_triggered_only = yes
+  fire_only_once = yes
+  trigger = {
+    tag = TIM
+    NOT = {
+      has_global_flag = death_of_shah_rukh
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  immediate = {
+    set_global_flag = death_of_shah_rukh
+  }
+  option = {
+    name = "flavor_tim.1.a"
+    custom_tooltip = flavor_tim.1.a.tt
+    hidden_effect = {
+      every_country = {
+        limit = {
+          NOT = {
+            tag = ROOT
+          }
+          OR = {
+            is_neighbor_of = ROOT
+            dynasty = "帖木儿"  # Timurid
+            any_owned_province = {
+              is_core = TIM
+            }
+            any_neighbor_country = {
+              dynasty = "帖木儿"  # Timurid
+            }
+          }
+        }
+        country_event = {
+          id = flavor_tim.2
+        }
+      }
+    }
+  }
+}
+country_event = {
+  id = flavor_tim.2
+  title = "flavor_tim.2.t"
+  desc = "flavor_tim.2.d"
+  picture = DEATH_OF_HEIR_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "flavor_tim.2.a"
     trigger = {
-        OR = {
-            tag = TRS
-            tag = TIM
-        }
-        has_ruler = "兀鲁伯"  # Ulugh Beg
+      dynasty = "帖木儿"  # Timurid
+    }
+    custom_tooltip = flavor_tim.2.a.tt
+  }
+  option = {
+    name = "flavor_tim.2.b" 
+    trigger = {
+      NOT = {
+        dynasty = "帖木儿"  # Timurid
+      }
+    }
+    custom_tooltip = flavor_tim.2.a.tt
+    if = {
+      limit = {
         NOT = {
-            is_year = 1465
+          dynasty = "帖木儿"  # Timurid
         }
+        government = monarchy
+        NOT = {
+          tag = HLR
+        }
+        NOT = {
+          tag = ROM
+        }
+        NOT = {
+          tag = MUG
+        }
+        NOT = {
+          tag = PER
+        }
+        OR = {
+          culture_group = iranian
+          primary_culture = uzbehk
+          primary_culture = turkmeni
+        }
+        NOT = {
+          primary_culture = azerbaijani
+        }
+        NOT = {
+          has_reform = tribal_federation
+        }
+        religion_group = muslim
+      }
+      custom_tooltip = flavor_tim.2.b.tt
     }
-    mean_time_to_happen = {
-        months = 63
-    }
-    option = {
-        name = "flavor_tim.EVTOPTA3"
-        add_years_of_income = -1
-        add_dip_power = 50
-        add_mil_power = 50
-        add_adm_power = 50
-        add_innovativeness_big_effect = yes
-    }
-    option = {
-        name = "flavor_tim.EVTOPTB3"
-        add_prestige = -5
-    }
+  }
 }
 country_event = {
-    id = flavor_tim.4
-    title = "flavor_tim.0.t"
-    desc = "flavor_tim.0.d"
-    picture = OVEREXTENSION_eventPicture
-    is_triggered_only = yes
-    option = {
-        name = "flavor_tim.0.a"
-        custom_tooltip = flavor_tim.0.a.tt
+  id = flavor_tim.3
+  title = "flavor_tim.EVTNAME3"
+  desc = "flavor_tim.EVTDESC3"
+  picture = UNIVERSITY_eventPicture
+  fire_only_once = yes
+  trigger = {
+    OR = {
+      tag = TRS
+      tag = TIM
     }
+    has_ruler = "兀鲁伯"  # Ulugh Beg
+    NOT = {
+      is_year = 1465
+    }
+  }
+  mean_time_to_happen = {
+    months = 63
+  }
+  option = {
+    name = "flavor_tim.EVTOPTA3"
+    add_years_of_income = -1
+    add_dip_power = 50
+    add_mil_power = 50
+    add_adm_power = 50
+    add_innovativeness_big_effect = yes
+  }
+  option = {
+    name = "flavor_tim.EVTOPTB3"
+    add_prestige = -5
+  }
+}
+country_event = {
+  id = flavor_tim.4
+  title = "flavor_tim.0.t"
+  desc = "flavor_tim.0.d"
+  picture = OVEREXTENSION_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "flavor_tim.0.a"
+    custom_tooltip = flavor_tim.0.a.tt
+  }
 }

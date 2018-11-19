@@ -1,124 +1,124 @@
 ﻿graphical_culture = westerngfx
 color = {
-    178
-    145
-    87
+  178
+  145
+  87
 }
 historical_idea_groups = {
-    religious_ideas
-    trade_ideas
-    defensive_ideas
-    economic_ideas
-    diplomatic_ideas
-    offensive_ideas
-    spy_ideas
-    quantity_ideas
+  religious_ideas
+  trade_ideas
+  defensive_ideas
+  economic_ideas
+  diplomatic_ideas
+  offensive_ideas
+  spy_ideas
+  quantity_ideas
 }
 historical_units = {
-    western_medieval_infantry
-    western_medieval_knights
-    western_men_at_arms
-    swiss_landsknechten
-    dutch_maurician
-    austrian_tercio
-    austrian_grenzer
-    austrian_hussar
-    austrian_white_coat
-    prussian_uhlan
-    austrian_jaeger
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  prussian_uhlan
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 monarch_names = {
-    "阿尔布雷希特 #1" = 40
-    "康拉德 #2" = 20
-    "阿道夫 #1" = 20
-    "约翰 #1" = 20
-    "安塞尔姆 弗朗茨 #0" = 20
-    "Anselm Kasimir #0" = 20
-    "Berthold #0" = 20
-    "Damian Hartrad #0" = 20
-    "Daniel Brendel #0" = 20
-    "Dieter #0" = 20
-    "Dietrich #0" = 20
-    "Emmerich Joseph #0" = 20
-    "弗朗茨 路德维希 #0" = 20
-    "弗里德里希 卡尔 约瑟夫 #0" = 20
-    "Georg Friedrich #0" = 20
-    "Jakob #0" = 20
-    "约翰 亚当 #0" = 20
-    "约翰 弗里德里希 卡尔 #0" = 20
-    "约翰 菲利普 #0" = 20
-    "约翰 施魏克哈德 #0" = 20
-    "Karl Heinrich #0" = 20
-    "卡尔 泰奥多尔 #0" = 20
-    "洛塔尔 弗朗茨 #0" = 20
-    "Lothar Friedrich #0" = 20
-    "Philipp Karl #0" = 20
-    "Sebastian #0" = 20
-    "Uriel #0" = 20
-    "Wolfgang #0" = 20
-    "海因里希 #3" = 10
-    "路德维希 #1" = 15
-    "马蒂亚斯 #1" = 15
-    "彼得 #1" = 15
-    "克里斯蒂安 #3" = 10
-    "Siegfried #3" = 10
-    "Gerhard #2" = 10
-    "Werner #2" = 10
-    "Gottfried #0" = 0
-    "Hieronymus #0" = 0
-    "Markus #0" = 0
-    "拉斐尔 #0" = 0
-    "Sylvia #0" = -1
-    "Wilhelmine #0" = -1
-    "Alexis #0" = -1
+  "Anselm Kasimir #0" = 20
+  "Berthold #0" = 20
+  "Damian Hartrad #0" = 20
+  "Daniel Brendel #0" = 20
+  "Dieter #0" = 20
+  "Dietrich #0" = 20
+  "Emmerich Joseph #0" = 20
+  "Georg Friedrich #0" = 20
+  "Jakob #0" = 20
+  "Karl Heinrich #0" = 20
+  "Lothar Friedrich #0" = 20
+  "Philipp Karl #0" = 20
+  "Sebastian #0" = 20
+  "Uriel #0" = 20
+  "Wolfgang #0" = 20
+  "Siegfried #3" = 10
+  "Gerhard #2" = 10
+  "Werner #2" = 10
+  "Gottfried #0" = 0
+  "Hieronymus #0" = 0
+  "Markus #0" = 0
+  "Sylvia #0" = -1
+  "Wilhelmine #0" = -1
+  "Alexis #0" = -1
+  "阿尔布雷希特 #1" = 40  # Albrecht #1
+  "康拉德 #2" = 20  # Konrad #2
+  "阿道夫 #1" = 20  # Adolf #1
+  "约翰 #1" = 20  # Johann #1
+  "安塞尔姆 弗朗茨 #0" = 20  # Anselm Franz #0
+  "弗朗茨 路德维希 #0" = 20  # Franz Ludwig #0
+  "弗里德里希 卡尔 约瑟夫 #0" = 20  # Friedrich Karl Joseph #0
+  "约翰 亚当 #0" = 20  # Johann Adam #0
+  "约翰 弗里德里希 卡尔 #0" = 20  # Johann Friedrich Karl #0
+  "约翰 菲利普 #0" = 20  # Johann Philipp #0
+  "约翰 施魏克哈德 #0" = 20  # Johann Schweikhard #0
+  "卡尔 泰奥多尔 #0" = 20  # Karl Theodor #0
+  "洛塔尔 弗朗茨 #0" = 20  # Lothar Franz #0
+  "海因里希 #3" = 10  # Heinrich #3
+  "路德维希 #1" = 15  # Ludwig #1
+  "马蒂亚斯 #1" = 15  # Matthias #1
+  "彼得 #1" = 15  # Peter #1
+  "克里斯蒂安 #3" = 10  # Christian #3
+  "拉斐尔 #0" = 0  # Raphael #0
 }
 leader_names = {
-    "Alfter"  # Alfter
-    "Allendorf"  # Allendorf
-    "Assmann"  # Assmann
-    "Barth"  # Barth
-    "Becker"  # Becker
-    "Betz"  # Betz
-    "Bopp"  # Bopp
-    "Bornschlegel"  # Bornschlegel
-    "Dörrenbecher"  # Dörrenbecher
-    "Dude"  # Dude
-    "Fust"  # Fust
-    "Eins"  # Eins
-    "Göhler"  # Göhler
-    "Grob"  # Grob
-    "Haas"  # Haas
-    "Heidelberger"  # Heidelberger
-    "Ickstadt"  # Ickstadt
-    "Lawall"  # Lawall
-    "Pittschaft"  # Pittschaft
-    "Schmitt"  # Schmitt
-    "Schoeneberger"  # Schoeneberger
-    "Storck"  # Storck
-    "Volz"  # Volz
+  "Alfter"
+  "Allendorf"
+  "Assmann"
+  "Barth"
+  "Becker"
+  "Betz"
+  "Bopp"
+  "Bornschlegel"
+  "Dörrenbecher"
+  "Dude"
+  "Fust"
+  "Eins"
+  "Göhler"
+  "Grob"
+  "Haas"
+  "Heidelberger"
+  "Ickstadt"
+  "Lawall"
+  "Pittschaft"
+  "Schmitt"
+  "Schoeneberger"
+  "Storck"
+  "Volz"
 }
 ship_names = {
-    "St. Theonest"  # St. Theonest
-    "St. Georg"  # St. Georg
-    "St. Peter"  # St. Peter
-    "Udenmünster"  # Udenmünster
-    "St. Christoph"  # St. Christoph
-    "St. Lambert"  # St. Lambert
-    "St. Quintin"  # St. Quintin
-    "St. Maria"  # St. Maria
-    "圣约翰尼斯"  # St. Johannes
-    "St. Emmeran"  # St. Emmeran
-    "St. Ignaz"  # St. Ignaz
-    "Hagenmünster"  # Hagenmünster
-    "St. Aureus"  # St. Aureus
-    "St. Nicomedes"  # St. Nicomedes
-    "St. Alban"  # St. Alban
+  "St. Theonest"
+  "St. Georg"
+  "St. Peter"
+  "Udenmünster"
+  "St. Christoph"
+  "St. Lambert"
+  "St. Quintin"
+  "St. Maria"
+  "圣约翰尼斯"  # St. Johannes
+  "St. Emmeran"
+  "St. Ignaz"
+  "Hagenmünster"
+  "St. Aureus"
+  "St. Nicomedes"
+  "St. Alban"
 }
 army_names = {
-    "Erzbischofliche Garde"  # Erzbischofliche Garde
-    "$PROVINCE$军"  # Armee von $PROVINCE$
+  "Erzbischofliche Garde"
+  "$PROVINCE$军"  # Armee von $PROVINCE$
 }

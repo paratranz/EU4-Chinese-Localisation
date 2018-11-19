@@ -1,14 +1,14 @@
 ﻿name = "重盟战争"  # War of the Reunions
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 213
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 213
 }
 1683.10.23 = {
-    add_attacker = FRA
-    add_defender = SPA
+  add_attacker = FRA
+  add_defender = SPA
 }
 1684.8.1 = {
-    rem_attacker = FRA
-    rem_defender = SPA
+  rem_attacker = FRA
+  rem_defender = SPA
 }

@@ -1,57 +1,57 @@
 ﻿name = "第二次盎格鲁-马拉塔战争"  # Second Anglo-Maratha War
 war_goal = {
-    type = take_capital_imperial
-    casus_belli = cb_imperial
+  type = take_capital_imperial
+  casus_belli = cb_imperial
 }
 1803.8.1 = {
-    add_attacker = GBR
-    add_defender = GWA
-    add_defender = NAG
+  add_attacker = GBR
+  add_defender = GWA
+  add_defender = NAG
 }
 1803.9.11 = {
-    battle = {
-        name = "德里"  # Delhi
-        location = 522
-        attacker = {
-            commander = "杰拉德 莱克"  # Gerard Lake
-            infantry = 4500
-            losses = 7
-            country = GBR
-        }
-        defender = {
-            commander = "布尔坎"  # Bourquin
-            infantry = 19000
-            losses = 40
-            country = GWA
-        }
-        result = yes
+  battle = {
+    name = "德里"  # Delhi
+    location = 522
+    attacker = {
+      commander = "杰拉德 莱克"  # Gerard Lake
+      infantry = 4500
+      losses = 7
+      country = GBR
     }
+    defender = {
+      commander = "布尔坎"  # Bourquin
+      infantry = 19000
+      losses = 40
+      country = GWA
+    }
+    result = yes
+  }
 }
 1803.9.23 = {
-    battle = {
-        name = "阿萨耶"  # Assaye
-        location = 545
-        attacker = {
-            commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
-            infantry = 4500
-            cavalry = 2000
-            losses = 56
-            country = GBR
-        }
-        defender = {
-            commander = "拉戈吉 邦斯莱"  # Ragojee Bhonsla
-            infantry = 50000
-            artillery = 100
-            losses = 12
-            country = GWA
-        }
-        result = yes
+  battle = {
+    name = "阿萨耶"  # Assaye
+    location = 545
+    attacker = {
+      commander = "亚瑟 韦尔兹利"  # Arthur Wellesley
+      infantry = 4500
+      cavalry = 2000
+      losses = 56
+      country = GBR
     }
+    defender = {
+      commander = "拉戈吉 邦斯莱"  # Ragojee Bhonsla
+      infantry = 50000
+      artillery = 100
+      losses = 12
+      country = GWA
+    }
+    result = yes
+  }
 }
 1803.12.17 = {
-    rem_defender = NAG
+  rem_defender = NAG
 }
 1805.12.25 = {
-    rem_attacker = GBR
-    rem_defender = GWA
+  rem_attacker = GBR
+  rem_defender = GWA
 }

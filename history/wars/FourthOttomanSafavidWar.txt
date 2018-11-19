@@ -1,14 +1,14 @@
 ﻿name = "第四次奥斯曼-萨法维战争"  # Fourth Ottoman-Safavid War
 war_goal = {
-    type = take_border
-    casus_belli = cb_border_war
-    province = 416
+  type = take_border
+  casus_belli = cb_border_war
+  province = 416
 }
 1553.8.28 = {
-    add_attacker = TUR
-    add_defender = PER
+  add_attacker = TUR
+  add_defender = PER
 }
 1555.5.29 = {
-    rem_attacker = TUR
-    rem_defender = PER
+  rem_attacker = TUR
+  rem_defender = PER
 }

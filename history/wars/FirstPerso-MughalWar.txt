@@ -1,14 +1,14 @@
 ﻿name = "波斯-莫卧儿战争"  # Perso-Mughal War
 war_goal = {
-    type = take_border
-    casus_belli = cb_border_war
-    province = 446
+  type = take_border
+  casus_belli = cb_border_war
+  province = 446
 }
 1646.1.1 = {
-    add_attacker = MUG
-    add_defender = PER
+  add_attacker = MUG
+  add_defender = PER
 }
 1649.1.1 = {
-    rem_attacker = MUG
-    rem_defender = PER
+  rem_attacker = MUG
+  rem_defender = PER
 }

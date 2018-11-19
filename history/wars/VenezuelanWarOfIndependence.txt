@@ -1,14 +1,14 @@
 ﻿name = "委内瑞拉独立战争"  # Venezuelan War of Independence
 war_goal = {
-    type = defend_capital_independence
-    casus_belli = cb_independence_war
-    tag = VNZ
+  type = defend_capital_independence
+  casus_belli = cb_independence_war
+  tag = VNZ
 }
 1811.7.5 = {
-    add_attacker = VNZ
-    add_defender = SPA
+  add_attacker = VNZ
+  add_defender = SPA
 }
 1819.12.17 = {
-    rem_attacker = VNZ
-    rem_defender = SPA
+  rem_attacker = VNZ
+  rem_defender = SPA
 }

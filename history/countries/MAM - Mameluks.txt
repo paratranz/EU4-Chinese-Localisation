@@ -10,233 +10,233 @@ capital = 361
 add_army_professionalism = 0.1
 religious_school = shafii_school
 1399.1.1 = {
-    monarch = {
-        name = "纳速儿 法赖吉"  # al-Nasr Faraj
-        dynasty = "布尔吉"  # Burji
-        culture = circassian
-        adm = 2
-        dip = 2
-        mil = 3
-    }
-    add_piety = 0.5
+  monarch = {
+    name = "纳速儿 法赖吉"  # al-Nasr Faraj
+    dynasty = "布尔吉"  # Burji
+    culture = circassian
+    adm = 2
+    dip = 2
+    mil = 3
+  }
+  add_piety = 0.5
 }
 1412.1.1 = {
-    monarch = {
-        name = "谢赫 马哈茂迪"  # Shaikh al-Mahmudi
-        dynasty = "布尔吉"  # Burji
-        culture = circassian
-        adm = 2
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "谢赫 马哈茂迪"  # Shaikh al-Mahmudi
+    dynasty = "布尔吉"  # Burji
+    culture = circassian
+    adm = 2
+    dip = 3
+    mil = 1
+  }
 }
 1421.1.1 = {
-    monarch = {
-        name = "穆罕默德 IV"  # Muhammad IV
-        culture = circassian
-        dynasty = "布尔吉"  # Burji
-        adm = 1
-        dip = 1
-        mil = 3
-    }
+  monarch = {
+    name = "穆罕默德 IV"  # Muhammad IV
+    culture = circassian
+    dynasty = "布尔吉"  # Burji
+    adm = 1
+    dip = 1
+    mil = 3
+  }
 }
 1422.1.1 = {
-    monarch = {
-        name = "巴尔斯拜"  # Barsbai
-        dynasty = "布尔吉"  # Burji
-        culture = circassian
-        adm = 2
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "巴尔斯拜"  # Barsbai
+    dynasty = "布尔吉"  # Burji
+    culture = circassian
+    adm = 2
+    dip = 3
+    mil = 1
+  }
 }
 1438.6.8 = {
-    monarch = {
-        name = "贾科马克"  # Jaqmaq
-        birth_date = 1372.1.1
-        dynasty = "布尔吉"  # Burji
-        culture = circassian
-        adm = 2
-        dip = 2
-        mil = 3
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = silver_tongue_personality
-    add_ruler_personality = obsessive_perfectionist_personality
+  monarch = {
+    name = "贾科马克"  # Jaqmaq
+    birth_date = 1372.1.1
+    dynasty = "布尔吉"  # Burji
+    culture = circassian
+    adm = 2
+    dip = 2
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = obsessive_perfectionist_personality
 }
 1453.2.13 = {
-    monarch = {
-        name = "伊纳勒"  # Inâl
-        dynasty = "布尔吉"  # Burji
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "伊纳勒"  # Inâl
+    dynasty = "布尔吉"  # Burji
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1461.2.25 = {
-    monarch = {
-        name = "Khûshqadam"  # Khûshqadam
-        dynasty = "布尔吉"  # Burji
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "Khûshqadam"
+    dynasty = "布尔吉"  # Burji
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1461.2.25 = {
-    heir = {
-        name = "卡特巴伊"  # Qâ'itbay
-        monarch_name = "卡特巴伊"  # Qâ'itbay
-        dynasty = "布尔吉"  # Burji
-        birth_date = 1418.1.1
-        death_date = 1496.7.8
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "卡特巴伊"  # Qâ'itbay
+    monarch_name = "卡特巴伊"  # Qâ'itbay
+    dynasty = "布尔吉"  # Burji
+    birth_date = 1418.1.1
+    death_date = 1496.7.8
+    claim = 95
+    adm = 1
+    dip = 3
+    mil = 1
+  }
 }
 1467.10.10 = {
-    monarch = {
-        name = "Qâ'itbay"  # Qâ'itbay
-        dynasty = "布尔吉"  # Burji
-        adm = 1
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "Qâ'itbay"
+    dynasty = "布尔吉"  # Burji
+    adm = 1
+    dip = 3
+    mil = 1
+  }
 }
 1496.7.8 = {
-    monarch = {
-        name = "穆罕默德 II"  # Muhammad II
-        dynasty = "布尔吉"  # Burji
-        adm = 2
-        dip = 0
-        mil = 1
-    }
+  monarch = {
+    name = "穆罕默德 II"  # Muhammad II
+    dynasty = "布尔吉"  # Burji
+    adm = 2
+    dip = 0
+    mil = 1
+  }
 }
 1498.10.30 = {
-    monarch = {
-        name = "Qânsûh I"  # Qânsûh I
-        dynasty = "布尔吉"  # Burji
-        adm = 1
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "Qânsûh I"
+    dynasty = "布尔吉"  # Burji
+    adm = 1
+    dip = 2
+    mil = 2
+  }
 }
 1500.6.29 = {
-    monarch = {
-        name = "Jânbalat"  # Jânbalat
-        dynasty = "布尔吉"  # Burji
-        adm = 0
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "Jânbalat"
+    dynasty = "布尔吉"  # Burji
+    adm = 0
+    dip = 1
+    mil = 1
+  }
 }
 1501.6.26 = {
-    monarch = {
-        name = "Qânsûh II"  # Qânsûh II
-        dynasty = "布尔吉"  # Burji
-        adm = 1
-        dip = 1
-        mil = 3
-        leader = {
-            name = "Al Kansur"  # Al Kansur
-            type = general
-            fire = 1
-            shock = 4
-            manuever = 5
-            siege = 0
-        }
+  monarch = {
+    name = "Qânsûh II"
+    dynasty = "布尔吉"  # Burji
+    adm = 1
+    dip = 1
+    mil = 3
+    leader = {
+      name = "Al Kansur"
+      type = "
+      generalfire = "
+      1shock = "
+      4manuever = "
+      5siege = 0
     }
+  }
 }
 1516.8.25 = {
-    monarch = {
-        name = "Tûmân Bay II"  # Tûmân Bay II
-        dynasty = "布尔吉"  # Burji
-        adm = 0
-        dip = 0
-        mil = 2
-        leader = {
-            name = "Tûmân Bay II"  # Tûmân Bay II
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 3
-            siege = 1
-        }
+  monarch = {
+    name = "Tûmân Bay II"
+    dynasty = "布尔吉"  # Burji
+    adm = 0
+    dip = 0
+    mil = 2
+    leader = {
+      name = "Tûmân Bay II"
+      II"type = "
+      generalfire = "
+      3shock = "
+      3manuever = "
+      3siege = 1
     }
+  }
 }
 1768.1.1 = {
-    monarch = {
-        name = "Alî l-Kabîr"  # Alî l-Kabîr
-        dynasty = "Beg"  # Beg
-        adm = 3
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "Alî l-Kabîr"
+    dynasty = "Beg"
+    adm = 3
+    dip = 3
+    mil = 2
+  }
 }
 1773.5.2 = {
-    monarch = {
-        name = "穆罕默德"  # Mehmed
-        dynasty = "Beg"  # Beg
-        adm = 4
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "穆罕默德"  # Mehmed
+    dynasty = "Beg"
+    adm = 4
+    dip = 1
+    mil = 1
+  }
 }
 1775.6.11 = {
-    monarch = {
-        name = "穆拉德"  # Murad
-        dynasty = "Beg"  # Beg
-        adm = 2
-        dip = 3
-        mil = 3
-    }
+  monarch = {
+    name = "穆拉德"  # Murad
+    dynasty = "Beg"
+    adm = 2
+    dip = 3
+    mil = 3
+  }
 }
 1792.1.1 = {
-    leader = {
-        name = "易卜拉欣"  # Ibrahim Bey
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 4
-        siege = 0
-        death_date = 1804.3.14
-    }
+  leader = {
+    name = "易卜拉欣"  # Ibrahim Bey
+    type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    4siege = "
+    0death_date = 1804.3.14
+  }
 }
 1792.1.1 = {
-    leader = {
-        name = "穆拉德 贝伊"  # Murad Bey
-        type = general
-        fire = 1
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1801.4.22
-    }
+  leader = {
+    name = "穆拉德 贝伊"  # Murad Bey
+    type = "
+    generalfire = "
+    1shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1801.4.22
+  }
 }
 1801.4.23 = {
-    monarch = {
-        name = "奥斯曼"  # Osman
-        dynasty = "Bardisi"  # Bardisi
-        adm = 0
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "奥斯曼"  # Osman
+    dynasty = "Bardisi"
+    adm = 0
+    dip = 1
+    mil = 0
+  }
 }
 1804.3.14 = {
-    monarch = {
-        name = "穆罕默德 阿里"  # Muhammad 'Alî
-        dynasty = "穆罕默德"  # Muhammad
-        adm = 6
-        dip = 4
-        mil = 6
-        leader = {
-            name = "穆罕默德 阿里"  # Mehmet Ali
-            type = general
-            fire = 1
-            shock = 4
-            manuever = 5
-            siege = 0
-        }
+  monarch = {
+    name = "穆罕默德 阿里"  # Muhammad 'Alî
+    dynasty = "穆罕默德"  # Muhammad
+    adm = 6
+    dip = 4
+    mil = 6
+    leader = {
+      name = "穆罕默德 阿里"  # Mehmet Ali
+      Ali"type = "
+      generalfire = "
+      1shock = "
+      4manuever = "
+      5siege = 0
     }
+  }
 }

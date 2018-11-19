@@ -1,43 +1,43 @@
 ﻿name = "公益同盟之战"  # War of the League of the Public Weal
 war_goal = {
-    type = take_capital_liberation
-    casus_belli = cb_liberation
-    tag = FRA
+  type = take_capital_liberation
+  casus_belli = cb_liberation
+  tag = FRA
 }
 1465.3.1 = {
-    add_attacker = BUR
-    add_attacker = BRI
-    add_attacker = BOU
-    add_attacker = LOR
-    add_attacker = AMG
-    add_defender = FRA
+  add_attacker = BUR
+  add_attacker = BRI
+  add_attacker = BOU
+  add_attacker = LOR
+  add_attacker = AMG
+  add_defender = FRA
 }
 1465.7.11 = {
-    battle = {
-        name = "蒙特雷里"  # Montlhery
-        location = 38
-        attacker = {
-            commander = "英勇者查理"  # Charles the Bold
-            infantry = 12000
-            cavalry = 2500
-            losses = 36
-            country = BUR
-        }
-        defender = {
-            commander = "路易 XI"  # Louis XI
-            infantry = 18000
-            cavalry = 4000
-            losses = 47
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "蒙特雷里"  # Montlhery
+    location = 38
+    attacker = {
+      commander = "英勇者查理"  # Charles the Bold
+      infantry = 12000
+      cavalry = 2500
+      losses = 36
+      country = BUR
     }
+    defender = {
+      commander = "路易 XI"  # Louis XI
+      infantry = 18000
+      cavalry = 4000
+      losses = 47
+      country = FRA
+    }
+    result = no
+  }
 }
 1465.8.15 = {
-    rem_attacker = BUR
-    rem_attacker = BRI
-    rem_attacker = BOU
-    rem_attacker = LOR
-    rem_attacker = AMG
-    rem_defender = FRA
+  rem_attacker = BUR
+  rem_attacker = BRI
+  rem_attacker = BOU
+  rem_attacker = LOR
+  rem_attacker = AMG
+  rem_defender = FRA
 }

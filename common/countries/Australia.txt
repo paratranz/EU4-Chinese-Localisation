@@ -2,120 +2,120 @@
 colonial_parent = GBR
 random_nation_chance = 0
 color = {
-    144
-    60
-    75
+  144
+  60
+  75
 }
 historical_idea_groups = {
-    defensive_ideas
-    religious_ideas
-    trade_ideas
-    economic_ideas
-    plutocracy_ideas
-    diplomatic_ideas
-    offensive_ideas
-    spy_ideas
+  defensive_ideas
+  religious_ideas
+  trade_ideas
+  economic_ideas
+  plutocracy_ideas
+  diplomatic_ideas
+  offensive_ideas
+  spy_ideas
 }
 historical_units = {
-    western_medieval_infantry
-    western_medieval_knights
-    western_longbow
-    gaelic_mercenary
-    gaelic_free_shooter
-    irish_charge
-    anglofrench_line
-    british_redcoat
-    british_hussar
-    british_square
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  western_medieval_infantry
+  western_medieval_knights
+  western_longbow
+  gaelic_mercenary
+  gaelic_free_shooter
+  irish_charge
+  anglofrench_line
+  british_redcoat
+  british_hussar
+  british_square
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 monarch_names = {
-    "菲利普 #0" = 20
-    "拉克伦 #0" = 20
-    "威廉 #0" = 15
-    "约翰 #0" = 15
-    "亚瑟 #0" = 10
-    "托马斯 #0" = 10
-    "安布罗斯 #0" = 0
-    "拉尔夫 #0" = 0
-    "本杰明 #0" = 0
-    "布赖恩 #0" = 0
-    "理查德 #0" = 0
-    "克里斯托弗 #0" = 0
-    "康拉德 #0" = 0
-    "丹尼斯 #0" = 0
-    "邓肯 #0" = 0
-    "尤斯塔斯 #0" = 0
-    "弗雷德里克 #0" = 0
-    "杰拉德 #0" = 0
-    "格雷戈里 #0" = 0
-    "乔治 #0" = 0
-    "荷马 #0" = 0
-    "约瑟夫 #0" = 0
-    "尤里乌斯 #0" = 0
-    "凯文 #0" = 0
-    "劳伦斯 #0" = 0
-    "勒罗伊 #0" = 0
-    "刘易斯 #0" = 0
-    "马修 #0" = 0
-    "迈克尔 #0" = 0
-    "蒙哥马利 #0" = 0
-    "尼古拉斯 #0" = 0
-    "彼得 #0" = 0
-    "罗宛 #0" = 0
-    "斯科特 #0" = 0
-    "西尔维斯特 #0" = 0
-    "斯潘塞 #0" = 0
-    "尤利西斯 #0" = 0
-    "维克托 #0" = 0
-    "维多利亚 #0" = -1
-    "安布罗西娅 #0" = -1
-    "夏洛特 #0" = -1
+  "菲利普 #0" = 20  # Phillip #0
+  "拉克伦 #0" = 20  # Lachlan #0
+  "威廉 #0" = 15  # William #0
+  "约翰 #0" = 15  # John #0
+  "亚瑟 #0" = 10  # Arthur #0
+  "托马斯 #0" = 10  # Thomas #0
+  "安布罗斯 #0" = 0  # Ambrose #0
+  "拉尔夫 #0" = 0  # Ralph #0
+  "本杰明 #0" = 0  # Benjamin #0
+  "布赖恩 #0" = 0  # Brian #0
+  "理查德 #0" = 0  # Richard #0
+  "克里斯托弗 #0" = 0  # Christopher #0
+  "康拉德 #0" = 0  # Conrad #0
+  "丹尼斯 #0" = 0  # Denis #0
+  "邓肯 #0" = 0  # Duncan #0
+  "尤斯塔斯 #0" = 0  # Eustace #0
+  "弗雷德里克 #0" = 0  # Frederick #0
+  "杰拉德 #0" = 0  # Gerard #0
+  "格雷戈里 #0" = 0  # Gregory #0
+  "乔治 #0" = 0  # George #0
+  "荷马 #0" = 0  # Homer #0
+  "约瑟夫 #0" = 0  # Joseph #0
+  "尤里乌斯 #0" = 0  # Julius #0
+  "凯文 #0" = 0  # Kevin #0
+  "劳伦斯 #0" = 0  # Laurence #0
+  "勒罗伊 #0" = 0  # Leroy #0
+  "刘易斯 #0" = 0  # Lewis #0
+  "马修 #0" = 0  # Matthew #0
+  "迈克尔 #0" = 0  # Michael #0
+  "蒙哥马利 #0" = 0  # Montgomery #0
+  "尼古拉斯 #0" = 0  # Nicholas #0
+  "彼得 #0" = 0  # Peter #0
+  "罗宛 #0" = 0  # Rowan #0
+  "斯科特 #0" = 0  # Scott #0
+  "西尔维斯特 #0" = 0  # Silvester #0
+  "斯潘塞 #0" = 0  # Spencer #0
+  "尤利西斯 #0" = 0  # Ulysses #0
+  "维克托 #0" = 0  # Victor #0
+  "维多利亚 #0" = -1  # Victoria #0
+  "安布罗西娅 #0" = -1  # Ambrosia #0
+  "夏洛特 #0" = -1  # Charlotte #0
 }
 leader_names = {
-    "伯克"  # Bourke
-    "达令"  # Darling
-    "布里斯班"  # Brisbane
-    "麦夸里"  # Macquarie
-    "布莱"  # Bligh
-    "金"  # King
-    "巴特勒"  # Butler
-    "杭特"  # Hunter
-    "菲利普"  # Phillip
-    "丹尼逊"  # Denison
-    "菲茨罗伊"  # Fitzroy
-    "贝尔莫尔"  # Belmore
-    "罗宾逊"  # Robinson
-    "洛夫特斯"  # Loftus
-    "卡林顿"  # Carrington
-    "杜夫"  # Duff
-    "汉普顿"  # Hampden
-    "比彻姆"  # Beauchamp
-    "罗森"  # Rawson
-    "切姆斯福德"  # Chelmsford
-    "雅冈"  # Yagan
-    "斯特里克兰"  # Strickland
-    "戴维森"  # Davidson
-    "格雷"  # Grey
-    "弗林德斯"  # Flinders
-    "巴斯"  # Bass
+  "伯克"  # Bourke
+  "达令"  # Darling
+  "布里斯班"  # Brisbane
+  "麦夸里"  # Macquarie
+  "布莱"  # Bligh
+  "金"  # King
+  "巴特勒"  # Butler
+  "杭特"  # Hunter
+  "菲利普"  # Phillip
+  "丹尼逊"  # Denison
+  "菲茨罗伊"  # Fitzroy
+  "贝尔莫尔"  # Belmore
+  "罗宾逊"  # Robinson
+  "洛夫特斯"  # Loftus
+  "卡林顿"  # Carrington
+  "杜夫"  # Duff
+  "汉普顿"  # Hampden
+  "比彻姆"  # Beauchamp
+  "罗森"  # Rawson
+  "切姆斯福德"  # Chelmsford
+  "雅冈"  # Yagan
+  "斯特里克兰"  # Strickland
+  "戴维森"  # Davidson
+  "格雷"  # Grey
+  "弗林德斯"  # Flinders
+  "巴斯"  # Bass
 }
 ship_names = {
-    "西德尼"  # Sidney
-    "科罗曼德"  # Coromandel
-    "亚拉"  # Yarra
-    "敦巴顿"  # Dumbarton
-    "加斯科因"  # Gascoyne
-    "珀斯"  # Perth
-    "胡昂"  # Huon
-    "斯图亚特"  # Stuart
-    "霍克斯伯里"  # Hawkesbury
-    "图文巴"  # Toowoomba
-    "马里伯勒"  # Maryborough
-    "诺曼"  # Norman
-    "瓦拉孟加"  # Warramunga
-    "帕拉马塔"  # Parramatta
+  "西德尼"  # Sidney
+  "科罗曼德"  # Coromandel
+  "亚拉"  # Yarra
+  "敦巴顿"  # Dumbarton
+  "加斯科因"  # Gascoyne
+  "珀斯"  # Perth
+  "胡昂"  # Huon
+  "斯图亚特"  # Stuart
+  "霍克斯伯里"  # Hawkesbury
+  "图文巴"  # Toowoomba
+  "马里伯勒"  # Maryborough
+  "诺曼"  # Norman
+  "瓦拉孟加"  # Warramunga
+  "帕拉马塔"  # Parramatta
 }

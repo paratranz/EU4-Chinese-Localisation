@@ -1,40 +1,40 @@
 ﻿name = "德干对抗毗奢耶那伽罗之战"  # Deccani war against Vijayanagar
 war_goal = {
-    type = superiority_punitive
-    casus_belli = cb_super_badboy
+  type = superiority_punitive
+  casus_belli = cb_super_badboy
 }
 1564.9.15 = {
-    add_attacker = AHM
-    add_attacker = BAH
-    add_attacker = BIJ
-    add_attacker = GOC
-    add_defender = VIJ
+  add_attacker = AHM
+  add_attacker = BAH
+  add_attacker = BIJ
+  add_attacker = GOC
+  add_defender = VIJ
 }
 1565.1.26 = {
-    battle = {
-        name = "达利戈达"  # Talikota
-        location = 532
-        attacker = {
-            commander = "尼查姆 沙 一世"  # Nizam Shah I
-            infantry = 80000
-            cavalry = 30000
-            losses = 30
-            country = GOC
-        }
-        defender = {
-            commander = "罗摩 罗耶 阿拉维杜"  # Rama Raya Aravidu
-            infantry = 140000
-            cavalry = 10000
-            losses = 70
-            country = VIJ
-        }
-        result = yes
+  battle = {
+    name = "达利戈达"  # Talikota
+    location = 532
+    attacker = {
+      commander = "尼查姆 沙 一世"  # Nizam Shah I
+      infantry = 80000
+      cavalry = 30000
+      losses = 30
+      country = GOC
     }
+    defender = {
+      commander = "罗摩 罗耶 阿拉维杜"  # Rama Raya Aravidu
+      infantry = 140000
+      cavalry = 10000
+      losses = 70
+      country = VIJ
+    }
+    result = yes
+  }
 }
 1565.7.1 = {
-    rem_attacker = AHM
-    rem_attacker = BAH
-    rem_attacker = BIJ
-    rem_attacker = GOC
-    rem_defender = VIJ
+  rem_attacker = AHM
+  rem_attacker = BAH
+  rem_attacker = BIJ
+  rem_attacker = GOC
+  rem_defender = VIJ
 }

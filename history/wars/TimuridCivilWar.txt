@@ -1,16 +1,16 @@
 ﻿name = "帖木儿兄弟战争"  # Timurid Brothers War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 446
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 446
 }
 1450.1.1 = {
-    add_attacker = QOM
-    add_defender = KHO
-    add_defender = SIS
+  add_attacker = QOM
+  add_defender = KHO
+  add_defender = SIS
 }
 1451.1.1 = {
-    rem_attacker = QOM
-    rem_defender = KHO
-    rem_defender = SIS
+  rem_attacker = QOM
+  rem_defender = KHO
+  rem_defender = SIS
 }

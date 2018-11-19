@@ -1,14 +1,14 @@
 ﻿name = "英土战争"  # Anglo-Turkish War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 145
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 145
 }
 1807.2.19 = {
-    add_attacker = GBR
-    add_defender = TUR
+  add_attacker = GBR
+  add_defender = TUR
 }
 1809.1.5 = {
-    rem_attacker = GBR
-    rem_defender = TUR
+  rem_attacker = GBR
+  rem_defender = TUR
 }

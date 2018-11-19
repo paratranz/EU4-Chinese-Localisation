@@ -1,33 +1,33 @@
 ﻿name = "第三次奥斯曼-威尼斯战争"  # Third Ottoman-Venetian War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 136
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 136
 }
 1499.6.30 = {
-    add_attacker = TUR
-    add_defender = VEN
+  add_attacker = TUR
+  add_defender = VEN
 }
 1499.8.25 = {
-    battle = {
-        name = "佐奇奥"  # Zonchio
-        location = 1312
-        attacker = {
-            commander = "凯马尔 列伊斯"  # Kemal Reis
-            galley = 82
-            losses = 1
-            country = TUR
-        }
-        defender = {
-            commander = "安托尼奥 格里曼尼"  # Antonio Grimani
-            galley = 64
-            losses = 13
-            country = VEN
-        }
-        result = yes
+  battle = {
+    name = "佐奇奥"  # Zonchio
+    location = 1312
+    attacker = {
+      commander = "凯马尔 列伊斯"  # Kemal Reis
+      galley = 82
+      losses = 1
+      country = TUR
     }
+    defender = {
+      commander = "安托尼奥 格里曼尼"  # Antonio Grimani
+      galley = 64
+      losses = 13
+      country = VEN
+    }
+    result = yes
+  }
 }
 1503.8.10 = {
-    rem_attacker = TUR
-    rem_defender = VEN
+  rem_attacker = TUR
+  rem_defender = VEN
 }

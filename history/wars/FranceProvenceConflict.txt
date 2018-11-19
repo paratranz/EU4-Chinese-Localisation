@@ -1,14 +1,14 @@
 ﻿name = "法国-普罗旺斯冲突"  # France-Provence Conflict
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 201
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 201
 }
 1474.8.1 = {
-    add_attacker = FRA
-    add_defender = PRO
+  add_attacker = FRA
+  add_defender = PRO
 }
 1476.1.1 = {
-    rem_attacker = FRA
-    rem_defender = PRO
+  rem_attacker = FRA
+  rem_defender = PRO
 }

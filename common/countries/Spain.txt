@@ -1,762 +1,761 @@
 ﻿graphical_culture = westerngfx
 color = {
-    231
-    181
-    12
+  231
+  181
+  12
 }
 revolutionary_colors = {
-    5
-    8
-    5
+  5
+  8
+  5
 }
 historical_score = 7400
 historical_idea_groups = {
-    exploration_ideas
-    religious_ideas
-    offensive_ideas
-    expansion_ideas
-    influence_ideas
-    maritime_ideas
-    quality_ideas
-    defensive_ideas
+  exploration_ideas
+  religious_ideas
+  offensive_ideas
+  expansion_ideas
+  influence_ideas
+  maritime_ideas
+  quality_ideas
+  defensive_ideas
 }
 historical_units = {
-    western_medieval_infantry
-    western_medieval_knights
-    western_men_at_arms
-    spanish_tercio
-    austrian_tercio
-    austrian_grenzer
-    austrian_hussar
-    austrian_white_coat
-    austrian_jaeger
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 monarch_names = {
-    "卡洛斯 #0" = 80
-    "腓力 #1" = 60
-    "费尔南多 #5" = 40
-    "路易斯 #0" = 20
-    "何塞 #0" = 20
-    "迭戈 #0" = 15
-    "巴尔塔萨 卡洛斯 #0" = 15
-    "安娜 #0" = -15
-    "玛丽亚 特蕾莎 #0" = -10
-    "阿方索 #11" = 10
-    "恩里克 #4" = 10
-    "胡安 #2" = 10
-    "伊莎贝尔 #1" = -10
-    "弗朗西斯科 #0" = 10
-    "托马斯 #0" = 10
-    "安东尼奥 #0" = 10
-    "弗朗西斯科 #0 德 保拉" = 10
-    "加百列 #0" = 10
-    "桑乔 #4" = 5
-    "海梅 #2" = 5
-    "拉米罗 #2" = 5
-    "佩德罗 #1" = 5
-    "佩拉约 #1" = 5
-    "阿隆索 #0" = 0
-    "巴尔塔萨 #0" = 0
-    "巴托洛梅 #0" = 0
-    "克劳迪奥 #0" = 0
-    "克里斯托巴尔 #0" = 0
-    "多明戈 #0" = 0
-    "埃米利奥 #0" = 0
-    "法德里克 #0" = 0
-    "浮士德 #0" = 0
-    "加西亚 #0" = 0
-    "加斯帕 #0" = 0
-    "贡萨洛 #0" = 0
-    "吉列尔莫 #0" = 0
-    "埃梅内希尔多 #0" = 0
-    "埃尔南多 #0" = 0
-    "伊格纳西奥 #0" = 0
-    "佐治 #0" = 0
-    "胡安 巴蒂斯塔 #0" = 0
-    "胡安 何塞 #0" = 0
-    "莱奥波尔多 #0" = 0
-    "洛佩 #0" = 0
-    "曼努埃尔 #0" = 0
-    "米格尔 #0" = 0
-    "拉蒙 #0" = 0
-    "罗德里戈 #0" = 0
-    "塞巴斯蒂安 #0" = 0
-    "维森特 #0" = 0
+  "卡洛斯 #0" = 80  # Carlos #0
+  "腓力 #1" = 60  # Felipe #1
+  "费尔南多 #5" = 40  # Fernando #5
+  "路易斯 #0" = 20  # Luis #0
+  "何塞 #0" = 20  # José #0
+  "迭戈 #0" = 15  # Diego #0
+  "巴尔塔萨 卡洛斯 #0" = 15  # Baltasar Carlos #0
+  "安娜 #0" = -15  # Ana #0
+  "玛丽亚 特蕾莎 #0" = -10  # María Teresa #0
+  "阿方索 #11" = 10  # Alfonso #11
+  "恩里克 #4" = 10  # Enrique #4
+  "胡安 #2" = 10  # Juan #2
+  "伊莎贝尔 #1" = -10  # Isabel #1
+  "弗朗西斯科 #0" = 10  # Francisco #0
+  "托马斯 #0" = 10  # Tomás #0
+  "安东尼奥 #0" = 10  # Antonio #0
+  "弗朗西斯科 #0 德 保拉" = 10  # Francisco #0 de Paula
+  "加百列 #0" = 10  # Gabriel #0
+  "桑乔 #4" = 5  # Sancho #4
+  "海梅 #2" = 5  # Jaime #2
+  "拉米罗 #2" = 5  # Ramiro #2
+  "佩德罗 #1" = 5  # Pedro #1
+  "佩拉约 #1" = 5  # Pelayo #1
+  "阿隆索 #0" = 0  # Alonso #0
+  "巴尔塔萨 #0" = 0  # Baltasar #0
+  "巴托洛梅 #0" = 0  # Bartolomé #0
+  "克劳迪奥 #0" = 0  # Claudio #0
+  "克里斯托巴尔 #0" = 0  # Cristobal #0
+  "多明戈 #0" = 0  # Domingo #0
+  "埃米利奥 #0" = 0  # Emilio #0
+  "法德里克 #0" = 0  # Fadrique #0
+  "浮士德 #0" = 0  # Fausto #0
+  "加西亚 #0" = 0  # García #0
+  "加斯帕 #0" = 0  # Gaspar #0
+  "贡萨洛 #0" = 0  # Gonzalo #0
+  "吉列尔莫 #0" = 0  # Guillermo #0
+  "埃梅内希尔多 #0" = 0  # Hermenegildo #0
+  "埃尔南多 #0" = 0  # Hernando #0
+  "伊格纳西奥 #0" = 0  # Ignacio #0
+  "佐治 #0" = 0  # Jorge #0
+  "胡安 巴蒂斯塔 #0" = 0  # Juan Bautista #0
+  "胡安 何塞 #0" = 0  # Juan José #0
+  "莱奥波尔多 #0" = 0  # Leopoldo #0
+  "洛佩 #0" = 0  # Lope #0
+  "曼努埃尔 #0" = 0  # Manuel #0
+  "米格尔 #0" = 0  # Miguel #0
+  "拉蒙 #0" = 0  # Ramón #0
+  "罗德里戈 #0" = 0  # Rodrigo #0
+  "塞巴斯蒂安 #0" = 0  # Sebastián #0
+  "维森特 #0" = 0  # Vicente #0
 }
 leader_names = {
-    "阿巴卡 德 博莱阿"  # Abarca de Bolea
-    "德 阿吉雷"  # de Aguirre
-    "德 阿拉尔孔"  # de Alarcón
-    "阿尔瓦雷斯 德 托莱多"  # Álvarez de Toledo
-    "德 阿拉贡"  # de Aragón
-    "德 奥地利"  # de Austria
-    "德 阿亚拉"  # de Ayala
-    "德 巴赞"  # de Bazán
-    "德 博蒙特"  # de Beaumont
-    "德 贝纳维德斯"  # de Benavides
-    "德 波旁"  # de Borbón
-    "德·博尔哈"  # de Borja
-    "卡贝扎 德 巴卡"  # Cabeza de Vaca
-    "卡吉加尔 德 拉维加"  # Cagigal de la Vega
-    "康波马内斯"  # Campomanes
-    "德 拉塞尔达"  # de la Cerda
-    "哥伦布"  # Colón
-    "科罗纳多"  # Coronado
-    "科尔特斯"  # Cortés
-    "达维拉"  # Dávila
-    "德 埃格蒙特"  # de Egmont
-    "埃尔卡诺"  # Elcano
-    "埃卢亚尔"  # Elhuyar
-    "费德里克 德 托莱多"  # Fadrique de Toledo
-    "费尔南德斯 德 卡斯特罗"  # Fernández de Castro
-    "费尔南德斯 德 科尔多瓦"  # Fernández de Córdoba
-    "德 菲格罗阿"  # de Figueroa
-    "菲茨 詹姆斯"  # Fitz-James
-    "福克 德 卡多纳"  # Folch de Cardona
-    "丰塞卡"  # Fonseca
-    "加尔维斯"  # Gálvez
-    "戈麦斯"  # Gómez
-    "格拉维纳"  # Gravina
-    "德 格里哈尔瓦"  # de Grijalva
-    "格里马尔迪"  # Grimaldi
-    "德 古兹曼"  # de Guzmán
-    "德 霍韦亚诺斯"  # de Jovellanos
-    "德 雷瓦"  # de Leiva
-    "洛佩斯 德 哈罗"  # Lópe de Haro
-    "曼里克 德 拉罗"  # Manrique de Lara
-    "曼里克 德 韦拉斯科"  # Manrique de Velasco
-    "德 门多萨"  # de Mendoza
-    "德 蒙特卡达"  # de Montcada
-    "努涅斯 德 巴尔波亚"  # Nuñez de Balboa
-    "德 奥赫达"  # de Ojeda
-    "奥雷利亚纳"  # Orellana
-    "奥索里奥"  # Osorio
-    "帕拉福克斯"  # Palafox
-    "帕提诺"  # Patiño
-    "皮门特尔"  # Pimentel
-    "皮萨罗"  # Pizarro
-    "庞塞 德 莱昂"  # Ponce de León
-    "波托卡雷罗"  # Portocarrero
-    "德 雷克塞斯"  # de Requesens
-    "德 利佩达"  # de Ripperdá
-    "德 罗哈斯"  # de Rojas
-    "萨斯特雷"  # Sastre
-    "泰莱斯 希隆"  # Tellez-Girón
-    "德 拉维加"  # de la Vega
-    "德 祖尼加"  # de Zúñiga
+  "阿巴卡 德 博莱阿"  # Abarca de Bolea
+  "德 阿吉雷"  # de Aguirre
+  "德 阿拉尔孔"  # de Alarcón
+  "阿尔瓦雷斯 德 托莱多"  # Álvarez de Toledo
+  "德 阿拉贡"  # de Aragón
+  "德 奥地利"  # de Austria
+  "德 阿亚拉"  # de Ayala
+  "德 巴赞"  # de Bazán
+  "德 博蒙特"  # de Beaumont
+  "德 贝纳维德斯"  # de Benavides
+  "德 波旁"  # de Borbón
+  "德·博尔哈"  # de Borja
+  "卡贝扎 德 巴卡"  # Cabeza de Vaca
+  "卡吉加尔 德 拉维加"  # Cagigal de la Vega
+  "康波马内斯"  # Campomanes
+  "德 拉塞尔达"  # de la Cerda
+  "哥伦布"  # Colón
+  "科罗纳多"  # Coronado
+  "科尔特斯"  # Cortés
+  "达维拉"  # Dávila
+  "德 埃格蒙特"  # de Egmont
+  "埃尔卡诺"  # Elcano
+  "埃卢亚尔"  # Elhuyar
+  "费德里克 德 托莱多"  # Fadrique de Toledo
+  "费尔南德斯 德 卡斯特罗"  # Fernández de Castro
+  "费尔南德斯 德 科尔多瓦"  # Fernández de Córdoba
+  "德 菲格罗阿"  # de Figueroa
+  "菲茨 詹姆斯"  # Fitz-James
+  "福克 德 卡多纳"  # Folch de Cardona
+  "丰塞卡"  # Fonseca
+  "加尔维斯"  # Gálvez
+  "戈麦斯"  # Gómez
+  "格拉维纳"  # Gravina
+  "德 格里哈尔瓦"  # de Grijalva
+  "格里马尔迪"  # Grimaldi
+  "德 古兹曼"  # de Guzmán
+  "德 霍韦亚诺斯"  # de Jovellanos
+  "德 雷瓦"  # de Leiva
+  "洛佩斯 德 哈罗"  # Lópe de Haro
+  "曼里克 德 拉罗"  # Manrique de Lara
+  "曼里克 德 韦拉斯科"  # Manrique de Velasco
+  "德 门多萨"  # de Mendoza
+  "德 蒙特卡达"  # de Montcada
+  "努涅斯 德 巴尔波亚"  # Nuñez de Balboa
+  "德 奥赫达"  # de Ojeda
+  "奥雷利亚纳"  # Orellana
+  "奥索里奥"  # Osorio
+  "帕拉福克斯"  # Palafox
+  "帕提诺"  # Patiño
+  "皮门特尔"  # Pimentel
+  "皮萨罗"  # Pizarro
+  "庞塞 德 莱昂"  # Ponce de León
+  "波托卡雷罗"  # Portocarrero
+  "德 雷克塞斯"  # de Requesens
+  "德 利佩达"  # de Ripperdá
+  "德 罗哈斯"  # de Rojas
+  "萨斯特雷"  # Sastre
+  "泰莱斯 希隆"  # Tellez-Girón
+  "德 拉维加"  # de la Vega
+  "德 祖尼加"  # de Zúñiga
 }
 ship_names = {
-    "阿杜纳"  # Aduana
-    "鹰"  # Águila
-    "南特鹰"  # Águila de Nantes
-    "好人何塞法"  # Amable Josefa
-    "好人胡安"  # Amable Juana
-    "好人特蕾莎"  # Amable Teresa
-    "亚历杭德罗一世"  # Alejandro I
-    "慎重者"  # Alerta
-    "阿尔赫西拉斯"  # Algeciras
-    "阿鲁卡地亚"  # Alucadia
-    "阿梅利亚"  # Amelia
-    "阿美利加"  # América
-    "美洲"  # Americana
-    "安菲特里忒"  # Anfítrite
-    "塔里法海军大臣"  # Admiral del Tariffa
-    "阿米斯塔德"  # Amistad
-    "爱国者"  # Amor de la Patria
-    "安菲西恩"  # Anfión
-    "安娜 玛利亚 吉普斯夸"  # Ana María Guipúzcoa
-    "安达卢西亚"  # Andalucía
-    "安达卢西亚湾"  # Andalucía Baia
-    "安达卢西亚人"  # Andaluz
-    "天使守护者"  # Ángel de la Guarda
-    "隐士"  # Anónima
-    "羚羊"  # Antílope
-    "天鹰"  # Aquila
-    "飞鹰"  # Aquila Volante
-    "阿基里斯"  # Aquiles
-    "北方"  # Aquilón
-    "松鼠"  # Ardilla
-    "阿雷图萨"  # Aretusa
-    "亚尔古英雄"  # Argonauta
-    "亚尔古"  # Argos
-    "勇敢者"  # Arrogante
-    "亚洲"  # Asia
-    "星辰少女"  # Astrea
-    "星盘"  # Astrolabio
-    "阿斯图里亚斯"  # Asturias
-    "阿斯图萨拉"  # Astuzzana
-    "亚松森"  # Asunción
-    "亚特兰大"  # Atlante
-    "阿托查"  # Atocha
-    "冒险"  # Atrevida
-    "欧若拉"  # Aurora
-    "上帝的荣光"  # Ave de Gracia
-    "冒险者"  # Aventurero
-    "巴哈马"  # Bahama
-    "拜伦"  # Bailen
-    "探索者"  # Baltidore
-    "巴蒂斯塔"  # Bautista
-    "巴塔多尔"  # Batador
-    "贝拉 卡罗莱纳"  # Bella Carolina
-    "司战女神"  # Bellona
-    "比斯开"  # Viscaya
-    "英勇者"  # Bizarro
-    "飞行者"  # Voladora
-    "圣人耶稣"  # Buen Jesús
-    "布拉干萨"  # Braganza
-    "布拉瓦"  # Brava
-    "光辉"  # Brillante
-    "Brilliano"  # Brilliano
-    "指南针"  # Brújula
-    "好主意"  # Buen Consejo
-    "Buena Dicha"  # Buena Dicha
-    "Burlandín"  # Burlandín
-    "Caballo Blanco"  # Caballo Blanco
-    "Cambi"  # Cambi
-    "Camerara"  # Camerara
-    "Campeón"  # Campeón
-    "Cantabrina"  # Cantabrina
-    "Cantara"  # Cantara
-    "Cantela"  # Cantela
-    "Cántabro"  # Cántabro
-    "Capitana"  # Capitana
-    "Carmen"  # Carmen
-    "Carmen del Rosario"  # Carmen del Rosario
-    "Castilla"  # Castilla
-    "Casualidad"  # Casualidad
-    "Catalán"  # Catalán
-    "Caimán"  # Caimán
-    "Cazador"  # Cazador
-    "Cecilia"  # Cecilia
-    "Celoso"  # Celoso
-    "Censor"  # Censor
-    "Centinela"  # Centinela
-    "Ceres"  # Ceres
-    "Ciudadanía de Mercia"  # Ciudadanía de Mercia
-    "Ciervo"  # Ciervo
-    "Coccila"  # Coccila
-    "哥伦布"  # Colón
-    "Cometa"  # Cometa
-    "Concepción"  # Concepción
-    "Conde de Chican"  # Conde de Chican
-    "Conde de Regia"  # Conde de Regia
-    "Conde de Tolosa"  # Conde de Tolosa
-    "Conquistador"  # Conquistador
-    "Constante"  # Constante
-    "Cornelia"  # Cornelia
-    "Corso"  # Corso
-    "Cortés"  # Cortés
-    "Coruñesa"  # Coruñesa
-    "Cuervo"  # Cuervo
-    "Cuervo Marino"  # Cuervo Marino
-    "Dafne"  # Dafne
-    "Damas"  # Damas
-    "Don Luis Beltrán"  # Don Luis Beltrán
-    "De Bon Vassallo"  # De Bon Vassallo
-    "惊喜"  # De repente Descubierta
-    "无忧"  # Descuite
-    "坚定"  # Determinado
-    "戴安娜"  # Diana
-    "幸福"  # Dichoso
-    "事务官"  # Diligencia
-    "勤勉者"  # Diligente
-    "圣灵之书"  # Divina Pastora
-    "Divina Providencia"  # Divina Providencia
-    "Dolores"  # Dolores
-    "多拉达"  # Dorada
-    "Dos Amigos"  # Dos Amigos
-    "Dragón"  # Dragón
-    "El Atrevido"  # El Atrevido
-    "El Espedarte"  # El Espedarte
-    "El Mestuo la Solidade"  # El Mestuo la Solidade
-    "El Neptuno"  # El Neptuno
-    "El Orely y los Tres Amigos"  # El Orely y los Tres Amigos
-    "El Savador"  # El Savador
-    "Virgen del Carmen"  # Virgen del Carmen
-    "Elise"  # Elise
-    "Elizabet"  # Elizabet
-    "Empresa"  # Empresa
-    "Encantadora"  # Encantadora
-    "Encarnación"  # Encarnación
-    "Eolo"  # Eolo
-    "Escariotte"  # Escariotte
-    "Esmeralda"  # Esmeralda
-    "Espaciosa"  # Espaciosa
-    "España"  # España
-    "Esperanza"  # Esperanza
-    "Estrella"  # Estrella
-    "Estrella del Mar"  # Estrella del Mar
-    "Estrella del Norte"  # Estrella del Norte
-    "Europa"  # Europa
-    "Experimento"  # Experimento
-    "Extremeña"  # Extremeña
-    "Fama"  # Fama
-    "Fama Volante"  # Fama Volante
-    "Felicidad"  # Felicidad
-    "Félix"  # Félix
-    "Fénix"  # Fénix
-    "Ferme"  # Ferme
-    "Fernando VII"  # Fernando VII
-    "Ferrolana"  # Ferrolana
-    "Fidela"  # Fidela
-    "Finisterre"  # Finisterre
-    "Firme"  # Firme
-    "Firmeza"  # Firmeza
-    "Flecha"  # Flecha
-    "Flora"  # Flora
-    "Fuerte"  # Fuerte
-    "Fuerte de Gibraltar"  # Fuerte de Gibraltar
-    "Furia"  # Furia
-    "Galera de España"  # Galera de España
-    "Galera Victoria"  # Galera Victoria
-    "Galga"  # Galga
-    "Galgo de Andalucía"  # Galgo de Andalucía
-    "Galicia"  # Galicia
-    "Gallardo"  # Gallardo
-    "Gallo Indiano"  # Gallo Indiano
-    "Gamo"  # Gamo
-    "Garzota"  # Garzota
-    "Gavilán"  # Gavilán
-    "Genovesa"  # Genovesa
-    "Gibraltar"  # Gibraltar
-    "Giganta"  # Giganta
-    "Gineto"  # Gineto
-    "Gitano"  # Gitano
-    "Gloria"  # Gloria
-    "Glorioso"  # Glorioso
-    "Golondrina"  # Golondrina
-    "Gran Princesa de los Cielos"  # Gran Princesa de los Cielos
-    "Grana"  # Grana
-    "Griega"  # Griega
-    "Guerrero"  # Guerrero
-    "Guipuscoana"  # Guipuscoana
-    "Gusana"  # Gusana
-    "Halcón"  # Halcón
-    "Héctor"  # Héctor
-    "Hércules"  # Hércules
-    "Hermione"  # Hermione
-    "Hermosa Mariana"  # Hermosa Mariana
-    "Héroe"  # Héroe
-    "Hurón"  # Hurón
-    "Hidra"  # Hidra
-    "Iberia"  # Iberia
-    "Ibicenco"  # Ibicenco
-    "Ifigenia"  # Ifigenia
-    "Emperador Alejandro"  # Emperador Alejandro
-    "Impomenes"  # Impomenes
-    "Incendio"  # Incendio
-    "Invencible"  # Invencible
-    "Indagadora"  # Indagadora
-    "Industria"  # Industria
-    "Infanta Amalia"  # Infanta Amalia
-    "Infanta Carlotta"  # Infanta Carlotta
-    "Infante"  # Infante
-    "Infante Don Carlos"  # Infante Don Carlos
-    "Infante Don Pelayo"  # Infante Don Pelayo
-    "Intrépido"  # Intrépido
-    "Iris"  # Iris
-    "Isabel"  # Isabel
-    "Isabel II"  # Isabel II
-    "Isabela"  # Isabela
-    "Jardín de Tritón"  # Jardín de Tritón
-    "Jasón"  # Jasón
-    "José"  # José
-    "Juliana"  # Juliana
-    "Juno"  # Juno
-    "Júpiter"  # Júpiter
-    "Justica"  # Justica
-    "Justina"  # Justina
-    "La Ánimas Sola"  # La Ánimas Sola
-    "La Duquesa"  # La Duquesa
-    "La Ferme"  # La Ferme
-    "Lealtad"  # Lealtad
-    "Lebrel"  # Lebrel
-    "León"  # León
-    "León Coronado"  # León Coronado
-    "Libra"  # Libra
-    "Liebre"  # Liebre
-    "Ligera"  # Ligera
-    "León de Oro"  # León de Oro
-    "Los Dos Azares"  # Los Dos Azares
-    "Los Magalianes"  # Los Magalianes
-    "Luisa"  # Luisa
-    "Luisa Fernanda"  # Luisa Fernanda
-    "Ntra. Sra. Del Pueblo"  # Ntra. Sra. Del Pueblo
-    "Mágica"  # Mágica
-    "Magnánimo"  # Magnánimo
-    "Mahonesa"  # Mahonesa
-    "Mallorquín"  # Mallorquín
-    "Malta"  # Malta
-    "María"  # María
-    "María Francisca"  # María Francisca
-    "María Isabel"  # María Isabel
-    "Marte"  # Marte
-    "Mazerredo"  # Mazerredo
-    "Medea"  # Medea
-    "Medusa"  # Medusa
-    "Mejicano"  # Mejicano
-    "Menorquín"  # Menorquín
-    "Mercedes"  # Mercedes
-    "Mercurio"  # Mercurio
-    "Minerva"  # Minerva
-    "Minno"  # Minno
-    "Monarca"  # Monarca
-    "Montanes"  # Montanes
-    "Murciano"  # Murciano
-    "Neptuno"  # Neptuno
-    "Neptuno Dios de Las Mares"  # Neptuno Dios de Las Mares
-    "Nereida"  # Nereida
-    "Ntra. Sra. de África"  # Ntra. Sra. de África
-    "Ntra. Sra. de Aranzazú"  # Ntra. Sra. de Aranzazú
-    "Ntra. Sra. de Asunción"  # Ntra. Sra. de Asunción
-    "Ntra. Sra. de Atocha"  # Ntra. Sra. de Atocha
-    "Ntra. Sra. de Begonna"  # Ntra. Sra. de Begonna
-    "Ntra. Sra. de Belén"  # Ntra. Sra. de Belén
-    "Ntra. Sra. de Bignonia"  # Ntra. Sra. de Bignonia
-    "Ntra. Sra. de los Buenos Aires"  # Ntra. Sra. de los Buenos Aires
-    "Ntra. Sra. de Buenos Aires y San Juan Nepumeceno"  # Ntra. Sra. de Buenos Aires y San Juan Nepumeceno
-    "Ntra. Sra. de Choro"  # Ntra. Sra. de Choro
-    "Ntra. Sra. de Covadonga"  # Ntra. Sra. de Covadonga
-    "Ntra. Sra. de Gracia"  # Ntra. Sra. de Gracia
-    "Ntra. Sra. de Guadalupe"  # Ntra. Sra. de Guadalupe
-    "Ntra. Sra. de la Almudena"  # Ntra. Sra. de la Almudena
-    "Ntra. Sra. de la Almudena y San Cayetano"  # Ntra. Sra. de la Almudena y San Cayetano
-    "Ntra. Sra. de la Anunciación"  # Ntra. Sra. de la Anunciación
-    "Ntra. Sra. de la Candelaria"  # Ntra. Sra. de la Candelaria
-    "Ntra. Sra. de la Caridad"  # Ntra. Sra. de la Caridad
-    "Ntra. Sra. de la Concepción"  # Ntra. Sra. de la Concepción
-    "Ntra. Sra. de la Concepción y las Ánimas"  # Ntra. Sra. de la Concepción y las Ánimas
-    "Ntra. Sra. de la Esclavitud"  # Ntra. Sra. de la Esclavitud
-    "Ntra. Sra. de la Guía"  # Ntra. Sra. de la Guía
-    "Ntra. Sra. de la O"  # Ntra. Sra. de la O
-    "Ntra. Sra. de la Paz"  # Ntra. Sra. de la Paz
-    "Ntra. Sra. de la Piedad"  # Ntra. Sra. de la Piedad
-    "Ntra. Sra. de la Presentación"  # Ntra. Sra. de la Presentación
-    "Ntra. Sra. de la Soledad"  # Ntra. Sra. de la Soledad
-    "Ntra. Sra. de las Mercedes"  # Ntra. Sra. de las Mercedes
-    "Ntra. Sra. de las Vinas"  # Ntra. Sra. de las Vinas
-    "Ntra. Sra. de Loreto"  # Ntra. Sra. de Loreto
-    "Ntra. Sra. de los Dolores"  # Ntra. Sra. de los Dolores
-    "Ntra. Sra. de l'Oves"  # Ntra. Sra. de l'Oves
-    "Ntra. Sra. de Misericordia"  # Ntra. Sra. de Misericordia
-    "Ntra. Sra. de Oilar"  # Ntra. Sra. de Oilar
-    "Ntra. Sra. de Regia"  # Ntra. Sra. de Regia
-    "Ntra. Sra. del Carmen"  # Ntra. Sra. del Carmen
-    "Ntra. Sra. del Carmen la Confianza"  # Ntra. Sra. del Carmen la Confianza
-    "Ntra. Sra. del Carmen y las Ánimas"  # Ntra. Sra. del Carmen y las Ánimas
-    "Ntra. Sra. del Carmen y San Antonio"  # Ntra. Sra. del Carmen y San Antonio
-    "Ntra. Sra. del Carmino"  # Ntra. Sra. del Carmino
-    "Ntra. Sra. del Corlylas"  # Ntra. Sra. del Corlylas
-    "Ntra. Sra. de la Humildad"  # Ntra. Sra. de la Humildad
-    "Ntra. Sra. del Pilar"  # Ntra. Sra. del Pilar
-    "Ntra. Sra. del Pilar y Ánimas"  # Ntra. Sra. del Pilar y Ánimas
-    "Ntra. Sra.del Puerto San Buenaventura"  # Ntra. Sra.del Puerto San Buenaventura
-    "Ntra. Sra. del Pueblo"  # Ntra. Sra. del Pueblo
-    "Ntra. Sra. del Rosario"  # Ntra. Sra. del Rosario
-    "Ntra. Sra. y San José"  # Ntra. Sra. y San José
-    "Nueva África"  # Nueva África
-    "Nueva España"  # Nueva España
-    "Nuevo Invencible"  # Nuevo Invencible
-    "Numancia"  # Numancia
-    "Oriente"  # Oriente
-    "Orquijo"  # Orquijo
-    "Pacto de Familia"  # Pacto de Familia
-    "Palas"  # Palas
-    "Paloma India"  # Paloma India
-    "Palomo"  # Palomo
-    "Patagón"  # Patagón
-    "Patriota"  # Patriota
-    "Patrona"  # Patrona
-    "Paz"  # Paz
-    "Pena"  # Pena
-    "Peñada"  # Peñada
-    "Peregrina"  # Peregrina
-    "Perfecta"  # Perfecta
-    "Perla"  # Perla
-    "Perla Vizcaína"  # Perla Vizcaína
-    "Perla de España"  # Perla de España
-    "Peruano"  # Peruano
-    "Pezuela"  # Pezuela
-    "Pinque Pintado"  # Pinque Pintado
-    "Pinque Volante"  # Pinque Volante
-    "Piuma"  # Piuma
-    "Poder"  # Poder
-    "Poderoso"  # Poderoso
-    "Porto Coeli"  # Porto Coeli
-    "Posta de Caraccas"  # Posta de Caraccas
-    "Postillon"  # Postillon
-    "Potencia"  # Potencia
-    "Preciosa"  # Preciosa
-    "Princesa de la Paix"  # Princesa de la Paix
-    "Principe"  # Principe
-    "Principe de Asturias"  # Principe de Asturias
-    "Principe de la Paz"  # Principe de la Paz
-    "Principe Eugenio"  # Principe Eugenio
-    "Pronta"  # Pronta
-    "Proserpina"  # Proserpina
-    "Providencia"  # Providencia
-    "Prudencia"  # Prudencia
-    "Prueba"  # Prueba
-    "Puertorriqueño"  # Puertorriqueño
-    "Purísima Concepción"  # Purísima Concepción
-    "Quijote"  # Quijote
-    "Raposa"  # Raposa
-    "Rayo"  # Rayo
-    "Real Carlos"  # Real Carlos
-    "Real Familia"  # Real Familia
-    "Real Felipe"  # Real Felipe
-    "Real Fénix"  # Real Fénix
-    "Real Jorge"  # Real Jorge
-    "Real Mari"  # Real Mari
-    "Rebeca"  # Rebeca
-    "Reina"  # Reina
-    "Reina Doña Isabel II"  # Reina Doña Isabel II
-    "Reina Luisa"  # Reina Luisa
-    "Reina María Cristina"  # Reina María Cristina
-    "Reina María Isabel"  # Reina María Isabel
-    "Resolución"  # Resolución
-    "Restauración"  # Restauración
-    "Retiro"  # Retiro
-    "Rey Don Francisco de Asís"  # Rey Don Francisco de Asís
-    "Ritta"  # Ritta
-    "Rosario"  # Rosario
-    "Rubí"  # Rubí
-    "Sacra Familia"  # Sacra Familia
-    "Saeta"  # Saeta
-    "Salvador"  # Salvador
-    "Salvador del Mundo"  # Salvador del Mundo
-    "San Alejandro"  # San Alejandro
-    "San Andrés"  # San Andrés
-    "San Antonio"  # San Antonio
-    "San Antonio de Padua"  # San Antonio de Padua
-    "San Antonio y Ánimas"  # San Antonio y Ánimas
-    "San Antonio y Ánimas la Fortuna"  # San Antonio y Ánimas la Fortuna
-    "San Augustín"  # San Augustín
-    "San Bernando"  # San Bernando
-    "San Blas"  # San Blas
-    "San Bruno"  # San Bruno
-    "San Carlos"  # San Carlos
-    "San Cayetano"  # San Cayetano
-    "San Cristo"  # San Cristo
-    "San Cristo del Paldo"  # San Cristo del Paldo
-    "San Cristo y Portal"  # San Cristo y Portal
-    "San Christophe"  # San Christophe
-    "San Cristobal"  # San Cristobal
-    "San Dámaso"  # San Dámaso
-    "San Diego"  # San Diego
-    "San Dimas"  # San Dimas
-    "San Elmo"  # San Elmo
-    "San Eloy"  # San Eloy
-    "San Esteban"  # San Esteban
-    "San Esteban Apedrado"  # San Esteban Apedrado
-    "San Eugenio"  # San Eugenio
-    "San Felipe"  # San Felipe
-    "San Felipe Apostol"  # San Felipe Apostol
-    "San Félix de Cantalicio"  # San Félix de Cantalicio
-    "San Félix de Castilla"  # San Félix de Castilla
-    "San Félix de Socorro"  # San Félix de Socorro
-    "San Fermín"  # San Fermín
-    "San Fernando"  # San Fernando
-    "San Fernando el Chico"  # San Fernando el Chico
-    "San Foit"  # San Foit
-    "San Francisco"  # San Francisco
-    "San Francisco de Asís"  # San Francisco de Asís
-    "San Francisco de Borja"  # San Francisco de Borja
-    "San Francisco de Paula"  # San Francisco de Paula
-    "San Francisco Javier"  # San Francisco Javier
-    "San Francisco la Panla"  # San Francisco la Panla
-    "San Francisco Xavier"  # San Francisco Xavier
-    "San Francisco y San Antonio de Padua"  # San Francisco y San Antonio de Padua
-    "San Fulgencio"  # San Fulgencio
-    "San Gabriel"  # San Gabriel
-    "San Genaro"  # San Genaro
-    "San Germán"  # San Germán
-    "San Gibilan"  # San Gibilan
-    "San Giovanni"  # San Giovanni
-    "San Gregorio"  # San Gregorio
-    "San Hermenegildo"  # San Hermenegildo
-    "San Idefonso"  # San Idefonso
-    "San Ignacio"  # San Ignacio
-    "San Isidoro"  # San Isidoro
-    "San Isidro"  # San Isidro
-    "San Jenaro"  # San Jenaro
-    "San Jerónimo"  # San Jerónimo
-    "San Joaquin"  # San Joaquin
-    "San Jorge"  # San Jorge
-    "San José"  # San José
-    "San José el África"  # San José el África
-    "San José"  # San José
-    "San José de Victoria"  # San José de Victoria
-    "San José y Ánimas"  # San José y Ánimas
-    "San Juan"  # San Juan
-    "San Juan Bautista"  # San Juan Bautista
-    "San Juan de Pomosana"  # San Juan de Pomosana
-    "San Juan el Chico"  # San Juan el Chico
-    "San Juan Evangelista"  # San Juan Evangelista
-    "San Juan Nepomuceno"  # San Juan Nepomuceno
-    "San Julián"  # San Julián
-    "San Justo"  # San Justo
-    "San Lauren"  # San Lauren
-    "San Leandro"  # San Leandro
-    "San León"  # San León
-    "San Lino"  # San Lino
-    "圣洛伦佐"  # San Lorenzo
-    "San Luis"  # San Luis
-    "San Luis Beltrán"  # San Luis Beltrán
-    "San Luis Gonzaga"  # San Luis Gonzaga
-    "San Marcos"  # San Marcos
-    "San Martín"  # San Martín
-    "San Mateo"  # San Mateo
-    "San Miguel"  # San Miguel
-    "San Miguel el Volante"  # San Miguel el Volante
-    "San Miguel y Acandoa"  # San Miguel y Acandoa
-    "San Narciso"  # San Narciso
-    "San Nicolás"  # San Nicolás
-    "San Nicolás de Bari"  # San Nicolás de Bari
-    "San Noberta"  # San Noberta
-    "San Pablo"  # San Pablo
-    "San Pacora"  # San Pacora
-    "San Pascual Bailón"  # San Pascual Bailón
-    "San Pedro"  # San Pedro
-    "San Pedro Apostol"  # San Pedro Apostol
-    "San Pedro de Alcántara"  # San Pedro de Alcántara
-    "San Pedro y Ánimas"  # San Pedro y Ánimas
-    "San Pedro y Fransisco"  # San Pedro y Fransisco
-    "San Pío"  # San Pío
-    "San Rafael"  # San Rafael
-    "San Raymundo"  # San Raymundo
-    "圣拉蒙"  # San Ramón
-    "San Rosendo"  # San Rosendo
-    "San Salvator"  # San Salvator
-    "圣塞巴斯蒂安"  # San Sebastián
-    "San Sebastián y las Ánimas"  # San Sebastián y las Ánimas
-    "San Telmo"  # San Telmo
-    "San Trinidad y Joroe"  # San Trinidad y Joroe
-    "San Vicente Ferrer"  # San Vicente Ferrer
-    "San Vincente"  # San Vincente
-    "San Yago a Horcajadas"  # San Yago a Horcajadas
-    "San Zenón"  # San Zenón
-    "Sancta Justa Rufina"  # Sancta Justa Rufina
-    "Sanguineto"  # Sanguineto
-    "Santa Amalia"  # Santa Amalia
-    "Santa Ana"  # Santa Ana
-    "Santa Bárbara"  # Santa Bárbara
-    "Santa Bibiana"  # Santa Bibiana
-    "Santa Brigida"  # Santa Brigida
-    "Santa Casilda"  # Santa Casilda
-    "Santa Catalina"  # Santa Catalina
-    "Santa Cecilia"  # Santa Cecilia
-    "Santa Clara"  # Santa Clara
-    "Santa Cruz"  # Santa Cruz
-    "Santa Dorotea"  # Santa Dorotea
-    "Santa Elena"  # Santa Elena
-    "Santa Escolástica"  # Santa Escolástica
-    "Santa Familia"  # Santa Familia
-    "Santa Florentina"  # Santa Florentina
-    "Santa Gertrudis"  # Santa Gertrudis
-    "Santa Inés"  # Santa Inés
-    "Santa Isabel"  # Santa Isabel
-    "Santa Jose y Ntra. Sra. de Begoyna"  # Santa Jose y Ntra. Sra. de Begoyna
-    "Santa Justa"  # Santa Justa
-    "Santa Leocadia"  # Santa Leocadia
-    "Santa Levivate y Aniiniums"  # Santa Levivate y Aniiniums
-    "Santa Lucía"  # Santa Lucía
-    "Santa Magdalena"  # Santa Magdalena
-    "Santa Margarita"  # Santa Margarita
-    "Santa María"  # Santa María
-    "Santa María de la Cabeza"  # Santa María de la Cabeza
-    "Santa María de Tezanos y las Ánimas"  # Santa María de Tezanos y las Ánimas
-    "Santa María Magdalena"  # Santa María Magdalena
-    "Santa Marta"  # Santa Marta
-    "Santa Matilda"  # Santa Matilda
-    "Santa Mónica"  # Santa Mónica
-    "Santa Natalia"  # Santa Natalia
-    "Santa Paula"  # Santa Paula
-    "Santa Perpetua"  # Santa Perpetua
-    "Santa Rita"  # Santa Rita
-    "Santa Rosa"  # Santa Rosa
-    "Santa Rosalía"  # Santa Rosalía
-    "Santa Rosalía de Palermo"  # Santa Rosalía de Palermo
-    "Santa Rosalía Golondrina"  # Santa Rosalía Golondrina
-    "Santa Rufina"  # Santa Rufina
-    "Santa Sabina"  # Santa Sabina
-    "Santa Susana"  # Santa Susana
-    "Santa Tecla"  # Santa Tecla
-    "Santa Teresa"  # Santa Teresa
-    "Santa Teresa"  # Santa Teresa
-    "Santa Teresa de Jesús"  # Santa Teresa de Jesús
-    "Santa Teresa de Nápoles"  # Santa Teresa de Nápoles
-    "Santa Victoria"  # Santa Victoria
-    "Santa Isabel"  # Santa Isabel
-    "Santiago"  # Santiago
-    "Santiago Apostol"  # Santiago Apostol
-    "Santiago de América"  # Santiago de América
-    "Santísima Trinidad"  # Santísima Trinidad
-    "Santísima Trinidad y Ntra. Sra. del Buen Fin"  # Santísima Trinidad y Ntra. Sra. del Buen Fin
-    "Santísimo Sacramento"  # Santísimo Sacramento
-    "Cristo de San Román"  # Cristo de San Román
-    "Santo Domingo"  # Santo Domingo
-    "Santo Tomás"  # Santo Tomás
-    "Santo Toribio de Mogrobejo"  # Santo Toribio de Mogrobejo
-    "Sebastiana"  # Sebastiana
-    "Segunda Amistad"  # Segunda Amistad
-    "Selerais"  # Selerais
-    "Señora Sara"  # Señora Sara
-    "Septentrión"  # Septentrión
-    "Serio"  # Serio
-    "Serpadón"  # Serpadón
-    "Severno"  # Severno
-    "Sevillana"  # Sevillana
-    "Sirena"  # Sirena
-    "Soberano"  # Soberano
-    "Soberbio"  # Soberbio
-    "Sorpresa"  # Sorpresa
-    "Susana"  # Susana
-    "Teresa"  # Teresa
-    "Terrible"  # Terrible
-    "Tetis"  # Tetis
-    "Tigre"  # Tigre
-    "Tomás y María"  # Tomás y María
-    "Travela"  # Travela
-    "Tridente"  # Tridente
-    "Trinidad"  # Trinidad
-    "Triunfante"  # Triunfante
-    "Triunfo"  # Triunfo
-    "Unicornio"  # Unicornio
-    "Valenciano"  # Valenciano
-    "Valiente"  # Valiente
-    "Velasco"  # Velasco
-    "Veloz"  # Veloz
-    "Veloz Pasajero"  # Veloz Pasajero
-    "Vencendor"  # Vencendor
-    "Vengador"  # Vengador
-    "Venganza"  # Venganza
-    "Ventura"  # Ventura
-    "Venus"  # Venus
-    "Victoria"  # Victoria
-    "Victorioso"  # Victorioso
-    "Vigilante"  # Vigilante
-    "Villa de Bilbao"  # Villa de Bilbao
-    "Vincejo"  # Vincejo
-    "Virgen de Soledad"  # Virgen de Soledad
-    "Virgen del Carmen"  # Virgen del Carmen
-    "Virgen del Rosario"  # Virgen del Rosario
-    "Viva"  # Viva
-    "Viváz"  # Viváz
-    "Vivo"  # Vivo
-    "Volador"  # Volador
-    "Volante"  # Volante
-    "Volario"  # Volario
+  "阿杜纳"  # Aduana
+  "鹰"  # Águila
+  "南特鹰"  # Águila de Nantes
+  "好人何塞法"  # Amable Josefa
+  "好人胡安"  # Amable Juana
+  "好人特蕾莎"  # Amable Teresa
+  "亚历杭德罗一世"  # Alejandro I
+  "慎重者"  # Alerta
+  "阿尔赫西拉斯"  # Algeciras
+  "阿鲁卡地亚"  # Alucadia
+  "阿梅利亚"  # Amelia
+  "阿美利加"  # América
+  "美洲"  # Americana
+  "安菲特里忒"  # Anfítrite
+  "塔里法海军大臣"  # Admiral del Tariffa
+  "阿米斯塔德"  # Amistad
+  "爱国者"  # Amor de la Patria
+  "安菲西恩"  # Anfión
+  "安娜 玛利亚 吉普斯夸"  # Ana María Guipúzcoa
+  "安达卢西亚"  # Andalucía
+  "安达卢西亚湾"  # Andalucía Baia
+  "安达卢西亚人"  # Andaluz
+  "天使守护者"  # Ángel de la Guarda
+  "隐士"  # Anónima
+  "羚羊"  # Antílope
+  "天鹰"  # Aquila
+  "飞鹰"  # Aquila Volante
+  "阿基里斯"  # Aquiles
+  "北方"  # Aquilón
+  "松鼠"  # Ardilla
+  "阿雷图萨"  # Aretusa
+  "亚尔古英雄"  # Argonauta
+  "亚尔古"  # Argos
+  "勇敢者"  # Arrogante
+  "亚洲"  # Asia
+  "星辰少女"  # Astrea
+  "星盘"  # Astrolabio
+  "阿斯图里亚斯"  # Asturias
+  "阿斯图萨拉"  # Astuzzana
+  "亚松森"  # Asunción
+  "亚特兰大"  # Atlante
+  "阿托查"  # Atocha
+  "冒险"  # Atrevida
+  "欧若拉"  # Aurora
+  "上帝的荣光"  # Ave de Gracia
+  "冒险者"  # Aventurero
+  "巴哈马"  # Bahama
+  "拜伦"  # Bailen
+  "探索者"  # Baltidore
+  "巴蒂斯塔"  # Bautista
+  "巴塔多尔"  # Batador
+  "贝拉 卡罗莱纳"  # Bella Carolina
+  "司战女神"  # Bellona
+  "比斯开"  # Viscaya
+  "英勇者"  # Bizarro
+  "飞行者"  # Voladora
+  "圣人耶稣"  # Buen Jesús
+  "布拉干萨"  # Braganza
+  "布拉瓦"  # Brava
+  "光辉"  # Brillante
+  "Brilliano"
+  "指南针"  # Brújula
+  "好主意"  # Buen Consejo
+  "Buena Dicha"
+  "Burlandín"
+  "Caballo Blanco"
+  "Cambi"
+  "Camerara"
+  "Campeón"
+  "Cantabrina"
+  "Cantara"
+  "Cantela"
+  "Cántabro"
+  "Capitana"
+  "Carmen"
+  "Carmen del Rosario"
+  "Castilla"
+  "Casualidad"
+  "Catalán"
+  "Caimán"
+  "Cazador"
+  "Cecilia"
+  "Celoso"
+  "Censor"
+  "Centinela"
+  "Ceres"
+  "Ciudadanía de Mercia"
+  "Ciervo"
+  "Coccila"
+  "哥伦布"  # Colón
+  "Cometa"
+  "Concepción"
+  "Conde de Chican"
+  "Conde de Regia"
+  "Conde de Tolosa"
+  "Conquistador"
+  "Constante"
+  "Cornelia"
+  "Corso"
+  "Cortés"
+  "Coruñesa"
+  "Cuervo"
+  "Cuervo Marino"
+  "Dafne"
+  "Damas"
+  "Don Luis Beltrán"
+  "De Bon Vassallo"
+  "惊喜"  # De repente Descubierta
+  "无忧"  # Descuite
+  "坚定"  # Determinado
+  "戴安娜"  # Diana
+  "幸福"  # Dichoso
+  "事务官"  # Diligencia
+  "勤勉者"  # Diligente
+  "圣灵之书"  # Divina Pastora
+  "Divina Providencia"
+  "Dolores"
+  "多拉达"  # Dorada
+  "Dos Amigos"
+  "Dragón"
+  "El Atrevido"
+  "El Espedarte"
+  "El Mestuo la Solidade"
+  "El Neptuno"
+  "El Orely y los Tres Amigos"
+  "El Savador"
+  "Virgen del Carmen"
+  "Elise"
+  "Elizabet"
+  "Empresa"
+  "Encantadora"
+  "Encarnación"
+  "Eolo"
+  "Escariotte"
+  "Esmeralda"
+  "Espaciosa"
+  "España"
+  "Esperanza"
+  "Estrella"
+  "Estrella del Mar"
+  "Estrella del Norte"
+  "Europa"
+  "Experimento"
+  "Extremeña"
+  "Fama"
+  "Fama Volante"
+  "Felicidad"
+  "Félix"
+  "Fénix"
+  "Ferme"
+  "Fernando VII"
+  "Ferrolana"
+  "Fidela"
+  "Finisterre"
+  "Firme"
+  "Firmeza"
+  "Flecha"
+  "Flora"
+  "Fuerte"
+  "Fuerte de Gibraltar"
+  "Furia"
+  "Galera de España"
+  "Galera Victoria"
+  "Galga"
+  "Galgo de Andalucía"
+  "Galicia"
+  "Gallardo"
+  "Gallo Indiano"
+  "Gamo"
+  "Garzota"
+  "Gavilán"
+  "Genovesa"
+  "Gibraltar"
+  "Giganta"
+  "Gineto"
+  "Gitano"
+  "Gloria"
+  "Glorioso"
+  "Golondrina"
+  "Gran Princesa de los Cielos"
+  "Grana"
+  "Griega"
+  "Guerrero"
+  "Guipuscoana"
+  "Gusana"
+  "Halcón"
+  "Héctor"
+  "Hércules"
+  "Hermione"
+  "Hermosa Mariana"
+  "Héroe"
+  "Hurón"
+  "Hidra"
+  "Iberia"
+  "Ibicenco"
+  "Ifigenia"
+  "Emperador Alejandro"
+  "Impomenes"
+  "Incendio"
+  "Invencible"
+  "Indagadora"
+  "Industria"
+  "Infanta Amalia"
+  "Infanta Carlotta"
+  "Infante"
+  "Infante Don Carlos"
+  "Infante Don Pelayo"
+  "Intrépido"
+  "Iris"
+  "Isabel"
+  "Isabel II"
+  "Isabela"
+  "Jardín de Tritón"
+  "Jasón"
+  "José"
+  "Juliana"
+  "Juno"
+  "Júpiter"
+  "Justica"
+  "Justina"
+  "La Ánimas Sola"
+  "La Duquesa"
+  "La Ferme"
+  "Lealtad"
+  "Lebrel"
+  "León"
+  "León Coronado"
+  "Libra"
+  "Liebre"
+  "Ligera"
+  "León de Oro"
+  "Los Dos Azares"
+  "Los Magalianes"
+  "Luisa"
+  "Luisa Fernanda"
+  "Ntra. Sra. Del Pueblo"
+  "Mágica"
+  "Magnánimo"
+  "Mahonesa"
+  "Mallorquín"
+  "Malta"
+  "María"
+  "María Francisca"
+  "María Isabel"
+  "Marte"
+  "Mazerredo"
+  "Medea"
+  "Medusa"
+  "Mejicano"
+  "Menorquín"
+  "Mercedes"
+  "Mercurio"
+  "Minerva"
+  "Minno"
+  "Monarca"
+  "Montanes"
+  "Murciano"
+  "Neptuno"
+  "Neptuno Dios de Las Mares"
+  "Nereida"
+  "Ntra. Sra. de África"
+  "Ntra. Sra. de Aranzazú"
+  "Ntra. Sra. de Asunción"
+  "Ntra. Sra. de Atocha"
+  "Ntra. Sra. de Begonna"
+  "Ntra. Sra. de Belén"
+  "Ntra. Sra. de Bignonia"
+  "Ntra. Sra. de los Buenos Aires"
+  "Ntra. Sra. de Buenos Aires y San Juan Nepumeceno"
+  "Ntra. Sra. de Choro"
+  "Ntra. Sra. de Covadonga"
+  "Ntra. Sra. de Gracia"
+  "Ntra. Sra. de Guadalupe"
+  "Ntra. Sra. de la Almudena"
+  "Ntra. Sra. de la Almudena y San Cayetano"
+  "Ntra. Sra. de la Anunciación"
+  "Ntra. Sra. de la Candelaria"
+  "Ntra. Sra. de la Caridad"
+  "Ntra. Sra. de la Concepción"
+  "Ntra. Sra. de la Concepción y las Ánimas"
+  "Ntra. Sra. de la Esclavitud"
+  "Ntra. Sra. de la Guía"
+  "Ntra. Sra. de la O"
+  "Ntra. Sra. de la Paz"
+  "Ntra. Sra. de la Piedad"
+  "Ntra. Sra. de la Presentación"
+  "Ntra. Sra. de la Soledad"
+  "Ntra. Sra. de las Mercedes"
+  "Ntra. Sra. de las Vinas"
+  "Ntra. Sra. de Loreto"
+  "Ntra. Sra. de los Dolores"
+  "Ntra. Sra. de l'Oves"
+  "Ntra. Sra. de Misericordia"
+  "Ntra. Sra. de Oilar"
+  "Ntra. Sra. de Regia"
+  "Ntra. Sra. del Carmen"
+  "Ntra. Sra. del Carmen la Confianza"
+  "Ntra. Sra. del Carmen y las Ánimas"
+  "Ntra. Sra. del Carmen y San Antonio"
+  "Ntra. Sra. del Carmino"
+  "Ntra. Sra. del Corlylas"
+  "Ntra. Sra. de la Humildad"
+  "Ntra. Sra. del Pilar"
+  "Ntra. Sra. del Pilar y Ánimas"
+  "Ntra. Sra.del Puerto San Buenaventura"
+  "Ntra. Sra. del Pueblo"
+  "Ntra. Sra. del Rosario"
+  "Ntra. Sra. y San José"
+  "Nueva África"
+  "Nueva España"
+  "Nuevo Invencible"
+  "Numancia"
+  "Oriente"
+  "Orquijo"
+  "Pacto de Familia"
+  "Palas"
+  "Paloma India"
+  "Palomo"
+  "Patagón"
+  "Patriota"
+  "Patrona"
+  "Paz"
+  "Pena"
+  "Peñada"
+  "Peregrina"
+  "Perfecta"
+  "Perla"
+  "Perla Vizcaína"
+  "Perla de España"
+  "Peruano"
+  "Pezuela"
+  "Pinque Pintado"
+  "Pinque Volante"
+  "Piuma"
+  "Poder"
+  "Poderoso"
+  "Porto Coeli"
+  "Posta de Caraccas"
+  "Postillon"
+  "Potencia"
+  "Preciosa"
+  "Princesa de la Paix"
+  "Principe"
+  "Principe de Asturias"
+  "Principe de la Paz"
+  "Principe Eugenio"
+  "Pronta"
+  "Proserpina"
+  "Providencia"
+  "Prudencia"
+  "Prueba"
+  "Puertorriqueño"
+  "Purísima Concepción"
+  "Quijote"
+  "Raposa"
+  "Rayo"
+  "Real Carlos"
+  "Real Familia"
+  "Real Felipe"
+  "Real Fénix"
+  "Real Jorge"
+  "Real Mari"
+  "Rebeca"
+  "Reina"
+  "Reina Doña Isabel II"
+  "Reina Luisa"
+  "Reina María Cristina"
+  "Reina María Isabel"
+  "Resolución"
+  "Restauración"
+  "Retiro"
+  "Rey Don Francisco de Asís"
+  "Ritta"
+  "Rosario"
+  "Rubí"
+  "Sacra Familia"
+  "Saeta"
+  "Salvador"
+  "Salvador del Mundo"
+  "San Alejandro"
+  "San Andrés"
+  "San Antonio"
+  "San Antonio de Padua"
+  "San Antonio y Ánimas"
+  "San Antonio y Ánimas la Fortuna"
+  "San Augustín"
+  "San Bernando"
+  "San Blas"
+  "San Bruno"
+  "San Carlos"
+  "San Cayetano"
+  "San Cristo"
+  "San Cristo del Paldo"
+  "San Cristo y Portal"
+  "San Christophe"
+  "San Cristobal"
+  "San Dámaso"
+  "San Diego"
+  "San Dimas"
+  "San Elmo"
+  "San Eloy"
+  "San Esteban"
+  "San Esteban Apedrado"
+  "San Eugenio"
+  "San Felipe"
+  "San Felipe Apostol"
+  "San Félix de Cantalicio"
+  "San Félix de Castilla"
+  "San Félix de Socorro"
+  "San Fermín"
+  "San Fernando"
+  "San Fernando el Chico"
+  "San Foit"
+  "San Francisco"
+  "San Francisco de Asís"
+  "San Francisco de Borja"
+  "San Francisco de Paula"
+  "San Francisco Javier"
+  "San Francisco la Panla"
+  "San Francisco Xavier"
+  "San Francisco y San Antonio de Padua"
+  "San Fulgencio"
+  "San Gabriel"
+  "San Genaro"
+  "San Germán"
+  "San Gibilan"
+  "San Giovanni"
+  "San Gregorio"
+  "San Hermenegildo"
+  "San Idefonso"
+  "San Ignacio"
+  "San Isidoro"
+  "San Isidro"
+  "San Jenaro"
+  "San Jerónimo"
+  "San Joaquin"
+  "San Jorge"
+  "San José"
+  "San José el África"
+  "San José"
+  "San José de Victoria"
+  "San José y Ánimas"
+  "San Juan"
+  "San Juan Bautista"
+  "San Juan de Pomosana"
+  "San Juan el Chico"
+  "San Juan Evangelista"
+  "San Juan Nepomuceno"
+  "San Julián"
+  "San Justo"
+  "San Lauren"
+  "San Leandro"
+  "San León"
+  "San Lino"
+  "圣洛伦佐"  # San Lorenzo
+  "San Luis"
+  "San Luis Beltrán"
+  "San Luis Gonzaga"
+  "San Marcos"
+  "San Martín"
+  "San Mateo"
+  "San Miguel"
+  "San Miguel el Volante"
+  "San Miguel y Acandoa"
+  "San Narciso"
+  "San Nicolás"
+  "San Nicolás de Bari"
+  "San Noberta"
+  "San Pablo"
+  "San Pacora"
+  "San Pascual Bailón"
+  "San Pedro"
+  "San Pedro Apostol"
+  "San Pedro de Alcántara"
+  "San Pedro y Ánimas"
+  "San Pedro y Fransisco"
+  "San Pío"
+  "San Rafael"
+  "San Raymundo"
+  "圣拉蒙"  # San Ramón
+  "San Rosendo"
+  "San Salvator"
+  "圣塞巴斯蒂安"  # San Sebastián
+  "San Sebastián y las Ánimas"
+  "San Telmo"
+  "San Trinidad y Joroe"
+  "San Vicente Ferrer"
+  "San Vincente"
+  "San Yago a Horcajadas"
+  "San Zenón"
+  "Sancta Justa Rufina"
+  "Sanguineto"
+  "Santa Amalia"
+  "Santa Ana"
+  "Santa Bárbara"
+  "Santa Bibiana"
+  "Santa Brigida"
+  "Santa Casilda"
+  "Santa Catalina"
+  "Santa Cecilia"
+  "Santa Clara"
+  "Santa Cruz"
+  "Santa Dorotea"
+  "Santa Elena"
+  "Santa Escolástica"
+  "Santa Familia"
+  "Santa Florentina"
+  "Santa Gertrudis"
+  "Santa Inés"
+  "Santa Isabel"
+  "Santa Jose y Ntra. Sra. de Begoyna"
+  "Santa Justa"
+  "Santa Leocadia"
+  "Santa Levivate y Aniiniums"
+  "Santa Lucía"
+  "Santa Magdalena"
+  "Santa Margarita"
+  "Santa María"
+  "Santa María de la Cabeza"
+  "Santa María de Tezanos y las Ánimas"
+  "Santa María Magdalena"
+  "Santa Marta"
+  "Santa Matilda"
+  "Santa Mónica"
+  "Santa Natalia"
+  "Santa Paula"
+  "Santa Perpetua"
+  "Santa Rita"
+  "Santa Rosa"
+  "Santa Rosalía"
+  "Santa Rosalía de Palermo"
+  "Santa Rosalía Golondrina"
+  "Santa Rufina"
+  "Santa Sabina"
+  "Santa Susana"
+  "Santa Tecla"
+  "Santa Teresa"
+  "Santa Teresa"
+  "Santa Teresa de Jesús"
+  "Santa Teresa de Nápoles"
+  "Santa Victoria"
+  "Santa Isabel"
+  "Santiago"
+  "Santiago Apostol"
+  "Santiago de América"
+  "Santísima Trinidad"
+  "Santísima Trinidad y Ntra. Sra. del Buen Fin"
+  "Santísimo Sacramento"
+  "Cristo de San Román"
+  "Santo Domingo"
+  "Santo Tomás"
+  "Santo Toribio de Mogrobejo"
+  "Sebastiana"
+  "Segunda Amistad"
+  "Selerais"
+  "Señora Sara"
+  "Septentrión"
+  "Serio"
+  "Serpadón"
+  "Severno"
+  "Sevillana"
+  "Sirena"
+  "Soberano"
+  "Soberbio"
+  "Sorpresa"
+  "Susana"
+  "Teresa"
+  "Terrible"
+  "Tetis"
+  "Tigre"
+  "Tomás y María"
+  "Travela"
+  "Tridente"
+  "Trinidad"
+  "Triunfante"
+  "Triunfo"
+  "Unicornio"
+  "Valenciano"
+  "Valiente"
+  "Velasco"
+  "Veloz"
+  "Veloz Pasajero"
+  "Vencendor"
+  "Vengador"
+  "Venganza"
+  "Ventura"
+  "Venus"
+  "Victoria"
+  "Victorioso"
+  "Vigilante"
+  "Villa de Bilbao"
+  "Vincejo"
+  "Virgen de Soledad"
+  "Virgen del Carmen"
+  "Virgen del Rosario"
+  "Viva"
+  "Viváz"
+  "Vivo"
+  "Volador"
+  "Volante"
+  "Volario"
 }
 army_names = {
-    "Guardia Real"  # Guardia Real
-    "$PROVINCE$军"  # Ejército de $PROVINCE$
+  "Guardia Real"
+  "$PROVINCE$军"  # Ejército de $PROVINCE$
 }
 fleet_names = {
-    "Armada Real"  # Armada Real
-    "$PROVINCE$舰队"  # Flota de $PROVINCE$
+  "Armada Real""Flota de $PROVINCE$"
 }

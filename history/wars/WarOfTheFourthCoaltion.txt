@@ -1,230 +1,230 @@
 ﻿name = "第四次反法同盟战争"  # War of the Fourth Coalition
 war_goal = {
-    type = take_capital_revolution
-    casus_belli = cb_crush_the_revolution
-    tag = FRA
+  type = take_capital_revolution
+  casus_belli = cb_crush_the_revolution
+  tag = FRA
 }
 1805.12.27 = {
-    add_defender = FRA
-    add_defender = ETR
-    add_defender = NED
-    add_defender = SWI
-    add_defender = ITA
-    add_defender = SPA
-    add_attacker = GBR
-    add_attacker = RUS
-    add_attacker = RAG
-    add_attacker = SWE
-    add_attacker = NAP
+  add_defender = FRA
+  add_defender = ETR
+  add_defender = NED
+  add_defender = SWI
+  add_defender = ITA
+  add_defender = SPA
+  add_attacker = GBR
+  add_attacker = RUS
+  add_attacker = RAG
+  add_attacker = SWE
+  add_attacker = NAP
 }
 1806.3.11 = {
-    add_attacker = SIC
-    rem_attacker = NAP
+  add_attacker = SIC
+  rem_attacker = NAP
 }
 1806.7.4 = {
-    battle = {
-        name = "梅达"  # Maida
-        location = 123
-        attacker = {
-            commander = "约翰斯图亚特"  # John Stuart
-            infantry = 5100
-            losses = 1
-            country = GBR
-        }
-        defender = {
-            commander = "雷尼尔"  # Reynier
-            infantry = 7000
-            losses = 10
-            country = FRA
-        }
-        result = yes
+  battle = {
+    name = "梅达"  # Maida
+    location = 123
+    attacker = {
+      commander = "约翰斯图亚特"  # John Stuart
+      infantry = 5100
+      losses = 1
+      country = GBR
     }
+    defender = {
+      commander = "雷尼尔"  # Reynier
+      infantry = 7000
+      losses = 10
+      country = FRA
+    }
+    result = yes
+  }
 }
 1806.7.25 = {
-    add_defender = BAV
-    add_defender = BAD
-    add_defender = HES
-    add_defender = ANH
-    add_defender = WUR
+  add_defender = BAV
+  add_defender = BAD
+  add_defender = HES
+  add_defender = ANH
+  add_defender = WUR
 }
 1806.8.26 = {
-    add_attacker = PRU
-    add_attacker = SAX
+  add_attacker = PRU
+  add_attacker = SAX
 }
 1806.9.15 = {
-    add_defender = WBG
+  add_defender = WBG
 }
 1806.10.10 = {
-    battle = {
-        name = "萨尔费尔德"  # Saalfeld
-        location = 62
-        attacker = {
-            commander = "约翰斯图亚特"  # John Stuart
-            infantry = 8000
-            losses = 5
-            country = GBR
-        }
-        defender = {
-            commander = "路易斐迪南"  # Louis Ferdinand
-            infantry = 12000
-            artillery = 15
-            losses = 2
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "萨尔费尔德"  # Saalfeld
+    location = 62
+    attacker = {
+      commander = "约翰斯图亚特"  # John Stuart
+      infantry = 8000
+      losses = 5
+      country = GBR
     }
+    defender = {
+      commander = "路易斐迪南"  # Louis Ferdinand
+      infantry = 12000
+      artillery = 15
+      losses = 2
+      country = FRA
+    }
+    result = no
+  }
 }
 1806.10.14 = {
-    battle = {
-        name = "耶拿-奥厄施泰特"  # Jena-Auerstedt
-        location = 62
-        attacker = {
-            commander = "卡尔 威廉 费迪南"  # Karl Wilhelm Ferdinand
-            infantry = 115000
-            losses = 33
-            country = PRU
-        }
-        defender = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 100000
-            losses = 12
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "耶拿-奥厄施泰特"  # Jena-Auerstedt
+    location = 62
+    attacker = {
+      commander = "卡尔 威廉 费迪南"  # Karl Wilhelm Ferdinand
+      infantry = 115000
+      losses = 33
+      country = PRU
     }
+    defender = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 100000
+      losses = 12
+      country = FRA
+    }
+    result = no
+  }
 }
 1806.12.11 = {
-    rem_attacker = SAX
-    add_defender = SAX
+  rem_attacker = SAX
+  add_defender = SAX
 }
 1806.12.15 = {
-    add_defender = MKL
+  add_defender = MKL
 }
 1806.12.26 = {
-    battle = {
-        name = "哥利曼"  # Golymin
-        location = 257
-        attacker = {
-            commander = "德米特里 戈利岑"  # Dmitriy Golitsyn
-            infantry = 35000
-            artillery = 128
-            losses = 14
-            country = RUS
-        }
-        defender = {
-            commander = "若阿尚·缪拉"  # Joachim Murat
-            infantry = 25000
-            losses = 28
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "哥利曼"  # Golymin
+    location = 257
+    attacker = {
+      commander = "德米特里 戈利岑"  # Dmitriy Golitsyn
+      infantry = 35000
+      artillery = 128
+      losses = 14
+      country = RUS
     }
+    defender = {
+      commander = "若阿尚·缪拉"  # Joachim Murat
+      infantry = 25000
+      losses = 28
+      country = FRA
+    }
+    result = no
+  }
 }
 1806.12.26 = {
-    battle = {
-        name = "普图茨克"  # Pultusk
-        location = 257
-        attacker = {
-            commander = "德米特里 弗拉基米洛维奇 戈利岑"  # Dmitriy Vladimirovich Golitsyn
-            infantry = 18000
-            losses = 4
-            country = RUS
-        }
-        defender = {
-            commander = "若阿尚·缪拉"  # Joachim Murat
-            infantry = 38000
-            losses = 2
-            country = FRA
-        }
-        result = yes
+  battle = {
+    name = "普图茨克"  # Pultusk
+    location = 257
+    attacker = {
+      commander = "德米特里 弗拉基米洛维奇 戈利岑"  # Dmitriy Vladimirovich Golitsyn
+      infantry = 18000
+      losses = 4
+      country = RUS
     }
+    defender = {
+      commander = "若阿尚·缪拉"  # Joachim Murat
+      infantry = 38000
+      losses = 2
+      country = FRA
+    }
+    result = yes
+  }
 }
 1807.2.7 = {
-    battle = {
-        name = "埃劳"  # Eylau
-        location = 42
-        attacker = {
-            commander = "莱昂蒂 莱昂蒂耶维奇 本尼格森"  # Levin August Theophil
-            infantry = 67000
-            artillery = 450
-            losses = 38
-            country = RUS
-        }
-        defender = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 45000
-            artillery = 200
-            losses = 55
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "埃劳"  # Eylau
+    location = 42
+    attacker = {
+      commander = "莱昂蒂 莱昂蒂耶维奇 本尼格森"  # Levin August Theophil
+      infantry = 67000
+      artillery = 450
+      losses = 38
+      country = RUS
     }
+    defender = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 45000
+      artillery = 200
+      losses = 55
+      country = FRA
+    }
+    result = no
+  }
 }
 1807.5.18 = {
-    rem_attacker = SWE
+  rem_attacker = SWE
 }
 1807.6.10 = {
-    battle = {
-        name = "海尔斯堡"  # Heilsberg
-        location = 42
-        attacker = {
-            commander = "莱昂蒂 莱昂蒂耶维奇 本尼格森"  # Levin August Theophil
-            infantry = 115000
-            losses = 7
-            country = RUS
-        }
-        defender = {
-            commander = "若阿尚·缪拉"  # Joachim Murat
-            infantry = 220000
-            losses = 5
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "海尔斯堡"  # Heilsberg
+    location = 42
+    attacker = {
+      commander = "莱昂蒂 莱昂蒂耶维奇 本尼格森"  # Levin August Theophil
+      infantry = 115000
+      losses = 7
+      country = RUS
     }
+    defender = {
+      commander = "若阿尚·缪拉"  # Joachim Murat
+      infantry = 220000
+      losses = 5
+      country = FRA
+    }
+    result = no
+  }
 }
 1807.6.14 = {
-    battle = {
-        name = "弗里德兰"  # Friedland
-        location = 42
-        attacker = {
-            commander = "莱昂蒂 莱昂蒂耶维奇 本尼格森"  # Levin August Theophil
-            infantry = 60000
-            artillery = 120
-            losses = 33
-            country = RUS
-        }
-        defender = {
-            commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
-            infantry = 80000
-            artillery = 120
-            losses = 10
-            country = FRA
-        }
-        result = no
+  battle = {
+    name = "弗里德兰"  # Friedland
+    location = 42
+    attacker = {
+      commander = "莱昂蒂 莱昂蒂耶维奇 本尼格森"  # Levin August Theophil
+      infantry = 60000
+      artillery = 120
+      losses = 33
+      country = RUS
     }
+    defender = {
+      commander = "拿破仑 波拿巴"  # Napoléon Bonaparte
+      infantry = 80000
+      artillery = 120
+      losses = 10
+      country = FRA
+    }
+    result = no
+  }
 }
 1807.7.7 = {
-    rem_attacker = RUS
+  rem_attacker = RUS
 }
 1807.7.9 = {
-    rem_attacker = PRU
+  rem_attacker = PRU
 }
 1807.10.24 = {
-    rem_attacker = GBR
-    rem_attacker = SIC
-    rem_attacker = RAG
-    rem_defender = FRA
-    rem_defender = ETR
-    rem_defender = BAV
-    rem_defender = BAD
-    rem_defender = HES
-    rem_defender = ANH
-    rem_defender = WUR
-    rem_defender = WBG
-    rem_defender = SAX
-    rem_defender = MKL
-    rem_defender = SPA
-    rem_defender = NED
-    rem_defender = SWI
-    rem_defender = ITA
+  rem_attacker = GBR
+  rem_attacker = SIC
+  rem_attacker = RAG
+  rem_defender = FRA
+  rem_defender = ETR
+  rem_defender = BAV
+  rem_defender = BAD
+  rem_defender = HES
+  rem_defender = ANH
+  rem_defender = WUR
+  rem_defender = WBG
+  rem_defender = SAX
+  rem_defender = MKL
+  rem_defender = SPA
+  rem_defender = NED
+  rem_defender = SWI
+  rem_defender = ITA
 }

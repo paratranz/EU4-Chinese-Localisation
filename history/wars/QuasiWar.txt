@@ -1,13 +1,13 @@
 ﻿name = "美法准战争"  # Quasi War
 war_goal = {
-    type = superiority_trade_mutual
-    casus_belli = cb_trade_war
+  type = superiority_trade_mutual
+  casus_belli = cb_trade_war
 }
 1798.7.7 = {
-    add_attacker = USA
-    add_defender = FRA
+  add_attacker = USA
+  add_defender = FRA
 }
 1800.9.30 = {
-    rem_attacker = USA
-    rem_defender = FRA
+  rem_attacker = USA
+  rem_defender = FRA
 }

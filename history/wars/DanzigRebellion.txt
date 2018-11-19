@@ -1,14 +1,14 @@
 ﻿name = "但泽叛乱"  # Danzig Rebellion
 war_goal = {
-    type = take_core_defection
-    casus_belli = cb_defection
-    province = 43
+  type = take_core_defection
+  casus_belli = cb_defection
+  province = 43
 }
 1576.6.1 = {
-    add_attacker = PLC
-    add_defender = DNZ
+  add_attacker = PLC
+  add_defender = DNZ
 }
 1577.6.13 = {
-    rem_attacker = PLC
-    rem_defender = DNZ
+  rem_attacker = PLC
+  rem_defender = DNZ
 }

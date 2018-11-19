@@ -1,14 +1,14 @@
 ﻿name = "卡提阿瓦之战"  # Kathiawari War
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 503
+  type = take_core
+  casus_belli = cb_core
+  province = 503
 }
 1468.1.1 = {
-    add_attacker = GUJ
-    add_defender = KAT
+  add_attacker = GUJ
+  add_defender = KAT
 }
 1470.1.1 = {
-    rem_attacker = GUJ
-    rem_defender = KAT
+  rem_attacker = GUJ
+  rem_defender = KAT
 }

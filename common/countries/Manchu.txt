@@ -1,179 +1,179 @@
 ﻿graphical_culture = asiangfx
 color = {
-    165
-    132
-    57
+  165
+  132
+  57
 }
 historical_idea_groups = {
-    administrative_ideas
-    humanist_ideas
-    trade_ideas
-    quantity_ideas
-    offensive_ideas
-    expansion_ideas
-    economic_ideas
-    defensive_ideas
+  administrative_ideas
+  humanist_ideas
+  trade_ideas
+  quantity_ideas
+  offensive_ideas
+  expansion_ideas
+  economic_ideas
+  defensive_ideas
 }
 historical_units = {
-    steppe_riders
-    steppe_lancers
-    steppe_mounted_raiders
-    steppe_cavalry
-    steppe_uhlans
-    steppe_raiders
-    steppe_footmen
-    steppe_musketeers
-    steppe_infantry
-    steppe_rifles
-    reformed_steppe_rifles
+  steppe_riders
+  steppe_lancers
+  steppe_mounted_raiders
+  steppe_cavalry
+  steppe_uhlans
+  steppe_raiders
+  steppe_footmen
+  steppe_musketeers
+  steppe_infantry
+  steppe_rifles
+  reformed_steppe_rifles
 }
 monarch_names = {
-    "Oori #0" = 0
-    "Zhenghu #0" = 0
-    "Zhengrong #0" = 0
-    "Zhongcheng #0" = 0
-    "Zhongchun #0" = 0
-    "布库里雍顺 #1" = 10  # Bukuri Yongson #1
-    "都督孟特穆 #1" = 10  # Dudu Mengtemu #1
-    "充善 #0" = 10  # Cungsan #0
-    "妥罗 #0" = 10  # Tolo #0
-    "锡宝齐篇古 #0" = 10  # Sibeoci Fiyanggu #0
-    "福满 #0" = 10  # Fuman #0
-    "觉昌安 #0" = 10  # Giocangga #0
-    "塔克世 #0" = 20  # Taksi #0
-    "努尔哈赤 #0" = 20  # Nurhachi #0
-    "皇太极 #0" = 20  # Huang Taiji #0
-    "多尔衮 #0" = 10  # Dorgon #0
-    "豪格 #0" = 10  # Hooge #0
-    "福临 #0" = 20  # Fulin #0
-    "玄烨 #0" = 20  # Hiowan Yei #0
-    "胤禛 #0" = 20  # In Jen #0
-    "弘历 #0" = 20  # Hung Li #0
-    "颙琰 #0" = 20  # Yong Yan #0
-    "旻宁 #0" = 20  # Min Ning #0
-    "凡察 #0" = 10  # Fanca #0
-    "胡格尔 #0" = 10  # Hoogle #0
-    "胤禔 #0" = 10  # Yinzhi #0
-    "胤礽 #0" = 10  # Yinreng #0
-    "胤禵 #0" = 10  # Yinti #0
-    "代善 #0" = 5  # Daisan #0
-    "阿巴泰 #0" = 5  # Abatai #0
-    "阿济格 #0" = 5  # Ajige #0
-    "多铎 #0" = 5  # Dodo #0
-    "胤祥 #0" = 5  # Yinxiang #0
-    "胤禩 #0" = 5  # Yinsi #0
-    "胤禟 #0" = 5  # Yintang #0
-    "弘时 #0" = 5  # Hongshi #0
-    "弘昼 #0" = 5  # Hongzhou #0
-    "永琪 #0" = 5  # Yongqi #0
-    "和静 #0" = -5  # Hejing #0
-    "和嘉 #0" = -5  # Hejia #0
-    "和孝 #0" = -5  # Hexiao #0
-    "庄静 #0" = -5  # Zhuangjing #0
-    "阿克占 #0" = 0  # Akjan #0
-    "阿彦 #0" = 0  # Ayan #0
-    "宝琥 #0" = 0  # Baohu #0
-    "承钧 #0" = 0  # Chengjun #0
-    "多尔济德 #0" = 0  # Dorgide #0
-    "额哲 #0" = 0  # Eje #0
-    "恩彻亨 #0" = 0  # Encehen #0
-    "费馨 #0" = 0  # Fisin #0
-    "福禄 #0" = 0  # Fulu #0
-    "甘勇 #0" = 0  # Ganyong #0
-    "甘瞻 #0" = 0  # Ganzhan #0
-    "乎容 #0" = 0  # Hurong #0
-    "札布善 #0" = 0  # Jabsan #0
-    "札克丹 #0" = 0  # Jakdan #0
-    "乐礼 #0" = 0  # Leli #0
-    "乐仪 #0" = 0  # Liyi #0
-    "隆 #0" = 10  # Lung #0
-    "墨尔根 #0" = 0  # Mergen #0
-    "穆都利 #0" = 0  # Muduri #0
-    "牧瑾 #0" = 0  # Mujin #0
-    "剌迪 #0" = 0  # Radi #0
-    "塔克图 #0" = 0  # Talman #0
-    "邬黑 #0" = 0  # Wehe #0
-    "耶律 #0" = 0  # Yelu #0
-    "永逸 #0" = 0  # Yongyi #0
-    "章格 #0" = 0  # Zhanhung #0
-    "仲垕 #0" = 0  # Zhongho #0
-    "仲虎 #0" = 0  # Zhonghu #0
-    "仲珲 #0" = 0  # Zhonghung #0
-    "仲谦 #0" = 0  # Zongqian #0
-    "仲先 #0" = 0  # Zhongxian #0
-    "仲雍 #0" = 0  # Zhongyong #0
-    "钟毓 #0" = 0  # Zhongyu #0
-    "汾 #0" = -1  # Fen #0
-    "季安 #0" = -1  # Jian #0
-    "温 #0" = -1  # Wen #0
+  "Oori #0" = 0
+  "Zhenghu #0" = 0
+  "Zhengrong #0" = 0
+  "Zhongcheng #0" = 0
+  "Zhongchun #0" = 0
+  "布库里雍顺 #1" = 10  # Bukuri Yongson #1
+  "都督孟特穆 #1" = 10  # Dudu Mengtemu #1
+  "充善 #0" = 10  # Cungsan #0
+  "妥罗 #0" = 10  # Tolo #0
+  "锡宝齐篇古 #0" = 10  # Sibeoci Fiyanggu #0
+  "福满 #0" = 10  # Fuman #0
+  "觉昌安 #0" = 10  # Giocangga #0
+  "塔克世 #0" = 20  # Taksi #0
+  "努尔哈赤 #0" = 20  # Nurhachi #0
+  "皇太极 #0" = 20  # Huang Taiji #0
+  "多尔衮 #0" = 10  # Dorgon #0
+  "豪格 #0" = 10  # Hooge #0
+  "福临 #0" = 20  # Fulin #0
+  "玄烨 #0" = 20  # Hiowan Yei #0
+  "胤禛 #0" = 20  # In Jen #0
+  "弘历 #0" = 20  # Hung Li #0
+  "颙琰 #0" = 20  # Yong Yan #0
+  "旻宁 #0" = 20  # Min Ning #0
+  "凡察 #0" = 10  # Fanca #0
+  "胡格尔 #0" = 10  # Hoogle #0
+  "胤禔 #0" = 10  # Yinzhi #0
+  "胤礽 #0" = 10  # Yinreng #0
+  "胤禵 #0" = 10  # Yinti #0
+  "代善 #0" = 5  # Daisan #0
+  "阿巴泰 #0" = 5  # Abatai #0
+  "阿济格 #0" = 5  # Ajige #0
+  "多铎 #0" = 5  # Dodo #0
+  "胤祥 #0" = 5  # Yinxiang #0
+  "胤禩 #0" = 5  # Yinsi #0
+  "胤禟 #0" = 5  # Yintang #0
+  "弘时 #0" = 5  # Hongshi #0
+  "弘昼 #0" = 5  # Hongzhou #0
+  "永琪 #0" = 5  # Yongqi #0
+  "和静 #0" = -5  # Hejing #0
+  "和嘉 #0" = -5  # Hejia #0
+  "和孝 #0" = -5  # Hexiao #0
+  "庄静 #0" = -5  # Zhuangjing #0
+  "阿克占 #0" = 0  # Akjan #0
+  "阿彦 #0" = 0  # Ayan #0
+  "宝琥 #0" = 0  # Baohu #0
+  "承钧 #0" = 0  # Chengjun #0
+  "多尔济德 #0" = 0  # Dorgide #0
+  "额哲 #0" = 0  # Eje #0
+  "恩彻亨 #0" = 0  # Encehen #0
+  "费馨 #0" = 0  # Fisin #0
+  "福禄 #0" = 0  # Fulu #0
+  "甘勇 #0" = 0  # Ganyong #0
+  "甘瞻 #0" = 0  # Ganzhan #0
+  "乎容 #0" = 0  # Hurong #0
+  "札布善 #0" = 0  # Jabsan #0
+  "札克丹 #0" = 0  # Jakdan #0
+  "乐礼 #0" = 0  # Leli #0
+  "乐仪 #0" = 0  # Liyi #0
+  "隆 #0" = 10  # Lung #0
+  "墨尔根 #0" = 0  # Mergen #0
+  "穆都利 #0" = 0  # Muduri #0
+  "牧瑾 #0" = 0  # Mujin #0
+  "剌迪 #0" = 0  # Radi #0
+  "塔克图 #0" = 0  # Talman #0
+  "邬黑 #0" = 0  # Wehe #0
+  "耶律 #0" = 0  # Yelu #0
+  "永逸 #0" = 0  # Yongyi #0
+  "章格 #0" = 0  # Zhanhung #0
+  "仲垕 #0" = 0  # Zhongho #0
+  "仲虎 #0" = 0  # Zhonghu #0
+  "仲珲 #0" = 0  # Zhonghung #0
+  "仲谦 #0" = 0  # Zongqian #0
+  "仲先 #0" = 0  # Zhongxian #0
+  "仲雍 #0" = 0  # Zhongyong #0
+  "钟毓 #0" = 0  # Zhongyu #0
+  "汾 #0" = -1  # Fen #0
+  "季安 #0" = -1  # Jian #0
+  "温 #0" = -1  # Wen #0
 }
 leader_names = {
-    "爱新觉罗"  # Aisin Gioro
-    "爱新觉罗"  # Aisin Gioro
-    "爱新觉罗"  # Aisin Gioro
-    "爱新觉罗"  # Aisin Gioro
-    "爱新觉罗"  # Aisin Gioro
-    "爱新觉罗"  # Aisin Gioro
-    "爱新觉罗"  # Aisin Gioro
-    "爱新觉罗"  # Aisin Gioro
-    "爱新觉罗"  # Aisin Gioro
-    "爱新觉罗"  # Aisin Gioro
-    "瑷珲"  # Aihui
-    "阿拉克塔"  # Arakta
-    "拜察"  # Baica
-    "博都哩"  # Boduri
-    "彻穆衮"  # Cemgun
-    "齐布齐努特"  # Cibukinut
-    "达佳"  # Dagiya
-    "佟佳"  # Donggiya
-    "鄂绰罗"  # Ecolo
-    "额尔吉"  # Ergi
-    "费雅"  # Feiya
-    "富塔"  # Futa
-    "精奇哩"  # Gingciri
-    "吉悌"  # Git
-    "赫佳"  # Hegiya
-    "赫舍里"  # Heseri
-    "洛"  # Io
-    "伊尔根觉罗"  # Irgen Gioro
-    "查库塔"  # Jakuta
-    "朱尔克"  # Jurk
-    "克叶哷"  # Keyere
-    "奎车里克"  # Kuicelik
-    "勒第"  # Ledi
-    "陆"  # Lu
-    "马佳"  # Magiya
-    "谟克拖"  # Moketo
-    "那木图"  # Namutu
-    "钮祜禄"  # Niohuru
-    "潘"  # Pan
-    "婆"  # Po
-    "饶"  # Rao
-    "鲁布哩"  # Ruburi
-    "姒"  # Si
-    "索绰罗"  # Socoro
-    "泰楚特"  # Taicut
-    "涂格敦"  # Tukdun
-    U
-    "乌拉"  # Ula
-    "王"  # Wang
-    "翁吉特"  # Wenggit
-    "严"  # Yan
-    "叶赫"  # Yehe
+  "爱新觉罗"  # Aisin Gioro
+  "爱新觉罗"  # Aisin Gioro
+  "爱新觉罗"  # Aisin Gioro
+  "爱新觉罗"  # Aisin Gioro
+  "爱新觉罗"  # Aisin Gioro
+  "爱新觉罗"  # Aisin Gioro
+  "爱新觉罗"  # Aisin Gioro
+  "爱新觉罗"  # Aisin Gioro
+  "爱新觉罗"  # Aisin Gioro
+  "爱新觉罗"  # Aisin Gioro
+  "瑷珲"  # Aihui
+  "阿拉克塔"  # Arakta
+  "拜察"  # Baica
+  "博都哩"  # Boduri
+  "彻穆衮"  # Cemgun
+  "齐布齐努特"  # Cibukinut
+  "达佳"  # Dagiya
+  "佟佳"  # Donggiya
+  "鄂绰罗"  # Ecolo
+  "额尔吉"  # Ergi
+  "费雅"  # Feiya
+  "富塔"  # Futa
+  "精奇哩"  # Gingciri
+  "吉悌"  # Git
+  "赫佳"  # Hegiya
+  "赫舍里"  # Heseri
+  "洛"  # Io
+  "伊尔根觉罗"  # Irgen Gioro
+  "查库塔"  # Jakuta
+  "朱尔克"  # Jurk
+  "克叶哷"  # Keyere
+  "奎车里克"  # Kuicelik
+  "勒第"  # Ledi
+  "陆"  # Lu
+  "马佳"  # Magiya
+  "谟克拖"  # Moketo
+  "那木图"  # Namutu
+  "钮祜禄"  # Niohuru
+  "潘"  # Pan
+  "婆"  # Po
+  "饶"  # Rao
+  "鲁布哩"  # Ruburi
+  "姒"  # Si
+  "索绰罗"  # Socoro
+  "泰楚特"  # Taicut
+  "涂格敦"  # Tukdun
+  U
+  "乌拉"  # Ula
+  "王"  # Wang
+  "翁吉特"  # Wenggit
+  "严"  # Yan
+  "叶赫"  # Yehe
 }
 ship_names = {
-    "爱新觉罗"  # Aisin Gioro
-    "钮祜禄"  # Niuhuru
-    "叶赫那拉"  # Yehenala
-    "赫舍里"  # Heseri
-    "乌雅"  # Uya
-    "万琉哈"  # Waliuha
-    "章佳"  # Janggiya
-    "瓜尔佳"  # Guwalgiya
-    "佟佳"  # Tunggiya
-    "马佳"  # Magiya
-    "哈达"  # Hata
-    "乌拉"  # Ula
-    "辉发"  # Huifa
-    "海西"  # Haixi
+  "爱新觉罗"  # Aisin Gioro
+  "钮祜禄"  # Niuhuru
+  "叶赫那拉"  # Yehenala
+  "赫舍里"  # Heseri
+  "乌雅"  # Uya
+  "万琉哈"  # Waliuha
+  "章佳"  # Janggiya
+  "瓜尔佳"  # Guwalgiya
+  "佟佳"  # Tunggiya
+  "马佳"  # Magiya
+  "哈达"  # Hata
+  "乌拉"  # Ula
+  "辉发"  # Huifa
+  "海西"  # Haixi
 }

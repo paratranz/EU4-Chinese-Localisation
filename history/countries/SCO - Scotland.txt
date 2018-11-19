@@ -6,405 +6,405 @@ religion = catholic
 technology_group = western
 capital = 248
 1390.1.1 = {
-    monarch = {
-        name = "罗伯特 III"  # Robert III
-        dynasty = "斯图亚特"  # Stuart
-        adm = 1
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "罗伯特 III"  # Robert III
+    dynasty = "斯图亚特"  # Stuart
+    adm = 1
+    dip = 2
+    mil = 2
+  }
 }
 1394.12.10 = {
-    heir = {
-        name = "詹姆斯"  # James
-        monarch_name = "詹姆斯 I"  # James I
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1394.12.10
-        death_date = 1437.2.21
-        claim = 95
-        adm = 3
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "詹姆斯"  # James
+    monarch_name = "詹姆斯 I"  # James I
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1394.12.10
+    death_date = 1437.2.21
+    claim = 95
+    adm = 3
+    dip = 1
+    mil = 2
+  }
 }
 1400.12.24 = {
-    leader = {
-        name = "阿奇博尔德 道格拉斯"  # Archibald Douglas
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1424.8.17
-    }
+  leader = {
+    name = "阿奇博尔德 道格拉斯"  # Archibald Douglas
+    Douglas"type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1424.8.17
+  }
 }
 1406.1.1 = {
-    monarch = {
-        name = "詹姆斯 I"  # James I
-        dynasty = "斯图亚特"  # Stuart
-        adm = 3
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "詹姆斯 I"  # James I
+    dynasty = "斯图亚特"  # Stuart
+    adm = 3
+    dip = 1
+    mil = 2
+  }
 }
 1430.10.16 = {
-    heir = {
-        name = "詹姆斯"  # James
-        monarch_name = "詹姆斯 II"  # James II
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1430.10.16
-        death_date = 1460.8.3
-        claim = 95
-        adm = 3
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "詹姆斯"  # James
+    monarch_name = "詹姆斯 II"  # James II
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1430.10.16
+    death_date = 1460.8.3
+    claim = 95
+    adm = 3
+    dip = 2
+    mil = 2
+  }
 }
 1437.2.20 = {
-    monarch = {
-        name = "詹姆斯 II"  # James II
-        dynasty = "斯图亚特"  # Stuart
-        adm = 3
-        dip = 2
-        mil = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = righteous_personality
+  monarch = {
+    name = "詹姆斯 II"  # James II
+    dynasty = "斯图亚特"  # Stuart
+    adm = 3
+    dip = 2
+    mil = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = righteous_personality
 }
 1449.7.3 = {
-    queen = {
-        country_of_origin = GEL
-        name = "玛丽"  # Mary
-        dynasty = "范 埃赫蒙德"  # van Egmond
-        birth_date = 1434.1.1
-        death_date = 1460.8.3
-        female = yes
-        adm = 3
-        dip = 3
-        mil = 2
-    }
+  queen = {
+    country_of_origin = GEL
+    name = "玛丽"  # Mary
+    dynasty = "范 埃赫蒙德"  # van Egmond
+    birth_date = 1434.1.1
+    death_date = 1460.8.3
+    female = yes
+    adm = 3
+    dip = 3
+    mil = 2
+  }
 }
 1451.7.10 = {
-    heir = {
-        name = "詹姆斯"  # James
-        monarch_name = "詹姆斯 III"  # James III
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1451.7.10
-        death_date = 1488.6.11
-        claim = 95
-        adm = 0
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "詹姆斯"  # James
+    monarch_name = "詹姆斯 III"  # James III
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1451.7.10
+    death_date = 1488.6.11
+    claim = 95
+    adm = 0
+    dip = 2
+    mil = 2
+  }
 }
 1460.8.3 = {
-    monarch = {
-        name = "詹姆斯 III"  # James III
-        dynasty = "斯图亚特"  # Stuart
-        adm = 0
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "詹姆斯 III"  # James III
+    dynasty = "斯图亚特"  # Stuart
+    adm = 0
+    dip = 2
+    mil = 2
+  }
 }
 1473.3.17 = {
-    heir = {
-        name = "詹姆斯"  # James
-        monarch_name = "詹姆斯 IV"  # James IV
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1473.3.17
-        death_date = 1513.9.9
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 1
-        leader = {
-            name = "詹姆斯 IV"  # James IV
-            type = general
-            fire = 1
-            shock = 3
-            manuever = 2
-            siege = 0
-        }
+  heir = {
+    name = "詹姆斯"  # James
+    monarch_name = "詹姆斯 IV"  # James IV
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1473.3.17
+    death_date = 1513.9.9
+    claim = 95
+    adm = 3
+    dip = 4
+    mil = 1
+    leader = {
+      name = "詹姆斯 IV"  # James IV
+      IV"type = "
+      generalfire = "
+      1shock = "
+      3manuever = "
+      2siege = 0
     }
+  }
 }
 1488.6.12 = {
-    monarch = {
-        name = "詹姆斯 IV"  # James IV
-        dynasty = "斯图亚特"  # Stuart
-        adm = 3
-        dip = 4
-        mil = 1
-        leader = {
-            name = "詹姆斯 IV"  # James IV
-            type = general
-            fire = 1
-            shock = 3
-            manuever = 2
-            siege = 0
-        }
+  monarch = {
+    name = "詹姆斯 IV"  # James IV
+    dynasty = "斯图亚特"  # Stuart
+    adm = 3
+    dip = 4
+    mil = 1
+    leader = {
+      name = "詹姆斯 IV"  # James IV
+      IV"type = "
+      generalfire = "
+      1shock = "
+      3manuever = "
+      2siege = 0
     }
+  }
 }
 1512.4.10 = {
-    heir = {
-        name = "詹姆斯"  # James
-        monarch_name = "詹姆斯 V"  # James V
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1512.4.10
-        death_date = 1542.12.14
-        claim = 95
-        adm = 3
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "詹姆斯"  # James
+    monarch_name = "詹姆斯 V"  # James V
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1512.4.10
+    death_date = 1542.12.14
+    claim = 95
+    adm = 3
+    dip = 1
+    mil = 2
+  }
 }
 1513.9.10 = {
-    monarch = {
-        name = "詹姆斯 V"  # James V
-        dynasty = "斯图亚特"  # Stuart
-        adm = 3
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "詹姆斯 V"  # James V
+    dynasty = "斯图亚特"  # Stuart
+    adm = 3
+    dip = 1
+    mil = 2
+  }
 }
 1542.12.8 = {
-    heir = {
-        name = "玛丽"  # Mary
-        monarch_name = "玛丽 I"  # Mary I
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1542.12.8
-        death_date = 1587.2.8
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 3
-        female = yes
-    }
+  heir = {
+    name = "玛丽"  # Mary
+    monarch_name = "玛丽 I"  # Mary I
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1542.12.8
+    death_date = 1587.2.8
+    claim = 95
+    adm = 2
+    dip = 3
+    mil = 3
+    female = yes
+  }
 }
 1542.12.15 = {
-    monarch = {
-        name = "玛丽 I"  # Mary I
-        dynasty = "斯图亚特"  # Stuart
-        adm = 2
-        dip = 3
-        mil = 3
-        female = yes
-    }
+  monarch = {
+    name = "玛丽 I"  # Mary I
+    dynasty = "斯图亚特"  # Stuart
+    adm = 2
+    dip = 3
+    mil = 3
+    female = yes
+  }
 }
 1546.1.1 = {
-    leader = {
-        name = "詹姆斯 汉密尔顿"  # James Hamilton
-        type = general
-        fire = 1
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1569.1.1
-    }
+  leader = {
+    name = "詹姆斯 汉密尔顿"  # James Hamilton
+    type = "
+    generalfire = "
+    1shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1569.1.1
+  }
 }
 1550.1.1 = {
-    leader = {
-        name = "马尔科姆"  # Malcolm
-        type = general
-        fire = 2
-        shock = 4
-        manuever = 2
-        siege = 0
-        death_date = 1595.1.1
-    }
+  leader = {
+    name = "马尔科姆"  # Malcolm
+    type = "
+    generalfire = "
+    2shock = "
+    4manuever = "
+    2siege = "
+    0death_date = 1595.1.1
+  }
 }
 1560.8.1 = {
-    religion = reformed
+  religion = reformed
 }
 1566.6.19 = {
-    heir = {
-        name = "詹姆士"  # James
-        monarch_name = "詹姆斯 VI"  # James VI
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1566.6.19
-        death_date = 1625.3.27
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 4
-    }
+  heir = {
+    name = "詹姆士"  # James
+    monarch_name = "詹姆斯 VI"  # James VI
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1566.6.19
+    death_date = 1625.3.27
+    claim = 95
+    adm = 2
+    dip = 3
+    mil = 4
+  }
 }
 1567.7.15 = {
-    monarch = {
-        name = "詹姆斯 VI"  # James VI
-        dynasty = "斯图亚特"  # Stuart
-        adm = 2
-        dip = 3
-        mil = 4
-    }
+  monarch = {
+    name = "詹姆斯 VI"  # James VI
+    dynasty = "斯图亚特"  # Stuart
+    adm = 2
+    dip = 3
+    mil = 4
+  }
 }
 1567.7.15 = {
-    government = monarchy
-    add_government_reform = autocracy_reform
-    religion = reformed
+  government = monarchy
+  add_government_reform = "
+  autocracy_reformreligion = reformed
 }
 1600.11.19 = {
-    heir = {
-        name = "查尔斯"  # Charles
-        monarch_name = "查尔斯 I"  # Charles I
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1600.11.19
-        death_date = 1649.1.30
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 4
-    }
+  heir = {
+    name = "查尔斯"  # Charles
+    monarch_name = "查尔斯 I"  # Charles I
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1600.11.19
+    death_date = 1649.1.30
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 4
+  }
 }
 1625.3.28 = {
-    monarch = {
-        name = "查尔斯 I"  # Charles I
-        dynasty = "斯图亚特"  # Stuart
-        adm = 2
-        dip = 1
-        mil = 4
-    }
+  monarch = {
+    name = "查尔斯 I"  # Charles I
+    dynasty = "斯图亚特"  # Stuart
+    adm = 2
+    dip = 1
+    mil = 4
+  }
 }
 1630.1.1 = {
-    leader = {
-        name = "詹姆斯 汉密尔顿"  # James Hamilton
-        type = general
-        fire = 1
-        shock = 1
-        manuever = 2
-        siege = 0
-        death_date = 1649.3.9
-    }
+  leader = {
+    name = "詹姆斯 汉密尔顿"  # James Hamilton
+    Hamilton"type = "
+    generalfire = "
+    1shock = "
+    1manuever = "
+    2siege = "
+    0death_date = 1649.3.9
+  }
 }
 1630.5.29 = {
-    heir = {
-        name = "查尔斯"  # Charles
-        monarch_name = "查尔斯 II"  # Charles II
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1630.5.29
-        death_date = 1685.2.6
-        claim = 95
-        adm = 4
-        dip = 3
-        mil = 5
-    }
+  heir = {
+    name = "查尔斯"  # Charles
+    monarch_name = "查尔斯 II"  # Charles II
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1630.5.29
+    death_date = 1685.2.6
+    claim = 95
+    adm = 4
+    dip = 3
+    mil = 5
+  }
 }
 1635.1.1 = {
-    leader = {
-        name = "亚历山大 莱斯利"  # Alexander Leslie
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1651.8.1
-    }
+  leader = {
+    name = "亚历山大 莱斯利"  # Alexander Leslie
+    Leslie"type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    2siege = "
+    0death_date = 1651.8.1
+  }
 }
 1644.1.1 = {
-    leader = {
-        name = "戴维 莱斯利"  # David Leslie
-        type = general
-        fire = 3
-        shock = 4
-        manuever = 3
-        siege = 0
-        death_date = 1650.1.1
-    }
+  leader = {
+    name = "戴维 莱斯利"  # David Leslie
+    Leslie"type = "
+    generalfire = "
+    3shock = "
+    4manuever = "
+    3siege = "
+    0death_date = 1650.1.1
+  }
 }
 1649.1.30 = {
-    monarch = {
-        name = "亚历山大"  # Alexander
-        dynasty = "莱斯利"  # Leslie
-        adm = 4
-        dip = 3
-        mil = 5
-    }
+  monarch = {
+    name = "亚历山大"  # Alexander
+    dynasty = "莱斯利"  # Leslie
+    adm = 4
+    dip = 3
+    mil = 5
+  }
 }
 1660.4.24 = {
-    monarch = {
-        name = "查尔斯 II"  # Charles II
-        dynasty = "斯图亚特"  # Stuart
-        adm = 0
-        dip = 3
-        mil = 3
-        leader = {
-            name = "查理 II"  # Charles II
-            type = general
-            fire = 2
-            shock = 5
-            manuever = 2
-            siege = 0
-        }
+  monarch = {
+    name = "查尔斯 II"  # Charles II
+    dynasty = "斯图亚特"  # Stuart
+    adm = 0
+    dip = 3
+    mil = 3
+    leader = {
+      name = "查理 II"  # Charles II
+      II"type = "
+      generalfire = "
+      2shock = "
+      5manuever = "
+      2siege = 0
     }
+  }
 }
 1660.4.24 = {
-    heir = {
-        name = "詹姆斯"  # James
-        monarch_name = "詹姆斯 VII"  # James VII
-        dynasty = "斯图亚特"  # Stuart
-        birth_date = 1633.10.14
-        death_date = 1701.9.16
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 3
-    }
+  heir = {
+    name = "詹姆斯"  # James
+    monarch_name = "詹姆斯 VII"  # James VII
+    dynasty = "斯图亚特"  # Stuart
+    birth_date = 1633.10.14
+    death_date = 1701.9.16
+    claim = 95
+    adm = 1
+    dip = 3
+    mil = 3
+  }
 }
 1678.1.1 = {
-    leader = {
-        name = "邓迪"  # Dundee
-        type = general
-        fire = 1
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1689.1.1
-    }
+  leader = {
+    name = "邓迪"  # Dundee
+    type = "
+    generalfire = "
+    1shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1689.1.1
+  }
 }
 1685.2.6 = {
-    monarch = {
-        name = "詹姆斯 VII"  # James VII
-        dynasty = "斯图亚特"  # Stuart
-        adm = 1
-        dip = 3
-        mil = 3
-    }
+  monarch = {
+    name = "詹姆斯 VII"  # James VII
+    dynasty = "斯图亚特"  # Stuart
+    adm = 1
+    dip = 3
+    mil = 3
+  }
 }
 1688.2.15 = {
-    monarch = {
-        name = "威廉 III"  # William III
-        dynasty = "范 奥兰治"  # van Oranje
-        adm = 3
-        dip = 5
-        mil = 5
-    }
+  monarch = {
+    name = "威廉 III"  # William III
+    dynasty = "范 奥兰治"  # van Oranje
+    adm = 3
+    dip = 5
+    mil = 5
+  }
 }
 1694.1.1 = {
-    leader = {
-        name = "贝里克"  # Berwick
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1723.1.1
-    }
+  leader = {
+    name = "贝里克"  # Berwick
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1723.1.1
+  }
 }
 1701.9.7 = {
-    monarch = {
-        name = "詹姆斯 VIII"  # James VIII
-        dynasty = "斯图亚特"  # Stuart
-        adm = 3
-        dip = 5
-        mil = 4
-    }
+  monarch = {
+    name = "詹姆斯 VIII"  # James VIII
+    dynasty = "斯图亚特"  # Stuart
+    adm = 3
+    dip = 5
+    mil = 4
+  }
 }
 1702.3.20 = {
-    monarch = {
-        name = "安妮"  # Anne
-        dynasty = "斯图亚特"  # Stuart
-        adm = 3
-        dip = 5
-        mil = 4
-        female = yes
-    }
+  monarch = {
+    name = "安妮"  # Anne
+    dynasty = "斯图亚特"  # Stuart
+    adm = 3
+    dip = 5
+    mil = 4
+    female = yes
+  }
 }

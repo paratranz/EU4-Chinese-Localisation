@@ -1,13 +1,13 @@
 ﻿name = "英法战争"  # Anglo-French War
 war_goal = {
-    type = superiority_insult
-    casus_belli = cb_dishonored_call
+  type = superiority_insult
+  casus_belli = cb_dishonored_call
 }
 1627.3.1 = {
-    add_attacker = ENG
-    add_defender = FRA
+  add_attacker = ENG
+  add_defender = FRA
 }
 1629.4.24 = {
-    rem_attacker = ENG
-    rem_defender = FRA
+  rem_attacker = ENG
+  rem_defender = FRA
 }

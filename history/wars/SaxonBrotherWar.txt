@@ -1,14 +1,14 @@
 ﻿name = "萨克森兄弟之战"  # Sächsischer Bruderkrieg
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = SAX
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = SAX
 }
 1446.1.1 = {
-    add_attacker = THU
-    add_defender = SAX
+  add_attacker = THU
+  add_defender = SAX
 }
 1451.1.27 = {
-    rem_attacker = THU
-    rem_defender = SAX
+  rem_attacker = THU
+  rem_defender = SAX
 }

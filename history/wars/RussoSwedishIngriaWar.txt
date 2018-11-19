@@ -1,14 +1,14 @@
 ﻿name = "俄瑞战争"  # Russo-Swedish War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 33
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 33
 }
 1656.6.1 = {
-    add_attacker = RUS
-    add_defender = SWE
+  add_attacker = RUS
+  add_defender = SWE
 }
 1661.6.21 = {
-    rem_defender = SWE
-    rem_attacker = RUS
+  rem_defender = SWE
+  rem_attacker = RUS
 }

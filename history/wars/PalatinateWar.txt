@@ -1,61 +1,61 @@
 ﻿name = "普法尔茨的战争"  # War in the Palatinate
 war_goal = {
-    type = superiority_heretic
-    casus_belli = cb_heretic
+  type = superiority_heretic
+  casus_belli = cb_heretic
 }
 1620.11.8 = {
-    add_attacker = HAB
-    add_attacker = BAV
-    add_attacker = SPA
-    add_defender = PAL
-    add_defender = BRU
+  add_attacker = HAB
+  add_attacker = BAV
+  add_attacker = SPA
+  add_defender = PAL
+  add_defender = BRU
 }
 1622.5.6 = {
-    battle = {
-        name = "温普芬之战"  # Wimpfen
-        location = 74
-        attacker = {
-            commander = "约翰 策尔卡莱斯 冯 蒂利"  # Johann Tserclaes von Tilly
-            infantry = 15400
-            cavalry = 7000
-            losses = 20
-            country = HAB
-        }
-        defender = {
-            commander = "弗里德里希 冯 巴登"  # Friedrich von Baden
-            infantry = 10200
-            cavalry = 4000
-            losses = 75
-            country = BRU
-        }
-        result = no
+  battle = {
+    name = "温普芬之战"  # Wimpfen
+    location = 74
+    attacker = {
+      commander = "约翰 策尔卡莱斯 冯 蒂利"  # Johann Tserclaes von Tilly
+      infantry = 15400
+      cavalry = 7000
+      losses = 20
+      country = HAB
     }
+    defender = {
+      commander = "弗里德里希 冯 巴登"  # Friedrich von Baden
+      infantry = 10200
+      cavalry = 4000
+      losses = 75
+      country = BRU
+    }
+    result = no
+  }
 }
 1622.6.22 = {
-    battle = {
-        name = "赫希斯特之战"  # Höchst
-        location = 83
-        attacker = {
-            commander = "约翰 策尔卡莱斯 冯 蒂利"  # Johann Tserclaes von Tilly
-            infantry = 16000
-            cavalry = 7000
-            losses = 3
-            country = HAB
-        }
-        defender = {
-            commander = "克里斯蒂安"  # Christian
-            infantry = 4500
-            cavalry = 7000
-            losses = 17
-            country = BRU
-        }
-        result = no
+  battle = {
+    name = "赫希斯特之战"  # Höchst
+    location = 83
+    attacker = {
+      commander = "约翰 策尔卡莱斯 冯 蒂利"  # Johann Tserclaes von Tilly
+      infantry = 16000
+      cavalry = 7000
+      losses = 3
+      country = HAB
     }
+    defender = {
+      commander = "克里斯蒂安"  # Christian
+      infantry = 4500
+      cavalry = 7000
+      losses = 17
+      country = BRU
+    }
+    result = no
+  }
 }
 1623.1.1 = {
-    rem_attacker = HAB
-    rem_attacker = BAV
-    rem_attacker = SPA
-    rem_defender = PAL
-    rem_defender = BRU
+  rem_attacker = HAB
+  rem_attacker = BAV
+  rem_attacker = SPA
+  rem_defender = PAL
+  rem_defender = BRU
 }

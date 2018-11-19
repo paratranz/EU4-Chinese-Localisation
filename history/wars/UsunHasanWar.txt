@@ -1,35 +1,35 @@
 ﻿name = "黑白羊之战"  # War of the Black and White Sheep
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 416
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 416
 }
 1467.5.16 = {
-    add_attacker = AKK
-    add_defender = QAR
+  add_attacker = AKK
+  add_defender = QAR
 }
 1467.11.11 = {
-    battle = {
-        name = "查扑克楚儿"  # Chapakchur
-        location = 331
-        attacker = {
-            commander = "乌尊 哈桑"  # Uzun Hasan
-            infantry = 7000
-            cavalry = 10000
-            losses = 10
-            country = AKK
-        }
-        defender = {
-            commander = "杰汗 沙赫"  # JahÃ¢n ShÃ¢h
-            infantry = 4000
-            cavalry = 8000
-            losses = 45
-            country = QAR
-        }
-        result = yes
+  battle = {
+    name = "查扑克楚儿"  # Chapakchur
+    location = 331
+    attacker = {
+      commander = "乌尊 哈桑"  # Uzun Hasan
+      infantry = 7000
+      cavalry = 10000
+      losses = 10
+      country = AKK
     }
+    defender = {
+      commander = "杰汗 沙赫"  # JahÃ¢n ShÃ¢h
+      infantry = 4000
+      cavalry = 8000
+      losses = 45
+      country = QAR
+    }
+    result = yes
+  }
 }
 1468.6.1 = {
-    rem_attacker = AKK
-    rem_defender = QAR
+  rem_attacker = AKK
+  rem_defender = QAR
 }

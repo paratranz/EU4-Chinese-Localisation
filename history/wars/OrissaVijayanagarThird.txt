@@ -1,16 +1,16 @@
 ﻿name = "第三次加贾帕蒂-桑伽马战争"  # Third Gajapati-Sangama War
 war_goal = {
-    type = take_border
-    casus_belli = cb_border_war
-    province = 539
+  type = take_border
+  casus_belli = cb_border_war
+  province = 539
 }
 1482.3.26 = {
-    add_attacker = ORI
-    add_attacker = GRJ
-    add_defender = VIJ
+  add_attacker = ORI
+  add_attacker = GRJ
+  add_defender = VIJ
 }
 1489.1.1 = {
-    rem_attacker = ORI
-    rem_attacker = GRJ
-    rem_defender = VIJ
+  rem_attacker = ORI
+  rem_attacker = GRJ
+  rem_defender = VIJ
 }

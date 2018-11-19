@@ -1,16 +1,16 @@
 ﻿name = "第二次波瑞战争"  # Second Commonwealth-Swedish War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 273
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 273
 }
 1620.11.1 = {
-    add_attacker = SWE
-    add_defender = PLC
-    add_defender = KUR
+  add_attacker = SWE
+  add_defender = PLC
+  add_defender = KUR
 }
 1622.11.1 = {
-    rem_attacker = SWE
-    rem_defender = PLC
-    rem_defender = KUR
+  rem_attacker = SWE
+  rem_defender = PLC
+  rem_defender = KUR
 }

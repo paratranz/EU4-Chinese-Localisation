@@ -6,509 +6,509 @@ religion = orthodox
 technology_group = eastern
 capital = 161
 1386.1.1 = {
-    monarch = {
-        name = "米尔恰 I"  # Mircea I
-        dynasty = "巴萨拉布"  # Basarab
-        adm = 2
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "米尔恰 I"  # Mircea I
+    dynasty = "巴萨拉布"  # Basarab
+    adm = 2
+    dip = 2
+    mil = 1
+  }
 }
 1397.1.1 = {
-    heir = {
-        name = "米哈伊尔"  # Mihail
-        monarch_name = "米哈伊尔 I"  # Mihail I
-        dynasty = "巴萨拉布"  # Basarab
-        birth_date = 1390.1.1
-        death_date = 1420.8.1
-        claim = 95
-        adm = 1
-        dip = 0
-        mil = 1
-    }
+  heir = {
+    name = "米哈伊尔"  # Mihail
+    monarch_name = "米哈伊尔 I"  # Mihail I
+    dynasty = "巴萨拉布"  # Basarab
+    birth_date = 1390.1.1
+    death_date = 1420.8.1
+    claim = 95
+    adm = 1
+    dip = 0
+    mil = 1
+  }
 }
 1408.1.1 = {
-    monarch = {
-        name = "米哈伊尔 I"  # Mihail I
-        dynasty = "巴萨拉布"  # Basarab
-        birth_date = 1390.1.1
-        adm = 1
-        dip = 0
-        mil = 1
-    }
+  monarch = {
+    name = "米哈伊尔 I"  # Mihail I
+    dynasty = "巴萨拉布"  # Basarab
+    birth_date = 1390.1.1
+    adm = 1
+    dip = 0
+    mil = 1
+  }
 }
 1408.1.1 = {
-    heir = {
-        name = "拉杜"  # Radu
-        monarch_name = "秃头 拉杜 II"  # Radu II Chelul
-        dynasty = "巴萨拉布"  # Basarab
-        birth_date = 1400.1.1
-        death_date = 1427.1.1
-        claim = 95
-        adm = 0
-        dip = 3
-        mil = 0
-    }
+  heir = {
+    name = "拉杜"  # Radu
+    monarch_name = "秃头 拉杜 II"  # Radu II Chelul
+    dynasty = "巴萨拉布"  # Basarab
+    birth_date = 1400.1.1
+    death_date = 1427.1.1
+    claim = 95
+    adm = 0
+    dip = 3
+    mil = 0
+  }
 }
 1420.1.1 = {
-    monarch = {
-        name = "秃头 拉杜 II"  # Radu II Chelul
-        dynasty = "巴萨拉布"  # Basarab
-        birth_date = 1400.1.1
-        adm = 0
-        dip = 3
-        mil = 0
-    }
+  monarch = {
+    name = "秃头 拉杜 II"  # Radu II Chelul
+    dynasty = "巴萨拉布"  # Basarab
+    birth_date = 1400.1.1
+    adm = 0
+    dip = 3
+    mil = 0
+  }
 }
 1422.1.1 = {
-    monarch = {
-        name = "达恩 II"  # Dan II
-        dynasty = "达恩"  # Danesti
-        adm = 2
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "达恩 II"  # Dan II
+    dynasty = "达恩"  # Danesti
+    adm = 2
+    dip = 1
+    mil = 1
+  }
 }
 1431.1.1 = {
-    monarch = {
-        name = "亚历山德鲁 I"  # Alexandru I
-        dynasty = "阿尔代亚"  # Aldea
-        birth_date = 1397.1.1
-        adm = 3
-        dip = 4
-        mil = 3
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = secretive_personality
-    add_ruler_personality = martial_educator_personality
+  monarch = {
+    name = "亚历山德鲁 I"  # Alexandru I
+    dynasty = "阿尔代亚"  # Aldea
+    birth_date = 1397.1.1
+    adm = 3
+    dip = 4
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = secretive_personality
+  add_ruler_personality = martial_educator_personality
 }
 1436.12.1 = {
-    monarch = {
-        name = "弗拉德 II"  # Vlad II
-        dynasty = "德古拉"  # Draculesti
-        birth_date = 1390.1.1
-        adm = 2
-        dip = 2
-        mil = 3
-        leader = {
-            name = "弗拉德 II"  # Vlad II
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 3
-            siege = 0
-        }
+  monarch = {
+    name = "弗拉德 II"  # Vlad II
+    dynasty = "德古拉"  # Draculesti
+    birth_date = 1390.1.1
+    adm = 2
+    dip = 2
+    mil = 3
+    leader = {
+      name = "弗拉德 II"  # Vlad II
+      II"type = "
+      generalfire = "
+      3shock = "
+      3manuever = "
+      3siege = 0
     }
+  }
 }
 1442.1.1 = {
-    monarch = {
-        name = "米尔恰 II"  # Mircea II
-        dynasty = "达恩"  # Danesti
-        adm = 2
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "米尔恰 II"  # Mircea II
+    dynasty = "达恩"  # Danesti
+    adm = 2
+    dip = 1
+    mil = 2
+  }
 }
 1442.8.1 = {
-    monarch = {
-        name = "巴萨拉布 II"  # Basarab II
-        dynasty = "达恩"  # Danesti
-        adm = 4
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "巴萨拉布 II"  # Basarab II
+    dynasty = "达恩"  # Danesti
+    adm = 4
+    dip = 1
+    mil = 2
+  }
 }
 1443.1.1 = {
-    monarch = {
-        name = "弗拉德 II"  # Vlad II
-        dynasty = "德古拉"  # Draculesti
-        birth_date = 1390.1.1
-        adm = 2
-        dip = 2
-        mil = 3
-        leader = {
-            name = "弗拉德 II"  # Vlad II
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 3
-            siege = 0
-        }
+  monarch = {
+    name = "弗拉德 II"  # Vlad II
+    dynasty = "德古拉"  # Draculesti
+    birth_date = 1390.1.1
+    adm = 2
+    dip = 2
+    mil = 3
+    leader = {
+      name = "弗拉德 II"  # Vlad II
+      II"type = "
+      generalfire = "
+      3shock = "
+      3manuever = "
+      3siege = 0
     }
+  }
 }
 1443.1.1 = {
-    heir = {
-        name = "米尔恰"  # Mircea
-        monarch_name = "Mircea II"  # Mircea II
-        dynasty = "巴萨拉布"  # Basarab
-        birth_date = 1428.1.1
-        death_date = 1447.1.1
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "米尔恰"  # Mircea
+    monarch_name = "Mircea II"
+    dynasty = "巴萨拉布"  # Basarab
+    birth_date = 1428.1.1
+    death_date = 1447.1.1
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 2
+  }
 }
 1447.1.1 = {
-    monarch = {
-        name = "弗拉迪斯拉夫 II"  # Vladislav II
-        dynasty = "达恩"  # Danesti
-        adm = 3
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "弗拉迪斯拉夫 II"  # Vladislav II
+    dynasty = "达恩"  # Danesti
+    adm = 3
+    dip = 1
+    mil = 2
+  }
 }
 1456.4.1 = {
-    monarch = {
-        name = "穿刺公 弗拉德 III"  # Vlad III Tepes
-        dynasty = "德古拉"  # Draculesti
-        birth_date = 1431.11.1
-        adm = 1
-        dip = 0
-        mil = 5
-        leader = {
-            name = "穿刺公 弗拉德 III"  # Vlad III Tepes
-            type = general
-            fire = 3
-            shock = 4
-            manuever = 4
-            siege = 0
-        }
+  monarch = {
+    name = "穿刺公 弗拉德 III"  # Vlad III Tepes
+    dynasty = "德古拉"  # Draculesti
+    birth_date = 1431.11.1
+    adm = 1
+    dip = 0
+    mil = 5
+    leader = {
+      name = "穿刺公 弗拉德 III"  # Vlad III Tepes
+      Tepes"type = "
+      generalfire = "
+      3shock = "
+      4manuever = "
+      4siege = 0
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = cruel_personality
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = cruel_personality
 }
 1462.11.1 = {
-    monarch = {
-        name = "美男公 拉杜 II"  # Radu II cel Frumos
-        dynasty = "德古拉"  # Draculesti
-        adm = 1
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "美男公 拉杜 II"  # Radu II cel Frumos
+    dynasty = "德古拉"  # Draculesti
+    adm = 1
+    dip = 1
+    mil = 0
+  }
 }
 1475.1.1 = {
-    monarch = {
-        name = "Basarab II Laoiota"  # Basarab II Laoiota
-        dynasty = "达恩"  # Danesti
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "Basarab II Laoiota"
+    dynasty = "达恩"  # Danesti
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1477.11.1 = {
-    monarch = {
-        name = "年少者 巴萨拉布 III"  # Basarab III cel Tînar
-        dynasty = "达恩"  # Danesti
-        adm = 1
-        dip = 0
-        mil = 1
-    }
+  monarch = {
+    name = "年少者 巴萨拉布 III"  # Basarab III cel Tînar
+    dynasty = "达恩"  # Danesti
+    adm = 1
+    dip = 0
+    mil = 1
+  }
 }
 1482.3.1 = {
-    monarch = {
-        name = "修士 弗拉德 IV"  # Vlad IV Calugarul
-        dynasty = "德古拉"  # Draculesti
-        birth_date = 1425.1.1
-        adm = 3
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "修士 弗拉德 IV"  # Vlad IV Calugarul
+    dynasty = "德古拉"  # Draculesti
+    birth_date = 1425.1.1
+    adm = 3
+    dip = 2
+    mil = 2
+  }
 }
 1495.9.17 = {
-    monarch = {
-        name = "大帝 拉杜 IV"  # Radu IV cel Mare
-        dynasty = "德古拉"  # Draculesti
-        birth_date = 1467.1.1
-        adm = 0
-        dip = 1
-        mil = 5
-    }
+  monarch = {
+    name = "大帝 拉杜 IV"  # Radu IV cel Mare
+    dynasty = "德古拉"  # Draculesti
+    birth_date = 1467.1.1
+    adm = 0
+    dip = 1
+    mil = 5
+  }
 }
 1509.4.2 = {
-    monarch = {
-        name = "内亚戈耶 巴萨拉布"  # Neagoe Basarab
-        dynasty = "克拉约夫"  # Craiovesti
-        adm = 4
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "内亚戈耶 巴萨拉布"  # Neagoe Basarab
+    dynasty = "克拉约夫"  # Craiovesti
+    adm = 4
+    dip = 1
+    mil = 2
+  }
 }
 1521.9.16 = {
-    monarch = {
-        name = "Radu V de la Afumati"  # Radu V de la Afumati
-        dynasty = "德古拉"  # Draculesti
-        adm = 0
-        dip = 2
-        mil = 5
-    }
+  monarch = {
+    name = "Radu V de la Afumati"
+    dynasty = "德古拉"  # Draculesti
+    adm = 0
+    dip = 2
+    mil = 5
+  }
 }
 1545.3.18 = {
-    monarch = {
-        name = "牧羊人 米尔恰 III"  # Mircea III Ciobanul
-        dynasty = "德古拉"  # Draculesti
-        adm = 0
-        dip = 0
-        mil = 4
-    }
+  monarch = {
+    name = "牧羊人 米尔恰 III"  # Mircea III Ciobanul
+    dynasty = "德古拉"  # Draculesti
+    adm = 0
+    dip = 0
+    mil = 4
+  }
 }
 1559.9.22 = {
-    monarch = {
-        name = "年少者 彼得鲁"  # Petru cel Tînar
-        dynasty = "德古拉"  # Draculesti
-        birth_date = 1546.1.1
-        adm = 1
-        dip = 4
-        mil = 4
-    }
+  monarch = {
+    name = "年少者 彼得鲁"  # Petru cel Tînar
+    dynasty = "德古拉"  # Draculesti
+    birth_date = 1546.1.1
+    adm = 1
+    dip = 4
+    mil = 4
+  }
 }
 1568.6.15 = {
-    monarch = {
-        name = "亚历山德鲁 II"  # Alexandru II
-        dynasty = "德古拉"  # Draculesti
-        birth_date = 1529.1.1
-        adm = 2
-        dip = 2
-        mil = 3
-    }
+  monarch = {
+    name = "亚历山德鲁 II"  # Alexandru II
+    dynasty = "德古拉"  # Draculesti
+    birth_date = 1529.1.1
+    adm = 2
+    dip = 2
+    mil = 3
+  }
 }
 1577.6.26 = {
-    monarch = {
-        name = "土耳其人 米赫内亚 II"  # Mihnea II Turcitul
-        dynasty = "德古拉"  # Draculesti
-        birth_date = 1564.1.1
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  monarch = {
+    name = "土耳其人 米赫内亚 II"  # Mihnea II Turcitul
+    dynasty = "德古拉"  # Draculesti
+    birth_date = 1564.1.1
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1591.2.1 = {
-    monarch = {
-        name = "勇敢者 米哈伊 II"  # Mihai II Viteazul
-        dynasty = "德古拉"  # Draculesti
-        birth_date = 1558.1.1
-        adm = 4
-        dip = 6
-        mil = 6
-        leader = {
-            name = "勇敢者 米哈伊 II"  # Mihai II Viteazul
-            type = general
-            fire = 3
-            shock = 4
-            manuever = 4
-            siege = 0
-        }
+  monarch = {
+    name = "勇敢者 米哈伊 II"  # Mihai II Viteazul
+    dynasty = "德古拉"  # Draculesti
+    birth_date = 1558.1.1
+    adm = 4
+    dip = 6
+    mil = 6
+    leader = {
+      name = "勇敢者 米哈伊 II"  # Mihai II Viteazul
+      Viteazul"type = "
+      generalfire = "
+      3shock = "
+      4manuever = "
+      4siege = 0
     }
+  }
 }
 1602.8.20 = {
-    monarch = {
-        name = "拉杜 IX 米赫内亚"  # Radu IX Mihnea
-        dynasty = "德古拉"  # Draculesti
-        birth_date = 1585.1.1
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "拉杜 IX 米赫内亚"  # Radu IX Mihnea
+    dynasty = "德古拉"  # Draculesti
+    birth_date = 1585.1.1
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1623.8.2 = {
-    monarch = {
-        name = "Alexandru V Coconul"  # Alexandru V Coconul
-        dynasty = "德古拉"  # Draculesti
-        adm = 1
-        dip = 0
-        mil = 3
-    }
+  monarch = {
+    name = "Alexandru V Coconul"
+    dynasty = "德古拉"  # Draculesti
+    adm = 1
+    dip = 0
+    mil = 3
+  }
 }
 1627.11.14 = {
-    monarch = {
-        name = "Leon"  # Leon
-        dynasty = "托姆沙"  # Tomsa
-        adm = 2
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "Leon"
+    dynasty = "托姆沙"  # Tomsa
+    adm = 2
+    dip = 1
+    mil = 0
+  }
 }
 1632.7.30 = {
-    monarch = {
-        name = "马泰 I 巴萨拉布"  # Matei I Basarab
-        dynasty = "Brâncovenesti"  # Brâncovenesti
-        birth_date = 1588.1.1
-        adm = 1
-        dip = 3
-        mil = 3
-    }
+  monarch = {
+    name = "马泰 I 巴萨拉布"  # Matei I Basarab
+    dynasty = "Brâncovenesti"
+    birth_date = 1588.1.1
+    adm = 1
+    dip = 3
+    mil = 3
+  }
 }
 1654.4.20 = {
-    monarch = {
-        name = "康斯坦丁 I"  # Constantin I
-        dynasty = "塞尔邦"  # Serban
-        adm = 0
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "康斯坦丁 I"  # Constantin I
+    dynasty = "塞尔邦"  # Serban
+    adm = 0
+    dip = 1
+    mil = 0
+  }
 }
 1658.3.2 = {
-    monarch = {
-        name = "格里戈雷 I"  # Grigore I
-        dynasty = "吉卡"  # Ghica
-        birth_date = 1600.3.3
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "格里戈雷 I"  # Grigore I
+    dynasty = "吉卡"  # Ghica
+    birth_date = 1600.3.3
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1674.11.2 = {
-    monarch = {
-        name = "格奥尔基 II"  # Gheorge II
-        dynasty = "杜卡"  # Duca
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "格奥尔基 II"  # Gheorge II
+    dynasty = "杜卡"  # Duca
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1678.11.2 = {
-    monarch = {
-        name = "塞尔邦 II"  # Serban II
-        dynasty = "Cantacuzene"  # Cantacuzene
-        birth_date = 1640.1.1
-        adm = 1
-        dip = 4
-        mil = 4
-    }
+  monarch = {
+    name = "塞尔邦 II"  # Serban II
+    dynasty = "Cantacuzene"
+    birth_date = 1640.1.1
+    adm = 1
+    dip = 4
+    mil = 4
+  }
 }
 1688.11.10 = {
-    monarch = {
-        name = "康斯坦丁 II"  # Constantin II
-        dynasty = "Brâncovenesti"  # Brâncovenesti
-        birth_date = 1654.1.1
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "康斯坦丁 II"  # Constantin II
+    dynasty = "Brâncovenesti"
+    birth_date = 1654.1.1
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1714.4.7 = {
-    monarch = {
-        name = "Nicolae II"  # Nicolae II
-        dynasty = "Mavrogordato"  # Mavrogordato
-        birth_date = 1670.5.3
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "Nicolae II"
+    dynasty = "Mavrogordato"
+    birth_date = 1670.5.3
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1730.9.15 = {
-    monarch = {
-        name = "康斯坦丁 III"  # Constantin III
-        dynasty = "马夫罗科达特"  # Mavrogordato
-        birth_date = 1711.2.27
-        adm = 3
-        dip = 3
-        mil = 3
-    }
+  monarch = {
+    name = "康斯坦丁 III"  # Constantin III
+    dynasty = "马夫罗科达特"  # Mavrogordato
+    birth_date = 1711.2.27
+    adm = 3
+    dip = 3
+    mil = 3
+  }
 }
 1763.3.21 = {
-    monarch = {
-        name = "亚历山德鲁 VII"  # Alexandru VII
-        dynasty = "吉卡"  # Ghica
-        adm = 2
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "亚历山德鲁 VII"  # Alexandru VII
+    dynasty = "吉卡"  # Ghica
+    adm = 2
+    dip = 2
+    mil = 1
+  }
 }
 1768.10.29 = {
-    monarch = {
-        name = "格里戈雷 III"  # Grigore III
-        dynasty = "吉卡"  # Ghica
-        adm = 1
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "格里戈雷 III"  # Grigore III
+    dynasty = "吉卡"  # Ghica
+    adm = 1
+    dip = 0
+    mil = 0
+  }
 }
 1774.9.27 = {
-    monarch = {
-        name = "亚历山德鲁 VII"  # Alexandru VII
-        dynasty = "伊普西兰蒂"  # Ypsilanti
-        birth_date = 1725.1.1
-        adm = 2
-        dip = 0
-        mil = 2
-    }
+  monarch = {
+    name = "亚历山德鲁 VII"  # Alexandru VII
+    dynasty = "伊普西兰蒂"  # Ypsilanti
+    birth_date = 1725.1.1
+    adm = 2
+    dip = 0
+    mil = 2
+  }
 }
 1782.1.1 = {
-    monarch = {
-        name = "Mihai IV Sutu"  # Mihai IV Sutu
-        dynasty = "Soutzos"  # Soutzos
-        adm = 3
-        dip = 1
-        mil = 3
-    }
+  monarch = {
+    name = "Mihai IV Sutu"
+    dynasty = "Soutzos"
+    adm = 3
+    dip = 1
+    mil = 3
+  }
 }
 1793.1.1 = {
-    monarch = {
-        name = "亚历山德鲁 VIII"  # Alexandru VIII
-        dynasty = "穆鲁西"  # Mourousi
-        birth_date = 1750.1.1
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "亚历山德鲁 VIII"  # Alexandru VIII
+    dynasty = "穆鲁西"  # Mourousi
+    birth_date = 1750.1.1
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1796.8.30 = {
-    monarch = {
-        name = "亚历山德鲁 VII"  # Alexandru VII
-        dynasty = "伊普西兰蒂"  # Ypsilanti
-        birth_date = 1725.1.1
-        adm = 2
-        dip = 0
-        mil = 2
-    }
+  monarch = {
+    name = "亚历山德鲁 VII"  # Alexandru VII
+    dynasty = "伊普西兰蒂"  # Ypsilanti
+    birth_date = 1725.1.1
+    adm = 2
+    dip = 0
+    mil = 2
+  }
 }
 1797.12.5 = {
-    monarch = {
-        name = "康斯坦丁 V"  # Constantin V
-        dynasty = "Hangerli"  # Hangerli
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "康斯坦丁 V"  # Constantin V
+    dynasty = "Hangerli"
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1799.3.3 = {
-    monarch = {
-        name = "亚历山德鲁 VIII"  # Alexandru VIII
-        dynasty = "穆鲁西"  # Mourousi
-        birth_date = 1750.1.1
-        adm = 1
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "亚历山德鲁 VIII"  # Alexandru VIII
+    dynasty = "穆鲁西"  # Mourousi
+    birth_date = 1750.1.1
+    adm = 1
+    dip = 1
+    mil = 1
+  }
 }
 1801.10.22 = {
-    monarch = {
-        name = "康斯坦丁 VI"  # Constantin VI
-        dynasty = "伊普西兰蒂"  # Ypsilanti
-        birth_date = 1760.1.1
-        adm = 2
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "康斯坦丁 VI"  # Constantin VI
+    dynasty = "伊普西兰蒂"  # Ypsilanti
+    birth_date = 1760.1.1
+    adm = 2
+    dip = 1
+    mil = 2
+  }
 }
 1812.9.10 = {
-    monarch = {
-        name = "伊万 II"  # Ioan II
-        dynasty = "卡拉贾"  # Caradja
-        birth_date = 1754.1.1
-        adm = 3
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "伊万 II"  # Ioan II
+    dynasty = "卡拉贾"  # Caradja
+    birth_date = 1754.1.1
+    adm = 3
+    dip = 1
+    mil = 1
+  }
 }
 1818.10.14 = {
-    monarch = {
-        name = "Alexandru IX Sutu"  # Alexandru IX Sutu
-        dynasty = "Soutzos"  # Soutzos
-        birth_date = 1758.1.18
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "Alexandru IX Sutu"
+    dynasty = "Soutzos"
+    birth_date = 1758.1.18
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }

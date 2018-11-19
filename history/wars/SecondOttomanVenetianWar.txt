@@ -1,51 +1,51 @@
 ﻿name = "第二次奥斯曼-威尼斯战争"  # Second Ottoman-Venetian War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 136
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 136
 }
 1463.4.3 = {
-    add_attacker = TUR
-    add_attacker = WAL
-    add_defender = VEN
-    add_defender = ALB
+  add_attacker = TUR
+  add_attacker = WAL
+  add_defender = VEN
+  add_defender = ALB
 }
 1470.1.1 = {
-    add_defender = MON
+  add_defender = MON
 }
 1472.8.1 = {
-    add_defender = AKK
+  add_defender = AKK
 }
 1473.8.11 = {
-    battle = {
-        name = "奥特卢克贝利"  # Otluk Beli
-        location = 329
-        attacker = {
-            commander = "穆罕默德 II"  # Mehmet II
-            infantry = 65000
-            cavalry = 35000
-            losses = 10
-            country = TUR
-        }
-        defender = {
-            commander = "乌尊 哈桑"  # Uzun Hasan
-            infantry = 55000
-            cavalry = 25000
-            losses = 25
-            country = AKK
-        }
-        result = yes
+  battle = {
+    name = "奥特卢克贝利"  # Otluk Beli
+    location = 329
+    attacker = {
+      commander = "穆罕默德 II"  # Mehmet II
+      infantry = 65000
+      cavalry = 35000
+      losses = 10
+      country = TUR
     }
+    defender = {
+      commander = "乌尊 哈桑"  # Uzun Hasan
+      infantry = 55000
+      cavalry = 25000
+      losses = 25
+      country = AKK
+    }
+    result = yes
+  }
 }
 1478.1.6 = {
-    rem_defender = AKK
+  rem_defender = AKK
 }
 1478.6.16 = {
-    rem_defender = ALB
+  rem_defender = ALB
 }
 1479.1.25 = {
-    rem_attacker = TUR
-    rem_attacker = WAL
-    rem_defender = VEN
-    rem_defender = MON
+  rem_attacker = TUR
+  rem_attacker = WAL
+  rem_defender = VEN
+  rem_defender = MON
 }

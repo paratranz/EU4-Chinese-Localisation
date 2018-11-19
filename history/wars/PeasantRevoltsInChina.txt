@@ -1,20 +1,20 @@
 ﻿name = "中国农民起义"  # Peasant Revolts in China
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 700
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 700
 }
 1644.1.1 = {
-    add_attacker = MCH
-    add_defender = CSH
-    add_defender = CXI
+  add_attacker = MCH
+  add_defender = CSH
+  add_defender = CXI
 }
 1645.7.1 = {
-    rem_attacker = MCH
-    add_attacker = QNG
-    rem_defender = CSH
+  rem_attacker = MCH
+  add_attacker = QNG
+  rem_defender = CSH
 }
 1648.11.1 = {
-    rem_attacker = QNG
-    rem_defender = CXI
+  rem_attacker = QNG
+  rem_defender = CXI
 }

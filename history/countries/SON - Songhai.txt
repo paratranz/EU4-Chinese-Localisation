@@ -9,709 +9,709 @@ unlock_cult = nyame_cult
 capital = 1133
 religious_school = maliki_school
 1399.1.1 = {
-    monarch = {
-        name = "Mar-Arkana"  # Mar-Arkana
-        dynasty = "Sonni"  # Sonni
-        adm = 2
-        dip = 0
-        mil = 2
-    }
-    add_piety = 0.25
+  monarch = {
+    name = "Mar-Arkana"
+    dynasty = "Sonni"
+    adm = 2
+    dip = 0
+    mil = 2
+  }
+  add_piety = 0.25
 }
 1399.1.1 = {
-    heir = {
-        name = "Mar Arandan"  # Mar Arandan
-        monarch_name = "Mar Arandan"  # Mar Arandan
-        dynasty = "Sonni"  # Sonni
-        birth_date = 1370.1.1
-        death_Date = 1456.1.1
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "Mar Arandan"
+    monarch_name = "Mar Arandan"
+    dynasty = "Sonni"
+    birth_date = 1370.1.1
+    death_Date = 1456.1.1
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 1
+  }
 }
 1449.1.1 = {
-    monarch = {
-        name = "Mar Arandan"  # Mar Arandan
-        dynasty = "Sonni"  # Sonni
-        adm = 3
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "Mar Arandan"
+    dynasty = "Sonni"
+    adm = 3
+    dip = 3
+    mil = 1
+  }
 }
 1449.1.1 = {
-    heir = {
-        name = "苏莱曼"  # Sulaymân
-        monarch_name = "苏莱曼"  # Sulaymân
-        dynasty = "Sonni"  # Sonni
-        birth_date = 1420.1.1
-        death_Date = 1464.1.1
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 5
-    }
+  heir = {
+    name = "苏莱曼"  # Sulaymân
+    monarch_name = "苏莱曼"  # Sulaymân
+    dynasty = "Sonni"
+    birth_date = 1420.1.1
+    death_Date = 1464.1.1
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 5
+  }
 }
 1456.1.1 = {
-    monarch = {
-        name = "苏莱曼"  # Sulaymân
-        dynasty = "Sonni"  # Sonni
-        adm = 1
-        dip = 1
-        mil = 5
-    }
+  monarch = {
+    name = "苏莱曼"  # Sulaymân
+    dynasty = "Sonni"
+    adm = 1
+    dip = 1
+    mil = 5
+  }
 }
 1456.1.1 = {
-    heir = {
-        name = "Alî Ber"  # Alî Ber
-        monarch_name = "Alî Ber"  # Alî Ber
-        dynasty = "Sonni"  # Sonni
-        birth_date = 1430.1.1
-        death_Date = 1492.11.7
-        claim = 95
-        adm = 4
-        dip = 0
-        mil = 6
-        leader = {
-            name = "'Alî Ber"  # 'Alî Ber
-            type = general
-            fire = 4
-            shock = 3
-            manuever = 3
-            siege = 1
-        }
+  heir = {
+    name = "Alî Ber"
+    monarch_name = "Alî Ber"
+    dynasty = "Sonni"
+    birth_date = 1430.1.1
+    death_Date = 1492.11.7
+    claim = 95
+    adm = 4
+    dip = 0
+    mil = 6
+    leader = {
+      name = "'Alî Ber"
+      type = "
+      generalfire = "
+      4shock = "
+      3manuever = "
+      3siege = 1
     }
+  }
 }
 1464.1.1 = {
-    monarch = {
-        name = "'Alî Ber"  # 'Alî Ber
-        dynasty = "Sonni"  # Sonni
-        adm = 4
-        dip = 0
-        mil = 6
-        leader = {
-            name = "'Alî Ber"  # 'Alî Ber
-            type = general
-            fire = 4
-            shock = 3
-            manuever = 3
-            siege = 1
-        }
+  monarch = {
+    name = "'Alî Ber"
+    dynasty = "Sonni"
+    adm = 4
+    dip = 0
+    mil = 6
+    leader = {
+      name = "'Alî Ber"
+      type = "
+      generalfire = "
+      4shock = "
+      3manuever = "
+      3siege = 1
     }
+  }
 }
 1464.1.1 = {
-    heir = {
-        name = "Bakari"  # Bakari
-        monarch_name = "Bakari"  # Bakari
-        dynasty = "Sonni"  # Sonni
-        birth_date = 1464.1.1
-        death_Date = 1493.3.4
-        claim = 95
-        adm = 0
-        dip = 2
-        mil = 0
-        leader = {
-            name = "穆罕默德 I"  # Muhammad I
-            type = general
-            fire = 2
-            shock = 3
-            manuever = 3
-            siege = 0
-        }
+  heir = {
+    name = "Bakari"
+    monarch_name = "Bakari"
+    dynasty = "Sonni"
+    birth_date = 1464.1.1
+    death_Date = 1493.3.4
+    claim = 95
+    adm = 0
+    dip = 2
+    mil = 0
+    leader = {
+      name = "穆罕默德 I"  # Muhammad I
+      type = "
+      generalfire = "
+      2shock = "
+      3manuever = "
+      3siege = 0
     }
+  }
 }
 1492.11.7 = {
-    monarch = {
-        name = "Bakarî"  # Bakarî
-        dynasty = "Sonni"  # Sonni
-        adm = 0
-        dip = 2
-        mil = 0
-    }
+  monarch = {
+    name = "Bakarî"
+    dynasty = "Sonni"
+    adm = 0
+    dip = 2
+    mil = 0
+  }
 }
 1492.11.7 = {
-    heir = {
-        name = "穆罕默德"  # Muhammad
-        monarch_name = "穆罕默德 I"  # Muhammad I
-        dynasty = "阿斯基亚"  # Aksiya
-        birth_date = 1469.1.1
-        death_Date = 1528.8.27
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 5
-        leader = {
-            name = "穆罕默德 I"  # Muhammad I
-            type = general
-            fire = 2
-            shock = 3
-            manuever = 3
-            siege = 0
-        }
+  heir = {
+    name = "穆罕默德"  # Muhammad
+    monarch_name = "穆罕默德 I"  # Muhammad I
+    dynasty = "阿斯基亚"  # Aksiya
+    birth_date = 1469.1.1
+    death_Date = 1528.8.27
+    claim = 95
+    adm = 0
+    dip = 1
+    mil = 5
+    leader = {
+      name = "穆罕默德 I"  # Muhammad I
+      type = "
+      generalfire = "
+      2shock = "
+      3manuever = "
+      3siege = 0
     }
+  }
 }
 1493.3.4 = {
-    monarch = {
-        name = "穆罕默德 I"  # Muhammad I
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 1
-        mil = 5
-        leader = {
-            name = "穆罕默德 I"  # Muhammad I
-            type = general
-            fire = 2
-            shock = 3
-            manuever = 3
-            siege = 0
-        }
+  monarch = {
+    name = "穆罕默德 I"  # Muhammad I
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 1
+    mil = 5
+    leader = {
+      name = "穆罕默德 I"  # Muhammad I
+      type = "
+      generalfire = "
+      2shock = "
+      3manuever = "
+      3siege = 0
     }
+  }
 }
 1493.3.4 = {
-    heir = {
-        name = "Mûsâ"  # Mûsâ
-        monarch_name = "Mûsâ"  # Mûsâ
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1490.1.1
-        death_Date = 1531.4.13
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 2
-    }
+  heir = {
+    name = "Mûsâ"
+    monarch_name = "Mûsâ"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1490.1.1
+    death_Date = 1531.4.13
+    claim = 95
+    adm = 0
+    dip = 0
+    mil = 2
+  }
 }
 1528.8.27 = {
-    monarch = {
-        name = "Mûsâ"  # Mûsâ
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 0
-        mil = 2
-    }
+  monarch = {
+    name = "Mûsâ"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 0
+    mil = 2
+  }
 }
 1528.8.27 = {
-    heir = {
-        name = "穆罕默德"  # Muhammad
-        monarch_name = "穆罕默德 II"  # Muhammad II
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1500.1.1
-        death_Date = 1537.4.23
-        claim = 95
-        adm = 2
-        dip = 0
-        mil = 1
-    }
+  heir = {
+    name = "穆罕默德"  # Muhammad
+    monarch_name = "穆罕默德 II"  # Muhammad II
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1500.1.1
+    death_Date = 1537.4.23
+    claim = 95
+    adm = 2
+    dip = 0
+    mil = 1
+  }
 }
 1531.4.13 = {
-    monarch = {
-        name = "穆罕默德 II"  # Muhammad II
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 2
-        dip = 0
-        mil = 1
-    }
+  monarch = {
+    name = "穆罕默德 II"  # Muhammad II
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 2
+    dip = 0
+    mil = 1
+  }
 }
 1531.4.13 = {
-    heir = {
-        name = "Ismâ'îl"  # Ismâ'îl
-        monarch_name = "Ismâ'îl"  # Ismâ'îl
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1510.1.1
-        death_Date = 1539.12.2
-        claim = 95
-        adm = 1
-        dip = 5
-        mil = 1
-    }
+  heir = {
+    name = "Ismâ'îl"
+    monarch_name = "Ismâ'îl"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1510.1.1
+    death_Date = 1539.12.2
+    claim = 95
+    adm = 1
+    dip = 5
+    mil = 1
+  }
 }
 1537.4.23 = {
-    monarch = {
-        name = "Ismâ'îl"  # Ismâ'îl
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 1
-        dip = 5
-        mil = 1
-    }
+  monarch = {
+    name = "Ismâ'îl"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 1
+    dip = 5
+    mil = 1
+  }
 }
 1537.4.23 = {
-    heir = {
-        name = "Ishâq"  # Ishâq
-        monarch_name = "Ishâq I"  # Ishâq I
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1510.1.1
-        death_Date = 1549.3.24
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 2
-    }
+  heir = {
+    name = "Ishâq"
+    monarch_name = "Ishâq I"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1510.1.1
+    death_Date = 1549.3.24
+    claim = 95
+    adm = 0
+    dip = 0
+    mil = 2
+  }
 }
 1539.12.2 = {
-    monarch = {
-        name = "Ishâq I"  # Ishâq I
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 0
-        mil = 2
-    }
+  monarch = {
+    name = "Ishâq I"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 0
+    mil = 2
+  }
 }
 1539.12.2 = {
-    heir = {
-        name = "Dâ'ûd"  # Dâ'ûd
-        monarch_name = "Dâ'ûd"  # Dâ'ûd
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1530.1.1
-        death_Date = 1582.8.7
-        claim = 95
-        adm = 5
-        dip = 3
-        mil = 4
-        leader = {
-            name = "Dâ'ûd"  # Dâ'ûd
-            type = general
-            fire = 3
-            shock = 2
-            manuever = 3
-            siege = 0
-        }
+  heir = {
+    name = "Dâ'ûd"
+    monarch_name = "Dâ'ûd"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1530.1.1
+    death_Date = 1582.8.7
+    claim = 95
+    adm = 5
+    dip = 3
+    mil = 4
+    leader = {
+      name = "Dâ'ûd"
+      type = "
+      generalfire = "
+      3shock = "
+      2manuever = "
+      3siege = 0
     }
+  }
 }
 1549.3.24 = {
-    monarch = {
-        name = "Dâ'ûd"  # Dâ'ûd
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 5
-        dip = 3
-        mil = 4
-        leader = {
-            name = "Dâ'ûd"  # Dâ'ûd
-            type = general
-            fire = 3
-            shock = 2
-            manuever = 3
-            siege = 0
-        }
+  monarch = {
+    name = "Dâ'ûd"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 5
+    dip = 3
+    mil = 4
+    leader = {
+      name = "Dâ'ûd"
+      type = "
+      generalfire = "
+      3shock = "
+      2manuever = "
+      3siege = 0
     }
+  }
 }
 1549.3.24 = {
-    heir = {
-        name = "穆罕默德"  # Muhammad
-        monarch_name = "穆罕默德 III"  # Muhammad III
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1530.1.1
-        death_Date = 1586.12.16
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 1
-    }
+  heir = {
+    name = "穆罕默德"  # Muhammad
+    monarch_name = "穆罕默德 III"  # Muhammad III
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1530.1.1
+    death_Date = 1586.12.16
+    claim = 95
+    adm = 0
+    dip = 1
+    mil = 1
+  }
 }
 1582.8.7 = {
-    monarch = {
-        name = "穆罕默德 III"  # Muhammad III
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "穆罕默德 III"  # Muhammad III
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 1
+    mil = 1
+  }
 }
 1582.8.7 = {
-    heir = {
-        name = "穆罕默德"  # Muhammad
-        monarch_name = "穆罕默德 IV"  # Muhammad IV
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1560.1.1
-        death_date = 1588.4.10
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  heir = {
+    name = "穆罕默德"  # Muhammad
+    monarch_name = "穆罕默德 IV"  # Muhammad IV
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1560.1.1
+    death_date = 1588.4.10
+    claim = 95
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1586.12.16 = {
-    monarch = {
-        name = "穆罕默德 IV"  # Muhammad IV
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "穆罕默德 IV"  # Muhammad IV
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1586.12.16 = {
-    heir = {
-        name = "Ishâq"  # Ishâq
-        monarch_name = "Ishâq II"  # Ishâq II
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1570.1.1
-        death_Date = 1591.4.15
-        claim = 95
-        adm = 1
-        dip = 0
-        mil = 0
-    }
+  heir = {
+    name = "Ishâq"
+    monarch_name = "Ishâq II"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1570.1.1
+    death_Date = 1591.4.15
+    claim = 95
+    adm = 1
+    dip = 0
+    mil = 0
+  }
 }
 1588.4.10 = {
-    monarch = {
-        name = "Ishâq II"  # Ishâq II
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 1
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "Ishâq II"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 1
+    dip = 0
+    mil = 0
+  }
 }
 1588.4.10 = {
-    heir = {
-        name = "Nûh"  # Nûh
-        monarch_name = "Nûh"  # Nûh
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1570.1.1
-        death_Date = 1599.1.1
-        claim = 95
-        adm = 1
-        dip = 0
-        mil = 2
-    }
+  heir = {
+    name = "Nûh"
+    monarch_name = "Nûh"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1570.1.1
+    death_Date = 1599.1.1
+    claim = 95
+    adm = 1
+    dip = 0
+    mil = 2
+  }
 }
 1591.3.15 = {
-    capital = 1123
+  capital = 1123
 }
 1591.4.15 = {
-    monarch = {
-        name = "Nûh"  # Nûh
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 1
-        dip = 0
-        mil = 2
-    }
+  monarch = {
+    name = "Nûh"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 1
+    dip = 0
+    mil = 2
+  }
 }
 1591.4.15 = {
-    heir = {
-        name = "穆罕默德"  # Muhammad
-        monarch_name = "穆罕默德 I"  # Muhammad I
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1570.1.1
-        death_Date = 1604.1.1
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "穆罕默德"  # Muhammad
+    monarch_name = "穆罕默德 I"  # Muhammad I
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1570.1.1
+    death_Date = 1604.1.1
+    claim = 95
+    adm = 0
+    dip = 1
+    mil = 2
+  }
 }
 1599.1.1 = {
-    monarch = {
-        name = "穆罕默德 I"  # Muhammad I
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "穆罕默德 I"  # Muhammad I
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 1
+    mil = 2
+  }
 }
 1599.1.1 = {
-    heir = {
-        name = "Hârûn"  # Hârûn
-        monarch_name = "Hârûn"  # Hârûn
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1590.1.1
-        death_Date = 1612.1.1
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 4
-    }
+  heir = {
+    name = "Hârûn"
+    monarch_name = "Hârûn"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1590.1.1
+    death_Date = 1612.1.1
+    claim = 95
+    adm = 1
+    dip = 2
+    mil = 4
+  }
 }
 1604.1.1 = {
-    monarch = {
-        name = "Hârûn"  # Hârûn
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 1
-        dip = 2
-        mil = 4
-    }
+  monarch = {
+    name = "Hârûn"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 1
+    dip = 2
+    mil = 4
+  }
 }
 1604.1.1 = {
-    heir = {
-        name = "al-Amîn"  # al-Amîn
-        monarch_name = "al-Amîn"  # al-Amîn
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1604.1.1
-        death_Date = 1617.1.1
-        claim = 95
-        adm = 4
-        dip = 1
-        mil = 3
-    }
+  heir = {
+    name = "al-Amîn"
+    monarch_name = "al-Amîn"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1604.1.1
+    death_Date = 1617.1.1
+    claim = 95
+    adm = 4
+    dip = 1
+    mil = 3
+  }
 }
 1612.1.1 = {
-    monarch = {
-        name = "al-Amîn"  # al-Amîn
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 4
-        dip = 1
-        mil = 3
-    }
+  monarch = {
+    name = "al-Amîn"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 4
+    dip = 1
+    mil = 3
+  }
 }
 1612.1.1 = {
-    heir = {
-        name = "Dâ'ûd"  # Dâ'ûd
-        monarch_name = "Dâ'ûd I"  # Dâ'ûd I
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1600.1.1
-        death_Date = 1635.1.1
-        claim = 95
-        adm = 5
-        dip = 0
-        mil = 2
-    }
+  heir = {
+    name = "Dâ'ûd"
+    monarch_name = "Dâ'ûd I"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1600.1.1
+    death_Date = 1635.1.1
+    claim = 95
+    adm = 5
+    dip = 0
+    mil = 2
+  }
 }
 1617.1.1 = {
-    monarch = {
-        name = "Dâ'ûd I"  # Dâ'ûd I
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 5
-        dip = 0
-        mil = 2
-    }
+  monarch = {
+    name = "Dâ'ûd I"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 5
+    dip = 0
+    mil = 2
+  }
 }
 1617.1.1 = {
-    heir = {
-        name = "Ismâ'îl"  # Ismâ'îl
-        monarch_name = "Ismâ'îl I"  # Ismâ'îl I
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1600.1.1
-        death_Date = 1639.1.1
-        claim = 95
-        adm = 1
-        dip = 4
-        mil = 1
-    }
+  heir = {
+    name = "Ismâ'îl"
+    monarch_name = "Ismâ'îl I"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1600.1.1
+    death_Date = 1639.1.1
+    claim = 95
+    adm = 1
+    dip = 4
+    mil = 1
+  }
 }
 1635.1.1 = {
-    monarch = {
-        name = "Ismâ'îl I"  # Ismâ'îl I
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 1
-        dip = 4
-        mil = 1
-    }
+  monarch = {
+    name = "Ismâ'îl I"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 1
+    dip = 4
+    mil = 1
+  }
 }
 1635.1.1 = {
-    heir = {
-        name = "穆罕默德"  # Muhammad
-        monarch_name = "穆罕默德 II"  # Muhammad II
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1620.1.1
-        death_Date = 1645.1.1
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "穆罕默德"  # Muhammad
+    monarch_name = "穆罕默德 II"  # Muhammad II
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1620.1.1
+    death_Date = 1645.1.1
+    claim = 95
+    adm = 0
+    dip = 1
+    mil = 2
+  }
 }
 1639.1.1 = {
-    monarch = {
-        name = "穆罕默德 II"  # Muhammad II
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "穆罕默德 II"  # Muhammad II
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 1
+    mil = 2
+  }
 }
 1639.1.1 = {
-    heir = {
-        name = "Dâ'ûd II"  # Dâ'ûd II
-        monarch_name = "Dâ'ûd II"  # Dâ'ûd II
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1600.1.1
-        death_date = 1650.1.1
-        claim = 95
-        adm = 0
-        dip = 0
-        mil = 1
-    }
+  heir = {
+    name = "Dâ'ûd II"
+    monarch_name = "Dâ'ûd II"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1600.1.1
+    death_date = 1650.1.1
+    claim = 95
+    adm = 0
+    dip = 0
+    mil = 1
+  }
 }
 1645.1.1 = {
-    monarch = {
-        name = "Dâ'ûd II"  # Dâ'ûd II
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 0
-        mil = 1
-    }
+  monarch = {
+    name = "Dâ'ûd II"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 0
+    mil = 1
+  }
 }
 1645.1.1 = {
-    heir = {
-        name = "Ismâ'îl"  # Ismâ'îl
-        monarch_name = "Ismâ'îl II"  # Ismâ'îl II
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1620.1.1
-        death_Date = 1660.1.1
-        claim = 95
-        adm = 2
-        dip = 0
-        mil = 1
-    }
+  heir = {
+    name = "Ismâ'îl"
+    monarch_name = "Ismâ'îl II"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1620.1.1
+    death_Date = 1660.1.1
+    claim = 95
+    adm = 2
+    dip = 0
+    mil = 1
+  }
 }
 1650.1.1 = {
-    monarch = {
-        name = "Ismâ'îl II"  # Ismâ'îl II
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 2
-        dip = 0
-        mil = 1
-    }
+  monarch = {
+    name = "Ismâ'îl II"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 2
+    dip = 0
+    mil = 1
+  }
 }
 1650.1.1 = {
-    heir = {
-        name = "Dâ'ûd"  # Dâ'ûd
-        monarch_name = "Dâ'ûd III"  # Dâ'ûd III
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1650.1.1
-        death_Date = 1680.1.1
-        claim = 95
-        adm = 0
-        dip = 3
-        mil = 0
-    }
+  heir = {
+    name = "Dâ'ûd"
+    monarch_name = "Dâ'ûd III"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1650.1.1
+    death_Date = 1680.1.1
+    claim = 95
+    adm = 0
+    dip = 3
+    mil = 0
+  }
 }
 1660.1.1 = {
-    monarch = {
-        name = "Dâ'ûd III"  # Dâ'ûd III
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 3
-        mil = 0
-    }
+  monarch = {
+    name = "Dâ'ûd III"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 3
+    mil = 0
+  }
 }
 1660.1.1 = {
-    heir = {
-        name = "Ishâq"  # Ishâq
-        monarch_name = "Ishâq"  # Ishâq
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1660.1.1
-        death_Date = 1700.1.1
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "Ishâq"
+    monarch_name = "Ishâq"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1660.1.1
+    death_Date = 1700.1.1
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1680.1.1 = {
-    monarch = {
-        name = "Ishâq"  # Ishâq
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "Ishâq"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1680.1.1 = {
-    heir = {
-        name = "Hanga"  # Hanga
-        monarch_name = "Hanga"  # Hanga
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1680.1.1
-        death_Date = 1730.1.1
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 1
-    }
+  heir = {
+    name = "Hanga"
+    monarch_name = "Hanga"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1680.1.1
+    death_Date = 1730.1.1
+    claim = 95
+    adm = 0
+    dip = 1
+    mil = 1
+  }
 }
 1700.1.1 = {
-    monarch = {
-        name = "Hanga"  # Hanga
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 1
-        mil = 1
-    }
+  monarch = {
+    name = "Hanga"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 1
+    mil = 1
+  }
 }
 1700.1.1 = {
-    heir = {
-        name = "Dâ'ûd"  # Dâ'ûd
-        monarch_name = "Dâ'ûd IV"  # Dâ'ûd IV
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1700.1.1
-        death_Date = 1761.1.1
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "Dâ'ûd"
+    monarch_name = "Dâ'ûd IV"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1700.1.1
+    death_Date = 1761.1.1
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 2
+  }
 }
 1730.1.1 = {
-    monarch = {
-        name = "Dâ'ûd IV"  # Dâ'ûd IV
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 2
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "Dâ'ûd IV"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 2
+    dip = 1
+    mil = 2
+  }
 }
 1730.1.1 = {
-    heir = {
-        name = "Samsu"  # Samsu
-        monarch_name = "Samsu"  # Samsu
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1730.1.1
-        death_Date = 1779.1.1
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 0
-    }
+  heir = {
+    name = "Samsu"
+    monarch_name = "Samsu"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1730.1.1
+    death_Date = 1779.1.1
+    claim = 95
+    adm = 1
+    dip = 2
+    mil = 0
+  }
 }
 1761.1.1 = {
-    monarch = {
-        name = "Samsu"  # Samsu
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 1
-        dip = 2
-        mil = 0
-    }
+  monarch = {
+    name = "Samsu"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 1
+    dip = 2
+    mil = 0
+  }
 }
 1761.1.1 = {
-    heir = {
-        name = "Harangi"  # Harangi
-        monarch_name = "Harangi"  # Harangi
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1760.1.1
-        death_Date = 1805.1.1
-        claim = 95
-        adm = 0
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "Harangi"
+    monarch_name = "Harangi"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1760.1.1
+    death_Date = 1805.1.1
+    claim = 95
+    adm = 0
+    dip = 3
+    mil = 1
+  }
 }
 1779.1.1 = {
-    monarch = {
-        name = "Harangi"  # Harangi
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 0
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "Harangi"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 0
+    dip = 3
+    mil = 1
+  }
 }
 1779.1.1 = {
-    heir = {
-        name = "Tomo"  # Tomo
-        monarch_name = "Tomo"  # Tomo
-        dynasty = "阿斯基亚"  # Askiya
-        birth_date = 1779.1.1
-        death_Date = 1823.1.1
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 1
-    }
+  heir = {
+    name = "Tomo"
+    monarch_name = "Tomo"
+    dynasty = "阿斯基亚"  # Askiya
+    birth_date = 1779.1.1
+    death_Date = 1823.1.1
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 1
+  }
 }
 1805.1.1 = {
-    monarch = {
-        name = "Tomo"  # Tomo
-        dynasty = "阿斯基亚"  # Askiya
-        adm = 2
-        dip = 2
-        mil = 1
-    }
+  monarch = {
+    name = "Tomo"
+    dynasty = "阿斯基亚"  # Askiya
+    adm = 2
+    dip = 2
+    mil = 1
+  }
 }

@@ -1,129 +1,129 @@
 ﻿graphical_culture = westerngfx
 color = {
-    117
-    161
-    67
+  117
+  161
+  67
 }
 historical_idea_groups = {
-    trade_ideas
-    defensive_ideas
-    religious_ideas
-    economic_ideas
-    diplomatic_ideas
-    innovativeness_ideas
-    offensive_ideas
-    spy_ideas
+  trade_ideas
+  defensive_ideas
+  religious_ideas
+  economic_ideas
+  diplomatic_ideas
+  innovativeness_ideas
+  offensive_ideas
+  spy_ideas
 }
 historical_units = {
-    halberd_infantry
-    western_medieval_knights
-    western_men_at_arms
-    swiss_landsknechten
-    dutch_maurician
-    austrian_tercio
-    austrian_grenzer
-    austrian_hussar
-    austrian_white_coat
-    prussian_uhlan
-    austrian_jaeger
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  halberd_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  prussian_uhlan
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 monarch_names = {
-    "伯恩哈德 #0" = 70
-    "克里斯托夫 #0" = 40
-    "卡尔 #0" = 40
-    "雅各布 #0" = 50
-    "菲利普 #1" = 30
-    "奥古斯特 格奥尔格 #0" = 20
-    "爱德华 福图纳特 #0" = 20
-    "恩斯特 弗里德里希 #0" = 20
-    "格奥尔格 弗里德里希 #0" = 20
-    "卡尔 弗里德里希 #0" = 20
-    "路德维希 #0" = 20
-    "路德维希 格奥尔格 #0" = 20
-    "路德维希 威廉 #0" = 20
-    "菲利伯特 #0" = 20
-    "威廉 #0" = 20
-    "费迪南德 马克西米利安 #0" = 15
-    "赫尔曼 福图纳特 #0" = 15
-    "卡尔 约瑟夫  #0" = 15
-    "卡尔 利奥波德 #0" = 15
-    "卡尔 路德维希 #0" = 15
-    "利奥波德 威廉 #0" = 15
-    "威廉 格奥尔格 #0" = 15
-    "鲁道夫 #4" = 10
-    "阿尔布雷希特 #0" = 10
-    "阿尔布雷希特 卡尔 #0" = 10
-    "克里斯托夫 古斯塔夫 #0" = 10
-    "恩斯特 #0" = 10
-    "格奥尔格 #0" = 10
-    "约翰 #0" = 10
-    "约翰 卡尔 #0" = 10
-    "马库斯 #0" = 10
-    "腓力 思格蒙德 #0" = 10
-    "威廉 路德维希 #0" = 10
-    "沃尔夫冈 #0" = 10
-    "埃里希 #0" = 0
-    "格雷戈尔 #0" = 0
-    "艾萨克 #0" = 0
-    "奥斯卡 #0" = 0
-    "沃尔弗兰 #0" = 0
-    "欧若拉 #0" = -1
-    "多萝西娅 #0" = -1
-    "亨利埃特 #0" = -1
+  "伯恩哈德 #0" = 70  # Bernhard #0
+  "克里斯托夫 #0" = 40  # Christoph #0
+  "卡尔 #0" = 40  # Karl #0
+  "雅各布 #0" = 50  # Jakob #0
+  "菲利普 #1" = 30  # Philipp #1
+  "奥古斯特 格奥尔格 #0" = 20  # August Georg #0
+  "爱德华 福图纳特 #0" = 20  # Eduard Fortunat #0
+  "恩斯特 弗里德里希 #0" = 20  # Ernst Friedrich #0
+  "格奥尔格 弗里德里希 #0" = 20  # Georg Friedrich #0
+  "卡尔 弗里德里希 #0" = 20  # Karl Friedrich #0
+  "路德维希 #0" = 20  # Ludwig #0
+  "路德维希 格奥尔格 #0" = 20  # Ludwig Georg #0
+  "路德维希 威廉 #0" = 20  # Ludwig Wilhelm #0
+  "菲利伯特 #0" = 20  # Philibert #0
+  "威廉 #0" = 20  # Wilhelm #0
+  "费迪南德 马克西米利安 #0" = 15  # Ferdinand Maximilian #0
+  "赫尔曼 福图纳特 #0" = 15  # Hermann Fortunat #0
+  "卡尔 约瑟夫  #0" = 15  # Karl Joseph #0
+  "卡尔 利奥波德 #0" = 15  # Karl Leopold #0
+  "卡尔 路德维希 #0" = 15  # Karl Ludwig #0
+  "利奥波德 威廉 #0" = 15  # Leopold Wilhelm #0
+  "威廉 格奥尔格 #0" = 15  # Wilhelm Georg #0
+  "鲁道夫 #4" = 10  # Rudolf #4
+  "阿尔布雷希特 #0" = 10  # Albrecht #0
+  "阿尔布雷希特 卡尔 #0" = 10  # Albrecht Karl #0
+  "克里斯托夫 古斯塔夫 #0" = 10  # Christoph Gustav #0
+  "恩斯特 #0" = 10  # Ernst #0
+  "格奥尔格 #0" = 10  # Georg #0
+  "约翰 #0" = 10  # Johann #0
+  "约翰 卡尔 #0" = 10  # Johann Karl #0
+  "马库斯 #0" = 10  # Markus #0
+  "腓力 思格蒙德 #0" = 10  # Philipp Siegmund #0
+  "威廉 路德维希 #0" = 10  # Wilhelm Ludwig #0
+  "沃尔夫冈 #0" = 10  # Wolfgang #0
+  "埃里希 #0" = 0  # Erich #0
+  "格雷戈尔 #0" = 0  # Gregor #0
+  "艾萨克 #0" = 0  # Isaak #0
+  "奥斯卡 #0" = 0  # Oskar #0
+  "沃尔弗兰 #0" = 0  # Wolfram #0
+  "欧若拉 #0" = -1  # Aurora #0
+  "多萝西娅 #0" = -1  # Dorothea #0
+  "亨利埃特 #0" = -1  # Henriette #0
 }
 leader_names = {
-    "阿尔博斯"  # Albers
-    "贝赫托德"  # Bächtold
-    "贝尔"  # Baehr
-    "比尔"  # Beer
-    "本特亨斯"  # Benthens
-    "布雷"  # Breh
-    "埃森科尔布"  # Eisenkolb
-    "厄尔布"  # Erb
-    "Ferstenfeld"  # Ferstenfeld
-    "费舍尔"  # Fischer
-    "Göhringer"  # Göhringer
-    "格雷特尔"  # Grether
-    "海茨曼"  # Heitzmann
-    "Helff"  # Helff
-    "肯普夫"  # Kempf
-    "克莱"  # Klee
-    "马肯森"  # Mackensen
-    "Römermann"  # Römermann
-    "许勒尔"  # Schüßler
-    "施泰因曼"  # Steinmann
-    "Tientjen"  # Tientjen
-    "图夫"  # Tuve
-    "瓦克斯穆特"  # Wachsmuth
+  "阿尔博斯"  # Albers
+  "Bächtold"
+  "贝尔"  # Baehr
+  "比尔"  # Beer
+  "本特亨斯"  # Benthens
+  "布雷"  # Breh
+  "埃森科尔布"  # Eisenkolb
+  "厄尔布"  # Erb
+  "Ferstenfeld"
+  "费舍尔"  # Fischer
+  "Göhringer"
+  "格雷特尔"  # Grether
+  "海茨曼"  # Heitzmann
+  "Helff"
+  "肯普夫"  # Kempf
+  "克莱"  # Klee
+  "马肯森"  # Mackensen
+  "Römermann"
+  "许勒尔"  # Schüßler
+  "施泰因曼"  # Steinmann
+  "Tientjen"
+  "图夫"  # Tuve
+  "瓦克斯穆特"  # Wachsmuth
 }
 ship_names = {
-    "马克格拉夫 赫尔曼"  # Markgraf Hermann
-    "马克格拉夫 伯纳德 I号"  # Markgraf Bernard I
-    "马克格拉夫 卡尔I号"  # Markgraf Karl I
-    "Linzgau"  # Linzgau
-    "罗拉赫"  # Lörrach
-    "Freiburg"  # Freiburg
-    "Karlsruhe"  # Karlsruhe
-    "Mannheim"  # Mannheim
-    "Tauber"  # Tauber
-    "Rhein"  # Rhein
-    "Bruchsal"  # Bruchsal
-    "Bretten"  # Bretten
-    "Constance"  # Constance
-    "埃伯巴赫"  # Eberbach
-    "菲尔德山（位于德国西南部）"  # Feldberg
-    "Heidelberg"  # Heidelberg
-    "金齐希"  # Kinzig
-    "Lahr"  # Lahr
-    "Offenburg"  # Offenburg
-    "Rastatt"  # Rastatt
-    "Villingen"  # Villingen
+  "马克格拉夫 赫尔曼"  # Markgraf Hermann
+  "马克格拉夫 伯纳德 I号"  # Markgraf Bernard I
+  "马克格拉夫 卡尔I号"  # Markgraf Karl I
+  "Linzgau"
+  "Lörrach"
+  "Freiburg"
+  "Karlsruhe"
+  "Mannheim"
+  "Tauber"
+  "Rhein"
+  "Bruchsal"
+  "Bretten"
+  "Constance"
+  "埃伯巴赫"  # Eberbach
+  "菲尔德山（位于德国西南部）"  # Feldberg
+  "Heidelberg"
+  "金齐希"  # Kinzig
+  "Lahr"
+  "Offenburg"
+  "Rastatt"
+  "Villingen"
 }
 army_names = {
-    "Markgräfische Garde"  # Markgräfische Garde
-    "$PROVINCE$军"  # Armee von $PROVINCE$
+  "Markgräfische Garde"
+  "$PROVINCE$军"  # Armee von $PROVINCE$
 }

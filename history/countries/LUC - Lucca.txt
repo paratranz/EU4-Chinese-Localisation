@@ -8,22 +8,22 @@ technology_group = western
 capital = 2980
 add_army_professionalism = 0.05
 1444.11.11 = {
-    monarch = {
-        name = "总理事会"  # Consiglio Generale
-        adm = 3
-        dip = 3
-        mil = 3
-        regent = yes
-    }
+  monarch = {
+    name = "总理事会"  # Consiglio Generale
+    adm = 3
+    dip = 3
+    mil = 3
+    regent = yes
+  }
 }
 1814.4.11 = {
-    government = monarchy
-    monarch = {
-        name = "玛丽亚 路易莎"  # Maria Luisa
-        dynasty = "波旁"  # Bourbon
-        adm = 4
-        dip = 4
-        mil = 2
-        female = yes
-    }
+  government = monarchy
+  monarch = {
+    name = "玛丽亚 路易莎"  # Maria Luisa
+    dynasty = "波旁"  # Bourbon
+    adm = 4
+    dip = 4
+    mil = 2
+    female = yes
+  }
 }

@@ -1,18 +1,18 @@
 ﻿name = "波希米亚-匈牙利战争"  # Bohemian-Hungarian War
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = BOH
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = BOH
 }
 1468.5.31 = {
-    add_attacker = HUN
-    add_defender = BOH
+  add_attacker = HUN
+  add_defender = BOH
 }
 1471.3.22 = {
-    add_defender = POL
+  add_defender = POL
 }
 1475.2.1 = {
-    rem_attacker = HUN
-    rem_defender = BOH
-    rem_defender = POL
+  rem_attacker = HUN
+  rem_defender = BOH
+  rem_defender = POL
 }

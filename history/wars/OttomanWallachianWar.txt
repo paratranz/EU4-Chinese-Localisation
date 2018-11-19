@@ -1,35 +1,35 @@
 ﻿name = "奥斯曼-瓦拉吉亚战争"  # Ottoman-Wallachian War
 war_goal = {
-    type = take_capital_disloyal
-    casus_belli = cb_disloyal_vassal
-    tag = WAL
+  type = take_capital_disloyal
+  casus_belli = cb_disloyal_vassal
+  tag = WAL
 }
 1594.9.1 = {
-    add_attacker = TUR
-    add_defender = WAL
+  add_attacker = TUR
+  add_defender = WAL
 }
 1595.8.13 = {
-    battle = {
-        name = "克鲁格列尼"  # Calugareni
-        location = 161
-        attacker = {
-            commander = "锡南 帕夏"  # Sinan Pasha
-            infantry = 86000
-            cavalry = 42000
-            losses = 10
-            country = TUR
-        }
-        defender = {
-            commander = "勇士迈克尔"  # Michael the Brave
-            infantry = 15000
-            cavalry = 8000
-            losses = 5
-            country = WAL
-        }
-        result = no
+  battle = {
+    name = "克鲁格列尼"  # Calugareni
+    location = 161
+    attacker = {
+      commander = "锡南 帕夏"  # Sinan Pasha
+      infantry = 86000
+      cavalry = 42000
+      losses = 10
+      country = TUR
     }
+    defender = {
+      commander = "勇士迈克尔"  # Michael the Brave
+      infantry = 15000
+      cavalry = 8000
+      losses = 5
+      country = WAL
+    }
+    result = no
+  }
 }
 1601.1.1 = {
-    rem_attacker = TUR
-    rem_defender = WAL
+  rem_attacker = TUR
+  rem_defender = WAL
 }

@@ -1,39 +1,39 @@
 ﻿name = "第六次奥斯曼-奥地利战争"  # Sixth Ottoman-Habsburg War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 1863
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 1863
 }
 1663.4.18 = {
-    add_attacker = TUR
-    add_defender = HAB
-    add_defender = BRA
-    add_defender = SAX
+  add_attacker = TUR
+  add_defender = HAB
+  add_defender = BRA
+  add_defender = SAX
 }
 1664.8.1 = {
-    battle = {
-        name = "圣哥达"  # Saint Gotthard
-        location = 135
-        attacker = {
-            commander = "艾哈迈德 科普鲁卢"  # Ahmed Koprulu
-            infantry = 45000
-            cavalry = 15000
-            losses = 17
-            country = TUR
-        }
-        defender = {
-            commander = "雷蒙多 蒙泰库科利"  # Raimondo Montecuccoli
-            infantry = 30000
-            cavalry = 10000
-            losses = 5
-            country = HAB
-        }
-        result = no
+  battle = {
+    name = "圣哥达"  # Saint Gotthard
+    location = 135
+    attacker = {
+      commander = "艾哈迈德 科普鲁卢"  # Ahmed Koprulu
+      infantry = 45000
+      cavalry = 15000
+      losses = 17
+      country = TUR
     }
+    defender = {
+      commander = "雷蒙多 蒙泰库科利"  # Raimondo Montecuccoli
+      infantry = 30000
+      cavalry = 10000
+      losses = 5
+      country = HAB
+    }
+    result = no
+  }
 }
 1664.8.10 = {
-    rem_attacker = TUR
-    rem_defender = HAB
-    rem_defender = BRA
-    rem_defender = SAX
+  rem_attacker = TUR
+  rem_defender = HAB
+  rem_defender = BRA
+  rem_defender = SAX
 }

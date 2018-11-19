@@ -5,115 +5,115 @@ primary_culture = panjabi
 religion = hinduism
 capital = 507
 1431.1.1 = {
-    capital = 510
-    monarch = {
-        name = "巴鲁儿"  # Bahlûl
-        dynasty = "洛迪"  # Lodi
-        culture = afghani
-        religion = sunni
-        ADM = 4
-        DIP = 5
-        MIL = 6
-        leader = {
-            name = "巴鲁儿 洛迪"  # Bahlûl Ludi
-            type = general
-            fire = 4
-            shock = 5
-            manuever = 4
-            siege = 2
-        }
-    }
-    government = monarchy
-    add_government_reform = indian_sultanate_reform
+  capital = 510
+  monarch = {
+    name = "巴鲁儿"  # Bahlûl
+    dynasty = "洛迪"  # Lodi
+    culture = afghani
     religion = sunni
-    religious_school = hanafi_school
-    clear_scripted_personalities = yes
-    add_ruler_personality = strict_personality
-    add_ruler_personality = conqueror_personality
-    add_ruler_personality = industrious_personality
+    ADM = 4
+    DIP = 5
+    MIL = 6
+    leader = {
+      name = "巴鲁儿 洛迪"  # Bahlûl Ludi
+      Ludi"type = "
+      generalfire = "
+      4shock = "
+      5manuever = "
+      4siege = 2
+    }
+  }
+  government = monarchy
+  add_government_reform = indian_sultanate_reform
+  religion = sunni
+  religious_school = hanafi_school
+  clear_scripted_personalities = yes
+  add_ruler_personality = strict_personality
+  add_ruler_personality = conqueror_personality
+  add_ruler_personality = industrious_personality
 }
 1553.1.1 = {
-    monarch = {
-        name = "Sikandar"  # Sikandar
-        dynasty = "苏里"  # Suri
-        ADM = 1
-        DIP = 3
-        MIL = 2
-        culture = afghani
-    }
-    religion = sunni
-    religious_school = hanafi_school
-    government = monarchy
-    add_government_reform = iqta
-    capital = 507
+  monarch = {
+    name = "Sikandar"
+    dynasty = "苏里"  # Suri
+    ADM = 1
+    DIP = 3
+    MIL = 2
+    culture = afghani
+  }
+  religion = sunni
+  religious_school = hanafi_school
+  government = monarchy
+  add_government_reform = iqta
+  capital = 507
 }
 1758.1.1 = {
-    monarch = {
-        name = "Jassa Singh"  # Jassa Singh
-        dynasty = "Ahluwalia"  # Ahluwalia
-        ADM = 1
-        DIP = 2
-        MIL = 6
-        leader = {
-            name = "Jassa Ahluwalia"  # Jassa Ahluwalia
-            type = general
-            fire = 2
-            shock = 3
-            manuever = 2
-            siege = 1
-        }
+  monarch = {
+    name = "Jassa Singh"
+    dynasty = "Ahluwalia"
+    ADM = 1
+    DIP = 2
+    MIL = 6
+    leader = {
+      name = "Jassa Ahluwalia"
+      Ahluwalia"type = "
+      generalfire = "
+      2shock = "
+      3manuever = "
+      2siege = 1
     }
-    government = monarchy
-    add_government_reform = autocracy_reform
-    religion = sikhism
+  }
+  government = monarchy
+  add_government_reform = autocracy_reform
+  religion = sikhism
 }
 1774.1.1 = {
-    monarch = {
-        name = "摩诃 僧诃"  # Maha Singh
-        dynasty = "Sandhawalia"  # Sandhawalia
-        ADM = 0
-        DIP = 1
-        MIL = 5
-    }
+  monarch = {
+    name = "摩诃 僧诃"  # Maha Singh
+    dynasty = "Sandhawalia"
+    ADM = 0
+    DIP = 1
+    MIL = 5
+  }
 }
 1780.11.13 = {
-    heir = {
-        name = "兰拿耆多"  # Ranjit
-        monarch_name = "兰拿耆多 摩诃"  # Ranjit Singh
-        dynasty = "Sandhawalia"  # Sandhawalia
-        birth_date = 1780.11.13
-        death_date = 1839.6.20
-        claim = 95
-        ADM = 3
-        DIP = 4
-        MIL = 5
-    }
+  heir = {
+    name = "兰拿耆多"  # Ranjit
+    monarch_name = "兰拿耆多 摩诃"  # Ranjit Singh
+    dynasty = "Sandhawalia"
+    birth_date = 1780.11.13
+    death_date = 1839.6.20
+    claim = 95
+    ADM = 3
+    DIP = 4
+    MIL = 5
+  }
 }
 1801.4.12 = {
-    monarch = {
-        name = "兰拿耆多 摩诃"  # Ranjit Singh
-        dynasty = "Sandhawalia"  # Sandhawalia
-        ADM = 3
-        DIP = 4
-        MIL = 5
-    }
+  monarch = {
+    name = "兰拿耆多 摩诃"  # Ranjit Singh
+    dynasty = "Sandhawalia"
+    ADM = 3
+    DIP = 4
+    MIL = 5
+  }
 }
 1801.4.12 = {
-    heir = {
-        name = "卡拉克"  # Kharak
-        monarch_name = "卡拉克 僧诃"  # Kharak Singh
-        dynasty = "Sandhawalia"  # Sandhawalia
-        birth_date = 1801.1.1
-        death_date = 1840.11.5
-        claim = 95
-        ADM = 1
-        DIP = 1
-        MIL = 2
-    }
+  heir = {
+    name = "卡拉克"  # Kharak
+    monarch_name = "卡拉克 僧诃"  # Kharak Singh
+    dynasty = "Sandhawalia"
+    birth_date = 1801.1.1
+    death_date = 1840.11.5
+    claim = 95
+    ADM = 1
+    DIP = 1
+    MIL = 2
+  }
 }
 1444.1.1 = {
-    monarch = {
-        name = "Jasrath"  # Jasrath
-        dynasty = "霍哈尔"  # Khokhar
-    }
+  monarch = {
+    name = "Jasrath"
+    dynasty = "霍哈尔"  # Khokhar
+  }
 }

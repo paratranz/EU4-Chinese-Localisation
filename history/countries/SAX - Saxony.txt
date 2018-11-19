@@ -7,599 +7,599 @@ elector = yes
 technology_group = western
 capital = 62
 1388.1.1 = {
-    monarch = {
-        name = "鲁道夫 III"  # Rudolf III
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1373.1.1
-        dip = 1
-        adm = 3
-        mil = 1
-    }
+  monarch = {
+    name = "鲁道夫 III"  # Rudolf III
+    dynasty = "阿斯坎尼"  # Askanier
+    birth_date = 1373.1.1
+    dip = 1
+    adm = 3
+    mil = 1
+  }
 }
 1388.1.1 = {
-    heir = {
-        name = "阿尔布雷希特"  # Albrecht
-        monarch_name = "阿尔布雷希特 III"  # Albrecht III
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1375.1.1
-        death_date = 1422.11.12
-        claim = 95
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "阿尔布雷希特"  # Albrecht
+    monarch_name = "阿尔布雷希特 III"  # Albrecht III
+    dynasty = "阿斯坎尼"  # Askanier
+    birth_date = 1375.1.1
+    death_date = 1422.11.12
+    claim = 95
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1419.1.1 = {
-    monarch = {
-        name = "阿尔布雷希特 III"  # Albrecht III
-        dynasty = "阿斯坎尼"  # Askanier
-        birth_date = 1375.1.1
-        dip = 3
-        adm = 2
-        mil = 2
-    }
+  monarch = {
+    name = "阿尔布雷希特 III"  # Albrecht III
+    dynasty = "阿斯坎尼"  # Askanier
+    birth_date = 1375.1.1
+    dip = 3
+    adm = 2
+    mil = 2
+  }
 }
 1423.1.1 = {
-    monarch = {
-        name = "弗里德里希 I"  # Friedrich I
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1370.4.11
-        dip = 1
-        adm = 2
-        mil = 1
-    }
+  monarch = {
+    name = "弗里德里希 I"  # Friedrich I
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1370.4.11
+    dip = 1
+    adm = 2
+    mil = 1
+  }
 }
 1423.1.1 = {
-    heir = {
-        name = "弗里德里希"  # Friedrich
-        monarch_name = "弗里德里希 II"  # Friedrich II
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1412.8.22
-        death_date = 1464.9.7
-        claim = 95
-        adm = 4
-        dip = 3
-        mil = 0
-    }
+  heir = {
+    name = "弗里德里希"  # Friedrich
+    monarch_name = "弗里德里希 II"  # Friedrich II
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1412.8.22
+    death_date = 1464.9.7
+    claim = 95
+    adm = 4
+    dip = 3
+    mil = 0
+  }
 }
 1423.1.6 = {
-    capital = 61
+  capital = 61
 }
 1428.1.4 = {
-    monarch = {
-        name = "弗里德里希 II"  # Friedrich II
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1412.8.22
-        dip = 3
-        adm = 4
-        mil = 0
-    }
-    queen = {
-        country_of_origin = HAB
-        name = "玛格丽特"  # Margaret
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1416.6.3
-        death_date = 1464.9.7
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = fertile_personality
-    add_ruler_personality = industrious_personality
+  monarch = {
+    name = "弗里德里希 II"  # Friedrich II
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1412.8.22
+    dip = 3
+    adm = 4
+    mil = 0
+  }
+  queen = {
+    country_of_origin = HAB
+    name = "玛格丽特"  # Margaret
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1416.6.3
+    death_date = 1464.9.7
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = fertile_personality
+  add_ruler_personality = industrious_personality
 }
 1443.7.31 = {
-    heir = {
-        name = "阿尔布雷希特"  # Albrecht
-        monarch_name = "勇敢者 阿尔布雷希特 I"  # Albrecht I der Beherzte
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1443.7.31
-        death_date = 1500.9.12
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 5
-    }
+  heir = {
+    name = "阿尔布雷希特"  # Albrecht
+    monarch_name = "勇敢者 阿尔布雷希特 I"  # Albrecht I der Beherzte
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1443.7.31
+    death_date = 1500.9.12
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 5
+  }
 }
 1464.9.7 = {
-    elector = no
+  elector = no
 }
 1464.9.7 = {
-    monarch = {
-        name = "勇敢者 阿尔布雷希特 I"  # Albrecht I der Beherzte
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1443.7.31
-        dip = 1
-        adm = 2
-        mil = 5
-    }
+  monarch = {
+    name = "勇敢者 阿尔布雷希特 I"  # Albrecht I der Beherzte
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1443.7.31
+    dip = 1
+    adm = 2
+    mil = 5
+  }
 }
 1471.8.27 = {
-    heir = {
-        name = "Georg"  # Georg
-        monarch_name = "Georg der Bärtige"  # Georg der Bärtige
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1471.8.27
-        death_date = 1539.4.17
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "Georg"
+    monarch_name = "Georg der Bärtige"
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1471.8.27
+    death_date = 1539.4.17
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1500.9.12 = {
-    monarch = {
-        name = "Georg der Bärtige"  # Georg der Bärtige
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1471.8.27
-        dip = 1
-        adm = 1
-        mil = 2
-    }
+  monarch = {
+    name = "Georg der Bärtige"
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1471.8.27
+    dip = 1
+    adm = 1
+    mil = 2
+  }
 }
 1500.9.12 = {
-    heir = {
-        name = "海因里希"  # Heinrich
-        monarch_name = "虔诚者 海因里希"  # Heinrich der Fromme
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1473.3.16
-        death_date = 1541.8.18
-        claim = 95
-        adm = 1
-        dip = 2
-        mil = 1
-    }
+  heir = {
+    name = "海因里希"  # Heinrich
+    monarch_name = "虔诚者 海因里希"  # Heinrich der Fromme
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1473.3.16
+    death_date = 1541.8.18
+    claim = 95
+    adm = 1
+    dip = 2
+    mil = 1
+  }
 }
 1505.1.1 = {
-    leader = {
-        name = "毛里茨"  # Mauritz
-        type = general
-        fire = 4
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1532.1.1
-    }
+  leader = {
+    name = "毛里茨"  # Mauritz
+    type = "
+    generalfire = "
+    4shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1532.1.1
+  }
 }
 1531.1.1 = {
-    religion = protestant
+  religion = protestant
 }
 1539.4.17 = {
-    monarch = {
-        name = "虔诚者 海因里希"  # Heinrich der Fromme
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1473.3.16
-        dip = 2
-        adm = 1
-        mil = 1
-    }
+  monarch = {
+    name = "虔诚者 海因里希"  # Heinrich der Fromme
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1473.3.16
+    dip = 2
+    adm = 1
+    mil = 1
+  }
 }
 1539.4.17 = {
-    heir = {
-        name = "莫里茨"  # Moritz
-        monarch_name = "莫里茨 I"  # Moritz I
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1521.3.21
-        death_date = 1553.7.11
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 4
-        leader = {
-            name = "莫里茨 冯 韦廷"  # Moritz von Wettin
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 4
-            siege = 1
-        }
+  heir = {
+    name = "莫里茨"  # Moritz
+    monarch_name = "莫里茨 I"  # Moritz I
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1521.3.21
+    death_date = 1553.7.11
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 4
+    leader = {
+      name = "莫里茨 冯 韦廷"  # Moritz von Wettin
+      Wettin"type = "
+      generalfire = "
+      3shock = "
+      3manuever = "
+      4siege = 1
     }
+  }
 }
 1541.8.18 = {
-    monarch = {
-        name = "莫里茨 I"  # Moritz I
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1521.3.21
-        dip = 1
-        adm = 1
-        mil = 4
-        leader = {
-            name = "莫里茨 冯 韦廷"  # Moritz von Wettin
-            type = general
-            fire = 3
-            shock = 3
-            manuever = 4
-            siege = 1
-        }
+  monarch = {
+    name = "莫里茨 I"  # Moritz I
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1521.3.21
+    dip = 1
+    adm = 1
+    mil = 4
+    leader = {
+      name = "莫里茨 冯 韦廷"  # Moritz von Wettin
+      Wettin"type = "
+      generalfire = "
+      3shock = "
+      3manuever = "
+      4siege = 1
     }
+  }
 }
 1541.8.18 = {
-    heir = {
-        name = "奥古斯特"  # August
-        monarch_name = "奥古斯特"  # August
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1526.7.31
-        death_date = 1586.2.11
-        claim = 95
-        dip = 3
-        adm = 4
-        mil = 1
-    }
+  heir = {
+    name = "奥古斯特"  # August
+    monarch_name = "奥古斯特"  # August
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1526.7.31
+    death_date = 1586.2.11
+    claim = 95
+    dip = 3
+    adm = 4
+    mil = 1
+  }
 }
 1547.5.19 = {
-    elector = yes
+  elector = yes
 }
 1550.1.1 = {
-    leader = {
-        name = "F. von Leignitz"  # F. von Leignitz
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1570.12.15
-    }
+  leader = {
+    name = "F. von Leignitz"
+    Leignitz"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1570.12.15
+  }
 }
 1553.7.11 = {
-    monarch = {
-        name = "奥古斯特"  # August
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1526.7.31
-        dip = 3
-        adm = 4
-        mil = 1
-    }
+  monarch = {
+    name = "奥古斯特"  # August
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1526.7.31
+    dip = 3
+    adm = 4
+    mil = 1
+  }
 }
 1560.10.29 = {
-    heir = {
-        name = "克里斯蒂安"  # Christian
-        monarch_name = "克里斯蒂安 I"  # Christian I
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1560.10.29
-        death_date = 1591.9.25
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "克里斯蒂安"  # Christian
+    monarch_name = "克里斯蒂安 I"  # Christian I
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1560.10.29
+    death_date = 1591.9.25
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1586.2.12 = {
-    monarch = {
-        name = "克里斯蒂安 I"  # Christian I
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1560.10.29
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "克里斯蒂安 I"  # Christian I
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1560.10.29
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1586.2.12 = {
-    heir = {
-        name = "克里斯蒂安"  # Christian
-        monarch_name = "克里斯蒂安 II"  # Christian II
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1583.9.23
-        death_date = 1611.6.23
-        claim = 95
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  heir = {
+    name = "克里斯蒂安"  # Christian
+    monarch_name = "克里斯蒂安 II"  # Christian II
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1583.9.23
+    death_date = 1611.6.23
+    claim = 95
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1591.9.26 = {
-    monarch = {
-        name = "克里斯蒂安 II"  # Christian II
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1583.9.23
-        adm = 1
-        dip = 1
-        mil = 2
-    }
+  monarch = {
+    name = "克里斯蒂安 II"  # Christian II
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1583.9.23
+    adm = 1
+    dip = 1
+    mil = 2
+  }
 }
 1591.9.26 = {
-    heir = {
-        name = "约翰 格奥尔格"  # Johann Georg
-        monarch_name = "约翰 格奥尔格 I"  # Johann Georg I
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1585.3.5
-        death_date = 1656.10.8
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 4
-    }
+  heir = {
+    name = "约翰 格奥尔格"  # Johann Georg
+    monarch_name = "约翰 格奥尔格 I"  # Johann Georg I
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1585.3.5
+    death_date = 1656.10.8
+    claim = 95
+    adm = 3
+    dip = 4
+    mil = 4
+  }
 }
 1611.6.24 = {
-    monarch = {
-        name = "约翰 格奥尔格 I"  # Johann Georg I
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1585.3.5
-        adm = 3
-        dip = 4
-        mil = 4
-    }
+  monarch = {
+    name = "约翰 格奥尔格 I"  # Johann Georg I
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1585.3.5
+    adm = 3
+    dip = 4
+    mil = 4
+  }
 }
 1613.6.10 = {
-    heir = {
-        name = "约翰 格奥尔格"  # Johann Georg
-        monarch_name = "约翰 格奥尔格 II"  # Johann Georg II
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1613.6.10
-        death_date = 1680.8.22
-        claim = 95
-        adm = 3
-        dip = 3
-        mil = 3
-    }
+  heir = {
+    name = "约翰 格奥尔格"  # Johann Georg
+    monarch_name = "约翰 格奥尔格 II"  # Johann Georg II
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1613.6.10
+    death_date = 1680.8.22
+    claim = 95
+    adm = 3
+    dip = 3
+    mil = 3
+  }
 }
 1624.1.1 = {
-    leader = {
-        name = "Hans Georg von Arnim"  # Hans Georg von Arnim
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 2
-        siege = 0
-        death_date = 1641.4.28
-    }
+  leader = {
+    name = "Hans Georg von Arnim"
+    Arnim"type = "
+    generalfire = "
+    3shock = "
+    2manuever = "
+    2siege = "
+    0death_date = 1641.4.28
+  }
 }
 1631.8.30 = {
-    join_league = protestant
+  join_league = protestant
 }
 1635.1.1 = {
-    leave_league = protestant
+  leave_league = protestant
 }
 1635.10.16 = {
-    join_league = catholic
+  join_league = catholic
 }
 1646.4.14 = {
-    leave_league = catholic
+  leave_league = catholic
 }
 1650.1.1 = {
-    leader = {
-        name = "奥古斯塔斯 冯 韦廷"  # Augustus von Wettin
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 3
-        siege = 0
-        death_date = 1680.6.4
-    }
+  leader = {
+    name = "奥古斯塔斯 冯 韦廷"  # Augustus von Wettin
+    type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    3siege = "
+    0death_date = 1680.6.4
+  }
 }
 1656.10.9 = {
-    monarch = {
-        name = "约翰 格奥尔格 II"  # Johann Georg II
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1613.6.10
-        adm = 3
-        dip = 3
-        mil = 3
-    }
+  monarch = {
+    name = "约翰 格奥尔格 II"  # Johann Georg II
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1613.6.10
+    adm = 3
+    dip = 3
+    mil = 3
+  }
 }
 1656.10.9 = {
-    heir = {
-        name = "约翰 格奥尔格"  # Johann Georg
-        monarch_name = "约翰 格奥尔格 III"  # Johann Georg III
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1647.6.20
-        death_date = 1691.9.12
-        claim = 95
-        adm = 0
-        dip = 1
-        mil = 0
-    }
+  heir = {
+    name = "约翰 格奥尔格"  # Johann Georg
+    monarch_name = "约翰 格奥尔格 III"  # Johann Georg III
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1647.6.20
+    death_date = 1691.9.12
+    claim = 95
+    adm = 0
+    dip = 1
+    mil = 0
+  }
 }
 1670.1.1 = {
-    leader = {
-        name = "Schönfeld"  # Schönfeld
-        type = general
-        fire = 2
-        shock = 3
-        manuever = 2
-        siege = 1
-        death_date = 1690.1.1
-    }
+  leader = {
+    name = "Schönfeld"
+    type = "
+    generalfire = "
+    2shock = "
+    3manuever = "
+    2siege = "
+    1death_date = 1690.1.1
+  }
 }
 1675.1.1 = {
-    leader = {
-        name = "Toppauer"  # Toppauer
-        type = general
-        fire = 3
-        shock = 2
-        manuever = 2
-        siege = 1
-        death_date = 1699.1.1
-    }
+  leader = {
+    name = "Toppauer"
+    type = "
+    generalfire = "
+    3shock = "
+    2manuever = "
+    2siege = "
+    1death_date = 1699.1.1
+  }
 }
 1680.1.1 = {
-    leader = {
-        name = "von Saxe-Merseburg"  # von Saxe-Merseburg
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 2
-        siege = 1
-        death_date = 1694.10.20
-    }
+  leader = {
+    name = "von Saxe-Merseburg"
+    Saxe-Merseburg"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    2siege = "
+    1death_date = 1694.10.20
+  }
 }
 1680.8.23 = {
-    monarch = {
-        name = "约翰 格奥尔格 III"  # Johann Georg III
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1647.6.20
-        adm = 0
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "约翰 格奥尔格 III"  # Johann Georg III
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1647.6.20
+    adm = 0
+    dip = 1
+    mil = 0
+  }
 }
 1680.8.23 = {
-    heir = {
-        name = "约翰 格奥尔格"  # Johann Georg
-        monarch_name = "约翰 格奥尔格 IV"  # Johann Georg IV
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1668.10.18
-        death_date = 1694.4.27
-        claim = 95
-        adm = 4
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "约翰 格奥尔格"  # Johann Georg
+    monarch_name = "约翰 格奥尔格 IV"  # Johann Georg IV
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1668.10.18
+    death_date = 1694.4.27
+    claim = 95
+    adm = 4
+    dip = 3
+    mil = 1
+  }
 }
 1691.9.13 = {
-    monarch = {
-        name = "约翰 格奥尔格 IV"  # Johann Georg IV
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1668.10.18
-        adm = 4
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "约翰 格奥尔格 IV"  # Johann Georg IV
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1668.10.18
+    adm = 4
+    dip = 3
+    mil = 1
+  }
 }
 1691.9.13 = {
-    heir = {
-        name = "弗里德里希 奥古斯特"  # Friedrich August
-        monarch_name = "弗里德里希 奥古斯特 I"  # Friedrich August I
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1670.5.12
-        death_date = 1733.2.1
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 0
-    }
+  heir = {
+    name = "弗里德里希 奥古斯特"  # Friedrich August
+    monarch_name = "弗里德里希 奥古斯特 I"  # Friedrich August I
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1670.5.12
+    death_date = 1733.2.1
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 0
+  }
 }
 1694.4.28 = {
-    monarch = {
-        name = "弗里德里希 奥古斯特 I"  # Friedrich August I
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1670.5.12
-        religion = catholic
-        adm = 2
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "弗里德里希 奥古斯特 I"  # Friedrich August I
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1670.5.12
+    religion = catholic
+    adm = 2
+    dip = 1
+    mil = 0
+  }
 }
 1696.10.17 = {
-    heir = {
-        name = "弗里德里希 奥古斯特"  # Friedrich August
-        monarch_name = "弗里德里希 奥古斯特 II"  # Friedrich August II
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1696.10.17
-        death_date = 1763.10.5
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 0
-    }
+  heir = {
+    name = "弗里德里希 奥古斯特"  # Friedrich August
+    monarch_name = "弗里德里希 奥古斯特 II"  # Friedrich August II
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1696.10.17
+    death_date = 1763.10.5
+    claim = 95
+    adm = 1
+    dip = 3
+    mil = 0
+  }
 }
 1733.2.1 = {
-    monarch = {
-        name = "弗里德里希 奥古斯特 II"  # Friedrich August II
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1696.10.17
-        culture = saxon
-        religion = catholic
-        adm = 1
-        dip = 3
-        mil = 0
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = greedy_personality
-    add_ruler_personality = industrious_personality
-    queen = {
-        country_of_origin = HAB
-        name = "玛丽亚 约瑟法"  # Maria Jozefa
-        dynasty = "冯 哈布斯堡"  # von Habsburg
-        birth_date = 1699.12.8
-        death_date = 1757.11.17
-        female = yes
-        adm = 3
-        dip = 1
-        mil = 0
-    }
+  monarch = {
+    name = "弗里德里希 奥古斯特 II"  # Friedrich August II
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1696.10.17
+    culture = saxon
+    religion = catholic
+    adm = 1
+    dip = 3
+    mil = 0
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = greedy_personality
+  add_ruler_personality = industrious_personality
+  queen = {
+    country_of_origin = HAB
+    name = "玛丽亚 约瑟法"  # Maria Jozefa
+    dynasty = "冯 哈布斯堡"  # von Habsburg
+    birth_date = 1699.12.8
+    death_date = 1757.11.17
+    female = yes
+    adm = 3
+    dip = 1
+    mil = 0
+  }
 }
 1733.2.1 = {
-    heir = {
-        name = "弗里德里希 克里斯蒂安"  # Friedrich Christian
-        monarch_name = "弗里德里希 克里斯蒂安"  # Friedrich Christian
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1722.9.5
-        death_date = 1763.12.17
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 1
-    }
+  heir = {
+    name = "弗里德里希 克里斯蒂安"  # Friedrich Christian
+    monarch_name = "弗里德里希 克里斯蒂安"  # Friedrich Christian
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1722.9.5
+    death_date = 1763.12.17
+    claim = 95
+    adm = 1
+    dip = 3
+    mil = 1
+  }
 }
 1737.1.1 = {
-    leader = {
-        name = "F.A. von Cosel"  # F.A. von Cosel
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1770.1.1
-    }
+  leader = {
+    name = "F.A. von Cosel"
+    Cosel"type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1770.1.1
+  }
 }
 1745.1.1 = {
-    leader = {
-        name = "F.A. Rutowski"  # F.A. Rutowski
-        type = general
-        fire = 2
-        shock = 2
-        manuever = 3
-        siege = 0
-        death_date = 1764.3.16
-    }
+  leader = {
+    name = "F.A. Rutowski"
+    Rutowski"type = "
+    generalfire = "
+    2shock = "
+    2manuever = "
+    3siege = "
+    0death_date = 1764.3.16
+  }
 }
 1763.10.6 = {
-    monarch = {
-        name = "弗里德里希 克里斯蒂安"  # Friedrich Christian
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1722.9.5
-        adm = 1
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "弗里德里希 克里斯蒂安"  # Friedrich Christian
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1722.9.5
+    adm = 1
+    dip = 3
+    mil = 1
+  }
 }
 1763.10.6 = {
-    heir = {
-        name = "弗里德里希 奥古斯特"  # Friedrich August
-        monarch_name = "弗里德里希 奥古斯特 III"  # Friedrich August III
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1750.12.23
-        death_date = 1827.5.5
-        claim = 95
-        adm = 5
-        dip = 1
-        mil = 3
-    }
+  heir = {
+    name = "弗里德里希 奥古斯特"  # Friedrich August
+    monarch_name = "弗里德里希 奥古斯特 III"  # Friedrich August III
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1750.12.23
+    death_date = 1827.5.5
+    claim = 95
+    adm = 5
+    dip = 1
+    mil = 3
+  }
 }
 1763.12.18 = {
-    monarch = {
-        name = "弗里德里希 奥古斯特 III"  # Friedrich August III
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1750.12.23
-        adm = 5
-        dip = 1
-        mil = 3
-    }
+  monarch = {
+    name = "弗里德里希 奥古斯特 III"  # Friedrich August III
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1750.12.23
+    adm = 5
+    dip = 1
+    mil = 3
+  }
 }
 1763.12.18 = {
-    heir = {
-        name = "安东"  # Anton
-        monarch_name = "安东"  # Anton
-        dynasty = "冯 韦廷"  # von Wettin
-        birth_date = 1755.12.27
-        death_date = 1836.6.6
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 0
-    }
+  heir = {
+    name = "安东"  # Anton
+    monarch_name = "安东"  # Anton
+    dynasty = "冯 韦廷"  # von Wettin
+    birth_date = 1755.12.27
+    death_date = 1836.6.6
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 0
+  }
 }
 1806.7.12 = {
-    elector = no
+  elector = no
 }

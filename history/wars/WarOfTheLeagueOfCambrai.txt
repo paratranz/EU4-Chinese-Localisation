@@ -1,234 +1,234 @@
 ﻿name = "康布雷同盟战争"  # War of the League of Cambrai
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 108
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 108
 }
 1508.12.10 = {
-    add_attacker = FRA
-    add_attacker = HAB
-    add_attacker = MOD
-    add_defender = VEN
+  add_attacker = FRA
+  add_attacker = HAB
+  add_attacker = MOD
+  add_defender = VEN
 }
 1509.3.23 = {
-    add_attacker = PAP
+  add_attacker = PAP
 }
 1509.5.14 = {
-    battle = {
-        name = "阿尼亚德洛"  # Agnadello
-        location = 104
-        attacker = {
-            commander = "路易 XII"  # Louis XII
-            infantry = 18400
-            cavalry = 9500
-            losses = 2
-            country = FRA
-        }
-        defender = {
-            commander = "巴尔托洛梅奥 德 阿维亚诺"  # Bartolomeo d'Alviano
-            infantry = 11500
-            cavalry = 3200
-            losses = 28
-            country = VEN
-        }
-        result = yes
+  battle = {
+    name = "阿尼亚德洛"  # Agnadello
+    location = 104
+    attacker = {
+      commander = "路易 XII"  # Louis XII
+      infantry = 18400
+      cavalry = 9500
+      losses = 2
+      country = FRA
     }
+    defender = {
+      commander = "巴尔托洛梅奥 德 阿维亚诺"  # Bartolomeo d'Alviano
+      infantry = 11500
+      cavalry = 3200
+      losses = 28
+      country = VEN
+    }
+    result = yes
+  }
 }
 1509.9.15 = {
-    battle = {
-        name = "帕多瓦"  # Padua
-        location = 112
-        attacker = {
-            commander = "马克西米利安 I"  # Maximilian I
-            infantry = 38000
-            artillery = 100
-            losses = 10
-            country = HAB
-        }
-        defender = {
-            commander = "尼科罗 皮蒂利亚诺"  # Nicolo di Pitigliano
-            infantry = 14500
-            losses = 8
-            country = VEN
-        }
-        result = no
+  battle = {
+    name = "帕多瓦"  # Padua
+    location = 112
+    attacker = {
+      commander = "马克西米利安 I"  # Maximilian I
+      infantry = 38000
+      artillery = 100
+      losses = 10
+      country = HAB
     }
+    defender = {
+      commander = "尼科罗 皮蒂利亚诺"  # Nicolo di Pitigliano
+      infantry = 14500
+      losses = 8
+      country = VEN
+    }
+    result = no
+  }
 }
 1510.2.24 = {
-    rem_attacker = PAP
-    add_defender = PAP
+  rem_attacker = PAP
+  add_defender = PAP
 }
 1511.10.4 = {
-    add_defender = CAS
-    rem_attacker = HAB
-    add_defender = HAB
-    add_attacker = NAV
-    add_defender = SWI
+  add_defender = CAS
+  rem_attacker = HAB
+  add_defender = HAB
+  add_attacker = NAV
+  add_defender = SWI
 }
 1511.11.3 = {
-    add_defender = ENG
+  add_defender = ENG
 }
 1512.4.11 = {
-    battle = {
-        name = "拉文纳"  # Ravenna
-        location = 114
-        attacker = {
-            commander = "加斯东 德 富瓦"  # Gaston de Foix
-            infantry = 15700
-            cavalry = 9200
-            artillery = 30
-            losses = 12
-            country = FRA
-        }
-        defender = {
-            commander = "雷蒙 德 卡多纳"  # Ramon de Cardona
-            infantry = 8700
-            cavalry = 3500
-            artillery = 20
-            losses = 75
-            country = CAS
-        }
-        result = yes
+  battle = {
+    name = "拉文纳"  # Ravenna
+    location = 114
+    attacker = {
+      commander = "加斯东 德 富瓦"  # Gaston de Foix
+      infantry = 15700
+      cavalry = 9200
+      artillery = 30
+      losses = 12
+      country = FRA
     }
+    defender = {
+      commander = "雷蒙 德 卡多纳"  # Ramon de Cardona
+      infantry = 8700
+      cavalry = 3500
+      artillery = 20
+      losses = 75
+      country = CAS
+    }
+    result = yes
+  }
 }
 1512.6.20 = {
-    add_defender = MLO
+  add_defender = MLO
 }
 1512.8.10 = {
-    battle = {
-        name = "圣马蒂厄"  # St Mathieu
-        location = 170
-        attacker = {
-            commander = "勒内 德 克莱蒙"  # René de Clermont
-            heavy_ship = 15
-            light_ship = 6
-            losses = 5
-            country = FRA
-        }
-        defender = {
-            commander = "爱德华 霍华德"  # Edward Howard
-            heavy_ship = 20
-            light_ship = 5
-            losses = 8
-            country = ENG
-        }
-        result = no
+  battle = {
+    name = "圣马蒂厄"  # St Mathieu
+    location = 170
+    attacker = {
+      commander = "勒内 德 克莱蒙"  # René de Clermont
+      heavy_ship = 15
+      light_ship = 6
+      losses = 5
+      country = FRA
     }
+    defender = {
+      commander = "爱德华 霍华德"  # Edward Howard
+      heavy_ship = 20
+      light_ship = 5
+      losses = 8
+      country = ENG
+    }
+    result = no
+  }
 }
 1513.3.23 = {
-    rem_defender = VEN
-    add_attacker = VEN
+  rem_defender = VEN
+  add_attacker = VEN
 }
 1513.6.6 = {
-    battle = {
-        name = "诺瓦拉"  # Novara
-        location = 104
-        attacker = {
-            commander = "路易 德 拉特雷穆瓦耶"  # Louis de la Trémoille
-            infantry = 5500
-            cavalry = 4500
-            losses = 52
-            country = FRA
-        }
-        defender = {
-            commander = "马克西米利安 斯福尔扎"  # Maximilian Sforza
-            infantry = 8500
-            cavalry = 3500
-            losses = 42
-            country = MLO
-        }
-        result = no
+  battle = {
+    name = "诺瓦拉"  # Novara
+    location = 104
+    attacker = {
+      commander = "路易 德 拉特雷穆瓦耶"  # Louis de la Trémoille
+      infantry = 5500
+      cavalry = 4500
+      losses = 52
+      country = FRA
     }
+    defender = {
+      commander = "马克西米利安 斯福尔扎"  # Maximilian Sforza
+      infantry = 8500
+      cavalry = 3500
+      losses = 42
+      country = MLO
+    }
+    result = no
+  }
 }
 1513.7.26 = {
-    add_attacker = SCO
+  add_attacker = SCO
 }
 1513.9.9 = {
-    battle = {
-        name = "弗洛登"  # Flodden
-        location = 246
-        attacker = {
-            commander = "詹姆斯 IV"  # James IV
-            infantry = 27100
-            cavalry = 15000
-            losses = 32
-            country = SCO
-        }
-        defender = {
-            commander = "托马斯 霍华德"  # Thomas Howard
-            infantry = 17500
-            cavalry = 8400
-            losses = 10
-            country = ENG
-        }
-        result = no
+  battle = {
+    name = "弗洛登"  # Flodden
+    location = 246
+    attacker = {
+      commander = "詹姆斯 IV"  # James IV
+      infantry = 27100
+      cavalry = 15000
+      losses = 32
+      country = SCO
     }
+    defender = {
+      commander = "托马斯 霍华德"  # Thomas Howard
+      infantry = 17500
+      cavalry = 8400
+      losses = 10
+      country = ENG
+    }
+    result = no
+  }
 }
 1513.10.7 = {
-    battle = {
-        name = "拉莫塔"  # La Motta
-        location = 112
-        attacker = {
-            commander = "巴尔托洛梅奥 德 阿维亚诺"  # Bartolomeo d'Alviano
-            infantry = 10000
-            cavalry = 3000
-            losses = 35
-            country = VEN
-        }
-        defender = {
-            commander = "雷蒙 德 卡多纳"  # Ramon de Cardona
-            infantry = 7000
-            cavalry = 1000
-            losses = 10
-            country = CAS
-        }
-        result = no
+  battle = {
+    name = "拉莫塔"  # La Motta
+    location = 112
+    attacker = {
+      commander = "巴尔托洛梅奥 德 阿维亚诺"  # Bartolomeo d'Alviano
+      infantry = 10000
+      cavalry = 3000
+      losses = 35
+      country = VEN
     }
+    defender = {
+      commander = "雷蒙 德 卡多纳"  # Ramon de Cardona
+      infantry = 7000
+      cavalry = 1000
+      losses = 10
+      country = CAS
+    }
+    result = no
+  }
 }
 1514.8.7 = {
-    rem_defender = ENG
-    rem_attacker = SCO
+  rem_defender = ENG
+  rem_attacker = SCO
 }
 1515.9.13 = {
-    battle = {
-        name = "马里尼亚诺"  # Marignano
-        location = 104
-        attacker = {
-            commander = "弗朗西斯 I"  # Francis I
-            infantry = 37000
-            cavalry = 1700
-            losses = 10
-            country = FRA
-        }
-        defender = {
-            commander = "马克西米利安 斯福尔扎"  # Maximilian Sforza
-            infantry = 22000
-            cavalry = 200
-            losses = 50
-            country = SWI
-        }
-        result = yes
+  battle = {
+    name = "马里尼亚诺"  # Marignano
+    location = 104
+    attacker = {
+      commander = "弗朗西斯 I"  # Francis I
+      infantry = 37000
+      cavalry = 1700
+      losses = 10
+      country = FRA
     }
+    defender = {
+      commander = "马克西米利安 斯福尔扎"  # Maximilian Sforza
+      infantry = 22000
+      cavalry = 200
+      losses = 50
+      country = SWI
+    }
+    result = yes
+  }
 }
 1515.11.7 = {
-    rem_defender = SWI
+  rem_defender = SWI
 }
 1515.12.14 = {
-    rem_defender = PAP
-    rem_attacker = MOD
+  rem_defender = PAP
+  rem_attacker = MOD
 }
 1516.1.23 = {
-    rem_defender = ARA
-    rem_defender = CAS
-    add_defender = SPA
+  rem_defender = ARA
+  rem_defender = CAS
+  add_defender = SPA
 }
 1516.8.13 = {
-    rem_defender = SPA
-    rem_attacker = NAV
+  rem_defender = SPA
+  rem_attacker = NAV
 }
 1516.12.1 = {
-    rem_attacker = FRA
-    rem_attacker = VEN
-    rem_defender = HAB
-    rem_defender = MLO
+  rem_attacker = FRA
+  rem_attacker = VEN
+  rem_defender = HAB
+  rem_defender = MLO
 }

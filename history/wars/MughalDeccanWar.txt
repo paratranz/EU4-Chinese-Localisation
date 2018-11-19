@@ -1,18 +1,18 @@
 ﻿name = "莫卧儿入侵艾哈迈德纳格尔"  # Mughal Invasion of Ahmednagar
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 544
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 544
 }
 1615.1.1 = {
-    add_attacker = MUG
-    add_defender = AHM
-    add_defender = GOC
-    add_defender = BIJ
+  add_attacker = MUG
+  add_defender = AHM
+  add_defender = GOC
+  add_defender = BIJ
 }
 1622.1.1 = {
-    rem_attacker = MUG
-    rem_defender = AHM
-    rem_defender = GOC
-    rem_defender = BIJ
+  rem_attacker = MUG
+  rem_defender = AHM
+  rem_defender = GOC
+  rem_defender = BIJ
 }

@@ -1,14 +1,14 @@
 ﻿name = "征服达让"  # Conquest of Darrang
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 571
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 571
 }
 1667.1.1 = {
-    add_attacker = ASS
-    add_defender = MUG
+  add_attacker = ASS
+  add_defender = MUG
 }
 1669.1.1 = {
-    rem_attacker = ASS
-    rem_defender = MUG
+  rem_attacker = ASS
+  rem_defender = MUG
 }

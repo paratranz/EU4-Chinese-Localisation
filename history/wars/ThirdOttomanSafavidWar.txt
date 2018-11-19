@@ -1,14 +1,14 @@
 ﻿name = "第三次奥斯曼-萨法维战争"  # Third Ottoman-Safavid War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 420
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 420
 }
 1548.3.29 = {
-    add_attacker = TUR
-    add_defender = PER
+  add_attacker = TUR
+  add_defender = PER
 }
 1549.12.1 = {
-    rem_attacker = TUR
-    rem_defender = PER
+  rem_attacker = TUR
+  rem_defender = PER
 }

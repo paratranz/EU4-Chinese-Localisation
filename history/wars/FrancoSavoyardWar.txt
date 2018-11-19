@@ -1,14 +1,14 @@
 ﻿name = "法国-萨伏伊战争"  # Franco-Savoyard War
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 201
+  type = take_core
+  casus_belli = cb_core
+  province = 201
 }
 1590.6.1 = {
-    add_attacker = SAV
-    add_defender = FRA
+  add_attacker = SAV
+  add_defender = FRA
 }
 1593.5.1 = {
-    rem_attacker = SAV
-    rem_defender = FRA
+  rem_attacker = SAV
+  rem_defender = FRA
 }

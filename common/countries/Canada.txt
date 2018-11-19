@@ -2,333 +2,333 @@
 colonial_parent = GBR
 random_nation_chance = 0
 color = {
-    94
-    117
-    55
+  94
+  117
+  55
 }
 historical_idea_groups = {
-    defensive_ideas
-    religious_ideas
-    trade_ideas
-    economic_ideas
-    plutocracy_ideas
-    diplomatic_ideas
-    offensive_ideas
-    spy_ideas
+  defensive_ideas
+  religious_ideas
+  trade_ideas
+  economic_ideas
+  plutocracy_ideas
+  diplomatic_ideas
+  offensive_ideas
+  spy_ideas
 }
 historical_units = {
-    western_medieval_infantry
-    western_medieval_knights
-    western_longbow
-    gaelic_mercenary
-    gaelic_free_shooter
-    irish_charge
-    anglofrench_line
-    british_redcoat
-    british_hussar
-    british_square
-    mixed_order_infantry
-    open_order_cavalry
-    napoleonic_square
-    napoleonic_lancers
+  western_medieval_infantry
+  western_medieval_knights
+  western_longbow
+  gaelic_mercenary
+  gaelic_free_shooter
+  irish_charge
+  anglofrench_line
+  british_redcoat
+  british_hussar
+  british_square
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
 }
 monarch_names = {
-    "杰弗里 #0" = 5
-    "塞缪尔 #0" = 40
-    "詹姆斯 #0" = 5
-    "盖伊 #0" = 20
-    "弗雷德里克 #0" = 20
-    "罗伯特 #0" = 20
-    "托马斯 #0" = 20
-    "乔治 #0" = 20
-    "查理 #0" = 40
-    "路易 #0" = 20
-    "简 #0" = 5
-    "皮埃尔 #0" = 5
-    "丹尼尔 #0" = 20
-    "奥古斯丁 #0" = 5
-    "约瑟夫 #0" = 5
-    "雅各 #0" = 5
-    "菲利普 #0" = 0
-    "罗兰 #0" = 5
-    "米切尔 #0" = 5
-    "戈登 #0" = 5
-    "亚历山大 #0" = 0
-    "艾玛布尔 #0" = 0
-    "安东 #0" = 0
-    "本杰明 #0" = 0
-    "克里斯托弗 #0" = 0
-    "戴维 #0" = 0
-    "戴维 威廉 #0" = 0
-    "爱德华 #0" = 0
-    "伊芙琳 #0" = 0
-    "弗朗西斯 #0" = 0
-    "加布埃尔 #0" = 0
-    "吉奥姆 #0" = 0
-    "胡伯特 #0" = 0
-    "休 #0" = 0
-    "海森 #0" = 0
-    "伊格内斯 #0" = 0
-    "艾萨克 #0" = 0
-    "雅各布 #0" = 0
-    "简 巴提斯 #0" = 0
-    "查理 米歇尔 #0" = 0
-    "杰里米亚 #0" = 0
-    "约翰 #0" = 0
-    "路易 约瑟夫 #0" = 0
-    "路易 希波利特 #0" = 0
-    "马修 #0" = 0
-    "那塔伊尔 #0" = 0
-    "尼古拉斯 #0" = 0
-    "帕肖 #0" = 0
-    "彼得 #0" = 0
-    "皮埃尔 路易 #0" = 0
-    "理查德 #0" = 0
-    "RenÃ© #0" = 0
-    "所罗门 #0" = 0
-    "提莫西 #0" = 0
-    "威廉 #0" = 0
-    "劳拉 #0" = -1
-    "玛利亚 #0" = -1
-    "维多利亚 #0" = -1
-    "夏洛特 #0" = -1
-    "阿德里安娜 #0" = -1
-    "玛格丽特 #0" = -1
+  "RenÃ© #0" = 0
+  "杰弗里 #0" = 5  # Jeffery #0
+  "塞缪尔 #0" = 40  # Samuel #0
+  "詹姆斯 #0" = 5  # James #0
+  "盖伊 #0" = 20  # Guy #0
+  "弗雷德里克 #0" = 20  # Frederick #0
+  "罗伯特 #0" = 20  # Robert #0
+  "托马斯 #0" = 20  # Thomas #0
+  "乔治 #0" = 20  # George #0
+  "查理 #0" = 40  # Charles #0
+  "路易 #0" = 20  # Louis #0
+  "简 #0" = 5  # Jean #0
+  "皮埃尔 #0" = 5  # Pierre #0
+  "丹尼尔 #0" = 20  # Daniel #0
+  "奥古斯丁 #0" = 5  # Augustin #0
+  "约瑟夫 #0" = 5  # Joseph #0
+  "雅各 #0" = 5  # Jacques #0
+  "菲利普 #0" = 0  # Philip #0
+  "罗兰 #0" = 5  # Roland #0
+  "米切尔 #0" = 5  # Michel #0
+  "戈登 #0" = 5  # Gordon #0
+  "亚历山大 #0" = 0  # Alexander #0
+  "艾玛布尔 #0" = 0  # Amable #0
+  "安东 #0" = 0  # Antoine #0
+  "本杰明 #0" = 0  # Benjamin #0
+  "克里斯托弗 #0" = 0  # Christopher #0
+  "戴维 #0" = 0  # David #0
+  "戴维 威廉 #0" = 0  # David William #0
+  "爱德华 #0" = 0  # Edward #0
+  "伊芙琳 #0" = 0  # Ephraim #0
+  "弗朗西斯 #0" = 0  # FranÃ§ois #0
+  "加布埃尔 #0" = 0  # Gabriel #0
+  "吉奥姆 #0" = 0  # Guillaume #0
+  "胡伯特 #0" = 0  # Hubert #0
+  "休 #0" = 0  # Hugh #0
+  "海森 #0" = 0  # Hyacinthe #0
+  "伊格内斯 #0" = 0  # Ignace #0
+  "艾萨克 #0" = 0  # Isaac #0
+  "雅各布 #0" = 0  # Jacob #0
+  "简 巴提斯 #0" = 0  # Jean-Baptiste #0
+  "查理 米歇尔 #0" = 0  # Charles-Michel #0
+  "杰里米亚 #0" = 0  # Jeremiah #0
+  "约翰 #0" = 0  # John #0
+  "路易 约瑟夫 #0" = 0  # Louis-Joseph #0
+  "路易 希波利特 #0" = 0  # Louis-Hippolyte #0
+  "马修 #0" = 0  # Mathew #0
+  "那塔伊尔 #0" = 0  # Nathaniel #0
+  "尼古拉斯 #0" = 0  # Nicolas #0
+  "帕肖 #0" = 0  # Parshall #0
+  "彼得 #0" = 0  # Peter #0
+  "皮埃尔 路易 #0" = 0  # Pierre-Louis #0
+  "理查德 #0" = 0  # Richard #0
+  "所罗门 #0" = 0  # Solomon #0
+  "提莫西 #0" = 0  # Timothy #0
+  "威廉 #0" = 0  # William #0
+  "劳拉 #0" = -1  # Laura #0
+  "玛利亚 #0" = -1  # Maria #0
+  "维多利亚 #0" = -1  # Victoria #0
+  "夏洛特 #0" = -1  # Charlotte #0
+  "阿德里安娜 #0" = -1  # Adrienne #0
+  "玛格丽特 #0" = -1  # Marguerite #0
 }
 leader_names = {
-    "Allsopp"  # Allsopp
-    "阿默斯特"  # Amherst
-    "Auldjo"  # Auldjo
-    "贝比"  # Baby
-    "巴恩斯"  # Barnes
-    "Beasley"  # Beasley
-    "BÃ©dard"  # BÃ©dard
-    "BÃ©gin"  # BÃ©gin
-    "贝尔"  # Bell
-    "Bernier"  # Bernier
-    "Berthelot"  # Berthelot
-    "Black"  # Black
-    "Boileau"  # Boileau
-    "Boisseau"  # Boisseau
-    "布思"  # Booth
-    "Bouc"  # Bouc
-    "Boucher"  # Boucher
-    "Boudreau"  # Boudreau
-    "Bowen"  # Bowen
-    "Brodeur"  # Brodeur
-    "布罗克"  # Brock
-    "Bronson"  # Bronson
-    "Browne"  # Browne
-    "By"  # By
-    "Caldwell"  # Caldwell
-    "坎贝尔"  # Campbell
-    "卡尔顿"  # Carleton
-    "卡蒂埃"  # Cartier
-    "Chartier"  # Chartier
-    "Cherrier"  # Cherrier
-    "Coffin"  # Coffin
-    "康沃尔"  # Cornwall
-    "克雷格"  # Craig
-    "克雷吉"  # Craigie
-    "卡斯伯特"  # Cuthbert
-    "达尔豪西"  # Dalhousie
-    "DambourgÃ©s"  # DambourgÃ©s
-    "Dartigny"  # Dartigny
-    "德 阿西"  # D'Arcy
-    "德 邦内"  # de Bonne
-    "de Lavaltrie"  # de Lavaltrie
-    "de Lorimier"  # de Lorimier
-    "de LotbiniÃ¨re"  # de LotbiniÃ¨re
-    "de Rocheblave"  # de Rocheblave
-    "德 鲁维尔"  # de Rouville
-    "德 萨拉贝利"  # de Salaberry
-    "de Tonnancour"  # de Tonnancour
-    "DigÃ©"  # DigÃ©
-    "Dorion"  # Dorion
-    "Dorland"  # Dorland
-    "Ducharme"  # Ducharme
-    "Duchesnay"  # Duchesnay
-    "Dufour"  # Dufour
-    "Dumont"  # Dumont
-    "DuniÃ¨re"  # DuniÃ¨re
-    "Dunn"  # Dunn
-    "DuprÃ©"  # DuprÃ©
-    "Duplessis"  # Duplessis
-    "Dumas"  # Dumas
-    "Durocher"  # Durocher
-    "Duvernay"  # Duvernay
-    "Ã‰thier"  # Ã‰thier
-    "Fairfield"  # Fairfield
-    "Fisher"  # Fisher
-    "Foucher"  # Foucher
-    "弗拉瑟"  # Fraser
-    "法兰西"  # French
-    "弗罗比歇"  # Frobisher
-    "格兰特"  # Grant
-    "格雷"  # Gray
-    "戈德弗鲁瓦"  # Godefroy
-    "Gouin"  # Gouin
-    "Guerout"  # Guerout
-    "盖伊"  # Guy
-    "Hardison"  # Hardison
-    "哈特"  # Hart
-    "海伍德"  # Harwood
-    "HÃ©bert"  # HÃ©bert
-    "亨利"  # Henry
-    "赫梯尔"  # Hertel
-    "Huot"  # Huot
-    "Ingersoll"  # Ingersoll
-    "Irvine"  # Irvine
-    "杰瑟普"  # Jessup
-    "Jodoin"  # Jodoin
-    "乔丹"  # Jordan
-    "琼斯"  # Jones
-    "拉克鲁瓦"  # Lacroix
-    "Lafontaine"  # Lafontaine
-    "Larocque"  # Larocque
-    "Lebreton"  # Lebreton
-    "le Comte"  # le Comte
-    "李"  # Lee
-    "Lees"  # Lees
-    "Lester"  # Lester
-    "Lynd"  # Lynd
-    "Macnider"  # Macnider
-    "Macomb"  # Macomb
-    "Malhiot"  # Malhiot
-    "Marcoux"  # Marcoux
-    "Martineau"  # Martineau
-    "McBeath"  # McBeath
-    "McCrae"  # McCrae
-    "McDonell"  # McDonell
-    "麦克吉尔"  # McGill
-    "McGillivray"  # McGillivray
-    "McKee"  # McKee
-    "McLeod"  # McLeod
-    "Menut"  # Menut
-    "Millet"  # Millet
-    "蒙克"  # Monk
-    "Montour"  # Montour
-    "穆尔"  # Moore
-    "Mure"  # Mure
-    "默里"  # Murray
-    "Nelson"  # Nelson
-    "Panet"  # Panet
-    "Papineau"  # Papineau
-    "Paquet"  # Paquet
-    "Pawling"  # Pawling
-    "Perrault"  # Perrault
-    "PÃ©rinault"  # PÃ©rinault
-    "Pettit"  # Pettit
-    "Pierreville"  # Pierreville
-    "PlantÃ©"  # PlantÃ©
-    "Prescott"  # Prescott
-    "PrÃ©vost"  # PrÃ©vost
-    "Raby"  # Raby
-    "Richardson"  # Richardson
-    "Richmond"  # Richmond
-    "Riel"  # Riel
-    "Rivard"  # Rivard
-    "Robinson"  # Robinson
-    "Rogers"  # Rogers
-    "Roy"  # Roy
-    "圣马丁"  # Saint-Martin
-    "Secord"  # Secord
-    "Sewell"  # Sewell
-    "肖"  # Shaw
-    "舍布鲁克"  # Sherbrooke
-    "Sirois"  # Sirois
-    "史密斯"  # Smith
-    "斯潘塞"  # Spencer
-    "斯坦利"  # Stanley
-    "斯图亚特"  # Stuart
-    "街区"  # Street
-    "Swayze"  # Swayze
-    "TachÃ©"  # TachÃ©
-    "Taschereau"  # Taschereau
-    "特里"  # Terry
-    "汤普森"  # Thompson
-    "Tod"  # Tod
-    "Van Alstine"  # Van Alstine
-    "Vanier"  # Vanier
-    "Viger"  # Viger
-    "沃克"  # Walker
-    "怀特"  # White
-    "威尔金森"  # Wilkinson
-    "扬"  # Young
+  "Allsopp"
+  "阿默斯特"  # Amherst
+  "Auldjo"
+  "贝比"  # Baby
+  "巴恩斯"  # Barnes
+  "Beasley"
+  "BÃ©dard"
+  "BÃ©gin"
+  "贝尔"  # Bell
+  "Bernier"
+  "Berthelot"
+  "Black"
+  "Boileau"
+  "Boisseau"
+  "布思"  # Booth
+  "Bouc"
+  "Boucher"
+  "Boudreau"
+  "Bowen"
+  "Brodeur"
+  "布罗克"  # Brock
+  "Bronson"
+  "Browne"
+  "By"
+  "Caldwell"
+  "坎贝尔"  # Campbell
+  "卡尔顿"  # Carleton
+  "卡蒂埃"  # Cartier
+  "Chartier"
+  "Cherrier"
+  "Coffin"
+  "康沃尔"  # Cornwall
+  "克雷格"  # Craig
+  "克雷吉"  # Craigie
+  "卡斯伯特"  # Cuthbert
+  "达尔豪西"  # Dalhousie
+  "DambourgÃ©s"
+  "Dartigny"
+  "德 阿西"  # D'Arcy
+  "德 邦内"  # de Bonne
+  "de Lavaltrie"
+  "de Lorimier"
+  "de LotbiniÃ¨re"
+  "de Rocheblave"
+  "德 鲁维尔"  # de Rouville
+  "德 萨拉贝利"  # de Salaberry
+  "de Tonnancour"
+  "DigÃ©"
+  "Dorion"
+  "Dorland"
+  "Ducharme"
+  "Duchesnay"
+  "Dufour"
+  "Dumont"
+  "DuniÃ¨re"
+  "Dunn"
+  "DuprÃ©"
+  "Duplessis"
+  "Dumas"
+  "Durocher"
+  "Duvernay"
+  "Ã‰thier"
+  "Fairfield"
+  "Fisher"
+  "Foucher"
+  "弗拉瑟"  # Fraser
+  "法兰西"  # French
+  "弗罗比歇"  # Frobisher
+  "格兰特"  # Grant
+  "格雷"  # Gray
+  "戈德弗鲁瓦"  # Godefroy
+  "Gouin"
+  "Guerout"
+  "盖伊"  # Guy
+  "Hardison"
+  "哈特"  # Hart
+  "海伍德"  # Harwood
+  "HÃ©bert"
+  "亨利"  # Henry
+  "赫梯尔"  # Hertel
+  "Huot"
+  "Ingersoll"
+  "Irvine"
+  "杰瑟普"  # Jessup
+  "Jodoin"
+  "乔丹"  # Jordan
+  "琼斯"  # Jones
+  "拉克鲁瓦"  # Lacroix
+  "Lafontaine"
+  "Larocque"
+  "Lebreton"
+  "le Comte"
+  "李"  # Lee
+  "Lees"
+  "Lester"
+  "Lynd"
+  "Macnider"
+  "Macomb"
+  "Malhiot"
+  "Marcoux"
+  "Martineau"
+  "McBeath"
+  "McCrae"
+  "McDonell"
+  "麦克吉尔"  # McGill
+  "McGillivray"
+  "McKee"
+  "McLeod"
+  "Menut"
+  "Millet"
+  "蒙克"  # Monk
+  "Montour"
+  "穆尔"  # Moore
+  "Mure"
+  "默里"  # Murray
+  "Nelson"
+  "Panet"
+  "Papineau"
+  "Paquet"
+  "Pawling"
+  "Perrault"
+  "PÃ©rinault"
+  "Pettit"
+  "Pierreville"
+  "PlantÃ©"
+  "Prescott"
+  "PrÃ©vost"
+  "Raby"
+  "Richardson"
+  "Richmond"
+  "Riel"
+  "Rivard"
+  "Robinson"
+  "Rogers"
+  "Roy"
+  "圣马丁"  # Saint-Martin
+  "Secord"
+  "Sewell"
+  "肖"  # Shaw
+  "舍布鲁克"  # Sherbrooke
+  "Sirois"
+  "史密斯"  # Smith
+  "斯潘塞"  # Spencer
+  "斯坦利"  # Stanley
+  "斯图亚特"  # Stuart
+  "街区"  # Street
+  "Swayze"
+  "TachÃ©"
+  "Taschereau"
+  "特里"  # Terry
+  "汤普森"  # Thompson
+  "Tod"
+  "Van Alstine"
+  "Vanier"
+  "Viger"
+  "沃克"  # Walker
+  "怀特"  # White
+  "威尔金森"  # Wilkinson
+  "扬"  # Young
 }
 ship_names = {
-    "卡伯特"  # Cabot
-    "尚普兰"  # Champlain
-    "卡蒂埃"  # Cartier
-    "阿卡迪亚"  # Acadia
-    "奥雪来嘉"  # Hochelaga
-    "斯塔达科纳"  # Stadacona
-    "劳伦提亚"  # Laurentian
-    "QuÃ©bec"  # QuÃ©bec
-    "安大略"  # Ontario
-    "Athabaskan"  # Athabaskan
-    "卡尤加"  # Cayuga
-    "休伦"  # Huron
-    "易洛魁"  # Iroquois
-    "密克马克"  # Micmac
-    "阿尔冈昆"  # Algonquin
-    "Sioux"  # Sioux
-    "奥吉布瓦"  # Ojibwa
-    "奥农达加"  # Onondaga
-    "Saguenay"  # Saguenay
-    "St. Maurice"  # St. Maurice
-    "Ottawa"  # Ottawa
-    "ChaudiÃ¨re"  # ChaudiÃ¨re
-    "黎塞留"  # Richelieu
-    "St. Laurent"  # St. Laurent
-    "Gatineau"  # Gatineau
-    "Margaree"  # Margaree
-    "Restigouche"  # Restigouche
-    "Saskatchewan"  # Saskatchewan
-    "Qu'Appelle"  # Qu'Appelle
-    "St. Francis"  # St. Francis
-    "St. Croix"  # St. Croix
-    "Niagara"  # Niagara
-    "Bonaventure"  # Bonaventure
-    "Manitoulin"  # Manitoulin
-    "Anticosti"  # Anticosti
-    "Baffin"  # Baffin
-    "Miscou"  # Miscou
-    "Magdalen"  # Magdalen
-    "Gaspe"  # Gaspe
-    "Fundy"  # Fundy
-    "Labrador"  # Labrador
-    "Chaleur"  # Chaleur
-    "Chignecto"  # Chignecto
-    "Fortune"  # Fortune
-    "Miramichi"  # Miramichi
-    "Quinte"  # Quinte
-    "Thunder"  # Thunder
-    "Ungava"  # Ungava
-    "Cape Breton"  # Cape Breton
-    "MemphrÃ©magog"  # MemphrÃ©magog
-    "Bras d'Or"  # Bras d'Or
-    "Nipigon"  # Nipigon
-    "Preserver"  # Preserver
-    "Protecteur"  # Protecteur
-    "Cormorant"  # Cormorant
-    "Lynx"  # Lynx
-    "獾"  # Badger
-    "卡里布"  # Caribou
-    "獭"  # Otter
-    "沃夫"  # Wolf
-    "Grizzly"  # Grizzly
-    "Raccoon"  # Raccoon
-    "隆恩"  # Loon
-    "蓝色苍鹭"  # Blue Heron
-    "野鸭"  # Mallard
-    "Vison"  # Vison
-    "雷纳德"  # Renard
-    "麋鹿"  # Elk
-    "海狸"  # Beaver
-    "安布勒"  # Ambler
-    "Husky"  # Husky
-    "驯鹿"  # Reindeer
-    "穆斯"  # Moose
-    "Outarde"  # Outarde
+  "卡伯特"  # Cabot
+  "尚普兰"  # Champlain
+  "卡蒂埃"  # Cartier
+  "阿卡迪亚"  # Acadia
+  "奥雪来嘉"  # Hochelaga
+  "斯塔达科纳"  # Stadacona
+  "劳伦提亚"  # Laurentian
+  "QuÃ©bec"
+  "安大略"  # Ontario
+  "Athabaskan"
+  "卡尤加"  # Cayuga
+  "休伦"  # Huron
+  "易洛魁"  # Iroquois
+  "密克马克"  # Micmac
+  "阿尔冈昆"  # Algonquin
+  "Sioux"
+  "奥吉布瓦"  # Ojibwa
+  "奥农达加"  # Onondaga
+  "Saguenay"
+  "St. Maurice"
+  "Ottawa"
+  "ChaudiÃ¨re"
+  "黎塞留"  # Richelieu
+  "St. Laurent"
+  "Gatineau"
+  "Margaree"
+  "Restigouche"
+  "Saskatchewan"
+  "Qu'Appelle"
+  "St. Francis"
+  "St. Croix"
+  "Niagara"
+  "Bonaventure"
+  "Manitoulin"
+  "Anticosti"
+  "Baffin"
+  "Miscou"
+  "Magdalen"
+  "Gaspe"
+  "Fundy"
+  "Labrador"
+  "Chaleur"
+  "Chignecto"
+  "Fortune"
+  "Miramichi"
+  "Quinte"
+  "Thunder"
+  "Ungava"
+  "Cape Breton"
+  "MemphrÃ©magog"
+  "Bras d'Or"
+  "Nipigon"
+  "Preserver"
+  "Protecteur"
+  "Cormorant"
+  "Lynx"
+  "獾"  # Badger
+  "卡里布"  # Caribou
+  "獭"  # Otter
+  "沃夫"  # Wolf
+  "Grizzly"
+  "Raccoon"
+  "隆恩"  # Loon
+  "蓝色苍鹭"  # Blue Heron
+  "野鸭"  # Mallard
+  "Vison"
+  "雷纳德"  # Renard
+  "麋鹿"  # Elk
+  "海狸"  # Beaver
+  "安布勒"  # Ambler
+  "Husky"
+  "驯鹿"  # Reindeer
+  "穆斯"  # Moose
+  "Outarde"
 }

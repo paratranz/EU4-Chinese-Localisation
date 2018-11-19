@@ -1,14 +1,14 @@
 ﻿name = "大越-柬埔寨战争"  # Vietnamese-Cambodian War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 605
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 605
 }
 1642.1.1 = {
-    add_attacker = ANN
-    add_defender = KHM
+  add_attacker = ANN
+  add_defender = KHM
 }
 1642.12.31 = {
-    rem_attacker = ANN
-    rem_defender = KHM
+  rem_attacker = ANN
+  rem_defender = KHM
 }

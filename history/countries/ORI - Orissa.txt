@@ -5,257 +5,257 @@ religion = hinduism
 technology_group = indian
 capital = 552
 1434.1.1 = {
-    monarch = {
-        name = "卡皮伦德拉"  # Kapilendra
-        dynasty = "加贾帕蒂"  # Gajapati
-        ADM = 4
-        DIP = 5
-        MIL = 6
-        leader = {
-            name = "卡皮伦德拉"  # Kapilendra
-            type = general
-            fire = 3
-            shock = 5
-            manuever = 2
-            siege = 1
-        }
+  monarch = {
+    name = "卡皮伦德拉"  # Kapilendra
+    dynasty = "加贾帕蒂"  # Gajapati
+    ADM = 4
+    DIP = 5
+    MIL = 6
+    leader = {
+      name = "卡皮伦德拉"  # Kapilendra
+      "Kapilendra"type = "
+      generalfire = "
+      3shock = "
+      5manuever = "
+      2siege = 1
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = conqueror_personality
-    add_ruler_personality = inspiring_leader_personality
-    add_heir_personality = bold_fighter_personality
-    heir = {
-        name = "哈姆维拉"  # Hamvira
-        monarch_name = "哈姆维拉"  # Hamvira
-        dynasty = "加贾帕蒂"  # Gajapati
-        birth_date = 1418.1.1
-        death_Date = 1476.1.1
-        claim = 95
-        ADM = 3
-        DIP = 2
-        MIL = 2
-    }
-    queen = {
-        country_of_origin = ORI
-        name = "帕尔瓦蒂 黛维"  # Parvati Devi
-        dynasty = "达什"  # Dash
-        birth_date = 1420.1.1
-        death_date = 1480.1.1
-        female = yes
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = conqueror_personality
+  add_ruler_personality = inspiring_leader_personality
+  add_heir_personality = bold_fighter_personality
+  heir = {
+    name = "哈姆维拉"  # Hamvira
+    monarch_name = "哈姆维拉"  # Hamvira
+    dynasty = "加贾帕蒂"  # Gajapati
+    birth_date = 1418.1.1
+    death_Date = 1476.1.1
+    claim = 95
+    ADM = 3
+    DIP = 2
+    MIL = 2
+  }
+  queen = {
+    country_of_origin = ORI
+    name = "帕尔瓦蒂 黛维"  # Parvati Devi
+    dynasty = "达什"  # Dash
+    birth_date = 1420.1.1
+    death_date = 1480.1.1
+    female = yes
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1465.1.1 = {
-    heir = {
-        name = "普鲁绍塔马"  # Purushottama
-        monarch_name = "普鲁绍塔马"  # Purushottama
-        dynasty = "加贾帕蒂"  # Gajapati
-        birth_date = 1420.1.1
-        death_Date = 1497.4.2
-        claim = 95
-        ADM = 3
-        DIP = 2
-        MIL = 5
-    }
+  heir = {
+    name = "普鲁绍塔马"  # Purushottama
+    monarch_name = "普鲁绍塔马"  # Purushottama
+    dynasty = "加贾帕蒂"  # Gajapati
+    birth_date = 1420.1.1
+    death_Date = 1497.4.2
+    claim = 95
+    ADM = 3
+    DIP = 2
+    MIL = 5
+  }
 }
 1466.1.1 = {
-    monarch = {
-        name = "普鲁绍塔马"  # Purushottama
-        dynasty = "加贾帕蒂"  # Gajapati
-        ADM = 3
-        DIP = 2
-        MIL = 5
-    }
+  monarch = {
+    name = "普鲁绍塔马"  # Purushottama
+    dynasty = "加贾帕蒂"  # Gajapati
+    ADM = 3
+    DIP = 2
+    MIL = 5
+  }
 }
 1472.1.1 = {
-    monarch = {
-        name = "哈姆维拉"  # Hamvira
-        dynasty = "加贾帕蒂"  # Gajapati
-        ADM = 3
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "哈姆维拉"  # Hamvira
+    dynasty = "加贾帕蒂"  # Gajapati
+    ADM = 3
+    DIP = 2
+    MIL = 2
+  }
 }
 1476.1.1 = {
-    monarch = {
-        name = "普鲁绍塔马"  # Purushottama
-        dynasty = "加贾帕蒂"  # Gajapati
-        ADM = 3
-        DIP = 2
-        MIL = 6
-    }
+  monarch = {
+    name = "普鲁绍塔马"  # Purushottama
+    dynasty = "加贾帕蒂"  # Gajapati
+    ADM = 3
+    DIP = 2
+    MIL = 6
+  }
 }
 1476.1.1 = {
-    heir = {
-        name = "普拉塔普鲁德拉"  # Pratâprudra
-        monarch_name = "普拉塔普鲁德拉"  # Pratâprudra
-        dynasty = "加贾帕蒂"  # Gajapati
-        birth_date = 1470.1.1
-        death_date = 1540.1.1
-        claim = 95
-        ADM = 1
-        DIP = 3
-        MIL = 1
-    }
+  heir = {
+    name = "普拉塔普鲁德拉"  # Pratâprudra
+    monarch_name = "普拉塔普鲁德拉"  # Pratâprudra
+    dynasty = "加贾帕蒂"  # Gajapati
+    birth_date = 1470.1.1
+    death_date = 1540.1.1
+    claim = 95
+    ADM = 1
+    DIP = 3
+    MIL = 1
+  }
 }
 1489.1.1 = {
-    queen = {
-        country_of_origin = VIJ
-        name = "帕德玛瓦蒂 黛维"  # Padmavati Devi
-        dynasty = "萨卢瓦"  # Saluva
-        birth_date = 1420.1.1
-        death_date = 1480.1.1
-        female = yes
-        adm = 2
-        dip = 3
-        mil = 2
-    }
+  queen = {
+    country_of_origin = VIJ
+    name = "帕德玛瓦蒂 黛维"  # Padmavati Devi
+    dynasty = "萨卢瓦"  # Saluva
+    birth_date = 1420.1.1
+    death_date = 1480.1.1
+    female = yes
+    adm = 2
+    dip = 3
+    mil = 2
+  }
 }
 1497.4.2 = {
-    monarch = {
-        name = "普拉塔普鲁德拉"  # Pratâprudra
-        dynasty = "加贾帕蒂"  # Gajapati
-        ADM = 1
-        DIP = 3
-        MIL = 1
-    }
+  monarch = {
+    name = "普拉塔普鲁德拉"  # Pratâprudra
+    dynasty = "加贾帕蒂"  # Gajapati
+    ADM = 1
+    DIP = 3
+    MIL = 1
+  }
 }
 1497.4.2 = {
-    heir = {
-        name = "卡卢阿德瓦"  # Kaluadeva
-        monarch_name = "卡卢阿德瓦"  # Kaluadeva
-        dynasty = "加贾帕蒂"  # Gajapati
-        birth_date = 1490.1.1
-        death_date = 1541.1.1
-        claim = 95
-        ADM = 3
-        DIP = 1
-        MIL = 2
-    }
+  heir = {
+    name = "卡卢阿德瓦"  # Kaluadeva
+    monarch_name = "卡卢阿德瓦"  # Kaluadeva
+    dynasty = "加贾帕蒂"  # Gajapati
+    birth_date = 1490.1.1
+    death_date = 1541.1.1
+    claim = 95
+    ADM = 3
+    DIP = 1
+    MIL = 2
+  }
 }
 1540.1.1 = {
-    monarch = {
-        name = "卡卢阿德瓦"  # Kaluadeva
-        dynasty = "加贾帕蒂"  # Gajapati
-        ADM = 3
-        DIP = 1
-        MIL = 2
-    }
+  monarch = {
+    name = "卡卢阿德瓦"  # Kaluadeva
+    dynasty = "加贾帕蒂"  # Gajapati
+    ADM = 3
+    DIP = 1
+    MIL = 2
+  }
 }
 1541.1.1 = {
-    monarch = {
-        name = "戈温达拉贾 维迪亚达拉"  # Govindaraja Vidyadhara
-        dynasty = "博伊"  # Bhoi
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "戈温达拉贾 维迪亚达拉"  # Govindaraja Vidyadhara
+    dynasty = "博伊"  # Bhoi
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1541.1.1 = {
-    heir = {
-        name = "查克拉普雷塔帕"  # Chakrapretâpa
-        monarch_name = "查克拉普雷塔帕"  # Chakrapretâpa
-        dynasty = "博伊"  # Bhoi
-        birth_date = 1520.1.1
-        death_date = 1557.1.1
-        claim = 95
-        ADM = 0
-        DIP = 1
-        MIL = 1
-    }
+  heir = {
+    name = "查克拉普雷塔帕"  # Chakrapretâpa
+    monarch_name = "查克拉普雷塔帕"  # Chakrapretâpa
+    dynasty = "博伊"  # Bhoi
+    birth_date = 1520.1.1
+    death_date = 1557.1.1
+    claim = 95
+    ADM = 0
+    DIP = 1
+    MIL = 1
+  }
 }
 1549.1.1 = {
-    monarch = {
-        name = "查克拉普雷塔帕"  # Chakrapretâpa
-        dynasty = "博伊"  # Bhoi
-        ADM = 0
-        DIP = 1
-        MIL = 1
-    }
+  monarch = {
+    name = "查克拉普雷塔帕"  # Chakrapretâpa
+    dynasty = "博伊"  # Bhoi
+    ADM = 0
+    DIP = 1
+    MIL = 1
+  }
 }
 1549.1.1 = {
-    heir = {
-        name = "纳拉希马 贾纳"  # Nârashima Jana
-        monarch_name = "纳拉希马 贾纳"  # Nârashima Jana
-        dynasty = "博伊"  # Bhoi
-        birth_date = 1540.1.1
-        death_date = 1558.1.1
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 1
-    }
+  heir = {
+    name = "纳拉希马 贾纳"  # Nârashima Jana
+    monarch_name = "纳拉希马 贾纳"  # Nârashima Jana
+    dynasty = "博伊"  # Bhoi
+    birth_date = 1540.1.1
+    death_date = 1558.1.1
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 1
+  }
 }
 1557.1.1 = {
-    monarch = {
-        name = "纳拉希马 贾纳"  # Nârashima Jana
-        dynasty = "博伊"  # Bhoi
-        ADM = 0
-        DIP = 0
-        MIL = 1
-    }
+  monarch = {
+    name = "纳拉希马 贾纳"  # Nârashima Jana
+    dynasty = "博伊"  # Bhoi
+    ADM = 0
+    DIP = 0
+    MIL = 1
+  }
 }
 1557.1.1 = {
-    heir = {
-        name = "拉古拉马 乔特拉"  # Raghurâma Chhotra
-        monarch_name = "拉古拉马 乔特拉"  # Raghurâma Chhotra
-        dynasty = "博伊"  # Bhoi
-        birth_date = 1530.1.1
-        death_date = 1560.1.1
-        claim = 95
-        ADM = 0
-        DIP = 1
-        MIL = 0
-    }
+  heir = {
+    name = "拉古拉马 乔特拉"  # Raghurâma Chhotra
+    monarch_name = "拉古拉马 乔特拉"  # Raghurâma Chhotra
+    dynasty = "博伊"  # Bhoi
+    birth_date = 1530.1.1
+    death_date = 1560.1.1
+    claim = 95
+    ADM = 0
+    DIP = 1
+    MIL = 0
+  }
 }
 1558.1.1 = {
-    monarch = {
-        name = "拉古拉马 乔特拉"  # Raghurâma Chhotra
-        dynasty = "博伊"  # Bhoi
-        ADM = 0
-        DIP = 1
-        MIL = 0
-    }
+  monarch = {
+    name = "拉古拉马 乔特拉"  # Raghurâma Chhotra
+    dynasty = "博伊"  # Bhoi
+    ADM = 0
+    DIP = 1
+    MIL = 0
+  }
 }
 1560.1.1 = {
-    monarch = {
-        name = "穆昆达德瓦 哈里尚德拉"  # Mukundadeva Harishandra
-        dynasty = "查卢基亚"  # Chalukya
-        ADM = 0
-        DIP = 0
-        MIL = 0
-    }
+  monarch = {
+    name = "穆昆达德瓦 哈里尚德拉"  # Mukundadeva Harishandra
+    dynasty = "查卢基亚"  # Chalukya
+    ADM = 0
+    DIP = 0
+    MIL = 0
+  }
 }
 1560.1.1 = {
-    heir = {
-        name = "拉姆钱德拉 德瓦"  # Râmchandra Deva
-        monarch_name = "拉姆钱德拉 德瓦 I"  # Râmchandra Deva I
-        dynasty = "查卢基亚"  # Chalukya
-        birth_date = 1540.1.1
-        death_date = 1607.1.1
-        claim = 95
-        ADM = 4
-        DIP = 3
-        MIL = 3
-    }
+  heir = {
+    name = "拉姆钱德拉 德瓦"  # Râmchandra Deva
+    monarch_name = "拉姆钱德拉 德瓦 I"  # Râmchandra Deva I
+    dynasty = "查卢基亚"  # Chalukya
+    birth_date = 1540.1.1
+    death_date = 1607.1.1
+    claim = 95
+    ADM = 4
+    DIP = 3
+    MIL = 3
+  }
 }
 1567.1.1 = {
-    monarch = {
-        name = "拉姆钱德拉 德瓦 I"  # Râmchandra Deva I
-        dynasty = "查卢基亚"  # Chalukya
-        ADM = 4
-        DIP = 3
-        MIL = 3
-    }
+  monarch = {
+    name = "拉姆钱德拉 德瓦 I"  # Râmchandra Deva I
+    dynasty = "查卢基亚"  # Chalukya
+    ADM = 4
+    DIP = 3
+    MIL = 3
+  }
 }
 1572.1.1 = {
-    monarch = {
-        name = "达乌德"  # Da'ud
-        dynasty = "卡拉尼"  # Karrani
-        ADM = 0
-        DIP = 0
-        MIL = 0
-    }
+  monarch = {
+    name = "达乌德"  # Da'ud
+    dynasty = "卡拉尼"  # Karrani
+    ADM = 0
+    DIP = 0
+    MIL = 0
+  }
 }

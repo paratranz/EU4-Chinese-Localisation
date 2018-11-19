@@ -8,277 +8,277 @@ capital = 527
 fixed_capital = 527
 religious_school = hanafi_school
 1399.1.1 = {
-    monarch = {
-        name = "纳西尔 汗"  # Nasir Khan
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 2
-        DIP = 1
-        MIL = 2
-    }
+  monarch = {
+    name = "纳西尔 汗"  # Nasir Khan
+    dynasty = "Faruqi"
+    ADM = 2
+    DIP = 1
+    MIL = 2
+  }
 }
 1399.1.1 = {
-    heir = {
-        name = "Miran Adil Khan"  # Miran Adil Khan
-        monarch_name = "Miran Adil Khan I"  # Miran Adil Khan I
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1399.1.1
-        death_date = 1441.4.28
-        claim = 95
-        ADM = 1
-        DIP = 2
-        MIL = 0
-    }
+  heir = {
+    name = "Miran Adil Khan"
+    monarch_name = "Miran Adil Khan I"
+    dynasty = "Faruqi"
+    birth_date = 1399.1.1
+    death_date = 1441.4.28
+    claim = 95
+    ADM = 1
+    DIP = 2
+    MIL = 0
+  }
 }
 1437.9.20 = {
-    monarch = {
-        name = "Miran Adil Khan I"  # Miran Adil Khan I
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 1
-        DIP = 2
-        MIL = 0
-    }
+  monarch = {
+    name = "Miran Adil Khan I"
+    dynasty = "Faruqi"
+    ADM = 1
+    DIP = 2
+    MIL = 0
+  }
 }
 1437.9.20 = {
-    heir = {
-        name = "Miran Mubarak"  # Miran Mubarak
-        monarch_name = "Miran Mubarak Khan I"  # Miran Mubarak Khan I
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1420.1.1
-        death_date = 1457.6.5
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "Miran Mubarak"
+    monarch_name = "Miran Mubarak Khan I"
+    dynasty = "Faruqi"
+    birth_date = 1420.1.1
+    death_date = 1457.6.5
+    claim = 95
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1441.4.28 = {
-    monarch = {
-        name = "Miran Mubarak Khan I"  # Miran Mubarak Khan I
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = greedy_personality
+  monarch = {
+    name = "Miran Mubarak Khan I"
+    dynasty = "Faruqi"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = greedy_personality
 }
 1441.4.28 = {
-    heir = {
-        name = "阿迪勒 汗"  # 'Adil Khan
-        monarch_name = "阿迪勒 汗 II"  # 'Adil Khan II
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1430.1.1
-        death_date = 1503.9.6
-        claim = 95
-        ADM = 2
-        DIP = 4
-        MIL = 3
-    }
+  heir = {
+    name = "阿迪勒 汗"  # 'Adil Khan
+    monarch_name = "阿迪勒 汗 II"  # 'Adil Khan II
+    dynasty = "Faruqi"
+    birth_date = 1430.1.1
+    death_date = 1503.9.6
+    claim = 95
+    ADM = 2
+    DIP = 4
+    MIL = 3
+  }
 }
 1457.6.5 = {
-    monarch = {
-        name = "阿迪勒 汗 II"  # 'Adil Khan II
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 2
-        DIP = 4
-        MIL = 3
-    }
+  monarch = {
+    name = "阿迪勒 汗 II"  # 'Adil Khan II
+    dynasty = "Faruqi"
+    ADM = 2
+    DIP = 4
+    MIL = 3
+  }
 }
 1480.1.1 = {
-    heir = {
-        name = "达乌德 汗"  # Da'ud Khan
-        monarch_name = "达乌德 汗"  # Da'ud Khan
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1480.1.1
-        death_date = 1510.8.6
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "达乌德 汗"  # Da'ud Khan
+    monarch_name = "达乌德 汗"  # Da'ud Khan
+    dynasty = "Faruqi"
+    birth_date = 1480.1.1
+    death_date = 1510.8.6
+    claim = 95
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1503.9.6 = {
-    monarch = {
-        name = "达乌德 汗"  # Da'ud Khan
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "达乌德 汗"  # Da'ud Khan
+    dynasty = "Faruqi"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1503.9.6 = {
-    heir = {
-        name = "Ghazni"  # Ghazni
-        monarch_name = "Ghazni Khan"  # Ghazni Khan
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1480.1.1
-        death_date = 1510.8.8
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 0
-    }
+  heir = {
+    name = "Ghazni"
+    monarch_name = "Ghazni Khan"
+    dynasty = "Faruqi"
+    birth_date = 1480.1.1
+    death_date = 1510.8.8
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 0
+  }
 }
 1510.8.6 = {
-    monarch = {
-        name = "Ghazni Khan"  # Ghazni Khan
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 0
-        DIP = 0
-        MIL = 0
-    }
+  monarch = {
+    name = "Ghazni Khan"
+    dynasty = "Faruqi"
+    ADM = 0
+    DIP = 0
+    MIL = 0
+  }
 }
 1510.8.6 = {
-    heir = {
-        name = "阿拉姆"  # Alam
-        monarch_name = "阿拉姆 汗"  # Alam Khan
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1490.1.1
-        death_date = 1510.10.1
-        claim = 95
-        ADM = 0
-        DIP = 0
-        MIL = 0
-    }
+  heir = {
+    name = "阿拉姆"  # Alam
+    monarch_name = "阿拉姆 汗"  # Alam Khan
+    dynasty = "Faruqi"
+    birth_date = 1490.1.1
+    death_date = 1510.10.1
+    claim = 95
+    ADM = 0
+    DIP = 0
+    MIL = 0
+  }
 }
 1510.8.8 = {
-    monarch = {
-        name = "阿拉姆 汗"  # Alam Khan
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 0
-        DIP = 0
-        MIL = 0
-    }
+  monarch = {
+    name = "阿拉姆 汗"  # Alam Khan
+    dynasty = "Faruqi"
+    ADM = 0
+    DIP = 0
+    MIL = 0
+  }
 }
 1510.8.8 = {
-    heir = {
-        name = "'Adil"  # 'Adil
-        monarch_name = "阿迪勒 汗"  # 'Adil Khan
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1490.1.1
-        death_date = 1520.7.4
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "'Adil"
+    monarch_name = "阿迪勒 汗"  # 'Adil Khan
+    dynasty = "Faruqi"
+    birth_date = 1490.1.1
+    death_date = 1520.7.4
+    claim = 95
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1510.10.1 = {
-    monarch = {
-        name = "阿迪勒 汗"  # 'Adil Khan
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "阿迪勒 汗"  # 'Adil Khan
+    dynasty = "Faruqi"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1510.10.1 = {
-    heir = {
-        name = "Miran Muhammad"  # Miran Muhammad
-        monarch_name = "Miran Muhammad Khan I"  # Miran Muhammad Khan I
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1500.1.1
-        death_date = 1537.5.4
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "Miran Muhammad"
+    monarch_name = "Miran Muhammad Khan I"
+    dynasty = "Faruqi"
+    birth_date = 1500.1.1
+    death_date = 1537.5.4
+    claim = 95
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1520.7.24 = {
-    monarch = {
-        name = "Miran Muhammad Khan I"  # Miran Muhammad Khan I
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "Miran Muhammad Khan I"
+    dynasty = "Faruqi"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1520.7.24 = {
-    heir = {
-        name = "Miran Mubarak"  # Miran Mubarak
-        monarch_name = "Miran Mubarak Shah II"  # Miran Mubarak Shah II
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1500.1.1
-        death_date = 1566.12.19
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "Miran Mubarak"
+    monarch_name = "Miran Mubarak Shah II"
+    dynasty = "Faruqi"
+    birth_date = 1500.1.1
+    death_date = 1566.12.19
+    claim = 95
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1537.5.4 = {
-    monarch = {
-        name = "Miran Mubarak Shah II"  # Miran Mubarak Shah II
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "Miran Mubarak Shah II"
+    dynasty = "Faruqi"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1537.5.4 = {
-    heir = {
-        name = "Miran Mubarak Shah"  # Miran Mubarak Shah
-        monarch_name = "Miran Mubarak Shah II"  # Miran Mubarak Shah II
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1520.1.1
-        death_date = 1576.1.1
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "Miran Mubarak Shah"
+    monarch_name = "Miran Mubarak Shah II"
+    dynasty = "Faruqi"
+    birth_date = 1520.1.1
+    death_date = 1576.1.1
+    claim = 95
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1566.12.19 = {
-    monarch = {
-        name = "Miran Muhammad Shah II"  # Miran Muhammad Shah II
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "Miran Muhammad Shah II"
+    dynasty = "Faruqi"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1566.12.19 = {
-    heir = {
-        name = "Rajah 'Ali Khan"  # Rajah 'Ali Khan
-        monarch_name = "Raja 'Ali Khan"  # Raja 'Ali Khan
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1550.1.1
-        death_date = 1597.1.7
-        claim = 95
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  heir = {
+    name = "Rajah 'Ali Khan"
+    monarch_name = "Raja 'Ali Khan"
+    dynasty = "Faruqi"
+    birth_date = 1550.1.1
+    death_date = 1597.1.7
+    claim = 95
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1576.1.1 = {
-    monarch = {
-        name = "Rajah 'Ali Khan"  # Rajah 'Ali Khan
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 2
-        DIP = 2
-        MIL = 2
-    }
+  monarch = {
+    name = "Rajah 'Ali Khan"
+    dynasty = "Faruqi"
+    ADM = 2
+    DIP = 2
+    MIL = 2
+  }
 }
 1580.1.1 = {
-    heir = {
-        name = "Miran Bahadur Shah"  # Miran Bahadur Shah
-        monarch_name = "Miran Bahadur Shah"  # Miran Bahadur Shah
-        dynasty = "Faruqi"  # Faruqi
-        birth_date = 1580.1.1
-        death_date = 1600.4.8
-        claim = 95
-        ADM = 2
-        DIP = 0
-        MIL = 0
-    }
+  heir = {
+    name = "Miran Bahadur Shah"
+    monarch_name = "Miran Bahadur Shah"
+    dynasty = "Faruqi"
+    birth_date = 1580.1.1
+    death_date = 1600.4.8
+    claim = 95
+    ADM = 2
+    DIP = 0
+    MIL = 0
+  }
 }
 1597.1.7 = {
-    monarch = {
-        name = "Miran Bahadur Shah"  # Miran Bahadur Shah
-        dynasty = "Faruqi"  # Faruqi
-        ADM = 2
-        DIP = 0
-        MIL = 0
-    }
+  monarch = {
+    name = "Miran Bahadur Shah"
+    dynasty = "Faruqi"
+    ADM = 2
+    DIP = 0
+    MIL = 0
+  }
 }

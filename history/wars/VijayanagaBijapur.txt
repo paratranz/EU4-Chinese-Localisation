@@ -1,18 +1,18 @@
 ﻿name = "比贾普尔-卡纳塔克之战"  # War for the Bijapur-Karnatak
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 1949
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 1949
 }
 1645.1.1 = {
-    add_attacker = BIJ
-    add_defender = VIJ
-    add_defender = MYS
-    add_defender = MAD
+  add_attacker = BIJ
+  add_defender = VIJ
+  add_defender = MYS
+  add_defender = MAD
 }
 1662.1.1 = {
-    rem_attacker = BIJ
-    rem_defender = VIJ
-    rem_defender = MYS
-    rem_defender = MAD
+  rem_attacker = BIJ
+  rem_defender = VIJ
+  rem_defender = MYS
+  rem_defender = MAD
 }

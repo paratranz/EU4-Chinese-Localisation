@@ -1,14 +1,14 @@
 ﻿name = "缅甸-掸邦战争"  # Burmese-Shan War
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 584
+  type = take_core
+  casus_belli = cb_core
+  province = 584
 }
 1554.1.1 = {
-    add_attacker = TAU
-    add_defender = SST
+  add_attacker = TAU
+  add_defender = SST
 }
 1563.4.1 = {
-    rem_attacker = TAU
-    rem_defender = SST
+  rem_attacker = TAU
+  rem_defender = SST
 }

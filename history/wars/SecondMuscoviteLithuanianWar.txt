@@ -1,37 +1,37 @@
 ﻿name = "第二次莫斯科-立陶宛战争"  # Second Muscovite-Lithuanian War
 war_goal = {
-    type = take_province_nationalist
-    casus_belli = cb_nationalist
-    province = 293
+  type = take_province_nationalist
+  casus_belli = cb_nationalist
+  province = 293
 }
 1500.5.1 = {
-    add_attacker = MOS
-    add_defender = LIT
-    add_defender = POL
+  add_attacker = MOS
+  add_defender = LIT
+  add_defender = POL
 }
 1500.7.14 = {
-    battle = {
-        name = "韦德罗沙"  # Vedrosha
-        location = 295
-        attacker = {
-            commander = "丹尼尔 先亚"  # Daniil Shchenya
-            infantry = 26000
-            cavalry = 12000
-            losses = 3
-            country = MOS
-        }
-        defender = {
-            commander = "康斯坦丁 奥斯特罗格斯基"  # Konstantin Ostrogski
-            infantry = 28000
-            cavalry = 12000
-            losses = 20
-            country = POL
-        }
-        result = yes
+  battle = {
+    name = "韦德罗沙"  # Vedrosha
+    location = 295
+    attacker = {
+      commander = "丹尼尔 先亚"  # Daniil Shchenya
+      infantry = 26000
+      cavalry = 12000
+      losses = 3
+      country = MOS
     }
+    defender = {
+      commander = "康斯坦丁 奥斯特罗格斯基"  # Konstantin Ostrogski
+      infantry = 28000
+      cavalry = 12000
+      losses = 20
+      country = POL
+    }
+    result = yes
+  }
 }
 1503.3.21 = {
-    rem_attacker = MOS
-    rem_defender = LIT
-    rem_defender = POL
+  rem_attacker = MOS
+  rem_defender = LIT
+  rem_defender = POL
 }

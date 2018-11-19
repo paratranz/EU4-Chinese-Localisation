@@ -1,14 +1,14 @@
 ﻿name = "比贾布尔-比德尔战争"  # Bijapuri-Bidari War
 war_goal = {
-    type = take_border
-    casus_belli = cb_border_war
-    province = 2035
+  type = take_border
+  casus_belli = cb_border_war
+  province = 2035
 }
 1526.1.1 = {
-    add_attacker = BIJ
-    add_defender = BAH
+  add_attacker = BIJ
+  add_defender = BAH
 }
 1528.1.1 = {
-    rem_attacker = BIJ
-    rem_defender = BAH
+  rem_attacker = BIJ
+  rem_defender = BAH
 }

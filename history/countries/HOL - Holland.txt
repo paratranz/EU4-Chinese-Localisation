@@ -6,58 +6,58 @@ religion = catholic
 primary_culture = dutch
 capital = 4383
 1389.1.1 = {
-    monarch = {
-        name = "阿尔伯特"  # Albert
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        adm = 4
-        dip = 3
-        mil = 1
-    }
+  monarch = {
+    name = "阿尔伯特"  # Albert
+    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
+    adm = 4
+    dip = 3
+    mil = 1
+  }
 }
 1389.1.1 = {
-    heir = {
-        name = "威廉"  # Willem
-        monarch_name = "威廉 VI"  # Willem VI
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1365.4.5
-        death_date = 1417.5.31
-        claim = 95
-        adm = 2
-        dip = 2
-        mil = 2
-    }
+  heir = {
+    name = "威廉"  # Willem
+    monarch_name = "威廉 VI"  # Willem VI
+    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
+    birth_date = 1365.4.5
+    death_date = 1417.5.31
+    claim = 95
+    adm = 2
+    dip = 2
+    mil = 2
+  }
 }
 1404.1.1 = {
-    monarch = {
-        name = "威廉 VI"  # Willem VI
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        adm = 2
-        dip = 2
-        mil = 2
-    }
-    heir = {
-        name = "雅各芭"  # Jacoba
-        monarch_name = "雅各芭"  # Jacoba
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        birth_date = 1401.8.16
-        death_date = 1436.10.8
-        claim = 95
-        adm = 2
-        dip = 1
-        mil = 1
-        female = yes
-    }
+  monarch = {
+    name = "威廉 VI"  # Willem VI
+    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
+    adm = 2
+    dip = 2
+    mil = 2
+  }
+  heir = {
+    name = "雅各芭"  # Jacoba
+    monarch_name = "雅各芭"  # Jacoba
+    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
+    birth_date = 1401.8.16
+    death_date = 1436.10.8
+    claim = 95
+    adm = 2
+    dip = 1
+    mil = 1
+    female = yes
+  }
 }
 1417.5.31 = {
-    monarch = {
-        name = "雅各芭"  # Jacoba
-        dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
-        adm = 2
-        dip = 1
-        mil = 1
-        female = yes
-    }
+  monarch = {
+    name = "雅各芭"  # Jacoba
+    dynasty = "冯 维特尔斯巴赫"  # von Wittelsbach
+    adm = 2
+    dip = 1
+    mil = 1
+    female = yes
+  }
 }
 1580.1.1 = {
-    set_legacy_government = administrative_republic
+  set_legacy_government = administrative_republic
 }

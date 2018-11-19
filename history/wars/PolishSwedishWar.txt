@@ -1,35 +1,35 @@
 ﻿name = "第一次波兰立陶宛-瑞典战争"  # First Commonwealth-Swedish War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 36
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 36
 }
 1600.1.1 = {
-    add_attacker = PLC
-    add_defender = SWE
+  add_attacker = PLC
+  add_defender = SWE
 }
 1605.9.27 = {
-    battle = {
-        name = "基尔裘姆"  # Kircholm
-        location = 38
-        attacker = {
-            commander = "扬 卡罗尔 赫特基耶维奇"  # Jan Karol Chodkiewicz
-            infantry = 1300
-            cavalry = 2500
-            losses = 21
-            country = PLC
-        }
-        defender = {
-            commander = "卡尔 IX"  # Karl IX
-            infantry = 9000
-            cavalry = 3000
-            losses = 59
-            country = SWE
-        }
-        result = yes
+  battle = {
+    name = "基尔裘姆"  # Kircholm
+    location = 38
+    attacker = {
+      commander = "扬 卡罗尔 赫特基耶维奇"  # Jan Karol Chodkiewicz
+      infantry = 1300
+      cavalry = 2500
+      losses = 21
+      country = PLC
     }
+    defender = {
+      commander = "卡尔 IX"  # Karl IX
+      infantry = 9000
+      cavalry = 3000
+      losses = 59
+      country = SWE
+    }
+    result = yes
+  }
 }
 1611.1.1 = {
-    rem_attacker = PLC
-    rem_defender = SWE
+  rem_attacker = PLC
+  rem_defender = SWE
 }

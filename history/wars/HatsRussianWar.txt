@@ -1,14 +1,14 @@
 ﻿name = "礼帽党的俄国战争"  # Hats Russian War
 war_goal = {
-    type = take_core
-    casus_belli = cb_core
-    province = 30
+  type = take_core
+  casus_belli = cb_core
+  province = 30
 }
 1741.8.8 = {
-    add_attacker = SWE
-    add_defender = RUS
+  add_attacker = SWE
+  add_defender = RUS
 }
 1743.8.7 = {
-    rem_attacker = SWE
-    rem_defender = RUS
+  rem_attacker = SWE
+  rem_defender = RUS
 }

@@ -1,58 +1,58 @@
 ﻿name = "摩尔达维亚-奥斯曼战争"  # Moldavian-Ottoman War
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 268
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 268
 }
 1470.1.1 = {
-    add_attacker = TUR
-    add_defender = MOL
-    add_defender = POL
+  add_attacker = TUR
+  add_defender = MOL
+  add_defender = POL
 }
 1475.1.10 = {
-    battle = {
-        name = "瓦斯卢伊"  # Vaslui
-        location = 268
-        attacker = {
-            commander = "宦官苏莱曼 帕夏"  # Hadân Suleiman Pasha
-            infantry = 48500
-            cavalry = 26000
-            losses = 54
-            country = TUR
-        }
-        defender = {
-            commander = "斯蒂芬 III"  # Stephen III
-            infantry = 35000
-            cavalry = 14500
-            losses = 10
-            country = MOL
-        }
-        result = no
+  battle = {
+    name = "瓦斯卢伊"  # Vaslui
+    location = 268
+    attacker = {
+      commander = "宦官苏莱曼 帕夏"  # Hadân Suleiman Pasha
+      infantry = 48500
+      cavalry = 26000
+      losses = 54
+      country = TUR
     }
+    defender = {
+      commander = "斯蒂芬 III"  # Stephen III
+      infantry = 35000
+      cavalry = 14500
+      losses = 10
+      country = MOL
+    }
+    result = no
+  }
 }
 1476.7.26 = {
-    battle = {
-        name = "瓦莱亚 阿尔伯"  # Valea Alba
-        location = 268
-        attacker = {
-            commander = "穆罕穆德 II"  # Mehmed II
-            infantry = 68500
-            cavalry = 44500
-            losses = 42
-            country = TUR
-        }
-        defender = {
-            commander = "斯特凡大帝"  # Stefan cel Mare
-            infantry = 31200
-            cavalry = 15500
-            losses = 65
-            country = MOL
-        }
-        result = yes
+  battle = {
+    name = "瓦莱亚 阿尔伯"  # Valea Alba
+    location = 268
+    attacker = {
+      commander = "穆罕穆德 II"  # Mehmed II
+      infantry = 68500
+      cavalry = 44500
+      losses = 42
+      country = TUR
     }
+    defender = {
+      commander = "斯特凡大帝"  # Stefan cel Mare
+      infantry = 31200
+      cavalry = 15500
+      losses = 65
+      country = MOL
+    }
+    result = yes
+  }
 }
 1504.1.1 = {
-    rem_attacker = TUR
-    rem_defender = MOL
-    rem_defender = POL
+  rem_attacker = TUR
+  rem_defender = MOL
+  rem_defender = POL
 }

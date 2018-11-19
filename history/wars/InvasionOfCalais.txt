@@ -1,13 +1,13 @@
 ﻿name = "入侵加来"  # Invasion Of Calais
 war_goal = {
-    type = defend_country_faith
-    casus_belli = cb_defender_of_the_faith
+  type = defend_country_faith
+  casus_belli = cb_defender_of_the_faith
 }
 1595.1.17 = {
-    add_attacker = SPA
-    add_defender = FRA
+  add_attacker = SPA
+  add_defender = FRA
 }
 1598.5.2 = {
-    rem_attacker = SPA
-    rem_defender = FRA
+  rem_attacker = SPA
+  rem_defender = FRA
 }

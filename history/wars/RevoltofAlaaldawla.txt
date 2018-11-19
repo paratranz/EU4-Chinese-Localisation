@@ -1,14 +1,14 @@
 ﻿name = "兀鲁伯征服呼罗珊"  # Ulugh Begs Conquest of Khorasan
 war_goal = {
-    type = defend_capital_independence
-    casus_belli = cb_independence_war
-    tag = TRS
+  type = defend_capital_independence
+  casus_belli = cb_independence_war
+  tag = TRS
 }
 1447.3.13 = {
-    add_attacker = TRS
-    add_defender = TIM
+  add_attacker = TRS
+  add_defender = TIM
 }
 1448.3.1 = {
-    rem_attacker = TRS
-    rem_defender = TIM
+  rem_attacker = TRS
+  rem_defender = TIM
 }

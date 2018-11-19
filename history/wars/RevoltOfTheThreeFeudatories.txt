@@ -1,18 +1,18 @@
 ﻿name = "三藩之乱"  # Revolt of the Three Feudatories
 war_goal = {
-    type = take_claim
-    casus_belli = cb_conquest
-    province = 1833
+  type = take_claim
+  casus_belli = cb_conquest
+  province = 1833
 }
 1673.1.1 = {
-    add_attacker = CZH
-    add_attacker = MNG
-    add_defender = QNG
+  add_attacker = CZH
+  add_attacker = MNG
+  add_defender = QNG
 }
 1681.12.31 = {
-    rem_attacker = CZH
+  rem_attacker = CZH
 }
 1682.12.31 = {
-    rem_attacker = MNG
-    rem_defender = QNG
+  rem_attacker = MNG
+  rem_defender = QNG
 }

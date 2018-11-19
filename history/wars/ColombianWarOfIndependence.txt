@@ -1,14 +1,14 @@
 ﻿name = "哥伦比亚独立战争"  # Colombian War of Independence
 war_goal = {
-    type = defend_capital_independence
-    casus_belli = cb_independence_war
-    tag = COL
+  type = defend_capital_independence
+  casus_belli = cb_independence_war
+  tag = COL
 }
 1810.7.20 = {
-    add_attacker = COL
-    add_defender = SPA
+  add_attacker = COL
+  add_defender = SPA
 }
 1819.8.7 = {
-    rem_attacker = COL
-    rem_defender = SPA
+  rem_attacker = COL
+  rem_defender = SPA
 }

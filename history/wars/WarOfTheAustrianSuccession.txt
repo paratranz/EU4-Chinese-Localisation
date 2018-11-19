@@ -1,105 +1,105 @@
 ﻿name = "奥地利王位继承战争"  # War of the Austrian Succession
 war_goal = {
-    type = take_capital_throne
-    casus_belli = cb_claim_throne
-    tag = HAB
+  type = take_capital_throne
+  casus_belli = cb_claim_throne
+  tag = HAB
 }
 1740.12.16 = {
-    add_attacker = PRU
-    add_defender = HAB
+  add_attacker = PRU
+  add_defender = HAB
 }
 1740.12.16 = {
-    add_attacker = BAV
+  add_attacker = BAV
 }
 1741.1.1 = {
-    add_attacker = SPA
-    add_attacker = FRA
+  add_attacker = SPA
+  add_attacker = FRA
 }
 1741.4.10 = {
-    battle = {
-        name = "莫尔维次"  # Mollwitz
-        location = 264
-        attacker = {
-            commander = "腓特烈大帝"  # Frederick the Great
-            infantry = 15000
-            cavalry = 7000
-            losses = 5
-            country = PRU
-        }
-        defender = {
-            commander = "莱因哈德 冯 尼普佩格"  # Reinhard von Neipperg
-            infantry = 10000
-            cavalry = 6000
-            losses = 10
-            country = HAB
-        }
-        result = yes
+  battle = {
+    name = "莫尔维次"  # Mollwitz
+    location = 264
+    attacker = {
+      commander = "腓特烈大帝"  # Frederick the Great
+      infantry = 15000
+      cavalry = 7000
+      losses = 5
+      country = PRU
     }
+    defender = {
+      commander = "莱因哈德 冯 尼普佩格"  # Reinhard von Neipperg
+      infantry = 10000
+      cavalry = 6000
+      losses = 10
+      country = HAB
+    }
+    result = yes
+  }
 }
 1741.6.1 = {
-    add_attacker = SAX
+  add_attacker = SAX
 }
 1743.1.1 = {
-    add_defender = SAR
-    rem_attacker = SAX
-    add_defender = SAX
+  add_defender = SAR
+  rem_attacker = SAX
+  add_defender = SAX
 }
 1743.6.16 = {
-    battle = {
-        name = "德廷根"  # Dettingen
-        location = 68
-        attacker = {
-            commander = "诺瓦耶公爵"  # duc de Noailles
-            infantry = 50000
-            cavalry = 20000
-            losses = 12
-            country = FRA
-        }
-        defender = {
-            commander = "乔治 II"  # George II
-            infantry = 35000
-            cavalry = 15000
-            losses = 1
-            country = HAB
-        }
-        result = no
+  battle = {
+    name = "德廷根"  # Dettingen
+    location = 68
+    attacker = {
+      commander = "诺瓦耶公爵"  # duc de Noailles
+      infantry = 50000
+      cavalry = 20000
+      losses = 12
+      country = FRA
     }
+    defender = {
+      commander = "乔治 II"  # George II
+      infantry = 35000
+      cavalry = 15000
+      losses = 1
+      country = HAB
+    }
+    result = no
+  }
 }
 1745.1.1 = {
-    add_defender = GBR
-    add_defender = NED
+  add_defender = GBR
+  add_defender = NED
 }
 1745.1.20 = {
-    rem_attacker = BAV
+  rem_attacker = BAV
 }
 1745.5.11 = {
-    battle = {
-        name = "丰特努瓦"  # Fontenoy
-        location = 88
-        attacker = {
-            commander = "莫里茨 格拉夫 冯 萨克森"  # Moritz Graf von Sachsen
-            infantry = 30000
-            cavalry = 18000
-            losses = 7
-            country = FRA
-        }
-        defender = {
-            commander = "威廉 奥古斯都"  # William Augustus
-            infantry = 33000
-            cavalry = 15000
-            losses = 6
-            country = GBR
-        }
-        result = yes
+  battle = {
+    name = "丰特努瓦"  # Fontenoy
+    location = 88
+    attacker = {
+      commander = "莫里茨 格拉夫 冯 萨克森"  # Moritz Graf von Sachsen
+      infantry = 30000
+      cavalry = 18000
+      losses = 7
+      country = FRA
     }
+    defender = {
+      commander = "威廉 奥古斯都"  # William Augustus
+      infantry = 33000
+      cavalry = 15000
+      losses = 6
+      country = GBR
+    }
+    result = yes
+  }
 }
 1748.10.18 = {
-    rem_attacker = SPA
-    rem_attacker = FRA
-    rem_attacker = PRU
-    rem_defender = SAX
-    rem_defender = GBR
-    rem_defender = NED
-    rem_defender = SAR
-    rem_defender = HAB
+  rem_attacker = SPA
+  rem_attacker = FRA
+  rem_attacker = PRU
+  rem_defender = SAX
+  rem_defender = GBR
+  rem_defender = NED
+  rem_defender = SAR
+  rem_defender = HAB
 }

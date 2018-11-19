@@ -11,269 +11,269 @@ historical_rival = DLH
 historical_rival = MUL
 religious_school = hanafi_school
 1370.1.1 = {
-    monarch = {
-        name = "帖木儿"  # Timur
-        dynasty = "帖木儿"  # Timurid
-        adm = 4
-        dip = 4
-        mil = 5
-        leader = {
-            name = "帖木儿"  # Timur
-            type = general
-            fire = 6
-            shock = 6
-            manuever = 6
-            siege = 2
-        }
+  monarch = {
+    name = "帖木儿"  # Timur
+    dynasty = "帖木儿"  # Timurid
+    adm = 4
+    dip = 4
+    mil = 5
+    leader = {
+      name = "帖木儿"  # Timur
+      "Timur"type = "
+      generalfire = "
+      6shock = "
+      6manuever = "
+      6siege = 2
     }
-    add_piety = 0.5
+  }
+  add_piety = 0.5
 }
 1383.1.1 = {
-    leader = {
-        name = "米兰 沙"  # Miran Shah
-        type = general
-        fire = 3
-        shock = 3
-        manuever = 4
-        siege = 0
-        death_date = 1408.1.1
-    }
+  leader = {
+    name = "米兰 沙"  # Miran Shah
+    Shah"type = "
+    generalfire = "
+    3shock = "
+    3manuever = "
+    4siege = "
+    0death_date = 1408.1.1
+  }
 }
 1384.1.1 = {
-    heir = {
-        name = "哈里勒"  # Khalil
-        monarch_name = "哈里勒 苏丹"  # Khalil Sultan
-        dynasty = "帖木儿"  # Timurid
-        birth_date = 1384.1.1
-        death_date = 1411.11.4
-        claim = 95
-        adm = 1
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "哈里勒"  # Khalil
+    monarch_name = "哈里勒 苏丹"  # Khalil Sultan
+    dynasty = "帖木儿"  # Timurid
+    birth_date = 1384.1.1
+    death_date = 1411.11.4
+    claim = 95
+    adm = 1
+    dip = 3
+    mil = 2
+  }
 }
 1405.1.1 = {
-    monarch = {
-        name = "哈里勒"  # Khalil
-        dynasty = "帖木儿"  # Timurid
-        adm = 1
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "哈里勒"  # Khalil
+    dynasty = "帖木儿"  # Timurid
+    adm = 1
+    dip = 3
+    mil = 2
+  }
 }
 1409.1.1 = {
-    capital = 446
-    monarch = {
-        name = "沙哈鲁"  # Shah Rukh
-        birth_date = 1377.8.20
-        dynasty = "帖木儿"  # Timurid
-        adm = 4
-        dip = 3
-        mil = 5
-        culture = uzbehk
-        religion = sunni
-        leader = {
-            name = "沙哈鲁"  # Shah Rukh
-            type = general
-            fire = 2
-            shock = 4
-            manuever = 3
-            siege = 1
-        }
+  capital = 446
+  monarch = {
+    name = "沙哈鲁"  # Shah Rukh
+    birth_date = 1377.8.20
+    dynasty = "帖木儿"  # Timurid
+    adm = 4
+    dip = 3
+    mil = 5
+    culture = uzbehk
+    religion = sunni
+    leader = {
+      name = "沙哈鲁"  # Shah Rukh
+      type = general
+      fire = 2
+      shock = 4
+      manuever = 3
+      siege = 1
     }
-    clear_scripted_personalities = yes
-    add_ruler_personality = scholar_personality
-    add_ruler_personality = architectural_visionary_personality
-    add_ruler_personality = benevolent_personality
-    queen = {
-        name = "高哈尔绍德"  # Goharshad
-        birth_date = 1370.1.1
-        death_date = 1457.7.19
-        dynasty = "答剌罕"  # Tarkhan
-        culture = persian
-        adm = 4
-        dip = 5
-        mil = 3
-    }
-    add_piety = -0.4
-    add_ruler_modifier = {
-        name = shahrukhs_empire
-    }
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = scholar_personality
+  add_ruler_personality = architectural_visionary_personality
+  add_ruler_personality = benevolent_personality
+  queen = {
+    name = "高哈尔绍德"  # Goharshad
+    birth_date = 1370.1.1
+    death_date = 1457.7.19
+    dynasty = "答剌罕"  # Tarkhan
+    culture = persian
+    adm = 4
+    dip = 5
+    mil = 3
+  }
+  add_piety = -0.4
+  add_ruler_modifier = {
+    name = shahrukhs_empire
+  }
 }
 1444.6.1 = {
-    heir = {
-        name = "阿老倒剌"  # Ala al-Dawla Abd Allah
-        dynasty = "帖木儿"  # Timurid
-        birth_date = 1417.1.1
-        death_date = 1457.7.19
-        adm = 3
-        dip = 3
-        mil = 2
-    }
+  heir = {
+    name = "阿老倒剌"  # Ala al-Dawla Abd Allah
+    dynasty = "帖木儿"  # Timurid
+    birth_date = 1417.1.1
+    death_date = 1457.7.19
+    adm = 3
+    dip = 3
+    mil = 2
+  }
 }
 1447.3.13 = {
-    set_global_flag = death_of_shah_rukh
-    monarch = {
-        name = "阿老倒剌"  # Ala al-Dawla Abd Allah
-        birth_date = 1417.1.1
-        dynasty = "帖木儿"  # Timurid
-        adm = 3
-        dip = 3
-        mil = 2
-    }
+  set_global_flag = death_of_shah_rukh
+  monarch = {
+    name = "阿老倒剌"  # Ala al-Dawla Abd Allah
+    birth_date = 1417.1.1
+    dynasty = "帖木儿"  # Timurid
+    adm = 3
+    dip = 3
+    mil = 2
+  }
 }
 1448.3.1 = {
-    capital = 454
-    monarch = {
-        name = "兀鲁伯"  # Ulugh Beg
-        dynasty = "帖木儿"  # Timurid
-        birth_date = 1394.1.1
-        claim = 50
-        adm = 3
-        dip = 5
-        mil = 4
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = scholar_personality
-    heir = {
-        name = "奥都剌 米儿咱"  # 'Abd Allâh Mîrzâ
-        monarch_name = "奥都剌 米儿咱"  # 'Abd Allâh Mîrzâ
-        dynasty = "帖木儿"  # Timurid
-        birth_date = 1410.1.1
-        death_date = 1451.6.23
-        claim = 95
-        adm = 3
-        dip = 4
-        mil = 2
-    }
+  capital = 454
+  monarch = {
+    name = "兀鲁伯"  # Ulugh Beg
+    dynasty = "帖木儿"  # Timurid
+    birth_date = 1394.1.1
+    claim = 50
+    adm = 3
+    dip = 5
+    mil = 4
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = scholar_personality
+  heir = {
+    name = "奥都剌 米儿咱"  # 'Abd Allâh Mîrzâ
+    monarch_name = "奥都剌 米儿咱"  # 'Abd Allâh Mîrzâ
+    dynasty = "帖木儿"  # Timurid
+    birth_date = 1410.1.1
+    death_date = 1451.6.23
+    claim = 95
+    adm = 3
+    dip = 4
+    mil = 2
+  }
 }
 1449.10.27 = {
-    monarch = {
-        name = "阿不都 剌迪甫"  # 'Abdal-Latif
-        dynasty = "帖木儿"  # Timurid
-        adm = 0
-        dip = 0
-        mil = 2
-    }
-    clear_scripted_personalities = yes
-    add_ruler_personality = malevolent_personality
+  monarch = {
+    name = "阿不都 剌迪甫"  # 'Abdal-Latif
+    dynasty = "帖木儿"  # Timurid
+    adm = 0
+    dip = 0
+    mil = 2
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
 }
 1450.5.9 = {
-    monarch = {
-        name = "奥都剌 米儿咱"  # 'Abd Allâh Mîrzâ
-        dynasty = "帖木儿"  # Timurid
-        adm = 0
-        dip = 3
-        mil = 2
-    }
+  monarch = {
+    name = "奥都剌 米儿咱"  # 'Abd Allâh Mîrzâ
+    dynasty = "帖木儿"  # Timurid
+    adm = 0
+    dip = 3
+    mil = 2
+  }
 }
 1451.6.1 = {
-    monarch = {
-        name = "卜撒因"  # Abû Sa'id
-        dynasty = "帖木儿"  # Timurid
-        adm = 3
-        dip = 5
-        mil = 6
-        leader = {
-            name = "卜撒因"  # Abû Sa'id
-            type = general
-            fire = 4
-            shock = 5
-            manuever = 3
-            siege = 1
-        }
+  monarch = {
+    name = "卜撒因"  # Abû Sa'id
+    dynasty = "帖木儿"  # Timurid
+    adm = 3
+    dip = 5
+    mil = 6
+    leader = {
+      name = "卜撒因"  # Abû Sa'id
+      type = general
+      fire = 4
+      shock = 5
+      manuever = 3
+      siege = 1
     }
+  }
 }
 1458.12.23 = {
-    capital = 446
+  capital = 446
 }
 1469.8.27 = {
-    monarch = {
-        name = "阿合马"  # Ahmad
-        dynasty = "帖木儿"  # Timurid
-        adm = 0
-        dip = 0
-        mil = 2
-    }
-    capital = 454
+  monarch = {
+    name = "阿合马"  # Ahmad
+    dynasty = "帖木儿"  # Timurid
+    adm = 0
+    dip = 0
+    mil = 2
+  }
+  capital = 454
 }
 1494.7.1 = {
-    monarch = {
-        name = "马合木"  # Mahmud
-        dynasty = "帖木儿"  # Timurid
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "马合木"  # Mahmud
+    dynasty = "帖木儿"  # Timurid
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1495.7.1 = {
-    monarch = {
-        name = "马思忽惕"  # Mas'ud
-        dynasty = "帖木儿"  # Timurid
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "马思忽惕"  # Mas'ud
+    dynasty = "帖木儿"  # Timurid
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1495.9.1 = {
-    monarch = {
-        name = "拜宋豁儿"  # Bây Sunqur
-        dynasty = "帖木儿"  # Timurid
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "拜宋豁儿"  # Bây Sunqur
+    dynasty = "帖木儿"  # Timurid
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1499.8.1 = {
-    monarch = {
-        name = "阿里"  # 'Ali
-        dynasty = "帖木儿"  # Timurid
-        adm = 0
-        dip = 0
-        mil = 0
-    }
+  monarch = {
+    name = "阿里"  # 'Ali
+    dynasty = "帖木儿"  # Timurid
+    adm = 0
+    dip = 0
+    mil = 0
+  }
 }
 1500.4.1 = {
-    monarch = {
-        name = "巴布尔"  # Bâbur
-        dynasty = "帖木儿"  # Timurid
-        adm = 5
-        dip = 5
-        mil = 6
-        leader = {
-            name = "巴布尔"  # Bâbur
-            type = general
-            fire = 5
-            shock = 5
-            manuever = 3
-            siege = 1
-        }
+  monarch = {
+    name = "巴布尔"  # Bâbur
+    dynasty = "帖木儿"  # Timurid
+    adm = 5
+    dip = 5
+    mil = 6
+    leader = {
+      name = "巴布尔"  # Bâbur
+      "Bâbur"type = "
+      generalfire = "
+      5shock = "
+      5manuever = "
+      3siege = 1
     }
+  }
 }
 1507.7.1 = {
-    government = monarchy
-    add_government_reform = autocracy_reform
-    primary_culture = afghani
-    capital = 451
-    technology_group = muslim
+  government = monarchy
+  add_government_reform = autocracy_reform
+  primary_culture = afghani
+  capital = 451
+  technology_group = muslim
 }
 1508.3.6 = {
-    heir = {
-        name = "穆罕默德"  # Muhammad
-        monarch_name = "胡马雍"  # Humâyûn
-        dynasty = "帖木儿"  # Timurid
-        birth_date = 1508.3.6
-        death_date = 1556.1.1
-        claim = 95
-        adm = 5
-        dip = 2
-        mil = 3
-    }
+  heir = {
+    name = "穆罕默德"  # Muhammad
+    monarch_name = "胡马雍"  # Humâyûn
+    dynasty = "帖木儿"  # Timurid
+    birth_date = 1508.3.6
+    death_date = 1556.1.1
+    claim = 95
+    adm = 5
+    dip = 2
+    mil = 3
+  }
 }
 1525.1.1 = {
-    add_accepted_culture = panjabi
+  add_accepted_culture = panjabi
 }
 1526.4.21 = {
-    capital = 454
-    primary_culture = uzbehk
+  capital = 454
+  primary_culture = uzbehk
 }

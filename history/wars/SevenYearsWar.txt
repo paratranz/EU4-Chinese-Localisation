@@ -1,326 +1,326 @@
 ﻿name = "七年战争"  # Seven Years War
 war_goal = {
-    type = take_province_hre
-    casus_belli = cb_hre_attacked
-    province = 264
+  type = take_province_hre
+  casus_belli = cb_hre_attacked
+  province = 264
 }
 1756.5.15 = {
-    add_attacker = HAB
-    add_attacker = RUS
-    add_attacker = SAX
-    add_attacker = FRA
-    add_attacker = ABE
-    add_defender = PRU
-    add_defender = GBR
-    add_defender = HAN
-    add_defender = HES
+  add_attacker = HAB
+  add_attacker = RUS
+  add_attacker = SAX
+  add_attacker = FRA
+  add_attacker = ABE
+  add_defender = PRU
+  add_defender = GBR
+  add_defender = HAN
+  add_defender = HES
 }
 1756.10.1 = {
-    battle = {
-        name = "罗布西茨"  # Lobositz
-        location = 266
-        attacker = {
-            commander = "马克西米连 尤利西斯"  # Maximilian Ulysses
-            infantry = 24000
-            cavalry = 10000
-            losses = 8
-            country = HAB
-        }
-        defender = {
-            commander = "腓特烈大帝"  # Frederick the Great
-            infantry = 16000
-            cavalry = 13000
-            artillery = 60
-            losses = 10
-            country = PRU
-        }
-        result = no
+  battle = {
+    name = "罗布西茨"  # Lobositz
+    location = 266
+    attacker = {
+      commander = "马克西米连 尤利西斯"  # Maximilian Ulysses
+      infantry = 24000
+      cavalry = 10000
+      losses = 8
+      country = HAB
     }
+    defender = {
+      commander = "腓特烈大帝"  # Frederick the Great
+      infantry = 16000
+      cavalry = 13000
+      artillery = 60
+      losses = 10
+      country = PRU
+    }
+    result = no
+  }
 }
 1757.3.1 = {
-    add_attacker = SWE
+  add_attacker = SWE
 }
 1757.4.21 = {
-    battle = {
-        name = "赖兴贝格"  # Reichenberg
-        location = 266
-        attacker = {
-            commander = "伯爵 科尼赛克"  # Count Königsegg
-            infantry = 8000
-            cavalry = 2000
-            losses = 10
-            country = HAB
-        }
-        defender = {
-            commander = "元帅 冯 贝文"  # Marshal von Bevern
-            infantry = 10000
-            cavalry = 6000
-            losses = 5
-            country = PRU
-        }
-        result = no
+  battle = {
+    name = "赖兴贝格"  # Reichenberg
+    location = 266
+    attacker = {
+      commander = "伯爵 科尼赛克"  # Count Königsegg
+      infantry = 8000
+      cavalry = 2000
+      losses = 10
+      country = HAB
     }
+    defender = {
+      commander = "元帅 冯 贝文"  # Marshal von Bevern
+      infantry = 10000
+      cavalry = 6000
+      losses = 5
+      country = PRU
+    }
+    result = no
+  }
 }
 1757.5.6 = {
-    battle = {
-        name = "布拉格"  # Prague
-        location = 266
-        attacker = {
-            commander = "洛林的查尔斯"  # Charles of Lorraine
-            infantry = 37000
-            cavalry = 25000
-            losses = 14
-            country = HAB
-        }
-        defender = {
-            commander = "腓特烈大帝"  # Frederick the Great
-            infantry = 40000
-            cavalry = 25000
-            losses = 22
-            country = PRU
-        }
-        result = no
+  battle = {
+    name = "布拉格"  # Prague
+    location = 266
+    attacker = {
+      commander = "洛林的查尔斯"  # Charles of Lorraine
+      infantry = 37000
+      cavalry = 25000
+      losses = 14
+      country = HAB
     }
+    defender = {
+      commander = "腓特烈大帝"  # Frederick the Great
+      infantry = 40000
+      cavalry = 25000
+      losses = 22
+      country = PRU
+    }
+    result = no
+  }
 }
 1757.6.18 = {
-    battle = {
-        name = "科林"  # Kolin
-        location = 266
-        attacker = {
-            commander = "利奥波德 约瑟夫"  # Leopold Josef
-            infantry = 32000
-            cavalry = 12000
-            losses = 20
-            country = HAB
-        }
-        defender = {
-            commander = "腓特烈大帝"  # Frederick the Great
-            infantry = 23000
-            cavalry = 9000
-            losses = 45
-            country = PRU
-        }
-        result = yes
+  battle = {
+    name = "科林"  # Kolin
+    location = 266
+    attacker = {
+      commander = "利奥波德 约瑟夫"  # Leopold Josef
+      infantry = 32000
+      cavalry = 12000
+      losses = 20
+      country = HAB
     }
+    defender = {
+      commander = "腓特烈大帝"  # Frederick the Great
+      infantry = 23000
+      cavalry = 9000
+      losses = 45
+      country = PRU
+    }
+    result = yes
+  }
 }
 1757.7.26 = {
-    battle = {
-        name = "哈斯滕贝克"  # Hastenbeck
-        location = 57
-        attacker = {
-            commander = "路易·夏尔·德斯特雷"  # Louis Charles d'Estrées
-            infantry = 50000
-            cavalry = 10000
-            artillery = 70
-            losses = 5
-            country = FRA
-        }
-        defender = {
-            commander = "威廉 奥古斯都"  # William Augustus
-            infantry = 29000
-            cavalry = 5000
-            artillery = 30
-            losses = 4
-            country = GBR
-        }
-        result = yes
+  battle = {
+    name = "哈斯滕贝克"  # Hastenbeck
+    location = 57
+    attacker = {
+      commander = "路易·夏尔·德斯特雷"  # Louis Charles d'Estrées
+      infantry = 50000
+      cavalry = 10000
+      artillery = 70
+      losses = 5
+      country = FRA
     }
+    defender = {
+      commander = "威廉 奥古斯都"  # William Augustus
+      infantry = 29000
+      cavalry = 5000
+      artillery = 30
+      losses = 4
+      country = GBR
+    }
+    result = yes
+  }
 }
 1757.8.30 = {
-    battle = {
-        name = "格罗斯-耶格尔斯多夫"  # Gross-Jägersdorf
-        location = 41
-        attacker = {
-            commander = "斯特潘 费多洛维奇 阿普拉克辛"  # Stepan Fedorovich Apraksin
-            infantry = 20000
-            cavalry = 5000
-            artillery = 30
-            losses = 7
-            country = RUS
-        }
-        defender = {
-            commander = "汉斯 冯 列瓦尔德"  # Hans von Lehwaldt
-            infantry = 60000
-            cavalry = 10000
-            artillery = 80
-            losses = 20
-            country = PRU
-        }
-        result = yes
+  battle = {
+    name = "格罗斯-耶格尔斯多夫"  # Gross-Jägersdorf
+    location = 41
+    attacker = {
+      commander = "斯特潘 费多洛维奇 阿普拉克辛"  # Stepan Fedorovich Apraksin
+      infantry = 20000
+      cavalry = 5000
+      artillery = 30
+      losses = 7
+      country = RUS
     }
+    defender = {
+      commander = "汉斯 冯 列瓦尔德"  # Hans von Lehwaldt
+      infantry = 60000
+      cavalry = 10000
+      artillery = 80
+      losses = 20
+      country = PRU
+    }
+    result = yes
+  }
 }
 1757.11.5 = {
-    battle = {
-        name = "罗斯巴赫"  # Rossbach
-        location = 58
-        attacker = {
-            commander = "查理 德 罗昂"  # Charles de Rohan
-            infantry = 38000
-            cavalry = 16000
-            artillery = 160
-            losses = 10
-            country = FRA
-        }
-        defender = {
-            commander = "腓特烈大帝"  # Frederick the Great
-            infantry = 15000
-            cavalry = 6000
-            artillery = 60
-            losses = 3
-            country = PRU
-        }
-        result = no
+  battle = {
+    name = "罗斯巴赫"  # Rossbach
+    location = 58
+    attacker = {
+      commander = "查理 德 罗昂"  # Charles de Rohan
+      infantry = 38000
+      cavalry = 16000
+      artillery = 160
+      losses = 10
+      country = FRA
     }
+    defender = {
+      commander = "腓特烈大帝"  # Frederick the Great
+      infantry = 15000
+      cavalry = 6000
+      artillery = 60
+      losses = 3
+      country = PRU
+    }
+    result = no
+  }
 }
 1757.11.22 = {
-    battle = {
-        name = "布雷斯劳"  # Breslau
-        location = 264
-        attacker = {
-            commander = "洛林的查尔斯"  # Charles de Lorraine
-            infantry = 58000
-            cavalry = 20000
-            losses = 22
-            country = HAB
-        }
-        defender = {
-            commander = "奥古斯特 威廉"  # August Wilhelm
-            infantry = 20000
-            cavalry = 7000
-            losses = 6
-            country = PRU
-        }
-        result = no
+  battle = {
+    name = "布雷斯劳"  # Breslau
+    location = 264
+    attacker = {
+      commander = "洛林的查尔斯"  # Charles de Lorraine
+      infantry = 58000
+      cavalry = 20000
+      losses = 22
+      country = HAB
     }
+    defender = {
+      commander = "奥古斯特 威廉"  # August Wilhelm
+      infantry = 20000
+      cavalry = 7000
+      losses = 6
+      country = PRU
+    }
+    result = no
+  }
 }
 1757.12.5 = {
-    battle = {
-        name = "洛伊滕"  # Leuthen
-        location = 264
-        attacker = {
-            commander = "洛林的查尔斯"  # Charles de Lorraine
-            infantry = 65000
-            artillery = 210
-            losses = 11
-            country = HAB
-        }
-        defender = {
-            commander = "腓特烈大帝"  # Frederick the Great
-            infantry = 35000
-            artillery = 170
-            losses = 14
-            country = PRU
-        }
-        result = no
+  battle = {
+    name = "洛伊滕"  # Leuthen
+    location = 264
+    attacker = {
+      commander = "洛林的查尔斯"  # Charles de Lorraine
+      infantry = 65000
+      artillery = 210
+      losses = 11
+      country = HAB
     }
+    defender = {
+      commander = "腓特烈大帝"  # Frederick the Great
+      infantry = 35000
+      artillery = 170
+      losses = 14
+      country = PRU
+    }
+    result = no
+  }
 }
 1758.6.23 = {
-    battle = {
-        name = "克雷费尔德"  # Krefeld
-        location = 84
-        attacker = {
-            commander = "克莱蒙伯爵"  # Le Comte de Clermont
-            infantry = 45000
-            losses = 9
-            country = FRA
-        }
-        defender = {
-            commander = "布伦瑞克的斐迪南"  # Ferdinand of Brunswick
-            infantry = 32000
-            losses = 6
-            country = PRU
-        }
-        result = no
+  battle = {
+    name = "克雷费尔德"  # Krefeld
+    location = 84
+    attacker = {
+      commander = "克莱蒙伯爵"  # Le Comte de Clermont
+      infantry = 45000
+      losses = 9
+      country = FRA
     }
+    defender = {
+      commander = "布伦瑞克的斐迪南"  # Ferdinand of Brunswick
+      infantry = 32000
+      losses = 6
+      country = PRU
+    }
+    result = no
+  }
 }
 1758.8.25 = {
-    battle = {
-        name = "措恩多夫"  # Zorndorf
-        location = 49
-        attacker = {
-            commander = "威廉 费莫尔"  # Willem Fermor
-            infantry = 33000
-            cavalry = 10000
-            artillery = 200
-            losses = 40
-            country = RUS
-        }
-        defender = {
-            commander = "腓特烈大帝"  # Frederick the Great
-            infantry = 24000
-            cavalry = 11000
-            artillery = 150
-            losses = 35
-            country = PRU
-        }
-        result = no
+  battle = {
+    name = "措恩多夫"  # Zorndorf
+    location = 49
+    attacker = {
+      commander = "威廉 费莫尔"  # Willem Fermor
+      infantry = 33000
+      cavalry = 10000
+      artillery = 200
+      losses = 40
+      country = RUS
     }
+    defender = {
+      commander = "腓特烈大帝"  # Frederick the Great
+      infantry = 24000
+      cavalry = 11000
+      artillery = 150
+      losses = 35
+      country = PRU
+    }
+    result = no
+  }
 }
 1759.8.12 = {
-    battle = {
-        name = "库勒斯道夫"  # Kunersdorf
-        location = 81
-        attacker = {
-            commander = "恩斯特 冯 劳东"  # Ernst von Laudon
-            infantry = 48000
-            cavalry = 12000
-            losses = 14
-            country = HAB
-        }
-        defender = {
-            commander = "腓特烈大帝"  # Frederick the Great
-            infantry = 35000
-            cavalry = 15000
-            losses = 20
-            country = PRU
-        }
-        result = yes
+  battle = {
+    name = "库勒斯道夫"  # Kunersdorf
+    location = 81
+    attacker = {
+      commander = "恩斯特 冯 劳东"  # Ernst von Laudon
+      infantry = 48000
+      cavalry = 12000
+      losses = 14
+      country = HAB
     }
+    defender = {
+      commander = "腓特烈大帝"  # Frederick the Great
+      infantry = 35000
+      cavalry = 15000
+      losses = 20
+      country = PRU
+    }
+    result = yes
+  }
 }
 1760.11.3 = {
-    battle = {
-        name = "托尔高"  # Torgau
-        location = 58
-        attacker = {
-            commander = "利奥波德 约瑟夫 格拉夫 多恩"  # Leopold Josef Graf Daun
-            infantry = 36000
-            cavalry = 18000
-            artillery = 350
-            losses = 30
-            country = HAB
-        }
-        defender = {
-            commander = "腓特烈大帝"  # Frederick the Great
-            infantry = 32000
-            cavalry = 18000
-            artillery = 340
-            losses = 33
-            country = PRU
-        }
-        result = no
+  battle = {
+    name = "托尔高"  # Torgau
+    location = 58
+    attacker = {
+      commander = "利奥波德 约瑟夫 格拉夫 多恩"  # Leopold Josef Graf Daun
+      infantry = 36000
+      cavalry = 18000
+      artillery = 350
+      losses = 30
+      country = HAB
     }
+    defender = {
+      commander = "腓特烈大帝"  # Frederick the Great
+      infantry = 32000
+      cavalry = 18000
+      artillery = 340
+      losses = 33
+      country = PRU
+    }
+    result = no
+  }
 }
 1762.1.1 = {
-    add_attacker = SPA
-    add_defender = POR
+  add_attacker = SPA
+  add_defender = POR
 }
 1762.5.5 = {
-    rem_attacker = RUS
-    add_defender = RUS
-    rem_attacker = SWE
+  rem_attacker = RUS
+  add_defender = RUS
+  rem_attacker = SWE
 }
 1763.2.10 = {
-    rem_attacker = FRA
-    rem_attacker = ABE
-    rem_attacker = SPA
-    rem_defender = GBR
-    rem_defender = HAN
-    rem_defender = HES
-    rem_defender = POR
+  rem_attacker = FRA
+  rem_attacker = ABE
+  rem_attacker = SPA
+  rem_defender = GBR
+  rem_defender = HAN
+  rem_defender = HES
+  rem_defender = POR
 }
 1763.2.15 = {
-    rem_defender = PRU
-    rem_defender = RUS
-    rem_attacker = HAB
-    rem_attacker = SAX
+  rem_defender = PRU
+  rem_defender = RUS
+  rem_attacker = HAB
+  rem_attacker = SAX
 }
