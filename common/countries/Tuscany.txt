@@ -31,16 +31,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Eustachio #0" = 0
-  "Evangelista #0" = 0
-  "Salvestro #0" = 0
-  "Marco #0" = 0
-  "Pasquale #0" = 0
-  "Sergio #0" = 0
-  "Vitale #0" = 0
-  "Luisella #0" = -1
-  "Milena #0" = -1
-  "Paolina #0" = -1
   "科西莫 #0" = 60  # Cosimo #0
   "费迪南多 #0" = 60  # Ferdinando #0
   "亚历山德罗 #0" = 20  # Alessandro #0
@@ -67,6 +57,8 @@ monarch_names = {
   "博纳文图拉 #0" = 0  # Bonaventura #0
   "康斯坦丁诺 #0" = 0  # Constantino #0
   "丹尼罗 #0" = 0  # Danilo #0
+  "欧斯塔基奥 #0" = 0  # Eustachio #0
+  "伊万格丽斯塔 #0" = 0  # Evangelista #0
   "贾恩卡洛 #0" = 0  # Giancarlo #0
   "吉罗拉莫 #0" = 0  # Girolamo #0
   "朱利亚诺 #0" = 0  # Giuliano #0
@@ -74,17 +66,25 @@ monarch_names = {
   "伊波利托 #0" = 0  # Ippolito #0
   "洛伦佐 #0" = 0  # Lorenzo #0
   "皮耶罗 #0" = 0  # Piero #0
+  "萨尔韦斯特罗 #0" = 0  # Salvestro #0
+  "马可 #0" = 0  # Marco #0
+  "帕斯夸里 #0" = 0  # Pasquale #0
+  "塞尔希奥 #0" = 0  # Sergio #0
+  "维塔勒 #0" = 0  # Vitale #0
+  "路易塞拉 #0" = -1  # Luisella #0
+  "米莱娜 #0" = -1  # Milena #0
+  "保利纳 #0" = -1  # Paolina #0
 }
 leader_names = {
-  "degli Albizzi"
-  "Allori"
-  "d'Appiani d'Aragona"
+  "德利 奥比奇"  # degli Albizzi
+  "阿洛里"  # Allori
+  "迪 阿皮亚尼 迪 阿拉戈纳"  # d'Appiani d'Aragona
   "d'Asburgo"
-  "Barberini"
+  "巴尔贝里尼"  # Barberini
   "Bartolini"
   "Benciveni"
   "Bizzelli"
-  "Boncompagni"
+  "邦孔帕尼"  # Boncompagni
   "Botta-Adorno"
   "Buontalenti"
   "Buti"
@@ -97,14 +97,14 @@ leader_names = {
   "Cybo-Malaspina"
   "di Farnese"
   "Gori"
-  "Grimaldi"
-  "Grimaldi di Busca"
+  "格里马尔迪"  # Grimaldi
+  "格里马尔迪 迪 布斯卡"  # Grimaldi di Busca
   "Lanzi"
   "Lessi"
-  "Ludovisi"
+  "卢多维西"  # Ludovisi
   "Malaspina"
   "Mancinetti"
-  "de' Medici"
+  "德 美第奇"  # de' Medici
   "del Moro"
   "Nasini"
   "Orsini"
