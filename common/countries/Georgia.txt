@@ -33,49 +33,6 @@ historical_units = {
   russian_mass
 }
 monarch_names = {
-  "Tsotne #0" = 0
-  "Zaal #0" = 0
-  "Zaza #0" = 0
-  "Zurab #0" = 0
-  "Zviad #0" = 0
-  "Sumbat #0" = 0
-  "Bidzina #0" = 0
-  "Nikoloz #0" = 0
-  "Garsevan #0" = 0
-  "Ioane #0" = 0
-  "Datua #0" = 0
-  "Bezhan #0" = 0
-  "Katsia #0" = 0
-  "Otia #0" = 0
-  "Kakhaber #0" = 0
-  "Shamandavle #0" = 0
-  "Vamiq #0" = 0
-  "Liparit #0" = 0
-  "Rabia #0" = 0
-  "Puto #0" = 0
-  "Seteman #0" = 0
-  "Zegnak #0" = 0
-  "Timote #0" = 0
-  "Qvarqvare #0" = 0
-  "Beka #0" = 0
-  "Manuchar #0" = 0
-  "Aghbugha #0" = 0
-  "Baadur #0" = 0
-  "Mzetchabuk #0" = 0
-  "Botso #0" = 0
-  "Sargis #0" = 0
-  "Tamar #1" = -20
-  "Rusudan #1" = -10
-  "Nestan-Darejan #0" = -10
-  "Darejan #0" = -5
-  "Ketevan #0" = -5
-  "Tinatin #0" = -5
-  "Nino #0" = -1
-  "Elene #0" = -1
-  "Ana #0" = -1
-  "Mariam #0" = -1
-  "Khoreshan #0" = -1
-  "Dedisimedi #0" = -1
   "乔治 #6" = 120  # Giorgi #6
   "大卫 #9" = 60  # David #9
   "瓦赫坦 #3" = 60  # Vakhtang #3
@@ -103,37 +60,80 @@ monarch_names = {
   "伊万涅 #0" = 0  # Ivane #0
   "帕塔 #0" = 0  # Paata #0
   "托尔尼克 #0" = 0  # Tornike #0
+  "措特涅 #0" = 0  # Tsotne #0
+  "扎尔 #0" = 0  # Zaal #0
+  "扎扎 #0" = 0  # Zaza #0
+  "祖拉布 #0" = 0  # Zurab #0
+  "兹维亚德 #0" = 0  # Zviad #0
+  "苏姆巴特 #0" = 0  # Sumbat #0
+  "比济纳 #0" = 0  # Bidzina #0
+  "尼克罗兹 #0" = 0  # Nikoloz #0
+  "加尔谢万 #0" = 0  # Garsevan #0
+  "约阿内 #0" = 0  # Ioane #0
+  "达图亚 #0" = 0  # Datua #0
+  "拜詹 #0" = 0  # Bezhan #0
+  "卡特西亚 #0" = 0  # Katsia #0
+  "奥迪亚 #0" = 0  # Otia #0
+  "卡哈贝尔 #0" = 0  # Kakhaber #0
+  "沙曼达弗勒 #0" = 0  # Shamandavle #0
+  "瓦米奇 #0" = 0  # Vamiq #0
+  "利帕里特 #0" = 0  # Liparit #0
+  "拉比耶 #0" = 0  # Rabia #0
+  "普托 #0" = 0  # Puto #0
+  "塞特曼 #0" = 0  # Seteman #0
+  "泽格纳克 #0" = 0  # Zegnak #0
+  "蒂莫特 #0" = 0  # Timote #0
+  "克瓦克瓦雷 #0" = 0  # Qvarqvare #0
+  "贝卡 #0" = 0  # Beka #0
+  "马努切赫尔 #0" = 0  # Manuchar #0
+  "阿格布加 #0" = 0  # Aghbugha #0
+  "巴杜尔 #0" = 0  # Baadur #0
+  "姆泽特察布克 #0" = 0  # Mzetchabuk #0
+  "鲍特绍 #0" = 0  # Botso #0
+  "萨吉斯 #0" = 0  # Sargis #0
+  "塔玛丽 #1" = -20  # Tamar #1
+  "露苏丹 #1" = -10  # Rusudan #1
+  "内斯唐 达雷扬 #0" = -10  # Nestan-Darejan #0
+  "达雷扬 #0" = -5  # Darejan #0
+  "克捷万 #0" = -5  # Ketevan #0
+  "季纳京 #0" = -5  # Tinatin #0
+  "尼诺 #0" = -1  # Nino #0
+  "埃琳娜 #0" = -1  # Elene #0
+  "安娜 #0" = -1  # Ana #0
+  "马德利安 #0" = -1  # Mariam #0
+  "库雷珊 #0" = -1  # Khoreshan #0
+  "德迪西梅蒂 #0" = -1  # Dedisimedi #0
 }
 leader_names = {
-  "Gabashvili"
-  "Gegechkori"
-  "Amilakhvari"
-  "Amirejibi"
-  "Baratashvili"
-  "Bebutashvili"
-  "Begtabegishvili"
-  "Cherkezeshvili"
-  "Chkhetidze"
-  "Gabashvili"
-  "Javakhishvili"
-  "Kherkheulidze"
-  "Kvenipneveli"
-  "Maghalashvili"
-  "Mikeladze"
-  "Mukhrani"
-  "Mukhranbatoni"
-  "Orbeliani"
-  "Ratishvili"
-  "Sidamoni"
-  "Solagashvili"
-  "Tsitsishvili"
+  "加巴什维利"  # Gabashvili
+  "盖盖奇科里"  # Gegechkori
+  "阿米拉赫瓦里"  # Amilakhvari
+  "阿米雷季比"  # Amirejibi
+  "巴拉塔什维利"  # Baratashvili
+  "贝布塔什维利"  # Bebutashvili
+  "贝格塔贝基什维利"  # Begtabegishvili
+  "彻尔克泽什维利"  # Cherkezeshvili
+  "查哈提"  # Chkhetidze
+  "加巴什维利"  # Gabashvili
+  "雅瓦希什维利"  # Javakhishvili
+  "赫尔赫乌利泽"  # Kherkheulidze
+  "科韦尼普內维利"  # Kvenipneveli
+  "马加拉什维利"  # Maghalashvili
+  "米克拉泽"  # Mikeladze
+  "穆赫拉尼"  # Mukhrani
+  "穆赫兰巴托尼"  # Mukhranbatoni
+  "奥尔贝连尼"  # Orbeliani
+  "拉季什维利"  # Ratishvili
+  "西达莫尼"  # Sidamoni
+  "索拉加什维利"  # Solagashvili
+  "齐齐什维利"  # Tsitsishvili
   "Turkestanishvili"
   "Abashidze"
   "Abkhazi"
   "Andronikashvili"
   "Babadishvili"
   "Chavchavadze"
-  "Cherkezeshvili"
+  "彻尔克泽什维利"  # Cherkezeshvili
   "Cholokashvili"
   "Guramishvili"
   "Gurgenidze"
@@ -163,7 +163,7 @@ leader_names = {
   "Machavariani"
   "Machutadze"
   "Mkheidze"
-  "Mikeladze"
+  "米克拉泽"  # Mikeladze
   "Nakashidze"
   "Nikoladze"
   "Nizharadze"
