@@ -28,8 +28,6 @@ historical_units = {
   african_dragoon
 }
 monarch_names = {
-  "Gallo #0" = 15
-  "Bano #0" = 15
   "Maurusa #0" = 15
   "Quizura #0" = 5
   "Tondo #0" = 0
@@ -42,16 +40,18 @@ monarch_names = {
   "Bakili #0" = 0
   "Capampo #0" = 0
   "Chicanda #0" = 0
-  "Mwali #0" = -1
   "Nyangu #0" = -1
   "Nyalak #0" = -1
+  "加洛 #0" = 15  # Gallo #0
+  "巴诺 #0" = 15  # Bano #0
+  "慕瓦里 #0" = -1  # Mwali #0
 }
 leader_names = {
   "Angoni"
   "Karonga"
   "Ayao"
-  "Banda"
-  "Chewa"
+  "班达"  # Banda
+  "切瓦"  # Chewa
   "Undi"
   "Luhanga"
   "Kachali"
@@ -62,10 +62,10 @@ leader_names = {
 }
 ship_names = {
   "Ruhuhu"
-  "Nyasa"
-  "Shire"
-  "Zambezi"
-  "Ruo"
+  "尼亚沙"  # Nyasa
+  "希雷"  # Shire
+  "赞比西"  # Zambezi
+  "若"  # Ruo
   "Malombe"
   "Chikwawa"
   "Dwangwa"

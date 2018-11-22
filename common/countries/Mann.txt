@@ -32,18 +32,12 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Dugald #0" = 10
-  "Ranald #0" = 10
-  "Duncan #3" = 10
   "Ruari #0" = 10
   "Ewen #0" = 10
-  "Iain #0" = 0
   "Tearlach #0" = 0
   "Calum #0" = 0
-  "Domhnall #0" = 0
   "Daidh #0" = 0
   "Donnchadh #0" = 0
-  "Coinneach #0" = 0
   "Connal #0" = 0
   "Dughlas #0" = 0
   "Mairi #0" = -5
@@ -88,10 +82,16 @@ monarch_names = {
   "Seoras #0" = 0
   "Solamn #0" = 0
   "Tadhg #0" = 0
-  "Thomais #0" = 0
   "Torcall #0" = 0
   "Tormod #0" = 0
   "Uilleam #0" = 0
+  "杜加尔德 #0" = 10  # Dugald #0
+  "拉纳尔德 #0" = 10  # Ranald #0
+  "邓肯 #3" = 10  # Duncan #3
+  "伊恩 #0" = 0  # Iain #0
+  "多姆纳尔 #0" = 0  # Domhnall #0
+  "肯尼思 #0" = 0  # Coinneach #0
+  "多麦丝 #0" = 0  # Thomais #0
 }
 leader_names = {
   "Arascain"
@@ -108,8 +108,8 @@ leader_names = {
   "Buiseid"
   "Caimbeulach"
   "Comyn"
-  "Camshron"
-  "Calder"
+  "坎施荣"  # Camshron
+  "考尔德"  # Calder
   "de Charteris"
   "Cochran"
   "Colquhoun"
