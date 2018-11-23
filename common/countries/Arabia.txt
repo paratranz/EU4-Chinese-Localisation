@@ -24,8 +24,6 @@ historical_units = {
   ali_bey_reformed_infantry
 }
 monarch_names = {
-  "Qa'it #0" = 10
-  "Yusra #0" = -1
   "穆罕默德 #4" = 40  # Muhammad #4
   "甘萨伍赫 #0" = 40  # Qânsawh #0
   "吐曼 贝伊 #0" = 40  # Tûmân Bay #0
@@ -33,6 +31,7 @@ monarch_names = {
   "哈扎 #0" = 10  # Hazza #0
   "艾哈迈德 #2" = 50  # Ahmad #2
   "胡迈达 #1" = 10  # Humaida #1
+  "盖伊特 #0" = 10  # Qa'it #0
   "塔克巴 #0" = 10  # Takaba #0
   "哈桑 #1" = 10  # al-Hasan #1
   "阿布 塔利卜 #0" = 10  # Abu Talib #0
@@ -87,6 +86,7 @@ monarch_names = {
   "尤努斯 #0" = 0  # Yunus #0
   "拉吉亚 #0" = -1  # Rajya #0
   "沙希拉 #0" = -1  # Shahira #0
+  "尤斯拉 #0" = -1  # Yusra #0
   "阿诗玛 #0" = -1  # Asma #0
 }
 leader_names = {
@@ -116,12 +116,12 @@ ship_names = {
   "吉达"  # Jeddah
   "麦加"  # Mecca
   "麦地那"  # Medina
-  "Jabal Baydan"
+  "杰贝勒 拜丹"  # Jabal Baydan
   "杰拜 沙瓦达"  # Jabal Sawda
   "亚巴尔 阿布 哈桑"  # Jabal Abu Hasan
-  "Jabal al-Jurayrah"
-  "Harrat Al-Kishb"
-  "Harrat Rahat"
+  "杰贝勒 朱赖拉"  # Jabal al-Jurayrah
+  "哈拉特 基什卜"  # Harrat Al-Kishb
+  "拉哈特"  # Harrat Rahat
   "Harrat Nawasif"
   "Harrat Hadan"
   "Harrat Al-Buqum"
