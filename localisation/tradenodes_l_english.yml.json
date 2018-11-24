@@ -1,0 +1,1292 @@
+[
+    {
+        "key": "ON_TRADE_MISSION_IRO:0",
+        "original": "Protecting our trading interests in §Y$WHERE$§! with §Y$COUNT$§! light ships.",
+        "translation": "使用§Y$COUNT$§!艘轻型战舰保护§Y$WHERE$§!的贸易。",
+        "stage": 5
+    },
+    {
+        "key": "ON_PRIVATEER_MISSION_IRO:0",
+        "original": "Harassing our enemies' trading interests in §Y$WHERE$§! with §Y$COUNT$§! light ships.",
+        "translation": "使用§Y$COUNT$§!艘轻战舰干扰我们敌人在§Y$WHERE$§!的贸易。",
+        "stage": 1
+    },
+    {
+        "key": "TRADEMAP_OUTGOING:0",
+        "original": "§Y$VAL$§W¤ is being sent forward to §Y$NAME$§W. ",
+        "translation": "正将§Y$VAL$§W¤送往§Y$NAME$§W。",
+        "stage": 5
+    },
+    {
+        "key": "TRADEMAP_OUTGOING_BASE:0",
+        "original": "Before countries increase the outgoing trade value, $BASEVAL$¤ is leaving $FROMNODE$.",
+        "translation": "在各国商人引走贸易额之前，$FROMNODE$的出口总额是$BASEVAL$¤。",
+        "stage": 5
+    },
+    {
+        "key": "TRADEMAP_OUTGOING_SMALL:0",
+        "original": "Outgoing: -§Y$VAL$§W¤",
+        "translation": "出口总额：- §Y$VAL$§W¤",
+        "stage": 5
+    },
+    {
+        "key": "TRADEMAP_INCOMING:0",
+        "original": "Incoming: +§Y$VAL$§W¤",
+        "translation": "进口总额：+ §Y$VAL$§W¤",
+        "stage": 5
+    },
+    {
+        "key": "TRADEMAP_LOCAL:0",
+        "original": "Local: +§Y$VAL$§W¤",
+        "translation": "本地：+ §Y$VAL$§W¤",
+        "stage": 5
+    },
+    {
+        "key": "TRADEMAP_TOTAL:0",
+        "original": "Trade Value in node: §Y$VAL$§W¤",
+        "translation": "节点贸易额：§Y$VAL$§W¤",
+        "stage": 1
+    },
+    {
+        "key": "TRADEMAP_TOTAL_POWER:0",
+        "original": "Total Trade Power in node: §Y$VAL$§W¤",
+        "translation": "在此节点的总贸易竞争力：§Y$VAL$§W¤",
+        "stage": 1
+    },
+    {
+        "key": "TRADEMAP_POWER:0",
+        "original": "Our current Trade Power is: §Y$VAL$§W",
+        "translation": "我国当前贸易竞争力是：§Y$VAL$§W",
+        "stage": 5
+    },
+    {
+        "key": "TRADEMAP_INCOMING_EXP:0",
+        "original": "Incoming Trade Value from earlier trade nodes.",
+        "translation": "上游贸易节点流入的贸易额度。",
+        "stage": 1
+    },
+    {
+        "key": "TRADEMAP_OUTGOING_EXP:0",
+        "original": "The amount of Trade Value that goes to nodes further down the stream.",
+        "translation": "流向下游贸易节点的贸易额度。",
+        "stage": 1
+    },
+    {
+        "key": "TRADEMAP_LOCAL_EXP:0",
+        "original": "Trade Value of provinces belonging to Trade Node.",
+        "translation": "属于该贸易节点的省份贸易额度。",
+        "stage": 1
+    },
+    {
+        "key": "TRADEMAP_TOTAL_EXP:0",
+        "original": "Total Value of local trade node and incoming Trade Value.",
+        "translation": "贸易节点当地贸易额及流入贸易额的总额。",
+        "stage": 1
+    },
+    {
+        "key": "TRADEMAP_INLAND_TITLE:0",
+        "original": "Inland trade node",
+        "translation": "内陆贸易节点",
+        "stage": 5
+    },
+    {
+        "key": "TRADEMAP_INLAND_DESC:0",
+        "original": "Having a merchant present that collects in an inland trade node, or steers towards an inland trade node, will give you extra trade power in that node based on your trade efficiency.",
+        "translation": "派遣一个常驻商人在此内陆贸易节点内牟利或导向另一个内陆贸易节点，根据你的贸易效率，在此节点你将获得额外的贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "TRADEMAP_WE_COLLECT:0",
+        "original": "We collect $VAL|Y2$¤",
+        "translation": "我们获取的$VAL|Y2$¤",
+        "stage": 1
+    },
+    {
+        "key": "WITH_TRADE_POWER_OF:0",
+        "original": "Their trade power is §G$VAL$§!",
+        "translation": "他们的贸易竞争力是§G$VAL$§!",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_EXPAND:0",
+        "original": "Show Trade",
+        "translation": "显示贸易",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_STEERING:0",
+        "original": "Trade Steering",
+        "translation": "贸易引导",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_POWER_DESC:0",
+        "original": "Province Trade Power: §Y$VAL$§W",
+        "translation": "省份贸易竞争力：§Y$VAL$§W",
+        "stage": 5
+    },
+    {
+        "key": "TP_PROVINCE_POWER:0",
+        "original": "From Provinces: $VAL$",
+        "translation": "省份：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "TP_SHIP_POWER:0",
+        "original": "From Light Ships: $VAL$",
+        "translation": "轻型战舰：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "BASE_TRADE_VALUE:0",
+        "original": "Base power (Trade Value/$DIV$): §Y$VAL$§W",
+        "translation": "基础贸易竞争力（贸易额/$DIV$）：§Y$VAL$§W",
+        "stage": 1
+    },
+    {
+        "key": "BASE_TRADE_PORT_VALUE:0",
+        "original": "Port (Trade Value/$DIV$): +§G$VAL$§W",
+        "translation": "港口 （贸易额/$DIV$）：+§G$VAL$§W",
+        "stage": 1
+    },
+    {
+        "key": "COUNTRY_TRADE_EFFICIENCY:0",
+        "original": "Trade Efficiency (Max 200%): $VAL$",
+        "translation": "贸易效率（最高200%）：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "COUNTRY_TRADE_EFF_TECH:0",
+        "original": "Technology: $VAL$",
+        "translation": "科技：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "CURRENT_POWER:0",
+        "original": "Current Trade Power: §Y$VAL$§W",
+        "translation": "当前贸易竞争力：§Y$VAL$§W",
+        "stage": 1
+    },
+    {
+        "key": "OUR_CURRENT_POWER:0",
+        "original": "Our Current Trade Power: §Y$VAL$§W",
+        "translation": "我们当前的贸易竞争力：§Y$VAL$§W",
+        "stage": 1
+    },
+    {
+        "key": "MAX_POWER:0",
+        "original": "Trade Power: §Y$VAL$§W",
+        "translation": "贸易竞争力：§Y$VAL$§W",
+        "stage": 5
+    },
+    {
+        "key": "MERCHANT_PRESENT_EFFECT:0",
+        "original": " Having a merchant present gives $VAL|1=+$ trade power.",
+        "translation": "拥有一个商人给予$VAL|1=+$贸易竞争力。",
+        "stage": 5
+    },
+    {
+        "key": "PROVINCE_POWER:0",
+        "original": "Province Trade Power: §Y$VAL$§W",
+        "translation": "省份贸易竞争力：§Y$VAL$§W",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NODE_NOT_YET_DISCOVERED:0",
+        "original": "No province in this trade node has been discovered yet.",
+        "translation": "这个贸易节点还没有任何省份被发现。",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_NODE_LOCATION_NOT_YET_DISCOVERED:0",
+        "original": "The location of the trade node is not yet discovered.",
+        "translation": "这个贸易节点的位置尚未被发现。",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_MULTI_EXPLA:0",
+        "original": "And multiplied by §Y$MUL$§! due to $VAL$ Trade Power modifier in this node.",
+        "translation": "并乘以§Y$MUL$§!，因在此节点的$VAL$贸易竞争力修正。",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_POWER_CAPITAL:0",
+        "original": "Main Trade City in area: $VAL$",
+        "translation": "贸易本埠：$VAL$",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_POWER_TAKE:0",
+        "original": "The merchants of §Y$COUNTRY$§W collects §Y$VAL$§W¤ from this Trade Node.",
+        "translation": "§Y$COUNTRY$§W的商人在此贸易节点获取§Y$VAL$§W¤。",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_POWER_PIRATES_TAKE:0",
+        "original": "§Y$COUNTRY$§W collects §Y$VAL$§W¤ from this Trade Node.",
+        "translation": "§Y$COUNTRY$§W在此贸易节点获取§Y$VAL$§W¤。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_POWER_TAKE_STATE:0",
+        "original": "Out of this they manage to create an income of §Y$VALOTHER$§W¤ to the state.",
+        "translation": "此外他们设法为国家创造了价值§Y$VALOTHER$§W¤的收入。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_POWER_PUSH:0",
+        "original": "§Y$COUNTRY$§W is using their Trade Power to transport §Y$VAL$§W¤ forward.",
+        "translation": "§Y$COUNTRY$§W使用他们的贸易竞争力将§Y$VAL$§W¤导向下游。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_VALUE_RETAINED:0",
+        "original": "§Y$VAL$§W% of the Trade Value retained.",
+        "translation": "贸易额的§Y$VAL$§W%被保留下来。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_BASE_VALUE:0",
+        "original": "Base: §Y$VAL$§W",
+        "translation": "基础：§Y$VAL$§W",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_RETENTION_RESULT:0",
+        "original": "Trade Power balance: $VAL$",
+        "translation": "贸易竞争力最终值：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_MAX_POWER_BONUS:0",
+        "original": "Merchant Present: $VAL|1+$",
+        "translation": "派遣商人：$VAL|1+$",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_MAX_POWER_INLAND:0",
+        "original": "Merchant Present in inland node: $VAL|+1$",
+        "translation": "在内陆节点派遣商人：$VAL|+1$",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_MAX_POWER_STEERS_TO_INLAND:0",
+        "original": "Merchant steers towards inland node: $VAL|+1$",
+        "translation": "商人将导向内陆节点：$VAL|+1$",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_DAILY_POWER:0",
+        "original": "Merchant Present: §G$VAL$§W/Day.",
+        "translation": "派遣商人：§G$VAL$§W/天。",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_PRESENT_OFFICE:0",
+        "original": "$COUNTRY$ has a Merchant here, Collecting from Trade.",
+        "translation": "$COUNTRY$在此拥有一个正在获取贸易收入的商人。",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_PRESENT_OFFICE_PIRATES:0",
+        "original": "Pirates do not need a merchant to collect from Trade.",
+        "translation": "海盗从贸易中获利不需要通过商人。",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_PRESENT_TRANSIT:0",
+        "original": "$COUNTRY$ has a Merchant here, Transferring Trade Power.",
+        "translation": "$COUNTRY$在此拥有一个正在转移贸易竞争力的商人。",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_NOT_PRESENT:0",
+        "original": "No Merchant present.",
+        "translation": "没有派遣商人。",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_DAILY_INCREASE:0",
+        "original": "Trade Power increases by §Y$VAL$§W/day.",
+        "translation": "贸易竞争力每天提高§Y$VAL$§W。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NODE_POWER_SHARE:0",
+        "original": "Trade Power share: §G$VAL$§W%",
+        "translation": "贸易竞争力比重：§G$VAL$§W%",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MAX_POWER_MOD:0",
+        "original": "Trade Power: $VAL$",
+        "translation": "贸易竞争力：$VAL$",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_INCOME_MOD:0",
+        "original": "Income: $VAL$",
+        "translation": "收入：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_STEER:0",
+        "original": "We are currently steering trade towards $NAME$",
+        "translation": "目前我们正将贸易导向$NAME$",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NOT_STEER:0",
+        "original": "We are NOT steering trade towards $NAME$",
+        "translation": "目前我们未将贸易导向$NAME$",
+        "stage": 1
+    },
+    {
+        "key": "STEER_HOME:0",
+        "original": "You can't steer where you Collect from Trade.",
+        "translation": "你不能在你获取贸易收入的节点引导贸易。",
+        "stage": 1
+    },
+    {
+        "key": "STEER_LATER:0",
+        "original": "You cannot direct trade after it has passed your home.",
+        "translation": "你无法引导途经你贸易埠的贸易节点的贸易。",
+        "stage": 1
+    },
+    {
+        "key": "STEER_NO_POWER:0",
+        "original": "You must project power here to direct the trade.",
+        "translation": "你必须在这里拥有贸易竞争力才能引导贸易。",
+        "stage": 1
+    },
+    {
+        "key": "STEER_NO_PRESENSE:0",
+        "original": "You have no presence here.",
+        "translation": "你在此没有商人。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_DISTANCE:0",
+        "original": "Distance from $FROM$ to $TO$: $VAL$",
+        "translation": "$FROM$至$TO$的距离：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_INCOME_FACTORS:0",
+        "original": "Affecting Actual Income:",
+        "translation": "影响实际收入：",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COUNTRY_RETAIN:0",
+        "original": "$COUNTRY$ merchants are causing §Y$VAL$§W¤ to stay in the node.",
+        "translation": "$COUNTRY$的商人将§Y$VAL$§W¤截留在节点。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NAVY_NO_SHIPS:0",
+        "original": "You must have Light Ships to Protect Trade or Privateer.",
+        "translation": "私掠或保护贸易必须使用轻型舰船。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NAVY_NOT_PORT:0",
+        "original": "Your fleet must be in port before they can Protect Trade.",
+        "translation": "你的舰队必须在港口才能开始保护贸易。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NAVY_MOVEMENT_LOCKED:0",
+        "original": "You cannot send your fleet on a Protect Trade or Privateer mission while it is locked on a destination. Wait until it has reached its destination.",
+        "translation": "当你的舰队在通往某个地方且路程过半时，你不能把它派去执行保护贸易或私掠的任务。先等待它到达目的地。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NAVY_CANCEL:0",
+        "original": "Cancel Protect Trade",
+        "translation": "取消保护贸易",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NAVY_MISSION:0",
+        "original": "Start Protect Trade around §Y$NAME$§W.",
+        "translation": "开始保护§Y$NAME$§W周围的贸易。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NAVY_MISSION_DESC:0",
+        "original": "Your fleet will patrol the area protecting and assisting your merchants. Only Light Ships will give Trade Power, but other ships can assist with extra protection.",
+        "translation": "你的舰队会在海域巡逻以保护和协助你的商人。只有轻型战舰能够提供贸易竞争力，但是其他类型的舰船也能提供额外的保护。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NUM_SHIPS:0",
+        "original": "Number of Light Ships: $VAL$",
+        "translation": "轻型战舰数量：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "SHIP_POWER:0",
+        "original": "Trade Power from Light Ships: §Y$VAL$§W",
+        "translation": "轻型战舰提供的贸易竞争力：§Y$VAL$§W",
+        "stage": 1
+    },
+    {
+        "key": "PREV_MAX_POWER:0",
+        "original": "Trade Power from trade in downstream: §Y$VAL$§W",
+        "translation": "下游贸易节点提供的贸易竞争力：§Y$VAL$§W",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MISSION_OFFICE:0",
+        "original": "Collect from Trade",
+        "translation": "获取贸易收入",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MISSION_TRANSIT:0",
+        "original": "Transfer Trade Power",
+        "translation": "转移贸易竞争力",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MISSION_OFFICE_DESC:0",
+        "original": "Allows you to make money by Collecting from Trade. Outside your home node, you can only Collect from Trade as long as your Merchant is present. If the merchant is recalled, the node will only Transfer Trade Power.",
+        "translation": "允许你从贸易中获得收取收入。在你本埠节点之外，你只能从已派遣商人的节点上获取收入。如果商人被召回，则节点会转移贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MISSION_TRANSIT_DESC:0",
+        "original": "Any node where you have power that is not your Main Trade City is a transit node. Your power there will let you direct trade and will cause the trade value to move down the chain.",
+        "translation": "不是你贸易本埠的任意你拥有贸易竞争力的贸易节点都是中转节点。你的贸易竞争力将自动引导贸易，导致贸易额流向下游。",
+        "stage": 1
+    },
+    {
+        "key": "NON_CAPITAL_OFFICE_2:0",
+        "original": "Collect from Trade not in your Main Trade City: $VAL$",
+        "translation": "在非贸易本埠的节点获取贸易收入：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "ENVOY_TRADING_TRADE_MISSION_TRANSIT:0",
+        "original": "$NAME$ is Transferring Trade Power in §Y$PROV$§W.",
+        "translation": "$NAME$在§Y$PROV$§W转移贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "ENVOY_TRADING_TRADE_MISSION_OFFICE:0",
+        "original": "$NAME$ is Collecting from Trade in §Y$PROV$§W.",
+        "translation": "$NAME$在§Y$PROV$§W获取贸易收入。",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_PRESENT:1",
+        "original": "Merchant present: §Y$VAL$§W",
+        "translation": "现有商人团：§Y$VAL$§W",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_POWER_PUSH_DESC:0",
+        "original": "§Y$VAL$§W% of power is used to draw trade on.",
+        "translation": "使用§Y$VAL$§W%的贸易竞争力获取贸易收入。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_POWER_DIRECT_DESC:0",
+        "original": "§Y$VAL$§W% of power sends trade in this direction.",
+        "translation": "§Y$VAL$§W%的贸易竞争力将贸易额导向这个方向。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_DIRECTOR_TOOLTIP:0",
+        "original": "§Y$NAME$§W is applying §Y$VAL$§W power in this direction.",
+        "translation": "§Y$NAME$§W使用了§Y$VAL$§W贸易竞争力将贸易导向这个方向。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_PROJECTOR_TOOLTIP:0",
+        "original": "§Y$NAME$§W wields §Y$VAL$§W power in this node.",
+        "translation": "§Y$NAME$§W在此节点拥有§Y$VAL$§W贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_PROJECTOR_SHARE_TOOLTIP:0",
+        "original": "That is §Y$VAL$%§W of the total power in this node.",
+        "translation": "这是该节点总贸易竞争力的§Y$VAL$%§W。",
+        "stage": 1
+    },
+    {
+        "key": "POTENTIAL_MAX:0",
+        "original": "Potential Power Share: §Y$VAL$§W%.",
+        "translation": "潜在竞争力份额：§Y$VAL$§W%",
+        "stage": 1
+    },
+    {
+        "key": "EMBARGO_EFFICIENCY:0",
+        "original": "Embargo Efficiency: §Y$VAL$§W",
+        "translation": "禁运效率：§Y$VAL$§W",
+        "stage": 1
+    },
+    {
+        "key": "EMBARGOED_BY:0",
+        "original": "Embargoed by §Y$OTHER$§W: -§R$VAL$§W%",
+        "translation": "被§Y$OTHER$§W禁运：-§R$VAL$§W%",
+        "stage": 1
+    },
+    {
+        "key": "TN_COUNTRY:0",
+        "original": "Country",
+        "translation": "国家",
+        "stage": 1
+    },
+    {
+        "key": "TN_RETENTION_POWER:0",
+        "original": "Retained Trade Value",
+        "translation": "截留的贸易额",
+        "stage": 1
+    },
+    {
+        "key": "TN_INCOME_SHARING:0",
+        "original": "Income Sharing",
+        "translation": "收入分成",
+        "stage": 1
+    },
+    {
+        "key": "TN_TRADE_POWER:0",
+        "original": "Trade Power",
+        "translation": "贸易竞争力",
+        "stage": 5
+    },
+    {
+        "key": "TN_OUTGOING_VALUE:0",
+        "original": "Outgoing:",
+        "translation": "出口总额：",
+        "stage": 1
+    },
+    {
+        "key": "TN_TOTAL_VALUE:0",
+        "original": "Total:",
+        "translation": "总计：",
+        "stage": 1
+    },
+    {
+        "key": "TN_LOCAL_VALUE:0",
+        "original": "Local:",
+        "translation": "本地：",
+        "stage": 1
+    },
+    {
+        "key": "TN_INCOMING_VALUE:0",
+        "original": "Incoming:",
+        "translation": "进口总额：",
+        "stage": 1
+    },
+    {
+        "key": "TN_SEND_MERCHANT:0",
+        "original": "Send Merchant",
+        "translation": "派遣商人",
+        "stage": 1
+    },
+    {
+        "key": "TN_MERCHANT_PRESENT:0",
+        "original": "$NAME$ ($TYPE$)",
+        "translation": "$NAME$（$TYPE$）",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_RETENTION:0",
+        "original": "§Y$PART$§W% of Trade Power causes §Y$VAL$§W¤ to be retained.",
+        "translation": "§Y$PART$§W%的贸易竞争力使得§Y$VAL$§W¤被截留。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_PULL:0",
+        "original": "§Y$PART$§W% of Trade Power pulls §Y$VAL$§W¤ forward.",
+        "translation": "§Y$PART$§W%的贸易竞争力使得§Y$VAL$§W¤流向下游节点。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_POWER_TAKE_PART:0",
+        "original": "§Y$COUNTRY$§W has §Y$PART$%§W of the Trade Power among countries Collecting from Trade.",
+        "translation": "各国中，§Y$COUNTRY$§W拥有§Y$PART$§W%的贸易竞争力并用来获取贸易收入。",
+        "stage": 1
+    },
+    {
+        "key": "TRADER_ALLREADY_THERE:0",
+        "original": "Only one Merchant allowed at any node.",
+        "translation": "同一节点仅能派遣一位商人。",
+        "stage": 1
+    },
+    {
+        "key": "TRADER_IN_RANGE:0",
+        "original": "Must be in range (Current Range: §Y$CURR$§W Max Range: §Y$MAX$§W).",
+        "translation": "必须处于范围内（当前范围：§Y$CURR$§W 最大范围：§Y$MAX$§W）。",
+        "stage": 1
+    },
+    {
+        "key": "TRADER_FREE_ENVOY:0",
+        "original": "Must have an available Merchant.",
+        "translation": "必须拥有一个可用商人。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_CANCEL:0",
+        "original": "Recall Merchant",
+        "translation": "召回商人",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_CANCEL_TIME:0",
+        "original": "The Merchant returns home in §Y$DATE$§W days.",
+        "translation": "商人在§Y$DATE$§W天后返回。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_SEND_MERCHANT:0",
+        "original": "Send Merchant to Collect from Trade.",
+        "translation": "派遣商人获取贸易收入。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_SEND_MERCHANT_DESC:0",
+        "original": "Collect from Trade will use your Trade Power to draw income. Your capital permanently Collects from Trade, and sending a merchant will improve the Trade Power. You can Collect from Trade in any other node but only as long as your merchant is present. If the merchant is recalled, the node will only Transfer Trade Power.",
+        "translation": "获取贸易收入将会使用你的贸易竞争力获取收入。你的本埠节点会永久性地获取收入，而派遣商人会提高贸你的易竞争力。通过派遣商人，你可以从任何节点获取贸易收入。如果商人被召回了，该节点只能转移贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MERCHANT_ARRIVAL_TIME:0",
+        "original": "$NAME$ will arrive here in §Y$VAL$§W days.",
+        "translation": "$NAME$将在§Y$VAL$§W天后抵达。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_ENROUTE:0",
+        "original": "Your Merchant is already en route to this node.",
+        "translation": "你已经向该节点派遣了商人。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_ENROUTE_STATUS:0",
+        "original": "En route",
+        "translation": "在途中",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MERCHANT_UNABLE:0",
+        "original": "Unable to send Merchant.",
+        "translation": "无法派遣商人。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_TRANSIT_NODE:0",
+        "original": "Send Merchant to Transfer Trade Power.",
+        "translation": "派遣商人转移贸易额。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_TRANSIT_NODE_DESC:0",
+        "original": "A transit node will use your Trade Power to increase the flow of money 'downstream'. It will also send some power back upstream as long as you already had power in the previous node.",
+        "translation": "你在中转节点中的贸易竞争力会被用于将节点中的贸易额转移到“下游节点”。如果你在该节点的上游节点有贸易竞争力的话，也会提高上游节点少量贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_TRANSIT_NODE_CAPITAL:0",
+        "original": "Your home node is permanently Collecting from Trade, you can't Transfer Trade Power from it.",
+        "translation": "你在本埠节点永远只能获取贸易收入，你无法将这里的贸易额转移。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_LEADER_NAME_SORT_TOOLTIP:0",
+        "original": "Sort by Trade Power Leader",
+        "translation": "按贸易主导者竞争力排序",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_TRADER_SORT_TOOLTIP:0",
+        "original": "Sort by having a Merchant present.",
+        "translation": "按照常驻商人排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_TRADER_SORT_TOOLTIP_DELAYED:0",
+        "original": "Having Merchant present will increase your current Trade Power. A Merchant can either Collect from Trade or Transfer Trade Power downstream.",
+        "translation": "派出常驻商人提高加你当前的贸易竞争力。每个商人都可以获取贸易收入或将贸易竞争力导向下游。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_INCOME_SORT:0",
+        "original": "Sort by Income.",
+        "translation": "按照收入排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_INCOME_SORT_DELAYED:0",
+        "original": "Income is either gained directly through Collect from Trade or sent downstream through Transfer Trade Power.",
+        "translation": "贸易额要么通过获取贸易收入直接被收取，要么通过转移贸易竞争力被导向下游节点。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MISSION_SORT:0",
+        "original": "Sort by Merchant Mission.",
+        "translation": "按照商人任务排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MISSION_SORT_DELAYED:0",
+        "original": "Your traders can either collect money, bring money forward if they have a downstream collection point or send money back if there is an upstream collection point.",
+        "translation": "你的商人可以获取贸易收入，如果在上游或下游有获取贸易收入的节点也可将贸易额导向那里。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_INCOME_MOD_SORT:0",
+        "original": "Sort by income modifier.",
+        "translation": "按照收入修正排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_INCOME_MOD_SORT_DELAYED:0",
+        "original": "The modifier on the income the state actually collects.",
+        "translation": "国家实际收入的修正。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_CURRENT_POWER_SORT:0",
+        "original": "Sort by current Trade Power.",
+        "translation": "按照当前贸易竞争力排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_OUR_CURRENT_POWER_SORT:0",
+        "original": "Sort by our current Trade Power.",
+        "translation": "按照我们当前的贸易竞争力排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_TOTAL_POWER_SORT:0",
+        "original": "Sort by total Trade Power.",
+        "translation": "按照总贸易竞争力排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_TOTAL_POWER_SORT_DELAYED:0",
+        "original": "This is the sum of all present countries' Trade Power in the node.",
+        "translation": "这是该节点所有国家贸易竞争力的总和。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_CURRENT_POWER_SORT_DELAYED:0",
+        "original": "Current Trade Power is your power to compete over trade in this trade node. Your current Trade Power will increase when you send a Merchant to the node.",
+        "translation": "当前贸易竞争力是你在该节点竞争贸易的能力。派遣商人可增加你当前的贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_CURRENT_VALUE_SORT:0",
+        "original": "Sort by Value.",
+        "translation": "按照价值排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MAX_POWER_SORT:0",
+        "original": "Sort by Trade Power.",
+        "translation": "按照贸易竞争力排名。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MAX_POWER_SORT_DELAYED:0",
+        "original": "Trade Power is how high your power reaches in this node. For example, owning high value provinces or having fleets on trade patrol will increase this.",
+        "translation": "贸易竞争力代表了你在此节点的贸易实力高低。例如，拥有一个高贸易额的省份或有舰队巡护贸易，皆能提升贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_SHIPS_SORT:0",
+        "original": "Sort by Trade Power from Light Ships and Merchants.",
+        "translation": "按照来自轻型战舰及商人团的贸易竞争力排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_SHIPS_SORT_DELAYED:0",
+        "original": "Having merchants in a node and/or having ships on patrol will increase your Trade Power.",
+        "translation": "贸易节点派有商人或派舰船巡护可以提高你的贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_PROVINCES_SORT:0",
+        "original": "Sort by province Trade Power.",
+        "translation": "按照省份贸易竞争力排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_PROVINCES_DELAYED:0",
+        "original": "Owning provinces will increase your Trade Power. Some provinces are worth more to begin with depending on such things as being an Important Center of Trade or being located near a river estuary. Province Trade Power can be improved by constructing buildings.",
+        "translation": "在贸易节点拥有省份可提高你的贸易竞争力。有些省份贸易额更高，这取决于它是否重要的贸易中心或靠近河口等。 通过修建建筑可提高省份的贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MAX_POWER_MOD_SORT:0",
+        "original": "Sort by Trade Power modifier.",
+        "translation": "按照贸易竞争力修正排序。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_MAX_POWER_MOD_DELAYED:0",
+        "original": "Owning provinces will increase your Trade Power. Some provinces are worth more to begin with, others can be improved upon.",
+        "translation": "拥有省份可以提高你的贸易竞争力。有些省份天生高价值，有些则需要后天补救。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_ADDED_VALUE_COUNTRY:0",
+        "original": "§Y$WHO$§W increases outgoing value by: §Y$VAL$§W%",
+        "translation": "§Y$WHO$§W提高的出口总额：§Y$VAL$§W％",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_POWER_UPSTREAM:0",
+        "original": "§Y$COUNTRY$§W is transferring §Y$VAL$§W of its Trade Power upstream.",
+        "translation": "§Y$COUNTRY$§W正转移§Y$VAL$§W的贸易竞争力到上游节点。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_CURRENT_POWER:0",
+        "original": "Current Trade Power: §Y$VAL$§W.",
+        "translation": "当前贸易竞争力：§Y$VAL$§W。",
+        "stage": 1
+    },
+    {
+        "key": "STEER_NO_TRADER:0",
+        "original": "You first need to place Merchant that Transfers Trade Power to steer trade.",
+        "translation": "首先你需要安置商人，通过转移贸易竞争力引导贸易流向。",
+        "stage": 1
+    },
+    {
+        "key": "TRANSFER_TRADE_POWER_TO:0",
+        "original": "Transfer Trade Power to §Y$OTHER$§!: §R-$VAL$§!",
+        "translation": "向§Y$OTHER$§!转移贸易竞争力：§R-$VAL$§!",
+        "stage": 1
+    },
+    {
+        "key": "TRANSFER_TRADE_POWER_FROM:0",
+        "original": "Receives Trade Power from §Y$OTHER$§!: §G+$VAL$§!",
+        "translation": "从§Y$OTHER$§!获得贸易竞争力：§G+$VAL$§!",
+        "stage": 1
+    },
+    {
+        "key": "TRADER_NOT_DISCOVERED:0",
+        "original": "Trade node is not discovered",
+        "translation": "贸易节点未被发现",
+        "stage": 1
+    },
+    {
+        "key": "ADDED_VALUE_TRADE:0",
+        "original": "Added Value: §Y$VAL$§!",
+        "translation": "增加值：§Y$VAL$§!",
+        "stage": 1
+    },
+    {
+        "key": "MERCHANT_DOWNSTREAM_BONUS:0",
+        "original": "Transfers from traders downstream: $VAL$",
+        "translation": "下游转移的贸易竞争力：$VAL$",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_POWER_UPSTREAM_DESC:0",
+        "original": "A nation can Transfer Trade Power back upstream to trade nodes where it already has power.",
+        "translation": "当一个国家在某节点已有贸易竞争力时，可将贸易竞争力导向上游贸易节点。",
+        "stage": 1
+    },
+    {
+        "key": "NO_TRADE_COMPANY_NO_REGION:0",
+        "original": "It is not possible to establish a Trade Company in this region.",
+        "translation": "在这个地区建立贸易公司是不可能的。",
+        "stage": 1
+    },
+    {
+        "key": "NO_TRADE_COMPANY_ON_OWN_CONTINENT:0",
+        "original": "Cannot establish Trade Company on your home continent.",
+        "translation": "不能在你首都所在大陆上建立贸易公司。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_JOIN_TRADE_COMPANY_TITLE:0",
+        "original": "Assign province to Trade Company",
+        "translation": "把省份分配给贸易公司",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_JOIN_TRADE_COMPANY_DESC:0",
+        "original": "Giving control of $PROVINCE|Y$ to the $COMPANY|Y$ will greatly improve its value for building a trade empire but reduce its value as a source of troops and taxes.\\nIt will also disable automatic spread of institutions into this province that the mother country has embraced.",
+        "translation": "把$PROVINCE|Y$分配给$COMPANY|Y$将大幅提高把它建成贸易帝国的价值，但会降低它作为后备兵员和税收来源的能力。\\n这也将阻止母国已经接受的思潮在这个省份自动传播。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_JOIN_TRADE_COMPANY_DESC_NEW:0",
+        "original": "This will found a new trade company in $REGION|Y$. Giving control of $PROVINCE|Y$ to our new company will greatly improve its value for building a trade empire but reduce its value as a source of troops and taxes.\\nIt will also disable automatic spread of institutions into this province that the mother country has embraced.",
+        "translation": "这将在$REGION|Y$设立一个新的贸易公司。把$PROVINCE|Y$分配给我们的新贸易公司将大幅提高把它建成贸易帝国的价值，但会降低它作为后备兵员和税收来源的能力。\\n这也将阻止母国已经接受的思潮在这个省份自动传播。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_LEAVE_TRADE_COMPANY_TITLE:0",
+        "original": "Remove Province from Trade Company",
+        "translation": "将省份从贸易公司内移除",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ALL_JOIN_TRADE_COMPANY_DESC:0",
+        "original": "Giving control of all your provinces in $NODE|Y$ to $COMPANY|Y$ will greatly improve their value for building a trade empire but reduce their value as a source of troops and taxes.\\nIt will also disable automatic spread of institutions that the mother country has embraced into these provinces.",
+        "translation": "把你在$NODE|Y$贸易节点中的所有省份分配给$COMPANY|Y$将大幅提高把它建成贸易帝国的价值，但会降低它作为后备兵员和税收来源的能力。\\n这也将阻止母国已经接受的思潮在这些省份自动传播。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ALL_JOIN_TRADE_COMPANY_DESC_NEW:0",
+        "original": "This will found a new trade company in $REGION|Y$. Giving control of all your provinces in $NODE|Y$ to our new company will greatly improve its value for building a trade empire but reduce its value as a source of troops and taxes.\\nIt will also disable automatic spread of institutions that the mother country has embraced into these provinces.",
+        "translation": "这将在$REGION|Y$设立一个新的贸易公司。把你在$NODE|Y$贸易节点中的所有省份分配给我们的新贸易公司将大幅提高把它建成贸易帝国的价值，但会降低它作为后备兵员和税收来源的能力。\\n这也将阻止母国已经接受的思潮在这些省份自动传播。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ALL_LEAVE_TRADE_COMPANY_TITLE:0",
+        "original": "Close Trade Company",
+        "translation": "关闭贸易公司",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ALL_LEAVE_TRADE_COMPANY_DESC:0",
+        "original": "Remove all your provinces in $NODE|Y$ from $COMPANY|Y$, giving us direct control over their resources.\\nIt will also enable automatic spread of institutions that the mother country has embraced into these provinces.",
+        "translation": "把你所有属于$NODE|Y$节点的省份从$COMPANY|Y$移除，我们对其资源直接控制。\\n这也将允许母国已经接受的思潮在这个省份自动传播。",
+        "stage": 1
+    },
+    {
+        "key": "MAY_BE_IN_TRADE_COMPANY:0",
+        "original": "$PROVINCE|Y$ belongs to the $REGION|Y$ Trade Company Region.",
+        "translation": "$PROVINCE|Y$属于$REGION|Y$贸易公司区域。",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_COMPANY_NAME:0",
+        "original": "$NAME|Y$ is a Trade Company under our control.",
+        "translation": "$NAME|Y$是我们名下的一家贸易公司。",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_COMPANY_NAME_DESC:0",
+        "original": "Trade Companies manage our trading empires in faraway lands. Assigning provinces to your trading companies will multiply their trade power and provide for bigger navies but on the downside you get very little tax nor soldiers from these provinces. Should a Trade Company gain dominance within their region, you will gain an extra merchant.",
+        "translation": "贸易公司在遥远地方的土地上管理着我们贸易帝国。将省份分配给贸易公司将增加他们的贸易竞争力和提供更庞大的海军，但缺点是你从这些省份得到的税收和士兵会很少。如果一个贸易公司在其贸易节点内获得贸易统治地位，你将获得一个额外的商人。",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_COMPANY_INCOME:0",
+        "original": "Income generated by Company provinces: $INCOME|Y$¤",
+        "translation": "贸易公司省份的收入：$INCOME|Y$¤",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_COMPANY_POWER:0",
+        "original": "Trade Power generated by Company provinces: $POWER|Y$",
+        "translation": "贸易公司省份的贸易竞争力：$POWER|Y$",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_COMPANY_CONTROL:0",
+        "original": "Trade Company currently controls $THEIR|Y$ of the province Trade Power in $REGIONNAME$. There are a total of $TOTAL|Y$.",
+        "translation": "贸易公司当前控制着$REGIONNAME$地区$THEIR|Y$个省份的贸易竞争力。总共有$TOTAL|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_COMPANY_CONTROL_DESC:0",
+        "original": "You must have at least $VAL|Y$% of the province Trade Power in the region to become a dominant trade power, you currently control $MYVAL|Y$%.",
+        "translation": "你拥有的省份贸易竞争力必须达到节点总值的$VAL|Y$%的才能获得该地区的贸易统治地位，目前你控制$MYVAL|Y$%。",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_COMPANY_FLEET:0",
+        "original": "Our Trade Company provinces gives us $VAL|Y$ extra Naval Force Limit.",
+        "translation": "我们贸易公司的省份使我们的海军规模上限额外提高$VAL|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_DOMINANT_TRADER:0",
+        "original": "Our Trade Company is the most dominant trader in the area.",
+        "translation": "我们的贸易公司是这一地区占主导地位的贸易商。",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_DOMINANT_TRADER_OTHER:0",
+        "original": "$NAME|Y$ is the most dominant trader in this area.",
+        "translation": "$NAME|Y$是这一地区占主导地位的贸易商。",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_NEW_DOMINANT:0",
+        "original": "In $DAY$ days $NAME$ will take over as dominant trader in this area unless others get more power.",
+        "translation": "$DAY$天后$NAME$将成为这一地区占主导地位的贸易商，除非其他国家获得更多的贸易竞争力并超过$NAME$。",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_COMPANY_STRONG:0",
+        "original": "$NAME|Y$ has achieved a very strong trade position in this area.",
+        "translation": "$NAME|Y$在这一区域实现了贸易霸权。",
+        "stage": 1
+    },
+    {
+        "key": "SV_TRADE_COMPANY_NOT_STRONG:0",
+        "original": "$NAME|Y$ is not yet strong enough to claim to be one of the dominating trading powers in the area.",
+        "translation": "$NAME|Y$在这一地区还不够强大，不足宣称是这里最强大的贸易力量之一。",
+        "stage": 1
+    },
+    {
+        "key": "trade_company_strong:0",
+        "original": "Strong Trade Company",
+        "translation": "强大的贸易公司",
+        "stage": 1
+    },
+    {
+        "key": "NO_TRADE_COMPANY_GROUP:0",
+        "original": "Your Technology Group does not allow for Trade Companies.",
+        "translation": "你的科技组不允许设立贸易公司。",
+        "stage": 1
+    },
+    {
+        "key": "NO_TRADE_COMPANY_OVERSEAS:0",
+        "original": "You can only create Trade Companies overseas.",
+        "translation": "你只能在海外领土设立贸易公司。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_NAME_SORT_TOOLTIP:0",
+        "original": "Sort by Country",
+        "translation": "按国家排序",
+        "stage": 1
+    },
+    {
+        "key": "WHO_HAS_TRADE_COMPANY_IN:0",
+        "original": "$WHO|Y$ has a trade company in $REGION|Y$.",
+        "translation": "$WHO|Y$在$REGION|Y$拥有贸易公司。",
+        "stage": 1
+    },
+    {
+        "key": "GOODS_PRODUCED_BONUS:0",
+        "original": "The Trade Companies in this region boost the amount of goods produced by non-Western countries by $VAL|1Y%$.",
+        "translation": "这个地区的贸易公司提高了当地非西方国家$VAL|1Y%$的货物生产量。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_SHIPS_IN_NODE:0",
+        "original": "You have $COUNT|Y$ light ships protecting trade in this node.\\nThey generate $TRADEPOWER|Y$ trade power.",
+        "translation": "这个贸易节点你有$COUNT|Y$艘轻型战舰在保护贸易。\\n它们形成了$TRADEPOWER|Y$的贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "PRIVATEERS_IN_NODE:0",
+        "original": "You have $PRIVATEERCOUNT|Y$ ships on a privateering mission in this node.\\nThey have a total of $PRIVATEERTRADEPOWER|Y$ trade power.",
+        "translation": "这个贸易节点你有$PRIVATEERCOUNT|Y$艘战舰在执行私掠任务。\\n它们共有$PRIVATEERTRADEPOWER|Y$的贸易竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "aleppo:0",
+        "original": "Aleppo",
+        "translation": "阿勒颇",
+        "stage": 1
+    },
+    {
+        "key": "hormuz:0",
+        "original": "Hormuz",
+        "translation": "霍尔木兹",
+        "stage": 5
+    },
+    {
+        "key": "goa:0",
+        "original": "Goa",
+        "translation": "果阿",
+        "stage": 5
+    },
+    {
+        "key": "doab:0",
+        "original": "Doab",
+        "translation": "河间",
+        "stage": 1
+    },
+    {
+        "key": "siberia:0",
+        "original": "Siberia",
+        "translation": "西伯利亚",
+        "stage": 5
+    },
+    {
+        "key": "lhasa:0",
+        "original": "Lhasa",
+        "translation": "拉萨",
+        "stage": 5
+    },
+    {
+        "key": "girin:0",
+        "original": "Girin",
+        "translation": "吉林",
+        "stage": 5
+    },
+    {
+        "key": "xian:0",
+        "original": "Xi'an",
+        "translation": "西安",
+        "stage": 5
+    },
+    {
+        "key": "chengdu:0",
+        "original": "Chengdu",
+        "translation": "成都",
+        "stage": 5
+    },
+    {
+        "key": "zambezi:0",
+        "original": "Zambezi",
+        "translation": "赞比西流域",
+        "stage": 1
+    },
+    {
+        "key": "african_great_lakes:0",
+        "original": "Great Lakes",
+        "translation": "大湖地区",
+        "stage": 1
+    },
+    {
+        "key": "kongo:0",
+        "original": "Kongo",
+        "translation": "刚果",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_COMPANY_ADD:1",
+        "original": "Assign this province to your Trade Company. This will give less tax and manpower but increase its value for trade.",
+        "translation": "将省份分配给你的贸易公司。省份的税收及人力将会减少，但贸易值会增加。",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_REMOVE:1",
+        "original": "Remove this province from the control of your $NAME|Y$.",
+        "translation": "将这个省份从你的$NAME|Y$中脱离。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_LEAVE_TRADE_COMPANY_DESC:1",
+        "original": "Revoke $PROVINCE|Y$ from the $COMPANY|Y$, giving us direct control over its resources.\\nIt will also enable automatic spread of institutions into this province that the mother country has embraced.",
+        "translation": "把$PROVINCE|Y$从$COMPANY|Y$移除，我们对其资源直接控制。\\n这也将允许母国已经接受的思潮在这个省份自动传播。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ALL_JOIN_TRADE_COMPANY_TITLE:1",
+        "original": "Assign Provinces to Trade Company",
+        "translation": "分配省份给贸易公司",
+        "stage": 1
+    },
+    {
+        "key": "IS_IN_TRADE_COMPANY:1",
+        "original": "$PROVINCE|Y$ is in the $COMPANY|Y$",
+        "translation": "$PROVINCE|Y$ 在 $COMPANY|Y$ 内",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_INDIA_British_trade_company_south_india:0",
+        "original": "[Root.GetAdjective] Bombay Presidency",
+        "translation": "[Root.GetAdjective]孟买管辖区",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_INDIA_British_trade_company_coromandel:0",
+        "original": "[Root.GetAdjective] Madras Presidency",
+        "translation": "[Root.GetAdjective]马德拉斯管辖区",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_INDIA_British_East_India_Company:1",
+        "original": "[Root.GetAdjective] Bengal Presidency",
+        "translation": "[Root.GetAdjective]孟加拉管辖区",
+        "stage": 1
+    },
+    {
+        "key": "trade_company_south_india:0",
+        "original": "Konkan Charter",
+        "translation": "康坎特许贸易区",
+        "stage": 1
+    },
+    {
+        "key": "trade_company_coromandel:0",
+        "original": "Coromandel Charter",
+        "translation": "科罗曼德特许贸易区",
+        "stage": 1
+    },
+    {
+        "key": "trade_company_north_india:0",
+        "original": "North Indian Charter",
+        "translation": "北印度特许贸易区",
+        "stage": 1
+    },
+    {
+        "key": "trade_company_deccan:0",
+        "original": "Deccan Charter",
+        "translation": "德干特许贸易区",
+        "stage": 1
+    },
+    {
+        "key": "trade_company_burma:0",
+        "original": "Burma Charter",
+        "translation": "缅甸特许贸易区",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_SOUTH_INDIA_India_Trade_Company:0",
+        "original": "Konkan Trade Company",
+        "translation": "康坎贸易公司",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_DECCAN_India_Trade_Company:0",
+        "original": "Deccan Trade Company",
+        "translation": "德干贸易公司",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_BURMA_India_Trade_Company:0",
+        "original": "Burma Trade Company",
+        "translation": "缅甸贸易公司",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_NORTH_INDIA_India_Trade_Company:0",
+        "original": "North Indian Trade Company",
+        "translation": "北印度贸易公司",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_COROMANDEL_India_Trade_Company:0",
+        "original": "Coromandel Trade Company",
+        "translation": "科罗曼德贸易公司",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_BURMA_Root_Culture_GetName:0",
+        "original": "[Root.Culture.GetName] Burma Company",
+        "translation": "[Root.Culture.GetName]缅甸公司",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_SOUTH_INDIA_Root_Culture_GetName:0",
+        "original": "[Root.Culture.GetName] Konkan Company",
+        "translation": "[Root.Culture.GetName]康坎公司",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_DECCAN_Root_Culture_GetName:0",
+        "original": "[Root.Culture.GetName] Deccan Company",
+        "translation": "[Root.Culture.GetName]德干公司",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_COROMANDEL_Root_Culture_GetName:0",
+        "original": "[Root.Culture.GetName] Coromandel Company",
+        "translation": "[Root.Culture.GetName]科罗曼德公司",
+        "stage": 1
+    },
+    {
+        "key": "TRADE_COMPANY_NORTH_INDIA_Root_Culture_GetName:0",
+        "original": "[Root.Culture.GetName] North India Company",
+        "translation": "[Root.Culture.GetName]北印度公司",
+        "stage": 1
+    }
+]

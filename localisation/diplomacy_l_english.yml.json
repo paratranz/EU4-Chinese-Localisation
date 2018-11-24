@@ -1,0 +1,5330 @@
+[
+    {
+        "key": "rival:0",
+        "original": "Rival",
+        "translation": "宿敌",
+        "stage": 5
+    },
+    {
+        "key": "allied_to_rival:0",
+        "original": "Allied to Rival",
+        "translation": "与宿敌结盟",
+        "stage": 5
+    },
+    {
+        "key": "enemy_of_my_enemy:0",
+        "original": "Enemy of Enemy",
+        "translation": "敌人的敌人",
+        "stage": 5
+    },
+    {
+        "key": "subsidizing_our_armies:0",
+        "original": "They subsidize our armies",
+        "translation": "他们资助我们的军队",
+        "stage": 5
+    },
+    {
+        "key": "siphoned_income:0",
+        "original": "Siphoned income",
+        "translation": "榨取收入",
+        "stage": 5
+    },
+    {
+        "key": "republic_same_religion:0",
+        "original": "Same Religion",
+        "translation": "相同宗教信仰",
+        "stage": 5
+    },
+    {
+        "key": "republic_different_religions_group:0",
+        "original": "Different Religion",
+        "translation": "不同宗教",
+        "stage": 1
+    },
+    {
+        "key": "republic_different_religion_same_group:0",
+        "original": "Heretic Religion",
+        "translation": "异端",
+        "stage": 5
+    },
+    {
+        "key": "same_religion:0",
+        "original": "Same Religion",
+        "translation": "同一宗教",
+        "stage": 5
+    },
+    {
+        "key": "same_secondary_religion:0",
+        "original": "Same Syncretic Faith",
+        "translation": "相同的宗教信仰",
+        "stage": 5
+    },
+    {
+        "key": "different_religions_group:0",
+        "original": "Different Religion",
+        "translation": "不同宗教",
+        "stage": 5
+    },
+    {
+        "key": "different_religion_same_group:0",
+        "original": "Heretic Religion",
+        "translation": "异端",
+        "stage": 5
+    },
+    {
+        "key": "at_war:0",
+        "original": "At War",
+        "translation": "交战中",
+        "stage": 5
+    },
+    {
+        "key": "royal_marriage:0",
+        "original": "Royal Marriage",
+        "translation": "王室联姻",
+        "stage": 5
+    },
+    {
+        "key": "guaranteed:0",
+        "original": "Guaranteed",
+        "translation": "保证独立",
+        "stage": 1
+    },
+    {
+        "key": "alliance:0",
+        "original": "Alliance",
+        "translation": "帮助同盟",
+        "stage": 5
+    },
+    {
+        "key": "SPYNETWORKTOOSMALL:0",
+        "original": "Your $ADJ|Y$ Spy Network needs to be of at least size $AMOUNT|Y$ to use this action.",
+        "translation": " $ADJ|Y$间谍网需要至少 $AMOUNT|Y$大小来使用此操作",
+        "stage": 5
+    },
+    {
+        "key": "federation:0",
+        "original": "Federation leader",
+        "translation": "联邦领导人",
+        "stage": 5
+    },
+    {
+        "key": "in_war_togeather:0",
+        "original": "In War Together",
+        "translation": "在同一方作战",
+        "stage": 5
+    },
+    {
+        "key": "converted_our_culture:0",
+        "original": "Converted Our Culture",
+        "translation": "转换了我们的文化",
+        "stage": 5
+    },
+    {
+        "key": "same_dynasty:0",
+        "original": "Same Dynasty",
+        "translation": "同一王朝",
+        "stage": 5
+    },
+    {
+        "key": "have_claim:0",
+        "original": "Have a Claim",
+        "translation": "拥有宣称",
+        "stage": 5
+    },
+    {
+        "key": "have_core:0",
+        "original": "Have a Core",
+        "translation": "拥有核心",
+        "stage": 5
+    },
+    {
+        "key": "getting_subsidies:0",
+        "original": "Receiving Subsidies",
+        "translation": "接受援助",
+        "stage": 5
+    },
+    {
+        "key": "has_cb:0",
+        "original": "Have Casus Belli",
+        "translation": "拥有宣战理由",
+        "stage": 5
+    },
+    {
+        "key": "creating_claim:0",
+        "original": "Creating Claim",
+        "translation": "创建宣称",
+        "stage": 5
+    },
+    {
+        "key": "is_vassal:0",
+        "original": "Vassal",
+        "translation": "附庸",
+        "stage": 5
+    },
+    {
+        "key": "in_union:0",
+        "original": "Union",
+        "translation": "联盟",
+        "stage": 5
+    },
+    {
+        "key": "in_protectorate:0",
+        "original": "Protectorate",
+        "translation": "受保护国",
+        "stage": 5
+    },
+    {
+        "key": "is_tributary:0",
+        "original": "Tributary State",
+        "translation": "朝贡国",
+        "stage": 5
+    },
+    {
+        "key": "they_forced_tributary:0",
+        "original": "Forced Tributary",
+        "translation": "强迫朝贡",
+        "stage": 5
+    },
+    {
+        "key": "tributary_state_broke_free:0",
+        "original": "Broke our Tributary relation",
+        "translation": "打破我们的朝贡关系",
+        "stage": 5
+    },
+    {
+        "key": "tributary_state_abandoned:0",
+        "original": "Abandoned our Tributary relation",
+        "translation": "放弃我们的朝贡关系",
+        "stage": 5
+    },
+    {
+        "key": "tributary_refused_tribute:0",
+        "original": "Refused Tribute",
+        "translation": "拒绝贡礼",
+        "stage": 5
+    },
+    {
+        "key": "colonial_relation:0",
+        "original": "Colonial Ties",
+        "translation": "殖民纽带",
+        "stage": 5
+    },
+    {
+        "key": "sabotage_reputation:0",
+        "original": "Sabotage Reputation",
+        "translation": "破坏名誉",
+        "stage": 5
+    },
+    {
+        "key": "dishonoured_alliance:0",
+        "original": "Dishonored Alliance",
+        "translation": "背弃盟友",
+        "stage": 5
+    },
+    {
+        "key": "aggressive_expansion:0",
+        "original": "Aggressive Expansion",
+        "translation": "侵略扩张",
+        "stage": 5
+    },
+    {
+        "key": "declared_war_on_us:0",
+        "original": "Declared War",
+        "translation": "对他们的新敌人",
+        "stage": 5
+    },
+    {
+        "key": "had_war_with_us:0",
+        "original": "Was at War",
+        "translation": "曾经处于战争中",
+        "stage": 5
+    },
+    {
+        "key": "declared_war_on_neighbor:0",
+        "original": "Declared War On Neighbor",
+        "translation": "宣战邻国",
+        "stage": 5
+    },
+    {
+        "key": "violated_truce_us:0",
+        "original": "Violated Truce",
+        "translation": "违反停战协议",
+        "stage": 5
+    },
+    {
+        "key": "violated_truce_neighbor:0",
+        "original": "Violated Truce Against Neighbor",
+        "translation": "对邻国违反停战协议",
+        "stage": 5
+    },
+    {
+        "key": "honored_alliance:0",
+        "original": "Honored Alliance",
+        "translation": "值得信赖的盟友",
+        "stage": 5
+    },
+    {
+        "key": "separate_peace:0",
+        "original": "Separate Peace",
+        "translation": "单独媾和",
+        "stage": 5
+    },
+    {
+        "key": "fought_to_the_end:0",
+        "original": "Fought to the end",
+        "translation": "战至最后",
+        "stage": 5
+    },
+    {
+        "key": "conquered_province_no_claim:0",
+        "original": "Conquered province without claim",
+        "translation": "征服无宣称的省份",
+        "stage": 5
+    },
+    {
+        "key": "conquered_province_same_religion_group:0",
+        "original": "Conquered province of our religion group",
+        "translation": "征服同宗教组省份",
+        "stage": 5
+    },
+    {
+        "key": "conquered_province_us:0",
+        "original": "Conquered our province",
+        "translation": "征服我们的省份",
+        "stage": 5
+    },
+    {
+        "key": "conquered_rival_province:0",
+        "original": "Conquered Rival Province",
+        "translation": "征服宿敌的省份",
+        "stage": 5
+    },
+    {
+        "key": "gave_province_in_peace:0",
+        "original": "Gave province in peace",
+        "translation": "在和平状态给予省份",
+        "stage": 5
+    },
+    {
+        "key": "declared_war_on_enemy:0",
+        "original": "Declared War on Enemy",
+        "translation": "对敌人宣战",
+        "stage": 5
+    },
+    {
+        "key": "discovery_of_evil:0",
+        "original": "Did Covert Actions",
+        "translation": "进行秘密行动",
+        "stage": 5
+    },
+    {
+        "key": "insulted:0",
+        "original": "Insulted",
+        "translation": "侮辱",
+        "stage": 5
+    },
+    {
+        "key": "warned:0",
+        "original": "Warned",
+        "translation": "警告",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_DEAL_NO_PROVINCES:0",
+        "original": "Is not given cored or claimed provinces in peace deal: §G$VALUE$§!",
+        "translation": "在和平协议里没有被授予已有核心或宣称的省份：§G$VALUE$§!",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_DEAL_PROVINCES:0",
+        "original": "Is given provinces in peace deal: §G$VALUE$§!",
+        "translation": "在和平协议里被授予了省份：§G$VALUE$§!",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_DEAL_PROVINCES_RIVAL:0",
+        "original": "Takes provinces from rival: §G$VALUE$§!",
+        "translation": "夺取宿敌的省份：§G$VALUE$§!",
+        "stage": 1
+    },
+    {
+        "key": "PEACE_DEAL_SUBJECTS:0",
+        "original": "Subjects are not eligible for peace deals.",
+        "translation": "属国没有进行和平谈判的资格.",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_DEAL_AFFECTED_SHIELD:0",
+        "original": "Click to change peace target.",
+        "translation": "点击变更和平目标.",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_DEAL_SEPARATE_PEACE:0",
+        "original": "Separate peace: §R$VALUE$§!",
+        "translation": "单独媾和: §R$VALUE$§!",
+        "stage": 5
+    },
+    {
+        "key": "in_war_together:0",
+        "original": "In war together",
+        "translation": "一起在战争中",
+        "stage": 5
+    },
+    {
+        "key": "transfers_trade_power:0",
+        "original": "Transfers trade power to",
+        "translation": "转移贸易竞争力",
+        "stage": 5
+    },
+    {
+        "key": "getting_trade_power:0",
+        "original": "Getting trade power from",
+        "translation": "获得贸易竞争力",
+        "stage": 5
+    },
+    {
+        "key": "broke_transfer_trade_power:0",
+        "original": "Broke Transfer Trade Power relation",
+        "translation": "停止转移贸易竞争力",
+        "stage": 5
+    },
+    {
+        "key": "NOALL_WE_DISLIKE:0",
+        "original": "We cannot ask $WHO$ for this as we need to have a positive opinion of them, currently at $VAL$.",
+        "translation": "除非我国对$WHO$有正面看法（当前为$VAL$），否则无法与其结盟。",
+        "stage": 5
+    },
+    {
+        "key": "NOALL_THEY_DISLIKE:0",
+        "original": "$WHO$ dislikes us, so we cannot ask them. They need to have a positive opinion of us, and it is currently $VAL$.",
+        "translation": "$WHO$不喜我国，无法与其结盟。他们对我们必须有正面的看法，当前为$VAL$。",
+        "stage": 5
+    },
+    {
+        "key": "ENFORCEPEACE_TRUCE:0",
+        "original": "You cannot enforce peace on someone you have a truce with.",
+        "translation": "不能强迫与你处于停战协议期的国家议和.",
+        "stage": 5
+    },
+    {
+        "key": "CANNOT_ENFORCEPEACE_OWN_SUBJECT:0",
+        "original": "You cannot enforce peace on your own Subjects.",
+        "translation": "你不能强迫你的附庸议和",
+        "stage": 5
+    },
+    {
+        "key": "ENFORCEPEACE_NOT_IN_WAR_YOUR_SUBJECT:1",
+        "original": "They are not at war with any of your Subjects.",
+        "translation": "这个殖民地没有与你的殖民地发生战争.",
+        "stage": 5
+    },
+    {
+        "key": "FAB_CLAIMS_AT_WAR:0",
+        "original": "At war: $VAL$\\n",
+        "translation": "战争中：$VAL$\\n",
+        "stage": 5
+    },
+    {
+        "key": "FAB_CLAIMS_RELATIONS:0",
+        "original": "Bad Relations: $VAL$\\n",
+        "translation": "不好的关系：$VAL$\\n",
+        "stage": 5
+    },
+    {
+        "key": "JOINED_RECENT_WAR:0",
+        "original": "It is not possible to start a new war within the first month of having started a previous one.",
+        "translation": "在前一场战争开始的第一个月之内你不能发动另一场战争.",
+        "stage": 5
+    },
+    {
+        "key": "IS_IN_INDEPENDENCE_WAR:0",
+        "original": "It is not possible to start a new war while fighting an independence war.",
+        "translation": "在独立战争期间不能另开战端.",
+        "stage": 5
+    },
+    {
+        "key": "NO_SHIP_CAPACITY_NO_BASE:0",
+        "original": "They have no shipbuilding capacity so cannot be used for basing.",
+        "translation": "他们没有造船能力，所以无法提供港口",
+        "stage": 5
+    },
+    {
+        "key": "WE_NO_SHIP_CAPACITY_NO_BASE:0",
+        "original": "We have no shipbuilding capacity so cannot be used for basing.",
+        "translation": "我国没有造船能力，所以无法提供港口",
+        "stage": 5
+    },
+    {
+        "key": "NO_INTEGREATION_PROGRESS_AT_WAR:0",
+        "original": "Both countries need to be at peace for an integration to progress.",
+        "translation": "两国需同时处于和平状态才可进行外交合并。",
+        "stage": 5
+    },
+    {
+        "key": "NO_ANNEX_PROGRESS_AT_WAR:0",
+        "original": "Both countries need to be at peace for an annexation to progress.",
+        "translation": "若要合并，两国都需处于和平状态",
+        "stage": 5
+    },
+    {
+        "key": "NO_ANNEX_PROGRESS_WHILE_CAPITAL_TAKEN:0",
+        "original": "Annexation will not progress while they don't control their capital.",
+        "translation": "当他们没有控制他们的首都时，吞并不能进行",
+        "stage": 5
+    },
+    {
+        "key": "NO_ANNEX_PROGRESS_LIBERTY:0",
+        "original": "They must have less than §Y$LIMIT$§! Liberty desire for annexation to progress, but currently have §R$AMOUNT$§!.",
+        "translation": "为了进行合并他们必须有少于§Y$LIMIT$§!的独立倾向,但目前他们有§R$AMOUNT$§!.",
+        "stage": 5
+    },
+    {
+        "key": "ALL_CORES_AND_CLAIMS:0",
+        "original": "All Core and Claim Provinces",
+        "translation": "所有核心和有宣称的省份",
+        "stage": 5
+    },
+    {
+        "key": "RIVAL_BENEFITS:0",
+        "original": "§Y$WHO$§! is our Rival, and against them we have the following benefits.\\n",
+        "translation": "§Y$WHO$§!是我们的宿敌，对抗他们可以使我们获得下列好处。\\n",
+        "stage": 5
+    },
+    {
+        "key": "RIVAL_DIPLO_ALLY:0",
+        "original": "- More likely to get alliances with their enemies.\\n",
+        "translation": "- 更有可能与他们的敌人结盟。\\n",
+        "stage": 5
+    },
+    {
+        "key": "RIVAL_BENEFITS_NONE:0",
+        "original": "Against a rival we have the following benefits.\\n",
+        "translation": "对抗宿敌可以使我们获得下列好处：\\n",
+        "stage": 5
+    },
+    {
+        "key": "RIVAL_BENEFITS_TRADE:0",
+        "original": "- No Trade Efficiency penalty when embargoing.\\n",
+        "translation": "- 实施禁运时没有贸易效率惩罚。\\n",
+        "stage": 5
+    },
+    {
+        "key": "RIVAL_PRESTIGE:0",
+        "original": "$VAL$ prestige from defeating them in battles.\\n",
+        "translation": "击败他们的军队所获得威望$VAL$。\\n",
+        "stage": 5
+    },
+    {
+        "key": "RIVAL_DIP_POWER:0",
+        "original": "$VAL$£dip  cost for demanding provinces from them in a peace deal.\\n",
+        "translation": "从和平协议中获得省份需要的的外交点数£dip£$VAL$。\\n",
+        "stage": 5
+    },
+    {
+        "key": "RIVAL_SPY:0",
+        "original": "$VAL$ Spy Network Construction against them.\\n",
+        "translation": "建立间谍网效率$VAL$。\\n",
+        "stage": 5
+    },
+    {
+        "key": "BENEFIT_FOR_EMPEROR:0",
+        "original": "Emperor gets",
+        "translation": "皇帝获得",
+        "stage": 5
+    },
+    {
+        "key": "BENEFIT_FOR_MEMBER:0",
+        "original": "Members get",
+        "translation": "帝国成员获得",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_SUPPORTING_INDEPENDENCE:0",
+        "original": "Supporting the Independence of §Y$NAME$§!.",
+        "translation": "支持§Y$NAME$§!独立",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_INDEPENDENCE_SUPPORTED:0",
+        "original": "Independence Supported by §Y$NAME$§!.",
+        "translation": "独立得到§Y$NAME$§!的支持",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_ALLIED_WITH:0",
+        "original": "Allied with §Y$NAME$§!.",
+        "translation": "与§Y$NAME$§!结盟。",
+        "stage": 5
+    },
+    {
+        "key": "SAME_FEDERATION_AS:0",
+        "original": "In same federation as §Y$NAME$§!. (led by $LEADER$)",
+        "translation": "与§Y$NAME$§!在同一个部落联盟。（由$LEADER$领导）",
+        "stage": 1
+    },
+    {
+        "key": "SAME_TRADELEAGUE_AS:0",
+        "original": "In same trade league as §Y$NAME$§!. (led by $LEADER$)",
+        "translation": "与§Y$NAME$§!在同一个贸易联盟。（由$LEADER$领导）",
+        "stage": 1
+    },
+    {
+        "key": "DIPIRO_RM_WITH:0",
+        "original": "Royal Marriage with §Y$NAME$§!.",
+        "translation": "与§Y$NAME$§!王室联姻。",
+        "stage": 5
+    },
+    {
+        "key": "DIPDRO_RM_WITH:0",
+        "original": "$NAME$ (§Y$DYNASTY$§W)",
+        "translation": "$NAME$（§Y$DYNASTY$§W）",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_GUARANTEED_BY:0",
+        "original": "Guaranteed by §Y$NAME$§!.",
+        "translation": "被§Y$NAME$§!保证独立。",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_GUARANTEE:0",
+        "original": "Guaranteeing independence of §Y$NAME$§!.",
+        "translation": "§Y$NAME$§!得到此国的独立保证。",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_WARNED:0",
+        "original": "Warned by §Y$NAME$§!. §Y$NAME$§! may declare war upon $WHO|Y$ if $WHO|Y$ start a war against a third party.\\nThis warning is valid until §Y$DATE$§!.",
+        "translation": "此国受到了§Y$NAME$§!的警告.如果$WHO|Y$发起一场战争，§Y$NAME$§!将有理由对$WHO|Y$宣战.\\n此警告在§Y$DATE$§!前有效.",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_WARNING:0",
+        "original": "$WHO|Y$ are warning §Y$NAME$§!. If $NAME|Y$ go to war, $WHO|Y$ can attack them.\\nThis warning is valid until §Y$DATE$§!.",
+        "translation": "$WHO|Y$ 对 §Y$NAME$§!进行了警告.如果$NAME|Y$对第三国挑起战端，$WHO|Y$就有理由对它发起战争.\\n此警告在§Y$DATE$§!前有效.",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_CLAIMTRHONE:0",
+        "original": "$WHO|Y$ has a claim on the throne of $NAME|Y$.\\nThis allows $WHO|Y$ to claim the throne in a peace offer.",
+        "translation": "$WHO|Y$拥有对于$NAME|Y$的宣称权.\\n$WHO|Y$可凭此在和平协定中索取其王位.",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_WARSUBSIDIES:0",
+        "original": "$WHO|Y$ pay $AMOUNT|Y2$¤ in subsidies to $NAME|Y$ each month.\\n$WHO|Y$ will continue paying until $DATE|Y$.",
+        "translation": "$WHO|Y$每月向$NAME|Y$提供$AMOUNT|Y2$¤的战争援助。\\n$WHO|Y$将持续资助，直到到$DATE|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "DIPIRO_MILACCESS:0",
+        "original": "$WHO|Y$ gives military access to $NAME|Y$.\\nThis allows $NAME_ADJ|Y$ troops to enter $WHO_ADJ|Y$ provinces.",
+        "translation": "$WHO|Y$给予$NAME|Y$军事通行权.\\n这赋予$NAME_ADJ|Y$军队、舰队在$WHO_ADJ|Y$省份中通行、驻扎的权利.",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_CONDITIONAL_ACCESS:0",
+        "original": "$TAKER|Y$ has conditional military access through $GIVER|Y$ for the following reason(s):\\n",
+        "translation": "$TAKER|Y$ 获得有条件的军事通行权以通过 $GIVER|Y$ 原因如下:\\n",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_FLEETACCESS:0",
+        "original": "$WHO|Y$ gives fleet access to $NAME|Y$.\\nThis allows $NAME_ADJ|Y$ ships to enter $WHO_ADJ|Y$ ports and repair.",
+        "translation": "$WHO|Y$ 给予$NAME|Y$舰队通行权.\\n这赋予$NAME_ADJ|Y$在$WHO_ADJ|Y$港口中进行舰船维修的权利.",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_CB:0",
+        "original": "$WHO|Y$ has '$CB|Y$' casus belli against $NAME|Y$ ($DESC$).\\n$WHO|Y$ may use this case a reason for declaring war against $NAME|Y$.",
+        "translation": "$WHO|Y$可以以'$CB|Y$'的宣战理由向$NAME|Y$宣战（$DESC$）。\\n$WHO|Y$也许会利用这个理由向$NAME|Y$宣战。",
+        "stage": 5
+    },
+    {
+        "key": "DIPIRO_CB_EXPIRE:0",
+        "original": "This casus belli is valid until §Y$DATE$§!.",
+        "translation": "此宣战理由在§Y$DATE$§!前有效.",
+        "stage": 5
+    },
+    {
+        "key": "NO_WAR_ON_EMPIRE:0",
+        "original": "You cannot declare war on a member of the Empire, if you are allied with the Emperor in a war.",
+        "translation": "帝国皇帝已经在战争中站在了你这一边，在战争结束前，你不可对帝国成员挑起战端.",
+        "stage": 5
+    },
+    {
+        "key": "NO_WAR_ON_EMPIRE_FIRST_MONTHS:0",
+        "original": "You cannot declare war on a member of the Empire, if you are allied with the Emperor and the Emperor has recently gone to war.",
+        "translation": "如果你和皇帝结盟或皇帝刚刚进入战争，你无法对帝国成员宣战。",
+        "stage": 5
+    },
+    {
+        "key": "ALREADY_WAR_EMPIRE:0",
+        "original": "You cannot declare war on a member of the Empire, if you are already at war with the Emperor.",
+        "translation": "在结束与帝国皇帝的战争前，你不可对帝国成员发起新战争.",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_IN_EMPIRE_NO_WAR:0",
+        "original": "After the landfriede has been declared, no member of the Holy Roman Empire may take hostile actions towards another member.",
+        "translation": "在禁止复仇法案通过之后，帝国成员禁止相互宣战.",
+        "stage": 5
+    },
+    {
+        "key": "DIP_MAINT_RM:0",
+        "original": "Royal Marriage: (§Y$COUNTRY$§W): §Y-$VAL$§W.",
+        "translation": "王室联姻：(§Y$COUNTRY$§W)：§Y-$VAL$§W.",
+        "stage": 5
+    },
+    {
+        "key": "DIP_MAINT_VASSAL:0",
+        "original": "Have Vassal: (§Y$COUNTRY$§W): §Y-$VAL$§W.",
+        "translation": "拥有附属国：(§Y$COUNTRY$§W)：§Y-$VAL$§W.",
+        "stage": 5
+    },
+    {
+        "key": "alert_agreement_fail_instant:0",
+        "original": "§YAn agreement will fail due to low power!§W",
+        "translation": "§Y一个外交协定将因外交点数不足而失效！§W",
+        "stage": 5
+    },
+    {
+        "key": "alert_agreement_fail_delayed:0",
+        "original": "Our agreement with $LIST$ will fail due to low Diplomatic Power.",
+        "translation": "我们与 $LIST$ 的外交协定将因外交点数不足而失败！",
+        "stage": 5
+    },
+    {
+        "key": "UPKEEP_EXPLANATION:0",
+        "original": "$CURR$/$ALLOW$ Diplomatic Relations: $COST$\\n$LIST$",
+        "translation": "$CURR$/$ALLOW$外交关系：$COST$\\n$LIST$",
+        "stage": 1
+    },
+    {
+        "key": "UPKEEP_MOD_DESC:0",
+        "original": "We can support Diplomatic Relations with $NUM|Y$ nations, due to:",
+        "translation": "我国可维持与$NUM|Y$个国家的外交关系，这归功于：",
+        "stage": 5
+    },
+    {
+        "key": "DIP_MAINT:0",
+        "original": "$RELATION$: (§Y$COUNTRY$§W): §Y-$VAL$§W.",
+        "translation": "$RELATION$：（§Y$COUNTRY$§W）：§Y-$VAL$§W",
+        "stage": 5
+    },
+    {
+        "key": "RIVAL_IMPACT_ON_SPY:0",
+        "original": "Rivals: $VAL$\\n",
+        "translation": "宿敌：$VAL$\\n",
+        "stage": 5
+    },
+    {
+        "key": "MILACCESS_TYPE:0",
+        "original": "Military Access",
+        "translation": "军事通行",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_TARGET_CORE:0",
+        "original": "Their capital is our claim: ",
+        "translation": "对方首都为我国所宣称的领土：",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_INPROGRESS3:0",
+        "original": "Annexation progress §Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$), estimated to be done $DATE|Y$.\\nUses §R$DRAIN$§!£dip  each month.\\n",
+        "translation": "吞并进度§Y$PROGRESS|1$%§!（$VAL|G$/$COST|Y$），预计将在$DATE|Y$完成。\\n每月消耗§R$DRAIN$§!£dip£。\\n",
+        "stage": 5
+    },
+    {
+        "key": "INTEGRATE_INPROGRESS3:0",
+        "original": "Integration progress §Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$), estimated to be done $DATE|Y$.\\nUses §R$DRAIN$§!£dip  each month.\\n",
+        "translation": "联统进度§Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$)，将要进行$DATE|Y$.\\n每月消耗§R$DRAIN$§!外交点数\\n",
+        "stage": 5
+    },
+    {
+        "key": "NO_ANNEX_PROGRESS_LACK_DIP:0",
+        "original": "Needs at least $COST$£dip  to progress.",
+        "translation": "需要至少$COST$£dip£完成进程。",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_SAME_RELIGION:0",
+        "original": "Same Religion",
+        "translation": "相同宗教",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_SAME_CULTURE:0",
+        "original": "Same Culture Group",
+        "translation": "相同文化组",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_TARGET_LOW_STAB:0",
+        "original": "Target has low stability: ",
+        "translation": "对方稳定度低，社会动荡：",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_LONG_TIME_VASSAL:0",
+        "original": "Longtime Vassal: ",
+        "translation": "对方为我国的长期附属国：",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_WAREXHAUSTION:0",
+        "original": "War Exhaustion: ",
+        "translation": "厌战度：",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_OVERSEAS:0",
+        "original": "Overseas: ",
+        "translation": "海外：",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_LARGER:0",
+        "original": "Their country is larger than ours: ",
+        "translation": "对方领土大于我国：",
+        "stage": 5
+    },
+    {
+        "key": "INTEGRATE_MULTI_UNIONS:0",
+        "original": "The country has multiple claimants: ",
+        "translation": "不止一人拥有此国宣称权：",
+        "stage": 5
+    },
+    {
+        "key": "ANNEXTITLE:0",
+        "original": "Annex Vassal",
+        "translation": "吞并附属国",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_ANNEXTITLE:0",
+        "original": "Cancel Annexation",
+        "translation": "取消吞并",
+        "stage": 5
+    },
+    {
+        "key": "ANNEXNEWDESC:0",
+        "original": "Do you wish to start the process of absorbing $COUNTRY$ into your country? \\nThis will occupy one of your diplomats until the process is done or you cancel the attempt.",
+        "translation": "你希望开始将$COUNTRY$并入你的国家吗？ \\n你的一位外交官需心无旁骛地处理此事，直至任务完成或者取消.",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_ANNEXNEWDESC:0",
+        "original": "Do you wish to abort your annexation attempt and order your diplomat home?",
+        "translation": "你要让外交官放弃吞并该国的企图，返回祖国听候差遣吗？",
+        "stage": 5
+    },
+    {
+        "key": "ANNEXDESC:0",
+        "original": "Start the process of annexing your vassal.",
+        "translation": "开始吞并附属国",
+        "stage": 5
+    },
+    {
+        "key": "ANNEXINVALID:0",
+        "original": "You may only Annex a nation which has been your vassal for at least §Y$YEARS$§! years.",
+        "translation": "你只能吞并一个在你名下至少达§Y$YEARS$§!年的附庸国。",
+        "stage": 5
+    },
+    {
+        "key": "ANNEXINTEGRATETITLE:0",
+        "original": "Annex / Integrate",
+        "translation": "吞并 / 合并",
+        "stage": 5
+    },
+    {
+        "key": "ANNEXTOTALAMOUNT:0",
+        "original": "The annexation is estimated to cost a total of §Y$COST$§!£dip . The cost is based on the development level of your vassal's provinces (excluding provinces that are your cores), and the cost can change during the process of annexation.",
+        "translation": "吞并预计花费总共 §Y$COST$§! 外交点数. 费用是基于你附庸省份的发展水平 (不包括你的核心省份)，并且费用可能在吞并过程中发生变化.",
+        "stage": 5
+    },
+    {
+        "key": "OUT_IS_ANNEXING:0",
+        "original": "Annexing §Y$COUNTRY$§!",
+        "translation": "试图吞并§Y$COUNTRY$§!中",
+        "stage": 5
+    },
+    {
+        "key": "OUT_BEING_ANNEXED:0",
+        "original": "Being annexed by §Y$COUNTRY$§!",
+        "translation": "为§Y$COUNTRY$§!所吞并！",
+        "stage": 5
+    },
+    {
+        "key": "OUT_ANNEX_TOOLTIP:0",
+        "original": "$VAL|2+$/month",
+        "translation": "$VAL|2+$/月",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_TOO_LOW:0",
+        "original": "Your vassal needs to have at least §Y+190§! opinion of you for you to be able to start an annexation.",
+        "translation": "你的附庸对你的好感度必须达到§Y+190§!，否则吞并无从谈起。",
+        "stage": 5
+    },
+    {
+        "key": "MAX_ALLIANCE_REACHED:0",
+        "original": "We can only have §Y$VAL$§W alliances. We currently have §Y$VAL$§W",
+        "translation": "我国仅可与§Y$VAL$§W个国家缔结盟约.现已有§Y$VAL$§W个国家成为我国盟友.",
+        "stage": 5
+    },
+    {
+        "key": "SENDGIFTTITLE:0",
+        "original": "Send Gift",
+        "translation": "送出礼物",
+        "stage": 5
+    },
+    {
+        "key": "SENDGIFTDESC:0",
+        "original": "Gift money to help them along.",
+        "translation": "送些钱去拉他们一把",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_ANNEXDESC:0",
+        "original": "Abort the Annexation Attempt.",
+        "translation": "放弃吞并计划",
+        "stage": 5
+    },
+    {
+        "key": "INTEGRATEDESC:0",
+        "original": "Start the process of integrating your union member.",
+        "translation": "开始执行合并计划",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_INTEGRATEDESC:0",
+        "original": "Abort the integration process and return your diplomat.",
+        "translation": "中止合并计划，召回外交官",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_INTEGRATENEWDESC:0",
+        "original": "Do you wish to abort your integration attempt and order your diplomat home?",
+        "translation": "你想停止合并计划并将外交官撤回国吗？",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_INTEGRATETITLE:0",
+        "original": "Cancel Integration",
+        "translation": "中止合并计划",
+        "stage": 5
+    },
+    {
+        "key": "OUT_IS_INTEGRATING:0",
+        "original": "Integrating §Y$COUNTRY$§!",
+        "translation": "正在合并 §Y$COUNTRY$§!",
+        "stage": 5
+    },
+    {
+        "key": "OUT_BEING_INTEGRATING:0",
+        "original": "Being integrated by §Y$COUNTRY$§!",
+        "translation": "正在被 §Y$COUNTRY$§! 合并",
+        "stage": 5
+    },
+    {
+        "key": "CLOSE_RIVALS_SELECTION:0",
+        "original": "Close rival selection.",
+        "translation": "关闭宿敌选择。",
+        "stage": 5
+    },
+    {
+        "key": "REMOVE_RIVAL:0",
+        "original": "Remove",
+        "translation": "移除",
+        "stage": 5
+    },
+    {
+        "key": "REMOVE_RIVAL_DESC:0",
+        "original": "Remove this Rival.",
+        "translation": "不再将此国视为宿敌。",
+        "stage": 5
+    },
+    {
+        "key": "CLICK_RIVAL_SELECTION:0",
+        "original": "Click to select as your rival.",
+        "translation": "点击选择宿敌",
+        "stage": 5
+    },
+    {
+        "key": "CANT_SET_RIVAL_ALREADY:0",
+        "original": "This country is already a Rival.",
+        "translation": "这个国家早已是我国宿敌。",
+        "stage": 1
+    },
+    {
+        "key": "CANT_SET_RIVAL_OVERLORD:0",
+        "original": "You cannot set your Overlord as a Rival.",
+        "translation": "不能将宗主国当作宿敌。",
+        "stage": 1
+    },
+    {
+        "key": "CANT_SET_RIVAL_SUBJECT:0",
+        "original": "You cannot set your subject as a Rival.",
+        "translation": "不能将属国当作宿敌。",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_RIVAL_SELECTION_REPLACE:0",
+        "original": "Click to replace §Y$COUNTRY$§W as your rival. This will cost §Y$VAL$§W Diplomatic Points.",
+        "translation": "点击更换§Y$COUNTRY$§W为你的宿敌。这将消耗§Y$VAL$§W外交点数。",
+        "stage": 1
+    },
+    {
+        "key": "NO_RIVAL_SELECTED:0",
+        "original": "No Rival selected.",
+        "translation": "无宿敌",
+        "stage": 5
+    },
+    {
+        "key": "CHOOSE_FROM_LIST:0",
+        "original": "§YClick in the list or on the map to choose a new Rival.\\nThis will cost you §R$VAL$§!£dip .§!",
+        "translation": "§Y在列表或地图点击选择一个新的宿敌。\\n这将消耗 §R$VAL$§!£dip£。§!",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_TO_REMOVE_RIVAL:0",
+        "original": "\\n§YOr click the remove button to\\nremove $RIVAL$ as Rival§!",
+        "translation": "\\n§Y或点击移除按钮\\n移除宿敌$RIVAL$§!",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_RIVAL_COST_DESC:0",
+        "original": "\\nSelecting a new Rival will cost you §Y$VAL$§W£dip .",
+        "translation": "\\n选定一个新的宿敌将花费§Y$VAL$§W£dip£。",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_TO_SELECT_RIVAL:0",
+        "original": "\\nClick here and then click on a country in the list to set it as your Rival.",
+        "translation": "\\n点击此处后选定列表中国家来将其设为宿敌。",
+        "stage": 5
+    },
+    {
+        "key": "CLICK_NO_RIVAL_SELECTED:0",
+        "original": "No Rival Selected",
+        "translation": "无宿敌",
+        "stage": 5
+    },
+    {
+        "key": "CLICK_CHANGE_RIVAL:0",
+        "original": "\\nClick to change Rival.",
+        "translation": "\\n点击改变宿敌。",
+        "stage": 1
+    },
+    {
+        "key": "CLICK_SET_RIVAL:0",
+        "original": "\\nClick to set as Rival.",
+        "translation": "\\n点击设置一个宿敌。",
+        "stage": 5
+    },
+    {
+        "key": "RIVAL_REMOVE_NOT_ENOUGH_POWER:0",
+        "original": "We are lacking the §Y$VAL$§W£dip  required to remove a rival.",
+        "translation": "我们需要§Y$VAL$§W£dip£来移除宿敌。",
+        "stage": 5
+    },
+    {
+        "key": "ENFORCEPEACETITLE:0",
+        "original": "Enforce Peace",
+        "translation": "勒令停战",
+        "stage": 5
+    },
+    {
+        "key": "ENFORCEPEACEDESC:0",
+        "original": "Enforce a White Peace between the target country and one of its enemies. You will join the war on the opposing side if the target refuses to accept the peace.",
+        "translation": "胁迫对方停止侵略战争并与一个敌国达成无条件和平。若是被拒绝，你的国家将加入这次战争的防御方对抗侵略。",
+        "stage": 5
+    },
+    {
+        "key": "ENFORCPEACEDESC_OVERLORD:0",
+        "original": "§RTheir overlord will join this war if they decline!§!",
+        "translation": "§R如果他们拒绝，那他们的宗主国将会参战！§!",
+        "stage": 5
+    },
+    {
+        "key": "ENFORCEPEACE_CHOOSE_TARGET:0",
+        "original": "Choose the country you want to side with:",
+        "translation": "选择你要加入的阵营：",
+        "stage": 5
+    },
+    {
+        "key": "enforced_peace_against:0",
+        "original": "Enforced Peace against",
+        "translation": "强迫此国接受和平：",
+        "stage": 5
+    },
+    {
+        "key": "enforced_peace_for:0",
+        "original": "Enforced Peace",
+        "translation": "强制和平",
+        "stage": 1
+    },
+    {
+        "key": "improved_imperial_relations:0",
+        "original": "Improved imperial relations",
+        "translation": "改善了与皇帝的关系",
+        "stage": 1
+    },
+    {
+        "key": "IMPROVERELATIONTITLE:0",
+        "original": "Improve Relation",
+        "translation": "改善关系",
+        "stage": 5
+    },
+    {
+        "key": "IMPROVERELATIONDESC:0",
+        "original": "Improve relations between yourself and the target.",
+        "translation": "改善你与这个国家的关系。",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_IMPROVERELATIONTITLE:0",
+        "original": "Stop Relation Improvement",
+        "translation": "停止改善关系",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_IMPROVERELATIONDESC:0",
+        "original": "Recall our diplomat and stop improving relations.",
+        "translation": "停止改善关系并召回外交官",
+        "stage": 5
+    },
+    {
+        "key": "FABRICATECLAIMSTATEDESC_NOPROV:1",
+        "original": "Country has no neighboring unclaimed areas with more than one province in that can be claimed.",
+        "translation": "国家没有拥有超过一个可宣称省份的未宣称的接壤地区。",
+        "stage": 1
+    },
+    {
+        "key": "FABRICATECLAIMTITLE:1",
+        "original": "Fabricate Claim",
+        "translation": "伪造宣称",
+        "stage": 1
+    },
+    {
+        "key": "FABRICATECLAIMSTATEDESC:0",
+        "original": "Fabricate a claim on a neighboring area.",
+        "translation": "在附近地区伪造宣称",
+        "stage": 5
+    },
+    {
+        "key": "FABRICATECLAIMDESC:1",
+        "original": "Fabricate a claim on a neighboring province.",
+        "translation": "在一个接壤省份伪造主权.",
+        "stage": 5
+    },
+    {
+        "key": "FABRICATECLAIMDESC_NOPROV:1",
+        "original": "Has no possible neighboring province to fabricate a claim on.",
+        "translation": "没有符合条件的接壤省份.",
+        "stage": 5
+    },
+    {
+        "key": "JUSTIFY_TRADE_CONFLICTTITLE:0",
+        "original": "Justify Trade Conflict",
+        "translation": "正当化贸易冲突",
+        "stage": 1
+    },
+    {
+        "key": "JUSTIFY_TRADE_CONFLICTDESC:0",
+        "original": "Justify a trade conflict against someone who threatens your trade.",
+        "translation": "正当化与某个危及你的贸易的国家的贸易冲突。",
+        "stage": 1
+    },
+    {
+        "key": "JUSTIFY_TRADE_CONFLICT_NO_POWER:1",
+        "original": "$WHO$ must have trade power in a trade node where you have at least $OURVAL|0%$ of the total power.",
+        "translation": "$WHO$必须在你拥有至少$OURVAL|0%$贸易竞争力的贸易节点中拥有竞争力。",
+        "stage": 1
+    },
+    {
+        "key": "JUSTIFY_TRADE_CONFLICT_LOW_POWER:1",
+        "original": "$WHO$ must have at least $VAL|0%$ of the total power in a trade node where you have at least $OURVAL|0%$ of the total power. They currently have $MAX|0%$ in $NODE$, where you have $MAXOURS|0%$.",
+        "translation": "$WHO$必须在你拥有至少$OURVAL|0%$贸易竞争力的贸易节点中拥有至少$VAL|0%$的贸易竞争力。当前他们在$NODE$节点上有$MAX|0%$，而你有$MAXOURS|0%$。",
+        "stage": 1
+    },
+    {
+        "key": "TRANSFER_TRADE_POWERTITLE:0",
+        "original": "Transfer Trade Power",
+        "translation": "转移贸易竞争力",
+        "stage": 5
+    },
+    {
+        "key": "TRANSFER_TRADE_POWERDESC:0",
+        "original": "Ask if $WHO$ want to transfer a part of their trade power to you.",
+        "translation": "询问$WHO$是否愿意将他们的部分贸易竞争力转移给你。",
+        "stage": 1
+    },
+    {
+        "key": "TRANSFER_TRADE_POWER_SELECT_DESC:0",
+        "original": " Do you want to ask $WHO$ if they want to transfer a part of their trade power to you.",
+        "translation": "你想要询问$WHO$他们是否愿意将他们的部分贸易竞争力转移给你吗？",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_TRANSFER_TRADE_POWER_SELECT_DESC:0",
+        "original": "Do you want to cancel your Transfer Trade Power relation with $WHO$?",
+        "translation": "你想要取消转移贸易竞争力给$WHO$吗？",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_TRANSFER_TRADE_POWER_SELECT_DESC_GIVE_CB:0",
+        "original": "We'll lose $PRESTIGEHIT|R$ prestige and $WHOS$ opinion about you will be hurt for some years. Since this relation was enforced through a peace deal, $WHO$ will get a Trade Conflict Casus Belli on us.",
+        "translation": "我们将失去$PRESTIGEHIT|R$威望并降低往后几年$WHOS$对我们的看法。由于这种关系是通过强迫签订的合约强制形成的，$WHO$将针对我们获得贸易冲突的宣战理由。",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_TRANSFER_TRADE_POWERTITLE:0",
+        "original": "Cancel Transfer Trade Power",
+        "translation": "取消转移贸易竞争力",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_TRANSFER_TRADE_POWERDESC:0",
+        "original": "Cancel the Transfer Trade Power relation.",
+        "translation": "取消转让贸易竞争力给我们的关系。",
+        "stage": 1
+    },
+    {
+        "key": "INFILTRATETITLE:0",
+        "original": "Infiltrate Administration",
+        "translation": "管理渗透",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_INFILTRATETITLE:0",
+        "original": "Cancel Infiltration",
+        "translation": "取消渗透计划",
+        "stage": 5
+    },
+    {
+        "key": "SABOTAGETITLE:0",
+        "original": "Sabotage Reputation",
+        "translation": "破坏名誉",
+        "stage": 5
+    },
+    {
+        "key": "SABOTAGEDESC:0",
+        "original": "Sabotage the target's diplomatic reputation.",
+        "translation": "对对方的国际声誉进行诋毁",
+        "stage": 5
+    },
+    {
+        "key": "SABOTAGEDESCDERIVED:0",
+        "original": "Sabotage Reputation will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and have the following effects on them:\\n$DESC$\\n\\nIt will last until $DATE|Y$.",
+        "translation": "对对方的国际声誉进行诋毁\\n\\n这将在外交方面给予他们以下影响：\\n$DESC$",
+        "stage": 5
+    },
+    {
+        "key": "SABOTAGEALREADYPRESENTDESC:0",
+        "original": "Their reputation has recently been sabotaged.",
+        "translation": "另一个国家已经抢先下手了",
+        "stage": 5
+    },
+    {
+        "key": "INFILTRATEDESC:0",
+        "original": "Infiltrate Administration lifts the Fog of War from the target country until $DATE|Y$.",
+        "translation": "渗透对方官僚系统，这样你就可以掌握他们的所有动向了.",
+        "stage": 5
+    },
+    {
+        "key": "IS_INFILTRATEDESC:0",
+        "original": "Our spies have infiltrated their administration, and will be able to supply us with information until $DATE|Y$.",
+        "translation": "我们的间谍已经渗透进他们的政府，将能向我们提供情报直到 $DATE|Y$.",
+        "stage": 5
+    },
+    {
+        "key": "CONFIRM_CANCEL_INFILTRATE:0",
+        "original": "Are you sure you want to recall our spies from their high positions? We will no longer be able to see what goes on in §Y$COUNTRY$§!.",
+        "translation": "你确定要召回我们在他们高层的间谍吗？ 我们将不再能够看到在 §Y$COUNTRY$§!发生了什么",
+        "stage": 5
+    },
+    {
+        "key": "SABOTAGE_RECRUITMENT:0",
+        "original": "Sabotage Recruitment",
+        "translation": "破坏征兵",
+        "stage": 5
+    },
+    {
+        "key": "sabotage_recruitment:0",
+        "original": "Sabotage Recruitment",
+        "translation": "破坏征兵",
+        "stage": 5
+    },
+    {
+        "key": "SABOTAGERECRUITMENTTITLE:0",
+        "original": "Sabotage Recruitment",
+        "translation": "破坏征兵",
+        "stage": 5
+    },
+    {
+        "key": "SABOTAGERECRUITMENTDESC:0",
+        "original": "Sabotage the target's military recruitment.",
+        "translation": "破坏目标的军事征募",
+        "stage": 5
+    },
+    {
+        "key": "SABOTAGERECRUITMENTDESCDERIVED:0",
+        "original": "Sabotage Recruitment will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and have the following effects:\\n$DESC$\\n\\nIt will last until $DATE|Y$.",
+        "translation": "破坏征兵将减少我们 $ADJ|Y$ 的间谍网$COST|R$并会有以下效果 :\\n$DESC$\\n\\n它会一直持续到 $DATE|Y$.",
+        "stage": 5
+    },
+    {
+        "key": "SABOTAGERECRUITMENTALREADYPRESENT:0",
+        "original": "Their recruitment is already being sabotaged.",
+        "translation": "他们的征兵已经被破坏了",
+        "stage": 5
+    },
+    {
+        "key": "CORRUPT_OFFICIALS:0",
+        "original": "Corrupt Officials",
+        "translation": "腐化官员",
+        "stage": 5
+    },
+    {
+        "key": "corrupt_officials:0",
+        "original": "Corrupt Officials",
+        "translation": "腐化官员",
+        "stage": 5
+    },
+    {
+        "key": "CORRUPTOFFICIALSALREADYPRESENTDESC:0",
+        "original": "Someone is already corrupting officials in $TARGET$.",
+        "translation": "有人正在$TARGET$腐化官员",
+        "stage": 5
+    },
+    {
+        "key": "CORRUPTOFFICIALSTITLE:0",
+        "original": "Corrupt Officials",
+        "translation": "腐化官员",
+        "stage": 5
+    },
+    {
+        "key": "CORRUPTOFFICIALSDESC:0",
+        "original": "Corrupt the target's officials.",
+        "translation": "腐化目标的官员",
+        "stage": 5
+    },
+    {
+        "key": "CORRUPTOFFICIALSDESCDERIVED:0",
+        "original": "Corrupt Officials will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and have the following effects:\\n$DESC$\\n\\nIt will last until $DATE|Y$.",
+        "translation": "腐化官员将减少我们 $ADJ|Y$ 的间谍网 $COST|R$ 并会有以下效果:\\n$DESC$\\n\\n它会一直持续到 $DATE|Y$.",
+        "stage": 5
+    },
+    {
+        "key": "SLANDER_MERCHANTS:0",
+        "original": "Slander Merchants",
+        "translation": "诽谤商人团",
+        "stage": 5
+    },
+    {
+        "key": "slander_merchants:0",
+        "original": "Slander Merchants",
+        "translation": "诽谤商人团",
+        "stage": 5
+    },
+    {
+        "key": "SLANDERMERCHANTSTITLE:0",
+        "original": "Slander Merchants",
+        "translation": "诽谤商人团",
+        "stage": 5
+    },
+    {
+        "key": "SLANDERMERCHANTSDESC:0",
+        "original": "Slander the target's merchants.",
+        "translation": "诽谤目标的商人团",
+        "stage": 5
+    },
+    {
+        "key": "SLANDERMERCHANTSDESCDERIVED:0",
+        "original": "Slander Merchants will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and have the following effects:\\n$DESC$\\n\\nIt will last until $DATE|Y$.",
+        "translation": "诽谤商人团将减少我们 $ADJ|Y$ 的间谍网 $COST|R$ 并会有以下影响:\\n$DESC$\\n\\n它将持续到 $DATE|Y$.",
+        "stage": 5
+    },
+    {
+        "key": "SLANDERMERCHANTSALREADYPRESENTDESC:0",
+        "original": "Their merchants are already being slandered.",
+        "translation": "他们的商人团已经被诽谤了",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORTREBELSTITLE:0",
+        "original": "Support Rebels",
+        "translation": "支持叛军",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORTREBELSDESC:0",
+        "original": "\\nSupport rebels in a country.",
+        "translation": "在一个国家境内扶持起义军",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORTREBELSDESCDERIVED:0",
+        "original": "Supporting a rebel faction will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and increase their chance of making progress towards an uprising each month by §Y$AMT$%§! for a period of $YEARS|Y$ years.\\n\\nYou will also support them during their uprising. If the rebels gain power they will become your ally.",
+        "translation": "从以下列表中选择你所要扶持的起义军.\\n这将对起义军所在省份产生以下影响：\\n$DESC$\\n\\n你也可在其起义后继续予以支持.他们成功后，将成为你忠心不二的盟友.",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORTREBELSDESCALREADYPRESENTDESC:0",
+        "original": "Someone is already supporting these rebels in the target country.",
+        "translation": "另一个国家已经抢先下手了",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORTREBELSDESCNOREBELSDESC:0",
+        "original": "There are no rebels to support.",
+        "translation": "国家安靖，并无叛军.",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORT_REBELS_OVERLORD:0",
+        "original": "It is not possible to support rebels in one of your subjects.",
+        "translation": "不能在自己的属国支持叛军。",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORTREBELSDESC_NEEDTECH:0",
+        "original": "Administration Technology level needs to be at least $VAL|Y$.",
+        "translation": "行政科技需要达到$VAL|Y$级.",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_SUPPORTREBELSTITLE:0",
+        "original": "Stop Supporting Rebels",
+        "translation": "停止扶持起义军",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_SUPPORTREBELSDESC:0",
+        "original": "\\nThe rebels we support in §Y$COUNTRY$§! are $AMOUNT$ towards an uprising. Our support lasts until §Y$DATE$§!.",
+        "translation": "停止资助叛军",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_SUPPORTREBELS_WARNING:0",
+        "original": "Are you sure you want to stop supporting their $REBELTYPE$? We would not regain any of our investments.",
+        "translation": "你确定要停止支持 $REBELTYPE$吗？我们不会恢复任何的投资",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORTREBELS_REBELREVOLTED:0",
+        "original": "Revolted",
+        "translation": "义军已高举义旗",
+        "stage": 5
+    },
+    {
+        "key": "AGITATEFORLIBERTYTITLE:0",
+        "original": "Agitate for Liberty",
+        "translation": "煽动独立",
+        "stage": 5
+    },
+    {
+        "key": "AGITATEFORLIBERTYDESC:1",
+        "original": "Convince the target that they need to get independence from their oppressors!",
+        "translation": "煽动独立将导致目标的独立倾向上升至$LD|Y$.",
+        "stage": 5
+    },
+    {
+        "key": "AGITATEFORLIBERTYDESCDERIVED:0",
+        "original": "Agitating for Liberty increases the target's Liberty Desire by $LD|Y$.\\n\\nIt will last until $DATE|Y$.",
+        "translation": "煽动独立提高目标的独立倾向至 $LD|Y$.\\n\\n它将持续到$DATE|Y$.",
+        "stage": 5
+    },
+    {
+        "key": "SOW_DISCONTENT_NOIDEA:0",
+        "original": "We are lacking the proper ideas to do this.",
+        "translation": "我们缺乏相对应的理念",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_AGITATEFORLIBERTYTITLE:0",
+        "original": "Cancel Agitate for Liberty",
+        "translation": "取消煽动独立",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_AGITATEFORLIBERTYDESC:0",
+        "original": "Stop agitating for liberty of the target.",
+        "translation": "停止煽动目标独立.",
+        "stage": 5
+    },
+    {
+        "key": "SOWDISCONTENTTITLE:0",
+        "original": "Sow Discontent",
+        "translation": "挑动不满情绪",
+        "stage": 5
+    },
+    {
+        "key": "SOWDISCONTENTDESC:0",
+        "original": "Sow discontent among the population of the target.",
+        "translation": "在该国人民心中种下不满的种子",
+        "stage": 5
+    },
+    {
+        "key": "SOWDISCONTENTDESCDERIVED:0",
+        "original": "Sow Discontent will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and have the following effects on them:\\n$DESC$\\n\\nIt will last until $DATE|Y$.",
+        "translation": "在该国人民心中种下不满的种子.\\n\\n这将产生以下影响：\\n$DESC$",
+        "stage": 5
+    },
+    {
+        "key": "SOWDISCONTENTALREADYPRESENT:0",
+        "original": "Their people's discontent has already been stirred.",
+        "translation": "他们人民的不满已经被搅动了",
+        "stage": 5
+    },
+    {
+        "key": "UNTIL_DATE_EFFECTS:0",
+        "original": "\\nUntil §Y$DATE$§!, this has the following effects:\\n $DESC$.",
+        "translation": "\\n§Y$DATE$§!前，拥有如下影响：\\n$DESC$。",
+        "stage": 5
+    },
+    {
+        "key": "AGITATE_EFFECTS:0",
+        "original": "§YLiberty Desire§!: §G+$VAL$%§!",
+        "translation": "§Y独立倾向§!: §G+$VAL$%§!",
+        "stage": 5
+    },
+    {
+        "key": "AGITATEFORLIBERTYALREADYPRESENTDESC:0",
+        "original": "Someone is agitating them for liberty.",
+        "translation": "有人已经在目标人群中进行煽动活动.",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_SOWDISCONTENTTITLE:0",
+        "original": "Cancel Sow Discontent",
+        "translation": "取消挑动不满情绪",
+        "stage": 5
+    },
+    {
+        "key": "IS_SOWDISCONTENT:0",
+        "original": "Is Sowing discontent.",
+        "translation": "正在挑动不满情绪。",
+        "stage": 5
+    },
+    {
+        "key": "BUILDSPYNETWORK_NO_SUBJECTS:0",
+        "original": "Cannot build a Spy Network in this subject state. Spy on their overlord ($OVERLORD|Y$) instead.",
+        "translation": "不能在这个属国建立间谍网。作为替代刺探他们的宗主国（$OVERLORD|Y$）。",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_SOWDISCONTENT:0",
+        "original": "Is NOT Sowing discontent.",
+        "translation": "没有在制造不满情绪。",
+        "stage": 1
+    },
+    {
+        "key": "IS_STUDYTECHNOLOGY:0",
+        "original": "Is Studying technology.",
+        "translation": "正在窃取科技。",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_STUDYTECHNOLOGY:0",
+        "original": "Is NOT Studying technology.",
+        "translation": "并未在窃取科技。",
+        "stage": 1
+    },
+    {
+        "key": "IS_AGITATEFORLIBERTY:0",
+        "original": "Is Agitating for liberty.",
+        "translation": "正在煽动独立。",
+        "stage": 5
+    },
+    {
+        "key": "IS_NOT_AGITATEFORLIBERTY:0",
+        "original": "Is NOT Agitating for liberty.",
+        "translation": "并未在煽动独立。",
+        "stage": 5
+    },
+    {
+        "key": "HAVE_COALITION_WITH:0",
+        "original": "You are in the coalition against ",
+        "translation": "建立针对此国的包围网：",
+        "stage": 5
+    },
+    {
+        "key": "JOIN_COALITIONTITLE:0",
+        "original": "Join Coalition",
+        "translation": "加入包围网",
+        "stage": 5
+    },
+    {
+        "key": "JOIN_COALITIONDESC:0",
+        "original": "Join the coalition against them",
+        "translation": "加入针对此国的包围网",
+        "stage": 5
+    },
+    {
+        "key": "JOIN_COALITIONDESC2:0",
+        "original": "Join the coalition against $WITH$",
+        "translation": "加入$WITH$包围网",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITIONTITLE:0",
+        "original": "Form Coalition Against",
+        "translation": "建立包围网",
+        "stage": 5
+    },
+    {
+        "key": "FORMJOINCOALITIONTITLE:0",
+        "original": "Form/Join Coalition Against",
+        "translation": "建立/加入包围网",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITIONDESC:0",
+        "original": "Form a coalition against them",
+        "translation": "建立一个针对他们的包围网",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITIONDESC2:0",
+        "original": "Form a coalition against $WITH$",
+        "translation": "建立$WITH$包围网",
+        "stage": 5
+    },
+    {
+        "key": "FORM_COALITION_AGAINST:0",
+        "original": "Do you wish to form a coalition against §Y$WHO$§!? If any member of the coalition goes to war with §Y$WHO$§!, all other members will be called in\\nagainst them.",
+        "translation": "你确定要建立§Y$WHO$§!包围网？\\n如果任何一个包围网成员对§Y$WHO$§!发起了战争，\\n所有成员国都将对其发起战争！",
+        "stage": 5
+    },
+    {
+        "key": "JOIN_COALITION_AGAINST:0",
+        "original": "Do you wish to join the coalition against §Y$WHO$§!? If any member of the coalition goes to war with §Y$WHO$§!, all other members will be called in\\nagainst them.",
+        "translation": "你确定要加入§Y$WHO$§!包围网？\\n如果任何一个包围网成员对§Y$WHO$§!发起了战争，\\n所有成员国都将对其发起战争！",
+        "stage": 5
+    },
+    {
+        "key": "COALITION_WHY_ALREADY:0",
+        "original": "We are already in a coalition against §Y$WHO$§!.",
+        "translation": "我们已加入§Y$WHO$§!包围网.",
+        "stage": 5
+    },
+    {
+        "key": "COALITION_WHY_NOT_LEADER:0",
+        "original": "We are not the leader in the coalition against §Y$WHO$§!, and only §Y$LEADER$§! can invite new members.",
+        "translation": "我们并非§Y$WHO$§!包围网的领导者，只有§Y$LEADER$§!才能邀请新的国家加入",
+        "stage": 5
+    },
+    {
+        "key": "COALITION_WHY_EXISTS:0",
+        "original": "There is already a coalition against §Y$WHO$§!, and only §Y$LEADER$§! can invite new members.",
+        "translation": "§Y$WHO$§!已经建立，只有§Y$LEADER$§!才能邀请新的国家加入",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_NORIVALS:0",
+        "original": "We don't have any rival to start a coalition against.",
+        "translation": "没有任何国家值得我们建立包围网.",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_INPROGRESS:0",
+        "original": "We are already in a coalition!",
+        "translation": "我们已经加入包围网了.",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_HASWAR:0",
+        "original": "We are at war with them",
+        "translation": "我们正在与对方交战",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_OTHERALLIANCE:0",
+        "original": "You are allied to them.",
+        "translation": "你与对方有盟约",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_TARGETINOTHER:0",
+        "original": "You are already a member of a different coalition.",
+        "translation": "你是另一个包围网的成员国",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_WETARGET:0",
+        "original": "They are in a coalition against us!",
+        "translation": "一个针对我国的包围网已经建立了起来！",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_CHOOSE_TARGET:0",
+        "original": "Choose one of your rivals as the coalition target",
+        "translation": "选择你的一个宿敌作为包围网对象",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_CHOOSE_TARGET_NOTCONTINENT:0",
+        "original": "You can't choose $TARGET$ as the coalition target since you don't have a capital on the same continent!",
+        "translation": "你的首都与$TARGET$不在同一大陆上，因此，你不可以建立针对对方的包围网！",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_CHOOSE_TARGET_NOTRELATION:0",
+        "original": "You can't choose $TARGET$ as the coalition target since you need to have less than -100 of relations!",
+        "translation": "只有当你与$TARGET$的外交关系处于-100以下时你才可以建立针对对方的包围网！",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_CHOOSE_TARGET_NOTNUMRELATION:0",
+        "original": "You need at least $RELATION$ of relations with $TARGET$ to add another member!",
+        "translation": "你与$TARGET$的关系至少要达到$RELATION$才能添加新的成员国！",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_ANOTHER_COALITION:0",
+        "original": "They are already in another coalition.",
+        "translation": "他们是另一个包围网的成员国.",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITION_NOTSUBJECTS:0",
+        "original": "Only Independent Countries can join coalitions.",
+        "translation": "只有独立国家才能加入包围网.",
+        "stage": 5
+    },
+    {
+        "key": "ICON_FORM_COALITION:0",
+        "original": "Form Coalition offer",
+        "translation": "提议组建包围网",
+        "stage": 5
+    },
+    {
+        "key": "FABRICATECLAIMDESC_AT_WAR:0",
+        "original": "You cannot start to fabricate claims against someone you are at war with.",
+        "translation": "你不能对交战方的省份伪造宣称。",
+        "stage": 5
+    },
+    {
+        "key": "JUSTIFY_TRADE_CONFLICT_DESC_AT_WAR:0",
+        "original": "You cannot start to justify a trade conflict against someone you are at war with.",
+        "translation": "你不能与交战方解决贸易冲突。",
+        "stage": 5
+    },
+    {
+        "key": "TRANSFER_TRADE_POWER_DESC_AT_WAR:0",
+        "original": "You cannot ask for trade power from someone you're in war with.",
+        "translation": "你不能要求交战方转让贸易竞争力。",
+        "stage": 5
+    },
+    {
+        "key": "FORMCOALITIONREQ:0",
+        "original": "Form a coalition against $TARGET$.",
+        "translation": "组建$TARGET$包围网。",
+        "stage": 5
+    },
+    {
+        "key": "COALITIONTARGET:0",
+        "original": "Target of the Coalition of $LIST$.",
+        "translation": "$LIST$对其构建包围网。",
+        "stage": 5
+    },
+    {
+        "key": "COALITIONAGAINST:0",
+        "original": "In the Coalition against $LIST$.",
+        "translation": "在对抗$LIST$的包围网中。",
+        "stage": 5
+    },
+    {
+        "key": "COALITIONWITH:0",
+        "original": "Coalition with $LIST$.",
+        "translation": "与$LIST$构成包围网。",
+        "stage": 1
+    },
+    {
+        "key": "COALITIONWITHAGAINST:0",
+        "original": "§Y$MEMBER$§! are in a coalition against §Y$TARGET$§!. If one of the coalition members enters a war against §Y$TARGET$§!, all coalition members will be called to arms.",
+        "translation": "§Y$MEMBER$§!是§Y$TARGET$§!包围网的成员国。战争一旦在成员国与§Y$TARGET$§!之间爆发，所有包围网成员都将加入战争。",
+        "stage": 1
+    },
+    {
+        "key": "ANNEX_IN_PROGRESS:0",
+        "original": "We are already in the process of annexing them.",
+        "translation": "我们已经在执行吞并计划。",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_NOT_IN_PROGRESS:0",
+        "original": "We are not annexing them.",
+        "translation": "我们未执行吞并计划。",
+        "stage": 1
+    },
+    {
+        "key": "INTEGRATE_IN_PROGRESS:0",
+        "original": "We are already in the process of annexing them.",
+        "translation": "我们已经在执行吞并计划。",
+        "stage": 1
+    },
+    {
+        "key": "RELATION_ACTION_CHANGE:0",
+        "original": "§Y$FIRST$§W is improving §Y$SECOND$§W's opinion of them (§Y$VAL$§W/next month).\\nThe improvement is fastest when opinion is close to §Y0§!.\\n",
+        "translation": "§Y$FIRST$§W正在提高§Y$SECOND$§W对他们的好感度（每月§Y$VAL$§W）。\\n好感度越接近§Y0§!，效率越高。\\n",
+        "stage": 1
+    },
+    {
+        "key": "IMPROVERELATIONDESC_NEW:0",
+        "original": "Do you wish to send our diplomat to improve our relations with §Y$COUNTRY$§W?\\nOnce he is there he will improve our relations every month, neutral relations are easier to change.",
+        "translation": "你是否要派遣外交官去与§Y$COUNTRY$§W加强关系？\\n每个月两国关系都会有所增长，关系越接近0，则提高的越多.",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_IMPROVERELATIONDESC_NEW:0",
+        "original": "Do you wish to recall our diplomat who is improving our relations with §Y$COUNTRY$§W?\\nWhen he stops working, over time, his effect will fade.",
+        "translation": "你希望将我国派驻§Y$COUNTRY$§W执行亲善工作的外交官召回吗？\\n在他的工作中止后，两国关系将渐渐复原.",
+        "stage": 1
+    },
+    {
+        "key": "improved_relation:0",
+        "original": "Improved Relations",
+        "translation": "改善关系",
+        "stage": 5
+    },
+    {
+        "key": "WE_INCREASE_RELATIONS:0",
+        "original": "Increasing relations with $LIST$.",
+        "translation": "正与$LIST$加强关系",
+        "stage": 1
+    },
+    {
+        "key": "THEY_INCREASE_RELATIONS:0",
+        "original": "The following countries are improving relations: $LIST$.",
+        "translation": "下列国家正在加强关系：$LIST$.",
+        "stage": 5
+    },
+    {
+        "key": "ICON_ENFORCE_PEACE:0",
+        "original": "Enforce Peace",
+        "translation": "勒令停战",
+        "stage": 5
+    },
+    {
+        "key": "ICON_ENFORCE_PEACE_COALITION_LEADER:0",
+        "original": "Enforce Peace from Coalition Leader",
+        "translation": "包围网首领提议和平",
+        "stage": 5
+    },
+    {
+        "key": "ICON_GRANT_ELECTORATE:0",
+        "original": "Grant Electorate",
+        "translation": "给予选举权",
+        "stage": 5
+    },
+    {
+        "key": "ICON_GRANT_FREECITY:0",
+        "original": "Grant Free City Status",
+        "translation": "授予自由市地位",
+        "stage": 5
+    },
+    {
+        "key": "ICON_DEMAND_UNLAWFUL_TERRITORY:0",
+        "original": "Demand Unlawful Territory",
+        "translation": "要求非主权领地",
+        "stage": 5
+    },
+    {
+        "key": "TRANSFER_TRADE_POWER:0",
+        "original": "Transfer Trade Power",
+        "translation": "转移贸易竞争力",
+        "stage": 5
+    },
+    {
+        "key": "THEYNOTATWAR:0",
+        "original": "They are not at war with anyone!",
+        "translation": "他们并未参与任何战争！",
+        "stage": 5
+    },
+    {
+        "key": "ENFORCEPEACE_CHOOSE_TARGET_NOTSTRONGENOUGH:0",
+        "original": "You need to be stronger than the country you are enforcing peace for!",
+        "translation": "你需要比你要帮助的对象更加强大.",
+        "stage": 5
+    },
+    {
+        "key": "ENFORCEPEACE_NOINTERESTWHITEPEACE:0",
+        "original": "The target country has no interest to make white peace with this enemy.",
+        "translation": "对方并不想与这个敌人达成无条件和平",
+        "stage": 5
+    },
+    {
+        "key": "DIP_TO_MUCH_MAINT:0",
+        "original": "We can't afford the extra §Y$VAL$§W£dip  per month.",
+        "translation": "我们无法负担每月§Y$VAL$§W£dip£的代价。",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_FABRICATECLAIMTITLE:0",
+        "original": "Cancel Fabricate Claim",
+        "translation": "停止伪造宣称",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_FABRICATECLAIMDESC:0",
+        "original": "Stop fabricating a claim against them",
+        "translation": "停止对他们伪造主权",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_JUSTIFY_TRADE_CONFLICTTITLE:0",
+        "original": "Cancel justify trade conflict",
+        "translation": "取消制造贸易争端",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_JUSTIFY_TRADE_CONFLICTDESC:0",
+        "original": "Stop trying to justify a trade conflict",
+        "translation": "停止尝试去制造贸易争端",
+        "stage": 5
+    },
+    {
+        "key": "JUSTIFY_TRADE_CONFLICT_SELECT_DESC:1",
+        "original": "Justify Trade Conflict will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give us a Trade Conflict Casus Belli.",
+        "translation": "你希望和$WHO$制造贸易争端？这项行动会给我们贸易冲突的战争借口.",
+        "stage": 5
+    },
+    {
+        "key": "FABRICATE_CLAIM_SELECT_DESC:0",
+        "original": "Fabricate Claim will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give us a claim on §Y$PROV$§W. The claim will last for $YEARS|Y$ years.",
+        "translation": "伪造宣称将使我们在$ADJ|Y$的间谍网规模减少$COST|R$，同时我们将获得§Y$PROV$§W的宣称。该宣称将持续$YEARS|Y$年。",
+        "stage": 1
+    },
+    {
+        "key": "DIP_DISCOVERY_2:0",
+        "original": "Risk of discovery per month : §Y$VAL$%§W",
+        "translation": "每月被发现的风险: §Y$VAL$%§W",
+        "stage": 5
+    },
+    {
+        "key": "DIP_ENVOY_TIME_PROGRESS:0",
+        "original": "Progress: §Y$VAL$%§W",
+        "translation": "进程: §Y$VAL$%§W",
+        "stage": 5
+    },
+    {
+        "key": "MODIFIER_FABRICATE_CLAIMS_TIME:0",
+        "original": "Cost to fabricate claims",
+        "translation": "伪造宣称花费",
+        "stage": 5
+    },
+    {
+        "key": "MODIFIER_JUSTIFY_TRADE_CONFLICT_TIME:0",
+        "original": "Cost to justify trade conflict",
+        "translation": "制造贸易争端时间",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_FABRICATE_CLAIM_REQUEST:0",
+        "original": "Do you wish to recall your diplomat fabricating a claim, thereby ending the attempt?",
+        "translation": "你想放弃伪造主权计划，并召回外交官吗？",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_JUSTIFY_TRADE_CONFLICT_REQUEST:0",
+        "original": "Do you wish to recall your diplomat justifying a trade conflict, thereby ending the attempt?",
+        "translation": "你想召回正在制造贸易争端的外交官,这样这个计划将会被终止.",
+        "stage": 5
+    },
+    {
+        "key": "ALREADY_JUSTIFIED_TRADE_CONFLICT:0",
+        "original": "We already have a §YTrade Conflict§! Casus Belli against §Y$TARGET$§!. It is valid until §Y$DATE$§!.",
+        "translation": "你已经制造了一场贸易争端.",
+        "stage": 5
+    },
+    {
+        "key": "IS_FABRICATING_CLAIM:0",
+        "original": "Is Fabricating claim.",
+        "translation": "伪造主权中",
+        "stage": 5
+    },
+    {
+        "key": "IS_NOT_FABRICATING_CLAIM:0",
+        "original": "Is NOT Fabricating claim.",
+        "translation": "未在伪造主权",
+        "stage": 5
+    },
+    {
+        "key": "IS_JUSTIFYING_TRADE_CONFLICT:0",
+        "original": "Is justifying trade conflict.",
+        "translation": "正在制造贸易争端.",
+        "stage": 5
+    },
+    {
+        "key": "IS_NOT_JUSTIFYING_TRADE_CONFLICT:0",
+        "original": "Is NOT justifying trade conflict.",
+        "translation": "没有正在制造贸易争端.",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_LEAGUE_MUST_TRANSFER_TO_LEADER:0",
+        "original": "A Trade League member has to Transfer Trade Power to the league leader.",
+        "translation": "一个贸易联盟成员必须将贸易竞争力转移给盟主",
+        "stage": 5
+    },
+    {
+        "key": "TRADE_LEAGUE_WILL_TRANSFER_TO_LEADER:0",
+        "original": "A Trade League member can't already Transfer Trade Power since it must do so to the league leader.",
+        "translation": "一个贸易联盟成员不能转让贸易竞争力，因为它必须给盟主",
+        "stage": 5
+    },
+    {
+        "key": "SUBJECT_MUST_TRANSFER_TO_OVERLORD:0",
+        "original": "A $SUBJECT_TYPE$ has to Transfer Trade Power to its overlord.",
+        "translation": "一个 $SUBJECT_TYPE$ 已经将贸易竞争力转移给了它的宗主国",
+        "stage": 5
+    },
+    {
+        "key": "COLONY_MOST_TRANSFER_TO_OVERLORD:0",
+        "original": "A colony has to Transfer Trade Power to its overlord.",
+        "translation": "殖民地需要转移贸易竞争力给母国.",
+        "stage": 5
+    },
+    {
+        "key": "NO_COMMON_TRADE_NODE:0",
+        "original": "Doesn't share trade power in any trade node.",
+        "translation": "不存在双方都具有贸易竞争力的贸易节点.",
+        "stage": 5
+    },
+    {
+        "key": "IS_TRANSFERING_TRADE_POWER:0",
+        "original": "They are already transferring Trade Power to us.",
+        "translation": "他们正在转移贸易竞争力给我们.",
+        "stage": 5
+    },
+    {
+        "key": "IS_NOT_TRANSFERING_TRADE_POWER:0",
+        "original": "They aren't transferring Trade Power to us.",
+        "translation": "他们不转移贸易竞争力给我们.",
+        "stage": 5
+    },
+    {
+        "key": "TRANSFERING_TO_OTHER:0",
+        "original": "They are already transferring Trade Power to $WHO$.",
+        "translation": "他们正在转移贸易竞争力给$WHO$.",
+        "stage": 5
+    },
+    {
+        "key": "CANT_TRANSFER_TRADE_POWER_SUBJECT_TYPE:0",
+        "original": "A $SUBJECTTYPE$ can only Transfer Trade Power to its Overlord.",
+        "translation": "一个 $SUBJECTTYPE$ 只能将贸易竞争力转移给它的宗主国",
+        "stage": 5
+    },
+    {
+        "key": "CANT_TRANSFER_TRADE_POWER_PROTECTORATE:0",
+        "original": "A protectorate can only Transfer Trade Power to its overlord.",
+        "translation": "受保护国只能给他的母国转移贸易竞争力.",
+        "stage": 5
+    },
+    {
+        "key": "DIP_DISCOVERY_TIP:0",
+        "original": "Discovery Chance/day: §Y$VAL$§W%",
+        "translation": "每日发现几率：§Y$VAL$§W%",
+        "stage": 5
+    },
+    {
+        "key": "DIP_FABRICATE_TIME:0",
+        "original": "Days until claim is fabricated: §Y$VAL$§W",
+        "translation": "主权伪造完成时间：§Y$VAL$§W",
+        "stage": 5
+    },
+    {
+        "key": "DIP_FABRICATE_COMPLETION_DATE:0",
+        "original": "The estimated completion date is §Y$DATE$§W",
+        "translation": "预计完成时间是§Y$DATE$§W",
+        "stage": 5
+    },
+    {
+        "key": "SPYACTIONSAGAINST:0",
+        "original": "Is currently the target of covert actions by $LIST$.",
+        "translation": "现有秘密活动对象：$LIST$.",
+        "stage": 5
+    },
+    {
+        "key": "NO_MODIFIERS:0",
+        "original": "No Modifiers.",
+        "translation": "无修正",
+        "stage": 5
+    },
+    {
+        "key": "FABRICATE_CLAIM:0",
+        "original": "Fabricate Claim",
+        "translation": "伪造宣称",
+        "stage": 1
+    },
+    {
+        "key": "BUILD_SPY_NETWORK:0",
+        "original": "Build Spy Network",
+        "translation": "建立间谍网",
+        "stage": 5
+    },
+    {
+        "key": "JUSTIFY_TRADE_CONFLICT:0",
+        "original": "Justify Trade Conflict",
+        "translation": "制造贸易冲突",
+        "stage": 1
+    },
+    {
+        "key": "INFILTRATE_ADMINISTRATION:0",
+        "original": "Infiltrate Administration",
+        "translation": "管理渗透",
+        "stage": 5
+    },
+    {
+        "key": "SOW_DISCONTENT:0",
+        "original": "Sow Discontent",
+        "translation": "挑动不满情绪",
+        "stage": 5
+    },
+    {
+        "key": "STUDY_TECHNOLOGY:0",
+        "original": "Study Technology",
+        "translation": "窃取科技",
+        "stage": 5
+    },
+    {
+        "key": "AGITATE_FOR_LIBERTY:0",
+        "original": "Agitate for Liberty",
+        "translation": "煽动独立",
+        "stage": 5
+    },
+    {
+        "key": "merchants_slandered:0",
+        "original": "Merchants Slandered",
+        "translation": "商人团被诽谤",
+        "stage": 1
+    },
+    {
+        "key": "desc_merchants_slandered:0",
+        "original": "The good name of our merchants has been slandered by a foreign power.",
+        "translation": "我们商人团的好名声已经被外国势力诽谤了",
+        "stage": 1
+    },
+    {
+        "key": "recruitment_sabotaged:0",
+        "original": "Recruitment Sabotaged",
+        "translation": "征兵被破坏",
+        "stage": 1
+    },
+    {
+        "key": "desc_recruitment_sabotaged:0",
+        "original": "Our military recruitment efforts have been sabotaged by a foreign power.",
+        "translation": "我们的军事征募工作已经被外国势力破坏了",
+        "stage": 1
+    },
+    {
+        "key": "SABOTAGE_REPUTATION:0",
+        "original": "Sabotage Reputation",
+        "translation": "破坏名誉",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORT_REBELS:0",
+        "original": "Support Rebels",
+        "translation": "支持叛军",
+        "stage": 5
+    },
+    {
+        "key": "IS_SUPPORT_REBELS:0",
+        "original": "Is Supporting rebels.",
+        "translation": "正在扶持起义军",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_SUPPORT_REBELS:0",
+        "original": "Is NOT Supporting rebels.",
+        "translation": "未在扶持起义军",
+        "stage": 5
+    },
+    {
+        "key": "LACKING_IDEA:0",
+        "original": "We are lacking the proper ideas to do this.",
+        "translation": "我们缺乏相对应的理念",
+        "stage": 1
+    },
+    {
+        "key": "LACKING_SPECIFIC_IDEA:0",
+        "original": "We are lacking the idea $IDEA|Y$.",
+        "translation": "我们缺乏 $IDEA|Y$理念",
+        "stage": 1
+    },
+    {
+        "key": "LACKING_SPECIAL_IDEA:0",
+        "original": "We are lacking $NAME|Y$.",
+        "translation": "我们缺少$NAME|Y$",
+        "stage": 1
+    },
+    {
+        "key": "IS_INFILTRATE:0",
+        "original": "Is Infiltrating administration.",
+        "translation": "正在渗透官僚系统",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_INFILTRATE:0",
+        "original": "Is NOT Infiltrating administration.",
+        "translation": "未在渗透官僚系统",
+        "stage": 1
+    },
+    {
+        "key": "SUPPORT_REBELS_NO_MONEY:0",
+        "original": "You lack the $COST$¤ needed to support this rebel faction.",
+        "translation": " 你缺少需要的$COST$¤ 去支持这个叛军派系",
+        "stage": 1
+    },
+    {
+        "key": "REBEL_SUPPORT_MONEY:0",
+        "original": "Cost:",
+        "translation": "花费：",
+        "stage": 1
+    },
+    {
+        "key": "REBEL_SUPPORT_MONEY_DESC:1",
+        "original": "You will support the rebels with this amount of money. This is a one-time cost that is calculated from the revolt size and recruitment cost in every province they may revolt in. Note that the actual revolt size may be different if the situation in the target country changes.",
+        "translation": "每月这一笔款项将被用于资助起义军。这项开销根据起义军人数与该省份招募成本变化。",
+        "stage": 1
+    },
+    {
+        "key": "war_goal_take_colony:0",
+        "original": "Take colony $PROV$ in $CONTINENT$",
+        "translation": "夺取殖民地 $CONTINENT$的$PROV$",
+        "stage": 1
+    },
+    {
+        "key": "war_goal_take_colony_desc:0",
+        "original": "War goal is to take the colony $PROV$ in $CONTINENT$.",
+        "translation": "战争目标是夺取$PROV$这一$CONTINENT$殖民地",
+        "stage": 1
+    },
+    {
+        "key": "war_goal_take_core:0",
+        "original": "Take core $PROV$",
+        "translation": "收回核心省份$PROV$",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_take_core_desc:0",
+        "original": "War goal is to take the core $PROV$.",
+        "translation": "战争目标是收回$PROV$这一核心省份。",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_take_border:0",
+        "original": "Take border $PROV$",
+        "translation": "夺取边境省份$PROV$",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_take_border_desc:0",
+        "original": "War goal is to take the border province $PROV$.",
+        "translation": "战争目标是夺取$PROV$这一边境省份",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_take_province:0",
+        "original": "Take $PROV$",
+        "translation": "夺取$PROV$",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_take_province_desc:0",
+        "original": "War goal is to take $PROV$.",
+        "translation": "战争目标是夺取$PROV$这一省份",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_take_capital:0",
+        "original": "Take capital $CAPITAL$",
+        "translation": "夺取首都$CAPITAL$",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_take_capital_desc:0",
+        "original": "War goal is to take the capital province of $COUNTRY$.",
+        "translation": "战争目标是夺取$COUNTRY$的首都",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_blockade_ports:0",
+        "original": "Blockade ports",
+        "translation": "封锁港口",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_blockade_ports_desc:0",
+        "original": "Your goal is to stop your enemies' trade by blocking as many ports as possible.",
+        "translation": "你的目标是封锁尽可能多的港口,以阻碍你的敌人的贸易.",
+        "stage": 5
+    },
+    {
+        "key": "defend_capital_independence:0",
+        "original": "Defend capital ($CAPITAL$)",
+        "translation": "保卫首都($CAPITAL$)",
+        "stage": 5
+    },
+    {
+        "key": "defend_capital_independence_desc:0",
+        "original": "War goal is to defend the capital province of $COUNTRY$.",
+        "translation": "战争目标是保卫$COUNTRY$的首都",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_defend_capital:0",
+        "original": "Defend capital ($CAPITAL$)",
+        "translation": "保卫首都($CAPITAL$)",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_defend_capital_desc:0",
+        "original": "War goal is to defend the capital province of $COUNTRY$.",
+        "translation": "战争目标是保卫$COUNTRY$的首都",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_defend_country:0",
+        "original": "Defend $COUNTRY$",
+        "translation": "保卫$COUNTRY$",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_defend_country_desc:0",
+        "original": "War goal is to defend $COUNTRY$.",
+        "translation": "战争目标是保卫$COUNTRY$",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_raid:0",
+        "original": "Raid",
+        "translation": "劫掠",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_raid_desc:0",
+        "original": "War goal is to raid $COUNTRY$.",
+        "translation": "战争目标是对$COUNTRY$进行烧杀抢掠",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_naval_superiority:0",
+        "original": "Show naval superiority",
+        "translation": "展示海上霸权",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_naval_superiority_desc:0",
+        "original": "War goal is to show naval superiority. Get bonus war score from winning naval battles. If you blockade a port (and your opponent is not) you will receive a ticking war score.",
+        "translation": "战争目标是展示海上霸权.海战胜利将带来额外战争得分.如果你封锁了一个海港，(而你的对手没有)你将得到大量战争得分.",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_superiority:0",
+        "original": "Show Superiority",
+        "translation": "展现霸权",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_superiority_desc:1",
+        "original": "War goal is to show superiority. Get bonus war score from winning battles. Over §Y$THRESHOLD$%§! of war score from battles will give you a ticking war score.",
+        "translation": "战争目标是展现霸权.战役胜利将带来额外战争得分.赢得§Y$THRESHOLD$%§! 以上的战役将给你带来大量的战争得分.",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_region:0",
+        "original": "Take Region",
+        "translation": "夺取地区",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_region_desc:0",
+        "original": "War goal is to take a certain region.",
+        "translation": "战争目标是夺取某个地区",
+        "stage": 5
+    },
+    {
+        "key": "take_core_defection:0",
+        "original": "Take a Core Province",
+        "translation": "收回一个核心省份",
+        "stage": 5
+    },
+    {
+        "key": "take_core_defection_desc:0",
+        "original": "War goal is to take a core province from the target.",
+        "translation": "战争目标是从对方手中夺取一个核心省份。",
+        "stage": 5
+    },
+    {
+        "key": "superiority_loan:0",
+        "original": "Show Superiority",
+        "translation": "展现霸权",
+        "stage": 5
+    },
+    {
+        "key": "superiority_loan_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
+        "stage": 5
+    },
+    {
+        "key": "superiority_spy:0",
+        "original": "Show Superiority",
+        "translation": "展现霸权",
+        "stage": 5
+    },
+    {
+        "key": "superiority_spy_desc:0",
+        "original": "War goal is to show these spies superiority by winning battles.",
+        "translation": "以赢得战役的方式，对这些间谍展现霸权",
+        "stage": 1
+    },
+    {
+        "key": "superiority_revolution:0",
+        "original": "Show Superiority",
+        "translation": "展现霸权",
+        "stage": 5
+    },
+    {
+        "key": "superiority_revolution_desc:0",
+        "original": "War goal is to show the superiority that comes with the revolution by winning battles.",
+        "translation": "战争的目的是通过赢得胜利带来革命的优势。",
+        "stage": 1
+    },
+    {
+        "key": "take_capital_disloyal:0",
+        "original": "Take their Capital",
+        "translation": "夺取对方首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_disloyal_desc:0",
+        "original": "War goal is to take the capital from this disloyal vassal.",
+        "translation": "战争目标是占领这个不安分的附庸国的首都",
+        "stage": 5
+    },
+    {
+        "key": "defend_country_faith:0",
+        "original": "Defend a friendly country against them",
+        "translation": "护卫友邦",
+        "stage": 5
+    },
+    {
+        "key": "defend_country_faith_desc:0",
+        "original": "War goal is defend a country over religion.",
+        "translation": "战争目标是保护与我们信奉同一宗教的兄弟们",
+        "stage": 5
+    },
+    {
+        "key": "take_province_hre:0",
+        "original": "Attack the HRE",
+        "translation": "侵略神圣罗马帝国",
+        "stage": 5
+    },
+    {
+        "key": "take_province_hre_desc:0",
+        "original": "War goal is to take a province that is part of the HRE.",
+        "translation": "战争目标是夺取一个属于神圣罗马帝国领土的省份",
+        "stage": 5
+    },
+    {
+        "key": "defend_country:0",
+        "original": "Defend a friendly country against them",
+        "translation": "护卫友邦",
+        "stage": 5
+    },
+    {
+        "key": "defend_country_desc:0",
+        "original": "War goal is defend a friendly country.",
+        "translation": "战争目标是保护一个友邦",
+        "stage": 5
+    },
+    {
+        "key": "superiority_insult:0",
+        "original": "Show Superiority",
+        "translation": "对口出狂言的贱种展示我国霸权",
+        "stage": 5
+    },
+    {
+        "key": "superiority_insult_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
+        "stage": 5
+    },
+    {
+        "key": "superiority_insult_mutual:0",
+        "original": "Show these insulting dogs superiority",
+        "translation": "对口出狂言的贱种展示我国霸权",
+        "stage": 5
+    },
+    {
+        "key": "superiority_insult_mutual_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_personal_union:0",
+        "original": "Take the capital",
+        "translation": "夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_personal_union_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "defend_country_soi:0",
+        "original": "Defend a friendly country against them",
+        "translation": "护卫友邦",
+        "stage": 5
+    },
+    {
+        "key": "defend_country_soi_desc:0",
+        "original": "War goal is defend a friendly country.",
+        "translation": "战争目标是保护一个友邦",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_fabricated_claims:0",
+        "original": "Take the Capital",
+        "translation": "夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_fabricated_claims_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_conformance:0",
+        "original": "Take the Capital",
+        "translation": "夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_conformance_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_border:0",
+        "original": "Take border provinces",
+        "translation": "夺取边境省份",
+        "stage": 5
+    },
+    {
+        "key": "take_border_desc:0",
+        "original": "War goal is to take a border province.",
+        "translation": "战争目标是夺取边境省份",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_independence:0",
+        "original": "Take the capital in the search for independence",
+        "translation": "为了得到独立而抢占首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_independence_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_conquest:0",
+        "original": "Take the capital",
+        "translation": "夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_conquest_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_core:0",
+        "original": "Take a core province",
+        "translation": "收回一个核心省份",
+        "stage": 5
+    },
+    {
+        "key": "take_core_desc:0",
+        "original": "War goal is to take a core province from the target.",
+        "translation": "战争目标是从对方手中夺取一个核心省份.",
+        "stage": 5
+    },
+    {
+        "key": "take_claim:0",
+        "original": "Take a claim",
+        "translation": "夺回省份",
+        "stage": 5
+    },
+    {
+        "key": "take_claim_desc:0",
+        "original": "War goal is to take a province you have claim on from the target.",
+        "translation": "战争目标是夺回我国主权省份.",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_claim:0",
+        "original": "Take the capital",
+        "translation": "夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_claim_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_punitive:0",
+        "original": "Take the capital",
+        "translation": "占领首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_punitive_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是占领首都。",
+        "stage": 5
+    },
+    {
+        "key": "take_province_nationalist:0",
+        "original": "Take a province",
+        "translation": "夺回省份",
+        "stage": 5
+    },
+    {
+        "key": "take_province_nationalist_desc:0",
+        "original": "War goal is to take a province.",
+        "translation": "战争目标是夺回省份",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_imperial:0",
+        "original": "Take the capital",
+        "translation": "夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_imperial_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_mayan:0",
+        "original": "Take the capital",
+        "translation": "夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_mayan_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是占领首都",
+        "stage": 5
+    },
+    {
+        "key": "take_province_revolutionary:0",
+        "original": "Take a province in this revolution",
+        "translation": "通过革命夺取省份",
+        "stage": 5
+    },
+    {
+        "key": "take_province_revolutionary_desc:0",
+        "original": "War goal is to take a province.",
+        "translation": "战争目标是夺回省份",
+        "stage": 5
+    },
+    {
+        "key": "take_colony:0",
+        "original": "Take a colony",
+        "translation": "夺取殖民地",
+        "stage": 5
+    },
+    {
+        "key": "take_colony_desc:0",
+        "original": "War goal is to take a province in a colony.",
+        "translation": "战争目标是夺取一个殖民地",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_liberation:0",
+        "original": "Take the capital",
+        "translation": "夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "take_capital_liberation_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是夺取首都",
+        "stage": 5
+    },
+    {
+        "key": "superiority_liberation:0",
+        "original": "Show Superiority",
+        "translation": "展现霸权",
+        "stage": 5
+    },
+    {
+        "key": "superiority_liberation_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争的目标是通过赢得战争展现他们的霸权",
+        "stage": 5
+    },
+    {
+        "key": "superiority_crusade:0",
+        "original": "Show these infidel dogs superiority",
+        "translation": "向这些肮脏的异教徒展示霸权",
+        "stage": 5
+    },
+    {
+        "key": "superiority_crusade_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
+        "stage": 5
+    },
+    {
+        "key": "take_province_religion:0",
+        "original": "Take a province",
+        "translation": "夺取省份",
+        "stage": 5
+    },
+    {
+        "key": "take_province_religion_desc:0",
+        "original": "War goal is to take a province.",
+        "translation": "战争目标是夺取省份",
+        "stage": 5
+    },
+    {
+        "key": "superiority_heretic:0",
+        "original": "Show them superiority",
+        "translation": "向他们展现霸权",
+        "stage": 1
+    },
+    {
+        "key": "superiority_heretic_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
+        "stage": 1
+    },
+    {
+        "key": "superiority_trade:0",
+        "original": "Show them superiority",
+        "translation": "向他们展现霸权",
+        "stage": 1
+    },
+    {
+        "key": "superiority_trade_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争的目标是通过赢得战役来展示霸权",
+        "stage": 1
+    },
+    {
+        "key": "superiority_trade_mutual:0",
+        "original": "Show them superiority",
+        "translation": "向他们展现霸权",
+        "stage": 1
+    },
+    {
+        "key": "superiority_trade_mutual_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争的目标是通过赢得战役来展示霸权",
+        "stage": 1
+    },
+    {
+        "key": "take_province_excommunication:0",
+        "original": "Take a province",
+        "translation": "夺取省份",
+        "stage": 1
+    },
+    {
+        "key": "take_province_excommunication_desc:0",
+        "original": "War goal is to take a province.",
+        "translation": "战争目标是夺取省份",
+        "stage": 1
+    },
+    {
+        "key": "naval_superiority:0",
+        "original": "Show them naval superiority",
+        "translation": "展示海上霸权",
+        "stage": 5
+    },
+    {
+        "key": "naval_superiority_desc:0",
+        "original": "War goal is to show them naval superiority by winning naval battles.",
+        "translation": "战争目标是通过赢得海战展示海上霸权.",
+        "stage": 5
+    },
+    {
+        "key": "take_province_ban:0",
+        "original": "Take a province",
+        "translation": "夺取省份",
+        "stage": 1
+    },
+    {
+        "key": "take_province_ban_desc:0",
+        "original": "War goal is to take a province.",
+        "translation": "战争目标是夺取省份",
+        "stage": 1
+    },
+    {
+        "key": "superiority_punitive:0",
+        "original": "Show them superiority",
+        "translation": "向他们展现霸权",
+        "stage": 5
+    },
+    {
+        "key": "superiority_punitive_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
+        "stage": 1
+    },
+    {
+        "key": "superiority_primitives:0",
+        "original": "Show them superiority",
+        "translation": "向他们展现霸权",
+        "stage": 1
+    },
+    {
+        "key": "superiority_primitives_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
+        "stage": 1
+    },
+    {
+        "key": "superiority_overseas:0",
+        "original": "Show them superiority",
+        "translation": "展示霸权",
+        "stage": 1
+    },
+    {
+        "key": "superiority_overseas_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争的目的是展示他们的霸权力量并赢得战争.",
+        "stage": 1
+    },
+    {
+        "key": "take_capital_throne:0",
+        "original": "Take the capital and the throne",
+        "translation": "夺取首都以及王位",
+        "stage": 1
+    },
+    {
+        "key": "take_capital_throne_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是夺取首都",
+        "stage": 1
+    },
+    {
+        "key": "take_capital_vassalize:0",
+        "original": "Take the capital and vassalize them",
+        "translation": "夺取首都并将其附庸",
+        "stage": 1
+    },
+    {
+        "key": "take_capital_vassalize_desc:0",
+        "original": "War goal is to take the capital.",
+        "translation": "战争目标是夺取首都",
+        "stage": 1
+    },
+    {
+        "key": "raid_horde_conquest:0",
+        "original": "Raid",
+        "translation": "劫掠",
+        "stage": 5
+    },
+    {
+        "key": "raid_horde_conquest_desc:0",
+        "original": "War goal is to raid them.",
+        "translation": "战争目标是对他们烧杀抢掠",
+        "stage": 1
+    },
+    {
+        "key": "superiority_horde:0",
+        "original": "Show the horde superiority",
+        "translation": "显示游牧霸权",
+        "stage": 1
+    },
+    {
+        "key": "superiority_horde_desc:0",
+        "original": "War goal is to show them superiority by winning battles.",
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
+        "stage": 5
+    },
+    {
+        "key": "take_province_tribal_feud:0",
+        "original": "Take a province",
+        "translation": "夺取省份",
+        "stage": 1
+    },
+    {
+        "key": "take_province_tribal_feud_desc:0",
+        "original": "War goal is to take a province.",
+        "translation": "战争目标是夺取省份",
+        "stage": 1
+    },
+    {
+        "key": "annex_country:0",
+        "original": "Annex the country",
+        "translation": "吞并国家",
+        "stage": 5
+    },
+    {
+        "key": "annex_country_desc:0",
+        "original": "War goal is to take the capital. You will be able to annex the target country even when other rules don't allow it.",
+        "translation": "战争目标是夺取其首都.你可以冒天下之大不韪，将其吞并.",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_change_government:0",
+        "original": "Change government form of country",
+        "translation": "改变政体",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_change_government_desc:0",
+        "original": "War goal is to take the capital. You will be able to force them to change government form to the same as you.",
+        "translation": "战争目标是夺取其首都.你可以强迫此国接受你的政体.",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_change_government_mutual:0",
+        "original": "Change government form of country",
+        "translation": "改变政体",
+        "stage": 5
+    },
+    {
+        "key": "war_goal_change_government_mutual_desc:0",
+        "original": "War goal is to take the capital. You will be able to force them to change government form to the same as you.",
+        "translation": "战争目标是夺取其首都.你可以强迫此国接受你的政体.",
+        "stage": 5
+    },
+    {
+        "key": "CHANGE_GOVERNMENT_WAR_NAME:0",
+        "original": "$ORDER$$FIRST$ change government form of $SECOND_NAME$",
+        "translation": "$ORDER$$FIRST$对$SECOND_NAME$干涉战争",
+        "stage": 1
+    },
+    {
+        "key": "superiority_chinese_unification:0",
+        "original": "Conquer China",
+        "translation": "征服中国",
+        "stage": 5
+    },
+    {
+        "key": "superiority_chinese_unification_desc:0",
+        "original": "War goal is to show our superiority towards other Chinese states.",
+        "translation": "战争目标是向中国地区的其他国家显示我们的强大.",
+        "stage": 1
+    },
+    {
+        "key": "CHINESE_UNIFICATION_WAR_NAME:0",
+        "original": "$ORDER$$FIRST$-$SECOND$ war over Chinese Hegemony",
+        "translation": "$ORDER$$FIRST$-$SECOND$争夺中国霸权的战争",
+        "stage": 1
+    },
+    {
+        "key": "CELESTIAL_EMPIRE_WAR_NAME:0",
+        "original": "$ORDER$$FIRST$-$SECOND$ war for Mandate of Heaven",
+        "translation": "$ORDER$$FIRST$-$SECOND$天命争夺战",
+        "stage": 5
+    },
+    {
+        "key": "FORCE_MIGRATION_WAR_NAME:0",
+        "original": "$ORDER$$FIRST$-$SECOND$ forced migration war",
+        "translation": "$ORDER$$FIRST$-$SECOND$驱逐战争",
+        "stage": 5
+    },
+    {
+        "key": "IN_WARGOAL_COST:1",
+        "original": "Part of the war goal and will not result in any extra £dip cost for $WHO|Y$!",
+        "translation": "这是战争目标的一部分，$WHO|Y$不需要付出额外的£dip ！",
+        "stage": 1
+    },
+    {
+        "key": "NOT_IN_WARGOAL_COST:0",
+        "original": "Not part of the war goal and will result in an extra cost of §Y$COST$§!£dip  for $WHO|Y$!",
+        "translation": "这不是战争目标的一部分，$WHO|Y$需要付出额外的§Y$COST$§!£dip ！",
+        "stage": 1
+    },
+    {
+        "key": "UNLAWFUL_TERRITORY_WARN:0",
+        "original": "§RUnlawful territory, the Emperor may demand you to return it!§!",
+        "translation": "§R是非法领土,皇帝可能要求你归还它!§!",
+        "stage": 5
+    },
+    {
+        "key": "UNLAWFUL_TERRITORY_WARN_DELAY:0",
+        "original": "Since this province is part of the Empire and not your core, it will be considered unlawful territory if you take it.",
+        "translation": "这个省份是帝国的一部分且不是你的核心省份，如果你夺取这一省份，它将被视为非法领土。",
+        "stage": 1
+    },
+    {
+        "key": "RELEASE_NATION_BY_WHOM:0",
+        "original": "$NEW_NATION$ will be released by $RELEASER$",
+        "translation": "$NEW_NATION$将被$RELEASER$解放",
+        "stage": 1
+    },
+    {
+        "key": "PEACEOFFER_LEADER_NO_DEMAND:0",
+        "original": "$WHO|Y$ don't want the war leader to demand provinces for them!",
+        "translation": "$WHO|Y$不希望战争主导国家为其要求省份.",
+        "stage": 1
+    },
+    {
+        "key": "PEACEOFFER_IS_ANNEX:0",
+        "original": "You cannot demand annexation and provinces in the same peace deal. This is because of the 100% War Score when controlling all provinces of a country. Try a separate peace.",
+        "translation": "你不能在一个停战协议中同时要求吞并以及割让省份。这是因为控制一个国家所有省份时战争分数上限为100%。试着单独媾和。",
+        "stage": 1
+    },
+    {
+        "key": "PEACEOFFER_INFLATION:0",
+        "original": "Will result in $INFLATION$ inflation for $ACTIVE$.",
+        "translation": "会因为$ACTIVE$产生$INFLATION$通胀。",
+        "stage": 1
+    },
+    {
+        "key": "SELLPROV_INFLATION:0",
+        "original": "Will cost us §R$AMT$§! prestige and result in $INFLATION$ inflation for $ACTIVE$.",
+        "translation": "将花费我们§R$AMT$§!威望并使$ACTIVE$产生$INFLATION$通货膨胀.",
+        "stage": 5
+    },
+    {
+        "key": "SELLPROV_INFLATION_HORDE:0",
+        "original": "Will result in $INFLATION$ inflation for $ACTIVE$.",
+        "translation": "将会使$ACTIVE$产生$INFLATION$通货膨胀.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_WARGOAL_COST:0",
+        "original": "Will cost §G$COST$§!£dip . ",
+        "translation": "将花费§G$COST$§!外交点数.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_WARGOAL_COST_CANTAFFORD:0",
+        "original": " Will cost §R$COST$§!£dip  (not enough Power!). ",
+        "translation": "将消耗§R$COST$§!£dip£（点数不足！）。",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_WARGOAL_PROV_COST_DESC:0",
+        "original": "Demanding province $PROV$ will cost §Y$COST$§!£dip .",
+        "translation": "夺取$PROV$将花费§Y$COST$§!外交点数.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_WARGOAL_COST_DESC:0",
+        "original": "Total cost: §Y$COST$§!£dip .",
+        "translation": "总共需要：§Y$COST$§!外交点数",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_WARGOAL_NOCOST_DESC:0",
+        "original": "None of the options in this peace offer is against the war goal.",
+        "translation": "和平提议中没有一项内容违背战争目标。",
+        "stage": 1
+    },
+    {
+        "key": "PEACE_RETURN_CORES:0",
+        "original": "Return Cores",
+        "translation": "归还核心省份",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_TRANSFER_S:0",
+        "original": "Transfer Subject",
+        "translation": "转让属国",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_TRANSFER:0",
+        "original": "Transfer Subject $COUNTRY$",
+        "translation": "转让属国$COUNTRY$",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_RELEASE:0",
+        "original": "Release $COUNTRY$",
+        "translation": "释放$COUNTRY$",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_RETURN_CORES_TO:0",
+        "original": "$PROV$ to $COUNTRY$",
+        "translation": "归还$PROV$给$COUNTRY$",
+        "stage": 1
+    },
+    {
+        "key": "PEACEOFFER_REVOKE_CORES_ON:0",
+        "original": "Revoke $ADJ$ core on $PROV$",
+        "translation": "在$PROV$撤销$ADJ$核心",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_TRUCE:0",
+        "original": "This deal will establish a truce until §Y$DATE$§W.",
+        "translation": "这份条约将建立一个停战协议，直到§Y$DATE$§W。",
+        "stage": 1
+    },
+    {
+        "key": "DEMAND_PROVINCE_TOOLTIP:0",
+        "original": "§Y$PROVINCE$§W becomes a part of §Y$COUNTRY$§W.",
+        "translation": "§Y$PROVINCE$§W成为§Y$COUNTRY$§W的一部分。",
+        "stage": 1
+    },
+    {
+        "key": "REVOKE_CORE_TOOLTIP:0",
+        "original": "§Y$COUNTRY$§W revokes their core on §Y$PROVINCE$§W. Current owner is $OWNER$.",
+        "translation": "§Y$COUNTRY$§W 不再认为 §Y$PROVINCE$§W是核心领土. 该省属于 $OWNER$.",
+        "stage": 5
+    },
+    {
+        "key": "RELEASE_VASSAL_TOOLTIP:0",
+        "original": "§Y$VASSAL$§W will stop being a subject of §Y$OVERLORD$§W.",
+        "translation": "§Y$VASSAL$§W不再是§Y$OVERLORD$§W的属国。",
+        "stage": 5
+    },
+    {
+        "key": "TRANSFER_VASSAL_TOOLTIP:0",
+        "original": "§Y$VASSAL$§W will stop being a subject of §Y$OVERLORD$§W and become a subject of $NEW|Y$.",
+        "translation": "§Y$VASSAL$§W不再是§Y$OVERLORD$§W的属国并成为$NEW|Y$的属国。",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_TRANSFER_TXT:0",
+        "original": "@$FLAG$ $OVERLORD$ Vassal",
+        "translation": "@$FLAG$$OVERLORD$的附庸",
+        "stage": 5
+    },
+    {
+        "key": "GIVE_UP_CLAIMS_TOOLTIP:0",
+        "original": "$WHO$ and its subjects give up all claims in $TARGET$.",
+        "translation": "$WHO$和他的属国放弃所有对$TARGET$的宣称。",
+        "stage": 5
+    },
+    {
+        "key": "RETURN_CORE_TOOLTIP:0",
+        "original": "§Y$COUNTRY$§W gives their core §Y$PROVINCE$§! to §Y$TO$§!.",
+        "translation": "§Y$COUNTRY$§W将核心省份§Y$PROVINCE$§!归还§Y$TO$§!.",
+        "stage": 5
+    },
+    {
+        "key": "WEHAVEIMPERIALRELATION:0",
+        "original": "We already have improved our imperial relations with this country!",
+        "translation": "我们已经改善了与此国的关系.",
+        "stage": 5
+    },
+    {
+        "key": "BREAK_ALLIANCE_WAR:0",
+        "original": "You get §R-$VAL$§! stability breaking an alliance during war.",
+        "translation": "你在战时背弃盟友的行为使你失去了§R-$VAL$§!点稳定度.",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORTED_REBEL_FACTION:0",
+        "original": "These rebels have a §Y+$AMT$%§! chance of progress per month due to support from $WHO|Y$.",
+        "translation": "这些叛军有一个 §Y+$AMT$%§! 机会从$WHO|Y$提高每月的支持",
+        "stage": 5
+    },
+    {
+        "key": "reputation_sabotaged:0",
+        "original": "Reputation Sabotaged",
+        "translation": "破坏声誉",
+        "stage": 5
+    },
+    {
+        "key": "desc_reputation_sabotaged:0",
+        "original": "Spies from another nation have sabotaged our diplomatic reputation.",
+        "translation": "另一个国家的间谍破坏了我们的外交声誉",
+        "stage": 5
+    },
+    {
+        "key": "break_marriage:0",
+        "original": "Broke Royal Marriage",
+        "translation": "破坏联姻",
+        "stage": 5
+    },
+    {
+        "key": "break_alliance:0",
+        "original": "Broke Alliance",
+        "translation": "撕毁盟约",
+        "stage": 5
+    },
+    {
+        "key": "break_alliance_war:0",
+        "original": "Broke Alliance in wartime",
+        "translation": "战时撕毁盟约",
+        "stage": 5
+    },
+    {
+        "key": "FABRICATECLAIMS_TARGET:0",
+        "original": "Fabricates a claim on §Y$TARGET$§!.",
+        "translation": "对§Y$TARGET$§!的省份伪造主权",
+        "stage": 5
+    },
+    {
+        "key": "CV_DIPLOMACY_NOTDISCOVEREDCOUNTRY:0",
+        "original": "You have not discovered §Y$COUNTRY$§! yet!",
+        "translation": "你还没有发现§Y$COUNTRY$§!！",
+        "stage": 1
+    },
+    {
+        "key": "CV_DIPLOMACY_WARSCORE_TITLE:0",
+        "original": "$SIDE$ against §Y$WHO$§! in the '§Y$WAR$§!'.",
+        "translation": "「§Y$WAR$§!」中的$SIDE$，对 §Y$WHO$§!。",
+        "stage": 1
+    },
+    {
+        "key": "RM_ACTIVITY:0",
+        "original": "conclude a Royal Marriage",
+        "translation": "结束王室联姻",
+        "stage": 2
+    },
+    {
+        "key": "WAR_ACTIVITY:0",
+        "original": "declare War",
+        "translation": "宣战",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_ACTIVITY:0",
+        "original": "sue for peace.",
+        "translation": "提议和平",
+        "stage": 5
+    },
+    {
+        "key": "ALLIANCE_ACTIVITY:0",
+        "original": "uphold an Alliance.",
+        "translation": "支持盟友",
+        "stage": 5
+    },
+    {
+        "key": "CANCELALIANCE_ACTIVITY:0",
+        "original": "cancel an Alliance.",
+        "translation": "撕毁盟约",
+        "stage": 5
+    },
+    {
+        "key": "EMBARGO_ACTIVITY:0",
+        "original": "institute an Embargo.",
+        "translation": "执行禁运",
+        "stage": 5
+    },
+    {
+        "key": "REVOKEEMBARGO_ACTIVITY:0",
+        "original": "revoke an Embargo.",
+        "translation": "撤销禁运",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_ACTIVITY:0",
+        "original": "annex the country.",
+        "translation": "吞并国家",
+        "stage": 5
+    },
+    {
+        "key": "SUBJUGATION_WAR_NAME:0",
+        "original": "$ORDER$$FIRST$-War of $SECOND$s subjugation.",
+        "translation": "$ORDER$$FIRST$ - $SECOND$征服战。",
+        "stage": 5
+    },
+    {
+        "key": "OUR_SPY_VALUES:0",
+        "original": "Our country is defended at $DEF|Y$ efficiency. This determines our chance of detecting and disrupting foreign agents that are constructing Spy Networks in our nation.\\n$DEF_MOD$Our spies operate at $OFF|Y$ efficiency. This determines the speed with which we can build Spy Networks in other nations.\\n$OFF_MOD$",
+        "translation": "我们的间谍防御效率为 $DEF|Y$ ，这决定了我们发现和破坏在我国建立间谍网的他国代理人的概率。\\n$DEF_MOD$ 我们的间谍效率为 $OFF|Y$ ，这决定了我们在其他国家建立间谍网的速度。\\n$OFF_MOD$",
+        "stage": 5
+    },
+    {
+        "key": "THEIR_SPY_VALUES:0",
+        "original": "Their country is defended at $DEF|Y$ efficiency. This determines their chance of detecting and disrupting foreign agents that are constructing Spy Networks in their nation.\\n$DEF_MOD$Their spies operate at $OFF|Y$ efficiency. This determines the speed with which they can build Spy Networks in other nations.\\n$OFF_MOD$",
+        "translation": "他们的间谍防御效率为 $DEF|Y$ ，这决定了他们发现和破坏在该国建立间谍网的他国代理人的概率。\\n$DEF_MOD$ 他们的间谍效率为 $OFF|Y$ ，这决定了他们在其他国家建立间谍网的速度。\\n$OFF_MOD$",
+        "stage": 5
+    },
+    {
+        "key": "OUR_ACTIVE_SPYNETWORKS:0",
+        "original": "We have the following Spy Networks active:\\n$COUNTRIES$",
+        "translation": "我们有以下活跃的间谍网:\\n$COUNTRIES$",
+        "stage": 5
+    },
+    {
+        "key": "STATUS_QUO:0",
+        "original": "Status Quo",
+        "translation": "双方军队未分胜负",
+        "stage": 5
+    },
+    {
+        "key": "SIEGE_DISEASE:0",
+        "original": "Disease Outbreak",
+        "translation": "疫病爆发",
+        "stage": 5
+    },
+    {
+        "key": "PROVINCES:0",
+        "original": "Provinces",
+        "translation": "省份",
+        "stage": 5
+    },
+    {
+        "key": "GIVE_UP_CORES:0",
+        "original": "Cores",
+        "translation": "核心省份",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_VASSALS:0",
+        "original": "Vassals",
+        "translation": "我们决定",
+        "stage": 5
+    },
+    {
+        "key": "RELEASE_NATIONS:0",
+        "original": "New Nations",
+        "translation": "新国家",
+        "stage": 5
+    },
+    {
+        "key": "SEND_OFFER:0",
+        "original": "Send Offer",
+        "translation": "发送提议",
+        "stage": 5
+    },
+    {
+        "key": "SEND_DEMAND:0",
+        "original": "Send Demand",
+        "translation": "发送要求",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_OFFER:0",
+        "original": "Cancel",
+        "translation": "取消",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_NATION:0",
+        "original": "Annex",
+        "translation": "吞并",
+        "stage": 5
+    },
+    {
+        "key": "DEMAND_PEACE:0",
+        "original": "Demand Tribute",
+        "translation": "提出条件",
+        "stage": 1
+    },
+    {
+        "key": "OFFER_WP:0",
+        "original": "Offer White Peace",
+        "translation": "提议无条件和平",
+        "stage": 5
+    },
+    {
+        "key": "OFFER_PEACE:0",
+        "original": "Offer Tribute",
+        "translation": "提供条件",
+        "stage": 1
+    },
+    {
+        "key": "BACK:0",
+        "original": "Back",
+        "translation": "后退",
+        "stage": 1
+    },
+    {
+        "key": "BUILDSPYNETWORK_DISCOV:0",
+        "original": "Since our spies have been discovered, we can not send spies again until $WHEN|Y$.",
+        "translation": "由于我们的间谍被发现了，直到 $WHEN|Y$我们不能再派送新的间谍.",
+        "stage": 1
+    },
+    {
+        "key": "SPYNETWORK_DIPLO:0",
+        "original": "Our $ADJ|Y$ Spy Network is currently at size $SIZE|Y$ out of a maximum of §Y100§!.",
+        "translation": "我们的$ADJ|Y$间谍网目前的规模为$SIZE|Y$，上限为§Y100§!。",
+        "stage": 1
+    },
+    {
+        "key": "SPYNETWORK_BENEFITS:0",
+        "original": "This gives us the following benefits:",
+        "translation": "这将给我们以下好处",
+        "stage": 5
+    },
+    {
+        "key": "SPYNETWORK_BENEFITS_SIEGE:0",
+        "original": "  $AMT$ Siege Ability against $WHO|Y$",
+        "translation": "  $AMT$ 围城能力针对$WHO|Y$",
+        "stage": 1
+    },
+    {
+        "key": "SPYNETWORK_BENEFITS_AE:0",
+        "original": "  $AMT$ Aggressive Expansion incurred with $WHO|Y$",
+        "translation": "  $AMT$ 侵略扩张来自$WHO|Y$",
+        "stage": 1
+    },
+    {
+        "key": "SPYNETWORK_BENEFITS_TECH_MIL:0",
+        "original": "  $AMT$ Military Technology Cost",
+        "translation": "  $AMT$ 军事科技成本",
+        "stage": 5
+    },
+    {
+        "key": "SPYNETWORK_BENEFITS_TECH_DIP:0",
+        "original": "  $AMT$ Diplomatic Technology Cost",
+        "translation": "  $AMT$ 外交科技成本",
+        "stage": 5
+    },
+    {
+        "key": "SPYNETWORK_BENEFITS_TECH_ADM:0",
+        "original": "  $AMT$ Administrative Technology Cost",
+        "translation": "  $AMT$ 行政科技成本",
+        "stage": 5
+    },
+    {
+        "key": "SPYNETWORK_BENEFITS_TECH:0",
+        "original": "§YOnly the highest technology cost reduction out of all your Spy Networks is used when buying technologies.§!",
+        "translation": "§Y在支付科技花费时，你的所有间谍网中，只有科技花费减少最多的那个间谍网会被使用§!",
+        "stage": 1
+    },
+    {
+        "key": "SPYNETWORK_OUTLINER:1",
+        "original": "Our $ADJ|Y$ Spy Network is currently at size $SIZE|Y$ out of a maximum of §Y100§!.",
+        "translation": "我们的$ADJ|Y$间谍网目前的规模为$SIZE|Y$，上限为§Y100§!。",
+        "stage": 1
+    },
+    {
+        "key": "SPYNETWORK_OUTLINER_PLUS:0",
+        "original": "It will increase in size by $AMT|G$ every month.",
+        "translation": "它将每月增长$AMT|G$",
+        "stage": 1
+    },
+    {
+        "key": "SPYNETWORK_OUTLINER_MINUS:0",
+        "original": "It will decrease in size by $AMT|R$ every month.",
+        "translation": " 它将每月减少$AMT|R$",
+        "stage": 1
+    },
+    {
+        "key": "BUILDSPYNETWORKTITLE:0",
+        "original": "Build Spy Network",
+        "translation": "建立间谍网",
+        "stage": 1
+    },
+    {
+        "key": "BUILDSPYNETWORK_DESC:0",
+        "original": "Build a network of spies and informers in the target country.",
+        "translation": "在目标国家建立间谍网",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_BUILDSPYNETWORK_DESC:0",
+        "original": "Stop building a network of spies and informers in the target country.",
+        "translation": "停止在目标国家的建立间谍网",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_BUILDSPYNETWORKTITLE:0",
+        "original": "Stop Building Spy Network",
+        "translation": "停止建立间谍网",
+        "stage": 5
+    },
+    {
+        "key": "BUILDSPYNETWORK_LONG_DESC_1:0",
+        "original": "Send a diplomat to build up our network of spies and informants in $COUNTRY|Y$?",
+        "translation": "派遣一个外交官去$COUNTRY|Y$建立我们的间谍和情报员网络？",
+        "stage": 1
+    },
+    {
+        "key": "BUILDSPYNETWORK_LONG_DESC_1_SUBJECTS:0",
+        "original": "Send a diplomat to build up our network of spies and informants in $COUNTRY|Y$ and their subjects ($SUBJECTS$)?",
+        "translation": "派遣一个外交官去$COUNTRY|Y$和他们的附属($SUBJECTS$)建立我们的间谍和情报员网络？",
+        "stage": 1
+    },
+    {
+        "key": "BUILDSPYNETWORK_LONG_DESC_2:0",
+        "original": "They will increase the size of our Spy Network by $AMT|G$ each month.\\n\\nWhile our agent is active and the Spy Network is larger than §Y25§!, there is a §R$RISK$%§! risk of discovery each month. If we are discovered, it will damage relations with the target country, reduce the size of our network and prevent us from further growing it for a while.",
+        "translation": "这将每月提高我们的间谍网规模$AMT|G$。\\n\\n当我们的间谍活跃并且间谍网规模大于§Y25§!时，我们每个月被发现的风险为§R$RISK$%§!。如果我们被发现，将损害与目标国家的关系，减少我们网络的规模并在一段时间内阻止进一步增长。",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_BUILDSPYNETWORK_LONG_DESC:0",
+        "original": "Recall the agents building up our network of spies and informants in $COUNTRY|Y$? Our existing network will slowly decay when not actively being built up.",
+        "translation": "召回在$COUNTRY|Y$建立我们的谍报网的间谍？ 在不积极建设时我们现在的网络将缓慢衰退",
+        "stage": 1
+    },
+    {
+        "key": "COUNTERESPIONAGE_OUTLINER:0",
+        "original": "$NAME$ is conducting Counterespionage in $PROV|Y$ ($COUNTRY|Y$). This increases our chance of detecting agents they send at us by $AMT$.",
+        "translation": "$NAME$在$PROV|Y$ 执行反间谍行动（$COUNTRY|Y$），这增加了$AMT$我们发现他们派过来的间谍的机会。",
+        "stage": 1
+    },
+    {
+        "key": "COUNTERESPIONAGE_NO_SUBJECT:1",
+        "original": "As a Subject we cannot conduct counterespionage.",
+        "translation": "作为一个附庸国我们不能进行反间谍行动",
+        "stage": 1
+    },
+    {
+        "key": "COUNTERESPIONAGETITLE:0",
+        "original": "Counterespionage",
+        "translation": "反间谍行动",
+        "stage": 1
+    },
+    {
+        "key": "COUNTERESPIONAGE_DESC:0",
+        "original": "Send a diplomat to conduct counterespionage in the target country.",
+        "translation": "派一个外交官在目标国家进行反间谍活动",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_COUNTERESPIONAGE_DESC:0",
+        "original": "Recall your diplomat conducting counterespionage in the target country.",
+        "translation": "召回在目标国家进行反间谍活动的外交官",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_COUNTERESPIONAGETITLE:0",
+        "original": "Stop Counterespionage",
+        "translation": "停止反间谍活动",
+        "stage": 1
+    },
+    {
+        "key": "COUNTERESPIONAGE_LONG_DESC:1",
+        "original": "Send a diplomat to conduct counterespionage in $COUNTRY|Y$? This will increase our chance of detecting any agents they send to us by $AMT$, and slow down their network by $SLOW$.",
+        "translation": "派一位外交官在$COUNTRY|Y$进行反间谍行动？这将使我们查出任何他们派来的间谍的机会提高$AMT$，并使他们建立间谍网的速度减慢$SLOW$。",
+        "stage": 1
+    },
+    {
+        "key": "CANCEL_COUNTERESPIONAGE_LONG_DESC:0",
+        "original": "Recall our diplomat that is conducting counterespionage in $COUNTRY|Y$? We will no longer have an increased chance of detecting their agents.",
+        "translation": "召回我们在$COUNTRY|Y$进行反间谍活动的外交官？我们将不再增加查出他们间谍的机会。",
+        "stage": 1
+    },
+    {
+        "key": "NEGOTIATE_SEPARATE_PEACE_WITH:0",
+        "original": "Negotiate separate peace with $COUNTRY|Y$.",
+        "translation": "向$COUNTRY|Y$单独媾和。",
+        "stage": 1
+    },
+    {
+        "key": "NEGOTIATE_PEACE_WITH_WARLEADER:0",
+        "original": "Negotiate peace with the entire alliance by negotiating with $COUNTRY|Y$, the war leader.",
+        "translation": "和对方盟主$COUNTRY|Y$谈判以和整个联盟媾和。",
+        "stage": 1
+    },
+    {
+        "key": "PO_PD_100:0",
+        "original": "Sire, we have won a devastating victory over $ENEMY$ and have the possibility to annex them. However, this would greatly upset the rest of the $RELIGION$ world. ",
+        "translation": "阁下，我们赢得了对$ENEMY$的完全胜利，可以完全将其吞并。但这将极大惹恼$RELIGION$的其他国家。",
+        "stage": 1
+    },
+    {
+        "key": "PO_PD_70:0",
+        "original": "You have won a devastating victory. You could demand several provinces, a large amount of ducats, or dictate other conditions. ",
+        "translation": "敌国现只能任我等随意宰割，割地纳贡皆在我国一念之间.",
+        "stage": 1
+    },
+    {
+        "key": "PO_PD_40:0",
+        "original": "You have won a total victory. A demand of a province would most likely be accepted.",
+        "translation": "你赢得了绝对胜利. 你可以要求对方割让一个省份，一些战争赔款或其他条件.",
+        "stage": 1
+    },
+    {
+        "key": "PO_PD_10:0",
+        "original": "You have won a victory. The enemy would most likely accept a white peace, or a minor settlement of ducats in exchange for peace.",
+        "translation": "你赢得了一场胜利. 你可以要求对方无条件和平，一少量战争赔款或其他条件.",
+        "stage": 1
+    },
+    {
+        "key": "PO_PD_NEG_5:0",
+        "original": "The war is still undecided. Unless your enemy is eager to fight on, he would be likely to accept a white peace.",
+        "translation": "战争胜负未决. 如果敌人无心恋战，可能会接受无条件和平.",
+        "stage": 1
+    },
+    {
+        "key": "PO_PD_NEG_25:0",
+        "original": "The enemy has won. You should offer them a minor sum of ducats or a province you can live without in return for peace.",
+        "translation": "敌人已经赢了，我们可以付出些许钱财、割让一个无关紧要省份作为换取和平的代价.",
+        "stage": 1
+    },
+    {
+        "key": "PO_PD_NEG_60:0",
+        "original": "The enemy has won a total victory. You should offer them at least two provinces and a large amount of ducats in return for a peace.",
+        "translation": "敌人大获全胜。你得送出至少两个省份和大笔钱才能获得和平。",
+        "stage": 1
+    },
+    {
+        "key": "PO_PD_NEG_99:0",
+        "original": "The enemy has won a devastating victory. You should offer them enough provinces to satisfy them, or this may turn out even worse.",
+        "translation": "敌人赢得了完全胜利. 想要和平你得提供多个省份，否则还会更糟.",
+        "stage": 1
+    },
+    {
+        "key": "PO_PD_NEG_100:0",
+        "original": "We are utterly defeated, and the enemy can dictate any sort of peace he would like.",
+        "translation": "我们彻底失败，敌人可以随心所欲地处置我们.",
+        "stage": 1
+    },
+    {
+        "key": "PEACEBETTER_US:0",
+        "original": "Their people expect them to accept this peace deal, and if they refuse it it will cause great turmoil in their country.",
+        "translation": "他们的人民期望他们接受这项和平协议，如果他们拒绝的话，将会使其国内人民产生极大不满.",
+        "stage": 1
+    },
+    {
+        "key": "ANNEX:0",
+        "original": "They demand our full Annexation. (Game Over)",
+        "translation": "举国沦陷，我国亡矣.(游戏结束)",
+        "stage": 1
+    },
+    {
+        "key": "WHITE_PEACE:0",
+        "original": "White Peace. Nobody will gain or lose anything.",
+        "translation": "无条件和平",
+        "stage": 1
+    },
+    {
+        "key": "CLEAR_OFFER:0",
+        "original": "Clear Offer",
+        "translation": "清空提议",
+        "stage": 5
+    },
+    {
+        "key": "CONVERT_RELIGION:0",
+        "original": "$WHO$ will convert to $RELIGION$. ",
+        "translation": "$WHO$改宗$RELIGION$。",
+        "stage": 5
+    },
+    {
+        "key": "BECOME_VASSAL_2:0",
+        "original": "$WHO$ will become a vassal of $BOSS$. ",
+        "translation": "$WHO$将成为$BOSS$的附庸国",
+        "stage": 5
+    },
+    {
+        "key": "BECOME_PROTECTORATE:0",
+        "original": "$WHO$ will become a protectorate of $BOSS$. ",
+        "translation": "$WHO$成为了$BOSS$的受保护国。",
+        "stage": 5
+    },
+    {
+        "key": "BECOME_TRIBUTARY:0",
+        "original": "$WHO$ will become a Tributary State of $BOSS$. ",
+        "translation": "$WHO$将成为$BOSS$的朝贡国。",
+        "stage": 1
+    },
+    {
+        "key": "BECOME_TRIBUTARY_TRADE_LEAGUE:0",
+        "original": "$WHO$ will leave their Trade League.",
+        "translation": "$WHO$ 将离开他们的贸易联盟",
+        "stage": 5
+    },
+    {
+        "key": "BECOME_UNION:0",
+        "original": "$FIRST$ and $SECOND$ will form a union, with $NAME$ becoming $RULER$ over both nations.",
+        "translation": "$FIRST$将与$SECOND$建立联合统治，$NAME$将成为两国共同的$RULER$。",
+        "stage": 1
+    },
+    {
+        "key": "SECEDE_PROVINCES:0",
+        "original": "$WHO$ will cede $WHAT$ to $TO$.",
+        "translation": "$WHO$将割让$WHAT$给$TO$。",
+        "stage": 1
+    },
+    {
+        "key": "CORE_GIVEUP:0",
+        "original": "$WHO$ will renounce their claims on $WHAT$. ",
+        "translation": "$WHO$将放弃对$WHAT$的宣称。",
+        "stage": 5
+    },
+    {
+        "key": "VASSAL_GIVEUP:0",
+        "original": "$WHO$ will end their overlordship over $WHAT$. ",
+        "translation": "$WHO$将结束与$WHAT$的臣属关系.",
+        "stage": 5
+    },
+    {
+        "key": "VASSAL_TRANSFER:0",
+        "original": "$WHO$ will transfer their overlordship over $WHAT$. ",
+        "translation": "$WHO$ 将转让与 $WHAT$的臣属关系",
+        "stage": 5
+    },
+    {
+        "key": "COUNTRY_RELEASE:0",
+        "original": "$WHO$ will release $WHAT$ as a sovereign state. ",
+        "translation": "$WHO$承认$WHAT$成为独立国家.",
+        "stage": 5
+    },
+    {
+        "key": "COUNTRY_CANNOT_RELEASE:0",
+        "original": "$COUNTRY$ cannot be released since all its core provinces are already to be released to another nation. ",
+        "translation": "$COUNTRY$ 无法被解放。因为它所有的核心省份已经通过另一个国家被解放。",
+        "stage": 5
+    },
+    {
+        "key": "PAY_CASH:0",
+        "original": "$WHO$ will pay $WHAT$ ducats. ",
+        "translation": "$WHO$将支付$WHAT$金币.",
+        "stage": 5
+    },
+    {
+        "key": "PAY_CASH_TO:0",
+        "original": "$WHO$ will pay §Y$WHAT$§! ducats to $WHOM$.",
+        "translation": "$WHO$将支付§Y$WHAT$§!金币给$WHOM$。",
+        "stage": 1
+    },
+    {
+        "key": "PAY_CASH_TO_MULTIPLE:0",
+        "original": "$WHO$ will pay §Y$WHAT$§! ducats to $WHOM$ and its allies.",
+        "translation": "$WHO$将支付§Y$WHAT$§!金币给$WHOM$及其盟友。",
+        "stage": 1
+    },
+    {
+        "key": "GET_PART_OF_CASH:0",
+        "original": "$WHO$ will get §Y$WHAT$§! of this amount.",
+        "translation": "$WHO$在总额中将会获得§Y$WHAT$§!.",
+        "stage": 5
+    },
+    {
+        "key": "CORE_RETURN:0",
+        "original": "$WHO$ will give core(s) $WHAT$ to $TO$.",
+        "translation": "$WHO$将归还$TO$核心省份$WHAT$",
+        "stage": 5
+    },
+    {
+        "key": "CB_ALLOWED_RETURN_CORE:0",
+        "original": "Core return",
+        "translation": "归还核心省份",
+        "stage": 5
+    },
+    {
+        "key": "sent_gift:0",
+        "original": "Sent Gift",
+        "translation": "送出礼物",
+        "stage": 5
+    },
+    {
+        "key": "IMPROVING_RELATIONS_WE:0",
+        "original": "Improving relations with $LIST$.",
+        "translation": "正在与$LIST$改善关系",
+        "stage": 5
+    },
+    {
+        "key": "IMPROVING_RELATIONS_THEY:0",
+        "original": "Improving relations from $LIST$.",
+        "translation": "$LIST$正试图与其改善关系.",
+        "stage": 5
+    },
+    {
+        "key": "ENFORCE_PEACE_DECLARE_WAR:0",
+        "original": "You need to be able to declare war on the target!",
+        "translation": "你要能对此国宣战才行.",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_CATEGORY_relation:0",
+        "original": "Relations actions",
+        "translation": "关系",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_CATEGORY_influence:0",
+        "original": "Influence actions",
+        "translation": "影响",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_CATEGORY_great_powers:0",
+        "original": "Great Power actions",
+        "translation": "列强行动",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_CATEGORY_emperor:0",
+        "original": "Emperor actions",
+        "translation": "帝国",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_CATEGORY_papacy:0",
+        "original": "Papal actions",
+        "translation": "教廷外交",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_CATEGORY_alliance:0",
+        "original": "Alliance actions",
+        "translation": "盟约",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_CATEGORY_dynasty:0",
+        "original": "Dynastic actions",
+        "translation": "王室",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_CATEGORY_covert:0",
+        "original": "Covert actions",
+        "translation": "秘密行动",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_CATEGORY_access:0",
+        "original": "Access actions",
+        "translation": "通行权",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_CATEGORY_economy:0",
+        "original": "Economy actions",
+        "translation": "经济行动",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_MAINTAINED_BY_DIPLOMAT:0",
+        "original": "Requires a diplomat to maintain the action.",
+        "translation": "需一位外交官主理此活动",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_WILL_CALL:0",
+        "original": "Your ally §Y$COUNTRY$§! will be called into your war against §Y$TARGET$§!.",
+        "translation": "你的同盟§Y$COUNTRY$§!将被召唤加入对§Y$TARGET$§!的战争.",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_WILL_NOT_CALL:0",
+        "original": "Your ally §Y$COUNTRY$§! will NOT be called into your war against §Y$TARGET$§!.",
+        "translation": "你的同盟§Y$COUNTRY$§!将不会被召唤加入对§Y$TARGET$§!的战争.",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_DESC:0",
+        "original": "§GClick to change whether or not to call this ally.§!",
+        "translation": "§G选择是否呼叫这位同盟者加入。§!",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_AUTOJOIN:0",
+        "original": "§GThis ally is forced to join your side.§!",
+        "translation": "§G这个盟友被迫加入你身边§!",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_ALL_DESC:0",
+        "original": "§GClick to change whether or not to call all allies into your war against §Y$TARGET$§!.§!",
+        "translation": "§G选择是否呼叫这位同盟者加入对§Y$TARGET$§!的战争。§!",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_PROT_WILL_CALL:0",
+        "original": "Your protectorate §Y$COUNTRY$§! will be called into your war against §Y$TARGET$§!.",
+        "translation": "你的受保护国§Y$COUNTRY$§!将被召唤加入对§Y$TARGET$§!的战争.",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_PROT_WILL_AUTOJOIN:0",
+        "original": "Your protectorate §Y$COUNTRY$§! will join your war against §Y$TARGET$§!.",
+        "translation": "你的受保护国§Y$COUNTRY$§!将会加入对§Y$TARGET$§!的战争.",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_PROT_WILL_NOT_CALL:0",
+        "original": "Your protectorate §Y$COUNTRY$§! will NOT be called into your war against §Y$TARGET$§!.",
+        "translation": "你的受保护国§Y$COUNTRY$§!将不会被召唤加入对§Y$TARGET$§!的战争.",
+        "stage": 5
+    },
+    {
+        "key": "want_your_provinces:0",
+        "original": "Wants your provinces",
+        "translation": "觊觎领土",
+        "stage": 5
+    },
+    {
+        "key": "want_subject_provinces:0",
+        "original": "Wants your subjects' provinces",
+        "translation": "觊觎你附庸的领土",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_TRUCE:0",
+        "original": "§RYou cannot declare a country you have a truce with as a co-belligerent.§!",
+        "translation": "§R你不能宣称一个有停战协议的国家联合作战。§!",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_TRUCE_OFF:0",
+        "original": "§RYou cannot call an ally that has a truce with the target.§!",
+        "translation": "§R你不能召唤一个和目标有休战协议的盟友.§!",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_VOLUNTARY:0",
+        "original": "§RYou cannot call an ally in a voluntary subject relationship against their overlord.",
+        "translation": "§R你不能召唤一个自愿臣属关系的盟友去对抗他们的宗主国",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_CANNOT_CALL_DESC:0",
+        "original": "§RYou cannot call an ally that would refuse your call to arms.§!",
+        "translation": "§R你不能召唤会拒绝你的国家参战.§!",
+        "stage": 5
+    },
+    {
+        "key": "CALL_CHECKBOX_ALLIED_TO_ENEMY:0",
+        "original": "§RYou cannot call an ally that will be called by the defender.§!",
+        "translation": "§R你不能召唤将和你的敌人站在一起的国家参战.§!",
+        "stage": 5
+    },
+    {
+        "key": "CALL_ALLIES:0",
+        "original": "Call Allies",
+        "translation": "召集盟友",
+        "stage": 5
+    },
+    {
+        "key": "ENEMY_ALLIES:0",
+        "original": "Enemy Allies",
+        "translation": "敌人的盟友",
+        "stage": 1
+    },
+    {
+        "key": "CALL_COLONIAL_ALLIES:0",
+        "original": "Call Subjects",
+        "translation": "召唤附庸国",
+        "stage": 1
+    },
+    {
+        "key": "FULL_ALLY_CHECKBOX_WILL_AUTOJOIN:1",
+        "original": "The enemy $SUBJECTORALLY$ §Y$COUNTRY$§! will be considered a co-belligerent in this war but will NOT be able to call their own allies.",
+        "translation": "敌人的盟友 §Y$COUNTRY$§! 在这场战斗中会考虑联合作战但是不能呼叫他们的盟友。",
+        "stage": 1
+    },
+    {
+        "key": "FULL_ALLY_CHECKBOX_WILL_CALL:1",
+        "original": "The enemy $SUBJECTORALLY$ §Y$COUNTRY$§! will be considered a co-belligerent in this war. They will be able to call their own allies.",
+        "translation": "敌人的盟友 §Y$COUNTRY$§!在这场战争中会考虑联合作战。他们能呼叫他们的盟友。",
+        "stage": 1
+    },
+    {
+        "key": "FULL_ALLY_CHECKBOX_WILL_NOT_CALL:1",
+        "original": "The enemy $SUBJECTORALLY$ §Y$COUNTRY$§! will NOT be considered a co-belligerent in this war. They will NOT be able to call their own allies, but it will be twice as expensive to take their provinces.",
+        "translation": "敌人的盟友 §Y$COUNTRY$§! 在这场战争中不会考虑联合作战。他们不能呼叫他们的盟友，但是获得他们省份的代价是之前的两倍。",
+        "stage": 1
+    },
+    {
+        "key": "FULL_ALLY_CHECKBOX_DESC:1",
+        "original": "§GClick to change whether or not to consider this enemy $SUBJECTORALLY$ a co-belligerent.§!",
+        "translation": "§G单击此处更改是否将这个敌人的$SUBJECTORALLY$视为共同交战方。§!",
+        "stage": 1
+    },
+    {
+        "key": "NOT_COBELLIGERENT_CALL:0",
+        "original": "We would join as a regular ally. It will be twice as expensive for the enemy to take our provinces, but we will NOT be able to call our own allies.",
+        "translation": "我们将作为一般盟友参战。这将使敌人获取我们省份的代价翻倍，但是我们不能呼叫我们的盟友。",
+        "stage": 5
+    },
+    {
+        "key": "COBELLIGERENT_CALL:0",
+        "original": "We would join as co-belligerent and will be able to call our own allies.",
+        "translation": "我们将加入联合参战，并能够召唤我们自己的盟友。",
+        "stage": 5
+    },
+    {
+        "key": "CALL_PROMISE_LAND:0",
+        "original": "§GIf we accept, they promise us territorial gains from this war.§!",
+        "translation": "§G他们承诺，如果参战我们可以在这场战争中获得土地。§!",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_ACCEPT:0",
+        "original": "They will most likely accept!",
+        "translation": "他们很可能会接受！",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMACYACTION_NOACCEPT:0",
+        "original": "They will probably not accept.",
+        "translation": "估计他们不会接受.",
+        "stage": 5
+    },
+    {
+        "key": "historical_friend:0",
+        "original": "Historical Friend",
+        "translation": "友邦",
+        "stage": 1
+    },
+    {
+        "key": "historical_rival:0",
+        "original": "Historical Rival",
+        "translation": "世仇",
+        "stage": 5
+    },
+    {
+        "key": "border_friction:0",
+        "original": "Border Friction",
+        "translation": "边境摩擦",
+        "stage": 5
+    },
+    {
+        "key": "border_friction_from_event:0",
+        "original": "Irritated over Claims",
+        "translation": "受主张触怒",
+        "stage": 1
+    },
+    {
+        "key": "broke_free_from_us:0",
+        "original": "Broke free from us",
+        "translation": "断绝附庸关系",
+        "stage": 1
+    },
+    {
+        "key": "previous_oppressor:0",
+        "original": "Previous oppressor",
+        "translation": "先前的暴君",
+        "stage": 1
+    },
+    {
+        "key": "weak_overlord:0",
+        "original": "Relative power to liege",
+        "translation": "相对于宗主国的实力",
+        "stage": 5
+    },
+    {
+        "key": "competing_superpower:0",
+        "original": "Competing Great Power",
+        "translation": "列强竞争者",
+        "stage": 5
+    },
+    {
+        "key": "religious_friend:0",
+        "original": "Brothers in struggle against the infidels",
+        "translation": "对抗异教徒的兄弟之邦",
+        "stage": 1
+    },
+    {
+        "key": "WE_NOTSAME_RELIGIONS_GROUP:0",
+        "original": "We are NOT part of the same religious group.",
+        "translation": "我们不是相同宗教组。",
+        "stage": 5
+    },
+    {
+        "key": "NO_WAR_FIGHTING_WAR_TOGETHER:0",
+        "original": "You may not declare war upon a country you are fighting in a war with.",
+        "translation": "当你与一个国家同时参加一个战争时，你不可对其宣战.",
+        "stage": 5
+    },
+    {
+        "key": "NO_WAR_TRANSFER_TRADE_POWER:0",
+        "original": "You may not start a war with someone that you have a Transfer Trade Power relation with.",
+        "translation": "你不能与一个转移贸易竞争力给你的国家开战.",
+        "stage": 1
+    },
+    {
+        "key": "WE_GIVING_FLEET_ACCESS:0",
+        "original": "We are already giving them fleet access.",
+        "translation": "我们已经给予此国舰队通行权了.",
+        "stage": 5
+    },
+    {
+        "key": "WE_NOT_GIVING_FLEET_ACCESS:0",
+        "original": "We are NOT giving them fleet access.",
+        "translation": "我们并未给予此国舰队通行权.",
+        "stage": 5
+    },
+    {
+        "key": "SAME_OVERLORD:0",
+        "original": "We have the same overlord.",
+        "translation": "我们有共同的宗主国.",
+        "stage": 5
+    },
+    {
+        "key": "NOCLAIMISREGENCY:0",
+        "original": "While we have a Regency Council, we cannot claim the throne.",
+        "translation": "摄政议会不可宣称他国王位",
+        "stage": 5
+    },
+    {
+        "key": "WEWARSUBSIDIES:0",
+        "original": "We give subsidies.",
+        "translation": "我们给予战争补助.",
+        "stage": 5
+    },
+    {
+        "key": "WENOTWARSUBSIDIES:0",
+        "original": "We do NOT give any subsidies!",
+        "translation": "我们并未给予任何战争补助",
+        "stage": 1
+    },
+    {
+        "key": "ALREADYINSULT_NOT_POSS:0",
+        "original": "We have already insulted them. We cannot insult them again until $DATE|Y$.",
+        "translation": "我们最近羞辱过他们",
+        "stage": 1
+    },
+    {
+        "key": "WENOTOWNPROV:0",
+        "original": "We are not the owner of $PROV|Y$",
+        "translation": "我们并不是$PROV|Y$的所有者",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_PAPAL_GOV:0",
+        "original": "$WHO$ has government $GOV$, and that is NOT papal.",
+        "translation": "$WHO$政府为$GOV$，并且不是教宗",
+        "stage": 1
+    },
+    {
+        "key": "CRUSADES_ENDED:1",
+        "original": "In the Ages of Absolutism or Age of Revolutions, the religious influence on politics has decreased to such a degree that this action would not be taken seriously.",
+        "translation": "在$YEAR|Y$年后，在政治上的宗教影响力已经下降到这个行动不被认真对待的程度",
+        "stage": 1
+    },
+    {
+        "key": "AGGRESSIVE_EXPANSION:0",
+        "original": "Aggressive Expansion: §R$VAL$§!",
+        "translation": "侵略扩张：§R$VAL$§!",
+        "stage": 1
+    },
+    {
+        "key": "AGGRESSIVE_EXPANSION_DESC:0",
+        "original": "Aggressive Expansion will greatly upset those with an interest in §Y$COUNTRY$§! by §R$VAL$§! opinion as base",
+        "translation": "侵略扩张将使对§Y$COUNTRY$§!有兴趣的所有国家对我国观感大坏。好感度至少将降低§R$VAL$§!。",
+        "stage": 1
+    },
+    {
+        "key": "HAS_NO_INTEGRATION:0",
+        "original": "Has no active integration.",
+        "translation": "无正在进行的合并计划",
+        "stage": 1
+    },
+    {
+        "key": "REDUCED_BADBOY:0",
+        "original": "Reduced Aggressive Expansion: ",
+        "translation": "弱化的侵略扩张：",
+        "stage": 1
+    },
+    {
+        "key": "AGGRESSIVE_EXPANSION_TITLE:0",
+        "original": "Aggressive act will upset other countries by a base of $VAL$.",
+        "translation": "穷兵黩武将使我国众叛亲离.各国关系将减少$VAL$.",
+        "stage": 1
+    },
+    {
+        "key": "AGGRESSIVE_EXPANSION_FACTOR:0",
+        "original": "Aggressive expansion modifiers:",
+        "translation": "侵略扩张修正：",
+        "stage": 1
+    },
+    {
+        "key": "PEACE_EFFECTS_BADBOY:1",
+        "original": "With $THE$$CASUS$ Casus Belli, $ACTIVE$ suffers a base of $BADBOY$ Aggressive Expansion relations penalty.",
+        "translation": "根据$THE$$CASUS$ 的宣战理由，$ACTIVE$将承受$BADBOY$侵略扩张关系惩罚。",
+        "stage": 1
+    },
+    {
+        "key": "PEACE_DEFENDER_EFFECTS_BADBOY:1",
+        "original": "As a defender, $ACTIVE$ suffers a base of $BADBOY$ Aggressive Expansion relations penalty",
+        "translation": "作为防御方，$ACTIVE$将承受$BADBOY$侵略扩张关系惩罚",
+        "stage": 1
+    },
+    {
+        "key": "ENFORCE_PEACE_INVALID_TARGET:0",
+        "original": "You cannot enforce a peace between two junior partners in a war like $WHO$ and $TARGET$.",
+        "translation": "你无法在$WHO$与$TARGET$两个非战争盟主之间缔造和平",
+        "stage": 1
+    },
+    {
+        "key": "ENFORCE_PEACE_INVALID_TARGET_NOT_WAR:0",
+        "original": "We cannot enforce a peace, as $WHO$ is not at war with $TARGET$!",
+        "translation": "$WHO$与$TARGET$!并不在交战",
+        "stage": 1
+    },
+    {
+        "key": "ENFORCE_PEACE_NOT_WINNING_2:0",
+        "original": "If a country is losing a war, they can't be forced to make a peace. They need to win by at least $VAL$ War Score.",
+        "translation": "如若一个国家在战争中落入下风，他国无法强制其缔结无条件和平.他们的战争分数至少要达到$VAL$.",
+        "stage": 1
+    },
+    {
+        "key": "ENFORCE_PEACE_NOT_ATTACKER:0",
+        "original": "We cannot enforce a peace on a defender in a war, and $TARGET$ was the aggressor in the war against $WHO$.",
+        "translation": "我们无法逼迫防御者缔结和平.$TARGET$在与$WHO$的战争中是侵略者.",
+        "stage": 1
+    },
+    {
+        "key": "ENFORCEPEACE_LOW_RELATION:1",
+        "original": "You need to have $WHO$ to have an opinion of at least $NEED$ of you and it is currently $VAL$.",
+        "translation": "你需要使$WHO$对你的好感度达到$NEED$，当前为$VAL$。",
+        "stage": 1
+    },
+    {
+        "key": "IS_IMPROVE_RELATIONS:0",
+        "original": "Is Improving relations with $WHO$.",
+        "translation": "正试图与$WHO$改善关系",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_IMPROVE_RELATIONS:0",
+        "original": "Is NOT Improving relations with $WHO$.",
+        "translation": "并不在与$WHO$改善关系",
+        "stage": 1
+    },
+    {
+        "key": "DIP_FREE_IDEA:0",
+        "original": "Free idea: §Y$NAME$§!",
+        "translation": "免费理念：§Y$NAME$§!",
+        "stage": 1
+    },
+    {
+        "key": "DIP_FULL_IDEA:0",
+        "original": "Full group: §Y$NAME$§!",
+        "translation": "完整组别：§Y$NAME$§!",
+        "stage": 1
+    },
+    {
+        "key": "POWER_COST_OPINION:0",
+        "original": "$COUNTRY01|Y$ opinion about $COUNTRY02|Y$: ",
+        "translation": "$COUNTRY01$对$COUNTRY03$的好感度：",
+        "stage": 5
+    },
+    {
+        "key": "WAR_SCORE_COST:0",
+        "original": "War Score cost: $VAL|Y$\\n",
+        "translation": "战争分数花费: $VAL|Y$\\n",
+        "stage": 5
+    },
+    {
+        "key": "POWER_COST_NOT_IN_WARGOAL:1",
+        "original": "Not in war goal cost: $VAL|Y$£dip \\n",
+        "translation": "非战争目标：$VAL|Y$£dip \\n",
+        "stage": 1
+    },
+    {
+        "key": "POWER_COST_RIVAL:0",
+        "original": "Taking from rival: $VAL$\\n",
+        "translation": "由宿敌处得到：$VAL$\\n",
+        "stage": 5
+    },
+    {
+        "key": "VASSAL_CANCEL_CONFIRM:0",
+        "original": "Do you wish to cancel our vassalisation with $VASSAL|Y$?",
+        "translation": "你希望取消我们和 $VASSAL|Y$的附庸关系吗？",
+        "stage": 5
+    },
+    {
+        "key": "VASSAL_CANCEL_PRESTIGE:0",
+        "original": "\\nThis will cost us $PRESTIGE|R$ Prestige.",
+        "translation": "\\n这将花费我们$PRESTIGE|R$ 威望",
+        "stage": 5
+    },
+    {
+        "key": "VASSAL_CANCEL_OPINION:0",
+        "original": "\\nBecause they are loyal, their opinion of us will decrease by $OPINION|R$.",
+        "translation": "\\n因为他们是忠诚的，所以他们对我们的好感度将降低$OPINION|R$。",
+        "stage": 5
+    },
+    {
+        "key": "VASSAL_CANCEL_CORES:0",
+        "original": "\\nWe will also lose any cores and claims we have on their provinces.",
+        "translation": "\\n我们也将失去他们省份的所以核心和宣称",
+        "stage": 5
+    },
+    {
+        "key": "PROTECTORATEBREAKDESC:0",
+        "original": "Do you wish to break our arrangement of protectorate with $COUNTRY$? \\nThis will cause our stability to decrease by §Y$STAB$§!, our prestige to be reduced by $PRESTIGE|R$ and our relations will worsen.",
+        "translation": "你要打破和$COUNTRY$的保护国条约吗？\\n我国将失去§Y$STAB$§!的稳定度和$PRESTIGE|R$点威望，我们和他们的关系将会恶化。",
+        "stage": 1
+    },
+    {
+        "key": "PEACE_OFFER_POWER_COST:0",
+        "original": "This peace will cost $WHO$ $COST|Y$£dip .",
+        "translation": "和约将耗费$WHO$$COST|Y$£dip£。",
+        "stage": 5
+    },
+    {
+        "key": "WARN_FAR_TOO_POWERFUL:0",
+        "original": "They are far too rich and powerful for our warnings to be taken seriously.",
+        "translation": "远比我们有钱有权的他们对我们发来了严重警告.",
+        "stage": 5
+    },
+    {
+        "key": "GUARANTEE_FAR_TOO_POWERFUL:0",
+        "original": "They are far too rich and powerful for our guarantees to be taken seriously.",
+        "translation": "他们过于富裕和强大了，我们的独立保障不会被严肃对待。",
+        "stage": 5
+    },
+    {
+        "key": "enemy:0",
+        "original": "Hostile relations",
+        "translation": "敌对关系",
+        "stage": 5
+    },
+    {
+        "key": "embargo:0",
+        "original": "Embargo",
+        "translation": "贸易禁运",
+        "stage": 5
+    },
+    {
+        "key": "GRANTFREECITYTITLE:0",
+        "original": "Grant Free City Status",
+        "translation": "授予自由市地位",
+        "stage": 5
+    },
+    {
+        "key": "GRANTFREECITYDESC:0",
+        "original": "Granting them Free City status will strengthen their economy and increase their contribution to the Emperor, but we will be required to protect them from attack.",
+        "translation": "授予自由市地位将加强他们的经济和增加他们对皇帝的贡献，但我们需要保护他们免受攻击.",
+        "stage": 5
+    },
+    {
+        "key": "REMOVE_FREECITY_TITLE:0",
+        "original": "Revoke Free City Status",
+        "translation": "撤销自由市地位",
+        "stage": 5
+    },
+    {
+        "key": "REMOVE_FREECITY_DESC:0",
+        "original": "Revoking their Free City status will weaken their economy and reduce their contribution to the Emperor, but we will no longer be required to protect them.",
+        "translation": "撤销自由市地位将削弱他们的经济和减少他们对皇帝的贡献，但我们将不再需要保护他们.",
+        "stage": 5
+    },
+    {
+        "key": "GRANTELECTORATETITLE:0",
+        "original": "Grant Electorate",
+        "translation": "给予选帝侯身份",
+        "stage": 5
+    },
+    {
+        "key": "GRANTELECTORATEDESC:0",
+        "original": "Granting electorate allows them to vote on who should be the emperor in the Empire.",
+        "translation": "选帝侯身份将给予其选举皇帝的权利",
+        "stage": 5
+    },
+    {
+        "key": "REMOVE_ELECTORATE_TITLE:0",
+        "original": "Remove Electorate",
+        "translation": "取消帝选侯身份",
+        "stage": 5
+    },
+    {
+        "key": "REMOVE_ELECTORATE_DESC:0",
+        "original": "Removing their electorate forbids them from voting who should be the emperor of the Empire.",
+        "translation": "取消选举权将使他们失去选举皇帝的权力.",
+        "stage": 5
+    },
+    {
+        "key": "REMOVE_ELECTORATE_ADDITIONAL_EFFECTS:0",
+        "original": "Furthermore, it would change other electors' opinion of us by $SAME$ if same religion as the removed elector, $OTHER$ if otherwise.\\n\\nIt will cost us §Y$IA$§! Imperial Authority.",
+        "translation": "此外，与被剥夺选举资格的选帝侯有相同信仰的选帝侯对我们的好感度将改变$SAME$，其余选帝侯对我们的好感度将改变$OTHER$。\\n\\n这将消耗§Y$IA$§!点帝国威望。",
+        "stage": 5
+    },
+    {
+        "key": "OPINION_WOULDCHANGEBY:0",
+        "original": "It would change their opinion of us by $AMOUNT$.",
+        "translation": "这将使他们对我们的好感度改变$AMOUNT$。",
+        "stage": 5
+    },
+    {
+        "key": "DEMANDUNLAWFULTERRITORYTITLE:0",
+        "original": "Demand Unlawful Territory",
+        "translation": "要求非主权领地",
+        "stage": 5
+    },
+    {
+        "key": "DEMANDUNLAWFULTERRITORYDESC:0",
+        "original": "Demand the return of an unlawful territory to the Empire.",
+        "translation": "责令窃取帝国领土者立即归还领土所有权",
+        "stage": 5
+    },
+    {
+        "key": "DEMANDUNLAWFULTERRITORY_DERIVEDDESC:0",
+        "original": "Demand the return of the unlawful territory '$PROV|Y$' to the Holy Roman Empire.",
+        "translation": "勒令帝国土地窃取者立即将帝国省份'$PROV|Y$'归还神圣罗马帝国.",
+        "stage": 5
+    },
+    {
+        "key": "has_unlawful_territory:0",
+        "original": "Has Unlawful Territory modifier",
+        "translation": "受到非法占有土地修正",
+        "stage": 5
+    },
+    {
+        "key": "HAS_NO_PROV_IN_EMPIRE_OR_LIBERATED:0",
+        "original": "Has no non-core province that is a part of the Empire and that has not been liberated from a non-imperial country.",
+        "translation": "有帝国的非核心省份尚未被解放。",
+        "stage": 5
+    },
+    {
+        "key": "RETURN_UNLAWFUL_NOT_OWN:0",
+        "original": "You can't return a province you don't own!",
+        "translation": "你并未占有任何帝国领土",
+        "stage": 5
+    },
+    {
+        "key": "VASSAL_CREATE_DESC:0",
+        "original": "$COUNTRY|Y$ will become a vassal with the following provinces: $LIST$.",
+        "translation": "藩属国$COUNTRY|Y$成立后，将被授予以下省份：$LIST$.",
+        "stage": 5
+    },
+    {
+        "key": "HAVE_FLEET_BASING:0",
+        "original": "We have Fleet Basing Rights to their nation.",
+        "translation": "我国拥有此国的舰队通行权",
+        "stage": 5
+    },
+    {
+        "key": "HAVE_NOT_FLEET_BASING:0",
+        "original": "We do NOT have Fleet Basing Rights to their nation.",
+        "translation": "我国没有此国的舰队通行权",
+        "stage": 5
+    },
+    {
+        "key": "DIPLOMATIC_REPUTATION:0",
+        "original": "Diplomatic Reputation increases chances of having various diplomatic offers accepted by other countries, improves chances of inheritance in a personal union, speeds up progress of diplomatic annexation and integration.",
+        "translation": "外交声誉会提高达成外交协定、继承联统国几率，还会加快外交吞并与合并的速度。",
+        "stage": 1
+    },
+    {
+        "key": "released_in_peace:0",
+        "original": "Released in Peace",
+        "translation": "和约释放",
+        "stage": 5
+    },
+    {
+        "key": "returned_core_to_me:0",
+        "original": "Returned Province",
+        "translation": "归还领土",
+        "stage": 5
+    },
+    {
+        "key": "IS_GUARANTEE_NO_WAR:0",
+        "original": "You cannot declare war on a country you have guaranteed.",
+        "translation": "你不能向被你保证独立国家宣战.",
+        "stage": 5
+    },
+    {
+        "key": "REVOKEGUARANTTITLE:0",
+        "original": "Revoke Guarantee",
+        "translation": "解除独立保护",
+        "stage": 5
+    },
+    {
+        "key": "HASNOTGUARANT:0",
+        "original": "We are NOT guaranteeing them.",
+        "translation": "我们并未给予他们独立保护",
+        "stage": 5
+    },
+    {
+        "key": "REVOKEGUARANTDESC:0",
+        "original": "Revoke guarantee so that we no longer will be called to a war against a country who attacks them.",
+        "translation": "解除独立保护后，我国就无法保护此国不受侵略了。",
+        "stage": 5
+    },
+    {
+        "key": "REVOKEGUARANTNEWDESC:0",
+        "original": "Do you wish to revoke our guarantee for $COUNTRY$? We will no longer be called to a war against a country who attacks them.",
+        "translation": "撤销我们对 $COUNTRY$ 的保证？我们将会不再对那些攻击他们的国家宣战。",
+        "stage": 5
+    },
+    {
+        "key": "REVOKEGUARANTDESC2:0",
+        "original": "You will get a truce with them as well, so you cannot just use this to attack them.",
+        "translation": "你刚与他们达成停战协议，所以不能用这种方式去攻击他们。",
+        "stage": 5
+    },
+    {
+        "key": "GRANTELECTORATEREQDESC:0",
+        "original": "$ACTOR$ offers us an Electorate position in the Holy Roman Empire. By accepting we will be able to vote for the next emperor.",
+        "translation": "$ACTOR$给予我们选帝侯地位，我国可以凭此投票选举下任皇帝.",
+        "stage": 5
+    },
+    {
+        "key": "GRANTFREECITYREQDESC:0",
+        "original": "$ACTOR$ offers us Free City status in the Holy Roman Empire. If we accept, our government will change to a Free City and the Emperor will defend us from all aggressors. If we acquire more provinces or leave the Empire we will lose our Free City status.",
+        "translation": "$ACTOR$授予了我们神圣罗马帝国自由市的地位。如果我们接受，我们的政体将变成一个自由市，皇帝会保护我们。如果我们获得更多的领土或离开帝国，我们将失去自由市地位.",
+        "stage": 5
+    },
+    {
+        "key": "DEMANDUNLAWFULTERRITORYREQDESC:0",
+        "original": "The Emperor $ACTOR$ demands that we return the province of '$PROV|Y$' to the Holy Roman Empire. Denying this request will seriously impact our relation with the HRE.",
+        "translation": "皇帝$ACTOR$勒令我国归还帝国省份'$PROV|Y$'.若是拒绝，帝国与我国关系将受到巨大影响.",
+        "stage": 5
+    },
+    {
+        "key": "DEMANDUNLAWFULTERRITORYREQDENYEFFECTS:0",
+        "original": "Declining will have the following effects:\\nThe emperor will receive a casus belli against you.\\nProvince effects:\\n$PROVEFFECT$\\n\\nOpinion modifier from members of the HRE:\\n$OPINIONEFFECT$",
+        "translation": "拒绝皇帝命令将产生以下影响：\\n皇帝可以对你宣战\\n省份影响：\\n$PROVEFFECT$\\n\\n帝国成员关系修正：\\n$OPINIONEFFECT$",
+        "stage": 5
+    },
+    {
+        "key": "TRANSFERTRADEPOWERDESC:0",
+        "original": "$ACTOR$ would like us to transfer $VAL|0%$ of our trade power in all our shared trade nodes to them. Do you accept this?",
+        "translation": "$ACTOR$请求在共有的贸易节点中转移$VAL|0%$贸易竞争力给他们.你是否接受？",
+        "stage": 5
+    },
+    {
+        "key": "revoke_elector_opinion:0",
+        "original": "Revoked Electorate",
+        "translation": "收回选帝侯地位",
+        "stage": 5
+    },
+    {
+        "key": "grant_freecity:0",
+        "original": "Granted Free City status",
+        "translation": "授予自由市地位",
+        "stage": 5
+    },
+    {
+        "key": "removed_our_freecity:0",
+        "original": "Revoked our Free City status",
+        "translation": "撤销我们的自由市地位",
+        "stage": 5
+    },
+    {
+        "key": "grant_electorate:0",
+        "original": "Granted Electorate",
+        "translation": "授予选帝侯身份",
+        "stage": 5
+    },
+    {
+        "key": "removed_our_electorate:0",
+        "original": "Revoked our Electorate",
+        "translation": "撤销我们的选帝侯身份",
+        "stage": 1
+    },
+    {
+        "key": "removed_electorate_same_religion:0",
+        "original": "Revoked an Electorate",
+        "translation": "撤销选帝侯身份",
+        "stage": 1
+    },
+    {
+        "key": "removed_electorate_other_religion:0",
+        "original": "Revoked an Electorate",
+        "translation": "撤销选帝侯身份",
+        "stage": 5
+    },
+    {
+        "key": "defended_allied_territory:0",
+        "original": "Defended our provinces",
+        "translation": "保卫领土完整",
+        "stage": 5
+    },
+    {
+        "key": "liberated_province:0",
+        "original": "Liberated our province",
+        "translation": "解放我们的省份",
+        "stage": 1
+    },
+    {
+        "key": "elector_voted_for_us:0",
+        "original": "They voted for us",
+        "translation": "他们支持我们",
+        "stage": 5
+    },
+    {
+        "key": "elector_stopped_voting_for_us:0",
+        "original": "They changed their vote from us",
+        "translation": "他们转而支持我们",
+        "stage": 1
+    },
+    {
+        "key": "vassal_broke_free:0",
+        "original": "They broke free from us",
+        "translation": "他们不承认我们的宗主权！",
+        "stage": 5
+    },
+    {
+        "key": "vassal_abandoned:0",
+        "original": "Our overlord abandoned us",
+        "translation": "宗主离弃了我们！",
+        "stage": 5
+    },
+    {
+        "key": "they_force_vassalized_us:0",
+        "original": "They Force Vassalized us",
+        "translation": "他们强迫我们成为附庸",
+        "stage": 5
+    },
+    {
+        "key": "they_force_unioned_us:0",
+        "original": "They Forced us into a Union",
+        "translation": "他们强迫我们建立联合统治",
+        "stage": 1
+    },
+    {
+        "key": "protectorate_broke_free:0",
+        "original": "They broke free from us",
+        "translation": "他们断绝了与我们的附庸关系",
+        "stage": 1
+    },
+    {
+        "key": "protectorate_abandoned:0",
+        "original": "Our overlord abandoned us",
+        "translation": "我们的宗主国放弃保护我们.",
+        "stage": 1
+    },
+    {
+        "key": "refused_military_access:0",
+        "original": "They refused military access",
+        "translation": "他们拒绝接受我国军事通行权",
+        "stage": 5
+    },
+    {
+        "key": "revoked_military_access:0",
+        "original": "They revoked our military access",
+        "translation": "他们收回了我国的军事通行权",
+        "stage": 5
+    },
+    {
+        "key": "refused_fleet_access:0",
+        "original": "They refused fleet basing rights",
+        "translation": "他们拒绝接受我国舰队通行权",
+        "stage": 5
+    },
+    {
+        "key": "revoked_fleet_access:0",
+        "original": "They revoked our fleet basing rights",
+        "translation": "他们收回了我国的舰队通行权",
+        "stage": 5
+    },
+    {
+        "key": "claimed_throne_of_imperial:0",
+        "original": "They claimed the throne of another imperial subject",
+        "translation": "他们谋夺帝国成员的王位",
+        "stage": 5
+    },
+    {
+        "key": "claimed_throne_other_rm:0",
+        "original": "They used their royal marriage as pretext to claim a throne",
+        "translation": "他们以王室联姻为借口试图谋夺王位",
+        "stage": 5
+    },
+    {
+        "key": "claimed_throne_on_us:0",
+        "original": "They used their royal marriage as pretext to claim our throne",
+        "translation": "他们以王室联姻为借口谋夺我国王位！",
+        "stage": 1
+    },
+    {
+        "key": "answered_call_to_empire_elector:0",
+        "original": "They came to the defense of the empire",
+        "translation": "他们出兵捍卫帝国",
+        "stage": 1
+    },
+    {
+        "key": "answered_call_to_empire:0",
+        "original": "They came to the defense of the empire",
+        "translation": "他们出兵捍卫帝国",
+        "stage": 1
+    },
+    {
+        "key": "refused_to_defend_empire:0",
+        "original": "They refused to defend the empire",
+        "translation": "他们不愿出兵捍卫帝国",
+        "stage": 1
+    },
+    {
+        "key": "refused_join_war:0",
+        "original": "They refused to join our war",
+        "translation": "他们拒绝站在我们这边",
+        "stage": 1
+    },
+    {
+        "key": "refused_join_war_vs_us:0",
+        "original": "They refused to join the war against us",
+        "translation": "他们拒绝向我们宣战.",
+        "stage": 1
+    },
+    {
+        "key": "refused_religious_unity:0",
+        "original": "They refused a call for religious unity",
+        "translation": "他们拒绝了进行宗教统一的提议",
+        "stage": 1
+    },
+    {
+        "key": "refused_crusade:0",
+        "original": "They refused a call for crusade",
+        "translation": "他们拒绝了进行圣战的提议",
+        "stage": 1
+    },
+    {
+        "key": "excommunicated_us:0",
+        "original": "They excommunicated us",
+        "translation": "他们开除了我们的教籍",
+        "stage": 1
+    },
+    {
+        "key": "excommunicated:0",
+        "original": "They are excommunicated",
+        "translation": "他们被开除了教籍",
+        "stage": 1
+    },
+    {
+        "key": "excommunicated_theocracy:0",
+        "original": "They are excommunicated",
+        "translation": "他们被开除了教籍",
+        "stage": 1
+    },
+    {
+        "key": "lifted_excommunication:0",
+        "original": "They lifted the excommunication against us.",
+        "translation": "他们恢复了我们的教籍",
+        "stage": 1
+    },
+    {
+        "key": "released_vassal:0",
+        "original": "They liberated us",
+        "translation": "他们解放了我们",
+        "stage": 1
+    },
+    {
+        "key": "helped_support_rebels:0",
+        "original": "They supported our rebellion",
+        "translation": "他们支持我们叛乱",
+        "stage": 1
+    },
+    {
+        "key": "opinion_left_empire:0",
+        "original": "Left the Holy Roman Empire",
+        "translation": "脱离神圣罗马帝国",
+        "stage": 5
+    },
+    {
+        "key": "opinion_united_empire:0",
+        "original": "United the Holy Roman Empire",
+        "translation": "统一神圣罗马帝国",
+        "stage": 5
+    },
+    {
+        "key": "opinion_military_access:0",
+        "original": "They allow us military access",
+        "translation": "他们授予我们军事通行权",
+        "stage": 5
+    },
+    {
+        "key": "opinion_fleet_access:0",
+        "original": "They allow us fleet basing rights",
+        "translation": "他们授予我们舰船停泊权",
+        "stage": 5
+    },
+    {
+        "key": "republic_different_religions_group_border:0",
+        "original": "Neighboring Different religion",
+        "translation": "与异教国家相邻",
+        "stage": 5
+    },
+    {
+        "key": "republic_different_religion_same_group_border:0",
+        "original": "Neighboring Heretic religion",
+        "translation": "与异端信仰国家相邻",
+        "stage": 5
+    },
+    {
+        "key": "different_religions_group_border:0",
+        "original": "Neighboring Different Religion",
+        "translation": "与异教信仰国家相邻",
+        "stage": 5
+    },
+    {
+        "key": "different_religion_same_group_border:0",
+        "original": "Neighboring Heretic Religion",
+        "translation": "与异端信仰国家相邻",
+        "stage": 5
+    },
+    {
+        "key": "misguided_heretic:0",
+        "original": "Tolerated heretics",
+        "translation": "可容忍的异端",
+        "stage": 1
+    },
+    {
+        "key": "misguided_heretic_border:0",
+        "original": "Neighboring Tolerated Heretics",
+        "translation": "与可容忍的异端国家相邻",
+        "stage": 1
+    },
+    {
+        "key": "republic_misguided_heretic:0",
+        "original": "Tolerated Heretics",
+        "translation": "可容忍的异端",
+        "stage": 5
+    },
+    {
+        "key": "republic_misguided_heretic_border:0",
+        "original": "Neighboring Tolerated Heretics",
+        "translation": "与可容忍的异端国家相邻",
+        "stage": 5
+    },
+    {
+        "key": "the_proclamation_of_year:0",
+        "original": "Restricted Colonial Wars",
+        "translation": "限制殖民战争.",
+        "stage": 1
+    },
+    {
+        "key": "non_restricted_colonial_wars:0",
+        "original": "Non-restricted Colonial Wars",
+        "translation": "无限制殖民战争",
+        "stage": 1
+    },
+    {
+        "key": "restricted_colonial_expansion_opinion:0",
+        "original": "Restricted Colonial Expansion",
+        "translation": "受限的殖民扩张",
+        "stage": 1
+    },
+    {
+        "key": "non_restricted_colonial_expansion_opinion:0",
+        "original": "Non-restricted Colonial Expansion",
+        "translation": "不受限的殖民扩张",
+        "stage": 1
+    },
+    {
+        "key": "POWER_COST_CLAIM:0",
+        "original": "We have a legitimate claim: $VAL$\\n",
+        "translation": "我们有一个合法的宣称: $VAL$\\n",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_DIPLOMAT_DIALOG_TITLE:0",
+        "original": "Confirm canceling the diplomatic activity",
+        "translation": "确认取消外交活动",
+        "stage": 5
+    },
+    {
+        "key": "CANCEL_DIPLOMAT_DIALOG_DESC:0",
+        "original": "$ACTIVITY$\\n\\nAre you sure you want him to return home?",
+        "translation": "$ACTIVITY$\\n\\n你确定要他回国吗？",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_EFFECT_PRESTIGE_DISHONORABLE:0",
+        "original": "$WHO$ gets $PRESTIGE$ additional Prestige due to signing a separate peace while having more than $WS|Y$ War Score in the first $MONTHS$ months of the war.",
+        "translation": "$WHO$ 由于签署了一个单独的和平条约获得了 $PRESTIGE$额外威望因为当他们拥有超过 $WS|Y$ 战争分数在战争开始的 $MONTHS$ 几个月",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_EFFECT_PRESTIGE:0",
+        "original": "$WHO$ gains $VALUE$ Prestige.",
+        "translation": "$WHO$获得$VALUE$威望。",
+        "stage": 1
+    },
+    {
+        "key": "PEACE_EFFECT_AGGRESSIVE_EXP:1",
+        "original": "This peace will cause $WHO$ to suffer a base of $VALUE$ Aggressive Expansion relations penalty.",
+        "translation": "这份和约将使$WHO$遭受基础为$VALUE$的侵略性扩张关系惩罚。",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_EFFECT_OVEREX:0",
+        "original": "This peace will cause $WHO$ to suffer $VALUE$ overextension.",
+        "translation": "这个和议将导致$WHO$遭受$VALUE$的过度扩张.",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_NATION_ACCEPT_EFFECT:0",
+        "original": "Annexing them will have the following effects: ",
+        "translation": "吞并他们将获得下列效果：",
+        "stage": 5
+    },
+    {
+        "key": "ANNEX_NATION_ESTIMATED_DONE2:0",
+        "original": "Annexation is estimated to be done $DATE|Y$, and will cost $VAL|Y$£dip  per month, unless conditions change.",
+        "translation": "吞并预计在$DATE|Y$完成，并将每月花费$VAL|Y$£dip£，除非情况发生变化。",
+        "stage": 5
+    },
+    {
+        "key": "INTEGRATE_NATION_ESTIMATED_DONE:0",
+        "original": "Integration is estimated to be done $DATE|Y$ ($VAL|+2$/month) due to: ",
+        "translation": "一体化预计于$DATE|Y$完成 ($VAL|+2$/月)，原因如下：",
+        "stage": 1
+    },
+    {
+        "key": "NO_COALITION_AGAINST_RECIPIENT:0",
+        "original": "You cannot ask them to join a coalition against themselves.",
+        "translation": "你无法要求他们加入一个针对他们自己的包围网。",
+        "stage": 1
+    },
+    {
+        "key": "LEAVE_COALITION:0",
+        "original": "Leave Coalition",
+        "translation": "离开包围网",
+        "stage": 1
+    },
+    {
+        "key": "LEAVE_COALITION_REQ_DESC:0",
+        "original": "Do you wish to leave the coalition against §Y$TARGET$§W? You will no longer be called in if they go to war with another coalition member.",
+        "translation": "你想要离开针对§Y$TARGET$§W的同盟吗？如果其他同盟国家与这个国家发生战争，你就没有参加战争的义务了.",
+        "stage": 5
+    },
+    {
+        "key": "LEAVE_COALITION_DESC:0",
+        "original": "Leave the coalition.",
+        "translation": "离开同盟.",
+        "stage": 5
+    },
+    {
+        "key": "LEAVE_COALITIONTITLE:0",
+        "original": "Leave Coalition",
+        "translation": "离开同盟",
+        "stage": 5
+    },
+    {
+        "key": "HAS_CASUS_BELLI_AGAINST:0",
+        "original": "Have the casus belli §Y$NAME$§! against §Y$WHO$§!",
+        "translation": "拥有针对§Y$WHO$§!的§Y$NAME$§!宣战理由.",
+        "stage": 5
+    },
+    {
+        "key": "HAS_NOT_CASUS_BELLI_AGIANST:0",
+        "original": "Does not have the casus belli §Y$NAME$§! against §Y$WHO$§!",
+        "translation": "没有针对§Y$WHO$§!的§Y$NAME$§!宣战理由.",
+        "stage": 5
+    },
+    {
+        "key": "AE_FABRICATE_CLAIM:0",
+        "original": "If discovered we will gain §R$VAL$§! Aggressive Expansion",
+        "translation": "侵略扩张：§R$VAL$§!",
+        "stage": 5
+    },
+    {
+        "key": "SUPPORTING_REBEL_DESC:0",
+        "original": "Supporting $REBEL|Y$ with $COST|2Y$¤ each month.",
+        "translation": "以每个月 $COST|2Y$ ¤的开支支持$REBEL|Y$.、",
+        "stage": 1
+    },
+    {
+        "key": "PEACE_BECOME_SHOGUN:0",
+        "original": "§Y$SHOGUN$ will become the new Shogun of Japan!§!",
+        "translation": "§Y$SHOGUN$ 将成为日本新的征夷大将军§!",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_GRANT_INDEPENDANCE:0",
+        "original": "$DEFENDER$ will Grant Independence to $ATTACKER$.",
+        "translation": "$DEFENDER$将承认$ATTACKER$的独立.",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_DONT_GRANT_INDEPENDANCE:0",
+        "original": "§R$ATTACKER$ will remain subjects to $DEFENDER$.§!",
+        "translation": "§R$ATTACKER$仍然将受控于$DEFENDER$.§!",
+        "stage": 5
+    },
+    {
+        "key": "WHITE_PEACE_INDEPENDANCE:0",
+        "original": "White Peace. §R$ATTACKER$ will remain subjects to $DEFENDER$.§!",
+        "translation": "无条件和平. §R$ATTACKER$仍然将受控于$DEFENDER$.§!",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_DEMANDED_CAPITAL:0",
+        "original": "You have demanded their capital and thus you may not demand any other provinces.",
+        "translation": "你已经要求他们割让首都，因此不能要求割让其他省份了.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_CANNOT_TAKE_LAST:0",
+        "original": "Cannot take $TARGET$'s last province and make them a subject at the same time.",
+        "translation": "不能在夺取$TARGET$最后一个省份的同时使他们成为附庸.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_CANNOT_RETURN_LAST:0",
+        "original": "Cannot force $TARGET$'s to return their last province.",
+        "translation": "不能迫使$TARGET$归还他们最后一个省份。",
+        "stage": 1
+    },
+    {
+        "key": "PEACEOFFER_WILL_LOSE_ALL_PROVINCES:0",
+        "original": "$TARGET$ will no longer exist after the war.",
+        "translation": "$TARGET$将在战争结束后不复存在.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_LEAGUE_WAR:0",
+        "original": "Cannot vassalize the leader of a League while they are in a League War.",
+        "translation": "不能附庸联盟的领导者当联盟依然在战争中时.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_RETURN_CORE_SELECTED:0",
+        "original": "Core $NAME$ is already to be returned to $COUNTRY$.",
+        "translation": "核心$NAME$已被归还给$COUNTRY$.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_CEDE_SELECTED:0",
+        "original": "$NAME$ is already demanded.",
+        "translation": "$NAME$已被要求.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_REVOKE_CORE_SELECTED:0",
+        "original": "Core status for $NAME$ will be revoked.",
+        "translation": "$NAME$的核心地位将被取消.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_WILL_BECOME_SUBJECT:0",
+        "original": "$NAME$ will become a subject.",
+        "translation": "$NAME$将变成一个附庸.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_CANNOT_COMBINE_CONCEDE_DEFEAT:0",
+        "original": "Cannot combine Concede Defeat with other options.",
+        "translation": "要求承认失败时，不能附带其他任何条件.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_SUBJECT_FIGHTING_INDEPENDENCE:0",
+        "original": "§R$SUBJECT$ is fighting for independence against $OVERLORD$, and will become their $SUBJECTTYPE$ again if they lose.§!",
+        "translation": "§R$SUBJECT$ 正在发起独立战争对抗 $OVERLORD$，一旦失败他们将会成为 $SUBJECTTYPE$§!",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_CANNOT_COMBINE_CANCEL_SUBJECT:0",
+        "original": "Cannot combine with Cancel Subject.",
+        "translation": "不能附带取消附庸",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_WAR_REPARATIONS_SELECTED:0",
+        "original": "Cannot make $NAME$ a subject and demand war reparations at the same time.",
+        "translation": "不能在要求附庸$NAME$的同时索取战争赔偿.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_CANNOT_COMBINE_WITH:0",
+        "original": "Cannot combine this option with $NAME$.",
+        "translation": "不能附带$NAME$的条件.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_NON_WARLEADER_CANNOT_ANNEX_WARLEADER:0",
+        "original": "Only the war leader may annex the other side's war leader.",
+        "translation": "只有战争盟主才能吞并对方的战争盟主.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_CANNOT_MAKE_CORE:0",
+        "original": "Cannot select this province because $TAG$ cannot make it a core.",
+        "translation": "不能选择这个省份，因为$TAG$无法将其核心化。",
+        "stage": 1
+    },
+    {
+        "key": "PEACEOFFER_CANNOT_RELEASE_NATION_TWICE:0",
+        "original": "Cannot release $NEW_NATION|Y$ because it will already be released by $OTHER_RELEASER|Y$.",
+        "translation": "不能解放$NEW_NATION|Y$因为它已经被$OTHER_RELEASER|Y$解放.",
+        "stage": 5
+    },
+    {
+        "key": "PEACETREATY_REVOKE_CORE:0",
+        "original": "Revoke Core",
+        "translation": "撤销核心",
+        "stage": 5
+    },
+    {
+        "key": "PEACETREATY_RELEASE_VASSAL:0",
+        "original": "Cancel Subject",
+        "translation": "取消附庸",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_GOLD_DESC:1",
+        "original": "$VAL$¤",
+        "translation": "$VAL$黄金",
+        "stage": 1
+    },
+    {
+        "key": "INTEGRATE_OWNS_MORE_PROVINCES:0",
+        "original": "$BIG$ owns more provinces than $SMALL$.",
+        "translation": "$BIG$拥有的行省数量比$SMALL$要多.",
+        "stage": 5
+    },
+    {
+        "key": "PEACEOFFER_DEMANDED_PROVINCE_CANNOT_TAKE_CAPITAL:0",
+        "original": "This is their capital and since we have demanded other provinces we cannot demand this as well.",
+        "translation": "这是他们的首都，由于我们已经要求他们割让其他行省，因此无法再要求割让首都了.",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_CHANGE_VASSALS:0",
+        "original": "Opinion of other subject changed by: ",
+        "translation": "其他属国的态度变化：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_CHANGE_EMPIRE:0",
+        "original": "Opinion change of other HRE members: ",
+        "translation": "其他神圣罗马帝国成员的态度变化：",
+        "stage": 5
+    },
+    {
+        "key": "SUBJECT_NEW_WAR:0",
+        "original": "$SUBJECT$ will drag $OVERLORD$ into war with $LIST$.",
+        "translation": "$SUBJECT$ 会将 $OVERLORD$ 拖到与 $LIST$ 的战争。",
+        "stage": 5
+    },
+    {
+        "key": "SUBJECT_NOT_NEW_VAR:0",
+        "original": "$OVERLORD$ will not join the war between $SUBJECT$ and $SUBJECT_ENEMY$: $REASON$",
+        "translation": "$OVERLORD$不会加入$SUBJECT$与$SUBJECT_ENEMY$之间的战争: $REASON$",
+        "stage": 5
+    },
+    {
+        "key": "PART_OF_HRE:0",
+        "original": "$COUNTRY|Y$ is part of the Holy Roman Empire.",
+        "translation": "$COUNTRY|Y$是神圣罗马帝国成员。",
+        "stage": 5
+    },
+    {
+        "key": "POWER_PROJ_IRO:0",
+        "original": "§YPower Projection§!\\nDue to the following factors:",
+        "translation": "§Y力量投射§!\\n由于以下的影响.",
+        "stage": 5
+    },
+    {
+        "key": "POWER_PROJ_DRO:0",
+        "original": "With the following effects:",
+        "translation": "带有以下的影响",
+        "stage": 5
+    },
+    {
+        "key": "power_projection:0",
+        "original": "Power Projection",
+        "translation": "力量投射",
+        "stage": 5
+    },
+    {
+        "key": "is_great_power:0",
+        "original": "Great Power",
+        "translation": "列强",
+        "stage": 5
+    },
+    {
+        "key": "lacking_rival:0",
+        "original": "Not Enough Rivals",
+        "translation": "没有足够的宿敌",
+        "stage": 5
+    },
+    {
+        "key": "has_rival:0",
+        "original": "Has Longtime Rivals",
+        "translation": "长时间拥有宿敌",
+        "stage": 5
+    },
+    {
+        "key": "warned_rival:0",
+        "original": "Warned $TARGET$",
+        "translation": "警告$TARGET$",
+        "stage": 5
+    },
+    {
+        "key": "subsidies_to_enemy_of_rival:0",
+        "original": "Subsidizing $TARGET$",
+        "translation": "资助$TARGET$",
+        "stage": 5
+    },
+    {
+        "key": "embargoing_rival:0",
+        "original": "Embargoing $TARGET$",
+        "translation": "对$TARGET$禁运",
+        "stage": 5
+    },
+    {
+        "key": "guarantee_neighbour_of_rival:0",
+        "original": "Guarantees $TARGET$",
+        "translation": "保证$TARGET$独立",
+        "stage": 5
+    },
+    {
+        "key": "took_province_from_rival:0",
+        "original": "Conquered provinces from $TARGET$",
+        "translation": "征服$TARGET$的省份",
+        "stage": 5
+    },
+    {
+        "key": "vassalized_rival:0",
+        "original": "Vassalized $TARGET$",
+        "translation": "附庸$TARGET$",
+        "stage": 5
+    },
+    {
+        "key": "rival_lost_province:0",
+        "original": "$TARGET$ lost provinces in our war",
+        "translation": "$TARGET$在战争中损失了省份",
+        "stage": 5
+    },
+    {
+        "key": "lost_province_to_rival:0",
+        "original": "$TARGET$ conquered our provinces",
+        "translation": "$TARGET$占领了我们的省份",
+        "stage": 5
+    },
+    {
+        "key": "eclipsed_rival:0",
+        "original": "Eclipsed $TARGET$",
+        "translation": "超越$TARGET$",
+        "stage": 5
+    },
+    {
+        "key": "declared_war_at_rival:0",
+        "original": "Declared War on $TARGET$",
+        "translation": "向$TARGET$宣战",
+        "stage": 5
+    },
+    {
+        "key": "joined_war_against_rival:0",
+        "original": "Honored Call to Arms against $TARGET$",
+        "translation": "光荣地应召对抗$TARGET$的战争",
+        "stage": 5
+    },
+    {
+        "key": "refused_war_against_rival:0",
+        "original": "Dishonored Call to Arms against $TARGET$",
+        "translation": "可耻的拒绝应召对抗$TARGET$的战争",
+        "stage": 5
+    },
+    {
+        "key": "privateering_rival:0",
+        "original": "Sending Privateers against $TARGET$",
+        "translation": "派遣私掠船去对抗 $TARGET$",
+        "stage": 5
+    },
+    {
+        "key": "supporting_rebels_in_rival:0",
+        "original": "Supporting Rebels in $TARGET$",
+        "translation": "支持 $TARGET$ 的叛军",
+        "stage": 5
+    },
+    {
+        "key": "WARN_LOW_ARMY_MAINTENANCE:1",
+        "original": "§YYou are not at 100% Army Maintenance!§!",
+        "translation": "§Y陆军维护费未达到100%！§!",
+        "stage": 1
+    },
+    {
+        "key": "WARN_LOW_NAVY_MAINTENANCE:0",
+        "original": "§YYou are not at 100% Fleet Maintenance!§!",
+        "translation": "§Y海军维护费未达到100%！§!",
+        "stage": 1
+    },
+    {
+        "key": "SUBSIDY_OPINION_EFFECT:1",
+        "original": "This is estimated to improve $COUNTRY$'s opinion of us by $YEARLY$ each year, up to a maximum of $MAX$. The yearly improvement depends on $COUNTRY$'s income.",
+        "translation": "这预计每年能提高$COUNTRY$对我们的好感度$YEARLY$，最多提高$MAX$。年度提升量取决于$COUNTRY$的收入。",
+        "stage": 5
+    },
+    {
+        "key": "SUBSIDY_POWERPROJ_EFFECT:0",
+        "original": "Due to subsidizing an enemy of one or more rivals ($RIVALS$), you would gain a total of $TOTAL$ power projection.",
+        "translation": "由于资助了一个或多个宿敌（$RIVALS$）的敌人，你将获得总计$TOTAL$的力量投射。",
+        "stage": 1
+    },
+    {
+        "key": "MUST_WAIT_UNTIL_NEXT_ALLIANCE_OFFER:0",
+        "original": "You must wait a day until you can send another offer.",
+        "translation": "你必须等待一天才可以提出另一个结盟提议。",
+        "stage": 5
+    },
+    {
+        "key": "GUARANTEEING_THEIR_INDEPENDENCE:0",
+        "original": "Guaranteeing their independence.",
+        "translation": "保障他们的独立.",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_PROVINCE_CORING_COST:0",
+        "original": "It will cost $COUNTRY$ §Y$ADM$§! £adm to make all ceded provinces Cores.",
+        "translation": "把割占的省份核心化将消耗$COUNTRY$ §Y$ADM$§! £adm 。",
+        "stage": 1
+    },
+    {
+        "key": "PEACE_OPTION_REQUIRES_DEMANDING_INDPENDENCE:1",
+        "original": "Cannot demand this without also demanding Independence.",
+        "translation": "在不要求独立时不能要求",
+        "stage": 5
+    },
+    {
+        "key": "MUST_WAIT_UNTIL_NEXT_PEACE_OFFER:0",
+        "original": "You must wait a day until you can send another peace offer.",
+        "translation": "你必须等待一天才可以提出另一个和平提议。",
+        "stage": 5
+    },
+    {
+        "key": "PEACE_SUBJECT_WILL_CALL:0",
+        "original": "§RIf selected, you will be called to join their other war(s).§!",
+        "translation": "§R如果被选择，你将被召唤加入他们的另一场战争§!",
+        "stage": 5
+    },
+    {
+        "key": "CLAIMSTATETITLE:0",
+        "original": "Fabricate Claim on Area",
+        "translation": "伪造地区宣称",
+        "stage": 5
+    },
+    {
+        "key": "CLAIMSTATETITLEDESC:0",
+        "original": "Fabricate a claim on all provinces in an area.",
+        "translation": "伪造某个地区所有省份的宣称。",
+        "stage": 1
+    },
+    {
+        "key": "CLAIM_STATE_SELECT_DESC:1",
+        "original": "Fabricate Claim on Area will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give us claims on all $ADJ$ provinces in §Y$AREA$§W. The claims will last for $YEARS|Y$ years.",
+        "translation": "伪造地区宣称将减少我们$ADJ|Y$的间谍网规模$COST|R$并给予我们§Y$AREA$§W地区所有$ADJ$省份的宣称。这个宣称将持续$YEARS|Y$年。",
+        "stage": 5
+    },
+    {
+        "key": "cant_convert_subject_papacy:0",
+        "original": "Try as we may, the Holy Father refuses to embrace $RELIGION$.",
+        "translation": "尽管我们尽力了，圣父拒绝接纳$RELIGION$。",
+        "stage": 1
+    },
+    {
+        "key": "cant_convert_subject:0",
+        "original": "They refuses to embrace $RELIGION$.",
+        "translation": "他们拒绝接纳$RELIGION$。",
+        "stage": 1
+    },
+    {
+        "key": "DIPIRO_CB_SHORT:0",
+        "original": "$WHO|Y$ has '$CB|Y$' casus belli against $NAME|Y$ ($DESC$).",
+        "translation": "$WHO|Y$对$NAME|Y$拥有宣战理由「$CB|Y$」（$DESC$）。",
+        "stage": 1
+    },
+    {
+        "key": "TRUCE_WITH_COUNTRY:0",
+        "original": "$SELECTED|Y$ has a truce with $COUNTRY|Y$ until $DATE|Y$",
+        "translation": "$SELECTED|Y$ 与 $COUNTRY|Y$ 有停战协定直到 $DATE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "GRANTFREECITYREQDESC_REFORM:0",
+        "original": "\\n§RIf we accept, our currently enacted Tier 1 Government Reform $CURRENT|Y$ will be abolished.§!",
+        "translation": "\\n§R如果我们接受，我们目前实行的1级政府改革$CURRENT|Y$将被废除。§!",
+        "stage": 1
+    }
+]

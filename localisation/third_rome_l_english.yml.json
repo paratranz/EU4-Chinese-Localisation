@@ -1,0 +1,2330 @@
+[
+    {
+        "key": "veche_republic:0",
+        "original": "Veche Republic",
+        "translation": "卫彻共和国",
+        "stage": 5
+    },
+    {
+        "key": "veche_republic_desc:0",
+        "original": "This state is governed by a Veche, a council with the highest legislative and judicial authority consisting of Boyars, Merchants and even commoners.",
+        "translation": "这个国家由卫彻，即市政议会掌权，这一机构拥有着至高的立法与司法权威，成员包括了波雅尔、商人乃至平民。",
+        "stage": 5
+    },
+    {
+        "key": "russian_famine:0",
+        "original": "Famine",
+        "translation": "饥荒",
+        "stage": 5
+    },
+    {
+        "key": "desc_russian_famine:0",
+        "original": "A local famine has impoverished this province.",
+        "translation": "横扫此处的饥荒让这个省份变得一贫如洗。",
+        "stage": 5
+    },
+    {
+        "key": "st_nicholas_icon_gratitude:0",
+        "original": "Religious Gratitude",
+        "translation": "宗教感恩",
+        "stage": 1
+    },
+    {
+        "key": "famous_icon:0",
+        "original": "Local Famous Icon",
+        "translation": "当地著名圣像",
+        "stage": 5
+    },
+    {
+        "key": "desc_famous_icon:0",
+        "original": "A local icon has risen to considerable fame following the seemingly instant conversion of a foreign merchant in the local Cathedral. The convert quickly became an important benefactor of the church and the icon's fame now draws more people to this province.",
+        "translation": "一名外国商人在到了当地的大教堂之后便立刻皈依了，此后这里的一幅圣像开始变得闻名遐迩。这名皈依者很快便成为了教会的重要恩主，而这幅圣像的名望现今也吸引了更多的人来到这里。",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.1.t:0",
+        "original": "The Mother of Christ",
+        "translation": "圣母玛丽亚",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.1.d:0",
+        "original": "Mourning the loss of both his entire family and his countryside farm a man from the war-torn province of [eleusa_church_province.GetName] reportedly spent a day and a night praying before the Eleusa icon of the [eleusa_church_province.GetCapitalName] cathedral. As the city itself was under occupation his sorrow was shared by many of his [Root.GetAdjective] brethren. The very next day it was as if the icon had heard his prayers. The loyal people of [eleusa_church_province.GetName] rose as one and evicted the remaining enemy forces.\\nThe continued fortunes of the province seem unclear but as war and devastation haunt the [Root.GetAdjective] countryside many of our citizens are turning to the church for consolation and moral support.",
+        "translation": "据称，一名来自惨遭战乱的[eleusa_church_province.GetName]的男人在[eleusa_church_province.GetCapitalName]大教堂的圣母圣子像前祷告了整整一天一夜，哀悼着他逝去了的所有家人和他的乡下农场。由于这座城市也已被占领，他的恸哭引起了许多[Root.GetAdjective]同胞的共鸣。仅仅第二天，圣像便似乎听到了他的祷告。忠诚的[eleusa_church_province.GetName]人民团结一致发起了反抗，驱逐了剩余的敌军。\\n这个省份未来的命运仍不明朗，但[Root.GetAdjective]乡下战乱频仍，许多居民都向教会寻求慰藉和精神支持。",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.1.a:0",
+        "original": "Miraculous!",
+        "translation": "神迹！",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.2.t:0",
+        "original": "Revolt in [eleusa_church_province.GetName]",
+        "translation": "[eleusa_church_province.GetName]起义",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.2.d:0",
+        "original": "The people of [eleusa_church_province.GetName] have gathered around the local clergy and risen in revolt against our occupation.",
+        "translation": "[eleusa_church_province.GetName]的人们集结在当地神甫身边，武装起义对抗我们的占领。",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.2.a:0",
+        "original": "Rebel Scum!",
+        "translation": "一群刁民！",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.3.t:0",
+        "original": "St. Michael",
+        "translation": "圣米迦勒",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.3.d:0",
+        "original": "A recent recruitment campaign in [michael_icon_church_province.GetName] has given rise to an unprecedented number of new recruits enlisting. The local clergy is convinced that this was the result of the widespread religious fervor that our icon of St. Michael has inspired. They report that young men have been coming from all parts of the area to see the icon of the Archistrategos and that they leave with a strong will to go to war in the name of their faith.",
+        "translation": "最近在[michael_icon_church_province.GetName]的一次征兵给我们带来的兵员之多史无前例。当地的神职人员相信这是人们对圣米迦勒像的狂热崇拜所带来的结果。他们称，这一带的年轻人纷至沓来，一睹大天使长的圣像，如此他们就能带着强大的意志以信仰之名走向战场。",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.3.a:0",
+        "original": "To arms!",
+        "translation": "拿起武器！",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.4.t:0",
+        "original": "Christ Pantocrator",
+        "translation": "全能者基督",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.4.d:0",
+        "original": "As the ruler of all, Christ Pantocrator watches from above, in many of the church-domes around the country. Our veneration and extensive attention to this most central icon in any iconostasis also seem to have been the source of contemplation for many. Reminded of their own role in creation and of the rightful place of the [Root.Monarch.GetTitle] many are more content with both their own lives and with the government that rules them.",
+        "translation": "万物的主，全能者基督在全国诸多教堂的穹顶上观察着世人。我们对圣障上这一中心圣像的尊崇与注重也似乎引起了许多人的思考，提醒着他们在所创之世和[Root.Monarch.GetTitle]治下应扮演的角色。大部分人都对他们的人生和他们的政府感到满意。",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.4.a:0",
+        "original": "For the Kingdom is His.",
+        "translation": "为了上主的王国。",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.5.t:0",
+        "original": "The Three Gifts of Nicholas",
+        "translation": "圣尼古拉的三件礼物",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.5.d:0",
+        "original": "Our veneration of St. Nicholas seems to have made quite an impression on one of the merchants in a recent embassy from [benevolent_if_distant_neighbor.GetName]. The merchant was so impressed by the icon of St. Nicholas in [nicholas_icon_was_here.GetCapitalName], by the story of the saint, and by our devotion to Nicholas' legacy, that he decided to bestow three gifts. One gift will go to the cathedral where he saw the icon, one to the artist who created it and one to the benefactor who paid for it.",
+        "translation": "我们对圣尼古拉的尊崇似乎给近期[benevolent_if_distant_neighbor.GetName]使团的一名商人留下了深刻的印象。这名商人被[nicholas_icon_was_here.GetCapitalName]的圣尼古拉斯圣像所触，他不仅被圣人的事迹所感动，也为我们对圣尼古拉斯事业的投入而折服。于是他决定效仿圣尼古拉斯赠送三份礼物：一份将赠予那座尊此圣像的教堂，一份将赠予绘制此圣像的艺术家，一份将赠予捐助此圣像的布施者。",
+        "stage": 1
+    },
+    {
+        "key": "orthodox_icon_events.5.a:0",
+        "original": "We must thank him on behalf of the church.",
+        "translation": "我们必须替教会感谢他。",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.5.b:0",
+        "original": "We will employ the artist as a sign of gratitude.",
+        "translation": "为了表达感激之情，我们将聘请那名艺术家。",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.5.c:0",
+        "original": "A most generous gift for the benefactor.",
+        "translation": "恩主赠予的慷慨的礼物",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.6.t:0",
+        "original": "The Ladder",
+        "translation": "天梯",
+        "stage": 1
+    },
+    {
+        "key": "orthodox_icon_events.6.d:0",
+        "original": "The clergy of [climacus_church_province.GetCapitalName] cathedral claim that it is thanks to the strong local veneration of John Climacus, and the example he set for self-improvement, that the entire province now blossoms so. Indeed harvests seem more plentiful and the people more at peace and loyal than ever before. The 'Ladder' of John Climacus has helped many to improve themselves over the centuries and now we seem once again to be in his debt.",
+        "translation": "在[climacus_church_province.GetCapitalName]教堂的神甫称，多亏了当地对圣约翰·克利马科斯的崇尚，以及他自强不息的优秀模范的引导，此地如今才会如此繁荣。该省的确是更加丰收了，人们也更加安定、更加忠于职守。数个世纪以来，圣约翰·克利马科斯的《攀登神圣的天梯》一直都是许多人自我完善的指南，而现在，我们又得感激他了。",
+        "stage": 1
+    },
+    {
+        "key": "orthodox_icon_events.6.a:0",
+        "original": "'By a flood of tears you made the desert fertile.'",
+        "translation": "“沥沥泪洪，可腴八荒。”",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.6.b:0",
+        "original": "'And by your longing for God you brought forth fruits in abundance.'",
+        "translation": "“祭之以果，以祈神临。”",
+        "stage": 5
+    },
+    {
+        "key": "orthodox_icon_events.6.c:0",
+        "original": "'By the radiance of miracles you illuminated the whole universe.'",
+        "translation": "“以汝神迹，纮于寰宇。”",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.1.t:0",
+        "original": "The [Root.GetInfluentialRussians]s",
+        "translation": "[Root.GetInfluentialRussians]家族",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.1.d:0",
+        "original": "The prominent [Root.GetInfluentialRussians] family has offered to fund the expansion into [siberian_frontier_province.GetName] and the surrounding area, committing to the construction of forts there for the benefit of the [Root.GovernmentName] of [Root.GetName]. In exchange they would receive the rights to exploit the area themselves. If we sign a charter to give them this right we will likely have little control of their conduct in the area, and they would also secure the initial profits, but in return they would both organize and fund fortifications for us.",
+        "translation": "著名的[Root.GetInfluentialRussians]家族赞助了针对[siberian_frontier_province.GetName]及其周边地区的一次扩张，并投资了[Root.GetName][Root.GovernmentName]在该处的要塞建设。作为交换，他们将得到独自对当地进行开发的权力。如果我们签署特许状给予他们这个权力，他们在当地的所作所为或许将难以控制，而且他们一定会确保自己的初期利益，不过作为交换他们也能够组织维护当地的要塞。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.1.a:0",
+        "original": "An Excellent Idea.",
+        "translation": "好主意。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.1.b:0",
+        "original": "We must instead quell the power of the [Root.GetInfluentialRussians]s.",
+        "translation": "不，我们得削弱[Root.GetInfluentialRussians]家族的权力。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.2.t:0",
+        "original": "Payment of Yasak",
+        "translation": "牙萨克贡品",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.2.d:0",
+        "original": "While it is a vast and untamed region, only traversable in many places due to its rivers, Siberia is not an empty land. It is inhabited by a number of local tribes and chieftaincies. Some of these are more than happy to sell us furs while others can be persuaded to pay a tax in the same commodity for our protection.\\nEither $YEAR$ has been an unusually productive year for the natives or our tax collectors have been unusually efficient when collecting their tribute. Regardless the Yasak has brought a much greater yield than expected this year.",
+        "translation": "虽然西伯利亚只是一块辽阔而荒蛮的区域，许多地方甚至只能通过水路到达，但并不是无人居住的。那里散布着许多土著部落和酋长。其中一些非常乐意将毛皮出售给我们，而另一些，在我们的劝服下也愿意缴纳毛皮作为赋税来换取我们对他们的保护。\\n$YEAR$年要么是当地土著异常丰收的一年，要么就是我们的包税人今年在部落抽税的效率非常高，总之今年的牙萨克比期望中的要高出许多。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.2.a:0",
+        "original": "Excellent.",
+        "translation": "棒极了。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.3.t:0",
+        "original": "Promyshlenniki",
+        "translation": "渔猎人",
+        "stage": 1
+    },
+    {
+        "key": "siberian_events.3.d:0",
+        "original": "The abundance of fur-clad animals in Siberia is a veritable treasure trove, not only for our country, but also for many of our poor serfs and townspeople. It has become increasingly common for adventurous men to form fur-hunting or trading expeditions, traveling far beyond our most distant settlements. When they return they bring precious sable and squirrel furs, worth a fortune back in [russian_center_of_trade.GetName].\\nAt times, however, it seems some of them are willing to go very far in their pursuit of wealth. The cutthroat conduct of our 'traders' has enraged the tribal population in [siberian_frontier_province.GetName] and is causing a risk to the local settlement there.",
+        "translation": "西伯利亚大量的皮草资源不仅仅对我们的国家本身而言是名副其实的宝藏库，对那些卑微的农奴和城镇居民而言也是如此。勇于探险的人越来越多地组织起来形成一个个皮草狩猎贸易的探索队，进发到比我们最边远的殖民地还要远的未知之地，带着珍贵的貂皮和松鼠皮回到[russian_center_of_trade.GetName]发家致富。\\n然而时至今日，他们中的有些人竟为财富铤而走险。一些“贸易者”的肆无忌惮激怒了[siberian_frontier_province.GetName]的部落民，这可能会让当地的殖民地陷入危险。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.3.a:0",
+        "original": "There's nothing we can do about this.",
+        "translation": "现在做什么都没用。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.3.b:0",
+        "original": "We must control our people.",
+        "translation": "我们必须管好我们的人。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.4.t:0",
+        "original": "Cossack Exploration",
+        "translation": "哥萨克探险队",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.4.d:0",
+        "original": "Groups of Cossack explorers have penetrated deep along the rivers of Siberia. Such private expeditions can sometimes be as much of a hindrance as they are beneficial, as the free-minded Cossacks have few qualms about using force, coercion or duplicity to get their way among the local population and states they come across.\\nThe expedition that returns today brings good news, they have brought us new charts, as well as valuable goods.",
+        "translation": "几伙哥萨克探险队沿着河系深入了西伯利亚。这样的私人远征有时对我们有益，但有时候也可能变成对我们的阻碍。要知道，这些无法无天的哥萨克人为了达成目的，对当地的居民和土邦使用暴力、欺诈和要挟手段是毫无顾忌的。\\n今日归来的探险队带来了好消息，他们给我们带来了新的地图，还有许多珍稀货物。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.4.a:0",
+        "original": "Great to hear!",
+        "translation": "好消息！",
+        "stage": 5
+    },
+    {
+        "key": "EST_VAL_COSSACK_EXPLORERS:0",
+        "original": "Cossack Explorers: §Y$VAL$%§!",
+        "translation": "哥萨克探索队：§Y$VAL$%§!",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.4.b:0",
+        "original": "We control the Cossacks!",
+        "translation": "我们驾驭着哥萨克人！",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.5.t:0",
+        "original": "Intermezzo in [cossack_exploration_province.GetName]",
+        "translation": "[cossack_exploration_province.GetName]的小插曲",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.5.d:0",
+        "original": "Entrepreneurs sometimes fund Cossack explorers to penetrate deep along the rivers of Siberia. These expeditions can sometimes be as much of a hindrance as they are beneficial, as the free-minded Cossacks have few qualms about using force, coercion or duplicity to get their way among the local population and states they come across.\\nA recently returned expedition has enriched the participants themselves but left us in conflict with a local tribe as well as one of our neighboring countries.",
+        "translation": "有时一些投资人会赞助哥萨克探险队沿着河系深入西伯利亚，这些探险队有时对我们有益，但有时候也可能变成对我们的阻碍。要知道，这些无法无天的哥萨克人为了达成目的，对当地居民和土邦使用暴力、欺诈和要挟手段是毫无顾忌的。\\n最近回来的一支探险队自己发家致富了，却留给我们一个烂摊子：他们让我们和当地的部落以及一个邻国发生了严重冲突。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.5.a:0",
+        "original": "An unfortunate but necessary side effect.",
+        "translation": "真不幸，但为了更远大的利益，必须做出一小点牺牲。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.5.b:1",
+        "original": "We will have to compensate the hurt parties.",
+        "translation": "我们必须给受害者赔礼道歉。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.6.t:0",
+        "original": "Gifts from Siberia",
+        "translation": "来自西伯利亚的礼物",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.6.d:0",
+        "original": "While Siberia is rich in fur-clad animals it is rumored that precious metals and other more exotic things can be found there as well. A local chiefdom under our protection has sent a precious gift of [Root.GetRandom_Siberian_Resource], hoping to secure our favor for the foreseeable future.",
+        "translation": "西伯利亚不仅有着丰厚的动物皮草资源，据传言称在那还能找到贵金属以及其他更加奇异的珍品。我们保护下的一个当地部落给我们送来了一份珍贵的礼物：[Root.GetRandom_Siberian_Resource]，他们希望我们能够在可见的未来确保我们的欢心。",
+        "stage": 5
+    },
+    {
+        "key": "siberian_events.6.a:0",
+        "original": "Most Generous",
+        "translation": "真是慷慨",
+        "stage": 5
+    },
+    {
+        "key": "restricted_movement:0",
+        "original": "Restricted Movement",
+        "translation": "行动受限",
+        "stage": 5
+    },
+    {
+        "key": "desc_restricted_movement:0",
+        "original": "We have revoked the right of the serfs to move from their allotted piece of land under any circumstance in this area.",
+        "translation": "我们已经撤销了这一地区的农奴在任何情况下离开被分配到的土地的权利。",
+        "stage": 5
+    },
+    {
+        "key": "serfs_moving_away:0",
+        "original": "Serfs Deserting",
+        "translation": "农奴逃亡",
+        "stage": 5
+    },
+    {
+        "key": "desc_serfs_moving_away:0",
+        "original": "While their movement is greatly restricted the serfs in this area are using every trick and loophole available to them to abandon this land and the local lords.",
+        "translation": "尽管行踪受到了极大的限制，这一地区的农奴们还是利用一切可用的花招和漏洞来脱离这片土地和这里的领主。",
+        "stage": 1
+    },
+    {
+        "key": "confiscated_appanage:0",
+        "original": "Enlarged Territories",
+        "translation": "扩大的领土",
+        "stage": 1
+    },
+    {
+        "key": "desc_confiscated_appanage:0",
+        "original": "Following the death of one of our royal brothers we have enlarged the state domains in this province allowing us much better access to the land for purposes of taxation and improvement.",
+        "translation": "在我们的一个王室兄弟去世后，我们的国家权力向这个省份进行了扩张，使我们能够更好地在这片土地上进行征税和建设。",
+        "stage": 1
+    },
+    {
+        "key": "tatar_feudatories:0",
+        "original": "Tatar Feudatories",
+        "translation": "鞑靼诸藩",
+        "stage": 1
+    },
+    {
+        "key": "desc_tatar_feudatories:0",
+        "original": "The Church may not approve but we have afforded rights to the Muslim Tatars in our country in exchange for their military service.",
+        "translation": "虽然教会可能不会批准，但我们还是为我国的穆斯林鞑靼人提供了一些权利，以换取他们服兵役。",
+        "stage": 5
+    },
+    {
+        "key": "tatar_feudatory_province:0",
+        "original": "Tatar Feudatory",
+        "translation": "鞑靼属藩",
+        "stage": 5
+    },
+    {
+        "key": "desc_tatar_feudatory_province:0",
+        "original": "In exchange for their military services we have granted a high degree of autonomy to the Tatars in this province.",
+        "translation": "为了换取他们服兵役，我们给予了这个省的鞑靼人以高度的自治。",
+        "stage": 5
+    },
+    {
+        "key": "tatar_raided_province_modifier:0",
+        "original": "Tatar Raids",
+        "translation": "鞑靼人的劫掠",
+        "stage": 5
+    },
+    {
+        "key": "desc_tatar_raided_province_modifier:0",
+        "original": "This province has been subjected to Tatar raids.",
+        "translation": "这个省份被鞑靼人劫掠了。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.1.t:0",
+        "original": "Plot of the Prince of [appanage_province.GetName]",
+        "translation": "[appanage_province.GetName]王公的图谋",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.1.d:0",
+        "original": "Ever since the days of the Kievan Rus the Russian principalities have employed a method of succession based on lateral seniority. Often this means that our dynasty will be ruled by its most powerful scion but at times this has left other claimants wanting to bypass the Kievan order.\\nEver since the passing of $PREVIOUS_MONARCH$ the [Root.Monarch.Dynasty.GetName] family has been divided between those that support [Root.Heir.GetName] and those that would rather see the dynamic prince of [appanage_province.GetName] as the future heir. The young prince has wasted little time convincing as many of his uncles and siblings as possible to support him and his faction has now delivered an ultimatum to our [Root.Monarch.GetTitle] [Root.Monarch.GetName].",
+        "translation": "从基辅罗斯开始，罗斯诸公国就采取了一种基于侧重资历的继承法。通常这意味着我们的王朝将由其最强大的子孙统治，但有时也会有其他宣称者想要越过基辅的制度牟取权力。\\n自从$A_PREVIOUS_RULER$去世以来，[Root.Monarch.Dynasty.GetName]家族已经分裂为两派：一派支持[Root.Heir.GetName]，而一派更希望看到活跃的[appanage_province.GetName]王公作为未来的继承人。年轻的王公没花多少时间就说服了尽可能多的叔伯和兄弟来支持他，他这一派现在已经向我们的[Root.Monarch.GetTitle][Root.Monarch.GetName]发出了最后通牒。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.1.a:0",
+        "original": "We stand with [Root.Monarch.GetName]!",
+        "translation": "我们与[Root.Monarch.GetName]共进退！",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.1.b:0",
+        "original": "Designate the prince of [appanage_province.GetName] as our new heir.",
+        "translation": "钦定[appanage_province.GetName]王公为我们的新继承人。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.1.c:0",
+        "original": "Let us stand aside for the prince of [appanage_province.GetName].",
+        "translation": "我们要和[appanage_province.GetName]王公站在同一边。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.2.t:0",
+        "original": "Agricultural Intensification",
+        "translation": "农业进步",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.2.d:0",
+        "original": "An unusually prolonged period of peace and stability has allowed the peasants in large Monastic and Boyar estates to begin to adopt more modern farming techniques. Slash-and-burn remains the norm across large parts of our realm but with the spread of crop rotation the population in parts of our realm is growing significantly.",
+        "translation": "长时间的和平与稳定使得归属于大型修道院和波雅尔领地的农民开始采用更现代化的农耕技术。 虽然刀耕火种在我国的大部分地区仍然常见，但随着作物轮作的推广，我国部分地区的人口正在显著增长。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.2.a:0",
+        "original": "Excellent.",
+        "translation": "很好。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.3.t:1",
+        "original": "Minor Lords",
+        "translation": "小领主",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.3.d:1",
+        "original": "With the Tatar Yoke an increasingly distant memory and the expansion of land directly administered by the [Root.Monarch.GetTitle] it is becoming increasingly clear that we need more minor landholders. Traditionally the landed aristocracy would be the primary candidates to be given this privilege, even for smaller patches of land, but greater internal stability means that we could likely promote men of other qualities to take care of these matters of economy and agriculture.",
+        "translation": "随着鞑靼征服之记忆的渐行渐远以及[Root.Monarch.GetTitle]直领土地的扩张，情况已愈发明显：我们需要更多的小领主。根据传统，拥有土地的贵族是获得这一特权的主要人选，即使分配的是小面积的土地。但更高的内部稳定度使得我们也可以提拔其他身份的人来处理这些土地上的经济和农业问题。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.3.a:1",
+        "original": "Let us continue to favor the Boyars.",
+        "translation": "我们要继续支持波雅尔。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.3.b:1",
+        "original": "Let us distribute the land among smaller landholders.",
+        "translation": "我们要把土地分给小地主。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.4.t:0",
+        "original": "Land Acquisition",
+        "translation": "征用土地",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.4.d:0",
+        "original": "The Central power of the [Root.GovernmentName] is growing steadily and with no tribute to send to the Khans of Central Asia, so is our disposable income. An unusually rich harvest has left us with a considerable surplus. We could use this to boost our coffers for a rainy day, but we might also invest it to acquire the lands of minor princes and Monastic Estates.",
+        "translation": "[Root.GovernmentName]的中央权力正在稳步提升，同时我们也停止了向中亚的汗国进贡，这使得我们的可支配收入也在稳定增长。一次非同寻常的丰收给我们留下了相当多的盈余，我们可以以此未雨绸缪，也可以投资用于兼并小王公和教士阶层的土地。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.4.a:0",
+        "original": "Land is true wealth.",
+        "translation": "土地是真正的财富。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.4.b:0",
+        "original": "We need gold for the royal treasury.",
+        "translation": "我们需要黄金来填满王室金库。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.4.c:0",
+        "original": "We must use this as leverage in state affairs.",
+        "translation": "我们要以此增强在国家事务中的影响力。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.5.t:0",
+        "original": "Famine of $YEAR$",
+        "translation": "$YEAR$年饥荒",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.5.d:0",
+        "original": "A combination of disease and harsh weather has completely ruined the harvest in parts of the [Root.GetAdjective] Realm. In times like these many turn to the state or the Church for support, others leave their lands or seek protection from powerful Boyars, Monastic Estates or even join the Cossacks in the wild fields.",
+        "translation": "疾病和天灾接踵而至，彻底破坏了[Root.GetAdjective]部分领土的收成。这个时候，许多人向国家或教会寻求支持，还有些人离开他们的土地，或寻求势力强大的波雅尔及修道院的保护，甚至有人加入野外的哥萨克人。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.5.a:0",
+        "original": "We will leave this to the Boyars.",
+        "translation": "我们会把这交给波雅尔解决。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.5.b:0",
+        "original": "We will let the Church handle this.",
+        "translation": "我们会让教会处理这件事。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.5.c:0",
+        "original": "The [Root.Monarch.GetTitle] [Root.Monarch.GetHerselfHimself] will help them.",
+        "translation": "[Root.Monarch.GetTitle][Root.Monarch.GetHerselfHimself]会帮助他们。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.5.dd:0",
+        "original": "They can join the free Cossacks.",
+        "translation": "他们可以加入哥萨克游民。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.6.t:0",
+        "original": "The Wealth of [province_to_rob.GetCapitalName]",
+        "translation": "[province_to_rob.GetCapitalName]的财富",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.6.d:0",
+        "original": "Through our acquisition of [province_to_rob.GetCapitalName] we have come to control a major regional center of production and trade. The local artisans and merchants are both rich and successful in their trade and the city will surely be a great addition to our splendid [Root.GovernmentName].\\nIt is hard to know, however, how far we can trust the [province_to_rob.Culture.GetName]. We should consider forcibly relocating the wealthiest and most successful local families to [province_to_grow.GetCapitalName] where we can more efficiently monitor and tax them. Some would say the damage we do to the city of [province_to_rob.GetCapitalName] is greater than any benefit we might hope for in [province_to_grow.GetCapitalName] but the added control is surely worth it.",
+        "translation": "获得了[province_to_rob.GetCapitalName]之后，我们控制了这一区域主要的生产和贸易中心。当地的工匠和商人都十分富有且生意兴隆，这座城市一定会成为我们伟大[Root.GovernmentName]的优秀助力。\\n然而，我们现在还很难知道能够多信任[province_to_rob.Culture.GetName]。 我们应该考虑将最富有、最成功的当地人家强行搬迁到[province_to_grow.GetCapitalName]，在那里我们能够更有效地对他们进行监控和课税。有人会说我们对[province_to_rob.GetCapitalName]造成的损害大于我们在[province_to_grow.GetCapitalName]可能获得的好处，但由此增强的掌控力肯定是值得的。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.6.a:0",
+        "original": "[province_to_grow.GetCapitalName] must grow!",
+        "translation": "[province_to_grow.GetCapitalName]必须发展！",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.6.b:0",
+        "original": "We can leave them alone in return for their obedience.",
+        "translation": "只要他们表示服从，作为回报我们可以把他们放着不管。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.7.t:0",
+        "original": "St George's Day",
+        "translation": "圣乔治日",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.7.d:0",
+        "original": "Traditionally peasants have had the right to move from one area to another under controlled forms on the day of St George. This ensures some degree of mobility while also safeguarding that year's crop.\\nLately, however, many landlords complain that peasants are abusing this privilege to seek a better life. The landlords of [serfdom_province.GetName] have today sought an audience, imploring that we revoke this right for their peasants. Otherwise they claim they will not be able to render the military service the state requires.",
+        "translation": "依照传统，农民有权在圣乔治日从一个地区移动到另一个受管控的地区。这确保了一定程度的人口流动，也保证了当年的收成。\\n然而，最近很多地主都抱怨说，农民滥用这种权利以寻求更好的生活。[serfdom_province.GetName]的地主今天寻求觐见，恳求我们撤销他们那里农民的这项权利，并声称如若不然他们将无法按国家要求提供兵役。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.7.a:0",
+        "original": "Restrict their Movement.",
+        "translation": "限制他们的移动。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.7.b:0",
+        "original": "We will not exempt these lands from our laws.",
+        "translation": "我们不会让这些土地成为法外的特例。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.8.t:0",
+        "original": "Appanage Holder Dies",
+        "translation": "封地领主去世",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.8.da:0",
+        "original": "A Prince of [Root.GetName] has died and [Root.Monarch.GetName] mourns the loss of a brother. As the current [Root.Monarch.GetTitle] we should now redistribute the lands the deceased held as appanage. Our remaining brothers will no doubt expect to get a part of the land but we could try to use this opportunity to increase the size of our own lands...",
+        "translation": "一位[Root.GetName]的王公已经去世，[Root.Monarch.GetName]为痛失手足而哀伤不已。作为现今的[Root.Monarch.GetTitle]，我们应该重新分配逝者的封地。我们剩下的兄弟们无疑会期望获得其中一部分土地，但我们也可以尝试利用这个机会来增加我们自己的领地……",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.8.db:0",
+        "original": "The Prince of [brothers_appanage.GetName] has died and [Root.Monarch.GetName] mourns the loss of a brother. As the current [Root.Monarch.GetTitle] we should now redistribute the lands that up until now were an appanage of the deceased. Our remaining brothers will no doubt expect to get a part of the land but we could try to use this opportunity to increase the size of our own lands...",
+        "translation": "[brothers_appanage.GetName]王公已经去世，[Root.Monarch.GetName]为痛失手足而哀伤不已。作为现今的[Root.Monarch.GetTitle]，我们应该重新分配逝者曾经的封地。我们剩下的兄弟们无疑会期望获得其中一部分土地，但我们也可以尝试利用这个机会来增加我们自己的领地……",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.8.a:0",
+        "original": "Let us confiscate the land for ourselves.",
+        "translation": "我们自己来接收这些土地。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.8.b:0",
+        "original": "We should confiscate the land for ourselves.",
+        "translation": "我们应该自己接收这些土地。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.8.c:0",
+        "original": "We must assure ourselves of the support of our brothers.",
+        "translation": "我们必须保证兄弟们的支持。",
+        "stage": 1
+    },
+    {
+        "key": "russian_principality_events.9.t:0",
+        "original": "Tatar Feudatories",
+        "translation": "鞑靼诸藩",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.9.d:0",
+        "original": "With the acquisition of Tatar lands we have become the overlord of the peoples to whom we were subjected for such a long time. While this is a victory for the [Root.GetAdjective] people it is also an opportunity.\\nAs we have been so painfully aware for centuries the Tatars are excellent horsemen and know the steppes better than any other. If we should allow the local leaders to keep ruling their people, but in our name, they may well be open to the idea of serving in our armies.",
+        "translation": "我们曾臣服于鞑靼人如此之久，但是在获得了鞑靼人的土地后，我们反过来成为了他们的领主。这不仅是[Root.GetAdjective]人的胜利，也是一个机会。\\n几个世纪的惨痛教训告诉我们，鞑靼人是卓越的骑手，而且比其他任何人都更了解草原。如果我们让当地的领导者以我们的名义继续统治他们的人民，他们或许会很乐意在我们军队中服役。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.9.a:0",
+        "original": "An excellent idea!",
+        "translation": "绝好的主意！",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.9.b:0",
+        "original": "We cannot allow the Muslims such rights within our borders.",
+        "translation": "我们不能允许穆斯林在我们国内拥有这种权利。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.10.t:0",
+        "original": "The [kremlin_here.GetCapitalName] Kremlin",
+        "translation": "[kremlin_here.GetCapitalName]的克里姆林",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.10.d:0",
+        "original": "As our [Root.GovernmentName] grows so does the importance of our capital in [kremlin_here.GetCapitalName]. Like many Russian cities the core of [kremlin_here.GetCapitalName] is its Kremlin which houses the elite, the administration and the military offices. Outside the walls lies an ever-growing commercial Posad district, and even further the general suburbs.\\nThe entire arrangement depends on the size and strength of the Kremlin, however, and many are worried that ours is both inadequately small and old-fashioned. A state with ambitions such as ours should ensure that the Kremlin is constantly improved, expanded and well maintained.",
+        "translation": "随着我们[Root.GovernmentName]的成长，我们位于[kremlin_here.GetCapitalName]的首都也日渐重要。像许多俄罗斯城市一样，[kremlin_here.GetCapitalName]的核心是克里姆林，其中居有掌权者、行政部门和军事办公室。墙外坐落着一个商业蓬勃发展的波萨德街区，而更远处只是普通的郊野。\\n不过，这些布局都取决于克里姆林的规模和强度，而且许多人担心我们的克里姆林又小又旧，规模不够。 一个像我们这样野心勃勃的国家应该确保克里姆林一直得到改良、扩建以及良好的维护。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.10.a:0",
+        "original": "This will require a lot of manpower.",
+        "translation": "这需要大量人力。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.10.b:0",
+        "original": "This will require all groups in the city to contribute.",
+        "translation": "这需要城内所有群体的共同努力。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.10.c:0",
+        "original": "The Church Estates will pay for this.",
+        "translation": "教会将为此买单。",
+        "stage": 5
+    },
+    {
+        "key": "russian_principality_events.10.dd:0",
+        "original": "We cannot afford to expand the Kremlin at this time.",
+        "translation": "我们现在无力扩建克里姆林。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.1.t:0",
+        "original": "Riots in [rioting_city_province.GetName]",
+        "translation": "[rioting_city_province.GetName]发生暴动",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.1.d:0",
+        "original": "Discontent related to a new tax that coincided with a local food shortage has culminated in riots in [rioting_city_province.GetCapitalName]. The citizens of this once loyal city now claim that the government has been undercutting their rights and forcing their sons into serfdom. Fleeing serfs from the surrounding countryside are joining the riots and the situation is quickly growing harder for our local [Root.GetLowLevelOfficialForCountry] to control.",
+        "translation": "[rioting_city_province.GetCapitalName]在新税发布的同时发生了粮食短缺，由此引发的不满导致了暴动。这个曾经忠诚的城市的公民现在声称政府一直在削减他们的权利，逼迫他们的儿子成为农奴。周边农村的逃亡农奴也加入了暴动，情况迅速恶化，当地的[Root.GetLowLevelOfficialForCountry]逐渐难以控制。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.1.a:0",
+        "original": "Send in the Troops.",
+        "translation": "派出军队。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.1.b:0",
+        "original": "Give in to some of their demands.",
+        "translation": "在他们的部分要求上让步。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.2.t:0",
+        "original": "Court Politics",
+        "translation": "宫廷政治",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.2.d:0",
+        "original": "To be able to rise to a position near the [Root.Monarch.GetTitle] at the [Root.GetAdjective] court can be very hard unless you belong to one of few old families with a long tradition of service. Even if someone of considerable skill would make himself known, the old families expect to dominate the higher ranks at court.\\nLately a specific young courtier has been making a name for himself by performing outstanding service to the [Root.GovernmentName] but there are no positions for him to rise to. The old families would actively oppose the creation of a new position for such a self-made man and would not take kindly to us opposing them.",
+        "translation": "爬到[Root.GetAdjective]宫廷内[Root.Monarch.GetTitle]附近的位置可以说非常困难，除非你属于少数侍奉多年的世族之一。连相当有能力的人也会提醒自己，世族希望把持宫廷内的高位。\\n最近，一位年轻的廷臣一直在出色地服务[Root.GovernmentName]，乃至以此成名，但是却没有可以供他升任的职位。世族会极力反对为这样一个出身低微者创造一个新的职位，还会因我们与他们的对立而抱有不满。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.2.a:0",
+        "original": "I am the true [Root.Monarch.GetTitle]!",
+        "translation": "余乃[Root.Monarch.GetTitle]！",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.2.b:0",
+        "original": "We need their loyalty.",
+        "translation": "我们需要他们的忠诚。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.3.t:0",
+        "original": "Settling the [steppe_province.GetName] Steppe",
+        "translation": "殖民[steppe_province.GetName]草原",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.3.d:0",
+        "original": "As our [Root.GovernmentName] grows it has come to incorporate a multitude of peoples. Far gone are the days when all our subjects were Christian [Root.Culture.GetName] peasants. Our expansion into the steppes has made us the overlord of both violently free-minded Cossacks and Tatar communities. Of course much of the steppe is also quite empty.\\nWhile our empire is great our resources are also not unlimited. Often we have to make a choice. Do we want to get our own subjects to settle the newly conquered areas? Do we want them to remain dominated by the Tatars? Or should we let the Cossacks, with their disrespect for our strict laws, colonize them?",
+        "translation": "随着我们[Root.GovernmentName]的扩张，已经有许多各样的人口被吸纳了进来，我们的所有臣民都是信仰基督教的[Root.Culture.GetName]农民的日子已经一去不复返了。向草原的扩张已经使我们统治了暴戾且无法无天的哥萨克与鞑靼人部族——当然，大部分草原依旧还是相当空旷的。\\n我们的帝国是伟大的，但我们的资源却不是无限的。我们经常要做出选择：对于新征服的地区，是让我们自己的百姓前去定居，还是继续由鞑靼人控制这里？亦或是，让哥萨克人殖民于此，即便他们蔑视我们严格的法律？",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.3.a:0",
+        "original": "As long as they obey our rule the Tatars can stay.",
+        "translation": "只要鞑靼人服从我们的统治，他们就可以留下来。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.3.b:0",
+        "original": "Let us resettle [Root.GetAdjective] peasants here.",
+        "translation": "我们要将[Root.GetAdjective]的农民迁往此处。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.3.c:0",
+        "original": "These lands belong to the free Cossacks.",
+        "translation": "这些土地属于哥萨克游民。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.4.t:0",
+        "original": "The Gaps of the Abatis Line",
+        "translation": "鹿砦防线上的缺口",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.4.d:0",
+        "original": "For centuries the Tatars have been raiding our settlements, leading to the construction of a defensive line along the Steppe border. The Abatis line is a system of fortresses and garrisons intended to stop any raid from getting very far beyond the Steppe. As soon as there is a gap in this system, however, there is a risk of Tatar raids penetrating our borders.\\nA recent raid at [tatar_raided_province.GetName] has penetrated our defenses and left unprotected settlements devastated.",
+        "translation": "几个世纪以来，鞑靼人一直在袭扰我们的殖民地，这迫使我们沿着草原边界建设防线。鹿砦防线就是一个驻军堡垒系统，旨在阻止任何来自草原遥远彼方的袭击。然而一旦这个系统有一个缺口，我们就有遭到鞑靼人袭击的风险。\\n最近一场针对[tatar_raided_province.GetName]的袭击穿过了我们的防线，并摧毁了无保护的殖民地。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.4.a:0",
+        "original": "We must make the Tatars Pay!",
+        "translation": "我们必须让鞑靼人付出代价！",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.5.t:0",
+        "original": "The Sobor of $YEAR$",
+        "translation": "$YEAR$年缙绅会议",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.5.d:0",
+        "original": "In times of need the rulers of [Root.GetName] have been able to call upon the people of [Root.Capital.GetCapitalName] to lend their support in important decisions about the continued future of our [Root.GovernmentName]. The participation in such an assembly, or Sobor, is the duty of any upstanding subject of the [Root.Monarch.GetTitle] and can strengthen the national resolve in difficult times.\\nPerhaps in this perilous age the time has come to convene a Sobor, so that we can move forward with the support of the people?",
+        "translation": "曾经，[Root.GetName]的统治者能够在需要的时候呼吁[Root.Capital.GetCapitalName]的人们支持关于我们[Root.GovernmentName]未来存续的重要决定。参加这样一次集会，或者说缙绅会议，是任何一个正直的[Root.Monarch.GetTitle]子民的责任，这也能够在困难的时期加强国家意志。\\n在这危险的时代，也许是时候召集一次缙绅会议了。如此一来，或许我们就可以在人民的支持下前进了？",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.5.a:0",
+        "original": "An excellent idea.",
+        "translation": "绝好的主意。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.5.b:0",
+        "original": "[Root.Monarch.GetName] is the true [Root.Monarch.GetTitle] and requires no such support!",
+        "translation": "[Root.Monarch.GetName]即是真正的[Root.Monarch.GetTitle]，不需要这种支持！",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.6.t:0",
+        "original": "Expansion of the Bureaucracy",
+        "translation": "官僚体系的膨胀",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.6.d:0",
+        "original": "As our [Root.GovernmentName] expands so does the need for more people to administer it. In the past, we have relied on local provincial governors, but over time the need to increase the number of people in the central chancellery, the [Root.GetAdjective] prikazy, has been growing greater and greater.\\nUnless we increase the cadres soon we will not be able to meet the demands for more experienced clerks later on as the bureaucracy keeps on growing.",
+        "translation": "随着我们[Root.GovernmentName]的扩张，我们需要更多的人来管理它。过去我们一直依靠地方省份的行政长官，但随着时间的推移，有关增加中央官署即[Root.GetAdjective]衙门人数的需求与日俱增。\\n除非我们扩充骨干队伍，否则随着官僚机构的不断发展，有经验的文员数量将无法满足需求。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.6.a:0",
+        "original": "Appoint more administrators.",
+        "translation": "钦点更多的行政官员。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.6.b:0",
+        "original": "We can make do with what we have.",
+        "translation": "我们可以靠现有人手应付问题。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.7.t:0",
+        "original": "Traitors?",
+        "translation": "叛徒？",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.7.d:0",
+        "original": "It has come to the attention of [Root.Monarch.GetTitle] [Root.Monarch.GetName] that the head of the [Root.GetInfluentialRussians] family has been amassing power and influence in a way that could make him a threat to the [Root.GovernmentName]. It is not entirely clear if the house of [Root.GetInfluentialRussians] has any aspirations against the throne, but if we want to ensure the supremacy of the [Root.Monarch.Dynasty.GetName]s we should act before it is too late.",
+        "translation": "[Root.Monarch.GetTitle][Root.Monarch.GetName]已经开始注意到，[GetInfluentialRussians]家族的族长已经积蓄起了力量和影响，这可能会使他对[Root.GovernmentName]构成威胁。我们尚不清楚[GetInfluentialRussians]家族对权位是否有任何非分之想，但如果我们想确保[Root.Monarch.Dynasty.GetName]家族至高无上的地位，我们就应该及时动手。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.7.a:0",
+        "original": "Divide their lands among more loyal people.",
+        "translation": "把他们的领地分割给更忠心的人。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.7.b:0",
+        "original": "Surely we have nothing to fear from the nobility of the land.",
+        "translation": "这些地主贵族当然没什么好怕的。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.8.t:0",
+        "original": "Lack of People",
+        "translation": "人力不足",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.8.d:0",
+        "original": "In order to handle the growing number of provinces under our rule we have had to give a somewhat free hand to our provincial governors in appointing local clerks. In [state_with_problems.GetAreaName] this has resulted in a reduction of tax-paying peasants and those doing military service.\\nIt has been strongly suggested by the central government that we move to restrict those who can take up service in the administration so that we can ensure that our armies and coffers do not lack for men.",
+        "translation": "为了治理我们越来越多的省份，我们不得不给各省长官一点任命文员的自由。在[state_with_problems.GetAreaName]，这导致了纳税农民和服兵役人员的减少。\\n中央政府强烈建议我们限制在行政部门工作的人数，从而可以确保我们的军队和库房不缺少人力。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.8.a:0",
+        "original": "We need the administrators.",
+        "translation": "我们需要行政人员。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.8.b:0",
+        "original": "Let us restrict soldiers and peasants from serving in the administration.",
+        "translation": "我们要限制士兵和农民在行政部门任职。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.9.t:0",
+        "original": "Foreign Officers",
+        "translation": "外国官员",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.9.d:0",
+        "original": "It has become increasingly common for officers from other European countries to seek employment in [Root.GetName]. In some ways this could be a useful way to keep up with the development of warfare in other places. However, the price they ask is not cheap, and our own officers may feel we are disregarding their right to good positions.",
+        "translation": "来自欧洲其他国家的官员到[Root.GetName]寻求就职的情况已经越来越普遍。从某些角度来说，这可能是跟上其他地方军事发展的有效途径。但是，他们开的价格并不便宜，我们自己的官员也可能会觉得我们无视他们寻求升迁的权利。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.9.a:0",
+        "original": "Hire them.",
+        "translation": "聘用他们。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.9.b:0",
+        "original": "We have no need for foreign talent.",
+        "translation": "我们不需要外来人才。",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.10.t:0",
+        "original": "Christian Converts",
+        "translation": "基督教皈依者",
+        "stage": 5
+    },
+    {
+        "key": "russian_tsardom_events.10.d:0",
+        "original": "Sometimes the subjects of various heathen chiefs, kings or other petty rulers flee their homeland to seek refuge under our protection. These people will then often convert to Christianity and swear their allegiance to us, eager to start a new life under our benevolent rule. This is in itself a most welcome development, but our own landholders view the new-comers with some suspicion. A peasant's place is his land and his movement should be restricted as far as possible.\\nConverts of this kind have lately been flooding the [converts_moved_here.GetAreaName] area, to the great irritation of their old overlords. A group of local heathen strongmen has lodged an official protest to our representatives in the area, demanding that we give up their countrymen.",
+        "translation": "时不时地会有各类异教徒酋长、国王或其他小统治者的臣民逃离家园寻求我们的庇护。这些人经常会改信基督教，并向我们宣誓效忠，渴望在我们仁慈的统治下开始新的生活。这一发展趋势本身是极好的，但我们这里的地主对这些新来者抱有疑虑。毕竟一个农民的所属即是他的土地，他的迁移应该尽可能地受到限制。\\n这样的皈依者近来大量涌入了[converted_moved_here.GetAreaName]地区，这对他们原本的领主产生了极大的刺激。一些当地的异教徒强硬人士向我们在该地区的代理人提出了正式抗议，要求我们放弃他们改宗的同胞。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.10.a:0",
+        "original": "We will welcome our new brothers in faith!",
+        "translation": "我们衷心欢迎我们的新兄弟！",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.10.b:0",
+        "original": "Send them back to their old communities.",
+        "translation": "让他们滚回他们的旧部族里去。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.11.t:0",
+        "original": "The Governor of [corrupt_governor.GetAreaName]",
+        "translation": "[corrupt_governor.GetAreaName]的长官",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.11.d:0",
+        "original": "In many cases our local officials consider it a perk of the job to be able to siphon parts of the local taxes and tributes into their own pockets.\\nThe governor of [corrupt_governor.GetAreaName] seems to have crossed a line, however, as the local population in the area has risen in revolt due to his ill-concealed attempts to enrich himself from their hard-earned toil and sweat.",
+        "translation": "很多时候，我们的地方官员认为他们可以利用职务之便，将部分地方税收和贡品装进自己的口袋，并将这视作自己的一点“福利”。\\n然而，[corrupt_governor.GetAreaName]的长官似乎有些做过了头，该地区的民众因为他不加掩饰的中饱私囊而掀起了叛乱——毕竟那些都是他们辛劳的成果。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.11.a:0",
+        "original": "We must replace this governor at once to placate the locals.",
+        "translation": "我们应该立刻把他革职以安抚民众。",
+        "stage": 1
+    },
+    {
+        "key": "russian_tsardom_events.11.b:0",
+        "original": "We cannot tolerate such insubordination. Crush the rebels!",
+        "translation": "我们不能容忍这种反抗。粉碎叛军！",
+        "stage": 1
+    },
+    {
+        "key": "tolerated_tatar_communities:0",
+        "original": "Tolerated Tatar Communities",
+        "translation": "接纳鞑靼人部族",
+        "stage": 1
+    },
+    {
+        "key": "desc_tolerated_tatar_communities:0",
+        "original": "We have allowed the Tatar communities in this region to remain largely intact in return for their loyalty.",
+        "translation": "我们允许这一地区的鞑靼人部族保持完整以回馈他们的忠诚。",
+        "stage": 1
+    },
+    {
+        "key": "settling_russians_in_steppe:0",
+        "original": "Resettling the Steppes",
+        "translation": "移民大草原",
+        "stage": 1
+    },
+    {
+        "key": "desc_settling_russians_in_steppe:0",
+        "original": "We are resettling large numbers of peasants from our core regions in this province.",
+        "translation": "大量来自我们核心区域的农民正在被我们重新安置到这个省份。",
+        "stage": 1
+    },
+    {
+        "key": "cossack_province:0",
+        "original": "Cossack Dominance",
+        "translation": "哥萨克的支配",
+        "stage": 1
+    },
+    {
+        "key": "desc_cossack_province:0",
+        "original": "We have allowed the Cossacks a free hand in the settlement of this province.",
+        "translation": "我们已经放任不管这个省份的哥萨克定居地。",
+        "stage": 1
+    },
+    {
+        "key": "peasants_fleeing_military_service_or_taxes:1",
+        "original": "Peasants fleeing Military Service and Taxes",
+        "translation": "农民们在躲避兵役和税赋",
+        "stage": 1
+    },
+    {
+        "key": "desc_peasants_fleeing_military_service_or_taxes:1",
+        "original": "The local administration has been able to bolster its numbers due to many soldiers and serfs using a government job to escape a life of servitude.",
+        "translation": "许多士兵和农奴通过从事行政工作来逃离劳役，当地政府的雇员数量也因此获得了增长。",
+        "stage": 1
+    },
+    {
+        "key": "restrictions_on_social_mobility:0",
+        "original": "Occupational Restrictions",
+        "translation": "职业限制",
+        "stage": 1
+    },
+    {
+        "key": "desc_restrictions_on_social_mobility:0",
+        "original": "We have restricted the possibility to serve in the administration to those who have fathers already working there. This prohibits any attempts by our peasants to escape military service by enlisting in the growing bureaucracy.",
+        "translation": "我们已经限制了父辈拥有公职的人再进入行政机构的可能。这阻止了农民们通过就任公职来逃避兵役的尝试。",
+        "stage": 1
+    },
+    {
+        "key": "fugitive_christian_converts:0",
+        "original": "Fugitive Christian Converts",
+        "translation": "逃亡者改信基督教",
+        "stage": 1
+    },
+    {
+        "key": "desc_fugitive_christian_converts:0",
+        "original": "This province has received an influx of fugitives from surrounding non-Christian provinces. The fugitives have been very willing to adopt our religion and swear loyalty to our state but it has also increased tensions in the area.",
+        "translation": "这个省份已经接收了从周边非基督教省份涌入的逃亡者。逃亡者非常乐意改信基督教并宣誓对我们的忠诚，但也导致了这一地区紧张度的增长。",
+        "stage": 1
+    },
+    {
+        "key": "corrupt_governor_modifier:0",
+        "original": "Local Concessions",
+        "translation": "地方特许权",
+        "stage": 1
+    },
+    {
+        "key": "desc_corrupt_governor_modifier:0",
+        "original": "A corrupt governor has left the local population very hostile to us. We have undertaken a number of local measures to compensate them.",
+        "translation": "一名腐败的地方长官使得当地群众对我们十分仇视。我们已经承诺设立一系列的地方政策来补偿他们。",
+        "stage": 1
+    },
+    {
+        "key": "custom_yearly_harmony:1",
+        "original": "Religious Observances",
+        "translation": "宗教礼仪",
+        "stage": 1
+    },
+    {
+        "key": "custom_yearly_harmony_desc:1",
+        "original": "More so than most others, we are a people who hold strict religious observations, strengthening the harmony of our nation.",
+        "translation": "我们是一个严守宗教礼仪的民族，尤甚于他人。这巩固了我们国家的和谐度。",
+        "stage": 1
+    },
+    {
+        "key": "custom_harmonization_speed:1",
+        "original": "Integration of Communities",
+        "translation": "整合部族",
+        "stage": 1
+    },
+    {
+        "key": "custom_harmonization_speed_desc:1",
+        "original": "The tricky affair of meshing beliefs is made much easier by moving whole communities from our own heartlands into new holdings.",
+        "translation": "通过把整个部族从我们的心脏地带转移到新土地上，棘手的宗教整合问题也变得简单了。",
+        "stage": 1
+    },
+    {
+        "key": "custom_meritocracy:1",
+        "original": "Strict Examinations",
+        "translation": "严格的考试",
+        "stage": 1
+    },
+    {
+        "key": "custom_meritocracy_desc:1",
+        "original": "By holding our examinees to only the highest of standards, we ensure that the greatest of minds are those who assist our administration.",
+        "translation": "通过对考生们设定最高的标准，我们确保了让最优秀的人才供职于我们的行政系统。",
+        "stage": 1
+    },
+    {
+        "key": "custom_monarch_admin_power:1",
+        "original": "Regal Education",
+        "translation": "王室教育",
+        "stage": 1
+    },
+    {
+        "key": "custom_monarch_admin_power_desc:1",
+        "original": "Never shall a produce of our dynasty be lacking in education in matters of governance. Education for our soon-to-be monarchs shall be rigorous and omnipresent.",
+        "translation": "永远不能让王朝的后代缺少统治教育。对未来君王的教育应是严格且面面俱到的。",
+        "stage": 1
+    },
+    {
+        "key": "custom_max_absolutism:1",
+        "original": "Supreme Constitution",
+        "translation": "至高宪法",
+        "stage": 1
+    },
+    {
+        "key": "custom_max_absolutism_desc:1",
+        "original": "With it written into the very soul of our nation that our ruler is the most perfect and supreme person on the Earth, standing above all human laws and having no judge above their person, we can push further with absolute control over our lands.",
+        "translation": "写入我们民族灵魂深处的一点是，我们的统治者即是世界上最完美且至高无上的人。他屹立于所有的人界法律之上，没有谁能对他的个人进行评判。通过对国家的绝对统治，我们还能更进一步。",
+        "stage": 1
+    },
+    {
+        "key": "custom_yearly_absolutism:1",
+        "original": "Unquestionable Authority",
+        "translation": "不容置疑的权威",
+        "stage": 1
+    },
+    {
+        "key": "custom_yearly_absolutism_desc:1",
+        "original": "The concept of representation and autonomous control are like poison to our nation. Our people will all answer to the absolute will of central governance.",
+        "translation": "代议制和自治的理念对我们的国家而言就像毒药。我们全部的子民都会回应中央统治的绝对意志。",
+        "stage": 1
+    },
+    {
+        "key": "custom_administrative_efficiency:1",
+        "original": "Ruthless Administration",
+        "translation": "坚决彻底的统治",
+        "stage": 1
+    },
+    {
+        "key": "custom_administrative_efficiency_desc:1",
+        "original": "There are many checks and balances to ensure a steady flow in our administration. By ignoring most of them and making our main policy one of expansion, we can acquire more land quickly.",
+        "translation": "诸多政府部门间的制衡确保了行政管理的稳定运行。通过忽视它们中的大部分，并设定扩张性的政策为主要方针，我们可以更快的获取更多土地。",
+        "stage": 1
+    },
+    {
+        "key": "custom_institution_spread_from_true_faith:1",
+        "original": "Religious Brotherhood",
+        "translation": "宗教兄弟",
+        "stage": 1
+    },
+    {
+        "key": "custom_institution_spread_from_true_faith_desc:1",
+        "original": "Harboring a sense of trust with fellow brothers-in-faith that their word, while not always spoken with best intention, is at least true at the core, we can assist the spreading of new, beneficial ideas.",
+        "translation": "怀着对同宗信仰的兄弟们的信任，即认为他们的话语虽并不总是怀有最好的意图，但至少主体都是真实的，我们可以协助他们传播新的、有益的理念。",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_institution_spread:1",
+        "original": "Forefront of New Thought",
+        "translation": "新思想的前沿",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_institution_spread_desc:1",
+        "original": "It is so often the way that when new meets old, the old must give way. Our nation is well accustomed to embracing radical new ideas with as little turbulence as possible.",
+        "translation": "在新旧交替时总是这样，旧的必然让位于新的。我们的国家已经相当习惯于以尽可能小的动荡来拥抱激进的新理念。",
+        "stage": 1
+    },
+    {
+        "key": "custom_embracement_cost:1",
+        "original": "Thrifty Persuasion",
+        "translation": "节俭的理念",
+        "stage": 1
+    },
+    {
+        "key": "custom_embracement_cost_desc:1",
+        "original": "Convincing the populace to abandon backwards ideas and embracing the new can be an expensive affair. Ours are a people, however, who are always able to find cost-effective solutions.",
+        "translation": "说服民众放弃倒退的想法并拥抱新的事物会是一件昂贵的事情。然而，我们的民族，是总能找到最具性价比的解决方案的民族。",
+        "stage": 1
+    },
+    {
+        "key": "custom_max_states:1",
+        "original": "Expanded Governance Staff",
+        "translation": "政府职员扩编",
+        "stage": 1
+    },
+    {
+        "key": "custom_max_states_desc:1",
+        "original": "Keeping a large number of governors on our payroll, with adequate checks and balances, ensures that administrating large swathes of land comes without much burden.",
+        "translation": "保持充足制衡的情况下在工资表上保留大量官员，这确保了不需要多大负担就能管理大量土地。",
+        "stage": 1
+    },
+    {
+        "key": "custom_church_power_modifier:1",
+        "original": "State Religion Rights",
+        "translation": "国家宗教权利",
+        "stage": 1
+    },
+    {
+        "key": "custom_church_power_modifier_desc:1",
+        "original": "Certain rights and privileges are granted for the faithful to ensure that our people find strength through faith.",
+        "translation": "某些权利和特权被赐予了忠实的信徒，这能够确保我们的人民从信仰中找到力量。",
+        "stage": 1
+    },
+    {
+        "key": "custom_yearly_corruption:1",
+        "original": "Public Punishments",
+        "translation": "当众处罚",
+        "stage": 1
+    },
+    {
+        "key": "custom_yearly_corruption_desc:1",
+        "original": "Corruption is rife through man but, with public demonstrations of punishments for those found embezzling, we can tackle the worst of it.",
+        "translation": "腐败在臣属中盛行，但是通过对贪污者的公审处罚，我们能够处理掉其中最糟糕的那部分。",
+        "stage": 1
+    },
+    {
+        "key": "custom_caravan_power:1",
+        "original": "Support for Caravan Traders",
+        "translation": "支持陆上商队",
+        "stage": 1
+    },
+    {
+        "key": "custom_caravan_power_desc:1",
+        "original": "By building and maintaining our overland trade networks, our Caravan Traders will have an easier time bringing wonderful, taxable goods to our nation.",
+        "translation": "通过建设和维护我们的陆上贸易网络，我们的陆上商队将能够更轻松地带来精美的应税货物。",
+        "stage": 1
+    },
+    {
+        "key": "custom_monthly_fervor_increase:1",
+        "original": "Religious Foundations",
+        "translation": "宗教基础",
+        "stage": 1
+    },
+    {
+        "key": "custom_monthly_fervor_increase_desc:1",
+        "original": "By ensuring that Religion is at the heart of all matters for our state and our people, we can work up greater fervor to direct at matters of importance.",
+        "translation": "通过确保宗教在我们国家和人民所有事务中的核心地位，我们可以把更多的热情投入到重要事项中。",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_trade_goods_size_modifier:1",
+        "original": "Production Quotas",
+        "translation": "生产定额",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_trade_goods_size_modifier_desc:1",
+        "original": "Across our lands production sites will be expected to meet firm quotas designed to bolster our economy.",
+        "translation": "全国的生产场所都将被设定一个期望的生产额，以此来支撑我们的经济",
+        "stage": 1
+    },
+    {
+        "key": "custom_adm_tech_cost_modifier:1",
+        "original": "Foreign Talent",
+        "translation": "外国人才",
+        "stage": 1
+    },
+    {
+        "key": "custom_adm_tech_cost_modifier_desc:1",
+        "original": "Our nation has long been accepting of individuals fleeing other nations. When it turns out that these individuals are ones of talent, we are quick to employ them.",
+        "translation": "我们国家一直在接收从其他国家逃亡来的人。当这些人表现出他们在某一领域的才能时，我们会立刻雇佣他们。",
+        "stage": 1
+    },
+    {
+        "key": "custom_build_time:1",
+        "original": "Corner Cutting",
+        "translation": "投机取巧",
+        "stage": 1
+    },
+    {
+        "key": "custom_build_time_desc:1",
+        "original": "Beautiful structures are overrated. So long as our infrastructure is built quickly, aesthetics can take a back seat.",
+        "translation": "美丽的建筑被高估了。只要我们的基础设施建设的够快，审美可以退居次位。",
+        "stage": 1
+    },
+    {
+        "key": "custom_state_maintenance_modifier:1",
+        "original": "Provincial Allowances",
+        "translation": "地方津贴",
+        "stage": 1
+    },
+    {
+        "key": "custom_state_maintenance_modifier_desc:1",
+        "original": "By granting special privileges and allowances to our State Governors, we can cut back slightly on the expenses of their services.",
+        "translation": "通过给予地方官员一些特权和津贴，我们可以略微削减维持他们服务的开支。",
+        "stage": 1
+    },
+    {
+        "key": "custom_autonomy_change_time:1",
+        "original": "Flexible Rule",
+        "translation": "灵活统治",
+        "stage": 1
+    },
+    {
+        "key": "custom_autonomy_change_time_desc:1",
+        "original": "As a nation, we shall be pragmatic with how tightly we grip onto our people, judging the local situations to see if the people least governed are those best governed.",
+        "translation": "作为一个国家，我们应该更加务实地处理束缚人民的程度，从当地的情况来判断管得少跟管得好之间的关系。",
+        "stage": 1
+    },
+    {
+        "key": "custom_merc_discipline:1",
+        "original": "Recruitment Standards",
+        "translation": "征兵标准",
+        "stage": 1
+    },
+    {
+        "key": "custom_merc_discipline_desc:1",
+        "original": "When we sully ourselves dealing with men of fortune, we shall at least ensure that we contract out the most capable fighters.",
+        "translation": "当我们自甘堕落，依赖雇佣兵的效命时，我们至少应该确保我们雇用了那些最能干的战士。",
+        "stage": 1
+    },
+    {
+        "key": "custom_rival_border_fort_maintenance:1",
+        "original": "Border Communities",
+        "translation": "边疆部族",
+        "stage": 1
+    },
+    {
+        "key": "custom_rival_border_fort_maintenance_desc:1",
+        "original": "Communities on the very border of our enemies' lands can be convinced that it is in their best interests to help out financially with their own defenses.",
+        "translation": "我们可以使处于敌国边境上的部族相信，把钱花在防务上是符合他们自身利益的。",
+        "stage": 1
+    },
+    {
+        "key": "custom_siege_blockade_progress:1",
+        "original": "Tight Blockades",
+        "translation": "严密封锁",
+        "stage": 1
+    },
+    {
+        "key": "custom_siege_blockade_progress_desc:1",
+        "original": "We shall instruct our captains that no ship be spared and no supply be slipped through when we are blockading a province into submission.",
+        "translation": "我们应该指示我军的船长，在封锁一个省份逼迫其投降时，决不能放过一艘船，也不能让任何补给溜过去。",
+        "stage": 1
+    },
+    {
+        "key": "custom_cav_to_inf_ratio:1",
+        "original": "Battle Organization",
+        "translation": "作战组织",
+        "stage": 1
+    },
+    {
+        "key": "custom_cav_to_inf_ratio_desc:1",
+        "original": "We shall take lessons from the greatest cavalry armies of history to ensure that our horses' hooves echo throughout the land.",
+        "translation": "我们应从历史上最伟大的骑兵部队身上吸取经验教训，以确保我军铁蹄能够踏遍这块土地。",
+        "stage": 1
+    },
+    {
+        "key": "custom_artillery_bonus_vs_fort:1",
+        "original": "Massed Barrage",
+        "translation": "密集弹幕",
+        "stage": 1
+    },
+    {
+        "key": "custom_artillery_bonus_vs_fort_desc:1",
+        "original": "With careful placement and accuracy, we can bring down enemy fortifications faster.",
+        "translation": "通过仔细的布置和精准的投放，我们可以更快速地破坏敌军防御工事。",
+        "stage": 1
+    },
+    {
+        "key": "custom_monarch_military_power:1",
+        "original": "Legacy of Combat",
+        "translation": "战斗传统",
+        "stage": 1
+    },
+    {
+        "key": "custom_monarch_military_power_desc:1",
+        "original": "No member of our esteemed dynasty can be called an adult until they have proven their proficiency in combat. A strong military tradition keeps our family and our nation strong,",
+        "translation": "在我们备受尊敬的王朝中，从没有任何一个成员能在证明自己的战斗能力之前被称作成年人。坚定的军事传统保证了我们家族与国家的强盛。",
+        "stage": 1
+    },
+    {
+        "key": "custom_backrow_artillery_damage:1",
+        "original": "Battlefield Support",
+        "translation": "战场支援",
+        "stage": 1
+    },
+    {
+        "key": "custom_backrow_artillery_damage_desc:1",
+        "original": "With artillerymen strictly trained in how to react in the flow of battle, their effectiveness in supporting the front-line can be increased, so long as the line holds.",
+        "translation": "通过严格训练炮兵在战斗中的反应能力，对战斗前线支援的效率必然会得到提升——只要前线部队能撑住。",
+        "stage": 1
+    },
+    {
+        "key": "custom_harsh_treatment_cost:1",
+        "original": "Harsher Treatment",
+        "translation": "更严厉的处置",
+        "stage": 1
+    },
+    {
+        "key": "custom_harsh_treatment_cost_desc:1",
+        "original": "Sometimes slaughtering dissidents is not enough. Their families, homes and even villages have to be torched to really get the point across.",
+        "translation": "有时候仅仅屠杀异见者是不够的。把他们的家人、住所甚至整个村庄都一把火烧个精光，才能让这些人明白道理。",
+        "stage": 1
+    },
+    {
+        "key": "custom_fire_damage_received:1",
+        "original": "Stoicism",
+        "translation": "坚忍不拔",
+        "stage": 1
+    },
+    {
+        "key": "custom_fire_damage_received_desc:1",
+        "original": "Standing in the fire of enemy projectiles is an unpleasant affair, but we are a stoic people and can maintain composure in the harshest of situations.",
+        "translation": "面对敌军炮火与流矢飞弹不是什么易事，但我们是一个坚忍不拔的民族，能够在最严酷的情况下淡定自若。",
+        "stage": 1
+    },
+    {
+        "key": "custom_shock_damage_received:2",
+        "original": "Camaraderie",
+        "translation": "袍泽之情",
+        "stage": 1
+    },
+    {
+        "key": "custom_shock_damage_received_desc:1",
+        "original": "When the enemy comes charging, first instinct is to flee. With a strong spirit of camaraderie drilled into our army, we can ensure they do not break in the heat of battle.",
+        "translation": "在面对敌军冲锋时，人的第一反应是逃跑。而确保坚实的袍泽之情深入每个士兵的心中，可以保障他们不在激烈的战斗中崩溃。",
+        "stage": 1
+    },
+    {
+        "key": "custom_cavalry_flanking:1",
+        "original": "Tradition of the Hunt",
+        "translation": "狩猎传统",
+        "stage": 1
+    },
+    {
+        "key": "custom_cavalry_flanking_desc:1",
+        "original": "With hunting by horseback a vital skill learned in childhood for our people, applying the techniques to battle come as second nature.",
+        "translation": "骑马打猎是我族人民童年时便掌握的一项重要技能，而将这些技巧应用于战斗也是自然。",
+        "stage": 1
+    },
+    {
+        "key": "custom_shock_damage:1",
+        "original": "War Cry",
+        "translation": "战吼",
+        "stage": 1
+    },
+    {
+        "key": "custom_shock_damage_desc:1",
+        "original": "At any time in any place, our warriors are willing to charge at their opponents, letting out deafening war cries, never looking back.",
+        "translation": "无论何时何地，我们的勇士都愿伴着震耳欲聋的战吼声冲向敌人，从不回头。",
+        "stage": 1
+    },
+    {
+        "key": "custom_fire_damage:1",
+        "original": "Accuracy Training",
+        "translation": "精准训练",
+        "stage": 1
+    },
+    {
+        "key": "custom_fire_damage_desc:1",
+        "original": "By tying military training with weekly religious adherence, we can ensure a population who can hit a target from at least twenty paces.",
+        "translation": "通过将军事训练与每周的宗教活动结合起来，我们可以确保一部分人能射中至少二十步外的目标。",
+        "stage": 1
+    },
+    {
+        "key": "custom_movement_speed:1",
+        "original": "Local Expertise",
+        "translation": "本地向导",
+        "stage": 1
+    },
+    {
+        "key": "custom_movement_speed_desc:1",
+        "original": "Prudently enlisting the services of locals ensures that they can assist our armies in finding the fastest passage through lands they know best.",
+        "translation": "谨慎地招募当地人进行服务，能够确保他们在自己最熟悉的土地上为我军找到最快捷的通路。",
+        "stage": 1
+    },
+    {
+        "key": "custom_army_tradition_from_battle:1",
+        "original": "Enlisted Observers",
+        "translation": "随军观察员",
+        "stage": 1
+    },
+    {
+        "key": "custom_army_tradition_from_battle_desc:1",
+        "original": "Win or lose, there is much to learn from a battle. We shall ensure that scouts observe from afar so that we can better our battle doctrine with our findings.",
+        "translation": "战斗总能提供教训，不论胜负。我们要确保观察员从远处观察记录，以便我们能根据调查结果改进作战学说。",
+        "stage": 1
+    },
+    {
+        "key": "custom_monthly_militarized_society:1",
+        "original": "Militant Society",
+        "translation": "军事化社会",
+        "stage": 1
+    },
+    {
+        "key": "custom_monthly_militarized_society_desc:1",
+        "original": "Our military budget is the same as our state budget. Let nothing get in the way of our unparalleled military might.",
+        "translation": "我们的军费与国家财政预算相同。绝不能有任何因素阻碍我们无与伦比的军事力量。",
+        "stage": 1
+    },
+    {
+        "key": "custom_reinforce_cost_modifier:1",
+        "original": "Warrior Spirit",
+        "translation": "战士精神",
+        "stage": 1
+    },
+    {
+        "key": "custom_reinforce_cost_modifier_desc:1",
+        "original": "Our nation's young, steeped in martial tradition, are always quick to leap to the front lines to claim the glory of their forefathers.",
+        "translation": "我国青年人受着尚武精神的熏陶，他们总会迅速赶往前线以赢得先祖的荣耀。",
+        "stage": 1
+    },
+    {
+        "key": "custom_loot_amount:1",
+        "original": "Spoils of War",
+        "translation": "战利品",
+        "stage": 1
+    },
+    {
+        "key": "custom_loot_amount_desc:1",
+        "original": "It has always been the way of our people that the victor enjoys the spoils of war. Our enemies may not appreciate our plundering of their lands, but perhaps they should have tried winning.",
+        "translation": "胜者得利一直是我族人民的传统。敌人也许厌恶我们掠夺其领地之举，但他们如为胜者又何来受劫掠之忧呢？",
+        "stage": 1
+    },
+    {
+        "key": "custom_garrison_size:1",
+        "original": "To the Last Man",
+        "translation": "战至最后一人",
+        "stage": 1
+    },
+    {
+        "key": "custom_garrison_size_desc:1",
+        "original": "By ensuring that we have extra garrisoned fortifications, fighting to the last man makes things much more terrifying for our invaders.",
+        "translation": "只要确保我们拥有额外驻军的防御工事，战至最后一人的精神就能让入侵者愈发心惊胆战。",
+        "stage": 1
+    },
+    {
+        "key": "custom_land_attrition:1",
+        "original": "Terrain Resilience",
+        "translation": "地形适性",
+        "stage": 1
+    },
+    {
+        "key": "custom_land_attrition_desc:1",
+        "original": "We are no strangers to hostile terrain. Mountains, snakes, biting cold we've seen it all.",
+        "translation": "我们对险恶地形毫不陌生。山脉、毒蛇和刺骨寒冬都不是问题。",
+        "stage": 1
+    },
+    {
+        "key": "custom_mil_tech_cost_modifier:1",
+        "original": "Lessons of War",
+        "translation": "战争的教训",
+        "stage": 1
+    },
+    {
+        "key": "custom_mil_tech_cost_modifier_desc:1",
+        "original": "Enemies shall fall before us in all conflicts but we should not overlook the tactics that they use. Clever adoption of what we see in battle will help advance our military thought.",
+        "translation": "不论什么样的战斗，敌人必将被我们打倒。但他们所用的战术却不得忽视。明智地利用我们在战斗中学到的知识将会提升我们的军事思想。",
+        "stage": 1
+    },
+    {
+        "key": "custom_free_leader_pool:1",
+        "original": "Advancement Through Achievement",
+        "translation": "因功受禄",
+        "stage": 1
+    },
+    {
+        "key": "custom_free_leader_pool_desc:1",
+        "original": "It is foolish to limit ourselves in regards to military leaders. Within reason, should a man prove himself, then he can lead our armies.",
+        "translation": "在军事领导者方面有所限制是愚蠢的。如果一个人证明了自己的能力的话，让他领军就是合情合理的。",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_regiment_cost:1",
+        "original": "Service Guarantees Citizenship",
+        "translation": "服役保证公民权",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_regiment_cost_desc:1",
+        "original": "Like the Romans before us, we shall allow foreigners to prove their loyalty to the state through military service. Finding cannon fodder should thus prove easier and cheaper.",
+        "translation": "像之前的罗马人一样，我们会允许外国人通过服役来证明对国家的忠诚。此举应该会使得寻找炮灰更容易也更廉价一些。",
+        "stage": 1
+    },
+    {
+        "key": "custom_mercenary_cost:1",
+        "original": "Mercenary Contacts",
+        "translation": "佣兵联络人",
+        "stage": 1
+    },
+    {
+        "key": "custom_mercenary_cost_desc:1",
+        "original": "By keeping many contacts within the mercenary forces, we can ensure that we are preferential customers not out of the size of our payments, but our reliability.",
+        "translation": "我们可以通过在雇佣兵势力中保持数位联络人来确保佣兵们会因我们的信誉与可靠性而偏向于接受我们的合约，而不是因为金钱。",
+        "stage": 1
+    },
+    {
+        "key": "custom_recover_army_morale_speed:1",
+        "original": "The War Hautbois",
+        "translation": "军用双簧管",
+        "stage": 1
+    },
+    {
+        "key": "custom_recover_army_morale_speed_desc:1",
+        "original": "The presence of our national instrument on the battlefield has long driven up the fighting spirit of our soldiers.",
+        "translation": "长久以来，我国民族乐器在战场上激励着我军士兵的战斗意志。",
+        "stage": 1
+    },
+    {
+        "key": "custom_warscore_cost_vs_other_religion:1",
+        "original": "Religious Intolerance",
+        "translation": "宗教偏狭",
+        "stage": 1
+    },
+    {
+        "key": "custom_warscore_cost_vs_other_religion_desc:1",
+        "original": "Heretics and Heathens will forever be devils in our society. While building good foreign relations may be difficult, at least our claims in war will be more just.",
+        "translation": "在我国的社会风气中，异端与异教徒永远都是恶魔。尽管在外交方面可能会造成一些困窘，但至少我们的宣战主张会显得更公正一些。",
+        "stage": 1
+    },
+    {
+        "key": "custom_war_taxes_cost_modifier:1",
+        "original": "Wartime Austerity",
+        "translation": "战时紧缩政策",
+        "stage": 1
+    },
+    {
+        "key": "custom_war_taxes_cost_modifier_desc:1",
+        "original": "When in times of war, our nation will call upon our people to do all they can to provide and our people shall expect this.",
+        "translation": "在战时，我国将会呼吁人民尽其所能，而人民也应当如此。",
+        "stage": 1
+    },
+    {
+        "key": "custom_monarch_diplomatic_power:1",
+        "original": "Cosmopolitan Upbringing",
+        "translation": "多元化教育",
+        "stage": 1
+    },
+    {
+        "key": "custom_monarch_diplomatic_power_desc:1",
+        "original": "No ruler worth their salt cannot hold their own in a negotiation. All future rulers' upbringings shall involve education in courts both home and away to learn diplomatic nuance.",
+        "translation": "一个不能在谈判中坚持己见的统治者完全不称职。所有未来统治者的培养都应该包括本土及海外的宫廷教育以了解外交细别。",
+        "stage": 1
+    },
+    {
+        "key": "custom_liberty_desire_from_subject_development:1",
+        "original": "Foreign Projects",
+        "translation": "海外事业",
+        "stage": 1
+    },
+    {
+        "key": "custom_liberty_desire_from_subject_development_desc:1",
+        "original": "By encouraging investments in our foreign subjects' lands, we can make them ever grateful towards us, even when they grow in power themselves.",
+        "translation": "我们可以通过鼓励投资我国海外属国的土地使其更加感激我们的帮助，哪怕是在他们的实力正处于增长之时也无需多虑。",
+        "stage": 1
+    },
+    {
+        "key": "custom_reduced_liberty_desire_on_same_continent:1",
+        "original": "Military Displays",
+        "translation": "炫耀武力",
+        "stage": 1
+    },
+    {
+        "key": "custom_reduced_liberty_desire_on_same_continent_desc:1",
+        "original": "Ensuring that our nearby subjects are kept fully aware of our military prowess should ensure they know their place in the grand scheme.",
+        "translation": "确保我国邻近的属国们完全了解我国的军事实力，能够使他们知晓自己在大局中的位置。",
+        "stage": 1
+    },
+    {
+        "key": "custom_naval_tradition_from_battle:1",
+        "original": "Captured Seamen",
+        "translation": "海员俘虏",
+        "stage": 1
+    },
+    {
+        "key": "custom_naval_tradition_from_battle_desc:1",
+        "original": "When emerging victorious from battles at sea, we should make the most of the seamen we capture and learn what we can from them to advance our own naval prowess.",
+        "translation": "当赢得海战的时候，我们应该尽可能捕获敌方海员，从他们口中获得一切可以对提升我国海军能力有所帮助的知识。",
+        "stage": 1
+    },
+    {
+        "key": "custom_capture_ship_chance:1",
+        "original": "Enlisted Pirates",
+        "translation": "招募海盗",
+        "stage": 1
+    },
+    {
+        "key": "custom_capture_ship_chance_desc:1",
+        "original": "Pirates are the scourge of the seas, but should we offer captured ones our employment, they may teach us a thing or two about securing enemy vessels in battle.",
+        "translation": "海盗是海上的祸害，但我们可以试着让那些被捕的海盗加入我国海军，毕竟他们或许能帮助我们了解一些关于如何在战斗中捕获敌军舰船的方法。",
+        "stage": 1
+    },
+    {
+        "key": "custom_sunk_ship_morale_hit_recieved:1",
+        "original": "Rigorous Naval Drilling",
+        "translation": "严格的海军演练",
+        "stage": 1
+    },
+    {
+        "key": "custom_sunk_ship_morale_hit_recieved_desc:1",
+        "original": "Watching an allied ship sink below the sea can break the spirits of one's crew. With sufficient training, our sailors can put up a brave face in the harshest of situations.",
+        "translation": "目睹友军船只沉入大海能让一艘船的船员精神崩溃。经过充分的训练，我们的水手们能够勇敢地面对一切严峻状况。",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_naval_engagement_modifier:1",
+        "original": "Adaptive Naval Doctrine",
+        "translation": "因地制宜的海军学说",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_naval_engagement_modifier_desc:1",
+        "original": "We shall let no tactics at sea be unquestionable. We shall adapt to the situations and secure the advantage in any engagement.",
+        "translation": "我们不应视任何一种海战战术为无懈可击的。我们应针对不同情况进行调整以保证在所有的接敌状况下都能获得优势。",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_ship_trade_power:1",
+        "original": "Aggressive Trading Procedure",
+        "translation": "勇往直前的贸易作风",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_ship_trade_power_desc:1",
+        "original": "Timing is everything in a deal. Wait too long and the currents will be unfavorable for future trade voyages. With an edge in trade negotiations, our trade fleets will have an easier time getting from port to port.",
+        "translation": "在贸易中，时间意味着一切。等待太久会使将来的贸易航线出现不利的趋势。在贸易谈判中锋芒更厉，我国贸易船队在港口间的行动将更加轻松。",
+        "stage": 1
+    },
+    {
+        "key": "custom_native_assimilation:1",
+        "original": "Native Negotiations",
+        "translation": "与原住民谈判",
+        "stage": 1
+    },
+    {
+        "key": "custom_native_assimilation_desc:1",
+        "original": "Everyone has a price. By buying out local native Chiefs we can ensure that the natives of our new lands toil for our profit.",
+        "translation": "有钱可使磨推鬼。只要买通了当地的原住民酋长，我们就能保证新土地上的原住民为我国的利益而辛勤耕耘。",
+        "stage": 1
+    },
+    {
+        "key": "custom_native_uprising_chance:1",
+        "original": "Beads and Blankets",
+        "translation": "珠子和毯子",
+        "stage": 1
+    },
+    {
+        "key": "custom_native_uprising_chance_desc:1",
+        "original": "Fire and sword is certainly one way to take care of the native menace, but it is not the only way. Coming to the natives on friendly terms can keep them out of our way and allow us to build our settlements without interruption.",
+        "translation": "子弹与剑刃固然是解决原住民威胁的一种方法，但却并非唯一。以友好的态度结交原住民能够保证我们不受干涉地建立殖民地。",
+        "stage": 1
+    },
+    {
+        "key": "custom_reduced_liberty_desire:1",
+        "original": "Protective Agreements",
+        "translation": "安保条约",
+        "stage": 1
+    },
+    {
+        "key": "custom_reduced_liberty_desire_desc:1",
+        "original": "Not all overlords are tyrants. In our case we are simply protecting weaker states from their aggressive neighbors, and we ensure they are aware of this.",
+        "translation": "并非所有的宗主国都是暴君。我们只不过是从满心扩张的邻国手中保护弱小的国家罢了，而我们也要确保他们明白这一点。",
+        "stage": 1
+    },
+    {
+        "key": "custom_migration_cooldown:1",
+        "original": "Migratory Ways",
+        "translation": "迁徙之路",
+        "stage": 1
+    },
+    {
+        "key": "custom_migration_cooldown_desc:1",
+        "original": "Our people have always been quick to move from place to place, never settling in one place for too long.",
+        "translation": "我族人民总是频繁地迁徙于各地之间，从不在一个地方停留太久。",
+        "stage": 1
+    },
+    {
+        "key": "custom_envoy_travel_time:1",
+        "original": "Diplomatic Privilege",
+        "translation": "外交特权",
+        "stage": 1
+    },
+    {
+        "key": "custom_envoy_travel_time_desc:1",
+        "original": "We shall ensure that our diplomats always have preferential treatment when it comes to getting the fastest horses and quickest ships.",
+        "translation": "我们应保障我国外交官在需要最好的马匹和最快的船只时总会受到优待。",
+        "stage": 1
+    },
+    {
+        "key": "custom_province_warscore_cost:1",
+        "original": "Strong Negotiators",
+        "translation": "强势的谈判代表",
+        "stage": 1
+    },
+    {
+        "key": "custom_province_warscore_cost_desc:1",
+        "original": "When we have the edge in a situation and we know it, we can and will press for more.",
+        "translation": "当我们获得了优势且心知肚明时，我们就可以、也势必将会索取更多。",
+        "stage": 1
+    },
+    {
+        "key": "custom_dip_tech_cost_modifier:1",
+        "original": "Expanding Literacy",
+        "translation": "广推文字教育",
+        "stage": 1
+    },
+    {
+        "key": "custom_dip_tech_cost_modifier_desc:1",
+        "original": "If we ensure that more than just the Clergy have a passing familiarity with reading and writing, we may find that there are more people able to contribute to our technological advancements.",
+        "translation": "如果我们能确保更多具有合格的读写能力的人，而不只是局限于神职人员，或许我们能够发掘更多人才协助我国的科技发展。",
+        "stage": 1
+    },
+    {
+        "key": "custom_papal_influence:1",
+        "original": "Clerical Ties",
+        "translation": "教权纽带",
+        "stage": 1
+    },
+    {
+        "key": "custom_papal_influence_desc:1",
+        "original": "By always keeping ourselves on the right side of the clergy, we ensure that we remain in the Papacy's good graces as well.",
+        "translation": "只要我们一直站在正确的教会派系一边，就能够确保长享教廷的恩惠。",
+        "stage": 1
+    },
+    {
+        "key": "custom_auto_explore_adjacent_to_colony:1",
+        "original": "Frontier Outposts",
+        "translation": "边境前哨",
+        "stage": 1
+    },
+    {
+        "key": "custom_auto_explore_adjacent_to_colony_desc:1",
+        "original": "When settling new lands, we shall ensure that we also construct outposts at the very edge of our claims, so that we can better know what lies beyond.",
+        "translation": "当在新土地上定居时，我们必须确保在边境线上安置前哨岗位，以便了解边境之外的情况。",
+        "stage": 1
+    },
+    {
+        "key": "custom_establish_frontier_ability:1",
+        "original": "Settling the Frontier",
+        "translation": "移民边境",
+        "stage": 1
+    },
+    {
+        "key": "custom_establish_frontier_ability_desc:2",
+        "original": "The time has come to go forth and settle the open lands that lie before us.",
+        "translation": "是时候前进并定居于我们面前的无垠之地了。",
+        "stage": 1
+    },
+    {
+        "key": "custom_unjustified_demands:1",
+        "original": "Never Unjust",
+        "translation": "永远正义",
+        "stage": 1
+    },
+    {
+        "key": "custom_unjustified_demands_desc:1",
+        "original": "By ensuring that surrounding nations are kept well aware of the justness of our cause, we can ensure that we are never the tyrant at the peace table.",
+        "translation": "只要能确保周边国家清楚地明白我们行动的正义性，就能确保我们不会在和谈中被视作暴君。",
+        "stage": 1
+    },
+    {
+        "key": "custom_rebel_support_efficiency:1",
+        "original": "Support for Dissidents",
+        "translation": "支持异见者",
+        "stage": 1
+    },
+    {
+        "key": "custom_rebel_support_efficiency_desc:1",
+        "original": "We have no qualms about supplying and funding dissidents abroad to keep our enemies weakened and new emergent states in line with our way of thinking.",
+        "translation": "我们可以毫无顾忌地支持并资助境外的异见者以削弱敌国，并让新生国家赞同我们的思维方式。",
+        "stage": 1
+    },
+    {
+        "key": "custom_placed_merchant_power:1",
+        "original": "Merchant Funding",
+        "translation": "资助商人",
+        "stage": 1
+    },
+    {
+        "key": "custom_placed_merchant_power_desc:1",
+        "original": "With the proper assistance we can ensure our merchants gain an extra edge in trading home and abroad.",
+        "translation": "我们可以通过适当的协助来确保我国商人在境内外的贸易中占有额外优势。",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_own_trade_power:1",
+        "original": "New Trading Practices",
+        "translation": "新贸易方式",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_own_trade_power_desc:1",
+        "original": "With some effort, our domestic trading techniques have been refined.",
+        "translation": "通过努力，我国的贸易技术得到了改进。",
+        "stage": 1
+    },
+    {
+        "key": "custom_recover_navy_morale_speed:1",
+        "original": "Oars to Freedom",
+        "translation": "“划”向自由",
+        "stage": 1
+    },
+    {
+        "key": "custom_recover_navy_morale_speed_desc:1",
+        "original": "With a system in place ensuring that an enslaved man at sea can work his way towards emancipation we can end up with a crew who are more resilient to harsh times at sea.",
+        "translation": "确立一个合适的体系，让海上的奴工们可以通过努力工作得到解放。我们能够借此获得一群饱受历练的优秀海员。",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_foreign_trade_power:1",
+        "original": "Gunboat Diplomacy",
+        "translation": "炮舰外交",
+        "stage": 1
+    },
+    {
+        "key": "custom_global_foreign_trade_power_desc:1",
+        "original": "By backing our words with mighty naval dominance, we can ensure that our merchants are given more preferential treatment overseas.",
+        "translation": "我们可以通过强大海军带来的优势支持我国外交，使得我国商人在海外能够得到更多优待。",
+        "stage": 1
+    },
+    {
+        "key": "custom_improve_relation_modifier:1",
+        "original": "Seasoned Diplomats",
+        "translation": "饱经风雨的外交官",
+        "stage": 1
+    },
+    {
+        "key": "custom_improve_relation_modifier_desc:1",
+        "original": "Keeping around the best and brightest diplomats familiar with foreign tongues and nuance will ensure we have an easier time smoothing over any transgressions.",
+        "translation": "常备最优秀且熟稔外国语言与文化差别的外交官，能够让我国更轻松地抹平任何外交矛盾。",
+        "stage": 1
+    },
+    {
+        "key": "custom_possible_condottieri:1",
+        "original": "Mercenary Traditions",
+        "translation": "佣兵传统",
+        "stage": 1
+    },
+    {
+        "key": "custom_possible_condottieri_desc:1",
+        "original": "With prospects at home frequently unsteady, our people often turn to foreign coin. A strong mercenary tradition keeps us as a popular supplier of manpower.",
+        "translation": "由于国内前景总是不稳定，我国人民经常转而接受外国雇佣。强势的佣兵传统使我们成为一个备受欢迎的人力输出国。",
+        "stage": 1
+    },
+    {
+        "key": "custom_naval_attrition:1",
+        "original": "Supplied Ships",
+        "translation": "补给充足的舰船",
+        "stage": 1
+    },
+    {
+        "key": "custom_naval_attrition_desc:1",
+        "original": "The ship itself is not the only thing to worry about on long voyages, the crew's well-being is equally vital. Our tradition of keeping our sailors' dietary needs in check keeps our navy afloat for longer.",
+        "translation": "在远途航行中，船只本身并不是唯一一件需要担心的事情，同样重要的还有船员的生活状态。我国传统即为控制水手的饮食需求，而这一点使得我国海军续航能力高上一筹。",
+        "stage": 1
+    },
+    {
+        "key": "custom_idea_sailors_recovery_speed:1",
+        "original": "One With the Sea",
+        "translation": "海之子民",
+        "stage": 1
+    },
+    {
+        "key": "custom_idea_sailors_recovery_speed_desc:1",
+        "original": "Our people take naturally to the oceans and excel at seafaring. When our active Sailors are depleting there is no shortage of replacements ready to sail.",
+        "translation": "我国人民天生热爱海洋且擅长航海。每当我国的现役水手出现减员时，总会有强壮干练的海员准备就绪。",
+        "stage": 1
+    },
+    {
+        "key": "custom_trade_range_modifier:1",
+        "original": "Insurance Policies",
+        "translation": "保险政策",
+        "stage": 1
+    },
+    {
+        "key": "custom_trade_range_modifier_desc:1",
+        "original": "Long distance trading can be a dicey affair. By ensuring our traders can insure themselves against risks of trading, we can see to it that they reach further afield.",
+        "translation": "长途贸易是一种冒险。通过担保，我国贸易人员能够确保自身不受风险拖累。我们可以期待他们抵达更远的地方进行交易。",
+        "stage": 1
+    },
+    {
+        "key": "FIND:0",
+        "original": "Find",
+        "translation": "查找",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_concessions:0",
+        "original": "Streltsy Privileges",
+        "translation": "射击军特权",
+        "stage": 5
+    },
+    {
+        "key": "desc_streltsy_concessions:0",
+        "original": "The Streltsy have been given privileges that other parts of our armed forces lack. This is putting additional financial strain on our army administration.",
+        "translation": "射击军获得了其他武装部队没有的特权。这给我军的行政管理带来了额外的经济负担。",
+        "stage": 5
+    },
+    {
+        "key": "streltsy_angered:0",
+        "original": "Discontent Among the Streltsy",
+        "translation": "射击军普遍不满",
+        "stage": 5
+    },
+    {
+        "key": "desc_streltsy_angered:0",
+        "original": "We have refused the Streltsy the right to return home while also denying them privileges to support their families there. This has left them feeling unhappy and left them open to the subversive elements in our country.",
+        "translation": "我们否决了射击军回家探亲的权利，又驳回了维持其家庭生计的特权。这使得他们愈发不满并逐渐倾向于国内的颠覆分子。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_revolted:0",
+        "original": "Streltsy Revolted",
+        "translation": "射击军叛乱",
+        "stage": 1
+    },
+    {
+        "key": "desc_streltsy_revolted:0",
+        "original": "The discontent among the Streltsy have revolted and left their ranks, leaving an army purged of subversive elements.",
+        "translation": "射击军中的不满者已然离队并发动叛乱，使得射击军本身再无任何不稳定要素。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_inspection:0",
+        "original": "Streltsy Inspections",
+        "translation": "检阅射击军",
+        "stage": 1
+    },
+    {
+        "key": "desc_streltsy_inspection:0",
+        "original": "We have increased funding for the regular inspections and replacement of equipment for the Streltsy.",
+        "translation": "我们增加了对射击军进行定期检阅及装备替换所用的资金。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_garrison:0",
+        "original": "Strengthened Garrisons",
+        "translation": "增强驻军",
+        "stage": 1
+    },
+    {
+        "key": "desc_streltsy_garrison:0",
+        "original": "Our recruitment of Streltsy has allowed us to offer an attractive means of employment for subjects all around our country. Often this means that our local fortresses can be better staffed and equipped, making our country better defended than ever before.",
+        "translation": "招募射击军之举使得我们为全国的臣民提供了一个令人满意的职位。这意味着各地的要塞能够更好地进行人员配置，使得我国整体的防卫大幅加强。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.1.t:0",
+        "original": "Streltsy Protests",
+        "translation": "射击军提出抗议",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.1.d:0",
+        "original": "Our prolonged wars have left the Streltsy troops weary. As lifelong soldiers they have families and businesses at home that they attend in peacetime and long wars make it hard for them to maintain this life. A delegation of Streltsy soldiers arrived today in [Root.Capital.GetCapitalName] asking to be allowed to return to their homes or to be compensated with higher pay.",
+        "translation": "我国长久不断的战争使得射击军各部疲惫不堪。作为终身制的士兵，他们有家庭，家中还有在和平时期要关照的生意，但持久往复的战争使得他们的生活难以维持下去。射击军士兵的代表团今天抵达了[Root.Capital.GetCapitalName]并请求获许返回家乡，或者以更高的工资作为补偿。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.1.a:0",
+        "original": "We can make some concessions.",
+        "translation": "我们可以做出一些让步。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.1.b:0",
+        "original": "They must return to their regiments or face desertion charges!",
+        "translation": "让他们回到自己的兵团里去，不然就等着被指控为逃兵吧！",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.1.b.tt:0",
+        "original": "This may provoke a Streltsy revolt.\\nChances of a revolt will increase if you have War Exhaustion.",
+        "translation": "这可能会激起射击军的叛乱。\\n叛乱的可能性会因厌战度而提升。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.1.c:0",
+        "original": "Let us execute them for deserting their posts!",
+        "translation": "把这些离开岗位的逃兵处决了！",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.1.c.tt:0",
+        "original": "This will provoke a Streltsy revolt. The size of the revolt will depend on how many Streltsy you currently employ.",
+        "translation": "这会激起射击军的叛乱。叛乱规模取决于你当前雇佣的射击军数量。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.2.t:0",
+        "original": "Streltsy Revolt",
+        "translation": "射击军叛乱",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.2.d:0",
+        "original": "We have received word from [streltsy_revolt.GetName] that an increasing number of Streltsy are amassing in the area. They have deposed their captains and elected new leaders. Unhappy with our treatment of them and their families they are now marching on [Root.Capital.GetCapitalName] to punish the Boyars and install a new ruler on the throne.",
+        "translation": "我们得到了关于[streltsy_revolt.GetName]的情报，越来越多的射击军士兵正聚集于该区域。他们罢免了原来的各级长官并重新选举了新领导。他们不满于对我们对待其家庭及其自身的待遇，正朝着[Root.Capital.GetCapitalName]推进，意图惩罚波雅尔们并推举一位新的统治者。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.2.a:0",
+        "original": "Death to all deserters and traitors!",
+        "translation": "逃兵和叛徒都该死！",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.3.t:0",
+        "original": "The Daily Life of the Streltsy",
+        "translation": "射击军的日常",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.3.d:0",
+        "original": "While being a Strelets means devoting your life to serve the [Root.GovernmentName] it does not necessarily mean you have an occupation you can live on in times of peace. Many of our Streltsy have settled in or around [Root.Capital.GetCapitalName] and lead normal lives as shopkeepers, craftsmen or other less martial occupations on the side. While they do get a certain salary for being at our disposal this is by no means enough to support a family and the state has often tolerated and even encouraged the soldiers to have alternate means of income.\\nSome fear, however, that our Streltsy are forgetting what it is to be a soldier, and that they lack interest in keeping their equipment up to date or in good shape.",
+        "translation": "成为一名射击军意味着你将全身心地为[Root.GovernmentName]服务，但这并不代表你就会有一份在和平时期可以糊口的工作。许多射击军士兵在[Root.Capital.GetCapitalName]及其附近定居并同时以商店店主、工匠或其他与军旅没什么关系的兼职正常生活着。尽管他们确实从我们这里获得了一定的收入，但这绝不足以支撑他们的家庭生活。国家也时常默许、甚至鼓励士兵以其他职业作为收入渠道自力更生。\\n然而，有些人担心我们的射击军会忘记作为一名士兵的使命，而这也同样可能会导致他们不再关心装备的维护或其是否落后。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.3.a:0",
+        "original": "Divert funds to train the Streltsy.",
+        "translation": "转投资金用于训练射击军。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.3.b:0",
+        "original": "There is no need to be alarmed.",
+        "translation": "没必要这么紧张。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.4.t:0",
+        "original": "Inspecting the Streltsy",
+        "translation": "检阅射击军",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.4.d:0",
+        "original": "While the Streltsy are expected to maintain much of their equipment themselves they cannot be expected to keep up with the developments in firearm technology. As the years go by many of their weapons grow evermore outdated, and in some cases worn and inefficient. Regular inspections are supposed to allow us to keep up to date with the training and equipment of all our Streltsy but it is no secret these are quite costly.",
+        "translation": "尽管射击军士兵被要求自己整备装备，但我们不能期待于他们跟上火器技术的发展。随着时间推移，射击军的许多装备都越来越过时，有些磨损严重甚至无法继续使用。定期检阅射击军应该能使其获得合适的装备与训练，但这绝对消耗颇丰。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.4.a:0",
+        "original": "It is time we invest in better equipment and renewed inspections.",
+        "translation": "是时候投资于更好的装备并重新开始检阅射击军了。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.4.b:0",
+        "original": "There is no reason to waste government funds yet.",
+        "translation": "没必要浪费政府的资金。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.5.t:0",
+        "original": "Well Staffed Garrisons",
+        "translation": "人员充足的驻军",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.5.d:0",
+        "original": "A Strelets is offered a plot of land and the promise of a salary in exchange for a lifelong service to the state. Often his position will then be inherited by his son and so the state is assured well armed and motivated soldiers for long times to come. All over our country this type of employment has made men seek our service, and while not everyone can join in offensive warfare, many make a welcome addition to the garrisons of our border fortresses.",
+        "translation": "一名射击军成员会获得一小片土地和稳定的工资以换取其投身于对国家的终身服务。他的身份通常会由其子继承，因而使得国家能够长久拥有一群装备精良且斗志高昂的士兵。全国上下都有不少人希望加入射击军。虽说不是每个人都能参与进攻战役，但还是有不少人成为了边防要塞驻军里优秀的一份子。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.5.a:0",
+        "original": "Excellent.",
+        "translation": "很好。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.6.t:0",
+        "original": "Expanding the Prikaz",
+        "translation": "扩编衙门",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.6.d:0",
+        "original": "In the Streltsy the state has acquired a reliable source of professional infantry. In order to administrate their permanent service the state needs to keep an efficient bureaucracy. If we expanded the Streletsy Prikaz we could more quickly and efficiently organize, train and provision larger numbers of Streltsy. Some would caution that there is a cost to emphasizing speed, however.",
+        "translation": "通过射击军制度，国家已经获得了稳定的职业步兵兵源。为了管理好永久服役的射击军成员，国家还需要维持一套高效的官僚系统。如果我们拓展射击军衙门，我们应该能够更快且更高效地组织、训练并维持更多的射击军。不过也有人指出，若想获得高效，要付出的代价可不低。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.6.a:0",
+        "original": "Let us increase our efforts.",
+        "translation": "我们要更加努力。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.6.b:0",
+        "original": "We must increase spending.",
+        "translation": "我们必须增加投入。",
+        "stage": 1
+    },
+    {
+        "key": "streltsy_events.6.c:0",
+        "original": "There is no need for this right now.",
+        "translation": "现在还没必要。",
+        "stage": 1
+    },
+    {
+        "key": "orthodox_cathedral:0",
+        "original": "Renovated Cathedral",
+        "translation": "翻修大教堂",
+        "stage": 1
+    },
+    {
+        "key": "desc_orthodox_cathedral:0",
+        "original": "We are paying for the restoration and renovation of a local Cathedral, winning us the good will of the population.",
+        "translation": "我们正投资于一个当地大教堂的复原和翻修工作，此举无疑将获得当地人的好感。",
+        "stage": 1
+    },
+    {
+        "key": "took_land_from_monastics:0",
+        "original": "Conflict over Land",
+        "translation": "土地争端",
+        "stage": 1
+    },
+    {
+        "key": "desc_took_land_from_monastics:0",
+        "original": "There has been a conflict over where our estates begin and those of a local monastery end. In the end we made sure our interpretation won but this has won us few favors locally and has made the whole area harder to develop for the foreseeable future.",
+        "translation": "近期，关于我们与一座当地修道院之间的地属问题出现了争端。尽管最终我们赢得了纷争，这次胜利却招致了当地人对我们的反感，而该地的发展在可预见的未来会变得更加艰难。",
+        "stage": 1
+    },
+    {
+        "key": "rooting_out_heresy:0",
+        "original": "Supporting Local Inquisition",
+        "translation": "支持地方宗教审判",
+        "stage": 1
+    },
+    {
+        "key": "desc_rooting_out_heresy:0",
+        "original": "This state is undergoing an inquisition led by its Metropolitan in order to ensure religious conformance and the rooting out of all heresy.",
+        "translation": "这一地区正经历一项由都主教领导进行的宗教审判，旨在确保宗教一致性并根除一切异端。",
+        "stage": 1
+    },
+    {
+        "key": "saints_enforced:0",
+        "original": "Religious Conformance",
+        "translation": "宗教统一",
+        "stage": 1
+    },
+    {
+        "key": "desc_saints_enforced:0",
+        "original": "We have forced the population in this state to adhere to our own religious customs at the cost of them highly resenting our rule. Over time it will, however, allow us to better integrate them into our society.",
+        "translation": "我们已经迫使此地人民遵守我们的宗教习俗，结果导致他们极度厌恶我们的统治。不过，随着时间流逝，这将使他们更好地融入我国社会。",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.1.t:0",
+        "original": "The Saints of [local_saint_state_province.GetAreaName]",
+        "translation": " [local_saint_state_province.GetAreaName]的圣人",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.1.d:0",
+        "original": "There is great uncertainty in the see of [local_saint_state_province.GetAreaName]. While we are united in faith the people of the state, including many of the local priests, are refusing to participate in the feasts and celebrations of saints that are customary within our borders. They claim that these are not canonical and that they will observe the religious customs of their own ancestors, including the veneration of a number of suspect saints from the area.",
+        "translation": "我们对[local_saint_state_province.GetAreaName]的看法有着很大争议。尽管我们的宗教已经统一，但此地人民与许多牧师却拒绝参加我国习俗中圣人的节日与祭典。他们宣称这不合教会规矩，并准备遵守他们自己祖先的宗教传统，包括崇拜一些当地的可疑圣人。",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.1.a:0",
+        "original": "We must enforce the [Root.GetAdjective] saints and feasts.",
+        "translation": "我们必须坚持[Root.GetAdjective]圣人及节日。",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.1.b:0",
+        "original": "There is little to be gained on insisting.",
+        "translation": "固执己见没什么好处。",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.2.t:0",
+        "original": "Liturgical Influence",
+        "translation": "圣礼的影响",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.2.d:0",
+        "original": "The bishop of [local_see_province.GetAreaName] has objected to [Root.Monarch.GetName] and the aggrandizing way [Root.Monarch.GetSheHe] conducted the consecration of a Cathedral in [local_see_province.GetCapitalName]. While he insists he is not ungrateful for the great donations we have given to the Church the Bishop is questioning the use of breaking the liturgical canon to further the interests of the [Root.GovernmentName].",
+        "translation": "[local_see_province.GetAreaName]的主教抗议了[Root.Monarch.GetName]和[Root.Monarch.GetSheHe]为[local_see_province.GetCapitalName]的一座大教堂举行的夸张的成圣仪式。在坚持此举并非是对庞大的捐赠不满的同时，该主教也在质疑通过破坏圣礼仪式来扩大[Root.GovernmentName]利益的做法。",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.2.a:0",
+        "original": "He must learn his place!",
+        "translation": "他必须了解自己的位置！",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.2.b:0",
+        "original": "We will make a further donation to the church to show our humility.",
+        "translation": "我们将再次向教会捐款以表谦卑。",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.3.t:0",
+        "original": "A Cathedral for [local_see_province.GetName]",
+        "translation": "为[local_see_province.GetName]修建大教堂",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.3.d:0",
+        "original": "The Cathedral of [local_see_province.GetName] has been damaged and is in urgent need of repair. The Metropolitan has let it be known that he expects us to help fund the repairs and that a general redecoration would also be quite beneficial for the church.\\nPious architecture has seen great development since this house of worship was first built and it could certainly benefit from us bringing in foreign experts...",
+        "translation": "[local_see_province.GetName]的大教堂已经损坏且急需修理。都主教已经表示称他希望我们资助教堂的修复工作，而一次整体的重新装修对教堂而言也是极好的。\\n自这个礼拜堂最早建成以来，宗教建筑已有了极大的发展；而我们引进的外国专家也肯定会对此有所帮助……",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.3.a:0",
+        "original": "Let us give it a worthy renovation!",
+        "translation": "我们要好好修一下！",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.3.b:0",
+        "original": "We can repair the damages but no more.",
+        "translation": "我们会修复损坏的地方，但仅此而已。",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.4.t:0",
+        "original": "Heresy in [judaizers_province.GetAreaName]!",
+        "translation": "在[judaizers_province.GetAreaName]出现异端！",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.4.d:0",
+        "original": "Our newly appointed Metropolitan of [judaizers_province.GetAreaName] has uncovered a horrifying local heresy. He claims that the sect is denouncing the Trinity, the divinity of Christ and the ecclesiastical hierarchy. The Metropolitan has asked us to help him in this time of need as he will require many more resources to root out this heresy which is widespread among high as well as low.\\nThe case seems very clear. Except it seems the sect has some supporters even in [Root.Capital.GetCapitalName]. Can we really afford to lose the support of these men and women and are they really as heretic as the Metropolitan claims?",
+        "translation": "我们新任命的[judaizers_province.GetAreaName]都主教揭发了一起严重的地方异端崇拜。他宣称这个教派抨击三位一体、基督的神性和教会圣统制。都主教要求我们在这一要紧时期协助他，因为他要安排更多的资源来消除这一遍布社会各阶层的异端。\\n事态已经明了。不过看来该教派甚至在[Root.Capital.GetCapitalName]都有一些支持者。我们真的能承受失去这些男男女女的支持吗？他们真的是如都主教宣称的那样的异端吗？",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.4.a:0",
+        "original": "Heretics must burn!",
+        "translation": "烧死所有异端！",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.4.b:0",
+        "original": "Clearly he is mistaken.",
+        "translation": "显然他弄错了。",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.5.t:0",
+        "original": "Monasteries flourish in [monastic_province.GetName]",
+        "translation": "修道院在[monastic_province.GetName]蓬勃发展",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.5.d:0",
+        "original": "The Bishop of [monastic_province.GetAreaName] reports that the local monastic communities are growing at an unprecedented speed. The Estates of a local monastery in [monastic_province.GetCapitalName] have in fact grown so big and are so well kept that they have become the envy of our local administrator. The governor has become entangled in a conflict with the Monks over where exactly the demarcation between their lands and those of the [Root.GovernmentName] goes.\\nThe time has come for central authorities to step in and settle the dispute. Helping the monastery would undoubtedly secure their gratitude, but this could also be an opportunity to get hold of more land for the state...",
+        "translation": "[monastic_province.GetAreaName]的主教报告说当地的修道院社区正以前所未有的速度发展着。实际上，[monastic_province.GetCapitalName]的一座地方修道院的属地已经发展得如此庞大且井井有条，甚至连地方行政人员都感到眼红。而当地长官则卷入了与僧侣们的冲突，争论修道院与[Root.GovernmentName]的土地边界该如何划定。\\n是时候由中央政府出手解决问题了。选择帮助修道院无疑能够确保他们感激中央，但这也是个能够让国家拥有更多土地的机会……",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.5.a:0",
+        "original": "Clearly our governor is right!",
+        "translation": "显然地方长官是对的！",
+        "stage": 1
+    },
+    {
+        "key": "patriarch_events.5.b:0",
+        "original": "We must listen to these men of God.",
+        "translation": "我们必须听从于这些上帝的臣仆。",
+        "stage": 1
+    },
+    {
+        "key": "veche_republic_legacy:0",
+        "original": "Veche Republic",
+        "translation": "卫彻共和国",
+        "stage": 5
+    },
+    {
+        "key": "veche_republic_legacy_desc:0",
+        "original": "This state is governed by a Veche, a council with the highest legislative and judicial authority consisting of Boyars, Merchants and even commoners.",
+        "translation": "这个国家由卫彻，即市政议会掌权，这一机构拥有着至高的立法与司法权威，成员包括了波雅尔、商人乃至平民。",
+        "stage": 1
+    }
+]

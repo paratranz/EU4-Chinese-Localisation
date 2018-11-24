@@ -1,0 +1,386 @@
+[
+    {
+        "key": "vassal_title:0",
+        "original": "Vassal",
+        "translation": "附庸国",
+        "stage": 5
+    },
+    {
+        "key": "march_title:0",
+        "original": "March",
+        "translation": "卫戍国",
+        "stage": 5
+    },
+    {
+        "key": "client_vassal_title:0",
+        "original": "Client State",
+        "translation": "自建附庸国",
+        "stage": 5
+    },
+    {
+        "key": "client_march_title:0",
+        "original": "Client State March",
+        "translation": "自建卫戍国",
+        "stage": 5
+    },
+    {
+        "key": "personal_union_title:0",
+        "original": "Junior Partner",
+        "translation": "被联统国",
+        "stage": 5
+    },
+    {
+        "key": "protectorate_title:0",
+        "original": "Protectorate",
+        "translation": "保护国",
+        "stage": 5
+    },
+    {
+        "key": "colony_title:0",
+        "original": "Colony",
+        "translation": "殖民地",
+        "stage": 5
+    },
+    {
+        "key": "daimyo_vassal_title:0",
+        "original": "Daimyo",
+        "translation": "大名",
+        "stage": 5
+    },
+    {
+        "key": "vassal_title_plural:0",
+        "original": "Vassals",
+        "translation": "附庸国",
+        "stage": 5
+    },
+    {
+        "key": "march_title_plural:0",
+        "original": "Marches",
+        "translation": "卫戍国",
+        "stage": 5
+    },
+    {
+        "key": "client_vassal_title_plural:0",
+        "original": "Client States",
+        "translation": "自建附庸国",
+        "stage": 5
+    },
+    {
+        "key": "client_march_title_plural:0",
+        "original": "Client State Marches",
+        "translation": "自建卫戍国",
+        "stage": 5
+    },
+    {
+        "key": "personal_union_title_plural:0",
+        "original": "Junior Partners",
+        "translation": "被联统国",
+        "stage": 5
+    },
+    {
+        "key": "protectorate_title_plural:0",
+        "original": "Protectorates",
+        "translation": "保护国",
+        "stage": 5
+    },
+    {
+        "key": "colony_title_plural:0",
+        "original": "Colonies",
+        "translation": "殖民地",
+        "stage": 5
+    },
+    {
+        "key": "daimyo_vassal_title_plural:0",
+        "original": "Daimyos",
+        "translation": "大名",
+        "stage": 5
+    },
+    {
+        "key": "vassal_long_desc:0",
+        "original": "A Vassal must follow their overlord to war, cannot make certain diplomatic actions and will pay a fraction of his income to his overlord.",
+        "translation": "一个附庸国必须跟随它们的宗主国加入战争，不能采取特定的外交行动，并且要上交它们收入的一定比例给其宗主国。",
+        "stage": 5
+    },
+    {
+        "key": "march_long_desc:0",
+        "original": "A March is a Vassal that cannot be annexed and does not pay any taxes, but has greater military capacity than a regular Vassal.",
+        "translation": "一个卫戍国是一个不能被吞并的附庸，并且不上缴任何贡税，但比常规的附庸国有更为强大的军事能力。",
+        "stage": 5
+    },
+    {
+        "key": "client_vassal_long_desc:0",
+        "original": "Like a regular Vassal, a Client State must follow their overlord to war, cannot make certain diplomatic actions and will pay a fraction of his income to his overlord.",
+        "translation": "和常规的附庸国一样，自建附庸必须跟随它们的宗主国加入战争，不能采取特定的外交行动，并且要上交它们收入的一定比例给其宗主国。",
+        "stage": 5
+    },
+    {
+        "key": "daimyo_vassal_long_desc:0",
+        "original": "A Daimyo subjet must follow their overlord to war, cannot make certain diplomatic actions and will pay a fraction of his income to his overlord. Daimyo subjects can also fight each other.",
+        "translation": "大名属国必须加入战争与宗主国共同作战，不能采取某些外交行动，还要将收入的一部分上供给宗主国。大名属国之间可以相互宣战。",
+        "stage": 5
+    },
+    {
+        "key": "client_march_long_desc:0",
+        "original": "Like a regular March, a Client State March cannot be annexed and does not pay any taxes, but has greater military capacity than a regular Vassal.",
+        "translation": "和常规的卫戍国一样，一个自建卫戍国是一个不能被吞并的附庸，并且不上缴任何贡税，但比常规的附庸国有更为强大的军事能力。",
+        "stage": 5
+    },
+    {
+        "key": "colony_long_desc:0",
+        "original": "A colony is a separate colonial state under the rule of their overlord. Colonies are required to pay a monthly tariff to their overlord and will submit $TRADE|0%$ amount of their trade power. Colonies can only declare war on primitives or other colonies.",
+        "translation": "一个殖民地是一个单独的殖民地国家，处于其宗主国辖制之下。殖民领需要每月支付关税给它们的宗主国，并上交他们 $TRADE|0%$数额的贸易竞争力。殖民领只能向原始国家或其它殖民领开战。",
+        "stage": 5
+    },
+    {
+        "key": "protectorate_long_desc:0",
+        "original": "A Protectorate will provide half of its trade power to the overlord, while the overlord protects it.",
+        "translation": "一个保护国将会提供其一半的贸易竞争力给它们的宗主国，同时宗主国将保护它们。",
+        "stage": 5
+    },
+    {
+        "key": "personal_union_long_desc:0",
+        "original": "In a personal union two countries are ruled by the same monarch. The lesser partner must follow his overlord to war and cannot make certain diplomatic actions. When the monarch dies the union might either continue, break or the lesser partner can get inherited and annexed.",
+        "translation": "在一个联合统治中，两个国家被同一个君主所统治。被联统国必须跟随他们的宗主国参与作战，且不能采取特定的外交行动。当君主死亡时，联合统治可能会延续、破裂，或者被联统国被继承或吞并。",
+        "stage": 5
+    },
+    {
+        "key": "vassal_is_our:0",
+        "original": "$NAME|Y$ is our Vassal.",
+        "translation": "$NAME|Y$是我们的附庸国。",
+        "stage": 5
+    },
+    {
+        "key": "march_is_our:0",
+        "original": "$NAME|Y$ is our March.",
+        "translation": "$NAME|Y$是我们的卫戍国。",
+        "stage": 5
+    },
+    {
+        "key": "client_vassal_is_our:0",
+        "original": "$NAME|Y$ is our Client State.",
+        "translation": "$NAME|Y$是我们的自定义附庸。",
+        "stage": 1
+    },
+    {
+        "key": "client_march_is_our:0",
+        "original": "$NAME|Y$ is our Client State March.",
+        "translation": "$NAME|Y$是我们的自建卫戍国。",
+        "stage": 5
+    },
+    {
+        "key": "personal_union_is_our:0",
+        "original": "$NAME|Y$ is ruled by us in a Personal Union.",
+        "translation": "$NAME|Y$在一个联合统治中被我们所统治。",
+        "stage": 5
+    },
+    {
+        "key": "protectorate_is_our:0",
+        "original": "$NAME|Y$ is our Protectorate.",
+        "translation": "$NAME|Y$是我们的保护国。",
+        "stage": 5
+    },
+    {
+        "key": "colony_is_our:0",
+        "original": "$NAME|Y$ is our Colony.",
+        "translation": "$NAME|Y$是我们的殖民领。",
+        "stage": 5
+    },
+    {
+        "key": "daimyo_vassal_is_our:0",
+        "original": "$NAME|Y$ is our Daimyo Vassal.",
+        "translation": "$NAME|Y$是我们的大名属国。",
+        "stage": 5
+    },
+    {
+        "key": "IS_OUR_OVERLORD:0",
+        "original": "$NAME|Y$ is our Overlord.",
+        "translation": "$NAME|Y$是我们的宗主国。",
+        "stage": 5
+    },
+    {
+        "key": "colony_cant_fight:1",
+        "original": "As a $SUBJECTTYPE$, you can only declare war on other Colonies and on neighboring Primitives or Infidels.",
+        "translation": "作为一个 $SUBJECTTYPE$，你只能对其它殖民地国家或相邻的原始国家和异教国家宣战。",
+        "stage": 5
+    },
+    {
+        "key": "subject_cant_fight:0",
+        "original": "$SUBJECTTYPES$ can't fight their own wars.",
+        "translation": "$SUBJECTTYPES$不能自己宣布战争。",
+        "stage": 5
+    },
+    {
+        "key": "subject_cant_rival:0",
+        "original": "$SUBJECTTYPES$ can't pick Rivals.",
+        "translation": "$SUBJECTTYPES$ 不能选择宿敌。",
+        "stage": 1
+    },
+    {
+        "key": "subject_cant_ally:0",
+        "original": "$SUBJECTTYPES$ can't make Alliances.",
+        "translation": "$SUBJECTTYPES$ 不能结盟。",
+        "stage": 5
+    },
+    {
+        "key": "subject_cant_marry:0",
+        "original": "$SUBJECTTYPES$ can't make Royal Marriages.",
+        "translation": "$SUBJECTTYPES$ 不能缔结王室联姻。",
+        "stage": 5
+    },
+    {
+        "key": "subject_only_fight_same_overlord:0",
+        "original": "As a $MYSUBJECTTYPE$, we may only fight $THEIRSUBJECTTYPES$ under the same overlord",
+        "translation": "作为一个$MYSUBJECTTYPE$，我们只能向同一宗主国下的 $THEIRSUBJECTTYPES$开战。",
+        "stage": 5
+    },
+    {
+        "key": "subject_only_fight_other_overlord:0",
+        "original": "As a $MYSUBJECTTYPE$, we may only fight $THEIRSUBJECTTYPES$ under a different overlord",
+        "translation": "作为一个$MYSUBJECTTYPE$，我们只能向不同宗主国下的 $THEIRSUBJECTTYPES$开战。",
+        "stage": 5
+    },
+    {
+        "key": "subject_only_rival_same_overlord:0",
+        "original": "As a $MYSUBJECTTYPE$, we may only rival $THEIRSUBJECTTYPES$ under the same overlord",
+        "translation": "作为一个$MYSUBJECTTYPE$，我们只能宣布同一宗主国下的 $THEIRSUBJECTTYPES$为宿敌。",
+        "stage": 1
+    },
+    {
+        "key": "subject_only_rival_other_overlord:0",
+        "original": "As a $MYSUBJECTTYPE$, we may only rival $THEIRSUBJECTTYPES$ under a different overlord",
+        "translation": "作为一个$MYSUBJECTTYPE$，我们只能宣布不同宗主国下的 $THEIRSUBJECTTYPES$为宿敌。",
+        "stage": 1
+    },
+    {
+        "key": "subject_only_ally_same_overlord:0",
+        "original": "As a $MYSUBJECTTYPE$, we may only ally $THEIRSUBJECTTYPES$ under the same overlord",
+        "translation": "作为一个$MYSUBJECTTYPE$，我们只能与同一宗主国下的 $THEIRSUBJECTTYPES$结盟。",
+        "stage": 5
+    },
+    {
+        "key": "subject_only_ally_other_overlord:0",
+        "original": "As a $MYSUBJECTTYPE$, we may only ally $THEIRSUBJECTTYPES$ under a different overlord",
+        "translation": "作为一个$MYSUBJECTTYPE$，我们只能与不同宗主国下的 $THEIRSUBJECTTYPES$结盟。",
+        "stage": 5
+    },
+    {
+        "key": "subject_only_marry_same_overlord:0",
+        "original": "As a $MYSUBJECTTYPE$, we may only marry $THEIRSUBJECTTYPES$ under the same overlord",
+        "translation": "作为一个$MYSUBJECTTYPE$，我们只能与同一宗主国下的 $THEIRSUBJECTTYPES$缔结王室联姻。",
+        "stage": 5
+    },
+    {
+        "key": "subject_only_marry_other_overlord:0",
+        "original": "As a $MYSUBJECTTYPE$, we may only marry $THEIRSUBJECTTYPES$ under a different overlord",
+        "translation": "作为一个$MYSUBJECTTYPE$，我们只能与不同宗主国下的 $THEIRSUBJECTTYPES$缔结王室联姻。",
+        "stage": 5
+    },
+    {
+        "key": "personal_union_no_overlord_dow:0",
+        "original": "You cannot declare war on a country with which you have a Union.",
+        "translation": "你不能向与你同处一个联合统治中的国家宣战。",
+        "stage": 5
+    },
+    {
+        "key": "colony_no_overlord_dow:0",
+        "original": "You can't declare war on your colonies.",
+        "translation": "你不能向你的殖民领宣战。",
+        "stage": 5
+    },
+    {
+        "key": "protectorate_no_overlord_dow:0",
+        "original": "You can't declare war on your protectorates.",
+        "translation": "你不能向你的保护国宣战。",
+        "stage": 5
+    },
+    {
+        "key": "relation_fight:0",
+        "original": "declare war on",
+        "translation": "宣布开战，对方是",
+        "stage": 5
+    },
+    {
+        "key": "relation_rival:0",
+        "original": "rival",
+        "translation": "宿敌",
+        "stage": 1
+    },
+    {
+        "key": "relation_ally:0",
+        "original": "ally",
+        "translation": "盟友",
+        "stage": 5
+    },
+    {
+        "key": "relation_marry:0",
+        "original": "have a Royal Marriage with",
+        "translation": "有一个王室联姻，缔结相对方是",
+        "stage": 5
+    },
+    {
+        "key": "THEIR_SUBJECT_TYPE_NO_ALLOW:0",
+        "original": "They are a $SUBJECTTYPE$.",
+        "translation": "他们是$SUBJECTTYPE$。",
+        "stage": 5
+    },
+    {
+        "key": "tributary_state:0",
+        "original": "Tributary State",
+        "translation": "朝贡国",
+        "stage": 5
+    },
+    {
+        "key": "tributary_state_title:0",
+        "original": "Tributary State",
+        "translation": "朝贡国",
+        "stage": 5
+    },
+    {
+        "key": "tributary_state_title_plural:0",
+        "original": "Tributary States",
+        "translation": "朝贡国",
+        "stage": 5
+    },
+    {
+        "key": "tributary_state_is_our:0",
+        "original": "§Y$NAME$§! is our Tributary State.",
+        "translation": "§Y$NAME$§!是我们的朝贡国。",
+        "stage": 5
+    },
+    {
+        "key": "tributary_state_long_desc:1",
+        "original": "A Tributary State must pay an annual Tribute to their Overlord in exchange for protection from independent nations' wars.  Tributary States do not follow their Overlord into war and are free to conduct their own diplomacy.",
+        "translation": "一个朝贡国必须每年进贡给他们的宗主国，以换取在该国自力参加的战争中的保护。朝贡国不跟随其宗主国加入战争，并且能够自由地采取它们自己的外交行动。",
+        "stage": 5
+    },
+    {
+        "key": "dummy:0",
+        "original": "Dummy",
+        "translation": "傀儡",
+        "stage": 5
+    },
+    {
+        "key": "dummy_title:0",
+        "original": "Dummy",
+        "translation": "傀儡",
+        "stage": 5
+    },
+    {
+        "key": "dummy_title_plural:0",
+        "original": "Dummies",
+        "translation": "傀儡",
+        "stage": 5
+    },
+    {
+        "key": "dummy_is_our:0",
+        "original": "§Y$NAME$§! is our Dummy.",
+        "translation": "§Y$NAME$§!是我们的傀儡。",
+        "stage": 5
+    },
+    {
+        "key": "dummy_long_desc:1",
+        "original": "A Dummy is a model of the human body used for various purposes.",
+        "translation": "假人是一个人体模型，用作各种用途。",
+        "stage": 5
+    }
+]

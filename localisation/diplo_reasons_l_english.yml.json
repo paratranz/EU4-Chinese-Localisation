@@ -1,0 +1,2222 @@
+[
+    {
+        "key": "DIPLO_CANCELED_TRIBUTARY:0",
+        "original": "Abandoned Tributary",
+        "translation": "放弃朝贡国",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NO_FIGHTING:0",
+        "original": "No ongoing fighting: ",
+        "translation": "没有正在进行的战斗：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_UNCONDITIONALLY_SURRENDERED:1",
+        "original": "$WHO$ has §YUnconditionally Surrendered§! to $THEM$: ",
+        "translation": "$WHO$已经向$THEM$§Y无条件投降§!：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SET_PROVINCES_AS_VITAL:0",
+        "original": "$THEM$ considers $WE$ provinces to be of vital interest: ",
+        "translation": "$THEM$认为$WE$的省份关乎其重大利益所在：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SET_MUTUAL_PROVINCES_AS_VITAL:0",
+        "original": "$THEM$ and $WE$ consider the same $NUM$ provinces to be of vital interest: ",
+        "translation": "$NUM$个省份同时被$THEM$和$WE$视为重大利益所在：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_ALREADY_TRANSFERING_TRADE_POWER:0",
+        "original": "Already giving trade power to $WHO$: ",
+        "translation": "已经向$WHO$转移贸易竞争力：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ALREADY_STEERING_TRADE:0",
+        "original": "Already steering trade to $WHO$: ",
+        "translation": "已经向$WHO$引导贸易：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TRADE_VASSALS:0",
+        "original": "Number of countries transferring trade power to $WHO$: ",
+        "translation": "向$WHO$转移贸易竞争力的国家数：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TRADE_STEER_SLAVES:0",
+        "original": "Number of countries steering trade to $WHO$: ",
+        "translation": "向$WHO$引导贸易的国家数：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ACTIVE_RELATION:0",
+        "original": "Treaty is already active: ",
+        "translation": "已生效的协议：",
+        "stage": 2
+    },
+    {
+        "key": "DIPLO_FIGHTING_OTHER_WAR_TOGETHER:0",
+        "original": "Fighting in another war together: ",
+        "translation": "在另一场战争中一起作战：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_MULTI_WARS:0",
+        "original": "Would be called into multiple wars: ",
+        "translation": "将会被召入多线战争：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_FIGHTING_OTHER_WAR:0",
+        "original": "Fighting in another war: ",
+        "translation": "在另一场战争中作战：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_POSITIVE:0",
+        "original": "Positive: $VAL|G$",
+        "translation": "赞成：$VAL|G$",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NEGATIVE:0",
+        "original": "Negative: $VAL|R$",
+        "translation": "反对：$VAL|R$",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_UNSTABLE:0",
+        "original": "Nation is too unstable: ",
+        "translation": "国家太不稳定：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_ALLIANCE_IS_BREAKING:0",
+        "original": "No longer desires $WHO$ as an ally: ",
+        "translation": "不再渴望$WHO$作为其盟友：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_BLOCKED_OFFENSIVE_CALLS:0",
+        "original": "$THEM$ is unwilling to join our offensive wars: ",
+        "translation": "$THEM$不愿加入我们发动的战争：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SET_AS_ENEMY:0",
+        "original": "The player of $THEM$ is Hostile towards $WHO$: ",
+        "translation": "玩家$THEM$对$WHO$持敌视态度：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SET_AS_FRIENDLY:0",
+        "original": "The player of $THEM$ is Friendly towards $WHO$: ",
+        "translation": "玩家$THEM$对$WHO$持友好态度：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SET_AS_NEUTRAL:0",
+        "original": "The player of $THEM$ is Neutral towards $WHO$: ",
+        "translation": "玩家$THEM$对$WHO$持中立态度：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_ENOUGH_FAVORS:0",
+        "original": "$WHO$ does not owe $US$ at least $AMT$ favors: ",
+        "translation": "$WHO$没有欠$US$至少$AMT$点人情：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_ENEMIES_TOO_FAR_AWAY:0",
+        "original": "Distant war: ",
+        "translation": "距离遥远的战争：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_DEFENSIVE_WAR:0",
+        "original": "Defensive War: ",
+        "translation": "防御战争：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_BANKRUPT:0",
+        "original": "$WHO$ is Bankrupt: ",
+        "translation": "$WHO$已经破产：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_STABILITY_HIT:0",
+        "original": "Accepting would destabilize $WHO$: ",
+        "translation": "接受会使$WHO$降低稳定：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_OLD_WAR:0",
+        "original": "War started more than $MONTHS$ months ago: ",
+        "translation": "战争已经持续了超过$MONTHS$个月：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_RECENT_OFFENSIVE_CALL:0",
+        "original": "Not willing to join another $WHO$ offensive war until §Y$DATE$§!: ",
+        "translation": "§Y$DATE$§!前不愿意加入$WHO$发起的另一场侵攻战：",
+        "stage": 2
+    },
+    {
+        "key": "DIPLO_HAS_ALLIANCE:0",
+        "original": "Has alliance: ",
+        "translation": "拥有盟友：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_BORDERING_RIVAL:0",
+        "original": "$WHO$ is not bordering a $OVERLORD$ rival or enemy: ",
+        "translation": "$WHO$没有与$OVERLORD$的宿敌或敌国接壤：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_BORDERING_UNCOLONIZED:0",
+        "original": "$WHO$ is bordering colonizable territory: ",
+        "translation": "$WHO$与可殖民地区接壤：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_UNLAWFUL_TERRITORY:0",
+        "original": "Unlawful Territory in the Empire: ",
+        "translation": "帝国境内的非法领土：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_DEMAND:0",
+        "original": "Not demand: ",
+        "translation": "不想要：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_TOO_LARGE_MARCH:0",
+        "original": "Too high development compared to $OVERLORD$: ",
+        "translation": "与$OVERLORD$相比，发展度过高：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_TOO_SMALL_MARCH:0",
+        "original": "Too low development compared to $OVERLORD$: ",
+        "translation": "与$OVERLORD$相比，发展度过低：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_SMALL_NATION:0",
+        "original": "$WHO$ is too large for vassalization: ",
+        "translation": "因$WHO$太大而不能被附庸：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_EMBARGO_AGAINST:0",
+        "original": "$WHO$ is embargoing $AGAINST$: ",
+        "translation": "$WHO$正对$AGAINST$贸易禁运：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_POPE:0",
+        "original": "$WHO$ is the Pope: ",
+        "translation": "$WHO$是教宗：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_DISHONORED_ALLIANCE_RECENTLY:0",
+        "original": "$WHO$ recently dishonored their alliance with $US$: ",
+        "translation": "$WHO$最近背弃了和$US$的盟约：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_ELECTOR:0",
+        "original": "$WHO$ is an Elector: ",
+        "translation": "$WHO$是选帝侯：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_MERCHANT_REPUBLIC:0",
+        "original": "$WHO$ is a Merchant Republic: ",
+        "translation": "$WHO$是一个商业共和国：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_THEOCRACY:0",
+        "original": "$WHO$ is a Theocracy: ",
+        "translation": "$WHO$是一个神权国家：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_MONARCHY:0",
+        "original": "$WHO$ is a Monarchy: ",
+        "translation": "$WHO$是一个君主制国家：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_FREECITY:0",
+        "original": "$WHO$ is a Free City: ",
+        "translation": "$WHO$是一个自由市：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_GOV_RANK:0",
+        "original": "$WHO$ government rank: ",
+        "translation": "$WHO$的政府等级：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_GOV_RANK_DIFF:0",
+        "original": "Difference in government ranks: ",
+        "translation": "政府等级差异：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_HOSTILE_CORE_CREATION:0",
+        "original": "Hostile Core-Creation Cost on $WHO$: ",
+        "translation": "对$WHO$的敌对领土核心化花费：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_REVOLUTIONARY_WAR:0",
+        "original": "It's a revolutionary war: ",
+        "translation": "这是一场革命战争：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_NATIVE:0",
+        "original": "Can't use native diplomatic actions.",
+        "translation": "不能使用原住民外交行动。",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_WANT_GOLD:0",
+        "original": "Wants other concessions than gold: ",
+        "translation": "比起金钱，更希望其他让步：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_WANT_BRIBE:0",
+        "original": "Will not betray their ally for gold: ",
+        "translation": "不会因为金钱而背叛他们的盟友：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_STABILITY:0",
+        "original": "Stability of $WHO$: ",
+        "translation": "$WHO$的稳定度：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_IS_COLONY:0",
+        "original": "$PROV$ is a colony: ",
+        "translation": "$PROV$是一个殖民地：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DEMAND_TOO_MUCH:0",
+        "original": "You demand too much: ",
+        "translation": "你要求的太多了：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DEMAND_ALL_PROVINCES:0",
+        "original": "Demand all provinces: ",
+        "translation": "要求所有省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_RELEASE_COUNTRIES:0",
+        "original": "Release countries: ",
+        "translation": "释放国家：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_EMPEROR_CANDIDATE:0",
+        "original": "$WHO$ is a candidate for emperor: ",
+        "translation": "$WHO$是皇位的候选者：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_FORM_PERSONAL_UNION:0",
+        "original": "Form personal union: ",
+        "translation": "建立联合统治：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_CAN_BE_ANNEXED:0",
+        "original": "Can be annexed: ",
+        "translation": "可以被吞并：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAITING_FOR_ANNEXED:0",
+        "original": "Waiting for annexation: ",
+        "translation": "等待吞并：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_BETTER_OFFER:0",
+        "original": "Someone else got a better offer: ",
+        "translation": "别人提出了更好的提议：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ARE_WINNING:0",
+        "original": "$WHO$ are winning: ",
+        "translation": "$WHO$正在走向胜利：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_LEADER:0",
+        "original": "$WHO$ not leader of the war: ",
+        "translation": "$WHO$不是战争领袖：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_STRATEGIC_INTERESTS:0",
+        "original": "Strategic interests: ",
+        "translation": "战略利益：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_STRATEGIC_INTEREST:0",
+        "original": "Strategic interest: ",
+        "translation": "战略利益：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NO_STRATEGIC_INTEREST:0",
+        "original": "No strategic interest: ",
+        "translation": "没有战略利益：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_TOO_EARLY:0",
+        "original": "It's too early in the war: ",
+        "translation": "战争才刚开始：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_COALITION:0",
+        "original": "Coalition war: ",
+        "translation": "包围网战争：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_IS_REVOLUTION_TARGET:0",
+        "original": "$WHO$ is revolution target: ",
+        "translation": "$WHO$是革命对象：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_HAVE_LOCATION:0",
+        "original": "Doesn't have control over $NAME$: ",
+        "translation": "对$NAME$没有控制权：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_PEACE_SCORE:0",
+        "original": "War score is bigger than peace offer: ",
+        "translation": "战争分数大于和平提议：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_QUIET_BONUS:0",
+        "original": "Inactivity in war: ",
+        "translation": "消极参战：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_PEACE_SCORE_TOO_HIGH:0",
+        "original": "Peace offer unreasonably big: ",
+        "translation": "和平提议要价过高：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_PEACE_OFFER_TOO_MUCH:0",
+        "original": "Offer is too generous: ",
+        "translation": "和平提议太过慷慨：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_DESPERATION:0",
+        "original": "Occupied and besieged provinces: ",
+        "translation": "被占领和被围攻的省份：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_CRUSADE:0",
+        "original": "$WHO$ is crusade target: ",
+        "translation": "$WHO$是十字军的目标：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_REBELS:0",
+        "original": "Revolts in $WHO$: ",
+        "translation": " $WHO$国内的起义：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_CB:0",
+        "original": "$CB$ Casus Belli: ",
+        "translation": "$CB$宣战理由：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_DEFEATED:0",
+        "original": "Utterly defeated: ",
+        "translation": "被彻底击败：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_PEACE_SCORE:0",
+        "original": "Peace offer value: ",
+        "translation": "和平提议分值：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PERSONALITY_MILITARIST:0",
+        "original": "The $WHO$ ruler is a Militarist: ",
+        "translation": "$WHO$的统治者是一个军国主义者：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_HAS_PERSONALITY:0",
+        "original": "The $WHO$ ruler is $TRAIT$: ",
+        "translation": "$WHO$的统治者拥有$TRAIT$特质：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LACKS_PERSONALITY:0",
+        "original": "The $WHO$ ruler lacks matching personality.",
+        "translation": "$WHO$的统治者缺乏相匹配的特质：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DIFFICULTY:0",
+        "original": "Difficulty level.",
+        "translation": "难度：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_MILITARY_STRENGTH:0",
+        "original": "$WHO$ military strength: ",
+        "translation": "$WHO$的军事实力：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_SCORE:0",
+        "original": "War Score: ",
+        "translation": "战争分数：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_SCORE_INDIVIDUAL:0",
+        "original": "Individual war score against:",
+        "translation": "单方面战争分数：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PEACEOFFER_VALUE:0",
+        "original": "Current peace offer: ",
+        "translation": "当前的和平提议：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ANNEX_US:0",
+        "original": "Would result in $WHO$'s annexation or vassalization: ",
+        "translation": "将会导致$WHO$被吞并或附庸：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PUNISH_TRIBUTARY:0",
+        "original": "$THEM$ refused to subjugate to $WHO$: ",
+        "translation": "$THEM$拒绝屈服于$WHO$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_BASE_RELUCTANCE:0",
+        "original": "Base reluctance: ",
+        "translation": "基本的犹豫：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_BATTLE_RELUCTANCE:0",
+        "original": "Ongoing battles: ",
+        "translation": "正在进行的战斗：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IN_HRE:0",
+        "original": "$WHO$ is a member of the Empire: ",
+        "translation": "$WHO$是神圣罗马帝国成员国：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_IN_HRE:0",
+        "original": "$WHO$ is not a member of the Empire: ",
+        "translation": "$WHO$不是神圣罗马帝国成员国：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_CORE_PROCESS:0",
+        "original": "Making it into a core: ",
+        "translation": "使之成为核心：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_RICHNESS:0",
+        "original": "Province Value: ",
+        "translation": "省份价值：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_TIME_PASSED:0",
+        "original": "Length of war: ",
+        "translation": "战争持续时间：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_THEY_WON_WAR:0",
+        "original": "$WHO$ won war: ",
+        "translation": "$WHO$赢得了战争：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_STALLED:0",
+        "original": "War is stalled: ",
+        "translation": "战争陷入僵局：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_RIVAL_COLONIST:0",
+        "original": "$WHO$ is a colonial power: ",
+        "translation": "$WHO$是一个殖民大国：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_UNOCCUPIED_FORTS:0",
+        "original": "Demanding $PROV$ without occupying any forts in the area: ",
+        "translation": "索取的$PROV$地区有尚有未被占领的要塞：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_INCONCLUSIVE:0",
+        "original": "Need at least $VAL$ war score to make demands: ",
+        "translation": "至少需要$VAL$点战争分数来提出要求：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_UNREASONABLE_DEMANDS:0",
+        "original": "Unreasonable demands: ",
+        "translation": "不合理要求：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_UNDESIRABLE_PEACE:0",
+        "original": "Undesirable terms: ",
+        "translation": "不良条款：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_UNACCEPTABLE_PEACE:0",
+        "original": "$WHO$ does not want parts of the offer: ",
+        "translation": "$WHO$对其中部分提议不感兴趣：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WANTS_OTHER_OFFER:0",
+        "original": "$WHO$ requires '$NAME$' to be part of the offer: ",
+        "translation": "$WHO$要求'$NAME$'作为提议中的一部分：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WANTS_ANNEX:0",
+        "original": "Wants to annex $COUNTRY$: ",
+        "translation": "想要吞并$COUNTRY$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WANTS_END_TO_WAR:0",
+        "original": "Wants an end to the war: ",
+        "translation": "想结束战争：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_BEST_POSSIBLE_PEACE_OFFER:0",
+        "original": "$TARGET$ does not want anything more from $WHO$: ",
+        "translation": "$TARGET$不再想从$WHO$处索要更多：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_HIGH_DEMANDS:0",
+        "original": "Demands exceed war score: ",
+        "translation": "要求超出战争分数：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WARGOAL_BESIEGED:0",
+        "original": "Besieging War Goal: ",
+        "translation": "正在围攻战争目标：",
+        "stage": 2
+    },
+    {
+        "key": "DIPLO_OCCUPYING_WARLEADER:0",
+        "original": "Fully occupying enemy war leader: ",
+        "translation": "完全占领敌方盟主领土：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_EXHAUSTION:0",
+        "original": "$WHO$ War Exhaustion: ",
+        "translation": "$WHO$的厌战度：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_CALL_FOR_PEACE:0",
+        "original": "Call for Peace: ",
+        "translation": "呼唤和平：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_DIRECTION:0",
+        "original": "$WHO$ is making gains: ",
+        "translation": "$WHO$正在受益： ",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_FORCE_BALANCE:0",
+        "original": "Relative strength of alliances: ",
+        "translation": "盟友的相对实力：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_COALITION_BALANCE:0",
+        "original": "Relative strength of coalition: ",
+        "translation": "包围网的相对实力：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_CONTROLLING_DESIRED_PROVINCES:0",
+        "original": "Controlling desired provinces in $WHO$'s territory: ",
+        "translation": "在$WHO$的领土内控制所要求的省份：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_DESIRE_YOUR_PROVINCES:0",
+        "original": "Desires provinces in $WHO$'s territory: ",
+        "translation": "渴望 $WHO$领土内的省份：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_DESIRED_PROVINCES:0",
+        "original": "Offers desired provinces: ",
+        "translation": "许诺了所要求的省份：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_UNDESIRED_PROVINCES:0",
+        "original": "Offers undesired provinces: ",
+        "translation": "许诺了不想要的省份：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_HOLD_CAPITAL:0",
+        "original": "$WHO$ holds $CAPITAL$: ",
+        "translation": "$WHO$控制着首都$CAPITAL$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_HOLD_WARGOAL:0",
+        "original": "$WHO$ holds wargoal: ",
+        "translation": "$WHO$控制着战争目标省份：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WANT_INDEPENDENCE:0",
+        "original": "$WHO$ wants independence: ",
+        "translation": "$WHO$希望独立：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_CAPACITY:0",
+        "original": "$WHO$'s war capacity: ",
+        "translation": "$WHO$的战争潜力：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_IS_NOMADS:0",
+        "original": "Is nomad: ",
+        "translation": "是游牧部落：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_BADNESS:0",
+        "original": "Badness: ",
+        "translation": "恶名：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WEARINESS:0",
+        "original": "Weariness: ",
+        "translation": "厌战：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NO_THREAT:0",
+        "original": "They are no threat: ",
+        "translation": "他们没有威胁：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_IS_NOT_OCCUPYING:0",
+        "original": "Is not occupying $WHO$: ",
+        "translation": "没有占领$WHO$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_OWNS_CORE_PROVINES:0",
+        "original": "$WHO$ owns $ADJ$ core provinces: ",
+        "translation": "$WHO$拥有$ADJ$的核心省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_SCORE_AND_CAPACITY_BIGGER:0",
+        "original": "War Score and capacity bigger than $VAL$: ",
+        "translation": "战争分数和潜力大于$VAL$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_SCORE_AND_CAPACITY_LESSER:0",
+        "original": "War Score and capacity less than $VAL$: ",
+        "translation": "战争分数和潜力小于$VAL$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_CAPACITY_TOO_LOW:0",
+        "original": "$WHO$'s war capacity is pitiful: ",
+        "translation": "$WHO$的战争潜力小得可怜：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_CAPACITY_TOO_HIGH:0",
+        "original": "$WHO$'s war capacity is terrific: ",
+        "translation": "$WHO$的战争潜力大得惊人：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_OFFERS_WARSCORE:0",
+        "original": "Offer compared to war score: ",
+        "translation": "提议相较于战争分数：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_DURATION:0",
+        "original": "War duration: ",
+        "translation": "战争持续：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_DESPERATE:0",
+        "original": "$WHO$ is desperate for peace: ",
+        "translation": "$WHO$渴望和平：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_PEACE_ABOVE_WAR_SCORE:0",
+        "original": "Peace offer bigger than war score: ",
+        "translation": "和平提议超过战争分数：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_PEACE_SCORE_UNDER:0",
+        "original": "Peace offer smaller than $SCORE$: ",
+        "translation": "和平提议小于$SCORE$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_PEACE_SCORE_OVER:0",
+        "original": "Peace offer larger than $SCORE$: ",
+        "translation": "和平提议大于$SCORE$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NO_UNION_AND_VASSAL:0",
+        "original": "Won't be in union and a vassal: ",
+        "translation": "不会成为被联统国或附庸国：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NEED_MORE_PROVINCES:0",
+        "original": "$WHO$ needs more provinces ($VAL$): ",
+        "translation": "$WHO$需要更多省份($VAL$)：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NEED_MORE_MILITARY:0",
+        "original": "$WHO$ needs a stronger army ($VAL$): ",
+        "translation": "$WHO$需要一支更强大的军队($VAL$)：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NEED_MORE_IN_INCOME:0",
+        "original": "$WHO$ needs a larger monthly income ($VAL$): ",
+        "translation": "$WHO$需要更多月收入($VAL$)：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WOULD_DEFICIT:0",
+        "original": "$WHO$ would end up with monthly deficit: ",
+        "translation": "$WHO$ 将导致月度亏损:",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SUPERIORITY_IN_PROV_MIL_INC:0",
+        "original": "Superiority in provinces, military and economy: ",
+        "translation": "在省份数量、军队规模和经济体量上有优势：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_IS_DEPENDENT_ON:0",
+        "original": "Is dependent on $WHO$: ",
+        "translation": "依附于$WHO$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NUM_OF_PROVINCES:0",
+        "original": "Number of provinces: ",
+        "translation": "省份数量：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_HAS_NO_PROVINCES:0",
+        "original": "Has no provinces: ",
+        "translation": "没有省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_BASE_TAX:0",
+        "original": "$WHO$ economic base compared to $OTHER$: ",
+        "translation": "$WHO$相较于$OTHER$的经济基础：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_MORE_BASE_TAX_THAN:0",
+        "original": "$WHO$ has more than $VAL$ total development: ",
+        "translation": "$WHO$拥有的总发展度大于$VAL$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LESS_BASE_TAX_THAN:0",
+        "original": "$WHO$ has less than $VAL$ total development: ",
+        "translation": "$WHO$拥有的总发展度小于$VAL$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TOTAL_DEVELOPMENT:0",
+        "original": "$TARGET$ has $VAL$ development: ",
+        "translation": "$TARGET$拥有$VAL$点发展度：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_MILITARY_POWER:0",
+        "original": "$WHO$ military power compared to $OTHER$: ",
+        "translation": "$WHO$相较于$OTHER$的军事实力：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_HAS_MORE_PROVINCES_THAN:0",
+        "original": "$WHO$ has more than $VAL$ provinces: ",
+        "translation": "$WHO$拥有多于 $VAL$ 个省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_ON_OVERLORD:0",
+        "original": "The war is on the overlord of $WHO$: ",
+        "translation": "战争对象是$WHO$的宗主国：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NO_ENEMIES:0",
+        "original": "No valid enemy: ",
+        "translation": "没有合适的敌人：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_CONSOLIDATING:0",
+        "original": "Have plans on their own: ",
+        "translation": "有他们自己的计划：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_HAS_TRUCE_WITH:0",
+        "original": "$WHO1$ has a truce with $WHO2$: ",
+        "translation": "$WHO1$与$WHO2$有停战协定：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_FEAR_OF_BEING_ANNEXED:0",
+        "original": "Is being annexed: ",
+        "translation": "正在被吞并：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TRADING_CITY:0",
+        "original": "Is Trading City: ",
+        "translation": "是贸易城市：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_SELL_PROVINCE_FREE_CITY:0",
+        "original": "Would lose §YFree City§! status: ",
+        "translation": "将会丧失§Y自由市§!地位：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_SELL_PROVINCE_TRADE_LEAGUE:0",
+        "original": "Would have to leave a §YTrade League§!: ",
+        "translation": "将被迫退出§Y贸易联盟§!：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WANT_WAR:0",
+        "original": "Attitude towards enemies: ",
+        "translation": "对敌人的态度：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_OVERLORDS_ATTITUDE:0",
+        "original": "Overlord's $ATTITUDE$ attitude towards $COUNTRY$: ",
+        "translation": "宗主国对$COUNTRY$的$ATTITUDE$态度：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TO_LOW_WAR_CAPACITY:0",
+        "original": "$WHO$ have too low war capacity.",
+        "translation": "$WHO$的战争潜力太低。",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_OVERLORD:0",
+        "original": "$WHO$ are the overlord: ",
+        "translation": "$WHO$是宗主国：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_NOT_ACTIVE:0",
+        "original": "The war is not active: ",
+        "translation": "战争是消极的：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ONLY_CALL_PRIMITIVES:1",
+        "original": "This is not suitable for a $SUBJECTTYPE$: ",
+        "translation": "对$SUBJECTTYPE$不适用：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_COALITION_VS_SUBJECT:0",
+        "original": "Our $SUBJECTTYPE$ has brought this coalition upon themselves: ",
+        "translation": "我们的$SUBJECTTYPE$使我们陷入了这个本是针对他们的包围网：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_CURRENT_WARSCORE:0",
+        "original": "Current war score: ",
+        "translation": "当前战争分数：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WARSCORE_LESSER_THAN:0",
+        "original": "War score less than $VAL$: ",
+        "translation": "战争分数低于$VAL$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WARSCORE_LARGER_THAN:0",
+        "original": "War score larger than $VAL$: ",
+        "translation": "战争分数高于$VAL$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAREXHAUSTION:0",
+        "original": "War exhaustion: ",
+        "translation": "厌战度：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAREXHAUSTION_LARGER_THAN:0",
+        "original": "War exhaustion larger than $VAL$: ",
+        "translation": "厌战度大于$VAL$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PART_OF_EMPIRE:0",
+        "original": "$PART$ is part of the empire and $EMPEROR$ is the emperor: ",
+        "translation": "$PART$是帝国的一部分而$EMPEROR$是皇帝：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_WANT_BIG_SHIP:0",
+        "original": "$WHO$ has no use for Big Ships: ",
+        "translation": "$WHO$不需要大型船只：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_WANT_GALLEY:0",
+        "original": "$WHO$ has no use for Galleys: ",
+        "translation": "$WHO$不需要桨帆船：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TOO_MANY_BIG_SHIP:0",
+        "original": "$WHO$ wants §R$NUM$§! fewer Big Ships: ",
+        "translation": "$WHO$想要削减§R$NUM$§!艘大型战船：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TOO_MANY_LIGHT_SHIP:0",
+        "original": "$WHO$ wants §R$NUM$§! fewer Light Ships: ",
+        "translation": "$WHO$想要削减§R$NUM$§!艘轻型战船：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TOO_MANY_GALLEY:0",
+        "original": "$WHO$ wants §R$NUM$§! fewer Galleys: ",
+        "translation": "$WHO$想要削减§R$NUM$§!艘桨帆船：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TOO_MANY_TRANSPORT:0",
+        "original": "$WHO$ wants §R$NUM$§! fewer Transports: ",
+        "translation": "$WHO$想要削减§R$NUM$§!艘运输船：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_MORE_THAN:0",
+        "original": "more than ",
+        "translation": "多于",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ALLYS_FOR_YEARS:0",
+        "original": "$ALLY1$ has been an ally with $ALLY2$ for $YEARS$ years: ",
+        "translation": "$ALLY1$和$ALLY2$已经结盟了$YEARS$年：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_BEEN_ALLYS_FOR_YEARS:0",
+        "original": "$ALLY1$ has not been an ally with $ALLY2$ for $YEARS$ years: ",
+        "translation": "$ALLY1$和$ALLY2$已经$YEARS$年没有结盟了：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DEFENSIVE_BAD_WARSCORE:0",
+        "original": "It's a defensive war and your war score is less than $VAL$: ",
+        "translation": "这是一场防御战争，且你的战争分数低于$VAL$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DIPLOMATIC_REP:0",
+        "original": "$WHO$ diplomatic reputation: ",
+        "translation": "$WHO$的外交声誉：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_FED_DIPLOMATIC_REP:0",
+        "original": "Total diplomatic reputation in $WHO$: ",
+        "translation": "$WHO$的外交声誉总和：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DIPLOMATIC_SKILL:0",
+        "original": "$WHO$ diplomatic skill: ",
+        "translation": "$WHO$的外交技能：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DIPLOMATIC_SKILL_MODIFIERS:0",
+        "original": "$WHO$ diplomatic skill modifiers: ",
+        "translation": "$WHO$的外交技能修正：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DIPLOMATIC_SKILL_DIFF:0",
+        "original": "$WHO$ and $WHO2$ diplomatic skill difference: ",
+        "translation": "$WHO$和$WHO2$的外交技能差异：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DIPLOMATIC_SKILL_MODIFIERS_DIFF:0",
+        "original": "$WHO$ and $WHO2$ diplomatic skill modifiers difference: ",
+        "translation": "$WHO$和$WHO2$的外交技能修正的差异：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NUMBER_OF_ALLIES:0",
+        "original": "Number of allies for $WHO$: ",
+        "translation": "$WHO$的盟友数：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NUMBER_OF_GREAT_POWER_ALLIES:0",
+        "original": "Number of Great Power allies for $WHO$: ",
+        "translation": "$WHO$的列强盟友数：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_GREAT_POWER:0",
+        "original": "$WHO$ is a Great Power: ",
+        "translation": "$WHO$是列强：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_TRUST_WITH:0",
+        "original": "Trust towards $WHO$: ",
+        "translation": "对$WHO$的信任：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NUMBER_OF_POWERFUL_ALLIES:0",
+        "original": "$WHO$ already has powerful allies: ",
+        "translation": "$WHO$已经有强大的盟友：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_THREATENED_BY_RIVAL:0",
+        "original": "$WHO$ is threatened by $RIVAL$: ",
+        "translation": "$WHO$被$RIVAL$威胁：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_RIVAL_ALLIES:0",
+        "original": "$WHO$ is allied to $ADJ$ rival $RIVAL$: ",
+        "translation": "$WHO$已经和$ADJ$的宿敌$RIVAL$结盟：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_RIVALRY:0",
+        "original": "Rivalry: ",
+        "translation": "宿敌：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_HISTORICAL_RIVAL:0",
+        "original": "Historical Rival: ",
+        "translation": "历史宿敌：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_HISTORICAL_NEUTRAL:0",
+        "original": "Historical Neutral: ",
+        "translation": "历史中立：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SIZE_OF_WAR:0",
+        "original": "Size of war: ",
+        "translation": "战争规模：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_ROYAL_MARRIAGE_BETWEEN:0",
+        "original": "Royal marriage between $WHO1$ and $WHO2$: ",
+        "translation": "$WHO1$和$WHO2$之间的王室联姻：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_CANNOT_MARRY:0",
+        "original": "$WHO$ cannot enter into a Royal Marriage: ",
+        "translation": "$WHO$无法王室联姻：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WHO_TRUST:0",
+        "original": "$WHO1$ trusts $WHO2$: ",
+        "translation": "$WHO1$信任$WHO2$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_TRUST:0",
+        "original": "Trust: ",
+        "translation": "信任：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_TRUST_BELOW:0",
+        "original": "Trust below $TRUSTVALUE|Y$: ",
+        "translation": "信任低于$TRUSTVALUE|Y$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_DISTRUST:0",
+        "original": "Distrust: ",
+        "translation": "不信任：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_THREAT:0",
+        "original": "Threat: ",
+        "translation": "受威胁：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_RIVALS:0",
+        "original": "Rival bonus: ",
+        "translation": "宿敌加成：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_COMMON_RIVALS:0",
+        "original": "Common Rivals: ",
+        "translation": "共同宿敌：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NUM_OF_RIVALS:0",
+        "original": "Number of rivals: ",
+        "translation": "宿敌数量：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_GAVE_WAR_ACCESS_TO_ENEMY:0",
+        "original": "Gave military access to enemies: ",
+        "translation": "给敌人军事通行权：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_WITH_RIVAL:0",
+        "original": "At war with rival: ",
+        "translation": "与宿敌交战：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_WITH_OVERLORDS_RIVAL:0",
+        "original": "At war with rival of overlord: ",
+        "translation": "与宗主国的宿敌交战：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_WITH_ALLY:0",
+        "original": "At war with ally: ",
+        "translation": "和盟国交战：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_WAR_WITH_NEIGHBOUR_RIVAL:0",
+        "original": "At war with neighboring rival: ",
+        "translation": "与毗邻的宿敌交战：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_WITH_NEIGHBOUR_OVERLORDS_RIVAL:0",
+        "original": "At war with neighboring rival of overlord: ",
+        "translation": "与宗主国的毗邻宿敌交战：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_WITH_NEIGHBOUR_ALLY:0",
+        "original": "At war with neighboring ally: ",
+        "translation": "和毗邻盟国交战：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SAME_CULTURE_GROUP:0",
+        "original": "Same culture group: ",
+        "translation": "同一文化组：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SAME_RELIGION_GROUP:0",
+        "original": "Same religious group: ",
+        "translation": "同一宗教组：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_SAME_CULTURE_GROUP:0",
+        "original": "Not the same culture group: ",
+        "translation": "非同一文化组：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_SAME_RELIGION_GROUP:0",
+        "original": "Not the same religious group: ",
+        "translation": "非同一宗教组：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SAME_RELIGION:0",
+        "original": "Both countries are $NAME$: ",
+        "translation": "两个国家都是$NAME$：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SAME_CULTURE:0",
+        "original": "Same culture: ",
+        "translation": "同一文化：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_SAME_RELIGION:0",
+        "original": "Not same religion: ",
+        "translation": "非同一宗教：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_SAME_LEAGUE_LEADER:0",
+        "original": "Leader of opposing league: ",
+        "translation": "反对派的领袖",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_SAME_CULTURE:0",
+        "original": "Not same culture: ",
+        "translation": "非同一文化：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_RELIGIOUS_SCHOOL_RELATIONS:0",
+        "original": "Religious school relations: ",
+        "translation": "宗教学派关系",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SAME_RELIGIOUS_SCHOOL:0",
+        "original": "Same religious school: ",
+        "translation": "相同的宗教学派",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NOT_ACCEPTED_CULTURE:0",
+        "original": "$WHO$ does not accept $CULTURE$ culture: ",
+        "translation": "$WHO$不接受$CULTURE$文化：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_SUPERIOR_SIZE:0",
+        "original": "$WHO$ is superior in land and army size: ",
+        "translation": "$WHO$在领土数量和军队规模上有优势：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_SUPERIOR_ARMY_SIZE:0",
+        "original": "$WHO$ is superior in army size: ",
+        "translation": "$WHO$在军队规模上有优势：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_RELATIVE_POWER_ALLIANCE:0",
+        "original": "Power of $WHO$ alliance compared to $US$: ",
+        "translation": "$WHO$与$US$的盟友的实力比较：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_RECENTLY_FORCED_TO_RETURN_TERRITORY:0",
+        "original": "$WHO$ recently forced $US$ to return territory: ",
+        "translation": "$WHO$最近强迫$US$归还领土：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_MANPOWER:0",
+        "original": "$WHO$ Manpower: ",
+        "translation": "$WHO$的人力：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_LOW_MANPOWER:0",
+        "original": "$WHO$ has low Manpower: ",
+        "translation": "$WHO$人力低下：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_LOANS:0",
+        "original": "$WHO$ is $GOLD|0$¤ in debt: ",
+        "translation": "$WHO$负债$GOLD|0$¤：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DEBT:0",
+        "original": "$WHO$ has loans: ",
+        "translation": "$WHO$有贷款：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TRADE_POWER_ASKED_FOR:0",
+        "original": "Amount of Trade power asked for: ",
+        "translation": "要求的贸易竞争力的数目：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ARMY_SIZE:0",
+        "original": "$WHO$ Army Strength: ",
+        "translation": "$WHO$陆军实力：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_NAVY_SIZE:0",
+        "original": "$WHO$ Navy Strength: ",
+        "translation": "$WHO$海军实力：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_FELLOW_VASSAL:0",
+        "original": "$COUNTRY01$ is a fellow subject of $COUNTRY02$: ",
+        "translation": "$COUNTRY01$是$COUNTRY02$的属国：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_HALF_LAND_SIZE:0",
+        "original": "$COUNTRY01$ has half the amount of provinces compared to $COUNTRY02$: ",
+        "translation": "$COUNTRY01$有$COUNTRY02$一半的省份数：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_LESSER_IN_VASSAL:0",
+        "original": "$WHO$ is a vassal: ",
+        "translation": "$WHO$是一个附庸国：",
+        "stage": 5
+    },
+    {
+        "key": "DIPLO_BETRAYED_ALLY:0",
+        "original": "$WHO$ recently broke a promise to give land: ",
+        "translation": "$WHO$最近违反了给与土地的承诺：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_WANT_PROVINCES_NOT_ENOUGH_FAVORS:0",
+        "original": "Not enough favors and does not want any land: ",
+        "translation": "对土地没有需求和兴趣：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_WANT_PROVINCES:0",
+        "original": "Does not want any $WHO$ land that $CALLER$ hasn't claimed: ",
+        "translation": "不想要$WHO$的任何$CALLER$没有宣称的土地：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WANTS_PROVINCES:0",
+        "original": "Promised $WHO$ land: ",
+        "translation": "承诺给予$WHO$土地：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PREPARED_FOR_WAR:0",
+        "original": "Prepared for War: ",
+        "translation": "准备战争：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PLAYER_AI_PREFS_KEEP_ALLY:1",
+        "original": "$WHO$ §GKeep Allies and Rivals§! AI setting is §Genabled§!: ",
+        "translation": "$WHO$§G保持宿敌和敌人§!的AI设置已§G启用§!：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_UNION_WAR_GREAT_POWER:0",
+        "original": "$WHO$ does not want $TARGET$ in a union under $THEM$: ",
+        "translation": "$WHO$不希望$TARGET$被$THEM$联合统治：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PLAYER_AI_PREFS_FIGHT_TO_DEATH:0",
+        "original": "$WHO$ §GSeek Fast Peace§! AI setting is §Genabled§!: ",
+        "translation": "$WHO$ §G寻求尽快和平§! AI设定 §Genabled§!:",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_VASSAL_UNDER:0",
+        "original": "$VASSAL$ is a vassal under $LEADER$: ",
+        "translation": "$VASSAL$是$LEADER$的一个附庸：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_VASSAL_LOYAL:0",
+        "original": "$VASSAL$ is loyal to $OVERLORD$",
+        "translation": "$VASSAL$忠于$OVERLORD$",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_UNION_UNDER:0",
+        "original": "$UNDER$ is in a personal union under $LEADER$: ",
+        "translation": "$UNDER$接受$LEADER$的联合统治：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IN_OUR_UNION:0",
+        "original": "$WHO$ is in our union: ",
+        "translation": "$WHO$接受我们的联合统治：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_SUPPORTING_INDEPENDENCE:0",
+        "original": "$COUNTRY01$ is supporting $COUNTRY02_ADJ$ independence: ",
+        "translation": "$COUNTRY01$正在支持$COUNTRY02_ADJ$的独立：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_OPINION:0",
+        "original": "$COUNTRY01$ opinion about $COUNTRY02$: ",
+        "translation": "$COUNTRY01$对$COUNTRY02$的好感度：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_FED_OPINION:0",
+        "original": "$COUNTRY01$ total opinion about $COUNTRY02$: ",
+        "translation": "$COUNTRY01$对$COUNTRY02$的总好感度：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_OPINION_LESSER_THAN:0",
+        "original": "$COUNTRY01$ opinion about $COUNTRY02$ is less than $VAL|Y$: ",
+        "translation": "$COUNTRY01$对$COUNTRY02$的好感度低于$VAL|Y$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_OPINION_LARGER_THAN:0",
+        "original": "$COUNTRY01$ opinion about $COUNTRY02$ is larger than $VAL|Y$: ",
+        "translation": "$COUNTRY01$对$COUNTRY02$的好感度高于$VAL|Y$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_CANT_AFFORD:0",
+        "original": "$WHO$ can't afford another diplomatic relation: ",
+        "translation": "$WHO$不能负担另一个外交关系：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_FRIENDLINESS:0",
+        "original": "Desire for Friendship: ",
+        "translation": "渴望友谊：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ANTAGONISM:0",
+        "original": "Antagonism: ",
+        "translation": "敌意：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_MORE_OWNED_PROVINCES:0",
+        "original": "$WHO$ is larger: ",
+        "translation": "$WHO$更大：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_AT_WAR_OFFENSIVE:0",
+        "original": "$WHO$ is in an offensive war: ",
+        "translation": "$WHO$正在一场侵略战争中：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_AT_WAR:0",
+        "original": "$WHO$ is at war: ",
+        "translation": "$WHO$在战争中：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IN_IMPORTANT_WAR:0",
+        "original": "$WHO$ is in an important war: ",
+        "translation": "$WHO$在一场重要的战争中：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_AT_WAR_AGAINST:0",
+        "original": "$WHO$ is at war against $AGAINST$: ",
+        "translation": "$WHO$在对抗$AGAINST$的战争中：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_VALID_FOR_SUPPORT_INDEPENDENCE:0",
+        "original": "Not a valid target for Support Independence: ",
+        "translation": "非可支持独立的有效对象：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DIPLOMATIC_DISTANCE:0",
+        "original": "Distance between capitals: ",
+        "translation": "首都间距离：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ORIGINAL_ENEMY_NOT_BEATEN:0",
+        "original": "$COUNTRY$ not fully occupied: ",
+        "translation": "$COUNTRY$未被完全占领：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_BORDER_DISTANCE:0",
+        "original": "Distance between borders: ",
+        "translation": "边界距离：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PROTECTORATES:0",
+        "original": "Number of protectorates: ",
+        "translation": "保护国的数量：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_OTHER_PROTECTORATE:0",
+        "original": "$WHO$ is a protectorate in the same trade node: ",
+        "translation": "$WHO$是在相同贸易节点的一个保护国：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_FED_BORDER_DISTANCE:0",
+        "original": "Average distance to $FEDNAME$: ",
+        "translation": "距$FEDNAME$的平均距离：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_CANNOT_REACH:0",
+        "original": "$WHO$ cannot reach $TARGET$: ",
+        "translation": "$WHO$不能到达$TARGET$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ROYAL_MARRIAGES_FOR:0",
+        "original": "Number of royal marriages for $WHO$: ",
+        "translation": "$WHO$的王室联姻数：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LIBERTY_DESIRE_BELOW:0",
+        "original": "$WHO$'s Liberty Desire is less than $VAL$: ",
+        "translation": "$WHO$的独立倾向低于$VAL$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LIBERTY_DESIRE_ABOVE:0",
+        "original": "$WHO$'s Liberty Desire is more than $VAL$: ",
+        "translation": "$WHO$的独立倾向高于$VAL$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_STABHIT_FROM_NO_CB:0",
+        "original": "No Casus Belli: ",
+        "translation": "没有宣战理由：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_RECENTLY_DID_ACTION:0",
+        "original": "Recently did $ACTION$: ",
+        "translation": "最近干了$ACTION$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_MSG_FILTER_NEIGHBOURS:0",
+        "original": "Neighbors: ",
+        "translation": "邻国：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_EMPEROR:0",
+        "original": "$WHO$ is the Holy Roman Emperor: ",
+        "translation": "$WHO$是神圣罗马帝国的皇帝：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_EMPEROR_ALLY:0",
+        "original": "$WHO$ is allied to the Holy Roman Emperor: ",
+        "translation": "$WHO$是神圣罗马帝国的盟友：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_INVALID_TARGET:0",
+        "original": "Invalid target: ",
+        "translation": "无效目标：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_SAME_CONTINENT:0",
+        "original": "Has province on same continent: ",
+        "translation": "在同一大洲上拥有省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TOO_LARGE_FREE_CITY:0",
+        "original": "$WHO$ is too large to become a free city: ",
+        "translation": "$WHO$太大而不能成为自由市：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_HAS_SUBJECTS:0",
+        "original": "$WHO$ has subjects of its own: ",
+        "translation": "$WHO$拥有自己的属国：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_LESSERVASSAL_OR_UNION:0",
+        "original": "Is vassal or union member: ",
+        "translation": "是附庸或被联合统治：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_STRONGER:0",
+        "original": "We are much stronger: ",
+        "translation": "我们更强：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_SUBJECT:0",
+        "original": "$WHO$ is a subject: ",
+        "translation": "$WHO$是一个属国：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_THREAT:0",
+        "original": "They view us as a Threat: ",
+        "translation": "他们视我们为威胁：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_MAY_REPLACE_WAR:0",
+        "original": "May replace $WHO$ as the leader of the war: ",
+        "translation": "可以设定$WHO$为战争领导者：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WE_HAVE_ROYAL_MARRIAGE:0",
+        "original": "We have a royal marriage: ",
+        "translation": "我们有王室联姻：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_GOVERNMENT:0",
+        "original": "$COUNTRY$ is a $GOVERNMENT$: ",
+        "translation": "$COUNTRY$是一个$GOVERNMENT$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_CHANCE_LESSER_THAN:0",
+        "original": "Reasons less than $VAL|Y$: ",
+        "translation": "理由低于$VAL|Y$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_CHANCE_LARGER_THAN:0",
+        "original": "Reasons larger than $VAL|Y$: ",
+        "translation": "理由高于$VAL|Y$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PEACE_ACCEPTABLE:0",
+        "original": "Peace acceptable: ",
+        "translation": "可接受的和平：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ENFORCE_PEACE_WILLINGNESS:0",
+        "original": "Desire for peace: ",
+        "translation": "和平意愿：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ENFORCE_PEACE_FEAR:0",
+        "original": "Fear of $WHO$: ",
+        "translation": "恐惧$WHO$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_MAY_NOT_DECLARE_WAR:0",
+        "original": "May not declare war against $WHO$: ",
+        "translation": "不能对$WHO$宣战：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_DOF:0",
+        "original": "$WHO$ is Defender of the faith ($RELIGION$): ",
+        "translation": "$WHO$是信仰守护者（$RELIGION$）：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PRESTIGE:0",
+        "original": "Prestige: ",
+        "translation": "威望：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_OVER_FORCE_LIMIT:0",
+        "original": "Buying the fleet would exceed force limit: ",
+        "translation": "购买的船只将超过海军上限：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_OVEREXTENDED:0",
+        "original": "$WHO$ is overextended: ",
+        "translation": "$WHO$正过度扩张：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PROVINCE_PRICE:0",
+        "original": "Price: ",
+        "translation": "价格：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PROVINCE_CORE:0",
+        "original": "$PROV$ is a core of $WHO$: ",
+        "translation": "$PROV$是$WHO$的核心省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PROVINCE_CLAIM:0",
+        "original": "$PROV$ is a $WHO$ claim: ",
+        "translation": "$PROV$是$WHO$的宣称省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PROVINCE_NO_STRATEGIC_INTEREST:0",
+        "original": "$PROV$ is not a core, a claim, or a previously owned province of $WHO$: ",
+        "translation": "$PROV$不是$WHO$的核心、宣称或以前控制过的省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PROVINCE_SAME_RELIGION:0",
+        "original": "$PROV$ and $WHO$ are $RELIGION$: ",
+        "translation": "$PROV$和$WHO$是$RELIGION$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_NEIGHBOURS:0",
+        "original": "Are not neighbors: ",
+        "translation": "不是邻国：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_SELLPROV_NEIGHBOUR_AND_PRICE:0",
+        "original": "$PROV$ is neighbor to $WHO$ and the price is $VAL$: ",
+        "translation": "$PROV$是$WHO$的相邻省份且价格是$VAL$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_SELLPROV_NOPORT_NOCORE:0",
+        "original": "$PROV$ cannot be made into a core of $WHO$: ",
+        "translation": "$PROV$不能成为$WHO$的核心省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_PROVINCE_ISCORE_OFNUM:0",
+        "original": "$PROV$ is the core of $NUM$ countries: ",
+        "translation": "$PROV$是$NUM$个国家的核心省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_UNOCCUPIED:0",
+        "original": "$WHO1$ is not occupied by $WHO2$: ",
+        "translation": "$WHO1$没有被$WHO2$占领：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_CONQUER_VALUE:0",
+        "original": "Conquer value: ",
+        "translation": "征服价值：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TREASURY:0",
+        "original": "$WHO$ treasury: ",
+        "translation": "$WHO$的国库：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DIPLOMATIC_REPUTATION:0",
+        "original": "Diplomatic Reputation: ",
+        "translation": "外交声誉：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_SELLPROV_ABOVE_TREASURY:0",
+        "original": "Price is above $WHO$ treasury: ",
+        "translation": "价格超过$WHO$的国库：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_INVALID_LOAN:0",
+        "original": "Loan is invalid: ",
+        "translation": "贷款无效：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LOAN_INTEREST_ABOVE:0",
+        "original": "Loan interest is above $VAL|Y%$: ",
+        "translation": "贷款利息高于$VAL|Y%$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LOAN_TOO_MANY:0",
+        "original": "$WHO$ has too many loans: ",
+        "translation": "$WHO$有太多贷款：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LOAN_CANT_AFFORD_INTEREST:0",
+        "original": "$WHO$ can't afford the interest $INTEREST|Y%$: ",
+        "translation": "$WHO$不能承担利息$INTEREST|Y%$：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LOAN_NOT_NEED_LOAN:0",
+        "original": "$WHO$ is not in need of any loan: ",
+        "translation": "$WHO$不需要任何贷款：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LOAN_EARNS_ENOUGH:0",
+        "original": "$WHO$ earns too much: ",
+        "translation": "$WHO$收入太多：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LOAN_EXPIRY_SOON:0",
+        "original": "Expiry date is too soon: ",
+        "translation": "贷款即将到期：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LOAN_COST_SOON:0",
+        "original": "Loan will cost too much, too soon: ",
+        "translation": "贷款在短时间内的代价太大：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_LOAN_TOO_SMALL:0",
+        "original": "Loan is too small to bother: ",
+        "translation": "贷款太少，不足为虑：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ALREADY_HAVE_LOAN:0",
+        "original": "$LENDER$ already lent $WHO$ money.",
+        "translation": "$LENDER$已经把钱借给了$WHO$。",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TOO_MANY_RELATIONS:0",
+        "original": "$WHO$ have too many diplomatic relations: ",
+        "translation": "$WHO$建立了太多外交关系：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_BASE:0",
+        "original": "Base: ",
+        "translation": "基础：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_DIP_POWER_COST_ABOVE:0",
+        "original": "$WHO$ has a Diplomatic Power cost above $VAL|Y$: ",
+        "translation": "$WHO$有高于$VAL|Y$的外交点数花费：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NO_ALLIANCE_NO_GUARANTEE:0",
+        "original": "$COUNTRY01$ is not allied with or guaranteeing $COUNTRY02$: ",
+        "translation": "$COUNTRY01$没有与$COUNTRY02$结盟或保障其独立：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_ALLIANCE:0",
+        "original": "$COUNTRY01$ is allied with $COUNTRY02$: ",
+        "translation": "$COUNTRY01$与$COUNTRY02$结盟：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NO_ALLIANCE:0",
+        "original": "$COUNTRY01$ isn't allied to $COUNTRY02$: ",
+        "translation": "$COUNTRY01$未与$COUNTRY02$结盟：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TOO_SMALL:0",
+        "original": "Not enough provinces: ",
+        "translation": "没有足够的省份：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_RELATIVE_WORTH_OF_PROV:0",
+        "original": "Relative worth of province: ",
+        "translation": "省份相对价值：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_RECENTLY_THREATENED:0",
+        "original": "Recently gave in to threat: ",
+        "translation": "最近屈服于威胁：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_OUR_CORE:0",
+        "original": "Province is not a $ADJ$ core: ",
+        "translation": "省份不是$ADJ$的核心：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_BASE_VALUE:0",
+        "original": "Base value: ",
+        "translation": "基础价值：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_INTERESTS_IN_REGION:0",
+        "original": "$ADJ$ interests in region: ",
+        "translation": "$ADJ$对以下地域感兴趣：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_RIVALS_INTERESTS_IN_REGION:0",
+        "original": "Rivals' interests in region: ",
+        "translation": "宿敌对以下地域感兴趣：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_COLONIZER:0",
+        "original": "$WHO$ is a colonizer: ",
+        "translation": "$WHO$是一个殖民者：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NO_TRADE_LEAGUE_LEAD:0",
+        "original": "$WHO$ could have led the league: ",
+        "translation": "$WHO$可以领导联盟：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TRADE_LEAGUE_MORE:0",
+        "original": "Another member of their league: ",
+        "translation": "他们联盟的另一成员：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TRADE_LEAGUE_SIZE:0",
+        "original": "Size of Trade League ($NUM$): ",
+        "translation": "贸易联盟规模（$NUM$）：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WOULD_DISMISS:0",
+        "original": "Would dismiss troops: ",
+        "translation": "可以解散军队：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_FREE_TROOPS:0",
+        "original": "Free troops: ",
+        "translation": "免费军队：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TROOP_QUALITY:0",
+        "original": "Quality of troops: ",
+        "translation": "军队的质量：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TROOP_QUANTITY:0",
+        "original": "Quantity of troops: ",
+        "translation": "军队的数量：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TOO_EXPENSIVE:0",
+        "original": "Too expensive: ",
+        "translation": "太贵：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_AT_WAR:0",
+        "original": "Not at war: ",
+        "translation": "不在战争中：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NOT_IN_IMPORTANT_WAR:0",
+        "original": "Not in important war: ",
+        "translation": "不在重要战争中：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_CANT_PAY_UPFRONT:0",
+        "original": "Can't afford upfront cost: ",
+        "translation": "无法负担前期成本：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_BUDGET_SURPLUS:0",
+        "original": "Budget surplus of $GOLD|1$¤: ",
+        "translation": "$GOLD|1$¤的预算盈余：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_UNFAVORABLE_COST:0",
+        "original": "Unfavorable cost: ",
+        "translation": "不理想的花费：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_MONTHLY_COST:0",
+        "original": "Monthly cost of $GOLD|1$¤: ",
+        "translation": "$GOLD|1$¤的月花费：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_WAR_BALANCE_GOOD:0",
+        "original": "War balance looks good: ",
+        "translation": "战争开支看起来不错：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_RIVAL:0",
+        "original": "Is Rival: ",
+        "translation": "是宿敌：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_NO_ACCESS_TO_CAPITAL:0",
+        "original": "No land access to capital: ",
+        "translation": "没有向首都的通行权：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_CONDOTTIERI_MALUS:0",
+        "original": "Don't trust you will participate: ",
+        "translation": "不指望你会参加：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_VASSAL_WAR:0",
+        "original": "Government Form allows Vassal War: ",
+        "translation": "政体允许附庸战争：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_TRIBUTARIES:0",
+        "original": "Number of Tributary States: ",
+        "translation": "朝贡国数量：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_CELESTIAL_EMPEROR:0",
+        "original": "$WHO$ is the Celestial Emperor: ",
+        "translation": "$WHO$是天朝皇帝：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_IS_HORDE_EMPIRE:0",
+        "original": "$WHO$ is a Horde Empire: ",
+        "translation": "$WHO$是游牧帝国：",
+        "stage": 1
+    },
+    {
+        "key": "DIPLO_COLONY_NO_NATIVE:0",
+        "original": "$COLONY$ is a Colonial Nation and will never ally us: ",
+        "translation": "$COLONY$是一个殖民地国家且永远不会和我们结盟。",
+        "stage": 1
+    }
+]

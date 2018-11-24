@@ -1,0 +1,716 @@
+[
+    {
+        "key": "BIRTHPLACE_OF_INSTITUTION:0",
+        "original": "$PROV$ is the birthplace of the §Y$NAME$§!",
+        "translation": "$PROV$是§Y$NAME$§!的发源地",
+        "stage": 5
+    },
+    {
+        "key": "feudalism_date:0",
+        "original": "1066",
+        "translation": "1066 年",
+        "stage": 5
+    },
+    {
+        "key": "renaissance_date:0",
+        "original": "1450",
+        "translation": "1450 年",
+        "stage": 5
+    },
+    {
+        "key": "new_world_i_date:0",
+        "original": "1500",
+        "translation": "1500 年",
+        "stage": 5
+    },
+    {
+        "key": "printing_press_date:0",
+        "original": "1550",
+        "translation": "1550 年",
+        "stage": 5
+    },
+    {
+        "key": "global_trade_date:0",
+        "original": "1600",
+        "translation": "1600 年",
+        "stage": 5
+    },
+    {
+        "key": "manufactories_date:0",
+        "original": "1650",
+        "translation": "1650 年",
+        "stage": 5
+    },
+    {
+        "key": "enlightenment_date:0",
+        "original": "1700",
+        "translation": "1700 年",
+        "stage": 5
+    },
+    {
+        "key": "DATE_EARLIERST_FOR_INSTI:0",
+        "original": "This is the earliest date that this institution can appear and spread through the world.",
+        "translation": "这是该思潮能在世界上出现并传播的最早时间。",
+        "stage": 5
+    },
+    {
+        "key": "INSTITUTION_CAN_APPEAR:1",
+        "original": "Among your provinces it is most likely to appear in $PROVINCE|Y$ due to:\\n",
+        "translation": "基于以下因素，你所有的省份中$PROVINCE|Y$最可能出现此思潮：\\n",
+        "stage": 5
+    },
+    {
+        "key": "feudalism:0",
+        "original": "Feudalism",
+        "translation": "封建制度",
+        "stage": 5
+    },
+    {
+        "key": "renaissance:0",
+        "original": "Renaissance",
+        "translation": "文艺复兴",
+        "stage": 5
+    },
+    {
+        "key": "new_world_i:0",
+        "original": "Colonialism",
+        "translation": "殖民主义",
+        "stage": 5
+    },
+    {
+        "key": "printing_press:0",
+        "original": "Printing Press",
+        "translation": "印刷机应用",
+        "stage": 5
+    },
+    {
+        "key": "global_trade:0",
+        "original": "Global Trade",
+        "translation": "全球贸易",
+        "stage": 5
+    },
+    {
+        "key": "manufactories:0",
+        "original": "Manufactories",
+        "translation": "工场生产",
+        "stage": 5
+    },
+    {
+        "key": "enlightenment:0",
+        "original": "Enlightenment",
+        "translation": "启蒙主义",
+        "stage": 5
+    },
+    {
+        "key": "desc_feudalism:0",
+        "original": "Over time most societies develop a need for a common structure with stronger and more permanent institutions of government. After the fall of the Roman Empire this need came to be filled by a number of institutions and customs that taken together are often considered to be part of the European Feudal system. For similar reasons permanent government and societal systems have formed all over the world, some of which have roots that go far further back than Feudalism itself.\\nUnlike the other Institutions 'Feudalism' covers a wide range of different systems and exists from the start in all parts of the world where a strong tradition of Urbanism, Institutionalized Government and Social Stratification has reached a critical point. The institution can spread from contact with any of these cultures, or in some cases begin to grow on its own in a society that fulfills certain criteria.",
+        "translation": "随着时间的推移，大部分的社会都逐渐需要一种更为强力且持久的政府体系。在罗马帝国分崩离析之后，出现的一些政府体系以及习惯满足了这一诉求，而这也被认为是欧洲封建体系的一部分。由于相似的原因，世界各地都建立起了相应的长期政府以及社会体系，其中一部分体制甚至可以追溯到封建制度出现之前。\\n「封建制度」与其他的思潮不同，广泛包含了许多不同的系统，从游戏一开始就存在于世界上，在那些城市化，政府组织化以及社会阶级化到达一定程度的地方。与这些具有封建主义思潮的社会接触会使思潮在领土上传播，或者，当一个社会发展到一定的程度时，这一思潮会自然出现。",
+        "stage": 1
+    },
+    {
+        "key": "desc_renaissance:0",
+        "original": "Since the 14th century the wealthy and powerful in the Italian City states have been patronizing artists and scholars willing to explore the old Roman and Greek societies of their forefathers. As a cultural movement the Renaissance already encompasses most of the region and has had a profound impact on literature, art, philosophy and music. Humanist scholars are also analyzing the society in which they live, comparing it to the ideals of the Classical philosophers. Renaissance Humanism has grown into a more mature movement, ready to permeate all aspects of society. A new ideal for rulers as well as those who are ruled is spreading as quickly as the early Printers can distribute copies of these new ideas. A true Renaissance Humanist is an expert on everything from Politics and Philosophy to art, textual analysis, music and architecture. The Renaissance is now ready to reshape the world to better fit its classical ideals.",
+        "translation": "自14世纪以来，意大利诸城邦的财阀氏族们就一直对有意探索他们古希腊与古罗马祖先社会的艺术家和学者们进行赞助。文艺复兴作为一场文化运动，其思想已经深入并且广泛传播在意大利各地，同时对文学，艺术，哲学以及音乐产生了深远的影响。人文学家也在也在研究分析他们所生活的社会，将其与古典哲学理想进行比较。文艺复兴人文主义已经发展成熟，即将渗透至社会的各个方面。对于统治者以及被统治者，一种新的理念开始出现，藉由早期印刷机的帮助，这些全新的理念迅速传播。真正的文艺复兴人文主义者须通晓方方面面，不仅要专精于政治与哲学，更要涉猎艺术，文字分析，音乐，建筑。如今，文艺复兴正准备重塑整个世界，让它朝着其古典主义的理想迈进。",
+        "stage": 5
+    },
+    {
+        "key": "desc_new_world_i:0",
+        "original": "The discovery of the New World has heralded a new era not only for the colonizers and the colonized, it has led to a spread of materials and techniques as well as a realization of the vast size of the globe. As animals, crop types, silver and diseases spread across the Atlantic the first steps have been taken towards a truly global economy and as foreign lands and people are mapped and documented ideas as well as religious and philosophical debate has become more and more colored by what we have found in overseas societies. Great minds feel the need to question what was once truth and from Valladolid to Fatehpur Sikri the nature of the world is now up for debate.",
+        "translation": "新世界的发现预兆着一个新时代的到来，不仅对于殖民者来说是如此，对于被殖民者更是如此。原材料与科技迅速传播，人们对于世界边际的认识也迅速扩大。随着许多动物，农作物，白银，当然还有各类疾病开始穿梭在大西洋两岸的世界，人类终于向经济全球化迈出了第一步。当陌生的土地出现在地图上，当陌生的民族被记载下来，我们的理念，我们的宗教与哲学之辩也越来越受到这些远洋社会的影响。一些伟人开始思考那些人们一度确信的真理是否存伪，于是，从巴利亚多利德至法塔赫布尔西格里，思想家们纷纷开始讨论起世界的本质。",
+        "stage": 5
+    },
+    {
+        "key": "desc_printing_press:0",
+        "original": "The ability to mass-produce the written word would revolutionize the spread of information and in many ways the early modern society as a whole. Pioneered by Renaissance men such as Venetian Printer Aldus Manutius, the new art helped fuel the Renaissance by making the translated classics more widely available. Later the Reformation benefitted greatly from the ability to spread critical publications and translations of the Holy Scriptures.\\nNow that Printing has matured as a technique and spread throughout Europe editions have grown and hundreds of thousands of copies of everything from Religious and Political pamphlets to instructions in how to behave or scientific treatises are circulating the continent. With Print Shops growing evermore commonplace rulers have found it hard to contain the new technique as the comparatively easy means of production means censorship can be sidestepped by moving business across a border or even just changing the name on a title page.",
+        "translation": "大量印刷文字的能力将彻底改变信息的传播方式，并在各个方面改变近代社会的整体。在文艺复兴的时代，像威尼斯印刷商阿尔杜斯·马努提乌斯这样的人所发明的新技术让译制经典更加易于传播，进一步推动了那场运动的进程。后来，由于圣经的新译本以及相关的重要著作通过印刷术迅速传播开来，宗教改革的进程也从这项技术中获益。\\n如今，印刷技术已经发展成熟，并且已经布及欧洲各地，复印的版次也在不断增加，从宗教、政治手册，到行为指南，到科学论文，成千上万的各式各样的印刷品都在欧洲大陆上广泛流传着。随着印刷行业的逐步壮大，越来越多的统治者发现自己难以管控这一项新技术，因为这些生产技术相对简单，印刷商若想要逃脱审查，只需把生意移到边境线之外，甚至只用改变书的标题，都不是什么难事。",
+        "stage": 5
+    },
+    {
+        "key": "desc_global_trade:0",
+        "original": "Goods have been moved across continents since antiquity. But where this was previously limited to a set number of routes and goods such as the manufactured goods of India and China finding their way across the Indian Ocean and along the Silk Road, all trade is now increasingly becoming part of a greater world network. With the discovery of the Americas, sea routes around Africa and the crossing of the pacific ocean, local trade networks are being connected into one world-spanning interconnected web.\\nSilver mined in the Andes is now being boxed and taken via Europe all the way to China and India. Iron mined and wrought in Scandinavia is being sold in West Africa by English Merchants and others are making a fortune just distributing cloth and spices within the South East Asian trade sphere. Local Indian merchants are investing in future European trade ventures. It may still be early to speak of a truly Global Economy but surely the first seeds have been sown.",
+        "translation": "自古以来，跨大陆的商品往来就存在了。但是我们曾经贸易线路与货物都屈指可数，比如说，通过丝绸之路和印度洋航线，中国和印度的商品才能来到欧洲。而如今，所有的贸易正在逐渐形成全球贸易网络的一部分。随着美洲的发现，非洲航路的开辟，跨越太平洋的壮举，地方贸易网开始逐渐接入到全球性贸易网当中。\\n从安第斯山脉开采的银矿被整箱整箱地装运回欧洲，再流入中国和印度。斯堪的纳维亚半岛上的铁矿制成铁制品，再经由英国商人销往西非。还有一些人仅仅通过在东南亚商圈进行布匹和香料的转销便获利颇丰。印度的本地商人已经开始为未来的欧洲风险贸易做投资。真正的世界经济体可能还没那么快到来，但有一点我们可以确定：它的第一颗种子已经被种下了。",
+        "stage": 5
+    },
+    {
+        "key": "desc_manufactories:0",
+        "original": "While a number of technical innovations during the course of the 16th and 17th centuries has increased the output of production for some products such as iron or cloth to an extent the biggest improvement in the field of production has come in the form of new forms of organization. By creating Manufactories, often outside the city limits, merchant capitalists can both bypass the ancient guild laws that prevent mass production in principle as well as pioneer ways to increase production through organizing and specialization of labor in one place. The forerunners of the later Industrialization are able to increase output by facilitating access to raw materials and mass organization of labor rather than by expensive new machinery. This is in itself a huge change over the often heavily regulated methods of old, however, and together with later technical advances this new mode of production will come to revolutionize society.",
+        "translation": "十六、十七世纪的一系列技术创新提高了诸如铁、布料等资源的产量，但是生产方面最大的创新却在于各种新的组织方式。商业资本家们在城市之外建立起一座座工厂，规避着那些限制大规模生产的工会规则，同时还能开拓增加生产效率的新方法，比如劳动的组织化和专业化。这些未来工业革命的先驱们并没有依靠昂贵的新机器来提高工业的产出，而是依靠发掘获得原材料的便捷途径，以及组织大规模的生产活动来达到自己的目的。相对于老旧而又限制较多的旧制度，这无疑是一次巨大的革新，伴随着之后的科技革命，这一全新的模式又会为这个社会带来巨大的变革。",
+        "stage": 5
+    },
+    {
+        "key": "desc_enlightenment:0",
+        "original": "The last century has seen Rationalism and Empiricism gaining an ever increasing popularity among the great minds of the age. In letters, publications or coffee houses kings, scientists, philosophers and litterateurs are discussing the merits of tolerance, the scientific method and the spreading of enlightenment ideals to all humanity. From universities or courts of enlightened monarchs expeditions are being sent to measure, catalogue, weigh and map the world so that we can better understand the laws that govern the things around us. Others discuss the laws that govern society and try to reach an understanding of the Rights of Men.\\nGreat projects such as the colossal undertaking of creating a complete encyclopedia of all knowledge or a complete index of all plants, animals and fungi in the world are being pursued for the greater good of humanity. The Light of Reason has been lit and many will not rest until it has been brought to all corners of the earth.",
+        "translation": "在上一个世纪，理性主义和经验主义受到了越来越多的伟大思想家的推崇。不论是君主，是科学家，还是文学家，无论在信件中，在书本中，还是在咖啡馆里，都在讨论着开放包容，科学方法以及启蒙思想的传播能够给全人类带来的美好未来。从知名大学，到开明君主的宫廷，四处都有人在给这个世界进行科学衡量、测定、分类和制图，以便于我们更好理解的世界运转的规律。同时亦有许多的人探讨着社会运转的规律，试着去弄明白所谓的“人权”真正的含义。\\n为了全人类的福祉，一些伟大的项目开始实行，比如修订包含一切知识的百科全书或者完成世界上所有动植物和真菌的图鉴。理性之光正在缓缓升起，对许多人而言，他们的使命就是马不停蹄地让这束光芒照亮地球的每个角落。",
+        "stage": 5
+    },
+    {
+        "key": "FEUDALISM_AND_NOBLES:0",
+        "original": "Loyal Noble Estate Present & Adjacent has §YFeudalism§!",
+        "translation": "存在忠诚的贵族阶级，并且相邻地区拥有 §Y封建制度§!",
+        "stage": 5
+    },
+    {
+        "key": "NEIGHBOR_NOT_OWNED_IS_FEUDAL:0",
+        "original": "Borders Nation with §YFeudalism§!",
+        "translation": "相邻国家拥有 §Y封建制度§!",
+        "stage": 5
+    },
+    {
+        "key": "PORT_OR_CAPITAL_IN_COLONY_FEUDAL:0",
+        "original": "Port or Capital in Colonial Nation",
+        "translation": "在殖民国拥有港口或首都",
+        "stage": 5
+    },
+    {
+        "key": "CAPITAL_IN_OLD_WORLD_FEUDAL:0",
+        "original": "Old World Non-Tribal Capital",
+        "translation": "首都在旧大陆且非部落制",
+        "stage": 5
+    },
+    {
+        "key": "INSTITUTION_PENALTY_INFO:0",
+        "original": "The penalty for not having $NAME$ is now $CURR$, but will grow up to $MAX$ by §Y+1%§! each year when active.",
+        "translation": "目前没有$NAME$思潮的惩罚是$CURR$，但在思潮持续时间内将以每年§Y+1%§!的速度持续增长至 $MAX$。",
+        "stage": 5
+    },
+    {
+        "key": "INSTITUTION_PENALTY_INFO_FULL:0",
+        "original": "The penalty for not having $NAME$ is $CURR$.",
+        "translation": "目前没有$NAME$思潮所带来的惩罚是$CURR$。",
+        "stage": 5
+    },
+    {
+        "key": "CV_EMBRACE_INSTITUTION:0",
+        "original": "Embrace $NAME$",
+        "translation": "接受 $NAME$",
+        "stage": 5
+    },
+    {
+        "key": "INSTI_NOT_YET:0",
+        "original": "This institution has not yet been created in the world.",
+        "translation": "该思潮还没有在世界上出现。",
+        "stage": 5
+    },
+    {
+        "key": "MBRACE_INSTITUTI:1",
+        "original": "Currently spreads by $SPEED$ each month.",
+        "translation": "目前以 $SPEED$ 每月的速度增长",
+        "stage": 5
+    },
+    {
+        "key": "INSTITUTION_SPREAD_HELP:0",
+        "original": "Institutions spread between provinces over time. You can also increase the development to directly spread an institution.",
+        "translation": "在相邻的省份之间，思潮传播会随着时间的流逝而渐渐增长，你也可以通过增加发展度来直接传播思潮。",
+        "stage": 5
+    },
+    {
+        "key": "EMBRACE_STALLED_AT:0",
+        "original": "Currently stalled at $PROGRESS$",
+        "translation": "目前停滞在$PROGRESS$",
+        "stage": 5
+    },
+    {
+        "key": "EMBRACE_DONE_WHEN:0",
+        "original": "At $PROGRESS|G$, expected to be present in $YEAR|Y$.",
+        "translation": "当前进度为$PROGRESS|G$，预计于$YEAR|Y$年出现。",
+        "stage": 5
+    },
+    {
+        "key": "EMBRACE_DONE:0",
+        "original": "Present in $PROVINCE_NAME|Y$.",
+        "translation": "在$PROVINCE_NAME|Y$出现。",
+        "stage": 5
+    },
+    {
+        "key": "MBRACE_INSTITUTI_NOT_POSS:0",
+        "original": "It's not possible for this to spread:\\n$WHY$",
+        "translation": "无法传播：\\n$WHY$",
+        "stage": 5
+    },
+    {
+        "key": "INSTI_PROVIDES:0",
+        "original": "When embraced in the country it will provide:\\n$BONUS$",
+        "translation": "接受思潮后，国家将获得：\\n$BONUS$",
+        "stage": 5
+    },
+    {
+        "key": "MAPMODE_INSTITUTIONS:0",
+        "original": "Institutions",
+        "translation": "思潮",
+        "stage": 5
+    },
+    {
+        "key": "MAPMODE_INSTITUTIONS_DESC:0",
+        "original": "Colors the provinces depending if they have embraced all institutions created. Green means they have embraced them all, yellow means they are currently on the way, and red means they have not.",
+        "translation": "根据是否已经接纳所有已出现的思潮对省份着色。绿色代表省份已接纳所有思潮，黄色代表省份正在接纳思潮，红色代表省份尚未接纳思潮。",
+        "stage": 5
+    },
+    {
+        "key": "HAS_EMBRACED_INSTITUTION:0",
+        "original": "$NAME$: §YPresent§!",
+        "translation": "$NAME$：§Y存在§!",
+        "stage": 5
+    },
+    {
+        "key": "EMBRACING_INSTITUTION:0",
+        "original": "$NAME$: §Y$VAL$%§!",
+        "translation": "$NAME$：§Y$VAL$%§!",
+        "stage": 5
+    },
+    {
+        "key": "NOT_EMBRACED:0",
+        "original": "not embraced: ",
+        "translation": "尚未接受：",
+        "stage": 5
+    },
+    {
+        "key": "OPEN_CLOSE_INSTITUTIONS:0",
+        "original": "Open/Close Institutions",
+        "translation": "打开/关闭省份思潮界面",
+        "stage": 5
+    },
+    {
+        "key": "HEADER_PRESENT_INSTITUTIONS:0",
+        "original": "§YPresent Institutions:§!",
+        "translation": "§Y存在的思潮：§!",
+        "stage": 5
+    },
+    {
+        "key": "HEADER_GROWING_INSTITUTIONS:0",
+        "original": "§YGrowing Institutions:§!",
+        "translation": "§Y正在发展的思潮：§!",
+        "stage": 5
+    },
+    {
+        "key": "GROWING_INSTITUTION:0",
+        "original": "$NAME$: $VAL$, $PER_MONTH$ per month",
+        "translation": "$NAME$：$VAL$，$PER_MONTH$ 每月",
+        "stage": 5
+    },
+    {
+        "key": "GROWTH_MODIFIER:0",
+        "original": "Spread modifier",
+        "translation": "传播速度修正",
+        "stage": 5
+    },
+    {
+        "key": "SCALED_INSTITUTION_DESC:0",
+        "original": "Modifiers marked with * are scaled to the development of the province and will increase if the total development increases.",
+        "translation": "以*标记的修正与地区发展度正相关，当地区总发展度上升时会同时上升。",
+        "stage": 5
+    },
+    {
+        "key": "MODIFIERS_AFFECTING_INSTITUTION_SPREAD:0",
+        "original": "All modifiers affecting spread of $INSTITUTION|Y$:\\n",
+        "translation": "影响$INSTITUTION|Y$传播的修正有：\\n",
+        "stage": 5
+    },
+    {
+        "key": "FRIENDLY_NEIGHBOR_OR_COAST_PROVINCE_HAS_EMBRACED:0",
+        "original": "Nearby Friendly Province has §YFeudalism§!",
+        "translation": "相邻的友好省份拥有§Y封建制度§!",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_global_trade_burghers:0",
+        "original": "Adjacent has Global Trade & Loyal Burghers Present",
+        "translation": "相邻省份拥有全球贸易思潮，并且存在忠诚的市民阶级",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_printing_press_clergy:0",
+        "original": "Adjacent has Printing Press & Loyal Clergy Present",
+        "translation": "相邻省份拥有印刷机应用思潮，并且存在忠诚的教士阶级",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_any_neighbor_has_embraced_renaissance:0",
+        "original": "Adjacent province has §YRenaissance§!",
+        "translation": "相邻省份拥有§Y文艺复兴§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_any_neighbor_has_embraced_printing_press:0",
+        "original": "Adjacent province has §YPrinting Press§!",
+        "translation": "相邻省份拥有§Y印刷机应用§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_any_neighbor_has_embraced_colonialism:0",
+        "original": "Adjacent province has §YColonialism§!",
+        "translation": "相邻省份拥有§Y殖民主义§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_any_neighbor_has_embraced_manufactories:0",
+        "original": "Adjacent province has §YManufactories§!",
+        "translation": "相邻省份拥有§Y工场生产§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_any_neighbor_has_embraced_enlightenment:0",
+        "original": "Adjacent province has §YEnlightenment§!",
+        "translation": "相邻省份拥有§Y启蒙主义§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_colonial_overlord_embraced_renaissance:0",
+        "original": "Port/Capital - Overlord has §YRenaissance§!",
+        "translation": "是港口或首都，且拥有者接纳了§Y文艺复兴§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_colonial_overlord_renaissance:0",
+        "original": "Port/Capital - Colonial Overlord has §YRenaissance§!",
+        "translation": "是殖民国的港口或首都，且宗主国接纳了§Y文艺复兴§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_colonial_overlord_new_world_i:0",
+        "original": "Port/Capital - Colonial Overlord has §YColonialism§!",
+        "translation": "是殖民国的港口或首都，且宗主国接纳了§Y殖民主义§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_colonial_overlord_printing_press:0",
+        "original": "Port/Capital - Colonial Overlord has §YPrinting Press§!",
+        "translation": "是殖民国的港口或首都，且宗主国接纳了§Y印刷机应用§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_colonial_overlord_global_trade:0",
+        "original": "Port/Capital - Colonial Overlord has §YGlobal Trade§!",
+        "translation": "是殖民国的港口或首都，且宗主国接纳了§Y全球贸易§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_colonial_overlord_manufactories:0",
+        "original": "Port/Capital - Colonial Overlord has §YManufactories§!",
+        "translation": "是殖民国的港口或首都，且宗主国接纳了§Y工厂生产§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_colonial_overlord_enlightenment:0",
+        "original": "Port/Capital - Colonial Overlord has §YEnlightenment§!",
+        "translation": "是殖民国的港口或首都，且宗主国接纳了§Y启蒙主义§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_has_colonial_subject_in_new_world:1",
+        "original": "Port/Capital of Country with a New World Colonial Nation",
+        "translation": "是港口或首都，且属于拥有新世界殖民国的国家",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_has_protectorate:0",
+        "original": "Port or Capital of a Protectorate's Overlord",
+        "translation": "是港口或首都，且属于拥有保护国的国家",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_enlightenment_embraced:1",
+        "original": "Not Trade Company & Owner has embraced §YEnlightenment§!",
+        "translation": "不是贸易公司，且拥有者接纳了§Y启蒙主义§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_feudalism_embraced:1",
+        "original": "Not Trade Company & Owner has embraced §YFeudalism§!",
+        "translation": "不是贸易公司，且拥有者接纳了§Y封建制度§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_renaissance_embraced:1",
+        "original": "Not Trade Company & Owner has embraced §YRenaissance§!",
+        "translation": "不是贸易公司，且拥有者接纳了§Y文艺复兴§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_printing_press_embraced:1",
+        "original": "Not Trade Company & Owner has embraced §YPrinting Press§!",
+        "translation": "不是贸易公司，且拥有者接纳了§Y印刷机应用§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_new_world_i_embraced:1",
+        "original": "Not Trade Company & Owner has embraced §YColonialism§!",
+        "translation": "不是贸易公司，且拥有者接纳了§Y殖民主义§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_global_trade_embraced:1",
+        "original": "Not Trade Company & Owner has embraced §YGlobal Trade§!",
+        "translation": "不是贸易公司，且拥有者接纳了§Y全球贸易§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_manufactories_embraced:1",
+        "original": "Not Trade Company & Owner has embraced §YManufactories§!",
+        "translation": "不是贸易公司，且拥有者接纳了§Y工厂生产§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_neighbor_port_province_new_world:0",
+        "original": "Port neighboring province with §YColonialism§!",
+        "translation": "是港口，且相邻省份拥有§Y封建制度§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_neighbor_port_province_global_trade:0",
+        "original": "Port neighboring province with §YGlobal Trade§!",
+        "translation": "是港口，且相邻省份拥有§Y全球贸易§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_neighbor_non_port_province_global_trade:0",
+        "original": "Neighboring province with §YGlobal Trade§!",
+        "translation": "相邻省份拥有§Y全球贸易§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_italian_capital:0",
+        "original": "Italian Capital",
+        "translation": "是意大利地区的首都",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_development_10:0",
+        "original": "European 10 development province",
+        "translation": "欧洲发展度为10的省份",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_development_20:0",
+        "original": "European 20 development province",
+        "translation": "欧洲发展度为20的省份",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_development_20_capital:0",
+        "original": "European 20 development capital",
+        "translation": "欧洲发展度为20的首都",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_development_5_post_1500:0",
+        "original": "European 5 development province - post 1500",
+        "translation": "在1500年以后，欧洲发展度为5的省份",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_flanders_tuscany_venetia:0",
+        "original": "Province in the Flanders, Tuscany or Venetia Area",
+        "translation": "在佛兰德斯、托斯卡纳或威尼斯地区的省份",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_dip_tech15_capital:0",
+        "original": "Capital of country with DIP Tech 15",
+        "translation": "外交科技为15级的国家的首都",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_owner_protestant:1",
+        "original": "Not Trade Company & State Religion is Protestant or Reformed",
+        "translation": "不是贸易公司并且国教为新教或者改革宗",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_owner_reformed:1",
+        "original": "Not Trade Company & State Religion is Reformed",
+        "translation": "不是贸易公司并且国教为改革宗",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_province_protestant:1",
+        "original": "Province is Protestant or Reformed",
+        "translation": "该省宗教为新教或者改革宗",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_province_reformed:0",
+        "original": "Province is Reformed",
+        "translation": "该省宗教为改革宗",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_has_seat_in_parliament:0",
+        "original": "Province has seat in Parliament",
+        "translation": "该省份在国会拥有席位",
+        "stage": 5
+    },
+    {
+        "key": "tooltip_full_innovativeness:0",
+        "original": "Capital of Country with Full Innovative Ideas",
+        "translation": "完成革新理念的国家的首都",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_philosopher_capital:0",
+        "original": "Capital of DIP tech 20 Country with a Philosopher",
+        "translation": "外交科技为20级且拥有哲学家顾问的国家的首都",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_scientist_capital:0",
+        "original": "Capital of DIP tech 20 country with a Scientist",
+        "translation": "外交科技为20级且拥有科学家顾问的国家的首都",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_any_friendly_coast_border_province_has_embraced_printing_press:0",
+        "original": "Nearby Friendly Province has §YPrinting Press§!",
+        "translation": "相邻的友好省份拥有 §Y印刷机应用§!",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_any_friendly_coast_border_province_has_embraced_manufactories:0",
+        "original": "Nearby Friendly Province has §YManufactories§!",
+        "translation": "相邻的友好省份拥有§Y工场生产§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_any_friendly_coast_border_province_has_embraced_colonialism:0",
+        "original": "Nearby Friendly Province has §YColonialism§!",
+        "translation": "相邻的友好省份拥有§Y殖民主义§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_any_friendly_coast_border_province_has_embraced_enlightenment:0",
+        "original": "Nearby Friendly Province has §YEnlightenment§!",
+        "translation": "相邻的友好省份拥有§Y启蒙主义§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_any_friendly_coast_border_province_has_embraced_renaissance:0",
+        "original": "Nearby Friendly Province has §YRenaissance§!",
+        "translation": "相邻的友好省份拥有§Y文艺复兴§!思潮",
+        "stage": 1
+    },
+    {
+        "key": "birthplace_of_the_renaissance_institution:0",
+        "original": "Birthplace of the Renaissance",
+        "translation": "文艺复兴的发源地",
+        "stage": 5
+    },
+    {
+        "key": "desc_birthplace_of_the_renaissance_institution:0",
+        "original": "This province was a major center of the Renaissance and still benefits from the developments that brought.",
+        "translation": "该省份是文艺复兴的中心，它依然从这场运动所带来的发展中受益颇丰。",
+        "stage": 1
+    },
+    {
+        "key": "birthplace_of_the_new_world:0",
+        "original": "Major Colonial Port",
+        "translation": "重要的殖民港口",
+        "stage": 1
+    },
+    {
+        "key": "desc_birthplace_of_the_new_world:0",
+        "original": "This province is home to one of the major colonial ports in the world dating back to when the New World was first found.",
+        "translation": "该省份是重要殖民港口，其历史可追溯到新世界发现伊始。",
+        "stage": 1
+    },
+    {
+        "key": "birthplace_of_printing_press:0",
+        "original": "Center of Printing",
+        "translation": "印刷中心",
+        "stage": 5
+    },
+    {
+        "key": "desc_birthplace_of_printing_press:0",
+        "original": "This province is home to a thriving printing industry ever since the discipline really took off in the 16th century.",
+        "translation": "该省份是自16世纪起开始蓬勃发展的印刷行业的发源地。",
+        "stage": 1
+    },
+    {
+        "key": "birthplace_of_global_trade:0",
+        "original": "Global Trade Hub",
+        "translation": "全球贸易中心",
+        "stage": 1
+    },
+    {
+        "key": "desc_birthplace_of_global_trade:0",
+        "original": "This center of trade was the place in which many of the newer developments in global trade were first pioneered. It is still a major center in the global trade network.",
+        "translation": "这一贸易中心率先见证了许多新的商贸技术的出现，在今日它依然是一个主要的全球贸易网络枢纽。",
+        "stage": 1
+    },
+    {
+        "key": "birthplace_of_manufactories:1",
+        "original": "Proto-Industrial Mills",
+        "translation": "原始工业化作坊",
+        "stage": 1
+    },
+    {
+        "key": "desc_birthplace_of_manufactories:0",
+        "original": "This province was the area in which the newer forms of manufactories were first pioneered and is home to a thriving production sector to this day.",
+        "translation": "该省份是新型工场最早出现的地区，目前仍是一个繁荣的生产区。",
+        "stage": 1
+    },
+    {
+        "key": "birthplace_of_enlightenment:0",
+        "original": "Beacon of the Enlightenment",
+        "translation": "启蒙的灯塔",
+        "stage": 1
+    },
+    {
+        "key": "desc_birthplace_of_enlightenment:0",
+        "original": "This province is home to the very first centers of the Enlightenment movement.",
+        "translation": "该省份是启蒙运动的第一中心。",
+        "stage": 1
+    },
+    {
+        "key": "growth_of_global_trade:0",
+        "original": "Growth of Global Trade",
+        "translation": "全球贸易的发展",
+        "stage": 5
+    },
+    {
+        "key": "desc_growth_of_global_trade:0",
+        "original": "This province has benefitted from us embracing our role in the global trade network.",
+        "translation": "随着我们接受并成为全球贸易网中的一员，该地区也因此受益良多。",
+        "stage": 1
+    },
+    {
+        "key": "rapid_collapse_of_society:0",
+        "original": "Rapid Collapse of Society",
+        "translation": "社会的迅速崩溃",
+        "stage": 1
+    },
+    {
+        "key": "desc_rapid_collapse_of_society:0",
+        "original": "Epidemics resulting from first contact with a European power are ravaging our country. An ever-increasing number of dead and sick is causing a rapid collapse of order, discipline and the overall organization of our state.",
+        "translation": "与欧洲国家的第一次接触所带来的瘟疫正在我们的国家肆虐，不断上升的感染和死亡人口正在导致我们国家秩序、法令以及整体结构的迅速崩溃。",
+        "stage": 1
+    },
+    {
+        "key": "rapid_collapse_of_society_tooltip:0",
+        "original": "European Diseases have struck [Root.GetName] less than 25 years ago.",
+        "translation": "不到25年前，来自欧洲的疾病袭击了[Root.GetName]。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_center_of_trade_spread:1",
+        "original": "Province is a Center of Trade of at least level 2",
+        "translation": "该省需要至少是一个二级贸易中心。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_province_protestant_RB:0",
+        "original": "Province is Protestant, Anglican or Reformed",
+        "translation": "省份信仰是新教、圣公宗或改革宗",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_owner_protestant:2",
+        "original": "Not Trade Company & State Religion is Protestant, Anglican, or Reformed",
+        "translation": "不是贸易公司，并且国教为新教、圣公宗或改革宗",
+        "stage": 1
+    },
+    {
+        "key": "desc_birthplace_of_the_renaissance:0",
+        "original": "This province was a major center of the Renaissance and still benefits from the developments that brought.",
+        "translation": "该省份是文艺复兴的中心，它依然从这场运动所带来的发展中受益颇丰。",
+        "stage": 1
+    }
+]
