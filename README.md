@@ -12,7 +12,7 @@ Please visit https://paratranz.com/projects/2 if you want to edit.
 UTF8-BOM
 
 ## Backup Interval
-Every Hour
+Every 6 hours
 
 ## License
 ![CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png)
