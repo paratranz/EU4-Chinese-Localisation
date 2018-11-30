@@ -35,18 +35,12 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Guidantonio #0" = 20
-  "Aldo #0" = 0
-  "Cirillo #0" = 0
-  "Giambattista #0" = 0
-  "Marzio #0" = 0
-  "Scipione #0" = 0
-  "Teodosio #0" = 0
   "圭多巴尔多 #0" = 40  # Guidobaldo #0
   "弗朗切斯科 玛丽亚 #0" = 40  # Francesco Maria #0
   "费德里戈  #1" = 40  # Federigo #1
   "安东尼奥 #0" = 20  # Antonio #0
   "弗朗切斯科 乌巴尔多 #0" = 20  # Francesco Ubaldo #0
+  "圭达安东尼奥 #0" = 20  # Guidantonio #0
   "洛伦佐 #0" = 20  # Lorenzo #0
   "欧丹托尼奥 #0" = 20  # Oddantonio #0
   "卡泰丽娜 #0" = -15  # Caterina #0
@@ -60,50 +54,56 @@ monarch_names = {
   "吉罗拉莫 #0" = 10  # Girolamo #0
   "卢克雷齐娅 #0" = -10  # Lucrezia #0
   "圭多 #1" = 5  # Guido #1
+  "阿尔多 #0" = 0  # Aldo #0
   "阿方索 #0" = 0  # Alfonso #0
   "鲍德温诺 #0" = 0  # Baldovino #0
+  "奇里洛 #0" = 0  # Cirillo #0
   "科西莫 #0" = 0  # Cosimo #0
   "达米亚诺 #0" = 0  # Damiano #0
   "埃吉迪奥 #0" = 0  # Egidio #0
   "弗朗科 #0" = 0  # Franco #0
+  "詹巴蒂斯塔 #0" = 0  # Giambattista #0
   "朱塞佩 #0" = 0  # Giuseppe #0
   "伊波利托 #0" = 0  # Ippolito #0
   "莱昂德罗 #0" = 0  # Leandro #0
+  "马尔齐奥 #0" = 0  # Marzio #0
   "奥维迪奥 #0" = 0  # Ovidio #0
   "保罗 #0" = 0  # Paolo #0
   "彼得罗 #0" = 0  # Pietro #0
   "普洛斯彼罗 #0" = 0  # Prospero #0
   "拉菲罗 #0" = 0  # Rafaello #0
+  "希皮奥内 #0" = 0  # Scipione #0
+  "特奥多西奥 #0" = 0  # Teodosio #0
   "维托里奥 #0" = 0  # Vittorio #0
 }
 leader_names = {
-  "Albani"
-  "Aldobrandini"
-  "Altieri"
-  "Barberini"
-  "Barbo"
-  "Boncompagni"
-  "Borghese"
-  "Borgia"
-  "Braschi"
-  "di Campofregoso"
-  "Carafa"
-  "Castagna"
-  "Cervini"
-  "Chiaramonti"
-  "Chigi"
-  "Colonna"
-  "Condulmeri"
-  "Conti"
-  "Corsini"
-  "Cybo"
-  "Doria-Landi"
-  "Doria-Pamphili"
-  "di Farnese"
-  "Gaetani dell'Aquila"
-  "Gangagnelli"
-  "Ghislieri"
-  "Gonzaga"
+  "阿尔巴尼"  # Albani
+  "阿尔多布兰迪尼"  # Aldobrandini
+  "阿尔提耶里"  # Altieri
+  "巴尔贝里尼"  # Barberini
+  "巴尔博"  # Barbo
+  "邦孔帕尼"  # Boncompagni
+  "博尔盖塞"  # Borghese
+  "波吉亚"  # Borgia
+  "布拉斯基"  # Braschi
+  "迪 坎波弗雷戈索"  # di Campofregoso
+  "卡拉法"  # Carafa
+  "卡斯塔尼亚"  # Castagna
+  "切尔维尼"  # Cervini
+  "基亚拉蒙蒂"  # Chiaramonti
+  "基吉"  # Chigi
+  "科隆纳"  # Colonna
+  "孔杜尔梅里"  # Condulmeri
+  "孔蒂"  # Conti
+  "科尔西尼"  # Corsini
+  "契波"  # Cybo
+  "多里亚 兰迪"  # Doria-Landi
+  "多里亚 潘菲利"  # Doria-Pamphili
+  "迪 法尔内塞"  # di Farnese
+  "加埃塔尼 德阿奎拉"  # Gaetani dell'Aquila
+  "甘加尼利"  # Gangagnelli
+  "吉斯列里"  # Ghislieri
+  "贡扎加"  # Gonzaga
   "Lambertini"
   "Lante"
   "Ludovisi"
