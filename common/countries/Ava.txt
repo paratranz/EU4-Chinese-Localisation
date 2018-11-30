@@ -26,8 +26,6 @@ historical_units = {
   reformed_asian_cavalry
 }
 monarch_names = {
-  "Sao Sit Pan Tu #0" = 10
-  "Khway #0" = -1
   "他拖弥婆耶 #0" = 30  # Thadominbya #0
   "鄂努 #0" = 30  # Nga Nu #0
   "明吉斯伐修寄 #0" = 30  # Swasawke #0
@@ -44,6 +42,7 @@ monarch_names = {
   "思洪发 #0" = 30  # Thohanbwa #0
   "康孟 #0" = 30  # Hkonmaing #0
   "孟拜 那罗波帝 #0" = 30  # Mobye Narapati #0
+  "绍西班杜 #0" = 10  # Sao Sit Pan Tu #0
   "绍艾奥 #0" = 10  # Sao Ai Awn #0
   "艾吴沙 #0" = 10  # Ai Wu Hsa #0
   "彝康卡 #0" = 10  # Yi Hkam Hka #0
@@ -72,6 +71,7 @@ monarch_names = {
   "乌摩 #0" = -1  # Omma #0
   "陶吴 #0" = -1  # Taw Oo #0
   "吉 #0" = -1  # Gyi #0
+  "奎  #0" = -1  # Khway #0
   "骠 #0" = -1  # Pyan #0
   "密 #0" = -1  # Myat #0
   "土 #0" = -1  # Htut #0
@@ -81,7 +81,7 @@ monarch_names = {
 leader_names = {
   "阿瓦"  # Ava
   "貌"  # Maw
-  "Hopon"
+  "霍本"  # Hopon
   "直通"  # Thaton
   "他孟干"  # Thamaingkan
   "当都"  # Thaungdut
@@ -89,68 +89,68 @@ leader_names = {
   "昔吉"  # Thigyit
   "锡袍"  # Thibaw
   "迦梨"  # Kale
-  "Kyithi Bansan"
-  "Kyaingchaing"
-  "Kyaingkan"
-  "Kyaingtong"
-  "Kokang"
-  "Kyon"
-  "Kyaukku"
-  "Lègya"
-  "Yatsauk"
-  "Lwee"
-  "Lwelong"
-  "Lwemaw"
-  "Manglon"
-  "Monghsu"
-  "Monglin"
-  "Mongleam"
-  "Mongtorm"
-  "Maukme"
-  "Bawnin"
-  "Bawzaing"
+  "基蒂 班山"  # Kyithi Bansan
+  "景清"  # Kyaingchaing
+  "景甘"  # Kyaingkan
+  "景栋"  # Kyaingtong
+  "果敢"  # Kokang
+  "基翁"  # Kyon
+  "皎库"  # Kyaukku
+  "莱卡"  # Lègya
+  "雅绍"  # Yatsauk
+  "莱爱"  # Lwee
+  "莱愣"  # Lwelong
+  "莱莫"  # Lwemaw
+  "蟒冷"  # Manglon
+  "孟休"  # Monghsu
+  "孟林"  # Monglin
+  "孟里"  # Mongleam
+  "孟峒"  # Mongtorm
+  "莫迈"  # Maukme
+  "邦宁"  # Bawnin
+  "宝赞"  # Bawzaing
   "莫冈"  # Mogaung
-  "Mönglong"
-  "Momeik"
-  "Monè"
-  "Mongnawng"
-  "Mobye"
-  "Mong Pan"
-  "Maingpyin"
-  "Maingseik"
-  "Maington"
-  "Mohnyin"
-  "Möngyawng"
-  "Nanke"
-  "Nankok"
-  "Nankon"
-  "Nantok"
-  "Panglawng"
-  "Pangmi"
-  "Pindara"
-  "Poila"
-  "Sakoi"
-  "Samka"
-  "Tawngpeng"
-  "Bhamo"
-  "Banyin"
-  "Wynn Tho"
-  "Nyaungshwe"
-  "Yengan"
+  "孟龙"  # Mönglong
+  "孟湄"  # Momeik
+  "孟冒"  # Monè
+  "孟瑙"  # Mongnawng
+  "莫比"  # Mobye
+  "孟班"  # Mong Pan
+  "孟宾"  # Maingpyin
+  "孟昔"  # Maingseik
+  "孟峒"  # Maington
+  "孟养"  # Mohnyin
+  "孟阳"  # Möngyawng
+  "南凯"  # Nanke
+  "南口"  # Nankok
+  "南孔"  # Nankon
+  "南斗"  # Nantok
+  "班老"  # Panglawng
+  "班米"  # Pangmi
+  "宾达拉"  # Pindara
+  "波维拉"  # Poila
+  "撒奎"  # Sakoi
+  "桑嘎"  # Samka
+  "东本"  # Tawngpeng
+  "八莫"  # Bhamo
+  "班宁"  # Banyin
+  "稳铎"  # Wynn Tho
+  "娘水"  # Nyaungshwe
+  "元岗"  # Yengan
 }
 ship_names = {
-  "Salween"
-  "Taunggyi"
-  "Kengtong"
-  "Tachileik"
-  "Nam"
-  "Thanlwin"
-  "Saluen"
-  "Lui"
-  "Hsim"
-  "Teng"
-  "Myitnge"
-  "Pilu"
-  "Inle"
-  "Shweli"
+  "萨尔温"  # Salween
+  "东枝"  # Taunggyi
+  "景栋"  # Kengtong
+  "大其力"  # Tachileik
+  "楠"  # Nam
+  "萨尔温"  # Thanlwin
+  "萨尔温"  # Saluen
+  "磊"  # Lui
+  "希姆"  # Hsim
+  "腾"  # Teng
+  "米坦格"  # Myitnge
+  "毗禄"  # Pilu
+  "茵莱"  # Inle
+  "瑞丽"  # Shweli
 }
