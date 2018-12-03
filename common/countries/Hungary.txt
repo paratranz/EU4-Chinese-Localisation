@@ -36,12 +36,6 @@ historical_units = {
   eastern_carabinier
 }
 monarch_names = {
-  "Zsigmond #1" = 10
-  "Anasztáz #0" = 0
-  "Edvárd #0" = 0
-  "Ernö #0" = 0
-  "József #0" = 0
-  "Kázmér #0" = 0
   "伊什特万 #5" = 40  # István #5
   "拉斯洛 #4" = 40  # László #4
   "拉约什 #1" = 20  # Lajos #1
@@ -51,18 +45,24 @@ monarch_names = {
   "马加什 #1" = 20  # Mátyás #1
   "安德拉什 #3" = 15  # András #3
   "卡罗伊 #2" = 15  # Károly #2
+  "齐格蒙德 #1" = 10  # Zsigmond #1
   "贝拉 #4" = 5  # Béla #4
+  "奥瑙斯陶兹 #0" = 0  # Anasztáz #0
   "巴拿巴斯 #0" = 0  # Barnabás #0
   "贝尔塔兰 #0" = 0  # Bertalan #0
   "博尔迪扎尔 #0" = 0  # Boldizsár #0
   "大卫 #0" = 0  # Dávid #0
   "德默特尔 #0" = 0  # Dömötör #0
+  "爱德华 #0" = 0  # Edvárd #0
+  "厄尔诺 #0" = 0  # Ernö #0
   "费伦茨 #0" = 0  # Ferenc #0
   "加博尔 #0" = 0  # Gábor #0
   "哲尔吉 #0" = 0  # György #0
   "伊扎克 #0" = 0  # Izsák #0
   "扬诺 #0" = 0  # Jenö #0
+  "约瑟夫 #0" = 0  # József #0
   "卡尔曼 #1" = 0  # Kálmán #1
+  "卡兹梅尔 #0" = 0  # Kázmér #0
   "罗林茨 #0" = 0  # Lörinc #0
   "卢卡奇 #0" = 0  # Lukács #0
   "马克 #0" = 0  # Márk #0
@@ -80,53 +80,53 @@ monarch_names = {
   "卡塔琳 #0" = -1  # Katalin #0
 }
 leader_names = {
-  "Andrássy"
-  "Alvinczy"
+  "安德拉西"  # Andrássy
+  "奥尔温齐"  # Alvinczy
   "博克斯凯"  # Bocskay
   "拜特伦"  # Bethlen
   "巴陶里"  # Báthory
   "巴提埃"  # Batthyány
-  "Benovský"
-  "Beleznay"
+  "贝诺夫斯基"  # Benovský
+  "拜莱兹瑙伊"  # Beleznay
   "恰克"  # Csák
-  "Dessewffy"
+  "戴谢夫菲"  # Dessewffy
   "埃斯特哈齐"  # Esterházy
-  "Festetics"
-  "Frangepán"
-  "Garay"
+  "费斯特蒂奇"  # Festetics
+  "弗兰根潘"  # Frangepán
+  "高劳伊"  # Garay
   "匈雅提"  # Hunyadi
   "哈迪克"  # Hadik
   "霍尔蒂"  # Horthy
   "基尼日"  # Kinizsi
   "卡罗伊"  # Károlyi
   "卡恩"  # Kán
-  "de Kovats"
-  "Kemeny"
+  "德 科瓦茨"  # de Kovats
+  "凯梅尼"  # Kemeny
   "拉茨科维奇"  # Lackovic'
-  "Losonci"
-  "Mészáros"
-  "Milványi"
+  "洛松齐"  # Losonci
+  "梅萨罗斯"  # Mészáros
+  "米尔温伊"  # Milványi
   "纳道什迪"  # Nadasdy
-  "Ozoray"
-  "Rákóczi"
-  "Rozgonyi"
-  "Šubic'"
-  "Széchenyi"
-  "Thököly"
-  "Teleki"
+  "欧佐劳伊"  # Ozoray
+  "拉科齐"  # Rákóczi
+  "罗兹戈尼"  # Rozgonyi
+  "苏比克"  # Šubic'
+  "塞切尼"  # Széchenyi
+  "托库里"  # Thököly
+  "泰莱基"  # Teleki
   "兹林斯基"  # Zrinski
   "扎波尧"  # Zápolya
   "基赫伊"  # Zichy
 }
 ship_names = {
-  "Aranybulla"
+  "阿若尼布拉"  # Aranybulla
   "阿帕德"  # Arpad
   "马扎尔"  # Magyar
   "西吉斯蒙德"  # Sigismund
-  "Szent Istvan kiraly"
-  "Hunyadi Matyas"
-  "Karoly Robert"
+  "圣斯德望"  # Szent Istvan kiraly
+  "匈雅提 马加什"  # Hunyadi Matyas
+  "卡洛利 罗伯特"  # Karoly Robert
   "纳吉 拉约什"  # Nagy Lajos
-  "Laszlo"
-  "Kalman"
+  "拉斯洛"  # Laszlo
+  "卡尔曼"  # Kalman
 }
