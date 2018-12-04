@@ -32,18 +32,7 @@ historical_units = {
 monarch_names = {
   "Theodore #2" = 80
   "Jacopo #0" = 0
-  "Marcello #0" = 0
-  "Niccolò #0" = 0
-  "Paolo #0" = 0
-  "Raniero #0" = 0
-  "Rinaldo #0" = 0
-  "Salvatore #0" = 0
-  "Timoteo #0" = 0
-  "Uberto #0" = 0
-  "Vittorio #0" = 0
-  "Maria #0" = -1
   "Celeste #0" = -1
-  "Gilberta #0" = -1
   "乔瓦尼 #3" = 60  # Giovanni  #3
   "奥托 #0" = 40  # Otto #0
   "古列尔莫 #0" = 40  # Guglielmo #0
@@ -66,6 +55,17 @@ monarch_names = {
   "伊尼亚齐奥 #0" = 0  # Ignazio #0
   "莱昂纳多 #0" = 0  # Leonardo #0
   "莱奥波尔多 #0" = 0  # Leopoldo #0
+  "马尔切洛 #0" = 0  # Marcello #0
+  "尼科洛 #0" = 0  # Niccolò #0
+  "保罗 #0" = 0  # Paolo #0
+  "拉涅罗 #0" = 0  # Raniero #0
+  "里纳尔多 #0" = 0  # Rinaldo #0
+  "萨尔瓦托雷 #0" = 0  # Salvatore #0
+  "蒂莫泰奥 #0" = 0  # Timoteo #0
+  "乌贝托 #0" = 0  # Uberto #0
+  "维托里奥 #0" = 0  # Vittorio #0
+  "玛丽亚 #0" = -1  # Maria #0
+  "吉尔贝塔 #0" = -1  # Gilberta #0
 }
 leader_names = {
   "d'Absburgo"
@@ -125,8 +125,8 @@ ship_names = {
   "Anselmo de Lucca"
   "Barbara di Brandeburgo"
   "Castelletto Borgo"
-  "Donatello"
-  "Fiume Mincio"
+  "多纳泰罗"  # Donatello
+  "明乔河"  # Fiume Mincio
   "Formigosa"
   "Ghibellini"
   "Guelphi"
@@ -135,8 +135,8 @@ ship_names = {
   "Pinamonte Bonacolsi"
   "Rinaldo Bonacolsi"
   "圣洛伦佐"  # San Lorenzo
-  "San Sebastiano"
-  "Sant'Andrea"
+  "圣塞巴斯蒂亚诺"  # San Sebastiano
+  "圣安德烈亚"  # Sant'Andrea
 }
 army_names = {
   "$PROVINCE$军"  # Armata de $PROVINCE$
