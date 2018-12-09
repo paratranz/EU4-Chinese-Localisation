@@ -33,10 +33,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Aksel #0" = 0
-  "Ansgard #0" = 0
-  "Bernt #0" = 0
-  "Njåld #0" = 0
   "霍孔 #6" = 40  # Håkon #6
   "奥拉夫 #4" = 40  # Olav #4
   "埃里克 #2" = 20  # Erik #2
@@ -50,9 +46,12 @@ monarch_names = {
   "托尔希德 #0" = -1  # Torhild #0
   "伊内斯 #2" = 5  # Inge #2
   "西古尔德 #2" = 5  # Sigurd #2
+  "阿克塞尔 #0" = 0  # Aksel #0
   "阿尔夫 #0" = 0  # Alf #0
   "安德斯 #0" = 0  # Anders #0
+  "安斯加德 #0" = 0  # Ansgard #0
   "阿尔维德 #0" = 0  # Arvid #0
+  "伯恩特 #0" = 0  # Bernt #0
   "伯格 #0" = 0  # Birger #0
   "比约恩 #0" = 0  # Bjørn #0
   "丹尼尔 #0" = 0  # Daniel #0
@@ -69,6 +68,7 @@ monarch_names = {
   "卢德维格 #0" = 0  # Ludvig #0
   "马茨 #0" = 0  # Mats #0
   "米海尔 #0" = 0  # Mikael #0
+  "纽尔德 #0" = 0  # Njåld #0
   "尼约德 #0" = 0  # Njord #0
   "奥德蒙特 #0" = 0  # Oddmund #0
   "彼泽 #0" = 0  # Peder #0
@@ -265,39 +265,39 @@ ship_names = {
   "Langfredag"
   "Lillesand"
   "Lindormen"
-  "Lofoten"
+  "罗弗敦"  # Lofoten
   "洛姆"  # Lom
   "Lyngen"
   "莱拉"  # Lyra
   "Lysebussen"
   "Magnus Berrføtt"
   "Magnus Blinde"
-  "Magnus Gode"
+  "马格努斯 戈德"  # Magnus Gode
   "Magnus Lagabøte"
   "Margaretasuden"
   "Mariasuden"
-  "Mars"
+  "马尔斯"  # Mars
   "Mercur"
-  "Meteor"
+  "陨石"  # Meteor
   "Midnatsol"
   "Midtvinter"
   "Mikkelsmess"
-  "Mira"
+  "米拉"  # Mira
   "Mjølner"
-  "Molde"
+  "莫尔德"  # Molde
   "Mosken"
-  "Moss"
+  "莫斯"  # Moss
   "Munkholmen"
   "Myklefløyet"
   "Mørvika"
   "Møvik"
   "Møysalen"
   "Najaden"
-  "Narvik"
-  "Neptun"
-  "Nidaros"
-  "Njord"
-  "Nor"
+  "纳尔维克"  # Narvik
+  "奈普顿"  # Neptun
+  "尼达罗斯"  # Nidaros
+  "尼约德"  # Njord
+  "诺"  # Nor
   "Nordavind"
   "Nordhav"
   "Nordkapp"
@@ -305,17 +305,17 @@ ship_names = {
   "Nordnorge"
   "Nordstjernen"
   "Nornen"
-  "Nova"
+  "新星"  # Nova
   "Nyholm"
   "Nøk"
   "Ognarbranden"
   "Olav Kyrre"
   "Olavssuden"
   "Ombofjord"
-  "Oppland"
-  "Orion"
-  "Ormen"
-  "Oslo"
+  "奥普兰"  # Oppland
+  "俄里翁"  # Orion
+  "澳门"  # Ormen
+  "奥斯陆"  # Oslo
   "Ottar Jarl"
   "Patrioten Georg"
   "Petersbåten"
@@ -338,7 +338,7 @@ ship_names = {
   "Reinen"
   "Ringulv"
   "Risør"
-  "Rogaland"
+  "罗加兰"  # Rogaland
   "Rokken"
   "Ropeid"
   "Ryfylke"
