@@ -767,7 +767,7 @@ country_event = {
   picture = BAD_WITH_MONARCH_eventPicture
   is_triggered_only = yes
   option = {
-    name = flavor_daimyo.12.a 
+    name = flavor_daimyo.12.a
     every_owned_province = {
       limit = {
         OR = {
@@ -891,11 +891,11 @@ country_event = {
   fire_only_once = yes
   trigger = {
     has_reform = shogunate
-    is_year = 1630 
+    is_year = 1630
     NOT = {
       is_year = 1650
     }
-    # owns = 1017
+    owns = 1017
   }
   mean_time_to_happen = {
     months = 60
