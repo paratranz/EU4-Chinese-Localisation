@@ -30,12 +30,12 @@ capital = 248
 1400.12.24 = {
   leader = {
     name = "阿奇博尔德 道格拉斯"  # Archibald Douglas
-    Douglas"type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1424.8.17
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1424.8.17
   }
 }
 1406.1.1 = {
@@ -119,11 +119,11 @@ capital = 248
     mil = 1
     leader = {
       name = "詹姆斯 IV"  # James IV
-      IV"type = "
-      generalfire = "
-      1shock = "
-      3manuever = "
-      2siege = 0
+      type = general
+      fire = 1
+      shock = 3
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -136,11 +136,11 @@ capital = 248
     mil = 1
     leader = {
       name = "詹姆斯 IV"  # James IV
-      IV"type = "
-      generalfire = "
-      1shock = "
-      3manuever = "
-      2siege = 0
+      type = general
+      fire = 1
+      shock = 3
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -193,23 +193,23 @@ capital = 248
 1546.1.1 = {
   leader = {
     name = "詹姆斯 汉密尔顿"  # James Hamilton
-    type = "
-    generalfire = "
-    1shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1569.1.1
+    type = general
+    fire = 1
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1569.1.1
   }
 }
 1550.1.1 = {
   leader = {
     name = "马尔科姆"  # Malcolm
-    type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    2siege = "
-    0death_date = 1595.1.1
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 2
+    siege = 0
+    death_date = 1595.1.1
   }
 }
 1560.8.1 = {
@@ -239,8 +239,8 @@ capital = 248
 }
 1567.7.15 = {
   government = monarchy
-  add_government_reform = "
-  autocracy_reformreligion = reformed
+  add_government_reform = autocracy_reform
+  religion = reformed
 }
 1600.11.19 = {
   heir = {
@@ -267,12 +267,12 @@ capital = 248
 1630.1.1 = {
   leader = {
     name = "詹姆斯 汉密尔顿"  # James Hamilton
-    Hamilton"type = "
-    generalfire = "
-    1shock = "
-    1manuever = "
-    2siege = "
-    0death_date = 1649.3.9
+    type = general
+    fire = 1
+    shock = 1
+    manuever = 2
+    siege = 0
+    death_date = 1649.3.9
   }
 }
 1630.5.29 = {
@@ -291,23 +291,23 @@ capital = 248
 1635.1.1 = {
   leader = {
     name = "亚历山大 莱斯利"  # Alexander Leslie
-    Leslie"type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    2siege = "
-    0death_date = 1651.8.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1651.8.1
   }
 }
 1644.1.1 = {
   leader = {
     name = "戴维 莱斯利"  # David Leslie
-    Leslie"type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1650.1.1
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1650.1.1
   }
 }
 1649.1.30 = {
@@ -328,11 +328,11 @@ capital = 248
     mil = 3
     leader = {
       name = "查理 II"  # Charles II
-      II"type = "
-      generalfire = "
-      2shock = "
-      5manuever = "
-      2siege = 0
+      type = general
+      fire = 2
+      shock = 5
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -352,12 +352,12 @@ capital = 248
 1678.1.1 = {
   leader = {
     name = "邓迪"  # Dundee
-    type = "
-    generalfire = "
-    1shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1689.1.1
+    type = general
+    fire = 1
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1689.1.1
   }
 }
 1685.2.6 = {
@@ -381,12 +381,12 @@ capital = 248
 1694.1.1 = {
   leader = {
     name = "贝里克"  # Berwick
-    type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1723.1.1
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1723.1.1
   }
 }
 1701.9.7 = {

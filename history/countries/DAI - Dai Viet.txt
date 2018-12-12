@@ -97,11 +97,11 @@ capital = 613
     mil = 5
     leader = {
       name = "黎利"  # Lê Loi
-      Loi"type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      5siege = 0
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 5
+      siege = 0
     }
   }
 }
@@ -196,12 +196,12 @@ capital = 613
 1492.1.1 = {
   leader = {
     name = "洪德"  # Hong Duc
-    type = "
-    generalfire = "
-    1shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1497.1.1
+    type = general
+    fire = 1
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1497.1.1
   }
 }
 1497.3.4 = {
@@ -481,12 +481,12 @@ capital = 613
 1687.1.1 = {
   leader = {
     name = "义王"  # Ngai Vuong
-    type = "
-    generalfire = "
-    2shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1702.1.1
+    type = general
+    fire = 2
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1702.1.1
   }
 }
 1705.5.23 = {
@@ -514,12 +514,12 @@ capital = 613
 1715.1.1 = {
   leader = {
     name = "阮"  # Nguyen Cho
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    1siege = "
-    1death_date = 1725.1.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 1
+    siege = 1
+    death_date = 1725.1.1
   }
 }
 1729.4.1 = {
@@ -591,12 +591,12 @@ capital = 613
 1738.1.1 = {
   leader = {
     name = "阮濶"  # Nguyen Khoat
-    type = "
-    conquistadorfire = "
-    1shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1765.1.1
+    type = conquistador
+    fire = 1
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1765.1.1
   }
 }
 1740.6.1 = {
@@ -624,12 +624,12 @@ capital = 613
 1767.1.1 = {
   leader = {
     name = "郑森"  # Trinh Sam
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    1siege = "
-    0death_date = 1782.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 1
+    siege = 0
+    death_date = 1782.1.1
   }
 }
 1776.1.1 = {
@@ -651,12 +651,12 @@ capital = 613
   }
   leader = {
     name = "阮惠"  # Nguyen Hue
-    Hue"type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    4siege = "
-    1death_date = 1792.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 1
+    death_date = 1792.1.1
   }
 }
 1792.1.1 = {

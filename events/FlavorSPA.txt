@@ -24,6 +24,7 @@ country_event = {
           is_subject = no
           is_neighbor_of = ROOT
         }
+        num_of_cities = 25
       }
       AND = {
         tag = ARA
@@ -38,6 +39,7 @@ country_event = {
           is_subject = no
           is_neighbor_of = ROOT
         }
+        num_of_cities = 16
       }
     }
     is_year = 1450
@@ -599,14 +601,22 @@ country_event = {
   trigger = {
     OR = {
       AND = {
-        tag = CAS
         NOT = {
-          exists = SPA
+          has_dlc = "Golden Century"
         }
+        OR = {
+          AND = {
+            tag = CAS
+            NOT = {
+              exists = SPA
+            }
+          }
+          tag = SPA
+        }
+        num_of_colonists = 2
       }
-      tag = SPA
+      has_country_flag = spa_house_of_trade_flag
     }
-    num_of_colonists = 2
   }
   mean_time_to_happen = {
     months = 120
@@ -663,9 +673,17 @@ country_event = {
   picture = MERCHANTS_TALKING_eventPicture
   fire_only_once = yes
   trigger = {
-    tag = SPA
-    owns = 224
-    colony = 3
+    OR = {
+      AND = {
+        NOT = {
+          has_dlc = "Golden Century"
+        }
+        tag = SPA
+        owns = 224
+        colony = 3
+      }
+      has_country_flag = sevilla_trade_center_flag
+    }
   }
   mean_time_to_happen = {
     months = 120
@@ -794,6 +812,14 @@ country_event = {
     is_year = 1600
     any_owned_province = {
       culture = andalucian
+    }
+    NOT = {
+      has_dlc = "Golden Century"
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      set_global_flag = expulsion_of_the_moriscos_flag
     }
   }
   mean_time_to_happen = {
@@ -1911,26 +1937,34 @@ country_event = {
   fire_only_once = yes
   trigger = {
     OR = {
+      has_country_flag = fate_of_granada_mission_flag
       AND = {
-        tag = CAS
         NOT = {
-          exists = SPA
+          has_dlc = "Golden Century"
         }
-      }
-      tag = SPA
-    }
-    has_country_flag = alpujarras_revolt_happened
-    NOT = {
-      has_country_flag = end_of_granada
-    }
-    NOT = {
-      exists = GRA
-    }
-    owns = 223
-    NOT = {
-      any_owned_province = {
-        is_core = GRA
-        controlled_by = REB
+        OR = {
+          AND = {
+            tag = CAS
+            NOT = {
+              exists = SPA
+            }
+          }
+          tag = SPA
+        }
+        has_country_flag = alpujarras_revolt_happened
+        NOT = {
+          has_country_flag = end_of_granada
+        }
+        NOT = {
+          exists = GRA
+        }
+        owns = 223
+        NOT = {
+          any_owned_province = {
+            is_core = GRA
+            controlled_by = REB
+          }
+        }
       }
     }
   }
@@ -1950,12 +1984,6 @@ country_event = {
       }
       change_religion = catholic
       remove_core = GRA
-    }
-    every_owned_province = {
-      limit = {
-        culture = andalucian
-      }
-      change_culture = castillian
     }
     random_country = {
       limit = {
@@ -2270,7 +2298,7 @@ country_event = {
     is_lesser_in_union = no
     marriage_with = HAB
     HAB = {
-      dynasty = "冯 哈布斯堡"  # von Habsburg
+      dynasty = "von Habsburg"
       OR = {
         NOT = {
           has_country_flag = bur_marriage_successor
@@ -2357,7 +2385,7 @@ country_event = {
     is_lesser_in_union = no
     marriage_with = HAB
     HAB = {
-      dynasty = "冯 哈布斯堡"  # von Habsburg
+      dynasty = "von Habsburg"
       ai = yes
       has_country_flag = bur_marriage_successor
     }
@@ -2435,6 +2463,166 @@ country_event = {
           id = flavor_spa.14
         }
       }
+    }
+  }
+}
+country_event = {
+  id = flavor_spa.16
+  title = flavor_spa.16.t
+  desc = flavor_spa.16.d
+  picture = ECONOMY_eventPicture
+  fire_only_once = yes
+  trigger = {
+    OR = {
+      tag = SPA
+      AND = {
+        tag = CAS
+        NOT = {
+          exists = SPA
+        }
+      }
+    }
+    NOT = {
+      is_year = 1600
+    }
+    any_owned_province = {
+      region = iberia_region
+      trade_goods = wool
+    }
+    has_estate = estate_church
+    has_estate = estate_nobles
+  }
+  mean_time_to_happen = {
+    months = 120
+  }
+  option = {
+    name = "flavor_spa.16.a"
+    every_owned_province = {
+      limit = {
+        region = iberia_region
+        trade_goods = wool
+      }
+      add_province_modifier = {
+        name = merino_wool
+        duration = -1
+      }
+      if = {
+        limit = {
+          has_estate = no
+        }
+        random_list = {
+          50 = {
+            set_estate = estate_church
+          }
+          50 = {
+            set_estate = estate_nobles
+          }
+        }
+      }
+    }
+  }
+}
+country_event = {
+  id = flavor_spa.17
+  title = flavor_spa.17.t
+  desc = flavor_spa.17.d
+  picture = ECONOMY_eventPicture
+  fire_only_once = yes
+  trigger = {
+    OR = {
+      tag = SPA
+      AND = {
+        tag = CAS
+        NOT = {
+          exists = SPA
+        }
+      }
+    }
+    any_owned_province = {
+      has_province_modifier = merino_wool
+      OR = {
+        has_building = counting_house
+        has_building = textile
+      }
+    }
+  }
+  mean_time_to_happen = {
+    months = 120
+  }
+  option = {
+    name = "flavor_spa.17.a"
+    if = {
+      limit = {
+        any_owned_province = {
+          has_province_modifier = merino_wool
+          has_estate = estate_church
+        }
+      }
+      add_estate_loyalty = {
+        estate = estate_church
+        loyalty = -10
+      }
+    }
+    if = {
+      limit = {
+        any_owned_province = {
+          has_province_modifier = merino_wool
+          has_estate = estate_nobles
+        }
+      }
+      add_estate_loyalty = {
+        estate = estate_nobles
+        loyalty = -10
+      }
+    }
+    every_owned_province = {
+      limit = {
+        has_province_modifier = merino_wool
+      }
+      remove_province_modifier = merino_wool
+      custom_tooltip = church_nobles_removed_mesta
+      hidden_effect = {
+        remove_estate = estate_church
+        remove_estate = estate_nobles
+      }
+      change_trade_goods = cloth
+      add_province_modifier = {
+        name = "mesta_privileged_revoked"
+        duration = -1
+      }
+    }
+  }
+  option = {
+    name = "flavor_spa.17.b"
+    if = {
+      limit = {
+        any_owned_province = {
+          has_province_modifier = merino_wool
+          has_estate = estate_church
+        }
+      }
+      add_estate_loyalty = {
+        estate = estate_church
+        loyalty = 10
+      }
+    }
+    if = {
+      limit = {
+        any_owned_province = {
+          has_province_modifier = merino_wool
+          has_estate = estate_nobles
+        }
+      }
+      add_estate_loyalty = {
+        estate = estate_nobles
+        loyalty = 10
+      }
+    }
+    every_owned_province = {
+      limit = {
+        has_province_modifier = merino_wool
+      }
+      add_local_autonomy = 50
     }
   }
 }

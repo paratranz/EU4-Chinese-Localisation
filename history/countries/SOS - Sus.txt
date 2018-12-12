@@ -1,14 +1,27 @@
-government = monarchy
-add_government_reform = iqta
+government = theocracy
+add_government_reform = leading_clergy_reform
 primary_culture = berber
 religion = sunni
 technology_group = muslim
 capital = 348
 fixed_capital = 348
 religious_school = maliki_school
-1472.1.1 = {
+1444.1.1 = {
   monarch = {
-    name = "巴拉卡特"  # Barakat
+    name = "Muhammad al-Jazuli"
+    birth_date = 1399.1.1
+    adm = 4
+    dip = 5
+    mil = 2
+  }
+}
+1465.1.1 = {
+  government = monarchy
+  add_government_reform = iqta
+}
+1465.1.1 = {
+  monarch = {
+    name = "Barakat"
     dynasty = "al-Tadsi"
     adm = 2
     dip = 2

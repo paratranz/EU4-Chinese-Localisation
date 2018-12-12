@@ -20,12 +20,12 @@ national_focus = DIP
 1385.4.1 = {
   leader = {
     name = "努诺 阿尔瓦雷什 佩雷拉"  # Nuno Álvares Pereira
-    Pereira"type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    5siege = "
-    0death_date = 1423.1.1
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 5
+    siege = 0
+    death_date = 1423.1.1
   }
 }
 1391.10.31 = {
@@ -44,67 +44,67 @@ national_focus = DIP
 1415.4.1 = {
   leader = {
     name = "因方特斯"  # Infantes
-    "Infantes"type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1449.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1449.1.1
   }
 }
 1417.1.1 = {
   leader = {
     name = "若昂 贡萨尔维斯 扎尔科"  # João Gonçalves Zarco
-    Zarco"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    2siege = "
-    0death_date = 1437.12.31
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 2
+    siege = 0
+    death_date = 1437.12.31
   }
 }
 1417.1.1 = {
   leader = {
     name = "特里斯唐 瓦斯 特谢拉"  # Tristão Vaz Teixeira
-    Teixeira"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    2siege = "
-    0death_date = 1425.12.31
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 2
+    siege = 0
+    death_date = 1425.12.31
   }
 }
 1418.1.1 = {
   leader = {
     name = "巴尔托洛梅乌 佩雷斯特雷洛"  # Bartolomeu Perestrelo
-    Perestrelo"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    2siege = "
-    0death_date = 1428.12.31
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 2
+    siege = 0
+    death_date = 1428.12.31
   }
 }
 1426.1.1 = {
   leader = {
     name = "迪奥戈 德 西尔韦斯"  # Diogo de Silves
-    Silves"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    2siege = "
-    0death_date = 1428.12.31
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 2
+    siege = 0
+    death_date = 1428.12.31
   }
 }
 1432.1.1 = {
   leader = {
     name = "贡萨洛 韦略卡布拉尔"  # Gonçalo Velho Cabral
-    Cabral"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    2siege = "
-    0death_date = 1432.12.31
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 2
+    siege = 0
+    death_date = 1432.12.31
   }
 }
 1433.1.1 = {
@@ -133,34 +133,34 @@ national_focus = DIP
 1433.1.1 = {
   leader = {
     name = "贡萨洛 韦略卡布拉尔"  # Gonçalo Velho Cabral
-    Cabral"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1434.12.31
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1434.12.31
   }
 }
 1434.1.1 = {
   leader = {
     name = "阿方索 贡萨尔维斯 巴尔达亚"  # Afonso Gonçalves Baldaia
-    type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    2siege = "
-    0death_date = 1437.12.31
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1437.12.31
   }
 }
 1435.1.1 = {
   leader = {
     name = "阿夫朗什伯爵"  # Earl of Avranches
-    Avranches"type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1449.5.20
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1449.5.20
   }
 }
 1438.9.10 = {
@@ -187,11 +187,11 @@ national_focus = DIP
     mil = 2
     leader = {
       name = "阿方索 V"  # Afonso V
-      V"type = "
-      generalfire = "
-      3shock = "
-      2manuever = "
-      3siege = 1
+      type = general
+      fire = 3
+      shock = 2
+      manuever = 3
+      siege = 1
     }
   }
   clear_scripted_personalities = yes
@@ -200,12 +200,12 @@ national_focus = DIP
 1443.1.1 = {
   leader = {
     name = "迪奥戈 戈梅斯"  # Diogo Gomes
-    Gomes"type = "
-    explorerfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1462.12.31
+    type = explorer
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1462.12.31
   }
 }
 1448.6.9 = {
@@ -218,11 +218,11 @@ national_focus = DIP
     mil = 2
     leader = {
       name = "阿方索 V"  # Afonso V
-      V"type = "
-      generalfire = "
-      3shock = "
-      2manuever = "
-      3siege = 1
+      type = general
+      fire = 3
+      shock = 2
+      manuever = 3
+      siege = 1
     }
   }
   queen = {
@@ -246,12 +246,12 @@ national_focus = DIP
 1454.1.1 = {
   leader = {
     name = "阿尔维塞 卡达莫斯托"  # Alvise Ca' da Mosto
-    Mosto"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1457.1.1
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1457.1.1
   }
 }
 1455.3.3 = {
@@ -270,45 +270,45 @@ national_focus = DIP
 1459.1.1 = {
   leader = {
     name = "迪奥戈 戈梅斯"  # Diogo Gomes
-    Gomes"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1463.1.1
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1463.1.1
   }
 }
 1460.1.1 = {
   leader = {
     name = "佩德罗 德 辛特拉"  # Pedro de Sintra
-    Sintra"type = "
-    explorerfire = "
-    1shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1463.1.1
+    type = explorer
+    fire = 1
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1463.1.1
   }
 }
 1469.1.1 = {
   leader = {
     name = "费尔南多 波"  # Fernando Pó
-    type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1481.1.1
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1481.1.1
   }
 }
 1471.1.1 = {
   leader = {
     name = "鲁伊 德 塞凯拉"  # Rui de Sequeira
-    Sequeira"type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1475.1.1
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1475.1.1
   }
 }
 1475.5.30 = {
@@ -327,12 +327,12 @@ national_focus = DIP
 1480.1.1 = {
   leader = {
     name = "迪奥戈 康"  # Diogo Cão
-    type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1486.1.1
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1486.1.1
   }
 }
 1481.1.1 = {
@@ -376,34 +376,34 @@ national_focus = DIP
 1482.1.1 = {
   leader = {
     name = "迪奥戈 德 阿赞布雅"  # Diogo de Azambuja
-    Azambuja"type = "
-    conquistadorfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1486.1.1
+    type = conquistador
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1486.1.1
   }
 }
 1487.1.1 = {
   leader = {
     name = "巴尔托洛梅乌 迪亚斯"  # Bartolomeu Dias
-    type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    6siege = "
-    0death_date = 1500.5.29
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 6
+    siege = 0
+    death_date = 1500.5.29
   }
 }
 1487.5.7 = {
   leader = {
     name = "佩罗 达 科维良"  # Pêro da Covilhã
-    type = "
-    conquistadorfire = "
-    3shock = "
-    3manuever = "
-    6siege = "
-    0death_date = 1530.1.1
+    type = conquistador
+    fire = 3
+    shock = 3
+    manuever = 6
+    siege = 0
+    death_date = 1530.1.1
   }
 }
 1495.10.17 = {
@@ -419,12 +419,12 @@ national_focus = DIP
 1497.7.8 = {
   leader = {
     name = "瓦斯科 达 伽马"  # Vasco da Gama
-    type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    6siege = "
-    0death_date = 1510.1.1
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 6
+    siege = 0
+    death_date = 1510.1.1
   }
 }
 1497.9.30 = {
@@ -443,45 +443,45 @@ national_focus = DIP
 1500.1.1 = {
   leader = {
     name = "鲁伊 洛伦索 拉瓦斯科"  # Rui Lourenço Ravasco
-    Ravasco"type = "
-    conquistadorfire = "
-    3shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1506.1.1
+    type = conquistador
+    fire = 3
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1506.1.1
   }
 }
 1500.3.9 = {
   leader = {
     name = "佩德罗 阿尔瓦雷什 卡布拉尔"  # Pedro Álvares Cabral
-    type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    5siege = "
-    0death_date = 1502.1.1
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 5
+    siege = 0
+    death_date = 1502.1.1
   }
 }
 1500.5.12 = {
   leader = {
     name = "加斯帕尔 科尔特 雷亚尔"  # Gaspar Corte-Real
-    type = "
-    explorerfire = "
-    3shock = "
-    3manuever = "
-    5siege = "
-    0death_date = 1503.1.1
+    type = explorer
+    fire = 3
+    shock = 3
+    manuever = 5
+    siege = 0
+    death_date = 1503.1.1
   }
 }
 1500.5.12 = {
   leader = {
     name = "米格尔 科特 雷亚莱"  # Miguel Corte-Real
-    type = "
-    explorerfire = "
-    3shock = "
-    3manuever = "
-    5siege = "
-    0death_date = 1503.1.1
+    type = explorer
+    fire = 3
+    shock = 3
+    manuever = 5
+    siege = 0
+    death_date = 1503.1.1
   }
 }
 1500.10.30 = {
@@ -500,34 +500,34 @@ national_focus = DIP
 1501.1.1 = {
   leader = {
     name = "阿美利哥 维斯普西"  # Amerigo Vespucci
-    Vespucci"type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1504.1.1
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1504.1.1
   }
 }
 1502.1.1 = {
   leader = {
     name = "加斯帕 德 莱莫斯"  # Gaspar de Lemos
-    Lemos"type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1504.1.1
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1504.1.1
   }
 }
 1502.1.1 = {
   leader = {
     name = "孔卡洛 科埃尔奥"  # Gonçalo Coelho
-    Coelho"type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1504.1.1
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1504.1.1
   }
 }
 1502.6.7 = {
@@ -546,23 +546,23 @@ national_focus = DIP
 1503.1.1 = {
   leader = {
     name = "弗朗西斯科 德 阿尔梅达"  # Francisco de Almeida
-    Almeida"type = "
-    conquistadorfire = "
-    4shock = "
-    5manuever = "
-    6siege = "
-    2death_date = 1510.3.1
+    type = conquistador
+    fire = 4
+    shock = 5
+    manuever = 6
+    siege = 2
+    death_date = 1510.3.1
   }
 }
 1509.1.1 = {
   leader = {
     name = "卡拉穆鲁"  # Caramuru
-    "Caramuru"type = "
-    conquistadorfire = "
-    2shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1527.1.1
+    type = conquistador
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1527.1.1
   }
 }
 1518.7.16 = {
@@ -604,12 +604,12 @@ national_focus = DIP
 1530.1.1 = {
   leader = {
     name = "马蒂姆 德 索萨"  # Martim de Sousa
-    type = "
-    conquistadorfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1564.1.1
+    type = conquistador
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1564.1.1
   }
 }
 1534.8.15 = {
@@ -634,12 +634,12 @@ national_focus = DIP
 1556.1.1 = {
   leader = {
     name = "梅姆 德 萨"  # Mem de Sá
-    type = "
-    conquistadorfire = "
-    4shock = "
-    5manuever = "
-    5siege = "
-    2death_date = 1560.1.1
+    type = conquistador
+    fire = 4
+    shock = 5
+    manuever = 5
+    siege = 2
+    death_date = 1560.1.1
   }
 }
 1557.6.13 = {
@@ -679,12 +679,12 @@ national_focus = DIP
 1578.1.1 = {
   leader = {
     name = "克拉托修道院院长 安东尼奥"  # António, Prior do Crato
-    type = "
-    generalfire = "
-    3shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1580.2.1
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1580.2.1
   }
 }
 1578.8.6 = {
@@ -710,11 +710,11 @@ national_focus = DIP
     mil = 4
     leader = {
       name = "安东尼奥 I"  # António I
-      type = "
-      generalfire = "
-      3shock = "
-      2manuever = "
-      3siege = 0
+      type = general
+      fire = 3
+      shock = 2
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -728,11 +728,11 @@ national_focus = DIP
     mil = 4
     leader = {
       name = "安东尼奥 I"  # António I
-      type = "
-      generalfire = "
-      3shock = "
-      2manuever = "
-      3siege = 0
+      type = general
+      fire = 3
+      shock = 2
+      manuever = 3
+      siege = 0
     }
   }
   queen = {
@@ -750,67 +750,67 @@ national_focus = DIP
 1585.1.1 = {
   leader = {
     name = "阿方索 德 卡斯特罗"  # Afonso de Castro
-    Castro"type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    5siege = "
-    0death_date = 1607.6.3
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 5
+    siege = 0
+    death_date = 1607.6.3
   }
 }
 1595.1.1 = {
   leader = {
     name = "佩德罗 费尔南德斯 奎罗兹"  # Pedro Fernandes Queiróz
-    Queiróz"type = "
-    explorerfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1615.1.1
+    type = explorer
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1615.1.1
   }
 }
 1602.1.1 = {
   leader = {
     name = "安东尼奥 费尔南德斯"  # António Fernandes
-    type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    4siege = "
-    0death_date = 1624.1.1
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 4
+    siege = 0
+    death_date = 1624.1.1
   }
 }
 1606.1.1 = {
   leader = {
     name = "阿尔瓦罗 德 梅內塞斯"  # D. Álvaro de Meneses
-    type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1620.1.1
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1620.1.1
   }
 }
 1624.1.1 = {
   leader = {
     name = "努诺 阿尔瓦里什 博特略"  # Nuno Álvares Botelho
-    Botelho"type = "
-    admiralfire = "
-    3shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1650.1.1
+    type = admiral
+    fire = 3
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1650.1.1
   }
 }
 1637.1.1 = {
   leader = {
     name = "佩德罗 特谢拉"  # Pedro Teixeira
-    type = "
-    conquistadorfire = "
-    2shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1640.1.1
+    type = conquistador
+    fire = 2
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1640.1.1
   }
 }
 1640.12.1 = {
@@ -850,12 +850,12 @@ national_focus = DIP
 1655.1.1 = {
   leader = {
     name = "阿尔瓦里什 博特略"  # Álvares Botelho
-    type = "
-    admiralfire = "
-    3shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1680.1.1
+    type = admiral
+    fire = 3
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1680.1.1
   }
 }
 1656.11.7 = {
@@ -887,12 +887,12 @@ national_focus = DIP
 1659.1.1 = {
   leader = {
     name = "弗雷德里希 冯 绍姆贝格"  # F. von Schomberg
-    Schomberg"type = "
-    generalfire = "
-    3shock = "
-    2manuever = "
-    5siege = "
-    1death_date = 1668.1.1
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 5
+    siege = 1
+    death_date = 1668.1.1
   }
 }
 1666.8.2 = {
@@ -932,12 +932,12 @@ national_focus = DIP
 1685.12.1 = {
   leader = {
     name = "弗朗西斯科 达 席尔瓦"  # Francisco da Silva
-    Silva"type = "
-    admiralfire = "
-    3shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1720.2.28
+    type = admiral
+    fire = 3
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1720.2.28
   }
 }
 1687.8.11 = {
@@ -969,12 +969,12 @@ national_focus = DIP
 1700.1.1 = {
   leader = {
     name = "安多尼奥 路易斯 德 索萨"  # António Luís de Sousa
-    Sousa"type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1720.1.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1720.1.1
   }
 }
 1706.12.11 = {
@@ -1069,12 +1069,12 @@ national_focus = DIP
 1761.1.1 = {
   leader = {
     name = "孔迪 德 利佩"  # Conde de Lippe
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    5siege = "
-    0death_date = 1770.1.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 5
+    siege = 0
+    death_date = 1770.1.1
   }
 }
 1777.2.23 = {
@@ -1115,45 +1115,45 @@ national_focus = DIP
 1790.2.27 = {
   leader = {
     name = "伯纳蒂 弗雷里 德 安德雷德"  # B. Freire de Andrade
-    type = "
-    generalfire = "
-    5shock = "
-    3manuever = "
-    4siege = "
-    1death_date = 1809.3.17
+    type = general
+    fire = 5
+    shock = 3
+    manuever = 4
+    siege = 1
+    death_date = 1809.3.17
   }
 }
 1794.4.25 = {
   leader = {
     name = "佩雷拉 佛尔加斯"  # M. Pereira Forjaz
-    type = "
-    generalfire = "
-    4shock = "
-    5manuever = "
-    3siege = "
-    1death_date = 1827.11.6
+    type = general
+    fire = 4
+    shock = 5
+    manuever = 3
+    siege = 1
+    death_date = 1827.11.6
   }
 }
 1800.5.4 = {
   leader = {
     name = "迪亚斯 阿泽多"  # M.J. Dias Azedo
-    type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    1death_date = 1821.2.11
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 1
+    death_date = 1821.2.11
   }
 }
 1803.3.14 = {
   leader = {
     name = "孔迪 德 阿马兰蒂"  # Conde de Amarante
-    type = "
-    generalfire = "
-    4shock = "
-    5manuever = "
-    4siege = "
-    1death_date = 1821.5.27
+    type = general
+    fire = 4
+    shock = 5
+    manuever = 4
+    siege = 1
+    death_date = 1821.5.27
   }
 }
 1808.1.1 = {
@@ -1162,12 +1162,12 @@ national_focus = DIP
 1809.1.1 = {
   leader = {
     name = "弗塔多 德 卡斯特罗"  # F. Furtado de Castro
-    type = "
-    generalfire = "
-    4shock = "
-    3manuever = "
-    3siege = "
-    1death_date = 1854.3.11
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1854.3.11
   }
 }
 1816.3.20 = {

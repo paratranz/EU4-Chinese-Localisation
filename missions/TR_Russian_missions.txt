@@ -21,9 +21,12 @@ tr_russia_religious_missions = {
     required_missions = {}
     provinces_to_highlight = {}
     trigger = {
-      OR = {
-        temple = 20
-        cathedral = 20
+      num_of_owned_provinces_with = {
+        value = 20
+        OR = {
+          has_building = temple
+          has_building = cathedral
+        }
       }
     }
     effect = {
@@ -180,6 +183,10 @@ tr_muscovy_conquest = {
         country_or_non_sovereign_subject_holds = ROOT
       }
       mazovia_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      sandomierz_area = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
@@ -587,6 +594,17 @@ tr_russia_conquest_1 = {
         add_permanent_claim = ROOT
       }
       mazovia_area = {
+        limit = {
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+          NOT = {
+            is_core = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
+      sandomierz_area = {
         limit = {
           NOT = {
             is_permanent_claim = ROOT
@@ -1345,7 +1363,7 @@ tr_russia_exclusive_3 = {
   }
   has_country_shield = yes
   tr_prikazy_mission = {
-    icon = mission_european_church
+    icon = mission_establish_the_prikazy
     required_missions = {
       time_of_troubles_mission
     }
@@ -1400,7 +1418,7 @@ tr_russia_exclusive_3 = {
     }
   }
   tr_state_manufactories = {
-    icon = mission_european_church
+    icon = mission_state_manufactories
     required_missions = {
       tr_prikazy_mission
     }

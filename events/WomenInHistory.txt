@@ -672,33 +672,31 @@ country_event = {
   title = women_history_events.11.t
   desc = women_history_events.11.d
   picture = wihgfx_FEMALE_RULER_eventPicture
+  fire_only_once = yes
   trigger = {
-    tag = CAS
+    OR = {
+      tag = SPA
+      AND = {
+        NOT = {
+          exists = SPA
+        }
+        tag = CAS
+      }
+    }
     is_year = 1450
     NOT = {
       is_year = 1504
     }
     has_regency = no
-    is_female = no
-    has_consort = no
-    has_heir = no
     has_government_attribute = heir
     is_lesser_in_union = no
     government = monarchy
-    NOT = {
-      has_global_flag = wih_isabella_castile_flag
-    }
     NOT = {
       has_disaster = castilian_civil_war
     }
   }
   mean_time_to_happen = {
     months = 1000
-  }
-  immediate = {
-    hidden_effect = {
-      set_global_flag = wih_isabella_castile_flag
-    }
   }
   option = {
     name = women_history_events.11.a
@@ -1570,7 +1568,7 @@ country_event = {
       type = commandant
       skill = 2
       name = "西蒂 万 肯邦"  # Siti Wan Kembang
-      culture = malay
+      culture = malayan
       discount = yes
     }
   }
@@ -3407,6 +3405,9 @@ country_event = {
   desc = women_history_events.56.d
   picture = wihgfx_FEMALES_eventPicture
   trigger = {
+    NOT = {
+      has_dlc = "Golden Century"
+    }
     OR = {
       owns = 1751
       owns = 334
@@ -4604,7 +4605,7 @@ country_event = {
     define_advisor = {
       name = "敦 法蒂玛"  # Tun Fatimah
       type = army_organiser
-      culture = malay
+      culture = malayan
       discount = yes
       skill = 2
       female = yes
@@ -4615,7 +4616,7 @@ country_event = {
     define_ruler = {
       name = "敦 法蒂玛"  # Tun Fatimah
       dynasty = "三佛齐"  # Srivijaya
-      culture = malay
+      culture = malayan
       fixed = yes
       adm = 3
       dip = 4
@@ -4920,7 +4921,7 @@ country_event = {
     define_advisor = {
       name = "拉图·西加敖"  # Ratu Hijau
       discount = yes
-      culture = malay
+      culture = malayan
       type = statesman
       skill = 2
       female = yes
@@ -4932,7 +4933,7 @@ country_event = {
       name = "拉图·西加敖"  # Ratu Hijau
       dynasty = "内陆"  # Inland
       fixed = yes
-      culture = malay
+      culture = malayan
       adm = 4
       dip = 3
       mil = 3
@@ -4960,7 +4961,7 @@ country_event = {
     add_mil_power = 100
     define_advisor = {
       name = "拉图·比鲁"  # Ratu Biru
-      culture = malay
+      culture = malayan
       type = diplomat
       discount = yes
       skill = 2
@@ -4972,7 +4973,7 @@ country_event = {
     define_ruler = {
       name = "拉图·比鲁"  # Ratu Biru
       dynasty = "内陆"  # Inland
-      culture = malay
+      culture = malayan
       fixed = yes
       adm = 3
       dip = 4
@@ -5003,7 +5004,7 @@ country_event = {
     define_advisor = {
       name = "拉图·印古"  # Ratu Ingu
       type = commandant
-      culture = malay
+      culture = malayan
       skill = 2
       discount = yes
       female = yes
@@ -5014,7 +5015,7 @@ country_event = {
     define_ruler = {
       name = "拉图·印古"  # Ratu Ingu
       dynasty = "内陆"  # Inland
-      culture = malay
+      culture = malayan
       fixed = yes
       adm = 3
       dip = 3
@@ -5554,7 +5555,6 @@ country_event = {
       manuever = 1
       siege = 3
       female = yes
-      nam = "阿喜亚拜·豪卡"  # Ahilyabai Holkar
     }
   }
   option = {
@@ -5568,7 +5568,6 @@ country_event = {
       DIP = 4
       MIL = 2
       female = yes
-      dyna = "豪卡"  # Holkar
     }
     if = {
       limit = {
@@ -5619,7 +5618,6 @@ country_event = {
       type = diplomat
       skill = 2
       female = yes
-      nam = "扎汗则布 巴努 贝古姆"  # Jahanzeb Banu Begum
     }
   }
   option = {
@@ -5631,7 +5629,6 @@ country_event = {
       manuever = 3
       siege = 4
       female = yes
-      na = "扎汗则布 巴努 贝古姆"  # Jahanzeb Banu Begum
     }
   }
 }
@@ -5677,7 +5674,6 @@ country_event = {
       discount = yes
       skill = 2
       female = yes
-      na = "郑氏"  # Ching Shih
     }
   }
   option = {
@@ -5688,7 +5684,6 @@ country_event = {
       fire = 4
       manuever = 3
       female = yes
-      n = "郑氏"  # Ching Shih
     }
   }
 }
@@ -5732,7 +5727,6 @@ country_event = {
       discount = yes
       skill = 2
       female = yes
-      n = "门特瓦布"  # Mentewab
     }
   }
   option = {
@@ -5746,8 +5740,6 @@ country_event = {
       dip = 4
       mil = 3
       female = yes
-      na = "门特瓦布"  # Mentewab
-      dy = "所罗门"  # Solomonid
     }
     if = {
       limit = {
@@ -5806,12 +5798,19 @@ country_event = {
       skill = 2
       discount = yes
       female = yes
-       = "索菲亚苏丹"  # Safiye Sultan
     }
   }
   option = {
     name = women_history_events.93.b
-    define_advisor = "索菲亚苏丹"  # Safiye Sultan
+    define_advisor = {
+      name = "莎菲耶苏丹"  # Safiye Sultan
+      type = diplomat
+      culture = albanian
+      religion = sunni
+      skill = 2
+      discount = yes
+      female = yes
+    }
   }
 }
 country_event = {
@@ -5845,7 +5844,14 @@ country_event = {
   option = {
     name = women_history_events.94.a
     add_meritocracy_effect = yes
-    define_advisor = "安杰丽卡 考夫曼"  # Angelica Kauffman
+    define_advisor = {
+      name = "安杰丽卡·考夫曼"  # Angelica Kauffman
+      culture = swiss
+      type = artist
+      skill = 2
+      discount = yes
+      female = yes
+    }
   }
   option = {
     name = women_history_events.94.b
@@ -5893,11 +5899,19 @@ country_event = {
       skill = 2
       female = yes
     }
-    define_adviso = "伊丽莎白 罗曼诺夫"  # Elizaveta Romanov
   }
   option = {
     name = women_history_events.95.b
-    define_ruler = "罗曼诺夫"  # Romanov
+    define_ruler = {
+      name = "Elizaveta"
+      dynasty = "罗曼诺夫"  # Romanov
+      culture = russian
+      fixed = yes
+      adm = 3
+      dip = 4
+      mil = 3
+      female = yes
+    }
     if = {
       limit = {
         has_states_general_mechanic = yes
@@ -5973,7 +5987,6 @@ country_event = {
       discount = yes
       female = yes
     }
-    define_advis = "俄罗斯的安娜"  # Anna of Russia
   }
   option = {
     name = women_history_events.96.b
@@ -6001,7 +6014,6 @@ country_event = {
         add_ruler_personality = incorruptible_personality
       }
     }
-    define_rule = "罗曼诺夫"  # Romanov
   }
 }
 country_event = {
@@ -6050,10 +6062,6 @@ country_event = {
       discount = yes
       female = yes
     }
-    define_advior = {
-      name = "努尔巴努苏丹"  # Nurbanu Sultan
-    }
-    define_advi = "努尔巴努苏丹"  # Nurbanu Sultan
   }
   option = {
     name = women_history_events.97.b
@@ -6088,7 +6096,6 @@ country_event = {
         }
         change_statists_vs_orangists = 200
       }
-      define_ = "奥斯曼"  # Osmanoglu
     }
     if = {
       limit = {
@@ -6108,10 +6115,6 @@ country_event = {
         add_queen_personality = secretive_personality
         add_queen_personality = silver_tongue_personality
       }
-      define_advisor = {
-        name = "努尔巴努苏丹"  # Nurbanu Sultan
-      }
-      define = "努尔巴努苏丹"  # Nurbanu Sultan
     }
   }
 }
@@ -6149,7 +6152,6 @@ country_event = {
       skill = 2
       female = yes
     }
-    define_adv = "许兰雪轩"  # Heo Nanseolheon
   }
   option = {
     name = women_history_events.98.b
@@ -6193,7 +6195,6 @@ country_event = {
       skill = 3
       female = yes
     }
-    define_ad = "马里昂 乌兹 扎马尼"  # Mariam-uz-Zamani
   }
   option = {
     name = women_history_events.99.b
@@ -6241,7 +6242,6 @@ country_event = {
       skill = 2
       female = yes
     }
-    define_a = "弗朗西斯卡 乌苏拉 拉齐维洛娃"  # Franciszka Urszula Radziwillowa
   }
   option = {
     name = women_history_events.100.b

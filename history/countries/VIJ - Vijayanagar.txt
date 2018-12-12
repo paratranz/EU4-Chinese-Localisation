@@ -13,10 +13,10 @@ capital = 541
     MIL = 3
     leader = {
       name = "诃里诃罗 II"  # Harihara II
-      II"type = "
-      generalfire = "
-      1shock = "
-      2manuever = 2
+      type = general
+      fire = 1
+      shock = 2
+      manuever = 2
       siege = 0
     }
   }
@@ -173,11 +173,11 @@ capital = 541
 1460.1.1 = {
   leader = {
     name = "那梨僧诃 沙鲁瓦"  # Narisimha Saluva
-    Saluva"type = "
-    generalfire = "
-    2shock = "
-    3siege = "
-    0manuever = 2
+    type = general
+    fire = 2
+    shock = 3
+    siege = 0
+    manuever = 2
     death_date = 1486.1.1
   }
 }
@@ -223,10 +223,10 @@ capital = 541
     MIL = 4
     leader = {
       name = "沙鲁瓦 那梨僧诃"  # Saluva Narisimha
-      Narisimha"type = "
-      generalfire = "
-      2shock = "
-      3manuever = 2
+      type = general
+      fire = 2
+      shock = 3
+      manuever = 2
       siege = 1
     }
   }
@@ -338,11 +338,11 @@ capital = 541
   }
   leader = {
     name = "罗摩 罗耶 阿拉维杜"  # Rama Raya Aravidu
-    Aravidu"type = "
-    generalfire = "
-    2shock = "
-    2siege = "
-    1manuever = 2
+    type = general
+    fire = 2
+    shock = 2
+    siege = 1
+    manuever = 2
     death_date = 1549.1.1
   }
   clear_scripted_personalities = yes

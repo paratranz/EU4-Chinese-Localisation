@@ -129,12 +129,12 @@ religious_school = maliki_school
 1470.1.1 = {
   leader = {
     name = "易卜拉欣 阿里 阿塔尔"  # Ibrahim Ali al-Attar
-    al-Attar"type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1483.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1483.1.1
   }
 }
 1482.1.1 = {
@@ -164,11 +164,11 @@ religious_school = maliki_school
     mil = 0
     leader = {
       name = "穆罕默德 扎加尔"  # Muhammad El Zagal
-      Zagal"type = "
-      generalfire = "
-      2shock = "
-      3manuever = "
-      3siege = 0
+      type = general
+      fire = 2
+      shock = 3
+      manuever = 3
+      siege = 0
     }
   }
 }

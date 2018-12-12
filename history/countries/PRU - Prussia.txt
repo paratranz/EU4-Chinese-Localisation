@@ -14,11 +14,11 @@ capital = 41
     mil = 1
     leader = {
       name = "阿尔布雷希特"  # Albrecht
-      type = "
-      generalfire = "
-      1shock = "
-      2manuever = "
-      2siege = 0
+      type = general
+      fire = 1
+      shock = 2
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -137,11 +137,11 @@ capital = 41
     mil = 3
     leader = {
       name = "格奥尔格 威廉"  # Georg Wilhelm
-      type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -154,11 +154,11 @@ capital = 41
     mil = 3
     leader = {
       name = "格奥尔格 威廉"  # Georg Wilhelm
-      type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 0
     }
   }
   queen = {
@@ -186,11 +186,11 @@ capital = 41
     mil = 5
     leader = {
       name = "腓特烈 威廉"  # Friedrich Wilhelm
-      type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      2siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -203,11 +203,11 @@ capital = 41
     mil = 5
     leader = {
       name = "腓特烈 威廉"  # Friedrich Wilhelm
-      type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      2siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 2
+      siege = 0
     }
   }
   add_army_professionalism = 0.2
@@ -228,12 +228,12 @@ capital = 41
 1654.1.1 = {
   leader = {
     name = "格奥尔格 冯 德夫林格"  # G. von Derfflinger
-    type = "
-    generalfire = "
-    4shock = "
-    3manuever = "
-    3siege = "
-    1death_date = 1695.2.14
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1695.2.14
   }
 }
 1657.7.11 = {
@@ -249,11 +249,11 @@ capital = 41
     mil = 4
     leader = {
       name = "腓特烈 I"  # Friedrich I
-      type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -273,23 +273,23 @@ capital = 41
 1670.1.1 = {
   leader = {
     name = "F. 黑森 洪堡"  # F. Hessen-Homburg
-    type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    3siege = "
-    2death_date = 1708.1.24
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 3
+    siege = 2
+    death_date = 1708.1.24
   }
 }
 1686.1.1 = {
   leader = {
     name = "F.W. 冯 克劳"  # F.W. von Kyau
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    1siege = "
-    0death_date = 1733.1.19
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 1
+    siege = 0
+    death_date = 1733.1.19
   }
 }
 1688.5.10 = {
@@ -301,11 +301,11 @@ capital = 41
     mil = 4
     leader = {
       name = "腓特烈 I"  # Friedrich I
-      type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 0
     }
   }
   queen = {
@@ -347,12 +347,12 @@ capital = 41
 1702.1.1 = {
   leader = {
     name = "利奥波德 冯 德绍"  # Leopold von Dessau
-    type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    3death_date = 1747.4.7
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 3
+    death_date = 1747.4.7
   }
 }
 1708.11.28 = {
@@ -406,56 +406,56 @@ capital = 41
     mil = 6
     leader = {
       name = "腓特烈 II「大帝」"  # Friedrich II der Große
-      type = "
-      generalfire = "
-      6shock = "
-      6manuever = "
-      6siege = 1
+      type = general
+      fire = 6
+      shock = 6
+      manuever = 6
+      siege = 1
     }
   }
 }
 1720.1.1 = {
   leader = {
     name = "库尔特 冯 施维林"  # Kurt von Schwerin
-    type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1757.5.6
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1757.5.6
   }
 }
 1725.1.1 = {
   leader = {
     name = "A.F. 冯 舒伦堡"  # A.F. von Schulenburg
-    type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1741.4.10
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1741.4.10
   }
 }
 1735.1.1 = {
   leader = {
     name = "汉斯 冯 列瓦尔德"  # Hans van Lehwald
-    Lehwald"type = "
-    generalfire = "
-    3shock = "
-    1manuever = "
-    3siege = "
-    1death_date = 1768.1.1
+    type = general
+    fire = 3
+    shock = 1
+    manuever = 3
+    siege = 1
+    death_date = 1768.1.1
   }
 }
 1735.1.1 = {
   leader = {
     name = "冯 格斯勒"  # von Gessler
-    Gessler"type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    2siege = "
-    0death_date = 1745.1.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1745.1.1
   }
 }
 1740.5.30 = {
@@ -467,11 +467,11 @@ capital = 41
     mil = 6
     leader = {
       name = "腓特烈 II「大帝」"  # Friedrich II der Große
-      type = "
-      generalfire = "
-      6shock = "
-      6manuever = "
-      6siege = 1
+      type = general
+      fire = 6
+      shock = 6
+      manuever = 6
+      siege = 1
     }
   }
   queen = {
@@ -494,12 +494,12 @@ capital = 41
 1741.1.1 = {
   leader = {
     name = "汉斯 J. 冯 齐滕"  # Hans J. von Ziethen
-    Ziethen"type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1760.11.3
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1760.11.3
   }
 }
 1744.9.25 = {
@@ -518,89 +518,89 @@ capital = 41
 1745.1.1 = {
   leader = {
     name = "普鲁士的海因里希"  # Heinrich von Preußen
-    Preußen"type = "
-    generalfire = "
-    3shock = "
-    5manuever = "
-    4siege = "
-    0death_date = 1797.11.16
+    type = general
+    fire = 3
+    shock = 5
+    manuever = 4
+    siege = 0
+    death_date = 1797.11.16
   }
 }
 1745.1.1 = {
   leader = {
     name = "F.W. 冯 塞德利茨"  # F.W. von Seydlitz
-    Seydlitz"type = "
-    generalfire = "
-    1shock = "
-    6manuever = "
-    4siege = "
-    0death_date = 1760.5.1
+    type = general
+    fire = 1
+    shock = 6
+    manuever = 4
+    siege = 0
+    death_date = 1760.5.1
   }
 }
 1750.1.1 = {
   leader = {
     name = "普鲁士的斐迪南"  # Ferdinand von Preußen
-    Preußen"type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1786.8.17
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1786.8.17
   }
 }
 1750.1.1 = {
   leader = {
     name = "F.A. 冯 芬克"  # F.A. von Finck
-    Finck"type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1759.11.19
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1759.11.19
   }
 }
 1755.1.1 = {
   leader = {
     name = "威廉 楚 多纳"  # Wilhelm zu Dohna
-    Dohna"type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1790.4.27
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1790.4.27
   }
 }
 1760.1.1 = {
   leader = {
     name = "格布哈德 冯 布吕歇尔"  # Gebhard von Blücher
-    Blücher"type = "
-    generalfire = "
-    5shock = "
-    5manuever = "
-    5siege = "
-    0death_date = 1819.9.12
+    type = general
+    fire = 5
+    shock = 5
+    manuever = 5
+    siege = 0
+    death_date = 1819.9.12
   }
 }
 1772.1.1 = {
   leader = {
     name = "F.W. 冯 毕洛夫"  # F.W. von Bülow
-    Bülow"type = "
-    generalfire = "
-    4shock = "
-    3manuever = "
-    5siege = "
-    0death_date = 1816.2.25
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 5
+    siege = 0
+    death_date = 1816.2.25
   }
 }
 1780.1.1 = {
   leader = {
     name = "F.L. 楚 霍亨洛厄"  # F.L. zu Hohenlohe
-    Hohenlohe"type = "
-    generalfire = "
-    3shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1806.8.1
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1806.8.1
   }
 }
 1786.8.18 = {
@@ -675,12 +675,12 @@ capital = 41
 1807.1.1 = {
   leader = {
     name = "奥古斯特 冯 格奈泽瑙"  # August von Gneisenau
-    Gneisenau"type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    5siege = "
-    0death_date = 1831.8.23
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 5
+    siege = 0
+    death_date = 1831.8.23
   }
 }
 1807.1.1 = {

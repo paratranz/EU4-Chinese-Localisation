@@ -160,7 +160,6 @@ l_english:
  CONFIRM_ALL_LEAVE_TRADE_COMPANY_DESC:0 "把你所有属于$NODE|Y$节点的省份从$COMPANY|Y$移除，我们对其资源直接控制。\n这也将允许母国已经接受的思潮在这个省份自动传播。"
  MAY_BE_IN_TRADE_COMPANY:0 "$PROVINCE|Y$属于$REGION|Y$贸易公司区域。"
  SV_TRADE_COMPANY_NAME:0 "$NAME|Y$是我们名下的一家贸易公司。"
- SV_TRADE_COMPANY_NAME_DESC:0 "贸易公司在遥远地方的土地上管理着我们贸易帝国。将省份分配给贸易公司将增加他们的贸易竞争力和提供更庞大的海军，但缺点是你从这些省份得到的税收和士兵会很少。如果一个贸易公司在其贸易节点内获得贸易统治地位，你将获得一个额外的商人。"
  SV_TRADE_COMPANY_INCOME:0 "贸易公司省份的收入：$INCOME|Y$¤"
  SV_TRADE_COMPANY_POWER:0 "贸易公司省份的贸易竞争力：$POWER|Y$"
  SV_TRADE_COMPANY_CONTROL:0 "贸易公司当前控制着$REGIONNAME$地区$THEIR|Y$个省份的贸易竞争力。总共有$TOTAL|Y$。"
@@ -214,3 +213,4 @@ l_english:
  TRADE_COMPANY_DECCAN_Root_Culture_GetName:0 "[Root.Culture.GetName]德干公司"
  TRADE_COMPANY_COROMANDEL_Root_Culture_GetName:0 "[Root.Culture.GetName]科罗曼德公司"
  TRADE_COMPANY_NORTH_INDIA_Root_Culture_GetName:0 "[Root.Culture.GetName]北印度公司"
+ SV_TRADE_COMPANY_NAME_DESC:1 "This Trade Company is located in $REGION|Y$ and has power in the $NODE|Y$ Trade Node.\n\nTrade Companies manage our trading empires in faraway lands. Assigning provinces to your trading companies will multiply their trade power and provide for bigger navies but on the downside you get very little tax nor soldiers from these provinces. Should a Trade Company gain dominance within their region, you will gain an extra merchant."

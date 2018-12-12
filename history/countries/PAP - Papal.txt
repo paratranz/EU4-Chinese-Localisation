@@ -135,12 +135,12 @@ add_army_professionalism = 0.05
 1497.1.1 = {
   leader = {
     name = "切萨雷 波吉亚"  # Cesare Borgia
-    type = "
-    generalfire = "
-    2shock = "
-    1manuever = "
-    2siege = "
-    3death_date = 1503.11.1
+    type = general
+    fire = 2
+    shock = 1
+    manuever = 2
+    siege = 3
+    death_date = 1503.11.1
   }
 }
 1503.8.19 = {
@@ -163,11 +163,11 @@ add_army_professionalism = 0.05
     mil = 2
     leader = {
       name = "儒略 II"  # Iulius II
-      type = "
-      generalfire = "
-      2shock = "
-      1manuever = "
-      2siege = 1
+      type = general
+      fire = 2
+      shock = 1
+      manuever = 2
+      siege = 1
     }
   }
 }
@@ -217,12 +217,12 @@ add_army_professionalism = 0.05
 1550.1.1 = {
   leader = {
     name = "M 科隆纳"  # M. Colonna
-    type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1577.1.1
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1577.1.1
   }
 }
 1550.1.1 = {

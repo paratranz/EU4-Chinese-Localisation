@@ -197,11 +197,11 @@ capital = 2108
     mil = 6
     leader = {
       name = "努尔哈赤"  # Nurhachi
-      type = "
-      generalfire = "
-      2shock = "
-      5manuever = "
-      4siege = 2
+      type = general
+      fire = 2
+      shock = 5
+      manuever = 4
+      siege = 2
     }
   }
 }
@@ -235,34 +235,34 @@ capital = 2108
     mil = 5
     leader = {
       name = "皇太极"  # Huang Taiji
-      type = "
-      generalfire = "
-      0shock = "
-      5manuever = "
-      3siege = 0
+      type = general
+      fire = 0
+      shock = 5
+      manuever = 3
+      siege = 0
     }
   }
 }
 1628.1.1 = {
   leader = {
     name = "多尔衮"  # Dorgon
-    "Dorgon"type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    5siege = "
-    2death_date = 1650.12.31
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 5
+    siege = 2
+    death_date = 1650.12.31
   }
 }
 1636.1.1 = {
   leader = {
     name = "豪格"  # Hooge
-    "Hooge"type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    4siege = "
-    2death_date = 1647.12.31
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 2
+    death_date = 1647.12.31
   }
 }
 1638.3.15 = {

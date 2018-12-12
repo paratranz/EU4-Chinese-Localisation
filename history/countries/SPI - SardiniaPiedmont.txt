@@ -15,11 +15,11 @@ capital = 103
     mil = 5
     leader = {
       name = "维托里奥 阿梅迪奥 II"  # Vittorio Amedeo II
-      II"type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      2siege = 2
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 2
+      siege = 2
     }
   }
 }
@@ -36,11 +36,11 @@ capital = 103
     mil = 6
     leader = {
       name = "卡洛 埃马努埃莱 III"  # Carlo Emanuele III
-      III"type = "
-      generalfire = "
-      2shock = "
-      3manuever = "
-      3siege = 0
+      type = general
+      fire = 2
+      shock = 3
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -57,11 +57,11 @@ capital = 103
     mil = 6
     leader = {
       name = "卡洛 埃马努埃莱 III"  # Carlo Emanuele III
-      III"type = "
-      generalfire = "
-      2shock = "
-      3manuever = "
-      3siege = 0
+      type = general
+      fire = 2
+      shock = 3
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -78,23 +78,23 @@ capital = 103
     mil = 2
     leader = {
       name = "维托里奥 阿梅迪奥 III"  # Vittorio Amedeo III
-      III"type = "
-      generalfire = "
-      2shock = "
-      2manuever = "
-      3siege = 0
+      type = general
+      fire = 2
+      shock = 2
+      manuever = 3
+      siege = 0
     }
   }
 }
 1743.2.8 = {
   leader = {
     name = "卡洛 洛伊特鲁姆"  # Carlo S. Leutrum
-    Leutrum"type = "
-    generalfire = "
-    5shock = "
-    4manuever = "
-    4siege = "
-    1death_date = 1755.5.16
+    type = general
+    fire = 5
+    shock = 4
+    manuever = 4
+    siege = 1
+    death_date = 1755.5.16
   }
 }
 1773.2.21 = {
@@ -106,11 +106,11 @@ capital = 103
     mil = 2
     leader = {
       name = "维托里奥 阿梅迪奥 III"  # Vittorio Amedeo III
-      III"type = "
-      generalfire = "
-      2shock = "
-      2manuever = "
-      3siege = 0
+      type = general
+      fire = 2
+      shock = 2
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -130,12 +130,12 @@ capital = 103
 1785.1.1 = {
   leader = {
     name = "米歇尔 科利"  # Michel Colli
-    Colli"type = "
-    generalfire = "
-    3shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1796.4.28
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1796.4.28
   }
 }
 1796.10.14 = {

@@ -14,47 +14,47 @@ religious_school = hanafi_school
     mil = 6
     leader = {
       name = "巴布尔"  # Bâbur
-      "Bâbur"type = "
-      generalfire = "
-      5shock = "
-      5manuever = "
-      3siege = 1
+      type = general
+      fire = 5
+      shock = 5
+      manuever = 3
+      siege = 1
     }
   }
   leader = {
     name = "乌斯塔德 阿里 库里"  # Ustad Ali Quli
-    Quli"type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    1siege = 1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 1
+    siege = 1
     death_date = 1531.1.1
   }
   leader = {
     name = "真帖木儿 汗"  # Chin Timur Khan
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    1siege = 0
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 1
+    siege = 0
     death_date = 1531.1.1
   }
   leader = {
     name = "穆斯塔法 鲁米"  # Mustafa Rumi
-    Rumi"type = "
-    generalfire = "
-    4shock = "
-    1manuever = "
-    1siege = 0
+    type = general
+    fire = 4
+    shock = 1
+    manuever = 1
+    siege = 0
     death_date = 1531.1.1
   }
   leader = {
     name = "拉贾 桑加尔 阿里 汗"  # Raja Sanghar Ali Khan
-    type = "
-    generalfire = "
-    1shock = "
-    2manuever = "
-    1siege = 1
+    type = general
+    fire = 1
+    shock = 2
+    manuever = 1
+    siege = 1
     death_date = 1531.1.1
   }
   add_government_reform = mughal_government
@@ -116,11 +116,11 @@ religious_school = hanafi_school
     mil = 6
     leader = {
       name = "阿克巴"  # Akbar
-      "Akbar"type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      2siege = 2
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 2
+      siege = 2
     }
   }
   add_accepted_culture = bihari
@@ -219,11 +219,11 @@ religious_school = hanafi_school
     mil = 6
     leader = {
       name = "奥朗则布 阿拉姆吉尔 帖木儿"  # Aurangzîb Alamgir Timurid
-      Timurid"type = "
-      generalfire = "
-      5shock = "
-      5manuever = "
-      2siege = 0
+      type = general
+      fire = 5
+      shock = 5
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -247,11 +247,11 @@ religious_school = hanafi_school
   leader = {
     name = "雅库特 汗"  # Yakut Khan
     type = admiral
-    fire = "
-    3shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1733.1.1
+    fire = 3
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1733.1.1
   }
 }
 1707.3.15 = {

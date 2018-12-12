@@ -56,12 +56,12 @@ add_army_professionalism = 0.1
 1408.1.1 = {
   leader = {
     name = "让 德 普莱西"  # Jean de Pressy
-    type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1437.1.1
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1437.1.1
   }
 }
 1419.9.11 = {
@@ -74,11 +74,11 @@ add_army_professionalism = 0.1
     mil = 5
     leader = {
       name = "腓力 III"  # Philippe III
-      type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 1
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 1
     }
   }
   clear_scripted_personalities = yes
@@ -123,11 +123,11 @@ add_army_professionalism = 0.1
     mil = 4
     leader = {
       name = "大胆的查理 I"  # Charles I le Téméraire
-      Téméraire"type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 1
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 1
     }
   }
   clear_scripted_personalities = yes

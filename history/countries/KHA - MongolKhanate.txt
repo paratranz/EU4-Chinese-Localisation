@@ -325,12 +325,12 @@ historical_rival = OIR
 1479.1.1 = {
   leader = {
     name = "满都海 哈屯"  # Mandukhai Khatun
-    type = "
-    generalfire = "
-    1shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1511.1.1
+    type = general
+    fire = 1
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1511.1.1
   }
 }
 1490.1.1 = {
@@ -412,11 +412,11 @@ historical_rival = OIR
     mil = 5
     leader = {
       name = "俺答汗"  # Altan Khan
-      Khan"type = "
-      generalfire = "
-      3shock = "
-      5manuever = "
-      5siege = 1
+      type = general
+      fire = 3
+      shock = 5
+      manuever = 5
+      siege = 1
     }
   }
 }

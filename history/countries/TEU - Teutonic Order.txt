@@ -18,11 +18,11 @@ add_army_professionalism = 0.1
   }
   leader = {
     name = "乌尔里希 冯 琼宁根"  # Ulrich von Jungingen
-    Jungingen"type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = 0
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
   }
 }
 1407.3.30 = {
@@ -130,12 +130,12 @@ add_army_professionalism = 0.1
 1495.1.1 = {
   leader = {
     name = "W. 冯 普勒滕贝格"  # W. von Plettenberg
-    type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    3siege = "
-    1death_date = 1535.2.28
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 3
+    siege = 1
+    death_date = 1535.2.28
   }
 }
 1497.8.26 = {

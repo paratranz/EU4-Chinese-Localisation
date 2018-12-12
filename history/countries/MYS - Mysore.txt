@@ -323,11 +323,11 @@ fixed_capital = 533
     religion = sunni
     leader = {
       name = "海达尔 阿里"  # Haydar 'Alî
-      type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      3siege = 1
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 3
+      siege = 1
     }
   }
   religion = sunni
@@ -351,12 +351,12 @@ fixed_capital = 533
 1780.1.1 = {
   leader = {
     name = "提普 萨希卜"  # Tippoo Sahib
-    type = "
-    generalfire = "
-    5shock = "
-    5manuever = "
-    3siege = "
-    1death_date = 1782.12.8
+    type = general
+    fire = 5
+    shock = 5
+    manuever = 3
+    siege = 1
+    death_date = 1782.12.8
   }
 }
 1782.12.8 = {
@@ -368,11 +368,11 @@ fixed_capital = 533
     MIL = 6
     leader = {
       name = "提普 萨希卜"  # Tippoo Sahib
-      type = "
-      generalfire = "
-      5shock = "
-      5manuever = "
-      3siege = 1
+      type = general
+      fire = 5
+      shock = 5
+      manuever = 3
+      siege = 1
     }
   }
   add_army_professionalism = 0.3

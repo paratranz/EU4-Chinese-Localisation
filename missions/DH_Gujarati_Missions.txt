@@ -840,7 +840,7 @@ guj_mercantile_and_industry = {
     icon = mission_merchant_of_gujarat
     required_missions = {}
     provinces_to_highlight = {
-      area = gujarat_area
+      area = ahmedabad_area
       NOT = {
         country_or_non_sovereign_subject_holds = ROOT
       }
@@ -851,7 +851,7 @@ guj_mercantile_and_industry = {
         trade_depot = 5
         stock_exchange = 5
       }
-      gujarat_area = {
+      ahmedabad_area = {
         type = all
         owned_by = ROOT
       }

@@ -38,11 +38,11 @@ fixed_capital = 808
     mil = 6
     leader = {
       name = "帕查库蒂"  # Pachacuti
-      "Pachacuti"type = "
-      generalfire = "
-      3shock = "
-      5manuever = "
-      4siege = 2
+      type = general
+      fire = 3
+      shock = 5
+      manuever = 4
+      siege = 2
     }
   }
   clear_scripted_personalities = yes
@@ -110,23 +110,23 @@ fixed_capital = 808
     mil = 1
     leader = {
       name = "瓦斯卡尔"  # Huáscar
-      "Huáscar"type = "
-      generalfire = "
-      1shock = "
-      3manuever = "
-      2siege = 0
+      type = general
+      fire = 1
+      shock = 3
+      manuever = 2
+      siege = 0
     }
   }
 }
 1523.1.1 = {
   leader = {
     name = "阿托克"  # Atoc
-    type = "
-    generalfire = "
-    1shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1532.1.1
+    type = general
+    fire = 1
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1532.1.1
   }
 }
 1527.1.1 = {
@@ -138,11 +138,11 @@ fixed_capital = 808
     mil = 1
     leader = {
       name = "瓦斯卡尔"  # Huáscar
-      "Huáscar"type = "
-      generalfire = "
-      1shock = "
-      3manuever = "
-      2siege = 0
+      type = general
+      fire = 1
+      shock = 3
+      manuever = 2
+      siege = 0
     }
   }
 }

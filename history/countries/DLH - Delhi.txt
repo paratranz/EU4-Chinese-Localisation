@@ -51,11 +51,11 @@ religious_school = hanafi_school
     MIL = 6
     leader = {
       name = "巴鲁儿 洛迪"  # Bahlûl Lodi
-      Lodi"type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      4siege = 1
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 4
+      siege = 1
     }
   }
   clear_scripted_personalities = yes
@@ -77,11 +77,11 @@ religious_school = hanafi_school
     MIL = 3
     leader = {
       name = "锡坎达尔"  # Sikandar Shâh
-      Shâh"type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      4siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 4
+      siege = 0
     }
   }
 }
@@ -95,11 +95,11 @@ religious_school = hanafi_school
     MIL = 3
     leader = {
       name = "锡坎达尔 沙"  # Sikandar Shâh
-      Shâh"type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      4siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 4
+      siege = 0
     }
   }
   clear_scripted_personalities = yes
@@ -121,11 +121,11 @@ religious_school = hanafi_school
     MIL = 0
     leader = {
       name = "易卜拉欣 沙"  # Ibrâhîm Shâh
-      Shâh"type = "
-      generalfire = "
-      0shock = "
-      1manuever = "
-      1siege = 0
+      type = general
+      fire = 0
+      shock = 1
+      manuever = 1
+      siege = 0
     }
   }
 }
@@ -139,11 +139,11 @@ religious_school = hanafi_school
     MIL = 0
     leader = {
       name = "易卜拉欣 沙"  # Ibrâhîm Shâh
-      Shâh"type = "
-      generalfire = "
-      0shock = "
-      1manuever = "
-      1siege = 0
+      type = general
+      fire = 0
+      shock = 1
+      manuever = 1
+      siege = 0
     }
   }
   clear_scripted_personalities = yes
@@ -172,11 +172,11 @@ religious_school = hanafi_school
     MIL = 5
     leader = {
       name = "Hemu"
-      "Hemu"type = "
-      generalfire = "
-      3shock = "
-      4manuever = "
-      2siege = 1
+      type = general
+      fire = 3
+      shock = 4
+      manuever = 2
+      siege = 1
     }
   }
   religion = hinduism

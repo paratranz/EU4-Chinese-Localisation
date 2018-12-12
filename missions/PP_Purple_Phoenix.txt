@@ -456,8 +456,18 @@ byz_pp_maritime = {
         }
         add_permanent_claim = ROOT
       }
+      baleares_area = {
+        limit = {
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+          NOT = {
+            is_core = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
       add_permanent_claim = 126
-      add_permanent_claim = 333
     }
   }
   recover_west_islands = {
@@ -480,10 +490,11 @@ byz_pp_maritime = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
-      126 = {
+      baleares_area = {
+        type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
-      333 = {
+      126 = {
         country_or_non_sovereign_subject_holds = ROOT
       }
     }

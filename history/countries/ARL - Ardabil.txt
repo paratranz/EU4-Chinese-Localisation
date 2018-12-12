@@ -48,23 +48,23 @@ religious_school = jafari_school
     mil = 5
     leader = {
       name = "伊斯迈尔"  # Ismail I
-      type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      4siege = 0
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 4
+      siege = 0
     }
   }
 }
 1523.1.1 = {
   leader = {
     name = "库哈苏丹"  # Cuha Sultan
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1531.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1531.1.1
   }
 }
 1524.5.24 = {
@@ -76,11 +76,11 @@ religious_school = jafari_school
     mil = 3
     leader = {
       name = "塔赫马斯普 I"  # Tahmasp I
-      type = "
-      generalfire = "
-      2shock = "
-      3manuever = "
-      4siege = 0
+      type = general
+      fire = 2
+      shock = 3
+      manuever = 4
+      siege = 0
     }
   }
 }
@@ -108,12 +108,12 @@ religious_school = jafari_school
 1580.1.1 = {
   leader = {
     name = "哈姆扎 米尔扎"  # Hamza Mirza
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1586.12.4
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1586.12.4
   }
 }
 1585.1.1 = {
@@ -143,34 +143,34 @@ religious_school = jafari_school
     mil = 6
     leader = {
       name = "阿拔斯 I"  # Abbas I
-      type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      4siege = 1
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 4
+      siege = 1
     }
   }
 }
 1589.1.1 = {
   leader = {
     name = "法尔哈德 汗"  # Farhad Khan
-    type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1599.1.1
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1599.1.1
   }
 }
 1597.1.1 = {
   leader = {
     name = "阿拉威尔迪汗"  # Allahverdi Khan
-    type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    1death_date = 1613.6.3
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 1
+    death_date = 1613.6.3
   }
 }
 1598.1.1 = {
@@ -179,23 +179,23 @@ religious_school = jafari_school
 1601.1.1 = {
   leader = {
     name = "埃米尔 古纳 贝格"  # Emir Guna Beg
-    type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    3siege = "
-    1death_date = 1625.1.1
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 3
+    siege = 1
+    death_date = 1625.1.1
   }
 }
 1602.1.1 = {
   leader = {
     name = "恰萨克贝"  # Qarchaqay Bei
-    type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1624.1.1
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1624.1.1
   }
 }
 1629.1.20 = {
@@ -210,12 +210,12 @@ religious_school = jafari_school
 1630.1.1 = {
   leader = {
     name = "鲁斯塔姆汗"  # Rustam Khan
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1643.3.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1643.3.1
   }
 }
 1642.5.12 = {
@@ -248,12 +248,12 @@ religious_school = jafari_school
 1722.1.1 = {
   leader = {
     name = "法特赫 阿里 汗"  # Fath Ali Khan
-    type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1726.10.11
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1726.10.11
   }
 }
 1722.10.23 = {
@@ -268,12 +268,12 @@ religious_school = jafari_school
 1727.1.1 = {
   leader = {
     name = "易卜拉欣 汗"  # Ibrahim Khan
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1738.11.14
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1738.11.14
   }
 }
 1732.9.8 = {
@@ -288,12 +288,12 @@ religious_school = jafari_school
 1734.1.1 = {
   leader = {
     name = "拉蒂夫 汗"  # Latif Khan
-    type = "
-    admiralfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1738.7.7
+    type = admiral
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1738.7.7
   }
 }
 1747.1.1 = {

@@ -28,11 +28,11 @@ government_rank = 3
     mil = 3
     leader = {
       name = "瓦西里 III"  # Vasiliy III
-      III"type = "
-      generalfire = "
-      2shock = "
-      2manuever = "
-      2siege = 0
+      type = general
+      fire = 2
+      shock = 2
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -42,12 +42,12 @@ government_rank = 3
 1505.1.1 = {
   leader = {
     name = "米哈伊尔 格林斯基"  # Mihail Glinski
-    type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    4siege = "
-    1death_date = 1520.1.1
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 1
+    death_date = 1520.1.1
   }
 }
 1505.10.29 = {
@@ -59,34 +59,34 @@ government_rank = 3
     mil = 3
     leader = {
       name = "瓦西里 III"  # Vasiliy III
-      III"type = "
-      generalfire = "
-      2shock = "
-      2manuever = "
-      2siege = 0
+      type = general
+      fire = 2
+      shock = 2
+      manuever = 2
+      siege = 0
     }
   }
 }
 1530.1.1 = {
   leader = {
     name = "奥夫奇纳-奥博连斯基"  # Ovchina-Obolenski
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1539.1.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1539.1.1
   }
 }
 1530.1.1 = {
   leader = {
     name = "卡西莫夫斯基"  # Kasimovskiy
-    type = "
-    generalfire = "
-    1shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1567.1.1
+    type = general
+    fire = 1
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1567.1.1
   }
 }
 1530.8.25 = {
@@ -105,12 +105,12 @@ government_rank = 3
 1531.1.1 = {
   leader = {
     name = "米库林斯基"  # Mikulinski
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1540.1.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1540.1.1
   }
 }
 1533.12.4 = {
@@ -125,78 +125,78 @@ government_rank = 3
 1539.1.1 = {
   leader = {
     name = "彼得 舒伊斯基"  # Pyotr Shuiski
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    2siege = "
-    1death_date = 1564.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 2
+    siege = 1
+    death_date = 1564.1.1
   }
 }
 1550.1.1 = {
   leader = {
     name = "舍列梅捷夫"  # Sheremetev
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1564.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1564.1.1
   }
 }
 1550.1.1 = {
   leader = {
     name = "沃罗滕斯基"  # Vorotinski
-    type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    5siege = "
-    1death_date = 1573.1.1
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 5
+    siege = 1
+    death_date = 1573.1.1
   }
 }
 1552.1.1 = {
   leader = {
     name = "安德烈 库尔布斯基"  # Andrey Kurbski
-    Kurbski"type = "
-    generalfire = "
-    3shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1564.1.1
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1564.1.1
   }
 }
 1553.1.1 = {
   leader = {
     name = "阿列克谢 阿达舍夫"  # Alexei Adashev
-    Adashev"type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1560.1.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1560.1.1
   }
 }
 1555.1.1 = {
   leader = {
     name = "格里戈里 斯特罗加诺夫"  # Grigorii Stroganov
-    type = "
-    conquistadorfire = "
-    1shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1575.1.1
+    type = conquistador
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1575.1.1
   }
 }
 1557.1.1 = {
   leader = {
     name = "维什涅韦茨基"  # Vishnevetski
-    type = "
-    generalfire = "
-    1shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1563.1.1
+    type = general
+    fire = 1
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1563.1.1
   }
 }
 1557.5.31 = {
@@ -215,67 +215,67 @@ government_rank = 3
 1560.1.1 = {
   leader = {
     name = "伊凡 舒伊斯基"  # Ivan Shuiski
-    type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1587.1.1
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1587.1.1
   }
 }
 1565.1.1 = {
   leader = {
     name = "伊凡 彼得罗夫"  # Ivan Petrov
-    type = "
-    conquistadorfire = "
-    3shock = "
-    4manuever = "
-    2siege = "
-    0death_date = 1570.1.1
+    type = conquistador
+    fire = 3
+    shock = 4
+    manuever = 2
+    siege = 0
+    death_date = 1570.1.1
   }
 }
 1565.1.1 = {
   leader = {
     name = "布尔纳什 叶里彻夫"  # Burnash Yalichev
-    type = "
-    conquistadorfire = "
-    2shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1576.1.1
+    type = conquistador
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1576.1.1
   }
 }
 1579.1.1 = {
   leader = {
     name = "叶尔马克 齐莫菲叶维奇"  # Yermak Timofeyevich
-    Timofeyevich"type = "
-    conquistadorfire = "
-    6shock = "
-    6manuever = "
-    5siege = "
-    0death_date = 1585.8.6
+    type = conquistador
+    fire = 6
+    shock = 6
+    manuever = 5
+    siege = 0
+    death_date = 1585.8.6
   }
 }
 1580.1.1 = {
   leader = {
     name = "科利佐夫 马绍斯基"  # Koltsov-Mosalski
-    type = "
-    conquistadorfire = "
-    2shock = "
-    2manuever = "
-    5siege = "
-    0death_date = 1605.1.1
+    type = conquistador
+    fire = 2
+    shock = 2
+    manuever = 5
+    siege = 0
+    death_date = 1605.1.1
   }
 }
 1584.1.1 = {
   leader = {
     name = "伊凡 曼苏罗夫"  # Ivan Mansurov
-    type = "
-    conquistadorfire = "
-    2shock = "
-    2manuever = "
-    5siege = "
-    0death_date = 1598.1.1
+    type = conquistador
+    fire = 2
+    shock = 2
+    manuever = 5
+    siege = 0
+    death_date = 1598.1.1
   }
 }
 1584.3.20 = {
@@ -293,12 +293,12 @@ government_rank = 3
 1595.1.1 = {
   leader = {
     name = "巴斯马诺夫"  # Basmanov
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    2siege = "
-    0death_date = 1606.1.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1606.1.1
   }
 }
 1598.1.6 = {
@@ -313,11 +313,11 @@ government_rank = 3
     mil = 3
     leader = {
       name = "鲍里斯 戈东诺夫"  # Boris Godunov
-      type = "
-      generalfire = "
-      3shock = "
-      2manuever = "
-      2siege = 0
+      type = general
+      fire = 3
+      shock = 2
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -333,12 +333,12 @@ government_rank = 3
 1606.1.1 = {
   leader = {
     name = "斯科平 舒伊斯基"  # Skopin-Shuiski
-    type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1610.1.1
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1610.1.1
   }
 }
 1606.5.20 = {
@@ -353,23 +353,23 @@ government_rank = 3
 1607.1.1 = {
   leader = {
     name = "米哈伊尔 薛宁"  # Mihail Shein
-    type = "
-    generalfire = "
-    1shock = "
-    2manuever = "
-    2siege = "
-    0death_date = 1640.1.1
+    type = general
+    fire = 1
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1640.1.1
   }
 }
 1608.1.1 = {
   leader = {
     name = "德米特里 波扎尔斯基"  # Dmitry Pozharski
-    Pozharski"type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    1death_date = 1642.4.20
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 1
+    death_date = 1642.4.20
   }
 }
 1610.7.21 = {
@@ -396,12 +396,12 @@ government_rank = 3
 1619.1.1 = {
   leader = {
     name = "杜本斯基"  # A. Dubenski
-    type = "
-    conquistadorfire = "
-    1shock = "
-    1manuever = "
-    5siege = "
-    0death_date = 1630.1.1
+    type = conquistador
+    fire = 1
+    shock = 1
+    manuever = 5
+    siege = 0
+    death_date = 1630.1.1
   }
 }
 1629.3.9 = {
@@ -420,89 +420,89 @@ government_rank = 3
 1630.1.1 = {
   leader = {
     name = "多尔戈鲁科夫"  # Dolgorukov
-    type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    1death_date = 1682.1.1
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1682.1.1
   }
 }
 1631.1.1 = {
   leader = {
     name = "彼得 别克托夫"  # Pyotr Beketov
-    type = "
-    conquistadorfire = "
-    3shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1655.1.1
+    type = conquistador
+    fire = 3
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1655.1.1
   }
 }
 1633.1.1 = {
   leader = {
     name = "伊凡 列布罗夫"  # Ivan Rebrov
-    type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    4siege = "
-    0death_date = 1647.1.1
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 4
+    siege = 0
+    death_date = 1647.1.1
   }
 }
 1638.1.1 = {
   leader = {
     name = "谢苗 迭日涅夫"  # Semen Dezhnev
-    type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    5siege = "
-    0death_date = 1659.1.1
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 5
+    siege = 0
+    death_date = 1659.1.1
   }
 }
 1638.1.1 = {
   leader = {
     name = "伊凡 莫斯克维京"  # Ivan Moskvitin
-    type = "
-    conquistadorfire = "
-    2shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1645.1.1
+    type = conquistador
+    fire = 2
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1645.1.1
   }
 }
 1642.1.1 = {
   leader = {
     name = "瓦西里 波亚尔科夫"  # Vasiliy Poyarkov
-    type = "
-    conquistadorfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1648.1.1
+    type = conquistador
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1648.1.1
   }
 }
 1642.1.1 = {
   leader = {
     name = "巴拉蒂斯基"  # Baryatiski
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1672.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1672.1.1
   }
 }
 1645.1.1 = {
   leader = {
     name = "I 舍列梅捷夫"  # I. Sheremetev
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    2siege = "
-    1death_date = 1680.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 2
+    siege = 1
+    death_date = 1680.1.1
   }
 }
 1645.7.25 = {
@@ -517,34 +517,34 @@ government_rank = 3
 1648.1.1 = {
   leader = {
     name = "叶罗费 哈巴罗夫"  # Erofey Khabarov
-    type = "
-    conquistadorfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1654.1.1
+    type = conquistador
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1654.1.1
   }
 }
 1650.1.1 = {
   leader = {
     name = "罗莫达诺夫斯基"  # Romodanovski
-    type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1682.1.1
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1682.1.1
   }
 }
 1655.1.1 = {
   leader = {
     name = "伊万 安德烈耶维奇 霍万斯基"  # Ivan A. Khovanski
-    Khovanski"type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1683.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1683.1.1
   }
 }
 1661.6.9 = {
@@ -563,12 +563,12 @@ government_rank = 3
 1665.1.1 = {
   leader = {
     name = "切尔尼戈韦茨"  # Chernigovets
-    type = "
-    conquistadorfire = "
-    1shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1672.1.1
+    type = conquistador
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1672.1.1
   }
 }
 1676.2.1 = {
@@ -596,23 +596,23 @@ government_rank = 3
 1680.1.1 = {
   leader = {
     name = "戈登"  # Gordon
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    1death_date = 1699.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1699.1.1
   }
 }
 1680.1.1 = {
   leader = {
     name = "瓦西里 戈利岑"  # Vasiliy Golitsyn
-    Golitsyn"type = "
-    generalfire = "
-    1shock = "
-    2manuever = "
-    2siege = "
-    0death_date = 1689.1.1
+    type = general
+    fire = 1
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1689.1.1
   }
 }
 1682.4.28 = {
@@ -627,56 +627,56 @@ government_rank = 3
 1690.1.1 = {
   leader = {
     name = "弗朗茨 列福尔特"  # Franz Lefort
-    Lefort"type = "
-    generalfire = "
-    4shock = "
-    2manuever = "
-    2siege = "
-    1death_date = 1699.3.1
+    type = general
+    fire = 4
+    shock = 2
+    manuever = 2
+    siege = 1
+    death_date = 1699.3.1
   }
 }
 1700.1.1 = {
   leader = {
     name = "马特维 加加林"  # Matfey Gagarin
-    type = "
-    conquistadorfire = "
-    3shock = "
-    3manuever = "
-    5siege = "
-    0death_date = 1715.1.1
+    type = conquistador
+    fire = 3
+    shock = 3
+    manuever = 5
+    siege = 0
+    death_date = 1715.1.1
   }
 }
 1700.1.1 = {
   leader = {
     name = "费奥多尔 阿普拉克辛"  # Fyodor M. Apraxine
-    Apraxine"type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1728.11.10
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1728.11.10
   }
 }
 1700.1.1 = {
   leader = {
     name = "亚历山大 缅什科夫"  # Aleksandr Menshikov
-    Menshikov"type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1729.1.1
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1729.1.1
   }
 }
 1705.1.1 = {
   leader = {
     name = "斯皮里多夫"  # Spiridof
-    type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1715.1.1
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1715.1.1
   }
 }
 1707.1.1 = {
@@ -705,23 +705,23 @@ government_rank = 3
 1725.1.1 = {
   leader = {
     name = "米尼赫"  # Minih
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1739.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1739.1.1
   }
 }
 1725.1.1 = {
   leader = {
     name = "托特莱本"  # Tottleben
-    type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    2siege = "
-    0death_date = 1765.1.1
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 2
+    siege = 0
+    death_date = 1765.1.1
   }
 }
 1725.1.30 = {
@@ -759,12 +759,12 @@ government_rank = 3
 1728.1.1 = {
   leader = {
     name = "维他斯 白令"  # Vitus Bering
-    type = "
-    explorerfire = "
-    4shock = "
-    2manuever = "
-    5siege = "
-    0death_date = 1747.12.19
+    type = explorer
+    fire = 4
+    shock = 2
+    manuever = 5
+    siege = 0
+    death_date = 1747.12.19
   }
 }
 1730.1.21 = {
@@ -780,12 +780,12 @@ government_rank = 3
 1735.1.1 = {
   leader = {
     name = "谢苗 切柳斯金"  # Semion Chelyuskin
-    Chelyuskin"type = "
-    conquistadorfire = "
-    2shock = "
-    3manuever = "
-    5siege = "
-    0death_date = 1760.1.1
+    type = conquistador
+    fire = 2
+    shock = 3
+    manuever = 5
+    siege = 0
+    death_date = 1760.1.1
   }
 }
 1740.10.19 = {
@@ -800,12 +800,12 @@ government_rank = 3
 1741.1.1 = {
   leader = {
     name = "彼得 索尔蒂科夫"  # P. Soltikov
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1760.1.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1760.1.1
   }
 }
 1741.11.27 = {
@@ -821,12 +821,12 @@ government_rank = 3
 1750.1.1 = {
   leader = {
     name = "德 隆"  # De Long
-    type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1770.1.1
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1770.1.1
   }
 }
 1761.12.27 = {
@@ -878,34 +878,34 @@ government_rank = 3
 1765.1.1 = {
   leader = {
     name = "亚历山大 巴拉诺夫"  # Alexandr Baranov
-    Baranov"type = "
-    conquistadorfire = "
-    4shock = "
-    4manuever = "
-    5siege = "
-    0death_date = 1819.1.1
+    type = conquistador
+    fire = 4
+    shock = 4
+    manuever = 5
+    siege = 0
+    death_date = 1819.1.1
   }
 }
 1770.1.1 = {
   leader = {
     name = "奥尔洛夫"  # Orlov
-    type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1795.1.1
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1795.1.1
   }
 }
 1770.1.1 = {
   leader = {
     name = "亚历山大 苏沃罗夫"  # Alexander Suvorov
-    Suvorov"type = "
-    generalfire = "
-    5shock = "
-    6manuever = "
-    6siege = "
-    1death_date = 1800.5.18
+    type = general
+    fire = 5
+    shock = 6
+    manuever = 6
+    siege = 1
+    death_date = 1800.5.18
   }
 }
 1796.11.7 = {
@@ -933,12 +933,12 @@ government_rank = 3
 1797.1.1 = {
   leader = {
     name = "亚历山大 伊万诺维奇"  # A. Osterman-Tolstoy
-    type = "
-    generalfire = "
-    3shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1857.2.12
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1857.2.12
   }
 }
 1801.3.13 = {
@@ -966,77 +966,77 @@ government_rank = 3
 1805.1.1 = {
   leader = {
     name = "米哈伊尔 德 托利"  # Michael A. de Tolly
-    Tolly"type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1818.5.26
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1818.5.26
   }
 }
 1805.1.1 = {
   leader = {
     name = "米哈伊尔 库图佐夫"  # Mikhail Kutuzov
-    Kutuzov"type = "
-    generalfire = "
-    4shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1813.4.28
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1813.4.28
   }
 }
 1805.1.1 = {
   leader = {
     name = "彼得 巴格拉季昂"  # Pyotr Bagration
-    Bagration"type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    3siege = "
-    2death_date = 1812.9.12
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 3
+    siege = 2
+    death_date = 1812.9.12
   }
 }
 1806.1.1 = {
   leader = {
     name = "德米特里 谢尼亚文"  # Dmitry Senyavin
-    Senyavin"type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1831.4.5
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1831.4.5
   }
 }
 1808.1.1 = {
   leader = {
     name = "托马索夫"  # Tomasov
-    type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1814.1.1
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1814.1.1
   }
 }
 1811.1.1 = {
   leader = {
     name = "阿列克谢 叶尔莫洛夫"  # Aleksey Ermolov
-    Ermolov"type = "
-    generalfire = "
-    4shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1861.4.23
+    type = general
+    fire = 4
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1861.4.23
   }
 }
 1812.1.1 = {
   leader = {
     name = "彼得 维特根斯坦"  # Peter Wittgenstein
-    Wittgenstein"type = "
-    generalfire = "
-    4shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1843.6.11
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1843.6.11
   }
 }

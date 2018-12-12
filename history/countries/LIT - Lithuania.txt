@@ -18,11 +18,11 @@ capital = 272
     mil = 0
     leader = {
       name = "维陶塔斯"  # Vytautas
-      "Vytautas"type = "
-      generalfire = "
-      2shock = "
-      4manuever = "
-      3siege = 0
+      type = general
+      fire = 2
+      shock = 4
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -77,23 +77,23 @@ capital = 272
 1492.1.1 = {
   leader = {
     name = "尼古拉 拉迪维尔"  # Mykola Radivil
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1565.5.28
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1565.5.28
   }
 }
 1492.1.1 = {
   leader = {
     name = "米哈伊洛 格林斯基"  # Mykhaylo Glynskiy
-    type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1505.1.1
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1505.1.1
   }
 }
 1492.6.8 = {
@@ -122,12 +122,12 @@ capital = 272
 1497.9.12 = {
   leader = {
     name = "科斯坦丁 奥斯特洛斯基"  # Kostiantyn Ostrozskiy
-    Ostrozskiy"type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    3siege = "
-    1death_date = 1530.8.10
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 3
+    siege = 1
+    death_date = 1530.8.10
   }
 }
 1506.8.20 = {
@@ -156,23 +156,23 @@ capital = 272
 1521.1.1 = {
   leader = {
     name = "尤里 拉迪维尔"  # Juriy Radivil
-    type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    4siege = "
-    1death_date = 1541.4.1
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 1
+    death_date = 1541.4.1
   }
 }
 1536.1.1 = {
   leader = {
     name = "Andriy Nemyrovych"
-    type = "
-    generalfire = "
-    1shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1541.1.1
+    type = general
+    fire = 1
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1541.1.1
   }
 }
 1548.4.2 = {
@@ -188,23 +188,23 @@ capital = 272
 1553.1.1 = {
   leader = {
     name = "尼古拉 拉迪维尔"  # Mykola Radivil
-    type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1616.2.28
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1616.2.28
   }
 }
 1559.1.1 = {
   leader = {
     name = "Roman Sangushka"
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    1death_date = 1571.5.12
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1571.5.12
   }
 }
 1572.1.1 = {

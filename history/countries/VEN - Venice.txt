@@ -14,12 +14,12 @@ add_army_professionalism = 0.05
 1380.1.1 = {
   leader = {
     name = "卡洛 泽诺"  # Carlo Zeno
-    Zeno"type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1404.1.1
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1404.1.1
   }
 }
 1382.1.1 = {
@@ -49,12 +49,12 @@ add_army_professionalism = 0.05
 1416.1.1 = {
   leader = {
     name = "彼得罗 洛雷丹"  # Pietro Loredan
-    Loredan"type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1439.1.1
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1439.1.1
   }
 }
 1423.4.5 = {
@@ -69,56 +69,56 @@ add_army_professionalism = 0.05
 1425.1.1 = {
   leader = {
     name = "弗朗切斯科 达 卡尔马尼奥拉"  # Francesco da Carmagnola
-    type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1432.5.5
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1432.5.5
   }
 }
 1438.1.1 = {
   leader = {
     name = "埃拉斯莫"  # Erasmo Gattamelata
-    Gattamelata"type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1443.1.1
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1443.1.1
   }
 }
 1451.1.1 = {
   leader = {
     name = "科莱奥尼"  # Colleoni
-    type = "
-    generalfire = "
-    5shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1475.11.2
+    type = general
+    fire = 5
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1475.11.2
   }
 }
 1453.1.1 = {
   leader = {
     name = "G 洛雷丹"  # G. Loredan
-    type = "
-    admiralfire = "
-    3shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1467.1.1
+    type = admiral
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1467.1.1
   }
 }
 1454.1.1 = {
   leader = {
     name = "卡纳尔"  # Canal
-    type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1471.1.1
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1471.1.1
   }
 }
 1457.10.24 = {
@@ -142,11 +142,11 @@ add_army_professionalism = 0.05
 1470.1.1 = {
   leader = {
     name = "莫塞尼格"  # Moceningo
-    type = "
-    generalfire = "
-    5shock = "
-    4manuever = "
-    5siege = 0
+    type = general
+    fire = 5
+    shock = 4
+    manuever = 5
+    siege = 0
     death_date = 1476.1.1
   }
 }
@@ -216,55 +216,55 @@ add_army_professionalism = 0.05
 1490.1.1 = {
   leader = {
     name = "切萨雷 波吉亚"  # C. Borgia
-    type = "
-    generalfire = "
-    2shock = "
-    1manuever = "
-    2siege = 2
+    type = general
+    fire = 2
+    shock = 1
+    manuever = 2
+    siege = 2
     death_date = 1507.3.12
   }
 }
 1495.1.1 = {
   leader = {
     name = "安德烈亚 洛雷丹"  # Andrea Loredan
-    type = "
-    admiralfire = "
-    2shock = "
-    1manuever = "
-    3siege = 1
+    type = admiral
+    fire = 2
+    shock = 1
+    manuever = 3
+    siege = 1
     death_date = 1505.1.1
   }
 }
 1498.1.1 = {
   leader = {
     name = "文森科"  # Vincenco Polani
-    type = "
-    admiralfire = "
-    2shock = "
-    1manuever = "
-    2siege = 1
+    type = admiral
+    fire = 2
+    shock = 1
+    manuever = 2
+    siege = 1
     death_date = 1508.1.1
   }
 }
 1500.1.1 = {
   leader = {
     name = "尼科罗 皮蒂利亚诺"  # Nicolo Pitigliano
-    type = "
-    generalfire = "
-    1shock = "
-    1manuever = "
-    1siege = 2
+    type = general
+    fire = 1
+    shock = 1
+    manuever = 1
+    siege = 2
     death_date = 1510.1.1
   }
 }
 1500.1.1 = {
   leader = {
     name = "巴尔托洛梅奥 德 阿维亚诺"  # Bartolomeo d'Alviano
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = 1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 1
     death_date = 1515.10.1
   }
 }
@@ -280,33 +280,33 @@ add_army_professionalism = 0.05
 1510.1.1 = {
   leader = {
     name = "卢乔 马尔韦佐"  # Lucio Malvezzo
-    type = "
-    generalfire = "
-    2shock = "
-    1manuever = "
-    1siege = 1
+    type = general
+    fire = 2
+    shock = 1
+    manuever = 1
+    siege = 1
     death_date = 1515.1.1
   }
 }
 1510.1.1 = {
   leader = {
     name = "格里曼尼"  # Grimani
-    type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    4siege = 0
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 0
     death_date = 1545.1.1
   }
 }
 1510.1.1 = {
   leader = {
     name = "洛梅利尼"  # Lomellini
-    type = "
-    admiralfire = "
-    2shock = "
-    3manuever = "
-    3siege = 0
+    type = admiral
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
     death_date = 1575.1.1
   }
 }
@@ -340,11 +340,11 @@ add_army_professionalism = 0.05
 1540.1.1 = {
   leader = {
     name = "雷昂纳多"  # Leonardo Foscolo
-    type = "
-    generalfire = "
-    3shock = "
-    2manuever = "
-    2siege = 1
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 2
+    siege = 1
     death_date = 1550.1.1
   }
 }
@@ -360,11 +360,11 @@ add_army_professionalism = 0.05
 1550.1.1 = {
   leader = {
     name = "韦涅罗"  # Veniero
-    type = "
-    admiralfire = "
-    3shock = "
-    4manuever = "
-    5siege = 0
+    type = admiral
+    fire = 3
+    shock = 4
+    manuever = 5
+    siege = 0
     death_date = 1578.3.3
   }
 }
@@ -398,33 +398,33 @@ add_army_professionalism = 0.05
 1560.1.1 = {
   leader = {
     name = "巴尔巴里戈"  # Barbarigo
-    type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    2siege = 0
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 2
+    siege = 0
     death_date = 1580.1.1
   }
 }
 1560.1.1 = {
   leader = {
     name = "奎里尼"  # Quirini
-    type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    3siege = 0
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
     death_date = 1600.1.1
   }
 }
 1565.1.1 = {
   leader = {
     name = "马克罗 安东尼奥 布拉加丁"  # Macro Antonio Bragadin
-    type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    1siege = 3
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 1
+    siege = 3
     death_date = 1571.8.17
   }
 }
@@ -440,11 +440,11 @@ add_army_professionalism = 0.05
 1570.1.1 = {
   leader = {
     name = "朱思蒂纳尼"  # Giustinani
-    type = "
-    admiralfire = "
-    3shock = "
-    4manuever = "
-    2siege = 0
+    type = admiral
+    fire = 3
+    shock = 4
+    manuever = 2
+    siege = 0
     death_date = 1610.1.1
   }
 }
@@ -478,11 +478,11 @@ add_army_professionalism = 0.05
 1585.1.1 = {
   leader = {
     name = "泽诺"  # Zeno
-    type = "
-    admiralfire = "
-    3shock = "
-    4manuever = "
-    4siege = 0
+    type = admiral
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 0
     death_date = 1600.1.1
   }
 }
@@ -525,11 +525,11 @@ add_army_professionalism = 0.05
 1615.1.1 = {
   leader = {
     name = "莫切尼戈"  # Mocenigo
-    type = "
-    admiralfire = "
-    2shock = "
-    3manuever = "
-    4siege = 0
+    type = admiral
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 0
     death_date = 1650.1.1
   }
 }
@@ -599,11 +599,11 @@ add_army_professionalism = 0.05
 1646.1.1 = {
   leader = {
     name = "洛伦佐 马尔切洛"  # Lorenzo Marcello
-    type = "
-    admiralfire = "
-    2shock = "
-    1manuever = "
-    2siege = 1
+    type = admiral
+    fire = 2
+    shock = 1
+    manuever = 2
+    siege = 1
     death_date = 1656.1.1
   }
 }
@@ -619,11 +619,11 @@ add_army_professionalism = 0.05
 1655.1.1 = {
   leader = {
     name = "弗朗切斯科"  # Fransesco Morosini
-    type = "
-    generalfire = "
-    5shock = "
-    4manuever = "
-    4siege = 2
+    type = general
+    fire = 5
+    shock = 4
+    manuever = 4
+    siege = 2
     death_date = 1694.1.7
   }
 }
@@ -675,11 +675,11 @@ add_army_professionalism = 0.05
 1670.1.1 = {
   leader = {
     name = "里瓦"  # Riva
-    type = "
-    admiralfire = "
-    4shock = "
-    5manuever = "
-    3siege = 0
+    type = admiral
+    fire = 4
+    shock = 5
+    manuever = 3
+    siege = 0
     death_date = 1720.1.1
   }
 }
@@ -704,11 +704,11 @@ add_army_professionalism = 0.05
 1683.1.1 = {
   leader = {
     name = "吉罗拉莫 科尔纳罗"  # Girolamo Cornaro
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    2siege = 1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 2
+    siege = 1
     death_date = 1693.1.1
   }
 }
@@ -742,11 +742,11 @@ add_army_professionalism = 0.05
 1697.1.1 = {
   leader = {
     name = "亚历桑德罗 莫林"  # Alessandro Molin
-    type = "
-    admiralfire = "
-    3shock = "
-    1manuever = "
-    2siege = 1
+    type = admiral
+    fire = 3
+    shock = 1
+    manuever = 2
+    siege = 1
     death_date = 1707.1.1
   }
 }
@@ -762,11 +762,11 @@ add_army_professionalism = 0.05
 1707.1.1 = {
   leader = {
     name = "卢多维科 弗兰吉尼"  # Ludovico Flangini
-    type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    3siege = 1
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 1
     death_date = 1717.1.1
   }
 }
@@ -782,33 +782,33 @@ add_army_professionalism = 0.05
 1710.1.1 = {
   leader = {
     name = "安德烈亚 皮萨尼"  # Andrea Pisani
-    type = "
-    generalfire = "
-    1shock = "
-    1manuever = "
-    1siege = 1
+    type = general
+    fire = 1
+    shock = 1
+    manuever = 1
+    siege = 1
     death_date = 1720.1.1
   }
 }
 1710.1.1 = {
   leader = {
     name = "阿尔韦塞"  # Alvise Mocenigo
-    type = "
-    generalfire = "
-    1shock = "
-    1manuever = "
-    2siege = 1
+    type = general
+    fire = 1
+    shock = 1
+    manuever = 2
+    siege = 1
     death_date = 1720.1.1
   }
 }
 1715.1.1 = {
   leader = {
     name = "约翰 冯 德舒伦贝格"  # Johan von der Schulenberg
-    Schulenberg"type = "
-    generalfire = "
-    2shock = "
-    1manuever = "
-    2siege = 3
+    type = general
+    fire = 2
+    shock = 1
+    manuever = 2
+    siege = 3
     death_date = 1720.1.1
   }
 }
@@ -878,11 +878,11 @@ add_army_professionalism = 0.05
 1775.1.1 = {
   leader = {
     name = "安杰洛"  # Angelo Emo
-    type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    1siege = 1
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 1
+    siege = 1
     death_date = 1792.1.1
   }
 }

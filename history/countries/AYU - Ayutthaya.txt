@@ -52,11 +52,11 @@ capital = 600
     mil = 3
     leader = {
       name = "波隆摩罗阇 II"  # Borommaracha II
-      type = "
-      generalfire = "
-      2shock = "
-      4manuever = "
-      3siege = 1
+      type = general
+      fire = 2
+      shock = 4
+      manuever = 3
+      siege = 1
     }
   }
 }
@@ -117,11 +117,11 @@ capital = 600
     mil = 1
     leader = {
       name = "拉玛铁菩提 II"  # Ramathibodi II
-      type = "
-      generalfire = "
-      1shock = "
-      3manuever = "
-      4siege = 0
+      type = general
+      fire = 1
+      shock = 3
+      manuever = 4
+      siege = 0
     }
   }
 }
@@ -134,11 +134,11 @@ capital = 600
     mil = 1
     leader = {
       name = "拉玛铁菩提 II"  # Ramathibodi II
-      type = "
-      generalfire = "
-      1shock = "
-      3manuever = "
-      4siege = 0
+      type = general
+      fire = 1
+      shock = 3
+      manuever = 4
+      siege = 0
     }
   }
 }
@@ -299,11 +299,11 @@ capital = 600
     mil = 5
     leader = {
       name = "纳黎萱"  # Naresuen
-      "Naresuen"type = "
-      generalfire = "
-      2shock = "
-      3manuever = "
-      4siege = 1
+      type = general
+      fire = 2
+      shock = 3
+      manuever = 4
+      siege = 1
     }
   }
 }
@@ -319,11 +319,11 @@ capital = 600
     mil = 5
     leader = {
       name = "纳黎萱"  # Naresuen
-      "Naresuen"type = "
-      generalfire = "
-      2shock = "
-      3manuever = "
-      4siege = 1
+      type = general
+      fire = 2
+      shock = 3
+      manuever = 4
+      siege = 1
     }
   }
 }
@@ -446,11 +446,11 @@ capital = 600
     mil = 1
     leader = {
       name = "那莱"  # Narai
-      "Narai"type = "
-      generalfire = "
-      2shock = "
-      2manuever = "
-      2siege = 0
+      type = general
+      fire = 2
+      shock = 2
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -463,11 +463,11 @@ capital = 600
     mil = 1
     leader = {
       name = "那莱"  # Narai
-      "Narai"type = "
-      generalfire = "
-      2shock = "
-      2manuever = "
-      2siege = 0
+      type = general
+      fire = 2
+      shock = 2
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -598,12 +598,12 @@ capital = 600
 1760.1.1 = {
   leader = {
     name = "彭尼"  # Ponney
-    "Ponney"type = "
-    generalfire = "
-    4shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1770.1.1
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1770.1.1
   }
 }
 1767.4.8 = {
@@ -615,11 +615,11 @@ capital = 600
     mil = 6
     leader = {
       name = "达信"  # Taksin
-      "Taksin"type = "
-      generalfire = "
-      2shock = "
-      4manuever = "
-      4siege = 0
+      type = general
+      fire = 2
+      shock = 4
+      manuever = 4
+      siege = 0
     }
   }
 }
@@ -632,11 +632,11 @@ capital = 600
     mil = 5
     leader = {
       name = "拉玛"  # Rama I
-      I"type = "
-      generalfire = "
-      2shock = "
-      4manuever = "
-      4siege = 0
+      type = general
+      fire = 2
+      shock = 4
+      manuever = 4
+      siege = 0
     }
   }
 }

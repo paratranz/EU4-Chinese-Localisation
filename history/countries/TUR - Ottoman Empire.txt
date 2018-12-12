@@ -75,11 +75,11 @@ religious_school = hanafi_school
     mil = 6
     leader = {
       name = "穆罕默德"  # Mehmet II
-      type = "
-      generalfire = "
-      6shock = "
-      4manuever = "
-      5siege = 2
+      type = general
+      fire = 6
+      shock = 4
+      manuever = 5
+      siege = 2
     }
   }
   clear_scripted_personalities = yes
@@ -108,12 +108,12 @@ religious_school = hanafi_school
 1460.1.1 = {
   leader = {
     name = "盖迪克 艾哈迈德"  # Gedik Ahmed
-    type = "
-    generalfire = "
-    4shock = "
-    3manuever = "
-    3siege = "
-    1death_date = 1482.1.1
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 3
+    siege = 1
+    death_date = 1482.1.1
   }
 }
 1481.5.4 = {
@@ -126,11 +126,11 @@ religious_school = hanafi_school
     mil = 5
     leader = {
       name = "巴耶塞特"  # Bayezid II
-      type = "
-      generalfire = "
-      3shock = "
-      2manuever = "
-      2siege = 0
+      type = general
+      fire = 3
+      shock = 2
+      manuever = 2
+      siege = 0
     }
   }
   clear_scripted_personalities = yes
@@ -153,23 +153,23 @@ religious_school = hanafi_school
 1487.1.1 = {
   leader = {
     name = "凯末尔"  # Kemal Reis
-    type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1511.1.1
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1511.1.1
   }
 }
 1490.1.1 = {
   leader = {
     name = "哈德姆 锡南"  # Hadim Sinan
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1517.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1517.1.1
   }
 }
 1492.1.1 = {
@@ -178,23 +178,23 @@ religious_school = hanafi_school
 1492.1.1 = {
   leader = {
     name = "哈德姆 阿里"  # Hadim Ali
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1511.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1511.1.1
   }
 }
 1493.1.1 = {
   leader = {
     name = "屈曲克"  # Kucuk Daoud
-    type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1506.1.1
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1506.1.1
   }
 }
 1512.5.2 = {
@@ -207,11 +207,11 @@ religious_school = hanafi_school
     mil = 5
     leader = {
       name = "塞利姆"  # Selîm I Yavuz
-      type = "
-      generalfire = "
-      5shock = "
-      4manuever = "
-      5siege = 1
+      type = general
+      fire = 5
+      shock = 4
+      manuever = 5
+      siege = 1
     }
   }
   clear_scripted_personalities = yes
@@ -234,12 +234,12 @@ religious_school = hanafi_school
 1513.1.1 = {
   leader = {
     name = "皮里"  # Piri Reis
-    type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    6siege = "
-    0death_date = 1553.1.1
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 6
+    siege = 0
+    death_date = 1553.1.1
   }
 }
 1514.1.1 = {
@@ -248,23 +248,23 @@ religious_school = hanafi_school
 1518.1.1 = {
   leader = {
     name = "巴里"  # Bali
-    type = "
-    generalfire = "
-    1shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1541.1.1
+    type = general
+    fire = 1
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1541.1.1
   }
 }
 1520.1.1 = {
   leader = {
     name = "格兹 胡色雷"  # Gazi Husrev
-    type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1541.1.1
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1541.1.1
   }
 }
 1520.9.23 = {
@@ -277,11 +277,11 @@ religious_school = hanafi_school
     mil = 6
     leader = {
       name = "苏莱曼"  # Süleyman I Kanuni
-      type = "
-      generalfire = "
-      5shock = "
-      3manuever = "
-      4siege = 2
+      type = general
+      fire = 5
+      shock = 3
+      manuever = 4
+      siege = 2
     }
   }
   clear_scripted_personalities = yes
@@ -291,12 +291,12 @@ religious_school = hanafi_school
 1523.1.1 = {
   leader = {
     name = "帕尔加勒 易卜拉欣 帕夏"  # Pargali Ibrahim Pasha
-    type = "
-    generalfire = "
-    4shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1536.1.1
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1536.1.1
   }
 }
 1524.5.28 = {
@@ -315,100 +315,100 @@ religious_school = hanafi_school
 1525.1.1 = {
   leader = {
     name = "巴巴罗萨 海雷丁"  # Barbaros Hayreddin
-    type = "
-    admiralfire = "
-    6shock = "
-    6manuever = "
-    5siege = "
-    0death_date = 1546.1.1
+    type = admiral
+    fire = 6
+    shock = 6
+    manuever = 5
+    siege = 0
+    death_date = 1546.1.1
   }
 }
 1538.1.1 = {
   leader = {
     name = "乌兹迪米尔"  # Özdemir
-    type = "
-    conquistadorfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1561.1.1
+    type = conquistador
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1561.1.1
   }
 }
 1543.1.1 = {
   leader = {
     name = "萨利赫"  # Salih Reis
-    type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1566.1.1
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1566.1.1
   }
 }
 1551.1.1 = {
   leader = {
     name = "乌鲁奇"  # Uluç Ali
-    type = "
-    admiralfire = "
-    3shock = "
-    4manuever = "
-    5siege = "
-    0death_date = 1587.1.1
+    type = admiral
+    fire = 3
+    shock = 4
+    manuever = 5
+    siege = 0
+    death_date = 1587.1.1
   }
 }
 1551.1.1 = {
   leader = {
     name = "图尔古特 雷斯"  # Turgut Reis
-    Reis"type = "
-    admiralfire = "
-    2shock = "
-    4manuever = "
-    5siege = "
-    0death_date = 1565.6.23
+    type = admiral
+    fire = 2
+    shock = 4
+    manuever = 5
+    siege = 0
+    death_date = 1565.6.23
   }
 }
 1554.1.1 = {
   leader = {
     name = "皮亚里"  # Piyale
-    type = "
-    admiralfire = "
-    1shock = "
-    1manuever = "
-    4siege = "
-    0death_date = 1590.1.1
+    type = admiral
+    fire = 1
+    shock = 1
+    manuever = 4
+    siege = 0
+    death_date = 1590.1.1
   }
 }
 1560.1.1 = {
   leader = {
     name = "拉拉 穆斯塔法"  # Lala Mustafa
-    type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    2siege = "
-    0death_date = 1580.1.1
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 2
+    siege = 0
+    death_date = 1580.1.1
   }
 }
 1560.1.1 = {
   leader = {
     name = "厄兹代米尔奥卢 奥斯曼"  # Özdemiroglu Osman
-    type = "
-    generalfire = "
-    4shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1585.1.1
+    type = general
+    fire = 4
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1585.1.1
   }
 }
 1561.1.1 = {
   leader = {
     name = "索库鲁 穆罕默德"  # Sokullu Mehmed
-    type = "
-    generalfire = "
-    2shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1579.1.1
+    type = general
+    fire = 2
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1579.1.1
   }
 }
 1566.9.8 = {
@@ -466,12 +466,12 @@ religious_school = hanafi_school
 1594.1.1 = {
   leader = {
     name = "拉拉 马哈茂德"  # Lala Mahmud
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1606.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1606.1.1
   }
 }
 1595.1.16 = {
@@ -564,12 +564,12 @@ religious_school = hanafi_school
 1620.1.1 = {
   leader = {
     name = "希萨武"  # Sissaou
-    type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    2siege = "
-    0death_date = 1640.1.1
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1640.1.1
   }
 }
 1622.5.20 = {
@@ -607,11 +607,11 @@ religious_school = hanafi_school
     mil = 4
     leader = {
       name = "穆拉德 IV"  # Murat IV
-      type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 1
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 1
     }
   }
   clear_scripted_personalities = yes
@@ -635,12 +635,12 @@ religious_school = hanafi_school
 1628.4.6 = {
   leader = {
     name = "格兹 胡色雷 帕夏"  # Gazi Hüsrev Pasha
-    type = "
-    generalfire = "
-    3shock = "
-    4manuever = "
-    2siege = "
-    2death_date = 1631.10.25
+    type = general
+    fire = 3
+    shock = 4
+    manuever = 2
+    siege = 2
+    death_date = 1631.10.25
   }
 }
 1640.2.8 = {
@@ -699,45 +699,45 @@ religious_school = hanafi_school
 1656.9.15 = {
   leader = {
     name = "科普鲁律 穆罕默德 帕夏"  # Köprülü Mehmed Pasha
-    type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    1death_date = 1661.9.30
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 1
+    death_date = 1661.9.30
   }
 }
 1661.1.1 = {
   leader = {
     name = "科普鲁律 法扎勒 艾哈迈德"  # Köprülüzade Fazil Ahmed
-    type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    2death_date = 1676.11.3
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 2
+    death_date = 1676.11.3
   }
 }
 1676.1.1 = {
   leader = {
     name = "梅尔济丰卢 卡拉 穆斯塔法"  # Merzifonlu Kara Mustafa
-    type = "
-    generalfire = "
-    4shock = "
-    4manuever = "
-    3siege = "
-    1death_date = 1683.12.25
+    type = general
+    fire = 4
+    shock = 4
+    manuever = 3
+    siege = 1
+    death_date = 1683.12.25
   }
 }
 1686.1.1 = {
   leader = {
     name = "梅佐莫尔托 胡赛因"  # Mezzamorto Hüseyin
-    Hüseyin"type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1701.1.1
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1701.1.1
   }
 }
 1687.11.8 = {
@@ -767,12 +767,12 @@ religious_school = hanafi_school
 1690.1.1 = {
   leader = {
     name = "科普鲁律 法扎勒 穆斯塔法"  # Köprülüzade Fazil Mustafa
-    type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    2siege = "
-    1death_date = 1691.8.19
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 2
+    siege = 1
+    death_date = 1691.8.19
   }
 }
 1691.6.23 = {
@@ -824,12 +824,12 @@ religious_school = hanafi_school
 1697.1.1 = {
   leader = {
     name = "阿姆贾扎德 侯赛因 帕夏"  # Amcazade Hüseyin Pasha
-    type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    1death_date = 1704.1.1
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 1
+    death_date = 1704.1.1
   }
 }
 1703.8.23 = {
@@ -858,23 +858,23 @@ religious_school = hanafi_school
 1704.1.1 = {
   leader = {
     name = "希拉达 阿里"  # Silahdar Ali
-    type = "
-    generalfire = "
-    1shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1716.1.1
+    type = general
+    fire = 1
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1716.1.1
   }
 }
 1728.1.1 = {
   leader = {
     name = "海基姆奥卢 阿里"  # Hekimoglu Ali
-    type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1758.1.1
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1758.1.1
   }
 }
 1730.10.2 = {
@@ -949,12 +949,12 @@ religious_school = hanafi_school
 1766.1.1 = {
   leader = {
     name = "阿尔及利亚 哈桑"  # Algerian Hassan
-    type = "
-    admiralfire = "
-    2shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1790.1.1
+    type = admiral
+    fire = 2
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1790.1.1
   }
 }
 1774.1.22 = {
@@ -1006,12 +1006,12 @@ religious_school = hanafi_school
 1792.1.1 = {
   leader = {
     name = "贾萨尔 帕夏"  # Cezzar Pasha
-    type = "
-    generalfire = "
-    4shock = "
-    2manuever = "
-    2siege = "
-    0death_date = 1804.1.1
+    type = general
+    fire = 4
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1804.1.1
   }
 }
 1807.5.30 = {

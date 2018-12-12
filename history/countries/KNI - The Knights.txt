@@ -77,34 +77,34 @@ add_army_professionalism = 0.1
     mil = 4
     leader = {
       name = "皮埃尔 道布松"  # Pierre d'Aubusson
-      d'Aubusson"type = "
-      generalfire = "
-      5shock = "
-      6manuever = "
-      4siege = 1
+      type = general
+      fire = 5
+      shock = 6
+      manuever = 4
+      siege = 1
     }
   }
 }
 1489.1.1 = {
   leader = {
     name = "安德烈亚 达马拉尔"  # Andrea d'Amaral
-    type = "
-    admiralfire = "
-    4shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1522.11.1
+    type = admiral
+    fire = 4
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1522.11.1
   }
 }
 1493.1.1 = {
   leader = {
     name = "奥雷利奥 博蒂杰拉"  # Aurelio Bottigella
-    type = "
-    admiralfire = "
-    5shock = "
-    4manuever = "
-    3siege = "
-    0death_date = 1545.1.1
+    type = admiral
+    fire = 5
+    shock = 4
+    manuever = 3
+    siege = 0
+    death_date = 1545.1.1
   }
 }
 1503.7.12 = {
@@ -147,23 +147,23 @@ add_army_professionalism = 0.1
     mil = 5
     leader = {
       name = "利勒亚当"  # L'Isle Adam
-      Adam"type = "
-      generalfire = "
-      6shock = "
-      5manuever = "
-      5siege = 1
+      type = general
+      fire = 6
+      shock = 5
+      manuever = 5
+      siege = 1
     }
   }
 }
 1528.1.1 = {
   leader = {
     name = "彼得罗 朱斯蒂尼亚尼"  # Pietro Giustiniani
-    type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1584.1.1
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1584.1.1
   }
 }
 1530.1.1 = {
@@ -202,23 +202,23 @@ add_army_professionalism = 0.1
 1537.1.1 = {
   leader = {
     name = "莱昂内 斯特罗齐"  # Leone Strozzi
-    Strozzi"type = "
-    admiralfire = "
-    4shock = "
-    5manuever = "
-    4siege = "
-    0death_date = 1554.6.28
+    type = admiral
+    fire = 4
+    shock = 5
+    manuever = 4
+    siege = 0
+    death_date = 1554.6.28
   }
 }
 1539.1.1 = {
   leader = {
     name = "马蒂兰 德 莱斯库 罗梅加"  # M. de Lescout Romegas
-    Romegas"type = "
-    admiralfire = "
-    6shock = "
-    6manuever = "
-    6siege = "
-    0death_date = 1581.1.1
+    type = admiral
+    fire = 6
+    shock = 6
+    manuever = 6
+    siege = 0
+    death_date = 1581.1.1
   }
 }
 1553.9.12 = {
@@ -241,11 +241,11 @@ add_army_professionalism = 0.1
     mil = 5
     leader = {
       name = "拉瓦莱特"  # La Valette
-      Valette"type = "
-      generalfire = "
-      6shock = "
-      6manuever = "
-      4siege = 2
+      type = general
+      fire = 6
+      shock = 6
+      manuever = 4
+      siege = 2
     }
   }
 }
@@ -402,12 +402,12 @@ add_army_professionalism = 0.1
 1701.1.1 = {
   leader = {
     name = "雅克 德 尚布雷"  # Jacques de Chambray
-    type = "
-    admiralfire = "
-    6shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1756.1.1
+    type = admiral
+    fire = 6
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1756.1.1
   }
 }
 1720.1.14 = {
@@ -453,12 +453,12 @@ add_army_professionalism = 0.1
 1759.1.1 = {
   leader = {
     name = "P 德 圣特罗佩"  # P. de Saint-Tropez
-    Saint-Tropez"type = "
-    admiralfire = "
-    6shock = "
-    4manuever = "
-    5siege = "
-    0death_date = 1788.1.1
+    type = admiral
+    fire = 6
+    shock = 4
+    manuever = 5
+    siege = 0
+    death_date = 1788.1.1
   }
 }
 1773.1.29 = {
@@ -481,11 +481,11 @@ add_army_professionalism = 0.1
     mil = 5
     leader = {
       name = "埃马纽埃尔 德 罗昂"  # Emmanuel de Rohan
-      Rohan"type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      4siege = 0
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 4
+      siege = 0
     }
   }
 }

@@ -256,11 +256,11 @@ add_army_professionalism = 0.05
     mil = 3
     leader = {
       name = "卡洛 埃曼努埃莱"  # Carlo Emanuele
-      type = "
-      generalfire = "
-      2shock = "
-      4manuever = "
-      3siege = 0
+      type = general
+      fire = 2
+      shock = 4
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -276,11 +276,11 @@ add_army_professionalism = 0.05
     mil = 3
     leader = {
       name = "卡洛 埃曼努埃莱"  # Carlo Emanuele
-      type = "
-      generalfire = "
-      2shock = "
-      4manuever = "
-      3siege = 0
+      type = general
+      fire = 2
+      shock = 4
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -297,11 +297,11 @@ add_army_professionalism = 0.05
     mil = 2
     leader = {
       name = "维托里奥 阿梅德奥 II"  # Vittorio Amedeo I
-      type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -314,11 +314,11 @@ add_army_professionalism = 0.05
     mil = 2
     leader = {
       name = "维托里奥 阿梅德奥 II"  # Vittorio Amedeo I
-      type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -360,12 +360,12 @@ add_army_professionalism = 0.05
 1638.1.1 = {
   leader = {
     name = "托马索 迪 萨伏伊"  # Tommaso di Savoia
-    type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1656.1.1
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1656.1.1
   }
 }
 1638.10.5 = {
@@ -390,11 +390,11 @@ add_army_professionalism = 0.05
     mil = 5
     leader = {
       name = "维托里奥 阿梅迪奥 II"  # Vittorio Amedeo II
-      II"type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      2siege = 2
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 2
+      siege = 2
     }
   }
 }
@@ -407,11 +407,11 @@ add_army_professionalism = 0.05
     mil = 5
     leader = {
       name = "维托里奥 阿梅迪奥 II"  # Vittorio Amedeo II
-      II"type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      2siege = 2
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 2
+      siege = 2
     }
   }
 }

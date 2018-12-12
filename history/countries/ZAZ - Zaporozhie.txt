@@ -13,7 +13,7 @@ capital = 283
 }
 1534.1.1 = {
   monarch = {
-    name = "Kishka"
+    name = "基什卡"  # Kishka
     adm = 3
     dip = 4
     mil = 4
@@ -21,7 +21,7 @@ capital = 283
 }
 1550.1.1 = {
   monarch = {
-    name = "Vishnevetsky-Bayda"
+    name = "维什涅维茨基-贝达"  # Vishnevetsky-Bayda
     adm = 3
     dip = 3
     mil = 3
@@ -32,7 +32,7 @@ capital = 283
 }
 1563.1.1 = {
   monarch = {
-    name = "M. Vishnevetsky"
+    name = "M 维什涅维茨基"  # M. Vishnevetsky
     adm = 2
     dip = 2
     mil = 2
@@ -48,7 +48,7 @@ capital = 283
 }
 1575.1.1 = {
   monarch = {
-    name = "Bogdan Ruzhinsky"
+    name = "博格丹 鲁辛斯基"  # Bogdan Ruzhinsky
     adm = 1
     dip = 1
     mil = 1
@@ -56,7 +56,7 @@ capital = 283
 }
 1576.1.1 = {
   monarch = {
-    name = "Ivan II Pidkova"
+    name = "伊凡 II 皮德科瓦"  # Ivan II Pidkova
     adm = 1
     dip = 1
     mil = 1
@@ -64,7 +64,7 @@ capital = 283
 }
 1577.1.1 = {
   monarch = {
-    name = "Yakiv I Shakh"
+    name = "亚契夫 I 沙赫"  # Yakiv I Shakh
     adm = 1
     dip = 1
     mil = 1
@@ -329,11 +329,11 @@ capital = 283
 1640.1.1 = {
   leader = {
     name = "Chmielnicki"
-    type = "
-    generalfire = "
-    1shock = "
-    3manuever = "
-    5siege = 0
+    type = general
+    fire = 1
+    shock = 3
+    manuever = 5
+    siege = 0
     death_date = 1657.8.6
   }
 }
@@ -400,11 +400,11 @@ capital = 283
 1695.1.1 = {
   leader = {
     name = "马泽帕"  # Mazeppa
-    type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    5siege = 0
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 5
+    siege = 0
     death_date = 1710.1.1
   }
 }

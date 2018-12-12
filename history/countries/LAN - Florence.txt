@@ -49,22 +49,22 @@ add_army_professionalism = 0.05
 1490.1.1 = {
   leader = {
     name = "乌法雷杜奇"  # Uffreducci
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = 1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 1
     death_date = 1503.1.1
   }
 }
 1490.1.1 = {
   leader = {
     name = "维特洛佐 维代利"  # Vitellozzo Vitelli
-    type = "
-    generalfire = "
-    1shock = "
-    2manuever = "
-    4siege = 0
+    type = general
+    fire = 1
+    shock = 2
+    manuever = 4
+    siege = 0
     death_date = 1502.12.31
   }
 }
@@ -90,11 +90,11 @@ add_army_professionalism = 0.05
 1498.1.1 = {
   leader = {
     name = "马基雅维利"  # Machiavelli
-    type = "
-    generalfire = "
-    1shock = "
-    1manuever = "
-    3siege = 2
+    type = general
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 2
     death_date = 1512.8.1
   }
 }

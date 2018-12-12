@@ -103,12 +103,12 @@ add_army_professionalism = 0.05
 1418.1.1 = {
   leader = {
     name = "卡尔马尼奥拉"  # Carmagnola
-    type = "
-    generalfire = "
-    4shock = "
-    5manuever = "
-    5siege = "
-    1death_date = 1432.5.5
+    type = general
+    fire = 4
+    shock = 5
+    manuever = 5
+    siege = 1
+    death_date = 1432.5.5
   }
 }
 1427.12.2 = {
@@ -201,11 +201,11 @@ add_army_professionalism = 0.05
     mil = 4
     leader = {
       name = "卢多维科 斯福尔扎"  # Ludovico Sforza
-      type = "
-      generalfire = "
-      3shock = "
-      2manuever = "
-      3siege = 1
+      type = general
+      fire = 3
+      shock = 2
+      manuever = 3
+      siege = 1
     }
   }
 }
@@ -219,11 +219,11 @@ add_army_professionalism = 0.05
     mil = 4
     leader = {
       name = "卢多维科 斯福尔扎"  # Ludovico Sforza
-      type = "
-      generalfire = "
-      3shock = "
-      2manuever = "
-      3siege = 1
+      type = general
+      fire = 3
+      shock = 2
+      manuever = 3
+      siege = 1
     }
   }
 }
@@ -240,11 +240,11 @@ add_army_professionalism = 0.05
     mil = 1
     leader = {
       name = "马西米利亚诺 斯福尔扎"  # Massimiliano Sforza
-      type = "
-      generalfire = "
-      1shock = "
-      1manuever = "
-      2siege = 0
+      type = general
+      fire = 1
+      shock = 1
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -258,11 +258,11 @@ add_army_professionalism = 0.05
     mil = 1
     leader = {
       name = "马西米利亚诺 斯福尔扎"  # Massimiliano Sforza
-      type = "
-      generalfire = "
-      1shock = "
-      1manuever = "
-      2siege = 0
+      type = general
+      fire = 1
+      shock = 1
+      manuever = 2
+      siege = 0
     }
   }
 }
@@ -276,23 +276,23 @@ add_army_professionalism = 0.05
     mil = 1
     leader = {
       name = "弗朗切斯科 斯福尔扎"  # Francesco Sforza
-      type = "
-      generalfire = "
-      1shock = "
-      1manuever = "
-      2siege = 0
+      type = general
+      fire = 1
+      shock = 1
+      manuever = 2
+      siege = 0
     }
   }
 }
 1535.1.1 = {
   leader = {
     name = "瓦斯托侯爵"  # Marquis del Vasto
-    type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1546.3.31
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1546.3.31
   }
 }
 1796.11.15 = {

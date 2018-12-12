@@ -16,45 +16,45 @@ capital = 4383
     mil = 5
     leader = {
       name = "威廉 范 奥兰治"  # Willem van Oranje
-      Oranje"type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      4siege = 1
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 4
+      siege = 1
     }
   }
 }
 1565.1.1 = {
   leader = {
     name = "W. 布洛伊斯 范 特雷斯隆"  # W. Bloys van Treslong
-    Treslong"type = "
-    admiralfire = "
-    3shock = "
-    2manuever = "
-    4siege = "
-    0death_date = 1594.1.1
+    type = admiral
+    fire = 3
+    shock = 2
+    manuever = 4
+    siege = 0
+    death_date = 1594.1.1
   }
 }
 1568.5.23 = {
   leader = {
     name = "洛德韦克 范 拿骚"  # Lodewijk van Nassau
-    Nassau"type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1574.4.14
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1574.4.14
   }
 }
 1572.1.1 = {
   leader = {
     name = "约斯 德 穆尔"  # Joos de Moor
-    type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1618.2.18
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1618.2.18
   }
 }
 1575.1.1 = {
@@ -63,12 +63,12 @@ capital = 4383
 1579.1.1 = {
   leader = {
     name = "威廉 L 范 拿骚"  # Willem L. van Nassau
-    Nassau"type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1620.6.13
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1620.6.13
   }
 }
 1579.1.23 = {
@@ -93,12 +93,12 @@ capital = 4383
 1585.2.28 = {
   leader = {
     name = "尤斯蒂努斯 范 拿骚"  # Justinus van Nassau
-    Nassau"type = "
-    admiralfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1631.1.1
+    type = admiral
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1631.1.1
   }
 }
 1585.11.14 = {
@@ -111,111 +111,111 @@ capital = 4383
     mil = 6
     leader = {
       name = "毛里茨 范 拿骚"  # Maurits van Nassau
-      Nassau"type = "
-      generalfire = "
-      5shock = "
-      5manuever = "
-      5siege = 2
+      type = general
+      fire = 5
+      shock = 5
+      manuever = 5
+      siege = 2
     }
   }
 }
 1590.1.1 = {
   leader = {
     name = "威廉 巴伦支"  # Willem Barentsz
-    Barentsz"type = "
-    explorerfire = "
-    0shock = "
-    0manuever = "
-    5siege = "
-    0death_date = 1597.6.20
+    type = explorer
+    fire = 0
+    shock = 0
+    manuever = 5
+    siege = 0
+    death_date = 1597.6.20
   }
 }
 1592.1.1 = {
   leader = {
     name = "科内利斯 德 豪特曼"  # Cornelis de Houtman
-    Houtman"type = "
-    explorerfire = "
-    0shock = "
-    0manuever = "
-    5siege = "
-    0death_date = 1599.9.11
+    type = explorer
+    fire = 0
+    shock = 0
+    manuever = 5
+    siege = 0
+    death_date = 1599.9.11
   }
 }
 1592.1.1 = {
   leader = {
     name = "弗雷德里克 德 豪特曼"  # Fredrik de Houtman
-    Houtman"type = "
-    explorerfire = "
-    0shock = "
-    0manuever = "
-    5siege = "
-    0death_date = 1627.10.21
+    type = explorer
+    fire = 0
+    shock = 0
+    manuever = 5
+    siege = 0
+    death_date = 1627.10.21
   }
 }
 1595.1.1 = {
   leader = {
     name = "雅各布 范 海姆斯凯克"  # Jacob van Heemskerck
-    Heemskerck"type = "
-    explorerfire = "
-    3shock = "
-    3manuever = "
-    5siege = "
-    0death_date = 1607.4.25
+    type = explorer
+    fire = 3
+    shock = 3
+    manuever = 5
+    siege = 0
+    death_date = 1607.4.25
   }
 }
 1596.1.1 = {
   leader = {
     name = "约里斯 范 斯皮尔贝根"  # Joris van Spilbergen
-    Spilbergen"type = "
-    explorerfire = "
-    0shock = "
-    0manuever = "
-    5siege = "
-    0death_date = 1620.1.1
+    type = explorer
+    fire = 0
+    shock = 0
+    manuever = 5
+    siege = 0
+    death_date = 1620.1.1
   }
 }
 1598.1.1 = {
   leader = {
     name = "威廉 扬松"  # Willem Janszoon
-    Janszoon"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    4siege = "
-    0death_date = 1630.1.1
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 4
+    siege = 0
+    death_date = 1630.1.1
   }
 }
 1598.7.2 = {
   leader = {
     name = "奥利维尔 范 诺尔特"  # Olivier van Noort
-    Noort"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    6siege = "
-    0death_date = 1627.2.22
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 6
+    siege = 0
+    death_date = 1627.2.22
   }
 }
 1599.12.21 = {
   leader = {
     name = "彼得 博特"  # Pieter Both
-    type = "
-    conquistadorfire = "
-    2shock = "
-    2manuever = "
-    4siege = "
-    1death_date = 1609.1.1
+    type = conquistador
+    fire = 2
+    shock = 2
+    manuever = 4
+    siege = 1
+    death_date = 1609.1.1
   }
 }
 1601.1.1 = {
   leader = {
     name = "威廉 科内利松 斯豪滕"  # Willem Corneliszoon Schouten
-    Schouten"type = "
-    explorerfire = "
-    0shock = "
-    0manuever = "
-    5siege = "
-    0death_date = 1625.1.1
+    type = explorer
+    fire = 0
+    shock = 0
+    manuever = 5
+    siege = 0
+    death_date = 1625.1.1
   }
 }
 1602.1.1 = {
@@ -224,89 +224,89 @@ capital = 4383
 1610.1.1 = {
   leader = {
     name = "亨德里克 布劳沃"  # Hendrik Brouwer
-    Brouwer"type = "
-    explorerfire = "
-    0shock = "
-    0manuever = "
-    6siege = "
-    0death_date = 1643.8.7
+    type = explorer
+    fire = 0
+    shock = 0
+    manuever = 6
+    siege = 0
+    death_date = 1643.8.7
   }
 }
 1611.1.1 = {
   leader = {
     name = "扬 科内利松 梅"  # Jan Corneliszoon May
-    May"type = "
-    explorerfire = "
-    0shock = "
-    0manuever = "
-    5siege = "
-    0death_date = 1625.1.1
+    type = explorer
+    fire = 0
+    shock = 0
+    manuever = 5
+    siege = 0
+    death_date = 1625.1.1
   }
 }
 1613.1.1 = {
   leader = {
     name = "扬 彼得松 库恩"  # Jan Pieterszoon Coen
-    Coen"type = "
-    conquistadorfire = "
-    4shock = "
-    3manuever = "
-    4siege = "
-    1death_date = 1619.1.1
+    type = conquistador
+    fire = 4
+    shock = 3
+    manuever = 4
+    siege = 1
+    death_date = 1619.1.1
   }
 }
 1622.1.1 = {
   leader = {
     name = "约翰 埃费尔芩"  # Johan Evertzen
-    Evertzen"type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1666.8.5
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1666.8.5
   }
 }
 1622.1.1 = {
   leader = {
     name = "科内利斯 赖耶森"  # Cornelis Reijersen
-    Reijersen"type = "
-    conquistadorfire = "
-    1shock = "
-    1manuever = "
-    2siege = "
-    0death_date = 1622.12.31
+    type = conquistador
+    fire = 1
+    shock = 1
+    manuever = 2
+    siege = 0
+    death_date = 1622.12.31
   }
 }
 1623.1.1 = {
   leader = {
     name = "维特 德 维特"  # Witte de With
-    type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1658.11.8
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1658.11.8
   }
 }
 1623.11.2 = {
   leader = {
     name = "皮特 海恩"  # Piet Heyn
-    type = "
-    admiralfire = "
-    3shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1629.6.17
+    type = admiral
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1629.6.17
   }
 }
 1624.6.6 = {
   leader = {
     name = "马尔滕 哈佩茨 特龙普"  # Maarten Harpertsz. Tromp
-    Tromp"type = "
-    admiralfire = "
-    4shock = "
-    6manuever = "
-    5siege = "
-    0death_date = 1653.8.10
+    type = admiral
+    fire = 4
+    shock = 6
+    manuever = 5
+    siege = 0
+    death_date = 1653.8.10
   }
 }
 1625.4.23 = {
@@ -318,78 +318,78 @@ capital = 4383
     mil = 3
     leader = {
       name = "弗雷德里克 亨德里克 范 奥兰治"  # Frederik-Hendrik van Oranje
-      Oranje"type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 2
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 2
     }
   }
 }
 1631.1.1 = {
   leader = {
     name = "扬 范 加仑"  # Jan van Galen
-    Galen"type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    4siege = "
-    0death_date = 1653.3.23
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1653.3.23
   }
 }
 1634.1.1 = {
   leader = {
     name = "约翰内斯 范 瓦尔贝克"  # Johannes van Walbeeck
-    Walbeeck"type = "
-    conquistadorfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1641.1.1
+    type = conquistador
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1641.1.1
   }
 }
 1637.1.1 = {
   leader = {
     name = "J. M. 范 拿骚 锡根"  # J. M. van Nassau-Siegen
-    Nassau-Siegen"type = "
-    conquistadorfire = "
-    4shock = "
-    3manuever = "
-    4siege = "
-    2death_date = 1679.12.20
+    type = conquistador
+    fire = 4
+    shock = 3
+    manuever = 4
+    siege = 2
+    death_date = 1679.12.20
   }
 }
 1639.1.1 = {
   leader = {
     name = "阿贝尔 塔斯曼"  # Abel Tasman
-    Tasman"type = "
-    explorerfire = "
-    2shock = "
-    2manuever = "
-    6siege = "
-    0death_date = 1659.10.10
+    type = explorer
+    fire = 2
+    shock = 2
+    manuever = 6
+    siege = 0
+    death_date = 1659.10.10
   }
 }
 1639.1.1 = {
   leader = {
     name = "科内利斯 埃费尔芩 德 奥德"  # Cornelis Evertsen de Oude
-    Oude"type = "
-    admiralfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1666.6.11
+    type = admiral
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1666.6.11
   }
 }
 1641.1.1 = {
   leader = {
     name = "米希尔 德 鲁伊特"  # Michiel de Ruyter
-    Ruyter"type = "
-    admiralfire = "
-    6shock = "
-    5manuever = "
-    6siege = "
-    0death_date = 1676.4.29
+    type = admiral
+    fire = 6
+    shock = 5
+    manuever = 6
+    siege = 0
+    death_date = 1676.4.29
   }
 }
 1647.3.14 = {
@@ -401,11 +401,11 @@ capital = 4383
     mil = 3
     leader = {
       name = "威廉 II 范 奥兰治"  # Willem II van Oranje
-      Oranje"type = "
-      generalfire = "
-      2shock = "
-      2manuever = "
-      3siege = 0
+      type = general
+      fire = 2
+      shock = 2
+      manuever = 3
+      siege = 0
     }
   }
 }
@@ -421,111 +421,111 @@ capital = 4383
 1652.5.29 = {
   leader = {
     name = "科内利斯 特龙普"  # Cornelis Tromp
-    type = "
-    admiralfire = "
-    3shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1691.5.26
+    type = admiral
+    fire = 3
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1691.5.26
   }
 }
 1653.1.1 = {
   leader = {
     name = "雅各布 范 瓦塞纳 奥布达姆"  # Jacob van Wassenaer Obdam
-    Obdam"type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    2siege = "
-    0death_date = 1665.6.13
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1665.6.13
   }
 }
 1653.10.21 = {
   leader = {
     name = "埃格伯特 B. 科特纳"  # Egbert B. Kortenaer
-    Kortenaer"type = "
-    admiralfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1665.6.13
+    type = admiral
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1665.6.13
   }
 }
 1662.3.3 = {
   leader = {
     name = "阿尔特 扬塞 范 内斯"  # Aert Jansse van Nes
-    Nes"type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1693.9.14
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1693.9.14
   }
 }
 1665.1.1 = {
   leader = {
     name = "C. 埃费尔芩 德 容"  # C. Evertsen de Jonge
-    Jonge"type = "
-    admiralfire = "
-    4shock = "
-    4manuever = "
-    4siege = "
-    0death_date = 1679.9.20
+    type = admiral
+    fire = 4
+    shock = 4
+    manuever = 4
+    siege = 0
+    death_date = 1679.9.20
   }
 }
 1665.3.4 = {
   leader = {
     name = "扬 范 布拉克尔"  # Jan van Brakel
-    Brakel"type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    2siege = "
-    0death_date = 1690.7.10
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 2
+    siege = 0
+    death_date = 1690.7.10
   }
 }
 1665.10.22 = {
   leader = {
     name = "伊萨克 斯威尔斯"  # Isaac Sweers
-    Sweers"type = "
-    admiralfire = "
-    1shock = "
-    1manuever = "
-    2siege = "
-    0death_date = 1673.8.21
+    type = admiral
+    fire = 1
+    shock = 1
+    manuever = 2
+    siege = 0
+    death_date = 1673.8.21
   }
 }
 1666.9.5 = {
   leader = {
     name = "威廉 约瑟夫 范 根特"  # Willem Joseph van Ghent
-    Ghent"type = "
-    admiralfire = "
-    1shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1672.6.7
+    type = admiral
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1672.6.7
   }
 }
 1666.12.30 = {
   leader = {
     name = "亚伯拉罕 克赖因森"  # Abraham Crijnssen
-    Crijnssen"type = "
-    conquistadorfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    1death_date = 1669.1.1
+    type = conquistador
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 1
+    death_date = 1669.1.1
   }
 }
 1668.1.17 = {
   leader = {
     name = "保卢斯 维尔茨"  # Paulus Wirtz
-    Wirtz"type = "
-    generalfire = "
-    1shock = "
-    1manuever = "
-    2siege = "
-    0death_date = 1675.3.26
+    type = general
+    fire = 1
+    shock = 1
+    manuever = 2
+    siege = 0
+    death_date = 1675.3.26
   }
 }
 1672.6.28 = {
@@ -537,78 +537,78 @@ capital = 4383
     mil = 4
     leader = {
       name = "威廉 III 范 奥兰治"  # Willem III van Oranje
-      Oranje"type = "
-      generalfire = "
-      3shock = "
-      3manuever = "
-      3siege = 0
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 3
+      siege = 0
     }
   }
 }
 1673.1.1 = {
   leader = {
     name = "W. 范 拿骚 乌辛根"  # W. van Nassau-Usingen
-    Nassau-Usingen"type = "
-    generalfire = "
-    3shock = "
-    2manuever = "
-    3siege = "
-    1death_date = 1702.10.17
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 3
+    siege = 1
+    death_date = 1702.10.17
   }
 }
 1678.1.1 = {
   leader = {
     name = "赫莱恩 埃费尔芩"  # Geleyn Evertsen
-    type = "
-    admiralfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1721.7.25
+    type = admiral
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1721.7.25
   }
 }
 1679.1.1 = {
   leader = {
     name = "西蒙 范 德 施特尔"  # Simon van der Stel
-    Stel"type = "
-    conquistadorfire = "
-    1shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1699.2.11
+    type = conquistador
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1699.2.11
   }
 }
 1689.4.16 = {
   leader = {
     name = "赫拉德 卡伦堡"  # Gerard Callenburgh
-    Callenburgh"type = "
-    admiralfire = "
-    1shock = "
-    1manuever = "
-    3siege = "
-    0death_date = 1722.10.8
+    type = admiral
+    fire = 1
+    shock = 1
+    manuever = 3
+    siege = 0
+    death_date = 1722.10.8
   }
 }
 1697.1.1 = {
   leader = {
     name = "H. 范 拿骚 奥韦克尔克"  # H. van Nassau-Ouwerkerk
-    Nassau-Ouwerkerk"type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1708.10.18
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1708.10.18
   }
 }
 1700.1.1 = {
   leader = {
     name = "C. 范 拿骚 沃登贝赫"  # C. van Nassau-Woudenberg
-    Nassau-Woudenberg"type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1712.7.24
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1712.7.24
   }
 }
 1702.3.8 = {
@@ -623,34 +623,34 @@ capital = 4383
 1702.3.8 = {
   leader = {
     name = "阿诺尔德 约斯特 范 凯佩尔"  # Arnold Joost van Keppel
-    Keppel"type = "
-    generalfire = "
-    3shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1718.5.30
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1718.5.30
   }
 }
 1707.1.1 = {
   leader = {
     name = "J. W. 弗里索 范 拿骚"  # J.W. Friso van Nassau
-    Nassau"type = "
-    generalfire = "
-    2shock = "
-    3manuever = "
-    3siege = "
-    0death_date = 1711.7.14
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 3
+    siege = 0
+    death_date = 1711.7.14
   }
 }
 1721.8.1 = {
   leader = {
     name = "雅各布 罗赫芬"  # Jacob Roggeveen
-    Roggeveen"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    4siege = "
-    0death_date = 1729.1.31
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 4
+    siege = 0
+    death_date = 1729.1.31
   }
 }
 1747.4.1 = {
@@ -668,12 +668,12 @@ capital = 4383
 1750.1.1 = {
   leader = {
     name = "约翰 藻特曼"  # Johan Zoutman
-    Zoutman"type = "
-    admiralfire = "
-    3shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1793.5.7
+    type = admiral
+    fire = 3
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1793.5.7
   }
 }
 1751.10.22 = {
@@ -688,23 +688,23 @@ capital = 4383
 1751.10.22 = {
   leader = {
     name = "洛德韦克 E. 范 不伦瑞克"  # Lodewijk E. van Brunswijk
-    Brunswijk"type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    2siege = "
-    1death_date = 1788.5.12
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 2
+    siege = 1
+    death_date = 1788.5.12
   }
 }
 1778.1.1 = {
   leader = {
     name = "扬 威廉 德 温特"  # Jan Willem de Winter
-    Winter"type = "
-    admiralfire = "
-    2shock = "
-    3manuever = "
-    2siege = "
-    0death_date = 1787.1.1
+    type = admiral
+    fire = 2
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1787.1.1
   }
 }
 1795.1.19 = {
@@ -720,12 +720,12 @@ capital = 4383
 1799.1.1 = {
   leader = {
     name = "戴维 亨德里克 沙塞"  # David Hendrik Chassé
-    Chassé"type = "
-    generalfire = "
-    2shock = "
-    2manuever = 3
-    siege = "
-    0death_date = 1841.1.1
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1841.1.1
   }
 }
 1805.1.1 = {
@@ -740,12 +740,12 @@ capital = 4383
 1806.1.1 = {
   leader = {
     name = "H. W. 丹德尔斯"  # H. W. Daendels
-    Daendels"type = "
-    generalfire = "
-    2shock = "
-    2manuever = "
-    3siege = "
-    0death_date = 1818.5.18
+    type = general
+    fire = 2
+    shock = 2
+    manuever = 3
+    siege = 0
+    death_date = 1818.5.18
   }
 }
 1806.6.5 = {

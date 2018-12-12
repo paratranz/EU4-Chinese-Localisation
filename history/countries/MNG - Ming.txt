@@ -37,11 +37,11 @@ capital = 1821
     mil = 6
     leader = {
       name = "朱棣"  # Di Zhu
-      Zhu"type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      4siege = 0
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 4
+      siege = 0
     }
   }
 }
@@ -54,11 +54,11 @@ capital = 1821
     mil = 6
     leader = {
       name = "朱棣"  # Di Zhu
-      Zhu"type = "
-      generalfire = "
-      4shock = "
-      4manuever = "
-      4siege = 0
+      type = general
+      fire = 4
+      shock = 4
+      manuever = 4
+      siege = 0
     }
   }
 }
@@ -78,12 +78,12 @@ capital = 1821
 1405.1.1 = {
   leader = {
     name = "郑和"  # Zheng He
-    He"type = "
-    explorerfire = "
-    1shock = "
-    1manuever = "
-    6siege = "
-    0death_date = 1433.1.1
+    type = explorer
+    fire = 1
+    shock = 1
+    manuever = 6
+    siege = 0
+    death_date = 1433.1.1
   }
 }
 1421.1.1 = {
@@ -279,12 +279,12 @@ capital = 1821
 1522.1.1 = {
   leader = {
     name = "戚继光"  # Qi Jiguang
-    Jiguang"type = "
-    generalfire = "
-    2shock = "
-    4manuever = "
-    3siege = "
-    1death_date = 1585.1.1
+    type = general
+    fire = 2
+    shock = 4
+    manuever = 3
+    siege = 1
+    death_date = 1585.1.1
   }
 }
 1537.3.4 = {
@@ -347,12 +347,12 @@ capital = 1821
 1593.1.1 = {
   leader = {
     name = "李如松"  # Li Rusong
-    Rusong"type = "
-    generalfire = "
-    3shock = "
-    2manuever = "
-    1siege = "
-    0death_date = 1598.4.3
+    type = general
+    fire = 3
+    shock = 2
+    manuever = 1
+    siege = 0
+    death_date = 1598.4.3
   }
 }
 1600.1.1 = {
@@ -362,12 +362,12 @@ capital = 1821
 1619.1.1 = {
   leader = {
     name = "袁崇焕"  # Yuan Chonghuan
-    Chonghuan"type = "
-    generalfire = "
-    4shock = "
-    5manuever = "
-    6siege = "
-    0death_date = 1630.1.12
+    type = general
+    fire = 4
+    shock = 5
+    manuever = 6
+    siege = 0
+    death_date = 1630.1.12
   }
 }
 1620.8.27 = {
@@ -496,12 +496,12 @@ capital = 1821
 1650.1.1 = {
   leader = {
     name = "郑成功"  # Chenggong Zheng
-    Zheng"type = "
-    admiralfire = "
-    5shock = "
-    5manuever = "
-    5siege = "
-    0death_date = 1662.6.23
+    type = admiral
+    fire = 5
+    shock = 5
+    manuever = 5
+    siege = 0
+    death_date = 1662.6.23
   }
 }
 1662.2.1 = {
