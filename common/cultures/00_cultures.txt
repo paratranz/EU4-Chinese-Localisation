@@ -6882,45 +6882,45 @@ latin = {
     "Eleonora"
     "Elisabetta"
     "Ermenegilda"
-    "Eudossia"
+    "欧多西娅"  # Eudossia
     "欧金尼娅"  # Eugenia
-    "Elisa"
-    "Fausta"
-    "Felicia"
-    "Felicita"
-    "Filippa"
-    "Filomena"
-    "Flavia"
+    "伊莉莎"  # Elisa
+    "福斯塔"  # Fausta
+    "费利西娅"  # Felicia
+    "斐莉茜塔"  # Felicita
+    "菲莉芭"  # Filippa
+    "菲洛梅娜"  # Filomena
+    "芙拉薇娅"  # Flavia
     "Fiora"
-    "Fortunata"
-    "Fosca"
-    "Francesca"
-    "Froizza"
-    "Giacinta"
-    "Ginevra"
-    "Giovanna"
-    "Giuditta"
-    "Giulia"
+    "福尔图娜塔"  # Fortunata
+    "佛丝卡"  # Fosca
+    "弗兰切斯卡"  # Francesca
+    "弗瓦扎"  # Froizza
+    "贾钦塔"  # Giacinta
+    "吉尼芙拉"  # Ginevra
+    "乔万娜"  # Giovanna
+    "朱迪塔"  # Giuditta
+    "朱莉娅"  # Giulia
     "Giuliana"
-    "Giuseppa"
-    "Ippolita"
-    "Isabella"
-    "Joscella"
-    "Laura"
-    "Lavinia"
-    "Leonide"
-    "Letizia"
-    "Lidia"
-    "Livia"
-    "Lodovica"
-    "Lucia"
-    "Lucinetta"
-    "Lucrezia"
-    "Maddalena"
-    "Marcella"
-    "Margherita"
-    "Maria"
-    "Mariana"
+    "朱塞帕"  # Giuseppa
+    "伊波莉塔"  # Ippolita
+    "伊莎贝拉"  # Isabella
+    "约塞拉"  # Joscella
+    "拉娅"  # Laura
+    "萝毗泥耶"  # Lavinia
+    "莱奥尼德"  # Leonide
+    "蕾蒂琪娅"  # Letizia
+    "莉迪亚"  # Lidia
+    "利维娅"  # Livia
+    "洛多薇卡"  # Lodovica
+    "卢西娅"  # Lucia
+    "露琪内塔"  # Lucinetta
+    "卢克蕾齐娅"  # Lucrezia
+    "玛达莱娜"  # Maddalena
+    "玛尔切拉"  # Marcella
+    "玛格丽塔"  # Margherita
+    "玛利亚"  # Maria
+    "玛丽亚纳"  # Mariana
     "玛丽埃塔"  # Marietta
     "玛缇娜"  # Martina
     "玛蒂尔妲"  # Matilda
@@ -7147,7 +7147,7 @@ iberian = {
       "阿尔瓦罗"  # Álvaro
       "奥利弗"  # Oliver
       "贝尔穆多"  # Bermudo
-      "Vermudo"
+      "维尔穆多"  # Vermudo
       "迭戈"  # Diego
       "迪亚科"  # Diaco
       "亨利"  # Henry
@@ -7167,7 +7167,7 @@ iberian = {
       "戈麦斯"  # Gomez
       "贡萨洛"  # Gonzalo
       "贡萨洛"  # Gonzalo
-      "Guillén"
+      "纪廉"  # Guillén
       "威廉"  # William
       "Guillermo"
       "威廉"  # William
@@ -7235,34 +7235,34 @@ iberian = {
       "Jimena"
       "Ximena"
       "胡安娜"  # Juana
-      "Joan"
-      "Leonor"
-      "Eleanor"
-      "Mafalda"
+      "约安"  # Joan
+      "莱昂诺尔"  # Leonor
+      "埃莉诺"  # Eleanor
+      "玛法尔妲"  # Mafalda
       "Matilda"
-      "María"
-      "Maria"
-      "Marina"
-      "Marine"
-      "Mayor"
-      "Mayor"
-      "Mencía"
-      "Mencia"
-      "Milia"
-      "Emily"
-      "Sancha"
-      "Sancha"
+      "玛利亚"  # María
+      "玛利亚"  # Maria
+      "玛莉娜"  # Marina
+      "玛琳"  # Marine
+      "马约尔"  # Mayor
+      "马约尔"  # Mayor
+      "门西娅"  # Mencía
+      "门西亚"  # Mencia
+      "米利亚"  # Milia
+      "艾米莉"  # Emily
+      "桑查"  # Sancha
+      "桑查"  # Sancha
       "特蕾莎"  # Teresa
       "特蕾莎"  # Teresa
-      "Toda"
-      "Toda"
-      "Urraca"
-      "Urraca"
-      "Isabel"
+      "托妲"  # Toda
+      "托妲"  # Toda
+      "乌拉卡"  # Urraca
+      "乌拉卡"  # Urraca
+      "伊莎贝尔"  # Isabel
     }
   }
-  leonese = {
-    primary = LON
+  mexican = {
+    primary = MEX
     dynasty_names = {
       "de Trastámara"
       "de Guzmán"
@@ -7272,7 +7272,7 @@ iberian = {
       "de Valencia"
       "Téllez-Girón"
       "Manrique de Lara"
-      "德 阿瓦洛斯"  # de Ávalos
+      "de Ávalos"
       "Enríquez"
       "Osuna"
       "Argavieso"
@@ -7297,6 +7297,205 @@ iberian = {
       "de Villahermosa"
       "Vilafermosa"
       "Garmendia"
+      "de Rocamora"
+      "de Goyeneche"
+    }
+    male_names = {
+      "Enrique"
+      "Fernando"
+      "Juan"
+      "Felipe"
+      "Alfonso"
+      "Carlos"
+      "Sancho"
+      "Ramiro"
+      "Pedro"
+      "Alonso"
+      "Álvaro"
+      "Baltasar"
+      "Bernardo"
+      "Bertrán"
+      "Hernando"
+      "Cristobal"
+      "Diego"
+      "Domingo"
+      "Esteban"
+      "Fadrique"
+      "Francisco"
+      "García"
+      "Gómez"
+      "Gonzalo"
+      "Gutierre"
+      "Hermenegildo"
+      "Ignacio"
+      "Laín"
+      "Lope"
+      "Miguel"
+      "Nuño"
+      "Odón"
+      "Ramón"
+      "Rodrigo"
+      "Tomás"
+      "Valeriano"
+      "Alfonso"
+      "Alphonse"
+      "Alonso"
+      "Alphonse"
+      "Álvar"
+      "Oliver"
+      "Álvaro"
+      "Oliver"
+      "Bermudo"
+      "Vermudo"
+      "Diego"
+      "Diaco"
+      "Henry"
+      "Fadrique"
+      "Frederick"
+      "Felipe"
+      "Philip"
+      "Fernando"
+      "Ferdinand"
+      "Fruela"
+      "Froila"
+      "García"
+      "Garcia"
+      "Gil"
+      "Egidius"
+      "Gómez"
+      "Gomez"
+      "Gonzalo"
+      "Gonzalo"
+      "Guillén"
+      "William"
+      "Guillermo"
+      "William"
+      "Gutierre"
+      "Walter"
+      "Juan"
+      "Lope"
+      "Lupo"
+      "Luis"
+      "Louis"
+      "Manrique"
+      "Amalric"
+      "Martín"
+      "Martin"
+      "Munio"
+      "Munio"
+      "Nuño"
+      "Nuno"
+      "Ordoño"
+      "Ordono"
+      "Obeko"
+      "Pedro"
+      "Peter"
+      "Pelayo"
+      "Pelagius"
+      "Ramiro"
+      "Ramiro"
+      "Rodrigo"
+      "Roderick"
+      "Salvador"
+      "Sancho"
+      "Sancho"
+      "Suero"
+      "Tello"
+      "Vela"
+      "Vela"
+      "Suero"
+      "Oveco"
+      "John"
+      "Enrique"
+    }
+    female_names = {
+      "Aldonza"
+      "Aldonza"
+      "Anderquina"
+      "Beatriz"
+      "Beatrice"
+      "Berenguela"
+      "Berengaria"
+      "Blanca"
+      "Blanche"
+      "Constanza"
+      "Constance"
+      "Elvira"
+      "Elvira"
+      "Estefanía"
+      "Stephania"
+      "Fronilda"
+      "Fronilde"
+      "Gontroda"
+      "Gotruda"
+      "Inés"
+      "Agnes"
+      "Elisabeth"
+      "Jimena"
+      "Ximena"
+      "Juana"
+      "Joan"
+      "Leonor"
+      "Eleanor"
+      "Mafalda"
+      "Matilda"
+      "María"
+      "Maria"
+      "Marina"
+      "Marine"
+      "Mayor"
+      "Mayor"
+      "Mencía"
+      "Mencia"
+      "Milia"
+      "Emily"
+      "Sancha"
+      "Sancha"
+      "Teresa"
+      "Teresa"
+      "Toda"
+      "Toda"
+      "Urraca"
+      "Urraca"
+      "Isabel"
+    }
+  }
+  leonese = {
+    primary = LON
+    dynasty_names = {
+      "德 特拉斯塔马拉"  # de Trastámara
+      "德 古斯曼"  # de Guzmán
+      "阿尔瓦雷斯 德 托莱多"  # Álvarez de Toledo
+      "德 拉塞尔达"  # de la Cerda
+      "德 卡斯蒂利亚"  # de Castilla
+      "德 巴伦西亚"  # de Valencia
+      "特列斯 希龙"  # Téllez-Girón
+      "曼里克 德 拉腊"  # Manrique de Lara
+      "德 阿瓦洛斯"  # de Ávalos
+      "恩里克斯"  # Enríquez
+      "奥苏纳"  # Osuna
+      "阿尔加别索"  # Argavieso
+      "鲁斯波利"  # Ruspoli
+      "拉索 德 拉维加"  # Lasso de la Vega
+      "德 奥约斯"  # de Hoyos
+      "萨亚斯"  # Zayas
+      "德 阿尔卡拉"  # de Alcalá
+      "德 梅内塞斯"  # de Menezes
+      "德 门多萨"  # de Mendoza
+      "德 涅布拉"  # de Niebla
+      "德 席尔瓦"  # de Silva
+      "德 阿尔瓦"  # de Alba
+      "德 博尔哈"  # de Borja
+      "德 梅迪纳塞利"  # de Medinaceli
+      "德 卡斯特罗"  # de Castro
+      "德 哈罗"  # de Haro
+      "圣克利门特"  # Santcliment
+      "德 阿尔塔米拉"  # de Altamira
+      "奥索里奥"  # Osorio
+      "苏尼加"  # Zúñiga
+      "德 比利亚埃尔莫萨"  # de Villahermosa
+      "比拉费尔莫萨"  # Vilafermosa
+      "加尔门迪亚"  # Garmendia
       "de Rocamora"
       "de Goyeneche"
     }
@@ -7362,73 +7561,73 @@ iberian = {
       "胡安"  # Juan
       "Lupo"
       "Luis"
-      "Manrique"
-      "Martín"
-      "Martin"
-      "Munio"
-      "Ordoño"
-      "Obeko"
-      "Pelayo"
-      "Pelagius"
-      "Roderick"
-      "Salvador"
-      "Tello"
-      "Vela"
-      "Suero"
-      "Oveco"
+      "曼里克"  # Manrique
+      "马丁"  # Martín
+      "马丁"  # Martin
+      "穆尼奥"  # Munio
+      "奥多尼奥"  # Ordoño
+      "欧贝寇"  # Obeko
+      "佩拉约"  # Pelayo
+      "柏拉奇"  # Pelagius
+      "罗德里克"  # Roderick
+      "萨尔瓦多"  # Salvador
+      "特略"  # Tello
+      "韦拉"  # Vela
+      "苏埃罗"  # Suero
+      "奥威科"  # Oveco
     }
     female_names = {
-      "Aldonza"
-      "Anderquina"
-      "Beatriz"
-      "Berenguela"
-      "Berengaria"
-      "Blanca"
-      "Constanza"
-      "Elvira"
-      "Estefanía"
-      "Fronilda"
-      "Gontroda"
-      "Gotruda"
-      "Inés"
-      "Agnes"
+      "阿尔东萨"  # Aldonza
+      "安德齐娜"  # Anderquina
+      "贝阿特丽丝"  # Beatriz
+      "贝伦格拉"  # Berenguela
+      "贝伦嘉莉娅"  # Berengaria
+      "布兰卡"  # Blanca
+      "康斯坦察"  # Constanza
+      "艾尔薇拉"  # Elvira
+      "埃斯特法妮娅"  # Estefanía
+      "芙洛妮尔妲"  # Fronilda
+      "贡特洛妲"  # Gontroda
+      "哥特路妲"  # Gotruda
+      "伊内斯"  # Inés
+      "阿涅丝"  # Agnes
       "伊丽莎白"  # Elisabeth
-      "Jimena"
-      "Ximena"
+      "希梅纳"  # Jimena
+      "希梅娜"  # Ximena
       "胡安娜"  # Juana
-      "Joan"
-      "Leonor"
-      "Eleanor"
-      "Mafalda"
-      "Matilda"
-      "María"
-      "Marina"
-      "Marine"
-      "Mayor"
-      "Mencía"
-      "Milia"
-      "Emily"
-      "Sancha"
+      "约安"  # Joan
+      "莱昂诺尔"  # Leonor
+      "埃莉诺"  # Eleanor
+      "玛法尔妲"  # Mafalda
+      "玛蒂尔达"  # Matilda
+      "玛利亚"  # María
+      "玛莉娜"  # Marina
+      "玛琳"  # Marine
+      "马约尔"  # Mayor
+      "门西娅"  # Mencía
+      "米利亚"  # Milia
+      "艾米莉"  # Emily
+      "桑查"  # Sancha
       "特蕾莎"  # Teresa
-      "Toda"
-      "Urraca"
-      "Isabela"
+      "托妲"  # Toda
+      "乌拉卡"  # Urraca
+      "伊莎贝拉"  # Isabela
     }
   }
   aragonese = {
     primary = ARA
     dynasty_names = {
-      "d'Aragó"
-      "de Borja"
-      "de Luna"
-      "d'Urgell"
+      "德 阿拉贡"  # d'Aragó
+      "德 博尔哈"  # de Borja
+      "德 露那"  # de Luna
+      "德 乌赫尔"  # d'Urgell
       "Folc de Cardona"
       "de Menezes"
       "de Mendoza"
       "de Niebla"
       "de Silva"
       "de Alba"
-      "de Borja"
+      "德 博尔哈"  # de Borja
       "de Medinaceli"
       "de Castro"
       "de Haro"
@@ -7478,67 +7677,67 @@ iberian = {
       "Guislabert"
       "Gilbert"
       "Hug"
-      "Hugh"
-      "Jaume"
-      "Jacob"
-      "Joan"
+      "休"  # Hugh
+      "豪梅"  # Jaume
+      "雅各伯"  # Jacob
+      "约安"  # Joan
       "约翰"  # John
-      "Jofré"
+      "霍夫雷"  # Jofré
       "Godfrey"
-      "Ott"
-      "Otto"
-      "Pere"
+      "奥特"  # Ott
+      "奥托"  # Otto
+      "佩雷"  # Pere
       "彼得"  # Peter
-      "Ponç"
-      "Ponç-Hug"
-      "Ramon"
-      "Raymond"
-      "Ramon-Berenguer"
-      "Raymond-Berengar"
-      "Ramon-Folc"
-      "Roger"
-      "Roger"
-      "Sanç"
-      "Sancho"
-      "Sunyer"
-      "Sunyer"
-      "Udalard"
-      "Pons"
-      "Guillem-Ramon"
+      "庞斯"  # Ponç
+      "庞斯-乌格"  # Ponç-Hug
+      "拉蒙"  # Ramon
+      "雷蒙德"  # Raymond
+      "拉蒙-贝伦格尔"  # Ramon-Berenguer
+      "雷蒙德 贝伦伽尔"  # Raymond-Berengar
+      "拉蒙 福克"  # Ramon-Folc
+      "罗杰"  # Roger
+      "罗杰"  # Roger
+      "桑斯"  # Sanç
+      "桑乔"  # Sancho
+      "苏涅尔"  # Sunyer
+      "苏涅尔"  # Sunyer
+      "乌达拉地"  # Udalard
+      "庞斯"  # Pons
+      "吉列姆 拉蒙"  # Guillem-Ramon
     }
     female_names = {
-      "Isabel"
+      "伊莎贝尔"  # Isabel
       "胡安娜"  # Juana
-      "María"
-      "Catalina"
-      "Adelaida"
-      "Adelaide"
-      "Agnès"
-      "Agnes"
-      "Alamanda"
-      "Arsenda"
-      "Arsenda"
-      "Beatriu"
-      "Beatrice"
-      "Blanca"
-      "Blanche"
-      "Brunisenda"
-      "Constança"
-      "Constance"
-      "Dolça"
-      "Douce"
-      "Elionor"
-      "Eleanor"
-      "Elisenda"
-      "Ermessenda"
-      "Ermesinda"
-      "Estefania"
-      "Stephania"
-      "Gueraua"
-      "Guillelma"
-      "Guisla"
+      "玛利亚"  # María
+      "卡塔莉娜"  # Catalina
+      "阿德拉伊妲"  # Adelaida
+      "阿德莱德"  # Adelaide
+      "阿格内丝"  # Agnès
+      "阿涅丝"  # Agnes
+      "阿拉曼达"  # Alamanda
+      "阿尔森妲"  # Arsenda
+      "阿尔森妲"  # Arsenda
+      "贝阿特丽乌"  # Beatriu
+      "贝亚特里切"  # Beatrice
+      "布兰卡"  # Blanca
+      "布兰琪"  # Blanche
+      "布鲁恩森达"  # Brunisenda
+      "康斯坦莎"  # Constança
+      "康斯坦茨"  # Constance
+      "多尔莎"  # Dolça
+      "杜丝"  # Douce
+      "埃莉奥诺尔"  # Elionor
+      "埃莉诺"  # Eleanor
+      "伊利森达"  # Elisenda
+      "埃尔梅森达"  # Ermessenda
+      "埃尔梅辛妲"  # Ermesinda
+      "埃斯特法尼娅"  # Estefania
+      "斯蒂芬妮雅"  # Stephania
+      "格拉瓦"  # Gueraua
+      "吉耶玛"  # Guillelma
+      "吉丝拉"  # Guisla
       "Gisela"
-      "Isabel"
+      "伊莎贝尔"  # Isabel
       "伊丽莎白"  # Elisabeth
       "Margarida"
       "Margaret"
@@ -7603,58 +7802,58 @@ iberian = {
       "Àlvar"
       "Àngel"
       "Antoni"
-      "Arnau"
-      "Artur"
+      "阿尔瑙"  # Arnau
+      "阿蒂尔"  # Artur
       "Blai"
-      "Carles"
+      "卡莱斯"  # Carles
       "Cecili"
-      "Conrad"
-      "Dari"
+      "康拉德"  # Conrad
+      "达里"  # Dari
       "Dionís"
-      "Emili"
-      "Enric"
-      "Felip"
-      "Ferran"
+      "艾米丽"  # Emili
+      "恩里克"  # Enric
+      "腓力"  # Felip
+      "费尔南多"  # Ferran
       "Francés"
-      "Francesc"
+      "弗朗塞斯克"  # Francesc
       "Fructuós"
       "Germà"
-      "Gonçal"
-      "Guillem"
+      "贡萨尔"  # Gonçal
+      "吉列姆"  # Guillem
       "Guiu"
-      "Ignasi"
-      "Israel"
-      "Joan"
-      "Jordi"
-      "Josep"
-      "Josep"
-      "Maria"
+      "伊格纳西"  # Ignasi
+      "以色列"  # Israel
+      "约安"  # Joan
+      "若尔迪"  # Jordi
+      "若塞普"  # Josep
+      "若塞普"  # Josep
+      "玛利亚"  # Maria
       "Lleó"
-      "Lluc"
-      "Lluís"
+      "卢克"  # Lluc
+      "路易斯"  # Lluís
       "Macedoni"
       "Màrius"
-      "Martí"
-      "Miquel"
+      "马蒂"  # Martí
+      "米格尔"  # Miquel
       "Octavi"
       "Òscar"
       "Pau"
-      "Pere"
-      "Pol"
+      "佩雷"  # Pere
+      "珀尔"  # Pol
       "Pompeu"
       "Pròsper"
       "Prudenci"
       "Prudencià"
       "Quirze"
-      "Rafael"
-      "Ramir"
+      "拉斐尔"  # Rafael
+      "拉米罗"  # Ramir
       "Raül"
-      "Reginald"
+      "雷吉纳德"  # Reginald
       "里卡德"  # Ricard
-      "Robert"
-      "Roc"
+      "罗伯特"  # Robert
+      "罗克"  # Roc
       "罗伯特"  # Rubèn
-      "Sergi"
+      "赛尔日"  # Sergi
       "Simó"
       "Teodor"
       "Tomàs"
@@ -7695,28 +7894,28 @@ iberian = {
       "de Mendoza"
       "de Niebla"
       "de Silva"
-      "de Alba"
-      "de Borja"
-      "de Medinaceli"
-      "de Castro"
-      "de Haro"
-      "Santcliment"
-      "de Altamira"
+      "德 阿尔瓦"  # de Alba
+      "德 博尔哈"  # de Borja
+      "德 梅迪纳塞利"  # de Medinaceli
+      "德 卡斯特罗"  # de Castro
+      "德 哈罗"  # de Haro
+      "圣克利门特"  # Santcliment
+      "德 阿尔塔米拉"  # de Altamira
       "Osorio"
-      "Zúñiga"
-      "de Villahermosa"
-      "Vilafermosa"
-      "Garmendia"
-      "de Rocamora"
-      "de Goyeneche"
-      "de Cabrera"
-      "de Villena"
+      "苏尼加"  # Zúñiga
+      "德 比利亚埃尔莫萨"  # de Villahermosa
+      "比拉费尔莫萨"  # Vilafermosa
+      "加尔门迪亚"  # Garmendia
+      "德 罗卡莫拉"  # de Rocamora
+      "德 戈耶内切"  # de Goyeneche
+      "德 卡布雷拉"  # de Cabrera
+      "德 比列那"  # de Villena
     }
     male_names = {
       "加西亚"  # García
       "奥多尼奥"  # Ordoño
       "阿方索"  # Afonso
-      "Sancho"
+      "桑乔"  # Sancho
       "拉米罗"  # Ramiro
       "贝尔穆多"  # Bermudo
       "弗洛伊拉"  # Froila
@@ -7728,9 +7927,9 @@ iberian = {
       "Brais"
       "卡洛斯"  # Carlos
       "Cristovo"
-      "Domingos"
+      "多明戈"  # Domingos
       "Estevo"
-      "Felipe"
+      "腓力"  # Felipe
       "Fernán"
       "弗朗西斯科"  # Francisco
       "弗雷德里科"  # Frederico
@@ -7740,31 +7939,31 @@ iberian = {
       "恩里克"  # Henrique
       "Hermenexildo"
       "Hixinio"
-      "Hugo"
-      "Iago"
-      "Ignacio"
-      "Leandro"
-      "Lope"
-      "Miguel"
-      "Nuno"
-      "Odón"
-      "Paulo"
+      "胡戈"  # Hugo
+      "雅各"  # Iago
+      "伊格纳西奥"  # Ignacio
+      "莱昂德罗"  # Leandro
+      "洛佩"  # Lope
+      "米格尔"  # Miguel
+      "努诺"  # Nuno
+      "奥东"  # Odón
+      "圣保罗"  # Paulo
       "佩德罗"  # Pedro
       "拉蒙"  # Ramón
-      "Roi"
-      "Tomé"
-      "Vitor"
+      "罗伊"  # Roi
+      "多美"  # Tomé
+      "维托尔"  # Vitor
       "Xoan"
       "Xorxe"
     }
     female_names = {
-      "Branca"
-      "Iria"
+      "布兰卡"  # Branca
+      "伊里亚"  # Iria
       "Sabela"
       "Lúa"
       "Rodolfa"
       "Sofía"
-      "Aldara"
+      "阿尔妲拉"  # Aldara
       "Alduara"
       "Aldonça"
       "Aldonza"
@@ -7772,14 +7971,14 @@ iberian = {
       "Beatrice"
       "Berengária"
       "Berengaria"
-      "Branca"
+      "布兰卡"  # Branca
       "Blanche"
       "Antía"
-      "Branca"
+      "布兰卡"  # Branca
       "Carme"
       "Catarina"
       "Dores"
-      "Iria"
+      "伊里亚"  # Iria
       "Lía"
       "Margarida"
       "María"
@@ -7817,33 +8016,33 @@ iberian = {
       "Hashim"
       "Husam"
       "Iqbal"
-      "Jabbar"
-      "Ja'far"
-      "Jamal"
-      "Junayd"
-      "Khaliq"
-      "Malik"
-      "Mansur"
+      "贾巴尔"  # Jabbar
+      "贾法尔"  # Ja'far
+      "扎马鲁"  # Jamal
+      "朱奈德"  # Junayd
+      "哈利克"  # Khaliq
+      "马利克"  # Malik
+      "曼苏尔"  # Mansur
       "穆斯塔法"  # Mustafa
-      "Najib"
+      "纳吉布"  # Najib
       "卡西姆"  # Qasim
-      "Qusay"
+      "库赛"  # Qusay
       "拉希德"  # Rashîd
       "萨菲"  # Safi
-      "Sakhr"
-      "Samir"
-      "Tariq"
-      "Umar"
-      "Wahid"
-      "Zahir"
-      "Firdaus"
-      "Fuad"
-      "Rahim"
-      "Abbad"
+      "塞赫尔"  # Sakhr
+      "萨米尔"  # Samir
+      "塔里克"  # Tariq
+      "优末"  # Umar
+      "瓦希德"  # Wahid
+      "扎希尔"  # Zahir
+      "费达斯"  # Firdaus
+      "福阿德"  # Fuad
+      "拉希姆"  # Rahim
+      "阿巴德"  # Abbad
       "阿拔斯"  # Abbas
       "阿拔斯"  # Abbas
-      "Abdallah"
-      "Abdullah"
+      "阿卜杜拉"  # Abdallah
+      "阿不都拉哈"  # Abdullah
       "阿卜杜勒 阿齐兹"  # Abdul-Aziz
       "阿卜杜勒 哈卡姆"  # Abdul-Hakam
       "阿卜杜勒 哈桑"  # Abdul-Hasan
@@ -7887,59 +8086,59 @@ iberian = {
       "穆巴希尔"  # Mubashir
       "穆罕默德"  # Muhammad
       "穆罕默德"  # Muhammad
-      "Mundir"
-      "Musa"
-      "Moses"
-      "Muyahid"
-      "Raf"
-      "Rashid"
-      "Rasiq"
+      "穆迪厄"  # Mundir
+      "穆萨"  # Musa
+      "摩西"  # Moses
+      "穆亚希德"  # Muyahid
+      "拉夫"  # Raf
+      "拉希德"  # Rashid
+      "拉西克"  # Rasiq
       "Sa'd"
       "Sanyo"
-      "Sancho"
-      "Siddray"
-      "Suleyman"
-      "Solomon"
-      "Tariq"
-      "Tifilwit"
-      "Umar"
-      "Umar"
-      "Utman"
+      "桑乔"  # Sancho
+      "希达尔"  # Siddray
+      "苏莱曼"  # Suleyman
+      "所罗门"  # Solomon
+      "塔里克"  # Tariq
+      "提菲勒维特"  # Tifilwit
+      "优末"  # Umar
+      "优末"  # Umar
+      "乌斯曼"  # Utman
       "Wannaqo"
       "Inigo"
-      "Ya'far"
-      "Yahaff"
-      "Yahya"
+      "亚法"  # Ya'far
+      "亚哈夫"  # Yahaff
+      "叶海亚"  # Yahya
       "约翰"  # John
       "优素福"  # Yusuf
-      "Joseph"
+      "约瑟夫"  # Joseph
     }
     female_names = {
       "阿莉娅"  # Aliya
       "法希马"  # Fahima
       "海法"  # Haifa
-      "Abda"
+      "阿卜达"  # Abda
       "艾胡"  # Ahu
       "艾萨"  # Aiza
       "阿里娅赫"  # Aliyah
       "布塔亚娜"  # Butayna
-      "Daniyah"
+      "法赫拉"  # Daniyah
       "迪玛"  # Dima
       "法赫拉"  # Fahra
       "法赫丽雅"  # Fahriya
       "法蒂玛"  # Fatima
-      "Gamila"
-      "Ghada"
+      "哈比巴"  # Gamila
+      "胡达"  # Ghada
       "哈比巴"  # Habiba
       "胡达"  # Huda
       "伊卜蒂萨姆"  # Ibtisam
       "伊斯拉"  # Isra
       "卡丽玛"  # Karima
-      "Kera"
-      "Khadija"
-      "Layla"
-      "Maha"
-      "Malika"
+      "凯拉"  # Kera
+      "克哈迪贾"  # Khadija
+      "莱拉"  # Layla
+      "玛哈"  # Maha
+      "玛丽卡"  # Malika
       "Mariam"
       "Maria"
       "Munya"
@@ -8017,21 +8216,21 @@ iberian = {
       "Gaspar"
       "Gil"
       "Gonçalo"
-      "Guilherme"
-      "Inácio"
-      "Joaquim"
-      "Jorge"
+      "吉列尔梅"  # Guilherme
+      "伊纳西奥"  # Inácio
+      "华金"  # Joaquim
+      "豪尔赫"  # Jorge
       "洛伦索"  # Lourenço
       "马可"  # Marco
       "尼古劳"  # Nicolau
       "保罗"  # Paulo
       "拉斐尔"  # Rafael
-      "Rogério"
+      "罗戈里奥"  # Rogério
       "鲁伊"  # Rui
       "西茂"  # Simão
       "乌里尔"  # Uriel
       "维森特"  # Vicente
-      "Octávio"
+      "屋大维"  # Octávio
       "阿方索"  # Afonso
       "阿方斯"  # Alphonse
       "艾利斯"  # Aires
@@ -8080,7 +8279,7 @@ iberian = {
       "努诺"  # Nuno
       "努诺"  # Nuno
       "帕约"  # Paio
-      "Pelagius"
+      "柏拉奇"  # Pelagius
       "佩德罗"  # Pedro
       "彼得"  # Peter
       "佩罗"  # Pero
@@ -8120,33 +8319,219 @@ iberian = {
       "斯蒂芬妮雅"  # Stephania
       "芙露伊尔赫"  # Fruilhe
       "芙洛尼尔德"  # Fronilde
-      "Gontinha"
-      "Gontroda"
-      "Guiomar"
+      "贡提妮娅"  # Gontinha
+      "贡特洛妲"  # Gontroda
+      "吉奥马尔"  # Guiomar
       "伊内丝"  # Inês
       "阿格尼丝"  # Agnes
-      "Joana"
+      "乔安娜"  # Joana
       "琼"  # Joan
-      "Leonor"
-      "Eleanor"
+      "莱昂诺尔"  # Leonor
+      "埃莉诺"  # Eleanor
       "玛法尔达"  # Mafalda
       "玛蒂尔达"  # Matilda
       "马加里达"  # Margarida
-      "Margaret"
+      "玛格丽特"  # Margaret
       "玛丽亚"  # Maria
       "马里尼亚"  # Marinha
-      "Marine"
-      "Mor"
+      "玛琳"  # Marine
+      "摩尔"  # Mor
       "马约尔"  # Mayor
-      "Ouroana"
+      "奥罗娥娜"  # Ouroana
       "桑查"  # Sancha
       "桑查"  # Sancha
       "特蕾莎"  # Teresa
       "特蕾莎"  # Teresa
       "乌拉卡"  # Urraca
       "乌拉卡"  # Urraca
-      "Gotruda"
+      "哥特路妲"  # Gotruda
       "康斯坦莎"  # Constança
+    }
+  }
+  brazilian = {
+    primary = BRZ
+    dynasty_names = {
+      "de Bragança"
+      "de Camargo"
+      "de Alburquerque"
+      "de Vassouras"
+      "de Noronha"
+      "de Melo"
+      "de Moura"
+      "de Medeiros"
+      "de Menezes"
+      "de Saldanha"
+      "de Alencar"
+      "da Câmara"
+      "da Maia"
+      "de Abrantes"
+      "de Moura Barreto"
+      "de Sousa"
+      "de Guanabara"
+      "de Oliveira"
+      "da Fonseca"
+      "de Caxias"
+    }
+    male_names = {
+      "João"
+      "Filipe"
+      "Pedro"
+      "António"
+      "Duarte"
+      "Henrique"
+      "José"
+      "Manuel"
+      "Sebastião"
+      "Miguel"
+      "Teodósio"
+      "Diniz"
+      "Alexandre"
+      "Carlos"
+      "Diego"
+      "Jaime"
+      "Luís"
+      "Álvaro"
+      "André"
+      "Bartolomeu"
+      "Caetano"
+      "Damião"
+      "Estevão"
+      "Francisco"
+      "Xavier"
+      "Gabriel"
+      "Garcia"
+      "Gaspar"
+      "Gil"
+      "Guilherme"
+      "Inácio"
+      "Joaquim"
+      "Jorge"
+      "Lourenço"
+      "Marco"
+      "Nicolau"
+      "Paulo"
+      "Rafael"
+      "Rogério"
+      "Rui"
+      "Simão"
+      "Vicente"
+      "Otávio"
+      "Afonso"
+      "Aires"
+      "Álvaro"
+      "Bermudo"
+      "Diogo"
+      "Diaco"
+      "Egas"
+      "Estêvão"
+      "Fernão"
+      "Ferdinando"
+      "Fernando"
+      "Garcia"
+      "Gil"
+      "Gomes"
+      "Gonçalo"
+      "Gutierre"
+      "Valter"
+      "Henrique"
+      "Hermígio"
+      "João"
+      "Lourenço"
+      "Martim"
+      "Martin"
+      "Mendo"
+      "Munio"
+      "Nuno"
+      "Pôncio"
+      "Mem"
+      "Rodrigo"
+      "Rui"
+      "Raimundo"
+      "Vasco"
+      "Vicente"
+      "Moacir"
+      "Caíque"
+      "Ubirajara"
+      "Ubiratã"
+      "Joacir"
+      "Domingos"
+      "Quintino"
+      "Deodoro"
+      "Eduardo"
+      "Emílio"
+      "Castro"
+      "Pascoal"
+      "Moreira"
+      "Cláudio"
+      "Dirceu"
+      "Evandro"
+      "Tomé"
+      "Amado"
+      "Silvério"
+      "Basílio"
+      "Cipriano"
+      "Amaro"
+      "Cosme"
+      "Júlio"
+      "Lucas"
+      "Severino"
+      "Severiano"
+      "Benjamim"
+      "Epaminondas"
+      "Seixas"
+      "Torquato"
+      "Antônio"
+      "Getúlio"
+      "Silveriano"
+      "Brás"
+    }
+    female_names = {
+      "Aldara"
+      "Alduara"
+      "Beatriz"
+      "Berengária"
+      "Branca"
+      "Constância"
+      "Elvira"
+      "Estevânia"
+      "Fruilhe"
+      "Fronilde"
+      "Gontinha"
+      "Gontroda"
+      "Guiomar"
+      "Inês"
+      "Agnes"
+      "Joana"
+      "Leonor"
+      "Eleanor"
+      "Mafalda"
+      "Matilda"
+      "Margarida"
+      "Maria"
+      "Marinha"
+      "Marinês"
+      "Ouroana"
+      "Teresa"
+      "Urraca"
+      "Constança"
+      "Célia"
+      "Maiara"
+      "Janaína"
+      "Iara"
+      "Tainara"
+      "Iracema"
+      "Mariana"
+      "Bárbara"
+      "Josefina"
+      "Ana"
+      "Ana Paula"
+      "Aurélia"
+      "Adelaide"
+      "Firmina"
+      "Emília"
+      "Cecília"
+      "Lauriana"
+      "Isabel"
     }
   }
   basque = {
@@ -8165,11 +8550,11 @@ iberian = {
       "弗朗西斯科"  # Francisco
       "胡安"  # Juan
       "路易斯"  # Luis
-      "Gastón"
+      "加斯通"  # Gastón
       "佩德罗"  # Pedro
       "布埃纳文图拉"  # Buenaventura
       "弗朗西斯科"  # Francisco
-      "Godofredo"
+      "戈多弗雷多"  # Godofredo
       "詹姆"  # Jaime
       "兰萨罗特"  # Lanzarote
       "马丁"  # Martín
@@ -8191,44 +8576,44 @@ iberian = {
       "费尔南多"  # Fernando
       "加斯帕"  # Gaspar
       "何塞"  # José
-      "Melchor"
-      "Nicolás"
+      "梅尔乔"  # Melchor
+      "尼科劳斯"  # Nicolás
       "西蒙"  # Simón
-      "Leonel"
+      "莱昂内尔"  # Leonel
       "阿方索"  # Alfontso
       "阿尔丰斯"  # Alphonse
       "阿尔瓦"  # Alvar
       "奥利弗"  # Oliver
       "安佐"  # Antso
       "桑乔"  # Sancho
-      "Aznar"
-      "Aznar"
-      "Belasko"
-      "Vasco"
-      "Bermudo"
-      "Vermudo"
-      "Bernard"
+      "阿斯纳尔"  # Aznar
+      "阿斯纳尔"  # Aznar
+      "贝拉斯科"  # Belasko
+      "雷蒙德"  # Vasco
+      "贝尔穆多"  # Bermudo
+      "维尔穆多"  # Vermudo
+      "贝尔纳德"  # Bernard
       "迭戈"  # Diego
-      "Diaco"
-      "Donato"
-      "Donatus"
-      "Egidio"
+      "迪亚科"  # Diaco
+      "多纳托"  # Donato
+      "多纳特斯"  # Donatus
+      "埃吉迪奥"  # Egidio
       "Egidius"
-      "Eneko"
+      "埃内科"  # Eneko
       "Inigo"
-      "Erramun"
-      "Raymond"
+      "埃拉蒙"  # Erramun
+      "雷蒙德"  # Raymond
       "费尔南多"  # Fernando
-      "Fortun"
-      "Galindo"
-      "Galindo"
-      "Gartzia"
-      "Garcia"
-      "Gilen"
+      "弗莱顿"  # Fortun
+      "加林多"  # Galindo
+      "加林多"  # Galindo
+      "加西亚"  # Gartzia
+      "加西亚"  # Garcia
+      "吉伦"  # Gilen
       "威廉"  # William
-      "Gontzal"
-      "Gonzalo"
-      "Herramel"
+      "贡扎尔"  # Gontzal
+      "贡萨洛"  # Gonzalo
+      "赫拉梅尔"  # Herramel
       "Joanes"
       "约翰"  # John
       "Lope"
@@ -8569,20 +8954,20 @@ french = {
       "孔德勒"  # Condeleu
       "Cynddelw"
       "Condidan"
-      "Cyndyddan"
+      "昆迪丹"  # Cyndyddan
       "Congar"
-      "Cyngar"
+      "辛加尔"  # Cyngar
       "Conmael"
-      "Cynfael"
-      "Conmonoc"
-      "Conogan"
-      "Conredeu"
+      "昆韦尔"  # Cynfael
+      "科莫诺克"  # Conmonoc
+      "科诺甘"  # Conogan
+      "康热德"  # Conredeu
       "Conuallon"
-      "Cynwallon"
+      "昆瓦朗"  # Cynwallon
       "Conmarch"
-      "Cynfarch"
+      "辛法尔赫"  # Cynfarch
       "Convelin"
-      "Cynfelyn"
+      "昆韦林"  # Cynfelyn
       "康沃恩"  # Conwoïon
       "科古藤"  # Corguethen
       "科然格尔"  # Courantgern
@@ -8604,17 +8989,17 @@ french = {
       "多诺热特"  # Domnoret
       "多穆尔"  # Domuel
       "迪维尔"  # Dywel
-      "Donual"
+      "冬瓦尔"  # Donual
       "唐纳德"  # Donald
       "Donuallon"
-      "Dyfnwallon"
+      "迪夫努瓦朗"  # Dyfnwallon
       "卓冈"  # Drogon
       "卓戈"  # Drogo
-      "Duenerth"
+      "杜内斯"  # Duenerth
       "顿纳斯"  # Dumnarth
-      "Donyarth"
+      "当亚尔斯"  # Donyarth
       "埃德恩"  # Edern
-      "Eternus"
+      "埃特尔努斯"  # Eternus
       "Edouart"
       "爱德华"  # Edward
       "Eguen"
@@ -8644,14 +9029,14 @@ french = {
       "Fransaz"
       "弗朗西斯"  # Francis
       "Frioc"
-      "Friog"
-      "Garmon"
+      "弗里约格"  # Friog
+      "加尔芒"  # Garmon
       "吉尔门"  # German
       "Geofroi"
       "杰洛特"  # Geralt
       "杰拉尔德"  # Gerald
       "格热因特"  # Gereint
-      "Gerontius"
+      "格朗蒂斯"  # Gerontius
       "吉斯汀"  # Gestin
       "查士丁"  # Justin
       "吉尔伯特"  # Gilbert
@@ -8668,7 +9053,7 @@ french = {
       "格雷戈尔"  # Gregor
       "格雷戈里"  # Gregory
       "Grifiud"
-      "Ruffinus"
+      "鲁菲努斯"  # Ruffinus
       "古阿龙"  # Guallon
       "瓜尔特尔"  # Gualter
       "瓦尔特"  # Walter
@@ -8700,12 +9085,12 @@ french = {
       "古达那"  # Guoedanau
       "古达托"  # Guoedatoe
       "古德诺"  # Guoednou
-      "Guoethoiarn"
-      "Guoletec"
-      "Guorbili"
-      "Guordotal"
-      "Guoretan"
-      "Guorethoiarn"
+      "古托阿尔"  # Guoethoiarn
+      "古勒特"  # Guoletec
+      "古比里"  # Guorbili
+      "果多塔尔"  # Guordotal
+      "果热坦"  # Guoretan
+      "果热托阿尔"  # Guorethoiarn
       "Guorhoiarn"
       "Gurbodu"
       "Gurcant"
@@ -24726,100 +25111,6 @@ altaic = {
 }
 central_american = {
   graphical_culture = southamericagfx
-  tecos = {
-    male_names = {
-      "阿肯兰"  # Acalan
-      "阿卡西特利"  # Acacitli
-      "阿卡马皮奇特利"  # Acamapichtli
-      "阿科尔米斯特利"  # Acolmiztli
-      "阿库尔纳瓦卡特尔"  # Aculnahuacatl
-      "阿韦莱兹利"  # Ahuiliztli
-      "阿惠索特尔"  # Ahuitzotl
-      "水"  # Atl
-      "阿沙亚卡特尔"  # Axayacatl
-      "卡卡马茨"  # Cacamatzin
-      "齐马利"  # Chimalli
-      "奇马布里"  # Chimalpilli
-      "奇马尔波波卡"  # Chimalpopoca
-      "塞派克"  # Cipac
-      "科安纳科克"  # Coanacoch
-      "科特尔"  # Coatl
-      "Cozahtli"
-      "库奥特莫克"  # Cuauhtemoc
-      "Cuauhtl"
-      "Cuetlachtli"
-      "Cuetzpalli"
-      "Cuixtli"
-      "Cuitlahuac"
-      "Huitzilin"
-      "Huitzilihuitl"
-      "Huitzitl"
-      "Huitztecol"
-      "Iquehuacatzin"
-      "Itzcoatl"
-      "Itzli"
-      "Itzcuintli"
-      "Ixtlilxochitl"
-      "Mahchimaleh"
-      "Matlal"
-      "Mazatl"
-      "Matlalihuitl"
-      "Matlatzincatzin"
-      "Maxtla"
-      "Miztli"
-      "蒙提祖马"  # Moctezuma
-      "Moquihuix"
-      "Necuametl"
-      "Nezahualcoyotl"
-      "内萨瓦尔皮利"  # Nezahualpilli
-      "Nochehuatl"
-    }
-    female_names = {
-      "Achcauhtli"
-      "Acxocueitl"
-      "Ahuiliztli"
-      "Amoxtli"
-      "Atl"
-      "Atotoztli"
-      "Ayauhcihuatl"
-      "Azcalxochitzin"
-      "Centehua"
-      "Cihuaton"
-      "Citlalmina"
-      "Chalchiuitl"
-      "Chicahua"
-      "Chichimecacihuatzin"
-      "Chipahua"
-      "Chicomecoatl"
-      "Chimalma"
-      "Cihuaton"
-      "Citlali"
-      "Citlalli"
-      "Citlalmina"
-      "Coaxoch"
-      "Coszcatl"
-      "库撒玛罗特尔"  # Cozamalotl
-      "库伊卡特尔"  # Cuicatl
-      "伊琉伊阿"  # Eleuia
-      "伊罗薛奇特尔"  # Eloxochitl
-      "伊塔尔帕里"  # Etalpalli
-      "伊兹里"  # Eztli
-      "惠惠-撒卡"  # Huehue-Zaca
-      "依托狄亚"  # Itotia
-      "依维特尔"  # Iuitl
-      "伊夏卡金"  # Ixcatzin
-      "伊瑟尔"  # Izel
-      "玛里那尔薛奇特尔"  # Malinalxochitl
-      "玛娜乌亚"  # Manauia
-      "玛特拉拉金"  # Matlalatzin
-      "梅卡特尔"  # Mecatl
-      "梅兹里"  # Meztli
-      "米雅瓦西维特尔"  # Miahuaxiuitl
-      "米亚欧埃薛奇特尔"  # Miyaoaxochitl
-      "米斯奎伊夏瓦尔"  # Mizquixahual
-      "莫莫兹里"  # Momoztli
-    }
-  }
   aztek = {
     primary = AZT
     male_names = {
@@ -24874,6 +25165,66 @@ central_american = {
       "欧特里"  # Ohtli
       "帕帕"  # Papa
       "帕特里"  # Patli
+    }
+  }
+  totonac = {
+    primary = TOT
+    male_names = {
+      "蒙提祖马"  # Moctezuma
+      "Auitzotl"
+      "Axayacatl"
+      "Cuauhtemoc"
+      "Cuitlahuac"
+      "Huitzilihuitl"
+      "Itzcoatl"
+      "Ohimalpopoca"
+      "Tizoc"
+      "Motelchiuh"
+      "Tehuetstiquitzin"
+      "Tlacotzin"
+      "Xochiquentzin"
+      "Acamapichtli"
+      "Chimalpopoca"
+      "特诺奇"  # Tenoch
+      "Acacitli"
+      "Axacaya"
+      "Cacamatzin"
+      "Eyahue"
+      "Huicton"
+      "Ilhuicamina"
+      "Itzquautzin"
+      "Mazatl"
+      "Nopaltzin"
+      "Olintecke"
+      "Opochtli"
+      "Quetzalmantzin"
+      "Quimichetl"
+      "Texcoyo"
+      "Timas"
+      "Tlacaelel"
+      "Tlotzin"
+      "Xiuhcozcatl"
+      "Xocoyol"
+      "Yaztachimal"
+      "Zolton"
+      "Ahcambal"
+      "Huanitzin"
+      "Panitzin"
+    }
+    female_names = {
+      "Centehua"
+      "Moyolehuani"
+      "Yaotl"
+      "Xipil"
+      "Xitlali"
+      "Xiuhcoatl"
+      "Xochicotzin"
+      "Xochiyotl"
+      "Xoco"
+      "Yayauhqui"
+      "Yolihuani"
+      "Yoloxochitl"
+      "Yolyamanitzin"
     }
   }
   purepecha = {
@@ -24939,67 +25290,299 @@ central_american = {
       "Tepin"
     }
   }
-  totonac = {
-    primary = TOT
+  matlatzinca = {
+    primary = MAT
     male_names = {
-      "蒙提祖马"  # Moctezuma
-      "Auitzotl"
-      "Axayacatl"
-      "Cuauhtemoc"
-      "Cuitlahuac"
-      "Huitzilihuitl"
-      "Itzcoatl"
-      "Ohimalpopoca"
-      "Tizoc"
-      "Motelchiuh"
-      "Tehuetstiquitzin"
-      "Tlacotzin"
-      "Xochiquentzin"
-      "Acamapichtli"
-      "Chimalpopoca"
-      "特诺奇"  # Tenoch
-      "Acacitli"
-      "Axacaya"
-      "Cacamatzin"
-      "Eyahue"
-      "Huicton"
-      "Ilhuicamina"
-      "Itzquautzin"
-      "Mazatl"
-      "Nopaltzin"
-      "Olintecke"
-      "Opochtli"
-      "Quetzalmantzin"
-      "Quimichetl"
-      "Texcoyo"
-      "Timas"
-      "Tlacaelel"
-      "Tlotzin"
-      "Xiuhcozcatl"
-      "Xocoyol"
-      "Yaztachimal"
-      "Zolton"
-      "Ahcambal"
-      "Huanitzin"
-      "Panitzin"
+      "Tariacuri"
+      "Hiquingaje"
+      "Hiripan"
+      "Tangaxuan"
+      "Tzitzipandaquare"
+      "Zuangua"
+      "Huitzimengari"
+      "Tangaxoan"
+      "Tzimtzincha"
+      "Cuinierangari"
+      "Bibejw"
+      "Binech"
+      "Bzojj"
+      "Chsáaxcejj"
+      "Cháalaxa"
+      "Chonna"
+      "Bicu"
+      "Coqui"
+      "Djoraxa"
+      "Gwèibóoné"
+      "Gyazob"
+      "Ipalnemoani"
+      "Ji"
+      "Jzió"
+      "Jituh"
+      "Jzió"
+      "Láxdaóxo"
+      "Lyebe"
+      "Mbalaz"
+      "Na"
+      "Yel"
+      "Naquichinisa"
+      "Naxiñanguiiu"
+      "Ngolbex"
+      "An"
+      "Rire"
+      "Nisa"
+      "Ro"
+      "Pijje"
+      "Jzió"
+      "Tobi"
+      "Rusiguunda"
+      "Véeni"
+      "Veziá"
+      "Zne"
+      "Yel"
+      "Zniá"
+      "Zyrx"
+      "Gyejj"
+      "Nguiiu"
     }
     female_names = {
+      "Zyanya"
+      "Nayeli"
+      "Teiuc"
+      "Teicuih"
+      "Teyacapan"
+      "Tepin"
+    }
+  }
+  dynasty_names = {
+    "Acatl"
+    "Atl"
+    "Calli"
+    "Cipactli"
+    "Coatl"
+    "Coyotl"
+    "Cozcaquauhtli"
+    "Cuetzpalin"
+    "Ehecatl"
+    "Icpalli"
+    "Itz"
+    "Itzcuintli"
+    "Macehualli"
+    "Malinalli"
+    "Mazatl"
+    "Miquiztli"
+    "Nezahual"
+    "Nochtli"
+    "Ocelotl"
+    "Ollin"
+    "Otli"
+    "Ozomatli"
+    "Pipiltin"
+    "Pochtecatl"
+    "Quauhtli"
+    "Quauitl"
+    "Quiautl"
+    "Tecpatl"
+    "特库特利"  # Tecuhtli
+    "Tepetl"
+    "Tetl"
+    "Tlantli"
+    "Tochtli"
+    "Toltecatl"
+    "Xochitl"
+  }
+}
+aridoamerican = {
+  graphical_culture = southamericagfx
+  tecos = {
+    male_names = {
+      "Acalan"
+      "Acacitli"
+      "Acamapichtli"
+      "Acolmiztli"
+      "Aculnahuacatl"
+      "Ahuiliztli"
+      "Ahuitzotl"
+      "Atl"
+      "Axayacatl"
+      "Cacamatzin"
+      "Chimalli"
+      "Chimalpilli"
+      "Chimalpopoca"
+      "Cipac"
+      "Coanacoch"
+      "Coatl"
+      "Cozahtli"
+      "Cuauhtemoc"
+      "Cuauhtl"
+      "Cuetlachtli"
+      "Cuetzpalli"
+      "Cuixtli"
+      "Cuitlahuac"
+      "Huitzilin"
+      "Huitzilihuitl"
+      "Huitzitl"
+      "Huitztecol"
+      "Iquehuacatzin"
+      "Itzcoatl"
+      "Itzli"
+      "Itzcuintli"
+      "Ixtlilxochitl"
+      "Mahchimaleh"
+      "Matlal"
+      "Mazatl"
+      "Matlalihuitl"
+      "Matlatzincatzin"
+      "Maxtla"
+      "Miztli"
+      "Moctezuma"
+      "Moquihuix"
+      "Necuametl"
+      "Nezahualcoyotl"
+      "Nezahualpilli"
+      "Nochehuatl"
+    }
+    female_names = {
+      "Achcauhtli"
+      "Acxocueitl"
+      "Ahuiliztli"
+      "Amoxtli"
+      "Atl"
+      "Atotoztli"
+      "Ayauhcihuatl"
+      "Azcalxochitzin"
       "Centehua"
-      "Moyolehuani"
-      "Yaotl"
-      "Xipil"
-      "Xitlali"
-      "Xiuhcoatl"
-      "Xochicotzin"
-      "Xochiyotl"
-      "Xoco"
-      "Yayauhqui"
-      "Yolihuani"
-      "Yoloxochitl"
-      "Yolyamanitzin"
+      "Cihuaton"
+      "Citlalmina"
+      "Chalchiuitl"
+      "Chicahua"
+      "Chichimecacihuatzin"
+      "Chipahua"
+      "Chicomecoatl"
+      "Chimalma"
+      "Cihuaton"
+      "Citlali"
+      "Citlalli"
+      "Citlalmina"
+      "Coaxoch"
+      "Coszcatl"
+      "Cozamalotl"
+      "Cuicatl"
+      "Eleuia"
+      "Eloxochitl"
+      "Etalpalli"
+      "Eztli"
+      "Huehue-Zaca"
+      "Itotia"
+      "Iuitl"
+      "Ixcatzin"
+      "Izel"
+      "Malinalxochitl"
+      "Manauia"
+      "Matlalatzin"
+      "Mecatl"
+      "Meztli"
+      "Miahuaxiuitl"
+      "Miyaoaxochitl"
+      "Mizquixahual"
+      "Momoztli"
+    }
+  }
+  tepic = {
+    male_names = {
+      "Acalan"
+      "Acacitli"
+      "Acamapichtli"
+      "Acolmiztli"
+      "Aculnahuacatl"
+      "Ahuiliztli"
+      "Ahuitzotl"
+      "Atl"
+      "Axayacatl"
+      "Cacamatzin"
+      "Chimalli"
+      "Chimalpilli"
+      "Chimalpopoca"
+      "Cipac"
+      "Coanacoch"
+      "Coatl"
+      "Cozahtli"
+      "Cuauhtemoc"
+      "Cuauhtl"
+      "Cuetlachtli"
+      "Cuetzpalli"
+      "Cuixtli"
+      "Cuitlahuac"
+      "Huitzilin"
+      "Huitzilihuitl"
+      "Huitzitl"
+      "Huitztecol"
+      "Iquehuacatzin"
+      "Itzcoatl"
+      "Itzli"
+      "Itzcuintli"
+      "Ixtlilxochitl"
+      "Mahchimaleh"
+      "Matlal"
+      "Mazatl"
+      "Matlalihuitl"
+      "Matlatzincatzin"
+      "Maxtla"
+      "Miztli"
+      "Moctezuma"
+      "Moquihuix"
+      "Necuametl"
+      "Nezahualcoyotl"
+      "Nezahualpilli"
+      "Nochehuatl"
+    }
+    female_names = {
+      "Achcauhtli"
+      "Acxocueitl"
+      "Ahuiliztli"
+      "Amoxtli"
+      "Atl"
+      "Atotoztli"
+      "Ayauhcihuatl"
+      "Azcalxochitzin"
+      "Centehua"
+      "Cihuaton"
+      "Citlalmina"
+      "Chalchiuitl"
+      "Chicahua"
+      "Chichimecacihuatzin"
+      "Chipahua"
+      "Chicomecoatl"
+      "Chimalma"
+      "Cihuaton"
+      "Citlali"
+      "Citlalli"
+      "Citlalmina"
+      "Coaxoch"
+      "Coszcatl"
+      "Cozamalotl"
+      "Cuicatl"
+      "Eleuia"
+      "Eloxochitl"
+      "Etalpalli"
+      "Eztli"
+      "Huehue-Zaca"
+      "Itotia"
+      "Iuitl"
+      "Ixcatzin"
+      "Izel"
+      "Malinalxochitl"
+      "Manauia"
+      "Matlalatzin"
+      "Mecatl"
+      "Meztli"
+      "Miahuaxiuitl"
+      "Miyaoaxochitl"
+      "Mizquixahual"
+      "Momoztli"
     }
   }
   chichimecan = {
+    primary = CCM
     male_names = {
       "Ocuil"
       "Olli"
@@ -25089,6 +25672,251 @@ central_american = {
       "Xihuitl"
     }
   }
+  guamares = {
+    primary = GAM
+    male_names = {
+      "Ocuil"
+      "Olli"
+      "Opochtli"
+      "Ozomatli"
+      "Quauhtli"
+      "Tapayaxi"
+      "Tecocoltzin"
+      "Tecolotl"
+      "Tetlepanquetzaltzin"
+      "Tezozomoc"
+      "Tizoc"
+      "Tizocic"
+      "Tlacaelel"
+      "Tlacaeleltzin"
+      "Tlalli"
+      "Tlaloc"
+      "Tochtli"
+      "Tototl"
+      "Tzompantzin"
+      "Tlilpotonqui"
+      "Topiltzin"
+      "Totoquihuaztli"
+      "Ueman"
+      "Yaotl"
+      "Yayauhqui"
+      "Yolotli"
+      "Yolyamanitzin"
+      "Xicohtencatl"
+      "Xiuhpilli"
+      "Xihuitl"
+      "Xipil"
+      "Xipilli"
+      "Xochitl"
+      "Xochipepe"
+      "Xochipilli"
+      "Yaotl"
+      "Zipactonal"
+      "Zolin"
+    }
+    female_names = {
+      "Quiauhxochitl"
+      "Sacnite"
+      "Techichpotzin"
+      "Tezozomoc"
+      "Tziquetzalpoztectzin"
+      "Tezcatlan"
+      "Tlacotl"
+      "Tlahco"
+      "Tlahcoehua"
+      "Toltecatl"
+      "Tonalnan"
+      "Tlazozomizqui"
+      "Yoltzin"
+      "Xilonen"
+      "Xiloxoch"
+      "Xiuhtomiyauhtzin"
+      "Xochitl"
+      "Xocoh"
+      "Xocoyotl"
+      "Yaretzi"
+      "Zeltzin"
+      "Zyanya"
+      "Acacitlu"
+      "Citali"
+      "Citlamina"
+      "Etapali"
+      "Ichtaca"
+      "Icnoyotl"
+      "Ilhuitl"
+      "Macuilxochitl"
+      "Mahuitzic"
+      "Moyolehuani"
+      "Moztla"
+      "Nenetl"
+      "Nochtli"
+      "Papan"
+      "Teoxihuitl"
+      "Teuicui"
+      "Tlachinolli"
+      "Tlaco"
+      "Tlahutli"
+      "Tlalli"
+      "Tlazohtzin"
+      "Tlexictli"
+      "Tonatzin"
+      "Xihuitl"
+    }
+  }
+  otomi = {
+    primary = OTO
+    male_names = {
+      "Ocuil"
+      "Olli"
+      "Opochtli"
+      "Ozomatli"
+      "Quauhtli"
+      "Tapayaxi"
+      "Tecocoltzin"
+      "Tecolotl"
+      "Tetlepanquetzaltzin"
+      "Tezozomoc"
+      "Tizoc"
+      "Tizocic"
+      "Tlacaelel"
+      "Tlacaeleltzin"
+      "Tlalli"
+      "Tlaloc"
+      "Tochtli"
+      "Tototl"
+      "Tzompantzin"
+      "Tlilpotonqui"
+      "Topiltzin"
+      "Totoquihuaztli"
+      "Ueman"
+      "Yaotl"
+      "Yayauhqui"
+      "Yolotli"
+      "Yolyamanitzin"
+      "Xicohtencatl"
+      "Xiuhpilli"
+      "Xihuitl"
+      "Xipil"
+      "Xipilli"
+      "Xochitl"
+      "Xochipepe"
+      "Xochipilli"
+      "Yaotl"
+      "Zipactonal"
+      "Zolin"
+    }
+    female_names = {
+      "Quiauhxochitl"
+      "Sacnite"
+      "Techichpotzin"
+      "Tezozomoc"
+      "Tziquetzalpoztectzin"
+      "Tezcatlan"
+      "Tlacotl"
+      "Tlahco"
+      "Tlahcoehua"
+      "Toltecatl"
+      "Tonalnan"
+      "Tlazozomizqui"
+      "Yoltzin"
+      "Xilonen"
+      "Xiloxoch"
+      "Xiuhtomiyauhtzin"
+      "Xochitl"
+      "Xocoh"
+      "Xocoyotl"
+      "Yaretzi"
+      "Zeltzin"
+      "Zyanya"
+      "Acacitlu"
+      "Citali"
+      "Citlamina"
+      "Etapali"
+      "Ichtaca"
+      "Icnoyotl"
+      "Ilhuitl"
+      "Macuilxochitl"
+      "Mahuitzic"
+      "Moyolehuani"
+      "Moztla"
+      "Nenetl"
+      "Nochtli"
+      "Papan"
+      "Teoxihuitl"
+      "Teuicui"
+      "Tlachinolli"
+      "Tlaco"
+      "Tlahutli"
+      "Tlalli"
+      "Tlazohtzin"
+      "Tlexictli"
+      "Tonatzin"
+      "Xihuitl"
+    }
+  }
+  yaqui = {
+    primary = YAQ
+    male_names = {
+      "Tariacuri"
+      "Hiquingaje"
+      "Hiripan"
+      "Tangaxuan"
+      "Tzitzipandaquare"
+      "Zuangua"
+      "Huitzimengari"
+      "Tangaxoan"
+      "Tzimtzincha"
+      "Cuinierangari"
+      "Bibejw"
+      "Binech"
+      "Bzojj"
+      "Chsáaxcejj"
+      "Cháalaxa"
+      "Chonna"
+      "Bicu"
+      "Coqui"
+      "Djoraxa"
+      "Gwèibóoné"
+      "Gyazob"
+      "Ipalnemoani"
+      "Ji"
+      "Jzió"
+      "Jituh"
+      "Jzió"
+      "Láxdaóxo"
+      "Lyebe"
+      "Mbalaz"
+      "Na"
+      "Yel"
+      "Naquichinisa"
+      "Naxiñanguiiu"
+      "Ngolbex"
+      "An"
+      "Rire"
+      "Nisa"
+      "Ro"
+      "Pijje"
+      "Jzió"
+      "Tobi"
+      "Rusiguunda"
+      "Véeni"
+      "Veziá"
+      "Zne"
+      "Yel"
+      "Zniá"
+      "Zyrx"
+      "Gyejj"
+      "Nguiiu"
+    }
+    female_names = {
+      "Zyanya"
+      "Nayeli"
+      "Teiuc"
+      "Teicuih"
+      "Teyacapan"
+      "Tepin"
+    }
+  }
   dynasty_names = {
     "Acatl"
     "Atl"
@@ -25118,7 +25946,7 @@ central_american = {
     "Quauitl"
     "Quiautl"
     "Tecpatl"
-    "特库特利"  # Tecuhtli
+    "Tecuhtli"
     "Tepetl"
     "Tetl"
     "Tlantli"
@@ -25426,6 +26254,192 @@ maya = {
       "娜叶莉"  # Nayeli
       "希萨"  # Kisa
       "伊莫"  # Eme
+    }
+  }
+  lacandon = {
+    primary = LAC
+    male_names = {
+      "Can Ek"
+      "Balam Quitze"
+      "Kan Boar"
+      "Yax Kuk Mok"
+      "Ah Can"
+      "Vahxaqui Caam"
+      "Ah Cacao"
+      "Cham Bahlun"
+      "Pacal Balam"
+      "Yaxum Balam"
+      "Butz Chan"
+      "Chaan Muan"
+      "Yax Pac"
+      "Ahpop-Achi"
+      "Kan Bahlun Mo"
+      "Cocom"
+      "Pacal"
+      "Ahmok"
+      "Arana"
+      "Bakan"
+      "Bor"
+      "Cocaib"
+      "Cocoja"
+      "Conache"
+      "Cotuja"
+      "Gucamatz"
+      "Hnuyg"
+      "Kayom"
+      "Kukumatz"
+      "Mochcouoh"
+      "Nohochacyum"
+      "Oxib"
+      "Queh"
+      "Tecunuman"
+      "Tutul"
+      "Xiu"
+      "Tziquin"
+      "Vataki"
+      "Yumcaaz"
+      "Zotz"
+      "Ahkinxok"
+      "Cu Ix"
+    }
+    female_names = {
+      "Sacnite"
+      "Adsila"
+      "Aiyana"
+      "Ayasha"
+      "Ayita"
+      "Bly"
+      "Dena"
+      "Halona"
+      "Kimi"
+      "Magena"
+      "Nayeli"
+      "Kisa"
+      "Eme"
+    }
+  }
+  wastek = {
+    primary = HST
+    male_names = {
+      "Can Ek"
+      "Balam Quitze"
+      "Kan Boar"
+      "Yax Kuk Mok"
+      "Ah Can"
+      "Vahxaqui Caam"
+      "Ah Cacao"
+      "Cham Bahlun"
+      "Pacal Balam"
+      "Yaxum Balam"
+      "Butz Chan"
+      "Chaan Muan"
+      "Yax Pac"
+      "Ahpop-Achi"
+      "Kan Bahlun Mo"
+      "Cocom"
+      "Pacal"
+      "Ahmok"
+      "Arana"
+      "Bakan"
+      "Bor"
+      "Cocaib"
+      "Cocoja"
+      "Conache"
+      "Cotuja"
+      "Gucamatz"
+      "Hnuyg"
+      "Kayom"
+      "Kukumatz"
+      "Mochcouoh"
+      "Nohochacyum"
+      "Oxib"
+      "Queh"
+      "Tecunuman"
+      "Tutul"
+      "Xiu"
+      "Tziquin"
+      "Vataki"
+      "Yumcaaz"
+      "Zotz"
+      "Ahkinxok"
+      "Cu Ix"
+    }
+    female_names = {
+      "Sacnite"
+      "Adsila"
+      "Aiyana"
+      "Ayasha"
+      "Ayita"
+      "Bly"
+      "Dena"
+      "Halona"
+      "Kimi"
+      "Magena"
+      "Nayeli"
+      "Kisa"
+      "Eme"
+    }
+  }
+  chontales = {
+    primary = YOK
+    male_names = {
+      "Can Ek"
+      "Balam Quitze"
+      "Kan Boar"
+      "Yax Kuk Mok"
+      "Ah Can"
+      "Vahxaqui Caam"
+      "Ah Cacao"
+      "Cham Bahlun"
+      "Pacal Balam"
+      "Yaxum Balam"
+      "Butz Chan"
+      "Chaan Muan"
+      "Yax Pac"
+      "Ahpop-Achi"
+      "Kan Bahlun Mo"
+      "Cocom"
+      "Pacal"
+      "Ahmok"
+      "Arana"
+      "Bakan"
+      "Bor"
+      "Cocaib"
+      "Cocoja"
+      "Conache"
+      "Cotuja"
+      "Gucamatz"
+      "Hnuyg"
+      "Kayom"
+      "Kukumatz"
+      "Mochcouoh"
+      "Nohochacyum"
+      "Oxib"
+      "Queh"
+      "Tecunuman"
+      "Tutul"
+      "Xiu"
+      "Tziquin"
+      "Vataki"
+      "Yumcaaz"
+      "Zotz"
+      "Ahkinxok"
+      "Cu Ix"
+    }
+    female_names = {
+      "Sacnite"
+      "Adsila"
+      "Aiyana"
+      "Ayasha"
+      "Ayita"
+      "Bly"
+      "Dena"
+      "Halona"
+      "Kimi"
+      "Magena"
+      "Nayeli"
+      "Kisa"
+      "Eme"
     }
   }
   dynasty_names = {
@@ -28020,7 +29034,7 @@ eastern_algonquian = {
       "Ossipee"
       "Pemigewasset"
       "Pennacook"
-      PequaketPiscataqua
+      "PequaketPiscataqua"
       "Souhegan"
       "Winnibisauga"
       "Amaseconti"
@@ -30175,18 +31189,14 @@ sonoran = {
     }
   }
 }
-na_dene = {
+apachean = {
   graphical_culture = northamericagfx
   apache = {
     primary = APA
     dynasty_names = {
-      "希卡里利亚"  # Jicarilla
-      "梅斯卡莱罗"  # Mescalero
+      "Jicarilla"
       "Chiricahua"
-      "Lipan"
-      "Yavapai"
       "Tonto"
-      "Navajo"
       "Ramah"
       "Mojave"
       "Toboso"
@@ -30206,7 +31216,139 @@ na_dene = {
       "Gileno"
       "KIowa"
       "Llanero"
-      "利皮亚内斯"  # Lipiyanes
+      "Lipiyanes"
+      "Mimbrenos"
+      "Mogollon"
+      "Na'iisha"
+      "Natages"
+      "Pinal"
+      "Querechos"
+    }
+    male_names = {
+      "Nanni Chaddi"
+      "Na tio tish"
+      "Sitahle"
+      "Oahtekah"
+      "Ahzaah"
+      "Kootzzah"
+      "Moketaveto"
+      "Ohtoahnesotowheo"
+      "Harkkahome"
+      "Munamenek"
+      "Otoahnisto"
+      "Mahvipah"
+      "Choseta"
+      "Nahtan"
+      "Konzhontaco"
+      "Bazheech"
+      "Tillaka"
+      "Chacon"
+      "Dasoda-hae"
+      "Cochise"
+      "Delshay"
+      "Goyaale"
+      "Juh"
+    }
+    female_names = {
+      "Dahteste"
+      "Ilthgozay"
+      "Gouyen"
+      "Lozen"
+      "Tohayea"
+    }
+  }
+  mescalero = {
+    primary = MES
+    dynasty_names = {
+      "Jicarilla"
+      "Chiricahua"
+      "Tonto"
+      "Ramah"
+      "Mojave"
+      "Toboso"
+      "Cholome"
+      "Jocome"
+      "Sibolo"
+      "Pelone"
+      "Manso"
+      "Kiva"
+      "Arivaipa"
+      "Carlanas"
+      "Chiricahua"
+      "Ch'uuk'anen"
+      "Cibecue"
+      "Coyotero"
+      "Faraones"
+      "Gileno"
+      "KIowa"
+      "Llanero"
+      "Lipiyanes"
+      "Mimbrenos"
+      "Mogollon"
+      "Na'iisha"
+      "Natages"
+      "Pinal"
+      "Querechos"
+    }
+    male_names = {
+      "Nanni Chaddi"
+      "Na tio tish"
+      "Sitahle"
+      "Oahtekah"
+      "Ahzaah"
+      "Kootzzah"
+      "Moketaveto"
+      "Ohtoahnesotowheo"
+      "Harkkahome"
+      "Munamenek"
+      "Otoahnisto"
+      "Mahvipah"
+      "Choseta"
+      "Nahtan"
+      "Konzhontaco"
+      "Bazheech"
+      "Tillaka"
+      "Chacon"
+      "Dasoda-hae"
+      "Cochise"
+      "Delshay"
+      "Goyaale"
+      "Juh"
+    }
+    female_names = {
+      "Dahteste"
+      "Ilthgozay"
+      "Gouyen"
+      "Lozen"
+      "Tohayea"
+    }
+  }
+  lipan = {
+    primary = LIP
+    dynasty_names = {
+      "Jicarilla"
+      "Chiricahua"
+      "Tonto"
+      "Ramah"
+      "Mojave"
+      "Toboso"
+      "Cholome"
+      "Jocome"
+      "Sibolo"
+      "Pelone"
+      "Manso"
+      "Kiva"
+      "Arivaipa"
+      "Carlanas"
+      "Chiricahua"
+      "Ch'uuk'anen"
+      "Cibecue"
+      "Coyotero"
+      "Faraones"
+      "Gileno"
+      "KIowa"
+      "Llanero"
+      "Lipiyanes"
       "Mimbrenos"
       "Mogollon"
       "Na'iisha"
@@ -30313,6 +31455,9 @@ na_dene = {
       "Tohayea"
     }
   }
+}
+na_dene = {
+  graphical_culture = northamericagfx
   chipewyan = {
     dynasty_names = {
       "Tsi'naajinii"
@@ -34811,7 +35956,7 @@ east_asian = {
     "白"  # Bai
     "丘"  # Qiu
     "唐"  # Tang
-    LuXu
+    "LuXu"
     "常"  # Chang
     "冯"  # Feng
     "邓"  # Deng
@@ -34845,7 +35990,7 @@ east_asian = {
     "谢"  # Xie
     "袁"  # Yuan
     "琴"  # Qin
-    RuanNiu
+    "RuanNiu"
     "曾"  # Zeng
     "董"  # Dong
     "林"  # Lin
