@@ -34,9 +34,6 @@ historical_units = {
   ottoman_lancer
 }
 monarch_names = {
-  "Aristoteles #0" = 0
-  "Photine #0" = -1
-  "Sotiria #0" = -1
   "阿莱克修斯 #3" = 20  # Alexios #3
   "约安尼斯 #3" = 20  # Ioannes #3
   "曼努埃尔 #2" = 20  # Manuel #2
@@ -49,6 +46,7 @@ monarch_names = {
   "埃涅阿斯 #0" = 0  # Aineias #0
   "亚历山德罗斯 #0" = 0  # Alexandros #0
   "安布罗西奥斯 #0" = 0  # Ambrosios #0
+  "亚里士多德 #0" = 0  # Aristoteles #0
   "巴尔托洛迈奥斯 #0" = 0  # Bartholomaios #0
   "克莱山托斯 #0" = 0  # Chrysanthos #0
   "第欧根尼 #0" = 0  # Diogenes #0
@@ -79,36 +77,38 @@ monarch_names = {
   "狄奥多罗斯 #0" = 0  # Theodoros #0
   "托马斯 #0" = 0  # Timotheos #0
   "阿加佩 #0" = -1  # Agape #0
+  "福蒂尼 #0" = -1  # Photine #0
+  "索迪里亚 #0" = -1  # Sotiria #0
 }
 leader_names = {
   "卡米勒"  # Kamil
-  "Akyel"
+  "阿克耶尔"  # Akyel
   "阿塔恩"  # Atan
-  "Yattara"
-  "Cimsir"
-  "Sungur"
-  "Bulut"
+  "亚塔拉"  # Yattara
+  "西姆西尔"  # Cimsir
+  "松古尔"  # Sungur
+  "布卢特"  # Bulut
   "里扎"  # Riza
-  "Zengin"
+  "泽金"  # Zengin
   "赛义德"  # Said
 }
 ship_names = {
-  "Amisus"
+  "阿米苏斯"  # Amisus
   "安娜"  # Anna
   "阿莱克修斯一世"  # Alexios I
   "安德罗尼库斯 I"  # Andronikos I
   "巴西尔"  # Basileios
-  "Chersonesos"
+  "赫索尼索斯"  # Chersonesos
   "本都赫拉克莱亚"  # Heraclea Pontica
   "艾琳"  # Irene
   "约安尼斯一世"  # Ioannes I
   "约安尼斯二世"  # Ioannes II
-  "Kersh"
+  "克什"  # Kersh
   "雅各布一世"  # Manouel I
-  "Perateia"
+  "佩拉蒂亚"  # Perateia
   "帕夫拉戈尼亚"  # Paphlagonia
   "锡诺普"  # Sinope
-  "Sougdeia"
+  "索格迪亚"  # Sougdeia
   "特拉比松"  # Trebizond
   "狄奥多拉"  # Theodora
 }
