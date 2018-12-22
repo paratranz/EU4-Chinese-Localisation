@@ -1790,7 +1790,7 @@
     {
         "key": "WEJOINEDTRADELEAGUEDECLINE_2:0",
         "original": "$MONARCHTITLE$, we weren't welcome in the Trade League",
-        "translation": "$MONARCHTITLE$，我们不受这个",
+        "translation": "$MONARCHTITLE$，我们不受",
         "stage": 1
     },
     {
@@ -4122,36 +4122,6 @@
         "stage": 1
     },
     {
-        "key": "TREASURE_FLEET_TO_US_2:0",
-        "original": "It brought",
-        "translation": "它从$FROM$的金银矿",
-        "stage": 1
-    },
-    {
-        "key": "TREASURE_FLEET_TO_US_3:0",
-        "original": "$GOLD$¤",
-        "translation": "带来",
-        "stage": 1
-    },
-    {
-        "key": "TREASURE_FLEET_TO_US_4:0",
-        "original": "from the rich gold and silver mines of $FROM$.",
-        "translation": "$GOLD$¤",
-        "stage": 1
-    },
-    {
-        "key": "TREASURE_FLEET_TO_US_5:0",
-        "original": "$INFLATION$",
-        "translation": "$INFLATION$",
-        "stage": 1
-    },
-    {
-        "key": "TREASURE_FLEET_TO_US_6:0",
-        "original": "$PIRATES$",
-        "translation": "$PIRATES$",
-        "stage": 1
-    },
-    {
         "key": "TREASURE_FLEET_TO_US_LOG:0",
         "original": "The $ADJNAME$ Treasure Fleet arrived.",
         "translation": "$ADJNAME$珍宝船队抵达。",
@@ -5414,7 +5384,7 @@
     {
         "key": "FLEETBASING_5:0",
         "original": "to $RESULT$ $WHO$ Fleet Basing Rights.",
-        "translation": "授予$RESULT$$WHO$舰船停泊权。",
+        "translation": "$RESULT$$WHO$舰船停泊权。",
         "stage": 1
     },
     {
@@ -7400,7 +7370,7 @@
     {
         "key": "WEJOINEDFEDERATIONDECLINE_2:0",
         "original": "$MONARCHTITLE$, we weren't welcome in the Federation",
-        "translation": "$MONARCHTITLE$，我们并不被",
+        "translation": "$MONARCHTITLE$，我们不被",
         "stage": 1
     },
     {
@@ -7412,7 +7382,7 @@
     {
         "key": "WEJOINEDFEDERATIONDECLINE_4:0",
         "original": "We will have to be on our own against any conquerors.",
-        "translation": "我们不得不自己去面对入侵者",
+        "translation": "我们不得不独自面对入侵者",
         "stage": 1
     },
     {
@@ -7436,13 +7406,13 @@
     {
         "key": "WEJOINEDFEDERATIONDECLINE_BTN1:0",
         "original": "Worrisome!",
-        "translation": "我靠",
+        "translation": "令人担忧！",
         "stage": 1
     },
     {
         "key": "WEJOINEDFEDERATIONDECLINE_BTN2:0",
         "original": "Worrisome!",
-        "translation": "妈的",
+        "translation": "令人担忧！",
         "stage": 1
     },
     {
@@ -7520,13 +7490,13 @@
     {
         "key": "OTHERJOINSOURFEDERATION_BTN1:0",
         "original": "Perfect!",
-        "translation": "殴呦，不错哦！",
+        "translation": "好极了！",
         "stage": 1
     },
     {
         "key": "OTHERJOINSOURFEDERATION_BTN2:0",
         "original": "Perfect!",
-        "translation": "殴呦，不错哦！",
+        "translation": "好极了！",
         "stage": 1
     },
     {
@@ -7604,13 +7574,13 @@
     {
         "key": "OTHERJOINSOURFEDERATIONDECLINE_BTN1:0",
         "original": "Too bad!",
-        "translation": "哎呀我去",
+        "translation": "可恶！",
         "stage": 1
     },
     {
         "key": "OTHERJOINSOURFEDERATIONDECLINE_BTN2:0",
         "original": "Too bad!",
-        "translation": "不爽啊不爽",
+        "translation": "可恶！",
         "stage": 1
     },
     {
@@ -7688,13 +7658,13 @@
     {
         "key": "OTHERJOINSOTHERFEDERATION_BTN1:0",
         "original": "Worrisome!",
-        "translation": "让人不安啊",
+        "translation": "令人担忧！",
         "stage": 1
     },
     {
         "key": "OTHERJOINSOTHERFEDERATION_BTN2:0",
         "original": "Worrisome!",
-        "translation": "让人不安啊",
+        "translation": "令人担忧！",
         "stage": 1
     },
     {
@@ -7772,13 +7742,13 @@
     {
         "key": "OTHERLEAVSOURFEDERATION_BTN1:0",
         "original": "Worrisome",
-        "translation": "真虎啊",
+        "translation": "令人不安",
         "stage": 1
     },
     {
         "key": "OTHERLEAVSOURFEDERATION_BTN2:0",
         "original": "Worrisome",
-        "translation": "让人不安",
+        "translation": "令人不安",
         "stage": 1
     },
     {
@@ -8910,12 +8880,6 @@
         "stage": 1
     },
     {
-        "key": "FABRICATECLAIMSME_2:0",
-        "original": "$MONARCHTITLE$, we now a have a claim on ",
-        "translation": "$MONARCHTITLE$，我们现在对",
-        "stage": 1
-    },
-    {
         "key": "FABRICATECLAIMSME_3:0",
         "original": "$TARGET$",
         "translation": "$TARGET$有了宣称",
@@ -9008,7 +8972,7 @@
     {
         "key": "FABRICATECLAIMSTHEM_4:0",
         "original": "have the gall to claim $TARGET$ as their own.",
-        "translation": " 竟然胆敢宣称$TARGET$ 应为他们所有。",
+        "translation": "竟然胆敢宣称$TARGET$应为他们所有。",
         "stage": 1
     },
     {
@@ -20913,19 +20877,19 @@
         "key": "ACCMILUS_TITLE:0",
         "original": "Granted Military Access",
         "translation": "给予军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ACCMILUS_SETUP:0",
         "original": "When another country grants us Military Access.",
-        "translation": "当别国给予我国军事通行权",
-        "stage": 1
+        "translation": "当别国给予我国军事通行权。",
+        "stage": 5
     },
     {
         "key": "ACCMILUS_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ACCMILUS_1:0",
@@ -20936,8 +20900,8 @@
     {
         "key": "ACCMILUS_2:0",
         "original": "$MONARCHTITLE$, we have good news",
-        "translation": "$MONARCHTITLE$，我们得到了好消息.",
-        "stage": 1
+        "translation": "$MONARCHTITLE$，我们得到了好消息",
+        "stage": 5
     },
     {
         "key": "ACCMILUS_3:0",
@@ -20948,8 +20912,8 @@
     {
         "key": "ACCMILUS_4:0",
         "original": "has decided to allow our troops Military Access.",
-        "translation": "已决定允许我国军队入境.",
-        "stage": 1
+        "translation": "已决定允许我国军队入境。",
+        "stage": 5
     },
     {
         "key": "ACCMILUS_5:0",
@@ -20960,14 +20924,14 @@
     {
         "key": "ACCMILUS_6:0",
         "original": "Rather than having to fight so unworthy an opponent, our troops can now fight for true glory.",
-        "translation": "这些懦夫不值得我们伟大的军队去消灭，我们的军队将为真正的荣耀而战.",
-        "stage": 1
+        "translation": "这些懦夫不值得我们伟大的军队去消灭，我们的军队将为真正的荣耀而战。",
+        "stage": 5
     },
     {
         "key": "ACCMILUS_LOG:0",
         "original": "$RECIPIENT$ is now granting us Military Access to their country.",
-        "translation": "$RECIPIENT$给予我国军事通行权",
-        "stage": 1
+        "translation": "$RECIPIENT$给予我国军事通行权。",
+        "stage": 5
     },
     {
         "key": "ACCMILUS_BTN1:0",
@@ -20985,7 +20949,7 @@
         "key": "ACCMILUS_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ACCMILUS_MAP:0",
@@ -20997,13 +20961,13 @@
         "key": "WEACCMIL_TITLE:0",
         "original": "Granted Military Access",
         "translation": "给予军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEACCMIL_SETUP:0",
         "original": "When we grant another country Military Access.",
-        "translation": "当我国给予别国军事通行权",
-        "stage": 1
+        "translation": "当我国给予别国军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEACCMIL_HEADER:0",
@@ -21014,14 +20978,14 @@
     {
         "key": "WEACCMIL_1:0",
         "original": "Military Access.",
-        "translation": "军事通行",
-        "stage": 1
+        "translation": "军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEACCMIL_2:0",
         "original": "$MONARCHTITLE$, we have decided to allow",
         "translation": "$MONARCHTITLE$，我们决定允许",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEACCMIL_3:0",
@@ -21032,8 +20996,8 @@
     {
         "key": "WEACCMIL_4:0",
         "original": "Military Access to our country.",
-        "translation": "的军队入境.",
-        "stage": 1
+        "translation": "的军队进入我国境内。",
+        "stage": 5
     },
     {
         "key": "WEACCMIL_5:0",
@@ -21044,14 +21008,14 @@
     {
         "key": "WEACCMIL_6:0",
         "original": "We hope they will squander their troops on pointless wars, far from home.",
-        "translation": "我们希望该国把他们的军队浪费在远离家乡的无意义战争当中.",
-        "stage": 1
+        "translation": "希望他们的军队在远离故土的战争中白白牺牲。",
+        "stage": 5
     },
     {
         "key": "WEACCMIL_LOG:0",
         "original": "We are now granting $ACTOR$ Military Access to our country.",
-        "translation": "我们给予了$ACTOR$军事通行",
-        "stage": 1
+        "translation": "我们给予了$ACTOR$军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEACCMIL_BTN1:0",
@@ -21069,7 +21033,7 @@
         "key": "WEACCMIL_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEACCMIL_MAP:0",
@@ -21081,19 +21045,19 @@
         "key": "ACCMILOTHER_TITLE:0",
         "original": "Granted Military Access",
         "translation": "给予军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ACCMILOTHER_SETUP:0",
         "original": "When another country grants Military Access to a third party.",
-        "translation": "当别国给予第三国军事通行权",
-        "stage": 1
+        "translation": "当别国给予第三国军事通行权。",
+        "stage": 5
     },
     {
         "key": "ACCMILOTHER_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ACCMILOTHER_1:0",
@@ -21116,8 +21080,8 @@
     {
         "key": "ACCMILOTHER_4:0",
         "original": "now grants Military Access to",
-        "translation": "允许",
-        "stage": 1
+        "translation": "已将军事通行权给予",
+        "stage": 5
     },
     {
         "key": "ACCMILOTHER_5:0",
@@ -21129,13 +21093,13 @@
         "key": "ACCMILOTHER_6:0",
         "original": "Do we really care what other trivial states do?",
         "translation": "我们真的需要关心这种零碎的小国么？",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ACCMILOTHER_LOG:0",
         "original": "$RECIPIENT$ is now granting $ACTOR$ Military Access to their country.",
-        "translation": "$RECIPIENT$给予$ACTOR$军事通行权",
-        "stage": 1
+        "translation": "$RECIPIENT$给予$ACTOR$军事通行权。",
+        "stage": 5
     },
     {
         "key": "ACCMILOTHER_BTN1:0",
@@ -21153,7 +21117,7 @@
         "key": "ACCMILOTHER_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ACCMILOTHER_MAP:0",
@@ -21165,19 +21129,19 @@
         "key": "DECMILUS_TITLE:0",
         "original": "Denied Military Access",
         "translation": "拒绝给予军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DECMILUS_SETUP:0",
         "original": "When another country declines us Military Access.",
-        "translation": "当别国拒绝给予我国军事通行权",
-        "stage": 1
+        "translation": "当别国拒绝给予我国军事通行权。",
+        "stage": 5
     },
     {
         "key": "DECMILUS_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DECMILUS_1:0",
@@ -21200,8 +21164,8 @@
     {
         "key": "DECMILUS_4:0",
         "original": "has outrageously refused to grant us Military Access",
-        "translation": "无理地拒绝了我国军队入境.",
-        "stage": 1
+        "translation": "断然拒绝了给予我国军事通行权",
+        "stage": 5
     },
     {
         "key": "DECMILUS_5:0",
@@ -21212,14 +21176,14 @@
     {
         "key": "DECMILUS_6:0",
         "original": "As they have not seen the merit of our polite request then we may be forced to use a sword to more clearly point it out to them.",
-        "translation": "因为他们无视我们礼貌的请求，我们将被迫用武力让他们明白这一点",
-        "stage": 1
+        "translation": "由于他们无视了我们礼貌的请求，我们将被迫用武力让他们认清自己的身份。",
+        "stage": 5
     },
     {
         "key": "DECMILUS_LOG:0",
         "original": "$RECIPIENT$ refuses to grant us Military Access.",
-        "translation": "$RECIPIENT$拒绝给予我国军事通行权",
-        "stage": 1
+        "translation": "$RECIPIENT$拒绝给予我国军事通行权。",
+        "stage": 5
     },
     {
         "key": "DECMILUS_BTN1:0",
@@ -21237,7 +21201,7 @@
         "key": "DECMILUS_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DECMILUS_MAP:0",
@@ -21249,13 +21213,13 @@
         "key": "WEDECMIL_TITLE:0",
         "original": "Denied Military Access",
         "translation": "拒绝给予军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEDECMIL_SETUP:0",
         "original": "When we decline another country Military Access.",
         "translation": "当我国拒绝别国要求的军事通行权。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEDECMIL_HEADER:0",
@@ -21266,14 +21230,14 @@
     {
         "key": "WEDECMIL_1:0",
         "original": "Military Access.",
-        "translation": "军事通行",
-        "stage": 1
+        "translation": "军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEDECMIL_2:0",
         "original": "$MONARCHTITLE$, we have, of course, declined the request by ",
-        "translation": "$MONARCHTITLE$，我们理所当然的拒绝了",
-        "stage": 1
+        "translation": "$MONARCHTITLE$，我们理所当然地拒绝了",
+        "stage": 5
     },
     {
         "key": "WEDECMIL_3:0",
@@ -21284,8 +21248,8 @@
     {
         "key": "WEDECMIL_4:0",
         "original": "for Military Access.",
-        "translation": "提出的军事通行的请求.",
-        "stage": 1
+        "translation": "要求的军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEDECMIL_5:0",
@@ -21296,14 +21260,14 @@
     {
         "key": "WEDECMIL_6:0",
         "original": "We do not want their unworthy boots soiling our realm.",
-        "translation": "我们不想让他们肮脏的鞋子玷污我国土地.",
-        "stage": 1
+        "translation": "我们不想让他们肮脏的鞋子玷污我国土地。",
+        "stage": 5
     },
     {
         "key": "WEDECMIL_LOG:0",
         "original": "We refused to grant $ACTOR$ Military Access.",
-        "translation": "我国拒绝给予$ACTOR$军事通行权",
-        "stage": 1
+        "translation": "我国拒绝给予$ACTOR$军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEDECMIL_BTN1:0",
@@ -21321,7 +21285,7 @@
         "key": "WEDECMIL_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEDECMIL_MAP:0",
@@ -21333,19 +21297,19 @@
         "key": "DECMILOTHER_TITLE:0",
         "original": "Denied Military Access",
         "translation": "拒绝给予军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DECMILOTHER_SETUP:0",
         "original": "When one nation declines another country Military Access.",
-        "translation": "当别国拒绝给予第三国军事通行权",
-        "stage": 1
+        "translation": "当别国拒绝给予第三国军事通行权。",
+        "stage": 5
     },
     {
         "key": "DECMILOTHER_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DECMILOTHER_1:0",
@@ -21368,8 +21332,8 @@
     {
         "key": "DECMILOTHER_4:0",
         "original": "refuses to grant Military Access to",
-        "translation": "拒绝给予",
-        "stage": 1
+        "translation": "拒绝将军事通行权给予",
+        "stage": 5
     },
     {
         "key": "DECMILOTHER_5:0",
@@ -21380,14 +21344,14 @@
     {
         "key": "DECMILOTHER_6:0",
         "original": "We laugh at their inferior diplomatic skills.",
-        "translation": "他们拙劣的外交活该被嘲笑。",
-        "stage": 1
+        "translation": "他们拙劣的外交技巧令我们捧腹。",
+        "stage": 5
     },
     {
         "key": "DECMILOTHER_LOG:0",
         "original": "$RECIPIENT$ refuses to grant Military Access to $ACTOR$.",
-        "translation": "$RECIPIENT$拒绝给予$ACTOR$军事通行权",
-        "stage": 1
+        "translation": "$RECIPIENT$拒绝给予$ACTOR$军事通行权。",
+        "stage": 5
     },
     {
         "key": "DECMILOTHER_BTN1:0",
@@ -21405,7 +21369,7 @@
         "key": "DECMILOTHER_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DECMILOTHER_MAP:0",
@@ -21417,19 +21381,19 @@
         "key": "CANCMILUS_TITLE:0",
         "original": "Canceled Military Access",
         "translation": "取消军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CANCMILUS_SETUP:0",
         "original": "When another country cancels the Military Access we gave them.",
-        "translation": "当别国取消我国给予的军事通行权",
-        "stage": 1
+        "translation": "当别国取消我国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANCMILUS_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CANCMILUS_1:0",
@@ -21440,8 +21404,8 @@
     {
         "key": "CANCMILUS_2:0",
         "original": "$MONARCHTITLE$, we have discovered that ",
-        "translation": "$MONARCHTITLE$，我们发现了",
-        "stage": 1
+        "translation": "$MONARCHTITLE$，我们发现",
+        "stage": 5
     },
     {
         "key": "CANCMILUS_3:0",
@@ -21452,8 +21416,8 @@
     {
         "key": "CANCMILUS_4:0",
         "original": "has canceled the right to Military Access they have been generously given by us.",
-        "translation": "取消了我国慷慨的给与他们的军事通行权。",
-        "stage": 1
+        "translation": "取消了我国慷慨给与他们的军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANCMILUS_5:0",
@@ -21464,14 +21428,14 @@
     {
         "key": "CANCMILUS_6:0",
         "original": "Although we should really have beaten them to it.",
-        "translation": "我们应该痛打他们一顿",
-        "stage": 1
+        "translation": "我们应该痛打他们一顿。",
+        "stage": 5
     },
     {
         "key": "CANCMILUS_LOG:0",
         "original": "$ACTOR$ has canceled the treaty of Military Access they had in our country.",
-        "translation": "$ACTOR$撤消了我国在其境内的军事通行权",
-        "stage": 1
+        "translation": "$ACTOR$取消了我国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANCMILUS_BTN1:0",
@@ -21489,7 +21453,7 @@
         "key": "CANCMILUS_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CANCMILUS_MAP:0",
@@ -21501,19 +21465,19 @@
         "key": "CANMILOTHE_TITLE:0",
         "original": "Canceled Military Access",
         "translation": "取消军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CANMILOTHE_SETUP:0",
         "original": "When another country cancels the Military Access they gave a third nation.",
-        "translation": "当别国取消给予第三国的军事通行权",
-        "stage": 1
+        "translation": "当别国取消了第三国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANMILOTHE_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CANMILOTHE_1:0",
@@ -21536,8 +21500,8 @@
     {
         "key": "CANMILOTHE_4:0",
         "original": "has canceled the Military Access they have been given by",
-        "translation": "撤消了给予他们的军事通行权",
-        "stage": 1
+        "translation": "取消了由下列国家给予的军事通行权",
+        "stage": 5
     },
     {
         "key": "CANMILOTHE_5:0",
@@ -21548,14 +21512,14 @@
     {
         "key": "CANMILOTHE_6:0",
         "original": "Looks like trouble is brewing. We could profit from this.",
-        "translation": "起来像在酝酿冲突，我们可以从中获利。",
-        "stage": 1
+        "translation": "看来冲突不可避免。我国应能从中渔利。",
+        "stage": 5
     },
     {
         "key": "CANMILOTHE_LOG:0",
         "original": "$ACTOR$ has canceled the treaty of Military Access they had in $RECIPIENT$.",
-        "translation": "$ACTOR$撤消了他们给予$RECIPIENT$的军事通行权",
-        "stage": 1
+        "translation": "$ACTOR$取消了$RECIPIENT$给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANMILOTHE_BTN1:0",
@@ -21573,7 +21537,7 @@
         "key": "CANMILOTHE_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CANMILOTHE_MAP:0",
@@ -21585,19 +21549,19 @@
         "key": "WECANMIL_TITLE:0",
         "original": "Canceled Military Access",
         "translation": "取消军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WECANMIL_SETUP:0",
         "original": "When we cancel the Military Access we gave a second nation.",
-        "translation": "当我国取消给予别国的军事通行权",
-        "stage": 1
+        "translation": "当我国收回给予别国的军事通行权。",
+        "stage": 5
     },
     {
         "key": "WECANMIL_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WECANMIL_1:0",
@@ -21609,7 +21573,7 @@
         "key": "WECANMIL_2:0",
         "original": "$MONARCHTITLE$, we have grown tired of the foul presence of the troops of ",
         "translation": "$MONARCHTITLE$，我们受够了",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WECANMIL_3:0",
@@ -21620,8 +21584,8 @@
     {
         "key": "WECANMIL_4:0",
         "original": "on our soil so we have canceled the Military Access they were so generously given",
-        "translation": "他们撤消了给我国的军事通行权",
-        "stage": 1
+        "translation": "的军队在我国肆意穿行，因此我国收回了慷慨给予他们的军事通行权",
+        "stage": 5
     },
     {
         "key": "WECANMIL_5:0",
@@ -21632,14 +21596,14 @@
     {
         "key": "WECANMIL_6:0",
         "original": "The people of $ACTOR$ rejoice at the news.",
-        "translation": "$ACTOR$的人民因这个消息而感到高兴.",
-        "stage": 1
+        "translation": "$ACTOR$的人民因这个消息而感到高兴。",
+        "stage": 5
     },
     {
         "key": "WECANMIL_LOG:0",
         "original": "$ACTOR$ has revoked the Military Access they gave to $RECIPIENT$.",
-        "translation": "$ACTOR$撤消了给予$RECIPIENT$的军事通行权",
-        "stage": 1
+        "translation": "$ACTOR$收回了给予$RECIPIENT$的军事通行权。",
+        "stage": 5
     },
     {
         "key": "WECANMIL_BTN1:0",
@@ -21657,7 +21621,7 @@
         "key": "WECANMIL_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WECANMIL_MAP:0",
@@ -21668,20 +21632,20 @@
     {
         "key": "OFFACCMILUS_TITLE:0",
         "original": "Accepted Military Access",
-        "translation": "同意给予军事通行权",
-        "stage": 1
+        "translation": "接受军事通行权",
+        "stage": 5
     },
     {
         "key": "OFFACCMILUS_SETUP:0",
         "original": "When another country accepts our offer of Military Access.",
-        "translation": "当别国接受我国给予的军事通行权",
-        "stage": 1
+        "translation": "当别国接受我国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "OFFACCMILUS_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OFFACCMILUS_1:0",
@@ -21693,7 +21657,7 @@
         "key": "OFFACCMILUS_2:0",
         "original": "$MONARCHTITLE$, in order to further our goals, we have decided that the troops of",
         "translation": "$MONARCHTITLE$，为了我国的长远目标，我们决定允许",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OFFACCMILUS_3:0",
@@ -21704,8 +21668,8 @@
     {
         "key": "OFFACCMILUS_4:0",
         "original": "should be allowed to have Military Access to our nation.",
-        "translation": "的军队进入我国境内.",
-        "stage": 1
+        "translation": "的军队进入我国境内。",
+        "stage": 5
     },
     {
         "key": "OFFACCMILUS_5:0",
@@ -21716,14 +21680,14 @@
     {
         "key": "OFFACCMILUS_6:0",
         "original": "We hope they all perish in a pointless war.",
-        "translation": "我们希望他们在一场无意义的战争中全军覆灭.",
-        "stage": 1
+        "translation": "希望他们在一场毫无意义的战争中全军覆灭。",
+        "stage": 5
     },
     {
         "key": "OFFACCMILUS_LOG:0",
         "original": "$RECIPIENT$ has accepted our offer of Military Access.",
-        "translation": "$RECIPIENT$接受我国给予的军事通行权",
-        "stage": 1
+        "translation": "$RECIPIENT$接受了我国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "OFFACCMILUS_BTN1:0",
@@ -21741,7 +21705,7 @@
         "key": "OFFACCMILUS_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OFFACCMILUS_MAP:0",
@@ -21752,14 +21716,14 @@
     {
         "key": "WEOFFACCMIL_TITLE:0",
         "original": "Accepted Military Access",
-        "translation": "同意给予军事通行权",
-        "stage": 1
+        "translation": "接受军事通行权",
+        "stage": 5
     },
     {
         "key": "WEOFFACCMIL_SETUP:0",
         "original": "When we accept another country's offer of Military Access.",
-        "translation": "当我国接受某国给予的军事通行权",
-        "stage": 1
+        "translation": "当我国接受别国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEOFFACCMIL_HEADER:0",
@@ -21770,26 +21734,26 @@
     {
         "key": "WEOFFACCMIL_1:0",
         "original": "Military Access.",
-        "translation": "军事通行",
-        "stage": 1
+        "translation": "军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEOFFACCMIL_2:0",
         "original": "$MONARCHTITLE$, out of fear of our mighty armies",
         "translation": "$MONARCHTITLE$，畏惧我国强大军队的",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEOFFACCMIL_3:0",
         "original": "$ACTOR$s",
         "translation": "$ACTOR$",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEOFFACCMIL_4:0",
         "original": "has offered us Military Access which we have decided to accept.",
-        "translation": "决定给予我国军事通行权.",
-        "stage": 1
+        "translation": "决定给予我国军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEOFFACCMIL_5:0",
@@ -21801,13 +21765,13 @@
         "key": "WEOFFACCMIL_6:0",
         "original": "Let us hope they remember their place",
         "translation": "但愿他们明白他们的处境",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEOFFACCMIL_LOG:0",
         "original": "We have accepted $ACTOR$'s offer of Military Access to their country.",
-        "translation": "我国接受了$ACTOR$给予的军事通行权",
-        "stage": 1
+        "translation": "我国接受了$ACTOR$给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEOFFACCMIL_BTN1:0",
@@ -21825,7 +21789,7 @@
         "key": "WEOFFACCMIL_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEOFFACCMIL_MAP:0",
@@ -21836,20 +21800,20 @@
     {
         "key": "OFFACCMILOTHER_TITLE:0",
         "original": "Accepted Military Access",
-        "translation": "同意给予军事通行权",
-        "stage": 1
+        "translation": "接受军事通行权",
+        "stage": 5
     },
     {
         "key": "OFFACCMILOTHER_SETUP:0",
         "original": "When another country accepts Military Access to a third party.",
-        "translation": "当别国同意给予第三国军事通行权",
-        "stage": 1
+        "translation": "当别国接受第三国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "OFFACCMILOTHER_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OFFACCMILOTHER_1:0",
@@ -21872,8 +21836,8 @@
     {
         "key": "OFFACCMILOTHER_4:0",
         "original": "have accepted Military Access offered by",
-        "translation": "已经同意把军事通行权给予",
-        "stage": 1
+        "translation": "已接受由下列国家给予的军事通行权",
+        "stage": 5
     },
     {
         "key": "OFFACCMILOTHER_5:0",
@@ -21884,14 +21848,14 @@
     {
         "key": "OFFACCMILOTHER_6:0",
         "original": "The actions of such minor states like $ACTOR$ are usually beneath our notice.",
-        "translation": "对$ACTOR$这种弱小国家的举动我们不必在意",
-        "stage": 1
+        "translation": "$ACTOR$这种弱小国家的举动不值得我们关注。",
+        "stage": 5
     },
     {
         "key": "OFFACCMILOTHER_LOG:0",
         "original": "$RECIPIENT$ has accepted the offer of Military Access to $ACTOR$.",
-        "translation": "$RECIPIENT$同意给予$ACTOR$军事通行权",
-        "stage": 1
+        "translation": "$RECIPIENT$接受了$ACTOR$给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "OFFACCMILOTHER_BTN1:0",
@@ -21909,7 +21873,7 @@
         "key": "OFFACCMILOTHER_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OFFACCMILOTHER_MAP:0",
@@ -21920,20 +21884,20 @@
     {
         "key": "OFFDECMILUS_TITLE:0",
         "original": "Declined Military Access",
-        "translation": "拒绝给予军事通行权",
-        "stage": 1
+        "translation": "拒绝接受军事通行权",
+        "stage": 5
     },
     {
         "key": "OFFDECMILUS_SETUP:0",
         "original": "When another country declines our offer of Military Access.",
-        "translation": "当别国拒绝我国给予的军事通行权",
-        "stage": 1
+        "translation": "当别国拒绝我国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "OFFDECMILUS_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OFFDECMILUS_1:0",
@@ -21944,8 +21908,8 @@
     {
         "key": "OFFDECMILUS_2:0",
         "original": "$MONARCHTITLE$ we were surprised to learn that ",
-        "translation": "$MONARCHTITLE$，我们惊讶的知道",
-        "stage": 1
+        "translation": "$MONARCHTITLE$，我国惊异地悉知",
+        "stage": 5
     },
     {
         "key": "OFFDECMILUS_3:0",
@@ -21956,8 +21920,8 @@
     {
         "key": "OFFDECMILUS_4:0",
         "original": "has somehow refused our generous offer of Military Access.",
-        "translation": "拒绝了我国给予的军事通行权.",
-        "stage": 1
+        "translation": "不知何故拒绝了我国慷慨给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "OFFDECMILUS_5:0",
@@ -21968,14 +21932,14 @@
     {
         "key": "OFFDECMILUS_6:0",
         "original": "We will need to try and find another means to snare them in our web.",
-        "translation": "我们必须另寻门路来给他们设套",
-        "stage": 1
+        "translation": "我们必须另寻门路来给他们设套。",
+        "stage": 5
     },
     {
         "key": "OFFDECMILUS_LOG:0",
         "original": "$RECIPIENT$ refused our offer of Military Access.",
-        "translation": "$RECIPIENT$拒绝我国给予的军事通行权",
-        "stage": 1
+        "translation": "$RECIPIENT$拒绝我国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "OFFDECMILUS_BTN1:0",
@@ -21993,7 +21957,7 @@
         "key": "OFFDECMILUS_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OFFDECMILUS_MAP:0",
@@ -22004,14 +21968,14 @@
     {
         "key": "WEDECOFFMIL_TITLE:0",
         "original": "Declined Military Access",
-        "translation": "拒绝给予军事通行权",
-        "stage": 1
+        "translation": "拒绝接受军事通行权",
+        "stage": 5
     },
     {
         "key": "WEDECOFFMIL_SETUP:0",
         "original": "When we decline another country's offer of Military Access.",
-        "translation": "当我国拒绝别国给予的军事通行权",
-        "stage": 1
+        "translation": "当我国拒绝别国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEDECOFFMIL_HEADER:0",
@@ -22022,26 +21986,26 @@
     {
         "key": "WEDECOFFMIL_1:0",
         "original": "Military Access.",
-        "translation": "军事通行",
-        "stage": 1
+        "translation": "军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEDECOFFMIL_2:0",
         "original": "$MONARCHTITLE$, we have found that",
         "translation": "$MONARCHTITLE$，我们知道",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEDECOFFMIL_3:0",
         "original": "$ACTOR$'s",
         "translation": "$ACTOR$",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEDECOFFMIL_4:0",
         "original": "invitation to host our troops was unworthy",
-        "translation": "通行权根本没有用处.",
-        "stage": 1
+        "translation": "提供的军事通行权毫无价值。",
+        "stage": 5
     },
     {
         "key": "WEDECOFFMIL_5:0",
@@ -22052,14 +22016,14 @@
     {
         "key": "WEDECOFFMIL_6:0",
         "original": "These upstart nations should learn their place.",
-        "translation": "这些自命不凡的国家应该认识到他们的处境",
-        "stage": 1
+        "translation": "这些自命不凡的国家应该认识到他们的处境。",
+        "stage": 5
     },
     {
         "key": "WEDECOFFMIL_LOG:0",
         "original": "We refused to accept $ACTOR$'s offer of Military Access.",
-        "translation": "我国拒绝了$ACTOR$给予的军事通行权",
-        "stage": 1
+        "translation": "我国拒绝了$ACTOR$给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "WEDECOFFMIL_BTN1:0",
@@ -22077,7 +22041,7 @@
         "key": "WEDECOFFMIL_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WEDECOFFMIL_MAP:0",
@@ -22088,20 +22052,20 @@
     {
         "key": "DECOFFMILOTHER_TITLE:0",
         "original": "Declined Military Access",
-        "translation": "拒绝给予军事通行权",
-        "stage": 1
+        "translation": "拒绝接受军事通行权",
+        "stage": 5
     },
     {
         "key": "DECOFFMILOTHER_SETUP:0",
         "original": "When nation declines another country's offer of Military Access.",
-        "translation": "当别国拒绝第三国给予的军事通行权",
-        "stage": 1
+        "translation": "当别国拒绝第三国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "DECOFFMILOTHER_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DECOFFMILOTHER_1:0",
@@ -22124,8 +22088,8 @@
     {
         "key": "DECOFFMILOTHER_4:0",
         "original": "refused the offer of Military Access treaty offered by",
-        "translation": "拒绝接受",
-        "stage": 1
+        "translation": "拒绝接受以下国家给予的军事通行权",
+        "stage": 5
     },
     {
         "key": "DECOFFMILOTHER_5:0",
@@ -22136,14 +22100,14 @@
     {
         "key": "DECOFFMILOTHER_6:0",
         "original": "The more disharmony there is between the nations the better.",
-        "translation": "这两国关系越差，对我们越有利",
-        "stage": 1
+        "translation": "这两国关系越差，对我们越有利。",
+        "stage": 5
     },
     {
         "key": "DECOFFMILOTHER_LOG:0",
         "original": "$RECIPIENT$ refused the offer of Military Access to $ACTOR$.",
-        "translation": "$RECIPIENT$拒绝$ACTOR$给予的军事通行权",
-        "stage": 1
+        "translation": "$RECIPIENT$拒绝$ACTOR$给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "DECOFFMILOTHER_BTN1:0",
@@ -22161,7 +22125,7 @@
         "key": "DECOFFMILOTHER_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DECOFFMILOTHER_MAP:0",
@@ -22844,13 +22808,13 @@
     {
         "key": "CURIACONTROLLER_TITLE:0",
         "original": "Became Papal Controller",
-        "translation": "成为教宗控制者",
+        "translation": "成为教廷监护",
         "stage": 1
     },
     {
         "key": "CURIACONTROLLER_SETUP:0",
         "original": "When we become the new Papal Controller.",
-        "translation": "当我国成为教宗监护者",
+        "translation": "当我国成为新任教廷监护。",
         "stage": 1
     },
     {
@@ -22862,13 +22826,13 @@
     {
         "key": "CURIACONTROLLER_1:0",
         "original": "A Wise Choice",
-        "translation": "教廷明智的做出了选择.",
+        "translation": "明智的选择",
         "stage": 1
     },
     {
         "key": "CURIACONTROLLER_2:0",
         "original": "The Papal Conclave has elected",
-        "translation": "教廷明智的做出了选择",
+        "translation": "教宗选举秘密会议选出",
         "stage": 1
     },
     {
@@ -22880,7 +22844,7 @@
     {
         "key": "CURIACONTROLLER_4:0",
         "original": "He is loyal to us, and we are now the",
-        "translation": "他忠于我们， 我们已经成为",
+        "translation": "他忠于我国， 我国已经成为",
         "stage": 1
     },
     {
@@ -22904,7 +22868,7 @@
     {
         "key": "CURIACONTROLLER_LOG:0",
         "original": "We are the new Papal Controller.",
-        "translation": "我国成为新的教宗监护者",
+        "translation": "我国成为新任教廷监护。",
         "stage": 1
     },
     {
@@ -34196,7 +34160,7 @@
     {
         "key": "WEGAINCB_LOG:0",
         "original": "We gained the '$CASUS$' Casus Belli against $ENEMY$.",
-        "translation": "我们得到针对$ENEMY$的'$CASUS$'宣战理由.",
+        "translation": "我们得到针对$ENEMY$的「$CASUS$」宣战理由。",
         "stage": 1
     },
     {
@@ -37988,7 +37952,7 @@
     {
         "key": "NEWPOPE_2:0",
         "original": "The Papal Conclave has elected",
-        "translation": "秘密会议选出",
+        "translation": "教宗选举秘密会议选出",
         "stage": 1
     },
     {
@@ -38066,7 +38030,7 @@
     {
         "key": "CURIACONTROLLEROTHER_SETUP:0",
         "original": "When another country becomes the new Papal Controller.",
-        "translation": "当他国成为新的教廷监护。",
+        "translation": "当别国成为新任教廷监护。",
         "stage": 1
     },
     {
@@ -38084,7 +38048,7 @@
     {
         "key": "CURIACONTROLLEROTHER_2:0",
         "original": "The Papal Conclave has elected",
-        "translation": "秘密会议选举出了结果",
+        "translation": "教宗选举秘密会议选出",
         "stage": 1
     },
     {
@@ -38096,7 +38060,7 @@
     {
         "key": "CURIACONTROLLEROTHER_4:1",
         "original": "He is loyal to §Y$CONTROLLER$§W which now is the new",
-        "translation": "他忠于§Y$CONTROLLER$§W，即新的",
+        "translation": "他忠于§Y$CONTROLLER$§W，即新任",
         "stage": 1
     },
     {
@@ -38817,19 +38781,19 @@
         "key": "WECANTHEIRMIL_TITLE:0",
         "original": "Canceled Military Access",
         "translation": "取消军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WECANTHEIRMIL_SETUP:0",
         "original": "When we end the Military Access given us by another country.",
-        "translation": "当我们取消别国给予的军事通行权时。",
-        "stage": 1
+        "translation": "当我们取消别国给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "WECANTHEIRMIL_HEADER:0",
         "original": "Herald from",
         "translation": "使者来自",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WECANTHEIRMIL_1:0",
@@ -38841,7 +38805,7 @@
         "key": "WECANTHEIRMIL_2:0",
         "original": "$MONARCHTITLE$, we are no longer interested in passage through the lands of ",
         "translation": "$MONARCHTITLE$，我们对",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WECANTHEIRMIL_3:0",
@@ -38852,8 +38816,8 @@
     {
         "key": "WECANTHEIRMIL_4:0",
         "original": "so we have canceled their Military Access treaty.",
-        "translation": "的通行权不再感兴趣，所以我们取消了他们授予的军事通行权。",
-        "stage": 1
+        "translation": "的通行权不再感兴趣，所以我们取消了他们给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "WECANTHEIRMIL_5:0",
@@ -38865,13 +38829,13 @@
         "key": "WECANTHEIRMIL_6:0",
         "original": "The people of $ACTOR$ rejoice at the news.",
         "translation": "$ACTOR$的人民因这个消息而感到高兴。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WECANTHEIRMIL_LOG:0",
         "original": "$ACTOR$ has canceled the treaty of Military Access they had through $RECIPIENT$.",
-        "translation": "$ACTOR$取消了他们在$RECIPIENT$的军事通行权。",
-        "stage": 1
+        "translation": "$ACTOR$取消了$RECIPIENT$给予的军事通行权。",
+        "stage": 5
     },
     {
         "key": "WECANTHEIRMIL_BTN1:0",
@@ -38889,7 +38853,7 @@
         "key": "WECANTHEIRMIL_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WECANTHEIRMIL_MAP:0",
@@ -48597,6 +48561,300 @@
         "key": "TRIBUTARYBREAK_LOG:1",
         "original": "$ACTOR$ canceled the Tributary State they had with us.",
         "translation": "$ACTOR$取消了同我们的朝贡关系。",
+        "stage": 1
+    },
+    {
+        "key": "TREASURE_FLEET_TO_US_2:1",
+        "original": "It brought $GOLD$¤",
+        "translation": "它从$FROM$的金银矿",
+        "stage": 1
+    },
+    {
+        "key": "TREASURE_FLEET_TO_US_3:1",
+        "original": "from the rich gold and silver mines of $FROM$.",
+        "translation": "带来$GOLD$¤",
+        "stage": 1
+    },
+    {
+        "key": "TREASURE_FLEET_TO_US_4:1",
+        "original": "$INFLATION$",
+        "translation": "$INFLATION$",
+        "stage": 1
+    },
+    {
+        "key": "TREASURE_FLEET_TO_US_5:1",
+        "original": "$PIRATES$",
+        "translation": "$PIRATES$",
+        "stage": 1
+    },
+    {
+        "key": "TREASURE_FLEET_TO_US_6:1",
+        "original": "$MODIFIER$",
+        "translation": "$MODIFIER$",
+        "stage": 1
+    },
+    {
+        "key": "FABRICATECLAIMSME_ACTOR_US:0",
+        "original": "we",
+        "translation": "我们",
+        "stage": 1
+    },
+    {
+        "key": "FABRICATECLAIMSME_2:1",
+        "original": "$MONARCHTITLE$, $WHO$ now gained a claim on ",
+        "translation": "$MONARCHTITLE$，$WHO$现在对",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_TITLE:0",
+        "original": "Admiral gains Skill",
+        "translation": "提督获得技能",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_SETUP:1",
+        "original": "When a Admiral gains a Skill while commanding a Flagship.",
+        "translation": "当提督在指挥旗舰的过程中获得技能时。",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_HEADER:0",
+        "original": "$GENERAL$ gains Skill",
+        "translation": "$GENERAL$获得技能",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_1:0",
+        "original": "My Lord",
+        "translation": "大人",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_2:0",
+        "original": "Our efforts have paid off.",
+        "translation": "我们的努力得到了回报。",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_3:1",
+        "original": "While on $FLAGSHIP$,",
+        "translation": "在$FLAGSHIP$上，",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_4:0",
+        "original": "$ADMIRAL$ improved his",
+        "translation": "$ADMIRAL$提升了他的",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_5:1",
+        "original": "$SKILL$ ($FIRE$£military_view_icon_fire / $SHOCK$£military_view_icon_shock / $MANEUVER$£military_view_icon_maneuver ).",
+        "translation": "$SKILL$（$FIRE$£military_view_icon_fire / $SHOCK$£military_view_icon_shock /$MANEUVER$£military_view_icon_maneuver ）。",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_6:0",
+        "original": "May this new knowledge bring victory in our wars!",
+        "translation": "希望这种新技能能为我们的战争带来胜利！",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_LOG:0",
+        "original": "$ADMIRAL$ improved his $SKILL$.",
+        "translation": "$ADMIRAL$提升了他的$SKILL$。",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_BTN1:0",
+        "original": "Ok",
+        "translation": "好的",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_BTN2:0",
+        "original": "Ok",
+        "translation": "好的",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_BTN3:0",
+        "original": "Go to",
+        "translation": "前往",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_SKILL_GAIN_MAP:0",
+        "original": "",
+        "translation": " ",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_TITLE:0",
+        "original": "Minority Expelled",
+        "translation": "少数族群被驱逐",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_SETUP:0",
+        "original": "When one of our minorities is shipped off to a colony.",
+        "translation": "当我们的一个少数族群被送往一个殖民地时。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_HEADER:0",
+        "original": "$MESSENGER$",
+        "translation": "$MESSENGER$",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_1:0",
+        "original": "Minority Expelled",
+        "translation": "少数族群被驱逐",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_2:0",
+        "original": "$MONARCHTITLE$, the minority in",
+        "translation": "$MONARCHTITLE$，位于",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_3:0",
+        "original": "$PROVINCE$",
+        "translation": "$PROVINCE$",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_4:0",
+        "original": "was finally shipped off to $COLONY$!.",
+        "translation": "的少数族群最终被送往$COLONY$了！",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_5:0",
+        "original": "The city is now populated by proper $CULTURE$ subjects that follow the $RELIGION$ religion.",
+        "translation": "这座城市现在将居住着$CULTURE$文化、信仰$RELIGION$的国民。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_6:1",
+        "original": "Minorities have also increased the development in our colony by $ADM|Y$£adm $DIP|Y$£dip $MIL|Y$£mil.",
+        "translation": "少数族群也使我们殖民地的发展度增加了$ADM|Y$£adm $DIP|Y$£dip $MIL|Y$£mil 。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_LOG:0",
+        "original": "The minority in $PROVINCE$ has been shipped off overseas!",
+        "translation": "$PROVINCE$的少数族群将被送往海外！",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_BTN1:0",
+        "original": "Good riddance!",
+        "translation": "谢天谢地！",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_BTN2:0",
+        "original": "Good riddance!",
+        "translation": "谢天谢地！",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_BTN3:0",
+        "original": "Go to",
+        "translation": "前往",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPELLED_MAP:0",
+        "original": "",
+        "translation": " ",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_TITLE:0",
+        "original": "Minority Expulsion Canceled",
+        "translation": "少数族群驱逐被取消",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_SETUP:0",
+        "original": "When a minority expulsion gets canceled.",
+        "translation": "当对少数族群的驱逐被取消时。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_HEADER:0",
+        "original": "$MESSENGER$",
+        "translation": "$MESSENGER$",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_1:0",
+        "original": "Minority Expulsion Canceled",
+        "translation": "少数族群驱逐被取消",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_2:0",
+        "original": "$MONARCHTITLE$, the province of",
+        "translation": "$MONARCHTITLE$，省份",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_3:0",
+        "original": "$PROVINCE$",
+        "translation": "$PROVINCE$",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_4:0",
+        "original": "has slipped outside our control.",
+        "translation": "已经脱离我们的掌控。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_5:1",
+        "original": "The minorities in $HOME_PROVINCE$ can't be shipped off to $COLONY$ anymore.",
+        "translation": "$HOME_PROVINCE$的少数族群已无法再被送往$COLONY$。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_6:0",
+        "original": "Unfortunately the ones we already sent do not seem to plan on going anywhere else.",
+        "translation": "不幸的是，那些已经被送走的人们似乎并不准备前往其他地方。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_LOG:1",
+        "original": "The expulsion of minorities in $HOME_PROVINCE$ to $COLONY$ has been canceled!",
+        "translation": "将$HOME_PROVINCE$的少数族群驱逐至$COLONY$的行为已被取消。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_BTN1:0",
+        "original": "Curses!",
+        "translation": "该死！",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_BTN2:0",
+        "original": "Curses!",
+        "translation": "该死！",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_BTN3:0",
+        "original": "Go to",
+        "translation": "前往",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_CANCELED_MAP:0",
+        "original": "",
+        "translation": " ",
         "stage": 1
     }
 ]

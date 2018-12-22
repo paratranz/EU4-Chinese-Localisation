@@ -32,14 +32,14 @@
     {
         "key": "republic_same_religion:0",
         "original": "Same Religion",
-        "translation": "相同宗教信仰",
+        "translation": "同一宗教",
         "stage": 5
     },
     {
         "key": "republic_different_religions_group:0",
         "original": "Different Religion",
         "translation": "不同宗教",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "republic_different_religion_same_group:0",
@@ -524,8 +524,8 @@
     {
         "key": "RIVAL_SPY:0",
         "original": "$VAL$ Spy Network Construction against them.\\n",
-        "translation": "建立间谍网效率$VAL$。\\n",
-        "stage": 5
+        "translation": "间谍网建设效率$VAL$。\\n",
+        "stage": 1
     },
     {
         "key": "BENEFIT_FOR_EMPEROR:0",
@@ -620,7 +620,7 @@
     {
         "key": "DIPIRO_MILACCESS:0",
         "original": "$WHO|Y$ gives military access to $NAME|Y$.\\nThis allows $NAME_ADJ|Y$ troops to enter $WHO_ADJ|Y$ provinces.",
-        "translation": "$WHO|Y$给予$NAME|Y$军事通行权.\\n这赋予$NAME_ADJ|Y$军队、舰队在$WHO_ADJ|Y$省份中通行、驻扎的权利.",
+        "translation": "$WHO|Y$给予$NAME|Y$军事通行权。\\n这赋予$NAME_ADJ|Y$军队、舰队在$WHO_ADJ|Y$省份中通行、驻扎的权利。",
         "stage": 5
     },
     {
@@ -632,7 +632,7 @@
     {
         "key": "DIPIRO_FLEETACCESS:0",
         "original": "$WHO|Y$ gives fleet access to $NAME|Y$.\\nThis allows $NAME_ADJ|Y$ ships to enter $WHO_ADJ|Y$ ports and repair.",
-        "translation": "$WHO|Y$ 给予$NAME|Y$舰队通行权.\\n这赋予$NAME_ADJ|Y$在$WHO_ADJ|Y$港口中进行舰船维修的权利.",
+        "translation": "$WHO|Y$给予$NAME|Y$舰队通行权。\\n这赋予$NAME_ADJ|Y$在$WHO_ADJ|Y$港口中进行舰船维修的权利。",
         "stage": 5
     },
     {
@@ -1190,7 +1190,7 @@
     {
         "key": "CANCEL_TRANSFER_TRADE_POWERDESC:0",
         "original": "Cancel the Transfer Trade Power relation.",
-        "translation": "取消转让贸易竞争力给我们的关系。",
+        "translation": "取消转让贸易竞争力的关系。",
         "stage": 1
     },
     {
@@ -2018,8 +2018,8 @@
     {
         "key": "CANT_TRANSFER_TRADE_POWER_SUBJECT_TYPE:0",
         "original": "A $SUBJECTTYPE$ can only Transfer Trade Power to its Overlord.",
-        "translation": "一个 $SUBJECTTYPE$ 只能将贸易竞争力转移给它的宗主国",
-        "stage": 5
+        "translation": "一个$SUBJECTTYPE$只能将贸易竞争力转移给它的宗主国。",
+        "stage": 1
     },
     {
         "key": "CANT_TRANSFER_TRADE_POWER_PROTECTORATE:0",
@@ -2336,8 +2336,8 @@
     {
         "key": "war_goal_superiority_desc:1",
         "original": "War goal is to show superiority. Get bonus war score from winning battles. Over §Y$THRESHOLD$%§! of war score from battles will give you a ticking war score.",
-        "translation": "战争目标是展现霸权.战役胜利将带来额外战争得分.赢得§Y$THRESHOLD$%§! 以上的战役将给你带来大量的战争得分.",
-        "stage": 5
+        "translation": "战争目标是展现霸权。战役胜利将带来额外战争得分。赢得§Y$THRESHOLD$%§!以上的战役将给你带来大量的战争得分。",
+        "stage": 1
     },
     {
         "key": "war_goal_region:0",
@@ -2372,8 +2372,8 @@
     {
         "key": "superiority_loan_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
-        "stage": 5
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "stage": 1
     },
     {
         "key": "superiority_spy:0",
@@ -2384,7 +2384,7 @@
     {
         "key": "superiority_spy_desc:0",
         "original": "War goal is to show these spies superiority by winning battles.",
-        "translation": "以赢得战役的方式，对这些间谍展现霸权",
+        "translation": "以赢得战役的方式，对这些间谍展现霸权、",
         "stage": 1
     },
     {
@@ -2456,8 +2456,8 @@
     {
         "key": "superiority_insult_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
-        "stage": 5
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "stage": 1
     },
     {
         "key": "superiority_insult_mutual:0",
@@ -2468,8 +2468,8 @@
     {
         "key": "superiority_insult_mutual_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
-        "stage": 5
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "stage": 1
     },
     {
         "key": "take_capital_personal_union:0",
@@ -2696,8 +2696,8 @@
     {
         "key": "superiority_crusade_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
-        "stage": 5
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "stage": 1
     },
     {
         "key": "take_province_religion:0",
@@ -2715,19 +2715,19 @@
         "key": "superiority_heretic:0",
         "original": "Show them superiority",
         "translation": "向他们展现霸权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "superiority_heretic_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
         "stage": 1
     },
     {
         "key": "superiority_trade:0",
         "original": "Show them superiority",
         "translation": "向他们展现霸权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "superiority_trade_desc:0",
@@ -2739,7 +2739,7 @@
         "key": "superiority_trade_mutual:0",
         "original": "Show them superiority",
         "translation": "向他们展现霸权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "superiority_trade_mutual_desc:0",
@@ -2792,20 +2792,20 @@
     {
         "key": "superiority_punitive_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
         "stage": 1
     },
     {
         "key": "superiority_primitives:0",
         "original": "Show them superiority",
         "translation": "向他们展现霸权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "superiority_primitives_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
-        "stage": 1
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "stage": 5
     },
     {
         "key": "superiority_overseas:0",
@@ -2864,8 +2864,8 @@
     {
         "key": "superiority_horde_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成.",
-        "stage": 5
+        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "stage": 1
     },
     {
         "key": "take_province_tribal_feud:0",
@@ -2996,7 +2996,7 @@
     {
         "key": "PEACEOFFER_INFLATION:0",
         "original": "Will result in $INFLATION$ inflation for $ACTIVE$.",
-        "translation": "会因为$ACTIVE$产生$INFLATION$通胀。",
+        "translation": "将导致$ACTIVE$产生$INFLATION$通胀。",
         "stage": 1
     },
     {
@@ -3188,7 +3188,7 @@
     {
         "key": "CV_DIPLOMACY_WARSCORE_TITLE:0",
         "original": "$SIDE$ against §Y$WHO$§! in the '§Y$WAR$§!'.",
-        "translation": "「§Y$WAR$§!」中的$SIDE$，对 §Y$WHO$§!。",
+        "translation": "在「§Y$WAR$§!」中作为$SIDE$对抗 §Y$WHO$§!。",
         "stage": 1
     },
     {
@@ -3884,8 +3884,8 @@
     {
         "key": "CALL_CHECKBOX_CANNOT_CALL_DESC:0",
         "original": "§RYou cannot call an ally that would refuse your call to arms.§!",
-        "translation": "§R你不能召唤会拒绝你的国家参战.§!",
-        "stage": 5
+        "translation": "§R你不能召唤会拒绝你的国家参战。§!",
+        "stage": 1
     },
     {
         "key": "CALL_CHECKBOX_ALLIED_TO_ENEMY:0",
@@ -4316,7 +4316,7 @@
     {
         "key": "GRANTELECTORATEDESC:0",
         "original": "Granting electorate allows them to vote on who should be the emperor in the Empire.",
-        "translation": "选帝侯身份将给予其选举皇帝的权利",
+        "translation": "选帝侯身份将给予其选举皇帝的权利。",
         "stage": 5
     },
     {
@@ -5325,6 +5325,12 @@
         "key": "GRANTFREECITYREQDESC_REFORM:0",
         "original": "\\n§RIf we accept, our currently enacted Tier 1 Government Reform $CURRENT|Y$ will be abolished.§!",
         "translation": "\\n§R如果我们接受，我们目前实行的1级政府改革$CURRENT|Y$将被废除。§!",
+        "stage": 1
+    },
+    {
+        "key": "FABRICATE_CLAIM_FOR_VASSAL_SELECT_DESC:0",
+        "original": "Fabricate Claim will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give $SUBJECT|Y$ a claim on §Y$PROV$§W. The claim will last for $YEARS|Y$ years.",
+        "translation": "伪造宣称将使我们在$ADJ|Y$的间谍网规模减少 $COST|R$，同时我们的属国$SUBJECT|Y$将获得对§Y$PROV$§W的宣称。该宣称将持续 $YEARS|Y$ 年。",
         "stage": 1
     }
 ]

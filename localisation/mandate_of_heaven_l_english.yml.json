@@ -9,7 +9,7 @@
         "key": "INCREASE_THEIR_LD:0",
         "original": "\\n\\nThis will also increase their §YLiberty Desire§! with §R$LD$%§!.",
         "translation": "\\n\\n这将会使他们的§Y独立倾向§!提高§R$LD$%§!。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "THEY_GET:0",
@@ -398,7 +398,7 @@
     {
         "key": "desc_tributary_smuggling_ring_subject:0",
         "original": "The products of our artisans are so sought after that a small network has been formed to supply the buyers in our overlord country with them. This is not strictly legal and much of the profit is undoubtedly siphoned off by various corrupt officials on the way, but it's still a major boon to the economy of our country.",
-        "translation": "我国的手工艺品是如此地受欢迎以至于形成了一个专门供应我们宗主国的小网络。严格来说这并不太合法，因而利润的很大一部分都毫无疑问地被不同级别的腐败官员榨取了，但这仍然是我国经济的一次大繁荣。",
+        "translation": "我国的手工艺品是炙手可热，一个专门供应我们宗主国的小网络已经形成。严格来说这并不太合法，因而利润的很大一部分都毫无疑问地被不同级别的腐败官员榨取了，但这仍然是我国经济的一次大繁荣。",
         "stage": 1
     },
     {
@@ -2103,79 +2103,79 @@
         "key": "incident_urbanization_title:0",
         "original": "Urbanization",
         "translation": "城市化",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "incident_urbanization_desc:0",
         "original": "Society is changing quickly as more and more people migrate from the countryside to the great Castle Cities of the country. The power of the ancient trade guilds is on the rise and landowners are complaining that farmers do not stay in their plots.",
         "translation": "社会正在迅速演变，越来越多的人从乡村迁移到国内的大城市。传统商会的力量正在崛起，而地主对农民外出不务农事抱有怨言。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CONFIRM_HARMONIZATION:0",
         "original": "Confirm Harmonization",
         "translation": "批准宗教融合",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CONFIRM_CANCEL_MISSIONARIES_DESC:0",
         "original": "This will cause Missionaries to stop working in the following provinces:\\n§Y$PROVS$§!.\\n",
-        "translation": "这将导致传教士将停止在下述省份的传教活动:\\n§Y$PROVS$§!.\\n",
-        "stage": 1
+        "translation": "这将导致传教士将停止在下述省份的传教活动：\\n§Y$PROVS$§!.\\n",
+        "stage": 5
     },
     {
         "key": "CONFIRM_HARMONIZATION_DESC:2",
         "original": "While Harmonizing, Harmony will decrease with $HARMONY|R$ per year.\\n Harmonization will be finished in $MONTH_YEAR|Y$.",
-        "translation": "和谐化过程中，和谐度每年将减少$HARMONY|R$。\\n和谐化将在$MONTH_YEAR|Y$后完成。",
+        "translation": "融合过程中，和谐度每年将减少$HARMONY|R$。\\n融合将在$MONTH_YEAR|Y$完成。",
         "stage": 1
     },
     {
         "key": "CANCEL_HARMONIZATION_DESC:0",
         "original": "If you cancel, you will lose all Harmonization progress (currently $PROGRESS|%|Y|0$).",
         "translation": "如果取消，将会失去所有的融合进程 ( 当前为 $PROGRESS|%|Y|0$ )。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "REFUSED_CALL_LIBERTY_DESIRE:0",
         "original": "If we decline, $SUBJECT$'s Liberty Desire will increase with §R$VAL$§!.",
         "translation": "如果拒绝，$SUBJECT$的独立倾向将提高§R$VAL$§!。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "overlord_refused_call:0",
         "original": "Overlord refused to join war",
         "translation": "宗主国拒绝参战",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "RELIGIOUS_GROUP:0",
         "original": "$NAME$ Group",
-        "translation": "$NAME$ 组",
-        "stage": 1
+        "translation": "$NAME$组",
+        "stage": 5
     },
     {
         "key": "THE_RELIGIOUS_GROUP:0",
         "original": "the §Y$NAME$§! Religion Group",
-        "translation": " §Y$NAME$§! 宗教组",
-        "stage": 1
+        "translation": "§Y$NAME$§!宗教组",
+        "stage": 5
     },
     {
         "key": "WHEN_HARMONIZED:1",
         "original": "When harmonized:",
-        "translation": "融合结束：",
+        "translation": "融合结束时：",
         "stage": 1
     },
     {
         "key": "WHEN_HARMONIZED_LONG:1",
         "original": "When harmonized, Provinces with $HARMONIZED$ will be tolerated as if they were §Y$OUR$§! and you will get the following:",
-        "translation": "融合结束后，信仰 $HARMONIZED$ 的省份将与信仰§Y$OUR$§!的省份一样被接纳，并且你会获得以下效果：",
-        "stage": 1
+        "translation": "融合结束后，信仰 $HARMONIZED$的省份将与信仰§Y$OUR$§!的省份一样被接纳，并且你会获得以下效果：",
+        "stage": 5
     },
     {
         "key": "HARMONIZE_NOT_ENOUGH_DEVELOPMENT:0",
         "original": "\\n§RNot enough Development:§!\\nYou need at least $MIN|Y$ total Development in provinces with this Religion to start Harmonization (Currently $CURVAL|Y$).",
-        "translation": "\\n§R发展度不足：§!\\n你需要至少 $MIN|Y$ 总发展度，以在信奉此宗教的省份中开始宗教融合 (当前为 $CURVAL|Y$)。",
-        "stage": 1
+        "translation": "\\n§R发展度不足：§!\\n你需要至少$MIN|Y$总发展度，以在信奉此宗教的省份中开始宗教融合（当前为$CURVAL|Y$）。",
+        "stage": 5
     },
     {
         "key": "HARMONIZE_GROUP_NOT_ENOUGH_DEVELOPMENT:0",
@@ -2361,12 +2361,12 @@
         "key": "celestial_empire_events.3.t:0",
         "original": "Sinicization",
         "translation": "汉化",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "celestial_empire_events.3.d:0",
         "original": "The [Root.Culture.GetName] people have increasingly come to resent the new Chinese customs we have been introducing throughout our realm, from the court to the lowliest provincial official. Due to this growing distrust of the alien impositions on our old traditions and norms some even openly question our right to rule.",
-        "translation": "从宫廷到贫贱乡野的官吏，[Root.Culture.GetName]的人民愈发厌恶起我们新引进国内的中国风俗。由于这种在古老传统上强加外来准则的行为，使得民众中的猜忌日益增长，甚至已有人公开质疑起了我们的统治权。",
+        "translation": "从宫廷到贫贱乡野的官吏，[Root.Culture.GetName]的人民愈发厌恶起我们新引进国内的中国风俗。这种在古老传统上强加外来准则的行为，使得民众中的猜忌日益增长，甚至已有人公开质疑起了我们的统治。",
         "stage": 1
     },
     {
@@ -3903,7 +3903,7 @@
         "key": "shinto_events.31.t:0",
         "original": "Sakoku?",
         "translation": "锁国？",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "shinto_events.31.d:0",

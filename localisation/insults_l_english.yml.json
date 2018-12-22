@@ -51,7 +51,7 @@
         "key": "insult_default9:0",
         "original": "There is a problem most rife with [Root.GetName], and I suspect the cause are the [Root.Culture.GetName].",
         "translation": "[Root.GetName]这个国家全是问题，我怀疑原因是因为你们这些[Root.Culture.GetName]人。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "insult_default10:0",
@@ -63,7 +63,7 @@
         "key": "insult_default11:0",
         "original": "In [From.GetName], '[Root.GetName]' is a word synonymous with manure.",
         "translation": "在[From.GetName]，「[Root.GetName]」跟屎是同义词。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "insult_default12:0",
@@ -75,7 +75,7 @@
         "key": "insult_default13:0",
         "original": "[Root.GetAdjective] culture is something of an oxymoron, don't you think?",
         "translation": "[Root.GetAdjective]文化就是种矛盾修辞，你说是吧？",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "insult_default14:0",
@@ -411,6 +411,42 @@
         "key": "insult_republic_to_monarchy:0",
         "original": "Listen, strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.",
         "translation": "听着，躺在池塘里送上剑的奇怪女人（指湖中剑的典故）并不能成为国家统治权的来源。统治权来自人民，而非某些滑稽的水上仪式。",
+        "stage": 1
+    },
+    {
+        "key": "insult_pirates_1:0",
+        "original": "What did you just say to me, you scallywag? I have sailed the seven seas and have over a hundred confirmed boardings.",
+        "translation": "饭桶！你刚刚跟我说什么？我远航七海，足登百舰。",
+        "stage": 1
+    },
+    {
+        "key": "insult_pirates_2:0",
+        "original": "I will rain grapeshot all over you and you will choke on it. You're sunk, you blackguard.",
+        "translation": "我要用霰弹把你打成筛子，让你被弹丸和鲜血窒息。淹死吧，你这恶棍！",
+        "stage": 1
+    },
+    {
+        "key": "insult_pirates_3:0",
+        "original": "If you keep on drinking rum, the world will soon be quit of a very dirty scoundrel!",
+        "translation": "要是你能一直这样喝朗姆酒，这个世界就能摆脱一个肮脏的恶棍了！",
+        "stage": 1
+    },
+    {
+        "key": "insult_pirates_4:0",
+        "original": "I once owned a dog that was smarter than you",
+        "translation": "我养过一条比你聪明的狗",
+        "stage": 1
+    },
+    {
+        "key": "insult_pirates_5:0",
+        "original": "I give you a choice. You can be gutted, or decapitated!",
+        "translation": "我给你两个选择，被剖腹，或是被斩首！",
+        "stage": 1
+    },
+    {
+        "key": "insult_jungle:0",
+        "original": "It is true, I admit, that [Root.GetName] is of greater extent than [From.GetName]. But you must agree that [From.Monarch.GetName] rules over men, while [Root.GetName] rules only over forests and mosquitoes.",
+        "translation": "这点我得承认，[Root.GetName]的确比[From.GetName]拥有更加广阔的领土。但你也得承认，[From.Monarch.GetName]统治着人类，而[Root.GetName]统治的都是森林和蚊子！",
         "stage": 1
     }
 ]

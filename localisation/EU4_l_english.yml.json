@@ -117,7 +117,7 @@
         "key": "PIETY_LEGALISM_BONUS:1",
         "original": "Our tradition of Legalism is a great advantage. §YEnforcing faithful Adherence§! will move us by $COST|Y$ towards Mysticism but impact corruption by $CORRUPTION$.",
         "translation": "我们的教条主义传统占据了极大的优势。 §Y忠实执行教法§! 会改变 $COST|Y$ 神秘主义，但也会对我们的腐败度产生 $CORRUPTION$ 的影响。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "PIETY_TOO_HI_FOR_MYSTICISM:1",
@@ -408,16 +408,10 @@
         "stage": 5
     },
     {
-        "key": "STAPAT_DO_IT:1",
-        "original": "You can Consecrate Metropolitans in states with 30 Development if all provinces are Orthodox and of an Accepted Culture.\\n\\nConsecrating a Metropolitan in $NAME|Y$ will give us $VAL$ Patriarch Authority, and the following permanent effect:\\n$EFFECT$",
-        "translation": "你可以祝圣一个总发展度达到30、所有省份的文化已被接受且信奉东正教的直属州来建立都主教区。\\n\\n祝圣并建立都主教区$NAME|Y$给予我们$VAL$牧首威望以及以下永久效果：\\n$EFFECT$",
-        "stage": 5
-    },
-    {
         "key": "CONFIRCONSECRATEPATRIARCh:1",
         "original": "Confirm Consecrate Metropolitan",
         "translation": "批准建立祝圣都主教区",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CONFIRCONSECRATEPATRIARCH_TEXT:0",
@@ -627,7 +621,7 @@
         "key": "RUSABIL_NOT_AUTONOMY:0",
         "original": "There is no province that has at least $VAL|Y$ autonomy that can be reduced by '$NAME|Y$'.\\n",
         "translation": "没有任何可以被「$NAME|Y$」降低自治度的省份，需要自治度达到$VAL|Y$的省份。\\n",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "RUSABIL_DO_IT_SUDEBNIK:0",
@@ -645,7 +639,7 @@
         "key": "RUSABIL_DO_IT_OPRI:0",
         "original": "By using $VAL|Y$ gathered power for '$NAME|Y$', we will impact progress for all rebel factions by $CHANGE$.",
         "translation": "使用$VAL|Y$点数选择「$NAME|Y$」将降低境内所有叛军派系$CHANGE$的进度。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "GOV_INTERACT_NO_CAPITAL:0",
@@ -657,7 +651,7 @@
         "key": "RUSABIL_DO_IT_STRELTSY:0",
         "original": "By using $VAL|Y$ gathered power for '$NAME|Y$', we will impact war exhaustion by $CHANGE$ and raise $UNITS|Y$ Streltsy Regiments in our capital. ",
         "translation": "使用$VAL|Y$点数选择「$NAME|Y$」将会使厌战度改变$CHANGE$并在你的首都招募$UNITS|Y$个射击军团。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "RUSABIL_STRELTSY_MODIFIER:0",
@@ -674,8 +668,8 @@
     {
         "key": "NEED_VALUE:0",
         "original": "You need $NEED|Y$ $WHAT|Y$ gathered to '$NAME|Y$' but you have only gathered $AVAILABLE|R$.\\n",
-        "translation": "需要$NEED|Y$$WHAT|Y$点数才能获得「$NAME|Y$」而你只有$AVAILABLE|R$。\\n",
-        "stage": 5
+        "translation": "需要$NEED|Y$$WHAT|Y$点数才能「$NAME|Y$」而你只有$AVAILABLE|R$。\\n",
+        "stage": 1
     },
     {
         "key": "GOV_INTERACTION_COST:0",
@@ -872,8 +866,8 @@
     {
         "key": "invite_minorities:0",
         "original": "Invite Minorities from Abroad",
-        "translation": "邀请国外少数民族",
-        "stage": 5
+        "translation": "邀请国外少数族群",
+        "stage": 1
     },
     {
         "key": "invite_minorities_desc:0",
@@ -884,14 +878,14 @@
     {
         "key": "sanction_holy_war:0",
         "original": "Sanction Holy War",
-        "translation": "解锁圣战",
-        "stage": 5
+        "translation": "圣战制裁",
+        "stage": 1
     },
     {
         "key": "sanction_holy_war_desc:0",
         "original": "This gives us a Claim on all neighboring Provinces currently owned by neutral or enemy heretics or heathens:\\n$LIST$",
-        "translation": "这给予我们对接壤的中立或敌对的异端异教国家一个宣战借口：\\n$LIST$",
-        "stage": 5
+        "translation": "这将给予我国对相邻且被中立或敌对的异端异教国家所拥有的省份的宣称：\\n$LIST$",
+        "stage": 1
     },
     {
         "key": "AND_N_MORE:0",
@@ -1130,8 +1124,8 @@
     {
         "key": "age_of_revolutions_desc:1",
         "original": "The questioning of rights, authority and the world itself during the Enlightenment has led to the rejection of the Ancient Regime. As Absolutism gives way to Revolution kingdoms may have to make place for Republics.",
-        "translation": "在启蒙运动期间对权力，权威，世界本源的质疑导致了对旧制度的摒弃。当专制主义在革命中倒台，王国就要给共和国让位了。",
-        "stage": 5
+        "translation": "在启蒙运动期间对权力，权威，世界本源的质疑导致了对旧制度的摒弃。当专制主义被革命所取代，王国就不得不让位于共和国。",
+        "stage": 1
     },
     {
         "key": "LEDGER_SCORE_AG:0",
@@ -1251,7 +1245,7 @@
         "key": "obj_two_unions:0",
         "original": "Hold Three Thrones",
         "translation": "控制三个王位",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "obj_two_unions_desc:0",
@@ -1872,12 +1866,6 @@
         "stage": 5
     },
     {
-        "key": "ab_siege_blockades:0",
-        "original": "Coastal Barrage",
-        "translation": "近海炮击",
-        "stage": 5
-    },
-    {
         "key": "ab_cavalry_armies:0",
         "original": "Cavalry Armies",
         "translation": "骑兵部队",
@@ -2036,8 +2024,8 @@
     {
         "key": "AGE_ABSOLUTE_RELIGIOUS_CONFLICTS:0",
         "original": "(Enables the Religious Conflicts.)",
-        "translation": "(已经开始宗教冲突。)",
-        "stage": 5
+        "translation": "（开始宗教冲突。）",
+        "stage": 1
     },
     {
         "key": "ALREADY_GOLDEN_ERA:0",
@@ -2349,7 +2337,7 @@
         "key": "CONFIRSTATEEDICT_TEXT:0",
         "original": "Enacting $EDICT|Y$ in $STATE$ will grant $EFFECT$ for at least $DURATION$ months, for an increase in state maintenance by $INCREASE$.\\nAre you sure?",
         "translation": "在$STATE$施行$EDICT|Y$将会获得$EFFECT$，这将会持续至少$DURATION$个月并增加$INCREASE$的直属州维护费。\\n你确定要这么做吗？",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CONFIRRAISEBANNER:0",
@@ -2372,8 +2360,8 @@
     {
         "key": "NO_EDICT:0",
         "original": "No Edict!",
-        "translation": "没有地区法令！",
-        "stage": 5
+        "translation": "废除法令",
+        "stage": 1
     },
     {
         "key": "LEDGER_EDICT:0",
@@ -2463,7 +2451,7 @@
         "key": "edict_feudal_de_jure_law_tooltip:0",
         "original": "Requires '§YFeudal De Jure Law§!' from Age of Discovery.",
         "translation": "需要地理大发现时代的「§Y封建法理法§!」时代能力。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "edict_religion_enforced:0",
@@ -2499,7 +2487,7 @@
         "key": "DEVASTATION_FROM_UNREST:0",
         "original": "Unrest: $VAL$\\n",
         "translation": "叛乱风险：$VAL$\\n",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DEVASTATION_FROM_CONTROL:0",
@@ -2553,7 +2541,7 @@
         "key": "DEVASTATION_CHANGES_MONTHLY:0",
         "original": "Changes monthly by $VAL$ due to:\\n$WHY$",
         "translation": "每月改变$VAL$，原因如下：\\n$WHY$",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DEVASTATION_EFFECTS:0",
@@ -2564,14 +2552,14 @@
     {
         "key": "PROSPERITY_TITLE:0",
         "original": "§YProsperity§!\\nCurrently at §Y$VAL$%§! progress towards prosperity.\\n",
-        "translation": "§Y繁荣度§!\\n当前有 §Y$VAL$%§!的进度可以进入繁荣状态。\\n",
-        "stage": 1
+        "translation": "§Y繁荣度§!\\n当前繁荣进度为§Y$VAL$%§!。\\n",
+        "stage": 5
     },
     {
         "key": "PROSPERITY_MAP_IRO:0",
         "original": "Prosperity: §Y$VAL$%§!",
         "translation": "繁荣度：§Y$VAL$%§!",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "prosperity:0",
@@ -2619,7 +2607,7 @@
         "key": "NO_PROSE_DEV_IN:0",
         "original": " - Devastation in $WHERE$!",
         "translation": " - $WHERE$正在荒废中！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ASSUME_WARLED_NOT_GP:0",
@@ -2649,19 +2637,19 @@
         "key": "CANT_BUILD_SHIPS_WITHOUT_PORTS:0",
         "original": "Can't build any ships without having at least one port.",
         "translation": "你需要至少一个港口来造船。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "PROSP_CHANCE:0",
         "original": "There is a $CHANCE$ chance each month that the progress to prosperity increase by §Y+$INC$§! due to:\\n$WHY$\\n",
         "translation": "此地有$CHANCE$的可能，每月增加 §Y+$INC$§!的繁荣度进度。原因如下：\\n$WHY$\\n",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "PROSP_DECLINE:0",
         "original": "Prosperity Progress declines by §R$DEC$§! each month due to:\\n$WHY$",
         "translation": "每月降低§R$DEC$§!的繁荣度，原因如下：\\n$WHY$",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CUL_BENEFIT_PROV:0",
@@ -2679,7 +2667,7 @@
         "key": "CUL_BENEFIT_COUNTRY:0",
         "original": "When $CUL$ is primary culture, it gives $EFF$ to our country.",
         "translation": "当$CUL$成为我们的主流文化时，将会对我们国家给予$EFF$。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "in_capital_state:0",
@@ -3117,13 +3105,13 @@
         "key": "LEDGER_LOCAL_TRADE_GOODS_BONUS:0",
         "original": " - $EFF$ to the controller.",
         "translation": " - 对于控制者有$EFF$。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "PROV_PRODUCED_GOODS:0",
         "original": "Producing $GOOD|Y$",
         "translation": "生产$GOOD|Y$",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OUR_CURRENT_SCORE:1",
@@ -3134,20 +3122,20 @@
     {
         "key": "MACRO_TEMPLATE_MAINT_COST_TT:0",
         "original": "Maintenance Cost: $VAL|Y$¤",
-        "translation": "维护费花费：$VAL|Y$¤",
-        "stage": 1
+        "translation": "维护费用：$VAL|Y$¤",
+        "stage": 5
     },
     {
         "key": "CVIEW_OVEREXTENSION_AFFECTS:0",
         "original": "§YEffects from our current Overextension:§!",
         "translation": "§Y当前的过度扩张带来影响：§!",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "USE_ANY_IDEAGROUP:0",
         "original": "No limits on Idea Groups",
         "translation": "理念组选择没有限制",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "FE_NO_LIMITS_ON_IDEAS_DESC:0",
@@ -3159,49 +3147,49 @@
         "key": "DISHONORED_PENALTY_UNTIL:0",
         "original": "If we decline, we also gain $EFFECT$ until $WHEN|Y$.",
         "translation": "如果我们拒绝，我们也会获得$EFFECT$持续到$WHEN|Y$。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "HOSTILE_ATTRITION_IN_PROV:0",
         "original": "Hostile Attrition: $VAL$",
         "translation": "敌方损耗：$VAL$",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WOULD_BE_OVEREXTENDED:0",
         "original": "$COUNTRY|Y$ would be §R$AMOUNT$%§! overextended.",
         "translation": "$COUNTRY|Y$将会有§R$AMOUNT$%§!的过度扩张。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "HAS_NO_FRIENDLY_REFORMATION_CENTER:0",
         "original": "Has NO $NAME$ Reformation Centers",
         "translation": "没有$NAME$宗教改革中心",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "HAS_FRIENDLY_REFORMATION_CENTER:0",
         "original": "Has a $NAME$ Reformation Center",
         "translation": "有一个$NAME$宗教改革中心",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "HAS_NO_HOSTILE_REFORMATION_CENTER:0",
         "original": "Has NO hostile Reformation Centers",
         "translation": "没有敌对的宗教改革中心",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "HAS_HOSTILE_REFORMATION_CENTER:0",
         "original": "Has a hostile Reformation Center",
         "translation": "有一个敌对的宗教改革中心",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "EXPENSE_STATE_MAINTENANCE:0",
         "original": "State Maintenance",
         "translation": "直属州维护费",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "EXPENSE_GREAT_POWER:0",
@@ -3531,12 +3519,6 @@
         "key": "NOAB_NO_FORT:0",
         "original": "There is no fort, so there are no walls to barrage.",
         "translation": "该地无要塞，没有城墙可轰击。",
-        "stage": 5
-    },
-    {
-        "key": "NOAB_YOU_ARE_DEFENDING:0",
-        "original": "This is your fort, you can't artillery barrage it.",
-        "translation": "这里是你的要塞，不能使用炮兵轰击。",
         "stage": 5
     },
     {
@@ -5528,13 +5510,13 @@
     {
         "key": "castilian_civil_war.1.t:0",
         "original": "Castilian Civil War",
-        "translation": "卡斯提尔内战",
+        "translation": "卡斯蒂利亚内战",
         "stage": 1
     },
     {
         "key": "castilian_civil_war.1.d:0",
         "original": "During the past century the Castilian nobility have time and time again actively tried to interfere with the succession of the Castilian crown and have not flinched from allying outside powers. A new such battle seems to be brewing and the succession is again in question. The legitimacy of the current heir is being questioned by some leading nobles who would prefer a relative of the King aligned with the Aragonese Crown. Meanwhile the supporters of [Root.Heir.GetName] are making overtures to the Portuguese crown in order to secure the position of their candidate. \\nThings have now spiraled into open conflict and it seems increasingly likely that the faction without royal support will attempt to put their candidate directly on the throne rather than in queue for it. Some parts of the nobility remain undecided yet, and some have chosen to make use of this opportunity to protest against perceived infringement of their old rights in general.",
-        "translation": "在过去的这个世纪里，卡斯提尔的贵族们一直在反复尝试干预王位的继承，甚至不惮联合外部力量。王位再度更替，新的争斗又开始酝酿，继承问题也被再次提起。亲阿拉贡的贵族对现继承人的正统性提出质疑，而[Root.Heir.GetName]的支持者则拉拢了葡萄牙王室以巩固己方的地位。\\n事态已陷入了公开争斗的漩涡，失去王室支持的派系甚至会倾向于直接把己方的继承人捧上王位而非等待继承。一些贵族仍未表态，还有一些则把这次事件看做了巩固自己利益的机会。",
+        "translation": "在过去的这个世纪里，卡斯蒂利亚的贵族们一直在反复尝试干预王位的继承，甚至不惮联合外部力量。王位再度更替，新的争斗又开始酝酿，继承问题也被再次提起。亲阿拉贡的贵族对现继承人的正统性提出质疑，而[Root.Heir.GetName]的支持者则拉拢了葡萄牙王室以巩固己方的地位。\\n事态已陷入了公开争斗的漩涡，失去王室支持的派系甚至会倾向于直接把己方的继承人捧上王位而非等待继承。一些贵族仍未表态，还有一些则把这次事件看做了巩固自己利益的机会。",
         "stage": 1
     },
     {
@@ -5582,7 +5564,7 @@
     {
         "key": "castilian_civil_war.3.d:0",
         "original": "Once again the Castilian crown has seen a disputed succession and it seems the country is now on the brink of civil war. One of the candidates, a niece of [Root.Monarch.GetName], has sent to us for help.",
-        "translation": "卡斯提尔的王权继承再次出现了争议，该国正处于内战的边缘。其中一位候选人：[Root.Monarch.GetName]的侄女，正向我们寻求帮助。",
+        "translation": "卡斯蒂利亚的王位继承再次出现了争议，该国正处于内战的边缘。其中一位候选人：[Root.Monarch.GetName]的侄女，正向我们寻求帮助。",
         "stage": 1
     },
     {
@@ -5594,8 +5576,8 @@
     {
         "key": "castilian_civil_war.3.b:0",
         "original": "Let the Castilians handle their own conflicts.",
-        "translation": "让卡斯提尔人自行解决。",
-        "stage": 1
+        "translation": "让卡斯蒂利亚人自行解决。",
+        "stage": 5
     },
     {
         "key": "castilian_civil_war.4.t:0",
@@ -5630,7 +5612,7 @@
     {
         "key": "castilian_civil_war.5.d:0",
         "original": "Once again the Castilian crown has seen a disputed succession and it seems the country is now on the brink of civil war. One of the candidates has sent to us for help.",
-        "translation": "卡斯提尔的王位继承再次出现了争议，该国正处于内战的边缘。其中一位候选人正向我们寻求帮助。",
+        "translation": "卡斯蒂利亚的王位继承再次出现了争议，该国正处于内战的边缘。其中一位候选人正向我们寻求帮助。",
         "stage": 1
     },
     {
@@ -5642,8 +5624,8 @@
     {
         "key": "castilian_civil_war.5.b:0",
         "original": "Let the Castilians handle their own conflicts.",
-        "translation": "让卡斯提尔人自行解决。",
-        "stage": 1
+        "translation": "让卡斯蒂利亚人自行解决。",
+        "stage": 5
     },
     {
         "key": "castilian_civil_war.6.t:0",
@@ -5678,7 +5660,7 @@
     {
         "key": "castilian_civil_war.7.d:0",
         "original": "Once again the Castilian crown has seen a disputed succession and it seems the country is now on the brink of civil war. One of the candidates has received support from the Aragonese crown, our rival on the other side of the Pyrenees.",
-        "translation": "卡斯提尔的王位继承又一次出现了争议，该国正处于内战的边缘。其中一位候选人受到了来自我们在比利牛斯山脉对面的强敌——阿拉贡王室的帮助。",
+        "translation": "卡斯蒂利亚的王位继承又一次出现了争议，该国正处于内战的边缘。其中一位候选人受到了来自我们在比利牛斯山脉对面的强敌——阿拉贡王室的帮助。",
         "stage": 1
     },
     {
@@ -5720,7 +5702,7 @@
     {
         "key": "castilian_civil_war.100.d:0",
         "original": "With the conclusion of hostilities the Castilian Kingdom is once again at peace internally. In the wake of the conflict the balance of power between Royal power and that of the nobles has shifted, as has our relationship to our neighboring countries.",
-        "translation": "随着战争结束，卡斯提尔王国内部又恢复了和平。 在内乱之后，王室与贵族之间的权力平衡得到了调整，我们与邻国的关系也同样改变了。",
+        "translation": "随着战争结束，卡斯蒂利亚王国内部又恢复了和平。 在内乱之后，王室与贵族之间的权力平衡得到了调整，我们与邻国的关系也同样改变了。",
         "stage": 1
     },
     {
@@ -8481,12 +8463,12 @@
         "key": "feudal_theocracy:0",
         "original": "Feudal Theocracy",
         "translation": "封建神权制",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "feudal_theocracy_desc:0",
         "original": "This state is ruled by a religious leader with the throne passing on within his divinely sanctioned family.",
-        "translation": "这个国家由一位宗教领袖统治，他的王位在他受神灵认可的家族内传递。",
+        "translation": "这个国家的统治者同时兼任宗教领袖，其王位在一个受神灵认可的家族内传递。",
         "stage": 1
     },
     {
@@ -9333,18 +9315,6 @@
         "key": "MERCANTILISM_AT_LEAST_COMP:0",
         "original": "Mercantilism is at least same as mercantilism of $COUNTRYNAME|Y$ ($VAL|Y$ percent). Currently $CURRENTVAL|Y$ percent.",
         "translation": "重商主义至少与$COUNTRYNAME|Y$（百分之$VAL|Y$）相同。目前为百分之$CURRENTVAL|Y$。",
-        "stage": 1
-    },
-    {
-        "key": "CORRUPTION_LESS_THAN:0",
-        "original": "Corruption is less than §Y$VAL$§W percent.\\n",
-        "translation": "腐败度少于百分之§Y$VAL$§W。\\n",
-        "stage": 1
-    },
-    {
-        "key": "CORRUPTION_AT_LEAST:0",
-        "original": "Corruption is at least §Y$VAL$§W percent.\\n",
-        "translation": "腐败度至少百分之§Y$VAL$§W。\\n",
         "stage": 1
     },
     {
@@ -12500,7 +12470,7 @@
     {
         "key": "CV_COMBAT_INFLATION_DIALOG_DESC:0",
         "original": "Spend §Y$POWER_COST$§!£adm to Reduce Inflation.",
-        "translation": "花费§Y$POWER_COST$§!£adm降低通货膨胀。",
+        "translation": "花费 §Y$POWER_COST$§! £adm 降低通货膨胀。",
         "stage": 1
     },
     {
@@ -13916,7 +13886,7 @@
     {
         "key": "DEFENDER_DESC:1",
         "original": "The Defender of the Faith gets Casus Belli to enforce religious unity. This will cost §Y$VALUE$§W¤. After §Y$MONTHS$§W months, countries with more prestige than the current Defender can claim the title. \\nYou'll also lose if you decline a call to war from a country of your faith being attacked by infidels.",
-        "translation": "信仰守护者拥有执行宗教统一的宣战理由。宣称信仰守护者头衔将花费§Y$VALUE$§W¤。§Y$MONTHS$§W个月后，若一个国家的威望比当前守护者更高，则其可以宣称此头衔。\\n若一个国家与你信仰相同，且你拒绝了其遭到异教徒攻击的求援，你也会失去此头衔。",
+        "translation": "信仰守护者拥有执行宗教统一的宣战理由。宣称信仰守护者头衔将花费§Y$VALUE$§W¤。§Y$MONTHS$§W个月后，若一个国家的威望比当前守护者更高，则其可以宣称此头衔。\\n若你拒绝了一个遭到异教徒攻击的同信仰的国家的求援，你也会失去此头衔。",
         "stage": 1
     },
     {
@@ -14684,7 +14654,7 @@
     {
         "key": "CONSTRUCTION_COST:0",
         "original": "Construction Cost",
-        "translation": "建筑花费",
+        "translation": "建造成本",
         "stage": 1
     },
     {
@@ -14810,8 +14780,8 @@
     {
         "key": "CANCELNAVALACCNEWDESC:0",
         "original": "Do you wish to cancel fleet basing rights given to us by $COUNTRY$? Doing so will prevent our fleets from accessing their ports and using them to extend our trading range.",
-        "translation": "你想取消$COUNTRY$给予我们的舰船停泊权？如此一来，我们的舰队将不再能使用他们的港口，也不能以这些港口来拓展贸易范围。",
-        "stage": 1
+        "translation": "你想要取消$COUNTRY$给予我们的舰船停泊权吗？这样做会使我们的舰队无法使用他们的港口，也无法利用这些港口来拓展贸易范围。",
+        "stage": 5
     },
     {
         "key": "REVOKENAVALACCDESC:0",
@@ -14822,14 +14792,14 @@
     {
         "key": "REVOKENAVALACCTITLE:0",
         "original": "Revoke Fleet Basing Right",
-        "translation": "撤销舰队舰船停泊权",
+        "translation": "收回舰船停泊权",
         "stage": 1
     },
     {
         "key": "REVOKENAVALACCNEWDESC:0",
         "original": "Do you wish to revoke fleet basing rights given to $COUNTRY$? Doing so will prevent their fleets from accessing our ports and using our ports to extend our colonial and trading range.",
-        "translation": "你想撤销提供给$COUNTRY$的舰船停泊权么？如此一来，他们的舰队将不能在我们的港口停泊，也不能利用我们的港口来拓展殖民距离和贸易范围。",
-        "stage": 1
+        "translation": "你想收回给予$COUNTRY$的舰船停泊权吗？这样做会使他们的舰队无法使用我们的港口，也无法利用这些港口来拓展贸易范围。",
+        "stage": 5
     },
     {
         "key": "OFFER_NAVALACCNEWDESC:0",
@@ -15542,7 +15512,7 @@
     {
         "key": "OTHER_CULTURES_IN_GROUP:0",
         "original": "Other cultures in the §Y$CULTURE$§W group are:",
-        "translation": "其他属于文化组§Y$CULTURE$§W的文化：",
+        "translation": "其他属于§Y$CULTURE$§W文化组的文化：",
         "stage": 1
     },
     {
@@ -17100,15 +17070,9 @@
         "stage": 1
     },
     {
-        "key": "NUM_OF_OWNED_PROVINCES_WITH:0",
-        "original": " owned provinces",
-        "translation": "拥有省份",
-        "stage": 1
-    },
-    {
         "key": "NUM_OF_OWNED_PROVINCES_WITH_INCLUDING_NON_SOVEREIGN_SUBJECTS:1",
-        "original": " provinces owned by you or your non-tributary subjects",
-        "translation": "省份属于你或者你的非朝贡属国",
+        "original": " provinces owned by you or your non-tributary subjects with",
+        "translation": "个属于你或者你的非朝贡属国的省份",
         "stage": 1
     },
     {
@@ -17366,7 +17330,7 @@
     {
         "key": "AI_BALANCED:0",
         "original": "balanced",
-        "translation": "平衡者",
+        "translation": "平衡型",
         "stage": 1
     },
     {
@@ -17505,61 +17469,61 @@
         "key": "COLONIESMAINTENANCE:0",
         "original": "Colonial Maintenance",
         "translation": "殖民地维护费",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "MISSIONARIESMAINTENANCE:0",
         "original": "Missionaries Maintenance",
         "translation": "传教维护费",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ARMYMAINTENANCE:0",
         "original": "Army Maintenance",
         "translation": "陆军维护费",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "FLEETMAINTENANCE:0",
         "original": "Fleet Maintenance",
         "translation": "海军维护费",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DOMESTIC_GO_BANKRUPT:0",
         "original": "Declare Bankruptcy",
         "translation": "宣布破产",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "VOLUNTEER_BANKRUPT_IN_BANKRUPT:0",
         "original": "You cannot declare a bankruptcy when you are already in one.",
-        "translation": "你无法在已处于破产时宣布破产。",
+        "translation": "你无法在已处于破产状态时宣布破产。",
         "stage": 1
     },
     {
         "key": "VOLUNTEER_BANKRUPT_NO_LOANS:0",
         "original": "Without any loans, there is no reason to declare bankruptcy.",
         "translation": "在没有负债的情况下没有理由宣布破产。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "VOLUNTEER_BANKRUPT:0",
         "original": "Declaring a bankruptcy will wipe our loans, but we will suffer some severe drawbacks.",
         "translation": "宣布破产将抹除我们的债务，但也会造成一些严重后果。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CV_GO_BANKRUPT_TITLE:0",
         "original": "Declare Bankruptcy",
         "translation": "宣布破产",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CV_DEBASE_CURRENCY_CONFIRM_TITLE:0",
         "original": "Debase Currency",
         "translation": "贬值货币",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CV_DEBASE_CURRENCY_CONFIRM_TEXT:1",
@@ -18548,7 +18512,7 @@
     {
         "key": "MATCHMAKING_HOST_SERVER:0",
         "original": "Host Game",
-        "translation": "主控游戏",
+        "translation": "主持游戏",
         "stage": 1
     },
     {
@@ -18560,7 +18524,7 @@
     {
         "key": "MATCHMAKING_SERVERS_SEARCHING:0",
         "original": "Searching for matching servers...",
-        "translation": "搜寻匹配服务器...",
+        "translation": "搜寻匹配的服务器……",
         "stage": 1
     },
     {
@@ -18596,7 +18560,7 @@
     {
         "key": "MATCHMAKING_SERVER_FILTER_SEARCH:0",
         "original": "Search for tags...",
-        "translation": "搜索标签...",
+        "translation": "搜索标签……",
         "stage": 1
     },
     {
@@ -18668,7 +18632,7 @@
     {
         "key": "MATCHMAKING_FILTER_NOTFULL:0",
         "original": "Not full",
-        "translation": "不完整",
+        "translation": "未满",
         "stage": 1
     },
     {
@@ -18704,13 +18668,13 @@
     {
         "key": "MATCHMAKING_FILTER_FRIENDS:0",
         "original": "Friends only",
-        "translation": "只是朋友",
+        "translation": "仅限好友",
         "stage": 1
     },
     {
         "key": "MATCHMAKING_PRIVATE:0",
         "original": "Private",
-        "translation": "隐私",
+        "translation": "私密",
         "stage": 1
     },
     {
@@ -18764,7 +18728,7 @@
     {
         "key": "MATCHMAKING_SERVER_HOST_TITLE:0",
         "original": "Host a server",
-        "translation": "主控一个服务器",
+        "translation": "主持一个服务器",
         "stage": 1
     },
     {
@@ -19400,7 +19364,7 @@
     {
         "key": "HAVE_BEEN_DISCOVERED_BY:0",
         "original": "Have been discovered by ",
-        "translation": "发现了",
+        "translation": "被该国发现：",
         "stage": 1
     },
     {
@@ -19520,7 +19484,7 @@
     {
         "key": "AGGRESSIVE_EXPANSION_PENALTY_DESC:0",
         "original": "Gives §Y'Aggressive expansion'§! relation penalty towards countries interested in §Y'$PROV$'§!",
-        "translation": "获得了§Y'侵略扩张'§! 给予一下国家关系伤害 §Y'$PROV$'§!",
+        "translation": "对§Y$PROV$§!有兴趣的国家会获得§Y侵略扩张§!关系惩罚",
         "stage": 1
     },
     {
@@ -19628,25 +19592,25 @@
     {
         "key": "DETACH_SUBS_OF_TYPE_NO_UNITS:0",
         "original": "There are no units of this type to detach.",
-        "translation": "§R无该类型单位可派遣§!",
+        "translation": "无该类型单位可派遣。",
         "stage": 1
     },
     {
         "key": "DETACH_SUBS_OF_TYPE_ARMY_ON_SEA:0",
         "original": "Can't detach army that is loaded on the transport ships.",
-        "translation": "§R装载进船只中的部队无法派遣§!",
+        "translation": "装载进船只中的部队无法派遣。",
         "stage": 1
     },
     {
         "key": "DETACH_SUBS_OF_TYPE_NAVY_WITH_ARMY:0",
         "original": "Can't detach transport ships that have armies on board.",
-        "translation": "§R无法派遣装载部队的运输船§!",
+        "translation": "无法派遣装载部队的运输船。",
         "stage": 1
     },
     {
         "key": "DETACH_SUBS_OF_TYPE_EMPTY:0",
         "original": "Can't detach units of this type, as it would leave the unit empty.",
-        "translation": "§R不能分离这个类型的部队，因为这将导致这个部队成为空编制.§!",
+        "translation": "不能分离这个类型的部队，因为这将导致这个部队成为空编制。",
         "stage": 1
     },
     {
@@ -20049,12 +20013,6 @@
         "key": "MISSIONARY_END_DATE:3",
         "original": "At this speed, $NAME$ will be fully converted on $DATE|Y$.",
         "translation": "以这一速度，$NAME$将在$DATE|Y$完全转换。",
-        "stage": 1
-    },
-    {
-        "key": "MISSIONARY_SLIDER:0",
-        "original": "Missionary slider: $VAL|1-%$",
-        "translation": "传教士调节：$VAL|1-%$",
         "stage": 1
     },
     {
@@ -20919,25 +20877,25 @@
         "key": "MACRO_NOT_CORE:0",
         "original": "This province is not one of our cores.",
         "translation": "这不是我们的核心省份。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "MACRO_NO_MANPOWER:0",
         "original": "Not enough £icon_manpower£.",
-        "translation": "没有足够的 £icon_manpower£ .",
-        "stage": 1
+        "translation": "没有足够的£icon_manpower£。",
+        "stage": 5
     },
     {
         "key": "MACRO_NO_SAILORS:0",
         "original": "Not enough £icon_sailors£.",
-        "translation": "没有足够的 £icon_sailors£.",
-        "stage": 1
+        "translation": "没有足够的£icon_sailors£。",
+        "stage": 5
     },
     {
         "key": "sailors:0",
         "original": "Sailors",
         "translation": "水手",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "SAILORS:0",
@@ -21278,7 +21236,7 @@
     {
         "key": "NAVAL_UPGRADE_NO_UNITS:0",
         "original": "There are no ships in this fleet that can be upgraded.",
-        "translation": "此舰队中无船只可升级.",
+        "translation": "此舰队中无船只可升级。",
         "stage": 1
     },
     {
@@ -21884,7 +21842,7 @@
     {
         "key": "cb_revoke_electorate:0",
         "original": "Revoke Electorate",
-        "translation": "剥夺选举权",
+        "translation": "剥夺选帝权",
         "stage": 1
     },
     {
@@ -21950,8 +21908,8 @@
     {
         "key": "cb_religious_league_desc:0",
         "original": "We must force the Emperor to recognize our religious rights!",
-        "translation": "我们必须迫使国王承认我们的宗教权利!",
-        "stage": 1
+        "translation": "我们必须迫使皇帝承认我们的宗教权利！",
+        "stage": 5
     },
     {
         "key": "cb_flower_wars:0",
@@ -21962,7 +21920,7 @@
     {
         "key": "cb_flower_wars_desc:0",
         "original": "We must force our neighbors to bend knee, so that we may have a regular supply of human sacrifices to keep the end of the world at bay.",
-        "translation": "我们要迫使邻国向我们下跪，如此我们才能获得一个常规的人祭来源.",
+        "translation": "我们要迫使邻国臣服于我们，如此我们才能获得一个人祭的稳定来源。",
         "stage": 1
     },
     {
@@ -21986,7 +21944,7 @@
     {
         "key": "cb_chinese_unification_desc:0",
         "original": "Unify lands of the Chinese Subcontinent.",
-        "translation": "统一中国全境.",
+        "translation": "统一中国全境。",
         "stage": 1
     },
     {
@@ -22256,7 +22214,7 @@
     {
         "key": "HINTS_ACTIVE:0",
         "original": "Hints Active",
-        "translation": "提示激活",
+        "translation": "启用提示",
         "stage": 1
     },
     {
@@ -22514,13 +22472,13 @@
     {
         "key": "SM_CITYSPRAWL:0",
         "original": "City Sprawl",
-        "translation": "城市延伸",
+        "translation": "城市模型",
         "stage": 1
     },
     {
         "key": "SM_AMBIENT_OBJECTS:0",
         "original": "Ambient Objects",
-        "translation": "对向环境音效",
+        "translation": "环境物体",
         "stage": 1
     },
     {
@@ -22532,19 +22490,19 @@
     {
         "key": "SM_MINIMAP_UNITS:0",
         "original": "Units on Minimap",
-        "translation": "军事单位",
+        "translation": "小地图上显示单位",
         "stage": 1
     },
     {
         "key": "SM_DRAW_TERRAIN_IN_UNCOLONIZED:0",
         "original": "Terrain in Uncolonized",
-        "translation": "地形图",
+        "translation": "未殖民省份地形",
         "stage": 1
     },
     {
         "key": "SM_USE_STATE_BORDERS:0",
         "original": "State Borders",
-        "translation": "国界",
+        "translation": "州界",
         "stage": 1
     },
     {
@@ -22706,7 +22664,7 @@
     {
         "key": "mahican:0",
         "original": "Mahican",
-        "translation": "马西坎",
+        "translation": "莫希干",
         "stage": 1
     },
     {
@@ -23012,7 +22970,7 @@
     {
         "key": "demand_governor_election_desc:0",
         "original": "Demand the right for the locally elected assembly to elect their own [Root.Monarch.GetTitle].",
-        "translation": "要求获得在当地选举 [Root.Monarch.GetTitle] 的权利.",
+        "translation": "要求获得在当地选举[Root.Monarch.GetTitle]的权利。",
         "stage": 1
     },
     {
@@ -23308,18 +23266,6 @@
         "original": "With $MONARCH$ being forced out of office by the revolting factions a new [Root.Monarch.GetTitle] will have to be elected. As the votes are tallied there is an unusual excitement in the air. The three primary candidates are all acutely aware of the events that has transpired these last few days...",
         "translation": "随着$MONARCH$ 派系反对被迫下台，一个新的 [Root.Monarch.GetTitle]将重新被选举。随着投票统计完了之后，空气中弥漫着一种不寻常的兴奋，这三名主要候选人都十分清楚这几天发生的事情...",
         "stage": 1
-    },
-    {
-        "key": "short_colonial_alaska:0",
-        "original": "Alaska",
-        "translation": "阿拉斯加",
-        "stage": 5
-    },
-    {
-        "key": "colonial_alaska:0",
-        "original": "Colonial Alaska",
-        "translation": "阿拉斯加殖民地",
-        "stage": 5
     },
     {
         "key": "short_colonial_canada:0",
@@ -25610,7 +25556,7 @@
     {
         "key": "colonial_nation.EVTNAME321:0",
         "original": "Last of the Mahican",
-        "translation": "最后的莫西干人",
+        "translation": "最后的莫希干人",
         "stage": 1
     },
     {
@@ -25640,7 +25586,7 @@
     {
         "key": "colonial_nation.EVTDESC322:0",
         "original": "News of native assaults on our people along the frontiers have spread across the colony. Reasoning that all natives are somehow allied and cannot in any event be trusted, an angry armed mob has descended on the peaceful remnant of the Mahican living in [Root.GetName]. Only a handful, the very last of their people, remains, and the mob, against whom no one will testify, remains at large...",
-        "translation": "原住民在边境上对我们攻击的消息已经传遍了整个殖民地。意识到所有的原住民之间都有盟约，绝对不能被信任，一队武装暴徒突然袭击了住在[Root.GetName]的平和的莫西干村落。只有少数的人还在那里，那群暴徒干了什么，也没有人能够证明。...",
+        "translation": "原住民在边境上对我们攻击的消息已经传遍了整个殖民地。所有的原住民之间都有盟约，所以他们绝对不能被信任。一队武装暴徒突然袭击了住在[Root.GetName]的平和的莫希干村落，只有少数的人还在那里，那群暴徒干了什么，也没有人能够证明……",
         "stage": 1
     },
     {
@@ -25664,7 +25610,7 @@
     {
         "key": "colonial_nation.EVTDESC323:0",
         "original": "Years ago, we granted our protection to the last remnant of the Mahican tribe. In the years since, disease and war have made further ravages, until at last only one remained - the last of his people. He was a faithful ally, guiding our people in battle and helping our colonists, but the laws of life are harsh, and now he too, has passed on. With him die not only a man, but a people and a way of life.",
-        "translation": "很多年前，我们向莫西干残余部落提供了保护。从那之后，疾病和战争带来了更多的破坏，到现在只剩下最后一个人了。他是我们忠实的盟友，指导我们作战，帮助我们定居。但生命是残酷的，他现在已经过世了。随着他的死亡，一种生活哲学随着这个人，这个部落，一起消失了。",
+        "translation": "很多年前，我们向莫希干残余部落提供了保护。从那之后，疾病和战争带来了更多的破坏，到现在只剩下最后一个人了。他是我们忠实的盟友，指导我们作战，帮助我们定居。但生命是残酷的，他现在已经过世了。随着他的死亡，一种生活哲学随着这个人，这个部落，一起消失了。",
         "stage": 1
     },
     {
@@ -25676,13 +25622,13 @@
     {
         "key": "last_of_the_mahican:0",
         "original": "Last of the Mahican",
-        "translation": "最后的莫西干人",
+        "translation": "最后的莫希干人",
         "stage": 1
     },
     {
         "key": "desc_last_of_the_mahican:0",
         "original": "The last remnants of the Mahican tribe have found refuge in our province.",
-        "translation": "最后的莫西干遗民在我们这里找到了避难所",
+        "translation": "最后的莫希干遗民在我们这里找到了避难所。",
         "stage": 1
     },
     {
@@ -26906,8 +26852,8 @@
     {
         "key": "NAT_FOCUS_NOT_SET_DESC:0",
         "original": "You currently do not have a National Focus set.",
-        "translation": "您现在没有设置国家焦点",
-        "stage": 1
+        "translation": "您现在没有设置国家焦点。",
+        "stage": 5
     },
     {
         "key": "NAT_FOCUS_NOT_DESC:0",
@@ -26996,13 +26942,13 @@
     {
         "key": "MAX_TOLERANCE_HEATHENS:0",
         "original": "Your maximum tolerance towards Heathens is §Y$MAX$§!.",
-        "translation": "您对异教的最大忍耐度是§Y$MAX$§!.",
+        "translation": "你对异教的最大容忍度是§Y$MAX$§!。",
         "stage": 1
     },
     {
         "key": "MAX_TOLERANCE_HERETICS:0",
         "original": "Your maximum tolerance towards Heretics is §Y$MAX$§!.",
-        "translation": "您对异端的最大忍耐度是§Y$MAX$§!.",
+        "translation": "你对异端的最大容忍度是§Y$MAX$§!。",
         "stage": 1
     },
     {
@@ -27512,7 +27458,7 @@
     {
         "key": "UPRISING_PROGRESS_TO_SHORT:0",
         "original": "The uprising progress must be at least $AMOUNT|0$%.",
-        "translation": "起义的进度必须至少达到$AMOUNT|0$%",
+        "translation": "起义的进度必须至少达到$AMOUNT|0$%。",
         "stage": 1
     },
     {
@@ -28154,14 +28100,14 @@
     {
         "key": "PEACE_OFFER_POWER_PROJECTION_POS:0",
         "original": "$TAG$ will gain §G$VAL$§! Power Projection.",
-        "translation": "$TAG$将获得§G$VAL$§!的力量投射",
-        "stage": 1
+        "translation": "$TAG$将获得§G$VAL$§!力量投射。",
+        "stage": 5
     },
     {
         "key": "PEACE_OFFER_POWER_PROJECTION_NEG:0",
         "original": "$TAG$ will lose §R$VAL$§! Power Projection.",
-        "translation": "$TAG$将失去§R$VAL$§!的力量投射。",
-        "stage": 1
+        "translation": "$TAG$将失去§R$VAL$§!力量投射。",
+        "stage": 5
     },
     {
         "key": "PEACE_OFFER_TRIBAL_ALLEGIANCE_POS:0",
@@ -28717,9 +28663,9 @@
     },
     {
         "key": "CAPTURED_SHIPS_DESC:0",
-        "original": "There is a §Y$CHANCE$%§! chance that enemy ships can be captured instead of being sunk.\\nThis chance is based on the fleet's highest ranking Admiral's Maneuver skill.\\nEnemy ships with low morale may also be captured after the battle.",
+        "original": "There is a §Y$CHANCE$%§! chance that enemy ships can be captured instead of being sunk.\\nThis chance is based on your countries ability to capture ships, the fleet's highest ranking Admiral's Maneuver skill and his personality.\\nEnemy ships with low morale may also be captured after the battle.",
         "translation": "敌方舰船有§Y$CHANCE$%§!的几率被俘获而非被击沉。\\n该几率取决于舰队中指挥级别最高的海军将领的机动能力。\\n敌方低士气的舰船也可能在交战结束后被俘获。",
-        "stage": 5
+        "stage": 1
     },
     {
         "key": "NAVAL_ENGAGEMENT_WIDTH:0",
@@ -29252,7 +29198,7 @@
     {
         "key": "RAJPUT_NAME:0",
         "original": "$HOME$'s $NUM$$ORDER$ Rajputs",
-        "translation": "$HOME$第$NUM$$ORDER$拉杰普特兵团",
+        "translation": "$HOME$第$NUM$$ORDER$拉杰普特军团",
         "stage": 1
     },
     {
@@ -29295,12 +29241,6 @@
         "key": "CONFIRMABANDONSTATETEXT:1",
         "original": "By no longer considering $NAME$ as a State, we will no longer be forced to pay $COST|Y$¤ maintenance every month, but their local autonomy in the provinces will increase to a much higher level.\\n\\n§RAll modifiers given by increasing local autonomy will be removed from the provinces.§!",
         "translation": "不再将$NAME$视为直属州，我们不再需要每月支付$COST|Y$¤的维护费，但他们的自治度将会增加到一个很高的水平。\\n\\n§R源自提升自治度的修正效果将从该省移除。§!",
-        "stage": 1
-    },
-    {
-        "key": "NOAB_NOT_LEADING:1",
-        "original": "You cannot order an artillery barrage if you are not in the command of the siege and do not participate as an overlord.",
-        "translation": "当你不是本次围攻的指挥官或其宗主国时，无法炮轰城墙",
         "stage": 1
     },
     {
@@ -29439,7 +29379,7 @@
         "key": "bonaparte_flag.tooltip:0",
         "original": "Ruler is Napoléon Bonaparte",
         "translation": "统治者是拿破仑·波拿巴",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DEFINE_RULER_EFFECT:6",
@@ -29529,12 +29469,12 @@
         "key": "feudal_theocracy_legacy:0",
         "original": "Feudal Theocracy",
         "translation": "封建神权制",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "feudal_theocracy_legacy_desc:0",
         "original": "This state is ruled by a religious leader with the throne passing on within his divinely sanctioned family.",
-        "translation": "这个国家由一位宗教领袖统治，他的王位在他受神灵认可的家族内传递。",
+        "translation": "这个国家的统治者同时兼任宗教领袖，其王位在一个受神灵认可的家族内传递。",
         "stage": 1
     },
     {
@@ -29850,12 +29790,6 @@
         "stage": 5
     },
     {
-        "key": "CV_GO_BANKRUPT_TEXT:2",
-        "original": "By declaring bankruptcy, we will write off all our loans.\\nThis will cause a direct loss of prestige and stability. All hired advisors and mercenaries will also leave our service and any Subsidies to other countries will be canceled.\\nBankruptcy will furthermore set us back throughout our country by stopping all construction progress and causing devastation everywhere.\\nDuring $DURATION|Y$ years we will also suffer the following effects:\\n$EFFECT$\\n\\nAre you sure?",
-        "translation": "宣布破产将清空我们的债务。\\n但同样会失去大量威望、稳定度。已雇的顾问及雇佣兵都会离开，所有对他国的资助会被取消。\\n破产将中止国内所有建设进程，倒退近年来所有建设成果（建筑、核心、文化等），并在全国范围内提升荒废度。\\n在$DURATION|Y$年内我们会受到以下影响：\\n$EFFECT$\\n\\n你确定要这么做吗？",
-        "stage": 5
-    },
-    {
         "key": "DharmaMuslimUnitPackDLC:0",
         "original": "Dharma - Indian Sultanate Pack",
         "translation": "达摩 - 印度苏丹国包",
@@ -29908,5 +29842,137 @@
         "original": "Elect the beloved nephew of [Root.Monarch.GetName].",
         "translation": "选[Root.Monarch.GetName]的爱侄。",
         "stage": 5
+    },
+    {
+        "key": "STAPAT_DO_IT:2",
+        "original": "You can Consecrate Metropolitans in states with at least 30 Development if all provinces are fully cored, Orthodox and of an Accepted Culture.\\n\\nConsecrating a Metropolitan in $NAME|Y$ will give us $VAL$ Patriarch Authority, and the following permanent effect:\\n$EFFECT$",
+        "translation": "你可以祝圣一个总发展度达到 30、所有省份的文化已被接受且信奉东正教的直属州来建立都主教区。\\n\\n祝圣并建立都主教区$NAME|Y$给予我们 $VAL$ 牧首权威以及以下永久效果：\\n$EFFECT$",
+        "stage": 1
+    },
+    {
+        "key": "ab_siege_blockades:1",
+        "original": "Floating Batteries",
+        "translation": "浮动炮台",
+        "stage": 1
+    },
+    {
+        "key": "NOAB_YOU_ARE_DEFENDING:1",
+        "original": "You cannot order a barrage against your own fort.",
+        "translation": "你不可以炮击你自己的要塞。",
+        "stage": 1
+    },
+    {
+        "key": "NOAB_NOT_LEADING:2",
+        "original": "You cannot order a barrage if you are not in command of the siege and do not participate as an overlord.",
+        "translation": "当你不是本次围攻的指挥官或其宗主国时，无法炮轰城墙",
+        "stage": 1
+    },
+    {
+        "key": "NO_NAVAL_BARRAGE_NOT_ENOUGH_CANNONS:0",
+        "original": "You currently have $CANNONS_CURRENT|Y$ and cannot order a Barrage.",
+        "translation": "你目前拥有$CANNONS_CURRENT|Y$所以无法炮轰城墙。",
+        "stage": 1
+    },
+    {
+        "key": "NO_NAVAL_BARRAGE_POINTS:0",
+        "original": "You need $COST|Y$£mil to order an naval barrage, and you only have $CURRENT|Y$.",
+        "translation": "你需要$COST|Y$£mil£来进行海上炮击，而你只有$CURRENT|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "NO_NAVAL_BARRAGE_NO_COAST:0",
+        "original": "You cannot order a naval barrage in a province without a coast.",
+        "translation": "你无法对非沿海省份进行海上炮击。",
+        "stage": 1
+    },
+    {
+        "key": "NO_NAVAL_BARRAGE_NO_NAVIES:0",
+        "original": "You have no navies in adjacent sea provinces to perform a naval barrage.",
+        "translation": "你在相邻的海域没有舰队，因此无法进行海上炮击。",
+        "stage": 1
+    },
+    {
+        "key": "NAVAL_BARRAGE_CANNON_REQ:0",
+        "original": "You need at least §Y100§! cannons for each fort level to order a Naval Barrage. You need at least $CANNONS_NEEDED|Y$ to order a Barrage on this fort.",
+        "translation": "对于每一级要塞，你需要至少§Y100§!门火炮来进行海上炮击。你需要至少$CANNONS_NEEDED|Y$门火炮来对这座要塞进行海上炮击。",
+        "stage": 1
+    },
+    {
+        "key": "ORDER_NAVAL_BARRAGE_COST:0",
+        "original": "Ordering a naval barrage will create a breach for a cost of $COST|Y$£mil .",
+        "translation": "进行海上炮击将制造城墙裂口，花费$COST|Y$£mil£。",
+        "stage": 1
+    },
+    {
+        "key": "IDEA_NOT_ALLOWED:0",
+        "original": "§RNot allowed§!",
+        "translation": "§R禁止§!",
+        "stage": 1
+    },
+    {
+        "key": "CORRUPTION_LESS_THAN:1",
+        "original": "Corruption is less than §Y$VAL$%§W.\\n",
+        "translation": "腐败度低于§Y$VAL$％§W。\\n",
+        "stage": 1
+    },
+    {
+        "key": "CORRUPTION_AT_LEAST:1",
+        "original": "Corruption is at least §Y$VAL$%§W.\\n",
+        "translation": "腐败值至少§Y$VAL$§W。\\n",
+        "stage": 1
+    },
+    {
+        "key": "NUM_OF_OWNED_PROVINCES_WITH:1",
+        "original": " owned provinces with",
+        "translation": "个拥有的省份",
+        "stage": 1
+    },
+    {
+        "key": "NUM_OF_OWNED_STATES_WITH:0",
+        "original": " states owned with",
+        "translation": "个拥有的直属州",
+        "stage": 1
+    },
+    {
+        "key": "NUM_OF_OWNED_STATES_WITH_INCLUDING_NON_SOVEREIGN_SUBJECTS:0",
+        "original": " states owned by you or your non-tributary subjects with",
+        "translation": "个属于你或你的非朝贡属国的直属州",
+        "stage": 1
+    },
+    {
+        "key": "CV_GO_BANKRUPT_TEXT:3",
+        "original": "By declaring bankruptcy, we will write off all our loans.\\nThis will cause a direct loss of prestige and stability. All hired advisors and mercenaries will also leave our service and any Subsidies to other countries will be canceled.\\nBankruptcy will furthermore set us back throughout our country by stopping all construction progress and causing devastation everywhere.\\nDuring $DURATION|Y$ years we will also suffer the following effects:\\n$EFFECT$\\nAll your Centers of Trade will be §Rdowngraded§!\\nAll your Trade Company Investments will be §Rlost§!\\n\\nAre you sure?",
+        "translation": "宣布破产将清空我们的债务。\\n这同样会失去大量威望、稳定度。已雇的顾问及雇佣兵都会离开，所有对他国的资助会被取消。\\n破产将中止国内所有建设进程，倒退近年来所有建设成果（建筑、核心、文化等），并在全国范围内造成荒废。\\n在 $DURATION|Y$ 年内我们会受到以下影响：\\n$EFFECT$\\n你所有的贸易中心将§R降级§!\\n你将§R失去§!在贸易公司的所有投资\\n\\n你确定要这么做吗？",
+        "stage": 1
+    },
+    {
+        "key": "MISSIONARY_MULTIPLIER:0",
+        "original": "\\nThe speed is modified multiplicatively by:\\n",
+        "translation": "\\n传教速度受以下倍数修正：\\n",
+        "stage": 1
+    },
+    {
+        "key": "MISSIONARY_SLIDER:2",
+        "original": "This Month's Missionary Maintenance: §R-§!$VAL|R%$",
+        "translation": "月度传教维护费：§R-§!$VAL|R%$",
+        "stage": 1
+    },
+    {
+        "key": "short_colonial_alaska:1",
+        "original": "Cascadia",
+        "translation": "卡斯卡迪亚",
+        "stage": 1
+    },
+    {
+        "key": "colonial_alaska:1",
+        "original": "Colonial Cascadia",
+        "translation": "卡斯卡迪亚殖民地",
+        "stage": 1
+    },
+    {
+        "key": "GoldenCenturyDLC:0",
+        "original": "Golden Century",
+        "translation": "黄金世纪",
+        "stage": 1
     }
 ]

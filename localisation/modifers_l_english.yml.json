@@ -15,7 +15,7 @@
         "key": "MODIFIER_WARSCORE_COST_VS_OTHER_RELIGION:1",
         "original": "War Score Cost vs Other Religions",
         "translation": "对异教战争分数花费",
-        "stage": 5
+        "stage": 2
     },
     {
         "key": "MODIFIER_MERCENARY_DISCIPLINE:0",
@@ -122,7 +122,7 @@
     {
         "key": "MODIFIER_RIVAL_BORDER_FORT_MAINTENANCE:0",
         "original": "Fort Maintenance on border with rival",
-        "translation": "维护位于与宿敌边界上的堡垒",
+        "translation": "与宿敌接壤的要塞维护费",
         "stage": 5
     },
     {
@@ -224,7 +224,7 @@
     {
         "key": "HOSTILE_ATTRITION:0",
         "original": "Attrition for Enemies",
-        "translation": "敌人的损耗",
+        "translation": "敌军损耗",
         "stage": 5
     },
     {
@@ -411,12 +411,6 @@
         "key": "MODIFIER_LOCAL_AMOUNT_OF_BANNERS:0",
         "original": "Possible Manchu Banners",
         "translation": "可招募八旗兵",
-        "stage": 5
-    },
-    {
-        "key": "MODIFIER_HAS_BANNERS:0",
-        "original": "'§YAllows Manchu Banners§!'",
-        "translation": "'§Y允许招募八旗兵§!'",
         "stage": 5
     },
     {
@@ -2834,7 +2828,7 @@
     {
         "key": "pap_moderate_inquisition:0",
         "original": "Moderate Holy Inquisition",
-        "translation": "温和宗教法庭",
+        "translation": "温和的宗教裁判所",
         "stage": 1
     },
     {
@@ -3008,7 +3002,7 @@
     {
         "key": "desc_pious_ruler:0",
         "original": "A pious ruler will surely be rewarded in the afterlife.",
-        "translation": "虔诚的统治者来世一定会得到回报的",
+        "translation": "虔诚的统治者来世一定会得到回报的。",
         "stage": 1
     },
     {
@@ -3020,7 +3014,7 @@
     {
         "key": "desc_archery_muskets:0",
         "original": "Archery will serve a primary role in your armies.",
-        "translation": "弓箭手在你的军队里扮演着极其重要的角色",
+        "translation": "弓箭手在你的军队里扮演着极其重要的角色。",
         "stage": 1
     },
     {
@@ -3032,7 +3026,7 @@
     {
         "key": "desc_gaps_blockade:0",
         "original": "A privateer has managed to get essential supplies through the blockades to your country, demanding hefty sums for his help.",
-        "translation": "一名私掠者设法突破封锁为你的国家带来了必需补给品，他要求获得巨额的补助",
+        "translation": "一名私掠者设法突破封锁为你的国家带来了必需补给品，他要求获得巨额的补助。",
         "stage": 1
     },
     {
@@ -3044,7 +3038,7 @@
     {
         "key": "desc_merchants_gaps_blockade:0",
         "original": "The merchants grumble but obligingly pay the hefty sums demanded by a privateer who managed to get essential supplies through the blockades to your country.",
-        "translation": "商人一边抱怨一边乖乖的将一大笔钱付给了一名设法突破封锁将必需品带到你国家的私掠者",
+        "translation": "商人一边抱怨一边乖乖的将一大笔钱付给了一名设法突破封锁将必需品带到你国家的私掠者。",
         "stage": 1
     },
     {
@@ -3056,7 +3050,7 @@
     {
         "key": "desc_organised_colony:0",
         "original": "Roman fever has struck your colony, but an energetic leader has managed to reduce the devastating force of the illness.",
-        "translation": "罗马热症袭击了你的殖民地，但是一名富有活力的领导设法将疾病的毁灭性力量降低了",
+        "translation": "罗马热症袭击了你的殖民地，但是一名富有活力的领导设法将疾病的毁灭性力量降低了。",
         "stage": 1
     },
     {
@@ -3068,7 +3062,7 @@
     {
         "key": "desc_quarantine_colony:0",
         "original": "The colony has been quarantined to stop the spreading of Roman Fever.",
-        "translation": "为了阻止罗马热症的传播，殖民地已经被隔离起来了",
+        "translation": "为了阻止罗马热症的传播，殖民地已经被隔离起来了。",
         "stage": 1
     },
     {
@@ -3080,7 +3074,7 @@
     {
         "key": "desc_roman_fever_colony:0",
         "original": "The devastating illness Roman Fever has struck the colony and more and more colonists fall victim to the disease and die.",
-        "translation": "毁灭性的的疾病罗马热症袭击了殖民地，越来越多的殖民者得病死了",
+        "translation": "毁灭性的的疾病罗马热症袭击了殖民地，越来越多的殖民者得病死了。",
         "stage": 1
     },
     {
@@ -3092,7 +3086,7 @@
     {
         "key": "desc_jesuit_mission:0",
         "original": "Jesuits have established a mission in your colony to Christianize the natives there.",
-        "translation": "耶稣会在你的殖民地建立了一个传教团以使那里的当地人基督教化",
+        "translation": "耶稣会在你的殖民地建立了一个传教团以使那里的当地人基督教化。",
         "stage": 1
     },
     {
@@ -3104,7 +3098,7 @@
     {
         "key": "desc_tur_janissaries_salary:0",
         "original": "The greedy Janissaries demand that the State recompense them for the recent lack of booty.",
-        "translation": "贪婪的禁军要求国家为他们最近的物资缺乏做出补偿",
+        "translation": "贪婪的禁军要求国家为他们最近的物资缺乏做出补偿。",
         "stage": 1
     },
     {
@@ -3122,13 +3116,13 @@
     {
         "key": "peasants_westernization:0",
         "original": "Peasants resist Westernization",
-        "translation": "西方文化",
+        "translation": "农民抵制西化",
         "stage": 1
     },
     {
         "key": "desc_peasants_westernization:0",
         "original": "The peasants are creating havoc over us trying to modernize and make our nation a civilized one.",
-        "translation": "农民们正在制造恐慌阻挠我们进行西化",
+        "translation": "农民们正在制造恐慌阻挠我们进行西化。",
         "stage": 1
     },
     {
@@ -3140,7 +3134,7 @@
     {
         "key": "desc_adopted_heir:0",
         "original": "The peasants are not pleased with the new heir, the child you found in the reeds and adopted.",
-        "translation": "农民们对新的继承者并不满意，就是那个你在芦苇丛中发现并收养的孩子",
+        "translation": "农民们对新的继承者并不满意，就是那个你在芦苇丛中发现并收养的孩子。",
         "stage": 1
     },
     {
@@ -3152,7 +3146,7 @@
     {
         "key": "supported_independence:0",
         "original": "Supported our Independence",
-        "translation": "已保证我们的独立.",
+        "translation": "已保证我们的独立",
         "stage": 1
     },
     {
@@ -3200,7 +3194,7 @@
     {
         "key": "desc_cerro_rico_modifier:0",
         "original": "The 'Rich Mountain' or Great Silver mountain of Potosí is the site of one of the richest Silver mines in the world. Between 1575 and 1600 this mine alone accounted for half of the silver mined in the Americas.",
-        "translation": "波托西的银矿山，富饶山，是世界上最富饶的银矿之一。在1575年到1600年之间，该矿山产出了全美洲一半的银矿石。",
+        "translation": "波托西的银矿山——富饶山，是世界上最富饶的银矿之一。在1575年到1600年之间，该矿山产出了全美洲一半的银矿石。",
         "stage": 1
     },
     {
@@ -5630,7 +5624,7 @@
     {
         "key": "jap_sword_of_the_daimyo:0",
         "original": "Sword of the Daimyo",
-        "translation": "大名之剑",
+        "translation": "大名的刀剑",
         "stage": 1
     },
     {
@@ -6380,7 +6374,7 @@
     {
         "key": "support_for_ruler:0",
         "original": "Local Support for Ruler",
-        "translation": "本地对君主的支持",
+        "translation": "本地支持统治者",
         "stage": 1
     },
     {
@@ -6506,7 +6500,7 @@
     {
         "key": "desc_heathen_ruler_religious_tensions:0",
         "original": "The [Root.GetAreaName] area has seen a sharp increase in religious unrest and violence related to the the open patronization of a heathen faith in the country's capital.",
-        "translation": "由于首都的异教徒信仰受到庇护， [Root.GetAreaName] 地区的宗教骚乱和暴力冲突显著恶化。",
+        "translation": "由于首都的异教徒信仰受到庇护， [Root.GetAreaName]地区的宗教骚乱和暴力冲突显著恶化。",
         "stage": 1
     },
     {
@@ -6621,13 +6615,13 @@
         "key": "rise_of_the_ayyubids:0",
         "original": "Rise of the Eagle",
         "translation": "雄鹰崛起",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "desc_rise_of_the_ayyubids:0",
         "original": "We have reclaimed part of Salladins Legacy, restoring the lands that our dynasty once lost.",
         "translation": "我们重现了萨拉丁传奇的一部分，夺回了一度属于我们王朝的领土。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "guru_granth_sahib_military:0",
@@ -7454,7 +7448,7 @@
     {
         "key": "MODIFIER_OWN_COAST_NAVAL_COMBAT_BONUS:0",
         "original": "Naval Combat Bonus off owned coast",
-        "translation": "离岸的海军战斗奖励",
+        "translation": "离岸海军战斗奖励",
         "stage": 1
     },
     {
@@ -8276,7 +8270,7 @@
     {
         "key": "beyond_the_pale_modifier:0",
         "original": "Beyond the Pale",
-        "translation": "帕莱之外",
+        "translation": "打破藩篱",
         "stage": 1
     },
     {
@@ -10490,7 +10484,7 @@
     {
         "key": "hin_rajput_integration:0",
         "original": "Integration of the Rajputs",
-        "translation": "拉吉普特人的整合",
+        "translation": "拉杰普特人的整合",
         "stage": 1
     },
     {
@@ -10550,13 +10544,13 @@
     {
         "key": "chakravarti:0",
         "original": "Chakravarti",
-        "translation": "查克拉瓦蒂",
+        "translation": "转轮圣王",
         "stage": 1
     },
     {
         "key": "desc_chakravarti:0",
         "original": "Our monarch has claimed the name Chakravarti, meaning Universal Ruler. All the peoples of South-East Asia recognize our rule.",
-        "translation": "我们的君主已经宣称拥有查克拉瓦提的头衔，也就是万能的统治者。所有东南亚的人民都将听从我们的统治。",
+        "translation": "我们的君主已经宣称自己为转轮圣王，也就是普世统治者。所有东南亚的人民都将听从我们的统治。",
         "stage": 1
     },
     {
@@ -10778,7 +10772,7 @@
     {
         "key": "subah_of_ayuddhya_modifier:0",
         "original": "Subah of Ayuddhya",
-        "translation": "阿育他耶苏巴",
+        "translation": "阿瑜陀耶苏巴",
         "stage": 1
     },
     {
@@ -12336,12 +12330,6 @@
         "stage": 1
     },
     {
-        "key": "desc_dregatori_modifier:0",
-        "original": "Hereditary nobility have been replaced by loyal and competent governors.",
-        "translation": "我们用忠诚而有能力的官员替换了世袭贵族。",
-        "stage": 1
-    },
-    {
         "key": "restored_ruthenia:0",
         "original": "Restored Ruthenia",
         "translation": "恢复鲁塞尼亚",
@@ -12397,7 +12385,7 @@
     },
     {
         "key": "desc_integrating_the_steppe_peoples:0",
-        "original": "There are many tribes that roam the steppes, each with their oown customs and traditions. We must learn their ways so that they will be more willing to commit soldiers to our growing horde.",
+        "original": "There are many tribes that roam the steppes, each with their own customs and traditions. We must learn their ways so that they will be more willing to commit soldiers to our growing horde.",
         "translation": "很多民族在草原上游荡，每一个都有着不同的文化和传统。我们需要学习他们的生活方式，这样他们会更加愿意为我们茁壮发展的部落贡献士兵。",
         "stage": 1
     },
@@ -12549,6 +12537,1284 @@
         "key": "territory_non_core:0",
         "original": "Territory",
         "translation": "自治领地",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_HAS_BANNERS:1",
+        "original": "Allows Banners",
+        "translation": "允许招募八旗",
+        "stage": 1
+    },
+    {
+        "key": "desc_dregatori_modifier:1",
+        "original": "The hereditary nobility have been replaced by loyal and competent governors.",
+        "translation": "我们用忠诚而有能力的官员替换了世袭贵族。",
+        "stage": 1
+    },
+    {
+        "key": "territory:0",
+        "original": "Territory",
+        "translation": "领地",
+        "stage": 1
+    },
+    {
+        "key": "mor_saharan_trade:0",
+        "original": "Saharan Trade",
+        "translation": "撒哈拉贸易",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_saharan_trade:0",
+        "original": "We have established a permanent trade route across the Sahara.",
+        "translation": "我们已经建立了永久的跨撒哈拉商路。",
+        "stage": 1
+    },
+    {
+        "key": "conquest_of_benin_mor:0",
+        "original": "The Conquest of Benin",
+        "translation": "征服贝宁",
+        "stage": 1
+    },
+    {
+        "key": "desc_conquest_of_benin_mor:0",
+        "original": "Our control over the slaver cities of Benin has hardened our rule, teaching us the value of firm governance.",
+        "translation": "我们对贝宁奴隶城的控制强化了我们的统治，也让我们明白了稳定治理的价值。",
+        "stage": 1
+    },
+    {
+        "key": "mor_privateering:0",
+        "original": "Moroccan Privateers",
+        "translation": "摩洛哥私掠者",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_privateering:0",
+        "original": "Our privateers have become skilled at capturing enemy ships in battle.",
+        "translation": "我私掠者善俘敌舰于海。",
+        "stage": 1
+    },
+    {
+        "key": "mor_el_badi_palace:0",
+        "original": "The El Badi Palace",
+        "translation": "巴迪皇宮",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_el_badi_palace:0",
+        "original": "We have built a magnificent palace, paid for by stolen Portuguese coin.",
+        "translation": "我们用偷来的葡萄牙金币建立了一座雄伟的宫殿。",
+        "stage": 1
+    },
+    {
+        "key": "mor_black_guard:0",
+        "original": "The Black Guard",
+        "translation": "黑人卫队",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_black_guard:0",
+        "original": "We have raised an army of African slave-soldiers, utterly loyal to the state.",
+        "translation": "我们已经组建了一支忠于我国的非洲奴隶军队。",
+        "stage": 1
+    },
+    {
+        "key": "mor_conquest_of_kanem:0",
+        "original": "The Conquest of Kanem",
+        "translation": "征服卡奈姆",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_conquest_of_kanem:0",
+        "original": "The Kanem Empire has fallen under our rule. We are learning about their long history of warfare and applying its lessons to our military tactics.",
+        "translation": "卡奈姆帝国已经在我们的掌控之下。我们正在学习他们悠久的战争历史，并将其经验应用于我们的军事战略。",
+        "stage": 1
+    },
+    {
+        "key": "mor_barbary_pirate_coast:0",
+        "original": "The Barbary Coast",
+        "translation": "巴巴里海岸",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_barbary_pirate_coast:0",
+        "original": "Our control over the Barbary Coast attracts hundreds of pirates to our cause.",
+        "translation": "我们对巴巴里海岸的控制吸引了数百名海盗加入我们的事业。",
+        "stage": 1
+    },
+    {
+        "key": "mor_north_sea_corsairs:0",
+        "original": "North Sea Corsairs",
+        "translation": "北海海盗船",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_north_sea_corsairs:0",
+        "original": "To safely raid shipping in the North Sea, we must sail in much larger ships to combat the mighty galleons found in British waters.",
+        "translation": "为了安全地掠夺北海的船只，我们必须乘坐大得多的船只来对付在英国水域出没的强力大帆船。",
+        "stage": 1
+    },
+    {
+        "key": "mor_andalucia:0",
+        "original": "Re-re-conquista",
+        "translation": "再再征服",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_andalucia:0",
+        "original": "We have reclaimed Al-Andalus from the Christians, re-establishing Muslim rule in Iberia.",
+        "translation": "我们已经从基督徒手中夺回了安达卢斯，在伊比利亚重建了穆斯林的统治。",
+        "stage": 1
+    },
+    {
+        "key": "mor_tunis_conquest:0",
+        "original": "The Conquest of Tunis",
+        "translation": "征服突尼斯",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_tunis_conquest:0",
+        "original": "With the conquest of Tunis complete, we have commandeered their ships and captains into our service.",
+        "translation": "随着对突尼斯的完全征服，他们的船只和船长已经被征用来为我们服务。",
+        "stage": 1
+    },
+    {
+        "key": "mor_beyond_the_canaries:0",
+        "original": "Beyond the Canaries",
+        "translation": "越过加那利群岛",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_beyond_the_canaries:0",
+        "original": "The vast ocean beyond the western islands holds great dangers, but also great opportunities for men willing to brave the expanse.",
+        "translation": "西部群岛之外的辽阔海洋隐藏着巨大的危险，但同时也为愿意勇敢面对浩瀚波涛的人们提供了巨大的机会。",
+        "stage": 1
+    },
+    {
+        "key": "mor_colonized_brazil:0",
+        "original": "A Western Colony",
+        "translation": "西部殖民地",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_colonized_brazil:0",
+        "original": "Morocco has established a colony in the southern part of the New World. Its riches inspire many fortune seekers from our homeland to venture west.",
+        "translation": "摩洛哥在新世界南部建立了殖民地。殖民地的财富激励着许多寻求财富的人离开祖国去西部冒险。",
+        "stage": 1
+    },
+    {
+        "key": "mor_new_world_power:0",
+        "original": "New World Power",
+        "translation": "新世界的势力",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_new_world_power:0",
+        "original": "We have become a dominant power in the New World, populating its lands with our people and spreading our faith to its heathen natives.",
+        "translation": "我们已经成为新世界的支配势力，让我们的人民向新世界移民，并将我们的信仰传播给那里的土著异教徒。",
+        "stage": 1
+    },
+    {
+        "key": "spa_plus_ultra:0",
+        "original": "Plus Ultra",
+        "translation": "超越极致",
+        "stage": 1
+    },
+    {
+        "key": "desc_spa_plus_ultra:0",
+        "original": "What lies beyond the Pillars of Hercules? Our brave explorers are about to find out...",
+        "translation": "在海格力斯之柱以外还有什么？我们勇敢的探险家即将去探索……",
+        "stage": 1
+    },
+    {
+        "key": "cuba_plantations:0",
+        "original": "Cuban Plantantions",
+        "translation": "古巴的种植园",
+        "stage": 1
+    },
+    {
+        "key": "desc_cuba_plantations:0",
+        "original": "The plantations of Cuba, worked primarily by native slaves, are experiencing a production boom as a result of our vigorous efforts to exxploit the island's resources.",
+        "translation": "古巴的种植园主要由本地奴隶工作，由于我们积极地开发该岛的资源，这些种植园正在快速发展。",
+        "stage": 1
+    },
+    {
+        "key": "fortified_navarra:0",
+        "original": "Fortified Navarra",
+        "translation": "强化纳瓦拉的防御",
+        "stage": 1
+    },
+    {
+        "key": "desc_fortified_navarra:0",
+        "original": "We have fortified the castles of Navarra against our enemies.",
+        "translation": "我们已经加固了纳瓦拉的城堡以抵御敌人。",
+        "stage": 1
+    },
+    {
+        "key": "viceroyalty_of_new_spain:0",
+        "original": "Viceroyalty of New Spain",
+        "translation": "新西班牙总督区",
+        "stage": 1
+    },
+    {
+        "key": "desc_viceroyalty_of_new_spain:0",
+        "original": "Has heaven reserved, in pity to the poor,\\nNo pathless waste or undiscovered shore,\\nNo secret island in the boundless main,\\nNo peaceful desert yet unclaimed by Spain?",
+        "translation": "贫丁无寸土，可得昊天怜？\\n未至蛮荒内，新行海岸前；\\n蓬莱悬浩瀚，绿草缀沙渊。\\n伊思巴尼亚，寰球日不眠。",
+        "stage": 1
+    },
+    {
+        "key": "spa_native_reductions:0",
+        "original": "Native Reductions",
+        "translation": "同化原住民",
+        "stage": 1
+    },
+    {
+        "key": "desc_spa_native_reductions:0",
+        "original": "Rather than murdering or enslaving the native peoples in the Americas, we should shelter them. And strip them of the last vestiges of their culture while doing so.",
+        "translation": "我们应该保护美洲土著人，而不是杀害或奴役他们。在这样做的同时，把他们的文化的最后一点残余也剥去。",
+        "stage": 1
+    },
+    {
+        "key": "spa_prepared_armada:0",
+        "original": "Prepared Armada",
+        "translation": "建立无敌舰队",
+        "stage": 1
+    },
+    {
+        "key": "desc_spa_prepared_armada:0",
+        "original": "We have prepared a great naval force for our invasion of England.",
+        "translation": "我们建立了一支强大的海军入侵英格兰。",
+        "stage": 1
+    },
+    {
+        "key": "spa_milan:0",
+        "original": "Conquest of Milan",
+        "translation": "征服米兰",
+        "stage": 1
+    },
+    {
+        "key": "desc_spa_milan:0",
+        "original": "We have restored the Iron Crown of Lombardy and added it to our list of titles.",
+        "translation": "我们已经恢复了伦巴第铁王冠，并将其添加到我们的头衔列表中。",
+        "stage": 1
+    },
+    {
+        "key": "spa_new_granada:0",
+        "original": "New Kingdom of Granada",
+        "translation": "新格拉纳达王国",
+        "stage": 1
+    },
+    {
+        "key": "desc_spa_new_granada:0",
+        "original": "The New Kingdom of Granada solidifies our rule over the Spanish Main as both a legal and executive authority.",
+        "translation": "新的格拉纳达王国巩固了我们作为一个法律和行政当局对西班牙大陆的统治。",
+        "stage": 1
+    },
+    {
+        "key": "fortified_florida_modifier:0",
+        "original": "Fortified Florida",
+        "translation": "巩固佛罗里达城防",
+        "stage": 1
+    },
+    {
+        "key": "desc_fortified_florida_modifier:0",
+        "original": "The fortifications we have constructed in the strategic region of Florida will be a bulwark against any power attempting to invade New Spain from the north.",
+        "translation": "我们在佛罗里达地区修建的防御工事将防御任何企图从北部入侵新西班牙的势力。",
+        "stage": 1
+    },
+    {
+        "key": "spanish_imperial_ambition:0",
+        "original": "Imperial Ambition",
+        "translation": "帝国雄心",
+        "stage": 1
+    },
+    {
+        "key": "desc_spanish_imperial_ambition:0",
+        "original": "Spain will be the Emperor!",
+        "translation": "西班牙将成为皇帝！",
+        "stage": 1
+    },
+    {
+        "key": "tun_restoration_of_alexandra:0",
+        "original": "Restored Alexandria",
+        "translation": "修复亚历山大港",
+        "stage": 1
+    },
+    {
+        "key": "desc_tun_restoration_of_alexandra:0",
+        "original": "The city of Alexandria has been restored to its former glory as a major trade hub.",
+        "translation": "亚历山大港作为一个主要的贸易中心已经恢复了昔日的荣光。",
+        "stage": 1
+    },
+    {
+        "key": "tun_berbers_pacified:0",
+        "original": "Pacified the Berbers",
+        "translation": "平定柏柏尔人",
+        "stage": 1
+    },
+    {
+        "key": "desc_tun_berbers_pacified:0",
+        "original": "We have pacified the Berbers of the Maghreb, easing tensions throughout our realm.",
+        "translation": "我们安抚了马格里布的柏柏尔人，缓和了全国的紧张局势。",
+        "stage": 1
+    },
+    {
+        "key": "conquest_of_air:0",
+        "original": "Conquest of Air",
+        "translation": "征服艾尔",
+        "stage": 1
+    },
+    {
+        "key": "desc_conquest_of_air:0",
+        "original": "Our soldiers feel elated following our conquest of the Air kingdom. Their high spirits are helping them march at record pace.",
+        "translation": "我们的士兵征服艾尔后士气高昂，这让他们以前所未有的速度行进。",
+        "stage": 1
+    },
+    {
+        "key": "tun_conquest_of_kanem:0",
+        "original": "Conquest of Kanem Bornu",
+        "translation": "征服卡奈姆-博尔努",
+        "stage": 1
+    },
+    {
+        "key": "desc_tun_conquest_of_kanem:0",
+        "original": "The conquest of Kanem has raised the morale of our armies, and their long military history has begun to inform our tactics.",
+        "translation": "征服卡奈姆使我们士气大增，他们悠久的战争史开始影响我国的战术。",
+        "stage": 1
+    },
+    {
+        "key": "tun_med_conquest:0",
+        "original": "Mediterranean Conquest",
+        "translation": "征服地中海",
+        "stage": 1
+    },
+    {
+        "key": "desc_tun_med_conquest:0",
+        "original": "We have likely angered many great powers through our conquest of the the Mediterranean islands. We are taking steps to improve the quality of our war galleys to prepare for a counter-attack.",
+        "translation": "我们对地中海诸岛的征服或许激怒了许多列强。我们正在采取措施提高战船质量，为即将到来的反击做准备。",
+        "stage": 1
+    },
+    {
+        "key": "tun_med_conquest_east:0",
+        "original": "Mediterranean Dominance",
+        "translation": "地中海霸主",
+        "stage": 1
+    },
+    {
+        "key": "desc_tun_med_conquest_east:0",
+        "original": "Our new naval bases in the eastern islands are proving ideal as hubs for privateering.",
+        "translation": "东部诸岛的新海军基地是我们私掠船的最佳据点。",
+        "stage": 1
+    },
+    {
+        "key": "tun_barbary_pirates:0",
+        "original": "Barbary Corsairs",
+        "translation": "巴巴里海盗",
+        "stage": 1
+    },
+    {
+        "key": "desc_tun_barbary_pirates:0",
+        "original": "Now that we have recruited hundreds of new pirates to our banner, our privateering efforts have been bolstered significantly.",
+        "translation": "现在我国旗下召集了数百海盗，私掠成果大幅提升。",
+        "stage": 1
+    },
+    {
+        "key": "tun_morocco:0",
+        "original": "Conquest of Morocco",
+        "translation": "征服摩洛哥",
+        "stage": 1
+    },
+    {
+        "key": "desc_tun_morocco:0",
+        "original": "We have conquered Morocco, and thus must be prepared to defend ourselves against Spain.",
+        "translation": "我们已征服了摩洛哥，也因此必须准备好保卫自己不受西班牙侵扰。",
+        "stage": 1
+    },
+    {
+        "key": "llotja_de_la_seda:0",
+        "original": "Llotja de la Seda",
+        "translation": "丝绸交易所",
+        "stage": 1
+    },
+    {
+        "key": "desc_llotja_de_la_seda:0",
+        "original": "The Silk Exchange is one of very few places in Europe where a great quantity of silk can be bought and sold.",
+        "translation": "「丝绸交易所」是欧洲少有的一个丝绸大量买卖的场所。",
+        "stage": 1
+    },
+    {
+        "key": "industria_sedera:0",
+        "original": "Industria Sedera",
+        "translation": "巴伦西亚的丝绸工业",
+        "stage": 1
+    },
+    {
+        "key": "desc_industria_sedera:0",
+        "original": "Our nation's industry is thriving following our investment into manufacturing.",
+        "translation": "我国投资生产，工业繁荣。",
+        "stage": 1
+    },
+    {
+        "key": "ara_golden_age:0",
+        "original": "Golden Century",
+        "translation": "黄金世纪",
+        "stage": 1
+    },
+    {
+        "key": "desc_ara_golden_age:0",
+        "original": "We are in the midst of a golden age for our nation.",
+        "translation": "我国正处于黄金时代。",
+        "stage": 1
+    },
+    {
+        "key": "barcelona_guilds:0",
+        "original": "Guilds of Barcelona",
+        "translation": "巴塞罗那行会",
+        "stage": 1
+    },
+    {
+        "key": "desc_barcelona_guilds:0",
+        "original": "We have won the loyalty of the trade guilds of Barcelona.",
+        "translation": "我们获得了巴塞罗那贸易行会的忠诚。",
+        "stage": 1
+    },
+    {
+        "key": "taula_de_canvi:0",
+        "original": "Taula de Canvi",
+        "translation": "巴塞罗那兑换表（市政储蓄银行）",
+        "stage": 1
+    },
+    {
+        "key": "desc_taula_de_canvi:0",
+        "original": "Bankers gather around the Table of Exchange, where deals are made and money changes hands.",
+        "translation": "银行家聚集在兑换表周围，进行交易并转移资金。",
+        "stage": 1
+    },
+    {
+        "key": "ara_toulon_dockyard:0",
+        "original": "Toulon Dockyard",
+        "translation": "土伦船坞",
+        "stage": 1
+    },
+    {
+        "key": "desc_ara_toulon_dockyard:0",
+        "original": "We have established a great dockyard at Toulon.",
+        "translation": "我们在土伦建立了一个优良的造船厂。",
+        "stage": 1
+    },
+    {
+        "key": "refoming_barbary_pirates:0",
+        "original": "Reformed Barbary Pirates",
+        "translation": "改组巴巴里海盗",
+        "stage": 1
+    },
+    {
+        "key": "desc_refoming_barbary_pirates:0",
+        "original": "Many captured Barbary Pirates have entered our service, adding to our pool of experienced sailors.",
+        "translation": "大批被俘的巴巴里海盗为我们服务，扩大了经验丰富的水手团队。",
+        "stage": 1
+    },
+    {
+        "key": "ara_ship_trade_modifier:0",
+        "original": "Safe Merchant Convoys",
+        "translation": "商船舰队护航",
+        "stage": 1
+    },
+    {
+        "key": "desc_ara_ship_trade_modifier:0",
+        "original": "Our naval dominance ensure that the waters are safe for our merchant vessels.",
+        "translation": "海军优势确保了水域对我们的商船是安全的。",
+        "stage": 1
+    },
+    {
+        "key": "ara_envoy_to_ethiopia:0",
+        "original": "Abyssinian Embassy",
+        "translation": "阿比西尼亚大使馆",
+        "stage": 1
+    },
+    {
+        "key": "desc_ara_envoy_to_ethiopia:0",
+        "original": "We have become the protectors of the Christian faith in Ethiopia.",
+        "translation": "我们正在成为埃塞俄比亚的基督信仰守护者。",
+        "stage": 1
+    },
+    {
+        "key": "por_padroado:0",
+        "original": "Padroado",
+        "translation": "保教权",
+        "stage": 1
+    },
+    {
+        "key": "desc_por_padroado:0",
+        "original": "An arrangement has been made with the Pope by which the crown of Portugal has juristiction over church properties and activities in the New World and in the Indies.",
+        "translation": "由于教宗制定的新协议，葡萄牙王国在新大陆和印度获得了教会财产和教会活动的管辖权。",
+        "stage": 1
+    },
+    {
+        "key": "por_minas_gerais:0",
+        "original": "Minas Gerais",
+        "translation": "米纳斯吉拉斯",
+        "stage": 1
+    },
+    {
+        "key": "desc_por_minas_gerais:0",
+        "original": "The gold mines of Minas Gerais seem inexhaustible.",
+        "translation": "米纳斯吉拉斯的金矿似乎永不枯竭。",
+        "stage": 1
+    },
+    {
+        "key": "por_wine_monopolies:0",
+        "original": "Wine Monopolies",
+        "translation": "酒类垄断",
+        "stage": 1
+    },
+    {
+        "key": "desc_por_wine_monopolies:0",
+        "original": "We have secureed monopolies on the wine trade in many foreign ports.",
+        "translation": "我们已经在许多外国港口垄断了酒类贸易。",
+        "stage": 1
+    },
+    {
+        "key": "por_houses_of_trade:0",
+        "original": "Houses of Trade",
+        "translation": "通商院",
+        "stage": 1
+    },
+    {
+        "key": "desc_por_houses_of_trade:0",
+        "original": "The Houses of Trade co-ordinate our global commercial activities.",
+        "translation": "通商院能够协调我国与世界各国的贸易活动。",
+        "stage": 1
+    },
+    {
+        "key": "por_arts_and_letters:0",
+        "original": "Arts and Letters",
+        "translation": "艺术与文学",
+        "stage": 1
+    },
+    {
+        "key": "desc_por_arts_and_letters:0",
+        "original": "Our universities are home to many learned scholars, all of whom are hard at work educating the next generation of academics.",
+        "translation": "我们的大学是许多学者的家园，他们都在努力教育下一代学者。",
+        "stage": 1
+    },
+    {
+        "key": "por_triangle_trade_modifier:0",
+        "original": "Triangle Trade",
+        "translation": "三角贸易",
+        "stage": 1
+    },
+    {
+        "key": "desc_por_triangle_trade_modifier:0",
+        "original": "Our dominance of the triangle trade gives African slavers little choice but to sell to us and not to our defeated competitors.",
+        "translation": "我们在三角贸易中的霸主地位使得非洲奴隶只得被卖给我们，而不是那些被我们击败的竞争对手。",
+        "stage": 1
+    },
+    {
+        "key": "por_african_gold_modifier:0",
+        "original": "African Gold Rush",
+        "translation": "非洲淘金热",
+        "stage": 1
+    },
+    {
+        "key": "desc_por_african_gold_modifier:0",
+        "original": "Portuguese adventurers are flocking to East Africa to explot the gold mines there.",
+        "translation": "葡萄牙探险家纷纷涌入东非，开采那里的金矿。",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_carib_modifier:0",
+        "original": "Thriving Caribbean Colony",
+        "translation": "繁荣的加勒比殖民地",
+        "stage": 1
+    },
+    {
+        "key": "desc_portuguese_carib_modifier:0",
+        "original": "Our Caribbean colonies are thriving under our watchful eye.",
+        "translation": "我们的加勒比殖民地在我们的监督下蓬勃发展。",
+        "stage": 1
+    },
+    {
+        "key": "persian_gulf_trade_por:0",
+        "original": "Persian Gulf Trade",
+        "translation": "波斯湾贸易",
+        "stage": 1
+    },
+    {
+        "key": "desc_persian_gulf_trade_por:0",
+        "original": "We have dominated trade in the Persian Gulf.",
+        "translation": "我们主导了波斯湾的贸易。",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_malacca:0",
+        "original": "Portuguese Malacca",
+        "translation": "葡萄牙的马六甲",
+        "stage": 1
+    },
+    {
+        "key": "desc_portuguese_malacca:0",
+        "original": "We have seized the city of Malacca. Its position is precarious however, so we have begun fortifying the city against attacks and revolts.",
+        "translation": "我们已经占据了马六甲地区的城市。然而目前根基未稳，我们要开始着手巩固城防，抵御外敌，镇压起义的工作。",
+        "stage": 1
+    },
+    {
+        "key": "displaced_moriscos:0",
+        "original": "Displaced Moriscos",
+        "translation": "驱逐摩尔人",
+        "stage": 1
+    },
+    {
+        "key": "desc_displaced_moriscos:0",
+        "original": "The expulsion of the Moriscos has freed up a great deal of land that could be settled by more trustworthy subjects.",
+        "translation": "驱逐摩尔人使我们获得了大量土地，可以用来安置更可靠的主体民族。",
+        "stage": 1
+    },
+    {
+        "key": "berber_fleet:0",
+        "original": "Barbary Fleet",
+        "translation": "巴巴里舰队",
+        "stage": 1
+    },
+    {
+        "key": "desc_berber_fleet:1",
+        "original": "We have constructed a fleet that shall be the terror of the Mediterranean.",
+        "translation": "我们建造的这支舰队将成为地中海的噩梦。",
+        "stage": 1
+    },
+    {
+        "key": "berber_piracy:0",
+        "original": "Barbary Piracy",
+        "translation": "巴巴里海盗",
+        "stage": 1
+    },
+    {
+        "key": "desc_berber_piracy:0",
+        "original": "Our Barbary Pirates are hard at work terrorising the seas. Not all vessels submit without a fight of course, and this experience has hardened the pirates.",
+        "translation": "我们的巴巴里海盗努力在海洋上进行恐吓活动。 当然，并非所有船只都在没有战斗的情况下服从，这种经历使海盗变得更加凶狠。",
+        "stage": 1
+    },
+    {
+        "key": "berber_turkish_diplomacy:0",
+        "original": "Turkish Diplomacy",
+        "translation": "土耳其外交",
+        "stage": 1
+    },
+    {
+        "key": "desc_berber_turkish_diplomacy:0",
+        "original": "Our diplomatic resolve in our dealings with the Ottoman Sultan has proven to the world the relevance of our nation.",
+        "translation": "我们在与奥斯曼帝国苏丹打交道时的外交决心向全世界证明了我们国家的重要性。",
+        "stage": 1
+    },
+    {
+        "key": "berber_new_world_pirates:0",
+        "original": "Raiders of the New World",
+        "translation": "攻略新世界",
+        "stage": 1
+    },
+    {
+        "key": "desc_berber_new_world_pirates:0",
+        "original": "Our enemies cannot escape us even by fleeing across the ocean!",
+        "translation": "敌人就是遛到大洋彼端，也休想逃掉！",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_surat_modifier:0",
+        "original": "Indian Investment Boom",
+        "translation": "印度投资热潮",
+        "stage": 1
+    },
+    {
+        "key": "desc_portuguese_surat_modifier:0",
+        "original": "Wealthy merchants are eager to invest in our growing feitorias in India.",
+        "translation": "富商渴望投资我们在印度不断增长的贸易站。",
+        "stage": 1
+    },
+    {
+        "key": "thorough_careening:0",
+        "original": "Thorough Careening",
+        "translation": "周全维护",
+        "stage": 1
+    },
+    {
+        "key": "desc_thorough_careening:0",
+        "original": "Our captains are making sure that careening is done properly and thoroughly.",
+        "translation": "我们的船长确保彻底到位地完成船舶护理。",
+        "stage": 1
+    },
+    {
+        "key": "relaxed_careening:0",
+        "original": "Relaxed Careening",
+        "translation": "放松维护",
+        "stage": 1
+    },
+    {
+        "key": "desc_relaxed_careening:0",
+        "original": "Our crews are taking their time with careening and not overly exerting themselves in the performance of vital maintenance.",
+        "translation": "我们的船员花时间维护，但没有全心全意参与重要保养。",
+        "stage": 1
+    },
+    {
+        "key": "blacklisted_crew:0",
+        "original": "Blacklisted Crew",
+        "translation": "列入黑名单的船员",
+        "stage": 1
+    },
+    {
+        "key": "desc_blacklisted_crew:0",
+        "original": "A popular but disruptive crew have been blacklisted by the smuggling syndicate.",
+        "translation": "一个受欢迎的船员搞破坏，被海盗组织列入黑名单。",
+        "stage": 1
+    },
+    {
+        "key": "basque_fisheries_modifier:0",
+        "original": "Basque Fisheries",
+        "translation": "巴斯克渔业",
+        "stage": 1
+    },
+    {
+        "key": "desc_basque_fisheries_modifier:0",
+        "original": "Our investment in the fishing industry has paid off, and we now reap the financial benefits.",
+        "translation": "对渔业的投资得到了回报，现在我们获得了经济效益。",
+        "stage": 1
+    },
+    {
+        "key": "basque_exploration:0",
+        "original": "Basque Explorers",
+        "translation": "巴斯克探险家",
+        "stage": 1
+    },
+    {
+        "key": "desc_basque_exploration:0",
+        "original": "Our brave sailors have begun to venture even further across the ocean in search of richer waters for whaling.",
+        "translation": "我们勇敢的水手已经开始进一步冒险越过海洋，寻找更丰富的捕鲸水域。",
+        "stage": 1
+    },
+    {
+        "key": "nav_newfoundland:0",
+        "original": "Grandbaya Trade",
+        "translation": "大海湾贸易",
+        "stage": 1
+    },
+    {
+        "key": "desc_nav_newfoundland:0",
+        "original": "We have dominated trade in the Grandbaya, establishing a monopoly on the resources of the region.",
+        "translation": "我们主导了贝尔岛海峡的贸易，垄断了该地区的资源。",
+        "stage": 1
+    },
+    {
+        "key": "nav_reclaimed_coast:0",
+        "original": "Reclaimed the Coast",
+        "translation": "收复海岸",
+        "stage": 1
+    },
+    {
+        "key": "desc_nav_reclaimed_coast:0",
+        "original": "Our lost coast has finally been recovered!",
+        "translation": "我们沦陷的海岸终于光复了！",
+        "stage": 1
+    },
+    {
+        "key": "conquest_of_espainiako:1",
+        "original": "The Conquest of Espainia",
+        "translation": "征服伊比利亚",
+        "stage": 1
+    },
+    {
+        "key": "desc_conquest_of_espainiako:0",
+        "original": "All of Iberia is ours! Our military prowess knows no bounds.",
+        "translation": "我们拥有全伊比利亚！ 我们的军威无远弗届。",
+        "stage": 1
+    },
+    {
+        "key": "renovated_palace_of_alhambra:0",
+        "original": "Shining Jewel of the West",
+        "translation": "西方闪耀的宝石",
+        "stage": 1
+    },
+    {
+        "key": "desc_renovated_palace_of_alhambra:0",
+        "original": "The grand palace of Alhambra once again strikes awe into those that view it. Learned scholars and builders from foreign lands travel from far and wide to bask in our glory!",
+        "translation": "宏伟的阿尔罕布拉宫一如既往让看到它的人敬畏。外国的学者和建筑师远道而来，享受我们的荣耀！",
+        "stage": 1
+    },
+    {
+        "key": "gra_bolstered_morale:0",
+        "original": "Victory Assured",
+        "translation": "胜局已定",
+        "stage": 1
+    },
+    {
+        "key": "desc_gra_bolstered_morale:0",
+        "original": "Our recent diplomatic dealings have convinced all who fight in our name, that we are blessed indeed.",
+        "translation": "我们最近的外交协定使所有以我们之名而战的人相信，我们确实受到天主的庇护。",
+        "stage": 1
+    },
+    {
+        "key": "gra_rebuilding_mosques:0",
+        "original": "Rebuilding Mosques",
+        "translation": "重建清真寺",
+        "stage": 1
+    },
+    {
+        "key": "desc_gra_rebuilding_mosques:0",
+        "original": "This province is undergoing a campaign of infrastructure development, with Islamic architecture being at the forefront of the efforts.",
+        "translation": "这个省份正在进行一场基础设施建设运动，伊斯兰式的建筑风格是这项计划里的重要元素。",
+        "stage": 1
+    },
+    {
+        "key": "gra_seperation_of_power:1",
+        "original": "Separation of Power",
+        "translation": "三权分立",
+        "stage": 1
+    },
+    {
+        "key": "desc_gra_seperation_of_power:0",
+        "original": "The ancient caliphates once shared territory in a responsible and neighborly way. By aiming to do the same with our friends in Morocco, we show the world that we are not simply a nation desperate to conquer.",
+        "translation": "旧时的哈里发们曾经以一种更负责任和友善的方式来统治。通过对我们在摩洛哥的朋友采取相同的策略，我们向世界展示了我们并非是一个只知道疯狂征服的国家。",
+        "stage": 1
+    },
+    {
+        "key": "gra_mouth_of_mediterranean:0",
+        "original": "Strategic Port",
+        "translation": "战略港口",
+        "stage": 1
+    },
+    {
+        "key": "desc_gra_mouth_of_mediterranean:0",
+        "original": "The port of Sebtah is ideally situated for controlling passage in and out of the Mediterranean. As such, we have invested a great deal in modernizing the capabilities and defensive potential of this important location.",
+        "translation": "休达港是控制进出地中海通道的理想地点。因此，我们在现代化这一重要位置的功能和防御潜力方面投入了大量资金。",
+        "stage": 1
+    },
+    {
+        "key": "gra_reconvert_giralda:0",
+        "original": "Great Mosque of Isbiliya",
+        "translation": "伊斯比利亚大清真寺",
+        "stage": 1
+    },
+    {
+        "key": "desc_gra_reconvert_giralda:0",
+        "original": "Despite earthquakes, wars, and devastation, the great mosque of Isbiliya still stands. Christian conquerors once repurposed this building into a cathedral, but now that it is safely in our hands once again, it has been restored to its true purpose, once again.",
+        "translation": "尽管遭受过地震、战争和荒废，但伊斯比利亚（塞维利亚）的大清真寺仍然屹立未倒。基督教征服者曾经将这座建筑改建成一座大教堂，但现在它再次被我们安全地掌握在的手中，它再次恢复回它原本的用途了。",
+        "stage": 1
+    },
+    {
+        "key": "gra_merchants_inspired:0",
+        "original": "Merchants at Ease",
+        "translation": "商人团的安心",
+        "stage": 1
+    },
+    {
+        "key": "desc_gra_merchants_inspired:0",
+        "original": "The hostile seas around the Gulf of Almeria have oft prevented our merchants from daring to engage in maritime trade. Our sizable standing navy, however, is beginning to put their minds at rest.",
+        "translation": "阿尔梅里亚湾周围海域的敌对势力经常阻碍我们的商人进行海上贸易。然而，我们规模庞大的常备海军正让他们开始感到安心。",
+        "stage": 1
+    },
+    {
+        "key": "gra_eagerness_to_serve:0",
+        "original": "Situation Stabilized",
+        "translation": "局势稳定",
+        "stage": 1
+    },
+    {
+        "key": "desc_gra_eagerness_to_serve:0",
+        "original": "The bloody civil war is over, and our citizens may once again rest secure in the knowledge that the line of succession is defined. This is having quite the effect on people's willingness to go about their daily lives.",
+        "translation": "血腥的内战已经结束，我们的国民可以再次对继承权的稳定感到安心了。这对于让民众重拾生活的信心是有相当大的影响的。",
+        "stage": 1
+    },
+    {
+        "key": "adu_new_world_discoveries:0",
+        "original": "The New World?",
+        "translation": "新大陆？",
+        "stage": 1
+    },
+    {
+        "key": "desc_adu_new_world_discoveries:0",
+        "original": "The Portuguese have made some startling discoveries, it seems. Entire continents exist beyond the mists of the sea - this information is kindling quite the sense of adventure amongst our citizenry.",
+        "translation": "葡萄牙人似乎有了惊人发现。整片大陆隐匿于茫茫海雾之中——这个消息激发了我们公民的冒险精神。",
+        "stage": 1
+    },
+    {
+        "key": "adu_trade_hub:0",
+        "original": "Port of Interest",
+        "translation": "利益港口",
+        "stage": 1
+    },
+    {
+        "key": "desc_adu_trade_hub:0",
+        "original": "This is an ideally located port to siphon off valuable income from our less compromising neighbors.",
+        "translation": "这是一个处在理想位置的征收港口，可以从我们那些不愿妥协的邻居那里榨取有价值的收入。",
+        "stage": 1
+    },
+    {
+        "key": "adu_native_concord:0",
+        "original": "Native Concord",
+        "translation": "土著共荣",
+        "stage": 1
+    },
+    {
+        "key": "desc_adu_native_concord:0",
+        "original": "The violent behaviour of the first Portuguese and Castilian explorers to reach the new world has not gone unnoticed by the indigenous peoples who reside there. We have come to see this as an opportunity for a different approach - one that might see us prosper together, rather than foment war and discord.",
+        "translation": "第一批葡萄牙和卡斯提尔探险者到达新世界时的暴力行为并没有被居住在那里的土著人民所忽视。我们已经把这看作是一个采取不同方式的机会——一种可能会让我们共同繁荣的方式，而不是煽动战争与矛盾。",
+        "stage": 1
+    },
+    {
+        "key": "sicily_in_safe_hands:0",
+        "original": "Administrative Investments",
+        "translation": "行政投资",
+        "stage": 1
+    },
+    {
+        "key": "desc_sicily_in_safe_hands:0",
+        "original": "Sicily serves us better in our direct control - as such, we are able to invest more resources in coaxing the island to prosperity.",
+        "translation": "西西里岛在我们的直接控制中为我们提供了更好的服务 —— 因此，我们能够投资更多资源，诱使这个岛屿走向繁荣。",
+        "stage": 1
+    },
+    {
+        "key": "adu_popular_appeal:0",
+        "original": "Influx of Believers",
+        "translation": "信徒涌入",
+        "stage": 1
+    },
+    {
+        "key": "desc_adu_popular_appeal:0",
+        "original": "Our recent embracement of their faith has caused many oppressed minorities to seek refuge within our borders. Let us treat them with the respect they deserve.",
+        "translation": "我们最近对他们信仰的包容，导致许多受压迫的少数民族在我国境内寻求庇护。让我们以他们应得的尊重对待他们吧。",
+        "stage": 1
+    },
+    {
+        "key": "adu_conservative_backlash:0",
+        "original": "Conservative Approval",
+        "translation": "保守派的支持",
+        "stage": 1
+    },
+    {
+        "key": "desc_conservative_backlash:0",
+        "original": "Our people greatly appreciate our efforts to stand with them, despite the wave of rediscovery touring our nation.",
+        "translation": "我们的人民非常感谢我们与他们站在一起的努力，尽管这在我们国家掀起了重新审议的游行。",
+        "stage": 1
+    },
+    {
+        "key": "adu_righteous_conquest:0",
+        "original": "Sword of Islam",
+        "translation": "伊斯兰之剑",
+        "stage": 1
+    },
+    {
+        "key": "desc_adu_righteous_conquest:0",
+        "original": "We have defied all odds, and followed in the footsteps our forefathers. Let us now look to the horizon, and show our oppressors that their days are numbered.",
+        "translation": "我们不顾一切困难，沿着我们祖先的足迹前进。现在让我们展望未来，向欺压我们的人表明，他们的日子已经屈指可数了。",
+        "stage": 1
+    },
+    {
+        "key": "adu_white_phoenix:0",
+        "original": "The White Phoenix Rises",
+        "translation": "白凤凰涅槃重生",
+        "stage": 1
+    },
+    {
+        "key": "desc_adu_white_phoenix:0",
+        "original": "At last we have exceeded that which our ancestors achieved. The centuries of decline are forgotten, and our nation stands proud at the borders of the Pyrenees. Our final step however, is yet to be taken.",
+        "translation": "我们终于超越了我们祖先所取得的成就。几个世纪的衰落被遗忘了，我们的国家自豪地站在比利牛斯山脉的边界。然而，我们还没有迈出最后一步。",
+        "stage": 1
+    },
+    {
+        "key": "adu_summer_capital:0",
+        "original": "Great Mosque of Damascus",
+        "translation": "大马士革大清真寺",
+        "stage": 1
+    },
+    {
+        "key": "desc_adu_summer_capital:0",
+        "original": "This architectural wonder stands, despite nearly a thousand years of war. Added to over the centuries, we feel it is our duty to preserve, maintain, and continue this great work.",
+        "translation": "尽管经历了近千年的战争，这个建筑奇迹依然屹立未倒。几个世纪以来，我们认为保护、维持和继续这项伟大的工作是我们的责任。",
+        "stage": 1
+    },
+    {
+        "key": "adu_tolerance_heretics_mod:0",
+        "original": "Shahada, Salah, Zakat",
+        "translation": "清真言、礼拜、天课",
+        "stage": 1
+    },
+    {
+        "key": "desc_adu_tolerance_heretics_mod:0",
+        "original": "The possession of the Holy City requires a certain tolerance towards believers, regardless of their personal inclinations. With such great responsibility as the care of Mecca, we must care equally for fellow men.",
+        "translation": "拥有圣城是需要对信徒有一定的宽容的，无论他们个人倾向如何。在肩负着看护麦加这样重大的责任时，我们必须平等地对待同胞。",
+        "stage": 1
+    },
+    {
+        "key": "adu_greater_than_alexander:0",
+        "original": "Imperial Administration",
+        "translation": "帝国体制",
+        "stage": 1
+    },
+    {
+        "key": "desc_adu_greater_than_alexander:0",
+        "original": "Much of what was once lost to us has been restored. There is still much to reclaim. The Umayyads installed a system of diverse governorates to oversee the extents of their empire, and so should we.",
+        "translation": "我们曾经失去的许多东西现在已经恢复了。还有许多需要改进的地方。乌玛亚人建立了一个由不同政府组成的系统来监督他们帝国的扩张，我们也应该这样做。",
+        "stage": 1
+    },
+    {
+        "key": "adu_trade_company_founded:0",
+        "original": "Naval Investment Policy",
+        "translation": "海军投资政策",
+        "stage": 1
+    },
+    {
+        "key": "desc_adu_trade_company_founded:0",
+        "original": "In order to defend our burgeoning shipping lines, great care must be paid to our navies.",
+        "translation": "为了保卫我们蓬勃发展的航运业，必须对我们的海军给予极细心的关注。",
+        "stage": 1
+    },
+    {
+        "key": "smugglers_struggling:0",
+        "original": "Smugglers Struggling",
+        "translation": "走私者的困境",
+        "stage": 1
+    },
+    {
+        "key": "desc_smugglers_struggling:0",
+        "original": "Our smugglers are having difficulties selling their wares in legitimate markets.",
+        "translation": "我们的走私者在合法市场上出售他们的商品变得十分艰难。",
+        "stage": 1
+    },
+    {
+        "key": "pirate_trade_practices:0",
+        "original": "Successful Pirate 'Trade'",
+        "translation": "成功的海盗“贸易”",
+        "stage": 1
+    },
+    {
+        "key": "pirate_trade_ports:0",
+        "original": "Pirate Monopoly",
+        "translation": "海盗垄断",
+        "stage": 1
+    },
+    {
+        "key": "pirate_trade_in_gold:0",
+        "original": "Pirate Gold",
+        "translation": "海盗金",
+        "stage": 1
+    },
+    {
+        "key": "pirate_triangle_trade:0",
+        "original": "'Liberated' Slaves",
+        "translation": "“解放”奴隶",
+        "stage": 1
+    },
+    {
+        "key": "pirate_a_pirate_fleet:0",
+        "original": "Sea Dogs",
+        "translation": "老练的水手",
+        "stage": 1
+    },
+    {
+        "key": "pirate_a_scourge_on_the_seven_seas:0",
+        "original": "An Inspiring Captain",
+        "translation": "一个令人鼓舞的船长",
+        "stage": 1
+    },
+    {
+        "key": "pirate_the_pirate_code:0",
+        "original": "The Pirate Code",
+        "translation": "海盗法典",
+        "stage": 1
+    },
+    {
+        "key": "pirate_diplomacy:0",
+        "original": "A Reputation",
+        "translation": "一个好名声",
+        "stage": 1
+    },
+    {
+        "key": "pirate_the_pirate_threat:0",
+        "original": "No Kings",
+        "translation": "没有国王",
+        "stage": 1
+    },
+    {
+        "key": "pirate_a_second_madagascar:0",
+        "original": "A Pirate Haven",
+        "translation": "海盗港口",
+        "stage": 1
+    },
+    {
+        "key": "pirate_all_of_the_gold:0",
+        "original": "The Gold Must Flow",
+        "translation": "黄金必须流动",
+        "stage": 1
+    },
+    {
+        "key": "pirate_hoard:0",
+        "original": "Another Golden Hoard",
+        "translation": "另一个藏宝点",
+        "stage": 1
+    },
+    {
+        "key": "pirate_federation:0",
+        "original": "Mutual Exchange",
+        "translation": "相互交流",
+        "stage": 1
+    },
+    {
+        "key": "pirate_a_famous_pirate:0",
+        "original": "A Mighty Pirate (tm)",
+        "translation": "伟大的海盗™",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_trade_practices:0",
+        "original": "Some call it privateering, we just call it profit.",
+        "translation": "有人称之为私掠船，我们称之为获利船。",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_trade_ports:0",
+        "original": "Fear will keep the local traders in line.",
+        "translation": "恐惧将使本地商人听话。",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_trade_in_gold:0",
+        "original": "It helps grease the wheels of trade, but most pirates can't be trusted with it.",
+        "translation": "这有助于润滑贸易的轮子，但大多数海盗不可信任。",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_triangle_trade:0",
+        "original": "Some pirates' lives are more free than others.",
+        "translation": "一些海盗生活得比其他人更自由。",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_a_pirate_fleet:0",
+        "original": "The ships might not be the biggest or most well equipped, but they have the best names.",
+        "translation": "这些船可能不是最大的或装备最优良的，但它们却有最好的名字。",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_a_scourge_on_the_seven_seas:0",
+        "original": "Oh captain, my captain!",
+        "translation": "啊，船长！我的船长！",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_the_pirate_code:0",
+        "original": "There is disagreement on exactly how many articles make up the Pirate Code, but pirates remember the important ones.",
+        "translation": "关于到底有多少条款构成了“海盗法典”，大家意见不一，但海盗们记得最重要的那些。",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_diplomacy:0",
+        "original": "Some see us as liberators, but most don't.",
+        "translation": "有些人视我们为解放者，但大多数人并非如此。",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_the_pirate_threat:0",
+        "original": "Nothing unites pirates better than a powerful enemy that threatens their freedom.",
+        "translation": "没有什么强大敌人比威胁他们自由的更能团结海盗。",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_a_second_madagascar:0",
+        "original": "A safe haven for all free men and women. I would advise against wearing a red coat though.",
+        "translation": "为所有自由的男女提供一个安全的避风港。不过我还是建议最好不要穿红色外套。",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_all_of_the_gold:0",
+        "original": "The gold is the life, the gold is the life!",
+        "translation": "黄金即是生命！",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_hoard:0",
+        "original": "What do you mean it's not that kind of hoard?",
+        "translation": "你说这不是那种囤积是什么意思？",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_federation:0",
+        "original": "I would not call it a free exchange of ideas, but people are at least free to move however they want.",
+        "translation": "我不会说这是一种思想的自由交流，但人们至少能自由地去他们想去的地方。",
+        "stage": 1
+    },
+    {
+        "key": "desc_pirate_a_famous_pirate:0",
+        "original": "A swashbuckler. A rogue. A wanderer. Someone who can hold their breath for ten minutes.",
+        "translation": "流氓。无赖。流浪者。能屏住呼吸十分钟的人。",
+        "stage": 1
+    },
+    {
+        "key": "sublimis_deus:0",
+        "original": "Sublimis Deus",
+        "translation": "崇高的神",
+        "stage": 1
+    },
+    {
+        "key": "desc_sublimis_deus:0",
+        "original": "The Pope has decreed that Catholic princes should not preside over the enslavement of native peoples.",
+        "translation": "教皇下令天主教王公不应施行对土著人民的奴役。",
+        "stage": 1
+    },
+    {
+        "key": "sublimis_deus_not_enforced:0",
+        "original": "Quiet Enslavement",
+        "translation": "秘密奴役",
+        "stage": 1
+    },
+    {
+        "key": "desc_sublimis_deus_not_enforced:0",
+        "original": "Though the Pope has decreed that the enslavement of the native peoples is a sin, what he does not know cannot hurt him.",
+        "translation": "虽然教皇已经颁布了法令宣告奴役土著人民是一种罪恶，但只要他不知道就不会伤害到他。",
+        "stage": 1
+    },
+    {
+        "key": "merino_wool:0",
+        "original": "Merino Wool",
+        "translation": "美丽诺绵羊毛",
+        "stage": 1
+    },
+    {
+        "key": "desc_merino_wool:0",
+        "original": "Baa!",
+        "translation": "咩！",
+        "stage": 1
+    },
+    {
+        "key": "mesta_privileged_revoked:0",
+        "original": "Mesta Privileges Revoked",
+        "translation": "梅斯塔的特权被撤销",
+        "stage": 1
+    },
+    {
+        "key": "mesta_privileged_revoked_desc:0",
+        "original": "The privileges of the Mesta in this province have been revoked, opening the way for new development.",
+        "translation": "梅斯塔在该省份的特权已经被取消，这开启了一条新的发展之路。",
+        "stage": 1
+    },
+    {
+        "key": "mor_looks_outward:0",
+        "original": "Morocco Looks Outward",
+        "translation": "摩洛哥看世界",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_looks_outward:0",
+        "original": "Morocco refuses to remain cloistered in Fez, and now looks toward integrating the nation.",
+        "translation": "摩洛哥拒绝在非斯保持封闭，现在的目标是整合国家。",
+        "stage": 1
+    },
+    {
+        "key": "mor_looks_inward:0",
+        "original": "Cloistered in Fez",
+        "translation": "在非斯与外界隔离",
+        "stage": 1
+    },
+    {
+        "key": "desc_mor_looks_inward:0",
+        "original": "The Moroccan court has decided to concern itself almost exclusively with affairs in the capital.",
+        "translation": "摩洛哥宫廷决定将大部分精力集中于处理首都事务。",
         "stage": 1
     }
 ]

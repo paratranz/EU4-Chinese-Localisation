@@ -73,9 +73,9 @@
     },
     {
         "key": "NO_RELIGION_PENALTY:0",
-        "original": "Negative religious Tolerance no longer gives any penalties.",
-        "translation": "负宗教容忍不会带来任何惩罚",
-        "stage": 5
+        "original": "Negative religious Tolerance no longer gives any penalties. Heretic and Heathen provinces do not give us any penalty to religious unity.",
+        "translation": "负宗教容忍不会带来任何惩罚。异端或异教省份不会影响宗教统一。",
+        "stage": 1
     },
     {
         "key": "AUTO_EXPLORE_ADJACENT_TO_COLONY:0",
@@ -224,8 +224,8 @@
     {
         "key": "MAX_POWER_STORE:0",
         "original": "You can only keep $MAX$ power saved.",
-        "translation": "你只能保有最高$MAX$点数",
-        "stage": 5
+        "translation": "你最多只能保有 $MAX$ 点数。",
+        "stage": 1
     },
     {
         "key": "MONARCH_ABILITY_MODIFIED_BY:0",
@@ -770,8 +770,8 @@
     {
         "key": "NO_SORTIES_NO_POINTS:0",
         "original": "You need §Y$COST$§W£mil to sortie, and you only have §Y$VAL$§W.",
-        "translation": "你需要§Y$COST$§W军事点数来突围，而你只有§Y$VAL$§W。",
-        "stage": 5
+        "translation": "你需要§Y$COST$§W£mil£来突围，而你只有§Y$VAL$§W。",
+        "stage": 1
     },
     {
         "key": "HARSH_ALREADY:0",
@@ -2942,19 +2942,19 @@
     {
         "key": "the_reconquista_desc:0",
         "original": "For long years we have waged war against the Moor. This has given us a sturdy discipline that not many can boast. Arise men of Castile and show the world your determination.",
-        "translation": "我们和摩尔人的战争已经持续很长一段时间了.这给了我们一个引以为荣的坚定的纪律。卡斯蒂利亚的战士们,向世界展示你们的决心。",
+        "translation": "我们和摩尔人的战争已经持续很长一段时间了。这让我们发展出一个引以为荣的严格纪律。卡斯蒂利亚的战士们，向世界展示你们的决心。",
         "stage": 1
     },
     {
         "key": "spanish_inquisition:0",
         "original": "Spanish Inquisition",
-        "translation": "西班牙宗教法庭",
-        "stage": 5
+        "translation": "西班牙宗教裁判所",
+        "stage": 1
     },
     {
         "key": "spanish_inquisition_desc:0",
         "original": "No one expected it.",
-        "translation": "没人希望这样",
+        "translation": "没人希望这样。",
         "stage": 5
     },
     {
@@ -4004,13 +4004,13 @@
     {
         "key": "inward_perfection:0",
         "original": "Inward Perfection",
-        "translation": "祖宗之法",
+        "translation": "天朝上国",
         "stage": 2
     },
     {
         "key": "inward_perfection_desc:0",
         "original": "The outside world offers nothing to the Middle Kingdom, let us stay at home to ensure none of their dangerous ideas enter our body politic. We must limit our contacts and keep the Middle Kingdom stable.",
-        "translation": "外面的世界对天朝一点好处也没有,让我们呆在家里保证他们危险的想法不会影响到我们的政治.我们必须限制我们与他们的接触,这样才能稳保天朝江山永固",
+        "translation": "外面的世界对天朝一点好处也没有，让我们呆在家里，确保不会让他们危险的想法影响到我们的国家。我们必须限制我们与他们的接触，这样才能稳保天朝江山永固。",
         "stage": 1
     },
     {
@@ -6944,7 +6944,7 @@
     {
         "key": "the_shroud_of_turin_desc:0",
         "original": "The burial shroud of Christ himself was found in our lands in the year 1390 and since that time has been the prized artifact of the House of Savoy. Put the Shroud of Turin on display and watch the pilgrims flock to Piedmont, bringing their wealth with them.",
-        "translation": "基督的裹尸布于1390年在我们的土地上被发现,自此成为了萨伏依王室的珍贵圣物.对外展示都灵裹尸布,看着朝圣者们涌向山麓,带着他们的财富一起前来",
+        "translation": "基督的裹尸布于1390年在我们的土地上被发现，自此成为了萨伏依王室的珍贵圣物。对外展示都灵裹尸布，让朝圣者们带着他们的财富涌入皮埃蒙特。",
         "stage": 1
     },
     {
@@ -7982,7 +7982,7 @@
     {
         "key": "chakravartin_desc:0",
         "original": "The Chakravartin is an ideal universal ruler in both Hinduism and Buddhism, one who rules ethically and benevolently over the entire world. It is a symbol of not only spiritual kingship and leadership, but also temporal as well.",
-        "translation": "转轮圣王是印度教以及佛教的轮宝之王.王拥有七宝(轮.象.马.珠.女.居士.主兵臣),具足四德(长寿.无疾病.容貌出色.宝藏丰富),统一须弥四洲,以正法御世,其国土丰饶,人民和乐.",
+        "translation": "转轮圣王是印度教以及佛教的轮宝之王，王拥有七宝（轮、象、马、珠、女、居士、主兵臣)，具足四德（长寿、无疾病、容貌出色、宝藏丰富），统一须弥四洲，以正法御世，其国土丰饶，人民和乐。",
         "stage": 1
     },
     {
@@ -8036,7 +8036,7 @@
     {
         "key": "clan_loyalties_desc:0",
         "original": "The influence of our clan extends far beyond our own borders. We are able to draw upon the Rajputs of our clan from all over northern India when filling the ranks of our armies.",
-        "translation": "拉其普特的各大家族的影响已经远远超出了国家的边界,我们应该将他们的力量并入我们的军队从而让其更为强大.",
+        "translation": "拉杰普特的各大家族的影响已经远远超出了国家的边界，我们应该将他们的力量并入我们的军队从而让其更为强大。",
         "stage": 1
     },
     {
@@ -8156,13 +8156,13 @@
     {
         "key": "beacon_of_learning:0",
         "original": "Beacon of Learning",
-        "translation": "安达卢斯曾经的辉煌",
+        "translation": "安达卢西亚曾经的辉煌",
         "stage": 1
     },
     {
         "key": "beacon_of_learning_desc:0",
         "original": "Al Andalus was once a center for learning with exceptional scholars like Ahmad Ibn Rushd, Abu Al Qasim and Muhammad Ibn Tufail. We should continue this state of mind of our forefathers.",
-        "translation": "安达卢斯曾经拥有过艾哈迈德·伊本鲁西德,阿布卡西姆和穆罕默德·伊本·图费勒这样具有卓越贡献的优秀学者,因此我们应该将这里作为教育的中心以继承我们先祖的精神.",
+        "translation": "安达卢西亚曾经拥有过艾哈迈德·伊本鲁西德,阿布卡西姆和穆罕默德·伊本·图费勒这样具有卓越贡献的优秀学者,因此我们应该将这里作为教育的中心以继承我们先祖的精神.",
         "stage": 1
     },
     {
@@ -8198,7 +8198,7 @@
     {
         "key": "moors_desc:0",
         "original": "Fight our common enemies and Moorish warriors around the Mediterranean Sea holding the crescent banner will rally around us. Historically, the Moors were the medieval Muslim inhabitants of Al-Andalus, Maghreb, Septimania and Sicily.",
-        "translation": "从历史上看,摩尔人是中世纪的安达卢斯,马格里布,塞普提曼尼亚和西西里岛的穆斯林居民,这些地中海勇敢的摩尔勇士为了抗击共同的敌人已经团结在了月牙旗帜下.",
+        "translation": "从历史上看,摩尔人是中世纪的安达卢西亚,马格里布,塞普提曼尼亚和西西里岛的穆斯林居民,这些地中海勇敢的摩尔勇士为了抗击共同的敌人已经团结在了月牙旗帜下.",
         "stage": 1
     },
     {
@@ -12938,7 +12938,7 @@
     {
         "key": "granary_of_croatia_desc:0",
         "original": "Slavonia, also known as the granary of Croatia, is the most fertile agricultural region of our lands. It is located between the Sava River on the south and the Drava and Danube rivers on the north and east. We must ensure that we make more use of this region to the prosperity of our people.",
-        "translation": "斯拉沃尼亚，也被称作克罗地亚的粮仓，使我们国家中土地最肥沃的农业区。它位于萨瓦河的南边和德拉瓦河与多瑙河的北面和东面之间。我们必须确保我们能更多的利用这片土地使我们的人民繁荣。",
+        "translation": "斯拉沃尼亚，也被称作克罗地亚的粮仓，是我们国家中土地最肥沃的农业区。它位于萨瓦河的南边和德拉瓦河与多瑙河的北面和东面之间。我们必须确保我们能更多的利用这片土地使我们的人民繁荣。",
         "stage": 1
     },
     {
@@ -13214,7 +13214,7 @@
     {
         "key": "flower_wars:0",
         "original": "Flower Wars",
-        "translation": "战争盛宴",
+        "translation": "荣冠战争",
         "stage": 1
     },
     {
@@ -13226,7 +13226,7 @@
     {
         "key": "sustaining_the_gods:0",
         "original": "Sustaining the Gods",
-        "translation": "维持神",
+        "translation": "维持众神",
         "stage": 1
     },
     {
@@ -13244,7 +13244,7 @@
     {
         "key": "telpochcalli_desc:0",
         "original": "By instituting a network of houses of youth, schools where education and military training are mandatory for the youths of the lower classes, we ensure that our army never wants for new recruits.",
-        "translation": "通过建立青年住宅网，下层阶级的青年在学校受到教育和军事训练将会变成强制性，我们确信我们的军队不会希望要新兵的。",
+        "translation": "通过建立青年住宅网，下层阶级的青年将会强制在学校接受教育和军事训练，我们确信我们的军队不会希望要新兵的。",
         "stage": 1
     },
     {
@@ -13256,7 +13256,7 @@
     {
         "key": "eagles_and_jaguars_desc:0",
         "original": "Sacred brotherhoods of warriors, the Eagle knights and the Jaguar Warriors are the pinnacle of our fighting forces. The thought of one day being counted among their numbers inspire many young warriors to attempt the acts of bravery that would win them admission.",
-        "translation": "战士们的神圣的兄弟，鹰骑士和豹战士使我们战斗力的顶峰。它们将会激励很多年轻的战士去尝试这种勇敢的行为以赢得它们的信任。",
+        "translation": "战士们的神圣的兄弟，鹰骑士和豹战士是我们最强大的战士。它们将会激励很多年轻的战士去尝试这种勇敢的行为以赢得它们的信任。",
         "stage": 1
     },
     {
@@ -13274,7 +13274,7 @@
     {
         "key": "floating_gardens:0",
         "original": "Floating Gardens",
-        "translation": "浮动花园",
+        "translation": "浮动园地",
         "stage": 1
     },
     {
@@ -13286,13 +13286,13 @@
     {
         "key": "pochtecayotl:0",
         "original": "Pochtecayotl",
-        "translation": "Pochteca贸易商",
+        "translation": "波奇特卡商人",
         "stage": 1
     },
     {
         "key": "pochtecayotl_desc:0",
         "original": "Traders travel far afield, to provinces beyond even the reach of our authority, and to rulers who defy us. If these traders were to, perhaps, also serve us as eyes and ears, what secrets might we learn?",
-        "translation": "贸易商总是走得很远，前往那些我们的权利无法管辖并且领主违抗我们的省份。也许这些贸易商可以提供给我们耳目？我们能从中获取一些秘密。",
+        "translation": "商人总是走得很远，前往那些我们的权力无法管辖并且领主违抗我们统治的省份。也许这些贸易商可以提供给我们耳目？我们能从中获取一些秘密。",
         "stage": 1
     },
     {
@@ -14012,19 +14012,19 @@
     {
         "key": "TAR_ideas:0",
         "original": "Tarascan Ideas",
-        "translation": "塔拉斯坎理念",
+        "translation": "塔拉斯卡理念",
         "stage": 1
     },
     {
         "key": "TAR_ideas_start:0",
         "original": "Tarascan Traditions",
-        "translation": "塔拉斯坎传统",
+        "translation": "塔拉斯卡传统",
         "stage": 1
     },
     {
         "key": "TAR_ideas_bonus:0",
         "original": "Tarascan Ambition",
-        "translation": "塔拉斯坎野心",
+        "translation": "塔拉斯卡野心",
         "stage": 1
     },
     {
@@ -14102,13 +14102,13 @@
     {
         "key": "tarascan_assmilation:0",
         "original": "Tarascan Assimilation",
-        "translation": "塔拉斯坎化",
+        "translation": "塔拉斯卡化",
         "stage": 1
     },
     {
         "key": "tarascan_assmilation_desc:0",
         "original": "By careful resettlement of our people in newly conquered areas, and by ensuring that the Purepecha language is the common language of the empire, we can rapidly bring these far-flung regions under full imperial control, loyal to us.",
-        "translation": "通过把我们的人民仔细安置在新占领的地区，并确保普勒佩查语是帝国的通用语言，我们可以迅速将那些遥远的地区置于帝国的掌控之下，使其忠于我们。",
+        "translation": "通过把我们的人民仔细安置在新占领的地区，并确保普雷佩查语是帝国的通用语言，我们可以迅速将那些遥远的地区置于帝国的掌控之下，使其忠于我们。",
         "stage": 1
     },
     {
@@ -14318,7 +14318,7 @@
     {
         "key": "fulani_jihad_ideas:0",
         "original": "Fulani Jihad Ideas",
-        "translation": "富拉尼理念",
+        "translation": "富拉尼吉哈德理念",
         "stage": 1
     },
     {
@@ -14360,7 +14360,7 @@
     {
         "key": "fulani_jihads:0",
         "original": "Fulani Jihads",
-        "translation": "富拉尼杰哈德",
+        "translation": "富拉尼吉哈德",
         "stage": 1
     },
     {
@@ -14444,7 +14444,7 @@
     {
         "key": "olmec_legacy_desc:0",
         "original": "Before our people came, the Olmecs, a proud and ancient people, lived in these lands. The traditions they left behind still endure, and from them we have much to learn about the organization of society and the ways of governing our people.",
-        "translation": "在我们的人到来之前，奥尔梅克，一个自豪而古老的人群，在这片土地上生活着。他们留下的传统仍在持续着，我们从他们身上学会了关于社会的组织和如何管理人民。",
+        "translation": "在我们民族到来之前，奥尔梅克，一个自豪而古老的人群，在这片土地上生活着。他们留下的传统仍在持续着，我们从他们身上学会了关于社会的组织和如何管理人民。",
         "stage": 1
     },
     {
@@ -14456,8 +14456,8 @@
     {
         "key": "altepetl_desc:0",
         "original": "The social organization of our land rests upon the existence of the city-state, whether Mixtec Nuu, Mayan Cah or Nahuatl Atlepetl. Their productions, and the trade between them, form links that are the heart of the economic life of our world.",
-        "translation": "我们的社会结构是依存于城邦存在的，whether Mixtec Nuu，Mayan Cah or Nahuatl Atlepetl。它们的产物，和它们之间的贸易链接形成了我们世界经济生活的心脏。",
-        "stage": 2
+        "translation": "我们的社会结构是依存于城邦存在的。它们的产物，和它们之间的贸易链接形成了我们世界经济生活的心脏。",
+        "stage": 1
     },
     {
         "key": "ball_game:0",
@@ -14468,7 +14468,7 @@
     {
         "key": "ball_game_desc:0",
         "original": "At the heart of social life in our land is the ball game, where players strive to keep the ball into the playing court by striking it with their hips. It is both a ritual alternative to warfare and a great part of religious life.",
-        "translation": "球赛使我们土地上社会生活的核心，选手们努力用屁股把球打入比赛场地。这是一种代替战争的仪式也是宗教生活的一部分。",
+        "translation": "球赛是我们土地上社会生活的核心，选手们努力用屁股把球打入比赛场地。这是一种代替战争的仪式也是宗教生活的一部分。",
         "stage": 1
     },
     {
@@ -14480,8 +14480,8 @@
     {
         "key": "feathered_serpent_desc:0",
         "original": "A widespread legend across our lands speaks of the Feathered Serpent. Although this figure is many thing to many people, Quetzalcoatl among the Nahua, Kukulkan among the Maya or Q'uq'umatz among the Kiche, he is a source of unity across our land.",
-        "translation": "我们的土地有一个关于羽蛇的普遍传说。尽管在不同人群中拥有不同的形象——纳瓦人的克特萨尔科瓦特尔、玛雅人的库库尔坎或基切人的库库马茨——它是我们土地团结的来源。",
-        "stage": 2
+        "translation": "我们的土地有一个关于羽蛇的普遍传说。尽管在不同人群中拥有不同的形象——纳瓦人的克查尔科瓦特尔、玛雅人的库库尔坎或基切人的库库马茨——它是我们土地团结的来源。",
+        "stage": 1
     },
     {
         "key": "ritual_bloodletting:0",
@@ -14504,7 +14504,7 @@
     {
         "key": "pyramid_architecture_desc:0",
         "original": "The vast stone pyramids that dominate our landscape have been part of our architectural traditions since the far-gone days of Teotihuacan, Tikal, Copan and Palenque. We have not forgotten the art of pyramid building, and we, too, can build such things.",
-        "translation": "自远古的特奥蒂瓦坎，蒂卡尔，科潘和帕伦克起主宰我们大地的无尽的石制金字塔就是我们建筑传统的一部分。我们从未忘记过金字塔的艺术，我们也能制造这样的东西",
+        "translation": "自远古的特奥蒂瓦坎，蒂卡尔，科潘和帕伦克起主宰我们大地的无尽的石制金字塔就是我们建筑传统的一部分。我们从未忘记过金字塔的艺术，我们也能制造这样的东西。",
         "stage": 1
     },
     {
@@ -18410,7 +18410,7 @@
     {
         "key": "jnp_purbias_desc:0",
         "original": "Ever since the fall of Kannauj in the 9th century this region has been home to a great number of Rajput communities. Known as Purbias, these eastern Rajputs aren't an as dominant part of society as their cousins in Rajputana and lead a slightly different kind of life. Instead of a life on horseback the Purbias have elected to sow the fields and protect their settlements on foot. It was therefore with great joy that the Purbias greeted the advent of the firearm in the Indian subcontinent. With gunpowder weapons they have become every bit as dangerous on foot as their western cousins have on horseback. Let us send our recruiters to these villages to make good use of this free expertise.",
-        "translation": "根瑙杰在9世纪被攻陷之后，拉其普特们纷纷建立自己的小王国。拉其普特，同他们在西印度的亲戚拉杰普塔纳不一样，擅于步行作战，而不是骑兵作战。随着火器的引入，他们十分适合现在的陆战。让我们招募这些人陆战专家吧。",
+        "translation": "根瑙杰在9世纪被攻陷之后，拉杰普特们纷纷建立自己的小王国。拉杰普特，同他们在西印度的亲戚拉杰普塔纳不一样，擅于步行作战，而不是骑兵作战。随着火器的引入，他们十分适合现在的陆战。让我们招募这些人陆战专家吧。",
         "stage": 1
     },
     {
@@ -19124,7 +19124,7 @@
     {
         "key": "rebuilding_mexico_desc:0",
         "original": "Cortez saw to it that the temples to the pagan gods of the Aztecs were destroyed during the conquest of these lands. It falls on us to convert the ruins of temples into house of worship for God. The building materials being already present will surely make the job cheaper.",
-        "translation": "科特斯在战争中努力想把那些供奉阿兹特克神明的寺庙摧毁。现在轮到我们去修复这些寺庙了。现在建筑材料已经准备好了，这项工作的成本将不会太高。",
+        "translation": "科尔特斯在战争中努力想把那些供奉阿兹特克神明的寺庙摧毁。现在轮到我们去修复这些寺庙了。现在建筑材料已经准备好了，这项工作的成本将不会太高。",
         "stage": 1
     },
     {
@@ -19508,7 +19508,7 @@
     {
         "key": "nine_garrisons_of_the_great_wall:0",
         "original": "Nine Garrisons of The Great Wall",
-        "translation": "长城九边",
+        "translation": "长城九镇",
         "stage": 1
     },
     {
@@ -19988,7 +19988,7 @@
     {
         "key": "bundelkhandi_rajput_connections_desc:0",
         "original": "Before the Islamic conquest northern India was dominated by huge Rajput kingdoms and federations and while few such kingdoms of note now remain outside of the Rajputana today the Rajputs are still a force to be reckoned with among the northern Indian nobility. The ruling class in our kingdom is no exception to this rule and while few would consider Bundelkhand or Baghelkhand a part of the Rajputana our Rajput heritage is still cherished and the links to other Rajput dynasties in India are still strong.",
-        "translation": "在伊斯兰征服之前，北印度为许多拉吉普特王国和联盟统治，而虽然少数这些著名的王国如今在拉吉普塔纳的范围之外，但拉吉普特人仍是北印度贵族阶级中的一支不可小觑的力量。我们王国中的统治阶级亦不例外，而一些人会认为本德尔汗德或巴克尔根德是拉吉普塔纳的一部分，我们的拉吉普特传统仍被珍视，与印度其他拉吉普特人王朝的纽带仍然强大。",
+        "translation": "在伊斯兰征服之前，北印度为许多拉杰普特王国和联盟统治，而虽然少数这些著名的王国如今在拉杰普塔纳的范围之外，但拉杰普特人仍是北印度贵族阶级中的一支不可小觑的力量。我们王国中的统治阶级亦不例外，而一些人会认为本德尔汗德或巴克尔根德是拉杰普塔纳的一部分，我们的拉杰普特传统仍被珍视，与印度其他拉杰普特人王朝的纽带仍然强大。",
         "stage": 1
     },
     {
@@ -21566,13 +21566,13 @@
     {
         "key": "cat_miquelets_desc:0",
         "original": "In times of war it is customary for groups of Catalans to take up arms. These groups, known as Miquelets, are maintained at parish level rather than by the central or the provincial governments. As they are called to duty by the sound of the village bell (Someten) they are also frequently called 'Somatenes' and while some would regard them as mere bandits they are always ready to defend Catalan lands from foreigners, from Turks and Frenchmen to the Castilians who would presumptuously call themselves 'Spanish'.",
-        "translation": "在战时,加泰罗尼亚人便会武装起来. 这些人被称为米克莱. 他们由教区维持,而非收到城市或地方给养. 每当村中大钟(索梅坦)响起,他们便武装起来,因而也得名\"索梅特纳\". 虽然一些人把他们视作山贼,但他们始终保卫加泰罗尼亚不受外国人侵扰,不论敌人是突厥人,法国人还是卡斯提尔自称\"西班牙人\"的那群孬种.",
+        "translation": "在战时，加泰罗尼亚人便会武装起来。由这些人组成的团体被称为米克莱，他们由教区负责供给，而非由中央或省级政府给养。每当村中大钟（索梅坦）响起，他们便武装起来，因而也得名「索梅特纳」。虽然一些人把他们视作山贼，但他们始终保卫加泰罗尼亚不受外国人侵扰，不论敌人是突厥人、法兰西人还是自称「西班牙人」的卡斯蒂利亚人。",
         "stage": 1
     },
     {
         "key": "cat_lliures_morts:0",
         "original": "'Lliures o Morts'",
-        "translation": "不自由毋宁死",
+        "translation": "『不自由毋宁死』",
         "stage": 1
     },
     {
@@ -23700,24 +23700,6 @@
         "stage": 1
     },
     {
-        "key": "YOR_ideas:0",
-        "original": "Andhra Ideas",
-        "translation": "安德拉理念",
-        "stage": 1
-    },
-    {
-        "key": "YOR_ideas_start:0",
-        "original": "Andhra Traditions",
-        "translation": "安德拉传统",
-        "stage": 1
-    },
-    {
-        "key": "YOR_ideas_bonus:0",
-        "original": "Andhra Ambition",
-        "translation": "安德拉野心",
-        "stage": 1
-    },
-    {
         "key": "yor_telugu_warrior_aristocrats:0",
         "original": "Telugu Warrior Aristocrats",
         "translation": "泰卢固武士贵族",
@@ -23822,13 +23804,13 @@
     {
         "key": "lon_heritage_of_the_reconquista:0",
         "original": "Heritage of the Reconquista",
-        "translation": "再征服运动遗产",
+        "translation": "收复失地运动遗产",
         "stage": 1
     },
     {
         "key": "lon_heritage_of_the_reconquista_desc:0",
         "original": "For hundreds of years our kingdom has fought to spread the Christian rule in Iberia, a battle we then continued as part of the crown of Castille. This has left us with a country rich in Martial traditions and battle hardened officers.",
-        "translation": "几百年来，我们的王国一直在伊比利亚为基督教而战，就算成为卡斯提尔王国的一部分之后也仍未改变。这为我国留下了深厚的军事传统和许多久经沙场的军官。",
+        "translation": "几百年来，我们的王国一直在伊比利亚为基督教而战，就算成为卡斯蒂利亚王国的一部分之后也仍未改变。这为我国留下了深厚的军事传统和许多久经沙场的军官。",
         "stage": 1
     },
     {
@@ -23888,7 +23870,7 @@
     {
         "key": "lon_patronize_leonese_language_desc:0",
         "original": "For many years during our union with Castille the Leonese language has been losing ground to Castilian. While we have reversed this trend there is still much work to be done. We must issue an official Leonese grammar and ensure that the language is used in all layers of our administration. In addition let us patronize those who can develop the language, the great writers, actors and poets of our nation.",
-        "translation": "许多年来，卡斯提尔和莱昂的联合统治使得莱昂的语言被卡斯提尔语所埋没。即便这一趋势已经转变，我们还有许多工作要完成。设置标准的莱昂语法，并保障莱昂语是所有行政机构的官方语言。此外，我们还要支持我国那些能推动语言发展的人，例如伟大的作家，演员和诗人们。",
+        "translation": "许多年来，卡斯蒂利亚和莱昂的联合统治使得莱昂的语言被卡斯蒂利亚语所埋没。即便这一趋势已经转变，我们还有许多工作要完成。设置标准的莱昂语法，并保障莱昂语是所有行政机构的官方语言。此外，我们还要支持我国那些能推动语言发展的人，例如伟大的作家、演员和诗人们。",
         "stage": 1
     },
     {
@@ -23900,7 +23882,7 @@
     {
         "key": "lon_nationalism_desc:0",
         "original": "From the Castilians to the French there have been many peoples intent to conquer our people and suppress our culture. In times of war we must resist foreign occupation at all cost with arms in hand, this is as true for our professional forces as it is for the guerillas that protect the lands beyond the frontlines.",
-        "translation": "从卡斯提尔人到法国人，许多民族试图征服我们的子民，压制我们的文化。战争来临时，我们必须拿起武器不惜一切代价抵抗敌人的占领，不论是前线作战的正规军还是在后方保卫我们家园的游击队。",
+        "translation": "从卡斯蒂利亚人到法兰西人，许多民族试图征服我们的子民，压制我们的文化。战争来临时，我们必须拿起武器不惜一切代价抵抗敌人的占领，不论是前线作战的正规军还是在后方保卫我们家园的游击队。",
         "stage": 1
     },
     {
@@ -24483,12 +24465,12 @@
         "key": "gal_santiago_y_cierra:0",
         "original": "Santiago y Cierra!",
         "translation": "雅各保佑，冲锋!",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "gal_santiago_y_cierra_desc:0",
         "original": "'Santiago y Cierra!' (St. James and close!) was the rallying call of Spanish crusaders against the Moors during the Reconquista. It was in Galicia that the holy remains of St. James were found, so let it be known that the Apostle holds our people in especial esteem. Victory and glory await only the bold, and none are bolder than Galicians!",
-        "translation": "“雅各保佑，冲锋！”是再征服运动中西班牙十字军对摩尔人进攻时的口号。 而加利西亚拥有雅各的圣遗物，我们的子民格外受圣人庇佑。胜利与光辉只眷顾勇者，而加利西亚人最英勇无畏！",
+        "translation": "「雅各保佑，冲锋！」是收复失地运动中西班牙十字军对摩尔人进攻时的口号。 而加利西亚拥有雅各的圣遗物，我们的子民格外受使徒庇佑。胜利与光辉只眷顾勇者，而加利西亚人最英勇无畏！",
         "stage": 1
     },
     {
@@ -25100,7 +25082,7 @@
     {
         "key": "trt_river_landscape_desc:0",
         "original": "A great number of tributaries to the Ganges criss cross our country. Rivers such as the Kosi, Gandak, Mahananda or Bagmati water our lands and provide transportation for our merchants. At times, however, they are also a great hindrance. Great rains can sometimes flood large areas of our state, spreading disease, destroying roads and harming our crops. As natives of these lands this is something we have grown used to handling. An invader on the other hand could easily find himself in a much harsher situation.",
-        "translation": "大量恒河支流横穿我国。他们中有戈西河，甘达基河，默哈嫩达河和巴格马蒂河，滋润着我们的土地，为商人提供交通的便利。然而有时候它们也会妨碍我们。每当雨季来临，洪水席卷大片土地，传播瘟疫，冲毁道路和庄稼。作为这片土地的原住民，我们对此习以为常。而另一边的入侵者则很容易身陷囹圄。",
+        "translation": "恒河纵横的支流有很多穿越了我们的国家。 诸如戈西河，布里根德格河，默哈嫩达河与巴格马提等河滋润着我们的土地，为我们的商人提供交通。 然而，有时它们也是很大的阻碍。 大雨有时会淹没我们州的大部分地区，传播疾病，摧毁道路，伤害我们的庄稼。 作为本地人的我们可以很好的处理这些。 但在另一方面，对于入侵者来说他们很容易发现自己处于如此严酷的境地。",
         "stage": 1
     },
     {
@@ -31634,7 +31616,7 @@
     {
         "key": "trs_threshold_of_paradise_desc:0",
         "original": "While he was far from the first conqueror to come to Transoxiana, Timur made the region the center of his Empire and he brought treasures, artists, builders and artisans from the entire world to his great capital in Samarkand. We must strive to uphold this legacy, and continue to embellish this foremost jewel among cities. From the courts in Castile to the palaces in Beijing everyone shall covet the gilded city on the Silk Road.",
-        "translation": "当他距第一个征服者很远之后来到河中地区的时候，帖木儿把这里变成了他的帝国的中心，他把全世界的珍宝、艺术家、建筑商和工匠带到他在撒马尔罕的伟大首都。我们必须努力维护这一遗产，并继续美化这一城市。从卡斯提尔的宫廷到北京的宫殿，每个人都会觊觎这座在丝绸之路上的镀金之城。",
+        "translation": "当他距第一个征服者很远之后来到河中地区的时候，帖木儿把这里变成了他的帝国的中心，他把全世界的珍宝、艺术家、建筑商和工匠带到他在撒马尔罕的伟大首都。我们必须努力维护这一遗产，并继续美化这一城市。从卡斯蒂利亚的宫廷到北京的宫殿，每个人都会羡慕这座在丝绸之路上的镀金之城。",
         "stage": 1
     },
     {
@@ -31850,7 +31832,7 @@
     {
         "key": "frs_shirazi_school_desc:0",
         "original": "As a center of learning it is perhaps no wonder that the workshops of Fars have risen to fame for the great output of books and miniature paintings. Famous master painters and bookmakers have always settled in our cities and enjoyed our protection.\\nThe Shirazi school can only blossom with lavish support to create more books, however, and that is something we must provide if we are not to be overshadowed by Indian or Azerbaijani bookbinders and painters.",
-        "translation": "作为学习的中心，难怪法尔斯的工坊会因大量书籍和微型绘画而声名鹊起。著名的绘画大师和图书编纂者一直在我们的城市定居，并享受着我们的保护。\\n然而，如果我们不愿我们的光辉被印度或阿塞拜疆的书写者和画家掩盖，我们必须为设拉子学校提供无私的支持以便书写更多的书籍。",
+        "translation": "毫无疑问，法尔斯的工作室作为一个学习中心以大量的书籍和微型绘画而闻名。著名的画家和作家们总是乐意定居在我们的城市里，接受我们的保护。\\n但设拉子学校需要在慷慨的支持下才能蓬勃发展，从而创造更多佳作。如果我们不想被印度以及阿塞拜疆的书商和画家掩盖光芒，我们就必须提供这些东西。",
         "stage": 1
     },
     {
@@ -38977,8 +38959,8 @@
     },
     {
         "key": "chr_renovate_transfiguration_cathedral_desc:0",
-        "original": "As the oldest remaining structure in the city, the Transfiguration Cathedral is a reminder of past glories as well as a symbol of our enduring faith. The Cathedreal should be renovated, symbolizing a renewal of our ambitions and spiritual dedication.",
-        "translation": "作为城市中最古老的建筑，主显圣容主教座堂提醒着人们过去的辉煌，同时也是我们长久信仰的象征。我们应当翻修大教堂以彰显着我们的野心与为信仰作出的奉献。",
+        "original": "As the oldest remaining structure in the city, the Transfiguration Cathedral is a reminder of past glories as well as a symbol of our enduring faith. The Cathedral should be renovated, symbolizing a renewal of our ambitions and spiritual dedication.",
+        "translation": "作为城市中最古老的建筑，主显圣容主教座堂提醒着人们过去的辉煌，同时也是我们长久信仰的象征。我们应当翻修大教堂，彰显着我们的野心与为信仰作出的奉献。",
         "stage": 1
     },
     {
@@ -39183,6 +39165,876 @@
         "key": "cossacks_registered_desc:0",
         "original": "As the ranks of our Host swell, we must keep account of the strength of each regiment, their numbers and how well they are supplied. A centralized registry will allow us to support the needs of all Cossacks.",
         "translation": "随着军团的规模不断增长，我们必须要把各军团的兵力、数量以及补给程度记录在案。一份由中央管理的花名册可使得我们满足全体哥萨克人的需求。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MAY_PERFORM_SLAVE_RAID_ON_SAME_RELIGION:0",
+        "original": "May Raid Coasts, including coasts of countries with same religion.",
+        "translation": "可以劫掠海岸（包括相同宗教国家）",
+        "stage": 1
+    },
+    {
+        "key": "pirate_ideas:0",
+        "original": "Piratical Ideas",
+        "translation": "海盗理念",
+        "stage": 1
+    },
+    {
+        "key": "pirate_ideas_start:0",
+        "original": "Piratical Traditions",
+        "translation": "海盗传统",
+        "stage": 1
+    },
+    {
+        "key": "pirate_ideas_bonus:0",
+        "original": "Piratical Ambition",
+        "translation": "海盗野心",
+        "stage": 1
+    },
+    {
+        "key": "pirates_plunder:0",
+        "original": "Plunder!",
+        "translation": "战利品！",
+        "stage": 5
+    },
+    {
+        "key": "pirates_plunder_desc:0",
+        "original": "The Pirate Republic lives and dies by the amount of plunder we can haul back to our ports. Let's take everything that isn't nailed down! On second thought, let's take everything that is nailed down too. And the nails!",
+        "translation": "海盗共和国的生死存亡在于我们能拿回到自家港口的战利品数量有多少。让我们把没钉死的都拿走！不对再寻思一下，还是把被钉死的东西也都拿走！也别忘了那些钉子！",
+        "stage": 1
+    },
+    {
+        "key": "pirates_bucanneers_ideas:0",
+        "original": "Buccaneers",
+        "translation": "海盗",
+        "stage": 1
+    },
+    {
+        "key": "pirates_bucanneers_ideas_desc:0",
+        "original": "We take our recruits from the desperate and the outcast. Self-proclaimed 'civilized' nations routinely enslave those they consider their inferiors and forcibly press their own countrymen into military service. Those who escape the bonds of tyranny find a home in our Republic.",
+        "translation": "我们从绝望和被抛弃的人中招募我们的新船员.那些 自封的“文明”国家经常奴役那些他们认为是低等的人，并强迫他们自己的同胞服兵役。 那些逃避暴政的人找到了我们的共和国作为家园。",
+        "stage": 1
+    },
+    {
+        "key": "pirates_sail_in_consort:0",
+        "original": "Sail in Consort",
+        "translation": "结伴出海",
+        "stage": 1
+    },
+    {
+        "key": "pirates_sail_in_consort_desc:0",
+        "original": "A single hunter is easily outmaneuvered or outgunned on the open ocean. When we sail in consort we can use our numbers to great tactical advantage.",
+        "translation": "单个猎人很容易在开阔的海洋中被击败或者被火力压制.当我们在配合中出海时，我们可以利用我方数量来获得极大的战术优势。",
+        "stage": 1
+    },
+    {
+        "key": "pirates_elected_quartermasters:0",
+        "original": "Elected Quartermasters",
+        "translation": "选举军需官",
+        "stage": 1
+    },
+    {
+        "key": "pirates_elected_quartermasters_desc:0",
+        "original": "Quartermasters on a pirate ship are elected representatives of the crew. They advocate the crew's needs to the captain and act as counterweight to his often arbitrary authority.",
+        "translation": "海盗船上的军需官由船员推举产生。他们会维护船员对船长的要求，并时常作为船长权威的平衡者。",
+        "stage": 1
+    },
+    {
+        "key": "pirate_bays:0",
+        "original": "Pirate Bays",
+        "translation": "海盗港口",
+        "stage": 1
+    },
+    {
+        "key": "pirate_bays_desc:0",
+        "original": "Our coastline is littered with hidden coves and defensible bays that we can use to lure would-be pirate hunters into a deadly ambush.",
+        "translation": "我们的海岸线上到处都是隐藏的海湾和可防御的海岬，我们可以利用这些海湾吸引潜在的所谓海盗猎人进入致命的伏击。",
+        "stage": 1
+    },
+    {
+        "key": "pirate_life_of_liberty:0",
+        "original": "Life of Liberty",
+        "translation": "自由生活",
+        "stage": 1
+    },
+    {
+        "key": "pirate_life_of_liberty_desc:0",
+        "original": "The liberties we enjoy as free men are the envy of the peasants, slaves, and conscripts who toil for the profit of their superiors. Our smugglers should begin to distribute propaganda to stoke their resentment in the hopes that they will rise up and join our cause.",
+        "translation": "农民、奴隶和为上级的利益而奔命的征夫们最羡慕我们享受的自由了，我们的走私者应该开始分发宣传品，以激起他们的怨念仇恨，希望他们能够站起来加入我们的事业。",
+        "stage": 1
+    },
+    {
+        "key": "pirates_religious_apathy:0",
+        "original": "Religious Apathy",
+        "translation": "宗教冷漠",
+        "stage": 1
+    },
+    {
+        "key": "pirates_religious_apathy_desc:0",
+        "original": "What does it matter which god the pirates worship? Their souls are likely damned regardless.",
+        "translation": "海盗崇拜哪个神有什么关系？反正他们的灵魂横竖都是被诅咒的那种。",
+        "stage": 1
+    },
+    {
+        "key": "factories:0",
+        "original": "Factories",
+        "translation": "工厂",
+        "stage": 1
+    },
+    {
+        "key": "factories_desc:0",
+        "original": "Factories were mostly fortified trading posts settled in offshore coastal areas. These provided safety for both the merchants and the local populace from hostile forces that would disturb our trade.",
+        "translation": "工厂主要是在近海沿岸地区设立的强化交易站，为商人和当地民众提供了安全保护，防止敌对势力破坏我们的贸易。",
+        "stage": 1
+    },
+    {
+        "key": "general_colonization_law:0",
+        "original": "General Colonization Law",
+        "translation": "一般殖民法",
+        "stage": 1
+    },
+    {
+        "key": "general_colonization_law_desc:0",
+        "original": "By adopting a law allowing free movement of foreign people to our colonies we'll be sure to lure a wider range of future settlers.",
+        "translation": "通过一项法律允许外国人自由迁移到我们殖民地，我们一定会在更广的范围吸引未来定居者。",
+        "stage": 1
+    },
+    {
+        "key": "empiricism:0",
+        "original": "Empiricism",
+        "translation": "经验主义",
+        "stage": 1
+    },
+    {
+        "key": "empiricism_desc:0",
+        "original": "With the search of knowledge also comes many false ideas. It is only with evidence and our experience of the world around us that we can prove or disprove that what is before us is in fact true.",
+        "translation": "随着知识的搜索也会产生许多错误的想法。只有凭借我们周围世界的证据和经验，我们才能证明或证伪摆在我们面前的什么是真实的。",
+        "stage": 1
+    },
+    {
+        "key": "print_culture:0",
+        "original": "Print Culture",
+        "translation": "印刷文化",
+        "stage": 1
+    },
+    {
+        "key": "print_culture_desc:0",
+        "original": "It is by exchange of ideas that we advance as a society. The words of our generations greatest minds must be written down and shared with their peers.",
+        "translation": "思想交流促进社会进步。我们这一代最伟大的思想必须记录下来，分享与其同行者。",
+        "stage": 1
+    },
+    {
+        "key": "merchant_traditions:0",
+        "original": "Merchant Traditions",
+        "translation": "商人传统",
+        "stage": 1
+    },
+    {
+        "key": "merchant_traditions_desc:0",
+        "original": "Our nation has a long history of trading at sea with a network of merchants which reach far beyond the horizon. The excellence of our merchant marine and it's daring to sail seas others rather wouldn't is well known.",
+        "translation": "我国拥有海上贸易的悠久历史，商人网络远及地平线。众所周知，我国杰出的商船敢于航行别人不愿去的航线。",
+        "stage": 1
+    },
+    {
+        "key": "buffer_states:0",
+        "original": "Buffer States",
+        "translation": "缓冲国",
+        "stage": 1
+    },
+    {
+        "key": "buffer_states_desc:0",
+        "original": "To avoid wars between us and a mighty rival, establishing a buffer state between us is not only mutually beneficial but imperative for the stability of the region.",
+        "translation": "为了避免我们与强大竞争对手之间的战争，在两国之间建立缓冲国是互利的，且对于该地区的稳定至关重要。",
+        "stage": 1
+    },
+    {
+        "key": "camp_followers:0",
+        "original": "Camp Followers",
+        "translation": "随营人员",
+        "stage": 1
+    },
+    {
+        "key": "camp_followers_desc:0",
+        "original": "Moving through the lands with a force like ours is a large task. Luckily as the army swells so does as well the train of Camp Followers that provide and service the army.",
+        "translation": "像我们这样的强大的军队穿越土地是一项艰巨的任务。幸运的是，随着军队的扩充，随营人员的列车也建立起来，为军队提供服务。",
+        "stage": 1
+    },
+    {
+        "key": "grand_banquets:0",
+        "original": "Grand Banquets",
+        "translation": "盛宴",
+        "stage": 1
+    },
+    {
+        "key": "grand_banquets_desc:1",
+        "original": "Foreign dignitaries love the opportunity to partake in high society and the festivities that come with it. The grandeur of our society is known far and wide.",
+        "translation": "外国政要喜欢有机会参与上流社会和随之而来的庆祝活动中。我们社会的宏伟是广为人知的。",
+        "stage": 1
+    },
+    {
+        "key": "CAS_ideas:0",
+        "original": "Castilian Ideas",
+        "translation": "卡斯蒂利亚理念",
+        "stage": 1
+    },
+    {
+        "key": "CAS_ideas_start:0",
+        "original": "Castilian Traditions",
+        "translation": "卡斯蒂利亚传统",
+        "stage": 1
+    },
+    {
+        "key": "CAS_ideas_bonus:0",
+        "original": "Castilian Ambition",
+        "translation": "卡斯蒂利亚野心",
+        "stage": 1
+    },
+    {
+        "key": "spa_casa_de_contracion:0",
+        "original": "Casa de Contratación",
+        "translation": "西印度交易所",
+        "stage": 1
+    },
+    {
+        "key": "spa_casa_de_contracion_desc:0",
+        "original": "We must extend the reach of the House of Trade of the Indies. Our colonial agents must have a presence in every part of the world to ensure the smooth functioning of our empire.",
+        "translation": "我们必须扩大印度事务院的范围。我们的殖民代理人必须在世界各地都有存在，以确保我们帝国的顺利运作。",
+        "stage": 1
+    },
+    {
+        "key": "spa_cortes:0",
+        "original": "Rein in the Cortes",
+        "translation": "控制议会",
+        "stage": 1
+    },
+    {
+        "key": "spa_cortes_desc:0",
+        "original": "Each constitutent Kingdom in the Spanish realm has its own corte, an assembly of the most powerful elements of society in the region. There is often tension between the Crown and the Cortes over such issues as taxation and regional autonomy. We must rein in these institutions so that they primarily serve the Crown rather than their own interests.",
+        "translation": "西班牙领土内的每一个构成王国的地区都有自己的议会，它在地区力量如此强大的社会因素。在税收和地区自治等问题上，王室与议会之间经常存在着紧张的关系。我们必须控制这些机构，使它们主要为王室服务而不是为各自的利益。",
+        "stage": 1
+    },
+    {
+        "key": "cabildos:0",
+        "original": "Cabildos",
+        "translation": "卡比多斯",
+        "stage": 1
+    },
+    {
+        "key": "cabildos_desc:0",
+        "original": "Representing the interests of the cities, the 'Cabildos' councils have a wide variety of functions and duties. They are responsible for both advocating the interests of the city to the Crown and for many aspects of local governance. We must continue to establish Cabildos in newly-founded or newly-conquered cities, particularly in the New World where the need for Castilian institutions is felt most severely.",
+        "translation": "代表城市利益的卡比多斯理事会有各种各样的职能和职责。他们肩负着维护城市利益和王权利益的责任，也承担着许多方面的地方治理的责任。我们必须继续在新建或新征服的城市建立卡比多斯，特别是在新大陆，那里对卡斯蒂利亚制度的需求最为强烈。",
+        "stage": 1
+    },
+    {
+        "key": "infantas:0",
+        "original": "Infantas",
+        "translation": "卡斯蒂利亚王嗣",
+        "stage": 1
+    },
+    {
+        "key": "infantas_desc:0",
+        "original": "The Princes and Princesses of the Crown are among our most valuable assets. They can be sent as royal envoys, married off to secure alliances, or appointed as regents when the need arises. It is important that we ensure that our monarch's loins continue to bear fruit.",
+        "translation": "王室的公主和王子们是我们最宝贵的资产。他们可以作为皇家使节进行派遣，联姻以确保联盟的稳固，或在需要时被指定为摄政。让我们的君主持续不断地生育是很重要的。",
+        "stage": 1
+    },
+    {
+        "key": "salamanca_scholars:0",
+        "original": "School of Salamanca",
+        "translation": "萨拉曼卡学派",
+        "stage": 1
+    },
+    {
+        "key": "salamanca_scholars_desc:0",
+        "original": "Based in the University of Salamanca, the School's interests lie in fields as diverse as theology, economics, and political philosophy. As one of the leading schools of thought in the Catholic world, its entrenched presence in Castile ensures that our nation is always at the forefront of intellectual affairs.",
+        "translation": "扎根于萨拉曼卡大学，该学派的研究兴趣在神学，经济学和政治哲学等多个领域。 作为天主教世界领先的思想流派之一，其在卡斯蒂利亚的枝繁叶茂确保了我们的国家始终站在学术的最前沿。",
+        "stage": 1
+    },
+    {
+        "key": "nueva_planta:0",
+        "original": "Nueva Planta",
+        "translation": "新基本法令",
+        "stage": 1
+    },
+    {
+        "key": "nueva_planta_desc:0",
+        "original": "It is time to assert true royal authority in the realm; under a single set of laws and a common language, a renewed and centralized Castile will directly appoint officials and enshrine the absolute rule of the monarch.",
+        "translation": "是时候在这个领域展现真正的皇家权威了，在规定统一法律和通用语言之下, 一个复兴的集权化卡斯蒂利亚将会直接领导官员们侍奉绝对的君主统治。",
+        "stage": 1
+    },
+    {
+        "key": "MOR_ideas:0",
+        "original": "Moroccan Ideas",
+        "translation": "摩洛哥理念",
+        "stage": 1
+    },
+    {
+        "key": "MOR_ideas_start:0",
+        "original": "Moroccan Traditions",
+        "translation": "摩洛哥传统",
+        "stage": 1
+    },
+    {
+        "key": "MOR_ideas_bonus:0",
+        "original": "Moroccan Ambition",
+        "translation": "摩洛哥野心",
+        "stage": 1
+    },
+    {
+        "key": "mor_powerful_viziers:0",
+        "original": "Powerful Viziers",
+        "translation": "优秀的维齐尔",
+        "stage": 1
+    },
+    {
+        "key": "mor_powerful_viziers_desc:0",
+        "original": "Morocco's Viziers wield exceptional power within the state. Though undoubtedly effective at administering our nation, we must take care that they do not cultivate ambitions for even greater power.",
+        "translation": "摩洛哥的维齐尔们在国家中握有不同寻常的权力。虽然他们管理国家的手段很有效，但也要注意他们不会产生追求更大权力的野心。",
+        "stage": 1
+    },
+    {
+        "key": "mor_marabouts:0",
+        "original": "Sufi Marabouts",
+        "translation": "苏菲马拉伯特",
+        "stage": 1
+    },
+    {
+        "key": "mor_marabouts_desc:0",
+        "original": "Several groups of Sufi teachers have made Morocco their home. We must make sure that we accomodate these holy men, and take their teachings to heart.",
+        "translation": "数个苏菲派导师的团体已经将摩洛哥视为他们的家，我们必须确保能容纳这些圣人，并将他们的教导铭记于心。",
+        "stage": 1
+    },
+    {
+        "key": "mor_pirate_republics:0",
+        "original": "Protect Pirate Republics",
+        "translation": "保护海盗共和国",
+        "stage": 1
+    },
+    {
+        "key": "mor_pirate_republics_desc:0",
+        "original": "Made up of refugees and opportunists, a multitude of pirate settlements have sprung up on the Moroccan coast. We should take these pirates under our wing so that they may harass our enemies on the water.",
+        "translation": "由难民和机会主义者组成的海盗定居点正大批涌现在摩洛哥的海岸上。我们应该把这些海盗招安到我们的麾下，这样他们就可以在海上袭扰我们的敌人了。",
+        "stage": 1
+    },
+    {
+        "key": "mor_fleet:0",
+        "original": "Defend the Coastline",
+        "translation": "防卫海岸线",
+        "stage": 1
+    },
+    {
+        "key": "mor_fleet_desc:0",
+        "original": "Morocco has many enemies that could launch an invasion from acrosss the sea. We must contruct a fleet large and powerful enough to repel foreign invaders whether they be Christian conquerors or Muslim corsairs.",
+        "translation": "有很多摩洛哥的敌人拥有从海上入侵的能力。我们必须建立一支强大舰队，它足以击退外来入侵者——无论是基督徒征服者还是穆斯林海盗。",
+        "stage": 1
+    },
+    {
+        "key": "mor_slave_soldiers:0",
+        "original": "Slave Soldiers",
+        "translation": "奴隶士兵",
+        "stage": 1
+    },
+    {
+        "key": "mor_slave_soldiers_desc:0",
+        "original": "Unfortunately we cannot always trust our soldiers to serve us loyally. By creating an army of slaves, however, loyalty ceases to be a relevant concern.",
+        "translation": "不幸的是，我们无法完全依靠服役士兵们的忠诚。然而，通过建立一支奴隶军队，忠诚与否就不再是问题。",
+        "stage": 1
+    },
+    {
+        "key": "mor_curb_power_of_the_tribes:0",
+        "original": "Curb Tribal Power",
+        "translation": "压制部落权力",
+        "stage": 1
+    },
+    {
+        "key": "mor_curb_power_of_the_tribes_desc:0",
+        "original": "The nomadic tribes that travel across our lands are our nominal subjects, but also a regular source of discord and dissent. We must rein in their power and bring them firmly in line with the state's policies.",
+        "translation": "遍布我们国土的游牧部落是我们的主体民族，但也往往是不和与异议的来源。我们必须控制他们的权力，使其与国策保持一致。",
+        "stage": 1
+    },
+    {
+        "key": "TUN_ideas:0",
+        "original": "Tunisian Ideas",
+        "translation": "突尼斯理念",
+        "stage": 1
+    },
+    {
+        "key": "TUN_ideas_start:0",
+        "original": "Tunisian Traditions",
+        "translation": "突尼斯传统",
+        "stage": 1
+    },
+    {
+        "key": "TUN_ideas_bonus:0",
+        "original": "Tunisian Ambition",
+        "translation": "突尼斯野心",
+        "stage": 1
+    },
+    {
+        "key": "tun_catalan_guard:0",
+        "original": "Catalan Guard",
+        "translation": "加泰罗尼亚卫队",
+        "stage": 1
+    },
+    {
+        "key": "tun_catalan_guard_desc:0",
+        "original": "We have hired a large contingent of Catalan mercenaries to protect the Sultan. As experienced soldiers with no stake in Tunisian politics, they can be relied upon to serve us loyally so long as we continue to pay them well.",
+        "translation": "我们雇用了一大批加泰罗尼亚雇佣兵来保护苏丹。这些经验丰富的士兵在突尼斯政治中没有利害关系，因此是值得依赖的，只要我们能付出工资，他们就会忠诚地为我们服务。",
+        "stage": 1
+    },
+    {
+        "key": "tun_attract_foreign_pirates:0",
+        "original": "Attract Foreign Pirates",
+        "translation": "吸引外国海盗",
+        "stage": 1
+    },
+    {
+        "key": "tun_attract_foreign_pirates_desc:0",
+        "original": "It is not only ghazi, refugees, and fishermen who are attracted to piracy; the allure of profit can attract even our Christian enemies to the profession.",
+        "translation": "会受诱惑去当海盗的不仅仅是劫掠者，难民以及渔民；利益的诱惑甚至会吸引我们的基督教敌人投身于此。",
+        "stage": 1
+    },
+    {
+        "key": "tun_board_of_captains:0",
+        "original": "Board of Captains",
+        "translation": "船长理事会",
+        "stage": 1
+    },
+    {
+        "key": "tun_board_of_captains_desc:0",
+        "original": "The corsairs must no longer conduct their business in an unorganized and decentralized fashion. It is time to establish a state-led Board of Captains to organize and regulate pirate activity on our coast.",
+        "translation": "海盗们必须停止以无组织和分散的方式开展他们的业务。是时候建立一个由国家领导的船长理事会来组织并管理我们在沿海的私掠活动了。",
+        "stage": 1
+    },
+    {
+        "key": "tun_export_monopolies:0",
+        "original": "Export Monopolies",
+        "translation": "出口垄断",
+        "stage": 1
+    },
+    {
+        "key": "tun_export_monopolies_desc:0",
+        "original": "As the rural interior of our nation better integrates with the urban coast, more goods find their way into Tunisian ports. We must monopolize exports of these goods so that the profits benefit the state.",
+        "translation": "随着我国农村内陆更好地融入沿岸城区市，更多的商品设法找到了如何进入突尼斯港口的法子。 我们必须垄断这些商品的出口，这样利润就会让国家收益。",
+        "stage": 1
+    },
+    {
+        "key": "tun_caliphate:0",
+        "original": "Tunisian Caliphate",
+        "translation": "突尼斯的哈里发",
+        "stage": 1
+    },
+    {
+        "key": "tun_caliphate_desc:0",
+        "original": "Though the Sultans of Tunis have long styled themselves as Caliphs of Islam, this title has rarely been taken seriously by other Muslims. We must demonstrate our piety so that our brothers of the faith see us as a true Caliphate.",
+        "translation": "虽然突尼斯的苏丹号称自己是伊斯兰的哈里发已经许久了，但这个头衔很少被其他穆斯林严肃对待。我们必须展示出我们的虔诚，这样我们的伊斯兰兄弟们就会把我们视作真正的哈里发。",
+        "stage": 1
+    },
+    {
+        "key": "barbary_pirate_ideas:0",
+        "original": "Barbary Corsair Ideas",
+        "translation": "巴巴里海盗理念",
+        "stage": 1
+    },
+    {
+        "key": "barbary_pirate_ideas_start:0",
+        "original": "Barbary Corsair Traditions",
+        "translation": "巴巴里海盗传统",
+        "stage": 1
+    },
+    {
+        "key": "barbary_pirate_ideas_bonus:0",
+        "original": "Barbary Corsair Ambition",
+        "translation": "巴巴里海盗野心",
+        "stage": 1
+    },
+    {
+        "key": "galley_slaves:0",
+        "original": "Galley Slaves",
+        "translation": "桨帆船上的奴隶",
+        "stage": 1
+    },
+    {
+        "key": "galley_slaves_desc:0",
+        "original": "Not all of the slaves we capture are sold in the East; many are fated to serve on the galleys, ensuring a ready supply of seamen to row our ships.",
+        "translation": "并非所有我们捕获的奴隶都在东方出售; 许多人都注定要在桨帆船上服务，以此确保时刻能供应海员来划浆。",
+        "stage": 1
+    },
+    {
+        "key": "vengeful_refugees:0",
+        "original": "Vengeful Refugees",
+        "translation": "难民的复仇",
+        "stage": 1
+    },
+    {
+        "key": "vengeful_refugees_desc:0",
+        "original": "As both Muslims and Moriscos are expelled by the Christians of Iberia, refugees flee to the Maghreb. These refugees are none too pleased about being displaced, and eagerly accept the opportunity to profit from their downfall.",
+        "translation": "由于穆斯林和摩里斯克人都被伊比利亚的基督徒驱赶了，难民们逃往了马格里布。这些难民对于被逼流离失所仍心怀怨念，并热切希望能趁着他们衰落的时机中获利。",
+        "stage": 1
+    },
+    {
+        "key": "mazmorras:0",
+        "original": "Mazmorras",
+        "translation": "地牢",
+        "stage": 1
+    },
+    {
+        "key": "mazmorras_desc:0",
+        "original": "Christian princes tell grim tales about our dungeons, the dreaded Mazmorras. Here we keep our most valuable captives, those with wealthy family members with the money to pay for their safe return. The conditions typical in the Mazmorras ensure that ransoms are paid swiftly.",
+        "translation": "基督徒王公们讲述了关于我们地下城的血腥故事—可怕的地牢。在这里我们保留有最有价值的俘虏，那些富裕的家庭的成员有钱支付他们的赎金，地牢的这些特点使得赎金可以被迅速交纳。",
+        "stage": 1
+    },
+    {
+        "key": "barbary_slave_trade:0",
+        "original": "The Barbary Slave Trade",
+        "translation": "巴巴里奴隶贸易",
+        "stage": 1
+    },
+    {
+        "key": "barbary_slave_trade_desc:0",
+        "original": "Raiding is an especially profitable occupation for the pirates of the Barbary Coast due to the high price that Christian slaves can fetch in Turkish and Arabian markets.",
+        "translation": "海岸袭击对巴巴里海岸的海盗来说是一个特别有利可图的职业，尤其是因为基督徒奴隶在土耳其和阿拉伯市场的高昂价格。",
+        "stage": 1
+    },
+    {
+        "key": "barbary_fortified_strongholds:0",
+        "original": "Fortified Pirate Strongholds",
+        "translation": "强化据点",
+        "stage": 1
+    },
+    {
+        "key": "barbary_fortified_strongholds_desc:0",
+        "original": "A pirate stronghold must be fortified against attack from both land and sea. We must constuct defenses for our cities to repel invaders.",
+        "translation": "一处海盗的据点必须可以同时击退海上和陆地的攻击. 我们必须为我们的城市修建防御工事来反击入侵者。",
+        "stage": 1
+    },
+    {
+        "key": "heirs_of_al_andalus:0",
+        "original": "Heirs of Al-Andalus",
+        "translation": "安达卢西亚的继承人",
+        "stage": 1
+    },
+    {
+        "key": "heirs_of_al_andalus_desc:0",
+        "original": "Among those fleeing the Reconquista in Spain are the former Princes and Princesses of Al-Andalus, the great Muslim empire that once spanned nearly the whole of Iberia. These nobles are eager to restore their lost realms by any means necessary.",
+        "translation": "逃离西班牙的失地收复运动的人中有一些是安达卢西亚的前王子和公主，这个伟大的穆斯林帝国曾经跨越了整个伊比利亚。 这些贵族渴望以任何必要的手段恢复他们失去的边境。",
+        "stage": 1
+    },
+    {
+        "key": "barbary_board_of_captains:0",
+        "original": "Board of Captains",
+        "translation": "船长议会",
+        "stage": 1
+    },
+    {
+        "key": "barbary_board_of_captains_desc:0",
+        "original": "We must establish a council of our most skilled Captains to guide and regulate piracy and the slave trade in our nation.",
+        "translation": "我们必须建立一个由我们最熟练的船长组成的理事会，以指导和规范我国的海盗行为和奴隶贸易。",
+        "stage": 1
+    },
+    {
+        "key": "TEX_ideas:0",
+        "original": "Texan Ideas",
+        "translation": "德克萨斯理念",
+        "stage": 1
+    },
+    {
+        "key": "TEX_ideas_start:0",
+        "original": "Texan Traditions",
+        "translation": "德克萨斯传统",
+        "stage": 1
+    },
+    {
+        "key": "TEX_ideas_bonus:0",
+        "original": "Texan Ambition",
+        "translation": "得克萨斯野心",
+        "stage": 1
+    },
+    {
+        "key": "lone_star_state:0",
+        "original": "Lone Star State",
+        "translation": "孤星之国",
+        "stage": 1
+    },
+    {
+        "key": "lone_star_state_desc:0",
+        "original": "Texas stands as an independent nation, priding itself on self-sufficiency and individualism.",
+        "translation": "德克萨斯是一个独立的国家，她以她的自给自足自立为傲。",
+        "stage": 1
+    },
+    {
+        "key": "tex_revolution:0",
+        "original": "Texan Revolution",
+        "translation": "德克萨斯独立革命",
+        "stage": 1
+    },
+    {
+        "key": "tex_revolution_desc:0",
+        "original": "We have fought hard for our independence, and we are prepared to fight to the death against any who would threaten our liberty.",
+        "translation": "我们已经通过斗争取得了独立，现在为了防止我们的自由受到威胁，我们要随时做好浴血奋战的准备。",
+        "stage": 1
+    },
+    {
+        "key": "cotton_plantations:0",
+        "original": "Cotton Plantations",
+        "translation": "棉花种植园",
+        "stage": 1
+    },
+    {
+        "key": "cotton_plantations_desc:0",
+        "original": "The fertile fields of Texas provide excellent land for cotton plantations; settlers, slaves, immigrants, and farmers come from far and wide to work the new lands. If we take advantage of this, we can export this valuable crop worldwide in no time.",
+        "translation": "德克萨斯肥沃的土地为棉花的种植提供了得天独厚的条件；殖民者，奴隶，移民，和农民都从全球各地涌入这里，在这片新土地上劳作。如果我们利用这一优势，我们可以将这些精致的作物出口到世界的每一个角落。",
+        "stage": 1
+    },
+    {
+        "key": "vaqueros:0",
+        "original": "Vaqueros",
+        "translation": "牛仔",
+        "stage": 1
+    },
+    {
+        "key": "vaqueros_desc:0",
+        "original": "The Vaqueros are the mounted pastoral farmers of the Americas, and it is a lifestyle that has a special place in our culture. These 'cowboys' are hardy workmen, adapted to the lay of the land and skilled in horse riding. They take great pride in their skill in cattle and horse wrangling.",
+        "translation": "牛仔是美国那些骑在马上的田园牧民，而且这已经成为了我们文化中的一种独特且重要的生活方式。这些牛仔是勇敢的劳作者，他们精通这里的地形并精通骑马。他们对他们的放牧和马匹驯服的技术引以为傲。",
+        "stage": 1
+    },
+    {
+        "key": "tex_native_frontiers:0",
+        "original": "Frontier Nation",
+        "translation": "边境国家",
+        "stage": 1
+    },
+    {
+        "key": "tex_native_frontiers_desc:0",
+        "original": "As a state on the frontier, we are confronted with dangerous Native American adversaries. If we are to keep our people safe, it is important to maintain an effective and mobile fighting force.",
+        "translation": "作为一个处于边境的国家，我们时常需要面对不仅危险还敌视我们的北美原住民。如果我们想保证人民的安全，我们就要保证能拥有一个有效且高机动的作战部队。",
+        "stage": 1
+    },
+    {
+        "key": "tejanos:0",
+        "original": "Tejanos",
+        "translation": "德哈诺人",
+        "stage": 1
+    },
+    {
+        "key": "tejanos_desc:0",
+        "original": "As a former province of Mexico, Texas has never fully abandoned its roots; Texas-Mexicans, or Tejanos, are very much integral to our state's vibrant culture, contributing no shortage of foods, music, language, and traditions.",
+        "translation": "作为之前墨西哥的一个省份，德克萨斯从没有忘光他们的传统；德克萨斯-墨西哥人，或者叫德哈诺人，是我们充满活力的文化构成中很重要的一部分，他们为我们带来他们的食物，音乐，语言和风俗。",
+        "stage": 1
+    },
+    {
+        "key": "adelsverin:0",
+        "original": "Adelsverein",
+        "translation": "德意志移民社团",
+        "stage": 1
+    },
+    {
+        "key": "adelsverin_desc:0",
+        "original": "In the wake of unrest and revolutions in Europe, Germans flee to the new world en masse seeking stability and safety. The Mainzer Adelsverein will promote the establishment of German communities settling in Texas, as well as their integration into our nation.",
+        "translation": "随着欧洲接踵而来的骚乱和革命，德国人逃到了新世界来寻求稳定和安全。德意志移民社团会推动前来德克萨斯定居的德国人建立德意志社区，也可以促进他们来融入我们的社会。",
+        "stage": 1
+    },
+    {
+        "key": "ASU_ideas:0",
+        "original": "Asturian Ideas",
+        "translation": "阿斯图里亚斯理念",
+        "stage": 1
+    },
+    {
+        "key": "ASU_ideas_start:0",
+        "original": "Asturian Traditions",
+        "translation": "阿斯图里亚斯传统",
+        "stage": 1
+    },
+    {
+        "key": "ASU_ideas_bonus:0",
+        "original": "Asturian Ambition",
+        "translation": "阿斯图里亚斯野心",
+        "stage": 1
+    },
+    {
+        "key": "asu_reconquista:0",
+        "original": "Reconquista",
+        "translation": "收复失地",
+        "stage": 1
+    },
+    {
+        "key": "asu_reconquista_desc:0",
+        "original": "The former Asturian lands have been divided between upstart Spanish kingdoms. They must all be brought back into the Asturian fold.",
+        "translation": "从前的阿斯图里亚斯人的领地已经被新兴的西班牙王国瓜分。必须促使他们回到阿斯图里亚斯人的怀抱。",
+        "stage": 1
+    },
+    {
+        "key": "asu_camino_de_santiago:0",
+        "original": "Camino de Santiago",
+        "translation": "圣地亚哥之路",
+        "stage": 1
+    },
+    {
+        "key": "asu_camino_de_santiago_desc:0",
+        "original": "We are the custodians of the holy pilgrimage route, the Way of Saint James. It is our duty to ensure that pious travellers can pass safely through our lands to reach the sacred site of Santiago.",
+        "translation": "我们是神圣的圣詹姆斯朝圣之路的管理者。我们有责任确保虔诚的拜访者能够安全通过我们的土地到达圣地圣地亚哥。",
+        "stage": 1
+    },
+    {
+        "key": "asu_aristocracy:0",
+        "original": "Asturian Aristocracy",
+        "translation": "阿斯图里亚斯贵族",
+        "stage": 1
+    },
+    {
+        "key": "asu_aristocracy_desc:0",
+        "original": "Asturian high society has ancient roots and deep pockets. We should ensure that they have an honored place in our nation.",
+        "translation": "阿斯图里亚斯上流社会有着古老的根基和雄厚的财力。我们应该确保他们在我们国家享有光荣的地位。",
+        "stage": 1
+    },
+    {
+        "key": "asu_colonialism:0",
+        "original": "Voyage to the New World",
+        "translation": "通向新世界的航行",
+        "stage": 1
+    },
+    {
+        "key": "asu_colonialism_desc:0",
+        "original": "Asturian financiers are eager to begin investing in New World colonies. We should establish colonial ventures of our own to maximize the profit.",
+        "translation": "阿斯图里亚斯的出资人迫切地想要在新世界的殖民地投资。我们应该建立我们自己的殖民企业以获取最大利润。",
+        "stage": 1
+    },
+    {
+        "key": "asu_millenarian_revival:0",
+        "original": "Millenarian Revival",
+        "translation": "千禧盛世主义的复兴",
+        "stage": 1
+    },
+    {
+        "key": "asu_millenarian_revival_desc:0",
+        "original": "These are dark times, and omens of the apocalypse are clear to see. This is a sign that we must renew our faith daily and dedicate ourselves to spreading the word of the Lord to the far reaches of the Earth.",
+        "translation": "这是黑暗的时代，大灾难的预兆已清晰无比。这昭示着我们必须每天反省我们的信仰，并竭尽全力把主的话传达到世界的每一个角落。",
+        "stage": 1
+    },
+    {
+        "key": "asu_unify_the_provinces:0",
+        "original": "Unify the Provinces",
+        "translation": "统一各省",
+        "stage": 1
+    },
+    {
+        "key": "asu_unify_the_provinces_desc:0",
+        "original": "Administrative divisions within Asturias and Cantabria are woefully inefficient. The provinces must be consolidated into more centralized districts so aid in the administration of justice and the raising of levies.",
+        "translation": "阿斯图里亚斯和坎塔布里亚的行政区划效率低得可怜。各省必须合并成更集中的地区，以便在司法和提高税收方面提供援助。",
+        "stage": 1
+    },
+    {
+        "key": "asu_early_industrialism:0",
+        "original": "Early Industrialism",
+        "translation": "早期工业化",
+        "stage": 1
+    },
+    {
+        "key": "asu_early_industrialism_desc:0",
+        "original": "We have discovered ample sources of coal in the hills of Asturias. We should take advantage of new advances in machinery and use our natural resources to boost our manufacturing industries.",
+        "translation": "我们在阿斯图里亚斯山区发现了丰富的煤炭资源。我们应该借助机械方面的新进步，利用我们的自然资源来促进我们的制造业发展。",
+        "stage": 1
+    },
+    {
+        "key": "ADU_ideas:0",
+        "original": "Andalusian Ideas",
+        "translation": "安达卢西亚理念",
+        "stage": 1
+    },
+    {
+        "key": "ADU_ideas_start:0",
+        "original": "Andalusian Traditions",
+        "translation": "安达卢西亚传统",
+        "stage": 1
+    },
+    {
+        "key": "ADU_ideas_bonus:0",
+        "original": "Andalusian Ambition",
+        "translation": "安达卢西亚野心",
+        "stage": 1
+    },
+    {
+        "key": "adu_stand_against_the_reconquista:0",
+        "original": "Stand Against the Reconquista",
+        "translation": "对抗收复失地运动",
+        "stage": 1
+    },
+    {
+        "key": "adu_stand_against_the_reconquista_desc:0",
+        "original": "In the wake of the Almohad's collapse, the Christian kingdoms seized the opportunity to conquer most of Iberia for themselves. But they did not succeed entirely; we must stand against them!",
+        "translation": "在阿尔摩哈德王朝的崩溃之后，基督教王国抓住机会为自己征服了伊比利亚的大部分地区。但他们并没有完全成功，我们必须抵抗他们！",
+        "stage": 1
+    },
+    {
+        "key": "adu_taifa_adminstration:0",
+        "original": "Taifa Administration",
+        "translation": "泰法政府",
+        "stage": 1
+    },
+    {
+        "key": "adu_taifa_adminstration_desc:0",
+        "original": "Iberia was once divided between several powerful Muslim taifas who administered their domains autonomously. We should restore these taifas to ease the burden of administering our expanding realm.",
+        "translation": "伊比利亚曾经被分成几个强大的穆斯林泰法，他们独立管理自己的领土。我们应该恢复这些泰法，以减轻我们不断扩大领土所带来的管理负担。",
+        "stage": 1
+    },
+    {
+        "key": "adu_ahl_uhl_dhimma:0",
+        "original": "Alh Ulh Dhimma",
+        "translation": "受保护民",
+        "stage": 1
+    },
+    {
+        "key": "adu_ahl_uhl_dhimma_desc:0",
+        "original": "Though we have pushed back the Christian kings, many of their former subjects do not follow our faith. We will demonstrate our benevolence by extending to them the tolerance and respect that was denied to Muslims under Christian rule.",
+        "translation": "虽然我们击退了基督教国王，但他们许多以前的臣民并不遵循我们的信仰。我们将向他们表示我们的仁慈，给予他们在基督教统治下被剥夺的宽容和尊重。",
+        "stage": 1
+    },
+    {
+        "key": "adu_legacy_of_ibn_arabi:0",
+        "original": "Legacy of Ibn Arabi",
+        "translation": "伊本·阿拉比的遗产",
+        "stage": 1
+    },
+    {
+        "key": "adu_legacy_of_ibn_arabi_desc:0",
+        "original": "The works of Ibn Arabi, a renowned scholar and mystic of the 13th Century, are enjoying renewed popularity in Al-Andalus. Our realm is once more becoming a center of Islamic learning, a trend we should take every measure to promote.",
+        "translation": "13世纪著名学者、神秘主义者伊本·阿拉比的作品在安达卢西亚重新受到欢迎。我们的领土再次成为伊斯兰教学习的中心，我们应该采取一切措施促进这一趋势。",
+        "stage": 1
+    },
+    {
+        "key": "adu_jund_settlements:0",
+        "original": "Jund Settlements",
+        "translation": "容德军垦殖民地",
+        "stage": 1
+    },
+    {
+        "key": "adu_jund_settlements_desc:0",
+        "original": "Our expansion is driven by a form of military colonialism called the jund system, in which bands of warriors are granted newly conquered lands to rule and settle. The prospect of reward is a powerful motivator for recruitment, ensuring that there is never a shortage of manpower in our regiments.",
+        "translation": "我们的扩张是由一种叫做“军式制度”的军事殖民主义形式推动的，在这种形式中，成群的战士被授予新征服的土地来统治和定居权。这样奖励的好处是招募新兵的强大动力，它保证了我们的队伍永远不会缺少人手。",
+        "stage": 1
+    },
+    {
+        "key": "adu_expeditionary_sentiment:0",
+        "original": "Expeditionary Sentiment",
+        "translation": "探险热情",
+        "stage": 1
+    },
+    {
+        "key": "adu_expeditionary_sentiment_desc:0",
+        "original": "We have heard tales from captured Portuguese sailors about a New World to the west, abundant with gold and silver. We should organize our own expeditions across the ocean and see for ourselves whether these rumours are true.",
+        "translation": "我们从被俘的葡萄牙水手那里听说了一个关于西部新世界的故事，那里盛产黄金和白银。我们应该组织自己的远洋探险，亲自看看这些传闻是否属实。",
+        "stage": 1
+    },
+    {
+        "key": "adu_al_awasim:0",
+        "original": "Al Awasim",
+        "translation": "阿勒·阿瓦辛防线",
+        "stage": 1
+    },
+    {
+        "key": "adu_al_awasim_desc:0",
+        "original": "It is vitally important that our frontier with the Christian kingdoms is heavily fortified. A chain of strongholds shall be erected on the borders so that no enemy may pass into our territory without enduring a costly siege.",
+        "translation": "加强我们与基督教王国边界的防御能力是至关重要的。在边境上要筑建一连串的要塞工事，这样任何敌人想要进入我们领土那么围攻时就需要付出惨痛的代价。",
         "stage": 1
     }
 ]

@@ -787,8 +787,8 @@
     },
     {
         "key": "anglican_events.1.d:0",
-        "original": "Following the destruction and removal of Papist symbols, Anglican churches were left somewhat bare of decoration. It has been decreed that in place of these blasphemous icons, the Royal Arms of [Root.Monarch.GetName] is to be displayed. The presence of the Royal Arms cements in the public consciousness the reality of the new order; that [Root.Monarch.GetName] is appointed by God not only as [Root.Monarch.GetTitle] of [Country], but also as Supreme Governor of the Church.",
-        "translation": "随着天主教符号的毁坏与去除，圣公宗的教堂变得缺少装饰。已经下达的旨意要求，取代这些渎神画像的将会是 [Root.Monarch.GetName] 的纹章。皇家纹章的出现将会使民众确实认知到新秩序的现实：[Root.Monarch.GetName] 不仅仅被上帝指派为[Country]的[Root.Monarch.GetTitle]，同时也是国教最高领袖。",
+        "original": "Following the destruction and removal of Papist symbols, Anglican churches were left somewhat bare of decoration. It has been decreed that in place of these blasphemous icons, the Royal Arms of [Root.Monarch.GetName] is to be displayed. The presence of the Royal Arms cements in the public consciousness the reality of the new order; that [Root.Monarch.GetName] is appointed by God not only as [Root.Monarch.GetTitle] of $COUNTRY$, but also as Supreme Governor of the Church.",
+        "translation": "随着天主教符号的毁坏与去除，圣公宗的教堂变得缺少装饰。已经下达的旨意要求，[Root.Monarch.GetName]的纹章将取代这些渎神画像。皇家纹章的出现将会使民众确实认知到新秩序的现实：[Root.Monarch.GetName]不仅仅被上帝指派为$COUNTRY$的[Root.Monarch.GetTitle]，同时也是国教最高领袖。",
         "stage": 1
     },
     {
@@ -1616,7 +1616,7 @@
     {
         "key": "innovativeness_events.3.d:0",
         "original": "Local doctors in [doctor_province.GetCapitalName] have begun to pay good money to study fresh corpses. The physicians claim this allows them to improve their knowledge of the human body, documenting it for the betterment of mankind. Improving the grasp of human anatomy is not an argument that impresses locals when the graves of recently deceased are found open in the morning however. The citizens of [doctor_province.GetCapitalName] are now demanding that we restrict these horrible practices and that we put a stop to the grave robbers.",
-        "translation": "[doctor_province.GetCapitalName]的医生已经开始斥资研究新鲜尸体。医生们声称这是为了获取更多有关人体的知识，对人体的详尽记录会对全人类有益。然而对在早晨发现刚去世亲人的坟墓已被刨开的当地居民来说，“加深对人类解剖学的理解”这个理由缺少说服力。[doctor_province.GetCapitalName] 的居民现在要求我们限制这种可怖的行径，同时阻止盗墓者。",
+        "translation": "[doctor_province.GetCapitalName]的医生已经开始斥资研究新鲜尸体。医生们声称这是为了获取更多有关人体的知识，对人体的详尽记录会对全人类有益。然而对在早晨发现刚去世亲人的坟墓已被刨开的当地居民来说，「加深对人类解剖学的理解」这个理由缺少说服力。[doctor_province.GetCapitalName]的居民现在要求我们限制这种可怖的行径，同时阻止盗墓者。",
         "stage": 1
     },
     {
@@ -2312,8 +2312,8 @@
     {
         "key": "NAVAL_DOCTRINE_CANNOT_AFFORD:1",
         "original": "§RYou cannot afford to change your Naval Doctrine right now.§!",
-        "translation": "§R你不能立刻改变你的海军学说。§!",
-        "stage": 5
+        "translation": "§R你负担不起改变你的海军学说的花费。§!",
+        "stage": 1
     },
     {
         "key": "NAVAL_DOCTRINE_REMOVE_CURRENT:0",
@@ -2706,18 +2706,6 @@
         "stage": 5
     },
     {
-        "key": "PROVINCE_IS_NOT_ON_AN_ISLAND:0",
-        "original": "§Y$PROVINCE$§ is not on an island.\\n",
-        "translation": "§Y$PROVINCE$§!不在一个岛上。\\n",
-        "stage": 5
-    },
-    {
-        "key": "PROVINCE_IS_ON_AN_ISLAND:0",
-        "original": "§Y$PROVINCE$§ is on an island.\\n",
-        "translation": "§Y$PROVINCE$§!在一个岛上。\\n",
-        "stage": 5
-    },
-    {
         "key": "MODIFIER_INNOVATIVENESS_GAIN:0",
         "original": "Innovativeness Gain",
         "translation": "获得创新度",
@@ -2732,7 +2720,7 @@
     {
         "key": "COMPLETE_MISSION_EFFECT:0",
         "original": "Completes Mission $MISSION|Y$ without rewards",
-        "translation": "完成 $MISSION|Y$ 没有奖励",
+        "translation": "完成任务 $MISSION|Y$ 但不会得到奖励",
         "stage": 1
     },
     {
@@ -2817,6 +2805,18 @@
         "key": "desc_city_of_the_kings:0",
         "original": "The king has returned to Gonder.",
         "translation": "国王返回了贡德尔。",
+        "stage": 1
+    },
+    {
+        "key": "PROVINCE_IS_NOT_ON_AN_ISLAND:1",
+        "original": "$PROVINCE|Y$ is not on an island.\\n",
+        "translation": "$PROVINCE|Y$不在岛上。\\n",
+        "stage": 1
+    },
+    {
+        "key": "PROVINCE_IS_ON_AN_ISLAND:1",
+        "original": "$PROVINCE|Y$ is on an island.\\n",
+        "translation": "$PROVINCE|Y$在岛上。\\n",
         "stage": 1
     }
 ]

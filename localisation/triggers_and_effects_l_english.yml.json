@@ -476,13 +476,13 @@
     {
         "key": "MORE_THAN_NUM_OF_UNITS_OF_TYPE_IN_PROVINCE:0",
         "original": "At least $AMOUNT|$ regiments of $TYPE|$ present",
-        "translation": "当前至少有$AMOUNT|$支$TYPE|$部队",
+        "translation": "拥有至少$AMOUNT|$支$TYPE|$部队",
         "stage": 1
     },
     {
         "key": "LESS_THAN_NUM_OF_UNITS_OF_TYPE_IN_PROVINCE:0",
         "original": "Less than $AMOUNT|$ regiments of $TYPE|$ present",
-        "translation": "当前没有$AMOUNT|$支$TYPE|$部队",
+        "translation": "拥有少于$AMOUNT|$支$TYPE|$部队",
         "stage": 1
     },
     {
@@ -843,42 +843,6 @@
         "key": "HAVE_AT_LEAST_MERCENARIES_THAN:0",
         "original": "Have at least §Y$VALUE$§! mercenaries.\\n",
         "translation": "雇佣兵数量达到§Y$VALUE$§!支。\\n",
-        "stage": 1
-    },
-    {
-        "key": "HAVE_LESS_BANNERS_THAN:0",
-        "original": "Have less banners than §Y$VALUE$§!.\\n",
-        "translation": "八旗兵数量少于§Y$VALUE$§!支。\\n",
-        "stage": 1
-    },
-    {
-        "key": "HAVE_AT_LEAST_BANNERS_THAN:0",
-        "original": "Have at least §Y$VALUE$§! banners.\\n",
-        "translation": "八旗兵数量达到§Y$VALUE$§!支。\\n",
-        "stage": 1
-    },
-    {
-        "key": "HAVE_LESS_STRELTSY_THAN:0",
-        "original": "Have less streltsy than §Y$VALUE$§!.\\n",
-        "translation": "射击兵数量少于§Y$VALUE$§!支。\\n",
-        "stage": 1
-    },
-    {
-        "key": "HAVE_AT_LEAST_STRELTSY_THAN:0",
-        "original": "Have at least §Y$VALUE$§! streltsy.\\n",
-        "translation": "射击兵数量达到§Y$VALUE$§!支。\\n",
-        "stage": 1
-    },
-    {
-        "key": "HAVE_LESS_COSSACKS_THAN:0",
-        "original": "Have less cossacks than §Y$VALUE$§!.\\n",
-        "translation": "哥萨克骑兵数量少于§Y$VALUE$§!支。\\n",
-        "stage": 1
-    },
-    {
-        "key": "HAVE_AT_LEAST_COSSACKS_THAN:0",
-        "original": "Have at least §Y$VALUE$§! cossacks.\\n",
-        "translation": "哥萨克骑兵数量达到§Y$VALUE$§!支。\\n",
         "stage": 1
     },
     {
@@ -1728,21 +1692,15 @@
         "stage": 1
     },
     {
-        "key": "HAS_SAME_OR_MORE_TRADE_POWER:0",
-        "original": "$WHO|Y$ has $VAL$% or more trade power.",
-        "translation": "$WHO|Y$的贸易竞争力达到$VAL$% 。",
-        "stage": 1
-    },
-    {
         "key": "HAS_NOT_MORE_PRIVATEERS:0",
-        "original": "$WHO|Y$ privateers have less than $VAL|%$ of the trade power.",
-        "translation": "$WHO|Y$的私掠者拥有的贸易竞争力低于$VAL|%$ 。",
+        "original": "$WHO|Y$ privateers have less than $VAL$% of the trade power.",
+        "translation": "$WHO|Y$的私掠者拥有的贸易竞争力低于 $VAL$%。",
         "stage": 1
     },
     {
         "key": "HAS_SAME_OR_MORE_PRIVATEERS:0",
-        "original": "$WHO|Y$ privateers have at least $VAL|%$ trade power.",
-        "translation": "$WHO|Y$的私掠者拥有贸易竞争力达到$VAL|%$。",
+        "original": "$WHO|Y$ privateers have at least $VAL$% trade power.",
+        "translation": "$WHO|Y$的私掠者拥有的贸易竞争力达到 $VAL$%。",
         "stage": 1
     },
     {
@@ -2055,12 +2013,6 @@
         "key": "ALL_KNOWN_COUNTRY_STARTS:0",
         "original": "All known countries",
         "translation": "所有已知国家",
-        "stage": 1
-    },
-    {
-        "key": "ALL_COUNTRY_STARTS:0",
-        "original": "All countries",
-        "translation": "所有国家",
         "stage": 1
     },
     {
@@ -2492,13 +2444,13 @@
     {
         "key": "CONSTRUCTION_DELAYED:0",
         "original": "$NAME$ will be done $DAYS|Y$ days later.",
-        "translation": "$NAME|Y$将在$DAYS|Y$天后完成。",
+        "translation": "$NAME$将延迟$DAYS|Y$天完成。",
         "stage": 1
     },
     {
         "key": "CONSTRUCTION_HURRIED:0",
         "original": "$NAME$ will be done $DAYS|Y$ days earlier.",
-        "translation": "$NAME|Y$将提前$DAYS|Y$天完成。",
+        "translation": "$NAME$将提前$DAYS|Y$天完成。",
         "stage": 1
     },
     {
@@ -3770,7 +3722,7 @@
     {
         "key": "WITH_GOVERNMENT_TYPE:0",
         "original": "The country they form will have $GOV|Y$ Government.",
-        "translation": "他们组建的国家将是$GOV|Y$政体",
+        "translation": "他们成立的国家将是$GOV|Y$政体",
         "stage": 1
     },
     {
@@ -3816,21 +3768,75 @@
         "stage": 1
     },
     {
-        "key": "ADM_POWER_COST_EFFECT:0",
+        "key": "HAVE_LESS_BANNERS_THAN:1",
+        "original": "Have less Banners than §Y$VALUE$§!.\\n",
+        "translation": "八旗兵数量少于§Y$VALUE$§!支。\\n",
+        "stage": 1
+    },
+    {
+        "key": "HAVE_AT_LEAST_BANNERS_THAN:1",
+        "original": "Have at least §Y$VALUE$§! Banners.\\n",
+        "translation": "八旗兵数量达到§Y$VALUE$§!支。\\n",
+        "stage": 1
+    },
+    {
+        "key": "HAVE_LESS_STRELTSY_THAN:1",
+        "original": "Have less Streltsy than §Y$VALUE$§!.\\n",
+        "translation": "射击兵数量少于§Y$VALUE$§!支。\\n",
+        "stage": 1
+    },
+    {
+        "key": "HAVE_AT_LEAST_STRELTSY_THAN:1",
+        "original": "Have at least §Y$VALUE$§! Streltsy.\\n",
+        "translation": "哥萨克骑兵数量达到§Y$VALUE$§!支。\\n",
+        "stage": 1
+    },
+    {
+        "key": "HAVE_LESS_COSSACKS_THAN:1",
+        "original": "Have less Cossacks than §Y$VALUE$§!.\\n",
+        "translation": "哥萨克骑兵数量少于§Y$VALUE$§!支。\\n",
+        "stage": 1
+    },
+    {
+        "key": "HAVE_AT_LEAST_COSSACKS_THAN:1",
+        "original": "Have at least §Y$VALUE$§! Cossacks.\\n",
+        "translation": "哥萨克骑兵数量达到§Y$VALUE$§!支。\\n",
+        "stage": 1
+    },
+    {
+        "key": "HAS_SAME_OR_MORE_TRADE_POWER:1",
+        "original": "$WHO|Y$ has §Y$VAL$%§W or more trade power.",
+        "translation": "$WHO|Y$的贸易竞争力达到§Y$VAL$%§W 。",
+        "stage": 1
+    },
+    {
+        "key": "ADM_POWER_COST_EFFECT:1",
         "original": "Lose $AMOUNT|R$ Administrative Power.\\n",
         "translation": "失去$AMOUNT|R$行政点数。\\n",
         "stage": 1
     },
     {
-        "key": "DIP_POWER_COST_EFFECT:0",
+        "key": "DIP_POWER_COST_EFFECT:1",
         "original": "Lose $AMOUNT|R$ Diplomatic Power.\\n",
         "translation": "失去$AMOUNT|R$外交点数。\\n",
         "stage": 1
     },
     {
-        "key": "MIL_POWER_COST_EFFECT:0",
+        "key": "MIL_POWER_COST_EFFECT:1",
         "original": "Lose $AMOUNT|R$ Military Power.\\n",
         "translation": "失去$AMOUNT|R$军事点数。\\n",
+        "stage": 1
+    },
+    {
+        "key": "HAS_HOSTILE_TROOPS:0",
+        "original": "Has hostile troops.\\n",
+        "translation": "有敌对的军队。\\n",
+        "stage": 1
+    },
+    {
+        "key": "HAS_NO_HOSTILE_TROOPS:0",
+        "original": "Has no hostile troops.\\n",
+        "translation": "没有敌对的军队。\\n",
         "stage": 1
     }
 ]

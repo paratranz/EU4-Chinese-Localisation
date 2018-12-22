@@ -230,7 +230,7 @@
     {
         "key": "RECRUIT_RAJPUT_REGIMENTS:0",
         "original": "Recruit Rajput Regiments",
-        "translation": "招募拉杰普特兵团",
+        "translation": "招募拉杰普特军团",
         "stage": 1
     },
     {
@@ -1400,7 +1400,7 @@
     {
         "key": "rajputs_estate_events.6.d:0",
         "original": "Rajput nobles have come to both outnumber and outrank all other nobility at the [Root.GetAdjective] court. They know well the power they wield over our armies and our administration, and have leveraged this power to demand extreme concessions to Rajput nobles and their territories. Our attempts to curb their power through subtle means have had little effect, and so we must consider taking drastic action; either we must accept that the Rajputs are a law unto themselves, or we must strip them of their noble ranks to restore balance to the court.",
-        "translation": "在[Root.GetAdjective]宫廷上，拉杰普特贵族和人数和地位已远远超过所有其他贵族。他们深知自己对军队和政府的掌控，并利用这种权利要求对拉杰普特贵族及其领地做出极大的让步。我们试图通过温和的手段限制他们的权力，但收效甚微。因此我们必须考虑采取严厉的措施；要么接受拉杰普特人的目无法纪、为所欲为，要么剥夺他们的贵族身份以恢复法庭的平衡。",
+        "translation": "在[Root.GetAdjective]宫廷上，拉杰普特贵族和人数和地位已远远超过所有其他贵族。他们深知自己对军队和政府的掌控，并利用这种权力要求对拉杰普特贵族及其领地做出极大的让步。我们试图通过温和的手段限制他们的权力，但收效甚微。因此我们必须考虑采取严厉的措施；要么接受拉杰普特人的目无法纪、为所欲为，要么剥夺他们的贵族身份以恢复法庭的平衡。",
         "stage": 5
     },
     {
@@ -5394,12 +5394,6 @@
         "stage": 1
     },
     {
-        "key": "dutch_republic.33.d2:0",
-        "original": "Years of internal strife within the [Root.GetAdjectiveCap] Assembly have begun to take their toll on the national spirit of [Root.GetName]. The rising popular opinion against the Assembly has drawn out many vocal opponents among our citizens.\\n\\nAt long last, one contender stands tall amidst his opponents, overthrowing what little opposition remains in the Assembly, and reinstating the glorious tradition of Monarchy in the state of [Root.GetName].",
-        "translation": "在[Root.GetAdjectiveCap]议会内部多年的派系斗争已开始对[Root.GetName]的破坏了我们的民族精神。日益高涨的反议会情绪在我们的公民中化作了阵阵反对的声潮。\\n\\n最终，一位竞争者在从他的对手中脱颖而出，打倒了议会中剩下的少数反对派，并在[Root.GetName]州恢复了君主制的光荣传统。",
-        "stage": 1
-    },
-    {
         "key": "dutch_republic.33.a:0",
         "original": "Long live [Root.Monarch.GetName]!",
         "translation": "[Root.Monarch.GetName]万岁！",
@@ -5781,6 +5775,24 @@
         "key": "CANNOT_FETCH_LEGAL_DOCUMENTS:0",
         "original": "§RCould not fetch document URL. Please check your internet connection.§!",
         "translation": "§R无法获取文档URL。请检查你的互联网连接。§!",
+        "stage": 1
+    },
+    {
+        "key": "DOESNT_HAVE_ANY_TRADE_COMPANY_INVESTMENT:0",
+        "original": "$INVESTOR|Y$ does not have any Trade Company Investment in $AREA|Y$",
+        "translation": "$INVESTOR|Y$在$AREA|Y$区域没有任何贸易公司投资。",
+        "stage": 1
+    },
+    {
+        "key": "HAS_ANY_TRADE_COMPANY_INVESTMENT:0",
+        "original": "$INVESTOR|Y$ has a Trade Company Investment in $AREA|Y$",
+        "translation": "$INVESTOR|Y$在$AREA|Y$拥有贸易公司",
+        "stage": 1
+    },
+    {
+        "key": "dutch_republic.33.d2:1",
+        "original": "Years of internal strife within the [Root.GetAdjectiveCap] Assembly have begun to take their toll on the national spirit of [Root.GetName]. The rising popular opinion against the Assembly has drawn out many vocal opponents among our citizens.\\n\\nAt long last, one contender stands tall amidst his opponents, overthrowing what little opposition remains in the Assembly, and reinstating the glorious traditions of [Root.GetName].",
+        "translation": "在[Root.GetAdjectiveCap]议会内部多年的派系斗争已开始对[Root.GetName]的破坏了我们的民族精神。日益高涨的反议会情绪在我们的公民中化作了阵阵反对的声潮。\\n\\n最终，一位竞争者在从他的对手中脱颖而出，打倒了议会中剩下的少数反对派，并在恢复了[Root.GetName]的光荣传统。",
         "stage": 1
     }
 ]

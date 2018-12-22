@@ -1,0 +1,3164 @@
+[
+    {
+        "key": "FLAGSHIPS_IN_NAVY:0",
+        "original": "This Navy contains Flagships.",
+        "translation": "这支海军包含旗舰。",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_DETAILS:0",
+        "original": "$NAME|Y$ is the Flagship of the $ADJECTIVE|Y$ navy.",
+        "translation": "$NAME|Y$是$ADJECTIVE|Y$海军的旗舰。",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_CANT_SELL:0",
+        "original": "You can't sell your Flagship",
+        "translation": "你无法出售你的旗舰",
+        "stage": 5
+    },
+    {
+        "key": "FLAGSHIP_ALREADY_MAX_MODIFICATIONS:0",
+        "original": "§RYou have already selected the maximum amount of modifications§!",
+        "translation": "§R你已选择的修正已达到数量上限§!",
+        "stage": 1
+    },
+    {
+        "key": "base_flagship_modification:0",
+        "original": "Flagship",
+        "translation": "旗舰",
+        "stage": 1
+    },
+    {
+        "key": "mass_load_cannons:0",
+        "original": "Mass Load Cannons",
+        "translation": "大量装载加农炮",
+        "stage": 1
+    },
+    {
+        "key": "mass_load_cannons_desc:0",
+        "original": "However many cannons the enemy believes we have, we must have twice as many. No ship has ever sunk from having too many cannons.",
+        "translation": "敌人认为我们有多少的大炮，则我们必须拥有他们所认为的两倍多的大炮。没有舰船是因为大炮太多而沉没的。",
+        "stage": 1
+    },
+    {
+        "key": "trade_route_map:0",
+        "original": "Trade Route Map",
+        "translation": "商路地图",
+        "stage": 1
+    },
+    {
+        "key": "trade_route_map_desc:0",
+        "original": "Keeping detailed collection of maps of our trade routes up to date is challenging, but worthy of a flagship sailing with our trade fleet.",
+        "translation": "使我们详细的贸易路线地图集始终保持最新不是一件容易的事，但这对于我们贸易船队的旗舰来说是值得的。",
+        "stage": 1
+    },
+    {
+        "key": "command_aftercastle:0",
+        "original": "Command Aftercastle",
+        "translation": "船尾指挥楼",
+        "stage": 1
+    },
+    {
+        "key": "command_aftercastle_desc:0",
+        "original": "Outfitting the ship with an aftercastle will provide better accommodations for our captain and the valued members of the crew.",
+        "translation": "配备船尾楼将为我们的船长和宝贵的船员提供更好的住宿。",
+        "stage": 1
+    },
+    {
+        "key": "improved_crows_nest:0",
+        "original": "Improved Crow's Nest",
+        "translation": "改良瞭望台",
+        "stage": 1
+    },
+    {
+        "key": "improved_crows_nest_desc:0",
+        "original": "With a flagship like ours, the enemy will see us coming. We just have to make sure we see them first.",
+        "translation": "拥有这样一艘旗舰，敌人会看见我们过来。因此我们需要确保我们首先找到他们。",
+        "stage": 1
+    },
+    {
+        "key": "mortars:0",
+        "original": "Mortars",
+        "translation": "臼炮",
+        "stage": 1
+    },
+    {
+        "key": "mortars_desc:0",
+        "original": "Long-distance siege weapons won't be very efficient against other ships, but they will greatly boost the threat we pose to land structures.",
+        "translation": "长距离攻城兵器对其他舰艇的效率不高，但它们将大大增加我们对陆地建筑物的威胁。",
+        "stage": 1
+    },
+    {
+        "key": "standardized_signal_book:0",
+        "original": "Standardized Signal Book",
+        "translation": "标准旗语通信手册",
+        "stage": 1
+    },
+    {
+        "key": "standardized_signal_book_desc:0",
+        "original": "Coordinating a fleet is no easy task, but established standards for communication is a first step to doing it flawlessly.",
+        "translation": "协调一支舰队并非易事，但建立沟通标准是完美完成任务的第一步。",
+        "stage": 1
+    },
+    {
+        "key": "hull_sheating:0",
+        "original": "Hull Sheathing",
+        "translation": "船罩",
+        "stage": 1
+    },
+    {
+        "key": "hull_sheating_desc:0",
+        "original": "Even the greatest ship is eventually done in not only by war, but by the ocean itself. A metal sheath will ensure our flagship lasts.",
+        "translation": "即使最强大的战舰最终也不仅是被战争，更是被海洋本身摧毁的。一套金属装甲将会确保我们的旗舰持久作战。",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_navigators:0",
+        "original": "Portuguese Navigators",
+        "translation": "葡萄牙航海士",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_navigators_desc:0",
+        "original": "A Portuguese navigator will not only get you to the most distant undiscovered shore, but also, if the winds will it, get you back.",
+        "translation": "葡萄牙航海家不仅会带你到未被发现的遥远海岸，而且如果有风的话，也会带你回来。",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_bombardier:0",
+        "original": "Portuguese Bombardier",
+        "translation": "葡萄牙炮术士",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_bombardier_desc:0",
+        "original": "Naval barrages are a special art form, and no one masters is better than our bombardiers.",
+        "translation": "海军弹幕是一种特殊的艺术形式，而没人在这方面比我们的炮手做得更好。",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_trade_route_map:0",
+        "original": "Portuguese Trade Route Map",
+        "translation": "葡萄牙贸易航线地图",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_trade_route_map_desc:0",
+        "original": "The shortest distance between to points on a map is a straight line, but a Portuguese trade route is a close second.",
+        "translation": "地图上两点之间直线最短，其次则是葡萄牙的贸易路线。",
+        "stage": 1
+    },
+    {
+        "key": "spanish_grand_armada:0",
+        "original": "Spanish Grand Armada",
+        "translation": "西班牙无敌舰队",
+        "stage": 1
+    },
+    {
+        "key": "spanish_grand_armada_desc:0",
+        "original": "Spanish ships are made to survive sailing the oceans of the world, and those which sail with our flagships even more so.",
+        "translation": "西班牙的船只是为了在世界的海洋中航行而建造的，那些与我们的旗舰一起航行的船只更是如此。",
+        "stage": 1
+    },
+    {
+        "key": "spanish_treasure_fleet:0",
+        "original": "Spanish Treasury Convoy",
+        "translation": "西班牙宝船舰队",
+        "stage": 1
+    },
+    {
+        "key": "spanish_treasure_fleet_desc:0",
+        "original": "When your wealth is floating on ships, one of your main problems is pirates. Pirates primary problem should, accordingly, be us.",
+        "translation": "当你的财富在随船漂浮时，你的主要问题之一就是海盗。相应的，海盗们的首要问题应该是我们。",
+        "stage": 1
+    },
+    {
+        "key": "spanish_mass_load_cannons:0",
+        "original": "Spanish Mass Load Cannons",
+        "translation": "西班牙大量配置火炮",
+        "stage": 1
+    },
+    {
+        "key": "spanish_mass_load_cannons_desc:0",
+        "original": "However many cannons the enemy puts on their flagship, we must have twice as many. No ship has ever sunk from having too many cannons.",
+        "translation": "不论敌人在他们的旗舰上摆放多少门大炮，我们必须拥有他们的两倍。没有船只会因为太多的大炮而沉没。",
+        "stage": 1
+    },
+    {
+        "key": "dutch_courage:0",
+        "original": "Dutch Courage",
+        "translation": "荷兰之勇",
+        "stage": 1
+    },
+    {
+        "key": "dutch_courage_desc:0",
+        "original": "Our people are famous for their courage, so much that we export it in liquid form.",
+        "translation": "我国人民以无上勇气闻名于世，因此可大量出口液体形态的勇气。",
+        "stage": 2
+    },
+    {
+        "key": "EXPELLED_LESS_THAN:0",
+        "original": "Has expelled less than $TOTAL|Y$ minorities",
+        "translation": "已驱逐少于$TOTAL|Y$的少数族群。",
+        "stage": 1
+    },
+    {
+        "key": "EXPELLED_AT_LEAST:0",
+        "original": "Has expelled at least $TOTAL|Y$ minorities",
+        "translation": "已经驱逐了至少$TOTAL|Y$ 个少数族群",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NUMBER_OF_CANNONS_FLAGSHIP_MODIFIER:0",
+        "original": "Flagship Cannons",
+        "translation": "旗舰火炮",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NUMBER_OF_CANNONS_FLAGSHIP:0",
+        "original": "Flagship Cannons",
+        "translation": "旗舰火炮",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MORALE_FLAGSHIP:0",
+        "original": "Flagship Morale",
+        "translation": "旗舰士气",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_MAINTENANCE_FLAGSHIP:0",
+        "original": "Flagship Maintenance",
+        "translation": "旗舰维护费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_POWER_IN_FLEET:0",
+        "original": "Trade Power per Ship in Fleet",
+        "translation": "舰队中每艘船的贸易竞争力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_FLAGSHIP_NAVAL_ENGAGEMENT_IN_FLEET:0",
+        "original": "Fleet Engagement Width",
+        "translation": "舰队海战接战面宽度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_FLAGSHIP_DURABILITY_MODIFIER:0",
+        "original": "Flagship Durability",
+        "translation": "旗舰耐久度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_BLOCKADE_IMPACT_ON_SIEGE_IN_FLEET:1",
+        "original": "Fleet Blockade Impact on Siege",
+        "translation": "舰队封锁对攻城的影响",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MOVEMENT_SPEED_IN_FLEET:1",
+        "original": "Fleet Movement Speed",
+        "translation": "舰队移动速度",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_MORALE_IN_FLEET:0",
+        "original": "Fleet Morale",
+        "translation": "舰队士气",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_EXPLORATION_MISSION_RANGE_IN_FLEET:0",
+        "original": "Fleet Exploration Range",
+        "translation": "舰队探索距离",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_BARRAGE_COST_IN_FLEET:0",
+        "original": "Fleet Naval Barrage Cost",
+        "translation": "舰队海上炮击花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_ATTRITION_IN_FLEET:0",
+        "original": "Fleet Attrition",
+        "translation": "舰队损耗",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CANNONS_FOR_HUNTING_PIRATES_IN_FLEET:0",
+        "original": "Fleet Hunt Pirates Efficiency",
+        "translation": "舰队猎杀海盗效率",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_FLAGSHIP_LANDING_PENALTY:0",
+        "original": "Combat Penalty when landing",
+        "translation": "登陆时的作战惩罚",
+        "stage": 1
+    },
+    {
+        "key": "PROVINCE_WITHOUT_PORT:0",
+        "original": "The selected province does not have a port.",
+        "translation": "选中的省份没有港口。",
+        "stage": 1
+    },
+    {
+        "key": "COUNTRY_ALREADY_HAVE_FLAGSHIP:0",
+        "original": "We already have a Flagship.",
+        "translation": "我们已经有了一艘旗舰。",
+        "stage": 1
+    },
+    {
+        "key": "COUNTRY_ALREADY_BUILDING_FLAGSHIP:0",
+        "original": "We are already building a Flagship.",
+        "translation": "我们已经在建造一艘旗舰。",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_NAVY_TOO_SMALL:0",
+        "original": "Our navy is too small. We need to have at least $REQUIRED_SAILORS|Y$ Sailors employed in our navy but we only have $USED_SAILORS|R$.",
+        "translation": "我们的海军太弱小了。我们需要拥有至少$REQUIRED_SAILORS|Y$个在我们的海军中服役的海员，但我们仅有$USED_SAILORS|R$。",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_CONSTRUCTION_TOOLTIP:0",
+        "original": "The Flagship \"$NAME|Y$\" will be put to sea here on $DATE|Y$.",
+        "translation": "旗舰「$NAME|Y$」将在$DATE|Y$下海起航。",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_MAINTENANCE_MODIFIER:0",
+        "original": "$VALUE|R$",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "FLAGSHIP_MAINTENANCE_TOTAL:0",
+        "original": "Total maintenance: $VALUE|R$¤",
+        "translation": "总维护费：$VALUE|R$¤",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_BASE_MAINTENANCE:0",
+        "original": "Base maintenance: $VALUE|R$¤",
+        "translation": "基础维护费：$VALUE|R$¤",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_MODIFICATION_MAINTENANCE:0",
+        "original": "$NAME$: $VALUE|R$¤",
+        "translation": "$NAME$：$VALUE|R$¤",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_NUMBER_OF_MODIFICATIONS:0",
+        "original": "$CURRENT$/$MAX$",
+        "translation": "$CURRENT$/$MAX$",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_YOU_CAN_SELECT_MODIFICATION:0",
+        "original": "No Modification selected for this slot",
+        "translation": "这个槽位尚未选择修正",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_ICON_TEXT:0",
+        "original": "This is a Flagship",
+        "translation": "这是一艘旗舰",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_ICON_TEXT_DESC:0",
+        "original": "In addition to its modifications, it has the following bonuses:\\n$MODIFIERS$",
+        "translation": "除了本身的修正之外，它还拥有如下加成：\\n$MODIFIERS$",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_RANDOM_NAME:0",
+        "original": "Randomize a new Flagship name",
+        "translation": "随机一个新旗舰名",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP:0",
+        "original": "Flagship",
+        "translation": "旗舰",
+        "stage": 1
+    },
+    {
+        "key": "flavor_tun.EVTNAME1:0",
+        "original": "Hayreddin Barbarossa",
+        "translation": "海雷丁 巴巴罗萨",
+        "stage": 1
+    },
+    {
+        "key": "flavor_tun.EVTDESC1:0",
+        "original": "The notorious pirate and admiral Hayreddin Barbarossa has arrived in Algiers seeking to establish a base from which to mercilessly raid the Mediterranean sea. Nominally a subject of the Turkish Sultan, the feared captain is willing to consider entering our service if we support him in his war against the Christians.",
+        "translation": "臭名昭著的海盗及提督 巴巴罗萨·海雷丁 抵达了阿尔及尔，并寻求在当地建立一个的海军基地，以便他进一步对地中海进行无情地掠夺。海雷丁名义上是土耳其苏丹的部下，若我们愿意支持他对基督教世界的圣战，这位令人畏惧的船长愿意考虑加入我们。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_tun.EVTOPTA1:0",
+        "original": "Let him rule over Algiers.",
+        "translation": "让他统治阿尔及尔 。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_tun.EVTOPTB1:0",
+        "original": "Appoint him as our Grand Admiral.",
+        "translation": "将他任命为海军大将",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTNAME1:0",
+        "original": "The Portuguese in Macau",
+        "translation": "澳门的葡萄牙人",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTDESC1:0",
+        "original": "Smuggling and piracy are a perpetual annoyance in the Guangzhou Bay, but the increased presence of [From.GetName] merchant and naval vessels in the South China Sea has done much to combat this unlawful activity. Seeking to leverage this to their advantage, representatives of the Portuguese government have requested permission to settle in Macau to establish a trading community. They are willing to pay handsomely in silver for the privilege.",
+        "translation": "广州湾长期存在着走私与海盗劫掠的问题，但是自从[From.GetName]的商船与战船出现在中国南海后，他们为打击这种非法活动做了很多工作。为了借此契机为己方赢得更多有利条件，葡萄牙政府已经派出代表请求获准在澳门定居，以建立贸易社区。他们愿意用大量的白银来换取这项特权。",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTOPTA1:0",
+        "original": "Allow them sovereignty over Macau.",
+        "translation": "允许他们拥有澳门的主权。",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTOPTB1:0",
+        "original": "These foreigners cannot be trusted.",
+        "translation": "这些外国人不值得信任。",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTNAME2:0",
+        "original": "The Purchase of Macau",
+        "translation": "购买澳门",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTDESC2:0",
+        "original": "Impressed by our efforts to combat piracy in the South China Sea, the [From.Monarch.GetTitle] of [From.GetName] has graciously allowed a [Root.GetAdjective] merchant community to settle in Macau in exchange for a suitable payment of silver taels. The rare opportunity to trade openly in China is sure to be immensely profitable.",
+        "translation": "[From.GetName][From.Monarch.GetTitle]对我们在南中国海打击海盗所作的努力印象深刻，并已亲切地允许一个来自[Root.GetAdjective]的商人团体在澳门定居，以此来换取一笔适当的银两支付。在中国进行公开贸易的难得机会必将带来丰厚的利润。",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTOPTA2:0",
+        "original": "At last, a foothold in China!",
+        "translation": "终于，我们在中国有了一个立足点！",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTNAME3:0",
+        "original": "The Portuguese in Nagasaki",
+        "translation": "长崎的葡萄牙人",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTDESC3:0",
+        "original": "We are no strangers to nanban merchants attempting to ply their trade in our ports. It has been our typical policy to send them on their way empty handed. These [From.GetAdjective] Jesuits however make a unique and compelling case; as [From.GetAdjective] have access to the restrictive ports of China, they would be able to act as intermediaries for trade between China and Japan. In exchange we would have to allow their priests and merchants to establish a permanent community at Nagasaki, a proposition that could give them unsettling influence over Japanese affairs.",
+        "translation": "我们对南蛮商人试图在我们的港口进行交易并不陌生。一直以来我们典型的政策就是在送走他们之前购空他们手中的货物。这些[From.GetAdjective]耶稣会教士提出了一个独特而令人信服的案例; 由于[From.GetAdjective]可以进入中国的限制性港口，他们将能够成为中日贸易的中间人。作为交换，我们必须允许他们的教士和商人在长崎建立一个常驻社区，这个提议可能会给他们带来对日本事务的不安影响。",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTOPTA3:0",
+        "original": "Allow them to trade in Nagasaki.",
+        "translation": "允许他们在长崎进行贸易。",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTOPTB3:0",
+        "original": "We should not trust these nanban.",
+        "translation": "我们不应该信任这些南蛮人。",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTNAME4:0",
+        "original": "Portuguese Nagasaki",
+        "translation": "葡萄牙的长崎",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTDESC4:1",
+        "original": "The missionaries we sent to Japan have brought us good news; they have convinced the [From.Monarch.GetTitle] of [From.GetName] to grant the port of Nagasaki to the Society of Jesus. Due to our long-standing agreement with the Church, this means that de facto control of the port falls to [Root.GetName]. We will now have unprecedented access to Japanese trade, and a potential military foothold should we decide that our Japanese friends have outlived their usefulness.",
+        "translation": "我们派往日本的传教士带来了好消息；他们已经说服[From.GetName]的[From.Monarch.GetTitle]将长崎的港口授予耶稣会。因为我们和教会的长期协议，这意味着这座港口的实际控制权将落入[Root.GetName]手中。我们现在将拥有前所未有的进入日本贸易的机会，而一旦我们认定我们的日本友人不再有利用价值，我们也将会拥有一个潜在的军事立足点。",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTOPTA4:1",
+        "original": "Send the Black Ships.",
+        "translation": "派遣黑船。",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTNAME5:0",
+        "original": "Excommunication of Were-Tigers",
+        "translation": "驱逐虎精",
+        "stage": 2
+    },
+    {
+        "key": "more_flavor_por.EVTDESC5:0",
+        "original": "Following the capture of Malacca, we have discovered that the Indies as well as Europe is plagued with demonic skinchangers. In the case of the Malays, Satan grants the beast the ability to wear the skin of a man, and thus wander through his towns unnoticed except by the vigilant faithful. The priests we have brought with us to Malacca have promptly excommunicated these creatures, making it clear to all that Portugal will not tolerate demons posing as men.",
+        "translation": "跟随着对马六甲的占领，我们发现东印度群岛和欧洲一样，都饱受妖魔的折磨。就马来人而言，撒旦赋予了野兽穿人皮的能力，因此那些妖魔只要不被警觉的虔信徒发现，就能大摇大摆地在城里闲逛。我们带到马六甲的神父们立即将这些生物逐出马六甲，向所有人表明，葡萄牙不会容忍伪装成人类的恶魔。",
+        "stage": 1
+    },
+    {
+        "key": "more_flavor_por.EVTOPTA5:0",
+        "original": "Foul spawn of Satan!",
+        "translation": "污秽的撒旦之子！",
+        "stage": 1
+    },
+    {
+        "key": "jesuit_order:0",
+        "original": "Jesuits",
+        "translation": "耶稣会",
+        "stage": 1
+    },
+    {
+        "key": "jesuit_order_desc:0",
+        "original": "Among the dedicated Christian evangelists, the missionaries of the Society of Jesus are determined to spread the word of God to the four corners of the world.",
+        "translation": "作为献身于传播福音事业的基督徒，耶稣会的传教士决心将上帝的话语传播到世界的各个角落。",
+        "stage": 1
+    },
+    {
+        "key": "dominican_order:0",
+        "original": "Dominicans",
+        "translation": "道明会",
+        "stage": 1
+    },
+    {
+        "key": "dominican_order_desc:0",
+        "original": "The Dominican Order are firm advocates for the natural rights of all mankind. Abhorring slavery and mistreatment, they seek to change the world through compassionate deeds.",
+        "translation": "道明会是普世人权的坚定拥护者。 他们憎恶奴役和虐待，寻求通过富有同情心的行为来改变世界。",
+        "stage": 1
+    },
+    {
+        "key": "franciscan_order:0",
+        "original": "Franciscans",
+        "translation": "方济会",
+        "stage": 1
+    },
+    {
+        "key": "franciscan_order_desc:0",
+        "original": "The successors of Saint Francis of Assisi seek to implore the faithful to righteous acts through example. To those not of the faith they are strict disciplinarians who will do what is necessary to impose God's law.",
+        "translation": "阿西尼的圣弗朗西斯的继任者试图以身作则来传播公义。对于那些没有信仰的人来说，他们严于律己，愿意做任何有利于强化神的意愿的事情。",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDER_WHEN_ESTABLISHED:0",
+        "original": "When establishing the Order:",
+        "translation": "当设立这个修会时：",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDER_WHEN_ESTABLISHED_IN_PROVINCES:0",
+        "original": "Province changes when establishing:",
+        "translation": "设立时省份得到的即刻修正：",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDER_WHEN_ESTABLISHED_PERMANENT:0",
+        "original": "Permanent Province effects:",
+        "translation": "省份永久影响：",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDERS:0",
+        "original": "Holy  Orders",
+        "translation": "修会",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDER_NOT_AVAILABLE:0",
+        "original": "§RYou cannot establish this order:§!",
+        "translation": "§R你无法设立这个修会:§!",
+        "stage": 1
+    },
+    {
+        "key": "ESTABLISH_COST:0",
+        "original": "Establishing this Order will cost you $COST|Y$$ICON$",
+        "translation": "设立这个修会将会花费你$COST|Y$$ICON$",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ESTABLISH_HOLY_ORDER:0",
+        "original": "Establish Holy Order",
+        "translation": "设立修会",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ESTABLISH_HOLY_ORDER_DESC:0",
+        "original": "Are you sure you want to establish the $ORDER|Y$ Holy Order in the $STATE|Y$? Once established, it cannot be changed. Establishing it will have the following effects:\\n\\n$EFFECTS$",
+        "translation": "你想在$STATE|Y$设立$ORDER|Y$吗？一旦设立了，它就不能改变。设立修会将会有以下效果：\\n\\n$EFFECTS$",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDER_ESTABLISHED:0",
+        "original": "$ORDER|Y$ Holy Order established in $STATE|Y$\\n",
+        "translation": "$ORDER|Y$修会在$STATE|Y$设立了\\n",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDER_CANNOT_AFFORD:0",
+        "original": "§RYou cannot afford to establish this order right now.§!",
+        "translation": "§R你负担不起设立这个修会的花费。§!",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDER_NOT_ESTABLISHED:0",
+        "original": "$ORDER|Y$ Holy Order not established in $STATE|Y$\\n",
+        "translation": "$ORDER|Y$修会没有在$STATE|Y$设立\\n",
+        "stage": 2
+    },
+    {
+        "key": "ESTABLISH_HOLY_ORDER:0",
+        "original": "$ORDER|Y$ Holy Order will be established in $STATE|Y$",
+        "translation": "$ORDER|Y$将被设立于$STATE|Y$",
+        "stage": 1
+    },
+    {
+        "key": "ESTABLISH_HOLY_ORDER_WRONG_OWNER:0",
+        "original": "§RIn order to be able to establish a Holy Order, the state must be owned by you or one of your subjects.§!",
+        "translation": "§R要设立修会，该直属州必须被你或你的附庸所控制。§!",
+        "stage": 1
+    },
+    {
+        "key": "ESTABLISH_HOLY_ORDER_NOT_OWNING_ALL:1",
+        "original": "§RAll provinces in a state must be owned and cored by your nation or a subject for you to be able to establish a Holy Order.§!",
+        "translation": "§R你或你的附庸必须控制并核心化该直属州下辖的所有省份才能设立修会。§!",
+        "stage": 1
+    },
+    {
+        "key": "removes_slaves_tooltip:0",
+        "original": "Replaces §YSlaves§! trade good in the state with a new trade good.",
+        "translation": "该直属州内所有§Y奴隶§!贸易品将被另一种贸易品替换。",
+        "stage": 1
+    },
+    {
+        "key": "EVERY_PROVINCE_IN_STATE:0",
+        "original": "every province in the state",
+        "translation": "直属州中所有的省份",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDER_DESC:1",
+        "original": "You can establish Holy Orders in states that are fully owned and cored by you. Holy Orders will give you immediate effects when establishing them and permanent effects in all provinces of their state. Once established you cannot change it.",
+        "translation": "你可以在完全控制且拥有完整核心的直属州设立修会。设立修会将产生一个即刻效果，同时该直属州内所有省份都会得到一个永久效果。一旦设立了，你就无法改变它。",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDER_DISABLED_NOT_OWNING_ALL:0",
+        "original": "§RThis Holy Order is currently unable to perform its mission because all provinces in the state are not owned and cored by $COUNTRY$.§!",
+        "translation": "§R由于$COUNTRY$当前未拥有并核心化这个直属州的所有省份，此修会无法完成这个任务。§!",
+        "stage": 2
+    },
+    {
+        "key": "HOLY_ORDER_ESTABLISHED_BY:0",
+        "original": "Established by:\\n$COUNTRY$",
+        "translation": "设立者：\\n$COUNTRY$",
+        "stage": 1
+    },
+    {
+        "key": "MACRO_CLICK_TO_BUILD_FLAGSHIP:0",
+        "original": "Click to build the Flagship in $PROVINCE$",
+        "translation": "点击在$PROVINCE$建造旗舰",
+        "stage": 1
+    },
+    {
+        "key": "MACRO_BUILD_FLAGSHIP:0",
+        "original": "Build a Flagship",
+        "translation": "建造一艘旗舰",
+        "stage": 1
+    },
+    {
+        "key": "tortoise.1.t:0",
+        "original": "Tortoise Herding",
+        "translation": "乌龟养殖业",
+        "stage": 1
+    },
+    {
+        "key": "tortoise.1.d:0",
+        "original": "A few of the settlers on the Galapagos Islands have taken to eating the giant tortoises native there. These immobile and defenseless giants make perfect livestock; it has become a commodity among passing whalers and has become the colony's only significant source of income.\\n\\nIt is said that after once tasting the Galapagos tortoise, demand for every other animal food falls off greatly. The meat of is the easiest of digestion, and a quantity of it, exceeding that of any other food, can be eaten without experiencing the slightest of inconvenience.",
+        "translation": "加拉帕戈斯群岛上一些定居者已经开始吃本地的巨龟。这些一动不动且毫无防备大家伙成为了一种完美的家畜；它已经成为一种商品卖给过往的捕鲸者们，同时也成为了殖民地唯一的主要收入来源。\\n\\n据说一旦尝过加拉帕戈斯的乌龟肉后，对其他的肉类食物的需求都会大大降低。乌龟肉非常易于消化，其供应量也远远大于其他任何食物，同时其稍加处理便可食用，非常的方便。",
+        "stage": 1
+    },
+    {
+        "key": "tortoise.1.a:0",
+        "original": "Delicious Tortoises...",
+        "translation": "乌龟味道不错......",
+        "stage": 1
+    },
+    {
+        "key": "delicious_tortoises:0",
+        "original": "Tortoise Herding",
+        "translation": "乌龟养殖业",
+        "stage": 1
+    },
+    {
+        "key": "desc_delicious_tortoises:0",
+        "original": "Giant tortoises are being herded here for food. They've been known to be quite a delicious treat.",
+        "translation": "巨龟被集中于此作为食物。它们已经作为一种美食为世人所知。",
+        "stage": 1
+    },
+    {
+        "key": "has_holy_order_trigger_tooltip:0",
+        "original": "Province is part of a State assigned to a Holy Order",
+        "translation": "省份所在的直属州已分配给了一个修会",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITY:0",
+        "original": "Expel $NAME$ minority",
+        "translation": "驱逐$NAME$的少数族群",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_FROM:0",
+        "original": "Expel minorities from $PROVINCE$",
+        "translation": "驱逐$PROVINCE$的少数族群",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_TOOLTIP:0",
+        "original": "Minorities from $PROVINCE|Y$ will be slowly shipped off to $COLONY|Y$, leaving only subjects of our primary culture and faith.",
+        "translation": "$PROVINCE|Y$的少数族群会被慢慢运往$COLONY|Y$，当地只会留下属于我们主流文化与信仰的人民。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_TOOLTIP_EXTRA:0",
+        "original": "The colony will adopt the $CULTURE|Y$ culture and $RELIGION|Y$ religion.\\nThis will cost us $COST|Y$£dip and change the colonist maintenance by $MAINTENANCE$.\\nExpelled minorities will also increase the settler chance by $SETTLER_CHANCE$ and the colony development by $VAL$ on completion.",
+        "translation": "该殖民地将转为$CULTURE|Y$文化和$RELIGION|Y$宗教。\\n这将花费我们$COST|Y$£dip 并改变$MAINTENANCE$殖民地维护费。\\n被驱逐的少数民族也将增加该地$SETTLER_CHANCE$定居几率和$VAL$殖民地发展度。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_ALREADY_SHIPPED_OFF:0",
+        "original": "This minority is already being shipped off to $COLONY$.",
+        "translation": "这个少数族群已经被送往$COLONY$了。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_NOT_CONTROLLED:0",
+        "original": "We can only expel minorities from provinces we currently control.",
+        "translation": "我们只能把少数族群从我们目前控制的省份中驱逐出去。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_NOT_CORE:0",
+        "original": "We can only expel minorities from core provinces that are part of a state.",
+        "translation": "我们只能把少数族群从直属州的核心省份中驱逐出去。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_SEPARATISM:0",
+        "original": "We cannot expel minorities from provinces that have separatism.",
+        "translation": "我们不能把少数族群从有分离主义倾向的省份中驱逐出去。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_CHANGING_CULTURE:0",
+        "original": "We are already working on enforcing our primary culture there.",
+        "translation": "我们已经在致力加强我们的主流文化。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_CHANGING_RELIGION:0",
+        "original": "We are already converting them to the true faith.",
+        "translation": "我们已经将他们转化为正统信仰。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_TOO_MUCH_ZEAL:0",
+        "original": "This religious minority is extremely zealous and will resist our attempts to ship them off.",
+        "translation": "这个宗教少数派是极端狂热的，将会抵制我们将他们运走的意图。",
+        "stage": 1
+    },
+    {
+        "key": "EXPELLING_MINORITIES:0",
+        "original": "Is expelling minorities",
+        "translation": "正在驱逐少数族群",
+        "stage": 1
+    },
+    {
+        "key": "NOT_EXPELLING_MINORITIES:0",
+        "original": "Is not expelling minorities",
+        "translation": "没有驱逐少数族群",
+        "stage": 1
+    },
+    {
+        "key": "EXPULSION_TARGET:0",
+        "original": "Expulsion target",
+        "translation": "驱逐目标",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_CANCEL:0",
+        "original": "Minority expulsion cannot be canceled once started, however we can still recall $NAME$ before he reaches its destination.",
+        "translation": "少数族群的驱逐一旦开始就无法取消，但我们仍然可以在其到达目的地之前召回$NAME$。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES_NO_CANCEL:0",
+        "original": "Minority expulsion cannot be canceled once started, however we can still abandon the settlement entirely.",
+        "translation": "少数族群的驱逐一旦开始就无法取消，但我们仍然可以完全放弃整个定居点。",
+        "stage": 1
+    },
+    {
+        "key": "expelled_minority:0",
+        "original": "Expelled Minority",
+        "translation": "驱逐少数族群",
+        "stage": 1
+    },
+    {
+        "key": "desc_expelled_minority:0",
+        "original": "This province was recently colonized by an expelled minority. They will go at great lengths to defend their beliefs.",
+        "translation": "该省最近被一些被驱逐的少数民族殖民。他们将竭尽全力捍卫自己的信仰。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITY_BONUS_DESC:0",
+        "original": "Expelling minorities from $PROVINCE$: $BONUS$\\n",
+        "translation": "从$PROVINCE$驱逐少数族群：$BONUS$\\n",
+        "stage": 1
+    },
+    {
+        "key": "ENVOY_EXPELLING_MINORITIES:0",
+        "original": "$NAME|Y$ is expelling minorities from $PROV|Y$ to $COLONY|Y$",
+        "translation": "$NAME|Y$正在将$PROV|Y$的少数族群驱逐到$COLONY|Y$",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_WORKING:0",
+        "original": "Expelling minorities from $PROVINCE|Y$",
+        "translation": "从$PROVINCE|Y$驱逐少数族群",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_PROGRESS_TRAVELING:0",
+        "original": "A Colonist will arrive here on $DATE|Y$ to expel minorities from $PROVINCE|Y$.",
+        "translation": "一个殖民队将于$DATE|Y$抵达此地并从$PROVINCE|Y$驱逐少数族群。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_PROGRESS_WORKING:0",
+        "original": "$NAME|Y$ from $COUNTRY|Y$ is expelling the minority from $PROVINCE|Y$ to $COLONY|Y$. Each month he will have a $CHANCE|Y$ chance to increase the population by $NUM|Y$, growing the colony by an average of $VAL|Y$ people per year.",
+        "translation": "$COUNTRY|Y$的$NAME|Y$正在从$PROVINCE|Y$驱逐少数族群至$COLONY|Y$。每月人口将有 $CHANCE|Y$几率增长 $NUM|Y$，殖民地人口平均每年因此增长 $VAL|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_MAPICON_PROGRESS:0",
+        "original": "This minority is being expelled to $COLONY|Y$.",
+        "translation": "这个少数族群已经被驱逐到$COLONY|Y$.",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_ALREADY_WORKING:0",
+        "original": "We're already working in $PROVINCE|Y$ to expel its minority to $COLONY|Y$.",
+        "translation": "我们正在将$PROVINCE|Y$的少数族群驱逐到$COLONY|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "MINORITY_EXPULSION_GOTO_COLONY:0",
+        "original": "Click to go to colony",
+        "translation": "点击转到殖民地",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ABANDON_COLONY:0",
+        "original": "Confirm abandon colony",
+        "translation": "确认放弃殖民地",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ABANDON_COLONY_DESC:0",
+        "original": "Abandoning the colony will forfeit any investment we have made so far and allow any another nation to claim this land.",
+        "translation": "放弃殖民地将失去我们迄今为止所做的所有投资，并允许其他国家宣称这块土地。",
+        "stage": 1
+    },
+    {
+        "key": "COLONIZE_PROVINCE:0",
+        "original": "Colonize province",
+        "translation": "殖民省份",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITIES:0",
+        "original": "Expel minorities",
+        "translation": "驱逐少数族群",
+        "stage": 1
+    },
+    {
+        "key": "SEND_COLONIST:0",
+        "original": "Send colonist",
+        "translation": "派遣殖民队",
+        "stage": 1
+    },
+    {
+        "key": "SEND_COLONIST_TOOLTIP:0",
+        "original": "Send a colonist to $PROVINCE|Y$.\\nHe will create a colony of our primary culture and religion.",
+        "translation": "派遣一个殖民队到$PROVINCE|Y$。\\n他会创造一个我们主流文化和宗教的殖民地。",
+        "stage": 1
+    },
+    {
+        "key": "SEND_COLONIST_LABEL_TOOLTIP:0",
+        "original": "We can send a colonist to $PROVINCE|Y$.\\nHe will create a colony of our primary culture and religion.",
+        "translation": "我们可以派遣一个殖民队到$PROVINCE|Y$。\\n他会创造一个我们主流文化和宗教的殖民地。",
+        "stage": 1
+    },
+    {
+        "key": "SEND_COLONIST_TOOLTIP_EXTRA:0",
+        "original": "This province is also eligible for minority expulsion should we have any minorities we wish to get rid off.",
+        "translation": "这个省份十分适合用来接收被驱逐的少数族群，我们应该把想要赶走的的少数族群送到这里。",
+        "stage": 1
+    },
+    {
+        "key": "EXPEL_MINORITY_TOOLTIP:0",
+        "original": "We can expel a minority to $PROVINCE|Y$.\\nThe culture and religion of the home province will be transplanted to the new colony, leaving the home province with our primary culture and religion.",
+        "translation": "我们可以把少数族群驱逐到$PROVINCE|Y$。\\n原先他们所在的省份的文化与宗教将会被移植到新的殖民地，将原先所在省份转变为我们的主流文化与宗教。",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_MINORITY_TOOLTIP:0",
+        "original": "Expelling $MINORITY|Y$ minorities to $PROVINCE|Y$ will slowly replace them by subjects of our culture and religion.",
+        "translation": "驱逐$MINORITY|Y$的少数族群至$PROVINCE|Y$将逐渐将其替换为我们的主流文化和宗教。",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_MINORITY_TOOLTIP_EXTRA_ACCEPTED:0",
+        "original": "This minority is §Yaccepted§! and we own $NUM|Y$ eligible provinces for this.",
+        "translation": "这个少数族群属于§Y相容文化§!，我们有$NUM|Y$个符合条件的省份。",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_MINORITY_TOOLTIP_EXTRA_NOT_ACCEPTED:0",
+        "original": "This minority is §Rnot accepted§! and we own $NUM|Y$ eligible provinces for this.",
+        "translation": "这个少数族群属于§R不相容文化§!，我们有$NUM|Y$个符合条件的省份。",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_MINORITY_TOOLTIP_EXTRA_UNVAILABLE:1",
+        "original": "None of the $NUM|Y$ eligible provinces are available for minority expulsion at the moment.\\nTo expel minorities from eligible provinces, they need to be cores, part of a state, without separatism or religious zeal and should not have any building or conversion in progress.",
+        "translation": "目前符合条件的$NUM|Y$个省份中没有可以驱逐的少数族群。\\n要从符合条件的省份中驱逐少数族群，省份需要是核心省份，是直属州的一部分，没有分离主义和宗教狂热，并且不能正在建造建筑或进行传教。",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_BUILD_IN_PROVINCE:0",
+        "original": "Build Flagship in $PROVINCE$",
+        "translation": "在$PROVINCE$建造旗舰",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_CANCEL:0",
+        "original": "Cancel",
+        "translation": "取消",
+        "stage": 1
+    },
+    {
+        "key": "FLAGSHIP_BUILD:0",
+        "original": "Build",
+        "translation": "建造",
+        "stage": 1
+    },
+    {
+        "key": "HAS_FLAGSHIP:0",
+        "original": "Country has a Flagship",
+        "translation": "国家有一艘旗舰",
+        "stage": 1
+    },
+    {
+        "key": "HAS_NOT_FLAGSHIP:0",
+        "original": "Country does not have a Flagship",
+        "translation": "国家没有旗舰",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TRADE_COMPANY_INVESTMENT_COST:0",
+        "original": "Trade Company Investment cost",
+        "translation": "贸易公司投资成本",
+        "stage": 1
+    },
+    {
+        "key": "RECENT_TREASURE_SHIP_PASSAGE:0",
+        "original": "Treasure ship recently passed through Trade Node.",
+        "translation": "载宝船最近通过了贸易节点。",
+        "stage": 1
+    },
+    {
+        "key": "NO_RECENT_TREASURE_SHIP_PASSAGE:0",
+        "original": "No treasure ship recently passed through Trade Node.",
+        "translation": "没有载宝船最近通过贸易节点。",
+        "stage": 1
+    },
+    {
+        "key": "ANY_NATIVE_POLICY_SET:0",
+        "original": "Any Native Policy has been set.",
+        "translation": "已经设置过原住民政策。",
+        "stage": 1
+    },
+    {
+        "key": "NO_NATIVE_POLICY_SET:0",
+        "original": "No Native Policy has been set.",
+        "translation": "没有设置原住民政策。",
+        "stage": 1
+    },
+    {
+        "key": "NATIVE_POLICY_SET:0",
+        "original": "Native Policy $NAME|Y$ is set.",
+        "translation": "原住民政策$NAME|Y$被设置。",
+        "stage": 1
+    },
+    {
+        "key": "NATIVE_POLICY_NOT_SET:0",
+        "original": "Native Policy $NAME|Y$ is not set.",
+        "translation": "原住民政策$NAME|Y$没有被设置。",
+        "stage": 1
+    },
+    {
+        "key": "NATIVE_POLICY_CHANGE:0",
+        "original": "Native Policy changes to $NAME|Y$.",
+        "translation": "原住民政策改变为$NAME|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "pirate_republic_reform:0",
+        "original": "Pirate Republic",
+        "translation": "海盗共和国",
+        "stage": 1
+    },
+    {
+        "key": "pirate_republic_reform_desc:0",
+        "original": "Insofar as this loose collection of pirate crews can be called a state, the Pirate Republic is a haven for all manner of thieves, murderers, and smugglers.",
+        "translation": "要是海盗船员们的松散集合也能被称为一个国家的话，那么海盗共和国就是各种盗贼、杀人犯和走私者的避风港。",
+        "stage": 1
+    },
+    {
+        "key": "pirate_republic:0",
+        "original": "Pirate Republic",
+        "translation": "海盗共和国",
+        "stage": 1
+    },
+    {
+        "key": "pirate_republic_desc:0",
+        "original": "Insofar as this loose collection of pirate crews can be called a state, the Pirate Republic is a haven for all manner of thieves, murderers, and smugglers.",
+        "translation": "要是海盗船员们的松散集合也能被称为一个国家的话，那么海盗共和国就是各种盗贼、杀人犯和走私者的避风港。",
+        "stage": 1
+    },
+    {
+        "key": "pr_buccaneers:0",
+        "original": "The Buccaneers",
+        "translation": "海盗",
+        "stage": 1
+    },
+    {
+        "key": "pr_buccaneers_influence:0",
+        "original": "The Buccaneers Influence",
+        "translation": "海盗派系影响力",
+        "stage": 1
+    },
+    {
+        "key": "pr_buccaneers_FACTION_DESC:0",
+        "original": "The Buccaneers are the desperate and disenfranchised. Ex-slaves, mutineers, and impressed sailors all find sanctuary from the law in the Republic of Pirates.\\n\\n§YGains influence through Coastal Raiding.§!",
+        "translation": "海盗都是些亡命徒和被放逐者。恢复自由的奴隶、叛乱者以及杰出的水手都在海盗共和国找到了法外之地。\\n\\n§Y通过劫掠海岸提高影响力。§!",
+        "stage": 2
+    },
+    {
+        "key": "support_pr_buccaneers_title:0",
+        "original": "Encourage the Buccaneers",
+        "translation": "鼓励海盗",
+        "stage": 1
+    },
+    {
+        "key": "support_pr_buccaneers_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "pr_smugglers:0",
+        "original": "The Smugglers",
+        "translation": "走私者",
+        "stage": 1
+    },
+    {
+        "key": "pr_smugglers_influence:0",
+        "original": "The Smugglers Influence",
+        "translation": "走私者派系影响力",
+        "stage": 1
+    },
+    {
+        "key": "pr_smugglers_FACTION_DESC:0",
+        "original": "The Smugglers are clandestine merchants willing to risk capture to sell their illegitimate wares. They provide a semi-legitimate front for the fencing of plundered goods.\\n\\n§YGains influence through being at peace.§!",
+        "translation": "走私者是冒着被逮捕的风险贩卖他们非法商品的地下「商人」。他们为劫掠来的货物披上了半合法的外衣。\\n\\n§Y通过保持和平提高影响力。§!",
+        "stage": 1
+    },
+    {
+        "key": "support_pr_smugglers_title:0",
+        "original": "Encourage the Smugglers",
+        "translation": "鼓励走私者",
+        "stage": 1
+    },
+    {
+        "key": "support_pr_smugglers_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "pr_captains:0",
+        "original": "The Captains",
+        "translation": "船长",
+        "stage": 1
+    },
+    {
+        "key": "pr_captains_influence:0",
+        "original": "The Captains Influence",
+        "translation": "船长派系影响力",
+        "stage": 1
+    },
+    {
+        "key": "pr_captains_FACTION_DESC:0",
+        "original": "Pirate Captains are often former privateers gone rogue, either out of greed or with a political motive. They have the experience, education and charisma to lead the pirates.\\n\\n§YGains influence through Privateering.§!",
+        "translation": "海盗船长从前往往都是些私掠船上流氓，不论他们是出于贪婪或是政治动机。他们经验丰富，受过教育，且拥有领导海盗的个人魅力。\\n\\n§Y通过私掠提高影响力。§!",
+        "stage": 1
+    },
+    {
+        "key": "support_pr_captains_title:0",
+        "original": "Encourage the Captains",
+        "translation": "鼓励船长",
+        "stage": 1
+    },
+    {
+        "key": "support_pr_captains_desc:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "PIRATE_REPUBLIC:0",
+        "original": "Pirate Republic",
+        "translation": "海盗共和国",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_CONFEDERACY:0",
+        "original": "Pirate Confederacy",
+        "translation": "海盗邦联",
+        "stage": 1
+    },
+    {
+        "key": "GRAND_PIRATE_CONFEDERACY:0",
+        "original": "Grand Pirate Confederacy",
+        "translation": "大海盗邦联",
+        "stage": 1
+    },
+    {
+        "key": "CAPTAIN:0",
+        "original": "Captain",
+        "translation": "船长",
+        "stage": 1
+    },
+    {
+        "key": "CAPTAIN_fem:0",
+        "original": "Captain",
+        "translation": "船长",
+        "stage": 1
+    },
+    {
+        "key": "GRAND_CAPTAIN:0",
+        "original": "Grand Captain",
+        "translation": "大船长",
+        "stage": 1
+    },
+    {
+        "key": "GRAND_CAPTAIN_fem:0",
+        "original": "Grand Captain",
+        "translation": "大船长",
+        "stage": 1
+    },
+    {
+        "key": "GRAND_ADMIRAL:0",
+        "original": "Grand Admiral",
+        "translation": "海军司令",
+        "stage": 1
+    },
+    {
+        "key": "ADMIRAL_fem:0",
+        "original": "Grand Admiral",
+        "translation": "海军司令",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_PRINCIPALITY:0",
+        "original": "Pirate Principality",
+        "translation": "海盗亲王国",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_KINGDOM:0",
+        "original": "Pirate Kingdom",
+        "translation": "海盗王国",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_EMPIRE:0",
+        "original": "Piratical Empire",
+        "translation": "海盗帝国",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_PRINCE:0",
+        "original": "Pirate Prince",
+        "translation": "海盗亲王",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_KING:0",
+        "original": "Pirate King",
+        "translation": "海盗王",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_EMPEROR:0",
+        "original": "Pirate Emperor",
+        "translation": "海盗皇帝",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_PRINCESS:0",
+        "original": "Pirate Princess",
+        "translation": "海盗公主",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_QUEEN:0",
+        "original": "Pirate Queen",
+        "translation": "海盗女王",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_EMPRESS:0",
+        "original": "Pirate Empress",
+        "translation": "海盗女皇",
+        "stage": 1
+    },
+    {
+        "key": "mechanic_force_admiral_leader_yes:0",
+        "original": "New rulers become Admirals.",
+        "translation": "新的统治者成为提督。",
+        "stage": 1
+    },
+    {
+        "key": "mechanic_force_admiral_leader_no:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "mechanic_admirals_become_rulers_yes:0",
+        "original": "An Admiral becomes ruler when the current ruler dies.",
+        "translation": "当前统治者死亡时，一位提督成为统治者。",
+        "stage": 1
+    },
+    {
+        "key": "mechanic_admirals_become_rulers_no:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "pirates.1.t:0",
+        "original": "Election in the [Root.GovernmentName]",
+        "translation": "[Root.GovernmentName]大选",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.desc:0",
+        "original": "A [Root.Monarch.GetTitle] rules over a nation of thieves and murderers whose sole political desire is to not be ruled at all. It is a task comparable to herding sharks, yet some brave or foolhardy soul must fill the role.\\n\\nThe time has come once again to elect the [Root.Monarch.GetTitle], and [Root.Monarch.GetName] does not plan on giving up [Root.Monarch.GetHerHis] authority.  [Root.Monarch.GetName] must convince the assembled pirates through persuasion or dread intimidation that [Root.Monarch.GetHerHis] rule is preferable to that of [Root.Monarch.GetHerHis] rivals.",
+        "translation": "一名[Root.Monarch.GetTitle]统治一个由强盗与杀手组成的国家。其臣民的唯一愿望是不被统治。这是一项与放牧鲨鱼相匹敌的任务，但是一些勇敢或愚蠢的可怜人必须充当这个角色。\\n\\n现在是时候选出新的[Root.Monarch.GetTitle]了。然而[Root.Monarch.GetName]并不打算放弃[Root.Monarch.GetHerHis]的头衔。 [Root.Monarch.GetName]必须用尽各种方法说服集会上的海盗，让他们相信[Root.Monarch.GetHerHis]的统治优于他的竞争对手[Root.Monarch.GetHerHis]。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.desc2:0",
+        "original": "[Root.Monarch.GetName] has met the fate destined for most pirates; a brutal and untimely end. The crews have been called to assembly to elect a new [Root.Monarch.GetTitle].\\n\\nA [Root.Monarch.GetTitle] rules over a nation of thieves and murderers whose sole political desire is to not be ruled at all. It is a task comparable to herding sharks, yet some brave or foolhardy soul must fill the role.",
+        "translation": "[Root.Monarch.GetName]接受了作为海盗最终的命运；一个残酷而不合时宜的结局。所有成员被召集起来，选举一个新的[Root.Monarch.GetTitle]。\\n\\n一个[Root.Monarch.GetTitle]将统治整个国家的窃贼和杀人犯，而他们完全不想被任何人统治。这是一项放养鲨鱼般危险的任务，但一些勇敢或鲁莽的人必须填补这个位置。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.keep:0",
+        "original": "Keep $MONARCH$",
+        "translation": "留任 $MONARCH$",
+        "stage": 1
+    },
+    {
+        "key": "historical_pirate_tooltip:0",
+        "original": "Re-electing this ruler will not cost any Republican Tradition.",
+        "translation": "再次任命这位统治者不会花费任何共和传统。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.a:0",
+        "original": "An up-and-coming pirate.",
+        "translation": "一个前程似锦的海盗。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.b:0",
+        "original": "A well-connected smuggler.",
+        "translation": "一个出身名门的走私者。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.c:0",
+        "original": "An experienced and dreaded captain.",
+        "translation": "一个老练而恐怖的船长。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.d:0",
+        "original": "Blackbeard!",
+        "translation": "黑胡子！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.e:0",
+        "original": "'Calico' Jack Rackham.",
+        "translation": "「白布」杰克·拉克姆。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.f:0",
+        "original": "Anne Bonny.",
+        "translation": "安妮·博尼",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.g:0",
+        "original": "Mary Read.",
+        "translation": "玛丽·瑞德",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.h:0",
+        "original": "Charles Vane.",
+        "translation": "查尔斯·范恩",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.i:0",
+        "original": "Black Caesar",
+        "translation": "黑色帝王",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.j:0",
+        "original": "Ching Shih",
+        "translation": "郑氏",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.k:0",
+        "original": "Yusuf Raïs, formerly Jack Ward.",
+        "translation": "优素福·赖斯以前被称为杰克·沃德",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.l:0",
+        "original": "Laurens de Graaf.",
+        "translation": "劳伦斯 德 赫拉夫",
+        "stage": 1
+    },
+    {
+        "key": "pirates.1.m:0",
+        "original": "Michel de Grammont.",
+        "translation": "米歇尔·德·格拉蒙特",
+        "stage": 1
+    },
+    {
+        "key": "pirates.2.t:0",
+        "original": "The Pirate Republic",
+        "translation": "海盗共和国",
+        "stage": 1
+    },
+    {
+        "key": "pirates.2.d:0",
+        "original": "Nassau has fallen! The pirates of New Providence have become so emboldened by the absence of civilized government in the Bahamas that they have overrun the fort and proclaimed a Republic of Pirates.\\n\\nChief among them is the pirate captain Benjamin Hornigold. Hornigold maintains a tenuous leadership over the traitors and criminals of the island; the ruthless lieutenants under his command watch him closely for signs of weakness.\\n\\nThis ‘Republic of Pirates’ is not only a violation of our sovereignty over the Bahamas, but an affront to all civilized peoples. Anarchy reigns in New Providence.",
+        "translation": "拿骚已经陷落了！新普罗维登斯的海盗们因为巴哈马地区殖民政府的缺失而大胆起来，他们已经占领了港口，并且宣布成立了一个海盗共和国。\\n\\n他们之中的领导人是海盗船长本杰明·霍尼戈尔德。霍尼戈尔德在岛上的叛贼和罪犯之间只有可怜的一点领导力，他手下无情的海军上尉们时刻关注着他，以寻找他身上散发的虚弱的气息。\\n\\n这个“海盗共和国”不仅是对我们在巴哈马主权的一种侵犯，更是对所有文明人的一种侮辱。无政府主义在新普罗维登斯蔓延着。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.2.a:0",
+        "original": "A pirate's life for me!",
+        "translation": "海盗人生！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.2.b:0",
+        "original": "They will hang for this!",
+        "translation": "他们都将被吊死！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.3.t:0",
+        "original": "Libertatia",
+        "translation": "利贝塔蒂亚",
+        "stage": 1
+    },
+    {
+        "key": "pirates.3.d:1",
+        "original": "An unlikely alliance between the pirate captains Misson and Tew, as well as the Dominican priest Caraccioli, have united the pirates of Madagascar into a single community. Naming their colony ‘Libertatia’, the pirates appear to follow a utopian doctrine of radical liberty and communalism. The pirates consider slavery and statecraft to be anathema to their ideals. They govern through majority voting and bolster their ranks by recruiting liberated slaves from Angola.\\n\\nWhile this ragtag republic will surely draw the ire of the European colonial powers, whose merchant vessels they mark as prey, this unruly crew of idealists may thrive under our protection.",
+        "translation": "海盗船长米松和图与道明会牧师卡拉查理结成了一个看似不可能的同盟，他们将马达加斯加的海盗们统一成一个集体。他们将自己的殖民地称作“利贝塔蒂亚”。这些海盗似乎遵循一种激进自由和公社民主的乌托邦主义。海盗们认为奴隶制和政治是可憎的，不符合他们的理想。他们通过多数投票来治理国家，并通过从安哥拉招募解放的奴隶来巩固他们的阵线。\\n\\n尽管这个褴褛的共和国肯定会因为将商船标记为猎物而引起欧洲殖民大国的愤怒，但这些不守规矩的理想主义者可能会在我们的保护下茁壮成长。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.3.a:0",
+        "original": "A pirate's life for me!",
+        "translation": "海盗人生！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.3.b:0",
+        "original": "They are welcome to settle on our shores.",
+        "translation": "欢迎他们到我们的海岸上定居。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.4.t:0",
+        "original": "The Republic of Salé",
+        "translation": "塞拉共和国",
+        "stage": 1
+    },
+    {
+        "key": "pirates.4.d:0",
+        "original": "The zealous Spanish Inquisition continues to ruthlessly purge and deport the Moriscos, the descendents of converts whom they suspect of hiding their Muslim faith. A large group of wealthy Moriscos from the province of [218.GetName] have fled [218.Owner.GetName] in anticipation of further oppression.\\n\\nThey have settled in Salé, where they have abandoned their former lives and adopted a new profession; high seas piracy. Joined by a host of piratical slavers, the newly formed Republic of Salé is led by the Dutch pirate Jan Janszoon, now calling himself by his Muslim name Murat Reis.\\n\\nWe should take these ambitious refugees under our wing. After all, the enemy of our enemy is our friend.",
+        "translation": "狂热的西班牙宗教裁判所继续无情地清洗并流放莫里斯科人，他们是天主教皈依者的后裔，但被怀疑在暗中仍是穆斯林。预感到压迫仍会加剧，大群富裕的[218.GetName]莫里斯科人逃到了[218.Owner.GetName]。\\n\\n他们逃到了塞拉，抛弃了原来的生活，从事新的职业：公海海盗。一群海盗奴隶贩子的大军加入后，新成立的塞拉共和国由荷兰海盗杨·杨松领导，他现在以穆斯林名字穆拉特·雷斯自称。\\n\\n我们应当将这些野心勃勃的流亡者置于我等卵翼之下，毕竟敌人的敌人就是朋友。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.4.a:0",
+        "original": "A pirate's life for me!",
+        "translation": "海盗人生！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.4.b:0",
+        "original": "Let us make friends of these pirates.",
+        "translation": "让我们与这些海盗交朋友。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.5.t:0",
+        "original": "The Pirate Queen of Tétouan",
+        "translation": "得土安的海盗女王",
+        "stage": 1
+    },
+    {
+        "key": "pirates.5.a:0",
+        "original": "A pirate's life for me!",
+        "translation": "海盗人生！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.5.b:0",
+        "original": "Let her reign from Tétouan.",
+        "translation": "让她统治得土安。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.6.t:0",
+        "original": "The Pirates of Port Royal",
+        "translation": "皇家港的海盗",
+        "stage": 1
+    },
+    {
+        "key": "pirates.6.d:0",
+        "original": "We have awarded a great number of letters of marque to enterprising privateers in the Caribbean with the goal of harassing [spanish_main_country.GetAdjective] shipping. These privateers have made their home in the town of Port Royal on [487.GetName], where they have found great opportunity for plunder.\\n\\nThe willingness of Port Royal’s authorities to deal in stolen goods has also attracted a less savory sort; pirates who bear no letter of marque and recognize no sovereign have begun to make their bases on the island. The appeals of lawlessness have not been lost on our privateers; several have already abandoned their commissions and turned pirate. The gossip in [Root.Capital.GetCapitalName] is that Port Royal has become a pirate utopia, a Sodom of the New World.",
+        "translation": "我们颁发了大量的私掠特许证给加勒比地区那些富有进取心的私掠者，目的是为了侵扰[spanish_main_country.GetAdjective]的航行船只。这些私掠者于[487.GetName]在皇家港的镇上安家落户，在那里他们发现了巨大的掠夺机会。\\n\\n皇家港当局乐意分享赃物的意愿也引来了一些令人不愉快的事；没有获得任何许可证也没有得到任何主权国家承认的海盗已经开始在岛上建立基地。我们的私掠者们并没有失去对不法行为的诉求；有几个人已经放弃了他们的佣金并变成了海盗。在[Root.Capital.GetCapitalName]的传闻中。皇家港已经成为了海盗的乌托邦，新世界的所多玛（罪恶之地）。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.6.a:0",
+        "original": "A pirate's life for me!",
+        "translation": "海盗人生！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.6.b:0",
+        "original": "We must restore order in Port Royal.",
+        "translation": "我们必须重建皇家港的秩序。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.7.t:0",
+        "original": "The Brethren of the Coast",
+        "translation": "海岸兄弟会",
+        "stage": 1
+    },
+    {
+        "key": "pirates.7.d:0",
+        "original": "On the island of Tortuga, off the coast of Haiti, a clandestine gathering of pirates and privateers convenes for what will be the first of many such meetings. The assembled captains enter a makeshift cabin begin to draft an agreement.\\n\\nSome hours later, the captains emerge from their conference and present to their crews the Pirate Code of the Brethren. With these Articles the Brethren of the Coast is founded and united by a code of conduct to be shared, with some modifications, among all crews.\\n\\nThe Brethren have made Tortuga their base of operations. From here they will set out under black sails to terrorize the Caribbean.",
+        "translation": "在距海地海岸不远的托尔图加岛，海盗和私掠船的秘密集会即将在此举行，这将是此类会议的第一次。聚集在一起的船长们进入一个临时舱，开始起草一份协议。\\n\\n几个小时后，船长们从他们的会议中走出来，向船员们出示了《海岸兄弟会法典》。根据这些条款海岸兄弟会是通过一项共同遵守的行为准则成立并联合起来的，该准则将在全体船员中经过一些修改后予以分享。\\n\\n海岸兄弟会以托尔图加为作战基地。他们黑舰也将从这里扬帆起航，到加勒比地区进行恐怖袭击。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.7.a:0",
+        "original": "A pirate's life for me!",
+        "translation": "海盗人生！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.7.b:0",
+        "original": "We will eradicate these criminals.",
+        "translation": "我们将根除这些罪犯。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.8.t:0",
+        "original": "Piracy in Palembang",
+        "translation": "巴邻旁的海盗",
+        "stage": 1
+    },
+    {
+        "key": "pirates.8.d:1",
+        "original": "Palembang has fallen far from its time as capital of the great Srivijaya empire. The city has been abandoned by the collapsed Majapahit kingdom and for decades has been plagued by Chinese pirates who use the port as a base for their smuggling operations. When Admiral Zheng He weighed anchor in the city during his expeditions, he drove out the pirates and appointed Shi Jinqing to rule the city. But Zheng He and Shi Jinqing are now dead, and the pirates have to begun to gather once again. Left unchecked they will surely attempt to retake seize the city.",
+        "translation": "巴邻旁自从不再作为伟大的三佛齐帝国的首都之后已经衰落。这个城市已经被崩溃的满者伯夷王国所遗弃，几十年来一直受到中国海盗的骚扰，他们将其作为进行走私活动的基地。郑和在探险过程中停泊这个城市时，驱逐了这些海盗，并任命施进卿统治这座城市。但现在，郑和和施进卿都已经去世，海盗们开始再次聚集。如果不加以控制，他们肯定会重新夺回这座城市。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.8.a:0",
+        "original": "A pirate's life for me!",
+        "translation": "海盗人生！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.8.b:0",
+        "original": "They will no longer find refuge in Palembang.",
+        "translation": "巴邻旁不再会成为他们的避难所。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.9.t:0",
+        "original": "The Lin Daoqian Band",
+        "translation": "林道乾集团",
+        "stage": 2
+    },
+    {
+        "key": "pirates.9.d:0",
+        "original": "The notorious Chinese pirate Lin Daoqian and his ruthless band of cutthroats have made port in Pattani, where he seeks an audience with [Root.Monarch.GetTitle] [Root.Monarch.GetName]. Lin is renowned for his brutality. It is said that in Taiwan he massacred the native people and used their blood as caulk to seal a leak in his ship.\\n\\nHe states that his purpose in Pattani is to offer his services to the [Root.Monarch.GetTitle] in exchange for sanctuary from Chinese authorities. By his reputation and the size of his fleet however, it is likely that his true ambitions in the city extend beyond what he claims.",
+        "translation": "臭名昭著的中国海盗林道乾及其残忍无情的党徒在北大年驻港，并寻求谒见[Root.Monarch.GetTitle][Root.Monarch.GetName]。林道乾以凶暴残虐著称，据说他在台湾屠杀土人后将其血液塞在船体上止漏。\\n\\n他声称他愿在北大年为[Root.Monarch.GetTitle]服务以换取保护免受中国官府追索。但以他的名声和舰队大小来看，他的图谋远远不止他所声称的那些。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.9.a:0",
+        "original": "A pirate's life for me!",
+        "translation": "海盗人生！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.9.b:0",
+        "original": "They will find no refuge in our city.",
+        "translation": "我们的城市不会成为他们的避难所。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.9.c:0",
+        "original": "Send him back to the sea. May he suffer death by drowning.",
+        "translation": "把他丢回海里。愿他溺水而亡。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.10.t:0",
+        "original": "Sunken Treasure",
+        "translation": "海底宝藏",
+        "stage": 1
+    },
+    {
+        "key": "pirates.10.d:0",
+        "original": "Rumors abound that the location of a sunken treasure fleet has been discovered. Wrecked by a raging hurricane, the lost galleon is said to have taken some one thousand sailors and millions of [sunken_ship_country.GetAdjective] dollars to its watery grave.\\n\\nNow that its purported location is widely know it is sure to attract opportunistic salvagers and perhaps even the [sunken_ship_country.GetAdjective] authorities seeking to recover their gold.",
+        "translation": "最近有谣言称沉没的宝藏舰队的位置被发现了。被飓风袭击而沉没的盖伦船据说带着一千名水手与一百万枚[sunken_ship_country.GetAdjective]金币沉到了海底。\\n\\n现在， 鉴于其位置已经广为人知，它将会吸引大批机会主义者前来打捞。 [sunken_ship_country.GetAdjective]的政府也有可能会来宣称遗失的黄金。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.10.a:0",
+        "original": "Arrange an ambush for would-be salvagers.",
+        "translation": "埋伏并突袭前来打捞的人。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.10.b:0",
+        "original": "Lower the diving bell. The gold will be ours!",
+        "translation": "放下潜水钟，黄金是我们的！全是我们的！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.11.t:0",
+        "original": "The Tyranny of Captain [Root.captain_name.GetName]",
+        "translation": "[Root.captain_name.GetName]船长的暴政",
+        "stage": 1
+    },
+    {
+        "key": "pirates.11.d:0",
+        "original": "When a pirate captain flies the black flag he must invoke terror in the hearts of all who lay eyes upon it. But he must also command the respect of his crew, and at least in theory commands the ship with their consent.\\n\\nCaptain [Root.captain_name.GetName] of the [Root.GetRandomShipName] has gained for themselves a cruel and tyrannical reputation. The punishments they mete out for even the most minor and unsubstantiated offences are excessive even by the standards of lawless men. Unrest is growing, and it is only a matter of time before the crew take matters into their own hands.",
+        "translation": "当一名海盗船长悬挂黑旗时，他必须让所有注视到它的人心生恐惧。但他也必须赢得船员的尊重，至少理论上是要在他们的帮助下，他才能指挥这艘船。\\n\\n[Root.GetRandomShipName]的船长[Root.captain_name.GetName]为他们自己赢得了一个残忍和暴虐的名声。即使以胡作非为之人的标准来衡量，他们对最轻微和未经证实的罪行所施行的惩罚也是过分的。骚乱正在加剧，船员们把权利夺回自己手中只是时间问题。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.11.a:0",
+        "original": "Mutiny!",
+        "translation": "叛乱!",
+        "stage": 1
+    },
+    {
+        "key": "pirates.11.b:0",
+        "original": "The captain's word is law.",
+        "translation": "船长的话就是法律。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.12.t:0",
+        "original": "Division of Plunder",
+        "translation": "分配战利品",
+        "stage": 1
+    },
+    {
+        "key": "pirates.12.d:0",
+        "original": "Our latest prize turned out to be carrying a much more valuable cargo than expected. This fact has not yet been revealed to the crews, who would expect and demand that the additional plunder be added to their share. The captains of the involved ships wish sequester the money to refit their ships and purchase additional cannon, while the fence’s representative argues that it is best spent on bribing officials in legitimate ports. As an argument breaks out, a drunken crewman stumbles into the room and hears too much.",
+        "translation": "我们最新的战利品原来是一件比预期贵重得多的货物。这一事实还没有告诉船员们，他们期望并要求在他们的份额上增加额外的掠夺。涉案船只的船长希望扣押这笔钱，用于改装船只和购买更多大炮，而买卖赃物的代表则认为，这笔钱最好花在贿赂港口的官员上以便获的合法性。正当一场争吵爆发时，一个喝醉了的船员跌跌撞撞地闯进房间，他听到了太多内容。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.12.a:0",
+        "original": "Divide it evenly amongst the crew.",
+        "translation": "均分给全体船员。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.12.b:0",
+        "original": "The fence will take their cut.",
+        "translation": "这些战利品够他们用的。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.12.c:0",
+        "original": "The Captain will receive an extra share.",
+        "translation": "分配给船长额外的份额。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.13.t:0",
+        "original": "Forged Shipping Manifests",
+        "translation": "伪造运输文件",
+        "stage": 1
+    },
+    {
+        "key": "pirates.13.d:0",
+        "original": "Piracy is a dangerous business, but smuggling can carry just as much risk if the proper precautions are not taken. Our smugglers make their profits by purchasing stolen goods from pirate crews and selling them on for profit in legitimate markets. To sell these illegally acquired goods the smugglers must bribe port officials to ignore their origin or else present passable documents that proclaim their legitimacy.\\n\\n[Root.skilled_forger.GetName], a skilled forger, has recently entered our service and procured for us a number of documents that should be accepted in almost any port, ensuring that our operations will continue to run smoothly.",
+        "translation": "海盗是一种危险的行为，但如果不采取适当的预防措施，走私也会带来同样大的风险。我们的走私犯从海盗手中购买赃物，然后在合法市场上出售，以此牟利。为了出售这些非法获得的货物，走私者必须贿赂港口官员，让他们忽略这些货物的原产地，或者出示证明其合法性的可通过的文件。\\n\\n[Root.skilled_forger.GetName]是一名熟练的伪造者，最近加入了我们的行列并为我们制作了一些文件，这些文件几乎可以在任何港口被接受，确保我们的运营将继续顺利进行。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.13.a:0",
+        "original": "This is good for business.",
+        "translation": "这对商业有利。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.14.t:0",
+        "original": "Privateer Defects",
+        "translation": "私掠者叛变",
+        "stage": 1
+    },
+    {
+        "key": "pirates.14.d:0",
+        "original": "The privateer Captain [Root.defecting_privateer.GetName] has made quite a name for himself in the service of the [privateer_origin_country.GetAdjective] Navy. The payment he has been receiving for his prizes however is much less than the full value of the prizes themselves. Like many savvy privateers, [Root.defecting_privateer.GetName] has realized that he could make a greater profit by turning pirate. He has tossed his Letter of Marque overboard and made port in [Root.Capital.GetCapitalName]. As a pirate of [Root.GetName] he will be free to plunder to his heart’s content and keep the spoils he has rightfully stolen.",
+        "translation": "私掠船船长[Root.defecting_privateer.GetName]在为[privateer_origin_country.GetAdjective]海军服务时已经为自己取得了很大的名声。然而，他付出所收到的报酬远低于战利品本身的全部价值。像许多精明的私掠者一样，[Root.defecting_privateer.GetName]已经意识到他可以通过转变成海盗来获得更大的利润。他把他的特许证信函从船上扔下，并使出了[Root.Capital.GetCapitalName]港口。作为[Root.GetName]的一名海盗，他可以自由地随心所欲的掠夺，并得到他应得的战利品。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.14.a:0",
+        "original": "To profit and plunder!",
+        "translation": "为了利润和掠夺！",
+        "stage": 1
+    },
+    {
+        "key": "pirates.15.t:0",
+        "original": "Slave Ship Captured",
+        "translation": "奴隶船被俘",
+        "stage": 1
+    },
+    {
+        "key": "pirates.15.d:0",
+        "original": "After boarding our latest prize we discovered the cargo holds to be packed with captive slaves. Many among our crews have experienced the horrors of slavery for themselves, and naturally their first instinct was to demand that the slaves be freed and incorporated into the crew.\\n\\nThe less scrupulous crewmen with a particular lust for gold would prefer to instead treat these people as cargo and sell them on to the fence as such. There will be nothing in the way of moneyed compensation for their efforts to take this prize, they argue, if we refuse to profit from trading in slaves.",
+        "translation": "登上我们最新捕获的战利品后，我们发现货舱里装满了被俘虏的奴隶。我们船员中的许多人都亲身经历过奴隶制度的恐怖，他们的第一反应自然是要求释放奴隶并将其纳入船员队伍中。\\n\\n那些没有顾忌的船员对黄金有着特别的渴望，他们宁愿把这些人当作货物，然后把他们卖到黑市上。他们认为，如果我们拒绝从奴隶交易中获利，那么，他们为获得这一奖赏所付出的努力将得不到任何金钱补偿。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.15.a:0",
+        "original": "Liberate them! Let them live free in [Root.GetName].",
+        "translation": "解放他们！让他们自由地生活在[Root.GetName]。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.15.b:0",
+        "original": "They are just cargo to be sold for profit.",
+        "translation": "它们只是为了盈利而出售的货物。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.16.t:0",
+        "original": "Careening",
+        "translation": "船只维护",
+        "stage": 1
+    },
+    {
+        "key": "pirates.16.d:0",
+        "original": "It is time once again to careen the ships. This arduous process requires the crews to drag the ships onto a secure beach at high tide and safely lower them onto their sides to expose the hull for repairs. It is a task dreaded by every pirate, not only because the risk of damage to the ship and injury to the crew is high but because of the backbreaking labor they must perform to see the job done right. Several advocates among the crew feel that a more relaxed approach should be taken to careening, despite the captain’s insistence that failing to make the proper repairs will cause far more problems down the line.",
+        "translation": "现在是时候维护船只了。这个艰巨的过程要求船员们在涨潮时将船拖到海滩上并安全地将它们倒向一侧，露出船体进行维修。每个海盗都害怕这项任务，因为船只损坏和船员受伤的风险很高，除此以外，想要正确完成任务还需要艰苦卓绝地工作。船员都要求采用一种更轻松的方式维护船只，而船长们则认为没有经过恰当维护的船只会导致更多问题。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.16.a:0",
+        "original": "Ensure the crews do a thorough job.",
+        "translation": "确保船员们工作到位。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.16.b:0",
+        "original": "Let the crews relax.",
+        "translation": "让船员休息。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.17.t:0",
+        "original": "Smugglers Struggling",
+        "translation": "走私者苦苦挣扎",
+        "stage": 1
+    },
+    {
+        "key": "pirates.17.d:0",
+        "original": "Even at the best of times there it is difficult to smuggle contraband into foreign ports. These are most certainly not the best of times. Many of our smugglers are returning to [Root.Capital.GetCapitalName] having had their goods confiscated. Some do not return at all and await the gallows.",
+        "translation": "即使在最好的情况下，向外国港口走私货物也是很困难的。当然现在并不处于最好的情况。我们的很多走私者被没收了货物，然后被赶回[Root.Capital.GetCapitalName]。有些走私者则被送上绞刑架，永远回不来了。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.17.a:0",
+        "original": "Unfortunate.",
+        "translation": "真是不幸。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.18.t:0",
+        "original": "Electing a Quartermaster",
+        "translation": "选举一位军需官",
+        "stage": 1
+    },
+    {
+        "key": "pirates.18.d:0",
+        "original": "As the previous quartermaster of the [Root.Flagship.GetName] appears to have taken a long walk off a short plank, we find ourselves in need of a new candidate for the role. A quartermaster has a unique position on a pirate ship. Elected by the crew, he is expected to be their representative and to champion their needs against the often arbitrary authority of the captain.\\n\\nTwo candidates immediately present themselves. [Root.crew_representative.GetName] is a true advocate for the crew; he has both the humility to listen to their concerns and the fortitude to stand up to the captain. Meanwhile [Root.captains_puppet.GetName] is firmly in the Captain’s pocket; he is skilled at manipulating the crew into believing that the Captain’s wishes are also their own. Who will win the hearts and minds of the assembled pirates?",
+        "translation": "作为[Root.Flagship.GetName]的前任军需官似乎离开底层走的越来越远了，我们发现我们需要一个新的候选人来担任这一角色。军需官在海盗船上有着独特的地位。他是由船员选出，并作为他们的代表被寄予期望，以维护他们的需要，反对船长时常专横的权威。\\n\\n现在有两名候选人获得提名。[Root.crew_representative.GetName]是一名真正的船员的拥护者；他既能谦虚地倾听他们的心声，又能以不屈的态度直面船长。与此同时[Root.captains_puppet.GetName]则是船长的坚定拥护者；他擅长操纵船员，使他们相信船长的愿望也是他们自己的愿望。谁将在这场全体海盗的内心和思想的抉择中获胜呢？",
+        "stage": 1
+    },
+    {
+        "key": "pirates.18.a:0",
+        "original": "[Root.crew_representative.GetName], a voice for the crew.",
+        "translation": "[Root.crew_representative.GetName]，这是船员们的心声。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.18.b:0",
+        "original": "[Root.captains_puppet.GetName], the Captain's puppet.",
+        "translation": "[Root.captains_puppet.GetName]，船长的傀儡。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.19.t:0",
+        "original": "Crew Blacklisted",
+        "translation": "船员被列入黑名单",
+        "stage": 1
+    },
+    {
+        "key": "pirates.19.d:0",
+        "original": "The crew of the [Root.GetRandomShipName] are a menace. Though they have an excellent record of delivering prizes, as soon as they make port their drunkenness and violence cause so much damage and disruption in [Root.Capital.GetCapitalName] that many wonder if they are worth the trouble they cause.\\n\\n After a particularly destructive episode, the local smuggling consortium has decided to blacklist the entire crew, making them unable to sell their plunder anywhere in [Root.GetName]. This has caused upset among the pirates that call the island home; they believe their natural rights to live as they please are being violated, and several rabble-rousers compare the smugglers to snobbish aristocrats.",
+        "translation": "[Root.GetRandomShipName]的船员是一个威胁，虽然他们在提供珍宝方面有着出色的表现，但只要他们一到港口，他们的酗酒和暴力行为就会对[Root.Capital.GetCapitalName]造成很大的伤害和破坏，许多人怀疑他们是否值得承担这些麻烦。\\n\\n在经历了一段极具破坏性的事件之后，当地的走私集团决定将所有船员列入黑名单，使他们无法在[Root.GetName]中的任何地方出售他们的掠夺物。这在那些以该岛为家的海盗中引起了不安；他们认为他们自然享有的自由生活权利正在被侵犯，一些煽动者将走私者比作势利的贵族。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.19.a:0",
+        "original": "Maintain the ban.",
+        "translation": "保持禁令。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.19.b:0",
+        "original": "Lift the ban.",
+        "translation": "解除禁令。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.20.t:0",
+        "original": "The Golden Age of Piracy",
+        "translation": "海盗的黄金时代",
+        "stage": 1
+    },
+    {
+        "key": "pirates.20.d:0",
+        "original": "Wars between colonial powers are bloody affairs that leave a legacy of devastation and villainy in their wake. Piracy has become rampant in the Caribbean. Former privateers have raised the black flag as they discover that peacetime is bad for profits, while naval captains disenfranchised by the outcome of the wars disavow their former sovereigns. The conflict between great powers has thus inadvertently ushered in a Golden Age of piracy.",
+        "translation": "殖民列强之间的战争是血腥的，在它们之后留下了破坏和罪恶的遗产。海盗在加勒比地区猖獗起来。在发现和平时期不利于利润之际，前私掠船船长升起了黑色旗帜，而因战争结果而被剥夺权利的海军舰长们，也抛弃了他们的前君主。因此，大国之间的冲突无意中带来了一个海盗横行的黄金时代。",
+        "stage": 1
+    },
+    {
+        "key": "pirates.20.a:0",
+        "original": "A great annoyance. Or perhaps a great opportunity?",
+        "translation": "一个大麻烦，或者一个好机会?",
+        "stage": 1
+    },
+    {
+        "key": "golden_age_of_piracy_tooltip:0",
+        "original": "The §YGolden Age of Piracy§! triggered modifier will be available for the next 50 years.",
+        "translation": "§Y海盗的黄金时代§!触发修正将会在未来50年内可用。",
+        "stage": 1
+    },
+    {
+        "key": "golden_age_of_piracy:0",
+        "original": "Golden Age of Piracy",
+        "translation": "海盗黄金时代",
+        "stage": 1
+    },
+    {
+        "key": "desc_golden_age_of_piracy:0",
+        "original": "Piracy has become rampant in the Caribbean. Any merchant vessel traversing these waters puts it self at the mercy of pirates and privateers.",
+        "translation": "加勒比地区的海盗活动猖獗。任何穿越这片海域的商船都将是把自己置于海盗和私掠船的摆布之下。",
+        "stage": 1
+    },
+    {
+        "key": "become_pirates_decision_title:0",
+        "original": "Hoist the Black Flag",
+        "translation": "升起黑旗",
+        "stage": 1
+    },
+    {
+        "key": "become_pirates_decision_desc:0",
+        "original": "How can laws and civilization compete with freedom and the promise of treasure? It’s time to hoist the black flag and declare a Pirate Republic!",
+        "translation": "法律和文明怎能与自由和宝藏相比？是时候升起黑旗，宣布成立一个海盗共和国了！",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_TREASURE_FLEET_INCOME:0",
+        "original": "Treasure Fleet income",
+        "translation": "宝藏舰队收入",
+        "stage": 1
+    },
+    {
+        "key": "TREASURE_FLEET_INCOME_MODIFIED_BY:0",
+        "original": "Amount affected by: ",
+        "translation": "受下列影响的结果：",
+        "stage": 1
+    },
+    {
+        "key": "grand_armada:0",
+        "original": "Grand Armada",
+        "translation": "无敌舰队",
+        "stage": 1
+    },
+    {
+        "key": "grand_armada_desc:0",
+        "original": "A grand convoy shall accompany the treasure fleets that bring the wealth of the Americas into our home ports.",
+        "translation": "强大的护航舰队将陪同宝藏舰队把美洲的财富带回我们的国内港口。",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_marines:0",
+        "original": "Portuguese Marines",
+        "translation": "葡萄牙海军陆战队",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_marines_desc:0",
+        "original": "To establish a truly global empire we must be skilled at launching assaults on enemy forts from the sea.",
+        "translation": "为了建立一个真正的全球帝国，我们必须熟练掌握从海上对敌人的要塞发动突袭。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_ESTABLISH_ORDER:0",
+        "original": "Can establish a Holy Order in $LOCATION|Y$.",
+        "translation": "可以在$LOCATION|Y$设立修会。",
+        "stage": 1
+    },
+    {
+        "key": "CAN_NOT_ESTABLISH_ORDER:0",
+        "original": "Can not establish a Holy Order in $LOCATION|Y$.",
+        "translation": "不能在$LOCATION|Y$设立修会。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CENTER_OF_TRADE_UPGRADE_COST:0",
+        "original": "Center of Trade Upgrade Cost",
+        "translation": "贸易中心升级花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MISSIONARY_MAINTENANCE_COST:0",
+        "original": "Missionary Maintenance Cost",
+        "translation": "传教维护花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_NAVAL_TRADITION_FROM_TRADE:1",
+        "original": "Naval Tradition from Protecting Trade",
+        "translation": "保护贸易中获得的海军传统",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ADMIRAL_COST:0",
+        "original": "Admiral Cost",
+        "translation": "海军提督花费",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_EXPEL_MINORITIES_COST:0",
+        "original": "Expel Minorities Cost",
+        "translation": "驱逐少数族群花费",
+        "stage": 1
+    },
+    {
+        "key": "IDEA_MAY_FABRICATE_FOR_VASSALS:1",
+        "original": "May Fabricate Claims for Subjects",
+        "translation": "可以为属国伪造宣称",
+        "stage": 1
+    },
+    {
+        "key": "order_events.1.t:0",
+        "original": "Dominican Opposes Native Policy",
+        "translation": "道明会反对原住民政策",
+        "stage": 1
+    },
+    {
+        "key": "order_events.1.d:0",
+        "original": "A Dominican friar has recently returned to [Root.GetName] from [las_casas_province.GetName], having participated in the initial efforts to set up our colony there and stayed to oversee its growth with many others from the order. He has objected to the treatment of natives in the American colonies and been outspoken about our harsh colonial policies.\\n\\nHaving renounced his own past as a participant in our efforts, he has now come before [Root.Monarch.GetName] to convince [Root.Monarch.GetHerHim] to be more lenient in our treatment of the native population.",
+        "translation": "一位多米尼加修道士最近从[las_casas_province.GetName]返回[Root.GetName]，参与了我们在那里建立殖民地的初步努力，并留下来与该教团的许多其他成员一起监督它的成长。他反对在美洲殖民地对待土著居民的方式，并对我们残酷的殖民政策直言不讳。\\n\\n他放弃了自己作为我们努力的参与者的过去，他现在已经来到[Root.Monarch.GetName]说服[Root.Monarch.GetHerHim]要更加宽容地对待土著居民。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.1.a:0",
+        "original": "[Root.GetName] is a Christian nation. We must show mercy.",
+        "translation": "[Root.GetName]是一个基督教国家。我们必须表现出宽容。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.1.b:0",
+        "original": "If we make amends, perhaps we could convince them to trade with us.",
+        "translation": "如果我们作出补偿，也许我们可以说服他们与我们进行贸易。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.1.c:0",
+        "original": "The naive writings of a monk are no basis for national policy.",
+        "translation": "修道士的天真文章不是国家政策的基础。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.2.t:0",
+        "original": "Malleus Maleficarum",
+        "translation": "女巫之锤",
+        "stage": 1
+    },
+    {
+        "key": "order_events.2.d:1",
+        "original": "A book on witchcraft, believed to originally have been authored somewhere in central Europe, has surfaced in a local Dominican convent in [maleficarum_province.GetName]. Malleus Maleficarum, Hammer of Witches, not only warns of the dangers posed by witches to society, but prescribes methods for how to deal with them. It categorizes the practice of such sorcery as heretical, and insists that the courts adopt the prosecute and punish it accordingly.\\n\\nAlthough the Dominicans in [maleficarum_province.GetName] are far from united on the validity of the book, some believe it originates within the order. Its fate continues to be the subject of debate.",
+        "translation": "一本据说最初是在欧洲中部的某个地方创作的关于巫术的书，出现在[maleficarum_province.GetName]当地的多明我修道院。《女巫之锤》，它不仅警告了女巫对社会构成的危险，还规定了处理女巫的方法。它将巫术的实践归类为异端，并坚持要求法院接受相关起诉并予以女巫惩罚。\\n\\n[maleficarum_province.GetName]的多明我修道士还远未统一对这本书的有效性的看法，有些人认为它起源于多明我会。这本书的命运仍然众说纷纭。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.2.a:0",
+        "original": "Spread this wisdom throughout the land!",
+        "translation": "在世上传播这种智慧！",
+        "stage": 1
+    },
+    {
+        "key": "order_events.2.b:0",
+        "original": "Keep the book in the convent for study.",
+        "translation": "把书仅放在修道院来学习。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.2.c:0",
+        "original": "Destroy this book.",
+        "translation": "焚毁这本书。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.3.t:0",
+        "original": "Dominican University",
+        "translation": "道明会大学",
+        "stage": 1
+    },
+    {
+        "key": "order_events.3.d:0",
+        "original": "The Order of Preachers often establish themselves close to universities, having a history of supporting such institutions. In [dominican_university_province.GetName], they have found themselves without a such a center and are attempting to found one themselves. They have provided considerable funding, but are now seeking the support of the [Root.GetAdjective] crown in their endeavor.",
+        "translation": "传教士们常常在靠近大学的附近建立自己的教会，有支持这类机构的历史。在[dominican_university_province.GetName]，他们发现自己没有这样一个中心，并试图自己建立一个中心。他们提供了大量资金，但现在正在寻求[Root.GetAdjective]的支持为他们的努力表彰。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.3.a:0",
+        "original": "[Root.GetName] needs more places of learning.",
+        "translation": "[Root.GetName]需要更多的学习场所。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.3.b:0",
+        "original": "They should focus on religious institutions first.",
+        "translation": "他们应该首先关注宗教机构。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.3.c:0",
+        "original": "Have them report their research to [Root.GetCapital.GetName] instead.",
+        "translation": "让他们向[Root.GetCapital.GetName]报告他们的研究。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.4.t:0",
+        "original": "Prosecution of the Fraticelli",
+        "translation": "控告小兄弟会",
+        "stage": 1
+    },
+    {
+        "key": "order_events.4.d:0",
+        "original": "The followers of Saint Francis all embrace a life of poverty and humility, but some go further in their rejection of wealth. A group of [Root.GetAdjective] Franciscans have taken a harder line, questioning the piousness of both higher church officials as well as other orders who own property. They point to the life of Christ and the apostles as free of the opulence of the present church.\\n\\nDominican Inquisitor [Root.Adm_Advisor.GetName] points to these views being dangerously close to the Fraticelli, heretics prosecuted by the inquisition. [Root.Adm_Advisor.GetSheHeCap] suggests putting these so-called Franciscans on trial and letting [Root.Adm_Advisor.GetHerHis] order take over their duties in the region from now on.",
+        "translation": "圣弗朗西斯的信徒们都过着贫穷和谦卑的生活，但有些人则更倾向于拒绝财富。一群[Root.GetAdjective]方济各会采取了更强硬的立场，质疑高级教会官员和其他拥有财产的神职人员的虔诚。他们指出基督和使徒的生活是脱离了现在教会的富裕。\\n\\n多米尼加调查官[Root.Adm_Advisor.GetName]指出这些观点与小兄弟会的危险观点非常接近，这些是被宗教裁判所起诉的异教徒。[Root.Adm_Advisor.GetSheHeCap]建议审判这些所谓的方济各会的修士，并让[Root.Adm_Advisor.GetHerHis]下令从现在起接管他们在这一地区的职责。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.4.a:0",
+        "original": "Oust the heretics and invite another order.",
+        "translation": "驱逐异教徒并另请教团。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.4.b:0",
+        "original": "[Root.Adm_Advisor.GetName] is overstepping [Root.Adm_Advisor.GetHerHis] purview.",
+        "translation": "[Root.Adm_Advisor.GetName]逾越了[Root.Adm_Advisor.GetHerHis]的权限。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.5.t:0",
+        "original": "Mediation Between the Branches",
+        "translation": "分支之间的调解",
+        "stage": 1
+    },
+    {
+        "key": "order_events.5.d:0",
+        "original": "Several attempts have been made in the past to unify the branches of the Franciscan order. They have so far been unsuccessful, owing largely to the differences in principles between the branches being too great. [PAP.Monarch.GetTitle] [PAP.Monarch.GetName] has no such ambitions, but must still decide whether to try to consolidate the branches of this often divisive order, or sanction their differences. With its considerable influence over the Papacy, [Root.GetName] is in a unique position to affect these developments.",
+        "translation": "过去曾多次尝试统一方济会令的分支。到目前为止，它们都没有成功，主要是由于分支机构之间的原则差异太大。 [PAP.Monarch.GetTitle] [PAP.Monarch.GetName]没有这样的野心，但仍然必须决定是试图巩固这个经常分裂的秩序的分支，或者制裁他们的分歧。凭借其对教皇权的巨大影响力，[Root.GetName]在影响这些发展方面具有独特的地位。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.5.a:0",
+        "original": "Try to bring the branches closer together.",
+        "translation": "尽量让分支更紧密。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.5.b:0",
+        "original": "Grant more power to the older order of Observants.",
+        "translation": "给旧有的清规派授予更多的权力。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.5.c:0",
+        "original": "Allow the branches to maintain different practices.",
+        "translation": "允许分支机构保持不同的做法。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.6.t:0",
+        "original": "Offshoot Order",
+        "translation": "分支订单",
+        "stage": 1
+    },
+    {
+        "key": "order_events.6.d:0",
+        "original": "Rather than a single order, the Franciscans are in practice a group of orders all following the Rule of Saint Francis. The formation of such orders is not entirely a phenomenon of the past. Sometimes congregations will deviate from established practices, especially in the wake of disagreements within the Church.\\n\\nA group of Franciscans in [franciscan_origin_province.GetName] have requested to leave their congregation, seeking to move to [franciscan_target_province.GetName] to live a life they claim is more in line with Saint Francis teachings. Should we permit such fragmentations?",
+        "translation": "方济各会不是单一的修道会，实际上是一群遵循圣弗朗西斯规则的教团。这种教团的构成并不是完全遵循过去的事件。有时教会的会众也会偏离既定的惯例，尤其是在教会内部出现分歧之后。\\n\\n[franciscan_origin_province.GetName]中的一群方济各会教徒要求离开他们的会众，寻求搬到[franciscan_target_province.GetName]过他们声称的更符合圣弗朗西斯教义的生活。我们是否应该允许这样的分裂？",
+        "stage": 1
+    },
+    {
+        "key": "order_events.6.a:0",
+        "original": "As long as they call themselves Franciscans, it is acceptable.",
+        "translation": "只要他们还承认是方济各会的修士，便可以接受。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.6.b:0",
+        "original": "Only under the eye of the established order.",
+        "translation": "只允许现有监督下的教团。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.6.c:0",
+        "original": "Crush this heresy at once!",
+        "translation": "立即粉碎这些异端！",
+        "stage": 1
+    },
+    {
+        "key": "order_events.7.t:0",
+        "original": "Jesuits Call for Reform",
+        "translation": "耶稣会呼吁改革",
+        "stage": 1
+    },
+    {
+        "key": "order_events.7.d:0",
+        "original": "Nobody doubts the sincerity of the Jesuit order's effort to protect the Catholic faith from the Protestant heresies. Their calls for reform within the church have been acknowledged in [Root.GetName] as part of the Counter-Reformation. Even so, these attempts to rid our institutions of perceived corruption and greed sometimes put them at odds with other representatives of the church.\\n\\nAs Protestantism has spread in their midst, Jesuits are confident that they can restore order and authority if only some concessions are made regarding the misgivings these converts had with local bishops in the first place. Can they be trusted to handle this tactfully?",
+        "translation": "没有人怀疑耶稣会保护天主教信仰不受新教异端影响的诚意。他们对教会内部改革的呼吁已在[Root.GetName]得到承认。作为反宗教改革的一部分。即便如此，这些试图消除我们的机构中明显的腐败和贪婪的努力，有时会使它们与教会的其他代表意见相左。\\n\\n随着新教在他们中间的传播，耶稣会的教士们相信，只要在这些皈依者对当地主教的疑虑上作出一些让步，他们就能恢复秩序和权威。是否信任他们能够巧妙地处理这一问题?",
+        "stage": 1
+    },
+    {
+        "key": "order_events.7.a:0",
+        "original": "If this helps them convert the heretics, we will allow it.",
+        "translation": "如果这能帮助他们转化异端，我们将会允许这么做。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.7.b:0",
+        "original": "It is not their place to say where the church needs reform.",
+        "translation": "这里不是他们可以说教会需要改革的地方。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.8.t:0",
+        "original": "Jesuit Mission in Colonies",
+        "translation": "殖民地的耶稣会传教团",
+        "stage": 1
+    },
+    {
+        "key": "order_events.8.d:0",
+        "original": "The Society of Jesus has always been active in missionary work and already have a presence in the [Root.GetAdjective] colony in [jesuit_mission_origin.GetName]. Now confident that they have all the resources they need in the current colony, they look to establish a new mission nearby. With our blessing and promise to aid their future efforts, they believe they already have enough people to lay a significant foundation in this untamed land, both for [Root.GetName] and for the Catholic faith.",
+        "translation": "耶稣会一直积极参与传教工作，并已在[jesuit_mission_origin.GetName]的[Root.GetAdjective]殖民地中占有一席之地。现在他们确信他们拥有当前殖民地所需的所有资源，他们希望在附近建立一个新的传教团。我们的祝福和承诺将有助于他们未来的努力，他们相信他们已经有足够的人在这片野蛮的土地上奠定了重要的基础，无论是[Root.GetName]还是天主教信仰。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.8.a:0",
+        "original": "A commendable initiative.",
+        "translation": "一个值得赞扬的倡议。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.8.b:0",
+        "original": "They should remain in [jesuit_mission_origin.GetName].",
+        "translation": "他们应该留在[jesuit_mission_origin.GetName]。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.8.c:0",
+        "original": "They should focus their efforts on our existing colonies.",
+        "translation": "他们应该把重点放在我们现有的殖民地上。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.9.t:0",
+        "original": "Theological Debate",
+        "translation": "神学辩论",
+        "stage": 1
+    },
+    {
+        "key": "order_events.9.d:0",
+        "original": "The Jesuit order wields considerable influence, which can make even academic disagreements with the Papacy quite controversial. A recent debate over theological matters has caused conflict between [Root.GetAdjective] Jesuits and some of the cardinals. [PAP.Monarch.GetTitle] [PAP.Monarch.GetName] is now concerned that this will weaken the current doctrine in [Root.GetName], even as the debate is only meant to be an internal matter. We may be forced to take a side on this, if not publicly, then at least to the parties involved.",
+        "translation": "耶稣会拥有相当大的影响力，甚至能在神学问题上与教宗争执不下。最近一次关于神学的辩论引起了[Root.GetAdjective]耶稣会成员与红衣主教之间的冲突。尽管这次辩论只是教会的内部问题，[PAP.Monarch.GetTitle][PAP.Monarch.GetName]仍担心这会削弱[Root.GetName]现有的教义。也许我们会被迫支持一方，即便不是公开选边站，也要让两派知道我们的态度。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.9.a:0",
+        "original": "Try to gain the favor of the Holy See by supporting the established doctrine.",
+        "translation": "通过支持现有的教义来获得圣座的青睐。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.9.b:0",
+        "original": "Try to appease the [Root.GetAdjective] Jesuits by echoing their arguments.",
+        "translation": "尝试通过回应他们的论点来安抚[Root.GetAdjective]的耶稣会教士。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.9.c:0",
+        "original": "Refuse to take a side and leave it to the theologians.",
+        "translation": "拒绝偏袒，把它留给神学家处理。",
+        "stage": 1
+    },
+    {
+        "key": "order_events.9.e:0",
+        "original": "Call on [Root.Adm_Advisor.GetName] to resolve the issue elegantly.",
+        "translation": "拜访[Root.Adm_Advisor.GetName]来优雅地解决这个问题。",
+        "stage": 1
+    },
+    {
+        "key": "ADD_FLAGSHIP_EFFECT:0",
+        "original": "Get a new $TYPE|Y$ flagship named $NAME|Y$ in $PROV|Y$.",
+        "translation": "在$PROV|Y$得到一艘名为$NAME|Y$的新$TYPE|Y$旗舰。",
+        "stage": 1
+    },
+    {
+        "key": "ADD_NAMED_SHIP_EFFECT:0",
+        "original": "Get a new $TYPE|Y$ named $NAME|Y$ in $PROV|Y$.",
+        "translation": "在$PROV|Y$得到一艘名为$NAME|Y$的新$TYPE|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_GLOBAL_NAVAL_BARRAGE_COST:0",
+        "original": "Naval Barrage cost",
+        "translation": "海上炮击花费",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.1.t:0",
+        "original": "Terranova",
+        "translation": "特拉诺华",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.1.d:0",
+        "original": "A ship filled with Basque whalers and their families has weighed anchor by the distant shore of a land we call Terranova; the New World. Sponsored by the [Root.Monarch.GetTitle]’s own funds, they have been tasked with establishing a colony on this frigid northern island.\\n\\nBack in Navarra, the Kingdom continues to face the perils of being a minor nation at the mercy of the great powers that surround her. There are those who wonder if we might escape our troubles by abandoning our ancestral lands and establishing a new home for our people in Terranova.",
+        "translation": "一艘满载巴斯克捕鲸者及其家属的船只在我们称之为特兰诺瓦的遥远海岸抛锚停泊；这个新世界，由[Root.Monarch.GetTitle]自己出资赞助发起的，他们的任务是在这个寒冷的北方岛屿建立一个殖民地。\\n\\n回到纳瓦拉，王国继续面临着作为一个小国的危险，任凭她周围的大国摆布。有些人想知道我们是否可以通过放弃祖传的土地在特兰诺瓦为我们的人民建立一个新的家园来逃避我们的麻烦。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.1.a:0",
+        "original": "Let us leave the Old World behind!",
+        "translation": "让我们把那个旧世界抛之脑后吧！",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.1.b:0",
+        "original": "We will not abandon our home.",
+        "translation": "我们不会抛弃我们的家园。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.2.t:0",
+        "original": "The Aragonese Succession",
+        "translation": "阿拉贡继承",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.2.d:0",
+        "original": "Though King Alfons V has no legitimate children, the line of succession in Aragon seems secure as the King’s brother, Prince Joan, has been confirmed as next in line for the throne. Prince Joan was long married to Queen Blanche of Navarra, who sadly died in the spring of the Year of Our Lord 1441. Rather than the Navarrese kingdom passing to their son Karlos, Joan was able to secure the throne for himself and now rules as King of Navarra in his own right. The consequence of this is that the Crowns of Aragon and Navarra will be united if King Alfons dies while Joan still lives, so long as Navarra remains an independent nation.",
+        "translation": "虽然国王阿尔方斯五世没有合法的孩子，但阿拉贡的王位继承似乎是稳固的，因为国王的兄弟胡安王子已被确认为王位的下一位继承人。胡安王子与纳瓦拉的布兰奇王后结婚已久，布兰奇王后不幸于公元1441年春天去世。胡安没有把纳瓦拉人的王国传给他们的儿子卡洛斯，而是为自己保住了王位，并凭借自己的权利成为纳瓦拉的国王。这样做的结果是，如果阿尔方斯国王死了，而胡安还活着，只要纳瓦尔存在，阿拉贡和纳瓦拉的王冠就会统一在一起。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.2.a:0",
+        "original": "Let us hope for a smooth succession.",
+        "translation": "让我们为顺利继承祈祷。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.4.t:0",
+        "original": "The Death of King Alfonso",
+        "translation": "国王阿方索之死",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.4.d:0",
+        "original": "The sad passing of King Alfons the Magnanimous ends a reign of prestige and prosperity for the Crown of Aragon. With his death, King Joan of Navarra looks set to take the throne. Thus begins a personal union between the Crown of Aragon and the Kingdom of Navarra.\\n\\nThe Lords of Catalonia however are not pleased by the succession of King Joan however; they have demanded great concessions in exchange for their acceptance of his rule.",
+        "translation": "高尚的阿尔方斯国王不幸去世，结束了在阿拉贡王冠上的威望和繁荣的统治。纳瓦拉国王胡安似乎将要继承王位。这样，阿拉贡王和纳瓦拉王国之间的个人联盟就开始了。\\n\\n然而，加泰罗尼亚的贵族们对胡安国王的继承并不满意；他们要求他作出巨大让步，以换取他们接受他的统治。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.4.d2:0",
+        "original": "The sad passing of King Alfons the Magnanimous ends a reign of prestige and prosperity for the Crown of Aragon. With his death, King Joan of Navarra looks set to take the throne. It was assumed and agreed that following his coronation Joan would move his court to [Root.Capital.GetCapitalName] and rule primarily as King of Aragon. But King Joan may have different plans...",
+        "translation": "高尚的阿尔方斯国王不幸去世，结束了在阿拉贡王冠上的威望和繁荣的统治。纳瓦拉国王胡安似乎将要继承王位。人们认为，在他加冕后，胡安会把他的王宫迁往[Root.Capital.GetCapitalName]并以阿拉贡国王的身份进行统治。但是胡安国王可能另有计划……",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.4.a:0",
+        "original": "We must accept the Catalan demands.",
+        "translation": "我们必须接受加泰罗尼亚人的要求。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.4.b:0",
+        "original": "We will see what King Joan decides to do.",
+        "translation": "我们会看看胡安国王的决定。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.4.c:0",
+        "original": "We will make no concessions!",
+        "translation": "我们决不让步！",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.5.a:0",
+        "original": "Navarra should lead this union!",
+        "translation": "纳瓦拉应该领导这个联盟！",
+        "stage": 1
+    },
+    {
+        "key": "flavor_nav.5.b:0",
+        "original": "We will accept our place under Aragon.",
+        "translation": "我们将接受在阿拉贡的统治地位。",
+        "stage": 1
+    },
+    {
+        "key": "MISSIONARY_MAINT_ENVOY_ENTRY:0",
+        "original": "$NAME|Y$ in $LOCATION|Y$ costs $COST|R$¤/month.\\n",
+        "translation": "$NAME|Y$在$LOCATION|Y$花费$COST|R$¤/月。\\n",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMMISSION_MAINTENANCE_COST:1",
+        "original": "It will cost $COST|R$¤/month to convert this province due to its development and automony.",
+        "translation": "基于该省份的发展度与自治度，在该省份传教每个月将花费$COST|R$¤。",
+        "stage": 1
+    },
+    {
+        "key": "PROVINCEMISSION_MAINTENANCE_COST:0",
+        "original": "We've paid this missionary $COST|R$¤ this month.",
+        "translation": "我们这个月已经支付给了这个传教士$COST|R$¤的费用。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_LOCAL_MISSIONARY_MAINTENANCE_COST:0",
+        "original": "Local Missionary Maintenance",
+        "translation": "地方传教维护费",
+        "stage": 1
+    },
+    {
+        "key": "DEATH_NAMED_ADMIRAL_BECOMES_RULER:0",
+        "original": "The Admiral $NAME|Y$ will rule the nation.",
+        "translation": "提督$NAME|Y$将会统治这个国家。",
+        "stage": 1
+    },
+    {
+        "key": "DEATH_ADMIRAL_BECOMES_RULER:0",
+        "original": "An Admiral will rule the nation.",
+        "translation": "一位提督将会统治这个国家。",
+        "stage": 1
+    },
+    {
+        "key": "DISALLOWED_TRADE_GOODS:0",
+        "original": "Disallowed Trade Goods: ",
+        "translation": "禁止贸易的货物：",
+        "stage": 1
+    },
+    {
+        "key": "DEATH_NAMED_GENERAL_BECOMES_RULER:0",
+        "original": "The General $NAME|Y$ will rule the nation.",
+        "translation": "将军$NAME|Y$将会统治这个国家。",
+        "stage": 1
+    },
+    {
+        "key": "DEATH_GENERAL_BECOMES_RULER:0",
+        "original": "An General will rule the nation.",
+        "translation": "一位将军将会统治这个国家。",
+        "stage": 1
+    },
+    {
+        "key": "mechanic_generals_become_rulers_yes:0",
+        "original": "A General becomes ruler when the current ruler dies.",
+        "translation": "当前统治者死亡时，一位将军成为统治者。",
+        "stage": 1
+    },
+    {
+        "key": "mechanic_generals_become_rulers_no:0",
+        "original": "",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "manufacturing_center:0",
+        "original": "Manufacturing Center of an Empire",
+        "translation": "帝国的制造业中心",
+        "stage": 1
+    },
+    {
+        "key": "manufacturing_center_desc:0",
+        "original": "Our citizens are the power base of our overlord's trade empire. Foreign goods are delivered to us which we then mold into finished products.",
+        "translation": "市民是我们贸易帝国霸主地位的力量基础。外国货物过输送来，我们将其加工为成品。",
+        "stage": 1
+    },
+    {
+        "key": "council_of_the_indies_reform:0",
+        "original": "Council of the Indies",
+        "translation": "印度议会",
+        "stage": 1
+    },
+    {
+        "key": "council_of_the_indies_reform_desc:0",
+        "original": "Our vast colonial territories must have a central administration that reports directly to the Crown. Though individual Viceroys will govern their respective territories, the Council will be the supreme colonial authority, and its courts will extend our law to the farthest reaches of the New World.",
+        "translation": "我们庞大的殖民地地区必须有一个直接向官方负责的中央行政当局。虽然总督个人将管理各自的领土，但议会将是最高殖民当局，其法院将把我们的法律延伸到新大陆的最远地区。",
+        "stage": 1
+    },
+    {
+        "key": "council_of_captains_reform:0",
+        "original": "Council of Captains",
+        "translation": "船长会议",
+        "stage": 1
+    },
+    {
+        "key": "council_of_captains_reform_desc:0",
+        "original": "The Pirate Republic should be governed by the will of its greatest captains. It is their alliance that holds our nation together, and so their decisions must take precedence over any other authority.",
+        "translation": "海盗共和国应该由其最伟大的船长的意志来统治。正是他们的联合使我们的国家团结在一起，因此他们的决定必须优先于任何其他权威。",
+        "stage": 1
+    },
+    {
+        "key": "articles_of_agreement_reform:0",
+        "original": "Articles of Agreement",
+        "translation": "船员协议",
+        "stage": 1
+    },
+    {
+        "key": "articles_of_agreement_reform_desc:0",
+        "original": "The Articles of Agreement are the cornerstone of the social order on board a pirate ship. They guarantee that every crewman has an equal vote in all matters and an equal share of all plunder. Articles such as these should be established for the Republic itself, so that the liberty and equality of all pirates is secured.",
+        "translation": "协议条款是海盗船上社会秩序的基石。他们保证每个船员在所有事情上都有平等的投票权，在所有掠夺物中都有平等的份额。这样的条款应该为共和国本身确立，以便保障所有海盗的自由和平等。",
+        "stage": 1
+    },
+    {
+        "key": "smugglers_haven_reform:0",
+        "original": "Smugglers Haven",
+        "translation": "私掠者避风港",
+        "stage": 1
+    },
+    {
+        "key": "smugglers_haven_reform_desc:0",
+        "original": "A pirate enterprise cannot function without a way to sell their stolen goods. We must ensure that conditions in the Republic are favorable for smuggling operations.",
+        "translation": "如果无法出售他们的赃物，海盗集团就无法运转。我们必须确保共和国的政策有利于走私。",
+        "stage": 1
+    },
+    {
+        "key": "pirate_king_reform:0",
+        "original": "Pirate King",
+        "translation": "海盗之王",
+        "stage": 1
+    },
+    {
+        "key": "pirate_king_reform_desc:0",
+        "original": "Every great empire stands in opposition to us. To stand any chance of survival we must rally behind our own Pirate King, and the King's word will be law.",
+        "translation": "每一个伟大的帝国都站在我们的对立面。为了生存，我们必须团结在我们自己的海盗王的旗帜下，而国王的话就是法律。",
+        "stage": 1
+    },
+    {
+        "key": "war_against_the_world_doctrine_reform:0",
+        "original": "War Against the World Doctrine",
+        "translation": "对抗全世界的战争理论",
+        "stage": 1
+    },
+    {
+        "key": "war_against_the_world_doctrine_reform_desc:0",
+        "original": "The tyrants of the world must be unseated! We can no longer tolerate kings and despots making slaves of our fellow man. And so we shall adopt a new doctrine: war against the world!",
+        "translation": "世界上的暴君必须被推翻！我们无法再容忍那些奴役我们同胞的国王和独裁者。因此我们将采纳一项新的学说：对抗全世界的战争！",
+        "stage": 1
+    },
+    {
+        "key": "black_market_consortium_reform:0",
+        "original": "Black Market Consortium",
+        "translation": "黑市财团",
+        "stage": 1
+    },
+    {
+        "key": "black_market_consortium_reform_desc:1",
+        "original": "The pirates that run amok in the Republic cannot be trusted to bathe themselves, let alone to govern a nation whose future hands on the edge of a cutlass. A Consortium formed of the most influential black market merchants shall be established as its true governors. Profit must come before liberty.",
+        "translation": "这些在共和国烧杀抢掠的海盗连洗澡都不会，更别说治理一个战火纷飞国家了。应让有影响力的黑市商人联盟治理国家。利益高于自由！",
+        "stage": 1
+    },
+    {
+        "key": "pirates_become_republic_reform:0",
+        "original": "Lower the Black Flag",
+        "translation": "降下黑旗",
+        "stage": 1
+    },
+    {
+        "key": "pirates_become_republic_reform_desc:0",
+        "original": "The time has come to end our lives of piracy and settle down to establish a more stable Republic.",
+        "translation": "是时候结束我们的海盗生涯了，让我们定居下来建立一个更稳定的共和国。",
+        "stage": 1
+    },
+    {
+        "key": "PIRATE_WAR_NAME:0",
+        "original": "$ORDER$$FIRST$ Piratical War against $SECOND$",
+        "translation": "$ORDER$$FIRST$对$SECOND$海盗战争",
+        "stage": 1
+    },
+    {
+        "key": "cb_war_against_the_world:0",
+        "original": "War Against the World",
+        "translation": "反世界战争",
+        "stage": 1
+    },
+    {
+        "key": "cb_war_against_the_world_desc:0",
+        "original": "All the world brands us monsters; we will fight them all to protect our liberty!",
+        "translation": "全世界都将我们当做洪水猛兽；我们将为守护我们的自由而战！",
+        "stage": 1
+    },
+    {
+        "key": "pirate_king_decision_title:0",
+        "original": "Enthrone a Pirate King",
+        "translation": "拥立一位海盗王",
+        "stage": 1
+    },
+    {
+        "key": "pirate_king_decision_desc:0",
+        "original": "Every great empire stands in opposition to us. To stand any chance of survival we must rally behind our own Pirate King, and the King's word will be law.",
+        "translation": "每一个伟大的帝国都站在我们的对立面。为了生存，我们必须团结在我们自己的海盗王的旗帜下，而国王的话就是法律。",
+        "stage": 1
+    },
+    {
+        "key": "black_market_consortium_decision_title:0",
+        "original": "Establish a Black Market Consortium",
+        "translation": "建立黑市财团",
+        "stage": 1
+    },
+    {
+        "key": "black_market_consortium_decision_desc:0",
+        "original": "The pirates that run amok in the Republic cannot be trusted to bathe themselves, let alone to govern a nation whose future hands on the edge of a cutlass. A Consortium formed of the most influential black market merchants shall be established as its true governors. Profit must come before liberty.",
+        "translation": "这些在共和国烧杀抢掠的海盗连洗澡都不会，更别说治理一个战火纷飞国家了。应让有影响力的黑市商人联盟治理国家。利益高于自由！",
+        "stage": 1
+    },
+    {
+        "key": "war_against_the_world_decision_title:0",
+        "original": "Enact War Against the World Doctrine",
+        "translation": "实施反世界学说",
+        "stage": 1
+    },
+    {
+        "key": "war_against_the_world_decision_desc:0",
+        "original": "The tyrants of the world must be unseated! We can no longer tolerate kings and despots making slaves of our fellow man. And so we shall adopt a new doctrine: war against the world!",
+        "translation": "世界上的暴君必须被推翻！我们无法再容忍那些奴役我们同胞的国王和独裁者。因此我们将采纳一项新的学说：对抗全世界的战争！",
+        "stage": 1
+    },
+    {
+        "key": "pirate_kingdom:0",
+        "original": "Pirate Kingdom",
+        "translation": "海盗王国",
+        "stage": 1
+    },
+    {
+        "key": "pirate_kingdom_desc:0",
+        "original": "Every great empire stands in opposition to us. To survive we have rallied behind our own Pirate King, and the King's word is law. Only the strongest among us must be allowed to rule.",
+        "translation": "每一个伟大的帝国都站在我们的对立面。为了生存，我们将团结在我们自己的海盗王的旗帜下，而国王的话就是法律。 只有我们当中的最强的人才会被允许成为统治者。",
+        "stage": 1
+    },
+    {
+        "key": "war_against_the_world_government:0",
+        "original": "Liberi Government",
+        "translation": "自由民政府",
+        "stage": 1
+    },
+    {
+        "key": "war_against_the_world_government_desc:0",
+        "original": "The tyrants of the world must be unseated! We can no longer tolerate kings and despots making slaves of our fellow man. And so we shall adopt a new doctrine: war against the world!",
+        "translation": "世界上的暴君必须被推翻！我们无法再容忍那些奴役我们同胞的国王和独裁者。因此我们将采纳一项新的学说：对抗全世界的战争！",
+        "stage": 1
+    },
+    {
+        "key": "black_market_consortium_government:0",
+        "original": "Black Market Consortium",
+        "translation": "黑市财团",
+        "stage": 1
+    },
+    {
+        "key": "black_market_consortium_government_desc:0",
+        "original": "The pirates that run amok in the Republic cannot be trusted to bathe themselves, let alone to govern a nation whose future hands on the edge of a cutlass. A Consortium formed of the most influential black market merchants shall be established as its true governors. Profit must come before liberty.",
+        "translation": "这些在共和国烧杀抢掠的海盗连洗澡都不会，更别说治理一个战火纷飞国家了。应让有影响力的黑市商人联盟治理国家。利益高于自由！",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INFANTRY_FIRE:0",
+        "original": "Infantry Fire",
+        "translation": "步兵火力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAVALRY_FIRE:0",
+        "original": "Cavalry Fire",
+        "translation": "骑兵火力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARTILLERY_FIRE:0",
+        "original": "Artillery Fire",
+        "translation": "炮兵火力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_INFANTRY_SHOCK:0",
+        "original": "Infantry Shock",
+        "translation": "步兵冲击力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_CAVALRY_SHOCK:0",
+        "original": "Cavalry Shock",
+        "translation": "骑兵冲击力",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ARTILLERY_SHOCK:0",
+        "original": "Artillery Shock",
+        "translation": "炮兵冲击力",
+        "stage": 1
+    },
+    {
+        "key": "shadhili_order:0",
+        "original": "Shadhili",
+        "translation": "沙兹里教团",
+        "stage": 1
+    },
+    {
+        "key": "shadhili_order_desc:0",
+        "original": "A Sufi order founded in Morocco, focusing on intellectual pursuits, such as literature and poetry.",
+        "translation": "一个在摩洛哥成立的苏菲派教团，专注于对知识的探寻，例如文学与诗歌。",
+        "stage": 1
+    },
+    {
+        "key": "qadiri_order:0",
+        "original": "Qadiri",
+        "translation": "卡迪里教团",
+        "stage": 1
+    },
+    {
+        "key": "qadiri_order_desc:0",
+        "original": "Originally founded in Iran, the Quadiri Order is one of the branches of Sufism, encompassing a variety of different interpretations around the world.",
+        "translation": "卡迪里教团为苏菲派的一支，起源于伊朗，他们的学说包含若干对世界的不同解释。",
+        "stage": 1
+    },
+    {
+        "key": "aissawa_order:0",
+        "original": "Aissawa",
+        "translation": "艾沙瓦教团",
+        "stage": 1
+    },
+    {
+        "key": "aissawa_order_desc:0",
+        "original": "A younger branch of Sufism whose heritage of psalms and prayers developed into rituals featuring music and dance.",
+        "translation": "苏菲派的一个年轻分支，他们继承了赞美诗和祷文，发展成为以音乐和舞蹈为特色的仪式。",
+        "stage": 1
+    },
+    {
+        "key": "order_piety_tooltip:0",
+        "original": "Move §Y2§! towards Mysticism for §Yevery province in the state.§!",
+        "translation": "§Y直属州的每个省份§!增加§Y2§!神秘主义。",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRM_ABANDON_HOLY_ORDER:0",
+        "original": "The $NAME|Y$ Holy Order will abandon this state:\\n$EFFECT$",
+        "translation": "$NAME|Y$修会将放弃这个直属州：\\n$EFFECT$",
+        "stage": 1
+    },
+    {
+        "key": "HOLY_ORDER_ALREADY_ESTABLISHED:0",
+        "original": "§RA Holy Order is already established in this state.§!",
+        "translation": "§R该直属州已经设立了一个修会。§!",
+        "stage": 1
+    },
+    {
+        "key": "privateering:0",
+        "original": "Privateering",
+        "translation": "私掠",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.1.t:0",
+        "original": "Flagship Captured by [From.GetName]!",
+        "translation": "旗舰被[From.GetName]俘获！",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.1.d:0",
+        "original": "[Root.GetLostFlagshipName], the pride of [Root.GetName], was recently embroiled in a fierce battle against the [From.GetAdjective] armada. Despite putting up valient resistance, it fell into the hands of the enemy. Our fleet is left without a flagship and worse yet, having to endure [Root.GetLostFlagshipName] possibly being used against us.",
+        "translation": "[Root.GetName]的骄傲[Root.GetLostFlagshipName]最近被卷入了一场针对[From.GetAdjective]舰队的激战。尽管进行了英勇的抵抗，它还是落入了敌人的手中。我们的舰队没了旗舰[Root.GetLostFlagshipName]，而更糟的是，它可能会被用来对付我们。",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.1.a:0",
+        "original": "The humiliation!",
+        "translation": "耻辱！",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.2.t:0",
+        "original": "[captured_flagship_country.GetAdjective] Flagship Captured!",
+        "translation": "[captured_flagship_country.GetAdjective]的旗舰被俘获了！",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.2.d:0",
+        "original": "During a battle against the [captured_flagship_country.GetAdjective] fleet, we managed to capture [captured_flagship_country.GetLostFlagshipName], the flagship they have prided themselves on so much in the past. While it is certainly an impressive ship, we did not only defeat it, but managed to bring it back more or less in one piece. Hopefully this will teach them the folly of testing our might on the oceans of the world.",
+        "translation": "在对抗[captured_flagship_country.GetAdjective]舰队的战斗中，我们设法抓住了他们曾经引以为豪的旗舰[captured_flagship_country.GetLostFlagshipName]。虽然它确实是一艘令人印象深刻的船，但我们不仅击败了它，而且将其完整的带了回来。希望这将教会他们在大海上测试我们的力量是多么愚蠢的行为。",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.2.a:0",
+        "original": "The [Root.GetAdjective] flag shall fly proudly over it!",
+        "translation": "[Root.GetAdjective]的旗帜将在它的桅杆上飘扬！",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.3.t:0",
+        "original": "Flagship Sunk by [From.GetName]!",
+        "translation": "旗舰被[From.GetName]击沉！",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.3.d:0",
+        "original": "[Root.GetLostFlagshipName], the jewel of the [Root.GetAdjective] fleet, was tragically lost at sea today as it battled the [From.GetAdjective] menace. Despite a valiant last stand, our flagship is now at the bottom of the ocean.",
+        "translation": "[Root.GetLostFlagshipName]，[Root.GetAdjective]舰队的掌上明珠，在今天与[From.GetAdjective]的战斗中被不幸击沉。虽然我们的旗舰顽强抵抗，却仍然免不了现在葬身海底的命运。",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.3.a:0",
+        "original": "Stories shall be told of its days on the seas!",
+        "translation": "这个故事将在七海上继续流传！",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.4.t:0",
+        "original": "[sunk_flagship_country.GetAdjective] Flagship Sunk!",
+        "translation": "[sunk_flagship_country.GetAdjective]的旗舰被击沉了！",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.4.d:0",
+        "original": "Of all the ships in the [sunk_flagship_country.GetAdjective] navy, none was more highly regarded than [sunk_flagship_country.GetLostFlagshipName]. Knowing this, we have been prepared for this ship, and today our preparations paid off. [sunk_flagship_country.GetLostFlagshipName] was sunk in a battle today, dealing a significant blow to [sunk_flagship_country.GetAdjective] morale and reminding them that no ship, legend or not, is unsinkable.",
+        "translation": "在[sunk_flagship_country.GetAdjective]的海军中，没有其他战舰比[sunk_flagship_country.GetLostFlagshipName]评价更高了。铭记这一点，我们一直以来为与这艘战舰的相遇准备着，如今我们的努力没有白费。[sunk_flagship_country.GetLostFlagshipName]在今天的一场战斗中被击沉，对[sunk_flagship_country.GetAdjective]士气造成了沉重的打击，同时也向他们警告：无论是不是传奇战舰，没有任何船只是不可击沉的。",
+        "stage": 1
+    },
+    {
+        "key": "flagship_events.4.a:0",
+        "original": "Good riddance.",
+        "translation": "终于解脱了。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_pap.EVTNAME9:0",
+        "original": "Sublimis Deus",
+        "translation": "崇高的神",
+        "stage": 1
+    },
+    {
+        "key": "flavor_pap.EVTDESC9:0",
+        "original": "The Pope decrees that the native peoples of the Americas shall not be made into slaves. The belief that they are lesser brutes incapable of receiving God’s grace, he writes, is a vile lie spread by the the enemy of the human race himself. Instead, His Holiness insists that like all ensouled human beings these people yearn for God’s light, and that therefore all pious princes should make haste to spread the Catholic faith among them.",
+        "translation": "教皇宣布不应奴役美洲原住民。教皇写道，认为原住民如同禽兽而不能接受上帝恩典的想法，是一种由人类本我的敌人所传播的卑劣谎言。相反，教皇大人坚持认为，像所有人类一样，这些人渴望上帝之光，因此所有虔诚的诸侯都应尽快将天主信仰传播给他们。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_pap.9.a:0",
+        "original": "Enforce the Pope's will.",
+        "translation": "贯彻落实教宗的意志。",
+        "stage": 1
+    },
+    {
+        "key": "flavor_pap.9.b:0",
+        "original": "What the Pope does not know cannot hurt him.",
+        "translation": "只要教皇不知道，就碍不着他什么事。",
+        "stage": 1
+    },
+    {
+        "key": "IS_EXPELLING_FROM:0",
+        "original": "Minoritites are being expelled from $SOURCE|Y$.",
+        "translation": "少数民族被驱逐出$SOURCE|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_EXPELLING_FROM:0",
+        "original": "Minoritites are not being expelled from $SOURCE|Y$.",
+        "translation": "少数民族未被驱逐出$SOURCE|Y$。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.1.t:0",
+        "original": "A Haven for the [expelling_province.Religion.GetName]",
+        "translation": "[expelling_province.Religion.GetName]之避难所",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.1.d:0",
+        "original": "Our attempts to expel the [expelling_province.Religion.GetName] population of [expelling_province.GetName] to [expelling_colony.GetName] have not exactly been interpreted as well-meaning by the people who are leaving their homes behind, but some of those who have left see some merit in their new home. The colony, at least in these early stages, is somewhat more permissive regarding religious practices, with some preachers regarding it as a better place for practicing the [expelling_province.Religion.GetName] faith. These news have now reached [expelling_province.GetName], softening the resistance to the project somewhat.",
+        "translation": "我们将[expelling_province.GetName]的[expelling_province.Religion.GetName]人口驱逐到[expelling_colony.GetName]的尝试并没有完全被那些将要迁离家园的人理解为善意，但是一些已经迁离的人在他们的新家则看到了一些优点。至少在这个早期阶段，殖民地在宗教活动方面是比较宽容的，有些传教士将其视为是更好实践[expelling_province.Religion.GetName]信仰的地方。这些消息现已经在[expelling_province.GetName]流传开来，这在一定程度上缓和了对该计划的抵制。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.1.a:0",
+        "original": "Let them believe that if it warms them to the idea.",
+        "translation": "如果这能让他们接受这个想法的话，那让他们相信吧。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.2.t:0",
+        "original": "[expelling_province.Religion.GetName] Solidarity",
+        "translation": "[expelling_province.Religion.GetName]团结",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.2.d:0",
+        "original": "Our expulsion of the heathens in [expelling_province.GetName] was never meant to go beyond the borders of the province, but religious communities are not so clearly delineated in their geography. Families, friends and other people with ties to those leaving in the neighboring province of [heathen_neighbors_moving.GetName] are now moving as well, trying to keep the community intact even as they are forced out of [Root.GetName]. This migration was not part of the plan, but it may serve our interests.",
+        "translation": "我们驱逐[expelling_province.GetName]中的异教徒从来没有想过要越过该省的边界，但是宗教团体在他们的地理位置上并没有如此清晰的划分。那些与邻省[heathen_neighbors_moving.GetName]的离乡背井者的家属、朋友和其他有联系的人家现在也跟着迁离，他们试图保持社群的完整，即使要被迫离开[Root.GetName]。这样的迁移并不在原计划内，但它可能符合我们的利益。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.2.a:0",
+        "original": "Let them leave. This was our goal from the start.",
+        "translation": "让他们离开吧。我们的目标从一开始便是如此。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.2.b:0",
+        "original": "Stop this. We need them where they are.",
+        "translation": "停下，我们需要他们呆在那。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.3.t:0",
+        "original": "The Last [expelling_province.Culture.GetName] in [Root.GetName]",
+        "translation": "[Root.GetName]最后的[expelling_province.Culture.GetName]人",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.3.d:0",
+        "original": "The [expelling_province.Religion.GetName] [expelling_province.Culture.GetName] people of [expelling_province.GetName] have long felt singled out in [Root.GetAdjective] society, being both a cultural and a religious minority. Now, they are being cast out of the only place they have left - [expelling_province.GetName].\\n\\nSeeing no future in [expelling_province.GetName], their presence here is increasingly threatened. Many now fear the repercussions of staying too long in such a hostile environment. Rather than the controlled migration we had hoped for, they are leaving rapidly, no one wanting to be the last ones left here.",
+        "translation": "[expelling_province.GetName]信仰[expelling_province.Religion.GetName]的[expelling_province.Culture.GetName]人民长期感觉被[Root.GetAdjective]社会所孤立，不论在文化上还是宗教上，他们都被视为少数族群。现在，他们正被从[expelling_province.GetName]——他们最后的居住地——驱逐出去。\\n\\n由于在[expelling_province.GetName]看不到未来，他们在此地的存在受到了严重威胁。很多人担心在这样一个充满敌意的环境中生活太久会产生什么后果。他们正迅速离开，而不是我们所希望的受控制的移民，因为没有人想成为这里剩下的最后一人。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.3.a:0",
+        "original": "Not quite how we had planned this.",
+        "translation": "我们的计划并非完全如此。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.4.t:0",
+        "original": "[expelling_province.Culture.GetName] Refugees Flee [expelling_province.GetName]",
+        "translation": "[expelling_province.Culture.GetName]难民逃离[expelling_province.GetName]",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.4.d:0",
+        "original": "While most of the [expelling_province.Culture.GetName] population is complying with our efforts to move them to our colony in [expelling_colony.GetName], some have been searching for a way out of this situation. Fleeing to neighboring province is one way, since [expelling_province.GetName] is the primary target of our efforts.\\n\\nWhile this is clearly an attempt to interfere with our plan, trying to stop people from settling nearby will not mean that they comply with the original plan. More likely, they will scatter elsewhere, bringing the situation even further from our control.",
+        "translation": "虽然大多数[expelling_province.Culture.GetName]的民众都服从我们将他们迁移到殖民地[expelling_colony.GetName]的计划，但也有些人一直在寻找逃避这种处境的方法。逃往邻近省份就是一种方式，从此[expelling_province.GetName]成了我们计划的首要目标。\\n\\n虽然这显然是在企图干扰我们的计划，但试图阻止人们到附近定居未必就能使他们服从原来的计划。更有可能的是，他们会逃散到其他地方，使局势进一步脱离我们的控制。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.4.a:0",
+        "original": "At least this way, we know where they are going.",
+        "translation": "至少这样，我们知道他们要去哪里。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.4.b:0",
+        "original": "Such attempts at defiance will not be tolerated!",
+        "translation": "这种拒绝服从的企图不可饶恕！",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.5.t:0",
+        "original": "Administrative Officials Expelled",
+        "translation": "罢免行政官员",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.5.d:0",
+        "original": "The people being moved to our colony in [expelling_colony.GetName] from [expelling_province.GetName] are not only commonfolk. Many of them have served important roles in administering [expelling_province.GetName], sometimes as a bridge between [Root.GetAdjective] leaders and the locals. Now that they are being expelled, the province will be more difficult to manage, forcing us to make some concessions. Either we take a more off-hands approach to administering [expelling_province.GetName] until the positions can be filled, or we hurry along our plans to have less people to manage.",
+        "translation": "被迁徒到我们的殖民地[expelling_colony.GetName]的人，来自[expelling_province.GetName]。他们不只是普通人。他们中许多人在管理[expelling_province.GetName]方面起了重要作用。有时作为[Root.GetAdjective]领导者与当地人之间的桥梁。现在他们被驱逐了，这个省份将更加难以管理，迫使我们做出一些让步。要么我们采取一种更放任的方式来管理[expelling_province.GetName]。直到这些职位被填补，或者我们赶紧制定计划，以减少需要管理的人员。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.5.a:0",
+        "original": "The positions will have to be vacant for the time being.",
+        "translation": "这些职位不得不暂时空缺。",
+        "stage": 1
+    },
+    {
+        "key": "expel_minority_events.5.b:0",
+        "original": "We'll simply have to send people abroad at a faster rate.",
+        "translation": "我们只需要加快向海外派送人口。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_ESTABLISH_ORDER_COST:0",
+        "original": "Establish Holy Order cost",
+        "translation": "设立修会基金",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MOVEMENT_SPEED_ONTO_OFF_BOAT:0",
+        "original": "Movement Speed On and Off Ships",
+        "translation": "上船与登陆速度",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_corps_of_fusiliers:0",
+        "original": "Portuguese Fusiliers",
+        "translation": "葡萄牙火枪兵团",
+        "stage": 1
+    },
+    {
+        "key": "portuguese_corps_of_fusiliers_desc:0",
+        "original": "Our fusiliers must be ready to attack from a ship as if it was land, because Portugal's fleet is an extension of the country itself.",
+        "translation": "我们的火枪团必须准备好从一艘船上发起攻击，就好像它是陆地一样，因为葡萄牙的舰队是这个国家领地的延伸。",
+        "stage": 1
+    },
+    {
+        "key": "integrated_marines:0",
+        "original": "Integrated Marines",
+        "translation": "整合海军",
+        "stage": 2
+    },
+    {
+        "key": "integrated_marines_desc:0",
+        "original": "Every soldier who gets on a ship can't be a marine, but there can be enough on our flagship to make a difference.",
+        "translation": "不是每个登船的士兵都是海军，但他们足以在我们的旗舰上发挥作用。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_MONTHLY_CHANCE_ADMIRAL_GAINING_SKILL:0",
+        "original": "Monthly Chance of Admiral Skill Gain on Mission",
+        "translation": "海军提督每月从任务中获得技能的几率",
+        "stage": 1
+    },
+    {
+        "key": "scandinavian_flag_officers:0",
+        "original": "Scandinavian Flag Officers",
+        "translation": "斯堪的纳维亚海军将官",
+        "stage": 1
+    },
+    {
+        "key": "scandinavian_flag_officers_desc:0",
+        "original": "With our dependency and access to the trade that flows through The Sound we have a great source of seasoned seamen to recruit as professional officers to make up the core of our navy.",
+        "translation": "我们对松德海峡周边贸易的依赖和参与使得有大批应季的海员可以专职身份作为我国海军的核心成员。",
+        "stage": 1
+    },
+    {
+        "key": "flag_officers:0",
+        "original": "Flag Officers",
+        "translation": "海军将官",
+        "stage": 1
+    },
+    {
+        "key": "flag_officers_desc:0",
+        "original": "Flying a flag marking your rank on a flagship is a great source of pride for many officers, encouraging bravery and ambition.",
+        "translation": "在旗舰上悬挂标有你衔级的旗帜可以极好的鼓舞军官的士气，令其骄傲以及坚定志向。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRIVATEERING_EFFICIENCY_IN_FLEET:0",
+        "original": "Fleet Privateering Efficiency",
+        "translation": "舰队私掠效率",
+        "stage": 1
+    },
+    {
+        "key": "spare_jolly_roger:0",
+        "original": "Spare Jolly Roger",
+        "translation": "备用海盗旗",
+        "stage": 1
+    },
+    {
+        "key": "spare_jolly_roger_desc:0",
+        "original": "Our ship usually flies the flag of its homeland, but there is nothing wrong with having a more menacing flag for special occasions.",
+        "translation": "我们的船上通常飘扬着它祖国的旗帜，但在某些特殊场合，挂一面更具威胁性的旗帜总是没错的。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_FLAGSHIP_NAVAL_TRADITION:1",
+        "original": "Fleet Naval Tradition from Battles",
+        "translation": "舰队在战斗中获得的海军传统",
+        "stage": 1
+    },
+    {
+        "key": "captains_log:0",
+        "original": "Captain's Log",
+        "translation": "船长日志",
+        "stage": 1
+    },
+    {
+        "key": "captains_log_desc:0",
+        "original": "To keep a record both for their country and for history, our captains will maintain a logbook as they boldly go where no ship has gone before.",
+        "translation": "为了给他们的国家和历史留下记录，在他们大胆地前往那些尚未有船只去过的地方时，我们的船长们都会坚持写航海日志。",
+        "stage": 1
+    },
+    {
+        "key": "MODIFIER_PRESTIGE_FROM_BATTLES_IN_FLEET:0",
+        "original": "Fleet Prestige from Battles",
+        "translation": "舰队在战斗中获得的威望",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_wharf_on_institution_continent:1",
+        "original": "Have a §YNaval Equipment Manufactory§! and is on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆拥有一座§Y海军装备厂§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_weapons_on_institution_continent:0",
+        "original": "Have a §YWeapons Manufactory§! and is on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆拥有一座§Y武器厂§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_textile_on_institution_continent:0",
+        "original": "Have a §YTextile Manufactory§! and is on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆拥有一座§Y纺织工厂§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_plantations_on_institution_continent:0",
+        "original": "Have a §YPlantation§! and is on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆拥有一座§Y种植园§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_tradecompany_on_institution_continent:1",
+        "original": "Have a §YTrade Station§! and is on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆拥有一个§Y贸易公司§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_farm_estate_on_institution_continent:0",
+        "original": "Have a §YFarm Estate§! and is on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆拥有一座§Y农场§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_mills_on_institution_continent:0",
+        "original": "Have a §YMill§! and is on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆拥有一座§Y磨坊§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_wharf_not_institution_continent:1",
+        "original": "Have a §YNaval Equipment Manufactory§! and is not on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆外拥有一座§Y海军装备厂§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_weapons_not_institution_continent:0",
+        "original": "Have a §YWeapons Manufactory§! and is not on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆外拥有一座§Y武器厂§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_textile_not_institution_continent:0",
+        "original": "Have a §YTextile Manufactory§! and is not on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆外拥有一座§Y纺织工厂§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_plantations_not_institution_continent:1",
+        "original": "Have a §YPlantation§! and is not on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆外拥有一座§Y种植园§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_tradecompany_not_institution_continent:1",
+        "original": "Have a §YTrade Station§! and is not on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆外拥有一个§Y贸易公司§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_farm_estate_not_institution_continent:0",
+        "original": "Have a §YFarm Estate§! and is not on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆外拥有一座§Y农场§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_mills_not_institution_continent:0",
+        "original": "Have a §YMill§! and is not on same continent as Manufacturing origin.",
+        "translation": "在制造业起源大陆外拥有一座§Y磨坊§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_university_on_institution_continent:0",
+        "original": "Have §YUniversity§! and is on the same continent as Enlightenment origin.",
+        "translation": "在启蒙运动起源大陆拥有一座§Y大学§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_university_not_institution_continent:0",
+        "original": "Have §YUniversity§! and is not on the same continent as Enlightenment origin.",
+        "translation": "在启蒙运动起源大陆外拥有一座§Y大学§!。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_has_seat_in_parliament_on_institution_continent:0",
+        "original": "Has a seat in parliament and is on the same continent as Enlightenment origin.",
+        "translation": "在启蒙运动起源大陆拥有议席。",
+        "stage": 1
+    },
+    {
+        "key": "tooltip_has_seat_in_parliament_not_institution_continent:0",
+        "original": "Has a seat in parliament and is not on the same continent as Enlightenment origin.",
+        "translation": "在启蒙运动起源大陆外拥有议席。",
+        "stage": 1
+    },
+    {
+        "key": "Birth_of_a_Global_Empire:0",
+        "original": "Birth of a Global Empire",
+        "translation": "一个全球帝国的诞生",
+        "stage": 1
+    },
+    {
+        "key": "March_on_Granada:0",
+        "original": "March on Granada",
+        "translation": "向格拉纳达进军",
+        "stage": 1
+    },
+    {
+        "key": "Conflict_in_the_Caribbean:0",
+        "original": "Conflict in the Caribbean",
+        "translation": "加勒比海的冲突",
+        "stage": 1
+    },
+    {
+        "key": "PW_SEND_MISSIONARY_COST:0",
+        "original": "$COST|Y$¤",
+        "translation": "",
+        "stage": -1
+    },
+    {
+        "key": "MONTHLY_COST:0",
+        "original": "Monthly Cost",
+        "translation": "每月支出",
+        "stage": 1
+    },
+    {
+        "key": "mechanic_gives_war_against_the_world_tooltip_dummy_yes:0",
+        "original": "Enables 'War Against the World' Casus Belli",
+        "translation": "启用「反世界战争」的宣战理由",
+        "stage": 1
+    },
+    {
+        "key": "NO_RELIGIOUS_UNITY_PENALTY:0",
+        "original": "Heretic and Heathen provinces do not give us any penalty to religious unity.",
+        "translation": "异端和异教省份对宗教统一不造成任何惩罚。",
+        "stage": 1
+    },
+    {
+        "key": "CANNOT_AFFORD_COST:0",
+        "original": "We cannot afford to spend $AMOUNT|Y$$CURRENCY$ now.",
+        "translation": "我们现在承担不起$AMOUNT|Y$$CURRENCY$的费用。",
+        "stage": 1
+    },
+    {
+        "key": "SELECT_PROVINCE:0",
+        "original": "Select province",
+        "translation": "选择省份",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMMISSION_MAINTENANCE_COST_BASE:0",
+        "original": "Base Cost from province: $COST|Y$¤",
+        "translation": "来自省份的基础花费：$COST|Y$¤",
+        "stage": 1
+    },
+    {
+        "key": "CONFIRMMISSION_MAINTENANCE_COST_MODIFIED_BY:0",
+        "original": "This cost is modified by:",
+        "translation": "该花费受如下修正影响：",
+        "stage": 1
+    }
+]

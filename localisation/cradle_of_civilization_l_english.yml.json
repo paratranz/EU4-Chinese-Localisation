@@ -260,7 +260,7 @@
     {
         "key": "STARTUP_SCREEN_DLC_DELAYED:0",
         "original": "If shown in the text, the following feature is from $DLC_NAME$.",
-        "translation": "如果文本中有显示，以下特性来自$DLC_NAME$。",
+        "translation": "如果在文本中显示，则该特性来自$DLC_NAME$。",
         "stage": 1
     },
     {
@@ -278,8 +278,8 @@
     {
         "key": "land_acquisition_modifier:0",
         "original": "Land Acquisition",
-        "translation": "土地征用",
-        "stage": 5
+        "translation": "征用土地",
+        "stage": 1
     },
     {
         "key": "desc_land_acquisition_modifier:0",
@@ -596,7 +596,7 @@
     {
         "key": "army_professionalism_events.11.a:0",
         "original": "This is what separates the [Root.GetAdjective] troops from all other.",
-        "translation": "这就是 [Root.GetAdjective]的军队和他国军队之间的差距。",
+        "translation": "这就是[Root.GetAdjective]军队和他国的差距。",
         "stage": 1
     },
     {
@@ -711,7 +711,7 @@
         "key": "army_professionalism_events.17.t:0",
         "original": "Proliferation of the Musket",
         "translation": "滑膛枪的普及",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "army_professionalism_events.17.d:0",
@@ -1634,7 +1634,7 @@
     {
         "key": "upkeep_of_holy_cities:0",
         "original": "Upkeep of Holy Shrines",
-        "translation": "神殿上限",
+        "translation": "供养神殿",
         "stage": 1
     },
     {
@@ -1737,7 +1737,7 @@
         "key": "muslim_school_opinion_events.1.d:0",
         "original": "There have never been any theological differences worth a real conflict between the [Root.GetReligiousSchool] and [school_opinion_increase_country.GetReligiousSchool] schools and both customs often exist side by side.\\nThe long-lasting cooperation between the [Root.GetAdjective] [Root.GetReligiousSchool] and the [school_opinion_increase_country.GetReligiousSchool] [school_opinion_increase_country.GetAdjective] states has, however, lead to a new era of mutual understanding and respect.",
         "translation": "从来没有任何神学上的差异值得在 [Root.GetReligiousSchool] 和 [school_opinion_increase_country.GetReligiousSchool] 之间真正的冲突，学派和两种习俗都经常存在。\\n然而，[Root.GetAdjective] [Root.GetReligiousSchool] 和 [school_opinion_increase_country.GetReligiousSchool] [school_opinion_increase_country.GetAdjective] 之间持久的合作开启了相互理解和尊重的新时代。",
-        "stage": 1
+        "stage": 2
     },
     {
         "key": "muslim_school_opinion_events.1.a:0",

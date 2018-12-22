@@ -55,8 +55,8 @@
     },
     {
         "key": "exploration_events.3.d:0",
-        "original": "As our ship approaches $PROVINCENAME$ large numbers of gift laden canoes start to follow it. The canoes' occupants have fearlessly boarded the vessel and two seemingly important fellows are trying to persuade the ship's captain to follow them to [Root.GetCapitalName]. Their intentions seem innocent and we can espy from the few words our translator can pick out that we have arrived just in time for a festival of some sort. Our ship's mast formation, sails and rigging resemble certain significant artefacts for the natives and our clockwise route around the island mirrored the path the processions take during this festival. This has convinced the natives that we are friendly but one false move and it might change...",
-        "translation": "正当我们的舰船靠近$PROVINCENAME$时，大量载着礼物的独木舟开始跟随。独木舟的船员们毫不畏惧地登上甲板，其中两个看似重要的船员尝试劝说船长跟随他们前往[Root.GetCapitalName]。他们的动机似乎是善意的，我们能从翻译能听懂的一些词语中发现我们刚好在一个某种节日的时候到来。这些土著看来我们舰船的桅杆结构，船帆和索具像是某个有象征意义的文物，并且我们顺时针绕岛而行的航线恰好与节庆中游行船队的航线相同。这使土著们相信我们是友善的，但是一个错误的举动就可能改变这一切……",
+        "original": "As our ship approaches $PROVINCENAME$ large numbers of gift laden canoes start to follow it. The canoes' occupants have fearlessly boarded the vessel and two seemingly important fellows are trying to persuade the ship's captain to follow them to [Root.Capital.GetCapitalName]. Their intentions seem innocent and we can espy from the few words our translator can pick out that we have arrived just in time for a festival of some sort. Our ship's mast formation, sails and rigging resemble certain significant artefacts for the natives and our clockwise route around the island mirrored the path the processions take during this festival. This has convinced the natives that we are friendly but one false move and it might change...",
+        "translation": "正当我们的舰船靠近$PROVINCENAME$时，大量载着礼物的独木舟开始跟随。独木舟的船员们毫不畏惧地登上甲板，其中两个看似重要的船员尝试劝说船长跟随他们前往[Root.Capital.GetCapitalName]。他们的动机似乎是善意的，我们能从翻译能听懂的一些词语中发现我们刚好在一个某种节日的时候到来。这些土著看来我们舰船的桅杆结构，船帆和索具像是某个有象征意义的文物，并且我们顺时针绕岛而行的航线恰好与节庆中游行船队的航线相同。这使土著们相信我们是友善的，但是一个错误的举动就可能改变这一切……",
         "stage": 1
     },
     {
@@ -488,7 +488,7 @@
     {
         "key": "seven_cities_events.3.d:0",
         "original": "A scout sent ahead returned with news about Cibola, one of the Seven Cities of Gold. He had met a monk who had heard stories from the natives of $PROVINCENAME$ about a city overflowing with riches. Its people decorated their houses with turquoise, used dishes of gold and silver, and had gigantic pearls, emeralds, and other beautiful gems.",
-        "translation": "一个先前派出的斥候带着关于锡沃拉——黄金七城之一——的消息回来了。他遇到了一个曾从$PROVINCENAME$的土著那里听到过关于一个富得流油的城市的故事的僧侣，那里的人们用绿宝石装饰房屋，用金银做碗碟，有着硕大的珍珠、祖母绿、和其他美丽的宝石。",
+        "translation": "一个我们派出去的斥候带回了关于黄金七城之一的锡沃拉的新闻。他遇见了一个僧侣，那个僧侣从$PROVINCENAME$的原住民那里听说了关于一座满溢着财富的城市的故事。那座城市里的人用绿宝石来装饰他们的房子，用着金银制作的盘子，还有着巨大的珍珠、祖母绿和其他美丽的宝石。",
         "stage": 1
     },
     {
@@ -770,7 +770,7 @@
     {
         "key": "seven_cities_events.200.a:0",
         "original": "What a pity.",
-        "translation": "好可惜哟.",
+        "translation": "真是可惜。",
         "stage": 1
     },
     {
@@ -1040,7 +1040,7 @@
     {
         "key": "seven_cities_events.215.a:0",
         "original": "Too bad...",
-        "translation": "真不好...",
+        "translation": "真遗憾……",
         "stage": 1
     },
     {
@@ -1856,7 +1856,7 @@
     {
         "key": "seven_cities_events.409.d:0",
         "original": "Our conquistador may not have sent back gold, but he has sent back a magnificently detailed map of our new domains, and of all the unclaimed land waiting only for brave settlers to claim their destiny...",
-        "translation": "我们的政府者可能并没有带回黄金，但是他带回了我们新的殖民地和所有等待着勇敢的开拓者们的无主之地的非常详细的地图。",
+        "translation": "我们的征服者可能并没有带回黄金，但是他带回了我们新的殖民地和所有等待着勇敢的开拓者们的无主之地的非常详细的地图。",
         "stage": 1
     },
     {
@@ -1971,18 +1971,6 @@
         "key": "seven_cities_events.414.b:0",
         "original": "There are no such thing as monsters, take the fast way across.",
         "translation": "世界上没有怪物，走最快的路。",
-        "stage": 1
-    },
-    {
-        "key": "seven_cities_events.500.t:0",
-        "original": "The Cannibal Conquistador of [foreign_province_owner.GetName]",
-        "translation": " $FROMCOUNTRY$的吃人肉的征服者",
-        "stage": 1
-    },
-    {
-        "key": "seven_cities_events.500.d:0",
-        "original": "[foreign_province_owner.GetName]'s conquistador has admitted that their expedition members ate human flesh! They tried to defend themselves by claiming that they had no idea what kind of meat they were offered by their host tribe, and that the name they were given had translated to 'long pig'.",
-        "translation": "$FROMCOUNTRY$征服者承认他们的远征队伍里的成员吃了人肉。但他们竭力为自己辩护称他们不知道当地土著提供给他们叫“长猪”的肉到底是什么肉。",
         "stage": 1
     },
     {
@@ -2408,7 +2396,7 @@
     {
         "key": "mesoamerican_reform_1_desc:0",
         "original": "Our empire is made up of a number of Cahs, Altepetls and other minor city states that all acknowledge our central rule. While we can command the forces of all of these cities they are at the same time acting independently of each other and are paid for by their respective home cities. A unified army structure would ensure that less resources are wasted.",
-        "translation": "我们的帝国是由大量的Cths，altepetls和其他小的城邦组成的，他们都承认我们的宗主地位。虽然我们可以掌握所有这些城市武装力量，但他们同时有一定的独立性并且由各自的城市支付薪水。一个统一的陆军的结构将确保减少资源的浪费。",
+        "translation": "我们的帝国是由大量的城邦组成的，他们都承认我们的宗主地位。虽然我们可以掌握所有这些城市武装力量，但他们同时有一定的独立性并且由各自的城市支付薪水。一个统一的陆军的结构将确保减少资源的浪费。",
         "stage": 1
     },
     {
@@ -4280,13 +4268,13 @@
     {
         "key": "cholula_temples:0",
         "original": "Cholula Temples",
-        "translation": "乔鲁拉神庙",
+        "translation": "乔卢拉神庙",
         "stage": 1
     },
     {
         "key": "desc_cholula_temples:0",
         "original": "The temple complex at Cholula is one of the oldest in Central America and has a special significance for the worship of Quetzalcoatl, the feathered serpent god. Regardless of origin and social stature pilgrims will always be allowed to pass borders unharmed ensuring a steady stream of pilgrims to this holy site.",
-        "translation": "位于乔鲁拉的神庙群是中美洲最古老的之一，它在羽蛇神崇拜中具有重要意义。无论出身或者社会地位，朝圣者会被允许安全地穿越边界来拜访这一圣地，形成了稳固的朝圣人流。",
+        "translation": "位于乔卢拉的神庙群是中美洲最古老的之一，它在羽蛇神崇拜中具有重要意义。无论出身或者社会地位，朝圣者会被允许安全地穿越边界来拜访这一圣地，形成了稳固的朝圣人流。",
         "stage": 1
     },
     {
@@ -4473,12 +4461,6 @@
         "key": "nahuatl_events.3.b:0",
         "original": "Let us sacrifice some of our blood to aid him.",
         "translation": "让我们牺牲自己的血来帮助他。",
-        "stage": 1
-    },
-    {
-        "key": "nahuatl_events.3.b.tt:0",
-        "original": "[Root.Monarch.GetName] spills some of his blood, this will surely aid our warrior but if the warrior is defeated our ruler's reputation will be affected.",
-        "translation": "[Root.Monarch.GetName]放出了他自己的一部分血，这将肯定能帮助我们的战士。但是如果他们被击败了，我们的国王名声肯定会受到影响。",
         "stage": 1
     },
     {
@@ -5078,13 +5060,13 @@
     {
         "key": "nahuatl_events.30.t:0",
         "original": "Pilgrimage to Cholula",
-        "translation": "去往乔鲁拉朝圣",
+        "translation": "去往乔卢拉朝圣",
         "stage": 1
     },
     {
         "key": "nahuatl_events.30.d:0",
         "original": "It is traditional for all our nobles to travel to the great shrine of Quetzalcoatl in the temple city of Cholula. Here the benevolent feathered serpent, protector of the arts and rains, can be worshipped and here the nobles of mesoamerica can show of their wealth without having to face each other in combat.",
-        "translation": "作为一项古老传统，我们所有的贵族都需要旅行至祭拜伟大的羽蛇神的神帝，乔鲁拉的神庙城市。仁慈的羽蛇神，艺术和降雨的保护者，在这里中美洲的贵族们可以炫耀他们的财富，而不用面对互相之间的冲突。",
+        "translation": "作为一项古老传统，我们所有的贵族都需要旅行至祭拜伟大的羽蛇神的神帝，乔卢拉的神庙城市。仁慈的羽蛇神，艺术和降雨的保护者，在这里中美洲的贵族们可以炫耀他们的财富，而不用面对互相之间的冲突。",
         "stage": 1
     },
     {
@@ -5462,7 +5444,7 @@
     {
         "key": "inti_events.7.d:0",
         "original": "The priests of [Root.GetName] are concerned about too many of the young men and women in the area remaining unmarried. It seems events have conspired to make it hard to make good social and economic matches here and the families in the area are reluctant agree to any proposed match. It is not unheard of for a [Root.Owner.Monarch.GetTitle] to step in and forcibly arrange marriages in times such as these. Perhaps it is time for [Root.Owner.Monarch.GetName] to step in?",
-        "translation": "[Root.GetName]的祭司蛋形当地有太多年轻男女没有婚配。 看上去过去发生的种种事情让当地很难产生门当户对的搭配，而当地的家族也很少同意任何提亲。过去也不是没有发生过由[Root.Owner.Monarch.GetTitle]介入并强制安排婚姻或是类似的事情，也许现在是时候让 [Root.Owner.Monarch.GetName]也介入一下了？",
+        "translation": "[Root.GetName]的牧师对于那里过多尚未婚配的年轻男女而感到担忧。似乎一些巧合让这里的婚姻对象在社会和经济地位上很难匹配，而且这个地区的家庭对于任何形式的求婚一事并不情愿。[Root.Owner.Monarch.GetTitle]在这种情况下介入并强制安排婚姻这样的事情并不是前所未闻的。也许是[Root.Owner.Monarch.GetName]插手的时候了？",
         "stage": 1
     },
     {
@@ -6645,6 +6627,18 @@
         "key": "custom_idea_possible_mil_policy_desc:0",
         "original": "We should look beyond our borders for the best military minds of the day.",
         "translation": "为了获取当今最英明的军事人才，我们需要把眼光扩展向国外。",
+        "stage": 1
+    },
+    {
+        "key": "seven_cities_events.500.t:1",
+        "original": "The Cannibal Conquistador of [long_pig_country.GetName]",
+        "translation": "[long_pig_country.GetName]吃人肉的征服者",
+        "stage": 1
+    },
+    {
+        "key": "seven_cities_events.500.d:1",
+        "original": "[long_pig_country.GetName]'s conquistador has admitted that their expedition members ate human flesh! They tried to defend themselves by claiming that they had no idea what kind of meat they were offered by their host tribe, and that the name they were given had translated to 'long pig'.",
+        "translation": "[long_pig_country.GetName]的征服者承认他们的远征队员吃了人肉！但他们竭力为自己辩护，称他们不知道当地土著提供给他们叫「长猪」的肉到底是什么肉。",
         "stage": 1
     }
 ]

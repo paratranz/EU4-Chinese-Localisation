@@ -1071,7 +1071,7 @@
         "key": "aboriginal:0",
         "original": "Aboriginal",
         "translation": "土著",
-        "stage": 1
+        "stage": 2
     },
     {
         "key": "aimara:0",
@@ -1376,7 +1376,7 @@
     {
         "key": "cosmopolitan_french:0",
         "original": "Francien",
-        "translation": "法兰克",
+        "translation": "法兰西",
         "stage": 1
     },
     {
@@ -3062,7 +3062,7 @@
     {
         "key": "nahuatl_religion_desc:1",
         "original": "Nahuatl religion is a range of Mesoamerican polytheistic traditions. While the Pantheon and many concepts are quite similar to the Mayan religion the Nahuas or Aztecs assign a much higher importance on the need for human sacrifice in order to survive each new cosmic cycle.\\nIn the game most of the area around modern central Mexico starts out with Nahuatl religion.",
-        "translation": "纳瓦特尔是中美在地域上的原始信仰。 尽管在神系和一些主要的理念上与玛雅教有很大的相似之处，纳瓦特或者阿兹特克更看中人牲献祭以达到宇宙循环存续。\\n在游戏中绝大多数现代墨西哥地方的国家为纳瓦特尔信仰。",
+        "translation": "纳瓦特尔是中美在地域上的原始信仰。 尽管在神系和一些主要的理念上与玛雅教有很大的相似之处，纳瓦特尔或者阿兹特克更看中人牲献祭以达到宇宙循环存续。\\n在游戏中绝大多数现代墨西哥地方的国家为纳瓦特尔信仰。",
         "stage": 1
     },
     {
@@ -3776,19 +3776,13 @@
     {
         "key": "CONVERT_RULER_IRO:1",
         "original": "§YGive Ruler Military Command§!\\nThis will make a general out of your ruler. He or she will then be available to command your armies.",
-        "translation": "§Y让君主成为将领§!\\n这将使你的君主变成一名将军。他（她）将能够指挥军队。",
+        "translation": "§Y让统治者成为将领§!\\n这将使你的统治者变成一名将军。他（她）将能够指挥军队。",
         "stage": 1
     },
     {
         "key": "CONVERT_RULER_DRO:0",
         "original": "A monarch who leads an army into combat is far more likely to die, a monarch's death could cause negative effects like a regency council or cause your country to become a junior partner in a personal union. Also your country itself will not see the death of its ruler in a battle as a positive sign.",
         "translation": "亲自指挥军队的君主很可能会战死，君主死亡可能导致摄政会议或者别的国家来统治你的国家，本国人民也不愿看到君主战死沙场",
-        "stage": 1
-    },
-    {
-        "key": "CONVERT_RULER_NOT_POSSIBLE_IRO:0",
-        "original": "Your ruler is already a general.",
-        "translation": "你的君主已经是一个将军了",
         "stage": 1
     },
     {
@@ -4136,7 +4130,7 @@
     {
         "key": "AMSUBJECT:0",
         "original": "Is a $SUBJECTTYPE$ of $LIST$.",
-        "translation": "是$LIST$名下的$SUBJECTTYPE$。",
+        "translation": "是$LIST$的$SUBJECTTYPE$。",
         "stage": 1
     },
     {
@@ -4154,7 +4148,7 @@
     {
         "key": "AMMARCH:0",
         "original": "Is a march of $LIST$.",
-        "translation": "是$LIST$名下的卫戍国。",
+        "translation": "是$LIST$的卫戍国。",
         "stage": 1
     },
     {
@@ -4748,7 +4742,7 @@
     {
         "key": "SPY_OFFENCE:0",
         "original": "Spy Network Construction",
-        "translation": "间谍实力",
+        "translation": "间谍网建设",
         "stage": 1
     },
     {
@@ -5726,7 +5720,7 @@
     {
         "key": "MVIEW_MAINTENANCE:0",
         "original": "Maintenance:",
-        "translation": "维持费:",
+        "translation": "维护费：",
         "stage": 1
     },
     {
@@ -6945,79 +6939,79 @@
         "key": "MILACCTITLE:0",
         "original": "Ask for Military Access",
         "translation": "要求军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "MILACCNEWDESC:0",
         "original": "Do you wish to request Military Access from $COUNTRY$, thereby allowing our armies access to their land?",
-        "translation": "贵国是否要向$COUNTRY$要求通行权，即允许我国军队通过其领土？",
-        "stage": 1
+        "translation": "你想要要求$COUNTRY$的军事通行权，即允许我们的军队进入他们境内吗？",
+        "stage": 5
     },
     {
         "key": "MILACCDESC:0",
         "original": "Request access to their land.",
-        "translation": "要求通行权",
-        "stage": 1
+        "translation": "要求他们的军事通行权",
+        "stage": 5
     },
     {
         "key": "MILACCREQDESC:0",
         "original": "$COUNTRY$ is requesting Military Access from us. Accepting will allow them to move armies into our land.",
-        "translation": "$COUNTRY$要求我国提供军事通行权。若接受，该国军队可以在我国领土通行。",
-        "stage": 1
+        "translation": "$COUNTRY$要求我国给予军事通行权。接受后他们的军队将被允许进入我们境内。",
+        "stage": 5
     },
     {
         "key": "MILACCREQWARWITH:0",
         "original": "They are at war with $COUNTRYLIST|Y$.",
         "translation": "他们正在与$COUNTRYLIST|Y$交战。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CANCELMILACCDESC:0",
         "original": "Cancel our Military Access to their country.",
-        "translation": "取消他们给与我们的提供的军事通行",
-        "stage": 1
+        "translation": "取消他们给与我们的军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANCELMILACCTITLE:0",
         "original": "Cancel Military Access",
-        "translation": "取消军事通行",
-        "stage": 1
+        "translation": "取消军事通行权",
+        "stage": 5
     },
     {
         "key": "OFFERMILACCTITLE:0",
         "original": "Offer Military Access",
         "translation": "提供军事通行权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OFFERMILACCNEWDESC:0",
         "original": "Do you wish to give Military Access to $COUNTRY$? This will enable them to station troops in our land.",
-        "translation": "你想要给予$COUNTRY$军事通行权吗？这样将会允许他们在我国领土上驻军",
-        "stage": 1
+        "translation": "你想要给予$COUNTRY$军事通行权吗？这将会允许他们在我们境内驻军。",
+        "stage": 5
     },
     {
         "key": "OFFERMILACCDESC:0",
         "original": "Enable them to station troops in our country.",
-        "translation": "允许该国于我国驻军.",
-        "stage": 1
+        "translation": "允许他们在我们境内驻军。",
+        "stage": 5
     },
     {
         "key": "REVOKEMILACCTITLE:0",
         "original": "Revoke Military Access",
-        "translation": "撤销军事通行权",
-        "stage": 1
+        "translation": "收回军事通行权",
+        "stage": 5
     },
     {
         "key": "REVOKEMILACCNEWDESC:0",
         "original": "Do you wish to revoke the Military Access given to $COUNTRY$? Doing so will prevent their troops from accessing our country.",
-        "translation": "你想要撤销给予$COUNTRY$的军事通行权吗？这样将会阻止他们的军队进入我国领土。",
-        "stage": 1
+        "translation": "你想要收回给予$COUNTRY$的军事通行权吗？这样做会使他们的军队无法进入我们境内。",
+        "stage": 5
     },
     {
         "key": "REVOKEMILACCDESC:0",
         "original": "Revoke their ability to station troops in our country.",
-        "translation": "撤销他们在我国境内驻军的权力",
-        "stage": 1
+        "translation": "收回他们在我国境内驻军的权利。",
+        "stage": 5
     },
     {
         "key": "NEGOTIATETITLE:0",
@@ -7178,7 +7172,7 @@
     {
         "key": "RULER_TO_GENERAL:0",
         "original": "Convert Ruler to General",
-        "translation": "君主转变为将军",
+        "translation": "统治者转变为将军",
         "stage": 1
     },
     {
@@ -7761,12 +7755,6 @@
         "key": "austrian_hussar:0",
         "original": "Latin Hussars",
         "translation": "西欧轻骑兵",
-        "stage": 1
-    },
-    {
-        "key": "austrian_jaeger:0",
-        "original": "Jaeger Infantry",
-        "translation": "猎兵",
         "stage": 1
     },
     {
@@ -9860,7 +9848,7 @@
     {
         "key": "enforce_serfdom:0",
         "original": "Enforce Serfdom",
-        "translation": "执行参勤交代",
+        "translation": "执行农奴制",
         "stage": 1
     },
     {
@@ -10418,7 +10406,7 @@
     {
         "key": "desc_obscurantism:0",
         "original": "As a typical response to different kinds of problems, obscurantism was a frequent behavior in most nations at least until the Age of Enlightenment arose in the most advanced western nations of the European continent.",
-        "translation": "作为应付各种问题的常用手段，蒙昧主义频繁为各个国家所采纳.直到启蒙时代在欧洲最先进的国家到来才有所改观",
+        "translation": "大多数国家频繁采用蒙昧主义作为应付各种问题的办法，这种情况直到启蒙运动在欧洲最先进的国家兴起才有所改观。",
         "stage": 1
     },
     {
@@ -11000,7 +10988,7 @@
     {
         "key": "HOST_BUTTON:0",
         "original": "Host",
-        "translation": "主机",
+        "translation": "主持",
         "stage": 1
     },
     {
@@ -11012,7 +11000,7 @@
     {
         "key": "LOG_SETTING_LOG:0",
         "original": "Display in log.",
-        "translation": "在历史记录中显示.",
+        "translation": "在历史记录中显示。",
         "stage": 1
     },
     {
@@ -11216,7 +11204,7 @@
     {
         "key": "SUBJECT_OF:0",
         "original": "$SUBJECTTYPE$ of $LORD$",
-        "translation": "$LORD$名下的$SUBJECTTYPE$",
+        "translation": "$LORD$的$SUBJECTTYPE$",
         "stage": 1
     },
     {
@@ -11750,7 +11738,7 @@
     {
         "key": "NO_WAR_MIL_ACC:0",
         "original": "We have Military Access to their nation.",
-        "translation": "我们拥有该国的军事通行权.",
+        "translation": "我们拥有该国的军事通行权。",
         "stage": 1
     },
     {
@@ -11768,7 +11756,7 @@
     {
         "key": "ISATWAR:0",
         "original": "You cannot ask for Military Access when you are at war.",
-        "translation": "当你处于战争时，不能要求军事通行权.",
+        "translation": "当你处于战争时，不能要求军事通行权。",
         "stage": 1
     },
     {
@@ -12344,7 +12332,7 @@
     {
         "key": "large_cast_iron_bombardDESCR:0",
         "original": "A larger version of the standard Bombard. This piece of early European siege artillery was designed for launching heavy objects at enemy defenses. A notable example of a Large Bombard is Mons Meg, which was sent as a gift by Philip III of Burgundy to King James II of Scotland in 1453. Although they were devastating weapons, the larger Bombards took a long time to cool down after each firing, meaning they were of limited usefulness on the battlefield and remained largely for use during sieges.",
-        "translation": "加大版的标准火炮.这种早期欧洲攻城武器是用来向敌军防线发射重物.最具代表性的大型火炮便是“蒙斯的玛格丽特”，它在1453年被勃艮第的菲利普三世作为礼物送给了苏格兰国王詹姆士二世.尽管这是种颇具毁灭性的武器，但大型火炮每次开炮后需要花很长时间来冷却，也就是说它们在战场上作用有限，多半还是在攻城中使用.",
+        "translation": "一种更大型号的标准射石炮。这种早期欧洲围城的军队所用的武器是被设计成用来向敌方防御军队发射重物的。一个明显的大型轰炸的例子是芒斯蒙哥大炮，它在1453年被勃艮第的菲利普三世当作礼物送给了苏格兰国王詹姆士二世。尽管这种炮是一种具有破坏性的武器，但是更大的炮在每次发射后需要花费很长的时间来冷却，这就意味着它们在战场上的用处有限，但在围城的时期大量的保留着。",
         "stage": 1
     },
     {
@@ -12926,7 +12914,7 @@
     {
         "key": "south_american_spearmenDESCR:0",
         "original": "The basic unit of armies of South Americas. They were usually a peasant levy led by aristocratic officers and armed with spear and shield. This unit formed the backbone of the armies of states like the Inca Empire.",
-        "translation": "南美洲的基本军事单位。他们通常是由贵族军官征召的农民，配有矛与盾。这些单位形成了诸如印加、阿兹特克等帝国的骨干力量。",
+        "translation": "南美洲的基本军事单位。他们通常是由贵族军官征召的农民，配有矛与盾。这些单位形成了诸如印加等帝国的骨干力量。",
         "stage": 1
     },
     {
@@ -13203,13 +13191,13 @@
         "key": "ICON_ASKMIL:0",
         "original": "A request for §YMilitary Access§W",
         "translation": "要求§Y军事通行权§W",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ICON_OFFACC:0",
         "original": "An offer of §YMilitary Access§W",
-        "translation": "§Y提供军事通行§W",
-        "stage": 1
+        "translation": "提议给予§Y军事通行权§W",
+        "stage": 5
     },
     {
         "key": "ICON_CALLALLY:0",
@@ -15098,7 +15086,7 @@
     {
         "key": "SM_MUSIC_VOLUME:0",
         "original": "Music Volume",
-        "translation": "背景音乐音量",
+        "translation": "音乐音量",
         "stage": 1
     },
     {
@@ -15110,7 +15098,7 @@
     {
         "key": "SM_ZOOM_SPEED:0",
         "original": "Zoom Speed",
-        "translation": "图像放大速度",
+        "translation": "缩放速度",
         "stage": 1
     },
     {
@@ -15128,19 +15116,19 @@
     {
         "key": "SM_RESOLUTION:0",
         "original": "Resolution",
-        "translation": "解析度",
+        "translation": "分辨率",
         "stage": 1
     },
     {
         "key": "SM_REFRESH_RATE:0",
         "original": "Refresh Rate",
-        "translation": "刷新速度",
+        "translation": "刷新率",
         "stage": 1
     },
     {
         "key": "SM_GAMMA:0",
         "original": "Gamma",
-        "translation": "伽马",
+        "translation": "伽马值",
         "stage": 1
     },
     {
@@ -15998,7 +15986,7 @@
     {
         "key": "MS_ALERT:0",
         "original": "Alert",
-        "translation": "警报",
+        "translation": "警告",
         "stage": 1
     },
     {
@@ -16010,19 +15998,19 @@
     {
         "key": "MS_CHANNELS:0",
         "original": "Channels",
-        "translation": "取消",
+        "translation": "频道",
         "stage": 1
     },
     {
         "key": "MS_METASERVER_LOGIN:0",
         "original": "Metaserver Login",
-        "translation": "元数据服务器注册",
+        "translation": "登录元数据服务器",
         "stage": 1
     },
     {
         "key": "COMBAT_MORALE:0",
         "original": "Morale:",
-        "translation": "士气:",
+        "translation": "士气：",
         "stage": 1
     },
     {
@@ -16238,19 +16226,19 @@
     {
         "key": "LOADING_MAP_SPRITES:0",
         "original": "Loading Map-Sprites...",
-        "translation": "读取地图元素",
+        "translation": "读取地图元素……",
         "stage": 1
     },
     {
         "key": "LOADING_GUI_DEF:0",
         "original": "Loading GUI Definitions...",
-        "translation": "读取用户界面",
+        "translation": "读取用户界面……",
         "stage": 1
     },
     {
         "key": "LOADING_DATABASES:0",
         "original": "Loading Databases...",
-        "translation": "读取数据库",
+        "translation": "读取数据库……",
         "stage": 1
     },
     {
@@ -16262,67 +16250,67 @@
     {
         "key": "CREATING_CHKSUM:0",
         "original": "Creating Checksum...",
-        "translation": "读取检验信息",
+        "translation": "创建校验和……",
         "stage": 1
     },
     {
         "key": "LOADING_HISTORY:0",
         "original": "Loading History Files...",
-        "translation": "读取历史文件",
+        "translation": "载入历史文件……",
         "stage": 1
     },
     {
         "key": "LOADING_SOUNDS:0",
         "original": "Loading Sounds...",
-        "translation": "读取语音",
+        "translation": "载入音乐……",
         "stage": 1
     },
     {
         "key": "PROC_FLAGS:0",
         "original": "Processing Flags...",
-        "translation": "处理旗帜",
+        "translation": "处理旗帜……",
         "stage": 1
     },
     {
         "key": "LOAD_FLAGS:0",
         "original": "Loading Flags...",
-        "translation": "读取旗帜",
+        "translation": "载入旗帜……",
         "stage": 1
     },
     {
         "key": "LOAD_GFX:0",
         "original": "«Loading Graphics...«",
-        "translation": "载入图像",
+        "translation": "载入图像……",
         "stage": 1
     },
     {
         "key": "CREATING_THE_WORLD:0",
         "original": "Creating the World...",
-        "translation": "创建世界",
+        "translation": "创建世界……",
         "stage": 1
     },
     {
         "key": "CREATING_TREES:0",
         "original": "Creating Trees...",
-        "translation": "创建树木",
+        "translation": "创建植被……",
         "stage": 1
     },
     {
         "key": "CREATING_BORDERS:0",
         "original": "Creating Borders...",
-        "translation": "创建边界",
+        "translation": "创建边界……",
         "stage": 1
     },
     {
         "key": "CREATING_RIVERS:0",
         "original": "Creating Rivers...",
-        "translation": "创建河流",
+        "translation": "创建河流……",
         "stage": 1
     },
     {
         "key": "MAP_PROPERLY_INIT:0",
         "original": "Map Properly Initialized...",
-        "translation": "地图已正常初始化……",
+        "translation": "地图已正确初始化……",
         "stage": 1
     },
     {
@@ -16334,25 +16322,25 @@
     {
         "key": "CREATING_TEXTS:0",
         "original": "Creating Texts...",
-        "translation": "创造文本……",
+        "translation": "创建文本……",
         "stage": 1
     },
     {
         "key": "LOAD_EVENTS:0",
         "original": "Loading Events...",
-        "translation": "读取事件",
+        "translation": "载入事件……",
         "stage": 1
     },
     {
         "key": "ADAPTING_HISTORY:0",
         "original": "Adapting History...",
-        "translation": "读取历史",
+        "translation": "载入历史……",
         "stage": 1
     },
     {
         "key": "LOAD_CITY:0",
         "original": "Loading City...",
-        "translation": "读取城市",
+        "translation": "载入城市……",
         "stage": 1
     },
     {
@@ -16634,8 +16622,8 @@
     {
         "key": "MILACC_OFFER_REQ_DESC:0",
         "original": "$COUNTRY$ is offering Military Access to us. Accepting will allow us to move armies into their land.",
-        "translation": "$COUNTRY$授予我国通行权.若接受，我国即可自由行军至该国领土.",
-        "stage": 1
+        "translation": "$COUNTRY$提议给予我国军事通行权。接受后我们的军队将被允许进入他们境内。",
+        "stage": 5
     },
     {
         "key": "on:0",
@@ -16695,13 +16683,13 @@
         "key": "LEDGER_COLONIAL_RANGE:0",
         "original": "Max. Colonial Range",
         "translation": "最大殖民范围",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "MODIFIER_COLONIAL_RANGE:0",
         "original": "Colonial Range",
         "translation": "殖民范围",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "LOG_SETTING_PAUSE:0",
@@ -16856,7 +16844,7 @@
     {
         "key": "MAINTENANCE:0",
         "original": "Maintenance",
-        "translation": "维持费",
+        "translation": "维护费",
         "stage": 1
     },
     {
@@ -17222,7 +17210,7 @@
     {
         "key": "HAS_LEADER_WITH_STATS:0",
         "original": "Has at least one §Y$TYPE$§W with $DETAILS$.",
-        "translation": "有至少一个§Y$TYPE$§W有$DETAILS$.",
+        "translation": "有至少一个$DETAILS$的§Y$TYPE$§W。",
         "stage": 1
     },
     {
@@ -17234,7 +17222,7 @@
     {
         "key": "LEADER_STAT_DETAIL:0",
         "original": "$TYPE$ at least $VAL$.",
-        "translation": "$TYPE$至少达到$VAL$.",
+        "translation": "$TYPE$至少达到$VAL$。",
         "stage": 1
     },
     {
@@ -17265,12 +17253,6 @@
         "key": "TAC:0",
         "original": "Tachibana",
         "translation": "橘氏",
-        "stage": 5
-    },
-    {
-        "key": "TAI:0",
-        "original": "Taira",
-        "translation": "平氏",
         "stage": 5
     },
     {
@@ -17348,7 +17330,7 @@
     {
         "key": "unite_japan_desc:0",
         "original": "The time has come to unite Japan by force! The time for diplomacy is over and all these warring daimyo lords must be conquered.",
-        "translation": "用武力统一日本的时候到了！外交时间结束，所有这些交战中的大名主都必须被征服",
+        "translation": "以武力统一日本的时候到了！外交时间结束，所有互相敌对的大名都必须被平定。",
         "stage": 1
     },
     {
@@ -17360,7 +17342,7 @@
     {
         "key": "united_japan_desc:0",
         "original": "The warring factions of Japan have finally been united under a strong emperor.",
-        "translation": "群雄割据的日本终于在强势天皇的手中统一了",
+        "translation": "群雄割据的日本终于被一位强大的天皇统一。",
         "stage": 1
     },
     {
@@ -17372,7 +17354,7 @@
     {
         "key": "united_japan_daimyo_desc:0",
         "original": "The warring factions of Japan have finally been united under a strong emperor.",
-        "translation": "日本争战的各方终于被一个强大的君主统一。",
+        "translation": "群雄割据的日本终于被一位强大的君主统一。",
         "stage": 1
     },
     {
@@ -17508,12 +17490,6 @@
         "stage": 1
     },
     {
-        "key": "TAI_ADJ:0",
-        "original": "Tairan",
-        "translation": "平氏",
-        "stage": 5
-    },
-    {
         "key": "FUJ_ADJ:0",
         "original": "Fuijiwaran",
         "translation": "藤原氏",
@@ -17546,7 +17522,7 @@
     {
         "key": "bureaucrats:2",
         "original": "Grand Secretariat",
-        "translation": "内阁",
+        "translation": "内阁大学士",
         "stage": 1
     },
     {
@@ -17744,7 +17720,7 @@
     {
         "key": "bureaucrats_influence:1",
         "original": "Secretariat Faction Influence",
-        "translation": "内阁派系影响",
+        "translation": "内阁大学士派系影响",
         "stage": 1
     },
     {
@@ -17870,13 +17846,13 @@
     {
         "key": "ESTATE_TERRITORY_GREATER_THAN:0",
         "original": "§Y$ESTATE$§W control of land is §Y$VALUE$§W or greater",
-        "translation": "§Y$ESTATE$§W 控制的地域超过n §Y$VALUE$§W.",
+        "translation": "§Y$ESTATE$§W控制的土地达到§Y$VALUE$§W",
         "stage": 1
     },
     {
         "key": "ESTATE_TERRITORY_NOT_GREATER_THAN:0",
         "original": "§Y$ESTATE$§W control of land is lower than §Y$VALUE$§W",
-        "translation": "§Y$ESTATE$§W 控制的地域不超过 §Y$VALUE$§W",
+        "translation": "§Y$ESTATE$§W控制的土地少于§Y$VALUE$§W",
         "stage": 1
     },
     {
@@ -18230,7 +18206,7 @@
     {
         "key": "ACHIEVEMENTS_ENABLED:0",
         "original": "Achievements Enabled.",
-        "translation": "成就系统可用.",
+        "translation": "成就系统可用。",
         "stage": 1
     },
     {
@@ -20030,7 +20006,7 @@
     {
         "key": "SM_MULTISAMPLE:0",
         "original": "Multisample Level",
-        "translation": "多重抗锯齿等级",
+        "translation": "多重采样抗锯齿等级",
         "stage": 1
     },
     {
@@ -20186,8 +20162,8 @@
     {
         "key": "CANCELMILACCNEWDESC:0",
         "original": "Do you wish to cancel the military access given to us by $COUNTRY$? Doing so will prevent our troops from accessing their country.",
-        "translation": "你想要取消$COUNTRY$为我们提供的军事通行权么？这么做会使我们的部队无法进入他们的国家.",
-        "stage": 1
+        "translation": "你想要取消$COUNTRY$给予我们的军事通行权吗？这样做会使我们的军队无法进入他们境内。",
+        "stage": 5
     },
     {
         "key": "city:0",
@@ -20210,19 +20186,19 @@
     {
         "key": "SMIL_CONST_TIP:0",
         "original": "A §Y$TYPE$§W will be put to sea here on §Y$DATE$§W.",
-        "translation": "在§Y$DATE$§W一艘§Y$TYPE$§W将下海起航.",
+        "translation": "一艘§Y$TYPE$§W将在§Y$DATE$§W下海起航。",
         "stage": 1
     },
     {
         "key": "NONE_AVAILABLE:0",
         "original": "None available.",
-        "translation": "不可用.",
+        "translation": "不可用。",
         "stage": 1
     },
     {
         "key": "NO_MERCS_DESC:0",
         "original": "There are currently no available mercenaries.",
-        "translation": "目前没有雇佣兵可用.",
+        "translation": "目前没有雇佣兵可用。",
         "stage": 1
     },
     {
@@ -20444,7 +20420,7 @@
     {
         "key": "EXPIRES_NEVER:0",
         "original": "§YNo expiration date.§!",
-        "translation": "§Y没有终止日期.§!",
+        "translation": "§Y没有截止日期。§!",
         "stage": 1
     },
     {
@@ -20504,26 +20480,26 @@
     {
         "key": "CD_GIVESACCESS:0",
         "original": "Grants military access to $LIST$.",
-        "translation": "我们给予 $LIST$ 军事通行权.",
-        "stage": 1
+        "translation": "我们给予 $LIST$ 军事通行权。",
+        "stage": 5
     },
     {
         "key": "CD_HASACCESS:0",
         "original": "Has military access through $LIST$.",
-        "translation": " $LIST$ 给予我们军事通行权.",
-        "stage": 1
+        "translation": "$LIST$ 给予我们军事通行权。",
+        "stage": 5
     },
     {
         "key": "CD_GIVESCONDITIONALACCESS:0",
         "original": "Grants conditional military access to $LIST$.",
-        "translation": "我们给予 $LIST$ 有条件的军事通行权.",
-        "stage": 1
+        "translation": "我们给予 $LIST$ 有条件的军事通行权。",
+        "stage": 5
     },
     {
         "key": "CD_HASCONDITIONALACCESS:0",
         "original": "Has conditional military access through $LIST$.",
-        "translation": " $LIST$ 给予我们有条件的军事通行权.",
-        "stage": 1
+        "translation": "$LIST$ 给予我们有条件的军事通行权。",
+        "stage": 5
     },
     {
         "key": "PW_RESET:0",
@@ -22130,7 +22106,7 @@
     {
         "key": "DEFINE_RULER_TO_GENERAL_EFFECT:0",
         "original": "Convert Ruler to General",
-        "translation": "由君主出任将领",
+        "translation": "由统治者出任将领",
         "stage": 1
     },
     {
@@ -22142,7 +22118,7 @@
     {
         "key": "CONVERT_RULER_TO_GENERAL_EFFECT:0",
         "original": "Convert Ruler to General with §Y$POWER$§W tradition.\\n",
-        "translation": "以 §Y$POWER$§W 的陆军传统将君主训练成将领.\\n",
+        "translation": "以 §Y$POWER$§W 的陆军传统将统治者训练成将领.\\n",
         "stage": 1
     },
     {
@@ -22220,7 +22196,7 @@
     {
         "key": "KILL_RULER_EFFECT:0",
         "original": "Current Ruler (§Y$NAME$§W) will die.\\n",
-        "translation": "当前统治者(§Y$NAME$§W)将死去. \\n",
+        "translation": "当前统治者（§Y$NAME$§W）将死去。 \\n",
         "stage": 1
     },
     {
@@ -22922,7 +22898,7 @@
     {
         "key": "desc_poor_uniforms:0",
         "original": "Some of our cloth suppliers have supplied substandard uniforms to the army. This has lowered morale.",
-        "translation": "我们的一些衣物供应商提供了一些不合格的制服给军队. 这是不道德的.",
+        "translation": "我们的一些衣物供应商提供了一些不合格的制服给军队。这降低了士气。",
         "stage": 1
     },
     {
@@ -23624,7 +23600,7 @@
     {
         "key": "SPI:0",
         "original": "Sardinia-Piedmont",
-        "translation": "撒丁-皮德蒙特",
+        "translation": "撒丁-皮埃蒙特",
         "stage": 1
     },
     {
@@ -23744,7 +23720,7 @@
     {
         "key": "SPI_ADJ:0",
         "original": "Sardinian",
-        "translation": "撒丁-皮德蒙特",
+        "translation": "撒丁-皮埃蒙特",
         "stage": 1
     },
     {
@@ -25088,7 +25064,7 @@
     {
         "key": "HAVE_AT_LEST_ONE_OWNED_NEIGHBORING_PROVINCE:0",
         "original": "Have at least one owned neighboring province such that:",
-        "translation": "有至少一个占有的邻近省份以致:",
+        "translation": "有至少一个占有的邻近省份以便：",
         "stage": 1
     },
     {
@@ -25437,18 +25413,6 @@
         "key": "REVOLT_RISK_HIGHER_THAN:0",
         "original": "Unrest at least ",
         "translation": "叛乱风险至少",
-        "stage": 1
-    },
-    {
-        "key": "AVERAGE_EFFECTIVE_REVOLT_RISK_LOWER_THAN:0",
-        "original": "Average Unrest above zero lower than ",
-        "translation": "高于零的叛乱风险平均值小于",
-        "stage": 1
-    },
-    {
-        "key": "AVERAGE_EFFECTIVE_REVOLT_RISK_HIGHER_THAN:0",
-        "original": "Average Unrest above zero at least ",
-        "translation": "高于零的叛乱风险平均值至少",
         "stage": 1
     },
     {
@@ -26216,7 +26180,7 @@
     {
         "key": "OR_TRIGGER_STARTS:0",
         "original": "One of the following must be true",
-        "translation": "以下条件至少一个满足",
+        "translation": "至少满足一个以下条件",
         "stage": 1
     },
     {
@@ -26648,38 +26612,38 @@
     {
         "key": "CANCELMILACCDESC_NOPES_TROOPS:0",
         "original": "We cannot cancel access while we still have forces inside their borders.",
-        "translation": "我们不能取消军事通行因为有军队在他们境内.",
-        "stage": 1
+        "translation": "当我们仍有军队在他们境内时，我们不能取消军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANCELMILACCDESC_NOPES_ENEMY_TROOPS:0",
         "original": "We cannot cancel access while our enemies have forces inside their borders.",
-        "translation": "当我们的敌人在他们的边界内有军队时我们不能够取消军事通行权.",
-        "stage": 1
+        "translation": "当我们的敌人仍有军队在他们境内时，我们不能取消军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANCELMILACCDESC_NOPES_ALLY_TROOPS:0",
         "original": "We cannot cancel access while our allies have forces inside their borders.",
-        "translation": "当我们的盟友有军队在他们境内时，我们不能撤销军事通行权。",
-        "stage": 1
+        "translation": "当我们的盟友仍有军队在他们境内时，我们不能取消军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANCELMILACCDESC_NOPES_THEIR_TROOPS:0",
         "original": "We cannot cancel access while they still have forces inside our borders.",
-        "translation": "当他们仍有军队留着我们的边界内时我们不能取消军事通行权.",
-        "stage": 1
+        "translation": "当他们仍有军队在我们境内时，我们不能收回军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANCELMILACCDESC_NOPES_THEIR_ENEMY_TROOPS:0",
         "original": "We cannot cancel access while their enemies have forces inside our borders.",
-        "translation": "当他们的敌人仍有军队留着我们的边界内时我们不能取消军事通行权.",
-        "stage": 1
+        "translation": "当他们的敌人仍有军队在我们境内时，我们不能收回军事通行权。",
+        "stage": 5
     },
     {
         "key": "CANCELMILACCDESC_NOPES_THEIR_ALLY_TROOPS:0",
         "original": "We cannot cancel access while their allies have forces inside our borders.",
-        "translation": "当他们的盟友有军队在我们国境内时我们不能撤销军事通行权。",
-        "stage": 1
+        "translation": "当他们的盟友仍有军队在我们境内时，我们不能收回军事通行权。",
+        "stage": 5
     },
     {
         "key": "UW_NOT_POSSIBLE_TO_ATTACH:0",
@@ -27020,7 +26984,7 @@
     {
         "key": "support_crats_faction_title:1",
         "original": "Support Grand Secretariat",
-        "translation": "支持内阁",
+        "translation": "支持内阁大学士",
         "stage": 1
     },
     {
@@ -27092,19 +27056,19 @@
     {
         "key": "sardinia_piedmont_nation_title:0",
         "original": "Form Sardinia-Piedmont",
-        "translation": "成立撒丁-皮德蒙特",
+        "translation": "成立撒丁-皮埃蒙特",
         "stage": 1
     },
     {
         "key": "sardinia_piedmont_nation_desc:0",
         "original": "We now rule both Piedmont and Sardinia, and $MONARCH$ has decided to formally unite the dual kingdoms to one power: the kingdom of Sardinia-Piedmont, the true descendant of the Taurini and the Salassi.",
-        "translation": "我们现在统治着皮德蒙特和撒丁岛，并且$MONARCH$决定正式将两个王国合二为一：the kingdom of Sardinia-Piedmont，the true descendant of the Taurini and the Salassi.",
+        "translation": "我们现在统治着皮埃蒙特和撒丁岛，并且$MONARCH$决定正式将两个王国合二为一：撒丁-皮埃蒙特王国，陶里尼人与萨拉西人的真正传人。",
         "stage": 1
     },
     {
         "key": "sardinia_piedmont_nation_inherit_desc:0",
         "original": "We now rule both Piedmont and Sardinia, and $MONARCH$ has decided to formally unite the dual kingdoms to one power: the kingdom of Sardinia-Piedmont, the true descendant of the Taurini and the Salassi.",
-        "translation": "我们现在统治着皮德蒙特和撒丁岛，并且$MONARCH$决定正式将两个王国合二为一：the kingdom of Sardinia-Piedmont，the true descendant of the Taurini and the Salassi.",
+        "translation": "我们现在统治着皮埃蒙特和撒丁岛，并且$MONARCH$决定正式将两个王国合二为一：撒丁-皮埃蒙特王国，陶里尼人与萨拉西人的真正传人。",
         "stage": 1
     },
     {
@@ -28898,7 +28862,7 @@
     {
         "key": "spanish_nation_desc:0",
         "original": "Global expansion in newly discovered areas and the establishment of colonies is transforming Spain into one of the most powerful and wealthiest nations of our time. Spanish explorers are constantly moving into new lands and extending our borders. Immense amounts of gold and silver are being brought back to our motherland, filling the coffers of our state Treasury.",
-        "translation": "对全球新发现的区域的远征和殖民地的大量建立使西班牙成为了当时最强大和最富有的国家之一. 西班牙的探险者们不懈地探索着未知的地域，扩展着祖国的疆界. 无数的黄金白银被运回了祖国，把政府的金库塞得满满的.",
+        "translation": "在新大陆的全面扩张以及殖民地的大量建立使得西班牙成为了当时最强大也最富有的国家之一。西班牙的探险者们不懈地探索着未知的地域，扩展着我们的疆界。无数的黄金白银被运回祖国，填满了国库。",
         "stage": 1
     },
     {
@@ -28916,7 +28880,7 @@
     {
         "key": "french_nation_title:0",
         "original": "Form French Nation",
-        "translation": "成立法国",
+        "translation": "成立法兰西",
         "stage": 1
     },
     {
@@ -29048,7 +29012,7 @@
     {
         "key": "conquer_core_title:0",
         "original": "Reclaim $PROVINCENAME$",
-        "translation": "收回 $PROVINCENAME$",
+        "translation": "收复$PROVINCENAME$",
         "stage": 1
     },
     {
@@ -29168,13 +29132,13 @@
     {
         "key": "liberum_veto_title:0",
         "original": "Institute Liberum Veto",
-        "translation": "制定个人否决权",
+        "translation": "制定自由否决权",
         "stage": 1
     },
     {
         "key": "liberum_veto_desc:0",
         "original": "Our nobility have come to us with an interesting proposal. If we were to grant them the Liberum Veto they would in return give us substantial support during the current war. Although their offer is very generous indeed, some of our advisors are suggesting that this could just be the thin edge of the wedge. In fact although they will get angry if we refuse them, they will most definitely prey on any future weakness we show to demand further concessions.",
-        "translation": "我们的贵族有一个有趣的提议. 如果我们实行自由选举制，他们就会在战争中支持我们. 尽管他们的提议确实很慷慨，但是我们的一些顾问认为贵族们还会得寸进尺. 实际上，如果我们拒绝，尽管他们会感到愤怒，他们还是会等待将来我们变得弱小的时候强迫我们做出让步.",
+        "translation": "我们的贵族有一个有趣的提议。如果我们实行自由选举制，他们就会在战争中支持我们。 尽管他们的提议确实很慷慨，但是我们的一些顾问认为贵族们还会得寸进尺。实际上，如果我们拒绝，虽然当下他们会感到愤怒，但他们还是会等待我们在将来暴露出任何一个弱点时再强迫我们做出让步。",
         "stage": 1
     },
     {
@@ -29205,30 +29169,6 @@
         "key": "WITHG:0",
         "original": "or greater with",
         "translation": "或者大于",
-        "stage": 1
-    },
-    {
-        "key": "IS_NOT_IN_THE_REGION:0",
-        "original": "Is NOT in the region ",
-        "translation": "不在区域中",
-        "stage": 1
-    },
-    {
-        "key": "IS_NOT_IN_THE_AREA:0",
-        "original": "Is NOT in the area ",
-        "translation": "不在地区内",
-        "stage": 1
-    },
-    {
-        "key": "IS_IN_REGION:0",
-        "original": "Is in the region",
-        "translation": "在区域中",
-        "stage": 1
-    },
-    {
-        "key": "IS_IN_AREA:0",
-        "original": "Is in the area",
-        "translation": "在地区内",
         "stage": 1
     },
     {
@@ -29498,7 +29438,7 @@
     {
         "key": "finish_reconquista_title:0",
         "original": "Finish the Reconquista!",
-        "translation": "完成复国运动！",
+        "translation": "完成收复失地运动！",
         "stage": 1
     },
     {
@@ -29552,7 +29492,7 @@
     {
         "key": "continue_reconquista_title:0",
         "original": "Continue the Reconquista",
-        "translation": "继续再征服",
+        "translation": "继续收复失地运动",
         "stage": 1
     },
     {
@@ -29600,7 +29540,7 @@
     {
         "key": "conquer_incas_desc:0",
         "original": "There lies Peru with its riches.\\nHere, Panama and its poverty.\\nChoose, each man, what best becomes a brave Castilian.\\n— Francisco Pizarro",
-        "translation": "那里是富饶的秘鲁.\\n这里是贫瘠的巴拿马.\\n能做出最正确的选择的人才配称为勇敢的卡斯提尔人.\\n— 弗朗西斯科·皮萨罗",
+        "translation": "那里是富饶的秘鲁。\\n这里是贫瘠的巴拿马。\\n能做出最正确的选择的人才配称为勇敢的卡斯蒂利亚人。\\n—— 弗朗西斯科·皮萨罗",
         "stage": 1
     },
     {
@@ -29792,7 +29732,7 @@
     {
         "key": "discover_spanish_main_desc:0",
         "original": "Our explorers have yet to find the Indies, we believe that huge and wealthy lands lie to the South and West. We must find them for the glory of our country.",
-        "translation": "我们的探险家已经发现了西印度群岛，我们坚信在西边或南边还有一块遍布财富的大陆，为了卡斯提尔和西班牙的荣耀，我们必须发现它们.",
+        "translation": "我们的探险家已经发现了西印度群岛，我们坚信在西边或南边还有一块遍布财富的大陆，为了祖国的荣耀，我们必须发现它们。",
         "stage": 1
     },
     {
@@ -30410,7 +30350,7 @@
     {
         "key": "desc_large_tribe_bad_dip:0",
         "original": "Ruler can't handle the Diplomatic details of our Tribe",
-        "translation": "统治者不能胜任我们部落的外交管理.",
+        "translation": "统治者不能胜任我们部落的外交管理。",
         "stage": 1
     },
     {
@@ -30422,7 +30362,7 @@
     {
         "key": "desc_large_tribe_bad_mil:0",
         "original": "Ruler can't handle the Military details of our Tribe",
-        "translation": "统治者不能胜任我们部落的军事管理.",
+        "translation": "统治者不能胜任我们部落的军事管理。",
         "stage": 1
     },
     {
@@ -31658,7 +31598,7 @@
     {
         "key": "castilian_portuguese_relations_title:0",
         "original": "Castilian Relations ",
-        "translation": "卡斯提尔的关系",
+        "translation": "卡斯蒂利亚的关系",
         "stage": 1
     },
     {
@@ -31784,7 +31724,7 @@
     {
         "key": "brazil_belongs_to_portugal_desc:0",
         "original": "The Castilians have taken lands that were gifted to Portugal by the Holy Father himself. We must take what is ours by right.",
-        "translation": "卡斯提尔已经夺取了那片由教宗自己亲自赐予葡萄牙的领土.我们必须拿回本该属于自己的东西",
+        "translation": "卡斯蒂利亚人已经夺取了那片由教宗自己亲自赐予葡萄牙的领土。我们必须拿回本该属于自己的东西。",
         "stage": 1
     },
     {
@@ -32756,7 +32696,7 @@
     {
         "key": "vassalize_tibet_title:0",
         "original": "Reclaim Tibet",
-        "translation": "附庸西藏",
+        "translation": "收复西藏",
         "stage": 1
     },
     {
@@ -32834,7 +32774,7 @@
     {
         "key": "poland_mazovia_relations_desc:0",
         "original": "The decision by King Boleslaw III to divide Poland amongst his sons heralded a long period of fragmentation for the Polish Kingdom. Although Poland is now largely reunited, the Duchy of Mazovia still remains independent, we should improve relations with them.",
-        "translation": "波列斯瓦夫三世的决定将波兰划分给他的儿子们，这预示了波兰王国长时间的分裂.尽管波兰现在已经基本统一，但马佐维亚公国仍然保持独立，我们应该发展与他们的关系.",
+        "translation": "波莱斯瓦夫三世决定将波兰分封给他的儿子们，这预示著波兰王国将长时间处于分裂状态，尽管波兰现在已经基本统一，但马佐维亚公国仍然保持著独立，我们应该发展与他们的关系。",
         "stage": 1
     },
     {
@@ -32966,7 +32906,7 @@
     {
         "key": "vassalize_navarra_desc:0",
         "original": "Both the Kingdoms of Castile and France cast envious eyes on the lands of Navarre. It would be disastrous to Aragon if these lands fell to either of them so we must be proactive.",
-        "translation": "卡斯蒂利亚王国和法兰西王国都把眼光投向了纳瓦拉的土地.对于阿拉贡来说，那里落入任何一方之手都是灾难性的，所以我们必须更加主动。",
+        "translation": "卡斯蒂利亚王国和法兰西王国都把目标投向了纳瓦拉的土地。对于阿拉贡来说，这些土地落入任何一方之手都是灾难性的，所以我们必须更加主动。",
         "stage": 1
     },
     {
@@ -33002,7 +32942,7 @@
     {
         "key": "diplo_annex_naples_desc:0",
         "original": "Although the King of Naples has wisely accepted our overlordship his continuing independence is no longer desirable.",
-        "translation": "尽管那不勒斯国王已经明智地承认了我们的统治地位，但他继续保持独立却并不能令人满意.",
+        "translation": "尽管那不勒斯国王已经明智地承认了我们的统治地位，但他继续保持独立却并不能令人满意。",
         "stage": 1
     },
     {
@@ -33014,7 +32954,7 @@
     {
         "key": "conquer_naples_desc:0",
         "original": "Rashly the King of Naples continues to insist that he is the true King of Sicily. This is unacceptable to us so Naples must be conquered.",
-        "translation": "那不勒斯国外轻率地继续坚持说他才是西西里的真正国王，这对于我们来说难以接受，因此那不勒斯必须被征服.",
+        "translation": "那不勒斯国王轻率地继续坚持说他才是西西里的真正国王，这对于我们来说难以接受，因此那不勒斯必须被征服。",
         "stage": 1
     },
     {
@@ -33038,7 +32978,7 @@
     {
         "key": "retake_kaffa_desc:0",
         "original": "The loss of Caffa is but a temporary setback. We still consider this province ours and so we must recapture it.",
-        "translation": "卡法的丢失只是暂时的挫折。我们仍然认为这个省份是我们的，我们必须再征服它。",
+        "translation": "卡法的丢失只是暂时的挫折。我们仍然认为这个省份是我们的，我们必须将它收复。",
         "stage": 1
     },
     {
@@ -33806,7 +33746,7 @@
     {
         "key": "statue_in_restraint_of_appeals_desc:0",
         "original": "Officially demote the Pope and instead raise the king to be the final legal authority in all matters of religion.",
-        "translation": "公开罢黜教宗，并以国王为所有宗教事务的唯一合法裁决者.",
+        "translation": "公开罢黜教宗，并以国王为所有宗教事务的唯一合法裁决者。",
         "stage": 1
     },
     {
@@ -33837,7 +33777,7 @@
         "key": "REELECT_COST:0",
         "original": "Re-elections cost §R$AMOUNT$§W republican tradition.",
         "translation": "重新选举花费§R$AMOUNT$§W共和传统。",
-        "stage": 1
+        "stage": 2
     },
     {
         "key": "IMMEDIATEEFFECT:0",
@@ -35660,7 +35600,7 @@
     {
         "key": "tribal_federation_altaic:0",
         "original": "Khaganate",
-        "translation": "帝国",
+        "translation": "可汗国",
         "stage": 1
     },
     {
@@ -35678,7 +35618,7 @@
     {
         "key": "imperial_government_altaic:0",
         "original": "Khaganate",
-        "translation": "帝国",
+        "translation": "可汗国",
         "stage": 1
     },
     {
@@ -36420,12 +36360,6 @@
         "stage": 1
     },
     {
-        "key": "MISSIONARY_MAINT_IRO:0",
-        "original": "We have §Y$NUM_MISSIONARIES$§W $MISSIONARIES_EACH$ costing us §Y$COST$§W¤ per year to supply, at $CHANCE$ of base chance.",
-        "translation": "我们拥有§Y$NUM_MISSIONARIES$§W处$MISSIONARIES_EACH$每年需要§Y$COST$§W¤维持，基础几率为$CHANCE$。",
-        "stage": 1
-    },
-    {
         "key": "MISSIONARIES_EACH_PLURAL:0",
         "original": "missionaries, each",
         "translation": "传教点，每处传教点",
@@ -36572,7 +36506,7 @@
     {
         "key": "chevaucheeDESCR:0",
         "original": "The Chevauchée was made up of smaller groups of light cavalry units and was mainly used for raiding and pillaging. The Chevauchée tactic was successfully employed during both the 'Reconquista' and the Hundred Years' war.",
-        "translation": "突击骑兵是由小组轻骑兵组成的，主要被用来突袭和劫掠. 这种骚扰战术在再征服战争和百年战争中都有被使用.",
+        "translation": "突击骑兵是由小组轻骑兵组成的，主要被用来突袭和劫掠。这种骚扰战术在收复失地战争和百年战争中都有被使用.",
         "stage": 1
     },
     {
@@ -37028,13 +36962,13 @@
     {
         "key": "nahuatl_cholula:0",
         "original": "Conquest of Cholula",
-        "translation": "征服乔鲁拉",
+        "translation": "征服乔卢拉",
         "stage": 1
     },
     {
         "key": "desc_nahuatl_cholula:0",
         "original": "We are in control of the temples of Cholula, held sacred by all who follow the Nahuatl faith.",
-        "translation": "我们控制了乔鲁拉圣庙，纳瓦特尔信仰的圣地。",
+        "translation": "我们控制了乔卢拉圣庙，纳瓦特尔信仰的圣地。",
         "stage": 1
     },
     {
@@ -37478,7 +37412,7 @@
     {
         "key": "establish_spanish_inquisition_title:0",
         "original": "Establish Spanish Inquisition",
-        "translation": "建立西班牙宗教法庭",
+        "translation": "建立西班牙宗教裁判所",
         "stage": 1
     },
     {
@@ -37556,13 +37490,13 @@
     {
         "key": "institute_the_societas_jesu_title:0",
         "original": "Institute the Societas Jesu",
-        "translation": "创立耶稣会",
+        "translation": "设立耶稣会",
         "stage": 1
     },
     {
         "key": "institute_the_societas_jesu_desc:0",
         "original": "His Holiness has approved a new missionary order called the Society of Jesus. However without royal support it will not thrive, shall we support the Jesuits? ",
-        "translation": "教宗推行一个新的叫做耶稣会的总叫团体. 但是没有王室的支持它不可能发展起来，我们要不要支持？",
+        "translation": "教宗推行了一个名为耶稣会的新修会。但是没有王室的支持它不可能发展起来，我们要不要支持？",
         "stage": 1
     },
     {
@@ -38300,7 +38234,7 @@
     {
         "key": "build_wharf_title:0",
         "original": "Build Naval Equipment Manufactory in $PROVINCENAME$",
-        "translation": "在 $PROVINCENAME$ 建立海军装备厂",
+        "translation": "在$PROVINCENAME$建立海军装备厂",
         "stage": 1
     },
     {
@@ -38606,7 +38540,7 @@
     {
         "key": "advancement_of_true_religion_act_desc:0",
         "original": "Make it a legal offense for servants and the like to read our holy bible, reserve that right for clerics and noblemen.",
-        "translation": "剥夺农民及类似的人阅读圣经的权利，保留牧师和贵族的这些权利.",
+        "translation": "剥夺农民及类似的人阅读圣经的权利，唯有牧师和贵族享有这些权利。",
         "stage": 1
     },
     {
@@ -38630,7 +38564,7 @@
     {
         "key": "act_of_uniformity_desc:0",
         "original": "Take further steps towards a unified church by enforcing church attendance and set the order of services and prayers to be used in the Book of Common Prayer.",
-        "translation": "通过强迫民众参与教会活动和实行祈祷书中的服务和祈祷，来建立统一的教会.",
+        "translation": "通过强迫民众参与教会活动和实行「共同祈祷书」中的服务和祈祷，来建立统一的教会。",
         "stage": 1
     },
     {
@@ -38666,7 +38600,7 @@
     {
         "key": "declaration_of_indulgence_desc:0",
         "original": "Suspend all penal laws for members of other religions than the established church and grant them the freedom of public worship and rights of advancements to military and civil offices.",
-        "translation": "取消所有对其他宗教的刑法，允许他们建立教会和进行公开祈祷活动，给于他们军事和内政上的权利.",
+        "translation": "取消所有对其他宗教的刑法，允许他们建立教会和进行公开祈祷活动，给于他们军事和内政上的权利。",
         "stage": 1
     },
     {
@@ -38774,7 +38708,7 @@
     {
         "key": "desc_the_declaration_of_indulgence:0",
         "original": "All penal laws for members of religions other than the established church have been suspended.",
-        "translation": "取消所有对其他宗教的惩罚，允许他们建立教会和进行公开祈祷活动.",
+        "translation": "取消所有对其他宗教的刑法，允许他们建立教会和进行公开祈祷活动。",
         "stage": 1
     },
     {
@@ -39314,7 +39248,7 @@
     {
         "key": "per_capita_tax:0",
         "original": "Jizya",
-        "translation": "丁税",
+        "translation": "吉兹亚税",
         "stage": 1
     },
     {
@@ -40274,13 +40208,13 @@
     {
         "key": "HAVE_NOT_RG_CLAIM_AGAINST:0",
         "original": "Have no Religious Group Claim against ",
-        "translation": "对下列国家没有不同宗教圈的宣战理由：",
+        "translation": "对下列国家没有不同宗教组的宣战理由：",
         "stage": 1
     },
     {
         "key": "HAVE_RG_CLAIM_AGAINST:0",
         "original": "Have Religious Group Claim against ",
-        "translation": "对下列国家有不同宗教圈的宣战理由：",
+        "translation": "对下列国家有不同宗教组的宣战理由：",
         "stage": 1
     },
     {
@@ -40773,55 +40707,55 @@
         "key": "cb_core:0",
         "original": "Reconquest",
         "translation": "收复核心领土",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "cb_core_desc:0",
         "original": "They hold provinces that are rightfully ours.",
-        "translation": "他们非法占有我国领土.",
-        "stage": 1
+        "translation": "他们非法占有我国领土。",
+        "stage": 5
     },
     {
         "key": "cb_nationalist:0",
         "original": "Nationalism",
         "translation": "民族主义",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "cb_nationalist_desc:0",
         "original": "They hold provinces of our culture group.",
-        "translation": "他们非法占有我国民族聚居的省份.",
+        "translation": "他们占有我国民族聚居的省份。",
         "stage": 1
     },
     {
         "key": "cb_imperial:0",
         "original": "Imperialism",
         "translation": "帝国主义",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "cb_imperial_desc:0",
         "original": "They will be better off in our glorious empire!",
-        "translation": "成为我们伟大帝国的一部分 是他们最好的选择!",
+        "translation": "成为我们伟大帝国的一部分是他们最好的选择！",
         "stage": 1
     },
     {
         "key": "cb_colonial:0",
         "original": "Colonialism",
         "translation": "殖民主义",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "cb_colonial_desc:0",
         "original": "They have colonies close to ours.",
-        "translation": "他们有我国想要的殖民地.",
-        "stage": 1
+        "translation": "他们有我国想要的殖民地。",
+        "stage": 5
     },
     {
         "key": "cb_restore_personal_union:0",
         "original": "Restoration of Union",
         "translation": "重建联合统治",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "cb_restore_personal_union_desc:0",
@@ -40989,13 +40923,13 @@
         "key": "WAR_JUST:0",
         "original": "They cite '$CB$' as their Casus Belli!",
         "translation": "他们以「$CB$」作为宣战理由！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WAR_INJUST:0",
         "original": "They do not have a proper Casus Belli!",
-        "translation": "没有合法的宣战理由!",
-        "stage": 1
+        "translation": "没有合法的宣战理由！",
+        "stage": 5
     },
     {
         "key": "WAR_SUCCESSION:0",
@@ -41006,7 +40940,7 @@
     {
         "key": "CB_DESC_HEAD:0",
         "original": "$PRESTIGE$ Prestige and $COST$ Cost for:",
-        "translation": "$PRESTIGE$威望以及$COST$花费用于：",
+        "translation": "获得 $PRESTIGE$ 威望，花费 $COST$ 战争分数以：",
         "stage": 1
     },
     {
@@ -41066,7 +41000,7 @@
     {
         "key": "CB_ALLOWED_UNION:0",
         "original": "Forming a Personal Union",
-        "translation": "建立联合统治:",
+        "translation": "建立联合统治",
         "stage": 1
     },
     {
@@ -43460,7 +43394,7 @@
     {
         "key": "AND_TRIGGER_STARTS:0",
         "original": "All of the following must be true",
-        "translation": "以下条件必须满足",
+        "translation": "必须满足以下所有条件",
         "stage": 1
     },
     {
@@ -44324,7 +44258,7 @@
     {
         "key": "florentine_school:0",
         "original": "Supporting The Florentine School",
-        "translation": "赞助佛罗伦萨式学院",
+        "translation": "赞助佛罗伦萨画派",
         "stage": 1
     },
     {
@@ -44336,13 +44270,13 @@
     {
         "key": "support_florentine_school_title:0",
         "original": "Support The Florentine School",
-        "translation": "赞助佛罗伦萨式学院",
+        "translation": "赞助佛罗伦萨画派",
         "stage": 1
     },
     {
         "key": "support_florentine_school_desc:0",
         "original": "Because of our relative notability, we are in a position to support the Italian artists in the Florentine School. Being perceived as patrons of international art will definitely help our propaganda efforts.",
-        "translation": "对佛罗伦萨式艺术学院的赞助可以作为对我国的宣传.",
+        "translation": "由于我们一定的知名度，能够支持佛罗伦萨学派的意大利画家。被视为国际艺术的赞助人肯定会有助于我们的宣传工作。",
         "stage": 1
     },
     {
@@ -44673,30 +44607,6 @@
         "key": "desc_south_german_organ_tradition:0",
         "original": "From Pachelbel to Johann Kaspar Kerll, the music of South German organs can be heard all across $COUNTRY$",
         "translation": "风琴的曲调在 $COUNTRY$ 广为流传",
-        "stage": 1
-    },
-    {
-        "key": "HAVE_A_NAVY_SMALLER_THAN:0",
-        "original": "Total navy size less than §Y$PERC$§W% of the Force Limit",
-        "translation": "海军数量小于上限的§Y$PERC$§W%",
-        "stage": 1
-    },
-    {
-        "key": "HAVE_A_NAVY_LARGER_THAN:0",
-        "original": "Total navy size at least §Y$PERC$§W% of the Force Limit",
-        "translation": "海军数量至少为上限的§Y$PERC$§W%",
-        "stage": 1
-    },
-    {
-        "key": "HAVE_A_ARMY_SMALLER_THAN:0",
-        "original": "Total army size less than §Y$PERC$§W% of the Force Limit",
-        "translation": "陆军数量小于上限的§Y$PERC$§W%",
-        "stage": 1
-    },
-    {
-        "key": "HAVE_A_ARMY_LARGER_THAN:0",
-        "original": "Total army size at least §Y$PERC$§W% of the Force Limit",
-        "translation": "陆军数量至少为上限的§Y$PERC$§W%",
         "stage": 1
     },
     {
@@ -46532,7 +46442,7 @@
     {
         "key": "MIL_ACCESS_FORCED_TRUCE:0",
         "original": "You can't revoke imposed Military Access until the truce runs out on $DATE|Y$",
-        "translation": "你无法在至$DATE|Y$的停战期前强求军事通行权",
+        "translation": "你无法收回军事通行权，直到停战协议于$DATE|Y$结束",
         "stage": 1
     },
     {
@@ -47984,7 +47894,7 @@
     {
         "key": "tibetan_group:0",
         "original": "Tibetan",
-        "translation": "西藏",
+        "translation": "藏",
         "stage": 1
     },
     {
@@ -48254,7 +48164,7 @@
     {
         "key": "sardinia_piedmont_nation_inherit_title:1",
         "original": "Form Sardinia-Piedmont Diplomatically",
-        "translation": "成立撒丁-皮德蒙特",
+        "translation": "外交成立撒丁-皮埃蒙特",
         "stage": 1
     },
     {
@@ -48417,6 +48327,126 @@
         "key": "CW_WARNOVERLORD2:1",
         "original": "$ENEMY$ is subject to $COUNTRY$, who will protect them.",
         "translation": "$ENEMY$是$COUNTRY$的属国，将受其保护。",
+        "stage": 1
+    },
+    {
+        "key": "brazilian:0",
+        "original": "Brazilian",
+        "translation": "巴西",
+        "stage": 1
+    },
+    {
+        "key": "mexican:0",
+        "original": "Mexican",
+        "translation": "墨西哥",
+        "stage": 1
+    },
+    {
+        "key": "CONVERT_RULER_NOT_POSSIBLE_IRO:1",
+        "original": "Your ruler is already a leader.",
+        "translation": "你的君主已经是一个将领了。",
+        "stage": 1
+    },
+    {
+        "key": "GLOBAL_SUPPLY_LIMIT_MODIFIER:0",
+        "original": "National Supply Limit Modifier",
+        "translation": "国家补给上限修正",
+        "stage": 1
+    },
+    {
+        "key": "austrian_jaeger:1",
+        "original": "Jäger Infantry",
+        "translation": "猎兵",
+        "stage": 1
+    },
+    {
+        "key": "AVERAGE_EFFECTIVE_REVOLT_RISK_LOWER_THAN:1",
+        "original": "Average Unrest above 0 lower than ",
+        "translation": "高于零的叛乱风险平均值小于",
+        "stage": 1
+    },
+    {
+        "key": "AVERAGE_EFFECTIVE_REVOLT_RISK_HIGHER_THAN:1",
+        "original": "Average Unrest above 0 at least ",
+        "translation": "高于零的叛乱风险平均值至少",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_IN_THE_REGION:1",
+        "original": "is not in the region ",
+        "translation": "不在该地区内：",
+        "stage": 1
+    },
+    {
+        "key": "IS_NOT_IN_THE_AREA:1",
+        "original": "is not in the area ",
+        "translation": "不在该区域内：",
+        "stage": 1
+    },
+    {
+        "key": "IS_IN_REGION:1",
+        "original": "is in the region",
+        "translation": "在该地区内：",
+        "stage": 1
+    },
+    {
+        "key": "IS_IN_AREA:1",
+        "original": "is in the area",
+        "translation": "在该区域内：",
+        "stage": 1
+    },
+    {
+        "key": "MISSIONARY_MAINT_IRO:1",
+        "original": "We have §Y$NUM_MISSIONARIES$§W costing us §Y$COST$§W¤ per year to supply at a strength of $CHANCE$.",
+        "translation": "为维持在§Y$NUM_MISSIONARIES$§W省份$CHANCE$的传教力量，我们每年需要支出§Y$COST$§W¤",
+        "stage": 1
+    },
+    {
+        "key": "MOVE_CAPITAL_MORE_DEVELOPMENT_ON_CONTINENT:0",
+        "original": "Need to have §Y50%§! of our development in $CONTINENT|Y$ to move our capital there. We currently have $HAVE|0Y$ out of $TOTAL|0Y$ development in $CONTINENT|Y$.",
+        "translation": "迁都需要在$CONTINENT|Y$拥有至少 §Y50%§! 的发展度。现在我们共有 $TOTAL|0Y$ 发展度，在$CONTINENT|Y$拥有 $HAVE|0Y$。",
+        "stage": 1
+    },
+    {
+        "key": "HAVE_A_NAVY_SMALLER_THAN:1",
+        "original": "Total navy size less than §Y$PERC$%§W of the Force Limit",
+        "translation": "海军数量小于上限的§Y$PERC$%§W",
+        "stage": 1
+    },
+    {
+        "key": "HAVE_A_NAVY_LARGER_THAN:1",
+        "original": "Total navy size at least §Y$PERC$%§W of the Force Limit",
+        "translation": "海军数量至少为上限的§Y$PERC$%§W",
+        "stage": 1
+    },
+    {
+        "key": "HAVE_A_ARMY_SMALLER_THAN:1",
+        "original": "Total army size less than §Y$PERC$%§W of the Force Limit",
+        "translation": "陆军数量小于上限的§Y$PERC$%§W",
+        "stage": 1
+    },
+    {
+        "key": "HAVE_A_ARMY_LARGER_THAN:1",
+        "original": "Total army size at least §Y$PERC$%§W of the Force Limit",
+        "translation": "陆军数量至少为上限的§Y$PERC$%§W",
+        "stage": 1
+    },
+    {
+        "key": "alandalus_returns:0",
+        "original": "Qurtuba Restored",
+        "translation": "收复科尔多瓦",
+        "stage": 1
+    },
+    {
+        "key": "desc_alandalus_returns:0",
+        "original": "The pristine city has once again been wrested from the hands of the infidel. So long as it is held by one of the faithful, all those who follow the Prophet will look on us with gratitude.",
+        "translation": "这个古老的城市再一次落入到异教徒手中。如果它能重归我们虔诚的教徒之手，所有追随先知的人将会用感激的眼神看着我们。",
+        "stage": 1
+    },
+    {
+        "key": "TOTAL_PIPS:0",
+        "original": "Total Pips",
+        "translation": "总能力点",
         "stage": 1
     }
 ]

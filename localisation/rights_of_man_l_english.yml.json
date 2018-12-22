@@ -746,7 +746,7 @@
     {
         "key": "INFLUENCENATIONDESC:0",
         "original": "As a Great Power, we will influence the petty country of $COUNTRY|Y$ towards our diplomatic position, altering their opinion of us by $OPINION$ for $YEARS|Y$ years. They will also receive $BONUS$ to the Monarch power category they are weakest in (currently $WEAKEST$ ) for this duration. Their trust of us changes by $TRUST$.",
-        "translation": "作为一个列强，我们将影响小国$COUNTRY|Y$使其靠近我们的外交立场，增加他们对我们的态度$OPINION$持续$YEARS|Y$年。在这段时间内他们也会收到$BONUS$点奖励增加在他们君主能力最弱的项目上（最近最弱的是$WEAKEST$）。他们对我们的信任改变了$TRUST$。",
+        "translation": "作为一个列强，我们将影响小国$COUNTRY|Y$使其靠近我们的外交立场，增加他们对我们的态度$OPINION$持续$YEARS|Y$年。在这段时间内他们也会收到$BONUS$点奖励增加在他们君主能力最弱的项目上（最近最弱的是$WEAKEST$ ）。他们对我们的信任改变了$TRUST$。",
         "stage": 1
     },
     {
@@ -1785,12 +1785,6 @@
         "key": "the_faithful_liberated:0",
         "original": "The Faithful Liberated",
         "translation": "解放信众",
-        "stage": 1
-    },
-    {
-        "key": "the_faithful_liberated_desc:0",
-        "original": "The faithful Copts of this province have been liberated.",
-        "translation": "这个省份的科普特信徒们已被解放。",
         "stage": 1
     },
     {
@@ -8834,7 +8828,7 @@
     {
         "key": "devious_ruler:0",
         "original": "Devious Ruler",
-        "translation": "不正统的统治者",
+        "translation": "狡猾的统治者",
         "stage": 1
     },
     {
@@ -9458,13 +9452,13 @@
     {
         "key": "CONSORT_CLAIM_DESC:0",
         "original": "Should our Ruler die while their Heir is too young to assume power, the Consort will start a Regency with a claim determined by the greatest of our current Legitimacy, that of the Consort's origin country and the Heir's claim.",
-        "translation": "假如统治者驾崩，而继承人因年幼无法亲政时，凭借母国和子嗣的所带来的强正统性，统治者的配偶将开始垂帘听政。",
+        "translation": "假如统治者驾崩，而继承人因年幼无法亲政时，统治者的配偶将开始垂帘听政，其正统性取决于当前正统性、配偶的原籍国和继承人的正统性。",
         "stage": 1
     },
     {
         "key": "EVENTOPTION_ENABLED_BY_TRAIT:0",
         "original": "This option is available due to $RULERNAME|Y$ having the Personality $TRAITNAME|Y$.",
-        "translation": "由于 $RULERNAME|Y$ 具有 $TRAITNAME|Y$的特质,该选项可用.",
+        "translation": "由于$RULERNAME|Y$具有$TRAITNAME|Y$的特质，该选项可用。",
         "stage": 1
     },
     {
@@ -9572,7 +9566,7 @@
     {
         "key": "WILL_APPLY_WHEN_RULER:0",
         "original": "Will have the following effect on our country if $NAME$ becomes ruler:\\n",
-        "translation": "假如$NAME$ 成为统治者，将对我国产生以下影响：\\n",
+        "translation": "假如$NAME$成为统治者，将对我国产生以下影响：\\n",
         "stage": 1
     },
     {
@@ -9584,7 +9578,7 @@
     {
         "key": "CONSORT_TO_RULER_DESC:0",
         "original": "This is our Ruler's Consort.\\n",
-        "translation": "这是我们君主的配偶.\\n",
+        "translation": "这是我们统治者的配偶。\\n",
         "stage": 1
     },
     {
@@ -9614,385 +9608,361 @@
     {
         "key": "stat_game_country_desc:0",
         "original": "You played as $NAME|Y$.",
-        "translation": "你扮演$NAME|Y$.",
+        "translation": "你扮演$NAME|Y$。",
         "stage": 1
     },
     {
         "key": "stat_game_country_desc_server:0",
         "original": "$VAL|Y$% of players this month played as $NAME|Y$.",
-        "translation": "$VAL|Y$% 的玩家本月扮演$NAME|Y$.",
-        "stage": 1
+        "translation": "$VAL|Y$% 的玩家本月扮演$NAME|Y$。",
+        "stage": 5
     },
     {
         "key": "stat_wars_won_desc:0",
         "original": "$VAL|Y$ of our wars ended in glorious victory.",
-        "translation": "$VAL|Y$ 次战争以我们的辉煌胜利落幕.",
-        "stage": 1
+        "translation": "$VAL|Y$ 次战争以我们的辉煌胜利落幕。",
+        "stage": 5
     },
     {
         "key": "stat_wars_won_desc_server:0",
         "original": "The average player this month has claimed victory in $VAL|Y$ wars.",
-        "translation": "玩家本月平均取得 $VAL|Y$次战争胜利.",
-        "stage": 1
+        "translation": "玩家本月平均取得 $VAL|Y$ 次战争胜利。",
+        "stage": 5
     },
     {
         "key": "stat_wars_won_desc_server_better:1",
         "original": "Other cowardly players this month only claimed victory in $VAL|Y$ wars.",
-        "translation": "部分胆小鬼仅仅取得 $VAL|Y$ 次战争胜利.",
-        "stage": 1
+        "translation": "部分胆小鬼仅仅取得 $VAL|Y$ 次战争胜利。",
+        "stage": 5
     },
     {
         "key": "stat_wars_won_desc_server_worse:1",
         "original": "Others used underhanded tactics to claim victory in $VAL|Y$ wars.",
-        "translation": "部分战略鬼才取得了 $VAL|Y$ 次的战争胜利.",
-        "stage": 1
+        "translation": "部分战略鬼才取得了 $VAL|Y$ 次的战争胜利。",
+        "stage": 5
     },
     {
         "key": "stat_wars_lost_desc:0",
         "original": "$VAL|Y$ wars ended in disgraceful defeat.",
-        "translation": "$VAL|Y$ 次战争是以可耻的战败收场.",
+        "translation": "$VAL|Y$ 次战争以可耻的战败收场。",
         "stage": 1
     },
     {
         "key": "stat_wars_lost_desc_server:0",
         "original": "Most players tasted defeat $VAL|Y$ times on average.",
-        "translation": "总体来说,大部分玩家平均尝到了 $VAL|Y$ 次失败的滋味.",
+        "translation": "玩家平均尝到了 $VAL|Y$ 次失败的滋味。",
         "stage": 1
     },
     {
         "key": "stat_wars_lost_desc_server_better:1",
         "original": "To our shame, most players tasted defeat only $VAL|Y$ times on average.",
-        "translation": "令我们惭愧的是，大部分玩家平均只被击败$VAL|Y$ 次.",
+        "translation": "令我们惭愧的是，玩家平均只被击败 $VAL|Y$ 次。",
         "stage": 1
     },
     {
         "key": "stat_wars_lost_desc_server_worse:1",
         "original": "Less shameful than others who lost $VAL|Y$ times on average.",
-        "translation": "至少能比起那些平均战败 $VAL|Y$ 次的人好一点.",
+        "translation": "至少能比起那些平均战败 $VAL|Y$ 次的人好一点。",
         "stage": 1
     },
     {
         "key": "stat_army_kills_desc:0",
         "original": "Each year about $VAL|Y$ enemy combatants fell to our fire and steel.",
-        "translation": "每年大约$VAL|Y$ 名敌人倒在我们的火力和铁蹄下.",
+        "translation": "每年大约 $VAL|Y$ 名敌人倒在我们的火力和铁蹄下。",
         "stage": 1
     },
     {
         "key": "stat_army_kills_desc_server:0",
         "original": "Other players slaughtered on average $VAL|Y$ per year.",
-        "translation": "部分玩家每年平均每年消灭$VAL|Y$名敌人.",
+        "translation": "其他玩家每年平均每年消灭 $VAL|Y$ 名敌人。",
         "stage": 1
     },
     {
         "key": "stat_army_kills_desc_server_better:1",
         "original": "Other wimpy players slaughtered only $VAL|Y$ per year.",
-        "translation": "部分胆小鬼每年仅仅消灭$VAL|Y$ 名敌人.",
+        "translation": "部分胆小鬼每年仅仅消灭 $VAL|Y$ 名敌人。",
         "stage": 1
     },
     {
         "key": "stat_army_kills_desc_server_worse:1",
         "original": "We need better discipline to beat the average of $VAL|Y$ per year.",
-        "translation": "我们需要更好的训练度来超过每年平均消灭$VAL|Y$人 .",
+        "translation": "我们需要更好的训练度才能超过每年平均消灭 $VAL|Y$ 人。",
         "stage": 1
     },
     {
         "key": "stat_navy_kills_desc:0",
         "original": "Each year about $VAL|Y$ enemy ships fell to our broadsides.",
-        "translation": "每年大约 $VAL|Y$ 艘敌方舰船被我们击沉.",
+        "translation": "每年大约 $VAL|Y$ 艘敌方舰船被我们击沉。",
         "stage": 1
     },
     {
         "key": "stat_navy_kills_desc_server:0",
         "original": "Other players sank on average $VAL|Y$ ships per year.",
-        "translation": "部分玩家每年平均击沉 $VAL|Y$ 艘舰船.",
+        "translation": "其他玩家每年平均击沉 $VAL|Y$ 艘舰船。",
         "stage": 1
     },
     {
         "key": "stat_navy_kills_desc_server_better:1",
         "original": "Beating the average of $VAL|Y$ ships per year.",
-        "translation": "每年平均击沉$VAL|Y$ 艘舰船。",
+        "translation": "每年平均击沉 $VAL|Y$ 艘舰船。",
         "stage": 1
     },
     {
         "key": "stat_navy_kills_desc_server_worse:1",
         "original": "Poor show compared to the average $VAL|Y$ ships per year.",
-        "translation": "与每年击沉 $VAL|Y$ 艘舰船的玩家相比.你的表现差强人意.",
+        "translation": "与每年击沉 $VAL|Y$ 艘舰船的玩家相比，你的表现差强人意。",
         "stage": 1
     },
     {
         "key": "stat_army_losses_desc:0",
         "original": "Each year saw the loss of about $VAL|Y$ units.",
-        "translation": "每年损失$VAL|Y$ 名士兵.",
+        "translation": "每年损失 $VAL|Y$ 名士兵。",
         "stage": 1
     },
     {
         "key": "stat_army_losses_desc_server:0",
         "original": "Other players lost on average $VAL|Y$ units yearly.",
-        "translation": "其他玩家总体上每年损失 $VAL|Y$名士兵 .",
-        "stage": 1
-    },
-    {
-        "key": "stat_army_losses_desc_server_better:1",
-        "original": "More equal-opportunity butchering compared to the average $VAL|Y$ units yearly.",
-        "translation": "比起每年平均损失$VAL|Y$名士兵 ,更像是压倒性的屠杀.",
-        "stage": 1
-    },
-    {
-        "key": "stat_army_losses_desc_server_worse:1",
-        "original": "Other players were squeamish, losing on average $VAL|Y$ units yearly.",
-        "translation": "部分懦弱的玩家每年平均损失 $VAL|Y$ 名士兵.",
+        "translation": "其他玩家总体上每年损失 $VAL|Y$名士兵。",
         "stage": 1
     },
     {
         "key": "stat_navy_losses_desc:0",
         "original": "Each year saw the loss of about $VAL|Y$ ships.",
-        "translation": "每年损失$VAL|Y$ 艘舰船.",
+        "translation": "每年损失 $VAL|Y$ 艘舰船。",
         "stage": 1
     },
     {
         "key": "stat_navy_losses_desc_server:0",
         "original": "Other players lost on average $VAL|Y$ ships per year.",
-        "translation": "其余的玩家平均每年损失$VAL|Y$ 艘舰船.",
+        "translation": "其他玩家平均每年损失 $VAL|Y$ 艘舰船。",
         "stage": 1
     },
     {
         "key": "stat_navy_losses_desc_server_better:1",
         "original": "Our sailors were more dutiful than others who lost $VAL|Y$ ships yearly.",
-        "translation": "比起每年损失$VAL|Y$ 艘舰船的人,我们的船员更加恪守尽职.",
-        "stage": 1
+        "translation": "比起每年损失 $VAL|Y$ 艘舰船的人，我们的船员更加恪守尽职。",
+        "stage": 5
     },
     {
         "key": "stat_navy_losses_desc_server_worse:1",
         "original": "Our copper bottoms served us better than others who lost $VAL|Y$ ships yearly.",
-        "translation": "为我们服务的铜质船底比起那些每年损失$VAL|Y$ 艘船的家伙坚固得多.",
-        "stage": 1
+        "translation": "为我们服务的铜质船底比起那些每年损失 $VAL|Y$ 艘船的家伙坚固得多。",
+        "stage": 5
     },
     {
         "key": "stat_longest_reign_desc:1",
         "original": "Your longest reigning ruler was $NAME|Y$ who guided our nation for $VAL|Y$ years.",
-        "translation": "执政时间最长的统治者是$NAME|Y$，统治我们国家$VAL|Y$年。",
-        "stage": 1
+        "translation": "执政时间最长的统治者是$NAME|Y$，统治我们国家 $VAL|Y$ 年。",
+        "stage": 5
     },
     {
         "key": "stat_longest_reign_desc_invalid:0",
         "original": "You have not yet had any rulers during this campaign.",
-        "translation": "本次战役中你没有统治者.",
-        "stage": 1
+        "translation": "本次战役中你没有统治者。",
+        "stage": 5
     },
     {
         "key": "stat_longest_reign_desc_server:1",
         "original": "The average reign of player rulers was $VAL|Y$ years.",
-        "translation": "玩家统治者执政时间平均是$VAL|Y$年。",
-        "stage": 1
+        "translation": "玩家统治者执政时间平均是 $VAL|Y$ 年。",
+        "stage": 5
     },
     {
         "key": "stat_longest_reign_desc_server_better:1",
         "original": "Superior genes kept us above the rest who averaged $VAL|Y$ years.",
-        "translation": "优良的基因让我们执政时间远远超过那些平均 $VAL|Y$ 年的家伙.",
+        "translation": "优良的基因让我们执政时间远远超过那些平均 $VAL|Y$ 年的家伙。",
         "stage": 1
     },
     {
         "key": "stat_longest_reign_desc_server_worse:1",
         "original": "The average reign of player rulers was a staggering $VAL|Y$ years.",
-        "translation": "令人难以置信,玩家统治者de1平均执政时间 是$VAL|Y$ 年.",
-        "stage": 1
+        "translation": "令人难以置信，玩家统治者的平均执政时间是 $VAL|Y$ 年。",
+        "stage": 5
     },
     {
         "key": "stat_longest_reign_desc_server_invalid:0",
         "original": "The average reign of player rulers was $VAL|Y$ years.",
-        "translation": "玩家统治者执政时间平均是$VAL|Y$ 年",
-        "stage": 1
+        "translation": "玩家统治者执政时间平均是 $VAL|Y$ 年。",
+        "stage": 5
     },
     {
         "key": "stat_countries_removed_desc:0",
         "original": "We wiped $VAL|Y$ nations from the face of the earth.",
-        "translation": "我们彻底消灭 $VAL|Y$ 个国家",
+        "translation": "我们彻底消灭了 $VAL|Y$ 个国家。",
         "stage": 1
     },
     {
         "key": "stat_countries_removed_desc_server:0",
         "original": "Other players removed $VAL|Y$ countries from this world on average.",
-        "translation": "部分玩家平均消灭$VAL|Y$个国家.",
-        "stage": 1
+        "translation": "其他玩家平均消灭 $VAL|Y$ 个国家。",
+        "stage": 5
     },
     {
         "key": "stat_countries_removed_desc_server_better:1",
         "original": "Far more destructive than others who removed $VAL|Y$ nations on average.",
-        "translation": "我们远比那些平均消灭$VAL|Y$个国家的人具有威慑力.",
+        "translation": "我们远比那些平均消灭 $VAL|Y$ 个国家的人具有威慑力。",
         "stage": 1
     },
     {
         "key": "stat_countries_removed_desc_server_worse:1",
         "original": "We should aspire to be like others who wiped out $VAL|Y$ nations on average.",
-        "translation": "我们应该抱有平均消灭$VAL|Y$个国家的野心。",
-        "stage": 1
+        "translation": "我们应该抱有平均消灭 $VAL|Y$ 个国家的野心。",
+        "stage": 5
     },
     {
         "key": "stat_provs_taken_desc:0",
         "original": "Our great nation annexed $VAL|Y$ provinces.",
-        "translation": "我们伟大的国家吞并了$VAL|Y$个省份。",
+        "translation": "我们伟大的国家吞并了 $VAL|Y$ 个省份。",
         "stage": 1
     },
     {
         "key": "stat_provs_taken_desc_server:0",
         "original": "Most players on average absorbed $VAL|Y$.",
-        "translation": "大部分玩家平均吞并了$VAL|Y$个省份。",
-        "stage": 1
-    },
-    {
-        "key": "stat_provs_taken_desc_server_better:1",
-        "original": "Absorbing far more than the average of $VAL|Y$ provinces.",
-        "translation": "吞并的省份远超平均水平$VAL|Y$个省份。",
-        "stage": 1
-    },
-    {
-        "key": "stat_provs_taken_desc_server_worse:1",
-        "original": "Others playes lack ambition, annexing only $VAL|Y$ provinces on average.",
-        "translation": "部分安于现状的玩家，平均上仅吞并了$VAL|Y$省份 .",
+        "translation": "大部分玩家平均吞并了 $VAL|Y$ 个省份。",
         "stage": 1
     },
     {
         "key": "stat_provs_lost_desc:0",
         "original": "$VAL|Y$ provinces were unjustly stolen from us.",
-        "translation": "$VAL|Y$个省份从我们手中被无耻地窃取。",
+        "translation": "$VAL|Y$ 个省份从我们手中被无耻地窃取。",
         "stage": 1
     },
     {
         "key": "stat_provs_lost_desc_server:0",
         "original": "The average player could not hold onto $VAL|Y$ of theirs.",
-        "translation": "总体来说,玩家丢失了他们$VAL|Y$个省份 .",
+        "translation": "玩家平均丢失了 $VAL|Y$ 个省份。",
         "stage": 1
     },
     {
         "key": "stat_provs_lost_desc_server_better:1",
         "original": "We were treated worse than others who averaged $VAL|Y$ losses.",
-        "translation": "比起其他人平均丢失$VAL|Y$个省份，我们表现得更差。",
+        "translation": "比起其他人平均丢失 $VAL|Y$ 个省份，我们表现得更差。",
         "stage": 1
     },
     {
         "key": "stat_provs_lost_desc_server_worse:1",
         "original": "At least we were better than others who lost $VAL|Y$ on average.",
-        "translation": "总体来说,至少我们比一些丢失$VAL|Y$个省份的玩家好一点。",
-        "stage": 1
+        "translation": "至少我们比一些丢失了 $VAL|Y$ 个省份的玩家好一点。",
+        "stage": 5
     },
     {
         "key": "stat_leader_count_desc:0",
         "original": "$VAL|Y$ military leaders served us throughout history.",
-        "translation": "纵观历史,有$VAL|Y$名军事将领效忠于我们 .",
+        "translation": "纵观历史，有 $VAL|Y$ 名军事将领效忠于我们。",
         "stage": 1
     },
     {
         "key": "stat_leader_count_desc_server:0",
         "original": "Making us the top $VAL|Y$% of employers.",
-        "translation": "使我们超越了$VAL|Y$%的雇主.",
+        "translation": "使我们超越了 $VAL|Y$% 的雇主。",
         "stage": 1
     },
     {
         "key": "stat_leader_count_desc_server_better:1",
         "original": "Making us the top $VAL|Y$% of employers.",
-        "translation": "使我们超过了$VAL|Y$%的雇主.",
+        "translation": "使我们超过了 $VAL|Y$% 的雇主。",
         "stage": 1
     },
     {
         "key": "stat_leader_count_desc_server_worse:1",
         "original": "Making us the top $VAL|Y$% of employers.",
-        "translation": "使我们超越了$VAL|Y$%的玩家.",
+        "translation": "使我们超越了 $VAL|Y$% 的雇主。",
         "stage": 1
     },
     {
         "key": "stat_best_leader_desc:0",
         "original": "Legend among legends was $NAME|Y$.",
         "translation": "传说中的传奇人物是$NAME|Y$。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "stat_best_leader_desc_invalid:0",
         "original": "You have not yet had any leaders during this campaign.",
-        "translation": "在这场战役期间,你没有军事将领.",
-        "stage": 1
+        "translation": "在这场战役期间，你没有军事将领。",
+        "stage": 5
     },
     {
         "key": "stat_best_leader_desc_server:0",
         "original": "Better than what $VAL|Y$% of other players possessed.",
-        "translation": "超过了$VAL|Y$%的玩家拥有的将领。",
-        "stage": 1
+        "translation": "超过了 $VAL|Y$% 的玩家拥有的将领。",
+        "stage": 5
     },
     {
         "key": "stat_best_leader_desc_server_better:1",
         "original": "Better than what $VAL|Y$% of other players possessed.",
-        "translation": "超过了$VAL|Y$%的玩家拥有的将领。",
-        "stage": 1
+        "translation": "超过了 $VAL|Y$% 的玩家拥有的将领。",
+        "stage": 5
     },
     {
         "key": "stat_best_leader_desc_server_worse:1",
         "original": "Better than what $VAL|Y$% of other players possessed.",
-        "translation": "超过了$VAL|Y$%的玩家.",
+        "translation": "超过了 $VAL|Y$% 的玩家拥有的将领。",
         "stage": 1
     },
     {
         "key": "stat_best_leader_desc_server_invalid:0",
         "original": "We don't have intel on other nation's military leaders currently.",
-        "translation": "我们目前没有比其他国家优秀的军事领袖.",
-        "stage": 1
+        "translation": "我们目前没有比其他国家优秀的军事领袖。",
+        "stage": 5
     },
     {
         "key": "stat_religion_desc:0",
         "original": "Your Nation's state religion is $NAME|Y$.",
-        "translation": "你国家的宗教文化是$NAME|Y$.",
+        "translation": "你的国教是$NAME|Y$。",
         "stage": 1
     },
     {
         "key": "stat_religion_desc_server:0",
         "original": "$VAL|Y$% of players are our brothers in faith.",
-        "translation": "和$VAL|Y$%的玩家是同一信仰的兄弟.",
-        "stage": 1
+        "translation": "和 $VAL|Y$% 的玩家是同一信仰的兄弟。",
+        "stage": 5
     },
     {
         "key": "stat_best_prov_desc:0",
         "original": "Your grandest province was $NAME|Y$ with $VAL|Y$ development.",
-        "translation": "你最繁荣的省份是$NAME|Y$ ，拥有$VAL|Y$ 发展度.",
-        "stage": 1
+        "translation": "你最繁荣的省份是$NAME|Y$ ，拥有 $VAL|Y$ 发展度。",
+        "stage": 5
     },
     {
         "key": "stat_best_prov_desc_server:0",
         "original": "A marvel of a city, Similar to other players' average of $VAL|Y$ development.",
-        "translation": "一座令人惊叹的城市，平均发展度为$VAL|Y$，与大部分玩家相同。",
+        "translation": "一座令人惊叹的城市，平均发展度为 $VAL|Y$，与玩家平均水平相同。",
         "stage": 1
     },
     {
         "key": "stat_best_prov_desc_server_better:1",
         "original": "A marvel of a city compared to other players' average of $VAL|Y$ development.",
-        "translation": "一座令人惊叹的城市，超过玩家平均$VAL|Y$发展度.",
+        "translation": "一座令人惊叹的城市，超过玩家的平均发展度 $VAL|Y$。",
         "stage": 1
     },
     {
         "key": "stat_best_prov_desc_server_worse:1",
         "original": "Other players have the gall to complain their best shoddy cities averaged $VAL|Y$ development.",
-        "translation": "比起平均$VAL|Y$发展度,部分玩家只能怨天尤人.",
+        "translation": "比起平均 $VAL|Y$ 发展度，其他玩家只能怨天尤人。",
         "stage": 1
     },
     {
         "key": "stat_disasters_desc:0",
         "original": "$VAL|Y$ Disasters rocked our nation.",
-        "translation": "在我们国家爆发了$VAL|Y$场灾祸.",
+        "translation": "在我们国家爆发了 $VAL|Y$ 场灾难。",
         "stage": 1
     },
     {
         "key": "stat_disasters_desc_server:0",
         "original": "On average, players weathered $VAL|Y$ disasters this month.",
-        "translation": "总体来讲，玩家本月遭受$VAL|Y$场灾祸.",
+        "translation": "平均玩家本月遭受了 $VAL|Y$ 场灾难。",
         "stage": 1
     },
     {
         "key": "stat_disasters_desc_server_better:1",
         "original": "On average, players weathered $VAL|Y$ disasters this month.",
-        "translation": "总体来讲，玩家本月遭受了$VAL|Y$场灾祸.",
+        "translation": "平均玩家本月遭受了 $VAL|Y$ 场灾难。",
         "stage": 1
     },
     {
         "key": "stat_disasters_desc_server_worse:1",
         "original": "On average, players weathered $VAL|Y$ disasters this month.",
-        "translation": "总体来讲，玩家平均遭受了$VAL|Y$场灾祸.",
+        "translation": "平均玩家本月遭受了 $VAL|Y$ 场灾难。",
         "stage": 1
     },
     {
@@ -10004,32 +9974,32 @@
     {
         "key": "CAMPAIGN_STATS_DESC:0",
         "original": "View statistics for your current Campaign and compare them to statistics for the Europa Universalis IV community.",
-        "translation": "记录你当前战役数据，并与欧陆风云 IV社区中的统计数据进行较量.",
-        "stage": 1
+        "translation": "记录你当前战役数据，并与欧陆风云 IV 社区中的统计数据进行较量。",
+        "stage": 5
     },
     {
         "key": "NOT_IN_OBSERVER_MODE:0",
         "original": "Not available in Observer mode.",
-        "translation": "观察者模式下不可用",
-        "stage": 1
+        "translation": "观察者模式下不可用。",
+        "stage": 5
     },
     {
         "key": "CAMPAIGN_STATS_NOT_LOGGED_IN:0",
         "original": "To see average statistics for the Europa Universalis IV community, you need to log in with your §YParadox Account§! in the Launcher.",
-        "translation": "请在登陆界面输入你的§YParadox账户§!.以便查看欧陆风云IV社区平均统计数据。",
-        "stage": 1
+        "translation": "请在登陆界面输入你的§Y Paradox 账户§!，以便查看欧陆风云 IV 社区平均统计数据。",
+        "stage": 5
     },
     {
         "key": "CAMPIGN_STATS_FAILED_TO_GET_SERVER_DATA:0",
         "original": "Could not access community data. Please try again later.",
-        "translation": "无法连接社区数据.请稍后再试.",
-        "stage": 1
+        "translation": "无法连接社区数据，请稍后再试。",
+        "stage": 5
     },
     {
         "key": "CAMPIGN_STATS_FAILED_TO_PARSE_SERVER_DATA:0",
         "original": "Could not read community data. Please try again later.",
-        "translation": "无法读取社区数据.请稍后再试.",
-        "stage": 1
+        "translation": "无法读取社区数据，请稍后再试。",
+        "stage": 5
     },
     {
         "key": "ottoman_government_legacy:0",
@@ -10059,6 +10029,30 @@
         "key": "desc_the_faithful_liberated:0",
         "original": "The faithful Copts of this province have been liberated.",
         "translation": "这个省份的科普特信徒们已被解放。",
+        "stage": 1
+    },
+    {
+        "key": "stat_army_losses_desc_server_better:2",
+        "original": "Other players were squeamish, losing on average $VAL|Y$ units yearly.",
+        "translation": "其他懦弱的玩家每年平均损失 $VAL|Y$ 名士兵。",
+        "stage": 1
+    },
+    {
+        "key": "stat_army_losses_desc_server_worse:2",
+        "original": "More equal-opportunity butchering compared to the average $VAL|Y$ units yearly.",
+        "translation": "比起平均每年损失 $VAL|Y$ 名士兵，更像是压倒性的屠杀。",
+        "stage": 1
+    },
+    {
+        "key": "stat_provs_taken_desc_server_better:2",
+        "original": "Others playes lack ambition, annexing only $VAL|Y$ provinces on average.",
+        "translation": "其他安于现状的玩家，平均仅吞并了 $VAL|Y$ 个省份。",
+        "stage": 1
+    },
+    {
+        "key": "stat_provs_taken_desc_server_worse:2",
+        "original": "Absorbing far more than the average of $VAL|Y$ provinces.",
+        "translation": "吞并的省份远超平均水平 $VAL|Y$ 个。",
         "stage": 1
     }
 ]
