@@ -3758,13 +3758,13 @@
     {
         "key": "CN_VERY_EASY:0",
         "original": "Very Easy ($VAL$)",
-        "translation": "非常简单 ($VAL$)",
+        "translation": "极易 ($VAL$)",
         "stage": 1
     },
     {
         "key": "CN_EASY:0",
         "original": "Easy ($VAL$)",
-        "translation": "简单 ($VAL$)",
+        "translation": "容易 ($VAL$)",
         "stage": 1
     },
     {
@@ -3782,7 +3782,7 @@
     {
         "key": "CN_VERY_HARD:0",
         "original": "Very Hard ($VAL$)",
-        "translation": "非常困难 ($VAL$)",
+        "translation": "极难 ($VAL$)",
         "stage": 1
     },
     {
@@ -3800,8 +3800,8 @@
     {
         "key": "CN_TAX_TOOLTIP2:0",
         "original": "§YNormal Values:§! all provinces have their historical tax and manpower values.\\n§YRandom Values:§! all provinces have randomized tax and manpower values.\\n§YFlat Values:§! all provinces have the same tax and manpower values.",
-        "translation": "§Y正常值；§! 所有省份具有史实的税收和人力值。\\n§Y随机值；§! 所有省份具有随机的税收和人力值。\\n§Y同一值；§! 所有省份具有相同的税收和人力值。",
-        "stage": 1
+        "translation": "§Y正常值：§! 所有省份具有史实的税收和人力值。\\n§Y随机值：§! 所有省份具有随机的税收和人力值。\\n§Y同一值：§! 所有省份具有相同的税收和人力值。",
+        "stage": 5
     },
     {
         "key": "CN_ADD_TO_SAVE_TOOLTIP1:0",
@@ -3842,37 +3842,37 @@
     {
         "key": "CN_MAP_TOOLTIP2:0",
         "original": "§YNormal Setup:§! the map will be populated by historical nations and custom nations are §Genabled§!.\\n§YHistorical Setup:§! the map will be populated by historical nations and custom nations are §Rdisabled§!.\\n§YRandom Setup:§! the map will be populated by §Yplayer-created custom nations and randomly generated nations§!.\\n§YCustom Setup:§! the map will be populated §Yonly by player-created custom nations§!, all other provinces will be uncolonized. All nations start with a colonist.",
-        "translation": "§Y普通设置：§!§G启用§!自定义国家，这张地图将由历史国家和已启用的自定义国家组成。\\n§Y历史设置；§!§R禁用§!自定义国家，这张地图仅由历史国家组成。\\n§Y随机设置：§!这张地图将由§Y玩家自定义的国家和随机生成的国家§!组成。\\n§Y自定义设置：§!这张地图仅由§Y玩家自定义的国家§!组成，其他省份都是未殖民省份。所有国家开局获得一个殖民者。",
+        "translation": "§Y普通设置：§!§G启用§!自定义国家，这张地图将由历史国家和已启用的自定义国家组成。\\n§Y史实设置：§!§R禁用§!自定义国家，这张地图仅由历史国家组成。\\n§Y随机设置：§!这张地图将由§Y玩家自定义的国家和随机生成的国家§!组成。\\n§Y自定义设置：§!这张地图仅由§Y玩家自定义的国家§!组成，其他省份都是未殖民省份。所有国家开局获得一个殖民者。",
         "stage": 1
     },
     {
         "key": "CN_MAP_NORMAL:0",
         "original": "Normal Setup",
-        "translation": "正常配置",
+        "translation": "正常设置",
         "stage": 1
     },
     {
         "key": "CN_MAP_RANDOM:0",
         "original": "Random Setup",
-        "translation": "随机配置",
+        "translation": "随机设置",
         "stage": 1
     },
     {
         "key": "CN_MAP_EMPTY:0",
         "original": "Custom Setup",
-        "translation": "自定义配置",
+        "translation": "自定义设置",
         "stage": 1
     },
     {
         "key": "CN_MAP_NO_CUSTOM:0",
         "original": "Historical Setup",
-        "translation": "历史配置",
+        "translation": "史实设置",
         "stage": 1
     },
     {
         "key": "CANT_SELECT_OPTION_FOR_SAVE:0",
         "original": "§RCan't select this option for a savegame! Start a new campaign if you wish to change this.§!",
-        "translation": "§R不能在读取存档时选择这个选项！如果你想改变这个设定，必须重新开始一次战役。§!",
+        "translation": "§R不能在读取存档时选择这个选项！如果你想改变这个设定，必须重新开始一局游戏。§!",
         "stage": 1
     },
     {
@@ -3890,13 +3890,13 @@
     {
         "key": "CUSTOM_NATIONS_REQUIRES_EL_DORADO:0",
         "original": "§RChanging this option requires the El Dorado expansion!§!",
-        "translation": "§R你需要『黄金国』DLC才能改变这个选项!§!",
+        "translation": "§R你需要「黄金国」DLC才能改变这个选项!§!",
         "stage": 1
     },
     {
         "key": "FE_BONUSES_DESC:0",
         "original": "Different §YDifficulty§! settings grant different bonuses to Player or AI nations to adjust the overall game difficulty. If set to Normal, no nations will get bonuses. On Easy, the AI is more forgiving towards Players, whereas on Hard it is far more aggressive.",
-        "translation": "不同的 §Y难度§!设置会为玩家或AI国家提供不同的奖励，以调整游戏的整体难度。如果改为普通，则没有国家有奖励。在简单难度下，AI会对玩家更宽容，而在困难难度下，ai更具攻击性。",
+        "translation": "不同的 §Y难度§!设置会为玩家或AI国家提供不同的奖励，以调整游戏的整体难度。如果改为普通，则没有国家有奖励。在容易难度下，AI会对玩家更宽容，而在困难难度下，Ai更具攻击性。",
         "stage": 1
     },
     {
@@ -4220,7 +4220,7 @@
     {
         "key": "ACHIEVEMENTS_DISABLED_WRONG_DIFFICULTY:1",
         "original": "§Y- 'Difficulty' Option must be set to 'Normal', 'Hard' or 'Very Hard'.§!",
-        "translation": "§Y- 「难度」选项必须被设置为「普通」、「困难」或「非常困难」。§!",
+        "translation": "§Y- 「难度」选项必须被设置为「普通」、「困难」或「极难」。§!",
         "stage": 1
     },
     {
