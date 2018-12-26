@@ -6614,7 +6614,7 @@
     {
         "key": "ASKFORMARCHNEWDESC:0",
         "original": "Do you wish to ask $OVERLORD$ if you can become their march?",
-        "translation": "你希望向$OVERLORD$请愿成为他们的卫戍国吗？",
+        "translation": "你希望向$OVERLORD$请愿，成为他们的卫戍国吗？",
         "stage": 1
     },
     {
@@ -6633,36 +6633,36 @@
         "key": "ASKFORMARCHTITLE:1",
         "original": "Ask to become March",
         "translation": "请求成为卫戍国",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "EMBARGOTITLE:0",
         "original": "Issue Embargo",
         "translation": "宣布禁运",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "REVOKEEMBARGOTITLE:0",
         "original": "Revoke Embargo",
         "translation": "取消禁运",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "REVOKEEMBARGONEWDESC:0",
         "original": "Do you wish to revoke the embargo against $COUNTRY$?",
-        "translation": "你要取消针对 $COUNTRY$ 的禁运吗？",
-        "stage": 1
+        "translation": "你要取消针对$COUNTRY$的禁运吗？",
+        "stage": 5
     },
     {
         "key": "VASSALTITLE:0",
         "original": "Offer Vassalization",
         "translation": "要求附庸",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "VASSALNEWDESC:0",
         "original": "Do you wish to ask $COUNTRY$ to become our Vassal?",
-        "translation": "你要强迫 $COUNTRY$ 成为我们的附庸国吗？",
+        "translation": "你要邀请$COUNTRY$成为我们的附庸国吗？",
         "stage": 1
     },
     {
@@ -28694,7 +28694,7 @@
     {
         "key": "anti_tax_rebels_name:0",
         "original": "$COUNTRY$ Peasants",
-        "translation": "$COUNTRY$ 农民",
+        "translation": "$COUNTRY$的农民",
         "stage": 1
     },
     {
@@ -28712,7 +28712,7 @@
     {
         "key": "revolutionary_rebels_name:0",
         "original": "$COUNTRY$ Revolutionaries",
-        "translation": "$COUNTRY$ 革命者",
+        "translation": "$COUNTRY$革命者",
         "stage": 1
     },
     {
@@ -28784,7 +28784,7 @@
     {
         "key": "noble_rebels_name:0",
         "original": "$COUNTRY$ Noble Rebels",
-        "translation": "$COUNTRY$ 贵族叛军",
+        "translation": "$COUNTRY$的贵族叛军",
         "stage": 1
     },
     {
@@ -28833,12 +28833,12 @@
         "key": "russian_nation_title:0",
         "original": "Form Russian Nation",
         "translation": "成立俄罗斯",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "russian_nation_desc:0",
         "original": "Through conquest and diplomacy Russia has managed to transform from a mere settlement into a dominant principality. After several eastern expeditions the Mongol hordes have finally been subdued and a centralized Russian state, ruled under the suzerainty of the Tsar, is emerging. Influences from Western Europe are helping us modernize and reform our nation and Western style of education is being adopted.",
-        "translation": "通过征服以及外交，俄罗斯已经成功从纯粹的聚集地转变为一个大公国.经过几次的东征，蒙古汗国也终于被征服，一个由沙皇统治的集权式俄罗斯国家崛起了.来自西欧的影响正帮助我们实现现代化以及改革我们的国家，同时西式的教育也会被采用.",
+        "translation": "通过征服以及外交，俄罗斯已经成功从罗斯人聚居地转变为一个大公国。经过几次东征，蒙古汗国也终于被征服，一个由沙皇统治的集权式俄罗斯国家崛起了。来自西欧的影响正帮助我们实现现代化，改革我们的国家。同时，我国也会采用西式教育。",
         "stage": 1
     },
     {
@@ -33242,7 +33242,7 @@
     {
         "key": "subjugate_westphalia_desc:0",
         "original": "The Kingdom of Westphalia has been created, this included several small areas that were considered legitimate parts of Prussia. Using these lands as a pretext we can acquire all of Westphalia.",
-        "translation": "威斯特法利亚王国已经成立，其中包括了几小块普鲁士的合法领土.以这些领土作为借口我们可以征服整个威斯特法利亚.",
+        "translation": "威斯特法利亚王国成立了，其中包括了几小块普鲁士的合法领土。以此为由我们可以征服整个威斯特法利亚。",
         "stage": 1
     },
     {
@@ -39063,7 +39063,7 @@
         "key": "the_khalifah_title:0",
         "original": "Adopt the Title of Khalifa",
         "translation": "采用哈里发头衔",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "the_khalifah_desc:0",
