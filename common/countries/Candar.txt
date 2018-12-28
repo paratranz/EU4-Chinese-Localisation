@@ -28,60 +28,60 @@ historical_units = {
   persian_rifle
 }
 monarch_names = {
-  "Süleyman #1" = 30
-  "Ibrahim #1" = 30
   "Adil #1" = 20
-  "Bayezid #1" = 20
-  "Isfendiyar #0" = 20
-  "Ali #0" = 10
-  "Mehmed #0" = 10
-  "Abdulmecid #0" = 10
-  "Musa #0" = 10
   "Isa #0" = 10
-  "Ishak #0" = 0
   "Kamer #0" = 0
   "Kasim #0" = 0
   "Korkud #0" = 0
   "Ömer #0" = 0
-  "Seyfettin #0" = 0
-  "Yusuf #0" = 5
   "Aydin #0" = 0
-  "Iskender #0" = 0
-  "Davud #0" = 0
-  "Hasan #0" = 0
-  "Hüseyin #0" = 0
   "Zeyneb #0" = -1
   "Emine #0" = -1
-  "Hatice #0" = -1
   "Halime #0" = -1
   "Havva #0" = -1
   "Gamze #0" = -1
   "Hanife #0" = -1
   "Melis #0" = -1
-  "Rabia #0" = -1
   "Umut #0" = -1
   "Ziynet #0" = -1
   "Zübeyde #0" = -1
-  "帖木儿 亚曼 坎达尔 #1" = 20  # Temür Yaman Candar #1
+  "帖木儿 亚曼 詹达尔 #1" = 20  # Temür Yaman Candar #1
+  "苏莱曼 #1" = 30  # Süleyman #1
+  "易卜拉欣 #1" = 30  # Ibrahim #1
+  "巴耶济德 #1" = 20  # Bayezid #1
+  "伊斯凡迪亚尔 #0" = 20  # Isfendiyar #0
+  "阿里 #0" = 10  # Ali #0
   "穆拉德 #0" = 10  # Murad #0
   "帖木儿 #0" = 20  # Temür #0
+  "穆罕默德 #0" = 10  # Mehmed #0
+  "阿卜杜勒麦济德 #0" = 10  # Abdulmecid #0
+  "穆萨 #0" = 10  # Musa #0
+  "易斯哈格 #0" = 0  # Ishak #0
+  "赛义夫丁 #0" = 0  # Seyfettin #0
   "雅库布 #0" = 5  # Yakub #0
+  "优素福 #0" = 5  # Yusuf #0
+  "伊斯坎德尔 #0" = 0  # Iskender #0
+  "达吾德 #0" = 0  # Davud #0
+  "哈桑 #0" = 0  # Hasan #0
+  "胡赛因 #0" = 0  # Hüseyin #0
+  "哈提杰 #0" = -1  # Hatice #0
+  "拉比娅 #0" = -1  # Rabia #0
   "莎菲耶 #0" = -1  # Safiye #0
 }
 leader_names = {
   "Alemdar"
   "Amasyali"
   "Ayas"
-  "Bali"
-  "Barbaros"
-  "Bayram"
-  "Cezzar"
-  "Çandarli"
-  "Çelebi"
-  "Cerrah"
-  "Çerkes"
-  "Civan"
-  "Çuhadar"
+  "巴里"  # Bali
+  "巴巴洛斯"  # Barbaros
+  "拜拉姆"  # Bayram
+  "杰扎尔"  # Cezzar
+  "阐达尔利"  # Çandarli
+  "切莱比"  # Çelebi
+  "杰拉赫"  # Cerrah
+  "切尔克斯"  # Çerkes
+  "济万"  # Civan
+  "楚哈达尔"  # Çuhadar
   "Damad"
   "Dervis"
   "Defterdar"
@@ -136,11 +136,11 @@ leader_names = {
 }
 ship_names = {
   "帖木儿 亚曼"  # Temür Yaman
-  "Bayezid"
-  "Candaroglu"
-  "Isfendiyar"
-  "Süleyman"
-  "Kastamonu"
+  "巴耶济德"  # Bayezid
+  "詹达尔奥卢"  # Candaroglu
+  "伊斯凡迪亚尔"  # Isfendiyar
+  "苏莱曼"  # Süleyman
+  "苏莱曼"  # Kastamonu
   "Tosya"
   "Saraydüzü"
   "Devrekani"
@@ -148,7 +148,7 @@ ship_names = {
   "Daday"
   "Bozkuri"
   "Küre"
-  "Arac"
+  "阿拉吉"  # Arac
   "Kargi"
   "Hanönü"
 }
