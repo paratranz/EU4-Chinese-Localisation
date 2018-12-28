@@ -28,44 +28,19 @@ historical_units = {
   reformed_steppe_rifles
 }
 monarch_names = {
-  "Abdul-Latif #0" = 20
-  "Abdul-Rahman #0" = 40
-  "Abdullah #0" = 20
   "Agalak #0" = 20
-  "Ahmad #0" = 50
   "Ak Köbek #0" = 40
-  "Arab Shah #1" = 20
   "Bek Bulat #0" = 20
-  "Bolaq #1" = 20
-  "Cherkes #1" = 20
   "Chokra #1" = 20
-  "Daniyal #0" = 20
   "Darwish #1" = 20
   "Darwish Ali #0" = 20
-  "Devlet Berdi #0" = 20
-  "Hajji Muhammad #1" = 20
-  "Husayn #0" = 30
-  "Ibak #0" = 20
-  "Ibrahim #0" = 50
   "Ilham #0" = 20
   "Ishim #0" = 20
-  "Jabbar Berdi #1" = 20
   "Jalal al-Din #1" = 20
   "Jan Ali #0" = 20
   "Janay #0" = 20
   "Jumaduq #0" = 20
-  "Kebek #1" = 20
   "Khalil #0" = 30
-  "Khaqan Beg #1" = 20
-  "Mahmud #0" = 80
-  "Mahmudak #0" = 50
-  "Mamai #0" = 20
-  "Mamuk #0" = 30
-  "Mansur #0" = 20
-  "Muhammad #0" = 50
-  "Mustafa Ali #0" = 20
-  "Nogai #0" = 20
-  "Pulad #1" = 20
   "Qadir Berdi #1" = 20
   "Ibtisam #0" = -1
   "Jalila #0" = -1
@@ -73,15 +48,40 @@ monarch_names = {
   "Layla #0" = -1
   "Sharifa #0" = -1
   "阿不都 克里木 #0" = 40  # Abdul-Karim #0
+  "阿不都 剌迪甫 #0" = 20  # Abdul-Latif #0
+  "奥都剌合蛮 #0" = 40  # Abdul-Rahman #0
+  "奥都剌 #0" = 20  # Abdullah #0
+  "阿合马 #0" = 50  # Ahmad #0
   "阿里别哥 #0" = 20  # Ali Beg #0
+  "阿剌卜沙 #1" = 20  # Arab Shah #1
   "阿儿思兰 #0" = 20  # Arslan #0
   "八剌 #1" = 30  # Baraq #1
+  "不剌合 #1" = 20  # Bolaq #1
+  "彻尔客思 #1" = 20  # Cherkes #1
+  "答尼勒 #0" = 20  # Daniyal #0
+  "道剌特 别儿迪 #0" = 20  # Devlet Berdi #0
   "也迪古 #0" = 20  # Edigu #0
+  "哈只 马黑麻 #1" = 20  # Hajji Muhammad #1
+  "忽辛 #0" = 30  # Husayn #0
+  "亦必合 #0" = 20  # Ibak #0
+  "亦不剌金 #0" = 50  # Ibrahim #0
+  "札巴儿 别儿迪 #1" = 20  # Jabbar Berdi #1
   "札尼别 #1" = 20  # Jani Beg #1
   "克里木 别儿迪 #1" = 20  # Karim Berdi #1
+  "怯别 #1" = 20  # Kebek #1
+  "合罕别 #1" = 20  # Khaqan Beg #1
   "库楚克 马黑麻 #0" = 40  # Küchük Muhammad #0
   "库楚 #0" = 20  # Kuchum #0
+  "马合谋 #0" = 80  # Mahmud #0
+  "马合木帖克 #0" = 50  # Mahmudak #0
+  "马麦 #0" = 20  # Mamai #0
+  "马穆克 #0" = 30  # Mamuk #0
+  "满速儿 #0" = 20  # Mansur #0
+  "马黑麻 #0" = 50  # Muhammad #0
   "木塔撒 #0" = 20  # Murtaza #0
+  "穆斯塔法 阿里 #0" = 20  # Mustafa Ali #0
+  "那海 #0" = 20  # Nogai #0
+  "不剌 #1" = 20  # Pulad #1
   "不剌帖木儿 #0" = 20  # Pulad Timur #0
   "卡西姆 #0" = 60  # Qasim #0
   "赛因不剌 #0" = 20  # Sain Bulat #0
@@ -119,9 +119,9 @@ leader_names = {
   "赤那格捏"  # Chinuagene
   "秃鲁伦"  # Toluilun
   "忽都鲁罕"  # Qutughqan
-  "Koke Burilgi"
+  "阔阔 不连勒吉"  # Koke Burilgi
   "苏伦察儿"  # Surenchar
-  "Bayangge"
+  "巴彦格"  # Bayangge
 }
 ship_names = {
   "拔都"  # Batu

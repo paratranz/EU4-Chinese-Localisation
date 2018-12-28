@@ -30,20 +30,12 @@ historical_units = {
 monarch_names = {
   "Janay #0" = 20
   "Jumaduq #0" = 20
-  "Shah Ali #0" = 20
-  "Shaikh Ahmad #0" = 20
-  "Shaikh Awliar #0" = 20
-  "Shaikh Haidar #0" = 20
-  "Shiban #0" = 20
-  "Taibugha #0" = 20
-  "Yadigar Muhammad #0" = 20
-  "Yamghurchi #0" = 20
   "Jalila #0" = -1
   "Janan #0" = -1
   "Sharifa #0" = -1
   "阿不都 克里木 #0" = 40  # Abdul-Karim #0
-  "阿卜杜勒 拉提夫 #0" = 20  # Abdul-Latif #0
-  "阿卜杜勒 拉赫曼 #0" = 40  # Abdul-Rahman #0
+  "阿不都 剌迪甫 #0" = 20  # Abdul-Latif #0
+  "奥都剌合蛮 #0" = 40  # Abdul-Rahman #0
   "阿不都拉哈 #0" = 20  # Abdullah #0
   "阿嘎剌 #0" = 20  # Agalak #0
   "艾哈迈德 #0" = 50  # Ahmad #0
@@ -53,8 +45,8 @@ monarch_names = {
   "阿儿思兰 #0" = 20  # Arslan #0
   "八剌 #0" = 30  # Baraq #0
   "别克不剌惕 #0" = 20  # Bek Bulat #0
-  "伯剌 #0" = 20  # Bolaq #0
-  "彻儿库思 #0" = 20  # Cherkes #0
+  "不剌合 #0" = 20  # Bolaq #0
+  "彻尔客思 #0" = 20  # Cherkes #0
   "忽剌 #0" = 20  # Chokra #0
   "达尼雅尔 #0" = 20  # Daniyal #0
   "达尔维什 #0" = 20  # Darwish #0
@@ -63,7 +55,7 @@ monarch_names = {
   "也迪古 #0" = 20  # Edigu #0
   "哈只 马黑麻 #0" = 20  # Hajji Muhammad #0
   "侯赛因 #0" = 30  # Husayn #0
-  "伊巴克 #0" = 20  # Ibak #0
+  "亦必合 #0" = 20  # Ibak #0
   "易卜拉欣 #0" = 50  # Ibrahim #0
   "伊尔哈木 #0" = 20  # Ilham #0
   "伊希姆 #0" = 20  # Ishim #0
@@ -74,7 +66,7 @@ monarch_names = {
   "克里木 别儿迪 #0" = 20  # Karim Berdi #0
   "怯别 #0" = 20  # Kebek #0
   "哈里尔 #0" = 30  # Khalil #0
-  "哈罕别 #0" = 20  # Khaqan Beg #0
+  "合罕别 #0" = 20  # Khaqan Beg #0
   "库楚克 马黑麻 #0" = 40  # Küchük Muhammad #0
   "库楚 #0" = 20  # Kuchum #0
   "马合木 #0" = 80  # Mahmud #0
@@ -90,18 +82,25 @@ monarch_names = {
   "不剌 帖木儿 #0" = 20  # Pulad Timur #0
   "哈迪儿 别儿迪 #0" = 20  # Qadir Berdi #0
   "哈斯木 #0" = 60  # Qasim #0
-  "萨因 不剌德 #0" = 20  # Sain Bulat #0
+  "赛因不剌 #0" = 20  # Sain Bulat #0
   "沙蒂罕 #0" = 20  # Satilghan #0
   "赛亦德 阿黑麻 #0" = 60  # Sayid Ahmad #0
   "赛亦德 布儿罕 #0" = 20  # Sayid Burhan #0
   "赛亦德 马哈木 #0" = 20  # Sayid Mahmud #0
   "撒迪别 #0" = 20  # Shadi Beg #0
+  "沙 阿里 #0" = 20  # Shah Ali #0
+  "洒黑 阿黑麻 #0" = 20  # Shaikh Ahmad #0
+  "洒黑 阿吾俩 #0" = 20  # Shaikh Awliar #0
+  "洒黑 海答儿 #0" = 20  # Shaikh Haidar #0
+  "昔班 #0" = 20  # Taibugha #0
   "帖木儿 #0" = 20  # Timur #0
   "帖木儿 忽都鲁 #0" = 20  # Timur Qutlugh #0
   "脱脱迷失 #0" = 20  # Toqtamish #0
   "兀鲁 马黑麻 #0" = 40  # Ulugh Muhammad #0
   "兀鲁思 #0" = 20  # Urus #0
   "兀鲁思 马黑麻 #0" = 20  # Urus Muhammad #0
+  "雅迪格尔 马黑麻 #0" = 20  # Yadigar Muhammad #0
+  "黯忽儿赤 #0" = 20  # Yamghurchi #0
   "法蒂玛 #0" = -1  # Fatima #0
   "伊卜蒂萨姆 #0" = -1  # Ibtisam #0
   "莱拉 #0" = -1  # Layla #0
@@ -111,11 +110,11 @@ leader_names = {
   "哈剌 失鲁阿"  # Qara Chinua
   "Delger Qyugun"
   "阿里黑哥"  # Arigh Gal
-  "胡库 额尔德尼"  # Koke Erdene
-  "Suren Unegen"
+  "库库 额尔德尼"  # Koke Erdene
+  "苏仁忽捏坚"  # Suren Unegen
   "Tegus Enq"
-  "Qadandei"
-  "Burilgigene"
+  "合丹台"  # Qadandei
+  "不连勒吉格捏"  # Burilgigene
   "阿里哥帖尼"  # Arighteni
   "Yekecher"
   "苏伦海"  # Surenqai
