@@ -41336,14 +41336,14 @@
     {
         "key": "HEIR_CLAIM_WEAKER_THAN:0",
         "original": "Heir Claim weaker than ",
-        "translation": "继承人正统性弱于",
-        "stage": 1
+        "translation": "继承人宣称弱于",
+        "stage": 5
     },
     {
         "key": "HEIR_CLAIM_STRONGER_THAN:0",
         "original": "Heir Claim stronger than ",
-        "translation": "继承人正统性强于",
-        "stage": 1
+        "translation": "继承人宣称强于",
+        "stage": 5
     },
     {
         "key": "NO_QUEEN:0",
@@ -41642,7 +41642,7 @@
     {
         "key": "NOCLAIMDESC:0",
         "original": "They must have no legal heir, or an heir with a weak claim.",
-        "translation": "他们必须没有合法继承人，或者继承人正统性低.",
+        "translation": "他们必须没有合法继承人，或者继承人宣称弱。",
         "stage": 1
     },
     {
@@ -42284,20 +42284,20 @@
     {
         "key": "HAVE_HORDE_UNITY_LESS_THAN:0",
         "original": "Have less Horde Unity than ",
-        "translation": "部落团结低于",
+        "translation": "游牧团结低于",
         "stage": 5
     },
     {
         "key": "HAVE_HORDE_UNITY_MORE_THAN:0",
         "original": "Have Horde Unity of at least ",
-        "translation": "部落团结达到",
+        "translation": "游牧团结达到",
         "stage": 5
     },
     {
         "key": "HORDE_UNITY_EFFECT:0",
         "original": "$DIRECTION$ $VALUE$ Horde Unity.\\n",
-        "translation": "$DIRECTION$$VALUE$部落团结。\\n",
-        "stage": 1
+        "translation": "$DIRECTION$$VALUE$游牧团结。\\n",
+        "stage": 5
     },
     {
         "key": "LEGITIMACY_EFFECT:0",
@@ -48075,7 +48075,7 @@
         "key": "steppe_horde_legacy:1",
         "original": "Steppe Horde",
         "translation": "草原部落",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "steppe_horde_legacy_desc:0",

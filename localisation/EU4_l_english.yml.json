@@ -5936,8 +5936,8 @@
     {
         "key": "ADM_SCORE_UNITY:0",
         "original": "Horde Unity: $VAL$\\n",
-        "translation": "部落团结：$VAL$\\n",
-        "stage": 1
+        "translation": "游牧团结：$VAL$\\n",
+        "stage": 5
     },
     {
         "key": "ADM_SCORE_REPTRAD:0",
@@ -7970,8 +7970,8 @@
     {
         "key": "YEARLY_HORDE_UNITY:0",
         "original": "Yearly Horde Unity",
-        "translation": "年度部落团结变化",
-        "stage": 1
+        "translation": "年度游牧团结",
+        "stage": 5
     },
     {
         "key": "YEARLY_REPUBLICAN_TRADITION:0",
@@ -8060,43 +8060,43 @@
     {
         "key": "YOU_YEARLY_HORDE_UNITY_NO:0",
         "original": "§YHorde Unity§!\\nCurrently your Horde Unity is not changing.",
-        "translation": "§Y部落团结§!\\n你的部落团结当前没有变化。",
+        "translation": "§Y游牧团结§!\\n你的游牧团结当前没有变化。",
         "stage": 1
     },
     {
         "key": "THEY_YEARLY_HORDE_UNITY_NO:0",
         "original": "§YHorde Unity§!\\nCurrently your Horde Unity is not changing.",
-        "translation": "§Y部落团结§!\\n部落团结当前没有变化。",
+        "translation": "§Y游牧团结§!\\n你的游牧团结当前没有变化。",
         "stage": 1
     },
     {
         "key": "YOU_YEARLY_HORDE_UNITY:0",
         "original": "§YHorde Unity§!\\nYour Horde Unity changes by §Y$VALUE$§! every year, due to:\\n",
-        "translation": "§Y部落团结§!\\n基于以下因素，你的部落团结每年将有§Y$VALUE$§!变化：\\n",
+        "translation": "§Y游牧团结§!\\n基于以下因素，你的游牧团结每年将有§Y$VALUE$§!变化：\\n",
         "stage": 1
     },
     {
         "key": "THEY_YEARLY_HORDE_UNITY:0",
         "original": "§YHorde Unity§!\\nTheir Horde Unity changes by §Y$VALUE$§! every year, due to:\\n",
-        "translation": "§Y部落团结§!\\n基于以下因素，他们的部落团结每年将有§Y$VALUE$§!变化：\\n",
+        "translation": "§Y游牧团结§!\\n基于以下因素，他们的游牧团结每年将有§Y$VALUE$§!变化：\\n",
         "stage": 1
     },
     {
         "key": "CVIEW_HORDE_UNITY_DESC:1",
         "original": "Horde Unity is a measure of the how much support a Khan has from the tribes. It goes down over time and is increased by §Ylooting and razing provinces§!. Hordes with low unity are likely to succumb to internal strife.",
-        "translation": "部落团结度用于衡量一位汗王能从部族中获得多少支持。它会随时间而降低，但能通过§Y劫掠省份§!来增加。低团结度的部落很可能会出现内部冲突。",
+        "translation": "游牧团结用于衡量一位汗王能从部族中获得多少支持。它会随时间而降低，但能通过§Y劫掠省份§!来增加。低团结的游牧部落很可能会出现内部冲突。",
         "stage": 1
     },
     {
         "key": "YOU_HORDE_UNITY_EFFECTS:0",
         "original": "§YEffects from your current Horde Unity:§!",
-        "translation": "§Y你当前的部落团结所提供的效果：§!",
+        "translation": "§Y你当前的游牧团结所提供的效果：§!",
         "stage": 1
     },
     {
         "key": "THEY_HORDE_UNITY_EFFECTS:0",
         "original": "§YEffects from their current Horde Unity:§!",
-        "translation": "§Y他们当前的部落团结所提供的效果：§!",
+        "translation": "§Y他们当前的游牧团结所提供的效果：§!",
         "stage": 1
     },
     {
@@ -10478,7 +10478,7 @@
     {
         "key": "STR_HORDE_UNITY:0",
         "original": "gain $VAL|G$ Horde Unity",
-        "translation": "获得$VAL|G$部落团结",
+        "translation": "获得$VAL|G$游牧团结",
         "stage": 1
     },
     {
@@ -10520,7 +10520,7 @@
     {
         "key": "STR_GOV_ALREADY_MAX_HORDE_UNIT:0",
         "original": "Horde Unity is already at its highest!",
-        "translation": "部落团结已达到最大！",
+        "translation": "游牧团结已达到最大！",
         "stage": 1
     },
     {
@@ -10634,7 +10634,7 @@
     {
         "key": "ABDICATE_LOW_HORDE_UNITY:0",
         "original": "Horde Unity must be at least $NEED|Y$ if you wish to Abdicate.",
-        "translation": "需要至少$NEED|Y$部落团结才允许逊位。",
+        "translation": "需要至少$NEED|Y$游牧团结才允许逊位。",
         "stage": 1
     },
     {
@@ -10658,14 +10658,14 @@
     {
         "key": "ABDICATE_PERFORM_IRO2_HORDE:0",
         "original": "There will be a hit of $HIT|R$ Horde Unity and $PRESTIGE_HIT|R$ prestige from this action, after the Heir's claim has been considered.",
-        "translation": "逊位之后，经过继承人正统性的影响，部落团结将降低$HIT|R$，威望将降低$PRESTIGE_HIT|R$。",
-        "stage": 1
+        "translation": "逊位之后，经过继承人宣称的影响，游牧团结将降低$HIT|R$，威望将降低$PRESTIGE_HIT|R$。",
+        "stage": 5
     },
     {
         "key": "ABDICATE_PERFORM_IRO2:0",
         "original": "There will be a hit of $HIT|R$ Legitimacy and $PRESTIGE_HIT|R$ prestige from this action, after the Heir's claim has been considered.",
-        "translation": "逊位之后，经过继承人正统性的影响，正统性将降低$HIT|R$，威望将降低$PRESTIGE_HIT|R$。",
-        "stage": 1
+        "translation": "逊位之后，经过继承人宣称的影响，正统性将降低$HIT|R$，威望将降低$PRESTIGE_HIT|R$。",
+        "stage": 5
     },
     {
         "key": "ABDICATETITLE:0",
@@ -28058,7 +28058,7 @@
     {
         "key": "LOOT_HORDE_UNITY:0",
         "original": "We will gain $CHANGE$ Horde unity due to this.",
-        "translation": "因此我们将获得$CHANGE$的部落团结",
+        "translation": "因此我们将获得$CHANGE$的部落团结。",
         "stage": 1
     },
     {
