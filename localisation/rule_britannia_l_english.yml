@@ -377,7 +377,7 @@ l_english:
  SELECT_NAVAL_DOCTRINE_HEADER:0 "选择海军学说"
  NO_NAVAL_DOCTRINE_SELECTED:3 "没有选择海军学说。\n\n我们的海军已经足够强大，现在可以选择一个学说来让我们勇敢的水手效仿。这将提供我们海军一个特殊的永久优势。"
  CURRENT_NAVAL_DOCTRINE:0 "当前为："
- NAVAL_DOCTRINE_NOT_ENOUGH_FORCE_LIMIT:2 "§R你必须使你的海军力量达到上限的 $VALUE$ 才能够去更改你的海军学说。§!"
+ NAVAL_DOCTRINE_NOT_ENOUGH_FORCE_LIMIT:2 "§R你必须具有至少$VALUE$的海军规模上限才能更改你的海军学说。§!"
  NAVAL_DOCTRINE_COST:0 "由于你的海军拥有$SAILORS|Y0$水手的规模，选择这一海军学说将花费你$COST|Y2$¤。"
  NAVAL_DOCTRINE_NOT_AVAILABLE:1 "§R你不能选择这个海军学说：§!"
  NAVAL_DOCTRINE_CHANGE_TITLE:0 "海军学说变更"
