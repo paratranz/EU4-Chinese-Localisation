@@ -21680,8 +21680,8 @@
     {
         "key": "M_HOME_BUTTON:0",
         "original": "Go to Capital Province",
-        "translation": "转到首都行省",
-        "stage": 1
+        "translation": "前往首都省份",
+        "stage": 5
     },
     {
         "key": "PTI:0",
@@ -22862,7 +22862,7 @@
     {
         "key": "desc_happy_provinces:0",
         "original": "Our decentralized policies have meant that the local provinces are providing extra contributions to the treasury.",
-        "translation": "我们的非集权式政策意味着地方行省可以为我们的国库提供额外的收入",
+        "translation": "我们的非集权式政策意味着地方行省可以为我们的国库提供额外的收入。",
         "stage": 1
     },
     {
@@ -27470,7 +27470,7 @@
     {
         "key": "daimyo_fab_claim_desc:0",
         "original": "We can forge a claim on the province of a fellow Daimyo, although at the cost of Infamy.",
-        "translation": "我们可以伪造这个行省处于某大名的所有权下，代价是背负骂名",
+        "translation": "我们可以以背负骂名为代价，伪造属于大名的省份的宣称。",
         "stage": 1
     },
     {
@@ -27482,13 +27482,13 @@
     {
         "key": "shogun_fab_claim_desc:0",
         "original": "We can forge a claim on the province of a fellow Daimyo, although at the cost of Infamy.",
-        "translation": "我们可以伪造这个行省处于某大名的所有权下，代价是背负骂名",
+        "translation": "我们可以以背负骂名为代价，伪造属于大名的省份的宣称。",
         "stage": 1
     },
     {
         "key": "CCOT_NEIGHBOUR:0",
         "original": "This province is adjacent to §Y$WHO$§W and can thus not be a trade node itself.",
-        "translation": "该行省与§Y$WHO$§W接壤因此本身不能成为贸易节点",
+        "translation": "该省份与§Y$WHO$§W接壤因此本身不能成为贸易节点。",
         "stage": 1
     },
     {
@@ -27638,7 +27638,7 @@
     {
         "key": "tut_miss_19_hint:0",
         "original": "To send a merchant to a Trade Node, click on a province that sends its produce to that node, then click on the button to access the Trade Node view. Merchants are sent through clicking on the send-button with a merchant icon.",
-        "translation": "要想派遣一名商人去一个贸易节点，请点击一个向该节点输送产品的行省，然后点击按钮进入贸易节点界面.通过商人图标上的派遣按钮就能将商人派遣过去了.",
+        "translation": "要想派遣一个商人团去一个贸易节点，请点击一个向该节点输送产品的省份，然后点击按钮进入贸易节点界面。通过商人团图标上的派遣按钮就能将商人团派遣过去了。",
         "stage": 1
     },
     {
@@ -27722,19 +27722,19 @@
     {
         "key": "CCOT_NOT_OWNED:0",
         "original": "You can only create Trade Nodes in provinces that you own.",
-        "translation": "你只能在你拥有的行省里创建贸易节点",
+        "translation": "你只能在你拥有的省份里创建贸易节点。",
         "stage": 1
     },
     {
         "key": "CCOT_NOT_CONTROLLED:0",
         "original": "You must have the province under your control if you want to create a Trade Node.",
-        "translation": "如果你想要创建一个贸易节点就必须有该行省的控制权",
+        "translation": "如果你想要创建一个贸易节点就必须有该省份的控制权。",
         "stage": 1
     },
     {
         "key": "CCOT_SIEGE:0",
         "original": "If there is a siege in a province, it is not possible to create a new Trade Node.",
-        "translation": "如果行省被围攻则无法在该行省创建新的贸易节点",
+        "translation": "无法在被围攻的省份创建新的贸易节点。",
         "stage": 1
     },
     {
@@ -27752,13 +27752,13 @@
     {
         "key": "CCOT_ALREADY:0",
         "original": "There is already a Trade Node in this province.",
-        "translation": "该行省已有一个贸易节点",
+        "translation": "该省份已有一个贸易节点",
         "stage": 1
     },
     {
         "key": "CCOT_MIN_VALUE:0",
         "original": "A province can only create a new Trade Node if the node it is attached to is rich enough to support a split. $WHO$ is only valued at $CURRENT$, while it needs to be worth at least $VALUE$.",
-        "translation": "一个行省只有当其附属的贸易节点非常富有时才能通过分离创建一个新的贸易节点.$WHO$的价值只有$CURRENT$，而创建新节点至少需要$VALUE$的价值",
+        "translation": "一个省份只有当其附属的贸易节点非常富有时才能通过分离创建一个新的贸易节点。$WHO$的价值只有$CURRENT$，而创建新节点至少需要$VALUE$的价值。",
         "stage": 1
     },
     {
@@ -27770,7 +27770,7 @@
     {
         "key": "CCOT_CREATE_COT:0",
         "original": "Create a new Trade Node in this province for $VALUE$.",
-        "translation": "在该行省花费$VALUE$创建一个新的贸易节点",
+        "translation": "在该省份花费$VALUE$创建一个新的贸易节点。",
         "stage": 1
     },
     {
@@ -27806,25 +27806,25 @@
     {
         "key": "DCOT_NOT_OWNED:0",
         "original": "You can only destroy Trade Nodes in your own provinces.",
-        "translation": "你只能破环你自己行省里的贸易节点",
+        "translation": "你只能破环属于省份里的贸易节点。",
         "stage": 1
     },
     {
         "key": "DCOT_NOT_CONTROLLED:0",
         "original": "You can only destroy Trade Nodes in your provinces you control.",
-        "translation": "你只能毁掉你自己控制行省的贸易节点",
+        "translation": "你只能破环你控制省份的贸易节点。",
         "stage": 1
     },
     {
         "key": "DCOT_SIEGE:0",
         "original": "If there is a siege in a province, it is not possible to destroy a Trade Node.",
-        "translation": "如果行省正被围攻，则无法毁掉该行省的贸易节点",
+        "translation": "无法破坏被围攻的省份的贸易节点。",
         "stage": 1
     },
     {
         "key": "DCOT_ALREADY:0",
         "original": "There is no Trade Node in this province.",
-        "translation": "该行省没有贸易节点",
+        "translation": "该省份没有贸易节点。",
         "stage": 1
     },
     {
@@ -27848,7 +27848,7 @@
     {
         "key": "TRADETOFAR:0",
         "original": "The Trade Node is §Y$VAL$§W from our closest province. Our maximum range is §Y$MAX$§W.",
-        "translation": "该贸易节点距我们最近的行省§Y$VAL$§W .我们可支持最长的距离为§Y$MAX$§W.",
+        "translation": "该贸易节点距我们最近的省份§Y$VAL$§W。我们可支持最长的距离为§Y$MAX$§W。",
         "stage": 1
     },
     {
