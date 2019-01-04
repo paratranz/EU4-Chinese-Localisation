@@ -30,10 +30,8 @@ historical_units = {
 }
 monarch_names = {
   "Yadu Raya #0" = 20
-  "Châma Râja #0" = 20
   "Timmaraja #0" = 20
   "Chamaraja #1" = 50
-  "Bettada Devaraja #0" = 10
   "Raja Wadiyar #0" = 10
   "Immadai Raja #0" = 10
   "Kanthirava Narasaraja #0" = 20
@@ -47,13 +45,15 @@ monarch_names = {
   "Manjunatha #0" = 0
   "Mallappa #0" = 0
   "Murthy #0" = 0
-  "Ramachandra #0" = 0
   "Tirumalevaidya #0" = 0
   "Lakshmisha #0" = 0
   "Venkayarya #0" = 0
   "Sujaya #0" = -1
   "Lakshmi #0" = -1
   "Chikka Krishna #0" = -1
+  "查马 拉贾 #0" = 20  # Châma Râja #0
+  "贝塔达 提婆罗阇 #0" = 10  # Bettada Devaraja #0
+  "罗摩旃陀罗 #0" = 0  # Ramachandra #0
 }
 leader_names = {
   "Wodeyar"
@@ -66,7 +66,7 @@ leader_names = {
   "Balija"
   "Setty"
   "Pulayar"
-  "Dasa"
+  "达萨"  # Dasa
   "Billava"
 }
 ship_names = {
@@ -81,7 +81,7 @@ ship_names = {
   "Iniya"
   "Krishna"
   "Lakshmi"
-  "Madhu"
+  "马杜"  # Madhu
   "Meenakshi"
   "Nalini"
   "Pallar"
