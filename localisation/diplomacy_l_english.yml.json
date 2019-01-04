@@ -87,7 +87,7 @@
         "key": "guaranteed:0",
         "original": "Guaranteed",
         "translation": "保证独立",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "alliance:0",
@@ -596,7 +596,7 @@
     {
         "key": "DIPIRO_WARNED:0",
         "original": "Warned by §Y$NAME$§!. §Y$NAME$§! may declare war upon $WHO|Y$ if $WHO|Y$ start a war against a third party.\\nThis warning is valid until §Y$DATE$§!.",
-        "translation": "此国受到了§Y$NAME$§!的警告.如果$WHO|Y$发起一场战争，§Y$NAME$§!将有理由对$WHO|Y$宣战.\\n此警告在§Y$DATE$§!前有效.",
+        "translation": "此国受到了§Y$NAME$§!的警告。如果$WHO|Y$发起一场战争，§Y$NAME$§!将有理由对$WHO|Y$宣战。\\n此警告在§Y$DATE$§!前有效。",
         "stage": 5
     },
     {
@@ -2108,7 +2108,7 @@
     {
         "key": "desc_merchants_slandered:0",
         "original": "The good name of our merchants has been slandered by a foreign power.",
-        "translation": "我们商人团的好名声已经被外国势力诽谤了",
+        "translation": "外国势力诽谤了我们商人团的好名声。",
         "stage": 1
     },
     {
@@ -2120,7 +2120,7 @@
     {
         "key": "desc_recruitment_sabotaged:0",
         "original": "Our military recruitment efforts have been sabotaged by a foreign power.",
-        "translation": "我们的军事征募工作已经被外国势力破坏了",
+        "translation": "外国势力破坏了我们的军事征募工作。",
         "stage": 1
     },
     {
@@ -2138,49 +2138,49 @@
     {
         "key": "IS_SUPPORT_REBELS:0",
         "original": "Is Supporting rebels.",
-        "translation": "正在扶持起义军",
+        "translation": "正在支持叛乱。",
         "stage": 1
     },
     {
         "key": "IS_NOT_SUPPORT_REBELS:0",
         "original": "Is NOT Supporting rebels.",
-        "translation": "未在扶持起义军",
-        "stage": 5
+        "translation": "未在支持叛乱。",
+        "stage": 1
     },
     {
         "key": "LACKING_IDEA:0",
         "original": "We are lacking the proper ideas to do this.",
-        "translation": "我们缺乏相对应的理念",
+        "translation": "我们缺乏相对应的理念。",
         "stage": 1
     },
     {
         "key": "LACKING_SPECIFIC_IDEA:0",
         "original": "We are lacking the idea $IDEA|Y$.",
-        "translation": "我们缺乏 $IDEA|Y$理念",
+        "translation": "我们缺乏$IDEA|Y$理念。",
         "stage": 1
     },
     {
         "key": "LACKING_SPECIAL_IDEA:0",
         "original": "We are lacking $NAME|Y$.",
-        "translation": "我们缺少$NAME|Y$",
+        "translation": "我们缺少$NAME|Y$。",
         "stage": 1
     },
     {
         "key": "IS_INFILTRATE:0",
         "original": "Is Infiltrating administration.",
-        "translation": "正在渗透官僚系统",
+        "translation": "正在渗透官僚系统。",
         "stage": 1
     },
     {
         "key": "IS_NOT_INFILTRATE:0",
         "original": "Is NOT Infiltrating administration.",
-        "translation": "未在渗透官僚系统",
+        "translation": "未在渗透官僚系统。",
         "stage": 1
     },
     {
         "key": "SUPPORT_REBELS_NO_MONEY:0",
         "original": "You lack the $COST$¤ needed to support this rebel faction.",
-        "translation": " 你缺少需要的$COST$¤ 去支持这个叛军派系",
+        "translation": "你至少需要$COST$¤支持这个叛军派系。",
         "stage": 1
     },
     {
@@ -5318,7 +5318,7 @@
     {
         "key": "TRUCE_WITH_COUNTRY:0",
         "original": "$SELECTED|Y$ has a truce with $COUNTRY|Y$ until $DATE|Y$",
-        "translation": "$SELECTED|Y$ 与 $COUNTRY|Y$ 有停战协定直到 $DATE|Y$",
+        "translation": "$SELECTED|Y$与$COUNTRY|Y$有到$DATE|Y$的停战协定",
         "stage": 1
     },
     {
