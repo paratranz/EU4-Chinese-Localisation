@@ -54,9 +54,7 @@ monarch_names = {
   "Mukaddam Shâh #0" = 10
   "Mahmûd Shâh #0" = 10
   "Sallehuddin Shâh #0" = 10
-  "Mahmûd Iskandar Shâh #0" = 10
   "Alauddin Mughayat Shâh #0" = 10
-  "Iskandar Zulkarnain Shâh #0" = 10
   "Alauddin Mansûr Shâh #0" = 10
   "Ahmaddin Shâh #0" = 10
   "Abdul Malik Mansûr Shâh #0" = 10
@@ -76,11 +74,13 @@ monarch_names = {
   "Maimunah #0" = -1
   "Zaharah #0" = -1
   "Ismailiah #0" = -1
-  "Iskandariah #0" = -1
+  "马哈茂德 伊斯坎德尔 沙阿 #0" = 10  # Mahmûd Iskandar Shâh #0
+  "伊斯坎德尔 聚尔卡奈因 沙阿 #0" = 10  # Iskandar Zulkarnain Shâh #0
+  "伊斯坎德里亚 #0" = -1  # Iskandariah #0
 }
 ship_names = {
   "Parameswara"
-  "Sultan Iskandar"
+  "伊斯坎德尔苏丹"  # Sultan Iskandar
   "Bendahara"
   "Laksamana"
   "Temenggung"
