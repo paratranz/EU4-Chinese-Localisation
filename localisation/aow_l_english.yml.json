@@ -86,7 +86,7 @@
     {
         "key": "usury_forgiven:0",
         "original": "Usury Forgiven",
-        "translation": "被免除高利贷",
+        "translation": "放贷罪获赦",
         "stage": 1
     },
     {
@@ -98,7 +98,7 @@
     {
         "key": "forgiveness_for_usury:0",
         "original": "Forgive Usury",
-        "translation": "免除高利贷",
+        "translation": "宽赦放贷罪",
         "stage": 1
     },
     {
@@ -170,7 +170,7 @@
     {
         "key": "LEDGER_TC_PRIVATEER_EFF:0",
         "original": "Privateer",
-        "translation": "私掠效率",
+        "translation": "私掠",
         "stage": 1
     },
     {
@@ -248,7 +248,7 @@
     {
         "key": "CS_IS_SUBJECT:0",
         "original": "$SUBJECTTYPES$ cannot create their own client states.",
-        "translation": "$SUBJECTTYPES$无法创建自定义附庸。",
+        "translation": "$SUBJECTTYPES$无法创建属于其自身的自定义附庸。",
         "stage": 1
     },
     {
@@ -284,7 +284,7 @@
     {
         "key": "PC_NOT_FAST_ENOUGH:0",
         "original": "Your computer is not fast enough to run on this game speed, so you won't notice any major difference compared to lower speeds.",
-        "translation": "你的电脑性能达不到这个运行速度，所以你无法体验到游戏速度的明显提升。",
+        "translation": "你的电脑性能不足以支持此游戏速度，所以你无法体验到游戏速度的明显提升。",
         "stage": 1
     },
     {
@@ -302,13 +302,13 @@
     {
         "key": "AUTO_DUE_TO_GOV:0",
         "original": "Cannot be lower than §Y$VAL$%§! due to being a $WHAT|Y$.",
-        "translation": "$WHAT|Y$的自治度最低为§Y$VAL$%§!。",
+        "translation": "由于$WHAT|Y$而不能低于§Y$VAL$％§!",
         "stage": 1
     },
     {
         "key": "AUTO_DUE_TO_ESTATE:0",
         "original": "Cannot be lower than §Y$VAL$%§! due to being controlled by $WHAT|Y$.",
-        "translation": "处于$WHAT|Y$阶层控制下，自治度最低为§Y$VAL$%§!。",
+        "translation": "由于处在$WHAT|Y$控制下而不能低于§Y$VAL$％§!",
         "stage": 1
     },
     {
@@ -620,7 +620,7 @@
     {
         "key": "HRE_LEAGUE_LEADER_NO_CHANGE_DURING_WAR:0",
         "original": "The leader of this league cannot change during the league war.",
-        "translation": "处于联盟战争中，联盟领袖无法变更。",
+        "translation": "处于联盟战争中时联盟领袖无法变更。",
         "stage": 1
     },
     {
@@ -662,7 +662,7 @@
     {
         "key": "HRE_LEADER_ALWAYS_EMPEROR:0",
         "original": "The Emperor is always the leader of this league.",
-        "translation": "神圣罗马帝国皇帝永远是联盟领袖。",
+        "translation": "神圣罗马帝国皇帝永远是此方联盟的领袖。",
         "stage": 1
     },
     {
