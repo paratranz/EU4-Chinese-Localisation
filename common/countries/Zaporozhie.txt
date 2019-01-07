@@ -33,20 +33,11 @@ historical_units = {
   russian_mass
 }
 monarch_names = {
-  "Kyrilo #0" = 20
-  "Hedeon #0" = 0
-  "Myroslav #0" = 0
-  "Nykon #0" = 0
-  "Olek #0" = 0
-  "Oleksiy #0" = 0
-  "Radomyr #0" = 0
-  "Yevhevniy #0" = 0
-  "Yosip #0" = 0
-  "Yesfir #0" = -1
   "伊凡 #0" = 100  # Ivan #0
   "保罗 #0" = 40  # Pavlo #0
   "博格丹 #4" = 20  # Bogdan #4
   "丹尼尔 #0" = 20  # Danylo #0
+  "西里尔 #0" = 20  # Kyrilo #0
   "佩特罗 #0" = 20  # Petro #0
   "菲利普 #0" = 20  # Pylip #0
   "斯特潘 #0" = 20  # Stepan #0
@@ -62,57 +53,66 @@ monarch_names = {
   "博罗夫斯克 #0" = 0  # Borysko #0
   "博伊科 #0" = 0  # Boyko #0
   "费奥多尔 #0" = 0  # Fedir #0
+  "海德翁 #0" = 0  # Hedeon #0
   "格里戈雷 #0" = 0  # Hryhoriy #0
   "克里斯蒂安 #0" = 0  # Kristiyan #0
   "马尔科 #0" = 0  # Marko #0
   "马特维严科 #0" = 0  # Matviyko #0
   "梅切斯拉夫 #0" = 0  # Mecheslav #0
   "尼古拉 #0" = 0  # Mykola #0
+  "米罗斯拉夫 #0" = 0  # Myroslav #0
+  "尼康 #0" = 0  # Nykon #0
+  "奥列克 #0" = 0  # Olek #0
   "亚历山大 #0" = 0  # Oleksander #0
+  "奥尔克西  #0" = 0  # Oleksiy #0
+  "拉多米尔 #0" = 0  # Radomyr #0
   "斯维亚托斯拉夫 #0" = 0  # Svyatoslav #0
   "西蒙 #0" = 0  # Symon #0
   "塔拉斯 #0" = 0  # Taras #0
   "弗拉基米尔 #0" = 0  # Volodymyr #0
   "亚契夫 #0" = 0  # Yakiv #0
+  "叶夫黑夫尼 #0" = 0  # Yevhevniy #0
+  "约西普 #0" = 0  # Yosip #0
   "弗拉迪斯拉夫 #0" = -1  # Vladislava #0
+  "叶斯菲里 #0" = -1  # Yesfir #0
   "波格丹纳 #0" = -1  # Bogdana #0
 }
 leader_names = {
-  "Andrukhovych"
-  "Cheremshyna"
-  "Dukhnovych"
-  "Holovatskyi"
-  "Hutsalo"
-  "Khvylovy"
-  "Kobylyanska"
-  "Korniychuk"
-  "Kostomarov"
-  "Kulish"
-  "Kvitka"
-  "Marinina"
-  "Palahniuk"
-  "Pokalchuk"
-  "Shashkevych"
-  "Stefanyk"
-  "Stelmakh"
-  "Tobilevich"
-  "Vovchok"
-  "Vyshnia"
-  "Zabara"
+  "安德鲁克维奇"  # Andrukhovych
+  "切列姆什娜"  # Cheremshyna
+  "杜克诺维奇"  # Dukhnovych
+  "霍洛瓦茨基"  # Holovatskyi
+  "胡察罗"  # Hutsalo
+  "弗维罗威"  # Khvylovy
+  "科贝良斯卡"  # Kobylyanska
+  "科尔尼楚克"  # Korniychuk
+  "科斯托马罗夫"  # Kostomarov
+  "库利什"  # Kulish
+  "克维特卡"  # Kvitka
+  "玛丽尼娜"  # Marinina
+  "帕拉尼克"  # Palahniuk
+  "波卡尔楚克"  # Pokalchuk
+  "沙士凯维奇"  # Shashkevych
+  "斯捷潘尼克"  # Stefanyk
+  "斯捷利马赫"  # Stelmakh
+  "托比列维奇"  # Tobilevich
+  "沃夫乔克"  # Vovchok
+  "拜什尼亚"  # Vyshnia
+  "萨瓦拉"  # Zabara
 }
 ship_names = {
   "第聂伯河"  # Dnieper
-  "Zaporizhia Sich"
-  "Khortytsia"
-  "Zaporozhian Voisko"
-  "Orekhov"
-  "Pologi"
-  "Melitopol"
-  "Energodar"
-  "Mikhaylovka"
-  "Tokmak"
-  "Akimivka"
-  "Vesele"
+  "扎波罗热谢契"  # Zaporizhia Sich
+  "霍尔蒂恰"  # Khortytsia
+  "扎波罗热之声"  # Zaporozhian Voisko
+  "奥列霍夫"  # Orekhov
+  "分娩"  # Pologi
+  "梅利托波尔"  # Melitopol
+  "安那荷达"  # Energodar
+  "米哈伊洛夫卡"  # Mikhaylovka
+  "托克马克"  # Tokmak
+  "阿金夫卡"  # Akimivka
+  "快活者"  # Vesele
   "Viliansk"
   "Guliajpole"
 }
