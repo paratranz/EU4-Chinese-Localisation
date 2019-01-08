@@ -134,14 +134,14 @@
     {
         "key": "HINT_MONARCHPOINTS_TITLE:0",
         "original": "Monarch Points",
-        "translation": "君王点数",
-        "stage": 5
+        "translation": "君主点数",
+        "stage": 1
     },
     {
         "key": "HINT_MONARCHPOINTS_TEXT:1",
         "original": "Monarch Points are among most important resources in the game. Monarch Points are used to unlock new Technology, Ideas and much more. The amount of Monarch Points you get per month depends on the abilities of your Ruler and can be boosted by hiring Advisors. There are three categories of Monarch Points: Administrative Power, Diplomatic Power and Military Power.",
-        "translation": "君王点数是游戏中最重要的资源.行政点数可以用来解锁科技与理念、建造建筑等.行政点数取决于统治者的能力并可以通过招募顾问提高.君王点数分为三类：行政点数、外交点数、军事点数",
-        "stage": 5
+        "translation": "君主点数是游戏中最重要的资源。君主点数可以用来解锁新科技、理念等等。每月获得的君主点数取决于你的统治者的能力并可以通过招募顾问提高。君主点数分为三类：行政点数、外交点数、军事点数。",
+        "stage": 1
     },
     {
         "key": "HINT_MANPOWER_TITLE:0",
@@ -560,7 +560,7 @@
     {
         "key": "HINT_ADVISOR_TEXT:0",
         "original": "Advisors boost how many Monarch Points you gain each month. They cost gold to hire and you also pay them salaries each month. Hiring a more expensive advisor will give you more monthly Monarch Points, but you will gain less gold each month.",
-        "translation": "顾问每月都将提供很多君王点数.雇佣他们需要一笔钱，每月还需要开工资.越贵的顾问提供的君王点数越多.",
+        "translation": "顾问将提高你每月获得的君主点数。雇佣他们会立即消耗一笔钱，同时每月还需要支付他们工资。越贵的顾问提供的君主点数越多，但是你每月的净收入也会降低。",
         "stage": 1
     },
     {
@@ -572,7 +572,7 @@
     {
         "key": "HINT_TECHNOLOGY_TEXT:0",
         "original": "There are three different categories of Technology, each category is associated with a specific set of Monarch Points. Administrative Technology is unlocked with Administrative Power, and so on. You can unlock Technology by spending Monarch Points. The cost is determined by your Technology Group as well as how far ahead you are in Technology.",
-        "translation": "有三种不同的技术方向，分别对应君主的三围属性，比如内政对应行政技术.你可以使用君王点数解锁技术.其花费由你的科技组以及你这项科技的发展水平决定.",
+        "translation": "有三种不同的科技类别，分别对应三种君主点数。例如行政点数用于解锁行政科技。你可以通过消耗君主点数解锁科技。其花费取决于你的科技组以及你这项科技的先进程度决定。",
         "stage": 1
     },
     {
@@ -608,8 +608,8 @@
     {
         "key": "HINT_IDEAS_TEXT:0",
         "original": "Ideas are a way of specializing your nation in certain ways. After having selected an Idea Group, you can begin unlocking Ideas in that Idea Group. Unlocking an Idea will cost 400 of the associated Monarch Points. Unlocking three Ideas will also unlock one of your National Ideas.",
-        "translation": "对于国家来说，不同的理念引导着不同的发展方向.当你选择了某一个理念组，你就可以解锁这个理念组中的理念，解锁理念需要400点相关的君王点数.每解锁3个理念就可以同时解锁一个国家理念.",
-        "stage": 5
+        "translation": "对于国家来说，不同的理念引导着不同的发展方向。当你选择了某一个理念组，你就可以解锁这个理念组中的理念，解锁理念需要 400 点对应的君主点数。每解锁3个理念的同时会解锁一个国家理念。",
+        "stage": 1
     },
     {
         "key": "HINT_IDEAGROUP_TITLE:0",
@@ -620,7 +620,7 @@
     {
         "key": "HINT_IDEAGROUP_TEXT:0",
         "original": "Idea Groups are a mechanic where you choose a specialization for your country. Each Idea Group is connected to a specific set of Monarch Points. Each Idea Group contains 7 Ideas and when you unlock all of them you receive a bonus. You unlock new Idea Group slots at certain intervals of Administrative Technology.",
-        "translation": "理念组是引导国家发展方向的一种机制。不同的理念组需要消耗不同种类的君王点数。每个理念组包含7个理念，当解锁了这些理念你将会获得奖励。你需要提高行政科技来解锁新的理念组槽位。",
+        "translation": "理念组是引导国家发展方向的一种机制。不同的理念组需要消耗不同种类的君主点数。每个理念组包含 7 个理念，解锁全部 7 个理念你将会获得奖励。你需要提高行政科技来解锁新的理念组槽位。",
         "stage": 1
     },
     {
@@ -1550,7 +1550,7 @@
     {
         "key": "HINT_RULER_TEXT:0",
         "original": "Monarch Points are some of the most important resources in the game. Monarch Points are gained each month and the amount depends on the skills of your Ruler and advisors. The Ruler plays a crucial role into planning the specialization of your country. If you are a Monarchy with an heir that has a high Diplomatic Skill, you know you will gain a lot of Diplomatic Power when the heir becomes the new Ruler.",
-        "translation": "君王点数是游戏中最重要的资源。你每个月都能获得一定君主点数，统治者和顾问的能力将决定这个点数的多寡。统治者的能力在规划你的国家的时候尤为重要。例如说，你游玩一个君主制国家，并且有一个高外交能力的继承人，你就能得知，在他成为新任君主后，你会得到许多外交点数。",
+        "translation": "君主点数是游戏中最重要的资源。你每个月都能获得一定君主点数，其数量取决于统治者和顾问的能力。统治者的能力在规划你的国家的时候尤为重要。显而易见的，如果你是君主制国家，当一个高外交能力的继承人继位为新任统治者后，你会得到大量外交点数。",
         "stage": 1
     },
     {
@@ -1562,7 +1562,7 @@
     {
         "key": "HINT_HEIR_TEXT:0",
         "original": "The Monarch Points of the Heir will take effect when the current Ruler dies.",
-        "translation": "在当前统治者去世后，继承人的君王点数就会生效。",
+        "translation": "在当前统治者去世后，继承人的君主点数就会生效。",
         "stage": 1
     },
     {
@@ -1958,7 +1958,7 @@
     {
         "key": "HINT_POWERPROJECTION_TEXT:0",
         "original": "Power Projection represents how well your nation is asserting its power internationally. It is gained by selecting rivals and weakening them, directly or indirectly. High power projection grants additional Monarch Points, as the ruler increases his authority through these successes.",
-        "translation": "力量投射表现了你的国家在国际上展示自己力量的程度。它可以通过选择宿敌并直接或间接的削弱他们来取得。较高的力量投射将带来额外的君王点数，也就是说，统治者通过这些成功的决策增加了自己的权威。",
+        "translation": "力量投射表现了你的国家在国际上展示自己力量的程度。它可以通过选择宿敌并直接或间接的削弱他们来取得。较高的力量投射将带来额外的君主点数，也就是说，统治者通过这些成功的决策增加了自己的权威。",
         "stage": 1
     },
     {
@@ -1970,7 +1970,7 @@
     {
         "key": "HINT_POLICIES_TEXT:0",
         "original": "Policies are special bonuses a nation can activate temporarily. Five can be active at any given time, but each costs a monarch point in upkeep every month. Once enacted, a policy cannot be revoked for 10 years. New policies are unlocked by completing idea groups in different combinations.",
-        "translation": "政策是一个国家能暂时激活的特殊加成，最多有5个政策能被同时激活，但每个政策每月都会消耗一点君王点数。一旦被激活，在10年内这个政策都不能被取消。通过完成不同的理念组的组合，可以解锁新的政策。",
+        "translation": "政策是一个国家能暂时激活的特殊加成，最多有5个政策能被同时激活，但每个政策每月都会消耗一点君主点数。一旦被激活，在10年内这个政策都不能被取消。通过完成不同的理念组的组合，可以解锁新的政策。",
         "stage": 1
     },
     {
