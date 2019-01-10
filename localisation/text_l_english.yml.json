@@ -21980,13 +21980,13 @@
     {
         "key": "PASSABLE:0",
         "original": "passable",
-        "translation": "可通过的",
+        "translation": "可通行",
         "stage": 1
     },
     {
         "key": "STRAITSTATUS_DESC:0",
         "original": "The strait is currently $STRAITSTATUS$ to your troops.",
-        "translation": "对于你的军队，该海峡当前为$STRAITSTATUS$.",
+        "translation": "该海峡现在对你的军队是$STRAITSTATUS$.",
         "stage": 1
     },
     {
@@ -45848,7 +45848,7 @@
     {
         "key": "desc_tutorial_modifier:0",
         "original": "An effect to make the tutorial smoother. These effects will not exist in a regular game. §MMissionary Strength§! will make increase how fast you can convert a province to your state religion. §MCore-Creation§! cost will affect how fast you make a province a core and how much Administrative Points it will cost.",
-        "translation": "这一效果将使教程更为轻松.这些效果不会出现在正常游戏中.§M传教力量§! 将迅速转化一个省份信奉你的国家信仰.§M核心创造§! 费用将影响你将一个省份设立为核心的速度以及将会耗费的行政点",
+        "translation": "这一效果将使教程更为轻松。这些效果不会出现在正常游戏中。§M传教强度§!表示你将一个省份转化为国教的速度。§M核心化§!花费会影响你将省份转变为核心的速度和消耗的行政点数。",
         "stage": 1
     },
     {
@@ -48398,7 +48398,7 @@
     {
         "key": "MISSIONARY_MAINT_IRO:1",
         "original": "We have §Y$NUM_MISSIONARIES$§W costing us §Y$COST$§W¤ per year to supply at a strength of $CHANCE$.",
-        "translation": "为维持在§Y$NUM_MISSIONARIES$§W省份$CHANCE$的传教力量，我们每年需要支出§Y$COST$§W¤",
+        "translation": "我们资助§Y$NUM_MISSIONARIES$§W个传教士，每年需要支出§Y$COST$§W¤以维持$CHANCE$的传教效率。",
         "stage": 1
     },
     {
