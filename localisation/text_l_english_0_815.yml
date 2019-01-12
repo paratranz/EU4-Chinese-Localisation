@@ -18,7 +18,7 @@ l_english:
  SIEGE_STATUS_EXPLANATION:0 "围城状态受以下因素影响:"
  SIEGE_STATUS_LINE:0 "$NAME$：§Y+$BONUS$§!围城状态"
  SIEGE_BREACH_EXPLANATION:0 "每个攻城阶段攻城方都有机会攻破城墙，城墙损坏在围城时会给予§Y+$BREACHBONUS$§!的加成。炮兵提高了破城几率，而废弃的要塞更容易被破城。"
- SIEGE_CHANCE_EXPLANATION:0 "每个围城阶段将会掷出（从§Y$MIN$§!到§Y$MAX$§!）骰子。掷出的点数将与围城修正（$MODIFIERS$）加总。如果投出1点，攻城方将遭受瘟疫爆发的影响导致减员最高人数的§R$VAL$%§!。\n\n这次掷骰的结果如下："
+ SIEGE_CHANCE_EXPLANATION:0 "每个围城阶段将会掷出§Y$MIN$§!到§Y$MAX$§!点的骰子。掷出的点数将与围城修正（$MODIFIERS$）加总。如果掷出1点，攻城方将遭受瘟疫爆发影响，减员§R$VAL$%§!。\n\n这次掷骰的结果如下："
  SIEGE_CHANCE_LINE:0 "$NAME$：$RANGE$（几率：$CHANCE$）"
  SIEGE_DATES:0 "这场围攻已经持续了§Y$TOTAL$§! 天。§Y$LEFT$§! 天后开始下一个围城阶段。"
  SIEGE_PAUSING_CONSTRUCTION:0 "§R省份被包围时进度暂停。§!"
