@@ -3614,13 +3614,13 @@
     {
         "key": "PARLIAMENT_BACKING_PROG:0",
         "original": "$CURR|Y$ of our $TOTAL|Y$ seats are currently backing us, giving us a §Y$CHANCE$%§! chance of winning the debate.",
-        "translation": "$TOTAL|Y$个席位中的$CURR|Y$席正支持我们，给予我们§Y$CHANCE$%§!的机会赢得辩论。",
+        "translation": "目前$TOTAL|Y$个席位中有$CURR|Y$个支持我们，这使我们有§Y$CHANCE$%§!的机会赢得辩论。",
         "stage": 1
     },
     {
         "key": "NEXT_DEBATE_ALLOWED:0",
         "original": "The $NAME$ is busy making sure the last edicts are being followed, and we can have our next issue presented to them at $DATE|Y$.",
-        "translation": "$NAME$正忙于确保最新的法案得到遵守，我们可以提出下一个议题的时间是$DATE|Y$。",
+        "translation": "$NAME$正在敦促落实上一个通过的法令，到$DATE|Y$时我们可以提出下一个议案。",
         "stage": 1
     },
     {
@@ -3644,8 +3644,8 @@
     {
         "key": "PARLIAMENT_ENACTED_ISSUE_TITLE:0",
         "original": "Enacted Issue: $NAME|Y$",
-        "translation": "通过的议题：$NAME|Y$",
-        "stage": 5
+        "translation": "已颁布法案：$NAME|Y$",
+        "stage": 1
     },
     {
         "key": "dismiss_button:0",
@@ -4112,7 +4112,7 @@
     {
         "key": "fund_expansion_of_bureaucracy:0",
         "original": "Fund Expansion of Bureaucracy",
-        "translation": "投资扩建官僚系统",
+        "translation": "拨款扩大公职体系",
         "stage": 1
     },
     {
@@ -4172,7 +4172,7 @@
     {
         "key": "PARL_NUM_SEATS:0",
         "original": "Seats ($NUM$)",
-        "translation": "总席位（$NUM$）",
+        "translation": "议席（$NUM$个）",
         "stage": 1
     },
     {
@@ -4286,25 +4286,25 @@
     {
         "key": "TRIG_HAS_NO_ACTIVE_DEBATE:0",
         "original": "Has no active debate in $NAME$.\\n",
-        "translation": "$NAME$当前无辩论。\\n",
+        "translation": "$NAME$当前未召开辩论会。\\n",
         "stage": 1
     },
     {
         "key": "TRIG_HAS_ACTIVE_DEBATE:0",
         "original": "Has an active debate in $NAME$.\\n",
-        "translation": "$NAME$当前有辩论。\\n",
+        "translation": "$NAME$当前正召开辩论会。\\n",
         "stage": 1
     },
     {
         "key": "CURR_DEBATE_TRIG_NOT:0",
         "original": "$NAME$ is not in an active debate.\\n",
-        "translation": "$NAME$当前无辩论。\\n",
+        "translation": "$NAME$当前未召开辩论会。\\n",
         "stage": 1
     },
     {
         "key": "CURR_DEBATE_TRIG:0",
         "original": "$NAME$ is in an active debate.\\n",
-        "translation": "$NAME$当前有辩论。\\n",
+        "translation": "$NAME$当前正召开辩论会。\\n",
         "stage": 1
     },
     {
@@ -27614,7 +27614,7 @@
     {
         "key": "PARLIAMENT_DEBATE_UNTIL:0",
         "original": "The debate will continue until at least $DATE|Y$, after which it has a §Y$CHANCE$%§! chance of ending each month.\\nLosing it will cost us $PRESTIGE|R$ prestige.",
-        "translation": "这次辩论将持续至少$DATE|Y$天，此后每月将有§Y$CHANCE$%§!的几率结束。\\n输掉辩论将使我们丢失$PRESTIGE|R$威望。",
+        "translation": "这次辩论将持续至少$DATE|Y$天，此后每月将有§Y$CHANCE$%§!的几率结束。\\n输掉辩论将使我们丢掉$PRESTIGE|R$点威望。",
         "stage": 1
     },
     {
