@@ -25436,7 +25436,7 @@
     {
         "key": "colonial_nation.EVTDESC313:0",
         "original": "Sigh... where to begin? It seems that settlers from [From.Owner.GetName] has ventured into [From.From.GetName] - a province of [From.From.Owner.GetName] - in search of new land and resources. [From.From.Owner.GetName] then sent their militia to drive them out, but they got overzealous and pursued the settlers back into [From.GetName], raiding and burning. The conflict then escalated when [From.Owner.GetName] sent their militia to drive out the [From.From.Owner.GetAdjective] militia and carry out raids of their own into [From.From.GetName]...\\n\\nThe [From.From.Owner.Monarch.GetTitle] of [From.From.Owner.GetName], [From.From.Owner.Monarch.GetName], is blaming the [From.Owner.Monarch.GetTitle] of [From.Owner.GetName], [From.Owner.Monarch.GetName], and vice versa. How do we solve this without losing face?",
-        "translation": "哎... 怎么说呢？好像来自 [From.Owner.GetName] 的居民冒险进入了 [From.From.GetName] - [From.From.Owner.GetName] 一个省份 - 为了寻找新的土地和资源。 [From.From.Owner.GetName] 于是派出民兵将他们赶了出来，但这些过于激动的民兵将他们赶回了 [From.GetName] ，并进行了劫掠和放火。这场冲突之后升级， [From.Owner.GetName] 派出民兵赶走 [From.From.Owner.GetAdjective] 的民兵，也在 [From.From.GetName] 进行了劫掠...\\n\\n[From.From.Owner.GetName] 的 [From.From.Owner.Monarch.GetTitle] ， [From.From.Owner.Monarch.GetName] ,责备了 [From.Owner.GetName] 的 [From.Owner.Monarch.GetTitle] ，[From.Owner.Monarch.GetName] ，反过来也是如此。我们如何体面地解决这件事？",
+        "translation": "哎...从何说起？看来[From.Owner.GetName]的定居者为了寻找新的土地和资源冒险进入了[From.From.GetName]——[From.From.Owner.GetName]的一个省份。于是[From.From.Owner.GetName]派出民兵好把他们赶出去，但这些狂热的民兵将他们赶回了[From.GetName]，一路劫掠和放火。这场冲突很快升级：[From.Owner.GetName]派出民兵赶走 [From.From.Owner.GetAdjective]的民兵，也劫掠了[From.From.GetName]...\\n\\n[From.From.Owner.GetName][From.From.Owner.Monarch.GetTitle][From.From.Owner.Monarch.GetName]和[From.Owner.GetName][From.Owner.Monarch.GetTitle][From.Owner.Monarch.GetName]就此事互相指责。我们如何才能体面地解决此事？",
         "stage": 1
     },
     {
@@ -25448,19 +25448,19 @@
     {
         "key": "colonial_nation.EVTOPTB313:0",
         "original": "Remove [From.From.Owner.Monarch.GetTitle] [From.From.Owner.Monarch.GetName]",
-        "translation": "移除 [From.From.Owner.Monarch.GetTitle] [From.From.Owner.Monarch.GetName]",
+        "translation": "解任[From.From.Owner.Monarch.GetTitle][From.From.Owner.Monarch.GetName]",
         "stage": 1
     },
     {
         "key": "colonial_nation.EVTOPTC313:0",
         "original": "Remove [From.Owner.Monarch.GetTitle] [From.Owner.Monarch.GetName]",
-        "translation": "移除 [From.Owner.Monarch.GetTitle] [From.Owner.Monarch.GetName]",
+        "translation": "解任[From.Owner.Monarch.GetTitle][From.Owner.Monarch.GetName]",
         "stage": 1
     },
     {
         "key": "colonial_nation.EVTOPTD313:0",
         "original": "Sort out their differences",
-        "translation": "找出他们的差异",
+        "translation": "解决他们的纷争",
         "stage": 1
     },
     {
@@ -25688,13 +25688,13 @@
     {
         "key": "governor_removed_from_from:0",
         "original": "[From.From.Owner.Monarch.GetTitle] [From.From.Owner.Monarch.GetName] is removed",
-        "translation": "[From.From.Owner.Monarch.GetTitle] [From.From.Owner.Monarch.GetName]已经被移除",
+        "translation": "[From.From.Owner.Monarch.GetTitle][From.From.Owner.Monarch.GetName]已被解任",
         "stage": 1
     },
     {
         "key": "governor_removed_from:0",
         "original": "[From.Owner.Monarch.GetTitle] [From.Owner.Monarch.GetName] is removed",
-        "translation": "[From.Owner.Monarch.GetTitle] [From.Owner.Monarch.GetName]已经被移除",
+        "translation": "[From.Owner.Monarch.GetTitle][From.Owner.Monarch.GetName]已被解任",
         "stage": 1
     },
     {
