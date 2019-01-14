@@ -17768,7 +17768,7 @@
     {
         "key": "celestial_empire_desc:0",
         "original": "The Celestial Empire proclaims its rulers to be sons of the heaven who are born to govern the country in divine right.",
-        "translation": "天朝宣称其统治者是天子，注定要来掌管这个国家",
+        "translation": "天朝宣称其统治者是天子，掌管这个国家是其天命所归。",
         "stage": 1
     },
     {
@@ -17780,55 +17780,55 @@
     {
         "key": "ESTATE_INFLUENCE_NOT_GREATER_THAN:0",
         "original": "§Y$ESTATE$§W influence is lower than §Y$VALUE$§W",
-        "translation": "§Y$ESTATE$§W 影响力不大于 §Y$VALUE$§W",
+        "translation": "§Y$ESTATE$§W影响力小于§Y$VALUE$§W",
         "stage": 1
     },
     {
         "key": "PROV_HAS_ESTATE:0",
         "original": "$PROV|Y$ is controlled by the $ESTATE|Y$ Estate.",
-        "translation": "$PROV|Y$ 被 $ESTATE|Y$ 阶层掌控.",
+        "translation": "$PROV|Y$由$ESTATE|Y$阶层掌控。",
         "stage": 1
     },
     {
         "key": "PROV_HAS_ESTATE_NOT:0",
         "original": "$PROV|Y$ is NOT controlled by the $ESTATE|Y$ Estate.",
-        "translation": "$PROV|Y$ 没有被 $ESTATE|Y$ 阶层掌控.",
+        "translation": "$PROV|Y$不由$ESTATE|Y$阶层掌控。",
         "stage": 1
     },
     {
         "key": "COUNTRY_HAS_ESTATE:0",
         "original": "$COUNTRY|Y$ has the $ESTATE|Y$ Estate.",
-        "translation": "$COUNTRY|Y$ 拥有 $ESTATE|Y$ 阶层.",
+        "translation": "$COUNTRY|Y$拥有$ESTATE|Y$阶层。",
         "stage": 1
     },
     {
         "key": "COUNTRY_HAS_ESTATE_NOT:0",
         "original": "$COUNTRY|Y$ does NOT have the $ESTATE|Y$ Estate.",
-        "translation": "$COUNTRY|Y$ 没有 $ESTATE|Y$ 阶层.",
+        "translation": "$COUNTRY|Y$没有$ESTATE|Y$阶层。",
         "stage": 1
     },
     {
         "key": "PROV_HAS_ANY_ESTATE:0",
         "original": "$PROV|Y$ is controlled by an Estate.",
-        "translation": "$PROV|Y$ 被一个阶层掌控.",
+        "translation": "$PROV|Y$由阶层掌控。",
         "stage": 1
     },
     {
         "key": "PROV_HAS_ANY_ESTATE_NOT:0",
         "original": "$PROV|Y$ is NOT controlled by an Estate.",
-        "translation": "$PROV|Y$ 没被一个阶层掌控.",
+        "translation": "$PROV|Y$不由阶层掌控。",
         "stage": 1
     },
     {
         "key": "COUNTRY_HAS_ANY_ESTATE:0",
         "original": "$COUNTRY|Y$ has an Estate.",
-        "translation": "$COUNTRY|Y$ 有一个阶层.",
+        "translation": "$COUNTRY|Y$有阶层。",
         "stage": 1
     },
     {
         "key": "COUNTRY_HAS_ANY_ESTATE_NOT:0",
         "original": "$COUNTRY|Y$ does NOT have an Estate.",
-        "translation": "$COUNTRY|Y$ 没有阶层.",
+        "translation": "$COUNTRY|Y$没有阶层。",
         "stage": 1
     },
     {
@@ -17840,19 +17840,19 @@
     {
         "key": "ESTATE_LOYALTY_NOT_GREATER_THAN:0",
         "original": "§Y$ESTATE$§W loyalty is lower than §Y$VALUE$§W",
-        "translation": "§Y$ESTATE$§W 忠诚度不大于 §Y$VALUE$§W",
+        "translation": "§Y$ESTATE$§W忠诚度小于§Y$VALUE$§W",
         "stage": 1
     },
     {
         "key": "ESTATE_TERRITORY_GREATER_THAN:0",
         "original": "§Y$ESTATE$§W control of land is §Y$VALUE$§W or greater",
-        "translation": "§Y$ESTATE$§W控制的土地达到§Y$VALUE$§W",
+        "translation": "§Y$ESTATE$§W控制的土地数达到§Y$VALUE$§W",
         "stage": 1
     },
     {
         "key": "ESTATE_TERRITORY_NOT_GREATER_THAN:0",
         "original": "§Y$ESTATE$§W control of land is lower than §Y$VALUE$§W",
-        "translation": "§Y$ESTATE$§W控制的土地少于§Y$VALUE$§W",
+        "translation": "§Y$ESTATE$§W控制的土地数少于§Y$VALUE$§W",
         "stage": 1
     },
     {
@@ -17888,7 +17888,7 @@
     {
         "key": "desc_the_mandate_of_heaven:0",
         "original": "The Mandate of Heaven blesses and legitimizes the just rule and ruler, and woe to those who seek to rule in defiance of it.",
-        "translation": "正统的君王受命于天，天命可以使君主的统治合法化，并使那些反抗天命的人众叛亲离.",
+        "translation": "正统的君王受命于天，天命可以使君主的统治合法化，并使那些反抗天命的人众叛亲离。",
         "stage": 1
     },
     {
@@ -17924,25 +17924,25 @@
     {
         "key": "STARTDATE_GREATER_THAN:0",
         "original": "Game started on or after §Y$DATE$§W",
-        "translation": "游戏开始于§Y$DATE$§W或之前",
+        "translation": "游戏开始于§Y$DATE$§W或之后",
         "stage": 1
     },
     {
         "key": "STARTDATE_NOT_GREATER_THAN:0",
         "original": "Game started before §Y$DATE$§W",
-        "translation": "游戏开始于 §Y$DATE$§W之后",
+        "translation": "游戏开始于§Y$DATE$§W前",
         "stage": 1
     },
     {
         "key": "STARTDATE_WAS_EXACTLY:0",
         "original": "Game was started on §Y$DATE$§W.",
-        "translation": "游戏于§Y$DATE$§W启动成功.",
+        "translation": "游戏开始于§Y$DATE$§W。",
         "stage": 1
     },
     {
         "key": "STARTDATE_WAS_NOT_EXACTLY:0",
         "original": "Game was not started on §Y$DATE$§W.",
-        "translation": "游戏于§Y$DATE$§W启动失败.",
+        "translation": "游戏未开始于§Y$DATE$§W。",
         "stage": 1
     },
     {
@@ -17960,43 +17960,43 @@
     {
         "key": "ADD_CHURCH_ASPECT_EFFECT:0",
         "original": "Add the aspect §Y$ASPECT$§!.",
-        "translation": "增加教会信条 §Y$ASPECT$§!.",
+        "translation": "增加教会信条§Y$ASPECT$§!。",
         "stage": 1
     },
     {
         "key": "REMOVE_CHURCH_ASPECT_EFFECT:0",
         "original": "Remove the aspect §Y$ASPECT$§!",
-        "translation": "去除教会信条 §Y$ASPECT$§!",
+        "translation": "去除教会信条§Y$ASPECT$§!",
         "stage": 1
     },
     {
         "key": "REMOVE_RANDOM_CHURCH_ASPECT_EFFECT:0",
         "original": "Remove random church aspect.",
-        "translation": "去除随机教会信条",
+        "translation": "去除随机教会信条。",
         "stage": 1
     },
     {
         "key": "CREATE_INDEPENDENT_ESTATE_EFFECT:0",
         "original": "The $ESTATE|Y$ declare independence in $PROVINCES|Y$ provinces.",
-        "translation": "$ESTATE|Y$ 宣称 $PROVINCES|Y$ 的独立.",
+        "translation": "$ESTATE|Y$宣布$PROVINCES|Y$独立。",
         "stage": 1
     },
     {
         "key": "SET_ESTATE_EFFECT:0",
         "original": "$PROV|Y$ will come under the control of $ESTATE|Y$.",
-        "translation": "$PROV|Y$ 将会被 $ESTATE|Y$ 控制.",
+        "translation": "$PROV|Y$将会由$ESTATE|Y$掌控。",
         "stage": 1
     },
     {
         "key": "SET_ESTATE_EFFECT_2:0",
         "original": "$PROV|Y$ will come under the control of $ESTATE|Y$, increasing their Influence by $POWER|Y$.",
-        "translation": "$PROV|Y$ 将要处在 $ESTATE|Y$ 的掌控下，提升他们的影响力到 $POWER|Y$.",
+        "translation": "$PROV|Y$将由$ESTATE|Y$掌控，其影响力提升$POWER|Y$。",
         "stage": 1
     },
     {
         "key": "REMOVE_ESTATE_EFFECT:0",
         "original": "$PROV|Y$ will no longer be under the control of $ESTATE|Y$.",
-        "translation": "$PROV|Y$ 不再位于$ESTATE|Y$ 的控制下.",
+        "translation": "$PROV|Y$不再由$ESTATE|Y$掌控。",
         "stage": 1
     },
     {
@@ -26660,31 +26660,31 @@
     {
         "key": "UW_UNITS_ATTACHED:0",
         "original": "The following units are attached.",
-        "translation": "下列部队被附属了",
+        "translation": "锁定跟随单位。",
         "stage": 1
     },
     {
         "key": "UW_ATTACH_TO:0",
         "original": "Attach to always follow $NAME$.",
-        "translation": "总是跟随$NAME$。",
+        "translation": "锁定跟随$NAME$。",
         "stage": 1
     },
     {
         "key": "UW_DETACH_FROM:0",
         "original": "Detach from following $NAME$.",
-        "translation": "从跟随的$NAME$中分离。",
+        "translation": "停止跟随$NAME$。",
         "stage": 1
     },
     {
         "key": "UNIT_DETACH:0",
         "original": "§YDetach§!",
-        "translation": "不跟随",
+        "translation": "§Y不跟随§!",
         "stage": 1
     },
     {
         "key": "UNIT_ATTACH:0",
         "original": "§YAttach§!",
-        "translation": "跟随",
+        "translation": "§Y跟随§!",
         "stage": 1
     },
     {
@@ -36026,49 +36026,49 @@
     {
         "key": "UNIT_DETACH_SIEGE:0",
         "original": "§YDetach Siege§!",
-        "translation": "分兵围城",
+        "translation": "§Y分兵围城§!",
         "stage": 1
     },
     {
         "key": "UNIT_DETACH_MERC:0",
         "original": "§YDetach Mercenaries§!",
-        "translation": "分离佣兵",
+        "translation": "§Y分离佣兵§!",
         "stage": 1
     },
     {
         "key": "DETMER_NONE:0",
         "original": "There are no mercenaries in this army to detach.",
-        "translation": "军队之中没有雇佣兵可供分离.",
+        "translation": "军队之中没有雇佣兵可供分离。",
         "stage": 1
     },
     {
         "key": "DETMER_ALL:0",
         "original": "This army consists entirely of mercenaries.",
-        "translation": "军队完全由雇佣兵组成.",
+        "translation": "军队完全由雇佣兵组成。",
         "stage": 1
     },
     {
         "key": "DETMER_EXPL:0",
         "original": "All mercenaries from this unit will be detached and form a separate unit.",
-        "translation": "所有来自此单位的雇佣兵将被分离并组成一个新的独立单位.",
+        "translation": "所有来自此单位的雇佣兵将被分离并组成一个新的独立单位。",
         "stage": 1
     },
     {
         "key": "DETSIEG_NOSIEGE:0",
         "original": "There is no siege in this province.",
-        "translation": "在该省份没有围城行动.",
+        "translation": "在该省份没有围城行动。",
         "stage": 1
     },
     {
         "key": "DETSIEG_NOTENOUGH:0",
         "original": "This army does not have enough units to detach that could form a proper siege force.",
-        "translation": "这支军队没有足够的单位可以分离并对城池形成合围.",
+        "translation": "这支军队没有足够的单位可以分离以对省份形成有效合围。",
         "stage": 1
     },
     {
         "key": "DETSIEG_EXPL:0",
         "original": "This will detach enough units to execute a siege properly.",
-        "translation": "这将分离出足够的单位以对城池形成合围.",
+        "translation": "这将分离出足够的单位以对省份形成有效合围。",
         "stage": 1
     },
     {
