@@ -1022,25 +1022,25 @@
     {
         "key": "string_start_shogunate:0",
         "original": "[Root.GetName] is a §YShogunate§!. A Shogunate can have any number of §YDaimyo Vassals§! and these vassals are allowed to wage wars against each other.\\n\\nWe will lose the Shogunate Government if any Daimyo conquers the Imperial Capital of §YKyoto§! from us.\\n\\n",
-        "translation": "[Root.GetName]是一个§Y幕府§!。幕府可以拥有任意数量的§Y大名附庸§!，这些附庸能够相互宣战。\\n\\n如果任意大名从我们手中征服了帝国的首都§Y京都§!，我们将失去幕府政体。\\n\\n",
-        "stage": 5
+        "translation": "[Root.GetName]是§Y幕府§!。作为幕府可以拥有任意数量的§Y大名封臣§!，大名之间能够相互宣战。\\n\\n如果任何大名从我们手中夺走了帝国的首都§Y京都§!，我们将失去幕府政体。\\n\\n",
+        "stage": 1
     },
     {
         "key": "string_start_shogunate_moh:0",
         "original": "£DLC_moh [Root.GetName] is a §YShogunate§!. A Shogunate can have any number of §YDaimyo Vassals§! and these vassals are allowed to wage wars against each other.\\nThe Shogunate can perform a number of special §YSubject Interactions§! on Daimyo Subjects and also has access to §Y3 Government Interactions§! aimed at the entire group of Daimyo Subjects at once.\\n\\nWe will lose the Shogunate Government if any Daimyo conquers the Imperial Capital of §YKyoto§! from us.\\n\\n",
-        "translation": "£DLC_moh£[Root.GetName]是一个§Y幕府§!。幕府可以拥有任意数量的§Y大名附庸§!，这些附庸能够相互宣战。\\n幕府将军可以对大名属国执行许多特殊的§Y属国互动§!，同时也有着对所有大名属国的§Y三种政府互动§!。\\n\\n如果任意大名从我们手中征服了帝国的首都§Y京都§!，我们将失去幕府政体。\\n\\n",
+        "translation": "£DLC_moh [Root.GetName]是§Y幕府§!。作为幕府可以拥有任意数量的§Y大名封臣§!，大名之间能够相互宣战。\\n幕府将军可以对各个大名属国执行许多特殊的§Y属国互动§!，还有同时对所有大名属国执行的§Y三种政府互动§!。\\n\\n如果任何大名从我们手中夺走了帝国的首都§Y京都§!，我们将失去幕府政体。\\n\\n",
         "stage": 1
     },
     {
         "key": "string_manchu_culture:0",
         "original": "£DLC_moh [Root.GetName] is a Manchu country. This means that we can raise §YManchu Banners§! in Manchu culture state provinces in exchange for increased §YCorruption§!.\\n\\nManchu Banners do not use §YManpower§! but still use §YDucats§! to §YReinforce§!.\\n\\n",
-        "translation": "£DLC_moh£[Root.GetName]是一个满洲国家，这意味着我们可以在满洲文化直属州省份以提升§Y腐败度§!为代价来招募§Y满洲八旗§!。\\n\\n满洲八旗不消耗§Y人力§!但仍要花费§Y金币§!来§Y增援§!。\\n\\n",
-        "stage": 5
+        "translation": "£DLC_moh [Root.GetName]是一个满洲国家，这意味着我们可以以提升§Y腐败度§!为代价在满洲文化直属州省份招募§Y满洲八旗§!。\\n\\n满洲八旗不消耗§Y人力§!但仍要花费§Y金币§!来§Y补员§!。\\n\\n",
+        "stage": 1
     },
     {
         "key": "string_muslim_school:0",
         "original": "£DLC_coc All Muslim countries belong to a §YSchool§! that give different bonuses. Schools also have opinions of each other that change during the course of the game and that will have an effect on the relations between the countries that follow them.\\nCountries following a School can invite scholars from other schools to combine their bonuses for 20 years.\\n\\nThe [Root.GetReligiousSchool] School gives the following modifier:\\n[Root.GetReligiousSchoolCountryModifiers]\\n\\n",
-        "translation": "£DLC_coc£所有穆斯林国家都有一个遵循的§Y学派§!给予不同的加成。学派之间的观念会随着游戏的进行而发生变化，这也会对它们所属国家之间的关系产生影响。\\n遵循一个学派的国家可以邀请来自其他学派的学者来，结合两者可获得为期20年的加成。\\n\\n[Root.GetReligiousSchool]学派给予以下的加成：\\n[Root.GetReligiousSchoolCountryModifiers]\\n\\n",
+        "translation": "£DLC_coc 所有穆斯林国家都遵循某个给予不同的加成§Y学派§!。学派互相之间的评价会随着游戏的进行而发生变化，这也会对遵循它们的国家之间的关系产生影响。\\n遵循某个学派的国家可以邀请来自其他学派的学者来，结合两者可获得为期20年的加成。\\n\\n[Root.GetReligiousSchool]学派给予以下的加成：\\n[Root.GetReligiousSchoolCountryModifiers]\\n\\n",
         "stage": 1
     },
     {
@@ -1370,8 +1370,8 @@
     {
         "key": "string_anglicanism_desc:0",
         "original": "£DLC_rb As the §YReformation§! looms, the scene is set for the rise of §YAnglicanism§!. Nations with the §YBritish§! culture group may embrace the §YAnglican§! faith, enabling a set of unique §YReligious Actions§!.",
-        "translation": "£DLC_rb£随着§Y宗教改革§!的临近，§Y圣公会§!在此背景下悄然兴起。属于§Y不列颠§!文化组的国家可能开始信奉§Y圣公会§!信仰，从而能够使用一套独特的§Y宗教行动§!。",
-        "stage": 5
+        "translation": "£DLC_rb 正当§Y宗教改革§!隐约浮现之时，§Y圣公会§!登上了历史舞台。属于§Y不列颠§!文化组的国家可以信奉§Y圣公会§!信仰，从而能够使用一套独特的§Y宗教行动§!。",
+        "stage": 1
     },
     {
         "key": "string_anglicanism_no:0",
