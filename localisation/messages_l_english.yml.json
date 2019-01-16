@@ -6440,7 +6440,7 @@
     {
         "key": "WEGIFT_1:0",
         "original": "A Gift was Sent.",
-        "translation": "礼物.",
+        "translation": "礼物被送出。",
         "stage": 1
     },
     {
@@ -6614,8 +6614,8 @@
     {
         "key": "GIFTTOOTHER_2:0",
         "original": "A Gift was Exchanged. $MONARCHTITLE$, the selfless generosity of",
-        "translation": "$MONARCHTITLE$，我们得知一份礼物送出的消息。",
-        "stage": 5
+        "translation": "一份礼物已被送出。$MONARCHTITLE$，无私的",
+        "stage": 1
     },
     {
         "key": "GIFTTOOTHER_3:0",
@@ -6626,14 +6626,14 @@
     {
         "key": "GIFTTOOTHER_4:0",
         "original": "seems to be without a limit. They have donated a value of $VALUE$¤ to",
-        "translation": "似乎洋溢着慷慨之情。",
-        "stage": 5
+        "translation": "似乎永远洋溢着慷慨之情。一份价值$VALUE$¤的礼物",
+        "stage": 1
     },
     {
         "key": "GIFTTOOTHER_5:0",
         "original": "$RECIPIENT$.",
-        "translation": "他们向$RECIPIENT$捐赠了$VALUE$¤。",
-        "stage": 5
+        "translation": "被该国送给了$RECIPIENT$。",
+        "stage": 1
     },
     {
         "key": "GIFTTOOTHER_6:1",
