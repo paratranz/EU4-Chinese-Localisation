@@ -6938,26 +6938,26 @@
     {
         "key": "MILACCTITLE:0",
         "original": "Ask for Military Access",
-        "translation": "要求军事通行权",
-        "stage": 5
+        "translation": "索要军事通行权",
+        "stage": 1
     },
     {
         "key": "MILACCNEWDESC:0",
         "original": "Do you wish to request Military Access from $COUNTRY$, thereby allowing our armies access to their land?",
-        "translation": "你想要要求$COUNTRY$的军事通行权，即允许我们的军队进入他们境内吗？",
-        "stage": 5
+        "translation": "你想要索要$COUNTRY$的军事通行权，即允许我们的军队进入他们境内吗？",
+        "stage": 1
     },
     {
         "key": "MILACCDESC:0",
         "original": "Request access to their land.",
-        "translation": "要求他们的军事通行权",
-        "stage": 5
+        "translation": "向他们索要军事通行权",
+        "stage": 1
     },
     {
         "key": "MILACCREQDESC:0",
         "original": "$COUNTRY$ is requesting Military Access from us. Accepting will allow them to move armies into our land.",
-        "translation": "$COUNTRY$要求我国给予军事通行权。接受后他们的军队将被允许进入我们境内。",
-        "stage": 5
+        "translation": "$COUNTRY$向我国索要军事通行权。若接受，该国军队可以在我国领土通行。",
+        "stage": 1
     },
     {
         "key": "MILACCREQWARWITH:0",
@@ -6968,14 +6968,14 @@
     {
         "key": "CANCELMILACCDESC:0",
         "original": "Cancel our Military Access to their country.",
-        "translation": "取消他们给与我们的军事通行权。",
-        "stage": 5
+        "translation": "放弃他们给予我们的军事通行权。",
+        "stage": 1
     },
     {
         "key": "CANCELMILACCTITLE:0",
         "original": "Cancel Military Access",
-        "translation": "取消军事通行权",
-        "stage": 5
+        "translation": "放弃军事通行权",
+        "stage": 1
     },
     {
         "key": "OFFERMILACCTITLE:0",
@@ -7004,8 +7004,8 @@
     {
         "key": "REVOKEMILACCNEWDESC:0",
         "original": "Do you wish to revoke the Military Access given to $COUNTRY$? Doing so will prevent their troops from accessing our country.",
-        "translation": "你想要收回给予$COUNTRY$的军事通行权吗？这样做会使他们的军队无法进入我们境内。",
-        "stage": 5
+        "translation": "你想要收回给予$COUNTRY$的军事通行权吗？这样做会使他们的军队无法进入我国境内。",
+        "stage": 1
     },
     {
         "key": "REVOKEMILACCDESC:0",
@@ -7016,13 +7016,13 @@
     {
         "key": "NEGOTIATETITLE:0",
         "original": "Open Negotiation",
-        "translation": "提出谈判",
+        "translation": "展开谈判",
         "stage": 1
     },
     {
         "key": "NEGOTIATEDESC:0",
         "original": "Open a negotiation to trade money, land or other things.",
-        "translation": "提出谈判能交易金钱，土地及其他的一些东西.",
+        "translation": "展开谈判，以交换金钱、土地或其他东西。",
         "stage": 1
     },
     {
@@ -11756,7 +11756,7 @@
     {
         "key": "ISATWAR:0",
         "original": "You cannot ask for Military Access when you are at war.",
-        "translation": "当你处于战争时，不能要求军事通行权。",
+        "translation": "当你处于战争时，不能索要军事通行权。",
         "stage": 1
     },
     {
@@ -13190,14 +13190,14 @@
     {
         "key": "ICON_ASKMIL:0",
         "original": "A request for §YMilitary Access§W",
-        "translation": "要求§Y军事通行权§W",
-        "stage": 5
+        "translation": "索要§Y军事通行权§W",
+        "stage": 1
     },
     {
         "key": "ICON_OFFACC:0",
         "original": "An offer of §YMilitary Access§W",
-        "translation": "提议给予§Y军事通行权§W",
-        "stage": 5
+        "translation": "赠予§Y军事通行权§W",
+        "stage": 1
     },
     {
         "key": "ICON_CALLALLY:0",
@@ -20162,8 +20162,8 @@
     {
         "key": "CANCELMILACCNEWDESC:0",
         "original": "Do you wish to cancel the military access given to us by $COUNTRY$? Doing so will prevent our troops from accessing their country.",
-        "translation": "你想要取消$COUNTRY$给予我们的军事通行权吗？这样做会使我们的军队无法进入他们境内。",
-        "stage": 5
+        "translation": "你想要放弃$COUNTRY$给予我们的军事通行权吗？这样做会使我们的军队无法进入他们境内。",
+        "stage": 1
     },
     {
         "key": "city:0",
@@ -20480,26 +20480,26 @@
     {
         "key": "CD_GIVESACCESS:0",
         "original": "Grants military access to $LIST$.",
-        "translation": "我们给予 $LIST$ 军事通行权。",
-        "stage": 5
+        "translation": "我们给予$LIST$军事通行权。",
+        "stage": 1
     },
     {
         "key": "CD_HASACCESS:0",
         "original": "Has military access through $LIST$.",
-        "translation": "$LIST$ 给予我们军事通行权。",
-        "stage": 5
+        "translation": "$LIST$给予我们军事通行权。",
+        "stage": 1
     },
     {
         "key": "CD_GIVESCONDITIONALACCESS:0",
         "original": "Grants conditional military access to $LIST$.",
-        "translation": "我们给予 $LIST$ 有条件的军事通行权。",
-        "stage": 5
+        "translation": "我们给予$LIST$有条件的军事通行权。",
+        "stage": 1
     },
     {
         "key": "CD_HASCONDITIONALACCESS:0",
         "original": "Has conditional military access through $LIST$.",
-        "translation": "$LIST$ 给予我们有条件的军事通行权。",
-        "stage": 5
+        "translation": "$LIST$给予我们有条件的军事通行权。",
+        "stage": 1
     },
     {
         "key": "PW_RESET:0",
@@ -26612,20 +26612,20 @@
     {
         "key": "CANCELMILACCDESC_NOPES_TROOPS:0",
         "original": "We cannot cancel access while we still have forces inside their borders.",
-        "translation": "当我们仍有军队在他们境内时，我们不能取消军事通行权。",
-        "stage": 5
+        "translation": "当我们仍有军队在他们境内时，我们不能放弃军事通行权。",
+        "stage": 1
     },
     {
         "key": "CANCELMILACCDESC_NOPES_ENEMY_TROOPS:0",
         "original": "We cannot cancel access while our enemies have forces inside their borders.",
-        "translation": "当我们的敌人仍有军队在他们境内时，我们不能取消军事通行权。",
-        "stage": 5
+        "translation": "当我们的敌人仍有军队在他们境内时，我们不能放弃军事通行权。",
+        "stage": 1
     },
     {
         "key": "CANCELMILACCDESC_NOPES_ALLY_TROOPS:0",
         "original": "We cannot cancel access while our allies have forces inside their borders.",
-        "translation": "当我们的盟友仍有军队在他们境内时，我们不能取消军事通行权。",
-        "stage": 5
+        "translation": "当我们的盟友仍有军队在他们境内时，我们不能放弃军事通行权。",
+        "stage": 1
     },
     {
         "key": "CANCELMILACCDESC_NOPES_THEIR_TROOPS:0",
@@ -41108,7 +41108,7 @@
     {
         "key": "alert_casus_belli_will_expire_instant:0",
         "original": "§YExpiring Casus Belli:§W",
-        "translation": "§Y开战理由即将过期:§W",
+        "translation": "§Y宣战理由即将过期：§W",
         "stage": 1
     },
     {
@@ -46442,7 +46442,7 @@
     {
         "key": "MIL_ACCESS_FORCED_TRUCE:0",
         "original": "You can't revoke imposed Military Access until the truce runs out on $DATE|Y$",
-        "translation": "你无法收回军事通行权，直到停战协议于$DATE|Y$结束",
+        "translation": "在停战协议于$DATE|Y$到期前，你无法收回军事通行权",
         "stage": 1
     },
     {
