@@ -830,13 +830,13 @@
     {
         "key": "ADDED_CARDINAL:0",
         "original": "§Y$PROVINCE$§! will be the seat of a new Cardinal.",
-        "translation": "§Y$PROVINCE$§! 获得了一个枢机主教席位。",
+        "translation": "§Y$PROVINCE$§!获得了一个枢机席位。",
         "stage": 1
     },
     {
         "key": "REMOVED_CARDINAL:0",
         "original": "§Y$PROVINCE$§! will no longer be the seat of a Cardinal.",
-        "translation": "§Y$PROVINCE$§!不再拥有枢机主教席位。",
+        "translation": "§Y$PROVINCE$§!不再拥有枢机席位。",
         "stage": 1
     },
     {
@@ -1280,8 +1280,8 @@
     {
         "key": "CARDINAL_NAME:0",
         "original": "Cardinal of $LOC|Y$",
-        "translation": "$LOC|Y$的枢机主教",
-        "stage": 5
+        "translation": "$LOC|Y$的枢机",
+        "stage": 1
     },
     {
         "key": "katsina:0",
@@ -2960,13 +2960,13 @@
     {
         "key": "bribed_cardinal:0",
         "original": "Bribed Cardinal",
-        "translation": "被贿赂的枢机主教",
+        "translation": "被贿赂的枢机",
         "stage": 1
     },
     {
         "key": "exposed_cardinal:0",
         "original": "Exposed Cardinal",
-        "translation": "被曝光的枢机主教",
+        "translation": "被曝光的枢机",
         "stage": 1
     },
     {
@@ -3254,31 +3254,31 @@
     {
         "key": "desc_distrusts_heathens:0",
         "original": "The influence of a local cardinal has led the administration to distrust and restrict the rights of heathens.",
-        "translation": "当地枢机主教的影响使得政府不信任且限制了异教徒的权利。",
+        "translation": "当地枢机的影响使得政府不信任且限制了异教徒的权利。",
         "stage": 1
     },
     {
         "key": "cardinal_in_administration:0",
         "original": "Cardinal in Administration",
-        "translation": "政府中的枢机主教",
+        "translation": "政府中的枢机",
         "stage": 1
     },
     {
         "key": "desc_cardinal_in_administration:0",
         "original": "A cardinal has been given an important position in our government, affecting how the nation is ruled.",
-        "translation": "一个枢机主教在我们政府里获得了一个重要的职位，这影响了国家的治理。",
+        "translation": "一位枢机在我们政府里获得了一个重要的职位，这影响了国家的治理。",
         "stage": 1
     },
     {
         "key": "blackmailing_cardinal:0",
         "original": "Blackmailing Cardinal",
-        "translation": "勒索枢机主教",
+        "translation": "勒索枢机",
         "stage": 1
     },
     {
         "key": "desc_blackmailing_cardinal:0",
         "original": "Having a hold on a cardinal in a neighboring country has helped us improve the spy network beyond our borders.",
-        "translation": "对邻国的枢机主教的控制有助于改善我国在境外的间谍网络。",
+        "translation": "对邻国的枢机的控制有助于改善我国在境外的间谍网络。",
         "stage": 1
     },
     {
@@ -4442,13 +4442,13 @@
     {
         "key": "aow_events.43.t:0",
         "original": "Cardinal Across the Border",
-        "translation": "枢机主教跨越边界",
+        "translation": "枢机跨越边界",
         "stage": 1
     },
     {
         "key": "aow_events.43.d:0",
         "original": "Sometimes, we have the chance to set something into motion without seeming to have done anything. One such chance has arrived recently, when a cardinal living on the soil of one of our neighbors admitted to an agent from [Root.GetName] that he would consider moving across the border and support us in the Curia for a price. While this may be tempting, there may be a greater price to pay if we take advantage of this: the wrath of the country he deserts.",
-        "translation": "有时候我们即便看起来什么也不做，也有机会在暗地里操控。我们最近得到了一个机会，一个邻国的枢机主教承认他是[Root.GetName]的间谍，为了保命，他愿意跨越边界来到我们这里并且在枢机团里支持我们。尽管这听起来很诱人，但是这份请求也许会让我们付出更大的代价：他叛逃国家的怒火。",
+        "translation": "有时候我们即便看起来什么也不做，也有机会在暗地里操控。我们最近得到了一个机会，一个邻国的枢机承认他是[Root.GetName]的间谍，为了保命，他愿意跨越边界来到我们这里并且在教廷里支持我们。尽管这听起来很诱人，但是这份请求也许会让我们付出更大的代价：他叛逃国家的怒火。",
         "stage": 1
     },
     {
@@ -4466,13 +4466,13 @@
     {
         "key": "aow_events.44.t:0",
         "original": "Cardinal Bribed to Move",
-        "translation": "收受贿赂的枢机主教离开了",
+        "translation": "收受贿赂的枢机离开了",
         "stage": 1
     },
     {
         "key": "aow_events.44.d:0",
         "original": "A cardinal who had previously stayed in [Root.GetName], close to the border, has now moved out of our nation entirely and shifted his allegiance to our neighbors. The [From.GetAdjective] agents who bribed him to betray us probably thought we would not notice their hand in the matter, but they were wrong. This intentional sabotage of our influence in the Curia is unacceptable and will not stand unchallenged.",
-        "translation": "一个之前靠近边境在[Root.GetName]的枢机主教已经叛逃到我们的邻国。并且向该国效忠了。[From.GetAdjective]的间谍也许认为他们的贿赂行为没有被我们发现，他们大错特错。这种对我们的教廷影响力的蓄意破坏是不可接受的。",
+        "translation": "一个之前靠近边境在[Root.GetName]的枢机已经叛逃到我们的邻国。并且向该国效忠了。[From.GetAdjective]的间谍也许认为他们的贿赂行为没有被我们发现，他们大错特错。这种对我们的教廷影响力的蓄意破坏是不可接受的。",
         "stage": 1
     },
     {
@@ -4490,8 +4490,8 @@
     {
         "key": "aow_events.45.d:0",
         "original": "The cardinal in [Root.GetName] has lived close to the heretics in our nation and rather than condemn them, he has tried to understand them. While a sympathetic course of action, he has recently approached one of our ministers confessing that he has himself started to doubt Church doctrine. If this came to the Pope's knowledge, he would no longer be allowed to serve in the Curia, but perhaps we could convince him to keep this to himself for a few ducats.",
-        "translation": "在[Root.GetName]的枢机主教试图了解我们国内的异端信徒而不是谴责他们，与他们亲密地生活在一起。他向我们的一位顾问坦白，尽管一开始只是出于同情，他最近也开始怀疑起教会的教义。如果教宗知道了这件事，他将无法在教廷继续任职，也许我们可以花点钱让他保持这个秘密。",
-        "stage": 5
+        "translation": "在[Root.GetName]的枢机试图了解我们国内的异端信徒而不是谴责他们，与他们亲密地生活在一起。他向我们的一位顾问坦白，尽管一开始只是出于同情，他最近也开始怀疑起教会的教义。如果教宗知道了这件事，他将无法在教廷继续任职，也许我们可以花点钱让他保持这个秘密。",
+        "stage": 1
     },
     {
         "key": "aow_events.45.a:0",
@@ -4532,13 +4532,13 @@
     {
         "key": "aow_events.47.t:0",
         "original": "Cardinal Distrusts Heathens",
-        "translation": "枢机主教不相信异教徒",
+        "translation": "枢机不相信异教徒",
         "stage": 1
     },
     {
         "key": "aow_events.47.d:0",
         "original": "The cardinal in [Root.GetName] has been loyal to [Root.Owner.GetName] so far, but is starting to have doubts about his continued stay here after seeing heathens living so close to his home city of [Root.GetCapitalName]. In a letter to the [Root.Owner.Monarch.GetTitle], he has claimed that these people cannot be trusted and requested that they be subject to much more stringent regulations than our other citizens.",
-        "translation": "在[Root.GetName]的枢机主教一直对[Root.Owner.GetName]忠心耿耿，不过他因为在他家乡[Root.GetCapitalName]附近蔓延的异端开始犹豫是否应该继续留下。在一封寄给[Root.Owner.Monarch.GetTitle]的信件中，他声称这些人不值得信赖，并要求他们接受比正常公民更严格的法规。",
+        "translation": "在[Root.GetName]的枢机一直对[Root.Owner.GetName]忠心耿耿，不过他因为在他家乡[Root.GetCapitalName]附近蔓延的异端开始犹豫是否应该继续留下。在一封寄给[Root.Owner.Monarch.GetTitle]的信件中，他声称这些人不值得信赖，并要求他们接受比正常公民更严格的法规。",
         "stage": 1
     },
     {
@@ -4562,7 +4562,7 @@
     {
         "key": "aow_events.48.d:0",
         "original": "$THEOLOGIAN$$INQUISITOR$, being a wise and respected Catholic, has maintained good relations with cardinals and other people in the Church even outside the borders of [Root.GetName]. They recently discovered that a man who has just been promoted to cardinal, who is also a good friend of theirs, is considering moving to our country to facilitate their mutual work on a theological text. If we aided this process, we would have a cardinal in the Curia who is not only loyal to $THEOLOGIAN$$INQUISITOR$, but also to [Root.Monarch.GetName].",
-        "translation": "$THEOLOGIAN$$INQUISITOR$，作为一个睿智且广受尊重的天主教徒，和国内外的枢机主教和其他神职人员保持了良好的关系。他发现最近他的一位刚被提升到枢机主教的好友，正在考虑移居到我国来促进神学的文本工作。如果我们给予资助，那么我们在教廷可以获得不仅忠于$THEOLOGIAN$$INQUISITOR$本人，也忠于[Root.Monarch.GetName]的一位枢机主教。",
+        "translation": "$THEOLOGIAN$$INQUISITOR$，作为一个睿智且广受尊重的天主教徒，和国内外的枢机和其他神职人员保持了良好的关系。他发现最近他的一位刚被提升到枢机的好友，正在考虑移居到我国来促进神学的文本工作。如果我们给予资助，那么我们在教廷可以获得不仅忠于$THEOLOGIAN$$INQUISITOR$本人，也忠于[Root.Monarch.GetName]的一位枢机。",
         "stage": 1
     },
     {
@@ -4586,7 +4586,7 @@
     {
         "key": "aow_events.49.d:0",
         "original": "One of the cardinals in [Root.GetName] has proven to be a skilled administrator and already provides useful advice to the [Root.Monarch.GetTitle]. At this point, making him a minister in our government would almost be only a formality, but an important formality nonetheless, since he may grow more powerful yet. Having a cardinal in our service would certainly lend us credibility with the Pope and strengthen the sentiment that [Root.GetName] is a Catholic nation first and foremost.",
-        "translation": "在[Root.GetName]的一位枢机主教已经被证明是个能干的政治家，他已经向[Root.Monarch.GetTitle]提出过很多有用的意见。从这点上来看，任命他为政府大臣仅仅是走形式而已，不过这仍然是一个重要的形式，因为他可能会继续晋升。枢机主教在我国政府任职将加强教宗对我们的信任，对我们的第一印象是[Root.GetName]是一个天主教国家。",
+        "translation": "在[Root.GetName]的一位枢机已经被证明是个能干的政治家，他已经向[Root.Monarch.GetTitle]提出过很多有用的意见。从这点上来看，任命他为政府大臣仅仅是走形式而已，不过这仍然是一个重要的形式，因为他可能会继续晋升。枢机在我国政府任职将加强教宗对我们的信任，对我们的第一印象是[Root.GetName]是一个合格的天主教国家。",
         "stage": 1
     },
     {
@@ -4610,7 +4610,7 @@
     {
         "key": "aow_events.50.d:0",
         "original": "Since we made one of our cardinals a minister in our government, he has gone far beyond providing theological insights and innovated significantly in the administration of [Root.GetName]. Unfortunately, his suggestions of centralizing power are not possible without removing some authority from the nobles, who have begun to see him as an opportunist. At this point, trying to remove him from office over this dispute would probably mean we lost his loyalty altogether, but the nobles who stand to lose from his plans consider this a sacrifice easily worth making.",
-        "translation": "自从我们将我们的一位枢机主教任命为政府里的大臣，他远不止提供了神学见解和在[Root.GetName]的政府中创造新的管理模式。不幸的是。他的集权建议是无法避开剥夺一部分贵族的权力的，这些贵族已经将他视为投机主义者。如果在此时因为这个争议将其开除出政府意味着我们将失去他的忠诚，不过在他的计划里将一文不值的贵族认为这是一个划算的代价。",
+        "translation": "自从我们将我们的一位枢机任命为政府里的大臣，他远不止提供了神学见解和在[Root.GetName]的政府中创造新的管理模式。不幸的是。他的集权建议是无法避开剥夺一部分贵族的权力的，这些贵族已经将他视为投机主义者。如果在此时因为这个争议将其开除出政府意味着我们将失去他的忠诚，不过在他的计划里将一文不值的贵族认为这是一个划算的代价。",
         "stage": 1
     },
     {
@@ -4634,7 +4634,7 @@
     {
         "key": "aow_events.51.d:0",
         "original": "While conducting espionage in one of our neighboring countries, our operatives shadowed a powerful man, a cardinal, and discovered that although his loyalty appears incorruptible, his morals are already corrupt beyond what the Church can possibly imagine. Although the details of his transgressions are not of interest to us, they may be of interest to the Pope and give us a chance to weaken our neighbor's influence in the Curia. On the other hand, having a hold on a man of his rank could be useful in many situations.",
-        "translation": "当我们在邻国实施间谍活动的时候，我们的间谍尾随了一个有权有势的人——一位枢机主教，尽管发现他的忠诚似乎无法被收买，但他的道德已经败坏到教会无法想象的境界了。虽然我们对他犯的细节不是感兴趣，也许对教宗来说将会十分有兴趣，而且会让我们削弱邻国在教廷里的影响力。另一方面来看，有着如此重要的人物的把柄也将有很多用处。",
+        "translation": "当我们在邻国实施间谍活动的时候，我们的间谍尾随了一个有权有势的人——一位枢机，尽管发现他的忠诚似乎无法被收买，但他的道德已经败坏到教会无法想象的境界了。虽然我们对他犯的细节不是感兴趣，也许对教宗来说将会十分有兴趣，而且会让我们削弱邻国在教廷里的影响力。另一方面来看，有着如此重要的人物的把柄也将有很多用处。",
         "stage": 1
     },
     {
@@ -4658,7 +4658,7 @@
     {
         "key": "aow_events.52.d:0",
         "original": "The cardinal in [Root.GetName] has been rumored to be of weak character, but has always been discrete enough not to warrant further investigation. Now it appears that foreign spies from [From.GetName] who have had their eye on him put an end to this and exposed his sins to the Pope. His days as a cardinal are numbered, and our power in the Curia will be weakened due to this untimely [From.GetAdjective] intervention.",
-        "translation": "[Root.GetName]的枢机主教在传言中是个性格软弱的人，不过一直十分小心的避免任何进一步的调查。现在[From.GetName]的外国间谍已经盯上了他，准备将他的罪行披露给教宗。他的枢机主教之职难保，而我们在教廷的影响力也因为[From.GetAdjective]的干预大大下降。",
+        "translation": "[Root.GetName]的枢机在传言中是个性格软弱的人，不过一直十分小心的避免任何进一步的调查。现在[From.GetName]的外国间谍已经盯上了他，准备将他的罪行披露给教宗。他的枢机之职难保，而我们在教廷的影响力也因为[From.GetAdjective]的干预大大下降。",
         "stage": 1
     },
     {

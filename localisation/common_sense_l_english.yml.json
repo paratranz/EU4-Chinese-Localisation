@@ -116,8 +116,8 @@
     {
         "key": "papacy_events.6.d:0",
         "original": "The long tradition of appointing a nephew or other relative to the College of Cardinals is an easy way to make sure that family members are well cared for. Popes Gregory IX, Alexander IV, Adrian V, Gregory XI, Boniface IX, Innocent VII and Eugene IV have all promoted relatives to cardinals, especially nephews, thus the name Cardinal-Nephew. It is said that the first Cardinal-Nephew was Lotario, cousin of Pope Benedict VIII. The promotions of papal relatives to the College of Cardinals became common in the 13th century and now there's an opening for a Cardinal [Root.Monarch.GetTitle] [Root.Monarch.GetName] should consider whether or not a relative of his should get the appointment. Of course, the ruler must be asked beforehand, and if they refuse we can do nothing.",
-        "translation": "任命自己的侄子为枢机团成员这一悠久的传统是教宗保证自己的家庭成员被精心照料的最简单的方法。教宗格里高利九世，亚历山大四世，阿德里安五世，格里高利十一世，卜尼法斯九世，英诺森七世和尤金四世都曾把自己的亲戚提名为枢机团成员，其中尤以侄子为多，所以才有了侄子枢机这一说法。据称第一个侄子枢机是教宗本笃八世的侄子洛塔里奥。到了13世纪，将教宗的亲戚任命为枢机团成员变得更加普遍了。现在，枢机团中出现了一个空位。[Root.Monarch.GetTitle] [Root.Monarch.GetName] 应该好好想想应不应该把自己的一位亲戚任命为枢机主教。当然，我们必须提前取得该地方统治者的同意，否则我们什么也做不了。",
-        "stage": 5
+        "translation": "任命自己的侄子为枢机团成员这一悠久的传统是教宗保证自己的家庭成员被精心照料的最简单的方法。教宗格里高利九世，亚历山大四世，阿德里安五世，格里高利十一世，卜尼法斯九世，英诺森七世和尤金四世都曾把自己的亲戚提名为枢机团成员，其中尤以侄子为多，所以才有了侄子枢机这一说法。据称第一个侄子枢机是教宗本笃八世的侄子洛塔里奥。到了13世纪，将教宗的亲戚任命为枢机团成员变得更加普遍了。现在，枢机团中出现了一个空位。[Root.Monarch.GetTitle] [Root.Monarch.GetName] 应该好好想想应不应该把自己的一位亲戚任命为枢机。当然，我们必须提前取得该地方统治者的同意，否则我们什么也做不了。",
+        "stage": 1
     },
     {
         "key": "papacy_events.6.a:0",
@@ -128,8 +128,8 @@
     {
         "key": "papacy_events.6.b:0",
         "original": "Let us ask him if our nephew may become the new Cardinal.",
-        "translation": "让我们问问他，我们的侄子能否成为枢机主教的新成员。",
-        "stage": 5
+        "translation": "让我们问问他，我们的侄子能否成为新任枢机。",
+        "stage": 1
     },
     {
         "key": "papacy_events.7.t:0",
@@ -140,14 +140,14 @@
     {
         "key": "papacy_events.7.d:0",
         "original": "The [From.Owner.Monarch.GetTitle] [From.Owner.Monarch.GetName] is asking us to appoint his Cardinal-Nephew to [Root.GetName] as Cardinal. It is a very common practice among Popes to elevate a relative, most often a nephew, to Cardinal. Benedict VIII's cousin Lotario was first one to be appointed Cardinal-Nephew in 1015.",
-        "translation": "[From.Owner.Monarch.GetTitle] [From.Owner.Monarch.GetName] 请求我们把他的侄子任命为 [Root.GetName] 的枢机主教。教宗把自己的亲戚（通常是侄子）任命为枢机主教是一个非常普遍的做法。1015年，本笃八世的侄子洛塔里奥成为了第一个被任命的侄子枢机。",
-        "stage": 5
+        "translation": "[From.Owner.Monarch.GetTitle] [From.Owner.Monarch.GetName] 请求我们把他的侄子任命为 [Root.GetName] 的枢机。教宗把自己的亲戚（通常是侄子）任命为枢机是一个非常普遍的做法。1015年，本笃八世的侄子洛塔里奥成为了第一个被任命的侄子枢机。",
+        "stage": 1
     },
     {
         "key": "papacy_events.7.a:0",
         "original": "Accept the Pope's Cardinal-Nephew.",
-        "translation": "同意教宗的侄子担任枢机主教。",
-        "stage": 5
+        "translation": "同意教宗的侄子担任枢机。",
+        "stage": 1
     },
     {
         "key": "papacy_events.7.b:0",
@@ -164,8 +164,8 @@
     {
         "key": "papacy_events.8.d:0",
         "original": "[From.Owner.GetName] has accepted the nephew as the new Cardinal in [From.GetName].",
-        "translation": "[From.Owner.GetName]已经同意让教宗的侄子担任[From.GetName]的新枢机主教。",
-        "stage": 5
+        "translation": "[From.Owner.GetName]已经同意让教宗的侄子担任[From.GetName]的新枢机。",
+        "stage": 1
     },
     {
         "key": "papacy_events.8.a:0",
@@ -182,8 +182,8 @@
     {
         "key": "papacy_events.9.d:0",
         "original": "[From.Owner.GetName] has refused to appoint the nephew to Cardinal in [From.GetName].",
-        "translation": "[From.Owner.GetName]拒绝了教宗的侄子成为[From.GetName]枢机主教新成员的请求。",
-        "stage": 5
+        "translation": "[From.Owner.GetName]已经拒绝让教宗的侄子担任[From.GetName]的枢机。",
+        "stage": 1
     },
     {
         "key": "papacy_events.9.a:0",
@@ -1046,7 +1046,7 @@
     {
         "key": "opinion_cardinal_nephew:0",
         "original": "Cardinal Nephew",
-        "translation": "枢机主教的侄子",
+        "translation": "侄子枢机",
         "stage": 1
     },
     {

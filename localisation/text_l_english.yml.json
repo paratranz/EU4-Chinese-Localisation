@@ -116,8 +116,8 @@
     {
         "key": "CARDINAL_X_FROM:0",
         "original": "Cardinal $NAME$ from $LOCATION$",
-        "translation": "来自$LOCATION$的枢机主教$NAME$",
-        "stage": 5
+        "translation": "来自$LOCATION$的枢机$NAME$",
+        "stage": 1
     },
     {
         "key": "CURR_CURIA_CONTROLLER:0",
@@ -134,19 +134,19 @@
     {
         "key": "BRIBE_CARDINAL:0",
         "original": "It will cost $CASH$ ducats to influence this cardinal.",
-        "translation": "贿赂这位枢机主教需要$CASH$金币。",
-        "stage": 5
+        "translation": "贿赂这位枢机需要$CASH$金币。",
+        "stage": 1
     },
     {
         "key": "CARDINAL_ALREADY_OURS:0",
         "original": "This cardinal is already under our control.",
-        "translation": "这位枢机主教已在我们的掌控之下。",
-        "stage": 5
+        "translation": "这位枢机已在我们的掌控之下。",
+        "stage": 1
     },
     {
         "key": "CANT_AFFORD_BRIBE:0",
         "original": "You can't afford the $CASH$ it would cost to influence this cardinal.",
-        "translation": "你无法负担贿赂这位枢机主教所需的$CASH$金币。",
+        "translation": "你无法负担贿赂这位枢机所需的$CASH$金币。",
         "stage": 1
     },
     {
@@ -13358,7 +13358,7 @@
     {
         "key": "CARDINAL_TITLE:0",
         "original": "Cardinal",
-        "translation": "枢机主教",
+        "translation": "枢机",
         "stage": 1
     },
     {
@@ -14420,7 +14420,7 @@
     {
         "key": "CARDINAL_BRIBE_DESC:0",
         "original": "If we are successful, the cardinal will support us and we gain §G$GAIN$§W prestige. If we should fail, we will lose §R$LOSS$§W.",
-        "translation": "如果成功，这名枢机主教将会支持我国且我们将获得§G$GAIN$§W威望。如果失败，我们将失去§R$LOSS$§W威望。",
+        "translation": "如果成功，这名枢机将会支持我国且我们将获得§G$GAIN$§W威望。如果失败，我们将失去§R$LOSS$§W威望。",
         "stage": 1
     },
     {
@@ -16100,7 +16100,7 @@
     {
         "key": "PAPACY_CARDINALS:0",
         "original": "Cardinals:",
-        "translation": "枢机主教:",
+        "translation": "枢机：",
         "stage": 1
     },
     {
@@ -26318,13 +26318,13 @@
     {
         "key": "HAS_CARDINAL:0",
         "original": "Province has an active cardinal",
-        "translation": "该省份拥有一位在职的枢机主教",
+        "translation": "该省份拥有在职的枢机",
         "stage": 1
     },
     {
         "key": "HAS_CARDINAL_NOT:0",
         "original": "Province does not have an active cardinal",
-        "translation": "该省份没有在职的枢机主教",
+        "translation": "该省份没有在职的枢机",
         "stage": 1
     },
     {
@@ -33836,25 +33836,25 @@
     {
         "key": "HAVE_LESS_CARDINALS_THAN:0",
         "original": "Cardinals less than ",
-        "translation": "枢机主教少于",
+        "translation": "枢机少于",
         "stage": 1
     },
     {
         "key": "HAVE_MORE_CARDINALS_THAN:0",
         "original": "Cardinals at least ",
-        "translation": "枢机主教至少",
+        "translation": "枢机至少",
         "stage": 1
     },
     {
         "key": "HAVE_LESS_TOTAL_CARDINALS_THAN:0",
         "original": "Total cardinals less than ",
-        "translation": "枢机主教的总数少于",
+        "translation": "枢机的总数少于",
         "stage": 1
     },
     {
         "key": "HAVE_MORE_TOTAL_CARDINALS_THAN:0",
         "original": "Total cardinals at least ",
-        "translation": "枢机主教的总数至少",
+        "translation": "枢机的总数至少",
         "stage": 1
     },
     {
@@ -38372,7 +38372,7 @@
     {
         "key": "desc_infiltrator_in_the_cardinal_office:0",
         "original": "According to one of your closest advisors, a spy has managed to infiltrate the Sacred College of Cardinals.",
-        "translation": "据你的一个亲近的顾问说，一个间谍成功地渗透进了枢机主教的神圣教团.",
+        "translation": "据你的一个亲近的顾问说，一个间谍成功地渗透进了神圣的枢机团。",
         "stage": 1
     },
     {
@@ -41882,7 +41882,7 @@
     {
         "key": "PAPAL_INFLUENCE_NO_CARDINAL:0",
         "original": "§R- It is not possible to invest papal influence if you have no active cardinals.§!",
-        "translation": "§R- 你必须拥有在职的枢机主教才能投资教廷影响力。§!",
+        "translation": "§R- 你必须拥有在职的枢机才能投资教廷影响力。§!",
         "stage": 1
     },
     {
@@ -41924,7 +41924,7 @@
     {
         "key": "CARDINALS_PAPAL_INFLUENCE:0",
         "original": "From Controlled Cardinals:",
-        "translation": "控制的枢机主教：",
+        "translation": "控制的枢机：",
         "stage": 1
     },
     {
@@ -42326,7 +42326,7 @@
     {
         "key": "PAPACYVIEW_CANDIDATE:0",
         "original": "There's a §Y$CHANCE$%§W chance that the next cardinal will come from §Y$COUNTRY$§W. They have a papal influence of §Y$INFLUENCE$%§W.",
-        "translation": "下一位枢机主教有§Y$CHANCE$%§W的几率由§Y$COUNTRY$§W出身的信徒担任。他们有§Y$INFLUENCE$%§W教廷影响力。",
+        "translation": "下一位枢机有§Y$CHANCE$%§W的几率由§Y$COUNTRY$§W出身的信徒担任。该国有§Y$INFLUENCE$%§W教廷影响力。",
         "stage": 1
     },
     {
@@ -42350,7 +42350,7 @@
     {
         "key": "CARDINAL_CHANCE:0",
         "original": "Cardinal Chance",
-        "translation": "枢机主教几率",
+        "translation": "枢机几率",
         "stage": 1
     },
     {
@@ -42764,7 +42764,7 @@
     {
         "key": "CARDINAL_CHANCE_INSTANT:0",
         "original": "There's a §Y$CHANCE$%§W chance that you will get the next cardinal.",
-        "translation": "有 §Y$CHANCE$%§W 的机会你将得到下一个枢机主教。",
+        "translation": "有 §Y$CHANCE$%§W 的机会你将得到下一个枢机。",
         "stage": 1
     },
     {
