@@ -146,8 +146,8 @@
     {
         "key": "CANT_AFFORD_BRIBE:0",
         "original": "You can't afford the $CASH$ it would cost to influence this cardinal.",
-        "translation": "你无法支付贿赂这位枢机主教所需的$CASH$¤。",
-        "stage": 5
+        "translation": "你无法负担贿赂这位枢机主教所需的$CASH$金币。",
+        "stage": 1
     },
     {
         "key": "HEADER_OVERVIEW:0",
@@ -14420,7 +14420,7 @@
     {
         "key": "CARDINAL_BRIBE_DESC:0",
         "original": "If we are successful, the cardinal will support us and we gain §G$GAIN$§W prestige. If we should fail, we will lose §R$LOSS$§W.",
-        "translation": "如果成功，这名枢机主教将会支持我们且我们将获得§G$GAIN$§W威望。如果失败，我们将失去§R$LOSS$§W威望。",
+        "translation": "如果成功，这名枢机主教将会支持我国且我们将获得§G$GAIN$§W威望。如果失败，我们将失去§R$LOSS$§W威望。",
         "stage": 1
     },
     {
@@ -26318,13 +26318,13 @@
     {
         "key": "HAS_CARDINAL:0",
         "original": "Province has an active cardinal",
-        "translation": "本省份拥有一位现任的枢机",
+        "translation": "该省份拥有一位在职的枢机主教",
         "stage": 1
     },
     {
         "key": "HAS_CARDINAL_NOT:0",
         "original": "Province does not have an active cardinal",
-        "translation": "本省份没有现任的枢机",
+        "translation": "该省份没有在职的枢机主教",
         "stage": 1
     },
     {
@@ -33848,13 +33848,13 @@
     {
         "key": "HAVE_LESS_TOTAL_CARDINALS_THAN:0",
         "original": "Total cardinals less than ",
-        "translation": "枢机的总数低于",
+        "translation": "枢机主教的总数少于",
         "stage": 1
     },
     {
         "key": "HAVE_MORE_TOTAL_CARDINALS_THAN:0",
         "original": "Total cardinals at least ",
-        "translation": "枢机的总数至少",
+        "translation": "枢机主教的总数至少",
         "stage": 1
     },
     {
@@ -41882,7 +41882,7 @@
     {
         "key": "PAPAL_INFLUENCE_NO_CARDINAL:0",
         "original": "§R- It is not possible to invest papal influence if you have no active cardinals.§!",
-        "translation": "§R- 你必须拥有在任的枢机才能投资教廷影响力.§!",
+        "translation": "§R- 你必须拥有在职的枢机主教才能投资教廷影响力。§!",
         "stage": 1
     },
     {
@@ -42764,7 +42764,7 @@
     {
         "key": "CARDINAL_CHANCE_INSTANT:0",
         "original": "There's a §Y$CHANCE$%§W chance that you will get the next cardinal.",
-        "translation": "有 §Y$CHANCE$%§W 的机会你将得到下一个枢机主教.",
+        "translation": "有 §Y$CHANCE$%§W 的机会你将得到下一个枢机主教。",
         "stage": 1
     },
     {

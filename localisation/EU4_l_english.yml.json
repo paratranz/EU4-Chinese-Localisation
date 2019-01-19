@@ -13892,8 +13892,8 @@
     {
         "key": "CARDINAL_NEW:0",
         "original": "§YActive cardinal§!\\nWe control this active cardinal from $HOME|Y$. Each active cardinal gives us $BENEFIT$ Papal Influence per year.",
-        "translation": "§Y正在效力的枢机主教§!\\n这名来自$HOME|Y$的枢机主教为我们效力。每位效力的枢机主教每年给我们增加$BENEFIT$教廷影响力。",
-        "stage": 5
+        "translation": "§Y在职的枢机主教§!\\n我国控制着这名来自$HOME|Y$的在职的枢机主教。每位在职的枢机主教每年给我们增加$BENEFIT$教廷影响力。",
+        "stage": 1
     },
     {
         "key": "NO_ACTIVE_CARDINALS:0",
@@ -13946,7 +13946,7 @@
     {
         "key": "VOTES_FROM_OTHERS:0",
         "original": "Other countries may have invested points in this cardinal. This will be revealed when the cardinal becomes an active cardinal or if he dies.",
-        "translation": "其他国家可能在这个主教身上投资了点数。当他升任枢机主教或死亡时，这层关系将被揭露。",
+        "translation": "其他国家可能在这个枢机主教身上投资了点数。当他成为在职的枢机主教或死亡时，这层关系将被揭露。",
         "stage": 1
     },
     {
@@ -14258,7 +14258,7 @@
     {
         "key": "NO_ACTVIVE_CARDINALS:0",
         "original": "No active cardinals.",
-        "translation": "没有正在效力的枢机主教。",
+        "translation": "没有在职的枢机主教。",
         "stage": 1
     },
     {
@@ -14270,7 +14270,7 @@
     {
         "key": "VOTE_ONE_ON_CARDINAL:0",
         "original": "§YLeft click§! to spend $PI|R$ point of Papal Influence to add $PI|G$ vote for this future cardinal.",
-        "translation": "§Y单击左键§!来使用$PI|R$点教廷影响力为这名候补枢机主教增加 $PI|G$票。",
+        "translation": "§Y单击左键§!来使用$PI|R$点教廷影响力为这名候补枢机主教增加 $PI|G$ 票。",
         "stage": 1
     },
     {
@@ -14282,13 +14282,13 @@
     {
         "key": "ACTIVE_CARDINALS:0",
         "original": "The country that has the most loyal active cardinals will be the papal controller.",
-        "translation": "效忠的枢机主教数量最多的国家将成为教廷监护。",
+        "translation": "效忠的在职枢机主教数量最多的国家将成为教廷监护。",
         "stage": 1
     },
     {
         "key": "FUTURE_CARDINALS:0",
         "original": "When an active cardinal dies, a random one of future cardinals will be chosen to be an active cardinal. The cardinal will be loyal to the one who has spent the most points on him.",
-        "translation": "当一位现任枢机主教死亡时，候补枢机主教中会有一位被随机挑选出来接替他的位置。新主教会效忠于为他投入最多点数的国家。",
+        "translation": "当一位在职枢机主教死亡时，候补枢机主教中会有一位被随机挑选出来接替他的位置。新的枢机主教会效忠于为他投入最多点数的国家。",
         "stage": 1
     },
     {
@@ -14300,7 +14300,7 @@
     {
         "key": "PAPAL_INFLUENCE_DESC:0",
         "original": "Papal Influence represents our influence with the Holy Father. This can be spent on future cardinals to make them loyal to us when they one day become active cardinals.",
-        "translation": "教廷影响力代表了我们对圣座的影响力。教廷影响力可以花费在候补枢机主教身上，使他们有朝一日成为枢机主教时效忠我们。",
+        "translation": "教廷影响力代表了我们对圣座的影响力。教廷影响力可以花费在候补枢机主教身上，使他们有朝一日成为在职枢机主教时效忠我们。",
         "stage": 1
     },
     {
@@ -14390,7 +14390,7 @@
     {
         "key": "SORT_BY_NCARDINALS:0",
         "original": "Sort by number of active cardinals",
-        "translation": "按效力的枢机主教数量排序",
+        "translation": "按在职的枢机主教数量排序",
         "stage": 1
     },
     {
@@ -22118,7 +22118,7 @@
     {
         "key": "CARDINAL_TOOLTIP_AMOUNT:0",
         "original": "§Y$COUNTRY$§W has §Y$AMOUNT$§W active cardinals.",
-        "translation": "§Y$COUNTRY$§W有§Y$AMOUNT$§W位活跃的枢机主教。",
+        "translation": "§Y$COUNTRY$§W有§Y$AMOUNT$§W位在职的枢机主教。",
         "stage": 1
     },
     {
