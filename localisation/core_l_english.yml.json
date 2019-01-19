@@ -2198,8 +2198,8 @@
     {
         "key": "RETURN_PROVINCE_DESC_1:0",
         "original": "Returning §Y$PROV$§! to §Y$COUNTRY$§! will improve their opinion of you by $AMT$.",
-        "translation": "归还省份§Y$PROV$§!给§Y$COUNTRY$§!将提高他们对你的好感度$AMT$点。",
-        "stage": 5
+        "translation": "归还省份§Y$PROV$§!给§Y$COUNTRY$§!将提高该国对你的好感$AMT$。",
+        "stage": 1
     },
     {
         "key": "RETURN_PROVINCE_DESC_2:0",
@@ -2264,14 +2264,14 @@
     {
         "key": "PROVINCE_TRANSFER_UNDER_SIEGE:0",
         "original": "Cannot transfer control of a province that is under siege.",
-        "translation": "无法转移被围困省份的控制权。",
+        "translation": "不能转移被围攻省份的控制权。",
         "stage": 1
     },
     {
         "key": "PROVINCE_TRANSFER_NO_VALID:0",
         "original": "There are no war allies you can transfer the control to.",
-        "translation": "你没有战争的盟友，无法转移控制权。",
-        "stage": 5
+        "translation": "你没有战争盟友，无法转移控制权。",
+        "stage": 1
     },
     {
         "key": "TRANSFER_NOT_CONTROLLER:0",
@@ -2534,7 +2534,7 @@
     {
         "key": "BORDER_DISTANCE_AT_LEAST:0",
         "original": "Distance between borders at least",
-        "translation": "国境之间的距离达到",
+        "translation": "国境之间的距离至少为",
         "stage": 1
     },
     {
@@ -2546,7 +2546,7 @@
     {
         "key": "DIPLOMATIC_DISTANCE_AT_LEAST:0",
         "original": "Distance between capitals at least",
-        "translation": "首都之间的距离至达到",
+        "translation": "首都之间的距离至少为",
         "stage": 1
     },
     {
@@ -2558,7 +2558,7 @@
     {
         "key": "PROVINCE_DISTANCE_AT_LEAST:0",
         "original": "Distance between $FROM|Y$ to $TO|Y$ at least $VALUE|Y$",
-        "translation": "$FROM|Y$与$TO|Y$之间的距离达到$VALUE|Y$",
+        "translation": "$FROM|Y$与$TO|Y$之间的距离至少为$VALUE|Y$",
         "stage": 1
     },
     {
