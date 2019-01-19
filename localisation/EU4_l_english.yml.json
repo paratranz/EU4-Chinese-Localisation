@@ -368,20 +368,20 @@
     {
         "key": "patriarch_state:1",
         "original": "Metropolitan of $NAME$",
-        "translation": "$NAME$都主教区",
-        "stage": 5
+        "translation": "$NAME$都主教",
+        "stage": 1
     },
     {
         "key": "CONSECRATE_FOR_PA:1",
         "original": "You can Consecrate a Metropolitan of a state to get $VAL$ Patriarch Authority.",
-        "translation": "你可以祝圣一个州来建立都主教区，并获得$VAL$牧首威望。",
-        "stage": 5
+        "translation": "你可通过在一个州祝圣都主教来获得$VAL$牧首威望。",
+        "stage": 1
     },
     {
         "key": "STATE_PATRIARCH_ALREADY:1",
         "original": "$NAME$ already have a consecrated metropolitan!",
-        "translation": "$NAME$已经是一个祝圣过的都主教区！",
-        "stage": 5
+        "translation": "$NAME$已祝圣都主教！",
+        "stage": 1
     },
     {
         "key": "STAPAT_OTHER_REL:1",
@@ -404,14 +404,14 @@
     {
         "key": "STAPAT_LOW_DEV:1",
         "original": "Metropolitans can only be consecrated in states with at least $NEED|Y$ development and there is only $CUR|Y$ in $NAME$.",
-        "translation": "祝圣都主教区需要所在直属州发展度达到$NEED|Y$，而$NAME$只有$CUR|Y$发展度。",
-        "stage": 5
+        "translation": "祝圣都主教需要所在直属州发展度达到$NEED|Y$，而$NAME$只有$CUR|Y$发展度。",
+        "stage": 1
     },
     {
         "key": "CONFIRCONSECRATEPATRIARCh:1",
         "original": "Confirm Consecrate Metropolitan",
-        "translation": "批准建立祝圣都主教区",
-        "stage": 5
+        "translation": "确认祝圣都主教",
+        "stage": 1
     },
     {
         "key": "CONFIRCONSECRATEPATRIARCH_TEXT:0",
@@ -422,14 +422,14 @@
     {
         "key": "CONSECRATE_BUTTON:1",
         "original": "Consecrate Metropolitan",
-        "translation": "祝圣都主教区",
-        "stage": 5
+        "translation": "祝圣都主教",
+        "stage": 1
     },
     {
         "key": "METROPOLITAN_EMPTY:0",
         "original": "No Metropolitan",
-        "translation": "没有都主教区",
-        "stage": 5
+        "translation": "没有都主教",
+        "stage": 1
     },
     {
         "key": "STATE_PATRIARCH_ALREADY_MAX_AUTH:0",
@@ -488,14 +488,14 @@
     {
         "key": "PATRIARCH_MAP_TT_HAS:1",
         "original": "$NAME|Y$ has a Metropolitan.",
-        "translation": "$NAME|Y$已经建立了都主教区。",
-        "stage": 5
+        "translation": "$NAME|Y$已有都主教。",
+        "stage": 1
     },
     {
         "key": "PATRIARCH_MAP_TT_CAN:1",
         "original": "$NAME|Y$ could get a Metropolitan.",
-        "translation": "$NAME|Y$可以建立都主教区。",
-        "stage": 5
+        "translation": "$NAME|Y$可以祝圣都主教。",
+        "stage": 1
     },
     {
         "key": "LASTS_ICON_UNTIL:0",
@@ -29846,7 +29846,7 @@
     {
         "key": "STAPAT_DO_IT:2",
         "original": "You can Consecrate Metropolitans in states with at least 30 Development if all provinces are fully cored, Orthodox and of an Accepted Culture.\\n\\nConsecrating a Metropolitan in $NAME|Y$ will give us $VAL$ Patriarch Authority, and the following permanent effect:\\n$EFFECT$",
-        "translation": "你可以祝圣一个总发展度达到 30、所有省份的文化已被接受且信奉东正教的直属州来建立都主教区。\\n\\n祝圣并建立都主教区$NAME|Y$给予我们 $VAL$ 牧首权威以及以下永久效果：\\n$EFFECT$",
+        "translation": "你可以在总发展度达到 30、所有省份皆有完整核心、文化已被接受且信奉东正教的直属州祝圣都主教。\\n\\n在$NAME|Y$祝圣都主教给予我国 $VAL$ 牧首权威以及以下永久效果：\\n$EFFECT$",
         "stage": 1
     },
     {
