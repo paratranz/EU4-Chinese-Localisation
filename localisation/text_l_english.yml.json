@@ -668,8 +668,8 @@
     {
         "key": "CREATE_REVOLT:0",
         "original": "§R$SIZE$§W Regiment(s) rises up in Revolt in §Y$WHERE$§W.\\n",
-        "translation": "§R$SIZE$§W个叛军在§Y$WHERE$§W揭竿而起。\\n",
-        "stage": 5
+        "translation": "§R$SIZE$§W个团队在§Y$WHERE$§W发起叛变。\\n",
+        "stage": 1
     },
     {
         "key": "CREATE_PIRATE:0",
@@ -28262,7 +28262,7 @@
     {
         "key": "CREATE_REBELS:0",
         "original": "§R$SIZE$§Y $TYPE$§W regiment(s) rise up in revolt in §Y$WHERE$§W.\\n",
-        "translation": "§R$SIZE$§Y个$TYPE$§W团队在§Y$WHERE$§W起义了. \\n",
+        "translation": "§R$SIZE$§Y个$TYPE$§W团队在§Y$WHERE$§W发起叛变。\\n",
         "stage": 1
     },
     {
@@ -46737,7 +46737,7 @@
         "key": "ND_CLIMATE:0",
         "original": "Climate: §Y$VAL$§!",
         "translation": "气候：§Y$VAL$§!",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ND_TECH_GROUP_DESC:0",
