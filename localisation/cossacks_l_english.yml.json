@@ -5883,13 +5883,13 @@
         "key": "cossack_raids_opinion:0",
         "original": "Cossack Raids",
         "translation": "哥萨克人侵袭",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "cossack_estate_events.1.t:0",
         "original": "Colonization of the Steppes",
         "translation": "草原的殖民者",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "cossack_estate_events.1.d:0",
@@ -5900,7 +5900,7 @@
     {
         "key": "cossack_estate_events.1.a:0",
         "original": "These Serfs must be brought back.",
-        "translation": "逃农必须被追捕回来.",
+        "translation": "逃农必须要追捕回来。",
         "stage": 1
     },
     {
@@ -5936,19 +5936,19 @@
     {
         "key": "cossack_estate_events.3.d:0",
         "original": "Moving quickly by boat or on horseback the Cossacks of the steppes are very adept raiders. Several such raids have lately laid waste to the [From.GetAdjective] countryside and even major cities some way from our borders.\\nAs the Cossacks responsible are based inside our borders the [From.GetAdjective] have now demanded both compensation and for the culprits to be brought to justice.",
-        "translation": "依靠船只及快马迅速移动的 $ESTATE_COSSACKS$十分擅长各种奇袭.几次的突然袭击几乎把[From.GetAdjective]的边境甚至一些主要城市洗劫一空.\\n我们作为边民$ESTATE_COSSACKS$的保护方,[From.GetAdjective]要求我们赔偿以及对匪徒进行制裁.",
+        "translation": "草原上的哥萨克人依靠船只及快马迅速移动，十分擅长奇袭。几次突然袭击几乎把[From.GetAdjective]的乡村甚至一些主要城市洗劫一空。\\n我们保护着国境内的哥萨克人，故[From.GetAdjective]要求我们赔偿，并对匪徒进行制裁。",
         "stage": 1
     },
     {
         "key": "cossack_estate_events.3.a:0",
         "original": "This matter is beyond our control.",
-        "translation": "事情已经超过我们的控制.",
+        "translation": "事情已经超过我们的控制。",
         "stage": 1
     },
     {
         "key": "cossack_estate_events.3.b:0",
         "original": "Bring them to justice!",
-        "translation": "将他们绳之以法!",
+        "translation": "将他们绳之以法！",
         "stage": 1
     },
     {
@@ -5960,13 +5960,13 @@
     {
         "key": "cossack_estate_events.4.d:0",
         "original": "The [From.GetAdjective] response is that they refuse to take responsibility for the raids into our country, claiming that they are unable to control the Cossacks themselves.",
-        "translation": "[From.GetAdjective]的回复如下,他们拒绝对发生在我国的袭击活动负责,并宣称他们没有能力控制他们的$ESTATE_COSSACKS$.",
+        "translation": "[From.GetAdjective]的回复了我们，他们拒绝对发生在我国的袭击活动负责，并宣称没有能力控制他们的哥萨克人。",
         "stage": 1
     },
     {
         "key": "cossack_estate_events.4.a:0",
         "original": "We care little for such excuses.",
-        "translation": "我们并不接受这样的借口.",
+        "translation": "我们并不接受这样的借口。",
         "stage": 1
     },
     {
@@ -5978,26 +5978,26 @@
     {
         "key": "cossack_estate_events.5.d:0",
         "original": "The [From.GetAdjective] response has been to send some monetary compensation for the raids of their Cossack subjects which has made up for the damage to property. They also claim that they have brought the guilty parties to justice.",
-        "translation": "[From.GetAdjective]的回复如下,他们给了我们一些金币作为他们治下的哥萨克人袭击我国的赔偿.他们同时声称他们会把犯人绳之以法.",
+        "translation": "[From.GetAdjective]回复了我们，他们为治下的哥萨克人袭击我国赔偿了一些金币，同时声称他们会把犯人绳之以法。",
         "stage": 1
     },
     {
         "key": "cossack_estate_events.5.a:0",
         "original": "If we could only believe that.",
-        "translation": "我们只能这样相信了.",
+        "translation": "我们只能这样相信了。",
         "stage": 1
     },
     {
         "key": "cossack_estate_events.6.d:0",
         "original": "While few would dispute their influence on the Steppes the Cossacks have many things working against them when it comes to gaining influence in the halls of power. The $ESTATE_NOBLES$ despise them and would see them all brought to work as serfs on their latifundia and their manners have not brought them many friends in [Root.Capital.GetCapitalName].\\nLately, however, things have been going their way. They have managed to defend their settlements and their services to the state as raiders are undisputable.",
-        "translation": "一直在草原上拓展影响力的$ESTATE_COSSACKS$势力,在试图夺取国家影响力时受到阻力.特别是$ESTATE_NOBLES$鄙视他们,认为他们在[Root.Capital.GetCapitalName]毫无礼节可言,并企图想把他们全变成庄园下农奴.\\n然而他们还是这样我行我素.他们计划以另一方式报效国家,作为国家边缘人保存自己的居住定并以国家名义去洗劫邻邦者.",
-        "stage": 1
+        "translation": "一直在草原上拓展影响力的$ESTATE_COSSACKS$势力,在试图夺取国家影响力时受到阻力.特别是$ESTATE_NOBLES$鄙视他们,认为他们在[Root.Capital.GetCapitalName]毫无礼节可言,并企图想把他们全变成庄园下农奴.\\n然而他们还是这样我行我素.他们计划以另一方式报效国家,作为国家边缘人保存自己的居住定并以国家名义去洗劫邻邦者.[Root.Capital.GetCapitalName]",
+        "stage": 2
     },
     {
         "key": "cossack_estate_events.6.a:0",
         "original": "Ok.",
-        "translation": "Ok.",
-        "stage": 1
+        "translation": "好的。",
+        "stage": 5
     },
     {
         "key": "cossack_estate_events.7.d:0",
