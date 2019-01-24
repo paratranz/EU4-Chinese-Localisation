@@ -34,38 +34,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Bernard #0" = 0
-  "Bruno #0" = 0
-  "Charles #0" = 0
-  "Claude #0" = 0
-  "Denis #0" = 0
-  "Édouard #0" = 0
-  "Emmanuel #0" = 0
-  "Eustache #0" = 0
-  "Fabien #0" = 0
-  "Faustin #0" = 0
-  "Félix #0" = 0
-  "Florian #0" = 0
-  "Georges #0" = 0
-  "Géraud #0" = 0
-  "Honoré #0" = 0
-  "Horace #0" = 0
-  "Jean #0 Baptiste" = 0
-  "Jean #0 Louis" = 0
-  "Juan #0 Pierre" = 0
-  "Marius #0" = 0
-  "Mathieu #0" = 0
-  "Maurice #0" = 0
-  "Olivier #0" = 0
-  "Pascal #0" = 0
-  "Philippe #0" = 0
-  "Renaud #0" = 0
-  "Séraphin #0" = 0
-  "Sylvain #0" = 0
-  "Vincent #0" = 0
-  "Bernadette #0" = -1
-  "Camille #0" = -1
-  "Fleur #0" = -1
   "亨利 #0" = 20  # Henri #0
   "雅克 #0" = 20  # Jacques #0
   "雅克 #0 维克多" = 10  # Jacques #0 Victor
@@ -76,39 +44,71 @@ monarch_names = {
   "阿尔贝 #0" = 0  # Albert #0
   "亚历山大 #0" = 0  # Alexandre #0
   "安布鲁瓦兹 #0" = 0  # Ambroise #0
+  "伯纳德 #0" = 0  # Bernard #0
+  "布鲁诺 #0" = 0  # Bruno #0
+  "查尔斯 #0" = 0  # Charles #0
+  "克洛德 #0" = 0  # Claude #0
+  "丹尼斯 #0" = 0  # Denis #0
+  "爱德华 #0" = 0  # Édouard #0
+  "伊曼纽尔 #0" = 0  # Emmanuel #0
+  "厄斯塔什 #0" = 0  # Eustache #0
+  "法比昂 #0" = 0  # Fabien #0
+  "福斯坦 #0" = 0  # Faustin #0
+  "费利克斯 #0" = 0  # Félix #0
+  "弗洛里安 #0" = 0  # Florian #0
+  "乔治 #0" = 0  # Georges #0
+  "热罗 #0" = 0  # Géraud #0
+  "奥诺雷 #0" = 0  # Honoré #0
+  "奥拉塞 #0" = 0  # Horace #0
+  "简 #0 巴提斯" = 0  # Jean #0 Baptiste
   "让 #0 雅克" = 0  # Jean #0 Jacques
+  "让 #0 路易" = 0  # Jean #0 Louis
+  "胡安 #0 皮埃尔" = 0  # Juan #0 Pierre
+  "马里乌斯 #0" = 0  # Marius #0
+  "马蒂厄 #0" = 0  # Mathieu #0
+  "莫里斯 #0" = 0  # Maurice #0
+  "奥利维耶 #0" = 0  # Olivier #0
+  "帕斯卡 #0" = 0  # Pascal #0
+  "腓力 #0" = 0  # Philippe #0
+  "雷诺 #0" = 0  # Renaud #0
+  "塞拉芬 #0" = 0  # Séraphin #0
+  "西尔万 #0" = 0  # Sylvain #0
+  "文森特 #0" = 0  # Vincent #0
+  "贝尔纳黛特 #0" = -1  # Bernadette #0
+  "卡米尔 #0" = -1  # Camille #0
+  "弗勒尔 #0" = -1  # Fleur #0
 }
 leader_names = {
-  "Biassou"
-  "François"
-  "d'Aulnay"
-  "de Boissieu"
-  "de Bonnefoy"
-  "de Chambronne"
-  "de Champmartin"
-  "des Ecures"
-  "de Galard"
-  "des Herbiers"
-  "de Marguerye"
-  "de Maurepas"
-  "d'Ornano"
-  "de Pellefort"
-  "de Siorac"
-  "de Tréville"
-  "de Vibien"
-  "de Vigny"
-  "Le Tellier"
+  "布瓦苏"  # Biassou
+  "弗朗索瓦"  # François
+  "德 欧奈"  # d'Aulnay
+  "德 布瓦西厄"  # de Boissieu
+  "德 博纳富瓦"  # de Bonnefoy
+  "德 尚布隆尼"  # de Chambronne
+  "德 尚普马丁"  # de Champmartin
+  "德 埃屈尔"  # des Ecures
+  "德 加拉尔"  # de Galard
+  "德 塞比耶"  # des Herbiers
+  "德 马尔盖耶"  # de Marguerye
+  "德 莫勒帕"  # de Maurepas
+  "德 奥纳诺"  # d'Ornano
+  "德 皮勒耶福"  # de Pellefort
+  "德 西奥拉克"  # de Siorac
+  "德 特雷维尔"  # de Tréville
+  "德 维比安"  # de Vibien
+  "德 维尼"  # de Vigny
+  "勒 泰利耶"  # Le Tellier
 }
 ship_names = {
-  "la Belle Poule"
-  "le Magnifique"
-  "le Neptune"
-  "l'Océan"
-  "la Provence"
+  "非洲之角"  # la Belle Poule
+  "圣母殉道者"  # le Magnifique
+  "四兄弟"  # le Neptune
+  "罗马王"  # l'Océan
+  "普罗旺斯"  # la Provence
   "le Robuste"
-  "le Sceptre"
-  "la Superbe"
-  "la Trombe"
-  "le Triton"
-  "la Victoire"
+  "圣伊尼亚斯"  # le Sceptre
+  "忏悔者圣路易"  # la Superbe
+  "圣菲利普"  # la Trombe
+  "圣皮埃尔"  # le Triton
+  "胜利女神"  # la Victoire
 }
