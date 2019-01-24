@@ -24,8 +24,6 @@ historical_units = {
   reformed_asian_musketeer
 }
 monarch_names = {
-  "'Umniya #0" = -1
-  "Hafeeza #0" = -1
   "穆罕默德 #0" = 20  # Muhammad #0
   "艾哈迈德 #0" = 20  # Ahmad #0
   "苏莱曼 #0" = 20  # Sulaymân #0
@@ -44,6 +42,8 @@ monarch_names = {
   "穆罕默德 贾迈勒丁 #0" = 20  # Muhammad Jamâl ad-Dîn #0
   "莫哈末 丹祖汀 #0" = 20  # Muhammad Tâj ad-Dîn #0
   "罗姆 #0" = -1  # Rim #0
+  "温尼亚 #0" = -1  # 'Umniya #0
+  "哈费厄扎 #0" = -1  # Hafeeza #0
   "阿伊莎 #0" = -1  # Aisha #0
   "阿祖拉 #0" = -1  # Azura #0
 }
@@ -69,25 +69,25 @@ leader_names = {
   "祖尔琦非里"  # Zulkifli
 }
 ship_names = {
-  "Sungai Belait"
-  "Sungai Tutong"
+  "马来奕河"  # Sungai Belait
+  "都东河"  # Sungai Tutong
   "淡武廊河"  # Sungai Tembureng
   "巴塘"  # Batang
-  "Trusan"
+  "特鲁桑"  # Trusan
   "邦达鲁安河"  # Sungai Pandaruan
   "林梦河"  # Lungai Limbang
-  "Batang Baram"
+  "巴兰河"  # Batang Baram
   "巴孔河"  # Sungai Bakong
   "都道河"  # Sungai Tutoh
-  "Sungai Tinjar"
-  "Kuala Belait"
+  "廷贾尔河"  # Sungai Tinjar
+  "马来奕"  # Kuala Belait
   "巴图 达瑙"  # Batu Danau
-  "Kuala Medamit"
-  "Bangar"
-  "Penanjong"
-  "Lumut"
-  "Telingan"
-  "Labi"
-  "Sukang"
-  "Kuala Baram"
+  "梅达米特河口"  # Kuala Medamit
+  "邦阿"  # Bangar
+  "彭南琼"  # Penanjong
+  "卢穆特"  # Lumut
+  "特林甘"  # Telingan
+  "拉比"  # Labi
+  "苏康"  # Sukang
+  "巴兰河口"  # Kuala Baram
 }
