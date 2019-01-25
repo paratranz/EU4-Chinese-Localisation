@@ -36,22 +36,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Giacomo Ludovico #0" = 15
-  "Assolone #0" = 10
-  "Giacomo #0" = 10
-  "Gian Claudio #0" = 10
-  "Gian Maria #0" = 10
-  "Giano #0" = 10
-  "Giovanni Amedeo #0" = 10
-  "Giovanni Ludovico #0" = 10
-  "Janus #0" = 10
-  "Maurizio #0" = 10
-  "Umberto #3" = 5
-  "Agostino #0" = 0
-  "Bonaventura #0" = 0
-  "Gennaro #0" = 0
-  "Lazzaro #0" = 0
-  "Sandra #0" = -1
   "卡洛 #0" = 60  # Carlo #0
   "阿梅迪奥 #7" = 40  # Amedeo #7
   "卡洛 埃曼努埃莱 #0" = 40  # Carlo Emanuele #0
@@ -64,53 +48,69 @@ monarch_names = {
   "安东尼奥 #0" = 15  # Antonio #0
   "贝尔纳多 #0" = 15  # Bernardo #0
   "腓力 伊曼纽尔 #0" = 15  # Filippo Emanuel #0
+  "贾科莫 卢多维科 #0" = 15  # Giacomo Ludovico #0
   "彼得罗 #2" = 10  # Pietro #2
   "托马索 #2" = 10  # Tomasso #2
   "阿德里亚诺 #0" = 10  # Adriano #0
   "艾莫尼 #0" = 10  # Aimone #0
+  "阿索罗内  #0" = 10  # Assolone #0
   "埃马努埃莱 #0" = 10  # Emanuele #0
   "弗朗切斯科 #0" = 10  # Francesco #0
+  "贾科莫 #0" = 10  # Giacomo #0
+  "吉安 克劳迪奥 #0" = 10  # Gian Claudio #0
+  "吉安 玛利亚 #0" = 10  # Gian Maria #0
+  "贾诺 #0" = 10  # Giano #0
+  "乔瓦尼 阿梅迪奥  #0" = 10  # Giovanni Amedeo #0
+  "乔瓦尼 卢多维科 #0" = 10  # Giovanni Ludovico #0
   "吉罗拉莫 #0" = 10  # Girolamo #0
+  "雅努斯 #0" = 10  # Janus #0
+  "毛里齐奥 #0" = 10  # Maurizio #0
+  "翁贝托 #3" = 5  # Umberto #3
+  "阿戈斯蒂诺 #0" = 0  # Agostino #0
+  "博纳文图拉 #0" = 0  # Bonaventura #0
   "埃德蒙多 #0" = 0  # Edmondo #0
+  "真纳罗 #0" = 0  # Gennaro #0
   "朱利奥 #0" = 0  # Giulio #0
+  "拉扎罗 #0" = 0  # Lazzaro #0
   "洛伦佐 #0" = 0  # Lorenzo #0
   "内斯托雷 #0" = 0  # Nestore #0
   "塞巴斯蒂亚诺 #0" = 0  # Sebastiano #0
   "维托里奥 #0" = 0  # Vittorio #0
+  "桑德拉 #0" = -1  # Sandra #0
   "爱丽丝 #0" = -1  # Alice #0
   "芭芭拉 #0" = -1  # Barbara #0
   "贝亚特丽斯 #0" = -1  # Beatrice #0
   "玛丽亚 #0" = -1  # Maria #0
 }
 leader_names = {
-  "Alfieri"
-  "d'Appiani d'Aragona"
-  "Arborio Mella"
-  "Asinari"
-  "d'Attalaya"
-  "Balbo"
-  "Benso"
-  "Boncompagni Ludovisi"
+  "阿尔菲耶里"  # Alfieri
+  "迪 阿皮亚尼 迪 阿拉戈纳"  # d'Appiani d'Aragona
+  "阿尔博里奥 梅拉"  # Arborio Mella
+  "阿西纳里"  # Asinari
+  "德 阿塔拉亚"  # d'Attalaya
+  "巴尔博"  # Balbo
+  "本索"  # Benso
+  "邦孔帕尼 卢多维西"  # Boncompagni Ludovisi
   "博罗梅奥"  # Borromeo
-  "Bosco"
-  "Botta"
-  "Broglia"
-  "di Busca"
-  "di Cadoval"
-  "Cafasso"
-  "Cantatore di Breo"
-  "di Cardé"
-  "Casati"
-  "Chiodo"
-  "Cisa Asinari"
-  "Cottolengo"
-  "Doria di Cirié"
-  "Ferrero-Fiesco"
-  "Fiesco"
-  "Gaetani"
-  "Gaetani dell'Aquila"
-  "Galletti"
-  "Gioberti"
+  "博斯科"  # Bosco
+  "博塔"  # Botta
+  "布罗利亚"  # Broglia
+  "迪 布斯卡"  # di Busca
+  "迪 卡多瓦尔"  # di Cadoval
+  "卡法索"  # Cafasso
+  "坎塔托雷 迪 布雷奥"  # Cantatore di Breo
+  "迪 卡尔代"  # di Cardé
+  "卡萨蒂"  # Casati
+  "基奥多"  # Chiodo
+  "奇萨 阿西纳里"  # Cisa Asinari
+  "科托伦戈"  # Cottolengo
+  "多里亚 迪 奇列"  # Doria di Cirié
+  "费雷罗 菲耶斯科"  # Ferrero-Fiesco
+  "菲耶斯科"  # Fiesco
+  "加埃塔尼"  # Gaetani
+  "加埃塔尼 德阿奎拉"  # Gaetani dell'Aquila
+  "加莱蒂"  # Galletti
+  "焦贝蒂"  # Gioberti
   "Lascaris"
   "Luserna di Bonifacio"
   "Luserna di Campiglione"
