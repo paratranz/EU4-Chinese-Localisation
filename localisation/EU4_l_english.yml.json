@@ -7796,19 +7796,19 @@
     {
         "key": "RULER_CLAIM:0",
         "original": " with a $CLAIM$ claim",
-        "translation": "有着$CLAIM$宣称权",
+        "translation": "有$CLAIM$宣称",
         "stage": 1
     },
     {
         "key": "RULER_CULTURE:0",
         "original": ", of $CULTURE|Y$ heritage",
-        "translation": "，他属于$CULTURE|Y$文化",
+        "translation": "，属于$CULTURE|Y$文化",
         "stage": 1
     },
     {
         "key": "RULER_RELIGION:0",
         "original": ", following the $RELIGION|Y$ faith",
-        "translation": "，追随$RELIGION|Y$信仰",
+        "translation": "，信仰$RELIGION|Y$",
         "stage": 1
     },
     {
@@ -7820,31 +7820,31 @@
     {
         "key": "DEFINE_HEIR_EFFECT_UNKNOWN:5",
         "original": "A new legal Heir$SKILLS$$CLAIM$$CULTURE$$RELIGION$ appears$AGE$.\\n",
-        "translation": "一位$AGE$岁$SKILLS$$CLAIM$$CULTURE$$RELIGION$的合法继承人登场。\\n",
+        "translation": "新的合法继承人$SKILLS$出现，$AGE$，$CLAIM$$CULTURE$$RELIGION$。\\n",
         "stage": 1
     },
     {
         "key": "DEFINE_HEIR_EFFECT:5",
         "original": "$NAME|Y$$SKILLS$$CLAIM$$CULTURE$$RELIGION$ becomes the new Heir$AGE$.\\n",
-        "translation": "$AGE$岁$SKILLS$$CLAIM$$CULTURE$$RELIGION$的$NAME|Y$成为新继承人。\\n",
+        "translation": "$NAME|Y$$SKILLS$成为新的继承人，$AGE$，$CLAIM$$CULTURE$$RELIGION$。\\n",
         "stage": 1
     },
     {
         "key": "DEFINE_QUEEN_EFFECT_UNKNOWN:5",
         "original": "A new $CONSORT$$SKILLS$$CULTURE$$RELIGION$ appears$AGE$.\\n",
-        "translation": "一位$AGE$岁$SKILLS$$CULTURE$$RELIGION$的$CONSORT$登场。\\n",
+        "translation": "新的$CONSORT$$SKILLS$出现，$AGE$$CULTURE$$RELIGION$。\\n",
         "stage": 1
     },
     {
         "key": "DEFINE_QUEEN_EFFECT:5",
         "original": "$NAME|Y$$SKILLS$$CULTURE$$RELIGION$ becomes the new $CONSORT$$AGE$.\\n",
-        "translation": "$AGE$岁$SKILLS$$CULTURE$$RELIGION$的$NAME|Y$成为新$CONSORT$。\\n",
+        "translation": "$NAME|Y$$SKILLS$成为新的$CONSORT$，$AGE$$CULTURE$$RELIGION$。\\n",
         "stage": 1
     },
     {
         "key": "DEFINE_HEIR_EFFECT_DYN:2",
         "original": "A Noble of the $NAME$ family$SKILLS$$CLAIM$$CULTURE$$RELIGION$ becomes Heir$AGE$.\\n",
-        "translation": "一位$AGE$$SKILLS$$CLAIM$$CULTURE$$RELIGION$来自$NAME$家族的贵族成为了继承人。\\n",
+        "translation": "一位$NAME$家族的贵族$SKILLS$成为新的继承人，$AGE$，$CLAIM$$CULTURE$$RELIGION$。\\n",
         "stage": 1
     },
     {
