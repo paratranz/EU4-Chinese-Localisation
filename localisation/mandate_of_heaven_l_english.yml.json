@@ -338,8 +338,8 @@
     {
         "key": "HARMONIZE_DESC:0",
         "original": "Provinces with Harmonized Religions are tolerated as if they were §Y$NAME$§!.\\nCountries following any of your Harmonized Religions will view you as though you were following that religion.",
-        "translation": "信奉合流宗教的省份会受到和信奉§Y$NAME$§!一样的容忍。\\n信奉你的合流宗教的国家会视你为相同信仰。",
-        "stage": 5
+        "translation": "信奉已融合宗教的省份会受到和信奉§Y$NAME$§!一样的容忍。\\n信奉你的已融合宗教的国家会视你为相同信仰。",
+        "stage": 1
     },
     {
         "key": "HARMONIZE_DESC_CURRENT:1",
@@ -1244,7 +1244,7 @@
     {
         "key": "HARMONIZED_RELIGION_DESC:0",
         "original": "§Y$NAME$§! is a Harmonized Religion.",
-        "translation": "§Y$NAME$§!是一个经融合的宗教。",
+        "translation": "§Y$NAME$§!是一个已融合宗教。",
         "stage": 1
     },
     {
@@ -1256,7 +1256,7 @@
     {
         "key": "HARMONIZE:0",
         "original": "Harmonize",
-        "translation": "合流",
+        "translation": "融合",
         "stage": 1
     },
     {
@@ -1352,14 +1352,14 @@
     {
         "key": "harmonized_dharmic:0",
         "original": "Harmonized with Dharmic Faiths",
-        "translation": "融合正法诸教信仰",
-        "stage": 5
+        "translation": "融合达摩信仰",
+        "stage": 1
     },
     {
         "key": "desc_harmonized_dharmic:0",
         "original": "We have incorporated all Dharmic faiths in our country and national ethos.",
-        "translation": "我们已经将正法诸教融入了我们国家和民族的思想之中。",
-        "stage": 5
+        "translation": "我们已经将达摩信仰融入了我们国家和民族的思想之中。",
+        "stage": 1
     },
     {
         "key": "harmonized_muslim:0",
@@ -1538,7 +1538,7 @@
     {
         "key": "confucian_events.1.a:0",
         "original": "'Submit the people of virtue, assimilate the people with enlightenment.'",
-        "translation": "“服民以道德，渐民以教化。”",
+        "translation": "「服民以道德，渐民以教化。」",
         "stage": 1
     },
     {
@@ -1556,7 +1556,7 @@
     {
         "key": "confucian_events.2.a:0",
         "original": "'Submit the people of virtue, assimilate the people with enlightenment.'",
-        "translation": "“服民以道德，渐民以教化。”",
+        "translation": "「服民以道德，渐民以教化。」",
         "stage": 1
     },
     {
@@ -1574,25 +1574,25 @@
     {
         "key": "confucian_events.3.a:0",
         "original": "'Submit the people of virtue, assimilate the people with enlightenment.'",
-        "translation": "“服民以道德，渐民以教化。”",
+        "translation": "「服民以道德，渐民以教化。」",
         "stage": 1
     },
     {
         "key": "confucian_events.4.t:0",
         "original": "Harmonization of the Dharmic Religions",
-        "translation": "融合正法诸教信仰",
+        "translation": "融合达摩宗教",
         "stage": 1
     },
     {
         "key": "confucian_events.4.d:0",
         "original": "The faith of the Dharmic peoples has been intertwined with our own for millennia yet our beliefs have diverged for almost as long. For a long time it was believed that where we lauded reason and classical learning they strived for diversity and an ancient spiritual power. Over the last years, however, we have strived to integrate the Dharmic society with ours and make their beliefs fit in with our equally strong traditions of philosophy and learning. As we look ahead a common future beckons where the diversity of the Dharmic pantheon can be cherished together with the Confucian classics. Together we have created a new stronger set of rites and traditions for a stronger and more durable state.",
-        "translation": "印度正法诸教信众和我们千年的历史交织在一起，然而我们的信仰也已经分歧了几乎相同的时间。长久以来，一般认为的是，我们赞扬理性和学习圣人经典，而他们追求多样性和古老的精神力量。然而在过去的几年中，我们一直努力将正法诸教融入我们的社会，使他们的信仰融入我们同样强大的哲学传统和学习传统之中。展望未来，我们将发现一幅印度神祇的多样性和儒家经典共同被珍视的图景，这将为我们创造出新的更强大的礼教与传统，服务于一个更强大和更持久的国度。",
+        "translation": "达摩人民的信仰和我们千年的历史交织在一起，然而我们的信仰也已经分歧了几乎相同的时间。长久以来，一般认为的是，我们赞扬理性和学习圣人经典，而他们追求多样性和古老的精神力量。然而在过去的几年中，我们一直努力将达摩社会融入我们的社会，使他们的信仰融入我们同样强大的哲学传统和学习传统之中。展望未来，我们将发现一幅印度神祇的多样性和儒家经典共同被珍视的图景，这将为我们创造出新的更强大的礼教与传统，服务于一个更强大和更持久的国度。",
         "stage": 1
     },
     {
         "key": "confucian_events.4.a:0",
         "original": "'Submit the people of virtue, assimilate the people with enlightenment.'",
-        "translation": "“服民以道德，渐民以教化。”",
+        "translation": "「服民以道德，渐民以教化。」",
         "stage": 1
     },
     {
@@ -1610,7 +1610,7 @@
     {
         "key": "confucian_events.5.a:0",
         "original": "'Submit the people of virtue, assimilate the people with enlightenment.'",
-        "translation": "“服民以道德，渐民以教化。”",
+        "translation": "「服民以道德，渐民以教化。」",
         "stage": 1
     },
     {
@@ -1628,7 +1628,7 @@
     {
         "key": "confucian_events.6.a:0",
         "original": "'Submit the people of virtue, assimilate the people with enlightenment.'",
-        "translation": "“服民以道德，渐民以教化。”",
+        "translation": "「服民以道德，渐民以教化。」",
         "stage": 1
     },
     {
@@ -1646,7 +1646,7 @@
     {
         "key": "confucian_events.7.a:0",
         "original": "'Submit the people of virtue, assimilate the people with enlightenment.'",
-        "translation": "“服民以道德，渐民以教化。”",
+        "translation": "「服民以道德，渐民以教化。」",
         "stage": 1
     },
     {
@@ -1664,7 +1664,7 @@
     {
         "key": "confucian_events.8.a:0",
         "original": "'Submit the people of virtue, assimilate the people with enlightenment.'",
-        "translation": "“服民以道德，渐民以教化。”",
+        "translation": "「服民以道德，渐民以教化。」",
         "stage": 1
     },
     {
@@ -1682,7 +1682,7 @@
     {
         "key": "confucian_events.9.a:0",
         "original": "'Submit the people of virtue, assimilate the people with enlightenment.'",
-        "translation": "“服民以道德，渐民以教化。”",
+        "translation": "「服民以道德，渐民以教化。」",
         "stage": 1
     },
     {
@@ -1700,7 +1700,7 @@
     {
         "key": "confucian_events.10.a:0",
         "original": "'Submit the people of virtue, assimilate the people with enlightenment.'",
-        "translation": "“服民以道德，渐民以教化。”",
+        "translation": "「服民以道德，渐民以教化。」",
         "stage": 1
     },
     {
