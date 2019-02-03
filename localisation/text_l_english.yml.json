@@ -3914,19 +3914,19 @@
     {
         "key": "CONVREL_STAB:0",
         "original": "You can only convert religion if we have a positive stability in our country.",
-        "translation": "只有我国稳定度足够时才能转换国教.",
+        "translation": "只有我国稳定度足够时才能转换国教。",
         "stage": 1
     },
     {
         "key": "CONVREL_NONLEGAL:0",
         "original": "It is not possible to convert to §Y$NEW$§W from §Y$OLD$§W.",
-        "translation": "不能从§Y$OLD$§W转换到 §Y$NEW$§W",
+        "translation": "不能从§Y$OLD$§W转换到§Y$NEW$§W。",
         "stage": 1
     },
     {
         "key": "CONVREL_DEF:0",
         "original": "You cannot change religion when you are the defender of a faith.",
-        "translation": "当你是信仰守护者时你不能转换国教",
+        "translation": "你是信仰守护者，不能转换国教。",
         "stage": 1
     },
     {
@@ -3992,7 +3992,7 @@
     {
         "key": "TRUCEWITH:0",
         "original": "Truce with $LIST$.",
-        "translation": "休战状态： $LIST$.",
+        "translation": "休战状态： $LIST$",
         "stage": 1
     },
     {
@@ -4010,13 +4010,13 @@
     {
         "key": "ATWARWITH:0",
         "original": "At War with $LIST$.",
-        "translation": "交战中： $LIST$",
+        "translation": "交战中：$LIST$",
         "stage": 1
     },
     {
         "key": "ALLIEDWITH:0",
         "original": "Allied with $LIST$.",
-        "translation": "军事同盟： $LIST$.",
+        "translation": "军事同盟：$LIST$",
         "stage": 1
     },
     {
@@ -4076,25 +4076,25 @@
     {
         "key": "LEADUNIONS:0",
         "original": "Leads Personal Unions with $LIST$.",
-        "translation": "主导联合统治： $LIST$.",
+        "translation": "主导联合统治：$LIST$",
         "stage": 1
     },
     {
         "key": "INUNION:0",
         "original": "In Personal Union with $LIST$.",
-        "translation": "被联合统治： $LIST$.",
+        "translation": "被联合统治：$LIST$",
         "stage": 1
     },
     {
         "key": "ROYALMARRIAGE:0",
         "original": "Royal Marriage with $LIST$.",
-        "translation": "王室联姻： $LIST$.",
+        "translation": "王室联姻：$LIST$",
         "stage": 1
     },
     {
         "key": "LEADSUBJECTSLIST:0",
         "original": "Has the following $SUBJECTTYPES$: $LIST$.",
-        "translation": "拥有以下$SUBJECTTYPES$：$LIST$。",
+        "translation": "拥有以下$SUBJECTTYPES$：$LIST$",
         "stage": 1
     },
     {
@@ -4106,13 +4106,13 @@
     {
         "key": "WEAKSUBJECTSLIST_WITH_NAME:0",
         "original": "$COUNTRYNAME|Y$ is a $SUBJECTTYPE$ under $LIST$",
-        "translation": "$COUNTRYNAME|Y$是$LIST$名下的$SUBJECTTYPE$。",
+        "translation": "$COUNTRYNAME|Y$是$LIST$的$SUBJECTTYPE$。",
         "stage": 1
     },
     {
         "key": "LEADMARCHLIST:0",
         "original": "Has the following marches: $LIST$.",
-        "translation": "拥有以下卫戍国：$LIST$。",
+        "translation": "拥有以下卫戍国：$LIST$",
         "stage": 1
     },
     {
@@ -13610,14 +13610,14 @@
     {
         "key": "CONDOTTIERI_IN_USE:0",
         "original": "This unit has already been rented out.",
-        "translation": "这个单位已经被租出去了.",
-        "stage": 1
+        "translation": "此单位已经被租出。",
+        "stage": 5
     },
     {
         "key": "MAX_CONDOTTIERI_EXCEEDED:0",
         "original": "You can only rent out a maximum of $VALUE$ units.",
-        "translation": "你最大只能租出$VALUE$个单位.",
-        "stage": 1
+        "translation": "你最大只能租出$VALUE$个单位。",
+        "stage": 5
     },
     {
         "key": "CONDOTTIERI_TOO_EXPENSIVE:0",

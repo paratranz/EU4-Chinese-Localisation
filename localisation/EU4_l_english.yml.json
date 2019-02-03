@@ -10215,7 +10215,7 @@
         "key": "SELECT_LEADER_AT_SEA:0",
         "original": "§RThis leader is at sea and cannot be reassigned.§!",
         "translation": "§R这位将领正在海上，无法重新分配。§!",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "SELECT_LEADER_AT_SEA_OUT_OF_RANGE:0",
@@ -10479,181 +10479,181 @@
         "key": "STR_HORDE_UNITY:0",
         "original": "gain $VAL|G$ Horde Unity",
         "translation": "获得$VAL|G$游牧团结",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STR_LEGITIMACY:0",
         "original": "gain $VAL|G$ Legitimacy",
         "translation": "获得$VAL|G$正统性",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STR_REPUBLIC:0",
         "original": "gain $VAL|G$ Republican Tradition",
         "translation": "获得$VAL|G$共和传统",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STR_DEVOITION:0",
         "original": "gain $VAL|G$ Devotion",
         "translation": "获得$VAL|G$奉献度",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STR_MERITOCRACY:0",
         "original": "gain $VAL|G$ Meritocracy",
         "translation": "获得$VAL|G$贤能值",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STRENGTHEN_GOVERNMENT:0",
         "original": "Strengthen Government",
         "translation": "强化政府",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STRGOVTTITLE:0",
         "original": "Strengthen Government",
         "translation": "强化政府",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STR_GOV_ALREADY_MAX_HORDE_UNIT:0",
         "original": "Horde Unity is already at its highest!",
         "translation": "游牧团结已达到最大！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STR_GOV_ALREADY_MAX_LEGITIMACY:0",
         "original": "Legitimacy is already at its highest!",
         "translation": "正统性已达到最大！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STR_GOV_ALREADY_MAX_REP_TRAD:0",
         "original": "Republican Tradition is already at its highest!",
         "translation": "共和传统已达到最大！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STR_GOV_ALREADY_MAX_DEVOTION:0",
         "original": "Devotion is already at its highest!",
         "translation": "奉献度已达到最大！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "STR_GOV_ALREADY_MAX_MERITOCRACY:0",
         "original": "Meritocracy is already at its highest!",
         "translation": "贤能值已达到最大！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DISINHERIT_NOT_MONARCHY:0",
         "original": "You can only Disinherit an Heir in a Monarchy!",
         "translation": "只有君主制政体才能废黜继承人！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DISINHERIT_NOT_DURING_REGENCY:0",
         "original": "It is not possible to Disinherit an Heir during a Regency!",
         "translation": "在摄政会议统治期间不能废黜继承人！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DISINHERIT_LOW_PRESTIGE:0",
         "original": "Prestige needs to be at least $NEED|Y$ to be able to disinherit an heir.",
         "translation": "威望至少$NEED|Y$才能废黜继承人。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DISINHERIT_PERFORM_IRO1:0",
         "original": "Disinherit $HEIR|Y$, and hope for a more capable heir.\\nThis will give a hit of $PRESTIGE_HIT|R$ prestige from this action.",
-        "translation": "废黜$HEIR|Y$，期望下一位继承人更能够更为胜任。\\n受废黜继承人影响，你的威望减少$PRESTIGE_HIT|R$。",
-        "stage": 1
+        "translation": "废黜$HEIR|Y$，期望下一位继承人更能够更为胜任。\\n受此影响，你的威望将减少$PRESTIGE_HIT|R$。",
+        "stage": 5
     },
     {
         "key": "DISINHERITTITLE:0",
         "original": "Disinherit!",
         "translation": "废黜！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DISINHERIT_NOT_HEIR:0",
         "original": "You currently have no heir which can be disinherited!",
         "translation": "你现在没有可废黜的继承人！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DISINHERIT_SUBJECT:0",
         "original": "Cannot disinherit your overlord's heir!",
         "translation": "不能废黜宗主国的继承人！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DISINHERIT_PENDING_EVENT:0",
         "original": "Cannot disinherit while there are pending events!",
         "translation": "有未处理事件时不能废黜继承人！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ABDICATE_NOT_MONARCHY:0",
         "original": "You can only Abdicate from the throne in a Monarchy!",
         "translation": "只有君主制才能逊位！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ABDICATE_NOT_WHEN_AT_WAR:0",
         "original": "It is too cowardly to Abdicate while your nation is at war!",
         "translation": "在战争中逊位乃怯懦卑鄙之行！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ABDICATE_NO_HEIR:0",
         "original": "You cannot Abdicate while you do not have an heir.",
         "translation": "没有继承人时不能逊位。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ABDICATE_HEIR_NOT_OF_AGE:0",
         "original": "You can only Abdicate if your heir is at least $NEED|Y$ years old. $NAME$ is currently $AGE$ year(s) old.",
         "translation": "继承人年满$NEED|Y$岁后，你才可以逊位。你的继承人$NAME$现在$AGE$岁。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ABDICATE_LOW_LEGITIMACY:0",
         "original": "Legitimacy must be at least $NEED|Y$ if you wish to Abdicate.",
-        "translation": "需要至少$NEED|Y$正统性才允许逊位。",
-        "stage": 1
+        "translation": "正统性至少$NEED|Y$才允许逊位。",
+        "stage": 5
     },
     {
         "key": "ABDICATE_SUBJECT:0",
         "original": "Cannot abdicate your overlord's monarch!",
         "translation": "不能使你宗主国的君主逊位！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ABDICATE_LOW_HORDE_UNITY:0",
         "original": "Horde Unity must be at least $NEED|Y$ if you wish to Abdicate.",
-        "translation": "需要至少$NEED|Y$游牧团结才允许逊位。",
-        "stage": 1
+        "translation": "游牧团结至少$NEED|Y$才允许逊位。",
+        "stage": 5
     },
     {
         "key": "ABDICATE_TOO_EARLY:0",
         "original": "A ruler must be at least $AGE|Y$ years old or have ruled for $RULE|Y$ years to be able to Abdicate.",
         "translation": "统治者至少有$AGE|Y$岁或统治满$RULE|Y$年后才能逊位。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ABDICATE_PENDING_EVENT:0",
         "original": "Cannot abdicate while there are pending events!",
         "translation": "有未处理事件时不能逊位！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ABDICATE_PERFORM_IRO1:0",
         "original": "Make $RULER|Y$ Abdicate, and let $HEIR|Y$ take the throne!",
         "translation": "$RULER|Y$逊位，由$HEIR|Y$即位！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ABDICATE_PERFORM_IRO2_HORDE:0",
@@ -10671,7 +10671,7 @@
         "key": "ABDICATETITLE:0",
         "original": "Abdicate!",
         "translation": "逊位！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ARE_YOU_SURE_PASS_REFORM:0",
