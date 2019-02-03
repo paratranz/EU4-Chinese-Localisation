@@ -10383,25 +10383,25 @@
         "key": "WANTS_NEUTRAL:0",
         "original": "Neutral",
         "translation": "中立",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WANTS_ALLY:0",
         "original": "Friendly",
         "translation": "友好",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WANTS_ENEMY:0",
         "original": "Hostile",
         "translation": "敌视",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "IS_THREAT:0",
         "original": "Threatened",
         "translation": "畏戒",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "GOV_HAS_HAREM:0",
@@ -15320,7 +15320,7 @@
     {
         "key": "CHAT_ERROR_INVITE_MISSINGARG:0",
         "original": "Invalid syntax, expected: /invite <username>",
-        "translation": "句式错误，推测为：/invite <username>",
+        "translation": "句式错误，应为：/invite <username>",
         "stage": 1
     },
     {
@@ -15356,13 +15356,13 @@
     {
         "key": "CHAT_ERROR_WHISPER_MISSINGARG:0",
         "original": "Invalid syntax, expected: /whisper <username> <message>",
-        "translation": "无效句式，有效句式为: /whisper <username> <message>",
+        "translation": "无效句式，应为: /whisper <username> <message>",
         "stage": 1
     },
     {
         "key": "CHAT_ERROR_REPLY_MISSINGARG:0",
         "original": "Invalid syntax, expected: /reply <message>",
-        "translation": "无效语法，有效句式为：/reply <message>",
+        "translation": "无效语法，应为：/reply <message>",
         "stage": 1
     },
     {
@@ -15380,7 +15380,7 @@
     {
         "key": "CHAT_ROLL:0",
         "original": "$USER$ rolls a d$DIE$, Computer says '$NUMBER$'",
-        "translation": "$USER$掷出 d$DIE$，电脑给出「$NUMBER$」",
+        "translation": "$USER$掷出d$DIE$，电脑给出「$NUMBER$」",
         "stage": 1
     },
     {
