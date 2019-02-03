@@ -404,20 +404,20 @@
     {
         "key": "ENFORCEPEACE_TRUCE:0",
         "original": "You cannot enforce peace on someone you have a truce with.",
-        "translation": "不能强迫与你处于停战协议期的国家议和.",
+        "translation": "你不能强迫与你处于停战协议期的国家议和。",
         "stage": 5
     },
     {
         "key": "CANNOT_ENFORCEPEACE_OWN_SUBJECT:0",
         "original": "You cannot enforce peace on your own Subjects.",
-        "translation": "你不能强迫你的附庸议和",
+        "translation": "你不能强迫你的附庸议和。",
         "stage": 5
     },
     {
         "key": "ENFORCEPEACE_NOT_IN_WAR_YOUR_SUBJECT:1",
         "original": "They are not at war with any of your Subjects.",
         "translation": "这个殖民地没有与你的殖民地发生战争.",
-        "stage": 5
+        "stage": 2
     },
     {
         "key": "FAB_CLAIMS_AT_WAR:0",
@@ -434,25 +434,25 @@
     {
         "key": "JOINED_RECENT_WAR:0",
         "original": "It is not possible to start a new war within the first month of having started a previous one.",
-        "translation": "在前一场战争开始的第一个月之内你不能发动另一场战争.",
+        "translation": "在前一场战争开始的第一个月之内你不能发动另一场战争。",
         "stage": 5
     },
     {
         "key": "IS_IN_INDEPENDENCE_WAR:0",
         "original": "It is not possible to start a new war while fighting an independence war.",
-        "translation": "在独立战争期间不能另开战端.",
+        "translation": "在独立战争期间不能另开战端。",
         "stage": 5
     },
     {
         "key": "NO_SHIP_CAPACITY_NO_BASE:0",
         "original": "They have no shipbuilding capacity so cannot be used for basing.",
-        "translation": "他们没有造船能力，所以无法提供港口",
+        "translation": "他们没有造船能力，所以无法提供港口。",
         "stage": 5
     },
     {
         "key": "WE_NO_SHIP_CAPACITY_NO_BASE:0",
         "original": "We have no shipbuilding capacity so cannot be used for basing.",
-        "translation": "我国没有造船能力，所以无法提供港口",
+        "translation": "我国没有造船能力，所以无法提供港口。",
         "stage": 5
     },
     {
@@ -464,7 +464,7 @@
     {
         "key": "NO_ANNEX_PROGRESS_AT_WAR:0",
         "original": "Both countries need to be at peace for an annexation to progress.",
-        "translation": "若要合并，两国都需处于和平状态",
+        "translation": "两国需同时处于和平状态才可进行吞并。",
         "stage": 5
     },
     {

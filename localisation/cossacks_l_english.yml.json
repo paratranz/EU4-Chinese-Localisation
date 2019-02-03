@@ -1070,8 +1070,8 @@
     {
         "key": "GRANT_PROVINCE_ESTATE:0",
         "original": "$PROVINCE|§Y$ belongs to the $ESTATE|§Y$.",
-        "translation": "$PROVINCE|§Y$属于$ESTATE|§Y$阶层",
-        "stage": 1
+        "translation": "$PROVINCE|§Y$属于$ESTATE|§Y$阶层。",
+        "stage": 5
     },
     {
         "key": "MANAGE_ATTITUDE_DESC:0",
@@ -1184,14 +1184,14 @@
     {
         "key": "FRIENDLY_ATTITUDE_DESC:0",
         "original": "Setting your attitude to §YFriendly§! shows that you wish to ally yourself with §Y$COUNTRY$§!. Your allies will view this as a sign that you are unwilling to attack them.",
-        "translation": "将你的态度设定为§Y友善§!， 代表你希望和§Y$COUNTRY$§!结盟。你的盟友会认为你没有攻打该国的意愿。",
-        "stage": 1
+        "translation": "将你的态度设定为§Y友善§!，代表你希望和§Y$COUNTRY$§!结盟。你的盟友会认为你没有攻打该国的意愿。",
+        "stage": 5
     },
     {
         "key": "FRIENDLY_ATTITUDE_CANNOT_SET_OPINION:0",
         "original": "§RYou cannot set your attitude to §YFriendly§! because §Y$COUNTRY$§! does not hold least §Y$OPINION$§! opinion of §Y$PLAYER$§!.§!",
-        "translation": "§R你无法将你的态度设为§Y友好§!，因为§Y$COUNTRY$§!对§Y$PLAYER$§!的好感度未达到§Y$OPINION$§!。§!",
-        "stage": 1
+        "translation": "§R你无法将你的态度设为§Y友善§!，因为§Y$COUNTRY$§!对§Y$PLAYER$§!的好感度未达到§Y$OPINION$§!。§!",
+        "stage": 5
     },
     {
         "key": "THREATENED_ATTITUDE_CANNOT_SET_POWER:0",
