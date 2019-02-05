@@ -3698,14 +3698,14 @@
     {
         "key": "GET_PART_OF_CASH:0",
         "original": "$WHO$ will get §Y$WHAT$§! of this amount.",
-        "translation": "$WHO$在总额中将会获得§Y$WHAT$§!.",
-        "stage": 5
+        "translation": "其中$WHO$将会获得§Y$WHAT$§!。",
+        "stage": 1
     },
     {
         "key": "CORE_RETURN:0",
         "original": "$WHO$ will give core(s) $WHAT$ to $TO$.",
-        "translation": "$WHO$将归还$TO$核心省份$WHAT$",
-        "stage": 5
+        "translation": "$WHO$将归还$TO$核心省份$WHAT$。",
+        "stage": 1
     },
     {
         "key": "CB_ALLOWED_RETURN_CORE:0",
