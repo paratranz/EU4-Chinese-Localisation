@@ -1,0 +1,54 @@
+namespace = flavor_swi
+country_event = {
+  id = flavor_swi.1
+  title = flavor_swi.1.t
+  desc = flavor_swi.1.d
+  picture = ADVISOR_eventPicture
+  fire_only_once = yes
+  trigger = {
+    OR = {
+      capital_scope = {
+        region = south_german_region
+      }
+      tag = VEN
+      tag = SWI
+    }
+    is_year = 1515
+    NOT = {
+      is_year = 1541
+    }
+  }
+  mean_time_to_happen = {
+    months = 78
+    modifier = {
+      factor = 0.95
+      tag = SWI
+    }
+    modifier = {
+      factor = 0.9
+      tag = HAB
+    }
+    modifier = {
+      factor = 0.8
+      owns = 1869
+    }
+    modifier = {
+      factor = 0.8
+      owns = 134
+    }
+    modifier = {
+      factor = 0.8
+      tag = VEN
+    }
+  }
+  option = {
+    name = "flavor_swi.1.a"
+    define_advisor = {
+      type = natural_scientist
+      name = "Paracelsus"
+      culture = swiss
+      discount = yes
+      skill = 2
+    }
+  }
+}

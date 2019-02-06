@@ -50,11 +50,11 @@ hab_reform_austria = {
         limit = {
           government = monarchy
           NOT = {
-            dynasty = "von Habsburg"
+            dynasty = "冯 哈布斯堡"  # von Habsburg
           }
         }
         define_heir = {
-          dynasty = "von Habsburg"
+          dynasty = "冯 哈布斯堡"  # von Habsburg
           DIP = 5
           claim = 100
         }
