@@ -133,6 +133,17 @@ tr_novgorod_1 = {
         }
         add_permanent_claim = ROOT
       }
+      yaroslavl_area = {
+        limit = {
+          NOT = {
+            is_core = ROOT
+          }
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
       1752 = {
         if = {
           limit = {
@@ -344,7 +355,7 @@ tr_novgorod_2 = {
       NOT = {
         any_country = {
           AND = {
-            dynasty = "Rurikovich"
+            dynasty = "留里克"  # Rurikovich
             culture_group = east_slavic
             NOT = {
               is_subject_of = ROOT
@@ -584,13 +595,13 @@ tr_novgorod_3 = {
     }
     provinces_to_highlight = {
       OR = {
-        province_id = 310
+        province_id = 33
         province_id = 1652
       }
     }
     trigger = {
       OR = {
-        310 = {
+        33 = {
           highest_value_trade_node = yes
           is_strongest_trade_power = ROOT
         }

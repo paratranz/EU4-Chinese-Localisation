@@ -3102,10 +3102,10 @@
         "stage": 5
     },
     {
-        "key": "embrace_humanism_desc:0",
-        "original": "Ever since the great philosopher Erasmus, the Low Countries have been the cradle of humanistic philosophy. It is time to make this part of the state.",
+        "key": "embrace_humanism_desc:1",
+        "original": "Ever since the great philosopher Erasmus, the Low Countries have been the cradle of humanistic philosophy. It is time to embrace this as an integral part of the state.",
         "translation": "自从伟大的哲学家伊拉斯谟以来，低地国家就成为了人文主义哲学的摇篮，现在。人文主义哲学应该成为国家机器的一部分了。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "army_sappers:0",
@@ -3999,7 +3999,7 @@
         "key": "revived_training_camps_desc:0",
         "original": "Originally founded by the Emperor Yongle, they stagnated in the 1430s but it is time to revive them again. The specialist training our troops receive is vital if we are to resist the barbarians we find on all sides.",
         "translation": "集训营原先是由永乐皇帝建立的.在1430年左右,它们衰亡下去了,但现在,应该复兴它们.",
-        "stage": 1
+        "stage": 2
     },
     {
         "key": "inward_perfection:0",
@@ -4034,7 +4034,7 @@
     {
         "key": "salt_monopoly_desc:0",
         "original": "The Salt monopoly used to be one of the greatest revenues for the state. Yet previous Emperors saw fit to end it in the name of trade. It is time to return the trade of salt back to control of the state.",
-        "translation": "食盐垄断曾经是国家最大的收入来源.然而,前几任帝王以交易之名废止了它.现在,我们应该把食盐的贸易权重新掌握在手中",
+        "translation": "食盐垄断曾经是国家最大的收入来源。然而，前几任帝王以贸易之名废止了它。现在，是时候把食盐的贸易权重新收归国有了。",
         "stage": 1
     },
     {
@@ -25249,9 +25249,9 @@
     },
     {
         "key": "mns_subdue_the_clans_desc:0",
-        "original": "Throughout centuries the clans have been the base of our society and culture in peace, and source of strength in times of war. However, a new era is now upon us, one where these same clans could be the force bringing us down and disuniting our people and efforts. In order to survive this brave new world, we must do away with some traditions of the old, and chance our ways.",
+        "original": "Throughout the centuries, the clans have been the base of our society and culture in peace, and source of strength in times of war. However, a new era is now upon us, one where these same clans could be the force bringing us down and disuniting our people and efforts. In order to survive this brave new world, we must do away with some traditions of the old and change our ways.",
         "translation": "数世纪以来，氏族一直是我们在和平时的社会与文化基础、战争时期的力量源泉。然而新的时代已经到来，如今同样是氏族他们却成为了让我们失望的一支力量，分裂我们的人民和成功的果实。为了在这个美丽新世界生存下去，我们必须摒弃一些旧传统，并且紧抓我们的机会。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "mns_cios_dubh:0",
@@ -35736,12 +35736,6 @@
         "stage": 5
     },
     {
-        "key": "CRN_ideas_desc:0",
-        "original": "Cornish Ambition",
-        "translation": "康沃尔野心",
-        "stage": 1
-    },
-    {
         "key": "crn_stannary_parliaments:0",
         "original": "Stannary Parliaments",
         "translation": "锡矿议会",
@@ -39499,9 +39493,9 @@
     },
     {
         "key": "mor_marabouts_desc:0",
-        "original": "Several groups of Sufi teachers have made Morocco their home. We must make sure that we accomodate these holy men, and take their teachings to heart.",
+        "original": "Several groups of Sufi teachers have made Morocco their home. We must make sure that we accommodate these holy men, and take their teachings to heart.",
         "translation": "数个苏菲派导师的团体已经将摩洛哥视为他们的家，我们必须确保能容纳这些圣人，并将他们的教导铭记于心。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "mor_pirate_republics:0",
@@ -39523,9 +39517,9 @@
     },
     {
         "key": "mor_fleet_desc:0",
-        "original": "Morocco has many enemies that could launch an invasion from acrosss the sea. We must contruct a fleet large and powerful enough to repel foreign invaders whether they be Christian conquerors or Muslim corsairs.",
+        "original": "Morocco has many enemies that could launch an invasion from across the sea. We must construct a fleet large and powerful enough to repel foreign invaders whether they be Christian conquerors or Muslim corsairs.",
         "translation": "有很多摩洛哥的敌人拥有从海上入侵的能力。我们必须建立一支强大舰队，它足以击退外来入侵者——无论是基督徒征服者还是穆斯林海盗。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "mor_slave_soldiers:0",
@@ -40036,5 +40030,11 @@
         "original": "It is vitally important that our frontier with the Christian kingdoms is heavily fortified. A chain of strongholds shall be erected on the borders so that no enemy may pass into our territory without enduring a costly siege.",
         "translation": "加强我们与基督教王国边界的防御能力是至关重要的。在边境上要筑建一连串的要塞工事，这样任何敌人想要进入我们领土那么围攻时就需要付出惨痛的代价。",
         "stage": 1
+    },
+    {
+        "key": "CRN_ideas_bonus:0",
+        "original": "Cornish Ambition",
+        "translation": "",
+        "stage": 0
     }
 ]

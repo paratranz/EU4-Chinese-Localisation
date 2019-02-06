@@ -1825,9 +1825,9 @@
     },
     {
         "key": "mechanic_maratha_general_interaction_yes:0",
-        "original": "The Marathas Estate Interaction Recruit Minister will instead recruit a General with §G1§! additional Shock.",
+        "original": "The Marathas Estate Interaction §YRecruit Minister§! will instead recruit a General with §G1§! additional Shock.",
         "translation": "马拉塔阶层互动招募辅佐大臣将招募一位有额外§G1§!点冲击的将领。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "mechanic_maratha_general_interaction_no:0",
@@ -1837,9 +1837,9 @@
     },
     {
         "key": "mechanic_better_purbias_interaction_yes:0",
-        "original": "The Rajputs Estate Interaction Enlist Purbias will give an additional §G5%§! discipline to Rajput Regiments.",
+        "original": "The Rajputs Estate Interaction §YEnlist Purbias§! will give an additional §G5%§! discipline to Rajput Regiments.",
         "translation": "拉普杰特阶层互动征召普尔比亚人将授予拉普杰特军团额外§G5%§!的训练度。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "mechanic_better_purbias_interaction_no:0",
@@ -1972,5 +1972,17 @@
         "original": "Ruler must not rule for life.",
         "translation": "统治者不得终身任职。",
         "stage": 1
+    },
+    {
+        "key": "mechanic_allow_banners_yes:0",
+        "original": "Allows recruiting Banners",
+        "translation": "允许招募八旗",
+        "stage": 1
+    },
+    {
+        "key": "mechanic_allow_banners_no:0",
+        "original": "",
+        "translation": "",
+        "stage": 0
     }
 ]
