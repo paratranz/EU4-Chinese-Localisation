@@ -17576,8 +17576,8 @@
     {
         "key": "flavor_ayu.EVTDESC9:0",
         "original": "The Greek adventurer and merchant Constance Phaulkon, who became first counselor to King Narai of Ayutthaya, came to Siam in 1675 after working for England's East India Company. He worked at the court of King Narai as a translator as he was fluent in Thai, English, French, Portuguese, and Malay. Not long after, Phaulkon became a counselor of the king. Phaulkon rose to become highly influential at the Siamese court of king Narai. The French called Phaukon 'Monsieur Constance' as he had engineered a Franco-Siamese rapprochement leading to the exchange of numerous embassies between France and Siam, as well as the dispatch of an expeditionary force by the French in 1687. Thai members of the royal court envied Phaulkon's closeness to the king and that became his undoing. Pra Phetracha, the foster brother of Narai, used rumors about Phaulkon wanting to use Phra Pui, the heir to the throne, as a puppet and become ruler himself, to stage a coup d'etat, the 1688 Siamese revolution.. Phaulkon, his followers and the royal heir were executed on June 5, 1688 in Lopburi. King Narai died several days later, and Phetracha proclaimed himself the new king of Siam.",
-        "translation": "希腊探险家和商人康斯坦丁-法尔孔，阿瑜陀耶那莱王的第一位外国顾问，他原是受雇为英国东印度公司工作之后，于1675年以商人的身份来到暹罗。他本身精通英语、法语、葡萄牙语和马来语，来到暹罗仅仅几年以后就精通了泰语。并成为了阿瑜陀耶那莱王的一名翻译。由于他在不列颠东印度公司的经历得到那莱王的赏识，不久后他便被那莱王任命为首席顾问，法尔孔因此在那莱王的暹罗宫廷变得非常有影响力，法国人称他为「康斯坦丁先生」，因为法国与暹罗之间的邦交，可谓是他一手促成的，双方关系良好，甚至使法国在1687年向暹罗派出探险队，康斯坦丁的得宠，令暹罗的贵族们心生嫉妒，最终导致他倒台，那莱王的义兄弟帕碧罗阇，在国内散布康斯坦丁想要操纵王储摄夺国政的谣言，并发动政变，史称“1688年暹罗革命”，华尔康与他的支持者，还有王储于当年6月5日在华富里被逮捕遭到秘密处决，数日后，那莱王亦去世，帕碧罗阇顺理成章，成为新国王了。",
-        "stage": 1
+        "translation": "希腊探险家和商人康斯坦丁-法尔孔，阿瑜陀耶那莱王的第一位外国顾问，他原是受雇为英国东印度公司工作之后，于1675年以商人的身份来到暹罗。他本身精通英语、法语、葡萄牙语和马来语，来到暹罗仅仅几年以后就精通了泰语。并成为了阿瑜陀耶那莱王的一名翻译。由于他在不列颠东印度公司的经历得到那莱王的赏识，不久后他便被那莱王任命为首席顾问，法尔孔因此在那莱王的暹罗宫廷变得非常有影响力，法国人称他为「康斯坦丁先生」，因为法国与暹罗之间的邦交，可谓是他一手促成的，双方关系良好，甚至使法国在1687年向暹罗派出探险队，康斯坦丁的得宠，令暹罗的贵族们心生嫉妒，最终导致他倒台，那莱王的义兄弟帕碧罗阇，在国内散布康斯坦丁想要操纵王储摄夺国政的谣言，并发动政变，史称「1688年暹罗革命」，华尔康与他的支持者，还有王储于当年6月5日在华富里被逮捕遭到秘密处决，数日后，那莱王亦去世，帕碧罗阇顺理成章，成为新国王了。",
+        "stage": 5
     },
     {
         "key": "flavor_ayu.EVTOPTA9:0",
@@ -18847,9 +18847,9 @@
     },
     {
         "key": "flavor_jap.EVTDESC42:0",
-        "original": "The relative instability of our realm has led others to begin questioning my ability to maintain national cohesion. Admitting that the situation is somewhat out of our control will be a severe blow to my authority and influence.",
+        "original": "The relative instability of our realm has led others to begin questioning our ability to maintain national cohesion. Admitting that the situation is somewhat out of our control will be a severe blow to our authority and influence.",
         "translation": "最近的不稳令人怀疑我是否有能力团结国内.承认现在时局有所失控，将会大大打击我的权威.",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "flavor_jap.EVTOPTA42:1",
@@ -23286,16 +23286,16 @@
         "stage": 1
     },
     {
-        "key": "randomeventsstapehordes.4.EVTNAME:0",
-        "original": "Migrating Tribes",
+        "key": "randomeventsstapehordes.4.EVTNAME:1",
+        "original": "Friendly Tribe Migrates into [Root.GetName]",
         "translation": "部落迁徙",
-        "stage": 1
+        "stage": 0
     },
     {
-        "key": "randomeventsstapehordes.4.EVTDESC:0",
-        "original": "A friendly tribe with blood ties to our own has crossed our border and settled a part of our domain that was previously barely populated. Among these herdsmen live excellent and tough warriors and hunters, willing to answer the call to arms of our [Root.Monarch.GetTitle].",
+        "key": "randomeventsstapehordes.4.EVTDESC:1",
+        "original": "A friendly tribe with blood ties to our own has crossed our border and settled in the open lands of [friendly_tribe_province.GetName]. Among these herdsmen live excellent and tough warriors and hunters, willing to answer the call to arms of our [Root.Monarch.GetTitle].",
         "translation": "一支具有血缘关系的友好部落越过了我们的边境，他们在我们一部分罕无人烟的领土上定居了。这些牧人中的战士和猎人会愿意响应我们大汗的。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "randomeventsstapehordes.4.EVTOPTA:0",
@@ -23304,16 +23304,16 @@
         "stage": 1
     },
     {
-        "key": "randomeventsstapehordes.5.EVTNAME:0",
-        "original": "Migrating Tribes",
+        "key": "randomeventsstapehordes.5.EVTNAME:1",
+        "original": "Hostile Tribes Raid [hostile_migrating_tribes_province.GetName]",
         "translation": "部落迁徙",
-        "stage": 1
+        "stage": 0
     },
     {
-        "key": "randomeventsstapehordes.5.EVTDESC:0",
-        "original": "A hostile tribe has crossed into our domain, raiding and pillaging our people. Before our hosts could hunt them down they disappeared back into their cursed homeland carrying with them countless slaves and sizeable loot.",
+        "key": "randomeventsstapehordes.5.EVTDESC:1",
+        "original": "A hostile tribe from [hostile_migrating_tribes_country.GetName] has crossed into [hostile_migrating_tribes_province.GetName], raiding and pillaging our people. Before our hosts could hunt them down they disappeared back into their cursed homeland carrying with them countless slaves and sizeable loot.",
         "translation": "一支敌对部落侵入了我们的领土，劫掠我们的人民。在我们的军队追杀他们之前，他们就撤回了他们该死的老家，带走了无数奴隶和巨额战利品。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "randomeventsstapehordes.5.EVTOPTA:0",
@@ -23574,10 +23574,10 @@
         "stage": 1
     },
     {
-        "key": "randomeventsstapehordes.19.EVTDESC:1",
-        "original": "While on a hunt our heir's party was ambushed by a band of unknown assassins. Outnumbered and attacked from cover all but one fell there and then. The survivor, though wounded by a poison arrow, lived long enough to tell us of a valiant last stand of [Root.Heir.GetName]. Tall and mighty he stood, cutting the creatures of the night one by one as they surrounded him, until the last of his body guards succumbed. Shaken and in mourning, our people celebrate the legacy of [Root.Heir.GetName] as he achieves immortality in their memory.",
+        "key": "randomeventsstapehordes.19.EVTDESC:2",
+        "original": "While on a hunt [Root.Heir.GetName], our designated heir, was ambushed by a band of unknown assassins. Outnumbered and attacked from cover all but one fell there and then. The survivor, though wounded by a poison arrow, lived long enough to tell us of a valiant last stand of [Root.Heir.GetName]. Tall and mighty he stood, cutting the creatures of the night one by one as they surrounded him, until the last of his body guards succumbed. Shaken and in mourning, our people celebrate the legacy of [Root.Heir.GetName] as he achieves immortality in their memory.",
         "translation": "在一场狩猎中我们继承人的队伍受到了一群不明身份刺客的伏击。在人数压制和偷袭的双重打击下，所有人都倒下了。只有一个被毒箭射伤的幸存者来得及告诉我们：我们的继承人奋战到最后一刻。他高大而威猛，一个接一个的砍杀正包围着他的敌人直到最后一个贴身护卫倒下。怀着震惊和哀痛的心情，我们继承人的不朽事迹将在人民之间传诵。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "randomeventsstapehordes.19.EVTOPTA:0",
@@ -23856,10 +23856,10 @@
         "stage": 1
     },
     {
-        "key": "flavor_hab.14.d:0",
-        "original": "Finally free of the plague the time has come for our $MONARCHTITLE$ to make good on his pledge to erect a Mercy Column. The only real choice we have is what the column should look like. As a symbol of a fresh start architects have suggested we make the column as modern as possible, a high baroque monument. Others, however, feel that the only proper way to mourn the dead is a more restrained, conservative column without pretentions to be on the forefront of Architectural style.",
+        "key": "flavor_hab.14.d:1",
+        "original": "Finally free of the plague, the time has come for our $MONARCHTITLE$ to make good on [Root.Monarch.GetHerHis] pledge to erect a Mercy Column. The only real choice we have is what the column should look like. As a symbol of a fresh start, architects have suggested we make the column as modern as possible, a high baroque monument. Others, however, feel that the only proper way to mourn the dead is a more restrained, conservative column without pretentions to be on the forefront of architectural style.",
         "translation": "最终瘟疫退去了，我们的$MONARCHTITLE$这时践行了他的誓言树立一根怜悯柱。我们唯一要选择的是该把它造成什么式样。为纪念的瘟疫刚发生不久，因此建筑师们建议我们造的越具现代感越好，做成高度巴洛克风格。然而另外一群人觉得应当让哀悼更为严肃，朴素无华而传统的样式是最重要的建筑风格。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "flavor_hab.14.a:0",
@@ -24494,7 +24494,7 @@
     {
         "key": "flavor_inc.9.d:0",
         "original": "With Chimu Capac and his nobles defeated we are once again in control of the Chimu coastline. What remains to be decided, however, is what to do with the revolters. With its old traditions and rich culture the Chimu region is perhaps likely to remain an area harder to subdue completely. On the other hand our realm owes a lot to the Chimu as their example has inspired our elites, our craftsmen and administration.\\nAs their loyalties are questionable but their skills are not it has been suggested that we forbid them to serve in our armies and instead make use of the Mitma system to resettle them throughout our empire. By dispersing the Chimu as Mitmaqs they will be useful to us while at the same time unable to revolt in any meaningful way against our rule.",
-        "translation": "在奇穆卡帕克和他的贵族们被击败后，我们又一次控制了奇穆海岸。然而我们还需要绝对怎么处理这些叛乱者。由于其古老的传统和丰富的文化，奇穆地区可能很难被完全驯服。另一方面，我们国家事实上亏欠奇穆很多，因为他们的榜样曾经激励着我们的精英，工匠和管理者。\\n由于他们的忠诚值得怀疑但技能不容怀疑，有人提出我们应该禁止他们在军队服役但是使用传统的密特马系统把他们迁徙到整个我们的帝国。通过把奇穆人作为密特马克分散，我们可以有效利用他们而又阻止他们有效反抗我们的统治。",
+        "translation": "在奇穆卡帕克和他的贵族们被击败后，我们又一次控制了奇穆海岸。然而我们还需要绝对怎么处理这些叛乱者。由于其古老的传统和丰富的文化，奇穆地区可能很难被完全驯服。另一方面，我们国家事实上亏欠奇穆很多，因为他们的榜样曾经激励着我们的精英，工匠和管理者。\\n由于他们的忠诚值得怀疑但技能不容怀疑，有人提出我们应该禁止他们在军队服役但是使用传统的密特马体制把他们迁徙到整个我们的帝国。通过把奇穆人作为密特马克分散，我们可以有效利用他们而又阻止他们有效反抗我们的统治。",
         "stage": 1
     },
     {
@@ -28147,9 +28147,9 @@
     },
     {
         "key": "flavor_dlh.5.b:1",
-        "original": "Offer the Lodis full independence as rulers of the Sirhind.",
+        "original": "Offer the Lodis full independence as rulers of the Sirhind.\\n",
         "translation": "给予洛迪家族完全独立，成为西尔欣德的统治者。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "flavor_dlh.5.b.tt:1",
@@ -28663,9 +28663,9 @@
     },
     {
         "key": "granada_civil_war.1.desc:0",
-        "original": "Yusuf V, nephew of Muhammad IX Nasrid; once beloved by all, has raised an army, intent on installing himself as Emir.\\n\\nHow we arrived at such enmity between family members, is beyond our understanding, but this bold move must be met with equal ferocity. Yusuf must hang.",
+        "original": "Yusuf, nephew of Muhammad IX Nasrid, once beloved by all, has raised an army, intent on installing himself as Emir.\\n\\nHow we arrived at such enmity between family members, is beyond our understanding, but this bold move must be met with equal ferocity. Yusuf must hang.",
         "translation": "优素福五世，穆罕穆德九世纳塞瑞斯的侄子；深受他人的喜爱，他已经征召了一支军队，意图通过武力成为埃米尔。\\n\\n我们同族的成员之间为何会产生如此的敌意，已经超出了我们的理解，但是他的这种胆大包天的行为必须得到其应有的惩罚。优素福必须被吊死。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "granada_civil_war.1.a:0",
@@ -28699,9 +28699,9 @@
     },
     {
         "key": "granada_succession_war_desc:0",
-        "original": "A once-loyal relative, Yusuf V, is reportedly raising an army, intent on installing himself as Emir.",
+        "original": "A once-loyal relative, Yusuf, is reportedly raising an army, intent on installing himself as Emir.",
         "translation": "据报，一名曾经忠诚的亲戚优素福五世正在征召军队，意图通过武力成为埃米尔。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "granada_civil_war.3.t:0",
@@ -28774,5 +28774,11 @@
         "original": "Stamp it out.",
         "translation": "盖章。",
         "stage": 1
+    },
+    {
+        "key": "merino_wool_tooltip:0",
+        "original": "Every owned province in the §YIberia§! region that produces §YWool§! will come under the control of the §YNobles§! or §YClergy§!",
+        "translation": "",
+        "stage": 0
     }
 ]

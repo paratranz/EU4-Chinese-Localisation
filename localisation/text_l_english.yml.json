@@ -1987,9 +1987,9 @@
     },
     {
         "key": "romagnan:0",
-        "original": "Romagnan",
+        "original": "Romagnol",
         "translation": "罗马涅",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "rheinlaender:0",
@@ -3056,7 +3056,7 @@
     {
         "key": "inti_religion_desc:0",
         "original": "Inti religion covers a wide range of disparate Andean faiths with many common features. Inti itself is the name of the sun god that the Inca empire promoted over all the other local Huacas.\\nIn the game most of the Andes start out with the Inti religion.",
-        "translation": "太阳神教是安第斯山地区众多有许多共同特征的不同信仰的统称。 印地是太阳神的名字，印加帝国将其置于其他所有本土神灵之上。\\n在游戏中绝大多数安第斯山地区的国家开局信仰太阳神教。",
+        "translation": "因蒂宗教是安第斯山脉地区众多有许多共同特征的不同信仰的统称。因蒂是太阳神的名字，印加帝国将其置于其他所有本土神灵之上。\\n在游戏中绝大多数安第斯山脉地区的国家开局信仰因蒂宗教。",
         "stage": 1
     },
     {
@@ -3696,10 +3696,10 @@
         "stage": 1
     },
     {
-        "key": "REORGANISE_UNITS_DRO:0",
-        "original": "Reorganizing these two units will allow you move regiments between the two units",
+        "key": "REORGANISE_UNITS_DRO:1",
+        "original": " Reorganizing these two units will allow you move regiments between the two units",
         "translation": "你可以通过整编这两支部队改变他们所属团队",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "TRANSFER_SUB:0",
@@ -3792,16 +3792,16 @@
         "stage": 1
     },
     {
-        "key": "CONVERT_RULER_NOT_POSSIBLE_2_IRO:0",
-        "original": "A female ruler cannot become a general.",
-        "translation": "一个女性君主不能转变为将军.",
+        "key": "CONVERT_RULER_NOT_POSSIBLE_2_IRO:1",
+        "original": "A female ruler cannot become a general in our country.",
+        "translation": "在我国女性统治者无法成为将领。",
         "stage": 1
     },
     {
-        "key": "CONVERT_RULER_NOT_POSSIBLE_2_DRO:0",
-        "original": "You have a female monarch, they cannot take the field and lead your armies.",
+        "key": "CONVERT_RULER_NOT_POSSIBLE_2_DRO:1",
+        "original": "You have a female monarch, they cannot take the field and lead your armies unless an idea or policy allows them to.",
         "translation": "女性君主正在统治这个国家，她们不能上战场指挥军队.",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "CONVERT_RULER_NOT_POSSIBLE_3_IRO:0",
@@ -8635,9 +8635,9 @@
     },
     {
         "key": "swiss_landsknechten:0",
-        "original": "Landsknechten Infantry",
+        "original": "Landsknecht Infantry",
         "translation": "日耳曼长枪兵",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "swivel_cannon:0",
@@ -12955,9 +12955,9 @@
     },
     {
         "key": "swiss_landsknechtenDESCR:0",
-        "original": "Landsknechten were a type of infantry first created in the early 16th century in the Holy Roman Empire. They were mostly armed with a long spear or pike. George von Frundsberg is considered to be the creator of the Landsknechten. The Landsknechten fought mostly in a square type formation called the Pike Square. They were also famous for the elaborate clothing they wore on the battlefield.",
+        "original": "Landsknechte were a type of infantry first created in the early 16th century in the Holy Roman Empire. They were mostly armed with a long spear or pike. George von Frundsberg is considered to be the creator of the Landsknechte. The Landsknechte fought mostly in a square type formation called the Pike Square. They were also famous for the elaborate clothing they wore on the battlefield.",
         "translation": "长枪兵是16世纪神圣罗马帝国建立的兵种.他们主要装备长矛或长枪.乔治.冯.弗伦茨贝格被认为是日耳曼长枪兵部队的创立者.长枪兵作战时一般采用方阵队形.他们也因华丽的服饰而闻名于世.",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "swivel_cannonDESCR:0",
@@ -23797,9 +23797,9 @@
     },
     {
         "key": "napoleonic_lancersDESCR:0",
-        "original": "The crème de la crème of the Napoleonic army. Although their lances made them less agile these cavalry troops where formidable adversaries when charging their enemies directly.",
+        "original": "The crème de la crème of the Napoleonic army. Although their lances made them less agile, these cavalry troops were formidable adversaries when charging their enemies directly.",
         "translation": "他们是拿破仑的军队. 虽然他们长枪使得他们在面对其他骑兵部队的时候不够灵活，但是他们的直接冲锋是敌人的恶梦.",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "napoleonic_square:0",
@@ -48078,10 +48078,10 @@
         "stage": 5
     },
     {
-        "key": "steppe_horde_legacy_desc:0",
-        "original": "For many years now our more advanced neighbors have laughed at us for our backward form of government. Well, no longer - as of today our great leader is a King!",
+        "key": "steppe_horde_legacy_desc:1",
+        "original": "A governmental form where a sovereign or military ruler rule a tribal chiefdom, with constant Casus Bellis on all their neighbors and troops who fight better on the plains.",
         "translation": "多年以来，那些比我们更先进的邻居们一直嘲笑我们落后的政权形式.今天，这一切结束了——国王将是我们至高无上的领袖！",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "revolutionary_republic_reform_desc:0",
@@ -48448,5 +48448,17 @@
         "original": "Total Pips",
         "translation": "总能力点",
         "stage": 1
+    },
+    {
+        "key": "NO_INTERACT_STATES_GENERAL:0",
+        "original": "We cannot replace their ruler, as they are ruled by States General.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "OFFER_PEACE_PENDING_ENFORCE:0",
+        "original": "§RWe cannot offer peace while there is a pending enforce peace offer§!",
+        "translation": "",
+        "stage": 0
     }
 ]

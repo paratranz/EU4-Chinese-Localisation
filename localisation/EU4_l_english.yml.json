@@ -1206,10 +1206,10 @@
         "stage": 5
     },
     {
-        "key": "obj_5_centers_of_trade_desc:0",
-        "original": "Own, control and core at least five provinces with a center of trade.",
-        "translation": "拥有并控制五个是贸易中心的核心省份。",
-        "stage": 5
+        "key": "obj_5_centers_of_trade_desc:1",
+        "original": "Own, control and core at least five provinces with level 2 or higher centers of trade.",
+        "translation": "拥有并控制五个至少拥有2级贸易中心的核心省份。",
+        "stage": 1
     },
     {
         "key": "obj_30_development_city:0",
@@ -8712,15 +8712,15 @@
         "stage": 1
     },
     {
-        "key": "CONVHEIR_FEMALE:0",
-        "original": "Sadly females are not respected as generals in this time-period.",
-        "translation": "遗憾的是，在这个时代女性无法成为将领。",
+        "key": "CONVHEIR_FEMALE:1",
+        "original": "A female heir cannot become a general in our country.",
+        "translation": "在我国女性继承人无法成为将领。",
         "stage": 1
     },
     {
-        "key": "CONVHEIR_AGE:0",
-        "original": "Only an adult of 15 years or older can command armies.",
-        "translation": "只有年满15岁的成人才可以指挥军队。",
+        "key": "CONVHEIR_AGE:1",
+        "original": "Your heir is too young to lead armies.",
+        "translation": "你的继承人年龄尚小，无法领导军队。",
         "stage": 1
     },
     {
@@ -8736,15 +8736,15 @@
         "stage": 1
     },
     {
-        "key": "CONVHEIR_IRO:1",
-        "original": "§YGive Your Heir a Military Command§!",
-        "translation": "§Y让继承人成为将军§!",
+        "key": "CONVHEIR_IRO:2",
+        "original": "§YGive Your Heir a Military Command§!\\n",
+        "translation": "§Y让继承人成为将军§!\\n",
         "stage": 1
     },
     {
         "key": "CONVERT_HEIR_DRO:1",
         "original": "This will make a general out of your heir. He or she will then be available to command your armies. Having your heir leading an army could be beneficial, but it is also a large risk, as generals have risk of dying on the battlefield.",
-        "translation": "这会让你的继承人成为一个将军。他或她可以指挥你的军队。让你的继承人领导一支军队可能有好处，但也会冒着巨大的风险，因为将军有在战场上死亡的风险。",
+        "translation": "这会让你的继承人成为一个将领。他或她可以指挥你的军队。让你的继承人领导一支军队可能有好处，但也会冒着巨大的风险，因为将领有在战场上死亡的风险。",
         "stage": 1
     },
     {
@@ -11760,15 +11760,15 @@
         "stage": 1
     },
     {
-        "key": "guadiana_estuary_modifier:0",
-        "original": "Guadiana Estuary",
-        "translation": "瓜迪亚纳河河口",
+        "key": "guadiana_estuary_modifier:1",
+        "original": "Guadalquivir Estuary",
+        "translation": "瓜达尔基维尔河河口",
         "stage": 1
     },
     {
-        "key": "desc_guadiana_estuary_modifier:0",
-        "original": "Controlling the important river estuary of Guadiana strengthens our hold of the trade in the region.",
-        "translation": "控制住重要的瓜迪亚纳河河口可以增强我们在这一区域的贸易掌控力。",
+        "key": "desc_guadiana_estuary_modifier:1",
+        "original": "Controlling the important river estuary of Guadalquivir strengthens our hold of the trade in the region.",
+        "translation": "控制住重要的瓜达尔基维尔河河口可以增强我们在这一区域的贸易掌控力。",
         "stage": 1
     },
     {
@@ -26298,10 +26298,10 @@
         "stage": 1
     },
     {
-        "key": "ACTIVE_POLICY_COST:0",
-        "original": "This costs $COST|Y$ $TYPE$ each month to maintain.",
+        "key": "ACTIVE_POLICY_COST:2",
+        "original": "§Y$TYPE$ Policies§!\\nThis costs $COST|Y$ $TYPE_ICON$ each month to maintain.\\n\\n§Y$VALUE$ Free Policies§!\\n$MODIFIERS$\\n\\n",
         "translation": "每月需要消耗 $COST|Y$ $TYPE$ 。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "NATIONAL_FOCUS_EFF:0",
@@ -29940,9 +29940,9 @@
         "stage": 1
     },
     {
-        "key": "CV_GO_BANKRUPT_TEXT:3",
-        "original": "By declaring bankruptcy, we will write off all our loans.\\nThis will cause a direct loss of prestige and stability. All hired advisors and mercenaries will also leave our service and any Subsidies to other countries will be canceled.\\nBankruptcy will furthermore set us back throughout our country by stopping all construction progress and causing devastation everywhere.\\nDuring $DURATION|Y$ years we will also suffer the following effects:\\n$EFFECT$\\nAll your Centers of Trade will be §Rdowngraded§!\\nAll your Trade Company Investments will be §Rlost§!\\n\\nAre you sure?",
-        "translation": "宣布破产将清空我们的债务。\\n这同样会失去大量威望、稳定度。已雇的顾问及雇佣兵都会离开，所有对他国的资助会被取消。\\n破产将中止国内所有建设进程，倒退近年来所有建设成果（建筑、核心、文化等），并在全国范围内造成荒废。\\n在 $DURATION|Y$ 年内我们会受到以下影响：\\n$EFFECT$\\n你所有的贸易中心将§R降级§!\\n你将§R失去§!在贸易公司的所有投资\\n\\n你确定要这么做吗？",
+        "key": "CV_GO_BANKRUPT_TEXT:4",
+        "original": "By declaring bankruptcy, we will write off all our loans.\\nThis will cause a direct loss of prestige and stability. All hired advisors and mercenaries will also leave our service and any Subsidies to other countries will be canceled.\\nBankruptcy will furthermore set us back throughout our country by stopping all construction progress and causing devastation everywhere.\\nDuring $DURATION|Y$ years we will also suffer the following effects:\\n$EFFECT$$ADDITIONAL_EFFECT$\\n\\nAre you sure?",
+        "translation": "宣布破产将清空我们的债务。\\n这同样会失去大量威望、稳定度。已雇的顾问及雇佣兵都会离开，所有对他国的资助会被取消。\\n破产将中止国内所有建设进程，倒退近年来所有建设成果（建筑、核心、文化等），并在全国范围内造成荒废。\\n在 $DURATION|Y$ 年内我们会受到以下影响：\\n$EFFECT$$ADDITIONAL_EFFECT$\\n\\n你确定要这么做吗？",
         "stage": 1
     },
     {
@@ -29952,9 +29952,9 @@
         "stage": 1
     },
     {
-        "key": "MISSIONARY_SLIDER:2",
-        "original": "This Month's Missionary Maintenance: §R-§!$VAL|R%$",
-        "translation": "月度传教维护费：§R-§!$VAL|R%$",
+        "key": "MISSIONARY_SLIDER:3",
+        "original": "This Month's Missionary Maintenance: §Y-§!$VAL|Y%$",
+        "translation": "月度传教维护费：§Y-§!$VAL|Y%$",
         "stage": 1
     },
     {
@@ -29973,6 +29973,48 @@
         "key": "GoldenCenturyDLC:0",
         "original": "Golden Century",
         "translation": "黄金世纪",
+        "stage": 1
+    },
+    {
+        "key": "SLAVERAID_NOT_OVERLORD:0",
+        "original": "You cannot raid your overlord and its subjects in $NAME|Y$.\\n",
+        "translation": "你不能劫掠你在$NAME|Y$的宗主国及其附属国。\\n",
+        "stage": 1
+    },
+    {
+        "key": "BASE_TRADE_GOODS_SIZE:0",
+        "original": "Base Goods Produced",
+        "translation": "基础商品产出",
+        "stage": 1
+    },
+    {
+        "key": "CONVHEIR_FEMALE_DESC:0",
+        "original": "Sadly females are not respected as generals in this time-period. With the right idea or policy, we might be able to change that.",
+        "translation": "遗憾的是，在这个时代女性无法成为将领。在拥有正确的理念或政策后，我们也许可以改变这种情况。",
+        "stage": 1
+    },
+    {
+        "key": "CONVHEIR_AGE_DESC:0",
+        "original": "Only an adult of 15 years or older can command armies.",
+        "translation": "只有年满15岁的成人才可以指挥军队。",
+        "stage": 1
+    },
+    {
+        "key": "CONVHEIR_UNION_DESC:0",
+        "original": "Only the major partner of the union has full control of the heir and will be able to make a ruler out of him.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "CONVERT_HEIR_NOT_POSSIBLE_DRO:1",
+        "original": "Remember having your heir leading an army could be beneficial, but it is also a large risk, as generals have risk of dying on the battlefield.",
+        "translation": "请记住让你的继承人领导一支军队可能有好处，但也会冒着巨大的风险，因为将领有在战场上死亡的风险。",
+        "stage": 1
+    },
+    {
+        "key": "CV_GO_BANKRUPT_TEXT_COT_TC_INVESTMENTS:0",
+        "original": "\\nAll your Centers of Trade will be §Rdowngraded§!\\nAll your Trade Company Investments will be §Rlost§!",
+        "translation": "\\n你所有的贸易中心将§R降级§!\\n你将§R失去§!在贸易公司的所有投资",
         "stage": 1
     }
 ]

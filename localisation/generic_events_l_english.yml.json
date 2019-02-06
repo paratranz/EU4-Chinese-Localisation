@@ -5797,9 +5797,9 @@
     },
     {
         "key": "EVTDESC1076:0",
-        "original": "With the discovery of the New World, we have entered what looks like our greatest period of prosperity. Despite the immense wealth returning to us allowing $MONARCH$ to finance one of the most outstanding armies in the world, we have not been successful in creating a strong naval force and his attempt to conquer the neighboring states has so far failed miserably.",
+        "original": "With the discovery of the New World, we have entered what looks like our greatest period of prosperity. Despite the immense wealth returning to us allowing $MONARCH$ to finance one of the most outstanding armies in the world, we have not been successful in creating a strong naval force and [Root.Monarch.GetHerHis] attempt to conquer the neighboring states has so far failed miserably.",
         "translation": "伴随新大陆的发现，我们似乎进入了最繁荣时期。尽管回馈给我们的巨大财富使$MONARCH$有能力资助世界上最杰出的军队，我们还没有成功的打造强大的海军，我们海军征服邻国的尝试目前为止都不幸失败。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "EVTOPTA1076:0",
@@ -6714,10 +6714,10 @@
         "stage": 1
     },
     {
-        "key": "EVTDESC3077:0",
-        "original": "The $PROVINCECULTURE$ missionaries that were sent overseas to preach to the indigenous population have met fierce resistance. In some cases though, they have managed to influence the natives enough to convert them. A smaller group of natives living within and surrounding $PROVINCENAME$ have readily accepted the Christian beliefs.",
+        "key": "EVTDESC3077:1",
+        "original": "The [Root.Owner.Culture.GetName] missionaries that were sent overseas to preach to the indigenous population have met fierce resistance. In some cases though, they have managed to influence the natives enough to convert them. A smaller group of natives living within and surrounding $PROVINCENAME$ have readily accepted the Christian beliefs.",
         "translation": "$PROVINCECULTURE$的传教士在当地的传教活动遇到了巨大的阻力，但有时他们还是能使原住民接受新信仰。在$PROVINCENAME$的部分原住民已经开始信奉基督教。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "EVTOPTA3077:0",
@@ -11359,9 +11359,9 @@
     },
     {
         "key": "china_events.55.d:0",
-        "original": "The Emperor of China is weak and has little support. From north to south the ordinary Chinese are questioning his rule and the normally so loyal bureaucrats are debating if [empire_of_china.Monarch.GetName] has in fact lost the Mandate of Heaven.\\nRogue [chinese_border_province.Culture.GetName] officials, claiming to represent [chinese_border_province.GetName] have approached [Root.Monarch.GetName] imploring us to free them from the oppression of [empire_of_china.GetName] and ending the rule of the [empire_of_china.Monarch.Dynasty.GetName] dynasty.",
+        "original": "The Emperor of China is weak and has little support. From north to south, the ordinary Chinese are questioning his rule and the normally so loyal bureaucrats are debating whether [empire_of_china.Monarch.GetName] has in fact lost the Mandate of Heaven.\\nRogue [chinese_border_province.Culture.GetName] officials claiming to represent [chinese_border_province.GetName] have approached [Root.Monarch.GetName] imploring us to free them from the oppression of [empire_of_china.GetName] and end the rule of the [empire_of_china.Monarch.Dynasty.GetName] dynasty.",
         "translation": "当前统治中国的皇帝十分软弱且缺乏支持。从南到北，全国各地每一个普通的中国人都在质疑他的统治，连其忠诚的官员也在怀疑[empire_of_china.Monarch.GetName]是否已失去了天命。\\n[chinese_border_province.Culture.GetName]不安分的地方官开始与[Root.Monarch.GetName]接触，请求我们结束[empire_of_china.Monarch.Dynasty.GetName]王朝的统治，把他们从[empire_of_china.GetName]的压迫下解救出来。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "china_events.55.a:0",
@@ -12384,10 +12384,10 @@
         "stage": 1
     },
     {
-        "key": "EVTDESC759:0",
-        "original": "Since the nine hundreds the Archbishopric of Mainz have held the prestigious title of §YPrimas Germaniae§! - the most important Catholic Archbishop throughout the Holy Roman Empire.\\n\\nNaturally, such a title will inspire jealousy among the other princes of the Empire... We must take heed and not let our prestige drop to low, or we might find the title slip from our fingers!",
+        "key": "EVTDESC759:1",
+        "original": "Since the Tenth Century the Archbishops of Mainz have held the prestigious title of §YPrimas Germaniae§! - the most important Catholic Archbishop throughout the Holy Roman Empire.\\n\\nNaturally, such a title will inspire jealousy among the other princes of the Empire... We must take heed and not let our prestige drop too low, or we might find the title slip from our fingers!",
         "translation": "从九世纪开始，美因茨的大主教就把持着一个负有盛名的头衔，§Y日耳曼首席主教§!——全神圣罗马帝国之内最重要的天主教大主教。\\n\\n自然，这样一个头衔会引起帝国内其他诸侯们的嫉妒……我们必须万分小心，决不能使我们的威望扫地，不然这个头衔很可能就不再为我们所把持！",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "EVTOPTA759:0",
@@ -12421,9 +12421,9 @@
     },
     {
         "key": "EVTDESC761:0",
-        "original": "The title of §WPrimas Germaniae§! - the most important Catholic Archbishop throughout the Holy Roman Empire - was created in the nine hundreds when the Archbishopric of Mainz became the first Archbishopric to receive it.\\n\\nFor the second-rate power of $FROM$ to hold such a prestigious title seems an affront to the Catholic Church. Perhaps a more worthy candidate can be found?",
+        "original": "The title of §WPrimas Germaniae§! - the most important Catholic Archbishop throughout the Holy Roman Empire - was created in the Tenth Century when the Archbishopric of Mainz became the first Archbishopric to receive it.\\n\\nFor the second-rate power of $FROM$ to hold such a prestigious title seems an affront to the Catholic Church. Perhaps a more worthy candidate can be found?",
         "translation": "§W日耳曼尼亚大主教§b的头衔——天主教在神圣罗马帝国最为重要的大主教——是美因茨大主教于九世纪创立并继承的.像$FROM$这样一个二流国家持有如此一个权威头衔似乎是对天主教会的一种轻蔑.也许应该找到一个更加有价值的候选人？",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "EVTOPTA761:0",
@@ -12450,10 +12450,10 @@
         "stage": 1
     },
     {
-        "key": "EVTDESC762:0",
-        "original": "My $MONARCHTITLE$, we have lost the prestigious title of §WPrima Germaniae§! Due to our low standing in the empire of lately, another Archbishop has gone ahead and claimed the title!",
+        "key": "EVTDESC762:2",
+        "original": "My $MONARCHTITLE$, we have lost the prestigious title of §WPrimas Germaniae§!. Due to our low standing in the empire of late, another Archbishop has gone ahead and claimed the title!",
         "translation": "我的$MONARCHTITLE$，我们已经失去了§W日耳曼尼亚大主教§b的权威头衔！全是因为我们最近在帝国内的地位太低，其他大主教超越了我们并获得了这个头衔！",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "EVTOPTA762:0",
@@ -16405,9 +16405,9 @@
     },
     {
         "key": "EVTDESC962:0",
-        "original": "The prestigious title §WPrimas Germaniae§b can only be held by a Catholic spiritual elector. As we no longer meet these requirements, the Pope has revoked the privilege.",
+        "original": "The prestigious title §WPrimas Germaniae§! can only be held by a Catholic spiritual elector. As we no longer meet these requirements, the Pope has revoked the privilege.",
         "translation": "§W日耳曼尼亚大主教§b的荣誉称号只能授予天主教神权选帝侯。由于我们不再符合要求，教宗取消了我们的特权。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "EVTOPTA962:0",
@@ -16423,9 +16423,9 @@
     },
     {
         "key": "EVTDESC964:0",
-        "original": "The prestigious position as §WLegatus Natus§b can only be held by a Catholic bishop in the Holy Roman Empire. As we no longer meet this requirement, the Pope has revoked the title.",
+        "original": "The prestigious position as §WLegatus Natus§! can only be held by a Catholic bishop in the Holy Roman Empire. As we no longer meet this requirement, the Pope has revoked the title.",
         "translation": "§W当地使节§b的荣誉地位只能授予神圣罗马帝国内的天主教主教。由于我们不再符合要求，教宗收回了我们的称号。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "EVTOPTA964:0",
@@ -20527,9 +20527,9 @@
     },
     {
         "key": "EVTDESC9484:0",
-        "original": "Sire...', again the advisor interrupts you, their furrowed brow telling tall tales of concern and sleepless nights. '... the succession does not secure itself, your majesty...' On they go. This dusty old study, and your advisor's dry voice resonating of boredom and wasted potential, accentuates the brightness of the clear day outside. '...which is why it is of vital importance that...' - Doesn't they ever stop? 'In nature', you find yourself saying in interruption. 'the first step, leading an animal into the grave, is always procreation.' You're not sure if you believe it, only that there is nothing in their voice to convince you that marriage is preferable to the promise of a clear sky.",
+        "original": "Sire...', again the advisor interrupts you, their furrowed brow telling tall tales of concern and sleepless nights. '... the succession does not secure itself, your majesty...' On they go. This dusty old study, and your advisor's dry voice resonating of boredom and wasted potential, accentuates the brightness of the clear day outside. '...which is why it is of vital importance that...' - Doesn't they ever stop? 'In nature', you find yourself saying in interruption, 'the first step, leading an animal into the grave, is always procreation.' You're not sure if you believe it, only that there is nothing in their voice to convince you that marriage is preferable to the promise of a clear sky.",
         "translation": "「陛下……」顾问又一次打断了你，他们紧锁着眉头，谈论令人担忧的传言和不眠之夜。「……继承并不能保证其本身，陛下……」声音持续着。这个布满灰尘的书房和顾问回荡的喑哑都那么令人厌倦，屋外的阳光更加明媚了。「……之所以它最重要……」他们能不能闭上嘴？「本质上，」你发现自己被打断。「动物走向死亡的第一步是繁育。」你不确定是否相信他们所说的，他们的声音中没有什么让你相信婚姻比外面的晴天更好。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "EVTOPTA9484:0",
@@ -21416,8 +21416,8 @@
     {
         "key": "EVTOPTC723:0",
         "original": "Reform Society",
-        "translation": "改革社会",
-        "stage": 1
+        "translation": "社会改革",
+        "stage": 5
     },
     {
         "key": "EVTNAME724:0",
@@ -23767,9 +23767,9 @@
     },
     {
         "key": "colonial_nation.EVTDESC92:0",
-        "original": "The War of Independence has tragically failed and [Root.GetName] is once more under the boot of [Root.ColonialParent.GetName]. Our short-lived government under [Root.Monarch.GetTitle] [Root.Monarch.GetName] has been dissolved and [Root.Monarch.GetName] sentenced to death. A new governor or viceroy has been sent over from [Root.ColonialNation.Capital.GetCapitalName] to take charge and [Root.ColonialParent.GetName] is demanding harsh war reparations to cover the damages inflicted during the war.",
+        "original": "The War of Independence has tragically failed and [Root.GetName] is once more under the boot of [Root.ColonialParent.GetName]. Our short-lived government under [Root.Monarch.GetTitle] [Root.Monarch.GetName] has been dissolved and [Root.Monarch.GetName] sentenced to death. A new governor or viceroy has been sent over from [Root.ColonialParent.Capital.GetCapitalName] to take charge and [Root.ColonialParent.GetName] is demanding harsh war reparations to cover the damages inflicted during the war.",
         "translation": "独立战争已经悲剧收场,[Root.GetName]再一次被[Root.ColonialParent.GetName]踩在脚下,我们在[Root.Monarch.GetTitle][Root.Monarch.GetName]掌权下的短命政府已被肃清而 [Root.Monarch.GetName]本人被判决死刑,一个新的省长或者总督正从[Root.ColonialNation.Capital.GetCapitalName]赶来监管我们,而且[Root.ColonialParent.GetName] 索取了严苛的战争赔款来弥补他们在战时的损失.",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "colonial_nation.EVTOPTA92:0",
@@ -23779,9 +23779,9 @@
     },
     {
         "key": "colonial_nation.EVTDESC93:0",
-        "original": "The War of Independence has tragically failed and [Root.GetName] is once more under the boot of [Root.ColonialParent.GetName]. Our short-lived government under [Root.Monarch.GetTitle] [Root.Monarch.GetName] has been dissolved. A new governor or viceroy has been sent over from [Root.ColonialNation.Capital.GetCapitalName] to take charge. Fortunately, [Root.Monarch.GetName] has been pardoned and [Root.ColonialParent.GetName] has agreed not to demand any war reparations for the damages inflicted during the war.",
+        "original": "The War of Independence has tragically failed and [Root.GetName] is once more under the boot of [Root.ColonialParent.GetName]. Our short-lived government under [Root.Monarch.GetTitle] [Root.Monarch.GetName] has been dissolved. A new governor or viceroy has been sent over from [Root.ColonialParent.Capital.GetCapitalName] to take charge. Fortunately, [Root.Monarch.GetName] has been pardoned and [Root.ColonialParent.GetName] has agreed not to demand any war reparations for the damages inflicted during the war.",
         "translation": "独立战争悲剧性地失败了，[Root.GetName]又一次处于了[Root.ColonialParent.GetName]的脚下。我们在[Root.Monarch.GetTitle] [Root.Monarch.GetName] 下短命的政府被解散了。一个新的总督或执政官已经从[Root.ColonialNation.Capital.GetCapitalName]出发。幸好，[Root.Monarch.GetName] 已经被特赦，而[Root.ColonialParent.GetName] 同意不要求任何战争赔偿。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "colonial_nation.EVTOPTA93:0",
@@ -25609,15 +25609,15 @@
     },
     {
         "key": "culture_religion_events.2.dc:0",
-        "original": "The ascension of [Root.Monarch.GetName] to be the [Root.Monarch.GetTitle] of [Root.GetName] has shaken the [Root.GetAdjective] court. Our new ruler openly patronizes the [Root.new_ruler_culture.GetReligionName] faith and has taken a circle of like minded friends with [Root.Monarch.GetHerHim] to rule the country. This has proved too much to swallow for many of our righteous [Root.Religion.GetName] subjects and some, lead by the prominent preacher [Root.rebel_preacher.GetName], have come out in open protests against us",
+        "original": "The ascension of [Root.Monarch.GetName] to be the [Root.Monarch.GetTitle] of [Root.GetName] has shaken the [Root.GetAdjective] court. Our new ruler openly patronizes the [Root.new_ruler_culture.GetReligionName] faith and has taken a circle of like-minded friends with [Root.Monarch.GetHerHim] to rule the country. This has proved too much to swallow for many of our righteous [Root.Religion.GetName] subjects and some, led by the prominent preacher [Root.rebel_preacher.GetName], have come out in open protests against us.",
         "translation": "[Root.Monarch.GetName]登基成为[Root.GetName]的[Root.Monarch.GetTitle]动摇了[Root.GetAdjective]宫廷的根本。我们的新统治者公开宣称庇护[Root.new_ruler_culture.GetReligionName]信仰的人，并纠集了一群有着相似观念的朋友和[Root.Monarch.GetHerHim]一起统治国家。这使得我们许多忠实信奉[Root.Religion.GetName]的臣民难以接受，以著名教士[Root.rebel_preacher.GetName]为首的人士对我们做出了公开抗议。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "culture_religion_events.2.dda:0",
-        "original": "The ascension of [Root.Monarch.GetName] to be the [Root.Monarch.GetTitle] of [Root.GetName] has shaken the [Root.GetAdjective] court. Our new ruler openly patronizes the [Root.new_ruler_culture.GetReligionName] faith and has taken a circle of like minded friends with [Root.Monarch.GetHerHim] to rule the country. This has proved too much to swallow for many of our righteous [Root.Religion.GetName] subjects and it seems that for now our new [Root.Monarch.GetTitle] have few friends outside the gates of [Root.Capital.GetCapitalName].",
+        "original": "The ascension of [Root.Monarch.GetName] to be the [Root.Monarch.GetTitle] of [Root.GetName] has shaken the [Root.GetAdjective] court. Our new ruler openly patronizes the [Root.new_ruler_culture.GetReligionName] faith and has taken a circle of like-minded friends with [Root.Monarch.GetHerHim] to rule the country. This has proved too much to swallow for many of our righteous [Root.Religion.GetName] subjects and it seems that for now our new [Root.Monarch.GetTitle] have few friends outside the gates of [Root.Capital.GetCapitalName].",
         "translation": "[Root.Monarch.GetName]登基成为[Root.GetName]的[Root.Monarch.GetTitle]动摇了[Root.GetAdjective]宫廷的根本。我们的新统治者公开宣称庇护[Root.new_ruler_culture.GetReligionName]信仰的人，并纠集了一群有着相似观念的朋友和[Root.Monarch.GetHerHim]一起统治国家。这使得我们许多忠实信奉[Root.Religion.GetName]的臣民难以接受，目前看来我们的新[Root.Monarch.GetTitle]在[Root.Capital.GetCapitalName]的大门之外似乎没有多少朋友。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "culture_religion_events.2.de:0",
@@ -26476,5 +26476,41 @@
         "original": "All §Y[Root.other_advisor_culture.GetCultureName]§! provinces will get §G-2§! Unrest and §G+10%§! Production Efficiency for §Y10§! years.",
         "translation": "所有§Y[Root.other_advisor_culture.GetCultureName]§! 省份将得到§G-2§! 叛乱度和§G+10%§! 生产效率§Y10§!年。",
         "stage": 1
+    },
+    {
+        "key": "china_events.55.d.not_emperor:0",
+        "original": "[empire_of_china.GetAdjective] [empire_of_china.Monarch.GetTitle] [empire_of_china.Monarch.GetName], the former Emperor of China, is weak and has little support in the territories he still controls. From north to south, the ordinary Chinese are questioning his rule and the normally so loyal bureaucrats are openly proclaiming that [empire_of_china.Monarch.GetName] has lost the Mandate of Heaven.\\nRogue [chinese_border_province.Culture.GetName] officials claiming to represent [chinese_border_province.GetName] have approached [Root.Monarch.GetName], imploring us to free them from the oppression of [empire_of_china.GetName] and end the rule of the [empire_of_china.Monarch.Dynasty.GetName] dynasty.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "china_events.55.d.not_emperor_but_I_am:0",
+        "original": "[empire_of_china.GetAdjective] [empire_of_china.Monarch.GetTitle] [empire_of_china.Monarch.GetName], the former Emperor of China, is weak and has little support in the territories he still controls. From north to south, the ordinary Chinese are questioning his rule and the normally so loyal bureaucrats are openly proclaiming that [empire_of_china.Monarch.GetName] has lost the Mandate of Heaven and that [Root.Monarch.GetTitle] [Root.Monarch.GetName] is their rightful ruler.\\nRogue [chinese_border_province.Culture.GetName] officials claiming to represent [chinese_border_province.GetName] have approached [Root.Monarch.GetName], imploring him to take what is his by right and free them from the oppression of [empire_of_china.GetName], finally ending the rule of the [empire_of_china.Monarch.Dynasty.GetName] dynasty.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EVTNAME96200:0",
+        "original": "Envoy from the Pope",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EVTDESC96200:0",
+        "original": "Good news! We have been selected by the Pope to hold the prestigious title of §WPrimas Germaniae§! - the most important Catholic Archbishop throughout the Holy Roman Empire - after the former holder fell from grace.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EVTOPTA96200:0",
+        "original": "We will gladly accept this title.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "EVTOPTB96200:0",
+        "original": "We must graciously decline.",
+        "translation": "",
+        "stage": 0
     }
 ]

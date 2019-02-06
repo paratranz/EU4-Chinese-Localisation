@@ -2934,10 +2934,10 @@
         "stage": 1
     },
     {
-        "key": "FREE_POLICIES_DESC:0",
-        "original": "§Y$VALUE$ Free Policies§!\\n$MODIFIERS$\\n\\n",
+        "key": "FREE_POLICIES_DESC:2",
+        "original": "Policies are powerful modifiers for your country that will last until you choose to remove them. We can maintain some for free, afterwards it will cost monthly monarch power. We can get more through ideas and government reforms.",
         "translation": "§Y$VALUE$免费政策§!\\n$MODIFIERS$\\n\\n",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "FREE_POLICY_BASE:0",
@@ -3439,14 +3439,14 @@
     },
     {
         "key": "DONT_HAVE_TRADE_COMPANY_INVESTMENT:0",
-        "original": "$INVESTOR|Y$ does NOT have a $INVESTMENT|Y$ Trade Company Investment in $AREA|Y$",
-        "translation": "$INVESTOR|Y$在$AREA|Y$没有$INVESTMENT|Y$贸易公司投资",
+        "original": "$INVESTOR|Y$ does NOT have a $INVESTMENT|Y$ Trade Company Investment in $AREA|Y$\\n",
+        "translation": "$INVESTOR|Y$在$AREA|Y$没有$INVESTMENT|Y$贸易公司投资\\n",
         "stage": 1
     },
     {
         "key": "HAS_TRADE_COMPANY_INVESTMENT:0",
-        "original": "$INVESTOR|Y$ has a $INVESTMENT|Y$ Trade Company Investment in $AREA|Y$",
-        "translation": "$INVESTOR|Y$在$AREA|Y$拥有$INVESTMENT|Y$贸易公司投资",
+        "original": "$INVESTOR|Y$ has a $INVESTMENT|Y$ Trade Company Investment in $AREA|Y$\\n",
+        "translation": "$INVESTOR|Y$在$AREA|Y$拥有$INVESTMENT|Y$贸易公司投资\\n",
         "stage": 1
     },
     {
@@ -3571,8 +3571,8 @@
     },
     {
         "key": "MODIFIER_LEADER_COST:0",
-        "original": "Leader cost§",
-        "translation": "将领花费§",
+        "original": "Leader cost",
+        "translation": "将领花费",
         "stage": 1
     },
     {
@@ -4692,9 +4692,9 @@
         "stage": 5
     },
     {
-        "key": "india_mission_events.3.d:0",
-        "original": "Our conquest of Hindustan complete, [Root.Monarch.GetName] has decided to commemorate our victory by commissioning the most magnificent throne the world has ever seen. Adorned with jewels of all kinds, from diamonds to emeralds to pearls, the value of this seat exceeds that of the grandest mausoleums.\\n\\nThe question on the minds of all in court is where this throne shall be placed. Traditionally, the conquerors of Hindustan have ruled from Delhi and administered their empires from there. We might also consider housing the throne in the current capital at [Root.Capital.GetName], a glorious city in its own right.",
-        "translation": "我们对印度斯坦的征服以胜利告终，[Root.Monarch.GetName]决定打造一尊空前华丽的王座以纪念我们的胜利。从钻石到翡翠，再到珍珠，这尊珠光闪烁的王座，其价值远胜最宏伟的陵墓。\\n\\n宫廷中所有人的脑海中都有个疑问：这尊王座将置于何处？传统上，印度斯坦的征服者们曾于德里登基并从那里他们统治帝国。另一方面，我们也可考虑在现有的首都[Root.Capital.GetName]——一个辉煌的城市中承继大统。",
+        "key": "india_mission_events.3.d:1",
+        "original": "Our conquest of Hindustan complete, [Root.Monarch.GetName] has decided to commemorate our victory by commissioning the most magnificent throne the world has ever seen. Adorned with jewels of all kinds, from diamonds to emeralds to pearls, the value of this seat exceeds that of the grandest mausoleums.\\n\\nThe question on the minds of all in court is where this throne shall be placed. Traditionally, the conquerors of Hindustan have ruled from Delhi and administered their empires from there. As the [Root.Monarch.GetTitle]s of Delhi, it is up to us to uphold this tradition.",
+        "translation": "我们对印度斯坦的征服以胜利告终，[Root.Monarch.GetName]决定打造一尊空前华丽的王座以纪念我们的胜利。从钻石到翡翠，再到珍珠，这尊珠光闪烁的王座，其价值远胜最宏伟的陵墓。\\n\\n宫廷中所有人的脑海中都有个疑问：这尊王座将置于何处？传统上，印度斯坦的征服者们曾于德里登基并从那里他们统治帝国。作为德里的[Root.Monarch.GetTitle]，我们有责任坚持这一传统。",
         "stage": 1
     },
     {
@@ -4704,9 +4704,9 @@
         "stage": 1
     },
     {
-        "key": "india_mission_events.3.b:0",
-        "original": "Place the throne in [Root.Capital.GetName].",
-        "translation": "将王座置于[Root.Capital.GetName]。",
+        "key": "india_mission_events.3.b:1",
+        "original": "Keep the throne in [Root.Capital.GetName].",
+        "translation": "维持现状，将王座留在[Root.Capital.GetName]。",
         "stage": 1
     },
     {
@@ -5208,10 +5208,10 @@
         "stage": 1
     },
     {
-        "key": "CHARTER_BASE_RELUCTANCE:0",
-        "original": "Base Reluctance",
+        "key": "CHARTER_BASE_RELUCTANCE:1",
+        "original": "Base Reluctance: ",
         "translation": "基础不情愿值",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "alert_trade_company_investment_instant:0",
@@ -5238,10 +5238,10 @@
         "stage": 1
     },
     {
-        "key": "CHARTER_DEVELOPMENT_RELUCTANCE:0",
-        "original": "Province Development",
+        "key": "CHARTER_DEVELOPMENT_RELUCTANCE:1",
+        "original": "Province Development: ",
         "translation": "省份发展度",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "TRADE_COMPANY_COUNTRY_MODIFIER_NAME:0",
@@ -5389,9 +5389,9 @@
     },
     {
         "key": "dutch_republic.33.d1:0",
-        "original": "After years of bickering, internal conflict, and delayed legistlation, all have agreed that something must be done about the state of the Assembly.\\n\\nThe ancient House of [Root.Monarch.Dynasty.GetName], who for years have been biding their time, has, in a superbly timed maneouvre, spearheaded a bill abolishing the assembly altogether, and reinstating [Root.Monarch.GetName] on the throne of [Root.GetName].",
+        "original": "After years of bickering, internal conflict, and delayed legislation, all have agreed that something must be done about the state of the Assembly.\\n\\nThe ancient House of [Root.Monarch.Dynasty.GetName], who for years have been biding their time, has, in a superbly timed maneouvre, spearheaded a bill abolishing the assembly altogether, and reinstating [Root.Monarch.GetName] on the throne of [Root.GetName].",
         "translation": "经过多年的争吵，内部冲突和拖沓的立法，所有人都同意必须就大会的状况采取一些措施。\\n\\n古老的[Root.Monarch.Dynasty.GetName]皇室多年来一直在等待他们的机会。现在，他们恰到好处地带头提出了一个废除集会，并重新将权力归于 [Root.GetName]的[Root.Monarch.GetName]的提案。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "dutch_republic.33.a:0",
@@ -5748,16 +5748,16 @@
         "stage": 1
     },
     {
-        "key": "EST_VAL_RAJPUT_DOMINANCE:0",
-        "original": "Rajput Dominance: §Y$VAL$%§!",
+        "key": "EST_VAL_RAJPUT_DOMINANCE:1",
+        "original": "Rajput Dominance: §Y$VAL$§!",
         "translation": "拉杰普特独大：§Y$VAL$%§!",
-        "stage": 1
+        "stage": 0
     },
     {
-        "key": "EST_VAL_MARATHA_DOMINANCE:0",
-        "original": "Maratha Dominance: §Y$VAL$%§!",
+        "key": "EST_VAL_MARATHA_DOMINANCE:1",
+        "original": "Maratha Dominance: §Y$VAL$§!",
         "translation": "马拉塔独大：§Y$VAL$%§!",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "NO_POLICY_AVAILABLE:0",
@@ -5779,20 +5779,32 @@
     },
     {
         "key": "DOESNT_HAVE_ANY_TRADE_COMPANY_INVESTMENT:0",
-        "original": "$INVESTOR|Y$ does not have any Trade Company Investment in $AREA|Y$",
+        "original": "$INVESTOR|Y$ does not have any Trade Company Investment in $AREA|Y$\\n",
         "translation": "$INVESTOR|Y$在$AREA|Y$区域没有任何贸易公司投资。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "HAS_ANY_TRADE_COMPANY_INVESTMENT:0",
-        "original": "$INVESTOR|Y$ has a Trade Company Investment in $AREA|Y$",
+        "original": "$INVESTOR|Y$ has a Trade Company Investment in $AREA|Y$\\n",
         "translation": "$INVESTOR|Y$在$AREA|Y$拥有贸易公司",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "dutch_republic.33.d2:1",
         "original": "Years of internal strife within the [Root.GetAdjectiveCap] Assembly have begun to take their toll on the national spirit of [Root.GetName]. The rising popular opinion against the Assembly has drawn out many vocal opponents among our citizens.\\n\\nAt long last, one contender stands tall amidst his opponents, overthrowing what little opposition remains in the Assembly, and reinstating the glorious traditions of [Root.GetName].",
         "translation": "在[Root.GetAdjectiveCap]议会内部多年的派系斗争已开始对[Root.GetName]的破坏了我们的民族精神。日益高涨的反议会情绪在我们的公民中化作了阵阵反对的声潮。\\n\\n最终，一位竞争者在从他的对手中脱颖而出，打倒了议会中剩下的少数反对派，并在恢复了[Root.GetName]的光荣传统。",
         "stage": 1
+    },
+    {
+        "key": "brahmins_estate_events.9.b.tt:1",
+        "original": "Every owned province with the §YBrahmins§! estate gets §Y'Non-Brahmin Religious Movements'§! for §Y15 years§!, giving the following effects:\\nLocal Unrest: §G-5.00§!\\nMonthly Autonomy Change: §R+0.05%§!",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "GOV_REVOLUTIONARY_REPUBLIC:0",
+        "original": "Revolutionary Republic",
+        "translation": "",
+        "stage": 0
     }
 ]

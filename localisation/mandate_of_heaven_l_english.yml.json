@@ -2893,27 +2893,27 @@
     },
     {
         "key": "shinto_events.isolation.tt:0",
-        "original": "This choice will move you towards an §YIsolationist§! end of the current §YIncident§!.",
+        "original": "This choice will move you towards an §YIsolationist§! outcome of the current §YIncident§!.",
         "translation": "这个选择会使你偏向§Y孤立主义§!的§Y事件§!结局。",
         "stage": 1
     },
     {
         "key": "shinto_events.open.tt:0",
-        "original": "This choice will move you towards an §YOpen§! end of the current §YIncident§!.",
+        "original": "This choice will move you towards an §YOpen§! outcome of the current §YIncident§!.",
         "translation": "这个选择会使你偏向§Y开放主义§!的§Y事件§!结局。",
-        "stage": 5
+        "stage": 1
     },
     {
         "key": "shinto_events.much.openness.tt:0",
-        "original": "This choice will move you sharply towards an §YOpen§! end of the current §YIncident§!.",
+        "original": "This choice will move you sharply towards an §YOpen§! outcome of the current §YIncident§!.",
         "translation": "这个选择会使你大幅偏向§Y开放主义§!的§Y事件§!结局。",
-        "stage": 5
+        "stage": 1
     },
     {
         "key": "shinto_events.much.isolation.tt:0",
-        "original": "This choice will move you sharply towards an §YIsolationist§! end of the current §YIncident§!.",
+        "original": "This choice will move you sharply towards an §YIsolationist§! outcome of the current §YIncident§!.",
         "translation": "这个选择会使你大幅偏向§Y孤立主义§!的§Y事件§!结局。",
-        "stage": 5
+        "stage": 1
     },
     {
         "key": "sashidashi_modifier:0",
@@ -4866,9 +4866,9 @@
         "stage": 1
     },
     {
-        "key": "BANNER_CANT_HAVE:0",
-        "original": "Only nations with §YManchu§! as primary culture can raise banners.\\n",
-        "translation": "只有以§Y满洲§!作为主流文化的国家能招募旗兵。\\n",
+        "key": "BANNER_CANT_HAVE:1",
+        "original": "Your nation cannot raise banners.\\n",
+        "translation": "你的国家无法招募八旗。\\n",
         "stage": 1
     },
     {
@@ -4905,6 +4905,30 @@
         "key": "TRIBUTE_INCOME:0",
         "original": "§Y$NAME$§! is paying us §Y$VAL$§!¤ each year.",
         "translation": "§Y$NAME$§!每年给我们进贡§Y$VAL$§!¤。",
+        "stage": 1
+    },
+    {
+        "key": "TRIBUTARY_BREAK_TRUST:0",
+        "original": "They no longer trust us.",
+        "translation": "他们不再信任我们。",
+        "stage": 1
+    },
+    {
+        "key": "TRIBUTARY_BREAK_THREATENED:0",
+        "original": "They feel that we are becoming a threat to them.",
+        "translation": "他们感到我们正成为他们的威胁。",
+        "stage": 1
+    },
+    {
+        "key": "shinto_events.middle_way.tt:0",
+        "original": "This choice will move you towards a §YNeutral§! outcome of the current §YIncident§!.",
+        "translation": "这个选择会使你偏向§Y中立§!的§Y事件§!结局。",
+        "stage": 1
+    },
+    {
+        "key": "ENEMY_GUARANTEES:0",
+        "original": "$NAME|Y$ is guaranteed by:\\n",
+        "translation": "$NAME|Y$被下列国家保证独立：\\n",
         "stage": 1
     }
 ]
