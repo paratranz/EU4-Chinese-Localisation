@@ -1329,14 +1329,18 @@ province_event = {
   title = "dutch_republic.28.t"
   desc = {
     trigger = {
-      has_reform = dutch_republic
+      owner = {
+        has_reform = dutch_republic
+      }
     }
     desc = dutch_republic.28.da
   }
   desc = {
     trigger = {
-      NOT = {
-        has_reform = dutch_republic
+      owner = {
+        NOT = {
+          has_reform = dutch_republic
+        }
       }
     }
     desc = dutch_republic.28.db
@@ -1422,14 +1426,18 @@ province_event = {
   title = "dutch_republic.30.t"
   desc = {
     trigger = {
-      has_reform = dutch_republic
+      owner = {
+        has_reform = dutch_republic
+      }
     }
     desc = dutch_republic.30.da
   }
   desc = {
     trigger = {
-      NOT = {
-        has_reform = dutch_republic
+      owner = {
+        NOT = {
+          has_reform = dutch_republic
+        }
       }
     }
     desc = dutch_republic.30.db
@@ -1444,7 +1452,9 @@ province_event = {
     OR = {
       AND = {
         NOT = {
-          has_reform = dutch_republic
+          owner = {
+            has_reform = dutch_republic
+          }
         }
         development = 15
         is_core = owner
@@ -1461,7 +1471,9 @@ province_event = {
   }
   option = {
     trigger = {
-      has_reform = dutch_republic
+      owner = {
+        has_reform = dutch_republic
+      }
     }
     name = "dutch_republic.30.a"
     owner = {
@@ -1482,7 +1494,9 @@ province_event = {
   option = {
     trigger = {
       NOT = {
-        has_reform = dutch_republic
+        owner = {
+          has_reform = dutch_republic
+        }
       }
     }
     name = "dutch_republic.30.c"

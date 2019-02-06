@@ -198,12 +198,6 @@
         "stage": 5
     },
     {
-        "key": "MAPMODE_WINTER:0",
-        "original": "Winters",
-        "translation": "冬季",
-        "stage": 5
-    },
-    {
         "key": "MAPMODE_FEDERATIONS:0",
         "original": "Federations",
         "translation": "部落联盟",
@@ -2007,12 +2001,6 @@
         "key": "MAPMODE_CLIMATE_DESC:0",
         "original": "Colors the provinces according to their climate, depicting arid, arctic & tropical provinces.",
         "translation": "根据气候对省份着色，描绘干燥气候、极地气候及热带气候的省份。",
-        "stage": 1
-    },
-    {
-        "key": "MAPMODE_WINTER_DESC:0",
-        "original": "Colors the provinces according to what type of winter they are usually experiencing.",
-        "translation": "根据通常经历的冬天类型对省份着色。",
         "stage": 1
     },
     {
@@ -5413,9 +5401,9 @@
     },
     {
         "key": "alert_uncontested_claims_instant:1",
-        "original": "§YYou have uncontesed claims that will expire.§W",
+        "original": "§YYou have uncontested claims that will expire.§W",
         "translation": "§Y你有未使用的领土宣称即将过期。§W",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "alert_uncontested_claims_delayed:1",

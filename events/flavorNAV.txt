@@ -96,7 +96,10 @@ country_event = {
     NAV = {
       exists = yes
       has_ruler_flag = navarra_monarch_flag
-      is_subject = no
+      OR = {
+        is_subject = no
+        vassal_of = ARA
+      }
     }
   }
   option = {

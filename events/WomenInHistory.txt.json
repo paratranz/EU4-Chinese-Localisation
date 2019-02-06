@@ -1029,7 +1029,7 @@
         "key": "country_event###############################################################################|option#|define_ruler|dynasty",
         "original": "Inland",
         "translation": "内陆",
-        "stage": 1
+        "stage": 2
     },
     {
         "key": "country_event###############################################################################|option##|define_advisor|name",
@@ -1047,7 +1047,7 @@
         "key": "country_event###############################################################################|option###|define_ruler|dynasty",
         "original": "Inland",
         "translation": "内陆",
-        "stage": 1
+        "stage": 2
     },
     {
         "key": "country_event###############################################################################|option####|define_advisor|name",
@@ -1065,7 +1065,7 @@
         "key": "country_event###############################################################################|option#####|define_ruler|dynasty",
         "original": "Inland",
         "translation": "内陆",
-        "stage": 1
+        "stage": 2
     },
     {
         "key": "country_event################################################################################|option|define_advisor|name",
@@ -1300,5 +1300,23 @@
         "original": "Nurbanu Sultan",
         "translation": "努尔巴努苏丹",
         "stage": 1
+    },
+    {
+        "key": "country_event#####################|option###|define_ruler|name",
+        "original": "Grainne Ni Mhaille",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "country_event#####################|option###|if|capital_scope|create_flagship|name",
+        "original": "White Seahorse",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "country_event#####################|option###|else_if|capital_scope|create_named_ship|name",
+        "original": "White Seahorse",
+        "translation": "",
+        "stage": 0
     }
 ]

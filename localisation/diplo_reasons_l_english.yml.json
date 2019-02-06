@@ -663,7 +663,7 @@
         "key": "DIPLO_WARGOAL_BESIEGED:0",
         "original": "Besieging War Goal: ",
         "translation": "正在围攻战争目标：",
-        "stage": 2
+        "stage": 5
     },
     {
         "key": "DIPLO_OCCUPYING_WARLEADER:0",
@@ -2218,5 +2218,11 @@
         "original": "$COLONY$ is a Colonial Nation and will never ally us: ",
         "translation": "$COLONY$是一个殖民地国家且永远不会和我们结盟。",
         "stage": 1
+    },
+    {
+        "key": "DIPLO_ESCALATED_COLONIAL_WAR:0",
+        "original": "Doesn't want to get involved in escalated colonial war: ",
+        "translation": "",
+        "stage": 0
     }
 ]

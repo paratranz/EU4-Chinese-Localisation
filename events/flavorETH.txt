@@ -604,6 +604,7 @@ country_event = {
   fire_only_once = yes
   trigger = {
     tag = MAM
+    owns = 358
     is_year = 1460
     exists = ETH
     religion_group = muslim
@@ -773,6 +774,7 @@ country_event = {
       name = eth_independent_church
       duration = 3650
     }
+    set_country_flag = eth_autonomous_church
   }
 }
 country_event = {
@@ -867,16 +869,83 @@ country_event = {
   is_triggered_only = yes
   option = {
     name = flavor_eth.21.a
-    every_owned_province = {
-      limit = {
-        has_province_flag = eth_starting_oromo_provinces
+    1207 = {
+      if = {
+        limit = {
+          owned_by = ROOT
+        }
+        add_province_modifier = {
+          name = "eth_oromo_migration"
+          duration = 3650
+        }
+        change_culture = oromo
+        change_religion = shamanism
       }
-      add_province_modifier = {
-        name = "eth_oromo_migration"
-        duration = 3650
+    }
+    1210 = {
+      if = {
+        limit = {
+          owned_by = ROOT
+        }
+        add_province_modifier = {
+          name = "eth_oromo_migration"
+          duration = 3650
+        }
+        change_culture = oromo
+        change_religion = shamanism
       }
-      change_culture = oromo
-      change_religion = shamanism
+    }
+    1218 = {
+      if = {
+        limit = {
+          owned_by = ROOT
+        }
+        add_province_modifier = {
+          name = "eth_oromo_migration"
+          duration = 3650
+        }
+        change_culture = oromo
+        change_religion = shamanism
+      }
+    }
+    2760 = {
+      if = {
+        limit = {
+          owned_by = ROOT
+        }
+        add_province_modifier = {
+          name = "eth_oromo_migration"
+          duration = 3650
+        }
+        change_culture = oromo
+        change_religion = shamanism
+      }
+    }
+    2761 = {
+      if = {
+        limit = {
+          owned_by = ROOT
+        }
+        add_province_modifier = {
+          name = "eth_oromo_migration"
+          duration = 3650
+        }
+        change_culture = oromo
+        change_religion = shamanism
+      }
+    }
+    2779 = {
+      if = {
+        limit = {
+          owned_by = ROOT
+        }
+        add_province_modifier = {
+          name = "eth_oromo_migration"
+          duration = 3650
+        }
+        change_culture = oromo
+        change_religion = shamanism
+      }
     }
   }
 }

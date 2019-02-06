@@ -40,7 +40,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -1565,7 +1565,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     every_owned_province = {
       limit = {
@@ -2306,7 +2306,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
   }
   option = {
@@ -2361,22 +2361,22 @@ country_event = {
             who = PREV
             casus_belli = cb_independence_war
           }
+          define_ruler = {
+            name = "Ferenc"
+            dynasty = "Rákóczy"
+            culture = hungarian
+            adm = 4
+            dip = 5
+            mil = 4
+          }
         }
       }
-    }
-    define_ruler = {
-      name = "费伦茨"  # Ferenc
-      dynasty = "拉科齐"  # Rákóczy
-      culture = hungarian
-      adm = 4
-      dip = 5
-      mil = 4
     }
     if = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
   }
   option = {
@@ -2409,6 +2409,16 @@ country_event = {
       declare_war_with_cb = {
         who = ROOT
         casus_belli = cb_independence_war
+      }
+      hidden_effect = {
+        define_ruler = {
+          name = "Ferenc"
+          dynasty = "Rákóczy"
+          culture = hungarian
+          adm = 4
+          dip = 5
+          mil = 4
+        }
       }
     }
   }

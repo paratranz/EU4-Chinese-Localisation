@@ -17,7 +17,7 @@ country_event = {
     }
     any_owned_province = {
       OR = {
-        area = maharashtra_area
+        area = maidan_area
         area = desh_area
         culture = marathi
       }
@@ -31,7 +31,7 @@ country_event = {
     every_owned_province = {
       limit = {
         OR = {
-          area = maharashtra_area
+          area = maidan_area
           area = desh_area
           culture = marathi
         }
@@ -45,7 +45,7 @@ country_event = {
     every_owned_province = {
       limit = {
         OR = {
-          area = maharashtra_area
+          area = maidan_area
           area = desh_area
           culture = marathi
         }

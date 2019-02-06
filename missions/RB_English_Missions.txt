@@ -1075,7 +1075,7 @@ gbr_rb_spice_islands_group = {
   eng_rb_spice_islands = {
     icon = mission_rb_colonise_spice_islands
     required_missions = {
-      england_discovers_australia
+      england_discovers_india
     }
     position = 8
     provinces_to_highlight = {
@@ -1184,29 +1184,7 @@ gbr_rb_indian_group = {
       }
     }
     effect = {
-      telingana_area = {
-        limit = {
-          NOT = {
-            is_core = ROOT
-          }
-          NOT = {
-            is_permanent_claim = ROOT
-          }
-        }
-        add_permanent_claim = ROOT
-      }
-      maharashtra_area = {
-        limit = {
-          NOT = {
-            is_core = ROOT
-          }
-          NOT = {
-            is_permanent_claim = ROOT
-          }
-        }
-        add_permanent_claim = ROOT
-      }
-      gondwana_area = {
+      golconda_area = {
         limit = {
           NOT = {
             is_core = ROOT
@@ -1240,6 +1218,28 @@ gbr_rb_indian_group = {
         add_permanent_claim = ROOT
       }
       andhra_area = {
+        limit = {
+          NOT = {
+            is_core = ROOT
+          }
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
+      jharkhand_area = {
+        limit = {
+          NOT = {
+            is_core = ROOT
+          }
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
+      upper_mahanadi_area = {
         limit = {
           NOT = {
             is_core = ROOT
@@ -1278,17 +1278,6 @@ gbr_rb_indian_group = {
       }
     }
     effect = {
-      jharkhand_area = {
-        limit = {
-          NOT = {
-            is_core = ROOT
-          }
-          NOT = {
-            is_permanent_claim = ROOT
-          }
-        }
-        add_permanent_claim = ROOT
-      }
       bihar_area = {
         limit = {
           NOT = {
@@ -1312,6 +1301,17 @@ gbr_rb_indian_group = {
         add_permanent_claim = ROOT
       }
       oudh_area = {
+        limit = {
+          NOT = {
+            is_core = ROOT
+          }
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
+      gaur_area = {
         limit = {
           NOT = {
             is_core = ROOT
@@ -1331,10 +1331,10 @@ gbr_rb_indian_group = {
     }
     provinces_to_highlight = {
       OR = {
-        area = jharkhand_area
         area = bihar_area
         area = purvanchal_area
         area = oudh_area
+        area = gaur_area
       }
       NOT = {
         country_or_non_sovereign_subject_holds = ROOT
@@ -1342,10 +1342,6 @@ gbr_rb_indian_group = {
       has_discovered = ROOT
     }
     trigger = {
-      jharkhand_area = {
-        type = all
-        country_or_non_sovereign_subject_holds = ROOT
-      }
       bihar_area = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
@@ -1355,6 +1351,10 @@ gbr_rb_indian_group = {
         country_or_non_sovereign_subject_holds = ROOT
       }
       oudh_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      gaur_area = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
@@ -1390,10 +1390,11 @@ gbr_rb_india_princes = {
     position = 10
     provinces_to_highlight = {
       OR = {
-        area = telingana_area
-        area = maharashtra_area
-        area = gondwana_area
+        area = golconda_area
+        area = maidan_area
         area = garjat_area
+        area = jharkhand_area
+        area = upper_mahanadi_area
       }
       NOT = {
         country_or_non_sovereign_subject_holds = ROOT
@@ -1401,15 +1402,15 @@ gbr_rb_india_princes = {
       has_discovered = ROOT
     }
     trigger = {
-      telingana_area = {
+      jharkhand_area = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
-      maharashtra_area = {
+      golconda_area = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
-      gondwana_area = {
+      maidan_area = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
@@ -1417,9 +1418,13 @@ gbr_rb_india_princes = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
+      upper_mahanadi_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
     }
     effect = {
-      telingana_area = {
+      golconda_area = {
         limit = {
           owned_by = ROOT
         }
@@ -1428,7 +1433,7 @@ gbr_rb_india_princes = {
           duration = 5475
         }
       }
-      maharashtra_area = {
+      maidan_area = {
         limit = {
           owned_by = ROOT
         }

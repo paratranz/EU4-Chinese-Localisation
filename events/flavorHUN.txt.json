@@ -180,18 +180,6 @@
         "stage": 1
     },
     {
-        "key": "country_event##################################|option|define_ruler|name",
-        "original": "Ferenc",
-        "translation": "费伦茨",
-        "stage": 1
-    },
-    {
-        "key": "country_event##################################|option|define_ruler|dynasty",
-        "original": "Rákóczy",
-        "translation": "拉科齐",
-        "stage": 1
-    },
-    {
         "key": "country_event##################################|option#|random_owned_province|spawn_rebels|leader",
         "original": "Ferenc II Rákóczy",
         "translation": "费伦茨II 拉科齐",
@@ -208,5 +196,29 @@
         "original": "Ladislaus Postumus",
         "translation": "拉迪斯劳斯 波斯图慕斯",
         "stage": 1
+    },
+    {
+        "key": "country_event##################################|option|overlord|tooltip|ROOT|define_ruler|name",
+        "original": "Ferenc",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "country_event##################################|option|overlord|tooltip|ROOT|define_ruler|dynasty",
+        "original": "Rákóczy",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "country_event###################################|option|HUN|hidden_effect|define_ruler|name",
+        "original": "Ferenc",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "country_event###################################|option|HUN|hidden_effect|define_ruler|dynasty",
+        "original": "Rákóczy",
+        "translation": "",
+        "stage": 0
     }
 ]

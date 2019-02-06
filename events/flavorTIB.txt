@@ -64,7 +64,8 @@ country_event = {
           government = theocracy
         }
       }
-      change_government_via_reform = theocracy
+      change_government = theocracy
+      add_government_reform = leading_clergy_reform
       set_legacy_government = theocratic_government
     }
     else = {
@@ -126,7 +127,7 @@ country_event = {
     }
     add_stability = -2
     change_tag = KLK
-    change_government_via_reform = tribal
+    change_government = tribal
     add_government_reform = steppe_horde
     change_primary_culture = khalkha
     add_accepted_culture = tibetan
@@ -171,7 +172,7 @@ country_event = {
     change_tag = KSD
     change_primary_culture = oirats
     add_accepted_culture = tibetan
-    change_government_via_reform = tribal
+    change_government = tribal
     add_government_reform = steppe_horde
     if = {
       limit = {
@@ -215,7 +216,7 @@ country_event = {
     change_tag = ZUN
     change_primary_culture = oirats
     add_accepted_culture = tibetan
-    change_government_via_reform = tribal
+    change_government = tribal
     add_government_reform = steppe_horde
     define_ruler = {
       dynasty = "绰罗斯"  # Choros

@@ -813,6 +813,7 @@ country_event = {
   option = {
     name = "flavor_fra.EVTOPTA3128"
     add_stability_or_adm_power = yes
+    set_country_flag = FRA_had_event_3128
     if = {
       limit = {
         any_owned_province = {

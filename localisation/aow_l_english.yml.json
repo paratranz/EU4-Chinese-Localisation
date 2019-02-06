@@ -6235,9 +6235,9 @@
     },
     {
         "key": "desc_tamil_grandee:0",
-        "original": "This is the powerbase of the local strongman Chellappa. While he seems content for the moment he is slowly increasing his power over the region.",
+        "original": "This is the powerbase of the local strongman Chellappa. While he seems content for the moment, he is slowly increasing his power over the region.",
         "translation": "这里是当地强人Chellappa的老巢。虽然他现在看上去很安静，但实际上他在慢慢地加强他在那里的权力。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "pulicat_booming:0",
@@ -6384,10 +6384,10 @@
         "stage": 1
     },
     {
-        "key": "flavor_vij.16.d:0",
-        "original": "In time Chellappa's influence has shrunken. He is no new or promising and he is no longer a factor in Tamil politics.",
+        "key": "flavor_vij.16.d:1",
+        "original": "Over time, Chellappa's influence has shrunken. Now that he is no longer new or promising, he isn't a major factor in Tamil politics anymore.",
         "translation": "现在Chellappa的影响力已经很微弱了，他现在没希望了，不再是泰米尔政治中的一个角色",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "flavor_vij.16.a:0",
@@ -13062,12 +13062,6 @@
         "stage": 1
     },
     {
-        "key": "TRADE_COMPANY_MOLUCCAS_India_Trade_Company:0",
-        "original": "Moluccan Trade Company",
-        "translation": "摩鹿加贸易公司",
-        "stage": 1
-    },
-    {
         "key": "TRADE_COMPANY_MOLUCCAS_Root_Culture_GetName:0",
         "original": "[Root.Culture.GetName] Company of the Moluccas",
         "translation": "[Root.Culture.GetName]摩鹿加公司",
@@ -13777,9 +13771,9 @@
     },
     {
         "key": "flavor_kbo.1.d:0",
-        "original": "Ever since the 14th century there have been two branches of the Sayfawa dynasty fighting for the throne of our kingdom. As neither branch has been powerful enough to defeat the other entirely the Idrisid and Dawudid lines have come take short turns on the throne. Some rulers have not even lasted a year. This conflict has gone on for far too long and by now our ministers and governors are all playing kingmakers while the kingdom burns.\\nWith the death of our $MONARCHTITLE$ the usual disputed succession has taken place with a pretender taking up arms against the royal heir.",
+        "original": "Ever since the 14th century, there have been two branches of the Sayfawa dynasty fighting for the throne of our kingdom. As neither branch has been powerful enough to defeat the other entirely, the Idrisid and Dawudid lines have come take short turns on the throne. Some rulers have not even lasted a year. This conflict has gone on for far too long and by now our ministers and governors are all playing kingmakers while the kingdom burns.\\nWith the death of our $MONARCHTITLE$, the usual disputed succession has taken place with a pretender taking up arms against the royal heir.",
         "translation": "自从十四世纪开始赛法瓦王室的两个分支就互相争斗来争夺王冠。由于两个分支中的任何一个都没有足够的实力彻底击败另一支，所以结果是伊德里斯和达乌迪两个分支轮流执政。有时候有些国王统治的年份甚至不到一年。冲突已经持续太久，我们的大臣和官员都在这个权力的游戏里扮演角色，而让整个国家处在痛苦之中。\\n随着$MONARCHTITLE$的去世，王位觊觎者再次起兵对抗继承人的烂戏再度上演。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "flavor_kbo.1.a:0",
@@ -13933,9 +13927,9 @@
     },
     {
         "key": "flavor_kbo.8.d:0",
-        "original": "With the death of our ruler the usual disputed succession has taken place with a pretender taking up arms against the royal heir.",
+        "original": "With the death of our ruler, the usual disputed succession has taken place with a pretender taking up arms against the royal heir.",
         "translation": "统治者的去世通常会发生继承争议，觊觎者武装起来反对王室继承人继任。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "flavor_kbo.8.a:0",
@@ -14152,5 +14146,17 @@
         "original": "We should leave them to their own affairs.",
         "translation": "我们应该让他们自己解决问题。",
         "stage": 1
+    },
+    {
+        "key": "incan_nation_empire_custom_tooltip:0",
+        "original": "The Government Rank of §Y[Root.GetName]§! changes to §YEmpire§!.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "TRADE_COMPANY_MOLUCCAS_Indonesia_Trade_Company:0",
+        "original": "Moluccan Trade Company",
+        "translation": "",
+        "stage": 0
     }
 ]

@@ -732,16 +732,16 @@
         "stage": 1
     },
     {
-        "key": "will_increase_clergy_loyalty_by_5:0",
-        "original": "Increase Clergy Loyalty by §Y5§!.",
+        "key": "will_increase_clergy_loyalty_by_5:1",
+        "original": "Monthly Clergy Loyalty modified by §G5%§!.",
         "translation": "增加教士阶层§Y5§!忠诚。",
-        "stage": 1
+        "stage": 0
     },
     {
-        "key": "will_decrease_clergy_loyalty_by_5:0",
-        "original": "Decrease Clergy Loyalty by §R5§!.",
+        "key": "will_decrease_clergy_loyalty_by_5:1",
+        "original": "Monthly Clergy Loyalty modified by §R-5%§!.",
         "translation": "降低教士阶层§R5§!忠诚。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "MODIFIED_BY:0",
@@ -5911,9 +5911,9 @@
     },
     {
         "key": "cossack_estate_events.2.d:0",
-        "original": "Moving quickly by boat or on horseback the Cossacks of the steppes are very adept raiders. Several such raids have lately laid waste to our countryside and even major cities some way from our borders. Once the raids have been executed these plunderers retreat back behind the borders of [cossacks_here_target.GetName] as quickly as they came. Both the $ESTATE_NOBLES$ and our $ESTATE_BURGHERS$ have interests in the affected areas and both groups now demand that we do something.",
+        "original": "Moving quickly by boat or on horseback, the Cossacks of the steppes are very adept raiders. Several such raids have lately laid waste to our countryside and even major cities some way from our borders. Once the raids have been executed these plunderers retreat back behind the borders of [cossacks_here_target.GetName] as quickly as they came. Both the $ESTATE_NOBLES$ and our $ESTATE_BURGHERS$ have interests in the affected areas and both groups now demand that we do something.",
         "translation": "依靠船只及快马迅速移动的哥萨克人十分擅长各种奇袭。几次的突然袭击几乎把我国的边境甚至一些主要城市洗劫一空。这些强盗抢劫完后，就立刻退回[cossacks_here_target.GetName]的边界内。我国的$ESTATE_NOBLES$和$ESTATE_BURGHERS$对那些受到侵袭的地区很感兴趣，并让我们着手处理。",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "cossack_estate_events.2.a:0",
@@ -8394,16 +8394,16 @@
         "stage": 1
     },
     {
-        "key": "EST_VAL_NOBLES_OF_THE_ROBE_LOY:0",
-        "original": "Nobles of the Robe: §G$VAL$%§!",
+        "key": "EST_VAL_NOBLES_OF_THE_ROBE_LOY:1",
+        "original": "Nobles of the Robe: §G$VAL$§!",
         "translation": "长袍贵族：§G$VAL$%§!",
-        "stage": 1
+        "stage": 0
     },
     {
-        "key": "EST_VAL_MERITOCRATIC_RECRUITMENT_LOY:0",
-        "original": "Meritocratic Recruitment: §G$VAL$%§!",
+        "key": "EST_VAL_MERITOCRATIC_RECRUITMENT_LOY:1",
+        "original": "Meritocratic Recruitment: §G$VAL$§!",
         "translation": "选贤任能：§G$VAL$§!",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "EST_VAL_CLERGY_ADMINISTRATORS_LOY:0",
@@ -8502,22 +8502,22 @@
         "stage": 1
     },
     {
-        "key": "EST_VAL_CLERGY_ADMINISTRATORS:0",
-        "original": "Administrative Clergy: $VAL|%Y$",
+        "key": "EST_VAL_CLERGY_ADMINISTRATORS:1",
+        "original": "Administrative Clergy: §Y$VAL$%§!",
         "translation": "教士参政：$VAL|%Y$",
-        "stage": 1
+        "stage": 0
     },
     {
-        "key": "EST_VAL_NOBLES_OF_THE_ROBE:0",
-        "original": "Nobles of the Robe: $VAL|%Y$",
+        "key": "EST_VAL_NOBLES_OF_THE_ROBE:1",
+        "original": "Nobles of the Robe: §Y$VAL$%§!",
         "translation": "长袍贵族：$VAL|%Y$",
-        "stage": 1
+        "stage": 0
     },
     {
-        "key": "EST_VAL_MERITOCRATIC_RECRUITMENT:0",
-        "original": "Meritocratic Recruitment: $VAL|%Y$",
+        "key": "EST_VAL_MERITOCRATIC_RECRUITMENT:1",
+        "original": "Meritocratic Recruitment: §Y$VAL$%§!",
         "translation": "选贤任能：$VAL|%Y$",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "cossack_estate_events.1.b:1",
@@ -8820,10 +8820,10 @@
         "stage": 1
     },
     {
-        "key": "curtail_estate_vaisyas_title:0",
-        "original": "Curtail the Vaisyaas",
+        "key": "curtail_estate_vaisyas_title:1",
+        "original": "Curtail the Vaishyas",
         "translation": "削弱吠舍",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "curtail_estate_vaisyas_desc:0",
@@ -8988,16 +8988,16 @@
         "stage": 1
     },
     {
-        "key": "EST_VAL_PERMANENT_MARATHAS_COUNTIL_LOY:0",
-        "original": "Permanent Marathas Council: $VAL$%",
+        "key": "EST_VAL_PERMANENT_MARATHAS_COUNTIL_LOY:1",
+        "original": "Permanent Marathas Council: $VAL$",
         "translation": "马拉塔常设内阁：$VAL$%",
-        "stage": 1
+        "stage": 0
     },
     {
-        "key": "EST_VAL_GOVERNMENTAL_PURBIAS_REGISTER_LOY:0",
-        "original": "Governmental Purbias Register: $VAL$%",
+        "key": "EST_VAL_GOVERNMENTAL_PURBIAS_REGISTER_LOY:1",
+        "original": "Governmental Purbias Register: $VAL$",
         "translation": "在册普尔比亚人：$VAL$%",
-        "stage": 1
+        "stage": 0
     },
     {
         "key": "EST_VAL_PERMANENT_MARATHAS_COUNCIL:0",
@@ -9016,5 +9016,29 @@
         "original": "We have armed the Cossacks, many of whom now stand ready to be assigned to a regiment.",
         "translation": "我们已经将哥萨克们武装了起来，他们即将被编为一个团。",
         "stage": 1
+    },
+    {
+        "key": "cossack_estate_events.2.d.tribes:0",
+        "original": "Moving quickly by boat or on horseback, the Cossacks of the steppes are very adept raiders. Several such raids have lately laid waste to our countryside and even major cities some way from our borders. Once the raids have been executed these plunderers retreat back behind the borders of [cossacks_here_target.GetName] as quickly as they came. The $ESTATE_NOMADIC_TRIBES$ have interests in the affected areas and demand that we do something.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "cossack_estate_events.2.d.fallback:0",
+        "original": "Moving quickly by boat or on horseback, the Cossacks of the steppes are very adept raiders. Several such raids have lately laid waste to our countryside and even major cities some way from our borders. Once the raids have been executed these plunderers retreat back behind the borders of [cossacks_here_target.GetName] as quickly as they came. Our local authorities in the affected areas are now demanding that we do something.",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "curtail_estate_dhimmi_title:0",
+        "original": "Curtail the Dhimmi",
+        "translation": "",
+        "stage": 0
+    },
+    {
+        "key": "curtail_estate_dhimmi_desc:0",
+        "original": "The Dhimmi have a stranglehold on our government. To seize control back from them, we will need to curtail their power and privileges.",
+        "translation": "",
+        "stage": 0
     }
 ]
