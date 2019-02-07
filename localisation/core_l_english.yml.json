@@ -5403,12 +5403,12 @@
         "key": "alert_uncontested_claims_instant:1",
         "original": "§YYou have uncontested claims that will expire.§W",
         "translation": "§Y你有未使用的领土宣称即将过期。§W",
-        "stage": 0
+        "stage": 1
     },
     {
         "key": "alert_uncontested_claims_delayed:1",
         "original": "You have expiring claims on the provinces:\\n$LIST$",
-        "translation": "你对以下省份宣有主权：\\n$LIST$",
+        "translation": "你对以下省份的宣称即将过期：\\n$LIST$",
         "stage": 1
     },
     {

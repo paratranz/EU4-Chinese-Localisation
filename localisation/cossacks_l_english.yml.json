@@ -734,14 +734,14 @@
     {
         "key": "will_increase_clergy_loyalty_by_5:1",
         "original": "Monthly Clergy Loyalty modified by §G5%§!.",
-        "translation": "增加教士阶层§Y5§!忠诚。",
-        "stage": 0
+        "translation": "教士阶层月度忠诚修正：§G5%§!。",
+        "stage": 1
     },
     {
         "key": "will_decrease_clergy_loyalty_by_5:1",
         "original": "Monthly Clergy Loyalty modified by §R-5%§!.",
-        "translation": "降低教士阶层§R5§!忠诚。",
-        "stage": 0
+        "translation": "教士阶层月度忠诚修正：§R-5%§!。",
+        "stage": 1
     },
     {
         "key": "MODIFIED_BY:0",
@@ -8396,14 +8396,14 @@
     {
         "key": "EST_VAL_NOBLES_OF_THE_ROBE_LOY:1",
         "original": "Nobles of the Robe: §G$VAL$§!",
-        "translation": "长袍贵族：§G$VAL$%§!",
-        "stage": 0
+        "translation": "长袍贵族：§G$VAL$§!",
+        "stage": 1
     },
     {
         "key": "EST_VAL_MERITOCRATIC_RECRUITMENT_LOY:1",
         "original": "Meritocratic Recruitment: §G$VAL$§!",
         "translation": "选贤任能：§G$VAL$§!",
-        "stage": 0
+        "stage": 1
     },
     {
         "key": "EST_VAL_CLERGY_ADMINISTRATORS_LOY:0",
@@ -8504,20 +8504,20 @@
     {
         "key": "EST_VAL_CLERGY_ADMINISTRATORS:1",
         "original": "Administrative Clergy: §Y$VAL$%§!",
-        "translation": "教士参政：$VAL|%Y$",
-        "stage": 0
+        "translation": "教士参政：§Y$VAL$%§!",
+        "stage": 1
     },
     {
         "key": "EST_VAL_NOBLES_OF_THE_ROBE:1",
         "original": "Nobles of the Robe: §Y$VAL$%§!",
-        "translation": "长袍贵族：$VAL|%Y$",
-        "stage": 0
+        "translation": "长袍贵族：§Y$VAL$%§!",
+        "stage": 1
     },
     {
         "key": "EST_VAL_MERITOCRATIC_RECRUITMENT:1",
         "original": "Meritocratic Recruitment: §Y$VAL$%§!",
-        "translation": "选贤任能：$VAL|%Y$",
-        "stage": 0
+        "translation": "选贤任能：§Y$VAL$%§!",
+        "stage": 1
     },
     {
         "key": "cossack_estate_events.1.b:1",
@@ -8823,7 +8823,7 @@
         "key": "curtail_estate_vaisyas_title:1",
         "original": "Curtail the Vaishyas",
         "translation": "削弱吠舍",
-        "stage": 0
+        "stage": 1
     },
     {
         "key": "curtail_estate_vaisyas_desc:0",
@@ -8990,14 +8990,14 @@
     {
         "key": "EST_VAL_PERMANENT_MARATHAS_COUNTIL_LOY:1",
         "original": "Permanent Marathas Council: $VAL$",
-        "translation": "马拉塔常设内阁：$VAL$%",
-        "stage": 0
+        "translation": "马拉塔常设内阁：$VAL$",
+        "stage": 1
     },
     {
         "key": "EST_VAL_GOVERNMENTAL_PURBIAS_REGISTER_LOY:1",
         "original": "Governmental Purbias Register: $VAL$",
-        "translation": "在册普尔比亚人：$VAL$%",
-        "stage": 0
+        "translation": "在册普尔比亚人：$VAL$",
+        "stage": 1
     },
     {
         "key": "EST_VAL_PERMANENT_MARATHAS_COUNCIL:0",
@@ -9032,8 +9032,8 @@
     {
         "key": "curtail_estate_dhimmi_title:0",
         "original": "Curtail the Dhimmi",
-        "translation": "",
-        "stage": 0
+        "translation": "削弱齐米",
+        "stage": 1
     },
     {
         "key": "curtail_estate_dhimmi_desc:0",

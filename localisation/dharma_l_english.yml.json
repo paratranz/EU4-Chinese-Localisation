@@ -5210,8 +5210,8 @@
     {
         "key": "CHARTER_BASE_RELUCTANCE:1",
         "original": "Base Reluctance: ",
-        "translation": "基础不情愿值",
-        "stage": 0
+        "translation": "基础不情愿值：",
+        "stage": 1
     },
     {
         "key": "alert_trade_company_investment_instant:0",
@@ -5240,8 +5240,8 @@
     {
         "key": "CHARTER_DEVELOPMENT_RELUCTANCE:1",
         "original": "Province Development: ",
-        "translation": "省份发展度",
-        "stage": 0
+        "translation": "省份发展度：",
+        "stage": 1
     },
     {
         "key": "TRADE_COMPANY_COUNTRY_MODIFIER_NAME:0",
@@ -5390,8 +5390,8 @@
     {
         "key": "dutch_republic.33.d1:0",
         "original": "After years of bickering, internal conflict, and delayed legislation, all have agreed that something must be done about the state of the Assembly.\\n\\nThe ancient House of [Root.Monarch.Dynasty.GetName], who for years have been biding their time, has, in a superbly timed maneouvre, spearheaded a bill abolishing the assembly altogether, and reinstating [Root.Monarch.GetName] on the throne of [Root.GetName].",
-        "translation": "经过多年的争吵，内部冲突和拖沓的立法，所有人都同意必须就大会的状况采取一些措施。\\n\\n古老的[Root.Monarch.Dynasty.GetName]皇室多年来一直在等待他们的机会。现在，他们恰到好处地带头提出了一个废除集会，并重新将权力归于 [Root.GetName]的[Root.Monarch.GetName]的提案。",
-        "stage": 0
+        "translation": "经过多年的争吵，内部冲突和拖沓的立法，所有人都同意必须就大会的状况采取一些措施。\\n\\n古老的[Root.Monarch.Dynasty.GetName]家族多年来一直在等待他们的机会。现在，他们恰到好处地带头提出了一个废除集会，并重新将权力归于[Root.GetName]的[Root.Monarch.GetName]的提案。",
+        "stage": 1
     },
     {
         "key": "dutch_republic.33.a:0",
@@ -5750,14 +5750,14 @@
     {
         "key": "EST_VAL_RAJPUT_DOMINANCE:1",
         "original": "Rajput Dominance: §Y$VAL$§!",
-        "translation": "拉杰普特独大：§Y$VAL$%§!",
-        "stage": 0
+        "translation": "拉杰普特独大：§Y$VAL$§!",
+        "stage": 1
     },
     {
         "key": "EST_VAL_MARATHA_DOMINANCE:1",
         "original": "Maratha Dominance: §Y$VAL$§!",
-        "translation": "马拉塔独大：§Y$VAL$%§!",
-        "stage": 0
+        "translation": "马拉塔独大：§Y$VAL$§!",
+        "stage": 1
     },
     {
         "key": "NO_POLICY_AVAILABLE:0",
@@ -5780,14 +5780,14 @@
     {
         "key": "DOESNT_HAVE_ANY_TRADE_COMPANY_INVESTMENT:0",
         "original": "$INVESTOR|Y$ does not have any Trade Company Investment in $AREA|Y$\\n",
-        "translation": "$INVESTOR|Y$在$AREA|Y$区域没有任何贸易公司投资。",
-        "stage": 0
+        "translation": "$INVESTOR|Y$在$AREA|Y$没有任何贸易公司投资。\\n",
+        "stage": 1
     },
     {
         "key": "HAS_ANY_TRADE_COMPANY_INVESTMENT:0",
         "original": "$INVESTOR|Y$ has a Trade Company Investment in $AREA|Y$\\n",
-        "translation": "$INVESTOR|Y$在$AREA|Y$拥有贸易公司",
-        "stage": 0
+        "translation": "$INVESTOR|Y$在$AREA|Y$拥有贸易公司投资\\n",
+        "stage": 1
     },
     {
         "key": "dutch_republic.33.d2:1",
@@ -5804,7 +5804,7 @@
     {
         "key": "GOV_REVOLUTIONARY_REPUBLIC:0",
         "original": "Revolutionary Republic",
-        "translation": "",
-        "stage": 0
+        "translation": "革命共和国",
+        "stage": 1
     }
 ]
