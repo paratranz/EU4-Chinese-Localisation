@@ -3223,7 +3223,7 @@ country_event = {
       religion = norse_pagan_reformed
       female = yes
       age = 0
-      name = "Hnoss"
+      name = "赫诺丝"  # Hnoss
       dynasty = ROOT
     }
   }
@@ -3234,7 +3234,7 @@ country_event = {
       mil = 4
       female = yes
       age = 0
-      name = "Gersemi"
+      name = "格尔塞蜜"  # Gersemi
       religion = norse_pagan_reformed
       dynasty = ROOT
     }
@@ -3618,7 +3618,7 @@ province_event = {
           monthly_income = 25
         }
         define_advisor = {
-          name = "Isaiah"
+          name = "以赛亚"  # Isaiah
           type = trader
           religion = jewish
           skill = 3
@@ -3632,7 +3632,7 @@ province_event = {
           }
         }
         define_advisor = {
-          name = "Isaiah"
+          name = "以赛亚"  # Isaiah
           type = trader
           religion = jewish
           skill = 2
