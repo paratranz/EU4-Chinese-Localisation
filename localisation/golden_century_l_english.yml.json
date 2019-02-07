@@ -206,7 +206,7 @@
     {
         "key": "EXPELLED_AT_LEAST:0",
         "original": "Has expelled at least $TOTAL|Y$ minorities",
-        "translation": "已经驱逐了至少$TOTAL|Y$ 个少数族群",
+        "translation": "已经驱逐了至少 $TOTAL|Y$ 个少数族群",
         "stage": 1
     },
     {
@@ -446,8 +446,8 @@
     {
         "key": "more_flavor_por.EVTDESC2:0",
         "original": "Impressed by our efforts to combat piracy in the South China Sea, the [From.Monarch.GetTitle] of [From.GetName] has graciously allowed [Root.GetAdjective] merchants to settle in Macau in exchange for a suitable payment of silver taels. The rare opportunity to trade openly in China is sure to be immensely profitable.",
-        "translation": "[From.GetName][From.Monarch.GetTitle]对我们在南中国海打击海盗所作的努力印象深刻，并已亲切地允许一个来自[Root.GetAdjective]的商人团体在澳门定居，以此来换取一笔适当的银两支付。在中国进行公开贸易的难得机会必将带来丰厚的利润。",
-        "stage": 0
+        "translation": "[From.GetName][From.Monarch.GetTitle]对我们在南中国海打击海盗所作的努力印象深刻，并已慷慨允许来自[Root.GetAdjective]的商人在澳门定居，只要他们支付合适的银两。在中国进行公开贸易的难得机会必将带来丰厚的利润。",
+        "stage": 1
     },
     {
         "key": "more_flavor_por.EVTOPTA2:0",
@@ -464,7 +464,7 @@
     {
         "key": "more_flavor_por.EVTDESC3:0",
         "original": "We are no strangers to nanban merchants attempting to ply their trade in our ports. It has been our typical policy to send them on their way empty handed. These [From.GetAdjective] Jesuits however make a unique and compelling case; as [From.GetAdjective] have access to the restrictive ports of China, they would be able to act as intermediaries for trade between China and Japan. In exchange we would have to allow their priests and merchants to establish a permanent community at Nagasaki, a proposition that could give them unsettling influence over Japanese affairs.",
-        "translation": "我们对南蛮商人试图在我们的港口进行交易并不陌生。一直以来我们典型的政策就是在送走他们之前购空他们手中的货物。这些[From.GetAdjective]耶稣会教士提出了一个独特而令人信服的案例; 由于[From.GetAdjective]可以进入中国的限制性港口，他们将能够成为中日贸易的中间人。作为交换，我们必须允许他们的教士和商人在长崎建立一个常驻社区，这个提议可能会给他们带来对日本事务的不安影响。",
+        "translation": "我们对南蛮商人试图在我们的港口进行交易并不陌生。一直以来我们典型的政策就是在送走他们之前购空他们手中的货物。这些[From.GetAdjective]耶稣会教士提出了一个独特而令人信服的案例；由于[From.GetAdjective]可以进入中国的限制性港口，他们将能够成为中日贸易的中间人。作为交换，我们必须允许他们的教士和商人在长崎建立一个常驻社区，这个提议可能会给他们带来对日本事务的不安影响。",
         "stage": 1
     },
     {
@@ -1760,8 +1760,8 @@
     {
         "key": "pirates.18.d:0",
         "original": "As the previous quartermaster of the [Root.GetFlagshipName] appears to have taken a long walk off a short plank, we find ourselves in need of a new candidate for the role. A quartermaster has a unique position on a pirate ship. Elected by the crew, he is expected to be their representative and to champion their needs against the often arbitrary authority of the captain.\\n\\nTwo candidates immediately present themselves. [Root.crew_representative.GetName] is a true advocate for the crew; he has both the humility to listen to their concerns and the fortitude to stand up to the captain. Meanwhile [Root.captains_puppet.GetName] is firmly in the Captain’s pocket; he is skilled at manipulating the crew into believing that the Captain’s wishes are also their own. Who will win the hearts and minds of the assembled pirates?",
-        "translation": "作为[Root.Flagship.GetName]的前任军需官似乎离开底层走的越来越远了，我们发现我们需要一个新的候选人来担任这一角色。军需官在海盗船上有着独特的地位。他是由船员选出，并作为他们的代表被寄予期望，以维护他们的需要，反对船长时常专横的权威。\\n\\n现在有两名候选人获得提名。[Root.crew_representative.GetName]是一名真正的船员的拥护者；他既能谦虚地倾听他们的心声，又能以不屈的态度直面船长。与此同时[Root.captains_puppet.GetName]则是船长的坚定拥护者；他擅长操纵船员，使他们相信船长的愿望也是他们自己的愿望。谁将在这场全体海盗的内心和思想的抉择中获胜呢？",
-        "stage": 0
+        "translation": "由于[Root.GetFlagshipName]的前任军需官不幸坠船溺亡，我们注意到需要一个新的候选人来担任这一角色。军需官在海盗船上有着独特的地位。他是由船员选出，并作为他们的代表被寄予期望，以维护他们的需要，反对船长时常专横的权威。\\n\\n现在有两名候选人获得提名。[Root.crew_representative.GetName]是一名真正的船员的拥护者：他既能谦虚地倾听他们的心声，又能以不屈的态度直面船长。与此同时[Root.captains_puppet.GetName]则是船长的坚定拥护者：他擅长操纵船员，使他们相信船长的愿望也是他们自己的愿望。谁将在这场全体海盗的内心和思想的抉择中获胜呢？",
+        "stage": 1
     },
     {
         "key": "pirates.18.a:0",
@@ -2000,7 +2000,7 @@
     {
         "key": "order_events.3.d:0",
         "original": "The Order of Preachers often establish themselves close to universities, having a history of supporting such institutions. In [dominican_university_province.GetName], they have found themselves without a such a center and are attempting to found one themselves. They have provided considerable funding, but are now seeking the support of the [Root.GetAdjective] crown in their endeavor.",
-        "translation": "传教士们常常在靠近大学的附近建立自己的教会，有支持这类机构的历史。在[dominican_university_province.GetName]，他们发现自己没有这样一个中心，并试图自己建立一个中心。他们提供了大量资金，但现在正在寻求[Root.GetAdjective]的支持为他们的努力表彰。",
+        "translation": "修士会常常建立在曾支持过这类机构的大学的附近。他们发现在[dominican_university_province.GetName]没有这样的中心，于是试图自己建立一个。他们已提供了大量资金，而现在正在寻求[Root.GetAdjective]王室的支持。",
         "stage": 1
     },
     {
@@ -2018,8 +2018,8 @@
     {
         "key": "order_events.3.c:0",
         "original": "Have them report their research to [Root.Capital.GetCapitalName] instead.",
-        "translation": "让他们向[Root.GetCapital.GetName]报告他们的研究。",
-        "stage": 0
+        "translation": "让他们向[Root.Capital.GetCapitalName]报告他们的研究。",
+        "stage": 1
     },
     {
         "key": "order_events.4.t:0",
@@ -2168,8 +2168,8 @@
     {
         "key": "order_events.9.d:1",
         "original": "The Jesuit order wields considerable influence, which can make even academic disagreements with the Papacy quite controversial. A recent debate over theological matters in [order_events_9_prov.GetAreaName] has caused conflict between [Root.GetAdjective] Jesuits and some of the cardinals. [PAP.Monarch.GetTitle] [PAP.Monarch.GetName] is now concerned that this will weaken the current doctrine in [Root.GetName], even as the debate is only meant to be an internal matter. We may be forced to take a side on this, if not publicly, then at least to the parties involved.",
-        "translation": "耶稣会拥有相当大的影响力，甚至能在神学问题上与教宗争执不下。最近一次关于神学的辩论引起了[Root.GetAdjective]耶稣会成员与枢机之间的冲突。尽管这次辩论只是教会的内部问题，[PAP.Monarch.GetTitle][PAP.Monarch.GetName]仍担心这会削弱[Root.GetName]现有的教义。也许我们会被迫支持一方，即便不是公开选边站，也要让两派知道我们的态度。",
-        "stage": 0
+        "translation": "耶稣会拥有相当大的影响力，甚至能在神学问题上与教宗争执不下。最近在[order_events_9_prov.GetAreaName]的一次关于神学的辩论引起了[Root.GetAdjective]耶稣会成员与枢机之间的冲突。尽管这次辩论只是教会的内部问题，[PAP.Monarch.GetTitle][PAP.Monarch.GetName]仍担心这会削弱[Root.GetName]现有的教义。也许我们会被迫支持一方，即便不是公开选边站，也要让两派知道我们的态度。",
+        "stage": 1
     },
     {
         "key": "order_events.9.a:0",
@@ -2313,7 +2313,7 @@
         "key": "CONFIRMMISSION_MAINTENANCE_COST:1",
         "original": "It will cost $COST|R$¤/month to convert this province due to its development and autonomy.",
         "translation": "基于该省份的发展度与自治度，在该省份传教每个月将花费$COST|R$¤。",
-        "stage": 0
+        "stage": 1
     },
     {
         "key": "PROVINCEMISSION_MAINTENANCE_COST:0",
@@ -2762,14 +2762,14 @@
     {
         "key": "IS_EXPELLING_FROM:0",
         "original": "Minorities are being expelled from $SOURCE|Y$.",
-        "translation": "少数民族被驱逐出$SOURCE|Y$。",
-        "stage": 0
+        "translation": "$SOURCE|Y$的少数族群正在被驱逐。",
+        "stage": 1
     },
     {
         "key": "IS_NOT_EXPELLING_FROM:0",
         "original": "Minorities are not being expelled from $SOURCE|Y$.",
-        "translation": "少数民族未被驱逐出$SOURCE|Y$。",
-        "stage": 0
+        "translation": "$SOURCE|Y$的少数族群未在被驱逐。",
+        "stage": 1
     },
     {
         "key": "expel_minority_events.1.t:0",
@@ -2942,7 +2942,7 @@
     {
         "key": "flag_officers_desc:0",
         "original": "Flying a flag marking your rank on a flagship is a great source of pride for many officers, encouraging bravery and ambition.",
-        "translation": "在旗舰上悬挂标有你衔级的旗帜可以极好的鼓舞军官的士气，令其骄傲以及坚定志向。",
+        "translation": "在旗舰上悬挂标有你衔级的旗帜可以极好的鼓舞军官的士气，令其骄傲并坚定其志向。",
         "stage": 1
     },
     {
@@ -3164,8 +3164,8 @@
     {
         "key": "BUILD_FLAGSHIP_DETAILS:0",
         "original": "§GBuild a Flagship§!\\nOpens the Flagship Designer to add Modifications.\\nMaintenance cost will depend on the class of the Flagship and the applied Modifications.\\nWe will lose Prestige if our Flagship is sunk or captured.\\n\\nIn addition to the Modifications, a Flagship has the following perks:\\n$MODIFIER$",
-        "translation": "",
-        "stage": 0
+        "translation": "§G建造旗舰§!\\n打开旗舰设计器以添加修正。\\n维护费取决于旗舰的类型及应用的修正。\\n如果旗舰被击沉或俘获，我国会失去威望。\\n\\n除修正外，旗舰还拥有以下加成：\\n$MODIFIER$",
+        "stage": 1
     },
     {
         "key": "BUILD_FLAGSHIP_FLAVOR:0",
