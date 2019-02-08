@@ -11360,7 +11360,7 @@
     {
         "key": "china_events.55.d:0",
         "original": "The Emperor of China is weak and has little support. From north to south, the ordinary Chinese are questioning his rule and the normally so loyal bureaucrats are debating whether [empire_of_china.Monarch.GetName] has in fact lost the Mandate of Heaven.\\nRogue [chinese_border_province.Culture.GetName] officials claiming to represent [chinese_border_province.GetName] have approached [Root.Monarch.GetName] imploring us to free them from the oppression of [empire_of_china.GetName] and end the rule of the [empire_of_china.Monarch.Dynasty.GetName] dynasty.",
-        "translation": "当前统治中国的皇帝十分虚弱且缺乏支持。从南到北，全国各地每一个普通的中国人都在质疑他的统治，连其忠诚的官员也在怀疑[empire_of_china.Monarch.GetName]是否已失去了天命。\\n[chinese_border_province.GetName]不安分的[chinese_border_province.Culture.GetName]地方官开始与[Root.Monarch.GetName]接触，请求我们结束[empire_of_china.Monarch.Dynasty.GetName]王朝的统治，把他们从[empire_of_china.GetName]的压迫下解救出来。",
+        "translation": "中国皇帝当下十分虚弱且缺乏支持。从南到北，全国各地每一个普通的中国人都在质疑他的统治，连其忠诚的官员也在怀疑[empire_of_china.Monarch.GetName]是否已失去了天命。\\n[chinese_border_province.GetName]不安分的[chinese_border_province.Culture.GetName]地方官开始与[Root.Monarch.GetName]接触，请求我们结束[empire_of_china.Monarch.Dynasty.GetName]王朝的统治，把他们从[empire_of_china.GetName]的压迫下解救出来。",
         "stage": 1
     },
     {
@@ -16424,8 +16424,8 @@
     {
         "key": "EVTDESC964:0",
         "original": "The prestigious position as §WLegatus Natus§! can only be held by a Catholic bishop in the Holy Roman Empire. As we no longer meet this requirement, the Pope has revoked the title.",
-        "translation": "§W当地使节§b的荣誉地位只能授予神圣罗马帝国内的天主教主教。由于我们不再符合要求，教宗收回了我们的称号。",
-        "stage": 0
+        "translation": "§W当地使节§!的荣誉地位只能授予神圣罗马帝国内的天主教主教。由于我们不再符合要求，教宗收回了我们的称号。",
+        "stage": 1
     },
     {
         "key": "EVTOPTA964:0",
@@ -23768,8 +23768,8 @@
     {
         "key": "colonial_nation.EVTDESC92:0",
         "original": "The War of Independence has tragically failed and [Root.GetName] is once more under the boot of [Root.ColonialParent.GetName]. Our short-lived government under [Root.Monarch.GetTitle] [Root.Monarch.GetName] has been dissolved and [Root.Monarch.GetName] sentenced to death. A new governor or viceroy has been sent over from [Root.ColonialParent.Capital.GetCapitalName] to take charge and [Root.ColonialParent.GetName] is demanding harsh war reparations to cover the damages inflicted during the war.",
-        "translation": "独立战争已经悲剧收场,[Root.GetName]再一次被[Root.ColonialParent.GetName]踩在脚下,我们在[Root.Monarch.GetTitle][Root.Monarch.GetName]掌权下的短命政府已被肃清而 [Root.Monarch.GetName]本人被判决死刑,一个新的省长或者总督正从[Root.ColonialNation.Capital.GetCapitalName]赶来监管我们,而且[Root.ColonialParent.GetName] 索取了严苛的战争赔款来弥补他们在战时的损失.",
-        "stage": 0
+        "translation": "独立战争已经悲剧收场，[Root.GetName]重新被[Root.ColonialParent.GetName]踩在脚下。[Root.Monarch.GetTitle][Root.Monarch.GetName]掌权下的短命政府已被解散而[Root.Monarch.GetName]本人被判处死刑。一个新的州长或总督正从[Root.ColonialParent.Capital.GetCapitalName]赶来就任，同时[Root.ColonialParent.GetName]索取了严苛的战争赔款来弥补他们在战时的损失。",
+        "stage": 1
     },
     {
         "key": "colonial_nation.EVTOPTA92:0",
@@ -23780,8 +23780,8 @@
     {
         "key": "colonial_nation.EVTDESC93:0",
         "original": "The War of Independence has tragically failed and [Root.GetName] is once more under the boot of [Root.ColonialParent.GetName]. Our short-lived government under [Root.Monarch.GetTitle] [Root.Monarch.GetName] has been dissolved. A new governor or viceroy has been sent over from [Root.ColonialParent.Capital.GetCapitalName] to take charge. Fortunately, [Root.Monarch.GetName] has been pardoned and [Root.ColonialParent.GetName] has agreed not to demand any war reparations for the damages inflicted during the war.",
-        "translation": "独立战争悲剧性地失败了，[Root.GetName]又一次处于了[Root.ColonialParent.GetName]的脚下。我们在[Root.Monarch.GetTitle] [Root.Monarch.GetName] 下短命的政府被解散了。一个新的总督或执政官已经从[Root.ColonialNation.Capital.GetCapitalName]出发。幸好，[Root.Monarch.GetName] 已经被特赦，而[Root.ColonialParent.GetName] 同意不要求任何战争赔偿。",
-        "stage": 0
+        "translation": "独立战争已经悲剧收场，[Root.GetName]重新被[Root.ColonialParent.GetName]踩在脚下。[Root.Monarch.GetTitle][Root.Monarch.GetName]掌权下的短命政府已被解散。一个新的州长或总督正从[Root.ColonialParent.Capital.GetCapitalName]赶来就任。幸好，[Root.Monarch.GetName]已经被特赦，而[Root.ColonialParent.GetName]已同意不对战争造成的损害索取任何赔偿。",
+        "stage": 1
     },
     {
         "key": "colonial_nation.EVTOPTA93:0",
@@ -25611,13 +25611,13 @@
         "key": "culture_religion_events.2.dc:0",
         "original": "The ascension of [Root.Monarch.GetName] to be the [Root.Monarch.GetTitle] of [Root.GetName] has shaken the [Root.GetAdjective] court. Our new ruler openly patronizes the [Root.new_ruler_culture.GetReligionName] faith and has taken a circle of like-minded friends with [Root.Monarch.GetHerHim] to rule the country. This has proved too much to swallow for many of our righteous [Root.Religion.GetName] subjects and some, led by the prominent preacher [Root.rebel_preacher.GetName], have come out in open protests against us.",
         "translation": "[Root.Monarch.GetName]登基成为[Root.GetName]的[Root.Monarch.GetTitle]动摇了[Root.GetAdjective]宫廷的根本。我们的新统治者公开宣称庇护[Root.new_ruler_culture.GetReligionName]信仰的人，并纠集了一群有着相似观念的朋友和[Root.Monarch.GetHerHim]一起统治国家。这使得我们许多忠实信奉[Root.Religion.GetName]的臣民难以接受，以著名教士[Root.rebel_preacher.GetName]为首的人士对我们做出了公开抗议。",
-        "stage": 0
+        "stage": 1
     },
     {
         "key": "culture_religion_events.2.dda:0",
         "original": "The ascension of [Root.Monarch.GetName] to be the [Root.Monarch.GetTitle] of [Root.GetName] has shaken the [Root.GetAdjective] court. Our new ruler openly patronizes the [Root.new_ruler_culture.GetReligionName] faith and has taken a circle of like-minded friends with [Root.Monarch.GetHerHim] to rule the country. This has proved too much to swallow for many of our righteous [Root.Religion.GetName] subjects and it seems that for now our new [Root.Monarch.GetTitle] have few friends outside the gates of [Root.Capital.GetCapitalName].",
         "translation": "[Root.Monarch.GetName]登基成为[Root.GetName]的[Root.Monarch.GetTitle]动摇了[Root.GetAdjective]宫廷的根本。我们的新统治者公开宣称庇护[Root.new_ruler_culture.GetReligionName]信仰的人，并纠集了一群有着相似观念的朋友和[Root.Monarch.GetHerHim]一起统治国家。这使得我们许多忠实信奉[Root.Religion.GetName]的臣民难以接受，目前看来我们的新[Root.Monarch.GetTitle]在[Root.Capital.GetCapitalName]的大门之外似乎没有多少朋友。",
-        "stage": 0
+        "stage": 1
     },
     {
         "key": "culture_religion_events.2.de:0",
@@ -26492,8 +26492,8 @@
     {
         "key": "EVTNAME96200:0",
         "original": "Envoy from the Pope",
-        "translation": "",
-        "stage": 0
+        "translation": "教宗的使节",
+        "stage": 1
     },
     {
         "key": "EVTDESC96200:0",
@@ -26504,13 +26504,13 @@
     {
         "key": "EVTOPTA96200:0",
         "original": "We will gladly accept this title.",
-        "translation": "",
-        "stage": 0
+        "translation": "我们乐意接受这一头衔。",
+        "stage": 1
     },
     {
         "key": "EVTOPTB96200:0",
         "original": "We must graciously decline.",
-        "translation": "",
-        "stage": 0
+        "translation": "我们必须郑重地谢绝。",
+        "stage": 1
     }
 ]
