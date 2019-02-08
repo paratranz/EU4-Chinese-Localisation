@@ -7796,7 +7796,7 @@
     {
         "key": "RULER_CLAIM:0",
         "original": " with a $CLAIM$ claim",
-        "translation": "有$CLAIM$宣称",
+        "translation": "，具有$CLAIM$宣称",
         "stage": 1
     },
     {
@@ -7814,37 +7814,37 @@
     {
         "key": "RULER_AGE:0",
         "original": " at an age of $AGE|Y$",
-        "translation": "$AGE|Y$岁",
+        "translation": "，当前$AGE|Y$岁",
         "stage": 1
     },
     {
         "key": "DEFINE_HEIR_EFFECT_UNKNOWN:5",
         "original": "A new legal Heir$SKILLS$$CLAIM$$CULTURE$$RELIGION$ appears$AGE$.\\n",
-        "translation": "新的合法继承人$SKILLS$出现，$AGE$，$CLAIM$$CULTURE$$RELIGION$。\\n",
+        "translation": "新的合法继承人$SKILLS$出现$AGE$$CLAIM$$CULTURE$$RELIGION$。\\n",
         "stage": 1
     },
     {
         "key": "DEFINE_HEIR_EFFECT:5",
         "original": "$NAME|Y$$SKILLS$$CLAIM$$CULTURE$$RELIGION$ becomes the new Heir$AGE$.\\n",
-        "translation": "$NAME|Y$$SKILLS$成为新的继承人，$AGE$，$CLAIM$$CULTURE$$RELIGION$。\\n",
+        "translation": "$NAME|Y$$SKILLS$成为新的继承人$AGE$$CLAIM$$CULTURE$$RELIGION$。\\n",
         "stage": 1
     },
     {
         "key": "DEFINE_QUEEN_EFFECT_UNKNOWN:5",
         "original": "A new $CONSORT$$SKILLS$$CULTURE$$RELIGION$ appears$AGE$.\\n",
-        "translation": "新的$CONSORT$$SKILLS$出现，$AGE$$CULTURE$$RELIGION$。\\n",
+        "translation": "新的$CONSORT$$SKILLS$出现$AGE$$CULTURE$$RELIGION$。\\n",
         "stage": 1
     },
     {
         "key": "DEFINE_QUEEN_EFFECT:5",
         "original": "$NAME|Y$$SKILLS$$CULTURE$$RELIGION$ becomes the new $CONSORT$$AGE$.\\n",
-        "translation": "$NAME|Y$$SKILLS$成为新的$CONSORT$，$AGE$$CULTURE$$RELIGION$。\\n",
+        "translation": "$NAME|Y$$SKILLS$成为新的$CONSORT$$AGE$$CULTURE$$RELIGION$。\\n",
         "stage": 1
     },
     {
         "key": "DEFINE_HEIR_EFFECT_DYN:2",
         "original": "A Noble of the $NAME$ family$SKILLS$$CLAIM$$CULTURE$$RELIGION$ becomes Heir$AGE$.\\n",
-        "translation": "一位$NAME$家族的贵族$SKILLS$成为新的继承人，$AGE$，$CLAIM$$CULTURE$$RELIGION$。\\n",
+        "translation": "一位$NAME$家族的贵族$SKILLS$成为新的继承人$AGE$$CLAIM$$CULTURE$$RELIGION$。\\n",
         "stage": 1
     },
     {
@@ -29384,13 +29384,13 @@
     {
         "key": "DEFINE_RULER_EFFECT:6",
         "original": "$NAME|Y$$SKILLS$$CLAIM$$CULTURE$$RELIGION$ becomes ruler$AGE$.\\n$SKILL_CHANGE$",
-        "translation": "$NAME|Y$$SKILLS$$CLAIM$$CULTURE$$RELIGION$成为统治者$AGE$。\\n$SKILL_CHANGE$",
+        "translation": "$NAME|Y$$SKILLS$成为统治者$AGE$$CLAIM$$CULTURE$$RELIGION$。\\n$SKILL_CHANGE$",
         "stage": 1
     },
     {
         "key": "DEFINE_RULER_EFFECT_NOCLAIM:4",
         "original": "$NAME|Y$$SKILLS$$CULTURE$$RELIGION$ becomes ruler$AGE$.\\n$SKILL_CHANGE$",
-        "translation": "$NAME|Y$$SKILLS$$CULTURE$$RELIGION$成为统治者$AGE$。\\n$SKILL_CHANGE$",
+        "translation": "$NAME|Y$$SKILLS$成为统治者$AGE$$CULTURE$$RELIGION$。\\n$SKILL_CHANGE$",
         "stage": 1
     },
     {
