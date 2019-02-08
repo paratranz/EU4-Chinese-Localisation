@@ -74,8 +74,8 @@
     {
         "key": "NO_INTERACT_INVALID_GOV:0",
         "original": "Their government is tied to their dynasty, so we can not replace their ruler.",
-        "translation": "他们的政体与王室紧密相关，因此我们不能取代他们的统治者。",
-        "stage": 5
+        "translation": "该国的政府与其王朝紧密相关，因此我们不能替换他们的统治者。",
+        "stage": 1
     },
     {
         "key": "SUGGEST_PEACE_DESC:0",
@@ -41294,7 +41294,7 @@
     {
         "key": "NO_HEIR_DESC:0",
         "original": "Without an heir to the throne, the future of our country is unsettled should our leader die.",
-        "translation": "我们没有继承人，当领导人死去时，国家的命运还是未知数。",
+        "translation": "由于没有王位继承人，当我国领导人死去时，国家的命运将走向未知。",
         "stage": 1
     },
     {
@@ -48452,13 +48452,13 @@
     {
         "key": "NO_INTERACT_STATES_GENERAL:0",
         "original": "We cannot replace their ruler, as they are ruled by States General.",
-        "translation": "",
-        "stage": 0
+        "translation": "该国由联省议会统治，因此我们不能替换他们的统治者。",
+        "stage": 1
     },
     {
         "key": "OFFER_PEACE_PENDING_ENFORCE:0",
         "original": "§RWe cannot offer peace while there is a pending enforce peace offer§!",
-        "translation": "",
-        "stage": 0
+        "translation": "§R当仍有待执行的和平提议时，我们不能提议和平§!",
+        "stage": 1
     }
 ]

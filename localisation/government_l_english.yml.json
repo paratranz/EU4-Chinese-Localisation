@@ -1826,8 +1826,8 @@
     {
         "key": "mechanic_maratha_general_interaction_yes:0",
         "original": "The Marathas Estate Interaction §YRecruit Minister§! will instead recruit a General with §G1§! additional Shock.",
-        "translation": "马拉塔阶层互动招募辅佐大臣将招募一位有额外§G1§!点冲击的将领。",
-        "stage": 0
+        "translation": "马拉塔阶层互动§Y招募辅佐大臣§!将招募一位有额外§G1§!点冲击的将领。",
+        "stage": 1
     },
     {
         "key": "mechanic_maratha_general_interaction_no:0",
@@ -1838,8 +1838,8 @@
     {
         "key": "mechanic_better_purbias_interaction_yes:0",
         "original": "The Rajputs Estate Interaction §YEnlist Purbias§! will give an additional §G5%§! discipline to Rajput Regiments.",
-        "translation": "拉普杰特阶层互动征召普尔比亚人将授予拉普杰特军团额外§G5%§!的训练度。",
-        "stage": 0
+        "translation": "拉杰普特阶层互动§Y征召普尔比亚人§!将给予拉杰普特军团额外§G5%§!的训练度。",
+        "stage": 1
     },
     {
         "key": "mechanic_better_purbias_interaction_no:0",
@@ -1983,6 +1983,6 @@
         "key": "mechanic_allow_banners_no:0",
         "original": "",
         "translation": "",
-        "stage": 0
+        "stage": -1
     }
 ]
