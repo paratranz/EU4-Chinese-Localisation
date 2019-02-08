@@ -5798,8 +5798,8 @@
     {
         "key": "EVTDESC1076:0",
         "original": "With the discovery of the New World, we have entered what looks like our greatest period of prosperity. Despite the immense wealth returning to us allowing $MONARCH$ to finance one of the most outstanding armies in the world, we have not been successful in creating a strong naval force and [Root.Monarch.GetHerHis] attempt to conquer the neighboring states has so far failed miserably.",
-        "translation": "伴随新大陆的发现，我们似乎进入了最繁荣时期。尽管回馈给我们的巨大财富使$MONARCH$有能力资助世界上最杰出的军队，我们还没有成功的打造强大的海军，我们海军征服邻国的尝试目前为止都不幸失败。",
-        "stage": 0
+        "translation": "伴随新大陆的发现，我们似乎进入了最繁荣时期。尽管回馈给我们的巨大财富使$MONARCH$有能力资助世界上最杰出的军队，我们仍未成功地建立强大的海军。迄今为止，[Root.Monarch.GetHerHis]征服邻国尝试未尝一胜。",
+        "stage": 1
     },
     {
         "key": "EVTOPTA1076:0",
@@ -11360,8 +11360,8 @@
     {
         "key": "china_events.55.d:0",
         "original": "The Emperor of China is weak and has little support. From north to south, the ordinary Chinese are questioning his rule and the normally so loyal bureaucrats are debating whether [empire_of_china.Monarch.GetName] has in fact lost the Mandate of Heaven.\\nRogue [chinese_border_province.Culture.GetName] officials claiming to represent [chinese_border_province.GetName] have approached [Root.Monarch.GetName] imploring us to free them from the oppression of [empire_of_china.GetName] and end the rule of the [empire_of_china.Monarch.Dynasty.GetName] dynasty.",
-        "translation": "当前统治中国的皇帝十分软弱且缺乏支持。从南到北，全国各地每一个普通的中国人都在质疑他的统治，连其忠诚的官员也在怀疑[empire_of_china.Monarch.GetName]是否已失去了天命。\\n[chinese_border_province.Culture.GetName]不安分的地方官开始与[Root.Monarch.GetName]接触，请求我们结束[empire_of_china.Monarch.Dynasty.GetName]王朝的统治，把他们从[empire_of_china.GetName]的压迫下解救出来。",
-        "stage": 0
+        "translation": "当前统治中国的皇帝十分虚弱且缺乏支持。从南到北，全国各地每一个普通的中国人都在质疑他的统治，连其忠诚的官员也在怀疑[empire_of_china.Monarch.GetName]是否已失去了天命。\\n[chinese_border_province.GetName]不安分的[chinese_border_province.Culture.GetName]地方官开始与[Root.Monarch.GetName]接触，请求我们结束[empire_of_china.Monarch.Dynasty.GetName]王朝的统治，把他们从[empire_of_china.GetName]的压迫下解救出来。",
+        "stage": 1
     },
     {
         "key": "china_events.55.a:0",
@@ -12380,14 +12380,14 @@
     {
         "key": "EVTNAME759:0",
         "original": "Primas Germaniae",
-        "translation": "日耳曼尼亚大主教",
+        "translation": "日耳曼首席主教",
         "stage": 1
     },
     {
         "key": "EVTDESC759:1",
         "original": "Since the Tenth Century the Archbishops of Mainz have held the prestigious title of §YPrimas Germaniae§! - the most important Catholic Archbishop throughout the Holy Roman Empire.\\n\\nNaturally, such a title will inspire jealousy among the other princes of the Empire... We must take heed and not let our prestige drop too low, or we might find the title slip from our fingers!",
-        "translation": "从九世纪开始，美因茨的大主教就把持着一个负有盛名的头衔，§Y日耳曼首席主教§!——全神圣罗马帝国之内最重要的天主教大主教。\\n\\n自然，这样一个头衔会引起帝国内其他诸侯们的嫉妒……我们必须万分小心，决不能使我们的威望扫地，不然这个头衔很可能就不再为我们所把持！",
-        "stage": 0
+        "translation": "自十世纪以来，美因茨的大主教一直持有一个负有盛名的头衔，§Y日耳曼首席主教§!——全神圣罗马帝国之内最重要的天主教大主教。\\n\\n自然，这样一个头衔会引起帝国内其他诸侯们的嫉妒……我们必须万分小心，决不能使我们的威望扫地，不然这个头衔很可能就不再为我们持有！",
+        "stage": 1
     },
     {
         "key": "EVTOPTA759:0",
@@ -12398,13 +12398,13 @@
     {
         "key": "EVTNAME760:0",
         "original": "Title of Primas Germaniae Questioned",
-        "translation": "日耳曼尼亚大主教头衔遭到质疑",
+        "translation": "日耳曼首席主教头衔遭到质疑",
         "stage": 1
     },
     {
         "key": "EVTDESC760:0",
         "original": "My $MONARCHTITLE$, much of the Catholic community seem to have lost their faith in us! There are even rumors that another Archbishopric plans to claim our title as Primas Germaniae!",
-        "translation": "我的$MONARCHTITLE$，许多天主教社团似乎已经失去了对我们的信任！甚至有谣言称其他的大主教计划从我们这里夺走日耳曼尼亚大主教的头衔！",
+        "translation": "我的$MONARCHTITLE$，许多天主教社团似乎已经失去了对我们的信任！甚至有谣言称其他的大主教计划从我们这里夺走日耳曼首席主教的头衔！",
         "stage": 1
     },
     {
@@ -12416,14 +12416,14 @@
     {
         "key": "EVTNAME761:0",
         "original": "Primas Germaniae",
-        "translation": "日耳曼尼亚大主教",
+        "translation": "日耳曼首席主教",
         "stage": 1
     },
     {
         "key": "EVTDESC761:0",
         "original": "The title of §WPrimas Germaniae§! - the most important Catholic Archbishop throughout the Holy Roman Empire - was created in the Tenth Century when the Archbishopric of Mainz became the first Archbishopric to receive it.\\n\\nFor the second-rate power of $FROM$ to hold such a prestigious title seems an affront to the Catholic Church. Perhaps a more worthy candidate can be found?",
-        "translation": "§W日耳曼尼亚大主教§b的头衔——天主教在神圣罗马帝国最为重要的大主教——是美因茨大主教于九世纪创立并继承的.像$FROM$这样一个二流国家持有如此一个权威头衔似乎是对天主教会的一种轻蔑.也许应该找到一个更加有价值的候选人？",
-        "stage": 0
+        "translation": "§W日耳曼首席主教§!的头衔——神圣罗马帝国中最为重要的天主教大主教——是于十世纪创立并授予美因茨大主教的。\\n\\n像$FROM$这样的二流之辈持有如此一个负有盛名的头衔似乎是对天主教会的一种侮辱。也许应该找到个更恰如其分的候选人？",
+        "stage": 1
     },
     {
         "key": "EVTOPTA761:0",
@@ -12446,14 +12446,14 @@
     {
         "key": "EVTNAME762:0",
         "original": "Primas Germaniae Lost",
-        "translation": "失去日耳曼尼亚大主教的头衔",
+        "translation": "失去日耳曼首席主教的头衔",
         "stage": 1
     },
     {
         "key": "EVTDESC762:2",
         "original": "My $MONARCHTITLE$, we have lost the prestigious title of §WPrimas Germaniae§!. Due to our low standing in the empire of late, another Archbishop has gone ahead and claimed the title!",
-        "translation": "我的$MONARCHTITLE$，我们已经失去了§W日耳曼尼亚大主教§b的权威头衔！全是因为我们最近在帝国内的地位太低，其他大主教超越了我们并获得了这个头衔！",
-        "stage": 0
+        "translation": "我的$MONARCHTITLE$，我们已经失去了§W日耳曼首席主教§!这一负有盛名的头衔！由于我们最近在帝国内的地位太低，另一个大主教超越了我们并获得了这个头衔！",
+        "stage": 1
     },
     {
         "key": "EVTOPTA762:0",
@@ -12476,7 +12476,7 @@
     {
         "key": "EVTDESC763:0",
         "original": "We have long been honored with being the Pope's representative - §WLegatus Natus§! - north of the Alps.\\n\\nSuch a prestigious title demands a certain level of dignity and we cannot let our prestige or our relations with the Pope drop too low.",
-        "translation": "我们长久以来荣耀地作为教宗在阿尔卑斯山以北的代表—— §W当地使节§! 。\\n\\n如此一个权威头衔需要与之匹配的尊贵地位，必须保证我们的威望和与教宗的关系不会下降得太低。",
+        "translation": "我们长久以来荣耀地作为教宗在阿尔卑斯山以北的代表—— §W当地使节§! 。\\n\\n如此负有盛名的头衔需要与之匹配的尊贵地位，必须保证我们的威望和与教宗的关系不会下降得太低。",
         "stage": 1
     },
     {
@@ -16400,14 +16400,14 @@
     {
         "key": "EVTNAME962:0",
         "original": "Title of Primas Germaniae Lost",
-        "translation": "失去日耳曼尼亚大主教的头衔",
+        "translation": "失去日耳曼首席主教的头衔",
         "stage": 1
     },
     {
         "key": "EVTDESC962:0",
         "original": "The prestigious title §WPrimas Germaniae§! can only be held by a Catholic spiritual elector. As we no longer meet these requirements, the Pope has revoked the privilege.",
-        "translation": "§W日耳曼尼亚大主教§b的荣誉称号只能授予天主教神权选帝侯。由于我们不再符合要求，教宗取消了我们的特权。",
-        "stage": 0
+        "translation": "§W日耳曼首席主教§!的荣誉称号只能授予天主教神权选帝侯。由于我们不再符合要求，教宗收回了这份荣耀。",
+        "stage": 1
     },
     {
         "key": "EVTOPTA962:0",
@@ -26498,8 +26498,8 @@
     {
         "key": "EVTDESC96200:0",
         "original": "Good news! We have been selected by the Pope to hold the prestigious title of §WPrimas Germaniae§! - the most important Catholic Archbishop throughout the Holy Roman Empire - after the former holder fell from grace.",
-        "translation": "",
-        "stage": 0
+        "translation": "好消息！在上一位持有者失宠之后，我们被教宗选中，获得了权威头衔§W日耳曼首席主教§!—— 整个神圣罗马帝国最重要的天主教大主教。",
+        "stage": 1
     },
     {
         "key": "EVTOPTA96200:0",
