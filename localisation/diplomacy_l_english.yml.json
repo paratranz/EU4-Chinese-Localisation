@@ -824,7 +824,7 @@
     {
         "key": "ANNEXDESC:0",
         "original": "Start the process of annexing your vassal.",
-        "translation": "开始吞并附庸国",
+        "translation": "开始吞并附庸国。",
         "stage": 1
     },
     {
@@ -3614,8 +3614,8 @@
     {
         "key": "BECOME_VASSAL_2:0",
         "original": "$WHO$ will become a vassal of $BOSS$. ",
-        "translation": "$WHO$将成为$BOSS$的附庸国",
-        "stage": 5
+        "translation": "$WHO$将成为$BOSS$的附庸国。",
+        "stage": 1
     },
     {
         "key": "BECOME_PROTECTORATE:0",
@@ -3632,8 +3632,8 @@
     {
         "key": "BECOME_TRIBUTARY_TRADE_LEAGUE:0",
         "original": "$WHO$ will leave their Trade League.",
-        "translation": "$WHO$ 将离开他们的贸易联盟",
-        "stage": 5
+        "translation": "$WHO$将离开他们的贸易联盟。",
+        "stage": 1
     },
     {
         "key": "BECOME_UNION:0",
@@ -3656,32 +3656,32 @@
     {
         "key": "VASSAL_GIVEUP:0",
         "original": "$WHO$ will end their overlordship over $WHAT$. ",
-        "translation": "$WHO$将结束与$WHAT$的臣属关系.",
-        "stage": 5
+        "translation": "$WHO$将结束与$WHAT$的臣属关系。",
+        "stage": 1
     },
     {
         "key": "VASSAL_TRANSFER:0",
         "original": "$WHO$ will transfer their overlordship over $WHAT$. ",
-        "translation": "$WHO$ 将转让与 $WHAT$的臣属关系",
-        "stage": 5
+        "translation": "$WHO$将转让与$WHAT$的臣属关系。",
+        "stage": 1
     },
     {
         "key": "COUNTRY_RELEASE:0",
         "original": "$WHO$ will release $WHAT$ as a sovereign state. ",
-        "translation": "$WHO$承认$WHAT$成为独立国家.",
-        "stage": 5
+        "translation": "$WHO$承认$WHAT$成为独立国家。",
+        "stage": 1
     },
     {
         "key": "COUNTRY_CANNOT_RELEASE:0",
         "original": "$COUNTRY$ cannot be released since all its core provinces are already to be released to another nation. ",
-        "translation": "$COUNTRY$ 无法被解放。因为它所有的核心省份已经通过另一个国家被解放。",
-        "stage": 5
+        "translation": "$COUNTRY$无法被解放。因为它所有的核心省份已经通过另一个国家被解放。",
+        "stage": 1
     },
     {
         "key": "PAY_CASH:0",
         "original": "$WHO$ will pay $WHAT$ ducats. ",
-        "translation": "$WHO$将支付$WHAT$金币.",
-        "stage": 5
+        "translation": "$WHO$将支付$WHAT$金币。",
+        "stage": 1
     },
     {
         "key": "PAY_CASH_TO:0",
@@ -3866,20 +3866,20 @@
     {
         "key": "CALL_CHECKBOX_TRUCE:0",
         "original": "§RYou cannot declare a country you have a truce with as a co-belligerent.§!",
-        "translation": "§R你不能宣称一个有停战协议的国家联合作战。§!",
-        "stage": 5
+        "translation": "§R你不能对一个有停战协议的国家宣布联合作战。§!",
+        "stage": 1
     },
     {
         "key": "CALL_CHECKBOX_TRUCE_OFF:0",
         "original": "§RYou cannot call an ally that has a truce with the target.§!",
-        "translation": "§R你不能召唤一个和目标有休战协议的盟友.§!",
-        "stage": 5
+        "translation": "§R你不能召唤一个和目标有休战协议的盟友。§!",
+        "stage": 1
     },
     {
         "key": "CALL_CHECKBOX_VOLUNTARY:0",
         "original": "§RYou cannot call an ally in a voluntary subject relationship against their overlord.",
-        "translation": "§R你不能召唤一个自愿臣属关系的盟友去对抗他们的宗主国",
-        "stage": 5
+        "translation": "§R你不能召唤一个自愿臣属关系的盟友去对抗他们的宗主国。",
+        "stage": 1
     },
     {
         "key": "CALL_CHECKBOX_CANNOT_CALL_DESC:0",
@@ -3890,8 +3890,8 @@
     {
         "key": "CALL_CHECKBOX_ALLIED_TO_ENEMY:0",
         "original": "§RYou cannot call an ally that will be called by the defender.§!",
-        "translation": "§R你不能召唤将和你的敌人站在一起的国家参战.§!",
-        "stage": 5
+        "translation": "§R你不能召唤将和你的敌人站在一起的国家参战。§!",
+        "stage": 1
     },
     {
         "key": "CALL_ALLIES:0",
