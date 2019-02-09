@@ -896,7 +896,7 @@
     {
         "key": "non_brahmin_tooltip:0",
         "original": "Every owned province with the §YBrahmins§! estate gets §Y'Brahmin Orthodoxy Enforced'§! for §Y15 years§!, giving the following effects:\\nLocal Unrest: §R+5.00§!\\nMonthly Autonomy Change: §G-0.05%§!",
-        "translation": "每个拥有§Y婆罗门§!的省份！领地将受到§Y'婆罗门正统性加强'§!为期§Y15年§!,给出以下效果：\\n地方动乱：§R+5.00§!\\n每月自治度变化：§G-0.05％§!",
+        "translation": "每个拥有§Y婆罗门§!阶层的省份将得到为期§Y15年§!的§Y「婆罗门正统性加强」§!，给予以下效果：\\n本地叛乱风险：§R+5.00§!\\n每月自治度变化：§G-0.05％§!",
         "stage": 1
     },
     {
@@ -2156,7 +2156,7 @@
     {
         "key": "palkis.tooltip:0",
         "original": "Every owned province with the §YMarathas§! estate or with §YMaratha§! culture gets §Y'Popular Palkhis'§! for §Y20 years§!, giving the following effects:\\nLocal Unrest: §G-3.00§!\\nLocal Development Cost: §G-5.0%§!\\nMonthly Devastation: §G-0.03§!",
-        "translation": "每个拥有§Y马拉塔§!阶级或者§Y马拉塔§!文化的省份将受到为期§Y20年§!的§Y「受欢迎的帕尔基」§!影响，获得以下效果：\\n本地叛乱风险：§G-3.00§!\\n本地开发花费：§G-5.0%§!\\n每月荒废度：§G-0.03§!",
+        "translation": "每个拥有§Y马拉塔§!阶层或者§Y马拉塔§!文化的省份将得到为期§Y20年§!的§Y「受欢迎的帕尔基」§!，获得以下效果：\\n本地叛乱风险：§G-3.00§!\\n本地开发花费：§G-5.0%§!\\n每月荒废度：§G-0.03§!",
         "stage": 1
     },
     {
@@ -5798,8 +5798,8 @@
     {
         "key": "brahmins_estate_events.9.b.tt:1",
         "original": "Every owned province with the §YBrahmins§! estate gets §Y'Non-Brahmin Religious Movements'§! for §Y15 years§!, giving the following effects:\\nLocal Unrest: §G-5.00§!\\nMonthly Autonomy Change: §R+0.05%§!",
-        "translation": "",
-        "stage": 0
+        "translation": "每个拥有§Y婆罗门§!阶层将的到为期§Y15年§!的§Y「非婆罗门宗教运动」§!，给予以下效果：\\n本地叛乱风险：§G-5.00§!\\n每月自治度变化：§R+0.05%§!",
+        "stage": 1
     },
     {
         "key": "GOV_REVOLUTIONARY_REPUBLIC:0",
