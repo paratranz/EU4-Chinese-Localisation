@@ -24,7 +24,7 @@ country_event = {
             type = pretender_rebels
             religion = ROOT
             size = 2
-            leader = "Yûsuf Nasrid"
+            leader = "优素福·纳斯尔"  # Yûsuf Nasrid
             win = yes
           }
           add_local_autonomy = 25
@@ -36,7 +36,7 @@ country_event = {
             type = pretender_rebels
             religion = ROOT
             size = 2
-            leader = "Yûsuf Nasrid"
+            leader = "优素福·纳斯尔"  # Yûsuf Nasrid
           }
         }
       }
@@ -84,7 +84,7 @@ country_event = {
     }
     define_heir = {
       dynasty = ROOT
-      name = "Yûsuf"
+      name = "优素福"  # Yûsuf
       claim = 50
       age = 45
       male = yes

@@ -2246,10 +2246,10 @@ country_event = {
       is_year = 1797
     }
     NOT = {
-      has_ruler = "John Adams"
+      has_ruler = "约翰 亚当斯"  # John Adams
     }
     NOT = {
-      has_ruler = "Thomas Jefferson"
+      has_ruler = "托马斯 杰斐逊"  # Thomas Jefferson
     }
   }
   mean_time_to_happen = {
@@ -2268,7 +2268,7 @@ country_event = {
       years = 20
     }
     define_ruler = {
-      name = "John Adams"
+      name = "约翰 亚当斯"  # John Adams
       adm = 5
       dip = 4
       mil = 2
@@ -2293,7 +2293,7 @@ country_event = {
       modifier = opinion_correct_ruler
     }
     define_ruler = {
-      name = "Thomas Jefferson"
+      name = "托马斯 杰斐逊"  # Thomas Jefferson
       adm = 5
       dip = 4
       mil = 3
@@ -2438,13 +2438,13 @@ country_event = {
       has_country_flag = usa_declaration_independence_flag
     }
     NOT = {
-      has_ruler = "Thomas Jefferson"
+      has_ruler = "托马斯 杰斐逊"  # Thomas Jefferson
     }
     NOT = {
-      has_ruler = "Aaron Burr"
+      has_ruler = "阿伦 伯尔"  # Aaron Burr
     }
     NOT = {
-      has_ruler = "John Adams"
+      has_ruler = "约翰 亚当斯"  # John Adams
     }
   }
   mean_time_to_happen = {
@@ -2454,7 +2454,7 @@ country_event = {
     name = "usa_dlc.EVTOPTA64"
     add_adm_power = 20
     define_ruler = {
-      name = "Thomas Jefferson"
+      name = "托马斯 杰斐逊"  # Thomas Jefferson
       adm = 5
       dip = 4
       mil = 3
@@ -2472,7 +2472,7 @@ country_event = {
     name = "usa_dlc.EVTOPTB64"
     add_dip_power = 40
     define_ruler = {
-      name = "Aaron Burr"
+      name = "阿伦 伯尔"  # Aaron Burr
       adm = 3
       dip = 6
       mil = 3
@@ -2490,7 +2490,7 @@ country_event = {
     name = "usa_dlc.EVTOPTC64"
     add_mil_power = 40
     define_ruler = {
-      name = "John Adams"
+      name = "约翰 亚当斯"  # John Adams
       adm = 5
       dip = 4
       mil = 2
@@ -2591,10 +2591,10 @@ country_event = {
       is_year = 1805
     }
     NOT = {
-      has_ruler = "Thomas Jefferson"
+      has_ruler = "托马斯 杰斐逊"  # Thomas Jefferson
     }
     NOT = {
-      has_ruler = "Charles Pinckney"
+      has_ruler = "查尔斯 平克尼"  # Charles Pinckney
     }
   }
   mean_time_to_happen = {
@@ -2604,7 +2604,7 @@ country_event = {
     name = "usa_dlc.EVTOPTA66"
     add_mercantilism = 5
     define_ruler = {
-      name = "Thomas Jefferson"
+      name = "托马斯 杰斐逊"  # Thomas Jefferson
       dip = 4
       adm = 5
       mil = 3
@@ -2622,7 +2622,7 @@ country_event = {
     name = "usa_dlc.EVTOPTB66"
     add_mercantilism = -5
     define_ruler = {
-      name = "Charles Pinckney"
+      name = "查尔斯 平克尼"  # Charles Pinckney
       dip = 3
       adm = 4
       mil = 5
@@ -2654,13 +2654,13 @@ country_event = {
       is_year = 1809
     }
     NOT = {
-      has_ruler = "James Madison"
+      has_ruler = "詹姆斯 麦迪逊"  # James Madison
     }
     NOT = {
-      has_ruler = "Charles Pinckney"
+      has_ruler = "查尔斯 平克尼"  # Charles Pinckney
     }
     NOT = {
-      has_ruler = "George Clinton"
+      has_ruler = "乔治 克林顿"  # George Clinton
     }
   }
   mean_time_to_happen = {
@@ -2670,7 +2670,7 @@ country_event = {
     name = "usa_dlc.EVTOPTA67"
     add_mercantilism = 5
     define_ruler = {
-      name = "James Madison"
+      name = "詹姆斯 麦迪逊"  # James Madison
       dip = 5
       adm = 5
       mil = 3
@@ -2688,7 +2688,7 @@ country_event = {
     name = "usa_dlc.EVTOPTB67"
     add_mercantilism = -5
     define_ruler = {
-      name = "Charles Pinckney"
+      name = "查尔斯 平克尼"  # Charles Pinckney
       dip = 3
       adm = 4
       mil = 5
@@ -2706,7 +2706,7 @@ country_event = {
     name = "usa_dlc.EVTOPTC67"
     add_mercantilism = -5
     define_ruler = {
-      name = "George Clinton"
+      name = "乔治 克林顿"  # George Clinton
       dip = 5
       adm = 3
       mil = 4
@@ -2789,10 +2789,10 @@ country_event = {
       is_year = 1813
     }
     NOT = {
-      has_ruler = "James Madison"
+      has_ruler = "詹姆斯 麦迪逊"  # James Madison
     }
     NOT = {
-      has_ruler = "DeWitt Clinton"
+      has_ruler = "德威特 克林顿"  # DeWitt Clinton
     }
   }
   mean_time_to_happen = {
@@ -2808,7 +2808,7 @@ country_event = {
     add_stability_or_adm_power = yes
     add_mercantilism = 5
     define_ruler = {
-      name = "James Madison"
+      name = "詹姆斯 麦迪逊"  # James Madison
       dip = 5
       adm = 5
       mil = 3
@@ -2832,7 +2832,7 @@ country_event = {
     add_stability = -1
     add_mercantilism = -5
     define_ruler = {
-      name = "DeWitt Clinton"
+      name = "德威特 克林顿"  # DeWitt Clinton
       adm = 4
       dip = 6
       mil = 3
@@ -2864,10 +2864,10 @@ country_event = {
       is_year = 1817
     }
     NOT = {
-      has_ruler = "James Monroe"
+      has_ruler = "詹姆斯 门罗"  # James Monroe
     }
     NOT = {
-      has_ruler = "Rufus King"
+      has_ruler = "鲁弗斯 金"  # Rufus King
     }
   }
   mean_time_to_happen = {
@@ -2878,7 +2878,7 @@ country_event = {
     add_mercantilism = 5
     add_stability = 2
     define_ruler = {
-      name = "James Monroe"
+      name = "詹姆斯 门罗"  # James Monroe
       dip = 5
       adm = 6
       mil = 3
@@ -2900,7 +2900,7 @@ country_event = {
       modifier = opinion_pleased
     }
     define_ruler = {
-      name = "Rufus King"
+      name = "鲁弗斯 金"  # Rufus King
       dip = 5
       adm = 6
       mil = 5

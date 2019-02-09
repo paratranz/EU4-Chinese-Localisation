@@ -297,7 +297,7 @@ country_event = {
         type = nationalist_rebels
         size = 2
         win = yes
-        leader = "Chimu Capac"
+        leader = "奇穆 卡帕克"  # Chimu Capac
       }
     }
     every_owned_province = {
@@ -487,7 +487,7 @@ country_event = {
     add_legitimacy = -40
     kill_heir = yes
     define_ruler = {
-      name = "Atahualpa"
+      name = "阿塔瓦尔帕"  # Atahualpa
       dynasty = ROOT
       dip = 5
     }
@@ -509,7 +509,7 @@ country_event = {
       spawn_rebels = {
         type = pretender_rebels
         size = 3
-        leader = "Huascar Inca"
+        leader = "印加的瓦斯卡尔"  # Huascar Inca
       }
       every_neighbor_province = {
         limit = {
@@ -529,7 +529,7 @@ country_event = {
     add_legitimacy = -40
     kill_heir = yes
     define_ruler = {
-      name = "Huascar"
+      name = "瓦斯卡尔"  # Huascar
       dynasty = ROOT
     }
     if = {
@@ -555,7 +555,7 @@ country_event = {
       spawn_rebels = {
         type = pretender_rebels
         size = 3
-        leader = "Atahualpa Inca"
+        leader = "印加的阿塔瓦尔帕"  # Atahualpa Inca
       }
       every_neighbor_province = {
         limit = {

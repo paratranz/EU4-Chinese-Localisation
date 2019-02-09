@@ -30,7 +30,7 @@ country_event = {
       }
       define_advisor = {
         type = philosopher
-        name = "Erasmus"
+        name = "伊拉兹马斯"  # Erasmus
         culture = dutch
         religion = catholic
         discount = yes
@@ -75,7 +75,7 @@ country_event = {
       }
       define_advisor = {
         type = statesman
-        name = "Hugo Grotius"
+        name = "胡戈 赫罗齐厄斯"  # Hugo Grotius
         culture = dutch
         discount = yes
         skill = 3
@@ -114,7 +114,7 @@ country_event = {
       }
       define_advisor = {
         type = treasurer
-        name = "Christiaan Huygens"
+        name = "克里斯蒂安 惠更斯"  # Christiaan Huygens
         culture = dutch
         discount = yes
         skill = 2
@@ -152,7 +152,7 @@ country_event = {
       }
       define_advisor = {
         type = navigator
-        name = "Mercator"
+        name = "墨卡托"  # Mercator
         culture = flemish
         discount = yes
         skill = 2
@@ -607,7 +607,7 @@ country_event = {
     add_dip_power = 100
     define_advisor = {
       type = natural_scientist
-      name = "Simon Stevin"
+      name = "西蒙 斯特芬"  # Simon Stevin
       culture = flemish
       discount = yes
       skill = 3
@@ -1319,7 +1319,7 @@ country_event = {
       spawn_rebels = {
         type = nationalist_rebels
         size = 1
-        leader = "Pier Gerlofs Donia"
+        leader = "皮耶尔 格洛弗斯 多尼亚"  # Pier Gerlofs Donia
       }
     }
     100 = {
@@ -1381,7 +1381,7 @@ country_event = {
       }
       define_advisor = {
         type = philosopher
-        name = "Baruch Spinoza"
+        name = "巴鲁赫 斯宾诺莎"  # Baruch Spinoza
         religion = jewish
         culture = portugese
         discount = yes
