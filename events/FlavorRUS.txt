@@ -321,14 +321,14 @@ country_event = {
     add_adm_power = 25
     define_advisor = {
       type = statesman
-      name = "Alexi Adashev"
+      name = "阿列克谢 阿达舍夫"  # Alexi Adashev
       discount = yes
       location = 295
       skill = 2
     }
     define_advisor = {
       type = theologian
-      name = "Sylvestr"
+      name = "西尔维斯特"  # Sylvestr
       discount = yes
       location = 295
       skill = 3
@@ -604,7 +604,7 @@ country_event = {
       }
       define_advisor = {
         type = treasurer
-        name = "Boris Morozov"
+        name = "鲍里斯 莫洛佐夫"  # Boris Morozov
         discount = yes
         location = 295
         skill = 2
