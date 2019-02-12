@@ -214,12 +214,12 @@ country_event = {
       }
       define_ruler = {
         name = "詹姆斯"  # James
-        dynasty = "Mission"
+        dynasty = "米希恩"  # Mission
       }
       define_advisor = {
         type = theologian
         skill = 3
-        name = "Signor Caraccioli"
+        name = "卡拉查理先生"  # Signor Caraccioli
         cost_multiplier = 0.25
       }
       swap_free_idea_group = yes
@@ -249,12 +249,12 @@ country_event = {
       }
       define_ruler = {
         name = "詹姆斯"  # James
-        dynasty = "Mission"
+        dynasty = "米希恩"  # Mission
       }
       define_advisor = {
         type = theologian
         skill = 3
-        name = "Signor Caraccioli"
+        name = "卡拉查理先生"  # Signor Caraccioli
         cost_multiplier = 0.25
       }
       swap_free_idea_group = yes
@@ -341,8 +341,8 @@ country_event = {
         }
       }
       define_ruler = {
-        name = "Murat"
-        dynasty = "Reis"
+        name = "穆拉德"  # Murat
+        dynasty = "雷斯"  # Reis
         fixed = yes
         adm = 3
         dip = 3
@@ -379,8 +379,8 @@ country_event = {
         }
       }
       define_ruler = {
-        name = "Murat"
-        dynasty = "Reis"
+        name = "穆拉德"  # Murat
+        dynasty = "雷斯"  # Reis
         fixed = yes
         adm = 3
         dip = 3
