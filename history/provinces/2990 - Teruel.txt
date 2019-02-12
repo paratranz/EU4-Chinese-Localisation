@@ -1,0 +1,70 @@
+owner = ARA
+controller = ARA
+add_core = ARA
+culture = aragonese
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = cloth
+base_manpower = 3
+capital = "特鲁埃尔"  # Teruel
+estate = estate_church
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1516.1.23 = {
+  controller = SPA
+  owner = SPA
+  add_core = SPA
+}
+1591.9.24 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1591.12.24 = {
+  revolt = {}
+  controller = SPA
+}
+1705.6.29 = {
+  controller = HAB
+}
+1707.5.26 = {
+  controller = SPA
+}
+1710.6.13 = {
+  controller = HAB
+}
+1710.11.1 = {
+  controller = SPA
+}
+1713.7.13 = {
+  remove_core = ARA
+}
+1808.6.6 = {
+  revolt = {
+    type = pretender_rebels
+    size = 0
+  }
+  controller = REB
+}
+1810.1.1 = {
+  revolt = {}
+  controller = SPA
+}
+1812.7.26 = {
+  revolt = {
+    type = pretender_rebels
+    size = 0
+  }
+  controller = REB
+}
+1813.12.11 = {
+  revolt = {}
+  controller = SPA
+}

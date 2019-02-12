@@ -1,0 +1,63 @@
+owner = BUR
+controller = BUR
+capital = "第戎"  # Dijon
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = wine
+base_manpower = 6
+add_core = BUR
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 16
+center_of_trade = 2
+1477.1.5 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+}
+1526.1.14 = {
+  add_core = HAB
+}
+1529.8.3 = {
+  remove_core = HAB
+}
+1588.12.1 = {
+  unrest = 5
+}
+1594.1.1 = {
+  unrest = 0
+}
+1630.1.1 = {
+  unrest = 3
+}
+1632.1.1 = {
+  unrest = 0
+}
+1636.8.30 = {
+  controller = HAB
+}
+1636.10.1 = {
+  controller = FRA
+}
+1650.1.14 = {
+  unrest = 7
+}
+1651.4.1 = {
+  unrest = 4
+}
+1651.12.1 = {
+  unrest = 7
+}
+1652.10.21 = {
+  unrest = 0
+}
+1773.1.1 = {
+  base_tax = 11
+  base_production = 11
+}

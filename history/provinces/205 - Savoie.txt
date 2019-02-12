@@ -1,0 +1,66 @@
+owner = SAV
+controller = SAV
+culture = piedmontese
+religion = catholic
+hre = yes
+base_tax = 9
+base_production = 9
+trade_goods = cloth
+base_manpower = 5
+capital = "尚贝里"  # Chambéry
+is_city = yes
+add_core = SAV
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1495.1.1 = {
+  hre = no
+}
+1499.1.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+}
+1529.1.1 = {
+  owner = SAV
+  controller = SAV
+}
+1536.4.1 = {
+  controller = FRA
+}
+1538.6.17 = {
+  owner = FRA
+}
+1559.1.1 = {
+  owner = SAV
+  controller = SAV
+  remove_core = FRA
+}
+1713.4.12 = {
+  owner = SIC
+  controller = SIC
+  add_core = SIC
+  remove_core = SAV
+}
+1720.1.1 = {
+  owner = SPI
+  controller = SPI
+  add_core = SPI
+  remove_core = SIC
+}
+1792.9.1 = {
+  controller = FRA
+}
+1792.11.27 = {
+  owner = FRA
+  add_core = FRA
+}
+1806.7.12 = {
+  hre = no
+}
+1814.4.11 = {
+  owner = SPI
+  controller = SPI
+  remove_core = FRA
+}

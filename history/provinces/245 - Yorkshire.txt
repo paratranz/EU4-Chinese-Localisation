@@ -1,0 +1,111 @@
+owner = ENG
+controller = ENG
+culture = english
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = cloth
+base_manpower = 2
+capital = "约克"  # York
+is_city = yes
+add_core = ENG
+add_core = NOL
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+extra_cost = 8
+center_of_trade = 1
+1453.1.1 = {
+  unrest = 5
+}
+1459.9.23 = {
+  unrest = 0
+  revolt = {
+    type = pretender_rebels
+    size = 3
+    leader = "爱德华·约克"  # Edward of York
+  }
+  controller = REB
+}
+1459.10.12 = {
+  revolt = {}
+  unrest = 5
+}
+1461.4.1 = {
+  unrest = 0
+  revolt = {
+    type = pretender_rebels
+    size = 3
+    leader = "爱德华·约克"  # Edward of York
+  }
+  controller = REB
+}
+1461.6.28 = {
+  revolt = {}
+  unrest = 2
+  controller = ENG
+}
+1467.1.1 = {
+  unrest = 5
+}
+1470.3.1 = {
+  unrest = 0
+  revolt = {
+    type = revolutionary_rebels
+    size = 2
+    leader = "理查德 内维尔"  # Richard Neville
+  }
+  controller = REB
+}
+1470.10.6 = {
+  revolt = {}
+  controller = ENG
+}
+1471.1.1 = {
+  unrest = 8
+}
+1471.3.1 = {
+  unrest = 0
+  revolt = {
+    type = revolutionary_rebels
+    size = 2
+    leader = "爱德华·约克"  # Edward of York
+  }
+  controller = REB
+}
+1471.5.4 = {
+  revolt = {}
+  unrest = 2
+  controller = ENG
+}
+1483.6.26 = {
+  unrest = 8
+}
+1485.8.23 = {
+  unrest = 0
+}
+1600.1.1 = {
+  religion = protestant
+}
+1644.7.2 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 2
+  }
+  controller = REB
+}
+1646.5.5 = {
+  revolt = {}
+  controller = ENG
+}
+1707.5.12 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  remove_core = ENG
+}
+1750.1.1 = {
+  capital = "利兹"  # Leeds
+}

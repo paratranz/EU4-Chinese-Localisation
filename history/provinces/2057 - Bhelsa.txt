@@ -1,0 +1,82 @@
+owner = MLW
+controller = MLW
+culture = malvi
+religion = hinduism
+capital = "贝尔萨"  # Bhelsa
+trade_goods = cloth
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = MLW
+add_rajputs_or_marathas_or_nobles_effect = yes
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = chinese
+1498.1.1 = {
+  discovered_by = POR
+}
+1531.1.1 = {
+  controller = GUJ
+}
+1532.1.1 = {
+  owner = GUJ
+}
+1535.1.1 = {
+  controller = MUG
+  add_core = MUG
+}
+1537.1.1 = {
+  owner = MLW
+  controller = MLW
+  remove_core = MUG
+}
+1543.1.1 = {
+  owner = BNG
+  controller = BNG
+  add_core = BNG
+}
+1545.5.22 = {
+  owner = MLW
+  controller = MLW
+  remove_core = BNG
+}
+1561.3.1 = {
+  controller = MUG
+}
+1561.8.1 = {
+  controller = MLW
+}
+1562.5.1 = {
+  controller = MUG
+}
+1562.6.1 = {
+  owner = MUG
+  add_core = MUG
+}
+1564.1.1 = {
+  controller = REB
+  revolt = {
+    type = noble_rebels
+  }
+}
+1565.1.1 = {
+  controller = MUG
+  revolt = {}
+}
+1737.1.1 = {
+  owner = GWA
+  controller = GWA
+  add_core = GWA
+  capital = "博帕尔"  # Bhopal
+  remove_core = MUG
+}
+1818.6.3 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  remove_core = GWA
+}

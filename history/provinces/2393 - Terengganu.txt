@@ -1,0 +1,24 @@
+owner = MLC
+controller = MLC
+culture = malayan
+religion = sunni
+capital = "登加奴"  # Terengganu
+trade_goods = fish
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = MLC
+add_core = JOH
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1516.1.1 = {
+  discovered_by = POR
+}
+1528.1.1 = {
+  owner = JOH
+  controller = JOH
+}

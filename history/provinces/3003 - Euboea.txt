@@ -1,0 +1,44 @@
+owner = VEN
+controller = VEN
+culture = greek
+religion = orthodox
+capital = "内格罗蓬特"  # Negroponte
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = VEN
+estate = estate_nobles
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = western
+1470.7.1 = {
+  owner = TUR
+  controller = TUR
+  add_core = TUR
+  capital = "埃格里博兹"  # Egriboz
+}
+1555.1.1 = {
+  unrest = 5
+}
+1556.1.1 = {
+  unrest = 0
+}
+1579.1.1 = {
+  owner = TUR
+  controller = TUR
+  add_core = TUR
+}
+1740.1.1 = {
+  base_tax = 1
+  base_production = 1
+}
+1770.6.11 = {
+  controller = RUS
+}
+1774.7.21 = {
+  controller = TUR
+}

@@ -1,0 +1,22 @@
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+culture = shona
+religion = shamanism
+capital = "穆坦达"  # Madanda
+is_city = yes
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 1
+base_production = 1
+discovered_by = east_african
+discovered_by = central_african
+1513.1.1 = {
+  discovered_by = POR
+}
+1690.1.1 = {
+  owner = RZW
+  controller = RZW
+  add_core = RZW
+}

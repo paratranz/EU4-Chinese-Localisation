@@ -1,0 +1,65 @@
+owner = KAT
+controller = KAT
+culture = saurashtri
+religion = hinduism
+capital = "拉杰果德"  # Rajkot
+trade_goods = dyes
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = KAT
+add_core = RJK
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = chinese
+discovered_by = east_african
+1470.1.1 = {
+  owner = GUJ
+  controller = GUJ
+  add_core = GUJ
+}
+1498.1.1 = {
+  discovered_by = POR
+}
+1540.1.1 = {
+  owner = NVR
+  controller = NVR
+  remove_core = GUJ
+}
+1573.6.1 = {
+  owner = MUG
+  controller = MUG
+  add_core = MUG
+}
+1622.3.1 = {
+  controller = REB
+  revolt = {
+    type = pretender_rebels
+    size = 0
+    name = "胡尔姆派"  # Khurrams Faction
+    leader = "沙贾汗·帖木儿"  # Shah Jahan Timurid
+  }
+}
+1622.7.1 = {
+  controller = MUG
+  revolt = {}
+}
+1640.1.1 = {
+  owner = RJK
+  controller = RJK
+}
+1725.1.1 = {
+  owner = BDA
+  controller = BDA
+  add_core = BDA
+  remove_core = MUG
+}
+1802.1.1 = {
+  owner = RJK
+  controller = RJK
+  remove_core = BDA
+}

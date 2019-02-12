@@ -1,0 +1,32 @@
+culture = fon
+religion = shamanism
+capital = "维达"  # Whydah
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 50
+native_ferocity = 4
+native_hostileness = 9
+discovered_by = sub_saharan
+1472.1.1 = {
+  discovered_by = POR
+}
+1650.1.1 = {
+  trade_goods = slaves
+}
+1727.1.1 = {
+  owner = DAH
+  controller = DAH
+  add_core = DAH
+}
+1779.1.1 = {
+  unrest = 6
+}
+1784.1.1 = {
+  unrest = 8
+}
+1787.1.1 = {
+  unrest = 0
+}

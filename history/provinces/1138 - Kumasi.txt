@@ -1,0 +1,57 @@
+culture = aka
+base_manpower = 1
+religion = shamanism
+capital = "阿肯-科托科"  # Akyem Kotoko
+trade_goods = gold
+hre = no
+base_tax = 4
+base_production = 4
+native_size = 60
+native_ferocity = 4
+native_hostileness = 9
+add_core = ASH
+discovered_by = sub_saharan
+1500.1.1 = {
+  owner = ASH
+  controller = ASH
+  add_core = ASH
+  trade_goods = gold
+  capital = "库马西"  # Kumasi
+  is_city = yes
+}
+1713.1.1 = {
+  unrest = 2
+}
+1715.1.1 = {
+  unrest = 5
+}
+1718.1.1 = {
+  unrest = 2
+}
+1724.1.1 = {
+  unrest = 5
+}
+1725.1.1 = {
+  unrest = 0
+}
+1732.1.1 = {
+  unrest = 5
+}
+1733.1.1 = {
+  unrest = 0
+}
+1740.1.1 = {
+  unrest = 6
+}
+1744.1.1 = {
+  unrest = 0
+}
+1748.1.1 = {
+  unrest = 8
+}
+1749.1.1 = {
+  unrest = 0
+}
+1804.1.1 = {
+  discovered_by = SOK
+}

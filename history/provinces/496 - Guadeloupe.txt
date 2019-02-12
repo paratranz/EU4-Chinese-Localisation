@@ -1,0 +1,60 @@
+culture = carib
+religion = animism
+capital = "瓜德罗普"  # Guadeloupe
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 5
+base_manpower = 1
+native_size = 20
+native_ferocity = 2
+native_hostileness = 5
+discovered_by = CAB
+discovered_by = ARW
+1493.11.14 = {
+  discovered_by = CAS
+}
+1516.1.23 = {
+  discovered_by = SPA
+}
+1635.1.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  is_city = yes
+  religion = catholic
+  culture = cosmopolitan_french
+  trade_goods = sugar
+}
+1643.1.1 = {
+  capital = "巴斯特尔"  # Basse-Terre
+}
+1793.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 2
+  }
+  controller = REB
+}
+1794.4.21 = {
+  revolt = {}
+  controller = GBR
+}
+1794.6.2 = {
+  controller = FRA
+}
+1813.2.5 = {
+  controller = GBR
+}
+1813.3.3 = {
+  owner = SWE
+  controller = SWE
+  add_core = SWE
+  remove_core = FRA
+}
+1814.5.30 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  remove_core = SWE
+}

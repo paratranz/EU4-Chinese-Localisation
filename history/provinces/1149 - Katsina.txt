@@ -1,0 +1,65 @@
+owner = KTS
+controller = KTS
+add_core = KTS
+culture = hausa
+is_city = yes
+base_manpower = 3
+religion = sunni
+capital = "卡齐纳"  # Katsina
+trade_goods = cloth
+hre = no
+base_tax = 6
+base_production = 6
+discovered_by = sub_saharan
+extra_cost = 16
+center_of_trade = 2
+1489.1.1 = {
+  unrest = 4
+}
+1491.1.1 = {
+  unrest = 0
+}
+1514.1.1 = {
+  unrest = 6
+}
+1580.1.1 = {
+  unrest = 7
+}
+1581.1.1 = {
+  unrest = 0
+}
+1622.1.1 = {
+  unrest = 7
+}
+1647.1.1 = {
+  unrest = 7
+}
+1648.1.1 = {
+  unrest = 0
+}
+1664.1.1 = {
+  unrest = 6
+}
+1672.1.1 = {
+  unrest = 6
+}
+1676.1.1 = {
+  unrest = 8
+}
+1677.1.1 = {
+  unrest = 0
+}
+1767.1.1 = {
+  unrest = 6
+}
+1790.1.1 = {
+  unrest = 3
+}
+1804.1.1 = {
+  discovered_by = SOK
+}
+1807.1.1 = {
+  owner = SOK
+  controller = SOK
+  add_core = SOK
+}

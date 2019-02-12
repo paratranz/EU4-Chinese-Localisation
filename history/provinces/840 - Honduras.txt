@@ -1,0 +1,42 @@
+culture = miskito
+religion = animism
+capital = "洪都拉斯"  # Honduras
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+1502.1.1 = {
+  discovered_by = CAS
+}
+1516.1.23 = {
+  discovered_by = SPA
+}
+1525.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  capital = "特鲁希略"  # Trujillo
+  culture = castillian
+  trade_goods = fish
+  religion = catholic
+  is_city = yes
+}
+1548.1.1 = {
+  unrest = 5
+}
+1549.1.1 = {
+  unrest = 0
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

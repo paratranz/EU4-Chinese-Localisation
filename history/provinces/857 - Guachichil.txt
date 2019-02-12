@@ -1,0 +1,32 @@
+owner = CCM
+controller = CCM
+add_core = CCM
+culture = chichimecan
+religion = animism
+capital = "瓜奇奇尔"  # Guachichil
+trade_goods = gold
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = mesoamerican
+1530.1.1 = {
+  discovered_by = SPA
+}
+1583.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  culture = castillian
+  religion = catholic
+  is_city = yes
+  trade_goods = gold
+}
+1591.8.21 = {
+  capital = "圣路易斯·波托西"  # San Luis Potosi
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = MEX
+}

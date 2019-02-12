@@ -1,0 +1,43 @@
+culture = zapotek
+owner = ZAP
+controller = ZAP
+add_core = ZAP
+is_city = yes
+religion = nahuatl
+capital = "索科诺齐科"  # Xoconochco
+trade_goods = cocoa
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+add_local_autonomy = 50
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+1490.1.1 = {
+  owner = AZT
+  controller = AZT
+  add_core = AZT
+}
+1521.8.13 = {
+  owner = KIC
+  controller = KIC
+}
+1524.1.1 = {
+  discovered_by = SPA
+  owner = SPA
+  controller = SPA
+}
+1529.1.1 = {
+  culture = castillian
+  religion = catholic
+}
+1549.1.1 = {
+  add_core = SPA
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

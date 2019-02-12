@@ -1,0 +1,34 @@
+owner = ZAP
+controller = ZAP
+culture = zapotek
+religion = nahuatl
+capital = "沙希拉"  # Zaachila
+trade_goods = sugar
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = ZAP
+discovered_by = mesoamerican
+1490.1.1 = {
+  owner = AZT
+  controller = AZT
+  add_core = AZT
+}
+1524.1.1 = {
+  discovered_by = SPA
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+}
+1529.1.1 = {
+  capital = "瓦哈卡"  # Oaxaca
+  culture = castillian
+  religion = catholic
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

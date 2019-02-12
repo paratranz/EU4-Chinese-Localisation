@@ -1,0 +1,55 @@
+culture = illini
+religion = totemism
+capital = "米奇加梅"  # Michigamea
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+1650.1.1 = {
+  owner = ILL
+  controller = ILL
+  add_core = ILL
+  is_city = yes
+}
+1659.1.1 = {
+  discovered_by = FRA
+}
+1701.8.14 = {
+  owner = ---
+  controller = ---
+  is_city = no
+  culture = illini
+}
+1724.1.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  is_city = yes
+  trade_goods = grain
+  religion = catholic
+  culture = cosmopolitan_french
+}
+1762.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  remove_core = FRA
+}
+1800.10.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  remove_core = SPA
+  culture = cosmopolitan_french
+}
+1803.4.3 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+  remove_core = FRA
+}

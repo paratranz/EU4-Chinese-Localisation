@@ -1,0 +1,37 @@
+owner = BAV
+controller = BAV
+add_core = BAV
+culture = bavarian
+religion = catholic
+base_tax = 3
+base_production = 3
+trade_goods = wine
+base_manpower = 1
+capital = "因戈尔施塔特"  # Ingolstadt
+is_city = yes
+hre = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1537.1.1 = {
+  fort_16th = yes
+}
+1546.1.1 = {
+  trade_goods = grain
+}
+1654.1.1 = {
+  fort_16th = no
+  fort_17th = yes
+}
+1704.8.13 = {
+  owner = HAB
+  controller = HAB
+}
+1714.9.7 = {
+  owner = BAV
+  controller = BAV
+}
+1806.7.12 = {
+  hre = no
+}

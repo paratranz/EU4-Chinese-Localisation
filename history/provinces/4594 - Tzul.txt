@@ -1,0 +1,31 @@
+owner = ITZ
+controller = ITZ
+culture = putun
+religion = mesoamerican_religion
+capital = "祖特"  # Tute
+trade_goods = cocoa
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = ITZ
+discovered_by = mesoamerican
+1522.1.1 = {
+  discovered_by = SPA
+}
+1697.3.14 = {
+  unrest = 5
+}
+1700.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  culture = castillian
+  religion = catholic
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

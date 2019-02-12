@@ -1,0 +1,64 @@
+owner = NOR
+controller = NOR
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "福洛色"  # Frösön
+add_local_autonomy = 25
+is_city = yes
+add_core = NOR
+discovered_by = eastern
+discovered_by = western
+1527.6.1 = {
+  religion = protestant
+}
+1531.11.5 = {
+  unrest = 10
+}
+1532.7.15 = {
+  unrest = 0
+}
+1536.1.1 = {
+  owner = DAN
+  controller = DAN
+  add_core = DAN
+}
+1564.2.10 = {
+  controller = SWE
+}
+1570.11.18 = {
+  controller = DAN
+}
+1611.8.1 = {
+  controller = SWE
+}
+1613.1.20 = {
+  controller = DAN
+}
+1644.2.1 = {
+  controller = SWE
+}
+1644.8.1 = {
+  controller = DAN
+}
+1645.8.13 = {
+  owner = SWE
+  controller = SWE
+  add_core = SWE
+}
+1657.11.25 = {
+  controller = DAN
+}
+1658.2.26 = {
+  controller = SWE
+}
+1690.1.1 = {
+  culture = swedish
+}
+1786.10.23 = {
+  capital = "厄斯特松德"  # Östersund
+}

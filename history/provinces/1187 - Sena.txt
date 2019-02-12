@@ -1,0 +1,64 @@
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+culture = shona
+religion = shamanism
+capital = "犀那"  # Sena
+is_city = yes
+base_manpower = 2
+trade_goods = ivory
+hre = no
+base_tax = 2
+base_production = 2
+discovered_by = east_african
+discovered_by = central_african
+1513.1.1 = {
+  discovered_by = POR
+}
+1532.1.1 = {
+  unrest = 5
+}
+1550.1.1 = {
+  unrest = 5
+}
+1569.1.1 = {
+  unrest = 8
+}
+1571.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 1
+  }
+  controller = REB
+}
+1572.1.1 = {
+  owner = POR
+  controller = POR
+  add_core = POR
+  revolt = {}
+  unrest = 8
+}
+1596.1.1 = {
+  unrest = 8
+}
+1598.1.1 = {
+  unrest = 0
+}
+1623.1.1 = {
+  unrest = 6
+}
+1624.1.1 = {
+  unrest = 0
+}
+1631.1.1 = {
+  unrest = 6
+}
+1632.1.1 = {
+  unrest = 0
+}
+1669.1.1 = {
+  unrest = 9
+}
+1672.1.1 = {
+  unrest = 0
+}

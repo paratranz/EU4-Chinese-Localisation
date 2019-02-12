@@ -1,0 +1,53 @@
+culture = powhatan
+religion = totemism
+capital = "科诺伊"  # Conoy
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+native_size = 15
+native_ferocity = 2
+native_hostileness = 7
+discovered_by = north_american
+1607.1.1 = {
+  discovered_by = ENG
+}
+1615.1.1 = {
+  discovered_by = FRA
+}
+1634.3.24 = {
+  owner = ENG
+  controller = ENG
+  add_core = ENG
+  culture = english
+  religion = protestant
+  capital = "圣玛丽城"  # St. Mary's City
+  is_city = yes
+  trade_goods = tobacco
+}
+1707.5.12 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  discovered_by = GBR
+}
+1729.7.30 = {
+  capital = "巴尔的摩"  # Baltimore
+}
+1764.7.1 = {
+  culture = american
+  unrest = 6
+}
+1776.7.4 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+}
+1782.11.1 = {
+  remove_core = GBR
+  unrest = 0
+}
+1790.1.1 = {
+  capital = "华盛顿"  # Washington
+}

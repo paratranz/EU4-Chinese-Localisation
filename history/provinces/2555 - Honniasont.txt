@@ -1,0 +1,78 @@
+culture = susquehannock
+religion = totemism
+capital = "亨瑙斯"  # Honniasont
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+extra_cost = 8
+center_of_trade = 1
+1650.1.1 = {
+  owner = HUR
+  controller = HUR
+  add_core = HUR
+  is_city = yes
+  trade_goods = fur
+}
+1656.1.1 = {
+  owner = IRO
+  controller = IRO
+  culture = iroquois
+}
+1671.1.1 = {
+  discovered_by = ENG
+}
+1707.5.12 = {
+  discovered_by = GBR
+}
+1754.4.18 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  culture = cosmopolitan_french
+  religion = catholic
+}
+1763.2.10 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  remove_core = FRA
+  culture = english
+  religion = protestant
+}
+1763.3.1 = {
+  unrest = 6
+}
+1763.10.9 = {
+  owner = IRO
+  controller = IRO
+  add_core = IRO
+  remove_core = GBR
+  is_city = yes
+  culture = iroquois
+  religion = totemism
+}
+1768.11.5 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  culture = american
+  religion = protestant
+}
+1774.1.1 = {
+  capital = "亨利堡"  # Fort Henry
+}
+1776.7.4 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+  remove_core = GBR
+}
+1782.11.1 = {
+  unrest = 0
+}

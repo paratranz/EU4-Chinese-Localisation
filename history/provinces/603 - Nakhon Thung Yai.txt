@@ -1,0 +1,28 @@
+owner = AYU
+controller = AYU
+culture = central_thai
+religion = buddhism
+capital = "那空童艾"  # Nakhon Thung Yai
+trade_goods = gems
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = AYU
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1535.1.1 = {
+  discovered_by = POR
+}
+1630.1.1 = {
+  capital = "达叻"  # Trat
+}
+1767.4.1 = {
+  unrest = 7
+}
+1774.1.1 = {
+  unrest = 0
+}

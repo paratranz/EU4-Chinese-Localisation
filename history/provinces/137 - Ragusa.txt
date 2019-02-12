@@ -1,0 +1,52 @@
+owner = RAG
+controller = RAG
+culture = croatian
+religion = catholic
+capital = "拉古萨"  # Ragusa
+trade_goods = naval_supplies
+hre = no
+base_tax = 5
+base_production = 6
+base_manpower = 3
+is_city = yes
+add_core = RAG
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 16
+center_of_trade = 2
+1806.5.26 = {
+  controller = FRA
+}
+1806.6.17 = {
+  controller = RAG
+}
+1806.7.12 = {
+  controller = FRA
+}
+1807.7.9 = {
+  owner = FRA
+  add_core = FRA
+}
+1808.1.1 = {
+  owner = ITA
+  controller = ITA
+}
+1810.1.1 = {
+  owner = FRA
+  controller = FRA
+}
+1813.9.20 = {
+  controller = HAB
+}
+1814.4.6 = {
+  owner = HAB
+  add_core = HAB
+  remove_core = FRA
+}

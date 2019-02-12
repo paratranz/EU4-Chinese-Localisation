@@ -1,0 +1,65 @@
+owner = TUR
+controller = TUR
+culture = greek
+religion = orthodox
+capital = "拉里萨"  # Larissa
+trade_goods = grain
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 2
+is_city = yes
+estate = estate_dhimmi
+add_core = BYZ
+add_core = TUR
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+1402.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 1
+  }
+  controller = REB
+}
+1403.1.1 = {
+  revolt = {}
+  owner = BYZ
+  controller = BYZ
+  remove_core = TUR
+}
+1423.1.1 = {
+  owner = VEN
+  controller = VEN
+  add_core = VEN
+}
+1430.3.29 = {
+  owner = TUR
+  controller = TUR
+  add_core = TUR
+  remove_core = VEN
+}
+1502.1.1 = {
+  remove_core = BYZ
+}
+1555.1.1 = {
+  unrest = 5
+}
+1556.1.1 = {
+  unrest = 0
+}
+1615.1.1 = {
+  base_tax = 8
+  base_production = 8
+}
+1623.1.1 = {
+  unrest = 7
+}
+1625.1.1 = {
+  unrest = 0
+}
+1750.1.1 = {
+  add_core = GRE
+}

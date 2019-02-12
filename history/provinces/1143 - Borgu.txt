@@ -1,0 +1,42 @@
+owner = MSI
+controller = MSI
+add_core = MSI
+is_city = yes
+culture = dagomba
+religion = shamanism
+capital = "布萨"  # Bussa
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = grain
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+discovered_by = sub_saharan
+1505.1.1 = {
+  unrest = 4
+}
+1506.1.1 = {
+  unrest = 0
+}
+1556.1.1 = {
+  unrest = 3
+}
+1558.1.1 = {
+  unrest = 0
+}
+1690.1.1 = {
+  unrest = 8
+}
+1700.1.1 = {
+  capital = "尼基"  # Nikki
+}
+1804.1.1 = {
+  discovered_by = SOK
+}
+1806.1.1 = {
+  owner = SOK
+  controller = SOK
+  add_core = SOK
+}

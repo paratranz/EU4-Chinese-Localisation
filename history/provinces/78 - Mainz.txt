@@ -1,0 +1,66 @@
+capital = "美因茨"  # Mainz
+culture = hessian
+religion = catholic
+trade_goods = paper
+owner = MAI
+base_tax = 5
+base_production = 5
+base_manpower = 2
+is_city = yes
+add_core = MAI
+controller = MAI
+hre = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 8
+center_of_trade = 1
+1556.4.19 = {
+  religion = protestant
+}
+1560.1.1 = {
+  fort_15th = yes
+}
+1631.12.22 = {
+  controller = SWE
+}
+1635.1.1 = {
+  controller = MAI
+}
+1644.1.1 = {
+  controller = FRA
+}
+1648.10.24 = {
+  controller = MAI
+}
+1720.1.1 = {
+  capital = "曼海姆"  # Mannheim
+}
+1792.10.1 = {
+  controller = FRA
+}
+1792.12.3 = {
+  controller = MAI
+}
+1806.7.12 = {
+  hre = no
+}
+1810.1.1 = {
+  owner = FRN
+  controller = FRN
+  add_core = FRN
+  remove_core = MAI
+  capital = "法兰克福"  # Frankfurt
+}
+1813.12.1 = {
+  owner = MAI
+  controller = MAI
+  add_core = MAI
+  remove_core = FRN
+}
+1816.1.1 = {
+  owner = HES
+  controller = HES
+  add_core = HES
+}

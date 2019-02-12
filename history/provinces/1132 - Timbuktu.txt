@@ -1,0 +1,92 @@
+owner = TMB
+controller = TMB
+add_core = TMB
+culture = tuareg
+is_city = yes
+base_manpower = 2
+religion = sunni
+capital = "廷巴克图"  # Timbuktu
+trade_goods = cloth
+hre = no
+base_tax = 8
+base_production = 8
+native_ferocity = 4
+discovered_by = sub_saharan
+discovered_by = MOR
+fort_15th = yes
+extra_cost = 16
+center_of_trade = 2
+1469.1.1 = {
+  owner = SON
+  controller = SON
+  add_core = SON
+  culture = songhai
+}
+1471.1.1 = {
+  unrest = 7
+}
+1472.1.1 = {
+  unrest = 0
+}
+1586.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1588.1.1 = {
+  revolt = {}
+  controller = SON
+  unrest = 7
+}
+1591.5.1 = {
+  owner = MOR
+  controller = MOR
+  add_core = MOR
+}
+1593.1.1 = {
+  unrest = 7
+}
+1618.1.1 = {
+  owner = TMB
+  controller = TMB
+  add_core = TMB
+  remove_core = MOR
+}
+1642.1.1 = {
+  remove_core = SON
+}
+1675.1.1 = {
+  unrest = 4
+}
+1683.1.1 = {
+  unrest = 1
+}
+1716.1.1 = {
+  unrest = 7
+}
+1720.1.1 = {
+  unrest = 0
+}
+1737.1.1 = {
+  unrest = 3
+}
+1752.1.1 = {
+  unrest = 4
+}
+1756.1.1 = {
+  unrest = 9
+}
+1757.1.1 = {
+  unrest = 2
+}
+1770.1.1 = {
+  unrest = 3
+}
+1771.1.1 = {
+  unrest = 0
+}
+1773.1.1 = {
+  unrest = 2
+}

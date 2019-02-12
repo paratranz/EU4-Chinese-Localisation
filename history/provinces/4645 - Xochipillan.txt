@@ -1,0 +1,28 @@
+culture = guamares
+religion = animism
+owner = GAM
+controller = GAM
+add_core = GAM
+is_city = yes
+capital = "索奇皮尔兰"  # Xochipillan
+trade_goods = wool
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+1532.1.1 = {
+  discovered_by = SPA
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  capital = "瓜达拉哈拉"  # Guadalajara
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = MEX
+}

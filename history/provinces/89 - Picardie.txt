@@ -1,0 +1,87 @@
+owner = FRA
+controller = FRA
+add_core = FRA
+capital = "亚眠"  # Amiens
+is_city = yes
+estate = estate_nobles
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = grain
+base_manpower = 5
+add_core = PIC
+fort_15th = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1435.1.1 = {
+  owner = BUR
+  controller = BUR
+  add_core = BUR
+  remove_core = FRA
+}
+1463.1.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+}
+1465.1.1 = {
+  owner = NEV
+  controller = NEV
+  add_core = NEV
+  remove_core = FRA
+}
+1465.7.1 = {
+  owner = BUR
+  controller = BUR
+  remove_core = NEV
+}
+1477.1.5 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  remove_core = BUR
+}
+1513.8.16 = {
+  controller = ENG
+}
+1514.5.5 = {
+  controller = FRA
+}
+1544.7.5 = {
+  controller = ENG
+}
+1546.8.1 = {
+  controller = FRA
+}
+1588.12.1 = {
+  unrest = 5
+}
+1594.1.1 = {
+  unrest = 0
+}
+1628.1.1 = {
+  unrest = 3
+}
+1630.1.1 = {
+  unrest = 0
+}
+1638.1.1 = {
+  unrest = 3
+}
+1640.1.1 = {
+  unrest = 0
+}
+1642.1.1 = {
+  unrest = 3
+}
+1644.1.1 = {
+  unrest = 0
+}
+1786.1.1 = {
+  base_tax = 5
+  base_production = 5
+}

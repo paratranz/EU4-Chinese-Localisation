@@ -1,0 +1,144 @@
+owner = HUN
+controller = HUN
+culture = transylvanian
+religion = catholic
+capital = "锡比乌"  # Sibiu
+trade_goods = cloth
+estate = estate_burghers
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+fort_15th = yes
+add_core = HUN
+add_core = TRA
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1506.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 2
+  }
+  controller = REB
+}
+1507.1.1 = {
+  revolt = {}
+  controller = HUN
+}
+1514.4.1 = {
+  revolt = {
+    type = anti_tax_rebels
+    size = 0
+  }
+  controller = REB
+}
+1514.10.1 = {
+  revolt = {}
+  controller = HUN
+}
+1526.8.30 = {
+  owner = TRA
+  controller = TRA
+  add_core = HAB
+}
+1528.1.1 = {
+  add_core = TUR
+}
+1551.7.19 = {
+  owner = HAB
+  controller = HAB
+}
+1556.10.1 = {
+  owner = TRA
+  controller = TRA
+}
+1562.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 1
+  }
+  controller = REB
+}
+1562.6.1 = {
+  remove_core = HAB
+}
+1563.1.1 = {
+  revolt = {}
+  controller = TRA
+}
+1567.1.1 = {
+  religion = reformed
+}
+1599.1.1 = {
+  owner = WAL
+  controller = WAL
+  add_core = WAL
+}
+1601.1.1 = {
+  owner = TRA
+  controller = TRA
+  remove_core = WAL
+}
+1604.1.1 = {
+  owner = HAB
+  controller = HAB
+}
+1604.10.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 1
+  }
+  controller = REB
+}
+1606.6.23 = {
+  revolt = {}
+  owner = TRA
+  controller = TRA
+}
+1699.1.26 = {
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+  remove_core = TUR
+}
+1703.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 1.5
+  }
+  controller = REB
+}
+1711.1.1 = {
+  revolt = {}
+  controller = HAB
+}
+1744.1.1 = {
+  revolt = {
+    type = heretic_rebels
+    size = 2
+  }
+  controller = REB
+}
+1745.1.1 = {
+  revolt = {}
+  controller = HAB
+}
+1784.1.1 = {
+  revolt = {
+    type = anti_tax_rebels
+    size = 2
+  }
+  controller = REB
+}
+1785.1.1 = {
+  revolt = {}
+  controller = HAB
+}

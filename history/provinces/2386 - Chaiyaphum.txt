@@ -1,0 +1,41 @@
+owner = LXA
+controller = LXA
+culture = khmer
+religion = buddhism
+capital = "猜也蓬"  # Chaiyaphum
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = LXA
+discovered_by = chinese
+discovered_by = indian
+1535.1.1 = {
+  discovered_by = POR
+}
+1579.1.1 = {
+  unrest = 5
+}
+1580.1.1 = {
+  unrest = 0
+}
+1593.1.1 = {
+  unrest = 4
+}
+1603.1.1 = {
+  unrest = 0
+}
+1694.1.1 = {
+  add_core = AYU
+}
+1707.1.1 = {
+  owner = VIE
+  controller = VIE
+  add_core = VIE
+  remove_core = LXA
+}
+1817.1.1 = {
+  culture = lao
+}

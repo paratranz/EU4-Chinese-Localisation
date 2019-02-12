@@ -1,0 +1,40 @@
+culture = piman
+religion = totemism
+capital = "萨利南"  # Salinan
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 2
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+discovered_by = north_american
+1542.1.1 = {
+  discovered_by = SPA
+}
+1579.6.16 = {
+  discovered_by = ENG
+}
+1707.5.12 = {
+  discovered_by = GBR
+}
+1770.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  is_city = yes
+  trade_goods = wool
+}
+1792.1.1 = {
+  capital = "耶尔瓦布埃纳"  # Yerba Buena
+}
+1795.1.1 = {
+  culture = castillian
+  religion = catholic
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

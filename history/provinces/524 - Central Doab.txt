@@ -1,0 +1,154 @@
+owner = DLH
+controller = DLH
+culture = kanauji
+religion = hinduism
+capital = "秣菟罗"  # Mathura
+trade_goods = silk
+hre = no
+base_tax = 10
+base_production = 10
+base_manpower = 4
+add_brahmins_or_church_effect = yes
+is_city = yes
+add_core = DLH
+add_core = JNP
+fort_15th = yes
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = chinese
+extra_cost = 16
+center_of_trade = 2
+1437.1.1 = {
+  owner = JNP
+  controller = JNP
+}
+1452.1.1 = {
+  owner = DLH
+  controller = DLH
+}
+1504.1.1 = {
+  capital = "阿格拉"  # Agra
+}
+1517.11.21 = {
+  unrest = 8
+}
+1526.4.1 = {
+  controller = TIM
+  unrest = 0
+}
+1526.4.21 = {
+  owner = MUG
+  controller = MUG
+  add_core = MUG
+  remove_core = DLH
+}
+1540.1.1 = {
+  owner = BNG
+  controller = BNG
+  add_core = BNG
+}
+1553.1.1 = {
+  owner = DLH
+  controller = DLH
+  remove_core = BNG
+}
+1555.7.23 = {
+  owner = MUG
+  controller = MUG
+}
+1556.10.7 = {
+  controller = DLH
+}
+1556.11.5 = {
+  controller = MUG
+}
+1571.1.1 = {
+  capital = "法塔赫布尔 西格里"  # Fatehpur Sikri
+}
+1573.1.1 = {
+  fort_15th = no
+  fort_16th = yes
+}
+1585.1.1 = {
+  capital = "阿拉哈巴德"  # Akbarabad
+}
+1622.6.1 = {
+  revolt = {
+    type = pretender_rebels
+    size = 3
+    name = "胡尔姆派"  # Khurrams Faction
+    leader = "沙贾汗·帖木儿"  # Shah Jahan Timurid
+  }
+}
+1622.7.1 = {
+  revolt = {}
+}
+1658.5.29 = {
+  controller = REB
+  revolt = {
+    type = pretender_rebels
+    size = 5
+    name = "奥朗则布派"  # Aurangzeb's Faction
+    leader = "奥朗则布 阿拉姆吉尔 帖木儿"  # Aurangzeb Alamgir Timurid
+  }
+}
+1658.6.8 = {
+  controller = MUG
+  revolt = {}
+}
+1669.1.1 = {
+  unrest = 6
+}
+1670.1.1 = {
+  unrest = 0
+}
+1685.1.1 = {
+  unrest = 6
+}
+1690.1.1 = {
+  discovered_by = ENG
+}
+1691.1.1 = {
+  unrest = 0
+}
+1707.3.1 = {
+  controller = REB
+  revolt = {
+    type = pretender_rebels
+    size = 4
+    leader = "穆罕默德·阿扎姆·沙·帖木儿"  # Muhammad Azam Shah Timurid
+  }
+}
+1707.5.12 = {
+  discovered_by = GBR
+}
+1707.6.13 = {
+  controller = MUG
+  revolt = {}
+}
+1714.1.1 = {
+  owner = MEW
+  controller = MEW
+  add_core = MEW
+}
+1784.1.1 = {
+  owner = GWA
+  controller = GWA
+  capital = "阿格罗"  # Agra
+}
+1803.1.1 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  add_to_trade_company = GBR
+  add_trade_company_investment = {
+    investment = permanent_quarters
+    investor = GBR
+  }
+  add_trade_company_investment = {
+    investment = military_administration
+    investor = GBR
+  }
+}

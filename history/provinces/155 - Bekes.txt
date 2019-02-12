@@ -1,0 +1,103 @@
+owner = HUN
+controller = HUN
+culture = hungarian
+religion = catholic
+capital = "久洛"  # Gyula
+trade_goods = wine
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = HUN
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1506.1.1 = {
+  revolt = {
+    type = anti_tax_rebels
+    size = 0
+  }
+  controller = REB
+}
+1507.1.1 = {
+  revolt = {}
+  controller = HUN
+}
+1514.4.1 = {
+  revolt = {
+    type = anti_tax_rebels
+    size = 2
+  }
+  controller = REB
+}
+1515.1.1 = {
+  revolt = {}
+  controller = HUN
+}
+1526.8.30 = {
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+}
+1529.9.1 = {
+  controller = TUR
+}
+1533.6.22 = {
+  owner = TRA
+  controller = TRA
+  add_core = TRA
+}
+1542.1.1 = {
+  owner = TUR
+  controller = HAB
+  remove_core = TRA
+  add_core = TUR
+}
+1543.6.1 = {
+  controller = TUR
+}
+1545.8.1 = {
+  remove_core = HAB
+}
+1567.1.1 = {
+  religion = reformed
+}
+1678.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 2
+  }
+  controller = REB
+}
+1684.1.1 = {
+  revolt = {}
+  controller = TUR
+}
+1685.1.1 = {
+  controller = HAB
+}
+1699.1.26 = {
+  owner = HAB
+  add_core = HAB
+  remove_core = TUR
+}
+1703.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 2
+  }
+  controller = REB
+}
+1705.1.1 = {
+  revolt = {}
+}
+1711.1.1 = {
+  controller = HAB
+}

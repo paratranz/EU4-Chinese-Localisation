@@ -1,0 +1,19 @@
+culture = shoshone
+religion = totemism
+capital = "比海格"  # Bohogue
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+1760.1.1 = {
+  owner = SHO
+  controller = SHO
+  add_core = SHO
+  trade_goods = wool
+  is_city = yes
+}

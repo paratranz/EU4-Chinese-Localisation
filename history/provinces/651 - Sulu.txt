@@ -1,0 +1,27 @@
+culture = filipino
+religion = sunni
+capital = "霍洛"  # Jolo
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+native_size = 70
+native_ferocity = 7
+native_hostileness = 9
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 8
+center_of_trade = 1
+1405.1.1 = {
+  owner = SUL
+  controller = SUL
+  add_core = SUL
+  is_city = yes
+  trade_goods = gems
+}
+1521.1.1 = {
+  discovered_by = SPA
+}

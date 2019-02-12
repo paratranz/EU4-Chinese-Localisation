@@ -1,0 +1,46 @@
+owner = CHM
+controller = CHM
+culture = chimuan
+religion = inti
+capital = "昌昌"  # Chanchan
+trade_goods = cocoa
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+add_core = CHM
+discovered_by = CHM
+discovered_by = south_american
+discovered_by = andean
+fort_15th = yes
+extra_cost = 8
+center_of_trade = 1
+1470.1.1 = {
+  owner = INC
+  controller = INC
+  add_core = INC
+}
+1533.8.29 = {
+  discovered_by = SPA
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  culture = castillian
+  religion = catholic
+}
+1534.1.1 = {
+  capital = "特鲁希略"  # Trujillo
+}
+1537.1.1 = {
+  unrest = 8
+}
+1538.1.1 = {
+  unrest = 5
+}
+1541.1.1 = {
+  unrest = 6
+}
+1548.1.1 = {
+  unrest = 0
+}

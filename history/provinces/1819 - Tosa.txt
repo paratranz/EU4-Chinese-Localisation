@@ -1,0 +1,43 @@
+owner = HSK
+controller = HSK
+culture = japanese
+religion = shinto
+capital = "中村"  # Nakamura
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 3
+is_city = yes
+add_core = HSK
+add_core = CSK
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+1542.1.1 = {
+  discovered_by = POR
+}
+1549.5.9 = {
+  owner = CSK
+  controller = CSK
+  remove_core = HSK
+}
+1549.5.9 = {
+  capital = "冈丰"  # Oko
+}
+1549.5.9 = {
+  fort_15th = yes
+}
+1591.1.1 = {
+  capital = "浦户"  # Urado
+}
+1600.10.21 = {
+  owner = TKG
+  controller = TKG
+  add_core = TKG
+  remove_core = CSK
+  capital = "高知"  # Kochi
+  fort_15th = no
+}

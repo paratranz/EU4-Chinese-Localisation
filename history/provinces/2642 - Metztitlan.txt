@@ -1,0 +1,29 @@
+owner = OTO
+controller = OTO
+add_core = OTO
+is_city = yes
+culture = otomi
+religion = nahuatl
+capital = "梅茨蒂特兰"  # Metztitlan
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_local_autonomy = 25
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+1521.8.13 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  culture = castillian
+  religion = catholic
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = MEX
+}

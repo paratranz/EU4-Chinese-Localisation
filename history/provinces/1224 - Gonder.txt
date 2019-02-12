@@ -1,0 +1,137 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+culture = amhara
+religion = coptic
+capital = "贡达尔"  # Gondar
+is_city = yes
+base_manpower = 2
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+extra_cost = 16
+center_of_trade = 2
+1475.1.1 = {
+  unrest = 5
+}
+1476.1.1 = {
+  unrest = 0
+}
+1535.1.1 = {
+  unrest = 7
+}
+1536.1.1 = {
+  unrest = 0
+}
+1538.1.1 = {
+  unrest = 7
+}
+1539.1.1 = {
+  unrest = 0
+}
+1540.1.1 = {
+  unrest = 7
+}
+1543.2.15 = {
+  unrest = 0
+}
+1550.1.1 = {
+  discovered_by = TUR
+}
+1580.1.1 = {
+  unrest = 5
+}
+1603.1.1 = {
+  unrest = 9
+}
+1604.10.25 = {
+  unrest = 0
+}
+1627.1.1 = {
+  unrest = 9
+}
+1630.1.1 = {
+  unrest = 0
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1631.1.1 = {
+  revolt = {}
+  controller = ETH
+  unrest = 4
+}
+1632.1.1 = {
+  unrest = 0
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1632.8.1 = {
+  revolt = {}
+  controller = ETH
+}
+1636.1.1 = {
+  capital = "贡德尔"  # Gonder
+  fort_15th = yes
+}
+1658.1.1 = {
+  unrest = 5
+}
+1659.1.1 = {
+  unrest = 0
+}
+1668.1.1 = {
+  unrest = 5
+}
+1669.1.1 = {
+  unrest = 0
+}
+1672.1.1 = {
+  unrest = 5
+}
+1673.1.1 = {
+  unrest = 0
+}
+1707.9.1 = {
+  unrest = 7
+}
+1708.7.1 = {
+  unrest = 3
+}
+1709.4.1 = {
+  unrest = 8
+}
+1710.8.1 = {
+  unrest = 3
+}
+1711.11.1 = {
+  unrest = 0
+}
+1766.1.1 = {
+  unrest = 8
+}
+1767.1.1 = {
+  unrest = 0
+}
+1768.1.1 = {
+  unrest = 5
+}
+1769.2.1 = {
+  unrest = 2
+}
+1770.1.1 = {
+  unrest = 5
+}
+1771.1.1 = {
+  unrest = 0
+}

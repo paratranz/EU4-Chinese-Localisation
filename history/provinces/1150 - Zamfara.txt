@@ -1,0 +1,48 @@
+owner = ZZZ
+controller = ZZZ
+add_core = ZZZ
+culture = hausa
+is_city = yes
+base_manpower = 1
+religion = shamanism
+capital = "杜钦"  # Dutsi
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+discovered_by = sub_saharan
+1500.1.1 = {
+  capital = "比尔宁·扎姆法拉"  # Birnin Zamfara
+}
+1517.1.1 = {
+  owner = HAU
+  controller = HAU
+  add_core = HAU
+}
+1657.1.1 = {
+  unrest = 6
+}
+1670.1.1 = {
+  religion = sunni
+}
+1687.1.1 = {
+  unrest = 6
+}
+1762.1.1 = {
+  unrest = 6
+}
+1763.1.1 = {
+  unrest = 0
+}
+1790.1.1 = {
+  unrest = 3
+}
+1804.1.1 = {
+  discovered_by = SOK
+  owner = SOK
+  controller = SOK
+  add_core = SOK
+}
+1810.1.1 = {
+  remove_core = HAU
+}

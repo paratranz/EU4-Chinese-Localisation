@@ -1,0 +1,44 @@
+culture = carib
+religion = animism
+capital = "巴巴多斯"  # Barbados
+trade_goods = unknown
+hre = no
+base_tax = 4
+base_production = 5
+base_manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostileness = 5
+1536.1.1 = {
+  discovered_by = POR
+}
+1620.1.1 = {
+  owner = ENG
+  controller = ENG
+  add_core = ENG
+  culture = english
+  religion = protestant
+  is_city = yes
+  trade_goods = sugar
+}
+1628.1.1 = {
+  capital = "布里奇顿"  # Bridgetown
+}
+1707.5.12 = {
+  discovered_by = GBR
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  remove_core = ENG
+}
+1816.4.14 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 2
+  }
+  controller = REB
+}
+1817.1.1 = {
+  revolt = {}
+  controller = GBR
+}

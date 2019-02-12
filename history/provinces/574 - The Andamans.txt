@@ -1,0 +1,93 @@
+culture = bengali
+religion = animism
+capital = "安达曼群岛"  # The Andamans
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 7
+discovered_by = indian
+1502.1.1 = {
+  discovered_by = POR
+}
+1755.12.2 = {
+  owner = DAN
+  controller = DAN
+  add_core = DAN
+  capital = "弗雷德里克群岛"  # Frederiksøerne
+  is_city = yes
+}
+1759.4.14 = {
+  is_city = no
+  native_size = 5
+  native_ferocity = 1
+  capital = "安达曼群岛"  # The Andamans
+  owner = ---
+  controller = ---
+  remove_core = DAN
+}
+1768.8.19 = {
+  owner = DAN
+  controller = DAN
+  add_core = DAN
+  is_city = yes
+  capital = "弗雷德里克群岛"  # Frederiksøerne
+}
+1778.6.1 = {
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+  capital = "特里萨"  # Theresia
+}
+1784.1.1 = {
+  owner = DAN
+  controller = DAN
+  add_core = DAN
+  remove_core = HAB
+  capital = "弗雷德里克群岛"  # Frederiksøerne
+}
+1787.1.1 = {
+  is_city = no
+  native_size = 5
+  native_ferocity = 1
+  capital = "安达曼群岛"  # The Andamans
+  owner = ---
+  controller = ---
+  remove_core = DAN
+}
+1791.1.1 = {
+  owner = DAN
+  controller = DAN
+  add_core = DAN
+  is_city = yes
+  capital = "弗雷德里克群岛"  # Frederiksøerne
+}
+1792.1.1 = {
+  is_city = no
+  native_size = 5
+  native_ferocity = 1
+  capital = "安达曼群岛"  # The Andamans
+  owner = ---
+  controller = ---
+  remove_core = DAN
+}
+1805.1.1 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  add_core = DAN
+  is_city = yes
+  capital = "弗雷德里克群岛"  # Frederiksøerne
+}
+1814.4.11 = {
+  is_city = no
+  native_size = 5
+  native_ferocity = 1
+  capital = "安达曼群岛"  # The Andamans
+  owner = ---
+  controller = ---
+  remove_core = GBR
+}

@@ -1,0 +1,82 @@
+owner = FRA
+controller = FRA
+capital = "兰斯"  # Reims
+is_city = yes
+culture = cosmopolitan_french
+religion = catholic
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = wine
+base_manpower = 4
+estate = estate_church
+add_core = CHP
+add_core = FRA
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 16
+center_of_trade = 2
+1420.5.12 = {
+  owner = ENG
+  controller = ENG
+  add_core = ENG
+}
+1429.1.1 = {
+  owner = FRA
+  controller = FRA
+  remove_core = ENG
+}
+1466.2.10 = {
+  add_core = BUR
+}
+1477.1.5 = {
+  remove_core = BUR
+}
+1562.3.1 = {
+  unrest = 7
+}
+1563.3.19 = {
+  unrest = 0
+}
+1588.12.1 = {
+  unrest = 5
+}
+1594.1.1 = {
+  unrest = 0
+}
+1621.1.1 = {
+  base_tax = 10
+  base_production = 10
+}
+1636.8.30 = {
+  controller = HAB
+}
+1636.9.25 = {
+  controller = FRA
+}
+1650.1.14 = {
+  unrest = 7
+}
+1651.4.1 = {
+  unrest = 4
+}
+1651.12.1 = {
+  unrest = 7
+}
+1652.2.15 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1652.10.21 = {
+  revolt = {}
+  controller = FRA
+}
+1773.1.1 = {
+  base_tax = 11
+  base_production = 11
+}

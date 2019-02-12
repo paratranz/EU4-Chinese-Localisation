@@ -1,0 +1,49 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = fish
+base_manpower = 2
+capital = "奥斯陆"  # Oslo
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 8
+center_of_trade = 1
+1531.11.1 = {
+  unrest = 7
+}
+1532.7.15 = {
+  unrest = 0
+}
+1536.1.1 = {
+  religion = protestant
+}
+1536.1.1 = {
+  owner = DAN
+  controller = DAN
+  add_core = DAN
+}
+1630.1.1 = {
+  trade_goods = naval_supplies
+}
+1814.1.14 = {
+  owner = SWE
+  revolt = {
+    type = nationalist_rebels
+    size = 1.5
+  }
+  controller = REB
+  remove_core = DAN
+}
+1814.5.17 = {
+  revolt = {}
+  owner = NOR
+  controller = NOR
+}

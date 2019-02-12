@@ -1,0 +1,87 @@
+owner = MLO
+controller = MLO
+culture = lombard
+religion = catholic
+hre = yes
+base_tax = 8
+base_production = 8
+trade_goods = grain
+base_manpower = 4
+capital = "克雷莫纳"  # Cremona
+is_city = yes
+add_core = MLO
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1495.1.1 = {
+  hre = no
+}
+1499.8.10 = {
+  controller = FRA
+}
+1504.1.31 = {
+  owner = FRA
+  add_core = FRA
+}
+1512.1.1 = {
+  controller = MLO
+  owner = MLO
+}
+1515.1.1 = {
+  controller = FRA
+}
+1516.8.1 = {
+  owner = FRA
+}
+1521.4.22 = {
+  controller = SPA
+}
+1522.5.1 = {
+  controller = MLO
+  owner = MLO
+}
+1526.5.22 = {
+  controller = HAB
+}
+1529.8.3 = {
+  controller = MLO
+  remove_core = FRA
+}
+1535.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+}
+1714.9.7 = {
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+  remove_core = SPA
+}
+1796.11.15 = {
+  owner = MLO
+  controller = MLO
+  remove_core = HAB
+}
+1797.6.29 = {
+  owner = ITA
+  controller = ITA
+  add_core = ITA
+}
+1806.7.12 = {
+  hre = no
+}
+1814.4.11 = {
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+  remove_core = ITA
+}
+1814.4.20 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 2
+  }
+  controller = REB
+}

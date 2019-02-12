@@ -1,0 +1,45 @@
+owner = LXA
+controller = LXA
+culture = lao
+religion = buddhism
+capital = "琅南塔"  # Luang Namtha
+trade_goods = copper
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = LXA
+discovered_by = chinese
+discovered_by = indian
+1535.1.1 = {
+  discovered_by = POR
+}
+1579.1.1 = {
+  unrest = 5
+}
+1580.1.1 = {
+  unrest = 0
+}
+1593.1.1 = {
+  unrest = 4
+}
+1603.1.1 = {
+  unrest = 0
+}
+1694.1.1 = {
+  add_core = AYU
+}
+1707.1.1 = {
+  owner = VIE
+  controller = VIE
+  add_core = VIE
+  remove_core = LXA
+  remove_core = AYU
+}
+1713.1.1 = {
+  owner = CHK
+  controller = CHK
+  add_core = CHK
+  remove_core = VIE
+}

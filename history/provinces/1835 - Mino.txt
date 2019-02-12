@@ -1,0 +1,40 @@
+owner = TKI
+controller = TKI
+culture = togoku
+religion = shinto
+capital = "稻叶山"  # Inabayama
+trade_goods = paper
+hre = no
+base_tax = 4
+base_manpower = 3
+base_production = 4
+is_city = yes
+add_core = TKI
+fort_15th = yes
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+discovered_by = ANU
+1542.1.1 = {
+  discovered_by = POR
+}
+1561.1.1 = {
+  add_core = ODA
+}
+1567.10.1 = {
+  owner = ODA
+  controller = ODA
+  remove_core = TKI
+}
+1567.10.1 = {
+  capital = "岐阜"  # Gifu
+}
+1600.10.21 = {
+  owner = TKG
+  controller = TKG
+  add_core = TKG
+  remove_core = ODA
+  fort_15th = no
+}

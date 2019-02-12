@@ -1,0 +1,62 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+culture = finnish
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+capital = "奥洛夫堡"  # Olofsborg
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+1497.3.13 = {
+  controller = DAN
+}
+1497.10.6 = {
+  controller = SWE
+}
+1501.8.1 = {
+  controller = DAN
+}
+1502.9.10 = {
+  controller = SWE
+}
+1527.6.1 = {
+  religion = protestant
+}
+1598.8.1 = {
+  controller = PLC
+}
+1599.8.16 = {
+  controller = SWE
+}
+1600.1.1 = {
+  trade_goods = naval_supplies
+}
+1639.1.1 = {
+  capital = "尼斯洛特"  # Nyslott
+}
+1714.7.29 = {
+  controller = RUS
+}
+1721.8.30 = {
+  controller = SWE
+}
+1742.9.15 = {
+  controller = RUS
+}
+1743.8.7 = {
+  controller = SWE
+}
+1808.2.21 = {
+  controller = RUS
+}
+1809.9.17 = {
+  owner = RUS
+  add_core = RUS
+  remove_core = SWE
+}

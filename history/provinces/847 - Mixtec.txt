@@ -1,0 +1,36 @@
+owner = MIX
+controller = MIX
+culture = mixtec
+religion = nahuatl
+capital = "托托佩克"  # Totopec
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+add_core = MIX
+discovered_by = MAY
+discovered_by = ZAP
+discovered_by = AZT
+1498.1.1 = {
+  capital = "胡亚卡亚克"  # Huasyacac
+}
+1524.1.1 = {
+  discovered_by = SPA
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+}
+1529.1.1 = {
+  culture = castillian
+  religion = catholic
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}
+1812.11.25 = {
+  controller = MEX
+}

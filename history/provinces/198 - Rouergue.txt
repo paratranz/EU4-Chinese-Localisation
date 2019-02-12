@@ -1,0 +1,56 @@
+owner = FRA
+controller = FRA
+capital = "罗德兹"  # Rodez
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = livestock
+base_manpower = 2
+add_local_autonomy = 25
+estate = estate_nobles
+add_core = GUY
+add_core = TOU
+add_core = FRA
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1588.12.1 = {
+  unrest = 5
+}
+1589.1.5 = {
+  owner = NAV
+  controller = NAV
+  add_core = NAV
+}
+1589.8.2 = {
+  owner = FRA
+  controller = FRA
+}
+1594.1.1 = {
+  unrest = 0
+}
+1650.1.14 = {
+  unrest = 7
+}
+1651.4.1 = {
+  unrest = 4
+}
+1651.12.1 = {
+  unrest = 7
+}
+1652.2.15 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 0
+  }
+  controller = REB
+}
+1652.10.21 = {
+  revolt = {}
+  controller = FRA
+  unrest = 0
+}

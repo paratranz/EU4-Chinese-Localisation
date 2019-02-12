@@ -1,0 +1,31 @@
+culture = miskito
+religion = animism
+capital = "莱安卡"  # Lenca
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+1525.1.1 = {
+  discovered_by = SPA
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  culture = castillian
+  religion = catholic
+  is_city = yes
+  capital = "乔卢特卡"  # Choluteca
+  trade_goods = fish
+}
+1578.1.1 = {
+  capital = "特古西加尔巴"  # Tegucigalpa
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

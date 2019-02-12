@@ -1,0 +1,34 @@
+culture = diaguita
+discovered_by = south_american
+discovered_by = andean
+religion = animism
+capital = "安托法加斯塔"  # Antofagasta
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 1
+1486.1.1 = {
+  owner = INC
+  controller = INC
+  add_core = INC
+  is_city = yes
+  trade_goods = fish
+  religion = inti
+}
+1537.1.1 = {
+  discovered_by = SPA
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  culture = castillian
+  religion = catholic
+}
+1810.9.18 = {
+  owner = CHL
+  controller = CHL
+  add_core = CHL
+}

@@ -1,0 +1,43 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+culture = sapmi
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fur
+base_manpower = 1
+add_local_autonomy = 80
+capital = "曼塞尔凯"  # Maanselkä
+is_city = yes
+discovered_by = eastern
+discovered_by = western
+1527.6.1 = {
+  religion = protestant
+}
+1598.8.1 = {
+  controller = PLC
+}
+1599.7.15 = {
+  controller = SWE
+}
+1651.3.6 = {
+  trade_goods = naval_supplies
+  add_local_autonomy = -40
+  capital = "卡亚尼"  # Kaajani
+}
+1742.11.5 = {
+  controller = RUS
+}
+1743.8.7 = {
+  controller = SWE
+}
+1808.9.14 = {
+  controller = RUS
+}
+1809.9.17 = {
+  owner = RUS
+  add_core = RUS
+  remove_core = SWE
+}

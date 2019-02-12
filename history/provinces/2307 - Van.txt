@@ -1,0 +1,66 @@
+owner = BTL
+controller = BTL
+culture = armenian
+religion = coptic
+capital = "凡城"  # Van
+trade_goods = wool
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = BTL
+add_core = ARM
+discovered_by = east_african
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = nomad_group
+1453.1.1 = {
+  discovered_by = western
+}
+1469.2.4 = {
+  owner = AKK
+  controller = AKK
+  add_core = AKK
+  remove_core = QAR
+}
+1496.2.8 = {
+  controller = REB
+  revolt = {
+    type = pretender_rebels
+    size = 1
+    name = "卡西姆 贾汉吉尔派"  # Qasim Jahangir's Faction
+    leader = "卡西姆贾汉吉尔白羊"  # Qasim Jahangir Ak Koyunlu
+  }
+}
+1507.1.1 = {
+  owner = PER
+  controller = PER
+  add_core = PER
+  revolt = {}
+  remove_core = AKK
+}
+1514.8.23 = {
+  add_core = TUR
+}
+1534.7.1 = {
+  controller = TUR
+}
+1535.1.1 = {
+  controller = PER
+}
+1548.8.25 = {
+  controller = TUR
+}
+1549.12.1 = {
+  owner = TUR
+  remove_core = PER
+}
+1722.1.1 = {
+  unrest = 5
+}
+1730.1.1 = {
+  unrest = 0
+}

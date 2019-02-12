@@ -1,0 +1,73 @@
+owner = TUN
+controller = TUN
+culture = tunisian
+religion = sunni
+capital = "突尼斯"  # Tunis
+trade_goods = cloth
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 2
+is_city = yes
+add_core = TUN
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 16
+center_of_trade = 2
+1489.1.1 = {
+  unrest = 4
+}
+1490.1.1 = {
+  unrest = 0
+}
+1534.8.16 = {
+  owner = ALG
+  controller = ALG
+  add_core = ALG
+}
+1535.6.11 = {
+  owner = TUN
+  controller = TUN
+  remove_core = ALG
+}
+1569.1.1 = {
+  owner = ALG
+  controller = ALG
+  add_core = ALG
+}
+1573.1.1 = {
+  owner = TUN
+  controller = TUN
+  remove_core = ALG
+}
+1574.1.1 = {
+  owner = ALG
+  controller = ALG
+  add_core = ALG
+}
+1591.1.1 = {
+  unrest = 6
+}
+1592.1.1 = {
+  unrest = 0
+}
+1593.1.1 = {
+  owner = TUN
+  controller = TUN
+  remove_core = ALG
+}
+1702.1.1 = {
+  unrest = 4
+  add_core = ALG
+}
+1703.1.1 = {
+  unrest = 0
+}
+1735.1.1 = {
+  unrest = 6
+}
+1756.1.1 = {
+  unrest = 0
+}

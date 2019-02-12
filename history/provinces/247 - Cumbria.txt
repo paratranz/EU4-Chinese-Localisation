@@ -1,0 +1,68 @@
+owner = ENG
+controller = ENG
+culture = english
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = wool
+base_manpower = 1
+capital = "卡莱尔"  # Carlisle
+is_city = yes
+add_core = ENG
+add_core = NOL
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+1453.1.1 = {
+  unrest = 5
+}
+1461.6.1 = {
+  unrest = 2
+}
+1467.1.1 = {
+  unrest = 5
+}
+1471.1.1 = {
+  unrest = 8
+}
+1471.5.4 = {
+  unrest = 2
+}
+1483.6.26 = {
+  unrest = 8
+}
+1485.8.23 = {
+  unrest = 0
+}
+1575.1.1 = {
+  base_tax = 4
+  base_production = 4
+}
+1585.1.1 = {
+  religion = protestant
+}
+1645.6.28 = {
+  controller = SCO
+}
+1646.5.5 = {
+  controller = ENG
+}
+1648.4.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 3
+  }
+  controller = REB
+}
+1648.8.25 = {
+  revolt = {}
+  controller = ENG
+}
+1707.5.12 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  remove_core = ENG
+}

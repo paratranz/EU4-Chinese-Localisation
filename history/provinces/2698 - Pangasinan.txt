@@ -1,0 +1,33 @@
+culture = filipino
+religion = animism
+capital = "比纳拉贡"  # Binalatongan
+trade_goods = salt
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+owner = PGS
+controller = PGS
+add_core = PGS
+discovered_by = chinese
+extra_cost = 8
+center_of_trade = 1
+1521.1.1 = {
+  discovered_by = SPA
+}
+1576.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+}
+1762.10.6 = {
+  controller = GBR
+  unrest = 6
+}
+1763.2.10 = {
+  controller = SPA
+}
+1763.9.10 = {
+  unrest = 0
+}

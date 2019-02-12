@@ -1,0 +1,31 @@
+culture = chickasaw
+religion = totemism
+capital = "彭尼利尔"  # Pennyrile
+trade_goods = grain
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 6
+discovered_by = north_american
+1650.1.1 = {
+  owner = CHI
+  controller = CHI
+  add_core = CHI
+  is_city = yes
+}
+1682.1.1 = {
+  discovered_by = FRA
+}
+1750.1.1 = {
+  discovered_by = GBR
+}
+1786.1.10 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+  culture = american
+  religion = protestant
+}

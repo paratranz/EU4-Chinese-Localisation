@@ -1,0 +1,59 @@
+owner = LIV
+controller = LIV
+add_core = LIV
+culture = latvian
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "库尔迪加"  # Goldingen
+estate = estate_church
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1561.1.1 = {
+  owner = KUR
+  controller = KUR
+  add_core = KUR
+  remove_core = LIV
+  religion = protestant
+}
+1621.10.3 = {
+  controller = SWE
+}
+1622.6.25 = {
+  controller = KUR
+}
+1625.9.24 = {
+  controller = SWE
+}
+1629.9.16 = {
+  controller = KUR
+}
+1655.8.5 = {
+  controller = SWE
+}
+1656.6.15 = {
+  controller = KUR
+}
+1658.9.29 = {
+  controller = SWE
+}
+1659.7.23 = {
+  controller = KUR
+}
+1701.7.20 = {
+  controller = SWE
+}
+1705.8.25 = {
+  controller = KUR
+}
+1795.10.24 = {
+  owner = RUS
+  controller = RUS
+  add_core = RUS
+}

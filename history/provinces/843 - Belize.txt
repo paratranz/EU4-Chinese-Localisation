@@ -1,0 +1,42 @@
+owner = CTM
+controller = CTM
+culture = yucatec
+religion = mesoamerican_religion
+capital = "查克特马尔"  # Chactemal
+trade_goods = sugar
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+add_local_autonomy = 25
+add_core = CTM
+discovered_by = mesoamerican
+1502.1.1 = {
+  discovered_by = CAS
+}
+1516.1.23 = {
+  discovered_by = SPA
+}
+1547.1.1 = {
+  owner = ITZ
+  controller = ITZ
+  add_core = ITZ
+}
+1638.1.1 = {
+  owner = ENG
+  controller = ENG
+  add_core = ENG
+  culture = english
+  religion = protestant
+}
+1650.1.1 = {
+  capital = "伯利兹城"  # Belize Town
+}
+1707.5.12 = {
+  discovered_by = GBR
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  remove_core = ENG
+}

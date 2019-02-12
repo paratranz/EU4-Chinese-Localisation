@@ -1,0 +1,58 @@
+owner = SWE
+controller = SWE
+add_core = SWE
+add_core = FIN
+culture = finnish
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = naval_supplies
+base_manpower = 2
+capital = "博格"  # Borgå
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+1487.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 0
+  }
+  controller = REB
+}
+1487.5.24 = {
+  revolt = {}
+  controller = SWE
+}
+1527.6.1 = {
+  religion = protestant
+}
+1550.1.1 = {
+  trade_goods = grain
+}
+1598.8.1 = {
+  controller = PLC
+}
+1599.8.4 = {
+  controller = SWE
+}
+1713.5.30 = {
+  controller = RUS
+}
+1721.8.30 = {
+  controller = SWE
+}
+1742.8.24 = {
+  controller = RUS
+}
+1743.8.7 = {
+  controller = SWE
+}
+1808.5.3 = {
+  controller = RUS
+}
+1809.9.17 = {
+  owner = RUS
+  add_core = RUS
+  remove_core = SWE
+}

@@ -1,0 +1,81 @@
+owner = ASS
+controller = ASS
+culture = assamese
+religion = hinduism
+capital = "查莱碉"  # Charaideo
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = ASS
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = chinese
+1540.1.1 = {
+  capital = "古尔冈"  # Garhgaon
+  fort_15th = yes
+}
+1627.1.1 = {
+  discovered_by = POR
+}
+1707.1.1 = {
+  capital = "朗布尔"  # Rangpur
+}
+1769.9.15 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+    name = "莫兰叛军"  # Moran Rebels
+    leader = "拉格新"  # Ragh Neog
+  }
+}
+1769.11.21 = {
+  controller = REB
+}
+1770.4.11 = {
+  controller = ASS
+  revolt = {}
+  unrest = 15
+}
+1788.1.19 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+    name = "莫兰叛军"  # Moran Rebels
+  }
+  capital = "焦尔哈德"  # Jorhat
+}
+1792.11.24 = {
+  revolt = {}
+  unrest = 0
+}
+1817.3.27 = {
+  controller = TAU
+}
+1817.4.1 = {
+  controller = ASS
+}
+1819.3.11 = {
+  controller = TAU
+}
+1820.1.27 = {
+  controller = ASS
+}
+1821.3.1 = {
+  controller = TAU
+  owner = TAU
+}
+1821.12.1 = {
+  controller = ASS
+  owner = ASS
+}
+1822.4.1 = {
+  controller = TAU
+  owner = TAU
+}
+1826.1.1 = {
+  owner = ASS
+  controller = ASS
+}

@@ -1,0 +1,34 @@
+owner = AVI
+controller = AVI
+capital = "阿维农"  # Avignon
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = cloth
+base_manpower = 4
+add_core = AVI
+add_core = PRO
+fort_15th = yes
+extra_cost = 8
+center_of_trade = 1
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1417.10.18 = {
+  owner = PAP
+  controller = PAP
+  add_core = PAP
+  estate = estate_church
+}
+1670.1.1 = {
+  add_core = FRA
+}
+1791.9.14 = {
+  owner = FRA
+  controller = FRA
+  remove_core = PAP
+}

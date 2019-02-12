@@ -1,0 +1,83 @@
+owner = TIM
+controller = TIM
+culture = gulf_arabic
+religion = shiite
+capital = "贡布伦"  # Gamrun
+trade_goods = spices
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 1
+is_city = yes
+add_core = ORM
+add_core = TIM
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+discovered_by = nomad_group
+extra_cost = 8
+center_of_trade = 1
+1449.2.1 = {
+  owner = KHO
+  controller = KHO
+  remove_core = TIM
+}
+1458.12.22 = {
+  controller = TIM
+  owner = TIM
+  add_core = TIM
+}
+1469.2.4 = {
+  controller = AKK
+  owner = AKK
+  add_core = AKK
+  remove_core = TIM
+}
+1488.1.1 = {
+  discovered_by = POR
+}
+1496.2.8 = {
+  controller = REB
+  revolt = {
+    type = pretender_rebels
+    size = 0
+    name = "穆罕默德派"  # Muhammad's Faction
+    leader = "穆罕默德白羊"  # Muhammad Ak Koyunlu
+  }
+}
+1501.7.1 = {
+  controller = AKK
+  revolt = {}
+}
+1504.1.1 = {
+  owner = PER
+  add_core = PER
+  controller = PER
+  remove_core = KHO
+}
+1550.1.1 = {
+  discovered_by = TUR
+}
+1614.1.1 = {
+  capital = "阿巴斯港"  # Bandar-e Abbas
+}
+1622.2.9 = {
+  extra_cost = 16
+  center_of_trade = 2
+}
+1673.1.1 = {
+  discovered_by = ENG
+}
+1707.5.12 = {
+  discovered_by = GBR
+}
+1747.1.1 = {
+  unrest = 3
+}
+1748.1.1 = {
+  unrest = 4
+}
+1779.1.1 = {
+  unrest = 0
+}

@@ -1,0 +1,67 @@
+owner = DAI
+controller = DAI
+culture = vietnamese
+religion = mahayana
+capital = "东京"  # Dong Kinh
+trade_goods = chinaware
+hre = no
+base_tax = 7
+base_production = 7
+base_manpower = 4
+fort_15th = yes
+is_city = yes
+add_core = DAI
+extra_cost = 8
+center_of_trade = 1
+discovered_by = chinese
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+1509.1.1 = {
+  revolt = {
+    type = noble_rebels
+    size = 1
+  }
+  controller = REB
+}
+1510.1.1 = {
+  revolt = {}
+  controller = DAI
+}
+1520.1.1 = {
+  unrest = 10
+}
+1524.1.1 = {
+  unrest = 0
+}
+1592.1.1 = {
+  owner = TOK
+  controller = TOK
+  add_core = TOK
+}
+1655.1.1 = {
+  discovered_by = SPA
+}
+1730.1.1 = {
+  unrest = 5
+}
+1731.1.1 = {
+  unrest = 0
+}
+1786.6.1 = {
+  owner = DAI
+  controller = DAI
+  add_core = DAI
+  remove_core = TOK
+}
+1787.7.1 = {
+  add_core = QNG
+}
+1789.1.5 = {
+  remove_core = QNG
+}
+1802.7.22 = {
+  owner = ANN
+  controller = ANN
+  remove_core = DAI
+}

@@ -1,0 +1,41 @@
+owner = CHT
+controller = CHT
+is_city = yes
+add_core = CHT
+culture = highland_mayan
+religion = mesoamerican_religion
+capital = "卓特利"  # Chortli
+trade_goods = naval_supplies
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+1502.1.1 = {
+  discovered_by = CAS
+}
+1516.1.23 = {
+  discovered_by = SPA
+}
+1524.1.1 = {
+  capital = "特里温福·德·拉·克鲁斯"  # Triunfo de la Cruz
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  culture = castillian
+  religion = catholic
+}
+1525.1.1 = {
+  capital = "纳维达"  # La Navidad
+}
+1536.1.1 = {
+  capital = "卡巴约斯港"  # Puerto de Caballos
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

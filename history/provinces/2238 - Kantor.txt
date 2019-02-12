@@ -1,0 +1,22 @@
+owner = MAL
+controller = MAL
+add_core = MAL
+add_core = KBU
+estate = estate_nobles
+is_city = yes
+culture = senegambian
+religion = shamanism
+capital = "苏图克"  # Sutuco
+trade_goods = ivory
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = sub_saharan
+add_local_autonomy = 50
+1537.1.1 = {
+  owner = KBU
+  controller = KBU
+  add_core = KBU
+  remove_core = MAL
+}

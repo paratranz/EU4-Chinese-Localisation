@@ -1,0 +1,52 @@
+culture = guajiro
+discovered_by = south_american
+religion = animism
+capital = "卡宴"  # Cayenne
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 15
+native_ferocity = 2
+native_hostileness = 3
+1498.1.1 = {
+  discovered_by = CAS
+}
+1516.1.23 = {
+  discovered_by = SPA
+}
+1604.1.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  is_city = yes
+  culture = cosmopolitan_french
+  religion = catholic
+  trade_goods = sugar
+}
+1654.1.1 = {
+  owner = NED
+  controller = NED
+  add_core = NED
+  remove_core = FRA
+  culture = dutch
+  religion = reformed
+}
+1667.1.1 = {
+  controller = ENG
+}
+1667.7.31 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  remove_core = NED
+  culture = cosmopolitan_french
+  religion = catholic
+}
+1676.1.1 = {
+  controller = NED
+}
+1677.1.1 = {
+  controller = FRA
+}

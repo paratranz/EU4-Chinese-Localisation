@@ -1,0 +1,29 @@
+culture = piman
+religion = totemism
+capital = "奥帕塔"  # Opata
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 5
+discovered_by = mesoamerican
+1540.1.1 = {
+  discovered_by = SPA
+}
+1577.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  is_city = yes
+  culture = castillian
+  religion = catholic
+  trade_goods = wool
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

@@ -1,0 +1,55 @@
+owner = KAZ
+controller = KAZ
+capital = "保加尔"  # Bolgar
+culture = kazani
+religion = sunni
+trade_goods = iron
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+add_core = KAZ
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+discovered_by = ottoman
+1552.10.2 = {
+  owner = RUS
+  controller = RUS
+  add_core = RUS
+  remove_core = KAZ
+}
+1648.1.1 = {
+  culture = russian
+  religion = orthodox
+  capital = "辛比尔斯克"  # Simbirsk
+}
+1670.3.1 = {
+  revolt = {
+    type = anti_tax_rebels
+    size = 3
+    name = "斯捷潘拉辛"  # Stepan Razin
+  }
+  controller = REB
+  unrest = 6
+}
+1671.4.14 = {
+  revolt = {}
+  controller = RUS
+  unrest = 0
+}
+1773.9.13 = {
+  revolt = {
+    type = anti_tax_rebels
+    size = 2
+    name = "叶梅利扬普加乔夫"  # Yemelyan Pugachev
+  }
+  controller = REB
+  unrest = 6
+}
+1775.2.1 = {
+  revolt = {}
+  controller = RUS
+  unrest = 0
+}

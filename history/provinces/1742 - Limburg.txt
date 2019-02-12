@@ -1,0 +1,60 @@
+owner = GEL
+controller = GEL
+add_core = GEL
+is_city = yes
+capital = "鲁尔蒙德"  # Roermond
+culture = flemish
+religion = catholic
+hre = yes
+base_tax = 5
+base_production = 5
+trade_goods = cloth
+base_manpower = 4
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1473.2.23 = {
+  owner = BUR
+  controller = BUR
+  add_core = BUR
+}
+1477.1.5 = {
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+  remove_core = BUR
+}
+1492.1.1 = {
+  owner = GEL
+  controller = GEL
+}
+1543.9.7 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  remove_core = HAB
+}
+1713.4.11 = {
+  owner = PRU
+  controller = PRU
+  add_core = PRU
+  capital = "盖尔登"  # Geldern
+}
+1797.12.26 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  remove_core = HAB
+  capital = "鲁尔蒙德"  # Roermond
+}
+1806.7.12 = {
+  hre = no
+}
+1815.3.16 = {
+  owner = NED
+  controller = NED
+  add_core = NED
+  remove_core = FRA
+  capital = "林堡"  # Limburg
+}

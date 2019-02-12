@@ -1,0 +1,35 @@
+owner = MHX
+controller = MHX
+add_core = MHX
+culture = manchu
+religion = tengri_pagan_reformed
+capital = "阿勒楚喀"  # Alchuka
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+estate = estate_nomadic_tribes
+discovered_by = chinese
+discovered_by = nomad_group
+1613.2.1 = {
+  owner = MJZ
+  controller = MJZ
+  add_core = MJZ
+}
+1616.1.1 = {
+  owner = MCH
+  controller = MCH
+  add_core = MCH
+  remove_core = MJZ
+}
+1636.5.15 = {
+  owner = QNG
+  controller = QNG
+  add_core = QNG
+  remove_core = MCH
+}
+1709.1.1 = {
+  discovered_by = SPA
+}

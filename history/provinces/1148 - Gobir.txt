@@ -1,0 +1,69 @@
+owner = KTS
+controller = KTS
+add_core = KTS
+culture = hausa
+is_city = yes
+base_manpower = 3
+religion = sunni
+capital = "比尔宁·拉勒"  # Birnin Lalle
+trade_goods = iron
+hre = no
+base_tax = 3
+base_production = 3
+discovered_by = sub_saharan
+1514.1.1 = {
+  owner = SON
+  controller = SON
+  add_core = SON
+}
+1515.1.1 = {
+  owner = HAU
+  controller = HAU
+  add_core = HAU
+}
+1592.1.1 = {
+  unrest = 7
+  capital = "希萨托"  # Hisatau
+}
+1670.1.1 = {
+  unrest = 6
+}
+1687.1.1 = {
+  capital = "瓜拉姆-拉马"  # Gwaran Rama
+}
+1689.1.1 = {
+  unrest = 6
+}
+1742.1.1 = {
+  unrest = 5
+}
+1743.1.1 = {
+  unrest = 0
+}
+1751.1.1 = {
+  unrest = 5
+}
+1752.1.1 = {
+  unrest = 0
+}
+1760.1.1 = {
+  unrest = 7
+}
+1761.1.1 = {
+  unrest = 0
+}
+1790.1.1 = {
+  unrest = 3
+}
+1804.1.1 = {
+  discovered_by = SOK
+  owner = SOK
+  controller = SOK
+  add_core = SOK
+}
+1809.1.1 = {
+  capital = "索克托"  # Sokoto
+}
+1810.1.1 = {
+  remove_core = HAU
+}

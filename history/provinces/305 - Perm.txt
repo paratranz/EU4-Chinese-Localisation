@@ -1,0 +1,29 @@
+owner = KAZ
+controller = KAZ
+culture = uralic
+religion = tengri_pagan_reformed
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = copper
+base_manpower = 3
+capital = "雅各希哈"  # Yagoshiha
+is_city = yes
+add_core = KAZ
+add_core = PRM
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+1552.10.2 = {
+  owner = RUS
+  controller = RUS
+  add_core = RUS
+  remove_core = KAZ
+}
+1553.1.1 = {
+  culture = russian
+  religion = orthodox
+}
+1720.3.20 = {
+  capital = "彼尔姆"  # Perm
+}

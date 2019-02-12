@@ -1,0 +1,46 @@
+owner = NEV
+controller = NEV
+capital = "讷韦尔"  # Nevers
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = no
+base_tax = 5
+base_production = 5
+trade_goods = livestock
+base_manpower = 3
+add_core = NEV
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1539.1.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  remove_core = NEV
+}
+1588.12.1 = {
+  unrest = 5
+}
+1594.1.1 = {
+  unrest = 0
+}
+1639.1.1 = {
+  unrest = 3
+}
+1641.1.1 = {
+  unrest = 0
+}
+1650.1.14 = {
+  unrest = 7
+}
+1651.4.1 = {
+  unrest = 4
+}
+1651.12.1 = {
+  unrest = 7
+}
+1652.10.21 = {
+  unrest = 0
+}

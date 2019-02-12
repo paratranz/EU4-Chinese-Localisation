@@ -1,0 +1,50 @@
+owner = MLI
+controller = MLI
+add_core = MLI
+culture = swahili
+religion = sunni
+capital = "马林迪"  # Malindi
+is_city = yes
+base_manpower = 2
+trade_goods = iron
+hre = no
+base_tax = 4
+base_production = 4
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = central_african
+extra_cost = 8
+center_of_trade = 1
+1498.4.16 = {
+  discovered_by = POR
+}
+1578.1.1 = {
+  unrest = 5
+}
+1585.1.1 = {
+  unrest = 7
+}
+1589.1.1 = {
+  unrest = 7
+}
+1590.1.1 = {
+  unrest = 0
+}
+1600.1.1 = {
+  discovered_by = TUR
+}
+1650.1.1 = {
+  trade_goods = grain
+}
+1729.10.1 = {
+  discovered_by = OMA
+  owner = OMA
+  controller = OMA
+}
+1746.1.1 = {
+  owner = MBA
+  controller = MBA
+  add_core = MBA
+}

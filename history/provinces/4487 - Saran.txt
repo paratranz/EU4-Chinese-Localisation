@@ -1,0 +1,104 @@
+owner = JNP
+controller = JNP
+culture = bihari
+religion = "hinduism"
+capital = "萨兰"  # Saran
+trade_goods = cotton
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+is_city = yes
+add_core = JNP
+estate = estate_dhimmi
+discovered_by = indian
+discovered_by = nomad_group
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = chinese
+1486.1.1 = {
+  owner = DLH
+  controller = DLH
+  add_core = DLH
+}
+1526.4.1 = {
+  controller = TIM
+}
+1526.4.21 = {
+  owner = BNG
+  controller = REB
+  revolt = {
+    type = anti_tax_rebels
+    name = "无地贵族"  # Landless Nobles
+  }
+}
+1538.1.1 = {
+  controller = BNG
+  add_core = BNG
+  remove_core = DLH
+  revolt = {}
+}
+1553.1.1 = {
+  owner = JNP
+  controller = JNP
+  remove_core = BNG
+}
+1561.5.1 = {
+  controller = MUG
+}
+1562.1.1 = {
+  owner = MUG
+  add_core = MUG
+}
+1622.10.1 = {
+  controller = REB
+  revolt = {
+    type = pretender_rebels
+    size = 2
+    name = "胡尔姆派"  # Khurrams Faction
+    leader = "沙贾汗·帖木儿"  # Shah Jahan Timurid
+  }
+}
+1623.5.1 = {
+  controller = MUG
+  revolt = {}
+}
+1658.1.1 = {
+  controller = REB
+  revolt = {
+    type = pretender_rebels
+    size = 0
+    name = "穆罕默德·舒贾别派"  # Muhammed Shuja's Faction
+    leader = "穆罕默德·舒贾别·帖木儿"  # Muhammed Shuja Timurid
+  }
+}
+1658.2.14 = {
+  controller = MUG
+  revolt = {}
+}
+1690.1.1 = {
+  discovered_by = ENG
+}
+1707.5.12 = {
+  discovered_by = GBR
+}
+1724.1.1 = {
+  owner = ODH
+  controller = ODH
+  add_core = ODH
+  remove_core = MUG
+}
+1738.1.1 = {
+  owner = JNP
+  controller = JNP
+}
+1765.1.1 = {
+  owner = ODH
+  controller = ODH
+}
+1794.1.1 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  remove_core = ODH
+}

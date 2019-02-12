@@ -1,0 +1,85 @@
+owner = MLI
+controller = MLI
+add_core = MLI
+culture = swahili
+religion = sunni
+capital = "拉穆"  # Lamu
+is_city = yes
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 3
+base_production = 3
+add_local_autonomy = 35
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = central_african
+1499.1.1 = {
+  discovered_by = POR
+}
+1543.1.1 = {
+  unrest = 4
+}
+1544.1.1 = {
+  unrest = 0
+}
+1550.1.1 = {
+  discovered_by = TUR
+}
+1585.1.1 = {
+  unrest = 4
+}
+1586.1.1 = {
+  owner = TUR
+  controller = TUR
+}
+1588.1.1 = {
+  owner = MLI
+  controller = MLI
+}
+1603.1.1 = {
+  unrest = 7
+}
+1604.1.1 = {
+  unrest = 0
+}
+1635.1.1 = {
+  unrest = 7
+}
+1637.1.1 = {
+  owner = POR
+  controller = POR
+  add_core = POR
+  unrest = 3
+}
+1638.1.1 = {
+  unrest = 0
+}
+1689.1.1 = {
+  owner = MLI
+  controller = MLI
+  remove_core = POR
+}
+1700.1.1 = {
+  discovered_by = OMA
+}
+1728.1.1 = {
+  owner = POR
+  controller = POR
+}
+1729.7.1 = {
+  owner = OMA
+  controller = OMA
+  add_core = OMA
+}
+1750.1.1 = {
+  unrest = 4
+}
+1759.1.1 = {
+  unrest = 8
+}
+1781.1.1 = {
+  unrest = 6
+}

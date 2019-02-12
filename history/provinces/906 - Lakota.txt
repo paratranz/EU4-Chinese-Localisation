@@ -1,0 +1,30 @@
+culture = dakota
+religion = totemism
+capital = "拉科塔"  # Lakota
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 25
+native_ferocity = 2
+native_hostileness = 8
+discovered_by = north_american
+1710.1.1 = {
+  owner = CHY
+  controller = CHY
+  add_core = CHY
+  is_city = yes
+  trade_goods = fur
+  culture = cheyenne
+}
+1738.1.1 = {
+  discovered_by = FRA
+}
+1760.1.1 = {
+  owner = SIO
+  controller = SIO
+  add_core = SIO
+  culture = dakota
+  is_city = yes
+}

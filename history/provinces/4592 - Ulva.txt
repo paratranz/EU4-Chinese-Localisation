@@ -1,0 +1,33 @@
+culture = miskito
+religion = animism
+capital = "乌尔瓦"  # Ulva
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+1502.1.1 = {
+  discovered_by = CAS
+}
+1516.1.23 = {
+  discovered_by = SPA
+}
+1523.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  capital = "马那瓜"  # Managua
+  culture = castillian
+  religion = catholic
+  is_city = yes
+  trade_goods = coffee
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

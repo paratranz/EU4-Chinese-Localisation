@@ -1,0 +1,27 @@
+culture = guamares
+religion = animism
+owner = GAM
+controller = GAM
+add_core = GAM
+is_city = yes
+capital = "普希奇奈"  # Pechichitane
+trade_goods = gold
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = mesoamerican
+1548.1.1 = {
+  discovered_by = SPA
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  culture = castillian
+  capital = "瓜纳华托"  # Guanajuato
+  religion = catholic
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = MEX
+}

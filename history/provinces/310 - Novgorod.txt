@@ -1,0 +1,50 @@
+owner = NOV
+controller = NOV
+culture = novgorodian
+religion = orthodox
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = fur
+base_manpower = 6
+capital = "诺夫哥罗德"  # Novgorod
+is_city = yes
+fort_15th = yes
+add_core = NOV
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+extra_cost = 16
+center_of_trade = 2
+1478.1.15 = {
+  owner = MOS
+  controller = MOS
+  add_core = MOS
+  remove_core = NOV
+}
+1484.1.1 = {
+  unrest = 6
+}
+1489.1.1 = {
+  unrest = 0
+}
+1503.4.1 = {
+  owner = RUS
+  controller = RUS
+  add_core = RUS
+  remove_core = MOS
+}
+1598.1.7 = {
+  unrest = 5
+}
+1611.7.16 = {
+  controller = SWE
+}
+1615.1.1 = {
+  base_tax = 5
+  base_production = 5
+}
+1617.2.27 = {
+  controller = RUS
+  unrest = 0
+}

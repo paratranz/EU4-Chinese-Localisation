@@ -1,0 +1,56 @@
+owner = LIV
+controller = LIV
+culture = latvian
+religion = catholic
+capital = "费林"  # Fellin
+trade_goods = livestock
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = LIV
+add_core = LVA
+discovered_by = western
+discovered_by = eastern
+1542.1.1 = {
+  religion = protestant
+}
+1561.1.1 = {
+  owner = LIT
+  controller = LIT
+  add_core = LIT
+  remove_core = LIV
+}
+1569.7.1 = {
+  owner = PLC
+  controller = PLC
+  add_core = PLC
+}
+1575.7.1 = {
+  controller = RUS
+}
+1582.1.15 = {
+  controller = PLC
+}
+1600.12.31 = {
+  controller = SWE
+}
+1603.4.5 = {
+  controller = PLC
+}
+1625.8.21 = {
+  controller = SWE
+}
+1629.9.16 = {
+  owner = SWE
+  controller = SWE
+  add_core = SWE
+  remove_core = PLC
+}
+1721.8.30 = {
+  owner = RUS
+  controller = RUS
+  add_core = RUS
+  remove_core = SWE
+}

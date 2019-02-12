@@ -1,0 +1,33 @@
+culture = miskito
+religion = animism
+capital = "尼加拉瓜"  # Nicaragua
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 20
+native_ferocity = 2
+native_hostileness = 5
+discovered_by = mesoamerican
+1502.1.1 = {
+  discovered_by = CAS
+}
+1516.1.23 = {
+  discovered_by = SPA
+}
+1523.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  capital = "利昂"  # Leon
+  culture = castillian
+  religion = catholic
+  is_city = yes
+  trade_goods = coffee
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

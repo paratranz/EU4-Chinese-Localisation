@@ -1,0 +1,34 @@
+culture = miskito
+religion = animism
+capital = "奥兰乔"  # Olancho
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+1530.1.1 = {
+  discovered_by = SPA
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  culture = castillian
+  religion = catholic
+  capital = "奥科特佩克"  # Ocotepoque
+  is_city = yes
+  trade_goods = cocoa
+}
+1534.1.1 = {
+  capital = "格拉西亚斯"  # Gracias
+}
+1537.1.1 = {
+  capital = "科马亚瓜"  # Comayagua
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

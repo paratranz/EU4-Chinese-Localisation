@@ -1,0 +1,28 @@
+owner = POR
+controller = POR
+culture = portugese
+religion = catholic
+capital = "法鲁"  # Faro
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+add_core = POR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+1640.1.1 = {
+  unrest = 8
+}
+1640.12.1 = {
+  unrest = 0
+}
+1807.11.30 = {
+  controller = FRA
+}
+1808.6.18 = {
+  controller = POR
+}

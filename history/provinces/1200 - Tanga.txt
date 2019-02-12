@@ -1,0 +1,42 @@
+owner = MBA
+controller = MBA
+add_core = MBA
+culture = swahili
+religion = shamanism
+capital = "库温巴"  # Vumba Kuu
+is_city = yes
+base_manpower = 2
+add_local_autonomy = 35
+trade_goods = ivory
+hre = no
+base_tax = 2
+base_production = 2
+discovered_by = east_african
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = central_african
+1498.4.1 = {
+  discovered_by = POR
+}
+1589.6.1 = {
+  owner = ZAN
+  controller = ZAN
+  add_core = ZAN
+}
+1600.1.1 = {
+  discovered_by = TUR
+}
+1730.1.1 = {
+  owner = OMA
+  controller = OMA
+  add_core = OMA
+}
+1746.1.1 = {
+  owner = MBA
+  controller = MBA
+  remove_core = OMA
+}
+1762.1.1 = {
+  unrest = 7
+}

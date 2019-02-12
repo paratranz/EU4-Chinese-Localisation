@@ -1,0 +1,65 @@
+culture = shawnee
+religion = totemism
+capital = "俄亥俄"  # Ohio
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 5
+native_hostileness = 2
+discovered_by = north_american
+1650.1.1 = {
+  owner = SHA
+  controller = SHA
+  add_core = SHA
+  is_city = yes
+  trade_goods = fur
+}
+1656.1.1 = {
+  owner = IRO
+  controller = IRO
+  culture = iroquois
+}
+1671.1.1 = {
+  discovered_by = ENG
+}
+1679.1.1 = {
+  discovered_by = FRA
+}
+1701.8.14 = {
+  owner = ---
+  controller = ---
+  is_city = no
+  culture = shawnee
+}
+1707.5.12 = {
+  discovered_by = GBR
+}
+1750.1.1 = {
+  owner = LEN
+  controller = LEN
+  add_core = LEN
+  is_city = yes
+  culture = delaware
+}
+1795.8.3 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+  culture = american
+  religion = protestant
+}
+1803.3.1 = {
+  capital = "奇利科西"  # Chillicothe
+}
+1810.1.1 = {
+  capital = "曾斯维尔"  # Zanesville
+}
+1812.1.1 = {
+  capital = "奇利科西"  # Chillicothe
+}
+1816.1.1 = {
+  capital = "哥伦布"  # Columbus
+}

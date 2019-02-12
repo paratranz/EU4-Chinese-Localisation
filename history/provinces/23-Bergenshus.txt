@@ -1,0 +1,50 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = naval_supplies
+base_manpower = 1
+is_city = yes
+capital = "卑尔根"  # Bergen
+estate = estate_burghers
+discovered_by = western
+discovered_by = eastern
+extra_cost = 16
+center_of_trade = 2
+1531.11.5 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1532.7.15 = {
+  revolt = {}
+  controller = NOR
+}
+1536.1.1 = {
+  religion = protestant
+}
+1536.1.1 = {
+  owner = DAN
+  controller = DAN
+  add_core = DAN
+}
+1814.1.14 = {
+  owner = SWE
+  revolt = {
+    type = nationalist_rebels
+    size = 0
+  }
+  controller = REB
+  remove_core = DAN
+}
+1814.5.17 = {
+  revolt = {}
+  owner = NOR
+  controller = NOR
+}

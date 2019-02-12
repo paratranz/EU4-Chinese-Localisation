@@ -1,0 +1,43 @@
+owner = NOG
+controller = NOG
+culture = nogaybak
+religion = sunni
+capital = "亚伊克"  # Yaik
+trade_goods = iron
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 2
+is_city = yes
+add_core = NOG
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+discovered_by = nomad_group
+1613.1.1 = {
+  owner = RUS
+  controller = RUS
+  add_core = RUS
+  remove_core = NOG
+  culture = russian
+  religion = orthodox
+  capital = "亚伊茨基·戈罗多克"  # Yaitsky Gorodok
+}
+1773.9.13 = {
+  revolt = {
+    type = anti_tax_rebels
+    size = 4
+    leader = "叶梅利扬·普加乔夫"  # Yemelyan Pugachev
+  }
+  controller = REB
+  revolt_risk = 6
+}
+1775.2.1 = {
+  revolt = {}
+  controller = RUS
+  revolt_risk = 0
+  capital = "乌拉尔斯克"  # Uralsk
+  base_tax = 4
+  base_production = 4
+  base_manpower = 4
+}

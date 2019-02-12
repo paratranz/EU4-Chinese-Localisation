@@ -1,0 +1,21 @@
+owner = MIR
+controller = MIR
+add_core = MIR
+culture = madagasque
+religion = shamanism
+capital = "巴拉"  # Bara
+trade_goods = grain
+hre = no
+add_local_autonomy = 40
+base_tax = 1
+base_production = 1
+base_manpower = 1
+discovered_by = east_african
+1500.8.20 = {
+  discovered_by = POR
+}
+1640.1.1 = {
+  owner = MFY
+  controller = MFY
+  add_core = MFY
+}

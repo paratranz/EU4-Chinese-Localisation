@@ -1,0 +1,29 @@
+culture = chickasaw
+religion = totemism
+capital = "纳波奇"  # Napochi
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+1540.1.1 = {
+  discovered_by = SPA
+}
+1650.1.1 = {
+  owner = CHI
+  controller = CHI
+  add_core = CHI
+  trade_goods = cotton
+  is_city = yes
+}
+1786.1.10 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+  culture = american
+  religion = protestant
+}

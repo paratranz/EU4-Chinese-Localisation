@@ -1,0 +1,36 @@
+owner = MAL
+controller = MAL
+add_core = MAL
+is_city = yes
+culture = dyola
+religion = shamanism
+capital = "萨伊"  # Say
+estate = estate_nobles
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+native_size = 40
+native_ferocity = 4
+native_hostileness = 9
+base_manpower = 1
+discovered_by = sub_saharan
+add_local_autonomy = 25
+1600.1.1 = {
+  owner = MOR
+  controller = MOR
+  add_core = MOR
+  discovered_by = MOR
+}
+1618.1.1 = {
+  owner = JNN
+  controller = JNN
+  add_core = JNN
+  remove_core = MOR
+}
+1715.1.1 = {
+  owner = KNG
+  controller = KNG
+  add_core = KNG
+  remove_core = JNN
+}

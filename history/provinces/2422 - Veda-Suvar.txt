@@ -1,0 +1,27 @@
+owner = KAZ
+controller = KAZ
+culture = kazani
+religion = sunni
+capital = "维达苏瓦尔"  # Veda-Suvar
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 3
+is_city = yes
+add_core = KAZ
+discovered_by = eastern
+discovered_by = western
+discovered_by = nomad_group
+discovered_by = ottoman
+1552.10.2 = {
+  owner = RUS
+  controller = RUS
+  add_core = RUS
+  remove_core = KAZ
+}
+1616.4.5 = {
+  culture = russian
+  religion = orthodox
+  capital = "切博克萨雷"  # Cheboksary
+}

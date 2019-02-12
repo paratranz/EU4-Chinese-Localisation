@@ -1,0 +1,19 @@
+owner = NOR
+controller = NOR
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+trade_goods = fish
+capital = "托尔斯豪恩"  # Torshavn
+is_city = yes
+add_core = NOR
+discovered_by = western
+1536.1.1 = {
+  religion = protestant
+  owner = DAN
+  controller = DAN
+  add_core = DAN
+}

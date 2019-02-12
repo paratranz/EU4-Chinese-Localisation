@@ -1,0 +1,95 @@
+owner = HUN
+controller = HUN
+culture = ruthenian
+religion = orthodox
+capital = "胡斯特"  # Huszt
+trade_goods = naval_supplies
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+is_city = yes
+add_core = HUN
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1444.1.1 = {
+  add_core = TRA
+}
+1526.8.30 = {
+  owner = TRA
+  controller = TRA
+}
+1551.7.19 = {
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+}
+1556.10.1 = {
+  owner = TRA
+  controller = TRA
+}
+1570.1.1 = {
+  remove_core = TRA
+  owner = HAB
+  controller = HAB
+}
+1604.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 1
+  }
+  controller = REB
+}
+1606.1.1 = {
+  revolt = {}
+  controller = HAB
+}
+1619.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 1
+  }
+  controller = REB
+}
+1620.1.1 = {
+  revolt = {}
+}
+1626.1.1 = {
+  controller = HAB
+}
+1646.1.1 = {
+  religion = catholic
+}
+1648.1.1 = {
+  owner = TRA
+  controller = TRA
+  add_core = TRA
+  remove_core = HAB
+}
+1682.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 1
+  }
+  controller = REB
+}
+1685.10.15 = {
+  revolt = {}
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+  remove_core = TRA
+}
+1703.1.1 = {
+  unrest = 6
+}
+1711.1.1 = {
+  unrest = 0
+}

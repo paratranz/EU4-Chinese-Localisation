@@ -1,0 +1,125 @@
+owner = ARA
+controller = ARA
+add_core = ARA
+add_core = CAT
+culture = catalan
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = wool
+base_manpower = 2
+capital = "塔雷加"  # Tàrrega
+estate = estate_nobles
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1412.6.29 = {
+  revolt = {
+    type = pretender_rebels
+    size = 0
+  }
+  controller = REB
+}
+1413.1.1 = {
+  revolt = {}
+  revolt = {
+    type = pretender_rebels
+    size = 1
+    leader = "豪梅 德 乌赫尔"  # Jaume d'Urgell
+  }
+  controller = REB
+}
+1413.8.31 = {
+  revolt = {}
+  controller = ARA
+}
+1461.9.23 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 0
+  }
+  controller = REB
+}
+1462.4.11 = {
+  revolt = {}
+  controller = CAS
+}
+1463.1.1 = {
+  revolt = {
+    type = pretender_rebels
+    size = 1
+    leader = "佩雷 德 葡萄牙"  # Pere de Portugal
+  }
+  controller = REB
+}
+1466.6.30 = {
+  revolt = {}
+  controller = PRO
+}
+1469.1.1 = {
+  controller = ARA
+}
+1484.1.1 = {
+  unrest = 3
+}
+1486.4.21 = {
+  unrest = 0
+}
+1516.1.23 = {
+  controller = SPA
+  owner = SPA
+  add_core = SPA
+}
+1640.6.7 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 1
+  }
+  controller = REB
+}
+1641.1.1 = {
+  revolt = {}
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+}
+1652.10.11 = {
+  owner = SPA
+  controller = SPA
+  remove_core = FRA
+}
+1684.3.1 = {
+  controller = FRA
+}
+1684.6.1 = {
+  controller = SPA
+}
+1693.6.1 = {
+  controller = FRA
+}
+1697.9.20 = {
+  controller = SPA
+}
+1705.10.9 = {
+  controller = HAB
+}
+1711.1.25 = {
+  controller = SPA
+}
+1713.7.13 = {
+  remove_core = ARA
+}
+1813.8.31 = {
+  revolt = {
+    type = pretender_rebels
+    size = 1
+  }
+  controller = REB
+}
+1813.12.11 = {
+  revolt = {}
+  controller = SPA
+}

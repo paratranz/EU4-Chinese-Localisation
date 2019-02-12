@@ -1,0 +1,72 @@
+owner = TUN
+controller = TUN
+culture = tunisian
+religion = ibadi
+capital = "杰尔巴"  # Djerba
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+fort_15th = yes
+is_city = yes
+add_core = TUN
+add_core = TRP
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+extra_cost = 8
+center_of_trade = 1
+1489.1.1 = {
+  unrest = 4
+}
+1490.1.1 = {
+  unrest = 0
+}
+1503.1.1 = {
+  owner = TRP
+  controller = TRP
+}
+1521.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+}
+1524.1.1 = {
+  owner = TRP
+  controller = TRP
+}
+1551.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+}
+1560.5.14 = {
+  owner = TRP
+  controller = TRP
+  remove_core = SPA
+}
+1591.1.1 = {
+  unrest = 6
+}
+1592.1.1 = {
+  unrest = 0
+}
+1593.1.1 = {
+  owner = TUN
+  controller = TUN
+  add_core = TUN
+}
+1702.1.1 = {
+  unrest = 4
+}
+1703.1.1 = {
+  unrest = 0
+}
+1735.1.1 = {
+  unrest = 6
+}
+1756.1.1 = {
+  unrest = 0
+}

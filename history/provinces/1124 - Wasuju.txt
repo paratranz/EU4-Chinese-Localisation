@@ -1,0 +1,67 @@
+owner = MAL
+controller = MAL
+culture = mali
+is_city = yes
+base_manpower = 8
+religion = sunni
+capital = "尼亚尼"  # Niani
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 4
+add_core = MAL
+discovered_by = sub_saharan
+extra_cost = 8
+center_of_trade = 1
+1469.1.1 = {
+  unrest = 6
+}
+1481.1.1 = {
+  discovered_by = POR
+}
+1600.1.1 = {
+  base_tax = 2
+  base_production = 2
+  base_manpower = 1
+}
+1650.1.1 = {
+  trade_goods = ivory
+}
+1658.1.1 = {
+  owner = SOF
+  controller = SOF
+  add_core = SOF
+  base_manpower = 2
+}
+1685.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1725.1.1 = {
+  revolt = {}
+  controller = SOF
+}
+1737.1.1 = {
+  unrest = 3
+}
+1739.1.1 = {
+  unrest = 0
+}
+1756.1.1 = {
+  unrest = 9
+}
+1760.1.1 = {
+  unrest = 0
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1769.1.1 = {
+  revolt = {}
+  controller = SOF
+}

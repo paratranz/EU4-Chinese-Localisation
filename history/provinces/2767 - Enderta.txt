@@ -1,0 +1,110 @@
+owner = ETH
+controller = ETH
+add_core = ETH
+culture = tigray
+religion = coptic
+capital = "安塔洛"  # Antalo
+is_city = yes
+base_manpower = 2
+trade_goods = copper
+hre = no
+estate = estate_church
+base_tax = 1
+base_production = 1
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+1499.1.1 = {
+  discovered_by = POR
+}
+1535.1.1 = {
+  unrest = 7
+}
+1536.1.1 = {
+  unrest = 0
+}
+1550.1.1 = {
+  discovered_by = TUR
+}
+1558.1.1 = {
+  unrest = 7
+}
+1561.1.1 = {
+  unrest = 6
+}
+1562.1.1 = {
+  unrest = 7
+}
+1587.1.1 = {
+  unrest = 7
+}
+1603.1.1 = {
+  unrest = 9
+}
+1604.10.25 = {
+  unrest = 0
+}
+1627.1.1 = {
+  unrest = 9
+}
+1628.1.1 = {
+  unrest = 0
+}
+1630.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1631.1.1 = {
+  revolt = {}
+  controller = ETH
+  unrest = 6
+}
+1632.1.1 = {
+  unrest = 0
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1632.8.1 = {
+  revolt = {}
+  controller = ETH
+}
+1707.9.1 = {
+  unrest = 7
+}
+1708.7.1 = {
+  unrest = 3
+}
+1709.4.1 = {
+  unrest = 8
+}
+1710.8.1 = {
+  unrest = 3
+}
+1711.11.1 = {
+  unrest = 0
+}
+1768.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1769.2.1 = {
+  revolt = {}
+  controller = ETH
+  unrest = 1
+}
+1771.1.1 = {
+  unrest = 5
+}
+1772.1.1 = {
+  unrest = 0
+}

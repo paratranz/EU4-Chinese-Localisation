@@ -1,0 +1,104 @@
+owner = YOR
+controller = YOR
+culture = telegu
+religion = hinduism
+capital = "孔达维杜"  # Kondavidu
+trade_goods = gems
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+fort_15th = yes
+is_city = yes
+add_core = GOC
+add_core = YOR
+estate = estate_nobles
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = chinese
+1405.1.1 = {
+  discovered_by = MNG
+}
+1445.1.1 = {
+  controller = ORI
+}
+1448.1.1 = {
+  owner = ORI
+  add_core = ORI
+}
+1466.1.1 = {
+  controller = REB
+  revolt = {
+    size = 1
+    type = nationalist_rebels
+  }
+}
+1468.1.1 = {
+  controller = BAH
+  owner = BAH
+  revolt = {}
+}
+1476.1.1 = {
+  controller = ORI
+}
+1478.1.1 = {
+  controller = BAH
+}
+1482.3.26 = {
+  controller = ORI
+  owner = ORI
+}
+1498.1.1 = {
+  discovered_by = POR
+}
+1514.6.1 = {
+  controller = VIJ
+}
+1516.6.1 = {
+  owner = VIJ
+  add_core = VIJ
+}
+1565.7.1 = {
+  owner = GOC
+  controller = GOC
+  add_core = GOC
+  remove_core = VIJ
+}
+1686.1.1 = {
+  controller = MUG
+}
+1687.1.1 = {
+  owner = MUG
+  add_core = MUG
+}
+1712.1.1 = {
+  add_core = DEC
+}
+1724.1.1 = {
+  owner = DEC
+  controller = DEC
+  remove_core = MUG
+}
+1751.3.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+}
+1759.1.1 = {
+  controller = GBR
+}
+1763.2.10 = {
+  owner = DEC
+  controller = DEC
+  remove_core = FRA
+}
+1766.11.12 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+}
+1823.1.1 = {
+  remove_core = DEC
+}

@@ -1,0 +1,43 @@
+culture = nubian
+religion = shamanism
+capital = "塔卡劳"  # Takala
+native_size = 50
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_ferocity = 4
+native_hostileness = 9
+discovered_by = ALO
+discovered_by = MAK
+1503.1.1 = {
+  owner = NUB
+  controller = NUB
+  add_core = NUB
+  discovered_by = NUB
+  is_city = yes
+  discovered_by = ETH
+  trade_goods = slaves
+}
+1553.1.1 = {
+  unrest = 8
+}
+1554.1.1 = {
+  unrest = 0
+}
+1600.1.1 = {
+  discovered_by = TUR
+}
+1620.1.1 = {
+  religion = sunni
+}
+1756.1.1 = {
+  unrest = 4
+}
+1761.1.1 = {
+  unrest = 9
+}
+1762.1.1 = {
+  unrest = 0
+}

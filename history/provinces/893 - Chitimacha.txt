@@ -1,0 +1,64 @@
+culture = choctaw
+religion = totemism
+capital = "奇蒂马查"  # Chitimacha
+trade_goods = unknown
+hre = no
+base_tax = 5
+base_production = 3
+base_manpower = 2
+native_size = 15
+native_ferocity = 3
+native_hostileness = 8
+discovered_by = north_american
+extra_cost = 18
+center_of_trade = 1
+add_permanent_province_modifier = {
+  name = mississippi_estuary_modifier
+  duration = -1
+}
+1519.1.1 = {
+  discovered_by = SPA
+}
+1670.1.1 = {
+  discovered_by = FRA
+}
+1700.1.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  religion = catholic
+  culture = cosmopolitan_french
+  is_city = yes
+  trade_goods = cotton
+}
+1722.1.1 = {
+  capital = "新奥尔良"  # La Nouvelle-Orléans
+}
+1762.1.1 = {
+  owner = SPA
+  controller = SPA
+  culture = castillian
+  remove_core = FRA
+}
+1763.1.1 = {
+  unrest = 5
+}
+1764.1.1 = {
+  unrest = 0
+}
+1787.1.1 = {
+  add_core = SPA
+}
+1800.10.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  culture = cosmopolitan_french
+  remove_core = SPA
+}
+1803.4.3 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+  remove_core = FRA
+}

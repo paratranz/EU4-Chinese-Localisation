@@ -1,0 +1,36 @@
+owner = TUN
+controller = TUN
+culture = algerian
+religion = sunni
+capital = "贾扎伊尔"  # Al-Djazair
+trade_goods = grain
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 3
+is_city = yes
+add_core = TUN
+add_core = ALG
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+extra_cost = 8
+center_of_trade = 1
+1510.1.1 = {
+  owner = ALG
+  controller = ALG
+}
+1524.1.1 = {
+  controller = KBA
+}
+1525.1.1 = {
+  controller = ALG
+}
+1530.1.1 = {
+  fort_15th = yes
+}
+1581.1.1 = {
+  fort_15th = no
+  fort_16th = yes
+}

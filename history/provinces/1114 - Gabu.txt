@@ -1,0 +1,51 @@
+owner = MAL
+controller = MAL
+culture = senegambian
+is_city = yes
+base_manpower = 2
+religion = shamanism
+capital = "坎萨拉"  # Kansala
+estate = estate_nobles
+trade_goods = ivory
+hre = no
+base_tax = 3
+base_production = 3
+add_core = MAL
+add_core = KBU
+discovered_by = sub_saharan
+add_local_autonomy = 50
+1446.1.1 = {
+  discovered_by = POR
+}
+extra_cost = 8
+center_of_trade = 1
+1497.1.1 = {
+  unrest = 4
+}
+1499.1.1 = {
+  unrest = 0
+}
+1537.1.1 = {
+  owner = KBU
+  controller = KBU
+  add_core = KBU
+  remove_core = MAL
+}
+1565.1.1 = {
+  trade_goods = slaves
+}
+1566.1.1 = {
+  unrest = 3
+}
+1572.1.1 = {
+  unrest = 5
+}
+1740.1.1 = {
+  unrest = 3
+}
+1757.1.1 = {
+  unrest = 4
+}
+1762.1.1 = {
+  unrest = 0
+}

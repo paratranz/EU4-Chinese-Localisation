@@ -1,0 +1,48 @@
+owner = TIM
+controller = TIM
+culture = uzbehk
+religion = sunni
+capital = "布哈拉"  # Bukhara
+trade_goods = salt
+hre = no
+base_tax = 5
+base_production = 5
+base_manpower = 5
+fort_15th = yes
+is_city = yes
+add_core = TIM
+add_core = TRS
+discovered_by = KAS
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = nomad_group
+discovered_by = indian
+1409.5.13 = {
+  owner = TRS
+  controller = TRS
+}
+1448.3.1 = {
+  owner = TIM
+  controller = TIM
+}
+1501.1.1 = {
+  controller = SHY
+}
+1502.1.1 = {
+  owner = BUK
+  add_core = BUK
+  controller = BUK
+  remove_core = TIM
+}
+1533.1.1 = {
+  base_tax = 7
+}
+1673.1.1 = {
+  discovered_by = ENG
+}
+1677.1.1 = {
+  discovered_by = FRA
+}
+1707.5.12 = {
+  discovered_by = GBR
+}

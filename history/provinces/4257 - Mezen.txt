@@ -1,0 +1,43 @@
+owner = NOV
+controller = NOV
+culture = novgorodian
+religion = orthodox
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "奥克拉尼科瓦 斯洛博达"  # Okladnikova Sloboda
+is_city = yes
+add_core = NOV
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = eastern
+discovered_by = western
+1478.1.15 = {
+  owner = MOS
+  controller = MOS
+  add_core = MOS
+  remove_core = NOV
+}
+1503.4.1 = {
+  owner = RUS
+  controller = RUS
+  add_core = RUS
+  remove_core = MOS
+}
+1554.1.1 = {
+  capital = "新霍尔莫戈雷"  # Novokholmogory
+}
+1584.1.1 = {
+  capital = "阿尔汉格尔斯克"  # Archangelsk
+}
+1598.1.7 = {
+  unrest = 5
+}
+1613.3.3 = {
+  unrest = 0
+}

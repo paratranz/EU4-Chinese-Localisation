@@ -1,0 +1,52 @@
+owner = MAL
+controller = MAL
+culture = fulani
+is_city = yes
+base_manpower = 3
+religion = shamanism
+capital = "廷博"  # Timbo
+trade_goods = ivory
+hre = no
+estate = estate_nobles
+base_tax = 3
+base_production = 3
+add_core = MAL
+add_core = KBU
+discovered_by = sub_saharan
+1490.1.1 = {
+  unrest = 3
+}
+1504.1.1 = {
+  unrest = 8
+}
+1512.1.1 = {
+  unrest = 0
+}
+1535.1.1 = {
+  owner = FUL
+  controller = FUL
+  add_core = FUL
+}
+1689.1.1 = {
+  unrest = 3
+}
+1725.3.20 = {
+  revolt = {
+    type = heretic_rebels
+    size = 2
+  }
+  controller = REB
+}
+1732.1.1 = {
+  religion = sunni
+  unrest = 4
+}
+1751.1.1 = {
+  unrest = 0
+}
+1762.1.1 = {
+  unrest = 12
+}
+1776.1.1 = {
+  unrest = 0
+}

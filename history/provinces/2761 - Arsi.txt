@@ -1,0 +1,34 @@
+owner = HDY
+controller = HDY
+add_core = HDY
+culture = amhara
+religion = sunni
+capital = "阿塞拉"  # Assela
+is_city = yes
+base_manpower = 2
+trade_goods = coffee
+hre = no
+base_tax = 1
+base_production = 1
+add_local_autonomy = 25
+estate = estate_nobles
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = indian
+1533.1.1 = {
+  unrest = 7
+}
+1534.1.1 = {
+  discovered_by = ADA
+  owner = ADA
+  controller = ADA
+  add_core = ADA
+  unrest = 0
+}
+1544.1.1 = {
+  owner = ETH
+  controller = ETH
+  add_core = ETH
+  remove_core = ADA
+}

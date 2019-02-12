@@ -1,0 +1,72 @@
+owner = LOR
+controller = LOR
+capital = "南锡"  # Nancy
+is_city = yes
+culture = burgundian
+religion = catholic
+hre = yes
+base_tax = 6
+base_production = 6
+trade_goods = iron
+base_manpower = 6
+add_core = LOR
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1467.6.15 = {
+  add_core = BUR
+}
+1475.11.30 = {
+  owner = BUR
+  controller = BUR
+  unrest = 5
+}
+1476.1.1 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 1
+  }
+  controller = REB
+}
+1477.1.5 = {
+  revolt = {}
+  owner = LOR
+  controller = LOR
+  remove_core = BUR
+  unrest = 0
+}
+1635.5.1 = {
+  controller = FRA
+}
+1636.8.15 = {
+  controller = LOR
+}
+1636.10.20 = {
+  controller = FRA
+}
+1641.1.1 = {
+  controller = LOR
+}
+1670.1.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+}
+1679.9.20 = {
+  owner = LOR
+  controller = LOR
+}
+1702.1.1 = {
+  controller = FRA
+}
+1714.1.1 = {
+  controller = LOR
+}
+1766.1.1 = {
+  owner = FRA
+  controller = FRA
+}
+1806.7.12 = {
+  hre = no
+}

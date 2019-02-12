@@ -1,0 +1,98 @@
+owner = BUR
+controller = BUR
+add_core = BUR
+capital = "阿拉斯"  # Arras
+is_city = yes
+culture = wallonian
+religion = catholic
+hre = no
+base_tax = 6
+base_production = 6
+trade_goods = cloth
+base_manpower = 3
+add_core = PIC
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1477.1.5 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  remove_core = BUR
+}
+1493.8.19 = {
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+}
+1519.1.12 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  remove_core = HAB
+}
+1529.8.3 = {
+  remove_core = FRA
+}
+1548.6.26 = {
+  hre = yes
+}
+1559.5.12 = {
+  unrest = 3
+}
+1566.8.1 = {
+  unrest = 4
+}
+1566.8.10 = {
+  revolt = {
+    type = heretic_rebels
+    size = 2
+  }
+  controller = REB
+}
+1567.1.8 = {
+  revolt = {}
+  controller = SPA
+}
+1569.1.1 = {
+  unrest = 7
+}
+1570.1.1 = {
+  unrest = 11
+}
+1577.2.12 = {
+  unrest = 5
+}
+1579.1.6 = {
+  unrest = 0
+}
+1610.1.1 = {
+  capital = "里尔"  # Lille
+}
+1635.5.1 = {
+  controller = FRA
+}
+1648.1.30 = {
+  controller = SPA
+}
+1650.1.1 = {
+  add_core = FRA
+}
+1658.6.14 = {
+  controller = FRA
+}
+1659.10.28 = {
+  owner = FRA
+  remove_core = SPA
+}
+1684.1.1 = {
+  culture = cosmopolitan_french
+}
+1789.5.5 = {
+  base_tax = 10
+  base_production = 10
+}
+1806.7.12 = {
+  hre = no
+}

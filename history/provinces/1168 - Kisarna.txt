@@ -1,0 +1,32 @@
+owner = KON
+controller = KON
+culture = kongolese
+religion = shamanism
+capital = "洛瓦塔"  # Lovata
+trade_goods = slaves
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+estate = estate_nobles
+is_city = yes
+add_core = KON
+discovered_by = central_african
+discovered_by = sub_saharan
+1483.1.1 = {
+  discovered_by = POR
+}
+1665.10.29 = {
+  owner = POR
+  controller = POR
+  add_core = POR
+}
+1667.1.1 = {
+  owner = KON
+  controller = KON
+  remove_core = POR
+  unrest = 8
+}
+1702.1.1 = {
+  unrest = 0
+}

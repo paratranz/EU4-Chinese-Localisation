@@ -1,0 +1,56 @@
+owner = BUR
+controller = BUR
+capital = "沙罗勒"  # Charolles
+is_city = yes
+estate = estate_nobles
+culture = burgundian
+religion = catholic
+hre = no
+base_tax = 4
+base_production = 4
+trade_goods = salt
+base_manpower = 3
+add_core = BUR
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1477.1.5 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+}
+1493.8.19 = {
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+  remove_core = FRA
+}
+1519.1.12 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  remove_core = HAB
+}
+1665.9.17 = {
+  add_claim = FRA
+}
+1668.2.20 = {
+  controller = FRA
+}
+1668.5.2 = {
+  controller = SPA
+}
+1670.1.1 = {
+  add_core = FRA
+}
+1674.9.1 = {
+  controller = FRA
+}
+1678.9.19 = {
+  owner = FRA
+  remove_core = SPA
+}
+1806.7.12 = {
+  hre = no
+}

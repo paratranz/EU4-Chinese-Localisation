@@ -1,0 +1,49 @@
+owner = NOR
+controller = NOR
+add_core = NOR
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 2
+base_production = 2
+trade_goods = naval_supplies
+base_manpower = 1
+capital = "希恩"  # Skien
+is_city = yes
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+1531.11.5 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 0
+  }
+  controller = REB
+}
+1532.7.15 = {
+  revolt = {}
+  controller = NOR
+}
+1536.1.1 = {
+  religion = protestant
+}
+1536.1.1 = {
+  owner = DAN
+  controller = DAN
+  add_core = DAN
+}
+1814.1.14 = {
+  owner = SWE
+  revolt = {
+    type = revolutionary_rebels
+    size = 0
+  }
+  controller = REB
+  remove_core = DAN
+}
+1814.5.17 = {
+  revolt = {}
+  owner = NOR
+  controller = NOR
+}

@@ -1,0 +1,45 @@
+owner = TUN
+controller = TUN
+culture = tunisian
+religion = sunni
+capital = "凯鲁万"  # Kairwan
+trade_goods = grain
+hre = no
+base_tax = 4
+base_production = 5
+base_manpower = 1
+is_city = yes
+add_core = TUN
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1489.1.1 = {
+  unrest = 4
+}
+1490.1.1 = {
+  unrest = 0
+}
+1530.1.3 = {
+  add_claim = TUR
+}
+1534.8.16 = {
+  owner = ALG
+  controller = ALG
+  add_core = ALG
+}
+1535.6.11 = {
+  owner = TUN
+  controller = TUN
+  remove_core = ALG
+}
+1546.1.1 = {
+  owner = TRP
+  controller = TRP
+  add_core = TRP
+}
+1593.1.1 = {
+  owner = TUN
+  controller = TUN
+  remove_core = TRP
+}

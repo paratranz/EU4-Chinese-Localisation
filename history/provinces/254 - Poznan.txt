@@ -1,0 +1,98 @@
+owner = POL
+controller = POL
+capital = "波兹南"  # Poznan
+culture = polish
+religion = catholic
+trade_goods = salt
+hre = no
+base_tax = 6
+base_production = 6
+base_manpower = 5
+is_city = yes
+estate = estate_burghers
+add_core = POL
+fort_15th = yes
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1530.1.1 = {
+  trade_goods = paper
+}
+1569.7.1 = {
+  owner = PLC
+  controller = PLC
+  remove_core = POL
+  add_core = PLC
+}
+1588.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 0
+  }
+  controller = REB
+}
+1589.1.1 = {
+  revolt = {}
+  controller = PLC
+}
+1655.1.1 = {
+  controller = SWE
+}
+1660.1.1 = {
+  controller = PLC
+}
+1733.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 2
+  }
+  controller = REB
+}
+1735.1.1 = {
+  revolt = {}
+  controller = PLC
+}
+1793.1.23 = {
+  owner = PRU
+  controller = PRU
+  add_core = PRU
+}
+1794.3.24 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 2
+    leader = "塔德乌什 柯斯丘什科"  # Tadeusz Kosciuszko
+  }
+  controller = REB
+}
+1794.11.16 = {
+  revolt = {}
+  controller = PRU
+}
+1806.11.3 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 2
+  }
+  controller = REB
+}
+1807.7.9 = {
+  revolt = {}
+  owner = POL
+  controller = POL
+  add_core = POL
+  remove_core = PRU
+}
+1813.3.17 = {
+  controller = PRU
+}
+1814.4.11 = {
+  owner = PRU
+  add_core = PRU
+}

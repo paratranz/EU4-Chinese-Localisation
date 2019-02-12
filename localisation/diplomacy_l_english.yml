@@ -364,7 +364,7 @@ l_english:
  IS_NOT_INFILTRATE:0 "未在渗透官僚系统。"
  SUPPORT_REBELS_NO_MONEY:0 "你至少需要$COST$¤支持这个叛军派系。"
  REBEL_SUPPORT_MONEY:0 "花费："
- REBEL_SUPPORT_MONEY_DESC:1 "每月这一笔款项将被用于资助起义军。这项开销根据起义军人数与该省份招募成本变化。"
+ REBEL_SUPPORT_MONEY_DESC:1 "这笔款项将被用于资助叛军。这是一次性支出，取决于每个可能起义的省份的叛军规模和征兵费用。请注意，如果目标国家的情况发生变化，实际叛军规模可能会有所不同。"
  war_goal_take_colony:0 "夺取殖民地 $CONTINENT$的$PROV$"
  war_goal_take_colony_desc:0 "战争目标是夺取$PROV$这一$CONTINENT$殖民地"
  war_goal_take_core:0 "收回核心省份$PROV$"

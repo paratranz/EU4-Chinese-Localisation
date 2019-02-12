@@ -1,0 +1,42 @@
+owner = ASI
+controller = ASI
+add_core = ASI
+is_city = yes
+culture = nakota
+religion = totemism
+capital = "邦吉"  # Bungi
+trade_goods = fur
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 2
+native_hostileness = 6
+discovered_by = north_american
+1710.1.1 = {
+  owner = SIO
+  controller = SIO
+  add_core = SIO
+  remove_core = ASI
+  culture = dakota
+}
+1732.1.1 = {
+  discovered_by = FRA
+}
+1808.1.1 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  capital = "大福尔施"  # Grandes Fourches
+  culture = english
+  religion = protestant
+}
+1818.10.20 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+  remove_core = GBR
+  culture = american
+  religion = protestant
+}

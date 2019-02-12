@@ -1,0 +1,22 @@
+owner = MRA
+controller = MRA
+add_core = MRA
+culture = makua
+religion = shamanism
+capital = "隆韦"  # Lomwe
+is_city = yes
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 1
+base_production = 1
+add_local_autonomy = 40
+discovered_by = central_african
+1572.1.1 = {
+  discovered_by = POR
+}
+1735.1.1 = {
+  owner = MKU
+  controller = MKU
+  add_core = MKU
+}

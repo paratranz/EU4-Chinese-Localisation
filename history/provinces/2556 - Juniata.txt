@@ -1,0 +1,55 @@
+culture = susquehannock
+religion = totemism
+capital = "朱尼亚塔"  # Juniata
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+1650.1.1 = {
+  owner = SUS
+  controller = SUS
+  add_core = SUS
+  is_city = yes
+  trade_goods = grain
+}
+1656.1.1 = {
+  owner = IRO
+  controller = IRO
+  add_core = IRO
+  culture = iroquois
+}
+1671.1.1 = {
+  discovered_by = ENG
+}
+1677.1.1 = {
+  owner = LEN
+  controller = LEN
+  add_core = LEN
+  remove_core = IRO
+  is_city = yes
+  culture = delaware
+}
+1707.5.12 = {
+  discovered_by = GBR
+}
+1755.1.1 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  culture = english
+  religion = protestant
+}
+1776.7.4 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+}
+1782.11.1 = {
+  remove_core = GBR
+  unrest = 0
+}

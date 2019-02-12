@@ -1,0 +1,25 @@
+owner = SON
+controller = SON
+add_core = SON
+is_city = yes
+culture = songhai
+religion = sunni
+capital = "卡拉巴拉"  # Karabara
+trade_goods = fish
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+discovered_by = sub_saharan
+1591.3.15 = {
+  discovered_by = MOR
+  owner = MOR
+  controller = MOR
+  add_core = MOR
+}
+1618.1.1 = {
+  owner = TMB
+  controller = TMB
+  add_core = TMB
+  remove_core = MOR
+}

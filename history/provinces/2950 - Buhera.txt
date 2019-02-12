@@ -1,0 +1,40 @@
+owner = ZIM
+controller = ZIM
+add_core = ZIM
+culture = shona
+religion = shamanism
+capital = "布海拉"  # Buhera
+is_city = yes
+base_manpower = 1
+trade_goods = ivory
+hre = no
+base_tax = 1
+base_production = 1
+discovered_by = east_african
+discovered_by = central_african
+1688.1.1 = {
+  owner = RZW
+  controller = RZW
+  add_core = RZW
+}
+1513.1.1 = {
+  discovered_by = POR
+}
+1697.1.1 = {
+  unrest = 5
+}
+1698.1.1 = {
+  unrest = 0
+}
+1768.1.1 = {
+  unrest = 5
+}
+1768.5.1 = {
+  unrest = 0
+}
+1777.1.1 = {
+  unrest = 8
+}
+1779.1.1 = {
+  unrest = 2
+}

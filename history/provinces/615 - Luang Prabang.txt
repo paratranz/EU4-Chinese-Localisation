@@ -1,0 +1,41 @@
+owner = LXA
+controller = LXA
+culture = lao
+religion = buddhism
+capital = "香通"  # Xieng Tong
+trade_goods = chinaware
+hre = no
+base_tax = 4
+base_production = 4
+base_manpower = 3
+is_city = yes
+add_core = LXA
+add_core = LUA
+discovered_by = chinese
+discovered_by = indian
+1560.1.1 = {
+  capital = "琅勃拉邦"  # Luang Prabang
+}
+1579.1.1 = {
+  unrest = 5
+}
+1580.1.1 = {
+  unrest = 0
+}
+1593.1.1 = {
+  unrest = 4
+}
+1603.1.1 = {
+  unrest = 0
+}
+1655.1.1 = {
+  discovered_by = SPA
+}
+1694.1.1 = {
+  add_core = AYU
+}
+1707.1.1 = {
+  owner = LUA
+  controller = LUA
+  remove_core = LXA
+}

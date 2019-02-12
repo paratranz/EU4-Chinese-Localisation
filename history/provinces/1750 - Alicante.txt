@@ -1,0 +1,65 @@
+owner = ARA
+controller = ARA
+add_core = ARA
+add_core = VAL
+culture = catalan
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = wine
+base_manpower = 3
+capital = "阿利坎特"  # Alàcant
+is_city = yes
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1516.1.23 = {
+  controller = SPA
+  owner = SPA
+  add_core = SPA
+}
+1519.7.1 = {
+  unrest = 2
+}
+1521.9.11 = {
+  unrest = 0
+}
+1609.9.22 = {
+  unrest = 2
+}
+1609.11.1 = {
+  unrest = 0
+}
+1705.12.16 = {
+  controller = HAB
+}
+1707.5.8 = {
+  controller = SPA
+}
+1713.7.13 = {
+  remove_core = ARA
+}
+1808.6.6 = {
+  revolt = {
+    type = pretender_rebels
+    size = 0
+  }
+  controller = REB
+}
+1812.1.1 = {
+  revolt = {}
+  controller = SPA
+}
+1813.3.19 = {
+  revolt = {
+    type = pretender_rebels
+    size = 0
+  }
+  controller = REB
+}
+1813.12.11 = {
+  revolt = {}
+  controller = SPA
+}

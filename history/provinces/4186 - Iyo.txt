@@ -1,0 +1,35 @@
+owner = KNO
+controller = KNO
+culture = japanese
+religion = shinto
+capital = "汤筑"  # Yuzuki
+trade_goods = copper
+hre = no
+base_tax = 3
+base_manpower = 2
+base_production = 2
+is_city = yes
+add_core = KNO
+discovered_by = chinese
+discovered_by = MCH
+discovered_by = KHA
+discovered_by = OIR
+discovered_by = QNG
+1586.1.1 = {
+  add_core = MRI
+  owner = MRI
+  controller = MRI
+  remove_core = KNO
+}
+1600.10.21 = {
+  owner = TKG
+  controller = TKG
+  add_core = TKG
+  remove_core = MRI
+}
+1614.12.18 = {
+  add_core = DTE
+  owner = DTE
+  controller = DTE
+  remove_core = TKG
+}

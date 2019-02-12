@@ -1,0 +1,109 @@
+owner = FRI
+controller = FRI
+capital = "格罗宁根"  # Groningen
+is_city = yes
+culture = dutch
+religion = catholic
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+trade_goods = cloth
+add_core = FRI
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1445.1.1 = {
+  add_core = BUR
+}
+1473.2.23 = {
+  owner = BUR
+  controller = BUR
+}
+1477.1.5 = {
+  owner = FRI
+  controller = FRI
+  add_core = HAB
+  remove_core = BUR
+}
+1498.1.1 = {
+  owner = SAX
+  controller = SAX
+}
+1515.5.15 = {
+  owner = HAB
+  controller = REB
+}
+1519.1.12 = {
+  owner = SPA
+  add_core = SPA
+  remove_core = HAB
+}
+1524.1.1 = {
+  controller = SPA
+}
+1536.1.1 = {
+  religion = reformed
+}
+1549.11.4 = {
+  owner = NED
+  controller = NED
+  add_core = NED
+  remove_core = SPA
+}
+1559.5.12 = {
+  unrest = 3
+}
+1565.1.1 = {
+  unrest = 5
+}
+1566.4.5 = {
+  unrest = 3
+}
+1567.9.10 = {
+  unrest = 4
+}
+1568.5.23 = {
+  revolt = {
+    type = nationalist_rebels
+    size = 2
+    name = "丐军"  # Les Gueux
+    leader = "路易·拿骚"  # Louis of Nassau
+  }
+  controller = REB
+}
+1568.7.21 = {
+  revolt = {}
+  controller = SPA
+}
+1569.1.1 = {
+  unrest = 12
+}
+1570.1.1 = {
+  unrest = 20
+}
+1577.2.12 = {
+  unrest = 16
+}
+1579.1.23 = {
+  controller = NED
+  unrest = 0
+}
+1648.10.24 = {
+  hre = no
+}
+1681.1.1 = {
+  base_tax = 9
+  base_production = 9
+}
+1810.7.10 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+}
+1813.11.30 = {
+  owner = NED
+  controller = NED
+  remove_core = FRA
+}

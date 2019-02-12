@@ -1,0 +1,74 @@
+owner = ZAN
+controller = ZAN
+add_core = ZAN
+culture = swahili
+religion = ibadi
+capital = "桑给巴尔"  # Zanzibar
+is_city = yes
+base_manpower = 1
+trade_goods = slaves
+estate = estate_burghers
+hre = no
+base_tax = 2
+base_production = 2
+discovered_by = ETH
+discovered_by = ADA
+discovered_by = NUB
+discovered_by = ZAN
+discovered_by = AJU
+discovered_by = MBA
+discovered_by = MDI
+discovered_by = MLI
+discovered_by = SFA
+discovered_by = ZIM
+discovered_by = indian
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 16
+center_of_trade = 2
+1498.3.20 = {
+  discovered_by = POR
+}
+1600.1.1 = {
+  discovered_by = TUR
+}
+1652.1.1 = {
+  unrest = 6
+}
+1653.1.1 = {
+  owner = POR
+  controller = POR
+  add_core = POR
+  unrest = 7
+}
+1693.1.1 = {
+  owner = OMA
+  controller = OMA
+}
+1694.1.1 = {
+  owner = POR
+  controller = POR
+}
+1699.1.1 = {
+  owner = ZAN
+  controller = ZAN
+  remove_core = POR
+}
+1728.1.1 = {
+  owner = POR
+  controller = POR
+  add_core = POR
+  remove_core = ZAN
+}
+1730.1.1 = {
+  owner = OMA
+  controller = OMA
+  add_core = OMA
+  remove_core = POR
+}
+1754.1.1 = {
+  unrest = 6
+}
+1755.1.1 = {
+  unrest = 0
+}

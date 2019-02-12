@@ -1,0 +1,26 @@
+culture = filipino
+religion = sunni
+capital = "巴拉望"  # Palawan
+trade_goods = sugar
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+discovered_by = chinese
+owner = BEI
+controller = BEI
+add_core = BEI
+add_local_autonomy = 25
+1521.1.1 = {
+  discovered_by = SPA
+}
+1749.1.1 = {
+  owner = SPA
+  controller = SPA
+  culture = castillian
+  religion = catholic
+}
+1774.1.1 = {
+  add_core = SPA
+}

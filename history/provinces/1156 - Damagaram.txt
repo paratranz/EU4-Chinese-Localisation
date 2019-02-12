@@ -1,0 +1,29 @@
+owner = AIR
+controller = AIR
+add_core = AIR
+culture = tuareg
+religion = sunni
+capital = "马希纳"  # Mashina
+is_city = yes
+base_manpower = 1
+trade_goods = livestock
+hre = no
+base_tax = 1
+base_production = 1
+discovered_by = sub_saharan
+1444.1.1 = {
+  add_core = KBO
+}
+1590.1.1 = {
+  owner = KBO
+  controller = KBO
+}
+1736.1.1 = {
+  capital = "津德尔"  # Zinder
+}
+1760.1.1 = {
+  unrest = 7
+}
+1804.1.1 = {
+  discovered_by = SOK
+}

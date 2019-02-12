@@ -1,0 +1,42 @@
+owner = SWI
+controller = SWI
+culture = swiss
+religion = catholic
+capital = "苏黎世"  # Zürich
+trade_goods = wool
+hre = yes
+base_tax = 4
+base_production = 4
+base_manpower = 2
+is_city = yes
+estate = estate_burghers
+add_core = SWI
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1513.7.3 = {
+  unrest = 7
+}
+1515.1.1 = {
+  unrest = 0
+}
+1523.1.1 = {
+  religion = reformed
+  reformation_center = reformed
+}
+1653.1.1 = {
+  unrest = 5
+}
+1654.1.1 = {
+  unrest = 0
+}
+1656.1.1 = {
+  unrest = 7
+}
+1657.1.1 = {
+  unrest = 2
+}
+1806.7.12 = {
+  hre = no
+}

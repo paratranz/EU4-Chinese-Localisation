@@ -1,0 +1,97 @@
+owner = FRA
+controller = FRA
+capital = "里昂"  # Lyon
+is_city = yes
+culture = occitain
+religion = catholic
+hre = no
+base_tax = 7
+base_production = 7
+trade_goods = paper
+base_manpower = 6
+add_core = FRA
+fort_15th = yes
+estate = estate_burghers
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+extra_cost = 16
+center_of_trade = 2
+1399.1.1 = {
+  add_core = DAU
+}
+1446.9.27 = {
+  revolt = {
+    type = pretender_rebels
+    size = 0
+  }
+  controller = REB
+}
+1461.7.22 = {
+  revolt = {}
+  controller = FRA
+}
+1467.6.15 = {
+  add_core = BUR
+}
+1477.1.5 = {
+  remove_core = BUR
+}
+1573.9.1 = {
+  unrest = 5
+}
+1574.5.1 = {
+  unrest = 0
+}
+1583.1.1 = {
+  fort_15th = no
+  fort_16th = yes
+}
+1588.12.1 = {
+  unrest = 5
+}
+1594.1.1 = {
+  unrest = 0
+}
+1632.1.1 = {
+  unrest = 3
+}
+1634.1.1 = {
+  unrest = 0
+}
+1641.1.1 = {
+  unrest = 3
+}
+1644.1.1 = {
+  unrest = 0
+}
+1648.1.1 = {
+  fort_16th = no
+  fort_17th = yes
+}
+1650.1.14 = {
+  unrest = 7
+}
+1650.3.1 = {
+  unrest = 0
+  revolt = {
+    type = revolutionary_rebels
+    size = 0
+  }
+  controller = REB
+}
+1651.4.1 = {
+  revolt = {}
+  controller = FRA
+}
+1651.12.1 = {
+  unrest = 7
+}
+1652.10.21 = {
+  unrest = 0
+}
+1715.1.1 = {
+  fort_17th = no
+  fort_18th = yes
+}

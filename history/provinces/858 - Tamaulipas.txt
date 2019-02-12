@@ -1,0 +1,51 @@
+culture = wastek
+owner = HST
+controller = HST
+add_core = HST
+is_city = yes
+religion = mesoamerican_religion
+capital = "塔毛利帕斯"  # Tamaulipas
+trade_goods = sugar
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+1517.1.1 = {
+  discovered_by = SPA
+}
+1521.8.13 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  culture = castillian
+  religion = catholic
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = MEX
+}
+discovered_by = mesoamerican
+discovered_by = north_american
+1519.3.13 = {
+  discovered_by = SPA
+}
+1554.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  is_city = yes
+  capital = "上坦皮科"  # Tampico Alto
+  culture = castillian
+  trade_goods = sugar
+  religion = catholic
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = MEX
+}

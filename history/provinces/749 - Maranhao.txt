@@ -1,0 +1,66 @@
+culture = ge
+discovered_by = south_american
+religion = animism
+capital = "马拉尼昂"  # Maranhao
+trade_goods = unknown
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 1
+native_size = 15
+native_ferocity = 1
+native_hostileness = 3
+1500.1.1 = {
+  discovered_by = POR
+}
+1500.1.26 = {
+  discovered_by = CAS
+}
+1516.1.23 = {
+  discovered_by = SPA
+}
+1594.1.1 = {
+  discovered_by = FRA
+}
+1612.1.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  capital = "圣路易"  # Saint Louis
+  is_city = yes
+  religion = catholic
+  culture = cosmopolitan_french
+  trade_goods = tropical_wood
+}
+1615.1.1 = {
+  owner = POR
+  controller = POR
+  add_core = POR
+  remove_core = FRA
+  culture = portugese
+  capital = "圣路易斯"  # São Luis
+}
+1641.1.1 = {
+  owner = NED
+  controller = NED
+  culture = dutch
+  religion = reformed
+}
+1644.1.1 = {
+  owner = POR
+  controller = POR
+  culture = portugese
+  religion = catholic
+}
+1677.1.1 = {
+  unrest = 5
+}
+1678.1.1 = {
+  unrest = 0
+}
+1718.1.1 = {
+  unrest = 6
+}
+1725.1.1 = {
+  unrest = 0
+}

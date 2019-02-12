@@ -1,0 +1,96 @@
+owner = FRA
+controller = FRA
+capital = "卡奥尔"  # Cahors
+is_city = yes
+culture = gascon
+religion = catholic
+hre = no
+base_tax = 3
+base_production = 3
+trade_goods = wine
+base_manpower = 3
+add_core = FRA
+add_core = GUY
+discovered_by = eastern
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+1560.1.1 = {
+  religion = reformed
+}
+1565.1.1 = {
+  unrest = 8
+}
+1568.9.1 = {
+  unrest = 15
+}
+1570.8.8 = {
+  unrest = 10
+}
+1573.9.1 = {
+  unrest = 15
+}
+1574.5.1 = {
+  unrest = 7
+}
+1584.1.1 = {
+  unrest = 12
+}
+1588.12.1 = {
+  unrest = 15
+}
+1594.1.1 = {
+  unrest = 10
+}
+1598.4.13 = {
+  unrest = 3
+}
+1598.5.2 = {
+  unrest = 0
+}
+1636.1.1 = {
+  unrest = 5
+}
+1645.1.1 = {
+  unrest = 0
+}
+1650.1.14 = {
+  unrest = 7
+}
+1651.4.1 = {
+  unrest = 4
+}
+1651.12.1 = {
+  unrest = 7
+}
+1652.10.21 = {
+  unrest = 0
+}
+1685.10.18 = {
+  unrest = 8
+}
+1686.1.17 = {
+  religion = catholic
+}
+1689.1.1 = {
+  unrest = 0
+}
+1701.1.1 = {
+  unrest = 7
+}
+1702.1.1 = {
+  unrest = 0
+  revolt = {
+    type = heretic_rebels
+    size = 2
+  }
+  controller = REB
+}
+1705.1.1 = {
+  revolt = {}
+  controller = FRA
+  unrest = 3
+}
+1710.1.1 = {
+  unrest = 0
+}

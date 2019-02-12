@@ -1,0 +1,33 @@
+culture = caddo
+religion = totemism
+capital = "阿塔卡帕"  # Atakapa
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 10
+native_ferocity = 2
+native_hostileness = 4
+discovered_by = north_american
+1519.1.1 = {
+  discovered_by = SPA
+}
+1682.1.1 = {
+  discovered_by = FRA
+}
+1722.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  is_city = yes
+  culture = castillian
+  capital = "洛斯阿达埃斯"  # Los Adaes
+  religion = catholic
+  trade_goods = sugar
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

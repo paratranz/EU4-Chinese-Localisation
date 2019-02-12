@@ -1,0 +1,33 @@
+culture = lipan
+religion = totemism
+capital = "卡卡特斯"  # Cacaxtes
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = mesoamerican
+discovered_by = north_american
+1519.1.1 = {
+  discovered_by = SPA
+}
+1685.2.18 = {
+  discovered_by = FRA
+}
+1700.1.1 = {
+  owner = SPA
+  controller = SPA
+  add_core = SPA
+  is_city = yes
+  religion = catholic
+  trade_goods = wool
+  culture = castillian
+}
+1810.9.16 = {
+  owner = MEX
+  add_core = MEX
+  controller = SPA
+}

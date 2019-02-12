@@ -1,0 +1,75 @@
+add_core = ILL
+owner = ILL
+controller = ILL
+culture = illini
+religion = totemism
+capital = "伊利诺伊"  # Illinois
+trade_goods = grain
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+is_city = yes
+native_size = 10
+native_ferocity = 1
+native_hostileness = 0
+discovered_by = north_american
+1659.1.1 = {
+  discovered_by = FRA
+}
+1664.1.1 = {
+  discovered_by = ENG
+}
+1680.1.1 = {
+  owner = IRO
+  controller = IRO
+  add_core = IRO
+  culture = iroquois
+}
+1680.6.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  remove_core = ILL
+  remove_core = IRO
+  religion = catholic
+  culture = cosmopolitan_french
+}
+1707.5.12 = {
+  discovered_by = GBR
+}
+1763.2.10 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  culture = english
+  religion = protestant
+  remove_core = FRA
+}
+1763.3.1 = {
+  unrest = 6
+}
+1763.5.1 = {
+  unrest = 0
+  revolt = {
+    type = nationalist_rebels
+    size = 2
+  }
+  controller = REB
+}
+1763.10.9 = {
+  revolt = {}
+  owner = ILL
+  controller = ILL
+  add_core = ILL
+  remove_core = GBR
+  culture = huron
+  religion = totemism
+}
+1813.10.5 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+  culture = american
+  religion = protestant
+}

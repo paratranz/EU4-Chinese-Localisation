@@ -1,0 +1,48 @@
+culture = cree
+religion = totemism
+capital = "普拉森"  # Placentia
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 3
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+1497.6.24 = {
+  discovered_by = ENG
+}
+1502.1.1 = {
+  discovered_by = POR
+}
+1510.1.1 = {
+  add_permanent_province_modifier = {
+    name = "grand_bank_fisheries"
+    duration = -1
+  }
+}
+1534.1.1 = {
+  discovered_by = FRA
+}
+1620.1.1 = {
+  owner = FRA
+  controller = FRA
+  add_core = FRA
+  is_city = yes
+  culture = cosmopolitan_french
+  religion = catholic
+  trade_goods = fish
+}
+1655.1.1 = {
+  capital = "普莱桑斯"  # Plaisance
+}
+1713.4.11 = {
+  owner = GBR
+  controller = GBR
+  capital = "普拉森"  # Placentia
+  culture = english
+  religion = protestant
+  add_core = GBR
+  remove_core = FRA
+}

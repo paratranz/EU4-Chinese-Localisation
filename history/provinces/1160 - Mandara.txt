@@ -1,0 +1,62 @@
+owner = KBO
+controller = KBO
+add_core = KBO
+culture = kanuri
+religion = shamanism
+capital = "曼陀罗"  # Wandala
+is_city = yes
+base_manpower = 1
+trade_goods = tropical_wood
+hre = no
+base_tax = 1
+base_production = 1
+discovered_by = sub_saharan
+1503.1.1 = {
+  controller = KBO
+}
+1521.1.1 = {
+  unrest = 7
+}
+1562.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1566.1.1 = {
+  revolt = {}
+  controller = KBO
+}
+1580.1.1 = {
+  unrest = 9
+  capital = "咄陆"  # Dulo
+}
+1612.1.1 = {
+  unrest = 0
+}
+1682.1.1 = {
+  unrest = 8
+}
+1684.1.1 = {
+  unrest = 0
+}
+1715.1.1 = {
+  religion = sunni
+}
+1780.1.1 = {
+  unrest = 9
+}
+1781.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 1
+  }
+  controller = REB
+}
+1782.1.1 = {
+  revolt = {}
+}
+1804.1.1 = {
+  discovered_by = SOK
+}

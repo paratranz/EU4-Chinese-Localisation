@@ -1,0 +1,76 @@
+owner = POL
+controller = POL
+capital = "塔尔努夫"  # Tarnów
+culture = polish
+religion = catholic
+trade_goods = grain
+hre = no
+base_tax = 3
+base_production = 3
+base_manpower = 2
+is_city = yes
+estate = estate_nobles
+add_core = POL
+discovered_by = KAZ
+discovered_by = CRI
+discovered_by = GOL
+discovered_by = AST
+discovered_by = QAS
+discovered_by = western
+discovered_by = eastern
+discovered_by = muslim
+discovered_by = ottoman
+1550.1.1 = {
+  religion = reformed
+}
+1569.7.1 = {
+  owner = PLC
+  controller = PLC
+  remove_core = POL
+  add_core = PLC
+}
+1580.1.1 = {}
+1588.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 0
+  }
+  controller = REB
+}
+1589.1.1 = {
+  revolt = {}
+  controller = PLC
+}
+1606.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 2
+  }
+  controller = REB
+}
+1608.1.1 = {
+  revolt = {}
+  controller = PLC
+}
+1655.1.1 = {
+  controller = SWE
+}
+1660.1.1 = {
+  controller = PLC
+}
+1733.1.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 0
+  }
+  controller = REB
+}
+1735.1.1 = {
+  revolt = {}
+  controller = PLC
+}
+1772.8.5 = {
+  owner = HAB
+  controller = HAB
+  add_core = HAB
+}

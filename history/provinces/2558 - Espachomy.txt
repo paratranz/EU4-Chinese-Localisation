@@ -1,0 +1,83 @@
+culture = delaware
+religion = totemism
+capital = "厄帕卓"  # Espachomy
+trade_goods = unknown
+hre = no
+base_tax = 2
+base_production = 2
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 2
+discovered_by = north_american
+1638.1.1 = {
+  owner = LEN
+  controller = LEN
+  add_core = LEN
+  is_city = yes
+  trade_goods = fur
+}
+1652.1.1 = {
+  owner = NED
+  controller = NED
+  add_core = NED
+  culture = dutch
+  religion = reformed
+  capital = "威尔特维克"  # Wiltwijck
+  trade_goods = grain
+}
+1659.1.1 = {
+  unrest = 7
+}
+1660.7.15 = {
+  unrest = 3
+}
+1663.6.7 = {
+  unrest = 9
+}
+1663.9.1 = {
+  unrest = 0
+}
+1665.6.1 = {
+  controller = ENG
+}
+1667.7.31 = {
+  owner = ENG
+  culture = english
+  add_core = ENG
+  remove_core = NED
+  capital = "金斯敦"  # Kingston
+}
+1673.1.1 = {
+  owner = NED
+  controller = NED
+  add_core = NED
+  remove_core = ENG
+  culture = dutch
+  capital = "威尔特维克"  # Wiltwijck
+}
+1674.11.1 = {
+  owner = ENG
+  controller = ENG
+  add_core = ENG
+  remove_core = NED
+  culture = english
+  religion = protestant
+  capital = "金斯敦"  # Kingston
+}
+1707.5.12 = {
+  discovered_by = GBR
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+  remove_core = ENG
+}
+1776.7.4 = {
+  owner = USA
+  controller = USA
+  add_core = USA
+}
+1782.11.1 = {
+  remove_core = GBR
+  unrest = 0
+}

@@ -1,0 +1,28 @@
+latent_trade_goods = {
+  coal
+}
+culture = yukagyr
+religion = tengri_pagan_reformed
+capital = "上扬斯克"  # Verkhoyansk
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+base_manpower = 1
+native_size = 5
+native_ferocity = 1
+native_hostileness = 3
+1638.1.1 = {
+  discovered_by = RUS
+  owner = RUS
+  controller = RUS
+  religion = orthodox
+  culture = russian
+  is_city = yes
+}
+1672.1.1 = {
+  add_core = RUS
+}
+1700.1.1 = {
+  trade_goods = fur
+}

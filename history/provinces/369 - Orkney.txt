@@ -1,0 +1,43 @@
+owner = NOR
+controller = NOR
+culture = norwegian
+religion = catholic
+hre = no
+base_tax = 1
+base_production = 1
+trade_goods = fish
+base_manpower = 1
+capital = "柯克沃尔"  # Kirkwall
+is_city = yes
+add_core = NOR
+discovered_by = western
+discovered_by = muslim
+discovered_by = ottoman
+discovered_by = eastern
+1469.1.1 = {
+  owner = SCO
+  culture = scottish
+  controller = SCO
+  add_core = SCO
+  remove_core = NOR
+}
+1609.1.1 = {
+  religion = reformed
+}
+1650.3.1 = {
+  revolt = {
+    type = revolutionary_rebels
+    size = 2
+  }
+  controller = REB
+}
+1650.4.27 = {
+  revolt = {}
+  controller = SCO
+}
+1707.5.12 = {
+  owner = GBR
+  controller = GBR
+  add_core = GBR
+}
+1750.1.1 = {}

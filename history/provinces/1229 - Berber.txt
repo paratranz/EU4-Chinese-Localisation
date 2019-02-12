@@ -1,0 +1,54 @@
+culture = beja
+religion = sunni
+capital = "柏柏尔"  # Berber
+native_size = 50
+native_ferocity = 4
+native_hostileness = 9
+base_manpower = 2
+trade_goods = unknown
+hre = no
+base_tax = 1
+base_production = 1
+discovered_by = east_african
+discovered_by = muslim
+discovered_by = ottoman
+1444.1.1 = {
+  owner = BEJ
+  controller = BEJ
+  add_core = BEJ
+  is_city = yes
+  discovered_by = ETH
+  trade_goods = livestock
+}
+1503.1.1 = {
+  owner = NUB
+  controller = NUB
+  add_core = NUB
+}
+1550.1.1 = {
+  discovered_by = TUR
+}
+1583.1.1 = {
+  unrest = 6
+}
+1584.1.1 = {
+  unrest = 0
+}
+1612.1.1 = {
+  unrest = 5
+}
+1613.1.1 = {
+  unrest = 0
+}
+1706.1.1 = {
+  unrest = 3
+}
+1709.1.1 = {
+  unrest = 0
+}
+1718.1.1 = {
+  unrest = 6
+}
+1720.1.1 = {
+  unrest = 0
+}
