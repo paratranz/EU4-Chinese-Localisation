@@ -18,6 +18,7 @@ discovered_by = nomad_group
 1555.1.1 = {
   owner = ZAZ
   controller = ZAZ
+  add_core = ZAZ
   remove_core = CRI
   culture = ruthenian
   religion = orthodox
@@ -41,4 +42,7 @@ discovered_by = nomad_group
   add_core = RUS
   remove_core = TUR
   capital = "叶卡捷琳诺斯拉夫"  # Ekaterinoslav
+}
+1775.5.7 = {
+  remove_core = ZAZ
 }
