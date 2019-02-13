@@ -389,7 +389,7 @@ l_english:
  UNIT_MUST_BE_IN_OWN_AREA:0 "§R军队只能在一个属于你或你的合法附庸的省份镇压叛乱。§!\n"
  SUPPRESSION_AREA_NOT_ADJACENT:0 "§R您只能添加与已镇压地区相邻的地区。§!"
  SUPPRESSED_AREAS:0 "镇压地区"
- MAX_UNREST:0 "最高的叛乱风险：$MAX$"
+ MAX_UNREST:0 "最高叛乱风险：$MAX$"
  AREA_REBEL_SUPPRESSION_EXPLANATION:1 "总叛乱度减少$TOTAL|G$：\n军队镇压：$BASE|G$\n叛乱度减少的修正因素：\n  自动镇压叛乱：$MULT$\n\n在拥有叛乱的省份间均匀地减少叛乱，在$PROVS|Y$个省份中减少了$PER_PROV|G$叛乱。\n每个省份减少的叛乱不超过$MAX_UNREST_REDUCTION|G$。"
  CLICK_MAP_TO_ADD_AREAS:0 "点击地图来增加或移除压制区。"
  alert_can_enact_government_reform_instant:0 "§Y你可以进行政府改革§Y"
