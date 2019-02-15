@@ -542,7 +542,7 @@
     {
         "key": "string_start_religion_mechanic_title:0",
         "original": "[Root.GetName] is [Root.Religion.GetName]",
-        "translation": "[Root.GetName]是[Root.Religion.GetName]",
+        "translation": "[Root.GetName]信仰[Root.Religion.GetName]",
         "stage": 1
     },
     {
@@ -644,8 +644,8 @@
     {
         "key": "string_doom_info:0",
         "original": "\\n\\n£DLC_ed As a Nahuatl country you can always declare war during a §YRegency§!.\\nNahuatl countries have a §YDoom§! value, that ticks up by one per province and year. Once the Doom counter reaches 100 it heralds our §YDoomsday§! which will result in all subjects breaking free and be the end of your ruler and the ruling dynasty.\\nIn order to avert Doomsday, Nahuatl countries can declare §YFlower Wars§!, with the goal to capture people to sacrifice.\\nNahuatl states can also §YSacrifice§! the §YRulers§! and §YHeirs§! of Subject states to placate the gods and slow down the count down to Doomsday.\\n\\nOnce a Nahuatl country has acquired §Y5 Vassal States§! it can enact a §YReligious Reform§!, gaining a permanent bonus, in exchange for all vassals declaring independence.\\nOnce all Reforms have been undertaken, Nahuatl states can §YReform their Religion§!, gaining §YTechnology§! and §YInstitutions§! from a more advanced country they border. This will permanently disable the threat of Doom, while retaining the bonuses from all of the Religious Reforms.\\n",
-        "translation": "\\n\\n£DLC_ed£作为纳瓦特教国家，你可以在§Y摄政统治§!时期宣战。\\n纳瓦特国家拥有§Y末日§!值，每年每个省份会带来1点末日值。末日值达到100预示着§Y末日来临§!，导致所有附庸独立，以及统治者与其王朝终结。\\n为了避免延缓来临，纳瓦特国家可以通过§Y荣冠战争§!来抓捕俘虏进行献祭。\\n纳瓦特教国家还可以§Y献祭§!附庸国的§Y统治者§! 与§Y继承人§!来取悦众神，延缓末日的到来。\\n\\n一旦获得§Y5个附庸国§!，纳瓦特国家可以实施§Y宗教改革§!，获得永久加成，但要付出所有附庸独立的代价。\\n一旦完成所有改革，纳瓦特国家可以§Y完成教改§!，获得更先进的接壤邻国的§Y科技§!和§Y思潮§!。这样可以永久避免末日的威胁，同时保留所有宗教改革的奖励。\\n",
-        "stage": 5
+        "translation": "\\n\\n£DLC_ed 作为信仰纳瓦特尔神话的国家，你可以在§Y摄政统治§!时期宣战。\\n纳瓦特尔国家拥有§Y末日§!值，每年每个省份会带来1点末日值。末日值达到100预示着§Y末日来临§!，导致所有附庸独立，以及统治者与其王朝终结。\\n为了避免延缓来临，纳瓦特尔国家可以通过§Y荣冠战争§!来抓捕俘虏进行献祭。\\n纳瓦特尔国家还可以§Y献祭§!附庸国的§Y统治者§! 与§Y继承人§!来取悦众神，延缓末日的到来。\\n\\n一旦获得§Y5个附庸国§!，纳瓦特尔国家可以实施§Y宗教改革§!，获得永久加成，但要付出所有附庸独立的代价。\\n一旦完成所有改革，纳瓦特尔国家可以§Y完成宗教改革§!，以获得更先进的接壤邻国的§Y科技§!和§Y思潮§!。这样可以永久避免末日的威胁，同时保留所有宗教改革的奖励。\\n",
+        "stage": 1
     },
     {
         "key": "string_mayan_info:0",
@@ -752,19 +752,19 @@
     {
         "key": "string_start_religion_mayan:0",
         "original": "[Root.start_religion_intro][Root.start_mayan_mechanics]\\nMayan provinces can be found primarily around the Yucatan Peninsula, and the Mayan faith shares §YReligion Group§! with the nearby §YNahuatl§! religion.",
-        "translation": "[Root.start_religion_intro][Root.start_mayan_mechanics]\\n信仰玛雅宗教的省份主要位于尤卡坦半岛，玛雅信仰与邻近的§Y纳瓦特§!宗教属于同一§Y宗教组§!。",
-        "stage": 5
+        "translation": "[Root.start_religion_intro][Root.start_mayan_mechanics]\\n信仰玛雅宗教的省份主要位于尤卡坦半岛，玛雅信仰与邻近的§Y纳瓦特尔§!宗教属于同一§Y宗教组§!。",
+        "stage": 1
     },
     {
         "key": "string_start_religion_nahuatl:0",
         "original": "[Root.start_religion_intro][Root.start_nahuatl_doom]\\nNahuatl provinces can be found primarily around the valley of Mexico, and the Nahuatl faith shares §YReligion Group§! with the nearby §YMayan§! religion.",
-        "translation": "[Root.start_religion_intro][Root.start_nahuatl_doom]\\n信仰纳瓦特的省份主要位于墨西哥谷，纳瓦特信仰与邻近的§Y玛雅§!宗教属于同一§Y宗教组§!。",
-        "stage": 5
+        "translation": "[Root.start_religion_intro][Root.start_nahuatl_doom]\\n信仰纳瓦特尔神话的省份主要位于墨西哥谷，纳瓦特信仰与邻近的§Y玛雅§!宗教属于同一§Y宗教组§!。",
+        "stage": 1
     },
     {
         "key": "string_start_religion_inti:0",
         "original": "[Root.start_religion_intro][Root.start_inti_authority]\\nInti provinces can be found primarily in the Andes, and the Inti faith shares §YReligion Group§! with the nearby §YAnimist§! faith.",
-        "translation": "[Root.start_religion_intro][Root.start_inti_authority]\\n信仰因蒂宗教的省份主要位于安第斯山脉，因蒂信仰与邻近的§Y泛灵论§!信仰属于同一§Y宗教组§!。",
+        "translation": "[Root.start_religion_intro][Root.start_inti_authority]\\n信仰因蒂崇拜的省份主要位于安第斯山脉，因蒂崇拜与邻近的§Y泛灵论§!信仰属于同一§Y宗教组§!。",
         "stage": 1
     },
     {
@@ -1460,7 +1460,7 @@
     {
         "key": "strong_start_mayans:0",
         "original": "The splendors of the Mayan golden age of the first millenia have faded, leaving way to an era of bitter conflict and uneasy alliances. The glory of §YChichen Itza§! has waned, and the last of the §YItza§! rulers have been forced to flee into the jungles, at the southern edge of §YYucatan§!, to build new cities. In its stead only one last §YMayan§! empire remained to hold the Yucatan together: the §YLeague of Mayapan§!. In 1441, however, the §YXiu§! rulers of §YUxmal§! broke free of the League, slaughtering the entire §YCocomes§! ruling family of Mayapan, save for one survivor. Returning to Yucatan, that survivor rallied his allies, and founded a new capital at §YSotuta§!, while the Xiu moved theirs to Mani. With their bitter rivalry, the last ties holding Yucatan together have fallen apart, and other polities, like §YChactemal§! and §YCan Pech§! are striking out on their own, rejecting the influence of the great dynasties of ancient Yucatan.\\n\\nFurther south, in the mountains of §YGuatemala§!, little is left of the once-great cities in the region. Only two significant powers remain: the chief of them is §YQumarkaj§!, capital of the §YKiche§! people, which united much of the highlands over generations of rulers. Much of the Kiche's power rests on their alliance with their powerful vassals, the §YKaqchikel§!. So long as they stand together, they are powerful, but should event divide them, let alone turn on each other, the Kiche's power would be greatly diminished. Nearby, the §YCh'orti§! people, the heirs to the once-great city of §YCopan§!, largely stay out of the politics of their neighbors, while in the mountain valleys of §YChiapas§!, a plethora of local Mayan people, like the §YTzotzil§!, remain largely ignored by the more powerful realms around them. North of the Chiapas, along the coast of the Gulf of Mexico, the last descendants of the §YOlmec§! people, the §YYokot'an§!, likewise keep to their land, though they maintain a brisk trade with their neighbors.\\n\\nBut not all Mayan people live in the regions surrounding the Yucatan. Far to the north, beyond the lands of the Nahuatl people, the §YHuastec§! people left Mayan country thousands of years ago, driven north by the pressure of the then-nascent, now-forgotten Olmec Empire. They dwell now in the forest jungles at the northeastern edge of Mesoamerica, beyond the great empires of central Mexico. To them, their fellow Mayan people are but a forgotten dream; they are more concerned with the expansionist powers that surround them and constantly threaten them.",
-        "translation": "持续千年的玛雅黄金时代的辉煌已经消退，只留下了一个激烈冲突不断，同盟动荡不安的时代。§Y奇琴伊察§!的荣耀已经衰落，§Y伊察§!最后的统治者被迫逃进丛林，前往§Y尤卡坦§!的南部建立新的城市。取而代之的是§Y玛雅帝国§!最后的残余，将尤卡坦人团结在一起的§Y玛雅潘联盟§!。然而在1441年，§Y乌斯马尔§!的§Y休§!统治者打破了联盟，屠杀了玛雅潘联盟中§Y可可米斯§!的整个统治家族，只有一人幸存。回到尤卡坦后，这个幸存者团结了他的盟友，趁着休正迁移到马尼时在§Y索图塔§!建立了新的首都。随着他们激烈的竞争，使尤卡坦人团结的最后纽带也分崩离析，而其他政治实体，像§Y查克特马尔§!和§Y坎佩奇§!，则各自为政，拒绝来自这些尤卡坦古代王朝的影响。\\n\\n再往南，是§Y危地马拉§!的山脉，这里曾有很多伟大的城市，如今已经所剩无几。只有两股主要力量仍然存在：§Y库马尔卡赫§!酋长国和把高地数代统治者联合起来的§Y基切§!。基切的大部分力量依赖他们强大的附庸国，§Y喀克其奎§!。它们站在一方时十分强大，但如果事件使它们分道扬镳，兵戎相见，基切的力量就会被大大削弱。附近的§Y奇奥蒂§!人，是过去的伟大之城§Y科潘§!的继承人，他们在很大程度上远离了邻居的政治纷争，而在§Y恰帕斯§!的山谷中，像§Y乔齐尔§!这样的玛雅人群体仍被周边的国家所忽视。恰帕斯以北，墨西哥湾沿岸，是§Y奥尔梅克§!人最后的继承人§Y约科坦§!，他们保有自己的领土，并与邻居保持着活跃的贸易往来。\\n\\n但并非所有玛雅人都生活在尤卡坦半岛周边。在遥远的北方，纳瓦特人的土地之外，§Y瓦斯特克§!人在数千年前就离开了玛雅，在当时新生，现已被遗忘的奥尔梅克帝国的压力下向北前进。他们现在居住在中美洲东北边缘的丛林中，远离墨西哥中部的各大帝国。对他们来说，玛雅同胞只是一个被遗忘的梦；他们更关心周边不断威胁着他们的扩张势力。",
+        "translation": "持续千年的玛雅黄金时代的辉煌已经消退，只留下了一个激烈冲突不断，同盟动荡不安的时代。§Y奇琴伊察§!的荣耀已经衰落，§Y伊察§!最后的统治者被迫逃进丛林，前往§Y尤卡坦§!的南部建立新的城市。取而代之的是§Y玛雅帝国§!最后的残余，将尤卡坦人团结在一起的§Y玛雅潘联盟§!。然而在1441年，§Y乌斯马尔§!的§Y休§!统治者打破了联盟，屠杀了玛雅潘联盟中§Y可可米斯§!的整个统治家族，只有一人幸存。回到尤卡坦后，这个幸存者团结了他的盟友，趁着休正迁移到马尼时在§Y索图塔§!建立了新的首都。随着他们激烈的竞争，使尤卡坦人团结的最后纽带也分崩离析，而其他政治实体，像§Y查克特马尔§!和§Y坎佩奇§!，则各自为政，拒绝来自这些尤卡坦古代王朝的影响。\\n\\n再往南，是§Y危地马拉§!的山脉，这里曾有很多伟大的城市，如今已经所剩无几。只有两股主要力量仍然存在：§Y库马尔卡赫§!酋长国和把高地数代统治者联合起来的§Y基切§!。基切的大部分力量依赖他们强大的附庸国，§Y喀克其奎§!。它们站在一方时十分强大，但如果事件使它们分道扬镳，兵戎相见，基切的力量就会被大大削弱。附近的§Y奇奥蒂§!人，是过去的伟大之城§Y科潘§!的继承人，他们在很大程度上远离了邻居的政治纷争，而在§Y恰帕斯§!的山谷中，像§Y乔齐尔§!这样的玛雅人群体仍被周边的国家所忽视。恰帕斯以北，墨西哥湾沿岸，是§Y奥尔梅克§!人最后的继承人§Y约科坦§!，他们保有自己的领土，并与邻居保持着活跃的贸易往来。\\n\\n但并非所有玛雅人都生活在尤卡坦半岛周边。在遥远的北方，纳瓦特尔人的土地之外，§Y瓦斯特克§!人在数千年前就离开了玛雅，在当时新生，现已被遗忘的奥尔梅克帝国的压力下向北前进。他们现在居住在中美洲东北边缘的丛林中，远离墨西哥中部的各大帝国。对他们来说，玛雅同胞只是一个被遗忘的梦；他们更关心周边不断威胁着他们的扩张势力。",
         "stage": 1
     },
     {
