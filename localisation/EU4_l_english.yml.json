@@ -170,8 +170,8 @@
     {
         "key": "LEDGER_DISC:0",
         "original": "Discipline",
-        "translation": "训练度",
-        "stage": 5
+        "translation": "纪律",
+        "stage": 1
     },
     {
         "key": "LEDGER_SIEGE_ABIL:0",
@@ -938,8 +938,8 @@
     {
         "key": "BANNERS_NOT_OURS:1",
         "original": "If your primary culture is §YManchu§! you can raise Manchu Banners in provinces of Manchu Culture. Banners cost Corruption to raise and have higher Discipline than normal troops.\\n\\nYou can only raise banners from states that you own. Please select a province that you are the owner of.",
-        "translation": "如果你的主流文化是§Y满洲§!文化，你可以在满洲文化省份上招募满洲八旗兵。 八旗兵花费腐败度进行招募，拥有比普通士兵更高的训练度。\\n\\n你只能在你所拥有的直属州上招募八旗兵。请选择你所拥有的省份。",
-        "stage": 5
+        "translation": "如果你的主流文化是§Y满洲§!文化，你可以在满洲文化省份上招募满洲八旗兵。 八旗兵花费腐败度进行招募，拥有比普通士兵更高的纪律。\\n\\n你只能在你所拥有的直属州上招募八旗兵。请选择你所拥有的省份。",
+        "stage": 1
     },
     {
         "key": "COALITION_WILL_FORM:1",
@@ -1532,14 +1532,14 @@
     {
         "key": "obj_disc_army:0",
         "original": "High Discipline",
-        "translation": "训练有素的军队",
-        "stage": 5
+        "translation": "纪律严明的军队",
+        "stage": 1
     },
     {
         "key": "obj_disc_army_desc:0",
         "original": "Have least 125% discipline in your armies.",
-        "translation": "你的陆军训练度达到125%。",
-        "stage": 5
+        "translation": "你的陆军纪律达到125%。",
+        "stage": 1
     },
     {
         "key": "obj_huge_capital:0",
@@ -1994,13 +1994,13 @@
     {
         "key": "ABSOLUTISM_NOT_YET_TOOLTIP:1",
         "original": "§YAbsolutism§!\\nAbsolutism is how ruthless and efficient the government is. It is a concept that appears in the Age of Absolutism. The higher it is, the greater benefits we gain in Administrative Efficiency and Discipline.",
-        "translation": "§Y专制度§!\\n专制度是描述政府严刑峻法，行政高效程度的指标，是在专制主义时代中出现的概念。专制度越高，政府行政效率和陆军训练度提升越多。",
+        "translation": "§Y专制度§!\\n专制度是描述政府严刑峻法，行政高效程度的指标，是在专制主义时代中出现的概念。专制度越高，政府行政效率和陆军纪律提升越多。",
         "stage": 1
     },
     {
         "key": "ABSOLUTISM_IMPACT_TT:1",
         "original": "Absolutism is how ruthless and efficient the government is. The higher it is, the greater benefits we gain in Administrative Efficiency and Discipline.",
-        "translation": "专制度是描述政府严刑峻法，行政高效程度的指标。专制度越高，政府行政效率和陆军训练度提升越多。",
+        "translation": "专制度是描述政府严刑峻法，行政高效程度的指标。专制度越高，政府行政效率和陆军纪律提升越多。",
         "stage": 1
     },
     {
@@ -2288,8 +2288,8 @@
     {
         "key": "BANNERS_FROM_TT:2",
         "original": "\\nBanners cost Corruption to raise and have higher Discipline than normal troops.\\n\\nBanners are raised from the state's full core provinces with Manchu culture.\\n\\n$NAME$ can raise a total of $AMOUNT|Y$ Banners due to the development in:\\n",
-        "translation": "\\n八旗兵以增加腐败度为代价进行招募，并拥有比普通军队更高的训练度。\\n\\n在拥有全部核心并且全部是满洲文化的地区上可招募八旗。\\n\\n$NAME$可以招募总数为$AMOUNT|Y$的八旗兵，由于发展度为：\\n",
-        "stage": 5
+        "translation": "\\n八旗兵以增加腐败度为代价进行招募，并拥有比普通军队更高的纪律。\\n\\n在拥有全部核心并且全部是满洲文化的地区上可招募八旗。\\n\\n$NAME$可以招募总数为$AMOUNT|Y$的八旗兵，由于发展度为：\\n",
+        "stage": 1
     },
     {
         "key": "STATE_CORRUPTION_INC:1",
@@ -6050,7 +6050,7 @@
     {
         "key": "MIL_SCORE_DISCIPLINE:0",
         "original": "Discipline: $VAL$\\n",
-        "translation": "训练度：$VAL$\\n",
+        "translation": "纪律：$VAL$\\n",
         "stage": 1
     },
     {
@@ -7526,7 +7526,7 @@
     {
         "key": "DISC_ADD_DESC:0",
         "original": "This is the Discipline of the combat leader and should be seen as representative. Every unit still uses its own values during combat.",
-        "translation": "这是作战部队的训练度，可被视作一个代表。每个单位在战斗中仍然会单独计算自己的训练度。",
+        "translation": "这是作战部队的纪律，仅仅是反应整体情况。每个单位在战斗中仍然会使用自己的纪律。",
         "stage": 1
     },
     {
@@ -7568,7 +7568,7 @@
     {
         "key": "FROM_DISCIPLINE:0",
         "original": "Discipline: $VALUE$",
-        "translation": "训练度：$VALUE$",
+        "translation": "纪律：$VALUE$",
         "stage": 1
     },
     {
@@ -15608,7 +15608,7 @@
     {
         "key": "CAVALRY_DESC:0",
         "original": "With the owning and maintaining of a horse being an expensive undertaking, the mounted warrior is the elite of any army. The speed of the horse gives this soldier greater mobility on the battlefield, while only the most disciplined soldiers can stand in the face of the cavalry charge.",
-        "translation": "饲养马匹固然耗费颇丰，但马背上的勇士可谓任何一支军队中的精英。马的速度使得骑兵在战场上拥有着极高的机动性，只有最训练有素的士兵才能直面骑兵的冲锋。",
+        "translation": "饲养马匹固然耗费颇丰，但马背上的勇士可谓任何一支军队中的精英。马的速度使得骑兵在战场上拥有着极高的机动性，只有最有纪律的士兵才能直面骑兵的冲锋。",
         "stage": 1
     },
     {
@@ -18962,13 +18962,13 @@
     {
         "key": "DISCIPLINE_VALUE:0",
         "original": "The army's discipline value is §Y$VALUE|0$%§!.",
-        "translation": "军队的训练度为 §Y$VALUE|0$%§!.",
+        "translation": "军队的纪律为 §Y$VALUE|0$%§!.",
         "stage": 1
     },
     {
         "key": "DISCIPLINE_VALUE_NEW:0",
         "original": "$COUNTRY$'s Discipline is $VALUE$",
-        "translation": "$COUNTRY$的训练度为$VALUE$",
+        "translation": "$COUNTRY$的纪律为 $VALUE$",
         "stage": 1
     },
     {
