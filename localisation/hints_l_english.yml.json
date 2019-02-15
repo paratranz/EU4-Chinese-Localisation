@@ -392,7 +392,7 @@
     {
         "key": "HINT_MILSCORE_TEXT:0",
         "original": "Military score is gained from Military Technology, high Land Morale, amount of Generals, high Discipline and having a large army.",
-        "translation": "军事技术、陆军士气、陆军将领数量、训练度、陆军数量的提高将提高你的军事得分。",
+        "translation": "军事技术、陆军士气、陆军将领数量、纪律、陆军数量的提高将提高你的军事得分。",
         "stage": 1
     },
     {
@@ -1166,7 +1166,7 @@
     {
         "key": "HINT_COMBATPOWER_TEXT:0",
         "original": "Combat Ability is a bonus that gives your units extra damage in combat. It is different from Discipline because Combat Ability only increases damage, while Discipline also reduces damage taken.",
-        "translation": "作战能力可以在战斗中给你的军队带来伤害加成。作战能力和训练度的不同在于它只增加伤害，而训练度同时还能减少受到的伤害。",
+        "translation": "作战能力可以在战斗中给你的军队带来伤害加成。作战能力和纪律的不同在于它只增加伤害，而纪律同时还能减少受到的伤害。",
         "stage": 1
     },
     {
@@ -1724,13 +1724,13 @@
     {
         "key": "HINT_DISCIPLINE_TITLE:0",
         "original": "Discipline",
-        "translation": "训练度",
+        "translation": "纪律",
         "stage": 1
     },
     {
         "key": "HINT_DISCIPLINE_TEXT:0",
         "original": "Discipline directly affects the amount of damage your troops deal and how much damage they take during combat. Affects both casualties and morale damage.",
-        "translation": "训练度直接影响你的部队造成的伤害量以及他们在作战中所受到的伤害量。伤害量同时影响伤亡与士气。",
+        "translation": "纪律直接影响你的部队造成的伤害量以及他们在作战中所受到的伤害量。同时影响伤亡与士气打击。",
         "stage": 1
     },
     {
@@ -1790,7 +1790,7 @@
     {
         "key": "HINT_COMBATADV_TEXT:0",
         "original": "In combat both sides make a roll and add it together with modifiers such as terrain and leaders. Each unit attacks an enemy unit in range and the orange pips of the attacker are subtracted by the green pips of the defender. The result is then divided by Military Tactics and then multiplied by Discipline. The result is then used to check for Morale damage and casualties inflicted.",
-        "translation": "在交战中双方都会投掷骰子，得到的点数会与相关修正相加减，比如说地形修正和将领修正。每个单位都会攻击另一个攻击范围内的敌军单位，攻击单位的黄点（杀伤力）会被受攻击单位的绿点（防护力）所抵消，其结果会先除以被攻击单位军事战术，再乘以攻击单位的训练度得到一个最终数值。这个数值会决定最终造成的伤亡人数和士气挫伤。",
+        "translation": "在交战中双方都会投掷骰子，得到的点数会与相关修正相加减，比如说地形修正和将领修正。每个单位都会攻击另一个攻击范围内的敌军单位，攻击单位的黄点（杀伤力）会被受攻击单位的绿点（防护力）所抵消，其结果会先除以被攻击单位军事战术，再乘以攻击单位的纪律得到一个最终数值。这个数值会决定最终造成的伤亡人数和士气挫伤。",
         "stage": 1
     },
     {
