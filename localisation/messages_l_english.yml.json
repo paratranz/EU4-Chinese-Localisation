@@ -25892,7 +25892,7 @@
     {
         "key": "LANDBATTLEOVER_SETUP:0",
         "original": "When a land battle is over.",
-        "translation": "当一场陆战结束",
+        "translation": "当一场陆战结束。",
         "stage": 1
     },
     {
@@ -25910,19 +25910,19 @@
     {
         "key": "LANDBATTLEOVER_2:0",
         "original": "$MONARCHTITLE$, we have $RESULT$",
-        "translation": "$MONARCHTITLE$，我们已经$RESULT$",
+        "translation": "$MONARCHTITLE$，我们$RESULT$",
         "stage": 1
     },
     {
         "key": "LANDBATTLEOVER_3:0",
         "original": "The $NAME$!",
-        "translation": "$NAME$",
+        "translation": "$NAME$！",
         "stage": 1
     },
     {
         "key": "LANDBATTLEOVER_4:0",
         "original": "During the struggle $USLOSS$ of our $USNUM$ troops were killed.",
-        "translation": "我军参战的$USNUM$人中损失了$USLOSS$人.",
+        "translation": "我军参战的$USNUM$人中损失了$USLOSS$人。",
         "stage": 1
     },
     {
@@ -25934,13 +25934,13 @@
     {
         "key": "LANDBATTLEOVER_6:0",
         "original": "has $OTHERRESULT$ the battle. Out of $THEIRNUM$ Troops, $THEIRLOST$ were killed.",
-        "translation": "$OTHERRESULT$这场战役. 敌军参战的$THEIRNUM$人中损失了$THEIRLOST$人.",
+        "translation": "$OTHERRESULT$这场战斗。敌军参战的$THEIRNUM$人中损失了$THEIRLOST$人。",
         "stage": 1
     },
     {
         "key": "LANDBATTLEOVER_LOG:0",
         "original": "We $RESULT$ the $NAME$.",
-        "translation": "我们$RESULT$$NAME$.",
+        "translation": "我们$RESULT$$NAME$。",
         "stage": 1
     },
     {
@@ -25959,7 +25959,7 @@
         "key": "LANDBATTLEOVER_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "LANDBATTLEOVER_MAP:0",
@@ -25970,26 +25970,26 @@
     {
         "key": "RESULT_LOSS:0",
         "original": "lost",
-        "translation": "失去了",
-        "stage": 1
+        "translation": "打输了",
+        "stage": 5
     },
     {
         "key": "RESULT_WON:0",
         "original": "won",
         "translation": "打赢了",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "SIEGEOVER_TITLE:0",
         "original": "Siege Ended",
-        "translation": "攻城结束",
-        "stage": 1
+        "translation": "围攻结束",
+        "stage": 5
     },
     {
         "key": "SIEGEOVER_SETUP:0",
         "original": "When a siege is over.",
-        "translation": "当一个围攻结束",
-        "stage": 1
+        "translation": "当一次围攻结束。",
+        "stage": 5
     },
     {
         "key": "SIEGEOVER_HEADER:0",
@@ -26000,26 +26000,26 @@
     {
         "key": "SIEGEOVER_1:0",
         "original": "The $NAME$ is Over!",
-        "translation": "$NAME$围城战结束了!",
-        "stage": 1
+        "translation": "$NAME$的战役结束了！",
+        "stage": 5
     },
     {
         "key": "SIEGEOVER_2:0",
         "original": "$MONARCHTITLE$, we have $RESULT$ ",
-        "translation": "$MONARCHTITLE$，我们已经$RESULT$",
-        "stage": 1
+        "translation": "$MONARCHTITLE$，我们$RESULT$",
+        "stage": 5
     },
     {
         "key": "SIEGEOVER_3:0",
         "original": "The $NAME$!",
-        "translation": "$NAME$围城战",
-        "stage": 1
+        "translation": "$NAME$的战役！",
+        "stage": 5
     },
     {
         "key": "SIEGEOVER_4:0",
         "original": "The siege lasted $TIME$ days before the garrison finally succumbed to $REASON$.",
         "translation": "围城持续了$TIME$天，守军最终因$REASON$投降了。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "SIEGEOVER_5:0",
@@ -26031,13 +26031,13 @@
         "key": "SIEGEOVER_6:0",
         "original": "now controls the province. The garrison $RESDESC$",
         "translation": "现在控制这个省份。守卫部队$RESDESC$",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "SIEGEOVER_LOG:0",
         "original": "We $RESULT$ the $NAME$.",
-        "translation": "我们$RESULT$$NAME$围城战.",
-        "stage": 1
+        "translation": "我们$RESULT$$NAME$的战役。",
+        "stage": 5
     },
     {
         "key": "SIEGEOVER_BTN1:0",
@@ -26055,7 +26055,7 @@
         "key": "SIEGEOVER_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "SIEGEOVER_MAP:0",
@@ -26067,13 +26067,13 @@
         "key": "OCCUPATIONOVER_TITLE:0",
         "original": "Province Occupied",
         "translation": "省份被占领",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OCCUPATIONOVER_SETUP:0",
         "original": "When an unfortified province is occupied.",
-        "translation": "当一个没有要塞保护的省份被占领时",
-        "stage": 1
+        "translation": "当一个没有要塞保护的省份被占领时。",
+        "stage": 5
     },
     {
         "key": "OCCUPATIONOVER_HEADER:0",
@@ -26085,25 +26085,25 @@
         "key": "OCCUPATIONOVER_1:0",
         "original": "$WINNER$ occupied $PROV$",
         "translation": "$WINNER$占领了$PROV$",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OCCUPATIONOVER_2:0",
         "original": "$MONARCHTITLE$, $PROV$ has come under the occupation of",
         "translation": "$MONARCHTITLE$，$PROV$已经被",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OCCUPATIONOVER_3:0",
         "original": "$WINNER$.",
-        "translation": "$WINNER$所占领。",
-        "stage": 1
+        "translation": "$WINNER$占领。",
+        "stage": 5
     },
     {
         "key": "OCCUPATIONOVER_4:0",
         "original": "$WETHEY$ now control the province.",
         "translation": "$WETHEY$现在控制这个省份。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OCCUPATIONOVER_5:0",
@@ -26120,8 +26120,8 @@
     {
         "key": "OCCUPATIONOVER_LOG:0",
         "original": "$WINNER$ occupied $PROV$.",
-        "translation": "$WINNER$占领$PROV$。",
-        "stage": 1
+        "translation": "$WINNER$占领了$PROV$。",
+        "stage": 5
     },
     {
         "key": "OCCUPATIONOVER_BTN1:0",
@@ -26139,7 +26139,7 @@
         "key": "OCCUPATIONOVER_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OCCUPATIONOVER_MAP:0",
@@ -26150,14 +26150,14 @@
     {
         "key": "SIEGE_REASON_DESC_KILL:0",
         "original": "were all put to the sword.",
-        "translation": "被屠戮一空.",
-        "stage": 1
+        "translation": "被屠戮一空。",
+        "stage": 5
     },
     {
         "key": "SIEGE_REASON_DESC_LIVE:0",
         "original": "were allowed to march out, keeping their flags and arms.",
-        "translation": "被允许保留旗帜和武器离开.",
-        "stage": 1
+        "translation": "被允许保留旗帜和武器离开。",
+        "stage": 5
     },
     {
         "key": "SIEGE_ASSAULT:0",
@@ -26169,13 +26169,13 @@
         "key": "WE:0",
         "original": "we",
         "translation": "我们",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WE_CAP:0",
         "original": "We",
         "translation": "我们",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "NAVALBATTLEOVER_TITLE:0",
@@ -34533,7 +34533,7 @@
         "key": "NEWHEIR_MAP:0",
         "original": "Long Live $HEIRNAME$!",
         "translation": "$HEIRNAME$万岁！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "NEWHEIR_NAME_1:0",
