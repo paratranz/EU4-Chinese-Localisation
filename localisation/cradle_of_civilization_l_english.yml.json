@@ -500,7 +500,7 @@
     {
         "key": "army_professionalism_events.7.d:1",
         "original": "Our military professionalism has made our retired deserting officers very attractive to the other countries in the region. So much so that they are not properly vetting the defectors they recruit.\\nOur spymaster reports that we have managed to get a number of agents into the service of the [From.GetAdjective] [From.GetStateForm].",
-        "translation": "我们专业的军队使我们的退役军官对许多邻国很有吸引力，以至于他们并没有对这些背叛者进行多少审查。\\n我们的间谍首脑报告我们成功将一些间谍渗透进了[From.GetAdjective][From.GetStateForm]的军队.",
+        "translation": "我们专业的军队使我们的退役军官对许多邻国很有吸引力，以至于他们并没有对这些背叛者进行多少审查。\\n我们的间谍首脑报告我们成功将一些间谍渗透进了[From.GetAdjective][From.GetStateForm]的军队。",
         "stage": 1
     },
     {
@@ -2919,18 +2919,18 @@
         "key": "trade_policy_events.9.t:1",
         "original": "[Root.prominent_merchant.GetName] and his Family",
         "translation": "[Root.prominent_merchant.GetName]和他的家族",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "trade_policy_events.9.d:0",
         "original": "A merchant family from [merchant_family_province.GetName] has come to greatly expand our long range trade with [foreign_province_owner.GetName]. By successfully establishing themselves in both [foreign_province_owner.Capital.GetCapitalName] and the [foreign_province_owner.GetAdjective] hinterlands they have come to be very influential in both our societies, and very rich. This is a situation we could probably make use of…",
-        "translation": "来自 [merchant_family_province.GetName] 的商人家族正大大扩展了我们和 [foreign_province_owner.GetName]. 的远距离贸易. 他们成功地建立同[foreign_province_owner.Capital.GetCapitalName] 和 [foreign_province_owner.GetAdjective]内陆的双赢关系，变得十分富有，并在两个地区获得十足的影响力。我们要好好利用这个情况……",
+        "translation": "来自[merchant_family_province.GetName]的商人家族大大扩展了我们和[foreign_province_owner.GetName]的远距离贸易。他们成功建立了同[foreign_province_owner.Capital.GetCapitalName]和[foreign_province_owner.GetAdjective]内陆的双赢关系，变得十分富有，并在两个地区获得十足的影响力。我们要好好利用这个环境……",
         "stage": 1
     },
     {
         "key": "trade_policy_events.9.a:0",
         "original": "Let us use their influence to extract maps of [foreign_province_owner.GetAdjective] hinterlands.",
-        "translation": "让我们好好利用他们的影响来扩大我们在 [foreign_province_owner.GetAdjective] 内陆的地图",
+        "translation": "利用他们的影响来扩大我们在[foreign_province_owner.GetAdjective]内陆的地图。",
         "stage": 1
     },
     {
@@ -2942,7 +2942,7 @@
     {
         "key": "trade_policy_events.9.c:0",
         "original": "Let us make [Root.prominent_merchant.GetName] a the new architect for our trade policies.",
-        "translation": "让我们把[Root.prominent_merchant.GetName] 作为我们贸易政策的新策划者。",
+        "translation": "把[Root.prominent_merchant.GetName]作为我们贸易政策的新策划者。",
         "stage": 1
     },
     {
