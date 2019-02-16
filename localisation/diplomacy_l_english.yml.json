@@ -1196,8 +1196,8 @@
     {
         "key": "INFILTRATETITLE:0",
         "original": "Infiltrate Administration",
-        "translation": "管理渗透",
-        "stage": 5
+        "translation": "渗透行政系统",
+        "stage": 1
     },
     {
         "key": "CANCEL_INFILTRATETITLE:0",
@@ -1232,8 +1232,8 @@
     {
         "key": "INFILTRATEDESC:0",
         "original": "Infiltrate Administration lifts the Fog of War from the target country until $DATE|Y$.",
-        "translation": "渗透对方官僚系统，这样你就可以掌握他们的所有动向了.",
-        "stage": 5
+        "translation": "渗透对方的行政系统，这样你就可以掌握他们的所有动向直到 $DATE|Y$。",
+        "stage": 1
     },
     {
         "key": "IS_INFILTRATEDESC:0",
@@ -2078,8 +2078,8 @@
     {
         "key": "INFILTRATE_ADMINISTRATION:0",
         "original": "Infiltrate Administration",
-        "translation": "管理渗透",
-        "stage": 5
+        "translation": "渗透行政系统",
+        "stage": 1
     },
     {
         "key": "SOW_DISCONTENT:0",
@@ -2168,13 +2168,13 @@
     {
         "key": "IS_INFILTRATE:0",
         "original": "Is Infiltrating administration.",
-        "translation": "正在渗透官僚系统。",
+        "translation": "正在渗透行政系统。",
         "stage": 1
     },
     {
         "key": "IS_NOT_INFILTRATE:0",
         "original": "Is NOT Infiltrating administration.",
-        "translation": "未在渗透官僚系统。",
+        "translation": "未在渗透行政系统。",
         "stage": 1
     },
     {
@@ -2187,7 +2187,7 @@
         "key": "REBEL_SUPPORT_MONEY:0",
         "original": "Cost:",
         "translation": "花费：",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "REBEL_SUPPORT_MONEY_DESC:1",
@@ -2198,14 +2198,14 @@
     {
         "key": "war_goal_take_colony:0",
         "original": "Take colony $PROV$ in $CONTINENT$",
-        "translation": "夺取殖民地 $CONTINENT$的$PROV$",
-        "stage": 1
+        "translation": "夺取位于$CONTINENT$的殖民地$PROV$",
+        "stage": 5
     },
     {
         "key": "war_goal_take_colony_desc:0",
         "original": "War goal is to take the colony $PROV$ in $CONTINENT$.",
-        "translation": "战争目标是夺取$PROV$这一$CONTINENT$殖民地",
-        "stage": 1
+        "translation": "战争目标是夺取位于$CONTINENT$的殖民地$PROV$。",
+        "stage": 5
     },
     {
         "key": "war_goal_take_core:0",
@@ -2216,7 +2216,7 @@
     {
         "key": "war_goal_take_core_desc:0",
         "original": "War goal is to take the core $PROV$.",
-        "translation": "战争目标是收回$PROV$这一核心省份。",
+        "translation": "战争目标是夺回核心省份$PROV$。",
         "stage": 5
     },
     {
@@ -2228,7 +2228,7 @@
     {
         "key": "war_goal_take_border_desc:0",
         "original": "War goal is to take the border province $PROV$.",
-        "translation": "战争目标是夺取$PROV$这一边境省份",
+        "translation": "战争目标是夺取边境省份$PROV$。",
         "stage": 5
     },
     {
@@ -2240,8 +2240,8 @@
     {
         "key": "war_goal_take_province_desc:0",
         "original": "War goal is to take $PROV$.",
-        "translation": "战争目标是夺取$PROV$这一省份",
-        "stage": 5
+        "translation": "战争目标是夺取$PROV$。",
+        "stage": 1
     },
     {
         "key": "war_goal_take_capital:0",
@@ -2252,8 +2252,8 @@
     {
         "key": "war_goal_take_capital_desc:0",
         "original": "War goal is to take the capital province of $COUNTRY$.",
-        "translation": "战争目标是夺取$COUNTRY$的首都",
-        "stage": 5
+        "translation": "战争目标是夺取$COUNTRY$的首都。",
+        "stage": 1
     },
     {
         "key": "war_goal_blockade_ports:0",
@@ -2264,32 +2264,32 @@
     {
         "key": "war_goal_blockade_ports_desc:0",
         "original": "Your goal is to stop your enemies' trade by blocking as many ports as possible.",
-        "translation": "你的目标是封锁尽可能多的港口,以阻碍你的敌人的贸易.",
-        "stage": 5
+        "translation": "你的目标是封锁尽可能多的港口，以阻碍你的敌人的贸易。",
+        "stage": 1
     },
     {
         "key": "defend_capital_independence:0",
         "original": "Defend capital ($CAPITAL$)",
-        "translation": "保卫首都($CAPITAL$)",
-        "stage": 5
+        "translation": "保卫首都（$CAPITAL$）",
+        "stage": 1
     },
     {
         "key": "defend_capital_independence_desc:0",
         "original": "War goal is to defend the capital province of $COUNTRY$.",
-        "translation": "战争目标是保卫$COUNTRY$的首都",
-        "stage": 5
+        "translation": "战争目标是保卫$COUNTRY$的首都。",
+        "stage": 1
     },
     {
         "key": "war_goal_defend_capital:0",
         "original": "Defend capital ($CAPITAL$)",
-        "translation": "保卫首都($CAPITAL$)",
-        "stage": 5
+        "translation": "保卫首都（$CAPITAL$）",
+        "stage": 1
     },
     {
         "key": "war_goal_defend_capital_desc:0",
         "original": "War goal is to defend the capital province of $COUNTRY$.",
-        "translation": "战争目标是保卫$COUNTRY$的首都",
-        "stage": 5
+        "translation": "战争目标是保卫$COUNTRY$的首都。",
+        "stage": 1
     },
     {
         "key": "war_goal_defend_country:0",
@@ -2300,8 +2300,8 @@
     {
         "key": "war_goal_defend_country_desc:0",
         "original": "War goal is to defend $COUNTRY$.",
-        "translation": "战争目标是保卫$COUNTRY$",
-        "stage": 5
+        "translation": "战争目标是保卫$COUNTRY$。",
+        "stage": 1
     },
     {
         "key": "war_goal_raid:0",
@@ -2312,8 +2312,8 @@
     {
         "key": "war_goal_raid_desc:0",
         "original": "War goal is to raid $COUNTRY$.",
-        "translation": "战争目标是对$COUNTRY$进行烧杀抢掠",
-        "stage": 5
+        "translation": "战争目标是对$COUNTRY$进行烧杀抢掠。",
+        "stage": 1
     },
     {
         "key": "war_goal_naval_superiority:0",
@@ -2348,14 +2348,14 @@
     {
         "key": "war_goal_region_desc:0",
         "original": "War goal is to take a certain region.",
-        "translation": "战争目标是夺取某个地区",
-        "stage": 5
+        "translation": "战争目标是夺取特定地区。",
+        "stage": 1
     },
     {
         "key": "take_core_defection:0",
         "original": "Take a Core Province",
-        "translation": "收回一个核心省份",
-        "stage": 5
+        "translation": "夺取一个核心省份",
+        "stage": 1
     },
     {
         "key": "take_core_defection_desc:0",
@@ -2372,7 +2372,7 @@
     {
         "key": "superiority_loan_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
         "stage": 1
     },
     {
@@ -2384,7 +2384,7 @@
     {
         "key": "superiority_spy_desc:0",
         "original": "War goal is to show these spies superiority by winning battles.",
-        "translation": "以赢得战役的方式，对这些间谍展现霸权。",
+        "translation": "战争目标是通过赢得战斗来向这些间谍展现霸权。",
         "stage": 1
     },
     {
@@ -2396,7 +2396,7 @@
     {
         "key": "superiority_revolution_desc:0",
         "original": "War goal is to show the superiority that comes with the revolution by winning battles.",
-        "translation": "战争的目的是通过赢得胜利带来革命的优势。",
+        "translation": "战争目标是通过赢得战斗展现革命带来的优势。",
         "stage": 1
     },
     {
@@ -2408,8 +2408,8 @@
     {
         "key": "take_capital_disloyal_desc:0",
         "original": "War goal is to take the capital from this disloyal vassal.",
-        "translation": "战争目标是占领这个不安分的附庸国的首都",
-        "stage": 5
+        "translation": "战争目标是占领这个不安分的附庸国的首都。",
+        "stage": 1
     },
     {
         "key": "defend_country_faith:0",
@@ -2456,7 +2456,7 @@
     {
         "key": "superiority_insult_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
         "stage": 1
     },
     {
@@ -2468,7 +2468,7 @@
     {
         "key": "superiority_insult_mutual_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
         "stage": 1
     },
     {
@@ -2480,8 +2480,8 @@
     {
         "key": "take_capital_personal_union_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是夺取首都",
-        "stage": 5
+        "translation": "战争目标是夺取首都。",
+        "stage": 1
     },
     {
         "key": "defend_country_soi:0",
@@ -2504,8 +2504,8 @@
     {
         "key": "take_capital_fabricated_claims_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是夺取首都",
-        "stage": 5
+        "translation": "战争目标是夺取首都。",
+        "stage": 1
     },
     {
         "key": "take_capital_conformance:0",
@@ -2516,8 +2516,8 @@
     {
         "key": "take_capital_conformance_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是夺取首都",
-        "stage": 5
+        "translation": "战争目标是夺取首都。",
+        "stage": 1
     },
     {
         "key": "take_border:0",
@@ -2534,14 +2534,14 @@
     {
         "key": "take_capital_independence:0",
         "original": "Take the capital in the search for independence",
-        "translation": "为了得到独立而抢占首都",
-        "stage": 5
+        "translation": "为了得到独立而夺取首都",
+        "stage": 1
     },
     {
         "key": "take_capital_independence_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是夺取首都",
-        "stage": 5
+        "translation": "战争目标是夺取首都。",
+        "stage": 1
     },
     {
         "key": "take_capital_conquest:0",
@@ -2552,8 +2552,8 @@
     {
         "key": "take_capital_conquest_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是夺取首都",
-        "stage": 5
+        "translation": "战争目标是夺取首都。",
+        "stage": 1
     },
     {
         "key": "take_core:0",
@@ -2588,8 +2588,8 @@
     {
         "key": "take_capital_claim_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是夺取首都",
-        "stage": 5
+        "translation": "战争目标是夺取首都。",
+        "stage": 1
     },
     {
         "key": "take_capital_punitive:0",
@@ -2624,8 +2624,8 @@
     {
         "key": "take_capital_imperial_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是夺取首都",
-        "stage": 5
+        "translation": "战争目标是夺取首都。",
+        "stage": 1
     },
     {
         "key": "take_capital_mayan:0",
@@ -2636,8 +2636,8 @@
     {
         "key": "take_capital_mayan_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是占领首都",
-        "stage": 5
+        "translation": "战争目标是夺取首都。",
+        "stage": 1
     },
     {
         "key": "take_province_revolutionary:0",
@@ -2672,8 +2672,8 @@
     {
         "key": "take_capital_liberation_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是夺取首都",
-        "stage": 5
+        "translation": "战争目标是夺取首都。",
+        "stage": 1
     },
     {
         "key": "superiority_liberation:0",
@@ -2684,8 +2684,8 @@
     {
         "key": "superiority_liberation_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争的目标是通过赢得战争展现他们的霸权",
-        "stage": 5
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
+        "stage": 1
     },
     {
         "key": "superiority_crusade:0",
@@ -2696,7 +2696,7 @@
     {
         "key": "superiority_crusade_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
         "stage": 1
     },
     {
@@ -2720,7 +2720,7 @@
     {
         "key": "superiority_heretic_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
         "stage": 1
     },
     {
@@ -2732,7 +2732,7 @@
     {
         "key": "superiority_trade_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争的目标是通过赢得战役来展现霸权",
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
         "stage": 1
     },
     {
@@ -2744,7 +2744,7 @@
     {
         "key": "superiority_trade_mutual_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争的目标是通过赢得战役来展现霸权",
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
         "stage": 1
     },
     {
@@ -2792,7 +2792,7 @@
     {
         "key": "superiority_punitive_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
         "stage": 1
     },
     {
@@ -2804,8 +2804,8 @@
     {
         "key": "superiority_primitives_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
-        "stage": 5
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
+        "stage": 1
     },
     {
         "key": "superiority_overseas:0",
@@ -2816,7 +2816,7 @@
     {
         "key": "superiority_overseas_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争的目的是展示他们的霸权力量并赢得战争.",
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
         "stage": 1
     },
     {
@@ -2828,7 +2828,7 @@
     {
         "key": "take_capital_throne_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是夺取首都",
+        "translation": "战争目标是夺取首都。",
         "stage": 1
     },
     {
@@ -2840,7 +2840,7 @@
     {
         "key": "take_capital_vassalize_desc:0",
         "original": "War goal is to take the capital.",
-        "translation": "战争目标是夺取首都",
+        "translation": "战争目标是夺取首都。",
         "stage": 1
     },
     {
@@ -2864,7 +2864,7 @@
     {
         "key": "superiority_horde_desc:0",
         "original": "War goal is to show them superiority by winning battles.",
-        "translation": "战争目标是展现霸权，这要通过赢得战役的方式达成。",
+        "translation": "战争目标是通过赢得战斗来向他们展现霸权。",
         "stage": 1
     },
     {
