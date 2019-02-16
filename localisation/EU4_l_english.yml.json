@@ -14,74 +14,74 @@
     {
         "key": "CAN_NOT_EXPLOIT_UNTIL:1",
         "original": "§R- We have recently exploited $WHERE|Y$, and it is not possible to do it again until $DATE|Y$.§!",
-        "translation": "§R- 最近已经剥夺过$WHERE|Y$的发展度，因此 $DATE|Y$ 之前不能再次剥夺。§!",
+        "translation": "§R－最近已经剥削过$WHERE|Y$的发展度，因此 $DATE|Y$ 之前不能再次剥削。§!",
         "stage": 1
     },
     {
         "key": "CAN_NOT_EXPLOIT_OCCUPIED:1",
         "original": "§R- You can not exploit development as $WHERE|Y$ is currently occupied by hostile forces.§!",
-        "translation": "§R- $WHERE|Y$当前已被敌军占领，无法剥夺其发展度。§!",
-        "stage": 5
+        "translation": "§R－$WHERE|Y$当前已被敌军占领，无法剥削其发展度。§!",
+        "stage": 1
     },
     {
         "key": "CAN_NOT_EXPLOIT_ADM:1",
         "original": "§R- The Base Tax is too low to be exploited.§!",
-        "translation": "§R- 基础税基太低，无法剥夺。§!",
-        "stage": 5
+        "translation": "§R－基础税收太低，无法被剥削。§!",
+        "stage": 1
     },
     {
         "key": "CAN_NOT_EXPLOIT_DIP:1",
         "original": "§R- The Base Production is too low to be exploited.§!",
-        "translation": "§R- 基础生产力太低，无法剥夺。§!",
-        "stage": 5
+        "translation": "§R－基础生产力太低，无法被剥削。§!",
+        "stage": 1
     },
     {
         "key": "CAN_NOT_EXPLOIT_MIL:1",
         "original": "§R- The Base Manpower is too low to be exploited.§!",
-        "translation": "§R- 基础人力太低，无法剥夺。§!",
-        "stage": 5
+        "translation": "§R－基础人力太低，无法被剥削。§!",
+        "stage": 1
     },
     {
         "key": "CAN_NOT_EXPLOIT_CORE:1",
         "original": "§R- We can not exploit $WHERE|Y$ as it is not a core province.§!",
-        "translation": "§R- $WHERE|Y$还不是我们的核心省份，无法剥夺其发展度。§!",
-        "stage": 5
+        "translation": "§R－$WHERE|Y$还不是我们的核心省份，无法剥削其发展度。§!",
+        "stage": 1
     },
     {
         "key": "CAN_NOT_EXPLOIT_NOT_OWNED:0",
         "original": "We need to own $WHERE|Y$ before we can exploit it.",
-        "translation": "拥有$WHERE|Y$之后才能剥夺其发展度。",
-        "stage": 5
+        "translation": "拥有$WHERE|Y$之后才能剥削其发展度。",
+        "stage": 1
     },
     {
         "key": "CAN_NOT_EXPLOIT_SIEGE:0",
         "original": "§R- $WHERE$ is under siege.§!",
-        "translation": "§R- $WHERE$正被围城。§!",
-        "stage": 5
+        "translation": "§R－$WHERE$正被围攻。§!",
+        "stage": 1
     },
     {
         "key": "EXPLOIT_FOR_THIS:0",
         "original": "Exploiting Development will give us the following effects:\\n",
-        "translation": "降低发展度将带来以下效果：\\n",
-        "stage": 5
+        "translation": "剥削发展度将带来以下效果：\\n",
+        "stage": 1
     },
     {
         "key": "CONFIRM_EXPLOIT:0",
         "original": "Confirm Exploiting Development",
-        "translation": "确认降低发展度",
-        "stage": 5
+        "translation": "确认剥削发展度",
+        "stage": 1
     },
     {
         "key": "CAN_NOT_EXPLOIT_DIP_NO_SAIL:0",
         "original": "There are no sailors here.",
-        "translation": "这里没有水手",
-        "stage": 5
+        "translation": "这里没有水手。",
+        "stage": 1
     },
     {
         "key": "exploit_development:0",
         "original": "Exploit Development",
-        "translation": "降低发展度",
-        "stage": 5
+        "translation": "剥削发展度",
+        "stage": 1
     },
     {
         "key": "SLACKENRECRUITSTANDS:0",
@@ -27926,7 +27926,7 @@
     {
         "key": "MINAGGRESSIVEEXPANSION:0",
         "original": "You must have at least §Y50§! aggressive expansion opinion penalty towards a country to join a coalition against them.",
-        "translation": "你对目标国家需要至少§Y50§!点侵略扩张态度的惩罚才能加入针对他们的包围网。",
+        "translation": "你需要对目标国家有至少 §Y50§! 点侵略扩张的好感惩罚才能加入针对他们的包围网。",
         "stage": 1
     },
     {
