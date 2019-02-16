@@ -3302,7 +3302,7 @@
     {
         "key": "CHARTER_COMPANY_NO_AT_WAR:0",
         "original": "You can't ask for charter company when at war",
-        "translation": "当你处于战争时，不能要求贸易特许公司。",
+        "translation": "当一方处于战争时你不能要求贸易特许公司",
         "stage": 1
     },
     {
@@ -5397,13 +5397,13 @@
         "key": "dutch_republic.33.a:0",
         "original": "Long live [Root.Monarch.GetName]!",
         "translation": "[Root.Monarch.GetName]万岁！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "dutch_republic.33.b:0",
         "original": "Long live the [Root.GovernmentName]!",
         "translation": "[Root.GovernmentName]万岁！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "opinion_company_land_purchase:0",
