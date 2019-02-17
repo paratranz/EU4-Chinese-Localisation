@@ -6698,14 +6698,14 @@
     {
         "key": "LACK_OF_ELECTORS:0",
         "original": "There are only §Y$CURR$§! electors in the empire, and there needs to be §Y$NEED$§! for it to function properly. Therefore the Imperial Authority is decreased by §R$VAL$§! every month.",
-        "translation": "当前帝国内有§Y$CURR$§!个选帝侯，最少需要§Y$NEED$§!个选帝侯才能维持帝国正常运作：\\n帝国权威每月§R$VAL$§!。",
-        "stage": 1
+        "translation": "当前帝国内有§Y$CURR$§!个选帝侯，最少需要§Y$NEED$§!个选帝侯才能维持帝国正常运作。帝国权威因此每月§R$VAL$§!。",
+        "stage": 5
     },
     {
         "key": "VASSALIZED_ELECTORS:0",
         "original": "§Y$CURR$§! of the electors in the empire are subject states. Therefore the Imperial Authority is decreased by §R$VAL$§! every month.",
-        "translation": "当前帝国内有§Y$CURR$§!个选帝侯是他国属国：\\n帝国权威每月§R$VAL$§!。",
-        "stage": 1
+        "translation": "当前帝国内有§Y$CURR$§!个选帝侯是他国属国。帝国权威因此每月§R$VAL$§!。",
+        "stage": 5
     },
     {
         "key": "ENACT_DECREE_ONLY_ONE:0",
@@ -6968,8 +6968,8 @@
     {
         "key": "RPH_ELECTOR:0",
         "original": "As an Elector, we cannot remove provinces from the Empire.",
-        "translation": "作为一名选帝侯，我们无法让省份脱离帝国。",
-        "stage": 1
+        "translation": "作为选帝侯，我们无法让省份脱离帝国。",
+        "stage": 5
     },
     {
         "key": "RPH_AT_WAR:0",
@@ -8360,7 +8360,7 @@
     {
         "key": "archduchy_desc:0",
         "original": "The title Archduke was only used by the House of Habsburg in order to elevate them above other dukes into a more a prestigious position more in line with the Prince-electors of the Holy Roman Empire.",
-        "translation": "哈布斯堡大公为其家族所特有的头衔，旨在使哈布斯堡公爵拥有比其他公爵更加显赫的地位，并与神圣罗马帝国的选帝侯相匹敌。",
+        "translation": "大公为哈布斯堡家族所特有的头衔，旨在使其拥有比其他公爵更加显赫的地位，并与神圣罗马帝国的选帝侯相匹敌。",
         "stage": 1
     },
     {
@@ -10269,7 +10269,7 @@
         "key": "HREVOTE_VASSAL_ELECTOR:0",
         "original": "Controlling other Electors: §R$VAL$§W\\n",
         "translation": "控制其他选帝侯：§R$VAL$§W\\n",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "HREVOTE_IMP_AUTH:0",
@@ -10868,7 +10868,7 @@
     {
         "key": "HRE_SOMEONE_ELSE:0",
         "original": "They have the backing of another elector, so they are backing their own candidacy.",
-        "translation": "由于有其他选帝侯支持，他们选择为自己加冕。",
+        "translation": "由于有其他选帝侯支持，他们选择支持自己。",
         "stage": 1
     },
     {
@@ -20271,7 +20271,7 @@
         "key": "REVOKE_ELECTOR:0",
         "original": "$WHO$ will lose their elector status.",
         "translation": "$WHO$将失去选帝侯地位。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "REVOKE_ELECTOR_TITLE:0",
@@ -21848,8 +21848,8 @@
     {
         "key": "cb_revoke_electorate_desc:0",
         "original": "We can revoke their power of an elector. Declaring this war will greatly upset the other electors.",
-        "translation": "我们可以剥夺他们选举的权力。宣这场战争会极大地惹恼其他的选帝侯。",
-        "stage": 1
+        "translation": "我们可以剥夺他们选举的权力。发起这场战争会极大地惹恼其他的选帝侯。",
+        "stage": 5
     },
     {
         "key": "cb_privateers:0",

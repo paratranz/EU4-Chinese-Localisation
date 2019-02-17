@@ -1856,8 +1856,8 @@
     {
         "key": "MAPMODE_EMPIRE_DESC:0",
         "original": "Colors the provinces that are part of the Holy Roman Empire.\\nPurple belongs to the Emperor, brown belongs to an Elector, and blue belongs to a Free City. Green provinces are simply part of the Empire.\\nYellow-striped provinces are part of the Empire, but their Owner is not.\\nOrange-striped provinces are part of the Empire, but they are subject of a non-Empire overlord.\\n",
-        "translation": "用颜色标记神圣罗马帝国的省份。\\n紫色省份属于皇帝，棕色省份属于选帝侯，蓝色省份属于自由市，绿色省份属于普通帝国成员。\\n黄色条纹省份是帝国的一部分，但是其拥有者不是神圣罗马帝国的成员。\\n橙色条纹省份是帝国的一部分，但其拥有者是一个非帝国成员的属国。\\n",
-        "stage": 1
+        "translation": "用颜色标记神圣罗马帝国的省份。\\n紫色省份属于皇帝，棕色省份属于选帝侯，蓝色省份属于自由市，绿色省份属于普通帝国成员。\\n黄色条纹省份是帝国的一部分，但是其拥有者不是神圣罗马帝国的成员。\\n橙色条纹省份是帝国的一部分，但其拥有者是一个非帝国成员的附属国。\\n",
+        "stage": 5
     },
     {
         "key": "MAPMODE_TRADE_DESC:0",
@@ -3326,8 +3326,8 @@
     {
         "key": "HRE_OTHER_VOTE_SELF:0",
         "original": "The Elector of §Y$ELECTOR$§W is backing themselves for the Imperial Throne.",
-        "translation": "§Y$ELECTOR$§W的选帝侯正在支持他们自己当皇帝。",
-        "stage": 1
+        "translation": "§Y$ELECTOR$§W选帝侯正在支持其自己当皇帝。",
+        "stage": 5
     },
     {
         "key": "CURRENTLY_VOTING_FOR_SELF:0",
