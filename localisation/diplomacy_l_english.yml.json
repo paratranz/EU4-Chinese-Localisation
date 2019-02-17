@@ -3074,8 +3074,8 @@
     {
         "key": "PEACEOFFER_REVOKE_CORES_ON:0",
         "original": "Revoke $ADJ$ core on $PROV$",
-        "translation": "在$PROV$撤销$ADJ$核心",
-        "stage": 5
+        "translation": "撤销$ADJ$于$PROV$的核心",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_TRUCE:0",
@@ -3092,8 +3092,8 @@
     {
         "key": "REVOKE_CORE_TOOLTIP:0",
         "original": "§Y$COUNTRY$§W revokes their core on §Y$PROVINCE$§W. Current owner is $OWNER$.",
-        "translation": "§Y$COUNTRY$§W不再认为§Y$PROVINCE$§W是核心领土。该省份目前属于$OWNER$。",
-        "stage": 5
+        "translation": "§Y$COUNTRY$§W将撤销§Y$PROVINCE$§W省份的核心。该省份目前属于$OWNER$。",
+        "stage": 1
     },
     {
         "key": "RELEASE_VASSAL_TOOLTIP:0",
