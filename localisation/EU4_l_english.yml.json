@@ -1040,8 +1040,8 @@
     {
         "key": "MODIFIER_MONTHLY_KARMA:0",
         "original": "Monthly Karma",
-        "translation": "每月业报",
-        "stage": 5
+        "translation": "每月业力",
+        "stage": 1
     },
     {
         "key": "blockaded:0",
@@ -2072,14 +2072,14 @@
     {
         "key": "KARMA_FROM_CONV:1",
         "original": "This increases our Karma by §G+$VAL$§!.",
-        "translation": "这提高了我们的业报§G+$VAL$§!点。",
-        "stage": 5
+        "translation": "这提高了我们的业力§G+$VAL$§!点。",
+        "stage": 1
     },
     {
         "key": "KARMA_FROM_CONV_CONFIRM:0",
         "original": "Converting this province will increase our Karma by §G+$VAL$§!.",
-        "translation": "转化这个省份将提高我们的业报§G+$VAL$§!点。",
-        "stage": 5
+        "translation": "转化这个省份将提高我们的业力§G+$VAL$§!点。",
+        "stage": 1
     },
     {
         "key": "CAN_TRANSFER_VASSAL_WARGOAL:1",
@@ -9344,31 +9344,31 @@
     {
         "key": "KARMA_OFFENSIVE_WAR_EFF:0",
         "original": "Declaring war is an inherently immoral action, and it will decrease our karma by §Y$VAL$§!. ",
-        "translation": "宣战本身就是不道德的行为，这将降低我们§Y$VAL$§!的业报。",
+        "translation": "宣战本身就是不道德的行为，这将降低我们的业力§Y$VAL$§!点。",
         "stage": 1
     },
     {
         "key": "KARMA_INCREASE:0",
         "original": "This will give us §Y$VAL$§! karma.",
-        "translation": "这将带给我们§Y$VAL$§!业报。",
+        "translation": "这将给予我国§Y$VAL$§!业力。",
         "stage": 1
     },
     {
         "key": "KARMA_DECREASE:0",
         "original": "This will cost us §Y$VAL$§! karma.",
-        "translation": "这将花费我们§Y$VAL$§!业报。",
+        "translation": "这将花费我国§Y$VAL$§!业力。",
         "stage": 1
     },
     {
         "key": "KARMA_INCREASE_FOR_COUNTRY:0",
         "original": "This will give $COUNTRY$ §Y$VAL$§! karma.",
-        "translation": "这将给予$COUNTRY$§Y$VAL$§!业报。",
+        "translation": "这将给予$COUNTRY$§Y$VAL$§!业力。",
         "stage": 1
     },
     {
         "key": "KARMA_DECREASE_FOR_COUNTRY:0",
         "original": "This will cost $COUNTRY$ §Y$VAL$§! karma.",
-        "translation": "这将花费$COUNTRY$§Y$VAL$§!业报。",
+        "translation": "这将花费$COUNTRY$§Y$VAL$§!业力。",
         "stage": 1
     },
     {
@@ -11282,7 +11282,7 @@
     {
         "key": "CV_NOTRESEARCHED_DEVEFF_TOOLTIP:0",
         "original": "§g- Increase by §G+$NUM$%§g (level $LEVEL$)§W",
-        "translation": "§g- 增加 §G+$NUM$%§g（等级 $LEVEL$）§W",
+        "translation": "§g－增加 §G+$NUM$%§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11294,7 +11294,7 @@
     {
         "key": "CV_NOTRESEARCHED_ACCP_CULT_TOOLTIP:0",
         "original": "§g- Increase by §G+$NUM$§g (level $LEVEL$)§W",
-        "translation": "§g- 增加 §G+$NUM$§g（等级 $LEVEL$）§W",
+        "translation": "§g－增加 §G+$NUM$§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11306,7 +11306,7 @@
     {
         "key": "CV_NOTRESEARCHED_NAVALMORALE_TOOLTIP:0",
         "original": "§g- Improve by §G+$NUM$§g (level $LEVEL$)§W",
-        "translation": "§g- 提升 §G+$NUM$§g（等级 $LEVEL$）§W",
+        "translation": "§g－提升 §G+$NUM$§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11318,7 +11318,7 @@
     {
         "key": "CV_NOTRESEARCHED_NAVALMAIN_TOOLTIP:0",
         "original": "§g- Increase by §R+$NUM$%§g (level $LEVEL$)§W",
-        "translation": "§g- 增加 §R+$NUM$%§g（等级 $LEVEL$）§W",
+        "translation": "§g－增加 §R+$NUM$%§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11330,7 +11330,7 @@
     {
         "key": "CV_NOTRESEARCHED_RADEEFF_TOOLTIP:0",
         "original": "§g- Increase by §G+$NUM$%§g (level $LEVEL$)§W",
-        "translation": "§g- 增加 §G+$NUM$%§g（等级 $LEVEL$）§W",
+        "translation": "§g－增加 §G+$NUM$%§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11342,7 +11342,7 @@
     {
         "key": "CV_NOTRESEARCHED_TRADERANGE_TOOLTIP:0",
         "original": "§g- Improve by §G+$NUM$§g (level $LEVEL$)§W",
-        "translation": "§g- 提升 §G+$NUM$§g（等级 $LEVEL$）§W",
+        "translation": "§g－提升 §G+$NUM$§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11354,7 +11354,7 @@
     {
         "key": "CV_NOTRESEARCHED_COLONIALRANGE_TOOLTIP:0",
         "original": "§g- Improve by §G+$NUM$§g (level $LEVEL$)§W",
-        "translation": "§g- 提升§G+$NUM$§g（$LEVEL$级）§W",
+        "translation": "§g－提升§G+$NUM$§g（$LEVEL$级）§W",
         "stage": 1
     },
     {
@@ -11366,7 +11366,7 @@
     {
         "key": "CV_NOTRESEARCHED_COLONIALGROWTH_TOOLTIP:0",
         "original": "§g- Improve by §G+$NUM$§g (level $LEVEL$)§W",
-        "translation": "§g- 提升§G+$NUM$§g（$LEVEL$级）§W",
+        "translation": "§g－提升§G+$NUM$§g（$LEVEL$级）§W",
         "stage": 1
     },
     {
@@ -11378,7 +11378,7 @@
     {
         "key": "CV_NOTRESEARCHED_LANDMORALE_TOOLTIP:0",
         "original": "§g- Improve by §G+$NUM$§g (level $LEVEL$)§W",
-        "translation": "§g- 提升 §G+$NUM$§g（等级 $LEVEL$）§W",
+        "translation": "§g－提升 §G+$NUM$§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11390,7 +11390,7 @@
     {
         "key": "CV_NOTRESEARCHED_SUPPLYLIMIT_TOOLTIP:0",
         "original": "§g- Raise Supply Limit by §G+$NUM$%§g (level $LEVEL$)§W",
-        "translation": "§g- 提高补给上限§G+$NUM$%§g（等级$LEVEL$）§W",
+        "translation": "§g－提高补给上限§G+$NUM$%§g（等级$LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11402,7 +11402,7 @@
     {
         "key": "CV_NOTRESEARCHED_MILTACTICS_TOOLTIP:0",
         "original": "§g- Improve Military Tactics by §G+$NUM$§g (level $LEVEL$)§W",
-        "translation": "§g- 提升军事战术 §G+$NUM$§g（等级 $LEVEL$）§W",
+        "translation": "§g－提升军事战术 §G+$NUM$§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11414,7 +11414,7 @@
     {
         "key": "CV_NOTRESEARCHED_COMBATWIDTH_TOOLTIP:0",
         "original": "§g- Improve Combat Width by §G+$NUM$§g (level $LEVEL$)§W",
-        "translation": "§g- 增加战场宽度 §G+$NUM$§g（等级 $LEVEL$）§W",
+        "translation": "§g－增加战场宽度 §G+$NUM$§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11426,7 +11426,7 @@
     {
         "key": "CV_NOTRESEARCHED_MANEUVER_TOOLTIP:0",
         "original": "§g- Improve maneuver by §G+$NUM$%§g (level $LEVEL$)§W",
-        "translation": "§g- 提升机动力 §G+$NUM$%§g（等级 $LEVEL$）§W",
+        "translation": "§g－提升机动力 §G+$NUM$%§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11438,7 +11438,7 @@
     {
         "key": "CV_NOTRESEARCHED_MANEUVER_TOOLTIP_NEW:0",
         "original": "§g- Improve Flanking Range by §G+$NUM$%§g (level $LEVEL$)§W",
-        "translation": "§g- 提升侧翼攻击范围§G+$NUM$%§g（等级 $LEVEL$）§W",
+        "translation": "§g－提升侧翼攻击范围§G+$NUM$%§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11450,7 +11450,7 @@
     {
         "key": "CV_NOTRESEARCHED_TECH_TOOLTIP:0",
         "original": "§g- Researched at level $LEVEL$§!",
-        "translation": "§g- 研究至等级 $LEVEL$§!",
+        "translation": "§g－研究至等级 $LEVEL$§!",
         "stage": 1
     },
     {
@@ -19730,7 +19730,7 @@
     {
         "key": "CORE_SAME_REGION:0",
         "original": " - colonial region ",
-        "translation": "- 殖民地区",
+        "translation": "－殖民地区",
         "stage": 1
     },
     {
@@ -26648,31 +26648,31 @@
     {
         "key": "NOT_ADD_RIVAL_AT_WAR:0",
         "original": "§R- You cannot add a rival while at war.§!",
-        "translation": "§R- 不能在战争期间添加宿敌。§!",
+        "translation": "§R－不能在战争期间添加宿敌。§!",
         "stage": 1
     },
     {
         "key": "NOT_REMOVE_RIVAL_AT_WAR:0",
         "original": "§R- You cannot remove a rival while at war.§!",
-        "translation": "§R- 不能在战争期间移除宿敌。§!",
+        "translation": "§R－不能在战争期间移除宿敌。§!",
         "stage": 1
     },
     {
         "key": "NOT_REMOVE_RIVAL_UNTIL:0",
         "original": "§R- You have recently added §Y$NAME$§! as a rival, so cannot replace them until §Y$DATE$§!.§!",
-        "translation": "§R- 最近刚将§Y$NAME$§!设为宿敌，§Y$DATE$§!前不能将其移除。§!",
+        "translation": "§R－最近刚将§Y$NAME$§!设为宿敌，§Y$DATE$§!前不能将其移除。§!",
         "stage": 1
     },
     {
         "key": "CANT_AFFORD_RIVAL_REMOVE:0",
         "original": "§R- You do not have the §Y$COST$§!£dip that is required to remove a rival.§!",
-        "translation": "§R- 没有足够的§Y$COST$§!£dip£来移除宿敌。§!",
+        "translation": "§R－需要花费§Y$COST$§!£dip 才能移除宿敌。§!",
         "stage": 1
     },
     {
         "key": "NOT_ADD_RIVAL_UNTIL:0",
         "original": "§R- You were recently forced to remove §Y$NAME$§! as a rival and cannot re-add them until §Y$DATE$§!.§!",
-        "translation": "§R- 最近刚将宿敌§Y$NAME$§!移除，§Y$DATE$§!前不能重新设其为宿敌。§!",
+        "translation": "§R－最近刚将宿敌§Y$NAME$§!移除，§Y$DATE$§!前不能重新设其为宿敌。§!",
         "stage": 1
     },
     {
@@ -26714,8 +26714,8 @@
     {
         "key": "POWERPROJ_HOWTO_GAIN:0",
         "original": "Triumph over your rivals to gain power projection:\\n§Y- Enter a war against them.\\n- Take their provinces or vassalize them.\\n- Insult or humiliate them.\\n- Support rebels in their lands.\\n- Embargo their merchants.§!",
-        "translation": "打击你的宿敌来获得力量投射：\\n§Y- 参加针对他们的战争。\\n- 夺取他们的省份或附庸他们。\\n- 侮辱或羞辱他们。\\n- 在他们领土上支持叛军。\\n- 对他们贸易禁运。§!",
-        "stage": 5
+        "translation": "打击你的宿敌来获得力量投射：\\n§Y－参加针对他们的战争。\\n－夺取他们的省份或附庸他们。\\n－侮辱或羞辱他们。\\n－在他们领土上支持叛军。\\n－对他们贸易禁运。§!",
+        "stage": 1
     },
     {
         "key": "INLAND_BONUS:0",
@@ -27776,13 +27776,13 @@
     {
         "key": "USES_KARMA:0",
         "original": "$COUNTRY|Y$ uses Karma.",
-        "translation": "$COUNTRY|Y$使用业报机制。",
+        "translation": "$COUNTRY|Y$使用业力机制。",
         "stage": 1
     },
     {
         "key": "USES_NOT_KARMA:0",
         "original": "$COUNTRY|Y$ does NOT use Karma.",
-        "translation": "$COUNTRY|Y$不使用业报机制。",
+        "translation": "$COUNTRY|Y$不使用业力机制。",
         "stage": 1
     },
     {
@@ -28094,7 +28094,7 @@
     {
         "key": "CURRENT_KARMA:0",
         "original": "Current Karma",
-        "translation": "目前业报",
+        "translation": "当前业力",
         "stage": 1
     },
     {
@@ -28172,7 +28172,7 @@
     {
         "key": "BATTLE_TERRAIN_PENALTY:0",
         "original": " - Due to $TERRAIN|Y$ terrain, the attacker gets a $VAL$ penalty to the diceroll.",
-        "translation": " - 由于$TERRAIN|Y$的地形,进攻方将在掷骰子时获得$VAL$的惩罚",
+        "translation": "－由于$TERRAIN|Y$的地形，进攻方将在掷骰子时获得$VAL$的惩罚。",
         "stage": 1
     },
     {
@@ -28292,7 +28292,7 @@
     {
         "key": "CAN_RELEASE_CN_WE_ARE_AT_WAR:0",
         "original": "§R- We are at war§!",
-        "translation": "§R- 我们正在战争中§!",
+        "translation": "§R－我们正在战争中§!",
         "stage": 1
     },
     {

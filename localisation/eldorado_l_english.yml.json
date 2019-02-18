@@ -266,19 +266,19 @@
     {
         "key": "exploration_events.13.d:0",
         "original": "The only residents of $PROVINCENAME$ seem to be birds, birds, and more birds. The large birds, nicknamed 'penguins' by the ship's crew due to their small wings, seem to be fearless of us. The first one we caught stared at us and could not be bothered to fly or run away. When we grabbed it by its leg and held it upside-down, it made a great noise. The flock of penguins around us came running to its assistance and tried to bite us with their large beaks. Our provisions are low and these birds are fat and look good enough to eat.",
-        "translation": "似乎$PROVINCENAME$的唯一居民只有鸟雀,雀鸟,以及更多的鸟。被船员们因其小翅膀而昵称为'企鹅'的一种大型的鸟类似乎并不惧怕我们。我们捉到的第一只企鹅一直盯着我们看,而且似乎不打算飞走或逃跑。但当我们抓住它的腿然后把它的头朝下的时候,它发出了巨大的叫声。我们身旁的企鹅群都跑来救助它, 并尝试用它们大大的喙啄咬我们。我们的存粮已经不多，而这群肥鸟看起来应该挺好吃的。",
-        "stage": 5
+        "translation": "似乎$PROVINCENAME$的唯一居民只有鸟雀、雀鸟、以及更多的鸟。被船员们因其小翅膀而昵称为「企鹅」的一种大型的鸟类似乎并不惧怕我们。我们捉到的第一只企鹅一直盯着我们看，而且似乎不打算飞走或逃跑。但当我们抓住它的腿然后把它的头朝下的时候，它发出了巨大的叫声。我们身旁的企鹅群都跑来救助它, 并尝试用它们大大的喙啄咬我们。我们的存粮已经不多，而这群肥鸟看起来应该挺好吃的。",
+        "stage": 1
     },
     {
         "key": "exploration_events.13.a:0",
         "original": "Leave the birds alone.",
-        "translation": "放开那只企鹅.",
-        "stage": 5
+        "translation": "放开那只企鹅。",
+        "stage": 1
     },
     {
         "key": "exploration_events.13.b:0",
         "original": "If it moves - eat it!",
-        "translation": "如果它逼近 - 就干掉它！",
+        "translation": "如果它逼近——就吃掉它！",
         "stage": 1
     },
     {
@@ -1340,7 +1340,7 @@
     {
         "key": "desc_sce_search_quivira:0",
         "original": "A land where golden cups hang from the trees - this is the place the conquistador is looking for.",
-        "translation": "这里黄金的杯子直接挂在树上 - 我们的探险家正在找寻它在何方",
+        "translation": "这里黄金的杯子直接挂在树上——这正是我们的征服家正寻找的地方",
         "stage": 1
     },
     {
@@ -1364,7 +1364,7 @@
     {
         "key": "desc_sce_search_saguenay:0",
         "original": "Your conquistador is looking for the Kingdom of Saguenay - a kingdom rumored to have mines of gold, silver and rubies in North America.",
-        "translation": "你的探险家正在找寻萨格奈王国 - 一个传言中位于北美拥有黄金，白银和玉石矿藏的国家。",
+        "translation": "你的探险家正在找寻萨格奈王国——一个传言中位于北美拥有黄金，白银和玉石矿藏的国家。",
         "stage": 1
     },
     {
@@ -3080,7 +3080,7 @@
     {
         "key": "custom_idea_inflation_reduction_desc:0",
         "original": "A coinage with a standardized weight and produced in a special mint to ensure that they all look and weigh the same works wonders for trade. No longer do the merchants feel cheated - at least not because the coin they trade with contains more or less gold or silver - and the whole country shares the same standardized currency.",
-        "translation": "在造币时统一货币的重量并采用一种特殊的方法进行制造来确保货币的重量与模样相同的货币相当受到商人们的喜爱。商人们不再觉得他们受到了诈骗 - 而这并不是因为硬币里的含金和银的成分增加或者减少了 - 全国都在统一使用标准货币。",
+        "translation": "在造币时统一货币的重量并采用一种特殊的方法进行制造来确保货币的重量与模样相同的货币相当受到商人们的喜爱。商人们不再觉得他们受到了诈骗——而这并不是因为硬币里的含金和银的成分增加或者减少了——全国都在统一使用标准货币。",
         "stage": 1
     },
     {
@@ -4929,7 +4929,7 @@
         "key": "nahuatl_events.25.t:0",
         "original": "Tlacaxipehualiztli - The Feast of the Flaying of Men",
         "translation": "Tlacaxipehualiztli - 剥皮的节日",
-        "stage": 1
+        "stage": 2
     },
     {
         "key": "nahuatl_events.25.d:0",
@@ -6404,19 +6404,19 @@
     {
         "key": "CANNOT_SACRIFICE_NO_ADULT:0",
         "original": "§R- Can only sacrifice adult monarchs and heirs.§!",
-        "translation": "§R- 只能献祭成年的君主和继承人。§!",
+        "translation": "§R－只能献祭成年的君主和继承人。§!",
         "stage": 1
     },
     {
         "key": "CANNOT_SACRIFICE_NO_HEIR:0",
         "original": "§R- They have no heir to sacrifice!§!",
-        "translation": "§R- 他们没有继承人可以献祭！§!",
+        "translation": "§R－他们没有继承人可以献祭！§!",
         "stage": 1
     },
     {
         "key": "CANNOT_SACRIFICE_UNTIL:0",
         "original": "§R- We have recently had a ruler or heir sacrificed, we cannot sacrifice another until §Y$DATE$§!.§!",
-        "translation": "§R- 我们最近献祭了一个统治者或继承人，我们在§Y$DATE$§!前不能进行另一次献祭。§!",
+        "translation": "§R－我们最近献祭了一个统治者或继承人，我们在§Y$DATE$§!前不能进行另一次献祭。§!",
         "stage": 1
     },
     {

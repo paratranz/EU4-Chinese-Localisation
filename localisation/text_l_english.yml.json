@@ -398,14 +398,14 @@
     {
         "key": "ADD_KARMA_EFFECT:0",
         "original": "$DIRECTION$ $VALUE$ Karma.\\n",
-        "translation": "$DIRECTION$$VALUE$业报值。\\n",
-        "stage": 5
+        "translation": "$DIRECTION$$VALUE$业力。\\n",
+        "stage": 1
     },
     {
         "key": "SET_KARMA_EFFECT:0",
         "original": "Karma set to $VALUE$.\\n",
-        "translation": "业报值为$VALUE$。\\n",
-        "stage": 5
+        "translation": "将业力设为$VALUE$。\\n",
+        "stage": 1
     },
     {
         "key": "STABILITY_EFFECT:0",
@@ -13562,19 +13562,19 @@
     {
         "key": "CONDOTTIERI_US_AT_WAR:0",
         "original": "§R- We cannot cancel this arrangement while we are at war, unless $MONTHS$ months have passed since it was put into effect, on $DATE|Y$.§!",
-        "translation": "§R- 不能我们战争时取消，除非它已经生效了 $MONTHS$ 个月，即 $DATE|Y$。§!",
-        "stage": 5
+        "translation": "§R－不能在我们战争期间取消合约，除非它已经生效了 $MONTHS$ 个月，即 $DATE|Y$。§!",
+        "stage": 1
     },
     {
         "key": "CONDOTTIERI_THEM_AT_WAR:0",
         "original": "§R- We cannot cancel this arrangement while the recipient is at war, unless $MONTHS$ months have passed since it was put into effect, on $DATE|Y$.§!",
-        "translation": "§R- 不能在他们战争时取消，除非它已经生效了 $MONTHS$ 个月，即 $DATE|Y$。§!",
-        "stage": 5
+        "translation": "§R－不能在他们战争期间取消合约，除非它已经生效了 $MONTHS$ 个月，即 $DATE|Y$。§!",
+        "stage": 1
     },
     {
         "key": "CONDOTTIERI_MIN_DURATION:0",
         "original": "§R- We cannot cancel this arrangement until $MONTHS$ months have passed since it was put into effect, on $DATE|Y$.§!",
-        "translation": "§R- 在它已经生效 $MONTHS$ 个月之前，我们不能取消它，即 $DATE|Y$。§!",
+        "translation": "§R－在它已经生效 $MONTHS$ 个月之前，我们不能取消它，即 $DATE|Y$。§!",
         "stage": 1
     },
     {
@@ -13634,13 +13634,13 @@
     {
         "key": "CONDOTTIERI_OFFER_SUBJECT:0",
         "original": "§R- You cannot rent out Condottieri to a subject nation.§!",
-        "translation": "§R- 不能租赁军队给属国。§!",
+        "translation": "§R－不能租赁雇佣军给属国。§!",
         "stage": 1
     },
     {
         "key": "CONDOTTIERI_OFFER_TRUCE:0",
         "original": "§R- You cannot rent out Condottieri to a nation that is at war with a nation that you have a truce with.§!",
-        "translation": "§R- 对方的交战方与你签有休战协议，你不能租赁雇佣军给他们。§!",
+        "translation": "§R－对方的交战方与你签有休战协议，你不能租赁雇佣军给他们。§!",
         "stage": 1
     },
     {
@@ -16868,7 +16868,7 @@
     {
         "key": "ATTR_HOME_WATERS:0",
         "original": "0% - Home Waters",
-        "translation": "0% - 在本国水域",
+        "translation": "0%－在本国水域",
         "stage": 1
     },
     {
@@ -27278,13 +27278,13 @@
     {
         "key": "UNIT_TECH_DRO:0",
         "original": "- Allows §Y$TYPE$§W Unit Types",
-        "translation": "- 启用§Y$TYPE$§W兵种",
+        "translation": "－启用§Y$TYPE$§W兵种",
         "stage": 1
     },
     {
         "key": "MAX_CAV_TO_INF:0",
         "original": "- Receives the Insufficient Support penalty if the amount of Cavalry in an army is more than ",
-        "translation": "- 会承受补给不足的惩罚，如果一支部队中骑兵的数量超过",
+        "translation": "－会承受补给不足的惩罚，如果一支部队中骑兵的数量超过",
         "stage": 1
     },
     {
@@ -41852,7 +41852,7 @@
     {
         "key": "PAPAL_INFLUENCE_NOT_ENOUGH:0",
         "original": "§R- You do not have enough papal influence.§!",
-        "translation": "§R- 你没有足够的教廷影响力.§!",
+        "translation": "§R－你没有足够的教廷影响力.§!",
         "stage": 1
     },
     {
@@ -41882,7 +41882,7 @@
     {
         "key": "PAPAL_INFLUENCE_NO_CARDINAL:0",
         "original": "§R- It is not possible to invest papal influence if you have no active cardinals.§!",
-        "translation": "§R- 你必须拥有在职的枢机才能投资教廷影响力。§!",
+        "translation": "§R－你必须拥有在职的枢机才能投资教廷影响力。§!",
         "stage": 1
     },
     {
@@ -41972,13 +41972,13 @@
     {
         "key": "HRE_INFLUENCE_GAIN:0",
         "original": "Gained by:\\n - Having a large amount of member states\\n - The member states being at peace\\n - Provinces joining the Empire\\n - Successive Emperors from the same country",
-        "translation": "下列途径将提高帝国权威：\\n- 拥有大量帝国成员\\n- 帝国处于和平之中\\n- 有省份加入帝国\\n- 同一国家继任为皇帝",
+        "translation": "下列途径将提高帝国权威：\\n－拥有大量帝国成员\\n－帝国内部处于和平之中\\n－有省份加入帝国\\n－同一国家继任为皇帝",
         "stage": 1
     },
     {
         "key": "HRE_INFLUENCE_LOSS:0",
         "original": "Lost by:\\n - Dishonoring the Calls of members\\n - Provinces leaving the Empire\\n - Imperial territory under the control of foreign states\\n - Imperial territory under the control of heathens and heretics\\n - Having less than 7 electors",
-        "translation": "下列途径将降低帝国威望：\\n- 无视成员的呼救\\n- 有省份脱离帝国\\n- 帝国领土被非神圣罗马帝国国家控制\\n- 帝国领土被异端或异教徒控制\\n- 选帝侯数量少于7个",
+        "translation": "下列途径将降低帝国威望：\\n－无视成员的呼救\\n－有省份脱离帝国\\n－帝国领土被非神圣罗马帝国国家控制\\n－帝国领土被异端或异教徒控制\\n－选帝侯数量少于7个",
         "stage": 1
     },
     {
@@ -44090,7 +44090,7 @@
     {
         "key": "endorse_renaissance_philosophy_desc:0",
         "original": "You, with no limit and no bound, may choose for yourself the limits and bounds of your nature. We have placed you at the world's center so that you may survey everything else in the world.'\\n\\n--Mirandola, Piccolo -- 'Oration on The Dignity of Man'",
-        "translation": "我们将你安置在世界的中心，这样你就能承受这个世界\\n\\n--皮科·德拉·米朗多拉-- '关于人的尊严的演说'",
+        "translation": "我们将你安置在世界的中心，这样你就能承受这个世界\\n\\n——皮科·德拉·米朗多拉，「关于人的尊严的演说」",
         "stage": 1
     },
     {
@@ -45122,13 +45122,13 @@
     {
         "key": "IMPERIAL_MANDATE_GAIN_DESC:0",
         "original": "Gained by:\\n -Having a positive Stability.\\n -Having Tributary States.\\n -For each State enjoying Prosperity.",
-        "translation": "获得天命的方式：\\n- 正稳定度。\\n- 拥有朝贡国。\\n- 每个享受繁荣的直属州。",
+        "translation": "获得天命的方式：\\n－正稳定度。\\n－拥有朝贡国。\\n－每个享受繁荣的直属州。",
         "stage": 1
     },
     {
         "key": "IMPERIAL_MANDATE_LOSS_DESC:0",
         "original": "Lost by:\\n -Devastated provinces.\\n -Neighboring Countries that are not Tributaries.",
-        "translation": "失去天命的原因：\\n- 荒芜的省份。\\n- 邻国不是朝贡国。",
+        "translation": "失去天命的原因：\\n－荒芜的省份。\\n－邻国不是朝贡国。",
         "stage": 1
     },
     {
@@ -45140,7 +45140,7 @@
     {
         "key": "CELESTIAL_EMPEROR_BENEFIT_DESC:0",
         "original": " -Bonuses from High Mandate.\\n -Uses Meritocracy Mechanics\\n -Can enact Centralisation Decisions.\\n -Permanent claims to China.\\n -Casus Belli to Unite China.\\n -Can Enforce Tributary on Neighbours",
-        "translation": "- 高天命值带来的增益效果。\\n- 使用贤能值机制。\\n- 通过加强中央集权的决议。\\n- 对中国地区的永久宣称。\\n- 获得统一中国的宣战理由。\\n- 强迫邻国成为你的朝贡国。",
+        "translation": "－高天命值带来的增益效果。\\n－使用贤能值机制。\\n－通过加强中央集权的决议。\\n－对中国地区的永久宣称。\\n－获得统一中国的宣战理由。\\n－强迫邻国成为你的朝贡国。",
         "stage": 1
     },
     {

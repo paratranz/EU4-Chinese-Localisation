@@ -4628,25 +4628,25 @@
     {
         "key": "CANNOT_UPGRADE_RANK_SUBJECT:1",
         "original": "§R- As a $SUBJECTTYPE$, we cannot upgrade our Government Rank.§!\\n",
-        "translation": "§R- 作为一个$SUBJECTTYPE$，我们不能提升自己的政府等级。§!\\n",
+        "translation": "§R－作为一个$SUBJECTTYPE$，我们不能提升自己的政府等级。§!\\n",
         "stage": 1
     },
     {
         "key": "CANNOT_UPGRADE_RANK_MAX_RANK:0",
         "original": "§R- You are already at the maximum Government Rank!§!\\n",
-        "translation": "§R- 你的政府等级已达最高！§!\\n",
+        "translation": "§R－你的政府等级已达最高！§!\\n",
         "stage": 1
     },
     {
         "key": "CANNOT_UPGRADE_RANK_NEED_DEVELOPMENT:0",
         "original": "§R- You need at least §Y$AMT$§! total development to increase your Government Rank and you only have §Y$CUR$§!.§W\\n",
-        "translation": "§R- 你需要至少 §Y$AMT$§! 总计发展度来提升贵国政府的等级而现在你只有 §Y$CUR$§!.§W\\n",
+        "translation": "§R－你需要至少 §Y$AMT$§! 总发展度来提升你的政府等级而你只有 §Y$CUR$§!。§W\\n",
         "stage": 1
     },
     {
         "key": "CANNOT_UPGRADE_RANK_NEED_PRESTIGE:0",
         "original": "§R- You need at least §Y$AMT$§! prestige to increase your Government Rank.§!\\n",
-        "translation": "§R- 提升政府等级你至少需要§Y$AMT$§!威望。§!\\n",
+        "translation": "§R－提升政府等级你至少需要 §Y$AMT$§! 威望。§!\\n",
         "stage": 1
     },
     {
@@ -4658,8 +4658,8 @@
     {
         "key": "CANNOT_UPGRADE_RANK_HRE_ELECTOR:0",
         "original": "§R- Electors of the Holy Roman Empire cannot upgrade their Government Rank past King.§!\\n",
-        "translation": "§R- 神圣罗马帝国选帝侯的政府等级最高只能达到王国级别。§!\\n",
-        "stage": 5
+        "translation": "§R－神圣罗马帝国选帝侯的政府等级最高只能达到王国级别。§!\\n",
+        "stage": 1
     },
     {
         "key": "alert_lack_of_parliament_debate_instant:0",
@@ -6224,7 +6224,7 @@
     {
         "key": "free_cities.2.t:0",
         "original": "[Root.GetName] - No longer a Free City of the Empire",
-        "translation": "[Root.GetName] - 不再是帝国的自由市",
+        "translation": "[Root.GetName]——不再是帝国的自由市",
         "stage": 1
     },
     {
@@ -7952,7 +7952,7 @@
     {
         "key": "KARMA_FOR_CTA:0",
         "original": "We would gain $KARMA$ karma, since this is the right thing to do.",
-        "translation": "我们将获得 $KARMA$的业报，因为这是我们应该做的事。",
+        "translation": "我们将获得$KARMA$业力，因为这是善行。",
         "stage": 1
     },
     {
@@ -9578,19 +9578,19 @@
     {
         "key": "karma_just_right:0",
         "original": "Neutral Karma",
-        "translation": "中等业报",
+        "translation": "中等业力",
         "stage": 1
     },
     {
         "key": "karma_too_high:0",
         "original": "High Karma",
-        "translation": "高业报",
+        "translation": "高业力",
         "stage": 1
     },
     {
         "key": "karma_too_low:0",
         "original": "Low Karma",
-        "translation": "低业报",
+        "translation": "低业力",
         "stage": 1
     },
     {
@@ -9632,13 +9632,13 @@
     {
         "key": "KARMA_TOO_HIGH_DESC:0",
         "original": "Karma $HIGH$ or higher",
-        "translation": "业报高于$HIGH$",
+        "translation": "业力高于$HIGH$",
         "stage": 1
     },
     {
         "key": "KARMA_TOO_LOW_DESC:0",
         "original": "Karma $LOW$ or lower",
-        "translation": "业报低于$LOW$",
+        "translation": "业力低于$LOW$",
         "stage": 1
     },
     {
@@ -10028,13 +10028,13 @@
     {
         "key": "CANNOT_UPGRADE_RANK_FIXED_RANK:1",
         "original": "§R- The Government Reform $REFORM|Y$ blocks you from changing your current Government Rank.§!\\n",
-        "translation": "§R- 政府改革 $REFORM|Y$ 阻止你改变政府等级。§!\\n",
+        "translation": "§R－政府改革 $REFORM|Y$ 阻止你改变政府等级。§!\\n",
         "stage": 1
     },
     {
         "key": "CANNOT_UPGRADE_RANK_FIXED_RANK_GENERIC:0",
         "original": "§R- You cannot change your current Government Rank.§!\\n",
-        "translation": "§R- 你不能改变自己的政府等级。§!\\n",
+        "translation": "§R－你不能改变你当前的政府等级。§!\\n",
         "stage": 1
     },
     {
