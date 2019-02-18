@@ -836,7 +836,7 @@
     {
         "key": "KARMA_DESC:0",
         "original": "Karma increases from:\\n- §YHonoring alliances§!\\n- §YReleasing vassals§!\\n- §YReleasing nations in peace deals§!\\n- §YReturning cores§!\\n- §YConverting Provinces§!\\n\\nKarma decreases from:\\n- §YStarting wars§!\\n- §YTaking provinces in peace deals§!",
-        "translation": "提高业报因素：\\n- §Y防御性战争§!\\n- §Y履行盟约§!\\n- §Y释放附庸国§!\\n- §Y在和平条约中解放国家§!\\n- §Y归还核心§!\\n- §Y省份传教§!\\n\\n降低业报因素：\\n- §Y挑起战争§!\\n- §Y在和平条约中侵占省份§!",
+        "translation": "提高业报因素：\\n－§Y履行盟约§!\\n－§Y释放附庸国§!\\n－§Y在和平条约中解放国家§!\\n－§Y归还核心§!\\n－§Y省份传教§!\\n\\n降低业报因素：\\n－§Y挑起战争§!\\n－§Y在和平条约中侵占省份§!",
         "stage": 1
     },
     {
@@ -3722,7 +3722,7 @@
     {
         "key": "CN_RANDOM_HISTORICAL:0",
         "original": "Historical",
-        "translation": "历史",
+        "translation": "史实",
         "stage": 1
     },
     {
@@ -3740,7 +3740,7 @@
     {
         "key": "CN_RANDOM_NATION_NAMING_TOOLTIP2:0",
         "original": "§YDynamic:§! Randomly generated nations will have their names and flags dynamically generated.\\n§YHistorical:§! Randomly generated nations will take their names and flags from historical countries.",
-        "translation": "§Y动态的：§! 随机自定义国家会得到有动态的名字和旗帜。\\n§Y历史的：§! 随机自定义国家会得到历史上存在的国家的名字和旗帜。",
+        "translation": "§Y动态：§! 随机自定义国家会得到动态生成的名字和旗帜。\\n§Y史实：§! 随机自定义国家会得到历史上存在的国家的名字和旗帜。",
         "stage": 1
     },
     {
@@ -3830,7 +3830,7 @@
     {
         "key": "CN_MAP_TOOLTIP2:0",
         "original": "§YNormal Setup:§! the map will be populated by historical nations and custom nations are §Genabled§!.\\n§YHistorical Setup:§! the map will be populated by historical nations and custom nations are §Rdisabled§!.\\n§YRandom Setup:§! the map will be populated by §Yplayer-created custom nations and randomly generated nations§!.\\n§YCustom Setup:§! the map will be populated §Yonly by player-created custom nations§!, all other provinces will be uncolonized. All nations start with a colonist.",
-        "translation": "§Y普通设置：§!§G启用§!自定义国家，这张地图将由历史国家和已启用的自定义国家组成。\\n§Y史实设置：§!§R禁用§!自定义国家，这张地图仅由历史国家组成。\\n§Y随机设置：§!这张地图将由§Y玩家自定义的国家和随机生成的国家§!组成。\\n§Y自定义设置：§!这张地图仅由§Y玩家自定义的国家§!组成，其他省份都是未殖民省份。所有国家开局获得一个殖民者。",
+        "translation": "§Y普通设置：§!§G启用§!自定义国家，这张地图将由史实国家和已启用的自定义国家组成。\\n§Y史实设置：§!§R禁用§!自定义国家，这张地图仅由史实国家组成。\\n§Y随机设置：§!这张地图将由§Y玩家自定义的国家和随机生成的国家§!组成。\\n§Y自定义设置：§!这张地图仅由§Y玩家自定义的国家§!组成，其他省份都是未殖民省份。所有国家开局获得一个殖民者。",
         "stage": 1
     },
     {
@@ -3914,7 +3914,7 @@
     {
         "key": "FE_LUCK_DESC2:0",
         "original": "§YHistorical:§! Luck bonuses will be given to ten historically successful nations. Tends to result in a more historical world.\\n§YRandom:§! Luck bonuses will be given to ten randomly determined nations (weighted towards larger, more advanced powers). Tends to result in a more random world.\\n§YNone:§! No nations will get Luck bonuses.\\n\\n",
-        "translation": "§Y史实的§!：八个历史上曾雄霸一时的国家将获幸运加成。如此一来，历史将朝更史实的方向发展。\\n§Y随机的§!：八个随机的国家（通常为较大较先进的国家）将获幸运加成。如此一来，历史将朝更未知的方向发展。\\n§Y无§!：没有国家获得幸运加成。\\n\\n",
+        "translation": "§Y史实§!：八个历史上曾雄霸一时的国家将获幸运加成。如此一来，历史将朝更史实的方向发展。\\n§Y随机§!：八个随机的国家（通常为较大较先进的国家）将获幸运加成。如此一来，历史将朝更未知的方向发展。\\n§Y无§!：没有国家获得幸运加成。\\n\\n",
         "stage": 1
     },
     {
@@ -3932,8 +3932,8 @@
     {
         "key": "FE_IRONMAN_DESC2:0",
         "original": "Playing in §YIronman Mode§! has the following effects:\\n- Limits the number of save files per game to one.\\n- Non-optional and frequent autosaving.\\n- Cannot use console cheats.\\n- Cannot switch countries.",
-        "translation": "§Y铁人模式§!有以下效果：\\n- 每局游戏只允许有一个存档。\\n- 强制高频率自动存档。\\n- 无法使用控制台作弊。\\n- 无法切换扮演的国家。",
-        "stage": 5
+        "translation": "§Y铁人模式§!有以下效果：\\n－每局游戏只允许有一个存档。\\n－强制高频率自动存档。\\n－无法使用控制台作弊。\\n－无法切换扮演的国家。",
+        "stage": 1
     },
     {
         "key": "FE_HOTJOIN_DESC:1",
@@ -4172,7 +4172,7 @@
     {
         "key": "ACHIEVEMENTS_DISABLED_MODIFIED_SAVE:0",
         "original": "§Y- Either you are offline or the savegame belongs to another user, is edited or saved with incompatible DLCs.§!",
-        "translation": "§Y- 要么你处于离线，要么是保存的游戏属于另一个用户、被编辑或保存为不兼容的DLC的存档。§!",
+        "translation": "§Y－你正处于离线，或是游戏存档属于另一个用户、已被编辑或存档包含不兼容的DLC的存档。§!",
         "stage": 1
     },
     {
@@ -4184,43 +4184,43 @@
     {
         "key": "ACHIEVEMENTS_DISABLED_WRONG_PLAYER:0",
         "original": "§Y- This game is meant to be played as $COUNTRY$.§!",
-        "translation": "§Y- 这意味着将扮演$COUNTRY$进行游戏。§!",
+        "translation": "§Y－这意味着将扮演$COUNTRY$进行游戏。§!",
         "stage": 1
     },
     {
         "key": "ACHIEVEMENTS_DISABLED_NOT_IRONMAN:0",
         "original": "§Y- Game is not in Ironman Mode.§!",
-        "translation": "§Y- 不是铁人模式。§!",
+        "translation": "§Y－不是铁人模式。§!",
         "stage": 1
     },
     {
         "key": "ACHIEVEMENTS_DISABLED_CUSTOM_DEVELOPMENT:0",
         "original": "§Y- 'Province Development' Custom Setup Option must be set to 'Normal Values'.§!",
-        "translation": "§Y- 自定义选项'省份发展度'必须设置为'正常值'。§!",
+        "translation": "§Y－自定义选项「省份发展度」必须设置为「正常值」。§!",
         "stage": 1
     },
     {
         "key": "ACHIEVEMENTS_DISABLED_CUSTOM_NATION_SETUP:0",
         "original": "§Y- 'Nations' Custom Setup Option cannot be set set to 'Random Setup'.§!",
-        "translation": "§Y- 自定义选项「国家」不能设置为「随机设定」。§!",
+        "translation": "§Y－自定义选项「国家」不能设置为「随机设定」。§!",
         "stage": 1
     },
     {
         "key": "ACHIEVEMENTS_DISABLED_WRONG_DIFFICULTY:1",
         "original": "§Y- 'Difficulty' Option must be set to 'Normal', 'Hard' or 'Very Hard'.§!",
-        "translation": "§Y- 「难度」选项必须被设置为「普通」、「困难」或「极难」。§!",
+        "translation": "§Y－「难度」选项必须被设置为「普通」、「困难」或「极难」。§!",
         "stage": 1
     },
     {
         "key": "ACHIEVEMENTS_DISABLED_WRONG_AI_DIFFICULTY:0",
         "original": "§Y- 'AI Difficulty' Option must be set to 'Normal' or 'Hard'.§!",
-        "translation": "§Y- 'AI难度'选项必须设置为'普通'或'困难'。§!",
+        "translation": "§Y－「AI难度」选项必须设置为「普通」或「困难」。§!",
         "stage": 1
     },
     {
         "key": "ACHIEVEMENTS_DISABLED_WRONG_LUCK:0",
         "original": "§Y- 'Lucky Nations' Option must be set to 'Historical'.§!",
-        "translation": "§Y- '幸运国家'选项必须被设置为'历史上的'§!",
+        "translation": "§Y－「幸运国家」选项必须被设置为「史实」§!",
         "stage": 1
     },
     {

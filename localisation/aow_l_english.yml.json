@@ -5750,13 +5750,13 @@
     {
         "key": "CANNOT_JOIN_LEAGUE_AT_LEAGUE_WAR:0",
         "original": "§R- We cannot join or leave a League while there is a League War raging.§!",
-        "translation": "§R- 在战时我们无法加入或离开一个联盟§!",
+        "translation": "§R－宗教联盟战争已经打响，我们无法加入或离开联盟。§!",
         "stage": 1
     },
     {
         "key": "CANNOT_JOIN_LEAGUE_AT_WAR:0",
         "original": "§R- We cannot join or leave a League while at war.§!",
-        "translation": "§R- 在战时我们无法加入或离开一个联盟.§!",
+        "translation": "§R－在战时我们无法加入或离开联盟。§!",
         "stage": 1
     },
     {
@@ -5774,25 +5774,25 @@
     {
         "key": "NOT_DISCOVERED_HRE:0",
         "original": "§R- We have not discovered the Holy Roman Empire!§!",
-        "translation": "§R- 我们还没有发现神圣罗马帝国!§!",
+        "translation": "§R－我们还没有发现神圣罗马帝国！§!",
         "stage": 1
     },
     {
         "key": "HRE_ON_OTHER_CONTINENT:0",
         "original": "§R- We cannot join a League if our capital is on a different continent than the Holy Roman Empire.§!",
-        "translation": "§R- 我们的首都和帝国不在同一片大陆上所以我们无法加入或者离开一个联盟。§!",
+        "translation": "§R－我们的首都和神圣罗马帝国不在同一大陆，因此我们无法加入联盟。§!",
         "stage": 1
     },
     {
         "key": "ALREADY_MEMBER_OF_LEAGUE:0",
         "original": "§R- We are already a member of a Religious League!§!",
-        "translation": "§R- 我们已经是一个宗教联盟的成员！§!",
+        "translation": "§R－我们已经是一个宗教联盟的成员！§!",
         "stage": 1
     },
     {
         "key": "RECENTLY_JOINED_LEAGUE:0",
         "original": "§R- You recently joined a League and will not be able to leave until §Y$DATE$§!.",
-        "translation": "§R- 你最近已经加入一个联盟，§Y$DATE$§!前你无法离开这个联盟。§!",
+        "translation": "§R－你最近已经加入一个联盟，§Y$DATE$§!前你无法离开这个联盟。",
         "stage": 1
     },
     {
@@ -6440,7 +6440,7 @@
     {
         "key": "flavor_vij.19.t:0",
         "original": "Abd-ur-Razzaq, ambassador of the Timurid court",
-        "translation": "帖木儿朝廷大使 阿布都 - 剌沙克",
+        "translation": "帖木儿朝廷大使，阿布都 - 剌沙克",
         "stage": 1
     },
     {
@@ -8210,7 +8210,7 @@
     {
         "key": "flavor_eth.8.t:0",
         "original": "Debre Berhan - The Mountain of Light",
-        "translation": "德布瑞 贝尔翰 - 光明之山",
+        "translation": "德布瑞贝尔翰 - 光明之山",
         "stage": 1
     },
     {
@@ -9417,7 +9417,7 @@
         "key": "flavor_guj.6.t:0",
         "original": "The Jain and Hindu Merchant Community - Vasanta Vilasa",
         "translation": "耆那教和印度教商人协会 - Vasanta Vilasa",
-        "stage": 1
+        "stage": 2
     },
     {
         "key": "flavor_guj.6.d:0",

@@ -1136,7 +1136,7 @@
     {
         "key": "RELIGIOUS_CONFLICT_RULES_ON:0",
         "original": "§YReligious Conflicts§!\\n- Crusades can be called by the Papal Controller.\\n- Catholic rulers can be excommunicated.\\n- Reformation Centers can appear.\\n- Religion impact diplomacy.",
-        "translation": "§Y宗教冲突§!\\n- 教廷监护可以发动十字军圣战。\\n- 天主教统治者可以被绝罚。\\n- 宗教改革中心可能会出现。\\n- 宗教影响国家外交。",
+        "translation": "§Y宗教冲突§!\\n－教廷监护可以发动十字军圣战。\\n－天主教统治者可以被绝罚。\\n－宗教改革中心可能会出现。\\n－宗教影响国家外交。",
         "stage": 1
     },
     {
@@ -2594,20 +2594,20 @@
     {
         "key": "NO_PROSP_NO_POSSTABI:1",
         "original": " - Stability must be positive!",
-        "translation": " - 稳定度必须为正",
-        "stage": 5
+        "translation": "－稳定度必须为正",
+        "stage": 1
     },
     {
         "key": "NO_PROSP_NEGPOSSTABI:0",
         "original": " - Stability must be negative.",
-        "translation": " - 稳定度必须为负。",
-        "stage": 5
+        "translation": "－稳定度必须为负。",
+        "stage": 1
     },
     {
         "key": "NO_PROSE_DEV_IN:0",
         "original": " - Devastation in $WHERE$!",
-        "translation": " - $WHERE$正在荒废中！",
-        "stage": 5
+        "translation": "－$WHERE$正在荒废中！",
+        "stage": 1
     },
     {
         "key": "ASSUME_WARLED_NOT_GP:0",
@@ -3104,8 +3104,8 @@
     {
         "key": "LEDGER_LOCAL_TRADE_GOODS_BONUS:0",
         "original": " - $EFF$ to the controller.",
-        "translation": " - 对于控制者有$EFF$。",
-        "stage": 5
+        "translation": "－对于控制者有$EFF$。",
+        "stage": 1
     },
     {
         "key": "PROV_PRODUCED_GOODS:0",
@@ -3398,8 +3398,8 @@
     {
         "key": "DISPUTED_SUCC_ALERT_TXT:0",
         "original": "$COL$$NAME$§! ($AGE$ Years) - Prestige: §R$PRESTIGE$§!",
-        "translation": "$COL$$NAME$§!（$AGE$岁）- 威望：§R$PRESTIGE$§!",
-        "stage": 5
+        "translation": "$COL$$NAME$§!（$AGE$岁）－威望：§R$PRESTIGE$§!",
+        "stage": 1
     },
     {
         "key": "LEDGER_HR_RULERS:0",
@@ -11222,7 +11222,7 @@
     {
         "key": "CV_NOTRESEARCHED_GOV_FORM_TOOLTIP:0",
         "original": "§g- $NAME$ (level $LEVEL$)§W",
-        "translation": "§g- $NAME$（等级 $LEVEL$）§W",
+        "translation": "§g－$NAME$（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11234,7 +11234,7 @@
     {
         "key": "CV_NOTRESEARCHED_NUMIDEAS_TOOLTIP:0",
         "original": "§g- Allow §G$NUM$§g Idea Groups (level $LEVEL$)§W",
-        "translation": "§g- 可解锁 §G$NUM$§g 个理念组（等级 $LEVEL$）§W",
+        "translation": "§g-－可解锁 §G$NUM$§g 个理念组（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11246,7 +11246,7 @@
     {
         "key": "CV_NOTRESEARCHED_MAXSTATES_TOOLTIP:0",
         "original": "§g- Allow §G$NUM$§g States (level $LEVEL$)§W",
-        "translation": "§g- 允许拥有§G$NUM$§g个直属州（等级$LEVEL$）§W",
+        "translation": "§g－允许拥有§G$NUM$§g个直属州（等级$LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11258,7 +11258,7 @@
     {
         "key": "CV_NOTRESEARCHED_PRODEFF_TOOLTIP:0",
         "original": "§g- Increase by §G+$NUM$%§g (level $LEVEL$)§W",
-        "translation": "§g- 增加 §G+$NUM$%§g（等级 $LEVEL$）§W",
+        "translation": "§g－增加 §G+$NUM$%§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -11270,7 +11270,7 @@
     {
         "key": "CV_NOTRESEARCHED_ADMEFF_TOOLTIP:0",
         "original": "§g- Increase by §G+$NUM$%§g (level $LEVEL$)§W",
-        "translation": "§g- 增加 §G+$NUM$%§g（等级 $LEVEL$）§W",
+        "translation": "§g－增加 §G+$NUM$%§g（等级 $LEVEL$）§W",
         "stage": 1
     },
     {
@@ -19718,13 +19718,13 @@
     {
         "key": "CORE_COLONY:0",
         "original": " - colony ",
-        "translation": " - 殖民地",
+        "translation": "－殖民地",
         "stage": 1
     },
     {
         "key": "CORE_OVERSEAS:0",
         "original": " - overseas ",
-        "translation": " - 海外",
+        "translation": "－海外",
         "stage": 1
     },
     {
@@ -19736,7 +19736,7 @@
     {
         "key": "CORE_SAME_CONTINENT:0",
         "original": " - colonial continent ",
-        "translation": " - 殖民大陆",
+        "translation": "－殖民大陆",
         "stage": 1
     },
     {
@@ -23252,8 +23252,8 @@
     {
         "key": "elections.EVTDESC712:0",
         "original": "The winds of liberty blow strong in [From.GetName]. The locally elected assembly have decided to elect their own [From.Monarch.GetTitle] from now on. Fortunately this seems to have dampened their desire for liberty. At least for the moment...",
-        "translation": "自由之风席卷了整个 [From.GetName]。当地的议会决定他们将从现在开始自行推举自己的 [From.Monarch.GetTitle] 。幸运的是，这似乎削弱了他们独立的愿望，至少是暂时...",
-        "stage": 1
+        "translation": "自由之风席卷了整个[From.GetName]。当地的议会决定他们将从现在开始自行推举自己的[From.Monarch.GetTitle]。幸运的是，这似乎削弱了他们独立的愿望，至少暂时如此……",
+        "stage": 5
     },
     {
         "key": "elections.EVTOPTB712:0",
@@ -25850,8 +25850,8 @@
     {
         "key": "reformed_events.EVTDESC5:0",
         "original": "Reformed theologians believe that only those who are predestined to be saved can be saved. But since it is impossible to know who is predestined, a notion has developed that it might be possible to discern that a person is predestined by observing their way of life. As hard work, frugality, social success and wealth are thought to be important consequences of being predestined, it seems to inspire followers of the Reformed faith to strive for reaching them, as well as attracting those who already possess them - like burghers and merchants.",
-        "translation": "改革宗的神学家们认为只有那些命中注定被拯救的人才能被拯救。可是我们不知道谁是命中注定的人，有观点认为我们可以通过一个人的行为方式判断他他是否有机会。勤奋，节俭，社交和财富被视为被选中的重要条件，这似乎激励了改革宗信徒们去遵循这些品质，并羡慕那些已经拥有的人们 - 例如城市中产阶级和商人。",
-        "stage": 5
+        "translation": "改革宗的神学家们认为只有那些命中注定被拯救的人才能被拯救。可是我们不知道谁是命中注定的人，有观点认为我们可以通过一个人的行为方式判断他他是否有机会。勤奋，节俭，社交和财富被视为被选中的重要条件，这似乎激励了改革宗信徒们去遵循这些品质，并羡慕那些已经拥有的人们——例如城市中产阶级和商人。",
+        "stage": 1
     },
     {
         "key": "reformed_events.EVTOPTA5:0",
@@ -28166,7 +28166,7 @@
     {
         "key": "BATTLE_DEFENDER_SWAP:0",
         "original": " - Due to lack of control of the hostile fortress, the $WHO|Y$ army will be the attacker in this combat.",
-        "translation": " - 由于未能攻占敌军堡垒,$WHO|Y$的军队将在这场战役中成为进攻方",
+        "translation": "－由于尚未控制敌军堡垒,$WHO|Y$的军队将在这场战役中成为进攻方",
         "stage": 1
     },
     {
