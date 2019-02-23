@@ -17606,7 +17606,7 @@
     {
         "key": "TRADEREFUSAL_1:0",
         "original": "Trade Embargo!",
-        "translation": "贸易禁运!",
+        "translation": "贸易禁运！",
         "stage": 1
     },
     {
@@ -17660,7 +17660,7 @@
     {
         "key": "TRADEREFUSALOTHER_SETUP:0",
         "original": "When a nation has banned to trade with another.",
-        "translation": "当一国对他国实施禁运",
+        "translation": "当一国对他国实施禁运。",
         "stage": 1
     },
     {
@@ -17672,7 +17672,7 @@
     {
         "key": "TRADEREFUSALOTHER_1:0",
         "original": "Trade Embargo!",
-        "translation": "贸易禁运!",
+        "translation": "贸易禁运！",
         "stage": 1
     },
     {
@@ -17690,14 +17690,14 @@
     {
         "key": "TRADEREFUSALOTHER_4:0",
         "original": "the merchants of ",
-        "translation": "来自",
+        "translation": "$RECIPIENT$",
         "stage": 1
     },
     {
         "key": "TRADEREFUSALOTHER_5:0",
         "original": "$RECIPIENT$",
-        "translation": "$RECIPIENT$",
-        "stage": -1
+        "translation": "的商人",
+        "stage": 1
     },
     {
         "key": "TRADEREFUSALOTHER_BTN1:0",
@@ -17732,7 +17732,7 @@
     {
         "key": "OWNTRADEREFUSAL_SETUP:0",
         "original": "When you initiate a trade embargo against another country.",
-        "translation": "当我国发起针对别国的贸易禁运",
+        "translation": "当我国发起针对别国的贸易禁运。",
         "stage": 1
     },
     {
@@ -17744,7 +17744,7 @@
     {
         "key": "OWNTRADEREFUSAL_1:0",
         "original": "Trade Embargo!",
-        "translation": "贸易禁运!",
+        "translation": "贸易禁运！",
         "stage": 1
     },
     {
@@ -17762,7 +17762,7 @@
     {
         "key": "OWNTRADEREFUSAL_4:0",
         "original": "and now has banned them from trading with us. They cannot send more merchants there, and do not gain any income from those present.",
-        "translation": "实施禁运，因此其不再能与我国贸易.他们不能再派遣更多商人，也不能从已驻地者处牟利.",
+        "translation": "实施禁运，因此其不再能与我国贸易。他们不能再派遣更多商人，也不能从已驻地者处牟利。",
         "stage": 1
     },
     {
@@ -31256,13 +31256,13 @@
     {
         "key": "TRADEREFUSAL_4:0",
         "original": "our merchants access to their provinces!",
-        "translation": "我国的商人访问了他们的省份",
+        "translation": "我国的商人进入他们的省份！",
         "stage": 1
     },
     {
         "key": "TRADEREFUSAL_6:0",
         "original": "This means that our merchants will have less Trade Power in nodes where they have provinces.",
-        "translation": "这意味着我国的商人将会减少在当地的贸易竞争力",
+        "translation": "这意味着在他们拥有省份的贸易节点，我国商人的贸易竞争力将会降低。",
         "stage": 1
     },
     {
@@ -31274,37 +31274,37 @@
     {
         "key": "TRADEREFUSALOTHER_6:0",
         "original": "access to their provinces.",
-        "translation": "在他们的省份扩展了贸易",
+        "translation": "进入他们的省份。",
         "stage": 1
     },
     {
         "key": "TRADEREFUSALOTHER_LOG:0",
         "original": "$ACTOR$ refuses the merchants of $RECIPIENT$ access to their provinces!",
-        "translation": "$ACTOR$对$RECIPIENT$实施了贸易禁运",
+        "translation": "$ACTOR$拒绝来自$RECIPIENT$的商人进入他们的省份！",
         "stage": 1
     },
     {
         "key": "OWNTRADEREFUSAL_6:0",
         "original": "Their merchants will have less Trade Power in nodes where we have a strong presence.",
-        "translation": "在我国贸易竞争力强的地方，他们的商人的贸易竞争力将减少",
+        "translation": "在我国贸易竞争力强的结点，他们的商人的贸易竞争力将会降低。",
         "stage": 1
     },
     {
         "key": "OWNTRADEREFUSAL_LOG:0",
         "original": "We have closed our provinces to the merchants from $RECIPIENT$.",
-        "translation": "我国对$RECIPIENT$实施贸易禁运",
+        "translation": "我国的省份已对$RECIPIENT$的商人关闭。",
         "stage": 1
     },
     {
         "key": "OWNTRADEALLOW_2:0",
         "original": "$MONARCHTITLE$, we have opened our provinces to the merchants from",
-        "translation": "$MONARCHTITLE$我国解除贸易禁运，针对",
+        "translation": "$MONARCHTITLE$，我们已经对",
         "stage": 1
     },
     {
         "key": "OWNTRADEALLOW_LOG:0",
         "original": "We have opened our provinces to the merchants from $RECIPIENT$.",
-        "translation": "我国的省份对$RECIPIENT$商人再次开放",
+        "translation": "我国的省份对$RECIPIENT$商人再次开放。",
         "stage": 1
     },
     {
