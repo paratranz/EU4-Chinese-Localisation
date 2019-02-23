@@ -17804,7 +17804,7 @@
     {
         "key": "OWNTRADEALLOW_SETUP:0",
         "original": "When you allow trade with another country again.",
-        "translation": "当我国取消对别国的贸易禁运",
+        "translation": "当你再次允许与另一国进行贸易。",
         "stage": 1
     },
     {
@@ -17828,7 +17828,7 @@
     {
         "key": "OWNTRADEALLOW_4:0",
         "original": "and now allow them to trade with us.",
-        "translation": "的商人进入我国进行贸易",
+        "translation": "的商人开放了省份，并允许他们与我国进行贸易。",
         "stage": 1
     },
     {
@@ -17876,7 +17876,7 @@
     {
         "key": "TRADEALLOW_SETUP:0",
         "original": "When a nation allows trade to your merchants.",
-        "translation": "当别国取消对本国的贸易禁运",
+        "translation": "当一国允许与你的商人进行贸易。",
         "stage": 1
     },
     {
@@ -17954,7 +17954,7 @@
     {
         "key": "TRADEALLOWOTHER_SETUP:0",
         "original": "When a nation allows trade with another country's merchants.",
-        "translation": "当别国取消针对第三国的贸易禁运",
+        "translation": "当一国允许与另一国的商人进行贸易。",
         "stage": 1
     },
     {
@@ -17984,14 +17984,14 @@
     {
         "key": "TRADEALLOWOTHER_4:0",
         "original": "the merchants of ",
-        "translation": "来自",
+        "translation": "$RECIPIENT$",
         "stage": 1
     },
     {
         "key": "TRADEALLOWOTHER_5:0",
         "original": "$RECIPIENT$",
-        "translation": "$RECIPIENT$",
-        "stage": -1
+        "translation": "的商人",
+        "stage": 1
     },
     {
         "key": "TRADEALLOWOTHER_6:0",
@@ -31310,13 +31310,13 @@
     {
         "key": "TRADEALLOW_LOG:0",
         "original": "$ACTOR$ allows our merchants access to their provinces again!",
-        "translation": "$ACTOR$现在允许我国的商人在他的国家内贸易",
+        "translation": "$ACTOR$再次允许我国的商人进入他们的省份！",
         "stage": 1
     },
     {
         "key": "TRADEALLOWOTHER_LOG:0",
         "original": "$ACTOR$ allows the merchants of $RECIPIENT$ access to their provinces again!",
-        "translation": "$ACTOR$现在允许$RECIPIENT$在他的国家内贸易",
+        "translation": "$ACTOR$再次允许$RECIPIENT$的商人进入他们的省份！",
         "stage": 1
     },
     {
