@@ -3350,7 +3350,7 @@
     {
         "key": "DLC_NEWITEMINSTALLED_DESC:0",
         "original": "$NAME$ has been installed, you should restart EU4.",
-        "translation": "$NAME$安装完成，请重新启动EU4。",
+        "translation": "$NAME$安装完成，请重新启动《欧陆风云IV》。",
         "stage": 1
     },
     {
@@ -4178,8 +4178,8 @@
     {
         "key": "ACHIEVEMENTS_DISABLED_MODIFIED_GAME:0",
         "original": "§Y- EU4 is running a mod or is altered in other ways.§!",
-        "translation": "§Y－EU4已加载mod或者通过其他方式修改。§!",
-        "stage": 5
+        "translation": "§Y－游戏已通过Mod或者其他方式修改。§!",
+        "stage": 1
     },
     {
         "key": "ACHIEVEMENTS_DISABLED_WRONG_PLAYER:0",
@@ -4292,19 +4292,19 @@
     {
         "key": "SAVEITEM_UNSAFE_VERSION:0",
         "original": "Saved with an older version of EU4.",
-        "translation": "保存为一个旧版的EU4。",
+        "translation": "由旧版游戏保存。",
         "stage": 1
     },
     {
         "key": "SAVEITEM_UNSAFE_EXPLANTION:0",
         "original": "This game was saved with a different version of EU4 or with DLC and mods that are not currently enabled.",
-        "translation": "这局游戏保存于其它版本的EU4，或存档时使用了当前未启用的DLC或mods。",
+        "translation": "这局游戏由不同版本，或启用了当前未启用的DLC或Mod的《欧陆风云IV》保存。",
         "stage": 1
     },
     {
         "key": "UNSAFE_EXPLANATION:0",
         "original": "Show or hide games that were saved with a different version of EU4 or with DLC or mods that are not currently enabled.",
-        "translation": "显示或者隐藏这个被保存于不同版本的EU4或那些之前用过dlc和mods但当前却未启用它们的存档。",
+        "translation": "显示或者隐藏由不同版本，或启用了当前未启用的DLC或Mod的《欧陆风云IV》保存的存档。",
         "stage": 1
     },
     {
@@ -4934,7 +4934,7 @@
     {
         "key": "SAVEGAME_WARNING_OLD_VERSION_DESC:1",
         "original": "The loaded savegame $NAME$ is from a different version of EU4.\\n\\n This can cause problems in the game and §Rcan potentially ruin Ironman saves§!.\\nGames with Random New World are especially fragile.\\n\\nSaving again, closing the game and reloading may help.",
-        "translation": "载入的存档$NAME$来自其他版本的EU4。\\n\\n这可能会在游戏中导致一些问题并§R可能会导致铁人存档失效§!。\\n使用随机新大陆游戏的非常容易出问题。\\n\\n重新存档并重启游戏可能会有所帮助。",
+        "translation": "载入的存档$NAME$来自不同版本版本的《欧陆风云IV》。\\n\\n这可能会在游戏中导致一些问题并§R可能会导致铁人存档失效§!。\\n使用随机新大陆游戏的非常容易出问题。\\n\\n重新存档并重启游戏可能会有所帮助。",
         "stage": 1
     },
     {
