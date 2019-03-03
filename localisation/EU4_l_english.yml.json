@@ -25424,14 +25424,14 @@
     {
         "key": "colonial_nation.EVTDESC312:0",
         "original": "Sending our militia to drive out the competing settlers from [From.From.GetName] might have been a mistake. Encouraged by their easy success, our troops got carried away and continued into [From.GetName], raiding the border villages there. This has greatly upset [From.Owner.GetName] and they in turn sent their militia into [From.From.GetName]...",
-        "translation": "派出民兵赶走来自 [From.From.GetName] 的定居者们可能是一个错误。受到最初胜利的影响，我们的部队继续前进并进入了[From.GetName]，劫掠了当地的边界村镇。这极大地激怒了[From.Owner.GetName]，他们也派出了他们的民兵进入了[From.From.GetName]……",
+        "translation": "派出民兵赶走来自[From.From.GetName]的定居者们可能是一个错误。受到最初胜利的影响，我们的部队继续前进并进入了[From.GetName]，劫掠了当地的边界村镇。这极大地激怒了[From.Owner.GetName]，他们也派出了他们的民兵进入了[From.From.GetName]……",
         "stage": 1
     },
     {
         "key": "colonial_nation.EVTOPTA312:0",
         "original": "Damn them!",
-        "translation": "可恶!",
-        "stage": 1
+        "translation": "去他们的！",
+        "stage": 5
     },
     {
         "key": "colonial_nation.EVTDESC313:0",
@@ -25472,7 +25472,7 @@
     {
         "key": "colonial_nation.EVTOPTA314:0",
         "original": "Who does that '[From.Monarch.GetTitle]' think [From.Monarch.GetSheHe] is?!",
-        "translation": "'[From.Monarch.GetTitle]'对 [From.Monarch.GetSheHe] 是怎么看的？!",
+        "translation": "那个「[From.Monarch.GetTitle]」以为[From.Monarch.GetSheHe]是谁啊？！",
         "stage": 1
     },
     {
@@ -25484,8 +25484,8 @@
     {
         "key": "colonial_nation.EVTOPTA315:0",
         "original": "Well done!",
-        "translation": "太好了!",
-        "stage": 1
+        "translation": "干得好！",
+        "stage": 5
     },
     {
         "key": "colonial_nation.EVTDESC316:0",
@@ -25508,20 +25508,20 @@
     {
         "key": "colonial_nation.EVTDESC318:0",
         "original": "The assembly has proposed that we set aside substantial resources to enhance our militia. The colony needs better protection from native attacks and raids from other colonies. It will also strengthen us if we at some point should find ourselves at war with [Root.ColonialParent.GetName].",
-        "translation": "最近的会议提议我们大幅拨款来提高民兵水准。面对原住民的攻击以及其他殖民地的劫掠，我们需要更好的自我保护。如果我们与 [Root.ColonialParent.GetName] 进入了战争，这些民兵也可以起到作用。.",
-        "stage": 1
+        "translation": "最近的会议提议我们大幅拨款来提高民兵水准。面对原住民的攻击以及其他殖民地的劫掠，我们需要更好的自我保护。如果我们与[Root.ColonialParent.GetName]进入了战争，这些民兵也可以起到作用。",
+        "stage": 5
     },
     {
         "key": "colonial_nation.EVTOPTA318:0",
         "original": "Establish it",
         "translation": "就这么做",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "colonial_nation.EVTOPTB318:0",
         "original": "Don't establish it",
         "translation": "算了",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "colonial_nation.EVTNAME319:0",
@@ -25539,7 +25539,7 @@
         "key": "colonial_nation.EVTOPTA319:0",
         "original": "Good idea",
         "translation": "好主意",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "colonial_nation.EVTOPTB319:0",
