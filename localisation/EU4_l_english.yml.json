@@ -25383,48 +25383,48 @@
         "key": "colonial_nation.EVTNAME310:0",
         "original": "Colonial Border Conflict",
         "translation": "殖民地边界冲突",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "colonial_nation.EVTDESC310:0",
         "original": "Settlers from another of [Root.Owner.ColonialParent.GetName]'s colonies have breached our borders! In search of resources they have expanded into land part of [Root.GetName] and gotten into conflict with the local population. This cannot be tolerated!",
-        "translation": "从 [Root.Owner.ColonialParent.GetName] 来的定居者已经越过了我们的边界！为了寻找土地和资源，他们扩张到了 [Root.GetName] 的领土，与当地的人民起了冲突。这决不能被容忍！",
+        "translation": "来自[Root.Owner.ColonialParent.GetName]的定居者已经越过了我们的边界！他们为了寻找资源，扩张到了[Root.GetName]的领土，并与当地居民产生了冲突。我们决不能容忍！",
         "stage": 1
     },
     {
         "key": "colonial_nation.EVTOPTA310:0",
         "original": "Send the local militia to drive them out!",
-        "translation": "派出民兵赶走他们!",
+        "translation": "派出民兵，赶走他们！",
         "stage": 1
     },
     {
         "key": "colonial_nation.EVTOPTB310:0",
         "original": "Let the situation resolve itself",
-        "translation": "任他们自生自灭",
+        "translation": "大事化小，小事化了。",
         "stage": 1
     },
     {
         "key": "colonial_nation.EVTDESC311:0",
         "original": "In search of new land and resources, settlers from [Root.GetName] have ventured across the border into [From.GetName] which has caused conflicts with the local population there. [From.Owner.GetName] then sent their militia to drive them out, but their militia seems to have gone too far and their mission degenerated into a vengeful raid into [Root.GetName]. This cannot be tolerated!",
-        "translation": "为了探索新的土地和资源，来自 [Root.GetName] 的居民们探险跨越了 [From.GetName] 的边界，与当地人产生了冲突。 [From.Owner.GetName] 于是派出民兵将他们赶走了，但这些民兵好像走得太远了，反过来进入了 [Root.GetName] 进行了复仇性质的劫掠。这绝对不能容忍！",
+        "translation": "为了探索新的土地和资源，来自[Root.GetName]的定居者冒险跨越了[From.GetName]的边界，与当地居民产生了冲突。于是[From.Owner.GetName]派出民兵将他们赶走了，但这些民兵好像走得太远了，反而进入了[Root.GetName]的边界，进行了复仇性质的劫掠。我们绝不能容忍！",
         "stage": 1
     },
     {
         "key": "colonial_nation.EVTOPTA311:0",
         "original": "Send in our local militia as well!",
         "translation": "我们也派出民兵！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "colonial_nation.EVTOPTB311:0",
         "original": "Let the situation resolve itself",
-        "translation": "任他们自生自灭",
+        "translation": "大事化小，小事化了。",
         "stage": 1
     },
     {
         "key": "colonial_nation.EVTDESC312:0",
         "original": "Sending our militia to drive out the competing settlers from [From.From.GetName] might have been a mistake. Encouraged by their easy success, our troops got carried away and continued into [From.GetName], raiding the border villages there. This has greatly upset [From.Owner.GetName] and they in turn sent their militia into [From.From.GetName]...",
-        "translation": "派出民兵赶走来自[From.From.GetName]的定居者们可能是一个错误。受到最初胜利的影响，我们的部队继续前进并进入了[From.GetName]，劫掠了当地的边界村镇。这极大地激怒了[From.Owner.GetName]，他们也派出了他们的民兵进入了[From.From.GetName]……",
+        "translation": "派出民兵赶走来自[From.From.GetName]的定居者们可能是一个错误。受到最初胜利的鼓舞，我们的部队继续前进并进入了[From.GetName]，劫掠了当地的边界村镇。这极大地激怒了[From.Owner.GetName]，他们也派出民兵，进入了[From.From.GetName]……",
         "stage": 1
     },
     {
