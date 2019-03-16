@@ -20072,32 +20072,32 @@
     {
         "key": "CORE_MP_PAUSED_NAME:0",
         "original": "Paused by $PLAYER$.",
-        "translation": "$PLAYER$选择暂停.",
+        "translation": "$PLAYER$暂停了游戏。",
         "stage": 1
     },
     {
         "key": "CORE_MP_PAUSED:0",
         "original": "$TIME$ left until anybody can unpause...",
-        "translation": "在任何人可以取消暂停前还有$TIME$……",
+        "translation": "$TIME$后任何人都可取消暂停……",
         "stage": 1
     },
     {
         "key": "CORE_MP_OOS_PAUSED_NAME:0",
         "original": " $PLAYER$ is no longer in synch.",
-        "translation": " $PLAYER$ 失去同步。",
+        "translation": "$PLAYER$失去同步。",
         "stage": 1
     },
     {
         "key": "OOS_TITLE:0",
         "original": "Error!",
-        "translation": "错误!",
+        "translation": "错误！",
         "stage": 1
     },
     {
         "key": "OOS_DESC:1",
         "original": "Your game is no longer in synch!\\n Error code: $CODE$ \\n \\n The host can no longer guarantee that you have a correct gamestate. Possible solutions: \\n 1. Ask the server to rehost the game. \\n 2. Continue playing with a corrupt gamestate. (Not recommended. Will most likely result in a crash.)",
-        "translation": "你的游戏已经不再同步了!\\n错误码：$CODE$ \\n\\n主机已经无法确保你的连接状态正确.可能的解决办法：\\n1.退出再重新开始介入\\n2.联系服务器重建主机\\n3.在错误状态下继续游戏(不推荐)",
-        "stage": 1
+        "translation": "你的游戏已经不再同步了！\\n错误码：$CODE$ \\n\\n主机已经无法确保你的连接状态正确.可能的解决办法：\\n1.退出再重新开始介入\\n2.联系服务器重建主机\\n3.在错误状态下继续游戏(不推荐)",
+        "stage": 2
     },
     {
         "key": "OOS_ERROR_CODE:0",
