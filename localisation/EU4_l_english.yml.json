@@ -116,7 +116,7 @@
     {
         "key": "PIETY_LEGALISM_BONUS:1",
         "original": "Our tradition of Legalism is a great advantage. §YEnforcing faithful Adherence§! will move us by $COST|Y$ towards Mysticism but impact corruption by $CORRUPTION$.",
-        "translation": "我们的教条主义传统大有优势。 §Y忠实执行教法§!会使我们向神秘主义靠近$COST|Y$，但也会使我们的腐败度$CORRUPTION$。",
+        "translation": "教条主义传统是我们的一大优势。 §Y忠实执行教法§!会使我们向神秘主义靠近$COST|Y$，但会使我们的腐败度$CORRUPTION$。",
         "stage": 2
     },
     {
@@ -128,20 +128,20 @@
     {
         "key": "PIETY_MYSTICISM_BONUS:1",
         "original": "Our tradition of Mysticism is a great advantage. §YCalling on Religious Followers§! will move us by $COST|Y$ towards Legalism but offer us $GAIN$",
-        "translation": "我们的神秘主义传统大有优势。§Y号召信徒§!会使我们向教条主义靠近$COST|Y$，不过我们会$GAIN$。",
+        "translation": "神秘主义传统是我们的一大优势。§Y号召信徒§!会使我们向教条主义靠近$COST|Y$，但我们会$GAIN$。",
         "stage": 2
     },
     {
         "key": "PIETY_MYSTICISM_COOLDOWN:0",
         "original": "You can only '§YCall on Religious Followers§!' once every $YEARS|Y$ years.\\nYou will be able to do it again in $UNTIL|Y$.",
-        "translation": "每$YEARS|Y$年你只能使用一次'§Y呼吁宗教追随者§!'。\\n$UNTIL|Y$后你将可以再次使用它。",
-        "stage": 5
+        "translation": "每$YEARS|Y$年你只能使用一次「§Y呼吁宗教追随者§!」。\\n$UNTIL|Y$后你将可以再次使用它。",
+        "stage": 1
     },
     {
         "key": "PIETY_LEGALISM_COOLDOWN:0",
         "original": "You can only '§YEnforce Faithful Adherence§!' once every $YEARS|Y$ years.\\nYou will be able to do it again in $UNTIL|Y$.",
-        "translation": "每$YEARS|Y$年你只能使用一次'§Y忠实执行教法§!'。\\n$UNTIL|Y$后你将可以再次使用它。",
-        "stage": 5
+        "translation": "每$YEARS|Y$年你只能使用一次「§Y忠实执行教法§!」。\\n$UNTIL|Y$后你将可以再次使用它。",
+        "stage": 1
     },
     {
         "key": "CONFIRM_ACTION_T:0",
