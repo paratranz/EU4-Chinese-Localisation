@@ -25586,7 +25586,7 @@
     {
         "key": "culture_religion_events.1.b.tt:0",
         "original": "All our provinces of the §Y[Root.given_teacher_culture.GetCultureName]§! culture will get §G-3§! unrest for §Y10§! years.",
-        "translation": "我们所有 §Y[Root.given_teacher_culture.GetCultureName]§! 文化的省份将在 §Y10§! 内获得§G-3§!叛乱度。",
+        "translation": "我们所有§Y[Root.given_teacher_culture.GetCultureName]§!文化的省份§Y10§!内将获得§G-3§!叛乱风险。",
         "stage": 1
     },
     {
@@ -25640,37 +25640,37 @@
     {
         "key": "culture_religion_events.2.a.tts1:0",
         "original": "All §Y[Root.Culture.GetName]§! provinces in §Y[Root.GetName]§! will receive §R+2§! Unrest for §Y3§! years.",
-        "translation": "所有的 §Y[Root.Culture.GetName]§! 省份在 §Y[Root.GetName]§! 会获得 §R+2§! 叛乱度 §Y3§! 年。",
+        "translation": "§Y[Root.GetName]§!所有§Y[Root.Culture.GetName]§!文化的省份§Y3§!年内将得到§R+2§!的叛乱风险。",
         "stage": 1
     },
     {
         "key": "culture_religion_events.2.a.tts2:0",
         "original": "All §Y[Root.new_ruler_culture.GetCultureName]§! provinces in §Y[Root.GetName]§! will receive §G-2§! Unrest for §Y3§! years.",
-        "translation": "所有的 §Y[Root.new_ruler_culture.GetCultureName]§! 省份在 §Y[Root.GetName]§! 会获得 §G-2§! 叛乱度 §Y3§! 年。",
+        "translation": "§Y[Root.GetName]§!所有§Y[Root.new_ruler_culture.GetCultureName]§!文化的省份§Y3§!年内将得到§G-2§!的叛乱风险。",
         "stage": 1
     },
     {
         "key": "culture_religion_events.2.a.ttm1:0",
         "original": "All §Y[Root.Culture.GetName]§! provinces in §Y[Root.GetName]§! will receive §R+2§! Unrest for §Y5§! years.",
-        "translation": "所有的 §Y[Root.Culture.GetName]§! 省份在 §Y[Root.GetName]§! 会获得 §R+2§! 叛乱度 §Y5§! 年.",
+        "translation": "§Y[Root.GetName]§!所有§Y[Root.Culture.GetName]§!文化的省份§Y5§!年内将得到§R+2§!的叛乱风险。",
         "stage": 1
     },
     {
         "key": "culture_religion_events.2.a.ttm2:0",
         "original": "All §Y[Root.new_ruler_culture.GetCultureName]§! provinces in §Y[Root.GetName]§! will receive §G-2§! Unrest for §Y5§! years.",
-        "translation": "所有的 §Y[Root.new_ruler_culture.GetCultureName]§! 省份在 §Y[Root.GetName]§! 会获得 §G-2§! 叛乱度 §Y5§! 年.",
+        "translation": "§Y[Root.GetName]§!所有§Y[Root.new_ruler_culture.GetCultureName]§!文化的省份§Y5§!年内将得到§G-2§!的叛乱风险。",
         "stage": 1
     },
     {
         "key": "culture_religion_events.2.a.ttl1:0",
         "original": "All §Y[Root.Culture.GetName]§! provinces in §Y[Root.GetName]§! will receive §R+2§! Unrest for §Y7§! years.",
-        "translation": "所有的 §Y[Root.Culture.GetName]§! 省份在 §Y[Root.GetName]§! 会获得 §R+2§! 叛乱度 §Y7§! 年.",
+        "translation": "§Y[Root.GetName]§!所有§Y[Root.Culture.GetName]§!文化的省份§Y7§!年内将得到§R+2§!的叛乱风险。",
         "stage": 1
     },
     {
         "key": "culture_religion_events.2.a.ttl2:0",
         "original": "All §Y[Root.new_ruler_culture.GetCultureName]§! provinces in §Y[Root.GetName]§! will receive §G-2§! Unrest for §Y7§! years.",
-        "translation": "所有的 §Y[Root.new_ruler_culture.GetCultureName]§! 省份在 §Y[Root.GetName]§! 会获得 §G-2§! 叛乱度 §Y7§! 年.",
+        "translation": "§Y[Root.GetName]§!所有§Y[Root.new_ruler_culture.GetCultureName]§!文化的省份§Y7§!年内将得到§G-2§!的叛乱风险。",
         "stage": 1
     },
     {
@@ -25694,7 +25694,7 @@
     {
         "key": "culture_religion_events.2.b.ttm1:1",
         "original": "All §Y[Root.Religion.GetName]§! provinces in §Y[Root.GetName]§! will receive §R+5§! Unrest and §R-5%§! Missionary Strength for §Y7§! years.",
-        "translation": "所有的 §Y[Root.Religion.GetName]§! 省份在 §Y[Root.GetName]§! 会获得 §R+5§! 叛乱度和 §R-5%§! 传教强度 §Y7§! 年.",
+        "translation": "§Y[Root.GetName]§!所有的§Y[Root.Religion.GetName]§!省份§Y7§!年内将得到§R+5§!的叛乱风险和§R-5%§!的传教强度。",
         "stage": 1
     },
     {
@@ -25730,7 +25730,7 @@
     {
         "key": "culture_religion_events.2.c.tts2:0",
         "original": "All §Y[Root.new_ruler_religion.GetReligionName]§! provinces in §Y[Root.GetName]§! will receive §G-3§! Unrest and §R-5§! conversion resistance for §Y5§! years.",
-        "translation": "所有的 §Y[Root.new_ruler_religion.GetReligionName]§! 省份在 §Y[Root.GetName]§! 会获得 §G-3§! 叛乱度和 §R-5§! conversion resistance for §Y5§! 年.",
+        "translation": "§Y[Root.GetName]§!所有的§Y[Root.new_ruler_religion.GetReligionName]§!省份§Y5§!年内将得到§G-3§!的叛乱风险和§R-5§!的传教抵抗。",
         "stage": 1
     },
     {
@@ -25742,7 +25742,7 @@
     {
         "key": "culture_religion_events.2.c.ttm2:0",
         "original": "All §Y[Root.new_ruler_religion.GetReligionName]§! provinces in §Y[Root.GetName]§! will receive §G-3§! Unrest and §R-5§! conversion resistance for §Y7! years.",
-        "translation": "所有的 §Y[Root.new_ruler_religion.GetReligionName]§! 省份在 §Y[Root.GetName]§! 会获得 §G-3§! 叛乱度和 §R-5§! conversion resistance for §Y7! 年.",
+        "translation": "§Y[Root.GetName]§!所有的§Y[Root.new_ruler_religion.GetReligionName]§!省份§Y7§!年内将得到§G-3§!的叛乱风险和§R-5§!的传教抵抗。",
         "stage": 1
     },
     {
