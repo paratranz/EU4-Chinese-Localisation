@@ -1598,7 +1598,7 @@
     {
         "key": "TRANSFER_TRADE_POWER_TO_DESC:0",
         "original": "$FROM$ will transfer $AMOUNT|Y%1$ of its Trade Power to $TO$, in trade nodes where they both have power. This will remain active for the duration of the truce.",
-        "translation": "$FROM$将在双方都有贸易额的贸易节点中，向$TO$转移他们贸易竞争力的§Y$AMOUNT|Y%1$§!。在停战协议失效前这种关系将一直存在。",
+        "translation": "$FROM$将在双方都有贸易竞争力的贸易节点中，向$TO$转移他们贸易竞争力的$AMOUNT|Y%1$。在停战协议失效前这种关系将一直存在。",
         "stage": 1
     },
     {
@@ -1616,7 +1616,7 @@
     {
         "key": "TRANSFER_OTHERS_TRADE_POWER_TO_DESC:0",
         "original": "$FROM$ will no longer transfer trade power to $ORG$. They will instead transfer §Y$AMOUNT|Y%1$§! of its Trade Power to $TO$, in trade nodes where they both have power. This will remain active for the duration of the truce.",
-        "translation": "$FROM$不再向$ORG$转移贸易竞争力。他们将在双方都有贸易额的贸易节点中转移他们贸易竞争力的§Y$AMOUNT|Y%1$§!给$TO$。在停战协议失效前这种关系将一直存在。",
+        "translation": "$FROM$不再向$ORG$转移贸易竞争力。他们将在双方都有贸易竞争力的贸易节点中转移他们贸易竞争力的§Y$AMOUNT|Y%1$§!给$TO$。在停战协议失效前这种关系将一直存在。",
         "stage": 1
     },
     {

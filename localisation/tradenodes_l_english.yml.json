@@ -26,14 +26,14 @@
     {
         "key": "TRADEMAP_OUTGOING_SMALL:0",
         "original": "Outgoing: -§Y$VAL$§W¤",
-        "translation": "出口总额：-§Y$VAL$§W¤",
+        "translation": "流出：-§Y$VAL$§W¤",
         "stage": 1
     },
     {
         "key": "TRADEMAP_INCOMING:0",
         "original": "Incoming: +§Y$VAL$§W¤",
-        "translation": "进口总额：+ §Y$VAL$§W¤",
-        "stage": 5
+        "translation": "流入：+ §Y$VAL$§W¤",
+        "stage": 1
     },
     {
         "key": "TRADEMAP_LOCAL:0",
@@ -494,7 +494,7 @@
     {
         "key": "TRADE_POWER_DIRECT_DESC:0",
         "original": "§Y$VAL$§W% of power sends trade in this direction.",
-        "translation": "§Y$VAL$§W%的贸易竞争力将贸易额导向这个方向。",
+        "translation": "§Y$VAL$§W%的贸易竞争力将贸易价值导向这个方向。",
         "stage": 1
     },
     {
@@ -560,7 +560,7 @@
     {
         "key": "TN_OUTGOING_VALUE:0",
         "original": "Outgoing:",
-        "translation": "出口总额：",
+        "translation": "流出：",
         "stage": 1
     },
     {
@@ -578,7 +578,7 @@
     {
         "key": "TN_INCOMING_VALUE:0",
         "original": "Incoming:",
-        "translation": "进口总额：",
+        "translation": "流入：",
         "stage": 1
     },
     {
@@ -680,19 +680,19 @@
     {
         "key": "TRADE_TRANSIT_NODE:0",
         "original": "Send Merchant to Transfer Trade Power.",
-        "translation": "派遣商人转移贸易额。",
+        "translation": "派遣商人转移贸易竞争力。",
         "stage": 1
     },
     {
         "key": "TRADE_TRANSIT_NODE_DESC:0",
         "original": "A transit node will use your Trade Power to increase the flow of money 'downstream'. It will also send some power back upstream as long as you already had power in the previous node.",
-        "translation": "你在中转节点中的贸易竞争力会被用于将节点中的贸易额转移到“下游节点”。如果你在该节点的上游节点有贸易竞争力的话，也会提高上游节点少量贸易竞争力。",
+        "translation": "你在中转节点中的贸易竞争力会被用于将节点中的贸易价值转移到「下游节点」。如果你在该节点的上游节点有贸易竞争力的话，也会提高上游节点少量贸易竞争力。",
         "stage": 1
     },
     {
         "key": "TRADE_TRANSIT_NODE_CAPITAL:0",
         "original": "Your home node is permanently Collecting from Trade, you can't Transfer Trade Power from it.",
-        "translation": "你在本埠节点永远只能获取贸易收入，你无法将这里的贸易额转移。",
+        "translation": "你在本埠节点永远只能获取贸易收入，你无法转移这里的贸易价值。",
         "stage": 1
     },
     {
@@ -722,7 +722,7 @@
     {
         "key": "TRADE_INCOME_SORT_DELAYED:0",
         "original": "Income is either gained directly through Collect from Trade or sent downstream through Transfer Trade Power.",
-        "translation": "贸易额要么通过获取贸易收入直接被收取，要么通过转移贸易竞争力被导向下游节点。",
+        "translation": "流入的贸易价值要么通过获取贸易收入直接被收取，要么通过转移贸易竞争力被导向下游节点。",
         "stage": 1
     },
     {
@@ -734,7 +734,7 @@
     {
         "key": "TRADE_MISSION_SORT_DELAYED:0",
         "original": "Your traders can either collect money, bring money forward if they have a downstream collection point or send money back if there is an upstream collection point.",
-        "translation": "你的商人可以获取贸易收入，如果在上游或下游有获取贸易收入的节点也可将贸易额导向那里。",
+        "translation": "你的商人可以获取贸易收入，如果在上游或下游有获取贸易收入的节点也可将贸易价值导向那里。",
         "stage": 1
     },
     {
@@ -794,7 +794,7 @@
     {
         "key": "TRADE_MAX_POWER_SORT_DELAYED:0",
         "original": "Trade Power is how high your power reaches in this node. For example, owning high value provinces or having fleets on trade patrol will increase this.",
-        "translation": "贸易竞争力代表了你在此节点的贸易实力高低。例如，拥有一个高贸易额的省份或有舰队巡护贸易，皆能提升贸易竞争力。",
+        "translation": "贸易竞争力代表了你在此节点的贸易实力高低。例如，拥有一个高价值的省份或有舰队巡护贸易，皆能提升贸易竞争力。",
         "stage": 1
     },
     {
@@ -818,7 +818,7 @@
     {
         "key": "TRADE_PROVINCES_DELAYED:0",
         "original": "Owning provinces will increase your Trade Power. Some provinces are worth more to begin with depending on such things as being an Important Center of Trade or being located near a river estuary. Province Trade Power can be improved by constructing buildings.",
-        "translation": "在贸易节点拥有省份可提高你的贸易竞争力。有些省份贸易额更高，这取决于它是否重要的贸易中心或靠近河口等。 通过修建建筑可提高省份的贸易竞争力。",
+        "translation": "在贸易节点拥有省份可提高你的贸易竞争力。有些省份提供的贸易竞争力更高，这取决于它是否重要的贸易中心或靠近河口等。 通过修建建筑可提高省份的贸易竞争力。",
         "stage": 1
     },
     {
