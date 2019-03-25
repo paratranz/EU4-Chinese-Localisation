@@ -20,8 +20,8 @@
     {
         "key": "TRADEMAP_OUTGOING_BASE:0",
         "original": "Before countries increase the outgoing trade value, $BASEVAL$¤ is leaving $FROMNODE$.",
-        "translation": "在各国商人引走贸易额之前，$FROMNODE$的出口总额是$BASEVAL$¤。",
-        "stage": 5
+        "translation": "在各国商人引走贸易价值之前，$FROMNODE$的出口总额是$BASEVAL$¤。",
+        "stage": 1
     },
     {
         "key": "TRADEMAP_OUTGOING_SMALL:0",
@@ -44,7 +44,7 @@
     {
         "key": "TRADEMAP_TOTAL:0",
         "original": "Trade Value in node: §Y$VAL$§W¤",
-        "translation": "节点贸易额：§Y$VAL$§W¤",
+        "translation": "节点贸易价值：§Y$VAL$§W¤",
         "stage": 1
     },
     {
@@ -62,25 +62,25 @@
     {
         "key": "TRADEMAP_INCOMING_EXP:0",
         "original": "Incoming Trade Value from earlier trade nodes.",
-        "translation": "上游贸易节点流入的贸易额度。",
+        "translation": "上游贸易节点流入的贸易价值。",
         "stage": 1
     },
     {
         "key": "TRADEMAP_OUTGOING_EXP:0",
         "original": "The amount of Trade Value that goes to nodes further down the stream.",
-        "translation": "流向下游贸易节点的贸易额度。",
+        "translation": "流向下游贸易节点的贸易价值。",
         "stage": 1
     },
     {
         "key": "TRADEMAP_LOCAL_EXP:0",
         "original": "Trade Value of provinces belonging to Trade Node.",
-        "translation": "属于该贸易节点的省份贸易额度。",
+        "translation": "属于该贸易节点的省份贸易价值。",
         "stage": 1
     },
     {
         "key": "TRADEMAP_TOTAL_EXP:0",
         "original": "Total Value of local trade node and incoming Trade Value.",
-        "translation": "贸易节点当地贸易额及流入贸易额的总额。",
+        "translation": "贸易节点当地贸易价值及流入贸易价值的总额。",
         "stage": 1
     },
     {
@@ -140,13 +140,13 @@
     {
         "key": "BASE_TRADE_VALUE:0",
         "original": "Base power (Trade Value/$DIV$): §Y$VAL$§W",
-        "translation": "基础贸易竞争力（贸易额/$DIV$）：§Y$VAL$§W",
+        "translation": "基础贸易竞争力（贸易价值/$DIV$）：§Y$VAL$§W",
         "stage": 1
     },
     {
         "key": "BASE_TRADE_PORT_VALUE:0",
         "original": "Port (Trade Value/$DIV$): +§G$VAL$§W",
-        "translation": "港口 （贸易额/$DIV$）：+§G$VAL$§W",
+        "translation": "港口 （贸易价值/$DIV$）：+§G$VAL$§W",
         "stage": 1
     },
     {
@@ -242,7 +242,7 @@
     {
         "key": "TRADE_VALUE_RETAINED:0",
         "original": "§Y$VAL$§W% of the Trade Value retained.",
-        "translation": "贸易额的§Y$VAL$§W%被保留下来。",
+        "translation": "贸易价值的§Y$VAL$§W%被保留下来。",
         "stage": 1
     },
     {
@@ -458,7 +458,7 @@
     {
         "key": "TRADE_MISSION_TRANSIT_DESC:0",
         "original": "Any node where you have power that is not your Main Trade City is a transit node. Your power there will let you direct trade and will cause the trade value to move down the chain.",
-        "translation": "不是你贸易本埠的任意你拥有贸易竞争力的贸易节点都是中转节点。你的贸易竞争力将自动引导贸易，导致贸易额流向下游。",
+        "translation": "不是你贸易本埠的任意你拥有贸易竞争力的贸易节点都是中转节点。你的贸易竞争力将自动引导贸易，导致贸易价值流向下游。",
         "stage": 1
     },
     {
@@ -542,7 +542,7 @@
     {
         "key": "TN_RETENTION_POWER:0",
         "original": "Retained Trade Value",
-        "translation": "截留的贸易额",
+        "translation": "截留的贸易价值",
         "stage": 1
     },
     {

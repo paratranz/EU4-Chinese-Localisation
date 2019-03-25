@@ -260,8 +260,8 @@
     {
         "key": "HINT_MERCHANT_TEXT:0",
         "original": "Merchants can be used to perform one of two actions in a Trade Node. They can either Collect from Trade or Transfer Trade Value. A Merchant that is performing Collect from Trade will increase the income generated from that Trade Node, while a Merchant performing Transfer Trade Value will be able to steer Trade Value.",
-        "translation": "商人可以在贸易节点活动.他们可以收集物资，转移贸易价值.一个在贸易节点收集物资的商人可以为你带来贸易收入.而一个由商人转移贸易价值的贸易节点可以改变贸易价值的流动.",
-        "stage": 5
+        "translation": "商人可以在贸易节点活动。他们可以获取贸易收入或转移贸易价值。一个在贸易节点获取贸易收入的商人可以为你带来产生收入。而一个由商人转移贸易价值的贸易节点可以改变贸易价值的流动。",
+        "stage": 1
     },
     {
         "key": "HINT_MOREMERCHANT_TITLE:0",
@@ -740,7 +740,7 @@
     {
         "key": "HINT_TRADE_TEXT:0",
         "original": "Trade can be a major source of income for a country. The world is split up into Trade Nodes and all Trade Value produced in provinces is transported to their associated Trade Node. You can either steer trade or collect income from a Trade Node. Trade Power influences how much of a Trade Node you can control, and is therefore very important. Trade Income is directly modified by Trade Efficiency.",
-        "translation": "对于国家来说，贸易是收入的一种主要来源。世界上有许多贸易节点，每个省份所产生的贸易额都会被运输到所属的贸易节点中。在一个贸易节点中你可以选择转移贸易额或者将贸易额转化为收入。贸易竞争力决定了你在贸易节点中的支配贸易额的能力. 贸易收入受贸易效率直接影响.",
+        "translation": "对于国家来说，贸易是收入的一种主要来源。世界上有许多贸易节点，每个省份所产生的贸易价值都会被转移到所属的贸易节点中。在一个贸易节点中你可以选择转移贸易价值或者将贸易价值转化为收入。贸易竞争力决定了你在贸易节点中的支配贸易价值的能力。贸易收入受贸易效率直接影响。",
         "stage": 1
     },
     {
@@ -752,7 +752,7 @@
     {
         "key": "HINT_INCOME_TEXT:0",
         "original": "Income can come from taxes, production and tariffs. Taxes are gathered from provinces and can be improved by Tax Efficiency. Production comes from the Trade Value in a province and can be improved by Production Efficiency. Tariffs represent income from Colonial Nations. Certain Ideas can increase the tariffs collected.",
-        "translation": "你的收入来源于三部分：税收，生产和关税.每个省都会产生税收，税收随着税收效率的提高而增加.生产取决于省份的贸易额，并随着生产效率的提高而增加.关税是海外省份的收入，它需要轻型战舰或重型战舰来获得这些跨海的收入.一些理念会增加关税.",
+        "translation": "你的收入来源于三部分：税收，生产和关税。每个省都会产生税收，税收随着税收效率的提高而增加。生产取决于省份的贸易价值，并随着生产效率的提高而增加。关税是海外省份的收入，它需要轻型战舰或重型战舰来获得这些跨海的收入。一些理念会增加关税.。",
         "stage": 1
     },
     {
@@ -1394,7 +1394,7 @@
     {
         "key": "HINT_TRADESTEERING_TEXT:0",
         "original": "When you want to steer trade from one Trade Node to another you can send a Merchant to the Trade Node with the order to Transfer Trade Power. This will transfer Trade Value from a Trade Node to the next Trade Node downstream. The amount of trade steered depends on your Trade Power. You can never steer trade upstream or past your Main Trade City.",
-        "translation": "如果你想将一个贸易节点的份额引导至另一个贸易节点，你便可以派遣一个商人执行“转移贸易竞争力”行动。此举将把一个贸易节点内的贸易额转移至下游的贸易节点，所引导的贸易额数量取决于你的贸易竞争力。你无法向上游引导贸易额，你也不能引导贸易额穿过你的贸易本埠。",
+        "translation": "如果你想将一个贸易节点的份额引导至另一个贸易节点，你便可以派遣一个商人执行「转移贸易竞争力」行动。此举将把一个贸易节点内的贸易价值转移至下游的贸易节点，所引导的贸易价值数量取决于你的贸易竞争力。你无法向上游引导贸易额，你也不能引导贸易额穿过你的贸易本埠。",
         "stage": 1
     },
     {
@@ -1436,13 +1436,13 @@
     {
         "key": "HINT_TRADEVALUE_TITLE:0",
         "original": "Trade Value",
-        "translation": "贸易额",
+        "translation": "贸易价值",
         "stage": 1
     },
     {
         "key": "HINT_TRADEVALUE_TEXT:0",
         "original": "Provinces produce trade goods that have an associated value. The amount of goods produced and the value of those goods together make up Trade Value. Trade Value is sent to the Trade Node for terms of calculating the amount of trade in that node, but is also used for Production income in a province.",
-        "translation": "省份会生产商品，而商品有与之相关的价值。生产商品的数量以及这些商品共计的价值构成了贸易额。贸易额会被计入所属贸易节点的总贸易额，但也会决定省份的生产收入。",
+        "translation": "省份会生产商品，而商品有与之相关的价值。生产商品的数量以及这些商品共计的价值构成了贸易价值。贸易价值会被计入所属贸易节点的总贸易价值，但也会决定省份的生产收入。",
         "stage": 1
     },
     {
@@ -1574,7 +1574,7 @@
     {
         "key": "HINT_TRADENODE_TEXT:1",
         "original": "All Trade Value from provinces flows to the associated Trade Node. The world is split up into different Trade Nodes and every province belongs to one. Trade Value can flow downstream from one Trade Node to the next. Trade Power is key to securing income in a Trade Node or to determine how much Trade Value is steered downstream. Trade cannot be steered away from Venice, Genoa or the English Channel.",
-        "translation": "省份的所有贸易额将流入与之相关的贸易节点。整个世界被分为若干个不同的贸易节点，每个省份都属于其中的一个。贸易额也能从一个贸易节点流向其下游的贸易节点。贸易竞争力是在贸易节点内确保收入的关键，或是用于决定有多少的贸易份额能被引导至下游。贸易额无法从威尼斯、热那亚和英吉利海峡转移至别的节点。",
+        "translation": "省份的所有贸易价值将流入与之相关的贸易节点。整个世界被分为若干个不同的贸易节点，每个省份都属于其中的一个。贸易价值也能从一个贸易节点流向其下游的贸易节点。贸易竞争力是在贸易节点内确保收入的关键，或是用于决定有多少的贸易份额能被引导至下游。贸易价值无法从威尼斯、热那亚和英吉利海峡转移至别的节点。",
         "stage": 1
     },
     {

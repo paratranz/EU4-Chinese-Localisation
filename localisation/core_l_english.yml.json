@@ -1898,7 +1898,7 @@
     {
         "key": "MAPMODE_TRADE_VALUE_DESC:0",
         "original": "Colors the provinces according to the value of trade. Blue color indicates gold provinces, light red a low trade value, dark red a slightly higher trade value, yellow indicates a high trade value and green indicates a very high trade value.",
-        "translation": "根据贸易额对省份着色。蓝色代表省份蕴含金矿，浅红色代表省份贸易值低，深红色代表省份贸易值有点高，黄色代表省份贸易值高，绿色代表省份贸易值非常高。",
+        "translation": "根据贸易价值对省份着色。蓝色代表省份蕴含金矿，浅红色代表省份贸易价值低，深红色代表省份贸易价值较高，黄色代表省份贸易价值高，绿色代表省份贸易价值非常高。",
         "stage": 1
     },
     {
@@ -3524,13 +3524,13 @@
     {
         "key": "PROV_TRADEVALUE_DESCR:1",
         "original": "This is calculated by multiplying the amount of goods with their value. Trade Value increases the province's production income.",
-        "translation": "通过将商品的数量与价值相乘来计算贸易额。贸易额增加了省份的生产收入。",
+        "translation": "通过将商品的数量与价值相乘来计算贸易价值。贸易价值增加了省份的生产收入。",
         "stage": 1
     },
     {
         "key": "PROV_GOODSPROD_DESCR:0",
         "original": "Goods Produced increases the Trade Value of a province by providing more trade goods.",
-        "translation": "贸易商品通过提高产量提升省份的贸易额。",
+        "translation": "贸易商品通过提高产量提升省份的贸易价值。",
         "stage": 1
     },
     {

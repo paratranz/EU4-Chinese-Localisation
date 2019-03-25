@@ -4730,7 +4730,7 @@
     {
         "key": "IMPR_TRADE_VALUE:0",
         "original": " Trade Value: §G+$VAL$§!¤ ($TRADE_GOOD$)",
-        "translation": " 贸易价值：§G+$VAL$§!¤（$TRADE_GOOD$）",
+        "translation": "贸易价值：§G+$VAL$§!¤（$TRADE_GOOD$）",
         "stage": 1
     },
     {
@@ -14672,13 +14672,13 @@
     {
         "key": "TRADE_VALUE:0",
         "original": "Trade Value",
-        "translation": "贸易额",
+        "translation": "贸易价值",
         "stage": 1
     },
     {
         "key": "TRADE_VALUE_MODIFIER:0",
         "original": "Trade Value Modifier",
-        "translation": "贸易额修正",
+        "translation": "贸易价值修正",
         "stage": 1
     },
     {
@@ -16394,7 +16394,7 @@
     {
         "key": "COLONY_TRADE:0",
         "original": "Trade Power: $POWER|1$\\nTrade Value: $VALUE|2$\\nTrade Node: $NODE$",
-        "translation": "贸易竞争力：$POWER|1$\\n贸易额：$VALUE|2$\\n贸易节点：$NODE$",
+        "translation": "贸易竞争力：$POWER|1$\\n贸易价值：$VALUE|2$\\n贸易节点：$NODE$",
         "stage": 1
     },
     {
@@ -16598,7 +16598,7 @@
     {
         "key": "TRADE_GOODS_ONMAP:0",
         "original": "$GOODS|G$ \\nGoods produced: $PRODUCED|Y2$ \\nTrade value: $VALUE|Y2$ \\nTrade power: $TRADE|Y2$",
-        "translation": "$GOODS|G$ \\n商品产出： $PRODUCED|Y2$ \\n贸易额： $VALUE|Y2$ \\n贸易竞争力： $TRADE|Y2$",
+        "translation": "$GOODS|G$ \\n商品产出： $PRODUCED|Y2$ \\n贸易价值： $VALUE|Y2$ \\n贸易竞争力： $TRADE|Y2$",
         "stage": 1
     },
     {
@@ -16610,7 +16610,7 @@
     {
         "key": "TRADE_GOODS_ONMAP_UNKNOWN_2:0",
         "original": "Goods produced: $PRODUCED|Y2$ \\nTrade value: $VALUE|Y2$ \\nTrade power: $TRADE|Y2$",
-        "translation": "商品产出： $PRODUCED|Y2$ \\n贸易额： $VALUE|Y2$ \\n贸易竞争力： $TRADE|Y2$",
+        "translation": "商品产出： $PRODUCED|Y2$ \\n贸易价值： $VALUE|Y2$ \\n贸易竞争力： $TRADE|Y2$",
         "stage": 1
     },
     {
@@ -21068,7 +21068,7 @@
     {
         "key": "MACRO_INCREASE_TRADE_VALUE:0",
         "original": "(will increase Trade Value by $VAL|+G2$)",
-        "translation": "（通过$VAL|+G2$将增加贸易值）",
+        "translation": "（将通过$VAL|+G2$增加贸易价值）",
         "stage": 1
     },
     {
@@ -21104,7 +21104,7 @@
     {
         "key": "MACRO_INCREASE_TRADE_VALUE_DESC:0",
         "original": "This building will increase trade value by $VAL$",
-        "translation": "此建筑提高贸易额$VAL$",
+        "translation": "此建筑提高贸易价值$VAL$",
         "stage": 1
     },
     {
@@ -26516,7 +26516,7 @@
     {
         "key": "POWER_INC_TO_HERE:2",
         "original": "This fleet will add §Y$POW$§! trade power to §Y$NODE$§!.\\nThis will increase our trade value from §Y$CURRENTINCOME$§!¤ to §Y$INCOME$§!¤ (§Y$INCOMEDIFFERENCE$§!¤ gain), while this fleet costs §R$MAIN$§!¤ in maintenance.\\nTotal change will be $PROFIT$¤ $DIR$.\\n",
-        "translation": "这支舰队会增加§Y$NODE$§!节点§Y$POW$§!的贸易竞争力。\\n这将使我们的贸易额从§Y$CURRENTINCOME$§!¤增加至§Y$INCOME$§!¤（增加了§Y$INCOMEDIFFERENCE$§!¤），同时这支舰队会消耗§R$MAIN$§!¤来进行维护。\\n总变动将是$PROFIT$¤的$DIR$。\\n",
+        "translation": "这支舰队会增加§Y$NODE$§!节点§Y$POW$§!的贸易竞争力。\\n这将使我们的贸易价值从§Y$CURRENTINCOME$§!¤增加至§Y$INCOME$§!¤（增加了§Y$INCOMEDIFFERENCE$§!¤），同时这支舰队会消耗§R$MAIN$§!¤来进行维护。\\n总变动将是$PROFIT$¤的$DIR$。\\n",
         "stage": 1
     },
     {
@@ -27525,7 +27525,7 @@
         "key": "RENEW_INFLUENCE_NATION_DIALOG_TITLE:0",
         "original": "Renew Influence Nation",
         "translation": "继续影响该国",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "RENEW_INFLUENCE_NATION_TITLE_DIALOG_DESC:0",
