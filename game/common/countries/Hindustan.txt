@@ -1,0 +1,180 @@
+graphical_culture = indiangfx
+color = {
+  235
+  255
+  220
+}
+revolutionary_colors = {
+  6
+  0
+  10
+}
+historical_idea_groups = {
+  humanist_ideas
+  defensive_ideas
+  trade_ideas
+  offensive_ideas
+  spy_ideas
+  diplomatic_ideas
+  economic_ideas
+  administrative_ideas
+}
+historical_units = {
+  indian_footsoldier
+  rajput_hill_fighters
+  indian_arquebusier
+  mughal_musketeer
+  rajput_musketeer
+  mughal_mansabdar
+  indian_elephant
+  sikh_hit_and_run
+  bhonsle_cavalry
+  indian_rifle
+  tipu_sultan_rocket
+}
+monarch_names = {
+  "Taj ud-Din Firuz #0" = 20
+  "Ala ud-Din Ahmad #0" = 20
+  "Mahmud #0" = 20
+  "Ahmad #0" = 20
+  "Amir #0" = 30
+  "Bahâdur Shâh #0" = 20
+  "Dâwar Bakhsh #0" = 20
+  "Dârâ Shikûh #0" = 10
+  "Malik-ut-Tujjar #0" = 0
+  "纳西哈 #0" = -1  # Nasiha #0
+  "沙米亚 #0" = -1  # Samiya #0
+  "哈基姆 #0" = 0  # Hakim #0
+  "锡坎达尔 #0" = 0  # Sikandar #0
+  "阿拉乌丁 #0" = 0  # Ala-ud-din #0
+  "马利克 #0" = 0  # Malik #0
+  "阿卜杜勒 #0" = 0  # Abdul #0
+  "贾马鲁丁 #0" = 0  # Jamal-ud-din #0
+  "夫拉德 汗 #0" = 0  # Fulad Khan #0
+  "库兹 希拉贾丁 #0" = 0  # Quazi Siraj-ud-din #0
+  "穆加希德 #0" = 1  # Mujahid #0
+  "达乌德 汗 #0" = 0  # Daud Khan #0
+  "库什鲁 #0" = 0  # Khusrau #0
+  "米尔 阿里 #0" = 0  # Mir Ali #0
+  "哈瓦贾 伊马德丁 #0" = 0  # Khwaja Imad al-Din #0
+  "卡希姆伯 #0" = 0  # Qasim Beg #0
+  "米尔 沙姆斯丁 #0" = 0  # Mir Shams al-Din #0
+  "鲁斯塔姆汗 #0" = 0  # Rustam Khan #0
+  "阿卜杜拉 #0" = 0  # Abd Allah #0
+  "毛拉 库提布丁 #0" = 0  # Mullah Qutb al-Din #0
+  "沙 哈利勒 阿拉 #0" = 0  # Shah Khalil Allah #0
+  "赛义德 纳希尔丁 #0" = 0  # Sayid Nasir al-Din #0
+  "乌拜德 阿拉 #0" = 0  # Ubbaid Allah #0
+  "米尔 阿布勒 卡希姆 #0" = 0  # Mir Abu'l-Qasim #0
+  "伊夫提哈尔 穆尔克 #0" = 0  # Iftikhar al-Mulk #0
+  "赛义夫 阿拉 #0" = 0  # Saif Allah #0
+  "伊马德 穆尔克 #0" = 0  # Imad al-Mulk #0
+  "赛义德 哈里发 #0" = 0  # Sayid Hanif #0
+  "马茂德 加万 #0" = 0  # Mahmud Gawan #0
+  "库里 苏丹 #0" = 0  # Quli Sultan #0
+  "马吉努 苏丹 #0" = 0  # Majnun Sultan #0
+  "贾拉勒 汗 #0" = 0  # Jalal Khan #0
+  "赛义德 胡赛因 #0" = 0  # Sayid Husain #0
+  "米尔 法鲁赫 #0" = 0  # Mir Farrukh #0
+  "哈拉夫 哈桑 #0" = 0  # Khalaf Hasan #0
+  "哈瓦贾 贾罕 #0" = 0  # Khwaja -i Jahan #0
+  "哈瓦贾 哈桑 #0" = 0  # Khwaja Hasan #0
+  "迪拉瓦尔 汗 #0" = 0  # Dilawar Khan #0
+  "沙姆斯乌丁 #0" = 10  # Shams-ud-din #0
+  "吉亚斯乌丁 #0" = 10  # Ghiyas-ud-din #0
+  "穆克杜马 贾罕 #0" = -1  # Makhdumah Jahan #0
+  "穆罕默德 #0" = 10  # Muhammad #0
+  "阿扎姆 沙 #0" = 10  # A'zam Shâh #0
+  "阿齐穆阿什 沙 #0" = 10  # 'Azim-ash Sha'n #0
+  "易卜拉欣 #2 沙" = 10  # Ibrâhim #2 Shâh
+  "舍尔 沙 #0" = 20  # Shîr Shâh #0
+  "拉菲 #0" = 20  # Râfi' #0
+  "尼库 希亚尔 #0" = 20  # Nîkû-siyar #0
+  "穆罕默德 沙 #0" = 20  # Muhammad Shâh #0
+  "阿克巴 #0" = 20  # Akbar #0
+  "贾汉吉尔 #0" = 20  # Jahângîr #0
+  "贾罕达尔 沙 #0" = 20  # Jahândâr Shâh #0
+  "伊斯兰 沙 #0" = 20  # Islâm Shâh #0
+  "胡马雍 #0" = 20  # Humâyûn #0
+  "法鲁赫 希亚尔 #0" = 20  # Farrukh-siyar #0
+  "卡西姆 #0" = 30  # Qasim #0
+  "阿里 #0" = 30  # Ali #0
+}
+leader_names = {
+  "阿富汗"  # Afghani
+  "阿斯塔纳巴迪"  # Astarabadi
+  "阿尔达斯塔尼"  # Ardastani
+  "巴达赫沙"  # Badakhshi
+  "布哈里"  # Bukhari
+  "成吉思"  # Changezi
+  "吉兰尼"  # Gilani
+  "古里"  # Ghuri
+  "哈桑阿巴迪"  # Hasanabadi
+  "哈马丹"  # Hamadani
+  "祖尔贾尼"  # Jurjani
+  "卡布里"  # Kabuli
+  "卡尔巴里"  # Karbali
+  "吉尔曼尼"  # Kirmani
+  "库尔德"  # Kurd
+  "马赞德兰"  # Mazandarani
+  "库姆伊"  # Qummi
+  "沙夫希罕"  # Safsikhan
+  "Simnani"
+  "锡斯坦"  # Sistani
+  "乌兹别克"  # Uzbek
+  "胡赛因"  # Hussaini
+  "卡迪尔"  # Qadir
+  "安巴尔"  # Ambar
+  "拉提夫"  # Latif
+  "Ameerun"
+  "贝格"  # Beg
+  "布托"  # Bhutto
+  "Chughtai"
+  "贾罕"  # Jahan
+  "卡马鲁丁"  # Kamaluddin
+  "汗"  # Khan
+  "米尔扎"  # Mirza
+  "穆沙里夫"  # Musharif
+  "Nagar"
+  "Nasseruddin"
+  "Nazirun"
+  "Radhidun"
+  "Ra'ana"
+  "Rumi"
+  "Shahabuddin"
+  "Sharif"
+  "Sinan"
+  "Singh"
+  "Wazirun"
+  "乌兹别克"  # Uzbek
+  "Zahiruddin"
+}
+ship_names = {
+  "Alia"
+  "Aurangabad"
+  "Devki"
+  "Fatimah"
+  "Godvari"
+  "Gulbargah"
+  "Jalsena"
+  "Kala Jahazi"
+  "Khan"
+  "Lal Jahazi"
+  "Nausena"
+  "Nav ka Yudh"
+  "Niknaz"
+  "Nila Jahazi"
+  "Niloufa"
+  "Sagar"
+  "Salima"
+  "Suhalia"
+  "Shameena"
+  "Yasmine"
+  "Nila Jahazi"
+  "Niloufa"
+  "Noor"
+  "Sagar"
+  "Spiti"
+  "Yamuna"
+  "Yasmine"
+}

@@ -1,0 +1,185 @@
+graphical_culture = westerngfx
+color = {
+  235
+  196
+  231
+}
+revolutionary_colors = {
+  5
+  13
+  6
+}
+historical_idea_groups = {
+  administrative_ideas
+  defensive_ideas
+  diplomatic_ideas
+  offensive_ideas
+  trade_ideas
+  economic_ideas
+  innovativeness_ideas
+  quality_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  italian_condotta
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_carabinier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "玛丽亚 #0" = -1  # Maria #0
+  "贝亚特丽斯 #0" = -1  # Beatrice #0
+  "芭芭拉 #0" = -1  # Barbara #0
+  "爱丽丝 #0" = -1  # Alice #0
+  "桑德拉 #0" = -1  # Sandra #0
+  "维托里奥 #0" = 0  # Vittorio #0
+  "塞巴斯蒂亚诺 #0" = 0  # Sebastiano #0
+  "内斯托雷 #0" = 0  # Nestore #0
+  "洛伦佐 #0" = 0  # Lorenzo #0
+  "拉扎罗 #0" = 0  # Lazzaro #0
+  "朱利奥 #0" = 0  # Giulio #0
+  "真纳罗 #0" = 0  # Gennaro #0
+  "埃德蒙多 #0" = 0  # Edmondo #0
+  "博纳文图拉 #0" = 0  # Bonaventura #0
+  "阿戈斯蒂诺 #0" = 0  # Agostino #0
+  "翁贝托 #3" = 5  # Umberto #3
+  "毛里齐奥 #0" = 10  # Maurizio #0
+  "雅努斯 #0" = 10  # Janus #0
+  "吉罗拉莫 #0" = 10  # Girolamo #0
+  "乔瓦尼 卢多维科 #0" = 10  # Giovanni Ludovico #0
+  "乔瓦尼 阿梅迪奥  #0" = 10  # Giovanni Amedeo #0
+  "贾诺 #0" = 10  # Giano #0
+  "吉安 玛利亚 #0" = 10  # Gian Maria #0
+  "吉安 克劳迪奥 #0" = 10  # Gian Claudio #0
+  "贾科莫 #0" = 10  # Giacomo #0
+  "弗朗切斯科 #0" = 10  # Francesco #0
+  "埃马努埃莱 #0" = 10  # Emanuele #0
+  "阿索罗内  #0" = 10  # Assolone #0
+  "艾莫尼 #0" = 10  # Aimone #0
+  "阿德里亚诺 #0" = 10  # Adriano #0
+  "托马索 #2" = 10  # Tomasso #2
+  "彼得罗 #2" = 10  # Pietro #2
+  "贾科莫 卢多维科 #0" = 15  # Giacomo Ludovico #0
+  "腓力 伊曼纽尔 #0" = 15  # Filippo Emanuel #0
+  "贝尔纳多 #0" = 15  # Bernardo #0
+  "安东尼奥 #0" = 15  # Antonio #0
+  "卢多维科 #0" = 20  # Ludovico #0
+  "弗朗切斯科 乔辛托 #0" = 20  # Francesco Giacinto #0
+  "伊曼纽尔 菲利贝托 #0" = 20  # Emanuele Filiberto #0
+  "腓力 #1" = 20  # Filippo #1
+  "维托里奥 阿梅德奥 #0" = 40  # Vittorio Amedeo #0
+  "菲利贝托 #0" = 40  # Filiberto #0
+  "卡洛 埃曼努埃莱 #0" = 40  # Carlo Emanuele #0
+  "阿梅迪奥 #7" = 40  # Amedeo #7
+  "卡洛 #0" = 60  # Carlo #0
+}
+leader_names = {
+  "阿尔菲耶里"  # Alfieri
+  "迪 阿皮亚尼 迪 阿拉戈纳"  # d'Appiani d'Aragona
+  "阿尔博里奥 梅拉"  # Arborio Mella
+  "阿西纳里"  # Asinari
+  "德 阿塔拉亚"  # d'Attalaya
+  "巴尔博"  # Balbo
+  "本索"  # Benso
+  "邦孔帕尼 卢多维西"  # Boncompagni Ludovisi
+  "博罗梅奥"  # Borromeo
+  "博斯科"  # Bosco
+  "博塔"  # Botta
+  "布罗利亚"  # Broglia
+  "迪 布斯卡"  # di Busca
+  "迪 卡多瓦尔"  # di Cadoval
+  "卡法索"  # Cafasso
+  "坎塔托雷 迪 布雷奥"  # Cantatore di Breo
+  "迪 卡尔代"  # di Cardé
+  "卡萨蒂"  # Casati
+  "基奥多"  # Chiodo
+  "奇萨 阿西纳里"  # Cisa Asinari
+  "科托伦戈"  # Cottolengo
+  "多里亚 迪 奇列"  # Doria di Cirié
+  "费雷罗 菲耶斯科"  # Ferrero-Fiesco
+  "菲耶斯科"  # Fiesco
+  "加埃塔尼"  # Gaetani
+  "加埃塔尼 德阿奎拉"  # Gaetani dell'Aquila
+  "加莱蒂"  # Galletti
+  "焦贝蒂"  # Gioberti
+  "拉斯卡里斯"  # Lascaris
+  "卢塞尔纳 迪 博尼法乔"  # Luserna di Bonifacio
+  "卢塞尔纳 迪 坎皮利欧尼"  # Luserna di Campiglione
+  "Luserna di Chiaberto"
+  "迪 卢塞尔纳"  # di Luserna
+  "德尔 马可"  # del Marco
+  "德 马雷塔"  # de Maretta
+  "梅尔齐"  # Melzi
+  "米卡"  # Micca
+  "德 蒙特"  # del Monte
+  "德奥塔亚诺"  # d'Ottaiano
+  "迪 帕埃萨纳"  # di Paesana
+  "帕莱奥洛吉 蒙费拉托"  # Paleologi Montferrato
+  "帕拉维奇尼"  # Pallavicini
+  "迪 萨卢佐"  # di Saluzzo
+  "迪 萨伏伊"  # di Savoia
+  "索拉罗"  # Solaro
+  "塔帕雷利"  # Taparelli
+  "德拉 托雷"  # della Torre
+  "Valdo"
+  "Valfré"
+  "维科"  # Vico
+}
+ship_names = {
+  "Adelaide di Susa"
+  "Albane"
+  "艾莫尼"  # Aimone
+  "Amedeo Coda"
+  "阿纳西"  # Annecy
+  "Bauges"
+  "Bellevaux"
+  "Biancamano"
+  "博尼法乔"  # Bonifacio
+  "Casa di Savoia"
+  "Chablais"
+  "尚贝里"  # Chambéry
+  "Contamine-sur-Arve"
+  "Dora Riparia"
+  "Edoardo"
+  "Entremont"
+  "Faucigny"
+  "菲利波"  # Filippo
+  "日内瓦"  # Genevois
+  "贾科莫"  # Giacomo
+  "Jaquerio"
+  "Hautecombe"
+  "Umberto Sabaudia"
+  "Lac du Bourget"
+  "Leysse"
+  "Maurienne"
+  "奥多内"  # Oddone
+  "彼得罗 I"  # Pietro I
+  "皮埃蒙特"  # Piemonte
+  "波河"  # fiume Po
+  "Sacra Sindone"
+  "圣多梅尼科"  # San Domenico
+  "San Donato"
+  "圣保禄"  # San Paolo
+  "圣丽塔"  # Santa Rita
+  "San Salvario"
+  "Stura di Lanzo"
+  "Sangone"
+  "Talloires"
+  "Tamié"
+  "Tommaso"
+  "Tarentaise"
+  "Torino"
+  "奥斯塔谷"  # Val d'Aosta
+}
+army_names = {
+  "$PROVINCE$军"  # Armata di $PROVINCE$
+}

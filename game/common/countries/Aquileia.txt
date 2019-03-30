@@ -1,0 +1,177 @@
+graphical_culture = westerngfx
+color = {
+  34
+  30
+  174
+}
+historical_idea_groups = {
+  defensive_ideas
+  trade_ideas
+  economic_ideas
+  diplomatic_ideas
+  innovativeness_ideas
+  spy_ideas
+  religious_ideas
+  administrative_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  italian_condotta
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "佛维娜 #0" = -1  # Fulvia #0
+  "加尔米娜 #0" = -1  # Carmina #0
+  "亚历山德拉 #0" = -1  # Alessandra #0
+  "维托里奥 #0" = 0  # Vittorio #0
+  "乌贝托 #0" = 0  # Uberto #0
+  "蒂莫泰奥 #0" = 0  # Timoteo #0
+  "萨尔瓦托雷 #0" = 0  # Salvatore #0
+  "拉涅罗 #0" = 0  # Raniero #0
+  "保罗 #0" = 0  # Paolo #0
+  "奥塔维亚诺 #0" = 0  # Ottaviano #0
+  "马泰奥 #0" = 0  # Matteo #0
+  "马西米利亚诺 #0" = 0  # Massimiliano #0
+  "马尔切洛 #0" = 0  # Marcello #0
+  "卢基诺 #0" = 0  # Luchino #0
+  "莱奥波尔多 #0" = 0  # Leopoldo #0
+  "列奥纳多 #0" = 0  # Leonardo #0
+  "雅可波 #0" = 0  # Jacopo #0
+  "伊尼亚齐奥 #0" = 0  # Ignazio #0
+  "圭多 #0" = 0  # Guido #0
+  "杰罗尼莫 #0" = 0  # Geronimo #0
+  "加埃塔诺 #0" = 0  # Gaetano #0
+  "弗朗切斯科 #0" = 0  # Francesco #0
+  "费利切  #0" = 0  # Felice #0
+  "法布里齐奥 #0" = 0  # Fabrizio #0
+  "埃尔梅斯 #0" = 0  # Ermes #0
+  "埃马努埃莱 #0" = 0  # Emanuele #0
+  "德梅特里奥 #0" = 0  # Demetrio #0
+  "达里奥 #0" = 0  # Dario #0
+  "克劳迪奥 #0" = 0  # Claudio #0
+  "卡米洛 #0" = 0  # Camillo #0
+  "博尼法乔 #0" = 0  # Bonifacio #0
+  "贝内代托 #0" = 0  # Benedetto #0
+  "阿尔贝托 #0" = 0  # Alberto #0
+  "阿基里斯 #0" = 0  # Achille #0
+  "雷蒙多 #1" = 10  # Raimondo #1
+  "帕加诺 #1" = 10  # Pagano #1
+  "奥托博诺 #1" = 10  # Ottobuono #1
+  "加斯托内 #1" = 10  # Gastone #1
+  "彼得罗 #2" = 10  # Pietro #2
+  "尼科洛 #1" = 15  # Niccolò #1
+  "菲利波 #2" = 15  # Filippo #2
+  "乔瓦尼 #5" = 15  # Giovanni #5
+  "洛多维科 #1" = 20  # Lodovico #1
+  "安东尼奥 #0" = 50  # Antonio #0
+}
+leader_names = {
+  "阿德拉西奥"  # Adelasio
+  "阿尔迪尼"  # Aldini
+  "亚历山德里"  # Alessandri
+  "阿尔博里奥 梅拉"  # Arborio Mella
+  "巴比亚诺 贝尔焦约索"  # Barbiano Belgioioso
+  "巴尔尼亚尼"  # Bargnani
+  "比廖利 迪 拉瓦"  # Bigliori di Lava
+  "比拉戈"  # Birago
+  "博罗梅奥"  # Borromeo
+  "布鲁内蒂"  # Brunetti
+  "卡埃塔尼"  # Caetani
+  "迪 坎普法哥索"  # di Campofregoso
+  "卡拉乔罗"  # Caracciolo
+  "卡拉法"  # Carafa
+  "迪 卡尔代"  # di Cardé
+  "德尔 卡雷托"  # del Carreto
+  "孔塔里尼"  # Containi
+  "弗兰基"  # Franchi
+  "吉斯列里"  # Ghislieri
+  "冈萨加"  # Gonzaga
+  "格里马尔迪 迪 布斯卡"  # Grimaldi di Busca
+  "德 古兹曼"  # de Guzman
+  "兰贝蒂"  # Lamberti
+  "德 雷瓦"  # de Leiva
+  "卢奥西"  # Luosi
+  "卢塞尔纳 比廖利"  # Luserna Bigliori
+  "卢塞尔纳 德拉 托雷"  # Luserna della Torre
+  "曼奇尼"  # Mancini
+  "美第奇 迪 马里尼亚诺"  # Medici di Marignano
+  "梅尔齐"  # Melzi
+  "德 蒙特"  # del Monte
+  "莫斯卡蒂"  # Moscati
+  "奥代斯卡尔基"  # Odescalchi
+  "帕莱奥洛吉 蒙费拉托"  # Paleologi Montferrato
+  "帕拉迪西"  # Paradisi
+  "毕戈"  # Pico
+  "鲁加"  # Ruga
+  "萨巴蒂"  # Sabbati
+  "迪 萨卢佐"  # di Saluzzo
+  "萨沃尔迪"  # Savoldi
+  "德拉 斯卡拉"  # della Scalla
+  "塞尔贝洛尼"  # Serbelloni
+  "斯冯德拉第"  # Sfondrati
+  "斯福尔扎"  # Sforza
+  "索马里瓦"  # Sommariva
+  "索普兰西"  # Sopransi
+  "斯皮诺拉"  # Spinola
+  "泰斯蒂"  # Testi
+  "蒂佐涅"  # Tizzone
+  "维斯孔蒂"  # Visconti
+}
+ship_names = {
+  "阿利亚塔"  # Alliata
+  "因蒂米亚诺的阿里贝托"  # Ariberto d'Intimiano
+  "安斯佩托"  # Ansperto
+  "阿佐尼 维斯孔蒂"  # Azzone Visconti
+  "切伦塔诺"  # Celentano
+  "科梅 安吉尔贝托"  # come Angilberto
+  "科莫"  # Como
+  "科拉多 II"  # Corrado II
+  "克雷莫纳"  # Cremona
+  "菲利波 玛丽亚"  # Filippo Maria
+  "兰布罗河"  # Fiumi Lambro
+  "奥洛纳河"  # Fiumi l'Olona
+  "塞韦索河"  # Fiume Seveso
+  "弗朗切斯科 斯福尔扎"  # Francesco Sforza
+  "吉安 加莱亚佐 维斯孔蒂"  # Gian Galeazzo Visconti
+  "莱科"  # Lecco
+  "洛迪"  # Lodi
+  "伦巴第"  # Lombardia
+  "帕维亚"  # Pavia
+  "阿尔博因诺王"  # Re Alboino
+  "圣巴比拉"  # San Babila
+  "圣伯纳迪诺 阿雷 奥萨"  # San Bernardino alle Ossa
+  "圣克里斯托佛罗 苏 纳维里奥"  # San Cristoforo sul Naviglio
+  "圣乔凡尼 孔卡"  # San Giovanni in Conca
+  "圣哥达"  # San Gottardo
+  "圣洛伦佐"  # San Lorenzo
+  "圣马可"  # San Marco
+  "圣纳加洛 马焦雷"  # San Nazaro Maggiore
+  "圣新伯立加诺"  # San Simpliciano
+  "圣萨蒂罗"  # San Satiro
+  "奇迹圣母"  # Santa Maria dei Miracoli
+  "圣奥古斯丁"  # Sant'Agostino
+  "圣安布罗焦"  # Sant'Ambrogio
+  "圣欧斯托吉奥"  # Sant'Eustorgio
+  "圣斯特凡诺"  # Santo Stefano
+  "松德里奥"  # Sondrio
+  "泰拉尼"  # Terragni
+  "泰奥多林达"  # Teodolinda
+  "托里亚尼"  # Torriani
+  "瓦尔贝托"  # Valperto
+  "瓦雷泽"  # Varese
+  "维尔吉利奥"  # Virgilio
+}
+army_names = {
+  "$PROVINCE$军"  # Armata de $PROVINCE$
+}

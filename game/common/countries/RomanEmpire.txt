@@ -1,0 +1,683 @@
+graphical_culture = easterngfx
+color = {
+  167
+  10
+  100
+}
+historical_idea_groups = {
+  offensive_ideas
+  defensive_ideas
+  trade_ideas
+  administrative_ideas
+  spy_ideas
+  economic_ideas
+  innovativeness_ideas
+  diplomatic_ideas
+}
+army_names = {
+  "第一大力神军团"  # Legio I Herculia
+  "第二拉帕克斯军团"  # Legio II Rapax
+  "第三利伯拉特里克斯军团"  # Legio III Liberatrix
+  "第四阿波罗纳里斯军团"  # Legio IV Apollonaris
+  "第五阿劳戴军团"  # Legio V Alaudae
+  "第六凯旋军团"  # Legio VI Victrix
+  "第七费拉塔军团"  # Legio VII Ferrata
+  "第八奥古斯塔军团"  # Legio VIII Augusta
+  "第九凯旋军团"  # Legio IX Triumphalis
+  "第十意大利加军团"  # Legio X Italica
+  "第十一马其顿军团"  # Legio XI Macedonica
+  "第十二弥涅耳瓦军团"  # Legio XII Minervia
+  "第十三雷电军团"  # Legio XIII Fulminata
+  "第十四弗雷腾西斯军团"  # Legio XIV Fretensis
+  "第十五原始军团"  # Legio XV Primigenia
+  "第十六克劳迪亚军团"  # Legio XVI Claudia
+  "第二十斯基泰军团"  # Legio XX Scythica
+}
+fleet_names = {
+  "亚历山德里娜"  # Classis Alexandrina
+  "塞琉西纳"  # Classis Seleucena
+  "卡帕提亚"  # Classis Carpathia
+  "威尼托"  # Classis Venetum
+  "君士坦丁堡"  # Classis Constantinopolis
+  "罗马"  # Classis Roma
+  "阿德里安波利斯"  # Classis Adrianopolis
+  "大西洋"  # Classis Atlanticum
+  "地中海"  # Classis Mediterraneus
+  "攸克辛海"  # Classis Euxeinos Pontos
+}
+leader_names = {
+  "巴西尔"  # Basileios
+  "利昂"  # Leon
+  "巴达斯"  # Bardas
+  "马里诺斯"  # Marinos
+  "阿纳斯塔西娅"  # Anastasia
+  "君士坦丁"  # Konstantinos
+  "奥古斯都"  # Augustus
+  "提比略"  # Tiberius
+  "卡利古拉"  # Caligula
+  "克劳狄乌斯"  # Claudius
+  "尼禄"  # Nero
+  "加尔巴"  # Galba
+  "奥托"  # Otho
+  "维特里乌斯"  # Vitellius
+  "韦帕芗"  # Vespasian
+  "提图斯"  # Titus
+  "图密善"  # Domitian
+  "涅尔瓦"  # Nerva
+  "图拉真"  # Trajan
+  "哈德良"  # Hadrian
+  "安东尼"  # Antoninus
+  "卢修斯"  # Lucius
+  "马库斯"  # Marcus
+  "康茂德"  # Commodus
+  "佩蒂纳克斯"  # Pertinax
+  "朱利安"  # Julian
+  "塞普蒂米乌斯"  # Septimius
+  "盖塔"  # Geta
+  "卡拉卡拉"  # Caracalla
+  "马克林努斯"  # Macrinus
+  "黑利阿加巴卢斯"  # Heliogabalus
+  "亚历山大"  # Alexander
+  "马克西米努斯"  # Maximinus
+  "戈尔迪安"  # Gordian
+  "普皮恩努斯"  # Pupienus
+  "巴尔比努斯"  # Balbinus
+  "菲利普"  # Philip
+  "德西乌斯"  # Decius
+  "加卢斯"  # Trebonianus
+  "埃米利安努斯"  # Aemilian
+  "瓦勒良"  # Valerian
+  "加里恩努斯"  # Gallienus
+  "昆提卢斯"  # Quintillus
+  "奥勒良"  # Aurelian
+  "塞维里娜"  # Severina
+  "塔西佗"  # Tacitus
+  "弗洛里安努斯"  # Florian
+  "普罗布斯"  # Probus
+  "卡鲁斯"  # Carus
+  "努梅里安"  # Numerian
+  "卡里努斯"  # Carinus
+  "戴克里先"  # Diocletian
+  "君士坦提乌斯"  # Constantius
+  "伽列里乌斯"  # Galerius
+  "李锡尼"  # Licinius
+  "君士坦丁"  # Constantine
+  "君士坦斯"  # Constans
+  "约维安"  # Jovian
+  "瓦伦丁尼安"  # Valentinian
+  "瓦伦斯"  # Valens
+  "格拉提安"  # Gratian
+  "狄奥多西"  # Theodosius
+  "阿卡狄乌斯"  # Arcadius
+  "霍诺留"  # Honorius
+  "普尔喀丽亚"  # Pulcheria
+  "马尔基安"  # Marcian
+  "芝诺"  # Zenon
+  "瓦西里斯科斯"  # Basiliskos
+  "阿纳斯塔修斯"  # Anastasios
+  "查士丁"  # Ioustinos
+  "查士丁尼"  # Ioustinianos
+  "提比略"  # Tiberios
+  "莫里斯"  # Maurikios
+  "福卡斯"  # Phokas
+  "希拉克略"  # Herakleios
+  "希拉克里昂"  # Herakleonas
+  "君士坦斯"  # Konstas
+  "利昂提乌斯"  # Leontios
+  "菲利皮科斯"  # Philippikos
+  "狄奥多西"  # Theodosios
+  "阿尔塔瓦斯多斯"  # Artavasdos
+  "伊琳娜"  # Eirene
+  "尼基弗鲁斯"  # Nikephoros
+  "斯陶拉基奥斯"  # Stavrakios
+  "米海尔"  # Michael
+  "狄奥菲洛斯"  # Theophilos
+  "阿德里亚诺斯"  # Adrianos
+  "阿卡基奥斯"  # Akakios
+  "亚历山大"  # Alexandros
+  "阿莱克修斯"  # Alexios
+  "安纳托里奥斯"  # Anatolios
+  "安德烈亚斯"  # Andreas
+  "安德罗尼库斯"  # Andronikos
+  "安塞米奥斯"  # Anthemios
+  "安提莫斯"  # Anthimos
+  "安提俄克斯"  # Antiochos
+  "安东尼奥斯"  # Antonios
+  "阿波罗尼奥斯"  # Apollonios
+  "阿塞尼奥斯"  # Arsenios
+  "阿特米奥斯"  # Artemios
+  "阿塔纳修斯"  # Athanasios
+  "巴尔托洛迈奥斯"  # Bartholomaios
+  "贝利撒里奥斯"  # Belisarios
+  "博伊狄欧斯"  # Boethios
+  "博斯波里奥斯"  # Bosporios
+  "克里斯托佛罗斯"  # Christophoros
+  "克莱山托斯"  # Chrysanthos
+  "克莱索戈诺斯"  # Chrysogonos
+  "达米亚诺斯"  # Damianos
+  "丹尼尔"  # Daniel
+  "大卫"  # David
+  "德米特里"  # Demetrios
+  "第欧根尼"  # Diogenes
+  "狄奥尼希奥斯"  # Dionysios
+  "多罗修斯"  # Dorotheos
+  "埃尔雷奈奥斯"  # Eirenaios
+  "尤多克修斯"  # Eudoxios
+  "尤斯特拉提乌斯"  # Eustratios
+  "欧根尼奥斯"  # Eugenios
+  "尤菲米奥斯"  # Euphemios
+  "尤塞比奥斯"  # Eusebios
+  "尤斯塔修斯"  # Eustathios
+  "埃凡格罗斯"  # Evangelos
+  "加布里埃尔"  # Gabriel
+  "杰那迪奥斯"  # Gennadios
+  "乔治奥斯"  # Georgios
+  "杰拉西莫斯"  # Gerasimos
+  "杰尔马努斯"  # Germanos
+  "格雷戈拉斯"  # Gregoras
+  "格里高利"  # Gregorios
+  "赫克托里欧斯"  # Hektorios
+  "赫里亚斯"  # Helias
+  "希罗修斯"  # Hierotheos
+  "希梅里奥斯"  # Himerios
+  "希波吕托斯"  # Hippolytos
+  "希帕提奥斯"  # Hypatios
+  "雅科博斯"  # Iakobos
+  "伊格纳提"  # Ignatios
+  "因诺肯提奥斯"  # Innokentios
+  "约安尼斯"  # Ioannes
+  "约安尼基奥斯"  # Ioannikios
+  "约尔达尼斯"  # Iordanes
+  "约瑟夫"  # Ioseph
+  "伊萨克"  # Isaakios
+  "艾赛亚斯"  # Isaias
+  "伊西多罗斯"  # Isidoros
+  "尤利亚诺斯"  # Ioulianos
+  "凯撒里奥斯"  # Kaisarios
+  "卡里尼科斯"  # Kallinikos
+  "卡里斯托斯"  # Kallistos
+  "科米塔斯"  # Komitas
+  "君士坦提奥斯"  # Konstantios
+  "科斯马斯"  # Kosmas
+  "凯利亚科斯"  # Kyriakos
+  "凯利洛斯"  # Kyrillos
+  "凯罗斯"  # Kyros
+  "劳伦提奥斯"  # Laurentios
+  "拉萨罗斯"  # Lazaros
+  "卢卡斯"  # Loukas
+  "马卡里奥斯"  # Makarios
+  "曼努埃尔"  # Manuel
+  "马科斯"  # Markos
+  "马太奥斯"  # Matthaios
+  "马克西莫斯"  # Maximos
+  "梅吉斯托斯"  # Megistos
+  "梅莱提奥斯"  # Meletios
+  "梅索迪奥斯"  # Methodios
+  "纳尔西斯"  # Narses
+  "尼奥菲托斯"  # Neophytos
+  "尼基塔斯"  # Niketas
+  "尼科德莫斯"  # Nikodemos
+  "尼科劳斯"  # Nikolaos
+  "尼丰"  # Niphon
+  "奥雷斯特斯"  # Orestes
+  "帕菲里奥斯"  # Pamphilios
+  "潘克拉提奥斯"  # Pankratios
+  "潘托莱昂"  # Pantoleon
+  "巴斯加"  # Paschalis
+  "帕夫洛斯"  # Pavlos
+  "佩拉吉奥斯"  # Pelagios
+  "佩特罗斯"  # Petros
+  "菲拉雷托斯"  # Philaretos
+  "菲利波斯"  # Philippos
+  "菲洛修斯"  # Philotheos
+  "佛提奥斯"  # Photios
+  "颇利卡尔普"  # Polykarpos
+  "波菲琉斯"  # Porphyrios
+  "普罗科皮奥斯"  # Prokopios
+  "皮洛士"  # Pyrros
+  "拉斐尔"  # Raphail
+  "罗曼诺斯"  # Romanos
+  "萨巴斯"  # Sabas
+  "萨穆埃尔"  # Samuel
+  "谢拉皮翁"  # Serapion
+  "塞巴斯蒂亚诺斯"  # Sebastianos
+  "塞尔吉奥斯"  # Sergios
+  "斯特凡诺斯"  # Stephanos
+  "斯陶拉基奥斯"  # Staurakios
+  "赛米恩"  # Symeon
+  "席马科斯"  # Symmachos
+  "狄奥查理斯托斯"  # Theocharistos
+  "狄奥多罗斯"  # Theodoros
+  "狄奥多托斯"  # Theodotos
+  "狄奥多洛斯"  # Theodoulos
+  "狄奥克提斯托斯"  # Theoktistos
+  "狄奥凡内斯"  # Theophanes
+  "狄奥菲拉克托斯"  # Theophylaktos
+  "托马斯"  # Thomas
+  "特拉伊诺斯"  # Traianos
+  "提莫修斯"  # Timotheos
+  "特里丰"  # Tryphon
+  "瓦莱里奥斯"  # Valerios
+  "撒迦利亚"  # Zacharias
+  "齐诺比奥斯"  # Zenobios
+}
+monarch_names = {
+  "齐诺比奥斯 #0" = 0  # Zenobios #0
+  "撒迦利亚斯 #0" = 0  # Zacharias #0
+  "瓦莱里奥斯 #0" = 0  # Valerios #0
+  "特里丰 #0" = 0  # Tryphon #0
+  "提莫修斯 #0" = 0  # Timotheos #0
+  "特拉伊诺斯 #0" = 0  # Traianos #0
+  "托马斯 #0" = 0  # Thomas #0
+  "狄奥菲拉克托斯 #0" = 0  # Theophylaktos #0
+  "狄奥凡内斯 #0" = 0  # Theophanes #0
+  "狄奥克提斯托斯 #0" = 0  # Theoktistos #0
+  "狄奥多洛斯 #0" = 0  # Theodoulos #0
+  "狄奥多托斯 #0" = 0  # Theodotos #0
+  "狄奥多罗斯 #0" = 0  # Theodoros #0
+  "狄奥查理斯托斯 #0" = 0  # Theocharistos #0
+  "席马科斯 #0" = 0  # Symmachos #0
+  "赛米恩 #0" = 0  # Symeon #0
+  "斯陶拉基奥斯 #0" = 0  # Staurakios #0
+  "斯特凡诺斯 #0" = 0  # Stephanos #0
+  "塞尔吉奥斯 #0" = 0  # Sergios #0
+  "塞巴斯蒂亚诺斯 #0" = 0  # Sebastianos #0
+  "谢拉皮翁 #0" = 0  # Serapion #0
+  "萨缪埃尔 #0" = 0  # Samuel #0
+  "萨巴斯 #0" = 0  # Sabas #0
+  "罗曼诺斯 #0" = 0  # Romanos #0
+  "拉斐尔 #0" = 0  # Raphail #0
+  "皮洛士 #0" = 0  # Pyrros #0
+  "普罗科皮奥斯 #0" = 0  # Prokopios #0
+  "波菲琉斯 #0" = 0  # Porphyrios #0
+  "波莱卡波斯 #0" = 0  # Polykarpos #0
+  "佛提奥斯 #0" = 0  # Photios #0
+  "菲洛修斯 #0" = 0  # Philotheos #0
+  "菲利波斯 #0" = 0  # Philippos #0
+  "菲拉雷托斯 #0" = 0  # Philaretos #0
+  "佩特罗斯 #0" = 0  # Petros #0
+  "佩拉吉奥斯 #0" = 0  # Pelagios #0
+  "帕夫洛斯 #0" = 0  # Pavlos #0
+  "巴斯加 #0" = 0  # Paschalis #0
+  "潘托莱昂 #0" = 0  # Pantoleon #0
+  "潘克拉提奥斯 #0" = 0  # Pankratios #0
+  "帕菲里奥斯 #0" = 0  # Pamphilios #0
+  "奥雷斯特斯 #0" = 0  # Orestes #0
+  "尼丰 #0" = 0  # Niphon #0
+  "尼科劳斯 #0" = 0  # Nikolaos #0
+  "尼科德莫斯 #0" = 0  # Nikodemos #0
+  "尼基塔斯 #0" = 0  # Niketas #0
+  "尼奥菲托斯 #0" = 0  # Neophytos #0
+  "纳尔西斯 #0" = 0  # Narses #0
+  "梅索迪奥斯 #0" = 0  # Methodios #0
+  "梅莱提奥斯 #0" = 0  # Meletios #0
+  "梅吉斯托斯 #0" = 0  # Megistos #0
+  "马克西莫斯 #0" = 0  # Maximos #0
+  "马太奥斯 #0" = 0  # Matthaios #0
+  "马科斯 #0" = 0  # Markos #0
+  "曼努埃尔 #0" = 0  # Manuel #0
+  "马卡里奥斯 #0" = 0  # Makarios #0
+  "卢卡斯 #0" = 0  # Loukas #0
+  "拉萨罗斯 #0" = 0  # Lazaros #0
+  "劳伦提奥斯 #0" = 0  # Laurentios #0
+  "凯罗斯 #0" = 0  # Kyros #0
+  "凯利洛斯 #0" = 0  # Kyrillos #0
+  "凯利亚科斯 #0" = 0  # Kyriakos #0
+  "科斯马斯 #0" = 0  # Kosmas #0
+  "君士坦提奥斯 #0" = 0  # Konstantios #0
+  "科米塔斯 #0" = 0  # Komitas #0
+  "卡里斯托斯 #0" = 0  # Kallistos #0
+  "卡里尼科斯 #0" = 0  # Kallinikos #0
+  "凯撒里奥斯 #0" = 0  # Kaisarios #0
+  "尤利亚诺斯 #0" = 0  # Ioulianos #0
+  "伊西多罗斯 #0" = 0  # Isidoros #0
+  "艾赛亚斯 #0" = 0  # Isaias #0
+  "伊萨克 #0" = 0  # Isaakios #0
+  "约瑟夫 #0" = 0  # Ioseph #0
+  "约尔达尼斯 #0" = 0  # Iordanes #0
+  "约安尼基奥斯 #0" = 0  # Ioannikios #0
+  "约安尼斯 #0" = 0  # Ioannes #0
+  "因诺肯提奥斯 #0" = 0  # Innokentios #0
+  "伊格纳提 #0" = 0  # Ignatios #0
+  "雅科博斯 #0" = 0  # Iakobos #0
+  "希帕提奥斯 #0" = 0  # Hypatios #0
+  "希波吕托斯 #0" = 0  # Hippolytos #0
+  "希美里欧斯 #0" = 0  # Himerios #0
+  "希罗修斯 #0" = 0  # Hierotheos #0
+  "赫里亚斯 #0" = 0  # Helias #0
+  "赫克托里欧斯 #0" = 0  # Hektorios #0
+  "格里高利 #0" = 0  # Gregorios #0
+  "格雷戈拉斯 #0" = 0  # Gregoras #0
+  "杰尔马努斯 #0" = 0  # Germanos #0
+  "杰拉西莫斯 #0" = 0  # Gerasimos #0
+  "乔治奥斯 #0" = 0  # Georgios #0
+  "金纳狄奥斯 #0" = 0  # Gennadios #0
+  "加百列 #0" = 0  # Gabriel #0
+  "埃凡格罗斯 #0" = 0  # Evangelos #0
+  "尤斯塔修斯 #0" = 0  # Eustathios #0
+  "尤赛比奥斯 #0" = 0  # Eusebios #0
+  "尤菲米奥斯 #0" = 0  # Euphemios #0
+  "欧根尼奥斯 #0" = 0  # Eugenios #0
+  "尤斯特拉提乌斯 #0" = 0  # Eustratios #0
+  "尤多克修斯 #0" = 0  # Eudoxios #0
+  "埃尔雷奈奥斯 #0" = 0  # Eirenaios #0
+  "多罗修斯 #0" = 0  # Dorotheos #0
+  "狄奥尼修斯 #0" = 0  # Dionysios #0
+  "第欧根尼 #0" = 0  # Diogenes #0
+  "德米特里 #0" = 0  # Demetrios #0
+  "大卫 #0" = 0  # David #0
+  "丹尼尔 #0" = 0  # Daniel #0
+  "达米亚诺斯 #0" = 0  # Damianos #0
+  "克莱索戈诺斯 #0" = 0  # Chrysogonos #0
+  "克莱山托斯 #0" = 0  # Chrysanthos #0
+  "克里斯托佛罗斯 #0" = 0  # Christophoros #0
+  "博斯波里奥斯 #0" = 0  # Bosporios #0
+  "博伊狄欧斯 #0" = 0  # Boethios #0
+  "贝利撒里奥斯 #0" = 0  # Belisarios #0
+  "巴尔托洛迈奥斯 #0" = 0  # Bartholomaios #0
+  "阿塔纳修斯 #0" = 0  # Athanasios #0
+  "阿特米奥斯 #0" = 0  # Artemios #0
+  "阿塞尼奥斯 #0" = 0  # Arsenios #0
+  "阿波罗尼奥斯 #0" = 0  # Apollonios #0
+  "安东尼奥斯 #0" = 0  # Antonios #0
+  "安提俄克斯 #0" = 0  # Antiochos #0
+  "安提莫斯 #0" = 0  # Anthimos #0
+  "安塞米奥斯 #0" = 0  # Anthemios #0
+  "安德罗尼库斯 #0" = 0  # Andronikos #0
+  "安德烈亚斯 #0" = 0  # Andreas #0
+  "安纳托里奥斯 #0" = 0  # Anatolios #0
+  "阿莱克修斯 #0" = 0  # Alexios #0
+  "亚历山德罗斯 #0" = 0  # Alexandros #0
+  "阿卡基奥斯 #0" = 0  # Akakios #0
+  "阿德里亚诺斯 #0" = 0  # Adrianos #0
+  "狄奥菲洛斯 #1" = 0  # Theophilos #1
+  "米海尔 #3" = 0  # Michael #3
+  "斯陶拉基奥斯 #1" = 0  # Stavrakios #1
+  "尼基弗鲁斯 #1" = 0  # Nikephoros #1
+  "伊琳娜 #1" = -1  # Eirene #1
+  "阿尔塔瓦斯多斯 #1" = 0  # Artavasdos #1
+  "狄奥多西 #1" = 0  # Theodosios #1
+  "菲利皮科斯 #1" = 0  # Philippikos #1
+  "利昂提乌斯 #1" = 0  # Leontios #1
+  "君士坦斯 #1" = 0  # Constans #1
+  "赫拉克洛纳斯 #1" = 0  # Herakleonas #1
+  "希拉克略 #1" = 0  # Herakleios #1
+  "福卡斯 #1" = 0  # Phokas #1
+  "莫里斯 #1" = 0  # Maurikios #1
+  "提比略 #2" = 0  # Tiberios #2
+  "查士丁尼 #2" = 0  # Ioustinianos #2
+  "查士丁 #2" = 0  # Ioustinos #2
+  "阿纳斯塔修斯 #2" = 0  # Anastasios #2
+  "瓦西里斯科斯 #1" = 0  # Basiliskos #1
+  "芝诺 #1" = 0  # Zenon #1
+  "马尔西安 #1" = 0  # Marcian #1
+  "普尔喀丽娅 #1" = -1  # Pulcheria #1
+  "霍诺留 #1" = 0  # Honorius #1
+  "阿卡狄乌斯 #1" = 0  # Arcadius #1
+  "狄奥多西 #2" = 0  # Theodosius #2
+  "格拉提安 #1" = 0  # Gratian #1
+  "瓦林斯 #1" = 0  # Valens #1
+  "瓦伦丁尼安 #1" = 0  # Valentinian #1
+  "约维安 #1" = 0  # Jovian #1
+  "君士坦丁 #2" = 0  # Constantine #2
+  "李锡尼 #1" = 0  # Licinius #1
+  "伽列里乌斯 #1" = 0  # Galerius #1
+  "君士坦提乌斯 #3" = 0  # Constantius #3
+  "戴克里先 #1" = 0  # Diocletian #1
+  "卡里努斯 #1" = 0  # Carinus #1
+  "努梅里安 #1" = 0  # Numerian #1
+  "卡鲁斯 #1" = 0  # Carus #1
+  "普罗布斯 #1" = 0  # Probus #1
+  "弗洛里安 #1" = 0  # Florian #1
+  "塔西佗 #1" = 0  # Tacitus #1
+  "塞维里娜 #1" = -1  # Severina #1
+  "奥勒良 #1" = 0  # Aurelian #1
+  "昆提卢斯 #1" = 0  # Quintillus #1
+  "加里恩努斯 #1" = 0  # Gallienus #1
+  "瓦勒良 #1" = 0  # Valerian #1
+  "埃米利安努斯 #1" = 0  # Aemilian #1
+  "加卢斯 #1" = 0  # Trebonianus #1
+  "德西乌斯 #1" = 0  # Decius #1
+  "菲利普 #1" = 0  # Philip #1
+  "巴尔比努斯 #1" = 0  # Balbinus #1
+  "普皮恩努斯 #1" = 0  # Pupienus #1
+  "戈尔迪安 #3" = 0  # Gordian #3
+  "马克西米努斯 #2" = 0  # Maximinus #2
+  "亚历山大 #1" = 0  # Alexander #1
+  "黑利阿加巴卢斯 #1" = 0  # Heliogabalus #1
+  "马克林努斯 #1" = 0  # Macrinus #1
+  "卡拉卡拉 #1" = 0  # Caracalla #1
+  "盖塔 #1" = 0  # Geta #1
+  "塞普蒂米乌斯 #1" = 0  # Septimius #1
+  "尤利安 #2" = 0  # Julian #2
+  "佩蒂纳克斯 #1" = 0  # Pertinax #1
+  "康茂德 #1" = 0  # Commodus #1
+  "马库斯 #1" = 0  # Marcus #1
+  "卢修斯 #1" = 0  # Lucius #1
+  "安东尼 #1" = 0  # Antoninus #1
+  "哈德良 #1" = 0  # Hadrian #1
+  "图拉真 #1" = 0  # Trajan #1
+  "涅尔瓦 #1" = 0  # Nerva #1
+  "图密善 #1" = 0  # Domitian #1
+  "提图斯 #1" = 0  # Titus #1
+  "韦帕芗 #1" = 0  # Vespasian #1
+  "维特里乌斯 #1" = 0  # Vitellius #1
+  "奥托 #1" = 0  # Otho #1
+  "加尔巴 #1" = 0  # Galba #1
+  "尼禄 #1" = 0  # Nero #1
+  "克劳狄乌斯 #2" = 0  # Claudius #2
+  "卡利古拉 #1" = 0  # Caligula #1
+  "提比略 #1" = 0  # Tiberius #1
+  "奥古斯都 #1" = 0  # Augustus #1
+  "君士坦丁 #4" = 22  # Konstantinos #4
+  "阿纳斯塔西娅 #0" = -23  # Anastasia #0
+  "马里诺斯 #0" = 22  # Marinos #0
+  "巴尔达斯 #0" = 22  # Bardas #0
+  "利昂 #5" = 22  # Leon #5
+  "巴西尔 #1" = 22  # Basileios #1
+}
+ship_names = {
+  "阿布恩丹提亚"  # Abundantia
+  "阿卡 劳伦缇雅"  # Acca Larentia
+  "阿西斯"  # Acis
+  "阿瑞库拉"  # Aerecura
+  "公平者"  # Aequitas
+  "阿斯克勒庇俄斯"  # Aesculapius
+  "艾德涅塔"  # Aeternitas
+  "永恒生命"  # Aeon
+  "阿尤斯·罗库提乌斯"  # Aius Locutius
+  "赫勒纽斯"  # Alernus
+  "安居罗娜"  # Angerona
+  "安吉提亚"  # Angitia
+  "安娜 佩壬娜"  # Anna Perenna
+  "安诺娜"  # Annona
+  "安特沃尔塔"  # Antevorta
+  "阿波罗"  # Apollo
+  "安利曼纽斯"  # Arimanius
+  "奥拉"  # Aura
+  "欧若拉"  # Aurora
+  "阿维伦库斯"  # Averruncus
+  "巴克斯"  # Bacchus
+  "贝罗纳"  # Bellona
+  "玻娜 得亚"  # Bona Dea
+  "良好的结果"  # Bonus Eventus
+  "布勃纳"  # Bubona
+  "卡克"  # Caca
+  "卡库斯"  # Cacus
+  "克米尼"  # Camenae
+  "卡尔迪亚"  # Cardea
+  "卡尔门蒂斯"  # Carmenta
+  "卡尔门蒂斯"  # Carmentes
+  "卡纳"  # Carna
+  "刻瑞斯"  # Ceres
+  "克莱门蒂娅"  # Clementia
+  "洛亚西那"  # Cloacina
+  "肯考迪娅"  # Concordia
+  "康苏斯"  # Consus
+  "丘比特"  # Cupid
+  "保佐"  # Cura
+  "库伯勒"  # Cybele
+  "神圣女神"  # Dea Dia
+  "沉默女神"  # Dea Tacita
+  "德茜玛"  # Decima
+  "德维拉"  # Devera
+  "狄安娜"  # Diana
+  "林中的狄安娜"  # Diana Nemorensis
+  "迪乌斯 菲迪乌斯"  # Dius Fidius
+  "迪士普丽娜"  # Disciplina
+  "迪斯帕特"  # Dis Pater
+  "埃杰里亚"  # Egeria
+  "因班达"  # Empanda
+  "艾波娜"  # Epona
+  "法拉彻"  # Falacer
+  "菲梅"  # Fama
+  "法士努斯"  # Fascinus
+  "法乌纳"  # Fauna
+  "法乌努斯"  # Faunus
+  "法乌斯蒂塔斯"  # Faustitas
+  "菲布卢乌斯"  # Februus
+  "菲布利斯"  # Febris
+  "菲昆蒂塔斯"  # Fecunditas
+  "费利西塔斯"  # Felicitas
+  "费伦蒂娜"  # Ferentina
+  "费罗尼亚"  # Feronia
+  "菲兹"  # Fides
+  "佛洛拉"  # Flora
+  "天炉座"  # Fornax
+  "冯都斯"  # Fontus
+  "福尔图娜"  # Fortuna
+  "福尔格拉"  # Fulgora
+  "弗丽娜"  # Furrina
+  "革尼乌斯"  # Genius
+  "格拉谢"  # Gratiae
+  "赫拉克勒斯"  # Hercules
+  "赫马佛洛狄忒斯"  # Hermaphroditus
+  "希拉里塔斯"  # Hilaritas
+  "奥诺斯"  # Honos
+  "霍拉"  # Hora
+  "因蒂杰斯"  # Indiges
+  "伊特耳基多纳"  # Intercidona
+  "伊努乌斯"  # Inuus
+  "因维迪娅"  # Invidia
+  "伊希斯"  # Isis
+  "伊丽丝"  # Iris
+  "雅努斯"  # Janus
+  "朱诺"  # Juno
+  "朱庇特"  # Jupiter
+  "朱斯提提亚"  # Justitia
+  "朱图尔纳"  # Juturna
+  "禹文塔斯"  # Juventas
+  "拉瑞斯"  # Lares
+  "拉维尔纳"  # Laverna
+  "拉瓦那"  # Levana
+  "莱都玛"  # Letum
+  "立波尔"  # Liber
+  "利贝拉"  # Libera
+  "利贝拉里塔斯"  # Liberalitas
+  "利贝塔斯"  # Libertas
+  "利比蒂娜"  # Libitina
+  "卢亚"  # Lua
+  "露西娜"  # Lucina
+  "卢纳"  # Luna
+  "卢波库斯"  # Lupercus
+  "林法"  # Lympha
+  "马娜 杰妮达"  # Mana Genita
+  "祖先之灵"  # Manes
+  "Mania"
+  "曼图斯"  # Mantus
+  "马尔斯"  # Mars
+  "玛图塔母亲"  # Mater Matuta
+  "美迪特里娜"  # Meditrina
+  "梅费提斯"  # Mephitis
+  "梅隆尼亚"  # Mellonia
+  "墨丘利"  # Mercury
+  "密涅瓦"  # Minerva
+  "密特拉"  # Mithras
+  "摩莱"  # Molae
+  "莫内塔"  # Moneta
+  "莫尔斯"  # Mors
+  "莫尔塔"  # Morta
+  "穆尔西亚"  # Murcia
+  "缪图纳斯 图图纳斯"  # Mutunus Tutunus
+  "耐尼亚"  # Naenia
+  "纳梭"  # Nascio
+  "涅彻西塔斯"  # Necessitas
+  "涅墨西斯"  # Nemesis
+  "尼普顿"  # Neptune
+  "尼黎奥"  # Nerio
+  "涅瓦里塔"  # Neverita
+  "尼克西"  # Nixi
+  "诺娜"  # Nona
+  "诺克斯"  # Nox
+  "奥匹斯"  # Opis
+  "欧尔库斯"  # Orcus
+  "帕拉图阿"  # Palatua
+  "帕勒斯"  # Pales
+  "帕西"  # Parcae
+  "帕克斯"  # Pax
+  "那特斯"  # Penates
+  "皮库姆努斯"  # Picumnus
+  "皮库斯"  # Picus
+  "皮埃塔斯"  # Pietas
+  "皮伦努斯"  # Pilumnus
+  "普鲁托"  # Pluto
+  "波埃纳"  # Poena
+  "波莫纳"  # Pomona
+  "波利玛"  # Porrima
+  "波图涅斯"  # Portunes
+  "波斯德威塔"  # Postverta
+  "普里阿普斯"  # Priapus
+  "普洛塞庇涅"  # Proserpina
+  "普罗维登斯"  # Providentia
+  "浦狄喀提亚"  # Pudicitia
+  "魁魁图兰涅"  # Querquetulanae
+  "奎里努斯"  # Quirinus
+  "奎里蒂斯"  # Quiritis
+  "罗比顾斯"  # Robigus
+  "罗马"  # Roma
+  "鲁明纳"  # Rumina
+  "撒拉恰"  # Salacia
+  "萨卢斯"  # Salus
+  "桑库斯"  # Sancus
+  "萨尔图努斯"  # Saturn
+  "塞库瑞塔斯"  # Securitas
+  "西尔瓦努斯"  # Silvanus
+  "无敌太阳神"  # Sol Invictus
+  "索姆努斯"  # Somnus
+  "索兰纳斯"  # Soranus
+  "索尔斯"  # Sors
+  "斯贝斯"  # Spes
+  "斯达塔"  # Stata
+  "马特"  # Mater
+  "斯特奎里努斯"  # Sterquilinus
+  "苏阿德拉"  # Suadela
+  "苏玛努斯"  # Summanus
+  "苏利斯 弥涅耳瓦"  # Sulis Minerva
+  "德卢鲁斯"  # Tellurus
+  "特姆派斯塔特斯"  # Tempestas
+  "大地之母"  # Terra Mater
+  "忒弥努斯"  # Terminus
+  "提贝里努斯"  # Tiberinus
+  "提贝图斯"  # Tibertus
+  "特兰奎利塔斯"  # Tranquillitas
+  "特里维亚"  # Trivia
+  "乌贝塔斯"  # Ubertas
+  "翁克夏"  # Unxia
+  "乌拉诺斯"  # Uranus
+  "瓦库纳"  # Vacuna
+  "维迪奥维斯"  # Vediovus
+  "维尼利亚"  # Venilia
+  "温特"  # Venti
+  "维纳斯"  # Venus
+  "维利塔斯"  # Veritas
+  "维尔米努斯"  # Verminus
+  "威耳廷努斯"  # Vertumnus
+  "维斯塔"  # Vesta
+  "维卡 波塔"  # Vica Pota
+  "维克托莉亚"  # Victoria
+  "威耳比俄斯"  # Virbius
+  "维尔图斯"  # Virtus
+  "沃勒图尔努斯"  # Volturnus
+  "弗拉塔丝"  # Voluptas
+  "伏尔甘"  # Vulcan
+}

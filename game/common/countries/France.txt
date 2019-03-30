@@ -1,0 +1,682 @@
+graphical_culture = westerngfx
+color = {
+  20
+  50
+  210
+}
+revolutionary_colors = {
+  15
+  0
+  16
+}
+historical_score = 6700
+historical_idea_groups = {
+  economic_ideas
+  offensive_ideas
+  exploration_ideas
+  defensive_ideas
+  administrative_ideas
+  maritime_ideas
+  quality_ideas
+  innovativeness_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  chevauchee
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_cuirassier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "阿德莱德 #0" = -10  # Adélaïde #0
+  "玛格丽特 #0" = -10  # Marguerite #0
+  "安妮 #0" = -10  # Anne #0
+  "夏洛特 #0" = -1  # Charlotte #0
+  "玛丽 #0" = -1  # Marie #0
+  "让娜 #0" = -10  # Jeanne #0
+  "西蒙 #0" = 0  # Simon #0
+  "塞巴斯蒂安 #0" = 0  # Sébastien #0
+  "勒内 #0" = 0  # René #0
+  "皮埃尔 #0" = 0  # Pierre #0
+  "帕斯卡 #0" = 0  # Pascal #0
+  "尼古拉 #0" = 0  # Nicolas #0
+  "米歇尔 #0" = 0  # Michel #0
+  "马克西米利安 #0" = 0  # Maximilien #0
+  "莫里斯 #0" = 0  # Maurice #0
+  "马尔克 #0" = 0  # Marc #0
+  "儒勒 #0" = 0  # Jules #0
+  "若斯坎 #0" = 0  # Josquin #0
+  "约瑟夫 #0" = 0  # Joseph #0
+  "让 菲利普 #0" = 0  # Jean-Philippe #0
+  "让 雅克 #0" = 0  # Jean-Jacques #0
+  "让 巴普蒂斯特 #0" = 0  # Jean-Baptiste #0
+  "让 安东尼 #0" = 0  # Jean-Antoine #0
+  "伊格纳茨 #0" = 0  # Ignace #0
+  "纪尧姆 #0" = 0  # Guillaume #0
+  "居伊 #0" = 0  # Guy #0
+  "乔治 #0" = 0  # Georges #0
+  "弗尔明 #0" = 0  # Firmin #0
+  "埃蒂安 #0" = 0  # Étienne #0
+  "丹尼斯 #0" = 0  # Denis #0
+  "克莱芒 #0" = 0  # Clément #0
+  "克洛德 #0" = 0  # Claude #0
+  "布莱斯 #0" = 0  # Blaise #0
+  "伯纳德 #0" = 0  # Bernard #0
+  "伯努瓦 #0" = 0  # Benoît #0
+  "巴泰勒米 #0" = 0  # Barthélemy #0
+  "奥古斯丁 #0" = 0  # Augustin #0
+  "阿尔芒 #0" = 0  # Armand #0
+  "安布鲁瓦兹 #0" = 0  # Ambroise #0
+  "阿尔丰斯 #0" = 0  # Alphonse #0
+  "亚历山大 #0" = 0  # Alexandre #0
+  "拉乌尔 #1" = 1  # Raoul #1
+  "雨果 #1" = 1  # Hugues #1
+  "罗贝尔 #2" = 1  # Robert #2
+  "格扎维埃 #0" = 5  # Xavier #0
+  "约阿希姆 #0" = 5  # Joachim #0
+  "雅克 #0" = 5  # Jacques #0
+  "路易 弗朗索瓦 #0" = 5  # Louis-François #0
+  "尼古拉斯 亨利 #0" = 10  # Nicolas-Henri #0
+  "加斯顿 #0" = 10  # Gaston #0
+  "让 #2" = 10  # Jean #2
+  "腓力 #6" = 10  # Philippe #6
+  "弗朗索瓦 #0" = 40  # François #0
+  "亨利 #1" = 60  # Henri #1
+  "夏尔 #5" = 80  # Charles #5
+  "路易 #10" = 160  # Louis #10
+}
+leader_names = {
+  "德 昂布勒特斯"  # d'Ambleteuse
+  "德 欧奈"  # d'Aulnay
+  "德 博阿尔内"  # de Beauharnais
+  "德 贝西"  # de Bercy
+  "德 贝蒂纳"  # de Béthune
+  "德 布瓦西厄"  # de Boissieu
+  "德 博纳富瓦"  # de Bonnefoy
+  "德 博纳伊"  # de Bonneuil
+  "杜 博斯奎特"  # du Bosquet
+  "德 拉 波托涅尔"  # de la Bretonnière
+  "德 布罗意"  # de Broglie
+  "德 卡斯坦"  # de Castaing
+  "德 柯马丁"  # de Caumartin
+  "德 尚布利"  # de Chambly
+  "德 尚布隆尼"  # de Chambronne
+  "德 尚普马丁"  # de Champmartin
+  "德 舍维尼"  # de Chevigny
+  "德 科隆斯"  # des Coulons
+  "德 克雷夫科尔"  # de Crèvecœur
+  "德 克吕索尔"  # de Crussol
+  "德 当皮埃尔"  # de Dampierre
+  "德古特"  # Desgouttes
+  "迪凯纳"  # Duquesne
+  "德 埃屈尔"  # des Écures
+  "德 恩特莱奎斯"  # d'Entraigues
+  "德 埃斯特雷"  # d'Estrées
+  "杜 富瓦內"  # du Fournay
+  "德 加拉尔"  # de Galard
+  "德 塞比耶"  # des Herbiers
+  "德 拉 巴特"  # de La Barthe
+  "德 拉 弗朗蒂"  # de La Ferrandie
+  "德 拉 加利索尼埃"  # de La Galissonière
+  "德 拉 莫特"  # de La Mothe
+  "德 拉 莫特 德埃兰"  # de La Motte d'Airan
+  "德 拉 波尔特"  # de La Porte
+  "勒 泰利耶"  # Le Tellier
+  "德 耶里"  # de Lhéry
+  "德 吕內"  # de Luynes
+  "德 马尔盖耶"  # de Marguerye
+  "德 莫勒帕"  # de Maurepas
+  "德 纳沙泰勒"  # de Neufchâtel
+  "德 奥纳诺"  # d'Ornano
+  "德 皮勒耶福"  # de Pellefort
+  "德 里什蒙"  # de Richemont
+  "德 罗什舒瓦尔"  # de Rochechouart
+  "德 罗什莫尔"  # de Rochemaure
+  "德 里欧"  # de Rieu
+  "德 圣 沙蒙"  # de Saint-Chamond
+  "德 圣埃斯普利特"  # de Saint-Esprit
+  "德 圣日尔曼"  # de Saint-Germain
+  "德 圣欧梅尔"  # de Saint-Omer
+  "德 西奥拉克"  # de Siorac
+  "德 托克维尔"  # de Tocqueville
+  "德 拉图尔 德奥弗涅"  # de La Tour d'Auvergne
+  "德 特雷维尔"  # de Tréville
+  "德 于松"  # d'Usson
+  "杜 瓦伦丁"  # du Valentinois
+  "德 韦尔热纳"  # de Vergennes
+  "德 维比安"  # de Vibien
+  "德 维尼"  # de Vigny
+  "德 维伦纽夫"  # de Villeneuve
+}
+ship_names = {
+  "比斯开海军"  # Amiral de Biscaye
+  "加利西亚海军"  # Amiral de Galice
+  "彩虹"  # Arc-en-Ciel
+  "贝利 博尔"  # Belle Poule
+  "喜爱者"  # Bien-Aimé
+  "查理 II"  # Charles II
+  "海马"  # Cheval Marin
+  "波尔多商船"  # Commerce de Bordeaux
+  "马赛商船"  # Commerce de Marseille
+  "巴黎商船"  # Commerce de Paris
+  "里昂商船"  # Commerce du Lyon
+  "奥斯曼皇冠"  # Couronne Ottomane
+  "非洲之角"  # Croissant d'Afrique
+  "皇太子"  # Dauphin Royal
+  "双雄"  # Deux Frères
+  "天赐"  # Don de Dieu
+  "金龙"  # Dragon d'Or
+  "昂古莱姆公爵"  # Duc d'Angoulême
+  "阿基坦公爵"  # Duc d'Aquitaine
+  "贝里公爵"  # Duc de Berry
+  "勃艮第公爵"  # Duc de Bourgogne
+  "英格兰之光"  # Ésperance d'Angleterre
+  "上帝之光"  # Ésperance de Dieu
+  "天赐之光"  # Ésperance en Dieu
+  "勃艮第州"  # États de Bourgogne
+  "黛安娜之星"  # Étoile de Diane
+  "英格兰之鹰"  # Faucon Anglais
+  "百合花"  # Fleur de Lys
+  "皇家战舰"  # Frégate Royale
+  "吉斯帆船"  # Galion de Guise
+  "大英格兰"  # Grand Anglais
+  "大沙莱"  # Grand Chalain
+  "大丹麦"  # Grand Danois
+  "伟大的亨利"  # Grand Henry
+  "伟大的圣路易"  # Grand Saint Louis
+  "伟大的胜利者"  # Grand Vainqueur
+  "国王巨舰"  # Grand Vasseau du Roi
+  "马尔他大帆船"  # Grande Galion de Malte
+  "苏格兰主舰"  # Grande Nef d'Écosse
+  "伟大的圣让"  # Grande Saint Jean
+  "法兰西岛"  # Île de France
+  "美丽花园"  # Le Beau Parterre
+  "狮王"  # Lion Couronné
+  "金狮"  # Lion d'Or
+  "布雷斯特忏悔者"  # Madeleine de Brest
+  "大西洋珍珠"  # Marguerite du Ponant
+  "玛丽 科尔德利耶尔"  # Marie la Cordelière
+  "玛丽 伊丽沙白"  # Marie-Elisabeth
+  "圣伯纳德山"  # Mont Saint-Bernard
+  "国王舰"  # Navire-du-Roi
+  "黑帆"  # Noire Galère
+  "万胜圣母"  # Notre Dame de la Victoire
+  "圣母殉道者"  # Notre Dame des Martyres
+  "圣母之民"  # Notre Dame du Peuple
+  "圣母"  # Notre Dame
+  "白熊"  # Ours Blanc
+  "金熊"  # Ours d'Or
+  "小圣约翰"  # Petit Saint Jean
+  "小圣路易斯"  # Petit Saint Louis
+  "亨利王子"  # Prince Henri
+  "四兄弟"  # Quatre Frères
+  "罗马王"  # Roi de Rome
+  "皇家公爵"  # Royal Duc
+  "皇家荷兰"  # Royal Hollandais
+  "皇家意大利"  # Royal Italien
+  "皇家路易"  # Royal Louis
+  "皇家泰蕾丝"  # Royale Thérèse
+  "圣安德烈"  # Saint André
+  "热那亚的圣安托万"  # Saint Antoine de Gênes
+  "圣安托万"  # Saint Antoine
+  "圣奥古斯丁"  # Saint Augustin
+  "圣巴西尔"  # Saint Basile
+  "圣凯瑟琳"  # Saint Catherine
+  "圣夏尔"  # Saint Charles
+  "圣戈斯姆"  # Saint Cosme
+  "圣多米尼克"  # Saint Dominique
+  "圣埃德姆"  # Saint Edmé
+  "圣埃斯普利特"  # Saint Esprit
+  "圣弗朗索瓦"  # Saint François
+  "伦敦的圣乔治"  # Saint Georges de Londres
+  "圣伊尼亚斯"  # Saint Ignace
+  "葡萄牙的圣雅克"  # Saint Jacques du Portugal
+  "圣雅克"  # Saint Jacques
+  "波尔多的圣约翰"  # Saint Jean de Bordeaux
+  "荷兰的圣约翰"  # Saint Jean de Hollande
+  "圣约翰"  # Saint Jean
+  "圣约瑟夫"  # Saint Joseph
+  "忏悔者圣路易"  # Saint Louis de Brest
+  "纳韦尔的圣路易"  # Saint Louis de Nevers
+  "圣马洛的圣路易"  # Saint Louis de Saint-Malo
+  "圣路易"  # Saint Louis
+  "圣米歇尔"  # Saint Michel
+  "圣保罗"  # Saint Paul
+  "圣菲利普"  # Saint Philippe
+  "圣皮埃尔"  # Saint Pierre
+  "圣塞巴斯蒂安"  # Saint Sébastien
+  "阿基纳的圣托马斯"  # Saint Thomas d'Aquin
+  "圣文森特"  # Saint Vincent
+  "圣十字"  # Sainte Croix
+  "圣热纳维夫"  # Sainte Geneviève
+  "圣玛丽"  # Sainte Marie
+  "圣马洛"  # Saint-Malo
+  "圣桑克莱蒙"  # Saint-Sacrement
+  "无匹"  # Sans Pareil
+  "非洲太阳"  # Soleil d'Afrique
+  "阿尔及尔之光"  # Soleil d'Alger
+  "皇家太阳"  # Soleil Royal
+  "三光"  # Trois Fanaux
+  "三皇"  # Trois Rois
+  "合力舰"  # Vaisseau de Torais
+  "国王之舰"  # Vaisseau du Roi
+  "马赛城"  # Ville-de-Marseille
+  "巴黎城"  # Ville-de-Paris
+  "鲁昂城"  # Ville-de-Rouen
+  "阿基里斯"  # Achille
+  "活跃"  # Actif
+  "股东"  # Actionnaire
+  "阿德莱德"  # Adelaïde
+  "钦敬"  # Admirable
+  "娴熟"  # Adroit
+  "非洲人"  # Africain
+  "阿伽门农"  # Agamemnon
+  "雄鹰"  # Aigle
+  "埃格利特"  # Aigrette
+  "亲切"  # Aimable
+  "埃阿斯"  # Ajax
+  "阿尔西德"  # Alcide
+  "翠鸟"  # Alcyon
+  "亚历山大"  # Alexandre
+  "同盟"  # Alliance
+  "阿尔萨斯"  # Alsace
+  "高傲"  # Altier
+  "阿马兰蒂"  # Amarante
+  "亚马逊"  # Amazone
+  "雄心"  # Ambitieux
+  "美利坚"  # America
+  "元帅"  # Amiral
+  "安菲翁"  # Amphion
+  "安菲特里忒"  # Amphitrite
+  "安德洛玛刻"  # Andromaque
+  "英格兰"  # Anglais
+  "安娜"  # Anna
+  "汉尼拔"  # Annibal
+  "无名"  # Anonyme
+  "安特卫普人"  # Anversois
+  "阿波罗"  # Apollon
+  "阿奎隆"  # Aquilon
+  "阿尔柯"  # Arcole
+  "热心"  # Ardent
+  "阿蕾苏莎"  # Aréthuse
+  "阿尔戈"  # Argonaute
+  "阿尔特仙"  # Artésien
+  "亚细亚"  # Asie
+  "阿絮蕾"  # Assuré
+  "阿斯特蕾"  # Astrée
+  "星盘"  # Astrolabe
+  "雅典人"  # Athénien
+  "亚特兰特"  # Atlante
+  "勇敢"  # Audacieux
+  "奥古斯特"  # Auguste
+  "曙光"  # Aurore
+  "受爱者"  # Avenant
+  "冒险者"  # Aventurier
+  "Badine"
+  "Banel"
+  "巴斯克"  # Basque
+  "波弗特"  # Beaufort
+  "好战"  # Belliqueux
+  "Bellone"
+  "Bienfaisant"
+  "Bizarre"
+  "Bon"
+  "Bonne"
+  "波尔多人"  # Bordelais
+  "Borée"
+  "Boudeuse"
+  "Bouffonne"
+  "波旁"  # Bourbon
+  "Boussole"
+  "Brave"
+  "Brélé"
+  "布列塔尼"  # Bretagne
+  "Breton"
+  "Brillant"
+  "残酷者"  # Brutal
+  "Bucentaure"
+  "卡吕普索"  # Calypso
+  "行动者"  # Capable
+  "无常"  # Capricieux
+  "Caraquon"
+  "枢机"  # Cardinal
+  "Caribou"
+  "卡萨尔"  # Cassard
+  "卡斯蒂利奥内"  # Castiglione
+  "天主教"  # Catholique
+  "Caton"
+  "Censeur"
+  "半人马"  # Centaure
+  "塞萨尔"  # César
+  "沙莱"  # Chalain
+  "夏朗德"  # Charente
+  "查理曼"  # Charlemagne
+  "迷人"  # Charmante
+  "追猎者"  # Chasseur
+  "Choquante"
+  "克里斯蒂娜"  # Christine
+  "公民"  # Citoyen
+  "克里奥帕特拉"  # Cléopâtre
+  "Clorinde"
+  "巨人"  # Colosse
+  "彗星"  # Comète
+  "伯爵"  # Comte
+  "和谐"  # Concorde
+  "征服者"  # Conquérant
+  "安抚者"  # Consolante
+  "知足者"  # Content
+  "雄鸡"  # Coq
+  "珊瑚"  # Corail
+  "勇敢者"  # Courageux
+  "皇冠"  # Couronne
+  "奉承者"  # Courtisan
+  "新月"  # Croissant
+  "好奇者"  # Curieux
+  "天鹅"  # Cygne
+  "达尔马提亚"  # Dalmate
+  "舞者"  # Dansé
+  "但泽"  # Dantzig
+  "道芬"  # Dauphin
+  "傲慢者"  # Dédaigneuse
+  "捍卫者"  # Défenseur
+  "Dego"
+  "德赛"  # Desaix
+  "命运"  # Destin
+  "Diadème"
+  "金刚"  # Diamant
+  "Dictateur"
+  "Dragon"
+  "林仙"  # Dryade
+  "Dubois"
+  "公爵"  # Duc
+  "Duguesclin"
+  "敦刻尔克人"  # Dunkerquois
+  "Duperre"
+  "Duquesne"
+  "Dur"
+  "Éclatant"
+  "Écueil"
+  "Écureuil"
+  "Église"
+  "Elbeuf"
+  "Embuscade"
+  "Émerillon"
+  "Éminent"
+  "皇帝"  # Empereur
+  "Emporte"
+  "Engageante"
+  "Enjouree"
+  "Entendu"
+  "Entreprenant"
+  "Éole"
+  "Ésperance"
+  "欧罗巴"  # Europe
+  "Éveillé"
+  "Excellent"
+  "Fâcheux"
+  "Fantasque"
+  "Faucon"
+  "Favori"
+  "Fée"
+  "Félicité"
+  "Fendant"
+  "Ferronière"
+  "Fidèle"
+  "Fier"
+  "Fiesque"
+  "Flamand"
+  "Fleuron"
+  "Florissant"
+  "Formidable"
+  "Fort"
+  "Fortune"
+  "Foudroyant"
+  "Fougueux"
+  "Français"
+  "Frédéric"
+  "Friponne"
+  "Fulminant"
+  "Gaillard"
+  "Galant"
+  "Galathée"
+  "Gaulois"
+  "Gazelle"
+  "Généreux"
+  "Gênois"
+  "Gentille"
+  "Gerze"
+  "Gloire"
+  "Gracieuse"
+  "Grand"
+  "Griffon"
+  "Guerrier"
+  "Guirlande"
+  "Hardi"
+  "Hasardeux"
+  "Havre"
+  "Hébé"
+  "亨利"  # Henri
+  "Hercule"
+  "Hermione"
+  "Héroïne"
+  "Héros"
+  "Heureux"
+  "Hippopotame"
+  "Hirondelle"
+  "Hymen"
+  "Inconstante"
+  "Indien"
+  "Indomptable"
+  "Infante"
+  "Inflexible"
+  "Intrépide"
+  "无敌"  # Invincible
+  "Iphighénie"
+  "伊莎贝尔"  # Isabelle
+  "Jason"
+  "Jemmapes"
+  "Jeux"
+  "Joli"
+  "儒勒"  # Jules
+  "朱诺"  # Junon
+  "朱庇特"  # Jupiter
+  "公正"  # Juste
+  "Languedoc"
+  "Laurier"
+  "Léger"
+  "Léopard"
+  "Licorne"
+  "Ligourois"
+  "Lion"
+  "Lionne"
+  "Lune"
+  "Lutine"
+  "Lys"
+  "Madame"
+  "Madeleine"
+  "Magicienne"
+  "Magnanime"
+  "Magnifique"
+  "Maistresse"
+  "Majestueux"
+  "Maquedo"
+  "Marabout"
+  "玛格丽特"  # Marguerite
+  "海洋"  # Marin
+  "侯爵夫人"  # Marquise
+  "战神"  # Mars
+  "Maure"
+  "Maurepas"
+  "Mazarin"
+  "美杜莎"  # Méduse
+  "Mercœur"
+  "墨丘利"  # Mercure
+  "Merveilleux"
+  "可爱"  # Mignonne
+  "Minotaure"
+  "Modéré"
+  "Monarque"
+  "Montebello"
+  "Montenotte"
+  "Montmorency"
+  "Montolieu"
+  "Mutine"
+  "拿骚"  # Nassau
+  "Navarrais"
+  "涅普顿"  # Neptune
+  "涅瑞伊得斯"  # Néréide
+  "Nieuport"
+  "诺曼底"  # Normand
+  "大洋"  # Océan
+  "Oiseau"
+  "固执"  # Opiniâtre
+  "骄傲"  # Orgueilleux
+  "Orient"
+  "Oriflamme"
+  "俄里翁"  # Orion
+  "俄耳甫斯"  # Orphée
+  "Ours"
+  "Pacificateur"
+  "Palmier"
+  "Parfait"
+  "Paris"
+  "Patriote"
+  "Pégase"
+  "Pélican"
+  "Pélicorne"
+  "Perle"
+  "Persée"
+  "Persévérante"
+  "Pléiade"
+  "Poli"
+  "Polonais"
+  "Polyphème"
+  "Pompée"
+  "Pompeux"
+  "Pourvoyeuse"
+  "Prince"
+  "Princesse"
+  "Prompt"
+  "Prosélyte"
+  "Protée"
+  "Provençal"
+  "Prudent"
+  "Pucelle"
+  "Puissant"
+  "Pyrrhus"
+  "Railleuse"
+  "Raisonnable"
+  "Redoutable"
+  "Réfléchi"
+  "圣水"  # Régénérateur
+  "Regina"
+  "Regulus"
+  "Reine"
+  "名望"  # Renommée
+  "反抗"  # Résistance
+  "坚固"  # Robuste
+  "罗什福尔"  # Rochefort
+  "罗兰"  # Roland
+  "鲁昂"  # Rouen
+  "皇家"  # Royal
+  "红宝石"  # Rubis
+  "圣人"  # Sage
+  "射手座"  # Sagittaire
+  "蝾螈"  # Salamandre
+  "权杖"  # Sceptre
+  "西庇阿"  # Scipion
+  "迷人"  # Séduisant
+  "塞纳"  # Seine
+  "Sémillante"
+  "Sérieux"
+  "Sirène"
+  "太阳"  # Soleil
+  "坚固"  # Solide
+  "Sophie"
+  "Sorlingue"
+  "Sourdis"
+  "至尊"  # Souverain
+  "斯芬克斯"  # Sphinx
+  "Subtile"
+  "自负"  # Suffisant
+  "Suffren"
+  "至高"  # Superbe
+  "监督"  # Surveillante
+  "Suzanne"
+  "Sylvie"
+  "无畏"  # Téméraire
+  "暴风"  # Tempête
+  "特耳西科瑞"  # Terpsichore
+  "可怖"  # Terreur
+  "Terrible"
+  "地米斯托克利"  # Thémistocle
+  "Thérèse"
+  "Thésée"
+  "忒提斯"  # Thétis
+  "猛虎"  # Tigre
+  "Tonnant"
+  "黄玉"  # Topaze
+  "Toulon"
+  "Tourbillon"
+  "Tourville"
+  "图拉真"  # Trajan
+  "三叉戟"  # Trident
+  "凯旋"  # Triomphe
+  "Triton"
+  "特罗卡德罗"  # Trocadero
+  "Trompeuse"
+  "乌剌尼亚"  # Uranie
+  "有益"  # Utile
+  "英勇"  # Vaillant
+  "胜利者"  # Vainqueur
+  "价值"  # Valeur
+  "旺多姆"  # Vendôme
+  "复仇者"  # Vengeur
+  "维纳斯"  # Vénus
+  "美德"  # Vertu
+  "维斯塔"  # Vestale
+  "老将"  # Vétéran
+  "Victoire"
+  "胜利"  # Victorieux
+  "圣洁"  # Vierge
+  "轻浮"  # Volage
+  "自愿"  # Volontaire
+  "瓦隆"  # Wallon
+  "新西兰"  # Zélandais
+  "虔敬"  # Zélé
+  "黄道"  # Zodiaque
+}
+army_names = {
+  "皇家陆军"  # Armée royale
+  "佛兰德军"  # Armée des Flandres
+  "北方军"  # Armée du Nord
+  "东方军"  # Armée de l'Est
+  "汝拉军"  # Armée du Jura
+  "里昂军"  # Armée du Lyonnais
+  "阿尔卑斯军"  # Armée des Alpes
+  "南方军"  # Armée du Midi
+  "比利牛斯军"  # Armée des Pyrénées
+  "大西洋军"  # Armée de l'Atlantique
+  "布列塔尼军"  # Armée de Bretagne
+  "意大利军"  # Armée d'Italie
+  "$PROVINCE$军"  # Armée de $PROVINCE$
+}
+fleet_names = {
+  "拉芒什海峡舰队"  # Escadre de la Manche
+  "大西洋舰队"  # Escadre de l'Atlantique
+  "地中海舰队"  # Escadre de Méditerranée
+  "加斯科涅舰队"  # Escadre de Gascogne
+  "碧蓝舰队"  # Escadre Bleue
+  "绯红舰队"  # Escadre Rouge
+  "纯白舰队"  # Escadre Blanche
+}

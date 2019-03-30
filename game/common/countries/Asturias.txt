@@ -1,0 +1,229 @@
+graphical_culture = westerngfx
+color = {
+  104
+  173
+  230
+}
+historical_idea_groups = {
+  exploration_ideas
+  religious_ideas
+  offensive_ideas
+  expansion_ideas
+  influence_ideas
+  maritime_ideas
+  quality_ideas
+  defensive_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "巴莱里亚诺 #0" = 0  # Valeriano #0
+  "托马斯 #0" = 0  # Tomás #0
+  "罗德里戈 #0" = 0  # Rodrigo #0
+  "拉蒙 #0" = 0  # Ramón #0
+  "奥东 #0" = 0  # Odón #0
+  "努尼奥 #0" = 0  # Nuño #0
+  "米格尔 #0" = 0  # Miguel #0
+  "洛佩 #0" = 0  # Lope #0
+  "莱茵 #0" = 0  # Laín #0
+  "伊格纳西奥 #0" = 0  # Ignacio #0
+  "埃尔南多 #0" = 0  # Hernando #0
+  "赫门吉多 #0" = 0  # Hermenegildo #0
+  "古铁雷斯 #0" = 0  # Gutierre #0
+  "贡萨洛 #0" = 0  # Gonzalo #0
+  "戈麦斯 #0" = 0  # Gómez #0
+  "加西亚  #0" = 0  # García #0
+  "弗朗西斯科 #0" = 0  # Francisco #0
+  "法德里克 #0" = 0  # Fadrique #0
+  "埃斯特班 #0" = 0  # Esteban #0
+  "多明戈 #0" = 0  # Domingo #0
+  "迭戈 #0" = 0  # Diego #0
+  "克里斯托巴尔 #0" = 0  # Cristobal #0
+  "贝尔特兰 #0" = 0  # Bertrán #0
+  "贝尔纳多 #0" = 0  # Bernardo #0
+  "巴尔塔萨 #0" = 0  # Baltasar #0
+  "阿尔瓦罗 #0" = 0  # Álvaro #0
+  "阿隆索 #0" = 0  # Alonso #0
+  "乌拉卡 #0" = -5  # Urraca #0
+  "玛利亚 #0" = -5  # María #0
+  "胡安娜 #0" = -10  # Juana #0
+  "伊莎贝尔 #0" = -10  # Isabel #0
+  "佩德罗 #0" = 1  # Pedro #0
+  "恩里克 #0" = 5  # Enrique #0
+  "卡洛斯 #0" = 10  # Carlos #0
+  "费利佩 #0" = 10  # Felipe #0
+  "胡安 #0" = 10  # Juan #0
+  "拉米罗 #0" = 10  # Ramiro #0
+  "桑乔 #0" = 10  # Sancho #0
+  "费尔南多 #0" = 20  # Fernando #0
+  "阿方索 #0" = 40  # Alfonso #0
+}
+leader_names = {
+  "德 阿吉雷"  # de Aguirre
+  "德 阿拉尔孔"  # de Alarcón
+  "德 托莱多"  # de Toledo
+  "德 安德雷德"  # de Andrade
+  "德 阿亚拉"  # de Ayala
+  "德 巴赞"  # de Bazán
+  "德 贝纳维兹"  # de Benavides
+  "坎波马内斯"  # Campomanes
+  "德 卡斯蒂利亚"  # de Castilla
+  "德 拉塞尔达"  # de la Cerda
+  "西恩富戈斯"  # Cienfuegos
+  "哥伦布"  # Colón
+  "科罗纳多"  # Coronado
+  "科尔特斯"  # Cortés
+  "德 托莱多"  # de Toledo
+  "德 科尔多瓦"  # de Córdoba
+  "德 拉奎瓦"  # de la Cueva
+  "德 菲格罗阿"  # de Figueroa
+  "丰塞卡"  # Fonseca
+  "加尔维斯"  # Gálvez
+  "戈麦斯"  # Gómez
+  "德 古斯曼"  # de Guzmán
+  "希门尼斯 德 西斯内罗斯"  # Jiménez de Cisneros
+  "德 雷瓦"  # de Leiva
+  "洛佩斯 德 哈罗"  # López de Haro
+  "德 露那"  # de Luna
+  "德拉拉"  # de Lara
+  "德 贝拉斯科"  # de Velasco
+  "德 比列那"  # de Villena
+  "德 门多萨"  # de Mendoza
+  "纳尔瓦埃斯"  # Narváez
+  "德 内布里哈"  # de Nebrija
+  "努涅斯 德 巴尔波亚"  # Nuñez de Balboa
+  "德 奥赫达"  # de Ojeda
+  "奥雷利亚纳"  # Orellana
+  "奥索里奥"  # Osorio
+  "皮门特尔"  # Pimentel
+  "平松"  # Pinzón
+  "皮萨罗"  # Pizarro
+  "庞塞 德 莱昂"  # Ponce de León
+  "波托卡雷罗"  # Portocarrero
+  "德 罗哈斯"  # de Rojas
+  "泰莱斯 希隆"  # Tellez-Girón
+  "德 拉维加"  # de la Vega
+  "德 祖尼加"  # de Zúñiga
+}
+ship_names = {
+  "莱昂"  # León
+  "亚尔古英雄"  # Argonauta
+  "阿斯图里亚斯"  # Asturias
+  "亚松森"  # Asunción
+  "阿特雷维多"  # Atrevido
+  "苍鹰"  # Azor
+  "卡塔戈诺瓦"  # Cartagonova
+  "卡斯蒂利亚"  # Castilla
+  "黑城堡"  # Castillo Negro
+  "卡斯托耳"  # Castor
+  "雄鹿甲虫"  # Ciervo Volante
+  "女仆"  # Doncella
+  "龙"  # Dragón
+  "狂笑"  # El Gran Grin
+  "埃尔雷蒂罗"  # El Retiro
+  "伊纳斯"  # Eneas
+  "风神"  # Eolo
+  "希望"  # Esperanza
+  "圣灵"  # Espíritu Santo
+  "埃斯特雷马杜拉"  # Extremadura
+  "狂怒"  # Furor
+  "加利西亚"  # Galicia
+  "大格里芬"  # Gran Grifón
+  "猎鹰"  # Halcón
+  "赫拉克勒斯"  # Hércules
+  "伊莎贝拉"  # Isabela
+  "朱庇特"  # Júpiter
+  "构想"  # La Concepción
+  "玛格达莱娜"  # La Magdalena
+  "曼努埃拉"  # La Manuela
+  "轻光"  # Ligera
+  "罗伯 马里诺"  # Lobo Marino
+  "马尔特"  # Marte
+  "墨丘利"  # Mercurio
+  "尼普顿"  # Neptuno
+  "少女"  # Niña
+  "猎户座"  # Orión
+  "白鸽"  # Paloma Blanca
+  "毕加索"  # Pegaso
+  "佩罗 马里诺"  # Perro Marino
+  "平塔"  # Pinta
+  "冥王星"  # Plutón
+  "波吕克斯"  # Pollux
+  "阿斯图里亚斯亲王"  # Príncipe de Asturias
+  "射线"  # Rayo
+  "里尔 阿方索"  # Real Alfonso
+  "里尔 恩里克"  # Real Enrique
+  "里尔 胡安"  # Real Juan
+  "雷伊 佩拉约"  # Rey Pelayo
+  "雷伊 罗德里戈"  # Rey Rodrigo
+  "圣 安德烈斯"  # San Andrés
+  "圣 安东尼奥"  # San Antonio
+  "圣 巴托罗缪"  # San Bartolomé
+  "圣 贝尔纳贝"  # San Bernabé
+  "圣 克里斯托巴尔"  # San Cristobal
+  "圣 恩里克"  # San Enrique
+  "圣 埃斯特班"  # San Esteban
+  "圣 费尔南多"  # San Fernando
+  "圣弗朗西斯科"  # San Francisco
+  "圣 加布里埃"  # San Gabriel
+  "圣伊西多罗"  # San Isidoro
+  "圣赫罗尼莫"  # San Jerónimo
+  "圣何塞"  # San José
+  "圣胡安"  # San Juan
+  "圣胡安 巴蒂斯塔"  # San Juan Bautista
+  "圣莱昂德罗"  # San Leandro
+  "圣米格尔"  # San Miguel
+  "圣佩德罗"  # San Pedro
+  "圣拉斐尔"  # San Rafael
+  "圣萨尔瓦多"  # San Salvador
+  "塞巴斯蒂安"  # San Sebastian
+  "圣安娜"  # Santa Ana
+  "圣巴巴拉"  # Santa Bárbara
+  "圣比阿特丽斯"  # Santa Beatriz
+  "圣卡塔利娜"  # Santa Catalina
+  "圣克鲁斯"  # Santa Cruz
+  "圣达菲"  # Santa Fe
+  "圣伊莎贝尔"  # Santa Isabel
+  "圣胡斯塔"  # Santa Justa
+  "圣玛利亚"  # Santa María
+  "圣玛尔塔"  # Santa Marta
+  "圣丽塔"  # Santa Rita
+  "圣特蕾莎"  # Santa Teresa
+  "圣地亚哥"  # Santiago
+  "圣三一"  # Santísima Trinidad
+  "圣多明戈"  # Santo Domingo
+  "塞壬"  # Sirena
+  "恐怖"  # Terror
+  "托雷多"  # Toledo
+  "特立尼达"  # Trinidad
+  "特里同"  # Tritón
+  "独角兽"  # Unicornio
+  "胜利者"  # Vencedora
+  "文图拉"  # Ventura
+  "维多利亚"  # Victoria
+  "机警"  # Vigilante
+  "比斯开"  # Vizcaya
+  "火山"  # Vulcano
+  "祖尼加"  # Zúñiga
+}
+army_names = {
+  "近卫军"  # Guardia Real
+  "$PROVINCE$军"  # Ejército de $PROVINCE$
+}
+fleet_names = {
+  "Armada Real"
+  "$PROVINCE$舰队"  # Flota de $PROVINCE$
+}

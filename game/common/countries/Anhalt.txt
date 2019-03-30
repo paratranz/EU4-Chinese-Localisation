@@ -1,0 +1,133 @@
+graphical_culture = westerngfx
+color = {
+  203
+  93
+  124
+}
+historical_idea_groups = {
+  religious_ideas
+  economic_ideas
+  defensive_ideas
+  offensive_ideas
+  innovativeness_ideas
+  spy_ideas
+  diplomatic_ideas
+  trade_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "莱奥诺拉 #0" = -1  # Leonore #0
+  "约翰娜 #0" = -1  # Johanna #0
+  "黑尔米内 #0" = -1  # Helmine #0
+  "乌尔里希 #0" = 0  # Ulrich #0
+  "米夏埃尔 #0" = 0  # Michael #0
+  "冈瑟 #0" = 0  # Günther #0
+  "安德烈亚斯 #0" = 0  # Andreas #0
+  "威廉 #0" = 10  # Wilhelm #0
+  "保罗 #0" = 10  # Paul #0
+  "路德维希 #0" = 10  # Ludwig #0
+  "洛伦茨 #0" = 10  # Lorenz #0
+  "约翰 恩斯特 #0" = 10  # Johann Ernst #0
+  "约阿希姆 克里斯托夫 #0" = 10  # Joachim Christoph #0
+  "约阿希姆 #0" = 10  # Joachim #0
+  "海因里希 魏德玛 #0" = 10  # Heinrich Waldemar #0
+  "弗里德里希 莫里茨 #0" = 10  # Friedrich Moritz #0
+  "弗里德里希 海因里希 #0" = 10  # Friedrich Heinrich #0
+  "迪特里希 #0" = 10  # Dietrich #0
+  "克里斯蒂安 #0" = 10  # Christian #0
+  "奥古斯特 #0" = 10  # August #0
+  "阿尔布雷希特 腓特烈 #0" = 10  # Albrecht Friedrich #0
+  "海因里希 #4" = 10  # Heinrich #4
+  "阿尔布雷希特 #5" = 15  # Albrecht #5
+  "威廉 古斯塔夫 #0" = 15  # Wilhelm Gustav #0
+  "托马斯 #0" = 15  # Thomas #0
+  "莫里茨 #0" = 15  # Moritz #0
+  "卡尔 #0" = 15  # Karl #0
+  "格奥尔格 阿里伯特 #0" = 15  # Georg Aribert #0
+  "弗里德里希 卡西米尔 #0" = 15  # Friedrich Kasimir #0
+  "弗里德里希 #0" = 15  # Friedrich #0
+  "鲁道夫 #3" = 15  # Rudolf #3
+  "约翰 #4" = 15  # Johann #4
+  "瓦尔德马 #5" = 15  # Waldemar #5
+  "伯恩哈德 #6" = 15  # Bernhard #6
+  "西格蒙德 #0" = 20  # Siegmund #0
+  "恩斯特 #0" = 20  # Ernst #0
+  "利奥波德 #0 马克西米利安" = 20  # Leopold #0 Maximilian
+  "利奥波德 #0 腓特烈" = 20  # Leopold #0 Friedrich
+  "约翰 卡西米尔 #0" = 20  # Johann Kasimir #0
+  "约阿希姆 恩斯特 #0" = 20  # Joachim Ernst #0
+  "雅各布 恩斯特 #0" = 20  # Jakob Ernst #0
+  "格奥尔格 #0" = 20  # Georg #0
+  "利奥波德 #0" = 40  # Leopold #0
+  "约翰 格奥尔格 #0" = 40  # Johann Georg #0
+}
+leader_names = {
+  "霍佩"  # Hoppe
+  "赫茨堡"  # Herzburg
+  "阿克曼"  # Ackermann
+  "阿博尔蒂"  # Alberti
+  "阿尔布雷希特"  # Albrecht
+  "阿尔文斯莱本"  # Alvensleben
+  "安曼"  # Amman
+  "安内克"  # Annecke
+  "安茜"  # Anthe
+  "鲍尔"  # Bauer
+  "鲍塞"  # Bause
+  "埃伦贝格"  # Ehrenberg
+  "埃克斯莱本"  # Erxleben
+  "福伊尔施塔克"  # Feuerstack
+  "弗拉克斯巴特"  # Flachsbart
+  "根特"  # Genthe
+  "格斯通"  # Gerstung
+  "赫尔德"  # Held
+  "艾萨克"  # Isaack
+  "雅内克"  # Janeck
+  "扬特克"  # Jantke
+  "克斯滕"  # Kersten
+  "克莱瑙"  # Kleinau
+  "莫兹"  # März
+  "内赫米兹"  # Nehmiz
+  "朗夫"  # Rumpf
+  "沙尔芬贝格"  # Scharfe
+  "绍塞尔"  # Schauseil
+  "席克"  # Schieck
+  "冯 采尔布斯特"  # von Zerbst
+}
+ship_names = {
+  "阿尔布雷希特之熊"  # Albrecht der Bär
+  "阿舍斯累本"  # Aschersleben
+  "赫尔曼 奥拉蒙德"  # Hermann Orlamünde
+  "西格弗里德主教"  # Bischof Siegfried
+  "迪特里希 维尔本"  # Dietrich Werben
+  "阿尔布雷希特 巴伦施泰特"  # Albrecht Ballenstedt
+  "伯恩哈德 维滕贝格"  # Bernhard Wittenberg
+  "海因里希一世"  # Heinrich I
+  "策尔普斯特"  # Zerbst
+  "科斯维希"  # Coswig
+  "德绍"  # Dessau
+  "克滕"  # Köthen
+  "贝恩堡"  # Bernburg
+  "布罗肯山"  # Brocken
+  "哈尔茨"  # Hartz
+  "普勒茨考"  # Plötzkau
+  "兰贝格"  # Ramberg
+  "罗斯劳"  # Rosslau
+}
+army_names = {
+  "$PROVINCE$军"  # Armee von $PROVINCE$
+}

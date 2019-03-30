@@ -1,0 +1,104 @@
+graphical_culture = westerngfx
+color = {
+  220
+  150
+  158
+}
+historical_idea_groups = {
+  trade_ideas
+  defensive_ideas
+  offensive_ideas
+  economic_ideas
+  diplomatic_ideas
+  aristocracy_ideas
+  spy_ideas
+  innovativeness_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  dutch_maurician
+  swedish_gallop
+  swedish_gustavian
+  swedish_caroline
+  swedish_arme_blanche
+  prussian_frederickian
+  prussian_uhlan
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "玛蒂尔德 #0" = -1  # Mathilde #0
+  "德曼 #0" = -1  # Germaine #0
+  "阿达 #0" = -1  # Ada #0
+  "魏德玛 #0" = 0  # Waldemar #0
+  "托马斯 #0" = 0  # Thomas #0
+  "彼得 #0" = 0  # Peter #0
+  "奥斯卡 #0" = 0  # Oskar #0
+  "雷恩哈德 #0" = 0  # Leonhard #0
+  "卡斯帕尔 #0" = 0  # Kaspar #0
+  "约海姆 #0" = 0  # Joachim #0
+  "哈拉德 #0" = 0  # Harald #0
+  "弗洛里安 #0" = 0  # Florian #0
+  "康拉德 #0" = 0  # Conrad #0
+  "布鲁诺 #0" = 0  # Bruno #0
+  "阿德玛 #0" = 0  # Adelmar #0
+  "菲利普 魏海姆 #0" = 5  # Philip Wilhelm #0
+  "马克西米利安 #0" = 5  # Maximilian #0
+  "卡尔 古斯塔夫 #0" = 5  # Karl Gustav #0
+  "厄恩斯特 卡西米尔 #0" = 5  # Ernst Kasimir #0
+  "厄恩斯特 #0" = 5  # Ernst #0
+  "安东 #0" = 5  # Anton #0
+  "菲利普 路德维希 #0" = 10  # Philip Ludwig #0
+  "马格努斯 #0" = 10  # Magnus #0
+  "卡尔 弗雷德里克 #0" = 10  # Karl Friedrich #0
+  "约翰 克里斯蒂安 #0" = 10  # Johann Christian #0
+  "弗朗茨 #0" = 10  # Franz #0
+  "奥根 #0" = 10  # Eugen #0
+  "彼得 奥古斯特 #0" = 20  # Peter August #0
+  "卡尔 路德维希 #0" = 20  # Karl Ludwig #0
+  "卡尔 安东 #0" = 20  # Karl Anton #0
+  "卡尔 #0" = 20  # Karl #0
+  "弗雷德里克 路德维希 #0" = 20  # Friedrich Ludwig #0
+  "奥古斯特 菲利普 #0" = 20  # August Philip #0
+  "奥古斯特 #0" = 20  # August #0
+  "亚历山大 #0" = 20  # Alexander #0
+  "阿尔布莱特 #1" = 20  # Albrecht #1
+  "海因里希 #2" = 20  # Heinrich #2
+  "格哈德 #6" = 20  # Gerhard #6
+  "阿道夫 #7" = 20  # Adolf #7
+  "约翰 #0" = 40  # Johann #0
+  "弗雷德里克 魏海姆 #0" = 40  # Friedrich Wilhelm #0
+  "弗雷德里克 #0" = 60  # Friedrich #0
+  "克里斯蒂安 #0" = 60  # Christian #0
+}
+leader_names = {
+  "阿尔伯特"  # Albert
+  "奥古斯滕堡"  # Augustenborg
+  "Günther"
+  "荷尔施泰因"  # Holstein
+  "荷尔斯泰因-戈托普"  # Holstein-Gottorp
+  "奥尔登堡"  # Oldenburg
+  "菲利普"  # Philip
+  "兰道"  # Rantzau
+  "冯 巴恩尔"  # von Barner
+  "冯 戴尔"  # von Dellwigh
+}
+ship_names = {
+  "达米"  # Dahme
+  "Grömtz"
+  "格罗森布罗德"  # Grossenbrode
+  "基尔"  # Kiel
+  "凯伦胡森"  # Kellenhusen
+  "纽施塔特"  # Neustadt
+  "奥特西"  # Ostsee
+  "沙布尔茨"  # Scharbeutz
+  "锡尔施道夫"  # Sierksdorf
+  "魏德尔"  # Wedel
+}
+army_names = {
+  "$PROVINCE$军"  # Armee von $PROVINCE$
+}

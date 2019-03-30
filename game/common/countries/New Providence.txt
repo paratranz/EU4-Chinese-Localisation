@@ -1,0 +1,252 @@
+graphical_culture = westerngfx
+random_nation_chance = 0
+color = {
+  66
+  51
+  70
+}
+historical_idea_groups = {
+  plutocracy_ideas
+  trade_ideas
+  economic_ideas
+  defensive_ideas
+  maritime_ideas
+  administrative_ideas
+  offensive_ideas
+  quantity_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  chevauchee
+  western_longbow
+  gaelic_mercenary
+  gaelic_free_shooter
+  french_caracolle
+  irish_charge
+  anglofrench_line
+  french_dragoon
+  british_redcoat
+  british_hussar
+  british_square
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "Stede #0" = 10
+  "Bartholemew #0" = 10
+  "Jacquotte #0" = -1
+  "夏洛特 #0" = -1  # Charlotte #0
+  "安娜 #0" = -10  # Anne #0
+  "伊丽莎白 #0" = -1  # Elizabeth #0
+  "玛丽 #0" = -5  # Mary #0
+  "约翰 #0" = 10  # John #0
+  "伊斯雷尔 #0" = 10  # Israel #0
+  "爱德华 #0" = 10  # Edward #0
+  "劳伦斯 #0" = 10  # Lawrence #0
+  "威廉 #0" = 10  # William #0
+  "本杰明 #0" = 10  # Benjamin #0
+  "尼古拉斯 #0" = 10  # Nicholas #0
+  "亨利 #0" = 10  # Henry #0
+  "塞缪尔 #0" = 10  # Samuel #0
+  "约瑟夫 #0" = 10  # Joseph #0
+  "杰克 #0" = 10  # Jack #0
+  "查尔斯 #0" = 10  # Charles #0
+  "詹姆斯 #0" = 10  # James #0
+}
+leader_names = {
+  "Bellamy"
+  "Teach"
+  "博内"  # Bonnet
+  "邦尼"  # Bonny
+  "凯撒"  # Caesar
+  "Avery"
+  "Gibbs"
+  "德 赫拉夫"  # de Graaf
+  "Kidd"
+  "Hawkins"
+  "Morgan"
+  "Prince"
+  "Vane"
+  "Rackham"
+  "Yeats"
+  "Flint"
+  "Bones"
+  "Hands"
+  "Silver"
+  "Gunn"
+  "Merry"
+  "Sparrow"
+  "Read"
+  "Delahaye"
+  "de Berry"
+  "Gates"
+  "Roberts"
+}
+ship_names = {
+  "William"
+  "Fancy"
+  "Pearl"
+  "Victory"
+  "Royal James"
+  "Royal Fortune"
+  "Great Fortune"
+  "Great Ranger"
+  "Ranger"
+  "Liberty"
+  "Amity"
+  "Delivery"
+  "Rising Sun"
+  "Jacob"
+  "Neptune"
+  "Margaret"
+  "Adventure"
+  "Revenge"
+  "Wydah"
+  "Speaker"
+  "Walrus"
+  "Achilles"
+  "Adamant"
+  "Advantage"
+  "America"
+  "Amity"
+  "Black Dog"
+  "Black Galley"
+  "Black Prince"
+  "Black Rave"
+  "Boreas"
+  "Bounty"
+  "Caesar"
+  "Canterbury"
+  "Captain"
+  "卡斯托耳"  # Castor
+  "Cato"
+  "Cavendish"
+  "Centurion"
+  "Cerberus"
+  "Charles"
+  "Colossus"
+  "Conqueror"
+  "Conquestador"
+  "Constant Reformation"
+  "Courageux"
+  "Crocodile"
+  "Dainty"
+  "Daisy"
+  "Dee"
+  "Defence"
+  "Defiance"
+  "Deptford"
+  "Devastation"
+  "Diamond"
+  "Dido"
+  "Diomede"
+  "Director"
+  "Dolphin"
+  "Dragon"
+  "Drake"
+  "Dreadnaught"
+  "Eagle"
+  "Edgar"
+  "Elephant"
+  "Excellent"
+  "Exchange"
+  "Expedition"
+  "Experiment"
+  "Fame"
+  "Favourite"
+  "Firm"
+  "Flight"
+  "Flirt"
+  "Fortitude"
+  "Foudroyant"
+  "Friday"
+  "Goliath"
+  "Half Moon"
+  "Hawke"
+  "Hazardous"
+  "Heart"
+  "Hope"
+  "Hunter"
+  "Illustrious"
+  "Impregnable"
+  "Increase"
+  "Indefatigable"
+  "Inflexible"
+  "Intrepid"
+  "Invincible"
+  "Isis"
+  "Jersey"
+  "Magnanime"
+  "Magnificent"
+  "Mars"
+  "Minion"
+  "Minnikin"
+  "Minotaur"
+  "Moderate"
+  "Monarch"
+  "Nassau"
+  "Neptune"
+  "Ocean"
+  "Pelican"
+  "Porcupine"
+  "Powerful"
+  "President"
+  "Primrose"
+  "Promt"
+  "Prudent"
+  "Queen"
+  "Rainbow"
+  "Raisonnable"
+  "Ramillies"
+  "Ranelagh"
+  "Red Lion"
+  "Redoubtable"
+  "Reformation"
+  "Regent"
+  "Renown"
+  "Repulse"
+  "Research"
+  "Reserve"
+  "Resistance"
+  "Resolution"
+  "Restoration"
+  "Revenge"
+  "Scarborough"
+  "Scipio"
+  "Seahorse"
+  "Search"
+  "Salamander"
+  "Sampson"
+  "Sovereign"
+  "Speaker"
+  "Temeraire"
+  "Terrible"
+  "Theseus"
+  "Thomas"
+  "Three Kings"
+  "Thunderer"
+  "Tiger"
+  "Triton"
+  "Triumph"
+  "Trusty"
+  "Unicorn"
+  "Union"
+  "Unity"
+  "Valiant"
+  "Vanguard"
+  "Venerable"
+  "Vestal"
+  "Veteran"
+  "Victory"
+  "Vigo"
+  "Vindictive"
+  "Violet"
+  "Volage"
+  "Warrior"
+  "Warspite"
+  "White Bear"
+  "White Raven"
+  "Zealous"
+}

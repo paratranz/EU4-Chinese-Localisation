@@ -1,0 +1,130 @@
+graphical_culture = muslimgfx
+color = {
+  210
+  220
+  175
+}
+revolutionary_colors = {
+  1
+  0
+  10
+}
+historical_idea_groups = {
+  defensive_ideas
+  innovativeness_ideas
+  maritime_ideas
+  exploration_ideas
+  trade_ideas
+  diplomatic_ideas
+  economic_ideas
+  quality_ideas
+}
+historical_units = {
+  mamluk_archer
+  mamluk_cavalry_charge
+  mamluk_duel
+  mamluk_musket_charge
+  muslim_mass_infantry
+  muslim_dragoon
+  ali_bey_reformed_infantry
+}
+monarch_names = {
+  "Sa'd #0" = 20
+  "Firdaus #0" = 0
+  "海法 #0" = -1  # Haifa #0
+  "法希马 #0" = -1  # Fahima #0
+  "阿莉娅 #0" = -1  # Aliya #0
+  "查希尔 #0" = 0  # Zahir #0
+  "瓦希德 #0" = 0  # Wahid #0
+  "乌玛尔 #0" = 0  # Umar #0
+  "塔里克 #0" = 0  # Tariq #0
+  "萨米尔 #0" = 0  # Samir #0
+  "塞赫尔 #0" = 0  # Sakhr #0
+  "萨菲 #0" = 0  # Safi #0
+  "拉希德 #0" = 0  # Rashîd #0
+  "拉希姆 #0" = 0  # Rahim #0
+  "库赛 #0" = 0  # Qusay #0
+  "卡西姆 #0" = 0  # Qasim #0
+  "纳吉布 #0" = 0  # Najib #0
+  "穆斯塔法 #0" = 0  # Mustafa #0
+  "曼苏尔 #0" = 0  # Mansur #0
+  "马利克 #0" = 0  # Malik #0
+  "哈利克 #0" = 0  # Khaliq #0
+  "朱奈德 #0" = 0  # Junayd #0
+  "贾迈勒 #0" = 0  # Jamal #0
+  "贾法尔 #0" = 0  # Ja'far #0
+  "贾巴尔 #0" = 0  # Jabbar #0
+  "伊克巴尔 #0" = 0  # Iqbal #0
+  "胡萨姆 #0" = 0  # Husam #0
+  "哈希姆 #0" = 0  # Hashim #0
+  "海达尔 #0" = 0  # Haidar #0
+  "福阿德 #0" = 0  # Fuad #0
+  "法鲁克 #0" = 0  # Faruq #0
+  "法里斯 #0" = 0  # Faris #0
+  "法哈德 #0" = 0  # Fahd #0
+  "达乌德 #0" = 0  # Dawud #0
+  "别瑟 #0" = 0  # Basir #0
+  "巴拉卡特 #0" = 0  # Barakat #0
+  "艾曼 #0" = 0  # Ayman #0
+  "阿卜杜勒 哈利姆 #0" = 0  # 'Abd al-Karim #0
+  "纳赛尔 #1" = 5  # Nasr #1
+  "伊斯玛仪 #2" = 10  # Isma'îl #2
+  "阿里 #0" = 20  # 'Alî #0
+  "优素福 #2" = 60  # Yûsuf #2
+  "穆罕默德 #6" = 140  # Muhammad #6
+}
+leader_names = {
+  "伊本 阿卜杜勒 拉赫曼"  # Ibn Abd al-Rahman
+  "伊本 阿巴德"  # Ibn Abbad
+  "伊本 阿卜杜拉"  # Ibn Abd Allah
+  "Ibn Abi Hafs"
+  "Ibn al-Azafi"
+  "伊本 阿里"  # Ibn Ali
+  "Ibn Hakan"
+  "伊本 哈穆德"  # Ibn Hammud
+  "伊本 海萨姆"  # Ibn Hisam
+  "伊本 侯赛因"  # Ibn Husayn
+  "伊本 伊德里斯"  # Ibn Idris
+  "伊本 伊沙克"  # Ibn Ishaq
+  "伊本 伊斯玛仪"  # Ibn Isma'il
+  "伊本 麦尔旺"  # Ibn Marwan
+  "伊本 穆罕默德"  # Ibn Muhammad
+  "伊本 纳斯尔"  # Ibn Nasr
+  "伊本 卡西姆"  # Ibn Qasim
+  "Ibn Sa'd"
+  "伊本 苏莱曼"  # Ibn Sulayman
+  "伊本 奥马尔"  # Ibn Umar
+  "Ibn Ummay"
+  "Ibn Utman"
+  "伊本 亚法尔"  # Ibn Ya'far
+  "Ibn Yahyà"
+  "伊本 优素福"  # Ibn Yusuf
+}
+ship_names = {
+  "穆罕默德 伊本 纳斯尔"  # Muhammed ibn Nasr
+  "Muhammed al-Faqih"
+  "穆罕默德 III"  # Muhammed III
+  "纳斯尔"  # Nasr
+  "伊斯玛仪 I"  # Ismail I
+  "穆罕默德 IV"  # Muhammed IV
+  "优素福 I"  # Yusuf I
+  "穆罕默德 V"  # Muhammed V
+  "伊斯玛仪 II"  # Ismail II
+  "穆罕默德 VI"  # Muhammed VI
+  "优素福 II"  # Yusuf II
+  "穆罕默德 VII"  # Muhammed VII
+  "优素福 III"  # Yusuf III
+  "穆罕默德 VIII"  # Muhammed VIII
+  "穆罕默德 IX"  # Muhammed IX
+  "优素福 IV"  # Yusuf IV
+  "优素福 V"  # Yusuf V
+  "穆罕默德 X"  # Muhammed X
+}
+army_names = {
+  "Jaish Al $PROVINCE$"
+}
+fleet_names = {
+  "Alboran Sea Squadron"
+  "Balaeric Sea Squadron"
+  "Jabal Tariq Squadron"
+}

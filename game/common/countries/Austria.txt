@@ -1,0 +1,239 @@
+graphical_culture = westerngfx
+color = {
+  220
+  220
+  220
+}
+revolutionary_colors = {
+  5
+  0
+  5
+}
+historical_score = 4400
+historical_idea_groups = {
+  influence_ideas
+  diplomatic_ideas
+  economic_ideas
+  defensive_ideas
+  religious_ideas
+  offensive_ideas
+  administrative_ideas
+  quality_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "玛丽亚 #0" = -1  # Kunigunde #0
+  "伊丽莎白 #0" = -1  # Maria #0
+  "乔安娜 #0" = -1  # Elisabeth #0
+  "海伦娜 #0" = -1  # Joanna #0
+  "芭芭拉 #0" = -1  # Barbara #0
+  "安娜 #0" = -1  # Eleanor #0
+  "塞西莉亚 蕾娜塔 #0" = -1  # Anna #0
+  "玛丽亚 玛格达列娜 #0" = -1  # Cecilia Renata  #0
+  "玛丽亚 玛格丽特 #0" = -1  # Maria Magdalena #0
+  "马克西米莉安妮 #0" = -1  # Maximiliane #0
+  "瓦尔布加 #0" = -1  # Walburga #0
+  "特雷莎 贝内蒂克塔 #0" = -1  # Theresa Benedicta #0
+  "约翰娜 #0" = -1  # Johanna #0
+  "玛丽 安托瓦尼特 #0" = -1  # Maria Antonia #0
+  "玛丽亚 约瑟法 #0" = -1  # Maria Josepha #0
+  "玛丽亚 阿玛莉娅 #0" = -1  # Maria Amalia #0
+  "玛丽亚 卡洛琳娜 #0" = -1  # Maria Carolina #0
+  "玛丽亚 安娜 #0" = -1  # Maria Anna #0
+  "玛丽亚 伊丽莎白 #0" = -1  # Maria Elisabeth #0
+  "玛丽亚 特蕾莎 #0" = -15  # Maria Theresia #0
+  "沃尔夫冈 #0" = 0  # Wolfgang #0
+  "威廉 #0" = 0  # Wilhelm #0
+  "维克多 #0" = 0  # Viktor #0
+  "乌尔里希 #0" = 0  # Ulrich #0
+  "斯特凡 #0" = 0  # Stefan #0
+  "齐格弗里德 #0" = 0  # Siegfried #0
+  "奥托 #0" = 0  # Otto #0
+  "奥斯卡尔 #0" = 0  # Oskar #0
+  "米夏埃尔 #0" = 0  # Michael #0
+  "约尔格 #0" = 0  # Jörg #0
+  "约阿希姆 #0" = 0  # Joachim #0
+  "雅各布 #0" = 0  # Jakob #0
+  "海因里希 #0" = 0  # Heinrich #0
+  "冈瑟 #0" = 0  # Günther #0
+  "格哈德 #0" = 0  # Gerhard #0
+  "弗洛里安 #0" = 0  # Florian #0
+  "克莱门斯 #0" = 0  # Clemens #0
+  "克里斯托夫 #0" = 0  # Cristoph #0
+  "布鲁诺 #0" = 0  # Bruno #0
+  "本诺 #0" = 0  # Benno #0
+  "阿尔弗雷德 #0" = 0  # Alfred #0
+  "阿道夫 #0" = 0  # Adolf #0
+  "莱纳 #0" = 10  # Rainer #0
+  "路德维希 #0" = 10  # Ludwig #0
+  "约翰 #0" = 10  # Johann #0
+  "弗朗兹 卡尔 #0" = 10  # Franz Karl #0
+  "安东 #0" = 10  # Anton #0
+  "亚历山大 #0" = 10  # Alexander #0
+  "鲁道夫 #4" = 10  # Rudolf #4
+  "利奥波德 #7 威廉" = 10  # Leopold #7 Wilhelm
+  "卡尔 #0 约瑟夫" = 15  # Karl #0 Joseph
+  "约翰 利奥波德 #0" = 15  # Johann Leopold #0
+  "约翰 卡尔 #0" = 15  # Johann Karl #0
+  "菲利普 #0" = 15  # Philipp #0
+  "格奥尔格 #0" = 15  # Georg #0
+  "斐迪南 #0文策尔" = 15  # Ferdinand #0 Wenzel
+  "恩斯特 #1" = 15  # Ernst #1
+  "利奥波德 #7约翰" = 15  # Leopold #7 Johann
+  "马蒂亚斯 #0" = 20  # Matthias #0
+  "拉迪斯拉夫 #0" = 20  # Ladislav #0
+  "弗朗茨 #0 斯特凡" = 20  # Franz #0 Stefan
+  "弗里德里希 #4" = 20  # Friedrich #4
+  "利奥波德 #7" = 20  # Leopold #7
+  "马克西米利安 #0" = 40  # Maximilian #0
+  "卡尔 #0" = 40  # Karl #0
+  "约瑟夫 #0" = 40  # Joseph #0
+  "弗朗茨 #0" = 40  # Franz #0
+  "阿尔布雷希特 #3" = 40  # Albrecht #3
+  "斐迪南 #0" = 60  # Ferdinand #0
+}
+leader_names = {
+  "冯 哈布斯堡"  # von Habsburg
+  "冯 华伦斯坦"  # von Waldstein
+  "冯 耶灵"  # von Ihering
+  "赛塞尔"  # Seyssel
+  "亨姆里希"  # Haemrich
+  "冯 埃施特哈齐"  # von Esterhazy
+  "冯 奥伯格"  # von Oberg
+  "冯 香恩堡"  # von Schönburg
+  "冯 夸特"  # von Quadt
+  "克特雷尔"  # Ketterer
+  "冯 斯图本耐赫"  # von Stubenrauch
+  "冯 哈茨菲尔德"  # von Hatzfeldt
+  "冯 奈普贝尔格"  # von Neippberg
+  "洛布科维茨"  # Lobkowitz
+  "米特尔巴赫"  # Mittelbach
+  "冯 劳东"  # von Laudon
+  "阿尔文茨基"  # Alvintzky
+  "冯 霍恩堡"  # von Hohenberg
+  "厄尔麦尔"  # Erlmayr
+  "冯 史塔克"  # von Stark
+  "迈因尔"  # Meinl
+  "贝特曼"  # Bethmann
+  "科林"  # Kolin
+  "海因里希"  # Heinrich
+  "冯 李德塞"  # von Riedesel
+  "弗雷施塔特"  # Freystadt
+  "冯 格滕堡"  # von Guttenberg
+  "弗兰齐茨"  # Frantsits
+  "冯 施陶芬贝格"  # von Stauffenberg
+  "冯 卡普芬贝格"  # von Kapfenberg
+  "扎克洁夫斯基"  # Zakrzewsky
+  "施吕德尔"  # Schrüder
+  "索尔扎帕夫"  # Sauerzapff
+  "米努奇"  # Minucci
+  "苏莱尔济茨基"  # Sulerzycki
+  "施蒂奇施泰因"  # Stichsenstein
+  "哈格多恩"  # Hagedorn
+  "艾伦伯格"  # Arenberg
+  "博罗维奇"  # Boroewitsch
+  "施泰格"  # Steiger
+  "泰格托夫"  # Tegethoff
+  "布塞克"  # Buseck
+  "别津斯基"  # Byszynski
+  "茨威格"  # Zwerger
+  "卡斯帕"  # Casper
+  "冯 申布伦"  # von Schönbrunn
+  "波尔"  # Poll
+  "冯 施瓦岑贝格"  # von Schwarzenberg
+}
+ship_names = {
+  "团结之力"  # Viribus Unitis
+  "特蕾西亚"  # Theresia
+  "奥地利"  # Austria
+  "哈布斯堡"  # Habsburg
+  "蒂罗尔"  # Tirol
+  "布鲁克男爵"  # Baron Bruck
+  "考尔男爵"  # Baron Call
+  "贝尔韦德雷"  # Belvedre
+  "潘诺尼亚"  # Pannonia
+  "萨尔察赫"  # Salzach
+  "维也纳"  # Wien
+  "普斯塔泽"  # Pustazer
+  "特莱森"  # Traisen
+  "费迪南德大公"  # Erzherzog Ferdinand
+  "赫拉克勒斯"  # Herkules
+  "拉科马"  # Lacroma
+  "特里斯特"  # Triest
+  "超越极致"  # Plus Ultra
+  "欧若拉"  # Aurora
+  "信天翁"  # Albatros
+  "塞伊达"  # Saida
+  "诺瓦拉"  # Novara
+  "皇帝"  # Imperator
+  "三位一体"  # Trinitas
+  "双头鹰"  # Doppeladler
+  "圣史蒂芬"  # Sankt Stephan
+  "菲利克斯"  # Felix
+  "奥地利皇帝"  # Austria Imperare
+  "鲑鱼"  # Lachs
+  "莱塔"  # Leitha
+  "歌利亚"  # Goliath
+  "参孙"  # Samson
+  "维都伯纳"  # Vindobona
+  "不倦"  # Inexhaustus
+  "无懈"  # Invulnerabilis
+  "帕维达鲁斯"  # Pavidarus
+  "福蒂塔斯"  # Fortitas
+  "埃门蒂乌斯"  # Emenentius
+  "圣沃尔夫冈"  # Sankt Wolfgang
+  "维吉拉蒂亚"  # Vigilatia
+  "海鸥"  # Möwe
+  "信仰与希望"  # Fides et Spes
+  "水妖"  # Nixe
+  "毒蛇"  # Natter
+  "女神"  # Nymphe
+  "金牛座"  # Taurus
+  "玛利亚特蕾莎女皇"  # Kaiserin Maria Theresia
+  "瓦豪"  # Wachau
+  "多瑙"  # Donau
+  "酒馆"  # Inn
+  "林德虫"  # Lindwurm
+  "森塔"  # Zenta
+  "扎拉"  # Zara
+  "阜姆"  # Fiume
+  "阿帕德"  # Arpad
+  "巴本堡"  # Babenberg
+  "兹里尼"  # Zrinyi
+  "波拉"  # Pola
+  "老虎"  # Tiger
+  "庞斯勒"  # Panther
+  "猎豹"  # Leopard
+  "亲卫"  # Trabant
+  "卫星"  # Satellit
+}
+army_names = {
+  "奥匈军"  # K.u.K Armee
+  "哈布斯堡军团"  # Habsburgische Armee
+  "帝国军团"  # Kaiserliche Armee
+  "波西米亚军团"  # Armee von Böhmen
+  "匈牙利军团"  # Armee von Ungarn
+  "意大利军团"  # Armee von Italien
+  "西里西亚军团"  # Armee von Schlesien
+  "$PROVINCE$军"  # Armee von $PROVINCE$
+}
+fleet_names = {
+  "亚得里亚海舰队"  # Adriatik Flotte
+  "哈布斯堡舰队"  # Habsburgische Flotte
+  "帝国舰队"  # Kaiserliche Flotte
+}

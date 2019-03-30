@@ -1,0 +1,140 @@
+graphical_culture = westerngfx
+color = {
+  106
+  127
+  183
+}
+historical_idea_groups = {
+  trade_ideas
+  defensive_ideas
+  religious_ideas
+  offensive_ideas
+  maritime_ideas
+  innovativeness_ideas
+  spy_ideas
+  quality_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  prussian_frederickian
+  prussian_uhlan
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "Raimundus #0" = 40
+  "Aloysius #0" = 20
+  "Annetinus #0" = 20
+  "Ferdinandus #0" = 20
+  "Filibertus #0" = 20
+  "Filippus #0" = 20
+  "Petrus Raimundus #0" = 20
+  "Rogelius #2" = 10
+  "Johannes Ferdinandus #1" = 10
+  "Rupertus #1" = 10
+  "Emidius #0" = 0
+  "Vivianus #0" = 0
+  "凯瑟琳 #0" = -1  # Catherine #0
+  "萨拉 #0" = -1  # Sarah #0
+  "玛丽亚 #0" = -1  # Maria #0
+  "普布利乌斯 #0" = 0  # Publius #0
+  "卢卡斯 #0" = 0  # Lucas #0
+  "依拉略 #0" = 0  # Hilarius #0
+  "狄约尼削 #0" = 0  # Dionysius #0
+  "克莱图斯 #0" = 0  # Cletus #0
+  "托马斯 #0" = 20  # Thomas #0
+  "拉斐尔 #0" = 20  # Raphael #0
+  "马库斯 安东尼乌斯 #0" = 20  # Marcus Antonius #0
+  "卢杜维库斯 #0" = 20  # Ludovicus #0
+  "约翰尼斯 保禄 #0" = 20  # Johannes Paulus #0
+  "约翰尼斯 巴普蒂斯塔 #0" = 20  # Johannes Baptista #0
+  "雅各布斯 #0" = 20  # Jacobus #0
+  "哈德良 #0" = 20  # Hadrianus #0
+  "圭多 #0" = 20  # Guido #0
+  "额我略 #0" = 20  # Gregorius #0
+  "弗朗西斯 #0" = 20  # Franciscus #0
+  "法氏囊 #0" = 20  # Fabricius #0
+  "埃默里克 #0" = 20  # Emericus #0
+  "德西德琉斯 #0" = 20  # Desiderius #0
+  "克劳狄乌斯 #0" = 20  # Claudius #0
+  "安东尼乌斯 伊曼纽尔 #0" = 20  # Antonius Emmanuel #0
+  "尼古拉斯 #1" = 20  # Nicholas #1
+  "雨果 #1" = 20  # Hugo #1
+  "伊曼纽尔 #0" = 40  # Emmanuel #0
+  "安东尼乌斯 #0" = 40  # Antonius #0
+  "玛尔定 #1" = 40  # Martinus #1
+  "佩特鲁斯 #2" = 60  # Petrus #2
+  "约翰尼斯 #1" = 80  # Johannes #1
+}
+leader_names = {
+  "德 奥布松"  # d'Aubusson
+  "德 安布瓦兹"  # d'Amboise
+  "德 布朗士佛"  # de Blanchefort
+  "del Carretto"
+  "德 拉 卡谢尔"  # de la Cassière
+  "德 克莱蒙 热桑"  # de Clermont-Gessant
+  "科托内尔"  # Cotoner
+  "卡拉法"  # Carafa
+  "卡拉乔罗"  # Caracciolo
+  "德 科尔内朗"  # de Corneillan
+  "代斯普伊格"  # Despuig
+  "德 丰塞卡"  # de Fonseca
+  "Garzez"
+  "de Gozon"
+  "德 奥米德斯"  # de Homedes
+  "von Hormpesch"
+  "德 埃雷迪亚"  # de Heredia
+  "de Juilliac"
+  "德 拉斯蒂克"  # de Lastic
+  "德 利勒亚当"  # de L'Isle-Adam
+  "拉斯卡里斯 卡斯特利亚尔"  # de Lascaris-Castellar
+  "德 米利"  # de Milly
+  "德 蒙特"  # del Monte
+  "德 奈拉"  # de Naillac
+  "奥尔西尼"  # Orsini
+  "德 蓬特"  # del Ponte
+  "德 波勒"  # de Paule
+  "佩雷略斯 罗卡富尔"  # Perellos y Roccaful
+  "德 潘斯"  # de Pins
+  "de la Rivère"
+  "德 雷丁"  # de Redin
+  "德 罗汉 普杜克"  # de Rohan-Polduc
+  "德 圣雅耶"  # de Saint-Jaille
+  "德 拉 森格莱"  # de la Sengle
+  "德 特萨达"  # de Texada
+  "de La Vallette-Parisot"
+  "de Verdala"
+  "德 瓦斯康塞洛斯"  # de Vasconcellos
+  "德 维列纳"  # de Vilhena
+  "德 维拉雷"  # de Villaret
+  "德 维纳库尔"  # de Wignacourt
+  "扎科斯塔"  # Zacosta
+  "Zondadari"
+}
+ship_names = {
+  "The Blessed Gerard"
+  "Raymond du Puy de Provence"
+  "Auger de Balben"
+  "阿尔诺 德 孔普"  # Arnaud de Comps
+  "吉尔伯特 德 埃萨依"  # Gilbert d'Aissailly
+  "加斯托内 德 莫洛瓦"  # Gastone de Murols
+  "Gilbert of Syria"
+  "罗杰 德 穆兰"  # Roger de Moulins
+  "埃利昂 德 维尔纳夫"  # Hélion de Villeneuve
+  "Hermangard d'Asp"
+  "Garnier de Naplous"
+  "Geoffroy de Donjon"
+  "Alfonse of Portugal"
+  "Geoffrey le Rat"
+}
+army_names = {
+  "$PROVINCE$骑士"  # Knights of $PROVINCE$
+}

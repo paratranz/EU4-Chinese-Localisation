@@ -1,0 +1,257 @@
+graphical_culture = westerngfx
+color = {
+  118
+  99
+  151
+}
+historical_score = 25
+historical_idea_groups = {
+  naval_ideas
+  trade_ideas
+  religious_ideas
+  exploration_ideas
+  diplomatic_ideas
+  economic_ideas
+  innovativeness_ideas
+  offensive_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  chevauchee
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_cuirassier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "Maëlle #0" = -1
+  "安妮 #0" = -1  # Gwenola #0
+  "玛格丽特 #0" = -1  # Marguerite #0
+  "凯瑟琳 #0" = -1  # Catherine #0
+  "伊莎贝尔 #0" = -1  # Isabelle #0
+  "克劳丁 #0" = -10  # Claudine #0
+  "雅恩 #0" = 0  # Yann #0
+  "沃盖 #0" = -10  # Gwenvred #0
+  "Vonig #0" = 0  # Vougay #0
+  "Visant #0" = 0  # Vonig #0
+  "Venec #0" = 0  # Visant #0
+  "罗兰 #0" = 0  # Venec #0
+  "Sulio #0" = 0  # Ronan #0
+  "Sklaer #0" = 0  # Sulio #0
+  "Similien #0" = 0  # Sklaer #0
+  "Servan #0" = 0  # Similien #0
+  "Roparzh #0" = 0  # Servan #0
+  "Primel #0" = 0  # Roparzh #0
+  "皮埃尔 #0" = 0  # Primel #0
+  "帕特恩 #0" = 0  # Pier #0
+  "波罗 #0" = 0  # Patern #0
+  "帕德里吉 #0" = 0  # Paol #0
+  "奥列尔 #0" = 0  # Padrig #0
+  "米海尔 #0" = 0  # Olier #0
+  "玛丹 #0" = 0  # Mikael #0
+  "卢瓦克 #0" = 0  # Loïc #0
+  "纪尧姆 #0" = 0  # Iouennic #0
+  "格温尼吉 #0" = 0  # Gwilherm #0
+  "格温內尔 #0" = 0  # Gwenaël #0
+  "盖尔 #0" = 0  # Gaël #0
+  "迪南 #0" = 0  # Dinan #0
+  "德尼尔 #0" = 0  # Deniel #0
+  "科朗丁 #0" = 0  # Corentin #0
+  "理查德 #0" = 5  # Richard #0
+  "吉勒 #0" = 5  # Gilles #0
+  "查理 #1" = 5  # Charles #1
+  "亨利 #0" = 10  # Henri #0
+  "皮埃尔 #2" = 20  # Pierre #2
+  "亚瑟 #2" = 20  # Arthur #2
+  "约翰 #4" = 40  # Jean #4
+  "弗朗索瓦 #0" = 60  # François #0
+}
+leader_names = {
+  "d'Ancenis"
+  "d'Angennes"
+  "d'Argentré"
+  "德 拜恩"  # de Bain
+  "de Beaudiez"
+  "德 博梅斯"  # de Beaumetz
+  "de Boisguéhenneuc"
+  "de Bouëtiez"
+  "de Châteaubriand"
+  "德 沙蒂永"  # de Châtillon
+  "de Coatgoureden"
+  "de Coëtivy"
+  "de Coëtmen"
+  "Couasnon de la Barillière"
+  "德 克朗"  # de Craon
+  "de Dol"
+  "d'Elbène"
+  "de Francheville"
+  "de Goulaine"
+  "de Gourcuff"
+  "de Halgoët"
+  "de La Haye-Saint-Hilaire"
+  "Kalbean de Cardelan"
+  "de Kerdrel"
+  "de Kerellec"
+  "de Kergoulay"
+  "de Kerguenech"
+  "de Kerguerron"
+  "de Kersauzon"
+  "de Kersulguen"
+  "de Lamballe"
+  "de Locmaria"
+  "de Machecoul"
+  "Madec"
+  "de Malestroit"
+  "de Mercœur"
+  "de Monfort"
+  "de la Nouë-Bogat"
+  "de Penguem"
+  "de Penhoadic"
+  "de Penthièvre"
+  "de Pontbriand"
+  "de Rieux"
+  "de Rodellec"
+  "de Rohan"
+  "de Roscoat"
+  "de Rostrenen"
+  "de Saint-Hoularn"
+  "de Saint-Meleuc"
+  "de Sévigné"
+  "de Talhouët"
+  "de Tasher de la Pagerie"
+  "de Tintériac"
+  "de Tonquedec"
+  "de Tournemine"
+  "de Tréméreuc"
+  "de la Trémoille"
+  "de Trogoff"
+  "de Tromelin"
+  "de Vitré"
+}
+ship_names = {
+  "l'Achille"
+  "l'Actif"
+  "l'Active"
+  "l'Admirable"
+  "l'Aglaé"
+  "l'Aimable"
+  "l'Alcide"
+  "l'Algésiras"
+  "l'Alose"
+  "l'Amazone"
+  "l'Ambition"
+  "l'Amphion"
+  "l'Anémone"
+  "l'Annibal"
+  "l'Apollon"
+  "l'Argonaute"
+  "l'Artésien"
+  "l'Audacieux"
+  "l'Auguste"
+  "l'Avenant"
+  "la Badine"
+  "la Barbue"
+  "拉 博蒙特"  # le Beaumont
+  "la Bécasse"
+  "le Belliqueux"
+  "la Bergère"
+  "la Berryer"
+  "le Bien-Aimé"
+  "le Bienfaisant"
+  "le Bon"
+  "la Bretagne"
+  "la Bretonne"
+  "le Brillant"
+  "勒 布鲁图"  # le Brutus
+  "le Caché"
+  "le Célèbre"
+  "le Centaure"
+  "le Chameau"
+  "le Comte"
+  "le Courageux"
+  "le Défenseur"
+  "le Diadème"
+  "le Diamant"
+  "le Dictateur"
+  "le Diligent"
+  "le Dragon"
+  "le Duc"
+  "l'Élephant"
+  "l'Élisabeth"
+  "l'Émérillon"
+  "l'Entreprenant"
+  "l'Éole"
+  "le Fleuron"
+  "le Formidable"
+  "le Fortuné"
+  "le Foudroyant"
+  "le Fougueux"
+  "le Fourgon"
+  "le Furieux"
+  "le Glorieux"
+  "la Grande Hermine"
+  "l'Impétueux"
+  "l'Indien"
+  "l'Indomptable"
+  "朱庇特"  # le Jupiter
+  "le Léopard"
+  "la Loire"
+  "le Massiac"
+  "le Neptune"
+  "le Nestor"
+  "l'Orion"
+  "le Pégase"
+  "la Petite Hermine"
+  "le Portefaix"
+  "le Profond"
+  "la Protée"
+  "le Rolland"
+  "le Saint-Guillaume"
+  "la Sarcelle"
+  "le Sévère"
+  "le Six-Corps"
+  "le Solide"
+  "le Solitaire"
+  "le Souverain"
+  "la Sphère"
+  "le Sphinx"
+  "le Superbe"
+  "le Tardif"
+  "le Téméraire"
+  "le Terrible"
+  "le Thésée"
+  "le Tonnant"
+  "le Triomphant"
+  "le Triton"
+  "l'Union"
+  "le Vaillant"
+  "le Vengeur"
+  "la Victoire"
+  "le Vigilant"
+  "la Volante"
+}
+army_names = {
+  "Armée du Trégor"
+  "Armée de Cornouaille"
+  "Armée du Léon"
+  "Armée du Vannetais"
+  "Armée du Pays de Dol"
+  "Armée du Pays de Saint Brieuc"
+  "Armée du Pays Rennais"
+  "Armée du Pays Nantais"
+  "Armée du Pays de Saint Malo"
+  "Armée de Broërec"
+  "Armée de Tréguier"
+  "Armée de Penthièvre"
+  "Armée de Porhoët"
+  "$PROVINCE$军"  # Armée de $PROVINCE$
+}

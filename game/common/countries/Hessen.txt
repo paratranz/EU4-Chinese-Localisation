@@ -1,0 +1,105 @@
+graphical_culture = westerngfx
+color = {
+  114
+  171
+  184
+}
+historical_idea_groups = {
+  trade_ideas
+  defensive_ideas
+  religious_ideas
+  economic_ideas
+  diplomatic_ideas
+  spy_ideas
+  offensive_ideas
+  innovativeness_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "Kreszens #0" = 0
+  "黑德维希 #0" = -1  # Hedwig #0
+  "埃尔泽 #0" = -1  # Else #0
+  "科琳娜 #0" = -1  # Corinna #0
+  "沃尔弗拉姆 #0" = 0  # Wolfram #0
+  "维尔纳 #0" = 0  # Werner #0
+  "文策尔 #0" = 0  # Wenzel #0
+  "托马斯 #0" = 0  # Thomas #0
+  "斯特凡 #0" = 0  # Stefan #0
+  "西格弗里德 #0" = 0  # Siegfried #0
+  "奥斯卡 #0" = 0  # Oskar #0
+  "洛塔尔 #0" = 0  # Lothar #0
+  "约瑟夫 #0" = 0  # Joseph #0
+  "约阿希姆 #0" = 0  # Joachim #0
+  "伊沃 #0" = 0  # Ivo #0
+  "伊西多尔 #0" = 0  # Isidor #0
+  "伊萨克 #0" = 0  # Isaak #0
+  "赫尔穆特 #0" = 0  # Helmut #0
+  "哈甘 #0" = 0  # Hagan #0
+  "格雷戈尔 #0" = 0  # Gregor #0
+  "戈特利布 #0" = 0  # Gottlieb #0
+  "格哈德 #0" = 0  # Gerhard #0
+  "埃里希 #0" = 0  # Erich #0
+  "埃贡 #0" = 0  # Egon #0
+  "丹尼斯 #0" = 0  # Denis #0
+  "巴纳巴斯 #0" = 0  # Barnabas #0
+  "阿尔布雷希特 #0" = 0  # Albrecht #0
+  "阿德尔马 #0" = 0  # Adelmar #0
+  "腓力 路德维希 #0" = 10  # Philipp Ludwig #0
+  "马克西米利安 #0" = 10  # Maximilian #0
+  "利奥波德 #0" = 10  # Leopold #0
+  "格奥尔格 #0" = 10  # Georg #0
+  "克里斯蒂安 #0" = 10  # Christian #0
+  "阿道夫 #0" = 10  # Adolf #0
+  "奥托 #1" = 15  # Otto #1
+  "海因里希 #1" = 15  # Heinrich #1
+  "菲利普 #0" = 20  # Philipp #0
+  "莫里茨 #0" = 20  # Moritz #0
+  "卡尔 #0" = 20  # Karl #0
+  "赫尔曼 #1" = 20  # Hermann #1
+  "弗里德里希 #0" = 40  # Friedrich #0
+  "路德维希 #1" = 40  # Ludwig #1
+  "威廉 #0" = 170  # Wilhelm #0
+}
+leader_names = {
+  "阿恩斯贝格"  # Arnsberg
+  "Bebra"
+  "埃德"  # Eder
+  "富尔达"  # Fulda
+  "哈姆"  # Hamm
+  "卡塞尔"  # Kassel
+  "克尼普豪森"  # Knyphausen
+  "Lippstadt"
+  "Münden"
+  "Paderborn"
+  "von Scheideck"
+}
+ship_names = {
+  "海因里希 I"  # Heinrich I
+  "卡塞尔"  # Kassel
+  "Werra"
+  "拉恩"  # Lahn
+  "富尔达"  # Fulda
+  "Wasserkuppe"
+  "施滕伯格"  # Stirnberg
+  "Hanau"
+  "Marburg"
+  "Wetzlar"
+}
+army_names = {
+  "$PROVINCE$军"  # Armee von $PROVINCE$
+}

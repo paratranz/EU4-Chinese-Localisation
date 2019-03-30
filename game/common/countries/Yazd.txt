@@ -1,0 +1,219 @@
+graphical_culture = muslimgfx
+color = {
+  239
+  164
+  19
+}
+historical_idea_groups = {
+  defensive_ideas
+  religious_ideas
+  offensive_ideas
+  trade_ideas
+  spy_ideas
+  economic_ideas
+  diplomatic_ideas
+  administrative_ideas
+}
+historical_units = {
+  persian_footsoldier
+  persian_cavalry_charge
+  persian_shamshir
+  qizilbash_cavalry
+  tofongchis_musketeer
+  topchis_artillery
+  afsharid_reformed
+  afsharid_reformed_infantry
+  muslim_mass_infantry
+  muslim_dragoon
+  persian_rifle
+}
+monarch_names = {
+  "Mawlana Rukn #0" = 10
+  "Majd #0" = 10
+  "Mihtar #0" = 10
+  "Ja'far #0" = 10
+  "Loft Ali #0" = 10
+  "Aga Muhammad #0" = 10
+  "Fath Alî #0" = 10
+  "Najm-e #0" = 0
+  "Ahmad #0" = 0
+  "Hatem #0" = 0
+  "Shahqoli #0" = 0
+  "Rajab Ali #0" = 0
+  "Amanollah #0" = 0
+  "Ebrahim #0" = 0
+  "Allahyar #0" = 0
+  "Abdol #0" = 0
+  "Hamid #0" = 0
+  "Atiya #0" = -1
+  "Pari #0" = -1
+  "Khayr al-Nisa #0" = -1
+  "Tajlu #0" = -1
+  "Dilaram #0" = -1
+  "Shahbanu #0" = -1
+  "Razia #0" = -1
+  "玛里亚姆 #0" = -1  # Maryam #0
+  "阿里 #0" = 0  # Ali #0
+  "法拉扎拉 #0" = 0  # Farajollah #0
+  "阿里 莫拉德 #0" = 10  # 'Ali Morâd #0
+  "默罕默德 萨德赫 #0" = 10  # Mohammad Sâdiq #0
+  "默罕默德 阿里 #0" = 10  # Mohammad Ali #0
+  "阿布 勒 法特赫 #0" = 10  # Abu'l Fath #0
+  "卡里姆 #0 汗" = 10  # Karim #0 Khân
+  "纳迪尔 米尔扎 #0" = 10  # Nâder Mirza #0
+  "沙哈鲁 #0" = 10  # Shâh Rukh #0
+  "易卜拉欣 #0" = 10  # Ebrâhim #0
+  "阿德勒 #0 沙阿" = 10  # 'Âdel #0 Shâh
+  "纳德尔 #0 沙阿" = 10  # Nâder #0 Shâh
+  "胡赛因 #0" = 10  # Hosayn #0
+  "优素福 #0" = 10  # Yusuf #0
+  "图尔木什 #0" = 10  # Turmush #0
+  "库特布丁 贾马尔 #0" = 10  # Qutb al-Din Jamal #0
+  "扎因 #0" = 10  # Zayn #0
+  "易司玛仪 #0" = 10  # Ismâ'îl #0
+  "纳西尔 #0" = 10  # Nasir #0
+  "伊马德 #0" = 10  # Imad #0
+  "贾拉丁 #0" = 10  # Jalal al-din #0
+  "哈姆扎 #0" = 10  # Hamza #0
+  "雅各布 #0" = 10  # Yaqub #0
+  "沙拉夫 #0" = 10  # Sharaf #0
+}
+leader_names = {
+  "Abiwardi"
+  "Halabi"
+  "Farrash"
+  "Murshid"
+  "Bawardi"
+  "Qadi"
+  "Simnani"
+  "Banu"
+  "Tamim"
+  "Khidrshah"
+  "Chuhra"
+  "Sabiri"
+  "Jalili"
+  "Azizi"
+  "Shahy"
+  "Daei"
+  "Qazai"
+  "Dalwand"
+  "Ahrari"
+  "Fatemi"
+  "Sabet"
+  "Ansari"
+}
+ship_names = {
+  "Abathur"
+  "Adamn Kasia"
+  "Aesma Daeva"
+  "Agas"
+  "Ahriman"
+  "Ahura"
+  "Ahura Mazda"
+  "Ahurani"
+  "Airyaman"
+  "Aka Manah"
+  "Aladdin"
+  "Allatum"
+  "Amashaspan"
+  "Ameratat"
+  "Amesha Spentas"
+  "Anahita"
+  "Angra Mainyu"
+  "Anjuman"
+  "Apam-natat"
+  "Apaosa"
+  "Aredvi"
+  "Arishtat"
+  "Armaiti"
+  "Arsaces"
+  "Asha vahista"
+  "Asman"
+  "Asto Vidatu"
+  "Astvat-Ereta"
+  "Atar"
+  "Azi Dahaka"
+  "Baga"
+  "Bahram"
+  "Burijas"
+  "Bushyasta"
+  "Buyasta"
+  "Camros"
+  "Daena"
+  "Daevas"
+  "Ahaka"
+  "Dahhak"
+  "Dena"
+  "Dev"
+  "Diwe"
+  "Drug"
+  "Drvaspa"
+  "Frashegird"
+  "Fravashis"
+  "Gandarewa"
+  "Gao-kerena"
+  "Gayomard"
+  "Gayomart"
+  "Geus-Tasan"
+  "Geus-Urvan"
+  "Haoma"
+  "Haurvatat"
+  "Humay"
+  "Hvar"
+  "Hvarekhshaeta"
+  "Indar"
+  "Indra"
+  "Izha"
+  "Jamshid"
+  "Jeh"
+  "Karshipta"
+  "Kavi"
+  "Khara"
+  "Khshathra vairya"
+  "Kundrav"
+  "Mah"
+  "Mahre"
+  "Mahrianag"
+  "Manu"
+  "Manuchihir"
+  "Mao"
+  "Mashyane"
+  "Mashye"
+  "Menog"
+  "Mithra"
+  "Nairyosangha"
+  "Nanghaithya"
+  "Neriosang"
+  "Ormazd"
+  "Peris"
+  "Peshdadians"
+  "Rapithwin"
+  "Rashnu"
+  "Rustam"
+  "Saurva"
+  "Simurgh"
+  "Spenta Mainyu"
+  "Sraosa"
+  "Srosh"
+  "Tawrich"
+  "Thunaupa"
+  "Tistrya"
+  "Tushnamatay"
+  "Vanant"
+  "Vata"
+  "Verethragna"
+  "Vohu Manah"
+  "Vouruskasha"
+  "Yam"
+  "Yasht"
+  "Yazata"
+  "Yezidi"
+  "Yima"
+  "Zal"
+  "Zam"
+  "Zam-Armatay"
+  "Zarathustra"
+  "Zarich"
+  "Zend-Avesta"
+  "Zurvan"
+}

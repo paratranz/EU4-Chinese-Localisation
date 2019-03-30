@@ -1,0 +1,212 @@
+graphical_culture = southamericagfx
+color = {
+  98
+  149
+  121
+}
+historical_idea_groups = {
+  religious_ideas
+  defensive_ideas
+  offensive_ideas
+  maritime_ideas
+  trade_ideas
+  economic_ideas
+  quality_ideas
+  administrative_ideas
+}
+historical_units = {
+  mesoamerican_spearmen
+  central_american_horsemen
+  aztec_tribal_warfare
+  aztec_hill_warfare
+  aztec_gunpowder_warfare
+  westernized_aztec
+  mexican_guerilla_warfare
+}
+monarch_names = {
+  "亚欧特尔 #0" = -1  # Yaotl #0
+  "茉月勒瓦妮 #0" = -1  # Moyolehuani #0
+  "森特瓦 #0" = -1  # Centehua #0
+  "索尔顿 #0" = 0  # Zolton #0
+  "亚兹塔齐马尔 #0" = 0  # Yaztachimal #0
+  "休科约尔 #0" = 0  # Xocoyol #0
+  "休克兹卡特尔 #0" = 0  # Xiuhcozcatl #0
+  "特洛钦 #0" = 0  # Tlotzin #0
+  "特拉凯利尔 #0" = 0  # Tlacaelel #0
+  "蒂马斯 #0" = 0  # Timas #0
+  "特施科约 #0" = 0  # Texcoyo #0
+  "奎密彻特尔 #0" = 0  # Quimichetl #0
+  "奎扎尔曼琴 #0" = 0  # Quetzalmantzin #0
+  "帕尼琴 #0" = 0  # Panitzin #0
+  "欧波齐特里 #0" = 0  # Opochtli #0
+  "欧林特克 #0" = 0  # Olintecke #0
+  "诺帕尔金 #0" = 0  # Nopaltzin #0
+  "玛扎特尔 #0" = 0  # Mazatl #0
+  "伊兹夸乌金 #0" = 0  # Itzquautzin #0
+  "利维卡米纳 #0" = 0  # Ilhuicamina #0
+  "维克顿 #0" = 0  # Huicton #0
+  "埃雅威 #0" = 0  # Eyahue #0
+  "卡卡玛特辛 #0" = 0  # Cacamatzin #0
+  "阿沙卡亚 #0" = 0  # Axacaya #0
+  "阿坎巴尔 #0" = 0  # Ahcambal #0
+  "阿卡西特利 #0" = 0  # Acacitli #0
+  "特诺奇 #1" = 10  # Tenoch #1
+  "奇马尔波波卡 #1" = 10  # Chimalpopoca #1
+  "阿卡马皮奇特利 #1" = 10  # Acamapichtli #1
+  "索奇克恩特辛 #0" = 15  # Xochiquentzin #0
+  "特拉科特辛 #0" = 15  # Tlacotzin #0
+  "特维兹提基金 #0" = 15  # Tehuetstiquitzin #0
+  "莫特尔奇乌 #0" = 15  # Motelchiuh #0
+  "瓦尼金 #0" = 15  # Huanitzin #0
+  "提佐克 #0" = 20  # Tizoc #0
+  "奥希马尔波波卡 #0" = 20  # Ohimalpopoca #0
+  "伊兹柯阿特尔 #0" = 20  # Itzcoatl #0
+  "维齐利维特尔 #0" = 20  # Huitzilihuitl #0
+  "库伊特拉华克 #0" = 20  # Cuitlahuac #0
+  "库奥赫特莫克 #0" = 20  # Cuauhtemoc #0
+  "阿萨亚卡特尔 #0" = 20  # Axayacatl #0
+  "阿维索特 #0" = 20  # Auitzotl #0
+  "蒙提祖马 #0" = 40  # Moctezuma #0
+}
+leader_names = {
+  "阿卡特罗钦"  # Acatlotzin
+  "奥伊佐特"  # Ahuítzotl
+  "阿哈雅卡特尔"  # Axayacátl
+  "阿休奎钦"  # Axoquetzin
+  "卡卡玛特辛"  # Cacamatzin
+  "恰丘托拉托纳克"  # Chalchiutlatonac
+  "库奥赫特莫克"  # Cuauhtemoc
+  "库伊特拉华克"  # Cuitlahuac
+  "奎特拉尔皮托克"  # Cuitlalpitoc
+  "艾卡钦"  # Ecatzin
+  "Eyahue"
+  "Ezhuahuacatl"
+  "Huemac"
+  "Huestzin"
+  "Huitzilihuitl"
+  "Itzcoatl"
+  "Ixtlilxochitl"
+  "Izquemitl"
+  "Mazatl"
+  "Maxixcatzin"
+  "Moctezuma"
+  "Motelchiuh"
+  "Nauyotl"
+  "Nezahualpilli"
+  "Nopaltzin"
+  "Ocelopan"
+  "Olintecke"
+  "Opochtli"
+  "Oquitzin"
+  "Panitzin"
+  "Pimotl"
+  "Popopoyotl"
+  "Quahcoatl"
+  "Qualpopoca"
+  "Quilaztli"
+  "Quimichetl"
+  "Temilotecatl"
+  "Tezozomoc"
+  "Tizoc"
+  "Totoquihuatzin"
+  "Tzompantli"
+  "Xiconocatzin"
+  "Xochipanitzin"
+  "Xolotl"
+  "Xomimitl"
+  "Yaomauhitzin"
+  "Yaztachimal"
+  "Zincicha"
+  "Zoanacochtzin"
+  "Zolton"
+}
+ship_names = {
+  "Acolmiztli"
+  "Acolnahuacat"
+  "Ah Hoya"
+  "Ah Tzenul"
+  "Amimitl"
+  "Apanecatl"
+  "Atl"
+  "Atlau"
+  "Axoloa"
+  "Camaxtli"
+  "Centeot"
+  "Centzonuiznaua"
+  "Chalchiuhtlatonal"
+  "Chalchiuhtlicue"
+  "Chalchiutotolin"
+  "Chalmecalt"
+  "Chalmecaucihuilt"
+  "Chantico"
+  "Chichomexochtli"
+  "Chicomecoatl"
+  "Chiconahuai"
+  "Chihalma"
+  "Chualchihuitlcue"
+  "Cihuacaotyl"
+  "Cinteotl"
+  "Citlalatonac"
+  "Citlalicue"
+  "Ciucoatl"
+  "Coatlicue"
+  "Cochimetl"
+  "Coyolxauhqui"
+  "Cuauhcoatl"
+  "Ehehcatl"
+  "Eueucoyotl"
+  "Hopop Can"
+  "Huehueteotl"
+  "Huitzilopochtli"
+  "Huixtocihuatl"
+  "Itzcoliuhqui"
+  "Itzli"
+  "Itzpapalotl"
+  "Itzpzpalotl"
+  "Ixtlilton"
+  "Iztamixcoatzin"
+  "Macuilxochitl"
+  "Mahayuel"
+  "Malinalxochi"
+  "Matalcueye"
+  "Metztli"
+  "Mictlan"
+  "Mictlancihuntl"
+  "Mictlantechtle"
+  "Mictlantechupi"
+  "Mictlantecihuatl"
+  "Mixcoatl"
+  "Nanauatzin"
+  "Ococaltzin"
+  "Omecihuatl"
+  "Ometecuhlti"
+  "Ometeotl"
+  "Omeyocan"
+  "Patecatli"
+  "Paynal"
+  "Quetzalcoatl"
+  "Tecciztecatl"
+  "Teoyaomqui"
+  "Tepeyollotl"
+  "Teteoinnan"
+  "Tezacoatl"
+  "Tezcatlipoca"
+  "Tillan-Tlapallan"
+  "Tlaloc"
+  "Tlalocan"
+  "Tlaltechhtlii"
+  "Tlazolteotl"
+  "Tonacatecuhtli"
+  "Tonatiuhican"
+  "Tonatiuth"
+  "Tzitmime"
+  "Xilonen"
+  "Xipe Totec"
+  "Xiucoatl"
+  "Xiuhtecuhtli"
+  "Xochipilli"
+  "Xochiquetzal"
+  "Xolotl"
+  "Xonecuilli"
+  "Yacatechutli"
+}

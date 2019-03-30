@@ -1,0 +1,982 @@
+graphical_culture = easterngfx
+color = {
+  9
+  9
+  103
+}
+historical_idea_groups = {
+  religious_ideas
+  defensive_ideas
+  spy_ideas
+  trade_ideas
+  offensive_ideas
+  economic_ideas
+  diplomatic_ideas
+  innovativeness_ideas
+}
+historical_units = {
+  eastern_medieval_infantry
+  eastern_knights
+  slavic_stradioti
+  eastern_militia
+  ottoman_spahi
+  ottoman_sekban
+  ottoman_reformed_spahi
+  ottoman_reformed_janissary
+  ottoman_toprakli_hit_and_run
+  ottoman_nizami_cedid
+  ottoman_toprakli_dragoon
+  eastern_skirmisher
+  eastern_uhlan
+  eastern_carabinier
+  ottoman_new_model
+  ottoman_lancer
+}
+monarch_names = {
+  "托马斯 #0" = 0  # Thomas #0
+  "狄奥多罗斯 #0" = 0  # Theodoros #0
+  "塔索斯 #0" = 0  # Tasos #0
+  "斯特凡诺斯 #0" = 0  # Stefanos #0
+  "斯坎达里奥斯 #0" = 0  # Skantarios #0
+  "普罗科皮奥斯 #0" = 0  # Prokopios #0
+  "菲利波斯 #0" = 0  # Philippos #0
+  "菲利蒙 #0" = 0  # Philemon #0
+  "佩特罗斯 #0" = 0  # Petros #0
+  "佩拉吉奥斯 #0" = 0  # Pelagios #0
+  "帕莱蒙 #0" = 0  # Palaemon #0
+  "奥雷斯特斯 #0" = 0  # Orestes #0
+  "尼科梅达斯 #0" = 0  # Nikomedes #0
+  "涅斯托尔 #0" = 0  # Nestor #0
+  "马太奥斯 #0" = 0  # Matthaios #0
+  "曼努埃尔 #0" = 0  # Manuel #0
+  "兰布罗斯 #0" = 0  # Lambros #0
+  "卡斯托耳 #0" = 0  # Kastor #0
+  "约安尼斯 #0" = 0  # Ioannes #0
+  "伊阿宋 #0" = 0  # Iason #0
+  "赫拉克勒斯 #0" = 0  # Herakles #0
+  "赫克托 #0" = 0  # Hektor #0
+  "格里高利 #0" = 0  # Gregorios #0
+  "埃尔皮迪奥斯 #0" = 0  # Elpidios #0
+  "埃尔雷奈奥斯 #0" = 0  # Eirenaios #0
+  "狄俄尼索斯 #0" = 0  # Dionysos #0
+  "第欧根尼 #0" = 0  # Diogenes #0
+  "德米特里 #0" = 0  # Dimitrios #0
+  "大卫 #0" = 0  # David #0
+  "克莱山托斯 #0" = 0  # Chrysanthos #0
+  "巴西尔 #0" = 0  # Basileios #0
+  "巴尔托洛迈奥斯 #0" = 0  # Bartholomaios #0
+  "安布罗西奥斯 #0" = 0  # Ambrosios #0
+  "阿莱克修斯 #0" = 0  # Alexeios #0
+  "埃涅阿斯 #0" = 0  # Aineias #0
+  "索菲娅 #0" = -1  # Sophia #0
+  "塞瓦斯蒂 #0" = -1  # Sevasti #0
+  "塔莉亚 #0" = -1  # Thalia #0
+  "曼托 #0" = -1  # Manto #0
+  "拉斯科琳娜 #0" = -1  # Laskarina #0
+  "欧佛洛绪涅 #0" = -1  # Euphrosyne #0
+  "伊琳娜 #0" = -1  # Eirene #0
+  "阿尔泰米茜娅 #0" = -1  # Artemisia #0
+  "安娜 #0" = -5  # Anna #0
+  "安东妮娅 #0" = -5  # Antonia #0
+  "亚历山德拉 #0" = -10  # Alexandra #0
+  "尼科劳斯 #0" = 10  # Nikolaos #0
+  "安德烈亚斯 #0" = 10  # Andreas #0
+  "帕夫洛斯 #0" = 15  # Pavlos #0
+  "君士坦丁 #0" = 20  # Konstantinos #0
+  "亚历山德罗斯 #0" = 20  # Alexandros #0
+  "乔治奥斯 #0" = 40  # Georgios #0
+}
+leader_names = {
+  "阿尼娜"  # Anina
+  "安哲罗普洛斯"  # Angelopoulos
+  "安德鲁彻斯"  # Androutsos
+  "奥拉科斯"  # Aulakos
+  "博扎里斯"  # Botsaris
+  "布布里斯"  # Bouboulis
+  "查特里斯"  # Chatzeris
+  "克里斯蒂亚诺普洛斯"  # Christianopoulos
+  "卡兹摩斯科斯"  # Chatzimoschos
+  "达里安尼斯"  # Dalianis
+  "都比奥蒂斯"  # Doumpiotis
+  "迪亚科斯"  # Diakos
+  "丹格里斯"  # Danglis
+  "达格雷斯"  # Dagres
+  "德利根尼斯"  # Deligiannis
+  "达摩戈斯"  # Damodos
+  "弗莱萨斯"  # Flessas
+  "法尔马基迪斯"  # Farmakidis
+  "格吉亚斯"  # Gotzias
+  "格内米斯"  # Gonemis
+  "古拉斯"  # Gouras
+  "吉亚特拉格斯"  # Giatrakos
+  "加扎里斯"  # Gazalis
+  "哈吉佩特罗斯"  # Hatzipetros
+  "卡普地斯特里亚斯"  # Kapodistrias
+  "科洛科特罗尼斯"  # Kolokotronis
+  "卡赖斯卡基斯"  # Karaiskakis
+  "卡纳里斯"  # Kanaris
+  "卡森尼斯"  # Katsonis
+  "卡利开斯"  # Karykes
+  "科塔利斯"  # Kontares
+  "卡拉扎斯"  # Karatzas
+  "克里耶佐蒂斯"  # Kriezotis
+  "基尔耶吉斯"  # Kirezis
+  "康托里奥蒂斯"  # Kountouriotis
+  "科雷斯"  # Korais
+  "凯利斯"  # Kairis
+  "基里亚齐斯"  # Kyriazis
+  "康托斯塔夫洛斯"  # Kontostavlos
+  "卢卡里斯"  # Loukaris
+  "利维尼斯"  # Livinis
+  "马夫罗科尔达托斯"  # Mavrokordatos
+  "马夫里基奥斯"  # Mavrikios
+  "马克里斯"  # Makris
+  "马夫罗米查利斯"  # Mavromichalis
+  "梅勒托普洛斯"  # Meletopoulos
+  "迈塔克瑟"  # Metaxas
+  "米利奥斯"  # Milios
+  "梅塔尼斯"  # Meintanis
+  "马夫罗根尼斯"  # Mavrogenes
+  "诺塔拉斯"  # Notaras
+  "佩加斯"  # Pegas
+  "帕特拉罗斯"  # Patelaros
+  "佩雷卡西斯"  # Pelekasis
+  "佩特罗巴斯"  # Petrovas
+  "帕努基亚斯"  # Panourgias
+  "帕帕斯"  # Pappas
+  "帕帕托尼斯"  # Papatsonis
+  "帕帕扎菲罗普洛斯"  # Papazafiropoulos
+  "萨利达斯"  # Psalidas
+  "帕帕尼科利斯"  # Papanikolis
+  "匹诺契斯"  # Pinotsis
+  "拉奇科奇卡斯"  # Ratzikotsikas
+  "塞尔佩佐格鲁"  # Serpetzoglou
+  "斯库法斯"  # Skoufas
+  "萨都利斯"  # Sachtouris
+  "斯库尔蒂斯"  # Skourtis
+  "斯塔马泰洛普洛斯"  # Stamatelopoulos
+  "苏马利斯"  # Soumalis
+  "特利安塔菲罗斯"  # Triantaphyllos
+  "萨卡洛夫"  # Tsakalov
+  "索克里斯"  # Tsokris
+  "托姆巴齐斯"  # Tombazis
+  "沃科斯"  # Vokos
+  "贝鲁西斯"  # Verousis
+  "巴西琉"  # Vasileiou
+  "沃加里斯"  # Voulgaris
+  "桑索斯"  # Xanthos
+  "西罗斯"  # Xiros
+  "伊普西兰蒂斯"  # Ypsilantis
+  "伊安努扎斯"  # Yiannouzas
+  "扎里吉斯"  # Zalykis
+  "吉拉斯"  # Zeras
+}
+ship_names = {
+  "伊德拉"  # Ydra
+  "莱斯沃斯"  # Lesvos
+  "利姆诺斯"  # Limnos
+  "米科诺斯"  # Mikonos
+  "萨拉米斯"  # Salamis
+  "萨摩斯"  # Samos
+  "塞米斯托克利斯"  # Themistoklis
+  "埃夫里皮迪斯"  # Evripidis
+  "埃斯库罗斯"  # Aischylos
+  "阿里斯多法尼斯"  # Aristofanis
+  "阿基米德"  # Archimedes
+  "德谟克利特"  # Demokritos
+  "阿纳克萨哥拉斯"  # Anaxagoras
+  "狄俄墨得斯"  # Diomedes
+  "赫拉克勒斯"  # Herakles
+  "阿特雷斯"  # Atreas
+  "波西斯"  # Perseas
+  "埃吉普托斯"  # Aigyptos
+  "艾洛斯"  # Aiolos
+  "波塞冬"  # Poseidon
+  "雅典娜"  # Athena
+  "宙斯"  # Zeus
+  "迪亚斯"  # Dias
+  "克洛诺斯"  # Kronos
+  "雷亚"  # Rea
+  "乌拉诺斯"  # Ouranos
+  "赫拉"  # Hera
+  "阿多尼斯"  # Adonis
+  "阿芙洛狄忒"  # Afroditi
+  "拂晓"  # Charavgi
+  "俄里翁"  # Orion
+  "伊阿宋"  # Iasonas
+  "特修斯"  # Theseus
+  "阿喀琉斯"  # Achilleas
+  "梅尔米顿"  # Mermidon
+  "马其顿"  # Makedon
+  "拉克德蒙"  # Lakedemon
+  "雅典人"  # Athineos
+  "色诺芬"  # Xenofon
+  "米提阿德斯"  # Miltiades
+  "亚历山德罗斯"  # Alexandros
+  "梅加勒山德罗斯"  # Megalexandros
+  "戈耳工"  # Gorgona
+  "美狄亚"  # Midia
+  "欧忒耳佩"  # Efterpi
+  "安德里亚塔斯"  # Andriantas
+  "德米特拉"  # Demetra
+  "埃斯蒂亚"  # Estia
+  "阿波罗"  # Apollon
+  "艾米斯"  # Ermis
+  "戈耳戈博达洛斯"  # Gorgopodaros
+  "戈耳戈普列弗斯托斯"  # Gorgoplefstos
+  "阿耳忒弥斯"  # Artemis
+  "阿里斯"  # Aris
+  "赛奥法尼斯"  # Theofanis
+  "狄奥查拉"  # Theochara
+  "菲利普波斯"  # Filippos
+  "埃德萨"  # Edessa
+  "爱奥尼亚"  # Ionia
+  "科林斯"  # Korinthos
+  "斯巴达"  # Sparti
+  "雅典"  # Athenai
+  "墨西拿"  # Messina
+  "阿索斯帕蒂"  # Anthosparti
+  "坎波斯"  # Kampos
+  "阿古利达"  # Argolida
+  "阿尔戈"  # Argo
+  "赫菲斯托斯"  # Hephestos
+  "赫菲斯提翁"  # Hephestion
+  "尼尔乔斯"  # Nearchos
+  "帕曼纽"  # Parmenion
+  "列奥尼达"  # Leonidas
+  "阿韦罗夫"  # Averof
+  "赫里斯托斯"  # Christos
+  "克里斯托佛罗斯"  # Christoforos
+  "圣克里斯托佛罗斯"  # Agios Christoforos
+  "克里斯托佛罗斯皇帝"  # Vasileus Christoforos
+  "狄奥多拉"  # Theodora
+  "圣狄奥多拉"  # Agia Theodora
+  "圣狄奥多罗斯"  # Agios Theodoros
+  "狄奥多罗斯皇帝"  # Vasileus Theodoros
+  "将军"  # Aftokrator
+  "狄奥多拉皇后"  # Vasillisa Theodora
+  "尼基弗鲁斯"  # Nikephoros
+  "圣尼基弗鲁斯"  # Agios Nikephoros
+  "尼基弗鲁斯皇帝"  # Vasileus Nikephoros
+  "帕夫洛斯"  # Pavlos
+  "使徒帕夫洛斯"  # Apostolos Pavlos
+  "圣帕夫洛斯"  # Osios Pavlos
+  "阿莱克修斯"  # Alexios
+  "圣阿莱克修斯"  # Agios Alexios
+  "圣阿列克夏"  # Agia Alexia
+  "阿列克夏"  # Alexia
+  "阿莱克修斯皇帝"  # Vasileus Alexios
+  "阿列克夏皇后"  # Vasilissa Alexia
+  "君士坦丁"  # Konstantinos
+  "圣君士坦丁"  # Agios Konstantinos
+  "君士坦丁大帝"  # Konstantinos o Megas
+  "君士坦丁皇帝"  # Vasileus Konstantinos
+  "君士坦丁大帝"  # Autokrator Konstantinos
+  "希拉克略"  # Herakleios
+  "圣希拉克略"  # Agios Herakleios
+  "希拉克略皇帝"  # Vasileus Herakleios
+  "圣希拉克列迪奥斯"  # Agios Herakleidios
+  "圣塞尔吉奥斯"  # Agios Sergios
+  "圣马克西莫斯"  # Agios Maximos
+  "圣阿塔纳修斯"  # Agios Athanasios
+  "圣阿塔纳西娅"  # Agia Athanasia
+  "圣爱兰妮"  # Agia Eleni
+  "爱兰妮"  # Eleni
+  "美丽的爱兰妮"  # Oraia Eleni
+  "爱兰妮皇后"  # Vasilissa Eleni
+  "阿夫托克拉蒂拉 爱兰妮"  # Aftokrateira Eleni
+  "君士坦丁 凯 爱兰妮"  # Konstantinos kai Eleni
+  "斯特凡诺斯"  # Stephanos
+  "圣斯特凡诺斯"  # Agios Stephanos
+  "圣斯特凡尼亚"  # Agia Stephania
+  "斯特凡诺斯皇帝"  # Vasileus Stephanos
+  "斯特凡诺斯将军"  # Autokrator Stephanos
+  "天使长米迦勒"  # Archangellos Michael
+  "天使长加百列"  # Archangellos Gavriel
+  "天使长乌列"  # Archangellos Uriel
+  "天使长"  # Archangellos
+  "安杰洛斯"  # Angelos
+  "神使"  # Exangelos
+  "六翼天使"  # Exapterygon
+  "基路伯"  # Cheruvim
+  "撒拉弗"  # Seraphim
+  "圣者"  # Osios
+  "奥西亚"  # Osia
+  "奥斯蒂亚"  # Ostia
+  "优士蒂尼安尼"  # Ioustiniani
+  "圣查士丁尼"  # Agios Ioustinianos
+  "圣优士蒂尼安尼"  # Agia Ioustiniani
+  "查士丁尼将军"  # Aftokrator Ioustinianos
+  "查士丁尼皇帝"  # Vasileus Ioustinianos
+  "查士丁尼大帝"  # Ioustinianos o Megas
+  "迈克尔皇帝"  # Vasileus Michael
+  "安德罗尼科斯"  # Andronikos
+  "安德罗尼卡"  # Androniki
+  "圣安德洛尼卡"  # Agios Andronikos
+  "圣安德罗尼卡"  # Agia Androniki
+  "安德罗尼卡皇帝"  # Vasileus Andronikos
+  "巴西尔"  # Vasileios
+  "巴西蕾娅"  # Vasileia
+  "圣巴西尔"  # Agios Vasileios
+  "圣巴西蕾娅"  # Agia Vasileia
+  "巴西尔皇帝"  # Vasileus Vasileios
+  "巴西尔-保加利亚人屠夫"  # Vasileios o Vulgaroktonos
+  "佐伊"  # Zoe
+  "圣佐伊"  # Agia Zoe
+  "圣佐伊"  # Iera Zoe
+  "佐伊皇后"  # Vasilissa Zoe
+  "贝利撒留"  # Velissarios
+  "皮里"  # Piri
+  "雷斯"  # Reis
+  "阿埃托斯"  # Aetos
+  "迪基法罗斯 阿埃托斯"  # Dikephalos Aetos
+  "北迪基法罗斯"  # Dikephalos tou Vorra
+  "三叶草"  # Tryfilli
+  "奥利匹俄斯"  # Olympios
+  "海豚"  # Delphini
+  "德尔菲纳"  # Delphina
+  "戒律"  # Apochis
+  "复仇者"  # Nemesis
+  "傲慢者"  # Yvris
+  "恶龙"  # Drakon
+  "莱克格斯"  # Lykourgos
+  "索伦"  # Solon
+  "克洛伊索斯"  # Kroisos
+  "利西波斯"  # Lysippos
+  "裴迪亚斯"  # Phedias
+  "阿德斯"  # Ades
+  "冥王"  # Plutonas
+  "波塞冬的浴缸"  # Mpaniera tou Poseidona
+  "伊卡洛斯"  # Ikaros
+  "代达罗斯"  # Daidalos
+  "伊卡里亚"  # Ikaria
+  "因弗罗斯"  # Imvros
+  "烤炉"  # Fournoi
+  "基亚"  # Kia
+  "纳克索斯"  # Naxos
+  "希俄斯"  # Chios
+  "救世主赫里斯托斯"  # Christos Soter
+  "救世主"  # Soter
+  "索特里奥斯"  # Soterios
+  "索佐米诺斯"  # Sozomenos
+  "专制者"  # Despotis
+  "专制者摩里亚"  # Despotis tou Moria
+  "佩罗博尼索斯"  # Peloponissos
+  "拉夫普里欧"  # Nafplio
+  "阿索斯"  # Athos
+  "圣奥罗斯"  # Agion Oros
+  "至圣者"  # Panagia
+  "至圣玛利亚"  # Panagia Parthena
+  "至圣克里索洛基亚蒂萨"  # Panagia Chrysorogiatissa
+  "至圣普列梅尼"  # Panagia Pleomeni
+  "至圣妲凯苏萨"  # Panagia Dakryzousa
+  "至圣罗梅恩"  # Panagia Romaion
+  "至圣米特拉"  # Panagia Mitera
+  "至圣克里索斯比丽奥迪萨"  # Panagia Chrysospilliotisa
+  "至圣安佩罗卡莫蒂"  # Panagia Ampelokamoti
+  "至圣皮嘉苏萨"  # Panagia Pigazousa
+  "至圣安苏萨"  # Panagia Anthousa
+  "赫克托"  # Hektor
+  "墨涅拉俄斯"  # Menelaos
+  "阿伊亚斯"  # Aias
+  "阿伊亚斯 奥 特拉摩尼奥斯"  # Aias o Telamonios
+  "奥迪西亚斯"  # Odysseas
+  "伊萨卡"  # Ithaki
+  "蒂勒马科斯"  # Tilemachos
+  "佩内洛普"  # Penelopi
+  "米诺亚斯"  # Minoas
+  "米诺特福洛斯"  # Minotavros
+  "特里丰"  # Tryfon
+  "阿伽门农"  # Agamemnon
+  "伊菲革涅亚"  # Ifigeneia
+  "大不里士"  # Tavrida
+  "塔夫洛斯"  # Tavros
+  "伊菲斯"  # Ichthys
+  "卡拉克希亚"  # Galaxias
+  "阿斯蒂尔"  # Astir
+  "星星"  # Asteras
+  "红星"  # Erythros Asteras
+  "伯利恒之星"  # Asteri tis Vithleem
+  "圣地"  # Agioi Topoi
+  "耶路撒冷"  # Ierosolima
+  "亚历山大里亚"  # Alexandreia
+  "上帝的荣耀"  # Doxa tou Theou
+  "上帝之喜"  # Chara Theou
+  "多摩"  # Tama
+  "殉道者"  # Ieromartyras
+  "塞浦路斯人"  # Kyprianos
+  "总主教"  # Archiepiskopos
+  "主教"  # Episkopos
+  "杜卡斯"  # Doukas
+  "罗尼恩"  # Ionion
+  "爱琴"  # Aigaion
+  "克里提坎"  # Kritikon
+  "克里特"  # Kriti
+  "佐尼安娜"  # Zoniana
+  "赫拉克利亚"  # Herakleia
+  "伊拉克利翁"  # Herakleion
+  "哈尼亚"  # Chania
+  "莱斯沃斯"  # Lesvos
+  "塞浦路斯"  # Kypros
+  "罗德"  # Rodos
+  "巨人"  # Gigantas
+  "波吕斐摩斯"  # Polyphimos
+  "拉斯忒吕戈涅斯"  # Laistrygona
+  "拉米亚"  # Lamia
+  "斯库拉"  # Skylla
+  "卡律布狄斯"  # Charyvdi
+  "厄喀德那"  # Echidna
+  "巨蛇"  # Ofis
+  "艾娃"  # Eva
+  "赫勒斯潘多斯"  # Hellespontos
+  "攸克辛海"  # Efxeinos Pontos
+  "普罗科皮奥斯"  # Prokopios
+  "普罗科皮亚"  # Prokopia
+  "圣普罗科皮奥斯"  # Agios Prokopios
+  "勤奋者"  # Prokomenos
+  "弗列克索斯"  # Frixos
+  "艾利"  # Elli
+  "克基拉"  # Kerkyra
+  "裁决者"  # Kyriarchos
+  "半人马"  # Kentavros
+  "凯撒"  # Kaisar
+  "雷霆"  # Keravnos
+  "金角湾"  # Keratios
+  "雅加达"  # Keraton
+  "君士坦丁堡"  # Konstantinoupolis
+  "利昂 斯克里洛斯"  # Leon Skleros
+  "吕基亚"  # Lykia
+  "海上猎犬"  # Thalassolykos
+  "伟大者"  # Megaleion
+  "荣耀的马其顿"  # Megaleion tis Makedonias
+  "小亚细亚"  # Mikra Asia
+  "莫尔菲亚斯"  # Morfeas
+  "奥尔菲亚斯"  # Orfeas
+  "埃弗里迪基"  # Evridiki
+  "凯里尼亚"  # Keryneia
+  "法马古斯塔"  # Ammochostos
+  "勒德拉"  # Ledra
+  "帕福斯"  # Pafos
+  "阿卡马斯"  # Akamas
+  "阿马图斯"  # Amathous
+  "艾瓦格拉斯"  # Evagoras
+  "查尔坎诺拉斯"  # Chalkanoras
+  "格里高利"  # Grigorios
+  "凯利洛斯"  # Kyrillos
+  "梅索迪奥斯"  # Methodios
+  "尼科"  # Nike
+  "俄刻阿诺斯"  # Okeanos
+  "提拉诺斯"  # Tyranos
+  "奥雷斯特斯"  # Orestis
+  "上帝之怒"  # Orgi Theou
+  "正统"  # Orthodoxia
+  "卢西亚"  # Loukia
+  "卢坎尼"  # Loukiani
+  "圣卢卡斯"  # Agios Loukas
+  "圣卢卡斯"  # Osios Loukas
+  "先知以利亚"  # Profitis Helias
+  "艾里阿斯"  # Ai Lias
+  "先知"  # Profitis
+  "桑普森"  # Sampson
+  "大卫"  # David
+  "歌利亚"  # Goliath
+  "家园"  # Patrida
+  "希腊家园"  # Ellas Patrida
+  "帕特里斯"  # Patris
+  "米特拉"  # Mitera
+  "帕特拉斯"  # Pateras
+  "佩特"  # Pater
+  "帕帕斯"  # Papas
+  "帕帕迪亚"  # Papadia
+  "迪亚科诺"  # Diakonos
+  "阿特拉斯"  # Atlas
+  "土卫二"  # Egkelados
+  "泰坦"  # Titanas
+  "许珀里翁"  # Yperion
+  "赫利俄斯"  # Helios
+  "太阳神主宰者"  # Helios Pantokrator
+  "狄俄墨得斯"  # Diomedes
+  "阿夫杰亚斯"  # Avgeas
+  "阿彻罗斯"  # Achellos
+  "阿凯洛斯"  # Acheros
+  "斯蒂法丽达"  # Stymfalida
+  "勒夫尼亚"  # Lernea
+  "勒夫尼亚 伊德拉"  # Lernea Ydra
+  "尼米亚"  # Nemea
+  "尼米亚之狮"  # Leon tis Nemeas
+  "卡普里"  # Kapros
+  "埃里曼狄亚"  # Erymanthea
+  "莫纳斯蒂里"  # Monastiri
+  "乌拉诺斯"  # Ouranos
+  "涅菲里"  # Nefeli
+  "吉亚"  # Gea
+  "海洋"  # Thalassa
+  "地中海"  # Mesogeios
+  "公民"  # Politis
+  "统治者"  # Vasilevousa
+  "大洋之主"  # Thalassokrator
+  "猎豹"  # Pantheras
+  "利昂"  # Leon
+  "佩拉格斯"  # Pelargos
+  "梅眀卡斯"  # Mermigkas
+  "奥诺斯"  # Onos
+  "塞萨利"  # Thesallia
+  "帖撒罗尼迦"  # Thesalloniki
+  "狄奥菲拉克托斯"  # Theophylaktos
+  "准将"  # Taxiarchos
+  "元帅"  # Stratilatis
+  "首领"  # Oplarchigos
+  "海军上将"  # Navarchos
+  "西西里"  # Sikelia
+  "希腊"  # Ellas
+  "萨摩斯"  # Samos
+  "萨莫色雷斯"  # Samothraki
+  "色雷斯"  # Thraki
+  "罗多彼"  # Rodopi
+  "亚历山德鲁波利斯"  # Alexandroupoli
+  "阿德里安堡"  # Andrianoupolis
+  "传奇"  # Thrylos
+  "特里通"  # Triton
+  "海胆"  # Achinos
+  "星星"  # Asterias
+  "克西菲亚斯"  # Xiphias
+  "剑士"  # Xiphomachos
+  "短剑"  # Xiphos
+  "阔刀"  # Spatha
+  "扎金索斯"  # Zakynthos
+  "赠礼者"  # Zoodotis
+  "至高者"  # Ypertatos
+  "阿德里安"  # Andrianos
+  "安提莫斯"  # Anthimos
+  "德拉古曼诺斯"  # Dragumanos
+  "阿克里达斯"  # Akritas
+  "第根尼"  # Digenis
+  "第根尼 阿克里达斯"  # Digenis Akritas
+  "马夫罗斯奇罗斯"  # Mavroskyllos
+  "恰伦"  # Charon
+  "卡林诺斯"  # Kalymnos
+  "美丽的卡林诺斯"  # Oraia Kalymnos
+  "普萨拉"  # Psara
+  "普萨拉斯"  # Psaras
+  "瓦良格"  # Varrangios
+  "格索斯"  # Gothos
+  "庞修斯"  # Pontios
+  "马夫罗马达"  # Mavromata
+  "普拉希诺马达"  # Prasinomata
+  "卡斯达诺马达"  # Kastanomata
+  "小猫"  # Gata
+  "伽托什"  # Gatos
+  "诡影者"  # Magkas
+  "暴徒"  # Foneas
+  "鲨鱼"  # Karcharias
+  "角鲨"  # Skyllopsaro
+  "彼洛菲斯"  # Pyrofis
+  "鱼鹰"  # Stavraetos
+  "芝诺"  # Zenon
+  "小刀"  # Machairas
+  "奇科斯"  # Kykkos
+  "安索斯"  # Anthos
+  "乌鸦"  # Korax
+  "漆黑乌鸦"  # Mavros Korax
+  "恐惧者"  # Phovos
+  "迪莫斯"  # Dimos
+  "狄奥多罗斯 科洛科特罗尼斯"  # Theodoros Kolokotronis
+  "奥迪西亚斯 安德鲁彻斯"  # Odysseas Andrutsos
+  "乔治奥斯 卡赖斯卡基斯"  # Georgios Karaiskakis
+  "国王菲莱奥斯"  # Rigas Ferraios
+  "狄奥尼希奥斯 索洛莫斯"  # Dionysios Solomos
+  "狄奥尼希奥斯"  # Dionysios
+  "狄俄尼索斯"  # Dionysos
+  "塔洛斯"  # Talos
+  "欧忒耳佩"  # Efterpi
+  "布布丽娜"  # Mpoumpoulina
+  "曼图 马维罗根斯"  # Manto Mavrogenous
+  "君士坦丁 卡纳里斯"  # Konstantinos Kanaris
+  "尼基塔拉斯"  # Nikitaras
+  "图尔科法戈"  # Tourkofagos
+  "尼基塔斯"  # Nikitas
+  "保加利亚人屠夫"  # Vulgaroktonos
+  "迈索隆吉翁"  # Messologi
+  "巴列奥略"  # Palaiologos
+  "科穆宁"  # Komnenos
+  "伊萨克 科穆宁"  # Isaakios Komnenos
+  "热情者"  # Thalpori
+  "拉萨罗斯"  # Lazaros
+  "使徒安德烈亚斯"  # Apostolos Andreas
+  "使徒巴拿马"  # Apostolos Varnavas
+  "使徒卢卡斯"  # Apostolos Loukas
+  "使徒托马斯"  # Apostolos Thomas
+  "使徒佩特罗斯"  # Apostolos Petros
+  "使徒雅科沃斯"  # Apostolos Iakovos
+  "使徒斯特凡诺斯"  # Apostolos Stephanos
+  "使徒约安尼斯"  # Apostolos Ioannis
+  "Apostolos Simonas "Apostolos
+  Vartholomaios" "Apostolos
+  Thaddeos" "12
+  Apostoloi" "Agioi
+  Saranta" "Agioi
+  "潘忒斯"  # Pantes
+  "圣尼科劳斯"  # Agios Nikolaos
+  "水手"  # Naftikos
+  "刚毅的普萨隆"  # O Leventis ton Psaron
+  "莱文蒂斯"  # Leventis
+  "震颤"  # Tromos
+  "里该纳"  # Rigaina
+  "国王"  # Rigas
+  "杜凯纳"  # Doukaina
+  "狄俄斯库"  # Dioskouroi
+  "罗马"  # Romos
+  "罗穆卢斯"  # Romylos
+  "罗马和罗穆卢斯"  # Romos kai Romylos
+  "牧师安德烈"  # Papandreas
+  "牧师米凯利斯"  # Papamichalis
+  "牧师君士坦丁"  # Papakonstantinos
+  "圣德米特里"  # Agios Demetrios
+  "圣狄奥多罗斯"  # Agios Theodoros
+  "圣玛丽娜"  # Agia Marina
+  "圣艾弗兰比亚"  # Agia Evlampia
+  "圣哈拉兰比亚"  # Agia Charalambia
+  "圣哈拉兰博斯"  # Agios Charalambos
+  "圣查里劳斯"  # Agios Charilaos
+  "圣安东尼奥斯"  # Agios Antonios
+  "圣安东妮娅"  # Agia Antonia
+  "圣安弗罗修"  # Agios Amvrosios
+  "至圣安杰洛瓦斯塔夫蒂"  # Panagia Aggelovastachti
+  "至圣慈善"  # Panagia Filoptochi
+  "至圣萨拉索菲利蒂"  # Panagia Thalassofiliti
+  "萨拉索玛科斯"  # Thalassomachos
+  "安菲特里第"  # Amfitriti
+  "海上骏马"  # Thalassios Ippos
+  "海上雄狮"  # Thalassios Leontas
+  "帕索克托诺"  # Persoktonos
+  "伊苏里亚将军"  # Autokrator Isavros
+  "马其顿将军"  # Autokrato Makedon
+  "狄卡拉"  # Thekla
+  "圣狄卡拉"  # Agia Thekla
+  "牧师弗雷萨斯"  # Papaflessas
+  "亚历山大 伊普西兰蒂斯"  # Alexandros Ypsilantis
+  "新爱奥尼亚"  # Nea Ionia
+  "阿里卡纳索"  # Alikarnassos
+  "布凯法拉"  # Voukefalas
+  "海浪上的泡沫"  # Afros tou Kymmatos
+  "海之沫"  # Afros tis Thalassas
+  "特列里斯"  # Trieiris
+  "伊丽丝"  # Iris
+  "达夫尼"  # Daphni
+  "萨拉米斯"  # Salamis
+  "温泉之地"  # Thermopyles
+  "马拉松"  # Marathon
+  "普拉提亚"  # Platees
+  "帖瓦"  # Theva
+  "七雄攻忒拜"  # Epta Epi Thevas
+  "普拉提亚"  # Platees
+  "德文尼卡"  # Dervenakia
+  "艾丽菲洛 波利"  # Elefthero Pouli
+  "派里斯泰拉"  # Peristera
+  "美丽的派里斯泰拉"  # Oraia Peristera
+  "骄傲者"  # Perifanos
+  "骄傲"  # Perifani
+  "荣耀"  # Perifania
+  "阿科里蒂康"  # Akritikon
+  "自由颂"  # Eleftheros Poliorkimenos
+  "自由"  # Eleftheros
+  "埃莱夫塞里娅"  # Eleftheria
+  "不自由毋宁死"  # Eleftheria H Thanatos
+  "第根尼 阿克里达斯皇帝"  # Vasileios Digenis Akritas
+  "普洛斯菲哥普拉"  # Prosfygopoulla
+  "大桥"  # Giofyri
+  "艺术之桥"  # Giofyrin tis Artas
+  "跨海之桥"  # Gefyra
+  "塞雷斯"  # Serres
+  "特里库皮斯"  # Trikoupis
+  "不朽者"  # Athanatos
+  "不朽"  # Athanati
+  "守誓河"  # Styga
+  "圣阿塔纳修斯"  # Agios Athanasios
+  "圣阿塔纳西娅"  # Agia Athanasia
+  "阿塔纳西娅"  # Athanasia
+  "高傲者"  # Agerochos
+  "高傲"  # Agerochi
+  "无懈可击"  # Atrotos
+  "无敌"  # Atroti
+  "帕夫亚摩斯"  # Pachyammos
+  "马亚"  # Maa
+  "圣帕拉斯凯维"  # Agia Paraskevi
+  "圣帕拉斯凯瓦斯"  # Agios Paraskevas
+  "拉纳卡"  # Larnaka
+  "阿马苏斯"  # Amathounta
+  "莱梅索斯"  # Lemesos
+  "科洛希"  # Kolossi
+  "巨像"  # Kolossos
+  "阿卡马斯"  # Akamas
+  "拉腊"  # Lara
+  "奥尼西罗斯"  # Onisilos
+  "马卡里奥斯"  # Makarios
+  "圣格里高利"  # Agios Grigorios
+  "佩特拉"  # Petra
+  "蜂箱"  # Kypseli
+  "梅莉莎"  # Melissa
+  "黄蜂"  # Sfikas
+  "雄峰"  # Kifinas
+  "梅利蒂尼"  # Meliteni
+  "坎特利"  # Kentri
+  "马夫拉奥里"  # Mavra Ori
+  "卡拉乔西斯"  # Karagkiozis
+  "牛纽斯"  # Nionios
+  "纳夫帕克托斯"  # Nafpaktos
+  "罗顿"  # Rodon
+  "安博罗普拉"  # Emporopoulla
+  "商人"  # Emporas
+  "胖子"  # Chontros
+  "丰硕"  # Chontri
+  "圣奥多斯"  # Iera Odos
+  "埃格纳蒂亚 奥多斯"  # Egnatia Odos
+  "埃格纳蒂亚"  # Egnatia
+  "伊格纳缇奥斯"  # Ignatios
+  "塔利斯"  # Thalis
+  "欧几里得"  # Efkleidis
+  "米洛斯"  # Milos
+  "奥米洛"  # Omiros
+  "伊里亚达"  # Iliada
+  "奥德赛"  # Odysseia
+  "菲亚卡斯"  # Faiakas
+  "菲拉卡斯"  # Fylakas
+  "哈尔基斯"  # Chalkida
+  "弗赛利达"  # Psalida
+  "星座"  # Zodia
+  "莫尔福"  # Morfou
+  "无形恶魔"  # Aeriko
+  "斯特凡纳"  # Stefana
+  "梦想"  # Oneiro
+  "奥纳尔"  # Onar
+  "伊拉里翁"  # Ilarion
+  "圣伊拉里翁"  # Agios Ilarion
+  "埃弗蒂奇亚"  # Eftychia
+  "圣艾弗蒂基奥斯"  # Agios Eftychios
+  "恰拉"  # Chara
+  "米斯特拉斯"  # Mystras
+  "第三查理"  # 3 Charites
+  "仙女"  # Nymfi
+  "宁菲斯"  # Nymfes
+  "阿里阿德涅"  # Ariadni
+  "士兵"  # Stratiotis
+  "帕里卡拉斯"  # Palikaras
+  "马科斯 波扎利斯"  # Markos Mpotsaris
+  "拉姆普斯 卡特森"  # Lampros Katsonis
+  "龙虾"  # Karavida
+  "螃蟹"  # Kavouri
+  "马娜 凯沃琳娜"  # Mana Kavourina
+  "马娜"  # Mana
+  "马娜 库拉吉奥"  # Mana Kouragio
+  "库拉吉奥"  # Kouragio
+  "北方"  # Voreios
+  "南方"  # Notios
+  "狄奥多拉的凝视"  # To Vlemma tis Theodoras
+  "里佐卡尔帕索"  # Rizokarpaso
+  "雷瑟"  # Lysis
+  "希塞统一"  # Enosis
+  "菲利波斯和马其顿"  # Philippos o Makedon
+  "欧洲"  # Evropi
+  "海巴夏"  # Ypatia
+  "阿里斯塔克斯"  # Aristarchos
+  "优越者"  # Aristos
+  "希腊"  # Ellada
+  "希腊人"  # Ellinopoulla
+  "罗马人"  # Romiopoulla
+  "美丽者"  # Omorfi
+  "奥摩弗拉"  # Omorfoulla
+  "妇女"  # Gynaika
+  "火焰与女人与海洋"  # Pyr Gyni kai Thalassa
+  "成就"  # Athlos
+  "贝茜"  # Mpessa
+  "使徒"  # Apostolos
+  "神圣之布"  # Pani tou Osiou
+  "圣布"  # Osio Pani
+  "船长"  # Kapetanios
+  "舰长"  # Kapetaneos
+  "铁锤"  # Sfyra
+  "海龟"  # Chelona
+  "生于紫宫"  # Porfyrogennitos
+  "博菲罗根尼斯"  # Porfyrogenis
+  "博菲罗斯"  # Porfyros
+  "黑胡子"  # Mavrogenis
+  "星期六"  # Savatogennimenos
+  "星期天"  # Kyriaki
+  "亚历克西斯王"  # Re Alexis
+  "公主"  # Prigkipessa
+  "王子"  # Prigkips
+  "牧羊人"  # Voskos
+  "牧民"  # Poimenas
+  "塔纳托斯"  # Thanatos
+  "国家"  # Ethnikos
+  "奥林匹亚"  # Olympia
+  "奥林匹亚科斯"  # Olympiakos
+  "运动者"  # Athlitis
+  "阿克修斯"  # Axios
+  "安塔修斯"  # Antaxios
+  "革命"  # Antartis
+  "卡里尼科斯"  # Kallinikos
+  "普雷斯帕"  # Prespa
+  "索菲亚"  # Sofia
+  "圣索菲亚"  # Agia Sofia
+  "布拉该亚"  # Vlacheia
+  "布拉科普拉"  # Vlachopoulla
+  "布拉切纳"  # Vlacherna
+  "卡法"  # Kaffa
+  "摩尔达维亚"  # Moldavia
+  "保加利亚"  # Vulgaria
+  "塞尔维亚"  # Servia
+  "马夫罗乌尼奥"  # Mavrovunion
+  "拉古萨"  # Ragusa
+  "都拉齐翁"  # Dyrrachion
+  "卡斯托里亚"  # Kastoria
+  "海狸"  # Kastoras
+  "木墙"  # Xylino Toichos
+  "珊诺"  # Xoanon
+  "区域"  # Zoni
+  "扎罗格斯"  # Zallogos
+  "非法地带"  # O Choros tou Zallogou
+  "亚该亚"  # Achaea
+  "埃伊纳"  # Aigina
+  "阿卑多斯"  # Avydos
+  "阿坎索斯"  # Akanthos
+  "阿格里尼恩"  # Agrinion
+  "亚历山大勒塔"  # Alexandretta
+  "帕特雷"  # Patra
+  "安提帕特拉"  # Antipatra
+  "阿米索斯"  # Amisos
+  "阿马林苏斯"  # Amarinthos
+  "安提戈纳"  # Antigona
+  "安提戈涅"  # Antigoni
+  "安菲波利斯"  # Amphipolis
+  "安条克"  # Antiocheia
+  "阿尼尔"  # Anir
+  "安德罗斯"  # Andros
+  "阿波罗尼亚"  # Apollonia
+  "阿尔戈斯"  # Argos
+  "伊莉亚"  # Elia
+  "橄榄树"  # Elaion
+  "安吉洛波利"  # Argyroupoli
+  "底格里斯"  # Tigris
+  "泰罗斯"  # Tyros
+  "弗因尼基"  # Foiniki
+  "阿斯克勒庇俄斯"  # Asklepios
+  "蓬托斯"  # Pontos
+  "庞修斯"  # Pontios
+  "瓦里"  # Varis
+  "贝伽"  # Verga
+  "比布鲁斯"  # Vyvlos
+  "拜占庭"  # Vyzantion
+  "博斯普鲁斯"  # Vosporos
+  "赫索尼索斯"  # Chersonesos
+  "凯尔基斯"  # Chalkis
+  "克罗顿"  # Kroton
+  "昔兰尼"  # Kyrinea
+  "德科利亚"  # Dekeleia
+  "提洛"  # Delos
+  "达尔菲"  # Delphoi
+  "占卜师"  # Mantis
+  "泰瑞西斯"  # Tiresias
+  "占卜师泰瑞西斯"  # Mantis Tiresias
+  "多多纳"  # Dodona
+  "多里莱乌姆"  # Doryaion
+  "多林"  # Doryn
+  "萨里沙长矛"  # Sarissa
+  "多里斯托伦"  # Dorystolon
+  "舰队"  # Stolos
+  "埃勒弗西斯"  # Elefsis
+  "以弗所"  # Ephesos
+  "埃皮达鲁斯"  # Epidavros
+  "埃雷特里亚"  # Eretria
+  "埃维亚"  # Efvoia
+  "加沙"  # Gaza
+  "亲人"  # Gonios
+  "家人"  # Goneas
+  "圣奥诺弗里俄斯"  # Agios Onoufrios
+  "圣特里亚达"  # Agia Triada
+  "阿里卡纳索"  # Alikarnassos
+  "赫利奥波利斯"  # Helioupolis
+  "希腊"  # Ellinikon
+  "耶拉波利斯"  # Ierapolis
+  "耶拉派特拉"  # Ierapetra
+  "奇美拉"  # Chimera
+  "伊阿西翁"  # Iasos
+  "伊阿利索斯"  # Ialysos
+  "伊萨卡"  # Ithaki
+  "加里波利"  # Kallipolis
+  "拱门"  # Kamares
+  "卡梅洛斯"  # Kameiros
+  "花园"  # Kipos
+  "园林"  # Kipoi
+  "基梅里孔"  # Kimmerikon
+  "尼多斯"  # Knidos
+  "吉奥斯"  # Kios
+  "支柱"  # Kionas
+  "克诺索斯"  # Knossos
+  "科斯"  # Kos
+  "库里安"  # Kourion
+  "劳迪基亚"  # Laodikeia
+  "拉普索斯"  # Lapithos
+  "雷先"  # Lation
+  "雷夫卡达"  # Lefkada
+  "利索斯"  # Lissos
+  "里因多斯"  # Lindos
+  "马格尼西亚"  # Magnesia
+  "马拉松"  # Marathonas
+  "马萨里亚"  # Massalia
+  "麦加拉"  # Megara
+  "迈索尼"  # Methoni
+  "米利都"  # Militos
+  "米拉萨"  # Mylasa
+  "纳夫克拉蒂斯"  # Nafkratis
+  "尼亚波利斯"  # Neapolis
+  "尼西亚"  # Nikea
+  "尼科波利斯"  # Nikopolis
+  "尼丰"  # Nymfeon
+  "尼萨"  # Nysa
+  "奥德索斯"  # Odessos
+  "奥尔比亚"  # Olvia
+  "奥尔霍迈诺斯"  # Orchomenos
+  "艾科米诺斯"  # Erchomenos
+  "帕莱卡斯特罗"  # Palaikastro
+  "潘多西亚"  # Pandosia
+  "菲斯托斯"  # Festos
+  "比雷亚斯"  # Pirreas
+  "佩拉"  # Pella
+  "法纳戈里亚"  # Phanagoria
+  "帕夫拉戈尼亚"  # Pamflagonia
+  "法纳基亚"  # Farnakia
+  "法罗丝"  # Faros
+  "菲利普"  # Fillipoi
+  "菲利普波利斯"  # Fillipopolis
+  "普拉塔诺斯"  # Platanos
+  "福基达"  # Fokida
+  "弗吉亚"  # Fokea
+  "埃利斯"  # Elis
+  "坎帕尼亚"  # Kampania
+  "甘波那"  # Kampana
+  "波塞冬尼亚"  # Poseidonia
+  "西弗洛斯"  # Psychros
+  "普赛拉"  # Pseira
+  "皮洛士"  # Pylos
+  "佩里恩"  # Pylion
+  "安佛利亚斯"  # Amforeas
+  "克拉松弗拉"  # Krassoamfora
+  "雷吉恩"  # Region
+  "锡诺普"  # Sinopi
+  "索佐波利斯"  # Sozopolis
+  "皮西蒂亚"  # Pisidia
+  "塔索斯"  # Thassos
+  "狄斯比亚"  # Thespia
+  "特拉古里安"  # Tragurion
+  "特拉比松"  # Trapeza
+  "圣特拉比松"  # Agia Trapeza
+  "特里波利斯"  # Tripolis
+  "特罗亚"  # Troia
+  "泰里索斯"  # Tylissos
+  "泰拉"  # Tyra
+  "巴西里基"  # Vasilliki
+  "扎克罗斯"  # Zakros
+  "巴菲佩特拉"  # Vathypetra
+  "美加洛佩特拉"  # Megalopetra
+}

@@ -1,0 +1,246 @@
+graphical_culture = asiangfx
+color = {
+  49
+  103
+  69
+}
+historical_idea_groups = {
+  offensive_ideas
+  defensive_ideas
+  maritime_ideas
+  trade_ideas
+  quality_ideas
+  spy_ideas
+  diplomatic_ideas
+  administrative_ideas
+}
+historical_units = {
+  japanese_archer
+  eastern_bow
+  japanese_footsoldier
+  japanese_samurai
+  asian_arquebusier
+  asian_charge_cavalry
+  asian_mass_infantry
+  asian_musketeer
+  reformed_asian_musketeer
+  reformed_asian_cavalry
+}
+monarch_names = {
+  "Tanekuni #0" = 50
+  "Takakuni #0" = 50
+  "Ujitsuna #0" = 50
+  "Yoshiyuki #0" = 50
+  "Michihisa #0" = 50
+  "Nariyuki #0" = 50
+  "Katsuhisa #0" = 50
+  "Masaharu #0" = 50
+  "Michimasa #0" = 50
+  "Motoari #0" = 50
+  "Ujihisa #0" = 50
+  "Noriharu #0" = 50
+  "Mototsune #0" = 50
+  "Yoritsuki #0" = 50
+  "Yorimoto #0" = 50
+  "Yoriharu #0" = 50
+  "Yoriari #0" = 50
+  "稻 #0" = -5  # Ina #0
+  "绫 #0" = -5  # Aya #0
+  "珠 #0" = -5  # Tama #0
+  "千 #0" = -5  # Sen #0
+  "督 #0" = -5  # Toku #0
+  "澄元 #0" = 50  # Sumimoto #0
+  "澄之 #0" = 50  # Sumiyuki #0
+  "政元 #0" = 50  # Masamoto #0
+  "胜元 #0" = 50  # Katsumoto #0
+  "持之 #0" = 50  # Mochiyuki #0
+  "持元 #0" = 50  # Mochimoto #0
+  "满元 #0" = 50  # Mitsumoto #0
+}
+leader_names = {
+  "赤松"  # Akamatsu
+  "明智"  # Akechi
+  "足利"  # Ashikaga
+  "尼子"  # Amago
+  "京极"  # Kyogoku
+  "六角"  # Rokkaku
+  "朝仓"  # Asakura
+  "浅野"  # Asano
+  "阿苏"  # Aso
+  "长宗我部"  # Chosokabe
+  "伊达"  # Date
+  "蜂须贺"  # Hachisuka
+  "畠山"  # Hatakeyama
+  "北条"  # Hojo
+  "细川"  # Hosokawa
+  "一条"  # Ichijo
+  "毛田"  # Keda
+  "今川"  # Imagawa
+  "一色"  # Isshiki
+  "伊藤"  # Ito
+  "神保"  # Jinbo
+  "菊池"  # Kikuchi
+  "河野"  # Kono
+  "前田"  # Maeda
+  "松永"  # Matsunaga
+  "三村"  # Mimura
+  "三好"  # Miyoshi
+  "最上"  # Mogami
+  "毛利"  # Mori
+  "锅岛"  # Nabeshima
+  "长尾"  # Nagao
+  "织田"  # Oda
+  "小笠原"  # Ogasawara
+  "大友"  # Otomo
+  "大内"  # Ouchi
+  "龙造寺"  # Ryuzoji
+  "相良"  # Sagara
+  "斋藤"  # Saito
+  "真田"  # Sanada
+  "佐竹"  # Satake
+  "里见"  # Satomi
+  "斯波"  # Shiba
+  "柴田"  # Shibata
+  "岛津"  # Shimazu
+  "少贰"  # Shoni
+  "武田"  # Takeda
+  "土岐"  # Toki
+  "德川"  # Tokugawa
+  "松平"  # Matsudaira
+  "丰臣"  # Toyotomi
+  "筒井"  # Tsutsui
+  "上杉"  # Uesugi
+  "浦上"  # Uragami
+  "山名"  # Yamana
+  "山内"  # Yamauchi
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "细川"  # Hosokawa
+  "松永"  # Matsunaga
+  "松永"  # Matsunaga
+  "松永"  # Matsunaga
+  "松永"  # Matsunaga
+  "松永"  # Matsunaga
+  "上野"  # Ueno
+  "上野"  # Ueno
+  "上野"  # Ueno
+  "上野"  # Ueno
+  "上野"  # Ueno
+  "长冈"  # Nagaoka
+  "长冈"  # Nagaoka
+  "长冈"  # Nagaoka
+  "长冈"  # Nagaoka
+  "长冈"  # Nagaoka
+  "Toichi"
+  "Toichi"
+  "Toichi"
+  "Toichi"
+  "Toichi"
+  "三好"  # Miyoshi
+  "三好"  # Miyoshi
+  "三好"  # Miyoshi
+  "三好"  # Miyoshi
+  "三好"  # Miyoshi
+}
+ship_names = {
+  "陆奥丸"  # Mutsu Maru
+  "出羽丸"  # Dewa Maru
+  "下野丸"  # Shimotsuke Maru
+  "常陆丸"  # Hitachi Maru
+  "上总丸"  # Kazusa Maru
+  "下总丸"  # Shimousa Maru
+  "武藏丸"  # Musashi Maru
+  "上野丸"  # Kozuke Maru
+  "伊豆丸"  # Izu Maru
+  "越后丸"  # Echigo Maru
+  "越中丸"  # Ettchu Maru
+  "加贺丸"  # Kaga Maru
+  "能登丸"  # Noto Maru
+  "骏河丸"  # Suruga Maru
+  "远江丸"  # Totomi Maru
+  "上州丸"  # Joshu Maru
+  "远州丸"  # Enshu Maru
+  "武州丸"  # Bushu Maru
+  "越州丸"  # Esshu Maru
+  "三河丸"  # Mikawa Maru
+  "羽州丸"  # Ushu Maru
+  "相州丸"  # Soushu Maru
+  "防州丸"  # Boushu Maru
+  "甲斐丸"  # Kai Maru
+  "信州丸"  # Shinshu Maru
+  "甲州丸"  # Koshu Maru
+  "尾张丸"  # Owari Maru
+  "尾州丸"  # Bishu Maru
+  "美浓丸"  # Mino Maru
+  "越前丸"  # Echizen Maru
+  "伊势丸"  # Ise Maru
+  "志摩丸"  # Shima Maru
+  "近江丸"  # Omi Maru
+  "江州丸"  # Goushu Maru
+  "山城丸"  # Yamashiro Maru
+  "若狭丸"  # Wakasa Maru
+  "丹波丸"  # Tanba Maru
+  "丹后丸"  # Tango Maru
+  "大和丸"  # Yamato Maru
+  "纪伊丸"  # Kii Maru
+  "纪州丸"  # Kishu Maru
+  "伊贺丸"  # Iga Maru
+  "阿波丸"  # Awa Maru
+  "讃岐丸"  # Sanuki Maru
+  "土佐丸"  # Tosa Maru
+  "伊予丸"  # Iyo Maru
+  "播磨丸"  # Harima Maru
+  "播州丸"  # Banshu Maru
+  "伯耆丸"  # Hoki Maru
+  "因幡丸"  # Inaba Maru
+  "备前丸"  # Bizen Maru
+  "美作丸"  # Mimasaka Maru
+  "备州丸"  # Binshu Maru
+  "备后丸"  # Bingo Maru
+  "备中丸"  # Bittchu Maru
+  "安艺丸"  # Aki Maru
+  "出云丸"  # Izumo Maru
+  "石见丸"  # Iwami Maru
+  "周防丸"  # Suou Maru
+  "长门丸"  # Nagato Maru
+  "丰后丸"  # Bungo Maru
+  "丰前丸"  # Buzen Maru
+  "筑前丸"  # Chikuzen Maru
+  "筑后丸"  # Chikugo Maru
+  "肥前丸"  # Hizen Maru
+  "肥后丸"  # Higo Maru
+  "筑州丸"  # Chikushu Maru
+  "日向丸"  # Hyuga Maru
+  "大隅丸"  # Osumi Maru
+  "萨摩丸"  # Satsuma Maru
+  "萨州丸"  # Sasshu Maru
+}
+army_names = {
+  "细川水军"  # Hosokawa Gun
+  "$PROVINCE$军"  # $PROVINCE$ Gun
+  "$PROVINCE$势"  # $PROVINCE$ Zei
+  "$PROVINCE$团"  # $PROVINCE$ Dan
+}
+fleet_names = {
+  "细川水军"  # Hosokawa Suigun
+  "$PROVINCE$水军"  # $PROVINCE$ Suigun
+  "$PROVINCE$船团"  # $PROVINCE$ Sendan
+  "$PROVINCE$队"  # $PROVINCE$ Tai
+}

@@ -1,0 +1,181 @@
+graphical_culture = muslimgfx
+color = {
+  76
+  141
+  58
+}
+historical_idea_groups = {
+  religious_ideas
+  defensive_ideas
+  trade_ideas
+  offensive_ideas
+  spy_ideas
+  diplomatic_ideas
+  quantity_ideas
+  economic_ideas
+}
+historical_units = {
+  mamluk_archer
+  mamluk_cavalry_charge
+  mamluk_duel
+  mamluk_musket_charge
+  muslim_mass_infantry
+  muslim_dragoon
+  ali_bey_reformed_infantry
+}
+monarch_names = {
+  "阿诗玛 #0" = -1  # Asma #0
+  "尤斯拉 #0" = -1  # Yusra #0
+  "沙希拉 #0" = -1  # Shahira #0
+  "拉吉亚 #0" = -1  # Rajya #0
+  "尤努斯 #0" = 0  # Yunus #0
+  "赛义德 #0" = 20  # Sa'id #0
+  "萨迪 #0" = 0  # Sa'di #0
+  "卡西姆 #0" = 0  # Qasim #0
+  "尼扎尔 #0" = 0  # Nizar #0
+  "纳迪姆 #0" = 0  # Nadim #0
+  "贾比尔 #0" = 0  # Jabir #0
+  "伊利亚斯 #0" = 0  # Ilyas #0
+  "哈提姆 #0" = 0  # Hatim #0
+  "盖特 #0" = 0  # Ghayth #0
+  "法德勒 #0" = 0  # Fadl #0
+  "巴希尔 #0" = 0  # Basir #0
+  "阿卜杜勒 马利克 #0" = 0  # 'Abd al-Malik #0
+  "沙里赫 #1" = 10  # Sâlih #1
+  "库屈克 #1" = 10  # Kûjûk #1
+  "伊斯玛仪 #1" = 10  # Isma'îl #1
+  "哈桑 #1" = 10  # Hassan #1
+  "阿布 巴卡尔 #1" = 10  # Abû Bakr #1
+  "沙班 #2" = 10  # Sha'bân #2
+  "哈吉 #2" = 10  # Hâjjî #2
+  "拜巴尔斯 #2" = 10  # Baybars #2
+  "阿里 #2" = 10  # 'Ali #2
+  "巴尔库克 #1" = 15  # Barqûq #1
+  "优素福 #0" = 20  # Yûsuf #0
+  "占布拉特 #0" = 20  # Jânbulât #0
+  "叶勒拜 #0" = 20  # Yalbay #0
+  "奥斯曼 #0" = 20  # 'Uthman #0
+  "帖木儿不花 #0" = 20  # Timurbughâ #0
+  "谢赫 马哈茂迪 #0" = 20  # Shaik al-Mahmudi #0
+  "卡伊特巴 #0" = 20  # Qâyit Bay #0
+  "贾科马克 #0" = 20  # Jaqmaq #0
+  "巴尔斯拜 #0" = 20  # Barsbay #0
+  "纳速儿 法赖吉 #0" = 20  # al-Nasr Faraj #0
+  "穆斯塔因 #0" = 20  # al-Musta'in #0
+  "阿卜杜勒 阿齐兹 #0" = 20  # 'Abd al-'Aziz #0
+  "胡思卡丹 #1" = 20  # Khusqadam #1
+  "伊纳勒 #0" = 20  # Inâl #0
+  "贾法尔 #0" = 10  # Djafar #0
+  "马赛义德 #0" = 10  # Masa'id #0
+  "穆巴拉克 #0" = 10  # Mubarak #0
+  "叶海亚 #0" = 10  # Yahya #0
+  "阿卜杜拉 #0" = 20  # 'Abdullah #0
+  "阿布 穆欣 #0" = 10  # 'Abul Muhsin #0
+  "阿卜杜勒 哈利姆 #0" = 10  # 'Abdul-Karim #0
+  "萨阿德 #0" = 10  # Sa'ad #0
+  "纳米 #0" = 10  # Nami #0
+  "宰德 #0" = 10  # Zaid #0
+  "马苏德 #0" = 30  # Mas'ud #0
+  "穆欣 #0" = 10  # Mushin #0
+  "阿布 安 伊德里斯 #0" = 10  # Abu Aun Idris #0
+  "阿布 塔利卜 #0" = 10  # Abu Talib #0
+  "塔克巴 #0" = 10  # Takaba #0
+  "盖伊特 #0" = 10  # Qa'it #0
+  "胡迈达 #1" = 10  # Humaida #1
+  "艾哈迈德 #2" = 50  # Ahmad #2
+  "哈扎 #0" = 10  # Hazza #0
+  "巴拉卡特 #0" = 30  # Barakât #0
+  "吐曼 贝伊 #0" = 40  # Tûmân Bay #0
+  "甘萨伍赫 #0" = 40  # Qânsawh #0
+  "穆罕默德 #4" = 40  # Muhammad #4
+}
+leader_names = {
+  "优素福"  # Youssef
+  "塔利布"  # Taleb
+  "易卜拉欣"  # Ibrahim
+  "哈利勒"  # Khalil
+  "萨利赫"  # Saleh
+  "法哈特"  # Farhat
+  "沙马斯"  # Chammas
+  "曼苏尔"  # Mansour
+  "阿拔斯"  # Abbas
+  "哈穆德"  # Hammoud
+  "阿里"  # Ali
+  "埃巴克"  # Aybak
+  "拜巴尔斯"  # Baibars
+  "贝伊"  # Bay
+  "贝伊"  # Bey
+  "布哈"  # Bugha
+  "伊纳勒"  # Inâl
+  "坎苏尔"  # Kansur
+  "赛福鼎"  # Sayfuddin
+  "赞吉"  # Zangi
+}
+ship_names = {
+  "汉志"  # Hijaz
+  "吉达"  # Jeddah
+  "麦加"  # Mecca
+  "麦地那"  # Medina
+  "杰贝勒 拜丹"  # Jabal Baydan
+  "杰拜 沙瓦达"  # Jabal Sawda
+  "亚巴尔 阿布 哈桑"  # Jabal Abu Hasan
+  "杰贝勒 朱赖拉"  # Jabal al-Jurayrah
+  "哈拉特 基什卜"  # Harrat Al-Kishb
+  "拉哈特"  # Harrat Rahat
+  "哈拉特·纳瓦西夫"  # Harrat Nawasif
+  "哈拉特 哈丹"  # Harrat Hadan
+  "哈拉特 布干"  # Harrat Al-Buqum
+  "拉伯的哈拉特喀巴尔"  # Harrat Khaybar
+  "哈拉特·库拉马"  # Harrat Kurama
+  "哈拉特 乌那伊"  # Harrat al-Unayyir
+  "宰希尔 巴尔库克"  # Zaher Barqooq
+  "法拉格 本 巴尔库克"  # Farag Ben Barqooq
+  "本 巴尔库克"  # Ben Barqooq
+  "穆贾希德 谢赫"  # Muyaid Sheikh
+  "阿曼 穆贾希德"  # Ahmen Muyaid
+  "宰希尔 鞑靼"  # Zaher Tatar
+  "纳赛尔 穆罕默德"  # Nasser Muhamed
+  "阿什拉夫 巴尔斯拜"  # Ashraf Barsbay
+  "阿齐兹 加马尔"  # Aziz Gamal
+  "那赫 尼尔"  # Nahr an-Nil
+  "法拉菲拉"  # Al-Farafirah
+  "达希拉"  # Ad-Däkhilah
+  "哈里贾"  # Al-Kharijah
+  "阿里"  # Al-Ali
+  "巴里亚"  # Al-Bahriyah
+  "拉赫曼"  # Rahman
+  "拉希姆"  # Rahim
+  "马利克"  # Malik
+  "库杜斯"  # Quddus
+  "萨拉姆"  # Salam
+  "慕敏"  # Mu'min
+  "穆哈敏"  # Muhaymin
+  "阿齐兹"  # Aziz
+  "贾巴尔"  # Jabbar
+  "穆塔卡比尔"  # Mutakabbir
+  "哈利克"  # Khaliq
+  "巴里"  # Bari
+  "穆萨维尔"  # Musawwir
+  "贾法尔"  # Ghaffar
+  "加哈"  # Qahhar
+  "瓦哈卜"  # Wahhab
+  "拉扎克"  # Razzaq
+  "法塔赫"  # Fattah
+  "阿里姆"  # Alim
+  "贾比得"  # Qabid
+  "巴希特"  # Basit
+  "哈菲德"  # Khafid
+  "拉菲"  # Rafi
+  "穆伊兹"  # Mu'izz
+  "穆希尔"  # Mudhill
+  "萨米"  # Sami
+  "别瑟"  # Basir
+  "哈卡姆"  # Hakam
+  "阿德尔"  # Adl
+}
+army_names = {
+  "杰希尔 $PROVINCE$"  # Jaish-al $PROVINCE$
+}
+fleet_names = {
+  "伊斯塔瓦 $PROVINCE$"  # Istawal-al $PROVINCE$
+}

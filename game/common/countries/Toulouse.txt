@@ -1,0 +1,202 @@
+graphical_culture = westerngfx
+color = {
+  127
+  170
+  146
+}
+historical_idea_groups = {
+  defensive_ideas
+  trade_ideas
+  religious_ideas
+  diplomatic_ideas
+  economic_ideas
+  innovativeness_ideas
+  offensive_ideas
+  spy_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_cuirassier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "菲莉帕 #0" = -1  # Philippa #0
+  "玛丽 #0" = -1  # Marie #0
+  "让娜 #0" = -15  # Jeanne #0
+  "格扎维埃 #0" = 0  # Xavier #0
+  "瓦勒莱 #0" = 0  # Valeray #0
+  "桑松 #0" = 0  # Sauson #0
+  "罗格 #0" = 0  # Roger #0
+  "理查 #0" = 0  # Richartz #0
+  "帕特里西 #0" = 0  # Patrici #0
+  "奥利维耶 #0" = 0  # Olivier #0
+  "莫里斯 #0" = 0  # Maurice #0
+  "马梅尔特 #0" = 0  # Mamert #0
+  "路易斯 #0" = 0  # Louis #0
+  "利奥波德 #0" = 0  # Léopold #0
+  "儒勒 #0" = 0  # Jules #0
+  "雅克 #0" = 0  # Jacques #0
+  "伊尼亚斯 #0" = 0  # Ignace #0
+  "于克 #0" = 0  # Huc #0
+  "亨利 #0" = 0  # Henri #0
+  "杰劳德 #0" = 0  # Guiraud #0
+  "戈德弗鲁瓦 #0" = 0  # Godefroi #0
+  "吉勒 #0" = 0  # Gilles #0
+  "弗雷德里克 #0" = 0  # Frédéric #0
+  "弗朗索瓦 #0" = 0  # François #0
+  "弗罗伊兰 #0" = 0  # Foilan #0
+  "埃弗拉德 #0" = 0  # Evrard #0
+  "尤金 #0" = 0  # Eugène #0
+  "伊曼纽尔 #0" = 0  # Emmanuel #0
+  "达尼什 #0" = 0  # Danis #0
+  "克洛德 #0" = 0  # Claude #0
+  "查理 #0" = 0  # Charles #0
+  "博雷尔 #0" = 0  # Borel #0
+  "安东尼 #0" = 0  # Antoine #0
+  "安迪鲁 #0" = 0  # Andiru #0
+  "奥多 #1" = 10  # Odo #1
+  "庞斯 #2" = 10  # Pons #2
+  "伯纳德 #2" = 10  # Bernard #2
+  "贝特朗 #1" = 15  # Bertrand #1
+  "纪尧姆 #4" = 15  # Guillaume #4
+  "西蒙 #1" = 20  # Simon #1
+  "阿方斯 #3" = 20  # Alphonse #3
+  "雷蒙德 #7" = 80  # Raymond #7
+}
+leader_names = {
+  "德 阿纳尔"  # d'Arnal
+  "阿塞札特"  # Assézat
+  "德 巴卡兰"  # de Bacalan
+  "德 巴尔瓦桑"  # de Barbasan
+  "德 贝尔努伊"  # de Bernuy
+  "德 贝宗"  # de Bezons
+  "德 波尔本"  # de Boulbène
+  "德 卡斯特拉"  # de Casteras
+  "德 科萨德"  # de Caussade
+  "德 科尔内朗"  # de Corneillan
+  "德尔吉"  # Delguy
+  "德尔皮埃什"  # Delpuech
+  "德 西班牙"  # d'Espagne
+  "德 埃斯塔当"  # d'Estadens
+  "德 埃斯蒂萨克"  # d'Estissac
+  "法布尔"  # Fabre
+  "福尔"  # Faure
+  "德 加拉尔"  # de Galard
+  "德 古特"  # de Goth
+  "德 格罗索尔"  # de Grossoles
+  "伊姆伯特"  # Imbert
+  "德 里勒 茹尔丹"  # de l'Isle-Jourdain
+  "德 拉 布赫 德 冈德隆"  # de La Broue de Gandelon
+  "德 拉卡兹"  # de Lacaze
+  "德 拉德维兹"  # de Ladevèze
+  "德 卢皮亚克"  # de Loupiac
+  "德 马代朗"  # de Madaillan
+  "马尔文 德 蒙塔泽"  # Malvin de Montazet
+  "马丁 德 维维耶"  # Martin de Viviès
+  "德 诺加尔德"  # de Nogarède
+  "德 诺加雷"  # de Nogaret
+  "诺格斯"  # Noguès
+  "德 奥维尔"  # d'Ouvrier
+  "潘达里斯"  # Pandaries
+  "德 佩拉穆格"  # de Pelamourgues
+  "佩雷斯"  # Perès
+  "德 佩里嘉德"  # de Perricard
+  "庞斯"  # Pons
+  "德 普拉迪纳"  # de Pradines
+  "德 普赫加里克"  # de Puechgarric
+  "德 拉巴斯唐"  # de Rabastens
+  "德 鲁 德 阿尔宗"  # de Roux d'Alzonne
+  "萨巴蒂埃"  # Sabatier
+  "德 圣菲尼克斯"  # de Saint Félix
+  "塔西埃"  # Teyssier
+  "德 托洛扎尼"  # de Tholozany
+  "德 图卢兹-富瓦萨克"  # de Toulouse-Foissac
+  "德 图卢兹-劳特累克"  # de Toulouse-Lautrec
+  "德 维莱米"  # de Villemur
+  "德 桑特拉伊"  # de Xaintrailles
+}
+ship_names = {
+  "奥卡姆维尔"  # l'Aucamville
+  "奥茨维拉 图卢桑"  # l'Auzeville-Tolosane
+  "勒 巴尔马"  # le Balma
+  "勒 博泽尔"  # le Beauzelle
+  "勒 布斯卡"  # le Busca
+  "勒 布拉尼亚克"  # le Blagnac
+  "勒 卡比托勒"  # le Capitole
+  "勒 卡斯塔内-图卢兹"  # le Castanet-Tolosan
+  "勒 科洛米耶"  # le Colomiers
+  "勒 库格诺"  # le Cugneaux
+  "拉米耶岛"  # l'Île-du-Ramier
+  "勒 拉贝热"  # le Labège
+  "勒 拉布鲁克"  # le Labruc
+  "勒 拉 塞皮埃尔"  # le La Cépière
+  "勒 拉 帕斯基埃尔"  # le La Pasquière
+  "勒 拉兰"  # le Laran
+  "勒 拉登纳"  # le Lardenne
+  "勒 劳纳盖"  # le Launaguet
+  "勒 格朗德隆"  # le Grand-Rond
+  "勒 米哈伊"  # le Mirail
+  "勒 德莫赛勒"  # le Demoiselles
+  "勒 米尼姆"  # le Minimes
+  "勒 帕拉杜"  # le Paradous
+  "团结"  # l'Union
+  "侯爵"  # le Marquisat
+  "勒 蒙陶德兰"  # le Montaudran
+  "勒 蒙特拉贝"  # le Montrabé
+  "勒 穆雷特"  # le Muret
+  "勒 佩赫邦尼厄"  # le Pechbonnieu
+  "勒 佩赫布斯克"  # le Pechbusque
+  "勒 帕奇 大卫"  # le Pech David
+  "勒 皮布拉克"  # le Pibrac
+  "勒 普莱桑斯-迪-图什"  # le Plaisance-du-Touch
+  "勒 加龙河畔波泰"  # le Portet-sur-Garonne
+  "勒 屈安丰塞格里韦"  # le Quint-Fonsegrives
+  "勒 帕特-德瓦"  # la Patte-d'Oie
+  "勒 拉蒙维尔-圣阿尼"  # le Ramonville-Saintt-Agne
+  "勒 兰盖伊"  # le Rangueil
+  "勒 图尔内费耶"  # le Tournefeuille
+  "勒 圣欧班"  # le Saint-Aubin
+  "勒 圣热涅-贝勒维埃"  # le Saint-Geniès-Bellevue
+  "勒 圣马丁-迪-图什"  # le Saint-Martin-du-Touch
+  "勒 圣奥朗"  # le Saint-Orens
+  "勒 圣舍宁"  # le Saint-Sernin
+  "勒 圣西蒙"  # le Saint-Simon
+  "勒 萨尔瓦塔特-圣吉勒"  # le Salvetat-Saint-Gilles
+  "勒 苏莱"  # le Soulé
+  "勒 斯达-图卢兹"  # le Stade-Toulousain
+  "勒 维耶伊尔-图卢兹"  # la Vieille-Toulouse
+  "勒 托洛桑新城"  # le Villeneuve-Tolosane
+}
+army_names = {
+  "劳拉加斯军"  # Armée du Lauragais
+  "米娜瓦军"  # Armée du Minervois
+  "卡巴戴斯军"  # Armée du Cabardès
+  "科比耶尔军"  # Armée des Corbières
+  "卡凯塞斯军"  # Armée du Carcassès
+  "黑山军"  # Armée de la Montagne Noire
+  "卡科军"  # Armée du Quercob
+  "拉泽斯军"  # Armée du Razès
+  "索尔镇地区军"  # Armée du Pays de Sault
+  "富瓦军"  # Armée de Foix
+  "库斯朗军"  # Armée du Couserans
+  "科曼热军"  # Armée de Comminges
+  "加斯科涅军"  # Armée de Gascogne
+  "塞维斯军"  # Armée de Savès
+  "欧尔地区军"  # Armée du Pays d'Aure
+  "比戈尔军"  # Armée de Bigorre
+  "首都军"  # Armée des Capitouls
+  "阿勒比军"  # Armée de l'Albigeois
+  "$PROVINCE$军"  # Armée de $PROVINCE$
+}

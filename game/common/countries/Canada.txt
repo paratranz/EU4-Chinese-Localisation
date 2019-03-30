@@ -1,0 +1,334 @@
+graphical_culture = westerngfx
+colonial_parent = GBR
+random_nation_chance = 0
+color = {
+  94
+  117
+  55
+}
+historical_idea_groups = {
+  defensive_ideas
+  religious_ideas
+  trade_ideas
+  economic_ideas
+  plutocracy_ideas
+  diplomatic_ideas
+  offensive_ideas
+  spy_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_longbow
+  gaelic_mercenary
+  gaelic_free_shooter
+  irish_charge
+  anglofrench_line
+  british_redcoat
+  british_hussar
+  british_square
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "勒内 #0" = 0  # René #0
+  "弗朗索瓦 #0" = 0  # François #0
+  "玛格丽特 #0" = -1  # Marguerite #0
+  "阿德里安娜 #0" = -1  # Adrienne #0
+  "夏洛特 #0" = -1  # Charlotte #0
+  "维多利亚 #0" = -1  # Victoria #0
+  "玛利亚 #0" = -1  # Maria #0
+  "劳拉 #0" = -1  # Laura #0
+  "威廉 #0" = 0  # William #0
+  "提莫西 #0" = 0  # Timothy #0
+  "所罗门 #0" = 0  # Solomon #0
+  "理查德 #0" = 0  # Richard #0
+  "皮埃尔 路易 #0" = 0  # Pierre-Louis #0
+  "菲利普 #0" = 5  # Philippe #0
+  "彼得 #0" = 0  # Peter #0
+  "帕肖 #0" = 0  # Parshall #0
+  "尼古拉斯 #0" = 0  # Nicolas #0
+  "那塔伊尔 #0" = 0  # Nathaniel #0
+  "马修 #0" = 0  # Mathew #0
+  "路易 希波利特 #0" = 0  # Louis-Hippolyte #0
+  "路易 约瑟夫 #0" = 0  # Louis-Joseph #0
+  "约翰 #0" = 0  # John #0
+  "杰里米亚 #0" = 0  # Jeremiah #0
+  "查理 米歇尔 #0" = 0  # Charles-Michel #0
+  "简 巴提斯 #0" = 0  # Jean-Baptiste #0
+  "雅各布 #0" = 0  # Jacob #0
+  "艾萨克 #0" = 0  # Isaac #0
+  "伊格内斯 #0" = 0  # Ignace #0
+  "海森 #0" = 0  # Hyacinthe #0
+  "休 #0" = 0  # Hugh #0
+  "胡伯特 #0" = 0  # Hubert #0
+  "吉奥姆 #0" = 0  # Guillaume #0
+  "加布埃尔 #0" = 0  # Gabriel #0
+  "伊芙琳 #0" = 0  # Ephraim #0
+  "爱德华 #0" = 0  # Edward #0
+  "戴维 威廉 #0" = 0  # David William #0
+  "戴维 #0" = 0  # David #0
+  "克里斯托弗 #0" = 0  # Christopher #0
+  "本杰明 #0" = 0  # Benjamin #0
+  "安东 #0" = 0  # Antoine #0
+  "艾玛布尔 #0" = 0  # Amable #0
+  "亚历山大 #0" = 0  # Alexander #0
+  "戈登 #0" = 5  # Gordon #0
+  "米切尔 #0" = 5  # Michel #0
+  "罗兰 #0" = 5  # Roland #0
+  "雅克 #0" = 5  # Jacques #0
+  "约瑟夫 #0" = 5  # Joseph #0
+  "奥古斯丁 #0" = 5  # Augustin #0
+  "丹尼尔 #0" = 20  # Daniel #0
+  "皮埃尔 #0" = 5  # Pierre #0
+  "简 #0" = 5  # Jean #0
+  "路易 #0" = 20  # Louis #0
+  "查理 #0" = 40  # Charles #0
+  "乔治 #0" = 20  # George #0
+  "托马斯 #0" = 20  # Thomas #0
+  "罗伯特 #0" = 20  # Robert #0
+  "弗雷德里克 #0" = 20  # Frederick #0
+  "盖伊 #0" = 20  # Guy #0
+  "詹姆斯 #0" = 5  # James #0
+  "塞缪尔 #0" = 40  # Samuel #0
+  "杰弗里 #0" = 5  # Jeffery #0
+}
+leader_names = {
+  "奥尔索普"  # Allsopp
+  "阿默斯特"  # Amherst
+  "奥尔德乔"  # Auldjo
+  "贝比"  # Baby
+  "巴恩斯"  # Barnes
+  "比斯利"  # Beasley
+  "Bédard"
+  "Bégin"
+  "贝尔"  # Bell
+  "伯尼尔"  # Bernier
+  "贝特洛"  # Berthelot
+  "布莱克"  # Black
+  "布瓦洛"  # Boileau
+  "布瓦索"  # Boisseau
+  "布思"  # Booth
+  "布克"  # Bouc
+  "布歇"  # Boucher
+  "布德罗"  # Boudreau
+  "博文"  # Bowen
+  "布罗德"  # Brodeur
+  "布罗克"  # Brock
+  "布朗森"  # Bronson
+  "布朗"  # Browne
+  "拜"  # By
+  "考德威尔"  # Caldwell
+  "坎贝尔"  # Campbell
+  "卡尔顿"  # Carleton
+  "卡蒂埃"  # Cartier
+  "夏蒂埃"  # Chartier
+  "谢里耶"  # Cherrier
+  "棺材"  # Coffin
+  "康沃尔"  # Cornwall
+  "克雷格"  # Craig
+  "克雷吉"  # Craigie
+  "卡斯伯特"  # Cuthbert
+  "达尔豪西"  # Dalhousie
+  "Dambourgés"
+  "Dartigny"
+  "德 阿西"  # D'Arcy
+  "德 邦内"  # de Bonne
+  "德 拉瓦尔特里"  # de Lavaltrie
+  "德 洛里米耶"  # de Lorimier
+  "de Lotbinière"
+  "德 罗什布拉夫"  # de Rocheblave
+  "德 鲁维尔"  # de Rouville
+  "德 萨拉贝利"  # de Salaberry
+  "de Tonnancour"
+  "迭戈"  # Digé
+  "多里昂"  # Dorion
+  "多兰"  # Dorland
+  "杜沙姆"  # Ducharme
+  "迪谢奈"  # Duchesnay
+  "杜福尔"  # Dufour
+  "多蒙"  # Dumont
+  "Dunière"
+  "邓恩"  # Dunn
+  "Dupré"
+  "杜普莱西斯"  # Duplessis
+  "杜马"  # Dumas
+  "迪罗谢"  # Durocher
+  "迪韦奈"  # Duvernay
+  "Éthier"
+  "费尔菲尔德"  # Fairfield
+  "费舍尔"  # Fisher
+  "富歇"  # Foucher
+  "弗拉瑟"  # Fraser
+  "法兰西"  # French
+  "弗罗比歇"  # Frobisher
+  "格兰特"  # Grant
+  "格雷"  # Gray
+  "戈德弗鲁瓦"  # Godefroy
+  "古安"  # Gouin
+  "格鲁"  # Guerout
+  "盖伊"  # Guy
+  "哈迪森"  # Hardison
+  "哈特"  # Hart
+  "海伍德"  # Harwood
+  "Hébert"
+  "亨利"  # Henry
+  "赫梯尔"  # Hertel
+  "于奥"  # Huot
+  "英格索尔"  # Ingersoll
+  "欧文"  # Irvine
+  "杰瑟普"  # Jessup
+  "Jodoin"
+  "乔丹"  # Jordan
+  "琼斯"  # Jones
+  "拉克鲁瓦"  # Lacroix
+  "拉方丹"  # Lafontaine
+  "拉罗克"  # Larocque
+  "勒布雷顿"  # Lebreton
+  "伯爵"  # le Comte
+  "李"  # Lee
+  "里斯"  # Lees
+  "莱斯特"  # Lester
+  "林德"  # Lynd
+  "麦克奈德"  # Macnider
+  "麦库姆"  # Macomb
+  "Malhiot"
+  "马尔库"  # Marcoux
+  "马蒂诺"  # Martineau
+  "麦克贝思"  # McBeath
+  "麦克雷"  # McCrae
+  "麦克唐奈"  # McDonell
+  "麦克吉尔"  # McGill
+  "麦吉利夫雷"  # McGillivray
+  "麦基"  # McKee
+  "麦克劳德"  # McLeod
+  "梅努特"  # Menut
+  "米列特"  # Millet
+  "蒙克"  # Monk
+  "蒙图尔"  # Montour
+  "穆尔"  # Moore
+  "米尔"  # Mure
+  "默里"  # Murray
+  "纳尔逊"  # Nelson
+  "Panet"
+  "帕皮诺"  # Papineau
+  "Paquet"
+  "波灵"  # Pawling
+  "佩罗"  # Perrault
+  "Périnault"
+  "佩蒂特"  # Pettit
+  "皮埃尔维尔"  # Pierreville
+  "Planté"
+  "普雷斯科特"  # Prescott
+  "Prévost"
+  "雷比"  # Raby
+  "理查森"  # Richardson
+  "里士满"  # Richmond
+  "瑞尔"  # Riel
+  "里瓦德"  # Rivard
+  "罗宾逊"  # Robinson
+  "罗杰斯"  # Rogers
+  "罗伊"  # Roy
+  "圣马丁"  # Saint-Martin
+  "Secord"
+  "休厄尔"  # Sewell
+  "肖"  # Shaw
+  "舍布鲁克"  # Sherbrooke
+  "Sirois"
+  "史密斯"  # Smith
+  "斯潘塞"  # Spencer
+  "斯坦利"  # Stanley
+  "斯图亚特"  # Stuart
+  "街区"  # Street
+  "斯威兹"  # Swayze
+  "Taché"
+  "塔舍罗"  # Taschereau
+  "特里"  # Terry
+  "汤普森"  # Thompson
+  "托德"  # Tod
+  "Van Alstine"
+  "瓦尼耶"  # Vanier
+  "瓦伊格"  # Viger
+  "沃克"  # Walker
+  "怀特"  # White
+  "威尔金森"  # Wilkinson
+  "扬"  # Young
+}
+ship_names = {
+  "卡伯特"  # Cabot
+  "尚普兰"  # Champlain
+  "卡蒂埃"  # Cartier
+  "阿卡迪亚"  # Acadia
+  "奥雪来嘉"  # Hochelaga
+  "斯塔达科纳"  # Stadacona
+  "劳伦提亚"  # Laurentian
+  "魁北克"  # Québec
+  "安大略"  # Ontario
+  "阿萨巴斯卡"  # Athabaskan
+  "卡尤加"  # Cayuga
+  "休伦"  # Huron
+  "易洛魁"  # Iroquois
+  "密克马克"  # Micmac
+  "阿尔冈昆"  # Algonquin
+  "苏族"  # Sioux
+  "奥吉布瓦"  # Ojibwa
+  "奥农达加"  # Onondaga
+  "萨格奈"  # Saguenay
+  "圣莫里斯"  # St. Maurice
+  "渥太华"  # Ottawa
+  "Chaudière"
+  "黎塞留"  # Richelieu
+  "圣洛朗"  # St. Laurent
+  "加蒂诺"  # Gatineau
+  "玛格丽"  # Margaree
+  "雷斯蒂古什"  # Restigouche
+  "萨斯喀彻温"  # Saskatchewan
+  "卡佩勒"  # Qu'Appelle
+  "圣弗朗西斯"  # St. Francis
+  "圣十字"  # St. Croix
+  "尼亚加拉"  # Niagara
+  "博纳文图尔"  # Bonaventure
+  "马尼图林"  # Manitoulin
+  "安蒂科斯蒂"  # Anticosti
+  "巴芬"  # Baffin
+  "米斯库"  # Miscou
+  "Magdalen"
+  "加斯佩"  # Gaspe
+  "芬迪"  # Fundy
+  "拉布拉多"  # Labrador
+  "热情"  # Chaleur
+  "希格内克托湾"  # Chignecto
+  "幸运"  # Fortune
+  "米罗米奇"  # Miramichi
+  "昆蒂"  # Quinte
+  "雷霆"  # Thunder
+  "昂加瓦"  # Ungava
+  "布雷顿角"  # Cape Breton
+  "芒弗雷玛戈"  # Memphrémagog
+  "Bras d'Or"
+  "尼皮贡"  # Nipigon
+  "守护者"  # Preserver
+  "保护者"  # Protecteur
+  "鸬鹚"  # Cormorant
+  "猞猁"  # Lynx
+  "獾"  # Badger
+  "卡里布"  # Caribou
+  "獭"  # Otter
+  "沃夫"  # Wolf
+  "灰熊"  # Grizzly
+  "浣熊"  # Raccoon
+  "隆恩"  # Loon
+  "蓝色苍鹭"  # Blue Heron
+  "野鸭"  # Mallard
+  "Vison"
+  "雷纳德"  # Renard
+  "麋鹿"  # Elk
+  "海狸"  # Beaver
+  "安布勒"  # Ambler
+  "哈士奇"  # Husky
+  "驯鹿"  # Reindeer
+  "穆斯"  # Moose
+  "大鸨"  # Outarde
+}

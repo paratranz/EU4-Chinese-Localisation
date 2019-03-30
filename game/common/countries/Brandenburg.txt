@@ -1,0 +1,275 @@
+graphical_culture = westerngfx
+color = {
+  123
+  90
+  90
+}
+revolutionary_colors = {
+  1
+  0
+  4
+}
+preferred_religion = protestant
+historical_idea_groups = {
+  innovativeness_ideas
+  offensive_ideas
+  diplomatic_ideas
+  quality_ideas
+  economic_ideas
+  trade_ideas
+  defensive_ideas
+  administrative_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  prussian_frederickian
+  prussian_uhlan
+  prussian_drill
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "弗雷德里克 #0" = -1  # Frederike #0
+  "阿玛莉 #0" = -1  # Amalie #0
+  "芭芭拉 #0" = -1  # Barbara #0
+  "艾格妮丝 #0" = -1  # Agnes #0
+  "玛格丽特 #0" = -1  # Margarete #0
+  "玛格达列娜 #0" = -1  # Magdalena #0
+  "海德薇 #0" = -1  # Hedwig #0
+  "苏菲 #0" = -1  # Sophie #0
+  "安娜 玛利亚 #0" = -1  # Anna Maria #0
+  "萨宾娜 #0" = -1  # Sabina #0
+  "乌尔莉可 #0" = -1  # Ulrike #0
+  "葆拉 #0" = -1  # Paula #0
+  "米丽娅姆 #0" = -1  # Miriam #0
+  "维克多 #0" = 0  # Viktor #0
+  "斯特凡 #0" = 0  # Stefan #0
+  "马库斯 #0" = 0  # Markus #0
+  "路易特波德 #0" = 0  # Luitpold #0
+  "雅各布 #0" = 0  # Jakob #0
+  "赫尔曼 #0" = 0  # Hermann #0
+  "赫尔穆特 #0" = 0  # Helmut #0
+  "埃伯哈德 #0" = 0  # Eberhard #0
+  "德里克 #0" = 0  # Diederick #0
+  "克肋孟 #0" = 0  # Clemens #0
+  "阿道夫 #0" = 0  # Adolf #0
+  "保罗 #0" = 10  # Paul #0
+  "约阿希姆 #0 西格蒙德" = 10  # Joachim #0 Siegmund
+  "约阿希姆 #0 恩斯特" = 10  # Joachim #0 Ernst
+  "约阿希姆 #0" = 10  # Joachim #0
+  "格奥尔格 阿尔布雷希特 #0" = 10  # Georg Albrecht #0
+  "格奥尔格 #0" = 10  # Georg #0
+  "恩斯特 #0" = 10  # Ernst #0
+  "克里斯蒂安 威廉 #0" = 10  # Christian Wilhelm #0
+  "克里斯蒂安 #0" = 10  # Christian #0
+  "奥古斯特 #0" = 10  # August #0
+  "阿尔布雷希特 腓特烈 #0" = 10  # Albrecht Friedrich #0
+  "阿尔布雷希特 克里斯蒂安 #0" = 10  # Albrecht Christian #0
+  "海因里希 #2" = 10  # Heinrich #2
+  "约翰 #5" = 10  # Johann #5
+  "卡尔 #0" = 15  # Karl #0
+  "威廉 弗里德里希 #0" = 15  # Wilhelm Friedrich #0
+  "阿尔布雷希特 #3" = 15  # Albrecht #3
+  "西格蒙德 #0" = 20  # Siegmund #0
+  "约翰 西格蒙德 #0" = 20  # Johann Siegmund #0
+  "约翰 格奥尔格 #0" = 20  # Johann Georg #0
+  "约翰 弗里德里希 #0" = 20  # Johann Friedrich #0
+  "约翰 西塞罗 #0" = 20  # Johann Cicero #0
+  "约布斯特 #0" = 20  # Jobst #0
+  "约阿希姆 #0涅斯托尔" = 20  # Joachim #0 Nestor
+  "约阿希姆 #0赫克托尔" = 20  # Joachim #0 Hector
+  "格奥尔格 威廉 #0" = 20  # Georg Wilhelm #0
+  "弗里德里希 威廉 #0" = 20  # Friedrich Wilhelm #0
+  "阿尔布雷希特 #3阿基里斯" = 20  # Albrecht #3 Achilles
+  "弗里德里希 #0" = 60  # Friedrich #0
+}
+leader_names = {
+  "阿尔尼姆"  # Arnim
+  "冯 什未林"  # von Schwerin
+  "布兰肯塞"  # Blankensee
+  "冯 陶贝尼克"  # von Taubeneck
+  "冯 多索"  # von Dossow
+  "佩尔科夫斯基"  # Perlkowski
+  "冯 布勒"  # von Bühler
+  "冯 德昭"  # von Dessau
+  "冯 克劳"  # von Kyau
+  "阿恩斯瓦尔德"  # Arnswald
+  "芬克"  # Finck
+  "齐茨维茨"  # Zitzwitz
+  "冯 普洛索"  # von Plothow
+  "比勒贝克"  # Billerbeck
+  "冯 斯蒂勒"  # von Stille
+  "冯 安哈尔特-德昭"  # von Anhalt-Dessau
+  "克诺贝斯多夫"  # Knobelsdorf
+  "冯 劳奇"  # von Rauch
+  "冯 奎恩海姆贝格"  # von Quernheimberg
+  "霍尔岑多夫"  # Höltzendorff
+  "冯 奎特乔"  # von Quitzow
+  "西谢尔斯基"  # Cisielsky
+  "林肯道夫"  # Linkendorf
+  "乌克兰斯基"  # Ucklanski
+  "西拉辛基"  # Selasinky
+  "冯 齐滕"  # von Ziethen
+  "穆斯霍夫"  # Münchov
+  "布里耶桑"  # Briesen
+  "利沃茨基"  # Riwotzki
+  "施尼坦"  # Schnittern
+  "冯 梅卡兹"  # von Merckatz
+  "冯 曼施坦因"  # von Manstein
+  "沙赫"  # Schach
+  "冯 泽尔"  # von Seel
+  "特雷斯考"  # Treskaw
+  "冯 霍亨洛厄"  # von Hohenlohe
+  "冯 罗滕堡"  # von Rottenburg
+  "特拉萨斯"  # Truxes
+  "克雷茨"  # Kreytz
+  "冯 卢茨"  # von Rüts
+  "冯 德夫林格"  # von Derfflinger
+  "冯 沃尔姆斯多夫"  # von Wermsdorff
+  "卡西米尔"  # Casimir
+  "冯 霍亨索伦"  # von Hohenzollern
+  "贝洛"  # Below
+  "冯 宾比"  # von Bimback
+  "冯 马齐"  # von Mach
+  "波萨多夫斯基"  # Posadofsky
+  "冯 普鲁士"  # von Preußen
+}
+ship_names = {
+  "勃兰登堡龙骑士"  # Brandenburgischer Dragoner
+  "夏洛特 露易丝"  # Charlotte Louise
+  "勃兰登堡选帝侯"  # Churfürst von Brandenburg
+  "友善的选帝侯"  # Churfürtstlische Liebjagd
+  "勃兰登堡太子"  # Churprinz von Brandenburg
+  "克莱文舍 林登勃姆"  # Clevesche Lindenbaum
+  "七省"  # Die Sieben Provinzien
+  "飞龙"  # Fliegender Drache
+  "腓特烈 卡尔"  # Friedrich Carl
+  "马背上的腓特烈·威廉"  # Friedrich Wilhelm zu Pferde
+  "弗里德里希 威廉"  # Friedrich Wilhelm
+  "金狮"  # Goldener Löve
+  "格拉夫沙夫特 马克"  # Grafschaft Mark
+  "大帆船"  # Große Jacht
+  "绿龙"  # Grüner Drache
+  "克里夫公国"  # Herzogtum Cleve
+  "卡斯泰 斯潘道"  # Kastell Spandau
+  "普鲁士王储"  # Kronprinz van Preußen
+  "普鲁士国王"  # König von Preußen
+  "西班牙国王"  # König von Spanien
+  "威廉国王"  # König Wilhelm
+  "利陶尔 鲍尔"  # Littauer Bauer
+  "玛利亚 卡塔琳娜"  # Maria Catharina
+  "马克格拉夫 冯 勃兰登堡"  # Markgraf von Brandenburg
+  "北欧狮"  # Nordischer Löve
+  "普鲁士之鹰"  # Preußischer Adler
+  "公主玛丽亚"  # Princess Maria
+  "阿德尔伯特亲王"  # Prinz Adalbert
+  "路德维希亲王"  # Prinz Ludwig
+  "菲利普亲王"  # Prinz Philipp
+  "冯·普鲁士亲王"  # Prinz von Preußen
+  "威廉亲王"  # Prinz Wilhelm
+  "玛利亚公主"  # Prinzess Maria
+  "罗特尔 勒弗"  # Rother Löve
+  "圣约翰浸信会"  # Sankt Johannes der Täufer
+  "圣约瑟夫"  # Sankt Josef
+  "圣彼得"  # Sankt Peter
+  "奥拉宁堡宫"  # Schloss Oranienburg
+  "斯塔德 埃姆登"  # Stad Emden
+  "沃格尔 格里夫"  # Vogel Greif
+  "勃兰登堡纹章"  # Wappen von Brandenburg
+  "克里夫纹章"  # Wappen von Cleve
+  "威廉明娜 玛格丽特"  # Wilhelmine Margrethe
+  "布尔"  # Afrikaner
+  "亚马逊"  # Amazone
+  "阿米纽斯"  # Arminius
+  "巴巴罗萨"  # Barbarossa
+  "蛇妖"  # Basilisk
+  "柏林"  # Berlin
+  "贝尔施泰因范格"  # Bersteinfänger
+  "比勒费尔德"  # Bielefeld
+  "闪电"  # Blitz
+  "不列颠尼亚"  # Britannia
+  "比勒"  # Bulle
+  "变色龙"  # Camaeleon
+  "太子"  # Churprinz
+  "克莱门蒂亚"  # Clementia
+  "克里夫"  # Cleve
+  "彗星"  # Comet
+  "独眼巨人"  # Cyclop
+  "但泽"  # Danzig
+  "海豚"  # Delphin
+  "德福林格"  # Derffinger
+  "多萝西娅"  # Dorothea
+  "巨龙"  # Drache
+  "艾科恩"  # Eichhorn
+  "法尔克"  # Falke
+  "幸运"  # Fortuna
+  "福乐普"  # Frauenlob
+  "弗雷德"  # Frede
+  "富克斯"  # Fuchs
+  "瞪羚"  # Gazelle
+  "吉菲昂"  # Gefion
+  "格里勒"  # Grille
+  "格罗斯腓特烈伯格"  # Grossfriedrichburg
+  "哈比希特"  # Habicht
+  "汉萨"  # Hansa
+  "海"  # Hay
+  "海拉"  # Hela
+  "赫米纳"  # Hertha
+  "Hyäne"
+  "朱庇特"  # Jupiter
+  "王储"  # Kronprinz
+  "猎豹"  # Leopard
+  "Makarele"
+  "玛丽亚"  # Maria
+  "玛尔斯"  # Mars
+  "默克"  # Merkur
+  "陨石"  # Meteor
+  "Mohrian"
+  "莫里安"  # Morian
+  "Mummelpot"
+  "Musquito"
+  "毒蛇"  # Natter
+  "涅普顿"  # Neptun
+  "尼俄伯"  # Niobe
+  "帕拉斯"  # Pallas
+  "和平"  # Pax
+  "法伊尔"  # Pfeil
+  "Pierlepomp"
+  "波斯特"  # Post
+  "波茨坦"  # Potsdam
+  "Prosperpina"
+  "Rommelpot"
+  "罗森菲尔德"  # Rosenfelde
+  "流浪者"  # Rover
+  "火蜥蜴"  # Salamander
+  "施瓦尔贝"  # Schwalbe
+  "Seeritter"
+  "施潘道"  # Spandau
+  "斯珀伯"  # Sperber
+  "施特拉尔松德"  # Stralsund
+  "忒提丝"  # Thetis
+  "虎"  # Tiger
+  "温蒂妮"  # Undine
+  "维奈塔"  # Vineta
+  "Wasserhund"
+  "Wespe"
+  "Wolkensäule"
+}
+army_names = {
+  "选帝侯近卫队"  # Kurfürstliche Garde
+  "易北河卫队"  # Elbe Armee
+  "奥得河卫队"  # Oder Armee
+  "$PROVINCE$军"  # Armee von $PROVINCE$
+}
+fleet_names = {
+  "选帝侯舰队"  # Kurfürstliche Flotte
+}

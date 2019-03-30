@@ -1,0 +1,791 @@
+graphical_culture = westerngfx
+color = {
+  153
+  0
+  0
+}
+revolutionary_colors = {
+  5
+  13
+  0
+}
+historical_score = 6550
+historical_idea_groups = {
+  administrative_ideas
+  exploration_ideas
+  quality_ideas
+  maritime_ideas
+  economic_ideas
+  expansion_ideas
+  trade_ideas
+  naval_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  chevauchee
+  western_longbow
+  gaelic_mercenary
+  gaelic_free_shooter
+  french_caracolle
+  irish_charge
+  anglofrench_line
+  french_dragoon
+  british_redcoat
+  british_hussar
+  british_square
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "伊丽莎白 #0" = -5  # Elisabeth #0
+  "玛丽 #0" = -5  # Mary #0
+  "维多利亚 #0" = -1  # Victoria #0
+  "玛格丽特 #0" = -5  # Margaret #0
+  "简 #0" = -1  # Jane #0
+  "温斯顿 #0" = 0  # Winston #0
+  "托马斯 #0" = 0  # Thomas #0
+  "悉尼 #0" = 0  # Sydney #0
+  "萨缪尔 #0" = 0  # Samuel #0
+  "奥利弗 #0" = 0  # Oliver #0
+  "尼赫迈亚 #0" = 0  # Nehemiah #0
+  "马修 #0" = 0  # Matthew #0
+  "劳伦斯 #0" = 0  # Lawrence #0
+  "约瑟夫 #0" = 0  # Joseph #0
+  "约翰 #0" = 0  # John #0
+  "乔纳森 #0" = 0  # Jonathan #0
+  "杰瑞米 #0" = 0  # Jeremy #0
+  "雅各伯 #0" = 0  # Jacob #0
+  "艾萨克 #0" = 0  # Isaac #0
+  "休 #0" = 0  # Hugh #0
+  "霍拉肖 #0" = 0  # Horatio #0
+  "盖伊 #0" = 0  # Guy #0
+  "杰弗里 #0" = 0  # Geoffrey #0
+  "弗朗西斯 #0" = 0  # Francis #0
+  "埃德加 #0" = 0  # Edgar #0
+  "大卫 #0" = 0  # David #0
+  "丹尼尔 #0" = 0  # Daniel #0
+  "克里斯托弗 #0" = 0  # Christopher #0
+  "克里斯蒂安 #0" = 0  # Christian #0
+  "本杰明 #0" = 0  # Benjamin #0
+  "亚瑟 #0" = 0  # Arthur #0
+  "阿奇博尔德 #0" = 0  # Archibald #0
+  "安东尼 #0" = 0  # Anthony #0
+  "安德鲁 #0" = 0  # Andrew #0
+  "安布罗斯 #0" = 0  # Ambrose #0
+  "亚历山大 #0" = 0  # Alexander #0
+  "亚当 #0" = 0  # Adam #0
+  "詹姆斯 #2" = 5  # James #2
+  "查尔斯 #2" = 5  # Charles #2
+  "理查德 #3" = 5  # Richard #3
+  "亨利 #8" = 5  # Henry #8
+  "屋大维 #0" = 10  # Octavius #0
+  "马克西米利安 #0" = 10  # Maximilian #0
+  "乔治 #0 威廉" = 10  # George #0 William
+  "弗雷德里克 #0 威廉" = 10  # Frederick #0 William
+  "弗雷德里克 #0 奥古斯都" = 10  # Frederick #0 Augustus
+  "埃内斯特 #0 奥古斯都" = 10  # Ernest #0 Augustus
+  "奥古斯都 #0" = 10  # Augustus #0
+  "阿道夫 #0" = 10  # Adolphus #0
+  "阿尔弗雷德 #1" = 10  # Alfred #1
+  "威廉 #3 亨利" = 10  # William #3 Henry
+  "威廉 #3" = 10  # William #3
+  "爱德华 #5" = 10  # Edward #5
+  "弗雷德里克 #0" = 15  # Frederick #0
+  "安妮 #0" = -15  # Anne #0
+  "乔治 #0" = 60  # George #0
+}
+leader_names = {
+  "阿尔比马尔"  # Albemarle
+  "阿默斯特"  # Amherst
+  "安森"  # Anson
+  "白金汉"  # Buckingham
+  "布拉多克"  # Braddock
+  "拜伦"  # Byron
+  "伯戈因"  # Burgoyne
+  "贝雷斯福德"  # Beresford
+  "布罗克"  # Brock
+  "本博"  # Benbow
+  "布莱克"  # Blake
+  "贝德福德"  # Bedford
+  "博斯科恩"  # Boscawen
+  "巴芬"  # Baffin
+  "巴顿"  # Button
+  "克莱伦斯"  # Clarence
+  "德 克利福德"  # de Clifford
+  "克伦威尔"  # Cromwell
+  "坎伯兰"  # Cumberland
+  "克林顿"  # Clinton
+  "康沃利斯"  # Cornwallis
+  "克莱武"  # Clive
+  "卡伯特"  # Cabot
+  "卡尔顿"  # Carleton
+  "卡文迪什"  # Cavendish
+  "库克"  # Cook
+  "丘吉尔"  # Churchill
+  "丹皮尔"  # Dampier
+  "戴维斯"  # Davis
+  "德雷克"  # Drake
+  "埃塞克斯"  # Essex
+  "费尔法克斯"  # Fairfax
+  "弗罗比歇"  # Frobisher
+  "格洛斯特"  # Gloucester
+  "吉尔伯特"  # Gilbert
+  "豪"  # Howe
+  "霍华德"  # Howard
+  "赫伯特"  # Herbert
+  "霍克"  # Hawke
+  "胡德"  # Hood
+  "黑斯廷斯"  # Hastings
+  "哈德森"  # Hudson
+  "莱斯特"  # Leicester
+  "米德尔顿"  # Middleton
+  "穆尔"  # Moore
+  "诺森伯兰"  # Northumberland
+  "诺福克"  # Norfolk
+  "普罗克特"  # Procter
+  "鲁克"  # Rooke
+  "罗德尼"  # Rodney
+  "罗利"  # Raleigh
+  "索尔兹伯里"  # Salisbury
+  "萨默塞特"  # Somerset
+  "萨福克"  # Suffolk
+  "桑德斯"  # Saunders
+  "史密斯"  # Smith
+  "塔尔博特"  # Talbot
+  "塔尔顿"  # Tarleton
+  "阿克斯布里奇"  # Uxbridge
+  "沃里克"  # Warwick
+  "沃尔夫"  # Wolfe
+  "约克"  # York
+}
+ship_names = {
+  "阿比西尼亚"  # Abyssinia
+  "阿希莱斯"  # Achilles
+  "坚决"  # Adamant
+  "优越"  # Advantage
+  "冒险"  # Adventure
+  "忠告"  # Advice
+  "非洲"  # Africa
+  "阿伽门农"  # Agamemnon
+  "阿加斯"  # Agase
+  "阿金库尔"  # Agincourt
+  "艾德"  # Aid
+  "阿贾克斯"  # Ajax
+  "阿尔伯马尔"  # Albemarle
+  "阿尔比昂"  # Albion
+  "阿尔西德"  # Alcide
+  "阿尔德布鲁"  # Aldborough
+  "亚历山大"  # Alexander
+  "亚历山大里亚"  # Alexandria
+  "阿尔弗雷德"  # Alfred
+  "美洲"  # America
+  "阿米蒂"  # Amity
+  "安德鲁"  # Andrew
+  "安格尔西"  # Anglesea
+  "安妮"  # Anne
+  "安妮 加兰特"  # Anne Gallant
+  "安森"  # Anson
+  "答复"  # Answer
+  "羚羊"  # Antelope
+  "热心"  # Ardent
+  "淘金者"  # Argonaut
+  "阿盖尔"  # Argyll
+  "皇家方舟"  # Ark Royal
+  "战舰"  # Armada
+  "傲慢"  # Arrogant
+  "阿提哥"  # Artigo
+  "亚细亚"  # Asia
+  "援助"  # Assistance
+  "协会"  # Association
+  "保证"  # Assurance
+  "阿特拉斯"  # Atlas
+  "胆大"  # Audacious
+  "奥古斯特"  # August
+  "奥古斯塔"  # Augusta
+  "格林威治的芭芭拉"  # Barbara of Greenwich
+  "巴尔夫勒"  # Barfleur
+  "巴勒姆"  # Barham
+  "布伦树皮"  # Bark of Bullen
+  "莫莱斯树皮"  # Bark of Murless
+  "根基"  # Basing
+  "熊"  # Bear
+  "海狸"  # Beaver
+  "贝德福德"  # Bedford
+  "贝莱尔"  # Belleisle
+  "布莱瑞风"  # Bellerophon
+  "好战"  # Belliqueux
+  "贝洛娜"  # Bellona
+  "本博"  # Benbow
+  "伯维克"  # Berwick
+  "拜德福德"  # Bideford
+  "黑树皮"  # Black Bark
+  "黑牛"  # Black Bull
+  "黑狗"  # Black Dog
+  "黑桨帆船"  # Black Galley
+  "黑舟"  # Black Pinnace
+  "黑王子"  # Black Prince
+  "黑色狂欢"  # Black Rave
+  "黑点鹰"  # Black Spread Eagle
+  "布莱克摩尔女士"  # Blackamoor Lady
+  "布莱克沃尔"  # Blackwall
+  "布莱克"  # Blake
+  "布伦海姆"  # Blenheim
+  "博纳文图尔"  # Bonaventure
+  "博里斯"  # Boreas
+  "邦蒂"  # Bounty
+  "博伊恩"  # Boyne
+  "布拉德福德"  # Bradford
+  "布雷达"  # Breda
+  "布里奇沃特"  # Bridgewater
+  "布里甘廷"  # Brigantine
+  "布里斯托"  # Bristol
+  "不列颠尼亚"  # Britannia
+  "布伦瑞克"  # Brunswick
+  "白金汉"  # Buckingham
+  "公牛"  # Bull
+  "坚盾"  # Bulwark
+  "伯福德"  # Burford
+  "伯灵顿"  # Burlington
+  "凯撒"  # Caesar
+  "喀里多尼亚"  # Caledonia
+  "剑桥"  # Cambridge
+  "加拿大"  # Canada
+  "坎特伯雷"  # Canterbury
+  "船长"  # Captain
+  "加的夫"  # Cardiff
+  "卡莱尔"  # Carlisle
+  "伊芙的卡维尔"  # Carvel of Eve
+  "卡斯托耳"  # Castor
+  "卡托"  # Cato
+  "卡文迪什"  # Cavendish
+  "百夫长"  # Centurion
+  "地狱犬"  # Cerberus
+  "查理"  # Charles
+  "查尔斯加利"  # Charles Galley
+  "查理 V"  # Charles V
+  "查塔姆"  # Chatham
+  "切斯特"  # Chester
+  "奇切斯特"  # Chichester
+  "基督"  # Christ
+  "克里斯托弗"  # Christopher
+  "克里斯托弗布里姆"  # Christopher of Bream
+  "克里斯托弗斯派恩"  # Christopher Spayne
+  "克拉伦斯"  # Clarence
+  "丁香树"  # Clove Tree
+  "科尔切斯特"  # Colchester
+  "科林伍德"  # Collingwood
+  "巨人"  # Colossus
+  "征服者"  # Conqueror
+  "征服者"  # Conquestador
+  "康斯坦特改革"  # Constant Reformation
+  "康斯坦特瓦尔维克"  # Constant Warwick
+  "Content"
+  "Convertine"
+  "Cornelius"
+  "康沃尔"  # Cornwall
+  "典礼"  # Coronation
+  "勇敢"  # Courageux
+  "考文垂"  # Coventry
+  "康沃汀"  # Covertine
+  "仙鹤"  # Crane
+  "克雷西"  # Cressy
+  "鳄鱼"  # Crocodile
+  "王冠"  # Crown
+  "冕狮"  # Crowned Lion
+  "卡洛登"  # Culloden
+  "坎伯兰"  # Cumberland
+  "纤巧"  # Dainty
+  "雏菊"  # Daisy
+  "达特默斯"  # Dartmouth
+  "易城"  # Deal Castle
+  "迪"  # Dee
+  "防御"  # Defence
+  "挑战"  # Defiance
+  "德普特福德"  # Deptford
+  "毁灭"  # Devastation
+  "德文"  # Devonshire
+  "德文"  # Devonshire
+  "王冠"  # Diadem
+  "钻石"  # Diamond
+  "狄多"  # Dido
+  "迪奥米德"  # Diomede
+  "指导"  # Director
+  "海豚"  # Dolphin
+  "多塞特郡"  # Dorsetshire
+  "多佛尔"  # Dover
+  "巨龙"  # Dragon
+  "德雷克"  # Drake
+  "无畏"  # Dreadnaught
+  "德鲁伊"  # Druid
+  "都柏林"  # Dublin
+  "女公爵"  # Duchess
+  "适逐"  # Due Repulse
+  "公爵"  # Duke
+  "邓巴"  # Dunbar
+  "邓肯"  # Duncan
+  "邓坎嫩"  # Duncannon
+  "敦刻尔克"  # Dunkirk
+  "鹰"  # Eagle
+  "埃德加"  # Edgar
+  "爱丁堡"  # Edinburgh
+  "爱德华博纳文图尔"  # Edward Bonaventure
+  "爱德华 霍华德"  # Edward Howard
+  "埃格蒙特"  # Egmont
+  "大象"  # Elephant
+  "埃利亚斯"  # Elias
+  "伊丽莎白"  # Elizabeth
+  "伊丽莎白乔纳斯"  # Elizabeth Jonas
+  "艾利诺尔"  # Ellynore
+  "埃塞克斯"  # Essex
+  "欧罗巴"  # Europa
+  "太棒了"  # Excellent
+  "交流"  # Exchange
+  "埃克塞特"  # Exeter
+  "埃克斯茅斯"  # Exmouth
+  "远征"  # Expedition
+  "实验"  # Experiment
+  "法贡斯"  # Fagons
+  "费尔法克斯"  # Fairfax
+  "鹰"  # Falcon
+  "Falkland"
+  "Falmouth"
+  "名望"  # Fame
+  "Faversham"
+  "钟爱"  # Favourite
+  "同伴"  # Fellowship
+  "菲姆"  # Ferme
+  "坚定"  # Firm
+  "Flamborough"
+  "弗利特伍德"  # Fleetwood
+  "弗莱特"  # Flight
+  "Flirt"
+  "福克斯通"  # Folkestone
+  "无敌"  # Formidable
+  "福瑞斯特"  # Forrester
+  "坚韧"  # Fortitude
+  "幸运"  # Fortune
+  "可怖"  # Foudroyant
+  "弗朗西斯"  # Francis
+  "法兰西红宝石"  # French Ruby
+  "星期五"  # Friday
+  "皇家加百列"  # Gabriel Royal
+  "Galley Subtile"
+  "加兰德"  # Garland
+  "乔治"  # George
+  "直布罗陀"  # Gibraltar
+  "康乃馨"  # Gillyflower
+  "环球"  # Globe
+  "格洛斯特"  # Gloucester
+  "金马"  # Golden Horse
+  "金狮"  # Golden Lion
+  "金凤凰"  # Golden Phoenix
+  "歌利亚"  # Goliath
+  "恩典"  # Goodgrace
+  "总督"  # Governor
+  "恩惠之神"  # Grace Dieu
+  "格拉夫森"  # Grafton
+  "鲸鱼"  # Grampus
+  "女主人"  # Grand Mistress
+  "格兰瑟姆"  # Grantham
+  "巨吠"  # Great Bark
+  "巨吠艾格"  # Great Bark Aiger
+  "伟善"  # Great Charity
+  "伟大伊丽莎白"  # Great Elizabeth
+  "大桨帆船"  # Great Galley
+  "伟大礼物"  # Great Gift
+  "大哈利"  # Great Harry
+  "大尼古拉斯"  # Great Nicholas
+  "巨舟"  # Great Pinnace
+  "大斑马"  # Great Zebra
+  "巨龙"  # Green Dragon
+  "格林威治"  # Greenwich
+  "灰猎犬"  # Greyhound
+  "格里芬"  # Griffin
+  "根西"  # Guernsey
+  "向导"  # Guide
+  "吉尔福德"  # Guilford
+  "几内亚"  # Guinea
+  "半月"  # Half Moon
+  "汉普郡"  # Hampshire
+  "汉普顿宫"  # Hampton Court
+  "汉尼拔"  # Hannibal
+  "野兔"  # Hare
+  "哈里桑威奇"  # Harie Sandwich
+  "鹰身女妖"  # Harpy
+  "哈维奇"  # Harwich
+  "黑斯廷斯"  # Hastings
+  "霍克"  # Hawke
+  "冒险"  # Hazardous
+  "心脏"  # Heart
+  "赫克托"  # Hector
+  "赫尔沃森"  # Helverson
+  "亨利埃塔 玛丽亚"  # Henrietta Maria
+  "恩惠之神亨利"  # Henry Grace a Dieu
+  "亨利 汉普顿"  # Henry Hampton
+  "海格力斯"  # Hercules
+  "赫敏"  # Hermione
+  "英雄"  # Hero
+  "希伯尼亚"  # Hibernia
+  "Hind"
+  "霍格"  # Hogue
+  "霍利格斯特 斯佩恩"  # Holighost Spayne
+  "希望"  # Hope
+  "霍普巴克"  # Hope Bark
+  "希望冒险"  # Hopeful Adventure
+  "瑞典人之家"  # House of Sweeds
+  "亨伯"  # Humber
+  "猎手"  # Hunter
+  "骠骑兵"  # Hussar
+  "显赫"  # Illustrious
+  "牢不可破"  # Impregnable
+  "提高"  # Increase
+  "不懈"  # Indefatigable
+  "刻板"  # Inflexible
+  "无畏"  # Intrepid
+  "无敌"  # Invincible
+  "伊普斯维奇"  # Ipswich
+  "伊希斯"  # Isis
+  "艾斯利普"  # Islip
+  "詹姆斯"  # James
+  "James Galley"
+  "James of Hull"
+  "Jennet"
+  "Jennet Prywin"
+  "Jer Falcon"
+  "Jersey"
+  "Jesus"
+  "Jesus of Lubeck"
+  "John Baptist"
+  "John of Greenwich"
+  "朱诺"  # Juno
+  "Kateryn Galley"
+  "凯瑟琳"  # Katherine
+  "凯瑟琳巴克"  # Katherine Bark
+  "肯特"  # Kent
+  "翠鸟"  # Kingfisher
+  "金斯顿"  # Kingston
+  "Kinsale"
+  "兰开斯特"  # Lancaster
+  "兰波特"  # Langport
+  "Lapwing"
+  "Lark"
+  "Laurel"
+  "Leander"
+  "李"  # Lee
+  "Lenox"
+  "Leopard"
+  "Less Bark"
+  "Less Pinnace"
+  "Less Zebra"
+  "Lichfield"
+  "林肯"  # Lincoln
+  "幼狮"  # Lion's Whelp
+  "Little Barbara"
+  "Little Charity"
+  "Lively"
+  "蜥蜴"  # Lizard
+  "伦敦"  # London
+  "洛维斯托弗"  # Lowestoffe
+  "忠诚伦敦"  # Loyal London
+  "勒德洛"  # Ludlow
+  "莱姆"  # Lyme
+  "里斯"  # Lys
+  "马格达拉"  # Magdala
+  "马加达兰"  # Magdeline
+  "马格纳尼梅"  # Magnanime
+  "华丽"  # Magnificent
+  "梅德斯通"  # Maidstone
+  "Majestic"
+  "Makeshift"
+  "Margaret"
+  "Marie Hampton"
+  "Marie Spayne"
+  "Marigold"
+  "马尔伯勒"  # Marlborough
+  "Marlion"
+  "Marmaduke"
+  "Marryan"
+  "Mars"
+  "Marston Moor"
+  "Martin"
+  "玛丽"  # Mary
+  "玛丽和约瑟夫"  # Mary and Joseph
+  "玛丽和约翰"  # Mary and John
+  "Mary Antrim"
+  "Mary Fortune"
+  "Mary Gloria"
+  "Mary Grace"
+  "Mary Guildford"
+  "Mary Hambrough"
+  "Mary Howard"
+  "Mary Imperial"
+  "Mary James"
+  "Mary Norwell"
+  "Mary Odierne"
+  "Mary Rose"
+  "Mary Thomas"
+  "Mary Willoughby"
+  "Matthew"
+  "Matthew Gonson"
+  "Mawdlyn of Deptford"
+  "美杜莎"  # Medusa
+  "Medway"
+  "Meeanee"
+  "Melville"
+  "墨丘利"  # Mercury
+  "Merhonour"
+  "梅林"  # Merlin
+  "美人鱼"  # Mermaid
+  "Michael"
+  "Milford"
+  "Minden"
+  "Minion"
+  "Minnikin"
+  "Minotaur"
+  "Moderate"
+  "Monarch"
+  "Monck"
+  "Monmouth"
+  "Montagu"
+  "月亮"  # Moon
+  "Moor"
+  "Mordaunt"
+  "Mulgrave"
+  "Namur"
+  "Naseby"
+  "拿骚"  # Nassau
+  "Neptune"
+  "New Bark"
+  "Newark"
+  "Newcastle"
+  "夜莺"  # Nightingale
+  "Nonpareil"
+  "Nonsuch"
+  "诺福克"  # Norfolk
+  "诺森伯兰"  # Northumberland
+  "Norwich"
+  "诺丁汉"  # Nottingham
+  "Ocean"
+  "Orford"
+  "俄里翁"  # Orion
+  "Ormonde"
+  "Ossory"
+  "牛津"  # Oxford
+  "Pallas"
+  "Pansy"
+  "Panther"
+  "Parrot"
+  "Patrick"
+  "Paul"
+  "Pelican"
+  "Pembroke"
+  "Pendennis"
+  "Perseus"
+  "彼得"  # Peter
+  "Peter Pomegranate"
+  "Philip and Mary"
+  "Pitt"
+  "Plymouth"
+  "Poictiers"
+  "Polyphemus"
+  "Popinjay"
+  "Porcupine"
+  "Port Mahon"
+  "Portland"
+  "Powerful"
+  "President"
+  "Preston"
+  "Primrose"
+  "Primrose Hoy"
+  "Prince"
+  "Prince Consort"
+  "Prince Frederick"
+  "Prince George"
+  "奥兰治亲王"  # Prince of Orange
+  "威尔士亲王"  # Prince of Wales
+  "Prince Royal"
+  "Princess Amelia"
+  "Princess Caroline"
+  "Princess Louisa"
+  "Princess Royal"
+  "Promt"
+  "Prudent"
+  "女王"  # Queen
+  "夏洛特女王"  # Queen Charlotte
+  "Quittance"
+  "Rainbow"
+  "Raisonnable"
+  "Ramillies"
+  "Ranelagh"
+  "红狮"  # Red Lion
+  "Redoubtable"
+  "Reformation"
+  "Regent"
+  "Renown"
+  "Repulse"
+  "Research"
+  "Reserve"
+  "Resistance"
+  "Resolution"
+  "Restoration"
+  "复仇"  # Revenge
+  "Revenge of Whitehall"
+  "Rippon"
+  "Rochester"
+  "Rochfort"
+  "Rodney"
+  "Roebuck"
+  "Romney"
+  "Roo"
+  "Rose Galley"
+  "Rosebush"
+  "Royal Adelaide"
+  "Royal Alfred"
+  "Royal Anne Galley"
+  "Royal Charles"
+  "Royal James"
+  "Royal Katherine"
+  "Royal Oak"
+  "Royal Sovereign"
+  "Royal William"
+  "Ruby"
+  "Rupert"
+  "Russell"
+  "Sacrett"
+  "Saint Albans"
+  "Saint Andrew"
+  "Saint David"
+  "圣乔治"  # Saint George
+  "圣劳伦斯"  # Saint Lawrence
+  "Saint Michael"
+  "Saint Patrick"
+  "Saint"
+  "Paul"
+  "Saker"
+  "Salamander"
+  "Salisbury"
+  "Sampson"
+  "Sandwich"
+  "Sapphire"
+  "Satisfaction"
+  "Saturn"
+  "Saudadoes"
+  "Scarborough"
+  "Scipio"
+  "Seahorse"
+  "Search"
+  "Sedgemoor"
+  "Selby"
+  "Seven Oaks"
+  "七星"  # Seven Stars
+  "Severn"
+  "Sheerness"
+  "Shrewsbury"
+  "Siren"
+  "Slothany"
+  "Small Swallow"
+  "Solebay"
+  "Solitaire"
+  "Somerset"
+  "Sorlings"
+  "南安普敦"  # Southampton
+  "Southsea Castle"
+  "Sovereign"
+  "Sovereign of the Seas"
+  "Speaker"
+  "Speedwell"
+  "斯潘塞"  # Spencer
+  "斯芬克斯"  # Sphinx
+  "闪耀"  # Splendid
+  "Sprite"
+  "Stag"
+  "Standard"
+  "Stately"
+  "Stirling Castle"
+  "Stork"
+  "Strafford"
+  "Struss"
+  "Success"
+  "Suffolk"
+  "桑德兰"  # Sunderland
+  "Sunne"
+  "Superb"
+  "Sussex"
+  "Sutherland"
+  "Swallow"
+  "Swan"
+  "Sweepstake"
+  "迅捷"  # Swift
+  "Swiftsure"
+  "鞑靼"  # Tartar
+  "Tavistock"
+  "Temeraire"
+  "Terrible"
+  "Theseus"
+  "托马斯"  # Thomas
+  "三王"  # Three Kings
+  "Thunderer"
+  "Tiger"
+  "Tilbury"
+  "Torbay"
+  "Torrington"
+  "Towey"
+  "Tramontana"
+  "Tredagh"
+  "Trego Ronnyger"
+  "Tremendous"
+  "Trident"
+  "Trinity"
+  "Trinity Henry"
+  "Trinity Royal"
+  "Triton"
+  "Triumph"
+  "Trusty"
+  "Trywright"
+  "Two Lions"
+  "独角兽"  # Unicorn
+  "Union"
+  "Unity"
+  "Valiant"
+  "先锋"  # Vanguard
+  "可敬"  # Venerable
+  "维斯塔"  # Vestal
+  "宿将"  # Veteran
+  "胜利"  # Victory
+  "Vigo"
+  "Vindictive"
+  "紫罗兰"  # Violet
+  "轻浮"  # Volage
+  "战士"  # Warrior
+  "沃斯拜特"  # Warspite
+  "沃里克"  # Warwick
+  "韦斯特盖特"  # Westergate
+  "韦茅斯"  # Weymouth
+  "白熊"  # White Bear
+  "白鸦"  # White Raven
+  "温彻斯特"  # Winchester
+  "温莎"  # Windsor
+  "温莎城堡"  # Windsor Castle
+  "飞龙"  # Wivern
+  "伍尔维奇"  # Woolwich
+  "伍斯特"  # Worcester
+  "雅茅斯"  # Yarmouth
+  "约克"  # York
+  "小王子"  # Young Prince
+  "狂热"  # Zealous
+}
+army_names = {
+  "皇家卫队"  # Royal Army
+  "苏格兰军"  # Army of Scotland
+  "爱尔兰军"  # Army of Ireland
+}
+fleet_names = {
+  "皇家海军"  # Royal Navy
+  "蓝色中队"  # Blue Squadron
+  "红色中队"  # Red Squadron
+  "白色中队"  # White Squadron
+  "北海中队"  # North Sea Squadron
+  "海峡中队"  # Channel Squadron
+}

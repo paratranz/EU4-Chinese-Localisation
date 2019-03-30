@@ -1,0 +1,196 @@
+graphical_culture = westerngfx
+color = {
+  187
+  206
+  247
+}
+historical_idea_groups = {
+  defensive_ideas
+  offensive_ideas
+  trade_ideas
+  religious_ideas
+  diplomatic_ideas
+  economic_ideas
+  innovativeness_ideas
+  spy_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  french_caracolle
+  swedish_gustavian
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_cuirassier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "夏洛特 #0" = -1  # Charlotte #0
+  "安娜 #0" = -1  # Anne #0
+  "罗丝 #0" = -1  # Rose #0
+  "埃莱奥诺雷 #0" = -1  # Eléonore #0
+  "玛丽 #0" = -1  # Marie #0
+  "伊莎贝尔 #0" = -1  # Isabelle #0
+  "玛格丽特 #0" = -10  # Marguerite #0
+  "维乌 #0" = 0  # Vives #0
+  "维桑茨 #0" = 0  # Vicentz #0
+  "托马斯 #0" = 0  # Thomas #0
+  "罗默 #0" = 0  # Romeu #0
+  "珀尔 #0" = 0  # Pol #0
+  "帕尔 #0" = 0  # Per #0
+  "欧斯 #0" = 0  # Oth #0
+  "米克 #0" = 0  # Miqueu #0
+  "马特乌 #0" = 0  # Matheu #0
+  "马蒂 #0" = 0  # Martí #0
+  "罗伊丝 #0" = 0  # Loys #0
+  "若尔当 #0" = 0  # Jordan #0
+  "雅格米 #0" = 0  # Jacme #0
+  "吉扬 #0" = 0  # Guilhem #0
+  "戈富里 #0" = 0  # Gaufré #0
+  "加斯托 #0" = 0  # Gastó #0
+  "菲利克斯 #0" = 0  # Frix #0
+  "富尔盖 #0" = 0  # Folquet #0
+  "费兰 #0" = 0  # Ferrán #0
+  "埃森曼 #0" = 0  # Exemen #0
+  "埃斯泰夫 #0" = 0  # Estève #0
+  "埃尼科 #0" = 0  # Eneco #0
+  "多梅容 #0" = 0  # Domejon #0
+  "贝特朗 #0" = 0  # Bertrand #0
+  "贝尔纳 #0" = 0  # Bernat #0
+  "巴托密乌 #0" = 0  # Bartomiu #0
+  "阿玛里克 #0" = 0  # Aymeric #0
+  "阿劳德 #0" = 0  # Arnaud #0
+  "阿尔芒 #0" = 0  # Armand #0
+  "皮埃尔 热罗 #1" = 1  # Pierre-Géraud #1
+  "埃斯基瓦 #1" = 1  # Esquivat #1
+  "马斯卡罗斯 #1" = 1  # Mascarose #1
+  "阿劳德 伯纳德 #2" = 1  # Arnaud-Bernard #2
+  "纪尧姆 #1" = 5  # Guillaume #1
+  "热罗 #6" = 5  # Géraud #6
+  "亨利 #0" = 10  # Henri #0
+  "伯纳德 #6" = 20  # Bernard #6
+  "查理 #0" = 40  # Charles #0
+  "约翰 #3" = 40  # Jean #3
+}
+leader_names = {
+  "达尔塔尼昂"  # d'Artagnan
+  "达斯特拉克"  # d'Astarac
+  "达旺萨克"  # d'Avensac
+  "达韦藏"  # d'Avezan
+  "巴里 德 皮约勒"  # Barry de Puyol
+  "德 巴特"  # de Batz
+  "德 布罗屈埃"  # de Broque
+  "德 比罗斯"  # de Burosse
+  "德 卡尔比亚克"  # de Calbiac
+  "德 康拜拉克"  # de Cambairac
+  "德 卡斯塔内"  # de Castanet
+  "德 卡斯泰尔巴雅克"  # de Castelbajac
+  "德 卡特朗"  # de Catellan
+  "夏斯特内 德 皮伊塞居"  # Chastenet de Puységur
+  "德 谢韦尼"  # de Cheveny
+  "德 科尔内朗"  # de Corneillan
+  "杜 科斯 德 拉伊特"  # du Cos de La Hitte
+  "德斯克里尼亚克"  # d'Esclignac
+  "德斯帕尔贝"  # d'Esparbez
+  "德 福多阿"  # de Faudoas
+  "德 福尔卡德"  # de Forcade
+  "德 加拉尔 德 布拉萨克"  # de Galard de Brassac
+  "德 热斯塔"  # de Gestas
+  "德 古特"  # de Goth
+  "德 格罗索尔"  # de Grossoles
+  "德 拉巴特"  # de La Barthe
+  "德 拉布里夫"  # de La Briffe
+  "德 拉卡兹"  # de Lacaze
+  "德 拉塞朗"  # de Lasseran
+  "德 拉瓦达克"  # de Lavardac
+  "德 利勒茹尔丹"  # de L'Isle-Jourdain
+  "德 利扎雷"  # de Lizarey
+  "德 洛马尼"  # de Lomagne
+  "德 卢皮亚克"  # de Loupiac
+  "德 吕佩"  # de Luppé
+  "德 莫莱翁"  # de Mauléon
+  "德 莫帕"  # de Maupas
+  "德 蒙科尔内"  # de Montcorneil
+  "德 蒙泰居"  # de Montégut
+  "德 蒙特吕克"  # de Montluc
+  "德 蒙珀扎"  # de Montpezat
+  "德 诺加雷"  # de Nogaret
+  "德 帕尔戴朗"  # de Pardaillan
+  "德 罗屈埃洛尔"  # de Roquelaure
+  "德 萨勒"  # de Salles
+  "德 桑萨克"  # de Sensacq
+  "德 塞里尼亚克"  # de Sérignac
+  "德 索拉日"  # de Solages
+  "德 拉图尔莫布尔"  # de la Tour-Maubourg
+  "德 瓦桑"  # de Voisins
+}
+ship_names = {
+  "艾尼昂"  # l'Aignan
+  "欧什"  # l'Auch
+  "欧特里沃"  # l'Auterive
+  "布吕盖恩"  # le Brugnens
+  "卡斯泰拉维尔迪朗"  # le Castera-Verduran
+  "卡斯特尔雅卢"  # le Casteljaloux
+  "卡斯蒂隆马萨"  # le Castillon-Massas
+  "孔东"  # le Condom
+  "库卢梅蒙代巴"  # le Couloume-Mondebat
+  "杜兰"  # le Duran
+  "欧兹"  # l'Eauze
+  "埃斯帕勒邦"  # leEsparebent
+  "弗勒朗斯"  # le Fleurance
+  "格莱里"  # le Grailly
+  "阿热莫"  # le Hagetmau
+  "热甘"  # le Jegun
+  "拉朗"  # le Lalanne
+  "拉鲁米乌阿克"  # le Larroumiouac
+  "拉瑟拉德"  # le Lasserade
+  "拉瑟布普罗普尔"  # le Lasseube-Propre
+  "拉特斯泰尔"  # le La Testère
+  "罗朗桑"  # le Laurensan
+  "拉瓦尔当"  # le Lavardens
+  "莱克图尔"  # le Lectoure
+  "吕皮亚克"  # le Lupiac
+  "马桑"  # le Massin
+  "米拉蒙拉图"  # le Miramont-Latour
+  "米朗德"  # le Mirande
+  "米尔普瓦"  # le Mirepoix
+  "蒙托莱克雷诺"  # le Montaut-les-Créneaux
+  "孟德斯鸠"  # le Montesquiou
+  "蒙泰斯特吕克"  # le Montestruc
+  "诺加罗"  # le Nogaro
+  "波拉克"  # le Pauilhac
+  "佩吕斯马萨"  # le Peyrusse-Massas
+  "普雷尼昂"  # le Preignan
+  "朗贝尔"  # le Rambert
+  "罗克福尔"  # le Roquefort
+  "罗屈埃洛尔"  # le Roquelaure
+  "圣奥尼朗格罗"  # le Saint-Aunix-Langros
+  "圣克拉尔"  # le Saint-Clar
+  "圣克里斯蒂耶"  # la Sainte-Christie
+  "圣格里耶德"  # le Saint-Griède
+  "圣拉里"  # le Saint-Lary
+  "圣皮伊"  # le Saint-Puy
+  "圣拉代贡德"  # la Sainte-Radegonde
+  "圣瑟韦"  # le Saint-Sever
+  "图讷库普"  # le Tournecoupe
+  "蒂代尔"  # le Tudelle
+  "维克费藏萨克"  # le Vic-Fézensac
+}
+army_names = {
+  "阿尔玛涅克军"  # Armée d'Armagnac
+  "洛马涅军"  # Armée de Lomagne
+  "孔多穆瓦军"  # Armée du Condomois
+  "阿斯塔拉克军"  # Armée de l'Astarac
+  "费藏萨格军"  # Armée du Fézensaguet
+  "日穆瓦军"  # Armée du Gimois
+  "加斯科涅军"  # Armée de Gascogne
+  "$PROVINCE$军"  # Armée de $PROVINCE$
+}

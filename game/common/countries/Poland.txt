@@ -1,0 +1,281 @@
+graphical_culture = easterngfx
+color = {
+  197
+  92
+  106
+}
+revolutionary_colors = {
+  5
+  0
+  5
+}
+historical_idea_groups = {
+  diplomatic_ideas
+  humanist_ideas
+  trade_ideas
+  offensive_ideas
+  administrative_ideas
+  defensive_ideas
+  aristocracy_ideas
+  quality_ideas
+}
+historical_units = {
+  bardiche_infantry
+  eastern_knights
+  slavic_stradioti
+  eastern_militia
+  hungarian_hussar
+  polish_musketeer
+  polish_hussar
+  polish_tercio
+  polish_winged_hussar
+  russian_lancer
+  russian_cuirassier
+  eastern_skirmisher
+  eastern_uhlan
+  eastern_carabinier
+  russian_mass
+}
+monarch_names = {
+  "凯瑟琳 #0" = -1  # Katarzyna #0
+  "安娜 #0" = -1  # Anna #0
+  "雅德维嘉 #1" = -1  # Jadwiga #1
+  "齐格弗里德 #0" = 0  # Zygfryd #0
+  "西蒙 #0" = 0  # Szymon #0
+  "赛尔维斯特 #0" = 0  # Sylwester #0
+  "拉法尔 #0" = 0  # Rafal #0
+  "帕特雷克 #0" = 0  # Patryk #0
+  "奥斯卡 #0" = 0  # Oskar #0
+  "米罗斯拉夫 #0" = 0  # Miroslaw #0
+  "梅什科 #3" = 0  # Mieszko #3
+  "马里乌斯 #0" = 0  # Mariusz #0
+  "马克西姆 #0" = 0  # Maksym #0
+  "路卡什 #0" = 0  # Lukasz #0
+  "路德维克 #0" = 0  # Ludwik #0
+  "路基约 #0" = 0  # Lucjusz #0
+  "列赫 #0" = 0  # Lech #0
+  "克里斯蒂安 #0" = 0  # Krystian #0
+  "伊万 #0" = 0  # Iwan #0
+  "伊戈尔 #0" = 0  # Igor #0
+  "古斯塔夫 #0" = 0  # Gustaw #0
+  "费迪南 #0" = 0  # Ferdynand #0
+  "欧根努斯 #0" = 0  # Eugeniusz #0
+  "埃米尔 #0" = 0  # Emil #0
+  "多米尼克 #0" = 0  # Dominik #0
+  "大卫 #0" = 0  # Dawid #0
+  "布罗尼斯拉夫 #0" = 0  # Bronislaw #0
+  "博格米尔 #0" = 0  # Bogumil #0
+  "巴特洛梅耶 #0" = 0  # Bartlomiej #0
+  "安杰伊 #0" = 0  # Andrzej #0
+  "阿列克谢 #0" = 0  # Aleksy #0
+  "阿尔伯特 #0" = 0  # Albert #0
+  "奥波拉特 #0" = 10  # Olbracht #0
+  "卡罗尔 #0 费迪南" = 10  # Karol #0 Ferdynand
+  "扬 #0 齐格蒙特" = 10  # Jan #0 Zygmunt
+  "弗里德里克 #0" = 10  # Fryderyk #0
+  "克日什托夫 #0" = 10  # Krzysztof #0
+  "齐格蒙特 #0 卡齐米日" = 15  # Zygmunt #0 Kazimierz
+  "亚历山大 #0 卡罗尔" = 15  # Aleksander #0 Karol
+  "齐格蒙特 #0 奥古斯特" = 20  # Zygmunt #0 August
+  "齐格蒙特 #0" = 20  # Zygmunt #0
+  "斯特凡 #0" = 20  # Stefan #0
+  "米哈尔 #0" = 20  # Michal #0
+  "扬 #0 卡齐米日" = 20  # Jan #0 Kazimierz
+  "扬 #0 奥波拉特" = 20  # Jan #0 Olbracht
+  "扬 #0" = 20  # Jan #0
+  "亨里克 #0" = 20  # Henryk #0
+  "亚历山大 #0" = 20  # Aleksander #0
+  "卡齐米日 #3" = 20  # Kazimierz #3
+  "斯坦尼斯瓦夫 #0" = 40  # Stanislaw #0
+  "瓦迪斯瓦夫 #3" = 60  # Wladyslaw #3
+  "奥古斯特 #1" = 60  # August #1
+}
+leader_names = {
+  "阿齐泽维斯基"  # Arciszewski
+  "贝尼奥斯基"  # Benyowski
+  "比金斯基"  # Bidzinski
+  "布拉尼斯基"  # Branicki
+  "别林斯基"  # Bielinski
+  "波纳"  # Boner
+  "布诺斯托夫斯基"  # Brzostowski
+  "布查茨基"  # Buczacki
+  "巴特勒"  # Butler
+  "恰尔涅茨基"  # Czarniecki
+  "克门托斯基"  # Chometowski
+  "塞特讷"  # Cetner
+  "克莱维茨基"  # Chlewicki
+  "克德茨基"  # Chodecki
+  "恰普斯基"  # Czapski
+  "恰林科斯基"  # Czarnkowski
+  "杜宁"  # Dunin
+  "登霍夫"  # Denhoff
+  "德热维茨基"  # Drzewicki
+  "达姆布斯基"  # Dambski
+  "齐亚伦斯基"  # Dzialynski
+  "杰杜希茨基"  # Dzieduszycki
+  "菲尔莱伊"  # Firlej
+  "弗雷德罗"  # Fredro
+  "格罗齐茨基"  # Grodzicki
+  "古尔卡"  # Górka
+  "格拉博夫斯基"  # Grabowski
+  "盖姆比茨基"  # Gembicki
+  "戈西夫斯基"  # Gosiewski
+  "格鲁津斯基"  # Grudzinski
+  "格日穆尔托夫斯基"  # Grzymultowski
+  "古罗夫斯基"  # Gurowski
+  "霍瓦尔德特"  # Houwaldt
+  "赫伯特"  # Herburt
+  "黑尔曾"  # Hylzen
+  "雅布洛诺夫斯基"  # Jablonowski
+  "亚兹洛维茨基"  # Jazlowiecki
+  "亚拉斯拉夫斯基"  # Jaroslawski
+  "乔丹"  # Jordan
+  "尤德茨基"  # Judycki
+  "库洛茨维茨基"  # Kurozwecki
+  "科涅茨波尔斯基"  # Koniecpolski
+  "克拉辛斯基"  # Krasinski
+  "卡利诺夫斯基"  # Kalinowski
+  "科雷茨基"  # Korycki
+  "卡扎诺夫斯基"  # Kazanowski
+  "克米塔"  # Kmita
+  "科莫罗夫斯基"  # Komorowski
+  "卡梅涅茨基"  # Kamieniecki
+  "卡尔恩科夫斯基"  # Karnkowski
+  "克拉斯茨基"  # Krasicki
+  "克维莱茨基"  # Kwilecki
+  "卢博米尔斯基"  # Lubomirski
+  "利索夫斯基"  # Lisowski
+  "兰茨科龙斯基"  # Lanckoronski
+  "莱什琴斯基"  # Leszczynski
+  "拉茨基"  # Lacki
+  "拉塔尔斯基"  # Latalski
+  "利盖扎"  # Ligeza
+  "利普斯基"  # Lipski
+  "卢布兰斯基"  # Lubranski
+  "马尔斯基"  # Malski
+  "姆尼泽赫"  # Mniszech
+  "马特琴斯基"  # Matczynski
+  "姆洛杰永斯基"  # Mlodziejowski
+  "马瓦霍夫斯基"  # Malachowski
+  "梅尔什滕斯基"  # Melsztynski
+  "梅莱茨基"  # Mielecki
+  "梅尔曾斯基"  # Mielzynski
+  "摩尔什滕"  # Morsztyn
+  "梅切尔斯基"  # Mycielski
+  "纳莱茨"  # Nalecz
+  "涅肖洛夫斯基"  # Niesiolowski
+  "奥莱西尼茨基"  # Olesnicki
+  "奥帕茨基"  # Opacki
+  "奥扎罗夫斯基"  # Ozarowski
+  "奥斯索林斯基"  # Ossolinski
+  "奥德罗瓦斯"  # Odrowaz
+  "奥波罗夫斯基"  # Oporowski
+  "奥斯特罗鲁格"  # Ostroróg
+  "奥斯乔夫斯基"  # Ostrowski
+  "帕涅夫斯基"  # Paniewski
+  "波尼亚托夫斯基"  # Poniatowski
+  "普瓦斯基"  # Pulaski
+  "普日耶姆斯基"  # Przyjemski
+  "皮亚塞琴斯基"  # Piaseczynski
+  "波托茨基"  # Potocki
+  "皮莱茨基"  # Pilecki
+  "波切伊"  # Pociej
+  "波宁斯基"  # Poninski
+  "普拉兹莫夫斯基"  # Prazmowski
+  "普尔泽本多夫斯基"  # Przebendowski
+  "雷特维亚恩斯基"  # Rytwianski
+  "热武斯基"  # Rzewuski
+  "拉琴斯基"  # Raczynski
+  "拉杰约夫斯基"  # Radziejowski
+  "雷伊"  # Rej
+  "索别斯基"  # Sobieski
+  "谢梅诺维奇"  # Siemienowicz
+  "苏尔科夫斯基"  # Sulkowski
+  "斯塔德尼茨基"  # Stadnicki
+  "谢尼奥斯卡"  # Sieniawski
+  "谢拉科夫斯基"  # Sierakowski
+  "斯卡尔贝克"  # Skarbek
+  "索尔蒂克"  # Soltyk
+  "沙夫拉涅茨"  # Szafraniec
+  "谢姆贝克"  # Szembek
+  "希德洛维茨基"  # Szydlowiecki
+  "斯齐博尔"  # Scibor
+  "塔尔诺夫斯基"  # Tarnowski
+  "塔尔洛"  # Tarlo
+  "滕琴斯基"  # Teczynski
+  "托米茨基"  # Tomicki
+  "蒂曾豪斯"  # Tyzenhaus
+  "乌汉斯基"  # Uchanski
+  "维霍夫斯基"  # Wyhowski
+  "维洛波尔斯基"  # Wielopolski
+  "瓦莱夫斯基"  # Walewski
+  "韦厄赫尔"  # Weyher
+  "维尔兹博夫斯基"  # Wierzbowski
+  "沃尔斯基"  # Wolski
+  "沃德齐茨基"  # Wodzicki
+  "扎莫伊斯基"  # Zamoyski
+  "泽布尔奇多夫斯基"  # Zebrzydowski
+  "扎茨维尔霍夫斯基"  # Zacwilchowski
+  "日博罗夫斯基"  # Zborowski
+  "扎卢斯基"  # Zaluski
+}
+ship_names = {
+  "诺亚方舟"  # Arka Noego
+  "白鹰"  # Bialy Orzel
+  "风暴"  # Burza
+  "白狮"  # Bialy Lew
+  "布杰斯克-库亚雅省"  # Brzesko-Kujawskie
+  "贝沃兹省"  # Belzkie
+  "布拉茨瓦夫省"  # Braclawskie
+  "慈济"  # Charitas
+  "黑鹰"  # Czarny Orzel
+  "黑鸦"  # Czarny Kruk
+  "海乌姆瑙省"  # Chelminskie
+  "切尔尼戈夫省"  # Czernichowskie
+  "幸运"  # Fortuna
+  "铁锥"  # Gryf
+  "星辰"  # Gwiazda
+  "格涅兹诺省"  # Gnieznienskie
+  "伊诺弗洛科沃夫省"  # Inowroclawskie
+  "大卫王"  # Król Dawid
+  "卡利什"  # Kaliskie
+  "克拉科夫省"  # Krakowskie
+  "基辅省"  # Kijowskie
+  "克拉科夫"  # Kraków
+  "卢布林"  # Lublin
+  "飞行杜鹿"  # Latajacy Jelen
+  "利沃夫"  # Lwów
+  "宛兹卡省"  # Leczyckie
+  "卢布林省"  # Lubelskie
+  "小白鹰"  # Maly Bialy Orzel
+  "马尔堡省"  # Malborskie
+  "马佐夫舍省"  # Mazowieckie
+  "坚韧"  # Niewrazliwy
+  "新黑鹰"  # Nowy Czarny Orzel
+  "先知塞缪尔"  # Prorok Samuel
+  "水小姐"  # Panna Wodna
+  "烈火"  # Plomien
+  "波兹南省"  # Poznanskie
+  "普洛茨克省"  # Plockie
+  "普沃茨克省"  # Podlaskie
+  "波多尔省"  # Podolskie
+  "骑士圣乔治"  # Rycerz Swiety Jerzy
+  "拉瓦省"  # Rawskie
+  "鲁塞尼亚省"  # Ruskie
+  "射手座"  # Strzelec
+  "至高主权"  # Suwerenny
+  "圣彼得"  # Swiety Piotr
+  "谢拉兹省"  # Sieradzkie
+  "桑多梅日省"  # Sandomierskie
+  "圣卡齐米日"  # Swiety Kazimierz
+  "烈日"  # Wielkie Slonce
+  "水瓶座"  # Wodnik
+  "瓦尔米亚省"  # Warminskie
+  "沃尔希连省"  # Wolynskie
+  "华沙"  # Warszawa
+  "胜利"  # Zwyciestwo
+  "黄狮"  # Zólty Lew
+}
+army_names = {
+  "$PROVINCE$军"  # Armia z $PROVINCE$
+}

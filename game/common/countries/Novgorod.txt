@@ -1,0 +1,429 @@
+graphical_culture = easterngfx
+color = {
+  97
+  126
+  37
+}
+revolutionary_colors = {
+  8
+  13
+  0
+}
+historical_idea_groups = {
+  administrative_ideas
+  plutocracy_ideas
+  trade_ideas
+  religious_ideas
+  offensive_ideas
+  maritime_ideas
+  economic_ideas
+  quality_ideas
+}
+historical_units = {
+  bardiche_infantry
+  eastern_knights
+  slavic_stradioti
+  eastern_militia
+  muscovite_musketeer
+  muscovite_caracolle
+  muscovite_soldaty
+  muscovite_cossack
+  russian_petrine
+  russian_lancer
+  russian_green_coat
+  russian_cuirassier
+  eastern_skirmisher
+  eastern_uhlan
+  eastern_carabinier
+  russian_mass
+}
+monarch_names = {
+  "马尔法 #0" = -1  # Marfa #0
+  "兹拉塔 #0" = -1  # Zlata #0
+  "安娜斯塔西娅 #0" = -1  # Anastasiya #0
+  "雅夫盖尼 #0" = 0  # Yevgeniy #0
+  "瓦列里 #0" = 0  # Valeriy #0
+  "谢尔盖 #0" = 0  # Sergei #0
+  "谢苗 #0" = 0  # Semen #0
+  "萨维里 #0" = 0  # Saveliy #0
+  "拉多米尔 #0" = 0  # Radomir #0
+  "普罗柯比 #0" = 0  # Prokopiy #0
+  "奥列格 #0" = 0  # Oleg #0
+  "尼基佛尔 #0" = 0  # Nikifor #0
+  "纳扎里 #0" = 0  # Nazariy #0
+  "马特斐 #0" = 0  # Matveiy #0
+  "伊凡 #0" = 0  # Ivan #0
+  "约西夫 #0" = 0  # Iosif #0
+  "加弗列 #0" = 0  # Gavriil #0
+  "费奥多西 #0" = 0  # Feodosiy #0
+  "多罗费 #0" = 0  # Dorofey #0
+  "丹尼尔 #0" = 0  # Daniil #0
+  "鲍里斯 #0" = 0  # Boris #0
+  "阿尔卡季 #0" = 0  # Arkadiy #0
+  "安纳托利 #0" = 0  # Anatoliy #0
+  "阿列克谢 #0" = 0  # Alexei #0
+  "阿基姆 #0" = 0  # Akim #0
+  "阿法纳西 #0" = 0  # Afanasiy #0
+  "大卫 #2" = 10  # David #2
+  "康斯坦丁 #1" = 15  # Konstantin #1
+  "留里克 #2" = 15  # Rurik #2
+  "罗曼 #2" = 15  # Roman #2
+  "亚罗波尔克 #3" = 15  # Yaropolk #3
+  "姆斯季斯拉夫 #6" = 15  # Mstislav #6
+  "米哈伊尔 #1" = 20  # Mikhail #1
+  "费奥多尔 #1" = 20  # Fyodor #1
+  "安德烈 #1" = 20  # Andrei #1
+  "亚历山大 #1" = 20  # Aleksandr #1
+  "尤里 #2" = 20  # Yuriy #2
+  "瓦西里 #2" = 20  # Vasiliy #2
+  "弗谢沃洛德 #3" = 20  # Vsevolod #3
+  "季米特里 #3" = 20  # Dmitriy #3
+  "罗季斯拉夫 #4" = 20  # Rotislav #4
+  "雅罗斯拉夫 #6" = 20  # Yaroslav #6
+  "斯维亚托斯拉夫 #7" = 20  # Svyatoslav #7
+}
+leader_names = {
+  "日兹诺米尔"  # Zhiznomir
+  "米库拉"  # Mikula
+  "波塞尼亚"  # Posenya
+  "巴里亚京斯基"  # Baryatinsky
+  "别列夫斯基"  # Belevsky
+  "沃尔康斯基"  # Volkonsky
+  "沃洛登斯基"  # Vorotynsky
+  "戈连斯基"  # Gorensky
+  "哥尔查科夫"  # Gorchakov
+  "多尔戈鲁科夫"  # Dolgorukov
+  "叶列茨基"  # Yeletsky
+  "留明"  # Ryumin
+  "巴拉晓夫"  # Barashev
+  "斯皮亚奇"  # Spyachy
+  "谢斯托夫"  # Shestov
+  "兹文佐夫"  # Zventsov
+  "托克马科夫"  # Tokmakov
+  "诺兹德列瓦季"  # Nozdrevaty
+  "卡申"  # Kashin
+  "马萨勒斯基"  # Massalski
+  "科泽勒斯基"  # Kozelsky
+  "科宁斯基"  # Koninsky
+  "库尔里雅杰夫"  # Kurlyatev
+  "雷科夫"  # Lykov
+  "奥博连斯基"  # Obolensky
+  "斯特黎金"  # Strigin
+  "Nagiye"
+  "Spashsky"
+  "Torussky"
+  "Trostensky"
+  "Turenin"
+  "Tufyakin"
+  "Khotetovsky"
+}
+ship_names = {
+  "大将军米哈伊尔"  # Archistratig Michail
+  "大天使加百列"  # Arkhangel Gavriil
+  "大天使米迦勒"  # Arkhangel Mikhail
+  "大天使拉斐尔"  # Arkhangel Rafail
+  "大天使乌列尔"  # Arkhangel Uriil
+  "主显圣容节"  # Bogoiavlenie Gospodne
+  "圣鲍里斯和格列勃"  # Boris i Gleb
+  "神意"  # Bozhiye Predvideniye
+  "圣战"  # Cvet Vojny
+  "德米特里 顿斯科伊"  # Dimitrii Donskoi
+  "Dvenadtsat Apostolov"
+  "Evva Elenora"
+  "Evva Katerina"
+  "俄罗斯大元帅"  # Generalissimus Rossiiskaia
+  "阿尔汉格尔斯克城"  # Gorod Arkhangelsk
+  "天命"  # Goto Predestinatsia
+  "Graf Orlov"
+  "安娜女皇"  # Imperatritsa Anna
+  "Ioann Zlatoust Pervyi"
+  "Isaak Viktoriia"
+  "伊万哥罗德"  # Ivan Gorod
+  "圣亚历山大骑士"  # Kavaler Sviatoi Aleksandr
+  "圣安德烈骑士"  # Kavaler Sviatoi Andrei
+  "喀山圣母"  # Kazanskaya Bogoroditsa
+  "Kir Ioann"
+  "Kiriil Belozerskiy"
+  "第一抹大拉的玛丽亚"  # Mariia Magdalina Pervaia
+  "第二抹大拉的玛丽亚"  # Mariia Magdalina Vtoraja
+  "抹大拉的玛丽亚"  # Mariia Magdalina
+  "圣马太"  # Matvei Evangelist
+  "平安希望"  # Nadezhda Blagopoluchiia
+  "别碰我"  # Ne Tron Menia
+  "北方雄鹰"  # Nord Adler
+  "新希望"  # Novaia Nadezhada
+  "顺遂之基"  # Osnovanie Blagopoluchiia
+  "长者雄鹰"  # Out Adler
+  "老橡树"  # Out Eketbom
+  "尤斯塔西娅纪念"  # Pamiat Evstafii
+  "Panagiia Aporogrilli"
+  "Panagiia Apotumengano"
+  "Panagiia Kaligati"
+  "Panagiia Popandi"
+  "胜利圣潘捷列伊蒙"  # Panteleimon Viktoriia
+  "Piotr I i II"
+  "Pravitelnitsa Rossiiskaia"
+  "尤金王子"  # Prints Evgenii
+  "古斯塔夫王子"  # Prints Gustav
+  "安娜公主"  # Printsessa Anna
+  "Razzhyonnoe Zhelezo"
+  "Rozhdestrvo Khristovo"
+  "圣米海尔"  # Sankt Michail
+  "圣约阿基姆"  # Sant Iakim
+  "北方雄鹰"  # Severnyj Oryol
+  "叶卡特琳娜荣光"  # Slava Ekateriny
+  "俄罗斯荣光"  # Slava Rossii
+  "睡狮"  # Spiashchii Lev
+  "老橡树"  # Staryi Dub
+  "老鹰"  # Staryi Oryol
+  "Sviataia Anna"
+  "Sviataia Velikomuchenitsa Varvara"
+  "Sviatogo Dukha"
+  "圣亚历山大 涅夫斯基"  # Sviatoi Aleksandr Nevskij
+  "圣亚历山大"  # Sviatoi Aleksandr
+  "使徒圣安德烈"  # Sviatoi Andrei Pervozvannii
+  "圣安德烈"  # Sviatoi Andrei
+  "圣安东尼"  # Sviatoi Antonii
+  "圣德米特里 罗斯托夫斯基"  # Sviatoi Dmitrii Rostovskii
+  "圣尤斯塔斯 普拉基杜斯"  # Sviatoi Evstafii Plakida
+  "圣费奥多"  # Sviatoi Fyodor
+  "使徒圣乔治"  # Sviatoi Georgii Pobedonosets
+  "圣乔治"  # Sviatoi Georgii
+  "圣雅各"  # Sviatoi Iakov
+  "圣热罗姆"  # Sviatoi Ieronim
+  "圣伊莉雅"  # Sviatoi Ilia
+  "圣以撒"  # Sviatoi Isakii
+  "圣雅努阿"  # Sviatoi Januarii
+  "罗马主教圣克莱门"  # Sviatoi Kliment Papa Rimskii
+  "圣尼古拉"  # Sviatoi Nikolai
+  "圣潘捷列伊蒙"  # Sviatoi Panteleimon
+  "圣保罗"  # Sviatoi Pavel
+  "圣彼得"  # Sviatoi Piotr
+  "圣谢尔盖"  # Sviatoi Sergii
+  "Sviatoi Velikomuchenik Isidor"
+  "圣卡特琳娜"  # Svietaia Ekaterina
+  "圣玛丽"  # Svietaia Mariia
+  "Sysoi Velikii"
+  "Tolskaya Bogoroditsa"
+  "Trekh Ierarkhov"
+  "三圣徒"  # Trekh Sviatitelei
+  "Tsar Konstantin"
+  "Tsvet Voiny"
+  "Vinogradnaia Vetv"
+  "Voznesenie Gospodne"
+  "Zakharii i Elisavet"
+  "Zhuravl Steregushchii"
+  "金星"  # Zolotaia Zvezda
+  "Zolotoe Iaboloko"
+  "阿非利加"  # Afrika
+  "鹳"  # Aist
+  "阿穆尔"  # Amur
+  "阿波罗"  # Apollo
+  "群岛"  # Arkhipelag
+  "阿尔蒙特"  # Armont
+  "阿伦德尔"  # Arondel
+  "阿斯特拉罕"  # Astrakhan
+  "亚细亚"  # Aziia
+  "亚速"  # Azov
+  "天惠"  # Blagodat
+  "平安"  # Blagopoluchie
+  "不列颠"  # Britanniia
+  "Bulinbrok"
+  "迅敏"  # Bystraia
+  "乌龟"  # Cherepakha
+  "蒜"  # Chesma
+  "正直"  # Chestnaia
+  "Degas"
+  "Dekrondelivde"
+  "海豚"  # Delfin
+  "Delos"
+  "杰尔宾特"  # Derbent
+  "Derpt"
+  "德文郡"  # Devonshir
+  "戴安娜"  # Diana
+  "大吉"  # Dobraia
+  "Donder"
+  "Drumkrakht"
+  "Dumkrat"
+  "Eingorn"
+  "叶连娜"  # Elena
+  "Emgeiten"
+  "Emmanuil"
+  "和谐"  # Endrakht
+  "希望"  # Esperans
+  "Etna"
+  "欧罗巴"  # Evropa
+  "Falk"
+  "Favoritka"
+  "凤凰"  # Feniks
+  "Flag"
+  "福尔图娜"  # Fortuna
+  "腓特烈施塔特"  # Fredrikhshtadt
+  "Fridemaker"
+  "费奥多尔"  # Fyodor
+  "Gamburg"
+  "Gangut"
+  "Gektor"
+  "Gremiashchii"
+  "格里高利"  # Grigorii
+  "Grom"
+  "Iagudiil"
+  "Iamburg"
+  "雅罗斯拉夫"  # Iaroslav
+  "Iassy"
+  "Iezekiil"
+  "英格曼兰"  # Ingermanland
+  "Ioann"
+  "朱庇特"  # Iupiter
+  "Kamen"
+  "Khobot"
+  "Khotin"
+  "Khvalnaia"
+  "Kit"
+  "康斯坦丁"  # Konstantin
+  "Kopore"
+  "Korona"
+  "Kreiser"
+  "Krepost"
+  "Kronshlot"
+  "喀琅施塔得"  # Kronshtadt
+  "Kruis"
+  "Krym"
+  "Landsdou"
+  "Laskovaia"
+  "Lastka"
+  "Leferm"
+  "Legkii"
+  "Lesnoye"
+  "Lev"
+  "Liliia"
+  "Lizet"
+  "伦敦"  # London
+  "Luks"
+  "马尔堡"  # Marlburg
+  "墨丘利"  # Merkurii
+  "球"  # Miach
+  "Milo"
+  "密涅瓦"  # Minerva
+  "Mittau"
+  "Modon"
+  "Molniia"
+  "Monbekend"
+  "Monplezir"
+  "Moreia"
+  "Moris"
+  "莫斯科"  # Moskva
+  "Munker"
+  "希望"  # Nadezhda
+  "Naktsiia"
+  "纳尔瓦"  # Narva
+  "Natalia"
+  "拿撒勒"  # Nazaret
+  "Nepobedimaia"
+  "涅普顿"  # Neptunus
+  "Nishtadt"
+  "新巴普洛夫斯克"  # Novopavlovsk
+  "牛津"  # Oksford
+  "Olga"
+  "Olifant"
+  "Orfei"
+  "Oryol"
+  "Palyulos"
+  "Parizh"
+  "Paros"
+  "Patriklii"
+  "Perl"
+  "Pernov"
+  "Pervyi"
+  "彼得堡"  # Peterburg
+  "彼得"  # Piotr
+  "彼得"  # Piotr
+  II
+  "柏拉图"  # Plato
+  "Pobeda"
+  "Pochtalon"
+  "波尔塔瓦"  # Poltava
+  "波吕克斯"  # Poluks
+  "Pomoshchnyi"
+  "朴次茅斯"  # Portsmut
+  "Pospeshnyi"
+  "Prevoskhoditeinaia"
+  "公主"  # Printsessa
+  "Priyatelnaya"
+  "Prokhor"
+  "Provornyi"
+  "拉斐尔"  # Rafail
+  "Rak"
+  "Randolf"
+  "明智"  # Razumnaia
+  "雷维勒"  # Revel
+  "里加"  # Riga
+  "俄罗斯"  # Rossia
+  "罗斯季斯拉夫"  # Rostislav
+  "Roza"
+  "Rys"
+  "Salamandra"
+  "参孙"  # Samson
+  "萨拉托夫"  # Saratov
+  "Schastie"
+  "Schastlivyi"
+  "Selafail"
+  "Shkhelpol"
+  "Shlisselburg"
+  "长剑"  # Shpaga
+  "Shtandart"
+  "Shval"
+  "Siiatelnaia"
+  "Sion"
+  "Sklonnaia"
+  "天蝎"  # Skorpion
+  "Snuk"
+  "犬"  # Sobaka
+  "雄鹰"  # Sokol
+  "Starn"
+  "Stein"
+  "Straford"
+  "Strakh"
+  "Strela"
+  "Strus"
+  "Sulitsa"
+  "斯维亚托斯拉夫"  # Sviatoslav
+  "Svirepaia"
+  "塔甘罗格"  # Taganrog
+  "Taimalar"
+  "Telemakus"
+  "Terpelivaia"
+  "Tino"
+  "特维尔"  # Tver
+  "坚强"  # Tvyordyi
+  "化妆室"  # Ubornaia
+  "Uchtivaia"
+  "尤利西斯"  # Uliss
+  "Ulriksdal"
+  "Upovanie"
+  "乌列尔"  # Uriil
+  "Vakhmeister"
+  "Varakhail"
+  "Vedraia"
+  "金星"  # Venera
+  "Venker"
+  "维纳斯"  # Venus
+  "传令兵"  # Vestovoi
+  "维苏威"  # Vesuvii
+  "维亚切斯拉夫"  # Viacheslav
+  "维多利亚"  # Viktoriia
+  "Vinkelgak"
+  "Voin"
+  "沃罗涅日"  # Voronez
+  "弗谢沃洛德"  # Vsevolod
+  "第二"  # Vtoroi
+  "维堡"  # Vyborg
+  "水獭"  # Vydra
+  "雅努斯"  # Yanos
+  "谐星"  # Zabavnaia
+  "好斗"  # Zadornaia
+  "珍珠"  # Zhemchug
+  "久尔久"  # Zhurzha
+  "毒蛇"  # Zmeia
+  "星星"  # Zvezda
+}

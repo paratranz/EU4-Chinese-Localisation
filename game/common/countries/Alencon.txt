@@ -1,0 +1,192 @@
+graphical_culture = westerngfx
+color = {
+  162
+  116
+  225
+}
+historical_idea_groups = {
+  defensive_ideas
+  trade_ideas
+  religious_ideas
+  diplomatic_ideas
+  economic_ideas
+  innovativeness_ideas
+  offensive_ideas
+  spy_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_carabinier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "让娜 #0" = -1  # Jeanne #0
+  "玛丽 #0" = -1  # Marie #0
+  "玛格丽特 #0" = -1  # Marguerite #0
+  "凯瑟琳 #0" = -1  # Catherine #0
+  "克劳丁 #0" = -10  # Claudine #0
+  "格扎维埃 #0" = 0  # Xavier #0
+  "蒂博 #0" = 0  # Thibaut #0
+  "西蒙 #0" = 0  # Simon #0
+  "勒内 #0" = 0  # René #0
+  "拉乌尔 #0" = 0  # Raoul #0
+  "皮埃尔 #0" = 0  # Pierre #0
+  "米歇尔 #0" = 0  # Michel #0
+  "马克西米连 #0" = 0  # Maximilien #0
+  "莫里斯 #0" = 0  # Maurice #0
+  "马克 #0" = 0  # Marc #0
+  "儒勒 #0" = 0  # Jules #0
+  "让-菲利普 #0" = 0  # Jean-Philippe #0
+  "让-巴蒂斯特 #0" = 0  # Jean-Baptiste #0
+  "雅克 #0" = 0  # Jacques #0
+  "亨利 #0" = 0  # Henri #0
+  "古斯塔夫 #0" = 0  # Gustave #0
+  "纪尧姆 #0" = 0  # Guillaume #0
+  "居伊 #0" = 0  # Gui #0
+  "厄德 #0" = 0  # Eudes #0
+  "丹尼斯 #0" = 0  # Denis #0
+  "克洛德 #0" = 0  # Claude #0
+  "伯纳德 #0" = 0  # Bernard #0
+  "巴泰勒米 #0" = 0  # Barthélemy #0
+  "阿尔芒 #0" = 0  # Armand #0
+  "安布鲁瓦兹 #0" = 0  # Ambroise #0
+  "亚历山大 #0" = 0  # Alexandre #0
+  "罗伯特 #1" = 1  # Robert #1
+  "于格 #2" = 1  # Hughes #2
+  "安托万 菲利普 #0" = 5  # Antoine Philippe #0
+  "约翰 #0" = 5  # Jean #0
+  "弗朗索瓦 #0" = 10  # François #0
+  "亚历山大-路易 #0" = 10  # Alexandre-Louis #0
+  "尼古拉 #0" = 20  # Nicolas #0
+  "亨利-亚历山大 #0" = 20  # Henri-Alexandre #0
+  "加斯顿 #0" = 20  # Gaston #0
+  "腓力 #0" = 40  # Philippe #0
+  "路易 腓力 #0" = 40  # Louis-Philippe #0
+  "查理 #1" = 60  # Charles #1
+  "路易 #0" = 80  # Louis #0
+}
+ship_names = {
+  "朗布瓦斯"  # l'Amboise
+  "拉米伊"  # l'Amilly
+  "拉尔特奈"  # l'Artenay
+  "拉宰勒里多"  # l'Azay-le-Rideau
+  "拉博讷拉罗朗德"  # la Beaune-la-Rolande
+  "勒 博勒加尔"  # le Beauregard
+  "拉贝勒加德"  # la Bellegarde
+  "勒 布卢瓦"  # le Blois
+  "拉布里亚尔"  # la Briare
+  "拉沙莱特"  # la Chalette
+  "勒 尚博尔"  # le Chambord
+  "勒 夏姆洛勒"  # le Chamerolles
+  "勒 沙托讷夫"  # le Châteauneuf
+  "勒 沙托勒纳尔"  # le Château-Renard
+  "勒 夏蒂永-科里尼"  # le Châtillon-Coligny
+  "勒 谢西"  # le Chécy
+  "勒 舍农索"  # le Chenonceau
+  "勒 谢韦尔尼"  # le Cheverny
+  "勒 舍维伊"  # le Chevilly
+  "勒 克莱里-圣安德烈"  # le Cléry-Saint-André
+  "勒 孔布勒"  # le Combleux
+  "勒 库特奈"  # le Courtenay
+  "勒 迪努瓦"  # le Dunois
+  "拉费欧洛日"  # la Fay-aux-Loges
+  "勒 弗勒斯"  # le Ferrières
+  "圣欧班堡"  # la Ferté-Saint-Aubin
+  "勒 弗勒里莱索布赖"  # le Fleury-les-Aubrais
+  "勒 热尔米尼"  # le Germigny
+  "勒 日安"  # le Gien
+  "勒 雅尔若"  # le Jargeau
+  "拉比西耶尔"  # la Bussière
+  "勒 马勒塞布"  # le Malesherbes
+  "勒 卢瓦尔河畔默恩"  # le Meung-sur-Loire
+  "勒 蒙塔日"  # le Montargis
+  "勒 讷维尔欧布瓦"  # le Neuville-aux-Bois
+  "洛利韦"  # l'Olivet
+  "卢塔维尔"  # l'Outarville
+  "卢祖埃"  # l'Ouzouer
+  "勒 帕泰"  # le Patay
+  "勒 皮蒂维耶"  # le Pithiviers
+  "勒 庞特歇夫隆"  # le Pontchevron
+  "勒 皮索"  # le Puiseaux
+  "勒 圣邦瓦"  # le Saint-Benoît
+  "勒 圣让德布莱"  # le Saint-Jean-de-Braye
+  "勒 圣让勒布朗克"  # le Saint-Jean-le-Blanc
+  "勒 苏里"  # le Sully
+  "勒 塔尔西"  # le Talcy
+  "勒 旺多姆"  # le Vendôme
+  "勒 维勒萨文"  # le Villesavin
+}
+leader_names = {
+  "达瓦莱"  # d'Avaray
+  "巴杜"  # Badoux
+  "德 巴维尔"  # de Barville
+  "德 博让西"  # de Beaugency
+  "德 博阿尔内"  # de Beauharnais
+  "德 博勒加尔"  # de Beauregard
+  "杜 贝莱"  # du Bellay
+  "伯纳德 德 蒙特比斯"  # Bernard de Montebise
+  "德 布瓦涅"  # de Boigneux
+  "德 沙博"  # de Chabot
+  "德 沙蒂永"  # de Châtillon
+  "德 埃纳里"  # d'Ennery
+  "德 高维尔"  # de Gauville
+  "德 格勒斯姆"  # de Geresme
+  "吉维 德 克勒西"  # Givès de Creusy
+  "加兰多"  # Garandeau
+  "德 加兰德"  # de Garlande
+  "德 拉日"  # de Laage
+  "德 拉布里萨尔迪埃尔"  # de La Brisardière
+  "德 拉比西耶尔"  # de La Bussière
+  "德 拉沙佩勒"  # de La Chapelle
+  "德 拉歇纳伊"  # de La Chesnaye
+  "德 拉 瓦莱特"  # de La Valette
+  "德 莱斯图瓦勒"  # de L'Estoile
+  "勒 梅特尔"  # Le Maître
+  "勒 特克西埃"  # Le Texier
+  "德 曼特农"  # de Maintenon
+  "德 马洛勒"  # de Marolles
+  "德 马特尔 德 勒纳克"  # de Martel de Rénac
+  "德 蒙伯谢"  # de Montboissier
+  "德 蒙提尼"  # de Montigny
+  "德 蒙丽瑞"  # de Montlhéry
+  "德 讷夫卡尔"  # de Neufcarres
+  "培昂 德 圣吉尔"  # Péan de Saint-Gilles
+  "德 费利讷"  # de Phéline
+  "德 庞特维尔"  # de Pontville
+  "德 普吕内莱"  # de Prunelé
+  "德 朗库尔"  # de Rancourt
+  "德 雷梅昂 德 奥尔瓦"  # de Réméon d'Orval
+  "德 萨布勒科瓦"  # de Sabrecois
+  "德 圣科姆"  # de Saint-Cosme
+  "德 圣马尔克"  # de Saint-Marc
+  "德 圣马尔"  # de Saint-Mars
+  "德 萨勒"  # de Salles
+  "斯科特 德 库朗热"  # Scott de Coulanges
+  "德 森纳维尔"  # de Senneville
+  "德 塞里吉"  # de Sérizy
+  "布拉伊的瑟拉"  # Seurat de La Boullaye
+  "德 达努瓦"  # de Tannoys
+  "德 维里埃"  # de Villiers
+}
+army_names = {
+  "布雷索瓦军"  # Armée du Blésois
+  "博斯军"  # Armée de la Beauce
+  "迪努瓦军队"  # Armée du Dunois
+  "加迪内军"  # Armée du Gâtinais
+  "索洛涅军"  # Armée de Sologne
+  "旺多目瓦军"  # Armée du Vendômois
+  "卢瓦尔军队"  # Armée de la Loire
+  "$PROVINCE$军"  # Armée de $PROVINCE$
+}

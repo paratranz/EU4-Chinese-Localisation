@@ -1,0 +1,174 @@
+graphical_culture = westerngfx
+color = {
+  102
+  105
+  104
+}
+historical_score = 50
+historical_idea_groups = {
+  religious_ideas
+  defensive_ideas
+  offensive_ideas
+  trade_ideas
+  innovativeness_ideas
+  economic_ideas
+  spy_ideas
+  diplomatic_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  dutch_maurician
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  prussian_frederickian
+  prussian_uhlan
+  prussian_drill
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "艾娃 #0" = -1  # Eva #0
+  "玛格妲列娜 #0" = -1  # Magdalena #0
+  "玛利亚 #0" = -1  # Maria #0
+  "提奥多 #0" = 0  # Theodor #0
+  "鲁道夫 #0" = 0  # Rudolf #0
+  "庞卡茨 #0" = 0  # Pankraz #0
+  "马蒂亚斯 #0" = 0  # Matthias #0
+  "马库斯 #0" = 0  # Markus #0
+  "洛塔尔 #0" = 0  # Lothar #0
+  "伊西多尔 #0" = 0  # Isidor #0
+  "伊曼努尔 #0" = 0  # Immanuel #0
+  "亨伯特 #0" = 0  # Humbert #0
+  "格雷戈尔 #0" = 0  # Gregor #0
+  "埃贡 #0" = 0  # Egon #0
+  "迪特里希 #0" = 0  # Dietrich #0
+  "伯恩哈德 #0" = 0  # Bernhard #0
+  "阿诺德 #0" = 0  # Arnold #0
+  "亚当 #0" = 0  # Adam #0
+  "阿达尔伯特 #0" = 0  # Adalbert #0
+  "马克西米利安 弗朗兹 #0" = 15  # Maximilian Franz #0
+  "马克西米利安 #0" = 15  # Maximilian #0
+  "路德维希 弗朗茨 #0" = 15  # Ludwig Franz #0
+  "路德维希 安东 #0" = 15  # Ludwig Anton #0
+  "卡尔 约瑟夫  #0" = 15  # Karl Joseph #0
+  "卡尔 亚历山大 #0" = 15  # Karl Alexander #0
+  "约翰 尤斯塔赫 #0" = 15  # Johann Eustach #0
+  "格奥尔格 #0" = 15  # Georg #0
+  "克莱门斯 奥古斯特 #0" = 15  # Clemens August #0
+  "沃尔夫冈 #0" = 20  # Wolfgang #0
+  "沃尔特 #0" = 20  # Walter #0
+  "乌尔里希 #0" = 20  # Ulrich #0
+  "保罗 #0" = 20  # Paul #0
+  "迈克尔 #0" = 20  # Michael #0
+  "马丁 #0" = 20  # Martin #0
+  "路德维希 #0" = 20  # Ludwig #0
+  "卡尔 #0" = 20  # Karl #0
+  "约翰 卡斯帕 #0" = 20  # Johann Kaspar #0
+  "约翰 #0" = 20  # Johann #0
+  "腓特烈 #0" = 20  # Friedrich #0
+  "阿尔布雷希特 #0" = 20  # Albrecht #0
+  "康拉德 #4" = 40  # Konrad #4
+  "海因里希 #4" = 70  # Heinrich #4
+}
+leader_names = {
+  "冯 阿德卡斯"  # von Aderkas
+  "冯 阿比德尔"  # von Albedyll
+  "冯 阿尔滕堡"  # von Altenburg
+  "冯 安姆普林根"  # von Ampringen
+  "冯 阿尔夫贝格"  # von Arfberg
+  "冯 巴森海姆"  # von Bassenheim
+  "冯 博本豪森"  # von Bobenhausen
+  "冯 不来梅"  # von Bremen
+  "冯 布赫霍尔茨"  # von Buchholtz
+  "冯 布克斯赫韦登"  # von Buxhoeveden
+  "冯 坎彭豪森"  # von Campenhausen
+  "冯 克伦堡"  # von Cronberg
+  "冯 库伯"  # von Cube
+  "冯 德林豪森"  # von Dellinghausen
+  "冯 德拉赫菲尔斯"  # von Drachenfels
+  "冯 艾克斯帕尔"  # von Ekesparre
+  "冯 厄里希豪森"  # von Erlichshausen
+  "冯 弗莱曼"  # von Freymann
+  "弗来塔克 冯 洛林霍芬"  # Freytag von Loringhoven
+  "冯 赫恩"  # von Hehn
+  "冯 赫尔布伦根"  # von Helbrungen
+  "冯 霍亨索伦"  # von Hohenzollern
+  "冯 霍文"  # von Howen
+  "冯 浑纽斯"  # von Hunnius
+  "冯 辉宁根"  # von Hoyningen
+  "冯 永京根"  # von Jungingen
+  "冯 凯撒林"  # von Keyserling
+  "冯 克斯库尔"  # von Koskull
+  "冯 科尼普罗德"  # von Kniprode
+  "von Klot-Heydenfeldt"
+  "冯 克鲁森施蒂恩"  # von Krusenstiern
+  "von Lilienfeld"
+  "von Patkul"
+  "von Poll"
+  "冯 连能坎夫"  # von Rennenkampff
+  "冯 罗特施坦因"  # von Rothstein
+  "冯 鲁施朵夫"  # von Ruszdorf
+  "冯 里希腾伯格"  # von Richtenberg
+  "冯 罗特 罗伊斯特霍夫"  # von Roth-Rösthof
+  "冯 杂斯"  # von Sass
+  "冯 舒伯特"  # von Schubert
+  "冯 桑格豪森"  # von Sangershausen
+  "冯 施万登"  # von Schwanden
+  "von Tieffen"
+  "von Uexküll"
+  "冯 匈牙利-施滕贝格"  # von Ungern-Sternberg
+  "冯 乌伦巴赫"  # von Urenbach
+  "von Wrangel"
+  "冯 威斯廷豪森"  # von Wistinghausen
+  "冯 瓦槽"  # von Wattzau
+  "冯 瓦伦罗德"  # von Wallenrode
+}
+ship_names = {
+  "但泽"  # Danzig
+  "埃尔宾"  # Elbing
+  "哥特斯韦德"  # Gottersweder
+  "柯尼斯堡"  # Königsberg
+  "玛丽安堡"  # Marienburg
+  "米腾堡"  # Mittenburg
+  "米陶"  # Mitau
+  "托尔恩"  # Thorn
+  "温道"  # Windau
+  "戈尔丁根"  # Goldingen
+  "冯 巴森海姆"  # von Bassenheim
+  "奥托 冯 克尔彭"  # Otto von Kerpen
+  "海因里希 冯 通纳"  # Heinrich von Tunna
+  "赫尔曼 冯 萨尔察"  # Hermann von Salza
+  "康拉德 冯 图林根"  # Konrad von Thüringen
+  "格尔哈德 冯 马尔堡"  # Gerhard von Malberg
+  "冯 霍亨洛厄"  # von Hohenlohe
+  "冯 维勒斯里本"  # von Wüllersleben
+  "波波 冯 奥斯特纳"  # Poppo von Osterna
+  "冯 桑格豪森"  # von Sangershausen
+  "冯 赫尔德龙根"  # von Heldrungen
+  "布克哈德 冯 施万登"  # Burkhard von Schwanden
+  "冯 福伊希特旺根"  # von Feuchtwangen
+  "冯 特里尔"  # von Trier
+  "维尔纳 冯 欧瑟恩"  # Werner von Orseln
+  "冯 布伦瑞克"  # von Braunschweig
+  "迪特里希 冯 阿尔滕堡"  # Dietrich von Altenburg
+  "冯 瓦槽"  # von Wattzau
+  "冯 阿尔夫贝格"  # von Arfberg
+  "温里希 冯 科尼普罗德"  # Winrich von Kniprode
+  "冯 罗腾施坦因"  # von Rotenstein
+  "冯 瓦伦罗德"  # von Wallenrode
+  "康拉德 冯 永京根"  # Konrad V von Jungingen
+  "乌尔里希 冯 永京根"  # Ulrich von Jungingen
+  "海因里希 冯 普劳恩"  # Heinrich von Plauen
+  "冯 施滕贝格"  # von Sternberg
+  "冯 韦茨豪森"  # von Wetzhausen
+  "约翰 冯 蒂芬"  # Johann von Tiefen
+  "沃尔特 冯 克伦堡"  # Walter von Cronberg
+}
+army_names = {
+  "旗"  # Banner
+}

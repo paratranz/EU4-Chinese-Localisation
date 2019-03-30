@@ -1,0 +1,252 @@
+graphical_culture = westerngfx
+random_nation_chance = 0
+color = {
+  67
+  81
+  55
+}
+historical_idea_groups = {
+  plutocracy_ideas
+  trade_ideas
+  economic_ideas
+  defensive_ideas
+  maritime_ideas
+  administrative_ideas
+  offensive_ideas
+  quantity_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  chevauchee
+  western_longbow
+  gaelic_mercenary
+  gaelic_free_shooter
+  french_caracolle
+  irish_charge
+  anglofrench_line
+  french_dragoon
+  british_redcoat
+  british_hussar
+  british_square
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "夏洛特 #0" = -1  # Charlotte #0
+  "雅科特 #0" = -1  # Jacquotte #0
+  "安妮 #0" = -10  # Anne #0
+  "伊丽莎白 #0" = -1  # Elizabeth #0
+  "玛丽 #0" = -5  # Mary #0
+  "约翰 #0" = 10  # John #0
+  "伊斯雷尔 #0" = 10  # Israel #0
+  "爱德华 #0" = 10  # Edward #0
+  "巴托罗莫 #0" = 10  # Bartholemew #0
+  "劳伦斯 #0" = 10  # Lawrence #0
+  "威廉 #0" = 10  # William #0
+  "本杰明 #0" = 10  # Benjamin #0
+  "尼古拉斯 #0" = 10  # Nicholas #0
+  "斯蒂德 #0" = 10  # Stede #0
+  "亨利 #0" = 10  # Henry #0
+  "塞缪尔 #0" = 10  # Samuel #0
+  "约瑟夫 #0" = 10  # Joseph #0
+  "杰克 #0" = 10  # Jack #0
+  "查理 #0" = 10  # Charles #0
+  "詹姆斯 #0" = 10  # James #0
+}
+leader_names = {
+  "贝利亚米"  # Bellamy
+  "蒂奇"  # Teach
+  "博内"  # Bonnet
+  "邦尼"  # Bonny
+  "凯撒"  # Caesar
+  "埃弗里"  # Avery
+  "吉布斯"  # Gibbs
+  "德 赫拉夫"  # de Graaf
+  "基德"  # Kidd
+  "霍金斯"  # Hawkins
+  "摩根"  # Morgan
+  "普林斯"  # Prince
+  "范恩"  # Vane
+  "拉克姆"  # Rackham
+  "叶芝"  # Yeats
+  "弗林特"  # Flint
+  "博内斯"  # Bones
+  "汉兹"  # Hands
+  "西尔韦"  # Silver
+  "冈恩"  # Gunn
+  "梅里"  # Merry
+  "斯帕罗"  # Sparrow
+  "里德"  # Read
+  "德拉哈耶"  # Delahaye
+  "德 贝里"  # de Berry
+  "盖茨"  # Gates
+  "罗伯茨"  # Roberts
+}
+ship_names = {
+  "威廉"  # William
+  "精美"  # Fancy
+  "珍珠"  # Pearl
+  "胜利"  # Victory
+  "皇家詹姆士"  # Royal James
+  "荣富"  # Royal Fortune
+  "大幸"  # Great Fortune
+  "伟大的游侠"  # Great Ranger
+  "游侠"  # Ranger
+  "自由"  # Liberty
+  "阿米蒂"  # Amity
+  "输送"  # Delivery
+  "旭日"  # Rising Sun
+  "雅各伯"  # Jacob
+  "涅普顿"  # Neptune
+  "玛格利特"  # Margaret
+  "探险"  # Adventure
+  "复仇"  # Revenge
+  "怀达"  # Wydah
+  "代言人"  # Speaker
+  "海象"  # Walrus
+  "阿喀琉斯"  # Achilles
+  "坚决"  # Adamant
+  "优越"  # Advantage
+  "美利坚"  # America
+  "阿米蒂"  # Amity
+  "黑狗"  # Black Dog
+  "黑桨帆船"  # Black Galley
+  "黑王子"  # Black Prince
+  "黑色狂欢"  # Black Rave
+  "博里斯"  # Boreas
+  "邦蒂"  # Bounty
+  "凯撒"  # Caesar
+  "坎特伯雷"  # Canterbury
+  "船长"  # Captain
+  "卡斯托耳"  # Castor
+  "卡托"  # Cato
+  "卡文迪什"  # Cavendish
+  "百夫长"  # Centurion
+  "地狱犬"  # Cerberus
+  "查理"  # Charles
+  "巨人"  # Colossus
+  "征服者"  # Conqueror
+  "征服者"  # Conquestador
+  "康斯坦特改革"  # Constant Reformation
+  "勇敢"  # Courageux
+  "鳄鱼"  # Crocodile
+  "纤巧"  # Dainty
+  "黛西"  # Daisy
+  "迪"  # Dee
+  "防御"  # Defence
+  "挑战"  # Defiance
+  "德普特福德"  # Deptford
+  "毁灭"  # Devastation
+  "钻石"  # Diamond
+  "狄多"  # Dido
+  "迪奥米德"  # Diomede
+  "指导者"  # Director
+  "海豚"  # Dolphin
+  "巨龙"  # Dragon
+  "幼龙"  # Drake
+  "无畏"  # Dreadnaught
+  "雄鹰"  # Eagle
+  "埃德加"  # Edgar
+  "象"  # Elephant
+  "卓越者"  # Excellent
+  "交流"  # Exchange
+  "远征"  # Expedition
+  "实验"  # Experiment
+  "名望"  # Fame
+  "钟爱"  # Favourite
+  "坚定"  # Firm
+  "远航"  # Flight
+  "福勒特"  # Flirt
+  "坚韧"  # Fortitude
+  "可怖"  # Foudroyant
+  "星期五"  # Friday
+  "歌利亚"  # Goliath
+  "半月"  # Half Moon
+  "霍克"  # Hawke
+  "冒险"  # Hazardous
+  "心脏"  # Heart
+  "希望"  # Hope
+  "猎手"  # Hunter
+  "显赫"  # Illustrious
+  "牢不可破"  # Impregnable
+  "提高"  # Increase
+  "不懈"  # Indefatigable
+  "刻板"  # Inflexible
+  "无畏"  # Intrepid
+  "无敌"  # Invincible
+  "伊希斯"  # Isis
+  "泽西"  # Jersey
+  "马格纳尼梅"  # Magnanime
+  "华丽"  # Magnificent
+  "马尔斯"  # Mars
+  "仆从"  # Minion
+  "米尼金"  # Minnikin
+  "牛头怪"  # Minotaur
+  "温和"  # Moderate
+  "君主"  # Monarch
+  "拿骚"  # Nassau
+  "涅普顿"  # Neptune
+  "海洋"  # Ocean
+  "鹈鹕"  # Pelican
+  "豪猪"  # Porcupine
+  "强力"  # Powerful
+  "总统"  # President
+  "普里姆罗斯"  # Primrose
+  "普罗姆特"  # Promt
+  "谨慎"  # Prudent
+  "女王"  # Queen
+  "彩虹"  # Rainbow
+  "合理"  # Raisonnable
+  "拉米里斯"  # Ramillies
+  "兰尼拉"  # Ranelagh
+  "红狮"  # Red Lion
+  "敬畏"  # Redoubtable
+  "改革"  # Reformation
+  "摄政"  # Regent
+  "名誉"  # Renown
+  "逐退"  # Repulse
+  "研究"  # Research
+  "储备"  # Reserve
+  "抵抗"  # Resistance
+  "决心"  # Resolution
+  "恢复"  # Restoration
+  "复仇"  # Revenge
+  "斯卡布罗"  # Scarborough
+  "西庇阿"  # Scipio
+  "海马"  # Seahorse
+  "搜索"  # Search
+  "蝾螈"  # Salamander
+  "桑普森"  # Sampson
+  "至尊"  # Sovereign
+  "代言人"  # Speaker
+  "蒂默瑞尔"  # Temeraire
+  "灾厄"  # Terrible
+  "特修斯"  # Theseus
+  "托马斯"  # Thomas
+  "三王"  # Three Kings
+  "雷霆"  # Thunderer
+  "老虎"  # Tiger
+  "特里通"  # Triton
+  "凯旋"  # Triumph
+  "可靠"  # Trusty
+  "独角兽"  # Unicorn
+  "联合统治"  # Union
+  "统一"  # Unity
+  "英勇"  # Valiant
+  "先锋"  # Vanguard
+  "可敬"  # Venerable
+  "维斯塔"  # Vestal
+  "宿将"  # Veteran
+  "胜利"  # Victory
+  "维戈"  # Vigo
+  "争锋"  # Vindictive
+  "紫罗兰"  # Violet
+  "轻浮"  # Volage
+  "勇士"  # Warrior
+  "沃斯拜特"  # Warspite
+  "白熊"  # White Bear
+  "白鸦"  # White Raven
+  "狂热"  # Zealous
+}

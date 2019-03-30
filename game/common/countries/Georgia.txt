@@ -1,0 +1,256 @@
+graphical_culture = easterngfx
+color = {
+  190
+  35
+  37
+}
+historical_idea_groups = {
+  defensive_ideas
+  offensive_ideas
+  trade_ideas
+  spy_ideas
+  diplomatic_ideas
+  economic_ideas
+  religious_ideas
+  quantity_ideas
+}
+historical_units = {
+  eastern_medieval_infantry
+  eastern_knights
+  slavic_stradioti
+  eastern_militia
+  muscovite_musketeer
+  muscovite_caracolle
+  muscovite_soldaty
+  muscovite_cossack
+  russian_petrine
+  russian_lancer
+  russian_green_coat
+  russian_cuirassier
+  eastern_skirmisher
+  eastern_uhlan
+  eastern_carabinier
+  russian_mass
+}
+monarch_names = {
+  "德迪西梅蒂 #0" = -1  # Dedisimedi #0
+  "库雷珊 #0" = -1  # Khoreshan #0
+  "玛丽亚姆 #0" = -1  # Mariam #0
+  "安娜 #0" = -1  # Ana #0
+  "埃琳娜 #0" = -1  # Elene #0
+  "尼诺 #0" = -1  # Nino #0
+  "季纳京 #0" = -5  # Tinatin #0
+  "克捷万 #0" = -5  # Ketevan #0
+  "达雷扬 #0" = -5  # Darejan #0
+  "内斯唐 达雷扬 #0" = -10  # Nestan-Darejan #0
+  "露苏丹 #1" = -10  # Rusudan #1
+  "塔玛丽 #1" = -20  # Tamar #1
+  "萨吉斯 #0" = 0  # Sargis #0
+  "鲍特绍 #0" = 0  # Botso #0
+  "姆泽特察布克 #0" = 0  # Mzetchabuk #0
+  "巴杜尔 #0" = 0  # Baadur #0
+  "阿格布加 #0" = 0  # Aghbugha #0
+  "马努切赫尔 #0" = 0  # Manuchar #0
+  "贝卡 #0" = 0  # Beka #0
+  "克瓦克瓦雷 #0" = 0  # Qvarqvare #0
+  "蒂莫特 #0" = 0  # Timote #0
+  "泽格纳克 #0" = 0  # Zegnak #0
+  "塞特曼 #0" = 0  # Seteman #0
+  "普托 #0" = 0  # Puto #0
+  "拉比耶 #0" = 0  # Rabia #0
+  "利帕里特 #0" = 0  # Liparit #0
+  "瓦米奇 #0" = 0  # Vamiq #0
+  "沙曼达弗勒 #0" = 0  # Shamandavle #0
+  "卡哈贝尔 #0" = 0  # Kakhaber #0
+  "奥迪亚 #0" = 0  # Otia #0
+  "卡特西亚 #0" = 0  # Katsia #0
+  "拜詹 #0" = 0  # Bezhan #0
+  "达图亚 #0" = 0  # Datua #0
+  "约阿内 #0" = 0  # Ioane #0
+  "加尔谢万 #0" = 0  # Garsevan #0
+  "尼克罗兹 #0" = 0  # Nikoloz #0
+  "比济纳 #0" = 0  # Bidzina #0
+  "苏姆巴特 #0" = 0  # Sumbat #0
+  "兹维亚德 #0" = 0  # Zviad #0
+  "祖拉布 #0" = 0  # Zurab #0
+  "扎扎 #0" = 0  # Zaza #0
+  "扎尔 #0" = 0  # Zaal #0
+  "措特涅 #0" = 0  # Tsotne #0
+  "托尔尼克 #0" = 0  # Tornike #0
+  "帕塔 #0" = 0  # Paata #0
+  "伊万涅 #0" = 0  # Ivane #0
+  "格里戈尔 #0" = 0  # Grigol #0
+  "吉维 #0" = 0  # Givi #0
+  "安杜卡帕尔 #0" = 0  # Andukapar #0
+  "奥高塔尼格 #0" = 0  # Aghatang #0
+  "斯特潘诺兹 #0" = 0  # Stepanoz #0
+  "托尔格瓦 #0" = 0  # Torgva #0
+  "巴贝尔 #0" = 0  # Bebur #0
+  "德米特里 #2" = 20  # Demetre #2
+  "莱万 #0" = 15  # Levan #0
+  "罗斯托姆 #0" = 10  # Rostom #0
+  "凯科斯罗 #0" = 10  # Kaikhosro #0
+  "伊埃塞 #0" = 15  # Iese #0
+  "巴卡尔 #0" = 5  # Bakar #0
+  "阿尔奇尔 #0" = 10  # Archil #0
+  "泰穆拉兹 #0" = 40  # Teimuraz #0
+  "西蒙 #0" = 40  # Simon #0
+  "卢阿尔萨布 #0" = 40  # Luarsab #0
+  "康斯坦丁 #0" = 40  # Konstantine #0
+  "埃尔克尔 #0" = 40  # Erekle #0
+  "亚历山大 #0" = 20  # Aleksandre #0
+  "巴格拉特 #5" = 40  # Bagrat #5
+  "瓦赫坦 #3" = 60  # Vakhtang #3
+  "大卫 #9" = 60  # David #9
+  "乔治 #6" = 120  # Giorgi #6
+}
+leader_names = {
+  "加巴什维利"  # Gabashvili
+  "盖盖奇科里"  # Gegechkori
+  "阿米拉赫瓦里"  # Amilakhvari
+  "阿米雷季比"  # Amirejibi
+  "巴拉塔什维利"  # Baratashvili
+  "贝布塔什维利"  # Bebutashvili
+  "贝格塔贝基什维利"  # Begtabegishvili
+  "彻尔克泽什维利"  # Cherkezeshvili
+  "查哈提"  # Chkhetidze
+  "加巴什维利"  # Gabashvili
+  "雅瓦希什维利"  # Javakhishvili
+  "赫尔赫乌利泽"  # Kherkheulidze
+  "科韦尼普內维利"  # Kvenipneveli
+  "马加拉什维利"  # Maghalashvili
+  "米克拉泽"  # Mikeladze
+  "穆赫拉尼"  # Mukhrani
+  "穆赫兰巴托尼"  # Mukhranbatoni
+  "奥尔贝连尼"  # Orbeliani
+  "拉季什维利"  # Ratishvili
+  "西达莫尼"  # Sidamoni
+  "索拉加什维利"  # Solagashvili
+  "齐齐什维利"  # Tsitsishvili
+  "图尔克斯塔尼什维利"  # Turkestanishvili
+  "阿巴希泽"  # Abashidze
+  "阿布卡季"  # Abkhazi
+  "安德罗尼卡什维利"  # Andronikashvili
+  "巴巴蒂什维利"  # Babadishvili
+  "恰夫恰瓦泽"  # Chavchavadze
+  "彻尔克泽什维利"  # Cherkezeshvili
+  "乔洛卡什维利"  # Cholokashvili
+  "古拉米什维利"  # Guramishvili
+  "古尔格尼泽"  # Gurgenidze
+  "扬蒂耶里"  # Jandieri
+  "约里雅泽"  # Jorjadze
+  "科布拉什维利"  # Kobulashvili
+  "利昂尼泽"  # Lionidze
+  "罗巴蒂什维利"  # Robatishvili
+  "鲁西什维利"  # Rusishvili
+  "沙布尼泽"  # Shaburidze
+  "图马尼斯泽"  # Tumanisdze
+  "图希什维利"  # Tusishvili
+  "瓦奇纳泽"  # Vachnadze
+  "阿加什维利"  # Agiashvili
+  "安查巴泽"  # Anchabadze
+  "阿帕基泽"  # Apakidze
+  "奇楚亚"  # Chichua
+  "恰瓦泽"  # Chijavadze
+  "奇科瓦尼"  # Chikovani
+  "奇赫伊泽"  # Chkheidze
+  "达蒂安尼"  # Dadiani
+  "达德什科里安尼"  # Dadeshkeliani
+  "格洛瓦尼"  # Gelovani
+  "古列利"  # Gurieli
+  "雅什维利"  # Iashvili
+  "罗尔特基帕尼泽"  # Lortkipanidze
+  "马查瓦里安尼"  # Machavariani
+  "玛楚塔泽"  # Machutadze
+  "姆克黑泽"  # Mkheidze
+  "米克拉泽"  # Mikeladze
+  "纳卡希泽"  # Nakashidze
+  "尼古拉泽"  # Nikoladze
+  "尼扎拉泽"  # Nizharadze
+  "舍尔瓦什泽"  # Shervashidze
+  "采列捷利"  # Tsereteli
+  "楚卢基泽"  # Tsulukidze
+  "阿米拉科里"  # Amilakhori
+  "阿维利什维利"  # Avilishvili
+  "迪亚萨米泽"  # Diasamidze
+  "加加尼泽"  # Gaganidze
+  "戈季巴什维利"  # Gogibashvili
+  "格格里什维利"  # Gogorishvili
+  "奇鲁迪尔贝加什维利"  # Khildirbegashvili
+  "科布利斯泽"  # Kobulisdze
+  "科帕斯泽"  # Kopasdze
+  "帕拉万迪什维利"  # Palavandishvili
+  "帕纳科尔特里"  # Panaskerteli
+  "沙利卡什维利"  # Shalikashvili
+  "索罗噶什维利"  # Sologashvili
+  "萨姆巴蒂什维利"  # Sumbatishvili
+  "塔夫吉利德采"  # Tavdgiridze
+  "图卡雷利"  # Tukhareli
+}
+ship_names = {
+  "奥博"  # Abo
+  "阿米拉尼"  # Amirani
+  "阿拉格维"  # Aragvi
+  "阿尔马奇"  # Armazi
+  "阿纳克皮亚"  # Anakopia
+  "阿尔塔尼"  # Artaani
+  "阿尔戈"  # Argo
+  "阿布哈兹"  # Abkhazeti
+  "阿普萨罗斯"  # Apsaros
+  "阿特尼 斯诺利"  # Ateni Sioni
+  "阿夫坦季尔"  # Avtandil
+  "比奇温塔"  # Bichvinta
+  "巴托米"  # Batomi
+  "巴德比"  # Bodbe
+  "科尔基斯"  # Colchis
+  "德马尼西"  # Dmanisi
+  "德米特里 塔夫大卫布里"  # Demetre Tavdadebuli
+  "戴维 戈热贾"  # Davit Gareja
+  "第得哥里"  # Didgori
+  "建设者戴维"  # Davit Aghmashenebeli
+  "迪奥斯库里亚斯"  # Dioscurias
+  "戈古提"  # Geguti
+  "杰拉蒂"  # Gelati
+  "乔治 V 聪明者"  # Giorgi V Brtskinvale
+  "哥里"  # Gori
+  "吉米"  # Gremi
+  "赫列季"  # Hereti
+  "伊比利亚"  # Iberia
+  "季瓦里"  # Jvari
+  "季瓦里 瓦兹萨"  # Jvari Vazisa
+  "卡尔特罗斯"  # Kartlos
+  "库塔伊西"  # Kutaisi
+  "科纳布季"  # Khornabuji
+  "拉沙里斯瓦利"  # Lasharisjvari
+  "洛尔"  # Lore
+  "姆茨瓦里"  # Mtkvari
+  "姆茨赫塔"  # Mtskheta
+  "纳里卡拉"  # Narikala
+  "尼诺茨明达"  # Ninotsminda
+  "奥克罗斯 萨茨米西"  # Okros Satsmisi
+  "帕尔纳瓦兹"  # Parnavaz
+  "斐西斯"  # Phasis
+  "皮提亚斯"  # Pityus
+  "彼得 伊比利亚人"  # Petre Iberi
+  "鲁伊西"  # Ruisi
+  "拉查"  # Racha
+  "里奥尼"  # Rioni
+  "赛蒂"  # Seti
+  "萨哈拉塔"  # Skhalta
+  "斯瓦涅季"  # Svaneti
+  "斯维蒂斯克霍维里"  # Svetitskhoveli
+  "绍塔 鲁斯塔维利"  # Shota Rustaveli
+  "塔玛丽"  # Tamar
+  "第比利斯"  # Tbilisi
+  "特拉维"  # Telavi
+  "塔什利"  # Tashiri
+  "亚兹明达 乔治"  # Tsminda Giorgi
+  "措特涅 达季阿尼"  # Tsotne Dadiani
+  "泰特里 乔治"  # Tetri Giorgi
+  "乌尔布尼西"  # Urbnisi
+  "乌什巴"  # Ushba
+  "乌普利斯奇赫"  # Uplistsikhe
+  "瓦赫坦"  # Vakhtang Gorgasali
+  "瓦兹亚"  # Vardzia
+  "瓦纳契"  # Venakhi
+}

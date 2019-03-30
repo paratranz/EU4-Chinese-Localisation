@@ -1,0 +1,157 @@
+graphical_culture = asiangfx
+special_unit_culture = south_east_asian_special
+color = {
+  136
+  117
+  90
+}
+historical_idea_groups = {
+  defensive_ideas
+  offensive_ideas
+  spy_ideas
+  trade_ideas
+  diplomatic_ideas
+  economic_ideas
+  religious_ideas
+  quantity_ideas
+}
+historical_units = {
+  east_asian_spearmen
+  eastern_bow
+  asian_arquebusier
+  asian_charge_cavalry
+  asian_mass_infantry
+  asian_musketeer
+  reformed_asian_musketeer
+  reformed_asian_cavalry
+}
+monarch_names = {
+  "清草 #0" = -1  # Thanh Thao #0
+  "芳萼 #0" = -1  # Phuong Nga #0
+  "碧玉 #0" = -1  # Bich Ngoc #0
+  "翠深 #0" = -1  # Thuy Tram #0
+  "金英 #0" = -1  # Kim Anh #0
+  "维祫 #0" = 20  # Duy Hop #0
+  "光缵 #0" = 10  # Quang Toan #0
+  "惠 #0" = 10  # Hue #0
+  "维谦 #0" = 20  # Duy Khiem #0
+  "维祧 #0" = 20  # Duy Dieu #0
+  "维祳 #0" = 20  # Duy Than #0
+  "维祥 #0" = 20  # Duy Tuong #0
+  "维祊 #0" = 20  # Duy Phuong #0
+  "维禟 #0" = 20  # Duy Duong #0
+  "敬宇 #0" = 20  # Kinh Vu #0
+  "敬宽 #0" = 20  # Kinh Khoan #0
+  "敬恭 #0" = 20  # Kinh Cung #0
+  "敬止 #0" = 20  # Kinh Chi #0
+  "茂洽 #0" = 20  # Mau Hop #0
+  "福源 #0" = 20  # Phuc Nguyen #0
+  "福海 #0" = 20  # Phuc Hai #0
+  "庄宗 #0" = 20  # Trang Tong #0
+  "登瀛 #0" = 20  # Dang Doanh #0
+  "登庸 #0" = 20  # Dang Dung #0
+  "椿 #0" = 20  # Xuan #0
+  "椅 #0" = 20  # Y #0
+  "潆 #0" = 20  # Oanh #0
+  "濬 #0" = 20  # Tuan #0
+  "㵮 #0" = 20  # Thuan #0
+  "鏳 #0" = 20  # Tranh #0
+  "思诚 #0" = 20  # Tu Thanh #0
+  "宜民 #0" = 20  # Nghi Dan #0
+  "邦基 #0" = 20  # Bang Co #0
+  "元龙 #0" = 20  # Nguyen Long #0
+  "利 #0" = 20  # Loi #0
+  "季扩 #0" = 10  # Quy Khoang #0
+  "𬱟 #0" = 10  # Ngoi #0
+  "汉苍 #0" = 10  # Han Thuong #0
+  "季犛 #0" = 10  # Quy Ly #0
+  "𤇼 #0" = 10  # An #0
+}
+leader_names = {
+  "陈"  # Tran
+  "胡"  # Ho
+  "黎"  # Lê
+  "李"  # Ly
+  "吴"  # Ngo
+  "莫"  # Mac
+  "郑"  # Trinh
+  "阮"  # Nguyen
+  "黄"  # Huynh
+  "潘"  # Phan
+  "范"  # Pham
+  "武"  # Vu
+  "邓"  # Dang
+  "裴"  # Bui
+  "杜"  # Do
+  "杨"  # Duong
+  "彭"  # Banh
+  "高"  # Cao
+  "周"  # Chau
+  "朱"  # Chu
+  "钟"  # Chung
+  "叶"  # Diep
+  "谭"  # Dam
+  "陶"  # Dao
+  "丁"  # Dinh
+  "段"  # Doan
+  "江"  # Giang
+  "夏"  # Ha
+  "韩"  # Han
+  "矫"  # Kieu
+  "金"  # Kim
+  "罗"  # La
+  "雒"  # Lac
+  "蓝"  # Lam
+  "柳"  # Lieu
+  "陆"  # Luc
+  "梁"  # Luong
+  "刘"  # Luu
+  "马"  # Ma
+  "麦"  # Mach
+  "梅"  # Mai
+  "严"  # Nghiem
+  "傅"  # Pho
+  "冯"  # Phung
+  "郭"  # Quach
+  "光"  # Quang
+  "权"  # Quyen
+  "谢"  # Ta
+  "石"  # Thach
+  "蔡"  # Thai
+  "施"  # Thi
+  "水"  # Thuy
+  "萧"  # Tieu
+  "苏"  # To
+  "孙"  # Ton
+  "庄"  # Trang
+  "赵"  # Trieu
+  "张"  # Truong
+  "文"  # Van
+  "永"  # Vinh
+  "王"  # Vuong
+}
+ship_names = {
+  "陈煚"  # Tran Canh
+  "陈日烜"  # Tran Hoang
+  "陈昑"  # Tran Khâm
+  "陈烇"  # Tran Thuyên
+  "陈奣"  # Tran Manh
+  "陈旺"  # Tran Vuong
+  "陈暭"  # Tran Hao
+  "杨日礼"  # Duong Nhat Lê
+  "陈暊"  # Tran Phu
+  "陈曔"  # Tran Kính
+  "陈𬀪"  # Tran Hien
+  "陈颙"  # Tran Ngung
+  "陈𤇼"  # Tran An
+  "太宗"  # Thái Tông
+  "圣宗"  # Thánh Tông
+  "仁宗"  # Nhân Tông
+  "英宗"  # Anh Tông
+  "明宗"  # Minh Tông
+  "宪宗"  # Hien Tông
+  "裕宗"  # Du Tông
+  "艺宗"  # Nghe Tông
+  "睿宗"  # Due Tông
+  "顺宗"  # Thuan Tông
+}

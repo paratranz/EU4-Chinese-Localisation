@@ -1,0 +1,182 @@
+graphical_culture = westerngfx
+color = {
+  117
+  146
+  167
+}
+historical_idea_groups = {
+  maritime_ideas
+  trade_ideas
+  economic_ideas
+  defensive_ideas
+  diplomatic_ideas
+  spy_ideas
+  offensive_ideas
+  quantity_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  italian_condotta
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "罗米尔达 #0" = -1  # Romilda #0
+  "贾钦塔 #0" = -1  # Giacinta #0
+  "切莱斯特 #0" = -1  # Celeste #0
+  "维托里奥 #0" = 0  # Vittorio #0
+  "西蒙 #0" = 0  # Simone #0
+  "塞巴斯蒂亚诺 #0" = 0  # Sebastiano #0
+  "桑托 #0" = 0  # Santo #0
+  "帕特里齐奥 #0" = 0  # Patrizio #0
+  "内斯托雷 #0" = 0  # Nestore #0
+  "卢恰诺 #0" = 0  # Luciano #0
+  "洛伦佐 #0" = 0  # Lorenzo #0
+  "拉扎罗 #0" = 0  # Lazzaro #0
+  "伊拉里奥 #0" = 0  # Ilario #0
+  "朱利奥 #0" = 0  # Giulio #0
+  "真纳罗 #0" = 0  # Gennaro #0
+  "加斯帕雷 #0" = 0  # Gaspare #0
+  "费利切 #0" = 0  # Felice #0
+  "埃马努埃莱 #0" = 0  # Emanuele #0
+  "埃德蒙多 #0" = 0  # Edmondo #0
+  "达维德 #0" = 0  # Davide #0
+  "达里奥 #0" = 0  # Dario #0
+  "克里斯托福罗 #0" = 0  # Crsitoforo #0
+  "科西莫 #0" = 0  # Cosimo #0
+  "科斯坦佐 #0" = 0  # Costanzo #0
+  "切萨雷 #0" = 0  # Cesare #0
+  "卡洛 #0" = 0  # Carlo #0
+  "博纳文图拉 #0" = 0  # Bonaventura #0
+  "本韦努托 #0" = 0  # Benvenuto #0
+  "贝内代托 #0" = 0  # Benedetto #0
+  "阿塞尼奥 #0" = 0  # Arsenio #0
+  "安德里亚 #0" = 0  # Andrea #0
+  "阿梅迪奥 #0" = 0  # Amedeo #0
+  "阿戈斯蒂诺 #0" = 0  # Agostino #0
+  "贝亚特丽斯 #0" = -5  # Beatrice #0
+  "古纳里奥 #2" = 5  # Gonario #2
+  "乔瓦尼 #1" = 10  # Giovanni #1
+  "安德里亚 #1" = 10  # Andrea #1
+  "巴里索内 #3" = 10  # Barisone #3
+  "费德里戈  #1" = 15  # Federigo #1
+  "乌戈 #3" = 15  # Ugo #3
+  "彼得罗 #3" = 15  # Pietro #3
+  "古列尔莫 #0" = 20  # Guglielmo #0
+  "马里亚诺 #4" = 20  # Mariano #4
+}
+leader_names = {
+  "阿尔菲耶里"  # Alfieri
+  "迪 阿皮亚尼 迪 阿拉戈纳"  # d'Appiani d'Aragona
+  "阿尔博里奥 梅拉"  # Arborio Mella
+  "阿西纳里"  # Asinari
+  "德 阿塔拉亚"  # d'Attalaya
+  "巴尔博"  # Balbo
+  "本索"  # Benso
+  "德 贝特"  # de Bette
+  "邦孔帕尼 卢多维西"  # Boncompagni Ludovisi
+  "博罗梅奥"  # Borromeo
+  "博斯科"  # Bosco
+  "博塔"  # Botta
+  "布罗利亚"  # Broglia
+  "迪 布斯卡"  # di Busca
+  "卡法索"  # Cafasso
+  "迪 卡尔代"  # di Cardé
+  "德尔 卡雷托"  # del Carreto
+  "卡萨蒂"  # Casati
+  "迪 加富尔"  # di Cavour
+  "基奥多"  # Chiodo
+  "奇萨 阿西纳里"  # Cisa Asinari
+  "科托伦戈"  # Cottolengo
+  "德利塔里亚"  # Delitalia
+  "多里亚 迪 奇列"  # Doria di Cirié
+  "法基内蒂 德 努切"  # Facchinetti de Nuce
+  "费雷罗 菲耶斯科"  # Ferrero-Fiesco
+  "加埃塔尼 德阿奎拉"  # Gaetani dell'Aquila
+  "加莱蒂"  # Galletti
+  "焦贝蒂"  # Gioberti
+  "奥莫 德伊 穆拉"  # Homo dei Moura
+  "拉斯卡里斯"  # Lascaris
+  "卢多维西"  # Ludovisi
+  "卢塞尔纳 坎皮利欧尼"  # Luserna Campiglione
+  "迪 卢塞尔纳"  # di Luserna
+  "德尔 马可"  # del Marco
+  "德 马雷塔"  # de Maretta
+  "米卡"  # Micca
+  "奥索里奥"  # Ossorio
+  "德奥塔亚诺"  # d'Ottaiano
+  "迪 帕埃萨纳"  # di Paesana
+  "帕拉维奇尼"  # Pallavicini
+  "皮尼亚泰利"  # Pignatelli
+  "迪 萨伏伊"  # di Savoia
+  "索拉罗"  # Solaro
+  "塔帕雷利"  # Taparelli
+  "塔索尼"  # Tassoni
+  "德拉 托雷"  # della Torre
+  "特里武尔齐奥"  # Trivulzio
+  "德 图塔维拉"  # de Tutavila
+  "维科"  # Vico
+}
+ship_names = {
+  "Alfonso il Benigno"
+  "Alghero"
+  "Asinara"
+  "Assemini"
+  "Campidano"
+  "Capoterra"
+  "Caprera"
+  "Carbonia-Iglesias"
+  "Cagliari"
+  "Cedrino"
+  "Coghinas"
+  "Dolomiti di Oliena"
+  "Eleanor Arborea"
+  "Flumendosa"
+  "Giacomo II"
+  "Giovanni il Galantuomo"
+  "Giudice Ugone"
+  "lago di Baratz"
+  "Martino l'Umano"
+  "Medio Campidano"
+  "Monserrato"
+  "Monte Albo"
+  "Monte Rasu"
+  "Monti di Limbara"
+  "Monti di Alà"
+  "Nuoro"
+  "Ogliastra"
+  "Olbia-Tempio"
+  "Oristano"
+  "Orosei"
+  "Porto Torres"
+  "Punta La Marmora"
+  "Quartucciu"
+  "Sant'Antioco"
+  "Santa Gilla"
+  "Sant'Elena"
+  "San Michele"
+  "San Pietro"
+  "Sassari"
+  "S.Domenico"
+  "S.Maria"
+  "S.Saturnino"
+  "Selargiu"
+  "Sestu"
+  "Sinnai"
+  "Sorso"
+  "Tavolara"
+  "Tirso"
+}
+army_names = {
+  "$PROVINCE$军"  # Armata de $PROVINCE$
+}

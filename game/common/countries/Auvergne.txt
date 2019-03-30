@@ -1,0 +1,192 @@
+graphical_culture = westerngfx
+color = {
+  248
+  207
+  70
+}
+historical_idea_groups = {
+  defensive_ideas
+  religious_ideas
+  diplomatic_ideas
+  economic_ideas
+  innovativeness_ideas
+  offensive_ideas
+  spy_ideas
+  trade_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_cuirassier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "格扎维埃 #0" = 0  # Xavier #0
+  "维克多 #0" = 0  # Victor #0
+  "托马 #0" = 0  # Thomas #0
+  "蒂博 #0" = 0  # Thibaud #0
+  "锡卡尔 #0" = 0  # Sicard #0
+  "赛尔日 #0" = 0  # Sergi #0
+  "罗杰 #0" = 0  # Rotger #0
+  "雷蒙 #0" = 0  # Raimond #0
+  "庞 #0" = 0  # Pons #0
+  "佩尔 #0" = 0  # Pere #0
+  "儒勒 #0" = 0  # Jules #0
+  "若尔迪 #0" = 0  # Jordi #0
+  "若望 #0" = 0  # Joan #0
+  "若弗雷 #0" = 0  # Jaufré #0
+  "居伊 #0" = 0  # Gui #0
+  "吉雷姆 #0" = 0  # Guilhem #0
+  "腓力 #0" = 0  # Felip #0
+  "艾斯戴夫 #0" = 0  # Estève #0
+  "昂里克 #0" = 0  # Enric #0
+  "埃默里克 #0" = 0  # Emeric #0
+  "多芒 #0" = 0  # Domenc #0
+  "波莱尔 #0" = 0  # Borel #0
+  "贝纳 #0" = 0  # Bernat #0
+  "贝朗日 #0" = 0  # Béranger #0
+  "阿尔诺 #0" = 0  # Arnaud #0
+  "安德留 #0" = 0  # Andriu #0
+  "埃梅里克 #0" = 0  # Aimeric #0
+  "伯纳德 #2" = 1  # Bernard #2
+  "罗伯特 #7" = 1  # Robert #7
+  "纪尧姆 #13" = 1  # Guillaume #13
+  "玛丽 #0" = -10  # Marie #0
+  "玛格丽特 #0" = -10  # Marguerite #0
+  "让娜 #1" = -10  # Jeanne #1
+  "凯瑟琳 #0" = -10  # Catherine #0
+  "安娜 #0" = -10  # Anne #0
+  "居伊 #2" = 10  # Guy #2
+  "查理-菲利普 #0" = 20  # Charles-Philippe #0
+  "查理 #0" = 20  # Charles #0
+  "约翰 #2" = 20  # Jean #2
+  "贝特朗 #0" = 40  # Bertrand #0
+}
+leader_names = {
+  "德 阿雷戈尔"  # d'Alègre
+  "德 阿尔迭 德 博纳"  # d'Altier de Borne
+  "德 阿普松"  # d'Apchon
+  "德 阿尔菲耶"  # d'Arfeuille
+  "阿诺尔"  # Arnauld
+  "德 阿尔巴戎"  # d'Arpajon
+  "德 巴菲"  # de Baffie
+  "德 巴尔扎克"  # de Balzac
+  "巴尔贝"  # Barbey
+  "德 巴士尔东"  # de Basredon
+  "德 鲍孚日"  # de Beauverger
+  "德 布朗士佛"  # de Blanchefort
+  "布叶 杜 夏利奥尔"  # Bouillé du Chariol
+  "布拉谢"  # Brachet
+  "德 布洛萨多尔"  # de Brossadol
+  "德 布鲁热尔"  # de Brugière
+  "德 卡尼拉克"  # de Canilhac
+  "卡本涅尔 德 拉 巴特"  # Carbonnières de La Barthe
+  "德 卡尔达亚克"  # de Cardaillac
+  "德 卡拉"  # de Carlat
+  "德 卡斯特拉"  # de Casteras
+  "德 沙朗松"  # de Chalençon
+  "德 沙兹隆"  # de Chazeron
+  "德 克莱蒙"  # de Clermont
+  "德 克里萨克"  # de Cressac
+  "杜 克罗克"  # du Croc
+  "德 富热尔"  # de Fougères
+  "德 格朗塞涅"  # de Grandsaigne
+  "德 于米耶尔"  # d'Humières
+  "德 拉维"  # de Lavie
+  "德 马尼亚克"  # de Magnac
+  "德 马斯博"  # de Massebeau
+  "德 莫凯尔"  # de Mercœur
+  "德 蒙伯谢"  # de Montboissier
+  "德 蒙加斯孔"  # de Montgascon
+  "德 蒙庞谢"  # de Montpensier
+  "德 孟维尔"  # de Montvert
+  "德 涅尔斯唐"  # de Nérestang
+  "德 奥列格"  # d'Oliergues
+  "德 庞诺提耶"  # de Pennautier
+  "德 帕斯卡"  # de Pascal
+  "德 波利涅克"  # de Polignac
+  "德 拉 居叶"  # de La Queuille
+  "德 罗什福尔 德 艾利"  # de Rochefort-d'Ailly
+  "德 罗热 博福尔"  # de Rogier-Beaufort
+  "德 圣尼克泰尔"  # de Saint-Nectaire
+  "德 斯克莱耶"  # de Scorailles
+  "德 泰尔韦尔"  # de Terreveire
+  "德 梯也尔"  # de Thiers
+  "德 于赛尔"  # d'Ussel
+}
+ship_names = {
+  "拉 埃吉耶"  # l'Aiguiller
+  "拉 阿尔唐思"  # l'Artense
+  "拉 巴纳 德 奥尔当什"  # la Banne d'Ordanche
+  "拉 塞宰耶"  # le Cézailler
+  "勒 邵德福"  # le Chaudefour
+  "勒 克烈格"  # le Cliergue
+  "勒 克烈苏"  # le Cliersoux
+  "勒 唐 德 拉 朗居纳"  # la Dent de la Rancune
+  "勒 顾尔 德 塔兹纳"  # le Gour de Tazenat
+  "勒 拉克 邵维"  # le Lac Chauvet
+  "勒 拉克 德 盖里"  # le Lac de Guéry
+  "勒 拉克 杜 若朗"  # le Lac du Joland
+  "勒 拉克 帕万"  # le Lac Pavin
+  "勒 拉克 德 塞尔维尔"  # le Lac de Servières
+  "勒 芒戴叶"  # le Mandailles
+  "勒 蒙多尔"  # le Mont Dore
+  "勒 纳斯 德 埃斯皮纳斯"  # le Narse d'Espinasse
+  "勒 奥尔盖 德 博尔"  # l'Orgues de Bort
+  "勒 贝尔 阿尔斯"  # le Peyre Arse
+  "勒 普隆 杜 冈达尔"  # le Plomb du Cantal
+  "勒 普伊 沙瓦罗什"  # le Puy Chavaroche
+  "勒皮 德 拉 昂格勒"  # le Puy de l'Angle
+  "勒皮 德 博尔"  # le Puy de Bort
+  "勒皮 德 寇姆"  # le Puy de Côme
+  "多姆山"  # le Puy de Dôme
+  "古勒山"  # le Puy des Goules
+  "格鲁斯山"  # le Puy de la Grousse
+  "拉索拉山"  # le Puy de Lassolas
+  "莫纳山"  # le Puy de Monne
+  "蒙沙尔山"  # le Puy de Montchal
+  "蒙辛内尔山"  # le Puy de Montcineyre
+  "蒙泰纳尔山"  # le Puy de Monténard
+  "拜亚雷山"  # le Puy de Paillaret
+  "佩尔得利山"  # le Puy de la Perdrix
+  "桑希山"  # le Puy de Sancy
+  "塞薛斯山"  # le Puy de Seycheuse
+  "达什山"  # le Puy de la Tache
+  "塔塔雷山"  # le Puy de Tartaret
+  "瓦什山"  # le Puy de la Vache
+  "沃雷山"  # le Puy-en-Velay
+  "费朗山"  # le Puy Ferrand
+  "格留山"  # le Puy Griou
+  "格洛山"  # le Puy Gros
+  "玛丽山"  # le Puy Mary
+  "维欧朗山"  # le Puy Violent
+  "罗什福尔山"  # le Rochefort-Montagne
+  "勒 罗什 蒂伊利埃"  # le Roches Tuilière
+  "勒 萨纳多瓦尔"  # le Sanadoire
+  "勒 萨尔库伊"  # le Sarcouy
+  "勒 西尼亚尔 杜 吕盖"  # le Signal du Luguet
+}
+army_names = {
+  "奥弗涅军"  # Armée d'Auvergne
+  "克莱蒙军"  # Armée de Clermont
+  "蒙特庞谢军"  # Armée de Montpensier
+  "韦莱军"  # Armée du Velay
+  "布里瓦杜瓦军"  # Armée du Brivadois
+  "道芬 德奥弗涅军"  # Armée du Dauphin d'Auvergne
+  "大利马涅军"  # Armée de Grande Limagne
+  "利夫拉杜瓦军"  # Armée du Livradois
+  "康塔尔军"  # Armée du Cantal
+  "马尔热里德军"  # Armée de la Margeride
+  "$PROVINCE$军"  # Armée de $PROVINCE$
+}

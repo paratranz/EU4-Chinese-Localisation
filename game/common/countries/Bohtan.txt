@@ -1,0 +1,197 @@
+graphical_culture = muslimgfx
+color = {
+  62
+  129
+  120
+}
+historical_idea_groups = {
+  defensive_ideas
+  religious_ideas
+  offensive_ideas
+  trade_ideas
+  spy_ideas
+  economic_ideas
+  diplomatic_ideas
+  administrative_ideas
+}
+historical_units = {
+  persian_footsoldier
+  persian_cavalry_charge
+  persian_shamshir
+  qizilbash_cavalry
+  tofongchis_musketeer
+  topchis_artillery
+  afsharid_reformed
+  afsharid_reformed_infantry
+  muslim_mass_infantry
+  muslim_dragoon
+  persian_rifle
+}
+monarch_names = {
+  "米尔 苏莱曼 #0" = -1  # Mir Suliman #0
+  "米尔 珊赞德 #0" = -1  # Mir Xanzad #0
+  "阿提雅 #0" = -1  # Atiya #0
+  "布达克 #0" = 10  # Budak #0
+  "赛义迪 #0" = 10  # Saidi #0
+  "米尔 赛义费丁 #0" = 10  # Mir Saifeddin #0
+  "伊萨 #0" = 10  # Isa #0
+  "库洛什 #0" = 10  # Kulos #0
+  "阿卜杜拉赫曼 #0" = 10  # Abdurrahman #0
+  "易卜拉欣 #0" = 10  # Ibrahim #0
+  "马哈茂德 #0" = 10  # Mahmoud #0
+  "阿卜杜拉 #0 汗" = 10  # Abdolla #0 Khân
+  "诺瓦乌卜 萨利姆 #0" = 5  # Nawaub Salim #0
+  "诺瓦乌卜 哈立德 #0" = 10  # Nawaub Khalid #0
+  "穆罕默德 #0" = 10  # Mohammad #0
+  "法齐 艾哈迈德 #0 沙阿" = 10  # Faqi Ahmad #0 Shâh
+  "阿曼 阿拉 #0 沙阿" = 10  # Aman-Allah #0 Shâh
+  "胡赛因 #0" = 10  # Hosayn #0
+  "博佐尔格 #0" = 20  # Bozorg #0
+  "霍斯劳 #0" = 15  # Khosrow #0
+  "索班韦尔迪 #0" = 30  # Sobhanverdi #0
+  "苏莱曼 #0" = 10  # Soleiman #0
+  "艾哈迈德 #0" = 20  # Ahmad #0
+  "帖木儿 #0" = 30  # Timur #0
+  "赫卢 #0" = 30  # Helo #0
+  "巴瓦 #0" = 30  # Bawa #0
+}
+leader_names = {
+  "桑贾比"  # Sanjâbi
+  "布赫季"  # Bukhti
+  "菲鲁兹库赫"  # Ferozkohi
+  "裴伊"  # Feyli
+  "Gewirk"
+  "雷卡尼"  # Rekani
+  "哈德哈巴尼"  # Hadhabani
+  "阿里 什万"  # Ali Sherwan
+  "赫尔基"  # Herki
+  "贾利拉万德"  # Jalilavand
+  "扎法兰卢"  # Zafaranlu
+  "扎林卡夫什"  # Zarrinkafsh
+  "曼古尔"  # Mangur
+  "贾夫"  # Jaff
+  "谢兰利"  # Sheylanli
+  "巴尔扎尼"  # Barzani
+}
+ship_names = {
+  "阿巴图尔"  # Abathur
+  "亚当 卡西亚"  # Adamn Kasia
+  "艾斯玛 代伐"  # Aesma Daeva
+  "阿嘉斯"  # Agas
+  "阿赫里曼"  # Ahriman
+  "阿胡拉"  # Ahura
+  "阿胡拉 马兹达"  # Ahura Mazda
+  "阿胡拉尼"  # Ahurani
+  "雅利安曼"  # Airyaman
+  "阿卡 摩那"  # Aka Manah
+  "阿拉丁"  # Aladdin
+  "阿拉图姆"  # Allatum
+  "阿马沙斯潘"  # Amashaspan
+  "不死"  # Ameratat
+  "六大天使"  # Amesha Spentas
+  "安娜希塔"  # Anahita
+  "安哥拉曼纽"  # Angra Mainyu
+  "祆教长老会"  # Anjuman
+  "阿帕姆-纳塔特"  # Apam-natat
+  "Apaosa"
+  "阿雷德维"  # Aredvi
+  "Arishtat"
+  "阿尔麦蒂"  # Armaiti
+  "阿尔沙克"  # Arsaces
+  "阿沙 瓦西塔"  # Asha vahista
+  "苍穹"  # Asman
+  "Asto Vidatu"
+  "Astvat-Ereta"
+  "圣火"  # Atar
+  "Azi Dahaka"
+  "薄迦"  # Baga
+  "巴赫拉姆"  # Bahram
+  "Burijas"
+  "Bushyasta"
+  "Buyasta"
+  "Camros"
+  "正信"  # Daena
+  "魔鬼"  # Daevas
+  "Ahaka"
+  "Dahhak"
+  "蒂娜"  # Dena
+  "提婆"  # Dev
+  "Diwe"
+  "邪恶"  # Drug
+  "德瓦斯帕"  # Drvaspa
+  "Frashegird"
+  "Fravashis"
+  "Gandarewa"
+  "Gao-kerena"
+  "Gayomard"
+  "Gayomart"
+  "Geus-Tasan"
+  "Geus-Urvan"
+  "Haoma"
+  "Haurvatat"
+  "Humay"
+  "Hvar"
+  "Hvarekhshaeta"
+  "Indar"
+  "Indra"
+  "Izha"
+  "Jamshid"
+  "Jeh"
+  "Karshipta"
+  "Kavi"
+  "Khara"
+  "Khshathra vairya"
+  "Kundrav"
+  "Mah"
+  "Mahre"
+  "Mahrianag"
+  "Manu"
+  "Manuchihir"
+  "Mao"
+  "Mashyane"
+  "Mashye"
+  "Menog"
+  "Mithra"
+  "Nairyosangha"
+  "Nanghaithya"
+  "Neriosang"
+  "Ormazd"
+  "Peris"
+  "Peshdadians"
+  "Rapithwin"
+  "Rashnu"
+  "Rustam"
+  "Saurva"
+  "Simurgh"
+  "Spenta Mainyu"
+  "Sraosa"
+  "Srosh"
+  "Tawrich"
+  "Thunaupa"
+  "Tistrya"
+  "Tushnamatay"
+  "Vanant"
+  "Vata"
+  "Verethragna"
+  "Vohu Manah"
+  "Vouruskasha"
+  "Yam"
+  "Yasht"
+  "Yazata"
+  "Yezidi"
+  "Yima"
+  "Zal"
+  "Zam"
+  "Zam-Armatay"
+  "Zarathustra"
+  "Zarich"
+  "Zend-Avesta"
+  "Zurvan"
+}
+army_names = {
+  "Artesa"
+  "$PROVINCE$"
+}
+fleet_names = {
+  "$PROVINCE$ Donanmasî"
+}

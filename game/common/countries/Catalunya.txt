@@ -1,0 +1,185 @@
+graphical_culture = westerngfx
+color = {
+  213
+  132
+  76
+}
+historical_idea_groups = {
+  trade_ideas
+  religious_ideas
+  maritime_ideas
+  economic_ideas
+  diplomatic_ideas
+  innovativeness_ideas
+  spy_ideas
+  defensive_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "玛尔塔 #0" = -1  # Marta #0
+  "索菲娅 #0" = -1  # Sofia #0
+  "艾利西亚 #0" = -1  # Alícia #0
+  "哈维尔 #0" = 0  # Xavier #0
+  "罗德里克 #0" = 0  # Roderic #0
+  "拉蒙 #0" = 0  # Ramon #0
+  "拉斐尔 #0" = 0  # Rafel #0
+  "保罗 #0" = 0  # Pau #0
+  "米奎尔 #0" = 0  # Miquel #0
+  "马内尔 #0" = 0  # Manel #0
+  "卢克 #0" = 0  # Lluc #0
+  "罗伦斯 #0" = 0  # Llorenç #0
+  "若塞普 安东尼 #0" = 0  # Josep Antoni #0
+  "若塞普 #0" = 0  # Josep #0
+  "若尔迪 #0" = 0  # Jordi #0
+  "华金 #0" = 0  # Joaquim #0
+  "伊格纳西 #0" = 0  # Ignasi #0
+  "乌格 #0" = 0  # Hug #0
+  "埃克托尔 #0" = 0  # Hèctor #0
+  "吉列姆 #0" = 0  # Guillem #0
+  "贡萨尔 #0" = 0  # Gonçal #0
+  "弗朗塞斯克 #0" = 0  # Francesc #0
+  "埃斯特万 #0" = 0  # Esteve #0
+  "爱德华 #0" = 0  # Eduard #0
+  "多米尼克 #0" = 0  # Domènec #0
+  "克莱门特 #0" = 0  # Climent #0
+  "贝尔纳特 #0" = 0  # Bernat #0
+  "阿尔瑙 #0" = 0  # Arnau #0
+  "安东尼 #0" = 0  # Antoni #0
+  "安德鲁 #0" = 0  # Andreu #0
+  "安布罗斯 #0" = 0  # Ambrós #0
+  "马蒂 #1" = 5  # Martí #1
+  "豪梅 #2" = 5  # Jaume #2
+  "费兰 #2" = 5  # Ferran #2
+  "尼古劳 #0" = 10  # Nicolau #0
+  "腓力 #0" = 10  # Felip #0
+  "卡莱斯 #0" = 10  # Carles #0 
+  "约安 #2" = 15  # Joan #2
+  "阿方索 #5" = 15  # Alfons #5
+  "雷纳特 #0" = 20  # Renat #0
+  "恩里克 #0" = 20  # Enric #0
+  "佩雷 #4" = 20  # Pere #4
+  "路易斯 #0" = 40  # Lluís #0
+}
+leader_names = {
+  "艾雷马尼"  # Alemany
+  "艾梅特勒"  # Ametller
+  "阿米克"  # Amic
+  "德 巴拉格尔"  # de Balaguer
+  "巴塞洛"  # Barceló
+  "布兰克"  # Blanc
+  "加那尔斯"  # Canals
+  "Casanovas"
+  "de Guimerà"
+  "Casaus"
+  "Dalmau"
+  "Desplà"
+  "Destorrent"
+  "Domènec"
+  "d’Espés"
+  "Ferrer"
+  "Folc de Cardona"
+  "Fontana"
+  "Gallart"
+  "Gassol"
+  "Gisbert"
+  "Graner"
+  "de Grau"
+  "Guimet"
+  "Lleixà"
+  "Llull"
+  "de Margarit"
+  "Muntaner"
+  "de Montcada"
+  "Moragues"
+  "de Mur"
+  "Nadal"
+  "d’Oms"
+  "Pallarès"
+  "Pinós"
+  "Piquer"
+  "Pons"
+  "Rasquí"
+  "de la Riba"
+  "Ribalta"
+  "Ripio"
+  "Rifós"
+  "de Ripoll"
+  "Salavert"
+  "de Subirats"
+  "Tamarit"
+  "Vallès"
+  "Vergós"
+  "Vilamarí"
+  "Vilaplana"
+}
+ship_names = {
+  "Blanca Aurora"
+  "Sant Jacob"
+  "Flama"
+  "Lleona"
+  "Falcó"
+  "La Bonaventura"
+  "Sant Antoni"
+  "Sant Miquel"
+  "Sant Bernat"
+  "Sant Francesc"
+  "Santa Ágata"
+  "Santa Eulàlia"
+  "Sant Gabriel"
+  "Sant Climent"
+  "Sant Jordi"
+  "La Reial"
+  "Trinitat"
+  "Santa Creu"
+  "Santa Maria"
+  "Santa Caterina"
+  "Sant Joan Evangelista"
+  "Santa Bàrbara"
+  "Sant Pere de Roma"
+  "La Gasela"
+  "Santa Magdalena"
+  "Sant Víctor"
+  "Magnana"
+  "Santa Ventura"
+  "Santa Coloma"
+  "Sant Ambrós"
+  "Constança"
+  "Sant Ferran"
+  "Invencible"
+  "Telèmac"
+  "Sobirà"
+  "Verge del Carme"
+  "Verge de Montserrat"
+  "Juno"
+  "Vigilant"
+  "Eclipsi"
+  "Sant Joan Baptista"
+  "Santíssima Trinitat"
+  "Terrible"
+  "Temerària"
+  "Verge de les Neus"
+  "Jaume el Conqueridor"
+  "Mart"
+  "Alerta"
+  "Ceres"
+  "Sorpresa"
+  "Empordà"
+  "Catalunya"
+  "Roger de Flor"
+  "Roger de Llúria"
+  "La Garsa"
+}

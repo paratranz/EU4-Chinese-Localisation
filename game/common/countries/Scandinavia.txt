@@ -1,0 +1,1543 @@
+graphical_culture = westerngfx
+color = {
+  62
+  122
+  189
+}
+revolutionary_colors = {
+  8
+  14
+  5
+}
+historical_idea_groups = {
+  administrative_ideas
+  defensive_ideas
+  maritime_ideas
+  offensive_ideas
+  innovativeness_ideas
+  quality_ideas
+  expansion_ideas
+  trade_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  dutch_maurician
+  french_caracolle
+  swedish_gallop
+  swedish_gustavian
+  swedish_caroline
+  swedish_arme_blanche
+  prussian_uhlan
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "瓦尔德马 #0" = 0  # Waldemar #0
+  "乌尔里克 #0" = 0  # Ulrik #0
+  "托马斯 #0" = 0  # Tomas #0
+  "斯文 #0" = 0  # Sven #0
+  "西蒙 #0" = 0  # Simon #0
+  "西格瓦德 #0" = 0  # Sigvard #0
+  "西吉斯蒙德 #0" = 0  # Sigismund #0
+  "瑞提尔 #0" = 0  # Rettil #0
+  "兰格瓦尔德 #0" = 0  # Rangvald #0
+  "本都 #0" = 0  # Pontus #0
+  "帕特里克 #0" = 0  # Patrik #0
+  "奥斯卡 #0" = 0  # Oskar #0
+  "奥洛夫 #0" = 0  # Olof #0
+  "尼尔斯 #0" = 0  # Nils #0
+  "米卡埃尔 #0" = 0  # Mikael #0
+  "马格努斯 #0" = 0  # Magnus #0
+  "卢德维格 #0" = 0  # Ludvig #0
+  "拉尔什 #0" = 0  # Lars #0
+  "雅各布 #0" = 0  # Jakob #0
+  "英格 #0" = 0  # Inge #0
+  "亨里克 #0" = 0  # Henrik #0
+  "贡纳尔 #0" = 0  # Gunnar #0
+  "哥特弗里德 #0" = 0  # Gottfrid #0
+  "福尔克 #0" = 0  # Folke #0
+  "埃纳尔 #0" = 0  # Einar #0
+  "爱德华 #0" = 0  # Edvard #0
+  "比约恩 #0" = 0  # Björn #0
+  "比尔格 #0" = 0  # Birger #0
+  "本格特 #0" = 0  # Bengt #0
+  "阿克塞尔 #0" = 0  # Axel #0
+  "奥古斯特 #0" = 0  # August #0
+  "阿尔弗雷德 #0" = 0  # Alfred #0
+  "阿道夫 #0" = 0  # Adolf #0
+  "伊丽欧诺拉 #0" = -5  # Eleonora #0
+  "乌尔丽卡 #0" = -10  # Ulrika #0
+  "玛格丽特 #0" = -15  # Margareta #0
+  "克里斯蒂娜 #0" = -15  # Christina #0
+  "哈拉尔德 #0" = 5  # Harald #0
+  "克努特 #0" = 5  # Knut #0
+  "约翰 #0" = 10  # Johan #0
+  "卡尔 #0 约翰" = 15  # Karl #0 Johan
+  "卡尔 #0 古斯塔夫" = 15  # Karl #0 Gustav
+  "古斯塔夫 #0 阿道夫" = 15  # Gustav #0 Adolf
+  "奥拉夫 #0" = 15  # Olav #0
+  "埃里克 #0" = 25  # Erik #0
+  "哈康 #0" = 30  # Håkon #0
+  "弗雷德里克 #0" = 35  # Fredrik #0
+  "古斯塔夫 #0" = 40  # Gustav #0
+  "卡尔 #0" = 50  # Karl #0
+  "克里斯蒂安 #0" = 55  # Christian #0
+}
+leader_names = {
+  "安德森"  # Andersson
+  "阿姆菲尔德"  # Armfeldt
+  "冯 阿舍贝格"  # von Ascheberg
+  "埃德勒克罗茨"  # Adlercreutz
+  "阿德勒斯帕勒"  # Adlersparre
+  "阿尔克马尔"  # Alkmaar
+  "安卡斯特伦"  # Anckarström
+  "巴格"  # Bagge
+  "巴纳"  # Banér
+  "比尔克"  # Bielke
+  "布拉赫"  # Brahe
+  "科隆斯泰特"  # Cronstedt
+  "冯 德伯恩"  # von Döbeln
+  "达尔贝里"  # Dahlbergh
+  "杜瓦"  # Dufwa
+  "恩厄尔布雷克特"  # Engelbrekt
+  "埃里克森"  # Eriksson
+  "厄伦斯瓦德"  # Ehrensvärd
+  "冯 埃森"  # von Essen
+  "伊卡"  # Eka
+  "埃伦斯特拉尔"  # Ehrenstrahl
+  "弗莱明"  # Fleming
+  "冯 费尔森"  # von Fersen
+  "格塔"  # Gadh
+  "格里普"  # Grip
+  "阿夫高纳斯"  # af Gennäs
+  "德 拉加迪"  # de la Gardie
+  "伊伦海姆"  # Gyllenhielm
+  "加滕海姆"  # Gathenhielm
+  "古斯塔夫森"  # Gustavsson
+  "霍恩"  # Horn
+  "哈德"  # Hård
+  "哈恩"  # Hahn
+  "哈斯菲尔德"  # Hastfer
+  "耶纳"  # Hjärne
+  "耶格尔霍恩"  # Jägerhorn
+  "柯尼西斯马克"  # Königsmarck
+  "克林斯波尔"  # Klingspor
+  "莱文豪普特"  # Lewenhaupt
+  "莱琼霍夫德"  # Leijonhufvud
+  "利恩克兰茨"  # Liljencrantz
+  "林德斯奥德"  # Lindschöld
+  "奥克森谢纳"  # Oxenstierna
+  "帕姆斯特鲁奇"  # Palmstruch
+  "派柏"  # Piper
+  "普林兹"  # Prinz
+  "雷恩斯基尔德"  # Rehnskiöld
+  "里宾"  # Ribbing
+  "斯滕伯格"  # Stenbock
+  "桑德尔斯"  # Sandels
+  "斯屈特"  # Skytte
+  "斯图雷"  # Sture
+  "特罗素尔"  # Tre Rosor
+  "托尔斯滕松"  # Torstensson
+  "阿夫特罗勒"  # af Trolle
+  "托尔"  # Toll
+  "弗兰格尔"  # Wrangel
+  "瓦赫特迈斯特"  # Wachtmeister
+  "瓦朗伯格"  # Wallenberg
+  "奥克赫姆"  # Åkerhielm
+  "阿德勒"  # Adeler
+  "阿勒费尔特"  # Ahlefeldt
+  "奥克雷耶"  # Akeleye
+  "阿蒙森"  # Amundsen
+  "阿伦斯塔夫"  # Arenstorff
+  "比勒"  # Bille
+  "博尔特"  # Bolt
+  "布洛肯胡斯"  # Brockenhuus
+  "克里斯琴森"  # Christiansen
+  "杜"  # Daa
+  "埃布森"  # Ebbesen
+  "埃伯施泰因"  # Eberstein
+  "埃尔布雷希特"  # Ellbrecht
+  "福尔肯斯古尔德"  # Falkenskjold
+  "费舍尔"  # Fischer
+  "盖特"  # Galt
+  "格斯多夫"  # Gersdorff
+  "杰德"  # Gjedde
+  "基登拉弗"  # Gyldenløve
+  "吉伦斯坦"  # Gyldenstjerne
+  "高耶"  # Gøye
+  "哈尔博"  # Harboe
+  "哈登贝格"  # Hardenberg
+  "荷尔施泰因"  # Holstein
+  "惠特菲尔德"  # Huitfeldt
+  "奥乌豪厄格"  # Høegh
+  "延森"  # Jensen
+  "尤里"  # Juel
+  "克拉贝"  # Krabbe
+  "克拉格"  # Krag
+  "克伦彭"  # Krumpen
+  "克努茨贡"  # Knudtzon
+  "克维斯塔德"  # Kvistgaard
+  "卡斯"  # Kaas
+  "林格比"  # Lingby
+  "隆格"  # Lunge
+  "呂佐"  # Lützow
+  "拉文诺恩"  # Løvenørn
+  "毛奇"  # Moltke
+  "莫特"  # Moth
+  "蒙克"  # Munk
+  "诺比"  # Norby
+  "培德森"  # Pedersen
+  "博夫森"  # Povlsen
+  "帕勒森"  # Pallesen
+  "丕勒"  # Pil
+  "兰道"  # Rantzau
+  "雷文特洛"  # Reventlow
+  "罗森克兰茨"  # Rosenkrantz
+  "罗森诺恩"  # Rosenørn
+  "斯兰茨"  # Schlentz
+  "沙克"  # Schack
+  "斯科尔滕"  # Scholten
+  "塞赫斯泰德"  # Sehested
+  "斯克拉姆"  # Skram
+  "托马森"  # Thomsen
+  "冯 特兰珀"  # von Trampe
+  "特罗勒"  # Trolle
+  "乌菲尔德"  # Ulfeldt
+}
+ship_names = {
+  "河鲈"  # Abboren
+  "亚伯拉罕"  # Abraham
+  "阿喀琉斯"  # Akilles
+  "亚历山大"  # Alexander
+  "马格努斯大帝"  # Alexander Magnus
+  "埃尔夫斯堡"  # Alfsborg
+  "野苋"  # Amarant
+  "安菲翁"  # Amphion
+  "安克拉姆"  # Anclam
+  "安德洛墨达"  # Andromeda
+  "安坎"  # Ankan
+  "安娜女王"  # Anna Regina
+  "阿波罗"  # Apollo
+  "阿伦达尔"  # Arendal
+  "雀鸟"  # Astrild
+  "巴库斯"  # Baccus
+  "巴德尔"  # Balder
+  "巴尔多禄茂"  # Bartolomeus
+  "巴西利斯库斯"  # Basiliskus
+  "布塔"  # Bauta
+  "司战女神"  # Bellona
+  "伯恩哈杜斯"  # Bernhardus
+  "狂战士"  # Berserk
+  "Beständig"
+  "Biet"
+  "彩虹桥"  # Bifrost
+  "比尔格 雅尔"  # Birger Jarl
+  "比约恩"  # Björn
+  "比约恩 亚恩斯达"  # Björn Järnsida
+  "布莱金厄"  # Blekinge
+  "布洛曼"  # Blomman
+  "布拉 曼恩"  # Blå Måne
+  "布拉 厄恩"  # Blå Örn
+  "Blåmannen"
+  "博德瓦尔"  # Bodvar
+  "布胡斯"  # Bohus
+  "Braxen"
+  "不来梅"  # Bremen
+  "Brokinge Lejonet"
+  "布拉纳 比约恩"  # Bruna Björn
+  "布拉纳 勒永"  # Bruna Lejon
+  "布伦希尔德"  # Brynhilda
+  "Brämaren"
+  "Byens Löve"
+  "Bönan"
+  "Böse Lejon"
+  "Cabeljon"
+  "凯撒"  # Caesar
+  "卡米拉"  # Camilla
+  "卡尔 X"  # Carolus X
+  "卡尔 XI"  # Carolus XI
+  "卡塞尔"  # Cassel
+  "卡斯托耳"  # Castor
+  "Cedercreutz"
+  "夏洛特"  # Charlotta
+  "克里斯托弗"  # Christopher
+  "肯考迪娅"  # Concordia
+  "Cronhielm"
+  "达拉那"  # Dalarna
+  "Danska Falken"
+  "丹斯卡 菲尼克斯"  # Danska Fenix
+  "Danska Gripen"
+  "丹斯卡 赫克托"  # Danska Hector
+  "Danska Prinsen"
+  "Danska Svan"
+  "Danske Hjorten"
+  "丹斯卡 莫里安"  # Danske Morian
+  "Danske Pinckan"
+  "大卫"  # David
+  "海豚"  # Delfin
+  "戴蒙霍斯特"  # Delmenhorst
+  "Desirée"
+  "Diana"
+  "Disa"
+  "Dragendorpt"
+  "Draken"
+  "Drakenäs Skeppet"
+  "Dristigheten"
+  "Dromedarius"
+  "Drottning Hedvig Eleonora"
+  "Drottning Lovisa Ulrika"
+  "Drottning Sofia Magdalena"
+  "Drottning Ulrika Eleonora"
+  "Drottningen"
+  "Drottningen af Sverige"
+  "Drottningholm"
+  "Dücker"
+  "Dygden"
+  "Ebenetzer"
+  "Ehrenpreus"
+  "Ekeblad"
+  "Ekholmsund"
+  "Ekorre"
+  "Elefanten"
+  "Elfsborgs Bark"
+  "Elg"
+  "Endräkten"
+  "Engel"
+  "Engelska Drake"
+  "Engelsman"
+  "Enhjörningen"
+  "Enigheten"
+  "Enigheten"
+  "Erik Segersäll"
+  "爱沙尼亚"  # Estland
+  "埃特纳"  # Etna
+  "尤金妮娅"  # Eugenie
+  "尤丽狄西"  # Eurydice
+  "Falken"
+  "菲梅"  # Fama
+  "菲梅 哥德堡"  # Fama Göteborg
+  "Feden"
+  "菲尼克斯"  # Fenix
+  "菲兹"  # Fides
+  "Fildrim"
+  "芬兰"  # Finland
+  "Finska Mamnon"
+  "Finska Björnen"
+  "Finska Svanen"
+  "Flygande Draken"
+  "Flygande Serpent"
+  "Flygande Vargen"
+  "福尔克"  # Folke
+  "幸运"  # Fortuna
+  "Framfuss"
+  "Fransiskus"
+  "Freden"
+  "Fredericus"
+  "弗雷德里克斯国王"  # Fredericus Rex
+  "瑞典国王弗雷德里克斯"  # Fredericus Rex Suecia
+  "弗雷德丽卡 阿梅莉亚"  # Frederika Amalia
+  "弗雷德里卡"  # Fredrika
+  "弗雷德丽卡 阿玛莉娅"  # Fredrika Amalia
+  "弗雷杰"  # Frej
+  "Frernskanten"
+  "Frigga"
+  "Friheten"
+  "Frisk Opp"
+  "Fröja"
+  "佛肯 埃莱奥诺拉"  # Fröken Eleonora
+  "Fäderneslandet"
+  "Förgylda Blommen"
+  "Förgylda Bönan"
+  "Förgylda Falken"
+  "Förgylda Galejan"
+  "Förgylda Måsen"
+  "Förgylda Rosen"
+  "Förgylda Äpplet"
+  "Förlengaren"
+  "Försiktigheten"
+  "Fågel Struts"
+  "加拉蒂亚"  # Galatea
+  "Gamla"
+  "Gamla Svärdet"
+  "Gamle Frantsen"
+  "Ge På"
+  "Gotland"
+  "Greve Cronstedt"
+  "Greve Gyllenborg"
+  "Greve Meijerfelt"
+  "Greve Sparre"
+  "Gripen"
+  "Gröna Jagaren"
+  "Grå Ulven"
+  "Gustaf den Store"
+  "Göja"
+  "戈塔"  # Göta
+  "Göta Ark"
+  "戈塔 勒永"  # Göta Lejon
+  "戈塔 里克"  # Göta Rike
+  "哥德堡"  # Göteborg
+  "Göteborgs Falken"
+  "哥德堡 卡斯泰"  # Göteborgs Kastell
+  "Göteborgs Svan"
+  "Göteborgs Vapen"
+  "Gåsen"
+  "哈兰"  # Halland
+  "Halmstadt"
+  "Halvmånen"
+  "哈诺"  # Hanö
+  "Harbo Lejonet"
+  "Harboviks"
+  "Havfrun"
+  "海德维格 伊丽沙白 夏洛特"  # Hedvig Elisabeth Charlotta
+  "赫克托"  # Hektor
+  "赫拉克勒斯"  # Hercules
+  "赫蒂希 斐迪南"  # Hertig Ferdinand
+  "黑森 卡塞尔"  # Hessen Cassel
+  "Hinden"
+  "哈尔玛"  # Hjalmar
+  "Hjorten"
+  "奥朗 肯考迪娅"  # Hollands Concordia
+  "Hollands Flöjten"
+  "Hollands Moranien"
+  "Hollands Svanen"
+  "Hollands Tuin"
+  "Hollands Ängeln"
+  "Holländska Prinsen"
+  "Hoppet"
+  "霍恩"  # Horn
+  "Hurtig"
+  "Hvita Svan"
+  "Hälsinge Lejonet"
+  "Höken"
+  "Illerim"
+  "英佳"  # Ingeborg
+  "Ivar Benlus"
+  "Ivar Vitsurk"
+  "Jarislawitz"
+  "Jarramas"
+  "Jegermeister"
+  "乔纳斯"  # Jonas
+  "乔纳斯 冯 埃姆登"  # Jonas van Emden
+  "Jönköping"
+  "约瑟芬"  # Josephine
+  "Jozua"
+  "Jungfrun"
+  "朱庇特"  # Jupiter
+  "Jute Stjärnan"
+  "Jägaren"
+  "Järnvågen"
+  "卡尔马"  # Kalmar
+  "Kalmar Barken"
+  "卡尔马 卡斯泰"  # Kalmar Kastell
+  "Kalmar Valen"
+  "Kalmar Ängeln"
+  "Kampen"
+  "卡尔 XIII"  # Karl XIII
+  "卡尔 XIV 约翰"  # Karl XIV Johann
+  "卡尔贝格"  # Karlberg
+  "Karlshamn"
+  "Karlshamns Kastell"
+  "Karlskrona"
+  "Karlskrona Vapen"
+  "Karpen"
+  "Kastellet"
+  "Katarina"
+  "Katta"
+  "Kilduin"
+  "Kiskin"
+  "Klosterkon"
+  "Konstantin"
+  "Konung Adolf Frederik"
+  "Konung David"
+  "Konung Gustav III"
+  "Konung Gustav IV Adolf"
+  "Konung Karl"
+  "Krabbe"
+  "克里斯蒂娜"  # Kristina
+  "Kronan"
+  "Kronfisk"
+  "Krono Solen"
+  "克鲁努贝里"  # Kronoberg
+  "Kronoskeppet"
+  "Kronprins Adolf Frederik"
+  "Kronprins Gustav"
+  "古斯塔夫 阿道夫王储"  # Kronprins Gustav Adolf
+  "Kräftan"
+  "Krönte Kiärleken"
+  "Kåter"
+  "拉格尔贝格"  # Lagerberg
+  "Lagerbielke"
+  "Lammet"
+  "Lampret"
+  "Lax"
+  "Le Comte de Mörner"
+  "Lejoninna"
+  "Leoparden"
+  "Lidungun"
+  "Liefde"
+  "Lilla Fenix"
+  "Lilla Leoparden"
+  "Lilla Nyckeln"
+  "Lille Blå Duvan"
+  "Livland"
+  "Ljungalden"
+  "Lodbrok"
+  "Louis et Anne"
+  "Lovisa Ulrika"
+  "Lybska Duvan"
+  "Lybska Hjorten"
+  "Lybska Örnen"
+  "Madam"
+  "Makalös"
+  "Malmö"
+  "Manligheten"
+  "玛格丽塔"  # Margareta
+  "玛丽亚"  # Maria
+  "玛丽亚 卡洛琳娜"  # Maria Carolina
+  "玛尔斯"  # Mars
+  "马斯特兰德"  # Marstrand
+  "梅代尔帕德"  # Medelpad
+  "Meerman"
+  "墨丘利"  # Mercurius
+  "密涅瓦"  # Minerva
+  "Mjöhunden"
+  "Monikendam"
+  "Morgonstjärnan"
+  "Muskatenbom"
+  "蒙斯特罗斯"  # Mönsterås
+  "Månen"
+  "Måsen"
+  "Najaden"
+  "Neptunus"
+  "Nikolaus"
+  "Norden"
+  "Nordstjärnan"
+  "Nordstjärneorden"
+  "Nya Delfin"
+  "Nyckeln"
+  "Nyköpings Rosen"
+  "Nyköpings Stjärnan"
+  "Näktergalen"
+  "Nättelbladet"
+  "Nörrköping"
+  "Obekant"
+  "Oden"
+  "奥尔登堡"  # Oldenburg
+  "Oranienbom"
+  "Orfeus"
+  "Ormen"
+  "Orädd"
+  "Oxdjupet"
+  "公牛"  # Oxen
+  "Packan"
+  "Palmstjärna"
+  "Papegöjan"
+  "Patentia"
+  "Patrioten"
+  "Pelikanen"
+  "普路托"  # Pluto
+  "波吕克斯"  # Pollux
+  "波美拉尼亚"  # Pommern
+  "Postiljon"
+  "Postryttaren"
+  "古斯塔夫亲王"  # Prins Gustav
+  "卡尔亲王"  # Prins Karl
+  "卡尔 弗雷德里克亲王"  # Prins Karl Frederik
+  "奥斯卡亲王"  # Prins Oscar
+  "威廉亲王"  # Prins Wilhelm
+  "Prinsessan"
+  "Prinsessan Hedvig Sofia"
+  "Prinsessan Sofia Albertina"
+  "Prinsessan Sofia Charlotta"
+  "Prinsessan Ulrika Eleonora"
+  "Pryssen"
+  "Prysske Svanen"
+  "Psilander"
+  "拉斐尔"  # Rafael
+  "拉格瓦尔德"  # Ragvald
+  "Raumö Kravelen"
+  "Recompens"
+  "Regina"
+  "勒莫斯"  # Remus
+  "日瓦尔"  # Reval
+  "Riddar St. Göran"
+  "Riddarhuset"
+  "里加"  # Riga
+  "Riksens Ständer"
+  "Rikskronan"
+  "Riksnyckeln"
+  "Riksscepter"
+  "Rikssvärdet"
+  "Riksvasa"
+  "Riksäpplet"
+  "Romulus"
+  "Rosen"
+  "Rosen Galeja"
+  "Rosenkrans"
+  "Ruschenfelt"
+  "Rutenkrans"
+  "Rättvisan"
+  "Röda Hanen"
+  "Röda Lejon"
+  "Röde Draken"
+  "Röde Hund"
+  "Råbocken"
+  "圣埃里克"  # Sankt Erik
+  "Sallan Varre"
+  "Salvator"
+  "Samson"
+  "Samsons Galeja"
+  "圣安娜"  # Sankt Anna
+  "圣哥兰"  # Sankt Göran
+  "圣希罗尼穆斯"  # Sankt Hieronymus
+  "Sankt Jacob"
+  "圣约翰尼斯"  # Sankt Johannes
+  "Sankt Maria"
+  "Sankt Mathias"
+  "Sankt Thomas"
+  "Saturnus"
+  "Scepter"
+  "Scipio"
+  "Serafimeorden"
+  "Sigurd Ormuga"
+  "Sjöblad"
+  "Skeppsholmen"
+  "Skorpionen"
+  "Skåne"
+  "Småland"
+  "Smålands Hjort"
+  "Smålands Lejonet"
+  "Snarsven"
+  "Snörepilen"
+  "Solen"
+  "Spegeln"
+  "Spes"
+  "Sprengtporten"
+  "圣约翰尼斯 伊万格丽斯塔"  # St. Johannes Evangelista
+  "Stadvarvet"
+  "Starkotter"
+  "Stenbocken"
+  "Stettin"
+  "Stockholm"
+  "Stockholms Hjort"
+  "Stockholms Hoppet"
+  "Stockholms Raathuijs"
+  "Stockholms Riddarhuus"
+  "Stockholms Sluijs"
+  "Stora Kraveln"
+  "Stora Kronan"
+  "Store Fenix"
+  "Stralsunds Johannes"
+  "Strömstad"
+  "Styrburn"
+  "Stövaren"
+  "Stå Bi"
+  "Stå Fast"
+  "Stålnäbben"
+  "Suecia"
+  "Sundska Maria"
+  "Sundsvall"
+  "Svalan"
+  "Svan"
+  "Svarta Hunden"
+  "Svarta Kon"
+  "Svarta Kåter"
+  "Svarta Örn"
+  "Svea Rike"
+  "Sveaborg"
+  "Svenska Hektor"
+  "Svenska Lejonet"
+  "Sverige"
+  "Svärdet"
+  "Södermanland"
+  "Tantheijen"
+  "Tapperheten"
+  "Thais"
+  "Theresia"
+  "Thetis"
+  "Thure Bielke"
+  "Tigar"
+  "Tigern"
+  "Tor"
+  "Torborg"
+  "Tre Kronor"
+  "Tre Lejon"
+  "Trumslagaren"
+  "Tu Lejon"
+  "Tumlaren"
+  "Turken"
+  "Ulla Fersen"
+  "Ulriksdal"
+  "Ulven"
+  "Unga Lybska Salvator"
+  "Uppassaren"
+  "Uppland"
+  "Uppsala"
+  "Uttern"
+  "Vaksam"
+  "Vanadis"
+  "Vapen von Viborg"
+  "瓦尔贝里"  # Varberg
+  "Vasen"
+  "Vaxholm"
+  "Venus"
+  "Venus"
+  "Verden"
+  "Vesterviksoxe"
+  "Viborg"
+  "Viktoria"
+  "Vita Örn"
+  "Vladislaff"
+  "Väduren"
+  "Väktaren"
+  "Välkomst från Orienten"
+  "Välkomsten"
+  "Vändekåpen"
+  "Värmland"
+  "Västergötland"
+  "Västervik"
+  "Västerviks Fortuna"
+  "Västgöta Lejonet"
+  "Västmanland"
+  "Wachtmeister"
+  "Wasa"
+  "Wenden"
+  "Wolgemot"
+  "Wrangel"
+  "Wrede"
+  "Yngve"
+  "Zemire"
+  "Älgen"
+  "Älvborgs Hector"
+  "Älvborgs Lejonet"
+  "Älvborgs Svanen"
+  "Älvsborg"
+  "Älvsborgs Hektor"
+  "Ängel Mikael"
+  "Ängel Rafael"
+  "Ängeln"
+  "Äpplet"
+  "Äran"
+  "Öland"
+  "Ömheten"
+  "Örnen"
+  "Örns Prins"
+  "Ösel"
+  "Östergötland"
+  "Östgöta Lejonet"
+  "Ångermanland"
+  "Aalborg"
+  "Admirante"
+  "Aero"
+  "Aggershus"
+  "Ahrendahl"
+  "Akerhus Kravel"
+  "Allart"
+  "Alsen"
+  "Alvorligheden"
+  "Andriken"
+  "Anna Sophia"
+  "Anne Jacobine"
+  "Anne Marie"
+  "Anthonette"
+  "Arche Noae"
+  "Argo"
+  "Argo Rosa"
+  "Arveprins Frederik"
+  "Arveprinsen"
+  "Aurora"
+  "Baasø"
+  "巴德尔"  # Balder
+  "司战女神"  # Bellona
+  "Beskiermeren"
+  "Bikuben"
+  "Blaa Due"
+  "Blaa Mynden"
+  "Blaaheiren"
+  "Bon Eventyr"
+  "Borholm"
+  "Bremer Slottel"
+  "Brevdragaeren"
+  "Buntede Flak"
+  "Byens Loffue"
+  "Caroline Mathilde"
+  "Charitas"
+  "Charlotte Amalia"
+  "Christian den Ottende"
+  "Christian den Syvende"
+  "Christiania"
+  "Christians Ark"
+  "Christiansand"
+  "Christiansborg"
+  "Christiansoe"
+  "Christiansund"
+  "Christianus Quartus"
+  "Christianus Sextus"
+  "Churprinsen"
+  "Citronen"
+  "Cometen"
+  "肯考迪娅"  # Concordia
+  "Corsoer"
+  "Crokodillen"
+  "Dannebroge"
+  "Dannemark"
+  "戴蒙霍斯特"  # Delmenhorst
+  "Delphinen"
+  "Den Aarvaagne"
+  "Den Golende"
+  "Den Hvide Svane"
+  "Den Praegtige"
+  "Det Gjenfødte Haab"
+  "Det Store Belt"
+  "Deus Nobiscum"
+  "Diana"
+  "Disco"
+  "Ditmarsken"
+  "Dokken"
+  "Dorothea Caroline"
+  "Drachsholm"
+  "Dragoneren"
+  "Dristigheden"
+  "Dronning Anna Sophia"
+  "Dronning Juliane Marie"
+  "Dronning Lovisa"
+  "Dronningen af Danmark"
+  "Duckanden"
+  "Duen"
+  "Dybendal"
+  "Dynkerker Bojort"
+  "Ebenetzer"
+  "Eegelykke"
+  "Egernet"
+  "Eijderen"
+  "Elephanten"
+  "Elvin"
+  "Emanuel"
+  "Engel Gabriel"
+  "Enhjørning"
+  "Enigheden"
+  "Esbern Snare"
+  "Faerøe"
+  "Faestemøen"
+  "Falk van Olleborg"
+  "Falken af Bergen"
+  "Falster"
+  "菲梅"  # Fama
+  "Felkkerøe"
+  "菲兹"  # Fides
+  "Fire Kronede Lilier"
+  "Flasken"
+  "Flensborg"
+  "Flyvende Aand"
+  "Flyvende Abe"
+  "Flyvende Fiske"
+  "Flyvende Fortuna"
+  "Flyvende Hjort"
+  "Flyvende Los"
+  "Flyvende Piil"
+  "Flyvende Ulv"
+  "Flyvende Ørn"
+  "Forgyldte Bjørn"
+  "Forgyldte Drage"
+  "Forgyldte Fisk"
+  "Forgyldte Krone"
+  "Forloren Søn"
+  "Forskraekkelsen"
+  "Forsva"
+  "幸运"  # Fortuna
+  "Fredensborg Slot"
+  "Fredericus Quartus"
+  "Fredericus Quintus"
+  "Fredericus Tertius"
+  "Frederik"
+  "Frederik III"
+  "Frederik IV"
+  "Frederiksort"
+  "Frederiksvaern"
+  "Freja"
+  "Frøken Elschen"
+  "Fylla"
+  "Fynen"
+  "Gabriel"
+  "Gak Med"
+  "加拉蒂亚"  # Galatea
+  "Galiotjagten"
+  "Gamle Delmenhorst"
+  "Gefion"
+  "Geheimraad Moltke"
+  "Gejser"
+  "Georg"
+  "Gerner"
+  "Gideon"
+  "Gjengafjord"
+  "Glasjagten"
+  "Glommen"
+  "Gluckstadt"
+  "Gotteborg"
+  "Graa Falk"
+  "Graa Ulv"
+  "Grev Morner"
+  "Griben"
+  "Griffen"
+  "Grippen"
+  "Grønland"
+  "Grønne Drage"
+  "Grå Kat"
+  "Guldregn"
+  "Gulland"
+  "Gyldenløve"
+  "Hafridderen"
+  "Haien"
+  "Hamlet"
+  "Hannibal"
+  "Hans Peter"
+  "Haren"
+  "Havfruen"
+  "Havhesten"
+  "Havmanden"
+  "Heiren"
+  "Hejmdal"
+  "Hekla"
+  "Hekla"
+  "Helena"
+  "Helleflynderen"
+  "Helsingør"
+  "Herringnæs"
+  "Hester Marie"
+  "Hielperen"
+  "Hieronimius"
+  "Hjaelperinden"
+  "Hjelsminde"
+  "Hollandske Fregat"
+  "Holsteen"
+  "Hummeren"
+  "Hurtigheden"
+  "Husaren"
+  "Hvalfisken"
+  "Hvalrossen"
+  "Hvedholm"
+  "Hvide Bjørn"
+  "Hvide Falk"
+  "Hvide Fortuna"
+  "Hvide Hund"
+  "Høyenhald"
+  "Håbet"
+  "Iderim"
+  "Infødsretten"
+  "Iresine"
+  "Iris"
+  "Island"
+  "Jaegare"
+  "Jaegerborg"
+  "Jaegeren"
+  "约翰尼斯"  # Johannes
+  "Jomfrusvend"
+  "乔纳斯"  # Jonas
+  "Josaphat"
+  "Julius Caesar"
+  "Juncker"
+  "朱庇特"  # Jupiter
+  "Justitia"
+  "Jylland"
+  "Karlshavn"
+  "Kiel"
+  "Kiempen"
+  "Kieringvigen"
+  "Kioge"
+  "Kjerteminde"
+  "Kong David"
+  "Kongens Jagt"
+  "Krabaten"
+  "Kragerø"
+  "Kronborg"
+  "Kronfisk"
+  "Kronjagten"
+  "Kronprins Frederik"
+  "Kronprinsen"
+  "Kronprinsesse Maria"
+  "Kronprinsessen"
+  "Kruset"
+  "København"
+  "Laaland"
+  "Laerken"
+  "Lammet"
+  "Lamprenen"
+  "Langeland"
+  "Langesund"
+  "Laxen"
+  "Leoparden"
+  "Liden Elephant"
+  "Lilien"
+  "Lille Belt"
+  "Lille Lykkepot"
+  "Lindeboom"
+  "Linden"
+  "Lindormen"
+  "Lossen"
+  "Lougen"
+  "Lovisa"
+  "Lovisenlund"
+  "Lybske David"
+  "Lybske Vildman"
+  "Lykkelig"
+  "Lykkepotten"
+  "Løberen"
+  "Løvehjerte"
+  "Løvendals Galej"
+  "Maagen"
+  "Mageløs"
+  "Makrelen"
+  "Malmøs Prøve"
+  "Mandigheden"
+  "玛丽亚"  # Maria
+  "Markatten"
+  "Markgrevinde Sophia Chrstina"
+  "玛尔斯"  # Mars
+  "马斯特兰德"  # Marstrand
+  "Marstrands Plage"
+  "墨丘利"  # Mercurius
+  "Middelfart"
+  "Minx"
+  "Modet"
+  "Moss"
+  "Mynden"
+  "Møen"
+  "Naesevis"
+  "Najaden"
+  "Nakskov"
+  "Naskau"
+  "Nattergalen"
+  "Neldebladet"
+  "Neptunus"
+  "Nidelven"
+  "Nordstiernen"
+  "Norske Fregat"
+  "Norske Hund"
+  "Norske Løve"
+  "Norske Vaaben"
+  "Nye Københavnske Galej"
+  "Nyborg"
+  "Nye Delmenhorst"
+  "Nye Elephant"
+  "Nye Lindormen"
+  "Nykjøbing"
+  "Nymfen"
+  "Odderen"
+  "Odense"
+  "Odin"
+  "Oldenborg"
+  "Oliemøllen"
+  "Onge Jaeger"
+  "Ora et Labora"
+  "Ormen"
+  "Pak An"
+  "Papegøjen"
+  "Patientia"
+  "Pelikanen"
+  "Perlen"
+  "Phøenix"
+  "Pilen"
+  "Pommerantsen"
+  "波美拉尼亚"  # Pommern
+  "Ponitens"
+  "Postillionen"
+  "Praestø"
+  "Prindse-Bark"
+  "Prins Carl"
+  "Prins Christian"
+  "Prins Christian Frederik"
+  "Prins Frederik"
+  "Prins Jørgen"
+  "威廉亲王"  # Prins Wilhelm
+  "Prinsen av Augustenborg"
+  "Prinsens Jagt"
+  "Prinsesse Caroline"
+  "Prinsesse Charlotte"
+  "Prinsesse Charlotte Amalie"
+  "Prinsesse Lovise"
+  "Prinsesse Sophia Frederica"
+  "Prinsesse Sophia Hedvig"
+  "Prinsesse Sophia Magdalena"
+  "Prinsesse Wilhelmine Caroline"
+  "Prøvesteen"
+  "Psyke"
+  "Raae"
+  "拉斐尔"  # Raphael
+  "Ravnen"
+  "Recompens"
+  "Rendsborg"
+  "Rigernes Ønske"
+  "Ringende Jacob"
+  "Roeskilde"
+  "Rokken"
+  "Rosen"
+  "Rosen Galej"
+  "Rota"
+  "Røde Hane"
+  "Røde Løve"
+  "Røde Raev"
+  "Røde Ulv"
+  "Røde Vinfad"
+  "Saekkepiben"
+  "Saelland"
+  "Saltholmen"
+  "Salvator"
+  "Samsoe"
+  "Samsons Galej"
+  "Sanct Anna"
+  "Sanct Croix"
+  "Sanct Jacob"
+  "圣约翰尼斯"  # Sanct Johannes
+  "Sanct Joris"
+  "Sanct Jørgen"
+  "Sanct Lorentz"
+  "Sanct Matheus"
+  "Sanct Mathias"
+  "Sanct Michael"
+  "Sanct Peder"
+  "Sanct Peter af Nyborg"
+  "Sanct Sophia"
+  "Sanct Thomas"
+  "Sarpen"
+  "Sejer"
+  "Skatmester Grev Schimmelmann"
+  "Skiold"
+  "Slesvig"
+  "Snarensvend"
+  "Sophia Amalia"
+  "Sophia Hedvig"
+  "Sophia Magdalena"
+  "Sorte Bjørn"
+  "Sorte Hund"
+  "Sorte Kat"
+  "Sorte Ravn"
+  "Sorte Rytter"
+  "Spes"
+  "Spragelede Falk"
+  "Staabraf"
+  "Stege"
+  "Stiernen"
+  "Stjern"
+  "Stockfiskes"
+  "Stokfisken"
+  "Store Bysse"
+  "Store Lykkepot"
+  "Store Sophia"
+  "Storebælts Skræk"
+  "Storen"
+  "Stormarn"
+  "Stralsundske Falk"
+  "Stralsundske Pucenelle"
+  "Stubbekjøbing"
+  "Stumpet Dorette"
+  "Støren"
+  "Svaerdfisken"
+  "Svanen"
+  "Svendborg"
+  "Svenske Falk"
+  "Svenske Havfrue"
+  "Svenske Løve"
+  "Svenske Diderich"
+  "Svermeren"
+  "Sydermanland"
+  "Sylt"
+  "Syvstjernen"
+  "Søbladet"
+  "Søhesten"
+  "Søhunden"
+  "Søridderen"
+  "Thetis"
+  "Thor"
+  "To Løver"
+  "Trangvebar"
+  "Tre Kroner"
+  "Tre Kroners Galej"
+  "Tre Løver"
+  "Trefoldighed"
+  "Triton"
+  "Trost"
+  "Tumleren"
+  "Turtelduen"
+  "Tygeren af København"
+  "Tønsberg Fløjte"
+  "Tønsberg Skude"
+  "Unge Tobias"
+  "Vaek Op"
+  "Valkyrien"
+  "Vanhunden"
+  "Venus"
+  "Viborg"
+  "Viceguvernor Berg"
+  "Victoria"
+  "Vildanden"
+  "Vindhunden"
+  "Vordingborg"
+  "Waldemar"
+  "Wardoehuus"
+  "Wenden"
+  "Wildmanden"
+  "Wismarske Rev"
+  "Wohl Herr in Gottes Namen"
+  "Wrangels Palais"
+  "Øresund"
+  "Ørnen"
+  "Øsels Ørn"
+  "Aasgardstrand"
+  "Agder"
+  "Allehelgensdag"
+  "Alta"
+  "Alvgeir"
+  "Andenæs"
+  "阿伦达尔"  # Arendal
+  "Areon"
+  "Ariadne"
+  "Ark Noa"
+  "Asgerd"
+  "Askøy"
+  "Astræa"
+  "Austavind"
+  "Austerveg"
+  "Austri"
+  "Austvangen"
+  "巴德尔"  # Balder
+  "Balduin"
+  "Barden"
+  "Barøy"
+  "Bastø"
+  "Benediktsbåten"
+  "Bidevind"
+  "Biskopsbussen"
+  "Bjæring Drott"
+  "Bjørgvin"
+  "Bjørnvik"
+  "Blaamanden"
+  "Blåsel"
+  "Bokn"
+  "Bonde"
+  "Borgfred"
+  "Borgholm"
+  "Borgland"
+  "Borgsund"
+  "Borgundbåten"
+  "Borrebranden"
+  "Brage"
+  "Bragernes"
+  "Brand"
+  "Brettingen"
+  "Brisk"
+  "Brott"
+  "Bru"
+  "Bøkesuden"
+  "Capella"
+  "海豚"  # Delfin
+  "Desideria"
+  "Dragmarken"
+  "Draken"
+  "Draug"
+  "Draupner"
+  "Dromunden"
+  "Dronningen"
+  "Ebenezer"
+  "Eirik Blodøks"
+  "Ellida"
+  "Erkesuden"
+  "Erling Jarl"
+  "Falken"
+  "Fenris"
+  "Finnmarken"
+  "Fitjarbranden"
+  "Fjordbris"
+  "Fjordbuen"
+  "Fjorddrott"
+  "Fjordknollen"
+  "Fjordsol"
+  "Flint"
+  "Forra"
+  "Fredsbryter"
+  "Freia"
+  "Frigg"
+  "Frost"
+  "Frøy"
+  "Frøysleiken"
+  "Færdesmanden"
+  "Galdalv"
+  "Gammar"
+  "Garm"
+  "Garsøy"
+  "Gjestafløyet"
+  "Glommen"
+  "Gor"
+  "Gornen"
+  "Gram"
+  "Gråbein"
+  "Gråfellen"
+  "Grågåsen"
+  "Gullbringen"
+  "Gyller"
+  "Haakon Adalstein"
+  "Haakon Jarl"
+  "Habil"
+  "Hadsel"
+  "Haien"
+  "Halfdansnautr"
+  "Halten"
+  "Harald Gråfell"
+  "Harald Haarfagre"
+  "Harald Hardraade"
+  "Haugesund"
+  "Hauk"
+  "Haukelid"
+  "Hedmark"
+  "Hegren"
+  "Heilag Halvard"
+  "Heilag Olav"
+  "Heimdal"
+  "Heinersuden"
+  "Hekseblakken"
+  "Heljarskinn"
+  "Hera"
+  "Hjelmeland"
+  "Hjelmelandsfjord"
+  "Hjelperen"
+  "Honningsvåg"
+  "Hordabranden"
+  "Hother"
+  "Hugro"
+  "Hvalrossen"
+  "Hysnes"
+  "Hårkniven"
+  "Ingøy"
+  "Irma"
+  "Isaksbussen"
+  "Jarlsberg"
+  "Jarnmeiss"
+  "Jernbarden"
+  "Jernland"
+  "Jernskogmøya"
+  "Jotunfjell"
+  "朱庇特"  # Jupiter
+  "Jæren"
+  "Jøsenfjord"
+  "Jøsur"
+  "Karlshovde"
+  "Karmøy"
+  "Keipa"
+  "Kjempen"
+  "Kjertesveinen"
+  "Knurr"
+  "Kong Gor"
+  "Kong Gudrød"
+  "Kong Haakon"
+  "Kong Halfdan"
+  "Kong Harald"
+  "Kong Magnus"
+  "Kong Nor"
+  "Kong Olav"
+  "Kong Sverre"
+  "Kongsberg"
+  "Korsfjord"
+  "Kosmos"
+  "Kristsuden"
+  "Krokodillen"
+  "Krossuden"
+  "Kvalsund"
+  "Kvitsøy"
+  "Kyndelsmesse"
+  "Kyngesbussen"
+  "Lafjord"
+  "Lafrantz"
+  "Langesund"
+  "Langfredag"
+  "Lillesand"
+  "Lindormen"
+  "Lofoten"
+  "Lom"
+  "Lyngen"
+  "Lyra"
+  "Lysebussen"
+  "Magnus Berrføtt"
+  "Magnus Blinde"
+  "Magnus Gode"
+  "Magnus Lagabøte"
+  "Margaretasuden"
+  "Mariasuden"
+  "玛尔斯"  # Mars
+  "Mercur"
+  "Meteor"
+  "Midnatsol"
+  "Midtvinter"
+  "Mikkelsmess"
+  "Mira"
+  "Mjølner"
+  "Molde"
+  "Mosken"
+  "Moss"
+  "Munkholmen"
+  "Myklefløyet"
+  "Mørvika"
+  "Møvik"
+  "Møysalen"
+  "Najaden"
+  "Narvik"
+  "Neptun"
+  "Nidaros"
+  "Njord"
+  "Nor"
+  "Nordavind"
+  "Nordhav"
+  "Nordkapp"
+  "Nordkyn"
+  "Nordnorge"
+  "Nordstjernen"
+  "Nornen"
+  "Nova"
+  "Nyholm"
+  "Nøk"
+  "Ognarbranden"
+  "Olav Kyrre"
+  "Olavssuden"
+  "Ombofjord"
+  "Oppland"
+  "Orion"
+  "Ormen"
+  "Oslo"
+  "Ottar Jarl"
+  "Patrioten Georg"
+  "Petersbåten"
+  "Pol"
+  "Polarlys"
+  "Postulasuden"
+  "Prins Olav"
+  "Prinsesse Ragnhild"
+  "Providentia"
+  "Ragnvald Jarl"
+  "Raket"
+  "Rakne"
+  "Randaberg"
+  "Ranen"
+  "Ranrike"
+  "Rap"
+  "Rauden"
+  "Raudsuden"
+  "Ravnanger"
+  "Reinen"
+  "Ringulv"
+  "Risør"
+  "Rogaland"
+  "Rokken"
+  "Ropeid"
+  "Ryfylke"
+  "Rygjarbranden"
+  "Saksesuden"
+  "Saltdal"
+  "Salten"
+  "圣奥拉夫"  # Sanct Olaf
+  "Sanct Svithun"
+  "Sandanger"
+  "Sandeid"
+  "Sarp"
+  "Sauda"
+  "Saude"
+  "Selifar"
+  "Selvik"
+  "Sigarsøyka"
+  "Sigurd Jorsalfare"
+  "Sigurd Jarl"
+  "Sirius"
+  "Skagerak"
+  "Skien"
+  "Skjeggen"
+  "Skjerstad"
+  "Skjold"
+  "Skjoldmøya"
+  "Skjærtorsdag"
+  "Skorpionen"
+  "Skrim"
+  "Skudenes"
+  "Skytteren"
+  "Sleipner"
+  "Snar"
+  "Snø"
+  "Solbakk"
+  "Solglimt"
+  "Solli"
+  "Solve"
+  "Stadt"
+  "Stangarfare"
+  "Stegg"
+  "Stigandi"
+  "Stjerne"
+  "Storm"
+  "Strand"
+  "Strindaknollen"
+  "Støren"
+  "Sundal"
+  "Sunnifusuden"
+  "Sveinsnautr"
+  "Svenner"
+  "Sværdfisken"
+  "Syftesok"
+  "Sygnafylke"
+  "Sættarspillir"
+  "Sønnavind"
+  "Sørøy"
+  "Søviknes"
+  "Tanafjord"
+  "Tarmen"
+  "Tau"
+  "Taurus"
+  "Tegnen"
+  "Terne"
+  "Thermopylæ"
+  "Tignesvennen"
+  "Titran"
+  "Tjeldsund"
+  "Tor"
+  "Torden"
+  "Tore Jarl"
+  "Torshovde"
+  "Tranen"
+  "Tranen"
+  "Troll"
+  "Trollfjord"
+  "Trondheim"
+  "Trudvang"
+  "Tyr"
+  "Uller"
+  "Ulven"
+  "Ulvhalden"
+  "Ulvhedningen"
+  "Utvær"
+  "Vaagen"
+  "Vale"
+  "Valkyrien"
+  "Vallebussen"
+  "Valslynga"
+  "Varangberg"
+  "Vardø"
+  "Vargen"
+  "Varøy"
+  "Vesteraalen"
+  "Vestevind"
+  "Vestri"
+  "Vidar"
+  "Vidsjå"
+  "Viken"
+  "Vindafjord"
+  "Vinland"
+  "Visund"
+  "Vollsøy"
+  "Volva"
+  "Væringen"
+  "Våle"
+  "Æge"
+  "Æger"
+  "Øibuen"
+  "Ørn"
+  "Årdalsfjord"
+  "Årmannen"
+}

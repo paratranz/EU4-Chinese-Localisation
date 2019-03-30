@@ -1,0 +1,317 @@
+graphical_culture = westerngfx
+color = {
+  0
+  105
+  104
+}
+preferred_religion = reformed
+historical_idea_groups = {
+  administrative_ideas
+  defensive_ideas
+  exploration_ideas
+  offensive_ideas
+  economic_ideas
+  maritime_ideas
+  trade_ideas
+  innovativeness_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  gaelic_galloglaigh
+  gaelic_mercenary
+  gaelic_free_shooter
+  irish_charge
+  scottish_highlander
+  british_redcoat
+  british_hussar
+  british_square
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "Tearlach #0" = 5
+  "Daidh #0" = 1
+  "Connal #0" = 10
+  "Absolon #0" = 0
+  "Feaghas #0" = 0
+  "Greum #0" = 0
+  "Ianatan #0" = 0
+  "Luthais #0" = 0
+  "Padruig #0" = 0
+  "Parlan #0" = 0
+  "Seoras #0" = 0
+  "Solamn #0" = 0
+  "Torcall #0" = 0
+  "威廉 #0" = 0  # Uilleam #0
+  "托尔摩德 #0" = 0  # Tormod #0
+  "多麦丝 #0" = 0  # Thomais #0
+  "泰格 #0" = 0  # Tadhg #0
+  "塞缪尔 #0" = 0  # Samuel #0
+  "卢伊希特 #0" = 0  # Ruiseart #0
+  "莱诺 #0" = 0  # Raghnall #0
+  "珀尔 #0" = 0  # Pol #0
+  "帕达尔 #0" = 0  # Peadar #0
+  "欧西安 #0" = 0  # Oisean #0
+  "奥利弗 #0" = 0  # Oilbhreis #0
+  "尼尔 #0" = 0  # Niall #0
+  "尼科尔 #0" = 0  # Neacal #0
+  "穆尔查 #0" = 0  # Murchadh #0
+  "芒艮 #0" = 0  # Mungan #0
+  "摩根 #0" = 0  # Morgan #0
+  "梅切尔 #0" = 0  # Mecheil #0
+  "玛塔 #0" = 0  # Mata #0
+  "马斯古尔 #0" = 0  # Mascual #0
+  "马塔因 #0" = 0  # Martain #0
+  "马库斯 #0" = 0  # Marcus #0
+  "卢卡斯 #0" = 0  # Lucais #0
+  "拉布莱恩 #0" = 0  # Labhrainn #0
+  "约纳 #0" = 0  # Iona #0
+  "伊欧萨弗 #0" = 0  # Iosaph #0
+  "伊欧萨格 #0" = 0  # Iosag #0
+  "哈米什 #0" = 0  # Hamish #0
+  "弗朗甘 #0" = 0  # Frangan #0
+  "弗兰 #0" = 0  # Faolan #0
+  "爱德华 #0" = 0  # Eideard #0
+  "克莱斯蒂安 #0" = 0  # Cresdean #0
+  "科尔马克 #0" = 0  # Cormac #0
+  "阿尔平 #0" = 0  # Ailpein #0
+  "蒂尔蓓儿 #0" = -1  # Diorbhail #0
+  "柏翠丝 #0" = -1  # Beitiris #0
+  "梅丽 #0" = -5  # Mairi #0
+  "道格拉斯 #0" = 10  # Dughlas #0
+  "肯尼思 #0" = 5  # Coinneach #0
+  "唐纳赫 #0" = 1  # Donnchadh #0
+  "多姆纳尔 #1" = 10  # Domhnall #1
+  "伽卢姆 #0" = 10  # Calum #0
+  "约恩 #1" = 10  # Eoin #1
+  "巴泰尔 #0" = 10  # Bhaltair #0
+  "阿泰尔 #0" = 10  # Artair #0
+  "亚历山大 #3" = 10  # Alasdair #3
+  "罗伯特 #0" = 10  # Raibeart #0
+  "詹姆斯 #0" = 10  # Seumas #0
+}
+leader_names = {
+  "Arascain"
+  "Anrias"
+  "Airchart"
+  "Ambarsan"
+  "Aonghais"
+  "贝提安"  # Beitean
+  "Blacathathir"
+  "Banach"
+  "Blar"
+  "Braigheach"
+  "布伦"  # Brun
+  "Buiseid"
+  "坎布拉奇"  # Caimbeulach
+  "科米恩"  # Comyn
+  "坎施荣"  # Camshron
+  "考尔德"  # Calder
+  "de Charteris"
+  "科克伦"  # Cochran
+  "Colquhoun"
+  "Canowan"
+  "凯塔赫"  # Ceiteach
+  "Cearr"
+  "Crobán"
+  "Ciogach"
+  "Druimeanach"
+  "Dunchad"
+  "Dughallach"
+  "Dalais"
+  "Deoir"
+  "Fearsithe"
+  "Frisealach"
+  "Fingon"
+  "Folais"
+  "Forsaidh"
+  "Flimean"
+  "Fearghasdan"
+  "Galbraith"
+  "Greumach"
+  "格兰德"  # Grannd
+  "冈恩"  # Guinne
+  "Gutraidh"
+  "Geadais"
+  "Gilios"
+  "格拉斯"  # Glas
+  "Gobha"
+  "高格雷"  # Guaire
+  "Giobsan"
+  "Haig"
+  "Kincaid"
+  "Kinloch"
+  "Kinnaird"
+  "Kinnear"
+  "Kinninmont"
+  "拉蒙特"  # Lamont
+  "Loganach"
+  "Liobhunn"
+  "Labhruinn"
+  "Loganach"
+  "Lathurna"
+  "Lutair"
+  "麦克利欧德"  # MacLeoid
+  "MacCruimein"
+  "MacRaild"
+  "MacCailein"
+  "麦尔"  # Mair
+  "缪尔"  # Muir
+  "MacGriogair"
+  "Mhuirich"
+  "德 摩拉维亚"  # de Moravia
+  "麦克多纳查"  # MacDhonnachaidh
+  "玛尔"  # Marr
+  "MacFhearghuis"
+  "MacEanruig"
+  "MacAlasdair"
+  "MacBeathain"
+  "马赫康伊尔"  # MacDhomhnaill
+  "MacDhughaill"
+  "MacDubhghaill"
+  "MacEoghainn"
+  "暮若"  # Munro
+  "麦克法兰"  # MacPharlain
+  "MacAonghais"
+  "麦金泰尔"  # MacIntyre
+  "MacEomhair"
+  "MacAoidh"
+  "MacCoinnich"
+  "Mac-an-toisich"
+  "MacLachlainn"
+  "麦纳布"  # MacNab
+  "MacGhille Eoin"
+  "MacGilleEathain"
+  "MacNeachdainn"
+  "MhicNeacail"
+  "MacTamhais"
+  "莫法特"  # Moffat
+  "MacMhathain"
+  "Mcinnearach"
+  "Norval"
+  "Narann"
+  "内皮尔"  # Napier
+  "Niocalsan"
+  "Ogilvy"
+  "Oliphant"
+  "Og"
+  "O'Duine"
+  "Parvus"
+  "Patullo"
+  "Pitblado"
+  "Pitcairn"
+  "Pollok"
+  "Peucag"
+  "Preas"
+  "Paorach"
+  "Revan"
+  "Rait"
+  "Rattray"
+  "萝丝"  # Ros
+  "Rathais"
+  "Roid"
+  "圣格莱尔"  # Singlear
+  "苏赫尔勒勒赫"  # Sutherlarach
+  "Scotach"
+  "Sgian"
+  "Stiubhard"
+  "Strathaen"
+  "Salmond"
+  "Sgot"
+  "Siosalach"
+  "Smios"
+  "Tod"
+  "Tuairnear"
+  "Tulach"
+  "Talmhach"
+  "Udny"
+  "Uallas"
+  "Urchardan"
+}
+ship_names = {
+  "Alba"
+  "Asainte"
+  "Abscissa Virescit"
+  "Amo Probos"
+  "Aonaibh Ri Chéile"
+  "Avance"
+  "Accendit Cantu"
+  "Audaciter"
+  "Andreas de Atholia"
+  "Abraruadh"
+  "Baile Inneraora"
+  "Baideanach"
+  "Berowald"
+  "Buaidh No Bas"
+  "Caledonia"
+  "Cruachan"
+  "Consilio Non Petu"
+  "Confido"
+  "Clar Innes"
+  "Clut"
+  "Caisteal Dhuni"
+  "Cair Chaladain"
+  "Calum Cille"
+  "Dun Bheagain"
+  "Donnchadh na-Adh"
+  "Dominus Fecit"
+  "De Bonnaire"
+  "Diriget Deus"
+  "Deoradh"
+  "Donnchadh Reamhar"
+  "Dalriada"
+  "Domhnall mac Raghnaill"
+  "Deus Juvat"
+  "Earra-Ghaidheal"
+  "Fide Et Opera"
+  "Fuimus"
+  "Feros Ferio"
+  "Freskin"
+  "Fergus Mor"
+  "Fraoch Eilean"
+  "Findanus"
+  "Gleann Eagas"
+  "Ghift Dhe Agus An Righ"
+  "Hoc Securior"
+  "Hugh de Paduinan"
+  "Innse Gall"
+  "Invictus Maneo"
+  "Iagan"
+  "Johannes Del Crag"
+  "Loyal Au Mort"
+  "Loch Abar"
+  "Loch Laomainn"
+  "Lochiel"
+  "Lannraig"
+  "Loch Moigh"
+  "Muriel"
+  "Marte Suo Tutus"
+  "Merito"
+  "Macbeatha"
+  "Ne Obliviscaris"
+  "Niseag"
+  "Nectan"
+  "Petit Alta"
+  "Preseverando"
+  "Paratus Sum"
+  "Petrus de Haga"
+  "Qui Conducit"
+  "Raibeart Bruis"
+  "Reviresco"
+  "Scitis"
+  "Salus Per Christum"
+  "Sruighlea"
+  "Serva Jugum"
+  "Somairle"
+  "Toom Tabard"
+  "Tout Jour Prest"
+  "Tulach Ard"
+  "Tavis"
+  "Uilleam Uallas"
+  "Vincit Veritas"
+  "Virtutis Gloria Merces"
+  "Vive Ut Vivas"
+}
