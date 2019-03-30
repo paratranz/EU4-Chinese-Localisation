@@ -362,8 +362,8 @@
     {
         "key": "PEACE_DEAL_SEPARATE_PEACE:0",
         "original": "Separate peace: §R$VALUE$§!",
-        "translation": "单独媾和: §R$VALUE$§!",
-        "stage": 5
+        "translation": "单独媾和：§R$VALUE$§!",
+        "stage": 1
     },
     {
         "key": "in_war_together:0",
@@ -626,8 +626,8 @@
     {
         "key": "DIPIRO_CONDITIONAL_ACCESS:0",
         "original": "$TAKER|Y$ has conditional military access through $GIVER|Y$ for the following reason(s):\\n",
-        "translation": "$TAKER|Y$ 获得有条件的军事通行权以通过 $GIVER|Y$ 原因如下:\\n",
-        "stage": 5
+        "translation": "$GIVER|Y$给予$TAKER|Y$有条件的军事通行权，原因如下：\\n",
+        "stage": 1
     },
     {
         "key": "DIPIRO_FLEETACCESS:0",
@@ -5090,8 +5090,8 @@
     {
         "key": "SUBJECT_NOT_NEW_VAR:0",
         "original": "$OVERLORD$ will not join the war between $SUBJECT$ and $SUBJECT_ENEMY$: $REASON$",
-        "translation": "$OVERLORD$不会加入$SUBJECT$与$SUBJECT_ENEMY$之间的战争: $REASON$",
-        "stage": 5
+        "translation": "$OVERLORD$不会加入$SUBJECT$与$SUBJECT_ENEMY$之间的战争：$REASON$",
+        "stage": 1
     },
     {
         "key": "PART_OF_HRE:0",

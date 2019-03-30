@@ -1004,25 +1004,25 @@
     {
         "key": "COMPACT_BATTLE_RESULT_LOSSES:0",
         "original": "Losses: $NUMBER$",
-        "translation": "损失: $NUMBER$",
+        "translation": "损失：$NUMBER$",
         "stage": 1
     },
     {
         "key": "COMPACT_BATTLE_RESULT_LOSSES_TOOLTIP:0",
         "original": "Infantry: $INFANTRY|Y$\\nCavalry: $CAVALRY|Y$\\nArtillery: $ARTILLERY|Y$",
-        "translation": "步兵: $INFANTRY|Y$\\n骑兵: $CAVALRY|Y$\\n炮兵: $ARTILLERY|Y$",
+        "translation": "步兵：$INFANTRY|Y$\\n骑兵：$CAVALRY|Y$\\n炮兵：$ARTILLERY|Y$",
         "stage": 1
     },
     {
         "key": "SET_TRADING_POLICY:0",
         "original": "Set Trading Policy: $NAME|Y$\\n",
-        "translation": "设置贸易政策: $NAME|Y$\\n",
+        "translation": "设置贸易政策：$NAME|Y$\\n",
         "stage": 1
     },
     {
         "key": "CURRENT_TRADING_POLICY:0",
         "original": "Current Trading Policy: $NAME|Y$\\n",
-        "translation": "当前贸易政策: $NAME|Y$\\n",
+        "translation": "当前贸易政策：$NAME|Y$\\n",
         "stage": 1
     },
     {
@@ -1100,7 +1100,7 @@
     {
         "key": "TRADING_POLICY_EFFECT:0",
         "original": "$NAME|Y$ Trading Policy:\\n$MOD$",
-        "translation": "$NAME|Y$ 贸易政策:\\n$MOD$",
+        "translation": "$NAME|Y$贸易政策：\\n$MOD$",
         "stage": 1
     },
     {
@@ -1142,13 +1142,13 @@
     {
         "key": "COUNTRIES_WITH_MERCHANT_IN_NODE:1",
         "original": "Effect towards countries active in this Node:\\n",
-        "translation": "对于此贸易节点的活跃国家的影响为:\\n",
+        "translation": "对于此贸易节点的活跃国家的影响为：\\n",
         "stage": 1
     },
     {
         "key": "TRADING_POLICY_MODIFIER:0",
         "original": "$NAME|Y$ Trading Policy: $VAL$",
-        "translation": "$NAME|Y$ 贸易政策: $VAL$",
+        "translation": "$NAME|Y$贸易政策：$VAL$",
         "stage": 1
     },
     {
@@ -1196,7 +1196,7 @@
     {
         "key": "UNIT_DRILL_EFFECTS:1",
         "original": "The average drill also gives us these bonuses for the entire army:\\n",
-        "translation": "平均操练也为我们整个军队提供了以下加成:\\n",
+        "translation": "平均操练度也为我们整支军队提供以下加成：\\n",
         "stage": 1
     },
     {
@@ -1286,7 +1286,7 @@
     {
         "key": "TRADING_POLICY_MOD:0",
         "original": "$NAME|Y$ Trading Policy: $VAL$",
-        "translation": "$NAME|Y$  贸易政策: $VAL$",
+        "translation": "$NAME|Y$贸易政策：$VAL$",
         "stage": 1
     },
     {
@@ -3482,13 +3482,13 @@
     {
         "key": "ARMY_PROFESSIONALISM_YEARLY_MODIFIERS_DESC:0",
         "original": "§YYearly Gain:§!\\n$MODIFIER$",
-        "translation": "§Y每年获得:§!\\n$MODIFIER$",
+        "translation": "§Y每年获得：§!\\n$MODIFIER$",
         "stage": 1
     },
     {
         "key": "ARMY_PROFESSIONALISM_STATIC_MODIFIERS_DESC:0",
         "original": "§YImmediate Gain:§!\\nRecruit General: §G+1%§!\\nRecruit Mercenary: §R-0.15%§!",
-        "translation": "§Y立即获得:§!\\n征召将领: §G+1%§!\\n征召雇佣兵: §R-0.15%§!",
+        "translation": "§Y立即获得：§!\\n征召将领：§G+1%§!\\n征召雇佣兵：§R-0.15%§!",
         "stage": 1
     },
     {
@@ -4772,25 +4772,25 @@
     {
         "key": "CONFORM_TO_TEMPLATE_BUILD_DESC_ARMY:0",
         "original": "$PROVS|Y$ Provinces will be used to build:\\n$INF$ £infantry_icon_small£ / $CAV$ £cavalry_icon_small£ / $ART$ £artillery_icon_small£ ($MERCS|Y$ Mercenaries)",
-        "translation": "$PROVS|Y$ 以下省份将会建造:\\n$INF$ £infantry_icon_small£ / $CAV$ £cavalry_icon_small£ / $ART$ £artillery_icon_small£ ($MERCS|Y$ 雇佣兵)",
+        "translation": "$PROVS|Y$个省份将被用来建立：\\n$INF$ £infantry_icon_small£ / $CAV$ £cavalry_icon_small£ / $ART$ £artillery_icon_small£ ($MERCS|Y$ 雇佣兵)",
         "stage": 1
     },
     {
         "key": "CONFORM_TO_TEMPLATE_BUILD_DESC_NAVY:0",
         "original": "$PROVS|Y$ Provinces will be used to build:\\n$HEAVY$ £big_ship_icon_small£ / $LIGHT$ £light_ship_icon_small£ / $GALLEY$ £galley_icon_small£ / $TRANSPORT$ £transport_icon_small£",
-        "translation": "$PROVS|Y$ 以下省份将会建造:\\n$HEAVY$ £big_ship_icon_small£ / $LIGHT$ £light_ship_icon_small£ / $GALLEY$ £galley_icon_small£ / $TRANSPORT$ £transport_icon_small£",
+        "translation": "$PROVS|Y$个省份将被用来建造：\\n$HEAVY$ £big_ship_icon_small£ / $LIGHT$ £light_ship_icon_small£ / $GALLEY$ £galley_icon_small£ / $TRANSPORT$ £transport_icon_small£",
         "stage": 1
     },
     {
         "key": "CONFORM_TO_TEMPLATE_MANPOWER_COST:0",
         "original": "Manpower cost: $VAL|Y$ £icon_manpower_in_text\\n",
-        "translation": "人力花费: $VAL|Y$ £icon_manpower_in_text\\n",
+        "translation": "人力花费：$VAL|Y$ £icon_manpower_in_text\\n",
         "stage": 1
     },
     {
         "key": "CONFORM_TO_TEMPLATE_SAILOR_COST:0",
         "original": "Sailors required: $VAL|Y$ £icon_sailors\\n",
-        "translation": "水手花费: $VAL|Y$ £icon_sailors\\n",
+        "translation": "水手花费：$VAL|Y$ £icon_sailors\\n",
         "stage": 1
     },
     {
@@ -4832,7 +4832,7 @@
     {
         "key": "ADVISOR_CULTURE:0",
         "original": "Advisor Culture: §Y$CULTURE$§!",
-        "translation": "顾问的文化: §Y$CULTURE$§!",
+        "translation": "顾问的文化：§Y$CULTURE$§!",
         "stage": 1
     },
     {
@@ -4910,7 +4910,7 @@
     {
         "key": "NATIONS_WITH_TRADING_POLICY_IN_NODE:1",
         "original": "\\nThe following countries apply this Policy in $NAME$:\\n $LIST$",
-        "translation": "\\n以下国家实施了$NAME$政策:\\n$LIST$",
+        "translation": "\\n以下国家实施了$NAME$政策：\\n$LIST$",
         "stage": 1
     },
     {
@@ -4946,13 +4946,13 @@
     {
         "key": "TRADING_POLICY_TRADE_POWER:0",
         "original": "$NAME|Y$ Trading Policy: $VAL$",
-        "translation": "$NAME|Y$ 贸易政策: $VAL$",
+        "translation": "$NAME|Y$贸易政策：$VAL$",
         "stage": 1
     },
     {
         "key": "TRADING_POLICY_NAME:0",
         "original": "Trading Policy: $NAME|Y$",
-        "translation": "贸易政策: $NAME|Y$",
+        "translation": "贸易政策：$NAME|Y$",
         "stage": 1
     },
     {
@@ -5090,7 +5090,7 @@
     {
         "key": "ACCEPTED_HOTJOINERS:0",
         "original": "The following players will join the game:",
-        "translation": "以下玩家将加入游戏:",
+        "translation": "以下玩家将加入游戏：",
         "stage": 1
     },
     {

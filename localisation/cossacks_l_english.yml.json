@@ -392,8 +392,8 @@
     {
         "key": "EST_HUN_MAGNATES:0",
         "original": "Power given to Magnates: §Y$VAL$%§!",
-        "translation": "寡头掌权: §Y$VAL$%§!",
-        "stage": 5
+        "translation": "寡头掌权：§Y$VAL$%§!",
+        "stage": 1
     },
     {
         "key": "EST_VAL_PRIVATE_CHANCELLERY:0",
@@ -404,8 +404,8 @@
     {
         "key": "EST_NUM_CITIES:0",
         "original": "Number of Cities: §Y$VAL$%§!",
-        "translation": "城市数量: §Y$VAL$%§!",
-        "stage": 5
+        "translation": "城市数量：§Y$VAL$%§!",
+        "stage": 1
     },
     {
         "key": "DEVELOP_ESTATE:0",
@@ -434,8 +434,8 @@
     {
         "key": "EST_VAL_SAVED_A_PROJECT:0",
         "original": "Instrumental in the building of Canals: §Y$VAL$%§!",
-        "translation": "在运河建设中发挥作用: §Y$VAL$%§!",
-        "stage": 5
+        "translation": "在运河建设中发挥作用：§Y$VAL$%§!",
+        "stage": 1
     },
     {
         "key": "EST_TOTAL_DEVELOPMENT:0",
@@ -572,8 +572,8 @@
     {
         "key": "EST_VAL_FEUDAL_THEOCRACY:0",
         "original": "Feudal Theocracy: §G$VAL$§!",
-        "translation": "封建神权: §G$VAL$§!",
-        "stage": 5
+        "translation": "封建神权：§G$VAL$§!",
+        "stage": 1
     },
     {
         "key": "EST_VAL_LOWERED_TAX_BURDEN:0",
@@ -632,7 +632,7 @@
     {
         "key": "EST_STEPPE_PROVINCES:0",
         "original": "Steppe Lands: §Y$VAL$%§!",
-        "translation": "草原领地: §Y$VAL$%§!",
+        "translation": "草原领地：§Y$VAL$%§!",
         "stage": 1
     },
     {
@@ -746,7 +746,7 @@
     {
         "key": "MODIFIED_BY:0",
         "original": ", modified by:",
-        "translation": "， 修正于:",
+        "translation": "， 修正于以下因素：",
         "stage": 1
     },
     {
@@ -800,7 +800,7 @@
     {
         "key": "ESTATE_LOYALTY_TOOLTIP_CHANGE_MOD:0",
         "original": " affected by: $DESC$",
-        "translation": "由以下因素影响: $DESC$",
+        "translation": "由以下因素影响：$DESC$",
         "stage": 1
     },
     {
@@ -836,13 +836,13 @@
     {
         "key": "PROVINCE_GRANT_ESTATE_TOOLTIP_3:0",
         "original": "§RBecause their loyalty will still be below $AMT|Y$, this will have the following effects in the province:§!",
-        "translation": "§R由于其忠诚度依然低于 $AMT|Y$,这将给该省份带来下述影响:§!",
+        "translation": "§R由于其忠诚度依然低于$AMT|Y$，这将给该省份带来下述影响：§!",
         "stage": 1
     },
     {
         "key": "PROVINCE_GRANT_ESTATE_TOOLTIP_4:0",
         "original": "§GBecause their loyalty will be above $AMT|Y$, this will have the following effects in the province:§!",
-        "translation": "§G由于其忠诚度高于 $AMT|Y$,这将给该省份带来下述影响:§!",
+        "translation": "§G由于其忠诚度高于$AMT|Y$，这将给该省份带来下述影响：§!",
         "stage": 1
     },
     {
@@ -920,7 +920,7 @@
     {
         "key": "ESTATE_PROVINCES:0",
         "original": "They control the following provinces:",
-        "translation": "他们控制以下省份:",
+        "translation": "他们控制以下省份：",
         "stage": 1
     },
     {
@@ -1298,7 +1298,7 @@
     {
         "key": "VICTORY_CARD_DESC:0",
         "original": "Control of §Y$AREA$§!: $COLOR$$SCORE$§!\\n",
-        "translation": "控制§Y$AREA$§!: $COLOR$$SCORE$§!\\n",
+        "translation": "控制§Y$AREA$§!：$COLOR$$SCORE$§!\\n",
         "stage": 1
     },
     {
@@ -1454,20 +1454,20 @@
     {
         "key": "SCORE_ACCUM:0",
         "original": "Accumulated: §Y$VAL$§!\\n",
-        "translation": "累计: §Y$VAL$§!\\n",
+        "translation": "累计：§Y$VAL$§!\\n",
         "stage": 1
     },
     {
         "key": "SCORE_ACCUM_VC:0",
         "original": "Accumulated from Held VC: §Y$VAL$§!\\n",
-        "translation": "由持有的胜利卡累计: §Y$VAL$§!\\n",
+        "translation": "由持有的胜利卡累计：§Y$VAL$§!\\n",
         "stage": 1
     },
     {
         "key": "HORDE_RAZE_TOOLTIP_INSTANT:0",
         "original": "§YRaze Province§!",
         "translation": "§Y焚掠省份§!",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "HORDE_RAZE_TOOLTIP_DELAYED:0",
@@ -1497,7 +1497,7 @@
         "key": "CONFIRM_RAZE_TITLE:0",
         "original": "Confirm Raze Province",
         "translation": "确定焚掠该省份",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "HORDE_RAZE_TOOLTIP_ONLY_NON_CORES:0",
@@ -4718,7 +4718,7 @@
     {
         "key": "EST_VAL_DHIMMI_NOBLES:0",
         "original": "Ennobled Dhimmi: §Y$VAL$%§!",
-        "translation": "授予齐米阶级爵位: §Y$VAL$%§!",
+        "translation": "授予齐米阶级爵位：§Y$VAL$%§!",
         "stage": 1
     },
     {
@@ -5108,139 +5108,139 @@
     {
         "key": "EST_VAL_BURGHERS_SUMPTUARY_RESTRICTIONS:0",
         "original": "Sumptuary Restrictions: §Y$VAL$%§!",
-        "translation": "奢侈品禁令: §Y$VAL$%§!",
+        "translation": "奢侈品禁令：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_NOBILITY_NO_SUMPTUARY_RESTRICTIONS:0",
         "original": "Denied Sumptuary Restrictions: §Y$VAL$%§!",
-        "translation": "否决奢侈品禁令: §Y$VAL$%§!",
+        "translation": "否决奢侈品禁令：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_BURGHERS_NO_SUMPTUARY_RESTRICTIONS:0",
         "original": "Denied Sumptuary Restrictions: §Y$VAL$%§!",
-        "translation": "否决奢侈品禁令: §Y$VAL$%§!",
+        "translation": "否决奢侈品禁令：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_DHIMMI_NOT_TAXED:0",
         "original": "Dhimmi Tax Exemptions: §Y$VAL$%§!",
-        "translation": "豁免齐米阶层的税负: §Y$VAL$%§!",
+        "translation": "豁免齐米阶层的税负：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_DHIMMI_DECLINES:0",
         "original": "Decline of Dhimmi Influence: §Y$VAL$%§!",
-        "translation": "齐米阶层的影响力衰落: §Y$VAL$%§!",
+        "translation": "齐米阶层的影响力衰落：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_DHIMMI_ADVANCES:0",
         "original": "Rise of Dhimmi Influence: §Y$VAL$%§!",
-        "translation": "齐米阶层的影响力上升: §Y$VAL$%§!",
+        "translation": "齐米阶层的影响力上升：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_DHIMMI_ADVANCES_20:0",
         "original": "Rise of Dhimmi Influence: §Y$VAL$%§!",
-        "translation": "齐米阶层的影响力上升: §Y$VAL$%§!",
+        "translation": "齐米阶层的影响力上升：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_CITY_PRIVILEGES_DENIED:0",
         "original": "Denied City Privileges: §Y$VAL$%§!",
-        "translation": "否决城市特权: §Y$VAL$%§!",
+        "translation": "否决城市特权：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_VERY_HIGH_INTI_AUTHORITY:0",
         "original": "Very High Religious Authority: §Y$VAL$%§!",
-        "translation": "非常高的宗教权威: §Y$VAL$%§!",
+        "translation": "非常高的宗教权威：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_HIGH_INTI_AUTHORITY:0",
         "original": "High Religious Authority: §Y$VAL$%§!",
-        "translation": "高宗教权威: §Y$VAL$%§!",
+        "translation": "高宗教权威：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_DHIMMI_TEMPLES_PROTECTED:0",
         "original": "Dhimmi Holy Places Protected: §Y$VAL$%§!",
-        "translation": "保护齐米阶层的圣所: §Y$VAL$%§!",
+        "translation": "保护齐米阶层的圣所：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_TEMPLE_DESTRUCTION:0",
         "original": "Dhimmi Holy Places Destroyed: §Y$VAL$%§!",
-        "translation": "破坏齐米阶层的圣所: §Y$VAL$%§!",
+        "translation": "破坏齐米阶层的圣所：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_DHIMMI_ADMINISTRATORS:0",
         "original": "Dhimmi Administrators: §Y$VAL$%§!",
-        "translation": "齐米背景的行政官员: §Y$VAL$%§!",
+        "translation": "齐米背景的行政官员：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_DHIMMI_NO_ADMINISTRATORS:0",
         "original": "Heathens Denied Higher Offices: §Y$VAL$%§!",
-        "translation": "异教徒被拒绝担任高级官员: §Y$VAL$%§!",
+        "translation": "异教徒被拒绝担任高级官员：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_DHIMMI_CONCESSIONS:0",
         "original": "Concessions: §Y$VAL$%§!",
-        "translation": "特许经营: §Y$VAL$%§!",
+        "translation": "特许经营：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_DHIMMI_INVESTMENTS:0",
         "original": "Dhimmi Investments: §Y$VAL$%§!",
-        "translation": "齐米阶层的投资: §Y$VAL$%§!",
+        "translation": "齐米阶层的投资：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_TRIBES_ALLOWED_FREE_REIGN:0",
         "original": "Tribes Allowed Free Reign: §Y$VAL$%§!",
-        "translation": "允许一众部落自治: §Y$VAL$%§!",
+        "translation": "允许一众部落自治：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_TRIBES_REPRIMANDED:0",
         "original": "Tribes Reprimanded: §Y$VAL$%§!",
-        "translation": "惩戒一众部落: §Y$VAL$%§!",
+        "translation": "惩戒一众部落：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_TRIBES_ADVANCES:0",
         "original": "Rising Tribal Influence: §Y$VAL$%§!",
-        "translation": "部落影响力上升: §Y$VAL$%§!",
+        "translation": "部落影响力上升：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_TRIBES_ADVANCES_20:0",
         "original": "Rising Tribal Influence: §Y$VAL$%§!",
-        "translation": "部落影响力上升: §Y$VAL$%§!",
+        "translation": "部落影响力上升：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_TRIBES_DECLINES:0",
         "original": "Decline of Tribal Influence: §Y$VAL$%§!",
-        "translation": "部落影响力衰落: §Y$VAL$%§!",
+        "translation": "部落影响力衰落：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_NOBLES_DENIED_ACCESS_TO_ROYAL_BEDROOM:0",
         "original": "Alienated Nobles: §Y$VAL$%§!",
-        "translation": "疏远贵族: §Y$VAL$%§!",
+        "translation": "疏远贵族：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_NOBLES_ELABORATE_COURT_CEREMONIES:0",
         "original": "Nobles expected to be in Capital: §Y$VAL$%§!",
-        "translation": "贵族们期待参与到首都宫廷: §Y$VAL$%§!",
+        "translation": "贵族们期待参与到首都宫廷：§Y$VAL$%§!",
         "stage": 1
     },
     {
@@ -5588,31 +5588,31 @@
     {
         "key": "EST_VAL_COSSACKS_MINISTER:0",
         "original": "Recruited Minister: §Y$VAL$%§!",
-        "translation": "招募辅佐大臣: §Y$VAL$%§!",
+        "translation": "招募辅佐大臣：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_NOMAD_MINISTER:0",
         "original": "Recruited Minister: §Y$VAL$%§!",
-        "translation": "招募辅佐大臣: §Y$VAL$%§!",
+        "translation": "招募辅佐大臣：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_SUCCESFUL_COSSACK_REVOLT:0",
         "original": "Cossack Revolt: §Y$VAL$%§!",
-        "translation": "哥萨克叛乱: §Y$VAL$%§!",
+        "translation": "哥萨克叛乱：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_REFUSED_TO_ALTER_SUCCESSION:0",
         "original": "Refused to alter succession: §Y$VAL$%§!",
-        "translation": "拒绝改变继承权: §Y$VAL$%§!",
+        "translation": "拒绝改变继承权：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_KINGMAKERS:0",
         "original": "Kingmakers: §Y$VAL$%§!",
-        "translation": "造王者: §Y$VAL$%§!",
+        "translation": "造王者：§Y$VAL$%§!",
         "stage": 1
     },
     {
@@ -5630,13 +5630,13 @@
     {
         "key": "EST_VAL_COSSACK_REGISTER_EXPANDED:0",
         "original": "Expanded the number of Registered Cossacks: §Y$VAL$%§!",
-        "translation": "扩大哥萨克阶级的规模: §Y$VAL$%§!",
+        "translation": "扩大哥萨克阶级的规模：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_COSSACK_REGISTER_EXPANDED_LOYALTY:0",
         "original": "Expanded the number of Registered Cossacks: §G$VAL$§!",
-        "translation": "扩大哥萨克阶级的规模: §G$VAL$§!",
+        "translation": "扩大哥萨克阶级的规模：§G$VAL$§!",
         "stage": 1
     },
     {
@@ -5648,7 +5648,7 @@
     {
         "key": "EST_VAL_EMISSARY_TO_POPE:0",
         "original": "Sent Emissary to the Pope: §Y$VAL$%§!",
-        "translation": "向教宗发送使者: §Y$VAL$%§!",
+        "translation": "向教宗发送使者：§Y$VAL$%§!",
         "stage": 1
     },
     {
@@ -5690,7 +5690,7 @@
     {
         "key": "EST_VAL_COSSACK_CONQUISTADOR:0",
         "original": "Cossack Conquistador: §Y$VAL$%§!",
-        "translation": "哥萨克征服者: §Y$VAL$%§!",
+        "translation": "哥萨克征服者：§Y$VAL$%§!",
         "stage": 1
     },
     {
@@ -5702,13 +5702,13 @@
     {
         "key": "EST_VAL_RECRUITED_CONQUISTADOR:0",
         "original": "Recruited Conquistador: §Y$VAL$%§!",
-        "translation": "招募探险家: §Y$VAL$%§!",
+        "translation": "招募探险家：§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "EST_VAL_GENEROUS_DONATION:0",
         "original": "Made Generous Donation: §G$VAL$§!",
-        "translation": "慷慨捐赠: §G$VAL$§!",
+        "translation": "慷慨捐赠：§G$VAL$§!",
         "stage": 1
     },
     {
@@ -5720,7 +5720,7 @@
     {
         "key": "EST_VAL_TRIBES_AUTONOMY:0",
         "original": "Tribal Self-Rule: §Y$VAL$%§!",
-        "translation": "部落自治: §Y$VAL$%§!",
+        "translation": "部落自治：§Y$VAL$%§!",
         "stage": 1
     },
     {
