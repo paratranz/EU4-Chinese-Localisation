@@ -3446,7 +3446,7 @@
     {
         "key": "REGIMENT_STRENGTH:0",
         "original": "Regiment Strength: §Y$VALUE$§W",
-        "translation": "单位兵力: §Y$VALUE$§W",
+        "translation": "单位兵力：§Y$VALUE$§W",
         "stage": 1
     },
     {
@@ -3458,7 +3458,7 @@
     {
         "key": "CURRENT_UNIT_MORALE:0",
         "original": "Unit Morale: §Y$VALUE$§W",
-        "translation": "单位士气: §Y$VALUE$§W",
+        "translation": "单位士气：§Y$VALUE$§W",
         "stage": 1
     },
     {
@@ -3494,7 +3494,7 @@
     {
         "key": "FLANK_STATS:0",
         "original": "Flanking Range: §Y$STATS$§!\\n",
-        "translation": "侧翼攻击范围: §Y$STATS$§!\\n",
+        "translation": "侧翼攻击范围：§Y$STATS$§!\\n",
         "stage": 1
     },
     {
@@ -3878,7 +3878,7 @@
     {
         "key": "MULTIPLICATIVE_ATTRITION:0",
         "original": "The following modifiers are applied to this multiplicatively:\\n",
-        "translation": "下列效果取决于这些乘数:\\n",
+        "translation": "下列效果取决于这些乘数：\\n",
         "stage": 1
     },
     {
@@ -3980,13 +3980,13 @@
     {
         "key": "PROTECT_NOT_IN_RANGE:0",
         "original": "Their capital must be in range from our traders.\\n    §W(Current Range: §Y$CURR$§W Max Range: §Y$MAX$§W).",
-        "translation": "他们的首都必须在我们的贸易范围内。\\n§W(目前距离: §Y$CURR$§W 最大距离: §Y$MAX$§W)。",
+        "translation": "他们的首都必须在我们的贸易范围内。\\n§W（当前距离：§Y$CURR$§W 最大距离：§Y$MAX$§W）。",
         "stage": 1
     },
     {
         "key": "PROTECT_WE_NOT_IN_RANGE:0",
         "original": "Our capital must be in range from their traders.\\n    §W(Current Range: §Y$CURR$§W Max Range: §Y$MAX$§W).",
-        "translation": "我们的首都必须在他们的贸易范围内。\\n§W(目前距离: §Y$CURR$§W 最大距离: §Y$MAX$§W)。",
+        "translation": "我们的首都必须在他们的贸易范围内。\\n§W（当前距离：§Y$CURR$§W 最大距离：§Y$MAX$§W）。",
         "stage": 1
     },
     {
@@ -4760,7 +4760,7 @@
     {
         "key": "FORT_LEVEL_TOOLTIP:0",
         "original": "Fort Level: $LEVEL|Y$",
-        "translation": "要塞等级: $LEVEL|Y$",
+        "translation": "要塞等级：$LEVEL|Y$",
         "stage": 1
     },
     {
@@ -5792,7 +5792,7 @@
     {
         "key": "SEND_MERCHANT_COST:0",
         "original": "Cost: §Y$AMOUNT$§W",
-        "translation": "花费:§Y$AMOUNT$§W",
+        "translation": "花费：§Y$AMOUNT$§W",
         "stage": 1
     },
     {
@@ -8804,13 +8804,13 @@
     {
         "key": "BASE:0",
         "original": "Base:",
-        "translation": "基准:",
+        "translation": "基准：",
         "stage": 1
     },
     {
         "key": "TERRAIN_COLON:0",
         "original": "Terrain:",
-        "translation": "地形:",
+        "translation": "地形：",
         "stage": 1
     },
     {
@@ -8954,7 +8954,7 @@
     {
         "key": "PROV_PROD_TOTAL:0",
         "original": "Total:",
-        "translation": "总计:",
+        "translation": "总计：",
         "stage": 1
     },
     {
@@ -11162,7 +11162,7 @@
     {
         "key": "SELECTED_RULER:0",
         "original": "ruled by $KING$",
-        "translation": "统治者:$KING$",
+        "translation": "统治者：$KING$",
         "stage": 1
     },
     {
@@ -11246,13 +11246,13 @@
     {
         "key": "ATWAR:0",
         "original": "At war:",
-        "translation": "当前战争:",
+        "translation": "当前战争：",
         "stage": 1
     },
     {
         "key": "ALLIES:0",
         "original": "Allies:",
-        "translation": "同盟:",
+        "translation": "同盟：",
         "stage": 1
     },
     {
@@ -11390,7 +11390,7 @@
     {
         "key": "alert_diplo_annexing_instant:0",
         "original": "You have a good chance of diplo-annexing:",
-        "translation": "外交吞并机会:",
+        "translation": "外交吞并机会：",
         "stage": 1
     },
     {
@@ -13526,7 +13526,7 @@
     {
         "key": "CONDOTTIERI_NUM_AVAILABLE:0",
         "original": "Units rented out:",
-        "translation": "租出单位:",
+        "translation": "租出单位：",
         "stage": 1
     },
     {
@@ -13724,13 +13724,13 @@
     {
         "key": "MAX_CONDOTTIERI_BASE:0",
         "original": "Base: §Y$BASE$§!\\n",
-        "translation": "基础: §Y$BASE$§!\\n",
+        "translation": "基准：§Y$BASE$§!\\n",
         "stage": 1
     },
     {
         "key": "MAX_CONDOTTIERI_MOD:0",
         "original": "Modified by: $SUM$\\n",
-        "translation": "修正了: $SUM$\\n",
+        "translation": "修正因子：$SUM$\\n",
         "stage": 1
     },
     {
@@ -14240,7 +14240,7 @@
     {
         "key": "AVERAGE_DRILL:0",
         "original": "Average Drill: $VAL|Y$",
-        "translation": "平均操练度: $VAL|Y$",
+        "translation": "平均操练度：$VAL|Y$",
         "stage": 1
     },
     {
@@ -14342,7 +14342,7 @@
     {
         "key": "MANEUVER_NEW_VALUE:0",
         "original": "Flanking Range: §Y$VALUE$§W",
-        "translation": "侧翼攻击范围: §Y$VALUE$§W",
+        "translation": "侧翼攻击范围：§Y$VALUE$§W",
         "stage": 1
     },
     {
@@ -14378,7 +14378,7 @@
     {
         "key": "DOMESTIC_INCOME:0",
         "original": "Income:",
-        "translation": "收入:",
+        "translation": "收入：",
         "stage": 1
     },
     {
@@ -14534,13 +14534,13 @@
     {
         "key": "DOMESTIC_IDEAS:0",
         "original": "National Ideas:",
-        "translation": "国家理念:",
+        "translation": "国家理念：",
         "stage": 1
     },
     {
         "key": "DOMESTIC_POLICIES:0",
         "original": "Domestic Policies:",
-        "translation": "国内政策:",
+        "translation": "国内政策：",
         "stage": 1
     },
     {
@@ -14810,25 +14810,25 @@
     {
         "key": "PW_TAX:0",
         "original": "Tax:",
-        "translation": "税收:",
+        "translation": "税收：",
         "stage": 1
     },
     {
         "key": "PW_PRODUCTION:0",
         "original": "Production:",
-        "translation": "生产:",
+        "translation": "生产：",
         "stage": 1
     },
     {
         "key": "PW_TOTAL:0",
         "original": "Total:",
-        "translation": "总计:",
+        "translation": "总计：",
         "stage": 1
     },
     {
         "key": "PW_PRICE:0",
         "original": "Price:",
-        "translation": "价格:",
+        "translation": "价格：",
         "stage": 1
     },
     {
@@ -14948,13 +14948,13 @@
     {
         "key": "PW_PRESTIGE:0",
         "original": "Prestige:",
-        "translation": "威望:",
+        "translation": "威望：",
         "stage": 1
     },
     {
         "key": "PW_RANK:0",
         "original": "Rank:",
-        "translation": "排名:",
+        "translation": "排名：",
         "stage": 1
     },
     {
@@ -14966,13 +14966,13 @@
     {
         "key": "PW_RELATION:0",
         "original": "Relation:",
-        "translation": "关系:",
+        "translation": "关系：",
         "stage": 1
     },
     {
         "key": "PW_REP:0",
         "original": "Rep:",
-        "translation": "名誉:",
+        "translation": "声誉：",
         "stage": 1
     },
     {
@@ -15236,7 +15236,7 @@
     {
         "key": "FE_PLAYER_NAME:0",
         "original": "Player name:",
-        "translation": "玩家姓名:",
+        "translation": "玩家姓名：",
         "stage": 1
     },
     {
@@ -15356,19 +15356,19 @@
     {
         "key": "FE_DIFFICULTY:0",
         "original": "Difficulty",
-        "translation": "难度:",
+        "translation": "难度：",
         "stage": 1
     },
     {
         "key": "FE_AT_WAR:0",
         "original": "At war:",
-        "translation": "当前战争:",
+        "translation": "当前战争：",
         "stage": 1
     },
     {
         "key": "FE_ALLIES:0",
         "original": "Allies:",
-        "translation": "同盟:",
+        "translation": "同盟：",
         "stage": 1
     },
     {
@@ -15380,7 +15380,7 @@
     {
         "key": "FE_BOOKEDMARKED:0",
         "original": "Bookmarked dates:",
-        "translation": "历史剧本:",
+        "translation": "历史剧本：",
         "stage": 1
     },
     {
@@ -15950,19 +15950,19 @@
     {
         "key": "MS_USERNAME:0",
         "original": "Username:",
-        "translation": "用户名:",
+        "translation": "用户名：",
         "stage": 1
     },
     {
         "key": "MS_PASSWORD:0",
         "original": "Password:",
-        "translation": "密码:",
+        "translation": "密码：",
         "stage": 1
     },
     {
         "key": "MS_NAME:0",
         "original": "Name:",
-        "translation": "名称:",
+        "translation": "名称：",
         "stage": 1
     },
     {
@@ -16106,19 +16106,19 @@
     {
         "key": "PAPACY_COST:0",
         "original": "Cost:",
-        "translation": "花费:",
+        "translation": "花费：",
         "stage": 1
     },
     {
         "key": "PAPACY_CHANCE:0",
         "original": "Chance:",
-        "translation": "可能性:",
+        "translation": "可能性：",
         "stage": 1
     },
     {
         "key": "PAPACY_LOYALTY:0",
         "original": "Loyalty:",
-        "translation": "忠于:",
+        "translation": "忠于：",
         "stage": 1
     },
     {
@@ -16154,7 +16154,7 @@
     {
         "key": "PP_BASE_TAX_VALUE:0",
         "original": "Development:",
-        "translation": "发展度:",
+        "translation": "发展度：",
         "stage": 1
     },
     {
@@ -16178,7 +16178,7 @@
     {
         "key": "PP_COST:0",
         "original": "Cost:",
-        "translation": "花费:",
+        "translation": "花费：",
         "stage": 1
     },
     {
@@ -19172,13 +19172,13 @@
     {
         "key": "ITEMS_TRADED_OF_WORLD:0",
         "original": "These items are traded here (% of World Market):",
-        "translation": "这些货物在此交易(占全球市场的百分比):",
+        "translation": "这些货物在此交易(占全球市场的百分比)：",
         "stage": 1
     },
     {
         "key": "GOODS_WE_TRADE_OF_LIMIT:0",
         "original": "We have access to §Y$VAL$§W% of the world, we need §Y$VAL2$§W%.",
-        "translation": "我们获得了全球供应的 §Y$VAL$§W% ，我们需要获得 §Y$VAL2$§W% :",
+        "translation": "我们拥有全球§Y$VAL$§W%的市场，需要§Y$VAL2$§W%。",
         "stage": 1
     },
     {
@@ -19190,13 +19190,13 @@
     {
         "key": "PRODUCTION_LEADER_THEY_DESC:0",
         "original": "§Y$LEADER$§W is leading producer. (They: §Y$THEIR$§W% We: §Y$OUR$§W%)",
-        "translation": "§Y$LEADER$§W 是主要生产者. (他们：§Y$THEIR$§W% 我们：§Y$OUR$§W%):",
+        "translation": "§Y$LEADER$§W是主要生产者。（他们：§Y$THEIR$§W% 我们：§Y$OUR$§W%）",
         "stage": 1
     },
     {
         "key": "PRODUCTION_LEADER_WE_DESC:0",
         "original": "We are leading producer. (§Y$OUR$§W%)",
-        "translation": "我们是主要生产者. (§Y$OUR$§W%):",
+        "translation": "我们是主要生产者。（§Y$OUR$§W%）",
         "stage": 1
     },
     {
@@ -19364,7 +19364,7 @@
     {
         "key": "alert_explorer_ready_delayed:0",
         "original": "At least one explorer ready to explore:\\n$LIST$",
-        "translation": "有至少一个可以探索的探险家:\\n$LIST$",
+        "translation": "至少有一个探险家可以探索：\\n$LIST$",
         "stage": 1
     },
     {
@@ -20000,7 +20000,7 @@
     {
         "key": "alert_rebel_faction_uprising_delayed:0",
         "original": "The following rebel factions will soon start a rebel uprising:$LIST$",
-        "translation": "下列叛军派系将很快发起一场叛乱:$LIST$",
+        "translation": "下列叛军派系将很快发动一场叛乱：$LIST$",
         "stage": 1
     },
     {
@@ -33752,7 +33752,7 @@
     {
         "key": "GOV_MIN_AUTONOMY:0",
         "original": "Minimum Province Autonomy: §Y$NUM$%§!",
-        "translation": "省份最低自治度: §Y$NUM$%§!",
+        "translation": "省份最低自治度：§Y$NUM$%§!",
         "stage": 1
     },
     {
@@ -33782,7 +33782,7 @@
     {
         "key": "IMMEDIATEEFFECT:0",
         "original": "Immediate Effect: \\n",
-        "translation": "直接效果:\\n",
+        "translation": "即时影响：\\n",
         "stage": 1
     },
     {
@@ -33896,7 +33896,7 @@
     {
         "key": "alert_national_decisions_delayed:0",
         "original": "The following decisions are available:\\n$LIST$",
-        "translation": "以下决议可用:\\n$LIST$",
+        "translation": "以下决议可用：\\n$LIST$",
         "stage": 1
     },
     {
@@ -33908,7 +33908,7 @@
     {
         "key": "alert_province_decisions_delayed:0",
         "original": "Decisions can be made in the following provinces:\\n$LIST$",
-        "translation": "以下省份有决议可通过:\\n$LIST$",
+        "translation": "以下省份有决议可通过：\\n$LIST$",
         "stage": 1
     },
     {
@@ -34814,7 +34814,7 @@
     {
         "key": "FE_NUM_PLAYERS:0",
         "original": "Number of Players: $NUM$",
-        "translation": "玩家数量:$NUM$",
+        "translation": "玩家数量：$NUM$",
         "stage": 1
     },
     {
@@ -36224,7 +36224,7 @@
     {
         "key": "TARIFF_FACTOR:0",
         "original": "Tariffs taken out:",
-        "translation": "关税产出:",
+        "translation": "关税产出：",
         "stage": 1
     },
     {
@@ -36710,7 +36710,7 @@
     {
         "key": "WONT_NEGOTIATE:0",
         "original": "They will not negotiate unless the following is true:",
-        "translation": "他们不会同意谈判除非下列条件达成:",
+        "translation": "他们不会同意谈判，除非达成下列条件：",
         "stage": 1
     },
     {
@@ -40454,13 +40454,13 @@
     {
         "key": "IS_NOT_PREVIOUS_OWNER:0",
         "original": "Is NOT previous owner:",
-        "translation": "不是前拥有者:",
+        "translation": "不是前拥有者:：",
         "stage": 1
     },
     {
         "key": "IS_PREVIOUS_OWNER:0",
         "original": "Is previous owner:",
-        "translation": "是前拥有者:",
+        "translation": "是前拥有者：",
         "stage": 1
     },
     {
@@ -45590,7 +45590,7 @@
     {
         "key": "CANT_NEGOTIATE:0",
         "original": "Their demands are completely unacceptable due to the following:",
-        "translation": "这要求是完全不能接受的原因如下:",
+        "translation": "他们的要求完全无法接受，原因如下：",
         "stage": 1
     },
     {
@@ -46844,7 +46844,7 @@
     {
         "key": "ND_IDEAL_LEVEL_POINTS:0",
         "original": "Level $LVL$: $EFFECT$, Points Cost: §R$PTS$§!",
-        "translation": "级别$LVL$：$EFFECT$，点数支出: §R$PTS$§!",
+        "translation": "级别$LVL$：$EFFECT$，点数支出：§R$PTS$§!",
         "stage": 1
     },
     {
