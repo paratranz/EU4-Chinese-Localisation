@@ -554,8 +554,8 @@
     {
         "key": "IS_MOVING_FM:0",
         "original": "You can only order stationary units to Forced March.",
-        "translation": "你只能命令常备军强行军。",
-        "stage": 5
+        "translation": "你只能命令静止的单位强行军。",
+        "stage": 1
     },
     {
         "key": "FORCE_MARCH:0",
@@ -566,7 +566,7 @@
     {
         "key": "FORCE_MARCH_IRO:0",
         "original": "Ordering a Forced March will increase movement speed to §Y$SPEED$%§W when moving, while costing §Y$COST$§W£mil per province moved.",
-        "translation": "命令部队进行强行军会提升他们§Y$SPEED$%§W的移动速度，但每经过一个省份会消耗§Y$COST$§W£mil£。",
+        "translation": "命令部队进行强行军会将他们的移动速度提升至§Y$SPEED$%§W，但每经过一个省份会消耗§Y$COST$§W£mil 。",
         "stage": 1
     },
     {
