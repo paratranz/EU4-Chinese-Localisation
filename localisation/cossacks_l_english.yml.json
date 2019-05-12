@@ -195,7 +195,7 @@
         "key": "estate_andriana:0",
         "original": "Andriana",
         "translation": "安德里亚纳",
-        "stage": 2
+        "stage": 1
     },
     {
         "key": "estate_timawa:0",
@@ -3578,7 +3578,7 @@
     {
         "key": "tengri_events.61.d:0",
         "original": "A strange disease has struck [Root.Heir.GetName], a fever that our Shamans have been unable to stop or even alleviate. A visiting Sunni physician claims to recognize the condition and to be able to cure it. Our Shamans would likely take offense if we brought in an outsider after their own widely known failure but the life of our heir seems to be at its end unless we do something.",
-        "translation": "[Root.Heir.GetName]罹患了一种怪病——萨满们几番尝试后，病情都丝毫不见好转。一位来访的穆斯林医官自称曾经见过这一症状，并宣称自己可以治好[Root.Heir.GetName]。若再不进行救治，[Root.Heir.GetName]的性命多半危在旦夕。而我们要是放手让他治，萨满们多半又得不高兴了。",
+        "translation": "[Root.Heir.GetName]染上了一种奇怪的疾病，我们的萨满无力阻止甚至减缓这种热病。一个外来的逊尼派医生声称见过这种情况且能治愈它。在萨满们为众所知的失败后请一个外来者很有可能冒犯他们，但如果我们不做些什么的话继承人几乎肯定会死去",
         "stage": 1
     },
     {
@@ -4034,7 +4034,7 @@
     {
         "key": "NATIVE_POLICY_NO_COLONISTS:0",
         "original": "§RYou need at least one Colonist before you can choose Native Policy.§!",
-        "translation": "§R需要有至少一名殖民者，方能选择土著政策§!",
+        "translation": "§R需要有至少一名殖民者，方能选择土著政策。§!",
         "stage": 1
     },
     {
@@ -5990,8 +5990,8 @@
     {
         "key": "cossack_estate_events.6.d:0",
         "original": "While few would dispute their influence on the Steppes the Cossacks have many things working against them when it comes to gaining influence in the halls of power. The $ESTATE_NOBLES$ despise them and would see them all brought to work as serfs on their latifundia and their manners have not brought them many friends in [Root.Capital.GetCapitalName].\\nLately, however, things have been going their way. They have managed to defend their settlements and their services to the state as raiders are undisputable.",
-        "translation": "一直在草原上拓展影响力的$ESTATE_COSSACKS$势力,在试图夺取国家影响力时受到阻力.特别是$ESTATE_NOBLES$鄙视他们,认为他们在[Root.Capital.GetCapitalName]毫无礼节可言,并企图想把他们全变成庄园下农奴.\\n然而他们还是这样我行我素.他们计划以另一方式报效国家,作为国家边缘人保存自己的居住定并以国家名义去洗劫邻邦者.[Root.Capital.GetCapitalName]",
-        "stage": 2
+        "translation": "尽管没有人会质疑哥萨克人在草原上的影响力，他们在想得到朝堂上的影响力时就有重重困难。$ESTATE_NOBLES$瞧不起他们，觉得他们只配做农奴在庄园里工作。他们的习惯导致在[Root.Capital.GetCapitalName]不会有什么朋友。\\n不过现在呢，事情总是在发展。他们成功地保卫了自己的定居点，并且作为突袭者效忠国家的身份已经不再被质疑。",
+        "stage": 1
     },
     {
         "key": "cossack_estate_events.6.a:0",
@@ -6044,13 +6044,13 @@
     {
         "key": "cossack_estate_events.9.a:0",
         "original": "Send them what they need.",
-        "translation": "给他们需要的想要的.",
+        "translation": "给他们送去需要的东西。",
         "stage": 1
     },
     {
         "key": "cossack_estate_events.9.b:0",
         "original": "They'll have to make do themselves.",
-        "translation": "抱歉,他们需要自己动手丰衣足食.",
+        "translation": "他们需要自己动手丰衣足食。",
         "stage": 1
     },
     {
@@ -6536,13 +6536,13 @@
     {
         "key": "desc_the_proper_old_ways:0",
         "original": "We have attempted to return to our roots and rule our lands according to what we imagine was the way of the great Genghis Khan and his contemporaries. Some would call this backward, we call it proper.",
-        "translation": "我们尝试回归到传统的的方法去统治我们的土地,根据伟大的成吉思汗和他的同辈走过的老路.有人说这是倒退,我们认为这是识时务.",
+        "translation": "我们尝试回归到传统的的方法去统治我们的土地，沿着伟大的成吉思汗和他的同辈走过的老路。有人说这是倒退，我们认为这是正确的。",
         "stage": 1
     },
     {
         "key": "church_estate_events.1.t:0",
         "original": "Libertas Ecclesiae",
-        "translation": " 教会的自由",
+        "translation": "教会的自由",
         "stage": 1
     },
     {
@@ -7088,31 +7088,31 @@
     {
         "key": "nobles_estate_events.10.d:0",
         "original": "As the state and its bureaucracy grow there is an ever-growing need of people to oversee and administrate various lands and functions. The $ESTATE_NOBLES$ have traditionally been more associated with military services to the state but have increasingly made it clear that they still expect to be first in line when government offices are being handed out. The $ESTATE_BURGHERS$ on the other hand claim that the $ESTATE_NOBLES$ considers such appointments as mere rewards and will use them only to enrich themselves. Instead the $ESTATE_BURGHERS$ argue we should appoint men out of individual merit.\\nThe unexpected death of a trusted secretary has left a vacant position to be filled at the center of this conflict, with the $ESTATE_BURGHERS$ supporting one candidate and the $ESTATE_NOBLES$ expecting us to pick another. While both candidates are talented men this has to be a political decision.",
-        "translation": "随着国家和官僚体系的发展,逐渐越来越多的人民需要被监管,各种职能各种土地也需要被管理.而$ESTATE_NOBLES$在传统上是专门为国家而征战,但也逐渐地从第一线中被政府行政人员所取代.$ESTATE_BURGHERS$在另一方面又声称$ESTATE_NOBLES$考虑的只是如何用军职牟利.相反$ESTATE_BURGHERS$要求我们,任命人员时候应该任人唯能.\\n然而一位重臣的意外离世让一重要职位瞬间空缺,$ESTATE_BURGHERS$有他们的候选人,同时$ESTATE_NOBLES$也有一个候选人.然而两个候选人,选谁都是政治的选择.",
+        "translation": "随着国家和官僚体系的发展，越来越多的人民需要监管，各种职能各种土地也需要管理。而$ESTATE_NOBLES$在传统上专门为国家征战，但也逐渐地被政府行政人员从第一线中取代。另一方面，$ESTATE_BURGHERS$又声称$ESTATE_NOBLES$考虑的只是如何用军职牟利。相反，$ESTATE_BURGHERS$要求我们任命人员时候应该任人唯能。\\n然而一位重臣的意外离世让一重要职位瞬间空缺，$ESTATE_BURGHERS$推选了的候选人，同时$ESTATE_NOBLES$也有一个。然而两个候选人，选谁都是政治的选择。",
         "stage": 1
     },
     {
         "key": "nobles_estate_events.10.a:0",
         "original": "With a great pedigree come great abilities.",
-        "translation": "我们更相信血统.",
+        "translation": "血统越纯，才干越大。",
         "stage": 1
     },
     {
         "key": "nobles_estate_events.10.b:0",
         "original": "Self-made men are what we need to run this country.",
-        "translation": "我们需要白手起家的能臣来管理国家.",
+        "translation": "自学成才的人才是我们需要的栋梁之才。",
         "stage": 1
     },
     {
         "key": "nobles_estate_events.10.c:0",
         "original": "Let us turn to the $ESTATE_CHURCH$ instead.",
-        "translation": "还是交给$ESTATE_CHURCH$管理吧.",
+        "translation": "还是从$ESTATE_CHURCH$中找人吧。",
         "stage": 1
     },
     {
         "key": "nobles_estate_events.10.dd:0",
         "original": "Let us turn to the $ESTATE_DHIMMI$ instead.",
-        "translation": "还是交给$ESTATE_DHIMMI$管理吧.",
+        "translation": "还是从$ESTATE_DHIMMI$找人吧。",
         "stage": 1
     },
     {
@@ -7790,7 +7790,7 @@
     {
         "key": "estate_disasters.1.a.tt:0",
         "original": "[Root.GetName] will now be controlled by the §YNobility§! until the §Y'Curtail the Nobility'§! decision is taken.",
-        "translation": "[Root.GetName]会被§YNobility§!所控制直到§Y'削弱贵族'§!的决议生效.",
+        "translation": "采用§Y「削弱贵族阶层」§!决议前[Root.GetName]将受§Y贵族§!阶层控制。",
         "stage": 1
     },
     {
@@ -7832,7 +7832,7 @@
     {
         "key": "estate_disasters.3.a.tt:0",
         "original": "[Root.GetName] will now be controlled by the §YClergy§! until the §Y'Curtail the Clergy'§! decision is taken.",
-        "translation": "[Root.GetName]现在被§Y教士阶层§! 所控制直到§Y'削弱教士阶层'§! 的决议生效.",
+        "translation": "采用§Y「削弱教士阶层」§!决议前[Root.GetName]将受§Y教士§!阶层控制。",
         "stage": 1
     },
     {
@@ -7874,7 +7874,7 @@
     {
         "key": "estate_disasters.5.a.tt:0",
         "original": "[Root.GetName] will now be controlled by the §YBurghers§! until the §Y'Curtail the Burghers'§! decision is taken.",
-        "translation": "[Root.GetName]现在被§YBurghers§!所控制直到§Y'削弱市民阶层'§!的决议生效.",
+        "translation": "采用§Y「削弱市民阶层」§!决议前[Root.GetName]将受§Y市民§!阶层控制。",
         "stage": 1
     },
     {
@@ -7916,7 +7916,7 @@
     {
         "key": "estate_disasters.7.a.tt:0",
         "original": "[Root.GetName] will now be controlled by the §YTribes§! until the §Y'Curtail the Tribes'§! decision is taken.",
-        "translation": "[Root.GetName]现在被§YTribes§!所控制直到§Y'削弱部落'§!的决议生效.",
+        "translation": "采用§Y「削弱部族」§!决议前[Root.GetName]将受§Y部族§!阶层控制。",
         "stage": 1
     },
     {
@@ -8666,7 +8666,7 @@
     {
         "key": "estate_disasters.12.a.tt:0",
         "original": "[Root.GetName] will now be controlled by the §YBrahmins§! until the §Y'Curtail the Brahmins'§! decision is taken.",
-        "translation": "[Root.GetName]现在被§Y婆罗门§!所控制直到§Y削弱婆罗门§!的决议生效。",
+        "translation": "采用§Y「削弱婆罗门」§!决议前[Root.GetName]将受§Y婆罗门§!阶层控制。",
         "stage": 1
     },
     {
@@ -8708,7 +8708,7 @@
     {
         "key": "estate_disasters.14.a.tt:0",
         "original": "[Root.GetName] will now be controlled by the §YVaishyas§! until the §Y'Curtail the Vaishyas'§! decision is taken.",
-        "translation": "[Root.GetName]现在被§Y吠舍§!控制直到§Y'削弱吠舍'§!的决议生效",
+        "translation": "采用§Y「削弱吠舍」§!决议前[Root.GetName]将受§Y吠舍§!阶层控制。",
         "stage": 1
     },
     {
@@ -8768,7 +8768,7 @@
     {
         "key": "estate_disasters.17.a.tt:0",
         "original": "[Root.GetName] will now be controlled by the §YJains§! until the §Y'Curtail the Jains'§! decision is taken.",
-        "translation": "[Root.GetName]现在被§Y耆那教徒§!控制直到§Y'削弱耆那教徒'§!的决议生效.",
+        "translation": "采用§Y「削弱耆那教徒」§!决议前[Root.GetName]将受§Y耆那教徒§!阶层控制。",
         "stage": 1
     },
     {

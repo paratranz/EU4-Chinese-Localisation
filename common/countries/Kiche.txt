@@ -51,24 +51,24 @@ leader_names = {
   "佐兹"  # Zotz
 }
 monarch_names = {
-  "Cotuja #0" = 0
-  "Gucamatz #0" = 0
-  "Hnuyg #0" = 0
-  "Kan Bahlun Mo #0" = 0
-  "Kayom #0" = 0
-  "Kukumatz #0" = 0
-  "Mochcouoh #0" = 0
-  "Nohochacyum #0" = 0
-  "Oxib Queh #0" = 0
-  "Tecunuman #0" = 0
-  "Tutul Xiu #0" = 0
-  "Tziquin #0" = 0
-  "Vataki #0" = 0
-  "Yumcaaz #0" = 0
-  "Zotz #0" = 0
-  "Sacnite #0" = -1
-  "Namox Chel #0" = -1
-  "Itzel  #0" = -1
+  "伊策尔 #0" = -1  # Itzel  #0
+  "纳莫克斯 彻尔 #0" = -1  # Namox Chel #0
+  "撒克尼特 #0" = -1  # Sacnite #0
+  "佐兹 #0" = 0  # Zotz #0
+  "约玛卡兹 #0" = 0  # Yumcaaz #0
+  "瓦塔其 #0" = 0  # Vataki #0
+  "希奎恩 #0" = 0  # Tziquin #0
+  "图图尔 休 #0" = 0  # Tutul Xiu #0
+  "特库努曼 #0" = 0  # Tecunuman #0
+  "奥克希布 奎 #0" = 0  # Oxib Queh #0
+  "诺霍查约姆 #0" = 0  # Nohochacyum #0
+  "莫察库奥 #0" = 0  # Mochcouoh #0
+  "古古玛兹 #0" = 0  # Kukumatz #0
+  "卡约姆 #0" = 0  # Kayom #0
+  "坎 巴伦 莫 #0" = 0  # Kan Bahlun Mo #0
+  "哈努伊格 #0" = 0  # Hnuyg #0
+  "古卡玛兹 #0" = 0  # Gucamatz #0
+  "科图雅 #0" = 0  # Cotuja #0
   "考纳彻 #0" = 0  # Conache #0
   "考寇雅 #0" = 0  # Cocoja #0
   "寇凯布 #0" = 0  # Cocaib #0
@@ -95,38 +95,38 @@ monarch_names = {
   "坎 艾克 #0" = 60  # Can Ek #0
 }
 ship_names = {
-  "Aké"
-  "Ah Puch"
-  "Altun Ha"
-  "Bonampak"
-  "Becan"
-  "Bolonchen"
-  "Chaac"
-  "Camazotz"
-  "Cancuén"
-  "Caracol"
-  "Cerros"
-  "Chacchoben"
-  "Chacmultun"
-  "Chinikiha"
-  "Chinkultic"
-  "Chunchucmil"
-  "Civiltuk"
-  "Calakmul"
-  "Copan"
-  "Coba"
-  "Chichen Itza"
-  "Dzibilchaltun"
-  "Dzibilnocac"
-  "Dzilam"
-  "Dos Pilas"
-  "Cahal Pech"
-  "Edzná"
-  "Ekab"
-  "Ek'Balam"
-  "Gumarcaj"
-  "Gucumatz"
-  "Hocchob"
+  "阿克"  # Aké
+  "阿 布奇"  # Ah Puch
+  "阿尔金哈"  # Altun Ha
+  "波南帕克"  # Bonampak
+  "拜坎"  # Becan
+  "博隆琴"  # Bolonchen
+  "查科"  # Chaac
+  "卡玛佐兹"  # Camazotz
+  "坎昆"  # Cancuén
+  "卡拉科尔"  # Caracol
+  "塞罗斯"  # Cerros
+  "察措本"  # Chacchoben
+  "查科摩顿"  # Chacmultun
+  "钦尼奇哈"  # Chinikiha
+  "钦库提克"  # Chinkultic
+  "钦楚克米尔"  # Chunchucmil
+  "西维图克"  # Civiltuk
+  "卡拉克穆尔"  # Calakmul
+  "科潘"  # Copan
+  "科巴"  # Coba
+  "奇琴伊察"  # Chichen Itza
+  "季比察顿"  # Dzibilchaltun
+  "季比诺卡克"  # Dzibilnocac
+  "季拉姆"  # Dzilam
+  "多斯 皮拉斯"  # Dos Pilas
+  "卡哈帕奇"  # Cahal Pech
+  "埃兹纳"  # Edzná
+  "埃卡博"  # Ekab
+  "埃克巴拉姆"  # Ek'Balam
+  "古马勒卡孜"  # Gumarcaj
+  "古库玛兹"  # Gucumatz
+  "赫考博"  # Hocchob
   "赫尔密盖罗"  # Hormiguero
   "乌纳普"  # Hunahpu
   "胡拉坎"  # Huracan
@@ -140,7 +140,7 @@ ship_names = {
   "伊希姆契"  # Iximche
   "伊克斯陆"  # Ixlu
   "伊扎玛尔"  # Izamal
-  "Ix Chel"
+  "埃克斯 彻尔"  # Ix Chel
   "拉波纳"  # Labná
   "路易斯维尔"  # Louisville
   "卢班图"  # Lubaantun
@@ -162,7 +162,7 @@ ship_names = {
   "纳克波"  # Nakbe
   "纳兰尤"  # Naranjo
   "内瓦赫"  # Nebaj
-  "Nim Li Punit"
+  "尼姆 利 普尼特"  # Nim Li Punit
   "欧寇普"  # Okop
   "奥克斯库兹卡伯"  # Oxcutzcab
   "奥金托克"  # Oxkintok

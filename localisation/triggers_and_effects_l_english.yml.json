@@ -1598,13 +1598,13 @@
     {
         "key": "IS_NOT_IN_COALITION:0",
         "original": " is NOT in a Coalition.",
-        "translation": "不在包围网中",
+        "translation": "不在包围网中。",
         "stage": 1
     },
     {
         "key": "IS_IN_COALITION:0",
         "original": " is in a Coalition.",
-        "translation": "在包围网中",
+        "translation": "在包围网中。",
         "stage": 1
     },
     {
@@ -2546,49 +2546,49 @@
     {
         "key": "RULER_HAS_PERSONALITY:0",
         "original": "$NAME$ is $PERSONALITY$\\n",
-        "translation": "$NAME$的特质是$PERSONALITY$\\n",
+        "translation": "$NAME$拥有$PERSONALITY$特质\\n",
         "stage": 1
     },
     {
         "key": "RULER_HAS_NOT_PERSONALITY:0",
         "original": "$NAME$ is NOT $PERSONALITY$\\n",
-        "translation": "$NAME$的特质不是$PERSONALITY$\\n",
+        "translation": "$NAME$没有$PERSONALITY$特质\\n",
         "stage": 1
     },
     {
         "key": "HEIR_HAS_PERSONALITY:0",
         "original": "Heir '$NAME$' is $PERSONALITY$\\n",
-        "translation": "继承人'$NAME$'的特质是$PERSONALITY$\\n",
+        "translation": "继承人「$NAME$」拥有$PERSONALITY$特质\\n",
         "stage": 1
     },
     {
         "key": "HEIR_HAS_NOT_PERSONALITY:0",
         "original": "Heir '$NAME$' is NOT $PERSONALITY$\\n",
-        "translation": "继承人'$NAME$'的特质是$PERSONALITY$\\n",
+        "translation": "继承人「$NAME$」没有$PERSONALITY$特质\\n",
         "stage": 1
     },
     {
         "key": "CONSORT_HAS_PERSONALITY:0",
         "original": "Consort '$NAME$' is $PERSONALITY$\\n",
-        "translation": "配偶'$NAME$'的特质是$PERSONALITY$\\n",
+        "translation": "配偶「$NAME$」拥有$PERSONALITY$特质\\n",
         "stage": 1
     },
     {
         "key": "CONSORT_HAS_NOT_PERSONALITY:0",
         "original": "Consort '$NAME$' is NOT $PERSONALITY$\\n",
-        "translation": "配偶'$NAME$'的特质不是$PERSONALITY$\\n",
+        "translation": "配偶「$NAME$」没有$PERSONALITY$特质\\n",
         "stage": 1
     },
     {
         "key": "ADD_RULER_PERSONALITY:0",
         "original": "$NAME$ is now $PERSONALITY|Y$.\\n",
-        "translation": "$NAME$当前的特质是$PERSONALITY|Y$。\\n",
+        "translation": "$NAME$获得特质$PERSONALITY|Y$。\\n",
         "stage": 1
     },
     {
         "key": "REMOVE_RULER_PERSONALITY:0",
         "original": "$NAME$ is no longer $PERSONALITY|Y$.\\n",
-        "translation": "$NAME$ 的特质不再是$PERSONALITY|Y$。\\n",
+        "translation": "$NAME$失去特质$PERSONALITY|Y$。\\n",
         "stage": 1
     },
     {
@@ -3134,13 +3134,13 @@
     {
         "key": "IS_INCIDENT_POTENTIAL:0",
         "original": "Incident $INCIDENTNAME|Y$ is possible in the future for \"$COUNTRYNAME|Y$\".\\n",
-        "translation": "事件$INCIDENTNAME|Y$将来可能在“$COUNTRYNAME|Y$”发生。\\n",
+        "translation": "事件$INCIDENTNAME|Y$将来可能在「$COUNTRYNAME|Y$」发生。\\n",
         "stage": 1
     },
     {
         "key": "IS_INCIDENT_POTENTIAL_NOT:0",
         "original": "Incident $INCIDENTNAME|Y$ is NOT possible in the future for $COUNTRYNAME|Y$.\\n",
-        "translation": "事件$INCIDENTNAME|Y$将来不可能在“$COUNTRYNAME|Y$”发生。\\n",
+        "translation": "事件$INCIDENTNAME|Y$将来不可能在「$COUNTRYNAME|Y$」发生。\\n",
         "stage": 1
     },
     {
@@ -3194,31 +3194,31 @@
     {
         "key": "ADD_ISOLATIONISM_EFFECT:0",
         "original": "Add $VALUE|Y$ to Isolationism level.\\n",
-        "translation": "增加$VALUE|Y$ 孤立主义等级。\\n",
+        "translation": "增加$VALUE|Y$孤立主义等级。\\n",
         "stage": 1
     },
     {
         "key": "ADD_ISOLATIONISM_EFFECT_REDUCE:0",
         "original": "Reduce Isolationism level by $VALUE|Y$\\n",
-        "translation": "降低孤立主义等级到 $VALUE|Y$\\n",
+        "translation": "降低$VALUE|Y$孤立主义等级\\n",
         "stage": 1
     },
     {
         "key": "SET_ISOLATIONISM_EFFECT:0",
         "original": "Set $VALUE|Y$ as Isolationism level.\\n",
-        "translation": "孤立主义等级设为$VALUE|Y$ 。\\n",
+        "translation": "孤立主义等级设为$VALUE|Y$。\\n",
         "stage": 1
     },
     {
         "key": "ADD_INCIDENT_VARIABLE_VALUE_EFFECT:0",
         "original": "Add $VALUE|Y$ to $INCIDENTNAME|Y$.\\n",
-        "translation": "增加 $VALUE|Y$ 在$INCIDENTNAME|Y$。\\n",
+        "translation": "$INCIDENTNAME|Y$值增加$VALUE|Y$。\\n",
         "stage": 1
     },
     {
         "key": "SET_INCIDENT_VARIABLE_VALUE_EFFECT:0",
         "original": "Set $INCIDENTNAME|Y$ to $VALUE|Y$.\\n",
-        "translation": "设置$INCIDENTNAME|Y$ 值为 $VALUE|Y$。\\n",
+        "translation": "设置$INCIDENTNAME|Y$值为$VALUE|Y$。\\n",
         "stage": 1
     },
     {
@@ -3242,19 +3242,19 @@
     {
         "key": "HARMONY_LESS_THAN:0",
         "original": "Harmony less than §Y$VAL$%§!",
-        "translation": "和谐度少于 §Y$VAL$%§!",
+        "translation": "和谐度低于§Y$VAL$%§!",
         "stage": 1
     },
     {
         "key": "HARMONY_AT_LEAST:0",
         "original": "Harmony at least §Y$VAL|Y$%§!",
-        "translation": "和谐度至少 §Y$VAL|Y$%§!",
+        "translation": "和谐度至少§Y$VAL|Y$%§!",
         "stage": 1
     },
     {
         "key": "HARMONIZATION_PROGRESS_LESS_THAN:0",
         "original": "Harmonization Progress less than §Y$VAL$%§!",
-        "translation": "融合进程少于 §Y$VAL$%§!",
+        "translation": "融合进程低于§Y$VAL$%§!",
         "stage": 1
     },
     {
@@ -3272,61 +3272,61 @@
     {
         "key": "HAD_NOT_ACTIVE_POLICY_TRIGGER:0",
         "original": "Has NOT had $POLICY|Y$ enacted for at least $DAYS|Y$ days",
-        "translation": "未颁布$POLICY|Y$政策至少 $DAYS|Y$ 天",
+        "translation": "没有已经颁布了至少$DAYS|Y$天的$POLICY|Y$政策",
         "stage": 1
     },
     {
         "key": "HAD_ACTIVE_POLICY_TRIGGER:0",
         "original": "Has had $POLICY|Y$ enacted for at least $DAYS|Y$ days",
-        "translation": "有已经颁布了至少$DAYS|Y$天的$POLICY|Y$",
+        "translation": "有已经颁布了至少$DAYS|Y$天的$POLICY|Y$政策",
         "stage": 1
     },
     {
         "key": "ADD_ADM_TECH_EFFECT_SINGULAR:0",
         "original": "Advances Administrative Technology by §G1§! level",
-        "translation": "行政科技提升 §G1§! 级",
+        "translation": "行政科技提升§G1§!级",
         "stage": 1
     },
     {
         "key": "ADD_ADM_TECH_EFFECT_PLURAL:0",
         "original": "Advances Administrative Technology by $VAL|+$ levels",
-        "translation": "行政科技提升 $VAL|+$ 级",
+        "translation": "行政科技提升$VAL|+$级",
         "stage": 1
     },
     {
         "key": "ADD_DIP_TECH_EFFECT_SINGULAR:0",
         "original": "Advances Diplomacy Technology by §G1§! level",
-        "translation": "外交科技提升 §G1§! 级",
+        "translation": "外交科技提升§G1§!级",
         "stage": 1
     },
     {
         "key": "ADD_DIP_TECH_EFFECT_PLURAL:0",
         "original": "Advances Diplomacy Technology by $VAL|+$ levels",
-        "translation": "外交科技提升 $VAL|+$ 级",
+        "translation": "外交科技提升$VAL|+$级",
         "stage": 1
     },
     {
         "key": "ADD_MIL_TECH_EFFECT_SINGULAR:0",
         "original": "Advances Military Technology by §G1§! level",
-        "translation": "军事科技提升 §G1§! 级",
+        "translation": "军事科技提升§G1§!级",
         "stage": 1
     },
     {
         "key": "ADD_MIL_TECH_EFFECT_PLURAL:0",
         "original": "Advances Military Technology by $VAL|+$ levels",
-        "translation": "军事科技提升 $VAL|+$ 级",
+        "translation": "军事科技提升$VAL|+$级",
         "stage": 1
     },
     {
         "key": "REVANCHISM_LOWER_THAN_TRIGGER:0",
         "original": "National Revanchism is lower than $VAL|Y$%",
-        "translation": "国家复仇主义低于 $VAL|Y$%",
+        "translation": "国家复仇主义低于$VAL|Y$%",
         "stage": 1
     },
     {
         "key": "REVANCHISM_HIGHER_THAN_TRIGGER:0",
         "original": "National Revanchism is higher than $VAL|Y$%",
-        "translation": "国家复仇主义高于 $VAL|Y$%",
+        "translation": "国家复仇主义高于$VAL|Y$%",
         "stage": 1
     },
     {
@@ -3344,19 +3344,19 @@
     {
         "key": "REMOVE_ADVISOR_OF_CATEGORY_ADM:0",
         "original": "Our Administrative Advisor $NAME|Y$ leaves our court.\\n",
-        "translation": "我们的行政顾问 $NAME|Y$离开了我们的宫廷。\\n",
+        "translation": "我们的行政顾问$NAME|Y$离开了我们的宫廷。\\n",
         "stage": 1
     },
     {
         "key": "REMOVE_ADVISOR_OF_CATEGORY_DIP:0",
         "original": "Our Diplomatic Advisor $NAME|Y$ leaves our court.\\n",
-        "translation": "我们的外交顾问 $NAME|Y$离开了我们的宫廷。\\n",
+        "translation": "我们的外交顾问$NAME|Y$离开了我们的宫廷。\\n",
         "stage": 1
     },
     {
         "key": "REMOVE_ADVISOR_OF_CATEGORY_MIL:0",
         "original": "Our Military Advisor $NAME|Y$ leaves our court.\\n",
-        "translation": "我们的军事顾问 $NAME|Y$离开了我们的宫廷。\\n",
+        "translation": "我们的军事顾问$NAME|Y$离开了我们的宫廷。\\n",
         "stage": 1
     },
     {
@@ -3404,31 +3404,31 @@
     {
         "key": "TRIG_NOT_HAS_RELIGIOUS_SCHOOL:0",
         "original": "$COUNTRY$ does not have a religious school.\\n",
-        "translation": "$COUNTRY$ 没有宗教学校\\n",
+        "translation": "$COUNTRY$没有宗教学校。\\n",
         "stage": 1
     },
     {
         "key": "TRIG_HAS_RELIGIOUS_SCHOOL:0",
         "original": "$COUNTRY$ have a religious school.\\n",
-        "translation": "$COUNTRY$ 拥有宗教学校\\n",
+        "translation": "$COUNTRY$拥有宗教学校。\\n",
         "stage": 1
     },
     {
         "key": "TRIG_NOT_SCHOOL_OPINION:0",
         "original": "$FIRST$ has a worse relationship than $OPINION$ with $SECOND$.\\n",
-        "translation": "$FIRST$ 有更恶劣的关系与 $OPINION$ 和  $SECOND$.\\n",
+        "translation": "$FIRST$与$SECOND$拥有低于$OPINION$的关系。\\n",
         "stage": 1
     },
     {
         "key": "TRIG_SCHOOL_OPINION:0",
         "original": "$FIRST$ has a $OPINION$ relationship or better with $SECOND$.\\n",
-        "translation": "$FIRST$ 有 $OPINION$ 关系或者更好的 $SECOND$.\\n",
+        "translation": "$FIRST$与$SECOND$拥有$OPINION$或者更高的关系。\\n",
         "stage": 1
     },
     {
         "key": "EFFECT_SET_SCHOOL_OPINION:0",
         "original": "$FIRST$ relation with $SECOND$ will become $OPINION$.",
-        "translation": "$FIRST$ 关系与 $SECOND$ 会变得更 $OPINION$.",
+        "translation": "$FIRST$与$SECOND$的关系将变成$OPINION$。",
         "stage": 1
     },
     {
@@ -3446,31 +3446,31 @@
     {
         "key": "HAS_NOT_ACTIVE_POLICY:0",
         "original": "Does not have $NAME|Y$\" as active Trading Policy in the $NODE|Y$ Node.",
-        "translation": "沒有在$NODE|Y$贸易节点采取「$NAME|Y$」贸易政策。",
+        "translation": "没有在$NODE|Y$贸易节点采取「$NAME|Y$」贸易政策。",
         "stage": 1
     },
     {
         "key": "HAS_ANY_ACTIVE_POLICY:0",
         "original": "Has an active Trading Policy in the $NODE|Y$ Node.",
-        "translation": "有实施贸易政策在 $NODE|Y$ 节点",
+        "translation": "有在$NODE|Y$贸易节点实施贸易政策。",
         "stage": 1
     },
     {
         "key": "HAS_NOT_ANY_ACTIVE_POLICY:0",
         "original": "Does not have an active Trading Policy in the $NODE|Y$ Node.",
-        "translation": "没有实施贸易政策在 $NODE|Y$ 节点",
+        "translation": "没有在$NODE|Y$贸易节点实施贸易政策。",
         "stage": 1
     },
     {
         "key": "has_river_estuary_tooltip:0",
         "original": "Has a §YRiver Estuary§!.",
-        "translation": "有 §Y河口§!.",
+        "translation": "拥有§Y河口§!。",
         "stage": 1
     },
     {
         "key": "has_no_river_estuary_tooltip:0",
         "original": "Does not have a §YRiver Estuary§!.",
-        "translation": "没有 §Y河口§!.",
+        "translation": "没有§Y河口§!。",
         "stage": 1
     },
     {
@@ -3482,7 +3482,7 @@
     {
         "key": "is_subject_other_than_tributary_trigger_tooltip:0",
         "original": "Is Subject other than Tributary.",
-        "translation": "是朝贡国以外的属国。",
+        "translation": "是非朝贡属国。",
         "stage": 1
     },
     {
@@ -3506,25 +3506,25 @@
     {
         "key": "HAVE_LESS_THAN_N_CULTURES_IN_COURT:0",
         "original": "Have less than §Y$VALUE$§! different Cultures in your court.\\n",
-        "translation": "拥有少于 §Y$VALUE$§! 不同的文化在你的领土\\n",
+        "translation": "在你的宫廷里只有不到§Y$VALUE$§!种不同的文化。\\n",
         "stage": 1
     },
     {
         "key": "HAVE_MORE_THAN_N_CULTURES_IN_COURT:0",
         "original": "Have at least §Y$VALUE$§! different Cultures in your court.\\n",
-        "translation": "拥有至少 §Y$VALUE$§! 不同的文化在你的领土\\n",
+        "translation": "在你的宫廷里存在至少§Y$VALUE$§!种不同的文化。\\n",
         "stage": 1
     },
     {
         "key": "HAVE_LESS_THAN_N_RELIGIONS_IN_COURT:0",
         "original": "Have less than §Y$VALUE$§! different Religions in your court.\\n",
-        "translation": "拥有少于 §Y$VALUE$§! 不同的文化在你的领土\\n",
+        "translation": "在你的宫廷里只有不到§Y$VALUE$§!种不同的宗教。\\n",
         "stage": 1
     },
     {
         "key": "HAVE_MORE_THAN_N_RELIGIONS_IN_COURT:0",
         "original": "Have at least §Y$VALUE$§! different Religions in your court.\\n",
-        "translation": "拥有至少 §Y$VALUE$§! 不同的文化在你的领土\\n",
+        "translation": "在你的宫廷里存在至少§Y$VALUE$§!种不同的宗教。\\n",
         "stage": 1
     },
     {
@@ -3548,25 +3548,25 @@
     {
         "key": "HAVE_LESS_JANISSARIES_THAN_PERC:0",
         "original": "Less than $PERC|%|Y$ of the army is Janissary Regiments ($SHIPS|Y$)",
-        "translation": "少于 $PERC|%|Y$ 军团是耶尼切尼 ($SHIPS|Y$)",
+        "translation": "耶尼切里军团（$SHIPS|Y$）占陆军总数比低于$PERC|%|Y$",
         "stage": 1
     },
     {
         "key": "HAVE_MORE_JANISSARIES_THAN_PERC:0",
         "original": "More than $PERC|%|Y$ of the army is Janissary Regiments ($SHIPS|Y$)",
-        "translation": "多于 $PERC|%|Y$ 军团是耶尼切尼 ($SHIPS|Y$)",
+        "translation": "耶尼切里军团（$SHIPS|Y$）占陆军总数比超过$PERC|%|Y$",
         "stage": 1
     },
     {
         "key": "HAVE_LESS_JANISSARIES_THAN:0",
         "original": "Have less Janissary Regiments than $VALUE|Y$.\\n",
-        "translation": "拥有耶尼切里少于 $VALUE|Y$.",
+        "translation": "拥有的耶尼切里军团少于$VALUE|Y$。\\n",
         "stage": 1
     },
     {
         "key": "HAVE_AT_LEAST_JANISSARIES_THAN:0",
         "original": "Have at least $VALUE|Y$ Janissary Regiments.\\n",
-        "translation": "拥有至少 $VALUE|Y$ 耶尼切尼军团",
+        "translation": "拥有的耶尼切里军团达到$VALUE|Y$。\\n",
         "stage": 1
     },
     {
@@ -3584,55 +3584,55 @@
     {
         "key": "EFFECT_ADD_LATENT_GOODS:0",
         "original": "$GOODS|Y$ becomes latent goods of $PROVINCE|Y$.",
-        "translation": "$GOODS|Y$ 成为$PROVINCE|Y$潜在的商品 .",
+        "translation": "$GOODS|Y$成为$PROVINCE|Y$的潜在商品。",
         "stage": 1
     },
     {
         "key": "HAS_NOT_LATENT_TRADE_GOODS_SPECIFIC:0",
         "original": "Doesn't have $NAME$ as latent trade goods.",
-        "translation": "并没有 $NAME$ 作为潜在的商品",
+        "translation": "没有潜在的贸易商品：$NAME$。",
         "stage": 1
     },
     {
         "key": "HAS_LATENT_TRADE_GOODS_SPECIFIC:0",
         "original": "Have $NAME$ as latent trade goods.",
-        "translation": "拥有 $NAME$ 作为潜在的商品",
+        "translation": "拥有潜在的贸易商品：$NAME$。",
         "stage": 1
     },
     {
         "key": "HAS_NOT_LATENT_TRADE_GOODS_ANY:0",
         "original": "Doesn't have any latent trade goods.",
-        "translation": "没有任何潜在的商品",
+        "translation": "没有任何潜在的贸易商品。",
         "stage": 1
     },
     {
         "key": "HAS_LATENT_TRADE_GOODS_ANY:0",
         "original": "Has a latent trade goods.",
-        "translation": "有一个潜在的商品",
+        "translation": "有一种潜在的贸易商品。",
         "stage": 1
     },
     {
         "key": "EFFECT_REMOVE_LATENT_GOODS:0",
         "original": "$GOODS|Y$ is rmoved as latent goods of $PROVINCE|Y$.",
-        "translation": "$GOODS|Y$ 作为潜在商品从 $PROVINCE|Y$ 移除",
+        "translation": "$GOODS|Y$不再是$PROVINCE|Y$的潜在商品。",
         "stage": 1
     },
     {
         "key": "EFFECT_REMOVE_ALL_LATENT_GOODS:0",
         "original": "All latent trade goods are removed from $PROVINCE|Y$.",
-        "translation": "所有潜在的商品都会从 $PROVINCE|Y$ 移除",
+        "translation": "所有潜在的贸易商品都会从$PROVINCE|Y$移除。",
         "stage": 1
     },
     {
         "key": "INNOVATIVENESS_IS_LESS_THAN:0",
         "original": "Innovativeness is less than §Y$SIZE$§!.\\n",
-        "translation": "创新度小于 §Y$SIZE$§!\\n",
+        "translation": "创新度低于§Y$SIZE$§!。\\n",
         "stage": 1
     },
     {
         "key": "INNOVATIVENESS_IS_AT_LEAST:0",
         "original": "Innovativeness is at least §Y$SIZE$§!.\\n",
-        "translation": "创新度至少 §Y$SIZE$§!\\n",
+        "translation": "创新度至少§Y$SIZE$§!。\\n",
         "stage": 1
     },
     {
@@ -3674,7 +3674,7 @@
     {
         "key": "HAVE_LESS_RAJPUT_THAN:0",
         "original": "Have less Rajput Regiments than $VALUE|Y$.\\n",
-        "translation": "拥有比$VALUE|Y$少的拉杰普特军团。\\n",
+        "translation": "拥有的拉杰普特军团少于$VALUE|Y$。\\n",
         "stage": 1
     },
     {
@@ -3692,7 +3692,7 @@
     {
         "key": "TAKE_LOAN_EFFECT:0",
         "original": "Take a $DURATION|Y$ month Bank Loan",
-        "translation": "贷一笔期限$DURATION|Y$月的款",
+        "translation": "贷一笔期限$DURATION|Y$个月的贷款",
         "stage": 1
     },
     {
@@ -3722,7 +3722,7 @@
     {
         "key": "WITH_GOVERNMENT_TYPE:0",
         "original": "The country they form will have $GOV|Y$ Government.",
-        "translation": "他们成立的国家将是$GOV|Y$政体",
+        "translation": "他们成立的国家将是$GOV|Y$政体。",
         "stage": 1
     },
     {

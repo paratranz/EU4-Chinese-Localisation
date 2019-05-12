@@ -32,7 +32,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Tiadoru #0" = 20
   "Ericcu Ghjilormu #0" = 15
   "Federicu #0" = 15
   "Leopoldu #0" = 15
@@ -40,28 +39,19 @@ monarch_names = {
   "Alfonsu #1" = 0
   "Amadeu #0" = 0
   "Ambrosgiu #0" = 0
-  "Andria #0" = 0
   "Antone #0" = 0
-  "Attilio #0" = 0
   "Basiliu #0" = 0
-  "Bernardu #0" = 0
-  "Boniface #0" = 0
   "Brunu #0" = 0
   "Carlu #0" = 0
-  "Claudiu #0" = 0
-  "Clemente #0" = 0
   "Conradu #0" = 0
   "Ernestu #0" = 0
-  "Felice #0" = 0
   "Francescu #0" = 0
   "Ghjuva #0" = 0
   "Leandru #0" = 0
-  "Leone #0" = 0
   "Ludovicu #0" = 0
   "Lurenzu #0" = 0
   "Patriziu #0" = 0
   "Paulu #0" = 0
-  "Petru #0" = 0
   "Prosperu #0" = 0
   "Raimondu #0" = 0
   "Renatu #0" = 0
@@ -70,20 +60,30 @@ monarch_names = {
   "Savieru #0" = 0
   "Stefanu #0" = 0
   "Tristanu #0" = 0
-  "Zaccaria #0" = 0
-  "Maria #0" = -1
   "Huguette #0" = -1
   "Pénélope #0" = -1
+  "玛丽亚 #0" = -1  # Maria #0
+  "扎卡里亚 #0" = 0  # Zaccaria #0
   "乌贝图 #0" = 0  # Ubertu #0
+  "彼得鲁 #0" = 0  # Petru #0
+  "莱昂内 #0" = 0  # Leone #0
+  "费利切  #0" = 0  # Felice #0
+  "克莱门特 #0" = 0  # Clemente #0
+  "克劳迪乌 #0" = 0  # Claudiu #0
+  "博尼法切 #0" = 0  # Boniface #0
+  "贝尔纳杜 #0" = 0  # Bernardu #0
+  "阿蒂利奥 #0" = 0  # Attilio #0
+  "安德里亚 #0" = 0  # Andria #0
+  "西奥多 #0" = 20  # Tiadoru #0
 }
 leader_names = {
-  "Acquaviva"
+  "阿夸维瓦"  # Acquaviva
   "Agostini"
   "Albertini"
   "Angeli"
   "Appietto"
-  "Astolfi"
-  "Bartoli"
+  "阿斯托尔福"  # Astolfi
+  "巴尔托利"  # Bartoli
   "Batesti"
   "Biancchini"
   "Buonaparte"
@@ -104,21 +104,21 @@ leader_names = {
   "Guidoni"
   "Leca"
   "Lucchini"
-  "Luciani"
-  "Mancini"
+  "卢恰尼"  # Luciani
+  "曼奇尼"  # Mancini
   "Marcaggi"
   "Mariani"
   "Mondolini"
   "Moracchini"
   "Natalini"
-  "Orsini"
+  "奥尔西尼"  # Orsini
   "Orsoni"
   "Palazzo"
-  "Paoli"
-  "Peretti"
+  "巴奥里"  # Paoli
+  "佩雷蒂"  # Peretti
   "Raffaeli"
   "Rivarola"
-  "Rossi"
+  "罗西"  # Rossi
   "Salicetti"
   "Sampiero"
   "Sanguinetti"

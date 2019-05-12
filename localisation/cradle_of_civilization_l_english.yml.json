@@ -542,20 +542,20 @@
     {
         "key": "army_professionalism_events.9.d:0",
         "original": "Due to lack of permanent structures many armies rely on private contractors to provide everything from equipment to entire regiments. Usually these entrepreneurs receive a sum in advance that they can then use to procure what the army needs on short notice. This often works well to meet the swiftly changing needs of our troops during campaigns, but there are those that would take advantage of the system.\\nAs our armies in [enemy_country.GetName] advance deeper into enemy territory there are increasing reports of corruption and unwarranted cooperation between our logistical officers and local entrepreneurs. If we are to maintain efficiency we must root out these practices but in the short run we will risk disrupting the system even more by fighting the corruption.",
-        "translation": "由于缺少长期架构，许多军队依靠私人承包商来为他们提供从装备到兵源的许多东西。通常这些承包商会收到一笔预付款以便应对军队的临时要求。这通常可以有效地应对我们军队随战役进程而变化的需求，但也有人会试图从这种体制当中贪小便宜。\\n随着我们的军队深入 [enemy_country.GetName] 的领土，后勤官员和当地承包商之间的腐败事件和无根据的交易也随之增加。如果我们想保持补给效率，就必须根除这些行为，但短期内我们的补给系统很可能受到干扰。",
+        "translation": "由于缺少长设架构，许多军队依靠私人承包商来提供从装备到兵源的许多东西。通常这些承包商会收到一笔预付款以便应对军队的临时要求。这通常可以有效地应对我们军队随战役进程而变化的需求，但也有人会试图从这种体制当中贪小便宜。\\n随着我们的军队深入[enemy_country.GetName]的领土，后勤官员和当地承包商之间的腐败事件和无根据的交易也随之增加。如果我们想保持补给效率，就必须根除这些行为，但短期内我们的补给系统很可能受到干扰。",
         "stage": 1
     },
     {
         "key": "army_professionalism_events.9.a:0",
         "original": "Root out the rot!",
         "translation": "根除腐败者！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "army_professionalism_events.9.b:0",
         "original": "We will have to let it be.",
         "translation": "放任自流。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "army_professionalism_events.10.t:0",
@@ -1736,8 +1736,8 @@
     {
         "key": "muslim_school_opinion_events.1.d:0",
         "original": "There have never been any theological differences worth a real conflict between the [Root.GetReligiousSchool] and [school_opinion_increase_country.GetReligiousSchool] schools and both customs often exist side by side.\\nThe long-lasting cooperation between the [Root.GetAdjective] [Root.GetReligiousSchool] and the [school_opinion_increase_country.GetReligiousSchool] [school_opinion_increase_country.GetAdjective] states has, however, lead to a new era of mutual understanding and respect.",
-        "translation": "从来没有任何神学上的差异值得在 [Root.GetReligiousSchool] 和 [school_opinion_increase_country.GetReligiousSchool] 之间真正的冲突，学派和两种习俗都经常存在。\\n然而，[Root.GetAdjective] [Root.GetReligiousSchool] 和 [school_opinion_increase_country.GetReligiousSchool] [school_opinion_increase_country.GetAdjective] 之间持久的合作开启了相互理解和尊重的新时代。",
-        "stage": 2
+        "translation": " [Root.GetReligiousSchool] 和 [school_opinion_increase_country.GetReligiousSchool] 学派之间从没有过任何神学观点的差异能导致真正的冲突，两种惯例总是能并行不悖。\\n现在[Root.GetAdjective] [Root.GetReligiousSchool] 和 [school_opinion_increase_country.GetReligiousSchool] [school_opinion_increase_country.GetAdjective] 之间开启的长期合作，让这相互理解和尊重又更进一步。",
+        "stage": 1
     },
     {
         "key": "muslim_school_opinion_events.1.a:0",
@@ -2756,13 +2756,13 @@
     {
         "key": "trade_policy_events.1.d:0",
         "original": "For a long time foreign merchants have been settling in [quarter_city.GetCapitalName] to better conduct trade with our country. Lately, however, with the intensified activity of the [community_country.GovernmentName] of [community_country.GetDefiniteArticleBeforePluralCountry][community_country.GetName] the quarter has grown into a city of its own.\\nThis is not without its problems, our own citizens are complaining that the [community_country.GetAdjective] community is growing at their expense. They demand that we impose harsher rules on foreign merchants and curtail their activities outside of the foreign quarter.",
-        "translation": "很长一段时间内，外国商团已经定居在 [quarter_city.GetCapitalName] ，从而更好地经营他们在我们国内的生意. 但是最近，随着 [community_country.GetDefiniteArticleBeforePluralCountry][community_country.GetName] 的 [community_country.GovernmentName]活动得越发频繁，这个聚居区正渐渐扩张为一个城市.\\n这不要紧，问题是我们的市民抱怨[community_country.GetAdjective] 社区的扩张损害了他们的利益。他们要求我们对外商制定严厉的措施，并限制他们在社区之外的行动。",
+        "translation": "外国商团已经在[quarter_city.GetCapitalName]定居很久了，更好地促进了两国的贸易流通。但是最近，随着[community_country.GetDefiniteArticleBeforePluralCountry][community_country.GetName][community_country.GovernmentName]活动得越发频繁，这个聚居区正渐渐扩张为一个城市。\\n这不要紧，问题是我们的市民抱怨[community_country.GetAdjective]社区的扩张损害了他们的利益。他们要求我们对外商制定严厉的措施，并限制他们在社区之外的行动。",
         "stage": 1
     },
     {
         "key": "trade_policy_events.1.a:0",
         "original": "No, we should encourage the foreign community to grow instead.",
-        "translation": "不，我们要鼓励外国人建立他们的社区",
+        "translation": "不，我们要鼓励外国人建立他们的社区。",
         "stage": 1
     },
     {
@@ -4028,8 +4028,8 @@
     {
         "key": "CONFIRMADDPASHA_TEXT:1",
         "original": "Assigning a Pasha in $STATE|Y$ will give us the following effects:\\n$EFFECT$",
-        "translation": "将$STATE|Y$分配给帕夏会给予我们以下效果：\\n$EFFECT$",
-        "stage": 2
+        "translation": "委任帕夏管制$STATE|Y$会给予我们以下效果：\\n$EFFECT$",
+        "stage": 1
     },
     {
         "key": "CONFIRMREMOVEPASHA:0",
@@ -5042,7 +5042,7 @@
     {
         "key": "STATE_JANISSARIES_COOLDOWN:0",
         "original": "Can recruit more Janissaries at $DATE|Y$.",
-        "translation": "可以征募更多耶尼切里军团于 $DATE|Y$。",
+        "translation": "可以征募更多耶尼切里军团于$DATE|Y$。",
         "stage": 1
     },
     {

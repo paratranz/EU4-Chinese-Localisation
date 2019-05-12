@@ -2463,7 +2463,7 @@
         "key": "edict_religion_enforced_tooltip:0",
         "original": "Requires '§YReligion Enforced Edict§!' from Age of Reformation.",
         "translation": "需要宗教改革时代的「§Y宗教强制法令§!」时代能力。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "edict_of_absolutism:0",
@@ -2475,7 +2475,7 @@
         "key": "edict_of_absolutism_tooltip:0",
         "original": "Requires '§YEdict of Absolutism§!' from Age of Absolutism.",
         "translation": "需要专制主义时代的「§Y专制主义法令§!」时代能力。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "UNCONDITIONAL_SURRENDER_UNREST:0",
@@ -2594,7 +2594,7 @@
     {
         "key": "NO_PROSP_NO_POSSTABI:1",
         "original": " - Stability must be positive!",
-        "translation": "－稳定度必须为正",
+        "translation": "－稳定度必须为正！",
         "stage": 1
     },
     {
@@ -2912,8 +2912,8 @@
     {
         "key": "NO_TRADE_COMPANY_RECENTLY_REMOVED:0",
         "original": "Cannot add this province to a Trade Company until $WHEN|Y$.",
-        "translation": "不能将这个省份添加到贸易公司里面，直到 $WHEN|Y$。",
-        "stage": 5
+        "translation": "$WHEN|Y$前不能将这个省份添加给贸易公司 。",
+        "stage": 1
     },
     {
         "key": "CURRENT_PENALTY:1",
@@ -2996,7 +2996,7 @@
     {
         "key": "REM_ACC_CUL_UNREST_HIT:0",
         "original": "§YUnrest§! in all $CULTURE$ provinces will rise by $VAL$.",
-        "translation": "所有$CULTURE$的省份将会增加$VAL$的§Y叛乱风险§! 。",
+        "translation": "所有$CULTURE$的省份将会增加$VAL$的§Y叛乱风险§!。",
         "stage": 5
     },
     {
@@ -3086,7 +3086,7 @@
     {
         "key": "left_trade_company:0",
         "original": "Left Trade Company",
-        "translation": "离开贸易公司",
+        "translation": "脱离贸易公司",
         "stage": 1
     },
     {
@@ -4334,7 +4334,7 @@
     {
         "key": "CONFIRADDSEATINPARLIAMENTITLE:0",
         "original": "Give Seat in $NAME$",
-        "translation": "给予$NAME$的席位",
+        "translation": "给予$NAME$席位",
         "stage": 1
     },
     {
@@ -4358,7 +4358,7 @@
     {
         "key": "CASIP_ALREADYSEAT:0",
         "original": "$NAME|Y$ already have a seat in $PARL$.",
-        "translation": "$NAME|Y$已经拥有$PARL$的席位。",
+        "translation": "$NAME|Y$在$PARL$中已拥有席位。",
         "stage": 1
     },
     {
@@ -9296,7 +9296,7 @@
     {
         "key": "MERCANTILISM_LESS_THAN:1",
         "original": "Mercantilism is less than $VAL|Y$ percent (current $CURRENTVAL|Y$ percent).",
-        "translation": "重商主义小于百分之$VAL|Y$（目前为百分之 $CURRENTVAL|Y$）。",
+        "translation": "重商主义小于$VAL|Y$%（目前为$CURRENTVAL|Y$）。",
         "stage": 1
     },
     {
@@ -12284,7 +12284,7 @@
     {
         "key": "CV_ECONOMY_LOAN_AMOUNT_INTEREST:0",
         "original": "$AMOUNT$¤ with interest §Y$INTEREST$§!%.",
-        "translation": "$AMOUNT$¤伴有§Y$INTEREST$§!%的利息。",
+        "translation": "$AMOUNT$¤及§Y$INTEREST$§!%的利息。",
         "stage": 1
     },
     {
@@ -16628,7 +16628,7 @@
     {
         "key": "UNIT_RELOCATION:0",
         "original": "This unit is relocating to §Y$PROVINCE$§!. The unit will arrive on §Y$DATE$§!.",
-        "translation": "此单位正重新部署至§Y$PROVINCE$§!。它将在§Y$DATE$§!抵达.",
+        "translation": "此单位正重新部署至§Y$PROVINCE$§!。它将在§Y$DATE$§!抵达。",
         "stage": 1
     },
     {
@@ -17270,7 +17270,7 @@
     {
         "key": "OL_BUILDING_CONSTRUCTION:0",
         "original": "Building a $BUILDING$ in $PROV$, expecting to be finished at date $DATE$.",
-        "translation": "在$PROV$建造$BUILDING$，预计完成于$DATE$.",
+        "translation": "在$PROV$建造$BUILDING$，预计完成于$DATE$。",
         "stage": 1
     },
     {
@@ -17564,7 +17564,7 @@
     {
         "key": "CV_REPAY_ALL_LOANS_CONFIRM_TEXT:0",
         "original": "Are you sure you want to repay $NUM$ loans by the total value of $VAL|Y2$¤? This sum includes $FEE|Y2$¤ in remaining interest.",
-        "translation": "你确定要偿还总还款为$VAL|Y2$¤的$NUM$项贷款？该金额包含剩余利息中的$FEE|Y2$¤。",
+        "translation": "你确定要偿还总额度为$VAL|Y2$¤的$NUM$笔贷款？该金额包含剩余利息中的$FEE|Y2$¤。",
         "stage": 1
     },
     {
@@ -17900,7 +17900,7 @@
     {
         "key": "catholic_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂热者试图在由信仰其他宗教的国家所控制的省份里进行叛乱。他们将传播其宗教并打倒一切不信教者。",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -17936,7 +17936,7 @@
     {
         "key": "protestant_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂热者试图在由信仰其他宗教国家控制的省份里进行叛乱。他们将传播其宗教并打倒一切不信教者。",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -17972,7 +17972,7 @@
     {
         "key": "reformed_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂徒会在非国教省份起义，以传播其信仰并打击非信徒.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18008,7 +18008,7 @@
     {
         "key": "orthodox_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂徒会在非国教省份起义，以传播其信仰并打击非信徒.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18044,7 +18044,7 @@
     {
         "key": "sunni_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂徒会在非国教省份起义，以传播其信仰并打击非信徒.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18080,7 +18080,7 @@
     {
         "key": "shiite_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂徒会在非国教省份起义，以传播其信仰并打击非信徒.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18116,7 +18116,7 @@
     {
         "key": "buddhism_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂徒会在非国教省份起义，以传播其信仰并打击非信徒.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18152,7 +18152,7 @@
     {
         "key": "mahayana_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂热分子倾向于在异教国家控制的省份起义。他们试图传播信仰并毁灭所有异教徒。",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18188,7 +18188,7 @@
     {
         "key": "vajrayana_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂热分子倾向于在异教国家控制的省份起义。他们试图传播信仰并毁灭所有异教徒。",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18224,7 +18224,7 @@
     {
         "key": "hinduism_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂徒会在非国教省份起义，以传播其信仰并打击非信徒.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18260,7 +18260,7 @@
     {
         "key": "confucianism_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂徒会在非国教省份起义，以传播其信仰并打击非信徒.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18296,7 +18296,7 @@
     {
         "key": "shinto_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂徒会在非国教省份起义，以传播其信仰并打击非信徒.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18332,7 +18332,7 @@
     {
         "key": "animism_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂徒会在非国教省份起义，以传播其信仰并打击非信徒.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18368,7 +18368,7 @@
     {
         "key": "shamanism_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂徒会在非国教省份起义，以传播其信仰并打击非信徒.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18404,7 +18404,7 @@
     {
         "key": "mwari_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂热者会在国家控制之下信仰非国教的地区进行起义，他们希望传播发扬自己的信仰，并且击败所有不信者。",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18440,7 +18440,7 @@
     {
         "key": "totemism_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂热者倾向于在与国教不同的省份中起义.他们致力于传播信仰,惩罚不信者.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -18968,7 +18968,7 @@
     {
         "key": "DISCIPLINE_VALUE_NEW:0",
         "original": "$COUNTRY$'s Discipline is $VALUE$",
-        "translation": "$COUNTRY$的训练度为 $VALUE$",
+        "translation": "$COUNTRY$的训练度为$VALUE$",
         "stage": 1
     },
     {
@@ -18998,25 +18998,25 @@
     {
         "key": "COLONIST_ARRIVAL_DATE:0",
         "original": "Colonist will arrive in §Y$DAYS$§W days.",
-        "translation": "殖民者将在§Y$DAYS$§W天到达.",
+        "translation": "殖民者将在§Y$DAYS$§W天后到达。",
         "stage": 1
     },
     {
         "key": "COLONIST_WORKING:0",
         "original": "Building Colony.",
-        "translation": "建设殖民地.",
+        "translation": "建设殖民地。",
         "stage": 1
     },
     {
         "key": "COLONYCHANCE:0",
         "original": "Each month your Colonist has a $CHANCE$% chance of increasing the Settler population.",
-        "translation": "每个月你的殖民者都有$CHANCE$%的机会增加定居人口.",
+        "translation": "每个月你的殖民者都有$CHANCE$%的机会增加定居人口。",
         "stage": 1
     },
     {
         "key": "COLONYCOST:0",
         "original": "Sending a Colonist will cost you $COST$.",
-        "translation": "派遣一名殖民者将花费$COST$.",
+        "translation": "派遣一名殖民者将花费$COST$。",
         "stage": 1
     },
     {
@@ -19088,7 +19088,7 @@
     {
         "key": "COLONIST_WORKINGNAME:0",
         "original": "The colonist $NAME$ from $COUNTRY$ is working in $PROVINCE$.",
-        "translation": "来自$COUNTRY$的殖民者$NAME$在$PROVINCE$工作.\\n",
+        "translation": "来自$COUNTRY$的殖民者$NAME$正在$PROVINCE$进行殖民。",
         "stage": 1
     },
     {
@@ -19112,13 +19112,13 @@
     {
         "key": "PW_GROWTH_CHANCE_TIP:0",
         "original": "The Colonist working here has a §Y$VAL$§!% chance of attracting extra Settlers each month.",
-        "translation": "我们的殖民者每个月有§Y$VAL$§!%的机会吸引额外的定居者.",
+        "translation": "我们的殖民者每个月有§Y$VAL$§!%的几率吸引更多的移民。",
         "stage": 1
     },
     {
         "key": "PW_GROWTH_NO_COLONIST:0",
         "original": "No Colonist present to attract new Settlers.",
-        "translation": "没有殖民者吸引新移民.",
+        "translation": "没有殖民者吸引新移民。",
         "stage": 1
     },
     {
@@ -19484,7 +19484,7 @@
     {
         "key": "AGGRESSIVE_EXPANSION_PENALTY_DESC:0",
         "original": "Gives §Y'Aggressive expansion'§! relation penalty towards countries interested in §Y'$PROV$'§!",
-        "translation": "对§Y$PROV$§!有兴趣的国家会获得§Y侵略扩张§!关系惩罚",
+        "translation": "对§Y$PROV$§!有兴趣的国家会获得§Y「侵略性扩张」§!关系惩罚",
         "stage": 1
     },
     {
@@ -19778,7 +19778,7 @@
     {
         "key": "UNIT_LOCATION_TEXT:0",
         "original": "This unit is currently located in $LOCATION$.",
-        "translation": "该单位目前在$LOCATION$.",
+        "translation": "该单位目前位于$LOCATION$。",
         "stage": 1
     },
     {
@@ -19790,25 +19790,25 @@
     {
         "key": "UNIT_MOVEMENT_STANDING:0",
         "original": "This unit is currently not moving.",
-        "translation": "该单位最近没有移动.",
+        "translation": "该单位目前没有移动。",
         "stage": 1
     },
     {
         "key": "UNIT_MOVEMENT_FRIENDLY:0",
         "original": "This unit is moving in friendly land.",
-        "translation": "该单位正在前往友军领土.",
+        "translation": "该单位正在友方领土上移动。",
         "stage": 1
     },
     {
         "key": "UNIT_MOVEMENT_ENEMY:0",
         "original": "This unit is moving in enemy land.",
-        "translation": "该单位正在前往敌方领土.",
+        "translation": "该单位正在敌方领土上移动。",
         "stage": 1
     },
     {
         "key": "UNIT_MOVEMENT_RETREATING:0",
         "original": "This unit is currently retreating.",
-        "translation": "该单位在撤退.",
+        "translation": "该单位正在撤退。",
         "stage": 1
     },
     {
@@ -19838,7 +19838,7 @@
     {
         "key": "UNIT_DESTINATION_TEXT:0",
         "original": "This unit is currently moving to §Y$LOCATION$§!, and expect to be there at $DATE|Y$.",
-        "translation": "该单位正前往§Y$LOCATION$§!，预计将于$DATE|Y$到达。",
+        "translation": "该单位正前往§Y$LOCATION$§!，预计于$DATE|Y$到达。",
         "stage": 1
     },
     {
@@ -19850,7 +19850,7 @@
     {
         "key": "MDEATH_PU_BREAKS_OPINION:0",
         "original": "$SUBJECT|Y$ opinion of $OVERLORD|Y$ is positive",
-        "translation": "§Y$SUBJECT$§!对§Y$OVERLORD$§!的看法是正面的",
+        "translation": "$SUBJECT|Y$对$OVERLORD|Y$的好感度为正",
         "stage": 1
     },
     {
@@ -19910,7 +19910,7 @@
     {
         "key": "MODIFIER_ADDED_SHORT:1",
         "original": "'$WHAT|Y$' $TIME$\\n",
-        "translation": "'$WHAT|Y$' $TIME$\\n",
+        "translation": "「$WHAT|Y$」$TIME$\\n",
         "stage": 1
     },
     {
@@ -20768,19 +20768,19 @@
     {
         "key": "MACRO_NOT_ENOUGH_DUCATS:0",
         "original": "Not enough ducats.",
-        "translation": "没有足够的钱.",
+        "translation": "没有足够的钱。",
         "stage": 1
     },
     {
         "key": "MACRO_NOT_ENOUGH_MONARCH_POINTS:0",
         "original": "Not enough $ICON$.",
-        "translation": "没有足够的$ICON$.",
+        "translation": "没有足够的$ICON$。",
         "stage": 1
     },
     {
         "key": "MACRO_WILL_EXCEED_FORCE_LIMIT_WARNING:0",
         "original": "§RThis construction will take you over your force limit, and incur extra costs.§!",
-        "translation": "§R该建造超过部队上限，会产生额外花费.§!",
+        "translation": "§R该建造将使你超过数量上限，产生额外花费。§!",
         "stage": 1
     },
     {
@@ -20816,7 +20816,7 @@
     {
         "key": "MACRO_EMPTY_CATEGORY:0",
         "original": "It is not possible to build anything from this category right now.",
-        "translation": "现在无法建造该目录下的任何东西",
+        "translation": "现在无法建造该类别的任何东西。",
         "stage": 1
     },
     {
@@ -20846,13 +20846,13 @@
     {
         "key": "MACRO_NOT_CONTROLLER:0",
         "original": "$LAND$ is not the controller of $PROVINCE$.",
-        "translation": "$LAND$不再控制$PROVINCE$.",
+        "translation": "$LAND$不是$PROVINCE$的控制者。",
         "stage": 1
     },
     {
         "key": "MACRO_NOT_OWNER:0",
         "original": "$LAND$ is not the owner of $PROVINCE$.",
-        "translation": "$PROVINCE$不再属于$LAND$。",
+        "translation": "$LAND$不是$PROVINCE$的拥有者。",
         "stage": 1
     },
     {
@@ -20870,7 +20870,7 @@
     {
         "key": "MACRO_UNDER_SIEGE:0",
         "original": "$PROVINCE$ is under siege.",
-        "translation": "$PROVINCE$正在遭到包围.",
+        "translation": "$PROVINCE$正遭受围攻。",
         "stage": 1
     },
     {
@@ -20930,7 +20930,7 @@
     {
         "key": "MACRO_NO_MONEY:0",
         "original": "§RNeed $NEEDED|0$¤ to build.§!",
-        "translation": "§R建立需要 $NEEDED|0$¤。§!",
+        "translation": "§R建立需要$NEEDED|0$¤。§!",
         "stage": 1
     },
     {
@@ -20948,7 +20948,7 @@
     {
         "key": "MACRO_RULES:0",
         "original": "Forbidden by rules.",
-        "translation": "规则禁止.",
+        "translation": "规则禁止。",
         "stage": 1
     },
     {
@@ -20966,13 +20966,13 @@
     {
         "key": "MACRO_HAS_BUILDING:0",
         "original": "§G$BUILDING$ is already built in $PROVINCE$.§!",
-        "translation": "§G$PROVINCE$已经建造$BUILDING$。§!",
+        "translation": "§G$PROVINCE$已经建有$BUILDING$。§!",
         "stage": 1
     },
     {
         "key": "MACRO_WRONG_TECH:2",
         "original": "§Y$BUILDING$ requires $TECH$ ($LEVEL$).§!",
-        "translation": "§Y$BUILDING$需要$TECH$ ($LEVEL$) 。§!",
+        "translation": "§Y$BUILDING$需要$TECH$达到$LEVEL$级。§!",
         "stage": 1
     },
     {
@@ -20984,25 +20984,25 @@
     {
         "key": "MACRO_ALREADY_HIGHLEVEL:0",
         "original": "$PROVINCE$ already has a special building.",
-        "translation": "$PROVINCE$已经有一个特殊建筑.",
+        "translation": "$PROVINCE$已经有一个特殊建筑。",
         "stage": 1
     },
     {
         "key": "MACRO_ALREADY_MANUFACTORY:0",
         "original": "$PROVINCE$ already has a manufactory.",
-        "translation": "$PROVINCE$已经有一个工厂.",
+        "translation": "$PROVINCE$已经有一个工厂。",
         "stage": 1
     },
     {
         "key": "MACRO_ONCE_IN_COUNTRY:0",
         "original": "$BUILDING$ can only be built once in each country.",
-        "translation": "$BUILDING$在每个国家只能建造一次.",
+        "translation": "每个国家只能建造一次$BUILDING$。",
         "stage": 1
     },
     {
         "key": "MACRO_REQUIREMENT_NOT_FULFILLED:0",
         "original": "Requirements for $BUILDING$ are not fulfilled for this province.",
-        "translation": "该省份未能完全满足$BUILDING$的建造要求.",
+        "translation": "该省份未能完全满足$BUILDING$的建造要求。",
         "stage": 1
     },
     {
@@ -21014,7 +21014,7 @@
     {
         "key": "MACRO_CANCEL:0",
         "original": "Click to cancel.",
-        "translation": "点击取消.",
+        "translation": "点击取消。",
         "stage": 1
     },
     {
@@ -21044,13 +21044,13 @@
     {
         "key": "MACRO_MARCH_REQ:0",
         "original": "Can only be built in a border province.",
-        "translation": "只能在边境省份建造.",
+        "translation": "只能在边境省份建造。",
         "stage": 1
     },
     {
         "key": "MACRO_ADMIRALTY_REQ:0",
         "original": "Can only be built in a coastal province.",
-        "translation": "只能在沿海省份建造.",
+        "translation": "只能在沿海省份建造。",
         "stage": 1
     },
     {
@@ -21062,13 +21062,13 @@
     {
         "key": "MACRO_PALACE_REQ:0",
         "original": "Can only be built in the capital.",
-        "translation": "只能在首都建造.",
+        "translation": "只能在首都建造。",
         "stage": 1
     },
     {
         "key": "MACRO_INCREASE_TRADE_VALUE:0",
         "original": "(will increase Trade Value by $VAL|+G2$)",
-        "translation": "（将通过$VAL|+G2$增加贸易价值）",
+        "translation": "（将使贸易价值增加$VAL|+G2$）",
         "stage": 1
     },
     {
@@ -21080,43 +21080,43 @@
     {
         "key": "MACRO_MAINTENANCE_FORCE_LIMIT_WARN:0",
         "original": "§RBuilding this will exceed our force limit!§!",
-        "translation": "§R建造该单位超过我国部队上限!§!",
+        "translation": "§R建造这个单位将超过我国部队上限！§!",
         "stage": 1
     },
     {
         "key": "MACRO_INCREASE_MANPOWER_DESC:0",
         "original": "This building will increase manpower by $VAL$",
-        "translation": "此建筑增加人力$VAL$",
+        "translation": "此建筑将使人力增加$VAL$",
         "stage": 1
     },
     {
         "key": "MACRO_INCREASE_INCOME_DESC:0",
         "original": "This building will increase monthly income by $VAL$¤",
-        "translation": "此建筑提高月收入$VAL$¤",
+        "translation": "此建筑将使月收入增加$VAL$¤",
         "stage": 1
     },
     {
         "key": "MACRO_INCREASE_PRODUCTION_DESC:0",
         "original": "This building will increase production by $VAL$",
-        "translation": "此建筑发展生产力$VAL$",
+        "translation": "此建筑将使生产力增加$VAL$",
         "stage": 1
     },
     {
         "key": "MACRO_INCREASE_TRADE_VALUE_DESC:0",
         "original": "This building will increase trade value by $VAL$",
-        "translation": "此建筑提高贸易价值$VAL$",
+        "translation": "此建筑将使贸易价值增加$VAL$",
         "stage": 1
     },
     {
         "key": "MACRO_INCREASE_TRADE_POWER_DESC:0",
         "original": "This building will increase trade power by $VAL$",
-        "translation": "此建筑增加贸易竞争力$VAL$",
+        "translation": "此建筑将使贸易竞争力增加$VAL$",
         "stage": 1
     },
     {
         "key": "MACRO_INCREASE_TAX_DESC:0",
         "original": "This building will increase tax: $VAL$",
-        "translation": "此建筑将提高税收：$VAL$",
+        "translation": "此建筑将使税收增加：$VAL$",
         "stage": 1
     },
     {
@@ -21128,13 +21128,13 @@
     {
         "key": "MACRO_BUILDING_ALL_BUILT:0",
         "original": "This building is already built in all possible provinces.",
-        "translation": "此建筑已在所有可能省份建造.",
+        "translation": "此建筑已在所有可能的省份上建造。",
         "stage": 1
     },
     {
         "key": "MACRO_BUILDING_CANT_BUILD:0",
         "original": "You don't have the technology for this building yet.",
-        "translation": "你没有此建筑所需的科技.",
+        "translation": "你没有此建筑所需的科技。",
         "stage": 1
     },
     {
@@ -21170,19 +21170,19 @@
     {
         "key": "BUILDING_BLOCKED_BY_MISSIONARY:0",
         "original": "Can't build while missionary is active in the province.",
-        "translation": "不能在传教时建造建筑.",
+        "translation": "不能在传教时建造建筑。",
         "stage": 1
     },
     {
         "key": "BUILDING_BUILT:0",
         "original": "§GThis building has been built already.§!",
-        "translation": "§G已有该建筑.§!",
+        "translation": "§G已有该建筑。§!",
         "stage": 1
     },
     {
         "key": "BUILDING_BEING_BUILT:0",
         "original": "§GThis building is already being constructed.§!",
-        "translation": "§G该建筑建造中.§!",
+        "translation": "§G该建筑正在建造中。§!",
         "stage": 1
     },
     {
@@ -21194,7 +21194,7 @@
     {
         "key": "CANT_BUILD_MERC_SIEGE:0",
         "original": "You cannot hire mercenaries in provinces that are under siege.",
-        "translation": "不能在被围攻省份招募雇佣兵.",
+        "translation": "不能在被围攻的省份招募雇佣兵。",
         "stage": 1
     },
     {
@@ -22994,8 +22994,8 @@
     {
         "key": "desc_colonial_assembly:0",
         "original": "Much of the legislative power over taxes and governmental budgets has been moved into the colonies.",
-        "translation": "大多税收与预算法权已交予殖民地.",
-        "stage": 5
+        "translation": "大部分有关税收与政府预算的立法权已交予殖民地。",
+        "stage": 1
     },
     {
         "key": "remains_governor_from:0",
@@ -27470,7 +27470,7 @@
     {
         "key": "RELIGION_CANT_CONVERT:0",
         "original": "We expect to be able to convert at $DATE|Y$.\\n",
-        "translation": "我们预计在$DATE|Y$能使当地皈依\\n",
+        "translation": "我们预计在$DATE|Y$能使当地皈依。\\n",
         "stage": 1
     },
     {
@@ -27488,7 +27488,7 @@
     {
         "key": "OFFER_FLEET_BASING_RIGHT:0",
         "original": "This will allow $RECIPIENT$ fleets to be based in $ACTOR$ ports and will also extend $RECIPIENT$ trading range.",
-        "translation": "这将允许$RECIPIENT$的舰队驻扎在$ACTOR$的港口里并将延伸$RECIPIENT$的贸易范围",
+        "translation": "这将允许$RECIPIENT$的舰队驻扎在$ACTOR$的港口里并将扩大$RECIPIENT$的贸易范围。",
         "stage": 1
     },
     {
@@ -28082,7 +28082,7 @@
     {
         "key": "LOOT_RECOVERY_DATE:0",
         "original": "This province was last looted on §Y$LAST_LOOT_DATE$§!. It will start recovering by §G$PERCENTAGE$%§! monthly on §Y$FUTURE_LOOT_DATE$§!, unless it is looted again before that date.",
-        "translation": "该省份最近在§Y$LAST_LOOT_DATE$§!被掠夺。它将每月恢复§G$PERCENTAGE$%§!从§Y$FUTURE_LOOT_DATE$§!开始,除非它在该日期前再次被掠夺",
+        "translation": "该省份最近在§Y$LAST_LOOT_DATE$§!被掠夺。将从§Y$FUTURE_LOOT_DATE$§!开始每月恢复§G$PERCENTAGE$%§!，除非在此前再次被掠夺。",
         "stage": 1
     },
     {
@@ -28472,13 +28472,13 @@
     {
         "key": "CONFIRM_EXPLORE_SEA:0",
         "original": "Send the fleet to explore the $REGIONNAME$ region.",
-        "translation": "派遣该舰队在$REGIONNAME$地区探索",
+        "translation": "派遣该舰队在$REGIONNAME$地区探索。",
         "stage": 1
     },
     {
         "key": "CONFIRM_EXPLORE_COAST:0",
         "original": "Send the fleet to explore the $REGIONNAME$ (coast) region.",
-        "translation": "派遣该舰队在$REGIONNAME$(海岸)地区探索",
+        "translation": "派遣该舰队在$REGIONNAME$（沿海）地区探索。",
         "stage": 1
     },
     {
@@ -28658,8 +28658,8 @@
     {
         "key": "CAPTURED_SHIPS:0",
         "original": "Captured enemy ships: §Y$VAL$§!",
-        "translation": "俘获敌方舰船： §Y$VAL$§!",
-        "stage": 5
+        "translation": "俘获敌方舰船：§Y$VAL$§!",
+        "stage": 1
     },
     {
         "key": "CAPTURED_SHIPS_DESC:0",
@@ -29210,7 +29210,7 @@
     {
         "key": "COSSACKS_ABILITY_DO_IT_COSSACKS:0",
         "original": "By using $VAL|Y$ gathered power for '$NAME|Y$', we will impact war exhaustion by $CHANGE$ and raise $UNITS|Y$ Cossacks Regiments in our capital. ",
-        "translation": "通过收集 '$NAME|Y$' $VAL|Y$  , 我们能影响厌战情绪 $CHANGE$ 并且增加首都中哥萨克军团 $UNITS|Y$ 个。",
+        "translation": "使用$VAL|Y$点数选择「$NAME|Y$」将会使厌战度改变$CHANGE$并在你的首都招募$UNITS|Y$个哥萨克军团。",
         "stage": 1
     },
     {
@@ -29786,8 +29786,8 @@
     {
         "key": "PIETY_BAD_WAR_EFF:3",
         "original": "Declaring war on a fellow $REL$ will move us towards Mysticism by §Y$VAL$§!.",
-        "translation": "向$REL$同胞宣战将提高§Y$VAL$§!神秘主义。",
-        "stage": 5
+        "translation": "向$REL$国家宣战将提高§Y$VAL$§!神秘主义。",
+        "stage": 1
     },
     {
         "key": "DharmaMuslimUnitPackDLC:0",

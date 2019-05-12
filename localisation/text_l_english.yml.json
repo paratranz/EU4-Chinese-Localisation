@@ -3998,7 +3998,7 @@
     {
         "key": "TRUCEWITHENDS:0",
         "original": "Truce with $COUNTRY$ ends in §Y$DATE$§!.",
-        "translation": "和 $COUNTRY$ 的停战协议将于 §Y$DATE$§! 到期.",
+        "translation": "和$COUNTRY$的停战协议将于§Y$DATE$§!结束。",
         "stage": 1
     },
     {
@@ -5594,7 +5594,7 @@
     {
         "key": "REPAYBANKLOAN_DESC:0",
         "original": "Sire, Our National Bank Loan of §Y$AMOUNT$§W ducats has expired.\\nWe can repay the loan immediately in its full amount.\\nOr we may choose to extend this loan for a period of §Y5§W years.\\nExtending the loan will increase our inflation by §R+$INF$%§W.\\nWe will also have to continue paying the interest of §Y$INT$%§W.",
-        "translation": "大人，我们从国家银行贷款的 $AMOUNT$ 金币已经到期.",
+        "translation": "大人，我们从国家银行借贷的§Y$AMOUNT$§W金币已经到期。\\n我们可以立即偿还所有贷款。\\n也可以选择将这笔贷款延期§Y5§W年。\\n延长贷款我们的通货膨胀率将提高§R+$INF$%§W。\\n同时我们也得继续支付§Y$INT$%§W的利息。",
         "stage": 1
     },
     {
@@ -6339,60 +6339,60 @@
         "key": "RMTITLE:0",
         "original": "Royal Marriage",
         "translation": "王室联姻",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ENROUTE:0",
         "original": "We have recently sent a diplomat, so we cannot send another until §Y$DATE$§!.",
-        "translation": "最近已经派遣过外交家，所以直到 §Y$DATE$§!我们才能再次派遣",
-        "stage": 1
+        "translation": "最近已经派遣过外交家，所以直到§Y$DATE$§!我们才能再次派遣。",
+        "stage": 5
     },
     {
         "key": "SPY_COOLDOWN:0",
         "original": "A spy of ours was recently discovered in their country, so we cannot send another until §Y$DATE$§!.",
-        "translation": "最近我们派出的一个潜伏在这个国家的间谍被发现了，所以我们在 §Y$DATE$§!之前不能再派出另一个.",
+        "translation": "最近我们对该国派出的一个间谍被发现了，所以在§Y$DATE$§!之前不能再此派遣。",
         "stage": 1
     },
     {
         "key": "SUBJECT:0",
         "original": "We are a subject country. It is not up to us.",
-        "translation": "我们是一个属国，这不由我们决定",
+        "translation": "我们是一个属国，无法决定。",
         "stage": 1
     },
     {
         "key": "WE_TRUCE_WITH_OVERLORD:0",
         "original": "We cannot ask them while we have a truce with $OVERLORD$.",
-        "translation": "由于我们与$OVERLORD$的停战协议，我们不能提出要求.",
+        "translation": "由于我们与$OVERLORD$有停战协议，无法提出要求。",
         "stage": 1
     },
     {
         "key": "THEY_TRUCE_WITH_OVERLORD:0",
         "original": "We cannot ask them while they have a truce with $OVERLORD$.",
-        "translation": "由于他们与$OVERLORD$的停战协议，我们不能提出要求.",
+        "translation": "由于他们与$OVERLORD$有停战协议，我们无法提出要求。",
         "stage": 1
     },
     {
         "key": "CANT_ALLY_OVERLORD:0",
         "original": "Subjects can't ally their Overlord.",
         "translation": "属国不能与宗主国结盟。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CANT_RIVAL_OVERLORD:0",
         "original": "Subjects can't rival their Overlord.",
-        "translation": "属国不能指定宗主国为宿敌.",
-        "stage": 1
+        "translation": "属国不能指定宗主国为宿敌。",
+        "stage": 5
     },
     {
         "key": "CANT_ALLY_WE_TRUCE_OVERLORD:0",
         "original": "We have a truce with $OVERLORD$.",
-        "translation": "我们与$OVERLORD$处在停战协议之中.",
+        "translation": "我们与$OVERLORD$有停战协议。",
         "stage": 1
     },
     {
         "key": "CANT_ALLY_THEY_TRUCE_OVERLORD:0",
         "original": "They have a truce with $OVERLORD$.",
-        "translation": "他们与$OVERLORD$处在停战协议之中.",
+        "translation": "他们与$OVERLORD$有停战协议。",
         "stage": 1
     },
     {
@@ -6404,32 +6404,32 @@
     {
         "key": "MARPENDING:0",
         "original": "We are awaiting their reply.",
-        "translation": "我们正在等待他们的答复",
+        "translation": "我们正在等待他们的答复。",
         "stage": 1
     },
     {
         "key": "WARTITLE:0",
         "original": "Declare War",
         "translation": "宣战",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "WARREQDESC:0",
         "original": "Do you wish to declare war against $COUNTRY$",
-        "translation": "你想向 $COUNTRY$ 宣战吗？",
+        "translation": "你想要向$COUNTRY$宣战吗？",
         "stage": 1
     },
     {
         "key": "PEACETITLE:0",
         "original": "Sue for Peace",
         "translation": "提议和平",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "NODIPLOMATS:0",
         "original": "You have no diplomats to send.",
-        "translation": "你没有外交官可供派遣",
-        "stage": 1
+        "translation": "你没有外交官可供派遣。",
+        "stage": 5
     },
     {
         "key": "BREAKRMTITLE:0",
@@ -6459,25 +6459,25 @@
         "key": "ASKSUPPORTINDEPENDENCETITLE:0",
         "original": "Ask to Support Independence",
         "translation": "请求支持独立",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "OFFERSUPPORTINDEPENDENCETITLE:0",
         "original": "Support Independence",
         "translation": "支持独立",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CANCELASKSUPPORTINDEPENDENCETITLE:0",
         "original": "End Support for Independence",
         "translation": "终止支持独立",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "CANCELOFFERSUPPORTINDEPENDENCETITLE:0",
         "original": "End Support for Independence",
         "translation": "终止支持独立",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "ASKSUPPORTINDEPENDENCENEWDESC:0",
@@ -7256,7 +7256,7 @@
     {
         "key": "CONFIRM_DISBAND_DESC:0",
         "original": "This will remove this unit completely from the game, and you will no longer have to pay any maintenance costs for it.",
-        "translation": "这将从游戏里完全移除这个单位，同样你也不必再为它支付维护费了.",
+        "translation": "这将从游戏里完全移除这个单位，同样你也不必再为它支付维护费了。",
         "stage": 1
     },
     {
@@ -7268,7 +7268,7 @@
     {
         "key": "CONFIRM_UPGRADE_FLEET_DESC:0",
         "original": "This will upgrade only the ships that can be upgraded and set the morale to zero.",
-        "translation": "可升级的船只将会被升级,它们的士气将会归零.",
+        "translation": "可升级的船只将会被升级，它们的士气将会归零。",
         "stage": 1
     },
     {
@@ -9152,7 +9152,7 @@
     {
         "key": "COUNTRY_MORALE_TECH:0",
         "original": "From technology",
-        "translation": "科技：",
+        "translation": "科技",
         "stage": 1
     },
     {
@@ -11444,7 +11444,7 @@
     {
         "key": "alert_troops_in_foreign_territory_delayed:0",
         "original": "In $LIST$.",
-        "translation": "在$LIST$。",
+        "translation": "位于$LIST$。",
         "stage": 1
     },
     {
@@ -11570,43 +11570,43 @@
     {
         "key": "incite_troop_desertion_desc:0",
         "original": "Infiltrate the enemy's forces in an attempt to convince some of the troops to desert.",
-        "translation": "渗入敌军并试图使一些队伍离开他们的军队.",
+        "translation": "渗入敌军并试图使一些队伍离开他们的军队。",
         "stage": 1
     },
     {
         "key": "assassinate_advisor_desc:0",
         "original": "Infiltrate the enemy court in the hopes of assassinating one of their advisors.",
-        "translation": "渗入敌人的宫廷刺杀一位顾问.",
+        "translation": "渗入敌人的宫廷刺杀一位顾问。",
         "stage": 1
     },
     {
         "key": "sabotage_reputation_desc:0",
         "original": "Spread lies and false rumors about our enemy in an attempt to damage their reputation.",
-        "translation": "散播关于敌人的谣言和假消息可以诋毁他们的威望",
+        "translation": "散播关于敌人的谣言和假消息以损害他们的名誉。",
         "stage": 1
     },
     {
         "key": "incite_against_merchant_desc:0",
         "original": "Incite a number of quarrels and disagreements in an attempt to disrupt the trade efficiency of our enemies.",
-        "translation": "煽动敌人发生争吵和分歧，以减少他们的商业效率.",
+        "translation": "煽动敌人发生争吵和分歧，以降低他们的贸易效率。",
         "stage": 1
     },
     {
         "key": "spy_ring_infiltration_desc:0",
         "original": "Infiltrate the enemy's spy force in an attempt to jumble information and make sure their government doesn't receive any sensitive intelligence.",
-        "translation": "渗入敌人的间谍网混淆视听，并阻止敌国得到准确情报.",
+        "translation": "渗入敌人的间谍网混淆视听，阻止敌国得到准确情报。",
         "stage": 1
     },
     {
         "key": "support_revolt_desc:0",
         "original": "Secretly align with the rebels that are tormenting our enemy, thus enabling us to lend financial help without our nation being officially associated with the ongoing revolt.",
-        "translation": "秘密资助敌国境内的叛乱军，在不进行公开战争的情况下打击对手.",
+        "translation": "秘密资助敌国境内的叛乱军，在不进行公开战争的情况下打击对手。",
         "stage": 1
     },
     {
         "key": "comission_privateer_desc:0",
         "original": "Recruit a well known pirate. We will put him to good use when the right moment presents itself.",
-        "translation": "招募一名臭名昭著的私掠者，让他在关键的时刻为我们服务.",
+        "translation": "招募一名臭名昭著的私掠者，让他在关键的时刻为我们服务。",
         "stage": 1
     },
     {
@@ -11660,13 +11660,13 @@
     {
         "key": "BUILDING_YEAR:0",
         "original": "Built in §Y$DATE$§!.",
-        "translation": "建造时间§Y$DATE$§W",
+        "translation": "建于§Y$DATE$§!。",
         "stage": 1
     },
     {
         "key": "BEFORE_START:0",
         "original": "Before the game's timeframe.",
-        "translation": "在游戏的时间范围前",
+        "translation": "在游戏开始年代前。",
         "stage": 1
     },
     {
@@ -11684,37 +11684,37 @@
     {
         "key": "MIL_CONST_TIP:0",
         "original": "A §Y$TYPE$§! will be fielded here on §Y$DATE$§!.",
-        "translation": "§Y$TYPE$§W将在§Y$DATE$§W完成.",
+        "translation": "§Y$TYPE$§!将于§Y$DATE$§!完成。",
         "stage": 1
     },
     {
         "key": "BUILD_CONST_TIP:0",
         "original": "A §Y$BUILDING$§! will be finished here in §Y$DATE$§!.",
-        "translation": "§Y$BUILDING$§W将在§Y$DATE$§W完成.",
+        "translation": "§Y$BUILDING$§!将于§Y$DATE$§!完成。",
         "stage": 1
     },
     {
         "key": "BUILD_CONST_TIP_OTHER:0",
         "original": "A §Y$BUILDING$§! built by §Y$COUNTRY$§! will be finished here in §Y$DATE$§!.",
-        "translation": "§Y$BUILDING$§W（由§Y$COUNTRY$§!建造）将于§Y$DATE$§W完成.",
+        "translation": "§Y$COUNTRY$§!投建的§Y$BUILDING$§!将于§Y$DATE$§!完成。",
         "stage": 1
     },
     {
         "key": "COL_CONST_TIP:0",
         "original": "A Colonist will arrive here on §Y$DATE$§!. His chance of success is §Y$CHANCE$ %§!.",
-        "translation": "一个殖民队将在§Y$DATE$§W到达. 成功几率为§Y$CHANCE$ %§W",
+        "translation": "一支殖民队将在§Y$DATE$§!到达。其成功率为§Y$CHANCE$%§!。",
         "stage": 1
     },
     {
         "key": "PORT:0",
         "original": "This port provides a safe haven for ships.",
-        "translation": "这个港口为船只提供了避风港.",
+        "translation": "这个港口为船只提供了一个安全的避风港。",
         "stage": 1
     },
     {
         "key": "WARTAX_TIP:1",
         "original": "Use §Y$COST$§!£mil to Raise War Taxes for §Y$DURATION$§! years",
-        "translation": "开征战争税",
+        "translation": "使用§Y$COST$§!£mil 征收§Y$DURATION$§!年的战争税",
         "stage": 1
     },
     {
@@ -11732,7 +11732,7 @@
     {
         "key": "NO_ADVISORS:0",
         "original": "No Advisors available.",
-        "translation": "无顾问.",
+        "translation": "没有可用的顾问。",
         "stage": 1
     },
     {
@@ -11744,13 +11744,13 @@
     {
         "key": "DOMESTIC_INCDEC:0",
         "original": "Moving in this direction will influence your nation as follows:",
-        "translation": "选择这一边会产生下列影响:",
+        "translation": "选择这一边将给贵国带来下列影响：",
         "stage": 1
     },
     {
         "key": "DOMESTIC_NEUTRAL:0",
         "original": "The next step in this direction will neutralize the effects of this policy.",
-        "translation": "继续现有举措将使此政策失效",
+        "translation": "继续现有举措将使此政策失效。",
         "stage": 1
     },
     {
@@ -11762,19 +11762,19 @@
     {
         "key": "CAN_NOT_DUE_TO_ISATWAR:0",
         "original": "You cannot ask for $WHAT$ when you are at war.",
-        "translation": "战时无法要求$WHAT$",
+        "translation": "处于战争时无法要求$WHAT$。",
         "stage": 1
     },
     {
         "key": "CAN_NOT_DUE_TO_THEYATWAR:0",
         "original": "You cannot ask for $WHAT$ when they are at war.",
-        "translation": "当他们处于战时你无法要求$WHAT$。",
+        "translation": "当他们处于战争时无法要求$WHAT$。",
         "stage": 1
     },
     {
         "key": "CAN_NOT_DUE_TO_CAPITAL_TAKEN:0",
         "original": "You cannot ask for $WHAT$ while they don't control their capital.",
-        "translation": "当他们没有控制首都时，你不能要求 $WHAT$.",
+        "translation": "当他们没有控制首都时，你不能要求$WHAT$。",
         "stage": 1
     },
     {
@@ -11792,7 +11792,7 @@
     {
         "key": "TRANSERING_SAVE:0",
         "original": "Savegame transfer started...",
-        "translation": "游戏存档转换开始",
+        "translation": "游戏存档转换开始……",
         "stage": 1
     },
     {
@@ -11810,7 +11810,7 @@
     {
         "key": "LOADING_LOCAL_SAVE:0",
         "original": "Loading local savegame copy...",
-        "translation": "读取本地存档",
+        "translation": "读取本地存档……",
         "stage": 1
     },
     {
@@ -13106,25 +13106,25 @@
     {
         "key": "PLR_DISC:0",
         "original": "Player §Y$NAME$§W left the game.",
-        "translation": "§Y$NAME$§W离开了游戏",
+        "translation": "§Y$NAME$§W离开了游戏。",
         "stage": 1
     },
     {
         "key": "PLR_CONNECT:0",
         "original": "Player §Y$NAME$§W joined the game.",
-        "translation": "§Y$NAME$§W加入游戏",
+        "translation": "§Y$NAME$§W加入游戏。",
         "stage": 1
     },
     {
         "key": "REVERT_SAVE_CAL:0",
         "original": "Reverting to default database.",
-        "translation": "恢复到默认数据库",
+        "translation": "恢复到默认数据库。",
         "stage": 1
     },
     {
         "key": "SAVE_TRANSFER_DONE:0",
         "original": "Savegame transfer done.",
-        "translation": "游戏存档转换完成",
+        "translation": "游戏存档转换完成。",
         "stage": 1
     },
     {
@@ -13214,7 +13214,7 @@
     {
         "key": "ICON_PROVSALE:0",
         "original": "An offer to §YSell a Province§W",
-        "translation": "提议§Y卖出领土§W",
+        "translation": "提议§Y出售省份§W",
         "stage": 1
     },
     {
@@ -13298,7 +13298,7 @@
     {
         "key": "HALFYEAR:0",
         "original": "Half Year",
-        "translation": "每六个月",
+        "translation": "每半年",
         "stage": 1
     },
     {
@@ -13322,13 +13322,13 @@
     {
         "key": "OFFER_LOAN_DESCR:0",
         "original": "Offer a loan.",
-        "translation": "提供一笔贷款",
+        "translation": "提供一笔贷款。",
         "stage": 1
     },
     {
         "key": "OFFER_LOAN_HAS_WAR:0",
         "original": "We can't loan money to a nation with whom we are at war.",
-        "translation": "我们不能贷款给一个和我们处于战争中的国家",
+        "translation": "我们不能贷款给一个和我们处于战争中的国家。",
         "stage": 1
     },
     {
@@ -13400,7 +13400,7 @@
     {
         "key": "SELL_PROV_OWN:0",
         "original": "You cannot sell a province that you do not control.",
-        "translation": "你不能出售不在你控制下的省份.",
+        "translation": "你不能出售不在你控制下的省份。",
         "stage": 1
     },
     {
@@ -14186,7 +14186,7 @@
     {
         "key": "OL_COLONISTS_DESC:0",
         "original": "Our Colonist has §Y$CHANCE$§W% chance of success. The Colony currently has §Y$NUM$§W Settlers and §Y$NATIVES$§W natives living there.",
-        "translation": "我们的殖民者有§Y$CHANCE$§W%的成功率.当前殖民地生活着§Y$NUM$§W个移民和§Y$NATIVES$§W个土著人",
+        "translation": "我们的殖民者有§Y$CHANCE$§W%的成功率。殖民地目前生活着§Y$NUM$§W个移民和§Y$NATIVES$§W个原住民。",
         "stage": 1
     },
     {
@@ -15566,13 +15566,13 @@
     {
         "key": "NOMANPOWER:0",
         "original": "We need at least $NUMBER|Y$ able bodied men (§GManpower§!) to build this unit.",
-        "translation": "建立这支部队需要1000后备兵员",
+        "translation": "建立这个单位需要至少$NUMBER|Y$壮丁（§G人力§!）。",
         "stage": 1
     },
     {
         "key": "NOSAILORS:0",
         "original": "We need at least $NUMBER|Y$ able bodied men (§GSailors§!) to build this unit.",
-        "translation": "至少需要$NUMBER|Y$可用人员(§G水手§!)以建造本单位.",
+        "translation": "建立这个单位需要至少$NUMBER|Y$壮丁（§G海员§!）。",
         "stage": 1
     },
     {
@@ -15584,13 +15584,13 @@
     {
         "key": "MOVEMENT_LOCKED:0",
         "original": "This army has moved more than §Y$AMT$%§! of the distance to the next province, and can no longer be stopped or redirected.",
-        "translation": "这支军队已经移动了超过 §Y$AMT$%§! 的距离到相邻的省份，已经不能撤回或者转向.",
+        "translation": "这支军队已经向下一个省移动了§Y$AMT$%§!以上的距离，不能撤回或转向。",
         "stage": 1
     },
     {
         "key": "MOVEMENT_LOCKED_SPECIFIC:0",
         "original": "§Y$UNITNAME$§! has moved more than §Y$AMT$%§! of the distance to the next province, and can no longer be stopped or redirected.",
-        "translation": "§Y$UNITNAME$§! 已经移动了超过 §Y$AMT$%§! 的距离到相邻的省份，已经不能撤回或者转向.",
+        "translation": "§Y$UNITNAME$§!已经向下一个省移动了§Y$AMT$%§!以上的距离，不能撤回或转向。",
         "stage": 1
     },
     {
@@ -15674,25 +15674,25 @@
     {
         "key": "MS_CONNECTION_LOST:0",
         "original": "Connection Lost.",
-        "translation": "连接丢失.",
+        "translation": "失去连接。",
         "stage": 1
     },
     {
         "key": "UNDER_SIEGE:0",
         "original": "Province is under siege!",
-        "translation": "省份被包围!",
+        "translation": "省份正遭受围攻！",
         "stage": 1
     },
     {
         "key": "OCCUPIEDBY:0",
         "original": "Province is occupied by $NATION$!",
-        "translation": "省份已经被 $NATION$ 占领!",
+        "translation": "省份已被$NATION$占领！",
         "stage": 1
     },
     {
         "key": "OL_UNIT_MOVING:0",
         "original": "Moving towards §Y$TARGET$§W.",
-        "translation": "向 §Y$TARGET$§W移动.",
+        "translation": "向§Y$TARGET$§W移动。",
         "stage": 1
     },
     {
@@ -15992,7 +15992,7 @@
     {
         "key": "MS_CONNECTION_FAILED:0",
         "original": "Connection failed!",
-        "translation": "连接失败!",
+        "translation": "连接失败！",
         "stage": 1
     },
     {
@@ -16202,13 +16202,13 @@
     {
         "key": "PP_CHARGE:0",
         "original": "charge!",
-        "translation": "冲锋!",
+        "translation": "冲锋！",
         "stage": 1
     },
     {
         "key": "PP_FEROCITY:0",
         "original": "Ferocity:",
-        "translation": "野蛮度",
+        "translation": "野蛮度：",
         "stage": 1
     },
     {
@@ -16346,7 +16346,7 @@
     {
         "key": "CALC_PATHS:0",
         "original": "Calculating paths...\\nThis may take several minutes.",
-        "translation": "计算路径\\n这将需要几分钟",
+        "translation": "计算路径\\n这可能需要几分钟。",
         "stage": 1
     },
     {
@@ -16520,25 +16520,25 @@
     {
         "key": "cb_horde_conquest_desc:0",
         "original": "Our tribe is mightier than their tribe!",
-        "translation": "我们的部落更它们更加强大!",
+        "translation": "我们的部落更它们更加强大！",
         "stage": 1
     },
     {
         "key": "LAG_PAUSE:0",
         "original": "$PLAYER$ is lagging behind, pausing game.",
-        "translation": "$PLAYER$ 处于延迟，游戏暂停",
+        "translation": "$PLAYER$处于延迟，游戏暂停。",
         "stage": 1
     },
     {
         "key": "LAG_DECREASE_SPEED:0",
         "original": "$PLAYER$ is lagging behind, decreasing speed.",
-        "translation": "$PLAYER$ 处于延迟，降低速度.",
+        "translation": "$PLAYER$处于延迟，降低速度。",
         "stage": 1
     },
     {
         "key": "PAUSED_BY:0",
         "original": "§Y$PLAYER$§W paused the game.",
-        "translation": "§Y$PLAYER$§W暂停.",
+        "translation": "§Y$PLAYER$§W暂停了游戏。",
         "stage": 1
     },
     {
@@ -16550,19 +16550,19 @@
     {
         "key": "GETTING_TRIBUTE:0",
         "original": "Getting tribute from $LIST$.",
-        "translation": "  $LIST$ 向我国进贡.",
+        "translation": "$LIST$向我国进贡。",
         "stage": 1
     },
     {
         "key": "PAYING_TRIBUTE_TO:0",
         "original": "Paying tribute to $LIST$.",
-        "translation": "我国向 $LIST$ 进贡.",
+        "translation": "我国向$LIST$进贡。",
         "stage": 1
     },
     {
         "key": "PLAYER_WAS_ANNEXED:0",
         "original": "§Y$COUNTRY$§W ceased to exist!",
-        "translation": "§Y$COUNTRY$§W不复存在!",
+        "translation": "§Y$COUNTRY$§W不复存在！",
         "stage": 1
     },
     {
@@ -16616,7 +16616,7 @@
     {
         "key": "ATWAR_HORDE:0",
         "original": "Have war between civilized and nomads.",
-        "translation": "游牧侵扰.",
+        "translation": "游牧侵扰。",
         "stage": 1
     },
     {
@@ -16712,7 +16712,7 @@
     {
         "key": "CREATE_NATIVE:0",
         "original": "$SIZE$ tribe(s) of hostile natives will appear in $WHERE$.\\n",
-        "translation": "$SIZE$名怀有敌意的的原住民出现于$WHERE$. \\n",
+        "translation": "$SIZE$名怀有敌意的的原住民出现于$WHERE$。 \\n",
         "stage": 1
     },
     {
@@ -16820,7 +16820,7 @@
     {
         "key": "CORE_HAS_CONTROL:0",
         "original": "They have control of the province.",
-        "translation": "该国拥有该省份的控制权",
+        "translation": "他们控制着这个省份。",
         "stage": 1
     },
     {
@@ -18957,7 +18957,7 @@
         "key": "hindustan_nation_hindusthani_title:0",
         "original": "Form Hindustan",
         "translation": "成立印度斯坦",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "hindustan_nation_hindusthani_desc:0",
@@ -18993,25 +18993,25 @@
         "key": "BHA:0",
         "original": "Bharat",
         "translation": "婆罗多",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "BHA_ADJ:0",
         "original": "Bharathi",
         "translation": "婆罗多",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "BHA_ADJ2:0",
         "original": "Bharathi",
         "translation": "婆罗多",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "bharat_nation_dravidian_title:0",
         "original": "Form Bharat",
         "translation": "成立婆罗多",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "bharat_nation_dravidian_desc:0",
@@ -19796,7 +19796,7 @@
     {
         "key": "OL_SETTLERS_DESC:0",
         "original": "Our Colonist has §Y$CHANCE$§W% chance of success. The Settlement currently has §Y$NUM$§W Colonists.",
-        "translation": "我们的殖民队有 §Y$CHANCE$§W% 机会成功.定居点当前拥有 §Y$NUM$§W 殖民者.",
+        "translation": "我们的殖民队有§Y$CHANCE$§W%的成功率。定居点当前拥有§Y$NUM$§W殖民者。",
         "stage": 1
     },
     {
@@ -19964,7 +19964,7 @@
     {
         "key": "SERVER_LOST_DESC:0",
         "original": "The server was lost. You cannot continue without the host, the game will end.",
-        "translation": "主机的连接已中断，游戏即将结束.",
+        "translation": "主机的连接已中断，游戏即将结束。",
         "stage": 1
     },
     {
@@ -20432,7 +20432,7 @@
     {
         "key": "EXPIRES_ON_RULER_DEATH_OR_DATE:0",
         "original": "Expires on $DATE|Y$, or at §Yruler death§!.",
-        "translation": "于$DATE|Y$到期,或者§Y统治者死亡§!.",
+        "translation": "于$DATE|Y$或§Y统治者死亡§!时到期。",
         "stage": 1
     },
     {
@@ -26378,7 +26378,7 @@
     {
         "key": "THE_FOLLOWING_SHIPS_WHERE_CAPTURED:0",
         "original": "Captured ships:",
-        "translation": "下列船只被俘获：",
+        "translation": "俘获船只：",
         "stage": 1
     },
     {
@@ -28400,7 +28400,7 @@
     {
         "key": "CALL_CRUSADENEWDESC:0",
         "original": "Do you wish to call for a Crusade against $COUNTRY$? This will give Catholic countries a significant manpower and income bonus while at war with the Infidel.",
-        "translation": "你确定要发动对 $COUNTRY$ 的十字军战争？ 这将会给所有跟这个国家处在战争中的天主教国家带来额外的人力和收入.",
+        "translation": "你确定要对$COUNTRY$发动十字军战争？如果有天主教国家在与其交战，将会获得额外的人力和收入。",
         "stage": 1
     },
     {
@@ -28754,7 +28754,7 @@
     {
         "key": "religious_rebels_desc:0",
         "original": "Religious fanatics tend to rise up in provinces controlled by nations of a different faith. They seek to spread their faith and smite all unbelievers.",
-        "translation": "宗教狂热者会在不同信仰的国家控制的省份起义. 他们希望传播自己的信仰，击败不信者.",
+        "translation": "宗教狂信徒往往在受控于异信仰国家的省份掀起叛乱。他们意图传播其信仰并打击所有的非信徒。",
         "stage": 1
     },
     {
@@ -32726,7 +32726,7 @@
     {
         "key": "colonize_taiwan_desc:0",
         "original": "The island of Taiwan is sparsely populated by uncivilized savages, we should open these lands up for Chinese settlement.",
-        "translation": "台湾岛原住民未经开化且人口稀少，我们应该将其开辟为中国的殖民地.",
+        "translation": "台湾岛原住民未经开化且人口稀少，我们应该将其开辟为中国的殖民地。",
         "stage": 1
     },
     {
@@ -39956,7 +39956,7 @@
     {
         "key": "MOVE_CAPITAL_TOO_UNSTABLE:0",
         "original": "It is not possible to move our capital when there are rebels around in the country.",
-        "translation": "我们不能迁都，因为国内有叛军存在.",
+        "translation": "我们不能迁都，因为国内有叛军存在。",
         "stage": 1
     },
     {
@@ -39980,7 +39980,7 @@
     {
         "key": "fortify_province_desc:0",
         "original": "$PROVINCENAME$ is lacking fortifications, making it vulnerable to enemy aggression, or a rebel uprising. It would be a wise move to make a fort here.",
-        "translation": "$PROVINCENAME$ 缺乏要塞防御，所以很容易被敌人入侵，叛军也容易起义. 建立一个要塞在那里将会非常明智.",
+        "translation": "$PROVINCENAME$缺乏要塞防御，容易受到敌人入侵或叛军暴动的影响。在这里建立一个要塞是个明智之举。",
         "stage": 1
     },
     {
@@ -40124,13 +40124,13 @@
     {
         "key": "IS_NOT_TRIBE:0",
         "original": "Is not a tribe.",
-        "translation": "不是部落.",
+        "translation": "不是部落。",
         "stage": 1
     },
     {
         "key": "IS_TRIBE:0",
         "original": "Is a tribe.",
-        "translation": "是部落.",
+        "translation": "是部落。",
         "stage": 1
     },
     {
@@ -40190,7 +40190,7 @@
     {
         "key": "SHIPS_IN_RANGE:0",
         "original": "There are fleets within range increasing patrol radius.\\n",
-        "translation": "附近的舰队使巡逻半径增大. \\n",
+        "translation": "附近的舰队使巡逻半径增大。\\n",
         "stage": 1
     },
     {
@@ -40640,7 +40640,7 @@
     {
         "key": "cb_offensive_call_desc:0",
         "original": "An ally is at war with them.",
-        "translation": "一个盟国正与他们作战.",
+        "translation": "一个盟国正与他们交战。",
         "stage": 1
     },
     {
@@ -40652,7 +40652,7 @@
     {
         "key": "cb_dishonored_call_desc:0",
         "original": "They dishonored our call to war.",
-        "translation": "他们拒绝响应我们的参战号召",
+        "translation": "他们拒绝响应我们的参战号召。",
         "stage": 1
     },
     {
@@ -40688,7 +40688,7 @@
     {
         "key": "cb_vassalize_mission_desc:0",
         "original": "We have been tasked with their vassalization.",
-        "translation": "我们有附庸特定国家的任务.",
+        "translation": "我们有附庸特定国家的任务。",
         "stage": 1
     },
     {
@@ -40772,7 +40772,7 @@
     {
         "key": "cb_liberation_desc:0",
         "original": "They are oppressing peoples that deserve freedom.",
-        "translation": "他们在压迫享有自由权利的人民.",
+        "translation": "他们正在压迫享有自由权利的人民。",
         "stage": 1
     },
     {
@@ -40808,7 +40808,7 @@
     {
         "key": "cb_border_war_desc:0",
         "original": "Their nation is focusing on an area close to our border.",
-        "translation": "两国在边境问题上持有争端.",
+        "translation": "两国在边境问题上持有争端。",
         "stage": 1
     },
     {
@@ -40832,7 +40832,7 @@
     {
         "key": "cb_trade_war_desc:0",
         "original": "They are threatening our trade!",
-        "translation": "他们对我们的贸易产生了威胁!",
+        "translation": "他们对我们的贸易产生了威胁！",
         "stage": 1
     },
     {
@@ -40868,7 +40868,7 @@
     {
         "key": "cb_imperial_ban_desc:0",
         "original": "They hold Imperial provinces.",
-        "translation": "他们非法占有了帝国领土.",
+        "translation": "他们非法占有帝国领土。",
         "stage": 1
     },
     {
@@ -40904,7 +40904,7 @@
     {
         "key": "cb_primitives_desc:0",
         "original": "They are primitives.",
-        "translation": "他们是原始部落.",
+        "translation": "他们是原始部落。",
         "stage": 1
     },
     {
@@ -42386,25 +42386,25 @@
     {
         "key": "HAD_COUNTRY_FLAG_LESS_THAN:0",
         "original": "Had country flag '§Y$FLAG$§W' for less than §Y$DAYS$§W days",
-        "translation": "拥有国家标志'§Y$FLAG$§W'的时间少于§Y$DAYS$§W天",
+        "translation": "拥有国家标志「§Y$FLAG$§W」的时间少于§Y$DAYS$§W天",
         "stage": 1
     },
     {
         "key": "HAD_COUNTRY_FLAG_AT_LEAST:0",
         "original": "Had country flag '§Y$FLAG$§W' for at least §Y$DAYS$§W days",
-        "translation": "拥有国家标志'§Y$FLAG$§W'的时间达到§Y$DAYS$§W天",
+        "translation": "拥有国家标志「§Y$FLAG$§W」的时间达到§Y$DAYS$§W天",
         "stage": 1
     },
     {
         "key": "HAD_GLOBAL_FLAG_LESS_THAN:0",
         "original": "Had global flag '§Y$FLAG$§W' for less than §Y$DAYS$§W days",
-        "translation": "拥有世界标志'§Y$FLAG$§W'的时间少于§Y$DAYS$§W天",
+        "translation": "拥有世界标志「§Y$FLAG$§W」的时间少于§Y$DAYS$§W天",
         "stage": 1
     },
     {
         "key": "HAD_GLOBAL_FLAG_AT_LEAST:0",
         "original": "Had global flag '§Y$FLAG$§W' for at least §Y$DAYS$§W days",
-        "translation": "拥有世界标志'§Y$FLAG$§W'的时间达到§Y$DAYS$§W天",
+        "translation": "拥有世界标志「§Y$FLAG$§W」的时间达到§Y$DAYS$§W天",
         "stage": 1
     },
     {
@@ -43166,7 +43166,7 @@
     {
         "key": "ADD_HEIR_CLAIM:0",
         "original": "Claim Strength of Heir",
-        "translation": "继承的正当性",
+        "translation": "继承人的宣称",
         "stage": 1
     },
     {
@@ -44372,8 +44372,8 @@
     {
         "key": "support_commedia_dellarte_desc:0",
         "original": "Hear ye, hear ye! Let loose Pantalone, Harlequin, and all the other stock characters of the traditional Commedia dell'Arte on your unsuspecting population, and watch as they are entertained by the antics and the shenanigans. A good piece of comedy can make anyone forget for a while that their everyday lives are wasted away laboring under the yokes of tyrannical rulers. Plus, it's fun!",
-        "translation": "大家都来看呀，很有趣的!",
-        "stage": 2
+        "translation": "听呐，听呐！向不曾预料的人们呈现主角、丑角和其他所有传统专业戏剧里的固有角色，观察他们被演员的滑稽戏和恶作剧逗乐的样子。一本好剧可以令任何人暂离浮世烟火，忘记他们每天浪费在暴君吆喝下劳动的生活。而且，它很有趣！",
+        "stage": 1
     },
     {
         "key": "military_modernization_muslim_title:0",

@@ -98,8 +98,8 @@
     {
         "key": "SPYNETWORKTOOSMALL:0",
         "original": "Your $ADJ|Y$ Spy Network needs to be of at least size $AMOUNT|Y$ to use this action.",
-        "translation": " $ADJ|Y$间谍网需要至少 $AMOUNT|Y$大小来使用此操作",
-        "stage": 5
+        "translation": "使用此操作，在$ADJ|Y$的间谍网规模需要达到 $AMOUNT|Y$。",
+        "stage": 1
     },
     {
         "key": "federation:0",
@@ -602,8 +602,8 @@
     {
         "key": "DIPIRO_WARNING:0",
         "original": "$WHO|Y$ are warning §Y$NAME$§!. If $NAME|Y$ go to war, $WHO|Y$ can attack them.\\nThis warning is valid until §Y$DATE$§!.",
-        "translation": "$WHO|Y$ 对 §Y$NAME$§!进行了警告.如果$NAME|Y$对第三国挑起战端，$WHO|Y$就有理由对它发起战争.\\n此警告在§Y$DATE$§!前有效.",
-        "stage": 5
+        "translation": "$WHO|Y$对§Y$NAME$§!进行了警告。如果$NAME|Y$对第三国挑起战端，$WHO|Y$就有理由对它发起战争。\\n此警告在§Y$DATE$§!前有效。",
+        "stage": 1
     },
     {
         "key": "DIPIRO_CLAIMTRHONE:0",
@@ -644,8 +644,8 @@
     {
         "key": "DIPIRO_CB_EXPIRE:0",
         "original": "This casus belli is valid until §Y$DATE$§!.",
-        "translation": "此宣战理由在§Y$DATE$§!前有效.",
-        "stage": 5
+        "translation": "此宣战理由在§Y$DATE$§!前有效。",
+        "stage": 1
     },
     {
         "key": "NO_WAR_ON_EMPIRE:0",
@@ -668,8 +668,8 @@
     {
         "key": "PEACE_IN_EMPIRE_NO_WAR:0",
         "original": "After the landfriede has been declared, no member of the Holy Roman Empire may take hostile actions towards another member.",
-        "translation": "在禁止复仇法案通过之后，帝国成员禁止相互宣战.",
-        "stage": 5
+        "translation": "在禁止复仇条例通过之后，神圣罗马帝国成员禁止相互宣战。",
+        "stage": 1
     },
     {
         "key": "DIP_MAINT_RM:0",
@@ -740,8 +740,8 @@
     {
         "key": "INTEGRATE_INPROGRESS3:0",
         "original": "Integration progress §Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$), estimated to be done $DATE|Y$.\\nUses §R$DRAIN$§!£dip  each month.\\n",
-        "translation": "联统进度§Y$PROGRESS|1$%§! ($VAL|G$/$COST|Y$)，将要进行$DATE|Y$.\\n每月消耗§R$DRAIN$§!外交点数\\n",
-        "stage": 5
+        "translation": "整合进度§Y$PROGRESS|1$%§!（$VAL|G$/$COST|Y$），预计将在$DATE|Y$完成。\\n每月消耗§R$DRAIN$§!£dip£。\\n",
+        "stage": 1
     },
     {
         "key": "NO_ANNEX_PROGRESS_LACK_DIP:0",
@@ -1220,14 +1220,14 @@
     {
         "key": "SABOTAGEDESCDERIVED:0",
         "original": "Sabotage Reputation will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and have the following effects on them:\\n$DESC$\\n\\nIt will last until $DATE|Y$.",
-        "translation": "对对方的国际声誉进行诋毁\\n\\n这将在外交方面给予他们以下影响：\\n$DESC$",
-        "stage": 5
+        "translation": "破坏名誉将使我们在$ADJ|Y$的间谍网缩小$COST|R$并给他们带来以下效果：\\n$DESC$\\n\\n它会一直持续到$DATE|Y$。",
+        "stage": 1
     },
     {
         "key": "SABOTAGEALREADYPRESENTDESC:0",
         "original": "Their reputation has recently been sabotaged.",
-        "translation": "另一个国家已经抢先下手了",
-        "stage": 5
+        "translation": "他们的声誉最近已经遭到破坏。",
+        "stage": 1
     },
     {
         "key": "INFILTRATEDESC:0",
@@ -1274,8 +1274,8 @@
     {
         "key": "SABOTAGERECRUITMENTDESCDERIVED:0",
         "original": "Sabotage Recruitment will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and have the following effects:\\n$DESC$\\n\\nIt will last until $DATE|Y$.",
-        "translation": "破坏征兵将减少我们 $ADJ|Y$ 的间谍网$COST|R$并会有以下效果 :\\n$DESC$\\n\\n它会一直持续到 $DATE|Y$.",
-        "stage": 5
+        "translation": "破坏征兵将使我们在$ADJ|Y$的间谍网缩小$COST|R$并给他们带来以下效果：\\n$DESC$\\n\\n它会一直持续到$DATE|Y$。",
+        "stage": 1
     },
     {
         "key": "SABOTAGERECRUITMENTALREADYPRESENT:0",
@@ -1298,8 +1298,8 @@
     {
         "key": "CORRUPTOFFICIALSALREADYPRESENTDESC:0",
         "original": "Someone is already corrupting officials in $TARGET$.",
-        "translation": "有人正在$TARGET$腐化官员",
-        "stage": 5
+        "translation": "已经有人在腐化$TARGET$的官员。",
+        "stage": 1
     },
     {
         "key": "CORRUPTOFFICIALSTITLE:0",
@@ -1316,8 +1316,8 @@
     {
         "key": "CORRUPTOFFICIALSDESCDERIVED:0",
         "original": "Corrupt Officials will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and have the following effects:\\n$DESC$\\n\\nIt will last until $DATE|Y$.",
-        "translation": "腐化官员将减少我们 $ADJ|Y$ 的间谍网 $COST|R$ 并会有以下效果:\\n$DESC$\\n\\n它会一直持续到 $DATE|Y$.",
-        "stage": 5
+        "translation": "腐化官员将使我们在$ADJ|Y$的间谍网缩小$COST|R$并给他们带来以下效果：\\n$DESC$\\n\\n它会一直持续到$DATE|Y$。",
+        "stage": 1
     },
     {
         "key": "SLANDER_MERCHANTS:0",
@@ -1346,8 +1346,8 @@
     {
         "key": "SLANDERMERCHANTSDESCDERIVED:0",
         "original": "Slander Merchants will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and have the following effects:\\n$DESC$\\n\\nIt will last until $DATE|Y$.",
-        "translation": "诽谤商人团将减少我们 $ADJ|Y$ 的间谍网 $COST|R$ 并会有以下影响:\\n$DESC$\\n\\n它将持续到 $DATE|Y$.",
-        "stage": 5
+        "translation": "诽谤商人团将使我们在$ADJ|Y$的间谍网缩小$COST|R$并给他们带来以下效果：\\n$DESC$\\n\\n它会一直持续到$DATE|Y$。",
+        "stage": 1
     },
     {
         "key": "SLANDERMERCHANTSALREADYPRESENTDESC:0",
@@ -1370,14 +1370,14 @@
     {
         "key": "SUPPORTREBELSDESCDERIVED:0",
         "original": "Supporting a rebel faction will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and increase their chance of making progress towards an uprising each month by §Y$AMT$%§! for a period of $YEARS|Y$ years.\\n\\nYou will also support them during their uprising. If the rebels gain power they will become your ally.",
-        "translation": "从以下列表中选择你所要扶持的起义军.\\n这将对起义军所在省份产生以下影响：\\n$DESC$\\n\\n你也可在其起义后继续予以支持.他们成功后，将成为你忠心不二的盟友.",
-        "stage": 5
+        "translation": "支持叛军派系将使我们在$ADJ|Y$的间谍网缩小$COST|R$并在$YEARS|Y$年内提高他们国内一种起义的月度进度§Y$AMT$%§!。\\n\\n在他们起义期间你也将继续予以支持。如果成功，他们将成为你的盟友。",
+        "stage": 1
     },
     {
         "key": "SUPPORTREBELSDESCALREADYPRESENTDESC:0",
         "original": "Someone is already supporting these rebels in the target country.",
-        "translation": "另一个国家已经抢先下手了",
-        "stage": 5
+        "translation": "已经有人在目标国家支持这些叛军。",
+        "stage": 1
     },
     {
         "key": "SUPPORTREBELSDESCNOREBELSDESC:0",
@@ -1400,8 +1400,8 @@
     {
         "key": "CANCEL_SUPPORTREBELSTITLE:0",
         "original": "Stop Supporting Rebels",
-        "translation": "停止扶持起义军",
-        "stage": 5
+        "translation": "停止支持叛军",
+        "stage": 1
     },
     {
         "key": "CANCEL_SUPPORTREBELSDESC:0",
@@ -1412,8 +1412,8 @@
     {
         "key": "CANCEL_SUPPORTREBELS_WARNING:0",
         "original": "Are you sure you want to stop supporting their $REBELTYPE$? We would not regain any of our investments.",
-        "translation": "你确定要停止支持 $REBELTYPE$吗？我们不会恢复任何的投资",
-        "stage": 5
+        "translation": "你确定要停止支持$REBELTYPE$吗？我们无法收回任何的投资。",
+        "stage": 1
     },
     {
         "key": "SUPPORTREBELS_REBELREVOLTED:0",
@@ -1430,14 +1430,14 @@
     {
         "key": "AGITATEFORLIBERTYDESC:1",
         "original": "Convince the target that they need to get independence from their oppressors!",
-        "translation": "煽动独立将导致目标的独立倾向上升至$LD|Y$.",
-        "stage": 5
+        "translation": "让目标相信他们需要从暴君那里获得独立！",
+        "stage": 1
     },
     {
         "key": "AGITATEFORLIBERTYDESCDERIVED:0",
         "original": "Agitating for Liberty increases the target's Liberty Desire by $LD|Y$.\\n\\nIt will last until $DATE|Y$.",
-        "translation": "煽动独立提高目标的独立倾向至 $LD|Y$.\\n\\n它将持续到$DATE|Y$.",
-        "stage": 5
+        "translation": "煽动独立提高目标$LD|Y$独立倾向。\\n\\n它将持续到$DATE|Y$.",
+        "stage": 1
     },
     {
         "key": "SOW_DISCONTENT_NOIDEA:0",
@@ -1472,8 +1472,8 @@
     {
         "key": "SOWDISCONTENTDESCDERIVED:0",
         "original": "Sow Discontent will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and have the following effects on them:\\n$DESC$\\n\\nIt will last until $DATE|Y$.",
-        "translation": "在该国人民心中种下不满的种子.\\n\\n这将产生以下影响：\\n$DESC$",
-        "stage": 5
+        "translation": "挑动不满情绪将使我们在$ADJ|Y$的间谍网缩小$COST|R$并给他们带来以下效果：\\n$DESC$\\n\\n它会一直持续到$DATE|Y$。",
+        "stage": 1
     },
     {
         "key": "SOWDISCONTENTALREADYPRESENT:0",
@@ -1940,8 +1940,8 @@
     {
         "key": "ALREADY_JUSTIFIED_TRADE_CONFLICT:0",
         "original": "We already have a §YTrade Conflict§! Casus Belli against §Y$TARGET$§!. It is valid until §Y$DATE$§!.",
-        "translation": "你已经制造了一场贸易争端.",
-        "stage": 5
+        "translation": "你对§Y$TARGET$§!已经拥有§Y贸易冲突§!的宣战理由。这将持续到§Y$DATE$§!。",
+        "stage": 1
     },
     {
         "key": "IS_FABRICATING_CLAIM:0",
@@ -3404,19 +3404,19 @@
     {
         "key": "SPYNETWORK_OUTLINER:1",
         "original": "Our $ADJ|Y$ Spy Network is currently at size $SIZE|Y$ out of a maximum of §Y100§!.",
-        "translation": "我们的$ADJ|Y$间谍网目前的规模为$SIZE|Y$，上限为§Y100§!。",
+        "translation": "我们在$ADJ|Y$的间谍网目前的规模为$SIZE|Y$，上限为§Y100§!。",
         "stage": 1
     },
     {
         "key": "SPYNETWORK_OUTLINER_PLUS:0",
         "original": "It will increase in size by $AMT|G$ every month.",
-        "translation": "它将每月增长$AMT|G$",
+        "translation": "此规模将每月增长$AMT|G$。",
         "stage": 1
     },
     {
         "key": "SPYNETWORK_OUTLINER_MINUS:0",
         "original": "It will decrease in size by $AMT|R$ every month.",
-        "translation": " 它将每月减少$AMT|R$",
+        "translation": "此规模将每月减少$AMT|R$",
         "stage": 1
     },
     {
@@ -4076,7 +4076,7 @@
     {
         "key": "ALREADYINSULT_NOT_POSS:0",
         "original": "We have already insulted them. We cannot insult them again until $DATE|Y$.",
-        "translation": "我们最近羞辱过他们",
+        "translation": "我们已经羞辱过他们。$DATE|Y$前无法再次羞辱他们。",
         "stage": 1
     },
     {
@@ -4215,7 +4215,7 @@
         "key": "POWER_COST_NOT_IN_WARGOAL:1",
         "original": "Not in war goal cost: $VAL|Y$£dip \\n",
         "translation": "非战争目标：$VAL|Y$£dip \\n",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "POWER_COST_RIVAL:0",
@@ -4226,13 +4226,13 @@
     {
         "key": "VASSAL_CANCEL_CONFIRM:0",
         "original": "Do you wish to cancel our vassalisation with $VASSAL|Y$?",
-        "translation": "你希望取消我们和 $VASSAL|Y$的附庸关系吗？",
-        "stage": 5
+        "translation": "你希望取消我们对$VASSAL|Y$的宗主关系吗？",
+        "stage": 1
     },
     {
         "key": "VASSAL_CANCEL_PRESTIGE:0",
         "original": "\\nThis will cost us $PRESTIGE|R$ Prestige.",
-        "translation": "\\n这将花费我们$PRESTIGE|R$ 威望",
+        "translation": "\\n这将花费我们$PRESTIGE|R$威望。",
         "stage": 5
     },
     {
@@ -4244,8 +4244,8 @@
     {
         "key": "VASSAL_CANCEL_CORES:0",
         "original": "\\nWe will also lose any cores and claims we have on their provinces.",
-        "translation": "\\n我们也将失去他们省份的所以核心和宣称",
-        "stage": 5
+        "translation": "\\n我们也将失去所有对他们省份的核心和宣称。",
+        "stage": 1
     },
     {
         "key": "PROTECTORATEBREAKDESC:0",
@@ -4263,7 +4263,7 @@
         "key": "WARN_FAR_TOO_POWERFUL:0",
         "original": "They are far too rich and powerful for our warnings to be taken seriously.",
         "translation": "他们过于富裕和强大了，我们的警告不会被严肃对待。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "GUARANTEE_FAR_TOO_POWERFUL:0",
@@ -4466,8 +4466,8 @@
     {
         "key": "DEMANDUNLAWFULTERRITORYREQDESC:0",
         "original": "The Emperor $ACTOR$ demands that we return the province of '$PROV|Y$' to the Holy Roman Empire. Denying this request will seriously impact our relation with the HRE.",
-        "translation": "皇帝$ACTOR$勒令我国归还帝国省份'$PROV|Y$'.若是拒绝，帝国与我国关系将受到巨大影响.",
-        "stage": 5
+        "translation": "皇帝$ACTOR$勒令我国归还「$PROV|Y$」给神圣罗马帝国省份。若是拒绝，帝国与我国关系将受到巨大影响。",
+        "stage": 1
     },
     {
         "key": "DEMANDUNLAWFULTERRITORYREQDENYEFFECTS:0",
@@ -4856,7 +4856,7 @@
     {
         "key": "INTEGRATE_NATION_ESTIMATED_DONE:0",
         "original": "Integration is estimated to be done $DATE|Y$ ($VAL|+2$/month) due to: ",
-        "translation": "一体化预计于$DATE|Y$完成 ($VAL|+2$/月)，原因如下：",
+        "translation": "整合预计于$DATE|Y$完成（$VAL|+2$/月），原因如下：",
         "stage": 1
     },
     {
@@ -4916,38 +4916,38 @@
     {
         "key": "PEACE_BECOME_SHOGUN:0",
         "original": "§Y$SHOGUN$ will become the new Shogun of Japan!§!",
-        "translation": "§Y$SHOGUN$ 将成为日本新的征夷大将军§!",
-        "stage": 5
+        "translation": "§Y$SHOGUN$将成为日本新的征夷大将军！§!",
+        "stage": 1
     },
     {
         "key": "PEACE_GRANT_INDEPENDANCE:0",
         "original": "$DEFENDER$ will Grant Independence to $ATTACKER$.",
-        "translation": "$DEFENDER$将承认$ATTACKER$的独立.",
-        "stage": 5
+        "translation": "$DEFENDER$将承认$ATTACKER$的独立。",
+        "stage": 1
     },
     {
         "key": "PEACE_DONT_GRANT_INDEPENDANCE:0",
         "original": "§R$ATTACKER$ will remain subjects to $DEFENDER$.§!",
-        "translation": "§R$ATTACKER$仍然将受控于$DEFENDER$.§!",
-        "stage": 5
+        "translation": "§R$ATTACKER$仍将是$DEFENDER$的附属国。§!",
+        "stage": 1
     },
     {
         "key": "WHITE_PEACE_INDEPENDANCE:0",
         "original": "White Peace. §R$ATTACKER$ will remain subjects to $DEFENDER$.§!",
-        "translation": "无条件和平. §R$ATTACKER$仍然将受控于$DEFENDER$.§!",
-        "stage": 5
+        "translation": "无条件和平。§R$ATTACKER$仍将是$DEFENDER$的附属国。§!",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_DEMANDED_CAPITAL:0",
         "original": "You have demanded their capital and thus you may not demand any other provinces.",
-        "translation": "你已经要求他们割让首都，因此不能要求割让其他省份了.",
-        "stage": 5
+        "translation": "你已经要求他们割让首都，因此不能要求割让其他省份了。",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_CANNOT_TAKE_LAST:0",
         "original": "Cannot take $TARGET$'s last province and make them a subject at the same time.",
-        "translation": "不能在夺取$TARGET$最后一个省份的同时使他们成为附庸.",
-        "stage": 5
+        "translation": "不能在夺取$TARGET$最后一个省份的同时使他们成为附属国。",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_CANNOT_RETURN_LAST:0",
@@ -4958,38 +4958,38 @@
     {
         "key": "PEACEOFFER_WILL_LOSE_ALL_PROVINCES:0",
         "original": "$TARGET$ will no longer exist after the war.",
-        "translation": "$TARGET$将在战争结束后不复存在.",
-        "stage": 5
+        "translation": "$TARGET$在战后将不复存在。",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_LEAGUE_WAR:0",
         "original": "Cannot vassalize the leader of a League while they are in a League War.",
-        "translation": "不能附庸联盟的领导者当联盟依然在战争中时.",
-        "stage": 5
+        "translation": "不能附庸处于联盟战争中的联盟领导者。",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_RETURN_CORE_SELECTED:0",
         "original": "Core $NAME$ is already to be returned to $COUNTRY$.",
-        "translation": "核心$NAME$已被归还给$COUNTRY$.",
-        "stage": 5
+        "translation": "核心$NAME$已被归还给$COUNTRY$。",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_CEDE_SELECTED:0",
         "original": "$NAME$ is already demanded.",
-        "translation": "$NAME$已被要求.",
-        "stage": 5
+        "translation": "$NAME$已被要求。",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_REVOKE_CORE_SELECTED:0",
         "original": "Core status for $NAME$ will be revoked.",
-        "translation": "$NAME$的核心地位将被取消.",
-        "stage": 5
+        "translation": "$NAME$的核心地位将被取消。",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_WILL_BECOME_SUBJECT:0",
         "original": "$NAME$ will become a subject.",
-        "translation": "$NAME$将变成一个附庸.",
-        "stage": 5
+        "translation": "$NAME$将成为附属国。",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_CANNOT_COMBINE_CONCEDE_DEFEAT:0",
@@ -5000,8 +5000,8 @@
     {
         "key": "PEACEOFFER_SUBJECT_FIGHTING_INDEPENDENCE:0",
         "original": "§R$SUBJECT$ is fighting for independence against $OVERLORD$, and will become their $SUBJECTTYPE$ again if they lose.§!",
-        "translation": "§R$SUBJECT$ 正在发起独立战争对抗 $OVERLORD$，一旦失败他们将会成为 $SUBJECTTYPE$§!",
-        "stage": 5
+        "translation": "§R$SUBJECT$正在发起对$OVERLORD$的独立战争，且一旦失败仍将是其$SUBJECTTYPE$§!。",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_CANNOT_COMBINE_CANCEL_SUBJECT:0",
@@ -5012,8 +5012,8 @@
     {
         "key": "PEACEOFFER_WAR_REPARATIONS_SELECTED:0",
         "original": "Cannot make $NAME$ a subject and demand war reparations at the same time.",
-        "translation": "不能在要求附庸$NAME$的同时索取战争赔偿.",
-        "stage": 5
+        "translation": "不能要求附庸$NAME$同时索取战争赔偿。",
+        "stage": 1
     },
     {
         "key": "PEACEOFFER_CANNOT_COMBINE_WITH:0",
@@ -5036,8 +5036,8 @@
     {
         "key": "PEACEOFFER_CANNOT_RELEASE_NATION_TWICE:0",
         "original": "Cannot release $NEW_NATION|Y$ because it will already be released by $OTHER_RELEASER|Y$.",
-        "translation": "不能解放$NEW_NATION|Y$因为它已经被$OTHER_RELEASER|Y$解放.",
-        "stage": 5
+        "translation": "不能释放$NEW_NATION|Y$因为它已经被$OTHER_RELEASER|Y$释放。",
+        "stage": 1
     },
     {
         "key": "PEACETREATY_REVOKE_CORE:0",

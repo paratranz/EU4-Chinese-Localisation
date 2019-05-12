@@ -188,8 +188,8 @@
     {
         "key": "MAPMODE_ACCEPTEDCULTURES:0",
         "original": "Accepted Cultures",
-        "translation": "接受文化",
-        "stage": 5
+        "translation": "相容文化",
+        "stage": 1
     },
     {
         "key": "MAPMODE_CLIMATE:0",
@@ -1442,7 +1442,7 @@
     {
         "key": "ECONOMY_LOAN_DESC:0",
         "original": "We have $AMOUNT|Y$ amount of loans, paying $INTEREST|Y$¤ monthly of interest. Next loan due at $DATE|Y$.",
-        "translation": "我们有$AMOUNT|Y$的贷款，每月支付利息$INTEREST|Y$¤。下一笔于$DATE|Y$到期。",
+        "translation": "我们有$AMOUNT|Y$笔贷款，每月支付利息$INTEREST|Y$¤。下一笔贷款$DATE|Y$到期。",
         "stage": 1
     },
     {
@@ -4695,12 +4695,12 @@
         "key": "alert_no_native_policy_instant:0",
         "original": "§YYou need to choose a Native Policy!§!",
         "translation": "§Y你需要选择原住民政策！§!",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "alert_no_native_policy_delayed:0",
         "original": "Before we can send colonists we need to choose our Native Policy.",
-        "translation": "在我们派遣殖民队之前我们需要选择我们的原住民政策。",
+        "translation": "在派遣殖民队之前，我们需要选择原住民政策。",
         "stage": 1
     },
     {

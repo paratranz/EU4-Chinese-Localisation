@@ -33,25 +33,25 @@
         "key": "DIPLO_ALREADY_TRANSFERING_TRADE_POWER:0",
         "original": "Already giving trade power to $WHO$: ",
         "translation": "已经向$WHO$转移贸易竞争力：",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DIPLO_ALREADY_STEERING_TRADE:0",
         "original": "Already steering trade to $WHO$: ",
         "translation": "已经向$WHO$引导贸易：",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DIPLO_TRADE_VASSALS:0",
         "original": "Number of countries transferring trade power to $WHO$: ",
         "translation": "向$WHO$转移贸易竞争力的国家数：",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DIPLO_TRADE_STEER_SLAVES:0",
         "original": "Number of countries steering trade to $WHO$: ",
         "translation": "向$WHO$引导贸易的国家数：",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DIPLO_ACTIVE_RELATION:0",
@@ -63,19 +63,19 @@
         "key": "DIPLO_FIGHTING_OTHER_WAR_TOGETHER:0",
         "original": "Fighting in another war together: ",
         "translation": "在另一场战争中一起作战：",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DIPLO_MULTI_WARS:0",
         "original": "Would be called into multiple wars: ",
         "translation": "将会被召入多线战争：",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DIPLO_FIGHTING_OTHER_WAR:0",
         "original": "Fighting in another war: ",
         "translation": "正在打另一场战争：",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DIPLO_POSITIVE:0",
@@ -99,7 +99,7 @@
         "key": "DIPLO_ALLIANCE_IS_BREAKING:0",
         "original": "No longer desires $WHO$ as an ally: ",
         "translation": "不再愿意与$WHO$维持联盟：",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DIPLO_BLOCKED_OFFENSIVE_CALLS:0",
@@ -164,8 +164,8 @@
     {
         "key": "DIPLO_RECENT_OFFENSIVE_CALL:0",
         "original": "Not willing to join another $WHO$ offensive war until §Y$DATE$§!: ",
-        "translation": "§Y$DATE$§!前不愿意加入$WHO$发起的另一场侵攻战：",
-        "stage": 2
+        "translation": "§Y$DATE$§!前不愿意加入$WHO$发起的另一场进攻战争：",
+        "stage": 1
     },
     {
         "key": "DIPLO_HAS_ALLIANCE:0",
@@ -458,7 +458,7 @@
     {
         "key": "DIPLO_WAR_REBELS:0",
         "original": "Revolts in $WHO$: ",
-        "translation": " $WHO$国内的起义：",
+        "translation": "$WHO$国内的起义：",
         "stage": 5
     },
     {
@@ -603,7 +603,7 @@
         "key": "DIPLO_WAR_UNOCCUPIED_FORTS:0",
         "original": "Demanding $PROV$ without occupying any forts in the area: ",
         "translation": "索取的$PROV$所在的地区有尚有未被占领的要塞：",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "DIPLO_WAR_INCONCLUSIVE:0",
@@ -1010,7 +1010,7 @@
     {
         "key": "DIPLO_WAR_NOT_ACTIVE:0",
         "original": "The war is not active: ",
-        "translation": "非战争状态：",
+        "translation": "战争没有激活：",
         "stage": 2
     },
     {
@@ -1706,7 +1706,7 @@
     {
         "key": "DIPLO_RECENTLY_DID_ACTION:0",
         "original": "Recently did $ACTION$: ",
-        "translation": "最近干了$ACTION$：",
+        "translation": "最近进行过$ACTION$：",
         "stage": 1
     },
     {

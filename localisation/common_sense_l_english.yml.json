@@ -4640,7 +4640,7 @@
     {
         "key": "CANNOT_UPGRADE_RANK_NEED_DEVELOPMENT:0",
         "original": "§R- You need at least §Y$AMT$§! total development to increase your Government Rank and you only have §Y$CUR$§!.§W\\n",
-        "translation": "§R－你需要至少 §Y$AMT$§! 总发展度来提升你的政府等级而你只有 §Y$CUR$§!。§W\\n",
+        "translation": "§R－你需要至少 §Y$AMT$§! 总发展度来提升政府等级，但你只有 §Y$CUR$§!。§W\\n",
         "stage": 1
     },
     {
@@ -4664,7 +4664,7 @@
     {
         "key": "alert_lack_of_parliament_debate_instant:0",
         "original": "§YNo Debate in $NAME$.§!",
-        "translation": "§Y在$NAME$没发生讨论.§!",
+        "translation": "§Y$NAME$未召开辩论会。§!",
         "stage": 1
     },
     {
@@ -5156,74 +5156,74 @@
     {
         "key": "subject_interaction_events.1.t:0",
         "original": "Pretender [Root.Monarch.GetTitle] Rises",
-        "translation": "篡权者[Root.Monarch.GetTitle]起义了",
-        "stage": 1
+        "translation": "篡权者[Root.Monarch.GetTitle]起义",
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.1.d:0",
         "original": "The former and now deposed monarch of [Root.Country.GetName] had a sizeable family, and at least one of them believe they have a better claim to the throne of [Root.Country.GetName] than [Root.Monarch.GetTitle] [Root.Monarch.GetName]. They have managed to gather up a rather large following, and is marching towards [Root.Capital.GetName], intent to place the 'true' [Root.Monarch.GetTitle] on the throne.",
-        "translation": "[Root.Country.GetName]被罢黜的统治者有一个很大的家族，其中至少一位认为他比[Root.Monarch.GetTitle][Root.Monarch.GetName]更应当获得[Root.Country.GetName]的王位。他们已经召集了众多的支持者，并且正在向[Root.Capital.GetName]进发，计划将「真正的」[Root.Monarch.GetTitle]扶上王位。",
-        "stage": 1
+        "translation": "[Root.Country.GetName]被罢黜的统治者有一个很大的家族，其中不止一位认为比[Root.Monarch.GetTitle][Root.Monarch.GetName]更应当获得[Root.Country.GetName]的王位。他们已经召集了众多的支持者，并且正在向[Root.Capital.GetName]进发，计划将「真正的」[Root.Monarch.GetTitle]扶上王位。",
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.1.a:0",
         "original": "Ask for help from Overlord.",
         "translation": "向宗主国求助。",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.1.b:0",
         "original": "Deal with it ourselves.",
-        "translation": "我们自己来解决.",
-        "stage": 1
+        "translation": "我们自己解决。",
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.2.t:0",
         "original": "[From.Country.GetName] asks for help",
         "translation": "[From.Country.GetName]发来求助",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.2.d:0",
         "original": "A rebel army led by a pretender is marching towards [From.Country.GetName]'s capital [From.Capital.GetName]! Family members of the deposed monarch of [From.Country.GetName] have managed to gather up a rather large following and are now trying to dethrone [From.Monarch.GetTitle] [From.Monarch.GetName].",
-        "translation": "一伙由篡位者率领的叛军正在向[From.Country.GetName]的首都[From.Capital.GetName]进军! 被罢黜的[From.Country.GetName]的君主的家族成员召集了一大批支持者正试图推翻[From.Monarch.GetTitle] [From.Monarch.GetName]的统治.",
-        "stage": 1
+        "translation": "一伙由篡位者率领的叛军正在向[From.Country.GetName]的首都[From.Capital.GetName]进军！[From.Country.GetName]被罢黜君主的家族成员召集了一大批支持者，试图推翻[From.Monarch.GetTitle][From.Monarch.GetName]的统治。",
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.2.a:0",
         "original": "Send them gold and soldiers.",
-        "translation": "给他们送去金币和士兵.",
-        "stage": 1
+        "translation": "给他们送去金币和士兵。",
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.2.b:0",
         "original": "They will have to deal with it themselves.",
-        "translation": "他们只好自己解决问题了.",
-        "stage": 1
+        "translation": "他们只能自己解决问题。",
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.3.t:0",
         "original": "Help Arrives?",
         "translation": "救援来了？",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.3.d:0",
         "original": "The pretender rebels are closing in on us, and the messenger sent to [From.Monarch.GetTitle] [From.Monarch.GetName] of [From.Country.GetName] should return soon. If we are lucky, perhaps the messenger will have soldiers and gold from [From.Country.GetName] that will help us repel those bastard rebels!",
-        "translation": "篡位叛军正在接近，而我们送给[From.Country.GetName]的[From.Monarch.GetTitle][From.Monarch.GetName]的消息将很快得到回应。走运的话，信使会带着来自[From.Country.GetName]的金币和士兵回来帮助我们击败那些该死的叛军！",
-        "stage": 1
+        "translation": "篡权叛军正在接近，而我们遣往[From.Country.GetName][From.Monarch.GetTitle][From.Monarch.GetName]的使节将很快返回。走运的话，他会带着来自[From.Country.GetName]的金币和士兵回来，帮助我们击败那些该死的叛军！",
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.3.a:0",
         "original": "[From.Monarch.GetName] of [From.Country.GetName] sent us gold and soldiers!",
-        "translation": "[From.Monarch.GetName] 的 [From.Country.GetName] 送来了金币和士兵!",
-        "stage": 1
+        "translation": "[From.Country.GetName]的[From.Monarch.GetName]送来了金币和士兵！",
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.3.b:0",
         "original": "[From.Monarch.GetName] refused to send us help!",
-        "translation": "[From.Monarch.GetName] 拒绝帮助我们!",
-        "stage": 1
+        "translation": "[From.Monarch.GetName]拒绝帮助我们！",
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.4.t:0",
@@ -8145,12 +8145,12 @@
         "key": "subject_interaction_events.40.t:0",
         "original": "Rightful Ownership",
         "translation": "合法的主权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.40.d:1",
         "original": "Our rightful land in [rightful_province.GetName] sits underneath the rule of our liege. This is an unseemly situation and if continued we will only be cast further under their shadow. This cannot be allowed, we must have our rightful land back!",
-        "translation": "我国的领土被我们的宗主国非法占有，如果这种不合理的形势继续下去我们将持续笼罩在宗主的阴影之中。真是天理不容，我们一定要夺回我们的合法领土！",
+        "translation": "[rightful_province.GetName]本该属于我国，却被我们的宗主国非法占有，如果这种不合理的形势继续下去，我们将持续笼罩在宗主国的阴影之中。真是天理不容，我们一定要夺回我们的合法领土！",
         "stage": 1
     },
     {
@@ -8169,12 +8169,12 @@
         "key": "subject_interaction_events.41.t:0",
         "original": "Rightful Ownership",
         "translation": "合法的主权",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.41.d:1",
         "original": "Of late one of our subjects has seen fit to remind us of the tensions caused by us owning land in [rightful_province.GetName], that they view as rightfully theirs. Handing it back to them would show us to be a benevolent power, however, such a move could also weaken us.",
-        "translation": "最近我国与其中一个属国陷入了领土纠纷，他们把我们的一些土地视为他们的合法领土。归还纠纷领土，会展现我们的仁慈之心，然而，这样做也会削弱我们的国力。",
+        "translation": "最近我国与一个属国陷入了领土纠纷，他们把我国的[rightful_province.GetName]视为他们的合法领土。归还纠纷领土会展现我们的仁慈之心，但这样做也会削弱我们的国力。",
         "stage": 1
     },
     {
@@ -8193,25 +8193,25 @@
         "key": "subject_interaction_events.42.t:0",
         "original": "Rightful Ownership Refused!",
         "translation": "合法主权遭到拒绝！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.42.d:0",
         "original": "Our request to get our rightful land back was denied! This is an outrage!",
         "translation": "我国对合法领土的索回遭到拒绝！这是暴行！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.42.a:0",
         "original": "Damn them!",
         "translation": "诅咒他们！",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.43.t:0",
         "original": "Subject is Tired of War",
         "translation": "属国厌恶战争",
-        "stage": 1
+        "stage": 5
     },
     {
         "key": "subject_interaction_events.43.d:0",
@@ -8822,7 +8822,7 @@
     {
         "key": "ADD_SEAT_IN_PARLIAMENT_SHORT:0",
         "original": "Grant Seat in $NAME$",
-        "translation": "在$NAME$获得议席",
+        "translation": "授予$NAME$席位",
         "stage": 1
     },
     {

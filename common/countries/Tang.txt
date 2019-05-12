@@ -31,48 +31,47 @@ historical_units = {
   reformed_manchu_rifle
 }
 monarch_names = {
-  "Huanchun #0" = 0
-  "Wan #0" = 0
-  "Jin #0" = 0
-  "Ding #0" = 0
-  "Wuchang #0" = 0
-  "Chengzhang #0" = 0
-  "Jiefu #0" = 0
-  "Wenyong #0" = 0
-  "Shiming #0" = 0
-  "Chonghua #0" = 0
-  "Sanfeng #0" = 0
-  "Wanyan #0" = 0
-  "Dayong #0" = 0
-  "Zhongwen #0" = 0
-  "Kexue #0" = 0
-  "Yuanjie #0" = 0
-  "Rucai  #0" = 0
-  "Kexi  #0" = 0
-  "Zhongming  #0" = 0
-  "Jinxing  #0" = 0
-  "Yan  #0" = 0
-  "Yingxiang  #0" = 0
-  "Zongmin  #0" = 0
-  "Heying #0" = -1
-  "Chunmei #0" = -1
-  "Tianhui #0" = -1
-  "Kon #0" = -1
-  "Mao #0" = -1
-  "Yuying #0" = -1
-  "Yuantong #0" = -1
-  "Yanxiang #0" = -1
-  "Xiurong #0" = -1
-  "Shouying #0" = -1
-  "Fuyuan #0" = -1
-  "Luzhen #0" = -1
-  "Ruirong #0" = -1
-  "Suzhen #0" = -1
-  "Xiao'e #0" = -1
-  "Xiaoying #0" = -1
-  "Xiaoyuan #0" = -1
-  "Xiaoji #0" = -1
-  "Xiaolou #0" = -1
+  "尧㜢 #0" = -1  # Xiaolou #0
+  "筱姬 #0" = -1  # Xiaoji #0
+  "筱媛 #0" = -1  # Xiaoyuan #0
+  "筱媖 #0" = -1  # Xiaoying #0
+  "筱娥 #0" = -1  # Xiao'e #0
+  "素嫃 #0" = -1  # Suzhen #0
+  "瑞嬫 #0" = -1  # Ruirong #0
+  "禄媜 #0" = -1  # Luzhen #0
+  "福媛 #0" = -1  # Fuyuan #0
+  "寿媖 #0" = -1  # Shouying #0
+  "秀荣 #0" = -1  # Xiurong #0
+  "延祥 #0" = -1  # Yanxiang #0
+  "圆通 #0" = -1  # Yuantong #0
+  "玉英 #0" = -1  # Yuying #0
+  "毛 #0" = -1  # Mao #0
+  "涳 #0" = -1  # Kon #0
+  "天绘 #0" = -1  # Tianhui #0
+  "春梅 #0" = -1  # Chunmei #0
+  "和媖 #0" = -1  # Heying #0
+  "宗敏 #0" = 0  # Zongmin  #0
+  "迎祥 #0" = 0  # Yingxiang  #0
+  "严 #0" = 0  # Yan  #0
+  "金星 #0" = 0  # Jinxing  #0
+  "仲明 #0" = 0  # Zhongming  #0
+  "可喜 #0" = 0  # Kexi  #0
+  "汝才 #0" = 0  # Rucai  #0
+  "元节 #0" = 0  # Yuanjie #0
+  "可学 #0" = 0  # Kexue #0
+  "仲文 #0" = 0  # Zhongwen #0
+  "大用 #0" = 0  # Dayong #0
+  "万言 #0" = 0  # Wanyan #0
+  "三丰 #0" = 0  # Sanfeng #0
+  "重华 #0" = 0  # Chonghua #0
+  "世名 #0" = 0  # Shiming #0
+  "文咏 #0" = 0  # Wenyong #0
+  "介福 #0" = 0  # Jiefu #0
+  "成章 #0" = 0  # Chengzhang #0
+  "五常 #0" = 0  # Wuchang #0
+  "鼎 #0" = 0  # Ding #0
+  "谨 #0" = 0  # Jin #0
+  "琬 #0" = 0  # Wan #0
   "允让 #0" = 0  # Yunrang #0
   "廷标 #0" = 0  # Tingbiao #0
   "道兴 #0" = 0  # Daoxing #0
@@ -82,6 +81,7 @@ monarch_names = {
   "肇琛 #0" = 0  # Zhaochen #0
   "生斗 #0" = 0  # Shengdou #0
   "献明 #0" = 0  # Xianming #0
+  "还醇 #0" = 0  # Huanchun #0
   "国昌 #0" = 0  # Guochang #0
   "儒秀 #0" = 0  # Ruxiu #0
   "邦佐 #0" = 0  # Bangzuo #0
@@ -294,14 +294,14 @@ monarch_names = {
   "瞻基 #0" = 10  # Zhanji #0
 }
 leader_names = {
-  "Zhu"
-  "Wu"
-  "Geng"
-  "Shang"
-  "Zheng"
-  "Zhao"
-  "Li"
-  "Shi"
+  "朱"  # Zhu
+  "吴"  # Wu
+  "耿"  # Geng
+  "尚"  # Shang
+  "郑"  # Zheng
+  "赵"  # Zhao
+  "李"  # Li
+  "施"  # Shi
   "Liu"
   "Guo"
   "Yang"
@@ -408,7 +408,7 @@ ship_names = {
   "Zhaowu"
   "Yong'an"
   "Nan'an"
-  "Longhai"
+  "龙海"  # Longhai
   "Fu'an"
   "Fuding"
   "Jinchang"

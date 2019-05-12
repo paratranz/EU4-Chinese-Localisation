@@ -896,7 +896,7 @@
     {
         "key": "non_brahmin_tooltip:0",
         "original": "Every owned province with the §YBrahmins§! estate gets §Y'Brahmin Orthodoxy Enforced'§! for §Y15 years§!, giving the following effects:\\nLocal Unrest: §R+5.00§!\\nMonthly Autonomy Change: §G-0.05%§!",
-        "translation": "每个拥有§Y婆罗门§!阶层的省份将得到为期§Y15年§!的§Y「婆罗门正统性加强」§!，给予以下效果：\\n本地叛乱风险：§R+5.00§!\\n每月自治度变化：§G-0.05％§!",
+        "translation": "名下所有拥有§Y婆罗门§!阶层的省份将得到为期§Y15年§!的§Y「婆罗门正统性加强」§!，给予以下效果：\\n本地叛乱风险：§R+5.00§!\\n每月自治度变化：§G-0.05％§!",
         "stage": 1
     },
     {
@@ -2156,7 +2156,7 @@
     {
         "key": "palkis.tooltip:0",
         "original": "Every owned province with the §YMarathas§! estate or with §YMaratha§! culture gets §Y'Popular Palkhis'§! for §Y20 years§!, giving the following effects:\\nLocal Unrest: §G-3.00§!\\nLocal Development Cost: §G-5.0%§!\\nMonthly Devastation: §G-0.03§!",
-        "translation": "每个拥有§Y马拉塔§!阶层或者§Y马拉塔§!文化的省份将得到为期§Y20年§!的§Y「受欢迎的帕尔基」§!，获得以下效果：\\n本地叛乱风险：§G-3.00§!\\n本地开发花费：§G-5.0%§!\\n每月荒废度：§G-0.03§!",
+        "translation": "名下所有拥有§Y马拉塔§!阶层或者属于§Y马拉塔§!文化的省份将得到为期§Y20年§!的§Y「受欢迎的帕尔基」§!，获得以下效果：\\n本地叛乱风险：§G-3.00§!\\n本地开发花费：§G-5.0%§!\\n每月荒废度：§G-0.03§!",
         "stage": 1
     },
     {
@@ -3794,7 +3794,7 @@
     {
         "key": "ADD_TO_TRADE_COMPANY:0",
         "original": "Add $PROV|Y$ to Trade Company in $REGION|Y$.",
-        "translation": "添加$PROV|Y$给$REGION|Y$贸易公司。",
+        "translation": "添加$PROV|Y$给$REGION|Y$的贸易公司。",
         "stage": 1
     },
     {
@@ -4544,7 +4544,7 @@
     {
         "key": "plum_rain_tooltip:0",
         "original": "Provinces in the §Y[plum_rains_province.GetAreaName]§! Area producing §YGrain§!, §YWine§!, §YTea§!, or §YSpices§! get §Y'Plum Rain'§! for §Y5 years§!, giving the folloowing effects:\\nLocal Production Efficiency: §G+20.0%§!",
-        "translation": "在§Y[plum_rains_province.GetAreaName]§!地区中所有生产§Y谷物§!，§Y酒类§!，§Y茶叶§!，或§Y香料§!的省份§Y五年§!内获得§Y'梅雨'§!，产生以下效果：\\n本地生产效率：§G+20.0%§!",
+        "translation": "在§Y[plum_rains_province.GetAreaName]§!地区中所有生产§Y谷物§!、§Y酒类§!、§Y茶叶§!或§Y香料§!的省份§Y五年§!内获得§Y「梅雨」§!，产生以下效果：\\n本地生产效率：§G+20.0%§!",
         "stage": 1
     },
     {
@@ -4784,7 +4784,7 @@
     {
         "key": "ASSIMILATED_CULTURES_TOOLTIP_DESC:0",
         "original": "Assimilated cultures counts as accepted cultures in your country. You will receive no penalty on provinces of that culture and after it been assimilated it is permanent. A culture will become assimilated when you have conquered every single province with that culture present. However you no longer have Cultural Union on Empire tier with this government form.",
-        "translation": "已同化文化被视为您所在国家的主流文化。 因此拥有该文化的省份不再受到异文化惩罚。同化是永久性的。 当您征服了该文化的所有省份时，该文化就会被同化。 但是，当您采用这种这种政体时，您的帝国级政府将不再享有文化母国增益（即未全部征服的同文化组非主流文化省份受到文化惩罚）。",
+        "translation": "已同化文化被视为您所在国家的相容文化。 因此拥有该文化的省份不再受到异文化惩罚。同化是永久性的。 当您征服了该文化的所有省份时，该文化就会被同化。 但是，当您采用这种这种政体时，您的帝国级政府将不再享有文化母国增益（即未全部征服的同文化组非主流文化省份受到文化惩罚）。",
         "stage": 1
     },
     {
@@ -4916,7 +4916,7 @@
     {
         "key": "REVOLUTIONARY_PEASANT_REPUBLIC:0",
         "original": "Peasant Junta",
-        "translation": "农民军",
+        "translation": "农民军政府",
         "stage": 1
     },
     {
@@ -5798,7 +5798,7 @@
     {
         "key": "brahmins_estate_events.9.b.tt:1",
         "original": "Every owned province with the §YBrahmins§! estate gets §Y'Non-Brahmin Religious Movements'§! for §Y15 years§!, giving the following effects:\\nLocal Unrest: §G-5.00§!\\nMonthly Autonomy Change: §R+0.05%§!",
-        "translation": "每个拥有§Y婆罗门§!阶层将的到为期§Y15年§!的§Y「非婆罗门宗教运动」§!，给予以下效果：\\n本地叛乱风险：§G-5.00§!\\n每月自治度变化：§R+0.05%§!",
+        "translation": "名下所有拥有§Y婆罗门§!阶层的省份将得到为期§Y15年§!的§Y「非婆罗门宗教运动」§!，给予以下效果：\\n本地叛乱风险：§G-5.00§!\\n每月自治度变化：§R+0.05%§!",
         "stage": 1
     },
     {

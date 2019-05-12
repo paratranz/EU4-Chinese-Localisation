@@ -31,68 +31,68 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Christian #0" = 15
-  "Karl #0" = 15
-  "Kasimir #0" = 15
-  "Friedrich #0" = 10
-  "Jakob #0" = 10
-  "Joachim #0" = 10
-  "Kaspar #0" = 10
-  "Adolf #0" = 0
-  "Adrian #0" = 0
-  "Andreas #0" = 0
-  "August #0" = 0
-  "Bernhard #0" = 0
-  "Cornelius #0" = 0
-  "Dietrich #0" = 0
-  "Ferdinand #0" = 0
-  "Georg #0" = 0
-  "Gerhard #0" = 0
-  "Günther #0" = 0
-  "Heinrich #0" = 0
-  "Ignatz #0" = 0
-  "Isidor #0" = 0
-  "Joseph #0" = 0
-  "Konstantin #0" = 0
-  "Lorenz #0" = 0
-  "Lukas #0" = 0
-  "Marius #0" = 0
-  "Markus #0" = 0
-  "Matthias #0" = 0
-  "Michael #0" = 0
-  "Nicolaus #0" = 0
-  "Paul #0" = 0
-  "Sigmund #0" = 0
-  "Stephan #0" = 0
-  "Thomas #0" = 0
   "Aniela #0" = -1
-  "Filipa #0" = -1
-  "Renata #0" = -1
+  "瑞娜塔 #0" = -1  # Renata #0
+  "菲利帕 #0" = -1  # Filipa #0
   "文策尔 #0" = 0  # Wenzel #0
+  "托马斯 #0" = 0  # Thomas #0
+  "施特凡 #0" = 0  # Stephan #0
+  "西格蒙德 #0" = 0  # Sigmund #0
   "鲁道夫 #0" = 0  # Rudolf #0
   "拉斐尔 #0" = 0  # Raphael #0
+  "保罗 #0" = 0  # Paul #0
+  "尼克劳斯 #0" = 0  # Nicolaus #0
+  "迈克尔 #0" = 0  # Michael #0
+  "马蒂亚斯 #0" = 0  # Matthias #0
+  "马库斯 #0" = 0  # Markus #0
+  "马里乌斯 #0" = 0  # Marius #0
+  "卢卡斯 #0" = 0  # Lukas #0
   "路德维希 #0" = 0  # Ludwig #0
+  "洛伦茨 #0" = 0  # Lorenz #0
+  "康斯坦丁 #0" = 0  # Konstantin #0
+  "约瑟夫 #0" = 0  # Joseph #0
+  "伊西多尔 #0" = 0  # Isidor #0
+  "伊格纳茨 #0" = 0  # Ignatz #0
+  "海因里希 #0" = 0  # Heinrich #0
+  "冈瑟 #0" = 0  # Günther #0
+  "格哈德 #0" = 0  # Gerhard #0
+  "格奥尔格 #0" = 0  # Georg #0
+  "斐迪南 #0" = 0  # Ferdinand #0
+  "迪特里希 #0" = 0  # Dietrich #0
+  "科尼利乌斯 #0" = 0  # Cornelius #0
+  "伯恩哈德 #0" = 0  # Bernhard #0
+  "奥古斯特 #0" = 0  # August #0
+  "安德烈亚斯 #0" = 0  # Andreas #0
   "阿尔布雷希特 #0" = 0  # Albrecht #0
+  "阿德里安 #0" = 0  # Adrian #0
+  "阿道夫 #0" = 0  # Adolf #0
+  "卡斯帕尔 #0" = 10  # Kaspar #0
+  "约阿希姆 #0" = 10  # Joachim #0
+  "雅各布 #0" = 10  # Jakob #0
+  "弗里德里希 #0" = 10  # Friedrich #0
+  "卡西米尔 #0" = 15  # Kasimir #0
+  "卡尔 #0" = 15  # Karl #0
+  "克里斯蒂安 #0" = 15  # Christian #0
   "弗朗茨 约瑟夫 #0" = 20  # Franz Joseph #0
 }
 leader_names = {
-  "von Taubeneck"
-  "von Kyau"
-  "Knobelsdorf"
-  "Linkendorf"
-  "Briesen"
-  "Riwotzki"
-  "Schnittern"
-  "Schach"
-  "von Seel"
+  "冯 陶贝尼克"  # von Taubeneck
+  "冯 克劳"  # von Kyau
+  "克诺贝斯多夫"  # Knobelsdorf
+  "林肯道夫"  # Linkendorf
+  "布里耶桑"  # Briesen
+  "利沃茨基"  # Riwotzki
+  "施尼坦"  # Schnittern
+  "沙赫"  # Schach
+  "冯 泽尔"  # von Seel
   "冯 霍亨索伦"  # von Hohenzollern
 }
 ship_names = {
   "阿德勒 冯 吕贝克"  # Adler von Lübeck
   "Admiralität von Hamburg"
-  "Arche Noah"
-  "Brunte Kuh"
-  "Der Große Adler"
+  "诺亚方舟"  # Arche Noah
+  "勃朗特公牛"  # Brunte Kuh
+  "雄鹰"  # Der Große Adler
   "Engel Gabriel"
   "Fliegender Hirsch"
   "Füchslein"
@@ -142,11 +142,11 @@ ship_names = {
   "Fortuna"
   "Friede"
   "Fuchs"
-  "Gabriel"
+  "加百列"  # Gabriel
   "Hoffning"
   "约翰内斯堡"  # Johannesburg
   "Kurprinz"
-  "Makarele"
+  "马卡雷勒"  # Makarele
   "Meermann"
   "Meerweib"
   "Mercurius"
