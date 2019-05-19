@@ -3,1434 +3,1673 @@
         "key": "LIBERTY_DESIRE_CURRENT:0",
         "original": "Liberty Desire is currently: §Y$VAL$%§!",
         "translation": "目前的独立倾向：§Y$VAL$%§!",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "LIB_OUR_TARIFF:0",
         "original": "We pay §Y$VAL$%§! of our income in tariffs to $MOTHER$, and if the tariffs are higher than our Liberty Desire, then the Liberty Desire increases by §G+$INC$%§! each year.",
         "translation": "我们将收入中的 §Y$VAL$%§! 作为关税支付给$MOTHER$。如果我们的独立倾向低于关税，则每年将提高 §G+$INC$%§!。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "LIBERTY_DESIRE_CURRENT_DESC:0",
         "original": "Liberty Desire represents the colony's desire for independence. Increasing tariffs among other things will increase it over time.",
         "translation": "独立倾向代表殖民地追求独立的迫切程度。提高关税等事件会使其随着时间推移而增长。",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "LIBERTY_DESIRE_CURRENT_LIMITS:0",
         "original": "Liberty Desire represents the country's desire for independence. They may turn rebellious if their Liberty Desire is over §Y$VAL$%§!",
         "translation": "独立倾向代表国家追求独立的迫切程度，他们可能在独立倾向超过§Y$VAL$%§!时反叛",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INCREASE_TARIFFS:0",
         "original": "Increase Tariffs",
         "translation": "增收关税",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INCREASE_TARIFFS_DESC:1",
         "original": "Spend $POINTS|R$ $TYPE$ to increase the tariffs by $TARIFFS|%0G$ (currently worth $WORTH|Y$¤ monthly). This will also increase $COUNTRY|Y$ Liberty Desire by §R$LIBERTY|0$%§!.",
         "translation": "消耗$POINTS|R$$TYPE$ 提高$TARIFFS|%0G$关税（当前每月值$WORTH|Y$¤），同时会使$COUNTRY|Y$的独立倾向增加§R$LIBERTY|0$%§!。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INCREASE_TARRIF_MAX:0",
         "original": "Tariffs are already at maximum.",
         "translation": "关税已达最高值。",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INCREASE_TARIFFS_NO_POWER:0",
         "original": "You need §Y$VAL$§! $TYPE$ to increase tariffs.",
         "translation": "提高关税需要§Y$VAL$§!$TYPE$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "DECREASE_TARIFFS:0",
         "original": "Decrease Tariffs",
         "translation": "降低关税",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "DECREASE_TARIFFS_DESC:1",
         "original": "Spend $POINTS|R$ $TYPE$ to decrease the tariffs by $TARIFFS|%0R$ (currently worth $WORTH|Y$¤ monthly). This will decrease $COUNTRY|Y$ Liberty Desire by §G$LIBERTY|0$%§!.",
         "translation": "消耗$POINTS|R$$TYPE$ 以降低$TARIFFS|%0R$关税（当前每月值$WORTH|Y$¤），同时会使$COUNTRY|Y$的独立倾向降低§G$LIBERTY|0$%§!。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "DECREASE_TARRIF_MAX:0",
         "original": "Tariffs are already at minimum.",
         "translation": "关税已达最低值。",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "DECREASE_TARIFFS_NO_POWER:0",
         "original": "You need §Y$VAL$§! $TYPE$ to decrease tariffs.",
         "translation": "降低关税需要以§Y$VAL$§!$TYPE$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_INHERITANCE_CHANCE:0",
         "original": "Chance of inheriting on monarch death: $VAL|+%$",
         "translation": "君主驾崩后能继任的几率：$VAL|+%$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_BREAK_CHANCE:0",
         "original": "Chance of union breaking on monarch death: $VAL|-%$",
         "translation": "君主驾崩后联合统治破裂的几率：$VAL|-%$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "COLONIAL_OVERLORD:0",
         "original": "Is the colony of $LIST$",
         "translation": "是$LIST$的殖民地",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "COLONIAL_SUBJECTS:0",
         "original": "Has the colonies $LIST$",
         "translation": "名下有以下殖民地：$LIST$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "COLONIAL_SUBJECT_OF:0",
         "original": "Colony of $LORD$",
         "translation": "$LORD$的殖民地",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_COLONY_TARIFF_EFFICIENCY:0",
         "original": "Tariff efficiency is §Y$VAL$%§!$VAL2$.",
         "translation": "关税效率为§Y$VAL$§!%$VAL2$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_COLONY_TARIFF:0",
         "original": "§Y$NAME$§! is paying us §Y$VAL$§!¤ each month.",
         "translation": "§Y$NAME$§!每月支付§Y$VAL$§!¤给我们。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_COLONY_TARIFF_DESC:0",
         "original": "Colonies pay a part (based on tariff efficiency) of their tax as tariff. This can be increased but may cause the colony to rebel.",
         "translation": "殖民地将税收的一部分用作关税（基于关税效率）支付给我们。你能够增加此中比例，但可能导致殖民地的叛乱。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_INCOME:0",
         "original": "§Y$NAME$§! is paying us §Y$VAL$§!¤ each month.",
         "translation": "§Y$NAME$§!每月支付§Y$VAL$§!¤给我们。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_INCOME_DESC:0",
         "original": "Your $TYPES$ are required to pay $VALUE|Y$ of their monthly tax to you.",
         "translation": "你的$TYPES$被要求支付他们月入税收的$VALUE|Y$给你。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_NO_INCOME_DESC:0",
         "original": "$TYPES$ do not give us any tax.",
         "translation": "$TYPES$没有给予我们任何税收。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_DISLOYAL_INCOME_DESC:0",
         "original": "Disloyal subjects will refuse to pay us taxes and tariffs.",
         "translation": "不忠的属国会拒绝上缴税收和关税。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_ARMY_SIZE:0",
         "original": "Our subject has an army of §Y$NUM$§! regiments. Our army has §Y$LORD_NUM$§! regiments.",
         "translation": "我们的属国有一支规模达§Y$NUM$§!个团的军队。我们的军队规模达§Y$LORD_NUM$§!个团。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_ARMY_SIZE_DESC:0",
         "original": "A subject nation that has a greater army than its overlord will feel more inclined towards rebellion.",
         "translation": "属国拥有比宗主国更强大的军队时会更倾向于掀起叛乱。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_TP_FROM_PROT:0",
         "original": "Gives the following amount of §YTrade power§! in listed nodes.",
         "translation": "给以下列表中的贸易节点§YTrade power§!贸易竞争力。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "UNION_BREAK_OPINION:0",
         "original": "Union will break if subject's opinion of his overlord is below §Y$LIMIT$§! (Current: $CURRENT$).",
         "translation": "属国对其宗主的好感度低于§Y$LIMIT$§! （当前值：$CURRENT$）时，联合统治将破裂。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "UNION_BREAK_PRESTIGE:0",
         "original": "Union will break if overlords prestige is below §Y$LIMIT$§! (Current: $CURRENT$).",
         "translation": "当宗主国的威望低于§Y$LIMIT$§!（当前值：$CURRENT$）时，联合统治将破裂。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "PROTECTORATE_LEAD:0",
         "original": "Has $LIST$ as protectorates",
         "translation": "名下有以下保护国：$LIST$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "PROTECTORATE_WEAK:0",
         "original": "Protectorate of $LIST$",
         "translation": "是$LIST$的保护国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "HEADER_SUBJECTS:0",
         "original": "Subjects",
         "translation": "附属国",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "HEADER_ESTATES:0",
         "original": "Estates",
         "translation": "阶层",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "HEADER_NATIVES:0",
         "original": "Natives",
         "translation": "原住民",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "HEADER_RELIGIOUS_REFORMS:0",
         "original": "Religious Reforms",
         "translation": "宗教改革",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NO_CURR_SUBJECTS_TT:0",
         "original": "You do not currently have any subject nations.",
         "translation": "你目前没有任何属国。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "ideas_invested:0",
         "original": "Ideas",
         "translation": "理念",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "FATHER_TIME_ON_TECH:0",
         "original": "Increase over time: $VAL$\\n",
         "translation": "随时间增长：$VAL$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE:0",
         "original": "Migrate",
         "translation": "部落迁徙",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_DESC:0",
         "original": "When migrating, $COUNTRY$ will lose control over $PROVINCE$. They will move on to a chosen neighboring province. $COUNTRY$ will also earn a boost in monarch power when migrating.",
         "translation": "进行部落迁徙时$COUNTRY$会失去对$PROVINCE$的控制并迁徙到被选中的邻近省份。同时$COUNTRY$也会获得君主点数加成。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "native_council:0",
         "original": "Native Council",
         "translation": "原住民议会",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "native_council_desc:0",
         "original": "One or more tribes ruled by a council of hereditary positions. Its members present unanimous decisions after lengthy discussions, although one chieftain has the honor of being the official spokesperson.",
         "translation": "一个或多个部落的首领组成的世袭式议会。成员们处理政务时必须经过长时间的讨论才能得出结果，然后一个酋长获得公开发布正式命令的荣誉。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "native_council_ruler:0",
         "original": "Chief",
         "translation": "酋长",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "native_council_ruler_female:0",
         "original": "Chief",
         "translation": "女酋长",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "st_lawrence:0",
         "original": "Gulf of St. Lawrence",
         "translation": "圣劳伦斯湾",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "laplata:0",
         "original": "Rio de La Plata",
         "translation": "拉普拉塔河",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "ACCESS_DEPEND:0",
         "original": "You do not need specific access rights if you have close relations, or if you have the same overlord.",
         "translation": "如果你和对方关系密切或臣服于同一领主，则不需要申请特定的通行权。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "ACCESS_OVERLORDS_OVERLORD:0",
         "original": "The overlord of a country's overlord does not need specific access rights.",
         "translation": "属国宗主国的宗主国并不需要特别授予通行权。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "DIPLO_COLONY_NATION:0",
         "original": "Colonial Nation: ",
         "translation": "殖民地国家：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "COLONINAL_NATION_GROWTH_IMPACT:0",
         "original": "Colonial Nation: §Rx$VAL$§!\\n",
         "translation": "殖民地国家：§Rx$VAL$§!\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "merchant_republic_size:0",
         "original": "Large Merchant Republic",
         "translation": "大型商业共和国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NATIVES_CANT_FABRICATE:0",
         "original": "Natives cannot fabricate claims.\\n",
         "translation": "原住民不能伪造宣称。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "WEST_REASON_NATIVE:0",
         "original": "You need to reform your government first.",
         "translation": "你需要先进行政体改革。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "WEST_REASON_RELIGION_REFORM:0",
         "original": "You need to reform your religion first.",
         "translation": "你需要先进行宗教改革。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REFORM_RELIGION_EXPL:1",
         "original": "Reform our religion and society by learning from §Y$WHO$§!, giving us §Y$LVL$§! technologies spread across the categories, while embracing $NUM|Y$ institutions.",
         "translation": "向§Y$WHO$§!学习以改革我们的宗教和社会。这可以使我们在各领域中获得§Y$LVL$§!科技，并接纳$NUM|Y$个思潮。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REFORM_RELIGION_EXPL_DET_2:0",
         "original": "It is possible to reform our religion and society if we have all the religious reforms and either border a European nation OR have a total of $NEEDED|Y$ technology levels.",
         "translation": "如果我们完成了所有的宗教改革选项并与欧洲国家相邻，或是总科技水平达到$NEEDED|Y$级，就可以改革我们的宗教与社会。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REFORM_RELIGION_NO_SPONSOR_EXPL:0",
         "original": "Reform our religion and society by applying our technological understanding. This will change our government into a more modern type and give us institutions to help us.",
         "translation": "通过应用我们对技术的理解来改革我们的国家，这将会使我们的政府更加现代化并且给予思潮来帮助我们。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REFORM_NATIVE_EXPL:1",
         "original": "Reform to §Y$GOV$§! by learning from §Y$WHO$§!, giving us §Y$LVL$§! technologies spread across the categories, while embracing $NUM|Y$ institutions.",
         "translation": "向§Y$WHO$§!学习以将政府改革至§Y$GOV$§!。这可以使我们在各领域中获得§Y$LVL$§!科技，并接纳$NUM|Y$个思潮。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REFORM_NATIVE_EXPL_DET_2:0",
         "original": "It is possible to reform away from a native council to a more advanced form of government if we have all native advancements and either border a European nation OR have a total of $NEEDED|Y$ technology levels.",
         "translation": "若我们完成所有的原住民开化并且接壤欧洲国家，或者科技水平总共达到$NEEDED|Y$级时，我们有可能将原住民会议政体改革为另一个更为先进的政府体制。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REFORM_NATIVE_NO_SPONSOR_EXPL:0",
         "original": "Reform our nation by applying our technological understanding. This will change our government into a more modern type and allow us to Westernize.",
         "translation": "通过应用我们对技术的理解来改革我们的国家，这将使我们的政府更加现代化，使我们能够西方化。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "GOTTA_CATCH_THEM_ALL:0",
         "original": "§R- Need all native advancements.§!\\n",
         "translation": "§R－需要全部的土著传统体制革新。§!\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "GOTTA_CATCH_THEM_ALL_REFORMS:0",
         "original": "§R- Need all religious reforms.§!\\n",
         "translation": "§R－需要所有的宗教改革。§!\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEED_HELP_OR_TECHS_FOR_REFORM:1",
         "original": "§R- We need a neighbor having embraced some Institution, with an adjacent core province. §!\\n",
         "translation": "§R－我们需要一个已经接受了一些思潮的邻国，以及一个相邻的核心省份。 §!\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NATIVE_CHANGE_GOVERNMENT:0",
         "original": "Reform Government",
         "translation": "改革政府体制",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_GOVERNMENT:0",
         "original": "$NAME$ cannot migrate.",
         "translation": "$NAME$无法进行部落迁徙。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_OPM:0",
         "original": "A nation cannot own more than one province to be able to migrate.",
         "translation": "一个部落国家拥有的省份数量不能超过一个，否则无法进行部落迁徙。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_WAR:0",
         "original": "It's not possible to migrate when at war.",
         "translation": "战争期间无法进行部落迁徙。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_COOLDOWN:0",
         "original": "Next migration is possible on $DATE|Y$.",
         "translation": "$DATE|Y$后可进行下一次部落迁徙。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_COOLDOWN:0",
         "original": "$COUNTRY$ will be able to migrate again in $DAYS|Y$ days. ($DATE|Y$)",
         "translation": "$COUNTRY$能在$DAYS|Y$天后再次迁徙。（$DATE|Y$）",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_POSSIBLE_BUTTON_DESC:0",
         "original": "Click to open the migration view.",
         "translation": "点击打开迁徙部落窗口。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_TO_DESC:0",
         "original": "$COUNTRY$ will migrate to $NEWPROV$ and lose control over $OLDPROV$. $COUNTRY$ will get $ADM$£adm£, $DIP$£dip£ and $MIL$£mil£ for migrating. $COUNTRY$ will have to wait to $DATE$ until they can migrate again.",
         "translation": "$COUNTRY$将迁徙到$NEWPROV$并失去$OLDPROV$的控制权。$COUNTRY$会因迁徙获得$ADM$£adm£、$DIP$£dip£和$MIL$£mil£。$DATE$后$COUNTRY$才能再次进行迁徙。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_can_migrate_instant:0",
         "original": "§YMigration possible.§!",
         "translation": "§Y进行部落迁徙。§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_can_migrate_delayed:0",
         "original": "It's now possible to migrate to a neighboring province.",
         "translation": "现在能迁徙到一个相邻的省份。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_religious_reform_instant:0",
         "original": "§YYou can now pass a religious reform.§!",
         "translation": "§Y可以进行宗教改革。§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_religious_reform_delayed:0",
         "original": "$LIST$",
         "translation": "$LIST$",
-        "stage": -1
+        "stage": -1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_can_upgrade_government_instant:0",
         "original": "§YYou can upgrade your Government Rank.§!",
         "translation": "§Y可以提升政府等级。§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_can_upgrade_government_delayed:0",
         "original": "A higher Government Rank will grant us considerable benefits.",
         "translation": "级别更高的政府可以提供诸多好处。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_native_advancement_instant:0",
         "original": "§YYou can now invest in a native advancement.§!",
         "translation": "§Y现在可以发展一项原住民开化。§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_native_advancement_delayed:0",
         "original": "$LIST$",
         "translation": "$LIST$",
-        "stage": -1
+        "stage": -1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_federation_drop_instant:0",
         "original": "§YYou will soon be dropped from the federation.§!",
         "translation": "§Y你很快就会被部落联盟开除。§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_federation_drop_delayed:0",
         "original": "$LIST$\\nIf your federation leader gets a negative opinion about you, you'll be kicked out from the federation.",
         "translation": "$LIST$\\n如果你的部落联盟盟主对你有不好的看法，你将会被踢出部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_high_liberty_desire_instant:0",
         "original": "§YOne or more of your subjects have a high Liberty Desire.§!",
         "translation": "§Y你的一个或多个属国独立倾向高。§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "alert_high_liberty_desire_delayed:0",
         "original": "$LIST$\\nIf one of your subjects gets more than $LIMIT|Y0$ Liberty Desire, they will become disloyal and might declare an independence war.",
         "translation": "$LIST$\\n若你属国独立倾向高于$LIMIT|Y0$，他们就会不忠于你并可能发动独立战争。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "WHO_LIBERTY_DESIRE:0",
         "original": "$WHO|Y$ Liberty Desire: §Y$VAL$%§!",
         "translation": "$WHO|Y$的独立倾向为：§Y$VAL$%§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "FEDERATION_NEEDS_GOOD_OPINION:0",
         "original": "The Federation leader must have a positive opinion about a new member.",
         "translation": "部落联盟盟主必须对新成员有积极的态度。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_NOT_NEIGHBOR:0",
         "original": "Not a neighbor province.",
         "translation": "不是相邻的省份。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_NOT_DISCOVERED:0",
         "original": "It is not possible to migrate to a province you haven't discovered yet.",
         "translation": "无法迁徙至一个未被发现的省份。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_NO_PROVINCES:0",
         "original": "You do not have any neighboring provinces that you can migrate to.",
         "translation": "没有可迁徙的邻近省份。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_OWNED:0",
         "original": "$PROVINCE$ is owned by $COUNTRY$.",
         "translation": "$PROVINCE$属于$COUNTRY$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_WASTELAND:0",
         "original": "It's not possible to migrate to wasteland.",
         "translation": "不能迁徙至荒芜之地。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_SEA:0",
         "original": "It's not possible to migrate to a sea province.",
         "translation": "不能迁徙至海域。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIGRATE_REASON_POSSIBLE:0",
         "original": "It's possible to migrate to $PROVINCE$.",
         "translation": "能够迁徙到$PROVINCE$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MODIFIER_NATIVE_ADVANCEMENT_COST:0",
         "original": "Native advancement Cost",
         "translation": "原住民开化花费",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "WHEN_GROUPS_FILLED:0",
         "original": "When all $MAX|Y$ advancement groups are fully unlocked, you'll be able to change government type. $UNLOCKED|Y$ groups are filled so far.",
         "translation": "当完全解锁所有$MAX|Y$个制度革新组便可以改变政体。目前已完全解锁$UNLOCKED|Y$个革新组。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MAPMODE_COLONIALANDTRADECOMPANYREGIONS:0",
         "original": "Colonial and Trade Regions",
         "translation": "殖民地与贸易地区",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MAPMODE_COLONIALANDTRADECOMPANYREGIONS_DESC:0",
         "original": "Regions where colonial states and trade companies can form.",
         "translation": "可以成立殖民地国家和贸易公司的地区。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NOT_IN_FEDERATION:0",
         "original": "$NAME$ is not a member of a federation.",
         "translation": "$NAME$不是部落联盟成员。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "federation_leader:0",
         "original": "Federation leader",
         "translation": "部落联盟盟主",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "FEDERATION_LEADER:0",
         "original": "Federation leader: $LEADER|G$",
         "translation": "部落联盟盟主：$LEADER|G$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "FEDERATION_MEMBERS:0",
         "original": "Federation members: $MEMBERS|Y$",
         "translation": "部落联盟成员：$MEMBERS|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "FEDERATION_LEADER_BONUS:0",
         "original": "The leader of a federation gets the following bonus:\\n$BONUS$",
         "translation": "部落联盟盟主获得以下加成：\\n$BONUS$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "FEDERATION_OF:0",
         "original": "The Federation of $LEADER$",
         "translation": "$LEADER$所领导的部落联盟",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "ONLY_FEDERATION_LEADER_MAY_INVITE:0",
         "original": "Only a federation leader may invite to federation.",
         "translation": "只有部落联盟盟主可以邀请加盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEW_LEADER_ON_DEATH:0",
         "original": "When the monarch of $LEADER|Y$ dies, the country with the highest federal authority will be the new leader. Right now that is $NEWLEADER|Y$ with $VAL|Y0$ federal authority.",
         "translation": "$LEADER|Y$统治者去世后，盟内权威最高的国家将成为新盟主。目前的人选是拥有$VAL|Y0$盟内权威的$NEWLEADER|Y$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "FEDERAL_AUTHORITY:0",
         "original": "Federal authority: $VAL|+2$",
         "translation": "盟内权威：$VAL|+2$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REQUEST_TO_JOIN_FEDERATIONTITLE:0",
         "original": "Request to join federation.",
         "translation": "请求加入部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REQUEST_TO_JOIN_FEDERATIONDESC:0",
         "original": "Do you wish to ask $ACTOR$ if you can join their Federation.",
         "translation": "你想询问$ACTOR$你是否可以加入他们的部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REQUEST_TO_JOIN_FEDERATIONREQDESC:0",
         "original": "$ACTOR$ is requesting to join our federation. Do we accept their request?",
         "translation": "$ACTOR$在请求加入我们的部落联盟。我们是否接受他们的请求？",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INVITE_TO_FEDERATIONTITLE:0",
         "original": "Invitation to a federation.",
         "translation": "邀请加入一个部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INVITE_TO_FEDERATIONDESC:0",
         "original": "Do you wish to ask $ACTOR$ if they will join our Federation.",
         "translation": "你想询问$ACTOR$他们是否要加入我们的联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INVITE_TO_FEDERATIONREQDESC:0",
         "original": "$ACTOR$ is asking us to join their Federation. Do we want to join?",
         "translation": "$ACTOR$邀请我们加入他们的部落联盟。我们要参加吗？",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "JOIN_FEDERATION:0",
         "original": "Join Federation",
         "translation": "加入部落联盟",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "JOIN_FEDERATION_REQ_DESC:0",
         "original": "Do you wish to join the Federation of $LEADER$.",
         "translation": "你希望加入$LEADER$组建的部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "JOIN_FEDERATION_DESC:0",
         "original": "Join the Federation.",
         "translation": "加入这个部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "JOIN_FEDERATION_TITLE:0",
         "original": "Join Federation",
         "translation": "加入部落联盟",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INVITE_TO_FEDERATION:0",
         "original": "Invite to Federation",
         "translation": "邀请至部落联盟",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INVITE_TO_FEDERATION_REQ_DESC:0",
         "original": "Do you wish to invite $COUNTRY$ to your Federation.",
         "translation": "你希望邀请$COUNTRY$加入你的部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INVITE_TO_FEDERATION_DESC:0",
         "original": "Invite to your Federation.",
         "translation": "邀请加入你的部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INVITE_TO_FEDERATION_TITLE:0",
         "original": "Invite to Federation",
         "translation": "邀请加入部落联盟",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REQUESTTOJOINFEDERATIONTITLE:0",
         "original": "Join Federation",
         "translation": "加入部落联盟",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REQUESTTOJOINFEDERATIONDESC:0",
         "original": "Ask if $COUNTRY$ may join the Federation led by $LEADER$.",
         "translation": "询问$COUNTRY$是否能加入$LEADER$领导的部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INVITETOFEDERATIONTITLE:0",
         "original": "Invite to Federation",
         "translation": "邀请加入部落联盟",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "INVITETOFEDERATIONDESC:0",
         "original": "Ask if $THEY$ would like to join the Federation led by $LEADER$.",
         "translation": "询问$THEY$是否加入$LEADER$领导的部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "LEAVEFEDERATIONTITLE:0",
         "original": "Leave Federation",
         "translation": "脱离部落联盟",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "LEAVEFEDERATIONDESC:0",
         "original": "$COUNTRY$ will leave the Federation led by $LEADER$.",
         "translation": "$COUNTRY$将脱离由$LEADER$领导的部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "KICKFROMFEDERATIONTITLE:0",
         "original": "Kick from Federation",
         "translation": "从部落联盟中踢除",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "KICKFROMFEDERATIONDESC:0",
         "original": "$COUNTRY$ will be kicked out from the Federation led by $LEADER$.",
         "translation": "$COUNTRY$将被踢出由$LEADER$领导的部落联盟。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEED_FEDERATION_LEADER_INVITE:0",
         "original": "$COUNTRY$ need to be leader over a Federation to invite other countries.",
         "translation": "$COUNTRY$需要成为联盟的盟主才能邀请其他国家。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEED_FEDERATION_LEADER_REQUEST:0",
         "original": "$COUNTRY$ need to be leader over a Federation to accept other countries.",
         "translation": "$COUNTRY$需要成为联盟的盟主才能接受其他国家的请求。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "ALREADY_IN_FEDERATION:0",
         "original": "$COUNTRY$ is already in a Federation, led by $LEADER$.",
         "translation": "$COUNTRY$已经加入了由$LEADER$领导的部落联盟里。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REQUEST_JOIN_TO_LEADER:0",
         "original": "A request to join must be sent to the leader for the Federation, $LEADER$.",
         "translation": "加盟请求已经送达部落联盟盟主$LEADER$手中。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "REQUEST_LEAVE_TO_LEADER:0",
         "original": "A request to leave a Federation must be sent to the leader, $LEADER$.",
         "translation": "脱离请求已经送达部落联盟盟主$LEADER$手中。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "humiliate:0",
         "original": "Humiliate",
         "translation": "羞辱",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "humiliate_desc:0",
         "original": "Your goal is not to conquer and take their land, but to show them who the superior tribe is by humiliate their people.",
         "translation": "你的目的不是政府并霸占他们的土地，而是给他们点教训，以此羞辱他们。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "humiliate_rotw:0",
         "original": "Humiliate",
         "translation": "羞辱",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "humiliate_rotw_desc:0",
         "original": "The goal is to force your enemy to admit defeat and be humiliated in the eyes of the world.",
         "translation": "目标是迫使你的敌人承认失败，让它在全世界的注视下被羞辱。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "cb_humiliate_rotw:0",
         "original": "Humiliate Rival",
         "translation": "羞辱宿敌",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "cb_humiliate_rotw_desc:0",
         "original": "We can humiliate our rivals.",
         "translation": "我们可以羞辱我们的宿敌。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "HUMILIATE_ROTW_WAR_NAME:0",
         "original": "$ORDER$$FIRST$ Humiliation of $SECOND_NAME$",
         "translation": "$ORDER$$FIRST$羞辱$SECOND_NAME$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NO_PROVS:0",
         "original": "Cannot be used to take any provinces.",
         "translation": "不能被用来夺取任何省份。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "blockade_ports:0",
         "original": "Blockade ports",
         "translation": "封锁港口",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "blockade_ports_desc:0",
         "original": "Your goal is to stop your enemies trade by blocking as many ports as possible.",
         "translation": "你的目标是靠封锁尽量多的港口以破坏敌人的贸易。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "HAVE_HIGHER_LIBERTY_DESIRE_THEN:0",
         "original": "Liberty Desire at least §Y$VAL$%§!",
         "translation": "独立倾向达到§Y$VAL$%§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "HAVE_LOWER_LIBERTY_DESIRE_THEN:0",
         "original": "Liberty Desire less than §Y$VAL$%§!",
         "translation": "独立倾向低于§Y$VAL$%§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_NOT_IN_THE_COLONIAL_REGION:0",
         "original": "Is NOT in the colonial region ",
         "translation": "不在殖民地区内",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_IN_COLONIAL_REGION:0",
         "original": "Is in the colonial region ",
         "translation": "在殖民地区内",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "AT_LEAST_ONE_PROVINCE_IN_COLONIAL_REGION:0",
         "original": "At least one province in the $REGION$ colonial region",
         "translation": "至少一个属于$REGION$殖民地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NOT_ONE_PROVINCE_IN_COLONIAL_REGION:0",
         "original": "No provinces in the $REGION$ colonial region",
         "translation": "没有一个属于$REGION$殖民地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "ALL_PROVINCES_IN_COLONIAL_REGION:0",
         "original": "All provinces in the $REGION$ colonial region",
         "translation": "所有$REGION$殖民地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NOT_ALL_PROVINCES_IN_COLONIAL_REGION:0",
         "original": "Not all provinces in the $REGION$ region",
         "translation": "并非所有属于$REGION$殖民地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "LIBERTY_EFFECT:0",
         "original": "$DIRECTION$ $PERC$ Liberty Desire.\\n",
         "translation": "$DIRECTION$$PERC$独立倾向。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "TARIFF_VALUE_EFFECT:0",
         "original": "$DIRECTION$ $PERC$ tariff value.\\n",
         "translation": "$DIRECTION$$PERC$关税价值。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "ADD_LOCAL_AUTONOMY_EFFECT:0",
         "original": "$DIRECTION$ $PERC$ Local Autonomy in $WHERE$\\n",
         "translation": "$WHERE$$DIRECTION$$PERC$地方自治度\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SET_LOCAL_AUTONOMY_EFFECT:0",
         "original": "Set Local Autonomy in $WHERE|Y$ to $VALUE|Y$\\n",
         "translation": "设置当地自治由$WHERE|Y$至$VALUE|Y$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_NOT_CLIENT_OF:0",
         "original": "Is NOT a client state of ",
         "translation": "不是该国的自定义附庸：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_CLIENT_OF:0",
         "original": "Is a client state of ",
         "translation": "是该国的自定义附庸：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_NOT_CLIENT:0",
         "original": "Is NOT a client state",
         "translation": "不是自定义附庸",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_CLIENT:0",
         "original": "Is a client state",
         "translation": "是自定义附庸",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_NOT_COLONY_OF:0",
         "original": "Is NOT a colony of ",
         "translation": "不是该国的殖民领：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_COLONY_OF:0",
         "original": "Is a colony of ",
         "translation": "是该国的殖民领：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_NOT_COLONY:0",
         "original": "Is NOT a colony",
         "translation": "不是殖民领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_COLONY:0",
         "original": "Is a colony",
         "translation": "是殖民领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_NOT_VASSAL:0",
         "original": "Is NOT a vassal",
         "translation": "不是附庸国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IS_VASSAL:0",
         "original": "Is a vassal",
         "translation": "是附庸国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "western_europe_coast:0",
         "original": "Western Europe",
         "translation": "西欧",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "VASSAL_TOO_BACKWARD:0",
         "original": "This country is too backwards to become a proper vassal, they can only become a protectorate.",
         "translation": "这个国家太过落后，不能成为附庸国，只能成为一个受保护国。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "VASSAL_EFF_EXPL:0",
         "original": "Our income from our vassals is modified by the following factors:\\n",
         "translation": "我们的附庸国上缴的收入受到以下因素影响：\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "COLON_EFF_EXPL:0",
         "original": "Our income from our colonies is modified by the following factors:\\n",
         "translation": "我们的殖民领上缴的收入受到以下因素影响：\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "LEDGER_COUNTRY_INCOME:0",
         "original": "Income Comparison",
         "translation": "对比收入",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_SETUP:0",
         "original": "When a colonial nation forms from a nation's overseas provinces.",
         "translation": "当一个国家的海外省份成立一个殖民地国家。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_HEADER:0",
         "original": "$MESSENGER$",
         "translation": "$MESSENGER$",
-        "stage": -1
+        "stage": -1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_1:0",
         "original": "New Colonial Nation!",
         "translation": "新殖民地国家！",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_2:0",
         "original": "$NAME$",
         "translation": "$NAME$",
-        "stage": -1
+        "stage": -1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_3:0",
         "original": "has formed from the overseas provinces of",
         "translation": "从$COUNTRY$的海外省份成立",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_4:0",
         "original": "$COUNTRY$ in $REGION$.",
         "translation": "位于$REGION$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_5:0",
         "original": "The new nation is an independent possession of its mother country but may break free in the distant future if mismanaged.",
         "translation": "这个新国家拥有独立于母国的行政地位，在遥远的未来里若缺乏管理可能会获得独立。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_6:0",
         "original": "",
         "translation": "",
-        "stage": -1
+        "stage": -1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_LOG:0",
         "original": "$NAME$ formed in $REGION$.",
         "translation": "建立在$REGION$地区的$NAME$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_BTN1:0",
         "original": "OK",
         "translation": "好的",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_BTN2:0",
         "original": "OK",
         "translation": "好的",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NEWCOLONIALCOUNTRY_MAP:0",
         "original": "New Colonial Nation!",
         "translation": "新殖民地国家！",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_TYPE:0",
         "original": "Sort by subject type",
         "translation": "按属国类型排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_NAME:0",
         "original": "Sort by name",
         "translation": "按名字排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_INCOME:0",
         "original": "Sort by income",
         "translation": "按收入排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_EFFICIENCY:0",
         "original": "Sort by income efficiency",
         "translation": "按收入效率排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_BONUS:0",
         "original": "Sort by bonuses",
         "translation": "按加值排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_ACTION:0",
         "original": "Sort by actions",
         "translation": "按动作排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_INHERTIANCE:0",
         "original": "Sort by inheritance chance",
         "translation": "按继承几率排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_BREAK:0",
         "original": "Sort by Liberty Desire",
         "translation": "按独立倾向排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_ARMY:0",
         "original": "Sort by army size",
         "translation": "按军队规模排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_COLONY_INCOME:0",
         "original": "Colony Income:",
         "translation": "殖民领收入：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_VASSAL_INCOME_LABEL:0",
         "original": "Vassal Income:",
         "translation": "附庸国收入：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBECT_TOTAL_INCOME:0",
         "original": "Total Subject Income:",
         "translation": "属国总收入：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "NO_TARIFFS_COUNTRIES:0",
         "original": "No colonies",
         "translation": "没有殖民领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_TRADE:0",
         "original": "Sort by trade power transferred",
         "translation": "按转移的贸易竞争力排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SORT_OPINION:0",
         "original": "Sort by subjects opinion of us",
         "translation": "按属国的好感度排序",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_NO_COLONIES:0",
         "original": "We have no colonies",
         "translation": "我们没有殖民领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_NO_VASSALS:0",
         "original": "We have no vassals",
         "translation": "我们没有附庸国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "WE_ARE_AT_WAR:0",
         "original": "We are at war",
         "translation": "我们处于战争时期",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "cb_colonial_independance_war:0",
         "original": "Colonial Independence",
         "translation": "殖民领独立",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "cb_colonial_independance_war_desc:0",
         "original": "We deserve independence.",
         "translation": "我们理应独立。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "COLONIAL_NAME_FROM_OWNER_PROVINCE:0",
         "original": "New $NAME$",
         "translation": "新$NAME$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "TRADE_WIND_TITLE:0",
         "original": "§YTrade Wind§!",
         "translation": "§Y信风§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "TRADE_WIND_DESC:0",
         "original": "The movement cost to adjacent sea provinces will decrease or increase depending on if you're sailing with or into the wind. This affects both trade range and colonial range.",
         "translation": "信风的风向影响你在临海省份的移动消耗，同样也影响贸易范围以及殖民距离。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "resource_depleted:0",
         "original": "Resources depleted by migrants",
         "translation": "迁徙后的资源枯竭",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "desc_resource_depleted:0",
         "original": "The beasts of the forest have been hunted, the berries picked and fish are scarce in the rivers. Nature needs time to recover.",
         "translation": "兽狩尽，果啃逛，竭泽渔。自然需要时间来修复人类破坏的结果。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SHOW_RELEASE_COLONY:0",
         "original": "Release one of your colonial subjects",
         "translation": "释放一个殖民领成为独立国家。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "SUBJECT_SHOW_RELEASE_COLONY_DESC:0",
         "original": "Should you wish, you can also continue playing as this nation.",
         "translation": "如果你愿意，你也可以继续扮演这个国家。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "LIBERATE_COLONY:0",
         "original": "Liberate Colony",
         "translation": "解放殖民领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "LIBERATE_COLONY_DESC:0",
         "original": "§Y$COUNTRY$§W will be released with the following provinces: $LIST$.\\n",
         "translation": "§Y$COUNTRY$§W将释放以下省份：$LIST$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_SETUP:0",
         "original": "When a colonial is released from its former overlord.",
         "translation": "当殖民领从之前的宗主国中解放。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_HEADER:0",
         "original": "$MESSENGER$",
         "translation": "$MESSENGER$",
-        "stage": -1
+        "stage": -1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_1:0",
         "original": "Colonial Nation Liberated!",
         "translation": "殖民领国家自由了！",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_2:0",
         "original": "$NAME$",
         "translation": "$NAME$",
-        "stage": -1
+        "stage": -1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_3:0",
         "original": "has released the former colony of",
         "translation": "解放前殖民地：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_4:0",
         "original": "$COUNTRY$ in $REGION$.",
         "translation": "位于$REGION$地区的$COUNTRY$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_5:0",
         "original": "The new nation is fully independent.",
         "translation": "这个新生的国家将是一个完全独立的国家。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_6:0",
         "original": "",
         "translation": "",
-        "stage": -1
+        "stage": -1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_LOG:0",
         "original": "$NAME$ in $REGION$ is released.",
         "translation": "$NAME$被释放在$REGION$地区。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_BTN1:0",
         "original": "OK",
         "translation": "好的",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_BTN2:0",
         "original": "OK",
         "translation": "好的",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_BTN3:0",
         "original": "Go to",
         "translation": "前往",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASEDCOLONY_MAP:0",
         "original": "Colony Liberated!",
         "translation": "殖民领被解放了！",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASE_COLONY_BUTTON:0",
         "original": "Release $COUNTRY|Y$ as a free nation",
         "translation": "解放独立国家$COUNTRY|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASE_COLONY_BUTTON_TO_LOW:0",
         "original": "Liberty Desire must be over $LIMIT|Y$, current Liberty Desire is $CURRENT|Y$",
         "translation": "独立倾向必须超过$LIMIT|Y$，目前为$CURRENT|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RELEASE_AT_WAR:0",
         "original": "Not possible to release colonies while at war.",
         "translation": "无法在战争中解放殖民领。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "IRONMANMODE_START:0",
         "original": "Ironman Mode",
         "translation": "铁人模式",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "RANDOM_WORLD_START:0",
         "original": "Random New World",
         "translation": "随机新大陆",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "CVIEW_LIBERTY_DESIRE_AFFECTS:0",
         "original": "§YEffects from our current Liberty Desire:§W",
         "translation": "§Y当前独立倾向给我们带来的影响：§W",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "liberty_desire:0",
         "original": "Liberty Desire",
         "translation": "独立倾向",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "ADM_SCORE_OCCUPATION:0",
         "original": "Occupation: §R$VAL$§!\\n",
         "translation": "占领：§R$VAL$§!\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIL_SCORE_EXHAUSTION:0",
         "original": "War exhaustion: §R$VAL$§!\\n",
         "translation": "厌战度：§R$VAL$§!\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "DIP_SCORE_WARSCORE:0",
         "original": "Losing Wars: §R$VAL$§!\\n",
         "translation": "战争失败：§R$VAL$§!\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "MIL_SCORE_MAIN_FORT:0",
         "original": "Fort Maintenance: $VAL$\\n",
         "translation": "要塞维护：$VAL$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "ENVOY_DIPLOMATING_IMPROVING_RELATION_DONE:0",
         "original": "This relation can be improved by $OPINION|+$ more, estimated to be done $DATE|Y$.",
         "translation": "这段关系能够再提升$OPINION|+$，预计于$DATE|Y$完成。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "CHECK_ALL_DLC:0",
         "original": "Select/Unselect All",
         "translation": "全选 / 取消全选",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "native_council_legacy:0",
         "original": "Native Council",
         "translation": "原住民议会",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/nw_l_english.yml"
     },
     {
         "key": "native_council_legacy_desc:0",
         "original": "One or more tribes ruled by a council of hereditary positions. Its members present unanimous decisions after lengthy discussions, although one chieftain has the honor of being the official spokesperson.",
         "translation": "一个或多个部落的首领组成的世袭式议会。成员们处理政务时必须经过长时间的讨论才能得出结果,然后由名义上的酋长公开发布正式命令。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/nw_l_english.yml"
     }
 ]

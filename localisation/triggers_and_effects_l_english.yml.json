@@ -3,3846 +3,4487 @@
         "key": "X_BECOMES_HARMONIZED:0",
         "original": "$NAME|Y$ becomes harmonized.\\n",
         "translation": "已经融合$NAME|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_CURRENT_ICON_TR:0",
         "original": "$ICON|Y$ is NOT currently commissioned.",
         "translation": "当前未使用$ICON|Y$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CURRENT_ICON_TR:0",
         "original": "$ICON|Y$ is currently commissioned.",
         "translation": "当前已使用$ICON|Y$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_STATE_STARTS:0",
         "original": "Any State",
         "translation": "任意直属州",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NO_ANY_STATE_STARTS:0",
         "original": "No State",
         "translation": "没有直属州",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_STATE_STARTS:0",
         "original": "All States",
         "translation": "所有直属州",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NO_ALL_STATE_STARTS:0",
         "original": "Not all states",
         "translation": "并非所有直属州",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NO_PATRIARCH_IN:1",
         "original": "No State Metropolitan in $NAME$.\\n",
         "translation": "$NAME$没有都主教。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_PATRIARCH_IN:1",
         "original": "State Metropolitan in $NAME|Y$.\\n",
         "translation": "$NAME|Y$有都主教。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IN_GOLDEN_ERA:0",
         "original": "$COUNTRY|Y$ is in a Golden Era.",
         "translation": "$COUNTRY|Y$正处于黄金时代。",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_GOLDEN_ERA:0",
         "original": "$COUNTRY|Y$ is NOT in a Golden Era.",
         "translation": "$COUNTRY|Y$未处于黄金时代。",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DEVASTATION_LESS_THAN:0",
         "original": "Devastation less than $VAL|Y$.\\n",
         "translation": "荒废度低于$VAL|Y$。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DEVASTATION_AT_LEAST:0",
         "original": "Devastation at least $VAL|Y$.\\n",
         "translation": "荒废度达到$VAL|Y$。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DEVASTATION_EFF:0",
         "original": "$DIRECTION$ $VALUE$ devastation in $WHERE$.\\n",
         "translation": "$WHERE$$DIRECTION$$VALUE$荒废度。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "PROSPERITY_LESS_THAN:0",
         "original": "Progress to prosperity below $VAL|Y$.\\n",
         "translation": "繁荣度低于$VAL|Y$。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "PROSPERITY_AT_LEAST:0",
         "original": "Progress to prosperity at least $VAL|Y$.\\n",
         "translation": "繁荣度达到$VAL|Y$。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_STATE_NOT_PROSP:0",
         "original": "$NAME|Y$ is NOT prosperous.\\n",
         "translation": "$NAME|Y$未享受繁荣。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_STATE_PROSP:0",
         "original": "$NAME|Y$ is Prosperous!\\n",
         "translation": "$NAME|Y$享受着繁荣！\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "PROSP_EFF:0",
         "original": "$DIRECTION$ $VALUE$ prosperity progress in $WHERE|Y$.\\n",
         "translation": "$WHERE|Y$$DIRECTION$$VALUE$繁荣度。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "AGE_ABIL_TRIG_NOT:0",
         "original": "Does NOT have the '$NAME|Y$' ability.\\n",
         "translation": "未获得时代能力「$NAME|Y$」。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "AGE_ABIL_TRIG:0",
         "original": "Have the '$NAME|Y$' ability.\\n",
         "translation": "已获得时代能力「$NAME|Y$」。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "STATE_EDICT_TRIG_NOT:0",
         "original": "Does NOT have the '$NAME|Y$' edict.\\n",
         "translation": "未使用地区法令「$NAME|Y$」。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "STATE_EDICT_TRIG:0",
         "original": "Have the '$NAME|Y$' edict.\\n",
         "translation": "已使用地区法令「$NAME|Y$」。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NUM_CONTINENTS_TRIG:0",
         "original": "Present on at least $VAL|Y$ continents\\n",
         "translation": "在至少$VAL|Y$个大洲上拥有领土\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NUM_CONTINENTS_TRIG_NOT:0",
         "original": "Owns provinces on LESS than $VAL|Y$ continents\\n",
         "translation": "在少于$VAL|Y$个大洲上拥有领土\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INSTITUTION_DIFF_LOWER_THAN:0",
         "original": "§Y$WHO$§!'s number of embraced institutions compared to §Y$TARGET$§! is lower than §Y$VAL$§!.",
         "translation": "§Y$WHO$§!已接纳思潮的数量比§Y$TARGET$§!少§Y$VAL$§!个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INSTITUTION_DIFF_AT_LEAST:0",
         "original": "§Y$WHO$§!'s number of embraced institutions compared to §Y$TARGET$§! is at least §Y$VAL$§!.",
         "translation": "§Y$WHO$§!已接纳思潮的数量比§Y$TARGET$§!多§Y$VAL$§!个以上。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INSTITUTION_DIFF_LOWER_THAN_ALT:0",
         "original": "Number of embraced institutions of §Y$TARGET$§! is lower than §Y$VAL$§!.",
         "translation": "§Y$TARGET$§!已接纳思潮的数量低于§Y$VAL$§!个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INSTITUTION_DIFF_AT_LEAST_ALT:0",
         "original": "Number of embraced institutions of §Y$TARGET$§! is at least §Y$VAL$§!.",
         "translation": "§Y$TARGET$§!已接纳思潮的数量达到§Y$VAL$§!个。",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADM_EFFECT:0",
         "original": "$WHO$ $DIRECTION$ $VALUE$ £adm£\\n",
         "translation": "$WHO$$DIRECTION$$VALUE$ £adm£\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DIP_EFFECT:0",
         "original": "$WHO$ $DIRECTION$ $VALUE$ £dip£\\n",
         "translation": "$WHO$$DIRECTION$$VALUE$£dip£\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "MIL_EFFECT:0",
         "original": "$WHO$ $DIRECTION$ $VALUE$ £mil£\\n",
         "translation": "$WHO$$DIRECTION$$VALUE$£mil£\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "FRIENDLY_NEARBY_PROVINCE_STARTS:0",
         "original": "Nearby friendly province",
         "translation": "相邻的友好省份",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_HAS_INSTITUTION_IN_COUNTRY:0",
         "original": "$COUNTRY$ has NOT embraced $WHICH|Y$\\n",
         "translation": "$COUNTRY$尚未接纳$WHICH|Y$。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_INSTITUTION_IN_COUNTRY:0",
         "original": "$COUNTRY$ has embraced $WHICH|Y$\\n",
         "translation": "$COUNTRY$已经接纳了$WHICH|Y$\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_HAS_INSTITUTION_IN_PROV:1",
         "original": "$WHICH|Y$ is not present\\n",
         "translation": "$WHICH|Y$尚未出现\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_INSTITUTION_IN_PROV:1",
         "original": "$WHICH|Y$ is present\\n",
         "translation": "$WHICH|Y$已经出现\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INSTITUTION_LOWER_IN_PROV:0",
         "original": "Support for $WHICH|Y$ is lower than $VAL|Y$.\\n",
         "translation": "$WHICH|Y$的支持度低于$VAL|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INSTITUTION_AT_LEAST_PROV:0",
         "original": "Support for $WHICH|Y$ is at least $VAL|Y$.\\n",
         "translation": "$WHICH|Y$的支持度达到$VAL|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INSTITUTION_GROWTH_LOWER_IN_PROV:0",
         "original": "Growth of $WHICH|Y$ is lower than $VAL|Y$.\\n",
         "translation": "$WHICH|Y$的增长低于$VAL|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INSTITUTION_GROWTH_AT_LEAST_IN_PROV:0",
         "original": "Growth of $WHICH|Y$ is at least $VAL|Y$.\\n",
         "translation": "$WHICH|Y$的增长达到$VAL|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_INSTITUTION_ENABLED:0",
         "original": "$WHICH|Y$ has not yet been enabled.",
         "translation": "$WHICH|Y$尚未被启用。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INSTITUTION_ENABLED:0",
         "original": "$WHICH|Y$ has been discovered.\\n",
         "translation": "$WHICH|Y$已经被发现。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_INSTITUTION_ORIGIN:0",
         "original": "Is NOT the origin of $WHICH|Y$.\\n",
         "translation": "不是$WHICH|Y$的发源地。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INSTITUTION_ORIGIN:0",
         "original": "Is the origin of $WHICH|Y$.",
         "translation": "是$WHICH|Y$的发源地。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_INSTITUTION_EMBRACEMENT_EFFECT:0",
         "original": "$DIRECTION$ $VALUE$ support for $WHICH|Y$.\\n",
         "translation": "$WHICH|Y$$DIRECTION$$VALUE$支持度。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_MERCHANT_TRIGGER:1",
         "original": "$WHO|Y$ has a Merchant in $WHERE|Y$.\\n",
         "translation": "$WHO|Y$在$WHERE|Y$有一个商人团。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_MERCHANT_TRIGGER:0",
         "original": "$WHO|Y$ does NOT have a merchant in $WHERE|Y$.\\n",
         "translation": "$WHO|Y$在$WHERE|Y$没有商人团。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_DISASTER:0",
         "original": "Is NOT in $NAME|Y$.\\n",
         "translation": "没有处于$NAME|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_DISASTER:0",
         "original": "Is currently in $NAME|Y$.\\n",
         "translation": "当前处于$NAME|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_CUSTOM_IDEAS:0",
         "original": "Is using custom national ideas.\\n",
         "translation": "使用了自定义国家理念。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_CUSTOM_IDEAS:0",
         "original": "Is NOT using custom national ideas.\\n",
         "translation": "没有使用自定义国家理念。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NO_DISASTER_TRIGGER:0",
         "original": "Have no current disasters.\\n",
         "translation": "当前没有灾难。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_DISASTER_TRIGGER:0",
         "original": "Currently in a disaster.\\n",
         "translation": "当前处于灾难状态。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_INF_IN:0",
         "original": "$COUNTRY$ have infantry in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$有步兵。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NO_INF_IN:0",
         "original": "$COUNTRY$ have NO infantry in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$没有步兵。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_CAV_IN:0",
         "original": "$COUNTRY$ have cavalry in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$有骑兵。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NO_CAV_IN:0",
         "original": "$COUNTRY$ have NO cavalry in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$没有骑兵。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_ART_IN:0",
         "original": "$COUNTRY$ have artillery in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$有炮兵。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NO_ART_IN:0",
         "original": "$COUNTRY$ have NO artillery in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$没有炮兵。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_HEAVY_SHIP_IN:0",
         "original": "$COUNTRY$ have heavy ships in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$有重型战舰。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NO_HEAVY_SHIP_IN:0",
         "original": "$COUNTRY$ have NO heavy ships in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$没有重型战舰。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LIGHT_SHIP_IN:0",
         "original": "$COUNTRY$ have light ships in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$有轻型战舰。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NO_LIGHT_SHIP_IN:0",
         "original": "$COUNTRY$ have NO light ships in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$没有轻型战舰。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_GALLEYS_IN:0",
         "original": "$COUNTRY$ have galleys in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$有桨帆战舰。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NO_GALLEYS_IN:0",
         "original": "$COUNTRY$ have NO galleys in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$没有桨帆战舰。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_TRANSPORTS_IN:0",
         "original": "$COUNTRY$ have trasport ships in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$有运输船。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NO_TRANSPORTS_IN:0",
         "original": "$COUNTRY$ have NO trasport ships in $PROVINCE$.",
         "translation": "$COUNTRY$在$PROVINCE$没有运输船。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_CORE_CONSTRUCTION_EFFECT:0",
         "original": "Start core construction for §Y$COST$%§! of the cost, and §Y$SPEED$%§! of the time.\\n",
         "translation": "花费§Y$COST$%§!的费用与§Y$SPEED$%§!的时间开始核心建设。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_BUILDING_CONSTRUCTION_EFFECT:0",
         "original": "Start construction of §Y$BUILDING$§! for §Y$COST$%§! of the cost, and §Y$SPEED$%§! of the time.\\n",
         "translation": "花费§Y$COST$%§!的费用与§Y$SPEED$%§!的时间开始建造§Y$BUILDING$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_CULTURE_CONSTRUCTION_EFFECT:0",
         "original": "Start culture conversion for §Y$COST$%§! of the cost, and §Y$SPEED$%§! of the time.\\n",
         "translation": "花费§Y$COST$%§!的费用与§Y$SPEED$%§!的时间开始转变文化。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SIBIERIAN_EFFECT:0",
         "original": "$VAL|Y$ colonists join a Frontier in $WHERE|Y$.\\n",
         "translation": "$VAL|Y$殖民队进入了位于 $WHERE|Y$的过渡带.\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SEND_MISSIONARY_EFFECT:0",
         "original": "A missionary starts to convert the province\\n",
         "translation": "一位传教士开始在该省进行传教\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "KILL_UNITS_EFFECT:0",
         "original": "$COUNTRY$ lose $AMOUNT|Y$ units\\n",
         "translation": "$COUNTRY$损失了$AMOUNT|Y$部队\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "KILL_UNITS_OF_TYPE_EFFECT:0",
         "original": "$COUNTRY$ lose $AMOUNT|Y$ units of $TYPE|Y$\\n",
         "translation": "$COUNTRY$损失了$AMOUNT|Y$$TYPE|Y$部队\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TURN_OFF_PRIM_EFF:0",
         "original": "$WHO|Y$ is no longer primitive.\\n",
         "translation": "$WHO|Y$不再是一个原始国家。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TURN_ON_PRIM_EFF:0",
         "original": "$WHO|Y$ is now a primitive nation.\\n",
         "translation": "$WHO|Y$现在是一个原始国家。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "MORE_THAN_NUM_OF_UNITS_IN_PROVINCE:0",
         "original": "At least $AMOUNT|$ regiments present",
         "translation": "当前至少有$AMOUNT|$支部队",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "LESS_THAN_NUM_OF_UNITS_IN_PROVINCE:0",
         "original": "Less than $AMOUNT|$ regiments present",
         "translation": "当前没有$AMOUNT|$支部队",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "MORE_THAN_NUM_OF_UNITS_OF_TYPE_IN_PROVINCE:0",
         "original": "At least $AMOUNT|$ regiments of $TYPE|$ present",
         "translation": "拥有至少$AMOUNT|$支$TYPE|$部队",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "LESS_THAN_NUM_OF_UNITS_OF_TYPE_IN_PROVINCE:0",
         "original": "Less than $AMOUNT|$ regiments of $TYPE|$ present",
         "translation": "拥有少于$AMOUNT|$支$TYPE|$部队",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DISSOLVE_PARLIAMENT:0",
         "original": "Dissolve parliament",
         "translation": "解散议会",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REINSTATE_PARLIAMENT:0",
         "original": "Reinstate parliament",
         "translation": "恢复议会",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_RULER_LEADER_FROM:0",
         "original": "Army led by ruler of $COUNTRY|Y$",
         "translation": "$COUNTRY|Y$的统治者亲自统率着军队",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_RULER_LEADER_FROM:0",
         "original": "No army led by ruler of $COUNTRY|Y$",
         "translation": "$COUNTRY|Y$的统治者没有统率军队",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_HEIR_LEADER_FROM:0",
         "original": "Army led by heir of $COUNTRY|Y$",
         "translation": "$COUNTRY|Y$的继承人统率着军队",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_HEIR_LEADER_FROM:0",
         "original": "No army led by heir of $COUNTRY|Y$",
         "translation": "$COUNTRY|Y$的继承人没有统率军队",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_HEIR_WITH_LOWER_ADM_THEN:0",
         "original": "Heir has lower Administrative Skill than $VALUE|Y$",
         "translation": "继承人的行政技能低于$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_HEIR_WITH_HIGHER_ADM_THEN:0",
         "original": "Heir has Administrative Skill of at least $VALUE|Y$",
         "translation": "继承人的行政技能达到$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_HEIR_WITH_LOWER_DIP_THEN:0",
         "original": "Heir has lower Diplomatic Skill than $VALUE|Y$",
         "translation": "继承人的外交技能低于$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_HEIR_WITH_HIGHER_DIP_THEN:0",
         "original": "Heir has Diplomatic Skill of at least $VALUE|Y$",
         "translation": "继承人的外交技能达到$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_HEIR_WITH_LOWER_MIL_THEN:0",
         "original": "Heir has lower Military skill than $VALUE|Y$",
         "translation": "继承人的军事技能低于$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_HEIR_WITH_HIGHER_MIL_THEN:0",
         "original": "Heir has Military skill of at least $VALUE|Y$",
         "translation": "继承人的军事技能达到$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_LOOT_TAG_EFFECT:0",
         "original": "$COUNTRY|Y$ loots $AMOUNT|Y$¤",
         "translation": "$COUNTRY|Y$掠夺了$AMOUNT|Y$¤",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_LOOT_ENEMY_EFFECT:0",
         "original": "Enemy units loot $AMOUNT|Y$¤",
         "translation": "敌军部队掠夺了$AMOUNT|Y$¤",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "PROVINCE_SIZE_AT_LEAST:0",
         "original": "Province size is at least $SIZE|Y$",
         "translation": "省份数量达到$SIZE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "PROVINCE_SIZE_LESS_THAN:0",
         "original": "Province size is less than $SIZE|Y$",
         "translation": "省份数量不到$SIZE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_STATE:0",
         "original": "Is NOT in a state",
         "translation": "不在直属州内",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_STATE:0",
         "original": "Is in a state",
         "translation": "在直属州内",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "in_state:0",
         "original": "Part of a state",
         "translation": "属于直属州",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "in_territory:0",
         "original": "Part of a territory",
         "translation": "属于自治领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_TERRITORY:0",
         "original": "Is NOT in a territory",
         "translation": "不是自治领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_TERRITORY:0",
         "original": "Is in a territory",
         "translation": "是自治领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_STATES_THAN:0",
         "original": "Have less states than $VALUE|Y$",
         "translation": "直属州数量少于$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_STATES_THAN:0",
         "original": "Number of states at least $VALUE|Y$",
         "translation": "直属州数量达到$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_GROWN_BY_LESS_STATES_THAN:0",
         "original": "Have grown by less states than $VALUE|Y$",
         "translation": "增加的直属州数量少于$VALUE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_GROWN_BY_MORE_STATES_THAN:0",
         "original": "Have grown by at least $VALUE|Y$ states",
         "translation": "增加的直属州数量达到$VALUE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_TERRITORIES_THAN:0",
         "original": "Have less territories than $VALUE|Y$",
         "translation": "自治领数量少于$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_TERRITORIES_THAN:0",
         "original": "Number of territories at least $VALUE|Y$",
         "translation": "自治领数量达到$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_PROVINCES_IN_STATES_THAN:0",
         "original": "Have less provinces in states than $VALUE|Y$",
         "translation": "直属州内的拥有的省份数少于$VALUE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_PROVINCES_IN_STATES_THAN:0",
         "original": "Number of provinces in states at least $VALUE|Y$",
         "translation": "直属州内的拥有的省份数达到$VALUE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_PROVINCES_IN_TERRITORIES_THAN:0",
         "original": "Have less provinces in territories than $VALUE|Y$",
         "translation": "自治领内的拥有的省份数少于$VALUE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_PROVINCES_IN_TERRITORIES_THAN:0",
         "original": "Number of provinces in territories at least $VALUE|Y$",
         "translation": "自治领内的拥有的省份数达到$VALUE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "EXCOMMUNICATE_EFFECT:0",
         "original": "Have $TARGET|Y$ excommunicated\\n",
         "translation": "绝罚$TARGET|Y$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "LIFT_EXCOMMUNICATE_EFFECT:0",
         "original": "Lift excommunication of $TARGET|Y$\\n",
         "translation": "撤销对$TARGET|Y$的绝罚\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_HISTORICAL_FRIEND_EFFECT:0",
         "original": "Add $TARGET|Y$ as historical friend\\n",
         "translation": "把$TARGET|Y$当作历史友邦\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_HISTORICAL_FRIEND_EFFECT:0",
         "original": "Remove $TARGET|Y$ as historical friend\\n",
         "translation": "不再把$TARGET|Y$当作历史友邦\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_HISTORICAL_RIVAL_EFFECT:0",
         "original": "Add $TARGET|Y$ as historical rival\\n",
         "translation": "把$TARGET|Y$当作世仇\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_HISTORICAL_RIVAL_EFFECT:0",
         "original": "Remove $TARGET|Y$ as historical rival\\n",
         "translation": "不再把$TARGET|Y$当作世仇\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "EXILE_RULER_AS_EFFECT:0",
         "original": "$NAME|Y$ goes into exile\\n",
         "translation": "$NAME|Y$开始流亡\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "EXILE_HEIR_AS_EFFECT:0",
         "original": "$NAME|Y$ goes into exile\\n",
         "translation": "$NAME|Y$开始流亡\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SET_RULER_EFFECT:0",
         "original": "$NAME|Y$ ($ADM$/$DIP$/$MIL$) becomes ruler\\n",
         "translation": "$NAME|Y$（$ADM$/$DIP$/$MIL$）成为统治者\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SET_HEIR_EFFECT:0",
         "original": "$NAME|Y$ ($ADM$/$DIP$/$MIL$) becomes heir\\n",
         "translation": "$NAME|Y$（$ADM$/$DIP$/$MIL$）成为继承人\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DEFINE_LEADER_TO_RULER_EFFECT:0",
         "original": "$LEADERTYPE$ $NAME|Y$ ($ADM$/$DIP$/$MIL$) with a $CLAIM$ claim becomes ruler\\n",
         "translation": "具有$CLAIM$宣称的$LEADERTYPE$$NAME|Y$（$ADM$/$DIP$/$MIL$）成为统治者\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CREATE_MARCH_EFFECT:0",
         "original": "$WHO|Y$ becomes a March.\\n",
         "translation": "$WHO|Y$成为了卫戍国。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "BREAK_ROYAL_MARRIAGE_EFFECT:0",
         "original": "Break Royal Marriage with §Y$WHO$§!.\\n",
         "translation": "终止与§Y$WHO$§!的王室联姻：\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_MERCENARY_SUB_UNIT_EFFECT:0",
         "original": "Get mercenary $UNIT$ in §Y$WHERE$§!.",
         "translation": "在§Y$WHERE$§W得到雇佣兵$UNIT$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_STRELTSY_SUB_UNIT_EFFECT:0",
         "original": "Get '§GStreltsy§!' $UNIT$ in §Y$WHERE$§!.",
         "translation": "在§Y$WHERE$§!得到「§G射击军§!」$UNIT$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_COSSACKS_SUB_UNIT_EFFECT:0",
         "original": "Get '§GCossack§!' $UNIT$ in $WHERE|Y$.",
         "translation": "在$WHERE|Y$得到「'§G哥萨克§!」$UNIT$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CHANGE_GRAPHICAL_CULTURE_EFFECT:0",
         "original": "Change graphical culture to $CULTURE|Y$.\\n",
         "translation": "将文化外观转变为$CULTURE|Y$文化。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DO_NOT_OWN_OR_VASSAL_OF:1",
         "original": "NOT owned by $COUNTRY$ or a Subject",
         "translation": "不属于$COUNTRY$或其属国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "OWNS_OR_VASSAL_OF:1",
         "original": "owned by $COUNTRY$ or a Subject",
         "translation": "属于$COUNTRY$或其属国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DO_NOT_OWN_OR_NON_SOVEREIGN_SUBJECT_OF:1",
         "original": "NOT owned by $COUNTRY$ or its non-Tributary Subjects.",
         "translation": "不属于$COUNTRY$或其非朝贡属国。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "OWNS_OR_NON_SOVEREIGN_SUBJECT_OF:1",
         "original": "owned by $COUNTRY$ or its non-Tributary Subjects.",
         "translation": "属于$COUNTRY$或其非朝贡属国。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_IS_NOT_IN_COALITION_AGAINST:0",
         "original": "Is NOT in a Coalition against §Y$WHO$§!.\\n",
         "translation": "没有加入§Y$WHO$§!包围网。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_ISIN_COALITION_AGAINST:0",
         "original": "Is in a Coalition against §Y$WHO$§!.\\n",
         "translation": "加入§Y$WHO$§!包围网\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DISBAND_REBELS:0",
         "original": "§Y$NAME$§! will disband.\\n",
         "translation": "§Y$NAME$§!将被解散。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "EMPIRE_NO_FEMALE:0",
         "original": "No female can become emperor.\\n",
         "translation": "女性不可当选皇帝。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "EMPIRE_CAN_BE_FEMALE:0",
         "original": "Females can become emperor.\\n",
         "translation": "女性亦可当选皇帝。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_MERCENARIES_THAN:0",
         "original": "Have less mercenaries than §Y$VALUE$§!.\\n",
         "translation": "雇佣兵数量少于§Y$VALUE$§!支。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_AT_LEAST_MERCENARIES_THAN:0",
         "original": "Have at least §Y$VALUE$§! mercenaries.\\n",
         "translation": "雇佣兵数量达到§Y$VALUE$§!支。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_HARMONIZED_THAN:1",
         "original": "Have less than $VALUE|Y$ harmonized religions or groups (currently $CURRENTVALUE|Y$).",
         "translation": "已融合的宗教或宗教组少于$VALUE|Y$个（当前为$CURRENTVALUE|Y$个）。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_AT_LEAST_HARMONIZED_THAN:1",
         "original": "Have at least $VALUE|Y$ harmonized religions or groups (currently $CURRENTVALUE|Y$).",
         "translation": "已融合的宗教或宗教组达到$VALUE|Y$个（当前为$CURRENTVALUE|Y$个）。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_HARMONIZED_THAN_COMP:1",
         "original": "Have less harmonized religions or groups than $COUNTRYNAME|Y$ ($VALUE|Y$). Currently $CURRENTVALUE|Y$.",
         "translation": "已融合的宗教或宗教组数量比$COUNTRYNAME|Y$少（$VALUE|Y$个）。当前为$CURRENTVALUE|Y$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_AT_LEAST_HARMONIZED_THAN_COMP:1",
         "original": "Have at least same amount of harmonized religions or groups as $COUNTRYNAME|Y$ ($VALUE|Y$). Currently $CURRENTVALUE|Y$.",
         "translation": "已融合的宗教或宗教组数量至少与$COUNTRYNAME|Y$相同（$VALUE|Y$个）。当前为$CURRENTVALUE|Y$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_FEWER_TRADE_BONUS:0",
         "original": "Has fewer than $VAL|Y$ trade-bonuses.",
         "translation": "贸易加成低于$VAL|Y$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_AT_LEAST_TRADE_BONUS:0",
         "original": "Has at least $VAL|Y$ trade-bonuses.",
         "translation": "贸易加成达到$VAL|Y$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RICHEST_TRADE_NODE:0",
         "original": "$NAME$ is the highest valued trade node in the world.",
         "translation": "$NAME$是世界上价值最高的贸易节点。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_RICHEST_TRADE_NODE:0",
         "original": "$NAME$ is NOT the highest valued trade node in the world.",
         "translation": "$NAME$不是世界上价值最高的贸易节点。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_FEWER_POWERFUL_ESTATES:0",
         "original": "Has fewer than $VAL|Y$ estates with at least §Y70%§! influence.",
         "translation": "影响力达到§Y70%§!的阶层少于$VAL|Y$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_AT_LEAST_POWERFUL_ESTATES:0",
         "original": "Has at least $VAL|Y$ estates with at least §Y70%§! influence.",
         "translation": "影响力达到§Y70%§!的阶层达到$VAL|Y$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_FEWER_UNLOCKED_CULTS:0",
         "original": "Has fewer than $VAL|Y$ unlocked Cults.",
         "translation": "已解锁崇拜物数量少于$VAL|Y$个。",
-        "stage": 2
+        "stage": 2,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_AT_LEAST_UNLOCKED_CULTS:0",
         "original": "Has at least $VAL|Y$ unlocked Cults.",
         "translation": "已解锁崇拜物数量达到$VAL|Y$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_FEWER_ACTIVE_BLESSINGS:0",
         "original": "Has fewer than $VAL|Y$ active Blessings.",
         "translation": "已激活的神赐数量少于$VAL|Y$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_AT_LEAST_ACTIVE_BLESSINGS:0",
         "original": "Has at least $VAL|Y$ active Blessings.",
         "translation": "已激活的神赐数量达到$VAL|Y$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_FEWER_TRUSTED_ALLIES:0",
         "original": "Has fewer than $VAL|Y$ allies with §Y100§! Trust.",
         "translation": "信任度§Y100§!的盟友数少于$VAL|Y$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_AT_LEAST_TRUSTED_ALLIES:0",
         "original": "Has at least $VAL|Y$ allies with §Y100§! Trust.",
         "translation": "信任度§Y100§!的盟友数达到$VAL|Y$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NATION_DESIGNER_POINTS_LESS_THAN:0",
         "original": "Used less than $VAL|Y$ points when creating their Custom Nation.",
         "translation": "创建点数花费少于$VAL|Y$的自定义国家。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NATION_DESIGNER_POINTS_AT_LEAST:0",
         "original": "Used at least $VAL|Y$ points when creating their Custom Nation.",
         "translation": "创建点数花费达到$VAL|Y$的自定义国家。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NATION_DESIGNER_TECH_GROUP_COST:0",
         "original": "Point Cost of $COST|Y$ for the following conditions:\\n",
         "translation": "下列情况需要$COST|Y$点数花费：\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REFORM_DESIRE_IS_LESS_THAN:0",
         "original": "Reform Desire is less than §Y$SIZE$§!.\\n",
         "translation": "改革呼声低于§Y$SIZE$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REFORM_DESIRE_IS_AT_LEAST:0",
         "original": "Reform Desire is at least §Y$SIZE$§!.\\n",
         "translation": "改革呼声至少§Y$SIZE$§!\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REFORM_DESIRE_EFFECT:0",
         "original": "Catholicism $DIRECTION$ $PERC$ Reform Desire.\\n",
         "translation": "天主教$DIRECTION$$PERC$改革呼声。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RELIG_ATTACK:0",
         "original": "Attack on Religious Enemies",
         "translation": "攻击异信仰之敌",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "GOV_ATTACK:0",
         "original": "Attack on different Governments",
         "translation": "攻击异政体之敌",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_IDEA_ALLOWING:0",
         "original": "Do NOT have idea allowing '§WHICH§!'.\\n",
         "translation": "缺少允许“§WHICH§!”的理念。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_IDEA_ALLOWING:0",
         "original": "Has idea allowing '§WHICH§!'.\\n",
         "translation": "拥有允许“§WHICH§!”的理念。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "OPPOSE_NEXT_REFORM:0",
         "original": "Opposes next reform.",
         "translation": "反对下一项改革。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "WANTS_NEXT_REFORM:0",
         "original": "Wants next reform.",
         "translation": "支持下一项改革。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_ADM_POWER:0",
         "original": "Have less Administrative Power than ",
         "translation": "行政点数少于",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_ADM_POWER:0",
         "original": "Administrative Power at least ",
         "translation": "行政点数达到",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_DIP_POWER:0",
         "original": "Have less Diplomatic Power than ",
         "translation": "外交点数少于",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_DIP_POWER:0",
         "original": "Diplomatic Power at least ",
         "translation": "外交点数达到",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_MIL_POWER:0",
         "original": "Have less Military Power than ",
         "translation": "军事点数少于",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_MIL_POWER:0",
         "original": "Military Power at least ",
         "translation": "军事点数达到",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_SPLENDOR:0",
         "original": "Have less Splendor than ",
         "translation": "辉煌点数少于",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_SPLENDOR:0",
         "original": "Splendor at least ",
         "translation": "辉煌点数达到",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_ABSOLUTISM:0",
         "original": "Have less Absolutism than ",
         "translation": "专制度少于",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_ABSOLUTISM:0",
         "original": "Absolutism is at least ",
         "translation": "专制度达到",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_ACCEPTED_CULTURES:1",
         "original": "Have less Promoted Cultures than ",
         "translation": "已认同文化少于",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_ACCEPTED_CULTURES:2",
         "original": "Have at least $VAL|Y$ promoted cultures\\n",
         "translation": "已认同文化达到$VAL|Y$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "OWN_CONTROL_LESS_INSTITUTIONS:0",
         "original": "Own and control less institution origins than $TXT$\\n",
         "translation": "拥有并控制的思潮发源地数量少于$TXT$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "OWN_CONTROL_AT_LEAST_INSTITUTIONS:0",
         "original": "Own and control at least $TXT$ institution origins\\n",
         "translation": "拥有并控制的思潮发源地数量达到$TXT$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HASNT_3_STAR_TR:0",
         "original": "No 3 Star Leader Commanding",
         "translation": "无正在指挥的三星将领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_3_STAR_TR:0",
         "original": "Have a 3-Star general or admiral in command",
         "translation": "有正在指挥的三星陆军或海军将领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_UNIFIED_CUL:0",
         "original": "Owns all $WHICH|Y$ provinces",
         "translation": "拥有全部$WHICH|Y$文化的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HASNT_UNIFIED_CULTUREGR:0",
         "original": "Has not unified the culturegroup",
         "translation": "未统一文化组",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_VARIABLE_EQUAL:0",
         "original": "$VAR|Y$ is equal to $VALUE|Y$",
         "translation": "$VAR|Y$等于$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_IS_VARIABLE_EQUAL:0",
         "original": "$VAR|Y$ is NOT equal to $VALUE|Y$",
         "translation": "$VAR|Y$不等于$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_MARCH:0",
         "original": "Is NOT a march",
         "translation": "不是卫戍国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_MARCH:0",
         "original": "Is a march",
         "translation": "是卫戍国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_MARCH_OF:0",
         "original": "Is NOT a march of ",
         "translation": "不是该国的卫戍国：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_MARCH_OF:0",
         "original": "Is a march of ",
         "translation": "是该国的卫戍国：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_MARCHES_THAN:0",
         "original": "Have fewer marches than ",
         "translation": "卫戍国数量少于",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_MARCHES_THAN:0",
         "original": "Number of marches at least ",
         "translation": "卫戍国数量达到",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CAN_NOT_CREATE_MARCH:0",
         "original": "Can NOT create marches",
         "translation": "不能创建卫戍国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CAN_CREATE_MARCH:0",
         "original": "Can create marches",
         "translation": "可以创建卫戍国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CAN_CREATE_SUBJECT:0",
         "original": "Can create $TYPE$",
         "translation": "可以创建$TYPE$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CAN_NOT_CREATE_SUBJECT:0",
         "original": "Can NOT create $TYPE$",
         "translation": "不能创建$TYPE$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CAN_HAVE_SUBJECTS:1",
         "original": "Can have $SUBJECTS$",
         "translation": "可以拥有$SUBJECTS$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CAN_NOT_HAVE_SUBJECTS:1",
         "original": "Can NOT have $SUBJECTS$",
         "translation": "不能拥有$SUBJECTS$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_A_POSSIBLE_MARCH:0",
         "original": " is NOT a possible march",
         "translation": "不是潜在的卫戍国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_A_POSSIBLE_MARCH:0",
         "original": " is a possible march",
         "translation": "是潜在的卫戍国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_TERRAIN:0",
         "original": "Has NOT terrain $TERRAIN|Y$",
         "translation": "地形不是$TERRAIN|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_TERRAIN:0",
         "original": "Has terrain $TERRAIN|Y$",
         "translation": "地形是$TERRAIN|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADM_POWER_EFFECT:0",
         "original": "$DIRECTION$ $VALUE$ Administrative Power.\\n",
         "translation": "$DIRECTION$$VALUE$行政点数。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DIP_POWER_EFFECT:0",
         "original": "$DIRECTION$ $VALUE$ Diplomatic Power.\\n",
         "translation": "$DIRECTION$$VALUE$外交点数。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "MIL_POWER_EFFECT:0",
         "original": "$DIRECTION$ $VALUE$ Military Power.\\n",
         "translation": "$DIRECTION$$VALUE$军事点数。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_IDEA_GROUP_EFFECT:0",
         "original": "Add $IDEAGROUP|Y$ idea group",
         "translation": "添加了$IDEAGROUP|Y$理念组",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_IDEA_GROUP_EFFECT:0",
         "original": "Remove $IDEAGROUP|Y$ idea group",
         "translation": "移除了$IDEAGROUP|Y$理念组",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_IDEA_EFFECT:0",
         "original": "Add $IDEA|Y$ idea",
         "translation": "添加了$IDEA|Y$理念",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_IDEA_EFFECT:0",
         "original": "Remove $IDEA|Y$ idea",
         "translation": "移除了$IDEA|Y$理念",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HRE_INHERITABLE_ENABLED:0",
         "original": "HRE is now always inherited by the same country.\\n",
         "translation": "神圣罗马帝国现在总由同一国家继承帝位。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HRE_INHERITABLE_DISABLED:0",
         "original": "HRE is now open to election!\\n",
         "translation": "神圣罗马帝国现在允许选举皇帝\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_IDEAGROUP_TRIGGER:0",
         "original": "§Y$COUNTRY$§W has enabled §Y$GROUP$§W.\\n",
         "translation": "§Y$COUNTRY$§W启用了§Y$GROUP$§W理念组。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_IDEAGROUP_TRIGGER:0",
         "original": "§Y$COUNTRY$§W has not enabled §Y$GROUP$§W\\n",
         "translation": "§Y$COUNTRY$§W未启用§Y$GROUP$§W理念组\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_MAXIDEAGROUP_TRIGGER:0",
         "original": "§Y$COUNTRY$§W has completed §Y$GROUP$§W\\n",
         "translation": "§Y$COUNTRY$§W完成了§Y$GROUP$§W理念组\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_MAXIDEAGROUP_TRIGGER:0",
         "original": "§Y$COUNTRY$§W has not completed §Y$GROUP$§W.\\n",
         "translation": "§Y$COUNTRY$§W未完成§Y$GROUP$§W理念组。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_IDEAGROUPLEVEL_TRIGGER:0",
         "original": "§Y$COUNTRY$§W has unlocked the §Y$IDEA$§W idea.\\n",
         "translation": "§Y$COUNTRY$§W解锁了§Y$IDEA$§W理念。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_IDEAGROUPLEVEL_TRIGGER:0",
         "original": "§Y$COUNTRY$§W has not unlocked §Y$IDEA$§W.\\n",
         "translation": "§Y$COUNTRY$§W未解锁§Y$IDEA$§W理念。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_COUNTRY_CLAIM:0",
         "original": "Is NOT a $COUNTRYADJ$ claim.",
         "translation": "不是$COUNTRYADJ$的宣称。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_COUNTRY_CLAIM:0",
         "original": "Is a $COUNTRYADJ$ claim.",
         "translation": "是$COUNTRYADJ$的宣称。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADVISOR_NOT_EMPLOYED:0",
         "original": "§Y$NAME$§W is not currently employed.\\n",
         "translation": "§Y$NAME$§W当前未被雇佣。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADVISOR_EMPLOYED:0",
         "original": "§Y$NAME$§W is currently employed.\\n",
         "translation": "§Y$NAME$§W当前已被雇佣。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADVISOR_TYPE_NOT_EMPLOYED_0:0",
         "original": "No $TYPE$ is currently employed.\\n",
         "translation": "当前未雇佣$TYPE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADVISOR_TYPE_NOT_EMPLOYED_1:0",
         "original": "No $ARG0$ $TYPE$ is currently employed.\\n",
         "translation": "当前未雇佣$ARG0$$TYPE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADVISOR_TYPE_NOT_EMPLOYED_2:0",
         "original": "No $ARG0$ $ARG1$ $TYPE$ is currently employed.\\n",
         "translation": "当前未雇佣$ARG0$$ARG1$$TYPE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADVISOR_TYPE_NOT_EMPLOYED_3:0",
         "original": "No $ARG0$ $ARG1$ $ARG2$ $TYPE$ is currently employed.\\n",
         "translation": "当前未雇佣$ARG0$$ARG1$$ARG2$$TYPE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADVISOR_TYPE_EMPLOYED_0:0",
         "original": "$TYPE$ is currently employed.\\n",
         "translation": "当前已雇佣$TYPE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADVISOR_TYPE_EMPLOYED_1:0",
         "original": "$ARG0$ $TYPE$ is currently employed.\\n",
         "translation": "当前已雇佣$ARG0$$TYPE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADVISOR_TYPE_EMPLOYED_2:0",
         "original": "$ARG0$ $ARG1$ $TYPE$ is currently employed.\\n",
         "translation": "当前已雇佣$ARG0$$ARG1$$TYPE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADVISOR_TYPE_EMPLOYED_3:0",
         "original": "$ARG0$ $ARG1$ $ARG2$ $TYPE$ is currently employed.\\n",
         "translation": "当前已雇佣$ARG0$$ARG1$$ARG2$$TYPE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_SPY_NETWORK_IN:0",
         "original": "Add size $VAL|+$ to the Spy Network in $TARGET$.\\n",
         "translation": "在$TARGET$的间谍网规模增加$VAL|+$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_SPY_NETWORK_FROM:0",
         "original": "$TARGET$ Adds size $VAL|-$ to their Spy Network.\\n",
         "translation": "$TARGET$在该国的间谍网规模增加$VAL|-$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_SPY_NETWORK_IN:0",
         "original": "Have a Spy Network of at least size $VAL$ in $TARGET$.\\n",
         "translation": "在$TARGET$的间谍网规模达到$VAL$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_HAVE_SPY_NETWORK_IN:0",
         "original": "Do NOT have a Spy Network of at least size $VAL$ in $TARGET$.\\n",
         "translation": "在$TARGET$的间谍网规模小于$VAL$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_SPY_NETWORK_FROM:0",
         "original": "Have a Spy Network of at least size $VAL$ from $TARGET$.\\n",
         "translation": "来自$TARGET$的间谍网规模达到$VAL$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_HAVE_SPY_NETWORK_FROM:0",
         "original": "Do NOT have a Spy Network of at least size $VAL$ from $TARGET$.\\n",
         "translation": "来自$TARGET$的间谍网规模小于$VAL$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVENT_CLAIM:0",
         "original": "Do NOT have a claim on ",
         "translation": "缺少宣称：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_CLAIM_IN:0",
         "original": "Have a claim on ",
         "translation": "拥有宣称：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_PERMANENT_CLAIM_IN:0",
         "original": "Have a permanent claim on ",
         "translation": "拥有永久性宣称：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "PIETY_LESS_THAN:0",
         "original": "Piety is less than §Y$VAL$§!.\\n",
         "translation": "虔诚低于§Y$VAL$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "PIETY_AT_LEAST:0",
         "original": "Piety is at least §Y$VAL$§!.\\n",
         "translation": "虔诚达到§Y$VAL$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "KARMA_LESS_THAN:0",
         "original": "Karma is less than §Y$VAL$§!.\\n",
         "translation": "业力低于§Y$VAL$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "KARMA_AT_LEAST:0",
         "original": "Karma is at least §Y$VAL$§!.\\n",
         "translation": "业力达到§Y$VAL$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DOOM_LESS_THAN:0",
         "original": "Doom is less than §Y$VAL$§!.\\n",
         "translation": "末日值少于§Y$VAL$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DOOM_AT_LEAST:0",
         "original": "Doom is at least §Y$VAL$§!.\\n",
         "translation": "末日值达到§Y$VAL$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "AUTHORITY_LESS_THAN:0",
         "original": "Authority is less than §Y$VAL$§!.\\n",
         "translation": "权威低于§Y$VAL$§!。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "AUTHORITY_AT_LEAST:0",
         "original": "Authority is at least §Y$VAL$§!.\\n",
         "translation": "权威达到§Y$VAL$§!。\\n",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REPUBLIC_TRAD_LESS_THAN:0",
         "original": "Republican Tradition is less than §Y$VAL$§!.\\n",
         "translation": "共和传统低于§Y$VAL$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REPUBLIC_TRAD_AT_LEAST:0",
         "original": "Republican Tradition is at least §Y$VAL$§!.\\n",
         "translation": "共和传统达到§Y$VAL$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DIPLO_REP_LESS_THAN:0",
         "original": "Diplomatic Reputation is less than §Y$VAL$§!.\\n",
         "translation": "外交声誉低于§Y$VAL$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DIPLO_REP_AT_LEAST:0",
         "original": "Diplomatic Reputation is at least §Y$VAL$§!.\\n",
         "translation": "外交声誉达到§Y$VAL$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TARGET_GETS_NEW_CLAIM_EFFECT:0",
         "original": "§Y$WHO$§W gains a claim on §Y$NEW$§W.\\n",
         "translation": "§Y$WHO$§W获得了§Y$NEW$§W的宣称。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TARGET_GETS_NEW_PERMANENT_CLAIM_EFFECT:0",
         "original": "§Y$WHO$§W gains a permanent claim on §Y$NEW$§W.\\n",
         "translation": "§Y$WHO$§W获得了§Y$NEW$§W的永久性宣称。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TARGET_LOSE_CLAIM_EFFECT:0",
         "original": "§Y$WHO$§W loses their claim on §Y$LOSE$§W.\\n",
         "translation": "§Y$WHO$§W失去了§Y$LOSE$§W的宣称。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NOT_CORE_CLAIM_AGAINST:0",
         "original": "Have no Claim against ",
         "translation": "没有对下列国家的宣战理由：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_CORE_CLAIM_AGAINST:0",
         "original": "Have Claim against ",
         "translation": "有对下列国家的宣战理由：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_RELIGION_REFORMED:0",
         "original": " has NOT reformed their religion.",
         "translation": "尚未改革他们的宗教。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_RELIGION_REFORMED:0",
         "original": " has reformed their religion.",
         "translation": "已经改革了他们的宗教。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_IN_LEAGUE_WAR:0",
         "original": " is NOT fighting in a League War.",
         "translation": "并未参与宗教联盟战争。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_IN_LEAGUE_WAR:0",
         "original": " is fighting in a League War.",
         "translation": "参与宗教联盟战争。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_LEAGUE_LEADER:0",
         "original": " is NOT the leader of a Religious League.",
         "translation": "不是宗教联盟领袖。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_LEAGUE_LEADER:0",
         "original": " is the leader of a Religious League.",
         "translation": "是宗教联盟领袖。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_IN_COALITION_WAR:0",
         "original": " is NOT fighting a Coalition War.",
         "translation": "没有处于包围网战争中。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_IN_COALITION_WAR:0",
         "original": " is fighting a Coalition War.",
         "translation": "处于一场包围网战争中。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_IN_COALITION:0",
         "original": " is NOT in a Coalition.",
         "translation": "不在包围网中。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_IN_COALITION:0",
         "original": " is in a Coalition.",
         "translation": "在包围网中。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "LEADS_NOT_COALITION:0",
         "original": " is NOT leading a Coalition.",
         "translation": "不是包围网发起者。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "LEADS_COALITION:0",
         "original": " is leading a Coalition.",
         "translation": "是包围网发起者。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_COALITION_MEMBER_STARTS:0",
         "original": "Any Coalition Member",
         "translation": "任意包围网成员",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_NOT_SPAWNED_REBELS:0",
         "original": "Spawned Rebels are NOT ",
         "translation": "爆发叛军没有",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_SPAWNED_REBELS:0",
         "original": "Spawned Rebels are ",
         "translation": "爆发叛军",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_NOT_ANY_SPAWNED_REBELS:0",
         "original": "Doesn't have any spawned rebels.",
         "translation": "未爆发任何叛乱。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_ANY_SPAWNED_REBELS:0",
         "original": "Does have spawned rebels.",
         "translation": "已爆发叛乱。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_NOT_NOTSPAWNED_REBELS:0",
         "original": "Not spawned Rebels are NOT ",
         "translation": "非爆发叛军没有",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_NOTSPAWNED_REBELS:0",
         "original": "Not spawned Rebels are ",
         "translation": "非爆发叛军",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_SEA_ZONE:0",
         "original": "is land",
         "translation": "是陆地",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_SEA_ZONE:0",
         "original": "is sea",
         "translation": "是海洋",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DYNASTY_CHANGE:0",
         "original": "$WHO$ becomes a $NEW$\\n",
         "translation": "$WHO$成为了$NEW$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_STRONGEST_TRADE_POWER:0",
         "original": "§Y$WHO$§W is NOT the strongest trade power in the area.",
         "translation": "§Y$WHO$§W在此地区不具有最强的贸易竞争力。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_MORE_TRADE_POWER:0",
         "original": "$WHO|Y$ has less than $VAL$% trade power.",
         "translation": "$WHO|Y$拥有的贸易竞争力低于$VAL$%。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_MORE_PRIVATEERS:0",
         "original": "$WHO|Y$ privateers have less than $VAL$% of the trade power.",
         "translation": "$WHO|Y$的私掠者拥有的贸易竞争力低于 $VAL$%。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_SAME_OR_MORE_PRIVATEERS:0",
         "original": "$WHO|Y$ privateers have at least $VAL$% trade power.",
         "translation": "$WHO|Y$的私掠者拥有的贸易竞争力达到 $VAL$%。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_PRIVATEERS_IN_ANY_NODE:0",
         "original": "$WHO|Y$ has privateers in any node.",
         "translation": "$WHO|Y$的私掠者活跃于任意贸易节点。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_PRIVATEERS_IN_ANY_NODE:0",
         "original": "$WHO|Y$ doesn't have privateers in any node.",
         "translation": "$WHO|Y$的私掠者未活跃于任何贸易节点。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_ACTIVE_FERVOR:0",
         "original": "$WHO|Y$ has activated a Fervor effect.",
         "translation": "$WHO|Y$激活了一个热情效果。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_ACTIVE_FERVOR:0",
         "original": "$WHO|Y$ has NOT activated a Fervor effect.",
         "translation": "$WHO|Y$没有激活热情效果。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_STRONGEST_TRADE_POWER:0",
         "original": "§Y$WHO$§W is the strongest Trade Power in §Y$WHERE$§W.",
         "translation": "§Y$WHO$§W在§Y$WHERE$§W拥有最强贸易竞争力。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_MOST_TRADE_POWER_PROVINCES:0",
         "original": "§Y$WHO$§W does NOT have the most province Trade Power.",
         "translation": "§Y$WHO$§W没有最高的省份贸易竞争力。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_MOST_TRADE_POWER_PROVINCES:0",
         "original": "§Y$WHO$§W has the most province Trade Power.",
         "translation": "§Y$WHO$§W拥有最高的省份贸易竞争力。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_TRADE_NODE_TR:0",
         "original": "Any Trade Node",
         "translation": "任意贸易节点",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_ACTIVE_TRADE_NODE_TR:1",
         "original": "Any Active Trade Node",
         "translation": "任意一个有商人在活动的贸易节点",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RECALL_MERCHANT_EFFECT:0",
         "original": "$WHO$ of §Y$COUNTRY$§! is leaving §Y$WHERE$§!\\n",
         "translation": "§Y$COUNTRY$§!的$WHO$正在离开§Y$WHERE$§!\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RULER_MODIFIER_ADDED:1",
         "original": "$WHERE$ gets '$WHAT|Y$' $TIME$, giving the following effects:\\n$EFFECT$\\n\\n",
         "translation": "$WHERE$获得「$WHAT|Y$」$TIME$，获得以下效果：\\n$EFFECT$\\n\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RULER_MODIFIER_ADDED_TIME_DATE:0",
         "original": "until $DATE|Y$, unless $WHO|Y$ dies before that",
         "translation": "持续到$DATE|Y$，除非$WHO|Y$在此之前死亡",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RULER_MODIFIER_ADDED_TIME_DURATION:0",
         "original": "for $DURATION|Y$, unless $WHO|Y$ dies before that",
         "translation": "持续$DURATION|Y$，除非$WHO|Y$在此之前死亡",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RULER_MODIFIER_ADDED_TIME_FOREVER:0",
         "original": " until the death of $WHO|Y$",
         "translation": "持续到$WHO|Y$死亡",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_TRADE_MODIFIER:0",
         "original": "$WHO$ has §Y$WHAT$§! in §Y$WHERE$§!.\\n",
         "translation": "$WHO$在§Y$WHERE$§!拥有§Y$WHAT$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_TRADE_MODIFIER:0",
         "original": "$WHO$ does NOT have §Y$WHAT$§! in §Y$WHERE$§!.\\n",
         "translation": "$WHO$在§Y$WHERE$§!没有§Y$WHAT$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRADE_MODIFIER_EFFECT:0",
         "original": "Trade Power: $VAL$",
         "translation": "贸易竞争力：$VAL$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRADE_MODIFIER_EFFECT_PERCENT:0",
         "original": "Trade Power Modifier: $VAL$",
         "translation": "贸易竞争力修正：$VAL$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRADE_MODIFIER_ADDED:1",
         "original": "$WHO$ gains §Y$WHAT$§! ($EFFECT$) in §Y$WHERE$§! until $DATE$.\\n",
         "translation": "$WHO$在§Y$WHERE$§!得到了§Y$WHAT$§!（$EFFECT$），持续到$DATE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRADE_MODIFIER_REMOVED:1",
         "original": "$WHO$ loses §Y$WHAT$§! ($EFFECT$) in §Y$WHERE$§!\\n",
         "translation": "$WHO$在§Y$WHERE$§!失去了§Y$WHAT$§!（$EFFECT$）\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_CORE_ALREADY:0",
         "original": "You already have a core in this province.",
         "translation": "你已拥有这个省份的核心。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_CORE_PROVINCE_STARTS:0",
         "original": "Any Core Province",
         "translation": "任意核心省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_CORE_COUNTRY_STARTS:0",
         "original": "Any Core Country",
         "translation": "任意核心国家",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_LOCAL_ENEMY_STARTS:0",
         "original": "Any local enemy",
         "translation": "任意地区敌人",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_HERETIC_PROVINCE_STARTS:0",
         "original": "Any heretic province",
         "translation": "任意异端省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_PRIVATEERING_COUNTRY:0",
         "original": "Any privateering country in $NODE$",
         "translation": "任意在$NODE$节点进行私掠的国家",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_PRIVATEERING_COUNTRY:0",
         "original": "All privateering countries in $NODE$",
         "translation": "所有在$NODE$节点进行私掠的国家",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TARGET_GETS_NEW_CORE_EFFECT:0",
         "original": "§Y$WHO$§W gains core on §Y$NEW$§W.\\n",
         "translation": "§Y$WHO$§W获得了§Y$NEW$§W的核心。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TARGET_LOSE_CORE_EFFECT:0",
         "original": "§Y$WHO$§W loses core on §Y$LOSE$§W.\\n",
         "translation": "§Y$WHO$§W失去省份§Y$LOSE$§W的核心。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "AT_LEAST_ONE_PROVINCE_IN_SUPERREGION:0",
         "original": "At least one province part of the $SUPERREGION$ subcontinent",
         "translation": "至少一个属于$SUPERREGION$次大陆的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_ONE_PROVINCE_IN_SUPERREGION:0",
         "original": "No provinces part of the $SUPERREGION$ subcontinent",
         "translation": "没有一个属于$SUPERREGION$次大陆的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_PROVINCES_IN_SUPERREGION:0",
         "original": "All provinces part of the $SUPERREGION$ subcontinent",
         "translation": "所有属于$SUPERREGION$次大陆的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_ALL_PROVINCES_IN_SUPERREGION:0",
         "original": "Not all provinces part of the $SUPERREGION$ subcontinent",
         "translation": "并非所有属于$SUPERREGION$次大陆的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_IN_THE_SAME_REGION:0",
         "original": "Is NOT in the same region as",
         "translation": "未处在同一地区的国家有：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_IN_THE_SAME_REGION:0",
         "original": "Is in the same region as",
         "translation": "处在同一地区的国家有：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_NEIGHBOR_PROVINCE_STARTS:0",
         "original": "Any neighboring province",
         "translation": "任意邻接省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_NEIGHBOR_PROVINCE_STARTS:0",
         "original": "All neighboring provinces",
         "translation": "所有相邻省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_EMPTY_NEIGHBOR_PROVINCE_STARTS:0",
         "original": "All neighboring empty provinces",
         "translation": "所有相邻无主省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_PROVINCE_STARTS:0",
         "original": "All provinces",
         "translation": "所有省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_STATE_PROVINCE_STARTS:0",
         "original": "All State Provinces",
         "translation": "所有直属州省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_OWNED_PROVINCE_STARTS:0",
         "original": "All owned provinces",
         "translation": "所有治下省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_CORE_PROVINCE_STARTS:0",
         "original": "Any Core Provinces",
         "translation": "任意核心省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_HERETIC_PROVINCE_STARTS:0",
         "original": "All heretic provinces",
         "translation": "所有异端省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_ACTIVE_TRADE_NODE_TR:0",
         "original": "All active trade nodes",
         "translation": "所有有效贸易节点",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_TRADE_NODE_TR:0",
         "original": "All trade nodes",
         "translation": "所有贸易节点",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_RIVAL_COUNTRY_STARTS:0",
         "original": "All Rivals",
         "translation": "所有宿敌",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_THREAT_COUNTRY_STARTS:0",
         "original": "All Threats",
         "translation": "所有威胁",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_ELECTOR_STARTS:0",
         "original": "All Electors",
         "translation": "所有选帝侯",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_ALLY_STARTS:0",
         "original": "All Allies",
         "translation": "所有盟友",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_LOCAL_ENEMY_STARTS:0",
         "original": "All local enemies",
         "translation": "所有地区敌人",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_CORE_COUNTRY_STARTS:0",
         "original": "All core countries",
         "translation": "所有核心国家",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_KNOWN_COUNTRY_STARTS:0",
         "original": "All known countries",
         "translation": "所有已知国家",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_COALITION_MEMBER_STARTS:0",
         "original": "All coalition members",
         "translation": "所有包围网成员",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_AT_LEAST_COALITION_MEMBERS:0",
         "original": "Has at least $VAL$ coalition members.",
         "translation": "包围网成员达到$VAL$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_FEWER_COALITION_MEMBERS:0",
         "original": "Has fewer than $VAL$ coalition members.",
         "translation": "包围网成员少于$VAL$个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "achievement_tooltip_colonial_management:0",
         "original": "At least 3 of your colonial governors are directly appointed by you.",
         "translation": "直接任命的殖民地总督达到3个。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_NEIGHBOR_COUNTRY_STARTS:0",
         "original": "All neighboring countries",
         "translation": "所有邻国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_PROVINCES_IN_REGION:0",
         "original": "All provinces in the $REGION$ region",
         "translation": "$REGION$地区的所有省份",
-        "stage": 5
+        "stage": 5,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_ALL_PROVINCES_IN_REGION:0",
         "original": "Not all provinces in the $REGION$ region",
         "translation": "并非所有属于$REGION$地域的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_PROVINCES_IN_AREA:0",
         "original": "All provinces in the $AREA$ area",
         "translation": "所有属于$AREA$地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_ALL_PROVINCES_IN_AREA:0",
         "original": "Not all provinces in the area $AREA$ area",
         "translation": "并非所有属于$AREA$地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "AT_LEAST_ONE_PROVINCE_IN_AREA:0",
         "original": "At least one province in the $AREA$ area",
         "translation": "至少一个属于$AREA$地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_ONE_PROVINCE_IN_AREA:0",
         "original": "No provinces in the $AREA$ area",
         "translation": "没有一个属于$AREA$地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_PROVINCES_IN_CONTINENT:0",
         "original": "All provinces in the $CONTINENT$ continent",
         "translation": "所有属于$CONTINENT$大陆的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_ALL_PROVINCES_IN_CONTINENT:0",
         "original": "Not all provinces in the $CONTINENT$ continent",
         "translation": "并非所有属于$CONTINENT$大陆的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "AT_LEAST_ONE_PROVINCE_IN_PROVINCEGROUP:0",
         "original": "At least one province in the $PROVINCEGROUP$ Province Group",
         "translation": "至少一个属于$PROVINCEGROUP$省份组的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_ONE_PROVINCE_IN_PROVINCEGROUP:0",
         "original": "No provinces in the $PROVINCEGROUP$ Province Group",
         "translation": "没有一个属于$PROVINCEGROUP$省份组的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_PROVINCES_IN_PROVINCEGROUP:0",
         "original": "All provinces in the $PROVINCEGROUP$ Province Group",
         "translation": "所有属于$PROVINCEGROUP$省份组的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_ALL_PROVINCES_IN_PROVINCEGROUP:0",
         "original": "Not all provinces in the $PROVINCEGROUP$ Province Group",
         "translation": "并非所有属于$PROVINCEGROUP$省份组的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "UNIT_TYPE_IS_NOT:0",
         "original": "Unit type is NOT $NAME$",
         "translation": "兵种类型不是$NAME$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "UNIT_TYPE_IS:0",
         "original": "Unit type is $NAME$",
         "translation": "兵种类型是$NAME$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_GLOBAL_MODIFIER:0",
         "original": "Have less than $VALUE$ $MODIFIER$",
         "translation": "拥有$MODIFIER$少于$VALUE$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_GLOBAL_MODIFIER:0",
         "original": "Have at least $VALUE$ $MODIFIER$",
         "translation": "拥有$MODIFIER$达到$VALUE$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_LOCAL_MODIFIER:0",
         "original": "Have less than $VALUE$ $MODIFIER$",
         "translation": "拥有$MODIFIER$少于$VALUE$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_LOCAL_MODIFIER:0",
         "original": "Have at least $VALUE$ $MODIFIER$",
         "translation": "拥有$MODIFIER$达到$VALUE$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_THREATENED_BY:0",
         "original": "Is threatened by ",
         "translation": "受到该国威胁：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_IS_THREATENED_BY:0",
         "original": "Is not threatened by ",
         "translation": "未受该国威胁：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TOTAL_BASE_TAX_LESS_THAN:0",
         "original": "Total Base Tax less than ",
         "translation": "总基税少于",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TOTAL_BASE_TAX_MORE_THAN:0",
         "original": "Total Base Tax at least ",
         "translation": "总基税达到",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_CLIMATE:0",
         "original": "Has §Y$CLIMATE$§! climate",
         "translation": "气候类型是§Y$CLIMATE$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_CLIMATE:0",
         "original": "Has NOT §Y$CLIMATE$§! climate",
         "translation": "气候类型不是§Y$CLIMATE$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_WINTER:0",
         "original": "Has §Y$WINTER$§!",
         "translation": "冬季类型是§Y$WINTER$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_WINTER:0",
         "original": "Has NOT §Y$WINTER$§!",
         "translation": "冬季类型不是§Y$WINTER$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NUMBER_OF_TRADE_COMPANIES_LESS_THAN:0",
         "original": "Trade Companies less than $VALUE|Y$",
         "translation": "贸易公司数量少于$VALUE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NUMBER_OF_TRADE_COMPANIES_AT_LEAST:1",
         "original": "Have at least $VALUE|Y$ Trade Companies",
         "translation": "贸易公司数量达到$VALUE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_OWNED_BY_TRADE_COMPANY:0",
         "original": "Is NOT owned by Trade Company\\n",
         "translation": "不属于贸易公司\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "OWNED_BY_TRADE_COMPANY:0",
         "original": "Owned by Trade Company\\n",
         "translation": "属于贸易公司\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRADE_COMPANY_SIZE_LESS_THAN:0",
         "original": "Trade Company size less than $VALUE|Y$",
         "translation": "贸易公司规模小于$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRADE_COMPANY_SIZE_AT_LEAST:0",
         "original": "Trade Company size at least $VALUE|Y$",
         "translation": "贸易公司规模达到$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_IN_TRADE_COMPANY_REGION:0",
         "original": "Is NOT in trade company region $REGION|Y$",
         "translation": "不属于$REGION|Y$贸易公司地区",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_IN_TRADE_COMPANY_REGION:0",
         "original": "Is in trade company region $REGION|Y$",
         "translation": "属于$REGION$贸易公司地区",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NUMBER_OF_TRADE_COMPANIES_IN_REGION_SIZE_LESS_THAN:0",
         "original": "Trade Companies in region less than $VALUE|Y$",
         "translation": "此地区贸易公司少于$VALUE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NUMBER_OF_TRADE_COMPANIES_IN_REGION_AT_LEAST:0",
         "original": "Trade Companies in region at least $VALUE|Y$",
         "translation": "此地区贸易公司达到$VALUE|Y$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_ONE_PROVINCE_IN_TRADE_COMPANY_REGION:0",
         "original": "No provinces in trade company region $REGION$",
         "translation": "没有一个属于$REGION$贸易公司地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "AT_LEAST_ONE_PROVINCE_IN_TRADE_COMPANY_REGION:0",
         "original": "At least one province in trade company region $REGION$",
         "translation": "至少一个属于$REGION$贸易公司地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_ALL_PROVINCES_IN_TRADE_COMPANY_REGION:0",
         "original": "Not all provinces in trade company region $REGION$",
         "translation": "并非所有属于$REGION$贸易公司地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_PROVINCES_IN_TRADE_COMPANY_REGION:0",
         "original": "All provinces in trade company region $REGION$",
         "translation": "所有属于$REGION$贸易公司地区的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_CONSTRUCTING_TRIGGER:0",
         "original": "Is currently $TYPE$.",
         "translation": "当前是$TYPE$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_CONSTRUCTING_TRIGGER:0",
         "original": "Is not currently $TYPE$.",
         "translation": "当前不是$TYPE$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_PERMANENT_ACCEPTED_CULTURE:0",
         "original": "$CULTURE|Y$ is a permanent accepted culture",
         "translation": "$CULTURE|Y$是一个永久性的相容文化",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_PERMANENT_ACCEPTED_CULTURE:0",
         "original": "$CULTURE|Y$ is NOT a permanent accepted culture",
         "translation": "$CULTURE|Y$不是永久性的相容文化",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "MERCHANT_CONSTRUCTION:0",
         "original": "trading",
         "translation": "所属贸易中心",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DIPLOMAT_CONSTRUCTION:0",
         "original": "negotiating",
         "translation": "外交协商",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ARMY_CONSTRUCTION:0",
         "original": "recruiting an army",
         "translation": "招募陆军",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NAVY_CONSTRUCTION:0",
         "original": "building a fleet",
         "translation": "建造舰队",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "BUILDING_CONSTRUCTION:0",
         "original": "constructing a building",
         "translation": "建造建筑",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "MISSIONARY_CONSTRUCTION:0",
         "original": "converting religion",
         "translation": "传播信仰",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CORE_CONSTRUCTION:0",
         "original": "making a core",
         "translation": "核心化",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CULTURE_CONSTRUCTION:0",
         "original": "changing culture",
         "translation": "转变文化",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "GREAT_PROJECT_CONSTRUCTION:0",
         "original": "constructing a great project",
         "translation": "修建一个大工程",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CANAL_CONSTRUCTION:0",
         "original": "constructing a canal",
         "translation": "修建一条大运河",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_CONSTRUCTION:0",
         "original": "constructing something",
         "translation": "任意建造",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_X_BUILDINGS:0",
         "original": "Have less than $VALUE$ $BUILDING$",
         "translation": "$BUILDING$数量少于$VALUE$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_X_BUILDINGS:0",
         "original": "Have at least $VALUE$ $BUILDING$",
         "translation": "$BUILDING$数量达到$VALUE$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_X_SUBJECTS:0",
         "original": "Have less than $VALUE$ $SUBJECT$",
         "translation": "$SUBJECT$数量少于$VALUE$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_X_SUBJECTS:0",
         "original": "Have at least $VALUE$ $SUBJECT$",
         "translation": "$SUBJECT$数量达到$VALUE$个",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "OWNS_CORE_PROVINCE:0",
         "original": "Owns core province: ",
         "translation": "拥有核心省份：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_OWNS_CORE_PROVINCE:0",
         "original": "Does NOT own core province: ",
         "translation": "没有核心省份：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RULER_AGE_LESS_THAN:0",
         "original": "Ruler age less than ",
         "translation": "统治者年龄低于",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RULER_AGE_AT_LEAST:0",
         "original": "Ruler age at least ",
         "translation": "统治者年龄达到",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_GREAT_PROJECT:0",
         "original": "Have the great project $NAME|Y$.",
         "translation": "建有大工程$NAME|Y$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_GREAT_PROJECT:0",
         "original": "Does not have the great project $NAME|Y$.",
         "translation": "未建大工程$NAME|Y$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "START_GREAT_PROJECT:0",
         "original": "Starts the construction of the great project $NAME|Y$.",
         "translation": "开始修建大工程$NAME|Y$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CONSTRUCTION_DELAYED:0",
         "original": "$NAME$ will be done $DAYS|Y$ days later.",
         "translation": "$NAME$将延迟$DAYS|Y$天完成。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CONSTRUCTION_HURRIED:0",
         "original": "$NAME$ will be done $DAYS|Y$ days earlier.",
         "translation": "$NAME$将提前$DAYS|Y$天完成。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CONSTRUCTION_PROGRESS_AT_LEAST:0",
         "original": "Construction progress at least $VAL|%$",
         "translation": "修建进度达到$VAL|%$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CONSTRUCTION_PROGRESS_LESS_THAN:0",
         "original": "Construction progress less than $VAL|%$",
         "translation": "修建进度低于$VAL|%$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CONSTRUCTION_CANCELED:0",
         "original": "The construction will be canceled.",
         "translation": "建筑工程将被取消。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_PERMANENT_ACCEPTED_CULTURE:0",
         "original": "Gain $CULTURE|Y$ as a permanent accepted culture.\\n",
         "translation": "获得永久性的相容文化$CULTURE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_PERMANENT_ACCEPTED_CULTURE:0",
         "original": "Lose $CULTURE|Y$ as a permanent accepted culture.\\n",
         "translation": "失去永久性的相容文化$CULTURE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SAVE_EVENT_TARGET_EFFECT:0",
         "original": "Save $TARGET|Y$ as $NAME|Y$",
         "translation": "把$TARGET|Y$保存为$NAME|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_REBEL_FACTION:0",
         "original": "Has NOT rebel faction $FACTION|Y$",
         "translation": "没有$FACTION|Y$派系的叛军",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_REBEL_FACTION:0",
         "original": "Has rebel faction $FACTION|Y$",
         "translation": "有$FACTION|Y$派系的叛军",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_GUARANTEED_BY:0",
         "original": "NOT guaranteed by $WHO|Y$",
         "translation": "没有被$WHO|Y$保证独立",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "GUARANTEED_BY:0",
         "original": "Guaranteed by $WHO|Y$",
         "translation": "被$WHO|Y$保证独立",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_GUARANTEED:0",
         "original": "Has NOT guaranteed $WHO|Y$",
         "translation": "没有保证$WHO|Y$独立",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_GUARANTEED:0",
         "original": "Has guaranteed $WHO|Y$",
         "translation": "已经保证$WHO|Y$独立",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SWITCH_TAG:0",
         "original": "Play as $TAG|Y$.\\n",
         "translation": "玩家扮演的国家变更为$TAG|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REBELS:0",
         "original": "rebels",
         "translation": "叛军",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CLEAR_SCRIPTED_PERSONALITIES:0",
         "original": "Personalities removed for country. (setup command)",
         "translation": "特质从这个国家移除。（建立命令）",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RULER_HAS_PERSONALITY:0",
         "original": "$NAME$ is $PERSONALITY$\\n",
         "translation": "$NAME$拥有$PERSONALITY$特质\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RULER_HAS_NOT_PERSONALITY:0",
         "original": "$NAME$ is NOT $PERSONALITY$\\n",
         "translation": "$NAME$没有$PERSONALITY$特质\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HEIR_HAS_PERSONALITY:0",
         "original": "Heir '$NAME$' is $PERSONALITY$\\n",
         "translation": "继承人「$NAME$」拥有$PERSONALITY$特质\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HEIR_HAS_NOT_PERSONALITY:0",
         "original": "Heir '$NAME$' is NOT $PERSONALITY$\\n",
         "translation": "继承人「$NAME$」没有$PERSONALITY$特质\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CONSORT_HAS_PERSONALITY:0",
         "original": "Consort '$NAME$' is $PERSONALITY$\\n",
         "translation": "配偶「$NAME$」拥有$PERSONALITY$特质\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CONSORT_HAS_NOT_PERSONALITY:0",
         "original": "Consort '$NAME$' is NOT $PERSONALITY$\\n",
         "translation": "配偶「$NAME$」没有$PERSONALITY$特质\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_RULER_PERSONALITY:0",
         "original": "$NAME$ is now $PERSONALITY|Y$.\\n",
         "translation": "$NAME$获得特质$PERSONALITY|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_RULER_PERSONALITY:0",
         "original": "$NAME$ is no longer $PERSONALITY|Y$.\\n",
         "translation": "$NAME$失去特质$PERSONALITY|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "KILL_CONSORT_DESCRIPTION:0",
         "original": "$CONSORTNAME|Y$ of $COUNTRYNAME$ is killed.\\n",
         "translation": "$COUNTRYNAME$的$CONSORTNAME|Y$遇害了。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_CONSORT_DESCRIPTION:0",
         "original": "$CONSORTNAME$ is removed from the court of $COUNTRYNAME$.\\n",
         "translation": "$CONSORTNAME$离开了$COUNTRYNAME$宫廷。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "WARSCORE_AGAINST_LESS_THAN:0",
         "original": "War score against $WHO$ less than $SCORE|Y%$",
         "translation": "对$WHO$的战争分数低于$SCORE|Y%$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "WARSCORE_AGAINST_MORE_THAN:0",
         "original": "War score against $WHO$ at least $SCORE|Y%$",
         "translation": "对$WHO$的战争分数达到$SCORE|Y%$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_HAS_HARSH_TREATMENT:0",
         "original": "Has NOT harsh treatment",
         "translation": "未实施残酷镇压",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_HARSH_TREATMENT:0",
         "original": "Has harsh treatment",
         "translation": "已实施残酷镇压",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_TRUCE_WITH_EFFECT:0",
         "original": "Add a truce with $WHO|Y$",
         "translation": "与$WHO|Y$签订休战协议",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_IS_REPUBLIC:0",
         "original": "Is NOT a Republic",
         "translation": "不是共和国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_REPUBLIC:0",
         "original": "Is a Republic",
         "translation": "是共和国",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_DEITY:0",
         "original": "Is following $DEITY|Y$",
         "translation": "正供奉$DEITY|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_HAS_DEITY:0",
         "original": "Is NOT following $DEITY|Y$",
         "translation": "未供奉$DEITY|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CHANGE_DEITY_EFFECT:0",
         "original": "Change Deity to $NAME|Y$",
         "translation": "转而供奉$NAME|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IN_LEAGUE:0",
         "original": "Is in the §Y$RELIGION$ League§!",
         "translation": "加入了§Y$RELIGION$联盟§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NOT_IN_LEAGUE:0",
         "original": "Is NOT in the §Y$RELIGION$ League§!",
         "translation": "未加入§Y$RELIGION$联盟§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_OPINION_MOD:0",
         "original": "Has opinion modifier ",
         "translation": "拥有好感度修正",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_OPINION_MOD:0",
         "original": "Does not have opinion modifier ",
         "translation": "没有好感度修正",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NO_SECONDARY_RELIGION:0",
         "original": "Has no secondary religion",
         "translation": "没有兼容信仰",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_A_SECONDARY_RELIGION:0",
         "original": "Has a secondary religion",
         "translation": "有兼容信仰",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SECONDARY_RELIGION_IS:0",
         "original": "§Y$WHO$§! has §Y$NAME$§! as secondary religion",
         "translation": "§Y$WHO$§!有兼容信仰§Y$NAME$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SECONDARY_RELIGION_ISNOT:0",
         "original": "§Y$WHO$§! does not have §Y$NAME$§! as secondary religion",
         "translation": "§Y$WHO$§!没有兼容信仰§Y$NAME$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SECONDARY_RELIGION_PROV_IS:0",
         "original": "§Y$WHO$§!'s religion is the Syncretic Faith §Y$NAME$§!",
         "translation": "§Y$WHO$§!的宗教是我们的相融信仰§Y$NAME$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SECONDARY_RELIGION_PROV_ISNOT:0",
         "original": "§Y$WHO$§!'s religion is not the Syncretic Faith §Y$NAME$§!",
         "translation": "§Y$WHO$§!的宗教不是我们的相融信仰§Y$NAME$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_MATCHING_RELIGION:0",
         "original": "§Y$WHO$§!'s Religion or Syncretic Faith is §Y$REL$§!",
         "translation": "§Y$WHO$§!的宗教或相融信仰是§Y$REL$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_MATCHING_RELIGION:0",
         "original": "§Y$WHO$§!'s Religion or Syncretic Faith is NOT §Y$REL$§!",
         "translation": "§Y$WHO$§!的宗教或相融信仰不是§Y$REL$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_MATCHING_RELIGION_COUNTRY:1",
         "original": "§Y$WHO$§!'s Religion, Syncretic Faith or Harmonized Religion the same as §Y$OTHER$§!'s Religion or Syncretic Faith",
         "translation": "§Y$WHO$§!的宗教、相容信仰或已融合宗教与§Y$OTHER$§!的宗教或相容信仰相同",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_MATCHING_RELIGION_COUNTRY:1",
         "original": "§Y$WHO$§! Religion, Syncretic Faith or Harmonized Religion NOT the same as §Y$OTHER$§!'s Religion or Syncretic Faith",
         "translation": "§Y$WHO$§!的宗教、相容信仰或已融合宗教与§Y$OTHER$§!的宗教或相容信仰不同",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_BEEN_DISCOVERED_YEARS:0",
         "original": " was discovered more than $YEARS$ years ago.",
         "translation": "被发现已超过$YEARS$年。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_BEEN_DISCOVERED_YEARS:0",
         "original": " was NOT discovered more than $YEARS$ years ago.",
         "translation": "被发现不到$YEARS$年。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DOES_NOT_HAVE_ATTITUDE_ABOUT:0",
         "original": "Does NOT have §Y$ATTITUDE$§! attitude about §Y$WHO$§!",
         "translation": "对§Y$WHO$§!的态度不是§Y$ATTITUDE$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_ATTITUDE_ABOUT:0",
         "original": "Has §Y$ATTITUDE$§! attitude about §Y$WHO$§!",
         "translation": "对§Y$WHO$§!的态度是§Y$ATTITUDE$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_PERMANENT_COUNTRY_CLAIM:0",
         "original": "Is NOT a permanent $COUNTRYADJ$ claim.",
         "translation": "不是$COUNTRYADJ$的永久性宣称。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_PERMANENT_COUNTRY_CLAIM:0",
         "original": "Is a permanent $COUNTRYADJ$ claim.",
         "translation": "是$COUNTRYADJ$的永久性宣称。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DOESNT_HAVE_PERMANENT_CLAIM_ON:0",
         "original": "Does NOT have a permanent claim on ",
         "translation": "没有永久性宣称：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_PERMANENT_CLAIM_ON:0",
         "original": "Has a permanent claim on ",
         "translation": "有永久性宣称：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INCREASE_DISASTER_PROGRESS_EFFECT:0",
         "original": "Disaster progress for §Y$DISASTER$§! increased by §R$VALUE$§!",
         "translation": "§Y$DISASTER$§!灾难的进度增加了§R$VALUE$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DECREASE_DISASTER_PROGRESS_EFFECT:0",
         "original": "Disaster progress for §Y$DISASTER$§! decreased by §G$VALUE$§!",
         "translation": "§Y$DISASTER$§!灾难的进度减少了§G$VALUE$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DOES_NOT_HAVE_DISASTER_PROGRESS:0",
         "original": "Disaster progress for $DISASTER|Y$ less than $VALUE|Y$",
         "translation": "$DISASTER|Y$灾难的进度小于$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_DISASTER_PROGRESS:0",
         "original": "Disaster progress for $DISASTER|Y$ at least $VALUE|Y$",
         "translation": "$DISASTER|Y$灾难的进度达到$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_ADMIRAL:0",
         "original": "Is Admiral",
         "translation": "是海军将领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_GENERAL:0",
         "original": "Is General",
         "translation": "是陆军将领",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_HAREM:0",
         "original": "Has Harem",
         "translation": "拥有后宫",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CHANGE_CONSORT_REGENT_TO_RULER_EFFECT_DESC:0",
         "original": "$CONSORTREGENTNAME|Y$ will be converted to a normal ruler.\\n",
         "translation": "$CONSORTREGENTNAME|Y$将成为正式的统治者。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CHANGE_CONSORT_REGENT_TO_RULER_EFFECT_LEGITIMACY_DESC:0",
         "original": "$CONSORTREGENTNAME|Y$ will be converted to a normal ruler with $NEWLEGITIMACY|Y$ Legitimacy.\\n",
         "translation": "根据$NEWLEGITIMACY|Y$赋予的合法性，$CONSORTREGENTNAME|Y$将成为正式统治者。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_SAVED_EVENT_TARGET:0",
         "original": "Has saved event target",
         "translation": "事件目标已保存",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_SAVED_EVENT_TARGET:0",
         "original": "Does not have saved event target",
         "translation": "事件目标未保存",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_GAME_STARTED:0",
         "original": "Game has started.\\n",
         "translation": "游戏已经开始。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_GAME_NOT_STARTED:0",
         "original": "Game has NOT started.\\n",
         "translation": "游戏还未开始。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HEIR_CAN_BE_CHILD_OF_CONSORT:0",
         "original": "The heir can potentially be the consort's child.\\n",
         "translation": "继承人可能是配偶的孩子。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HEIR_CAN_NOT_BE_CHILD_OF_CONSORT:0",
         "original": "The heir cannot possibly be the consort's child.\\n",
         "translation": "继承人不可能是配偶的孩子。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NEIGHBOR_TECH_DISCOUNT_LESS_THAN:0",
         "original": "Greatest neighbor technology discount is less than §Y$VAL$%§!.",
         "translation": "邻国科技加成低于§Y$VAL$%§!。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NEIGHBOR_TECH_DISCOUNT_IS_AT_LEAST:0",
         "original": "Greatest neighbor technology discount is at least §Y$VAL$%§!.",
         "translation": "邻国科技加成达到§Y$VAL$%§!。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_RELIGION_GRANT_COLONIAL_CLAIM:0",
         "original": "Has been granted to $COUNTRY|Y$ as a colonial claim from the head of $RELIGION|Y$ religion.",
         "translation": "$COUNTRY|Y$被$RELIGION|Y$的宗教领袖授予了一个殖民地的宣称。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_RELIGION_GRANT_COLONIAL_CLAIM:0",
         "original": "Has NOT been granted as a colonial claim to $COUNTRY|Y$ from the head of $RELIGION|Y$ religion.",
         "translation": "$COUNTRY|Y$未被$RELIGION|Y$的宗教领袖授予殖民地的宣称。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_ANY_RELIGION_GRANT_COLONIAL_CLAIM:0",
         "original": "Has been granted as a colonial claim to any country.",
         "translation": "一个殖民地宣称被授予任意国家。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_ANY_RELIGION_GRANT_COLONIAL_CLAIM:0",
         "original": "Has NOT been granted as a colonial claim to any country.",
         "translation": "殖民地宣称未被授予任意国家。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVENT_TERRITORIAL_CORE:0",
         "original": "Do NOT have a territorial core in ",
         "translation": "不是自治领地核心：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_TERRITORIAL_CORE_IN:0",
         "original": "Have a territorial core in ",
         "translation": "是自治领地核心：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_COUNTRY_TERRITORIAL_CORE:0",
         "original": "Is NOT a $COUNTRYADJ$ territorial core.",
         "translation": "不是$COUNTRYADJ$的自治领地核心。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_COUNTRY_TERRITORIAL_CORE:0",
         "original": "Is a $COUNTRYADJ$ territorial core.",
         "translation": "是$COUNTRYADJ$的自治领地核心。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVENT_STATE_CORE:0",
         "original": "Do NOT have a state core in ",
         "translation": "不是完整核心：",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_STATE_CORE_IN:0",
         "original": "Have a state core in ",
         "translation": "有完整核心在",
-        "stage": 2
+        "stage": 2,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_COUNTRY_STATE_CORE:0",
         "original": "Is NOT a $COUNTRYADJ$ state core.",
         "translation": "不是$COUNTRYADJ$的完整核心。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_COUNTRY_STATE_CORE:0",
         "original": "Is a $COUNTRYADJ$ state core.",
         "translation": "是$COUNTRYADJ$的完整核心。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "NEW_TERRITORIAL_CORE_EFFECT_EMPEROR:0",
         "original": "The emperor gains a territorial core on §Y$NEW$§W.\\n",
         "translation": "皇帝获得了§Y$NEW$§W的自治领地核心。 \\n",
-        "stage": 2
+        "stage": 2,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TARGET_GETS_NEW_TERRITORIAL_CORE_EFFECT:0",
         "original": "§Y$WHO$§W gains territorial core on §Y$NEW$§W.\\n",
         "translation": "§Y$WHO$§W获得了§Y$NEW$§W的自治领地核心。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "dlc_or_feudalism_tooltip:1",
         "original": "Has Reformed Religion or adopted Feudalism.",
         "translation": "已经进行宗教改革或采用封建制度。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "WAR_START_DATE:0",
         "original": "Start Date After",
         "translation": "开始时间晚于",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "WAR_DURATION_DAYS:0",
         "original": "Duration (days): $VAL|Y$",
         "translation": "持续时间（天）： $VAL|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "WAR_GOAL_PROVINCE:0",
         "original": "War Goal Province: $VAL|Y$",
         "translation": "战争的目标省份：$VAL|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_IN_WAR_WARSCORE_MORE:0",
         "original": "More than $VAL|Y$ War Score.",
         "translation": "超过$VAL|Y$战争分数。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_IN_WAR_WARSCORE_LESS:0",
         "original": "Less than $VAL|Y$ War Score.",
         "translation": "低于$VAL|Y$战争分数。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DEFENDER_WARLEADER:0",
         "original": "Defender War Leader",
         "translation": "防守方战斗指挥官",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ATTACKER_WARLEADER:0",
         "original": "Attacker War Leader",
         "translation": "进攻方战斗指挥官",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CELESTIAL_REFORM_LEVEL_NOT:0",
         "original": "$REFORMNAME|Y$ is NOT enacted.",
         "translation": "未推行改革$REFORMNAME|Y$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CELESTIAL_REFORM_LEVEL:0",
         "original": "$REFORMNAME|Y$ is enacted.",
         "translation": "已推行改革$REFORMNAME|Y$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SET_CELESTIAL_EMPEROR_DESC:0",
         "original": "$COUNTRYNAME$ becomes the Emperor of China.\\n",
         "translation": "$COUNTRYNAME$成为中华天子。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DISMANTLE_CELESTIAL_EMPIRE_DESC:0",
         "original": "Empire of China is dismantled.\\n",
         "translation": "中华帝国被解散了。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REFORM_CELESTIAL_EMPIRE_DESC:0",
         "original": "Empire of China is re-formed.\\n",
         "translation": "中国帝国重新成立了。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_MANDATE_DESC:0",
         "original": "$DIRECTION$ $MANDATECHANGE|Y$ Mandate.\\n",
         "translation": "$DIRECTION$$MANDATECHANGE|Y$天命。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SET_MANDATE_DESC:0",
         "original": "Set Mandate to $MANDATEVALUE|Y$.\\n",
         "translation": "改变天命值到$MANDATEVALUE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_SUBJECT_TYPE:0",
         "original": "Is a $SUBJECTTYPE$.\\n",
         "translation": "是个$SUBJECTTYPE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_SUBJECT_TYPE:1",
         "original": "Is NOT a $SUBJECTTYPE$.\\n",
         "translation": "不是$SUBJECTTYPE$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_LEADERS_THAN:0",
         "original": "Have less leaders than $VALUE|Y$",
         "translation": "领袖数量少于$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_LEADERS_THAN:0",
         "original": "Number of leaders at least $VALUE|Y$",
         "translation": "领袖数量达到$VALUE|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "USES_ISOLATIONISM:0",
         "original": "$COUNTRY|Y$ uses Isolationism.\\n",
         "translation": "$COUNTRY|Y$采用孤立主义。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "USES_NOT_ISOLATIONISM:0",
         "original": "$COUNTRY|Y$ does NOT use Isolationism.\\n",
         "translation": "$COUNTRY|Y$未采用孤立主义。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ISOLATIONISM_AT_LEAST:0",
         "original": "Isolationism level at least $VALUE|Y$.\\n",
         "translation": "孤立主义级别达到$VALUE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ISOLATIONISM_LESS_THAN:0",
         "original": "Isolationism level lower than $VALUE|Y$.\\n",
         "translation": "孤立主义级别低于$VALUE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INCIDENT_VARIABLE_VALUE:0",
         "original": "Incident $INCIDENTNAME|Y$ value is at least $VALUE|Y$\\n",
         "translation": "事件$INCIDENTNAME|Y$的值达到$VALUE|Y$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INCIDENT_VARIABLE_VALUE_NOT:0",
         "original": "Incident $INCIDENTNAME|Y$ value is less than $VALUE|Y$\\n",
         "translation": "事件$INCIDENTNAME|Y$的值低于$VALUE|Y$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_INCIDENT_POTENTIAL:0",
         "original": "Incident $INCIDENTNAME|Y$ is possible in the future for \"$COUNTRYNAME|Y$\".\\n",
         "translation": "事件$INCIDENTNAME|Y$将来可能在「$COUNTRYNAME|Y$」发生。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_INCIDENT_POTENTIAL_NOT:0",
         "original": "Incident $INCIDENTNAME|Y$ is NOT possible in the future for $COUNTRYNAME|Y$.\\n",
         "translation": "事件$INCIDENTNAME|Y$将来不可能在「$COUNTRYNAME|Y$」发生。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_INCIDENT_ACTIVE:0",
         "original": "Incident $INCIDENTNAME|Y$ is active for $COUNTRYNAME|Y$.\\n",
         "translation": "事件$INCIDENTNAME|Y$已经发生在$COUNTRYNAME|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_INCIDENT_ACTIVE_NOT:0",
         "original": "Incident $INCIDENTNAME|Y$ is NOT active for $COUNTRYNAME|Y$.\\n",
         "translation": "事件$INCIDENTNAME|Y$未发生在$COUNTRYNAME|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_INCIDENT_ACTIVE_ANY:0",
         "original": "Any Incident is active for $COUNTRYNAME|Y$.\\n",
         "translation": "任何事件发生在$COUNTRYNAME|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_INCIDENT_ACTIVE_ANY_NOT:0",
         "original": "Any Incident is NOT active for $COUNTRYNAME|Y$.\\n",
         "translation": "任何事件都未发生在$COUNTRYNAME|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_INCIDENT_PAST:1",
         "original": "Incident $INCIDENTNAME|Y$ has happened for $COUNTRYNAME|Y$.\\n",
         "translation": "事件$INCIDENTNAME|Y$在$COUNTRYNAME|Y$已经发生。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_INCIDENT_PAST_NOT:1",
         "original": "Incident $INCIDENTNAME|Y$ has NOT happened for $COUNTRYNAME|Y$.\\n",
         "translation": "事件$INCIDENTNAME|Y$在$COUNTRYNAME|Y$尚未发生。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_INCIDENT_POSSIBLE:1",
         "original": "Incident $INCIDENTNAME|Y$ can trigger for $COUNTRYNAME|Y$.\\n",
         "translation": "事件$INCIDENTNAME|Y$在$COUNTRYNAME|Y$可以触发。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_INCIDENT_POSSIBLE_NOT:1",
         "original": "Incident $INCIDENTNAME|Y$ can NOT trigger for $COUNTRYNAME|Y$.\\n",
         "translation": "事件$INCIDENTNAME|Y$在$COUNTRYNAME|Y$不可触发。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_ISOLATIONISM_EFFECT:0",
         "original": "Add $VALUE|Y$ to Isolationism level.\\n",
         "translation": "增加$VALUE|Y$孤立主义等级。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_ISOLATIONISM_EFFECT_REDUCE:0",
         "original": "Reduce Isolationism level by $VALUE|Y$\\n",
         "translation": "降低$VALUE|Y$孤立主义等级\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SET_ISOLATIONISM_EFFECT:0",
         "original": "Set $VALUE|Y$ as Isolationism level.\\n",
         "translation": "孤立主义等级设为$VALUE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_INCIDENT_VARIABLE_VALUE_EFFECT:0",
         "original": "Add $VALUE|Y$ to $INCIDENTNAME|Y$.\\n",
         "translation": "$INCIDENTNAME|Y$值增加$VALUE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SET_INCIDENT_VARIABLE_VALUE_EFFECT:0",
         "original": "Set $INCIDENTNAME|Y$ to $VALUE|Y$.\\n",
         "translation": "设置$INCIDENTNAME|Y$值为$VALUE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "END_INCIDENT_EFFECT:0",
         "original": "End Incident $INCIDENTNAME|Y$.\\n",
         "translation": "结束事件$INCIDENTNAME|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_HARMONY_EFFECT:0",
         "original": "$DIRECTION$ $VALUE|Y$ Harmony.\\n",
         "translation": "$DIRECTION$$VALUE|Y$和谐度。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_HARMONIZATION_PROGRESS_EFFECT:0",
         "original": "$DIRECTION$ $VALUE|Y$ Religious Harmonization Progress.\\n",
         "translation": "$DIRECTION$$VALUE|Y$宗教融合进程。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HARMONY_LESS_THAN:0",
         "original": "Harmony less than §Y$VAL$%§!",
         "translation": "和谐度低于§Y$VAL$%§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HARMONY_AT_LEAST:0",
         "original": "Harmony at least §Y$VAL|Y$%§!",
         "translation": "和谐度至少§Y$VAL|Y$%§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HARMONIZATION_PROGRESS_LESS_THAN:0",
         "original": "Harmonization Progress less than §Y$VAL$%§!",
         "translation": "融合进程低于§Y$VAL$%§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HARMONIZATION_PROGRESS_AT_LEAST:0",
         "original": "Harmonization Progress at least §Y$VAL$%§!",
         "translation": "融合进程至少§Y$VAL$%§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_ACTIVE_POLICY_EFFECT:0",
         "original": "Enact the policy of §Y$POLICY$§!",
         "translation": "颁布政策§Y$POLICY$§!",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAD_NOT_ACTIVE_POLICY_TRIGGER:0",
         "original": "Has NOT had $POLICY|Y$ enacted for at least $DAYS|Y$ days",
         "translation": "没有已经颁布了至少$DAYS|Y$天的$POLICY|Y$政策",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAD_ACTIVE_POLICY_TRIGGER:0",
         "original": "Has had $POLICY|Y$ enacted for at least $DAYS|Y$ days",
         "translation": "有已经颁布了至少$DAYS|Y$天的$POLICY|Y$政策",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_ADM_TECH_EFFECT_SINGULAR:0",
         "original": "Advances Administrative Technology by §G1§! level",
         "translation": "行政科技提升§G1§!级",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_ADM_TECH_EFFECT_PLURAL:0",
         "original": "Advances Administrative Technology by $VAL|+$ levels",
         "translation": "行政科技提升$VAL|+$级",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_DIP_TECH_EFFECT_SINGULAR:0",
         "original": "Advances Diplomacy Technology by §G1§! level",
         "translation": "外交科技提升§G1§!级",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_DIP_TECH_EFFECT_PLURAL:0",
         "original": "Advances Diplomacy Technology by $VAL|+$ levels",
         "translation": "外交科技提升$VAL|+$级",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_MIL_TECH_EFFECT_SINGULAR:0",
         "original": "Advances Military Technology by §G1§! level",
         "translation": "军事科技提升§G1§!级",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_MIL_TECH_EFFECT_PLURAL:0",
         "original": "Advances Military Technology by $VAL|+$ levels",
         "translation": "军事科技提升$VAL|+$级",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REVANCHISM_LOWER_THAN_TRIGGER:0",
         "original": "National Revanchism is lower than $VAL|Y$%",
         "translation": "国家复仇主义低于$VAL|Y$%",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REVANCHISM_HIGHER_THAN_TRIGGER:0",
         "original": "National Revanchism is higher than $VAL|Y$%",
         "translation": "国家复仇主义高于$VAL|Y$%",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_DYNAMIC_TAG:0",
         "original": "Is a dynamic tag",
         "translation": "是一个动态标签",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "IS_NOT_DYNAMIC_TAG:0",
         "original": "Is NOT a dynamic tag",
         "translation": "不是动态TAG",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_ADVISOR_OF_CATEGORY_ADM:0",
         "original": "Our Administrative Advisor $NAME|Y$ leaves our court.\\n",
         "translation": "我们的行政顾问$NAME|Y$离开了我们的宫廷。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_ADVISOR_OF_CATEGORY_DIP:0",
         "original": "Our Diplomatic Advisor $NAME|Y$ leaves our court.\\n",
         "translation": "我们的外交顾问$NAME|Y$离开了我们的宫廷。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "REMOVE_ADVISOR_OF_CATEGORY_MIL:0",
         "original": "Our Military Advisor $NAME|Y$ leaves our court.\\n",
         "translation": "我们的军事顾问$NAME|Y$离开了我们的宫廷。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_NOT_RULER_FLAG:0",
         "original": "Does not have ruler flag '§Y$FLAG$§W'.",
         "translation": "没有统治者标志「§Y$FLAG$§W」。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_RULER_FLAG:0",
         "original": "Have ruler flag '§Y$FLAG$§W'.",
         "translation": "拥有统治者标志「§Y$FLAG$§W」。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_ARMYPROF_EFFECT:0",
         "original": "$DIRECTION$ $PERC|2$ Army Professionalism\\n",
         "translation": "$DIRECTION$$PERC|2$陆军职业度\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SET_ARMYPROF_EFFECT:0",
         "original": "Set Army Professionalism to $PERC|Y$\\n",
         "translation": "将陆军职业度设定为$PERC|Y$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "GOVERNMENT_POWER_EFFECT:0",
         "original": "$DIRECTION$ $VALUE$ $NAME$.\\n",
         "translation": "$DIRECTION$$VALUE$$NAME$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_NOT_USES_RELIGIOUS_SCHOOLS:0",
         "original": "$RELIGION$ does not have religious schools.\\n",
         "translation": "$RELIGION$没有宗教学校。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_USES_RELIGIOUS_SCHOOLS:0",
         "original": "$RELIGION$ have religious schools.\\n",
         "translation": "$RELIGION$拥有宗教学校。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_NOT_HAS_RELIGIOUS_SCHOOL:0",
         "original": "$COUNTRY$ does not have a religious school.\\n",
         "translation": "$COUNTRY$没有宗教学校。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_HAS_RELIGIOUS_SCHOOL:0",
         "original": "$COUNTRY$ have a religious school.\\n",
         "translation": "$COUNTRY$拥有宗教学校。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_NOT_SCHOOL_OPINION:0",
         "original": "$FIRST$ has a worse relationship than $OPINION$ with $SECOND$.\\n",
         "translation": "$FIRST$与$SECOND$拥有低于$OPINION$的关系。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TRIG_SCHOOL_OPINION:0",
         "original": "$FIRST$ has a $OPINION$ relationship or better with $SECOND$.\\n",
         "translation": "$FIRST$与$SECOND$拥有$OPINION$或者更高的关系。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "EFFECT_SET_SCHOOL_OPINION:0",
         "original": "$FIRST$ relation with $SECOND$ will become $OPINION$.",
         "translation": "$FIRST$与$SECOND$的关系将变成$OPINION$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "EFFECT_SET_RELIGIOUS_SCHOOL:1",
         "original": "$COUNTRY$ will follow the doctrines of $SCHOOL$.\\n($MODIFIER$)",
         "translation": "$COUNTRY$将遵循$SCHOOL$的教义。\\n（$MODIFIER$）",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_ACTIVE_POLICY:0",
         "original": "Has $NAME|Y$\" as active Trading Policy in the $NODE|Y$ Node.",
         "translation": "在$NODE|Y$贸易节点采取「$NAME|Y$」贸易政策。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_ACTIVE_POLICY:0",
         "original": "Does not have $NAME|Y$\" as active Trading Policy in the $NODE|Y$ Node.",
         "translation": "没有在$NODE|Y$贸易节点采取「$NAME|Y$」贸易政策。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_ANY_ACTIVE_POLICY:0",
         "original": "Has an active Trading Policy in the $NODE|Y$ Node.",
         "translation": "有在$NODE|Y$贸易节点实施贸易政策。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_ANY_ACTIVE_POLICY:0",
         "original": "Does not have an active Trading Policy in the $NODE|Y$ Node.",
         "translation": "没有在$NODE|Y$贸易节点实施贸易政策。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "has_river_estuary_tooltip:0",
         "original": "Has a §YRiver Estuary§!.",
         "translation": "拥有§Y河口§!。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "has_no_river_estuary_tooltip:0",
         "original": "Does not have a §YRiver Estuary§!.",
         "translation": "没有§Y河口§!。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "is_free_or_tributary_trigger_tooltip:0",
         "original": "Is Independent or a Tributary.",
         "translation": "是独立国家或朝贡国。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "is_subject_other_than_tributary_trigger_tooltip:0",
         "original": "Is Subject other than Tributary.",
         "translation": "是非朝贡属国。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_GOVERNMENT:0",
         "original": "§Y$TAG$'s§! Government is $GOV|Y$\\n",
         "translation": "§Y$TAG$§!的政体是$GOV|Y$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_GOVERNMENT:0",
         "original": "§Y$TAG$'s§! Government is not $GOV|Y$\\n",
         "translation": "§Y$TAG$§!的政体不是$GOV|Y$\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_CONTROLLED_PROVINCE_STARTS:0",
         "original": "All controlled provinces",
         "translation": "所有控制的省份",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_N_CULTURES_IN_COURT:0",
         "original": "Have less than §Y$VALUE$§! different Cultures in your court.\\n",
         "translation": "在你的宫廷里只有不到§Y$VALUE$§!种不同的文化。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_N_CULTURES_IN_COURT:0",
         "original": "Have at least §Y$VALUE$§! different Cultures in your court.\\n",
         "translation": "在你的宫廷里存在至少§Y$VALUE$§!种不同的文化。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_N_RELIGIONS_IN_COURT:0",
         "original": "Have less than §Y$VALUE$§! different Religions in your court.\\n",
         "translation": "在你的宫廷里只有不到§Y$VALUE$§!种不同的宗教。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_N_RELIGIONS_IN_COURT:0",
         "original": "Have at least §Y$VALUE$§! different Religions in your court.\\n",
         "translation": "在你的宫廷里存在至少§Y$VALUE$§!种不同的宗教。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_N_REGIMENTS_AT_FULL_DRILL:1",
         "original": "Have less than §Y$VALUE$§! Regiments at Army full Drill.\\n",
         "translation": "满陆军操练度的部队少于§Y$VALUE$§!个。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_N_REGIMENTS_AT_FULL_DRILL:1",
         "original": "Have at least §Y$VALUE$§! Regiments at full Army Drill.\\n",
         "translation": "满陆军操练度的部队至少有§Y$VALUE$§!个。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ANY_ARMY_STARTS:0",
         "original": "Any Army",
         "translation": "任一军队",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_JANISSARIES_THAN_PERC:0",
         "original": "Less than $PERC|%|Y$ of the army is Janissary Regiments ($SHIPS|Y$)",
         "translation": "耶尼切里军团（$SHIPS|Y$）占陆军总数比低于$PERC|%|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_JANISSARIES_THAN_PERC:0",
         "original": "More than $PERC|%|Y$ of the army is Janissary Regiments ($SHIPS|Y$)",
         "translation": "耶尼切里军团（$SHIPS|Y$）占陆军总数比超过$PERC|%|Y$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_JANISSARIES_THAN:0",
         "original": "Have less Janissary Regiments than $VALUE|Y$.\\n",
         "translation": "拥有的耶尼切里军团少于$VALUE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_AT_LEAST_JANISSARIES_THAN:0",
         "original": "Have at least $VALUE|Y$ Janissary Regiments.\\n",
         "translation": "拥有的耶尼切里军团达到$VALUE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SUPPLY_DEPOT_IN_PROVINCE:0",
         "original": "Province has a Supply Depot.\\n",
         "translation": "省份拥有补给站。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "SUPPLY_DEPOT_NOT_IN_PROVINCE:0",
         "original": "Province hasn't got a Supply Depot.\\n",
         "translation": "省份没有补给站。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "EFFECT_ADD_LATENT_GOODS:0",
         "original": "$GOODS|Y$ becomes latent goods of $PROVINCE|Y$.",
         "translation": "$GOODS|Y$成为$PROVINCE|Y$的潜在商品。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_LATENT_TRADE_GOODS_SPECIFIC:0",
         "original": "Doesn't have $NAME$ as latent trade goods.",
         "translation": "没有潜在的贸易商品：$NAME$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_LATENT_TRADE_GOODS_SPECIFIC:0",
         "original": "Have $NAME$ as latent trade goods.",
         "translation": "拥有潜在的贸易商品：$NAME$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_LATENT_TRADE_GOODS_ANY:0",
         "original": "Doesn't have any latent trade goods.",
         "translation": "没有任何潜在的贸易商品。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_LATENT_TRADE_GOODS_ANY:0",
         "original": "Has a latent trade goods.",
         "translation": "有一种潜在的贸易商品。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "EFFECT_REMOVE_LATENT_GOODS:0",
         "original": "$GOODS|Y$ is rmoved as latent goods of $PROVINCE|Y$.",
         "translation": "$GOODS|Y$不再是$PROVINCE|Y$的潜在商品。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "EFFECT_REMOVE_ALL_LATENT_GOODS:0",
         "original": "All latent trade goods are removed from $PROVINCE|Y$.",
         "translation": "所有潜在的贸易商品都会从$PROVINCE|Y$移除。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INNOVATIVENESS_IS_LESS_THAN:0",
         "original": "Innovativeness is less than §Y$SIZE$§!.\\n",
         "translation": "创新度低于§Y$SIZE$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INNOVATIVENESS_IS_AT_LEAST:0",
         "original": "Innovativeness is at least §Y$SIZE$§!.\\n",
         "translation": "创新度至少§Y$SIZE$§!。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "CHANGE_INNOVATIVENESS_EFFECT:0",
         "original": "$DIRECTION$ $VALUE$ Innovativeness.\\n",
         "translation": "$DIRECTION$$VALUE$创新度。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADD_RAJPUT_SUB_UNIT_EFFECT:0",
         "original": "Get '§GRajput§!' $UNIT$ in $WHERE|Y$.",
         "translation": "在$WHERE|Y$得到「§G拉杰普特§!」$UNIT$。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NOT_MORE_PRIVATEERS_IN_NODE:0",
         "original": "$WHO|Y$ has less than $VAL$% privateer share in $WHERE|Y$.",
         "translation": "$WHERE|Y$在$WHO|Y$的私掠份额小于$VAL$%。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_SAME_OR_MORE_PRIVATEERS_IN_NODE:0",
         "original": "$WHO|Y$ has $VAL$% or more privateer share in $WHERE|Y$.",
         "translation": "$WHO|Y$在$WHERE|Y$的私掠份额超过$VAL$%。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_COUNTRIES_STARTS:0",
         "original": "All countries (excluding $COUNTRY|Y$)",
         "translation": "所有国家（除了$COUNTRY|Y$）",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ALL_COUNTRIES_INCLUDING_SELF_STARTS:0",
         "original": "All countries",
         "translation": "所有国家",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_RAJPUT_THAN:0",
         "original": "Have less Rajput Regiments than $VALUE|Y$.\\n",
         "translation": "拥有的拉杰普特军团少于$VALUE|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_AT_LEAST_RAJPUT_THAN:0",
         "original": "Have at least $VALUE|Y$ Rajput Regiments.\\n",
         "translation": "拥有至少$VALUE|Y$拉杰普特军团。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "RAISE_WAR_TAXES_EFFECT:0",
         "original": "Raise War Taxes for $DURATION|Y$ years at no £mil cost.\\n",
         "translation": "不花费£mil£，征收$DURATION|Y$年的战争税。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "TAKE_LOAN_EFFECT:0",
         "original": "Take a $DURATION|Y$ month Bank Loan",
         "translation": "贷一笔期限$DURATION|Y$个月的贷款",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "INTEREST_MODIFIER_DESC:0",
         "original": " at a $VAL$ $DIR$ percentage of interest. ",
         "translation": "占收益的百分之$VAL$$DIR$",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "FIXED_INTEREST_DESC:0",
         "original": " The interest on this loan is fixed.",
         "translation": "这笔贷款的利息是固定的。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "LOWER:0",
         "original": "lower",
         "translation": "更低",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HIGHER:0",
         "original": "higher",
         "translation": "更高",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "WITH_GOVERNMENT_TYPE:0",
         "original": "The country they form will have $GOV|Y$ Government.",
         "translation": "他们成立的国家将是$GOV|Y$政体。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "WITH_GOVERNMENT_REFORM:0",
         "original": "",
         "translation": "",
-        "stage": -1
+        "stage": -1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_ADM_POWER_COST_TRIGGER:0",
         "original": "Have less Administrative Power than $AMOUNT|Y$.\\n",
         "translation": "行政点数少于$AMOUNT|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_DIP_POWER_COST_TRIGGER:0",
         "original": "Have less Diplomatic Power than $AMOUNT|Y$.\\n",
         "translation": "外交点数少于$AMOUNT|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_THAN_MIL_POWER_COST_TRIGGER:0",
         "original": "Have less Military Power than $AMOUNT|Y$.\\n",
         "translation": "军事点数少于$AMOUNT|Y$。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_ADM_POWER_COST_TRIGGER:0",
         "original": "Have $AMOUNT|Y$ Administrative Power.\\n",
         "translation": "拥有$AMOUNT|Y$行政点数。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_DIP_POWER_COST_TRIGGER:0",
         "original": "Have $AMOUNT|Y$ Diplomatic Power.\\n",
         "translation": "拥有$AMOUNT|Y$外交点数。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_MORE_THAN_MIL_POWER_COST_TRIGGER:0",
         "original": "Have $AMOUNT|Y$ Military Power than.\\n",
         "translation": "拥有$AMOUNT|Y$军事点数。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_BANNERS_THAN:1",
         "original": "Have less Banners than §Y$VALUE$§!.\\n",
         "translation": "八旗兵数量少于§Y$VALUE$§!支。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_AT_LEAST_BANNERS_THAN:1",
         "original": "Have at least §Y$VALUE$§! Banners.\\n",
         "translation": "八旗兵数量达到§Y$VALUE$§!支。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_STRELTSY_THAN:1",
         "original": "Have less Streltsy than §Y$VALUE$§!.\\n",
         "translation": "射击兵数量少于§Y$VALUE$§!支。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_AT_LEAST_STRELTSY_THAN:1",
         "original": "Have at least §Y$VALUE$§! Streltsy.\\n",
         "translation": "哥萨克骑兵数量达到§Y$VALUE$§!支。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_LESS_COSSACKS_THAN:1",
         "original": "Have less Cossacks than §Y$VALUE$§!.\\n",
         "translation": "哥萨克骑兵数量少于§Y$VALUE$§!支。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAVE_AT_LEAST_COSSACKS_THAN:1",
         "original": "Have at least §Y$VALUE$§! Cossacks.\\n",
         "translation": "哥萨克骑兵数量达到§Y$VALUE$§!支。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_SAME_OR_MORE_TRADE_POWER:1",
         "original": "$WHO|Y$ has §Y$VAL$%§W or more trade power.",
         "translation": "$WHO|Y$的贸易竞争力达到§Y$VAL$%§W 。",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "ADM_POWER_COST_EFFECT:1",
         "original": "Lose $AMOUNT|R$ Administrative Power.\\n",
         "translation": "失去$AMOUNT|R$行政点数。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "DIP_POWER_COST_EFFECT:1",
         "original": "Lose $AMOUNT|R$ Diplomatic Power.\\n",
         "translation": "失去$AMOUNT|R$外交点数。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "MIL_POWER_COST_EFFECT:1",
         "original": "Lose $AMOUNT|R$ Military Power.\\n",
         "translation": "失去$AMOUNT|R$军事点数。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_HOSTILE_TROOPS:0",
         "original": "Has hostile troops.\\n",
         "translation": "有敌对的军队。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "HAS_NO_HOSTILE_TROOPS:0",
         "original": "Has no hostile troops.\\n",
         "translation": "没有敌对的军队。\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     },
     {
         "key": "OWNS_ALL_PROVINCES:0",
         "original": "Owns all provinces:\\n",
         "translation": "拥有全部省份：\\n",
-        "stage": 1
+        "stage": 1,
+        "file": "localisation/triggers_and_effects_l_english.yml"
     }
 ]
