@@ -32,56 +32,15 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Seumas #0" = 10
-  "Raibeart #0" = 10
-  "Alasdair #3" = 10
-  "Artair #0" = 10
-  "Bhaltair #0" = 10
-  "Iain #0" = 10
   "Tearlach #0" = 5
-  "Calum #0" = 10
-  "Domhnall #0" = 10
   "Daidh #0" = 1
-  "Donnchadh #0" = 1
-  "Coinneach #0" = 5
   "Connal #0" = 10
-  "Dughlas #0" = 10
-  "Mairi #0" = -5
-  "Beitiris #0" = -1
-  "Diorbhail #0" = -1
   "Absolon #0" = 0
-  "Ailpein #0" = 0
-  "Cormac #0" = 0
-  "Cresdean #0" = 0
-  "Eideard #0" = 0
-  "Faolan #0" = 0
   "Feaghas #0" = 0
-  "Frangan #0" = 0
   "Greum #0" = 0
-  "Hamish #0" = 0
   "Ianatan #0" = 0
-  "Iosag #0" = 0
-  "Iosaph #0" = 0
-  "Iona #0" = 0
-  "Labhrainn #0" = 0
-  "Lucais #0" = 0
-  "Luthais #0" = 0
-  "Marcus #0" = 0
-  "Martain #0" = 0
-  "Mascual #0" = 0
-  "Mata #0" = 0
-  "Mecheil #0" = 0
-  "Morgan #0" = 0
-  "Mungan #0" = 0
-  "Murchadh #0" = 0
-  "Neacal #0" = 0
-  "Niall #0" = 0
-  "Oilbhreis #0" = 0
-  "Oisean #0" = 0
   "Padruig #0" = 0
   "Parlan #0" = 0
-  "Peadar #0" = 0
-  "Pol #0" = 0
   "Raghnall #0" = 0
   "Ruiseart #0" = 0
   "Samuel #0" = 0
@@ -92,6 +51,47 @@ monarch_names = {
   "Torcall #0" = 0
   "Tormod #0" = 0
   "Uilleam #0" = 0
+  "珀尔 #0" = 0  # Pol #0
+  "帕达尔 #0" = 0  # Peadar #0
+  "欧西安 #0" = 0  # Oisean #0
+  "奥利弗 #0" = 0  # Oilbhreis #0
+  "尼尔 #0" = 0  # Niall #0
+  "尼科尔 #0" = 0  # Neacal #0
+  "穆尔查 #0" = 0  # Murchadh #0
+  "芒艮 #0" = 0  # Mungan #0
+  "摩根 #0" = 0  # Morgan #0
+  "梅切尔 #0" = 0  # Mecheil #0
+  "玛塔 #0" = 0  # Mata #0
+  "马斯古尔 #0" = 0  # Mascual #0
+  "马塔因 #0" = 0  # Martain #0
+  "马库斯 #0" = 0  # Marcus #0
+  "卢塞斯 #0" = 0  # Luthais #0
+  "卢卡斯 #0" = 0  # Lucais #0
+  "拉布莱恩 #0" = 0  # Labhrainn #0
+  "约纳 #0" = 0  # Iona #0
+  "伊欧萨弗 #0" = 0  # Iosaph #0
+  "伊欧萨格 #0" = 0  # Iosag #0
+  "哈米什 #0" = 0  # Hamish #0
+  "弗朗甘 #0" = 0  # Frangan #0
+  "弗兰 #0" = 0  # Faolan #0
+  "爱德华 #0" = 0  # Eideard #0
+  "克莱斯蒂安 #0" = 0  # Cresdean #0
+  "科尔马克 #0" = 0  # Cormac #0
+  "阿尔平 #0" = 0  # Ailpein #0
+  "蒂尔蓓儿 #0" = -1  # Diorbhail #0
+  "柏翠丝 #0" = -1  # Beitiris #0
+  "梅丽 #0" = -5  # Mairi #0
+  "道格拉斯 #0" = 10  # Dughlas #0
+  "肯尼思 #0" = 5  # Coinneach #0
+  "唐纳赫 #0" = 1  # Donnchadh #0
+  "多姆纳尔 #0" = 10  # Domhnall #0
+  "伽卢姆 #0" = 10  # Calum #0
+  "伊恩 #0" = 10  # Iain #0
+  "巴泰尔 #0" = 10  # Bhaltair #0
+  "阿泰尔 #0" = 10  # Artair #0
+  "亚历山大 #3" = 10  # Alasdair #3
+  "罗伯特 #0" = 10  # Raibeart #0
+  "詹姆斯 #0" = 10  # Seumas #0
 }
 leader_names = {
   "Arascain"
@@ -132,51 +132,51 @@ leader_names = {
   "Fearghasdan"
   "Galbraith"
   "Greumach"
-  "Grannd"
-  "Guinne"
+  "格兰德"  # Grannd
+  "冈恩"  # Guinne
   "Gutraidh"
   "Geadais"
   "Gilios"
-  "Glas"
+  "格拉斯"  # Glas
   "Gobha"
-  "Guaire"
+  "高格雷"  # Guaire
   "Giobsan"
-  "Haig"
+  "黑格"  # Haig
   "Kincaid"
   "Kinloch"
   "Kinnaird"
   "Kinnear"
   "Kinninmont"
-  "Lamont"
+  "拉蒙特"  # Lamont
   "Loganach"
   "Liobhunn"
   "Labhruinn"
   "Loganach"
   "Lathurna"
   "Lutair"
-  "MacLeoid"
+  "麦克利欧德"  # MacLeoid
   "MacCruimein"
   "MacRaild"
   "MacCailein"
-  "Mair"
-  "Muir"
+  "麦尔"  # Mair
+  "缪尔"  # Muir
   "MacGriogair"
   "Mhuirich"
-  "de Moravia"
-  "MacDhonnachaidh"
-  "Marr"
+  "德 摩拉维亚"  # de Moravia
+  "麦克多纳查"  # MacDhonnachaidh
+  "玛尔"  # Marr
   "MacFhearghuis"
   "MacEanruig"
   "MacAlasdair"
   "MacBeathain"
-  "MacDhomhnaill"
+  "马赫康伊尔"  # MacDhomhnaill
   "MacDhughaill"
   "MacDubhghaill"
   "MacEoghainn"
-  "Munro"
-  "MacPharlain"
+  "暮若"  # Munro
+  "麦克法兰"  # MacPharlain
   "MacAonghais"
-  "MacIntyre"
+  "麦金泰尔"  # MacIntyre
   "MacEomhair"
   "MacAoidh"
   "MacCoinnich"
