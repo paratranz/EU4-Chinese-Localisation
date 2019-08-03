@@ -395,7 +395,7 @@
         "key": "HARMONIZE_DESC:0",
         "original": "Provinces with Harmonized Religions are tolerated as if they were §Y$NAME$§!.\\nCountries following any of your Harmonized Religions will view you as though you were following that religion.",
         "translation": "信奉已融合宗教的省份会受到和信奉§Y$NAME$§!一样的容忍。\\n信奉你的已融合宗教的国家会视你为相同信仰。",
-        "stage": 1,
+        "stage": 5,
         "file": "localisation/mandate_of_heaven_l_english.yml"
     },
     {
@@ -458,14 +458,14 @@
         "key": "tributary_smuggling_ring_subject:0",
         "original": "Smuggling Ring",
         "translation": "走私圈",
-        "stage": 1,
+        "stage": 5,
         "file": "localisation/mandate_of_heaven_l_english.yml"
     },
     {
         "key": "desc_tributary_smuggling_ring_subject:0",
         "original": "The products of our artisans are so sought after that a small network has been formed to supply the buyers in our overlord country with them. This is not strictly legal and much of the profit is undoubtedly siphoned off by various corrupt officials on the way, but it's still a major boon to the economy of our country.",
-        "translation": "我国的手工艺品是炙手可热，一个专门供应我们宗主国的小网络已经形成。严格来说这并不太合法，因而利润的很大一部分都毫无疑问地被不同级别的腐败官员榨取了，但这仍然是我国经济的一次大繁荣。",
-        "stage": 1,
+        "translation": "我国的手工艺品炙手可热，一个专门供应我们宗主国的小网络已经形成。严格来说这并不太合法，不同级别的腐败官员无疑从中榨取了很大一部分利益，但这仍然是我国经济的一大利润所在。",
+        "stage": 5,
         "file": "localisation/mandate_of_heaven_l_english.yml"
     },
     {
@@ -940,7 +940,7 @@
     {
         "key": "tributary_events.10.d:0",
         "original": "A tributary mission is more than a journey to pay respect to the [Root.GetTributaryOverlord], it is also an opportunity for trade with the [Root.GovernmentName] of [Root.GetName]. Seeking to capitalize on this it seems competing noble houses in [ningbo_country.GetName] have taken to the habit of sending their own tributary missions to us, claiming to represent the [ningbo_country.Monarch.GetTitle] in order to gain advantages for themselves in the internal politics of [ningbo_country.GetName].\\nThis time, however, two such missions arrived at the same time in [ningbo_province.GetName], which made their conflicts from home erupt into bloodshed.",
-        "translation": "一次朝贡任务不仅是一次向[Root.GetTributaryOverlord]表达敬意之旅，也是一次与[Root.GetName]的[Root.GovernmentName]政府贸易的机会。为了从中获益，在[ningbo_country.GetName]的贵族家族习惯上总会派出他们自己的朝贡使，宣称其代表他们的[ningbo_country.Monarch.GetTitle]，以便在[ningbo_country.GetName]的国内政局中获得优势地位。\\n然而这次，两支以此为目的的朝贡使团同时出现在 [ningbo_province.GetName]，导致他们的家族冲突激化为流血冲突。",
+        "translation": "一次朝贡任务不仅是一次向[Root.GetTributaryOverlord]表达敬意之旅，也是一次与[Root.GetName]的[Root.GovernmentName]政府贸易的机会。为了从中获益，在[ningbo_country.GetName]的贵族家族习惯上总会派出他们自己的朝贡使，宣称其代表他们的[ningbo_country.Monarch.GetTitle]，以便在[ningbo_country.GetName]的国内政局中获得优势地位。\\n然而这次，两支以此为目的的朝贡使团同时出现在[ningbo_province.GetName]，导致他们的家族冲突激化为流血冲突。",
         "stage": 5,
         "file": "localisation/mandate_of_heaven_l_english.yml"
     },
