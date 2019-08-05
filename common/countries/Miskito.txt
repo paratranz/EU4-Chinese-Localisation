@@ -51,24 +51,24 @@ leader_names = {
   "佐兹"  # Zotz
 }
 monarch_names = {
-  "Cotuja #0" = 0
-  "Gucamatz #0" = 0
-  "Hnuyg #0" = 0
-  "Kan Bahlun Mo #0" = 0
-  "Kayom #0" = 0
-  "Kukumatz #0" = 0
-  "Mochcouoh #0" = 0
-  "Nohochacyum #0" = 0
-  "Oxib Queh #0" = 0
-  "Tecunuman #0" = 0
-  "Tutul Xiu #0" = 0
-  "Tziquin #0" = 0
-  "Vataki #0" = 0
-  "Yumcaaz #0" = 0
-  "Zotz #0" = 0
-  "Sacnite #0" = -1
-  "Namox Chel #0" = -1
-  "Itzel  #0" = -1
+  "伊策尔 #0" = -1  # Itzel  #0
+  "纳莫克斯 切尔 #0" = -1  # Namox Chel #0
+  "撒克尼特 #0" = -1  # Sacnite #0
+  "佐兹 #0" = 0  # Zotz #0
+  "尤姆卡兹 #0" = 0  # Yumcaaz #0
+  "瓦塔基 #0" = 0  # Vataki #0
+  "基奎恩 #0" = 0  # Tziquin #0
+  "图图尔 休 #0" = 0  # Tutul Xiu #0
+  "特库努曼 #0" = 0  # Tecunuman #0
+  "奥克西布 奎 #0" = 0  # Oxib Queh #0
+  "诺霍查克约姆 #0" = 0  # Nohochacyum #0
+  "莫奇库奥 #0" = 0  # Mochcouoh #0
+  "库库玛兹 #0" = 0  # Kukumatz #0
+  "卡约姆 #0" = 0  # Kayom #0
+  "坎 巴伦 莫 #0" = 0  # Kan Bahlun Mo #0
+  "赫努伊格 #0" = 0  # Hnuyg #0
+  "古卡玛兹 #0" = 0  # Gucamatz #0
+  "科图哈 #0" = 0  # Cotuja #0
   "科纳切 #0" = 0  # Conache #0
   "科科哈 #0" = 0  # Cocoja #0
   "科卡伊布 #0" = 0  # Cocaib #0
@@ -79,8 +79,8 @@ monarch_names = {
   "阿莫克 #0" = 0  # Ahmok #0
   "阿金索克 #0" = 0  # Ahkinxok #0
   "阿 坎 #0" = 0  # Ah Can #0
-  "雅克斯 帕克 #1" = 10  # Yax Pac #1
-  "雅克斯 库克 默克 #1" = 10  # Yax Kuk Mok #1
+  "亚克斯 帕克 #1" = 10  # Yax Pac #1
+  "亚克斯 库克 默克 #1" = 10  # Yax Kuk Mok #1
   "坎 博阿尔 #1" = 10  # Kan Boar #1
   "查安 穆安 #1" = 10  # Chaan Muan #1
   "布兹 钱 #1" = 10  # Butz Chan #1
@@ -96,113 +96,113 @@ monarch_names = {
   "坎 艾克 #0" = 60  # Can Ek #0
 }
 ship_names = {
-  "Aké"
-  "Ah Puch"
-  "Altun Ha"
-  "Bonampak"
-  "Becan"
-  "Bolonchen"
-  "Chaac"
-  "Camazotz"
-  "Cancuén"
-  "Caracol"
-  "Cerros"
-  "Chacchoben"
-  "Chacmultun"
-  "Chinikiha"
-  "Chinkultic"
-  "Chunchucmil"
-  "Civiltuk"
-  "Calakmul"
-  "Copan"
-  "Coba"
-  "Chichen Itza"
-  "Dzibilchaltun"
-  "Dzibilnocac"
-  "Dzilam"
-  "Dos Pilas"
-  "Cahal Pech"
-  "Edzná"
-  "Ekab"
-  "Ek'Balam"
-  "Gumarcaj"
-  "Gucumatz"
-  "Hocchob"
-  "Hormiguero"
-  "Hunahpu"
-  "Huracan"
-  "Ixbalanque"
-  "Ixchel"
-  "Ixtab"
-  "Ichmac"
-  "Ichmul"
-  "Itzan"
-  "Ixil"
-  "Iximche"
-  "Ixlu"
-  "Izamal"
-  "Ix Chel"
-  "Labná"
-  "Louisville"
-  "Lubaantun"
-  "Lubaantun"
-  "Jaina"
-  "Jolja"
-  "Joya de Cerén"
-  "Kaminaljuyu"
-  "Kabah"
-  "Kiuic"
-  "Kantunil Kin"
-  "Lamanai"
-  "Mayapan"
-  "Machaquila"
-  "Mani"
-  "Muluchtzekel"
-  "Muyil"
-  "Nakum"
-  "Nakbe"
-  "Naranjo"
-  "Nebaj"
-  "Nim Li Punit"
-  "Okop"
-  "Oxcutzcab"
-  "Oxkintok"
-  "Palenque"
-  "Pomoná"
-  "Pusilha"
-  "Piedras Negras"
-  "Quirigua"
-  "Rio Azul"
-  "Rio Bec"
-  "Sayil"
-  "Seibal"
-  "Sisila"
-  "Tonina"
-  "Tikal"
-  "Tulum"
-  "Tancah"
-  "Tazumal"
-  "Tecoh"
-  "Topoxté"
-  "Uxmal"
-  "Uaxactun"
-  "Ucanal"
-  "Uci"
-  "Utatlan"
-  "Waká"
-  "Xcalumkin"
-  "Xcaret"
-  "Xcorralche"
-  "Xcucsuc"
-  "Xculoc"
-  "Xlapak"
-  "Xpuhil"
-  "Xultun"
-  "Xunantunich"
-  "Yaklmai"
-  "Yaxchilan"
-  "Yaxha"
-  "Yo'okop"
-  "Zipacna"
-  "Zaculeu"
+  "阿克"  # Aké
+  "阿 普奇"  # Ah Puch
+  "阿尔通 哈"  # Altun Ha
+  "波南帕克"  # Bonampak
+  "贝坎"  # Becan
+  "博隆琴"  # Bolonchen
+  "查科"  # Chaac
+  "卡玛佐兹"  # Camazotz
+  "坎昆"  # Cancuén
+  "卡拉科尔"  # Caracol
+  "塞罗斯"  # Cerros
+  "察措本"  # Chacchoben
+  "查科摩尔通"  # Chacmultun
+  "奇尼基哈"  # Chinikiha
+  "钦库尔提克"  # Chinkultic
+  "琼丘克米尔"  # Chunchucmil
+  "西维尔图克"  # Civiltuk
+  "卡拉克穆尔"  # Calakmul
+  "科潘"  # Copan
+  "科巴"  # Coba
+  "奇琴伊察"  # Chichen Itza
+  "季比尔查尔通"  # Dzibilchaltun
+  "季比尔诺卡克"  # Dzibilnocac
+  "季拉姆"  # Dzilam
+  "多斯 皮拉斯"  # Dos Pilas
+  "卡哈尔 帕奇"  # Cahal Pech
+  "埃兹纳"  # Edzná
+  "埃卡布"  # Ekab
+  "埃克巴拉姆"  # Ek'Balam
+  "古马尔卡赫"  # Gumarcaj
+  "古库玛兹"  # Gucumatz
+  "霍克乔布"  # Hocchob
+  "赫尔密盖罗"  # Hormiguero
+  "胡纳普"  # Hunahpu
+  "胡拉坎"  # Huracan
+  "伊斯巴兰克"  # Ixbalanque
+  "伊斯切尔"  # Ixchel
+  "伊斯塔布"  # Ixtab
+  "伊奇马克"  # Ichmac
+  "伊奇姆尔"  # Ichmul
+  "伊察"  # Itzan
+  "伊克西尔"  # Ixil
+  "伊克西姆契"  # Iximche
+  "伊希卢"  # Ixlu
+  "伊扎玛尔"  # Izamal
+  "伊斯 切尔"  # Ix Chel
+  "拉布纳"  # Labná
+  "路易维尔"  # Louisville
+  "卢班通"  # Lubaantun
+  "卢班通"  # Lubaantun
+  "哈伊纳"  # Jaina
+  "霍尔哈"  # Jolja
+  "霍亚德赛伦"  # Joya de Cerén
+  "卡米纳尔胡尤"  # Kaminaljuyu
+  "卡巴"  # Kabah
+  "基维克"  # Kiuic
+  "坎图尼尔 金"  # Kantunil Kin
+  "拉玛奈"  # Lamanai
+  "玛雅潘"  # Mayapan
+  "玛查奎拉"  # Machaquila
+  "玛尼"  # Mani
+  "穆卢奇策克尔"  # Muluchtzekel
+  "穆伊尔"  # Muyil
+  "纳库姆"  # Nakum
+  "纳克贝"  # Nakbe
+  "纳兰霍"  # Naranjo
+  "内巴赫"  # Nebaj
+  "尼姆 利 普尼特"  # Nim Li Punit
+  "欧科普"  # Okop
+  "奥斯库兹卡布"  # Oxcutzcab
+  "奥斯金托克"  # Oxkintok
+  "帕伦克"  # Palenque
+  "波莫纳"  # Pomoná
+  "普西利亚"  # Pusilha
+  "彼德拉斯 内格拉斯"  # Piedras Negras
+  "基里古阿"  # Quirigua
+  "里奥阿祖尔"  # Rio Azul
+  "里奥贝克"  # Rio Bec
+  "萨伊尔"  # Sayil
+  "塞伊巴尔"  # Seibal
+  "西西拉"  # Sisila
+  "托尼纳"  # Tonina
+  "蒂卡尔"  # Tikal
+  "图卢姆"  # Tulum
+  "坦卡"  # Tancah
+  "塔苏玛尔"  # Tazumal
+  "泰科"  # Tecoh
+  "托波斯特"  # Topoxté
+  "乌斯马尔"  # Uxmal
+  "瓦克萨克通"  # Uaxactun
+  "乌卡纳尔"  # Ucanal
+  "乌西"  # Uci
+  "乌塔特兰"  # Utatlan
+  "瓦卡"  # Waká
+  "斯卡卢姆金"  # Xcalumkin
+  "斯卡雷特"  # Xcaret
+  "斯科拉尔切"  # Xcorralche
+  "斯库克苏克"  # Xcucsuc
+  "斯库罗克"  # Xculoc
+  "斯拉帕克"  # Xlapak
+  "斯普希尔"  # Xpuhil
+  "克苏尔通"  # Xultun
+  "克苏南图尼奇"  # Xunantunich
+  "亚克尔迈"  # Yaklmai
+  "亚斯奇兰"  # Yaxchilan
+  "亚克萨"  # Yaxha
+  "约奥科普"  # Yo'okop
+  "西帕克纳"  # Zipacna
+  "萨库勒乌"  # Zaculeu
 }
