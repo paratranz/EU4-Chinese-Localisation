@@ -24782,21 +24782,21 @@
     {
         "key": "NAVAL_UPGRADE_CANNOT_AFFORD:0",
         "original": "Cannot afford to upgrade all ships in the fleet. Need §Y$COST$§!¤ to upgrade §Y$AMOUNT$§! ships!",
-        "translation": "升级舰队中所有船只会费用不足. 需要花费§Y$COST$§!¤ 升级 §Y$AMOUNT$§!船只!",
+        "translation": "升级舰队中所有船只会费用不足。升级 §Y$AMOUNT$§! 船只需要花费 §Y$COST$§!¤！",
         "stage": 1,
         "file": "localisation/EU4_l_english.yml"
     },
     {
         "key": "NAVAL_UPGRADE_SUCCESS:1",
         "original": "The upgrade will cost a total of §Y$COST$§!¤ and §Y$AMOUNT$§! ships will get upgraded.\\nUpgraded ships will be reduced to 1% strength and their sailors returned to your sailor pool.",
-        "translation": "升级将共花费 §Y$COST$§!¤ ， §Y$AMOUNT$§! 艘船将会升级。",
+        "translation": "将花费 §Y$COST$§!¤ 升级 §Y$AMOUNT$§! 艘船。\\n升级后船舶将减少至 1% 耐久，水手将返回水手池。",
         "stage": 1,
         "file": "localisation/EU4_l_english.yml"
     },
     {
         "key": "NAVAL_UPGRADE_NOT_IN_PORT:1",
         "original": "§RTo upgrade the fleet it needs to be in a port owned by you or one of your subjects.§!",
-        "translation": "舰队只能在你的港口中升级。",
+        "translation": "§R舰队只能在你或属国的港口中升级。§!",
         "stage": 1,
         "file": "localisation/EU4_l_english.yml"
     },
