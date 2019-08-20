@@ -28,33 +28,30 @@ historical_units = {
   persian_rifle
 }
 monarch_names = {
-  "Mawlana Rukn #0" = 10
-  "Majd #0" = 10
-  "Mihtar #0" = 10
-  "Ja'far #0" = 10
-  "Loft Ali #0" = 10
-  "Aga Muhammad #0" = 10
-  "Fath Alî #0" = 10
-  "Najm-e #0" = 0
-  "Ahmad #0" = 0
-  "Hatem #0" = 0
-  "Shahqoli #0" = 0
-  "Rajab Ali #0" = 0
-  "Amanollah #0" = 0
-  "Ebrahim #0" = 0
-  "Allahyar #0" = 0
-  "Abdol #0" = 0
-  "Hamid #0" = 0
-  "Atiya #0" = -1
-  "Pari #0" = -1
-  "Khayr al-Nisa #0" = -1
-  "Tajlu #0" = -1
-  "Dilaram #0" = -1
-  "Shahbanu #0" = -1
-  "Razia #0" = -1
   "玛里亚姆 #0" = -1  # Maryam #0
+  "拉齐娅 #0" = -1  # Razia #0
+  "沙赫巴努 #0" = -1  # Shahbanu #0
+  "迪拉拉姆 #0" = -1  # Dilaram #0
+  "塔支露 #0" = -1  # Tajlu #0
+  "海尔 妮萨 #0" = -1  # Khayr al-Nisa #0
+  "帕里 #0" = -1  # Pari #0
+  "阿提雅 #0" = -1  # Atiya #0
+  "哈米德 #0" = 0  # Hamid #0
+  "阿卜杜尔 #0" = 0  # Abdol #0
+  "阿拉海尔 #0" = 0  # Allahyar #0
   "阿里 #0" = 0  # Ali #0
+  "易卜拉欣 #0" = 10  # Ebrâhim #0
+  "阿曼诺拉赫 #0" = 0  # Amanollah #0
   "法拉扎拉 #0" = 0  # Farajollah #0
+  "拉杰卜 阿里 #0" = 0  # Rajab Ali #0
+  "沙哈库利 #0" = 0  # Shahqoli #0
+  "哈特姆 #0" = 0  # Hatem #0
+  "艾哈迈德 #0" = 0  # Ahmad #0
+  "纳吉姆 #0" = 0  # Najm-e #0
+  "法特赫 阿里 #0" = 10  # Fath Alî #0
+  "阿迦 穆罕穆德 #0" = 10  # Aga Muhammad #0
+  "洛夫特 阿里 #0" = 10  # Loft Ali #0
+  "贾法尔 #0" = 10  # Ja'far #0
   "阿里 莫拉德 #0" = 10  # 'Ali Morâd #0
   "默罕默德 萨德赫 #0" = 10  # Mohammad Sâdiq #0
   "默罕默德 阿里 #0" = 10  # Mohammad Ali #0
@@ -62,98 +59,100 @@ monarch_names = {
   "卡里姆 #0 汗" = 10  # Karim #0 Khân
   "纳迪尔 米尔扎 #0" = 10  # Nâder Mirza #0
   "沙哈鲁 #0" = 10  # Shâh Rukh #0
-  "易卜拉欣 #0" = 10  # Ebrâhim #0
   "阿德勒 #0 沙阿" = 10  # 'Âdel #0 Shâh
   "纳德尔 #0 沙阿" = 10  # Nâder #0 Shâh
   "胡赛因 #0" = 10  # Hosayn #0
   "优素福 #0" = 10  # Yusuf #0
+  "米赫塔尔 #0" = 10  # Mihtar #0
   "图尔木什 #0" = 10  # Turmush #0
   "库特布丁 贾马尔 #0" = 10  # Qutb al-Din Jamal #0
   "扎因 #0" = 10  # Zayn #0
   "易司玛仪 #0" = 10  # Ismâ'îl #0
+  "马吉德 #0" = 10  # Majd #0
   "纳西尔 #0" = 10  # Nasir #0
   "伊马德 #0" = 10  # Imad #0
+  "毛拉纳 鲁克 #0" = 10  # Mawlana Rukn #0
   "贾拉丁 #0" = 10  # Jalal al-din #0
   "哈姆扎 #0" = 10  # Hamza #0
   "雅各布 #0" = 10  # Yaqub #0
   "沙拉夫 #0" = 10  # Sharaf #0
 }
 leader_names = {
-  "Abiwardi"
-  "Halabi"
-  "Farrash"
-  "Murshid"
-  "Bawardi"
-  "Qadi"
-  "Simnani"
-  "Banu"
-  "Tamim"
-  "Khidrshah"
-  "Chuhra"
-  "Sabiri"
-  "Jalili"
-  "Azizi"
-  "Shahy"
-  "Daei"
-  "Qazai"
-  "Dalwand"
-  "Ahrari"
-  "Fatemi"
-  "Sabet"
-  "Ansari"
+  "阿庇瓦迪"  # Abiwardi
+  "哈拉比"  # Halabi
+  "法拉什"  # Farrash
+  "穆尔希德"  # Murshid
+  "巴瓦迪"  # Bawardi
+  "卡迪"  # Qadi
+  "希姆纳尼"  # Simnani
+  "巴努"  # Banu
+  "塔米姆"  # Tamim
+  "基德沙赫"  # Khidrshah
+  "丘赫拉"  # Chuhra
+  "萨比利"  # Sabiri
+  "贾利利"  # Jalili
+  "阿齐兹"  # Azizi
+  "沙希"  # Shahy
+  "代伊"  # Daei
+  "卡斋"  # Qazai
+  "达尔万德"  # Dalwand
+  "阿拉里"  # Ahrari
+  "法蒂米"  # Fatemi
+  "萨比特"  # Sabet
+  "安萨里"  # Ansari
 }
 ship_names = {
-  "Abathur"
-  "Adamn Kasia"
-  "Aesma Daeva"
-  "Agas"
-  "Ahriman"
-  "Ahura"
-  "Ahura Mazda"
-  "Ahurani"
-  "Airyaman"
-  "Aka Manah"
-  "Aladdin"
-  "Allatum"
-  "Amashaspan"
-  "Ameratat"
-  "Amesha Spentas"
-  "Anahita"
-  "Angra Mainyu"
-  "Anjuman"
-  "Apam-natat"
-  "Apaosa"
-  "Aredvi"
-  "Arishtat"
-  "Armaiti"
-  "Arsaces"
-  "Asha vahista"
-  "Asman"
-  "Asto Vidatu"
-  "Astvat-Ereta"
-  "Atar"
-  "Azi Dahaka"
-  "Baga"
-  "Bahram"
-  "Burijas"
-  "Bushyasta"
-  "Buyasta"
-  "Camros"
-  "Daena"
-  "Daevas"
-  "Ahaka"
-  "Dahhak"
-  "Dena"
-  "Dev"
-  "Diwe"
-  "Drug"
-  "Drvaspa"
-  "Frashegird"
-  "Fravashis"
-  "Gandarewa"
-  "Gao-kerena"
-  "Gayomard"
-  "Gayomart"
+  "阿巴图尔"  # Abathur
+  "亚当 卡西亚"  # Adamn Kasia
+  "艾斯玛 代伐"  # Aesma Daeva
+  "阿加斯"  # Agas
+  "阿赫里曼"  # Ahriman
+  "阿胡拉"  # Ahura
+  "阿胡拉 马兹达"  # Ahura Mazda
+  "阿胡拉尼"  # Ahurani
+  "雅利安曼"  # Airyaman
+  "阿卡 摩那"  # Aka Manah
+  "阿拉丁"  # Aladdin
+  "阿拉图姆"  # Allatum
+  "阿马沙斯潘"  # Amashaspan
+  "不死"  # Ameratat
+  "六大天使"  # Amesha Spentas
+  "安娜希塔"  # Anahita
+  "安哥拉 曼纽"  # Angra Mainyu
+  "祆教长老会"  # Anjuman
+  "阿帕姆-纳塔特"  # Apam-natat
+  "阿帕奥萨"  # Apaosa
+  "阿雷德维"  # Aredvi
+  "阿里什塔特"  # Arishtat
+  "阿尔麦蒂"  # Armaiti
+  "阿尔沙克"  # Arsaces
+  "阿沙 瓦西塔"  # Asha vahista
+  "阿斯曼"  # Asman
+  "阿斯托 维达图"  # Asto Vidatu
+  "阿斯特瓦特-埃雷塔"  # Astvat-Ereta
+  "圣火"  # Atar
+  "阿齐 达哈卡"  # Azi Dahaka
+  "巴加"  # Baga
+  "巴赫拉姆"  # Bahram
+  "布里伽斯"  # Burijas
+  "布什雅斯塔"  # Bushyasta
+  "布雅斯塔"  # Buyasta
+  "卡姆罗斯"  # Camros
+  "达埃纳"  # Daena
+  "魔鬼"  # Daevas
+  "阿哈卡"  # Ahaka
+  "达赫哈克"  # Dahhak
+  "蒂娜"  # Dena
+  "提婆"  # Dev
+  "迪维"  # Diwe
+  "邪恶"  # Drug
+  "德瓦斯帕"  # Drvaspa
+  "辉煌的创造"  # Frashegird
+  "弗拉瓦希斯"  # Fravashis
+  "刚德瑞瓦"  # Gandarewa
+  "加奥-肯瑞纳"  # Gao-kerena
+  "加约玛德"  # Gayomard
+  "加约玛特"  # Gayomart
   "Geus-Tasan"
   "Geus-Urvan"
   "Haoma"
