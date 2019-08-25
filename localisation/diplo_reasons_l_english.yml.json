@@ -737,8 +737,8 @@
     {
         "key": "DIPLO_WANTS_OTHER_OFFER:0",
         "original": "$WHO$ requires '$NAME$' to be part of the offer: ",
-        "translation": "$WHO$要求'$NAME$'作为提议中的一部分：",
-        "stage": 5,
+        "translation": "$WHO$要求提议中包含「$NAME$」：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
