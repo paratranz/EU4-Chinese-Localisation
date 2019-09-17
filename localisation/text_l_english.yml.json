@@ -1682,7 +1682,7 @@
     {
         "key": "east_asian:0",
         "original": "Chinese",
-        "translation": "华夏",
+        "translation": "中华",
         "stage": 1,
         "file": "localisation/text_l_english.yml"
     },
@@ -2100,10 +2100,10 @@
         "file": "localisation/text_l_english.yml"
     },
     {
-        "key": "manchu:0",
-        "original": "Manchu",
+        "key": "manchu:1",
+        "original": "Jurchen",
         "translation": "满洲",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/text_l_english.yml"
     },
     {
@@ -52647,10 +52647,10 @@
         "file": "localisation/text_l_english.yml"
     },
     {
-        "key": "IMPERIAL_MANDATE_LOSS_DESC:0",
-        "original": "Lost by:\\n -Devastated provinces.\\n -Neighboring Countries that are not Tributaries.",
+        "key": "IMPERIAL_MANDATE_LOSS_DESC:1",
+        "original": "Lost by:\\n -Devastated provinces.\\n -Corruption of the State.",
         "translation": "失去天命的原因：\\n－荒芜的省份。\\n－邻国不是朝贡国。",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/text_l_english.yml"
     },
     {
@@ -53354,10 +53354,10 @@
         "file": "localisation/text_l_english.yml"
     },
     {
-        "key": "BANNER_REGIMENT:0",
-        "original": "Banner Regiment\\nDiscipline Bonus: $DISC$",
+        "key": "BANNER_REGIMENT:2",
+        "original": "Banner Regiment\\nDiscipline Bonus: $DISC|+%$\\nManpower Usage: $MANPOWER|Y%$\\nReinforce Speed: $REINFORCE|+%$\\nMaintenance Cost: $MAINTENANCE|+%$",
         "translation": "八旗兵团\\n训练度加成：$DISC$",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/text_l_english.yml"
     },
     {
@@ -54838,17 +54838,17 @@
         "file": "localisation/text_l_english.yml"
     },
     {
-        "key": "IS_PLAYING_CUSTOM_NATION:0",
-        "original": "Is playing a Custom Nation",
+        "key": "IS_PLAYING_CUSTOM_NATION:1",
+        "original": "Is playing a Custom Nation\\n",
         "translation": "扮演自定义国家进行游戏",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/text_l_english.yml"
     },
     {
-        "key": "IS_NOT_PLAYING_CUSTOM_NATION:0",
-        "original": "Is NOT playing a Custom Nation",
+        "key": "IS_NOT_PLAYING_CUSTOM_NATION:1",
+        "original": "Is NOT playing a Custom Nation\\n",
         "translation": "没有扮演自定义国家进行游戏",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/text_l_english.yml"
     },
     {
@@ -56536,6 +56536,20 @@
         "original": "§RWe cannot offer peace while there is a pending enforce peace offer§!",
         "translation": "§R当仍有待执行的和平提议时，我们不能提议和平§!",
         "stage": 1,
+        "file": "localisation/text_l_english.yml"
+    },
+    {
+        "key": "ANY_ALL_PROVINCE:0",
+        "original": "Province",
+        "translation": "",
+        "stage": 0,
+        "file": "localisation/text_l_english.yml"
+    },
+    {
+        "key": "MANDATE_FROM_5_LOANS:0",
+        "original": "At least $LOANS|Y$ loans: ",
+        "translation": "",
+        "stage": 0,
         "file": "localisation/text_l_english.yml"
     }
 ]
