@@ -23534,16 +23534,16 @@
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
-        "key": "flavor_kor.EVTNAME1:0",
-        "original": "Hyo-jong's Northern Expedition",
-        "translation": "孝宗的北伐",
+        "key": "flavor_kor.EVTNAME1:1",
+        "original": "[Root.Monarch.GetName]'s Northern Expedition",
+        "translation": "[Root.Monarch.GetName]的北伐",
         "stage": 1,
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
-        "key": "flavor_kor.EVTDESC1:0",
-        "original": "King Hyo-jong plans to launch a northern expedition to chastise the Manchus. This will require substantial preparations, funds and is impossible to keep secret. He plans to strengthen Korea's defenses by increasing and improving training and upgrading our fortresses.",
-        "translation": "孝宗国王计划北伐攻打满清.这需要一系列准备，因而无法保密.他计划加强训练，加固要塞.",
+        "key": "flavor_kor.EVTDESC1:2",
+        "original": "[Root.Monarch.GetTitle] [Root.Monarch.GetName] plans to launch a northern expedition to chastise the Manchus. This will require substantial preparations, funds and is impossible to keep secret. [Root.Monarch.GetSheHeCap] plans to strengthen Korea's defenses by increasing and improving training and upgrading our fortresses.",
+        "translation": "[Root.Monarch.GetName][Root.Monarch.GetTitle]计划北伐满清。这需要一系列准备，因而无法保密。[Root.Monarch.GetSheHeCap]计划加强训练、加固要塞，提升朝鲜的防御。",
         "stage": 1,
         "file": "localisation/flavor_events_l_english.yml"
     },
@@ -24024,10 +24024,10 @@
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
-        "key": "flavor_mch.EVTDESC5:0",
-        "original": "Three feudal lords in the south, once Ming generals who have since thrown in their lot with the Manchu, are threatening to rise up in rebellion! Ordered to give up their offices and return to Beijing, they are instead demanding that they be allowed to retain their posts as lords of semi-autonomous provinces. They claim that if they aren't allowed to retain their current positions and aren't given huge bribes, they will rise up in rebellion. What shall we do?",
+        "key": "flavor_mch.EVTDESC5:1",
+        "original": "Three feudal lords in the south, once Ming generals who have since thrown in their lot with the Manchu, have risen up in rebellion! Ordered to give up their offices and return to Beijing, they have instead conspired against us and raised an army. They declare their cause to be to 'oppose the Qing and restore the Ming', though several lords have proclaimed themselves the true Emperor despite their lack of relation to the Zhu family. A great civil war has begun; we must defend the Qing realm from these traitors!",
         "translation": "南方的三藩是我们的威胁！虽然已下令撤藩，但是这些前大明将领显然还想保持自己的小王国.他们甚至宣称如果不继续提供军饷就起兵叛乱.我们该怎么办？",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
@@ -32971,9 +32971,9 @@
     },
     {
         "key": "flavor_wal.EVTDESC2F:0",
-        "original": "The assembled retinue ready their pikes and their stomachs for the coming judgment. The brutal impalement of the Ottoman court begins. \\n[TUR.Heir.GetTitle] [TUR.Heir.GetName] grimaces as he is forced to watch the horrific display; [TUR.Heir.GetHerHis] eyes fill with terror as the realization dawns that [TUR.Heir.GetSheHe] is next.",
+        "original": "The assembled retinue ready their pikes and their stomachs for the coming judgment. The brutal impalement of the Ottoman court begins. \\n[TUR.Heir.GetTitle] [TUR.Heir.GetName] grimaces as [TUR.Heir.GetSheHe] is forced to watch the horrific display; [TUR.Heir.GetHerHis] eyes fill with terror as the realization dawns that [TUR.Heir.GetSheHe] is next.",
         "translation": "随从们已经聚集起来，准备好了他们的长矛和他们的胃，准备迎接即将到来的审判。奥斯曼宫廷的残暴刺刑开始了。\\n被强迫观看这场惨剧的[TUR.Heir.GetTitle][TUR.Heir.GetName]脸上露出了扭曲的表情，[TUR.Heir.GetHerHis]眼中透出强烈的恐惧，意识到下一个就是[TUR.Heir.GetSheHe]自己。",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
@@ -33376,24 +33376,24 @@
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
-        "key": "flavor_wal.EVTDESC2:2",
-        "original": "[Root.Monarch.GetName] pauses [Root.Monarch.GetHerHis] survey of the battlefield to momentarily regard the burning city of [TUR.Capital.GetName] with an unsettling dispassion.\\n[Root.Monarch.GetHerHisCap] assembled retinue ready their pikes and their stomachs for the coming judgment. The soldiers raise the beaten and broken body of [TUR.Monarch.GetTitle] [TUR.Monarch.GetName] from [TUR.Monarch.GetHerHis] slumped position on the ground and prop him upright. The once majestic [TUR.Monarch.GetTitle] lets out a final chilling scream as the stake impales [TUR.Monarch.GetHerHis] heart and emerges out of his back.\\n[TUR.Heir.GetTitle] [TUR.Heir.GetName] grimaces as he is forced to watch the horrific display; [TUR.Heir.GetHerHis] eyes fill with terror as the realization dawns that [TUR.Heir.GetSheHe] is next.",
+        "key": "flavor_wal.EVTDESC2:3",
+        "original": "[Root.Monarch.GetName] pauses [Root.Monarch.GetHerHis] survey of the battlefield to momentarily regard the burning city of [TUR.Capital.GetName] with an unsettling dispassion.\\n[Root.Monarch.GetHerHisCap] assembled retinue ready their pikes and their stomachs for the coming judgment. The soldiers raise the beaten and broken body of [TUR.Monarch.GetTitle] [TUR.Monarch.GetName] from [TUR.Monarch.GetHerHis] slumped position on the ground and prop [TUR.Monarch.GetHerHim] upright. The once majestic [TUR.Monarch.GetTitle] lets out a final chilling scream as the stake impales [TUR.Monarch.GetHerHis] heart and emerges out of [TUR.Monarch.GetHerHis] back.\\n[TUR.Heir.GetTitle] [TUR.Heir.GetName] grimaces as [TUR.Heir.GetSheHe] is forced to watch the horrific display; [TUR.Heir.GetHerHis] eyes fill with terror as the realization dawns that [TUR.Heir.GetSheHe] is next.",
         "translation": "[Root.Monarch.GetName]停下了[Root.Monarch.GetHerHis]对战场的视察，以一种令人不安的冷静注视着[TUR.Capital.GetName]燃烧的废墟。\\n[Root.Monarch.GetHerHisCap]的随从已经聚集起来，准备好了他们的长矛和他们的胃，准备迎接即将到来的审判。士兵们用长矛将[TUR.Monarch.GetTitle][TUR.Monarch.GetName]从[TUR.Monarch.GetHerHis]的位置挑了起来。曾经的[TUR.Monarch.GetTitle]在长矛穿过他的心脏，从[TUR.Monarch.GetHerHis]的背后透出时发出了最后的惨叫。\\n被强迫观看这场惨剧的[TUR.Heir.GetTitle][TUR.Heir.GetName]脸上露出了扭曲的表情，[TUR.Heir.GetHerHis]眼中透出强烈的恐惧，意识到下一个就是[TUR.Heir.GetSheHe]自己。",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
-        "key": "flavor_wal.EVTDESC2B:2",
-        "original": "[Root.Monarch.GetName] pauses [Root.Monarch.GetHerHis] survey of the battlefield to momentarily regard the burning city of [TUR.Capital.GetName] with an unsettling dispassion. [Root.Monarch.GetHerHisCap] assembled retinue ready their pikes and their stomachs for the coming judgment. The soldiers raise the beaten and broken body of [TUR.Monarch.GetTitle] [TUR.Monarch.GetName] from [TUR.Monarch.GetHerHis] slumped position on the ground and prop him upright. The once majestic [TUR.Monarch.GetTitle] lets out a final chilling scream as the stake impales [TUR.Monarch.GetHerHis] heart and emerges out of his back.",
+        "key": "flavor_wal.EVTDESC2B:4",
+        "original": "[Root.Monarch.GetName] pauses [Root.Monarch.GetHerHis] survey of the battlefield to momentarily regard the burning city of [TUR.Capital.GetName] with an unsettling dispassion. [Root.Monarch.GetHerHisCap] assembled retinue ready their pikes and their stomachs for the coming judgment. The soldiers raise the beaten and broken body of [TUR.Monarch.GetTitle] [TUR.Monarch.GetName] from [TUR.Monarch.GetHerHis] slumped position on the ground and prop [TUR.Monarch.GetHerHim] upright. The once majestic [TUR.Monarch.GetTitle] lets out a final chilling scream as the stake impales [TUR.Monarch.GetHerHis] heart and emerges out of [TUR.Monarch.GetHerHis] back.",
         "translation": "[Root.Monarch.GetName]停下了[Root.Monarch.GetHerHis]对战场的视察，以一种令人不安的冷静注视着[TUR.Capital.GetName]燃烧的废墟。[Root.Monarch.GetHerHisCap]的随从已经聚集起来，准备好了他们的长矛和他们的胃，准备迎接即将到来的审判。士兵们用长矛将[TUR.Monarch.GetTitle][TUR.Monarch.GetName]从[TUR.Monarch.GetHerHis]的位置挑了起来。曾经的[TUR.Monarch.GetTitle]在长矛穿过他的心脏，从[TUR.Monarch.GetHerHis]的背后透出时发出了最后的惨叫。",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
         "key": "flavor_wal.EVTDESC2C:1",
-        "original": "The assembled retinue ready their pikes and their stomachs for the coming judgment. The soldiers raise the beaten and broken body of [TUR.Monarch.GetTitle] [TUR.Monarch.GetName] from [TUR.Monarch.GetHerHis] slumped position on the ground and prop him upright. The once majestic [TUR.Monarch.GetTitle] lets out a final chilling scream as the stake impales [TUR.Monarch.GetHerHis] heart and emerges out of his back.\\n[TUR.Heir.GetTitle] [TUR.Heir.GetName] grimaces as he is forced to watch the horrific display; [TUR.Heir.GetHerHis] eyes fill with terror as the realization dawns that [TUR.Heir.GetSheHe] is next.",
+        "original": "The assembled retinue ready their pikes and their stomachs for the coming judgment. The soldiers raise the beaten and broken body of [TUR.Monarch.GetTitle] [TUR.Monarch.GetName] from [TUR.Monarch.GetHerHis] slumped position on the ground and prop [TUR.Monarch.GetHerHim] upright. The once majestic [TUR.Monarch.GetTitle] lets out a final chilling scream as the stake impales [TUR.Monarch.GetHerHis] heart and emerges out of [TUR.Monarch.GetHerHis] back.\\n[TUR.Heir.GetTitle] [TUR.Heir.GetName] grimaces as [TUR.Heir.GetSheHe] is forced to watch the horrific display; [TUR.Heir.GetHerHis] eyes fill with terror as the realization dawns that [TUR.Heir.GetSheHe] is next.",
         "translation": "随从已经聚集起来，准备好了他们的长矛和他们的胃，准备迎接即将到来的审判。士兵们用长矛将[TUR.Monarch.GetTitle][TUR.Monarch.GetName]从[TUR.Monarch.GetHerHis]的位置挑了起来。曾经的[TUR.Monarch.GetTitle]在长矛穿过他的心脏，从[TUR.Monarch.GetHerHis]的背后透出时发出了最后的惨叫。\\n被强迫观看这场惨剧的[TUR.Heir.GetTitle][TUR.Heir.GetName]脸上露出了扭曲的表情，[TUR.Heir.GetHerHis]眼中透出强烈的恐惧，意识到下一个就是[TUR.Heir.GetSheHe]自己。",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
@@ -33405,16 +33405,16 @@
     },
     {
         "key": "flavor_wal.EVTDESC2E:1",
-        "original": "[Root.Monarch.GetName] pauses [Root.Monarch.GetHerHis] survey of the battlefield to momentarily regard the burning city of [TUR.Capital.GetName] with an unsettling dispassion.\\n [Root.Monarch.GetHerHisCap] assembled retinue ready their pikes and their stomachs for the coming judgment. The brutal impalement of the Ottoman court begins. \\n[TUR.Heir.GetTitle] [TUR.Heir.GetName] grimaces as he is forced to watch the horrific display; [TUR.Heir.GetHerHis] eyes fill with terror as the realization dawns that [TUR.Heir.GetSheHe] is next.",
+        "original": "[Root.Monarch.GetName] pauses [Root.Monarch.GetHerHis] survey of the battlefield to momentarily regard the burning city of [TUR.Capital.GetName] with an unsettling dispassion.\\n [Root.Monarch.GetHerHisCap] assembled retinue ready their pikes and their stomachs for the coming judgment. The brutal impalement of the Ottoman court begins. \\n[TUR.Heir.GetTitle] [TUR.Heir.GetName] grimaces as [TUR.Heir.GetSheHe] is forced to watch the horrific display; [TUR.Heir.GetHerHis] eyes fill with terror as the realization dawns that [TUR.Heir.GetSheHe] is next.",
         "translation": "[Root.Monarch.GetName]停下了[Root.Monarch.GetHerHis]对战场的视察，以一种令人不安的冷静注视着[TUR.Capital.GetName]燃烧的废墟。\\n[Root.Monarch.GetHerHisCap]的随从已经聚集起来，准备好了他们的长矛和他们的胃，准备迎接即将到来的审判。奥斯曼宫廷的残暴刺刑开始了。\\n被强迫观看这场惨剧的[TUR.Heir.GetTitle][TUR.Heir.GetName]脸上露出了扭曲的表情；[TUR.Heir.GetHerHis]眼中透出强烈的恐惧，意识到下一个就是[TUR.Heir.GetSheHe]自己。",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
         "key": "flavor_wal.EVTDESC2G:1",
-        "original": "The assembled retinue ready their pikes and their stomachs for the coming judgment. The brutal impalement of the Ottoman court begins. The soldiers raise the beaten and broken body of [TUR.Monarch.GetTitle] [TUR.Monarch.GetName] from [TUR.Monarch.GetHerHis] slumped position on the ground and prop him upright. The once majestic [TUR.Monarch.GetTitle] lets out a final chilling scream as the stake impales [TUR.Monarch.GetHerHis] heart and emerges out of his back.",
+        "original": "The assembled retinue ready their pikes and their stomachs for the coming judgment. The brutal impalement of the Ottoman court begins. The soldiers raise the beaten and broken body of [TUR.Monarch.GetTitle] [TUR.Monarch.GetName] from [TUR.Monarch.GetHerHis] slumped position on the ground and prop [TUR.Monarch.GetHerHim] upright. The once majestic [TUR.Monarch.GetTitle] lets out a final chilling scream as the stake impales [TUR.Monarch.GetHerHis] heart and emerges out of [TUR.Monarch.GetHerHis] back.",
         "translation": "随从们已经聚集起来，准备好了他们的长矛和他们的胃，准备迎接即将到来的审判。奥斯曼宫廷的残暴刺刑开始了。士兵们用长矛将[TUR.Monarch.GetTitle][TUR.Monarch.GetName]从[TUR.Monarch.GetHerHis]的位置挑了起来。曾经的[TUR.Monarch.GetTitle]在长矛穿过他的心脏，从[TUR.Monarch.GetHerHis]的背后透出时发出了最后的惨叫。",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/flavor_events_l_english.yml"
     },
     {
@@ -33576,6 +33576,41 @@
         "original": "Every owned province in the §YIberia§! region that produces §YWool§! will come under the control of the §YNobles§! or §YClergy§!",
         "translation": "你所拥有的所有位于§Y伊比利亚§!地区且生产§Y羊毛§!的省份将由§Y贵族§!或§Y教士§!掌控",
         "stage": 1,
+        "file": "localisation/flavor_events_l_english.yml"
+    },
+    {
+        "key": "flavor_fra.EVTNAME9000:0",
+        "original": "A controversial poet",
+        "translation": "",
+        "stage": 0,
+        "file": "localisation/flavor_events_l_english.yml"
+    },
+    {
+        "key": "flavor_fra.EVTDESC9000:0",
+        "original": "As is customary, we released a few prisoners to celebrate the crowning of [Root.Monarch.GetTitle] [Root.Monarch.GetName]. Among them was a young poet who thanked us by writing a ballad against the enemies of France. However, our bailiff informed us that he is still wanted in Paris for stealing money from the university and killing a priest in a brawl.",
+        "translation": "",
+        "stage": 0,
+        "file": "localisation/flavor_events_l_english.yml"
+    },
+    {
+        "key": "flavor_fra.EVTOPTA9000:0",
+        "original": "These are serious crimes, throw him back in jail!",
+        "translation": "",
+        "stage": 0,
+        "file": "localisation/flavor_events_l_english.yml"
+    },
+    {
+        "key": "flavor_fra.EVTOPTB9000:0",
+        "original": "I like him, issue a full pardon and bring him to my court.",
+        "translation": "",
+        "stage": 0,
+        "file": "localisation/flavor_events_l_english.yml"
+    },
+    {
+        "key": "flavor_fra.EVTOPTC9000:0",
+        "original": "Better not get involved in this.",
+        "translation": "",
+        "stage": 0,
         "file": "localisation/flavor_events_l_english.yml"
     }
 ]

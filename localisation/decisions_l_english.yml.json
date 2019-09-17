@@ -868,9 +868,9 @@
         "file": "localisation/decisions_l_english.yml"
     },
     {
-        "key": "subject_all_mongols:0",
-        "original": "All Mongol, Chahar, Kalkha, Oirat and Uyghur lands must be ruled by [Root.GetName] or their vassals.",
-        "translation": "所有蒙古、察哈尔、喀尔喀、瓦剌和维吾尔的土地需要被[Root.GetName]或他的附庸所统治。",
+        "key": "subject_all_mongols:2",
+        "original": "All Mongol, Korchin, Kalkha, and Oirat lands must be ruled by [Root.GetName] or their vassals.",
+        "translation": "[Root.GetName]或他的附庸需要统治所有蒙古、科尔沁、喀尔喀、瓦剌的土地。",
         "stage": 1,
         "file": "localisation/decisions_l_english.yml"
     },
@@ -1432,6 +1432,20 @@
         "original": "The time has come to end our lives of piracy and settle down to establish a more stable Republic.",
         "translation": "是时候结束我们的海盗生涯，并定居下来以建立一个更稳定的共和国了。",
         "stage": 5,
+        "file": "localisation/decisions_l_english.yml"
+    },
+    {
+        "key": "institute_prussian_monarchy_title:0",
+        "original": "Institute Prussian Monarchy",
+        "translation": "建立普鲁士君主制",
+        "stage": 1,
+        "file": "localisation/decisions_l_english.yml"
+    },
+    {
+        "key": "institute_prussian_monarchy_desc:0",
+        "original": "Our monarchy must once more reflect Prussian virtues and Protestant ideals!",
+        "translation": "我们的君主必须再度反映普鲁士的美德和新教的理想！",
+        "stage": 1,
         "file": "localisation/decisions_l_english.yml"
     }
 ]

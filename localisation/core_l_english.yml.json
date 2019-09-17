@@ -469,17 +469,17 @@
         "file": "localisation/core_l_english.yml"
     },
     {
-        "key": "NOT_READY_TO_PLAY_MP:0",
-        "original": "$PLAYER$ is not ready.",
-        "translation": "$PLAYER$未准备就绪。",
-        "stage": 5,
+        "key": "NOT_READY_TO_PLAY_MP:1",
+        "original": "$PLAYER|Y$ is not ready.",
+        "translation": "$PLAYER|Y$未准备就绪。",
+        "stage": 1,
         "file": "localisation/core_l_english.yml"
     },
     {
-        "key": "MP_EDITING_CUSTOM_NATION:0",
-        "original": "$PLAYER$ is editing a Custom Nation.",
-        "translation": "$PLAYER$正在编辑一个自定义国家。",
-        "stage": 5,
+        "key": "MP_EDITING_CUSTOM_NATION:1",
+        "original": "$PLAYER|Y$ is editing a Custom Nation.",
+        "translation": "$PLAYER|Y$正在编辑一个自定义国家。",
+        "stage": 1,
         "file": "localisation/core_l_english.yml"
     },
     {
@@ -6318,6 +6318,13 @@
         "original": "Rich presence",
         "translation": "丰富 Steam 状态信息",
         "stage": 5,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "MP_COUNTRY_INVALID:0",
+        "original": "The country selected by $PLAYER|Y$ does not exist anymore.",
+        "translation": "$PLAYER|Y$所选国家已不存在。",
+        "stage": 1,
         "file": "localisation/core_l_english.yml"
     }
 ]
