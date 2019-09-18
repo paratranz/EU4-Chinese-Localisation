@@ -5306,16 +5306,16 @@
         "file": "localisation/dharma_l_english.yml"
     },
     {
-        "key": "HAVE_HAD_REFORM:0",
-        "original": "Have had reform $REFORM|Y$",
-        "translation": "进行了改革$REFORM|Y$",
+        "key": "HAVE_HAD_REFORM:1",
+        "original": "Have had reform $REFORM|Y$\\n",
+        "translation": "进行了改革$REFORM|Y$\\n",
         "stage": 1,
         "file": "localisation/dharma_l_english.yml"
     },
     {
-        "key": "HAVE_HAD_NOT_REFORM:0",
-        "original": "Have not had reform $REFORM|Y$",
-        "translation": "还没有进行改革$REFORM|Y$",
+        "key": "HAVE_HAD_NOT_REFORM:1",
+        "original": "Have not had reform $REFORM|Y$\\n",
+        "translation": "还没有进行改革$REFORM|Y$\\n",
         "stage": 1,
         "file": "localisation/dharma_l_english.yml"
     },
@@ -6279,9 +6279,9 @@
         "file": "localisation/dharma_l_english.yml"
     },
     {
-        "key": "dutch_republic.33.t:0",
-        "original": "[Root.GetName] Assembly Abolished",
-        "translation": "[Root.GetName]议会被废除",
+        "key": "dutch_republic.33.t:1",
+        "original": "[Root.GetAdjectiveCap] Assembly Abolished",
+        "translation": "[Root.GetAdjectiveCap]议会被废除",
         "stage": 1,
         "file": "localisation/dharma_l_english.yml"
     },
@@ -6772,6 +6772,20 @@
         "key": "GOV_REVOLUTIONARY_REPUBLIC:0",
         "original": "Revolutionary Republic",
         "translation": "革命共和国",
+        "stage": 1,
+        "file": "localisation/dharma_l_english.yml"
+    },
+    {
+        "key": "GOVERNMENT_DESELECTED_TITLE:0",
+        "original": "Government abolished",
+        "translation": "政体被废除",
+        "stage": 1,
+        "file": "localisation/dharma_l_english.yml"
+    },
+    {
+        "key": "GOVERNMENT_DESELECTED_DESC:0",
+        "original": "Changes in your Country have lead to the Government $REFORM|Y$ no longer being viable and it has now been abolished. It has been replaced with $REPLACEMENT|Y$.",
+        "translation": "你国家的变化导致政府改革$REFORM|Y$不再是可行的并已废除这项改革。它已经被$REPLACEMENT|Y$替代。",
         "stage": 1,
         "file": "localisation/dharma_l_english.yml"
     }
