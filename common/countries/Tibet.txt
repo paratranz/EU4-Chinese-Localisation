@@ -25,9 +25,6 @@ historical_units = {
   reformed_asian_cavalry
 }
 monarch_names = {
-  "Gusri #0" = 20
-  "Desi Sangay Gyatso #0" = 5
-  "Ngwaang Yeshi Gyatso #0" = 5
   "Chang-chub #1" = 1
   "Sakya Gyantsen #1" = 1
   "Trakpa Richen #1" = 1
@@ -44,11 +41,13 @@ monarch_names = {
   "贡桑 #0" = -1  # Kunzang #0
   "苏拉巴里涅 #0" = -1  # Surah Palinyal #0
   "卡玛拉 #0" = -1  # Kamala #0
-  "固始 #0" = 0  # Gushi #0
+  "固始 #0" = 20  # Gusri #0
   "噶尔丹 #0" = 0  # Galdan #0
   "僧格 #0" = 0  # Sengge #0
   "饶登 #0" = 0  # Rabtan #0
   "札巴迥乃 #1" = 1  # Trakpa Chungne #1
+  "阿旺伊西嘉措 #0" = 5  # Ngwaang Yeshi Gyatso #0
+  "第巴桑杰嘉措 #0" = 5  # Desi Sangay Gyatso #0
   "索南嘉措 #0" = 10  # Sonam Gyastro #0
   "根敦嘉措 #0" = 10  # Gendun Gyastro #0
   "楚臣嘉措 #0" = 20  # Tsultrim Gyatso #0
@@ -101,5 +100,5 @@ ship_names = {
   "Qamdo"
   "Shigatse"
   "Sakya"
-  "Tinggri"
+  "定日"  # Tinggri
 }

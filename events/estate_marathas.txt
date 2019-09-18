@@ -1,0 +1,892 @@
+namespace = marathas_estate_events
+province_event = {
+  id = marathas_estate_events.1
+  title = marathas_estate_events.1.t
+  desc = marathas_estate_events.1.d
+  picture = 14_Maratha_Estate_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "marathas_estate_events.1.a"
+  }
+}
+country_event = {
+  id = marathas_estate_events.2
+  title = marathas_estate_events.2.t
+  desc = marathas_estate_events.2.d
+  picture = 14_Maratha_Estate_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_estate = estate_brahmins
+    has_estate = estate_maratha
+    estate_influence = {
+      estate = estate_maratha
+      influence = 10
+    }
+    estate_influence = {
+      estate = estate_brahmins
+      influence = 10
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_brahmins
+        modifier = EST_VAL_MARATHI_POET_APOLOGY
+      }
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_brahmins
+        modifier = EST_VAL_MARATHI_POET
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = "marathas_estate_events.2.a"
+    ai_chance = {
+      factor = 50
+      modifier = {
+        factor = 1.5
+        NOT = {
+          estate_loyalty = {
+            estate = estate_maratha
+            loyalty = 40
+          }
+        }
+      }
+      modifier = {
+        factor = 1.2
+        estate_loyalty = {
+          estate = estate_maratha
+          loyalty = 50
+        }
+        NOT = {
+          estate_loyalty = {
+            estate = estate_maratha
+            loyalty = 60
+          }
+        }
+      }
+      modifier = {
+        factor = 0.2
+        has_estate = estate_brahmins
+        NOT = {
+          estate_loyalty = {
+            estate = estate_brahmins
+            loyalty = 30
+          }
+        }
+      }
+      modifier = {
+        factor = 1.5
+        estate_influence = {
+          estate = estate_brahmins
+          influence = 80
+        }
+      }
+    }
+    add_estate_loyalty = {
+      estate = estate_maratha
+      loyalty = 15
+    }
+    add_estate_loyalty = {
+      estate = estate_brahmins
+      loyalty = -10
+    }
+    add_estate_influence_modifier = {
+      estate = estate_brahmins
+      desc = EST_VAL_MARATHI_POET
+      influence = -10
+      duration = 9125
+    }
+    define_advisor = {
+      type = philosopher
+      culture = marathi
+      religion = hinduism
+      skill = 2
+      female = no
+      discount = yes
+    }
+  }
+  option = {
+    name = "marathas_estate_events.2.b"
+    ai_chance = {
+      factor = 50
+      modifier = {
+        factor = 1.5
+        NOT = {
+          estate_loyalty = {
+            estate = estate_brahmins
+            loyalty = 40
+          }
+        }
+      }
+      modifier = {
+        factor = 1.2
+        estate_loyalty = {
+          estate = estate_brahmins
+          loyalty = 50
+        }
+        NOT = {
+          estate_loyalty = {
+            estate = estate_brahmins
+            loyalty = 60
+          }
+        }
+      }
+      modifier = {
+        factor = 0.2
+        has_estate = estate_maratha
+        NOT = {
+          estate_loyalty = {
+            estate = estate_maratha
+            loyalty = 30
+          }
+        }
+      }
+      modifier = {
+        factor = 0.5
+        estate_influence = {
+          estate = estate_brahmins
+          influence = 80
+        }
+      }
+    }
+    add_estate_loyalty = {
+      estate = estate_maratha
+      loyalty = -10
+    }
+    add_estate_influence_modifier = {
+      estate = estate_brahmins
+      desc = EST_VAL_MARATHI_POET_APOLOGY
+      influence = 10
+      duration = 9125
+    }
+  }
+}
+country_event = {
+  id = marathas_estate_events.3
+  title = marathas_estate_events.3.t
+  desc = marathas_estate_events.3.d
+  picture = 13_Maratha_Estate_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_estate = estate_maratha
+    estate_loyalty = {
+      estate = estate_maratha
+      loyalty = 60
+    }
+    cavalry_fraction = 0.1
+    NOT = {
+      has_country_modifier = bargi_giri
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = "marathas_estate_events.3.a"
+    add_country_modifier = {
+      name = "bargi_giri"
+      duration = 7300
+    }
+    if = {
+      limit = {
+        has_estate = estate_maratha
+      }
+      add_estate_influence_modifier = {
+        estate = estate_maratha
+        influence = 10
+        desc = EST_VAL_BARGIRS
+        duration = 7300
+      }
+    }
+  }
+}
+country_event = {
+  id = marathas_estate_events.4
+  title = marathas_estate_events.4.t
+  desc = marathas_estate_events.4.d
+  picture = 13_Maratha_Estate_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_estate = estate_maratha
+    cavalry_fraction = 0.1
+    NOT = {
+      has_country_modifier = marathi_expensive_horses
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = "marathas_estate_events.4.a"
+    ai_chance = {
+      factor = 50
+      modifier = {
+        factor = 0
+        NOT = {
+          years_of_income = 0.3
+        }
+      }
+      modifier = {
+        factor = 1.5
+        NOT = {
+          estate_loyalty = {
+            estate = estate_maratha
+            loyalty = 40
+          }
+        }
+      }
+    }
+    add_years_of_income = -0.25
+    add_country_modifier = {
+      name = "marathi_expensive_horses"
+      duration = 7300
+    }
+    add_estate_loyalty = {
+      estate = estate_maratha
+      loyalty = 10
+    }
+  }
+  option = {
+    name = "marathas_estate_events.4.b"
+    ai_chance = {
+      factor = 50
+      modifier = {
+        factor = 0.1
+        NOT = {
+          estate_loyalty = {
+            estate = estate_maratha
+            loyalty = 55
+          }
+        }
+      }
+    }
+    add_estate_loyalty = {
+      estate = estate_maratha
+      loyalty = -15
+    }
+  }
+}
+country_event = {
+  id = marathas_estate_events.5
+  title = marathas_estate_events.5.t
+  desc = marathas_estate_events.5.d
+  picture = 13_Maratha_Estate_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_estate = estate_maratha
+    estate_influence = {
+      estate = estate_maratha
+      influence = 30
+    }
+    estate_loyalty = {
+      estate = estate_maratha
+      loyalty = 60
+    }
+    any_owned_province = {
+      has_estate = estate_maratha
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_MARATHA_MILITARIZATION
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = "marathas_estate_events.5.a"
+    set_country_flag = marathi_militarization_flag
+    add_yearly_manpower = 0.25
+    add_estate_influence_modifier = {
+      estate = estate_maratha
+      desc = EST_VAL_MARATHA_MILITARIZATION
+      influence = 15
+      duration = 7300
+    }
+    random_owned_province = {
+      limit = {
+        has_estate = estate_maratha
+      }
+      add_base_manpower = 1
+      set_province_flag = marathi_militarized_province
+    }
+  }
+}
+country_event = {
+  id = marathas_estate_events.6
+  title = marathas_estate_events.6.t
+  desc = marathas_estate_events.6.d
+  picture = 13_Maratha_Estate_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_estate = estate_maratha
+    estate_influence = {
+      estate = estate_maratha
+      influence = 10
+    }
+    any_owned_province = {
+      has_estate = estate_maratha
+      has_province_flag = marathi_militarized_province
+      base_tax = 2
+      base_production = 2
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_STOPPED_MILITARIZING_MARATHA
+      }
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_MARATHA_MILITARIZATION
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  immediate = {
+    hidden_effect = {
+      random_owned_province = {
+        limit = {
+          base_production = 2
+          base_tax = 2
+          has_province_flag = marathi_militarized_province
+          OR = {
+            has_estate = estate_maratha
+            AND = {
+              culture = marathi
+              owner = {
+                primary_culture = marathi
+              }
+            }
+          }
+        }
+        save_event_target_as = maratha_farming_province
+      }
+    }
+  }
+  option = {
+    name = "marathas_estate_events.6.a"
+    ai_chance = {
+      factor = 50
+    }
+    add_army_tradition = 10
+    event_target:maratha_farming_province = {
+      add_base_production = -1
+      if = {
+        limit = {
+          OR = {
+            trade_goods = grain
+            trade_goods = cotton
+          }
+        }
+        change_trade_goods = livestock
+      }
+    }
+  }
+  option = {
+    name = "marathas_estate_events.6.b"
+    ai_chance = {
+      factor = 50
+      modifier = {
+        factor = 0.1
+        NOT = {
+          estate_loyalty = {
+            estate = estate_maratha
+            loyalty = 40
+          }
+        }
+      }
+      modifier = {
+        factor = 1.5
+        estate_influence = {
+          estate = estate_maratha
+          influence = 80
+        }
+      }
+    }
+    add_estate_loyalty = {
+      estate = estate_maratha
+      loyalty = -10
+    }
+    add_estate_influence_modifier = {
+      estate = estate_maratha
+      desc = EST_VAL_STOPPED_MILITARIZING_MARATHA
+      influence = -10
+      duration = 9125
+    }
+    event_target:maratha_farming_province = {
+      add_province_modifier = {
+        name = maratha_stopped_militarizing
+        duration = 9125
+      }
+    }
+  }
+  option = {
+    name = "marathas_estate_events.6.c"
+    ai_chance = {
+      factor = 100
+    }
+    trigger = {
+      ADM = 4
+    }
+    add_army_tradition = 5
+  }
+}
+country_event = {
+  id = marathas_estate_events.7
+  title = marathas_estate_events.7.t
+  desc = marathas_estate_events.7.d
+  picture = 12_Maratha_Estate_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_estate = estate_maratha
+    estate_influence = {
+      estate = estate_maratha
+      influence = 70
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_MARATHA_LUXURIES
+      }
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_MARATHAS_DENIED_LUXURIES
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = "marathas_estate_events.7.a"
+    ai_chance = {
+      factor = 50
+      modifier = {
+        factor = 0
+        NOT = {
+          years_of_income = 0.6
+        }
+      }
+      modifier = {
+        factor = 1.5
+        NOT = {
+          estate_loyalty = {
+            estate = estate_maratha
+            loyalty = 40
+          }
+        }
+      }
+      modifier = {
+        factor = 0.2
+        estate_influence = {
+          estate = estate_maratha
+          influence = 80
+        }
+      }
+    }
+    add_years_of_income = -0.5
+    add_estate_loyalty = {
+      estate = estate_maratha
+      loyalty = 15
+    }
+    add_estate_influence_modifier = {
+      estate = estate_maratha
+      desc = EST_VAL_MARATHA_LUXURIES
+      influence = 10
+      duration = 7300
+    }
+  }
+  option = {
+    name = "marathas_estate_events.7.b"
+    ai_chance = {
+      factor = 50
+      modifier = {
+        factor = 1.5
+        estate_influence = {
+          estate = estate_maratha
+          influence = 70
+        }
+      }
+      modifier = {
+        factor = 0.1
+        NOT = {
+          estate_loyalty = {
+            estate = estate_maratha
+            loyalty = 40
+          }
+        }
+      }
+    }
+    add_prestige = -5
+    add_estate_loyalty = {
+      estate = estate_maratha
+      loyalty = -20
+    }
+    add_estate_influence_modifier = {
+      estate = estate_maratha
+      desc = EST_VAL_MARATHAS_DENIED_LUXURIES
+      influence = -15
+      duration = 7300
+    }
+  }
+}
+country_event = {
+  id = marathas_estate_events.8
+  title = marathas_estate_events.8.t
+  desc = marathas_estate_events.8.d
+  picture = 14_Maratha_Estate_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_estate = estate_maratha
+    has_estate = estate_brahmins
+    any_owned_province = {
+      religion = hinduism
+      OR = {
+        culture = marathi
+        has_estate = estate_maratha
+      }
+    }
+    NOT = {
+      any_owned_province = {
+        has_province_modifier = popular_palkhis
+      }
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_brahmins
+        modifier = EST_VAL_BRAHMIN_PALKHIS
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = "marathas_estate_events.8.a"
+    ai_chance = {
+      factor = 50
+      modifier = {
+        factor = 1.5
+        NOT = {
+          estate_loyalty = {
+            estate = estate_maratha
+            loyalty = 40
+          }
+        }
+      }
+    }
+    add_estate_loyalty = {
+      estate = estate_maratha
+      loyalty = 15
+    }
+    custom_tooltip = palkis.tooltip
+    hidden_effect = {
+      every_owned_province = {
+        limit = {
+          religion = hinduism
+          OR = {
+            culture = marathi
+            has_estate = estate_maratha
+          }
+        }
+        add_province_modifier = {
+          name = popular_palkhis
+          duration = 7300
+        }
+      }
+    }
+  }
+  option = {
+    name = "marathas_estate_events.8.b"
+    ai_chance = {
+      factor = 50
+      modifier = {
+        factor = 1.5
+        NOT = {
+          estate_loyalty = {
+            estate = estate_brahmins
+            loyalty = 40
+          }
+        }
+      }
+      modifier = {
+        factor = 0.2
+        estate_influence = {
+          influence = 80
+          estate = estate_brahmins
+        }
+      }
+    }
+    add_estate_loyalty = {
+      estate = estate_brahmins
+      loyalty = 15
+    }
+    add_estate_influence_modifier = {
+      estate = estate_brahmins
+      influence = 10
+      desc = EST_VAL_BRAHMIN_PALKHIS
+      duration = 7300
+    }
+    if = {
+      limit = {
+        religion = hinduism
+      }
+      add_country_modifier = {
+        name = "organized_palkhis"
+        duration = 7300
+      }
+    }
+    else = {
+      add_country_modifier = {
+        name = "organized_palkhis_nonhindu"
+        duration = 7300
+      }
+    }
+  }
+}
+country_event = {
+  id = marathas_estate_events.9
+  title = marathas_estate_events.9.t
+  desc = marathas_estate_events.9.d
+  picture = 14_Maratha_Estate_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_estate = estate_maratha
+    estate_influence = {
+      estate = estate_maratha
+      influence = 10
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_MARATHA_ADVANCE
+      }
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_MARATHA_DECLINE
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = "marathas_estate_events.9.a"
+    add_estate_influence_modifier = {
+      estate = estate_maratha
+      desc = EST_VAL_MARATHA_DECLINE
+      influence = -10
+      duration = 5475
+    }
+  }
+}
+country_event = {
+  id = marathas_estate_events.10
+  title = marathas_estate_events.10.t
+  desc = marathas_estate_events.10.d
+  picture = 13_Maratha_Estate_eventPicture
+  is_triggered_only = yes
+  trigger = {
+    has_estate = estate_maratha
+    NOT = {
+      estate_influence = {
+        estate = estate_maratha
+        influence = 100
+      }
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_MARATHA_ADVANCE
+      }
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_MARATHA_DECLINE
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = "marathas_estate_events.10.a"
+    add_estate_influence_modifier = {
+      estate = estate_maratha
+      desc = EST_VAL_MARATHA_ADVANCE
+      influence = 10
+      duration = 5475
+    }
+  }
+}
+country_event = {
+  id = marathas_estate_events.11
+  title = marathas_estate_events.11.t
+  desc = marathas_estate_events.11.d
+  picture = 12_Maratha_Estate_eventPicture
+  trigger = {
+    has_estate = estate_maratha
+    NOT = {
+      estate_loyalty = {
+        estate = estate_maratha
+        loyalty = 30
+      }
+    }
+    estate_influence = {
+      estate = estate_maratha
+      influence = 10
+    }
+    any_owned_province = {
+      has_estate = estate_maratha
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_MARATHAS_EXTORTED_RIGHTS
+      }
+    }
+    NOT = {
+      has_estate_influence_modifier = {
+        estate = estate_maratha
+        modifier = EST_VAL_MARATHAS_DENIED_RIGHTS
+      }
+    }
+  }
+  is_triggered_only = yes
+  immediate = {
+    hidden_effect = {
+      random_owned_province = {
+        limit = {
+          has_estate = estate_maratha
+        }
+        set_province_flag = maratha_estate_revolt
+      }
+      random_owned_province = {
+        limit = {
+          has_estate = estate_maratha
+          NOT = {
+            has_province_flag = maratha_estate_revolt
+          }
+          owner = {
+            num_of_cities = 8
+          }
+        }
+        set_province_flag = maratha_estate_revolt
+      }
+      random_owned_province = {
+        limit = {
+          has_estate = estate_maratha
+          NOT = {
+            has_province_flag = maratha_estate_revolt
+          }
+          owner = {
+            num_of_cities = 14
+          }
+        }
+        set_province_flag = maratha_estate_revolt
+      }
+      random_owned_province = {
+        limit = {
+          has_estate = estate_maratha
+          NOT = {
+            has_province_flag = maratha_estate_revolt
+          }
+          owner = {
+            num_of_cities = 18
+          }
+        }
+        set_province_flag = maratha_estate_revolt
+      }
+      random_owned_province = {
+        limit = {
+          has_estate = estate_maratha
+          NOT = {
+            has_province_flag = maratha_estate_revolt
+          }
+          owner = {
+            num_of_cities = 25
+          }
+        }
+        set_province_flag = maratha_estate_revolt
+      }
+      random_owned_province = {
+        limit = {
+          has_estate = estate_maratha
+          NOT = {
+            has_province_flag = maratha_estate_revolt
+          }
+          owner = {
+            num_of_cities = 30
+          }
+        }
+        set_province_flag = maratha_estate_revolt
+      }
+    }
+  }
+  mean_time_to_happen = {
+    days = 1
+  }
+  option = {
+    name = "marathas_estate_events.11.a"
+    ai_chance = {
+      factor = 1
+    }
+    add_estate_influence_modifier = {
+      estate = estate_maratha
+      desc = EST_VAL_MARATHAS_EXTORTED_RIGHTS
+      influence = 10
+      duration = 5475
+    }
+    every_owned_province = {
+      limit = {
+        has_estate = estate_maratha
+      }
+      add_local_autonomy = 33
+    }
+    hidden_effect = {
+      every_owned_province = {
+        limit = {
+          has_province_flag = maratha_estate_revolt
+        }
+        clr_province_flag = maratha_estate_revolt
+      }
+    }
+  }
+  option = {
+    name = "marathas_estate_events.11.b"
+    ai_chance = {
+      factor = 0
+    }
+    add_estate_influence_modifier = {
+      estate = estate_maratha
+      desc = EST_VAL_MARATHAS_DENIED_RIGHTS
+      influence = -10
+      duration = 5475
+    }
+    every_owned_province = {
+      limit = {
+        has_province_flag = maratha_estate_revolt
+      }
+      clr_province_flag = maratha_estate_revolt
+      spawn_rebels = {
+        type = noble_rebels
+        size = 1
+      }
+    }
+  }
+}

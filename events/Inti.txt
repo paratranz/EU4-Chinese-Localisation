@@ -1,0 +1,1402 @@
+namespace = inti_events
+country_event = {
+  id = inti_events.1
+  title = inti_events.1.t
+  desc = inti_events.1.d
+  picture = INCAN_GODS_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    is_religion_reformed = no
+    has_regency = no
+    has_new_dynasty = no
+  }
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.1.a"
+    custom_tooltip = inti_events.1.a.tt
+    add_authority = 10
+    add_years_of_income = -0.5
+  }
+  option = {
+    name = "inti_events.1.b"
+    custom_tooltip = inti_events.1.b.tt
+    add_authority = -10
+    add_prestige = 10
+  }
+  option = {
+    name = "inti_events.1.c"
+    custom_tooltip = inti_events.1.c.tt
+    add_years_of_income = 0.5
+    add_stability = -1
+    random = {
+      chance = 40
+      random_owned_province = {
+        spawn_rebels = {
+          type = pretender_rebels
+          religion = ROOT
+          size = 1
+        }
+      }
+    }
+  }
+}
+country_event = {
+  id = inti_events.2
+  title = inti_events.2.t
+  desc = inti_events.2.d
+  picture = INCAN_GODS_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    has_regency = no
+    is_religion_reformed = no
+    has_heir = yes
+    heir_age = 10
+    has_female_heir = no
+    NOT = {
+      has_ruler_flag = inti_heir_matched
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  option = {
+    name = "inti_events.2.a"
+    set_ruler_flag = inti_heir_matched
+    random_list = {
+      65 = {
+        country_event = {
+          id = inti_events.3
+        }
+      }
+      35 = {
+        country_event = {
+          id = inti_events.4
+        }
+      }
+    }
+  }
+  option = {
+    name = "inti_events.2.b"
+    set_ruler_flag = inti_heir_matched
+    add_authority = -5
+  }
+  option = {
+    name = "inti_events.2.c"
+    set_ruler_flag = inti_heir_matched
+    add_authority = 5
+    add_stability = -1
+  }
+}
+country_event = {
+  id = inti_events.3
+  title = inti_events.3.t
+  desc = inti_events.3.d
+  picture = INCAN_GODS_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.3.a"
+    add_authority = 5
+  }
+  option = {
+    name = "inti_events.3.b"
+    add_prestige = 10
+  }
+}
+country_event = {
+  id = inti_events.4
+  title = inti_events.4.t
+  desc = inti_events.4.d
+  picture = INCAN_GODS_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.4.a"
+    add_prestige = -5
+  }
+}
+country_event = {
+  id = inti_events.5
+  title = inti_events.5.t
+  desc = inti_events.5.d
+  picture = INCAN_GODS_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    has_regency = no
+    is_religion_reformed = no
+    num_of_cities = 2
+    any_owned_province = {
+      is_capital = no
+      NOT = {
+        has_province_modifier = inti_yana_lord
+      }
+      has_siege = no
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  option = {
+    name = "inti_events.5.a"
+    add_authority = 5
+    random_owned_province = {
+      limit = {
+        is_capital = no
+        has_siege = no
+        NOT = {
+          has_province_modifier = inti_yana_lord
+        }
+      }
+      random = {
+        chance = 50
+        spawn_rebels = {
+          type = nationalist_rebels
+          size = 3
+        }
+      }
+    }
+  }
+  option = {
+    name = "inti_events.5.b"
+    custom_tooltip = inti_events.5.b.tt
+    add_authority = 5
+    random_owned_province = {
+      limit = {
+        is_capital = no
+        NOT = {
+          has_province_modifier = inti_yana_lord
+        }
+        has_siege = no
+      }
+      add_province_modifier = {
+        name = inti_yana_lord
+        duration = 1825
+      }
+      spawn_rebels = {
+        type = nationalist_rebels
+        size = 2
+      }
+    }
+  }
+  option = {
+    name = "inti_events.5.c"
+    add_authority = -5
+  }
+}
+country_event = {
+  id = inti_events.6
+  title = inti_events.6.t
+  desc = inti_events.6.d
+  picture = INCAN_GODS_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    is_religion_reformed = no
+    has_regency = no
+    has_truce = no
+    any_owned_province = {
+      NOT = {
+        months_since_defection = 12
+      }
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  option = {
+    name = "inti_events.6.a"
+    add_authority = -5
+    random_list = {
+      55 = {
+        add_prestige = 10
+      }
+      15 = {
+        add_adm_power = 35
+      }
+      15 = {
+        add_dip_power = 35
+      }
+      15 = {
+        add_mil_power = 35
+      }
+    }
+  }
+  option = {
+    name = "inti_events.6.b"
+    add_prestige = -5
+  }
+  option = {
+    name = "inti_events.6.c"
+    add_authority = 5
+    random_owned_province = {
+      limit = {
+        NOT = {
+          months_since_defection = 12
+        }
+      }
+      spawn_rebels = {
+        type = nationalist_rebels
+        size = 2
+      }
+    }
+  }
+}
+province_event = {
+  id = inti_events.7
+  title = inti_events.7.t
+  desc = inti_events.7.d
+  picture = NATIVES_LOW_eventPicture
+  is_mtth_scaled_to_size = 1
+  trigger = {
+    owner = {
+      religion = inti
+    }
+    has_dlc = "El Dorado"
+    is_capital = no
+    NOT = {
+      has_province_modifier = inti_arranged_marriages
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  option = {
+    name = "inti_events.7.a"
+    owner = {
+      add_authority = 5
+    }
+    set_province_flag = inti_marriages_arranged
+    add_province_modifier = {
+      name = "inti_arranged_marriages"
+      duration = 1825
+    }
+  }
+  option = {
+    name = "inti_events.7.b"
+    add_province_modifier = {
+      name = "inti_low_fertility"
+      duration = 1825
+    }
+  }
+}
+country_event = {
+  id = inti_events.8
+  title = inti_events.8.t
+  desc = inti_events.8.d
+  picture = INCAN_GODS_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    owns = 2829
+    2829 = {
+      NOT = {
+        has_province_modifier = inti_shrine_of_virocacha
+      }
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  option = {
+    name = "inti_events.8.a"
+    add_years_of_income = -0.45
+    2829 = {
+      add_province_modifier = {
+        name = inti_shrine_of_virocacha
+        duration = -1
+      }
+    }
+  }
+  option = {
+    name = "inti_events.8.b"
+    add_prestige = 5
+  }
+}
+country_event = {
+  id = inti_events.9
+  title = inti_events.9.t
+  desc = inti_events.9.d
+  picture = NATIVES_HIGH_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    war_exhaustion = 2
+    NOT = {
+      has_ruler_flag = inti_aucachics
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  option = {
+    name = "inti_events.9.a"
+    add_war_exhaustion = -2
+    set_ruler_flag = inti_aucachics
+  }
+  option = {
+    name = "inti_events.9.b"
+    add_prestige = 5
+    set_ruler_flag = inti_aucachics
+  }
+}
+province_event = {
+  id = inti_events.10
+  title = inti_events.10.t
+  desc = inti_events.10.d
+  picture = GUARDED_TREASURE_eventPicture
+  is_mtth_scaled_to_size = 1
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    has_siege = no
+    is_capital = no
+    owner = {
+      religion = inti
+      is_religion_reformed = no
+    }
+    owner = {
+      any_owned_province = {
+        can_spawn_rebels = nationalist_rebels
+      }
+    }
+    NOT = {
+      has_province_modifier = inti_major_huaca_temple
+    }
+  }
+  mean_time_to_happen = {
+    months = 280
+  }
+  option = {
+    name = "inti_events.10.a"
+    spawn_rebels = {
+      type = nationalist_rebels
+      size = 2
+    }
+    owner = {
+      add_authority = 5
+    }
+  }
+  option = {
+    name = "inti_events.10.b"
+    add_province_modifier = {
+      name = inti_major_huaca_temple
+      duration = 1825
+    }
+    owner = {
+      add_authority = -5
+    }
+  }
+}
+country_event = {
+  id = inti_events.11
+  title = inti_events.11.t
+  desc = inti_events.11.d
+  picture = COURT_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    is_religion_reformed = no
+    is_at_war = no
+    NOT = {
+      authority = 50
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  option = {
+    name = "inti_events.11.a"
+    add_authority = 5
+    add_years_of_income = -0.4
+    add_adm_power = -25
+  }
+  option = {
+    name = "inti_events.11.b"
+    add_years_of_income = -0.1
+    add_adm_power = -25
+  }
+  option = {
+    name = "inti_events.11.c"
+    add_authority = -5
+  }
+}
+country_event = {
+  id = inti_events.12
+  title = inti_events.12.t
+  desc = inti_events.12.d
+  picture = FEAST_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    NOT = {
+      stability = 1
+    }
+  }
+  mean_time_to_happen = {
+    months = 360
+  }
+  option = {
+    name = "inti_events.12.a"
+    add_years_of_income = -0.05
+    add_prestige = 5
+  }
+  option = {
+    name = "inti_events.12.b"
+    add_adm_power = -75
+    add_stability_or_adm_power = yes
+  }
+  option = {
+    name = "inti_events.12.c"
+    add_dip_power = -75
+    add_stability_or_adm_power = yes
+  }
+}
+province_event = {
+  id = inti_events.13
+  title = inti_events.13.t
+  desc = inti_events.13.d
+  picture = COURT_eventPicture
+  is_mtth_scaled_to_size = 1
+  trigger = {
+    has_dlc = "El Dorado"
+    owner = {
+      is_religion_reformed = no
+      has_regency = no
+      religion = inti
+    }
+    is_city = yes
+    has_siege = no
+    NOT = {
+      has_building = temple
+    }
+    num_free_building_slots = 1
+    not = {
+      is_capital = yes
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  option = {
+    name = "inti_events.13.a"
+    owner = {
+      add_authority = 5
+      add_treasury = -60
+    }
+    add_building = temple
+  }
+  option = {
+    name = "inti_events.13.b"
+    owner = {
+      add_authority = -5
+      add_treasury = -30
+    }
+    add_building = temple
+  }
+}
+country_event = {
+  id = inti_events.14
+  title = inti_events.14.t
+  desc = inti_events.14.d
+  picture = INCAN_GODS_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    has_regency = no
+    NOT = {
+      government = theocracy
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  option = {
+    name = "inti_events.14.a"
+    add_years_of_income = -0.05
+    random_list = {
+      25 = {
+        country_event = {
+          id = inti_events.15
+        }
+      }
+      75 = {
+        country_event = {
+          id = inti_events.16
+        }
+      }
+    }
+  }
+  option = {
+    name = "inti_events.14.b"
+    trigger = {
+      809 = {
+        has_province_modifier = inti_pachamac_oracle
+        OR = {
+          owned_by = ROOT
+          owner = {
+            has_opinion = {
+              who = ROOT
+              value = 25
+            }
+          }
+        }
+      }
+    }
+    add_years_of_income = -0.15
+    add_prestige = 5
+    random_list = {
+      80 = {
+        country_event = {
+          id = inti_events.15
+        }
+      }
+      20 = {
+        country_event = {
+          id = inti_events.16
+        }
+      }
+    }
+  }
+  option = {
+    name = "inti_events.14.c"
+    trigger = {
+      810 = {
+        OR = {
+          owned_by = ROOT
+          owner = {
+            has_opinion = {
+              who = ROOT
+              value = 25
+            }
+          }
+        }
+      }
+    }
+    add_years_of_income = -0.15
+    add_prestige = 5
+    random_list = {
+      80 = {
+        country_event = {
+          id = inti_events.15
+        }
+      }
+      20 = {
+        country_event = {
+          id = inti_events.16
+        }
+      }
+    }
+  }
+  option = {
+    name = "inti_events.14.dd"
+    add_prestige = -5
+  }
+}
+country_event = {
+  id = inti_events.15
+  title = inti_events.15.t
+  desc = inti_events.15.d
+  picture = INCAN_GODS_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.15.a"
+    add_stability_or_adm_power = yes
+    add_prestige = 5
+  }
+}
+country_event = {
+  id = inti_events.16
+  title = inti_events.16.t
+  desc = inti_events.16.d
+  picture = INCAN_GODS_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.16.a"
+    add_prestige = 5
+  }
+}
+country_event = {
+  id = inti_events.17
+  title = inti_events.17.t
+  desc = inti_events.17.d
+  picture = NATIVES_HIGH_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    is_religion_reformed = no
+    has_regency = no
+    num_of_cities = 5
+    any_owned_province = {
+      NOT = {
+        months_since_defection = 60
+      }
+      NOT = {
+        has_province_flag = inti_mitmaq_gone_home
+      }
+      has_siege = no
+      is_city = yes
+      base_tax = 2
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      random_owned_province = {
+        limit = {
+          base_tax = 2
+          NOT = {
+            months_since_defection = 60
+          }
+          NOT = {
+            has_province_flag = inti_mitmaq_gone_home
+          }
+        }
+        set_province_flag = inti_mitmaq_wants_to_go
+      }
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  option = {
+    name = "inti_events.17.a"
+    random_owned_province = {
+      limit = {
+        not = {
+          is_capital = yes
+        }
+        not = {
+          has_province_flag = inti_mitmaq_wants_to_go
+        }
+      }
+      add_base_tax = 1
+    }
+    random_owned_province = {
+      limit = {
+        has_province_flag = inti_mitmaq_wants_to_go
+      }
+      add_base_tax = -1
+      set_province_flag = inti_mitmaq_gone_home
+      clr_province_flag = inti_mitmaq_wants_to_go
+    }
+  }
+  option = {
+    name = "inti_events.17.b"
+    random_owned_province = {
+      limit = {
+        has_province_flag = inti_mitmaq_wants_to_go
+      }
+      add_unrest = 5
+      clr_province_flag = inti_mitmaq_wants_to_go
+    }
+  }
+}
+province_event = {
+  id = inti_events.18
+  title = inti_events.18.t
+  desc = inti_events.18.d
+  picture = ANGRY_MOB_eventPicture
+  is_mtth_scaled_to_size = 1
+  trigger = {
+    has_dlc = "El Dorado"
+    owner = {
+      religion = inti
+      is_religion_reformed = no
+    }
+    has_siege = no
+    is_capital = no
+    base_tax = 2
+    NOT = {
+      has_province_flag = inti_mitmaq_sent_from_here
+    }
+  }
+  mean_time_to_happen = {
+    months = 260
+  }
+  immediate = {
+    hidden_effect = {
+      set_province_flag = inti_mitmaq_sent_from_here
+    }
+  }
+  option = {
+    name = "inti_events.18.a"
+    owner = {
+      add_authority = 5
+    }
+    random_list = {
+      75 = {
+        add_base_tax = -1
+        owner = {
+          random_owned_province = {
+            limit = {
+              is_core = ROOT
+              NOT = {
+                has_province_flag = inti_mitmaq_sent_from_here
+              }
+            }
+            add_base_tax = 1
+          }
+        }
+      }
+      25 = {
+        spawn_rebels = {
+          type = nationalist_rebels
+          size = 2
+        }
+      }
+    }
+  }
+  option = {
+    name = "inti_events.18.b"
+    owner = {
+      add_authority = -5
+    }
+    clr_province_flag = inti_mitmaq_sent_from_here
+  }
+  option = {
+    name = "inti_events.18.c"
+    owner = {
+      add_authority = 10
+    }
+    clr_province_flag = inti_mitmaq_sent_from_here
+    spawn_rebels = {
+      type = nationalist_rebels
+      size = 3
+    }
+  }
+}
+province_event = {
+  id = inti_events.19
+  title = inti_events.19.t
+  desc = inti_events.19.d
+  picture = NATIVES_LOW_eventPicture
+  trigger = {
+    has_province_flag = inti_marriages_arranged
+    had_province_flag = {
+      flag = inti_marriages_arranged
+      days = 7300
+    }
+    NOT = {
+      has_province_modifier = inti_arranged_marriages
+    }
+    has_dlc = "El Dorado"
+    owner = {
+      religion = inti
+    }
+  }
+  mean_time_to_happen = {
+    months = 60
+  }
+  option = {
+    name = "inti_events.19.a"
+    clr_province_flag = inti_marriages_arranged
+    add_base_tax = 1
+    add_unrest = 2
+  }
+}
+country_event = {
+  id = inti_events.20
+  title = inti_events.20.t
+  desc = inti_events.20.d
+  picture = FEAST_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    num_of_cities = 10
+    is_at_war = no
+    is_month = 4
+    NOT = {
+      is_month = 9
+    }
+    NOT = {
+      has_ruler_flag = inti_raymi_in_lifetime
+    }
+  }
+  immediate = {
+    hidden_effect = {
+      set_ruler_flag = inti_raymi_in_lifetime
+      every_owned_province = {
+        limit = {
+          is_capital = no
+        }
+        random_list = {
+          90 = {}
+          10 = {
+            set_province_flag = inti_insubordinate_chief
+          }
+        }
+      }
+      every_owned_province = {
+        limit = {
+          is_capital = no
+          NOT = {
+            has_province_flag = inti_insubordinate_chief
+          }
+        }
+        random_list = {
+          90 = {}
+          10 = {
+            set_province_flag = inti_huacas_kept
+          }
+        }
+      }
+    }
+  }
+  mean_time_to_happen = {
+    months = 300
+  }
+  option = {
+    name = "inti_events.20.a"
+    trigger = {
+      is_religion_reformed = no
+    }
+    country_event = {
+      id = inti_events.25
+      days = 14
+    }
+    hidden_effect = {
+      every_owned_province = {
+        limit = {
+          OR = {
+            has_province_flag = inti_huacas_kept
+            has_province_flag = inti_insubordinate_chief
+          }
+        }
+        clr_province_flag = inti_huacas_kept
+        clr_province_flag = inti_insubordinate_chief
+      }
+    }
+  }
+  option = {
+    name = "inti_events.20.b"
+    trigger = {
+      is_religion_reformed = no
+    }
+    add_authority = 10
+    hidden_effect = {
+      if = {
+        limit = {
+          any_owned_province = {
+            has_province_flag = inti_insubordinate_chief
+          }
+        }
+        country_event = {
+          id = inti_events.21
+        }
+      }
+      if = {
+        limit = {
+          vassal = 1
+        }
+        every_subject_country = {
+          country_event = {
+            id = inti_events.23
+          }
+        }
+      }
+    }
+    country_event = {
+      id = inti_events.26
+      days = 14
+    }
+  }
+  option = {
+    name = "inti_events.20.c"
+    trigger = {
+      is_religion_reformed = no
+    }
+    add_authority = 15
+    hidden_effect = {
+      if = {
+        limit = {
+          any_owned_province = {
+            OR = {
+              has_province_flag = inti_huacas_kept
+              has_province_flag = inti_insubordinate_chief
+            }
+          }
+        }
+        country_event = {
+          id = inti_events.22
+        }
+      }
+      if = {
+        limit = {
+          vassal = 1
+        }
+        every_subject_country = {
+          country_event = {
+            id = inti_events.23
+          }
+        }
+      }
+    }
+    country_event = {
+      id = inti_events.27
+      days = 14
+    }
+  }
+  option = {
+    name = "inti_events.23.a"
+    trigger = {
+      is_religion_reformed = yes
+    }
+    country_event = {
+      id = inti_events.28
+      days = 14
+    }
+    hidden_effect = {
+      every_owned_province = {
+        limit = {
+          OR = {
+            has_province_flag = inti_huacas_kept
+            has_province_flag = inti_insubordinate_chief
+          }
+        }
+        clr_province_flag = inti_huacas_kept
+        clr_province_flag = inti_insubordinate_chief
+      }
+    }
+  }
+}
+country_event = {
+  id = inti_events.21
+  title = inti_events.21.t
+  desc = inti_events.21.d
+  picture = DIPLOMACY_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.21.a"
+    add_authority = -5
+    add_years_of_income = -0.1
+  }
+  option = {
+    name = "inti_events.21.b"
+    add_authority = -10
+    every_owned_province = {
+      limit = {
+        OR = {
+          has_province_flag = inti_huacas_kept
+          has_province_flag = inti_insubordinate_chief
+        }
+      }
+      clr_province_flag = inti_huacas_kept
+      clr_province_flag = inti_insubordinate_chief
+    }
+  }
+  option = {
+    name = "inti_events.21.c"
+    every_owned_province = {
+      limit = {
+        has_province_flag = inti_insubordinate_chief
+      }
+      spawn_rebels = {
+        type = nationalist_rebels
+        size = 1
+      }
+      clr_province_flag = inti_insubordinate_chief
+    }
+    hidden_effect = {
+      every_owned_province = {
+        limit = {
+          has_province_flag = inti_huacas_kept
+        }
+        clr_province_flag = inti_huacas_kept
+      }
+    }
+  }
+}
+country_event = {
+  id = inti_events.22
+  title = inti_events.22.t
+  desc = inti_events.22.d
+  picture = GUARDED_TREASURE_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.22.a"
+    add_authority = -15
+    every_owned_province = {
+      limit = {
+        OR = {
+          has_province_flag = inti_huacas_kept
+          has_province_flag = inti_insubordinate_chief
+        }
+      }
+      clr_province_flag = inti_huacas_kept
+      clr_province_flag = inti_insubordinate_chief
+    }
+  }
+  option = {
+    name = "inti_events.22.b"
+    every_owned_province = {
+      limit = {
+        OR = {
+          has_province_flag = inti_huacas_kept
+          has_province_flag = inti_insubordinate_chief
+        }
+      }
+      spawn_rebels = {
+        type = nationalist_rebels
+        size = 1
+      }
+      clr_province_flag = inti_huacas_kept
+      clr_province_flag = inti_insubordinate_chief
+    }
+  }
+}
+country_event = {
+  id = inti_events.23
+  title = inti_events.23.t
+  desc = inti_events.23.d
+  picture = DIPLOMACY_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.23.a"
+    add_years_of_income = -0.05
+    hidden_effect = {
+      add_opinion = {
+        who = FROM
+        modifier = inti_attended_inti_raymi
+      }
+    }
+    FROM = {
+      add_opinion = {
+        who = ROOT
+        modifier = inti_attended_inti_raymi
+      }
+    }
+  }
+  option = {
+    name = "inti_events.23.b"
+    FROM = {
+      country_event = {
+        id = inti_events.24
+      }
+      add_opinion = {
+        who = ROOT
+        modifier = inti_refused_to_attend_inti_raymi
+      }
+    }
+  }
+}
+country_event = {
+  id = inti_events.24
+  title = inti_events.24.t
+  desc = inti_events.24.d
+  picture = DIPLOMACY_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.24.a"
+    add_prestige = -5
+    tooltip = {
+      add_opinion = {
+        who = FROM
+        modifier = inti_refused_to_attend_inti_raymi
+      }
+    }
+  }
+}
+country_event = {
+  id = inti_events.25
+  title = inti_events.25.t
+  desc = inti_events.25.d
+  picture = FEAST_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.25.a"
+    add_prestige = 10
+  }
+}
+country_event = {
+  id = inti_events.26
+  title = inti_events.26.t
+  desc = inti_events.26.d
+  picture = FEAST_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.26.a"
+    add_prestige = 10
+  }
+}
+country_event = {
+  id = inti_events.27
+  title = inti_events.27.t
+  desc = inti_events.27.d
+  picture = FEAST_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.27.a"
+    add_prestige = 10
+  }
+}
+country_event = {
+  id = inti_events.28
+  title = inti_events.28.t
+  desc = inti_events.28.d
+  picture = FEAST_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.28.a"
+    add_prestige = 15
+  }
+}
+country_event = {
+  id = inti_events.29
+  title = inti_events.29.t
+  desc = inti_events.29.d
+  picture = FEAST_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    OR = {
+      NOT = {
+        stability = 0
+      }
+      war_exhaustion = 4
+      unrest = 4
+    }
+    num_of_cities = 6
+    NOT = {
+      has_ruler_flag = inti_itu_celebrated
+    }
+  }
+  mean_time_to_happen = {
+    months = 400
+    modifier = {
+      factor = 0.9
+      NOT = {
+        stability = -2
+      }
+    }
+    modifier = {
+      factor = 0.9
+      war_exhaustion = 6
+    }
+    modifier = {
+      factor = 0.9
+      unrest = 6
+    }
+  }
+  option = {
+    name = "inti_events.29.a"
+    custom_tooltip = inti_events.29.a.tt
+    country_event = {
+      id = inti_events.30
+      days = 7
+    }
+    set_ruler_flag = inti_itu_celebrated
+  }
+  option = {
+    name = "inti_events.29.b"
+    custom_tooltip = inti_events.29.b.tt
+    add_dip_power = -75
+    country_event = {
+      id = inti_events.31
+      days = 14
+    }
+    set_ruler_flag = inti_itu_celebrated
+  }
+  option = {
+    name = "inti_events.29.c"
+  }
+}
+country_event = {
+  id = inti_events.30
+  title = inti_events.30.t
+  desc = inti_events.30.d
+  picture = FEAST_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.30.a"
+    if = {
+      limit = {
+        NOT = {
+          stability = 3
+        }
+      }
+      add_stability_or_adm_power = yes
+    }
+    if = {
+      limit = {
+        war_exhaustion = 1
+      }
+      add_war_exhaustion = -1
+    }
+    add_prestige = 5
+  }
+}
+country_event = {
+  id = inti_events.31
+  title = inti_events.31.t
+  desc = inti_events.31.d
+  picture = HUMAN_SACRIFICE_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.31.a"
+    if = {
+      limit = {
+        NOT = {
+          stability = 3
+        }
+      }
+      add_stability_or_adm_power = yes
+    }
+    if = {
+      limit = {
+        war_exhaustion = 1
+      }
+      add_war_exhaustion = -2
+    }
+    add_prestige = 10
+  }
+}
+country_event = {
+  id = inti_events.32
+  title = inti_events.32.t
+  desc = inti_events.32.d
+  picture = MILITARY_CAMP_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    has_regency = no
+    any_owned_province = {
+      NOT = {
+        culture = root
+      }
+    }
+    NOT = {
+      has_ruler_modifier = inti_royal_guard
+    }
+    NOT = {
+      has_ruler_flag = inti_turned_down_royal_guard
+    }
+    OR = {
+      NOT = {
+        has_country_flag = had_inti_royal_guard
+      }
+      had_country_flag = {
+        flag = had_inti_royal_guard
+        days = 7300
+      }
+    }
+  }
+  mean_time_to_happen = {
+    months = 400
+  }
+  option = {
+    name = "inti_events.32.a"
+    add_ruler_modifier = {
+      name = "inti_royal_guard"
+    }
+    set_country_flag = had_inti_royal_guard
+  }
+  option = {
+    name = "inti_events.32.b"
+    add_prestige = 5
+    set_ruler_flag = inti_turned_down_royal_guard
+  }
+}
+country_event = {
+  id = inti_events.33
+  title = inti_events.33.t
+  desc = inti_events.33.d
+  picture = MILITARY_CAMP_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    has_regency = no
+    has_ruler_modifier = inti_royal_guard
+    NOT = {
+      has_ruler_flag = inti_nobles_alarmed
+    }
+  }
+  mean_time_to_happen = {
+    months = 90
+  }
+  option = {
+    name = "inti_events.33.a"
+    remove_country_modifier = inti_royal_guard
+    add_stability_or_adm_power = yes
+  }
+  option = {
+    name = "inti_events.33.b"
+    add_authority = 5
+    set_ruler_flag = inti_nobles_alarmed
+    add_ruler_modifier = {
+      name = "inti_alarmed_nobles"
+    }
+  }
+}
+country_event = {
+  id = inti_events.34
+  title = inti_events.34.t
+  desc = inti_events.34.d
+  picture = BATTLE_eventPicture
+  trigger = {
+    religion = inti
+    has_dlc = "El Dorado"
+    has_regency = no
+    has_ruler_modifier = inti_royal_guard
+    NOT = {
+      has_ruler_flag = litter_attacked
+    }
+  }
+  mean_time_to_happen = {
+    months = 90
+  }
+  option = {
+    name = "inti_events.34.a"
+    remove_country_modifier = inti_royal_guard
+    add_stability_or_adm_power = yes
+    set_ruler_flag = litter_attacked
+  }
+  option = {
+    name = "inti_events.34.b"
+    custom_tooltip = inti_events.34.b.tt
+    add_prestige = 5
+    set_ruler_flag = litter_attacked
+    hidden_effect = {
+      random_list = {
+        50 = {
+          country_event = {
+            id = inti_events.35
+            days = 60
+          }
+        }
+        50 = {
+          country_event = {
+            id = inti_events.36
+            days = 60
+          }
+        }
+      }
+    }
+  }
+}
+country_event = {
+  id = inti_events.35
+  title = inti_events.35.t
+  desc = inti_events.35.d
+  picture = MILITARY_CAMP_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.35.a"
+    add_prestige = -5
+  }
+}
+country_event = {
+  id = inti_events.36
+  title = inti_events.36.t
+  desc = inti_events.36.d
+  picture = MILITARY_CAMP_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "inti_events.36.a"
+    add_prestige = 5
+  }
+  option = {
+    name = "inti_events.36.b"
+    add_authority = -5
+    remove_country_modifier = inti_alarmed_nobles
+  }
+}
