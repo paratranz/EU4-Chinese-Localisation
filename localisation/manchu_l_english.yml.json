@@ -562,15 +562,15 @@
     {
         "key": "mch_missions.1.t:0",
         "original": "Treachery at the Great Wall",
-        "translation": "发生在长城的叛国行径",
+        "translation": "长城的背叛",
         "stage": 1,
         "file": "localisation/manchu_l_english.yml"
     },
     {
         "key": "mch_missions.1.d:0",
         "original": "Few now have any faith in the Ming state. Even its generals wonder aloud if it might be prudent to defect to the invading [Root.GetAdjective]. The man tasked with defending the Shanghai Pass is Wu Sangui, a talented and ambitious commander who has faced [Root.Culture.GetName] armies in battle before with some success. Recent events in the capital and beyond have shaken his loyalty to the Ming [MNG.Monarch.GetTitle], and now he seeks an unlikely alliance with his former enemies. Promised titles and offices under the new order, Wu Sangui has agreed to defect to [Root.GetName]. We can march safely through the Shanghai Pass and onwards toward a weakened Beijing.",
-        "translation": "",
-        "stage": 0,
+        "translation": "现在几乎没有人对明朝还有忠诚可言。甚至明朝的将军们也在怀疑是不是真的能抵御住[Root.GetAdjective]的进攻。奉命镇守山海关的吴三桂是一名极有天赋又雄心勃勃的将领。此前，在与[Root.Culture.GetName]军作战时，他曾取得过一些胜利。但近期发生在明朝都城等地的一些事件动摇了他对明朝[MNG.Monarch.GetTitle]的忠诚，现在他正在寻求与他过去的敌人达成本不太可能结成的同盟。在获得高官厚禄的许诺后，吴三桂同意倒向[Root.GetName]。现在我们可以安全地穿过山海关并直入北京。",
+        "stage": 1,
         "file": "localisation/manchu_l_english.yml"
     },
     {
@@ -3579,8 +3579,8 @@
     {
         "key": "string_start_korea:1",
         "original": "The §YJoseon Kingdom of Korea§!, officially the §YKingdom of Great Joseon§!, emerged from the ashes of §YMongol§! and §YMing§! invasions via a coup d'état by General §YYi Seonggye§! (later known as §YKing Taejo§!) in 1392. From the start, Joseon Korea's connection to §YMing China§! was strong: When settling on a name for the new kingdom, Taejo submitted the options 'Hwaryeong' and 'Joseon' to Ming and decided on the latter after its endorsement by the Emperor.\\n\\nThis close connection to §YMing China§! was to remain until the downfall of the Ming in the mid-17th century - as was Korea's subordinate status in the relationship. As followers of §YConfucianism§!, Koreans viewed China as being at the heart of the Korean world, and Joseon Korea came to be in some ways even more sinicized than China itself - a 'little China'. For their part, the Chinese viewed Joseon Korea as the 'country of courteous people in the East'. For as long as Ming remains the undisputed claimant to the §YMandate of Heaven§!, the maintenance of these strong bonds will remain vital to the survival of the fledgling Korean kingdom.\\n\\nThe achievements of the first century of §YJoseon§! rule were considerable. In the early 15th century, the border regions of §YGyeongseong§! and §YYukjin§! were taken from the §YJurchens§!, allowing the Koreans to unite the territory which would form modern-day Korea. There was also a flourishing of academia and knowledge. In particular, the hangul alphabet was introduced in 1446. Unlike the Chinese alphabet, it was designed to be both easy to learn and easy to adapt to the Korean language, making its use far more convenient and allowing a far broader section of society to read scholarly texts. Further notable progress was made in the fields of agriculture, gunpowder and the codification of the law, and major efforts were made to survey and record the geography of the land.\\n\\nHowever, threats to the Korean kingdom remain from both within and beyond its borders. At home, Korea's peasants remain poor, and both §Ypeasant uprisings§! and insufficient tax receipts are likely to become a problem if nothing is done to rectify the situation. Furthermore, although the upper class of §Yyangban elites§! has for the most part been united, the cracks in this façade are already beginning to show and could erupt into §Yfactional strife§! at any time.\\n\\nOn the foreign front lie threats aplenty. To the north await the warlike §YJurchens§! - although presently divided, should they come to be unified under a strong leader, an invasion of Korea might follow swiftly. Similarly, across the sea to the east lies §YJapan§!, a nation of warring §Ydaimyos§! and would-be §Yshoguns§!. Korea must be vigilant, lest a united Japan seek to expand its power across the narrow channel of the Korean Sea. Finally, although Korea basks in the shadow of the §YMing Empire§!, woe betide the Joseon prince who wakes the dragon!",
-        "translation": "",
-        "stage": 0,
+        "translation": "§Y朝鲜王朝§!，国号§Y大朝鲜国§!，于1392年在§Y蒙古§!与§Y明§!朝的劫灰中由将领§Y李成桂§!（后称§Y太祖§!）发动政变建立。朝鲜与§Y中国明朝§!的联系自建国伊始就非常紧密：在为新的王国拟定国号时，太祖向大明上奏了「和宁」和「朝鲜」两个选择，并在天子的圈定下选择了后者。\\n\\n与§Y中国明朝§!的紧密联系一直持续到了17世纪中叶明朝灭亡——朝鲜在这一关系中的从属地位也一并结束。作为§Y儒教§!的追随者，朝鲜视中国为朝鲜世界的中心，而朝鲜自身在某些方面甚至比中国更加中国化——称之为「小中华」。在他们看来，中国视朝鲜王朝为「东方礼仪之邦」。只要明朝仍然§Y天命§!所归，维持这一坚固的纽带对新生的朝鲜王朝的生存而言至关重要。\\n\\n§Y朝鲜§!统治百年以来成就颇丰。15世纪初，朝鲜从§Y女真§!手中夺取了边疆的§Y镜城§!和§Y六镇§!，统一了今日的朝鲜地区。学术与思潮也在蓬勃发展。特别是1446年推行了谚文。相比起汉字，谚文的设计既易于学习也更适合朝鲜语，使得朝鲜语的使用更为便利，让更广大的社会阶层得以阅读学术文本。农业、火药与法律编纂等领域取得了显著进展，并且大力地开展地理调查与记录。\\n\\n然而，朝鲜王朝内外依旧存在着威胁。在国内，朝鲜的农民仍然处于贫困之中，如果不采取措施予以改善，§Y农民起义§!和税收不足都有可能成为问题。此外，§Y两班贵族§!尽管在很大程度上保持团结一致，但其上的裂痕已然开始显现，随时都有可能爆发§Y派系纷争§!。\\n\\n外部的威胁也不少。北方徘徊着好战的§Y女真§!族——尽管他们现在处于分裂之中，一旦他们被强大的领袖所统一，入侵朝鲜的行动可能很快就会发生。同样，东海对岸的§Y日本§!，§Y大名§!与未来的§Y幕府将军§!相互敌对。朝鲜必须保持警惕，以防止统一的日本将势力跨过狭窄的朝鲜海峡。最后，虽然朝鲜处在§Y明帝国§!的庇荫之下，但朝鲜国君要是唤醒了巨龙，那可就大祸临头了！",
+        "stage": 1,
         "file": "localisation/manchu_l_english.yml"
     },
     {
