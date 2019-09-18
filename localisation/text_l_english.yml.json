@@ -28115,14 +28115,14 @@
         "key": "ISNT_LUCKY:0",
         "original": "Isn't lucky ",
         "translation": "不是幸运国家",
-        "stage": 1,
+        "stage": 5,
         "file": "localisation/text_l_english.yml"
     },
     {
         "key": "IS_LUCKY:0",
         "original": "Is lucky ",
         "translation": "是幸运国家",
-        "stage": 1,
+        "stage": 5,
         "file": "localisation/text_l_english.yml"
     },
     {
@@ -43907,7 +43907,7 @@
         "key": "FE_LUCK:0",
         "original": "Lucky Nations",
         "translation": "幸运国家",
-        "stage": 1,
+        "stage": 5,
         "file": "localisation/text_l_english.yml"
     },
     {
@@ -52649,8 +52649,8 @@
     {
         "key": "IMPERIAL_MANDATE_LOSS_DESC:1",
         "original": "Lost by:\\n -Devastated provinces.\\n -Corruption of the State.",
-        "translation": "失去天命的原因：\\n－荒芜的省份。\\n－邻国不是朝贡国。",
-        "stage": 0,
+        "translation": "失去天命的原因：\\n－有存在荒废度的省份。\\n－国家有腐败度。",
+        "stage": 1,
         "file": "localisation/text_l_english.yml"
     },
     {
@@ -53356,8 +53356,8 @@
     {
         "key": "BANNER_REGIMENT:2",
         "original": "Banner Regiment\\nDiscipline Bonus: $DISC|+%$\\nManpower Usage: $MANPOWER|Y%$\\nReinforce Speed: $REINFORCE|+%$\\nMaintenance Cost: $MAINTENANCE|+%$",
-        "translation": "八旗兵团\\n训练度加成：$DISC$",
-        "stage": 0,
+        "translation": "八旗兵团\\n训练度加成：$DISC|+%$\\n人力花费：$MANPOWER|Y%$\\n增援速度：$REINFORCE|+%$\\n维护费用：$MAINTENANCE|+%$",
+        "stage": 1,
         "file": "localisation/text_l_english.yml"
     },
     {
@@ -54840,15 +54840,15 @@
     {
         "key": "IS_PLAYING_CUSTOM_NATION:1",
         "original": "Is playing a Custom Nation\\n",
-        "translation": "扮演自定义国家进行游戏",
-        "stage": 0,
+        "translation": "正扮演自定义国家进行游戏\\n",
+        "stage": 1,
         "file": "localisation/text_l_english.yml"
     },
     {
         "key": "IS_NOT_PLAYING_CUSTOM_NATION:1",
         "original": "Is NOT playing a Custom Nation\\n",
-        "translation": "没有扮演自定义国家进行游戏",
-        "stage": 0,
+        "translation": "没有在扮演自定义国家进行游戏\\n",
+        "stage": 1,
         "file": "localisation/text_l_english.yml"
     },
     {
