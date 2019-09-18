@@ -61,7 +61,7 @@ country_event = {
     }
   }
   option = {
-    name = "ming_crisis.1.a"
+    name = ming_crisis.1.a
     add_stability = -2
     add_mandate = -35
     add_corruption = 5
@@ -74,7 +74,7 @@ country_event = {
   picture = CIVIL_WAR_eventPicture
   is_triggered_only = yes
   option = {
-    name = "ming_crisis.2.a"
+    name = ming_crisis.2.a
     add_stability = 1
     add_mandate = 20
   }
@@ -163,13 +163,13 @@ country_event = {
     }
   }
   option = {
-    name = "ming_crisis.3.a"
+    name = ming_crisis.3.a
     add_stability = -2
     add_mandate = -10
     CSH = {
       define_ruler = {
-        name = "Zicheng"
-        dynasty = "Li"
+        name = "自成"  # Zicheng
+        dynasty = "李"  # Li
       }
       add_yearly_manpower = 15
       add_years_of_income = 15
@@ -307,7 +307,7 @@ country_event = {
     }
   }
   option = {
-    name = "ming_crisis.4.a"
+    name = ming_crisis.4.a
     ai_chance = {
       factor = 1
     }
@@ -317,7 +317,7 @@ country_event = {
     }
   }
   option = {
-    name = "ming_crisis.4.b"
+    name = ming_crisis.4.b
     ai_chance = {
       factor = 0
     }
@@ -456,7 +456,7 @@ country_event = {
     }
   }
   option = {
-    name = "ming_crisis.5.a"
+    name = ming_crisis.5.a
     ai_chance = {
       factor = 1
     }
@@ -479,7 +479,7 @@ country_event = {
     }
   }
   option = {
-    name = "ming_crisis.5.b"
+    name = ming_crisis.5.b
     ai_chance = {
       factor = 0
     }
@@ -544,7 +544,7 @@ country_event = {
     }
   }
   option = {
-    name = "ming_crisis.6.a"
+    name = ming_crisis.6.a
     ai_chance = {
       factor = 1
     }
@@ -557,7 +557,7 @@ country_event = {
     }
   }
   option = {
-    name = "ming_crisis.6.b"
+    name = ming_crisis.6.b
     ai_chance = {
       factor = 0
     }
@@ -617,7 +617,7 @@ country_event = {
     }
   }
   option = {
-    name = "ming_crisis.8.a"
+    name = ming_crisis.8.a
     add_stability = 1
   }
 }
@@ -629,7 +629,7 @@ country_event = {
   is_triggered_only = yes
   major = yes
   option = {
-    name = "ming_crisis.9.A"
+    name = ming_crisis.9.A
     liaoning_area = {
       limit = {
         owned_by = CSH
@@ -740,7 +740,7 @@ country_event = {
     }
   }
   option = {
-    name = "ming_crisis.9.B"
+    name = ming_crisis.9.B
     add_prestige = -20
     ai_chance = {
       factor = 1
