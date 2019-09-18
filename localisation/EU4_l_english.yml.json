@@ -11284,10 +11284,10 @@
         "file": "localisation/EU4_l_english.yml"
     },
     {
-        "key": "MANPOWER_IRO:0",
-        "original": "§YManpower§!\\nMaximum is §Y$MAX$§W\\nCurrently you gain §Y$YEARLY$§W each month\\nTo fully reinforce your armies you need §Y$NEED$§W men, and §Y$USED$§W will reach the armies this month.",
+        "key": "MANPOWER_IRO:1",
+        "original": "§YManpower§!\\nMaximum is §Y$MAX$§W\\nCurrently you gain §Y$YEARLY$§W each month\\nTo fully reinforce your armies you need §Y$NEED$§W men, and §Y$USED$§W will be used by your armies this month.",
         "translation": "§Y人力§!\\n上限为§Y$MAX$§W人\\n你当前每月增长§Y$YEARLY$§W人\\n完全补员你的陆军需要§Y$NEED$§W人，其中§Y$USED$§W人这个月将补充到部队中。",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/EU4_l_english.yml"
     },
     {
@@ -33439,10 +33439,10 @@
         "file": "localisation/EU4_l_english.yml"
     },
     {
-        "key": "CAPTURED_SHIPS_DESC:0",
-        "original": "There is a §Y$CHANCE$%§! chance that enemy ships can be captured instead of being sunk.\\nThis chance is based on your countries ability to capture ships, the fleet's highest ranking Admiral's Maneuver skill and his personality.\\nEnemy ships with low morale may also be captured after the battle.",
+        "key": "CAPTURED_SHIPS_DESC:1",
+        "original": "There is a §Y$CHANCE$%§! chance that enemy ships can be captured instead of being sunk.\\nThis chance is based on your country's ability to capture ships, the fleet's highest ranking Admiral's Maneuver skill and his personality.\\nEnemy ships with low morale may also be captured after the battle.",
         "translation": "敌方舰船有§Y$CHANCE$%§!的几率被俘获而非被击沉。\\n该几率取决于舰队中指挥级别最高的海军将领的机动能力。\\n敌方低士气的舰船也可能在交战结束后被俘获。",
-        "stage": 1,
+        "stage": 0,
         "file": "localisation/EU4_l_english.yml"
     },
     {
@@ -35017,6 +35017,34 @@
         "key": "CV_GO_BANKRUPT_TEXT_COT_TC_INVESTMENTS:0",
         "original": "\\nAll your Centers of Trade will be §Rdowngraded§!\\nAll your Trade Company Investments will be §Rlost§!",
         "translation": "\\n你所有的贸易中心将§R降级§!\\n你将§R失去§!在贸易公司的所有投资",
+        "stage": 1,
+        "file": "localisation/EU4_l_english.yml"
+    },
+    {
+        "key": "KICK_PLAYER_CONFIRM_TITLE:0",
+        "original": "Confirm kicking player",
+        "translation": "确认踢掉玩家",
+        "stage": 1,
+        "file": "localisation/EU4_l_english.yml"
+    },
+    {
+        "key": "KICK_PLAYER_CONFIRM_DESC:0",
+        "original": "Are you sure you want to kick $PLAYER_NAME|Y$ (currently playing as $PLAYER_COUNTRY|Y$) from the game?",
+        "translation": "你确定要从游戏中踢掉$PLAYER_NAME|Y$ (当前正在扮演 $PLAYER_COUNTRY|Y$)？",
+        "stage": 1,
+        "file": "localisation/EU4_l_english.yml"
+    },
+    {
+        "key": "NO_UNPAUSE_PLAYERS_BEHIND_TOO_MUCH:0",
+        "original": "Before unpausing you need to wait for the following player(s) to catch up:\\n$PLAYERS|Y$",
+        "translation": "你需要在取消暂停前等待以上玩家（们）追上进度：\\n$PLAYERS|Y$",
+        "stage": 1,
+        "file": "localisation/EU4_l_english.yml"
+    },
+    {
+        "key": "NO_SPEEDUP_PLAYERS_BEHIND_TOO_MUCH:0",
+        "original": "Before increasing the game speed you need to wait for the following player(s) to catch up:\\n$PLAYERS|Y$",
+        "translation": "你需要在加速前等待以上玩家（们）追上进度：\\n$PLAYERS|Y$",
         "stage": 1,
         "file": "localisation/EU4_l_english.yml"
     }
