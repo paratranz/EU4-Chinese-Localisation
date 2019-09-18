@@ -403,9 +403,29 @@ defined_text = {
     }
   }
   text = {
+    localisation_key = string_start_korea
+    trigger = {
+      tag = KOR
+    }
+  }
+  text = {
+    localisation_key = string_start_jurchens
+    trigger = {
+      OR = {
+        tag = MJZ
+        tag = MYR
+        tag = MHX
+        tag = NHX
+        tag = EJZ
+      }
+    }
+  }
+  text = {
     localisation_key = string_start_mongolia
     trigger = {
-      tag = KHA
+      capital_scope = {
+        region = mongolia_region
+      }
     }
   }
   text = {
@@ -2293,6 +2313,39 @@ defined_text = {
   }
   text = {
     localisation_key = string_anglicanism_no
+    trigger = {
+      always = yes
+    }
+  }
+}
+defined_text = {
+  name = start_dharma_gov_reforms
+  random = no
+  text = {
+    localisation_key = string_dharma_government_reforms
+    trigger = {
+      has_dlc = "Dharma"
+    }
+  }
+  text = {
+    localisation_key = string_dharma_government_reforms_no
+    trigger = {
+      always = yes
+    }
+  }
+}
+defined_text = {
+  name = start_cossacks_steppe_nomads
+  random = no
+  text = {
+    localisation_key = string_cossacks_steppe_nomads
+    trigger = {
+      has_reform = steppe_horde
+      has_dlc = "The Cossacks"
+    }
+  }
+  text = {
+    localisation_key = string_cossacks_steppe_nomads_no
     trigger = {
       always = yes
     }
