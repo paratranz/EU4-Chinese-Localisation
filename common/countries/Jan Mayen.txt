@@ -33,24 +33,24 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Björn #0" = 1
-  "Bamse #0" = 1
-  "Brum #0" = 1
-  "Brummelisa #0" = -1
-  "Brumma #0" = -1
-  "Nalle-Maja #0" = -1
   "Grawr #0" = 1
-  "Nanuk #0" = 1
-  "Ursus #0" = 1
   "Isbjorn #0" = 1
-  "Grrrowr #0" = 1
-  "Grrgrrr #0" = 1
-  "Rawr #0" = 1
+  "嗷呜 #0" = 1  # Rawr #0
+  "呼呜呜 #0" = 1  # Grrgrrr #0
+  "呼嗷呜 #0" = 1  # Grrrowr #0
+  "罴萨斯 #0" = 1  # Ursus #0
+  "纳努克 #0" = 1  # Nanuk #0
+  "熊艳艳 #0" = -1  # Nalle-Maja #0
+  "布鲁玛 #0" = -1  # Brumma #0
+  "布鲁梅丽莎 #0" = -1  # Brummelisa #0
+  "布鲁姆 #0" = 1  # Brum #0
+  "熊姆赛 #0" = 1  # Bamse #0
+  "熊约恩 #0" = 1  # Björn #0
 }
 leader_names = {
   "Beliy"
-  "Medved"
-  "Bjorn"
+  "梅德韦德 #0"  # Medved
+  "比约恩 #0"  # Bjorn
   "Rawrrorr"
   "Rrrrr"
   "Grrr"
@@ -60,7 +60,7 @@ leader_names = {
   "Blomstfjellet"
 }
 ship_names = {
-  "Jan Mayen"
+  "扬马延"  # Jan Mayen
   "Fisken"
   "Björntassen"
   "伊斯贝里耶"  # Isberget
