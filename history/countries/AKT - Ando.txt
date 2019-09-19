@@ -5,20 +5,25 @@ primary_culture = togoku
 religion = shinto
 technology_group = chinese
 capital = 4192
-1400.1.1 = {
+1395.1.1 = {
   monarch = {
-    name = "盛季"  # Morisuke
-    dynasty = "安东"  # Ando
+    name = "盛季"  # Morisue
+    dynasty = "安藤"  # Ando
+    birth_date = 1375.1.1
     adm = 3
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = industrious_personality
+  add_ruler_personality = lawgiver_personality
 }
 1400.1.1 = {
   heir = {
     name = "康季"  # Yasusue
     monarch_name = "康季"  # Yasusue
-    dynasty = "安东"  # Ando
+    dynasty = "安藤"  # Ando
     birth_date = 1400.1.1
     death_date = 1446.1.1
     claim = 90
@@ -45,7 +50,7 @@ capital = 4192
     monarch_name = "义季"  # Yoshisue
     dynasty = "安东"  # Ando
     birth_date = 1420.1.1
-    death_date = 1453.1.1
+    death_date = 1453.11.9
     claim = 90
     adm = 3
     dip = 3
@@ -57,10 +62,12 @@ capital = 4192
     name = "义季"  # Yoshisue
     dynasty = "安东"  # Ando
     birth_date = 1420.1.1
-    adm = 2
-    dip = 2
+    adm = 3
+    dip = 3
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = craven_personality
 }
 1446.1.1 = {
   heir = {
@@ -75,7 +82,7 @@ capital = 4192
     mil = 3
   }
 }
-1453.1.1 = {
+1453.11.9 = {
   monarch = {
     name = "政季"  # Masasue
     dynasty = "安东"  # Ando
@@ -84,8 +91,12 @@ capital = 4192
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = well_connected_personality
+  add_ruler_personality = righteous_personality
+  add_ruler_personality = loose_lips_personality
 }
-1453.1.1 = {
+1453.11.9 = {
   heir = {
     name = "忠季"  # Tadasue
     monarch_name = "忠季"  # Tadasue
@@ -93,9 +104,9 @@ capital = 4192
     birth_date = 1450.1.1
     death_date = 1511.8.19
     claim = 90
-    adm = 2
-    dip = 2
-    mil = 2
+    adm = 3
+    dip = 3
+    mil = 3
   }
 }
 1488.9.15 = {
@@ -103,10 +114,13 @@ capital = 4192
     name = "忠季"  # Tadasue
     dynasty = "安东"  # Ando
     birth_date = 1450.1.1
-    adm = 2
-    dip = 2
-    mil = 2
+    adm = 3
+    dip = 3
+    mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = architectural_visionary_personality
+  add_ruler_personality = just_personality
 }
 1488.9.15 = {
   heir = {
@@ -130,6 +144,10 @@ capital = 4192
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = calm_personality
+  add_ruler_personality = malevolent_personality
+  add_ruler_personality = silver_tongue_personality
 }
 1511.8.19 = {
   heir = {
@@ -153,6 +171,8 @@ capital = 4192
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = just_personality
 }
 1547.2.27 = {
   heir = {
@@ -176,6 +196,10 @@ capital = 4192
     dip = 4
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = inspiring_leader_personality
+  add_ruler_personality = entrepreneur_personality
+  add_ruler_personality = silver_tongue_personality
 }
 1576.1.1 = {
   heir = {
@@ -185,9 +209,9 @@ capital = 4192
     birth_date = 1576.1.1
     death_date = 1660.1.11
     claim = 90
-    adm = 3
+    adm = 4
     dip = 3
-    mil = 3
+    mil = 4
   }
 }
 1587.10.2 = {
@@ -195,8 +219,12 @@ capital = 4192
     name = "实季"  # Sanesue
     dynasty = "安东"  # Ando
     birth_date = 1576.1.1
-    adm = 3
+    adm = 4
     dip = 3
-    mil = 3
+    mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = martial_educator_personality
+  add_ruler_personality = industrious_personality
+  add_ruler_personality = loose_lips_personality
 }
