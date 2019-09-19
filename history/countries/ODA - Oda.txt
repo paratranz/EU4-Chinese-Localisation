@@ -9,76 +9,111 @@ capital = 1030
   monarch = {
     name = "久广"  # Hisanaga
     dynasty = "织田"  # Oda
+    birth_date = 1420.1.1
     adm = 3
     dip = 4
     mil = 3
   }
   clear_scripted_personalities = yes
   add_ruler_personality = incorruptible_personality
+  add_ruler_personality = lawgiver_personality
+  add_ruler_personality = zealot_personality
 }
-1465.1.1 = {
-  monarch = {
+1452.1.1 = {
+  heir = {
     name = "敏定"  # Toshisada
+    monarch_name = "敏定"  # Toshisada
     dynasty = "织田"  # Oda
+    birth_date = 1452.1.1
+    death_date = 1495.7.26
+    claim = 90
     adm = 4
     dip = 4
     mil = 4
   }
 }
+1465.1.1 = {
+  monarch = {
+    name = "敏定"  # Toshisada
+    dynasty = "织田"  # Oda
+    birth_date = 1452.1.1
+    adm = 4
+    dip = 4
+    mil = 4
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = strict_personality
+  add_ruler_personality = zealot_personality
+  add_ruler_personality = lawgiver_personality
+}
 1495.7.26 = {
   monarch = {
     name = "宽定"  # Tosada
     dynasty = "织田"  # Oda
+    birth_date = 1470.1.1
     adm = 3
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
 }
 1495.9.1 = {
   monarch = {
     name = "宽村"  # Tomura
     dynasty = "织田"  # Oda
+    birth_date = 1475.1.1
     adm = 3
     dip = 3
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = kind_hearted_personality
 }
 1503.1.1 = {
   monarch = {
     name = "达定"  # Tatsusada
     dynasty = "织田"  # Oda
+    birth_date = 1486.1.1
     adm = 3
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = loose_lips_personality
+  add_ruler_personality = babbling_buffoon_personality
 }
-1513.5.5 = {
+1513.6.8 = {
   monarch = {
     name = "达胜"  # Tatsukatsu
     dynasty = "织田"  # Oda
+    birth_date = 1490.1.1
     adm = 2
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
+  add_ruler_personality = naive_personality
 }
 1520.1.1 = {
   monarch = {
     name = "信定"  # Nobusada
     dynasty = "织田"  # Oda
     birth_date = 1490.1.1
-    death_date = 1538.1.1
     adm = 3
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = midas_touched_personality
 }
 1520.1.1 = {
   heir = {
     name = "信秀"  # Nobuhide
     monarch_name = "信秀"  # Nobuhide
     dynasty = "织田"  # Oda
-    birth_date = 1510.1.1
-    death_date = 1551.4.8
+    birth_date = 1511.1.1
+    death_date = 1552.4.8
     claim = 80
     adm = 4
     dip = 3
@@ -89,12 +124,15 @@ capital = 1030
   monarch = {
     name = "信秀"  # Nobuhide
     dynasty = "织田"  # Oda
-    birth_date = 1510.1.1
-    death_date = 1551.4.8
+    birth_date = 1511.1.1
     adm = 4
     dip = 3
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = bold_fighter_personality
+  add_ruler_personality = free_thinker_personality
+  add_ruler_personality = midas_touched_personality
 }
 1534.6.23 = {
   heir = {
@@ -109,12 +147,11 @@ capital = 1030
     mil = 6
   }
 }
-1551.4.8 = {
+1552.4.8 = {
   monarch = {
     name = "信长"  # Nobunaga
     dynasty = "织田"  # Oda
     birth_date = 1534.6.23
-    death_date = 1582.6.21
     adm = 5
     dip = 5
     mil = 6
@@ -190,10 +227,14 @@ capital = 1030
   monarch = {
     name = "秀赖"  # Hideyori
     dynasty = "丰臣"  # Toyotomi
+    birth_date = 1593.8.29
     adm = 3
     dip = 3
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = inspiring_leader_personality
+  add_ruler_personality = naive_personality
 }
 1600.10.21 = {
   capital = 1021
