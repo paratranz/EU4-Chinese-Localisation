@@ -2,12 +2,12 @@ owner = SHY
 controller = SHY
 culture = siberian
 religion = sunni
-capital = "敕勒"  # Qizil Tura
+capital = "塔拉"  # Tara
 trade_goods = fur
 hre = no
-base_tax = 3
-base_production = 3
-base_manpower = 3
+base_tax = 2
+base_production = 2
+base_manpower = 2
 is_city = yes
 add_core = SIB
 add_core = SHY
@@ -25,7 +25,4 @@ revolt_risk = 15
   controller = RUS
   add_core = RUS
   remove_core = SIB
-}
-1716.1.1 = {
-  capital = "鄂木斯克"  # Omsk
 }
