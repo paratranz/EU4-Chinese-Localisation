@@ -56,12 +56,27 @@ capital = 735
     adm = 6
     dip = 5
     mil = 5
+    birth_date = 1397.5.7
+    death_date = 1450.5.18
+  }
+}
+1418.1.1 = {
+  queen = {
+    country_of_origin = KOR
+    name = "昭憲"  # Soheon
+    dynasty = "沈"  # Sim
+    birth_date = 1395.10.12
+    death_date = 1446.4.19
+    female = yes
+    adm = 4
+    dip = 3
+    mil = 3
   }
 }
 1418.1.1 = {
   heir = {
-    name = "珦"  # Hyang
-    monarch_name = "珦"  # Hyang
+    name = "Hyang"
+    monarch_name = "Hyang"
     dynasty = "李"  # Yi
     birth_date = 1414.11.15
     death_date = 1452.6.1
@@ -71,6 +86,19 @@ capital = 735
     mil = 1
   }
 }
+1420.1.1 = {
+  clear_scripted_personalities = yes
+  add_ruler_personality = careful_personality
+  add_ruler_personality = well_advised_personality
+}
+1444.10.29 = {
+  add_truce_with = MJZ
+  add_heir_personality = craven_personality
+  add_opinion = {
+    who = MJZ
+    modifier = opinion_KOR_supported_war_for_north
+  }
+}
 1450.5.18 = {
   monarch = {
     name = "珦"  # Hyang
@@ -78,7 +106,10 @@ capital = 735
     adm = 2
     dip = 1
     mil = 1
+    birth_date = 1414.11.15
+    death_date = 1452.6.1
   }
+  clear_scripted_personalities = yes
 }
 1450.5.18 = {
   heir = {
@@ -100,6 +131,8 @@ capital = 735
     adm = 3
     dip = 1
     mil = 4
+    birth_date = 1441.1.1
+    death_date = 1457.1.1
   }
 }
 1452.6.12 = {
@@ -122,6 +155,8 @@ capital = 735
     adm = 1
     dip = 1
     mil = 1
+    birth_date = 1417.1.1
+    death_date = 1468.1.1
   }
 }
 1456.1.1 = {
@@ -144,6 +179,8 @@ capital = 735
     adm = 2
     dip = 1
     mil = 2
+    birth_date = 1450.1.1
+    death_date = 1469.1.10
   }
 }
 1468.10.2 = {
@@ -166,6 +203,8 @@ capital = 735
     adm = 3
     dip = 3
     mil = 2
+    birth_date = 1457.1.1
+    death_date = 1494.1.1
   }
 }
 1476.1.1 = {
@@ -188,6 +227,8 @@ capital = 735
     adm = 0
     dip = 0
     mil = 0
+    birth_date = 1476.1.1
+    death_date = 1506.1.1
   }
 }
 1495.1.30 = {
@@ -210,6 +251,8 @@ capital = 735
     adm = 1
     dip = 1
     mil = 1
+    birth_date = 1488.1.1
+    death_date = 1544.12.5
   }
 }
 1515.1.1 = {
@@ -232,6 +275,8 @@ capital = 735
     adm = 2
     dip = 1
     mil = 1
+    birth_date = 1515.1.1
+    death_date = 1545.8.18
   }
 }
 1544.12.5 = {
@@ -254,6 +299,8 @@ capital = 735
     adm = 2
     dip = 1
     mil = 2
+    birth_date = 1534.1.1
+    death_date = 1567.8.13
   }
 }
 1552.1.1 = {
@@ -276,6 +323,8 @@ capital = 735
     adm = 2
     dip = 1
     mil = 0
+    birth_date = 1552.1.1
+    death_date = 1608.3.7
   }
 }
 1574.1.1 = {
@@ -309,6 +358,8 @@ capital = 735
     adm = 1
     dip = 4
     mil = 2
+    birth_date = 1574.1.1
+    death_date = 1641.1.1
   }
 }
 1623.4.13 = {
@@ -349,6 +400,8 @@ capital = 735
     adm = 3
     dip = 0
     mil = 2
+    birth_date = 1619.1.1
+    death_date = 1659.6.24
   }
 }
 1649.7.5 = {
@@ -371,6 +424,8 @@ capital = 735
     adm = 1
     dip = 0
     mil = 2
+    birth_date = 1641.1.1
+    death_date = 1674.9.19
   }
 }
 1661.8.15 = {
@@ -393,6 +448,8 @@ capital = 735
     adm = 3
     dip = 0
     mil = 2
+    birth_date = 1661.8.15
+    death_date = 1720.7.13
   }
 }
 1688.1.1 = {
@@ -415,6 +472,8 @@ capital = 735
     adm = 1
     dip = 0
     mil = 1
+    birth_date = 1688.1.1
+    death_date = 1724.10.7
   }
 }
 1720.7.13 = {
@@ -437,6 +496,8 @@ capital = 735
     adm = 4
     dip = 2
     mil = 2
+    birth_date = 1694.9.13
+    death_date = 1776.3.5
   }
 }
 1752.9.22 = {
@@ -459,6 +520,8 @@ capital = 735
     adm = 1
     dip = 0
     mil = 1
+    birth_date = 1752.9.22
+    death_date = 1800.6.28
   }
 }
 1790.1.1 = {
@@ -481,5 +544,7 @@ capital = 735
     adm = 2
     dip = 0
     mil = 1
+    birth_date = 1790.1.1
+    death_date = 1834.1.1
   }
 }
