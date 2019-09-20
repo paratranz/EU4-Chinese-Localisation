@@ -9,30 +9,43 @@ capital = 1021
   monarch = {
     name = "和氏"  # Kazuuji
     dynasty = "细川"  # Hosokawa
+    birth_date = 1296.1.1
     adm = 3
     dip = 3
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = tactical_genius_personality
+  add_ruler_personality = well_connected_personality
 }
 1342.10.13 = {
   monarch = {
     name = "清氏"  # Kiyouji
     dynasty = "细川"  # Hosokawa
+    birth_date = 1330.1.1
     adm = 3
     dip = 3
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = bold_fighter_personality
+  add_ruler_personality = malevolent_personality
 }
-1362.1.1 = {
+1362.8.14 = {
   monarch = {
     name = "赖之"  # Yoriyuki
     dynasty = "细川"  # Hosokawa
+    birth_date = 1329.1.1
     adm = 5
     dip = 4
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = calm_personality
+  add_ruler_personality = just_personality
+  add_ruler_personality = scholar_personality
 }
-1362.1.1 = {
+1362.8.14 = {
   heir = {
     name = "赖元"  # Yorimoto
     monarch_name = "赖元"  # Yorimoto
@@ -54,6 +67,8 @@ capital = 1021
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = righteous_personality
 }
 1392.3.25 = {
   heir = {
@@ -63,7 +78,7 @@ capital = 1021
     birth_date = 1378.1.1
     death_date = 1426.11.15
     claim = 90
-    adm = 3
+    adm = 4
     dip = 3
     mil = 3
   }
@@ -77,6 +92,10 @@ capital = 1021
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = righteous_personality
+  add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = careful_personality
 }
 1399.1.1 = {
   heir = {
@@ -100,16 +119,21 @@ capital = 1021
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = well_connected_personality
 }
 1429.8.14 = {
   monarch = {
     name = "持之"  # Mochiyuki
     dynasty = "细川"  # Hosokawa
-    birth_date = 1399.1.1
+    birth_date = 1400.1.1
     adm = 3
     dip = 3
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = just_personality
+  add_ruler_personality = strict_personality
 }
 1430.1.1 = {
   heir = {
@@ -133,6 +157,10 @@ capital = 1021
     dip = 4
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = well_advised_personality
+  add_ruler_personality = malevolent_personality
+  add_ruler_personality = naive_personality
 }
 1466.1.1 = {
   heir = {
@@ -158,6 +186,8 @@ capital = 1021
   }
   clear_scripted_personalities = yes
   add_ruler_personality = infertile_personality
+  add_ruler_personality = malevolent_personality
+  add_ruler_personality = free_thinker_personality
 }
 1489.1.1 = {
   heir = {
@@ -189,21 +219,26 @@ capital = 1021
   monarch = {
     name = "澄之"  # Sumiyuki
     dynasty = "细川"  # Hosokawa
-    birth_date = 1399.1.1
+    birth_date = 1489.1.1
     adm = 2
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = babbling_buffoon_personality
 }
 1507.9.7 = {
   monarch = {
-    name = "澄元"  # Sumitomo
+    name = "澄元"  # Sumimoto
     dynasty = "细川"  # Hosokawa
     birth_date = 1489.1.1
     adm = 2
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = naive_personality
+  add_ruler_personality = malevolent_personality
 }
 1514.1.1 = {
   heir = {
@@ -227,6 +262,9 @@ capital = 1021
     dip = 4
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = greedy_personality
 }
 1531.7.21 = {
   monarch = {
@@ -237,6 +275,9 @@ capital = 1021
     dip = 4
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = bold_fighter_personality
+  add_ruler_personality = naive_personality
 }
 1548.1.1 = {
   heir = {
@@ -255,10 +296,15 @@ capital = 1021
   monarch = {
     name = "长庆"  # Nagayoshi
     dynasty = "三好"  # Miyoshi
+    birth_date = 1522.3.10
     adm = 5
     dip = 5
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = well_advised_personality
+  add_ruler_personality = tactical_genius_personality
+  add_ruler_personality = incorruptible_personality
 }
 1563.8.1 = {
   heir = {
@@ -277,27 +323,30 @@ capital = 1021
   monarch = {
     name = "义继"  # Yoshitsugu
     dynasty = "三好"  # Miyoshi
+    birth_date = 1549.1.1
     adm = 2
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
 }
 1569.12.1 = {
   capital = 1820
 }
-1573.12.11 = {
+1573.12.10 = {
   monarch = {
-    name = "昭元"  # Akimoto
-    dynasty = "细川"  # Hosokawa
+    name = "存保"  # Nagayasu
+    dynasty = "十河"  # Sogo
+    birth_date = 1554.1.1
     adm = 2
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
 }
-1575.1.1 = {
-  capital = 1019
-}
-1582.7.2 = {
+1580.1.1 = {
   monarch = {
     name = "藤孝"  # Fujitaka
     dynasty = "细川"  # Hosokawa
@@ -306,6 +355,9 @@ capital = 1021
     dip = 5
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = scholar_personality
+  add_ruler_personality = silver_tongue_personality
 }
 1582.7.2 = {
   heir = {
@@ -320,8 +372,8 @@ capital = 1021
     mil = 4
   }
 }
-1582.9.8 = {
-  capital = 1830
+1582.9.24 = {
+  capital = 4185
 }
 1583.1.1 = {
   monarch = {
@@ -332,6 +384,10 @@ capital = 1021
     dip = 4
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = bold_fighter_personality
+  add_ruler_personality = scholar_personality
+  add_ruler_personality = cruel_personality
 }
 1586.12.21 = {
   heir = {
@@ -346,8 +402,11 @@ capital = 1021
     mil = 3
   }
 }
-1632.1.1 = {
+1600.10.21 = {
   capital = 1014
+}
+1632.1.1 = {
+  capital = 4181
   monarch = {
     name = "忠利"  # Tadatoshi
     dynasty = "细川"  # Hosokawa
@@ -356,6 +415,9 @@ capital = 1021
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = kind_hearted_personality
+  add_ruler_personality = calm_personality
 }
 1632.1.1 = {
   heir = {
@@ -379,6 +441,8 @@ capital = 1021
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = lawgiver_personality
 }
 1643.2.26 = {
   heir = {
@@ -390,7 +454,7 @@ capital = 1021
     claim = 90
     adm = 3
     dip = 3
-    mil = 3
+    mil = 4
   }
 }
 1650.1.28 = {
@@ -400,8 +464,12 @@ capital = 1021
     birth_date = 1643.2.26
     adm = 3
     dip = 3
-    mil = 3
+    mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = benevolent_personality
+  add_ruler_personality = embezzler_personality
+  add_ruler_personality = martial_educator_personality
 }
 1676.12.24 = {
   heir = {
@@ -425,6 +493,9 @@ capital = 1021
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = embezzler_personality
+  add_ruler_personality = obsessive_perfectionist_personality
 }
 1716.6.16 = {
   heir = {
@@ -439,9 +510,6 @@ capital = 1021
     mil = 3
   }
 }
-1718.1.1 = {
-  capital = 1014
-}
 1732.8.16 = {
   monarch = {
     name = "宗孝"  # Munetaka
@@ -451,16 +519,23 @@ capital = 1021
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = embezzler_personality
+  add_ruler_personality = babbling_buffoon_personality
 }
 1747.9.19 = {
   monarch = {
     name = "重贤"  # Shigetaka
     dynasty = "细川"  # Hosokawa
     birth_date = 1721.1.23
-    adm = 3
-    dip = 3
-    mil = 3
+    adm = 5
+    dip = 4
+    mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = midas_touched_personality
+  add_ruler_personality = incorruptible_personality
+  add_ruler_personality = scholar_personality
 }
 1758.5.31 = {
   heir = {
@@ -484,6 +559,8 @@ capital = 1021
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
 }
 1787.10.26 = {
   monarch = {
@@ -494,6 +571,9 @@ capital = 1021
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = kind_hearted_personality
+  add_ruler_personality = embezzler_personality
 }
 1797.2.9 = {
   heir = {
@@ -503,12 +583,25 @@ capital = 1021
     birth_date = 1797.2.9
     death_date = 1826.3.20
     claim = 90
-    adm = 3
+    adm = 4
     dip = 3
     mil = 3
   }
 }
-1804.10.19 = {
+1810.12.6 = {
+  monarch = {
+    name = "齐树"  # Naritatsu
+    dynasty = "细川"  # Hosokawa
+    birth_date = 1797.2.9
+    adm = 4
+    dip = 3
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = midas_touched_personality
+  add_ruler_personality = well_advised_personality
+}
+1810.12.6 = {
   heir = {
     name = "齐护"  # Narimori
     monarch_name = "齐护"  # Narimori
@@ -516,16 +609,6 @@ capital = 1021
     birth_date = 1804.10.19
     death_date = 1860.6.6
     claim = 90
-    adm = 3
-    dip = 3
-    mil = 3
-  }
-}
-1810.11.10 = {
-  monarch = {
-    name = "齐树"  # Naritatsu
-    dynasty = "细川"  # Hosokawa
-    birth_date = 1797.2.9
     adm = 3
     dip = 3
     mil = 3
@@ -540,6 +623,10 @@ capital = 1021
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = well_connected_personality
+  add_ruler_personality = obsessive_perfectionist_personality
+  add_ruler_personality = malevolent_personality
 }
 1835.7.23 = {
   heir = {

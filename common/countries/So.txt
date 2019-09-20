@@ -27,37 +27,37 @@ historical_units = {
   reformed_asian_cavalry
 }
 monarch_names = {
-  "Sadamori #0" = 50
-  "Shigemoto #0" = 50
-  "Sadakuni #0" = 50
-  "Kimori #0" = 50
-  "Yoshimori #0" = 50
-  "Morinaga #0" = 50
-  "Masamori #0" = 50
-  "Haruyasu #0" = 50
-  "Yoshishige #0" = 50
-  "Shigehisa #0" = 50
-  "Yoshizumi #0" = 50
-  "Yoshitomo #0" = 50
-  "Yoshinari #0" = 50
-  "Yoshizane #0" = 50
-  "Yoshikata #0" = 50
-  "Yoshinobu #0" = 50
-  "Tomohisa #0" = 50
-  "Tadayoshi #0" = 50
-  "Mochihisa #0" = 50
-  "Tadaharu #0" = 50
-  "Toshihisa #0" = 50
-  "Michihiro #0" = 50
-  "Yoshiyuki #0" = 50
-  "Yoshinaga #0" = 50
-  "Yoshikatsu #0" = 50
-  "Yoshiaya #0" = 50
   "Toku #0" = -5
   "Sen #0" = -5
   "Tama #0" = -5
   "Aya #0" = -5
   "Ina #0" = -5
+  "义章 #0" = 50  # Yoshiaya #0
+  "义功 #0" = 50  # Yoshikatsu #0
+  "义畅 #0" = 50  # Yoshinaga #0
+  "义如 #0" = 50  # Yoshiyuki #0
+  "方熙 #0" = 50  # Michihiro #0
+  "利久 #0" = 50  # Toshihisa #0
+  "忠治 #0" = 50  # Tadaharu #0
+  "持久 #0" = 50  # Mochihisa #0
+  "忠义 #0" = 50  # Tadayoshi #0
+  "朝久 #0" = 50  # Tomohisa #0
+  "义诚 #0" = 50  # Yoshinobu #0
+  "义方 #0" = 50  # Yoshikata #0
+  "义真 #0" = 50  # Yoshizane #0
+  "义成 #0" = 50  # Yoshinari #0
+  "义伦 #0" = 50  # Yoshitomo #0
+  "义纯 #0" = 50  # Yoshizumi #0
+  "茂尚 #0" = 50  # Shigehisa #0
+  "义调 #0" = 50  # Yoshishige #0
+  "晴康 #0" = 50  # Haruyasu #0
+  "将盛 #0" = 50  # Masamori #0
+  "盛长 #0" = 50  # Morinaga #0
+  "义盛 #0" = 50  # Yoshimori #0
+  "材盛 #0" = 50  # Kimori #0
+  "贞国 #0" = 50  # Sadakuni #0
+  "成职 #0" = 50  # Shigemoto #0
+  "贞盛 #0" = 50  # Sadamori #0
 }
 leader_names = {
   "Akamatsu"
@@ -261,14 +261,14 @@ ship_names = {
   "Sasshu Maru"
 }
 army_names = {
-  "So Gun"
-  "$PROVINCE$ Gun"
-  "$PROVINCE$ Zei"
-  "$PROVINCE$ Dan"
+  "宗军"  # So Gun
+  "$PROVINCE$军"  # $PROVINCE$ Gun
+  "$PROVINCE$势"  # $PROVINCE$ Zei
+  "$PROVINCE$团"  # $PROVINCE$ Dan
 }
 fleet_names = {
-  "So Suigun"
-  "$PROVINCE$ Suigun"
-  "$PROVINCE$ Sendan"
-  "$PROVINCE$ Tai"
+  "宗水军"  # So Suigun
+  "$PROVINCE$水军"  # $PROVINCE$ Suigun
+  "$PROVINCE$船团"  # $PROVINCE$ Sendan
+  "$PROVINCE$队"  # $PROVINCE$ Tai
 }

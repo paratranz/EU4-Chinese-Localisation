@@ -9,19 +9,28 @@ capital = 1837
   monarch = {
     name = "国清"  # Kunikiyo
     dynasty = "畠山"  # Hatakeyama
+    birth_date = 1300.1.1
     adm = 2
     dip = 2
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = tactical_genius_personality
+  add_ruler_personality = babbling_buffoon_personality
+  add_ruler_personality = intricate_web_weaver_personality
 }
 1362.1.1 = {
   monarch = {
     name = "义深"  # Yoshito
     dynasty = "畠山"  # Hatakeyama
+    birth_date = 1331.1.1
     adm = 3
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = righteous_personality
+  add_ruler_personality = calm_personality
 }
 1362.1.1 = {
   heir = {
@@ -33,17 +42,22 @@ capital = 1837
     claim = 90
     adm = 4
     dip = 3
-    mil = 4
+    mil = 5
   }
 }
 1379.11.21 = {
   monarch = {
     name = "基国"  # Motokuni
     dynasty = "畠山"  # Hatakeyama
+    birth_date = 1352.1.1
     adm = 4
     dip = 3
-    mil = 4
+    mil = 5
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = righteous_personality
+  add_ruler_personality = bold_fighter_personality
+  add_ruler_personality = inspiring_leader_personality
 }
 1379.11.21 = {
   heir = {
@@ -53,8 +67,8 @@ capital = 1837
     birth_date = 1372.1.1
     death_date = 1433.10.31
     claim = 90
-    adm = 3
-    dip = 3
+    adm = 4
+    dip = 4
     mil = 3
   }
 }
@@ -62,26 +76,33 @@ capital = 1837
   monarch = {
     name = "满则"  # Mitsunori
     dynasty = "畠山"  # Hatakeyama
+    birth_date = 1380.1.1
     adm = 3
     dip = 3
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = just_personality
 }
 1410.1.1 = {
   monarch = {
     name = "满家"  # Mitsuie
     dynasty = "畠山"  # Hatakeyama
-    adm = 3
-    dip = 3
+    birth_date = 1372.1.1
+    adm = 4
+    dip = 4
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = calm_personality
+  add_ruler_personality = silver_tongue_personality
 }
 1410.1.1 = {
   heir = {
     name = "持国"  # Mochikuni
     monarch_name = "持国"  # Mochikuni
     dynasty = "畠山"  # Hatakeyama
-    birth_date = 1372.1.1
+    birth_date = 1398.1.1
     death_date = 1455.4.12
     claim = 90
     adm = 2
@@ -93,6 +114,7 @@ capital = 1837
   monarch = {
     name = "持国"  # Mochikuni
     dynasty = "畠山"  # Hatakeyama
+    birth_date = 1398.1.1
     adm = 2
     dip = 2
     mil = 3
@@ -120,11 +142,11 @@ capital = 1837
     monarch_name = "义就"  # Yoshinari
     dynasty = "畠山"  # Hatakeyama
     birth_date = 1437.1.1
-    death_date = 1490.1.1
+    death_date = 1491.1.21
     claim = 50
-    adm = 2
+    adm = 3
     dip = 2
-    mil = 2
+    mil = 4
   }
 }
 1455.4.12 = {
@@ -132,10 +154,13 @@ capital = 1837
     name = "义就"  # Yoshinari
     dynasty = "畠山"  # Hatakeyama
     birth_date = 1437.1.1
-    adm = 2
+    adm = 3
     dip = 2
-    mil = 2
+    mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = inspiring_leader_personality
+  add_ruler_personality = babbling_buffoon_personality
 }
 1460.1.1 = {
   monarch = {
@@ -145,6 +170,9 @@ capital = 1837
     dip = 3
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = craven_personality
+  add_ruler_personality = malevolent_personality
 }
 1475.1.1 = {
   heir = {
@@ -152,7 +180,7 @@ capital = 1837
     monarch_name = "尚顺"  # Hisayori
     dynasty = "畠山"  # Hatakeyama
     birth_date = 1475.1.1
-    death_date = 1522.8.17
+    death_date = 1522.9.7
     claim = 70
     adm = 3
     dip = 3
@@ -160,7 +188,7 @@ capital = 1837
   }
 }
 1480.1.1 = {
-  capital = 1832
+  capital = 4187
 }
 1493.5.1 = {
   monarch = {
@@ -171,6 +199,8 @@ capital = 1837
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = craven_personality
 }
 1499.1.1 = {
   monarch = {
@@ -181,6 +211,9 @@ capital = 1837
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = fierce_negotiator_personality
 }
 1504.1.1 = {
   heir = {
@@ -191,7 +224,7 @@ capital = 1837
     death_date = 1545.6.23
     claim = 90
     adm = 3
-    dip = 3
+    dip = 4
     mil = 3
   }
 }
@@ -200,22 +233,16 @@ capital = 1837
     name = "稙长"  # Tanenaga
     dynasty = "畠山"  # Hatakeyama
     birth_date = 1504.1.1
-    adm = 2
-    dip = 2
+    adm = 3
+    dip = 4
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = well_connected_personality
+  add_ruler_personality = careful_personality
 }
-1535.1.1 = {
-  monarch = {
-    name = "长经"  # Nagatsune
-    dynasty = "畠山"  # Hatakeyama
-    birth_date = 1508.1.1
-    adm = 2
-    dip = 2
-    mil = 2
-  }
-}
-1548.1.1 = {
+1545.6.23 = {
   monarch = {
     name = "政国"  # Masakuni
     dynasty = "畠山"  # Hatakeyama
@@ -224,8 +251,10 @@ capital = 1837
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = babbling_buffoon_personality
 }
-1548.1.1 = {
+1545.6.23 = {
   heir = {
     name = "高政"  # Takamasa
     monarch_name = "高政"  # Takamasa
@@ -233,8 +262,8 @@ capital = 1837
     birth_date = 1527.1.1
     death_date = 1576.11.5
     claim = 90
-    adm = 2
-    dip = 2
+    adm = 3
+    dip = 3
     mil = 2
   }
 }
@@ -243,10 +272,13 @@ capital = 1837
     name = "高政"  # Takamasa
     dynasty = "畠山"  # Hatakeyama
     birth_date = 1527.1.1
-    adm = 2
-    dip = 2
+    adm = 3
+    dip = 3
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = charismatic_negotiator_personality
+  add_ruler_personality = craven_personality
 }
 1569.1.1 = {
   monarch = {
@@ -257,6 +289,8 @@ capital = 1837
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = craven_personality
 }
 1573.7.23 = {
   monarch = {
@@ -267,4 +301,6 @@ capital = 1837
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
 }
