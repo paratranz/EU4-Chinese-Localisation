@@ -17,6 +17,7 @@ capital = 1020
   clear_scripted_personalities = yes
   add_ruler_personality = charismatic_negotiator_personality
   add_ruler_personality = inspiring_leader_personality
+  add_ruler_personality = well_connected_personality
 }
 1330.7.4 = {
   heir = {
@@ -24,14 +25,14 @@ capital = 1020
     monarch_name = "义诠"  # Yoshiakira
     dynasty = "足利"  # Ashikaga
     birth_date = 1330.7.4
-    death_date = 1367.12.18
+    death_date = 1367.12.28
     claim = 90
     adm = 2
     dip = 3
     mil = 2
   }
 }
-1358.5.7 = {
+1358.6.7 = {
   monarch = {
     name = "义诠"  # Yoshiakira
     dynasty = "足利"  # Ashikaga
@@ -40,6 +41,8 @@ capital = 1020
     dip = 3
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = righteous_personality
 }
 1358.9.25 = {
   heir = {
@@ -49,33 +52,24 @@ capital = 1020
     birth_date = 1358.9.25
     death_date = 1408.5.31
     claim = 90
-    adm = 2
-    dip = 3
-    mil = 2
+    adm = 4
+    dip = 6
+    mil = 4
   }
 }
-1367.12.18 = {
+1367.12.28 = {
   monarch = {
     name = "义满"  # Yoshimitsu
     dynasty = "足利"  # Ashikaga
     birth_date = 1358.9.25
     adm = 4
-    dip = 5
-    mil = 3
+    dip = 6
+    mil = 4
   }
   clear_scripted_personalities = yes
   add_ruler_personality = lawgiver_personality
   add_ruler_personality = silver_tongue_personality
-}
-1368.1.1 = {
-  monarch = {
-    name = "义满"  # Yoshimitsu
-    dynasty = "足利"  # Ashikaga
-    birth_date = 1358.9.25
-    adm = 4
-    dip = 5
-    mil = 3
-  }
+  add_ruler_personality = entrepreneur_personality
 }
 1386.3.12 = {
   heir = {
@@ -85,7 +79,7 @@ capital = 1020
     birth_date = 1386.3.12
     death_date = 1428.2.3
     claim = 90
-    adm = 3
+    adm = 4
     dip = 3
     mil = 3
   }
@@ -95,12 +89,13 @@ capital = 1020
     name = "义持"  # Yoshimochi
     dynasty = "足利"  # Ashikaga
     birth_date = 1386.3.12
-    adm = 3
+    adm = 4
     dip = 3
     mil = 3
   }
   clear_scripted_personalities = yes
   add_ruler_personality = careful_personality
+  add_ruler_personality = strict_personality
 }
 1408.5.31 = {
   heir = {
@@ -115,12 +110,37 @@ capital = 1020
     mil = 1
   }
 }
+1423.4.28 = {
+  monarch = {
+    name = "义量"  # Yoshikazu
+    dynasty = "足利"  # Ashikaga
+    birth_date = 1407.8.27
+    adm = 3
+    dip = 3
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
+}
+1425.3.17 = {
+  monarch = {
+    name = "义持"  # Yoshimochi
+    dynasty = "足利"  # Ashikaga
+    birth_date = 1386.3.12
+    adm = 4
+    dip = 3
+    mil = 3
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = careful_personality
+  add_ruler_personality = strict_personality
+}
 1425.3.17 = {
   heir = {
     name = "义教"  # Yoshinori
     monarch_name = "义教"  # Yoshinori
     dynasty = "足利"  # Ashikaga
-    birth_date = 1394.6.14
+    birth_date = 1394.7.11
     death_date = 1441.7.12
     claim = 60
     adm = 4
@@ -132,13 +152,14 @@ capital = 1020
   monarch = {
     name = "义教"  # Yoshinori
     dynasty = "足利"  # Ashikaga
-    birth_date = 1394.6.14
+    birth_date = 1394.7.11
     adm = 4
     dip = 2
     mil = 4
   }
   clear_scripted_personalities = yes
   add_ruler_personality = cruel_personality
+  add_ruler_personality = loose_lips_personality
 }
 1434.3.19 = {
   heir = {
@@ -163,17 +184,21 @@ capital = 1020
     mil = 1
   }
   clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
 }
 1443.8.16 = {
   monarch = {
     name = "义政"  # Yoshimasa
     dynasty = "足利"  # Ashikaga
-    adm = 1
+    birth_date = 1436.1.20
+    adm = 2
     dip = 3
     mil = 1
   }
   clear_scripted_personalities = yes
   add_ruler_personality = obsessive_perfectionist_personality
+  add_ruler_personality = naive_personality
+  add_ruler_personality = malevolent_personality
 }
 1464.1.1 = {
   heir = {
@@ -201,7 +226,7 @@ capital = 1020
     mil = 2
   }
 }
-1473.1.1 = {
+1474.1.7 = {
   monarch = {
     name = "义尚"  # Yoshihisa
     dynasty = "足利"  # Ashikaga
@@ -212,6 +237,34 @@ capital = 1020
   }
   clear_scripted_personalities = yes
   add_ruler_personality = drunkard_personality
+  add_ruler_personality = malevolent_personality
+}
+1489.4.26 = {
+  monarch = {
+    name = "义政"  # Yoshimasa
+    dynasty = "足利"  # Ashikaga
+    birth_date = 1436.1.20
+    adm = 2
+    dip = 3
+    mil = 1
+  }
+  clear_scripted_personalities = yes
+  add_ruler_personality = obsessive_perfectionist_personality
+  add_ruler_personality = naive_personality
+  add_ruler_personality = malevolent_personality
+}
+1489.4.26 = {
+  heir = {
+    name = "义稙"  # Yoshitane
+    monarch_name = "义稙"  # Yoshitane
+    dynasty = "足利"  # Ashikaga
+    birth_date = 1466.9.9
+    death_date = 1523.5.23
+    claim = 90
+    adm = 2
+    dip = 1
+    mil = 1
+  }
 }
 1490.1.1 = {
   monarch = {
@@ -223,6 +276,8 @@ capital = 1020
     mil = 1
   }
   clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
+  add_ruler_personality = naive_personality
 }
 1495.1.23 = {
   monarch = {
@@ -246,6 +301,8 @@ capital = 1020
     mil = 1
   }
   clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
+  add_ruler_personality = naive_personality
 }
 1521.12.25 = {
   monarch = {
@@ -253,11 +310,13 @@ capital = 1020
     dynasty = "足利"  # Ashikaga
     birth_date = 1511.4.2
     adm = 2
-    dip = 2
+    dip = 3
     mil = 1
   }
   clear_scripted_personalities = yes
   add_ruler_personality = charismatic_negotiator_personality
+  add_ruler_personality = well_connected_personality
+  add_ruler_personality = malevolent_personality
 }
 1536.3.31 = {
   heir = {
@@ -283,6 +342,7 @@ capital = 1020
   }
   clear_scripted_personalities = yes
   add_ruler_personality = martial_educator_personality
+  add_ruler_personality = malevolent_personality
 }
 1565.6.17 = {
   monarch = {
@@ -307,6 +367,7 @@ capital = 1020
   }
   clear_scripted_personalities = yes
   add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = malevolent_personality
 }
 1573.7.3 = {
   government = monarchy
