@@ -25,18 +25,6 @@ historical_units = {
   ali_bey_reformed_infantry
 }
 monarch_names = {
-  "al-‘Adil Fakhr al-Din #0" = 10
-  "al-Ashraf Sharaf al-Din #0" = 10
-  "al-Salih Salah al-Din #0" = 10
-  "al-Kamil Ahmad #0" = 10
-  "al-Adil #0" = 10
-  "al-Ashraf #0" = 10
-  "al-Azis #0" = 10
-  "al-Kamil #0" = 10
-  "Randa #0" = -1
-  "Qismah #0" = -1
-  "Nadirah #0" = -1
-  "Maram #0" = -1
   "法赫达 #0" = -1  # Fahda #0
   "纳迪亚 #0" = -1  # Nadiyya #0
   "阿芭勒 #0" = -1  # Abal #0
@@ -47,6 +35,10 @@ monarch_names = {
   "贾碧拉 #0" = -1  # Jabirah #0
   "卡米拉 #0" = -1  # Kamilah #0
   "莱拉 #0" = -1  # Layla #0
+  "马朗 #0" = -1  # Maram #0
+  "那迪拉 #0" = -1  # Nadirah #0
+  "乞丝马哈 #0" = -1  # Qismah #0
+  "兰妲 #0" = -1  # Randa #0
   "沙法 #0" = -1  # Safaa  #0
   "塔哈妮 #0" = -1  # Tahani #0
   "瓦丽妲 #0" = -1  # Walida #0
@@ -75,10 +67,18 @@ monarch_names = {
   "伊斯玛仪 #0" = 10  # Ismail #0
   "纳西尔 #0" = 10  # Nasir #0
   "优素福 #0" = 10  # Yusuf #0
+  "卡米勒 #0" = 10  # al-Kamil #0
+  "阿齐兹 #0" = 10  # al-Azis #0
+  "阿什拉夫 #0" = 10  # al-Ashraf #0
+  "阿迪勒 #0" = 10  # al-Adil #0
   "哈桑 #0" = 10  # Hassan #0
   "阿尔胡赛因 #0" = 10  # al-Husayn #0
   "苏莱曼 #0" = 10  # Sulayman #0
   "哈利勒 #0" = 10  # Khalil #0
+  "卡米勒 艾哈迈德 #0" = 10  # al-Kamil Ahmad #0
+  "萨利赫 萨拉赫丁 #0" = 10  # al-Salih Salah al-Din #0
+  "阿什拉夫 谢拉夫丁 #0" = 10  # al-Ashraf Sharaf al-Din #0
+  "阿迪勒 法赫尔丁 #0" = 10  # al-‘Adil Fakhr al-Din #0
   "阿里 阿卜杜拉 沙雷 #0" = 10  # al-Salih Abu Bakr #0
   "阿迪勒 谢哈布丁 #0" = 10  # al-‘Adil Shihab al-Din #0
   "阿迪勒 穆吉尔丁 #0" = 10  # al-‘Adil Mujir al-Din #0
@@ -103,45 +103,45 @@ ship_names = {
   "宰希尔 巴尔库克"  # Zaher Barqooq
   "法拉格 本 巴尔库克"  # Farag Ben Barqooq
   "本 巴尔库克"  # Ben Barqooq
-  "Muyaid Sheikh"
-  "Ahmen Muyaid"
-  "Zaher Tatar"
-  "Nasser Muhamed"
+  "穆贾希德 谢赫"  # Muyaid Sheikh
+  "阿曼 穆贾希德"  # Ahmen Muyaid
+  "宰希尔 鞑靼"  # Zaher Tatar
+  "纳赛尔 穆罕默德"  # Nasser Muhamed
   "阿什拉夫 巴尔斯拜"  # Ashraf Barsbay
   "阿齐兹 加马尔"  # Aziz Gamal
-  "Nahr an-Nil"
-  "Al-Farafirah"
-  "Ad-Däkhilah"
+  "那赫 尼尔"  # Nahr an-Nil
+  "法拉菲拉"  # Al-Farafirah
+  "达希拉"  # Ad-Däkhilah
   "哈利贾"  # Al-Kharijah
   "阿里"  # Al-Ali
   "巴赫里耶"  # Al-Bahriyah
-  "Rahman"
-  "Rahim"
+  "拉赫曼"  # Rahman
+  "拉希姆"  # Rahim
   "马利克"  # Malik
-  "Quddus"
-  "Salam"
+  "库杜斯"  # Quddus
+  "萨拉姆"  # Salam
   "慕敏"  # Mu'min
-  "Muhaymin"
+  "穆哈敏"  # Muhaymin
   "阿齐兹"  # Aziz
   "贾巴尔"  # Jabbar
-  "Mutakabbir"
+  "穆塔卡比尔"  # Mutakabbir
   "哈利克"  # Khaliq
   "巴里"  # Bari
   "穆萨维尔"  # Musawwir
-  "Ghaffar"
-  "Qahhar"
-  "Wahhab"
-  "Razzaq"
-  "Fattah"
-  "Alim"
-  "Qabid"
-  "Basit"
-  "Khafid"
-  "Rafi"
-  "Mu'izz"
-  "Mudhill"
-  "Sami"
-  "Basir"
-  "Hakam"
-  "Adl"
+  "贾法尔"  # Ghaffar
+  "加哈"  # Qahhar
+  "瓦哈卜"  # Wahhab
+  "拉扎克"  # Razzaq
+  "法塔赫"  # Fattah
+  "阿里姆"  # Alim
+  "贾比得"  # Qabid
+  "巴希特"  # Basit
+  "哈菲德"  # Khafid
+  "拉菲"  # Rafi
+  "穆伊兹"  # Mu'izz
+  "穆希尔"  # Mudhill
+  "萨米"  # Sami
+  "别瑟"  # Basir
+  "哈卡姆"  # Hakam
+  "阿德尔"  # Adl
 }
