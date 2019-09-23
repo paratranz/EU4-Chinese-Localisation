@@ -28,13 +28,12 @@ historical_units = {
   reformed_steppe_rifles
 }
 monarch_names = {
-  "Janay #0" = 20
   "Jumaduq #0" = 20
-  "Jalila #0" = -1
-  "Janan #0" = -1
-  "Sharifa #0" = -1
+  "谢里夫 #0" = -1  # Sharifa #0
   "萨吉娜 #0" = -1  # Sakina #0
   "莱拉 #0" = -1  # Layla #0
+  "札兰 #0" = -1  # Janan #0
+  "贾丽拉 #0" = -1  # Jalila #0
   "伊卜蒂萨姆 #0" = -1  # Ibtisam #0
   "法蒂玛 #0" = -1  # Fatima #0
   "黯忽儿赤 #0" = 20  # Yamghurchi #0
@@ -76,6 +75,7 @@ monarch_names = {
   "怯别 #0" = 20  # Kebek #0
   "克里木 别儿迪 #0" = 20  # Karim Berdi #0
   "札尼别 #0" = 20  # Jani Beg #0
+  "贾纳伊 #0" = 20  # Janay #0
   "贾阿里 #0" = 20  # Jan Ali #0
   "贾拉勒丁 #0" = 20  # Jalal al-Din #0
   "Jabbar Berdi #0" = 20  # Jabbar Berdi #0
@@ -108,7 +108,7 @@ monarch_names = {
 }
 leader_names = {
   "哈剌 失鲁阿"  # Qara Chinua
-  "Delger Qyugun"
+  "德勒格儿 忽古"  # Delger Qyugun
   "阿里黑哥"  # Arigh Gal
   "库库 额尔德尼"  # Koke Erdene
   "苏仁忽捏坚"  # Suren Unegen
@@ -116,12 +116,12 @@ leader_names = {
   "合丹台"  # Qadandei
   "不连勒吉格捏"  # Burilgigene
   "阿里哥帖尼"  # Arighteni
-  "Yekecher"
+  "叶库彻儿"  # Yekecher
   "苏伦海"  # Surenqai
   "忽鲁赤哥"  # Qorchigge
 }
 ship_names = {
-  "Xacitarxan"
+  "哈吉塔尔汉"  # Xacitarxan
   "窝勒伽"  # Volga
   "阿思塔剌罕"  # Ästerxan
   "Khadjitarkhan"
