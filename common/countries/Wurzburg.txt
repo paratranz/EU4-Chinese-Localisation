@@ -36,43 +36,43 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Adam Friedrich #0" = 20
-  "Ferdinand #0" = 20
-  "Friedrich #0" = 20
-  "Friedrich Karl #0" = 20
-  "Georg Karl #0" = 20
-  "Julius Echter #0" = 20
-  "Karl Philipp #0" = 20
-  "Konrad Wilhelm #0" = 20
-  "Lorenz #0" = 20
-  "Melchior #0" = 20
-  "Peter Philipp #0" = 20
-  "Philipp Adolf #0" = 20
-  "Siegmund #0" = 20
-  "Otto #2" = 15
-  "Gerhard #1" = 15
-  "Wolfram #1" = 15
-  "Leopold #0" = 15
-  "Heinrich #5" = 10
-  "Poppo #3" = 10
-  "Berthold #2" = 10
-  "Andreas #1" = 10
-  "Dietrich #1" = 10
-  "Friedrich #1" = 10
-  "Alfred #0" = 0
-  "Christian #0" = 0
-  "Jürgen #0" = 0
-  "Regine #0" = -1
-  "Salome #0" = -1
-  "Thora #0" = -1
+  "托菈 #0" = -1  # Thora #0
+  "萨洛梅 #0" = -1  # Salome #0
+  "雷吉内 #0" = -1  # Regine #0
+  "于尔根 #0" = 0  # Jürgen #0
+  "克里斯蒂安 #0" = 0  # Christian #0
+  "阿尔弗雷德 #0" = 0  # Alfred #0
+  "弗里德里希 #1" = 10  # Friedrich #1
+  "迪特里希 #1" = 10  # Dietrich #1
+  "安德烈亚斯 #1" = 10  # Andreas #1
+  "贝特霍尔德 #2" = 10  # Berthold #2
+  "博庞 #3" = 10  # Poppo #3
+  "海因里希 #5" = 10  # Heinrich #5
+  "利奥波德  #0" = 15  # Leopold #0
+  "沃尔弗拉姆 #1" = 15  # Wolfram #1
+  "格哈德 #1" = 15  # Gerhard #1
+  "奥托 #2" = 15  # Otto #2
   "赫尔曼 #2" = 15  # Hermann #2
   "阿尔布雷希特 #3" = 15  # Albrecht #3
+  "西格蒙德 #0" = 20  # Siegmund #0
   "腓力 弗朗茨 #0" = 20  # Philipp Franz #0
+  "腓力 阿道夫 #0" = 20  # Philipp Adolf #0
+  "彼得 菲利浦 #0" = 20  # Peter Philipp #0
+  "梅尔基奥 #0" = 20  # Melchior #0
+  "洛伦茨 #0" = 20  # Lorenz #0
+  "康拉德 威廉 #0" = 20  # Konrad Wilhelm #0
+  "卡尔 腓力 #0" = 20  # Karl Philipp #0
+  "尤利乌斯 赫克托 #0" = 20  # Julius Echter #0
   "约翰  哈特曼 #0" = 20  # Johann Hartmann #0
+  "乔治 卡尔 #0" = 20  # Georg Karl #0
+  "弗里德里希 卡尔 #0" = 20  # Friedrich Karl #0
+  "弗里德里希 #0" = 20  # Friedrich #0
   "弗朗茨 路德维希 #0" = 20  # Franz Ludwig #0
   "弗朗茨 #0" = 20  # Franz #0
+  "斐迪南 #0" = 20  # Ferdinand #0
   "克里斯托夫 弗朗茨 #0" = 20  # Christoph Franz #0
   "安塞尔姆 弗朗茨 #0" = 20  # Anselm Franz #0
+  "亚当 弗里德里希 #0" = 20  # Adam Friedrich #0
   "鲁道夫 #1" = 20  # Rudolf #1
   "戈特弗里德 #3" = 20  # Gottfried #3
   "约翰 菲利普 #0" = 40  # Johann Philipp #0
@@ -81,40 +81,40 @@ monarch_names = {
   "约翰 #0" = 60  # Johann #0
 }
 leader_names = {
-  "Dick"
-  "Sell"
-  "Söll"
-  "Schwager"
-  "Fichtelmann"
-  "Höhrer"
-  "Rank"
-  "Gäbelein"
-  "Bär"
-  "Degen"
-  "Färber"
-  "Simon"
-  "Wirth"
-  "Sack"
-  "Blochberger"
-  "Födisch"
-  "Egelkraut"
-  "Hager"
-  "Hofmann"
+  "狄克"  # Dick
+  "塞尔"  # Sell
+  "索尔"  # Söll
+  "施瓦格尔"  # Schwager
+  "费施泰尔曼"  # Fichtelmann
+  "赫洛尔"  # Höhrer
+  "兰克"  # Rank
+  "格贝莱因"  # Gäbelein
+  "贝尔"  # Bär
+  "德根"  # Degen
+  "费尔伯"  # Färber
+  "西蒙"  # Simon
+  "沃思"  # Wirth
+  "萨克"  # Sack
+  "布洛赫伯格"  # Blochberger
+  "费迪希"  # Födisch
+  "埃格克劳特"  # Egelkraut
+  "哈格尔"  # Hager
+  "霍夫曼"  # Hofmann
 }
 ship_names = {
-  "Marienberg"
-  "Julius Echter"
-  "Main"
-  "Höchberg"
-  "Rimpar"
-  "Biebelried"
-  "Eigelstadt"
-  "Uettingen"
-  "Gramschatz"
-  "Wern"
-  "Bergtheim"
-  "Kietzingen"
-  "Ochsenfurth"
+  "马林贝格"  # Marienberg
+  "尤利乌斯 赫克托"  # Julius Echter
+  "梅因"  # Main
+  "霍赫贝格"  # Höchberg
+  "林帕尔"  # Rimpar
+  "比贝尔里德"  # Biebelried
+  "艾伯尔施塔特"  # Eigelstadt
+  "于廷根"  # Uettingen
+  "格兰沙茨"  # Gramschatz
+  "维恩"  # Wern
+  "贝格特海姆"  # Bergtheim
+  "基钦根"  # Kietzingen
+  "奥森富尔特"  # Ochsenfurth
 }
 army_names = {
   "$PROVINCE$军"  # Armee von $PROVINCE$
