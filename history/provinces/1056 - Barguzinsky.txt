@@ -1,17 +1,15 @@
-owner = BRT
-controller = BRT
-add_core = BRT
+discovered_by = nomad_group
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "巴尔古津"  # Barguzin
-trade_goods = gold
+trade_goods = unknown
 hre = no
 base_tax = 3
 base_production = 3
 base_manpower = 3
-is_city = yes
-discovered_by = nomad_group
-discovered_by = BRT
+native_size = 10
+native_ferocity = 1
+native_hostileness = 3
 1632.1.1 = {
   discovered_by = RUS
 }

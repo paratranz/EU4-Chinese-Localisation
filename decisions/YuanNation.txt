@@ -45,12 +45,10 @@ country_decisions = {
     }
     provinces_to_highlight = {
       OR = {
-        province_id = 688
         province_id = 723
         province_id = 1816
         province_id = 2190
         province_id = 2136
-        province_id = 2171
         AND = {
           culture = mongol
           NOT = {
@@ -59,12 +57,6 @@ country_decisions = {
         }
         AND = {
           culture = oirats
-          NOT = {
-            country_or_non_sovereign_subject_holds = ROOT
-          }
-        }
-        AND = {
-          culture = uyghur
           NOT = {
             country_or_non_sovereign_subject_holds = ROOT
           }
@@ -96,12 +88,10 @@ country_decisions = {
       culture_group = altaic
       is_at_war = no
       stability = 2
-      owns_core_province = 688
       owns_core_province = 723
       owns_core_province = 1816
       owns_core_province = 2190
       owns_core_province = 2136
-      owns_core_province = 2171
       custom_trigger_tooltip = {
         tooltip = subject_all_mongols
         NOT = {
@@ -115,14 +105,6 @@ country_decisions = {
         NOT = {
           any_province = {
             culture = oirats
-            NOT = {
-              country_or_non_sovereign_subject_holds = ROOT
-            }
-          }
-        }
-        NOT = {
-          any_province = {
-            culture = uyghur
             NOT = {
               country_or_non_sovereign_subject_holds = ROOT
             }
@@ -148,6 +130,9 @@ country_decisions = {
       if = {
         limit = {
           has_dlc = "Mandate of Heaven"
+          any_country = {
+            is_emperor_of_china = yes
+          }
         }
         is_emperor_of_china = yes
         else = {

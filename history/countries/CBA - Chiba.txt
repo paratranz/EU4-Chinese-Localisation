@@ -14,6 +14,8 @@ capital = 4190
     dip = 3
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = naive_personality
 }
 1426.7.12 = {
   heir = {
@@ -37,6 +39,9 @@ capital = 4190
     dip = 3
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = just_personality
+  add_ruler_personality = malevolent_personality
 }
 1433.1.1 = {
   heir = {
@@ -61,6 +66,7 @@ capital = 4190
     mil = 1
   }
   clear_scripted_personalities = yes
+  add_ruler_personality = well_advised_personality
 }
 1445.1.8 = {
   heir = {
@@ -84,6 +90,8 @@ capital = 4190
     dip = 1
     mil = 1
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
 }
 1455.9.23 = {
   monarch = {
@@ -94,6 +102,8 @@ capital = 4190
     dip = 4
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = cruel_personality
 }
 1455.9.23 = {
   heir = {
@@ -117,6 +127,8 @@ capital = 4190
     dip = 4
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = cruel_personality
 }
 1459.1.1 = {
   heir = {
@@ -140,6 +152,10 @@ capital = 4190
     dip = 4
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = incorruptible_personality
+  add_ruler_personality = righteous_personality
+  add_ruler_personality = silver_tongue_personality
 }
 1492.3.13 = {
   heir = {
@@ -163,6 +179,9 @@ capital = 4190
     dip = 4
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = scholar_personality
 }
 1521.9.19 = {
   heir = {
@@ -186,6 +205,9 @@ capital = 4190
     dip = 3
     mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = malevolent_personality
 }
 1532.6.24 = {
   heir = {
@@ -209,6 +231,8 @@ capital = 4190
     dip = 2
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
 }
 1546.2.7 = {
   heir = {
@@ -232,6 +256,8 @@ capital = 4190
     dip = 2
     mil = 2
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = malevolent_personality
 }
 1557.8.30 = {
   monarch = {
@@ -240,8 +266,11 @@ capital = 4190
     birth_date = 1527.2.15
     adm = 3
     dip = 3
-    mil = 3
+    mil = 4
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = silver_tongue_personality
+  add_ruler_personality = strict_personality
 }
 1557.8.30 = {
   heir = {
@@ -265,4 +294,6 @@ capital = 4190
     dip = 2
     mil = 3
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = naive_personality
 }

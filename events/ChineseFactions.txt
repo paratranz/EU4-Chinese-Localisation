@@ -2053,13 +2053,14 @@ country_event = {
   }
   option = {
     name = "china_events.38.a"
+    add_corruption = 2
     reduce_bureaucrats_effect = yes
     reduce_meritocracy_large_effect = yes
     add_adm_power = -20
   }
   option = {
     name = "china_events.38.b"
-    add_prestige = -10
+    add_corruption = 2
     reduce_mandate_effect = yes
     if = {
       limit = {

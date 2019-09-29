@@ -324,7 +324,7 @@ tib_slot_3 = {
   }
   has_country_shield = yes
   tib_unite_tibet = {
-    icon = mission_japanese_fort
+    icon = mission_kowtow
     required_missions = {
       tib_unite_west_tibet
       tib_unite_east_tibet
@@ -425,7 +425,7 @@ tib_slot_3 = {
     }
   }
   tib_emperor_of_china = {
-    icon = mission_great_wall
+    icon = mission_asian_city
     required_missions = {
       tib_chinese_reconquest
     }
@@ -493,7 +493,7 @@ tib_slot_3 = {
     }
   }
   tib_tebetan_empire_restored = {
-    icon = mission_indian_stateman
+    icon = mission_scholar_officials
     required_missions = {
       tib_emperor_of_china
       tib_restore_the_pala_kingdom

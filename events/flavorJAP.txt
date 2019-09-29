@@ -704,6 +704,14 @@ country_event = {
   }
   immediate = {
     hidden_effect = {
+      if = {
+        limit = {
+          NOT = {
+            has_country_flag = kirishitan_have_appeared
+          }
+        }
+        set_country_flag = kirishitan_have_appeared
+      }
       random_owned_province = {
         limit = {
           culture_group = japanese_g
@@ -3198,6 +3206,18 @@ country_event = {
     is_subject_of_type = daimyo_vassal
     NOT = {
       has_reform = daimyo
+    }
+    NOT = {
+      has_reform = pirate_republic_reform
+    }
+    NOT = {
+      has_reform = pirate_king_reform
+    }
+    NOT = {
+      has_reform = war_against_the_world_doctrine_reform
+    }
+    NOT = {
+      has_reform = black_market_consortium_reform
     }
   }
   mean_time_to_happen = {

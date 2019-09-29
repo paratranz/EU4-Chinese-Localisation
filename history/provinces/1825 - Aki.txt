@@ -19,10 +19,6 @@ discovered_by = QNG
 1420.1.1 = {
   add_core = OUC
 }
-1466.1.1 = {
-  add_core = MRI
-  remove_core = HSK
-}
 1470.1.1 = {
   owner = OUC
   controller = OUC
@@ -35,6 +31,7 @@ discovered_by = QNG
   controller = MRI
   remove_core = OUC
   remove_core = AMA
+  remove_core = HSK
 }
 1525.1.1 = {
   fort_15th = yes

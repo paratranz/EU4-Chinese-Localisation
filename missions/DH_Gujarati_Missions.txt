@@ -153,10 +153,7 @@ guj_maritime_conquest = {
     trigger = {
       515 = {
         fort_level = 2
-        OR = {
-          has_building = barracks
-          has_building = training_fields
-        }
+        has_manpower_building_trigger = yes
       }
     }
     effect = {
