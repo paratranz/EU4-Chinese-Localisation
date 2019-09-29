@@ -175,7 +175,7 @@ country_event = {
   option = {
     name = "usa_dlc.EVTOPTA4"
     add_country_modifier = {
-      name = articles_of_confederation
+      name = "邦联条例"  # articles_of_confederation
       duration = -1
     }
   }
@@ -418,7 +418,7 @@ country_event = {
   option = {
     name = "usa_dlc.EVTOPTA12"
     add_country_modifier = {
-      name = abolish_slavery
+      name = "废除奴隶制"  # abolish_slavery
       duration = -1
     }
   }
@@ -454,7 +454,7 @@ country_event = {
   option = {
     name = "usa_dlc.EVTOPTA13"
     add_country_modifier = {
-      name = harsh_laws_usa
+      name = "harsh_laws_usa"
       duration = -1
     }
   }
@@ -1448,6 +1448,7 @@ country_event = {
       clr_province_flag = cotton_gin_flag1
       add_province_modifier = {
         name = cotton_gin
+        duration = -1
       }
     }
     random_owned_province = {
@@ -1457,6 +1458,7 @@ country_event = {
       clr_province_flag = cotton_gin_flag2
       add_province_modifier = {
         name = cotton_gin
+        duration = -1
       }
     }
     random_owned_province = {
@@ -1466,6 +1468,7 @@ country_event = {
       clr_province_flag = cotton_gin_flag3
       add_province_modifier = {
         name = cotton_gin
+        duration = -1
       }
     }
   }
