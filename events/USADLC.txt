@@ -175,7 +175,7 @@ country_event = {
   option = {
     name = "usa_dlc.EVTOPTA4"
     add_country_modifier = {
-      name = "邦联条例"  # articles_of_confederation
+      name = "articles_of_confederation"
       duration = -1
     }
   }
@@ -418,7 +418,7 @@ country_event = {
   option = {
     name = "usa_dlc.EVTOPTA12"
     add_country_modifier = {
-      name = "废除奴隶制"  # abolish_slavery
+      name = "abolish_slavery"
       duration = -1
     }
   }
