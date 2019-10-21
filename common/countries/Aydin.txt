@@ -28,15 +28,14 @@ historical_units = {
   persian_rifle
 }
 monarch_names = {
-  "Ilhami #0" = 0
-  "Gamze #0" = -1
-  "Hanife #0" = -1
   "祖拜德 #0" = -1  # Zübeyde #0
   "兹内特 #0" = -1  # Ziynet #0
   "兀木 #0" = -1  # Umut #0
   "莎菲耶 #0" = -1  # Safiye #0
   "拉比耶 #0" = -1  # Rabia #0
   "梅里斯 #0" = -1  # Melis #0
+  "哈乃弗 #0" = -1  # Hanife #0
+  "甘喆 #0" = -1  # Gamze #0
   "哈瓦 #0" = -1  # Havva #0
   "法蒂玛 #0" = -1  # Fatma #0
   "雅瑟敏 #0" = -1  # Yasemin #0
@@ -54,6 +53,7 @@ monarch_names = {
   "凯梅尔 #0" = 0  # Kamer #0
   "伊斯坎德尔 #0" = 0  # Iskender #0
   "易斯哈格 #0" = 0  # Ishak #0
+  "拉米 #0" = 0  # Ilhami #0
   "希齐尔 #0" = 0  # Hizir #0
   "巴耶塞特 #0" = 0  # Bayezid #0
   "阿迪勒 #0" = 0  # Adil #0
@@ -70,7 +70,7 @@ monarch_names = {
 }
 leader_names = {
   "艾芙夏"  # Avsar
-  "Baykurt"
+  "贝库特"  # Baykurt
   "哈里斯"  # Halis
   "曼苏尔"  # Mansur
   "阿来姆达尔"  # Alemdar
@@ -91,7 +91,7 @@ leader_names = {
   "德夫特达尔"  # Defterdar
   "盖迪克"  # Gedik
   "格兹"  # Gazi
-  "Gümülcineli"
+  "古牧辰利"  # Gümülcineli
   "居尔居"  # Gürcü
   "哈德姆"  # Hadim
   "海基姆奥卢"  # Hekimoglu
@@ -103,7 +103,7 @@ leader_names = {
   "卡拉曼利"  # Karamanli
   "柯塞"  # Köse
   "卡拉"  # Kara
-  "Kanijeli"
+  "卡尼吉里"  # Kanijeli
   "科曼克斯"  # Kemankes
   "凯马克"  # Kaymak
   "卡瓦拉里"  # Kavalali
@@ -113,13 +113,13 @@ leader_names = {
   "勒夫基里"  # Lefkeli
   "马尔科奇"  # Malkoç
   "米埃津扎德"  # Müezzinzade
-  "Nevsehirli"
-  "Nisanci"
+  "内塞赫利"  # Nevsehirli
+  "尼塞茨"  # Nisanci
   "奥鲁奇"  # Oruç
   "乌鲁奇"  # Uluç
-  "Osmancikli"
+  "奥斯曼斯克里"  # Osmancikli
   "奥尔林"  # Ohrili
-  "Oflu"
+  "鸥弗"  # Oflu
   "鲁米"  # Rumi
   "皮里"  # Piri
   "帕尔加勒"  # Pargali
@@ -146,8 +146,8 @@ ship_names = {
   "苏莱曼"  # Süleyman
   "卡斯塔莫努"  # Kastamonu
   "托斯亚"  # Tosya
-  "Saraydüzü"
-  "Devrekani"
+  "赛睿杜诅"  # Saraydüzü
+  "迪瑞卡利"  # Devrekani
   "阿格里"  # Agli
   "达达伊"  # Daday
   "勃兹克日"  # Bozkuri
