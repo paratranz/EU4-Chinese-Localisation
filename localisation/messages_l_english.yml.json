@@ -4530,7 +4530,7 @@
     {
         "key": "TORDESILLAS_THEM_3:0",
         "original": "$REGION$",
-        "translation": "$REGION$ 是",
+        "translation": "$REGION$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -4538,7 +4538,7 @@
     {
         "key": "TORDESILLAS_THEM_4:0",
         "original": "is to be the sole domain of",
-        "translation": "$WHO$",
+        "translation": "是该国独占的领土：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -4546,7 +4546,7 @@
     {
         "key": "TORDESILLAS_THEM_5:0",
         "original": "$WHO$",
-        "translation": "独占的领土",
+        "translation": "$WHO$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6546,7 +6546,7 @@
     {
         "key": "SUPPORTHEIR_2:0",
         "original": "$MONARCHTITLE$, diplomats of $WHO$ are now",
-        "translation": "$MONARCHTITLE$，我们已经通知外交官 $WHO$",
+        "translation": "$MONARCHTITLE$，$WHO$的外交官现在",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6562,7 +6562,7 @@
     {
         "key": "SUPPORTHEIR_4:0",
         "original": "to succeed to the throne of",
-        "translation": "从",
+        "translation": "继承该国王位：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6642,7 +6642,7 @@
     {
         "key": "STOPSUPPORTHEIR_2:0",
         "original": "$MONARCHTITLE$, diplomats of $WHO$",
-        "translation": "我们已经通知了外交官$WHO$",
+        "translation": "$MONARCHTITLE$，$WHO$的外交官",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6650,7 +6650,7 @@
     {
         "key": "STOPSUPPORTHEIR_3:0",
         "original": "stopped trying to support their chosen heir",
-        "translation": "已经放弃了支持他们本家族的继承人",
+        "translation": "已停止支持他们选择的继承人",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6658,7 +6658,7 @@
     {
         "key": "STOPSUPPORTHEIR_4:0",
         "original": "to succeed to the throne of",
-        "translation": "继承",
+        "translation": "继承该国王位：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18058,7 +18058,7 @@
     {
         "key": "ROYMARACCEPT_2:0",
         "original": "$MONARCHTITLE$, we entered a",
-        "translation": "$MONARCHTITLE$，我们与$RECIPIENT$",
+        "translation": "$MONARCHTITLE$，我们建立了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18074,7 +18074,7 @@
     {
         "key": "ROYMARACCEPT_4:0",
         "original": "with $RECIPIENT$. Our relations have improved.",
-        "translation": "我们的关系有所改善。",
+        "translation": "与$RECIPIENT$。我们的关系有所改善。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18434,7 +18434,7 @@
     {
         "key": "ROYMARWEACCEPT_2:0",
         "original": "$MONARCHTITLE$, we entered a",
-        "translation": "$MONARCHTITLE$，我们与",
+        "translation": "$MONARCHTITLE$，我们建立了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18442,7 +18442,7 @@
     {
         "key": "ROYMARWEACCEPT_3:0",
         "original": "Royal Marriage",
-        "translation": "$RECIPIENT$",
+        "translation": "王室联姻",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18450,7 +18450,7 @@
     {
         "key": "ROYMARWEACCEPT_4:0",
         "original": "with $RECIPIENT$. Our relations have improved.",
-        "translation": "王室联姻",
+        "translation": "与$RECIPIENT$。我们的关系有所改善。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18466,7 +18466,7 @@
     {
         "key": "ROYMARWEACCEPT_BTN1:0",
         "original": "Great!",
-        "translation": "知道了!",
+        "translation": "太好了！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18474,7 +18474,7 @@
     {
         "key": "ROYMARWEACCEPT_BTN2:0",
         "original": "Great!",
-        "translation": "知道了!",
+        "translation": "太好了！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -19418,7 +19418,7 @@
     {
         "key": "MILALLBANOTHER_3:0",
         "original": "broke their Alliance with",
-        "translation": "撕毁了与",
+        "translation": "撕毁了与该国的盟约：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -19594,7 +19594,7 @@
     {
         "key": "MILALLWEBAN_3:0",
         "original": "broke our Alliance with",
-        "translation": "打破了与",
+        "translation": "打破了与该国的同盟：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22106,7 +22106,7 @@
     {
         "key": "GUARATOOTHER_4:0",
         "original": "now have their independence guaranteed by",
-        "translation": "已经被",
+        "translation": "已经被该国保证独立：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22386,7 +22386,7 @@
     {
         "key": "REVOKEGUARATOOTHER_4:0",
         "original": "has REVOKED their guarantee towards",
-        "translation": "撤消了他们对",
+        "translation": "撤消了他们对该国的独立保证：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38842,7 +38842,7 @@
     {
         "key": "WEDECLWAR_1:0",
         "original": "We declared war on",
-        "translation": "我们对",
+        "translation": "我们对该国宣战：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38930,7 +38930,7 @@
     {
         "key": "DECLWARCOLATT_2:0",
         "original": "declared war on",
-        "translation": "对",
+        "translation": "对该国宣战：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
