@@ -1610,8 +1610,8 @@
     {
         "key": "PRICE_CHANGED_EFF:0",
         "original": "Price of $TYPE|Y$ changes by $EFFECT$ until $DATE|Y$.\\n",
-        "translation": "$TYPE|Y$的价格因$EFFECT$发生变动，这将持续到 $DATE|Y$。\\n",
-        "stage": 5,
+        "translation": "$TYPE|Y$的价格变动$EFFECT$，持续到 $DATE|Y$。\\n",
+        "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
     },
