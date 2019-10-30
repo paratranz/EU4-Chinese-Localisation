@@ -122,8 +122,8 @@
     {
         "key": "papacy_events.5.d:0",
         "original": "Pope Nicholas III erected the passage Passetto di Borgo, which links the Vatican City with the Castel Sant'Angelo in 1277. Many Popes have used it as an escape route when in danger, and now it is the [Root.Monarch.GetTitle] [Root.Monarch.GetName]'s turn! Rome is lost, and the enemy has entered the palace to arrest the [Root.Monarch.GetTitle].",
-        "translation": "教宗尼古拉三世在1277年修建了这条连接梵蒂冈城和圣天使堡的博尔戈通道。历史上许多教宗在身陷危险中时都将这条通道作为逃跑的路线，而现在轮到[Root.Monarch.GetTitle][Root.Monarch.GetName]了！罗马已经沦陷，敌人已经闯入宫殿准备逮捕 [Root.Monarch.GetTitle]。",
-        "stage": 5,
+        "translation": "教宗尼古拉三世在1277年修建了这条连接梵蒂冈城和圣天使堡的博尔戈通道。历史上许多教宗在身陷危险中时都将这条通道作为逃跑的路线，而现在轮到[Root.Monarch.GetTitle][Root.Monarch.GetName]了！罗马已经沦陷，敌人已经闯入宫殿准备逮捕[Root.Monarch.GetTitle]。",
+        "stage": 1,
         "context": null,
         "file": "localisation/common_sense_l_english.yml"
     },
@@ -1730,7 +1730,7 @@
     {
         "key": "devotion_events.11.a:0",
         "original": "We had our doubts about [Root.Heir.GetHerHim], but they are long gone now.",
-        "translation": "我们曾怀疑 [Root.Heir.GetHerHim] ，但他们早已经走了。",
+        "translation": "我们曾怀疑[Root.Heir.GetHerHim]，但他们早已经走了。",
         "stage": 1,
         "context": null,
         "file": "localisation/common_sense_l_english.yml"
