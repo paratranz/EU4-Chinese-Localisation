@@ -36,9 +36,9 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Ortrun #0" = -1
-  "Marianne #0" = -1
-  "Raffaela #0" = -1
+  "拉法埃拉 #0" = -1  # Raffaela #0
+  "玛丽安尼 #0" = -1  # Marianne #0
+  "奥吞 #0" = -1  # Ortrun #0
   "文策尔 #0" = 10  # Wenzel #0
   "鲁普莱希特 #0" = 10  # Ruprecht #0
   "马克西米利安 #0 菲利普" = 10  # Maximilian #0 Philipp
@@ -93,50 +93,50 @@ monarch_names = {
 leader_names = {
   "亚当"  # Adam
   "安戈尔曼"  # Angermann
-  "Appelt"
-  "Arndt"
+  "阿佩尔特"  # Appelt
+  "阿恩特"  # Arndt
   "贝克"  # Beck
   "贝克尔"  # Becker
-  "Bening"
-  "Blasius"
-  "Brilz"
-  "Bröser"
+  "贝宁"  # Bening
+  "布拉修斯"  # Blasius
+  "布里茨"  # Brilz
+  "布胡扎尔"  # Bröser
   "布余特纳"  # Büttner
   "卡尔"  # Carl
   "达姆"  # Dahm
   "德内克"  # Deneke
   "诶克施坦恩"  # Eckstein
-  "Edelmann"
-  "Elsner"
-  "Feil"
+  "伊德尔曼恩"  # Edelmann
+  "埃尔斯纳"  # Elsner
+  "费尔"  # Feil
   "费舍尔"  # Fischer
   "弗兰克"  # Franke
   "基维尔"  # Giewer
   "哈瑟"  # Haase
   "哈弗纳"  # Hafner
   "赫梯尔"  # Hertel
-  "Hirsch"
-  "Höhn"
-  "Kammel"
-  "Keller"
-  "Kessler"
-  "Koeppe"
-  "Kohn"
-  "Krämer"
-  "Kuhn"
-  "Lindner"
-  "Mertesdorf"
-  "Meyer"
-  "Mick"
+  "赫尔施"  # Hirsch
+  "薛恩"  # Höhn
+  "卡梅尔"  # Kammel
+  "凯勒"  # Keller
+  "凯斯勒"  # Kessler
+  "柯珀"  # Koeppe
+  "科恩"  # Kohn
+  "克雷默"  # Krämer
+  "库恩"  # Kuhn
+  "林德纳"  # Lindner
+  "梅尔特斯多夫"  # Mertesdorf
+  "迈耶"  # Meyer
+  "米克"  # Mick
   "穆勒"  # Müller
   "内克尔"  # Necker
   "诺尔"  # Noell
-  "Oelgemöller"
-  "Raabe"
-  "Rainer"
-  "Scharfbillig"
-  "Schave"
-  "Scheler"
+  "乌厄格迈拉"  # Oelgemöller
+  "哈珀"  # Raabe
+  "海纳"  # Rainer
+  "沙尔夫比利希"  # Scharfbillig
+  "沙乌厄"  # Schave
+  "舍勒"  # Scheler
   "施密特"  # Schmitt
   "施奈德"  # Schneider
   "舒曼"  # Schumann
@@ -167,28 +167,28 @@ ship_names = {
   "勃兰登堡太子"  # Churprinz von Brandenburg
   "克莱文舍 林登勃姆"  # Clevesche Lindenbaum
   "雄鹰"  # Der Große Adler
-  "Der Jungste Prinz von Churlandt"
-  "Der Rote Löve"
-  "Die Drey Heringe"
-  "Die Sieben Provinzien"
-  "Drei Heringe"
-  "Engel Gabriel"
-  "Fliegender Drache"
-  "Fliegender Hirsch"
+  "库尔兰的年轻王子"  # Der Jungste Prinz von Churlandt
+  "红狮"  # Der Rote Löve
+  "德雷鲱鱼"  # Die Drey Heringe
+  "七省"  # Die Sieben Provinzien
+  "三鲱鱼"  # Drei Heringe
+  "天使加布里埃"  # Engel Gabriel
+  "飞龙"  # Fliegender Drache
+  "飞鹿"  # Fliegender Hirsch
   "腓特烈 卡尔"  # Friedrich Carl
   "腓特烈大帝"  # Friedrich der Große
-  "Friedrich Wilhelm zu Pferde"
+  "马背上的腓特烈 威廉"  # Friedrich Wilhelm zu Pferde
   "腓特烈 威廉"  # Friedrich Wilhelm
-  "Füchslein"
-  "Gelber Löve"
-  "Goldener Löve"
-  "Grafschaft Mark"
-  "Große Jacht"
-  "Großer Kurfürst"
-  "Grüner Drache"
-  "Herzogtum Cleve"
-  "Jacobus Major"
-  "Jacobus Minor"
+  "小泼妇"  # Füchslein
+  "黄狮"  # Gelber Löve
+  "金狮"  # Goldener Löve
+  "马克伯国"  # Grafschaft Mark
+  "大帆船"  # Große Jacht
+  "大选帝侯"  # Großer Kurfürst
+  "绿龙"  # Grüner Drache
+  "克里夫公国"  # Herzogtum Cleve
+  "大雅各布斯"  # Jacobus Major
+  "小雅各布斯"  # Jacobus Minor
   "Jesus von Lübeck"
   "布道者 约翰尼斯"  # Johannes de Evangelist
   "Jonge Tobias"
@@ -262,8 +262,8 @@ ship_names = {
   "Beowulf"
   "柏林"  # Berlin
   "Bersteinfänger"
-  "Bielefeld"
-  "Blitz"
+  "比勒费尔德"  # Bielefeld
+  "闪电"  # Blitz
   "Blumentopf"
   "Bracke"
   "勃兰登堡"  # Brandenburg
