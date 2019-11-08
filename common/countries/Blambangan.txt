@@ -24,21 +24,7 @@ historical_units = {
   reformed_asian_musketeer
 }
 monarch_names = {
-  "Menak Pentor #0" = 50
-  "Santaguna #0" = 50
-  "Mas Karian #0" = 50
-  "Sunan Tawangalun #0" = 50
-  "Prabhu Tawangalun #0" = 50
-  "Pangeran Pati #0" = 50
-  "Mancanagara #0" = 50
-  "Pangeran Putra #0" = 50
-  "Danuningrat #0" = 50
-  "Pangeran Wilis #0" = 50
-  "Girindrawardhana #0" = 20
-  "Girishawardhana #0" = 20
   "Kertabumi #0" = 20
-  "Kertawijaya #0" = 20
-  "Rajasawardhana #0" = 20
   "Kalagamet #0" = 15
   "Raden Sotor #0" = 10
   "Raden Sumirat #0" = 10
@@ -46,9 +32,6 @@ monarch_names = {
   "Purnamaningrum #0" = -1
   "Koesoemarini #0" = -1
   "Wulan #0" = -1
-  "Amangkurat #0" = -1
-  "Alit #0" = -1
-  "Batang #0" = -1
   "Banawati #0" = -1
   "Dewi Pakungwati #0" = -1
   "Kawunganten #0" = -1
@@ -58,6 +41,9 @@ monarch_names = {
   "般若波罗蜜多 #0" = -1  # Prajnaparamitha #0
   "揭耶陀梨 罗阇巴特尼 #0" = -1  # Gayatri Rajapatni #0
   "特里布瓦纳 #0" = -1  # Tribhuwana #0
+  "巴塘 #0" = -1  # Batang #0
+  "阿力特 #0" = -1  # Alit #0
+  "阿曼古拉 #0" = -1  # Amangkurat #0
   "悉莫 #0" = -1  # Xi Mo #0
   "室利 吉塔尔查 #0" = -10  # Sri Gitarja #0
   "苏希达 #0" = -15  # Suhita #0
@@ -67,39 +53,53 @@ monarch_names = {
   "哈奄 武禄 #0" = 15  # Hayam Wuruk #0
   "毗诃罗摩伐陀那 #0" = 20  # Wikramawardhana #0
   "苏腊帕腊巴瓦 #0" = 20  # Suraprabhawa #0
+  "拉惹娑伐陀那 #0" = 20  # Rajasawardhana #0
+  "珂陀毗阇耶 #0" = 20  # Kertawijaya #0
+  "揭梨娑伐陀那 #0" = 20  # Girishawardhana #0
+  "揭稜他伐陀那 #0" = 20  # Girindrawardhana #0
+  "潘格兰 维利斯 #0" = 50  # Pangeran Wilis #0
+  "丹宁格拉 #0" = 50  # Danuningrat #0
+  "潘格兰 普特拉 #0" = 50  # Pangeran Putra #0
+  "曼卡纳加拉 #0" = 50  # Mancanagara #0
+  "潘格兰 帕泰 #0" = 50  # Pangeran Pati #0
+  "普拉巴 塔瓦嘉兰 #0" = 50  # Prabhu Tawangalun #0
+  "苏南 塔瓦嘉兰 #0" = 50  # Sunan Tawangalun #0
+  "马斯 卡里安 #0" = 50  # Mas Karian #0
+  "桑塔古纳 #0" = 50  # Santaguna #0
+  "梅纳 科蓬多 #0" = 50  # Menak Pentor #0
 }
 leader_names = {
   "Hamengku"
-  "Agung"
+  "阿贡"  # Agung
   "士拉末"  # Slamet
   "布第"  # Budi
-  "Harto"
-  "Karno"
-  "Wani"
-  "Mas"
+  "哈尔托"  # Harto
+  "卡尔诺"  # Karno
+  "瓦尼"  # Wani
+  "马斯"  # Mas
   "Kencono"
-  "Ratri"
+  "拉特莉"  # Ratri
 }
 ship_names = {
-  "Pendet"
-  "Legong"
-  "Baris"
-  "Topeng"
-  "Barong"
-  "Kecak"
-  "Batur"
-  "Catur"
-  "Bratan"
+  "迎宾舞"  # Pendet
+  "蕾贡舞"  # Legong
+  "勇士舞"  # Baris
+  "面具舞"  # Topeng
+  "巴龙舞"  # Barong
+  "克差舞"  # Kecak
+  "巴杜尔山"  # Batur
+  "卡图尔山"  # Catur
+  "柏拉丹湖"  # Bratan
   "Pohen"
   "Lesong"
   "Sangyang"
-  "Batukaru"
+  "巴吐卡鲁山"  # Batukaru
   "Patas"
-  "Musi"
+  "穆西河"  # Musi
   "Mesehe"
-  "Agong"
-  "Seraya"
-  "Merbuk"
-  "Sanglang"
+  "亚贡河"  # Agong
+  "娑罗双木"  # Seraya
+  "鸠鸟"  # Merbuk
+  "双弄"  # Sanglang
   "Kelatakan"
 }

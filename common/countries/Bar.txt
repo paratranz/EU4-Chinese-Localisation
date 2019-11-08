@@ -32,9 +32,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Theobald #2" = 10
-  "Jean #0" = 10
-  "Léopold #0 Clément" = 5
   "约兰德 #0" = -10  # Yolande #0
   "玛格丽特 #0" = -1  # Marguerite #0
   "安妮 #0" = -1  # Anne #0
@@ -52,14 +49,17 @@ monarch_names = {
   "查尔斯 #1 亨利" = 5  # Charles #1 Henri
   "查尔斯 #1 斐迪南" = 5  # Charles #1 Ferdinand
   "鲁道夫 #0" = 5  # Rodolphe #0
+  "利奥波德 #0 克莱蒙特" = 5  # Léopold #0 Clément
   "斐迪南 菲利普 #0" = 5  # Ferdinand Philippe #0
   "克劳德 #0" = 5  # Claude #0
   "利奥波德 #0" = 10  # Léopold #0
   "尼古拉斯 #0" = 10  # Nicholas #0
   "安东尼 #0" = 10  # Antoine #0
+  "让 #0" = 10  # Jean #0
   "查理 #0" = 10  # Charles #0
   "菲利普 #0" = 10  # Philippe #0
   "弗朗索瓦 #0" = 10  # François #0
+  "提奥巴尔德 #2" = 10  # Theobald #2
   "雷金纳德 #2" = 10  # Reginald #2
   "狄奥多里克 #2" = 10  # Theodoric #2
   "蒂埃里 #1" = 10  # Thierry #1
@@ -71,79 +71,79 @@ monarch_names = {
   "罗伯特 #1" = 55  # Robert #1
 }
 leader_names = {
-  "d'Ambleteuse"
-  "d'Aulnay"
-  "de Beauharnais"
-  "de Bercy"
-  "de Béthune"
-  "de Boissieu"
-  "de Bonnefoy"
-  "de Bonneuil"
-  "du Bosquet"
-  "de la Bretonnière"
+  "德 昂布勒特斯"  # d'Ambleteuse
+  "德 欧奈"  # d'Aulnay
+  "德 博阿尔内"  # de Beauharnais
+  "德 贝西"  # de Bercy
+  "德 贝蒂讷"  # de Béthune
+  "德 布瓦西厄"  # de Boissieu
+  "德 博纳富瓦"  # de Bonnefoy
+  "德 博纳伊"  # de Bonneuil
+  "杜 博斯凯"  # du Bosquet
+  "德 拉 波托涅尔"  # de la Bretonnière
   "德 布罗意"  # de Broglie
-  "de Castaing"
-  "de Caumartin"
-  "de Chambly"
-  "de Chambronne"
-  "de Champmartin"
-  "de Chevigny"
-  "des Coulons"
-  "de Crèvecoeur"
-  "de Crussol"
-  "de Dampierre"
-  "Desgouttes"
-  "Duquesne"
-  "des Ecures"
-  "d'Entraigues"
-  "d'Estrées"
-  "du Fournay"
-  "de Galard"
-  "des Herbiers"
-  "de La Barthe"
-  "de La Ferrandie"
-  "de La Galissonière"
-  "de La Mothe"
-  "de La Motte d'Airan"
-  "de La Porte"
-  "Le Tellier"
-  "de Lhéry"
-  "de Luynes"
-  "de Marguerye"
-  "de Maurepas"
-  "de Neufchâtel"
-  "d'Ornano"
-  "de Pellefort"
-  "de Richemont"
-  "de Rochechouart"
-  "de Rochemaure"
-  "de Rieu"
-  "de Saint Chamond"
-  "de Saint Esprit"
-  "de Saint Germain"
-  "de Saint Omer"
-  "de Siorac"
-  "de Tocqueville"
-  "de la Tour d'Auvergne"
-  "de Tréville"
-  "d'Usson"
+  "德 卡斯坦"  # de Castaing
+  "德 柯马丁"  # de Caumartin
+  "德 尚布利"  # de Chambly
+  "德 尚布隆尼"  # de Chambronne
+  "德 尚普马丁"  # de Champmartin
+  "德 舍维尼"  # de Chevigny
+  "德 科隆斯"  # des Coulons
+  "德 克雷夫科尔"  # de Crèvecoeur
+  "德 克吕索尔"  # de Crussol
+  "德 当皮埃尔"  # de Dampierre
+  "德古特"  # Desgouttes
+  "迪凯纳"  # Duquesne
+  "德 埃屈尔"  # des Ecures
+  "德 恩特莱奎斯"  # d'Entraigues
+  "德 埃斯特雷"  # d'Estrées
+  "杜 富瓦内"  # du Fournay
+  "德 加拉尔"  # de Galard
+  "德 塞比耶"  # des Herbiers
+  "德 拉 巴特"  # de La Barthe
+  "德 拉 弗朗蒂"  # de La Ferrandie
+  "德 拉 加利索尼埃"  # de La Galissonière
+  "德 拉 莫特"  # de La Mothe
+  "德 拉 莫特 德埃兰"  # de La Motte d'Airan
+  "德 拉 波尔特"  # de La Porte
+  "勒 泰利耶"  # Le Tellier
+  "德 耶里"  # de Lhéry
+  "德 吕内"  # de Luynes
+  "德 马尔盖耶"  # de Marguerye
+  "德 莫勒帕"  # de Maurepas
+  "德 讷沙泰勒"  # de Neufchâtel
+  "德 奥纳诺"  # d'Ornano
+  "德 皮勒耶福"  # de Pellefort
+  "德 里什蒙"  # de Richemont
+  "德 罗什舒瓦尔"  # de Rochechouart
+  "德 罗什莫尔"  # de Rochemaure
+  "德 里欧"  # de Rieu
+  "德 圣 沙蒙"  # de Saint Chamond
+  "德 圣埃斯普利特"  # de Saint Esprit
+  "德 圣日尔曼"  # de Saint Germain
+  "德 圣奥梅尔"  # de Saint Omer
+  "德 西奥拉克"  # de Siorac
+  "德 托克维尔"  # de Tocqueville
+  "德 拉图尔 德奥弗涅"  # de la Tour d'Auvergne
+  "德 特雷维尔"  # de Tréville
+  "德 于松"  # d'Usson
   "德 瓦伦丁"  # du Valentinois
-  "de Vergennes"
-  "de Vibien"
-  "de Vigny"
+  "德 韦尔热纳"  # de Vergennes
+  "德 维比安"  # de Vibien
+  "德 维尼"  # de Vigny
   "德 维尔纳夫"  # de Villeneuve
 }
 ship_names = {
-  "Emperor Lothar"
-  "Lotharingen"
-  "Rene II Lothringen"
-  "Barrois"
-  "Metz"
-  "Toul"
+  "洛萨大帝"  # Emperor Lothar
+  "洛林"  # Lotharingen
+  "勒内 II 洛林"  # Rene II Lothringen
+  "巴鲁瓦"  # Barrois
+  "梅斯"  # Metz
+  "图勒"  # Toul
   "凡尔登"  # Verdun
-  "Warding"
-  "Skirmjan"
-  "Bera"
+  "瓦丁"  # Warding
+  "击剑"  # Skirmjan
+  "贝拉"  # Bera
   "Scoc"
   "Sekjan"
 }
