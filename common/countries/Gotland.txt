@@ -31,21 +31,18 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Chris #0" = 20
-  "Petter #0" = 20
-  "Rikard #0" = 20
   "Carmille #0" = -10
-  "Joakim #0" = 10
-  "Zack #0" = 10
-  "Pierre #0" = 10
   "Céline #0" = -10
-  "Patric #0" = 5
-  "Nina #0" = -5
+  "皮埃尔 #0" = 10  # Pierre #0
+  "扎克 #0" = 10  # Zack #0
+  "约阿基姆" = 10  # Joakim #0
+  "尼纳" = -5  # Nina #0
   "比约恩 #0" = 5  # Björn #0
   "斯特凡 #0" = 5  # Stefan #0
   "维克多 #0" = 2  # Viktor #0
   "亚当 #0" = 5  # Adam #0
   "本都 #0" = 5  # Pontus #0
+  "帕特里克 #0" = 5  # Patric #0
   "帝汶 #0" = 5  # Timor #0
   "德里克斯 #0" = 5  # Drikus #0
   "约阿希姆 #0" = 5  # Joachim #0
@@ -67,6 +64,7 @@ monarch_names = {
   "卡斯滕 #0" = 20  # Carsten #0
   "古斯塔夫 #0" = 20  # Gustav #0
   "吉米 #0" = 20  # Jimmy #0
+  "里卡德 #0" = 20  # Rikard #0
   "艾琳 #0" = -20  # Aline #0
   "彼得 #0" = 10  # Peter #0
   "大卫 #0" = 20  # David #0
@@ -79,21 +77,23 @@ monarch_names = {
   "丹尼尔 #0" = 30  # Daniel #0
   "丹 #0" = 20  # Dan #0
   "瑞卡德 #0" = 20  # Rickard #0
+  "皮特 #0" = 20  # Petter #0
   "马丁 #0" = 20  # Martin #0
   "奥洛夫 #0" = 20  # Olof #0
   "亨里克 #0" = 50  # Henrik #0
   "托马斯 #0" = 40  # Thomas #0
+  "克里斯 #0" = 20  # Chris #0
   "弗雷德里克 #0" = 40  # Fredrik #0
   "约翰 #0" = 40  # Johan #0
 }
 leader_names = {
   "安德森"  # Andersson
-  "Andreasson"
+  "安德烈松"  # Andreasson
   "安瓦尔德"  # Anward
-  "Backlund"
+  "贝克伦德"  # Backlund
   "巴兰坦"  # Ballantyne
   "Bergqwist"
-  "Berni"
+  "贝尔尼"  # Berni
   "布加纳胡德"  # Bjarnehed
   "比约尔克"  # Björk
   "博尔加"  # Borg
@@ -105,12 +105,12 @@ leader_names = {
   "菲利斯"  # Fåhraeus
   "Gidfors"
   "Gladh"
-  "Hansson"
+  "汉斯松"  # Hansson
   "Hesselborn"
   "Holmgren"
-  "Isaksson"
-  "Jakobsson"
-  "Jensen"
+  "艾萨克松"  # Isaksson
+  "雅各布松"  # Jakobsson
+  "延森"  # Jensen
   "约翰逊"  # Johansson
   "约翰内松"  # Johannesson
   "Khanagov"
@@ -124,13 +124,13 @@ leader_names = {
   "伦斯坦"  # Lerström
   "林德"  # Lind
   "Mannetje"
-  "Millen"
-  "Nicholson"
+  "米伦"  # Millen
+  "尼科尔松"  # Nicholson
   "诺力维克"  # Norrevik
-  "Olsson"
+  "奥尔松"  # Olsson
   "帕勒姆奎斯特"  # Palmqvist
   "罗德里格斯"  # Rodriguez
-  "Ropert"
+  "罗佩特"  # Ropert
   "Rönn"
   "Sarell"
   "Schießl"
@@ -140,10 +140,10 @@ leader_names = {
   "覃裴尔"  # Tammpere
   "老虎"  # Tiger
   "托尔"  # Toll
-  "Tolman"
+  "托尔曼"  # Tolman
   "Tronde"
   "Thulin"
-  "Zetterman"
+  "扎特曼"  # Zetterman
   "威尔贝格"  # Villberg
   "艾贝格"  # Åberg
   "Åslund"
@@ -158,9 +158,9 @@ ship_names = {
   "Klintehamn"
   "Hoburgen"
   "Katthamra"
-  "Drake"
+  "德雷克"  # Drake
   "Ljugarn"
-  "Slite"
+  "斯利特"  # Slite
   "Västergarn"
-  "Visby"
+  "维斯比"  # Visby
 }
