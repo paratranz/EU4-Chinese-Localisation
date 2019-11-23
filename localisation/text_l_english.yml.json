@@ -58570,7 +58570,7 @@
     {
         "key": "COUNTRY_HISTORY_BATTLE_2:0",
         "original": "The most decisive battle of the war was when $ATTACKER_SIZE$ men, led by the $ATTACKER$ $ATTACKING_COMMANDER$, $ATTACKER_RESULT$ attacking the $DEFENDER_SIZE$ men strong $DEFENDER$ army, led by $DEFENDING_COMMANDER$, who $DEFENDER_RESULT$.",
-        "translation": "这场战争中最具决定性的一次战斗中$ATTACKER$军$ATTACKING_COMMANDER$统领下的$ATTACKER_SIZE$兵马$ATTACKER_RESULT$地攻击了$DEFENDER$军$DEFENDING_COMMANDER$统领下的$DEFENDER_SIZE$兵马，防御方$DEFENDER_RESULT$。",
+        "translation": "这场战争中最具决定性的一次战斗中$ATTACKER$军$ATTACKING_COMMANDER$统领下的$ATTACKER_SIZE$兵马攻击了$DEFENDER$军$DEFENDING_COMMANDER$统领下的$DEFENDER_SIZE$兵马，进攻方$ATTACKER_RESULT$，防御方$DEFENDER_RESULT$。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -58578,7 +58578,7 @@
     {
         "key": "COUNTRY_HISTORY_BATTLE_3:0",
         "original": "The war was practically decided when $ATTACKING_COMMANDER$ fought $DEFENDING_COMMANDER$ in the Battle of $NAME$. $ATTACKER_SIZE$ $ATTACKER$ soldiers $ATTACKER_RESULT$ while fighting the $DEFENDER_SIZE$ $DEFENDER$ soldiers $DEFENDER_RESULT$.",
-        "translation": "战争的转折点是$NAME$之战，$ATTACKING_COMMANDER$与$DEFENDING_COMMANDER$对决。$ATTACKER$军的$ATTACKER_SIZE$兵马$ATTACKER_RESULT$地攻击了$DEFENDER$军的$DEFENDER_SIZE$兵马，防御方$DEFENDER_RESULT$。",
+        "translation": "战争的转折点是$NAME$之战，$ATTACKING_COMMANDER$与$DEFENDING_COMMANDER$对决。$ATTACKER$军的$ATTACKER_SIZE$兵马攻击了$DEFENDER$军的$DEFENDER_SIZE$兵马，进攻方$ATTACKER_RESULT$，防御方$DEFENDER_RESULT$。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -58586,7 +58586,7 @@
     {
         "key": "COUNTRY_HISTORY_BATTLE_4:0",
         "original": "Historians talk about how the $ATTACKER$ fought the $DEFENDER$ in the Battle of $NAME$, led by the $ATTACKER$ $ATTACKING_COMMANDER$, $ATTACKER_RESULT$ fighting the $DEFENDER_SIZE$ men strong $DEFENDER$ army, led by $DEFENDING_COMMANDER$, who $DEFENDER_RESULT$.",
-        "translation": "历史学家们点评了$ATTACKER$是如何在$NAME$战役中与$DEFENDER$作战的。$ATTACKER$军在$ATTACKING_COMMANDER$率领下$ATTACKER_RESULT$地攻击了$DEFENDING_COMMANDER$领导下的$DEFENDER_SIZE$$DEFENDER$军，防御方$DEFENDER_RESULT$。",
+        "translation": "历史学家们点评了$ATTACKER$是如何在$NAME$战役中与$DEFENDER$作战的。$ATTACKER$军在$ATTACKING_COMMANDER$率领下攻击了$DEFENDING_COMMANDER$领导下的$DEFENDER_SIZE$$DEFENDER$军，进攻方$ATTACKER_RESULT$，防御方$DEFENDER_RESULT$。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -58602,7 +58602,7 @@
     {
         "key": "COUNTRY_HISTORY_BATTLE_D_NO_COMMANDER:0",
         "original": "The most decisive battle of the war was when $ATTACKER_SIZE$ men, led by the $ATTACKER$ $ATTACKING_COMMANDER$, $ATTACKER_RESULT$ attacking the $DEFENDER_SIZE$ men strong $DEFENDER$ army, who $DEFENDER_RESULT$.",
-        "translation": "这场战争中最具决定性的一次战斗是$ATTACKING_COMMANDER$统领下的$ATTACKER_SIZE$$ATTACKER$军$ATTACKER_RESULT$地攻击了$DEFENDER$军的$DEFENDER_SIZE$兵马，防御方$DEFENDER_RESULT$。",
+        "translation": "这场战争中最具决定性的一次战斗是$ATTACKING_COMMANDER$统领下的$ATTACKER_SIZE$$ATTACKER$军攻击了$DEFENDER$军的$DEFENDER_SIZE$兵马，进攻方$ATTACKER_RESULT$，防御方$DEFENDER_RESULT$。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -58666,7 +58666,7 @@
     {
         "key": "HEAVY_LOSSES:0",
         "original": "lost most of their forces",
-        "translation": "损失了他们的主力军",
+        "translation": "损失了他们的主力",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -58674,7 +58674,7 @@
     {
         "key": "SOME_LOSSES:0",
         "original": "suffered some losses",
-        "translation": "损失了一部分部队",
+        "translation": "遭受了一些损失",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
