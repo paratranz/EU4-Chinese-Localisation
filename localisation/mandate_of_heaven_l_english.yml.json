@@ -3090,7 +3090,7 @@
     {
         "key": "celestial_empire_events.1.t:1",
         "original": "The End of the [From.GetAdjective] [From.GovernmentName]",
-        "translation": "[From.GetAdjective] [From.GovernmentName]的末路",
+        "translation": "[From.GetAdjective][From.GovernmentName]的末路",
         "stage": 1,
         "context": null,
         "file": "localisation/mandate_of_heaven_l_english.yml"
@@ -3098,8 +3098,8 @@
     {
         "key": "celestial_empire_events.1.d:1",
         "original": "With the fall of [From.Capital.GetCapitalName] the last remnants of the Empire of China have been crushed. The Mandate of Heaven and the ancient Confucian administration are now clearly seen as defunct concepts and the scholar gentry as a class will have to evolve into something else or perish.\\nThough the memory of the Empire will live for some time the [Root.GovernmentName] of [Root.GetName] will forever be remembered as the destroyers of the last [From.Monarch.GetTitle].",
-        "translation": "随着[From.Capital.GetCapitalName]的沦陷，中华帝国的最后残部已被粉碎。天命与古老的儒家统治，现均已被视为废弃的观念；曾作为上等人的士绅不得不转为其他阶级，否则就将消亡于世间。\\n尽管帝国的往事依然会在未来的某时被人缅怀，但[Root.GetName]的[Root.GovernmentName]将作为末代[From.Monarch.GetTitle]的推翻者被永世铭记。",
-        "stage": 5,
+        "translation": "随着[From.Capital.GetCapitalName]的沦陷，中华帝国的最后残部已被粉碎。天命与古老的儒家统治，现均已被视为废弃的观念；曾作为上等人的士绅不得不转为其他阶级，否则就将消亡于世间。\\n尽管帝国的往事依然会在未来的某时被人缅怀，但[Root.GetName][Root.GovernmentName]将作为末代[From.Monarch.GetTitle]的推翻者被永世铭记。",
+        "stage": 1,
         "context": null,
         "file": "localisation/mandate_of_heaven_l_english.yml"
     },
