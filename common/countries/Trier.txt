@@ -32,24 +32,24 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Clemens #0" = 0
-  "Denis #0" = 0
-  "Eckhard #0" = 0
-  "Ernst #0" = 0
-  "Florian #0" = 0
-  "Gregor #0" = 0
-  "Guntram #0" = 0
-  "Helmfried #0" = 0
-  "Jürgen #0" = 0
-  "Martin #0" = 0
-  "Maximilian #0" = 0
-  "Michael #0" = 0
-  "Rainer #0" = 0
-  "Siegert #0" = 0
-  "Siegmund #0" = 0
-  "Kasimira #0" = -1
-  "Lydia #0" = -1
-  "Nicola #0" = -1
+  "尼科拉 #0" = -1  # Nicola #0
+  "吕底亚 #0" = -1  # Lydia #0
+  "卡西米拉 #0" = -1  # Kasimira #0
+  "西格蒙德 #0" = 0  # Siegmund #0
+  "西格特 #0" = 0  # Siegert #0
+  "莱纳 #0" = 0  # Rainer #0
+  "迈克尔 #0" = 0  # Michael #0
+  "马克西米利安 #0" = 0  # Maximilian #0
+  "马丁 #0" = 0  # Martin #0
+  "于尔根 #0" = 0  # Jürgen #0
+  "赫尔姆弗里德 #0" = 0  # Helmfried #0
+  "贡特拉姆 #0" = 0  # Guntram #0
+  "格雷戈尔 #0" = 0  # Gregor #0
+  "弗洛里安 #0" = 0  # Florian #0
+  "恩斯特 #0" = 0  # Ernst #0
+  "埃克哈德 #0" = 0  # Eckhard #0
+  "丹尼斯 #0" = 0  # Denis #0
+  "克莱门斯 #0" = 0  # Clemens #0
   "布鲁诺 #0" = 0  # Bruno #0
   "巴尔德尔 #0" = 0  # Baldur #0
   "安德烈亚斯 #0" = 0  # Andreas #0
@@ -77,40 +77,40 @@ monarch_names = {
   "约翰 #1" = 100  # Johann #1
 }
 leader_names = {
-  "Backes"
-  "Corgell"
-  "Dahnfels"
-  "Feltes"
-  "Haerig"
-  "Hecker"
-  "Herrich"
-  "Kettler"
-  "Lohmann"
-  "Longnich"
-  "Pinkernell"
-  "Schmitt"
-  "Tristant"
-  "Wellner"
-  "Zimmer"
+  "巴克斯"  # Backes
+  "科尔吉"  # Corgell
+  "丹费尔兹"  # Dahnfels
+  "费尔特斯"  # Feltes
+  "海里希"  # Haerig
+  "赫克尔"  # Hecker
+  "赫尔里希"  # Herrich
+  "凯特勒"  # Kettler
+  "洛赫曼恩"  # Lohmann
+  "朗格尼希"  # Longnich
+  "平克内尔"  # Pinkernell
+  "施密特"  # Schmitt
+  "特里斯坦"  # Tristant
+  "魏尔纳"  # Wellner
+  "兹马尔"  # Zimmer
 }
 ship_names = {
-  "Schweich"
-  "Kenn"
-  "Longuich"
-  "Mertesdorf"
-  "Kasel"
-  "Waldrach"
-  "Morscheid"
-  "Korlingen"
-  "Gusterath"
-  "Hockweiler"
-  "Igel"
-  "Aach"
-  "Newel"
-  "Kordel"
-  "Zemmer"
+  "施魏希"  # Schweich
+  "克恩"  # Kenn
+  "隆古伊希"  # Longuich
+  "梅尔特斯多夫"  # Mertesdorf
+  "卡瑟尔"  # Kasel
+  "瓦尔塔赫"  # Waldrach
+  "莫尔沙伊德"  # Morscheid
+  "科尔林根"  # Korlingen
+  "古斯特拉特"  # Gusterath
+  "霍克韦勒"  # Hockweiler
+  "猬"  # Igel
+  "阿赫"  # Aach
+  "内韦尔"  # Newel
+  "科尔德尔"  # Kordel
+  "策梅尔"  # Zemmer
 }
 army_names = {
-  "Erzbischofliche Garde"
+  "大主教近卫队"  # Erzbischofliche Garde
   "$PROVINCE$军"  # Armee von $PROVINCE$
 }
