@@ -30,9 +30,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Edgard #0" = 0
-  "Onesime #0" = 0
-  "Orland #0" = 0
   "玛丽 #0" = -1  # Marie #0
   "布兰奇 #0" = -1  # Blanche #0
   "伊莎贝尔 #0" = -1  # Isabelle #0
@@ -52,6 +49,8 @@ monarch_names = {
   "鲁道夫 #0" = 0  # Rodolphe #0
   "拉斐尔 #0" = 0  # Raphael #0
   "皮埃尔 #0" = 0  # Pierre #0
+  "奥赫兰 #0" = 0  # Orland #0
+  "欧尼西慕 #0" = 0  # Onesime #0
   "马克 #0" = 0  # Marc #0
   "约海姆 #0" = 0  # Joachim #0
   "热罗姆 #0" = 0  # Jérôme #0
@@ -63,6 +62,7 @@ monarch_names = {
   "弗朗索瓦 #0" = 0  # François #0
   "埃弗拉德 #0" = 0  # Evrard #0
   "埃蒂安 #0" = 0  # Étienne #0
+  "埃德加 #0" = 0  # Edgard #0
   "科内利斯 #0" = 0  # Cornelis #0
   "克里斯蒂安 #0" = 0  # Christian #0
   "奥古斯丁 #0" = 0  # Augustin #0
@@ -81,45 +81,45 @@ monarch_names = {
   "纪尧姆 #2" = 40  # Guillaume #2
 }
 leader_names = {
-  "de Cuire"
-  "du Trieux"
-  "de Freest"
-  "Waerseggers"
-  "Brouckaert"
-  "d'Avesnes"
+  "德 居耶"  # de Cuire
+  "德 特里约"  # du Trieux
+  "德 弗里斯特"  # de Freest
+  "瓦西盖奥斯"  # Waerseggers
+  "布卢加埃特"  # Brouckaert
+  "德 阿韦讷"  # d'Avesnes
   "德 鲁西"  # de Roucy
   "德 那慕尔"  # de Namur
-  "Galindez"
-  "Liderie"
-  "van Bylandt"
-  "van Dinther"
-  "van Heerdt"
-  "van Heiden"
-  "van Hogendorp"
-  "van Lynden"
-  "van Oberndorff"
-  "von Ranzow"
-  "von Rechteren"
-  "von Quadt"
+  "加林德兹"  # Galindez
+  "里德希"  # Liderie
+  "范 拜兰特"  # van Bylandt
+  "范 丁特尔"  # van Dinther
+  "范 希尔特"  # van Heerdt
+  "范 海登"  # van Heiden
+  "范 霍亨多尔"  # van Hogendorp
+  "范 林登"  # van Lynden
+  "范 奥本多夫"  # van Oberndorff
+  "冯 朗佐"  # von Ranzow
+  "冯 雷希特伦"  # von Rechteren
+  "冯 夸特"  # von Quadt
 }
 ship_names = {
-  "Reginar I"
-  "Sigard"
-  "Reginar II"
-  "Godfrey"
-  "Reginar III"
-  "Richar"
-  "Reginald"
-  "Godfrey II"
-  "Herman"
-  "Amalric"
-  "Warin"
-  "Arnulf"
-  "Baldvin I"
-  "Baldvin II"
+  "雷吉纳尔 I"  # Reginar I
+  "希加尔"  # Sigard
+  "雷吉纳尔 II"  # Reginar II
+  "戈弗雷"  # Godfrey
+  "雷吉纳尔 III"  # Reginar III
+  "里夏尔"  # Richar
+  "雷吉纳德"  # Reginald
+  "戈弗雷 II"  # Godfrey II
+  "赫尔曼"  # Herman
+  "阿玛里克"  # Amalric
+  "瓦林"  # Warin
+  "阿努尔夫"  # Arnulf
+  "鲍德温 I"  # Baldvin I
+  "鲍德温 II"  # Baldvin II
 }
 army_names = {
-  "Leger van $PROVINCE$"
+  "$PROVINCE$军"  # Leger van $PROVINCE$
 }
 fleet_names = {
   "$PROVINCE$舰队"  # Vloot van $PROVINCE$
