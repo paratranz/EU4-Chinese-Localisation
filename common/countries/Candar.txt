@@ -28,34 +28,33 @@ historical_units = {
   persian_rifle
 }
 monarch_names = {
-  "Adil #1" = 20
-  "Isa #0" = 10
-  "Kamer #0" = 0
-  "Kasim #0" = 0
-  "Korkud #0" = 0
-  "Ömer #0" = 0
-  "Aydin #0" = 0
-  "Zeyneb #0" = -1
-  "Emine #0" = -1
-  "Halime #0" = -1
-  "Havva #0" = -1
-  "Gamze #0" = -1
-  "Hanife #0" = -1
-  "Melis #0" = -1
-  "Umut #0" = -1
-  "Ziynet #0" = -1
-  "Zübeyde #0" = -1
+  "祖拜德 #0" = -1  # Zübeyde #0
+  "兹内特 #0" = -1  # Ziynet #0
+  "兀木 #0" = -1  # Umut #0
   "莎菲耶 #0" = -1  # Safiye #0
   "拉比娅 #0" = -1  # Rabia #0
+  "梅里斯 #0" = -1  # Melis #0
+  "哈尼斐 #0" = -1  # Hanife #0
+  "加姆泽 #0" = -1  # Gamze #0
+  "哈瓦 #0" = -1  # Havva #0
+  "哈利玛 #0" = -1  # Halime #0
   "哈提杰 #0" = -1  # Hatice #0
+  "艾米内 #0" = -1  # Emine #0
+  "齐内卜 #0" = -1  # Zeyneb #0
   "胡赛因 #0" = 0  # Hüseyin #0
   "哈桑 #0" = 0  # Hasan #0
   "达吾德 #0" = 0  # Davud #0
   "伊斯坎德尔 #0" = 0  # Iskender #0
+  "艾丁 #0" = 0  # Aydin #0
   "优素福 #0" = 5  # Yusuf #0
   "雅库布 #0" = 5  # Yakub #0
   "赛义夫丁 #0" = 0  # Seyfettin #0
+  "欧麦尔 #0" = 0  # Ömer #0
+  "科尔库特 #0" = 0  # Korkud #0
+  "卡西姆 #0" = 0  # Kasim #0
+  "凯梅尔 #0" = 0  # Kamer #0
   "易斯哈格 #0" = 0  # Ishak #0
+  "伊萨 #0" = 10  # Isa #0
   "穆萨 #0" = 10  # Musa #0
   "阿卜杜勒麦济德 #0" = 10  # Abdulmecid #0
   "穆罕默德 #0" = 10  # Mehmed #0
@@ -64,14 +63,15 @@ monarch_names = {
   "阿里 #0" = 10  # Ali #0
   "伊斯凡迪亚尔 #0" = 20  # Isfendiyar #0
   "巴耶济德 #1" = 20  # Bayezid #1
+  "阿迪勒 #1" = 20  # Adil #1
   "易卜拉欣 #1" = 30  # Ibrahim #1
   "苏莱曼 #1" = 30  # Süleyman #1
   "帖木儿 亚曼 詹达尔 #1" = 20  # Temür Yaman Candar #1
 }
 leader_names = {
-  "Alemdar"
-  "Amasyali"
-  "Ayas"
+  "阿来姆达尔"  # Alemdar
+  "阿马西亚勒"  # Amasyali
+  "阿亚斯"  # Ayas
   "巴里"  # Bali
   "巴巴洛斯"  # Barbaros
   "拜拉姆"  # Bayram
@@ -82,57 +82,57 @@ leader_names = {
   "切尔克斯"  # Çerkes
   "济万"  # Civan
   "楚哈达尔"  # Çuhadar
-  "Damad"
-  "Dervis"
-  "Defterdar"
-  "Gedik"
-  "Gazi"
-  "Gümülcineli"
-  "Gürcü"
-  "Hadim"
-  "Hekimoglu"
-  "Hersekli"
-  "Köprülü"
+  "达马德"  # Damad
+  "德尔维什"  # Dervis
+  "迪夫塔达尔"  # Defterdar
+  "盖迪克"  # Gedik
+  "加齐"  # Gazi
+  "居米尔吉内利"  # Gümülcineli
+  "居尔居"  # Gürcü
+  "哈德姆"  # Hadim
+  "赫基摩戈卢"  # Hekimoglu
+  "黑塞科利"  # Hersekli
+  "科普鲁律"  # Köprülü
   "凯末尔"  # Kemal
   "库楚克"  # Küçük
-  "Koca"
-  "Karamanli"
-  "Köse"
-  "Kara"
-  "Kanijeli"
-  "Kemankes"
-  "Kaymak"
-  "Kavalali"
-  "Ishak"
-  "Izzed"
-  "Lala"
-  "Lefkeli"
-  "Malkoç"
-  "Müezzinzade"
-  "Nevsehirli"
-  "Nisanci"
-  "Oruç"
-  "Uluç"
-  "Osmancikli"
-  "Ohrili"
-  "Oflu"
-  "Rumi"
-  "Piri"
-  "Pargali"
-  "Piyale"
-  "Pehlivan"
-  "Salih"
-  "Sokullu"
-  "Sari"
-  "Silahdar"
-  "Semiz"
-  "Serdar"
-  "Topal"
-  "Tayyar"
-  "Turgut"
-  "Tarhuncu"
-  "Veli"
-  "Yemisçi"
+  "科恰"  # Koca
+  "卡拉曼利"  # Karamanli
+  "柯塞"  # Köse
+  "卡拉"  # Kara
+  "卡尼吉里"  # Kanijeli
+  "科曼克斯"  # Kemankes
+  "凯马克"  # Kaymak
+  "卡瓦拉里"  # Kavalali
+  "易斯哈格"  # Ishak
+  "伊兹德"  # Izzed
+  "拉剌"  # Lala
+  "勒夫基里"  # Lefkeli
+  "马尔科奇"  # Malkoç
+  "米埃津扎德"  # Müezzinzade
+  "内塞赫利"  # Nevsehirli
+  "尼塞茨"  # Nisanci
+  "奥鲁奇"  # Oruç
+  "乌卢奇"  # Uluç
+  "奥斯曼斯克里"  # Osmancikli
+  "奥尔林"  # Ohrili
+  "奥弗卢"  # Oflu
+  "鲁米"  # Rumi
+  "皮里"  # Piri
+  "帕尔加勒"  # Pargali
+  "皮亚里"  # Piyale
+  "佩赫利万"  # Pehlivan
+  "萨利赫"  # Salih
+  "索库鲁"  # Sokullu
+  "索库鲁"  # Sari
+  "希拉达"  # Silahdar
+  "塞米兹"  # Semiz
+  "塞尔达尔"  # Serdar
+  "托帕"  # Topal
+  "塔雅尔"  # Tayyar
+  "图尔古特"  # Turgut
+  "塔尔浑"  # Tarhuncu
+  "维里"  # Veli
+  "耶米斯奇"  # Yemisçi
 }
 ship_names = {
   "帖木儿 亚曼"  # Temür Yaman
@@ -141,16 +141,16 @@ ship_names = {
   "伊斯凡迪亚尔"  # Isfendiyar
   "苏莱曼"  # Süleyman
   "苏莱曼"  # Kastamonu
-  "Tosya"
-  "Saraydüzü"
-  "Devrekani"
-  "Agli"
-  "Daday"
-  "Bozkuri"
-  "Küre"
+  "托斯亚"  # Tosya
+  "赛拉伊杜祖"  # Saraydüzü
+  "迪韦卡尼"  # Devrekani
+  "阿格里"  # Agli
+  "达达伊"  # Daday
+  "博兹库里"  # Bozkuri
+  "居勒"  # Küre
   "阿拉吉"  # Arac
-  "Kargi"
-  "Hanönü"
+  "卡厄基"  # Kargi
+  "哈诺努"  # Hanönü
 }
 army_names = {
   "$PROVINCE$军"  # $PROVINCE$ Ordusu
