@@ -30,20 +30,17 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Gabino #0" = 10
-  "Emiliano #0" = 0
-  "Evaristo #0" = 0
-  "Narciso #0" = 0
-  "Octavio #0" = 0
-  "Patricio #0" = 0
-  "Ulíses #0" = 0
-  "Violeta #0" = -1
-  "Yessica #0" = -1
-  "Adora #0" = -1
+  "阿多拉 #0" = -1  # Adora #0
+  "耶西卡 #0" = -1  # Yessica #0
+  "比奥莱塔" = -1  # Violeta #0
+  "乌利塞斯 #0" = 0  # Ulíses #0
   "塔德奥 #0" = 0  # Tadeo #0
   "圣地亚哥 #0" = 0  # Santiago #0
   "罗贝尔托 #0" = 0  # Roberto #0
   "佩德罗 #0" = 0  # Pedro #0
+  "帕特里西奥 #0" = 0  # Patricio #0
+  "奥克塔维奥 #0" = 0  # Octavio #0
+  "纳西索 #0" = 0  # Narciso #0
   "米格尔 #0" = 0  # Miguel #0
   "磨古斯 #0" = 0  # Marcos #0
   "曼努埃尔 #0" = 0  # Manuel #0
@@ -52,7 +49,9 @@ monarch_names = {
   "加百列 #0" = 0  # Gabriel #0
   "富尔亨西奥 #0" = 0  # Fulgencio #0
   "费尔南多 #0" = 0  # Fernando #0
+  "埃瓦里斯托 #0" = 0  # Evaristo #0
   "恩里克 #0" = 0  # Enrique #0
+  "埃米利亚诺 #0" = 0  # Emiliano #0
   "多明戈 #0" = 0  # Domingo #0
   "大卫 #0" = 0  # David #0
   "丹尼尔 #0" = 0  # Daniel #0
@@ -67,6 +66,7 @@ monarch_names = {
   "曼努埃尔 #0 何塞" = 10  # Manuel #0 José
   "何塞 #0 塞西利奥" = 10  # José #0 Cecilio
   "格雷戈里 #0" = 10  # Gregorio #0
+  "加比诺 #0" = 10  # Gabino #0
   "维森特 #0" = 15  # Vicente #0
   "胡安 #0 维森特" = 15  # Juan #0 Vicente
   "何塞 #0 圣地亚哥" = 15  # José #0 Santiago
@@ -75,67 +75,67 @@ monarch_names = {
   "弗朗西斯科 #0" = 20  # Francisco #0
 }
 leader_names = {
-  "Alcantuz"
+  "阿尔坎图兹"  # Alcantuz
   "阿尔法罗"  # Alfaro
-  "Anzoátegui"
+  "安佐阿特吉"  # Anzoátegui
   "贝洛"  # Bello
   "贝尔特兰"  # Beltrán
-  "Berbeo"
-  "Betancur"
-  "Bolívar"
-  "Cabezas"
-  "Díaz"
-  "Flores"
-  "Gaitán"
-  "Galán"
+  "贝勒比奥"  # Berbeo
+  "贝坦库尔"  # Betancur
+  "玻利瓦尔"  # Bolívar
+  "卡贝萨斯"  # Cabezas
+  "迪亚兹"  # Díaz
+  "迪亚兹"  # Flores
+  "盖坦"  # Gaitán
+  "加兰"  # Galán
   "加西亚 德 托莱多"  # García de Toledo
   "戈麦斯"  # Gómez
-  "Gutiérrez de Piñeres"
-  "Marño"
-  "Márquez"
-  "Mazariegos"
-  "Méndez"
-  "Michelena"
-  "Mier"
+  "古铁雷斯 德 皮涅雷斯"  # Gutiérrez de Piñeres
+  "马尼奥"  # Marño
+  "马克斯"  # Márquez
+  "马萨里耶戈斯"  # Mazariegos
+  "门德斯"  # Méndez
+  "米切莱纳"  # Michelena
+  "米耶尔"  # Mier
   "德 米兰达"  # de Miranda
-  "Molina"
-  "Monagas"
-  "Monsalve"
-  "Montúfar"
-  "Nariño"
-  "Narvarte"
-  "O'Baal"
-  "O'Leary"
-  "Ortíz"
-  "Páez"
-  "Paredo"
-  "Pastrana"
-  "Pinilla"
+  "莫利纳"  # Molina
+  "莫纳加斯"  # Monagas
+  "蒙萨尔韦"  # Monsalve
+  "蒙图法尔"  # Montúfar
+  "纳里尼奥"  # Nariño
+  "纳瓦尔特"  # Narvarte
+  "奥巴尔"  # O'Baal
+  "奥利里"  # O'Leary
+  "奥尔蒂兹"  # Ortíz
+  "派斯"  # Páez
+  "帕雷多"  # Paredo
+  "帕斯特拉纳"  # Pastrana
+  "皮尼利亚"  # Pinilla
   "皮萨罗"  # Pizarro
   "普拉塔"  # Plata
   "普拉扎"  # Plaza
   "罗亚"  # Roa
-  "Rodríguez"
+  "罗德里格斯"  # Rodríguez
   "罗哈斯"  # Rojas
-  "Rondón"
-  "Rosillo"
-  "Santander"
-  "Soublette"
-  "Torres"
-  "Urbaneja"
-  "Uribe"
-  "Vargas"
-  "Viscardo"
+  "隆东"  # Rondón
+  "罗西里奥"  # Rosillo
+  "桑坦德"  # Santander
+  "索布雷特"  # Soublette
+  "托雷斯"  # Torres
+  "乌尔班内哈"  # Urbaneja
+  "乌里韦"  # Uribe
+  "巴尔加斯"  # Vargas
+  "维斯卡尔多"  # Viscardo
 }
 ship_names = {
-  "Belize"
-  "Boaco"
-  "Bonanza"
-  "Cama"
-  "Flores"
-  "La Ceiba"
-  "Quesada"
-  "Siuna"
-  "Somoto"
-  "Sonsonate"
+  "伯利兹"  # Belize
+  "博阿科"  # Boaco
+  "博南萨"  # Bonanza
+  "卡马"  # Cama
+  "迪亚兹"  # Flores
+  "拉塞瓦"  # La Ceiba
+  "克萨达"  # Quesada
+  "休纳"  # Siuna
+  "索莫托"  # Somoto
+  "松索纳特"  # Sonsonate
 }
