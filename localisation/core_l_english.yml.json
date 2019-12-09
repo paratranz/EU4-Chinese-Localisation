@@ -3280,10 +3280,10 @@
         "file": "localisation/core_l_english.yml"
     },
     {
-        "key": "MP_SERVER_ID:0",
-        "original": "Server ID: $VAL|Y$",
-        "translation": "服务器名称：$VAL|Y$",
-        "stage": 5,
+        "key": "MP_SERVER_ID:1",
+        "original": "Server ID: $VAL|Y$ (Click to copy)",
+        "translation": "服务器ID：$VAL|Y$（点击复制）",
+        "stage": 1,
         "context": null,
         "file": "localisation/core_l_english.yml"
     },
@@ -7228,6 +7228,86 @@
         "original": "The country selected by $PLAYER|Y$ does not exist anymore.",
         "translation": "$PLAYER|Y$所选国家已不存在。",
         "stage": 1,
+        "context": null,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "MSGRDK_SIGNIN_FAILED_TITLE:",
+        "original": "There was a problem",
+        "translation": "",
+        "stage": 0,
+        "context": null,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "MSGRDK_SIGNIN_FAILED_TEXT:",
+        "original": "We couldn't sign you in with your Microsoft account. Some game features may be unavailable.",
+        "translation": "",
+        "stage": 0,
+        "context": null,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "MSGRDK_NO_PERMISSION_TITLE:",
+        "original": "Account permission",
+        "translation": "",
+        "stage": 0,
+        "context": null,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "MSGRDK_NO_UGC_TEXT:",
+        "original": "You have no permission to access user generated content. Mods will be disabled.",
+        "translation": "",
+        "stage": 0,
+        "context": null,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "MSGRDK_NO_MULTIPLAYER_TEXT:",
+        "original": "You must be signed in to a user profile with multiplayer privileges to play online",
+        "translation": "",
+        "stage": 0,
+        "context": null,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "MSGRDK_COMMUNICATIONS_UNAVAILABLE_PRIVILEGE_CHAT:",
+        "original": "*** Message was blocked due to lack of the Communication privilege on your user profile ***",
+        "translation": "",
+        "stage": 0,
+        "context": null,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "MSGRDK_UGC_MULTIPLAYER_UNAVAILABLE:",
+        "original": "Blocked due to lack of User Generated Content privilege for your Microsoft account",
+        "translation": "",
+        "stage": 0,
+        "context": null,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "CHAT_ERROR_MUTE_MISSINGARGS:0",
+        "original": "Invalid syntax, expected: /mute <username>",
+        "translation": "无效语法，应为：/mute <username>",
+        "stage": 1,
+        "context": null,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "CHAT_ERROR_UNMUTE_MISSINGARGS:0",
+        "original": "Invalid syntax, expected: /unmute <username>",
+        "translation": "无效语法，应为：/unmute <username>",
+        "stage": 1,
+        "context": null,
+        "file": "localisation/core_l_english.yml"
+    },
+    {
+        "key": "CHAT_ERROR_MUTEUNMUTE_SELF:0",
+        "original": "You cannot mute or unmute yourself!",
+        "translation": "",
+        "stage": 0,
         "context": null,
         "file": "localisation/core_l_english.yml"
     }
