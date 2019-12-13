@@ -40042,7 +40042,7 @@
     {
         "key": "NO_UNPAUSE_PLAYERS_BEHIND_TOO_MUCH:0",
         "original": "Before unpausing you need to wait for the following player(s) to catch up:\\n$PLAYERS|Y$",
-        "translation": "你需要在取消暂停前等待以下玩家（们）追上进度：\\n$PLAYERS|Y$",
+        "translation": "你需要等待以下玩家追上进度再继续游戏：\\n$PLAYERS|Y$",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -40050,7 +40050,7 @@
     {
         "key": "NO_SPEEDUP_PLAYERS_BEHIND_TOO_MUCH:0",
         "original": "Before increasing the game speed you need to wait for the following player(s) to catch up:\\n$PLAYERS|Y$",
-        "translation": "你需要在加速前等待以下玩家（们）追上进度：\\n$PLAYERS|Y$",
+        "translation": "你需要等待以下玩家追上进度再加速：\\n$PLAYERS|Y$",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
