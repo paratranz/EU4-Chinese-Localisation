@@ -33,27 +33,16 @@ historical_units = {
   russian_mass
 }
 monarch_names = {
-  "Qvarqvare #1" = 100
-  "Beka #2" = 50
-  "Manuchar #0" = 50
   "Aghbugha #1" = 30
   "Baadur #0" = 10
   "Kaikhosro #0" = 30
   "Mzetchabuk #0" = 10
-  "Botso #2" = 5
-  "Sargis #2" = 10
-  "Ivane #2" = 10
-  "Tornike #0" = 0
   "Tsotne #0" = 0
   "Zaal #0" = 0
-  "Zviad #0" = 0
   "Zaza #0" = 0
   "Tamar #0" = -20
   "Rusudan #0" = -10
-  "Nestan-Darejan #0" = -10
-  "Darejan #0" = -5
   "Ketevan #0" = -5
-  "Tinatin #0" = -5
   "Nino #0" = -1
   "Elene #0" = -1
   "Ana #0" = -1
@@ -61,11 +50,22 @@ monarch_names = {
   "Khoreshan #0" = -1
   "Sitikhatun #0" = -1
   "Dedisimedi #0" = -5
+  "季纳京 #0" = -5  # Tinatin #0
+  "达雷扬 #0" = -5  # Darejan #0
+  "内斯唐 达雷扬 #0" = -10  # Nestan-Darejan #0
+  "兹维亚德 #0" = 0  # Zviad #0
+  "托尔尼克 #0" = 0  # Tornike #0
+  "伊万涅 #2" = 10  # Ivane #2
+  "萨尔吉斯 #2" = 10  # Sargis #2
+  "鲍特绍 #2" = 5  # Botso #2
+  "马努切赫尔 #0" = 50  # Manuchar #0
+  "贝卡 #2" = 50  # Beka #2
+  "克瓦克瓦雷 #1" = 100  # Qvarqvare #1
 }
 leader_names = {
   "Amilakhori"
   "Avilishvili"
-  "Diasamidze"
+  "迪亚萨米泽"  # Diasamidze
   "Gaganidze"
   "Gogibashvili"
   "Gogorishvili"
@@ -78,7 +78,7 @@ leader_names = {
   "Sologashvili"
   "Sumbatishvili"
   "Tavdgiridze"
-  "Tukhareli"
+  "图卡雷利"  # Tukhareli
 }
 ship_names = {
   "Aghbugha"
@@ -92,13 +92,13 @@ ship_names = {
   "Beka"
   "Bichvinta"
   "Beshken"
-  "Colchis"
+  "科尔基斯"  # Colchis
   "Demetre Tavdadebuli"
   "Didgori"
   "Davit Aghmashenebeli"
   "Dioscurias"
   "Jvari"
-  "Jvari Vazisa"
+  "季瓦里 瓦兹萨"  # Jvari Vazisa
   "Khornabuji"
   "Lasharisjvari"
   "Ninotsminda"
@@ -110,12 +110,12 @@ ship_names = {
   "Sargis"
   "Svetitskhoveli"
   "Shota Rustaveli"
-  "Tamar"
+  "他玛"  # Tamar
   "Tsminda Giorgi"
   "Tsotne Dadiani"
   "Tetri Giorgi"
   "Uplistsikhe"
-  "Vakhtang Gorgasali"
-  "Vardzia"
+  "瓦赫坦"  # Vakhtang Gorgasali
+  "瓦尔济亚"  # Vardzia
   "Venakhi"
 }

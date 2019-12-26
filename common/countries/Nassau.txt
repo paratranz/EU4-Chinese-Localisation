@@ -35,19 +35,14 @@ monarch_names = {
   "Egon #0" = 0
   "Erich #0" = 0
   "Gerhard #0" = 0
-  "Gottlieb #0" = 0
   "Gregor #0" = 0
-  "Hagan #0" = 0
-  "Helmut #0" = 0
   "Isaak #0" = 0
   "Isidor #0" = 0
   "Ivo #0" = 0
-  "Joachim #0" = 0
   "Joseph #0" = 0
   "Kreszens #0" = 0
   "Lothar #0" = 0
   "Oskar #0" = 0
-  "Siegfried #0" = 0
   "Stefan #0" = 0
   "Thomas #0" = 0
   "Wenzel #0" = 0
@@ -56,6 +51,11 @@ monarch_names = {
   "Elisabeth #0" = -1
   "Wilhelmine #0" = -1
   "文策尔 #0" = 0  # Werner #0
+  "齐格弗里德 #0" = 0  # Siegfried #0
+  "约阿希姆 #0" = 0  # Joachim #0
+  "赫尔穆特 #0" = 0  # Helmut #0
+  "哈甘 #0" = 0  # Hagan #0
+  "戈特利布 #0" = 0  # Gottlieb #0
   "巴纳巴斯 #0" = 0  # Barnabas #0
   "阿德玛 #0" = 0  # Adelmar #0
   "瓦尔拉德 #0" = 10  # Walrad #0
@@ -93,9 +93,9 @@ ship_names = {
   "Wiesbaden"
   "松嫩堡"  # Sonnenberg
   "施滕伯格"  # Stirnberg
-  "Hanau"
+  "哈瑙"  # Hanau
   "Marburg"
-  "Wetzlar"
+  "韦茨拉尔"  # Wetzlar
 }
 army_names = {
   "$PROVINCE$军"  # Armee von $PROVINCE$

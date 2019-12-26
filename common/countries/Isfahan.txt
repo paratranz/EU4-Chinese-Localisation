@@ -33,41 +33,41 @@ monarch_names = {
   "Said #0" = 10
   "Imad #0" = 10
   "Solaymân #0" = 10
-  "Hosayn #0" = 10
   "Nâder #0 Shâh" = 10
   "'Âdel #0 Shâh" = 10
-  "Mohammad Ali #0" = 10
-  "Mohammad Sâdiq #0" = 10
   "'Ali Morâd #0" = 10
   "Ja'far #0" = 10
   "Loft Ali #0" = 10
-  "Aga Muhammad #0" = 10
   "Fath Alî #0" = 10
   "Najm-e #0" = 0
-  "Ahmad #0" = 0
-  "Hatem #0" = 0
-  "Shahqoli #0" = 0
   "Rajab Ali #0" = 0
   "Amanollah #0" = 0
   "Ebrahim #0" = 0
   "Allahyar #0" = 0
-  "Abdol #0" = 0
-  "Hamid #0" = 0
   "Atiya #0" = -1
   "Pari #0" = -1
   "Khayr al-Nisa #0" = -1
   "Tajlu #0" = -1
   "Dilaram #0" = -1
-  "Shahbanu #0" = -1
   "Razia #0" = -1
   "玛里亚姆 #0" = -1  # Maryam #0
+  "沙赫巴努 #0" = -1  # Shahbanu #0
+  "哈米德 #0" = 0  # Hamid #0
+  "阿卜杜尔 #0" = 0  # Abdol #0
   "阿里 #0" = 0  # Ali #0
   "法拉扎拉 #0" = 0  # Farajollah #0
+  "沙哈库利 #0" = 0  # Shahqoli #0
+  "哈特姆 #0" = 0  # Hatem #0
+  "艾哈迈德 #0" = 0  # Ahmad #0
+  "阿迦 穆罕穆德 #0" = 10  # Aga Muhammad #0
+  "默罕默德 萨德赫 #0" = 10  # Mohammad Sâdiq #0
+  "默罕默德 阿里 #0" = 10  # Mohammad Ali #0
   "阿布 勒 法特赫 #0" = 10  # Abu'l Fath #0
   "卡里姆 #0 汗" = 10  # Karim #0 Khân
   "纳迪尔 米尔扎 #0" = 10  # Nâder Mirza #0
   "沙哈鲁 #0" = 10  # Shâh Rukh #0
   "易卜拉欣 #0" = 10  # Ebrâhim #0
+  "胡赛因 #0" = 10  # Hosayn #0
   "易司玛仪 #0" = 10  # Ismâ'îl #0
   "海达尔 #0" = 10  # Haidar #0
   "伊斯坎德尔 #0" = 10  # Iskandar #0
@@ -75,46 +75,46 @@ monarch_names = {
 leader_names = {
   "Warzanai"
   "Barlas"
-  "Hajji"
+  "哈只"  # Hajji
   "Saidi"
   "Sabiri"
   "Jalili"
   "Azizi"
-  "Shahy"
+  "沙希"  # Shahy
   "Daei"
-  "Qazai"
+  "卡斋"  # Qazai
   "Dalwand"
-  "Ahrari"
+  "阿拉里"  # Ahrari
   "Fatemi"
   "Sabet"
   "Ansari"
 }
 ship_names = {
-  "Abathur"
-  "Adamn Kasia"
-  "Aesma Daeva"
-  "Agas"
-  "Ahriman"
+  "阿巴图尔"  # Abathur
+  "亚当 卡西亚"  # Adamn Kasia
+  "艾斯玛 代伐"  # Aesma Daeva
+  "阿加斯"  # Agas
+  "阿赫里曼"  # Ahriman
   "阿胡拉"  # Ahura
   "阿胡拉 马兹达"  # Ahura Mazda
   "阿胡拉尼"  # Ahurani
-  "Airyaman"
-  "Aka Manah"
+  "雅利安曼"  # Airyaman
+  "阿卡 摩那"  # Aka Manah
   "Aladdin"
-  "Allatum"
-  "Amashaspan"
+  "阿拉图姆"  # Allatum
+  "阿马沙斯潘"  # Amashaspan
   "Ameratat"
-  "Amesha Spentas"
-  "Anahita"
-  "Angra Mainyu"
-  "Anjuman"
-  "Apam-natat"
-  "Apaosa"
-  "Aredvi"
-  "Arishtat"
-  "Armaiti"
-  "Arsaces"
-  "Asha vahista"
+  "六大天使"  # Amesha Spentas
+  "安娜希塔"  # Anahita
+  "安哥拉曼纽"  # Angra Mainyu
+  "祆教长老会"  # Anjuman
+  "阿帕姆 纳塔特"  # Apam-natat
+  "阿帕奥萨"  # Apaosa
+  "阿雷德维"  # Aredvi
+  "阿里什塔特"  # Arishtat
+  "阿尔麦蒂"  # Armaiti
+  "阿尔沙克"  # Arsaces
+  "阿沙 瓦西塔"  # Asha vahista
   "Asman"
   "Asto Vidatu"
   "Astvat-Ereta"
@@ -128,7 +128,7 @@ ship_names = {
   "Camros"
   "Daena"
   "Daevas"
-  "Ahaka"
+  "阿哈卡"  # Ahaka
   "Dahhak"
   "Dena"
   "Dev"
@@ -143,8 +143,8 @@ ship_names = {
   "Gayomart"
   "戈古斯 泰森"  # Geus-Tasan
   "戈古斯 乌万"  # Geus-Urvan
-  "Haoma"
-  "Haurvatat"
+  "豪麻"  # Haoma
+  "胡尔瓦塔特"  # Haurvatat
   "Humay"
   "Hvar"
   "华格其斯塔"  # Hvarekhshaeta
@@ -155,22 +155,22 @@ ship_names = {
   "Jeh"
   "凯施皮特"  # Karshipta
   "Kavi"
-  "Khara"
+  "哈喇"  # Khara
   "Khshathra vairya"
   "坤德乌"  # Kundrav
-  "Mah"
-  "Mahre"
-  "Mahrianag"
+  "玛赫"  # Mah
+  "梅尔"  # Mahre
+  "马里亚纳格"  # Mahrianag
   "Manu"
-  "Manuchihir"
+  "玛奴驰亥"  # Manuchihir
   "Mao"
   "Mashyane"
   "Mashye"
-  "Menog"
+  "马茹"  # Menog
   "Mithra"
-  "Nairyosangha"
+  "南尤桑哈"  # Nairyosangha
   "Nanghaithya"
-  "Neriosang"
+  "捏瑞桑"  # Neriosang
   "欧马兹特"  # Ormazd
   "Peris"
   "Peshdadians"
@@ -178,7 +178,7 @@ ship_names = {
   "Rashnu"
   "Rustam"
   "Saurva"
-  "Simurgh"
+  "思摩夫"  # Simurgh
   "斯宾塔 曼纽"  # Spenta Mainyu
   "Sraosa"
   "Srosh"
@@ -199,8 +199,8 @@ ship_names = {
   "Zal"
   "Zam"
   "赛罕赞 阿尔玛忒"  # Zam-Armatay
-  "Zarathustra"
-  "Zarich"
+  "琐罗亚斯德"  # Zarathustra
+  "扎里奇"  # Zarich
   "赞德-阿维斯塔"  # Zend-Avesta
-  "Zurvan"
+  "祖尔万"  # Zurvan
 }

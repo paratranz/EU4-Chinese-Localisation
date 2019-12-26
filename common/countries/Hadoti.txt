@@ -27,35 +27,19 @@ historical_units = {
   tipu_sultan_rocket
 }
 monarch_names = {
-  "Kumbha #0" = 10
   "Raimal #0" = 10
-  "Sangha #0" = 10
-  "Ratan Singh #0" = 10
   "Vikramaditya Mahthan #0" = 10
-  "Pratap Singh #0" = 10
-  "Amar Singh #0" = 10
   "Karan #0" = 10
-  "Jagat Singh #0" = 10
   "Raaj Singh #0" = 10
-  "Jay Singh #0" = 10
-  "Sangrama Singh #1" = 10
-  "Ari Singh #1" = 10
-  "Hammir #1" = 10
-  "Bhim Singh #1" = 10
   "Baz #0" = 0
-  "Kumbhakarna #0" = 0
   "Natwar #0" = 0
   "Ratan #0" = 0
-  "Jhala #0" = 0
-  "Hakim #0" = 0
   "Sidhraj #0" = 0
   "Raj #0" = 0
   "Jai #0" = 0
-  "Sangram #0" = 0
   "Sejakji #0" = 0
   "Dilip #0" = 0
   "Kshetra #0" = 0
-  "Kunwar #0" = 0
   "Nath #0" = 0
   "Viram #0" = 0
   "Baiji Lal #0" = 0
@@ -68,31 +52,47 @@ monarch_names = {
   "Ajab #0" = -1
   "Kamala #0" = -1
   "Dev #0" = -1
+  "俱伐罗 #0" = 0  # Kunwar #0
+  "商羯罗摩 #0" = 0  # Sangram #0
+  "哈基姆 #0" = 0  # Hakim #0
+  "阇诃罗 #0" = 0  # Jhala #0
+  "鸠姆婆迦纳 #0" = 0  # Kumbhakarna #0
+  "毗摩 僧诃 #1" = 10  # Bhim Singh #1
+  "诃摩弥利 #1" = 10  # Hammir #1
+  "阿里 僧诃 #1" = 10  # Ari Singh #1
+  "僧伽罗摩 僧诃 #1" = 10  # Sangrama Singh #1
+  "阇耶 僧诃 #0" = 10  # Jay Singh #0
+  "奢伽多 僧诃 #0" = 10  # Jagat Singh #0
+  "安玛尔 僧诃 #0" = 10  # Amar Singh #0
+  "普拉塔普 僧诃 #0" = 10  # Pratap Singh #0
+  "剌怛那 僧诃 #0" = 10  # Ratan Singh #0
+  "桑加 #0" = 10  # Sangha #0
   "乌代 僧诃 #0" = 10  # Udai Singh #0
+  "库姆巴 #0" = 10  # Kumbha #0
   "摩伽罗 #0" = 10  # Mokal #0
   "罗诃 #1" = 10  # Lakha #1
 }
 leader_names = {
   "Sahu"
-  "Sisodiya"
+  "西索迪亚"  # Sisodiya
   "Saran"
   "Bhati"
-  "Chandela"
+  "旃提罗"  # Chandela
   "Das"
   "Jadon"
   "Jadeja"
-  "Chudasama"
-  "Tomara"
+  "珠多娑摩"  # Chudasama
+  "都摩罗"  # Tomara
   "Bhaal"
-  "Chauhan"
+  "乔诃那"  # Chauhan
   "Mori"
   "Bargujar"
   "Chundawa"
   "Gohil"
   "Khumba"
-  "Pratap"
-  "Singh"
-  "Vaghela"
+  "波罗多波"  # Pratap
+  "僧诃"  # Singh
+  "婆艺罗"  # Vaghela
 }
 ship_names = {
   "Chambal"
@@ -105,11 +105,11 @@ ship_names = {
   "Kala Jahazi"
   "Lakshmi"
   "Lal Jahazi"
-  "Luni"
+  "鲁尼"  # Luni
   "Nausena"
   "Marwar ka Nav"
   "Merwar ka Nav"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Nila Jahazi"
   "Parvati"
   "Radha"
@@ -118,5 +118,5 @@ ship_names = {
   "Sagar"
   "Sarasvati"
   "Sekhawati"
-  "Sita"
+  "悉多"  # Sita
 }

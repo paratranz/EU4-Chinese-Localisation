@@ -28,12 +28,8 @@ historical_units = {
   persian_rifle
 }
 monarch_names = {
-  "Shahbaz #0" = 30
   "Najaf #0" = 30
-  "Ahmad #0" = 30
-  "Hossein #0" = 20
   "Jafar #0" = 10
-  "Mohammad #0" = 30
   "Badr #0" = 20
   "Nazarali #0" = 10
   "Nasir #0" = 10
@@ -42,63 +38,67 @@ monarch_names = {
   "Teymur #0" = 5
   "Murtuzaqulu #0 Khân" = 10
   "Kazim #0" = 10
-  "Haji #0" = 10
   "Iskender #0" = 10
-  "Mirza #0 Hossein" = 10
   "Samed #0" = 10
   "Aliqulu #0" = 10
   "Zulfaqar #0" = 10
-  "Abdullah #0" = 10
   "Amanullah #0" = 10
   "Atiya #0" = -1
   "Pari #0" = -1
   "Khayr al-Nisa #0" = -1
   "Tajlu #0" = -1
   "Dilaram #0" = -1
-  "Shahbanu #0" = -1
   "Razia #0" = -1
   "玛里亚姆 #0" = -1  # Maryam #0
+  "沙赫巴努 #0" = -1  # Shahbanu #0
+  "阿卜杜拉 #0" = 10  # Abdullah #0
+  "米尔扎 #0 侯赛因" = 10  # Mirza #0 Hossein
+  "哈吉 #0" = 10  # Haji #0
   "哈桑 #0" = 10  # Hassan #0
+  "穆罕默德 #0" = 30  # Mohammad #0
+  "侯赛因 #0" = 20  # Hossein #0
+  "艾哈迈德 #0" = 30  # Ahmad #0
+  "沙赫巴兹 #0" = 30  # Shahbaz #0
 }
 leader_names = {
   "Sabiri"
   "Jalili"
   "Azizi"
-  "Shahy"
+  "沙希"  # Shahy
   "Daei"
-  "Qazai"
+  "卡斋"  # Qazai
   "Dalwand"
-  "Ahrari"
+  "阿拉里"  # Ahrari
   "Fatemi"
   "Sabet"
   "Ansari"
 }
 ship_names = {
-  "Abathur"
-  "Adamn Kasia"
-  "Aesma Daeva"
-  "Agas"
-  "Ahriman"
+  "阿巴图尔"  # Abathur
+  "亚当 卡西亚"  # Adamn Kasia
+  "艾斯玛 代伐"  # Aesma Daeva
+  "阿加斯"  # Agas
+  "阿赫里曼"  # Ahriman
   "阿胡拉"  # Ahura
   "阿胡拉 马兹达"  # Ahura Mazda
   "阿胡拉尼"  # Ahurani
-  "Airyaman"
-  "Aka Manah"
+  "雅利安曼"  # Airyaman
+  "阿卡 摩那"  # Aka Manah
   "Aladdin"
-  "Allatum"
-  "Amashaspan"
+  "阿拉图姆"  # Allatum
+  "阿马沙斯潘"  # Amashaspan
   "Ameratat"
-  "Amesha Spentas"
-  "Anahita"
-  "Angra Mainyu"
-  "Anjuman"
-  "Apam-natat"
-  "Apaosa"
-  "Aredvi"
-  "Arishtat"
-  "Armaiti"
-  "Arsaces"
-  "Asha vahista"
+  "六大天使"  # Amesha Spentas
+  "安娜希塔"  # Anahita
+  "安哥拉曼纽"  # Angra Mainyu
+  "祆教长老会"  # Anjuman
+  "阿帕姆 纳塔特"  # Apam-natat
+  "阿帕奥萨"  # Apaosa
+  "阿雷德维"  # Aredvi
+  "阿里什塔特"  # Arishtat
+  "阿尔麦蒂"  # Armaiti
+  "阿尔沙克"  # Arsaces
+  "阿沙 瓦西塔"  # Asha vahista
   "Asman"
   "Asto Vidatu"
   "Astvat-Ereta"
@@ -112,7 +112,7 @@ ship_names = {
   "Camros"
   "Daena"
   "Daevas"
-  "Ahaka"
+  "阿哈卡"  # Ahaka
   "Dahhak"
   "Dena"
   "Dev"
@@ -127,8 +127,8 @@ ship_names = {
   "Gayomart"
   "戈古斯 泰森"  # Geus-Tasan
   "戈古斯 乌万"  # Geus-Urvan
-  "Haoma"
-  "Haurvatat"
+  "豪麻"  # Haoma
+  "胡尔瓦塔特"  # Haurvatat
   "Humay"
   "Hvar"
   "华格其斯塔"  # Hvarekhshaeta
@@ -139,22 +139,22 @@ ship_names = {
   "Jeh"
   "凯施皮特"  # Karshipta
   "Kavi"
-  "Khara"
+  "哈喇"  # Khara
   "Khshathra vairya"
   "坤德乌"  # Kundrav
-  "Mah"
-  "Mahre"
-  "Mahrianag"
+  "玛赫"  # Mah
+  "梅尔"  # Mahre
+  "马里亚纳格"  # Mahrianag
   "Manu"
-  "Manuchihir"
+  "玛奴驰亥"  # Manuchihir
   "Mao"
   "Mashyane"
   "Mashye"
-  "Menog"
+  "马茹"  # Menog
   "Mithra"
-  "Nairyosangha"
+  "南尤桑哈"  # Nairyosangha
   "Nanghaithya"
-  "Neriosang"
+  "捏瑞桑"  # Neriosang
   "欧马兹特"  # Ormazd
   "Peris"
   "Peshdadians"
@@ -162,7 +162,7 @@ ship_names = {
   "Rashnu"
   "Rustam"
   "Saurva"
-  "Simurgh"
+  "思摩夫"  # Simurgh
   "斯宾塔 曼纽"  # Spenta Mainyu
   "Sraosa"
   "Srosh"
@@ -183,8 +183,8 @@ ship_names = {
   "Zal"
   "Zam"
   "赛罕赞 阿尔玛忒"  # Zam-Armatay
-  "Zarathustra"
-  "Zarich"
+  "琐罗亚斯德"  # Zarathustra
+  "扎里奇"  # Zarich
   "赞德-阿维斯塔"  # Zend-Avesta
-  "Zurvan"
+  "祖尔万"  # Zurvan
 }

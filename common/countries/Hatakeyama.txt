@@ -27,58 +27,58 @@ historical_units = {
   reformed_asian_cavalry
 }
 monarch_names = {
-  "Motokuni #0" = 50
-  "Sadakuni #0" = 50
-  "Iekuni #0" = 50
-  "Kunikiyo #0" = 50
-  "Michuie #0" = 50
-  "Mochikuni #0" = 50
-  "Mochinaga #0" = 50
-  "Yoshinari #0" = 50
-  "Masanaga #0" = 50
-  "Yoshitoyo #0" = 50
   "Naonori #0" = 50
-  "Masakuni #0" = 50
-  "Takamasa #0" = 50
-  "Masanao #0" = 50
   "Haruteru #0" = 50
-  "Masahisa #0" = 30
-  "Akitaka #0" = 30
-  "Tanenaga #0" = 30
   "Mitsuyoshi #0" = 20
-  "Yoshitada #0" = 20
-  "Yoshitsugu #0" = 20
-  "Yoshinori #0" = 20
   "Yoshitsunaa #0" = 20
-  "Yoshitaka #0" = 20
   "稻 #0" = -5  # Ina #0
   "绫 #0" = -5  # Aya #0
   "珠 #0" = -5  # Tama #0
   "千 #0" = -5  # Sen #0
   "督 #0" = -5  # Toku #0
+  "义隆 #0" = 20  # Yoshitaka #0
+  "义则 #0" = 20  # Yoshinori #0
+  "义继 #0" = 20  # Yoshitsugu #0
+  "义忠 #0" = 20  # Yoshitada #0
+  "稙长 #0" = 30  # Tanenaga #0
+  "昭高 #0" = 30  # Akitaka #0
+  "政久 #0" = 30  # Masahisa #0
+  "政尚 #0" = 50  # Masanao #0
+  "高政 #0" = 50  # Takamasa #0
+  "政国 #0" = 50  # Masakuni #0
+  "义丰 #0" = 50  # Yoshitoyo #0
+  "政长 #0" = 50  # Masanaga #0
+  "义就 #0" = 50  # Yoshinari #0
+  "持永 #0" = 50  # Mochinaga #0
+  "持国 #0" = 50  # Mochikuni #0
+  "满家 #0" = 50  # Michuie #0
+  "国清 #0" = 50  # Kunikiyo #0
+  "家国 #0" = 50  # Iekuni #0
+  "贞国 #0" = 50  # Sadakuni #0
+  "基国 #0" = 50  # Motokuni #0
 }
 leader_names = {
-  "Akamatsu"
-  "Akechi"
-  "Ashikaga"
-  "Amago"
-  "Kyogoku"
-  "Rokkaku"
-  "Asakura"
-  "Asano"
-  "Aso"
-  "Chosokabe"
-  "Date"
-  "Hachisuka"
-  "Hatakeyama"
-  "Hojo"
-  "Hosokawa"
-  "Ichijo"
-  "Keda"
-  "Imagawa"
-  "Isshiki"
-  "Ito"
-  "Jinbo"
+  "赤松"  # Akamatsu
+  "明智"  # Akechi
+  "足利"  # Ashikaga
+  "尼子"  # Amago
+  "京极"  # Kyogoku
+  "六角"  # Rokkaku
+  "朝仓"  # Asakura
+  "浅野"  # Asano
+  "阿苏"  # Aso
+  "长宗我部"  # Chosokabe
+  "伊达"  # Date
+  "蜂须贺"  # Hachisuka
+  "畠山"  # Hatakeyama
+  "北条"  # Hojo
+  "细川"  # Hosokawa
+  "一条"  # Ichijo
+  "毛田"  # Keda
+  "今川"  # Imagawa
+  "一色"  # Isshiki
+  "伊东"  # Ito
+  "神保"  # Jinbo
   "菊池"  # Kikuchi
   "河野"  # Kono
   "前田"  # Maeda
@@ -113,26 +113,26 @@ leader_names = {
   "浦上"  # Uragami
   "山名"  # Yamana
   "山内"  # Yamauchi
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
-  "Hatakeyama"
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
+  "畠山"  # Hatakeyama
   "斋藤"  # Saito
   "斋藤"  # Saito
   "斋藤"  # Saito
@@ -143,16 +143,16 @@ leader_names = {
   "Hira"
   "Hira"
   "Hira"
-  "Sahara"
-  "Sahara"
-  "Sahara"
-  "Sahara"
-  "Sahara"
-  "Jinbo"
-  "Jinbo"
-  "Jinbo"
-  "Jinbo"
-  "Jinbo"
+  "佐原"  # Sahara
+  "佐原"  # Sahara
+  "佐原"  # Sahara
+  "佐原"  # Sahara
+  "佐原"  # Sahara
+  "神保"  # Jinbo
+  "神保"  # Jinbo
+  "神保"  # Jinbo
+  "神保"  # Jinbo
+  "神保"  # Jinbo
   "Yusa"
   "Yusa"
   "Yusa"
@@ -163,31 +163,31 @@ leader_names = {
   "Sho"
   "Sho"
   "Sho"
-  "Atagi"
-  "Atagi"
-  "Atagi"
-  "Atagi"
-  "Atagi"
-  "Horiuchi"
-  "Horiuchi"
-  "Horiuchi"
-  "Horiuchi"
-  "Horiuchi"
-  "Ochi"
-  "Ochi"
-  "Ochi"
-  "Ochi"
-  "Ochi"
+  "安宅"  # Atagi
+  "安宅"  # Atagi
+  "安宅"  # Atagi
+  "安宅"  # Atagi
+  "安宅"  # Atagi
+  "堀内"  # Horiuchi
+  "堀内"  # Horiuchi
+  "堀内"  # Horiuchi
+  "堀内"  # Horiuchi
+  "堀内"  # Horiuchi
+  "越智"  # Ochi
+  "越智"  # Ochi
+  "越智"  # Ochi
+  "越智"  # Ochi
+  "越智"  # Ochi
   "筒井"  # Tsutsui
   "筒井"  # Tsutsui
   "筒井"  # Tsutsui
   "筒井"  # Tsutsui
   "筒井"  # Tsutsui
-  "Nukui"
-  "Nukui"
-  "Nukui"
-  "Nukui"
-  "Nukui"
+  "温井"  # Nukui
+  "温井"  # Nukui
+  "温井"  # Nukui
+  "温井"  # Nukui
+  "温井"  # Nukui
   "Osa"
   "Osa"
   "Osa"

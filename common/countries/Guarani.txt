@@ -28,21 +28,21 @@ historical_units = {
   incan_guerilla_warfare
 }
 leader_names = {
-  "Mbigua"
+  "姆比瓜"  # Mbigua
   "Caracara"
-  "Timbu"
-  "Tucague"
+  "蒂姆布"  # Timbu
+  "图卡格"  # Tucague
   "Calchagui"
-  "Quiloazaz"
+  "奎洛阿扎兹"  # Quiloazaz
   "卡里奥"  # Cario
-  "Itatine"
+  "伊塔蒂内"  # Itatine
   "Tarci"
   "Bomboi"
   "Curupaiti"
   "Curumai"
-  "Caaigua"
+  "凯瓜"  # Caaigua
   "Tape"
-  "Ciriguana"
+  "西里瓜纳"  # Ciriguana
 }
 monarch_names = {
   "Angatupyry #0" = 10
@@ -51,7 +51,6 @@ monarch_names = {
   "Araresa #0" = 10
   "Amaru #0" = 10
   "Amapytu #0" = 10
-  "Amangy #0" = 10
   "Aravera #0" = 10
   "Arasunu #0" = 10
   "Aratiri #0" = 10
@@ -59,8 +58,6 @@ monarch_names = {
   "Jakaira #0" = 10
   "Karai #0" = 10
   "Katupyry #0" = 10
-  "Kuarahy #0" = 10
-  "Kuarahyrese #0" = 10
   "Maitei #0" = 10
   "Mba'ehory #0" = 10
   "Mbarakapu #0" = 10
@@ -70,11 +67,14 @@ monarch_names = {
   "Tatajyva #0" = 10
   "Tatapytu #0" = 10
   "Tekokatu #0" = 10
-  "Tuvicha #0" = 10
   "Ygary #0" = 10
-  "Porasy #0" = -1
   "Ka'a Jarýi #0" = -1
   "Irupé #0" = -1
+  "波拉西 #0" = -1  # Porasy #0
+  "图维恰" = 10  # Tuvicha #0
+  "夸拉希雷塞 #0" = 10  # Kuarahyrese #0
+  "夸拉希 #0" = 10  # Kuarahy #0
+  "阿曼吉 #0" = 10  # Amangy #0
 }
 ship_names = {
   "Teju Jagua"
@@ -97,7 +97,7 @@ ship_names = {
   "Jacy"
   "Pinon"
   "Raini"
-  "Jaguar"
+  "美洲虎"  # Jaguar
   "Marangatú"
   "Tume Arandu"
   "Kerana"

@@ -42,27 +42,27 @@ monarch_names = {
   "Giyâseddîn #0" = 5
   "Pîrî #0" = 5
   "Pîr #0" = 5
-  "Ilyas #0" = 0
   "Süleyman #0" = 0
   "Cihangir #0" = 0
   "Isa #0" = 0
   "Musa #0" = 0
   "Orhan #0" = 0
-  "Abdulrahman #0" = 0
   "Alaaddin #0" = 0
   "Davud #0" = 0
-  "Hasan #0" = 0
   "Hüseyin #0" = 0
   "Kasim #0" = 0
   "Korkud #0" = 0
-  "Yusuf #0" = 0
   "Iskender #0" = 0
   "Ayse #0" = -1
   "Ulviye #0" = -1
-  "Zeynep #0" = -1
+  "泽奈普 #0" = -1  # Zeynep #0
+  "优素福 #0" = 0  # Yusuf #0
   "雅各布 #0" = 0  # Yakub #0
   "穆拉德 #0" = 0  # Murad #0
+  "哈桑 #0" = 0  # Hasan #0
   "阿里 #0" = 0  # Ali #0
+  "阿卜杜尔 拉赫曼 #0" = 0  # Abdulrahman #0
+  "伊利亚斯 #0" = 0  # Ilyas #0
   "德尔维什 #0" = 10  # Dervish #0
   "库巴德 #0" = 10  # Kubad #0
   "塞利姆 #0" = 10  # Selim #0
@@ -76,7 +76,7 @@ monarch_names = {
   "拉马赞 #1" = 10  # Ramazan #1
 }
 leader_names = {
-  "Alemdar"
+  "阿来姆达尔"  # Alemdar
   "Amasyali"
   "Ayas"
   "Bali"
@@ -94,15 +94,15 @@ leader_names = {
   "Defterdar"
   "Gedik"
   "Gazi"
-  "Gümülcineli"
+  "居米尔吉内利"  # Gümülcineli
   "Gürcü"
-  "Hadim"
-  "Hekimoglu"
-  "Hersekli"
+  "哈德姆"  # Hadim
+  "海基姆奥卢"  # Hekimoglu
+  "黑塞科利"  # Hersekli
   "Köprülü"
   "凯末尔"  # Kemal
   "Küçük"
-  "Koca"
+  "科恰"  # Koca
   "Karamanli"
   "Köse"
   "Kara"
@@ -110,12 +110,12 @@ leader_names = {
   "Kemankes"
   "Kaymak"
   "Kavalali"
-  "Ishak"
+  "易斯哈格"  # Ishak
   "Izzed"
   "Lala"
   "Lefkeli"
   "Malkoç"
-  "Müezzinzade"
+  "米埃津扎德"  # Müezzinzade
   "Nevsehirli"
   "Nisanci"
   "Oruç"
@@ -131,18 +131,18 @@ leader_names = {
   "Salih"
   "Sokullu"
   "Sari"
-  "Silahdar"
+  "希拉达"  # Silahdar
   "Semiz"
   "Serdar"
-  "Topal"
+  "托帕"  # Topal
   "Tayyar"
-  "Turgut"
+  "图尔古特"  # Turgut
   "Tarhuncu"
   "Veli"
   "Yemisçi"
 }
 ship_names = {
-  "Adana"
+  "阿达纳"  # Adana
   "Tarsus"
   "Mersin"
   "Erdemli"
@@ -189,13 +189,13 @@ ship_names = {
   "Sandikli"
   "Sultandagi"
   "Güdül"
-  "Haymana"
+  "哈伊马纳"  # Haymana
   "Kazan"
   "Kalecik"
   "Nallihan"
   "Polatli"
   "Akseki"
-  "Alanya"
+  "阿拉尼亚"  # Alanya
   "Elmali"
   "Finike"
   "Kepez"
@@ -219,7 +219,7 @@ ship_names = {
   "Sögüt"
   "Adakli"
   "Solhan"
-  "Ahlat"
+  "阿赫拉特"  # Ahlat
   "Gerede"
   "Seben"
   "Göynük"
@@ -240,7 +240,7 @@ ship_names = {
   "Tavas"
   "Dicle"
   "Firat"
-  "Lice"
+  "利杰"  # Lice
   "Ergani"
   "Enez"
   "Ipsala"
@@ -251,7 +251,7 @@ ship_names = {
   "Göce"
   "Kelkit"
   "Belen"
-  "Erzin"
+  "额尔逊"  # Erzin
   "Hassa"
   "Gönen"
   "Safranbolu"

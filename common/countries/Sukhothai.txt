@@ -26,13 +26,9 @@ historical_units = {
   reformed_asian_cavalry
 }
 monarch_names = {
-  "Thammaracha #2" = 40
   "Leuthai #1" = 15
-  "Nguanamthom #1" = 15
-  "Saisongkhram #1" = 15
   "Ban Muang #1" = 10
   "Sri Indraditya #1" = 10
-  "Ramkhamhaeng #1" = 10
   "Mahinthrathirat #1" = 1
   "Ramesuan #1" = 1
   "Lawan #0" = -1
@@ -40,19 +36,23 @@ monarch_names = {
   "Suriyothai #0" = -1
   "Boromdilok #0" = -1
   "Thepkasattri #0" = -1
+  "兰甘亨大帝 #1" = 10  # Ramkhamhaeng #1
+  "塞颂堪 #1" = 15  # Saisongkhram #1
+  "威南童 #1" = 15  # Nguanamthom #1
+  "昙摩罗阇 #2" = 40  # Thammaracha #2
 }
 leader_names = {
   "Akradej"
   "Ariyanuntaka"
   "Boonmee"
-  "Chaipatana"
-  "Chakrabonse"
-  "Chuasiriporn"
+  "猜帕塔那"  # Chaipatana
+  "查伽汶萨"  # Chakrabonse
+  "丘室利蓬"  # Chuasiriporn
   "Diskul"
-  "Ekaluck"
+  "厄伽律"  # Ekaluck
   "Hitapot"
   "Inchareon"
-  "Kawrungruang"
+  "觉隆銮"  # Kawrungruang
   "Khuntilanont"
   "Klinpraneet"
   "江萨"  # Kriangsak
@@ -60,47 +60,47 @@ leader_names = {
   "Nitpattanasai"
   "Noppachorn"
   "Nut"
-  "Panomyaong"
-  "Phatipatanawong"
-  "Sitdhirasdr"
-  "Sivaraksa"
+  "帕洛密永"  # Panomyaong
+  "帕提帕塔那旺"  # Phatipatanawong
+  "西提拉沙吞"  # Sitdhirasdr
+  "西瓦拉克沙"  # Sivaraksa
   "Srichure"
   "Supachai"
-  "Supasawat"
+  "素帕沙瓦"  # Supasawat
   "Tantasatityanon"
-  "Thabchumpon"
-  "Tomson"
-  "Wongrutiyan"
-  "Yongchaiyudh"
+  "塔春蓬"  # Thabchumpon
+  "东颂"  # Tomson
+  "翁鲁迪扬"  # Wongrutiyan
+  "永猜育"  # Yongchaiyudh
 }
 ship_names = {
   "Ramithibodi"
   "Ramesuan"
   "Borommaracha"
-  "Thong Chan"
-  "Ramaratcha"
+  "童赞"  # Thong Chan
+  "拉玛拉差"  # Ramaratcha
   "Intharatcha"
   "Boromtrailokanat"
   "Ratsada"
-  "Chairacha"
+  "猜罗阇"  # Chairacha
   "Yotfa"
-  "Worawongsa"
-  "Chakkraphat"
-  "Mahin"
+  "哇拉旺沙"  # Worawongsa
+  "查克腊帕"  # Chakkraphat
+  "摩欣"  # Mahin
   "Sanpet"
   "Naresuan"
   "Ekathotsarot"
-  "Si Saowaphak"
-  "Songtham"
-  "Chehha"
+  "室昭哇帕"  # Si Saowaphak
+  "颂昙"  # Songtham
+  "切哈"  # Chehha
   "Somdet Phra"
   "巴沙通"  # Prasat Thong
-  "Chai"
+  "柴"  # Chai
   "Suthammaracha"
   "Narai"
   "Petratcha"
   "Süa"
   "Phumintharacha"
-  "Uthumpon"
+  "乌通奔"  # Uthumpon
   "Ekkathat"
 }

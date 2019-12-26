@@ -28,24 +28,14 @@ historical_units = {
   persian_rifle
 }
 monarch_names = {
-  "Zahid #0" = 10
   "Rabi'a #0" = 10
   "Musa #0" = 10
   "Ibrahim #0" = 10
   "Markhan #0" = 10
-  "Watban #0" = 10
   "Nasir #0" = 10
   "Idris #0" = 10
-  "'Abd Allah #0" = 10
   "Sa'ud #0" = 10
-  "Zayid #0" = 10
-  "Abdullah #0" = 10
-  "Muhammad #0" = 10
-  "Abd al Aziz #0" = 10
-  "'Abdullah #0" = 10
-  "Turki #0" = 10
   "Faisal #0" = 10
-  "Abd Al-Rahman #0" = 10
   "Khalid #0" = 10
   "Fahd #0" = 10
   "Nadiyya #0" = -1
@@ -53,12 +43,20 @@ monarch_names = {
   "Noura #0" = -1
   "Wadhah #0" = -1
   "Munira #0" = -1
-  "Hessah #0" = -1
   "Aisha #0" = -1
   "法蒂玛 #0" = -1  # Fatima #0
+  "赫萨 #0" = -1  # Hessah #0
+  "阿卜杜勒 拉赫曼 #0" = 10  # Abd Al-Rahman #0
+  "图尔基 #0" = 10  # Turki #0
+  "阿卜杜拉 #0" = 10  # 'Abd Allah #0
+  "阿卜杜 阿齐兹 #0" = 10  # Abd al Aziz #0
+  "穆罕默德 #0" = 10  # Muhammad #0
+  "扎伊德 #0" = 10  # Zayid #0
+  "瓦特班 #0" = 10  # Watban #0
+  "扎希德 #0" = 10  # Zahid #0
 }
 leader_names = {
-  "Al-Hasan"
+  "哈桑"  # Al-Hasan
   "Al-Hukban"
   "Al-Masaira"
   "Badar"
@@ -74,15 +72,15 @@ leader_names = {
   "Wada"
 }
 ship_names = {
-  "Al-Armah"
-  "Ad-Dahna"
-  "Jabal Tuwayo"
-  "Nafüd Qunayfidahah"
+  "阿马赫"  # Al-Armah
+  "达哈拉"  # Ad-Dahna
+  "贾巴尔 图瓦尤"  # Jabal Tuwayo
+  "内夫德 阔纳费达尔"  # Nafüd Qunayfidahah
   "Nafüd Shuqayyiqah"
-  "Al-Bayad"
-  "Nafüd Ad-Dahy"
-  "Nafüd As-Sirrah"
+  "巴牙惕"  # Al-Bayad
+  "内夫德 阿德希"  # Nafüd Ad-Dahy
+  "内夫德 阿瑟希拉"  # Nafüd As-Sirrah
   "Ar-Riyad"
-  "Ad-Dilam"
+  "阿德迪兰"  # Ad-Dilam
   "Shaqra"
 }

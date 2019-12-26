@@ -31,9 +31,6 @@ historical_units = {
 }
 monarch_names = {
   "Jan #1" = 5
-  "Arnolf #1" = 5
-  "Adriaan #0" = 0
-  "Anton #0" = 0
   "Barthout #0" = 0
   "Christiaan #0" = 0
   "Constantijn #0" = 0
@@ -51,13 +48,11 @@ monarch_names = {
   "Kasper #0" = 0
   "Lamoraal #0" = 0
   "Hugo #0" = 0
-  "Jacob #0" = 0
   "Pieter #0" = 0
   "Procop #0" = 0
   "Prosper #0" = 0
   "Raes #0" = 0
   "Rembrandt #0" = 0
-  "Simon #0" = 0
   "Rodolf #0" = 0
   "Roeland #0" = 0
   "Jakoba #0" = -15
@@ -68,6 +63,11 @@ monarch_names = {
   "Aleid #0" = -1
   "Katherin #0" = -1
   "约翰娜 #0" = -1  # Johanna #0
+  "西蒙 #0" = 0  # Simon #0
+  "雅各布 #0" = 0  # Jacob #0
+  "安东 #0" = 0  # Anton #0
+  "阿德里安 #0" = 0  # Adriaan #0
+  "阿尔夫 #1" = 5  # Arnolf #1
   "弗洛里斯 #5" = 5  # Floris #5
   "德克 #7" = 5  # Dirk #7
   "埃伯哈德 #0" = 15  # Eberhard #0
@@ -97,8 +97,8 @@ leader_names = {
   "Den Burg"
   "Deodati"
   "Dokkum"
-  "Dordrecht"
-  "Drenthe"
+  "多德雷赫特"  # Dordrecht
+  "德伦特"  # Drenthe
   "Driesman"
   "Eindhoven"
   "Elst"
@@ -114,7 +114,7 @@ leader_names = {
   "Groningen"
   "Gulder"
   "Haag"
-  "Haarlem"
+  "哈勒姆"  # Haarlem
   "Hebenal"
   "Heerlen"
   "Heertognebosh"
@@ -130,7 +130,7 @@ leader_names = {
   "Lauwers"
   "Lemmer"
   "Leyden"
-  "Limburg"
+  "林堡"  # Limburg
   "Maastricht"
   "Meppel"
   "Middenmeer"
@@ -154,9 +154,9 @@ leader_names = {
   "Smuts"
   "Spijkenise"
   "Terchelling"
-  "Texel"
+  "特塞尔"  # Texel
   "Twente"
-  "Utrecht"
+  "乌得勒支"  # Utrecht
   "Valkenswaard"
   "Van Den Dorp"
   "Van der Does"
@@ -176,7 +176,7 @@ leader_names = {
   "Zoetermeer"
   "Zuiderzee"
   "Zwijndrecht"
-  "Zwolle"
+  "兹沃勒"  # Zwolle
 }
 ship_names = {
   "Aartsengel Michael"
@@ -186,7 +186,7 @@ ship_names = {
   "Bloys van Treslong"
   "Burcht van Leiden"
   "Commercie van Amsterdam"
-  "Dom van Utrecht"
+  "乌德勒支主教座堂"  # Dom van Utrecht
   "Drie Gebroeders"
   "David's Drie Helden"
   "Drie Koningen"
@@ -199,13 +199,13 @@ ship_names = {
   "Gouden Leeuw"
   "Gouden Maan"
   "Graaf Willem"
-  "Groot Hollandia"
+  "大荷兰迪亚"  # Groot Hollandia
   "Groote Liefde"
   "Halve Maan"
   "Hof Sint Janskerken"
   "Hof van Rheenen"
   "Hof van Souburg"
-  "Hof van Zeeland"
+  "霍夫 范 泽兰"  # Hof van Zeeland
   "Hollandsche Tuin"
   "Huijs te Zwieten"
   "Huis te Jaarsveld"
@@ -222,10 +222,10 @@ ship_names = {
   "萨克森选帝侯"  # Keurvorst van Saksen
   "勃兰登堡女选侯"  # Keurvorstin van Brandenburg
   "Klein Frisia"
-  "Klein Hollandia"
+  "克莱因 荷兰迪亚"  # Klein Hollandia
   "Klein Zutphen"
   "Kleine Harder"
-  "Koning William"
+  "威廉国王"  # Koning William
   "Louisa Hendrika"
   "Maagd van Enkhuizen"
   "Marcus Curtius"
@@ -247,16 +247,16 @@ ship_names = {
   "Roode Leeuw"
   "Salomons Oordeel"
   "Schager Roos"
-  "Sint Andries"
-  "Sint Jacob"
-  "Sint Laurens"
-  "Sint Maria"
-  "Sint Matheeus"
-  "Sint Pieter"
+  "圣安德烈"  # Sint Andries
+  "圣雅各伯"  # Sint Jacob
+  "圣劳伦斯"  # Sint Laurens
+  "圣玛利亚"  # Sint Maria
+  "圣马太"  # Sint Matheeus
+  "圣彼得"  # Sint Pieter
   "Stad en Lande"
   "Stad Gouda"
   "Stad Haarlem"
-  "Stad Utrecht"
+  "斯塔德 乌得勒支"  # Stad Utrecht
   "Ter Goes"
   "Ter Veere"
   "Verenigde Provinciën"
@@ -266,13 +266,13 @@ ship_names = {
   "Vogel Struis"
   "Wakende Boei"
   "Wakende Kraan"
-  "Wapen van Edam"
-  "Wapen van Haarlem"
-  "Wapen van Holland"
-  "Wapen van Leijden"
-  "Wapen van Nassau"
-  "Wapen van Utrecht"
-  "Wapen van Zeeland"
+  "埃德姆之纹章"  # Wapen van Edam
+  "哈勒姆之纹章"  # Wapen van Haarlem
+  "荷兰之纹章"  # Wapen van Holland
+  "莱伊登之纹章"  # Wapen van Leijden
+  "拿骚之纹章"  # Wapen van Nassau
+  "乌得勒支之纹章"  # Wapen van Utrecht
+  "泽兰之纹章"  # Wapen van Zeeland
   "Willem van Nieuhoff"
   "Witte Lam"
   "Zwarte Arend"
@@ -335,7 +335,7 @@ ship_names = {
   "Doggersbank"
   "Dolfijn"
   "Dolfijn"
-  "Dordrecht"
+  "多德雷赫特"  # Dordrecht
   "Draak"
   "Drakestein"
   "Drente"
@@ -359,19 +359,19 @@ ship_names = {
   "Goes"
   "Gouda"
   "Gouderak"
-  "Haarlem"
+  "哈勒姆"  # Haarlem
   "Haarlemmerhout"
   "Hardenbroek"
   "Harderwijk"
   "Havik"
-  "Hector"
+  "赫克托耳"  # Hector
   "Heemstede"
   "Hersteller"
-  "Het"
+  "海特"  # Het
   "Loo"
   "Hilverbeek"
   "Hilversum"
-  "Hollandia"
+  "荷兰迪亚"  # Hollandia
   "Hoop"
   "Jaarsveld"
   "Jonas"
@@ -392,11 +392,11 @@ ship_names = {
   "Liefde"
   "Loosdregt"
   "Luipaard"
-  "Lynx"
+  "猞猁"  # Lynx
   "Maan"
   "Maarseveen"
   "Maas"
-  "Margarethe"
+  "玛格丽特"  # Margarethe
   "Mars"
   "Matenes"
   "Medusa"
@@ -414,7 +414,7 @@ ship_names = {
   "Oostergo"
   "Oosterwijk"
   "Oranjeboom"
-  "Oudshoorn"
+  "奥兹霍仑"  # Oudshoorn
   "Overijssel"
   "Overwinnaer"
   "Pacificatie"
@@ -437,19 +437,19 @@ ship_names = {
   "Spion"
   "Starrenburg"
   "Stavoren"
-  "Susanna"
+  "苏珊娜"  # Susanna
   "Tholen"
   "Tijdverdrijf"
   "Tijger"
-  "Triton"
+  "特里同"  # Triton
   "Tromp"
   "Unie"
-  "Utrecht"
+  "乌得勒支"  # Utrecht
   "Valk"
   "Veere"
   "Velsen"
   "Vlaming"
-  "Vlissingen"
+  "弗利辛亨"  # Vlissingen
   "Voorzichtigheid"
   "Vrede"
   "Vrijheid"
@@ -467,11 +467,11 @@ ship_names = {
   "Zeelandia"
   "Zeepaard"
   "Zephier"
-  "Zierikzee"
+  "济里克泽"  # Zierikzee
   "Zon"
   "Zuiderhuis"
   "Zuileveld"
-  "Zutphen"
+  "聚特芬"  # Zutphen
   "Zwaan"
   "Zwaluw"
   "Zwanenburg"

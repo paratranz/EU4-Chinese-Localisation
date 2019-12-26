@@ -27,14 +27,11 @@ historical_units = {
 monarch_names = {
   "Seattle #0" = 20
   "Patkanam #0" = 10
-  "Chowitshoot #0" = 10
   "Goliah #0" = 10
-  "Kwallatum #0" = 10
   "S'hootst-hoot #0" = 10
   "Snah-talc #0" = 10
   "Squush-um #0" = 10
   "Seeallapahan #0" = 10
-  "Heuhkanam #0" = 10
   "Tsenahtalc #0" = 10
   "Nsskioos #0" = 10
   "Watskalahtchie #0" = 10
@@ -45,10 +42,7 @@ monarch_names = {
   "Shehtsoolt #0" = 10
   "Doqueoosatl #0" = 10
   "Klemshkanam #0" = 10
-  "Tshuahntl #0" = 10
   "Kwusskanam #0" = 10
-  "Helmits #0" = 10
-  "Skwaikwi #0" = 10
   "Sehlekqu #0" = 10
   "Shchehoos #0" = 10
   "Whailanhu #0" = 10
@@ -59,7 +53,6 @@ monarch_names = {
   "Sohnhehovs #0" = 10
   "S'dehapkan #0" = 10
   "Chulwhiltan #0" = 10
-  "Skeehtum #0" = 10
   "Patchkanam #0" = 10
   "Satskanam #0" = 10
   "Sdzomathl #0" = 10
@@ -69,9 +62,7 @@ monarch_names = {
   "Mislotche #0" = 10
   "Sloonokshtan #0" = 10
   "Moowhahladhu #0" = 10
-  "Toolehplan #0" = 10
   "Hasehdooan #0" = 10
-  "Hooviltmehtum #0" = 10
   "Weaipah #0" = 10
   "S'ahanhu #0" = 10
   "Shehope #0" = 10
@@ -79,21 +70,17 @@ monarch_names = {
   "Chtsimpt #0" = 10
   "Tsesumten #0" = 10
   "Klthahlten #0" = 10
-  "Kuttakanam #0" = 10
   "Chlahben #0" = 10
   "Noohehoos #0" = 10
   "Hwehuk #0" = 10
   "Pehnus #0" = 10
   "Yimkadam #0" = 10
   "Twooiaskut #0" = 10
-  "Luchalkanam #0" = 10
   "S'hootkanam #0" = 10
   "Smeakanam #0" = 10
   "Sadziskeh #0" = 10
-  "Hehmahl #0" = 10
   "Hatch Kwentum #0" = 10
   "Yoikum #0" = 10
-  "Tkwamahan #0" = 10
   "Stodumkan #0" = 10
   "Belole #0" = 10
   "D'zololegwamhu #0" = 10
@@ -108,84 +95,97 @@ monarch_names = {
   "Sholeetsa #0" = -1
   "Ladalia #0" = -1
   "Olahl #0" = -1
+  "特夸玛汉 #0" = 10  # Tkwamahan #0
+  "黑玛赫尔 #0" = 10  # Hehmahl #0
+  "鲁恰尔卡南 #0" = 10  # Luchalkanam #0
+  "库塔卡南 #0" = 10  # Kuttakanam #0
+  "胡维尔特梅赫吞 #0" = 10  # Hooviltmehtum #0
+  "图莱赫普兰 #0" = 10  # Toolehplan #0
+  "斯基赫吞 #0" = 10  # Skeehtum #0
+  "斯克崴奎 #0" = 10  # Skwaikwi #0
+  "赫尔米茨 #0" = 10  # Helmits #0
+  "丘亚亨特尔 #0" = 10  # Tshuahntl #0
+  "休卡南 #0" = 10  # Heuhkanam #0
+  "夸拉吞 #0" = 10  # Kwallatum #0
+  "绰维特舒特 #0" = 10  # Chowitshoot #0
 }
 leader_names = {
-  "Samish"
+  "萨弥什"  # Samish
   "Sawehamish"
   "Semiahmoo"
   "Shishalh"
-  "Siletz"
+  "锡莱茨"  # Siletz
   "Skagits"
   "Skokomish"
   "Snohomish"
-  "Snoqualmie"
+  "斯诺夸尔米耶"  # Snoqualmie
   "Songhees"
-  "Squamish"
-  "Squaxin"
-  "Stillaguamish"
+  "斯阔米什"  # Squamish
+  "斯夸克辛"  # Squaxin
+  "斯蒂尔拉瓜米什 #0"  # Stillaguamish
   "Stolo"
-  "Aitchelitz"
+  "艾切里茨"  # Aitchelitz
   "Chawathil"
   "Cheam"
   "Kwantlen"
-  "Katzie"
+  "卡切"  # Katzie
   "Leqamel"
   "Matsqui"
   "Popkum"
   "Shxwowhamel"
-  "Skway"
+  "斯奎"  # Skway
   "Skowkale"
-  "Skwah"
+  "斯夸赫"  # Skwah
   "Soowalhie"
-  "Chehalis"
+  "奇黑利斯"  # Chehalis
   "Sumas"
-  "Tzeatchen"
-  "Yakweakwioose"
+  "切臣"  # Tzeatchen
+  "雅克韦亚克维乌塞"  # Yakweakwioose
   "Suiaxbixw"
-  "Suquamish"
+  "苏魁米什"  # Suquamish
   "Swinomish"
   "Tsawassen"
   "Tsleil-Waututh"
-  "Tulalip"
+  "图拉里普"  # Tulalip
   "Xacuabs"
 }
 ship_names = {
-  "Samish"
+  "萨弥什"  # Samish
   "Sawehamish"
   "Semiahmoo"
   "Shishalh"
-  "Siletz"
+  "锡莱茨"  # Siletz
   "Skagits"
   "Skokomish"
   "Snohomish"
-  "Snoqualmie"
+  "斯诺夸尔米耶"  # Snoqualmie
   "Songhees"
-  "Squamish"
-  "Squaxin"
-  "Stillaguamish"
+  "斯阔米什"  # Squamish
+  "斯夸克辛"  # Squaxin
+  "斯蒂尔拉瓜米什 #0"  # Stillaguamish
   "Stolo"
-  "Aitchelitz"
+  "艾切里茨"  # Aitchelitz
   "Chawathil"
   "Cheam"
   "Kwantlen"
-  "Katzie"
+  "卡切"  # Katzie
   "Leqamel"
   "Matsqui"
   "Popkum"
   "Shxwowhamel"
-  "Skway"
+  "斯奎"  # Skway
   "Skowkale"
-  "Skwah"
+  "斯夸赫"  # Skwah
   "Soowalhie"
-  "Chehalis"
+  "奇黑利斯"  # Chehalis
   "Sumas"
-  "Tzeatchen"
-  "Yakweakwioose"
+  "切臣"  # Tzeatchen
+  "雅克韦亚克维乌塞"  # Yakweakwioose
   "Suiaxbixw"
-  "Suquamish"
+  "苏魁米什"  # Suquamish
   "Swinomish"
   "Tsawassen"
   "Tsleil-Waututh"
-  "Tulalip"
+  "图拉里普"  # Tulalip
   "Xacuabs"
 }

@@ -43,23 +43,22 @@ leader_names = {
   "纳兹米赞"  # Nazmizan
   "鲁姆"  # Roem
   "斯亚伊伏德丁"  # Syarifuddin
-  "Zulkifli"
+  "祖尔琦非里"  # Zulkifli
 }
 monarch_names = {
-  "Mengtsekya #0" = 20
-  "Muhammad 'Alî #0" = 20
-  "'Abd al-Mubin #0" = 20
-  "Muhyî ad-Dîn #0" = 20
   "Nasr ad-Dîn #0" = 20
   "Kamâl ad-Dîn #0" = 20
-  "Alâ' ad-Dîn #0" = 20
   "Sayf ad-Dîn #0" = 20
-  "Muhammad Jamâl ad-Dîn #0" = 20
-  "Muhammad Tâj ad-Dîn #0" = 20
   "'Umniya #0" = -1
-  "Hafeeza #0" = -1
   "Aisha #0" = -1
   "Azura #0" = -1
+  "哈费厄扎 #0" = -1  # Hafeeza #0
+  "莫哈末 丹祖汀 #0" = 20  # Muhammad Tâj ad-Dîn #0
+  "穆罕默德 贾迈勒丁 #0" = 20  # Muhammad Jamâl ad-Dîn #0
+  "阿拉丁 #0" = 20  # Alâ' ad-Dîn #0
+  "穆希丁 #0" = 20  # Muhyî ad-Dîn #0
+  "阿布都 穆宾 #0" = 20  # 'Abd al-Mubin #0
+  "穆罕默德 阿里 #0" = 20  # Muhammad 'Alî #0
   "阿卜杜勒 贾利勒 #0" = 20  # 'Abd al-Jalîl #0
   "哈桑 #0" = 20  # Hasan #0
   "赛义夫 里贾 #0" = 20  # Sayf ar-Rijal #0
@@ -68,10 +67,11 @@ monarch_names = {
   "苏莱曼 #0" = 20  # Sulaymân #0
   "艾哈迈德 #0" = 20  # Ahmad #0
   "穆罕默德 #0" = 20  # Muhammad #0
-  "扫罗 #0" = 20  # Tsau-Lha #0
-  "妿阇婆底 #0" = 20  # Gadzabadi #0
-  "搓令妿偷 #0" = 20  # Tsalenggathu #0
-  "眠罗阇 #0" = 20  # Menradza #0
+  "弥悉多耶 #0" = 20  # Mengtsekya #0
+  "修罗 #0" = 20  # Tsau-Lha #0
+  "迦沙婆提 #0" = 20  # Gadzabadi #0
+  "沙林伽都 #0" = 20  # Tsalenggathu #0
+  "弥耶娑 #0" = 20  # Menradza #0
   "侯赛因 阿里 里阿亚特 #0" = 20  # Husayn 'Alî Ri'âyat #0
   "伊斯坎德尔 塔尼 #0" = 20  # Iskandar Tanî #0
   "阿里 穆加雅特 #0" = 20  # 'Alî Mugâyat #0
@@ -99,62 +99,62 @@ ship_names = {
   "Parameswara"
   "伊斯坎德尔苏丹"  # Sultan Iskandar
   "Bendahara"
-  "Laksamana"
-  "Temenggung"
-  "Penghulu bendahari"
-  "Shahbandar"
+  "海军司令"  # Laksamana
+  "天猛公"  # Temenggung
+  "首席财务大臣"  # Penghulu bendahari
+  "舍般陀"  # Shahbandar
   "Hukum Kanun"
-  "Undang-Undang"
-  "Pulau Bakung"
-  "Pulau Lingga"
-  "Kepulauan"
-  "Pulau Singkep"
-  "Kepulauan Riau"
-  "Pulau Rempang"
-  "Pulau Kundur"
-  "Pulau Padang"
-  "Pulau Bengkaus"
-  "Pulau Tinggi"
-  "Pulau Sibu"
-  "Pulau Tioman"
-  "Pulau Aur"
-  "Pulau Rupat"
-  "Pulau Rangsang"
-  "Pulau Tebing Tinggi"
+  "法律"  # Undang-Undang
+  "巴贡岛"  # Pulau Bakung
+  "林加岛"  # Pulau Lingga
+  "群岛"  # Kepulauan
+  "新及岛"  # Pulau Singkep
+  "廖内群岛"  # Kepulauan Riau
+  "伦庞岛"  # Pulau Rempang
+  "昆都尔岛"  # Pulau Kundur
+  "巴东岛"  # Pulau Padang
+  "本卡斯岛"  # Pulau Bengkaus
+  "丁宜岛"  # Pulau Tinggi
+  "诗巫岛"  # Pulau Sibu
+  "刁曼岛"  # Pulau Tioman
+  "凹岛"  # Pulau Aur
+  "鲁帕岛"  # Pulau Rupat
+  "朗桑岛"  # Pulau Rangsang
+  "直名丁宜岛"  # Pulau Tebing Tinggi
   "Sungai Belait"
-  "Sungai Tutong"
-  "Sungai Tembureng"
+  "都东河"  # Sungai Tutong
+  "淡武廊河"  # Sungai Tembureng
   "Batang"
   "Trusan"
   "Sungai Pandaruan"
-  "Lungai Limbang"
+  "林梦河 #0"  # Lungai Limbang
   "Batang Baram"
-  "Sungai Bakong"
-  "Sungai Tutoh"
-  "Sungai Tinjar"
-  "Kuala Belait"
+  "巴孔河"  # Sungai Bakong
+  "都道河"  # Sungai Tutoh
+  "廷贾尔河"  # Sungai Tinjar
+  "马来奕"  # Kuala Belait
   "Batu Danau"
-  "Kuala Medamit"
+  "梅达米特河口"  # Kuala Medamit
   "Bangar"
-  "Penanjong"
+  "彭南琼"  # Penanjong
   "Lumut"
-  "Telingan"
+  "特林甘"  # Telingan
   "Labi"
   "Sukang"
-  "Kuala Baram"
+  "巴兰河口"  # Kuala Baram
   "锡亚克"  # Siak
-  "Samandara"
+  "萨曼达拉"  # Samandara
   "Malik ul Salih"
-  "Malik Al-Salih"
+  "马利克 萨利哈"  # Malik Al-Salih
   "Teunom"
   "Peusangen"
   "Jamboaye"
-  "Alas"
+  "阿拉斯"  # Alas
   "Tripa"
-  "Simpang-kiri"
+  "星帕昂 克里"  # Simpang-kiri
   "Peg Serbeulangit"
   "Peg Pusat"
-  "Gunung Peuetsagoe"
-  "Pulau we"
-  "Pulau Breueh"
+  "鞠乌农 佩乌尔茨阿苟"  # Gunung Peuetsagoe
+  "韦岛"  # Pulau we
+  "普烙 贝列哈"  # Pulau Breueh
 }

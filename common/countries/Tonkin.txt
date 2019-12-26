@@ -26,21 +26,21 @@ historical_units = {
 }
 monarch_names = {
   "Kiem #0" = 10
-  "Tung #0" = 10
   "Trang #0" = 10
   "Tac #0" = 10
   "Can #0" = 10
-  "Cuong #0" = 10
   "Giang #0" = 10
   "Doanh #0" = 10
   "Sam #0" = 10
   "Kai #0" = 10
-  "Bong #0" = 10
   "Kim Anh #0" = -1
   "Thuy Tram #0" = -1
   "Bich Ngoc #0" = -1
-  "Phuong Nga #0" = -1
-  "Thanh Thao #0" = -1
+  "清草 #0" = -1  # Thanh Thao #0
+  "芳萼 #0" = -1  # Phuong Nga #0
+  "槰 #0" = 10  # Bong #0
+  "㭎 #0" = 10  # Cuong #0
+  "松 #0" = 10  # Tung #0
 }
 leader_names = {
   "Tran"
@@ -64,7 +64,7 @@ leader_names = {
   "Chu"
   "Chung"
   "Diep"
-  "Duong"
+  "杨"  # Duong
   "Dam"
   "Dao"
   "Dinh"
@@ -78,8 +78,8 @@ leader_names = {
   "Lac"
   "Lam"
   "Lieu"
-  "Luc"
-  "Luong"
+  "陆"  # Luc
+  "梁"  # Luong
   "Luu"
   "Ma"
   "Mach"
@@ -87,11 +87,11 @@ leader_names = {
   "Nghiem"
   "Pho"
   "Phung"
-  "Quach"
-  "Quang"
-  "Quyen"
+  "郭"  # Quach
+  "光"  # Quang
+  "权"  # Quyen
   "Ta"
-  "Thach"
+  "石"  # Thach
   "Thai"
   "Thi"
   "Thuy"
@@ -101,33 +101,33 @@ leader_names = {
   "Trang"
   "Trieu"
   "Trinh"
-  "Truong"
+  "张"  # Truong
   "Van"
   "Vinh"
-  "Vuong"
+  "王"  # Vuong
 }
 ship_names = {
   "Tran Canh"
-  "Tran Hoang"
+  "陈晃"  # Tran Hoang
   "Tran Khâm"
   "Tran Thuyên"
   "Tran Manh"
-  "Tran Vuong"
+  "陈旺"  # Tran Vuong
   "Tran Hao"
-  "Duong Nhat Lê"
+  "杨日礼"  # Duong Nhat Lê
   "Tran Phu"
   "Tran Kính"
   "Tran Hien"
   "Tran Ngung"
   "陈𤇼"  # Tran An
-  "Thái Tông"
-  "Thánh Tông"
-  "Nhân Tông"
-  "Anh Tông"
-  "Minh Tông"
-  "Hien Tông"
-  "Du Tông"
-  "Nghe Tông"
-  "Due Tông"
-  "Thuan Tông"
+  "太宗"  # Thái Tông
+  "圣宗"  # Thánh Tông
+  "仁宗"  # Nhân Tông
+  "英宗"  # Anh Tông
+  "明宗"  # Minh Tông
+  "宪宗"  # Hien Tông
+  "裕宗"  # Du Tông
+  "艺宗"  # Nghe Tông
+  "睿宗"  # Due Tông
+  "顺宗"  # Thuan Tông
 }

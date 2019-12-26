@@ -29,12 +29,9 @@ historical_units = {
 }
 monarch_names = {
   "Jafar #0" = 40
-  "Abdallah #0" = 30
   "Amr #0" = 20
-  "Muhsin #0" = 10
   "Ghalib #0" = 10
   "al-Mansur #0" = 10
-  "Ali #0" = 10
   "Husayn #0" = 10
   "Hiba #0" = -1
   "Fatimah #0" = -1
@@ -42,7 +39,6 @@ monarch_names = {
   "Tahani #0" = -1
   "Safaa  #0" = -1
   "Randa #0" = -1
-  "Qismah #0" = -1
   "Nadirah #0" = -1
   "Maram #0" = -1
   "Layla #0" = -1
@@ -56,6 +52,10 @@ monarch_names = {
   "Nadiyya #0" = -1
   "Norah #0" = -1
   "Fahda #0" = -1
+  "乞丝马哈 #0" = -1  # Qismah #0
+  "阿里 #0" = 10  # Ali #0
+  "穆赫辛 #0" = 10  # Muhsin #0
+  "阿卜杜拉 #0" = 30  # Abdallah #0
 }
 leader_names = {
   "阿里"  # Ali
@@ -73,21 +73,21 @@ ship_names = {
   "阿里 伊本 拉素尔"  # Ali ibn Rasul
   "Mansur Umar"
   "Zaizz"
-  "Zabid"
-  "Muzaffar Yusuf"
+  "扎比德"  # Zabid
+  "穆扎法尔 优素福"  # Muzaffar Yusuf
   "Malik al-Mujahid"
-  "Shaykh Uthman"
+  "谢赫 奥斯曼"  # Shaykh Uthman
   "Al-Kawd"
   "Whaqra"
   "Wadi Bana"
   "Ta'izz"
-  "At-Tubah"
+  "阿塔土拔"  # At-Tubah
   "Dhubab"
   "Jabal Kharaz"
   "Musaymir"
   "Mawiyah"
-  "Jabal al-Hasha"
+  "杰拜勒 阿哈萨"  # Jabal al-Hasha
   "Ibb"
-  "Qa'tabah"
-  "Jabal Thamar"
+  "基塔巴"  # Qa'tabah
+  "杰拜勒 塔玛尔"  # Jabal Thamar
 }

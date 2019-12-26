@@ -36,39 +36,39 @@ monarch_names = {
   "Teimuraz #0" = 10
   "Levan #0" = 10
   "Demetre #0" = 10
-  "Archil #0" = 10
   "Svimon #0" = 10
   "Solomon #0" = 20
   "Mamia #0" = 10
-  "Tornike #0" = 0
   "Tsotne #0" = 0
   "Datua #0" = 0
   "Bezhan #0" = 0
   "Katsia #0" = 0
-  "Manuchar #0" = 0
   "Otia #0" = 0
   "Grigol #0" = 0
-  "Liparit #0" = 0
   "Kakhaber #0" = 0
   "Shamandavle #0" = 0
   "Vamiq #0" = 0
-  "Zviad #0" = 0
   "Rabia #0" = 0
   "Puto #0" = 0
   "Seteman #0" = 0
-  "Zegnak #0" = 0
-  "Timote #0" = 0
   "Tamar #0" = -20
   "Rusudan #0" = -10
-  "Nestan-Darejan #0" = -10
-  "Darejan #0" = -5
   "Ketevan #0" = -5
-  "Tinatin #0" = -5
   "Nino #0" = -1
   "Elene #0" = -1
   "Ana #0" = -1
   "Mariam #0" = -1
   "Khoreshan #0" = -1
+  "季纳京 #0" = -5  # Tinatin #0
+  "达雷扬 #0" = -5  # Darejan #0
+  "内斯唐 达雷扬 #0" = -10  # Nestan-Darejan #0
+  "蒂莫特 #0" = 0  # Timote #0
+  "泽格纳克 #0" = 0  # Zegnak #0
+  "兹维亚德 #0" = 0  # Zviad #0
+  "利帕里特 #0" = 0  # Liparit #0
+  "马努切赫尔 #0" = 0  # Manuchar #0
+  "托尔尼克 #0" = 0  # Tornike #0
+  "阿尔奇尔 #0" = 10  # Archil #0
   "康斯坦丁 #2" = 5  # Konstantine #2
   "达维特 #1" = 20  # Davit #1
   "瓦赫坦 #0" = 5  # Vakhtang #0
@@ -77,27 +77,27 @@ monarch_names = {
   "巴格拉特 #1" = 35  # Bagrat #1
 }
 leader_names = {
-  "Abashidze"
+  "阿巴希泽"  # Abashidze
   "Agiashvili"
   "Anchabadze"
   "Apakidze"
-  "Chichua"
-  "Chijavadze"
-  "Chikovani"
+  "奇楚亚"  # Chichua
+  "恰瓦泽"  # Chijavadze
+  "奇科瓦尼"  # Chikovani
   "Chkheidze"
   "Dadiani"
   "Dadeshkeliani"
   "Gelovani"
   "Gurieli"
   "Iashvili"
-  "Lortkipanidze"
+  "罗尔特基帕尼泽"  # Lortkipanidze
   "Machavariani"
   "Machutadze"
   "Mkheidze"
   "Mikeladze"
   "Nakashidze"
   "Nikoladze"
-  "Nizharadze"
+  "尼扎拉泽"  # Nizharadze
   "Shervashidze"
   "Tsereteli"
   "Tsulukidze"
@@ -108,23 +108,23 @@ ship_names = {
   "Anakopia"
   "Artaani"
   "Argo"
-  "Abkhazeti"
+  "阿布哈兹"  # Abkhazeti
   "Apsaros"
-  "Ateni Sioni"
+  "阿特尼 斯诺利"  # Ateni Sioni
   "Avtandil"
   "Bichvinta"
   "Batomi"
-  "Colchis"
+  "科尔基斯"  # Colchis
   "Dmanisi"
   "Demetre Tavdadebuli"
   "Didgori"
   "Davit Aghmashenebeli"
   "Dioscurias"
   "Gelati"
-  "Giorgi V Brtskinvale"
+  "乔治 V 聪明者"  # Giorgi V Brtskinvale
   "Jvari"
-  "Jvari Vazisa"
-  "Kutaisi"
+  "季瓦里 瓦兹萨"  # Jvari Vazisa
+  "库塔伊西"  # Kutaisi
   "Khornabuji"
   "Lasharisjvari"
   "Mtkvari"
@@ -142,13 +142,13 @@ ship_names = {
   "Svaneti"
   "Svetitskhoveli"
   "Shota Rustaveli"
-  "Tamar"
+  "他玛"  # Tamar
   "Tsminda Giorgi"
   "Tsotne Dadiani"
   "Tetri Giorgi"
   "Ushba"
   "Uplistsikhe"
-  "Vakhtang Gorgasali"
-  "Vardzia"
+  "瓦赫坦"  # Vakhtang Gorgasali
+  "瓦尔济亚"  # Vardzia
   "Venakhi"
 }

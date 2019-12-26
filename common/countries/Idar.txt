@@ -42,7 +42,6 @@ monarch_names = {
   "Punjaji #0" = 10
   "Viramdev #0" = 10
   "Kalianmal #0" = 10
-  "Jagannath #0" = 10
   "Arjundas #0" = 10
   "Gopinath #0" = 10
   "Karansingh #0" = 10
@@ -51,19 +50,14 @@ monarch_names = {
   "Bhan #0" = 10
   "Punja #0" = 10
   "Baz #0" = 0
-  "Kumbhakarna #0" = 0
   "Natwar #0" = 0
   "Ratan #0" = 0
-  "Jhala #0" = 0
-  "Hakim #0" = 0
   "Sidhraj #0" = 0
   "Raj #0" = 0
   "Jai #0" = 0
-  "Sangram #0" = 0
   "Sejakji #0" = 0
   "Dilip #0" = 0
   "Kshetra #0" = 0
-  "Kunwar #0" = 0
   "Nath #0" = 0
   "Viram #0" = 0
   "Baiji Lal #0" = 0
@@ -76,31 +70,37 @@ monarch_names = {
   "Ajab #0" = -1
   "Kamala #0" = -1
   "Dev #0" = -1
+  "俱伐罗 #0" = 0  # Kunwar #0
+  "商羯罗摩 #0" = 0  # Sangram #0
+  "哈基姆 #0" = 0  # Hakim #0
+  "阇诃罗 #0" = 0  # Jhala #0
+  "鸠姆婆迦纳 #0" = 0  # Kumbhakarna #0
+  "扎格纳特 #0" = 10  # Jagannath #0
 }
 leader_names = {
   "Sahu"
-  "Sisodiya"
+  "西索迪亚"  # Sisodiya
   "Saran"
   "Bhati"
-  "Chandela"
+  "旃提罗"  # Chandela
   "Das"
   "Jadon"
   "Jadeja"
-  "Chudasama"
-  "Tomara"
+  "珠多娑摩"  # Chudasama
+  "都摩罗"  # Tomara
   "Bhaal"
-  "Chauhan"
+  "乔诃那"  # Chauhan
   "Mori"
   "Bargujar"
   "Chundawa"
   "Gohil"
   "Khumba"
-  "Pratap"
-  "Singh"
-  "Vaghela"
+  "波罗多波"  # Pratap
+  "僧诃"  # Singh
+  "婆艺罗"  # Vaghela
 }
 ship_names = {
-  "Chambal"
+  "坎伯"  # Chambal
   "Devi"
   "Durga"
   "Gayatri"
@@ -110,10 +110,10 @@ ship_names = {
   "Kala Jahazi"
   "Lakshmi"
   "Lal Jahazi"
-  "Luni"
+  "鲁尼"  # Luni
   "Nausena"
   "Merwar ka Nav"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Nila Jahazi"
   "Parvati"
   "Radha"
@@ -122,5 +122,5 @@ ship_names = {
   "Sagar"
   "Sarasvati"
   "Sekhawati"
-  "Sita"
+  "悉多"  # Sita
 }

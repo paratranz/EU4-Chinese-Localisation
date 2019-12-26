@@ -32,18 +32,18 @@ historical_units = {
 monarch_names = {
   "Leandro #0" = 0
   "Leonardo #0" = 0
-  "Marco #0" = 0
   "Nestore #0" = 0
   "Orlando #0" = 0
   "Paolo #0" = 0
   "Patrizio #0" = 0
   "Pietro #0" = 0
-  "Roberto #0" = 0
   "Salvatore #0" = 0
   "Saverio #0" = 0
   "Umberto #0" = 0
   "Vicenzo #0" = 0
   "鲁杰罗 #0" = 0  # Ruggiero #0
+  "罗贝尔托 #0" = 0  # Roberto #0
+  "马可 #0" = 0  # Marco #0
   "伊拉里奥 #0" = 0  # Ilario #0
   "格拉齐亚诺 #0" = 0  # Graziano #0
   "朱塞佩 #0" = 0  # Giuseppe #0
@@ -80,15 +80,15 @@ leader_names = {
   "Bartolini"
   "Benciveni"
   "Bizzelli"
-  "Boncompagni"
-  "Botta-Adorno"
+  "邦孔帕尼"  # Boncompagni
+  "博塔 阿多尔诺"  # Botta-Adorno
   "Buontalenti"
   "Buti"
   "Butteri"
   "di Campofregoso"
   "Cercignani"
-  "Chiastavelli"
-  "Chigi"
+  "基亚斯塔韦利"  # Chiastavelli
+  "基吉"  # Chigi
   "Corsini"
   "Cybo-Malaspina"
   "di Farnese"
@@ -99,17 +99,17 @@ leader_names = {
   "Lessi"
   "Ludovisi"
   "Malaspina"
-  "Mancinetti"
+  "曼奇内蒂"  # Mancinetti
   "de' Medici"
   "del Moro"
   "Nasini"
   "Orsini"
-  "Piccolomini"
-  "Pico"
+  "皮科洛米尼"  # Piccolomini
+  "毕戈"  # Pico
   "Pierallini"
   "Pieroni"
   "Piombante"
-  "Pontelli"
+  "蓬泰利"  # Pontelli
   "Rivani"
   "Rospigliosi"
   "del Rosso"
@@ -117,11 +117,11 @@ leader_names = {
   "Soderini"
   "Tempesta"
   "Terreni"
-  "Tonelli"
+  "托内利"  # Tonelli
   "Traballesi"
   "Ulivelli"
   "Vasari"
-  "Zucchi"
+  "祖基"  # Zucchi
 }
 ship_names = {
   "Arezzo"
@@ -129,7 +129,7 @@ ship_names = {
   "Corso Donati"
   "Dino Compagni"
   "Firenze"
-  "Francesco Petrarca"
+  "弗朗切斯科 彼得拉尔卡"  # Francesco Petrarca
   "Giotto"
   "Impruneta"
   "Medici"

@@ -25,10 +25,8 @@ historical_units = {
   ali_bey_reformed_infantry
 }
 monarch_names = {
-  "Ahmad #0" = 20
   "Sulaymân #0" = 20
   "Yazîd #0" = 0
-  "Zaydân #0" = 20
   "Alim #1" = 15
   "al-Walîd #0" = 0
   "Ataullah #0" = 0
@@ -39,10 +37,6 @@ monarch_names = {
   "Faraj #0" = 0
   "Faruq #0" = 0
   "Firuz #0" = 0
-  "Habib #0" = 0
-  "Hafiz #0" = 0
-  "Hakim #0" = 0
-  "Hashim #0" = 0
   "Ibrahim #0" = 0
   "Imtiyaz #0" = 0
   "Jabril #0" = 0
@@ -50,40 +44,46 @@ monarch_names = {
   "Latif #0" = 0
   "Lutfi #0" = 0
   "Maram #0" = 0
-  "Muhsin #0" = 0
   "Najib #0" = 0
   "Qismat #0" = 0
-  "Qusay #0" = 0
   "Rashad #0" = 0
   "Rasul #0" = 0
   "Ridwan #0" = 0
   "Shafaqat #0" = 0
   "Yasir #0" = 0
   "Yûsuf #0" = 0
-  "Zulfiqar #0" = 0
-  "Thana #0" = -1
   "Selima #0" = -1
-  "Thamina #0" = -1
   "Widad #0" = -1
   "Aisha #0" = -1
-  "Zaidana #0" = -5
   "Khnata #0" = -5
   "Bilqis #0" = -1
-  "Halima #0" = -1
   "Alwa #0" = -1
+  "哈里马 #0" = -1  # Halima #0
+  "扎伊达纳 #0" = -5  # Zaidana #0
+  "塔米纳 #0" = -1  # Thamina #0
+  "萨娜 #0" = -1  # Thana #0
+  "佐勒菲卡尔 #0" = 0  # Zulfiqar #0
   "谢里夫 #0" = 0  # Sharif #0
+  "库赛 #0" = 0  # Qusay #0
+  "穆赫辛 #0" = 0  # Muhsin #0
+  "哈希姆 #0" = 0  # Hashim #0
+  "哈基姆 #0" = 0  # Hakim #0
+  "哈菲兹 #0" = 0  # Hafiz #0
+  "哈比卜 #0" = 0  # Habib #0
+  "扎伊丹 #0" = 20  # Zaydân #0
+  "艾哈迈德 #0" = 20  # Ahmad #0
   "阿卜杜勒 马利克 #0" = 20  # 'Abd al-Malik #0
   "阿卜杜拉 #0" = 20  # 'Abdallâh #0
   "穆罕默德 #0" = 20  # Muhammad #0
 }
 leader_names = {
-  "Hadji"
+  "哈吉"  # Hadji
   "Sediki"
   "Alami"
   "Aouita"
   "Behar"
   "Berui"
-  "Barek"
+  "巴雷克"  # Barek
   "Hadda"
   "Sellami"
   "Bidouane"
@@ -91,7 +91,7 @@ leader_names = {
 ship_names = {
   "Majid"
   "Wadid"
-  "Hakim"
+  "哈基姆"  # Hakim
   "Wasi"
   "Mujib"
   "Raqib"
@@ -99,14 +99,14 @@ ship_names = {
   "Jalil"
   "Hasib"
   "Muqit"
-  "Hafiz"
+  "哈菲兹"  # Hafiz
   "Kabir"
   "Ali"
   "Shakur"
   "Ghafur"
   "Azim"
-  "Halim"
+  "哈里木"  # Halim
   "Khabir"
   "Latif"
-  "Adl"
+  "阿德尔"  # Adl
 }

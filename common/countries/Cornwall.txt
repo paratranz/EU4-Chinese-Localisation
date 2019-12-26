@@ -31,7 +31,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Hoel #2" = 20
   "Cador #1" = 20
   "Duncan #1" = 20
   "Howel #1" = 20
@@ -65,14 +64,15 @@ monarch_names = {
   "Petrok #0" = 0
   "Ruan Talan #0" = 0
   "Talek #0" = 0
-  "Tomas #0" = 0
-  "Uther #0" = 0
   "Wella #0" = 0
   "Yestin #0" = 0
   "Ythel #0" = 0
   "Blejan #0" = -1
   "Elowen #0" = -1
   "Eseld #0" = -1
+  "乌瑟尔 #0" = 0  # Uther #0
+  "托马斯 #0" = 0  # Tomas #0
+  "霍埃尔 #2" = 20  # Hoel #2
   "孔南" = 20  # Conan #2
 }
 leader_names = {
@@ -96,7 +96,7 @@ leader_names = {
   "Hale"
   "Innes"
   "Jago"
-  "James"
+  "詹姆士"  # James
   "Jenner"
   "Jolley"
   "约瑟夫"  # Joseph
@@ -140,14 +140,14 @@ ship_names = {
   "Excalibur"
   "Falmouth"
   "Galahad"
-  "Gawain"
+  "高文"  # Gawain
   "Guinevere"
   "Hal-an-Tow"
   "Helston"
   "Kernow"
   "金 马克"  # King Mark
   "兰斯洛特"  # Lancelot
-  "Launceston"
+  "朗斯顿"  # Launceston
   "Lizard"
   "Lostwithiel"
   "里昂尼斯"  # Lyonesse
@@ -163,8 +163,8 @@ ship_names = {
   "圣 彼得洛克"  # St Petroc
   "圣 皮林"  # St Pirin
   "Stannary"
-  "Tamar"
-  "Tintagel"
+  "他玛"  # Tamar
+  "廷塔杰尔"  # Tintagel
   "Trelawny"
   "Truro"
   "Whitsand"

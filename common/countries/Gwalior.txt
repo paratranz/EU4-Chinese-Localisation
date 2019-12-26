@@ -30,8 +30,6 @@ historical_units = {
 monarch_names = {
   "Beersingh Deo #1" = 20
   "Pulkit #1" = 20
-  "Dungar Singh #1" = 20
-  "Man Singh #1" = 20
   "Uddhharandev #1" = 20
   "Vikramdev #1" = 20
   "Ganapatidev #1" = 20
@@ -40,9 +38,11 @@ monarch_names = {
   "Baija Bai #0" = -10
   "Chinkuraje #0" = -1
   "Kamalaraje #0" = -1
+  "曼 辛格 #1" = 20  # Man Singh #1
+  "幢伽罗 僧诃 #1" = 20  # Dungar Singh #1
 }
 leader_names = {
-  "Singh"
+  "僧诃"  # Singh
   "Datia"
   "Mihir"
   "Jasos"
@@ -53,20 +53,20 @@ leader_names = {
   "Pakhral"
   "Pundir"
   "Naru"
-  "Saharan"
+  "撒哈拉"  # Saharan
   "Mori"
-  "Chauhan"
+  "乔诃那"  # Chauhan
   "Bhaal"
-  "Tomara"
-  "Chandela"
-  "Katoch"
+  "都摩罗"  # Tomara
+  "旃提罗"  # Chandela
+  "卡托奇"  # Katoch
   "Jadon"
 }
 ship_names = {
   "Betwa"
   "Devi"
   "Durga"
-  "Ganga"
+  "恒河"  # Ganga
   "Gandak"
   "Gayatri"
   "Ghagra"
@@ -77,15 +77,15 @@ ship_names = {
   "Lakshmi"
   "Lal Jahazi"
   "Nausena"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Nila Jahazi"
   "Parvati"
   "Radha"
-  "Ramganga"
+  "拉姆根加河"  # Ramganga
   "Ratri"
   "Sagar"
   "Sarasvati"
   "Satlaj"
-  "Sita"
+  "悉多"  # Sita
   "Yamuna"
 }

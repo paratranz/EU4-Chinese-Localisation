@@ -75,7 +75,6 @@ leader_names = {
 monarch_names = {
   "Domnhall #0" = 40
   "Tadgh Liath #0" = 40
-  "Cormac #0" = 40
   "Finghin #0" = 40
   "Donogh #0" = 20
   "Diarmaid #0" = 20
@@ -99,7 +98,6 @@ monarch_names = {
   "Niall #0" = 0
   "Odhrán #0" = 0
   "Pádraig #0" = 0
-  "Quinn #0" = 0
   "Riain #0" = 0
   "Ríoghnán #0" = 0
   "Rórdan #0" = 0
@@ -108,13 +106,15 @@ monarch_names = {
   "Séaghdhá #0" = 0
   "Seanán #0" = 0
   "Sechnall #0" = 0
-  "Tighearnach #0" = 0
-  "Tuathal #0" = 0
   "Uilliam #0" = 0
   "Uinseann #0" = 0
   "Neassa #0" = -1
   "Rosheen #0" = -1
   "Siofra #0" = -1
+  "图厄撒尔 #0" = 0  # Tuathal #0
+  "提赫亚那 #0" = 0  # Tighearnach #0
+  "奎因 #0" = 0  # Quinn #0
+  "科尔马克 #0" = 40  # Cormac #0
 }
 ship_names = {
   "Carlow"
@@ -122,11 +122,11 @@ ship_names = {
   "Kildare"
   "Kilkenny"
   "Laios"
-  "Longford"
+  "朗福德"  # Longford
   "Louth"
   "Meath"
   "Offaly"
   "Westmeath"
-  "Wexford"
+  "威克斯福德"  # Wexford
   "Wicklow"
 }

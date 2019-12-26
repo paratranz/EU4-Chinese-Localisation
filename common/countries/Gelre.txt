@@ -34,13 +34,11 @@ monarch_names = {
   "Reinoud #3" = 20
   "Willem #3" = 20
   "Arnold #1" = 15
-  "Adolf #0" = 15
   "Karel #0" = 15
   "Gerard #4" = 5
   "Diederik #1" = 5
   "Hendrik #1" = 5
   "Jan #1" = 5
-  "Alfons #0" = 0
   "Andries #0" = 0
   "Bartholomeus #0" = 0
   "Constantijn #0" = 0
@@ -49,13 +47,10 @@ monarch_names = {
   "Ewoud #0" = 0
   "Floris #0" = 0
   "Godfried #0" = 0
-  "Jacobus #0" = 0
   "Joost #0" = 0
   "Joris #0" = 0
   "Kasper #0" = 0
   "Koenraad #0" = 0
-  "Ludger #0" = 0
-  "Luuk #0" = 0
   "Marinus #0" = 0
   "Maurits #0" = 0
   "Michaël #0" = 0
@@ -64,7 +59,6 @@ monarch_names = {
   "Reinier #0" = 0
   "Rien #0" = 0
   "Sebastiaan #0" = 0
-  "Siemen #0" = 0
   "Sieuwerd #0" = 0
   "Sjoerd #0" = 0
   "Vincent #0" = 0
@@ -73,7 +67,13 @@ monarch_names = {
   "Amalia #0" = -1
   "Cécile #0" = -1
   "Hilda #0" = -1
+  "西蒙 #0" = 0  # Siemen #0
   "鲁道夫 #0" = 0  # Rudolf #0
+  "卢克 #0" = 0  # Luuk #0
+  "卢德格尔 #0" = 0  # Ludger #0
+  "雅各布斯 #0" = 0  # Jacobus #0
+  "阿方索 #0" = 0  # Alfons #0
+  "阿道夫 #0" = 15  # Adolf #0
 }
 leader_names = {
   "Bachman"
@@ -105,7 +105,7 @@ leader_names = {
   "Sweerts"
   "Teerink"
   "Ter Horst"
-  "Van Bentheim"
+  "范 本特海姆"  # Van Bentheim
   "Van Bommel"
   "Van Bronckhorst"
   "Van den Bergh"
@@ -121,12 +121,12 @@ ship_names = {
   "Twee Gebroeders"
   "Jonge Daniël"
   "Gelderse Worst"
-  "Wapen van Kampen"
-  "Wapen van Zutphen"
-  "Wapen van Hattem"
-  "Wapen van Zwolle"
-  "Wapen van Deventer"
-  "Wapen van Harderwijk"
+  "坎彭之纹章"  # Wapen van Kampen
+  "聚特芬之纹章"  # Wapen van Zutphen
+  "哈特姆之纹章"  # Wapen van Hattem
+  "兹沃勒之纹章"  # Wapen van Zwolle
+  "迪温特之纹章"  # Wapen van Deventer
+  "哈尔德韦克之纹章"  # Wapen van Harderwijk
   "Hertog Gerard"
   "Hertog Reinoud"
   "De Zwarte Hertog"
@@ -140,7 +140,7 @@ ship_names = {
   "Hertogin Maria"
   "Graaf Godschalk"
   "Bommelerwaard"
-  "Wapen van Nijmegen"
+  "奈梅亨之纹章"  # Wapen van Nijmegen
   "Lichtenvoorde"
   "Maas en Waal"
 }

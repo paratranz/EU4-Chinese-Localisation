@@ -34,18 +34,15 @@ historical_units = {
 }
 monarch_names = {
   "Taj ud-Din Firuz #0" = 20
-  "Ala ud-Din Ahmad #0" = 20
-  "Mahmud #0" = 20
-  "Ahmad #0" = 20
   "Amir #0" = 30
   "Bahâdur Shâh #0" = 20
   "Dâwar Bakhsh #0" = 20
   "Dârâ Shikûh #0" = 10
-  "Malik-ut-Tujjar #0" = 0
   "纳西哈 #0" = -1  # Nasiha #0
   "沙米亚 #0" = -1  # Samiya #0
   "哈基姆 #0" = 0  # Hakim #0
   "锡坎达尔 #0" = 0  # Sikandar #0
+  "马利克 乌特 图贾 #0" = 0  # Malik-ut-Tujjar #0
   "阿拉乌丁 #0" = 0  # Ala-ud-din #0
   "马利克 #0" = 0  # Malik #0
   "阿卜杜勒 #0" = 0  # Abdul #0
@@ -99,6 +96,9 @@ monarch_names = {
   "法鲁赫 希亚尔 #0" = 20  # Farrukh-siyar #0
   "卡西姆 #0" = 30  # Qasim #0
   "阿里 #0" = 30  # Ali #0
+  "艾哈迈德 #0" = 20  # Ahmad #0
+  "马哈茂德 #0" = 20  # Mahmud #0
+  "阿拉丁 艾哈迈德 #0" = 20  # Ala ud-Din Ahmad #0
 }
 leader_names = {
   "阿富汗"  # Afghani
@@ -119,7 +119,7 @@ leader_names = {
   "马赞德兰"  # Mazandarani
   "库姆伊"  # Qummi
   "沙夫希罕"  # Safsikhan
-  "Simnani"
+  "希姆纳尼"  # Simnani
   "锡斯坦"  # Sistani
   "乌兹别克"  # Uzbek
   "胡赛因"  # Hussaini
@@ -141,27 +141,27 @@ leader_names = {
   "Radhidun"
   "Ra'ana"
   "Rumi"
-  "Shahabuddin"
+  "沙阿布臣"  # Shahabuddin
   "谢里夫"  # Sharif
-  "Sinan"
-  "Singh"
+  "锡南"  # Sinan
+  "僧诃"  # Singh
   "Wazirun"
   "乌兹别克"  # Uzbek
-  "Zahiruddin"
+  "扎希鲁丁"  # Zahiruddin
 }
 ship_names = {
   "Alia"
-  "Aurangabad"
+  "奥朗加巴德"  # Aurangabad
   "Devki"
   "Fatimah"
   "Godvari"
   "Gulbargah"
   "Jalsena"
   "Kala Jahazi"
-  "Khan"
+  "汗"  # Khan
   "Lal Jahazi"
   "Nausena"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Niknaz"
   "Nila Jahazi"
   "Niloufa"

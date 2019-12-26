@@ -25,7 +25,6 @@ historical_units = {
   reformed_asian_cavalry
 }
 monarch_names = {
-  "Trakpa Richen #0" = 1
   "Ngapoi Takna #0" = 0
   "Bapu Gendun #0" = 0
   "德吉 曲登 #0" = -1  # Deki Choden #0
@@ -44,6 +43,7 @@ monarch_names = {
   "桑杰嘉措 #0" = 0  # Sangye Gyamtso #0
   "札巴 迥乃 #0" = 1  # Trakpa Chungne #0
   "札巴绛曲 #0" = 1  # Trakpa Chang-chub #0
+  "札巴仁钦 #0" = 1  # Trakpa Richen #0
   "萨迦坚赞 #0" = 1  # Sakya Gyantsen #0
   "绛曲 #0" = 1  # Chang-chub #0
   "阿旺伊西嘉措 #0" = 5  # Ngwaang Yeshi Gyatso #0
@@ -76,14 +76,14 @@ monarch_names = {
 leader_names = {
   "Se"
   "Rmu"
-  "Ldong"
-  "Stong"
+  "董"  # Ldong
+  "东"  # Stong
   "Dbra"
   "Dru"
   "Nyang"
   "Sbas"
   "Gnon"
-  "Chespong"
+  "蔡彭"  # Chespong
   "吞弥"  # Thonmi
   "噶尔"  # Mgar
   "布里"  # Bri
@@ -92,13 +92,13 @@ leader_names = {
   "Mchims"
   "巴尔"  # Bal
   "朗"  # Lang
-  "Cogro"
+  "属庐"  # Cogro
   "Bro"
   "Dbas"
   "许布"  # Shudpu
   "尼牙"  # Gnyags
   "Mgus"
-  "Mjang"
+  "绛"  # Mjang
   "Snang"
   "Sgro"
   "Rma"
@@ -109,7 +109,7 @@ leader_names = {
   "郎"  # Rlangs
   "仁蚌"  # Rinspungs
   "辛厦巴"  # Zhingshag
-  "Phjongsrgjas"
+  "绛贾"  # Phjongsrgjas
   "恩兰"  # Nganlam
   "Sba"
   "李"  # Lig

@@ -28,18 +28,13 @@ historical_units = {
   tipu_sultan_rocket
 }
 monarch_names = {
-  "Zafar #0" = 20
-  "Muhammad #0" = 20
-  "Ahmad #0" = 20
   "Dawud #0" = 10
-  "Mahmud #0" = 20
   "Muzaffar #0" = 20
   "Bahadur #0" = 10
   "Sardar #0" = 0
   "Tatar #0" = 0
   "Fath #0" = 0
   "Khalil #0" = 0
-  "Sikandar #0" = 0
   "Nasir #0" = 0
   "Amarji #0" = 0
   "Bhenji #0" = 0
@@ -48,17 +43,22 @@ monarch_names = {
   "Sidhraj #0" = 0
   "Rajsinhji #0" = 0
   "Fulad #0" = 0
-  "Abdul #0" = 0
-  "Ahmadi #0" = -1
   "Mumtaz #0" = -1
+  "艾哈迈迪 #0" = -1  # Ahmadi #0
   "法蒂玛 #0" = -1  # Fatima #0
+  "阿卜杜勒 #0" = 0  # Abdul #0
   "诃密罗吉 #0" = 0  # Hamirji #0
+  "锡坎达尔 #0" = 0  # Sikandar #0
+  "马哈茂德 #0" = 20  # Mahmud #0
+  "艾哈迈德 #0" = 20  # Ahmad #0
   "穆巴拉克 #0" = 20  # Mubarak #0
+  "穆罕默德 #0" = 20  # Muhammad #0
+  "扎法尔 #0" = 20  # Zafar #0
 }
 leader_names = {
   "Desai"
   "Begada"
-  "Shah"
+  "沙阿"  # Shah
   "Lakhaji"
   "Ravalji"
   "Munshi"
@@ -67,20 +67,20 @@ leader_names = {
   "Patel"
   "Patidar"
   "Mori"
-  "Haji"
-  "Uzbek"
+  "哈吉"  # Haji
+  "乌兹别克"  # Uzbek
   "Gilani"
   "Paramara"
   "Bahadur"
   "Gauri"
-  "Jurjani"
-  "Khan"
+  "祖尔贾尼"  # Jurjani
+  "汗"  # Khan
   "Malik"
   "Sultan"
   "Khorasani"
   "Farooqi"
-  "Changezi"
-  "Turani"
+  "成吉思"  # Changezi
+  "图兰"  # Turani
   "Latif"
   "Bhilala"
   "Solanki"
@@ -88,9 +88,9 @@ leader_names = {
   "Kanjar"
   "Ghuri"
   "Naru"
-  "Chudasama"
+  "珠多娑摩"  # Chudasama
   "Pahore"
-  "Tomara"
+  "都摩罗"  # Tomara
 }
 ship_names = {
   "Ambika"
@@ -102,12 +102,12 @@ ship_names = {
   "Kala Jahazi"
   "Khari"
   "Lal Jahazi"
-  "Luni"
-  "Mahi"
+  "鲁尼"  # Luni
+  "摩醯"  # Mahi
   "Mithi"
   "Nausena"
   "Narmada"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Nila Jahazi"
   "Purna"
   "Sabarmati"

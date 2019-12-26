@@ -23,7 +23,6 @@ historical_units = {
   tipu_sultan_rocket
 }
 monarch_names = {
-  "Daipat Simha #0" = 20
   "Hiradi #0" = 20
   "Bahkt Buland #0" = 20
   "Babji #0" = 0
@@ -33,7 +32,7 @@ monarch_names = {
   "Krasna #0" = 0
   "Durgavati #0" = -10
   "Hirai #0" = -10
-  "Ratna Kuvar #0" = -1
+  "罗怛那 库瓦 #0" = -1  # Ratna Kuvar #0
   "勒婆 #0" = 0  # Lokba #0
   "浮摩 #0" = 0  # Bhuma #0
   "旃陀 #0" = 20  # Chanda #0
@@ -46,6 +45,7 @@ monarch_names = {
   "希尔德 #1" = 15  # Hirde #1
   "钱德拉 沙希 #0" = 15  # Chandra Sahi #0
   "那罗衍那 #0" = 15  # Vir Narayana #0
+  "达伊帕忒 僧诃 #0" = 20  # Daipat Simha #0
   "散瞿罗摩 僧诃 #0" = 20  # Sangrama Simha #0
   "阿周那 僧诃 #0" = 20  # Arjuna Simha #0
   "那梨僧诃 罗伊 #0" = 20  # Narsingh Rai #0
@@ -55,10 +55,10 @@ leader_names = {
   "Chandi"
   "Raj Gondi"
   "Kherli"
-  "Deogadhi"
+  "德奥加迪"  # Deogadhi
   "Ballar"
-  "Shahi"
-  "Haihaya"
+  "沙希"  # Shahi
+  "诃伊诃耶"  # Haihaya
   "Gadhi"
   "Simha"
   "纳拉扬"  # Narayan
@@ -78,7 +78,7 @@ ship_names = {
   "Durga"
   "Juggernaut"
   "Lakshmi"
-  "Mahanadi"
+  "摩诃那迪"  # Mahanadi
   "Mou"
   "Nilima"
   "Paradeep"
@@ -86,5 +86,5 @@ ship_names = {
   "Radha"
   "Sarasvati"
   "Sharmistha"
-  "Tuli"
+  "图里"  # Tuli
 }

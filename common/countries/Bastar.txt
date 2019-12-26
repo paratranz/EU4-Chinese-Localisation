@@ -27,9 +27,7 @@ historical_units = {
   tipu_sultan_rocket
 }
 monarch_names = {
-  "Purushottam Deo #0" = 20
   "Rajpal Deo #0" = 20
-  "Dakhin Singh #0" = 20
   "Dalpat Deo #0" = 20
   "Ajmer #0" = 0
   "Kalendra #0" = 0
@@ -44,7 +42,6 @@ monarch_names = {
   "Sunder #0" = 0
   "Barman #0" = 0
   "Biwarta #0" = 0
-  "Jagannath #0" = 0
   "Narayana #0" = 0
   "Bebarta #0" = 0
   "Jadunath #0" = 0
@@ -53,6 +50,7 @@ monarch_names = {
   "Kusumlata Devi #0" = -1
   "Prafulla Kumari Devi #0" = -1
   "达摩檀梨 #0" = 0  # Damodar #0
+  "扎格纳特 #0" = 0  # Jagannath #0
   "奎师那 #0" = 0  # Krishna #0
   "诃梨 #0" = 0  # Haria #0
   "诃利旃陀罗 #0" = 0  # Harichandra #0
@@ -61,8 +59,10 @@ monarch_names = {
   "旃陀罗 #0" = 0  # Chandra #0
   "普拉塔普 #0" = 0  # Pratap #0
   "摩酰波罗 #0" = 0  # Mahipal #0
+  "达辛 辛格 #0" = 20  # Dakhin Singh #0
   "提乌波梨 提乌" = 30  # Digpal Deo #0
   "拉杰什 迪奥 #0" = 20  # Raj Deo #0
+  "普鲁肖坦 提乌 #0" = 20  # Purushottam Deo #0
   "比蒂 提乌 #0" = 20  # Bhaitai Deo #0
   "诃弥利 提乌 #0" = 20  # Hamir Deo #0
 }
@@ -103,7 +103,7 @@ ship_names = {
   "罗乞什密"  # Lakshmi
   "Lal Jahazi"
   "Nausena"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Nila Jahazi"
   "帕尔瓦蒂"  # Parvati
   "Radha"

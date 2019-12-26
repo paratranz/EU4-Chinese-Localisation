@@ -30,12 +30,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Jan #0" = 15
-  "Boudewijn #9" = 5
-  "Arnolf #3" = 5
-  "Robrecht #3" = 5
-  "Gwijde #1" = 5
-  "Alfons #0" = 0
   "Andries #0" = 0
   "Bartholomeus #0" = 0
   "Christoffel #0" = 0
@@ -49,11 +43,7 @@ monarch_names = {
   "Floris #0" = 0
   "Gabriel #0" = 0
   "Godfried #0" = 0
-  "Hans #0" = 0
-  "Jacob #0" = 0
   "Kasper #0" = 0
-  "Ludger #0" = 0
-  "Luuk #0" = 0
   "Marinus #0" = 0
   "Pieter #0" = 0
   "Renate #0" = 0
@@ -63,17 +53,27 @@ monarch_names = {
   "Margareta #3" = -15
   "Maria #0" = -5
   "Matilda #0" = -1
-  "Beatrix #0" = -1
-  "Yolande #2" = -1
+  "约兰德 #2" = -1  # Yolande #2
+  "贝娅特丽克丝 #0" = -1  # Beatrix #0
   "让娜 #0" = -1  # Jeanne #0
+  "卢克 #0" = 0  # Luuk #0
+  "卢德格尔 #0" = 0  # Ludger #0
+  "雅各布 #0" = 0  # Jacob #0
+  "汉斯 #0" = 0  # Hans #0
   "巴尔塔萨 #0" = 0  # Balthasar #0
+  "阿方索 #0" = 0  # Alfons #0
   "亚历山大 #0" = 0  # Alexander #0
   "亚伯拉罕 #0" = 0  # Abraham #0
   "安东 #0" = 5  # Antoon #0
   "卡雷尔 #1" = 5  # Karel #1
+  "圭德 #1" = 5  # Gwijde #1
   "迪德里克 #1" = 5  # Diederik #1
   "威廉 #2" = 5  # Willem #2
+  "罗布雷赫特 #3" = 5  # Robrecht #3
   "路德维克 #3" = 5  # Lodewijk #3
+  "阿尔夫 #3" = 5  # Arnolf #3
+  "鲍德韦因 #9" = 5  # Boudewijn #9
+  "让 #0" = 15  # Jan #0
   "菲利普 #1" = 15  # Filips #1
 }
 leader_names = {
@@ -88,20 +88,20 @@ leader_names = {
   "Van Leeuwergem"
   "Van Lichtervelde"
   "Van Nieuwland"
-  "Van Oudenaarde"
+  "范 奥德纳尔德"  # Van Oudenaarde
   "Van Petershem"
   "Van Raveschoot"
   "Van Renesse"
 }
 ship_names = {
   "Antwerpen"
-  "Boudewijn I"
+  "鲍德韦因 I"  # Boudewijn I
   "Brugge"
   "De Vlaamse leeuw"
   "Gent"
   "Guldensporenslag"
   "Gwijde van Dampierre"
-  "Hasselt"
+  "哈瑟尔特"  # Hasselt
   "Jacob van Artevelde"
   "Karel de Goede"
   "Kerel van Vlaanderen"

@@ -34,36 +34,36 @@ monarch_names = {
   "Ernst August #0" = 20
   "Georg #0 Wilhelm" = 20
   "Georg #0" = 20
-  "Magnus #2" = 10
-  "Alexander #0" = 0
   "Alois #0" = 0
-  "Anton #0" = 0
   "Bruno #0" = 0
   "Clemens #0" = 0
   "Denis #0" = 0
   "Gerfried #0" = 0
   "Gottfried #0" = 0
-  "Günther #0" = 0
-  "Helmut #0" = 0
-  "Herbert #0" = 0
-  "Ignatz #0" = 0
   "Isidor #0" = 0
   "Jakob #0" = 0
   "Konstantin #0" = 0
-  "Kuno #0" = 0
   "Markus #0" = 0
   "Martin #0" = 0
   "Oskar #0" = 0
   "Reinhard #0" = 0
-  "Silvester #0" = 0
   "Stefan #0" = 0
   "Viktor #0" = 0
   "Waldemar #0" = 0
   "Ingrid #0" = -1
   "Katinka #0" = -1
   "Martina #0" = -1
+  "西尔维斯特 #0" = 0  # Silvester #0
+  "库诺 #0" = 0  # Kuno #0
+  "伊格纳兹 #0" = 0  # Ignatz #0
+  "赫伯特 #0" = 0  # Herbert #0
+  "赫尔穆特 #0" = 0  # Helmut #0
+  "冈瑟 #0" = 0  # Günther #0
+  "安东 #0" = 0  # Anton #0
+  "亚历山大 #0" = 0  # Alexander #0
   "约翰 #0" = 10  # Johann #0
   "弗朗茨 奥托 #0" = 10  # Franz Otto #0
+  "马格努斯 #2" = 10  # Magnus #2
   "约翰 弗里德里希 #0" = 20  # Johann Friedrich #0
   "弗朗茨 #0" = 20  # Franz #0
   "克里斯蒂安 路德维希 #0" = 20  # Christian Ludwig #0
@@ -76,7 +76,7 @@ monarch_names = {
   "奥托 #0" = 60  # Otto #0
 }
 leader_names = {
-  "Ahlers"
+  "阿勒斯"  # Ahlers
   "Martin"
   "Pielken"
   "Reinbeck"
@@ -88,7 +88,7 @@ leader_names = {
   "Bostelmann"
   "Breden"
   "Burmeister"
-  "Dietz"
+  "迪茨"  # Dietz
   "Döpner"
   "Flathmann"
   "Garbade"
@@ -100,12 +100,12 @@ ship_names = {
   "Bischof Amelung"
   "St. Michaelis"
   "Luniburcs"
-  "Herzog Otto"
+  "奥托公爵"  # Herzog Otto
   "卡拉卡堡"  # Kalkberg
   "Illmenau"
-  "Herzog Wilhelm"
-  "Magnus Torquatus"
-  "Herzog Ernst"
+  "威廉公爵"  # Herzog Wilhelm
+  "马格努斯 朵夸图斯"  # Magnus Torquatus
+  "恩斯特公爵"  # Herzog Ernst
 }
 army_names = {
   "$PROVINCE$军"  # Armee von $PROVINCE$

@@ -36,14 +36,10 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Aldo #0" = 0
-  "Alfonso #0" = 0
-  "Baldovino #0" = 0
   "Cirillo #0" = 0
   "Cosimo #0" = 0
   "Damiano #0" = 0
   "Egidio #0" = 0
-  "Franco #0" = 0
   "Giambattista #0" = 0
   "Ippolito #0" = 0
   "Leandro #0" = 0
@@ -58,7 +54,11 @@ monarch_names = {
   "Magdalena #0" = -1
   "Maria #0" = -1
   "Eva #0" = -1
-  "Antonia #0" = -1
+  "安东妮娅 #0" = -1  # Antonia #0
+  "弗朗科 #0" = 0  # Franco #0
+  "巴尔多维诺 #0" = 0  # Baldovino #0
+  "阿方索 #0" = 0  # Alfonso #0
+  "阿尔多 #0" = 0  # Aldo #0
   "和诺理 #4" = 10  # Honorius #4
   "雷定 #5" = 15  # Celestinus #5
   "若望 #22" = 15  # Iohannes #22
@@ -83,9 +83,9 @@ monarch_names = {
 }
 leader_names = {
   "Abano"
-  "Adria"
+  "阿德里亚"  # Adria
   "Agno"
-  "Alvise"
+  "阿尔韦塞"  # Alvise
   "Anconna"
   "Argenta"
   "Bardolino"
@@ -100,8 +100,8 @@ leader_names = {
   "Cassandro"
   "Castiglione"
   "Cento"
-  "Chiogga"
-  "Commachio"
+  "基奥贾"  # Chiogga
+  "科马基奥"  # Commachio
   "Contarini"
   "Corfini"
   "Corleone"
@@ -134,7 +134,7 @@ leader_names = {
   "Lando"
   "Latisana"
   "Legnago"
-  "Lido"
+  "利多"  # Lido
   "Lignano"
   "Lissa"
   "Livenza"
@@ -152,7 +152,7 @@ leader_names = {
   "Padova"
   "Panaro"
   "Pesaro"
-  "Pezzini"
+  "派真尼"  # Pezzini
   "Piave"
   "Ponte Vechio"
   "Pontebba"
@@ -161,22 +161,22 @@ leader_names = {
   "Priuli"
   "Raguse"
   "Rovereto"
-  "Rovigo"
-  "Ruzzini"
+  "罗维戈"  # Rovigo
+  "鲁齐尼"  # Ruzzini
   "San Paulo"
-  "Schio"
+  "斯基奥"  # Schio
   "Serio"
   "Sugaina"
   "Tagliamento"
   "Tartaro"
-  "Tolmezzo"
-  "Toscani"
+  "托尔梅佐"  # Tolmezzo
+  "托斯卡尼"  # Toscani
   "Trento"
   "Trevisano"
   "Treviso"
   "Trieste"
   "Udine"
-  "Valieri"
+  "瓦列里"  # Valieri
   "Verona"
   "Vicenza"
   "Vittorio"
@@ -184,8 +184,8 @@ leader_names = {
   "Zustiniani"
 }
 ship_names = {
-  "Abraham"
-  "Adam"
+  "亚伯拉罕"  # Abraham
+  "亚当"  # Adam
   "Angeli"
   "Archangeli"
   "Archangelus Gabriel"
@@ -193,7 +193,7 @@ ship_names = {
   "Archangelus Raphael"
   "Cherubim"
   "Corpus Christi"
-  "David Rex"
+  "大卫王"  # David Rex
   "Dominationes"
   "Episcopus Romanus"
   "Eva"
@@ -206,10 +206,10 @@ ship_names = {
   "Moyses"
   "Noe"
   "Pater et Pastor"
-  "Pontifex Maximum"
+  "大祭司马克西姆"  # Pontifex Maximum
   "Potestates"
   "Principatus"
-  "Salomon Rex"
+  "所罗门王"  # Salomon Rex
   "Sancta Birgitta"
   "圣亚历山大"  # Sanctus Alexander
   "圣盎博罗削"  # Sanctus Ambrosius

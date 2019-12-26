@@ -32,7 +32,6 @@ monarch_names = {
   "Ashtarak #0" = 10
   "Wardi #0" = 15
   "Manuchir #0" = 10
-  "Kulos #0" = 0
   "Laleh #0" = -1
   "扎那布 #0" = -1  # Zaynab #0
   "安纳希塔 #0" = -1  # Anahita #0
@@ -42,6 +41,7 @@ monarch_names = {
   "赛义迪 #0" = 0  # Saidi #0
   "米尔 赛义费丁 #0" = 0  # Mir Saifeddin #0
   "伊萨 #0" = 0  # Isa #0
+  "库洛什 #0" = 0  # Kulos #0
   "阿卜杜拉赫曼 #0" = 0  # Abdurrahman #0
   "易卜拉欣 #0" = 0  # Ibrahim #0
   "马哈茂德 #0" = 0  # Mahmoud #0
@@ -56,8 +56,8 @@ monarch_names = {
   "胡赛因 #0" = 30  # Husayn #0
 }
 leader_names = {
-  "Charlang"
-  "Haftlang"
+  "查尔朗格"  # Charlang
+  "哈夫特朗格"  # Haftlang
   "Dorikan"
   "Babadi"
   "Baharvand"
@@ -75,31 +75,31 @@ leader_names = {
   "Osivand"
 }
 ship_names = {
-  "Abathur"
-  "Adamn Kasia"
-  "Aesma Daeva"
-  "Agas"
+  "阿巴图尔"  # Abathur
+  "亚当 卡西亚"  # Adamn Kasia
+  "艾斯玛 代伐"  # Aesma Daeva
+  "阿加斯"  # Agas
   "阿赫里曼"  # Ahriman
   "阿胡拉"  # Ahura
   "阿胡拉 马兹达"  # Ahura Mazda
   "阿胡拉尼"  # Ahurani
-  "Airyaman"
-  "Aka Manah"
+  "雅利安曼"  # Airyaman
+  "阿卡 摩那"  # Aka Manah
   "Aladdin"
-  "Allatum"
-  "Amashaspan"
+  "阿拉图姆"  # Allatum
+  "阿马沙斯潘"  # Amashaspan
   "Ameratat"
-  "Amesha Spentas"
-  "Anahita"
-  "Angra Mainyu"
-  "Anjuman"
-  "Apam-natat"
-  "Apaosa"
-  "Aredvi"
-  "Arishtat"
-  "Armaiti"
-  "Arsaces"
-  "Asha vahista"
+  "六大天使"  # Amesha Spentas
+  "安娜希塔"  # Anahita
+  "安哥拉曼纽"  # Angra Mainyu
+  "祆教长老会"  # Anjuman
+  "阿帕姆 纳塔特"  # Apam-natat
+  "阿帕奥萨"  # Apaosa
+  "阿雷德维"  # Aredvi
+  "阿里什塔特"  # Arishtat
+  "阿尔麦蒂"  # Armaiti
+  "阿尔沙克"  # Arsaces
+  "阿沙 瓦西塔"  # Asha vahista
   "Asman"
   "Asto Vidatu"
   "Astvat-Ereta"
@@ -113,7 +113,7 @@ ship_names = {
   "Camros"
   "Daena"
   "Daevas"
-  "Ahaka"
+  "阿哈卡"  # Ahaka
   "Dahhak"
   "Dena"
   "Dev"
@@ -128,8 +128,8 @@ ship_names = {
   "Gayomart"
   "戈古斯 泰森"  # Geus-Tasan
   "戈古斯 乌万"  # Geus-Urvan
-  "Haoma"
-  "Haurvatat"
+  "豪麻"  # Haoma
+  "胡尔瓦塔特"  # Haurvatat
   "Humay"
   "Hvar"
   "华格其斯塔"  # Hvarekhshaeta
@@ -140,22 +140,22 @@ ship_names = {
   "Jeh"
   "凯施皮特"  # Karshipta
   "Kavi"
-  "Khara"
+  "哈喇"  # Khara
   "Khshathra vairya"
   "坤德乌"  # Kundrav
-  "Mah"
-  "Mahre"
-  "Mahrianag"
+  "玛赫"  # Mah
+  "梅尔"  # Mahre
+  "马里亚纳格"  # Mahrianag
   "Manu"
-  "Manuchihir"
+  "玛奴驰亥"  # Manuchihir
   "Mao"
   "Mashyane"
   "Mashye"
-  "Menog"
+  "马茹"  # Menog
   "Mithra"
-  "Nairyosangha"
+  "南尤桑哈"  # Nairyosangha
   "Nanghaithya"
-  "Neriosang"
+  "捏瑞桑"  # Neriosang
   "欧马兹特"  # Ormazd
   "Peris"
   "Peshdadians"
@@ -163,7 +163,7 @@ ship_names = {
   "Rashnu"
   "Rustam"
   "Saurva"
-  "Simurgh"
+  "思摩夫"  # Simurgh
   "斯宾塔 曼纽"  # Spenta Mainyu
   "Sraosa"
   "Srosh"
@@ -184,10 +184,10 @@ ship_names = {
   "Zal"
   "Zam"
   "赛罕赞 阿尔玛忒"  # Zam-Armatay
-  "Zarathustra"
-  "Zarich"
+  "琐罗亚斯德"  # Zarathustra
+  "扎里奇"  # Zarich
   "赞德-阿维斯塔"  # Zend-Avesta
-  "Zurvan"
+  "祖尔万"  # Zurvan
 }
 army_names = {
   "Artesa"

@@ -32,8 +32,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Guigues #8" = 40
-  "Humbert #2" = 40
   "Huges #2" = 10
   "Anne #1" = -10
   "Adhémar #0" = 0
@@ -42,42 +40,44 @@ monarch_names = {
   "Bartomiu #0" = 0
   "Bernat #0" = 0
   "Bertran #0" = 0
-  "Charles #0" = 0
   "Damián #0" = 0
   "Enric #0" = 0
   "Estève #0" = 0
   "Ferrán #0" = 0
-  "Folquet #0" = 0
   "Frances #0" = 0
   "Gastó #0" = 0
   "Gaufré #0" = 0
   "Guilhem #0" = 0
   "Ignaci #0" = 0
   "Jacme #0" = 0
-  "Jordan #0" = 0
   "Loys #0" = 0
   "Martí #0" = 0
-  "Matheu #0" = 0
-  "Miqueu #0" = 0
-  "Nicolau #0" = 0
   "Per #0" = 0
-  "Pol #0" = 0
-  "Pons #0" = 0
   "Ramond #0" = 0
   "Ricard #0" = 0
   "Sanc #0" = 0
   "Simos #0" = 0
-  "Vicentz #0" = 0
   "Victor #0" = 0
-  "John #0" = 0
   "Joan #0" = -1
   "Marie #0" = -1
-  "Charlotte #0" = -1
   "Anne #0" = -1
   "Margaret #0" = -1
   "Adelaide #0" = -1
+  "夏洛特 #0" = -1  # Charlotte #0
+  "约翰 #0" = 0  # John #0
   "格扎维埃 #0" = 0  # Xavier #0
+  "维桑茨 #0" = 0  # Vicentz #0
+  "庞斯 #0" = 0  # Pons #0
+  "珀尔 #0" = 0  # Pol #0
+  "尼古劳 #0" = 0  # Nicolau #0
+  "米克 #0" = 0  # Miqueu #0
+  "马特乌 #0" = 0  # Matheu #0
+  "若尔当 #0" = 0  # Jordan #0
+  "佛尔桂特 #0" = 0  # Folquet #0
+  "夏尔 #0" = 0  # Charles #0
   "约翰 #2" = 40  # Jean #2
+  "安贝尔 #2" = 40  # Humbert #2
+  "吉格 #8" = 40  # Guigues #8
 }
 leader_names = {
   "d'Abon"
@@ -120,8 +120,8 @@ leader_names = {
   "de Granges"
   "de La Balme"
   "de La Farge"
-  "de La Porte"
-  "de La Tour du Pin"
+  "德 拉 波特"  # de La Porte
+  "德 拉图杜潘"  # de La Tour du Pin
   "Lesdiguières"
   "de Marcieu"
   "de Mérins"
@@ -160,7 +160,7 @@ ship_names = {
   "Huez"
   "La Côte Saint André"
   "La Mure"
-  "La Tour du Pin"
+  "拉图迪潘"  # La Tour du Pin
   "Le Poet-Laval"
   "Le Pont de Claix"
   "Le Teil"
@@ -171,15 +171,15 @@ ship_names = {
   "Mens"
   "Moirans"
   "Montélimar"
-  "Rochemaure"
+  "罗什莫尔"  # Rochemaure
   "Roussillon"
   "Saillans"
-  "Saint Clair de la Tour"
+  "圣克莱尔 德 拉图尔"  # Saint Clair de la Tour
   "Saint Etienne en Dévoluy"
   "Saint Geoir"
   "Saint Jean de Bournay"
   "Saint Laurent en Royan"
-  "Saint Roman"
+  "圣罗芒"  # Saint Roman
   "Sauzet"
   "Serres"
   "Tullin"

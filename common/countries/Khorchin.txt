@@ -28,7 +28,6 @@ historical_units = {
   reformed_steppe_rifles
 }
 monarch_names = {
-  "Bek #0" = 20
   "Bahamu #0" = 20
   "Bars #0" = 20
   "Buyan #0" = 20
@@ -38,16 +37,14 @@ monarch_names = {
   "Delbeg #0" = 20
   "Engke #0" = 10
   "Oyiradai #0" = 20
-  "Qayshan #0" = 10
-  "Qoshila #0" = 10
   "Sayn #0" = 20
   "Suddhipala #0" = 10
   "Uskhal #0" = 10
   "Yesün #0" = 10
   "Batu #0" = 0
   "Eljigidei #0" = 0
-  "Samar #0" = -1
   "撒乌善 #0" = -1  # Zaufishan #0
+  "萨玛尔 #0" = -1  # Samar #0
   "满都海 #0" = -1  # Mandukhai #0
   "孛儿帖 #0" = -1  # Börte #0
   "帖木仑 #0" = -1  # Temülen #0
@@ -60,6 +57,8 @@ monarch_names = {
   "帖木儿 #0" = 10  # Temür #0
   "铁木真 #0" = 10  # Temujin #0
   "岱总 #0" = 20  # Tayisung #0
+  "和世剌 #0" = 10  # Qoshila #0
+  "海山 #0" = 10  # Qayshan #0
   "窝阔台 #0" = 10  # Ögödei #0
   "兀雷 #0" = 15  # Örüg #0
   "完者 #0" = 20  # Öljei #0
@@ -77,6 +76,7 @@ monarch_names = {
   "贵由 #0" = 10  # Güyük #0
   "额勒伯克 #0" = 10  # Elbeg #0
   "额哲 #0" = 10  # Ejei #0
+  "别克 #0" = 20  # Bek #0
   "博迪 #0" = 20  # Bodi #0
   "爱育黎拔力八达 #0" = 10  # Ayurparibhadra #0
   "阿鲁台 #0" = 10  # Arugtai #0
@@ -89,36 +89,36 @@ leader_names = {
   "孛儿只斤"  # Borjigin
   "Besud"
   "札剌亦儿"  # Jalair
-  "Hatagin"
+  "合塔斤"  # Hatagin
   "Olkhonud"
-  "Harnut"
+  "哈尔努特"  # Harnut
   "Eljigin"
   "Bayaud"
   "Gorlos"
   "Darhad"
   "Sharnud"
   "Uriankhan"
-  "Chinos"
+  "赤那思"  # Chinos
   "Onkhod"
-  "Mangud"
+  "莽努特"  # Mangud
   "Ujeed"
   "Onniud"
-  "Myangan"
-  "Yunsheebuu"
-  "Tumed"
+  "明安"  # Myangan
+  "永谢布"  # Yunsheebuu
+  "土默特"  # Tumed
   "Sartuul"
-  "Tangud"
+  "唐古特"  # Tangud
   "Merged"
   "Barga"
   "Daguur"
   "Tsakhar"
-  "Kharchin"
+  "喀喇沁"  # Kharchin
   "Uuld"
-  "Torguut"
-  "Jongoor"
-  "Khotogoid"
+  "土尔扈特"  # Torguut
+  "准噶尔"  # Jongoor
+  "和托辉特"  # Khotogoid
   "Avga"
-  "Tugchin"
+  "图克沁"  # Tugchin
   "Guchid"
   "科尔沁"  # Khorchin
   "Khitad"
@@ -128,18 +128,18 @@ leader_names = {
   "Barnud"
   "Khuuchid"
   "Khalbagad"
-  "Khangad"
+  "杭爱"  # Khangad
   "Jarangiinkhan"
-  "Togoruutan"
+  "拖格如丹"  # Togoruutan
   "Khar'd"
   "Khorkhoi-nudten"
   "Buurluud"
   "Khavchig"
-  "Bulagachid"
+  "不剌合臣"  # Bulagachid
   "Gozuul"
   "Uzuun"
   "Echeed"
-  "Khavkhchin"
+  "喀夫可臣"  # Khavkhchin
   "Orovgod"
   "Tavnag"
   "Khaakhar"
@@ -153,7 +153,7 @@ leader_names = {
   "Gahan"
   "Aksagal"
   "Zuun-shuvuuchin"
-  "Zaaruud"
+  "扎鲁特"  # Zaaruud
   "Dalandaganad"
   "Tsagaan-zel"
   "Khar-zel"
@@ -172,7 +172,7 @@ leader_names = {
   "铁勒"  # Tele
   "Sood"
   "Mankhilag"
-  "Khamnigan"
+  "哈姆尼堪"  # Khamnigan
   "Taijiud"
   "乃蛮"  # Naiman
   "Soloon"
@@ -197,8 +197,8 @@ leader_names = {
   "Tuuhai"
   "Usun"
   "喀尔喀"  # Khalkha
-  "Khandgai"
-  "Khangin"
+  "杭爱"  # Khandgai
+  "杭锦"  # Khangin
   "Khiad"
   "Khoton"
   "Khurlad"
@@ -206,7 +206,7 @@ leader_names = {
   "尼伦"  # Nirun
   "Durved"
   "Baatar"
-  "Zelme"
+  "者勒蔑"  # Zelme
   "Tuved"
   "Tavuud"
   "Khoshuud"
@@ -251,9 +251,9 @@ ship_names = {
 }
 army_names = {
   "怯薛"  # Kheshig
-  "Left Wing Tumen"
-  "Right Wing Tumen"
-  "Central Tumen"
-  "Buryat Tumen"
-  "$PROVINCE$ Tumen"
+  "左翼万户"  # Left Wing Tumen
+  "右翼万户"  # Right Wing Tumen
+  "中万户"  # Central Tumen
+  "布里亚特万户"  # Buryat Tumen
+  "$PROVINCE$万户"  # $PROVINCE$ Tumen
 }

@@ -23,7 +23,6 @@ historical_units = {
   tipu_sultan_rocket
 }
 monarch_names = {
-  "Pengshiba #0" = 10
   "Ningthou Khomba #0" = 10
   "Senbi Kiyaamba #0" = 10
   "Koiremba #0" = 10
@@ -47,9 +46,10 @@ monarch_names = {
   "Madhuchandra #0" = 10
   "Chourjit #0" = 10
   "Marjit #0" = 10
-  "Mangaldahi #0" = -1
   "Jira #0" = -1
   "Hira #0" = -1
+  "曼揭陀呬 #0" = -1  # Mangaldahi #0
+  "鞞尸婆 #0" = 10  # Pengshiba #0
 }
 leader_names = {
   "Shubol"
@@ -64,12 +64,12 @@ leader_names = {
   "Devendra"
 }
 ship_names = {
-  "Chingri Mach"
+  "赤吉拉 马齐"  # Chingri Mach
   "Devi"
   "Durga Ma"
-  "Ganga"
+  "恒河"  # Ganga
   "Hilsa Mach"
-  "Ilish Mach"
+  "伊利斯 马齐"  # Ilish Mach
   "Imphal"
   "Iril"
   "贾兰吉"  # Jalangi
@@ -91,10 +91,10 @@ ship_names = {
   "Rui Mach"
   "Saraswoti"
   "Sagorer Bahini"
-  "Shakti"
-  "Shaktir Nauk"
-  "Shasti Ma"
+  "沙克蒂"  # Shakti
+  "沙克蒂 瑙克"  # Shaktir Nauk
+  "莎斯蒂 玛"  # Shasti Ma
   "Surma"
-  "Trishool"
+  "三叉戟"  # Trishool
   "Uma Devi"
 }

@@ -25,18 +25,15 @@ historical_units = {
 monarch_names = {
   "Batuli #0" = 10
   "Govind #0" = 10
-  "Jagannath #0" = 10
   "Biswanath #0" = 10
   "Nilakantha #0" = 10
   "Baidyanath #0" = 10
-  "Harihar #0" = 10
   "Krushna #0" = 10
   "Tribikram #0" = 10
   "Raghunath #0" = 10
   "Gopinath #0" = 10
   "Daneswar #0" = 10
   "Jagatedwar #0" = 10
-  "Pratap #0" = 10
   "Janaradan #0" = 10
   "Adi #0" = 0
   "Santai #0" = 0
@@ -46,21 +43,24 @@ monarch_names = {
   "Surjya #0" = 0
   "Ramachandra #0" = 0
   "Giriraj #0" = -1
-  "Suratarangini Devi #0" = -1
   "Malavika Devi #0" = -1
   "Sumitra Devi #0" = -1
   "Jamuna Devi #0" = -1
+  "苏拉塔朗日尼 提毗 #0" = -1  # Suratarangini Devi #0
+  "波罗多波 #0" = 10  # Pratap #0
   "那梨僧诃 #0" = 10  # Narsingh #0
+  "哈里赫尔 #0" = 10  # Harihar #0
+  "扎格纳特 #0" = 10  # Jagannath #0
 }
 leader_names = {
-  "Singh"
+  "僧诃"  # Singh
   "Deo"
   "Gangabansi"
   "Pusapati"
   "Ghumsur"
   "Parmar"
   "Patnaik"
-  "Samant"
+  "沙曼陀"  # Samant
   "Rawat"
   "Deb"
   "Bhanja"
@@ -78,17 +78,17 @@ ship_names = {
   "Behrampur"
   "Bhubeneswar"
   "Brahmani"
-  "Chandipur"
-  "Chilka"
+  "昌迪普尔"  # Chandipur
+  "吉尔卡"  # Chilka
   "Cuttack"
   "Durga"
   "Gopalpur"
-  "Jagannath"
+  "扎格纳特"  # Jagannath
   "Juggernaut"
   "Kalijai"
   "Konark"
   "Lakshmi"
-  "Mahanadi"
+  "摩诃那迪"  # Mahanadi
   "Nalabana"
   "Paradeep"
   "Parvati"

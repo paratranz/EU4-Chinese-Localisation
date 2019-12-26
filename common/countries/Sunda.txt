@@ -25,7 +25,6 @@ historical_units = {
   reformed_asian_musketeer
 }
 monarch_names = {
-  "Mangkubumi Suradipati #0" = 50
   "Sri Baduga Maharaja #0" = 50
   "Prabu Surawisesa Jayaperkosa #0" = 50
   "Ratu Dewata #0" = 50
@@ -36,7 +35,6 @@ monarch_names = {
   "Girishawardhana #0" = 20
   "Kertabumi #0" = 20
   "Kertawijaya #0" = 20
-  "Rajasawardhana #0" = 20
   "Kalagamet #1" = 15
   "Raden Sotor #0" = 10
   "Raden Sumirat #0" = 10
@@ -48,9 +46,7 @@ monarch_names = {
   "Purnamaningrum #0" = -1
   "Koesoemarini #0" = -1
   "Wulan #0" = -1
-  "Amangkurat #0" = -1
   "Alit #0" = -1
-  "Batang #0" = -1
   "Banawati #0" = -1
   "Dewi Pakungwati #0" = -1
   "Kawunganten #0" = -1
@@ -59,6 +55,8 @@ monarch_names = {
   "Tingkir #0" = -1
   "揭耶陀梨 罗阇巴特尼 #0" = -1  # Gayatri Rajapatni #0
   "特里布瓦纳 #0" = -10  # Tribhuawana #0
+  "巴塘 #0" = -1  # Batang #0
+  "阿曼古拉 #0" = -1  # Amangkurat #0
   "悉莫 #0" = -1  # Xi Mo #0
   "般若波罗蜜多 #0" = -1  # Prajnaparamitha #0
   "旺义 #0" = -1  # Wangi #0
@@ -70,13 +68,15 @@ monarch_names = {
   "哈奄 武禄 #1" = 15  # Hayam Wuruk #1
   "毗诃罗摩伐陀那 #0" = 20  # Wikramawardhana #0
   "苏腊帕腊巴瓦 #0" = 20  # Suraprabhawa #0
+  "拉惹娑伐陀那 #0" = 20  # Rajasawardhana #0
+  "莽固布米 苏腊蒂巴迪 #0" = 50  # Mangkubumi Suradipati #0
 }
 leader_names = {
   "Hamengku"
   "Agung"
   "士拉末"  # Slamet
   "布第"  # Budi
-  "Harto"
+  "哈尔托"  # Harto
   "Karno"
   "Wani"
   "Mas"
@@ -85,11 +85,11 @@ leader_names = {
 }
 ship_names = {
   "Pendet"
-  "Legong"
+  "蕾贡舞"  # Legong
   "Baris"
-  "Topeng"
-  "Barong"
-  "Kecak"
+  "面具舞"  # Topeng
+  "巴龙舞"  # Barong
+  "克差舞"  # Kecak
   "Batur"
   "Catur"
   "Bratan"
@@ -100,7 +100,7 @@ ship_names = {
   "Patas"
   "Musi"
   "Mesehe"
-  "Agong"
+  "亚贡河"  # Agong
   "Seraya"
   "Merbuk"
   "Sanglang"

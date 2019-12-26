@@ -30,22 +30,13 @@ historical_units = {
 monarch_names = {
   "Dilavar Khan #0" = 10
   "Alp Khan Hushang #0" = 10
-  "Ghazni Khan #0" = 10
-  "Nasir Shah #0" = 10
-  "Salim Shah #0" = 10
   "Baz Bahadur #0" = 10
   "Mali Rao #0" = 10
   "Ahalya Bai #0" = 10
-  "Mahmud Shah #0" = 20
-  "Ghiyath Shah #0" = 10
-  "Qadir Shah #0" = 10
   "Shaja'at Khan #0" = 10
   "Bahadur #0" = 10
-  "Mahmud  #0" = 0
   "Ferishta #0" = 0
   "Ghiyas-ud-din #0" = 0
-  "Qadir #0" = 0
-  "Mohammed #0" = 0
   "Baz #0" = 0
   "Salim #0" = 0
   "Nasir #0" = 0
@@ -53,24 +44,33 @@ monarch_names = {
   "Hoshang #0" = 0
   "Qudsia #0" = -5
   "Hajjah #0" = -5
-  "Shahjahan Begum #0" = -5
+  "沙贾汗 贝古姆 #0" = -5  # Shahjahan Begum #0
+  "穆罕默德 #0" = 0  # Mohammed #0
+  "卡迪尔 #0" = 0  # Qadir #0
+  "马哈茂德 #0" = 0  # Mahmud  #0
+  "卡迪尔 沙阿 #0" = 10  # Qadir Shah #0
+  "吉亚斯 沙阿 #0" = 10  # Ghiyath Shah #0
+  "马哈茂德 沙 #0" = 20  # Mahmud Shah #0
+  "萨利姆 沙阿 #0" = 10  # Salim Shah #0
+  "纳西尔 沙阿 #0" = 10  # Nasir Shah #0
+  "伽色尼 汗 #0" = 10  # Ghazni Khan #0
 }
 leader_names = {
   "Mori"
-  "Haji"
-  "Uzbek"
+  "哈吉"  # Haji
+  "乌兹别克"  # Uzbek
   "Gilani"
   "Paramara"
   "Bahadur"
   "Gauri"
-  "Jurjani"
-  "Khan"
+  "祖尔贾尼"  # Jurjani
+  "汗"  # Khan
   "Malik"
   "Sultan"
   "Khorasani"
   "Farooqi"
-  "Changezi"
-  "Turani"
+  "成吉思"  # Changezi
+  "图兰"  # Turani
   "Latif"
   "Bhilala"
   "Solanki"
@@ -78,26 +78,26 @@ leader_names = {
   "Kanjar"
   "Ghuri"
   "Naru"
-  "Chudasama"
+  "珠多娑摩"  # Chudasama
   "Pahore"
-  "Tomara"
+  "都摩罗"  # Tomara
   "Solanki"
 }
 ship_names = {
   "Alia"
   "Betwa"
-  "Chambal"
+  "坎伯"  # Chambal
   "Dhasan"
   "Fatimah"
   "Ghambir"
   "Jalsena"
   "Kala Jahazi"
-  "Khan"
+  "汗"  # Khan
   "Lal Jahazi"
-  "Mahi"
+  "摩醯"  # Mahi
   "Narmada"
   "Nausena"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Niknaz"
   "Nila Jahazi"
   "Niloufa"

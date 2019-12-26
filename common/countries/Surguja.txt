@@ -23,11 +23,7 @@ historical_units = {
   tipu_sultan_rocket
 }
 monarch_names = {
-  "Arjuna Simha #0" = 20
-  "Sangrama Simha #0" = 20
-  "Daipat Simha #0" = 20
   "Vir Narayana #0" = 15
-  "Chandra Sahi #0" = 15
   "Hirde #1" = 15
   "Madhukara Sahi #0" = 20
   "Dhundya Ram Sah #0" = 20
@@ -36,7 +32,6 @@ monarch_names = {
   "Hiradi #0" = 20
   "Ram Sah #0" = 20
   "Nilkanth Sah #0" = 20
-  "Chanda #0" = 20
   "Bahkt Buland #0" = 20
   "Bhuma #0" = 0
   "Lokba #0" = 0
@@ -47,7 +42,12 @@ monarch_names = {
   "Krasna #0" = 0
   "Durgavati #0" = -10
   "Hirai #0" = -10
-  "Ratna Kuvar #0" = -1
+  "罗怛那 库瓦 #0" = -1  # Ratna Kuvar #0
+  "旃陀 #0" = 20  # Chanda #0
+  "钱德拉 沙希 #0" = 15  # Chandra Sahi #0
+  "达伊帕忒 僧诃 #0" = 20  # Daipat Simha #0
+  "散瞿罗摩 僧诃 #0" = 20  # Sangrama Simha #0
+  "阿周那 僧诃 #0" = 20  # Arjuna Simha #0
   "那梨僧诃 罗伊 #0" = 20  # Narsingh Rai #0
 }
 leader_names = {
@@ -55,10 +55,10 @@ leader_names = {
   "Chandi"
   "Raj Gondi"
   "Kherli"
-  "Deogadhi"
+  "德奥加迪"  # Deogadhi
   "Ballar"
-  "Shahi"
-  "Haihaya"
+  "沙希"  # Shahi
+  "诃伊诃耶"  # Haihaya
   "Gadhi"
   "Simha"
   "Narayan"
@@ -73,12 +73,12 @@ ship_names = {
   "Balasore"
   "Balugaon"
   "Brahmani"
-  "Chellam"
+  "查拉姆"  # Chellam
   "Devi"
   "Durga"
   "Juggernaut"
   "Lakshmi"
-  "Mahanadi"
+  "摩诃那迪"  # Mahanadi
   "Mou"
   "Nilima"
   "Paradeep"
@@ -86,5 +86,5 @@ ship_names = {
   "Radha"
   "Sarasvati"
   "Sharmistha"
-  "Tuli"
+  "图里"  # Tuli
 }

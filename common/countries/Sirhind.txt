@@ -29,22 +29,13 @@ historical_units = {
 }
 monarch_names = {
   "Nusrat #0" = 20
-  "Daulat Khan #0" = 20
-  "Khidr Khan #0" = 20
-  "Mubarrak Shah #1" = 30
-  "Mohammed Shah #3" = 40
-  "Aladdin Alam Shah #0" = 10
   "Bahlûl #0" = 20
   "Saikander #0" = 20
   "Ibrahim #1" = 20
   "Sher #0" = 20
-  "Islam Shah #0" = 20
   "Saadat #0" = 0
   "Safdarjung #0" = 0
-  "Birjis Qadra #0" = 0
-  "Ali #0" = 0
   "Iqbal #0" = 0
-  "Alauddin #0" = 0
   "Bhi #0" = 0
   "Malik #0" = 0
   "Narendra #0" = 0
@@ -53,10 +44,19 @@ monarch_names = {
   "Hemu #0" = 0
   "Ghazi #0" = 0
   "Raziyya #0" = -5
-  "Roshanara #0" = -1
   "Fakhr-un-Nisa #0" = -1
+  "罗沙娜拉 #0" = -1  # Roshanara #0
   "巴哈尔 #0" = -1  # Bahar #0
+  "阿拉丁 #0" = 0  # Alauddin #0
+  "阿里 #0" = 0  # Ali #0
+  "比尔吉斯 喀德尔 #0" = 0  # Birjis Qadra #0
   "海德 #0" = 0  # Hyder #0
+  "伊斯兰 沙 #0" = 20  # Islam Shah #0
+  "阿拉丁 阿拉姆 沙阿 #0" = 10  # Aladdin Alam Shah #0
+  "穆罕默德 沙阿 #3" = 40  # Mohammed Shah #3
+  "穆巴拉克 沙阿 #1" = 30  # Mubarrak Shah #1
+  "海德尔 汗 #0" = 20  # Khidr Khan #0
+  "杜拉特 汗 #0" = 20  # Daulat Khan #0
   "赛义德 海德尔 #0" = 20  # Sayyid Khidr #0
 }
 leader_names = {
@@ -65,7 +65,7 @@ leader_names = {
   "Bhutto"
   "Hussein"
   "Jahan"
-  "Khan"
+  "汗"  # Khan
   "洛迪"  # Lodi
   "Lohia"
   "穆沙里夫"  # Musharif
@@ -73,22 +73,22 @@ leader_names = {
   "Nazimuddin"
   "Ra'ana"
   "Sharma"
-  "Sinan"
-  "Singh"
+  "锡南"  # Sinan
+  "僧诃"  # Singh
   "谢里夫"  # Sharif
   "Viqar-ul-Mulk"
 }
 ship_names = {
   "Alia"
-  "Chambal"
+  "坎伯"  # Chambal
   "Fatimah"
   "Jalsena"
   "Ganges"
   "Kala Jahazi"
-  "Khan"
+  "汗"  # Khan
   "Lal Jahazi"
   "Nausena"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Niknaz"
   "Nila Jahazi"
   "Niloufa"

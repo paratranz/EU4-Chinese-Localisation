@@ -35,7 +35,6 @@ monarch_names = {
   "Tearlach #0" = 5
   "Daidh #0" = 1
   "Connal #0" = 10
-  "Absolon #0" = 0
   "Feaghas #0" = 0
   "Greum #0" = 0
   "Ianatan #0" = 0
@@ -44,9 +43,9 @@ monarch_names = {
   "Parlan #0" = 0
   "Seoras #0" = 0
   "Solamn #0" = 0
-  "Torcall #0" = 0
   "威廉 #0" = 0  # Uilleam #0
   "托尔摩德 #0" = 0  # Tormod #0
+  "托尔考 #0" = 0  # Torcall #0
   "多麦丝 #0" = 0  # Thomais #0
   "泰格 #0" = 0  # Tadhg #0
   "塞缪尔 #0" = 0  # Samuel #0
@@ -78,6 +77,7 @@ monarch_names = {
   "克莱斯蒂安 #0" = 0  # Cresdean #0
   "科尔马克 #0" = 0  # Cormac #0
   "阿尔平 #0" = 0  # Ailpein #0
+  "阿布索伦 #0" = 0  # Absolon #0
   "蒂尔蓓儿 #0" = -1  # Diorbhail #0
   "柏翠丝 #0" = -1  # Beitiris #0
   "梅丽 #0" = -5  # Mairi #0
@@ -94,11 +94,11 @@ monarch_names = {
   "詹姆斯 #0" = 10  # Seumas #0
 }
 leader_names = {
-  "Arascain"
+  "厄尔金"  # Arascain
   "Anrias"
   "Airchart"
   "Ambarsan"
-  "Aonghais"
+  "安亚斯"  # Aonghais
   "贝提安"  # Beitean
   "Blacathathir"
   "Banach"
@@ -223,7 +223,7 @@ leader_names = {
   "Sgot"
   "Siosalach"
   "Smios"
-  "Tod"
+  "托德"  # Tod
   "Tuairnear"
   "Tulach"
   "Talmhach"
@@ -253,8 +253,8 @@ ship_names = {
   "Clar Innes"
   "Clut"
   "Caisteal Dhuni"
-  "Cair Chaladain"
-  "Calum Cille"
+  "哈拉丁堡"  # Cair Chaladain
+  "卡尔伦"  # Calum Cille
   "Dun Bheagain"
   "Donnchadh na-Adh"
   "Dominus Fecit"
@@ -269,7 +269,7 @@ ship_names = {
   "Fide Et Opera"
   "Fuimus"
   "Feros Ferio"
-  "Freskin"
+  "弗赖斯根"  # Freskin
   "Fergus Mor"
   "Fraoch Eilean"
   "Findanus"
@@ -306,7 +306,7 @@ ship_names = {
   "Sruighlea"
   "Serva Jugum"
   "Somairle"
-  "Toom Tabard"
+  "托姆 塔巴尔德"  # Toom Tabard
   "Tout Jour Prest"
   "Tulach Ard"
   "Tavis"

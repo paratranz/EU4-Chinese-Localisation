@@ -29,7 +29,6 @@ historical_units = {
 monarch_names = {
   "Beersingh Deo #1" = 20
   "Pulkit #1" = 20
-  "Dungar Singh #1" = 20
   "Uddhharandev #1" = 20
   "Vikramdev #1" = 20
   "Ganapatidev #1" = 20
@@ -41,19 +40,20 @@ monarch_names = {
   "Badan Singh #0" = 10
   "Suraj Mal #0" = 10
   "Jawahar Singh #0" = 10
-  "Ratan Singh #0" = 5
   "Nawal Singh #0" = 5
-  "Ranjit Singh #0" = 5
   "Randhir Singh #0" = 5
   "Baldeo Singh #0" = 5
-  "Balwant Singh #0" = 5
   "Kehri Singh #0" = 5
   "Jashwant Singh #0" = 5
   "Kishan Singh #0" = 5
   "Brijendra Singh #0" = 5
-  "Chand Kaur #0" = -1
   "Rajeshwari #0" = -1
   "Hawa Kanwar #0" = -1
+  "昌德 卡乌尔 #0" = -1  # Chand Kaur #0
+  "婆罗槃陀 僧诃 #0" = 5  # Balwant Singh #0
+  "兰拿耆多 摩诃 #0" = 5  # Ranjit Singh #0
+  "剌怛那 僧诃 #0" = 5  # Ratan Singh #0
+  "幢伽罗 僧诃 #1" = 20  # Dungar Singh #1
 }
 leader_names = {
   "Bhumla"
@@ -75,7 +75,7 @@ leader_names = {
   "Udasi"
 }
 ship_names = {
-  "Chambal"
+  "坎伯"  # Chambal
   "Devi"
   "Durga"
   "Gayatri"
@@ -85,11 +85,11 @@ ship_names = {
   "Kala Jahazi"
   "Lakshmi"
   "Lal Jahazi"
-  "Luni"
+  "鲁尼"  # Luni
   "Nausena"
   "Marwar ka Nav"
   "Merwar ka Nav"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Nila Jahazi"
   "Parvati"
   "Radha"
@@ -98,5 +98,5 @@ ship_names = {
   "Sagar"
   "Sarasvati"
   "Sekhawati"
-  "Sita"
+  "悉多"  # Sita
 }

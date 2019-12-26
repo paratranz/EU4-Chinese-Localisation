@@ -61,7 +61,7 @@ leader_names = {
   "休谟"  # Hume
   "赫本"  # Hepburn
   "汉密尔顿"  # Hamilton
-  "Johnstone"
+  "约翰斯顿"  # Johnstone
   "诺克斯"  # Knox
   "基思"  # Keith
   "克尔"  # Kerr
@@ -87,7 +87,7 @@ leader_names = {
   "Ruthven"
   "塞尔扣克"  # Selkirk
   "Strathbogie"
-  "Sinclair"
+  "辛克莱尔"  # Sinclair
   "斯图尔特"  # Stewart
   "西顿"  # Seton
   "Wilkie"
@@ -96,26 +96,17 @@ leader_names = {
 }
 monarch_names = {
   "James #0" = 120
-  "Robert #2" = 20
-  "Alexander #3" = 10
   "Arthur #0" = 10
   "Walter #0" = 10
-  "John #1" = 5
-  "Charles #0" = 5
-  "Malcolm #4" = 1
   "Donald #3" = 1
-  "David #2" = 1
-  "Duncan #2" = 1
   "Andrea #0" = 0
   "Alan #0" = 0
   "Ailpein #0" = 0
-  "Archibald #0" = 0
   "Barclay #0" = 0
   "Beathan #0" = 0
   "Cameron #0" = 0
   "Cináed #0" = 0
   "Conall #0" = 0
-  "Douglas #0" = 0
   "Duff #0" = 0
   "Anabella  #0" = -1
   "尤菲米娅 #0" = -1  # Euphemia #0
@@ -137,8 +128,17 @@ monarch_names = {
   "弗拉瑟 #0" = 0  # Fraser #0
   "伊万德 #0" = 0  # Evander #0
   "伊登 #0" = 0  # Edan #0
+  "道格拉斯 #0" = 0  # Douglas #0
   "布鲁斯 #0" = 0  # Bruce #0
+  "阿奇博尔德 #0" = 0  # Archibald #0
+  "邓肯 #2" = 1  # Duncan #2
+  "大卫 #2" = 1  # David #2
+  "马尔科姆 #4" = 1  # Malcolm #4
+  "查尔斯 #0" = 5  # Charles #0
+  "约翰 #1" = 5  # John #1
+  "亚历山大 #3" = 10  # Alexander #3
   "亨利 #0" = 20  # Henry #0
+  "罗贝尔 #2" = 20  # Robert #2
 }
 ship_names = {
   "Alexander Gaily"
@@ -181,7 +181,7 @@ ship_names = {
   "格拉斯哥山羊"  # Lamb of Glasgow
   "利斯山羊"  # Lamb of Leith
   "Lesley"
-  "Little Unicorn"
+  "小独角兽"  # Little Unicorn
   "Lyon"
   "Margaret"
   "Margaret of Peterhead"
@@ -211,10 +211,10 @@ ship_names = {
   "Thistle"
   "Towaich"
   "Treasurer"
-  "Unicorn"
+  "独角兽"  # Unicorn
   "Union"
   "Venture"
-  "Phoenix of Glasgow"
+  "格拉斯哥不死鸟"  # Phoenix of Glasgow
   "Wemyss"
   "William and George"
   "William and Mary"

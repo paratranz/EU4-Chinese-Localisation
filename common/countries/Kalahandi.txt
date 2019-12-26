@@ -23,10 +23,8 @@ historical_units = {
   tipu_sultan_rocket
 }
 monarch_names = {
-  "Haria #1" = 30
   "Jugasai  #1" = 30
   "Pratapnayan #1" = 30
-  "Harirudra #0" = 30
   "Anku  #0" = 30
   "Raghunath #0" = 30
   "Biswambhar  #0" = 30
@@ -37,17 +35,14 @@ monarch_names = {
   "Khadag Rai #0" = 10
   "Yuvaraj #0" = 0
   "Birabar #0" = 0
-  "Harichandra #0" = 0
   "Gopinath #0" = 0
   "Raghuraj #0" = 0
-  "Haria #0" = 0
   "Bishwanath #0" = 10
   "Rai #0" = 0
   "Sunder #0" = 0
   "Krishna #0" = 0
   "Barman #0" = 0
   "Biwarta #0" = 0
-  "Jagannath #0" = 0
   "Narayana #0" = 0
   "Bebarta #0" = 0
   "Chandra #0" = 0
@@ -55,18 +50,23 @@ monarch_names = {
   "Jadunath #0" = 0
   "Pradeep #0" = 0
   "Giriraj #0" = -1
-  "Suratarangini Devi #0" = -1
   "Malavika Devi #0" = -1
+  "苏拉塔朗日尼 提毗 #0" = -1  # Suratarangini Devi #0
+  "扎格纳特 #0" = 0  # Jagannath #0
+  "诃梨 #0" = 0  # Haria #0
+  "诃利旃陀罗 #0" = 0  # Harichandra #0
+  "哈瑞鲁德拉 #0" = 30  # Harirudra #0
+  "诃梨 #1" = 30  # Haria #1
 }
 leader_names = {
-  "Singh"
+  "僧诃"  # Singh
   "Deo"
   "Gangabansi"
   "Pusapati"
   "Ghumsur"
   "Parmar"
   "Patnaik"
-  "Samant"
+  "沙曼陀"  # Samant
   "Rawat"
   "Deb"
   "Bhanja"
@@ -84,17 +84,17 @@ ship_names = {
   "Behrampur"
   "Bhubeneswar"
   "Brahmani"
-  "Chandipur"
-  "Chilka"
+  "昌迪普尔"  # Chandipur
+  "吉尔卡"  # Chilka
   "Cuttack"
   "Durga"
   "Gopalpur"
-  "Jagannath"
+  "扎格纳特"  # Jagannath
   "Juggernaut"
   "Kalijai"
   "Konark"
   "Lakshmi"
-  "Mahanadi"
+  "摩诃那迪"  # Mahanadi
   "Nalabana"
   "Paradeep"
   "Parvati"

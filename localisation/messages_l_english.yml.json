@@ -17642,7 +17642,7 @@
     {
         "key": "PEACEREJECT_TITLE:0",
         "original": "Rejected Peace",
-        "translation": "已经拒绝了",
+        "translation": "拒绝和平提议",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -17650,7 +17650,7 @@
     {
         "key": "PEACEREJECT_SETUP:0",
         "original": "When a nation rejects your peace offer.",
-        "translation": "当别国拒绝本国和平提议",
+        "translation": "当别国拒绝本国和平提议。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -17682,7 +17682,7 @@
     {
         "key": "PEACEREJECT_3:0",
         "original": "rejected",
-        "translation": "拒绝了我们慷慨的",
+        "translation": "拒绝了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -17690,7 +17690,7 @@
     {
         "key": "PEACEREJECT_4:0",
         "original": "our generous peace offer!",
-        "translation": "我们慷慨的和平提议!",
+        "translation": "我们慷慨的和平提议！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -17698,7 +17698,7 @@
     {
         "key": "PEACEREJECT_LOG:0",
         "original": "$RECIPIENT$ rejected our generous peace offer!",
-        "translation": "$RECIPIENT$拒绝了我国的和平提议!",
+        "translation": "$RECIPIENT$拒绝了我国的和平提议！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -17738,7 +17738,7 @@
     {
         "key": "PEACEWEACCEPT_SETUP:0",
         "original": "When we accept a peace offer.",
-        "translation": "当我国接受别国和平提议",
+        "translation": "当我国接受别国和平提议。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -17962,7 +17962,7 @@
     {
         "key": "PEACEREJECTOTHER_3:0",
         "original": "rejected peace",
-        "translation": "已经拒绝了",
+        "translation": "拒绝了来自敌人",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -17970,7 +17970,7 @@
     {
         "key": "PEACEREJECTOTHER_4:0",
         "original": "with their enemies",
-        "translation": "来自敌人",
+        "translation": "$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -17978,8 +17978,8 @@
     {
         "key": "PEACEREJECTOTHER_5:0",
         "original": "$ACTOR$",
-        "translation": "$ACTOR$",
-        "stage": -1,
+        "translation": "的和平提议",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },

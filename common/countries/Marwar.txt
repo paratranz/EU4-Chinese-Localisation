@@ -32,10 +32,6 @@ monarch_names = {
   "Satal #0" = 10
   "Sûra Singh #0" = 10
   "Gaja Singh #0" = 10
-  "Abhai Singh #0" = 10
-  "Ram Singh #0" = 10
-  "Bijay Singh #0" = 10
-  "Bhîm Singh #0" = 10
   "Asthanji #0" = 0
   "Sonamji #0" = 0
   "Jaitmal #0" = 0
@@ -45,7 +41,6 @@ monarch_names = {
   "Viram Dev #0" = 0
   "Bhim #0" = 0
   "Kanhaji #0" = 0
-  "Ishwar #0" = 0
   "Bairisal #0" = 0
   "Ugrasen #0" = 0
   "Kanwar #0" = 0
@@ -57,12 +52,17 @@ monarch_names = {
   "Sher #0" = 0
   "Fateh #0" = 0
   "Jaswant #0" = 0
-  "Pratap #0" = 0
   "Hansa Devi #0" = -1
   "Akher #0" = -1
   "Anup #0" = -1
   "Surya #0" = -1
+  "波罗多波 #0" = 0  # Pratap #0
+  "伊湿伐罗 #0" = 0  # Ishwar #0
   "曼 辛格 #0" = 10  # Man Singh #0
+  "毗摩 辛格 #0" = 10  # Bhîm Singh #0
+  "比杰 辛格 #0" = 10  # Bijay Singh #0
+  "罗摩 僧诃 #0" = 10  # Ram Singh #0
+  "阿布希 辛格 #0" = 10  # Abhai Singh #0
   "阿疾 辛格 #0" = 10  # Ajit Singh #0
   "加西万星 僧诃 #0" = 10  # Jaswant Singh #0
   "优陀耶 僧诃 #0" = 10  # Udaya Singh #0
@@ -79,18 +79,18 @@ leader_names = {
   "Saran"
   "Bais"
   "Chattari"
-  "Singh"
+  "僧诃"  # Singh
   "Pakhral"
   "Gauri"
   "Naru"
   "Bhati"
-  "Chandela"
+  "旃提罗"  # Chandela
   "Jadeja"
-  "Chudasama"
+  "珠多娑摩"  # Chudasama
   "Solanki"
 }
 ship_names = {
-  "Chambal"
+  "坎伯"  # Chambal
   "Devi"
   "Durga"
   "Gayatri"
@@ -100,11 +100,11 @@ ship_names = {
   "Kala Jahazi"
   "Lakshmi"
   "Lal Jahazi"
-  "Luni"
+  "鲁尼"  # Luni
   "Nausena"
   "Marwar ka Nav"
   "Merwar ka Nav"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Nila Jahazi"
   "Parvati"
   "Radha"
@@ -113,5 +113,5 @@ ship_names = {
   "Sagar"
   "Sarasvati"
   "Sekhawati"
-  "Sita"
+  "悉多"  # Sita
 }

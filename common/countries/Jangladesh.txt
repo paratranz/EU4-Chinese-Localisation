@@ -28,26 +28,14 @@ historical_units = {
 }
 monarch_names = {
   "Bika #0" = 10
-  "Naroji Singh #0" = 10
   "Lunkaranji #0" = 10
   "Jait Singh #0" = 10
   "Kaylan Singh #0" = 10
-  "Rai Singh #0" = 10
-  "Dalpat Singh #0" = 10
   "Sur Singh #0" = 10
-  "Karan Singh #0" = 10
-  "Anup Singh #0" = 10
   "Sarup Singh #0" = 10
-  "Sujan Singh #0" = 10
-  "Zorawar Singh #0" = 10
-  "Gaj Singh #0" = 10
-  "Bijay Singh #0" = 10
-  "Pratap Singh #0" = 10
-  "Surat Singh #0" = 10
   "Jodha #0" = 0
   "Dungar #0" = 0
   "Sardar #0" = 0
-  "Ganga #0" = 0
   "Narendra #0" = 0
   "Alka #0" = 0
   "Bhai #0" = 0
@@ -61,6 +49,18 @@ monarch_names = {
   "Rahiba #0" = -1
   "Sahiba #0" = -1
   "Anand Kunwari #0" = -1
+  "恒伽 #0" = 0  # Ganga #0
+  "苏剌吒 僧诃 #0" = 10  # Surat Singh #0
+  "普拉塔普 僧诃 #0" = 10  # Pratap Singh #0
+  "比杰 辛格 #0" = 10  # Bijay Singh #0
+  "伽阇 僧诃 #0" = 10  # Gaj Singh #0
+  "宗罗伐梨 僧诃 #0" = 10  # Zorawar Singh #0
+  "苏金 僧诃 #0" = 10  # Sujan Singh #0
+  "阿奴波 僧诃 #0" = 10  # Anup Singh #0
+  "迦兰 僧诃 #0" = 10  # Karan Singh #0
+  "答拉帕 僧诃 #0" = 10  # Dalpat Singh #0
+  "雷 辛格 #0" = 10  # Rai Singh #0
+  "那罗吉 僧诃 #0" = 10  # Naroji Singh #0
 }
 leader_names = {
   "Rathore"
@@ -68,22 +68,22 @@ leader_names = {
   "Beniwal"
   "Johiya"
   "Punia"
-  "Saharan"
+  "撒哈拉"  # Saharan
   "Godara"
   "Kaswan"
   "Bhadu"
   "Bhati"
   "Nehra"
   "Bhukar"
-  "Chahar"
+  "察哈尔"  # Chahar
   "Jakhar"
-  "Singh"
-  "Tomara"
+  "僧诃"  # Singh
+  "都摩罗"  # Tomara
   "Sangwan"
   "Sahu"
 }
 ship_names = {
-  "Chambal"
+  "坎伯"  # Chambal
   "Devi"
   "Durga"
   "Gayatri"
@@ -93,11 +93,11 @@ ship_names = {
   "Kala Jahazi"
   "Lakshmi"
   "Lal Jahazi"
-  "Luni"
+  "鲁尼"  # Luni
   "Nausena"
   "Marwar ka Nav"
   "Merwar ka Nav"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Nila Jahazi"
   "Parvati"
   "Radha"
@@ -106,5 +106,5 @@ ship_names = {
   "Sagar"
   "Sarasvati"
   "Sekhawati"
-  "Sita"
+  "悉多"  # Sita
 }

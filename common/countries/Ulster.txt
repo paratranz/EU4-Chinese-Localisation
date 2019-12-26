@@ -32,7 +32,6 @@ historical_units = {
 }
 monarch_names = {
   "Phelim  #0" = 5
-  "Mathghamhain #0" = 20
   "Ádhamh #0" = 0
   "Ailill #0" = 0
   "Brígh #0" = 0
@@ -53,7 +52,6 @@ monarch_names = {
   "Niall #0" = 0
   "Odhrán #0" = 0
   "Pádraig #0" = 0
-  "Quinn #0" = 0
   "Riain #0" = 0
   "Ríoghnán #0" = 0
   "Rórdan #0" = 0
@@ -62,13 +60,15 @@ monarch_names = {
   "Séaghdhá #0" = 0
   "Seanán #0" = 0
   "Sechnall #0" = 0
-  "Tighearnach #0" = 0
-  "Tuathal #0" = 0
   "Uilliam #0" = 0
   "Uinseann #0" = 0
   "Aifric #0" = -1
   "Fionola #0" = -1
   "Raghnailt #0" = -1
+  "图厄撒尔 #0" = 0  # Tuathal #0
+  "提赫亚那 #0" = 0  # Tighearnach #0
+  "奎因 #0" = 0  # Quinn #0
+  "马修厄姆恩 #0" = 20  # Mathghamhain #0
   "布莱恩 #0" = 20  # Bryan #0
   "休 #0" = 20  # Hugh #0
   "泰格 #0" = 40  # Tadhg #0
@@ -82,7 +82,7 @@ ship_names = {
   "Deas Mhuman"
   "Kerry"
   "Lar Mumhan"
-  "Limerick"
+  "利默里克"  # Limerick
   "Tipperary"
   "Tuad Mhuman"
   "Urh Mumhan"
@@ -92,8 +92,8 @@ leader_names = {
   "Barry"
   "Boyle"
   "Darcy"
-  "FitzGerald"
-  "FitzThomas"
+  "菲茨杰拉德"  # FitzGerald
+  "菲茨托马斯"  # FitzThomas
   "O'Brien"
   "O'Neill"
   "MacCarthy"

@@ -76,14 +76,11 @@ monarch_names = {
   "Thomas #0" = 20
   "Gerald #0" = 40
   "Art #0" = 5
-  "John #0" = 5
   "William #0" = 5
   "George #0" = 5
   "Wentworth #0" = 5
-  "Robert #0" = 5
   "James #0" = 0
   "Lettice #0" = 0
-  "Edward #0" = 0
   "Cinnéidigh #0" = 0
   "Deaglán #0" = 0
   "Dougal #0" = 0
@@ -98,7 +95,6 @@ monarch_names = {
   "Niall #0" = 0
   "Odhrán #0" = 0
   "Pádraig #0" = 0
-  "Quinn #0" = 0
   "Riain #0" = 0
   "Ríoghnán #0" = 0
   "Rórdan #0" = 0
@@ -107,14 +103,18 @@ monarch_names = {
   "Séaghdhá #0" = 0
   "Seanán #0" = 0
   "Sechnall #0" = 0
-  "Tighearnach #0" = 0
-  "Tuathal #0" = 0
   "Uilliam #0" = 0
   "Uinseann #0" = 0
   "Neassa #0" = -1
   "Rosheen #0" = -1
   "Siofra #0" = -1
+  "图厄撒尔 #0" = 0  # Tuathal #0
+  "提赫亚那 #0" = 0  # Tighearnach #0
+  "奎因 #0" = 0  # Quinn #0
+  "爱德华 #0" = 0  # Edward #0
+  "罗贝尔 #0" = 5  # Robert #0
   "莫里斯 #0" = 5  # Maurice #0
+  "约翰 #0" = 5  # John #0
   "亨利 #0" = 20  # Henry #0
 }
 ship_names = {
@@ -123,11 +123,11 @@ ship_names = {
   "Kildare"
   "Kilkenny"
   "Laios"
-  "Longford"
+  "朗福德"  # Longford
   "Louth"
   "Meath"
   "Offaly"
   "Westmeath"
-  "Wexford"
+  "威克斯福德"  # Wexford
   "Wicklow"
 }

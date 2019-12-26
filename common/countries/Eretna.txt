@@ -29,36 +29,36 @@ historical_units = {
 }
 monarch_names = {
   "Eretna #0" = 20
-  "Muhammed #0" = 20
   "Burhan #0" = 10
-  "Ahmed #0" = 20
   "Sahsuvar #0" = 20
   "Aladdin #0" = 20
   "Nizameddin #0" = 0
-  "Sinan #0" = 0
   "Ferhad #0" = 0
   "Salih #0" = 0
-  "Ismail #0" = 0
   "Cüneyd #0" = 0
   "Bahadir #0" = 0
   "Fatma #0" = -1
-  "Havva #0" = -1
   "Gamze #0" = -1
-  "Hanife #0" = -1
   "Melis #0" = -1
   "Rabia #0" = -1
   "Umut #0" = -1
-  "Ziynet #0" = -1
-  "Zübeyde #0" = -1
+  "祖拜德 #0" = -1  # Zübeyde #0
+  "兹内特 #0" = -1  # Ziynet #0
   "莎菲耶 #0" = -1  # Safiye #0
+  "哈尼斐 #0" = -1  # Hanife #0
+  "哈瓦 #0" = -1  # Havva #0
+  "伊斯玛仪 #0" = 0  # Ismail #0
+  "锡南 #0" = 0  # Sinan #0
+  "艾哈迈德 #0" = 20  # Ahmed #0
   "阿里 #0" = 20  # Ali #0
+  "穆罕默德 #0" = 20  # Muhammed #0
 }
 leader_names = {
   "Bali"
   "Erezli"
   "Arif"
   "Rahim"
-  "Alemdar"
+  "阿来姆达尔"  # Alemdar
   "Amasyali"
   "Ayas"
   "Bali"
@@ -76,15 +76,15 @@ leader_names = {
   "Defterdar"
   "Gedik"
   "Gazi"
-  "Gümülcineli"
+  "居米尔吉内利"  # Gümülcineli
   "Gürcü"
-  "Hadim"
-  "Hekimoglu"
-  "Hersekli"
+  "哈德姆"  # Hadim
+  "海基姆奥卢"  # Hekimoglu
+  "黑塞科利"  # Hersekli
   "Köprülü"
   "凯末尔"  # Kemal
   "库楚克"  # Küçük
-  "Koca"
+  "科恰"  # Koca
   "Karamanli"
   "Köse"
   "Kara"
@@ -92,12 +92,12 @@ leader_names = {
   "Kemankes"
   "Kaymak"
   "Kavalali"
-  "Ishak"
+  "易斯哈格"  # Ishak
   "Izzed"
   "Lala"
   "Lefkeli"
   "Malkoç"
-  "Müezzinzade"
+  "米埃津扎德"  # Müezzinzade
   "Nevsehirli"
   "Nisanci"
   "Oruç"
@@ -113,12 +113,12 @@ leader_names = {
   "Salih"
   "Sokullu"
   "Sari"
-  "Silahdar"
+  "希拉达"  # Silahdar
   "Semiz"
   "Serdar"
-  "Topal"
+  "托帕"  # Topal
   "Tayyar"
-  "Turgut"
+  "图尔古特"  # Turgut
   "Tarhuncu"
   "Veli"
   "Yemisçi"
@@ -134,7 +134,7 @@ ship_names = {
   "Firat"
   "Akcadag"
   "Saimbeyli"
-  "Kadirli"
+  "卡迪尔利"  # Kadirli
   "Besni"
   "Tohma"
   "Darende"

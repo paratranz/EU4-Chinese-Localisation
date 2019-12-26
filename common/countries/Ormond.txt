@@ -32,16 +32,12 @@ historical_units = {
 }
 monarch_names = {
   "James #4" = 80
-  "John #0" = 20
   "Thomas #0" = 40
   "Piers #0" = 20
   "Walter #0" = 20
-  "Charles #0" = 20
-  "Edmund #0" = 0
   "Richard #0" = 0
   "Peter #0" = 0
   "George #0" = 0
-  "Robert #0" = 0
   "Lettice #0" = 0
   "Deaglán #0" = 0
   "Dougal #0" = 0
@@ -56,7 +52,6 @@ monarch_names = {
   "Niall #0" = 0
   "Odhrán #0" = 0
   "Pádraig #0" = 0
-  "Quinn #0" = 0
   "Riain #0" = 0
   "Ríoghnán #0" = 0
   "Rórdan #0" = 0
@@ -65,15 +60,20 @@ monarch_names = {
   "Séaghdhá #0" = 0
   "Seanán #0" = 0
   "Sechnall #0" = 0
-  "Tighearnach #0" = 0
-  "Tuathal #0" = 0
   "Uilliam #0" = 0
   "Uinseann #0" = 0
   "Neassa #0" = -1
   "Rosheen #0" = -1
   "Siofra #0" = -1
+  "图厄撒尔 #0" = 0  # Tuathal #0
+  "提赫亚那 #0" = 0  # Tighearnach #0
+  "奎因 #0" = 0  # Quinn #0
+  "罗贝尔 #0" = 0  # Robert #0
   "莫里斯 #0" = 0  # Maurice #0
+  "埃德蒙 #0" = 0  # Edmund #0
   "亨利 #0" = 1  # Henry #0
+  "查尔斯 #0" = 20  # Charles #0
+  "约翰 #0" = 20  # John #0
 }
 ship_names = {
   "Clare"
@@ -81,7 +81,7 @@ ship_names = {
   "Deas Mhuman"
   "Kerry"
   "Lar Mumhan"
-  "Limerick"
+  "利默里克"  # Limerick
   "Tipperary"
   "Tuad Mhuman"
   "Urh Mumhan"
@@ -91,8 +91,8 @@ leader_names = {
   "Barry"
   "Boyle"
   "Darcy"
-  "FitzGerald"
-  "FitzThomas"
+  "菲茨杰拉德"  # FitzGerald
+  "菲茨托马斯"  # FitzThomas
   "O'Brien"
   "O'Neill"
   "MacCarthy"

@@ -37,10 +37,6 @@ historical_units = {
   napoleonic_lancers
 }
 monarch_names = {
-  "Gottschalk #0" = 0
-  "Jeremias #0" = 0
-  "Kuno #0" = 0
-  "Kurt #0" = 0
   "维布克 #0" = -1  # Wiebke #0
   "曼切图德 #0" = -1  # Mechtilde #0
   "普锐斯卡 #0" = -1  # Priska #0
@@ -55,13 +51,17 @@ monarch_names = {
   "尼克拉斯 #0" = 0  # Niklas #0
   "马丁 #0" = 0  # Martin #0
   "马库斯 #0" = 0  # Markus #0
+  "库尔特 #0" = 0  # Kurt #0
+  "库诺 #0" = 0  # Kuno #0
   "于尔根 #0" = 0  # Jürgen #0
   "尤里乌斯 #0" = 0  # Julius #0
   "约瑟夫 #0" = 0  # Joseph #0
+  "杰里迈亚斯 #0" = 0  # Jeremias #0
   "赫伯特 #0" = 0  # Herbert #0
   "哈尔特温 #0" = 0  # Hartwin #0
   "哈甘 #0" = 0  # Hagan #0
   "格雷戈尔 #0" = 0  # Gregor #0
+  "戈特沙尔克 #0" = 0  # Gottschalk #0
   "弗洛里安 #0" = 0  # Florian #0
   "法比安 #0" = 0  # Fabian #0
   "埃尔温 #0" = 0  # Erwin #0
@@ -87,7 +87,7 @@ leader_names = {
   "阿德勒"  # Adler
   "阿勒斯"  # Ahlers
   "阿尔佩斯"  # Alpers
-  "Alt"
+  "亚特"  # Alt
   "阿牧辛克"  # Amsinck
   "Baasch"
   "巴克"  # Backer
@@ -99,8 +99,8 @@ leader_names = {
   "德 格雷维"  # de Greve
   "德莱耶"  # Dreyer
   "Eggers"
-  "Engel"
-  "von der Fechte"
+  "恩格勒"  # Engel
+  "冯 德 费希特"  # von der Fechte
   "Framhein"
   "Gevert"
   "Gossler"
@@ -137,11 +137,11 @@ leader_names = {
   "Vick"
   "Vilter"
   "Vollmer"
-  "von Düten"
+  "冯 丢滕"  # von Düten
 }
 ship_names = {
-  "Adler von Lübeck"
-  "Admiralität von Hamburg"
+  "阿德勒 冯 吕贝克"  # Adler von Lübeck
+  "汉堡海军"  # Admiralität von Hamburg
   "Arche Noah"
   "勃朗特公牛"  # Brunte Kuh
   "雄鹰"  # Der Große Adler
@@ -152,35 +152,35 @@ ship_names = {
   "Goldener Löwe"
   "Grafschaft Mark"
   "Grüner Drache"
-  "Herzogtum Cleve"
-  "Jesus von Lübeck"
-  "Jonge Tobias"
-  "König David"
+  "克里夫公国"  # Herzogtum Cleve
+  "耶苏斯 冯 吕贝克"  # Jesus von Lübeck
+  "荣格 托比亚斯"  # Jonge Tobias
+  "大卫王"  # König David
   "Leopoldus Primus"
-  "Lisa von Lübeck"
-  "Lybischer Trotz"
-  "Lübscher Adler"
+  "丽莎 冯 吕贝克"  # Lisa von Lübeck
+  "卢比沙 陶兹"  # Lybischer Trotz
+  "吕贝克之鹰"  # Lübscher Adler
   "Maria Catharina"
   "Nordischer Löwe"
   "Peter und Paul"
-  "Peter von Danzig"
+  "彼得 冯 但泽"  # Peter von Danzig
   "路德维希亲王"  # Prinz Ludwig
   "Prophet Daniel"
   "Ritter Sankt Georg"
   "Roter Hirsch"
   "Sankt Laurens"
   "Sankt Peter"
-  "Schwarzer Rabe"
-  "Sieben Provinzien"
+  "黑鸦"  # Schwarzer Rabe
+  "七省"  # Sieben Provinzien
   "Stad Emden"
-  "Vogel Greif"
-  "Wapen von Bremen"
-  "Wapen von Hamburg"
-  "Wappen von Bremen"
-  "Wappen von Cleve"
+  "沃格尔 格里夫"  # Vogel Greif
+  "不莱梅之纹章"  # Wapen von Bremen
+  "汉堡之纹章"  # Wapen von Hamburg
+  "不莱梅之纹章"  # Wappen von Bremen
+  "克里夫之纹章"  # Wappen von Cleve
   "Weißer Löwe"
   "Wilhelmina Margaretta"
-  "Zwei Brüder"
+  "两个兄弟"  # Zwei Brüder
   "Afrikaner"
   "Anna"
   "Bersteinfänger"
@@ -188,22 +188,22 @@ ship_names = {
   "Clementia"
   "Colonia"
   "Derffinger"
-  "Dorothea"
+  "多萝西娅"  # Dorothea
   "Engel"
-  "Feuerblase"
+  "火球爆炸"  # Feuerblase
   "Fortuna"
   "Friede"
-  "Fuchs"
+  "富克斯"  # Fuchs
   "Gabriel"
-  "Hoffning"
+  "希望"  # Hoffning
   "约翰内斯堡"  # Johannesburg
-  "Kurprinz"
+  "选帝候"  # Kurprinz
   "Makarele"
-  "Meermann"
+  "雄人鱼"  # Meermann
   "Meerweib"
   "Mercurius"
   "Morian"
-  "Pax"
+  "盛世"  # Pax
   "Pierelepomp"
   "Roland"
   "Rommelpot"

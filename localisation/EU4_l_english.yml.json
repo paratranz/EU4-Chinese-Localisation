@@ -15699,7 +15699,7 @@
         "key": "po_estuary_modifier:0",
         "original": "Po Estuary",
         "translation": "波河河口",
-        "stage": 1,
+        "stage": 5,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
     },
@@ -15707,7 +15707,7 @@
         "key": "desc_po_estuary_modifier:0",
         "original": "Controlling the important river estuary of Po strengthens our hold of the trade in the region.",
         "translation": "控制住重要的波河河口可以增强我们在这一区域的贸易掌控力。",
-        "stage": 1,
+        "stage": 5,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
     },
@@ -15715,7 +15715,7 @@
         "key": "danube_estuary_modifier:0",
         "original": "Danube Estuary",
         "translation": "多瑙河河口",
-        "stage": 1,
+        "stage": 5,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
     },
@@ -15723,7 +15723,7 @@
         "key": "desc_danube_estuary_modifier:0",
         "original": "Controlling the important river estuary of Danube strengthens our hold of the trade in the region.",
         "translation": "控制住重要的多瑙河河口可以增强我们在这一区域的贸易掌控力。",
-        "stage": 1,
+        "stage": 5,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
     },
@@ -15731,7 +15731,7 @@
         "key": "dnestr_estuary_modifier:0",
         "original": "Dnestr Estuary",
         "translation": "德涅斯特河河口",
-        "stage": 1,
+        "stage": 5,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
     },
@@ -35002,7 +35002,7 @@
     {
         "key": "GOVERNMENT_DONT_ALLOW_VASSAL_WAR:0",
         "original": "The government of $WHO$ doesn't allow this action.",
-        "translation": " $WHO$ 的政府不允许该操作。",
+        "translation": "$WHO$的政府不允许该操作。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -35018,7 +35018,7 @@
     {
         "key": "TRUCE_WITH_OVERLORD:0",
         "original": "A subject cannot receive support for independence while it has a truce with its overlord.",
-        "translation": "属国与宗国停战时不能被他国支持独立。",
+        "translation": "不能支持独立，因为附属国与宗主国停战。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -35274,7 +35274,7 @@
     {
         "key": "NOT_CANCEL_POLICY_UNTIL:0",
         "original": "A policy must be enacted for at least §Y$YEARS$§! years until it can be repealed. This policy can be repealed at §Y$DATE$§!.\\n",
-        "translation": "一项政策在它可以被替换之前至少必须施行 §Y$YEARS$§! 年，这项政策可以在 §Y$DATE$§! 被替换。\\n",
+        "translation": "一项政策至少施行 §Y$YEARS$§! 年才能替换。§Y$DATE$§!后可替换此政策。\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"

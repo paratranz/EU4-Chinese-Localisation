@@ -35,12 +35,12 @@ leader_names = {
   "Azegid"
   "Gachegid"
   "Zhebegid"
-  "Lunegid"
+  "卢涅格"  # Lunegid
   "Zhunegid"
   "Irtegid"
   "Moshegid"
   "Rategid"
-  "Yugra"
+  "尤格拉"  # Yugra
   "Syktyvkar"
 }
 ship_names = {
@@ -48,21 +48,19 @@ ship_names = {
   "Olota"
   "Ordava"
   "Pemka"
-  "Poshayka"
+  "波谢卡"  # Poshayka
   "Tekay"
   "Tetyava"
-  "Tundya"
+  "通佳"  # Tundya
   "Unzhutka"
   "Yalgava"
 }
 monarch_names = {
-  "Mohkku #0" = 20
   "Mokci #0" = 20
   "Náhkol #0" = 20
   "Päevalemb #0" = 10
   "Sulev #0" = 10
   "Pivtsay #0" = 10
-  "Pokshayka #0" = 5
   "Shypicha #0" = 5
   "Irter #0" = 5
   "Karuvald #0" = 5
@@ -71,6 +69,8 @@ monarch_names = {
   "Náinnas #0" = 0
   "Nyayka #0" = -1
   "Vidyava #0" = -1
-  "Poshayka #0" = -1
   "Satu #0" = -1
+  "波谢卡 #0" = -1  # Poshayka #0
+  "波克沙伊卡 #0" = 5  # Pokshayka #0
+  "莫哈库 #0" = 20  # Mohkku #0
 }

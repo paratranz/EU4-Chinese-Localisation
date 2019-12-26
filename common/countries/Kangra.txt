@@ -27,7 +27,6 @@ historical_units = {
 }
 monarch_names = {
   "Megh Chand #0" = 20
-  "Hari Chand #0" = 20
   "Karan Chand #0" = 20
   "Sansar Chand #0" = 10
   "Devangga Chand #0" = 10
@@ -42,7 +41,6 @@ monarch_names = {
   "Vijay Ram Chand #0" = 5
   "Alam Chand #0" = 5
   "Bhim Chand #0" = 5
-  "Abhay Chand #0" = 5
   "Shrinagar Chand #0" = 5
   "Ghamir Chand #0" = 5
   "Ghamand Chand #0" = 5
@@ -51,11 +49,13 @@ monarch_names = {
   "Gita Chand #0" = -1
   "Uma #0" = -1
   "Krishna Devi #0" = -1
+  "阿婆耶 旃陀 #0" = 5  # Abhay Chand #0
   "普拉亚格 昌德 #0" = 5  # Prayag Chand #0
+  "曷利 昌德 #0" = 20  # Hari Chand #0
 }
 leader_names = {
-  "Singh"
-  "Katoch"
+  "僧诃"  # Singh
+  "卡托奇"  # Katoch
   "Bhangalia"
   "Pundir"
   "Pakhral"
@@ -64,7 +64,7 @@ leader_names = {
   "Bais"
   "Saran"
   "Jadeja"
-  "Chudasama"
+  "珠多娑摩"  # Chudasama
   "Pahore"
   "Bhaal"
 }
@@ -76,10 +76,10 @@ ship_names = {
   "Guru"
   "Indus"
   "Jalsena"
-  "Jhelum"
+  "杰赫勒姆"  # Jhelum
   "Lakshmi"
   "Nausena"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Parvati"
   "Radha"
   "Ratri"
@@ -87,5 +87,5 @@ ship_names = {
   "Sagar"
   "Sutlej"
   "Sarasvati"
-  "Sita"
+  "悉多"  # Sita
 }

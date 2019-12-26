@@ -28,30 +28,23 @@ historical_units = {
   african_dragoon
 }
 monarch_names = {
-  "Edegi #0" = 20
-  "Abdu Waliyi #0" = 20
   "Alyu #0" = 20
   "Ganamace #0" = 20
   "Ibrahima #0" = 20
   "Idirisu #0" = 20
-  "Abd Allahi 'Tsado #0" = 20
-  "Abu Bakr Kolo #0" = 20
   "Jibirin dan Au Bakr Kolo #0" = 20
   "Ma'azu #0" = 20
   "Majiya #0" = 20
-  "Ilyasu #0" = 20
   "Ali Kolo Tankari #0" = 20
   "Mamma #0" = 20
   "Jimada #0" = 20
   "Jia #0" = 20
-  "Masaba #0" = 20
   "Maza #0" = 20
   "Ma'azu 'Isa #0" = 20
   "Tsoede #0" = 20
   "'Usuman Zaki #0" = 20
   "'Umaru Majigi #0" = 20
   "Maliki #0" = 20
-  "Abu Bakr #0" = 20
   "Muhammadu #0" = 20
   "Bello #0" = 20
   "Malam #0" = 20
@@ -63,6 +56,13 @@ monarch_names = {
   "Abeje #0" = -1
   "Oluremi #0" = -1
   "Titilayo #0" = -1
+  "阿布 巴克尔 #0" = 20  # Abu Bakr #0
+  "马萨巴 #0" = 20  # Masaba #0
+  "伊利阿苏 #0" = 20  # Ilyasu #0
+  "阿布 巴克尔 科罗 #0" = 20  # Abu Bakr Kolo #0
+  "阿布杜拉希 萨都 #0" = 20  # Abd Allahi 'Tsado #0
+  "阿卜杜 瓦雷伊 #0" = 20  # Abdu Waliyi #0
+  "阿德吉 #0" = 20  # Edegi #0
 }
 leader_names = {
   "Ubah"
@@ -79,8 +79,8 @@ leader_names = {
 ship_names = {
   "Oranyan"
   "Ajaka"
-  "Sango"
-  "Oyo-Ille"
+  "桑格"  # Sango
+  "奥约"  # Oyo-Ille
   "Oduduwa"
   "Olorun Olodumare"
   "Ille-Ife"

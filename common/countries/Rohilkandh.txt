@@ -31,9 +31,7 @@ monarch_names = {
   "Faizullah Khan #0" = 20
   "Saadat #0" = 0
   "Safdarjung #0" = 0
-  "Birjis Qadra #0" = 0
   "Iqbal #0" = 0
-  "Alauddin #0" = 0
   "Bhi #0" = 0
   "Malik #0" = 0
   "Narendra #0" = 0
@@ -42,7 +40,9 @@ monarch_names = {
   "Hazrat Mahal #0" = -5
   "Farzana #0" = -5
   "Fakhr-un-Nisa #0" = -1
+  "阿拉丁 #0" = 0  # Alauddin #0
   "阿里 #0" = 0  # Ali #0
+  "比尔吉斯 喀德尔 #0" = 0  # Birjis Qadra #0
   "海德 #0" = 0  # Hyder #0
   "穆罕默德 赛义德 汗 巴哈杜尔 #0" = 5  # Muhammad Said Khan Bahadur #0
   "艾哈迈德 阿里 汗 巴哈杜尔 #0" = 10  # Ahmad Ali Khan Bahadur #0
@@ -59,10 +59,10 @@ leader_names = {
   "Bangash"
   "Satsangi"
   "Hindustani"
-  "Khan"
+  "汗"  # Khan
   "Karrani"
   "Yousafzai"
-  "Chand"
+  "昌德"  # Chand
   "Awadhi"
   "ud Daula"
   "Khilji"
@@ -70,7 +70,7 @@ leader_names = {
   "Pundir"
   "Sharqi"
   "Sarwar"
-  "Uzbek"
+  "乌兹别克"  # Uzbek
   "Siddiqui"
 }
 ship_names = {
@@ -82,10 +82,10 @@ ship_names = {
   "Gomti"
   "Jalsena"
   "Kala Jahazi"
-  "Khan"
+  "汗"  # Khan
   "Lal Jahazi"
   "Nausena"
-  "Nav ka Yudh"
+  "纳瓦 卡 尤多"  # Nav ka Yudh
   "Niknaz"
   "Nila Jahazi"
   "Niloufa"

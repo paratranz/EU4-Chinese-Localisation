@@ -35,11 +35,8 @@ historical_units = {
 monarch_names = {
   "David #0" = 20
   "Mkhitar #0" = 20
-  "Ashot #0" = 15
   "Gagik #0" = 15
   "Smbat #0" = 15
-  "Abbas #0" = 15
-  "Hovhannes Smbat #0" = 15
   "Vagram #0" = 10
   "Musegh #0" = 10
   "Sahak #0" = 10
@@ -50,61 +47,64 @@ monarch_names = {
   "Arsen #0" = 0
   "Arshavir #0" = 0
   "Avedis #0" = 0
-  "Badouagan #0" = 0
   "Bedros #0" = 0
   "Berjouhi #0" = 0
-  "Boghos #0" = 0
   "Ghoukas #0" = 0
-  "Hagop #0" = 0
-  "Haig #0" = 0
-  "Hovhannes #0" = 0
-  "Hovsep #0" = 0
   "Jirair #0" = 0
   "Kapriel #0" = 0
   "Karayan #0" = 0
   "Kevork #0" = 0
   "Khajag #0" = 0
   "Krikor #0" = 0
-  "Levon #0" = 0
   "Movses #0" = 0
   "Nairi #0" = 0
   "Sevan #0" = 0
   "Taniel #0" = 0
   "Vahan #0" = 0
-  "Zadig #0" = 0
-  "Zoravan #0" = 0
   "Adrine #0" = -1
   "Elsapet #0" = -1
   "Sarine #0" = -1
+  "佐拉万 #0" = 0  # Zoravan #0
+  "扎迪格 #0" = 0  # Zadig #0
+  "列翁 #0" = 0  # Levon #0
+  "霍夫塞普 #0" = 0  # Hovsep #0
+  "霍夫汉内斯 #0" = 0  # Hovhannes #0
+  "黑格 #0" = 0  # Haig #0
+  "哈戈普 #0" = 0  # Hagop #0
+  "博戈 #0" = 0  # Boghos #0
+  "巴杜阿甘 #0" = 0  # Badouagan #0
+  "霍夫汉内斯 斯姆巴特 #0" = 15  # Hovhannes Smbat #0
+  "阿拔斯 #0" = 15  # Abbas #0
+  "阿绍特 #0" = 15  # Ashot #0
 }
 leader_names = {
-  "Adamian"
-  "Adomian"
+  "阿达米安"  # Adamian
+  "阿多米安"  # Adomian
   "阿伽扎尼安"  # Aghajanian
-  "Altounyan"
+  "阿尔陶扬"  # Altounyan
   "Apkarian"
   "Bagian"
   "Babaian"
   "Babikian"
-  "Chobanian"
-  "Bhobanyan"
+  "乔巴尼扬"  # Chobanian
+  "鲍班扬"  # Bhobanyan
   "Damadian"
   "Eskandarian"
   "Kapikian"
   "喀山季扬"  # Kazanjian
   "Kebabian"
   "Kevorkian"
-  "Khachikyan"
+  "哈奇基扬"  # Khachikyan
   "Khatchaturian"
   "Kirlian"
   "Mergelyan"
   "Orbeli"
-  "Pogosyan"
+  "波戈相"  # Pogosyan
   "Sadian"
-  "Simjian"
+  "辛基安"  # Simjian
   "Sevanian"
   "Meymarian"
-  "Shahinian"
+  "沙希尼安"  # Shahinian
 }
 ship_names = {
   "Aramu"
@@ -114,9 +114,9 @@ ship_names = {
   "Artsakh"
   "Dvin"
   "Erimena"
-  "Haik"
-  "Haldi"
-  "Ishpuinis"
+  "哈伊克"  # Haik
+  "诃罗提"  # Haldi
+  "伊什普尼斯"  # Ishpuinis
   "Kars"
   "Lutipri"
   "Musasir"
@@ -124,7 +124,7 @@ ship_names = {
   "Manzikert"
   "Parisos"
   "Rusas II"
-  "Siwini"
+  "西威尼"  # Siwini
   "Selardi"
   "Sarduri I"
   "Sarduris II"
