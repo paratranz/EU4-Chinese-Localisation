@@ -1228,9 +1228,14 @@ country_event = {
           has_province_modifier = domain_of_spouses_family
         }
       }
-      add_province_modifier = {
-        name = "chi_upset_local_nobles"
-        duration = 3650
+      random_owned_province = {
+        limit = {
+          has_province_modifier = domain_of_spouses_family
+        }
+        add_province_modifier = {
+          name = "chi_upset_local_nobles"
+          duration = 3650
+        }
       }
     }
     kill_leader = {
@@ -2048,13 +2053,14 @@ country_event = {
   }
   option = {
     name = "china_events.38.a"
+    add_corruption = 2
     reduce_bureaucrats_effect = yes
     reduce_meritocracy_large_effect = yes
     add_adm_power = -20
   }
   option = {
     name = "china_events.38.b"
-    add_prestige = -10
+    add_corruption = 2
     reduce_mandate_effect = yes
     if = {
       limit = {
@@ -2861,7 +2867,36 @@ country_event = {
 country_event = {
   id = china_events.55
   title = "china_events.55.t"
-  desc = "china_events.55.d"
+  desc = {
+    desc = "china_events.55.d"
+    trigger = {
+      event_target:empire_of_china = {
+        NOT = {
+          has_country_modifier = lost_mandate_of_heaven
+        }
+      }
+    }
+  }
+  desc = {
+    desc = "china_events.55.d.not_emperor"
+    trigger = {
+      event_target:empire_of_china = {
+        has_country_modifier = lost_mandate_of_heaven
+      }
+      NOT = {
+        is_emperor_of_china = yes
+      }
+    }
+  }
+  desc = {
+    desc = "china_events.55.d.not_emperor_but_I_am"
+    trigger = {
+      event_target:empire_of_china = {
+        has_country_modifier = lost_mandate_of_heaven
+      }
+      is_emperor_of_china = yes
+    }
+  }
   picture = BATTLE_eventPicture
   trigger = {
     is_free_or_tributary_trigger = yes
@@ -2880,6 +2915,9 @@ country_event = {
       num_of_cities = 5
       NOT = {
         alliance_with = ROOT
+      }
+      NOT = {
+        is_subject_of = ROOT
       }
       any_owned_province = {
         any_neighbor_province = {
@@ -2958,6 +2996,11 @@ country_event = {
   }
   option = {
     name = "china_events.55.b"
+    trigger = {
+      NOT = {
+        is_emperor_of_china = yes
+      }
+    }
     event_target:empire_of_china = {
       add_opinion = {
         who = ROOT

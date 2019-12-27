@@ -2,9 +2,8 @@
     {
         "key": "CONVREL_STAB_NO_NEGATIVE:0",
         "original": "You need at least §G0§! stability to convert your religion.",
-        "translation": "你至少需要§G0§!稳定度才能改变国家宗教。",
-        "stage": 5,
-        "context": "",
+        "translation": "你至少需要§G0§!稳定度才能改变国教。",
+        "stage": 1,
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -12,7 +11,6 @@
         "original": "Modified by $VAL$ due to Papal State opinion of us.",
         "translation": "根据教宗国对我们的态度得到$VAL$修正。",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -20,7 +18,6 @@
         "original": "§Y$WHO$§! will lose claims on §R$PROVS$§!.",
         "translation": "§Y$WHO$§!将失去§R$PROVS$§!的宣称。",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -28,7 +25,6 @@
         "original": "§RAll provinces must be unoccupied.§!",
         "translation": "§R所有省份必须未被占领。§!",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -36,7 +32,6 @@
         "original": "Right now, it's up to $OVERLORD$ to leave this coalition.",
         "translation": "目前是由$OVERLORD$决定是否离开包围网。",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -44,7 +39,6 @@
         "original": "Embargoed by §Y$OTHER$§W: §R$EFF$§W%",
         "translation": "被§Y$OTHER$§W禁运：§R$EFF$§W%",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -52,7 +46,6 @@
         "original": "Search",
         "translation": "搜索",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -60,7 +53,6 @@
         "original": "Clear",
         "translation": "清除",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -68,7 +60,6 @@
         "original": "Enter key words separated by §Yspace§! to filter the list.",
         "translation": "输入用§Y空格键§!分隔的关键字来过滤列表。",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -76,7 +67,6 @@
         "original": "§RThis unit is now repairing. It will continue the mission soon.§!",
         "translation": "§R这个单位目前正在修复。 它将很快继续执行任务。§!",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -84,15 +74,13 @@
         "original": "Click on §G+§! and §G-§! to §Gadd§! or §Gremove§!¤ into your offer or demand.\\n$GOLD|+$¤ is worth around §Y$WS|+1$§! War Score.",
         "translation": "点击§G+§!和§G-§!§G增加§!或§G减少§!¤到你的提案或要求中。\\n$GOLD|+$¤大概需要§Y$WS|+1$§!战争分数。",
         "stage": 2,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
         "key": "PEACE_VIEW_GOLD_ADD_REMOVE_KEYS:0",
         "original": "§YRMB§! to add or remove §Gmore§!.\\n§YShift + LMB§! to add or remove §Gmax§!",
-        "translation": "§Y右键§!增减§G更多§!。\\n§YShift+左键§!增减§G全部§!",
-        "stage": 2,
-        "context": "",
+        "translation": "§Y右键§!增减§G更多量§!。\\n§YShift+左键§!增减§G最大值§!",
+        "stage": 1,
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -100,7 +88,6 @@
         "original": "§YRMB§! to add §Gmore§!.\\n§YShift + LMB§! to add §Gmax§!",
         "translation": "§Y右键§!增加§G更多§!。\\n§YShift+左键§!增加§G全部§!",
         "stage": 2,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -108,7 +95,6 @@
         "original": "§YRMB§! to remove §Gmore§!.\\n§YShift + LMB§! to remove §Gmax§!",
         "translation": "§Y右键§!减少§G更多§!。\\n§YShift+左键§!减少§G全部§!",
         "stage": 2,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -116,7 +102,6 @@
         "original": "Artillery gives a bonus on the siege roll. This bonus depends on the amount of artillery compared to the Fort Level.",
         "translation": "炮兵在围城时给予掷骰上的加成。 这个加成取决于攻城方炮兵数量与守城方要塞等级对比。",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -124,15 +109,13 @@
         "original": "§Y$AMOUNT$§! Artillery (§Y+$BONUS$§! Bonus)",
         "translation": "§Y$AMOUNT$§!个炮兵（§Y+$BONUS$§! 加成）",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
         "key": "SIEGE_STATUS_EXPLANATION:0",
         "original": "Siege Status is affected by:",
-        "translation": "围城状态受以下因素影响:",
+        "translation": "围城状态受以下因素影响：",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -140,7 +123,6 @@
         "original": "$NAME$: §Y+$BONUS$§! Siege Status",
         "translation": "$NAME$：§Y+$BONUS$§!围城状态",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -148,15 +130,13 @@
         "original": "Each siege phase the attacker has a chance to breach the walls. Breaching the walls gives a §Y+$BREACHBONUS$§! bonus to siege roll. Artillery increases the likelihood of achieving a breach, and obsolete forts are easier to breach.",
         "translation": "每个攻城阶段攻城方都有机会攻破城墙，城墙损坏在围城时会给予§Y+$BREACHBONUS$§!的加成。炮兵提高了破城几率，而废弃的要塞更容易被破城。",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
         "key": "SIEGE_CHANCE_EXPLANATION:0",
         "original": "Each time a siege phase happens a die (§Y$MIN$§! to §Y$MAX$§!) is rolled. That roll is then added together with the siege modifiers ($MODIFIERS$). On a natural roll of 1, the attackers will suffer a Disease Outbreak that reduces their numbers by §R$VAL$%§! of their maximum strength.\\n\\nThe results of the roll are as follows:",
-        "translation": "每个围城阶段将会掷出（从§Y$MIN$§!到§Y$MAX$§!）骰子。掷出的点数将与围城修正（$MODIFIERS$）加总。如果投出1点，攻城方将遭受瘟疫爆发的影响导致减员最高人数的§R$VAL$%§!。\\n\\n这次掷骰的结果如下：",
+        "translation": "每个围城阶段将会掷出§Y$MIN$§!到§Y$MAX$§!点的骰子。掷出的点数将与围城修正（$MODIFIERS$）加总。如果掷出1点，攻城方将遭受瘟疫爆发影响，减员§R$VAL$%§!。\\n\\n这次掷骰的结果如下：",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -164,7 +144,6 @@
         "original": "$NAME$: $RANGE$ (Chance: $CHANCE$)",
         "translation": "$NAME$：$RANGE$（几率：$CHANCE$）",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -172,7 +151,6 @@
         "original": "This siege has been going on for §Y$TOTAL$§! days. The next siege phase is in §Y$LEFT$§! days.",
         "translation": "这场围攻已经持续了§Y$TOTAL$§! 天。§Y$LEFT$§! 天后开始下一个围城阶段。",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -180,7 +158,6 @@
         "original": "§RProgress is halted while the province is besieged.§!",
         "translation": "§R省份被包围时进度暂停。§!",
         "stage": 2,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -188,7 +165,6 @@
         "original": "Maximum is $MAX_LOANS$ loans totalling §Y$TOTAL$§!¤ ($WS|G$ War Score).",
         "translation": "最多$MAX_LOANS$笔贷款，一共§Y$TOTAL$§!¤（$WS|G$ 战争分数）。",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -196,7 +172,6 @@
         "original": "Unable to guarantee, as we have annul treaties until §Y$DATE$§!",
         "translation": "由于之前废除了与该国的协定，§Y$DATE$§!前无法再次保证其独立",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -204,23 +179,13 @@
         "original": "Unable to create alliance, as we have annul treaties until §Y$DATE$§!",
         "translation": "由于之前废除了与该国的盟约，§Y$DATE$§!前无法再次结盟",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
         "key": "ANNUL_TREATIES_CANT_MIL_ACCESS:0",
         "original": "Unable to ask or grant military access, as we have annul treaties until §Y$DATE$§!",
-        "translation": "由于之前废除了与该国的协定，§Y$DATE$§!前无法再次申请或提供军事通行权",
+        "translation": "由于之前废除了与该国的协定，§Y$DATE$§!前无法再次请求或给予军事通行权",
         "stage": 1,
-        "context": "",
-        "file": "localisation/text_l_english_0_815.yml"
-    },
-    {
-        "key": "CW_WARNSUBJECTS:0",
-        "original": "They rule over $COUNTRY$, which will aid them.",
-        "translation": "他们也统治着$COUNTRY$，该国将会援助他们。",
-        "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -228,23 +193,20 @@
         "original": "$WHO$ have §Y$CURRENT$§!£mil of §Y$NEEDED$§!£mil needed: ",
         "translation": "$WHO$需要§Y$NEEDED$§!£mil 而当前有§Y$CURRENT$§!£mil 。",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
         "key": "ATTR_TRADE_MISSION:0",
         "original": "0% - Light ships on trade mission.",
-        "translation": "0% - 轻型战舰贸易任务。",
-        "stage": 5,
-        "context": "",
+        "translation": "0%－轻型战舰贸易任务。",
+        "stage": 1,
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
         "key": "ATTR_NAVAL_BASE:0",
         "original": "0% - Adjacent to friendly port.",
-        "translation": "0% - 毗邻友好港口",
-        "stage": 5,
-        "context": "",
+        "translation": "0%－毗邻友好港口。",
+        "stage": 1,
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -252,7 +214,6 @@
         "original": "§YNext Unit§!",
         "translation": "§Y下一个单位§!",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -260,7 +221,6 @@
         "original": "§YPrevious Unit§!",
         "translation": "§Y上一个单位§!",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -268,7 +228,6 @@
         "original": "§RWARNING! Disbanding this fleet at sea will also disband §Y$LEADER$§R as leader.§!",
         "translation": "§R警告！在海上解散这支舰队也将解雇§R舰队提督§Y$LEADER$。§!",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -276,7 +235,6 @@
         "original": "Production Efficiency: $VAL|%=+1$",
         "translation": "生产效率：$VAL|%=+1$",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -284,7 +242,6 @@
         "original": "The people of §Y$PROVINCE$§! are followers of the §Y$PROVRELIGION$§! faith and considered $TYPE$ by the §Y$STATERELIGION$§! state religion of §Y$COUNTRY$§!.",
         "translation": "§Y$PROVINCE$§!的人民是§Y$PROVRELIGION$§!的信徒，对于信仰§Y$STATERELIGION$§!的§Y$COUNTRY$§!而言是$TYPE$。",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -292,7 +249,6 @@
         "original": "§Rheretics§!",
         "translation": "§R异端§!",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -300,7 +256,6 @@
         "original": "§Rheathens§!",
         "translation": "§R异教徒§!",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -308,7 +263,6 @@
         "original": "§Gtrue believers§!",
         "translation": "§G忠实信徒§!",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -316,7 +270,6 @@
         "original": "Depending on your nations tolerance to different religions a province may have both negative and positive effects in various areas.",
         "translation": "根据你的国家对不同宗教的容忍程度，一个省份在各方面可能会有消极或积极的影响。",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -324,7 +277,6 @@
         "original": "Trade node is discovered",
         "translation": "贸易节点已被发现",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -332,7 +284,6 @@
         "original": "The total peace cost of our provinces is too great.",
         "translation": "我们省份的总胜利点太高了。",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -340,7 +291,6 @@
         "original": "Go to home capital",
         "translation": "前往首都",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -348,15 +298,13 @@
         "original": "Unit has low morale.",
         "translation": "单位士气低落。",
         "stage": 5,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
         "key": "FE_IRONMAN_GAMENOTOK:0",
         "original": "Ironman mode needs EU4 to be unmodified and validated.",
-        "translation": "铁人模式需要EU4未经修改和破解",
-        "stage": 5,
-        "context": "",
+        "translation": "铁人模式需要游戏未经修改且已通过校验。",
+        "stage": 1,
         "file": "localisation/text_l_english_0_815.yml"
     },
     {
@@ -364,7 +312,6 @@
         "original": "$ENEMY$ rule over $COUNTRY$, who will aid them.",
         "translation": "$ENEMY$统治着$COUNTRY$，该国将会援助他们。",
         "stage": 1,
-        "context": "",
         "file": "localisation/text_l_english_0_815.yml"
     }
 ]

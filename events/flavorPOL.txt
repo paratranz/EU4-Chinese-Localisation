@@ -1140,7 +1140,7 @@ country_event = {
           has_reform = celestial_empire
         }
       }
-      change_government_via_reform = republic
+      change_government = republic
       add_government_reform = oligarchy_reform
     }
     define_ruler = {
@@ -1646,7 +1646,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     LIT = {
       add_opinion = {

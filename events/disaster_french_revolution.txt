@@ -80,7 +80,7 @@ country_event = {
     name = "flavor_fra.EVTOPTA3779"
     disband_rebels = revolutionary_rebels
     add_stability_or_adm_power = yes
-    change_government_via_reform = republic
+    change_government = republic
     add_government_reform = revolutionary_republic_reform
     if = {
       limit = {
@@ -380,7 +380,7 @@ country_event = {
           government = monarchy
         }
       }
-      change_government_via_reform = monarchy
+      change_government = monarchy
     }
     add_government_reform = revolutionary_empire_reform
     random_owned_province = {

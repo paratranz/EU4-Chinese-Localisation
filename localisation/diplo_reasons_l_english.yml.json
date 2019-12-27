@@ -4,7 +4,6 @@
         "original": "Abandoned Tributary",
         "translation": "放弃朝贡国",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -12,7 +11,6 @@
         "original": "No ongoing fighting: ",
         "translation": "没有正在进行的战斗：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -20,15 +18,13 @@
         "original": "$WHO$ has §YUnconditionally Surrendered§! to $THEM$: ",
         "translation": "$WHO$已经向$THEM$§Y无条件投降§!：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_SET_PROVINCES_AS_VITAL:0",
         "original": "$THEM$ considers $WE$ provinces to be of vital interest: ",
-        "translation": "$THEM$认为$WE$的省份关乎其重大利益所在：",
+        "translation": "$THEM$将$WE$的省份视为其重大利益所在：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -36,71 +32,62 @@
         "original": "$THEM$ and $WE$ consider the same $NUM$ provinces to be of vital interest: ",
         "translation": "$NUM$个省份同时被$THEM$和$WE$视为重大利益所在：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_ALREADY_TRANSFERING_TRADE_POWER:0",
         "original": "Already giving trade power to $WHO$: ",
-        "translation": "已经向$WHO$转移贸易竞争力:",
+        "translation": "已经向$WHO$转移贸易竞争力：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_ALREADY_STEERING_TRADE:0",
         "original": "Already steering trade to $WHO$: ",
-        "translation": "已将贸易转至 $WHO$:",
+        "translation": "已经向$WHO$引导贸易：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_TRADE_VASSALS:0",
         "original": "Number of countries transferring trade power to $WHO$: ",
-        "translation": "向$WHO$移交贸易竞争力的国家数：",
+        "translation": "向$WHO$转移贸易竞争力的国家数：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_TRADE_STEER_SLAVES:0",
         "original": "Number of countries steering trade to $WHO$: ",
-        "translation": "向 $WHO$ 转贸易的国家数:",
+        "translation": "向$WHO$引导贸易的国家数：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_ACTIVE_RELATION:0",
         "original": "Treaty is already active: ",
-        "translation": "已生效的协议:",
-        "stage": 5,
-        "context": "",
+        "translation": "已生效的协议：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_FIGHTING_OTHER_WAR_TOGETHER:0",
         "original": "Fighting in another war together: ",
-        "translation": "在另一场战争中一起作战:",
+        "translation": "在另一场战争中一起作战：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_MULTI_WARS:0",
         "original": "Would be called into multiple wars: ",
         "translation": "将会被召入多线战争：",
-        "stage": 1,
-        "context": "",
+        "stage": 5,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_FIGHTING_OTHER_WAR:0",
         "original": "Fighting in another war: ",
-        "translation": "在另一场战争中作战:",
+        "translation": "正在打另一场战争：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -108,7 +95,6 @@
         "original": "Positive: $VAL|G$",
         "translation": "赞成：$VAL|G$",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -116,7 +102,6 @@
         "original": "Negative: $VAL|R$",
         "translation": "反对：$VAL|R$",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -124,15 +109,13 @@
         "original": "Nation is too unstable: ",
         "translation": "国家太不稳定：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_ALLIANCE_IS_BREAKING:0",
         "original": "No longer desires $WHO$ as an ally: ",
-        "translation": "不再渴望$WHO$作为其盟友:",
+        "translation": "不再愿意与$WHO$维持联盟：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -140,7 +123,6 @@
         "original": "$THEM$ is unwilling to join our offensive wars: ",
         "translation": "$THEM$不愿加入我们发动的战争：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -148,7 +130,6 @@
         "original": "The player of $THEM$ is Hostile towards $WHO$: ",
         "translation": "玩家$THEM$对$WHO$持敌视态度：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -156,7 +137,6 @@
         "original": "The player of $THEM$ is Friendly towards $WHO$: ",
         "translation": "玩家$THEM$对$WHO$持友好态度：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -164,7 +144,6 @@
         "original": "The player of $THEM$ is Neutral towards $WHO$: ",
         "translation": "玩家$THEM$对$WHO$持中立态度：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -172,7 +151,6 @@
         "original": "$WHO$ does not owe $US$ at least $AMT$ favors: ",
         "translation": "$WHO$没有欠$US$至少$AMT$点人情：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -180,15 +158,13 @@
         "original": "Distant war: ",
         "translation": "距离遥远的战争：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_DEFENSIVE_WAR:0",
         "original": "Defensive War: ",
-        "translation": "防御战争:",
-        "stage": 5,
-        "context": "",
+        "translation": "防御性质的战争：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -196,7 +172,6 @@
         "original": "$WHO$ is Bankrupt: ",
         "translation": "$WHO$已经破产：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -204,7 +179,6 @@
         "original": "Accepting would destabilize $WHO$: ",
         "translation": "接受会使$WHO$降低稳定：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -212,15 +186,13 @@
         "original": "War started more than $MONTHS$ months ago: ",
         "translation": "战争已经持续了超过$MONTHS$个月：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_RECENT_OFFENSIVE_CALL:0",
         "original": "Not willing to join another $WHO$ offensive war until §Y$DATE$§!: ",
-        "translation": "§Y$DATE$§!前不愿意加入$WHO$发起的另一场侵攻战：",
-        "stage": 2,
-        "context": "",
+        "translation": "§Y$DATE$§!前不愿意加入$WHO$发起的另一场进攻战争：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -228,7 +200,6 @@
         "original": "Has alliance: ",
         "translation": "拥有盟友：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -236,7 +207,6 @@
         "original": "$WHO$ is not bordering a $OVERLORD$ rival or enemy: ",
         "translation": "$WHO$没有与$OVERLORD$的宿敌或敌国接壤：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -244,7 +214,6 @@
         "original": "$WHO$ is bordering colonizable territory: ",
         "translation": "$WHO$与可殖民地区接壤：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -252,7 +221,6 @@
         "original": "Unlawful Territory in the Empire: ",
         "translation": "帝国境内的非法领土：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -260,7 +228,6 @@
         "original": "Not demand: ",
         "translation": "不想要：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -268,7 +235,6 @@
         "original": "Too high development compared to $OVERLORD$: ",
         "translation": "与$OVERLORD$相比，发展度过高：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -276,7 +242,6 @@
         "original": "Too low development compared to $OVERLORD$: ",
         "translation": "与$OVERLORD$相比，发展度过低：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -284,7 +249,6 @@
         "original": "$WHO$ is too large for vassalization: ",
         "translation": "因$WHO$太大而不能被附庸：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -292,7 +256,6 @@
         "original": "$WHO$ is embargoing $AGAINST$: ",
         "translation": "$WHO$正对$AGAINST$贸易禁运：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -300,7 +263,6 @@
         "original": "$WHO$ is the Pope: ",
         "translation": "$WHO$是教宗：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -308,7 +270,6 @@
         "original": "$WHO$ recently dishonored their alliance with $US$: ",
         "translation": "$WHO$最近背弃了和$US$的盟约：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -316,7 +277,6 @@
         "original": "$WHO$ is an Elector: ",
         "translation": "$WHO$是选帝侯：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -324,15 +284,13 @@
         "original": "$WHO$ is a Merchant Republic: ",
         "translation": "$WHO$是一个商业共和国：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_THEOCRACY:0",
         "original": "$WHO$ is a Theocracy: ",
-        "translation": "$WHO$是一个神权国家：",
+        "translation": "$WHO$是一个神权制国家：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -340,7 +298,6 @@
         "original": "$WHO$ is a Monarchy: ",
         "translation": "$WHO$是一个君主制国家：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -348,7 +305,6 @@
         "original": "$WHO$ is a Free City: ",
         "translation": "$WHO$是一个自由市：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -356,7 +312,6 @@
         "original": "$WHO$ government rank: ",
         "translation": "$WHO$的政府等级：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -364,7 +319,6 @@
         "original": "Difference in government ranks: ",
         "translation": "政府等级差异：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -372,7 +326,6 @@
         "original": "Hostile Core-Creation Cost on $WHO$: ",
         "translation": "对$WHO$的敌对领土核心化花费：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -380,7 +333,6 @@
         "original": "It's a revolutionary war: ",
         "translation": "这是一场革命战争：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -388,7 +340,6 @@
         "original": "Can't use native diplomatic actions.",
         "translation": "不能使用原住民外交行动。",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -396,7 +347,6 @@
         "original": "Wants other concessions than gold: ",
         "translation": "比起金钱，更希望其他让步：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -404,7 +354,6 @@
         "original": "Will not betray their ally for gold: ",
         "translation": "不会因为金钱而背叛他们的盟友：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -412,7 +361,6 @@
         "original": "Stability of $WHO$: ",
         "translation": "$WHO$的稳定度：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -420,7 +368,6 @@
         "original": "$PROV$ is a colony: ",
         "translation": "$PROV$是一个殖民地：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -428,15 +375,13 @@
         "original": "You demand too much: ",
         "translation": "你要求的太多了：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_DEMAND_ALL_PROVINCES:0",
         "original": "Demand all provinces: ",
-        "translation": "要求所有省份：",
+        "translation": "索取所有省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -444,7 +389,6 @@
         "original": "Release countries: ",
         "translation": "释放国家：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -452,7 +396,6 @@
         "original": "$WHO$ is a candidate for emperor: ",
         "translation": "$WHO$是皇位的候选者：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -460,7 +403,6 @@
         "original": "Form personal union: ",
         "translation": "建立联合统治：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -468,7 +410,6 @@
         "original": "Can be annexed: ",
         "translation": "可以被吞并：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -476,7 +417,6 @@
         "original": "Waiting for annexation: ",
         "translation": "等待吞并：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -484,7 +424,6 @@
         "original": "Someone else got a better offer: ",
         "translation": "别人提出了更好的提议：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -492,7 +431,6 @@
         "original": "$WHO$ are winning: ",
         "translation": "$WHO$正在走向胜利：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -500,7 +438,6 @@
         "original": "$WHO$ not leader of the war: ",
         "translation": "$WHO$不是战争领袖：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -508,7 +445,6 @@
         "original": "Strategic interests: ",
         "translation": "战略利益：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -516,7 +452,6 @@
         "original": "Strategic interest: ",
         "translation": "战略利益：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -524,7 +459,6 @@
         "original": "No strategic interest: ",
         "translation": "没有战略利益：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -532,7 +466,6 @@
         "original": "It's too early in the war: ",
         "translation": "战争才刚开始：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -540,15 +473,13 @@
         "original": "Coalition war: ",
         "translation": "包围网战争：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_IS_REVOLUTION_TARGET:0",
         "original": "$WHO$ is revolution target: ",
-        "translation": "$WHO$是革命对象：",
-        "stage": 5,
-        "context": "",
+        "translation": "$WHO$是革命目标：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -556,7 +487,6 @@
         "original": "Doesn't have control over $NAME$: ",
         "translation": "对$NAME$没有控制权：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -564,7 +494,6 @@
         "original": "War score is bigger than peace offer: ",
         "translation": "战争分数大于和平提议：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -572,7 +501,6 @@
         "original": "Inactivity in war: ",
         "translation": "消极参战：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -580,7 +508,6 @@
         "original": "Peace offer unreasonably big: ",
         "translation": "和平提议要价过高：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -588,7 +515,6 @@
         "original": "Offer is too generous: ",
         "translation": "和平提议太过慷慨：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -596,7 +522,6 @@
         "original": "Occupied and besieged provinces: ",
         "translation": "被占领和被围攻的省份：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -604,15 +529,13 @@
         "original": "$WHO$ is crusade target: ",
         "translation": "$WHO$是十字军的目标：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_WAR_REBELS:0",
         "original": "Revolts in $WHO$: ",
-        "translation": " $WHO$国内的起义：",
+        "translation": "$WHO$国内的起义：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -620,7 +543,6 @@
         "original": "$CB$ Casus Belli: ",
         "translation": "$CB$宣战理由：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -628,7 +550,6 @@
         "original": "Utterly defeated: ",
         "translation": "被彻底击败：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -636,7 +557,6 @@
         "original": "Peace offer value: ",
         "translation": "和平提议分值：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -644,31 +564,27 @@
         "original": "The $WHO$ ruler is a Militarist: ",
         "translation": "$WHO$的统治者是一个军国主义者：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_HAS_PERSONALITY:0",
         "original": "The $WHO$ ruler is $TRAIT$: ",
-        "translation": "$WHO$的统治者是一个$TRAIT$：",
+        "translation": "$WHO$的统治者拥有$TRAIT$特质：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_LACKS_PERSONALITY:0",
         "original": "The $WHO$ ruler lacks matching personality.",
-        "translation": "$WHO$的统治者缺乏相匹配的特质：",
+        "translation": "$WHO$君主缺乏权衡的特质。",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_DIFFICULTY:0",
         "original": "Difficulty level.",
-        "translation": "难度：",
+        "translation": "难度",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -676,7 +592,6 @@
         "original": "$WHO$ military strength: ",
         "translation": "$WHO$的军事实力：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -684,7 +599,6 @@
         "original": "War Score: ",
         "translation": "战争分数：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -692,7 +606,6 @@
         "original": "Individual war score against:",
         "translation": "单方面战争分数：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -700,7 +613,6 @@
         "original": "Current peace offer: ",
         "translation": "当前的和平提议：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -708,7 +620,6 @@
         "original": "Would result in $WHO$'s annexation or vassalization: ",
         "translation": "将会导致$WHO$被吞并或附庸：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -716,15 +627,13 @@
         "original": "$THEM$ refused to subjugate to $WHO$: ",
         "translation": "$THEM$拒绝屈服于$WHO$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_WAR_BASE_RELUCTANCE:0",
         "original": "Base reluctance: ",
-        "translation": "基本的犹豫：",
+        "translation": "基础不情愿值：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -732,23 +641,20 @@
         "original": "Ongoing battles: ",
         "translation": "正在进行的战斗：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_IN_HRE:0",
         "original": "$WHO$ is a member of the Empire: ",
-        "translation": "$WHO$是神圣罗马帝国成员国：",
+        "translation": "$WHO$是神圣罗马帝国成员：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_NOT_IN_HRE:0",
         "original": "$WHO$ is not a member of the Empire: ",
-        "translation": "$WHO$不是神圣罗马帝国成员国：",
+        "translation": "$WHO$不是神圣罗马帝国成员：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -756,15 +662,13 @@
         "original": "Making it into a core: ",
         "translation": "使之成为核心：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_RICHNESS:0",
         "original": "Province Value: ",
-        "translation": "省份价值：",
+        "translation": "省份分值：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -772,7 +676,6 @@
         "original": "Length of war: ",
         "translation": "战争持续时间：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -780,7 +683,6 @@
         "original": "$WHO$ won war: ",
         "translation": "$WHO$赢得了战争：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -788,7 +690,6 @@
         "original": "War is stalled: ",
         "translation": "战争陷入僵局：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -796,15 +697,13 @@
         "original": "$WHO$ is a colonial power: ",
         "translation": "$WHO$是一个殖民大国：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_WAR_UNOCCUPIED_FORTS:0",
         "original": "Demanding $PROV$ without occupying any forts in the area: ",
-        "translation": "索取的$PROV$地区有尚有未被占领的要塞:",
+        "translation": "索取的$PROV$所在的地区有尚有未被占领的要塞：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -812,7 +711,6 @@
         "original": "Need at least $VAL$ war score to make demands: ",
         "translation": "至少需要$VAL$点战争分数来提出要求：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -820,7 +718,6 @@
         "original": "Unreasonable demands: ",
         "translation": "不合理要求：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -828,7 +725,6 @@
         "original": "Undesirable terms: ",
         "translation": "不良条款：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -836,15 +732,13 @@
         "original": "$WHO$ does not want parts of the offer: ",
         "translation": "$WHO$对其中部分提议不感兴趣：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_WANTS_OTHER_OFFER:0",
         "original": "$WHO$ requires '$NAME$' to be part of the offer: ",
-        "translation": "$WHO$要求'$NAME$'作为提议中的一部分：",
-        "stage": 5,
-        "context": "",
+        "translation": "$WHO$要求提议中包含「$NAME$」：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -852,7 +746,6 @@
         "original": "Wants to annex $COUNTRY$: ",
         "translation": "想要吞并$COUNTRY$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -860,7 +753,6 @@
         "original": "Wants an end to the war: ",
         "translation": "想结束战争：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -868,7 +760,6 @@
         "original": "$TARGET$ does not want anything more from $WHO$: ",
         "translation": "$TARGET$不再想从$WHO$处索要更多：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -876,15 +767,13 @@
         "original": "Demands exceed war score: ",
         "translation": "要求超出战争分数：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_WARGOAL_BESIEGED:0",
         "original": "Besieging War Goal: ",
         "translation": "正在围攻战争目标：",
-        "stage": 2,
-        "context": "",
+        "stage": 5,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -892,7 +781,6 @@
         "original": "Fully occupying enemy war leader: ",
         "translation": "完全占领敌方盟主领土：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -900,15 +788,13 @@
         "original": "$WHO$ War Exhaustion: ",
         "translation": "$WHO$的厌战度：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_CALL_FOR_PEACE:0",
         "original": "Call for Peace: ",
-        "translation": "呼唤和平：",
-        "stage": 5,
-        "context": "",
+        "translation": "呼吁和平：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -916,7 +802,6 @@
         "original": "$WHO$ is making gains: ",
         "translation": "$WHO$正在受益： ",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -924,7 +809,6 @@
         "original": "Relative strength of alliances: ",
         "translation": "盟友的相对实力：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -932,7 +816,6 @@
         "original": "Relative strength of coalition: ",
         "translation": "包围网的相对实力：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -940,7 +823,6 @@
         "original": "Controlling desired provinces in $WHO$'s territory: ",
         "translation": "在$WHO$的领土内控制所要求的省份：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -948,7 +830,6 @@
         "original": "Desires provinces in $WHO$'s territory: ",
         "translation": "渴望 $WHO$领土内的省份：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -956,7 +837,6 @@
         "original": "Offers desired provinces: ",
         "translation": "许诺了所要求的省份：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -964,7 +844,6 @@
         "original": "Offers undesired provinces: ",
         "translation": "许诺了不想要的省份：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -972,7 +851,6 @@
         "original": "$WHO$ holds $CAPITAL$: ",
         "translation": "$WHO$控制着首都$CAPITAL$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -980,7 +858,6 @@
         "original": "$WHO$ holds wargoal: ",
         "translation": "$WHO$控制着战争目标省份：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -988,7 +865,6 @@
         "original": "$WHO$ wants independence: ",
         "translation": "$WHO$希望独立：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -996,7 +872,6 @@
         "original": "$WHO$'s war capacity: ",
         "translation": "$WHO$的战争潜力：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1004,7 +879,6 @@
         "original": "Is nomad: ",
         "translation": "是游牧部落：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1012,7 +886,6 @@
         "original": "Badness: ",
         "translation": "恶名：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1020,7 +893,6 @@
         "original": "Weariness: ",
         "translation": "厌战：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1028,7 +900,6 @@
         "original": "They are no threat: ",
         "translation": "他们没有威胁：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1036,15 +907,13 @@
         "original": "Is not occupying $WHO$: ",
         "translation": "没有占领$WHO$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_OWNS_CORE_PROVINES:0",
         "original": "$WHO$ owns $ADJ$ core provinces: ",
-        "translation": "$WHO$拥有$ADJ$的核心省份：",
+        "translation": "$WHO$拥有$ADJ$核心省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1052,7 +921,6 @@
         "original": "War Score and capacity bigger than $VAL$: ",
         "translation": "战争分数和潜力大于$VAL$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1060,7 +928,6 @@
         "original": "War Score and capacity less than $VAL$: ",
         "translation": "战争分数和潜力小于$VAL$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1068,7 +935,6 @@
         "original": "$WHO$'s war capacity is pitiful: ",
         "translation": "$WHO$的战争潜力小得可怜：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1076,7 +942,6 @@
         "original": "$WHO$'s war capacity is terrific: ",
         "translation": "$WHO$的战争潜力大得惊人：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1084,7 +949,6 @@
         "original": "Offer compared to war score: ",
         "translation": "提议相较于战争分数：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1092,7 +956,6 @@
         "original": "War duration: ",
         "translation": "战争持续：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1100,7 +963,6 @@
         "original": "$WHO$ is desperate for peace: ",
         "translation": "$WHO$渴望和平：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1108,7 +970,6 @@
         "original": "Peace offer bigger than war score: ",
         "translation": "和平提议超过战争分数：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1116,7 +977,6 @@
         "original": "Peace offer smaller than $SCORE$: ",
         "translation": "和平提议小于$SCORE$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1124,7 +984,6 @@
         "original": "Peace offer larger than $SCORE$: ",
         "translation": "和平提议大于$SCORE$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1132,7 +991,6 @@
         "original": "Won't be in union and a vassal: ",
         "translation": "不会成为被联统国或附庸国：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1140,7 +998,6 @@
         "original": "$WHO$ needs more provinces ($VAL$): ",
         "translation": "$WHO$需要更多省份($VAL$)：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1148,7 +1005,6 @@
         "original": "$WHO$ needs a stronger army ($VAL$): ",
         "translation": "$WHO$需要一支更强大的军队($VAL$)：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1156,15 +1012,13 @@
         "original": "$WHO$ needs a larger monthly income ($VAL$): ",
         "translation": "$WHO$需要更多月收入($VAL$)：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_WOULD_DEFICIT:0",
         "original": "$WHO$ would end up with monthly deficit: ",
-        "translation": "$WHO$ 将导致月度亏损:",
-        "stage": 5,
-        "context": "",
+        "translation": "$WHO$将发生月度亏损：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1172,7 +1026,6 @@
         "original": "Superiority in provinces, military and economy: ",
         "translation": "在省份数量、军队规模和经济体量上有优势：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1180,7 +1033,6 @@
         "original": "Is dependent on $WHO$: ",
         "translation": "依附于$WHO$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1188,7 +1040,6 @@
         "original": "Number of provinces: ",
         "translation": "省份数量：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1196,7 +1047,6 @@
         "original": "Has no provinces: ",
         "translation": "没有省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1204,7 +1054,6 @@
         "original": "$WHO$ economic base compared to $OTHER$: ",
         "translation": "$WHO$相较于$OTHER$的经济基础：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1212,7 +1061,6 @@
         "original": "$WHO$ has more than $VAL$ total development: ",
         "translation": "$WHO$拥有的总发展度大于$VAL$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1220,7 +1068,6 @@
         "original": "$WHO$ has less than $VAL$ total development: ",
         "translation": "$WHO$拥有的总发展度小于$VAL$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1228,7 +1075,6 @@
         "original": "$TARGET$ has $VAL$ development: ",
         "translation": "$TARGET$拥有$VAL$点发展度：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1236,15 +1082,13 @@
         "original": "$WHO$ military power compared to $OTHER$: ",
         "translation": "$WHO$相较于$OTHER$的军事实力：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_HAS_MORE_PROVINCES_THAN:0",
         "original": "$WHO$ has more than $VAL$ provinces: ",
-        "translation": "$WHO$拥有多于 $VAL$ 个省份：",
+        "translation": "$WHO$拥有 $VAL$ 个以上省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1252,7 +1096,6 @@
         "original": "The war is on the overlord of $WHO$: ",
         "translation": "战争对象是$WHO$的宗主国：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1260,7 +1103,6 @@
         "original": "No valid enemy: ",
         "translation": "没有合适的敌人：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1268,7 +1110,6 @@
         "original": "Have plans on their own: ",
         "translation": "有他们自己的计划：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1276,7 +1117,6 @@
         "original": "$WHO1$ has a truce with $WHO2$: ",
         "translation": "$WHO1$与$WHO2$有停战协定：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1284,7 +1124,6 @@
         "original": "Is being annexed: ",
         "translation": "正在被吞并：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1292,7 +1131,6 @@
         "original": "Is Trading City: ",
         "translation": "是贸易城市：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1300,7 +1138,6 @@
         "original": "Would lose §YFree City§! status: ",
         "translation": "将会丧失§Y自由市§!地位：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1308,7 +1145,6 @@
         "original": "Would have to leave a §YTrade League§!: ",
         "translation": "将被迫退出§Y贸易联盟§!：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1316,7 +1152,6 @@
         "original": "Attitude towards enemies: ",
         "translation": "对敌人的态度：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1324,7 +1159,6 @@
         "original": "Overlord's $ATTITUDE$ attitude towards $COUNTRY$: ",
         "translation": "宗主国对$COUNTRY$的$ATTITUDE$态度：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1332,7 +1166,6 @@
         "original": "$WHO$ have too low war capacity.",
         "translation": "$WHO$的战争潜力太低。",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1340,15 +1173,13 @@
         "original": "$WHO$ are the overlord: ",
         "translation": "$WHO$是宗主国：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_WAR_NOT_ACTIVE:0",
         "original": "The war is not active: ",
-        "translation": "战争是消极的：",
+        "translation": "不处于战争状态：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1356,7 +1187,6 @@
         "original": "This is not suitable for a $SUBJECTTYPE$: ",
         "translation": "对$SUBJECTTYPE$不适用：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1364,7 +1194,6 @@
         "original": "Our $SUBJECTTYPE$ has brought this coalition upon themselves: ",
         "translation": "我们的$SUBJECTTYPE$使我们陷入了这个本是针对他们的包围网：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1372,7 +1201,6 @@
         "original": "Current war score: ",
         "translation": "当前战争分数：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1380,7 +1208,6 @@
         "original": "War score less than $VAL$: ",
         "translation": "战争分数低于$VAL$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1388,7 +1215,6 @@
         "original": "War score larger than $VAL$: ",
         "translation": "战争分数高于$VAL$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1396,7 +1222,6 @@
         "original": "War exhaustion: ",
         "translation": "厌战度：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1404,7 +1229,6 @@
         "original": "War exhaustion larger than $VAL$: ",
         "translation": "厌战度大于$VAL$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1412,7 +1236,6 @@
         "original": "$PART$ is part of the empire and $EMPEROR$ is the emperor: ",
         "translation": "$PART$是帝国的一部分而$EMPEROR$是皇帝：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1420,7 +1243,6 @@
         "original": "$WHO$ has no use for Big Ships: ",
         "translation": "$WHO$不需要大型船只：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1428,39 +1250,34 @@
         "original": "$WHO$ has no use for Galleys: ",
         "translation": "$WHO$不需要桨帆船：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_TOO_MANY_BIG_SHIP:0",
         "original": "$WHO$ wants §R$NUM$§! fewer Big Ships: ",
-        "translation": "$WHO$想要削减§R$NUM$§!艘大型战船：",
+        "translation": "$WHO$想少要§R$NUM$§!艘大型战船：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_TOO_MANY_LIGHT_SHIP:0",
         "original": "$WHO$ wants §R$NUM$§! fewer Light Ships: ",
-        "translation": "$WHO$想要削减§R$NUM$§!艘轻型战船：",
+        "translation": "$WHO$想少要§R$NUM$§!艘轻型战船：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_TOO_MANY_GALLEY:0",
         "original": "$WHO$ wants §R$NUM$§! fewer Galleys: ",
-        "translation": "$WHO$想要削减§R$NUM$§!艘桨帆船：",
+        "translation": "$WHO$想少要§R$NUM$§!艘桨帆船：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_TOO_MANY_TRANSPORT:0",
         "original": "$WHO$ wants §R$NUM$§! fewer Transports: ",
-        "translation": "$WHO$想要削减§R$NUM$§!艘运输船：",
+        "translation": "$WHO$想少要§R$NUM$§!艘运输船：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1468,7 +1285,6 @@
         "original": "more than ",
         "translation": "多于",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1476,7 +1292,6 @@
         "original": "$ALLY1$ has been an ally with $ALLY2$ for $YEARS$ years: ",
         "translation": "$ALLY1$和$ALLY2$已经结盟了$YEARS$年：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1484,7 +1299,6 @@
         "original": "$ALLY1$ has not been an ally with $ALLY2$ for $YEARS$ years: ",
         "translation": "$ALLY1$和$ALLY2$已经$YEARS$年没有结盟了：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1492,7 +1306,6 @@
         "original": "It's a defensive war and your war score is less than $VAL$: ",
         "translation": "这是一场防御战争，且你的战争分数低于$VAL$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1500,7 +1313,6 @@
         "original": "$WHO$ diplomatic reputation: ",
         "translation": "$WHO$的外交声誉：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1508,7 +1320,6 @@
         "original": "Total diplomatic reputation in $WHO$: ",
         "translation": "$WHO$的外交声誉总和：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1516,7 +1327,6 @@
         "original": "$WHO$ diplomatic skill: ",
         "translation": "$WHO$的外交技能：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1524,7 +1334,6 @@
         "original": "$WHO$ diplomatic skill modifiers: ",
         "translation": "$WHO$的外交技能修正：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1532,7 +1341,6 @@
         "original": "$WHO$ and $WHO2$ diplomatic skill difference: ",
         "translation": "$WHO$和$WHO2$的外交技能差异：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1540,7 +1348,6 @@
         "original": "$WHO$ and $WHO2$ diplomatic skill modifiers difference: ",
         "translation": "$WHO$和$WHO2$的外交技能修正的差异：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1548,7 +1355,6 @@
         "original": "Number of allies for $WHO$: ",
         "translation": "$WHO$的盟友数：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1556,7 +1362,6 @@
         "original": "Number of Great Power allies for $WHO$: ",
         "translation": "$WHO$的列强盟友数：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1564,7 +1369,6 @@
         "original": "$WHO$ is a Great Power: ",
         "translation": "$WHO$是列强：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1572,7 +1376,6 @@
         "original": "Trust towards $WHO$: ",
         "translation": "对$WHO$的信任：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1580,7 +1383,6 @@
         "original": "$WHO$ already has powerful allies: ",
         "translation": "$WHO$已经有强大的盟友：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1588,7 +1390,6 @@
         "original": "$WHO$ is threatened by $RIVAL$: ",
         "translation": "$WHO$被$RIVAL$威胁：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1596,7 +1397,6 @@
         "original": "$WHO$ is allied to $ADJ$ rival $RIVAL$: ",
         "translation": "$WHO$已经和$ADJ$的宿敌$RIVAL$结盟：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1604,7 +1404,6 @@
         "original": "Rivalry: ",
         "translation": "宿敌：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1612,7 +1411,6 @@
         "original": "Historical Rival: ",
         "translation": "历史宿敌：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1620,7 +1418,6 @@
         "original": "Historical Neutral: ",
         "translation": "历史中立：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1628,7 +1425,6 @@
         "original": "Size of war: ",
         "translation": "战争规模：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1636,7 +1432,6 @@
         "original": "Royal marriage between $WHO1$ and $WHO2$: ",
         "translation": "$WHO1$和$WHO2$之间的王室联姻：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1644,7 +1439,6 @@
         "original": "$WHO$ cannot enter into a Royal Marriage: ",
         "translation": "$WHO$无法王室联姻：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1652,7 +1446,6 @@
         "original": "$WHO1$ trusts $WHO2$: ",
         "translation": "$WHO1$信任$WHO2$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1660,7 +1453,6 @@
         "original": "Trust: ",
         "translation": "信任：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1668,7 +1460,6 @@
         "original": "Trust below $TRUSTVALUE|Y$: ",
         "translation": "信任低于$TRUSTVALUE|Y$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1676,7 +1467,6 @@
         "original": "Distrust: ",
         "translation": "不信任：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1684,7 +1474,6 @@
         "original": "Threat: ",
         "translation": "受威胁：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1692,7 +1481,6 @@
         "original": "Rival bonus: ",
         "translation": "宿敌加成：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1700,7 +1488,6 @@
         "original": "Common Rivals: ",
         "translation": "共同宿敌：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1708,7 +1495,6 @@
         "original": "Number of rivals: ",
         "translation": "宿敌数量：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1716,7 +1502,6 @@
         "original": "Gave military access to enemies: ",
         "translation": "给敌人军事通行权：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1724,7 +1509,6 @@
         "original": "At war with rival: ",
         "translation": "与宿敌交战：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1732,7 +1516,6 @@
         "original": "At war with rival of overlord: ",
         "translation": "与宗主国的宿敌交战：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1740,7 +1523,6 @@
         "original": "At war with ally: ",
         "translation": "和盟国交战：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1748,7 +1530,6 @@
         "original": "At war with neighboring rival: ",
         "translation": "与毗邻的宿敌交战：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1756,7 +1537,6 @@
         "original": "At war with neighboring rival of overlord: ",
         "translation": "与宗主国的毗邻宿敌交战：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1764,7 +1544,6 @@
         "original": "At war with neighboring ally: ",
         "translation": "和毗邻盟国交战：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1772,7 +1551,6 @@
         "original": "Same culture group: ",
         "translation": "同一文化组：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1780,7 +1558,6 @@
         "original": "Same religious group: ",
         "translation": "同一宗教组：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1788,7 +1565,6 @@
         "original": "Not the same culture group: ",
         "translation": "非同一文化组：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1796,7 +1572,6 @@
         "original": "Not the same religious group: ",
         "translation": "非同一宗教组：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1804,7 +1579,6 @@
         "original": "Both countries are $NAME$: ",
         "translation": "两个国家都是$NAME$：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1812,7 +1586,6 @@
         "original": "Same culture: ",
         "translation": "同一文化：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1820,15 +1593,13 @@
         "original": "Not same religion: ",
         "translation": "非同一宗教：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_NOT_SAME_LEAGUE_LEADER:0",
         "original": "Leader of opposing league: ",
-        "translation": "反对派的领袖",
-        "stage": 5,
-        "context": "",
+        "translation": "反对派的领袖：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1836,7 +1607,6 @@
         "original": "Not same culture: ",
         "translation": "非同一文化：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1844,7 +1614,6 @@
         "original": "Religious school relations: ",
         "translation": "宗教学派关系",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1852,7 +1621,6 @@
         "original": "Same religious school: ",
         "translation": "相同的宗教学派",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1860,7 +1628,6 @@
         "original": "$WHO$ does not accept $CULTURE$ culture: ",
         "translation": "$WHO$不接受$CULTURE$文化：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1868,7 +1635,6 @@
         "original": "$WHO$ is superior in land and army size: ",
         "translation": "$WHO$在领土数量和军队规模上有优势：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1876,15 +1642,13 @@
         "original": "$WHO$ is superior in army size: ",
         "translation": "$WHO$在军队规模上有优势：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_RELATIVE_POWER_ALLIANCE:0",
         "original": "Power of $WHO$ alliance compared to $US$: ",
-        "translation": "$WHO$与$US$的盟友的实力比较:",
-        "stage": 5,
-        "context": "",
+        "translation": "$WHO$与$US$的盟友的实力比较：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1892,7 +1656,6 @@
         "original": "$WHO$ recently forced $US$ to return territory: ",
         "translation": "$WHO$最近强迫$US$归还领土：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1900,7 +1663,6 @@
         "original": "$WHO$ Manpower: ",
         "translation": "$WHO$的人力：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1908,7 +1670,6 @@
         "original": "$WHO$ has low Manpower: ",
         "translation": "$WHO$人力低下：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1916,23 +1677,20 @@
         "original": "$WHO$ is $GOLD|0$¤ in debt: ",
         "translation": "$WHO$负债$GOLD|0$¤：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_DEBT:0",
         "original": "$WHO$ has loans: ",
-        "translation": "$WHO$ 有贷款:",
-        "stage": 5,
-        "context": "",
+        "translation": "$WHO$有贷款：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_TRADE_POWER_ASKED_FOR:0",
         "original": "Amount of Trade power asked for: ",
-        "translation": "要求的贸易竞争力的数目:",
-        "stage": 5,
-        "context": "",
+        "translation": "要求的贸易竞争力的数目：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1940,7 +1698,6 @@
         "original": "$WHO$ Army Strength: ",
         "translation": "$WHO$陆军实力：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1948,7 +1705,6 @@
         "original": "$WHO$ Navy Strength: ",
         "translation": "$WHO$海军实力：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1956,7 +1712,6 @@
         "original": "$COUNTRY01$ is a fellow subject of $COUNTRY02$: ",
         "translation": "$COUNTRY01$是$COUNTRY02$的属国：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1964,7 +1719,6 @@
         "original": "$COUNTRY01$ has half the amount of provinces compared to $COUNTRY02$: ",
         "translation": "$COUNTRY01$有$COUNTRY02$一半的省份数：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1972,15 +1726,13 @@
         "original": "$WHO$ is a vassal: ",
         "translation": "$WHO$是一个附庸国：",
         "stage": 5,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_BETRAYED_ALLY:0",
         "original": "$WHO$ recently broke a promise to give land: ",
-        "translation": "$WHO$最近违反了给与土地的承诺:",
+        "translation": "$WHO$最近违反了给与土地的承诺：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1988,7 +1740,6 @@
         "original": "Not enough favors and does not want any land: ",
         "translation": "对土地没有需求和兴趣：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -1996,7 +1747,6 @@
         "original": "Does not want any $WHO$ land that $CALLER$ hasn't claimed: ",
         "translation": "不想要$WHO$的任何$CALLER$没有宣称的土地：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2004,7 +1754,6 @@
         "original": "Promised $WHO$ land: ",
         "translation": "承诺给予$WHO$土地：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2012,7 +1761,6 @@
         "original": "Prepared for War: ",
         "translation": "准备战争：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2020,23 +1768,20 @@
         "original": "$WHO$ §GKeep Allies and Rivals§! AI setting is §Genabled§!: ",
         "translation": "$WHO$§G保持宿敌和敌人§!的AI设置已§G启用§!：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_UNION_WAR_GREAT_POWER:0",
         "original": "$WHO$ does not want $TARGET$ in a union under $THEM$: ",
-        "translation": "$WHO$不希望$TARGET$被$THEM$联合统治:",
+        "translation": "$WHO$不希望$TARGET$被$THEM$联合统治：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_PLAYER_AI_PREFS_FIGHT_TO_DEATH:0",
         "original": "$WHO$ §GSeek Fast Peace§! AI setting is §Genabled§!: ",
-        "translation": "$WHO$ §G寻求尽快和平§! AI设定 §Genabled§!:",
+        "translation": "$WHO$§G寻求尽快和平§!的AI设置已§G启用§!：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2044,7 +1789,6 @@
         "original": "$VASSAL$ is a vassal under $LEADER$: ",
         "translation": "$VASSAL$是$LEADER$的一个附庸：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2052,7 +1796,6 @@
         "original": "$VASSAL$ is loyal to $OVERLORD$",
         "translation": "$VASSAL$忠于$OVERLORD$",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2060,7 +1803,6 @@
         "original": "$UNDER$ is in a personal union under $LEADER$: ",
         "translation": "$UNDER$接受$LEADER$的联合统治：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2068,7 +1810,6 @@
         "original": "$WHO$ is in our union: ",
         "translation": "$WHO$接受我们的联合统治：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2076,7 +1817,6 @@
         "original": "$COUNTRY01$ is supporting $COUNTRY02_ADJ$ independence: ",
         "translation": "$COUNTRY01$正在支持$COUNTRY02_ADJ$的独立：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2084,7 +1824,6 @@
         "original": "$COUNTRY01$ opinion about $COUNTRY02$: ",
         "translation": "$COUNTRY01$对$COUNTRY02$的好感度：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2092,7 +1831,6 @@
         "original": "$COUNTRY01$ total opinion about $COUNTRY02$: ",
         "translation": "$COUNTRY01$对$COUNTRY02$的总好感度：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2100,15 +1838,13 @@
         "original": "$COUNTRY01$ opinion about $COUNTRY02$ is less than $VAL|Y$: ",
         "translation": "$COUNTRY01$对$COUNTRY02$的好感度低于$VAL|Y$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_OPINION_LARGER_THAN:0",
         "original": "$COUNTRY01$ opinion about $COUNTRY02$ is larger than $VAL|Y$: ",
-        "translation": "$COUNTRY01$对$COUNTRY02$的好感度达到$VAL|Y$：",
+        "translation": "$COUNTRY01$对$COUNTRY02$的好感度高于$VAL|Y$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2116,7 +1852,6 @@
         "original": "$WHO$ can't afford another diplomatic relation: ",
         "translation": "$WHO$不能负担另一个外交关系：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2124,7 +1859,6 @@
         "original": "Desire for Friendship: ",
         "translation": "渴望友谊：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2132,7 +1866,6 @@
         "original": "Antagonism: ",
         "translation": "敌意：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2140,7 +1873,6 @@
         "original": "$WHO$ is larger: ",
         "translation": "$WHO$更大：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2148,7 +1880,6 @@
         "original": "$WHO$ is in an offensive war: ",
         "translation": "$WHO$正在一场侵略战争中：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2156,7 +1887,6 @@
         "original": "$WHO$ is at war: ",
         "translation": "$WHO$在战争中：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2164,7 +1894,6 @@
         "original": "$WHO$ is in an important war: ",
         "translation": "$WHO$在一场重要的战争中：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2172,7 +1901,6 @@
         "original": "$WHO$ is at war against $AGAINST$: ",
         "translation": "$WHO$在对抗$AGAINST$的战争中：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2180,7 +1908,6 @@
         "original": "Not a valid target for Support Independence: ",
         "translation": "非可支持独立的有效对象：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2188,7 +1915,6 @@
         "original": "Distance between capitals: ",
         "translation": "首都间距离：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2196,7 +1922,6 @@
         "original": "$COUNTRY$ not fully occupied: ",
         "translation": "$COUNTRY$未被完全占领：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2204,15 +1929,13 @@
         "original": "Distance between borders: ",
         "translation": "边界距离：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_PROTECTORATES:0",
         "original": "Number of protectorates: ",
-        "translation": "保护国的数量:",
+        "translation": "保护国的数量：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2220,7 +1943,6 @@
         "original": "$WHO$ is a protectorate in the same trade node: ",
         "translation": "$WHO$是在相同贸易节点的一个保护国：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2228,7 +1950,6 @@
         "original": "Average distance to $FEDNAME$: ",
         "translation": "距$FEDNAME$的平均距离：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2236,7 +1957,6 @@
         "original": "$WHO$ cannot reach $TARGET$: ",
         "translation": "$WHO$不能到达$TARGET$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2244,7 +1964,6 @@
         "original": "Number of royal marriages for $WHO$: ",
         "translation": "$WHO$的王室联姻数：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2252,7 +1971,6 @@
         "original": "$WHO$'s Liberty Desire is less than $VAL$: ",
         "translation": "$WHO$的独立倾向低于$VAL$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2260,7 +1978,6 @@
         "original": "$WHO$'s Liberty Desire is more than $VAL$: ",
         "translation": "$WHO$的独立倾向高于$VAL$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2268,15 +1985,13 @@
         "original": "No Casus Belli: ",
         "translation": "没有宣战理由：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_RECENTLY_DID_ACTION:0",
         "original": "Recently did $ACTION$: ",
-        "translation": "最近干了$ACTION$：",
+        "translation": "最近进行过$ACTION$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2284,7 +1999,6 @@
         "original": "Neighbors: ",
         "translation": "邻国：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2292,7 +2006,6 @@
         "original": "$WHO$ is the Holy Roman Emperor: ",
         "translation": "$WHO$是神圣罗马帝国的皇帝：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2300,7 +2013,6 @@
         "original": "$WHO$ is allied to the Holy Roman Emperor: ",
         "translation": "$WHO$是神圣罗马帝国的盟友：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2308,7 +2020,6 @@
         "original": "Invalid target: ",
         "translation": "无效目标：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2316,7 +2027,6 @@
         "original": "Has province on same continent: ",
         "translation": "在同一大洲上拥有省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2324,7 +2034,6 @@
         "original": "$WHO$ is too large to become a free city: ",
         "translation": "$WHO$太大而不能成为自由市：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2332,7 +2041,6 @@
         "original": "$WHO$ has subjects of its own: ",
         "translation": "$WHO$拥有自己的属国：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2340,7 +2048,6 @@
         "original": "Is vassal or union member: ",
         "translation": "是附庸或被联合统治：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2348,7 +2055,6 @@
         "original": "We are much stronger: ",
         "translation": "我们更强：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2356,7 +2062,6 @@
         "original": "$WHO$ is a subject: ",
         "translation": "$WHO$是一个属国：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2364,7 +2069,6 @@
         "original": "They view us as a Threat: ",
         "translation": "他们视我们为威胁：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2372,7 +2076,6 @@
         "original": "May replace $WHO$ as the leader of the war: ",
         "translation": "可以设定$WHO$为战争领导者：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2380,7 +2083,6 @@
         "original": "We have a royal marriage: ",
         "translation": "我们有王室联姻：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2388,7 +2090,6 @@
         "original": "$COUNTRY$ is a $GOVERNMENT$: ",
         "translation": "$COUNTRY$是一个$GOVERNMENT$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2396,7 +2097,6 @@
         "original": "Reasons less than $VAL|Y$: ",
         "translation": "理由低于$VAL|Y$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2404,7 +2104,6 @@
         "original": "Reasons larger than $VAL|Y$: ",
         "translation": "理由高于$VAL|Y$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2412,7 +2111,6 @@
         "original": "Peace acceptable: ",
         "translation": "可接受的和平：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2420,7 +2118,6 @@
         "original": "Desire for peace: ",
         "translation": "和平意愿：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2428,7 +2125,6 @@
         "original": "Fear of $WHO$: ",
         "translation": "恐惧$WHO$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2436,7 +2132,6 @@
         "original": "May not declare war against $WHO$: ",
         "translation": "不能对$WHO$宣战：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2444,7 +2139,6 @@
         "original": "$WHO$ is Defender of the faith ($RELIGION$): ",
         "translation": "$WHO$是信仰守护者（$RELIGION$）：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2452,15 +2146,13 @@
         "original": "Prestige: ",
         "translation": "威望：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_OVER_FORCE_LIMIT:0",
         "original": "Buying the fleet would exceed force limit: ",
-        "translation": "购买的船只将超过海军上限:",
+        "translation": "购买的船只将超过海军上限：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2468,7 +2160,6 @@
         "original": "$WHO$ is overextended: ",
         "translation": "$WHO$正过度扩张：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2476,7 +2167,6 @@
         "original": "Price: ",
         "translation": "价格：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2484,7 +2174,6 @@
         "original": "$PROV$ is a core of $WHO$: ",
         "translation": "$PROV$是$WHO$的核心省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2492,7 +2181,6 @@
         "original": "$PROV$ is a $WHO$ claim: ",
         "translation": "$PROV$是$WHO$的宣称省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2500,7 +2188,6 @@
         "original": "$PROV$ is not a core, a claim, or a previously owned province of $WHO$: ",
         "translation": "$PROV$不是$WHO$的核心、宣称或以前控制过的省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2508,7 +2195,6 @@
         "original": "$PROV$ and $WHO$ are $RELIGION$: ",
         "translation": "$PROV$和$WHO$是$RELIGION$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2516,7 +2202,6 @@
         "original": "Are not neighbors: ",
         "translation": "不是邻国：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2524,7 +2209,6 @@
         "original": "$PROV$ is neighbor to $WHO$ and the price is $VAL$: ",
         "translation": "$PROV$是$WHO$的相邻省份且价格是$VAL$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2532,7 +2216,6 @@
         "original": "$PROV$ cannot be made into a core of $WHO$: ",
         "translation": "$PROV$不能成为$WHO$的核心省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2540,7 +2223,6 @@
         "original": "$PROV$ is the core of $NUM$ countries: ",
         "translation": "$PROV$是$NUM$个国家的核心省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2548,7 +2230,6 @@
         "original": "$WHO1$ is not occupied by $WHO2$: ",
         "translation": "$WHO1$没有被$WHO2$占领：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2556,7 +2237,6 @@
         "original": "Conquer value: ",
         "translation": "征服价值：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2564,15 +2244,13 @@
         "original": "$WHO$ treasury: ",
         "translation": "$WHO$的国库：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_DIPLOMATIC_REPUTATION:0",
         "original": "Diplomatic Reputation: ",
-        "translation": "外交威望：",
+        "translation": "外交声誉：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2580,7 +2258,6 @@
         "original": "Price is above $WHO$ treasury: ",
         "translation": "价格超过$WHO$的国库：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2588,7 +2265,6 @@
         "original": "Loan is invalid: ",
         "translation": "贷款无效：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2596,7 +2272,6 @@
         "original": "Loan interest is above $VAL|Y%$: ",
         "translation": "贷款利息高于$VAL|Y%$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2604,7 +2279,6 @@
         "original": "$WHO$ has too many loans: ",
         "translation": "$WHO$有太多贷款：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2612,7 +2286,6 @@
         "original": "$WHO$ can't afford the interest $INTEREST|Y%$: ",
         "translation": "$WHO$不能承担利息$INTEREST|Y%$：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2620,7 +2293,6 @@
         "original": "$WHO$ is not in need of any loan: ",
         "translation": "$WHO$不需要任何贷款：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2628,7 +2300,6 @@
         "original": "$WHO$ earns too much: ",
         "translation": "$WHO$收入太多：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2636,7 +2307,6 @@
         "original": "Expiry date is too soon: ",
         "translation": "贷款即将到期：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2644,7 +2314,6 @@
         "original": "Loan will cost too much, too soon: ",
         "translation": "贷款在短时间内的代价太大：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2652,7 +2321,6 @@
         "original": "Loan is too small to bother: ",
         "translation": "贷款太少，不足为虑：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2660,7 +2328,6 @@
         "original": "$LENDER$ already lent $WHO$ money.",
         "translation": "$LENDER$已经把钱借给了$WHO$。",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2668,7 +2335,6 @@
         "original": "$WHO$ have too many diplomatic relations: ",
         "translation": "$WHO$建立了太多外交关系：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2676,7 +2342,6 @@
         "original": "Base: ",
         "translation": "基础：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2684,7 +2349,6 @@
         "original": "$WHO$ has a Diplomatic Power cost above $VAL|Y$: ",
         "translation": "$WHO$有高于$VAL|Y$的外交点数花费：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2692,7 +2356,6 @@
         "original": "$COUNTRY01$ is not allied with or guaranteeing $COUNTRY02$: ",
         "translation": "$COUNTRY01$没有与$COUNTRY02$结盟或保障其独立：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2700,7 +2363,6 @@
         "original": "$COUNTRY01$ is allied with $COUNTRY02$: ",
         "translation": "$COUNTRY01$与$COUNTRY02$结盟：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2708,7 +2370,6 @@
         "original": "$COUNTRY01$ isn't allied to $COUNTRY02$: ",
         "translation": "$COUNTRY01$未与$COUNTRY02$结盟：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2716,7 +2377,6 @@
         "original": "Not enough provinces: ",
         "translation": "没有足够的省份：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2724,7 +2384,6 @@
         "original": "Relative worth of province: ",
         "translation": "省份相对价值：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2732,7 +2391,6 @@
         "original": "Recently gave in to threat: ",
         "translation": "最近屈服于威胁：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2740,7 +2398,6 @@
         "original": "Province is not a $ADJ$ core: ",
         "translation": "省份不是$ADJ$的核心：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2748,23 +2405,20 @@
         "original": "Base value: ",
         "translation": "基础价值：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_INTERESTS_IN_REGION:0",
         "original": "$ADJ$ interests in region: ",
-        "translation": "$ADJ$对以下地域感兴趣：",
+        "translation": "$ADJ$在该地域的利益：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
         "key": "DIPLO_RIVALS_INTERESTS_IN_REGION:0",
         "original": "Rivals' interests in region: ",
-        "translation": "宿敌对以下地域感兴趣：",
+        "translation": "宿敌在该地域的利益：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2772,7 +2426,6 @@
         "original": "$WHO$ is a colonizer: ",
         "translation": "$WHO$是一个殖民者：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2780,7 +2433,6 @@
         "original": "$WHO$ could have led the league: ",
         "translation": "$WHO$可以领导联盟：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2788,7 +2440,6 @@
         "original": "Another member of their league: ",
         "translation": "他们联盟的另一成员：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2796,7 +2447,6 @@
         "original": "Size of Trade League ($NUM$): ",
         "translation": "贸易联盟规模（$NUM$）：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2804,7 +2454,6 @@
         "original": "Would dismiss troops: ",
         "translation": "可以解散军队：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2812,7 +2461,6 @@
         "original": "Free troops: ",
         "translation": "免费军队：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2820,7 +2468,6 @@
         "original": "Quality of troops: ",
         "translation": "军队的质量：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2828,7 +2475,6 @@
         "original": "Quantity of troops: ",
         "translation": "军队的数量：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2836,7 +2482,6 @@
         "original": "Too expensive: ",
         "translation": "太贵：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2844,7 +2489,6 @@
         "original": "Not at war: ",
         "translation": "不在战争中：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2852,7 +2496,6 @@
         "original": "Not in important war: ",
         "translation": "不在重要战争中：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2860,7 +2503,6 @@
         "original": "Can't afford upfront cost: ",
         "translation": "无法负担前期成本：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2868,7 +2510,6 @@
         "original": "Budget surplus of $GOLD|1$¤: ",
         "translation": "$GOLD|1$¤的预算盈余：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2876,7 +2517,6 @@
         "original": "Unfavorable cost: ",
         "translation": "不理想的花费：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2884,7 +2524,6 @@
         "original": "Monthly cost of $GOLD|1$¤: ",
         "translation": "$GOLD|1$¤的月花费：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2892,7 +2531,6 @@
         "original": "War balance looks good: ",
         "translation": "战争开支看起来不错：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2900,7 +2538,6 @@
         "original": "Is Rival: ",
         "translation": "是宿敌：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2908,7 +2545,6 @@
         "original": "No land access to capital: ",
         "translation": "没有向首都的通行权：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2916,7 +2552,6 @@
         "original": "Don't trust you will participate: ",
         "translation": "不指望你会参加：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2924,7 +2559,6 @@
         "original": "Government Form allows Vassal War: ",
         "translation": "政体允许附庸战争：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2932,7 +2566,6 @@
         "original": "Number of Tributary States: ",
         "translation": "朝贡国数量：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2940,7 +2573,6 @@
         "original": "$WHO$ is the Celestial Emperor: ",
         "translation": "$WHO$是天朝皇帝：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2948,7 +2580,6 @@
         "original": "$WHO$ is a Horde Empire: ",
         "translation": "$WHO$是游牧帝国：",
         "stage": 1,
-        "context": "",
         "file": "localisation/diplo_reasons_l_english.yml"
     },
     {
@@ -2956,7 +2587,20 @@
         "original": "$COLONY$ is a Colonial Nation and will never ally us: ",
         "translation": "$COLONY$是一个殖民地国家且永远不会和我们结盟。",
         "stage": 1,
-        "context": "",
+        "file": "localisation/diplo_reasons_l_english.yml"
+    },
+    {
+        "key": "DIPLO_ESCALATED_COLONIAL_WAR:0",
+        "original": "Doesn't want to get involved in escalated colonial war: ",
+        "translation": "不愿卷入一场逐渐升级的殖民战争：",
+        "stage": 2,
+        "file": "localisation/diplo_reasons_l_english.yml"
+    },
+    {
+        "key": "DIPLO_THREATHENING_MANDATE:0",
+        "original": "Mandate is threathened: ",
+        "translation": "天命受到威胁：",
+        "stage": 1,
         "file": "localisation/diplo_reasons_l_english.yml"
     }
 ]

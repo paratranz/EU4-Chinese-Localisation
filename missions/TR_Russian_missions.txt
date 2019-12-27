@@ -21,9 +21,12 @@ tr_russia_religious_missions = {
     required_missions = {}
     provinces_to_highlight = {}
     trigger = {
-      OR = {
-        temple = 20
-        cathedral = 20
+      num_of_owned_provinces_with = {
+        value = 20
+        OR = {
+          has_building = temple
+          has_building = cathedral
+        }
       }
     }
     effect = {
@@ -165,6 +168,7 @@ tr_muscovy_conquest = {
         area = malopolska_area
         area = red_ruthenia_area
         area = mazovia_area
+        area = sandomierz_area
       }
       NOT = {
         country_or_non_sovereign_subject_holds = ROOT
@@ -180,6 +184,10 @@ tr_muscovy_conquest = {
         country_or_non_sovereign_subject_holds = ROOT
       }
       mazovia_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
+      sandomierz_area = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
@@ -422,15 +430,48 @@ tr_russia_conquest_1 = {
     }
     completed_by = 1776.1.1
     provinces_to_highlight = {
-      region = russia_region
+      OR = {
+        province_id = 294
+        province_id = 308
+        province_id = 300
+        province_id = 1778
+        province_id = 4147
+        province_id = 312
+        province_id = 301
+        province_id = 4116
+        province_id = 274
+      }
       NOT = {
-        country_or_non_sovereign_subject_holds = ROOT
+        owned_by = ROOT
       }
     }
     trigger = {
-      russia_region = {
-        type = all
-        country_or_non_sovereign_subject_holds = ROOT
+      294 = {
+        owned_by = ROOT
+      }
+      308 = {
+        owned_by = ROOT
+      }
+      300 = {
+        owned_by = ROOT
+      }
+      1778 = {
+        owned_by = ROOT
+      }
+      4147 = {
+        owned_by = ROOT
+      }
+      312 = {
+        owned_by = ROOT
+      }
+      301 = {
+        owned_by = ROOT
+      }
+      4116 = {
+        owned_by = ROOT
+      }
+      274 = {
+        owned_by = ROOT
       }
     }
     effect = {
@@ -587,6 +628,17 @@ tr_russia_conquest_1 = {
         add_permanent_claim = ROOT
       }
       mazovia_area = {
+        limit = {
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+          NOT = {
+            is_core = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
+      sandomierz_area = {
         limit = {
           NOT = {
             is_permanent_claim = ROOT
@@ -860,9 +912,10 @@ tr_russia_exclusive_2 = {
     position = 7
     provinces_to_highlight = {
       OR = {
-        area = ningguta_area
+        area = furdan_area
         area = ilan_hala_area
         area = central_jilin_area
+        area = sakhalin_area
       }
       NOT = {
         country_or_non_sovereign_subject_holds = ROOT
@@ -874,7 +927,7 @@ tr_russia_exclusive_2 = {
       730 = {
         is_strongest_trade_power = ROOT
       }
-      ningguta_area = {
+      furdan_area = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
@@ -886,10 +939,13 @@ tr_russia_exclusive_2 = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
+      sakhalin_area = {
+        type = all
+        country_or_non_sovereign_subject_holds = ROOT
+      }
     }
     effect = {
       2106 = {
-        change_province_name = "符拉迪沃斯托克"  # Vladivostok
         rename_capital = "符拉迪沃斯托克"  # Vladivostok
         change_religion = ROOT
         change_culture = ROOT
@@ -957,7 +1013,7 @@ tr_russia_exclusive_2 = {
       if = {
         limit = {
           OR = {
-            has_reform = revolutionary_empire
+            has_reform = revolutionary_empire_reform
             has_reform = revolutionary_republic_reform
           }
         }
@@ -1345,7 +1401,7 @@ tr_russia_exclusive_3 = {
   }
   has_country_shield = yes
   tr_prikazy_mission = {
-    icon = mission_european_church
+    icon = mission_establish_the_prikazy
     required_missions = {
       time_of_troubles_mission
     }
@@ -1400,7 +1456,7 @@ tr_russia_exclusive_3 = {
     }
   }
   tr_state_manufactories = {
-    icon = mission_european_church
+    icon = mission_state_manufactories
     required_missions = {
       tr_prikazy_mission
     }
@@ -1749,7 +1805,7 @@ tr_siberia_missions = {
           duration = -1
         }
       }
-      ningguta_area = {
+      furdan_area = {
         limit = {
           NOT = {
             is_permanent_claim = ROOT
@@ -1772,6 +1828,17 @@ tr_siberia_missions = {
         add_permanent_claim = ROOT
       }
       central_jilin_area = {
+        limit = {
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+          NOT = {
+            is_core = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
+      sakhalin_area = {
         limit = {
           NOT = {
             is_permanent_claim = ROOT

@@ -456,8 +456,18 @@ byz_pp_maritime = {
         }
         add_permanent_claim = ROOT
       }
+      baleares_area = {
+        limit = {
+          NOT = {
+            is_permanent_claim = ROOT
+          }
+          NOT = {
+            is_core = ROOT
+          }
+        }
+        add_permanent_claim = ROOT
+      }
       add_permanent_claim = 126
-      add_permanent_claim = 333
     }
   }
   recover_west_islands = {
@@ -480,10 +490,11 @@ byz_pp_maritime = {
         type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
-      126 = {
+      baleares_area = {
+        type = all
         country_or_non_sovereign_subject_holds = ROOT
       }
-      333 = {
+      126 = {
         country_or_non_sovereign_subject_holds = ROOT
       }
     }
@@ -1171,32 +1182,32 @@ byz_pp_east = {
           rename_capital = "尼科米底亚"  # Nikomedeia
         }
         317 = {
-          change_province_name = "布尔萨"  # Opsikion
-          rename_capital = "布尔萨"  # Prussa
+          change_province_name = "奥普希金"  # Opsikion
+          rename_capital = "普鲁萨"  # Prussa
         }
         318 = {
-          change_province_name = "士麦那"  # Smyrna
-          rename_capital = "士麦那"  # Smyrna
+          change_province_name = "士麦拿"  # Smyrna
+          rename_capital = "士麦拿"  # Smyrna
         }
         319 = {
-          change_province_name = "麦拉萨"  # Mylasa
-          rename_capital = "米拉斯"  # Mougla
+          change_province_name = "米拉萨"  # Mylasa
+          rename_capital = "穆拉"  # Mougla
         }
         322 = {
-          change_province_name = "屈塔希亚"  # Kotyaion
-          rename_capital = "屈塔希亚"  # Kotyaion
+          change_province_name = "科蒂埃翁"  # Kotyaion
+          rename_capital = "科蒂埃翁"  # Kotyaion
         }
         323 = {
-          change_province_name = "伊科尼安"  # Ikonion
-          rename_capital = "伊科尼安"  # Iconion
+          change_province_name = "以哥念"  # Ikonion
+          rename_capital = "以哥念"  # Iconion
         }
         324 = {
-          change_province_name = "泰安那"  # Laranda
-          rename_capital = "泰安那"  # Laranda
+          change_province_name = "拉兰达"  # Laranda
+          rename_capital = "拉兰达"  # Laranda
         }
         325 = {
           change_province_name = "帕夫拉戈尼亚"  # Paphlagonia
-          rename_capital = "帕夫拉戈尼亚"  # Timonio
+          rename_capital = "提莫尼奥"  # Timonio
         }
         326 = {
           change_province_name = "迦拉提亚"  # Galatia
@@ -1211,28 +1222,28 @@ byz_pp_east = {
           rename_capital = "锡诺普"  # Sinop
         }
         329 = {
-          change_province_name = "开塞利亚"  # Sebasteia
-          rename_capital = "开塞利亚"  # Sebastopolis
+          change_province_name = "塞巴斯忒亚"  # Sebasteia
+          rename_capital = "塞巴斯托波利斯"  # Sebastopolis
         }
         330 = {
-          change_province_name = "特拉布宗"  # Trebizond
-          rename_capital = "特拉布宗"  # Trapezous
+          change_province_name = "特拉比松"  # Trebizond
+          rename_capital = "特拉佩祖斯"  # Trapezous
         }
         331 = {
-          change_province_name = "埃尔祖鲁姆"  # Theodosiopolis
-          rename_capital = "埃尔祖鲁姆"  # Theodosiopolis
+          change_province_name = "狄奥多西波利斯"  # Theodosiopolis
+          rename_capital = "狄奥多西波利斯"  # Theodosiopolis
         }
         1764 = {
           change_province_name = "梅森布里亚"  # Mesambria
-          rename_capital = "色雷斯"  # Mesambria
+          rename_capital = "梅森布里亚"  # Mesambria
         }
         1846 = {
           change_province_name = "亚美尼亚坎"  # Armeniakon
-          rename_capital = "亚美尼亚坎"  # Amasea
+          rename_capital = "阿马西亚"  # Amasea
         }
         1848 = {
-          change_province_name = "索佐波利斯"  # Baris
-          rename_capital = "索佐波利斯"  # Baris
+          change_province_name = "巴里斯"  # Baris
+          rename_capital = "巴里斯"  # Baris
         }
         2296 = {
           change_province_name = "阿卑多斯"  # Abydos
@@ -1247,8 +1258,8 @@ byz_pp_east = {
           rename_capital = "安塔利亚"  # Attalia
         }
         2299 = {
-          change_province_name = "赫拉克利亚"  # Boukellarion
-          rename_capital = "布凯拉里安"  # Klaudiopol
+          change_province_name = "布凯拉里安"  # Boukellarion
+          rename_capital = "克劳迪奥波利斯"  # Klaudiopol
         }
         2300 = {
           change_province_name = "卡帕多西亚"  # Cappadocia
@@ -1260,11 +1271,11 @@ byz_pp_east = {
         }
         2302 = {
           change_province_name = "塞琉西亚"  # Seleucia
-          rename_capital = "塞琉西亚"  # Kermarage
+          rename_capital = "凯尔马拉吉"  # Kermarage
         }
         2304 = {
-          change_province_name = "迦勒底"  # Chaldia
-          rename_capital = "萨姆松"  # Amissos
+          change_province_name = "卡尔狄亚"  # Chaldia
+          rename_capital = "阿米索斯"  # Amissos
         }
         2305 = {
           change_province_name = "阿希里森"  # Acilisene
@@ -1287,8 +1298,8 @@ byz_pp_east = {
           rename_capital = "特拉勒斯"  # Tralles
         }
         4310 = {
-          change_province_name = "迪夫里伊"  # Tephrike
-          rename_capital = "迪夫里伊"  # Tephrike
+          change_province_name = "泰夫里卡"  # Tephrike
+          rename_capital = "泰夫里卡"  # Tephrike
         }
         4311 = {
           change_province_name = "安纳托利亚"  # Anatolikon
@@ -1299,8 +1310,8 @@ byz_pp_east = {
           rename_capital = "多利留姆"  # Dorylaeum
         }
         4313 = {
-          change_province_name = "冈格拉"  # Gangra
-          rename_capital = "冈格拉"  # Gangra
+          change_province_name = "甘格拉"  # Gangra
+          rename_capital = "甘格拉"  # Gangra
         }
         4314 = {
           change_province_name = "查士丁尼波利斯"  # Justinianopolis

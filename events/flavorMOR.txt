@@ -172,6 +172,9 @@ country_event = {
   picture = CIVIL_WAR_eventPicture
   fire_only_once = yes
   is_triggered_only = yes
+  immediate = {
+    set_country_flag = wattasid_resolution
+  }
   option = {
     name = flavor_mor.7.a
     random_owned_province = {
@@ -201,6 +204,9 @@ country_event = {
   mean_time_to_happen = {
     months = 30
   }
+  immediate = {
+    set_country_flag = wattasid_resolution
+  }
   option = {
     name = flavor_mor.8.a
     ai_chance = {
@@ -216,7 +222,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -251,17 +257,25 @@ country_event = {
   picture = EXPLORERS_eventPicture
   fire_only_once = yes
   trigger = {
-    tag = MOR
-    is_year = 1550
     OR = {
-      owns_core_province = 2466
-      owns_core_province = 2460
-    }
-    1127 = {
-      is_empty = yes
-    }
-    NOT = {
-      owns = 1128
+      AND = {
+        NOT = {
+          has_dlc = "Golden Century"
+        }
+        tag = MOR
+        is_year = 1550
+        OR = {
+          owns_core_province = 2466
+          owns_core_province = 2460
+        }
+        1127 = {
+          is_empty = yes
+        }
+        NOT = {
+          owns = 1128
+        }
+      }
+      has_country_flag = mor_sudanese_expedition
     }
   }
   immediate = {
@@ -298,7 +312,7 @@ country_event = {
           province_id = 2247
         }
       }
-      add_claim = MOR
+      add_permanent_claim = MOR
     }
     every_country = {
       limit = {
@@ -307,12 +321,6 @@ country_event = {
       country_event = {
         id = flavor_mor.10
       }
-    }
-  }
-  option = {
-    name = flavor_mor.9.b
-    ai_chance = {
-      factor = 0
     }
   }
 }
@@ -339,7 +347,7 @@ country_event = {
             province_id = 2247
           }
         }
-        add_claim = MOR
+        add_permanent_claim = MOR
       }
     }
   }
@@ -361,6 +369,181 @@ country_event = {
       add_country_modifier = {
         name = "mor_crisis"
         duration = 1825
+      }
+    }
+  }
+}
+country_event = {
+  id = flavor_mor.12
+  title = flavor_mor.12.t
+  desc = flavor_mor.12.desc
+  picture = CITY_VIEW_eventPicture
+  is_triggered_only = yes
+  option = {
+    name = "flavor_mor.12.a"
+    343 = {
+      if = {
+        limit = {
+          NOT = {
+            is_capital = yes
+          }
+        }
+        move_capital_effect = yes
+      }
+      add_base_tax = 1
+      add_base_production = 1
+      add_base_manpower = 1
+    }
+  }
+  option = {
+    name = "flavor_mor.12.b"
+    344 = {
+      if = {
+        limit = {
+          NOT = {
+            is_capital = yes
+          }
+        }
+        move_capital_effect = yes
+      }
+      add_base_tax = 1
+      add_base_production = 1
+      add_base_manpower = 1
+    }
+  }
+  option = {
+    name = "flavor_mor.12.c"
+    2467 = {
+      if = {
+        limit = {
+          NOT = {
+            is_capital = yes
+          }
+        }
+        move_capital_effect = yes
+      }
+      add_base_tax = 1
+      add_base_production = 1
+      add_base_manpower = 1
+    }
+  }
+  option = {
+    name = "flavor_mor.12.d"
+    342 = {
+      if = {
+        limit = {
+          NOT = {
+            is_capital = yes
+          }
+        }
+        move_capital_effect = yes
+      }
+      add_base_tax = 1
+      add_base_production = 1
+      add_base_manpower = 1
+    }
+  }
+}
+country_event = {
+  id = flavor_mor.13
+  title = flavor_mor.13.t
+  desc = flavor_mor.13.desc
+  picture = ANGRY_MOB_eventPicture
+  fire_only_once = yes
+  trigger = {
+    tag = MOR
+    has_country_flag = wattasid_resolution
+    owns_core_province = 343
+    OR = {
+      MRK = {
+        is_subject_of = ROOT
+      }
+      SOS = {
+        is_subject_of = ROOT
+      }
+      TFL = {
+        is_subject_of = ROOT
+      }
+    }
+  }
+  mean_time_to_happen = {
+    months = 24
+  }
+  option = {
+    name = "flavor_mor.13.a"
+    add_stability = -1
+    add_country_modifier = {
+      name = "mor_looks_outward"
+      duration = 7300
+    }
+    if = {
+      limit = {
+        MRK = {
+          is_subject_of = ROOT
+        }
+      }
+      MRK = {
+        add_liberty_desire = 10
+      }
+    }
+    else_if = {
+      limit = {
+        344 = {
+          owned_by = ROOT
+        }
+      }
+      344 = {
+        add_local_autonomy = -25
+      }
+    }
+    if = {
+      limit = {
+        SOS = {
+          is_subject_of = ROOT
+        }
+      }
+      SOS = {
+        add_liberty_desire = 10
+      }
+    }
+    else_if = {
+      limit = {
+        348 = {
+          owned_by = ROOT
+        }
+      }
+      348 = {
+        add_local_autonomy = -25
+      }
+    }
+    if = {
+      limit = {
+        TFL = {
+          is_subject_of = ROOT
+        }
+      }
+      TFL = {
+        add_liberty_desire = 10
+      }
+    }
+    else_if = {
+      limit = {
+        346 = {
+          owned_by = ROOT
+        }
+      }
+      346 = {
+        add_local_autonomy = -25
+      }
+    }
+  }
+  option = {
+    name = "flavor_mor.13.b"
+    add_stability = 1
+    343 = {
+      add_province_modifier = {
+        name = "mor_looks_inward"
+        duration = 7300
       }
     }
   }

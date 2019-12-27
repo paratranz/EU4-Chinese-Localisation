@@ -54,7 +54,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -135,7 +135,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -215,7 +215,7 @@ country_event = {
         limit = {
           has_states_general_mechanic = yes
         }
-        change_statists_vs_orangists = 200
+        change_statists_vs_orangists = 1
       }
     }
     else_if = {
@@ -253,7 +253,7 @@ country_event = {
         limit = {
           has_states_general_mechanic = yes
         }
-        change_statists_vs_orangists = 200
+        change_statists_vs_orangists = 1
       }
     }
   }
@@ -323,7 +323,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -445,7 +445,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -672,33 +672,31 @@ country_event = {
   title = women_history_events.11.t
   desc = women_history_events.11.d
   picture = wihgfx_FEMALE_RULER_eventPicture
+  fire_only_once = yes
   trigger = {
-    tag = CAS
+    OR = {
+      tag = SPA
+      AND = {
+        NOT = {
+          exists = SPA
+        }
+        tag = CAS
+      }
+    }
     is_year = 1450
     NOT = {
       is_year = 1504
     }
     has_regency = no
-    is_female = no
-    has_consort = no
-    has_heir = no
     has_government_attribute = heir
     is_lesser_in_union = no
     government = monarchy
-    NOT = {
-      has_global_flag = wih_isabella_castile_flag
-    }
     NOT = {
       has_disaster = castilian_civil_war
     }
   }
   mean_time_to_happen = {
     months = 1000
-  }
-  immediate = {
-    hidden_effect = {
-      set_global_flag = wih_isabella_castile_flag
-    }
   }
   option = {
     name = women_history_events.11.a
@@ -882,7 +880,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -954,7 +952,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -1165,7 +1163,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -1242,7 +1240,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -1319,7 +1317,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -1395,11 +1393,19 @@ country_event = {
   desc = women_history_events.22.d
   picture = wihgfx_FEMALES_eventPicture
   trigger = {
-    owns = 375
-    owns = 376
-    is_year = 1530
-    NOT = {
-      is_year = 1605
+    OR = {
+      AND = {
+        has_reform = pirate_republic_reform
+        has_global_flag = grace_omalley_flag
+      }
+      AND = {
+        owns = 375
+        owns = 376
+        is_year = 1530
+        NOT = {
+          is_year = 1605
+        }
+      }
     }
     NOT = {
       has_global_flag = wih_grainnenimhaille_flag
@@ -1415,6 +1421,11 @@ country_event = {
   }
   option = {
     name = women_history_events.22.a
+    trigger = {
+      NOT = {
+        has_global_flag = grace_omalley_flag
+      }
+    }
     add_meritocracy_effect = yes
     define_advisor = {
       female = yes
@@ -1427,6 +1438,11 @@ country_event = {
   }
   option = {
     name = women_history_events.22.b
+    trigger = {
+      NOT = {
+        has_global_flag = grace_omalley_flag
+      }
+    }
     define_admiral = {
       name = "格罗尼娅 尼 瓦列"  # Grainne Ni Mhaille
       shock = 4
@@ -1437,7 +1453,53 @@ country_event = {
   }
   option = {
     name = women_history_events.22.c
+    trigger = {
+      NOT = {
+        has_global_flag = grace_omalley_flag
+      }
+    }
     add_prestige = 10
+  }
+  option = {
+    name = women_history_events.22.da
+    trigger = {
+      has_global_flag = grace_omalley_flag
+    }
+    define_ruler = {
+      name = "格兰内 尼 瓦勒"  # Grainne Ni Mhaille
+      adm = 3
+      dip = 4
+      mil = 5
+      fixed = yes
+      culture = irish
+    }
+    if = {
+      limit = {
+        has_flagship = no
+        capital_scope = {
+          has_port = yes
+        }
+      }
+      capital_scope = {
+        create_flagship = {
+          name = "白海马"  # White Seahorse
+          type = heavy_ship
+        }
+      }
+    }
+    else_if = {
+      limit = {
+        capital_scope = {
+          has_port = yes
+        }
+      }
+      capital_scope = {
+        create_named_ship = {
+          name = "白海马"  # White Seahorse
+          type = heavy_ship
+        }
+      }
+    }
   }
 }
 country_event = {
@@ -1570,7 +1632,7 @@ country_event = {
       type = commandant
       skill = 2
       name = "西蒂 万 肯邦"  # Siti Wan Kembang
-      culture = malay
+      culture = malayan
       discount = yes
     }
   }
@@ -1689,7 +1751,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -1832,7 +1894,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -1908,7 +1970,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     add_corruption = 1
     if = {
@@ -2177,7 +2239,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -2396,7 +2458,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -2513,7 +2575,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -2582,7 +2644,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -2991,7 +3053,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -3295,7 +3357,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -3407,6 +3469,9 @@ country_event = {
   desc = women_history_events.56.d
   picture = wihgfx_FEMALES_eventPicture
   trigger = {
+    NOT = {
+      has_dlc = "Golden Century"
+    }
     OR = {
       owns = 1751
       owns = 334
@@ -3818,7 +3883,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -3888,7 +3953,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -3964,7 +4029,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -4044,7 +4109,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -4124,7 +4189,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -4202,7 +4267,7 @@ country_event = {
     name = women_history_events.69.b
     define_ruler = {
       name = "玛丽 露易丝"  # Marie Louise
-      dynasty = "贡萨加"  # Gonzaga
+      dynasty = "冈萨加"  # Gonzaga
       culture = burgundian
       fixed = yes
       adm = 4
@@ -4214,7 +4279,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -4290,7 +4355,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -4546,7 +4611,7 @@ country_event = {
         limit = {
           has_states_general_mechanic = yes
         }
-        change_statists_vs_orangists = 200
+        change_statists_vs_orangists = 1
       }
       hidden_effect = {
         add_ruler_personality = righteous_personality
@@ -4604,7 +4669,7 @@ country_event = {
     define_advisor = {
       name = "敦 法蒂玛"  # Tun Fatimah
       type = army_organiser
-      culture = malay
+      culture = malayan
       discount = yes
       skill = 2
       female = yes
@@ -4615,7 +4680,7 @@ country_event = {
     define_ruler = {
       name = "敦 法蒂玛"  # Tun Fatimah
       dynasty = "三佛齐"  # Srivijaya
-      culture = malay
+      culture = malayan
       fixed = yes
       adm = 3
       dip = 4
@@ -4626,7 +4691,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -4698,7 +4763,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -4920,7 +4985,7 @@ country_event = {
     define_advisor = {
       name = "拉图·西加敖"  # Ratu Hijau
       discount = yes
-      culture = malay
+      culture = malayan
       type = statesman
       skill = 2
       female = yes
@@ -4932,7 +4997,7 @@ country_event = {
       name = "拉图·西加敖"  # Ratu Hijau
       dynasty = "内陆"  # Inland
       fixed = yes
-      culture = malay
+      culture = malayan
       adm = 4
       dip = 3
       mil = 3
@@ -4942,7 +5007,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -4960,7 +5025,7 @@ country_event = {
     add_mil_power = 100
     define_advisor = {
       name = "拉图·比鲁"  # Ratu Biru
-      culture = malay
+      culture = malayan
       type = diplomat
       discount = yes
       skill = 2
@@ -4972,7 +5037,7 @@ country_event = {
     define_ruler = {
       name = "拉图·比鲁"  # Ratu Biru
       dynasty = "内陆"  # Inland
-      culture = malay
+      culture = malayan
       fixed = yes
       adm = 3
       dip = 4
@@ -4983,7 +5048,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -5003,7 +5068,7 @@ country_event = {
     define_advisor = {
       name = "拉图·印古"  # Ratu Ingu
       type = commandant
-      culture = malay
+      culture = malayan
       skill = 2
       discount = yes
       female = yes
@@ -5014,7 +5079,7 @@ country_event = {
     define_ruler = {
       name = "拉图·印古"  # Ratu Ingu
       dynasty = "内陆"  # Inland
-      culture = malay
+      culture = malayan
       fixed = yes
       adm = 3
       dip = 3
@@ -5025,7 +5090,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -5100,7 +5165,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -5285,7 +5350,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -5548,13 +5613,12 @@ country_event = {
     add_dip_power = 100
     add_mil_power = 100
     define_general = {
-      name = "Ahilyabai Holkar"
+      name = "阿喜亚拜 豪卡"  # Ahilyabai Holkar
       shock = 3
       fire = 4
       manuever = 1
       siege = 3
       female = yes
-      nam = "阿喜亚拜·豪卡"  # Ahilyabai Holkar
     }
   }
   option = {
@@ -5568,13 +5632,12 @@ country_event = {
       DIP = 4
       MIL = 2
       female = yes
-      dyna = "豪卡"  # Holkar
     }
     if = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -5619,7 +5682,6 @@ country_event = {
       type = diplomat
       skill = 2
       female = yes
-      nam = "扎汗则布 巴努 贝古姆"  # Jahanzeb Banu Begum
     }
   }
   option = {
@@ -5631,7 +5693,6 @@ country_event = {
       manuever = 3
       siege = 4
       female = yes
-      na = "扎汗则布 巴努 贝古姆"  # Jahanzeb Banu Begum
     }
   }
 }
@@ -5677,7 +5738,6 @@ country_event = {
       discount = yes
       skill = 2
       female = yes
-      na = "郑氏"  # Ching Shih
     }
   }
   option = {
@@ -5688,7 +5748,6 @@ country_event = {
       fire = 4
       manuever = 3
       female = yes
-      n = "郑氏"  # Ching Shih
     }
   }
 }
@@ -5732,7 +5791,6 @@ country_event = {
       discount = yes
       skill = 2
       female = yes
-      n = "门特瓦布"  # Mentewab
     }
   }
   option = {
@@ -5746,14 +5804,12 @@ country_event = {
       dip = 4
       mil = 3
       female = yes
-      dy = "所罗门"  # Solomonid
-      na = "门特瓦布"  # Mentewab
     }
     if = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -5806,13 +5862,18 @@ country_event = {
       skill = 2
       discount = yes
       female = yes
-       = "索菲亚苏丹"  # Safiye Sultan
     }
   }
   option = {
     name = women_history_events.93.b
     define_advisor = {
       name = "莎菲耶苏丹"  # Safiye Sultan
+      type = diplomat
+      culture = albanian
+      religion = sunni
+      skill = 2
+      discount = yes
+      female = yes
     }
   }
 }
@@ -5849,6 +5910,11 @@ country_event = {
     add_meritocracy_effect = yes
     define_advisor = {
       name = "安杰丽卡·考夫曼"  # Angelica Kauffman
+      culture = swiss
+      type = artist
+      skill = 2
+      discount = yes
+      female = yes
     }
   }
   option = {
@@ -5897,18 +5963,24 @@ country_event = {
       skill = 2
       female = yes
     }
-    define_adviso = "伊丽莎白 罗曼诺夫"  # Elizaveta Romanov
   }
   option = {
     name = women_history_events.95.b
     define_ruler = {
+      name = "伊丽莎白"  # Elizaveta
       dynasty = "罗曼诺夫"  # Romanov
+      culture = russian
+      fixed = yes
+      adm = 3
+      dip = 4
+      mil = 3
+      female = yes
     }
     if = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -5979,12 +6051,11 @@ country_event = {
       discount = yes
       female = yes
     }
-    define_advis = "俄罗斯的安娜"  # Anna of Russia
   }
   option = {
     name = women_history_events.96.b
     define_ruler = {
-      name = "Anna"
+      name = "安娜"  # Anna
       dynasty = "罗曼诺夫"  # Romanov
       culture = russian
       fixed = yes
@@ -5997,7 +6068,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 200
+      change_statists_vs_orangists = 1
     }
     if = {
       limit = {
@@ -6007,7 +6078,6 @@ country_event = {
         add_ruler_personality = incorruptible_personality
       }
     }
-    define_rule = "罗曼诺夫"  # Romanov
   }
 }
 country_event = {
@@ -6048,17 +6118,13 @@ country_event = {
     add_mil_power = 100
     add_meritocracy_effect = yes
     define_advisor = {
-      name = "Nurbanu Sultan"
+      name = "努尔巴努苏丹"  # Nurbanu Sultan
       culture = greek
       religion = sunni
       type = statesman
       skill = 2
       discount = yes
       female = yes
-    }
-    define_advi = "努尔巴努苏丹"  # Nurbanu Sultan
-    define_advior = {
-      name = "努尔巴努苏丹"  # Nurbanu Sultan
     }
   }
   option = {
@@ -6078,7 +6144,7 @@ country_event = {
         }
       }
       define_ruler = {
-        name = "Nurbanu Sultan"
+        name = "努尔巴努苏丹"  # Nurbanu Sultan
         dynasty = "奥斯曼"  # Osmanoglu
         fixed = yes
         culture = greek
@@ -6092,9 +6158,8 @@ country_event = {
         limit = {
           has_states_general_mechanic = yes
         }
-        change_statists_vs_orangists = 200
+        change_statists_vs_orangists = 1
       }
-      define_ = "奥斯曼"  # Osmanoglu
     }
     if = {
       limit = {
@@ -6102,7 +6167,7 @@ country_event = {
         has_government_attribute = queen
       }
       define_consort = {
-        name = "Nurbanu Sultan"
+        name = "努尔巴努苏丹"  # Nurbanu Sultan
         adm = 4
         culture = greek
         religion = sunni
@@ -6113,10 +6178,6 @@ country_event = {
       hidden_effect = {
         add_queen_personality = secretive_personality
         add_queen_personality = silver_tongue_personality
-      }
-      define = "努尔巴努苏丹"  # Nurbanu Sultan
-      define_advisor = {
-        name = "努尔巴努苏丹"  # Nurbanu Sultan
       }
     }
   }
@@ -6155,7 +6216,6 @@ country_event = {
       skill = 2
       female = yes
     }
-    define_adv = "许兰雪轩"  # Heo Nanseolheon
   }
   option = {
     name = women_history_events.98.b
@@ -6199,7 +6259,6 @@ country_event = {
       skill = 3
       female = yes
     }
-    define_ad = "马里昂 乌兹 扎马尼"  # Mariam-uz-Zamani
   }
   option = {
     name = women_history_events.99.b
@@ -6247,7 +6306,6 @@ country_event = {
       skill = 2
       female = yes
     }
-    define_a = "弗朗西斯卡 乌苏拉 拉齐维洛娃"  # Franciszka Urszula Radziwillowa
   }
   option = {
     name = women_history_events.100.b
