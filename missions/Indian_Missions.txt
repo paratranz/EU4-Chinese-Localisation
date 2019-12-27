@@ -470,13 +470,8 @@ gen_south_india_2 = {
       }
     }
     effect = {
-      if = {
-        limit = {
-          has_dlc = "Dharma"
-        }
-        country_event = {
-          id = india_mission_events.5
-        }
+      country_event = {
+        id = india_mission_events.5
       }
       konkan_area = {
         limit = {
@@ -1523,7 +1518,7 @@ gen_indian_sikh = {
           duration = -1
         }
       }
-      558 = {
+      4437 = {
         add_province_modifier = {
           name = "harmandar_sahib"
           duration = -1

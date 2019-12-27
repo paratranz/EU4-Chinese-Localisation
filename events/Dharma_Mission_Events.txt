@@ -169,7 +169,7 @@ country_event = {
     release = DEC
     vassalize = DEC
     DEC = {
-      change_government = monarchy
+      change_government_via_reform = monarchy
       set_legacy_government = indian_sultanate_legacy
       add_opinion = {
         who = ROOT
@@ -192,7 +192,7 @@ country_event = {
         limit = {
           has_states_general_mechanic = yes
         }
-        change_statists_vs_orangists = 1
+        change_statists_vs_orangists = 200
       }
       add_country_modifier = {
         name = "viceroyalty_of_the_deccan"

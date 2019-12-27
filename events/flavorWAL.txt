@@ -12,6 +12,7 @@ country_event = {
     NOT = {
       is_year = 1477
     }
+    dynasty = "德古拉"  # Draculesti
   }
   option = {
     name = "flavor_wal.EVTOPTA1"
@@ -34,7 +35,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 1
+      change_statists_vs_orangists = 200
     }
     if = {
       limit = {

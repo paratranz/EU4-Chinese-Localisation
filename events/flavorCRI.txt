@@ -98,7 +98,7 @@ country_event = {
         limit = {
           has_states_general_mechanic = yes
         }
-        change_statists_vs_orangists = 1
+        change_statists_vs_orangists = 200
       }
       if = {
         limit = {
@@ -125,7 +125,7 @@ country_event = {
         limit = {
           has_states_general_mechanic = yes
         }
-        change_statists_vs_orangists = 1
+        change_statists_vs_orangists = 200
       }
       if = {
         limit = {
@@ -194,7 +194,7 @@ country_event = {
         has_heir = no
       }
       define_ruler = {
-        name = "努儿 道剌特"  # Nur Devlet
+        name = "努尔 道刺特"  # Nur Devlet
         dynasty = "格莱"  # Giray
         age = 33
       }
@@ -202,7 +202,7 @@ country_event = {
         limit = {
           has_states_general_mechanic = yes
         }
-        change_statists_vs_orangists = 1
+        change_statists_vs_orangists = 200
       }
       if = {
         limit = {
@@ -229,7 +229,7 @@ country_event = {
         limit = {
           has_states_general_mechanic = yes
         }
-        change_statists_vs_orangists = 1
+        change_statists_vs_orangists = 200
       }
       if = {
         limit = {
@@ -604,7 +604,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 1
+      change_statists_vs_orangists = 200
     }
     if = {
       limit = {
@@ -703,7 +703,6 @@ country_event = {
         owned_by = ROOT
       }
       add_core = ILK
-      remove_core = ROOT
     }
     release = ILK
     create_march = ILK

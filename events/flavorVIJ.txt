@@ -661,12 +661,7 @@ country_event = {
     name = "flavor_vij.16.a"
     add_stability_or_adm_power = yes
     clr_country_flag = chellappa_local
-    random_owned_province = {
-      limit = {
-        has_province_modifier = tamil_grandee
-      }
-      remove_province_modifier = tamil_grandee
-    }
+    remove_province_modifier = tamil_grandee
     set_country_flag = chellappa_mission_flag
   }
 }

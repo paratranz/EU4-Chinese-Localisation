@@ -1711,7 +1711,7 @@ country_event = {
       }
       release = NED
       NED = {
-        change_government = republic
+        change_government_via_reform = republic
         add_government_reform = dutch_republic
       }
       every_owned_province = {
@@ -2193,7 +2193,7 @@ country_event = {
           limit = {
             has_states_general_mechanic = yes
           }
-          change_statists_vs_orangists = 1
+          change_statists_vs_orangists = 200
         }
         if = {
           limit = {
@@ -2256,8 +2256,8 @@ country_event = {
         }
         random = {
           chance = 20
-          change_government = republic
-          add_government_reform = merchants_reform
+          change_government_via_reform = republic
+          add_government_reform = merchant_republic
         }
       }
       if = {
@@ -2269,8 +2269,8 @@ country_event = {
         }
         random = {
           chance = 20
-          change_government = republic
-          set_legacy_government = administrative_republic
+          change_government_via_reform = republic
+          add_government_reform = administrative_republic
         }
       }
     }

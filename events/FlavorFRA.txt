@@ -813,7 +813,6 @@ country_event = {
   option = {
     name = "flavor_fra.EVTOPTA3128"
     add_stability_or_adm_power = yes
-    set_country_flag = FRA_had_event_3128
     if = {
       limit = {
         any_owned_province = {
@@ -1646,56 +1645,5 @@ country_event = {
         add_local_autonomy = -50
       }
     }
-  }
-}
-country_event = {
-  id = flavor_fra.9000
-  title = "flavor_fra.EVTNAME9000"
-  desc = "flavor_fra.EVTDESC9000"
-  picture = REFORM_eventPicture
-  is_triggered_only = yes
-  fire_only_once = yes
-  trigger = {
-    tag = FRA
-    has_regency = no
-    is_year = 1450
-    NOT = {
-      is_year = 1465
-    }
-  }
-  option = {
-    name = "flavor_fra.EVTOPTA9000"
-    if = {
-      limit = {
-        has_estate = estate_church
-      }
-      add_estate_loyalty = {
-        estate = estate_church
-        loyalty = 10
-      }
-    }
-  }
-  option = {
-    name = "flavor_fra.EVTOPTB9000"
-    define_advisor = {
-      type = artist
-      name = "弗朗索瓦 维庸"  # François Villon
-      culture = cosmopolitan_french
-      discount = yes
-      skill = 3
-    }
-    if = {
-      limit = {
-        has_estate = estate_church
-      }
-      add_estate_loyalty = {
-        estate = estate_church
-        loyalty = -10
-      }
-    }
-  }
-  option = {
-    name = "flavor_fra.EVTOPTC9000"
-    add_prestige = -5
   }
 }

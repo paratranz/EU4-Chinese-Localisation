@@ -763,7 +763,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 1
+      change_statists_vs_orangists = 200
     }
     add_stability = -1
   }
@@ -1286,7 +1286,7 @@ country_event = {
     define_heir = {
       male = yes
       dynasty = ROOT
-      name = "阿输迦"  # Ashoka
+      name = "阿瑜迦"  # Ashoka
       claim = 100
       adm = 6
     }
@@ -1721,9 +1721,6 @@ country_event = {
       is_lesser_in_union = no
       government = monarchy
       religion_group = ROOT
-      NOT = {
-        marriage_with = ROOT
-      }
     }
     government = monarchy
     is_lesser_in_union = no
@@ -1737,9 +1734,6 @@ country_event = {
       limit = {
         has_country_modifier = sought_after_bachelor
         religion_group = ROOT
-        NOT = {
-          marriage_with = ROOT
-        }
       }
       random_list = {
         20 = {
@@ -2282,7 +2276,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 1
+      change_statists_vs_orangists = 200
     }
     random_known_country = {
       limit = {
@@ -2320,7 +2314,7 @@ country_event = {
           limit = {
             has_states_general_mechanic = yes
           }
-          change_statists_vs_orangists = 1
+          change_statists_vs_orangists = 200
         }
       }
     }
@@ -2618,7 +2612,7 @@ country_event = {
     trigger = {
       FROM = {
         NOT = {
-          dynasty = "冯 哈布斯堡"  # von Habsburg
+          dynasty = "von Habsburg"
         }
       }
     }

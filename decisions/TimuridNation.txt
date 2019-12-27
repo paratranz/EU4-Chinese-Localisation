@@ -10,10 +10,7 @@ country_decisions = {
       NOT = {
         is_year = 1490
       }
-      OR = {
-        government = monarchy
-        government = tribal
-      }
+      government = monarchy
       NOT = {
         tag = HLR
       }

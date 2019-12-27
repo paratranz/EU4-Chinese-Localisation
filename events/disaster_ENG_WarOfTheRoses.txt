@@ -24,7 +24,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 1
+      change_statists_vs_orangists = 200
     }
     if = {
       limit = {
@@ -32,6 +32,11 @@ country_event = {
       }
       hidden_effect = {
         add_ruler_personality = well_connected_personality
+      }
+      random_owned_province = {
+        spawn_rebels = {
+          leader = "理查德 约克"  # Richard York
+        }
       }
     }
     add_yearly_manpower = -2.5
@@ -58,6 +63,11 @@ country_event = {
           size = 3
           leader = "理查德 约克"  # Richard York
           win = yes
+        }
+      }
+      245 = {
+        spawn_rebels = {
+          leader = "理查德 约克"  # Richard York
         }
       }
     }
@@ -95,7 +105,7 @@ country_event = {
       limit = {
         has_states_general_mechanic = yes
       }
-      change_statists_vs_orangists = 1
+      change_statists_vs_orangists = 200
     }
     if = {
       limit = {
@@ -103,6 +113,11 @@ country_event = {
       }
       hidden_effect = {
         add_ruler_personality = tactical_genius_personality
+      }
+      random_owned_province = {
+        spawn_rebels = {
+          leader = "爱德华 兰开斯特"  # Edward Lancaster
+        }
       }
     }
     add_yearly_manpower = -2.5
@@ -127,6 +142,11 @@ country_event = {
         spawn_rebels = {
           type = pretender_rebels
           size = 3
+          leader = "爱德华 兰开斯特"  # Edward Lancaster
+        }
+      }
+      244 = {
+        spawn_rebels = {
           leader = "爱德华 兰开斯特"  # Edward Lancaster
         }
       }
@@ -856,38 +876,11 @@ country_event = {
       remove_country_modifier = importing_food
       remove_country_modifier = plundering_soldiers
       remove_country_modifier = legitimacy_questioned
-      every_owned_province = {
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support
-          }
-          remove_province_modifier = wotr_local_support
-        }
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support_for_lancaster
-          }
-          remove_province_modifier = wotr_local_support_for_lancaster
-        }
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support_for_york
-          }
-          remove_province_modifier = wotr_local_support_for_york
-        }
-        if = {
-          limit = {
-            has_province_modifier = rebel_refugees
-          }
-          remove_province_modifier = rebel_refugees
-        }
-        if = {
-          limit = {
-            has_province_modifier = rebel_stronghold
-          }
-          remove_province_modifier = rebel_stronghold
-        }
-      }
+      remove_province_modifier = wotr_local_support
+      remove_province_modifier = wotr_local_support_for_lancaster
+      remove_province_modifier = wotr_local_support_for_york
+      remove_province_modifier = rebel_refugees
+      remove_province_modifier = rebel_stronghold
       set_country_flag = war_of_the_roses_ended
     }
   }
@@ -979,38 +972,11 @@ country_event = {
       remove_country_modifier = plundering_soldiers
       remove_country_modifier = legitimacy_questioned
       remove_country_modifier = low_fertility
-      every_owned_province = {
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support
-          }
-          remove_province_modifier = wotr_local_support
-        }
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support_for_lancaster
-          }
-          remove_province_modifier = wotr_local_support_for_lancaster
-        }
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support_for_york
-          }
-          remove_province_modifier = wotr_local_support_for_york
-        }
-        if = {
-          limit = {
-            has_province_modifier = rebel_refugees
-          }
-          remove_province_modifier = rebel_refugees
-        }
-        if = {
-          limit = {
-            has_province_modifier = rebel_stronghold
-          }
-          remove_province_modifier = rebel_stronghold
-        }
-      }
+      remove_province_modifier = wotr_local_support
+      remove_province_modifier = wotr_local_support_for_lancaster
+      remove_province_modifier = wotr_local_support_for_york
+      remove_province_modifier = rebel_refugees
+      remove_province_modifier = rebel_stronghold
     }
     end_disaster = war_of_the_roses
   }
@@ -1053,38 +1019,11 @@ country_event = {
       remove_country_modifier = plundering_soldiers
       remove_country_modifier = legitimacy_questioned
       remove_country_modifier = low_fertility
-      every_owned_province = {
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support
-          }
-          remove_province_modifier = wotr_local_support
-        }
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support_for_lancaster
-          }
-          remove_province_modifier = wotr_local_support_for_lancaster
-        }
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support_for_york
-          }
-          remove_province_modifier = wotr_local_support_for_york
-        }
-        if = {
-          limit = {
-            has_province_modifier = rebel_refugees
-          }
-          remove_province_modifier = rebel_refugees
-        }
-        if = {
-          limit = {
-            has_province_modifier = rebel_stronghold
-          }
-          remove_province_modifier = rebel_stronghold
-        }
-      }
+      remove_province_modifier = wotr_local_support
+      remove_province_modifier = wotr_local_support_for_lancaster
+      remove_province_modifier = wotr_local_support_for_york
+      remove_province_modifier = rebel_refugees
+      remove_province_modifier = rebel_stronghold
     }
     end_disaster = war_of_the_roses
   }
@@ -1225,38 +1164,11 @@ country_event = {
       remove_country_modifier = plundering_soldiers
       remove_country_modifier = legitimacy_questioned
       remove_country_modifier = low_fertility
-      every_owned_province = {
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support
-          }
-          remove_province_modifier = wotr_local_support
-        }
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support_for_lancaster
-          }
-          remove_province_modifier = wotr_local_support_for_lancaster
-        }
-        if = {
-          limit = {
-            has_province_modifier = wotr_local_support_for_york
-          }
-          remove_province_modifier = wotr_local_support_for_york
-        }
-        if = {
-          limit = {
-            has_province_modifier = rebel_refugees
-          }
-          remove_province_modifier = rebel_refugees
-        }
-        if = {
-          limit = {
-            has_province_modifier = rebel_stronghold
-          }
-          remove_province_modifier = rebel_stronghold
-        }
-      }
+      remove_province_modifier = wotr_local_support
+      remove_province_modifier = wotr_local_support_for_lancaster
+      remove_province_modifier = wotr_local_support_for_york
+      remove_province_modifier = rebel_refugees
+      remove_province_modifier = rebel_stronghold
     }
     end_disaster = war_of_the_roses
   }

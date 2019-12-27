@@ -15,7 +15,11 @@ lithuanian_missions_1 = {
     provinces_to_highlight = {
       region = ruthenia_region
       NOT = {
-        development = 10
+        OR = {
+          development = 10
+          has_building = temple
+          has_building = cathedral
+        }
       }
     }
     trigger = {
@@ -23,12 +27,25 @@ lithuanian_missions_1 = {
         tooltip = develop_ukraine_tooltip
         num_of_owned_provinces_with = {
           region = ruthenia_region
-          development = 10
+          OR = {
+            development = 10
+            has_building = temple
+            has_building = cathedral
+          }
           value = 10
         }
       }
     }
     effect = {
+      if = {
+        limit = {
+          has_dlc = "Common Sense"
+        }
+        custom_tooltip = develop_ukraine_effect_tooltip
+      }
+      else = {
+        custom_tooltip = develop_ukraine_effect_tooltip_2
+      }
       hidden_effect = {
         every_owned_province = {
           limit = {
@@ -101,8 +118,24 @@ lithuanian_missions_1 = {
       province_id = 280
     }
     trigger = {
-      280 = {
-        development = 20
+      if = {
+        limit = {
+          OR = {
+            has_dlc = "Dharma"
+            has_dlc = "Common Sense"
+          }
+        }
+        280 = {
+          development = 20
+        }
+      }
+      else = {
+        280 = {
+          OR = {
+            has_building = cathedral
+            has_building = farm_estate
+          }
+        }
       }
       if = {
         limit = {
@@ -122,10 +155,26 @@ lithuanian_missions_1 = {
       }
     }
     effect = {
-      280 = {
-        add_province_modifier = {
-          name = "restoration_of_kiev"
-          duration = -1
+      if = {
+        limit = {
+          NOT = {
+            280 = {
+              development = 20
+            }
+          }
+        }
+        280 = {
+          add_base_tax = 3
+          add_base_production = 3
+          add_base_manpower = 3
+        }
+      }
+      else = {
+        280 = {
+          add_province_modifier = {
+            name = "restoration_of_kiev"
+            duration = -1
+          }
         }
       }
     }
@@ -238,10 +287,8 @@ lithuanian_missions_2 = {
     provinces_to_highlight = {
       province_id = 262
       NOT = {
-        AND = {
-          country_or_non_sovereign_subject_holds = ROOT
-          has_building = university
-        }
+        country_or_non_sovereign_subject_holds = ROOT
+        has_building = university
       }
     }
     trigger = {
@@ -550,10 +597,8 @@ lithuanian_missions_slot = {
           government = monarchy
           exists = POL
           is_subject = no
-          religion_group = christian
           POL = {
             is_subject = no
-            government = monarchy
           }
         }
         add_casus_belli = {
@@ -654,10 +699,8 @@ lithuanian_missions_slot = {
           government = monarchy
           exists = RUS
           is_subject = no
-          religion_group = christian
           RUS = {
             is_subject = no
-            government = monarchy
           }
         }
         add_casus_belli = {
@@ -671,10 +714,8 @@ lithuanian_missions_slot = {
           government = monarchy
           exists = MOS
           is_subject = no
-          religion_group = christian
           MOS = {
             is_subject = no
-            government = monarchy
           }
         }
         add_casus_belli = {

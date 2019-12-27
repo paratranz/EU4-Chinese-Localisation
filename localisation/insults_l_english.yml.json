@@ -2,8 +2,9 @@
     {
         "key": "insult_default:1",
         "original": "Your mother was a hamster and your father smells of elderberries!",
-        "translation": "你的母亲是只仓鼠，而你的父亲满身接骨木的气味！",
+        "translation": "你的母亲带有狐臭！你的父亲必定厄运连连！",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -11,13 +12,15 @@
         "original": "Judgement day is upon us! The minions of Lucifer walk upon the earth- Oh. No, it is merely the [Root.GetAdjective].",
         "translation": "我们的末日到了！路西法的走狗正在四处流窜——啊，不，原来只是[Root.GetAdjective]啊。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_default3:0",
-        "original": "Furthermore, I believe that [Root.Capital.GetCapitalName] must be destroyed!",
-        "translation": "另外，我认为必须毁掉[Root.Capital.GetCapitalName]！",
-        "stage": 1,
+        "original": "Furthermore, I believe that [Root.GetCapital.GetName] must be destroyed!",
+        "translation": "另外，我认为我们必须毁掉[Root.GetCapital.GetName]！",
+        "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -25,13 +28,15 @@
         "original": "When the account of our time is written by future generations, they will look at you with that mix of pity and disgust called compassion.",
         "translation": "当后人书写我们这个时代的历史时，想必他们会可怜你们——以及对你们感到恶心。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_default5:0",
         "original": "My last visit to the commode was vastly more enjoyable than dinner with the [Root.GetAdjective] ambassador.",
-        "translation": "跟[Root.GetAdjective]大使共进晚餐，比去粪池还恶心多了。",
+        "translation": "跟[Root.GetAdjective]大使共进晚餐，比去粪池还恶心。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -39,6 +44,7 @@
         "original": "Oh look. There's some lovely filth over here.",
         "translation": "快看！那边有一小坨可爱的脏东西！",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -46,20 +52,23 @@
         "original": "Your blood will make the soil I take from you all the richer.",
         "translation": "你们流的血可使我们从你们那里夺取的土地更肥沃。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_default8:0",
         "original": "The [Root.GetAdjective] know nothing about running a state!",
-        "translation": "[Root.GetAdjective]人根本不懂什么叫治国。",
-        "stage": 1,
+        "translation": "[Root.GetAdjective]根本不懂什么叫治国。",
+        "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_default9:0",
         "original": "There is a problem most rife with [Root.GetName], and I suspect the cause are the [Root.Culture.GetName].",
-        "translation": "[Root.GetName]这个国家全是问题，我怀疑原因是因为你们这些[Root.Culture.GetName]人。",
-        "stage": 5,
+        "translation": "[Root.GetName]普遍有问题，我怀疑原因是[Root.Culture.GetName]。",
+        "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -67,13 +76,15 @@
         "original": "In this great game we play, you are a mere pawn.",
         "translation": "在我们下的这局大棋里，你就是一个小卒子。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_default11:0",
         "original": "In [From.GetName], '[Root.GetName]' is a word synonymous with manure.",
-        "translation": "在[From.GetName]，『[Root.GetName]』跟屎是同义词。",
+        "translation": "在[From.GetName]，'[Root.GetName]'跟屎是同义词。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -81,13 +92,15 @@
         "original": "Tales of your misdeeds are told from Ireland to Cathay.",
         "translation": "你的恶行从爱尔兰到契丹无人不知，无人不晓。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_default13:0",
         "original": "[Root.GetAdjective] culture is something of an oxymoron, don't you think?",
         "translation": "[Root.GetAdjective]文化就是种矛盾修辞，你说是吧？",
-        "stage": 5,
+        "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -95,6 +108,7 @@
         "original": "May your sky be filled with comets.",
         "translation": "祝贵国满天都是扫把星。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -102,6 +116,7 @@
         "original": "No map can be a work of art as long as your nation is on it.",
         "translation": "当你国出现在地图上时，那地图就再也不能称为艺术品了。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -109,13 +124,15 @@
         "original": "What are you going to do, bleed on me?",
         "translation": "彼欲何为？欲血溅吾身邪？",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_bookkeeping:0",
         "original": "One day, even [Root.GetAdjective] merchants will understand bookkeeping.",
-        "translation": "将来会有一天，连[Root.GetAdjective]的商人都能理解什么是簿记。",
+        "translation": "总有一天，[Root.GetAdjective]的商人会知道该怎么记账。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -123,27 +140,31 @@
         "original": "Perhaps my armies should find out if all roads truly lead to Rome.",
         "translation": "也许我的军队应该确认一下是否条条大路通罗马。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_heir_hunter:0",
         "original": "I've heard your heir enjoys hunting. Do be careful, it would be such a shame if an unforseen accident would happen.",
-        "translation": "我听说你的继承人喜欢打猎。千万要注意安全呀，发生事故的话就太可惜了。",
-        "stage": 1,
+        "translation": "我听说你的继承人喜欢打猎。 千万要注意安全呀，发生事故的话就太可惜了。",
+        "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_monarchy:1",
         "original": "Your entire line suffers from delusions of adequacy.",
-        "translation": "阁下字里行间充斥着不切实际的幻想。",
+        "translation": "贵国充斥着不切实际的妄想。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_european_indian:0",
         "original": "So this is where pepper grows? It seems we have arrived just in time for a rich harvest...",
-        "translation": "这就是胡椒生长的地方？我们好像还赶上了收获季......",
-        "stage": 1,
+        "translation": "这就是胡椒生长的地方？ 我们好像还赶上了收获季......",
+        "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -151,6 +172,7 @@
         "original": "They say diamonds last forever, and you do seem to have a lot of them. Give us a few and we will find out if they can outlast your dynasty.",
         "translation": "有人说钻石恒久远，而你手头好像有不少钻石。交出来一点，我们会看看这东西是不是比贵国还要长命。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -158,6 +180,7 @@
         "original": "It is a dangerous wonder how a heathen such as yourself acquire such a rich and prosperous land. Luckily that will soon be rectified.",
         "translation": "像你们这样的异教徒占据着如此一片富饶的土地真是个危险的奇迹。还好，这马上就会被纠正。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -165,13 +188,15 @@
         "original": "Soon all your treasures will be ours, including that preposterous Turquoise chair you so treasure.",
         "translation": "很快你所有的财宝都将归我们所有，包括你那个宝贝绿松石椅。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_against_timurid:0",
         "original": "You could have been a fine nation, if you had not been so preoccupied with killing each other over who was more related to the greatest murderer of our time.",
-        "translation": "贵国本来可称一时之雄——若不是你们自相残杀来攀争本时代最伟大杀人魔王名头的话。",
+        "translation": "贵国本来可称一时之雄——如果不是你们杀自己人的劲头比这个时代最厉害的杀手还足的话。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -179,27 +204,31 @@
         "original": "While we were building a civilization you have kept in hiding among the vagrants of the Deccan. Bow now or meet your end at the hands of the heirs of Timur and Genghis.",
         "translation": "当我们筚路蓝缕开创基业时，你却躲在德干的流浪汉里。现在，向帖木儿及成吉思汗的继业者投降——或者死。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_portugal_vs_africa_or_india:0",
         "original": "We have traveled far and braved many perils to reach your shores. Nothing, however, could prepare us for the hideous sins of your heathen court.",
-        "translation": "我们远道而来历经万险登上贵国海岸。然而，没有什么艰难险阻能比得过你们异教统治下的罪恶渊薮。",
+        "translation": "我们费了好大劲才到达贵国海岸，现在，什么也阻止不了我们来审判你们这些异教徒那罪恶的灵魂了。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_against_habsburg:0",
         "original": "The [From.GetAdjective] throne shall not be sullied by your cursed and deformed line.",
-        "translation": "[From.GetAdjective]的王座绝不会被你那遭咒的畸形家族玷污。",
+        "translation": "[From.GetAdjective]王座绝不会被受诅咒且扭曲的你国所玷污。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_byz_to_ven:0",
         "original": "You are the scourge of this earth and shall be hanged from your walls for what you've done!",
-        "translation": "你是这片土地的灾难，你将因你的所作所为被绞死在自己的城墙上！",
+        "translation": "你就是地球的祸害，你就该因你做的事被吊在你家城墙上示众。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -207,6 +236,7 @@
         "original": "You fight like a cow!",
         "translation": "你打仗像个娘们！",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -214,13 +244,15 @@
         "original": "You fight like a dairy farmer!",
         "translation": "你打仗像个挤奶的！",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_low_dipadm:0",
         "original": "[Root.Monarch.GetName]'s head is as empty as a eunuch's underpants.",
-        "translation": "[Root.Monarch.GetName]的脑袋里装的东西跟太监的裤裆里差不多。",
-        "stage": 1,
+        "translation": "[Root.Monarch.GetName]的头像太监的内裤一样空洞。",
+        "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -228,6 +260,7 @@
         "original": "l2playnoob!",
         "translation": "菜鸡！",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -235,6 +268,7 @@
         "original": "Git gud.",
         "translation": "变强点再来，菜鸡 ！",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -242,55 +276,63 @@
         "original": "O Sultan, Turkish devil and damned devil's kith and kin, secretary to Lucifer himself.",
         "translation": "哦苏丹，土耳其的恶魔，该死的魔鬼的狐朋狗友，路西法他本人的走狗。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_muslim_truce:0",
         "original": "When our sons look back on today, it will be known that while you may have shaved off our beard, we will remove your arm.",
-        "translation": "当我们的子孙回顾今朝时，他们会知道：你们是伤到了我们一点须发，我们却要卸掉你们的臂膊。",
+        "translation": "当我们的后辈回顾今朝时，他们会知道：你们只伤到了我们一点须发，我们却打断了你们的手臂。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_against_denmark:0",
         "original": "There is something rotten in the state of Denmark.",
-        "translation": "在丹麦某些地方已变得腐败丛生。",
+        "translation": "在丹麦某些地方已变得腐败丛生",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_against_england:0",
         "original": "If [Root.Monarch.GetName] fell into the Thames, that would be a misfortune. But if someone dragged [Root.Monarch.GetHerHim] out again, that would be a calamity.",
-        "translation": "如果[Root.Monarch.GetName]掉进泰晤士河，那仅是一次不幸。但如果有人把[Root.Monarch.GetHerHim]再捞出来，那才是真正的灾难。",
+        "translation": "如果[Root.Monarch.GetName]掉进泰晤士河，那仅是一次不幸。 但如果有人把[Root.Monarch.GetHerHim]再捞出来，那才是真正的灾难。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_marprelate:0",
         "original": "[Root.Monarch.GetName] is a proud, popish, presumptuous, profane, pestilent, pernicious prelate and usurper.",
-        "translation": "[Root.Monarch.GetName]是一个自大、可悲、专横、亵渎、险恶以及有害的主教和篡位者。",
+        "translation": "[Root.Monarch.GetName]是一个自大，可悲，专横，亵渎，险恶，有害的主教和篡位者。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_marprelate2:0",
         "original": "Your [Root.Monarch.GetTitle] is an unlawful, unnatural, false, bastardly governor of the Church, the Ordinance of the Devil, petty Pope, anti-Christ, incarnate devil, cozening knave, and prolific liar.",
-        "translation": "你们的[Root.Monarch.GetTitle]是一个非法畸形伪冒私生的教会统治者、受魔鬼洗礼的人、伪教宗、反基督者、恶魔化身、超级无赖、高产骗子。",
+        "translation": "你这[Root.Monarch.GetTitle]是一个非法的，不自然的，虚假的，卑鄙的国度，充斥着恶魔仪式，伪教皇，反基督，魔鬼化身，蛊惑人心的恶咒以及一大堆骗子。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_against_saxony:0",
         "original": "It would be a shame if something were to happen to your Meissner porcelain...",
-        "translation": "要是你那些迈森瓷有什么三长两短，那就太可惜了……",
+        "translation": "要是你那些迈斯纳瓷器有什么三长两短，那就太可惜了。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_fort:0",
         "original": "Your walls will crumble before our cannon like sand before the sea.",
-        "translation": "你们的城墙将在我们的大炮面前崩塌，正如大海冲走流沙。",
+        "translation": "你的城墙在我们的大炮面前就像面对海浪的沙子一样脆弱。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -298,20 +340,23 @@
         "original": "Your corpse will pave the path of progress, [Root.Monarch.GetName]!",
         "translation": "[Root.Monarch.GetName]，你的尸体将铺平我们前进的道路！",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_monarchy_rank:0",
         "original": "Is that sorry thing on your head what passes for a crown in [Root.GetName]?",
-        "translation": "你头上的那个可怜玩意儿就是传给你的[Root.GetName]之冠？",
+        "translation": "你头上的那个可笑玩意儿就是[Root.GetName]的王冠？哈？",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_low_adm:0",
         "original": "I had another insult prepared for you, but I doubt you would be able to read it.",
-        "translation": "我又为你准备了另一条粗鄙之语，但我怀疑你能不能读到它了。",
+        "translation": "我又为你准备了另一条粗鄙之语，但我怀疑你是否能读懂。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -319,6 +364,7 @@
         "original": "It is time for the sun to set on the British empire.",
         "translation": "日不落帝国是时候落日了。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -326,6 +372,7 @@
         "original": "May you be sewn up alive in the belly of a dead camel.",
         "translation": "祝您被活活缝进死骆驼的肚子里。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -333,6 +380,7 @@
         "original": "I suggest you change your uniform trousers to brown.",
         "translation": "我建议你把制服裤子改成棕色。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -340,6 +388,7 @@
         "original": "Does [Root.Consort.GetName] know how many hand-maidens you keep in your chambers?",
         "translation": "[Root.Consort.GetName]是否知道你房间里藏了多少婊子？",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -347,6 +396,7 @@
         "original": "You are neither holy, nor Roman, nor an Empire.",
         "translation": "你国既不神圣，也不罗马，更非帝国。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -354,6 +404,7 @@
         "original": "Your eagle has two heads but not even one crown.",
         "translation": "你打着双头鹰旗，却一顶王冠也没有。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -361,6 +412,7 @@
         "original": "It is time you left.",
         "translation": "你该滚了。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -368,20 +420,23 @@
         "original": "Not even seppuku could restore your honor.",
         "translation": "即使是切腹也无法恢复你的荣誉。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_loans:0",
         "original": "The dreadful state of your economy is a warning to all would-be rulers.",
-        "translation": "你们经济的惨状是对所有未来统治者的警示。",
+        "translation": "你们经济的可怕状况是对所有未来统治者的警告。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_rebels:0",
         "original": "I hear your people are revolting. You have that in common.",
-        "translation": "我听说你的臣民在造反，真是有其君必有其民。",
+        "translation": "我听说贵国百姓在造反，真是有其君必有其民。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -389,13 +444,15 @@
         "original": "Can your soldiers hit a barn yet, or do they still think muskets are clubs?",
         "translation": "你的士兵能打中谷仓吗？还是说他们仍然把步枪当成棍子使？",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_golden_horde_vs_muscovy:0",
         "original": "You upstart tax collectors should know your place; being trampled under our horses!",
-        "translation": "你们这些收税的暴发户们应该明白你们的地位——在我们战马的铁蹄下！",
+        "translation": "你们这些暴发户应该明白你们的下场——被我们的马踩死！",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -403,13 +460,15 @@
         "original": "We will impale [Root.Monarch.GetName] on a spike, as we have done with your pathetic armies.",
         "translation": "我们会把[Root.Monarch.GetName]的头钉在矛尖上，就像我们对你们那可怜的军队所做的那样。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_barbary_pirates:0",
         "original": "You have haunted the waters of the Mediterranean for too long, cursed pirate!",
-        "translation": "你已经在地中海作祟太久了，遭瘟的海盗！",
+        "translation": "你已经祸害地中海水域太久了，可恶的海盗！",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -417,6 +476,7 @@
         "original": "You truly are the Sultan of Rum, you drunken swine!",
         "translation": "你真是朗姆国的苏丹，你这醉鬼！",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -424,6 +484,7 @@
         "original": "Your kingdom is truly worth only a horse.",
         "translation": "贵国的价值仅与一匹马相当。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -431,6 +492,7 @@
         "original": "We shall take your lives, and your freedom!",
         "translation": "我们将夺走你的生命，还有你的自由！",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -438,6 +500,7 @@
         "original": "May you succumb to Samsara and live a thousand lives without joy or enlightenment.",
         "translation": "愿你在不悦与蒙昧中轮回千世。",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -445,34 +508,39 @@
         "original": "Our arrows will blot out the sun!",
         "translation": "我们的弓箭将遮天蔽日！",
         "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "chinese_insult_1:0",
         "original": "I hear that [Root.Monarch.GetName] is a devout follower of the [Root.religion.GetName], which will decide [From.Monarch.GetHerHis] fate in the next life. But it is the Emperor who will decide your fate in this life.",
-        "translation": "吾闻[Root.Monarch.GetName]耽于[Root.religion.GetName]甚矣。[From.Monarch.GetHerHis]来世如何，区区神灵尚可指摘。尔等今生若何，却在吾皇股掌之间！",
+        "translation": "我听说[Root.Monarch.GetName]是[Root.religion.GetName]的虔信徒，[Root.religion.GetName]能决定[From.Monarch.GetHerHis]来世的命运。但是，我们的皇帝将决定你今生的命运。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "chinese_insult_2:0",
         "original": "Show your obedience to the Emperor and enjoy a happy life, or else you shall meet the Celestial Army!",
-        "translation": "朝于天子，许尔述职。不朝，六师移之！",
-        "stage": 1,
+        "translation": "朝於天子，许尔述职。不朝，六师移之！",
+        "stage": 5,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "chinese_insult_3:0",
         "original": "Your misdeeds so far are nothing but a petty sore. Correct them before they become infected beyond the point of help.",
-        "translation": "亡羊补牢，为时未晚。",
+        "translation": "到目前为止，你们所搞的破坏也不过是一点小小的疥疮，我们会在感染扩大到无法控制之前把它治好的。",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
         "key": "insult_explorer_vs_africa_or_india:0",
         "original": "Do you have a flag?",
-        "translation": "你们有国旗吗？",
+        "translation": "你的家族旗帜呢？",
         "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     },
     {
@@ -480,48 +548,7 @@
         "original": "Listen, strange women lying in ponds distributing swords is no basis for a system of government. Supreme executive power derives from a mandate from the masses, not from some farcical aquatic ceremony.",
         "translation": "听着，躺在池塘里送上剑的奇怪女人（指湖中剑的典故）并不能成为国家统治权的来源。统治权来自人民，而非某些滑稽的水上仪式。",
         "stage": 1,
-        "file": "localisation/insults_l_english.yml"
-    },
-    {
-        "key": "insult_pirates_1:0",
-        "original": "What did you just say to me, you scallywag? I have sailed the seven seas and have over a hundred confirmed boardings.",
-        "translation": "饭桶！你刚刚跟我说什么？我远航七海，足登百舰。",
-        "stage": 1,
-        "file": "localisation/insults_l_english.yml"
-    },
-    {
-        "key": "insult_pirates_2:0",
-        "original": "I will rain grapeshot all over you and you will choke on it. You're sunk, you blackguard.",
-        "translation": "我要用霰弹把你打成筛子，让你被弹丸和鲜血窒息。淹死吧，你这恶棍！",
-        "stage": 1,
-        "file": "localisation/insults_l_english.yml"
-    },
-    {
-        "key": "insult_pirates_3:0",
-        "original": "If you keep on drinking rum, the world will soon be quit of a very dirty scoundrel!",
-        "translation": "要是你能一直这样喝朗姆酒，这个世界就能摆脱一个肮脏的恶棍了！",
-        "stage": 1,
-        "file": "localisation/insults_l_english.yml"
-    },
-    {
-        "key": "insult_pirates_4:0",
-        "original": "I once owned a dog that was smarter than you",
-        "translation": "我养过一条比你聪明的狗",
-        "stage": 1,
-        "file": "localisation/insults_l_english.yml"
-    },
-    {
-        "key": "insult_pirates_5:0",
-        "original": "I give you a choice. You can be gutted, or decapitated!",
-        "translation": "我给你两个选择，被剖腹，或是被斩首！",
-        "stage": 1,
-        "file": "localisation/insults_l_english.yml"
-    },
-    {
-        "key": "insult_jungle:0",
-        "original": "It is true, I admit, that [Root.GetName] is of greater extent than [From.GetName]. But you must agree that [From.Monarch.GetName] rules over men, while [Root.GetName] rules only over forests and mosquitoes.",
-        "translation": "这点我得承认，[Root.GetName]的确比[From.GetName]拥有更加广阔的领土。但你也得承认，[From.Monarch.GetName]统治着人类，而[Root.GetName]统治的都是森林和蚊子！",
-        "stage": 1,
+        "context": "",
         "file": "localisation/insults_l_english.yml"
     }
 ]
