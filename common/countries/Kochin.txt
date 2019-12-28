@@ -31,7 +31,6 @@ historical_units = {
 monarch_names = {
   "Unni Rama Koil #0" = 10
   "Ravi Varma #0" = 10
-  "Goda Varma #0" = 10
   "Kerala Varma #0" = 30
   "Vira Rayira Varma #0" = 10
   "Kesara Rama Varma #1" = 10
@@ -40,14 +39,12 @@ monarch_names = {
   "Raja #0" = 0
   "Swathi #0" = 0
   "Thirunal #0" = 0
-  "Marthanda #0" = 0
   "Veerarayira #0" = 0
   "Ayilyam #0" = 0
   "Nilakantan #0" = 0
   "Aravindaksha #0" = 0
   "Moolam #0" = 0
   "Uthram #0" = 0
-  "Goda #0" = 0
   "Sakthan  #0" = 0
   "Rama #0" = 0
   "Balarama #0" = 0
@@ -56,8 +53,11 @@ monarch_names = {
   "Gangadhara Lakshmi #0" = -10
   "Seema #0" = -1
   "Lalitha #0" = -1
+  "戈达 #0" = 0  # Goda #0
   "达摩 #0" = 0  # Dharma #0
+  "摩颠多 #0" = 0  # Marthanda #0
   "罗摩 跋摩 #0" = 50  # Rama Varma #0
+  "戈达 跋摩 #0" = 10  # Goda Varma #0
   "毗罗 喀拉拉 跋摩 #0" = 30  # Vira Kerala Varma #0
 }
 leader_names = {
@@ -74,7 +74,7 @@ leader_names = {
   "Kurup"
 }
 ship_names = {
-  "Amirtha"
+  "不死甘露"  # Amirtha
   "Amman"
   "Arul"
   "查拉姆"  # Chellam
