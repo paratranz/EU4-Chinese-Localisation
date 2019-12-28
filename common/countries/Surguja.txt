@@ -25,11 +25,9 @@ historical_units = {
 monarch_names = {
   "Hirde #1" = 15
   "Madhukara Sahi #0" = 20
-  "Dhundya Ram Sah #0" = 20
   "Krasna Sah #0" = 20
   "Bir Sah #0" = 20
   "Hiradi #0" = 20
-  "Ram Sah #0" = 20
   "Nilkanth Sah #0" = 20
   "Bahkt Buland #0" = 20
   "Bhuma #0" = 0
@@ -37,12 +35,14 @@ monarch_names = {
   "Babji #0" = 0
   "Dhundya #0" = 0
   "Kondya #0" = 0
-  "Ram #0" = 0
   "Krasna #0" = 0
   "Durgavati #0" = -10
   "Hirai #0" = -10
   "罗怛那 库瓦 #0" = -1  # Ratna Kuvar #0
+  "罗摩 #0" = 0  # Ram #0
   "旃陀 #0" = 20  # Chanda #0
+  "罗摩 娑 #0" = 20  # Ram Sah #0
+  "杜迪亚 罗摩 娑 #0" = 20  # Dhundya Ram Sah #0
   "钱德拉 沙希 #0" = 15  # Chandra Sahi #0
   "那罗衍那 #0" = 15  # Vir Narayana #0
   "达伊帕忒 僧诃 #0" = 20  # Daipat Simha #0
@@ -83,7 +83,7 @@ ship_names = {
   "Nilima"
   "Paradeep"
   "Parvati"
-  "Radha"
+  "罗陀"  # Radha
   "Sarasvati"
   "Sharmistha"
   "图里"  # Tuli
