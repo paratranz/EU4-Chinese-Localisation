@@ -27,7 +27,6 @@ historical_units = {
 monarch_names = {
   "Sulaymân #0" = 20
   "Yazîd #0" = 0
-  "Alim #1" = 15
   "al-Walîd #0" = 0
   "Ataullah #0" = 0
   "Azhar #0" = 0
@@ -52,12 +51,12 @@ monarch_names = {
   "Yûsuf #0" = 0
   "Selima #0" = -1
   "Widad #0" = -1
-  "Aisha #0" = -1
   "Khnata #0" = -5
   "Bilqis #0" = -1
-  "Alwa #0" = -1
+  "阿勒瓦 #0" = -1  # Alwa #0
   "哈里马 #0" = -1  # Halima #0
   "扎伊达纳 #0" = -5  # Zaidana #0
+  "阿伊莎 #0" = -1  # Aisha #0
   "塔米纳 #0" = -1  # Thamina #0
   "萨娜 #0" = -1  # Thana #0
   "佐勒菲卡尔 #0" = 0  # Zulfiqar #0
@@ -70,6 +69,7 @@ monarch_names = {
   "哈基姆 #0" = 0  # Hakim #0
   "哈菲兹 #0" = 0  # Hafiz #0
   "哈比卜 #0" = 0  # Habib #0
+  "阿利姆 #1" = 15  # Alim #1
   "扎伊丹 #0" = 20  # Zaydân #0
   "艾哈迈德 #0" = 20  # Ahmad #0
   "阿卜杜勒 马利克 #0" = 20  # 'Abd al-Malik #0
@@ -79,7 +79,7 @@ monarch_names = {
 leader_names = {
   "哈吉"  # Hadji
   "Sediki"
-  "Alami"
+  "阿拉米"  # Alami
   "Aouita"
   "Behar"
   "Berui"
@@ -101,7 +101,7 @@ ship_names = {
   "Muqit"
   "哈菲兹"  # Hafiz
   "Kabir"
-  "Ali"
+  "阿里"  # Ali
   "Shakur"
   "Ghafur"
   "Azim"

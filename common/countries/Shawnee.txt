@@ -27,15 +27,12 @@ historical_units = {
 monarch_names = {
   "Cottawamago #0" = 20
   "Weyapersenwah #0" = 10
-  "Kakawipilathy #0" = 20
   "Malunthy #0" = 20
   "Meanymsecahh #0" = 20
   "Wawelainni #0" = 20
   "Kishkalwa #0" = 20
   "Maywathekeha #0" = 20
-  "Napawita #0" = 20
   "Papamousse #0" = 20
-  "Wyawimon #0" = 20
   "Pelmetachemo #0" = 20
   "Neahmemsieeh #0" = 20
   "Makatewekasha #0" = 20
@@ -70,7 +67,9 @@ monarch_names = {
   "卡特韦卡绍 #0" = 20  # Cutthewekasaw #0
   "米斯夸库纳考 #0" = 20  # Misquacoonacaw #0
   "夸马佩亚 #0" = 20  # Quamapea #0
+  "怀亚维蒙 #0" = 20  # Wyawimon #0
   "佩米塔坎奇卡 #0" = 20  # Pemitacamchika #0
+  "纳帕瓦塔 #0" = 20  # Napawita #0
   "瓦奎崴斯 #0" = 20  # Waquiwais #0
   "内拉瓦奇卡 #0" = 20  # Nelawachika #0
   "帕特扣萨 #0" = 20  # Pathecoussa #0
@@ -78,6 +77,7 @@ monarch_names = {
   "尼希佩瓦 #0" = 20  # Nihipeewa #0
   "沃波科韦拉 #0" = 20  # Waupaucowela #0
   "穆斯夸科诺卡 #0" = 20  # Musquaconocah #0
+  "卡卡维皮拉蒂 #0" = 20  # Kakawipilathy #0
   "阿威科尼 #0" = 20  # Aweecony #0
   "特库姆塞 #0" = 10  # Tecumseh #0
   "怀尼普切西卡 #0" = 20  # Wynepuechisika #0
@@ -87,12 +87,12 @@ monarch_names = {
 leader_names = {
   "Auglaize"
   "阿拉韦莫塔卡"  # Alawaymotakah
-  "Akepee"
+  "阿凯佩"  # Akepee
   "阿魁洛玛"  # Aqueloma
   "奇利科西"  # Chillicothe
   "Calaka"
   "查拉卡塔"  # Chalaakaatha
-  "Conedogwinit"
+  "科内多维尼特"  # Conedogwinit
   "哈撒韦凯拉"  # Hathawekela
   "Hisoskok"
   "霍卡韦皮塔蒂"  # Hawkawepitathy
@@ -101,19 +101,19 @@ leader_names = {
   "基斯波科塔"  # Kispokotha
   "科沙奇金克"  # Koshachkink
   "Kagoughsage"
-  "Kickapougowi"
+  "基卡普戈维"  # Kickapougowi
   "基斯利佩卡努克"  # Kithlipecanuk
   "梅夸恰克"  # Mequachake
   "Maykujay"
   "梅科切"  # Mekoce
   "马古克"  # Maguck
-  "Oawikila"
+  "奥亚维基拉"  # Oawikila
   "奥奇普维"  # Ochipway
   "Okowellos"
   "Opeatako"
   "Oshawahnah"
   "皮夸"  # Piqua
-  "Pekowi"
+  "佩科维"  # Pekowi
   "帕克斯唐"  # Paxtang
   "培克斯丹"  # Peixtan
   "Paheto"
@@ -123,7 +123,7 @@ leader_names = {
   "Sawauwone"
   "Saweeto"
   "绍昆克"  # Sawcunk
-  "Sewickley"
+  "塞威克利"  # Sewickley
   "沙莫金"  # Shamokin
   "Sonnioto"
   "沙维基拉"  # Thaawikila
@@ -131,7 +131,7 @@ leader_names = {
   "蒂珀卡努"  # Tippecanoe
   "Sylacauga"
   "Wakatomica"
-  "Wakatawicks"
+  "瓦卡塔维克斯"  # Wakatawicks
   "Wapakoneta"
   "Wabapusito"
   "Wagunetee"
