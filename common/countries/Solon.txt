@@ -32,36 +32,6 @@ monarch_names = {
   "Fiyahan #0" = 0
   "Fiyasha #0" = 0
   "Megu #0" = 0
-  "Ocir #0" = 0
-  "Ofono #0" = 0
-  "Oha #0" = 0
-  "Okson #0" = 0
-  "Orhodai #0" = 0
-  "Ordo #0" = 0
-  "Sabi #0" = 0
-  "Sadun #0" = 0
-  "Saha #0" = 0
-  "Sahada #0" = 0
-  "Sahaliyan #0" = 0
-  "Sahana #0" = 0
-  "Saise #0" = 0
-  "Sehe #0" = 0
-  "Sele #0" = 0
-  "Selmin #0" = 0
-  "Solho #0" = 0
-  "Solon #0" = 0
-  "Suburi #0" = 0
-  "Sube #0" = 0
-  "Sudan #0" = 0
-  "Suhe #0" = 0
-  "Suiha #0" = 0
-  "Suilan #0" = 0
-  "Sunggina #0" = 0
-  "Sunta #0" = 0
-  "Suya #0" = 0
-  "Sahun #0" = 0
-  "Sari #0" = 0
-  "Sunjaci #0" = 0
   "Talman #0" = 0
   "Tantu #0" = 0
   "To #0" = 0
@@ -78,7 +48,6 @@ monarch_names = {
   "Uli #0" = 0
   "Umudu #0" = 0
   "Usun #0" = 0
-  "USaku #0" = 0
   "Yabu #0" = 0
   "Yala #0" = 0
   "Yaki #0" = 0
@@ -91,6 +60,7 @@ monarch_names = {
   "Wen #0" = -1
   "元宝 #0" = 0  # Yuwamboo #0
   "殷泰 #0" = 0  # Yentai #0
+  "吴沙库 #0" = 0  # USaku #0
   "温都礼 #0" = 0  # Unduri #0
   "温察 #0" = 0  # Unca #0
   "吴尔佳齐 #0" = 0  # Ulgiyaci #0
@@ -103,23 +73,53 @@ monarch_names = {
   "托罗 #0" = 0  # Toro #0
   "唐古哈 #0" = 0  # Tangguha #0
   "他克图巴图鲁 #0" = 0  # Taktu Baturu #0
+  "孙札齐 #0" = 0  # Sunjaci #0
+  "沙礼 #0" = 0  # Sari #0
+  "沙浑 #0" = 0  # Sahun #0
+  "苏雅 #0" = 0  # Suya #0
+  "孙塔 #0" = 0  # Sunta #0
+  "宋吉纳 #0" = 0  # Sunggina #0
   "松科罗巴图鲁 #0" = 0  # Songkoro Baturu #0
+  "绥兰 #0" = 0  # Suilan #0
+  "绥哈 #0" = 0  # Suiha #0
   "苏和臣 #0" = 0  # Suhecen #0
+  "苏赫 #0" = 0  # Suhe #0
+  "苏丹 #0" = 0  # Sudan #0
+  "苏白 #0" = 0  # Sube #0
+  "苏布礼 #0" = 0  # Suburi #0
   "索宁巴图鲁 #0" = 0  # Sonin Baturu #0
   "索宁巴克什 #0" = 0  # Sonin Baksi #0
   "索额图巴图鲁 #0" = 0  # Songgotu Baturu #0
+  "索伦 #0" = 0  # Solon #0
+  "索尔和 #0" = 0  # Solho #0
   "西特库 #0" = 0  # Siteku #0
   "西兰 #0" = 0  # Silan #0
   "辛泰 #0" = 0  # Sintai #0
   "席锦泰 #0" = 0  # Sijintai #0
   "星格里 #0" = 0  # Singgeri #0
+  "色尔敏 #0" = 0  # Selmin #0
+  "色勒 #0" = 0  # Sele #0
+  "色赫 #0" = 0  # Sehe #0
   "桑阿布 #0" = 0  # Sanggabu #0
   "萨穆哈 #0" = 0  # Samha #0
+  "赛色 #0" = 0  # Saise #0
   "赛弼甘 #0" = 0  # Saibigan #0
+  "萨哈纳 #0" = 0  # Sahana #0
+  "萨哈连 #0" = 0  # Sahaliyan #0
+  "萨哈达 #0" = 0  # Sahada #0
+  "萨哈 #0" = 0  # Saha #0
+  "萨敦 #0" = 0  # Sadun #0
+  "萨弼 #0" = 0  # Sabi #0
   "萨布当阿 #0" = 0  # Sabdangga #0
+  "鄂尔多 #0" = 0  # Ordo #0
   "翁额洛 #0" = 0  # Ongoro #0
+  "鄂尔和岱 #0" = 0  # Orhodai #0
   "鄂伦 #0" = 0  # Olon #0
+  "鄂克逊 #0" = 0  # Okson #0
   "鄂尔博 #0" = 0  # Olbo #0
+  "鄂哈 #0" = 0  # Oha #0
+  "鄂福和 #0" = 0  # Ofono #0
+  "鄂齐尔 #0" = 0  # Ocir #0
   "穆舒 #0" = 0  # Musu #0
   "倪雅达 #0" = 0  # Niyada #0
   "倪什哈 #0" = 0  # Nisiha #0
@@ -497,18 +497,18 @@ leader_names = {
   "纳塔"  # Nata
   "纳雅"  # Naya
   "纳木都鲁"  # Namdolu
-  "Omoto"
-  "Oji"
-  "Sumuru"
-  "Sakda"
+  "鄂莫托"  # Omoto
+  "鄂吉"  # Oji
+  "舒穆禄"  # Sumuru
+  "萨克达"  # Sakda
   "西林觉罗"  # Sirin gioro
   "萧贺礼"  # Sioheri
-  "Sartu"
-  "Semira"
+  "萨尔图"  # Sartu
+  "色弥喇"  # Semira
   "西克特礼"  # Sikteri
-  "Saca"
+  "萨察"  # Saca
   "萨玛尔吉"  # Samargi
-  "Sakdaholo"
+  "萨克达和乐"  # Sakdaholo
   "尚佳"  # Sanggiya
   "喜塔喇"  # Sitara
   "松佳"  # Sunggiya
@@ -516,20 +516,20 @@ leader_names = {
   "萨马拉"  # Samara
   "绥佳"  # Suigiya
   "西克特礼"  # Sikteli
-  "Sakca"
+  "萨克查"  # Sakca
   "索查喇"  # Socara
-  "Sahajiri"
+  "萨哈吉利"  # Sahajiri
   "索绰尔"  # Socor
-  "Saimire"
+  "赛弥勒"  # Saimire
   "索尔吉"  # Sorgi
   "索佳"  # Sogiya
   "索尔佳"  # Sorgiya
   "实佳"  # Sigiya
-  "Saimire"
-  "Surtu"
-  "Seheri"
-  "Sadara"
-  "Suru"
+  "赛弥勒"  # Saimire
+  "舒尔图"  # Surtu
+  "色赫哩"  # Seheri
+  "沙达喇"  # Sadara
+  "舒噜"  # Suru
   "舒克达"  # Sikda
   "Tatara"
   "佟佳"  # Tunggiya
