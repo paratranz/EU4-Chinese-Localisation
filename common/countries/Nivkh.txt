@@ -28,18 +28,12 @@ historical_units = {
   reformed_steppe_rifles
 }
 monarch_names = {
-  "Fulin #0" = 20
-  "Fiyada #0" = 0
-  "Fiyahan #0" = 0
-  "Fiyasha #0" = 0
   "Hulan #0" = 0
   "Megu #0" = 0
-  "Talman #0" = 0
-  "Tantu #0" = 0
   "To #0" = 0
-  "Fen #0" = -1
   "Jian #0" = -1
   "温 #0" = -1  # Wen #0
+  "汾 #0" = -1  # Fen #0
   "元宝 #0" = 0  # Yuwamboo #0
   "岳洛 #0" = 0  # Yoro #0
   "岳乐 #0" = 0  # Yolo #0
@@ -73,7 +67,9 @@ monarch_names = {
   "图尔浑 #0" = 0  # Tulhun #0
   "图弼赫 #0" = 0  # Tubihe #0
   "托罗 #0" = 0  # Toro #0
+  "谈图 #0" = 0  # Tantu #0
   "唐古哈 #0" = 0  # Tangguha #0
+  "塔勒满 #0" = 0  # Talman #0
   "他克图巴图鲁 #0" = 0  # Taktu Baturu #0
   "孙札齐 #0" = 0  # Sunjaci #0
   "沙礼 #0" = 0  # Sari #0
@@ -240,7 +236,10 @@ monarch_names = {
   "噶达浑 #0" = 0  # Gadahun #0
   "噶布喇巴图鲁 #0" = 0  # Gabula Baturu #0
   "噶布喇 #0" = 0  # Gabula #0
+  "费雅思哈 #0" = 0  # Fiyasha #0
+  "费雅汉 #0" = 0  # Fiyahan #0
   "费扬阿 #0" = 0  # Fiyangga #0
+  "费雅达 #0" = 0  # Fiyada #0
   "法谭 #0" = 0  # Fatan #0
   "法特哈 #0" = 0  # Fatha #0
   "方额 #0" = 0  # Fangge #0
@@ -332,6 +331,7 @@ monarch_names = {
   "弘历 #0" = 20  # Hung Li #0
   "胤禛 #0" = 20  # In Jen #0
   "玄烨 #0" = 20  # Hiowan Yei #0
+  "福临 #0" = 20  # Fulin #0
   "豪格 #0" = 10  # Hooge #0
   "多尔衮 #0" = 10  # Dorgon #0
   "皇太极 #0" = 20  # Huang Taiji #0
@@ -386,19 +386,19 @@ leader_names = {
   "都克塔"  # Dukta
   "都克塔哩"  # Duktari
   "鄂尔格"  # Elge
-  "Esuri"
-  "Ertut"
+  "额苏哩"  # Esuri
+  "额尔图待"  # Ertut
   "富察"  # Fuca
-  "Foimo"
-  "Fiya"
-  "Fujuri"
+  "费摩"  # Foimo
+  "费雅"  # Fiya
+  "富珠哩"  # Fujuri
   "瓜尔佳"  # Guwalgiya
   "觉罗"  # Gioro
   "觉尔察"  # Giorca
   "觉罗哈喇"  # Gioro Hala
   "觉尔禅"  # Giorcan
   "格济勒"  # Gejile
-  "Guwalca"
+  "瓜尔查"  # Guwalca
   "郭尔洛"  # Gorlo
   "济朗吉瓦尔喀"  # Giranggi Warka
   "格伦觉罗"  # Gerungioro
@@ -437,10 +437,10 @@ leader_names = {
   "伊尔根觉罗"  # Irgen Gioro
   "伊尔根巴图鲁"  # Irgen Baturu
   "依图玛"  # Ituma
-  "Ira"
+  "依喇"  # Ira
   "赵佳"  # Joogiya
-  "Jalari"
-  "Jakuta"
+  "札喇理"  # Jalari
+  "查库塔"  # Jakuta
   "章佳"  # Janggiya
   "章齐"  # Jangci
   "Jerde"
@@ -531,21 +531,21 @@ leader_names = {
   "沙达喇"  # Sadara
   "舒噜"  # Suru
   "舒克达"  # Sikda
-  "Tatara"
+  "塔塔喇"  # Tatara
   "佟佳"  # Tunggiya
-  "Tajagiorca"
+  "塔札觉尔查"  # Tajagiorca
   "托科罗"  # Tokoro
   "昌佳"  # Tsanggiya
   "托莫"  # Tomo
   "陶立"  # Tooli
-  "Taicuru"
+  "泰储禄"  # Taicuru
   "冈色礼"  # Tuseri
   "托穆"  # Tomu
   "冈克坦"  # Tuktan
   "通吉"  # Tunggi
   "图门"  # Tumen
   "托罗特"  # Tolote
-  "Taicuru"
+  "泰储禄"  # Taicuru
   "温特赫"  # Untahe
   "乌札拉"  # Ujala
   "乌尔古禅"  # Urgucan
