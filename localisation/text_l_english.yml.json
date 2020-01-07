@@ -9130,7 +9130,7 @@
     {
         "key": "CALLREQDESC2:0",
         "original": "The nation of $COUNTRY$, $ALLIANCETYPEDESC$, is requesting that you come to their aid in the $WARNAME$ against $LIST$.",
-        "translation": "$COUNTRY$，$ALLIANCETYPEDESC$，正在请求你在 $WARNAME$ 中帮助他们对抗 $LIST$。",
+        "translation": "$ALLIANCETYPEDESC$$COUNTRY$请求你在$WARNAME$中帮助他们对抗 $LIST$。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -9170,7 +9170,7 @@
     {
         "key": "OUR_SUBJECT_DESC:0",
         "original": "our $LOYALDISLOYAL$ $SUBJECTTYPE$",
-        "translation": "我们的$LOYALDISLOYAL$ $SUBJECTTYPE$",
+        "translation": "我们$LOYALDISLOYAL$$SUBJECTTYPE$",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -61810,7 +61810,7 @@
     {
         "key": "GREAT_PROJECT_CONSTRUCTION_DESC:0",
         "original": "The great project $NAME|Y$ will be done on $DATE$",
-        "translation": "这项伟大的$NAME|Y$工程将会在$DATE$完工",
+        "translation": "这项伟大的$NAME|Y$工程将会在$DATE$完工。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
