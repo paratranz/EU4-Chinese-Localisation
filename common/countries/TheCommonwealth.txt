@@ -47,8 +47,6 @@ monarch_names = {
   "Mykolas #0" = 0
   "Paulius #0" = 0
   "Petras #0" = 0
-  "Raimondas #0" = 0
-  "Ramunas #0" = 0
   "Steponas #0" = 0
   "维尔塔特 #0" = -1  # Viltauté #0
   "莫尔塔 #0" = -1  # Morta #0
@@ -59,6 +57,8 @@ monarch_names = {
   "维克多拉斯 #0" = 0  # Viktoras #0
   "托马斯 #0" = 0  # Tomas #0
   "斯基尔盖拉 #1" = 0  # Skirgaila #1
+  "拉蒙纳斯 #0" = 0  # Ramunas #0
+  "莱蒙达斯 #0" = 0  # Raimondas #0
   "普兰齐斯库斯 #0" = 0  # Pranciskus #0
   "柳德维卡斯 #0" = 0  # Liudvikas #0
   "利纳斯 #0" = 0  # Linas #0
@@ -247,8 +247,8 @@ leader_names = {
   "Sapieha"
   "Tarlo"
   "托米茨基"  # Tomicki
-  "Tyzenhaus"
-  "Tyszkiewicz"
+  "蒂曾豪斯"  # Tyzenhaus
+  "蒂什凯维奇"  # Tyszkiewicz
   "乌汉斯基"  # Uchanski
   "怀霍夫斯基"  # Wyhowski
   "维洛波尔斯基"  # Wielopolski
@@ -270,7 +270,7 @@ leader_names = {
   "Zabiello"
 }
 ship_names = {
-  "Arka Noego"
+  "诺亚方舟"  # Arka Noego
   "Bialy Orzel"
   "Burza"
   "Bialy Lew"
@@ -278,16 +278,16 @@ ship_names = {
   "Belzkie"
   "布拉茨瓦夫省"  # Braclawskie
   "慈济"  # Charitas
-  "Czarny Orzel"
-  "Czarny Kruk"
+  "黑鹰"  # Czarny Orzel
+  "黑鸦"  # Czarny Kruk
   "海乌姆瑙省"  # Chelminskie
   "切尔尼戈夫省"  # Czernichowskie
   "Fortuna"
   "Gryf"
-  "Gwiazda"
+  "星辰"  # Gwiazda
   "格涅兹诺省"  # Gnieznienskie
   "Inoworclawskie"
-  "Król Dawid"
+  "大卫王"  # Król Dawid
   "Kaliskie"
   "克拉科夫省"  # Krakowskie
   "基辅省"  # Kijowskie
@@ -300,8 +300,8 @@ ship_names = {
   "Maly Bialy Orzel"
   "马尔堡省"  # Malborskie
   "马佐夫舍省"  # Mazowieckie
-  "Niewrazliwy"
-  "Nowy Czarny Orzel"
+  "坚韧"  # Niewrazliwy
+  "新黑鹰"  # Nowy Czarny Orzel
   "先知塞缪尔"  # Prorok Samuel
   "Panna Wodna"
   "Plomien"
@@ -309,15 +309,15 @@ ship_names = {
   "普洛茨克省"  # Plockie
   "普沃茨克省"  # Podlaskie
   "波多尔省"  # Podolskie
-  "Rycerz Swiety Jerzy"
+  "骑士圣乔治"  # Rycerz Swiety Jerzy
   "拉瓦省"  # Rawskie
   "鲁塞尼亚省"  # Ruskie
   "射手座"  # Strzelec
-  "Suwerenny"
-  "Swiety Piotr"
+  "至高主权"  # Suwerenny
+  "圣彼得"  # Swiety Piotr
   "谢拉兹省"  # Sieradzkie
   "桑多梅日省"  # Sandomierskie
-  "Swiety Kazimierz"
+  "圣卡齐米日"  # Swiety Kazimierz
   "Wielkie Slonce"
   "Wodnik"
   "瓦尔米亚省"  # Warminskie
@@ -336,14 +336,14 @@ ship_names = {
   "Lazdijai"
   "Naugardukas"
   "Palanga"
-  "Raseiniai"
+  "拉塞尼艾"  # Raseiniai
   "希奥利艾"  # Siauliai
   "Sventoji"
   "Taurage"
   "Telsiai"
   "Trakai"
   "Utena"
-  "Vilkmerge"
+  "维尔克梅尔格"  # Vilkmerge
 }
 army_names = {
   "$PROVINCE$军"  # Armia z $PROVINCE$

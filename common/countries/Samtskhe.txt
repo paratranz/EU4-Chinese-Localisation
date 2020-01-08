@@ -37,23 +37,23 @@ monarch_names = {
   "Baadur #0" = 10
   "Kaikhosro #0" = 30
   "Mzetchabuk #0" = 10
-  "Tsotne #0" = 0
   "Zaal #0" = 0
   "Zaza #0" = 0
   "Tamar #0" = -20
   "Rusudan #0" = -10
   "Ketevan #0" = -5
-  "Nino #0" = -1
   "Elene #0" = -1
-  "Ana #0" = -1
   "Mariam #0" = -1
   "Khoreshan #0" = -1
   "Sitikhatun #0" = -1
   "Dedisimedi #0" = -5
+  "安娜 #0" = -1  # Ana #0
+  "尼诺 #0" = -1  # Nino #0
   "季纳京 #0" = -5  # Tinatin #0
   "达雷扬 #0" = -5  # Darejan #0
   "内斯唐 达雷扬 #0" = -10  # Nestan-Darejan #0
   "兹维亚德 #0" = 0  # Zviad #0
+  "措特涅 #0" = 0  # Tsotne #0
   "托尔尼克 #0" = 0  # Tornike #0
   "伊万涅 #2" = 10  # Ivane #2
   "萨尔吉斯 #2" = 10  # Sargis #2
@@ -64,31 +64,31 @@ monarch_names = {
 }
 leader_names = {
   "Amilakhori"
-  "Avilishvili"
+  "阿维利什维利"  # Avilishvili
   "迪亚萨米泽"  # Diasamidze
-  "Gaganidze"
-  "Gogibashvili"
-  "Gogorishvili"
-  "Khildirbegashvili"
+  "加加尼泽"  # Gaganidze
+  "戈季巴什维利"  # Gogibashvili
+  "格格里什维利"  # Gogorishvili
+  "奇鲁迪尔贝加什维利"  # Khildirbegashvili
   "Kobulisdze"
   "Kopasdze"
-  "Palavandishvili"
+  "帕拉万迪什维利"  # Palavandishvili
   "Panaskerteli"
-  "Shalikashvili"
-  "Sologashvili"
-  "Sumbatishvili"
+  "沙利卡什维利"  # Shalikashvili
+  "索罗噶什维利"  # Sologashvili
+  "萨姆巴蒂什维利"  # Sumbatishvili
   "Tavdgiridze"
   "图卡雷利"  # Tukhareli
 }
 ship_names = {
   "Aghbugha"
   "Amirani"
-  "Armazi"
-  "Anakopia"
+  "阿尔马奇"  # Armazi
+  "阿纳克皮亚"  # Anakopia
   "Artaani"
-  "Argo"
-  "Apsaros"
-  "Avtandil"
+  "阿尔戈"  # Argo
+  "阿普萨罗斯"  # Apsaros
+  "阿夫坦季尔"  # Avtandil
   "Beka"
   "Bichvinta"
   "Beshken"
@@ -101,8 +101,8 @@ ship_names = {
   "季瓦里 瓦兹萨"  # Jvari Vazisa
   "Khornabuji"
   "Lasharisjvari"
-  "Ninotsminda"
-  "Okros Satsmisi"
+  "尼诺茨明达"  # Ninotsminda
+  "奥克罗斯 萨茨米西"  # Okros Satsmisi
   "Parnavaz"
   "Phasis"
   "Pityus"
@@ -111,8 +111,8 @@ ship_names = {
   "Svetitskhoveli"
   "Shota Rustaveli"
   "他玛"  # Tamar
-  "Tsminda Giorgi"
-  "Tsotne Dadiani"
+  "亚兹明达 乔治"  # Tsminda Giorgi
+  "措特涅 达季阿尼"  # Tsotne Dadiani
   "Tetri Giorgi"
   "Uplistsikhe"
   "瓦赫坦"  # Vakhtang Gorgasali

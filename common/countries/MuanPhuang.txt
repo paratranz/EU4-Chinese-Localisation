@@ -26,14 +26,10 @@ historical_units = {
 }
 monarch_names = {
   "Khai Bua Ban #0" = 20
-  "Laasaenthai #0" = 20
   "Sompou #0" = 20
   "Photisarat #0" = 30
-  "Setthathirat #0" = 35
-  "Saensurin #0" = 20
   "Nakhon Noi #0" = 20
   "Nokeo Koumanh #0" = 20
-  "Thammikarat #0" = 20
   "Upanyuvarat #0" = 20
   "Mon Keo #0" = 20
   "Vichai #0" = 20
@@ -42,20 +38,20 @@ monarch_names = {
   "Fa Kheun #0" = 10
   "Fay Na #0" = 5
   "Ma Noi #0" = 5
-  "Kin Kitsarat #0" = 5
-  "Ong Kham #0" = 5
-  "Inthaphom Yo #0" = 5
   "Sotika Koumane #0" = 5
-  "Anurutha #0" = 5
-  "Manthaturat #0" = 5
   "ChãÖ #0" = -1
   "Manora #0" = -1
   "Souphutta #0" = -1
   "Anousa #0" = -1
   "Nokasat #0" = -1
   "南皎 皮帕 #0" = -1  # Nang Keo Phimpha #0
+  "曼塔图腊 #0" = 5  # Manthaturat #0
+  "阿奴鲁陀 #0" = 5  # Anurutha #0
+  "因陀蓬 育 #0" = 5  # Inthaphom Yo #0
   "因陀罗旺萨 #0" = 5  # Inthara Vongsa #0
   "陶安 #0" = 5  # Thao Ang #0
+  "翁堪 #0" = 5  # Ong Kham #0
+  "景基萨腊 #0" = 5  # Kin Kitsarat #0
   "罗阇补 育 #0" = 5  # Rajabud Yo #0
   "嘉农 #0" = 5  # Cha Nou #0
   "诺芒 #0" = 5  # No Muong #0
@@ -71,8 +67,12 @@ monarch_names = {
   "坦塔腊 #0" = 20  # Tian Thala #0
   "素里亚旺萨 #0" = 20  # Souligna Vongsa #0
   "童坎 #0" = 20  # Tone Kham #0
+  "塔迷戛腊 #0" = 20  # Thammikarat #0
   "摩诃 乌帕哈 #0" = 20  # Maha Oupahat #0
+  "森苏林 #0" = 20  # Saensurin #0
+  "塞塔提腊 #0" = 35  # Setthathirat #0
   "维苏纳腊 #0" = 20  # Visunarat #0
+  "拉森泰 #0" = 20  # Laasaenthai #0
   "坦坎 #0" = 20  # Theng Kham #0
   "塞提凯福 #0" = 20  # Sai Tia Kaphut #0
   "孔坎 #0" = 20  # Konekham #0
@@ -106,12 +106,12 @@ leader_names = {
   "拉塔腊沙迈"  # Rattanasamay
   "Sananikoe"
   "Sasorit"
-  "Soukbandit"
+  "素可班迪"  # Soukbandit
   "Souksomboun"
   "Sounthone"
   "塔玛冯萨"  # Thammavongsa
   "瓦达尼塔"  # Vathanatham
-  "Vatthana"
+  "瓦达纳"  # Vatthana
   "维吉"  # Vichit
   "冯坎恭"  # Vongkhamkeaw
   "冯帕占"  # Vongprachan
@@ -122,11 +122,11 @@ leader_names = {
 }
 ship_names = {
   "桑森泰"  # Samsenthai
-  "Phommathat"
+  "佛玛塔"  # Phommathat
   "坎吞"  # Khamtum
   "Yukhon"
   "Meun Sai"
-  "Fa Ngum"
+  "法昂"  # Fa Ngum
   "Fa Khai"
   "孔坎"  # Khong Kham
   "Kham Keut"

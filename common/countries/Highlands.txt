@@ -33,7 +33,6 @@ historical_units = {
 }
 monarch_names = {
   "Tearlach #0" = 5
-  "Daidh #0" = 1
   "Connal #0" = 10
   "Feaghas #0" = 0
   "Greum #0" = 0
@@ -84,6 +83,7 @@ monarch_names = {
   "道格拉斯 #0" = 10  # Dughlas #0
   "肯尼思 #0" = 5  # Coinneach #0
   "唐纳赫 #0" = 1  # Donnchadh #0
+  "大卫 #0" = 1  # Daidh #0
   "多姆纳尔 #0" = 10  # Domhnall #0
   "卡尔伦 #0" = 10  # Calum #0
   "伊恩 #0" = 10  # Iain #0
@@ -96,11 +96,11 @@ monarch_names = {
 leader_names = {
   "厄尔金"  # Arascain
   "Anrias"
-  "Airchart"
+  "艾尔沙特"  # Airchart
   "Ambarsan"
   "安亚斯"  # Aonghais
   "Beitean"
-  "Blacathathir"
+  "布拉凯撒瑟"  # Blacathathir
   "Banach"
   "Blar"
   "Braigheach"
@@ -214,7 +214,7 @@ leader_names = {
   "Rathais"
   "Roid"
   "圣格莱尔"  # Singlear
-  "Sutherlarach"
+  "苏赫尔勒勒赫"  # Sutherlarach
   "Scotach"
   "Sgian"
   "Stiubhard"
@@ -246,14 +246,14 @@ ship_names = {
   "Baideanach"
   "Berowald"
   "Buaidh No Bas"
-  "Caledonia"
+  "喀里多尼亚"  # Caledonia
   "Cruachan"
   "Consilio Non Petu"
   "Confido"
   "Clar Innes"
   "Clut"
   "Caisteal Dhuni"
-  "Cair Chaladain"
+  "哈拉丁堡"  # Cair Chaladain
   "卡尔伦"  # Calum Cille
   "Dun Bheagain"
   "Donnchadh na-Adh"
@@ -277,7 +277,7 @@ ship_names = {
   "Ghift Dhe Agus An Righ"
   "Hoc Securior"
   "Hugh de Paduinan"
-  "Innse Gall"
+  "异邦人岛"  # Innse Gall
   "Invictus Maneo"
   "Iagan"
   "Johannes Del Crag"
@@ -287,7 +287,7 @@ ship_names = {
   "Lochiel"
   "Lannraig"
   "Loch Moigh"
-  "Muriel"
+  "缪里尔"  # Muriel
   "Marte Suo Tutus"
   "Merito"
   "Macbeatha"

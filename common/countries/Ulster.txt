@@ -33,7 +33,6 @@ historical_units = {
 monarch_names = {
   "Phelim  #0" = 5
   "Ádhamh #0" = 0
-  "Ailill #0" = 0
   "Brígh #0" = 0
   "Brónach #0" = 0
   "Cadwgwan #0" = 0
@@ -43,13 +42,10 @@ monarch_names = {
   "Dougal #0" = 0
   "Fionnlagh #0" = 0
   "Garbhán #0" = 0
-  "Lachtna #0" = 0
-  "Lorccán #0" = 0
   "Mainchín #0" = 0
   "Mathúin #0" = 0
   "Meallán #0" = 0
   "Naomhán #0" = 0
-  "Niall #0" = 0
   "Odhrán #0" = 0
   "Pádraig #0" = 0
   "Riain #0" = 0
@@ -60,14 +56,18 @@ monarch_names = {
   "Séaghdhá #0" = 0
   "Seanán #0" = 0
   "Sechnall #0" = 0
-  "Uilliam #0" = 0
   "Uinseann #0" = 0
   "Aifric #0" = -1
   "Fionola #0" = -1
   "Raghnailt #0" = -1
+  "威廉 #0" = 0  # Uilliam #0
   "图厄撒尔 #0" = 0  # Tuathal #0
   "提赫亚那 #0" = 0  # Tighearnach #0
   "奎因 #0" = 0  # Quinn #0
+  "尼尔 #0" = 0  # Niall #0
+  "洛坎 #0" = 0  # Lorccán #0
+  "利希特瑙 #0" = 0  # Lachtna #0
+  "阿利尔 #0" = 0  # Ailill #0
   "马修厄姆恩 #0" = 20  # Mathghamhain #0
   "布莱恩 #0" = 20  # Bryan #0
   "休 #0" = 20  # Hugh #0
@@ -90,13 +90,13 @@ ship_names = {
 }
 leader_names = {
   "Barry"
-  "Boyle"
+  "博伊尔"  # Boyle
   "Darcy"
   "菲茨杰拉德"  # FitzGerald
   "菲茨托马斯"  # FitzThomas
   "O'Brien"
-  "O'Neill"
-  "MacCarthy"
+  "奥尼尔"  # O'Neill
+  "麦卡锡"  # MacCarthy
   "Sarsfield"
   "Talbot"
   "Magginis"

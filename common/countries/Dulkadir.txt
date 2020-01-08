@@ -38,14 +38,14 @@ monarch_names = {
   "Cüneyd #0" = 0
   "Bahadir #0" = 0
   "Fatma #0" = -1
-  "Gamze #0" = -1
   "Melis #0" = -1
-  "Rabia #0" = -1
   "Umut #0" = -1
   "祖拜德 #0" = -1  # Zübeyde #0
   "兹内特 #0" = -1  # Ziynet #0
   "沙菲仪 #0" = -1  # Safiye #0
+  "拉比耶 #0" = -1  # Rabia #0
   "哈尼斐 #0" = -1  # Hanife #0
+  "加姆泽 #0" = -1  # Gamze #0
   "哈瓦 #0" = -1  # Havva #0
   "伊斯玛仪 #0" = 0  # Ismail #0
   "锡南 #0" = 0  # Sinan #0
@@ -58,12 +58,12 @@ leader_names = {
   "巴利"  # Bali
   "Erezli"
   "Arif"
-  "Rahim"
+  "拉希姆"  # Rahim
   "阿来姆达尔"  # Alemdar
-  "Amasyali"
+  "阿马西亚勒"  # Amasyali
   "Ayas"
   "巴利"  # Bali
-  "Barbaros"
+  "巴巴罗萨"  # Barbaros
   "Bayram"
   "杰扎尔"  # Cezzar
   "阐达尔利"  # Çandarli
@@ -74,9 +74,9 @@ leader_names = {
   "楚哈达尔"  # Çuhadar
   "Damad"
   "德尔维斯"  # Dervis
-  "Defterdar"
-  "Gedik"
-  "Gazi"
+  "迪夫塔达尔"  # Defterdar
+  "盖迪克"  # Gedik
+  "加齐"  # Gazi
   "居米尔吉内利"  # Gümülcineli
   "Gürcü"
   "哈德姆"  # Hadim
@@ -99,12 +99,12 @@ leader_names = {
   "Lefkeli"
   "Malkoç"
   "米埃津扎德"  # Müezzinzade
-  "Nevsehirli"
-  "Nisanci"
+  "内塞赫利"  # Nevsehirli
+  "尼塞茨"  # Nisanci
   "Oruç"
   "Uluç"
   "Osmancikli"
-  "Ohrili"
+  "奥尔林"  # Ohrili
   "Oflu"
   "Rumi"
   "Piri"
@@ -115,8 +115,8 @@ leader_names = {
   "Sokullu"
   "Sari"
   "希拉达"  # Silahdar
-  "Semiz"
-  "Serdar"
+  "塞米兹"  # Semiz
+  "塞尔达尔"  # Serdar
   "托帕"  # Topal
   "Tayyar"
   "图尔古特"  # Turgut
@@ -128,7 +128,7 @@ ship_names = {
   "Zulkadriyye"
   "Maras"
   "Afsin"
-  "Elbistan"
+  "埃尔比斯坦"  # Elbistan
   "Goksun"
   "Pazarcik"
   "Ceyhan"

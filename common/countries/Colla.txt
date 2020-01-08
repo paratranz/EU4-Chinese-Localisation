@@ -41,7 +41,7 @@ leader_names = {
   "恰金塔"  # Chiaquitinta
   "奇尔什"  # Chilche
   "科拉 托帕"  # Colla-Topa
-  "Curiatao"
+  "库里亚托"  # Curiatao
   "库西"  # Cusi
   "Guacra"
   "Guaritito"
@@ -72,7 +72,7 @@ leader_names = {
   "基斯基斯"  # Quisquis
   "基佐"  # Quizo
   "里马克"  # Rimac
-  "Ronpa"
+  "隆帕"  # Ronpa
   "萨瓦拉乌拉"  # Sahuaraura
   "索陶尔科"  # Sotaurco
   "丹基"  # Tanqui
@@ -83,10 +83,8 @@ monarch_names = {
   "Cari #0" = 20
   "Colla Capac #0" = 20
   "Inti #0" = 10
-  "Amaru #0" = 10
   "Katari #0" = 10
   "Coyllas #0" = 0
-  "Cusichaca #0" = 0
   "Guaritopa #0" = 0
   "Huachuri #0" = 0
   "Marcavilca #0" = 0
@@ -94,8 +92,6 @@ monarch_names = {
   "Pumi Sopa #0" = 0
   "Ruminavi #0" = 0
   "Surandaman #0" = 0
-  "Usca Curiatao #0" = 0
-  "Villac Umu #0" = 0
   "Kantuta #0" = -1
   "Nina #0" = -1
   "西萨 #0" = -1  # Sisa #0
@@ -103,6 +99,8 @@ monarch_names = {
   "赞比扎 #0" = 0  # Zambiza #0
   "尤潘基 #0" = 0  # Yupanqui #0
   "扬基 梅塔 #0" = 0  # Yamqui Mayta #0
+  "维拉克 乌穆 #0" = 0  # Villac Umu #0
+  "乌斯卡 库里亚托 #0" = 0  # Usca Curiatao #0
   "图库伊库切 #0" = 0  # Tucuycuyche #0
   "特拉奎 #0" = 0  # Taraque #0
   "萨瓦拉乌拉 #0" = 0  # Sahuaraura #0
@@ -112,12 +110,14 @@ monarch_names = {
   "尼南 库尤基 #0" = 0  # Ninan Cuyuchi #0
   "卢耶斯 #0" = 0  # Luyes #0
   "瓦伊帕尔孔 #0" = 0  # Huaypalcon #0
+  "库沙卡 #0" = 0  # Cusichaca #0
   "卡约 托帕 #0" = 0  # Cayo Topa #0
   "阿托克 索帕 #0" = 0  # Atoc Sopa #0
   "安基马尔卡 #0" = 0  # Anquimarca #0
   "尤拉帕 #0" = 10  # Illapa #0
   "图帕克 #0" = 10  # Tupac #0
   "图努帕 #0" = 10  # Tunupa #0
+  "阿马鲁 #0" = 10  # Amaru #0
   "托马斯 坎塔利 #0" = 10  # Tomás Katari #0
   "楚基 卡帕克 #0" = 20  # Chuqui Capac #0
 }
@@ -125,9 +125,9 @@ ship_names = {
   "Apo"
   "阿波卡特奎尔"  # Apocatequil
   "阿塔古丘"  # Ataguchu
-  "Ayar Anca"
+  "阿亚尔 安卡"  # Ayar Anca
   "阿亚尔 卡奇"  # Ayar Cachi
-  "Ayar Uchu"
+  "阿亚尔 乌楚"  # Ayar Uchu
   "卡特奎尔"  # Catequil
   "Cavillace"
   "Chasca"
@@ -135,7 +135,7 @@ ship_names = {
   "Coniraya"
   "Copacati"
   "库斯科"  # Cusco
-  "Ekkeko"
+  "埃克科"  # Ekkeko
   "哈南 帕查"  # Hanan Pacha
   "因蒂"  # Inti
   "尤拉帕"  # Illapa
@@ -144,9 +144,9 @@ ship_names = {
   "Mama Ocllo"
   "瓦科教母"  # Mama Huaco
   "Mama Raua"
-  "Mama Cura"
+  "库拉教母"  # Mama Cura
   "科卡教母"  # Mama Coca
-  "Mama Allpa"
+  "阿尔帕教母"  # Mama Allpa
   "Mama Pacha"
   "基拉教母"  # Mama Quilla
   "扎拉教母"  # Mama Zara

@@ -29,17 +29,12 @@ historical_units = {
   tipu_sultan_rocket
 }
 monarch_names = {
-  "Nizam ul-Mulk #0" = 10
   "Jamshid #0" = 10
   "Subhan #0" = 10
-  "Ibrahim #0" = 10
-  "Mahmud Gawan #0" = 0
   "Imad al-Mulk #0" = 0
   "Iftikhar al-Mulk #0" = 0
   "Sayid Nasir al-Din #0" = 0
-  "Mir Shams al-Din #0" = 0
   "Khwaja Imad al-Din #0" = 0
-  "Mir Ali #0" = 0
   "Khusrau #0" = 0
   "Mujahid #0" = 0
   "Jamal-ud-din #0" = 0
@@ -56,7 +51,9 @@ monarch_names = {
   "夫拉德 汗 #0" = 0  # Fulad Khan #0
   "库兹 希拉贾丁 #0" = 0  # Quazi Siraj-ud-din #0
   "达乌德 汗 #0" = 0  # Daud Khan #0
+  "米尔 阿里 #0" = 0  # Mir Ali #0
   "卡希姆伯 #0" = 0  # Qasim Beg #0
+  "米尔 沙姆斯丁 #0" = 0  # Mir Shams al-Din #0
   "鲁斯塔姆 汗 #0" = 0  # Rustam Khan #0
   "阿卜杜拉 #0" = 10  # 'Abdullah #0
   "毛拉 库提布丁 #0" = 0  # Mullah Qutb al-Din #0
@@ -65,14 +62,17 @@ monarch_names = {
   "米尔 阿布勒 卡希姆 #0" = 0  # Mir Abu'l-Qasim #0
   "赛义夫 阿拉 #0" = 0  # Saif Allah #0
   "赛义德 哈里发 #0" = 0  # Sayid Hanif #0
+  "马茂德 加万 #0" = 0  # Mahmud Gawan #0
   "库里 苏丹 #0" = 0  # Quli Sultan #0
   "阿卜勒 哈桑 #0" = 10  # Abu'l-Hassan #0
   "穆罕默德 #0" = 10  # Muhammad #0
+  "易卜拉欣 #0" = 10  # Ibrahim #0
   "库里 #0" = 10  # Quli #0
   "西坎达尔 贾 #0" = 10  # Sikandar Jah #0
   "尼沙 汗 #0" = 10  # Nizam Ali Khan #0
   "阿萨夫 道拉 章格 #0" = 10  # Asaf ud-Daula Jang #0
   "穆罕默德 纳斯尔 章格 #0" = 10  # Muhammad Nasr Jang #0
+  "尼札姆 乌尔 穆尔克 #0" = 10  # Nizam ul-Mulk #0
 }
 leader_names = {
   "汗"  # Khan
@@ -81,7 +81,7 @@ leader_names = {
   "Krishna"
   "Naidu"
   "ul Umra"
-  "Mahaldar"
+  "马哈达尔"  # Mahaldar
   "Dawar"
   "Bhaskar"
   "Kabir"
@@ -104,24 +104,24 @@ leader_names = {
   "Latif"
 }
 ship_names = {
-  "Alia"
+  "阿丽雅"  # Alia
   "奥朗加巴德"  # Aurangabad
   "Devki"
   "Fatimah"
-  "Godvari"
+  "戈达瓦里"  # Godvari
   "Gulbargah"
   "Jalsena"
   "Kala Jahazi"
   "汗"  # Khan
-  "Lal Jahazi"
+  "拉尔 贾哈齐"  # Lal Jahazi
   "Nausena"
   "纳瓦 卡 尤多"  # Nav ka Yudh
-  "Niknaz"
-  "Nila Jahazi"
-  "Niloufa"
-  "Sagar"
+  "尼娜斯"  # Niknaz
+  "尼拉 贾哈齐"  # Nila Jahazi
+  "尼卢法"  # Niloufa
+  "萨加尔"  # Sagar
   "Salima"
   "Suhalia"
-  "Shameena"
+  "刹梅娜"  # Shameena
   "Yasmine"
 }

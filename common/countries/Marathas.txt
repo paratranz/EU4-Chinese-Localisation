@@ -36,8 +36,6 @@ monarch_names = {
   "Baji Prabhu #0" = 0
   "Suryaji #0" = 0
   "Tanaji #0" = 0
-  "Chimaji #0" = 0
-  "Ranoji #0" = 0
   "Raghunathrao #0" = 0
   "Malhar #0" = 0
   "Haripant #0" = 0
@@ -45,10 +43,12 @@ monarch_names = {
   "Tarabai #0" = -10
   "Soyarabai #0" = -5
   "Tukabai #0" = -1
-  "堵拘恃罗婆 #0" = 0  # Tukojirao #0
+  "都拘恃罗乌 #0" = 0  # Tukojirao #0
+  "兰笯恃 #0" = 0  # Ranoji #0
+  "支摩恃 #0" = 0  # Chimaji #0
   "普拉塔普 僧诃 #0" = 10  # Pratap Singh #0
-  "纳拉扬 拉奥 #0" = 10  # Narayan Rao #0
-  "马杜 拉奥 #0" = 10  # Madhu Rao #0
+  "那罗延 罗乌 #0" = 10  # Narayan Rao #0
+  "摩杜 罗乌 #0" = 10  # Madhu Rao #0
   "巴吉 拉奥 #0" = 10  # Baji Rao #0
   "巴拉吉 #0" = 10  # Balaji #0
   "萨胡吉 #0" = 10  # Sahuji #0
@@ -79,7 +79,7 @@ leader_names = {
   "Nimbalk"
   "Kate"
   "Chavan"
-  "Rane"
+  "罗泥"  # Rane
   "瞿折罗"  # Gujar
   "Aher"
   "Sawant"
@@ -98,8 +98,8 @@ ship_names = {
   "Brahma"
   "Devi"
   "Durga"
-  "Ganesh"
-  "Gayatri"
+  "象头神"  # Ganesh
+  "揭耶陀梨"  # Gayatri
   "哈奴曼"  # Hanumaun
   "Indra"
   "Jalsena"
@@ -108,14 +108,14 @@ ship_names = {
   "俱毗罗"  # Kubera
   "Krishna"
   "Lakshmi"
-  "Lal Jahazi"
+  "拉尔 贾哈齐"  # Lal Jahazi
   "Nausena"
   "纳瓦 卡 尤多"  # Nav ka Yudh
-  "Nila Jahazi"
+  "尼拉 贾哈齐"  # Nila Jahazi
   "Parvati"
-  "Radha"
-  "Ratri"
-  "Sagar"
+  "罗陀"  # Radha
+  "夜之女神"  # Ratri
+  "萨加尔"  # Sagar
   "Sarasvati"
   "Shiva"
   "悉多"  # Sita
@@ -123,6 +123,6 @@ ship_names = {
   "Surya"
   "Varuna"
   "Vayu"
-  "Vishnu"
+  "毗湿奴"  # Vishnu
   "Yama"
 }

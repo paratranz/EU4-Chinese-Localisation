@@ -33,29 +33,27 @@ monarch_names = {
   "Solaymân #0" = 10
   "Nâder #0 Shâh" = 10
   "'Âdel #0 Shâh" = 10
-  "Ebrâhim #0" = 10
   "Shâh Rukh #0" = 10
-  "Nâder Mirza #0" = 10
   "'Ali Morâd #0" = 10
   "Ja'far #0" = 10
   "Loft Ali #0" = 10
   "Fath Alî #0" = 10
   "Najm-e #0" = 0
   "Rajab Ali #0" = 0
-  "Amanollah #0" = 0
-  "Ebrahim #0" = 0
   "Allahyar #0" = 0
   "Atiya #0" = -1
   "Pari #0" = -1
-  "Khayr al-Nisa #0" = -1
   "Tajlu #0" = -1
   "Dilaram #0" = -1
   "Razia #0" = -1
   "玛里亚姆 #0" = -1  # Maryam #0
   "沙赫巴努 #0" = -1  # Shahbanu #0
+  "海尔 妮萨 #0" = -1  # Khayr al-Nisa #0
   "哈米德 #0" = 0  # Hamid #0
   "阿卜杜尔 #0" = 0  # Abdol #0
   "阿里 #0" = 0  # Ali #0
+  "易卜拉欣 #0" = 10  # Ebrâhim #0
+  "阿曼诺拉赫 #0" = 0  # Amanollah #0
   "法拉扎拉 #0" = 0  # Farajollah #0
   "沙哈库利 #0" = 0  # Shahqoli #0
   "哈特姆 #0" = 0  # Hatem #0
@@ -65,6 +63,7 @@ monarch_names = {
   "默罕默德 阿里 #0" = 10  # Mohammad Ali #0
   "阿布 勒 法特赫 #0" = 10  # Abu'l Fath #0
   "卡里姆 #0 汗" = 10  # Karim #0 Khân
+  "纳迪尔 米尔扎 #0" = 10  # Nâder Mirza #0
   "胡赛因 #0" = 10  # Hosayn #0
   "萨菲 #0" = 10  # Safi #0
   "阿巴斯 #0" = 10  # 'Abbâs #0
@@ -83,7 +82,7 @@ leader_names = {
   "阿拉里"  # Ahrari
   "Fatemi"
   "Sabet"
-  "Ansari"
+  "安萨里"  # Ansari
 }
 ship_names = {
   "阿巴图尔"  # Abathur
@@ -112,16 +111,16 @@ ship_names = {
   "阿尔沙克"  # Arsaces
   "阿沙 瓦西塔"  # Asha vahista
   "Asman"
-  "Asto Vidatu"
+  "阿斯托 维达图"  # Asto Vidatu
   "Astvat-Ereta"
   "Atar"
   "Azi Dahaka"
   "Baga"
   "Bahram"
-  "Burijas"
-  "Bushyasta"
-  "Buyasta"
-  "Camros"
+  "布里伽斯"  # Burijas
+  "布什雅斯塔"  # Bushyasta
+  "布雅斯塔"  # Buyasta
+  "卡姆罗斯"  # Camros
   "Daena"
   "Daevas"
   "阿哈卡"  # Ahaka
@@ -133,10 +132,10 @@ ship_names = {
   "Drvaspa"
   "Frashegird"
   "Fravashis"
-  "Gandarewa"
-  "Gao-kerena"
-  "Gayomard"
-  "Gayomart"
+  "甘达雷瓦"  # Gandarewa
+  "加奥 肯瑞纳"  # Gao-kerena
+  "加约玛德"  # Gayomard
+  "加约玛特"  # Gayomart
   "戈古斯 泰森"  # Geus-Tasan
   "戈古斯 乌万"  # Geus-Urvan
   "豪麻"  # Haoma
@@ -144,40 +143,40 @@ ship_names = {
   "Humay"
   "Hvar"
   "华格其斯塔"  # Hvarekhshaeta
-  "Indar"
+  "因达尔"  # Indar
   "Indra"
   "Izha"
   "Jamshid"
   "Jeh"
   "凯施皮特"  # Karshipta
   "Kavi"
-  "Khara"
+  "哈喇"  # Khara
   "Khshathra vairya"
   "坤德乌"  # Kundrav
-  "Mah"
-  "Mahre"
-  "Mahrianag"
+  "玛赫"  # Mah
+  "梅尔"  # Mahre
+  "马里亚纳格"  # Mahrianag
   "Manu"
   "玛奴驰亥"  # Manuchihir
   "Mao"
   "Mashyane"
   "Mashye"
   "马茹"  # Menog
-  "Mithra"
+  "密特拉"  # Mithra
   "南尤桑哈"  # Nairyosangha
   "Nanghaithya"
   "捏瑞桑"  # Neriosang
   "欧马兹特"  # Ormazd
   "Peris"
   "Peshdadians"
-  "Rapithwin"
-  "Rashnu"
+  "拉匹茨文"  # Rapithwin
+  "拉什努"  # Rashnu
   "Rustam"
-  "Saurva"
+  "萨尤拉"  # Saurva
   "思摩夫"  # Simurgh
   "斯宾塔 曼纽"  # Spenta Mainyu
   "Sraosa"
-  "Srosh"
+  "斯劳思"  # Srosh
   "Tawrich"
   "图纳帕"  # Thunaupa
   "提斯特拉"  # Tistrya

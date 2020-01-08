@@ -25,12 +25,8 @@ historical_units = {
   reformed_asian_cavalry
 }
 monarch_names = {
-  "Sangye Gyamtso #0" = 0
-  "Lobsang Yeshe #0" = 0
   "Palden Yeshi #0" = 0
-  "Ngapoi Takna #0" = 0
   "Jigme Wangyal #0" = 0
-  "Bapu Gendun #0" = 0
   "德吉曲登 #0" = -1  # Deki Choden #0
   "贡桑 #0" = -1  # Kunzang #0
   "苏拉巴里涅 #0" = -1  # Surah Palinyal #0
@@ -40,7 +36,11 @@ monarch_names = {
   "噶尔丹 #0" = 0  # Galdan #0
   "僧格 #0" = 0  # Sengge #0
   "饶登 #0" = 0  # Rabtan #0
+  "巴普 格敦 #0" = 0  # Bapu Gendun #0
   "扎西群培 #0" = 0  # Tashi Chophel #0
+  "阿沛达那 #0" = 0  # Ngapoi Takna #0
+  "洛桑 益西 #0" = 0  # Lobsang Yeshe #0
+  "桑杰嘉措 #0" = 0  # Sangye Gyamtso #0
   "札巴迥乃 #1" = 1  # Trakpa Chungne #1
   "札巴绛曲 #1" = 1  # Trakpa Chang-chub #1
   "札巴仁钦 #1" = 1  # Trakpa Richen #1
@@ -78,12 +78,12 @@ leader_names = {
   "Srong"
   "Sregs"
   "Thekchen"
-  "Sonam"
-  "Tashi"
-  "Tsewang"
-  "旺堆托美"  # Wangdue
-  "Wangdak"
-  "Phuntsok"
+  "索南"  # Sonam
+  "扎西"  # Tashi
+  "次旺"  # Tsewang
+  "旺堆"  # Wangdue
+  "旺扎"  # Wangdak
+  "平措"  # Phuntsok
 }
 ship_names = {
   "马尔康"  # Barkam

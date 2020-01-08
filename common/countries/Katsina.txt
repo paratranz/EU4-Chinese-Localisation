@@ -30,26 +30,20 @@ historical_units = {
 monarch_names = {
   "Yakufu #0" = 20
   "Alhaji #0" = 20
-  "Shekkarau #1" = 20
   "Soyaki #0" = 20
   "Dalla Gungum #0" = 0
   "Dalla Dawaki #0" = 0
-  "Akal #0" = 0
   "Gumsara #0" = 0
   "Bardandoma #0" = 0
   "Soba #0" = 0
-  "Nyakum #0" = 0
   "Salihu #0" = 0
   "Janhazo #0" = 0
   "Karya Giwa #0" = 0
-  "Tsagarana #0" = 0
-  "Agwaragwi #0" = 0
   "Bawa #0" = 20
   "Magajin #0" = 0
   "Sumail #0" = 0
   "Suleyman #0" = 0
   "Fati #0" = 0
-  "Ibrahim #0" = 0
   "'Aliyu #0" = 0
   "Bako #0" = 0
   "Burema #0" = 0
@@ -60,11 +54,17 @@ monarch_names = {
   "Assibi #0" = -1
   "Durah #0" = -1
   "Amina #0" = -2
+  "易卜拉欣 #0" = 0  # Ibrahim #0
   "托莫 #0" = 0  # Tomo #0
+  "阿戈瓦拉戈韦 #0" = 0  # Agwaragwi #0
+  "扎加拉纳 #0" = 0  # Tsagarana #0
   "阿卜杜勒 卡里姆 #0" = 0  # Abd al-Karim #0
   "雅库布 #0" = 20  # Yakubu #0
+  "尼亚库姆 #0" = 0  # Nyakum #0
   "巴契里 #0" = 0  # Bachiri #0
+  "阿伽罗 #0" = 0  # Akal #0
   "巴巴 扎基 #0" = 20  # Babba Zaki #0
+  "舍克喀尧  #1" = 20  # Shekkarau #1
   "库坦比 #0" = 20  # Kutambi #0
   "阿布 巴克尔 卡多 #0" = 20  # Abu Bakr Kado #0
   "达乌达 阿巴萨马 #0" = 40  # Da'uda Abasama #0
@@ -73,7 +73,7 @@ monarch_names = {
   "希罗马 #0" = 20  # Chiroma #0
 }
 leader_names = {
-  "Saibou"
+  "塞布"  # Saibou
   "Bakara"
   "Mamami"
   "Kountché"

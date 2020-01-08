@@ -28,7 +28,6 @@ historical_units = {
   persian_rifle
 }
 monarch_names = {
-  "Rashid #0" = 10
   "Saqr #0" = 20
   "Sultan #0" = 20
   "ah-Husayn #0" = 20
@@ -41,9 +40,10 @@ monarch_names = {
   "Noura #0" = -1
   "Wadhah #0" = -1
   "Munira #0" = -1
-  "Aisha #0" = -1
+  "阿伊莎 #0" = -1  # Aisha #0
   "法蒂玛 #0" = -1  # Fatima #0
   "赫萨 #0" = -1  # Hessah #0
+  "拉希德 #0" = 10  # Rashid #0
 }
 leader_names = {
   "Al Mowaled"
@@ -64,7 +64,7 @@ ship_names = {
   "Baqi"
   "Badi"
   "哈蒂"  # Hadi
-  "Nur"
+  "努尔"  # Nur
   "Nafi"
   "Darr"
   "Mani"
@@ -73,7 +73,7 @@ ship_names = {
   "Jami"
   "Muqsit"
   "Malik al Mulk"
-  "Ra'uf"
+  "拉乌福"  # Ra'uf
   "Afuww"
   "Muntaquim"
   "Tawwab"
