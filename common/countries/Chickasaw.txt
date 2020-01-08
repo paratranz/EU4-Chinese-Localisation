@@ -26,6 +26,7 @@ historical_units = {
 monarch_names = {
   "Piomingo #0" = 10
   "Latopoia #0" = 20
+  "Ashalatubbi #0" = 20
   "Ishtehotopa #0" = 20
   "Emubby #0" = 20
   "Pistahlahtubee #0" = 10
@@ -49,6 +50,8 @@ monarch_names = {
   "Hushtahtahubbe #0" = 10
   "Untihakahtubbe #0" = 10
   "Yummotubbe #0" = 10
+  "Ohhacubbe #0" = 10
+  "Kinhoicha #0" = 10
   "Ishteahtubbe #0" = 10
   "Chewutaha #0" = 10
   "Foluttachah #0" = 10
@@ -57,29 +60,26 @@ monarch_names = {
   "Ishtakiyukatabbe #0" = 10
   "Fahlahmotubbe #0" = 10
   "Okelahshapia #0" = 10
+  "Mintahoye #0" = -1
   "Phalishta #0" = -1
-  "敏塔霍约 #0" = -1  # Mintahoyo #0
+  "Mintahoyo #0" = -1
   "泰穆沙尔霍克泰 #0" = -1  # Temusharhoctay #0
   "伊什蒂玛尔哈尔莱恰尔 #0" = -1  # Ishtimmarharlechar #0
-  "敏塔霍耶 #0" = -1  # Mintahoye #0
   "科丘贝 #0" = 10  # Cochubbe #0
   "努克索普贝 #0" = 10  # Nuckshopubbe #0
   "埃俄切图贝 #0" = 10  # Eiochetubbe #0
   "托姆契卡赫 #0" = 10  # Tomchickah #0
   "玛赫泰科舒贝 #0" = 10  # MAhtekoshubbe #0
   "契卡赫沙纳努贝 #0" = 10  # Chickahshananubbe #0
-  "金霍伊恰 #0" = 10  # Kinhoicha #0
   "塔哈库贝 #0" = 10  # Tahhacubbe #0
   "阿赫托科瓦赫 #0" = 10  # Ahtokowah #0
   "阿赫塔金图贝 #0" = 10  # Ahtakintubbe #0
   "阿赫法玛赫 #0" = 10  # Ahfahmah #0
-  "欧赫哈库贝 #0" = 10  # Ohhacubbe #0
   "阿赫沙库贝 #0" = 10  # Ahshacubbe #0
   "托克霍尔斯拉恰赫 #0" = 10  # Tokholthlachah #0
   "伊尔鲁帕胡姆巴 #0" = 10  # Illuppahhumba #0
   "尼努卡胡姆巴 #0" = 10  # Ninuckahumba #0
   "托普尔卡赫 #0" = 20  # Topulkah #0
-  "阿沙拉图比 #0" = 20  # Ashalatubbi #0
   "塔斯基耶托卡 #0" = 10  # Taskietoka #0
   "明加图斯卡 #0" = 10  # Mingatuska #0
   "蒂肖明戈 #0" = 20  # Tishomingo #0
@@ -88,89 +88,89 @@ monarch_names = {
 }
 leader_names = {
   "阿基亚"  # Ackia
-  "阿劳泰"  # Alaoute
-  "阿玛卡赫塔"  # Amalahta
+  "Alaoute"
+  "Amalahta"
   "Apeony"
   "Apilefaplimengo"
   "Ashukhuma"
-  "阿耶比斯托"  # Ayebisto
+  "Ayebisto"
   "恰泰劳"  # Chatelaw
   "Chesafaliah"
   "钦尼卡"  # Chinica
   "Chopoussa"
   "丘卡里萨"  # Chucalissa
-  "丘卡法拉亚"  # Chukafalaya
-  "丘拉"  # Chula
+  "Chukafalaya"
+  "Chula"
   "Coppertown"
   "Couiloussa"
   "Etoukouma"
   "Falatchao"
-  "戈维托拉"  # Gouytola
+  "Gouytola"
   "Hummalala"
   "Hussinkoma"
   "Hykehah"
   "拉特恰 霍亚 鲁恩"  # Latcha Hoa Run
   "Ogoula-Tchetoka"
-  "翁萨巴 阿特绰萨"  # Onthaba-atchosa
-  "欧耶萨"  # Ooeasa
+  "Onthaba-atchosa"
+  "Ooeasa"
   "欧卡哈塔"  # Oucahata
   "欧克桑波洛"  # Oucthambolo
   "欧坦夸特莱"  # Outanquatle
-  "法拉切赫斯"  # Phalachehs
+  "Phalachehs"
   "蓬托托克"  # Pontotoc
   "Shatara"
   "Shiokaya"
   "坦雅契尔卡"  # Tanyachilca
   "塔博萨"  # Taposa
-  "桑波洛"  # Thanbolo
+  "Thanbolo"
   "Teshatulla"
   "托克什"  # Tokshish
   "图卡豪"  # Tuckahaw
   "图斯卡维尔劳"  # Tuskawillao
   "图斯卡罗伊尔洛埃"  # Tuskaroilloe
-  "雅内卡"  # Yaneka
+  "Yaneka"
 }
 ship_names = {
   "阿基亚"  # Ackia
-  "阿劳泰"  # Alaoute
-  "阿玛卡赫塔"  # Amalahta
+  "Alaoute"
+  "Amalahta"
   "Apeony"
   "Apilefaplimengo"
   "Ashukhuma"
-  "阿耶比斯托"  # Ayebisto
+  "Ayebisto"
   "恰泰劳"  # Chatelaw
   "Chesafaliah"
   "钦尼卡"  # Chinica
   "Chopoussa"
   "丘卡里萨"  # Chucalissa
-  "丘卡法拉亚"  # Chukafalaya
-  "丘拉"  # Chula
+  "Chukafalaya"
+  "Chula"
   "Coppertown"
   "Couiloussa"
   "Etoukouma"
   "Falatchao"
-  "戈维托拉"  # Gouytola
+  "Gouytola"
   "Hummalala"
   "Hussinkoma"
   "Hykehah"
   "拉特恰 霍亚 鲁恩"  # Latcha Hoa Run
   "Ogoula-Tchetoka"
-  "翁萨巴 阿特绰萨"  # Onthaba-atchosa
-  "欧耶萨"  # Ooeasa
+  "Onthaba-atchosa"
+  "Ooeasa"
   "欧卡哈塔"  # Oucahata
   "欧克桑波洛"  # Oucthambolo
   "欧坦夸特莱"  # Outanquatle
-  "法拉切赫斯"  # Phalachehs
+  "Phalachehs"
   "蓬托托克"  # Pontotoc
   "Shatara"
   "Shiokaya"
   "坦雅契尔卡"  # Tanyachilca
   "塔博萨"  # Taposa
-  "桑波洛"  # Thanbolo
+  "Thanbolo"
   "Teshatulla"
   "托克什"  # Tokshish
   "图卡豪"  # Tuckahaw
   "图斯卡维尔劳"  # Tuskawillao
   "图斯卡罗伊尔洛埃"  # Tuskaroilloe
-  "雅内卡"  # Yaneka
+  "Yaneka"
 }

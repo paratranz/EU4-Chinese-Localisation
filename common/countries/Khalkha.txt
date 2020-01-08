@@ -35,6 +35,7 @@ monarch_names = {
   "Dayan #0" = 20
   "Darayisung #0" = 20
   "Delbeg #0" = 20
+  "Elbeg #0" = 10
   "Engke #0" = 10
   "Jorightu #0" = 10
   "Oyiradai #0" = 20
@@ -43,13 +44,13 @@ monarch_names = {
   "Uskhal #0" = 10
   "Yesün #0" = 10
   "Batu #0" = 0
+  "Eljigidei #0" = 0
   "撒乌善 #0" = -1  # Zaufishan #0
   "萨玛尔 #0" = -1  # Samar #0
   "满都海 #0" = -1  # Mandukhai #0
   "孛儿帖 #0" = -1  # Börte #0
   "帖木仑 #0" = -1  # Temülen #0
   "术赤 #0" = 0  # Joichi #0
-  "额勒只吉歹 #0" = 0  # Eljigidei #0
   "阿里克 #0" = 0  # Ariq #0
   "图克 #0" = 10  # Toq #0
   "拖雷 #0" = 10  # Tolui #0
@@ -74,7 +75,6 @@ monarch_names = {
   "鬼力赤 #0" = 20  # Gulichi #0
   "古温 #0" = 20  # Gün #0
   "贵由 #0" = 10  # Güyük #0
-  "额勒伯克 #0" = 10  # Elbeg #0
   "额哲 #0" = 10  # Ejei #0
   "别克 #0" = 20  # Bek #0
   "博迪 #0" = 20  # Bodi #0
@@ -92,17 +92,17 @@ leader_names = {
   "合塔斤"  # Hatagin
   "Olkhonud"
   "哈尔努特"  # Harnut
-  "额勒支斤"  # Eljigin
+  "Eljigin"
   "Bayaud"
-  "郭尔罗斯"  # Gorlos
+  "Gorlos"
   "Darhad"
   "Sharnud"
   "Uriankhan"
   "赤那思"  # Chinos
-  "汪古特"  # Onkhod
+  "Onkhod"
   "莽努特"  # Mangud
   "Ujeed"
-  "翁牛特"  # Onniud
+  "Onniud"
   "明安"  # Myangan
   "永谢布"  # Yunsheebuu
   "土默特"  # Tumed
@@ -111,13 +111,13 @@ leader_names = {
   "Merged"
   "Barga"
   "Daguur"
-  "察哈尔"  # Tsakhar
+  "Tsakhar"
   "喀喇沁"  # Kharchin
   "Uuld"
   "土尔扈特"  # Torguut
   "准噶尔"  # Jongoor
   "和托辉特"  # Khotogoid
-  "阿巴嘎"  # Avga
+  "Avga"
   "图克沁"  # Tugchin
   "Guchid"
   "科尔沁"  # Khorchin
@@ -144,7 +144,7 @@ leader_names = {
   "Tavnag"
   "Khaakhar"
   "Khunguud"
-  "不儿格多"  # Burged
+  "Burged"
   "Khuitserleg"
   "Chutsuut"
   "Ulanguud"
@@ -165,7 +165,7 @@ leader_names = {
   "Buuchuud"
   "Khuluud"
   "Basigid"
-  "绰和尔"  # Tsookhor
+  "Tsookhor"
   "Khiitluud"
   "Gal"
   "Motoi"
@@ -178,7 +178,7 @@ leader_names = {
   "Soloon"
   "辉特"  # Khoid
   "Khereed"
-  "绰罗斯"  # Tsoros
+  "Tsoros"
   "Talas"
   "Baarin"
   "Alag-aduun"
@@ -202,14 +202,14 @@ leader_names = {
   "Khiad"
   "Khoton"
   "Khurlad"
-  "查干"  # Tsagaan
+  "Tsagaan"
   "尼伦"  # Nirun
   "Durved"
   "Baatar"
   "者勒蔑"  # Zelme
   "Tuved"
   "Tavuud"
-  "和硕特"  # Khoshuud
+  "Khoshuud"
   "Khasag"
   "Urad"
   "Yamaat"
@@ -232,7 +232,7 @@ ship_names = {
   "Dharmapala"
   "Örüg Temür"
   "阿岱"  # Adai
-  "额勒伯克"  # Elbeg
+  "Elbeg"
   "Batu"
   "木华黎"  # Mugali
   "博尔术"  # Bo'orchu

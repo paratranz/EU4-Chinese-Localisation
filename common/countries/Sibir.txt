@@ -29,24 +29,34 @@ historical_units = {
 }
 monarch_names = {
   "Agalak #0" = 20
+  "Arab Shah #0" = 20
+  "Arslan #0" = 20
   "Bolaq #0" = 20
   "Daniyal #0" = 20
+  "Darwish #0" = 20
   "Devlet Berdi #0" = 20
   "Husayn #0" = 30
   "Ibak #0" = 20
+  "Ibrahim #0" = 50
   "Jabbar Berdi #0" = 20
   "Jalal al-Din #0" = 20
   "Janay #0" = 20
   "Jumaduq #0" = 20
   "Kebek #0" = 20
   "Khalil #0" = 30
+  "Mahmud #0" = 80
+  "Mahmudak #0" = 50
   "Mamai #0" = 20
   "Mamuk #0" = 30
   "Mansur #0" = 20
   "Nogai #0" = 20
   "Pulad #0" = 20
+  "Sain Bulat #0" = 20
   "Satilghan #0" = 20
+  "Sayid Burhan #0" = 20
+  "Sayid Mahmud #0" = 20
   "Shaikh Awliar #0" = 20
+  "Shiban #0" = 20
   "Taibugha #0" = 20
   "Urus #0" = 20
   "Jalila #0" = -1
@@ -63,23 +73,17 @@ monarch_names = {
   "脱脱迷失 #0" = 20  # Toqtamish #0
   "帖木儿 忽都鲁 #0" = 20  # Timur Qutlugh #0
   "帖木儿 #0" = 20  # Timur #0
-  "昔班 #0" = 20  # Shiban #0
   "洒黑 海答儿 #0" = 20  # Shaikh Haidar #0
   "洒黑 阿黑麻 #0" = 20  # Shaikh Ahmad #0
   "沙 阿里 #0" = 20  # Shah Ali #0
   "撒迪别 #0" = 20  # Shadi Beg #0
-  "赛亦德 马哈木 #0" = 20  # Sayid Mahmud #0
-  "赛亦德 布儿罕 #0" = 20  # Sayid Burhan #0
   "赛德 阿黑麻 #0" = 60  # Sayid Ahmad #0
-  "赛因不剌 #0" = 20  # Sain Bulat #0
   "卡西姆 #0" = 60  # Qasim #0
   "哈迪儿 别儿迪 #0" = 20  # Qadir Berdi #0
   "不剌帖木儿 #0" = 20  # Pulad Timur #0
   "穆斯塔法 阿里 #0" = 20  # Mustafa Ali #0
   "木塔撒 #0" = 20  # Murtaza #0
   "穆罕默德 #0" = 50  # Muhammad #0
-  "马赫穆提克 #0" = 50  # Mahmudak #0
-  "马哈茂德 #0" = 80  # Mahmud #0
   "库楚 #0" = 20  # Kuchum #0
   "库楚克 马黑麻 #0" = 40  # Küchük Muhammad #0
   "合罕别 #0" = 20  # Khaqan Beg #0
@@ -88,17 +92,13 @@ monarch_names = {
   "贾阿里 #0" = 20  # Jan Ali #0
   "亦辛 #0" = 20  # Ishim #0
   "伊力哈木 #0" = 20  # Ilham #0
-  "易卜拉欣 #0" = 50  # Ibrahim #0
   "哈只 马黑麻 #0" = 20  # Hajji Muhammad #0
   "也迪古 #0" = 20  # Edigu #0
   "达尔维什 阿里 #0" = 20  # Darwish Ali #0
-  "达尔维什 #0" = 20  # Darwish #0
   "忽剌 #0" = 20  # Chokra #0
   "彻尔客思 #0" = 20  # Cherkes #0
   "别克不剌惕 #0" = 20  # Bek Bulat #0
   "八剌 #0" = 30  # Baraq #0
-  "阿尔斯兰 #0" = 20  # Arslan #0
-  "阿剌卜沙 #0" = 20  # Arab Shah #0
   "阿里别哥 #0" = 20  # Ali Beg #0
   "乞别克 #0" = 40  # Ak Köbek #0
   "艾哈迈德 #0" = 50  # Ahmad #0
@@ -110,14 +110,14 @@ monarch_names = {
 leader_names = {
   "Balna"
   "Salmiianov"
-  "拉夫纳"  # Ravna
+  "Ravna"
   "Taiborey"
   "Vylka"
   "Kanin"
   "Maimbava"
-  "阿里宁"  # Arinin
+  "Arinin"
   "Aven"
-  "秃梭亦"  # Tsoy
+  "Tsoy"
 }
 ship_names = {
   "成吉思汗"  # Ghengis Khan
@@ -128,7 +128,7 @@ ship_names = {
   "阿必散"  # Ilbasan
   "Mubarrak Kwaja"
   "Chimtai"
-  "兀鲁思"  # Urus
+  "Urus"
   "脱黑脱乞牙"  # Tuqtaqiya
   "帖木儿 灭里"  # Timur Malik
   "脱脱迷失"  # Toqtamish

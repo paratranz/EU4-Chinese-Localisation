@@ -28,6 +28,8 @@ historical_units = {
   tipu_sultan_rocket
 }
 monarch_names = {
+  "Dawud #0" = 10
+  "Mahmud #0" = 20
   "Muzaffar #0" = 20
   "Bahadur #0" = 10
   "Sardar #0" = 0
@@ -35,21 +37,19 @@ monarch_names = {
   "Fath #0" = 0
   "Khalil #0" = 0
   "Nasir #0" = 0
+  "Amarji #0" = 0
+  "Bhenji #0" = 0
   "Bhav #0" = 0
   "Natwar #0" = 0
   "Sidhraj #0" = 0
   "Rajsinhji #0" = 0
+  "Fulad #0" = 0
   "Mumtaz #0" = -1
   "艾哈迈迪 #0" = -1  # Ahmadi #0
   "法蒂玛 #0" = -1  # Fatima #0
   "阿卜杜勒 #0" = 0  # Abdul #0
-  "夫拉德 #0" = 0  # Fulad #0
   "诃密罗吉 #0" = 0  # Hamirji #0
-  "鞞恃 #0" = 0  # Bhenji #0
-  "阿秣恃 #0" = 0  # Amarji #0
   "锡坎达尔 #0" = 0  # Sikandar #0
-  "马哈茂德 #0" = 20  # Mahmud #0
-  "达乌德 #0" = 10  # Dawud #0
   "艾哈迈德 #0" = 20  # Ahmad #0
   "穆巴拉克 #0" = 20  # Mubarak #0
   "穆罕默德 #0" = 20  # Muhammad #0
@@ -72,7 +72,7 @@ leader_names = {
   "Gilani"
   "Paramara"
   "Bahadur"
-  "乔梨"  # Gauri
+  "Gauri"
   "祖尔贾尼"  # Jurjani
   "汗"  # Khan
   "Malik"
@@ -86,7 +86,7 @@ leader_names = {
   "Solanki"
   "Chattari"
   "Kanjar"
-  "古里"  # Ghuri
+  "Ghuri"
   "Naru"
   "珠多娑摩"  # Chudasama
   "Pahore"
@@ -101,17 +101,17 @@ ship_names = {
   "Jalsena"
   "Kala Jahazi"
   "Khari"
-  "拉尔 贾哈齐"  # Lal Jahazi
+  "Lal Jahazi"
   "鲁尼"  # Luni
-  "摩醯"  # Mahi
+  "Mahi"
   "Mithi"
   "Nausena"
   "Narmada"
   "纳瓦 卡 尤多"  # Nav ka Yudh
-  "尼拉 贾哈齐"  # Nila Jahazi
+  "Nila Jahazi"
   "Purna"
   "Sabarmati"
-  "萨加尔"  # Sagar
+  "Sagar"
   "Saraiya"
   "Saraswati"
   "Shetrunji"
