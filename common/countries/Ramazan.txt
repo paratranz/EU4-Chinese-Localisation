@@ -52,10 +52,10 @@ monarch_names = {
   "Hüseyin #0" = 0
   "Kasim #0" = 0
   "Korkud #0" = 0
-  "Iskender #0" = 0
   "Ayse #0" = -1
   "Ulviye #0" = -1
   "泽奈普 #0" = -1  # Zeynep #0
+  "伊斯坎德尔 #0" = 0  # Iskender #0
   "优素福 #0" = 0  # Yusuf #0
   "雅各布 #0" = 0  # Yakub #0
   "穆拉德 #0" = 0  # Murad #0
@@ -77,10 +77,10 @@ monarch_names = {
 }
 leader_names = {
   "阿来姆达尔"  # Alemdar
-  "Amasyali"
+  "阿马西亚勒"  # Amasyali
   "Ayas"
   "Bali"
-  "Barbaros"
+  "巴巴罗萨"  # Barbaros
   "Bayram"
   "Cezzar"
   "Çandarli"
@@ -91,9 +91,9 @@ leader_names = {
   "Çuhadar"
   "Damad"
   "Dervis"
-  "Defterdar"
-  "Gedik"
-  "Gazi"
+  "迪夫塔达尔"  # Defterdar
+  "盖迪克"  # Gedik
+  "加齐"  # Gazi
   "居米尔吉内利"  # Gümülcineli
   "Gürcü"
   "哈德姆"  # Hadim
@@ -116,12 +116,12 @@ leader_names = {
   "Lefkeli"
   "Malkoç"
   "米埃津扎德"  # Müezzinzade
-  "Nevsehirli"
-  "Nisanci"
+  "内塞赫利"  # Nevsehirli
+  "尼塞茨"  # Nisanci
   "Oruç"
   "Uluç"
   "Osmancikli"
-  "Ohrili"
+  "奥尔林"  # Ohrili
   "Oflu"
   "Rumi"
   "Piri"
@@ -132,8 +132,8 @@ leader_names = {
   "Sokullu"
   "Sari"
   "希拉达"  # Silahdar
-  "Semiz"
-  "Serdar"
+  "塞米兹"  # Semiz
+  "塞尔达尔"  # Serdar
   "托帕"  # Topal
   "Tayyar"
   "图尔古特"  # Turgut
@@ -168,11 +168,11 @@ ship_names = {
   "Ejder"
   "尤努斯"  # Yunus
   "Sivrihisar"
-  "Akhisar"
-  "Akka"
+  "阿克希萨尔"  # Akhisar
+  "阿卡"  # Akka
   "Aziziye"
   "Bereket"
-  "Galata"
+  "加拉塔"  # Galata
   "Kozlu"
   "Kuzlum"
   "Nilüfer"
@@ -246,7 +246,7 @@ ship_names = {
   "Ipsala"
   "Meriç"
   "Havsa"
-  "Nizip"
+  "尼济普"  # Nizip
   "Görele"
   "Göce"
   "Kelkit"
@@ -255,11 +255,11 @@ ship_names = {
   "Hassa"
   "Gönen"
   "Safranbolu"
-  "Ermenek"
+  "埃尔梅内克"  # Ermenek
   "Akyaka"
   "Sürmene"
   "Vakfikebir"
-  "Eregli"
+  "埃雷利"  # Eregli
   "Darica"
   "Kandira"
   "Ahirli"
@@ -274,7 +274,7 @@ ship_names = {
   "Atakum"
   "Havza"
   "Kavak"
-  "Ladik"
+  "拉迪克"  # Ladik
   "Terme"
   "Baykan"
   "Boyabat"

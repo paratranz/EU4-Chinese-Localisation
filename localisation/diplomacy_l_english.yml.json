@@ -4002,24 +4002,24 @@
     {
         "key": "SELLPROV_INFLATION:0",
         "original": "Will cost us §R$AMT$§! prestige and result in $INFLATION$ inflation for $ACTIVE$.",
-        "translation": "将花费我们§R$AMT$§!威望并使$ACTIVE$产生$INFLATION$通货膨胀.",
-        "stage": 5,
+        "translation": "将花费我们§R$AMT$§!威望并使$ACTIVE$产生$INFLATION$通货膨胀。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "SELLPROV_INFLATION_HORDE:0",
         "original": "Will result in $INFLATION$ inflation for $ACTIVE$.",
-        "translation": "将会使$ACTIVE$产生$INFLATION$通货膨胀.",
-        "stage": 5,
+        "translation": "将会使$ACTIVE$产生$INFLATION$通货膨胀。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "PEACEOFFER_WARGOAL_COST:0",
         "original": "Will cost §G$COST$§!£dip . ",
-        "translation": "将花费§G$COST$§!外交点数.",
-        "stage": 5,
+        "translation": "将花费§G$COST$§!£dip 。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -4034,16 +4034,16 @@
     {
         "key": "PEACEOFFER_WARGOAL_PROV_COST_DESC:0",
         "original": "Demanding province $PROV$ will cost §Y$COST$§!£dip .",
-        "translation": "夺取$PROV$将花费§Y$COST$§!外交点数.",
-        "stage": 5,
+        "translation": "夺取$PROV$将花费§Y$COST$§!£dip 。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "PEACEOFFER_WARGOAL_COST_DESC:0",
         "original": "Total cost: §Y$COST$§!£dip .",
-        "translation": "总共需要：§Y$COST$§!外交点数",
-        "stage": 5,
+        "translation": "总花费：§Y$COST$§!£dip 。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },

@@ -39,34 +39,34 @@ monarch_names = {
   "Svimon #0" = 10
   "Solomon #0" = 20
   "Mamia #0" = 10
-  "Tsotne #0" = 0
   "Datua #0" = 0
   "Bezhan #0" = 0
   "Katsia #0" = 0
   "Otia #0" = 0
   "Grigol #0" = 0
   "Kakhaber #0" = 0
-  "Shamandavle #0" = 0
   "Vamiq #0" = 0
-  "Rabia #0" = 0
   "Puto #0" = 0
   "Seteman #0" = 0
   "Tamar #0" = -20
   "Rusudan #0" = -10
   "Ketevan #0" = -5
-  "Nino #0" = -1
-  "Elene #0" = -1
-  "Ana #0" = -1
   "Mariam #0" = -1
   "Khoreshan #0" = -1
+  "安娜 #0" = -1  # Ana #0
+  "埃琳娜 #0" = -1  # Elene #0
+  "尼诺 #0" = -1  # Nino #0
   "季纳京 #0" = -5  # Tinatin #0
   "达雷扬 #0" = -5  # Darejan #0
   "内斯唐 达雷扬 #0" = -10  # Nestan-Darejan #0
   "蒂莫特 #0" = 0  # Timote #0
   "泽格纳克 #0" = 0  # Zegnak #0
+  "拉比耶 #0" = 0  # Rabia #0
   "兹维亚德 #0" = 0  # Zviad #0
+  "沙曼达弗勒 #0" = 0  # Shamandavle #0
   "利帕里特 #0" = 0  # Liparit #0
   "马努切赫尔 #0" = 0  # Manuchar #0
+  "措特涅 #0" = 0  # Tsotne #0
   "托尔尼克 #0" = 0  # Tornike #0
   "阿尔奇尔 #0" = 10  # Archil #0
   "康斯坦丁 #2" = 5  # Konstantine #2
@@ -78,7 +78,7 @@ monarch_names = {
 }
 leader_names = {
   "阿巴希泽"  # Abashidze
-  "Agiashvili"
+  "阿加什维利"  # Agiashvili
   "Anchabadze"
   "Apakidze"
   "奇楚亚"  # Chichua
@@ -89,29 +89,29 @@ leader_names = {
   "Dadeshkeliani"
   "Gelovani"
   "Gurieli"
-  "Iashvili"
+  "雅什维利"  # Iashvili
   "罗尔特基帕尼泽"  # Lortkipanidze
   "Machavariani"
   "Machutadze"
   "Mkheidze"
-  "Mikeladze"
+  "米克拉泽"  # Mikeladze
   "Nakashidze"
-  "Nikoladze"
-  "Nizharadze"
-  "Shervashidze"
-  "Tsereteli"
-  "Tsulukidze"
+  "尼古拉泽"  # Nikoladze
+  "尼扎拉泽"  # Nizharadze
+  "舍尔瓦什泽"  # Shervashidze
+  "采列捷利"  # Tsereteli
+  "楚卢基泽"  # Tsulukidze
 }
 ship_names = {
   "Amirani"
-  "Armazi"
-  "Anakopia"
+  "阿尔马奇"  # Armazi
+  "阿纳克皮亚"  # Anakopia
   "Artaani"
-  "Argo"
+  "阿尔戈"  # Argo
   "阿布哈兹"  # Abkhazeti
-  "Apsaros"
+  "阿普萨罗斯"  # Apsaros
   "阿特尼 斯诺利"  # Ateni Sioni
-  "Avtandil"
+  "阿夫坦季尔"  # Avtandil
   "Bichvinta"
   "Batomi"
   "科尔基斯"  # Colchis
@@ -128,14 +128,14 @@ ship_names = {
   "Khornabuji"
   "Lasharisjvari"
   "Mtkvari"
-  "Ninotsminda"
-  "Okros Satsmisi"
+  "尼诺茨明达"  # Ninotsminda
+  "奥克罗斯 萨茨米西"  # Okros Satsmisi
   "Parnavaz"
   "Phasis"
   "Pityus"
   "Petre Iberi"
   "Ruisi"
-  "Racha"
+  "拉查"  # Racha
   "Rioni"
   "Seti"
   "Skhalta"
@@ -143,8 +143,8 @@ ship_names = {
   "Svetitskhoveli"
   "Shota Rustaveli"
   "他玛"  # Tamar
-  "Tsminda Giorgi"
-  "Tsotne Dadiani"
+  "亚兹明达 乔治"  # Tsminda Giorgi
+  "措特涅 达季阿尼"  # Tsotne Dadiani
   "Tetri Giorgi"
   "Ushba"
   "Uplistsikhe"

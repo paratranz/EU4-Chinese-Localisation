@@ -42,35 +42,35 @@ monarch_names = {
   "Daya #0" = 0
   "Dharem #0" = 0
   "Fakir #0" = 0
-  "Gahunia #0" = 0
   "Gian #0" = 0
-  "Nihang  #0" = 0
   "Granth #0" = 0
   "Bhai Bachittar #0" = 0
   "Himmat #0" = 0
   "Hoora #0" = 0
-  "Ishnar #0" = 0
   "Jhol #0" = 0
   "Jhotti #0" = 0
   "Lohaar #0" = 0
   "Mokham #0" = 0
   "Nand #0" = 0
   "Parmanand #0" = 0
-  "Rajsingh #0" = 0
   "Sanlib #0" = 0
   "Sardul #0" = 0
   "Shabeg #0" = 0
-  "Shergill #0" = 0
   "Sodhi #0" = 0
   "Sohal #0" = 0
   "Tara #0" = 0
   "Udasi #0" = 0
-  "Ratan Kaur #0" = -1
   "Kanwal Kaur #0" = -1
   "Datar Kaur #0" = -1
   "Nand Kaur #0" = -1
-  "Mahtab #0" = -1
+  "迈赫泰卜 #0" = -1  # Mahtab #0
+  "罗怛 卡乌尔 #0" = -1  # Ratan Kaur #0
   "昌德 卡乌尔 #0" = -10  # Chand Kaur #0
+  "舍尔季尔 #0" = 0  # Shergill #0
+  "拉欣 #0" = 0  # Rajsingh #0
+  "伊什纳尔 #0" = 0  # Ishnar #0
+  "泥亘 #0" = 0  # Nihang  #0
+  "伽护尼亚 #0" = 0  # Gahunia #0
   "巴哈杜尔 #0" = 5  # Bahadur #0
   "雷 #0" = 5  # Rai #0
   "憍宾 #0" = 5  # Gobind #0
@@ -81,7 +81,7 @@ monarch_names = {
   "摩诃 #0" = 5  # Maha #0
   "法塔赫 #0" = 5  # Fateh #0
   "卡拉克 #0" = 10  # Kharak #0
-  "兰拿耆多 #0" = 20  # Ranjit #0
+  "兰恃多 #0" = 20  # Ranjit #0
 }
 leader_names = {
   "Ahluwalia"
@@ -95,18 +95,18 @@ leader_names = {
   "汗"  # Khan
   "Das"
   "Dev"
-  "Gahunia"
+  "伽护尼亚"  # Gahunia
   "Parmanand"
   "僧摩"  # Samma
-  "Shergill"
+  "舍尔季尔"  # Shergill
   "僧诃"  # Singh
   "Sodhi"
   "Sohal"
   "Soomrah"
   "Chattar"
-  "Rathore"
+  "拉索尔"  # Rathore
   "Mian"
-  "Rai"
+  "雷"  # Rai
   "乔诃那"  # Chauhan
   "Bhatia"
   "Suleria"
@@ -131,7 +131,7 @@ ship_names = {
   "Beas"
   "Chenab"
   "Devi"
-  "Gayatri"
+  "揭耶陀梨"  # Gayatri
   "Guru"
   "Indus"
   "Jalsena"
@@ -140,11 +140,11 @@ ship_names = {
   "Nausena"
   "纳瓦 卡 尤多"  # Nav ka Yudh
   "Parvati"
-  "Radha"
-  "Ratri"
-  "Ravi"
+  "罗陀"  # Radha
+  "夜之女神"  # Ratri
+  "罗毗"  # Ravi
   "Sagar"
   "Sutlej"
-  "Sarasvati"
+  "娑罗室伐底"  # Sarasvati
   "悉多"  # Sita
 }

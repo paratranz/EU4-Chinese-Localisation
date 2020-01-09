@@ -38,7 +38,6 @@ monarch_names = {
   "Filips #0" = 0
   "Frans #0" = 0
   "Gabriël #0" = 0
-  "Gaspar #0" = 0
   "Gerardus #0" = 0
   "Gerbrand #0" = 0
   "Hendrik #0" = 0
@@ -53,18 +52,19 @@ monarch_names = {
   "Prosper #0" = 0
   "Raes #0" = 0
   "Rembrandt #0" = 0
-  "Rodolf #0" = 0
-  "Roeland #0" = 0
   "Jakoba #0" = -15
-  "Margaretha #1" = -10
   "Isabella #0" = -1
   "Maria #0" = -1
   "Mathilde #0" = -1
   "Aleid #0" = -1
   "Katherin #0" = -1
   "约翰娜 #0" = -1  # Johanna #0
+  "马加杜塔 #1" = -10  # Margaretha #1
+  "罗兰德 #0" = 0  # Roeland #0
+  "鲁道夫 #0" = 0  # Rodolf #0
   "西蒙 #0" = 0  # Simon #0
   "雅各布 #0" = 0  # Jacob #0
+  "加斯帕 #0" = 0  # Gaspar #0
   "安东 #0" = 0  # Anton #0
   "阿德里安 #0" = 0  # Adriaan #0
   "阿尔夫 #1" = 5  # Arnolf #1
@@ -81,7 +81,7 @@ leader_names = {
   "Amersfoort"
   "Amstel"
   "Appingedam"
-  "Arnhem"
+  "安亨"  # Arnhem
   "Bieldeers"
   "Blokker"
   "Bolsward"
@@ -92,13 +92,13 @@ leader_names = {
   "Coevorden"
   "Cornelis"
   "Costers"
-  "Culemborg"
+  "屈伦博赫"  # Culemborg
   "De Witt"
   "Den Burg"
   "Deodati"
-  "Dokkum"
+  "多克姆"  # Dokkum
   "多德雷赫特"  # Dordrecht
-  "Drenthe"
+  "德伦特"  # Drenthe
   "Driesman"
   "Eindhoven"
   "Elst"
@@ -110,7 +110,7 @@ leader_names = {
   "Geerit"
   "Genk"
   "Goes"
-  "Gouda"
+  "豪达"  # Gouda
   "Groningen"
   "Gulder"
   "Haag"
@@ -137,7 +137,7 @@ leader_names = {
   "Middleburg"
   "Neuwegen"
   "Nijkerk"
-  "Nijmegen"
+  "奈梅亨"  # Nijmegen
   "Oldenbarneveld"
   "Olderzaal"
   "Opdorf"
@@ -145,7 +145,7 @@ leader_names = {
   "Philipps"
   "Piet"
   "Poszt"
-  "Scheveningen"
+  "斯赫弗宁根"  # Scheveningen
   "Schiedam"
   "Scholtecheren"
   "Schoonebeck"
@@ -192,7 +192,7 @@ ship_names = {
   "Drie Koningen"
   "d'Unij"
   "Elf Steden"
-  "Engel Gabriel"
+  "天使加布里埃"  # Engel Gabriel
   "Frederik Hendrik"
   "Gewapenden Ruijter"
   "Gouden Dolfijn"
@@ -273,25 +273,25 @@ ship_names = {
   "拿骚之纹章"  # Wapen van Nassau
   "乌得勒支之纹章"  # Wapen van Utrecht
   "泽兰之纹章"  # Wapen van Zeeland
-  "Willem van Nieuhoff"
+  "威廉 范 约荷夫"  # Willem van Nieuhoff
   "Witte Lam"
   "Zwarte Arend"
   "Zwarte Bul"
   "Aemilia"
-  "Agatha"
+  "阿加莎"  # Agatha
   "阿贾克斯"  # Ajax
   "Akerboom"
   "Alida"
   "Alkmaar"
   "Alliantie"
   "Alphen"
-  "Amalia"
-  "Amazoon"
+  "阿玛莉亚"  # Amalia
+  "亚马逊"  # Amazoon
   "Amphitrite"
   "Amsterdam"
   "Arend"
-  "Argo"
-  "Arnhem"
+  "阿尔戈"  # Argo
+  "安亨"  # Arnhem
   "Assendelft"
   "Banier"
   "Barbestein"
@@ -318,7 +318,7 @@ ship_names = {
   "Caleb"
   "Callantsoog"
   "Castricum"
-  "Catharina"
+  "卡塔琳娜"  # Catharina
   "Cerberus"
   "Convertine"
   "Curacao"
@@ -357,7 +357,7 @@ ship_names = {
   "Gideon"
   "Glindhorst"
   "Goes"
-  "Gouda"
+  "豪达"  # Gouda
   "Gouderak"
   "哈勒姆"  # Haarlem
   "Haarlemmerhout"
@@ -396,7 +396,7 @@ ship_names = {
   "Maan"
   "Maarseveen"
   "Maas"
-  "Margarethe"
+  "玛格丽特"  # Margarethe
   "Mars"
   "Matenes"
   "Medusa"

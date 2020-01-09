@@ -36,12 +36,10 @@ monarch_names = {
   "Roman #1" = 20
   "Davyd #1" = 20
   "Fedor #1" = 20
-  "Mikhail #1" = 20
   "Ivan #1" = 15
   "Vsevolod #1" = 10
   "Iaropolk #1" = 10
   "Yury #0" = 5
-  "Boris #0" = 5
   "Afanasiy #0" = 0
   "Daniil #0" = 0
   "Dmitriy #0" = 0
@@ -50,13 +48,10 @@ monarch_names = {
   "Feodosiy #0" = 0
   "Feofil #0" = 0
   "Foma #0" = 0
-  "Gavriil #0" = 0
   "Grigoriy #0" = 0
   "Igor #0" = 0
   "Mefodiy #0" = 0
   "Naum #0" = 0
-  "Nikita #0" = 0
-  "Nikolai #0" = 0
   "Pankrati #0" = 0
   "Prokhor #0" = 0
   "Pyotr #0" = 0
@@ -64,16 +59,20 @@ monarch_names = {
   "Semen #0" = 0
   "Serafim #0" = 0
   "Sevastian #0" = 0
-  "Vikentiy #0" = 0
   "Faina #0" = -1
-  "Arina #0" = -1
   "Taisiya #0" = -1
+  "阿里娜 #0" = -1  # Arina #0
   "雅罗斯拉夫 #0" = 0  # Yaroslav #0
+  "维肯季 #0" = 0  # Vikentiy #0
   "巴塞洛缪 #0" = 0  # Varfolomeiy #0
   "季莫费伊 #0" = 0  # Timofeiy #0
   "斯坦尼斯拉夫 #0" = 0  # Stanislav #0
   "拉多斯拉夫 #0" = 0  # Radoslav #0
+  "尼古拉 #0" = 0  # Nikolai #0
+  "尼基塔 #0" = 0  # Nikita #0
+  "加弗里勒 #0" = 0  # Gavriil #0
   "阿德里安 #0" = 0  # Adrian #0
+  "鲍里斯 #0" = 5  # Boris #0
   "夫谢斯拉夫 #0" = 5  # Vseslav #0
   "伊贾斯拉夫 #0" = 5  # Izyaslav #0
   "瓦西里 #0" = 5  # Vasiliy #0
@@ -83,15 +82,16 @@ monarch_names = {
   "亚历山大 #1" = 10  # Aleksandr #1
   "罗斯季斯拉夫 #2" = 15  # Rostislav #2
   "格列布 #2" = 20  # Gleb #2
+  "米哈伊尔 #1" = 20  # Mikhail #1
   "姆斯季斯拉夫 #3" = 20  # Mstislav #3
   "斯维亚托斯拉夫 #2" = 25  # Svyatoslav #2
 }
 leader_names = {
-  "Vitebsky"
+  "维茨布斯基"  # Vitebsky
   "伊贾斯拉夫斯基"  # Izyaslavsky
   "Dursky"
   "Galisky"
-  "Borovsky"
+  "博罗夫斯基"  # Borovsky
   "Vereisky"
   "Volotsky"
   "Galitsky"
@@ -102,14 +102,14 @@ leader_names = {
   "Aladyin"
   "Beznosov"
   "博科夫"  # Bokeev
-  "Burukhin"
+  "布鲁欣"  # Burukhin
   "Vnukov"
   "Korobyin"
   "Zabolotsky"
   "Dalmatov"
-  "Kisleevsky"
+  "吉斯利夫斯基"  # Kisleevsky
   "Travin"
-  "Tsyplyatev"
+  "什普莱耶特"  # Tsyplyatev
   "Shukalovsky"
 }
 ship_names = {
@@ -119,8 +119,8 @@ ship_names = {
   "波洛茨克"  # Polotsk
   "Smolensk"
   "Bryansk"
-  "Rakovor"
-  "Bolotovo"
+  "拉科沃尔"  # Rakovor
+  "博罗托沃"  # Bolotovo
   "库利科沃"  # Kulikovo
   "Ostrov"
   "Izborsk"

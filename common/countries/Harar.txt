@@ -28,49 +28,49 @@ historical_units = {
   african_dragoon
 }
 monarch_names = {
-  "Ibrahim #0" = 60
   "Talha #0" = 40
   "Umar Din #0" = 20
   "Barakat Bin Umar #0" = 20
   "Bat'iah Dël Wanbara #0" = 20
-  "Nur #0" = 20
   "Nasr #0" = 20
   "Sa'ad al-Din #0" = 20
   "Sabr al-Din #0" = 20
   "Sabir al-Din #0" = 20
   "Sadiq #0" = 20
-  "Khalaf #0" = 20
   "Kadhafo #0" = 0
   "Aydahis #0" = 0
   "Anfari #0" = 0
   "Aydays #0" = 0
   "Jamal al-Din #0" = 0
   "Badlay #0" = 0
-  "Shams al-Din #0" = 0
   "Yahya #0" = 0
   "Fakhr al-Din #0" = 0
   "Mansur #0" = 0
   "Husayn #0" = 0
-  "Baziwi #0" = 0
   "Fasil #0" = 0
-  "Nuha #0" = -1
   "Sadaf #0" = -1
   "Amira #0" = -1
   "Bati #0" = -1
+  "努哈 #0" = -1  # Nuha #0
+  "巴齐维 #0" = 0  # Baziwi #0
   "阿卜杜勒 哈里姆 #0" = 0  # Abd al-Karim #0
   "阿卜杜勒 沙库尔 #0" = 0  # Abd al-Shakur #0
   "汉法德 #0" = 0  # Hanfadhe #0
+  "沙姆斯丁 #0" = 0  # Shams al-Din #0
   "哈齐 阿尔丁 #0" = 0  # Haqq al-Din #0
   "卡德哈佛 穆罕默德 #0" = 0  # Kadhafo Muhammad #0
   "优素福 #0" = 20  # Yusuf #0
   "哈米德 #0" = 20  # Hamid #0
+  "哈拉福 #0" = 20  # Khalaf #0
   "阿布 巴克尔 #0" = 20  # Abu Bakr #0
   "阿卜杜拉 #0" = 20  # Abdallah #0
   "哈希姆 #0" = 20  # Hashim #0
   "马拉克 亚当 #0" = 20  # Malaq Adam #0
   "奥斯曼 #0" = 20  # 'Uthman #0
+  "努尔 #0" = 20  # Nur #0
   "阿卜杜 拉赫曼 #0" = 20  # Abd al-Rahman #0
   "阿里 #0" = 40  # 'Ali #0
+  "易卜拉欣 #0" = 60  # Ibrahim #0
   "艾哈迈德 #0" = 60  # Ahmad #0
   "穆罕默德 #0" = 100  # Mohammed #0
 }
@@ -95,11 +95,11 @@ ship_names = {
   "Dallol"
   "Dubti"
   "杜勒沙"  # Dulecha
-  "Elidar"
+  "埃里达"  # Elidar
   "Ewa"
-  "Gewane"
+  "格瓦恩"  # Gewane
   "Koneba"
-  "Mille"
+  "米勒"  # Mille
   "Semera"
   "塞米洛比"  # Simurobi
   "Yalo"
