@@ -64,16 +64,21 @@ leader_names = {
 }
 monarch_names = {
   "Feofilakt #0" = 0
+  "Gavriil #0" = 0
   "Innokentiy #0" = 0
+  "Iosif #0" = 0
   "Lavrentiy #0" = 0
   "Makariy #0" = 0
   "Matveiy #0" = 0
   "Mikhail #0" = 0
   "Nazariy #0" = 0
+  "Nikifor #0" = 0
   "Oleg #0" = 0
+  "Onisim #0" = 0
   "Pavel #0" = 0
   "Prokopiy #0" = 0
   "Pyotr #0" = 0
+  "Radomir #0" = 0
   "Saveliy #0" = 0
   "Sergei #0" = 0
   "Terentiy #0" = 0
@@ -83,11 +88,6 @@ monarch_names = {
   "Agafya #0" = -1
   "尤利娅 #0" = -1  # Yuliya #0
   "斯维特拉娜 #0" = -1  # Svetlana #0
-  "拉多米尔 #0" = 0  # Radomir #0
-  "奥尼辛 #0" = 0  # Onisim #0
-  "尼基佛尔 #0" = 0  # Nikifor #0
-  "约西夫" = 0  # Iosif #0
-  "加弗里勒 #0" = 0  # Gavriil #0
   "费奥多西 #0" = 0  # Feodosiy #0
   "多罗费 #0" = 0  # Dorofey #0
   "丹尼尔 #0" = 0  # Daniil #0
@@ -108,25 +108,25 @@ monarch_names = {
 }
 ship_names = {
   "大将军米哈伊尔"  # Archistratig Michail
-  "大天使加百列"  # Arkhangel Gavriil
+  "Arkhangel Gavriil"
   "Arkhangel Mikhail"
-  "大天使拉斐尔"  # Arkhangel Rafail
+  "Arkhangel Rafail"
   "Arkhangel Uriil"
-  "主显圣容节"  # Bogoiavlenie Gospodne
+  "Bogoiavlenie Gospodne"
   "Boris i Gleb"
   "Bozhiye Predvideniye"
   "Cvet Vojny"
-  "德米特里 顿斯科伊"  # Dimitrii Donskoi
+  "Dimitrii Donskoi"
   "Dvenadtsat Apostolov"
-  "伊娃 艾琳诺拉"  # Evva Elenora
+  "Evva Elenora"
   "Evva Katerina"
   "俄罗斯大元帅"  # Generalissimus Rossiiskaia
-  "阿尔汉格尔斯克城"  # Gorod Arkhangelsk
-  "天命"  # Goto Predestinatsia
+  "Gorod Arkhangelsk"
+  "Goto Predestinatsia"
   "Graf Orlov"
   "Imperatritsa Anna"
   "金口约翰一世"  # Ioann Zlatoust Pervyi
-  "伊萨克 维多利亚"  # Isaak Viktoriia
+  "Isaak Viktoriia"
   "伊凡 哥罗德"  # Ivan Gorod
   "圣亚历山大骑士"  # Kavaler Sviatoi Aleksandr
   "Kavaler Sviatoi Andrei"
@@ -157,10 +157,10 @@ ship_names = {
   "Printsessa Anna"
   "铁火"  # Razzhyonnoe Zhelezo
   "基督降生"  # Rozhdestrvo Khristovo
-  "圣米海尔"  # Sankt Michail
+  "Sankt Michail"
   "Sant Iakim"
   "Severnyj Oryol"
-  "叶卡捷琳娜荣光"  # Slava Ekateriny
+  "Slava Ekateriny"
   "俄罗斯荣光"  # Slava Rossii
   "睡狮"  # Spiashchii Lev
   "Staryi Dub"
@@ -176,30 +176,30 @@ ship_names = {
   "圣德米特里 罗斯托夫斯基"  # Sviatoi Dmitrii Rostovskii
   "Sviatoi Evstafii Plakida"
   "Sviatoi Fyodor"
-  "使徒圣乔治"  # Sviatoi Georgii Pobedonosets
-  "圣乔治"  # Sviatoi Georgii
+  "Sviatoi Georgii Pobedonosets"
+  "Sviatoi Georgii"
   "Sviatoi Iakov"
   "Sviatoi Ieronim"
   "圣伊莉雅"  # Sviatoi Ilia
   "Sviatoi Isakii"
   "Sviatoi Januarii"
   "罗马主教圣克莱门"  # Sviatoi Kliment Papa Rimskii
-  "圣尼古拉"  # Sviatoi Nikolai
+  "Sviatoi Nikolai"
   "Sviatoi Panteleimon"
   "Sviatoi Pavel"
   "Sviatoi Piotr"
   "Sviatoi Sergii"
   "Sviatoi Velikomuchenik Isidor"
-  "圣卡特琳娜"  # Svietaia Ekaterina
+  "Svietaia Ekaterina"
   "Svietaia Mariia"
   "Sysoi Velikii"
   "图拉圣母"  # Tolskaya Bogoroditsa
   "Trekh Ierarkhov"
   "Trekh Sviatitelei"
-  "沙皇康斯坦丁"  # Tsar Konstantin
-  "战争色彩"  # Tsvet Voiny
-  "葡萄枝"  # Vinogradnaia Vetv
-  "耶稣升天节"  # Voznesenie Gospodne
+  "Tsar Konstantin"
+  "Tsvet Voiny"
+  "Vinogradnaia Vetv"
+  "Voznesenie Gospodne"
   "伊拉莎白 撒迦利亚一世"  # Zakharii i Elisavet
   "天鹅座守护者"  # Zhuravl Steregushchii
   "金星"  # Zolotaia Zvezda
@@ -230,12 +230,12 @@ ship_names = {
   "Derpt"
   "Devonshir"
   "Diana"
-  "大吉"  # Dobraia
-  "唐德"  # Donder
+  "Dobraia"
+  "Donder"
   "Drumkrakht"
   "Dumkrat"
   "Eingorn"
-  "叶连娜"  # Elena
+  "Elena"
   "Emgeiten"
   "Emmanuil"
   "Endrakht"
@@ -251,7 +251,7 @@ ship_names = {
   "Fridemaker"
   "Fyodor"
   "Gamburg"
-  "甘古特"  # Gangut
+  "Gangut"
   "Gektor"
   "雷鸣"  # Gremiashchii
   "Grigorii"
@@ -262,7 +262,7 @@ ship_names = {
   "Iassy"
   "Iezekiil"
   "Ingermanland"
-  "约安"  # Ioann
+  "Ioann"
   "Iupiter"
   "Kamen"
   "Khobot"
@@ -308,7 +308,7 @@ ship_names = {
   "Narva"
   "Natalia"
   "Nazaret"
-  "无敌"  # Nepobedimaia
+  "Nepobedimaia"
   "Neptunus"
   "Nishtadt"
   "Novopavlovsk"
@@ -319,7 +319,7 @@ ship_names = {
   "Oryol"
   "Palyulos"
   "Parizh"
-  "帕罗斯"  # Paros
+  "Paros"
   "Patriklii"
   "Perl"
   "Pernov"
@@ -341,9 +341,9 @@ ship_names = {
   "Priyatelnaya"
   "Prokhor"
   "Provornyi"
-  "拉斐尔"  # Rafail
-  "龙虾"  # Rak
-  "兰道夫"  # Randolf
+  "Rafail"
+  "Rak"
+  "Randolf"
   "Razumnaia"
   "Revel"
   "Riga"
@@ -400,13 +400,13 @@ ship_names = {
   "Vestovoi"
   "Vesuvii"
   "维亚切斯拉夫"  # Viacheslav
-  "维多利亚"  # Viktoriia
+  "Viktoriia"
   "Vinkelgak"
   "Voin"
   "Voronez"
   "Vsevolod"
   "Vtoroi"
-  "维堡"  # Vyborg
+  "Vyborg"
   "Vydra"
   "Yanos"
   "谐星"  # Zabavnaia

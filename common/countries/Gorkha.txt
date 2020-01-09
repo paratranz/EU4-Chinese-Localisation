@@ -28,6 +28,7 @@ historical_units = {
   indian_rifle
 }
 monarch_names = {
+  "Mukunda #0" = 30
   "Chandra #0" = 10
   "Manikya #0" = 10
   "Gundharva #0" = 10
@@ -40,23 +41,22 @@ monarch_names = {
   "Bihangga #0" = 10
   "Dravya #0" = 10
   "Chatra #0" = 10
+  "Ram #0" = 10
   "Dambar #0" = 10
   "Krishna #0" = 10
   "Prithvipati #0" = 10
   "Nara Bhupal #0" = 10
   "Prithvi Narayana #0" = 10
   "Pratapa Simha #0" = 10
+  "Devaladevi #0" = -10
   "Kaushalyawati #0" = -1
-  "罗恃达罗羯湿密 #0" = -1  # Rajendralakshmi #0
-  "德瓦拉提毗 #0" = -10  # Devaladevi #0
-  "罗摩 #0" = 10  # Ram #0
+  "Rajendralakshmi #0" = -1
   "洛汗贾 #0" = 10  # Lohanga #0
   "安巴尔 #0" = 10  # Ambar #0
   "楼陀罗 #0" = 30  # Rudra #0
-  "牟军陀 #0" = 30  # Mukunda #0
 }
 leader_names = {
-  "塔帕"  # Thapa
+  "Thapa"
   "Bahadur"
   "Bikram"
   "Chhettri"
@@ -66,35 +66,35 @@ leader_names = {
   "Yadav"
   "Gurung"
   "林布"  # Limbu
-  "雷"  # Rai
-  "罗那"  # Rana
+  "Rai"
+  "Rana"
   "Malla"
   "Chand"
   "Madhesi"
 }
 ship_names = {
-  "阿伦"  # Arun
+  "Arun"
   "Behri"
   "Bhote Kosi"
   "Devi"
   "Dudh Kosi"
   "Durga"
-  "揭耶陀梨"  # Gayatri
+  "Gayatri"
   "Jalsena"
   "Kala Jahazi"
-  "迦梨 甘达基"  # Kali Gandaki
+  "Kali Gandaki"
   "Karnali"
   "Lakshmi"
-  "拉尔 贾哈齐"  # Lal Jahazi
+  "Lal Jahazi"
   "Narayani"
   "Nausena"
   "纳瓦 卡 尤多"  # Nav ka Yudh
-  "尼拉 贾哈齐"  # Nila Jahazi
+  "Nila Jahazi"
   "Parvati"
-  "罗陀"  # Radha
+  "Radha"
   "Rapti"
-  "夜之女神"  # Ratri
-  "萨加尔"  # Sagar
+  "Ratri"
+  "Sagar"
   "Sapt Kosi"
   "Sarasvati"
   "悉多"  # Sita

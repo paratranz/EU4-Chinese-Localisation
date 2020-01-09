@@ -35,10 +35,13 @@ historical_units = {
 }
 monarch_names = {
   "Selim #0" = 5
+  "Mahmud #0" = 5
   "Süleyman #0" = 5
+  "Ibrahim #0" = 5
   "Cihangir #0" = 0
   "Giyasuddin #0" = 0
   "Isa #0" = 0
+  "Numan #0" = 0
   "Musa #0" = 0
   "Cem #0" = 0
   "Orhan #1" = 0
@@ -50,19 +53,19 @@ monarch_names = {
   "Korkud #0" = 0
   "Ömer #0" = 0
   "Seyfettin #0" = 0
+  "Iskender #0" = 0
   "Ayse #0" = -1
   "Elif #0" = -1
   "Fatma #0" = -1
+  "Gamze #0" = -1
   "Melis #0" = -1
+  "Rabia #0" = -1
   "Umut #0" = -1
   "祖拜德 #0" = -1  # Zübeyde #0
   "兹内特 #0" = -1  # Ziynet #0
   "莎菲耶 #0" = -1  # Safiye #0
-  "拉比耶 #0" = -1  # Rabia #0
   "哈尼斐 #0" = -1  # Hanife #0
-  "加姆泽 #0" = -1  # Gamze #0
   "哈瓦 #0" = -1  # Havva #0
-  "伊斯坎德尔 #0" = 0  # Iskender #0
   "优素福 #0" = 0  # Yusuf #0
   "雅各布 #0" = 0  # Yakub #0
   "穆拉德 #0" = 0  # Murad #0
@@ -72,12 +75,9 @@ monarch_names = {
   "阿卜杜尔 拉赫曼 #0" = 0  # Abdulrahman #0
   "阿卜杜尔马利克 #0" = 0  # Abdulmalik #0
   "阿卜杜尔阿齐兹 #0" = 0  # Abdulaziz #0
-  "努曼 #0" = 0  # Numan #0
   "阿卜杜勒-迈吉德 #0" = 0  # Abdülmecid #0
   "阿卜杜拉 #0" = 5  # Abdullah #0
-  "易卜拉欣 #0" = 5  # Ibrahim #0
   "阿卜杜勒哈米德 #0" = 5  # Abdülhamid #0
-  "马哈茂德 #0" = 5  # Mahmud #0
   "艾哈迈德 #0" = 5  # Ahmed #0
   "希齐尔 #0" = 40  # Hizir #0
   "伊利亚斯 #1" = 40  # Ilyas #1
@@ -86,10 +86,10 @@ monarch_names = {
 }
 leader_names = {
   "阿来姆达尔"  # Alemdar
-  "阿马西亚勒"  # Amasyali
+  "Amasyali"
   "Ayas"
   "Bali"
-  "巴巴罗萨"  # Barbaros
+  "Barbaros"
   "Bayram"
   "Cezzar"
   "Çandarli"
@@ -100,9 +100,9 @@ leader_names = {
   "Çuhadar"
   "Damad"
   "Dervis"
-  "迪夫塔达尔"  # Defterdar
-  "盖迪克"  # Gedik
-  "加齐"  # Gazi
+  "Defterdar"
+  "Gedik"
+  "Gazi"
   "居米尔吉内利"  # Gümülcineli
   "Gürcü"
   "哈德姆"  # Hadim
@@ -125,12 +125,12 @@ leader_names = {
   "Lefkeli"
   "Malkoç"
   "米埃津扎德"  # Müezzinzade
-  "内塞赫利"  # Nevsehirli
-  "尼塞茨"  # Nisanci
+  "Nevsehirli"
+  "Nisanci"
   "Oruç"
   "Uluç"
   "Osmancikli"
-  "奥尔林"  # Ohrili
+  "Ohrili"
   "Oflu"
   "Rumi"
   "Piri"
@@ -141,8 +141,8 @@ leader_names = {
   "Sokullu"
   "Sari"
   "希拉达"  # Silahdar
-  "塞米兹"  # Semiz
-  "塞尔达尔"  # Serdar
+  "Semiz"
+  "Serdar"
   "托帕"  # Topal
   "Tayyar"
   "图尔古特"  # Turgut
@@ -170,11 +170,11 @@ ship_names = {
   "Ejder"
   "Yunus"
   "Sivrihisar"
-  "阿克希萨尔"  # Akhisar
-  "阿卡"  # Akka
+  "Akhisar"
+  "Akka"
   "Aziziye"
   "Bereket"
-  "加拉塔"  # Galata
+  "Galata"
   "Kozlu"
   "Kuzlum"
   "Nilüfer"
@@ -251,7 +251,7 @@ ship_names = {
   "Ipsala"
   "Meriç"
   "Havsa"
-  "尼济普"  # Nizip
+  "Nizip"
   "Görele"
   "Göce"
   "Kelkit"
@@ -260,11 +260,11 @@ ship_names = {
   "Hassa"
   "Gönen"
   "Safranbolu"
-  "埃尔梅内克"  # Ermenek
+  "Ermenek"
   "Akyaka"
   "Sürmene"
   "Vakfikebir"
-  "埃雷利"  # Eregli
+  "Eregli"
   "Darica"
   "Kandira"
   "Ahirli"
@@ -273,7 +273,7 @@ ship_names = {
   "Bodrum"
   "Dalaman"
   "Fethiye"
-  "米拉斯"  # Milas
+  "Milas"
   "Yatagan"
   "Malazgirt"
   "Fatsa"
@@ -287,7 +287,7 @@ ship_names = {
   "Carsamba"
   "Havza"
   "Kavak"
-  "拉迪克"  # Ladik
+  "Ladik"
   "Terme"
   "Baykan"
   "Boyabat"

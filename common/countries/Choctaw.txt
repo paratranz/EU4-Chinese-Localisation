@@ -38,11 +38,14 @@ monarch_names = {
   "Tehakuhbay #0" = 20
   "Autoonachuba #0" = 10
   "Steabee #0" = 10
+  "Cunnopoie #0" = 10
   "Mingohom Massatubby #0" = 10
   "Ocshumme #0" = 10
   "Shappahomo #0" = 10
   "Hiupahoo #0" = 10
   "Bakalubbe #0" = 10
+  "Millaray #0" = -1
+  "Ayaistanaksi #0" = 10
   "Ulbalent #0" = 10
   "Asetahuma #0" = 10
   "Pushahuma #0" = 10
@@ -53,6 +56,8 @@ monarch_names = {
   "Pushimataha #0" = 10
   "Cayabe #0" = 10
   "Okshakihoma #0" = 10
+  "Chulomastubee #0" = 10
+  "Alpatakhuma #0" = 10
   "Pushihuma #0" = 10
   "Asitahuma #0" = 10
   "Nahomtima #0" = -1
@@ -63,11 +68,9 @@ monarch_names = {
   "丘卡斯塔贝 #0" = 10  # Chucaastabe #0
   "图斯卡比 #0" = 10  # Tuscaabi #0
   "伊泰莱斯卡纳 #0" = 10  # Iteleskana #0
-  "阿尔帕塔克胡玛 #0" = 10  # Alpatakhuma #0
   "卡丘安恰贝 #0" = 10  # Cachuaanchabe #0
   "普什斯托纳胡玛 #0" = 10  # Pushistonahuma #0
   "斯托纳胡玛 #0" = 10  # Stonahuma #0
-  "丘洛玛斯图比 #0" = 10  # Chulomastubee #0
   "绰科拉克塔 #0" = 10  # Choccoolacta #0
   "普契胡玛契塔 #0" = 10  # Puchihumachita #0
   "明戈霍莫亚斯塔比 #0" = 10  # Mingohomoastabee #0
@@ -79,8 +82,6 @@ monarch_names = {
   "蒂乌博耶 #0" = 10  # Tiupoye #0
   "契卡恰胡玛 #0" = 10  # Chicachahuma #0
   "梅斯蒂科 #0" = 10  # Mestico #0
-  "阿雅伊斯塔纳齐 #0" = 10  # Ayaistanaksi #0
-  "米拉莱 #0" = -1  # Millaray #0
   "普沙霍莫 #0" = 10  # Pooshahomo #0
   "卡普坦内斯鲁科 #0" = 10  # Capputannethlucco #0
   "穆克鲁沙霍博亚 #0" = 10  # Muclushahopoia #0
@@ -91,7 +92,6 @@ monarch_names = {
   "明戈普斯库斯 #0" = 10  # Mingopooscoos #0
   "图塔霍莫 #0" = 10  # Tootahomo #0
   "图斯科纳霍博耶 #0" = 10  # Tuskonahopoia #0
-  "昆诺博耶 #0" = 10  # Cunnopoie #0
   "什南格恰巴 #0" = 10  # Cshnaangchabba #0
   "图什塔尔莱 #0" = 10  # Tushtallay #0
   "图什凯门塔霍克 #0" = 10  # Tushkementahock #0
@@ -142,7 +142,7 @@ leader_names = {
   "欧克图埃恰纳克"  # Octuechanacbe
   "Ocatalaya"
   "奥亚恰"  # Ouiacha
-  "普斯库斯塔卡里"  # Puscustakali
+  "Puscustakali"
   "昆沙波鲁克塔"  # Kunshabolukta
   "Yowani"
   "契斯基里克巴恰"  # Chiskilikbacha
@@ -160,7 +160,7 @@ leader_names = {
   "Achohchuba"
   "汉克豪拉"  # Hankhaula
   "伊托克恰科"  # Itokchako
-  "鲁克法克塔"  # Lukfakta
+  "Lukfakta"
   "Bokfalaya"
   "Yazoo"
   "昆沙克"  # Kunshak
@@ -176,10 +176,10 @@ leader_names = {
   "Imoklashi"
   "Cabeahoola"
   "Kashtasha"
-  "欧萨克塔拉亚"  # Osaktalaya
+  "Osaktalaya"
   "阿比萨"  # Abissa
   "Chanke"
-  "欧尼塔莱蒙"  # Onitalemon
+  "Onitalemon"
 }
 ship_names = {
   "Nanih Waiya"

@@ -33,8 +33,10 @@ historical_units = {
 monarch_names = {
   "Feidlimidh #1" = 40
   "Áed #16" = 20
+  "Cathal #6" = 20
   "Brian #1" = 20
   "Tadhg #4" = 10
+  "Donal #4" = 1
   "Aindriú #0" = 0
   "Alaois #0" = 0
   "Alastar #0" = 0
@@ -43,12 +45,14 @@ monarch_names = {
   "Brennan #0" = 0
   "Brody #0" = 0
   "Brónach #0" = 0
+  "Calbhach #0" = 0
   "Caolan #0" = 0
   "Carroll #0" = 0
   "Ceallach #0" = 0
   "Caerbhall #0" = 0
   "Cian #0" = 0
   "Conan #0" = 0
+  "Connor #0" = 0
   "Diarmaid #0" = 0
   "Dubhghall #0" = 0
   "Éamonn #0" = 0
@@ -62,18 +66,14 @@ monarch_names = {
   "Lommán #0" = 0
   "Murchadha #0" = 0
   "Naomhán #0" = 0
+  "Niall #0" = 0
   "Bébinn #0" = -1
   "Fionola #0" = -1
   "Norene #0" = -1
-  "尼尔 #0" = 0  # Niall #0
   "穆埃拉赫恩 #0" = 0  # Maeleachlain #0
   "奥恩" = 0  # Eoghan #0
-  "康诺尔 #0" = 0  # Connor #0
-  "卡尔瓦奇 #0" = 0  # Calbhach #0
   "贝拉奇 #0" = 0  # Berach #0
-  "多纳尔 #4" = 1  # Donal #4
   "特洛 #3" = 20  # Turlough #3
-  "卡哈尔 #6" = 20  # Cathal #6
 }
 leader_names = {
   "Mac Branain"
@@ -87,7 +87,7 @@ leader_names = {
   "Ó Breislein"
   "Ó Cadhla"
   "Ó Caithniadh"
-  "奥 卡哈尔"  # Ó Cathail
+  "Ó Cathail"
   "Ó Cearbhaill"
   "Ó Céirín"
   "Ó Cléirigh"
@@ -123,9 +123,9 @@ ship_names = {
   "Ballina"
   "Ballinrobe"
   "Ballyhaunis"
-  "博伊尔"  # Boyle
+  "Boyle"
   "Castlebar"
-  "戈尔韦"  # Galway
+  "Galway"
   "康尼马拉"  # Connemara
   "Mayo"
   "罗斯康芒"  # Roscommon
