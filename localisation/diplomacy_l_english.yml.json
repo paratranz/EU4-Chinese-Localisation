@@ -5218,7 +5218,7 @@
     {
         "key": "FULL_ALLY_CHECKBOX_WILL_AUTOJOIN:1",
         "original": "The enemy $SUBJECTORALLY$ §Y$COUNTRY$§! will be considered a co-belligerent in this war but will NOT be able to call their own allies.",
-        "translation": "敌人的盟友 §Y$COUNTRY$§! 在这场战斗中会考虑联合作战但是不能呼叫他们的盟友。",
+        "translation": "敌人的$SUBJECTORALLY$§Y$COUNTRY$§!在这场战斗中作为共同交战方，但是不能呼叫盟友。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -5226,7 +5226,7 @@
     {
         "key": "FULL_ALLY_CHECKBOX_WILL_CALL:1",
         "original": "The enemy $SUBJECTORALLY$ §Y$COUNTRY$§! will be considered a co-belligerent in this war. They will be able to call their own allies.",
-        "translation": "敌人的盟友 §Y$COUNTRY$§!在这场战争中会考虑联合作战。他们能呼叫他们的盟友。",
+        "translation": "敌人的$SUBJECTORALLY$§Y$COUNTRY$§!在这场战斗中作为共同交战方，他们可以呼叫盟友。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -5234,7 +5234,7 @@
     {
         "key": "FULL_ALLY_CHECKBOX_WILL_NOT_CALL:1",
         "original": "The enemy $SUBJECTORALLY$ §Y$COUNTRY$§! will NOT be considered a co-belligerent in this war. They will NOT be able to call their own allies, but it will be twice as expensive to take their provinces.",
-        "translation": "敌人的盟友 §Y$COUNTRY$§! 在这场战争中不会考虑联合作战。他们不能呼叫他们的盟友，但是获得他们省份的代价是之前的两倍。",
+        "translation": "敌人的$SUBJECTORALLY$§Y$COUNTRY$§!在这场战斗中不作为共同交战方。他们不能呼叫盟友，但夺取其省份需要两倍花费。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
