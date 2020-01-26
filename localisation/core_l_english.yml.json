@@ -1634,7 +1634,7 @@
     {
         "key": "NAVY_COMBAT_TOOLTIP:0",
         "original": "$NAME|Y$ is a §Y'$TYPE$'§!.\\nThe morale is at §Y$MORALE|1$%§! of max and they are at $STRENGTH|Y$ strength.",
-        "translation": "$NAME|Y$是一个§Y'$TYPE$'§!。\\n士气值最大为§Y$MORALE|1$%§!，他们的力量值为$STRENGTH|Y$。",
+        "translation": "$NAME|Y$是一个§Y「$TYPE$」§!。\\n他们的士气为最大值的 §Y$MORALE|1$%§!，力量为 $STRENGTH|Y$。",
         "stage": 1,
         "context": null,
         "file": "localisation/core_l_english.yml"
@@ -1658,8 +1658,8 @@
     {
         "key": "LAND_COMBAT_TOOLTIP_LASTENGAGED:0",
         "original": "Last engaged enemy unit was $ENEMY|R$.",
-        "translation": "上一次作战的敌方部队为$ENEMY|R$。",
-        "stage": 5,
+        "translation": "上一次交战的敌方单位为$ENEMY|R$。",
+        "stage": 1,
         "context": null,
         "file": "localisation/core_l_english.yml"
     },
@@ -3923,7 +3923,7 @@
         "key": "attitude_defensive:0",
         "original": "Defensive Ally",
         "translation": "防御盟友",
-        "stage": 1,
+        "stage": 5,
         "context": null,
         "file": "localisation/core_l_english.yml"
     },
@@ -4274,8 +4274,8 @@
     {
         "key": "REORGANIZE_UNITS:0",
         "original": "§YReorganize Units§!",
-        "translation": "§Y重组单位s§!",
-        "stage": 5,
+        "translation": "§Y重组单位§!",
+        "stage": 1,
         "context": null,
         "file": "localisation/core_l_english.yml"
     },
