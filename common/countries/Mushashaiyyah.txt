@@ -33,7 +33,6 @@ monarch_names = {
   "Nasir #0" = 20
   "Zanbur #0" = 10
   "Sadjdjad #0" = 10
-  "Falah #0" = 10
   "Badran #0" = 10
   "Mushin #0" = 10
   "Bakr #0" = 0
@@ -50,7 +49,6 @@ monarch_names = {
   "Shimun #0" = 0
   "Tarîq #0" = 0
   "Badr #0" = -1
-  "Fatimah #0" = -1
   "Walida #0" = -1
   "Tahani #0" = -1
   "Safaa  #0" = -1
@@ -60,12 +58,13 @@ monarch_names = {
   "Kamilah #0" = -1
   "Jabirah #0" = -1
   "Hudun #0" = -1
-  "Fadwa #0" = -1
   "Daliyah #0" = -1
   "Amirah #0" = -1
   "Abal #0" = -1
+  "法德瓦 #0" = -1  # Fadwa #0
   "乞丝马哈 #0" = -1  # Qismah #0
   "兰妲 #0" = -1  # Randa #0
+  "法蒂玛 #0" = -1  # Fatimah #0
   "祖勒奇法尔 #0" = 0  # Zulqifar #0
   "济雅德 #0" = 0  # Zîyad #0
   "宰德 #0" = 0  # Zaid #0
@@ -81,6 +80,7 @@ monarch_names = {
   "哈基姆 #0" = 0  # Hakim #0
   "法鲁克 #0" = 0  # Faruq #0
   "法哈德 #0" = 0  # Fahd #0
+  "法拉赫 #0" = 10  # Falah #0
   "穆巴拉克 #0" = 20  # Mubarak #0
   "阿里 #0" = 40  # 'Alî #0
   "阿卜杜拉 #0" = 40  # 'Abdallâh #0
@@ -100,7 +100,7 @@ leader_names = {
 }
 ship_names = {
   "Faydhi"
-  "Fazil"
+  "法齐勒"  # Fazil
   "Kadri"
   "Jamal"
   "Midhat"
