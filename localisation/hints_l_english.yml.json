@@ -362,8 +362,8 @@
     {
         "key": "HINT_MOREMERCHANT_TEXT:0",
         "original": "You can gain more Merchants by selecting certain Idea Groups. The Trade and Expansion Idea Groups both provide additional Merchants, although the Trade Idea Group gives more.",
-        "translation": "通过选择贸易和发展理念可以提供额外商人上限.当然，贸易理念提供的更多.",
-        "stage": 5,
+        "translation": "通过选择某些理念组你可以获得更多商人团。贸易和扩张两种理念组都可以提供额外的商人团，不过贸易理念组提供得更多。",
+        "stage": 1,
         "context": null,
         "file": "localisation/hints_l_english.yml"
     },
@@ -394,8 +394,8 @@
     {
         "key": "HINT_MORECOLONIST_TEXT:0",
         "original": "More Colonists can be unlocked by selecting the Exploration or Expansion Idea Groups.",
-        "translation": "通过选择探索或发展理念，你可以获得更多的殖民队.",
-        "stage": 5,
+        "translation": "通过选择探索或扩张理念组，你可以获得更多的殖民队。",
+        "stage": 1,
         "context": null,
         "file": "localisation/hints_l_english.yml"
     },
@@ -426,7 +426,7 @@
     {
         "key": "HINT_MOREDIPLOMAT_TEXT:1",
         "original": "More Diplomats can be unlocked by selecting the Diplomatic or Aristocratic Idea Groups. Being the Papal Controller or having Kingdom Government Rank also provides additional Diplomats.",
-        "translation": "通过选择外交或贵族理念，你可以获得更高的外交官上限。成为教廷监护者或者拥有王国及帝国级政体也将提供额外的外交官.",
+        "translation": "通过选择外交或贵族理念组，你可以获得更多的外交官。成为教廷监护或者拥有王国级的政府等级也提供额外的外交官。",
         "stage": 1,
         "context": null,
         "file": "localisation/hints_l_english.yml"
@@ -458,8 +458,8 @@
     {
         "key": "HINT_MOREMISSIONARY_TEXT:0",
         "original": "More Missionaries can be unlocked by selecting the Religious Idea Group. Certain National Ideas also provide extra Missionaries. The Spanish Ideas are one example.",
-        "translation": "通过选择宗教理念，你可以获得更高传教士上限。诸如西班牙这种国家的国家理念也可以提供额外的传教士。",
-        "stage": 5,
+        "translation": "通过选择宗教理念组，你可以获得更多的传教士。某些国家理念也提供额外的传教士，例如西班牙理念。",
+        "stage": 1,
         "context": null,
         "file": "localisation/hints_l_english.yml"
     },
@@ -490,7 +490,7 @@
     {
         "key": "HINT_ADMSCORE_TEXT:0",
         "original": "Administrative score is gained by having a high monthly income, administrative technology, having many provinces, having high stability, prestige and Legitimacy or Republican Tradition.",
-        "translation": "高月收入、行政技术发展、控制大量省份、高稳定、高威望、高正统将提高你的行政得分.",
+        "translation": "月收入、行政科技、省份数量、稳定度、威望以及正统性或共和传统的提高将提高你的行政得分。",
         "stage": 1,
         "context": null,
         "file": "localisation/hints_l_english.yml"
@@ -506,7 +506,7 @@
     {
         "key": "HINT_DIPSCORE_TEXT:0",
         "original": "Diplomatic score is gained by Diplomatic Technology, high Trade Efficiency, Merchants, amount of Admirals, having a large fleet, naval morale, having vassals and strong allies.",
-        "translation": "外交技术发展、高贸易效率、商人、海军将领数量、庞大的舰队、海军士气、控制附庸、强大的盟友将提高你的外交得分.",
+        "translation": "外交科技、贸易效率、商人团数量、海军将领数量、海军数量、海军士气、拥有的附庸及强大的盟友数量的提高将提高你的外交得分。",
         "stage": 1,
         "context": null,
         "file": "localisation/hints_l_english.yml"
@@ -522,7 +522,7 @@
     {
         "key": "HINT_MILSCORE_TEXT:0",
         "original": "Military score is gained from Military Technology, high Land Morale, amount of Generals, high Discipline and having a large army.",
-        "translation": "军事技术、陆军士气、陆军将领数量、训练度、陆军数量的提高将提高你的军事得分。",
+        "translation": "军事科技、陆军士气、陆军将领数量、训练度、陆军数量的提高将提高你的军事得分。",
         "stage": 1,
         "context": null,
         "file": "localisation/hints_l_english.yml"
@@ -618,7 +618,7 @@
     {
         "key": "HINT_ADMINPOWER_TEXT:0",
         "original": "Administrative Power is possibly the most important resource in the game. Its primary uses are to make provinces into core provinces and to increase Administrative Technology or unlock new Ideas.",
-        "translation": "行政点数可能是游戏中最重要的资源了.它的主要用途是何兴华省份、发展行政技术还有解锁新的理念.",
+        "translation": "行政点数可能是游戏中最重要的资源了。它的主要用途是核心化省份、发展行政科技还有解锁新的理念。",
         "stage": 1,
         "context": null,
         "file": "localisation/hints_l_english.yml"
@@ -634,7 +634,7 @@
     {
         "key": "HINT_DIPLOPOWER_TEXT:0",
         "original": "Diplomatic Power is one of the primary resourses in the game. Its primary uses are to change culture in provinces and to increase Diplomatic Technology or unlock new Ideas.",
-        "translation": "外交点数是一种重要资源.它可以改变省份文化、发展外交技术或解锁新的理念.",
+        "translation": "外交点数是游戏中的主要资源之一。它的主要用途是改变省份文化、发展外交技术或解锁新的理念。",
         "stage": 1,
         "context": null,
         "file": "localisation/hints_l_english.yml"
