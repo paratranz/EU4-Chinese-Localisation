@@ -8826,7 +8826,7 @@
     {
         "key": "EVTOPTA3073:0",
         "original": "Ignore their suffering",
-        "translation": "与我无关",
+        "translation": "与我无关。",
         "stage": 1,
         "context": null,
         "file": "localisation/generic_events_l_english.yml"
@@ -8834,8 +8834,8 @@
     {
         "key": "EVTOPTB3073:0",
         "original": "Attempt to assuage their pain",
-        "translation": "试着救助他们",
-        "stage": 5,
+        "translation": "试着救助他们。",
+        "stage": 1,
         "context": null,
         "file": "localisation/generic_events_l_english.yml"
     },
@@ -8930,7 +8930,7 @@
     {
         "key": "EVTOPTA3076:0",
         "original": "Ignore their suffering",
-        "translation": "与我无关",
+        "translation": "与我无关。",
         "stage": 1,
         "context": null,
         "file": "localisation/generic_events_l_english.yml"
@@ -8938,8 +8938,8 @@
     {
         "key": "EVTOPTB3076:0",
         "original": "Attempt to assuage their pain",
-        "translation": "试着救助他们",
-        "stage": 5,
+        "translation": "试着救助他们。",
+        "stage": 1,
         "context": null,
         "file": "localisation/generic_events_l_english.yml"
     },
@@ -31387,7 +31387,7 @@
         "key": "colonial_nation.EVTNAME12:0",
         "original": "Colonial Expansion",
         "translation": "殖民扩张",
-        "stage": 1,
+        "stage": 5,
         "context": null,
         "file": "localisation/generic_events_l_english.yml"
     },
@@ -31395,23 +31395,23 @@
         "key": "colonial_nation.EVTDESC12:0",
         "original": "Diplomats in our New World colonies report unrest along the frontier. The continued rapid expansion of settlers has greatly angered neighboring native tribes. If it is in our interest to keep good relations with these tribes, we must restrict our colonies' expansion.",
         "translation": "在新大陆殖民地的大使报告边境发生了动乱。定居者的快速扩张极大地触怒了邻近的原住民，如果我们有兴趣和这些部落维持良好的关系，我们必须限制我们的殖民地扩张。",
-        "stage": 1,
+        "stage": 5,
         "context": null,
         "file": "localisation/generic_events_l_english.yml"
     },
     {
         "key": "colonial_nation.EVTOPTA12:0",
         "original": "Restrict it!",
-        "translation": "限制他们",
-        "stage": 1,
+        "translation": "限制他们！",
+        "stage": 5,
         "context": null,
         "file": "localisation/generic_events_l_english.yml"
     },
     {
         "key": "colonial_nation.EVTOPTB12:0",
         "original": "Let them expand freely",
-        "translation": "让他们自由地扩张",
-        "stage": 1,
+        "translation": "让他们自由扩张。",
+        "stage": 5,
         "context": null,
         "file": "localisation/generic_events_l_english.yml"
     },
