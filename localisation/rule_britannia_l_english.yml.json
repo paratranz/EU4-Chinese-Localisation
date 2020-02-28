@@ -3378,7 +3378,7 @@
     {
         "key": "anglican_rebels_demand:0",
         "original": "Convert $COUNTRYNAME$",
-        "translation": "转换 $COUNTRYNAME$",
+        "translation": "使$COUNTRYNAME$改宗",
         "stage": 1,
         "context": null,
         "file": "localisation/rule_britannia_l_english.yml"
@@ -3442,7 +3442,7 @@
     {
         "key": "FOREIGN_PROVINCES_HRE_NOT:0",
         "original": "Less than §Y$NUM$§! provinces in the Empire under the control of non-member states or subjects of non-member states.",
-        "translation": "少于 §Y$NUM$§! 的帝国省份不在成员国或其附庸国的控制之内。",
+        "translation": "不到 §Y$NUM$§! 个帝国省份处于非成员国或其属国的控制下。",
         "stage": 1,
         "context": null,
         "file": "localisation/rule_britannia_l_english.yml"
@@ -3450,7 +3450,7 @@
     {
         "key": "FOREIGN_PROVINCES_HRE:0",
         "original": "§Y$NUM$§! provinces in the Empire under the control of non-member states or subjects of non-member states.",
-        "translation": "有§Y$NUM$§!个帝国省份在非成员国或非成员国附庸的控制下。",
+        "translation": "有 §Y$NUM$§! 个帝国省份处于非成员国或其属国的控制下。",
         "stage": 1,
         "context": null,
         "file": "localisation/rule_britannia_l_english.yml"
@@ -3498,7 +3498,7 @@
     {
         "key": "SHARE_OF_STARTING_INCOME_LESS:0",
         "original": "Income of at most §Y$TARGET$§!¤. (Currently §Y$CURRENT$§!¤)",
-        "translation": "最高收入 §Y$TARGET$§!¤. (Currently §Y$CURRENT$§!¤)",
+        "translation": "收入不超过 §Y$TARGET$§!¤。（当前为 §Y$CURRENT$§!¤）",
         "stage": 1,
         "context": null,
         "file": "localisation/rule_britannia_l_english.yml"
@@ -3506,7 +3506,7 @@
     {
         "key": "SHARE_OF_STARTING_INCOME_MORE:0",
         "original": "Income of at least §Y$TARGET$§!¤. (Currently §Y$CURRENT$§!¤)",
-        "translation": "最低收入 §Y$TARGET$§!¤. (当前 §Y$CURRENT$§!¤)",
+        "translation": "收入达到 §Y$TARGET$§!¤。（当前为 §Y$CURRENT$§!¤）",
         "stage": 1,
         "context": null,
         "file": "localisation/rule_britannia_l_english.yml"
