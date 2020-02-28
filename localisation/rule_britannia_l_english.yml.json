@@ -3282,7 +3282,7 @@
     {
         "key": "MERCHANTS_TRADE_STEER_LOCKED:0",
         "original": "Merchants can not be moved while we are Steering Trade to $TO$.",
-        "translation": "不能移动商人当我们引导贸易给 $TO$。",
+        "translation": "不能移动商人团，我们正将贸易引导给$TO$。",
         "stage": 1,
         "context": null,
         "file": "localisation/rule_britannia_l_english.yml"
@@ -3426,7 +3426,7 @@
     {
         "key": "NOT_ENOUGH_CONSORTS:0",
         "original": "Less than $VAL$ consorts",
-        "translation": "少于 $VAL$艘辅助舰",
+        "translation": "少于 $VAL$ 个配偶",
         "stage": 1,
         "context": null,
         "file": "localisation/rule_britannia_l_english.yml"
@@ -3434,7 +3434,7 @@
     {
         "key": "ENOUGH_CONSORTS:0",
         "original": "$VAL$ consorts",
-        "translation": "$VAL$ 妻子",
+        "translation": "$VAL$ 个配偶",
         "stage": 1,
         "context": null,
         "file": "localisation/rule_britannia_l_english.yml"
@@ -3554,7 +3554,7 @@
     {
         "key": "TECH_INNOVATIVENESS_DATE:0",
         "original": "\\nThe technology level $TECH|Y$ was reached first at $DATE|Y$.",
-        "translation": "\\n科技水平首先达到了 $TECH|Y$ 于 $DATE|Y$。",
+        "translation": "\\n科技水平在$DATE|Y$第一次达到 $TECH|Y$ 级。",
         "stage": 1,
         "context": null,
         "file": "localisation/rule_britannia_l_english.yml"
