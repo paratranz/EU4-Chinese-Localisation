@@ -4842,7 +4842,7 @@
     {
         "key": "NEW_UNIT_DRO:0",
         "original": "Creating a new unit will create an empty unit and allow you to assign regiments from the current unit to it.",
-        "translation": "组建新单位将会创造一个空单位，可以使你把团队从其他单位调出分配进去.",
+        "translation": "组建新单位将会创造一个空单位，你可以从其他单位调出部队分配进去。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -4858,7 +4858,7 @@
     {
         "key": "DESELECT_UNIT_DRO:1",
         "original": "This button will close the current troop window\\n§YRight click to select this unit§W",
-        "translation": "这个按钮将关闭当前部队窗口\\n§Y右击选中这个单位§W",
+        "translation": "这个按钮将关闭当前部队窗口\\n§Y右击选中此单位§W",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -4874,7 +4874,7 @@
     {
         "key": "MERGE_UNITS_DRO:0",
         "original": "Choosing the merge option will take the current selected units and convert them into a single unit.",
-        "translation": "合并功能可以使被选中的单位合并成一个单位",
+        "translation": "合并功能可以使被选中的单位合并成一个单位。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -4882,7 +4882,7 @@
     {
         "key": "REORGANISE_UNITS:0",
         "original": "Reorganize these two units",
-        "translation": "整编这两支部队",
+        "translation": "重组这两个单位",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -4890,7 +4890,7 @@
     {
         "key": "NO_REORGANISE_SINGLE_UNIT:0",
         "original": "You can only reorganize when two units are selected.",
-        "translation": "你至少要选中两个以上的单位才能重组.",
+        "translation": "你至少要选中两个以上的单位才能重组。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -4898,7 +4898,7 @@
     {
         "key": "NO_MERGE_UNITS_OF_DIFFERENT_COUNTRIES:0",
         "original": "You can't merge units of different countries.",
-        "translation": "你不可以将不同国家的单位混搭到一起.",
+        "translation": "你不可以将不同国家的单位组合到一起。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -4914,7 +4914,7 @@
     {
         "key": "NO_REORGANISE_UNIT_RETREATING:0",
         "original": "You can only reorganize when none of the units are retreating.",
-        "translation": "当任何一个被选中的单位在撤退中时不能重组.",
+        "translation": "被选中的单位在撤退中时不能重组。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -4922,7 +4922,7 @@
     {
         "key": "NO_REORGANISE_UNITS_DIFFERENT_LOCATION:0",
         "original": "You can only reorganize when units are in the same location.",
-        "translation": "只有在同一省份的单位才能重组.",
+        "translation": "只有在同一省份的单位才能重组。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -4930,7 +4930,7 @@
     {
         "key": "REORGANISE_UNITS_DRO:1",
         "original": " Reorganizing these two units will allow you move regiments between the two units",
-        "translation": "你可以通过整编这两支部队改变他们所属团队",
+        "translation": "你可以通过整编这两支部队改变他们所属单位",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50858,7 +50858,7 @@
     {
         "key": "UNIT_DETACH_BLOCKADE:0",
         "original": "§YDetach Blockade§!",
-        "translation": "分离封锁部队",
+        "translation": "§Y拆分封锁部队§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50866,7 +50866,7 @@
     {
         "key": "UNIT_DETACH_BLOCKADE_NO_RETREAT:0",
         "original": "Can't detach from a retreating fleet.",
-        "translation": "不能将撤退中的舰队分成多队。",
+        "translation": "不能拆分撤退中的舰队。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50874,7 +50874,7 @@
     {
         "key": "UNIT_DETACH_BLOCKADE_TOO_FEW:0",
         "original": "Too few ships to detach.",
-        "translation": "船只太少无法分派开。",
+        "translation": "船只太少无法拆分。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50882,7 +50882,7 @@
     {
         "key": "UNIT_DETACH_BLOCKADE_ONLY_TRANSPORTS:0",
         "original": "It is not possible to make a detachment when there are only transports in fleet.",
-        "translation": "当舰队中只有运输船时不能够将舰队分成多队.",
+        "translation": "舰队中只有运输船时，不能拆分舰队。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50890,7 +50890,7 @@
     {
         "key": "UNIT_DETACH_BLOCKADE_NO_MOTHBALL:0",
         "original": "Can't detach from a mothballed fleet.",
-        "translation": "无法对封存的舰队进行分队.",
+        "translation": "不能拆分封存的舰队。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50898,7 +50898,7 @@
     {
         "key": "UNIT_DETACH_BLOCKADE_IN_PORT:0",
         "original": "Can't detach while in port.",
-        "translation": "在港口时无法分队.",
+        "translation": "不能拆分驻港的舰队。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50906,7 +50906,7 @@
     {
         "key": "UNIT_DETACH_BLOCKADE_LOW_CAPACITY:0",
         "original": "Fleet is too weak to make a detachment.",
-        "translation": "舰队太弱，所以无法进行分队.",
+        "translation": "舰队太弱，无法拆分。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50914,7 +50914,7 @@
     {
         "key": "UNIT_DETACH_BLOCKADE_NOT_BLOCKADING:0",
         "original": "Fleet is not blockading any ports.",
-        "translation": "舰队并未封锁任何港口.",
+        "translation": "舰队并未封锁港口。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
