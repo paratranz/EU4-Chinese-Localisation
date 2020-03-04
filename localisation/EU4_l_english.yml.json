@@ -16298,7 +16298,7 @@
     {
         "key": "CV_INFLATION_YEARLY_CHANGE_EXTRAS:0",
         "original": "Inflation changes by $INFLATION|-2$§!%§W/year. It is increased by $GOLD|Y$ from our reliance on gold mines, and the yearly base increase is $YEAR|Y$, while our advisors, buildings and ideas reduce it by $REDUCTION|Y$ per year.",
-        "translation": "通货膨胀率将每年产生$INFLATION|-2$§!%§W的变化。它会因我们对金矿收入的依赖而增加$GOLD|Y$，每年的基础增加量则为$YEAR|Y$；与此同时，我们的顾问、建筑和理念将会使其减少$REDUCTION|Y$ 。",
+        "translation": "通货膨胀率将产生每年$INFLATION|-2$§!%§W的变化。它会因我们对金矿收入的依赖而增加$GOLD|Y$，每年的基础增加量则为$YEAR|Y$；与此同时，我们的顾问、建筑和理念将会使其减少$REDUCTION|Y$ 。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -16306,7 +16306,7 @@
     {
         "key": "CV_INFLATION_YEARLY_CHANGE:0",
         "original": "Inflation changes by $INFLATION|-2$§!%§W/year. It is increased by $GOLD|Y$ from our reliance on gold mines, while our advisors, buildings and ideas reduce it by $REDUCTION|Y$ per year.",
-        "translation": "通货膨胀率将每年产生$INFLATION|-2$§!%§W的变化。它会因我们对金矿收入的依赖而增加$GOLD|Y$，而我们的顾问、建筑和理念则会使其减少$REDUCTION|Y$ 。",
+        "translation": "通货膨胀率将产生每年$INFLATION|-2$§!%§W的变化。它会因我们对金矿收入的依赖而增加$GOLD|Y$，而我们的顾问、建筑和理念则会使其减少$REDUCTION|Y$ 。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -38258,8 +38258,8 @@
     {
         "key": "NO_DEVASTATION_PROSP_MAP_TT:0",
         "original": "All of $NAME|Y$ enjoys prosperity!",
-        "translation": "所有的$NAME|Y$享受着繁荣！",
-        "stage": 5,
+        "translation": "$NAME|Y$全州享受着繁荣！",
+        "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
     },
