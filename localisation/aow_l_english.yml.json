@@ -1482,8 +1482,8 @@
     {
         "key": "prices.7.d:0",
         "original": "Originally a Chinese beverage, tea quickly became the new [Root.GetAdjective] national drink after its introduction in [Root.GetName]. Mixed with sugar, it is consumed by the rich, the poor and even [Root.Monarch.GetTitle] [Root.Monarch.GetName].",
-        "translation": "茶，源自中国的饮料，传入[Root.GetName]后很快成了[Root.GetAdjective]的国民饮品。加了糖之后的茶受到了贫民、贵族乃至 [Root.Monarch.GetTitle][Root.Monarch.GetName]的追捧。",
-        "stage": 5,
+        "translation": "茶，源自中国的饮料，传入[Root.GetName]后很快成了[Root.GetAdjective]的国民饮品。加了糖之后的茶受到了贫民、贵族乃至[Root.Monarch.GetTitle][Root.Monarch.GetName]的追捧。",
+        "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
     },
@@ -1546,7 +1546,7 @@
     {
         "key": "prices.9.d:0",
         "original": "With slavery now banned in [Root.GetName] and other countries likely to follow suit, it seems the transatlantic slave trade will be seeing a sharp decline.",
-        "translation": "当奴隶制被 [Root.GetName] 废止后，其他国家很有可能去效仿，这将导致黑三角贸易的衰亡。",
+        "translation": "奴隶制被[Root.GetName]废止后，其他国家很可能会效仿，这将导致黑三角贸易的衰亡。",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
@@ -4754,7 +4754,7 @@
     {
         "key": "aow_events.4.d:0",
         "original": "Commoners and nobles may not always be satisfied with our rule, but they are even less pleased with foreign occupation of their land. Despite the province being under enemy control, a resistance movement has grown in [Root.GetName], ready to strike against the invaders and reclaim the land for their cause. Their leader has come to us for aid, promising that if we bring the weapons, they can bring the fire.",
-        "translation": "平民和贵族不是总是对我们的统治感到开心，不过他们对被外国占领他们的土地更加讨厌. 尽管领土现在在对手的控制之下，一个抵抗军征服在 [Root.GetName] 成立了，做好了赶走侵略者并拿回他们自己土地的准备。他们的领袖找到了我们，希望得到我们的帮助，并且许诺，如果我们资助他们武器，他们就可以点燃反抗的火种。",
+        "translation": "平民和贵族或许并不总是对我们的统治感到满意，但对外国侵占他们的土地更加不满。尽管该省份现在处于敌人的控制之下，[Root.GetName]的抵抗运动有所进展，反抗者做好了赶走侵略者并夺回他们自己土地的准备。他们的领袖找到了我们，希望得到我们的帮助，承诺如果我们资助他们武器，他们就可以点燃反抗的火种。",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
@@ -4770,7 +4770,7 @@
     {
         "key": "aow_events.4.b:0",
         "original": "If they want to support [Root.Owner.GetName], they should work with our armed forces.",
-        "translation": "如果他们想要支持 [Root.Owner.GetName]，他们应该和我们的军队合作",
+        "translation": "如果他们想要支持[Root.Owner.GetName]，就应该和我们的军队合作",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
@@ -4778,7 +4778,7 @@
     {
         "key": "aow_events.5.t:0",
         "original": "Plague at the Siege of [Root.GetName]",
-        "translation": "在 [Root.GetName] 被围城的时候出现瘟疫",
+        "translation": "[Root.GetName]在被围城时出现瘟疫",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
@@ -4786,7 +4786,7 @@
     {
         "key": "aow_events.5.d:0",
         "original": "Where war goes, go pestilence, famine and death. Our armies at [Root.GetName] have held the fort against the besieging forces of our enemies, but both sides have seen the arrival of a terrible disease in the province, endangering civilians as well as soldiers. To spare the locals a worse epidemic, at least one side would need to evacuate some of its people. Unless the attackers show the same caution, however, they may take this opportunity to advance their siege.",
-        "translation": "有战争的地方,就有饥荒,瘟疫和死亡. 我们在 [Root.GetName] 的军队利用堡垒阻挡敌军,不过双方都开始受到这个省份瘟疫的影响，危害平民及士兵. 为了保证当地的疫情不再扩散,至少一方应该撤退一部分人员. 除非进攻方表现出同样的谨慎,否则他们很有可能借机围攻.",
+        "translation": "有战争的地方就有饥荒、瘟疫和死亡。我们的军队在[Root.GetName]利用堡垒阻挡敌人的围城部队，不过双方都开始受到这个省份瘟疫的影响，危及平民及士兵。为了保证当地的疫情不再扩散，至少一方应该撤离部分人员。然而，除非进攻方表现出同样的谨慎，否则他们很可能会借机推进围攻。",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
@@ -4826,7 +4826,7 @@
     {
         "key": "aow_events.6.t:0",
         "original": "Plague at the Siege of [From.GetName]",
-        "translation": "在 [Root.GetName] 围城的时候出现瘟疫",
+        "translation": "[From.GetName]在被围城时出现瘟疫",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
@@ -4834,7 +4834,7 @@
     {
         "key": "aow_events.6.d:0",
         "original": "Where war goes, go pestilence, famine and death. [From.Owner.GetAdjective] troops at [From.GetName] have held the fort against our besieging forces, but both sides have seen the arrival of a terrible disease in the province, endangering civilians as well as soldiers. To spare the locals and our own soldiers a worse epidemic, at least one side would need to evacuate some of its people. Unless the defenders show the same caution, however, they may take this opportunity to cause a setback to our siege.",
-        "translation": "有战争的地方,就有饥荒,瘟疫和死亡. [From.Owner.GetAdjective] 军队在 [From.GetName] 利用堡垒抵抗我们的围城部队,不过双方都开始受到这个省份瘟疫的影响，危害平民及士兵. 为了保证当地的疫情不再扩散,至少一方应该撤退一部分人员. 除非防御方表现出同样的谨慎,否则他们很有可能借机破坏我们的围攻.",
+        "translation": "有战争的地方就有饥荒、瘟疫和死亡。[From.Owner.GetAdjective]的军队在[From.GetName]利用堡垒阻挡我们的围城部队，不过双方都开始受到这个省份瘟疫的影响，危及平民及士兵。为了保证当地的疫情不再扩散，至少一方应该撤离部分人员。然而，除非防御方表现出同样的谨慎，否则他们很可能会借机破坏我们的围攻。",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
@@ -4914,7 +4914,7 @@
     {
         "key": "aow_events.9.t:0",
         "original": "Plague in [Root.GetName] Grows Worse",
-        "translation": "在 [Root.GetName] 的瘟疫恶化了",
+        "translation": "[Root.GetName]的瘟疫恶化了",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
@@ -4938,7 +4938,7 @@
     {
         "key": "aow_events.10.t:0",
         "original": "Plague in [From.GetName] Grows Worse",
-        "translation": "在 [Root.GetName] 的瘟疫恶化了",
+        "translation": "[From.GetName]的瘟疫恶化了",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
@@ -4946,7 +4946,7 @@
     {
         "key": "aow_events.10.d:0",
         "original": "Despite the plague sweeping the war-torn land, both the relentless defending forces and our daring attackers laying siege to their fortress in [From.GetName] refused to back down. The mutual stubbornness has caused major losses for the civilian population of [From.Capital.GetCapitalName], tearing down the infrastructure and making the siege even more difficult.",
-        "translation": "尽管瘟疫席卷饱受战争蹂躏的土地，无论是不懈的防守方,还是我们大胆的士兵围攻他们的 [From.GetName] 要塞都拒绝让步。相互的固执造成对[From.Capital.GetCapitalName]平民重大损失，基础设施被拆除，使攻城更是难上加难。",
+        "translation": "尽管瘟疫席卷饱受战争蹂躏的土地，无论是无情的防守方还是围攻他们[From.GetName]要塞的大胆进攻方都拒绝让步。相互的固执给[From.Capital.GetCapitalName]的平民造成重大损失，基础设施被摧毁，使攻城更是难上加难。",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
@@ -4970,7 +4970,7 @@
     {
         "key": "aow_events.11.d:0",
         "original": "The war has worsened the spread of diseases, and what once started as a local epidemic centered around a siege has now spread further. Dislocated civilians as well as troop movements, both difficult to avoid in wartime, has facilitated this and now [Root.GetName] has also fallen victim to the illness.",
-        "translation": "战争已经加剧疾病传播，一开始被认为只是当地的围城引起的瘟疫已进一步蔓延. 无家可归的平民和军队调动都在战争时期造成了极大的困难,现在 [Root.GetName] 也成为了瘟疫的牺牲品.",
+        "translation": "战争加剧了疾病的传播，一开始发生在围城附近的地方瘟疫已进一步蔓延了。战时难以避免的无家可归的平民及部队调动促成了这一点，现在[Root.GetName]也成了瘟疫的牺牲品。",
         "stage": 1,
         "context": null,
         "file": "localisation/aow_l_english.yml"
