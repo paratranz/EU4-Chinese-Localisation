@@ -898,8 +898,8 @@
     {
         "key": "CREATE_PIRATE:0",
         "original": "§R$SIZE$§W ship(s) with Pirates will appear in §Y$WHERE$§W.\\n",
-        "translation": "§R$SIZE$§W艘海盗船出现在§Y$WHERE$§W。\\n",
-        "stage": 5,
+        "translation": "§R$SIZE$§W艘私掠船出现在§Y$WHERE$§W。\\n",
+        "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
     },
@@ -28218,7 +28218,7 @@
     {
         "key": "CHANGE_CONTROLLER_EFFECT:0",
         "original": "§Y$WHO$§W takes control over §Y$WHERE$§W.\\n",
-        "translation": "§Y$WHO$§W控制了§Y$WHERE$§W. \\n",
+        "translation": "§Y$WHO$§W控制了§Y$WHERE$§W。\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -36210,7 +36210,7 @@
     {
         "key": "RENAME_CAPITAL_EFF:0",
         "original": "Capital of §Y$PROVINCE$§! renamed to §Y$NEW$§!.\\n",
-        "translation": "§Y$PROVINCE$§!首府将改名为§Y$NEW$§!。\\n",
+        "translation": "§Y$PROVINCE$§!省会改名为§Y$NEW$§!。\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -37202,7 +37202,7 @@
     {
         "key": "MULTCOLONYSIZE:0",
         "original": "Population of Settlers in $WHERE$ changed by $PERC$.\\n",
-        "translation": "$WHERE$移民的数量改变了$PERC$\\n",
+        "translation": "$WHERE$移民的数量改变了$PERC$。\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -49002,7 +49002,7 @@
     {
         "key": "RENAME_PROV_EFF:0",
         "original": "$OLD$ renamed to §Y$NEW$§W.\\n",
-        "translation": "$OLD$改名为§Y$NEW$§W. \\n",
+        "translation": "$OLD$改名为§Y$NEW$§W。\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50826,7 +50826,7 @@
     {
         "key": "sign_den_danske_lov_title:0",
         "original": "Sign 'Den Danske Lov'",
-        "translation": "签署丹斯克法律",
+        "translation": "签署「丹斯克法律」",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50930,7 +50930,7 @@
     {
         "key": "CW_WARNGUARANTEED:0",
         "original": "They are guaranteed by $COUNTRY$.",
-        "translation": "他们被 $COUNTRY$ 保证独立",
+        "translation": "他们被$COUNTRY$保证独立。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50946,7 +50946,7 @@
     {
         "key": "CW_WARNEMPEROR4:0",
         "original": "They are a free city in the Empire, and $COUNTRY$ will protect them.",
-        "translation": "他们是帝国内的自由市，$COUNTRY$ 将会保护他们。",
+        "translation": "他们是帝国内的自由市，$COUNTRY$会保护他们。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -50954,7 +50954,7 @@
     {
         "key": "CW_WARNWARN:0",
         "original": "We have been warned by $COUNTRY$ so they may intervene.",
-        "translation": "我们被 $COUNTRY$ 警告，他们可能介入",
+        "translation": "我们受到了$COUNTRY$的警告，所以他们可能会介入。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
