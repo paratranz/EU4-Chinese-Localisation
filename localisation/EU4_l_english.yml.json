@@ -14282,7 +14282,7 @@
     {
         "key": "ACCEPTED_CULTURE_SLOTS_DESC:0",
         "original": "You have $FREE|Y$ of $MAX|Y$ free Promoted Culture slots.\\nTo promote a culture, click the §Y\"Promote Culture\"§! button on a Non-Accepted Culture.\\nThe number of slots is calculated from:\\n",
-        "translation": "你的$MAX|Y$个已认同文化槽中有$FREE|Y$个是空的。\\n要认同一种文化，点击一种未接受文化上的§Y「认同文化」§!按钮。\\n已认同文化槽的数量通过如下方式得出：\\n",
+        "translation": "你的$MAX|Y$个已认同文化槽中有$FREE|Y$个是空的。\\n要认同一种文化，点击一种不相容文化上的§Y「认同文化」§!按钮。\\n已认同文化槽的数量通过如下方式得出：\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -20658,7 +20658,7 @@
     {
         "key": "ACCEPTED_CULTURES:0",
         "original": "Accepted cultures in $COUNTRY$ are:",
-        "translation": "在$COUNTRY$的可接受文化有：",
+        "translation": "在$COUNTRY$的相容文化有：",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -22698,7 +22698,7 @@
     {
         "key": "NOACCEPTEDCULTURES:0",
         "original": "No accepted cultures",
-        "translation": "无接受文化",
+        "translation": "无相容文化",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37522,7 +37522,7 @@
     {
         "key": "FOR_NONACCEPTED_CULTURE:0",
         "original": " (for non-accepted culture):\\n",
-        "translation": "（不接受文化）：\\n",
+        "translation": "（不相容文化）：\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -39794,7 +39794,7 @@
     {
         "key": "STAPAT_DO_IT:2",
         "original": "You can Consecrate Metropolitans in states with at least 30 Development if all provinces are fully cored, Orthodox and of an Accepted Culture.\\n\\nConsecrating a Metropolitan in $NAME|Y$ will give us $VAL$ Patriarch Authority, and the following permanent effect:\\n$EFFECT$",
-        "translation": "你可以在总发展度达到 30、所有省份皆有完整核心、文化已被接受且信奉东正教的直属州祝圣都主教。\\n\\n在$NAME|Y$祝圣都主教给予我国 $VAL$ 牧首权威以及以下永久效果：\\n$EFFECT$",
+        "translation": "你可以在总发展度达到30、所有省份皆有完整核心、文化已被接受且信奉东正教的直属州祝圣都主教。\\n\\n在$NAME|Y$祝圣都主教给予我国 $VAL$ 牧首权威以及以下永久效果：\\n$EFFECT$",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
