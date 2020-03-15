@@ -4411,7 +4411,7 @@ l_english:
  random_event.EVTOPTB2:1 "我们应当维护我们的传统文化。"
  random_event.EVTOPTC2:0 "接受巴西文化。"
  random_event.EVTOPTE2:0 "接受墨西哥文化。"
- culture_religion_events.11.a.tt:1 "所有§Y[Root.other_advisor_culture.GetCultureName]§! 省份将得到§G-2§! 叛乱度和§G+10%§! 生产效率§Y10§!年。"
+ culture_religion_events.11.a.tt:1 "所有§Y[Root.other_advisor_culture.GetCultureName]§!文化的省份§Y10§!年内将得到§G-2§!的叛乱度和§G+10%§!的生产效率。"
  china_events.55.d.not_emperor:0 "[empire_of_china.GetAdjective][empire_of_china.Monarch.GetTitle]，曾经的中国皇帝，[empire_of_china.Monarch.GetName]如今蜷缩在他残余的领地里，十分虚弱且缺乏支持。从南到北，中国百姓无人不质疑他的统治，连平日无比忠诚的官员们也公开宣布[empire_of_china.Monarch.GetName]已经失去天命。\n[chinese_border_province.GetName]不安分的[chinese_border_province.Culture.GetName]地方官开始与[Root.Monarch.GetName]接触，请求我们结束[empire_of_china.Monarch.Dynasty.GetName]王朝的统治，把他们从[empire_of_china.GetName]的压迫下解救出来。"
  china_events.55.d.not_emperor_but_I_am:0 "[empire_of_china.GetAdjective][empire_of_china.Monarch.GetTitle]，曾经的中国皇帝，[empire_of_china.Monarch.GetName]如今蜷缩在他残余的领地里，十分虚弱且缺乏支持。从南到北，中国百姓无人不质疑他的统治，连平日无比忠诚的官员们也公开宣布[empire_of_china.Monarch.GetName]已经失去天命而[Root.Monarch.GetTitle][Root.Monarch.GetName]才是他们的合法统治者。\n[chinese_border_province.GetName]不安分的[chinese_border_province.Culture.GetName]地方官开始与[Root.Monarch.GetName]接触，请求我们结束[empire_of_china.Monarch.Dynasty.GetName]王朝的统治，把他们从[empire_of_china.GetName]的压迫下解救出来。"
  EVTNAME96200:0 "教宗的使节"
