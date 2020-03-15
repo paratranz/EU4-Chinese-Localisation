@@ -1122,7 +1122,7 @@
     {
         "key": "constable:0",
         "original": "Constable",
-        "translation": "警察院",
+        "translation": "治安署",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18370,7 +18370,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_TEMPLE_L:0",
         "original": "For each province you have with a temple in it, you get a reduction in the cost for raising stability. Provinces with a temple have a green tick.",
-        "translation": "每一个拥有教堂的省份都将减少你的稳定费用. 拥有教堂的省份会有一个绿色的标志.",
+        "translation": "每一个建有教堂的省份都将降低你的稳定费用。绿色标记的省份已修建教堂。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18386,7 +18386,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_WORKSHOP_L:0",
         "original": "A workshop increases the tax income for a province. Provinces with workshops are marked by a green tick.",
-        "translation": "工场增加税收. 拥有工场的省份会有一个绿色的标志.",
+        "translation": "工场提高省份的税收。绿色标记的省份已修建工场。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18402,7 +18402,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_REGIMENTAL_CAMP_L:0",
         "original": "Regimental Camps increase the total number of troops a province can support and supply and also reduce the recruitment time. Provinces with Regimental Camps have a green tick.",
-        "translation": "军营增加省份所能支持部队上限并且减少补充时间. 拥有军营的省份会有一个绿色的标志.",
+        "translation": "军营提高省份所能满足补给需求的部队上限并降低募兵时间。绿色标记的省份已修建军营。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18418,7 +18418,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_SHIPYARD_L:0",
         "original": "A Shipyard increases the amount of naval units you can support and reduces the time it takes to build ships. You can only build shipyards in coastal provinces. Provinces with a green tick have shipyards already.",
-        "translation": "造船厂增加你能维持的海军总数并且减少舰船建造时间. 你只能在沿海省份建造船厂. 拥有船厂的省份会有一个绿色的标志.",
+        "translation": "造船厂提高你能维持的海军总数并且降低舰船建造时间，只能修建在沿海省份。绿色标记的省份已修建造船厂。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18434,7 +18434,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_CONSTABLE_L:0",
         "original": "A province with a constable has dramatically increased direct tax revenue and a slight increase in the local unrest. Provinces with green ticks have constables.",
-        "translation": "有治安所的省份将会显著直接增加税收和缓慢增加本地叛乱度. 有绿色的省份已建了治安所.",
+        "translation": "建有治安署的省份将会显著增加直接税收并缓慢增加当地叛乱度。绿色标记的省份已修建治安署。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18450,7 +18450,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_COURTHOUSE_L:0",
         "original": "A province with a courthouse gets a reduction in local unrest. Provinces with a courthouse are marked with a green tick.",
-        "translation": "有法院的省份能降低叛乱度. 有法院的省份会被绿色信标标出.",
+        "translation": "建有法院的省份能降低当地叛乱度。绿色标记的省份已修建法院。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18466,7 +18466,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_MARKETPLACE_L:0",
         "original": "A Market Place increases both the population growth and the trade income of a province. Provinces with a market place are marked with a green tick.",
-        "translation": "市场将增加人口增长同时也增加省份贸易收入. 拥有市场的省份会有一个绿色的标志.",
+        "translation": "市场提高人口增长及增加省份贸易收入。绿色标记的省份已修建治安署。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18482,7 +18482,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_TAX_ASSESSOR_L:0",
         "original": "Tax Assessors reduce inflation in a province. A green tick denotes a tax assessor is already present.",
-        "translation": "税务局姜减少通货膨胀. 拥有税务官的省份会有一个绿色的标志.",
+        "translation": "税务局降低省份的通货膨胀。绿色标记的省份已修建税务局。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18498,7 +18498,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_WAR_COLLEGE_L:0",
         "original": "War Colleges give a yearly increase in army tradition. War colleges cannot be built in provinces which have an admiralty. Green ticks denote provinces with war colleges.",
-        "translation": "陆军学院每年提供一定的陆军传统.陆军学院不能在已有港务局的行省建造.有绿勾的表示该行省已经建有陆军学院.",
+        "translation": "陆军学院提高陆军传统的年度增长，不能在已建有海军学院的省份建造。绿色标记的省份已修建陆军学院。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18514,7 +18514,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_ADMIRALTY_L:0",
         "original": "An Admiralty gives a yearly increase in naval tradition. Admiralties cannot be built in provinces with a war college. A green tick denotes a province with an admiralty.",
-        "translation": "海军学院每年都将增加陆军传统. 不能在已经有陆军学院的省份建造. 拥有海军学院的省份会有一个绿色的标志.",
+        "translation": "海军学院提高海军传统的年度增长，不能在已建有陆军学院的省份建造。绿色标记的省份已修建海军学院。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18530,7 +18530,7 @@
     {
         "key": "BUILDINGSLEDGER_BUILDINGS_CUSTOMS_HOUSE_L:0",
         "original": "A Customs house gives a small increase in local taxation. A green tick denotes a province with a customs house.",
-        "translation": "海关将略微的增加当地税收. 拥有海关的省份会有一个绿色的标志.",
+        "translation": "海关将略微的增加当地税收。绿色标记的省份已修建海关。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -19290,7 +19290,7 @@
     {
         "key": "HOSTILE_RELATIONLEDGER_CB_LEFT_L:0",
         "original": "These are the countries that we have a Casus Belli against. Declaring war on one of these countries costs us less reputation and stability.",
-        "translation": "我们拥有宣战借口的国家. 对其宣战时名声和稳定度的损失较少.",
+        "translation": "这些是我们拥有宣战借口的国家。对其宣战时名声和稳定度的损失较少。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -24674,7 +24674,7 @@
     {
         "key": "building_constable:0",
         "original": "Constable",
-        "translation": "警察院",
+        "translation": "治安署",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -26970,7 +26970,7 @@
     {
         "key": "constable_short:0",
         "original": "Constable",
-        "translation": "警察院",
+        "translation": "治安署",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -30986,7 +30986,7 @@
     {
         "key": "LEDGER_CANT_BUILD_THIS:0",
         "original": "Your current technology level does not allow you to build this building",
-        "translation": "你当前的科技等级还不允许你修建这个建筑",
+        "translation": "你当前的科技等级未达到修建这个建筑的要求",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -30994,7 +30994,7 @@
     {
         "key": "ledger_temple:0",
         "original": "Each province in your empire raises the cost you pay to increase stability. A temple will reduce this cost every month. The best provinces to build temples in are those high value provinces away from your borders.",
-        "translation": "每一个省份都会使稳定花费增加. 教堂可以减少稳定花费. 值得建造教堂的省份是那些远离边境的富饶地方.",
+        "translation": "你的帝国里的每个省份都会提高稳定花费，教堂可以降低稳定花费。值得修建教堂的省份是那些远离边境的富饶省份。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -31002,7 +31002,7 @@
     {
         "key": "ledger_workshop:0",
         "original": "A province with a workshop will receive a boost in tax income. Various other modifiers will increase and decrease the tax income from a province, the bonus from workshop is applied before the additional modifier, it is best build these in high tax provinces.",
-        "translation": "工场会提高省份税收. 其他变量会使最终税收变化，但工场的修正在它们之前起作用，推荐尽可能多的修建.",
+        "translation": "工场会提高省份的税收增长。其他一些修正会改变省份的税收，但工场的修正在它们之前起作用，建议修建在高税收的省份。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -31010,7 +31010,7 @@
     {
         "key": "ledger_regimental_camp:0",
         "original": "Regimental Camps increase both the manpower of a province and the regiment recruit speed. These are best built in provinces with high manpower",
-        "translation": "兵营提高省份后备兵员数量和征募速度. 这是高后备兵员省份的理想建筑",
+        "translation": "兵营提高省份后备兵员数量和征募速度。建议修建在后备兵员多的省份。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -31018,7 +31018,7 @@
     {
         "key": "ledger_shipyard:0",
         "original": "Shipyards increase the rate at which ships are built in a province. Best built in high tax value provinces or province you think you will build a lot of ships in.",
-        "translation": "造船厂加快省份的船只建造速度. 最好建在你会大量生产船只的省份.",
+        "translation": "造船厂加快省份的船只建造速度。建议修建在高税收或你会大量造船的省份。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -31026,7 +31026,7 @@
     {
         "key": "ledger_constable:0",
         "original": "A constable both increases tax income and unrest in a province. The maximum benefit is gained from province with the highest tax income. Court houses will reduce the unrest increase from a constable so are useful to build in provinces with a constable in it. Constables also increase the bonus from workshops.",
-        "translation": "警察院会提高省份的税收和叛乱风险。最大的收益取决于省份的最高基税。法院会降低警察院带来的叛乱风险，在有警察院的省份会很有用处。警察院也会提高工场的产能。",
+        "translation": "治安署会提高省份的税收和叛乱风险。最大的收益取决于省份的最高基税。法院会降低治安署带来的叛乱风险，在有治安署的省份会很有用处。治安署也会提高工场的产能。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -31034,7 +31034,7 @@
     {
         "key": "ledger_courthouse:0",
         "original": "A province with a courthouse receives a reduction in local unrest. Courthouses are useful in all provinces, but are especially so in high tax value provinces as increases in unrest reduce tax income.",
-        "translation": "有法院的省份会降低本地叛乱风险。法院在哪个省份都有用处，但在高税收省份尤其有用，因为叛乱风险的增加会降低税收。",
+        "translation": "法院会降低省份的当地叛乱风险。法院对所有省份都有用处，但在高税收省份尤其有用，因为叛乱风险的增加会降低税收。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -31042,7 +31042,7 @@
     {
         "key": "ledger_tax_assessor:0",
         "original": "Tax Assessors reduce inflation throughout your empire. Even if you have no inflation they are still worth building as you will be able to mint money at a later date and then reduce the inflation afterwards. Tax Assessor are best built in provinces that are far away from enemies.",
-        "translation": "税务局可以降低通货膨胀. 即使你目前没有通货膨胀也推荐建造，因为这可以使你每月收入国库的钱增加. 推荐尽可能多的修建.",
+        "translation": "税务局可以降低帝国的通货膨胀。即使你目前没有通货膨胀也推荐建造，因为这可以使你每月收入国库的钱增加。建议修建在远离敌人的省份。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
