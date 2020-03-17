@@ -2314,8 +2314,8 @@
     {
         "key": "INSTI_NOT_ACTIVE:0",
         "original": "$NAME|Y$ has not yet been discovered.",
-        "translation": "$NAME|Y$尚未被发现。",
-        "stage": 5,
+        "translation": "$NAME|Y$尚未发现。",
+        "stage": 1,
         "context": null,
         "file": "localisation/core_l_english.yml"
     },
@@ -2338,15 +2338,15 @@
     {
         "key": "INSTI_TOO_EXPENSIVE:0",
         "original": "We can not afford to embrace $NAME|Y$ as it would cost $COST|Y$¤ and we only have $CASH|Y$¤",
-        "translation": "我们无法接纳$NAME|Y$因为接纳花费是$COST|Y$¤而我们只有$CASH|Y$¤",
-        "stage": 5,
+        "translation": "无法接纳$NAME|Y$，接纳花费为 $COST|Y$¤而我们只有 $CASH|Y$¤。",
+        "stage": 1,
         "context": null,
         "file": "localisation/core_l_english.yml"
     },
     {
         "key": "INSTI_NOT_ENOUGH_HOLD:0",
         "original": "The institution of $NAME|Y$ has not a big enough hold of our country for us to fully embrace it.  It needs to be embraced in at least $NEED|Y$ percent of our autonomy modified development, but it is only embraced in $CURR|Y$ percent.",
-        "translation": "我们无法接纳$NAME|Y$因为其尚未在我国广泛地传播。至少需要在我们经过自治度修正的总体发展度中占比$NEED|Y$%，当前只有$CURR|Y$%。",
+        "translation": "无法接纳$NAME|Y$，因为其尚未在我国广泛地传播。至少需要在我们经过自治度修正的总体发展度中占比 $NEED|Y$%，当前只有 $CURR|Y$%。",
         "stage": 1,
         "context": null,
         "file": "localisation/core_l_english.yml"
@@ -2354,7 +2354,7 @@
     {
         "key": "EMBRACE_INSTI_COST:0",
         "original": "Embracing $NAME|Y$ will cost $COST|Y$¤ and change our technology costs by $TECH$.",
-        "translation": "接纳$NAME|Y$将花费$COST|Y$¤并且改变我们$TECH$的科研花费。",
+        "translation": "接纳$NAME|Y$将花费 $COST|Y$¤ 并且改变我们 $TECH$ 的科研花费。",
         "stage": 1,
         "context": null,
         "file": "localisation/core_l_english.yml"
