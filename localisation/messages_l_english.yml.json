@@ -32434,7 +32434,7 @@
     {
         "key": "ENDKNOWLEDGESHARE_2:0",
         "original": "$MONARCHTITLE$, Knowledge Sharing from",
-        "translation": "$MONARCHTITLE$，思潮分享来自",
+        "translation": "$MONARCHTITLE$，$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32442,15 +32442,15 @@
     {
         "key": "ENDKNOWLEDGESHARE_3:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "向$RECIPIENT$的",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ENDKNOWLEDGESHARE_4:0",
         "original": "to $RECIPIENT$",
-        "translation": "到 $RECIPIENT$",
+        "translation": "思潮分享",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32466,15 +32466,15 @@
     {
         "key": "ENDKNOWLEDGESHARE_6:0",
         "original": "$REASON$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$REASON$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ENDKNOWLEDGESHARE_LOG:0",
         "original": "$ACTOR$'s Subsidies to us have expired.",
-        "translation": "$ACTOR$'s 对我们的支付已过期。",
+        "translation": "$ACTOR$对我们的支付已到期。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
