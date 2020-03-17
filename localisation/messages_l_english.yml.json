@@ -32418,8 +32418,8 @@
     {
         "key": "ENDKNOWLEDGESHARE_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -32530,8 +32530,8 @@
     {
         "key": "OTHERCANCELWARSUBSIDIES_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -32690,7 +32690,7 @@
     {
         "key": "ALLYTAKEOVER_SETUP:0",
         "original": "When an ally takes over leadership in our war.",
-        "translation": "当你的盟友取得了战争的领导权时.",
+        "translation": "当你的盟友取得了战争的领导权时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32706,15 +32706,15 @@
     {
         "key": "ALLYTAKEOVER_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ALLYTAKEOVER_2:0",
         "original": "They inform us that because of their superior might and military expertise they have assumed",
-        "translation": "告知我们，由于他们的力量更强军事，技术更先进，他们已经取得了",
+        "translation": "他们告知我们，由于他们的实力更强、军事技术更先进，他们已经取得了这场",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32722,7 +32722,7 @@
     {
         "key": "ALLYTAKEOVER_3:0",
         "original": "Leadership in the war",
-        "translation": "我们取得了这场战争的领导权，",
+        "translation": "对抗",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32730,7 +32730,7 @@
     {
         "key": "ALLYTAKEOVER_4:0",
         "original": "against",
-        "translation": "针对",
+        "translation": "$TARGETLIST$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32738,15 +32738,15 @@
     {
         "key": "ALLYTAKEOVER_5:0",
         "original": "$TARGETLIST$",
-        "translation": "",
-        "stage": 0,
+        "translation": "的战争的领导权",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ALLYTAKEOVER_6:0",
         "original": "From now on they will handle all negotiations.",
-        "translation": "从现在起将由他们来处理所有的谈判.",
+        "translation": "从现在起将由他们来处理所有的谈判。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32754,7 +32754,7 @@
     {
         "key": "ALLYTAKEOVER_LOG:0",
         "original": "$ACTOR$ assumed leadership in our war against $TARGETLIST$.",
-        "translation": "$ACTOR$ 取得了对抗$TARGETLIST$ 的战争的领导权.",
+        "translation": "$ACTOR$取得了对抗$TARGETLIST$的战争的领导权。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32794,7 +32794,7 @@
     {
         "key": "ALLYTAKEOVERWE_SETUP:0",
         "original": "When we take over leadership in a war.",
-        "translation": "当我们在战争中取得了领导权",
+        "translation": "当我们在战争中取得了领导权。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32802,15 +32802,15 @@
     {
         "key": "ALLYTAKEOVERWE_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ALLYTAKEOVERWE_1:0",
         "original": "We are in control.",
-        "translation": "一切由我们控制.",
+        "translation": "一切由我们掌控。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32818,7 +32818,7 @@
     {
         "key": "ALLYTAKEOVERWE_2:0",
         "original": "Because of our superior strength and unmatched leadership, we have assumed",
-        "translation": "由于我们更加强大，军事技术更先进，",
+        "translation": "由于我们强大的实力和领导力，我们取得了这场",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32826,7 +32826,7 @@
     {
         "key": "ALLYTAKEOVERWE_3:0",
         "original": "Leadership in the war",
-        "translation": "我们取得了这场战争的领导权，",
+        "translation": "对抗",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32834,7 +32834,7 @@
     {
         "key": "ALLYTAKEOVERWE_4:0",
         "original": "against",
-        "translation": "针对",
+        "translation": "$TARGETLIST$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32842,15 +32842,15 @@
     {
         "key": "ALLYTAKEOVERWE_5:0",
         "original": "$TARGETLIST$",
-        "translation": "",
-        "stage": 0,
+        "translation": "的战争的领导权",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ALLYTAKEOVERWE_6:0",
         "original": "From now on we will handle all negotiations.",
-        "translation": "从现在起将由我们来处理所有的谈判.",
+        "translation": "从现在起将由我们来处理所有的谈判。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32858,7 +32858,7 @@
     {
         "key": "ALLYTAKEOVERWE_LOG:0",
         "original": "We assumed leadership in the war against $TARGETLIST$.",
-        "translation": "我们取得了对抗 $TARGETLIST$ 的战争的领导权.",
+        "translation": "我们取得了对抗$TARGETLIST$的战争的领导权。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32914,15 +32914,15 @@
     {
         "key": "INDEPENDANCE_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "INDEPENDANCE_2:0",
         "original": "They have finally managed to overpower their oppressors and throw off their shackles. They have",
-        "translation": "他们成功摆脱压迫，他们",
+        "translation": "他们终于成功摆脱了压迫。他们已经",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32930,7 +32930,7 @@
     {
         "key": "INDEPENDANCE_3:0",
         "original": "Declared Independence",
-        "translation": "宣布独立",
+        "translation": "从他们以前的统治者$OPRESSOR$手中",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32938,7 +32938,7 @@
     {
         "key": "INDEPENDANCE_4:0",
         "original": "from their former masters of",
-        "translation": "从他们以前的统治者",
+        "translation": "宣布独立",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -32946,7 +32946,7 @@
     {
         "key": "INDEPENDANCE_5:0",
         "original": "$OPRESSOR$ and are now experiencing freedom for the first time in a very long time.",
-        "translation": "$OPRESSOR$，他们长久以来第一次体验到了自由。",
+        "translation": "他们正在体验长久以来第一次体验到的自由。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33002,7 +33002,7 @@
     {
         "key": "WERETURNPROV_SETUP:0",
         "original": "When we return a province.",
-        "translation": "当我们归还一个省份时",
+        "translation": "当我们归还一个省份时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33010,8 +33010,8 @@
     {
         "key": "WERETURNPROV_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33034,8 +33034,8 @@
     {
         "key": "WERETURNPROV_3:0",
         "original": "$PROVINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROVINCE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33050,8 +33050,8 @@
     {
         "key": "WERETURNPROV_5:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33066,7 +33066,7 @@
     {
         "key": "WERETURNPROV_LOG:0",
         "original": "We returned $PROV$ to $RECIPIENT$.",
-        "translation": "我们把归还$PROV$给$RECIPIENT$.",
+        "translation": "我们归还$PROV$给$RECIPIENT$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33114,7 +33114,7 @@
     {
         "key": "RETURNPROV_SETUP:0",
         "original": "When a province is returned to us.",
-        "translation": "当一个省份归还给我们时",
+        "translation": "当一个省份归还给我们时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33122,8 +33122,8 @@
     {
         "key": "RETURNPROV_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33154,8 +33154,8 @@
     {
         "key": "RETURNPROV_4:0",
         "original": "$PROVINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROVINCE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33218,7 +33218,7 @@
     {
         "key": "OTHERRETURNPROV_SETUP:0",
         "original": "When a nation returned a province to another country.",
-        "translation": "当一国归还省份给另一国时",
+        "translation": "当一国归还省份给另一国时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33258,8 +33258,8 @@
     {
         "key": "OTHERRETURNPROV_4:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33322,8 +33322,8 @@
     {
         "key": "THREATENWAR_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33338,7 +33338,7 @@
     {
         "key": "THREATENWAR_2:0",
         "original": "$MONARCHTITLE$, we accepted",
-        "translation": "$MONARCHTITLE$，我们接受",
+        "translation": "$MONARCHTITLE$，我们接受了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33346,7 +33346,7 @@
     {
         "key": "THREATENWAR_3:0",
         "original": "the demand from $ACTOR$ for",
-        "translation": "来自$ACTOR$的要求，将",
+        "translation": "$ACTOR$的要求，将",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33354,8 +33354,8 @@
     {
         "key": "THREATENWAR_4:0",
         "original": "$PROVINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROVINCE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33426,8 +33426,8 @@
     {
         "key": "WETHREATENWAR_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33442,7 +33442,7 @@
     {
         "key": "WETHREATENWAR_2:0",
         "original": "$MONARCHTITLE$, $RECIPIENT$ accepted",
-        "translation": "$MONARCHTITLE$，$RECIPIENT$接受",
+        "translation": "$MONARCHTITLE$，$RECIPIENT$接受了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33450,7 +33450,7 @@
     {
         "key": "WETHREATENWAR_3:0",
         "original": "the demand for the province",
-        "translation": "我们对",
+        "translation": "割让省份",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33458,15 +33458,15 @@
     {
         "key": "WETHREATENWAR_4:0",
         "original": "$PROVINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROVINCE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WETHREATENWAR_5:0",
         "original": "and have transferred it to us.",
-        "translation": "的要求，割让此地给我们。",
+        "translation": "给我们的要求。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33530,8 +33530,8 @@
     {
         "key": "OTHERTHREATENWAR_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33546,7 +33546,7 @@
     {
         "key": "OTHERTHREATENWAR_2:0",
         "original": "$MONARCHTITLE$, $RECIPIENT$ accepted",
-        "translation": "$MONARCHTITLE$，$RECIPIENT$接受",
+        "translation": "$MONARCHTITLE$，$RECIPIENT$接受了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33554,7 +33554,7 @@
     {
         "key": "OTHERTHREATENWAR_3:0",
         "original": "the demand for the province",
-        "translation": "对省份",
+        "translation": "割让省份",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33562,7 +33562,7 @@
     {
         "key": "OTHERTHREATENWAR_4:0",
         "original": "$PROVINCE$",
-        "translation": "$PROVINCE$的要求",
+        "translation": "$PROVINCE$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33570,7 +33570,7 @@
     {
         "key": "OTHERTHREATENWAR_5:0",
         "original": "to be transferred to $ACTOR$.",
-        "translation": "将此地割让给$ACTOR$。",
+        "translation": "给$ACTOR$的要求。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
