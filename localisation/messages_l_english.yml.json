@@ -33658,7 +33658,7 @@
     {
         "key": "THEYDECLINETHREATENWAR_3:0",
         "original": "rejected our threat of war over",
-        "translation": "拒绝我们对",
+        "translation": "拒绝了我们对",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33666,8 +33666,8 @@
     {
         "key": "THEYDECLINETHREATENWAR_4:0",
         "original": "$PROVINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROVINCE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33682,7 +33682,7 @@
     {
         "key": "THEYDECLINETHREATENWAR_LOG:0",
         "original": "$RECIPIENT$ declined our threat of war over $PROV$",
-        "translation": "$RECIPIENT$拒绝我们对$PROV$的战争威胁要求",
+        "translation": "$RECIPIENT$拒绝了我们对$PROV$的战争威胁要求",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33730,15 +33730,15 @@
     {
         "key": "WESELLPROV_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WESELLPROV_1:0",
         "original": "A Province Sold.",
-        "translation": "卖出省份.",
+        "translation": "卖出省份。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33754,7 +33754,7 @@
     {
         "key": "WESELLPROV_3:0",
         "original": "accepted our offer",
-        "translation": "接受了我们的条件",
+        "translation": "接受了我们",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33762,7 +33762,7 @@
     {
         "key": "WESELLPROV_4:0",
         "original": "to sell the rather worthless province of",
-        "translation": "以卖出这个没有价值的省份",
+        "translation": "出售没有价值的省份",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33770,15 +33770,15 @@
     {
         "key": "WESELLPROV_5:0",
         "original": "$PROVINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROVINCE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WESELLPROV_6:0",
         "original": "for the sum of §Y$VALUE$§!¤.",
-        "translation": "总金额是§Y$VALUE$§!¤。",
+        "translation": "给他们的提议。总金额是§Y$VALUE$§!¤。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33786,7 +33786,7 @@
     {
         "key": "WESELLPROV_LOG:0",
         "original": "We sold $PROV$ to $RECIPIENT$.",
-        "translation": "我们将 $PROV$ 卖给了 $RECIPIENT$.",
+        "translation": "我们将$PROV$卖给了$RECIPIENT$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33818,7 +33818,7 @@
     {
         "key": "WESELLPROV_MAP:0",
         "original": "Sold!",
-        "translation": "买!",
+        "translation": "买！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33834,7 +33834,7 @@
     {
         "key": "WESELLSHIPS_SETUP:0",
         "original": "When we sell a fleet.",
-        "translation": "当我们出售舰队",
+        "translation": "当我们出售一支舰队时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33842,8 +33842,8 @@
     {
         "key": "WESELLSHIPS_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33866,7 +33866,7 @@
     {
         "key": "WESELLSHIPS_3:0",
         "original": "accepted our offer",
-        "translation": "接受了我们的条件",
+        "translation": "接受了我们的提议",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33882,8 +33882,8 @@
     {
         "key": "WESELLSHIPS_5:0",
         "original": "$NAME$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$NAME$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -33898,7 +33898,7 @@
     {
         "key": "WESELLSHIPS_LOG:0",
         "original": "We sold $NAME$ to $RECIPIENT$.",
-        "translation": "我们把 $NAME$ 卖给了 $RECIPIENT$。",
+        "translation": "我们把$NAME$卖给了$RECIPIENT$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33930,7 +33930,7 @@
     {
         "key": "WESELLSHIPS_MAP:0",
         "original": "Fleet Sold!",
-        "translation": "卖掉了舰队!",
+        "translation": "卖掉了舰队！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33946,7 +33946,7 @@
     {
         "key": "SELLPROV_SETUP:0",
         "original": "When we are sold a province.",
-        "translation": "当我们买入一个省份",
+        "translation": "当我们买下一个省份时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33954,15 +33954,15 @@
     {
         "key": "SELLPROV_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "SELLPROV_1:0",
         "original": "A province bought.",
-        "translation": "买入省份.",
+        "translation": "买下省份。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33970,7 +33970,7 @@
     {
         "key": "SELLPROV_2:0",
         "original": "$MONARCHTITLE$, we have probably made a really good bargain here. We have bought",
-        "translation": "$MONARCHTITLE$，我们也许达成了一项很好的交易，买入了",
+        "translation": "$MONARCHTITLE$，我们也许达成了一项非常划算的交易，从",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33978,15 +33978,15 @@
     {
         "key": "SELLPROV_3:0",
         "original": "$PROVINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "SELLPROV_4:0",
         "original": "from",
-        "translation": "从",
+        "translation": "手上买下了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -33994,15 +33994,15 @@
     {
         "key": "SELLPROV_5:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROVINCE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "SELLPROV_6:0",
         "original": "for the petty price of $VALUE$¤.",
-        "translation": "共计付出了 $VALUE$.",
+        "translation": "且只付出了$VALUE$¤的低价。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34010,7 +34010,7 @@
     {
         "key": "SELLPROV_LOG:0",
         "original": "We bought $PROVINCE$ from $ACTOR$.",
-        "translation": "我们从 $ACTOR$ 买来了 $PROVINCE$.",
+        "translation": "我们从$ACTOR$手上买下了$PROVINCE$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34042,7 +34042,7 @@
     {
         "key": "SELLPROV_MAP:0",
         "original": "Sold!",
-        "translation": "买!",
+        "translation": "买！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34058,7 +34058,7 @@
     {
         "key": "SELLSHIPS_SETUP:0",
         "original": "When we are sold a fleet.",
-        "translation": "当我们出售了舰队",
+        "translation": "当我们出售了一支舰队。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34066,15 +34066,15 @@
     {
         "key": "SELLSHIPS_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "SELLSHIPS_1:0",
         "original": "A fleet bought.",
-        "translation": "舰队已购买。",
+        "translation": "买下舰队。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
