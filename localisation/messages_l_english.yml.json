@@ -36810,7 +36810,7 @@
     {
         "key": "REVOLT_2:0",
         "original": "$MONARCHTITLE$, $REBELS$ have risen up in",
-        "translation": "$MONARCHTITLE$，$REBELS$起义了，地点在",
+        "translation": "$MONARCHTITLE$，$REBELS$发动叛乱，地点在",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -36826,16 +36826,16 @@
     {
         "key": "REVOLT_4:0",
         "original": "$REBELDESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$REBELDESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "REVOLT_LOG:0",
         "original": "$REBELS$ are revolting in $PROV$!",
-        "translation": "$REBELS$在$PROV$起义了！",
-        "stage": 5,
+        "translation": "$REBELS$在$PROV$发动叛乱！",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -36866,7 +36866,7 @@
     {
         "key": "REVOLT_MAP:0",
         "original": "Revolt!",
-        "translation": "叛乱.",
+        "translation": "叛乱！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -36882,7 +36882,7 @@
     {
         "key": "MISSIONDONEOTHER_SETUP:0",
         "original": "When another country completes a Mission.",
-        "translation": "当其他国家完成了一个任务.",
+        "translation": "当其他国家完成了一个任务时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -36898,15 +36898,15 @@
     {
         "key": "MISSIONDONEOTHER_1:0",
         "original": "$COUNTRY$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$COUNTRY$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "MISSIONDONEOTHER_2:0",
         "original": "They have completed the Mission:",
-        "translation": "他们完成了任务:",
+        "translation": "他们完成了任务：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -36914,15 +36914,15 @@
     {
         "key": "MISSIONDONEOTHER_3:0",
         "original": "$MISSION$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MISSION$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "MISSIONDONEOTHER_LOG:0",
         "original": "$COUNTRY$ has completed '$MISSION$'.",
-        "translation": "$COUNTRY$ 完成了$MISSION$.",
+        "translation": "$COUNTRY$完成了「$MISSION$」。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -36962,7 +36962,7 @@
     {
         "key": "MISSIONDONEUS_SETUP:0",
         "original": "When we complete a Mission.",
-        "translation": "当我们完成了一个任务.",
+        "translation": "当我们完成了一个任务时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -36970,7 +36970,7 @@
     {
         "key": "MISSIONDONEUS_HEADER:0",
         "original": "We have completed a Mission",
-        "translation": "我们完成了一个任务.",
+        "translation": "我们完成了一个任务。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -36978,23 +36978,23 @@
     {
         "key": "MISSIONDONEUS_1:0",
         "original": "$MISSION$!",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MISSION$！",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "MISSIONDONEUS_2:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "MISSIONDONEUS_LOG:0",
         "original": "We have completed '$MISSION$'.",
-        "translation": "我们完成了$MISSION$.",
+        "translation": "我们完成了「$MISSION$」。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37034,7 +37034,7 @@
     {
         "key": "NEWMISSIONUS_SETUP:0",
         "original": "When we receive a new Mission.",
-        "translation": "当我们接受了一个新任务。",
+        "translation": "当我们接受了一个新任务时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37042,24 +37042,24 @@
     {
         "key": "NEWMISSIONUS_HEADER:0",
         "original": "$HEADER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$HEADER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "NEWMISSIONUS_1:0",
         "original": "$MISSION$!",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MISSION$！",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "NEWMISSIONUS_2:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37106,7 +37106,7 @@
     {
         "key": "EXCOMREVONUS_SETUP:0",
         "original": "When excommunication of our ruler is revoked.",
-        "translation": "当我国统治者的绝罚被撤消。",
+        "translation": "当我国统治者的绝罚被撤消时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37122,8 +37122,8 @@
     {
         "key": "EXCOMREVONUS_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37138,7 +37138,7 @@
     {
         "key": "EXCOMREVONUS_3:0",
         "original": "Excommunication to be lifted!",
-        "translation": "绝罚被撤销！",
+        "translation": "撤销了绝罚！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37146,7 +37146,7 @@
     {
         "key": "EXCOMREVONUS_6:0",
         "original": "Catholic countries can no longer declare war on us without suffering the normal stability hits.",
-        "translation": "天主教国家不再能向我们宣战而不受稳定度惩罚",
+        "translation": "天主教国家不能再向我们宣战而不受稳定度惩罚。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37194,7 +37194,7 @@
     {
         "key": "EXCOMREVONOTHER_SETUP:0",
         "original": "When the Papal Controller revokes excommunication.",
-        "translation": "当教廷监护撤销绝罚。",
+        "translation": "当教廷监护撤销绝罚时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37210,8 +37210,8 @@
     {
         "key": "EXCOMREVONOTHER_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37226,7 +37226,7 @@
     {
         "key": "EXCOMREVONOTHER_3:0",
         "original": "The Pope ($ACTOR$)",
-        "translation": "教宗（$ACTOR$）",
+        "translation": "教宗（$ACTOR$）撤销了对",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37234,7 +37234,7 @@
     {
         "key": "EXCOMREVONOTHER_4:0",
         "original": "has revoked the excommunication of",
-        "translation": "取消了绝罚，针对",
+        "translation": "$RECIPIENT$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37242,8 +37242,8 @@
     {
         "key": "EXCOMREVONOTHER_5:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "的绝罚",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37290,7 +37290,7 @@
     {
         "key": "WEREVEXCOM_SETUP:0",
         "original": "When we revoke the excommunication of another country's ruler.",
-        "translation": "当我们撤销了对他国统治者的绝罚。",
+        "translation": "当我们撤销了对他国统治者的绝罚时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37298,8 +37298,8 @@
     {
         "key": "WEREVEXCOM_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37322,15 +37322,15 @@
     {
         "key": "WEREVEXCOM_3:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WEREVEXCOM_4:0",
         "original": "is grateful for the lifting of their ruler's excommunication!",
-        "translation": "非常感激我们撤销了对他们统治者的绝罚!",
+        "translation": "非常感激我们撤销了对他们统治者的绝罚！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37338,7 +37338,7 @@
     {
         "key": "WEREVEXCOM_LOG:0",
         "original": "We have lifted the excommunication of the ruler of $RECIPIENT$.",
-        "translation": "我们撤销了$RECIPIENT$统治者的绝罚。",
+        "translation": "我们撤销了对$RECIPIENT$统治者的绝罚。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37378,7 +37378,7 @@
     {
         "key": "MISSIONFAILEDUS_SETUP:0",
         "original": "When we fail to complete a Mission.",
-        "translation": "当我们没能完成一个任务.",
+        "translation": "当我们没能完成一个任务时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37394,15 +37394,15 @@
     {
         "key": "MISSIONFAILEDUS_1:0",
         "original": "$MISSION$!",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MISSION$！",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "MISSIONFAILEDUS_2:0",
         "original": "We have failed to receive",
-        "translation": "我们没有收到",
+        "translation": "我们没有受到",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37410,7 +37410,7 @@
     {
         "key": "MISSIONFAILEDUS_3:0",
         "original": "the following effects:",
-        "translation": "受到以下影响：",
+        "translation": "以下影响：",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37418,15 +37418,15 @@
     {
         "key": "MISSIONFAILEDUS_4:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "MISSIONFAILEDUS_LOG:0",
         "original": "We have failed to complete the Mission $MISSION$.",
-        "translation": "我们没能完成任务$MISSION$.",
+        "translation": "我们没能完成任务$MISSION$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37466,7 +37466,7 @@
     {
         "key": "MISSIONCANCELUS_SETUP:0",
         "original": "When we cancel a Mission.",
-        "translation": "当我们放弃了一个任务.",
+        "translation": "当我们放弃了一个任务时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37482,23 +37482,23 @@
     {
         "key": "MISSIONCANCELUS_1:0",
         "original": "$MISSION$!",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MISSION$！",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "MISSIONCANCELUS_2:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "MISSIONCANCELUS_LOG:0",
         "original": "We have canceled the Mission $MISSION$.",
-        "translation": "我国取消了以下任务：$MISSION$",
+        "translation": "我国取消了以下任务：$MISSION$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37538,7 +37538,7 @@
     {
         "key": "COLONYCITYUS_SETUP:0",
         "original": "When one of our Colonies turns into a city.",
-        "translation": "当我们的一个殖民地转变成城市.",
+        "translation": "当我们的一个殖民地转变成城市时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37546,8 +37546,8 @@
     {
         "key": "COLONYCITYUS_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37570,8 +37570,8 @@
     {
         "key": "COLONYCITYUS_3:0",
         "original": "$PROVINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROVINCE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37602,7 +37602,7 @@
     {
         "key": "COLONYCITYUS_BTN1:0",
         "original": "Excellent!",
-        "translation": "太好了!",
+        "translation": "太好了！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37610,7 +37610,7 @@
     {
         "key": "COLONYCITYUS_BTN2:0",
         "original": "Excellent!",
-        "translation": "太好了!",
+        "translation": "太好了！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37634,7 +37634,7 @@
     {
         "key": "BREAKCOUNTRY_SETUP:0",
         "original": "When our nation is broken by rebellion.",
-        "translation": "当我们的国家被叛乱破坏。",
+        "translation": "当我们的国家被叛乱破坏时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37642,8 +37642,8 @@
     {
         "key": "BREAKCOUNTRY_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37714,7 +37714,7 @@
     {
         "key": "BREAKCOUNTRYOTHER_SETUP:0",
         "original": "When another country is broken by rebellion.",
-        "translation": "当其他国家被叛军击破",
+        "translation": "当其他国家被叛乱破坏时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37730,8 +37730,8 @@
     {
         "key": "BREAKCOUNTRYOTHER_1:0",
         "original": "$OTHER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$OTHER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37810,7 +37810,7 @@
     {
         "key": "SCORCHEDEARTH_SETUP:0",
         "original": "When an enemy scorches one of our provinces.",
-        "translation": "当敌人烧了我们的一个省份。",
+        "translation": "当敌人在我们的一个省份实施焦土政策时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37818,15 +37818,15 @@
     {
         "key": "SCORCHEDEARTH_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "SCORCHEDEARTH_1:0",
         "original": "$PROVINCE$ Scorched!",
-        "translation": "$PROVINCE$被烧毁!",
+        "translation": "$PROVINCE$被烧毁！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37842,8 +37842,8 @@
     {
         "key": "SCORCHEDEARTH_3:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37859,7 +37859,7 @@
         "key": "SCORCHEDEARTH_5:0",
         "original": "scorched the land in $PROVINCE$!",
         "translation": "在$PROVINCE$实施焦土政策！",
-        "stage": 1,
+        "stage": 5,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -37874,7 +37874,7 @@
     {
         "key": "SCORCHEDEARTH_LOG:0",
         "original": "$PROVINCE$ has been scorched by $ACTOR$.",
-        "translation": "$PROVINCE$被$ACTOR$实施焦土政策",
+        "translation": "$PROVINCE$被$ACTOR$实施焦土政策。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37914,7 +37914,7 @@
     {
         "key": "SCORCHEDEARTHUS_SETUP:0",
         "original": "When we scorch a province.",
-        "translation": "当我们烧焦了一个省份",
+        "translation": "当我们在一个省份实施焦土政策时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37922,15 +37922,15 @@
     {
         "key": "SCORCHEDEARTHUS_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "SCORCHEDEARTHUS_1:0",
         "original": "$PROVINCE$ Scorched!",
-        "translation": "$PROVINCE$被烧毁!",
+        "translation": "$PROVINCE$被烧毁！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37938,7 +37938,7 @@
     {
         "key": "SCORCHEDEARTHUS_2:0",
         "original": "$MONARCHTITLE$, our armies have scorched the earth in",
-        "translation": "$MONARCHTITLE$，我们的军队实行了焦土政策在",
+        "translation": "$MONARCHTITLE$，我们的军队在",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37946,15 +37946,15 @@
     {
         "key": "SCORCHEDEARTHUS_3:0",
         "original": "$PROVINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROVINCE$实行了焦土政策",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "SCORCHEDEARTHUS_4:0",
         "original": "Let the enemy come, they can feast on ashes!",
-        "translation": "让敌人来吧，他们只能尝到灰烬!",
+        "translation": "让敌人来吧，他们只能尝到灰烬！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -37994,7 +37994,7 @@
     {
         "key": "FULLALLYINWAR_TITLE:0",
         "original": "Co-Belligerent in War",
-        "translation": "联合交战",
+        "translation": "联合作战",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38002,7 +38002,7 @@
     {
         "key": "FULLALLYINWAR_SETUP:0",
         "original": "When we are called into a war as a co-belligerent.",
-        "translation": "当我们以联合交战国的身份被召唤参加战争时",
+        "translation": "当我们以联合作战国的身份被召唤参加战争时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38010,8 +38010,8 @@
     {
         "key": "FULLALLYINWAR_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38026,7 +38026,7 @@
     {
         "key": "FULLALLYINWAR_2:0",
         "original": "$MONARCHTITLE$, the military leaders of",
-        "translation": "$MONARCHTITLE$，军事领袖，领导着",
+        "translation": "$MONARCHTITLE$，",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38034,7 +38034,7 @@
     {
         "key": "FULLALLYINWAR_3:0",
         "original": "$ACTOR$",
-        "translation": "$ACTOR$",
+        "translation": "$ACTOR$的军事领袖",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38050,8 +38050,8 @@
     {
         "key": "FULLALLYINWAR_5:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38106,7 +38106,7 @@
     {
         "key": "MAJOREVENTHAPPENOTHEROPTION_SETUP:0",
         "original": "When a Major multi-choice event happens to another country.",
-        "translation": "当别国发生了重要的选择事件。",
+        "translation": "当别国发生了重要的选择事件时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38122,8 +38122,8 @@
     {
         "key": "MAJOREVENTHAPPENOTHEROPTION_1:0",
         "original": "$COUNTRY$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$COUNTRY$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38138,8 +38138,8 @@
     {
         "key": "MAJOREVENTHAPPENOTHEROPTION_3:0",
         "original": "$EVENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$EVENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38154,8 +38154,8 @@
     {
         "key": "MAJOREVENTHAPPENOTHEROPTION_5:0",
         "original": "$OPTION$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$OPTION$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38194,8 +38194,8 @@
     {
         "key": "MAJOREVENTHAPPENOTHEROPTION_BTN2_TOOLTIP:0",
         "original": "$OPTIONDESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$OPTIONDESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38218,7 +38218,7 @@
     {
         "key": "MAJOREVENTHAPPENOTHER_SETUP:0",
         "original": "When a Major single-choice event happens to another country.",
-        "translation": "当其他国家发生了一个单选的事件。",
+        "translation": "当其他国家发生了一个单选主要事件时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38234,8 +38234,8 @@
     {
         "key": "MAJOREVENTHAPPENOTHER_1:0",
         "original": "$COUNTRY$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$COUNTRY$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38250,16 +38250,16 @@
     {
         "key": "MAJOREVENTHAPPENOTHER_3:0",
         "original": "$EVENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$EVENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "MAJOREVENTHAPPENOTHER_4:0",
         "original": "$EVENTDESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$EVENTDESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38290,8 +38290,8 @@
     {
         "key": "MAJOREVENTHAPPENOTHER_BTN2_TOOLTIP:0",
         "original": "$OPTIONDESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$OPTIONDESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38314,7 +38314,7 @@
     {
         "key": "REVOLTSIEGE_SETUP:0",
         "original": "When rebels enforce their goals in one of your provinces.",
-        "translation": "当叛军在你的一个省份强制执行了他们的要求。",
+        "translation": "当叛军在你的一个省份强制执行了他们的要求时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38322,15 +38322,15 @@
     {
         "key": "REVOLTSIEGE_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "REVOLTSIEGE_1:0",
         "original": "Rebels Successful!",
-        "translation": "叛军胜利了!",
+        "translation": "叛军胜利了！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38354,8 +38354,8 @@
     {
         "key": "REVOLTSIEGE_4:0",
         "original": "$EFFECT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$EFFECT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38410,7 +38410,7 @@
     {
         "key": "REBELENTERED_SETUP:0",
         "original": "When rebels enter one of your provinces from another country.",
-        "translation": "当叛军自他国进入你的一个省份。",
+        "translation": "当叛军自他国进入你的一个省份时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38418,8 +38418,8 @@
     {
         "key": "REBELENTERED_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38514,8 +38514,8 @@
     {
         "key": "PEACEWEINVOLVED_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38530,7 +38530,7 @@
     {
         "key": "PEACEWEINVOLVED_3:0",
         "original": "accepted peace",
-        "translation": "接受和平",
+        "translation": "接受了与他们之前的敌人",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38538,7 +38538,7 @@
     {
         "key": "PEACEWEINVOLVED_4:0",
         "original": "with their former enemies",
-        "translation": "和他们之前的敌人",
+        "translation": "$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38546,15 +38546,15 @@
     {
         "key": "PEACEWEINVOLVED_5:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "的和平协定",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "PEACEWEINVOLVED_6:0",
         "original": "on the following terms: $TERMS$",
-        "translation": "就以下条款：$TERMS$",
+        "translation": "条款如下：$TERMS$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38570,7 +38570,7 @@
     {
         "key": "PEACEWEINVOLVED_BTN1:0",
         "original": "Fine!",
-        "translation": "很好!",
+        "translation": "很好！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38578,7 +38578,7 @@
     {
         "key": "PEACEWEINVOLVED_BTN2:0",
         "original": "Fine!",
-        "translation": "很好!",
+        "translation": "很好！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38594,7 +38594,7 @@
     {
         "key": "PEACEWEINVOLVED_MAP:0",
         "original": "Peace!",
-        "translation": "和平!",
+        "translation": "和平！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38610,7 +38610,7 @@
     {
         "key": "DECLWAR_SETUP:0",
         "original": "When a nation declares war upon you.",
-        "translation": "当一个国家对你宣战。",
+        "translation": "当一个国家对你宣战时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38618,8 +38618,8 @@
     {
         "key": "DECLWAR_HEADER:0",
         "original": "$WAR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$WAR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38658,8 +38658,8 @@
     {
         "key": "DECLWAR_6:0",
         "original": "$CASUS$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$CASUS$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38698,7 +38698,7 @@
     {
         "key": "DECLWAR_MAP:0",
         "original": "WAR!",
-        "translation": "战争!",
+        "translation": "战争！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38714,7 +38714,7 @@
     {
         "key": "DECLWAROTHER_SETUP:0",
         "original": "When a nation declares war upon another country.",
-        "translation": "当一个国家对另一个国家宣战。",
+        "translation": "当一个国家对另一个国家宣战时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38730,8 +38730,8 @@
     {
         "key": "DECLWAROTHER_1:0",
         "original": "$AGRESSOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$AGRESSOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38770,8 +38770,8 @@
     {
         "key": "DECLWAROTHER_6:0",
         "original": "$CASUS$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$CASUS$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38810,7 +38810,7 @@
     {
         "key": "DECLWAROTHER_MAP:0",
         "original": "WAR!",
-        "translation": "战争!",
+        "translation": "战争！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38826,7 +38826,7 @@
     {
         "key": "WEDECLWAR_SETUP:0",
         "original": "When we declare war upon another country.",
-        "translation": "当我国对另一个国家宣战。",
+        "translation": "当我国对另一个国家宣战时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -38834,8 +38834,8 @@
     {
         "key": "WEDECLWAR_HEADER:0",
         "original": "$WAR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$WAR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38850,8 +38850,8 @@
     {
         "key": "WEDECLWAR_2:0",
         "original": "$DEFENDER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DEFENDER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38914,8 +38914,8 @@
     {
         "key": "DECLWARCOLATT_HEADER:0",
         "original": "$WAR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$WAR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -38938,16 +38938,16 @@
     {
         "key": "DECLWARCOLATT_3:0",
         "original": "$DEFENDER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DEFENDER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "DECLWARCOLATT_6:0",
         "original": "$CASUS$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$CASUS$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -39010,16 +39010,16 @@
     {
         "key": "DECLWARCOLDEF_HEADER:0",
         "original": "$WAR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$WAR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "DECLWARCOLDEF_1:0",
         "original": "$AGRESSOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$AGRESSOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -39034,23 +39034,23 @@
     {
         "key": "DECLWARCOLDEF_3:0",
         "original": "$DEFENDER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DEFENDER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "DECLWARCOLDEF_6:0",
         "original": "$CASUS$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$CASUS$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "DECLWARCOLDEF_LOG:1",
         "original": "$AGRESSOR$ started the $WAR$ against our $SUBJECT$ $DEFENDER$.",
-        "translation": "$AGRESSOR$针对我们的$SUBJECT$$DEFENDER$发起了$WAR$。",
+        "translation": "$AGRESSOR$对我们的$SUBJECT$$DEFENDER$发起了$WAR$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39098,7 +39098,7 @@
     {
         "key": "WEGAINCB_SETUP:0",
         "original": "When we gain a Casus Belli.",
-        "translation": "当我们得到宣战理由",
+        "translation": "当我们得到宣战理由时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39106,8 +39106,8 @@
     {
         "key": "WEGAINCB_HEADER:0",
         "original": "$MONARCHTITLE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MONARCHTITLE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -39130,7 +39130,7 @@
     {
         "key": "WEGAINCB_3:0",
         "original": "'$CASUS$' Casus Belli",
-        "translation": "「$CASUS$」的宣战理由",
+        "translation": "对",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39138,7 +39138,7 @@
     {
         "key": "WEGAINCB_4:0",
         "original": "against",
-        "translation": "针对",
+        "translation": "$ENEMY$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39146,23 +39146,23 @@
     {
         "key": "WEGAINCB_5:0",
         "original": "$ENEMY$",
-        "translation": "",
-        "stage": 0,
+        "translation": "的宣战理由「$CASUS$」",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WEGAINCB_6:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WEGAINCB_LOG:0",
         "original": "We gained the '$CASUS$' Casus Belli against $ENEMY$.",
-        "translation": "我们得到针对$ENEMY$的「$CASUS$」宣战理由。",
+        "translation": "我们得到了对$ENEMY$的宣战理由「$CASUS$」。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39202,7 +39202,7 @@
     {
         "key": "WELOSECB_SETUP:0",
         "original": "When we lose a Casus Belli.",
-        "translation": "当我们失去宣战理由",
+        "translation": "当我们失去宣战理由时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39210,8 +39210,8 @@
     {
         "key": "WELOSECB_HEADER:0",
         "original": "$MONARCHTITLE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MONARCHTITLE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -39234,7 +39234,7 @@
     {
         "key": "WELOSECB_3:0",
         "original": "$CASUS$ Casus Belli",
-        "translation": "$CASUS$的宣战理由",
+        "translation": "对",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39242,7 +39242,7 @@
     {
         "key": "WELOSECB_4:0",
         "original": "against",
-        "translation": "针对",
+        "translation": "$ENEMY$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39250,15 +39250,15 @@
     {
         "key": "WELOSECB_5:0",
         "original": "$ENEMY$",
-        "translation": "",
-        "stage": 0,
+        "translation": "的宣战理由$CASUS$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WELOSECB_LOG:0",
         "original": "We lost the $CASUS$ Casus Belli against $ENEMY$.",
-        "translation": "我们失去了针对$ENEMY$的$CASUS$宣战理由。",
+        "translation": "我们失去了对$ENEMY$的宣战理由$CASUS$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39298,7 +39298,7 @@
     {
         "key": "OURFOREIGNHEIRWINS_SETUP:0",
         "original": "When another country elects a ruler of our dynasty.",
-        "translation": "当他国将我们的家族成员选作领袖时",
+        "translation": "当他国将我们的家族成员选作领袖时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39306,7 +39306,7 @@
     {
         "key": "OURFOREIGNHEIRWINS_HEADER:0",
         "original": "Member of our Dynasty Elected!",
-        "translation": "一个我们王朝的选候",
+        "translation": "一个我们王朝的选候！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39314,15 +39314,15 @@
     {
         "key": "OURFOREIGNHEIRWINS_1:0",
         "original": "$CANDIDATENAME$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$CANDIDATENAME$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "OURFOREIGNHEIRWINS_2:0",
         "original": "our candidate for the throne of",
-        "translation": "我们的头衔候选人",
+        "translation": "我们的",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39330,15 +39330,15 @@
     {
         "key": "OURFOREIGNHEIRWINS_3:0",
         "original": "$COUNTRYNAME$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$COUNTRYNAME$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "OURFOREIGNHEIRWINS_4:0",
         "original": "has won the election and succeeded to the throne.",
-        "translation": "已经赢得选举继承了王位",
+        "translation": "王位候选人已经赢得选举继承了王位。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39442,7 +39442,7 @@
     {
         "key": "CONSORT_REGENT_TAKEOVER_3:0",
         "original": "the future of $COUNTRYNAME$ is unsure.",
-        "translation": "$COUNTRYNAME$的未来陷入未知。",
+        "translation": "$COUNTRYNAME$的未来充满变数。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39450,8 +39450,8 @@
     {
         "key": "CONSORT_REGENT_TAKEOVER_4:0",
         "original": "$REGENTNAME$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$REGENTNAME$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -39522,7 +39522,7 @@
     {
         "key": "NEWHEIR_SETUP:0",
         "original": "When you get a new legal Heir.",
-        "translation": "当你获得新的合法继承人。",
+        "translation": "当你获得新的合法继承人时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39570,16 +39570,16 @@
     {
         "key": "NEWHEIR_5:0",
         "original": "$LESSERINUNION_01$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$LESSERINUNION_01$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "NEWHEIR_6:0",
         "original": "$LESSERINUNION_02$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$LESSERINUNION_02$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -39626,8 +39626,8 @@
     {
         "key": "NEWHEIR_NAME_1:0",
         "original": "$STATS$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$STATS$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -39650,7 +39650,7 @@
     {
         "key": "NEWQUEEN_SETUP:0",
         "original": "When you get a new Consort.",
-        "translation": "当你获得新的配偶。",
+        "translation": "当你获得新的配偶时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -39682,8 +39682,8 @@
     {
         "key": "NEWQUEEN_3:0",
         "original": "$QUEENPRINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$QUEENPRINCE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -39730,8 +39730,8 @@
     {
         "key": "NEWQUEEN_NAME_1:0",
         "original": "$STATS$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$STATS$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -39770,8 +39770,8 @@
     {
         "key": "HEIR_DISINHERIT_1:0",
         "original": "$HEIRNAME$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$HEIRNAME$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -39858,8 +39858,8 @@
     {
         "key": "HEIRDEATH_1:0",
         "original": "$HEIRNAME$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$HEIRNAME$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -42834,8 +42834,8 @@
     {
         "key": "DEMANDUNLAWFULTERRITORYWITHOTHER_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -42850,8 +42850,8 @@
     {
         "key": "DEMANDUNLAWFULTERRITORYWITHOTHER_3:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -42938,8 +42938,8 @@
     {
         "key": "DECDEMANDUNLAWFULTERRITORYWITHUS_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -43026,15 +43026,15 @@
     {
         "key": "DECDEMANDUNLAWFULTERRITORYWITHOTHER_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "DECDEMANDUNLAWFULTERRITORYWITHOTHER_2:0",
         "original": "They refused the demand for",
-        "translation": "他们拒绝",
+        "translation": "他们拒绝了皇帝",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -43042,7 +43042,7 @@
     {
         "key": "DECDEMANDUNLAWFULTERRITORYWITHOTHER_3:0",
         "original": "unlawful territory $PROVINCE$ as",
-        "translation": "归还非法领土$PROVINCE$的要求，",
+        "translation": "$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -43050,7 +43050,7 @@
     {
         "key": "DECDEMANDUNLAWFULTERRITORYWITHOTHER_4:0",
         "original": "demanded by the emperor",
-        "translation": "要求来自皇帝",
+        "translation": "归还非法领土",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -43058,8 +43058,8 @@
     {
         "key": "DECDEMANDUNLAWFULTERRITORYWITHOTHER_5:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROVINCE$的要求",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -43130,15 +43130,15 @@
     {
         "key": "PROVMODEXP_1:0",
         "original": "$MOD$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$PROV$的",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "PROVMODEXP_2:0",
         "original": "has expired in",
-        "translation": "已过期于",
+        "translation": "$MOD$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -43146,16 +43146,16 @@
     {
         "key": "PROVMODEXP_3:0",
         "original": "$PROV$",
-        "translation": "",
-        "stage": 0,
+        "translation": "已到期",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "PROVMODEXP_4:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -43218,15 +43218,15 @@
     {
         "key": "COUNTRYMODEXP_1:0",
         "original": "$MOD$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$COUNTRY$的",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "COUNTRYMODEXP_2:0",
         "original": "has expired in",
-        "translation": "已过期于",
+        "translation": "$MOD$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -43234,16 +43234,16 @@
     {
         "key": "COUNTRYMODEXP_3:0",
         "original": "$COUNTRY$",
-        "translation": "",
-        "stage": 0,
+        "translation": "已到期",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "COUNTRYMODEXP_4:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -43290,7 +43290,7 @@
     {
         "key": "EXCOMONUS_SETUP:0",
         "original": "When our ruler is excommunicated.",
-        "translation": "当我国统治者遭到绝罚。",
+        "translation": "当我国统治者遭到绝罚时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -43306,8 +43306,8 @@
     {
         "key": "EXCOMONUS_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -43378,7 +43378,7 @@
     {
         "key": "EXCOMONOTHER_SETUP:0",
         "original": "When the Papal Controller excommunicates a ruler.",
-        "translation": "当教廷监护绝罚了一个统治者。",
+        "translation": "当教廷监护绝罚了一个统治者时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -43394,8 +43394,8 @@
     {
         "key": "EXCOMONOTHER_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -43426,7 +43426,7 @@
     {
         "key": "EXCOMONOTHER_5:0",
         "original": "$RECIPIENT$.",
-        "translation": "$RECIPIENT$统治者。",
+        "translation": "$RECIPIENT$的统治者。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -43506,8 +43506,8 @@
     {
         "key": "NEWPOPE_3:0",
         "original": "$POPE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$POPE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
