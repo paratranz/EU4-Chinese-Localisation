@@ -34002,7 +34002,7 @@
     {
         "key": "SELLPROV_6:0",
         "original": "for the petty price of $VALUE$¤.",
-        "translation": "且只付出了$VALUE$¤的低价。",
+        "translation": "总价仅为$VALUE$¤。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34082,7 +34082,7 @@
     {
         "key": "SELLSHIPS_2:0",
         "original": "$MONARCHTITLE$, we have probably made a really good bargain here. We have bought",
-        "translation": "$MONARCHTITLE$， 我们应该是捡到一个便宜了。 我们已经购买了",
+        "translation": "$MONARCHTITLE$，我们也许达成了一项非常划算的交易，从",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34090,7 +34090,7 @@
     {
         "key": "SELLSHIPS_3:0",
         "original": "$NAME$ containing",
-        "translation": "$NAME$ 包含有",
+        "translation": "$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34098,7 +34098,7 @@
     {
         "key": "SELLSHIPS_4:0",
         "original": "$FLEET$ from",
-        "translation": "$FLEET$ ，来自于",
+        "translation": "手上买下了$NAME$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34106,15 +34106,15 @@
     {
         "key": "SELLSHIPS_5:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "编制有$FLEET$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "SELLSHIPS_6:0",
         "original": "for the petty price of §Y$VALUE$§!¤.",
-        "translation": "，总价仅仅为 §Y$VALUE$§!¤。",
+        "translation": "总价仅为§Y$VALUE$§!¤。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34154,7 +34154,7 @@
     {
         "key": "SELLSHIPS_MAP:0",
         "original": "Sold!",
-        "translation": "卖掉!",
+        "translation": "卖掉！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34170,7 +34170,7 @@
     {
         "key": "OTHERSELLPROV_SETUP:0",
         "original": "When a nation sells a province to another country.",
-        "translation": "当一个国家向他国出售省份",
+        "translation": "当一个国家向其它国家出售省份时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34186,15 +34186,15 @@
     {
         "key": "OTHERSELLPROV_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "OTHERSELLPROV_2:0",
         "original": "$ACTOR$ is likely having financial or diplomatic problems and, as a last resort, has agreed to",
-        "translation": "$ACTOR$ 看起来在财政或者外交上有了麻烦， 最后不得不同意",
+        "translation": "$ACTOR$看起来在财政或外交上出了问题， 最后不得不同意",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34258,7 +34258,7 @@
     {
         "key": "SHIPSUNK_SETUP:0",
         "original": "When one of your ships sinks due to attrition.",
-        "translation": "当你的舰船因为损耗而沉没时",
+        "translation": "当你的舰船因为损耗而沉没时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34266,15 +34266,15 @@
     {
         "key": "SHIPSUNK_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "SHIPSUNK_1:0",
         "original": "Ship Lost!",
-        "translation": "舰船沉没!",
+        "translation": "舰船沉没！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34290,7 +34290,7 @@
     {
         "key": "SHIPSUNK_3:0",
         "original": "LOST!",
-        "translation": "沉没了!",
+        "translation": "在穿越危险的水域",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -34298,7 +34298,7 @@
     {
         "key": "SHIPSUNK_4:0",
         "original": "while traversing the hazardous waters of",
-        "translation": "在穿越危险的水域时",
+        "translation": "$PROV$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -44050,8 +44050,8 @@
     {
         "key": "THEYDECLINESELLSHIPS_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -44066,7 +44066,7 @@
     {
         "key": "THEYDECLINESELLSHIPS_2:0",
         "original": "$MONARCHTITLE$, $RECIPIENT$ has",
-        "translation": "$MONARCHTITLE$， $RECIPIENT$ 已经",
+        "translation": "$MONARCHTITLE$，$RECIPIENT$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -44074,7 +44074,7 @@
     {
         "key": "THEYDECLINESELLSHIPS_3:0",
         "original": "declined our offer",
-        "translation": "拒绝了我们的提议",
+        "translation": "拒绝了我们出售",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -44082,7 +44082,7 @@
     {
         "key": "THEYDECLINESELLSHIPS_4:0",
         "original": "to sell the excellent fleet",
-        "translation": "出售这支出色的舰队",
+        "translation": "$NAME$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -44090,8 +44090,8 @@
     {
         "key": "THEYDECLINESELLSHIPS_5:0",
         "original": "$NAME$",
-        "translation": "",
-        "stage": 0,
+        "translation": "这支出色的舰队给他们的提议",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
