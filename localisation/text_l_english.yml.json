@@ -45362,7 +45362,7 @@
     {
         "key": "CREATE_ADVISOR:0",
         "original": "Gain §Y$WHICH$§W ($EFFECT$).\\n",
-        "translation": "获得§Y$WHICH$§W. \\n",
+        "translation": "获得§Y$WHICH$§W（$EFFECT$）。\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -45370,7 +45370,7 @@
     {
         "key": "DEFINE_ADVISOR:1",
         "original": "The$CULTURE|Y$$RELIGION|Y$ $TYPE$, $NAME|Y$, joins your court.\\n(Skill $SKILL|Y$, $EFFECT$)",
-        "translation": "$CULTURE|Y$$RELIGION|Y$$TYPE$$NAME|Y$加入了宫廷。\\n（技能为$SKILL|Y$，$EFFECT$）",
+        "translation": "信仰$RELIGION|Y$的$CULTURE|Y$$TYPE$$NAME|Y$加入了宫廷。\\n（技能为$SKILL|Y$级，$EFFECT$）",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -45402,7 +45402,7 @@
     {
         "key": "improve_key_defensive_position_medium_title:0",
         "original": "Create a Fortress in $PROVINCENAME$",
-        "translation": "在 $PROVINCENAME$ 建设要塞",
+        "translation": "在$PROVINCENAME$建设要塞",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -45410,7 +45410,7 @@
     {
         "key": "improve_key_defensive_position_medium_desc:0",
         "original": "The border province of $PROVINCENAME$ could become a key battleground in a future war. Our generals believe that a major fortification upgrade is vital so that we are prepared.",
-        "translation": "$PROVINCENAME$边区会是未来战争中的关键战场，我们的将军相信升级主要塞是至关重要的，因此我们要着手落实这一点.",
+        "translation": "$PROVINCENAME$边区会是未来战争中的关键战场，我们的将军相信升级主要塞是至关重要的，因此我们要着手落实这一点。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -45418,7 +45418,7 @@
     {
         "key": "improve_key_defensive_position_hard_title:0",
         "original": "Make $PROVINCENAME$ an Impregnable Fortress!",
-        "translation": "把 $PROVINCENAME$ 建成不落的要塞!",
+        "translation": "把$PROVINCENAME$建成不落的要塞！",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -45426,7 +45426,7 @@
     {
         "key": "improve_key_defensive_position_hard_desc:0",
         "original": "The fortress in $PROVINCENAME$ was at one point the wonder of the age, however, these days it is looking distinctly obsolete. We should prioritize the modernization of this fortress.",
-        "translation": "$PROVINCENAME$的要塞曾被视为奇观，但现在看来它已经明显过时了.我们应该重新将其建设为现代化的要塞.",
+        "translation": "$PROVINCENAME$的要塞曾被视为奇观，但现在看来它已经明显过时了。我们应该重新将其建设为现代化的要塞。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
