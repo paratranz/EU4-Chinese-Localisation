@@ -1426,7 +1426,7 @@
     {
         "key": "personality_events.10.b.tt:0",
         "original": "Every owned province in this §YArea§! will get a §G-0.05§! autonomy reduction for 30 years and every province not at its minimum an immediate reduction of §G15§! local autonomy.",
-        "translation": "我们每一个在§Y此地区§!的省份都会获得一个持续30年的§G-0.05§!每月自治度减成，如果当前有此地省份自治度不是其最小值的话，它将立即获得一个§G15§!的地方自治度减成。",
+        "translation": "名下所有在此§Y地区§!的省份30年内获得§G-0.05§!的自治度降低的效果且所有自治度未达下限的省份立即降低§G15§!的地方自治度。",
         "stage": 1,
         "context": null,
         "file": "localisation/personalityoptions_l_english.yml"
@@ -1490,7 +1490,7 @@
     {
         "key": "personality_events.11.a.tt:0",
         "original": "This §YArea§! will get a §G-2§! unrest reduction and a §R25%§! tax reduction for 30 years.",
-        "translation": "在接下来的30年内，每一个§Y此地区§!的省份都会减少§G-2§!点每月叛乱风险，以及§R25%§!的税收减成。",
+        "translation": "所有在此§Y地区§!的省份30年内获得§G-2§!的叛乱风险降低和§R25%§!的税收降低的效果。",
         "stage": 1,
         "context": null,
         "file": "localisation/personalityoptions_l_english.yml"
@@ -1706,7 +1706,7 @@
     {
         "key": "personality_events.14.a.tt:0",
         "original": "Every owned province in this §YArea§! will get a §G-5§! unrest reduction as well as §R-15%§! tax income reduction for 15 years.",
-        "translation": "每个在 §YArea§!拥有的省份，在15年内，都会获得§G-5§! 减少动荡和 §R-15%§! 减少税收的效果。",
+        "translation": "名下所有在此§Y地区§!的省份15年内获得§G-5§!的叛乱风险降低和§R-15%§!的税收降低的效果。",
         "stage": 1,
         "context": null,
         "file": "localisation/personalityoptions_l_english.yml"
@@ -1738,7 +1738,7 @@
     {
         "key": "personality_events.14.b.tt:0",
         "original": "Every owned province in this §YArea§! will get a §G-2§! local autonomy reduction for 15 years as well as an immediate reduction of autonomy of up to §G25§!.",
-        "translation": "每个在 §YArea§!地区拥有的省份都会获得持续15年 §G-2§!地方自治减少的效果，并且自治度会立马降低到 §G25§!。",
+        "translation": "名下所有在此§Y地区§!的省份15年内获得§G-2§!的地方自治度降低的效果且立即降低高达§G25§!的自治度。",
         "stage": 1,
         "context": null,
         "file": "localisation/personalityoptions_l_english.yml"
@@ -2370,7 +2370,7 @@
     {
         "key": "personality_events.29.b.tt:0",
         "original": "Every owned province in this §YArea§! will immediately have autonomy reduced by §G-15§!.",
-        "translation": "§YArea§!地区每个拥有的省份马上降低§G-15§!的自治。",
+        "translation": "名下所有在此§Y地区§!的省份自治度立即降低§G-15§!。",
         "stage": 1,
         "context": null,
         "file": "localisation/personalityoptions_l_english.yml"

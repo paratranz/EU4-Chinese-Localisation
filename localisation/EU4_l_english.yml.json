@@ -37498,7 +37498,7 @@
     {
         "key": "MUST_RESTART_TO_PLAY_MP:0",
         "original": "§RYou must restart the game to play multiplayer, because you entered the singleplayer screen or hosted/joined a multiplayer game.§!",
-        "translation": "§R由于你进入了单人模式或开始或加入了多人游戏,你必须在重启游戏后才能游玩多人游戏§!",
+        "translation": "§R由于你正进行单人模式或者已主持/加入一局多人模式游戏，必须重启游戏才能游玩多人模式。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37506,7 +37506,7 @@
     {
         "key": "MUST_RESTART_TO_PLAY_MP_NUDGE:0",
         "original": "§RYou must restart the game without the -nudge command line option to play multiplayer, because it would cause out of synch.§!",
-        "translation": "§R你需要重启游戏并不使用-nudge指令打开游戏才能游玩多人游戏因为该指令将导致无法同步§!",
+        "translation": "§R由于 -nudge 指令将导致无法同步，必须取消该指令后重启游戏才能游玩多人模式。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37538,7 +37538,7 @@
     {
         "key": "THERE_WOULD_BE_BATTLE:0",
         "original": "§YThere will be a battle on $DATE$ if we move here.§!",
-        "translation": "§O如果我们向这里行军,那么将会在$DATE$爆发一场战役§!",
+        "translation": "§Y如果我们向这里行军，那么将会在$DATE$爆发一场战役。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37554,7 +37554,7 @@
     {
         "key": "BATTLE_DEFENDER_SWAP:0",
         "original": " - Due to lack of control of the hostile fortress, the $WHO|Y$ army will be the attacker in this combat.",
-        "translation": "－由于尚未控制敌军堡垒,$WHO|Y$的军队将在这场战役中成为进攻方",
+        "translation": "－由于尚未控制敌军堡垒，$WHO|Y$的军队将成为这场战役的进攻方。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37586,7 +37586,7 @@
     {
         "key": "CROSSING_HIGH_MANEUVER:0",
         "original": "If the attacking general has higher Maneuver than the defending general, the crossing penalty will be ignored.",
-        "translation": "如果进攻方的将领的机动比防守方的高,跨河惩罚将被无视",
+        "translation": "如果进攻方将领的机动比防守方高，跨河惩罚将被无视。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37602,7 +37602,7 @@
     {
         "key": "DECORATE_MODIFIED_PROVINCE_VALUE_EX:0",
         "original": "If §R< $BAD$§!, else if §Y< $QUITE_BAD$§!,\\nelse if §Y< $NEUTRAL$§!, else §G>= $NEUTRAL$§!",
-        "translation": "如果§R< $BAD$§!，否则如果§O< $QUITE_BAD$§!，\\n否则如果§Y< $NEUTRAL$§!，否则§G>= $NEUTRAL$§!",
+        "translation": "如果§R< $BAD$§!，否则如果§Y< $QUITE_BAD$§!，\\n否则如果§Y< $NEUTRAL$§!，否则§G>= $NEUTRAL$§!",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37706,7 +37706,7 @@
     {
         "key": "PRODUCTION_MODIFIER_EXCEPTION:0",
         "original": "This province produces §Y$NAME$§! which is not impacted by production modifiers.",
-        "translation": "该省份生产§Y$NAME$§!而这一数据不受生产修正的影响",
+        "translation": "该省份生产的§Y$NAME$§!不受生产修正的影响。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
