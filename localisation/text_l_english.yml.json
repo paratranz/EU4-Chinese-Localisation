@@ -40098,7 +40098,7 @@
     {
         "key": "IS_IN_COLONIAL_RANGE:0",
         "original": "$NAME$ is reachable by §Y$ADJ$§! colonists.",
-        "translation": "§Y$ADJ$§!殖民者可到达$NAME$",
+        "translation": "§Y$ADJ$§!的殖民队可以到达$NAME$。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -40106,7 +40106,7 @@
     {
         "key": "IS_NOT_IN_COLONIAL_RANGE:0",
         "original": "$NAME$ is not reachable by §Y$ADJ$§! colonists.",
-        "translation": "§Y$ADJ$§!殖民者不可到达$NAME$",
+        "translation": "§Y$ADJ$§!的殖民队无法到达$NAME$。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -40114,7 +40114,7 @@
     {
         "key": "IS_IN_TRADE_RANGE:0",
         "original": "$NAME$ is reachable by §Y$ADJ$§! merchants.",
-        "translation": "§Y$ADJ$§! 商人可到达$NAME$",
+        "translation": "§Y$ADJ$§!的商人团可以到达$NAME$。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -40122,7 +40122,7 @@
     {
         "key": "IS_NOT_IN_TRADE_RANGE:0",
         "original": "$NAME$ is not reachable by §Y$ADJ$§! merchants.",
-        "translation": "§Y$ADJ$§!商人不可到达$NAME$",
+        "translation": "§Y$ADJ$§!的商人团无法到达$NAME$。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -46546,7 +46546,7 @@
     {
         "key": "IS_NOT_COUNTRY_CORE:0",
         "original": "Is NOT a $COUNTRYADJ$ core",
-        "translation": "不是$COUNTRYADJ$核心领土",
+        "translation": "不是$COUNTRYADJ$的核心",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -46554,7 +46554,7 @@
     {
         "key": "IS_COUNTRY_CORE:0",
         "original": "Is a $COUNTRYADJ$ core",
-        "translation": "是$COUNTRYADJ$核心领土",
+        "translation": "是$COUNTRYADJ$的核心",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -60890,7 +60890,7 @@
     {
         "key": "desc_smugglers_dominating:0",
         "original": "People are avoiding paying taxes on goods - and are getting away with it!",
-        "translation": "人们逃税-并逃脱处罚!",
+        "translation": "人们逃避商品税——而且逍遥法外！",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
