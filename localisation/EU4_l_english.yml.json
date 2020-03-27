@@ -36946,7 +36946,7 @@
     {
         "key": "USES_NOT_CHURCH_ASPECTS:0",
         "original": "$COUNTRY|Y$ has NOT church aspects.",
-        "translation": "$COUNTRY|Y$没有教会信条机制。",
+        "translation": "$COUNTRY|Y$不使用教会信条机制。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37050,7 +37050,7 @@
     {
         "key": "USES_SYNCRETIC_FAITHS:0",
         "original": "$COUNTRY|Y$ uses Syncretic Faiths.",
-        "translation": "$COUNTRY|Y$能使用相融信仰。",
+        "translation": "$COUNTRY|Y$使用相融信仰机制。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37058,7 +37058,7 @@
     {
         "key": "USES_NOT_SYNCRETIC_FAITHS:0",
         "original": "$COUNTRY|Y$ does NOT use Syncretic Faiths.",
-        "translation": "$COUNTRY|Y$不能使用相融信仰。",
+        "translation": "$COUNTRY|Y$不使用相融信仰机制。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37066,7 +37066,7 @@
     {
         "key": "USES_CULTS:0",
         "original": "$COUNTRY|Y$ uses Cults.",
-        "translation": "$COUNTRY|Y$能使用图腾仪式",
+        "translation": "$COUNTRY|Y$使用崇拜物机制。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37074,7 +37074,7 @@
     {
         "key": "USES_NOT_CULTS:0",
         "original": "$COUNTRY|Y$ does NOT use Cults.",
-        "translation": "$COUNTRY|Y$不能使用图腾仪式",
+        "translation": "$COUNTRY|Y$不使用崇拜物机制。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37082,7 +37082,7 @@
     {
         "key": "USES_PERSONAL_DEITIES:0",
         "original": "$COUNTRY|Y$ uses Personal Deities.",
-        "translation": "$COUNTRY|Y$能使用个人神祇",
+        "translation": "$COUNTRY|Y$使用个人神祇机制。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37090,7 +37090,7 @@
     {
         "key": "USES_NOT_PERSONAL_DEITIES:0",
         "original": "$COUNTRY|Y$ does NOT use Personal Deities.",
-        "translation": "$COUNTRY|Y$不能使用个人神祇",
+        "translation": "$COUNTRY|Y$不使用个人神祇机制。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37098,7 +37098,7 @@
     {
         "key": "USES_ORTHODOX_ICONS:0",
         "original": "$COUNTRY|Y$ uses Icons.",
-        "translation": "$COUNTRY|Y$能使用圣像",
+        "translation": "$COUNTRY|Y$使用圣像机制。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37106,7 +37106,7 @@
     {
         "key": "USES_NOT_ORTHODOX_ICONS:0",
         "original": "$COUNTRY|Y$ does NOT use Icons.",
-        "translation": "$COUNTRY|Y$不能使用圣像",
+        "translation": "$COUNTRY|Y$不使用圣像机制。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37130,7 +37130,7 @@
     {
         "key": "USES_NOT_AUTHORITY:0",
         "original": "§Y$COUNTRY$§! does NOT have Authority",
-        "translation": "§Y$COUNTRY$§!没有权威",
+        "translation": "§Y$COUNTRY$§!不使用权威机制",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37138,7 +37138,7 @@
     {
         "key": "USES_AUTHORITY:0",
         "original": "§Y$COUNTRY$§! has Authority",
-        "translation": "§Y$COUNTRY$§!拥有权威",
+        "translation": "§Y$COUNTRY$§!使用权威机制",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37154,7 +37154,7 @@
     {
         "key": "desc_menderes_estuary_modifier:0",
         "original": "Controlling the important river estuary of the Menderes strengthens our hold of the trade in the region.",
-        "translation": "控制门德雷斯河这条重要的河的河口将巩固我们对当地贸易的控制",
+        "translation": "控制门德雷斯河重要的河口将加强我们对这一地区贸易的控制。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37186,7 +37186,7 @@
     {
         "key": "COLLAPSE_NATION_EFFECT:0",
         "original": "§Y$COUNTRY$§! is reduced to a size of §Y$NUM$§! provinces.",
-        "translation": "§Y$COUNTRY$§!被削弱至§Y$NUM$§!个省份",
+        "translation": "§Y$COUNTRY$§!的规模缩减到§Y$NUM$§!个省份。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37250,7 +37250,7 @@
     {
         "key": "EXPLORES_IN_REGION:0",
         "original": "This explores in $REGION$ ($CONTINENT$)",
-        "translation": "在$REGION$($CONTINENT$)内探索",
+        "translation": "在$REGION$（$CONTINENT$）内探索",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -37298,7 +37298,7 @@
     {
         "key": "NO_RANDOM_SELECT_HOTJOIN:0",
         "original": "§RCan't randomly select a country during hotjoin.§!",
-        "translation": "§R在热加入期间无法随机选择国家§!",
+        "translation": "§R在热加入期间无法随机选择国家。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
