@@ -114,8 +114,8 @@
     {
         "key": "RV_PICK_DEITY_THIS:0",
         "original": "Follow $NAME|Y$",
-        "translation": "供奉 $NAME|Y$",
-        "stage": 5,
+        "translation": "供奉$NAME|Y$",
+        "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
     },
@@ -179,7 +179,7 @@
         "key": "jewish_rebels_demand:0",
         "original": "Convert $COUNTRYNAME$",
         "translation": "使$COUNTRYNAME$改宗",
-        "stage": 5,
+        "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
     },
@@ -202,8 +202,8 @@
     {
         "key": "jewish_rebels_name:0",
         "original": "$RELIGION$ Zealots",
-        "translation": "$RELIGION$狂热者",
-        "stage": 5,
+        "translation": "$RELIGION$狂信徒",
+        "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
     },
@@ -282,7 +282,7 @@
     {
         "key": "odin_desc:0",
         "original": "Odin is the major god of the Norse pantheon, commonly associated with war, victory and death.",
-        "translation": "奥丁是北欧神话中的主神，通常与战争，胜利和死亡相联系。",
+        "translation": "奥丁是北欧神话中的主神，通常与战争、胜利和死亡相联系。",
         "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
@@ -298,7 +298,7 @@
     {
         "key": "freya_desc:0",
         "original": "Freyja is the goddess commonly worshipped for her love, beauty, fertility and her promises of wealth.",
-        "translation": "芙蕾雅是一位女神，一般由于爱，美，生育和她的财富的承诺而被崇拜。",
+        "translation": "芙蕾雅是一位女神，一般由于爱、美、生育和她的财富的承诺而被崇拜。",
         "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
@@ -314,7 +314,7 @@
     {
         "key": "tor_desc:0",
         "original": "Tor is the son of Odin and is the god protecting humankind against the terrors trying to enter Midgard.",
-        "translation": "托尔是奥丁的儿子，是保护人类对抗试图进入尘世的恐怖的神.",
+        "translation": "托尔是奥丁之子，是保护人类对抗试图进入尘世的恐怖的神。",
         "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
@@ -346,7 +346,7 @@
     {
         "key": "snotra_desc:0",
         "original": "Snotra is the clever goddess. A wise man or woman can be called snotr in her honor.",
-        "translation": "斯诺特拉是智慧女神. 一个智慧的男人或女人可以以她之名为荣，被称作斯诺特",
+        "translation": "斯诺特拉是智慧女神。聪明的男人或女人可被称为斯诺特，以表示对她的尊敬。",
         "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
@@ -362,7 +362,7 @@
     {
         "key": "njord_desc:0",
         "original": "The father of Freya, god of the sea and wealth will bring food to the table for his worshippers.",
-        "translation": "芙蕾雅之父，大海与财富之神会给他的信徒们送上食物。",
+        "translation": "芙蕾雅之父，大海与财富之神，会赐予信徒食物。",
         "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
@@ -562,7 +562,7 @@
     {
         "key": "maya_rebels_demand:0",
         "original": "Convert $COUNTRYNAME$",
-        "translation": "转化 $COUNTRYNAME$",
+        "translation": "使$COUNTRYNAME$改宗",
         "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
@@ -610,7 +610,7 @@
     {
         "key": "nahuatl_rebels_demand:0",
         "original": "Convert $COUNTRYNAME$",
-        "translation": "转化 $COUNTRYNAME$",
+        "translation": "使$COUNTRYNAME$改宗",
         "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
@@ -634,7 +634,7 @@
     {
         "key": "tengri_pagan_reformed_rebels_demand:0",
         "original": "Convert $COUNTRYNAME$",
-        "translation": "转化 $COUNTRYNAME$",
+        "translation": "使$COUNTRYNAME$改宗",
         "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
@@ -698,7 +698,7 @@
     {
         "key": "zoroastrian_rebels_demand:0",
         "original": "Convert $COUNTRYNAME$",
-        "translation": "转化 $COUNTRYNAME$",
+        "translation": "使$COUNTRYNAME$改宗",
         "stage": 1,
         "context": null,
         "file": "localisation/religion_l_english.yml"
