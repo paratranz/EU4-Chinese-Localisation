@@ -3106,7 +3106,7 @@
     {
         "key": "SUPPRESSION_AREA_NOT_ADJACENT:0",
         "original": "§RYou can only add areas that are adjacent to already Suppressed areas.§!",
-        "translation": "§R您只能添加与已镇压地区相邻的地区。§!",
+        "translation": "§R只能添加与已镇压区域相邻的区域。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/dharma_l_english.yml"
@@ -4226,7 +4226,7 @@
     {
         "key": "INVESTMENT_NEED_TRADE_COMPANY_PROVINCE:0",
         "original": "§RYou need to have a Trade Company with a province in the $AREA|Y$ area to make a Trade Company Investment here.\\n§!",
-        "translation": "§R您需要在$AREA|Y$地区设立一个贸易公司，以便在这里进行贸易公司投资。\\n§!",
+        "translation": "§R必须在$AREA|Y$区域设立一个贸易公司才能在这里进行贸易公司投资。\\n§!",
         "stage": 1,
         "context": null,
         "file": "localisation/dharma_l_english.yml"
@@ -4234,7 +4234,7 @@
     {
         "key": "ALREADY_HAVE_INVESTMENT_IN_AREA:0",
         "original": "§RYou have already Invested in $NAME|Y$ in the $AREA|Y$ area.§!",
-        "translation": "§R您已经在$AREA|Y$地区的$NAME|Y$投资了。§!",
+        "translation": "§R已经在$AREA|Y$区域的$NAME|Y$投资过了。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/dharma_l_english.yml"
@@ -6058,7 +6058,7 @@
     {
         "key": "plum_rain_tooltip:0",
         "original": "Provinces in the §Y[plum_rains_province.GetAreaName]§! Area producing §YGrain§!, §YWine§!, §YTea§!, or §YSpices§! get §Y'Plum Rain'§! for §Y5 years§!, giving the folloowing effects:\\nLocal Production Efficiency: §G+20.0%§!",
-        "translation": "在§Y[plum_rains_province.GetAreaName]§!地区中所有生产§Y谷物§!、§Y酒类§!、§Y茶叶§!或§Y香料§!的省份§Y五年§!内获得§Y「梅雨」§!，产生以下效果：\\n本地生产效率：§G+20.0%§!",
+        "translation": "在§Y[plum_rains_province.GetAreaName]§!区域中所有生产§Y谷物§!、§Y酒类§!、§Y茶叶§!或§Y香料§!的省份§Y五年§!内获得§Y「梅雨」§!，产生以下效果：\\n本地生产效率：§G+20.0%§!",
         "stage": 1,
         "context": null,
         "file": "localisation/dharma_l_english.yml"

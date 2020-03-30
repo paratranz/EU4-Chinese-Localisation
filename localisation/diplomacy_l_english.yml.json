@@ -1466,7 +1466,7 @@
     {
         "key": "FABRICATECLAIMSTATEDESC_NOPROV:1",
         "original": "Country has no neighboring unclaimed areas with more than one province in that can be claimed.",
-        "translation": "国家没有拥有超过一个可宣称省份的未宣称的接壤地区。",
+        "translation": "国家没有拥有超过一个可宣称省份的未宣称的接壤区域。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -1482,7 +1482,7 @@
     {
         "key": "FABRICATECLAIMSTATEDESC:0",
         "original": "Fabricate a claim on a neighboring area.",
-        "translation": "在附近地区伪造宣称。",
+        "translation": "在邻近区域伪造宣称。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -7042,15 +7042,15 @@
     {
         "key": "CLAIMSTATETITLE:0",
         "original": "Fabricate Claim on Area",
-        "translation": "伪造地区宣称",
-        "stage": 5,
+        "translation": "伪造区域宣称",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "CLAIMSTATETITLEDESC:0",
         "original": "Fabricate a claim on all provinces in an area.",
-        "translation": "伪造某个地区所有省份的宣称。",
+        "translation": "伪造某个区域所有省份的宣称。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -7058,8 +7058,8 @@
     {
         "key": "CLAIM_STATE_SELECT_DESC:1",
         "original": "Fabricate Claim on Area will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give us claims on all $ADJ$ provinces in §Y$AREA$§W. The claims will last for $YEARS|Y$ years.",
-        "translation": "伪造地区宣称将减少我们$ADJ|Y$的间谍网规模$COST|R$并给予我们§Y$AREA$§W地区所有$ADJ$省份的宣称。这个宣称将持续$YEARS|Y$年。",
-        "stage": 5,
+        "translation": "伪造区域宣称将减少我们$ADJ|Y$的间谍网规模$COST|R$并给予我们§Y$AREA$§W地区所有$ADJ$省份的宣称。这个宣称将持续$YEARS|Y$年。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
