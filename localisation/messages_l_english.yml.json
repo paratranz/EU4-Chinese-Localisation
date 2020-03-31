@@ -18050,15 +18050,15 @@
     {
         "key": "ROYMARACCEPT_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ROYMARACCEPT_2:0",
         "original": "$MONARCHTITLE$, we entered a",
-        "translation": "$MONARCHTITLE$，我们建立了",
+        "translation": "$MONARCHTITLE$，我们",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18066,7 +18066,7 @@
     {
         "key": "ROYMARACCEPT_3:0",
         "original": "Royal Marriage",
-        "translation": "王室联姻",
+        "translation": "与$RECIPIENT$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18074,7 +18074,7 @@
     {
         "key": "ROYMARACCEPT_4:0",
         "original": "with $RECIPIENT$. Our relations have improved.",
-        "translation": "与$RECIPIENT$。我们的关系有所改善。",
+        "translation": "缔结了王室联姻。我们的关系有所改善。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18082,7 +18082,7 @@
     {
         "key": "ROYMARACCEPT_LOG:0",
         "original": "We have entered a Royal Marriage with $RECIPIENT$.",
-        "translation": "我国同意与$RECIPIENT$王室联姻。",
+        "translation": "我国同意与$RECIPIENT$缔结王室联姻。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18122,7 +18122,7 @@
     {
         "key": "ROYMARREJECT_SETUP:0",
         "original": "When a nation rejects your Royal Marriage proposal.",
-        "translation": "当别国拒绝本国联姻提议",
+        "translation": "当别国拒绝我国的王室联姻提议时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18138,8 +18138,8 @@
     {
         "key": "ROYMARREJECT_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -18218,7 +18218,7 @@
     {
         "key": "ROYMARACCEPTOTHER_SETUP:0",
         "original": "When a nation enters a Royal Marriage with another country.",
-        "translation": "当别国接受第三国的联姻提议",
+        "translation": "当某国接受了别国的王室联姻提议时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18234,15 +18234,15 @@
     {
         "key": "ROYMARACCEPTOTHER_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ROYMARACCEPTOTHER_2:0",
         "original": "$MONARCHTITLE$, $RECIPIENT$ entered a",
-        "translation": "$MONARCHTITLE$，$RECIPIENT$已经达成了",
+        "translation": "$MONARCHTITLE$，$RECIPIENT$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18250,7 +18250,7 @@
     {
         "key": "ROYMARACCEPTOTHER_3:0",
         "original": "Royal Marriage",
-        "translation": "王室联姻",
+        "translation": "与他们的新盟友",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18258,7 +18258,7 @@
     {
         "key": "ROYMARACCEPTOTHER_4:0",
         "original": "with their new ally",
-        "translation": "与他们的新盟友",
+        "translation": "$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18266,7 +18266,7 @@
     {
         "key": "ROYMARACCEPTOTHER_5:0",
         "original": "$ACTOR$",
-        "translation": "$ACTOR$",
+        "translation": "缔结了王室联姻",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18274,7 +18274,7 @@
     {
         "key": "ROYMARACCEPTOTHER_LOG:0",
         "original": "$RECIPIENT$ entered a Royal Marriage with $ACTOR$.",
-        "translation": "$RECIPIENT$同意与$ACTOR$王室联姻。",
+        "translation": "$RECIPIENT$同意与$ACTOR$缔结王室联姻。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18314,7 +18314,7 @@
     {
         "key": "ROYMARREJECTOTHER_SETUP:0",
         "original": "When a nation rejects a Royal Marriage proposal from another country.",
-        "translation": "当别国拒绝第三国联姻提议",
+        "translation": "当某国拒绝了别国的王室联姻提议时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18330,8 +18330,8 @@
     {
         "key": "ROYMARREJECTOTHER_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -18346,7 +18346,7 @@
     {
         "key": "ROYMARREJECTOTHER_3:0",
         "original": "Royal Marriage",
-        "translation": "王室联姻",
+        "translation": "与",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18354,7 +18354,7 @@
     {
         "key": "ROYMARREJECTOTHER_4:0",
         "original": "with",
-        "translation": "与",
+        "translation": "$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18362,7 +18362,7 @@
     {
         "key": "ROYMARREJECTOTHER_5:0",
         "original": "$ACTOR$",
-        "translation": "$ACTOR$",
+        "translation": "王室联姻",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18410,7 +18410,7 @@
     {
         "key": "ROYMARWEACCEPT_SETUP:0",
         "original": "When we accept a Royal Marriage.",
-        "translation": "当我国接受别国联姻提议",
+        "translation": "当我国接受别国的王室联姻提议时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18418,23 +18418,23 @@
     {
         "key": "ROYMARWEACCEPT_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ROYMARWEACCEPT_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ROYMARWEACCEPT_2:0",
         "original": "$MONARCHTITLE$, we entered a",
-        "translation": "$MONARCHTITLE$，我们建立了",
+        "translation": "$MONARCHTITLE$，我们与",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18442,7 +18442,7 @@
     {
         "key": "ROYMARWEACCEPT_3:0",
         "original": "Royal Marriage",
-        "translation": "王室联姻",
+        "translation": "$RECIPIENT$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18450,7 +18450,7 @@
     {
         "key": "ROYMARWEACCEPT_4:0",
         "original": "with $RECIPIENT$. Our relations have improved.",
-        "translation": "与$RECIPIENT$。我们的关系有所改善。",
+        "translation": "缔结了王室联姻。我们的关系有所改善。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18458,7 +18458,7 @@
     {
         "key": "ROYMARWEACCEPT_LOG:0",
         "original": "We have entered a Royal Marriage with $RECIPIENT$.",
-        "translation": "我国同意与$RECIPIENT$王室联姻。",
+        "translation": "我国与$RECIPIENT$缔结了王室联姻。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18498,7 +18498,7 @@
     {
         "key": "ROYMARWEREJECT_SETUP:0",
         "original": "When you reject a Royal Marriage proposal.",
-        "translation": "当我国拒绝别国联姻提议",
+        "translation": "当我国拒绝别国的王室联姻提议时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18506,16 +18506,16 @@
     {
         "key": "ROYMARWEREJECT_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "ROYMARWEREJECT_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -18594,7 +18594,7 @@
     {
         "key": "ROYMAROTHERBREAK_SETUP:0",
         "original": "When a nation breaks a Royal Marriage.",
-        "translation": "当别国终止与第三国联姻",
+        "translation": "当某国断绝与别国的王室联姻时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18610,8 +18610,8 @@
     {
         "key": "ROYMAROTHERBREAK_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -18698,7 +18698,7 @@
     {
         "key": "ROYMAROTHERBREAKUS_SETUP:0",
         "original": "When a nation breaks a Royal Marriage they had with us.",
-        "translation": "当别国终止与本国联姻",
+        "translation": "当别国断绝与我国的王室联姻时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -18714,8 +18714,8 @@
     {
         "key": "ROYMAROTHERBREAKUS_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -18794,7 +18794,7 @@
     {
         "key": "ROYMARWEBREAK_SETUP:0",
         "original": "When we break a Royal Marriage.",
-        "translation": "当我国终止与别国联姻",
+        "translation": "当我国断绝与别国的王室联姻时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
