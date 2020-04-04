@@ -61274,7 +61274,7 @@
     {
         "key": "CHURCH_OF:0",
         "original": "Church of $COUNTRY$",
-        "translation": "$COUNTRY$ 教会",
+        "translation": "$COUNTRY$教会",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -61298,7 +61298,7 @@
     {
         "key": "CHANGE_ASPECT_TOO_LOW_POWER:2",
         "original": "§RYou need at least $COST$ Church Power to be able to apply another $ASPECTS_SHORT$§! (currently have $CURRENT|Y$)\\n",
-        "translation": "§R你需要至少$COST$教会力量来选用另一个$ASPECTS_SHORT$§! (目前拥有$CURRENT|Y$)\\n",
+        "translation": "§R你需要至少$COST$教会力量来选用另一个$ASPECTS_SHORT$§!（目前有$CURRENT|Y$）\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -61378,7 +61378,7 @@
     {
         "key": "CHANGE_ASPECT_ADD:2",
         "original": "§GClick to apply $NAME|Y$.§!",
-        "translation": "§G点击应用$NAME|Y$。§!",
+        "translation": "§G点击采用$NAME|Y$。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -61514,7 +61514,7 @@
     {
         "key": "FERVOR_INCREASE_DESC:0",
         "original": "$WHO$ gets $VAL|+=$ points of fervor each month. You can never have more than $MAX|Y$ points.",
-        "translation": "$WHO$每月获得$VAL|+=$点宗教热情。 你最多只能保持$MAX|Y$点。",
+        "translation": "$WHO$每月获得$VAL|+=$点宗教热情。最多只能保持$MAX|Y$点。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -61522,7 +61522,7 @@
     {
         "key": "CURRENT_FERVOR:0",
         "original": "$WHO$ currently have $VAL|Y$ points of fervor. The maximum amount $MAX|Y$ points.",
-        "translation": "$WHO$ 当前有 $VAL|Y$ 点宗教热情。 最多数量为 $MAX|Y$ 点。",
+        "translation": "$WHO$当前有$VAL|Y$点宗教热情。上限为$MAX|Y$点。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
