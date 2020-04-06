@@ -1386,7 +1386,7 @@
     {
         "key": "NEWCOLONIALCOUNTRY_3:0",
         "original": "has formed from the overseas provinces of",
-        "translation": "从$COUNTRY$的海外省份成立",
+        "translation": "已成立于",
         "stage": 1,
         "context": null,
         "file": "localisation/nw_l_english.yml"
@@ -1394,7 +1394,7 @@
     {
         "key": "NEWCOLONIALCOUNTRY_4:0",
         "original": "$COUNTRY$ in $REGION$.",
-        "translation": "位于$REGION$",
+        "translation": "$COUNTRY$位于$REGION$的海外省份。",
         "stage": 1,
         "context": null,
         "file": "localisation/nw_l_english.yml"
@@ -1418,7 +1418,7 @@
     {
         "key": "NEWCOLONIALCOUNTRY_LOG:0",
         "original": "$NAME$ formed in $REGION$.",
-        "translation": "建立在$REGION$地区的$NAME$。",
+        "translation": "$NAME$成立于$REGION$。",
         "stage": 1,
         "context": null,
         "file": "localisation/nw_l_english.yml"
@@ -1682,7 +1682,7 @@
     {
         "key": "LIBERATE_COLONY_DESC:0",
         "original": "§Y$COUNTRY$§W will be released with the following provinces: $LIST$.\\n",
-        "translation": "§Y$COUNTRY$§W将释放以下省份：$LIST$。\\n",
+        "translation": "§Y$COUNTRY$§W将获得独立，拥有以下省份：$LIST$。\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/nw_l_english.yml"
@@ -1690,7 +1690,7 @@
     {
         "key": "RELEASEDCOLONY_SETUP:0",
         "original": "When a colonial is released from its former overlord.",
-        "translation": "当殖民领从之前的宗主国中解放。",
+        "translation": "当殖民领从之前的宗主国中解放时。",
         "stage": 1,
         "context": null,
         "file": "localisation/nw_l_english.yml"
@@ -1706,7 +1706,7 @@
     {
         "key": "RELEASEDCOLONY_1:0",
         "original": "Colonial Nation Liberated!",
-        "translation": "殖民领国家自由了！",
+        "translation": "殖民领国家独立了！",
         "stage": 1,
         "context": null,
         "file": "localisation/nw_l_english.yml"
@@ -1722,7 +1722,7 @@
     {
         "key": "RELEASEDCOLONY_3:0",
         "original": "has released the former colony of",
-        "translation": "解放前殖民地：",
+        "translation": "已解放于",
         "stage": 1,
         "context": null,
         "file": "localisation/nw_l_english.yml"
@@ -1730,7 +1730,7 @@
     {
         "key": "RELEASEDCOLONY_4:0",
         "original": "$COUNTRY$ in $REGION$.",
-        "translation": "位于$REGION$地区的$COUNTRY$。",
+        "translation": "$COUNTRY$位于$REGION$的前殖民领。",
         "stage": 1,
         "context": null,
         "file": "localisation/nw_l_english.yml"
@@ -1754,7 +1754,7 @@
     {
         "key": "RELEASEDCOLONY_LOG:0",
         "original": "$NAME$ in $REGION$ is released.",
-        "translation": "$NAME$被释放在$REGION$地区。",
+        "translation": "$NAME$独立于$REGION$。",
         "stage": 1,
         "context": null,
         "file": "localisation/nw_l_english.yml"
