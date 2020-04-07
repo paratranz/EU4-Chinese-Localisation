@@ -754,16 +754,16 @@
     {
         "key": "THEYATTACKUS_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "THEYATTACKUS_1:0",
         "original": "War is Coming",
-        "translation": "战争要来了",
-        "stage": 5,
+        "translation": "战争即将来临",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -850,7 +850,7 @@
     {
         "key": "THEYATTACKSPY_SETUP:0",
         "original": "When your spies suspect someone's plan to attack ahead of time.",
-        "translation": "当你的间谍怀疑某国要入侵我们时。",
+        "translation": "当你的间谍怀疑某国打算提前发起进攻时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -858,8 +858,8 @@
     {
         "key": "THEYATTACKSPY_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -962,15 +962,15 @@
     {
         "key": "THEYATTACKUSSPY_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "THEYATTACKUSSPY_1:0",
         "original": "War is Coming",
-        "translation": "战争要来了",
+        "translation": "战争即将来临",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -1058,8 +1058,8 @@
     {
         "key": "THEYDECLINESHAREMAP_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -1106,7 +1106,7 @@
     {
         "key": "THEYDECLINESHAREMAP_LOG:0",
         "original": "$RECIPIENT$ declined our request for maps of $REGION$",
-        "translation": "$RECIPIENT$拒绝了我们对$REGION$地图的请求",
+        "translation": "$RECIPIENT$拒绝了我们索要$REGION$地图的请求",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -1146,7 +1146,7 @@
     {
         "key": "WESHAREMAP_SETUP:0",
         "original": "When we shared our maps of a region.",
-        "translation": "当我们共享了某地的地图时。",
+        "translation": "当我们共享了某一地区的地图时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -1258,8 +1258,8 @@
     {
         "key": "SHAREMAP_SETUP:0",
         "original": "When we share maps of a region.",
-        "translation": "当我们共享了某地的地图时。",
-        "stage": 5,
+        "translation": "当我们共享了某一地区的地图时。",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -1386,7 +1386,7 @@
     {
         "key": "OTHERSHAREMAP_1:0",
         "original": "$RECIPIENT$",
-        "translation": "来自$RECIPIENT$的消息",
+        "translation": "$RECIPIENT$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -1690,7 +1690,7 @@
     {
         "key": "NEW_TRADELEAGUE_LEADER_SETUP:1",
         "original": "When a trade league gets a new leader.",
-        "translation": "当某贸易联盟换了新领袖时。",
+        "translation": "当某贸易联盟的新领袖上位时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
