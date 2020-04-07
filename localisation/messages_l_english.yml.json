@@ -4986,7 +4986,7 @@
     {
         "key": "MERCHANT_CANCEL_SETUP:0",
         "original": "When a merchant has returned home.",
-        "translation": "当一名商人回到家乡。",
+        "translation": "当商人团回到家乡时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5010,7 +5010,7 @@
     {
         "key": "MERCHANT_CANCEL_2:0",
         "original": "The merchant",
-        "translation": "商人",
+        "translation": "$COUNTRY$的商人",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5018,7 +5018,7 @@
     {
         "key": "MERCHANT_CANCEL_3:0",
         "original": "$NAME$ from $COUNTRY$",
-        "translation": "来自$COUNTRY$的$NAME$",
+        "translation": "$NAME$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5026,7 +5026,7 @@
     {
         "key": "MERCHANT_CANCEL_4:0",
         "original": "has returned home from",
-        "translation": "已经返回家乡",
+        "translation": "已从$LOCATION$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5034,7 +5034,7 @@
     {
         "key": "MERCHANT_CANCEL_5:0",
         "original": "$LOCATION$",
-        "translation": "他从$LOCATION$启程",
+        "translation": "回到家乡",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5082,7 +5082,7 @@
     {
         "key": "TRADEPOSTCREATED_TITLE:0",
         "original": "Trading Post Created",
-        "translation": "创建贸易站",
+        "translation": "建立贸易站",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5090,7 +5090,7 @@
     {
         "key": "TRADEPOSTCREATED_SETUP:0",
         "original": "When we create a Trading Post in a province.",
-        "translation": "当这个省份有一个贸易站时。",
+        "translation": "当我们在某个省份建立贸易站时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5106,7 +5106,7 @@
     {
         "key": "TRADEPOSTCREATED_1:0",
         "original": "A Trading Post has been created",
-        "translation": "一个贸易站已经被建造",
+        "translation": "一个贸易站已被建立于",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5114,7 +5114,7 @@
     {
         "key": "TRADEPOSTCREATED_2:0",
         "original": "in the province of",
-        "translation": "在省份",
+        "translation": "省份",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5138,7 +5138,7 @@
     {
         "key": "TRADEPOSTCREATED_LOG:0",
         "original": "A Trading Post was created in $PROVINCE$.",
-        "translation": "一个贸易站被建成在$PROVINCE$。",
+        "translation": "一个贸易站被建立在$PROVINCE$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5178,7 +5178,7 @@
     {
         "key": "TRADEPOSTCREATEDOTHER_TITLE:0",
         "original": "Trading Post Created",
-        "translation": "新的贸易站",
+        "translation": "建立贸易站",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5186,7 +5186,7 @@
     {
         "key": "TRADEPOSTCREATEDOTHER_SETUP:0",
         "original": "When another country creates a Trading Post in a province.",
-        "translation": "当某国在一个省份建造贸易站。",
+        "translation": "当某国在某个省份建立贸易站时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5210,7 +5210,7 @@
     {
         "key": "TRADEPOSTCREATEDOTHER_2:0",
         "original": "has created a Trading Post",
-        "translation": "已经建造了一个贸易站",
+        "translation": "已在省份",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5218,7 +5218,7 @@
     {
         "key": "TRADEPOSTCREATEDOTHER_3:0",
         "original": "in the province of",
-        "translation": "在省份",
+        "translation": "$PROVINCE$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5226,7 +5226,7 @@
     {
         "key": "TRADEPOSTCREATEDOTHER_4:0",
         "original": "$PROVINCE$",
-        "translation": "$PROVINCE$",
+        "translation": "建立了一个贸易站",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5234,7 +5234,7 @@
     {
         "key": "TRADEPOSTCREATEDOTHER_5:0",
         "original": "It will increase their share of trade in the region.",
-        "translation": "这将提升他们在该地区中的贸易分额。",
+        "translation": "这将提高他们在该地区的贸易份额。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5242,7 +5242,7 @@
     {
         "key": "TRADEPOSTCREATEDOTHER_LOG:0",
         "original": "A Trading Post was created by $COUNTRY$ in $PROVINCE$.",
-        "translation": "一个贸易站被$COUNTRY$建造在$PROVINCE$。",
+        "translation": "一个贸易站被$COUNTRY$建立在$PROVINCE$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5282,7 +5282,7 @@
     {
         "key": "NEWACTIVECARDINAL_TITLE:0",
         "original": "New Cardinal Elected",
-        "translation": "新枢机选出",
+        "translation": "新枢机当选",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5290,7 +5290,7 @@
     {
         "key": "NEWACTIVECARDINAL_SETUP:0",
         "original": "When a new active cardinal is chosen.",
-        "translation": "当新的在职枢机被选出的时候。",
+        "translation": "当新的在职枢机当选时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5410,7 +5410,7 @@
     {
         "key": "FUTURECARDINALDEAD_3:0",
         "original": "He was loyal to $COUNTRY$",
-        "translation": "他忠于$COUNTRY$",
+        "translation": "他为$COUNTRY$效忠。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5482,7 +5482,7 @@
     {
         "key": "FUTURECARDINALLOYALTYSTOP_2:0",
         "original": "Sadly, $NAME$, has changed his loyalty to $LOYALNAME$.",
-        "translation": "令人遗憾，$NAME$改向$LOYALNAME$效忠了。",
+        "translation": "遗憾的是，$NAME$转而向$LOYALNAME$效忠了。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5490,7 +5490,7 @@
     {
         "key": "FUTURECARDINALLOYALTYSTOP_3:0",
         "original": "They now have §Y$NUMACTIVE$§! active and §Y$NUMFUTURE$§! future cardinals loyal to them.",
-        "translation": "现在有§Y$NUMACTIVE$§!位在职的枢机和§Y$NUMFUTURE$§!位效忠于他们的未来枢机。",
+        "translation": "现在有§Y$NUMACTIVE$§!位在职的枢机和§Y$NUMFUTURE$§!位潜在的枢机效忠于他们。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5546,7 +5546,7 @@
     {
         "key": "FREEIDEA_SETUP:0",
         "original": "When you have unlocked an idea in your free idea group.",
-        "translation": "当你在你的免费理念组中解锁一个新的理念的时候",
+        "translation": "当你在你的免费理念组中解锁一个新的理念时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5578,16 +5578,16 @@
     {
         "key": "FREEIDEA_3:0",
         "original": "$LEVEL$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$LEVEL$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "FREEIDEA_4:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -5602,8 +5602,8 @@
     {
         "key": "FREEIDEA_6:0",
         "original": "$BONUSEFFECT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$BONUSEFFECT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -5634,7 +5634,7 @@
     {
         "key": "FREEIDEA_BTN3:0",
         "original": "Details",
-        "translation": "详细",
+        "translation": "详情",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5650,7 +5650,7 @@
     {
         "key": "IDEA_SETUP:0",
         "original": "When you have unlocked an idea.",
-        "translation": "当你解锁一个理念的时候",
+        "translation": "当你解锁一个理念时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5658,8 +5658,8 @@
     {
         "key": "IDEA_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -5674,7 +5674,7 @@
     {
         "key": "IDEA_2:0",
         "original": "$TITLE$, we unlocked an idea in group $TYPE$",
-        "translation": "$TITLE$，我们解锁了$TYPE$组的一个理念",
+        "translation": "$TITLE$，我们解锁了$TYPE$组的理念",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5682,16 +5682,16 @@
     {
         "key": "IDEA_3:0",
         "original": "$NAME$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$NAME$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "IDEA_4:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -5706,8 +5706,8 @@
     {
         "key": "IDEA_6:0",
         "original": "$BONUSEFFECT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$BONUSEFFECT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -5738,7 +5738,7 @@
     {
         "key": "IDEA_BTN3:0",
         "original": "Details",
-        "translation": "详细",
+        "translation": "详情",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5754,7 +5754,7 @@
     {
         "key": "IDEAGROUP_SETUP:0",
         "original": "When you have unlocked an idea group.",
-        "translation": "当你解锁一个理念组的时候。",
+        "translation": "当你解锁一个理念组时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5762,8 +5762,8 @@
     {
         "key": "IDEAGROUP_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -5810,7 +5810,7 @@
     {
         "key": "IDEAGROUP_BTN3:0",
         "original": "Details",
-        "translation": "详细",
+        "translation": "详情",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5826,7 +5826,7 @@
     {
         "key": "DIPLOMAT_RETURNED_SETUP:0",
         "original": "When a diplomat returns home.",
-        "translation": "当一名外交官回国的时候",
+        "translation": "当一名外交官回国时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5858,8 +5858,8 @@
     {
         "key": "DIPLOMAT_RETURNED_3:0",
         "original": "$NAME$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$NAME$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -5874,7 +5874,7 @@
     {
         "key": "DIPLOMAT_RETURNED_6:0",
         "original": "He is now ready for new assignments.",
-        "translation": "他现在正等着新的安排",
+        "translation": "他正等待新的安排。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -5930,8 +5930,8 @@
     {
         "key": "KNOWLEDGE_SHARING_SETUP:0",
         "original": "When a nation agrees to Knowledge Sharing",
-        "translation": "当一个国家同意思潮分享",
-        "stage": 5,
+        "translation": "当某个国家同意进行思潮分享时。",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -5946,8 +5946,8 @@
     {
         "key": "KNOWLEDGE_SHARING_1:0",
         "original": "$RECIPIENT_COUNTRY$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT_COUNTRY$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -5962,8 +5962,8 @@
     {
         "key": "KNOWLEDGE_SHARING_3:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -5986,8 +5986,8 @@
     {
         "key": "KNOWLEDGE_SHARING_6:0",
         "original": "$EFFECT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$EFFECT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
