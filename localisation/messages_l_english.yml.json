@@ -6274,7 +6274,7 @@
     {
         "key": "COALITIONUS_3:0",
         "original": "GUARANTEED",
-        "translation": "被",
+        "translation": "组织者",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6282,7 +6282,7 @@
     {
         "key": "COALITIONUS_4:0",
         "original": "by",
-        "translation": "$ACTOR$",
+        "translation": "是",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6290,7 +6290,7 @@
     {
         "key": "COALITIONUS_5:0",
         "original": "$ACTOR$",
-        "translation": "保证独立",
+        "translation": "$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6618,7 +6618,7 @@
     {
         "key": "STOPSUPPORTHEIR_SETUP:0",
         "original": "When a nation stops supporting an heir from their dynasty in another country.",
-        "translation": "当一个国家停止支持在另一个国家的同一王朝继承人",
+        "translation": "当某个国家不再在其它国家支持本王朝的继承人时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6634,8 +6634,8 @@
     {
         "key": "STOPSUPPORTHEIR_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6650,7 +6650,7 @@
     {
         "key": "STOPSUPPORTHEIR_3:0",
         "original": "stopped trying to support their chosen heir",
-        "translation": "已停止支持他们选择的继承人",
+        "translation": "已停止支持他们选择的继承人继承",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6658,7 +6658,7 @@
     {
         "key": "STOPSUPPORTHEIR_4:0",
         "original": "to succeed to the throne of",
-        "translation": "继承该国王位：",
+        "translation": "$RECIPIENT$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6666,15 +6666,15 @@
     {
         "key": "STOPSUPPORTHEIR_5:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "的王位",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "STOPSUPPORTHEIR_LOG:0",
         "original": "$WHO$ recalled diplomats supporting an heir from their dynasty in $RECIPIENT$.",
-        "translation": "$WHO$召回在$RECIPIENT$支持他们同一王朝继承人的外交官。",
+        "translation": "$WHO$召回了在$RECIPIENT$支持他们同一王朝继承人的外交官。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6706,7 +6706,7 @@
     {
         "key": "IMPROVERELATIONS_TITLE:0",
         "original": "Improving Relations",
-        "translation": "提升关系",
+        "translation": "改善关系",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6714,7 +6714,7 @@
     {
         "key": "IMPROVERELATIONS_SETUP:0",
         "original": "When a nation starts improving relations with another.",
-        "translation": "当一个国家开始改善与另一个国家的关系的时候",
+        "translation": "当某个国家开始改善与另一国家的关系时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6730,8 +6730,8 @@
     {
         "key": "IMPROVERELATIONS_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6762,7 +6762,7 @@
     {
         "key": "IMPROVERELATIONS_5:0",
         "original": "$RECIPIENT$",
-        "translation": "提高关系",
+        "translation": "改善关系",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6778,7 +6778,7 @@
     {
         "key": "IMPROVERELATIONS_LOG:0",
         "original": "$WHO$ sent diplomats to improve relations with $RECIPIENT$.",
-        "translation": "$WHO$的外交官正改善与$RECIPIENT$之关系",
+        "translation": "$WHO$的外交官正改善与$RECIPIENT$的关系。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6818,7 +6818,7 @@
     {
         "key": "STOPIMPROVERELATIONS_SETUP:0",
         "original": "When a nation stops improving relations with another.",
-        "translation": "当一个国家停止改善与另一个国家的关系的时候",
+        "translation": "当某个国家不再改善与另一国家的关系时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6826,16 +6826,16 @@
     {
         "key": "STOPIMPROVERELATIONS_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "STOPIMPROVERELATIONS_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6866,7 +6866,7 @@
     {
         "key": "STOPIMPROVERELATIONS_5:0",
         "original": "$RECIPIENT$",
-        "translation": "提升关系",
+        "translation": "改善关系",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6874,7 +6874,7 @@
     {
         "key": "STOPIMPROVERELATIONS_6:0",
         "original": "The effects of their work will linger for some time.",
-        "translation": "他们付出努力得到的效果将会持续一段时间",
+        "translation": "他们付出努力得到的成果将会持续一段时间。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6882,7 +6882,7 @@
     {
         "key": "STOPIMPROVERELATIONS_LOG:0",
         "original": "$WHO$ recalled diplomats improving relations with $RECIPIENT$.",
-        "translation": "$WHO$的外交官已停止改善与$RECIPIENT$之关系",
+        "translation": "$WHO$召回了与$RECIPIENT$改善关系的外交官。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6922,7 +6922,7 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINIONUS_SETUP:0",
         "original": "When we stop improving relations with another country due to reaching max relation value.",
-        "translation": "我们已经停止与另一个国家改善关系因为关系已经无法再提高.",
+        "translation": "当我们因关系达到最大值而不再改善与另一国家的关系时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6938,8 +6938,8 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINIONUS_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6962,7 +6962,7 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINIONUS_4:0",
         "original": "with $RECIPIENT$",
-        "translation": "提高关系",
+        "translation": "改善关系",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6978,7 +6978,7 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINIONUS_6:0",
         "original": "The diplomat will remain in $RECIPIENT$ to maintain relations until recalled.",
-        "translation": "外交官会停留在$RECIPIENT$保持关系直到被召回。",
+        "translation": "该外交官会留在$RECIPIENT$保持关系直到被召回。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6986,7 +6986,7 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINIONUS_LOG:0",
         "original": "$WHO$'s diplomats have stopped improving relations with $RECIPIENT$ due to max relation value.",
-        "translation": "$WHO$的外交官已经停止改善同$RECIPIENT$的关系因为关系已经到达最大值。",
+        "translation": "因关系达到最大值，$WHO$的外交官已经停止改善与$RECIPIENT$的关系。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7026,7 +7026,7 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINION_SETUP:0",
         "original": "When a nation stops improving relations with another due to reaching max relation value.",
-        "translation": "当一个国家与另一个国家的关系值达到最大而停止改善关系的时候。",
+        "translation": "当某国因关系达到最大值而不再改善与另一国家的关系时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7042,8 +7042,8 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINION_1:0",
         "original": "$WHO$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$WHO$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7066,7 +7066,7 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINION_4:0",
         "original": "with $RECIPIENT$",
-        "translation": "提升关系",
+        "translation": "改善关系",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7074,7 +7074,7 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINION_5:0",
         "original": "due to reaching maximum improve relation value of $MAX_OPINION|Y$.",
-        "translation": "由于达到了改善关系的最大值$MAX_OPINION|Y$",
+        "translation": "因为关系已经达到最大值$MAX_OPINION|Y$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7082,7 +7082,7 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINION_6:0",
         "original": "The effects of their work will linger for some time.",
-        "translation": "他们付出努力得到的效果将会持续一段时间",
+        "translation": "他们付出努力得到的成果将会持续一段时间。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7090,7 +7090,7 @@
     {
         "key": "STOPIMPROVERELATIONSMAXOPINION_LOG:0",
         "original": "$WHO$'s diplomats have stopped improving relations with $RECIPIENT$ due to max relation value.",
-        "translation": "$WHO$的外交官已因关系达顶而停止改善与$RECIPIENT$之关系",
+        "translation": "因关系达到最大值，$WHO$的外交官已经停止改善与$RECIPIENT$的关系。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7130,7 +7130,7 @@
     {
         "key": "COREGAINOTHER_SETUP:0",
         "original": "When someone gains one of our core provinces.",
-        "translation": "当有人获得了我们的一个核心省份的时候",
+        "translation": "当某国获得了我们一个核心省份的核心时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7138,15 +7138,15 @@
     {
         "key": "COREGAINOTHER_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "COREGAINOTHER_1:0",
         "original": "$WHO$ have gained a core Province.",
-        "translation": "$WHO$获得一个核心省份。",
+        "translation": "$WHO$获得一个省份的核心。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7162,7 +7162,7 @@
     {
         "key": "COREGAINOTHER_LOG:0",
         "original": "$WHO$ gained $PROV$ as a core province. This is also one of our cores!",
-        "translation": "$WHO$获得了核心省份$PROV$。这也是我们的核心省份！",
+        "translation": "$WHO$获得了省份$PROV$的核心。这也是我们的核心省份！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7226,8 +7226,8 @@
     {
         "key": "DIPLO_NO_MAINT_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7242,7 +7242,7 @@
     {
         "key": "DIPLO_NO_MAINT_3:0",
         "original": "The previously agreed",
-        "translation": "之前达成的共识",
+        "translation": "§Y$FIRST$§W和§Y$SECOND$§W",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7250,15 +7250,15 @@
     {
         "key": "DIPLO_NO_MAINT_4:0",
         "original": "§Y$AGREEMENT$§W",
-        "translation": "",
-        "stage": 0,
+        "translation": "之前达成的协议",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "DIPLO_NO_MAINT_5:0",
         "original": "between §Y$FIRST$§W and §Y$SECOND$§W",
-        "translation": "在§Y$FIRST$§W和§Y$SECOND$§W之间",
+        "translation": "§Y$AGREEMENT$§W",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7266,7 +7266,7 @@
     {
         "key": "DIPLO_NO_MAINT_6:0",
         "original": " has been broken due to §Y$ACTOR$§W's lack of Diplomatic Power.",
-        "translation": "由于§Y$ACTOR$§W缺乏外交点数而失效了。",
+        "translation": "因§Y$ACTOR$§W缺乏外交点数而失效了。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7314,7 +7314,7 @@
     {
         "key": "WEGIFT_SETUP:0",
         "original": "When we send a gift to another country.",
-        "translation": "当我国向别国赠送礼物。",
+        "translation": "当我国向另一国家赠送礼物时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7322,15 +7322,15 @@
     {
         "key": "WEGIFT_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WEGIFT_1:0",
         "original": "A Gift was Sent.",
-        "translation": "礼物被送出。",
+        "translation": "礼物已送出。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7346,8 +7346,8 @@
     {
         "key": "WEGIFT_3:0",
         "original": "$VALUE$¤",
-        "translation": "",
-        "stage": 0,
+        "translation": "$VALUE$¤",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7362,8 +7362,8 @@
     {
         "key": "WEGIFT_5:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7418,7 +7418,7 @@
     {
         "key": "GIFTTOUS_SETUP:0",
         "original": "When we receive a gift.",
-        "translation": "当别国向我国赠送礼物。",
+        "translation": "当我国收到礼物时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7434,15 +7434,15 @@
     {
         "key": "GIFTTOUS_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "GIFTTOUS_2:0",
         "original": "A Gift!",
-        "translation": "礼物！",
+        "translation": "一份礼物！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7450,7 +7450,7 @@
     {
         "key": "GIFTTOUS_3:0",
         "original": "$MONARCHTITLE$, we have received a truly generous donation of",
-        "translation": "$MONARCHTITLE$，我国收到了价值",
+        "translation": "$MONARCHTITLE$，我国收到了一份价值",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7458,15 +7458,15 @@
     {
         "key": "GIFTTOUS_4:0",
         "original": "$VALUE$¤",
-        "translation": "",
-        "stage": 0,
+        "translation": "$VALUE$¤",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "GIFTTOUS_5:0",
         "original": "from our friends in $ACTOR$",
-        "translation": "的慷慨礼物，来自我国的朋友$ACTOR$",
+        "translation": "的慷慨礼物，来自我国的友邦$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7474,8 +7474,8 @@
     {
         "key": "GIFTTOUS_6:1",
         "original": "$THEIR_REASON$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$THEIR_REASON$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7522,7 +7522,7 @@
     {
         "key": "GIFTTOOTHER_SETUP:0",
         "original": "When a nation gives a gift to another.",
-        "translation": "当别国向第三国赠送礼物",
+        "translation": "当某国向另一国家赠送礼物时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7538,8 +7538,8 @@
     {
         "key": "GIFTTOOTHER_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7554,8 +7554,8 @@
     {
         "key": "GIFTTOOTHER_3:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7578,8 +7578,8 @@
     {
         "key": "GIFTTOOTHER_6:1",
         "original": "$THEIR_REASON$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$THEIR_REASON$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7626,7 +7626,7 @@
     {
         "key": "LEAVECOALITION_SETUP:0",
         "original": "When you leave a Military Coalition.",
-        "translation": "当你离开一个包围网的时候。",
+        "translation": "当你退出一个包围网时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7634,15 +7634,15 @@
     {
         "key": "LEAVECOALITION_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "LEAVECOALITION_1:0",
         "original": "We left our Military Coalition",
-        "translation": "离开包围网",
+        "translation": "我们退出了我们的包围网",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7650,7 +7650,7 @@
     {
         "key": "LEAVECOALITION_2:0",
         "original": "$MONARCHTITLE$, we left the Military Coalition",
-        "translation": "$MONARCHTITLE$，我们离开了",
+        "translation": "$MONARCHTITLE$，我们退出了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7674,7 +7674,7 @@
     {
         "key": "LEAVECOALITION_LOG:0",
         "original": "We have left the Military Coalition against $RECIPIENT$.",
-        "translation": "我们已经离开了针对$RECIPIENT$的包围网。",
+        "translation": "我们已经退出了针对$RECIPIENT$的包围网。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7714,7 +7714,7 @@
     {
         "key": "FORMCOALITIONACCEPT_SETUP:0",
         "original": "When you join a Military Coalition against a nation.",
-        "translation": "当你加入一个针对一个国家的包围网时。",
+        "translation": "当你加入一个针对某个国家的包围网时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7722,8 +7722,8 @@
     {
         "key": "FORMCOALITIONACCEPT_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7818,8 +7818,8 @@
     {
         "key": "FORMCOALITIONWEACCEPT_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7834,7 +7834,7 @@
     {
         "key": "FORMCOALITIONWEACCEPT_3:0",
         "original": " against us!",
-        "translation": "针对我们的包围网。",
+        "translation": "针对我们的包围网！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7890,7 +7890,7 @@
     {
         "key": "FORMCOALITIONINVACCEPTOTHER_SETUP:0",
         "original": "When a foreign nation enters a Military Coalition.",
-        "translation": "当一个外国加入包围网的时候。",
+        "translation": "当某国加入一个包围网时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7906,8 +7906,8 @@
     {
         "key": "FORMCOALITIONINVACCEPTOTHER_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -7970,7 +7970,7 @@
     {
         "key": "LEAVECOALITIONOTHER_SETUP:0",
         "original": "When a foreign nation leaves their Military Coalition.",
-        "translation": "当外国一个国家离开他们的包围网的时候。",
+        "translation": "当某国退出他们的包围网时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -7986,15 +7986,15 @@
     {
         "key": "LEAVECOALITIONOTHER_1:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "LEAVECOALITIONOTHER_2:0",
         "original": "$MONARCHTITLE$, $ACTOR$ have left the Military Coalition",
-        "translation": "$MONARCHTITLE$，$ACTOR$已经离开了",
+        "translation": "$MONARCHTITLE$，$ACTOR$已经退出了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8010,7 +8010,7 @@
     {
         "key": "LEAVECOALITIONOTHER_LOG:0",
         "original": "$ACTOR$ left the Military Coalition against $RECIPIENT$",
-        "translation": "$ACTOR$离开了针对$RECIPIENT$的包围网。",
+        "translation": "$ACTOR$退出了针对$RECIPIENT$的包围网。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8042,7 +8042,7 @@
     {
         "key": "LEAVECOALITIONWEACCEPT_TITLE:0",
         "original": "Left Coalition",
-        "translation": "退出联军",
+        "translation": "退出包围网",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8050,7 +8050,7 @@
     {
         "key": "LEAVECOALITIONWEACCEPT_SETUP:0",
         "original": "When another country leaves the Military Coalition against us.",
-        "translation": "当某国离开针对我们的包围网时。",
+        "translation": "当退出离开针对我们的包围网时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8066,15 +8066,15 @@
     {
         "key": "LEAVECOALITIONWEACCEPT_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "LEAVECOALITIONWEACCEPT_2:0",
         "original": "$MONARCHTITLE$, $ACTOR$ has left the Military Coalition",
-        "translation": "$MONARCHTITLE$，$ACTOR$已经离开了",
+        "translation": "$MONARCHTITLE$，$ACTOR$已经退出了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8098,7 +8098,7 @@
     {
         "key": "LEAVECOALITIONWEACCEPT_LOG:0",
         "original": "$ACTOR$ left the Military Coalition against us.",
-        "translation": "$ACTOR$离开了针对我们的包围网。",
+        "translation": "$ACTOR$退出了针对我们的包围网。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8130,7 +8130,7 @@
     {
         "key": "LEAVEFEDERATION_TITLE:0",
         "original": "Leaves Federation",
-        "translation": "离开包围网",
+        "translation": "退出包围网",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8138,7 +8138,7 @@
     {
         "key": "LEAVEFEDERATION_SETUP:0",
         "original": "When you leave a Federation.",
-        "translation": "当你离开一个包围网。",
+        "translation": "当你退出一个部落联盟时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8146,15 +8146,15 @@
     {
         "key": "LEAVEFEDERATION_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "LEAVEFEDERATION_1:0",
         "original": "We left the Federation",
-        "translation": "我们已经离开了包围网",
+        "translation": "我们退出了部落联盟",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8162,7 +8162,7 @@
     {
         "key": "LEAVEFEDERATION_2:0",
         "original": "$MONARCHTITLE$, we left the Federation",
-        "translation": "我们已经离开了",
+        "translation": "$MONARCHTITLE$，我们已经退出了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8170,7 +8170,7 @@
     {
         "key": "LEAVEFEDERATION_3:0",
         "original": "led by $LEADER$.",
-        "translation": "由$LEADER$领导的包围网，",
+        "translation": "由$LEADER$领导的部落联盟，",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8186,7 +8186,7 @@
     {
         "key": "LEAVEFEDERATION_LOG:0",
         "original": "We have left the Federation led by $LEADER$.",
-        "translation": "我们已经离开了由$LEADER$领导的包围网。",
+        "translation": "我们已经退出了由$LEADER$领导的部落联盟。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8218,7 +8218,7 @@
     {
         "key": "WEJOINEDFEDERATION_TITLE:0",
         "original": "Joins Federation",
-        "translation": "加入包围网",
+        "translation": "加入部落联盟",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8226,7 +8226,7 @@
     {
         "key": "WEJOINEDFEDERATION_SETUP:0",
         "original": "When you join a Federation.",
-        "translation": "当你加入一个包围网",
+        "translation": "当你加入一个部落联盟时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -8234,15 +8234,15 @@
     {
         "key": "WEJOINEDFEDERATION_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WEJOINEDFEDERATION_1:0",
         "original": "We joined a Federation",
-        "translation": "我们加入了一个包围网",
+        "translation": "我们加入了一个部落联盟",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
