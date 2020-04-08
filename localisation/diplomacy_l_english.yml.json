@@ -2146,16 +2146,16 @@
     {
         "key": "COALITION_WHY_ALREADY:0",
         "original": "We are already in a coalition against §Y$WHO$§!.",
-        "translation": "我们已加入§Y$WHO$§!包围网.",
-        "stage": 5,
+        "translation": "我们早已加入了§Y$WHO$§!包围网。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "COALITION_WHY_NOT_LEADER:0",
         "original": "We are not the leader in the coalition against §Y$WHO$§!, and only §Y$LEADER$§! can invite new members.",
-        "translation": "我们并非§Y$WHO$§!包围网的领导者，只有§Y$LEADER$§!才能邀请新的国家加入",
-        "stage": 5,
+        "translation": "我们并非§Y$WHO$§!包围网的领导者，只有§Y$LEADER$§!才能邀请新的国家加入。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2170,16 +2170,16 @@
     {
         "key": "FORMCOALITION_NORIVALS:0",
         "original": "We don't have any rival to start a coalition against.",
-        "translation": "没有任何国家值得我们建立包围网.",
-        "stage": 5,
+        "translation": "没有任何国家值得我们建立包围网。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "FORMCOALITION_INPROGRESS:0",
         "original": "We are already in a coalition!",
-        "translation": "我们已经加入包围网了.",
-        "stage": 5,
+        "translation": "我们早已加入了一个包围网！",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2202,16 +2202,16 @@
     {
         "key": "FORMCOALITION_TARGETINOTHER:0",
         "original": "You are already a member of a different coalition.",
-        "translation": "你是另一个包围网的成员国",
-        "stage": 5,
+        "translation": "你已经是另一个包围网的成员国了。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "FORMCOALITION_WETARGET:0",
         "original": "They are in a coalition against us!",
-        "translation": "一个针对我国的包围网已经建立了起来！",
-        "stage": 5,
+        "translation": "一个针对我国的包围网已经被建立起来了！",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2250,24 +2250,24 @@
     {
         "key": "FORMCOALITION_ANOTHER_COALITION:0",
         "original": "They are already in another coalition.",
-        "translation": "他们是另一个包围网的成员国.",
-        "stage": 5,
+        "translation": "他们已经是另一个包围网的成员国了。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "FORMCOALITION_NOTSUBJECTS:0",
         "original": "Only Independent Countries can join coalitions.",
-        "translation": "只有独立国家才能加入包围网.",
-        "stage": 5,
+        "translation": "只有独立国家才能加入包围网。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "ICON_FORM_COALITION:0",
         "original": "Form Coalition offer",
-        "translation": "提议组建包围网",
-        "stage": 5,
+        "translation": "提议建立包围网",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2298,24 +2298,24 @@
     {
         "key": "FORMCOALITIONREQ:0",
         "original": "Form a coalition against $TARGET$.",
-        "translation": "组建$TARGET$包围网。",
-        "stage": 5,
+        "translation": "建立$TARGET$包围网。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "COALITIONTARGET:0",
         "original": "Target of the Coalition of $LIST$.",
-        "translation": "$LIST$对其构建包围网。",
-        "stage": 5,
+        "translation": "是$LIST$的包围网目标。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "COALITIONAGAINST:0",
         "original": "In the Coalition against $LIST$.",
-        "translation": "在对抗$LIST$的包围网中。",
-        "stage": 5,
+        "translation": "在针对$LIST$的包围网中。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2378,7 +2378,7 @@
     {
         "key": "CANCEL_IMPROVERELATIONDESC_NEW:0",
         "original": "Do you wish to recall our diplomat who is improving our relations with §Y$COUNTRY$§W?\\nWhen he stops working, over time, his effect will fade.",
-        "translation": "你希望将我国派驻§Y$COUNTRY$§W执行亲善工作的外交官召回吗？\\n在他的工作中止后，两国关系将渐渐复原.",
+        "translation": "你确定要召回我国派往§Y$COUNTRY$§W改善关系的外交官吗？\\n他的工作中止后，两国的关系将逐渐复原。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -2394,7 +2394,7 @@
     {
         "key": "WE_INCREASE_RELATIONS:0",
         "original": "Increasing relations with $LIST$.",
-        "translation": "正与$LIST$加强关系",
+        "translation": "正与$LIST$改善关系。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -6490,7 +6490,7 @@
     {
         "key": "LEAVE_COALITION:0",
         "original": "Leave Coalition",
-        "translation": "离开包围网",
+        "translation": "退出包围网",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -6498,15 +6498,15 @@
     {
         "key": "LEAVE_COALITION_REQ_DESC:0",
         "original": "Do you wish to leave the coalition against §Y$TARGET$§W? You will no longer be called in if they go to war with another coalition member.",
-        "translation": "你想要离开针对§Y$TARGET$§W的同盟吗？如果其他同盟国家与这个国家发生战争，你就没有参加战争的义务了.",
-        "stage": 5,
+        "translation": "你确定要退出针对§Y$TARGET$§W的包围网吗？如果其它包围网成员与这个国家发动战争，你不再有参战的义务。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "LEAVE_COALITION_DESC:0",
         "original": "Leave the coalition.",
-        "translation": "离开包围网。",
+        "translation": "退出包围网。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -6514,7 +6514,7 @@
     {
         "key": "LEAVE_COALITIONTITLE:0",
         "original": "Leave Coalition",
-        "translation": "离开包围网",
+        "translation": "退出包围网",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
