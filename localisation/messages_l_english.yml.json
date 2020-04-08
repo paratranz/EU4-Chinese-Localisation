@@ -6034,7 +6034,7 @@
     {
         "key": "FLEETBASING_SETUP:0",
         "original": "When a nation grants fleet basing rights.",
-        "translation": "当一个国家授予舰船停泊权的时候。",
+        "translation": "当一个国家授予舰船停泊权时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6050,8 +6050,8 @@
     {
         "key": "FLEETBASING_1:0",
         "original": "$RECIPIENT_COUNTRY$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT_COUNTRY$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6066,8 +6066,8 @@
     {
         "key": "FLEETBASING_3:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6090,15 +6090,15 @@
     {
         "key": "FLEETBASING_6:0",
         "original": "$EFFECT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$EFFECT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "FLEETBASING_LOG:0",
         "original": "$RECIPIENT$ is now granting $WHO$ fleet basing rights.",
-        "translation": "$RECIPIENT$正在赋予$WHO$舰队驻港权",
+        "translation": "$RECIPIENT$授予了$WHO$舰船停泊权。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6138,7 +6138,7 @@
     {
         "key": "OFFER_FLEETBASING_SETUP:0",
         "original": "When a nation accepts an offer of fleet basing rights.",
-        "translation": "当一个国家接受舰船停泊权的提议。",
+        "translation": "当一个国家接受舰船停泊权的提议时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6154,8 +6154,8 @@
     {
         "key": "OFFER_FLEETBASING_1:0",
         "original": "$RECIPIENT_COUNTRY$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT_COUNTRY$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6170,8 +6170,8 @@
     {
         "key": "OFFER_FLEETBASING_3:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6194,15 +6194,15 @@
     {
         "key": "OFFER_FLEETBASING_6:0",
         "original": "$EFFECT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$EFFECT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "OFFER_FLEETBASING_LOG:0",
         "original": "$ACTOR$ is now granting $WHO$ fleet basing rights.",
-        "translation": "$ACTOR$正在提供$WHO$舰船停泊权。",
+        "translation": "$ACTOR$授予了$WHO$舰船停泊权。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13218,16 +13218,16 @@
     {
         "key": "CREATELEADER_2:0",
         "original": "$TEXT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$TEXT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "CREATELEADER_4:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -13258,7 +13258,7 @@
     {
         "key": "DISMISSLEADER_TITLE:0",
         "original": "Dismissed Leader",
-        "translation": "开除将领",
+        "translation": "罢免将领",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13266,7 +13266,7 @@
     {
         "key": "DISMISSLEADER_SETUP:0",
         "original": "When we dismiss a leader.",
-        "translation": "当我国罢免一位将领",
+        "translation": "当我国罢免一位将领时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13290,7 +13290,7 @@
     {
         "key": "DISMISSLEADER_2:1",
         "original": "Having served the nation faithfully since $YEAR$, $GENDER$ will be remembered as a $JUDGEMENT$ leader.",
-        "translation": "自$YEAR$年开始报效祖国的$GENDER$将作为一个$JUDGEMENT$的将领名留青史。",
+        "translation": "自$YEAR$年开始为国效力的$GENDER$将作为一位$JUDGEMENT$的将领名留青史。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13298,8 +13298,8 @@
     {
         "key": "DISMISSLEADER_4:0",
         "original": "$DESC$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$DESC$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -13330,7 +13330,7 @@
     {
         "key": "CANCEL_FLEETBASING_TITLE:0",
         "original": "Canceled Fleet basing Rights",
-        "translation": "取消驻港权",
+        "translation": "收回舰船停泊权",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13338,7 +13338,7 @@
     {
         "key": "CANCEL_FLEETBASING_SETUP:0",
         "original": "When a nation revokes fleet basing rights.",
-        "translation": "当一国撒销驻港权",
+        "translation": "当一个国家收回舰船停泊权时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13354,8 +13354,8 @@
     {
         "key": "CANCEL_FLEETBASING_1:0",
         "original": "$RECIPIENT_COUNTRY$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT_COUNTRY$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -13370,8 +13370,8 @@
     {
         "key": "CANCEL_FLEETBASING_3:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -13386,7 +13386,7 @@
     {
         "key": "CANCEL_FLEETBASING_5:0",
         "original": "to cancel $WHO$ Fleet Basing Rights.",
-        "translation": "撤销 $WHO$ 之驻港权。",
+        "translation": "收回$WHO$的舰船停泊权。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13394,7 +13394,7 @@
     {
         "key": "CANCEL_FLEETBASING_6:0",
         "original": "Fleets will now be locked out of $RECIPIENT$ ports.",
-        "translation": "其之舰队将再无法驶入 $RECIPIENT$ 的港口",
+        "translation": "其之舰队将无法再停靠在$RECIPIENT$的港口。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13402,7 +13402,7 @@
     {
         "key": "CANCEL_FLEETBASING_LOG:0",
         "original": "$ACTOR$ has revoked $WHO$ Fleet Basing Rights.",
-        "translation": "$ACTOR$ 已撤回 $WHO$ 之驻港权。",
+        "translation": "$ACTOR$已收回$WHO$的舰船停泊权。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13442,7 +13442,7 @@
     {
         "key": "NEWMONOTHER_SETUP:0",
         "original": "When another country gets a new Monarch.",
-        "translation": "当别国产生新的统治者",
+        "translation": "当某国的新任统治者上台时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
