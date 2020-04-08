@@ -6234,7 +6234,7 @@
     {
         "key": "COALITIONUS_SETUP:0",
         "original": "When another country sends us a coalition invitation.",
-        "translation": "当一个国家发送给我们一份联盟邀请。",
+        "translation": "当其它国家邀请我们加入一个包围网时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6250,23 +6250,23 @@
     {
         "key": "COALITIONS_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "COALITIONUS_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "COALITIONUS_2:0",
         "original": "$MONARCHTITLE$, we were amused to discover that we were invited to a coalition against $TARGET$",
-        "translation": "$MONARCHTITLE$，我们意外地发现竟然收到了加入对抗$TARGET$的联盟邀请",
+        "translation": "$MONARCHTITLE$，我们惊奇地发现我们被邀请加入对抗$TARGET$的包围网",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6274,7 +6274,7 @@
     {
         "key": "COALITIONUS_3:0",
         "original": "GUARANTEED",
-        "translation": "我们的独立",
+        "translation": "被",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6282,7 +6282,7 @@
     {
         "key": "COALITIONUS_4:0",
         "original": "by",
-        "translation": "已被",
+        "translation": "$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6290,8 +6290,8 @@
     {
         "key": "COALITIONUS_5:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "保证独立",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6306,7 +6306,7 @@
     {
         "key": "COALITIONUS_LOG:0",
         "original": "We have joined $ACTOR$ in a coalition against $TARGET$.",
-        "translation": "我们加入了$ACTOR$对抗$TARGET$的联盟",
+        "translation": "我们加入了$ACTOR$对抗$TARGET$的包围网。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6338,7 +6338,7 @@
     {
         "key": "COALITIONOTHER_SETUP:0",
         "original": "When a nation sends a coalition offer to another country.",
-        "translation": "当一个国家向另一个国家送出联盟邀请的时候",
+        "translation": "当某个国家邀请其它国家加入一个包围网时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6354,8 +6354,8 @@
     {
         "key": "COALITIONOTHER_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6370,15 +6370,15 @@
     {
         "key": "COALITIONOTHER_3:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "COALITIONOTHER_4:0",
         "original": "now have joined a coalition against $TARGET$ with",
-        "translation": "现在已经加入了对抗$TARGET$的联盟，盟友为",
+        "translation": "现已加入$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6386,15 +6386,15 @@
     {
         "key": "COALITIONOTHER_5:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "对抗$TARGET$的包围网",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "COALITIONOTHER_LOG:0",
         "original": "$RECIPIENT$ has now joined $ACTOR$ in a coalition against $TARGET$.",
-        "translation": "$RECIPIENT$加入了$ACTOR$对抗$TARGET$的联盟",
+        "translation": "$RECIPIENT$加入了$ACTOR$对抗$TARGET$的包围网。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6426,7 +6426,7 @@
     {
         "key": "COALITIONWE_SETUP:0",
         "original": "When we send a coalition offer to another country.",
-        "translation": "当我们向另一个国家发送包围网邀请的时候。",
+        "translation": "当我们邀请其它国家加入一个包围网时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6434,8 +6434,8 @@
     {
         "key": "COALITIONWE_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -6458,15 +6458,15 @@
     {
         "key": "COALITIONWE_3:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "COALITIONWE_4:0",
         "original": "should feel lucky that we have felt them worthy enough to have been invited",
-        "translation": "值得庆幸的是我们认为他们有足够的价值被邀请",
+        "translation": "应该感到幸运，因为我们觉得他们值得被邀请",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6474,7 +6474,7 @@
     {
         "key": "COALITIONWE_5:0",
         "original": "to this coalition against $TARGET$.",
-        "translation": "到这个对抗$TARGET$的联盟",
+        "translation": "到这个对抗$TARGET$的包围网。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6482,7 +6482,7 @@
     {
         "key": "COALITIONWE_LOG:0",
         "original": "$RECIPIENT$'s has joined our coalition.",
-        "translation": "$RECIPIENT$已经加入了我们的联盟",
+        "translation": "$RECIPIENT$已加入我们的包围网。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6522,7 +6522,7 @@
     {
         "key": "SUPPORTHEIR_SETUP:0",
         "original": "When a nation starts to support an heir from their dynasty in another country.",
-        "translation": "当一个国家支持其他国家的同一王朝继承人时.",
+        "translation": "当某个国家开始在其它国家支持本王朝的继承人时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6538,8 +6538,8 @@
     {
         "key": "SUPPORTHEIR_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -13194,7 +13194,7 @@
     {
         "key": "CREATELEADER_SETUP:0",
         "original": "When we recruit a Leader.",
-        "translation": "当我国征募一位将领。",
+        "translation": "当我国征募一位将领时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13458,7 +13458,7 @@
     {
         "key": "NEWMONOTHER_1:0",
         "original": "Herald from $COUNTRY$",
-        "translation": "来自$COUNTRY$的使者",
+        "translation": "$COUNTRY$的使者",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13466,7 +13466,7 @@
     {
         "key": "NEWMONOTHER_2:0",
         "original": "reports the glorious news that",
-        "translation": "荣幸地向我们报告",
+        "translation": "向我们通报了一个喜讯",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13482,7 +13482,7 @@
     {
         "key": "NEWMONOTHER_4:0",
         "original": "$RISE$ in $COUNTRY$",
-        "translation": "在$COUNTRY$$RISE$",
+        "translation": "在$COUNTRY$$RISE$了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13506,7 +13506,7 @@
     {
         "key": "NEWMONOTHER_LOG:0",
         "original": "$TITLE$ $FULLMONARCHNAME$ $RISE$ in $COUNTRY$.",
-        "translation": "$COUNTRY$的$TITLE$$FULLMONARCHNAME$$RISE$。",
+        "translation": "$COUNTRY$的$TITLE$$FULLMONARCHNAME$$RISE$了。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13538,8 +13538,8 @@
     {
         "key": "NEWMONOTHER_MAP:0",
         "original": "$MONARCHNAME$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MONARCHNAME$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -13554,7 +13554,7 @@
     {
         "key": "ADVISOR_DEATH_OTHER_SETUP:0",
         "original": "When another country's advisor dies.",
-        "translation": "当其他国家的顾问去世时",
+        "translation": "当某国的顾问去世时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13562,7 +13562,7 @@
     {
         "key": "ADVISOR_DEATH_OTHER_HEADER:0",
         "original": "An Advisor has died!",
-        "translation": "一位顾问去世",
+        "translation": "一位顾问去世！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13578,7 +13578,7 @@
     {
         "key": "ADVISOR_DEATH_OTHER_2:0",
         "original": "a great advisor in the employ of",
-        "translation": "一位伟大的顾问，曾为",
+        "translation": "一位曾效力于",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13594,7 +13594,7 @@
     {
         "key": "ADVISOR_DEATH_OTHER_4:0",
         "original": "has died.",
-        "translation": "服务，现已去世。",
+        "translation": "的伟大的顾问，现已去世。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -21962,7 +21962,7 @@
     {
         "key": "GUARATOUS_SETUP:0",
         "original": "When another country sends us a guarantee.",
-        "translation": "当别国保证我国独立",
+        "translation": "当其它国家保证我国独立时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -21978,8 +21978,8 @@
     {
         "key": "GUARATOUS_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -22018,7 +22018,7 @@
     {
         "key": "GUARATOUS_6:0",
         "original": "Well I guess that being connected with such a mighty nation as ours makes them feel important.",
-        "translation": "我猜他们一定觉得与我们这么强大的国家建立关系是很重要的事",
+        "translation": "我猜他们一定觉得与我们这么强大的国家建立关系是很重要的事。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22026,7 +22026,7 @@
     {
         "key": "GUARATOUS_LOG:0",
         "original": "$ACTOR$ will now guarantee our independence.",
-        "translation": "$ACTOR$保证我国独立",
+        "translation": "$ACTOR$保证了我们的独立。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22066,7 +22066,7 @@
     {
         "key": "GUARATOOTHER_SETUP:0",
         "original": "When a nation sends a guarantee to another country.",
-        "translation": "当别国保证第三国独立",
+        "translation": "当某国保证其它国家独立时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22082,8 +22082,8 @@
     {
         "key": "GUARATOOTHER_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -22098,15 +22098,15 @@
     {
         "key": "GUARATOOTHER_3:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$被",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "GUARATOOTHER_4:0",
         "original": "now have their independence guaranteed by",
-        "translation": "已经被该国保证独立：",
+        "translation": "$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22114,15 +22114,15 @@
     {
         "key": "GUARATOOTHER_5:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "保证独立",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "GUARATOOTHER_LOG:0",
         "original": "$ACTOR$ will now guarantee $RECIPIENT$'s independence.",
-        "translation": "$ACTOR$保证$RECIPIENT$的独立",
+        "translation": "$ACTOR$保证了$RECIPIENT$的独立。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22162,7 +22162,7 @@
     {
         "key": "WEGUARAT_SETUP:0",
         "original": "When we send a guarantee to another country.",
-        "translation": "当我国向别国保证独立",
+        "translation": "当我国保证其它国家独立时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22170,8 +22170,8 @@
     {
         "key": "WEGUARAT_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -22194,15 +22194,15 @@
     {
         "key": "WEGUARAT_3:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WEGUARAT_4:0",
         "original": "should feel lucky that we have felt them worthy enough to have their",
-        "translation": "应该感到幸运，因为我们觉得该国的独立",
+        "translation": "应该感到幸运，因为我们觉得他们值得",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22210,7 +22210,7 @@
     {
         "key": "WEGUARAT_5:0",
         "original": "independence guaranteed by us",
-        "translation": "值得我们去维护",
+        "translation": "我们去保证独立",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22218,7 +22218,7 @@
     {
         "key": "WEGUARAT_LOG:0",
         "original": "We will now guarantee $RECIPIENT$'s independence.",
-        "translation": "我国保证$RECIPIENT$的独立",
+        "translation": "我国保证了$RECIPIENT$的独立。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22258,7 +22258,7 @@
     {
         "key": "REVOKEGUARATOUS_SETUP:0",
         "original": "When another country revokes their guarantee towards us.",
-        "translation": "当某国撤消对我国的保证独立",
+        "translation": "当其它国家撤消对我国的保证独立时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22274,15 +22274,15 @@
     {
         "key": "REVOKEGUARATOUS_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "REVOKEGUARATOUS_2:0",
         "original": "$MONARCHTITLE$, we were sad to discover that $ACTOR$ has",
-        "translation": "$MONARCHTITLE$，很遗憾，$ACTOR$撤消了对我们的",
+        "translation": "$MONARCHTITLE$，我们遗憾地发现$ACTOR$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22290,7 +22290,7 @@
     {
         "key": "REVOKEGUARATOUS_3:0",
         "original": "REVOKED their guarantee",
-        "translation": "独立保证",
+        "translation": "撤消了对我们的独立保证",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22298,7 +22298,7 @@
     {
         "key": "REVOKEGUARATOUS_5:0",
         "original": "Well we don't need their help anyway.",
-        "translation": "我们不需要这种懦夫的独立保证",
+        "translation": "无论如何，我们不需要他们的帮助。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22306,7 +22306,7 @@
     {
         "key": "REVOKEGUARATOUS_LOG:0",
         "original": "$ACTOR$ has revoked our guarantee.",
-        "translation": "$ACTOR$撤消了对我们的独立保证",
+        "translation": "$ACTOR$撤消了对我们的独立保证。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22346,7 +22346,7 @@
     {
         "key": "REVOKEGUARATOOTHER_SETUP:0",
         "original": "When a nation revokes a guarantee towards another country.",
-        "translation": "当某国撤消了对另一国的独立保证",
+        "translation": "当某国撤消了对其它国家的独立保证时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22362,8 +22362,8 @@
     {
         "key": "REVOKEGUARATOOTHER_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -22378,15 +22378,15 @@
     {
         "key": "REVOKEGUARATOOTHER_3:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "REVOKEGUARATOOTHER_4:0",
         "original": "has REVOKED their guarantee towards",
-        "translation": "撤消了他们对该国的独立保证：",
+        "translation": "撤消了他们对",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22394,15 +22394,15 @@
     {
         "key": "REVOKEGUARATOOTHER_5:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$的独立保证",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "REVOKEGUARATOOTHER_LOG:0",
         "original": "$ACTOR$ has revoked their guarantee towards $RECIPIENT$.",
-        "translation": "$ACTOR$撤消了对$RECIPIENT$的独立保证",
+        "translation": "$ACTOR$撤消了对$RECIPIENT$的独立保证。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22442,7 +22442,7 @@
     {
         "key": "WEREVOKEGUARAT_SETUP:0",
         "original": "When we revoke our guarantee towards another country.",
-        "translation": "当我国撤消对另一国的独立保证",
+        "translation": "当我国撤消对其它国家的独立保证时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22450,15 +22450,15 @@
     {
         "key": "WEREVOKEGUARAT_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WEREVOKEGUARAT_1:0",
         "original": "Revoked Guarantee",
-        "translation": "独立保证",
+        "translation": "撤销保证",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22474,15 +22474,15 @@
     {
         "key": "WEREVOKEGUARAT_3:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RECIPIENT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "WEREVOKEGUARAT_4:0",
         "original": "should feel unlucky that we no longer feel them worthy enough to have their",
-        "translation": "他们对我国没有价值了",
+        "translation": "应该感到不幸，因为我们不再觉得他们值得",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22490,7 +22490,7 @@
     {
         "key": "WEREVOKEGUARAT_5:0",
         "original": "independence guaranteed by us",
-        "translation": "不值得我们去维护",
+        "translation": "我们保证独立了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -22498,7 +22498,7 @@
     {
         "key": "WEREVOKEGUARAT_LOG:0",
         "original": "We have revoked the guarantee towards $RECIPIENT$.",
-        "translation": "我国撤消了对$RECIPIENT$的独立保证",
+        "translation": "我国撤消了对$RECIPIENT$的独立保证。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
