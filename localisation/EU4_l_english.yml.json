@@ -36522,7 +36522,7 @@
     {
         "key": "IS_NOT_SUPPORTING_HEIR:0",
         "original": "But we are not supporting an heir in $WHO$.",
-        "translation": "但是我们没有在$WHO$支持继承人",
+        "translation": "但是我们没有在$WHO$支持继承人。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -36530,7 +36530,7 @@
     {
         "key": "SUPPORTHEIR_PROGRESS:0",
         "original": "Our candidate will have a §Y$CHANCE$§! chance to gain §G+1§! support each month. Improving diplomatic reputation and relations with the country will increase this chance.",
-        "translation": "我们的候选人每个月将有§Y$CHANCE$§!的几率获得§G+1§!的支持。提升外交声誉或与该国的关系将增加这一几率。",
+        "translation": "我们的候选人每个月将有§Y$CHANCE$§!的几率获得§G+1§!的支持度。提高外交声誉或与该国的关系将增加这一几率。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -36538,7 +36538,7 @@
     {
         "key": "CANCEL_SUPPORTHEIR_PROGRESS:0",
         "original": "Our candidate currently has a §Y$CHANCE$§! chance to gain §G+1§! support each month.",
-        "translation": "目前,我们的候选人每个月有§Y$CHANCE$§!的几率获得§G+1§!的支持",
+        "translation": "我们的候选人目前每个月有§Y$CHANCE$§!的几率获得§G+1§!的支持度。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -36546,7 +36546,7 @@
     {
         "key": "SOH_NONE:0",
         "original": "We currently have no local noble to back as our heir.",
-        "translation": "我们目前没有地方贵族能成为继承人",
+        "translation": "我们目前没有支持地方贵族成为我们的继承人。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -36554,7 +36554,7 @@
     {
         "key": "SOH_NOTELECTIVE:0",
         "original": "We are not an elective monarchy",
-        "translation": "我们不是选王制",
+        "translation": "我们不是选举君主制",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -36562,7 +36562,7 @@
     {
         "key": "SOH_LACKPRESTIGE:0",
         "original": "You need at least §Y$VAL$§! prestige to back a local noble as your heir.",
-        "translation": "你需要需要§Y$VAL$§!点威望才能支持一位地方贵族成为你的继承人。",
+        "translation": "你需要至少§Y$VAL$§!点威望才能支持一位地方贵族成为你的继承人。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
@@ -36570,7 +36570,7 @@
     {
         "key": "SOH_COST:0",
         "original": "Increase support for $NAME|Y$ by $SUPPORT|Y$ as heir, by spending $COST|R$ prestige.",
-        "translation": "通过消耗$COST|R$威望增加$SUPPORT|Y$对$NAME|Y$当继承人的支持。",
+        "translation": "消耗$COST|R$威望提高$SUPPORT|Y$点$NAME|Y$成为继承人的支持度。",
         "stage": 1,
         "context": null,
         "file": "localisation/EU4_l_english.yml"
