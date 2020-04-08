@@ -5778,7 +5778,7 @@
     {
         "key": "IDEAGROUP_2:0",
         "original": "$TITLE$, we unlocked the $TYPE$ idea group.",
-        "translation": "$TITLE$，我们解锁了$TYPE$理念组。",
+        "translation": "$TITLE$，我们解锁了「$TYPE$」理念组。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6554,7 +6554,7 @@
     {
         "key": "SUPPORTHEIR_3:0",
         "original": "supporting an heir of their own house",
-        "translation": "支持一个他们家族的继承人",
+        "translation": "正支持一个他们家族的继承人继承",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6562,7 +6562,7 @@
     {
         "key": "SUPPORTHEIR_4:0",
         "original": "to succeed to the throne of",
-        "translation": "继承该国王位：",
+        "translation": "$RECIPIENT$",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -6570,8 +6570,8 @@
     {
         "key": "SUPPORTHEIR_5:0",
         "original": "$RECIPIENT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "的王位",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
