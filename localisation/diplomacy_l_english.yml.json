@@ -1874,8 +1874,8 @@
     {
         "key": "CANCEL_SUPPORTREBELSDESC:0",
         "original": "\\nThe rebels we support in §Y$COUNTRY$§! are $AMOUNT$ towards an uprising. Our support lasts until §Y$DATE$§!.",
-        "translation": "停止资助叛军",
-        "stage": 5,
+        "translation": "\\n我们在§Y$COUNTRY$§!境内支持的叛军有$AMOUNT$将要掀起叛乱。我们的支持将持续到§Y$DATE$§!。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -1922,8 +1922,8 @@
     {
         "key": "SOW_DISCONTENT_NOIDEA:0",
         "original": "We are lacking the proper ideas to do this.",
-        "translation": "我们缺乏相对应的理念",
-        "stage": 5,
+        "translation": "我们缺乏相应的理念。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -1938,8 +1938,8 @@
     {
         "key": "CANCEL_AGITATEFORLIBERTYDESC:0",
         "original": "Stop agitating for liberty of the target.",
-        "translation": "停止煽动目标独立.",
-        "stage": 5,
+        "translation": "停止煽动目标独立。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -1954,8 +1954,8 @@
     {
         "key": "SOWDISCONTENTDESC:0",
         "original": "Sow discontent among the population of the target.",
-        "translation": "在该国人民心中种下不满的种子",
-        "stage": 5,
+        "translation": "在目标国家的人民中挑动不满情绪。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -1970,8 +1970,8 @@
     {
         "key": "SOWDISCONTENTALREADYPRESENT:0",
         "original": "Their people's discontent has already been stirred.",
-        "translation": "他们人民的不满已经被搅动了",
-        "stage": 5,
+        "translation": "他们人民的不满已经被搅动了。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -1994,8 +1994,8 @@
     {
         "key": "AGITATEFORLIBERTYALREADYPRESENTDESC:0",
         "original": "Someone is agitating them for liberty.",
-        "translation": "有人已经在目标人群中进行煽动活动.",
-        "stage": 5,
+        "translation": "已经有人在目标人群中进行煽动活动。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2866,7 +2866,7 @@
     {
         "key": "LACKING_IDEA:0",
         "original": "We are lacking the proper ideas to do this.",
-        "translation": "我们缺乏相对应的理念。",
+        "translation": "我们缺乏相应的理念。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
