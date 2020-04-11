@@ -1226,16 +1226,16 @@
     {
         "key": "OUT_IS_INTEGRATING:0",
         "original": "Integrating §Y$COUNTRY$§!",
-        "translation": "正在合并 §Y$COUNTRY$§!",
-        "stage": 5,
+        "translation": "正在合并§Y$COUNTRY$§!",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "OUT_BEING_INTEGRATING:0",
         "original": "Being integrated by §Y$COUNTRY$§!",
-        "translation": "正在被 §Y$COUNTRY$§! 合并",
-        "stage": 5,
+        "translation": "正被§Y$COUNTRY$§!合并",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -5482,7 +5482,7 @@
     {
         "key": "HAS_NO_INTEGRATION:0",
         "original": "Has no active integration.",
-        "translation": "无正在进行的合并计划",
+        "translation": "没有正在进行的合并计划。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
