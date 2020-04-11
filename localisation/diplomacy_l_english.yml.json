@@ -2402,8 +2402,8 @@
     {
         "key": "THEY_INCREASE_RELATIONS:0",
         "original": "The following countries are improving relations: $LIST$.",
-        "translation": "下列国家正在加强关系：$LIST$.",
-        "stage": 5,
+        "translation": "下列国家正在改善关系：$LIST$。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2426,8 +2426,8 @@
     {
         "key": "ICON_GRANT_ELECTORATE:0",
         "original": "Grant Electorate",
-        "translation": "给予选举权",
-        "stage": 5,
+        "translation": "授予选帝权",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2474,8 +2474,8 @@
     {
         "key": "ENFORCEPEACE_NOINTERESTWHITEPEACE:0",
         "original": "The target country has no interest to make white peace with this enemy.",
-        "translation": "对方并不想与这个敌人达成无条件和平",
-        "stage": 5,
+        "translation": "对方并不想与这个敌人达成无条件和平。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2594,72 +2594,72 @@
     {
         "key": "IS_FABRICATING_CLAIM:0",
         "original": "Is Fabricating claim.",
-        "translation": "伪造主权中",
-        "stage": 5,
+        "translation": "正在伪造宣称。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "IS_NOT_FABRICATING_CLAIM:0",
         "original": "Is NOT Fabricating claim.",
-        "translation": "未在伪造主权",
-        "stage": 5,
+        "translation": "未在伪造宣称。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "IS_JUSTIFYING_TRADE_CONFLICT:0",
         "original": "Is justifying trade conflict.",
-        "translation": "正在制造贸易争端.",
-        "stage": 5,
+        "translation": "正在制造贸易争端。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "IS_NOT_JUSTIFYING_TRADE_CONFLICT:0",
         "original": "Is NOT justifying trade conflict.",
-        "translation": "没有正在制造贸易争端.",
-        "stage": 5,
+        "translation": "未在制造贸易争端。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "TRADE_LEAGUE_MUST_TRANSFER_TO_LEADER:0",
         "original": "A Trade League member has to Transfer Trade Power to the league leader.",
-        "translation": "一个贸易联盟成员必须将贸易竞争力转移给盟主",
-        "stage": 5,
+        "translation": "贸易联盟成员必须转移贸易竞争力给联盟领袖。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "TRADE_LEAGUE_WILL_TRANSFER_TO_LEADER:0",
         "original": "A Trade League member can't already Transfer Trade Power since it must do so to the league leader.",
-        "translation": "一个贸易联盟成员不能转让贸易竞争力，因为它必须给盟主",
-        "stage": 5,
+        "translation": "贸易联盟成员不能转移贸易竞争力，因为它必须转移贸易竞争力给联盟领袖。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "SUBJECT_MUST_TRANSFER_TO_OVERLORD:0",
         "original": "A $SUBJECT_TYPE$ has to Transfer Trade Power to its overlord.",
-        "translation": "一个 $SUBJECT_TYPE$ 已经将贸易竞争力转移给了它的宗主国",
-        "stage": 5,
+        "translation": "$SUBJECT_TYPE$必须转移贸易竞争力给它的宗主国。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "COLONY_MOST_TRANSFER_TO_OVERLORD:0",
         "original": "A colony has to Transfer Trade Power to its overlord.",
-        "translation": "殖民地需要转移贸易竞争力给母国.",
-        "stage": 5,
+        "translation": "殖民领必须转移贸易竞争力给它的宗主国。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "NO_COMMON_TRADE_NODE:0",
         "original": "Doesn't share trade power in any trade node.",
-        "translation": "不存在双方都具有贸易竞争力的贸易节点.",
-        "stage": 5,
+        "translation": "不存在双方都具有贸易竞争力的贸易节点。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2690,7 +2690,7 @@
     {
         "key": "CANT_TRANSFER_TRADE_POWER_SUBJECT_TYPE:0",
         "original": "A $SUBJECTTYPE$ can only Transfer Trade Power to its Overlord.",
-        "translation": "一个$SUBJECTTYPE$只能将贸易竞争力转移给它的宗主国。",
+        "translation": "$SUBJECTTYPE$只能转移贸易竞争力给它的宗主国。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -2698,8 +2698,8 @@
     {
         "key": "CANT_TRANSFER_TRADE_POWER_PROTECTORATE:0",
         "original": "A protectorate can only Transfer Trade Power to its overlord.",
-        "translation": "受保护国只能给他的母国转移贸易竞争力.",
-        "stage": 5,
+        "translation": "受保护国只能转移贸易竞争力给他的宗主国。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2714,8 +2714,8 @@
     {
         "key": "DIP_FABRICATE_TIME:0",
         "original": "Days until claim is fabricated: §Y$VAL$§W",
-        "translation": "主权伪造完成时间：§Y$VAL$§W",
-        "stage": 5,
+        "translation": "宣称伪造完成时间：§Y$VAL$§W",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2730,16 +2730,16 @@
     {
         "key": "SPYACTIONSAGAINST:0",
         "original": "Is currently the target of covert actions by $LIST$.",
-        "translation": "现有秘密活动对象：$LIST$.",
-        "stage": 5,
+        "translation": "现有秘密活动对象：$LIST$。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "NO_MODIFIERS:0",
         "original": "No Modifiers.",
-        "translation": "无修正",
-        "stage": 5,
+        "translation": "无修正。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2762,7 +2762,7 @@
     {
         "key": "JUSTIFY_TRADE_CONFLICT:0",
         "original": "Justify Trade Conflict",
-        "translation": "制造贸易冲突",
+        "translation": "制造贸易争端",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
