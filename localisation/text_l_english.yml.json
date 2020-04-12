@@ -33682,7 +33682,7 @@
     {
         "key": "IS_NOT_ON_THE_CONTINET:0",
         "original": " is NOT on the continent ",
-        "translation": "不在此大陆",
+        "translation": "不位于大陆",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -33690,7 +33690,7 @@
     {
         "key": "IS_ON_THE_CONTINET:0",
         "original": " is on the continent ",
-        "translation": "在此大陆",
+        "translation": "位于大陆",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -33714,7 +33714,7 @@
     {
         "key": "IS_NOT_IN_THE_SUPERREGION:0",
         "original": "$PROVINCE|Y$ is NOT in the $SUPERREGION|Y$ superregion",
-        "translation": "$PROVINCE|Y$不属于$SUPERREGION|Y$大区",
+        "translation": "$PROVINCE|Y$不位于大区$SUPERREGION|Y$",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -33722,7 +33722,7 @@
     {
         "key": "IS_IN_THE_SUPERREGION:0",
         "original": "$PROVINCE|Y$ is in the $SUPERREGION|Y$ superregion",
-        "translation": "$PROVINCE|Y$属于$SUPERREGION|Y$大区",
+        "translation": "$PROVINCE|Y$位于大区$SUPERREGION|Y$",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -33730,7 +33730,7 @@
     {
         "key": "IS_NOT_IN_THE_PROVINCEGROUP:0",
         "original": "$PROVINCE|Y$ is NOT in the $PROVINCEGROUP|Y$ province group",
-        "translation": "$PROVINCE|Y$不属于$PROVINCEGROUP|Y$省份组",
+        "translation": "$PROVINCE|Y$不位于省份组$PROVINCEGROUP|Y$",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -33738,7 +33738,7 @@
     {
         "key": "IS_IN_THE_PROVINCEGROUP:0",
         "original": "$PROVINCE|Y$ is in the $PROVINCEGROUP|Y$ province group",
-        "translation": "$PROVINCE|Y$属于$PROVINCEGROUP|Y$省份组",
+        "translation": "$PROVINCE|Y$位于省份组$PROVINCEGROUP|Y$",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -64498,7 +64498,7 @@
     {
         "key": "IS_NOT_IN_THE_REGION:1",
         "original": "is not in the region ",
-        "translation": "不在该地区内：",
+        "translation": "不位于地区",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -64506,7 +64506,7 @@
     {
         "key": "IS_NOT_IN_THE_AREA:1",
         "original": "is not in the area ",
-        "translation": "不在该区域内：",
+        "translation": "不位于区域",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -64514,7 +64514,7 @@
     {
         "key": "IS_IN_REGION:1",
         "original": "is in the region",
-        "translation": "在该地区内：",
+        "translation": "位于地区",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -64522,7 +64522,7 @@
     {
         "key": "IS_IN_AREA:1",
         "original": "is in the area",
-        "translation": "在该区域内：",
+        "translation": "位于区域",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
