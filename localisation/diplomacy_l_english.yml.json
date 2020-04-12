@@ -1570,7 +1570,7 @@
     {
         "key": "CANCEL_TRANSFER_TRADE_POWER_SELECT_DESC_GIVE_CB:0",
         "original": "We'll lose $PRESTIGEHIT|R$ prestige and $WHOS$ opinion about you will be hurt for some years. Since this relation was enforced through a peace deal, $WHO$ will get a Trade Conflict Casus Belli on us.",
-        "translation": "我们将失去$PRESTIGEHIT|R$威望并降低往后几年$WHOS$对我们的看法。由于这种关系是通过强迫签订的合约强制形成的，$WHO$将针对我们获得贸易冲突的宣战理由。",
+        "translation": "我们将失去$PRESTIGEHIT|R$威望并降低往后几年内$WHOS$对我们的看法。由于这种关系是通过强迫签订的合约强制形成的，$WHO$将针对我们获得贸易争端的宣战理由。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -2282,8 +2282,8 @@
     {
         "key": "JUSTIFY_TRADE_CONFLICT_DESC_AT_WAR:0",
         "original": "You cannot start to justify a trade conflict against someone you are at war with.",
-        "translation": "你不能与交战方解决贸易冲突。",
-        "stage": 5,
+        "translation": "不能正当化与交战方贸易争端。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2506,23 +2506,23 @@
     {
         "key": "CANCEL_JUSTIFY_TRADE_CONFLICTTITLE:0",
         "original": "Cancel justify trade conflict",
-        "translation": "取消制造贸易争端",
-        "stage": 5,
+        "translation": "取消正当化贸易争端",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "CANCEL_JUSTIFY_TRADE_CONFLICTDESC:0",
         "original": "Stop trying to justify a trade conflict",
-        "translation": "停止尝试去制造贸易争端",
-        "stage": 5,
+        "translation": "停止尝试正当化贸易争端",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "JUSTIFY_TRADE_CONFLICT_SELECT_DESC:1",
         "original": "Justify Trade Conflict will reduce the size of our $ADJ|Y$ Spy Network by $COST|R$ and give us a Trade Conflict Casus Belli.",
-        "translation": "制造贸易争端将使我们在$ADJ|Y$的间谍网规模减少$COST|R$，给予我们贸易争端的宣战理由。",
+        "translation": "正当化贸易争端将使我们在$ADJ|Y$的间谍网规模减少$COST|R$，给予我们贸易争端的宣战理由。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -2562,8 +2562,8 @@
     {
         "key": "MODIFIER_JUSTIFY_TRADE_CONFLICT_TIME:0",
         "original": "Cost to justify trade conflict",
-        "translation": "制造贸易争端时间",
-        "stage": 5,
+        "translation": "正当化贸易争端耗时",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -2578,15 +2578,15 @@
     {
         "key": "CANCEL_JUSTIFY_TRADE_CONFLICT_REQUEST:0",
         "original": "Do you wish to recall your diplomat justifying a trade conflict, thereby ending the attempt?",
-        "translation": "你想召回正在制造贸易争端的外交官,这样这个计划将会被终止.",
-        "stage": 5,
+        "translation": "你确定要召回正在正当化贸易争端的外交官吗？这样这个计划将会被终止。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "ALREADY_JUSTIFIED_TRADE_CONFLICT:0",
         "original": "We already have a §YTrade Conflict§! Casus Belli against §Y$TARGET$§!. It is valid until §Y$DATE$§!.",
-        "translation": "你对§Y$TARGET$§!已经拥有§Y贸易冲突§!的宣战理由。这将持续到§Y$DATE$§!。",
+        "translation": "你已经拥有对§Y$TARGET$§!§的!§Y贸易争端§!的宣战理由。§Y$DATE$§!前有效。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -2610,7 +2610,7 @@
     {
         "key": "IS_JUSTIFYING_TRADE_CONFLICT:0",
         "original": "Is justifying trade conflict.",
-        "translation": "正在制造贸易争端。",
+        "translation": "正在正当化贸易争端。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -2618,7 +2618,7 @@
     {
         "key": "IS_NOT_JUSTIFYING_TRADE_CONFLICT:0",
         "original": "Is NOT justifying trade conflict.",
-        "translation": "未在制造贸易争端。",
+        "translation": "未在正当化贸易争端。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -2762,7 +2762,7 @@
     {
         "key": "JUSTIFY_TRADE_CONFLICT:0",
         "original": "Justify Trade Conflict",
-        "translation": "制造贸易争端",
+        "translation": "正当化贸易争端",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"

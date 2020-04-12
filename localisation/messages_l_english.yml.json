@@ -10010,7 +10010,7 @@
     {
         "key": "JUSTIFYTRADECONFLICT_TITLE:0",
         "original": "Trade Conflict Justified",
-        "translation": "调节贸易冲突",
+        "translation": "贸易争端正当化",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -10194,7 +10194,7 @@
     {
         "key": "JUSTIFYTRADECONFLICTME_TITLE:0",
         "original": "Trade Conflict Justified",
-        "translation": "贸易争端制造成功",
+        "translation": "贸易争端正当化",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -10202,7 +10202,7 @@
     {
         "key": "JUSTIFYTRADECONFLICTME_SETUP:0",
         "original": "When we justify a trade conflict against another country.",
-        "translation": "当我们制造了与他国的贸易争端时。",
+        "translation": "当我们正当化了与另一国家的贸易争端时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -10218,7 +10218,7 @@
     {
         "key": "JUSTIFYTRADECONFLICTME_1:0",
         "original": "Trade Conflict Justified",
-        "translation": "贸易争端制造成功",
+        "translation": "贸易争端正当化",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -10226,7 +10226,7 @@
     {
         "key": "JUSTIFYTRADECONFLICTME_2:0",
         "original": "$MONARCHTITLE$, we have justified a trade conflict against",
-        "translation": "$MONARCHTITLE$，我们已经成功制造了",
+        "translation": "$MONARCHTITLE$，我们已经成功正当化了",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -10250,7 +10250,7 @@
     {
         "key": "JUSTIFYTRADECONFLICTME_LOG:0",
         "original": "We justified a trade conflict against $RECIPIENT$.",
-        "translation": "我们制造了针对$RECIPIENT$的贸易争端。",
+        "translation": "我们正当化了针对$RECIPIENT$的贸易争端。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -10282,7 +10282,7 @@
     {
         "key": "JUSTIFYTRADECONFLICTTHEM_TITLE:0",
         "original": "Trade Conflict Justified",
-        "translation": "贸易争端制造成功",
+        "translation": "贸易争端正当化",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -10290,7 +10290,7 @@
     {
         "key": "JUSTIFYTRADECONFLICTTHEM_SETUP:0",
         "original": "When another country justifies a trade conflict against us.",
-        "translation": "当另一个国家制造了针对我们的贸易争端时。",
+        "translation": "当另一国家正当化了针对我们的贸易争端时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -10306,7 +10306,7 @@
     {
         "key": "JUSTIFYTRADECONFLICTTHEM_1:0",
         "original": "Trade Conflict Justified",
-        "translation": "贸易争端制造成功",
+        "translation": "贸易争端正当化",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -10330,7 +10330,7 @@
     {
         "key": "JUSTIFYTRADECONFLICTTHEM_4:0",
         "original": "have justified a trade conflict against us.",
-        "translation": "已经制造了针对我们的贸易争端。",
+        "translation": "已经正当化了针对我们的贸易争端。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -10346,7 +10346,7 @@
     {
         "key": "JUSTIFYTRADECONFLICTTHEM_LOG:0",
         "original": "$WHO$ justified a trade conflict against us.",
-        "translation": "$WHO$ 制造了针对我们的贸易争端。",
+        "translation": "$WHO$正当化了针对我们的贸易争端。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -12842,8 +12842,8 @@
     {
         "key": "EVILWEDISCOVEREDFABRICATECLAIM_6:0",
         "original": "$RESULT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RESULT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -12882,7 +12882,7 @@
     {
         "key": "EVILWEDISCOVEREDFABRICATECLAIM_MAP:0",
         "original": "Agent Discovered!",
-        "translation": "间谍被发现",
+        "translation": "间谍被发现！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -12890,7 +12890,7 @@
     {
         "key": "EVILDISCOVEREDUSJUSTIFYTRADECONFLICT_TITLE:0",
         "original": "Our Agent is Discovered!",
-        "translation": "我们的间谍发现！",
+        "translation": "我们的间谍被发现！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -12898,7 +12898,7 @@
     {
         "key": "EVILDISCOVEREDUSJUSTIFYTRADECONFLICT_SETUP:0",
         "original": "When someone discovers us Justifying a trade conflict.",
-        "translation": "当他国发现我国正进行贸易纠纷合法化时。",
+        "translation": "当某国发现我国正在正当化一个贸易争端时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -12906,8 +12906,8 @@
     {
         "key": "EVILDISCOVEREDUSJUSTIFYTRADECONFLICT_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -12930,15 +12930,15 @@
     {
         "key": "EVILDISCOVEREDUSJUSTIFYTRADECONFLICT_3:0",
         "original": "$TARGET$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$TARGET$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "EVILDISCOVEREDUSJUSTIFYTRADECONFLICT_4:0",
         "original": "has been discovered by $WHO$ while justifying a trade conflict against",
-        "translation": "的间谍在对$LOCATION$进行贸易纠纷合法化时",
+        "translation": "的间谍在正当化与$LOCATION$的贸易争端时",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -12954,8 +12954,8 @@
     {
         "key": "EVILDISCOVEREDUSJUSTIFYTRADECONFLICT_6:0",
         "original": "$RESULT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RESULT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -12994,7 +12994,7 @@
     {
         "key": "EVILDISCOVEREDUSJUSTIFYTRADECONFLICT_MAP:0",
         "original": "Agent Discovered!",
-        "translation": "间谍被发现",
+        "translation": "间谍被发现！",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13010,7 +13010,7 @@
     {
         "key": "EVILWEDISCOVEREDJUSTIFYTRADECONFLICT_SETUP:0",
         "original": "When we discover someone trying to justify a trade conflict against us.",
-        "translation": "当我国发现他国正在对我国进行贸易纠纷合法化时。",
+        "translation": "当我国发现某国正在正当化与我国的贸易争端时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13018,8 +13018,8 @@
     {
         "key": "EVILWEDISCOVEREDJUSTIFYTRADECONFLICT_HEADER:0",
         "original": "$MESSENGER$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$MESSENGER$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -13058,7 +13058,7 @@
     {
         "key": "EVILWEDISCOVEREDJUSTIFYTRADECONFLICT_5:0",
         "original": "against $LOCATION$.",
-        "translation": "针对$LOCATION$进行贸易纠纷合法化。",
+        "translation": "正当化与$LOCATION$的贸易争端。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -13066,8 +13066,8 @@
     {
         "key": "EVILWEDISCOVEREDJUSTIFYTRADECONFLICT_6:0",
         "original": "$RESULT$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$RESULT$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
@@ -13107,7 +13107,7 @@
         "key": "EVILWEDISCOVEREDJUSTIFYTRADECONFLICT_MAP:0",
         "original": "Agent Discovered!",
         "translation": "间谍被发现！",
-        "stage": 5,
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
