@@ -5410,23 +5410,23 @@
     {
         "key": "NOCLAIMISREGENCY:0",
         "original": "While we have a Regency Council, we cannot claim the throne.",
-        "translation": "摄政议会不可宣称他国王位",
-        "stage": 5,
+        "translation": "摄政议会期间不能宣称他国王位。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "WEWARSUBSIDIES:0",
         "original": "We give subsidies.",
-        "translation": "我们给予战争补助.",
-        "stage": 5,
+        "translation": "我们提供了战争援助。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "WENOTWARSUBSIDIES:0",
         "original": "We do NOT give any subsidies!",
-        "translation": "我们并未给予任何战争补助",
+        "translation": "我们未提供任何战争援助！",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -5570,7 +5570,7 @@
     {
         "key": "IS_IMPROVE_RELATIONS:0",
         "original": "Is Improving relations with $WHO$.",
-        "translation": "正试图与$WHO$改善关系",
+        "translation": "正与$WHO$改善关系。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -5578,7 +5578,7 @@
     {
         "key": "IS_NOT_IMPROVE_RELATIONS:0",
         "original": "Is NOT Improving relations with $WHO$.",
-        "translation": "并不在与$WHO$改善关系",
+        "translation": "未与$WHO$改善关系。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
@@ -5842,24 +5842,24 @@
     {
         "key": "VASSAL_CREATE_DESC:0",
         "original": "$COUNTRY|Y$ will become a vassal with the following provinces: $LIST$.",
-        "translation": "藩属国$COUNTRY|Y$成立后，将被授予以下省份：$LIST$.",
-        "stage": 5,
+        "translation": "$COUNTRY|Y$将成为一个附庸，拥有以下省份：$LIST$。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "HAVE_FLEET_BASING:0",
         "original": "We have Fleet Basing Rights to their nation.",
-        "translation": "我国拥有此国的舰队通行权",
-        "stage": 5,
+        "translation": "我国拥有此国的舰队通行权。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "HAVE_NOT_FLEET_BASING:0",
         "original": "We do NOT have Fleet Basing Rights to their nation.",
-        "translation": "我国没有此国的舰队通行权",
-        "stage": 5,
+        "translation": "我国没有此国的舰队通行权。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -5890,40 +5890,40 @@
     {
         "key": "IS_GUARANTEE_NO_WAR:0",
         "original": "You cannot declare war on a country you have guaranteed.",
-        "translation": "你不能向被你保证独立国家宣战.",
-        "stage": 5,
+        "translation": "不能向被你保证独立的国家宣战。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "REVOKEGUARANTTITLE:0",
         "original": "Revoke Guarantee",
-        "translation": "解除独立保护",
-        "stage": 5,
+        "translation": "撤销独立保证",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "HASNOTGUARANT:0",
         "original": "We are NOT guaranteeing them.",
-        "translation": "我们并未给予他们独立保护",
-        "stage": 5,
+        "translation": "我们并未保证他们的独立。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "REVOKEGUARANTDESC:0",
         "original": "Revoke guarantee so that we no longer will be called to a war against a country who attacks them.",
-        "translation": "解除独立保护后，我国就无法保护此国不受侵略了。",
-        "stage": 5,
+        "translation": "撤销独立保证后，我们将不再保证他们免受他国侵略了。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
     {
         "key": "REVOKEGUARANTNEWDESC:0",
         "original": "Do you wish to revoke our guarantee for $COUNTRY$? We will no longer be called to a war against a country who attacks them.",
-        "translation": "撤销我们对 $COUNTRY$ 的保证？我们将会不再对那些攻击他们的国家宣战。",
-        "stage": 5,
+        "translation": "撤销我们对$COUNTRY$的独立保证？我们将不再保证他们免受他国侵略了。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -5938,8 +5938,8 @@
     {
         "key": "GRANTELECTORATEREQDESC:0",
         "original": "$ACTOR$ offers us an Electorate position in the Holy Roman Empire. By accepting we will be able to vote for the next emperor.",
-        "translation": "$ACTOR$给予我们选帝侯地位，我国可以凭此投票选举下任皇帝.",
-        "stage": 5,
+        "translation": "$ACTOR$授予我们神圣罗马帝国选帝侯的地位。接受后我们将可以投票选举下任皇帝。",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
@@ -5978,8 +5978,8 @@
     {
         "key": "revoke_elector_opinion:0",
         "original": "Revoked Electorate",
-        "translation": "收回选帝侯地位",
-        "stage": 5,
+        "translation": "撤销选帝侯地位",
+        "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
     },
