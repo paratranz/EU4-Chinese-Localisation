@@ -1474,7 +1474,7 @@
     {
         "key": "BLOCK_OFFENSIVE_WARS_DESC:0",
         "original": "Unchecking this box will prevent §Y$COUNTRY$§! from calling you into any of their offensive wars. However, doing so will also prevent the accumulation of any Favors and might end the alliance if they think they can manage without you.",
-        "translation": "取消选中此框将防止§Y$COUNTRY$§!把你拖入他发起的进攻战争之中。 但是，这样一来你也无法累计对方的人情，并有可能导致对方发现不需要你后终止盟约。",
+        "translation": "取消选中此框将防止§Y$COUNTRY$§!把你拖入他发起的进攻战争之中。但是，这样一来你也无法累计对方的人情，并有可能导致对方发现不需要你后终止盟约。",
         "stage": 1,
         "context": null,
         "file": "localisation/cossacks_l_english.yml"
@@ -1538,7 +1538,7 @@
     {
         "key": "PREPARE_WAR_CANNOT_ALREADY_PREPARING_US:0",
         "original": "§R§Y$COUNTRY$§! is Preparing for War at our request. They will not start any wars of their own and are more willing to join our wars until $DATE|Y$.§!",
-        "translation": "§R§Y$COUNTRY$§!在我们的要求下已经开始备战。 直到$DATE|Y$之前他们都不会自己发动战争并更愿意加入我们的战争。§!",
+        "translation": "§R§Y$COUNTRY$§!在我们的要求下已经开始备战。直到$DATE|Y$之前他们都不会自己发动战争并更愿意加入我们的战争。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/cossacks_l_english.yml"
@@ -2162,7 +2162,7 @@
     {
         "key": "desc_tengri_local_plight:0",
         "original": "A series of bad events has made life hard in this province. While we are sure that things are improving after our attempts to remedy this using the proper Tengri rituals it is clear that the locals have been less pleased by our efforts.",
-        "translation": "一系列不良事件使得这个省份的生活变得艰苦。 虽然我们确信情况在我们举行了适当的长生天仪式进行补救后获得了改善。但很明显，当地人对我们的努力没有那么高兴。",
+        "translation": "一系列不良事件使得这个省份的生活变得艰苦。虽然我们确信情况在我们举行了适当的长生天仪式进行补救后获得了改善。但很明显，当地人对我们的努力没有那么高兴。",
         "stage": 1,
         "context": null,
         "file": "localisation/cossacks_l_english.yml"
@@ -4682,7 +4682,7 @@
     {
         "key": "tengri_events.58.d:1",
         "original": "The idea that 'All events whatsoever are governed by the secret counsel of God' is held dearly among the members of the Reformed church in our country. So much so that it has come to spread beyond to those that wouldn't be considered Christians by any definition. Whether it is due to this or not lately many of our subjects seem unusually eager to outdo themselves. Be it in areas of governance or economy.",
-        "translation": "「在永恒中，上帝就按其至圣至智的旨意，自由不变地预定了将来所要发生的一切」——加尔文所提出的预定论不只在归正宗信徒中广受支持，甚至是不信者也深信不疑。 不知是否因为这个原因，在经济、政治领域上，许多的臣民超越自己都做出了卓越的贡献。",
+        "translation": "「在永恒中，上帝就按其至圣至智的旨意，自由不变地预定了将来所要发生的一切」——加尔文所提出的预定论不只在归正宗信徒中广受支持，甚至是不信者也深信不疑。不知是否因为这个原因，在经济、政治领域上，许多的臣民超越自己都做出了卓越的贡献。",
         "stage": 1,
         "context": null,
         "file": "localisation/cossacks_l_english.yml"
@@ -5258,7 +5258,7 @@
     {
         "key": "native_policy_hostile_desc:0",
         "original": "We will treat the natives ruthlessly from now on. This will increase the frequency of their raids, but also allow our colony to grow faster.",
-        "translation": "选择这个选项意味着从现在开始我们将强势弹压原住民。 这将会增加他们袭击的频率，但我们的殖民地也会发展得更快。",
+        "translation": "选择这个选项意味着从现在开始我们将强势弹压原住民。这将会增加他们袭击的频率，但我们的殖民地也会发展得更快。",
         "stage": 1,
         "context": null,
         "file": "localisation/cossacks_l_english.yml"
@@ -9042,7 +9042,7 @@
     {
         "key": "church_estate_events.9.d:0",
         "original": "There has always been some discrepancy between the religion actually taught and defended by the $ESTATE_CHURCH$ and the actual faith of the people in the provinces. Most of the time the differences are small enough that the $ESTATE_CHURCH$ chooses to ignore them to instead focus on reinforce the more orthodox spiritual ideas of the people.\\nIt seems, however, that certain ideas that are quite unorthodox, if rooted in old traditions, have begun to spread together with the [Root.Religion.GetName] faith among our non-[Root.Religion.GetName] subjects. The resulting mix of old heathen ideas, popular superstitions and the actual [Root.Religion.GetName] itself has been quite too much for the $ESTATE_CHURCH$ to stomach even if it seems to have made conversion a much more attractive proposition for our heathen subjects.",
-        "translation": "在各省份中，人们所真正信仰的宗教与$ESTATE_CHURCH$所教导与捍卫的宗教，实际上是有差异的。很多时候，这些差异都十分细微，所以$ESTATE_CHURCH$大多选择忽视他们，而更注重加强人民的正统精神观念。\\n似乎正是这些虽然看上去确实不太正统的理念，开始在我们非[Root.Religion.GetName]信仰的臣民中传播[Root.Religion.GetName]信仰，就像植根在了传统文化中一样。 结果这个古老异教思想、流行迷信和真正[Root.Religion.GetName]本身的混合产物，即便它似乎更能吸引异教臣民改变信仰，但也已经超出了$ESTATE_CHURCH$所能容忍的极限。",
+        "translation": "在各省份中，人们所真正信仰的宗教与$ESTATE_CHURCH$所教导与捍卫的宗教，实际上是有差异的。很多时候，这些差异都十分细微，所以$ESTATE_CHURCH$大多选择忽视他们，而更注重加强人民的正统精神观念。\\n似乎正是这些虽然看上去确实不太正统的理念，开始在我们非[Root.Religion.GetName]信仰的臣民中传播[Root.Religion.GetName]信仰，就像植根在了传统文化中一样。结果这个古老异教思想、流行迷信和真正[Root.Religion.GetName]本身的混合产物，即便它似乎更能吸引异教臣民改变信仰，但也已经超出了$ESTATE_CHURCH$所能容忍的极限。",
         "stage": 1,
         "context": null,
         "file": "localisation/cossacks_l_english.yml"
@@ -9074,7 +9074,7 @@
     {
         "key": "church_estate_events.10.d:0",
         "original": "The time has come for the $ESTATE_CHURCH$ to appoint a new leader to assist our [Root.Monarch.GetTitle] in the capital. The likely candidate is an old cleric with a solid history as a prominent member of the $ESTATE_CHURCH$ behind him. He has, however, also acquired many enemies during his life who now hope to see a somewhat younger candidate with a less ugly past be appointed. As [Root.Monarch.GetTitle] it would not be hard to influence this election to the younger candidate who would likely be more loyal. To be seen to meddle in the affairs of the $ESTATE_CHURCH$, however, would very likely weaken the faction in the long run.",
-        "translation": "又到了$ESTATE_CHURCH$指派一名新的领袖来首都辅佐[Root.Monarch.GetTitle]的时候。 可能的候选人是一名年迈的教士，他有可靠的履历、杰出的能力，$ESTATE_CHURCH$是他坚实的后盾。但同时他这一生也树敌颇多，所以一些人更希望挑选一个更年轻的、黑历史更少的候选人来担任这个职务。[Root.Monarch.GetTitle]可以轻易地影响选举，把权利交给更忠诚的年轻候选人。然而，从长远来看，干涉$ESTATE_CHURCH$的事务很可能会削弱这一派系。",
+        "translation": "又到了$ESTATE_CHURCH$指派一名新的领袖来首都辅佐[Root.Monarch.GetTitle]的时候。可能的候选人是一名年迈的教士，他有可靠的履历、杰出的能力，$ESTATE_CHURCH$是他坚实的后盾。但同时他这一生也树敌颇多，所以一些人更希望挑选一个更年轻的、黑历史更少的候选人来担任这个职务。[Root.Monarch.GetTitle]可以轻易地影响选举，把权利交给更忠诚的年轻候选人。然而，从长远来看，干涉$ESTATE_CHURCH$的事务很可能会削弱这一派系。",
         "stage": 1,
         "context": null,
         "file": "localisation/cossacks_l_english.yml"
