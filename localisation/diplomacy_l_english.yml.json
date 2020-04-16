@@ -6426,7 +6426,7 @@
     {
         "key": "PEACE_EFFECT_PRESTIGE_DISHONORABLE:0",
         "original": "$WHO$ gets $PRESTIGE$ additional Prestige due to signing a separate peace while having more than $WS|Y$ War Score in the first $MONTHS$ months of the war.",
-        "translation": "$WHO$在战争开始的$MONTHS$个月，拥有了超过$WS|Y$的战争分数，签署一个单独的和平条约，将额外获得$PRESTIGE$威望。",
+        "translation": "$WHO$在战争的前$MONTHS$个月内且在战争分数超过$WS|Y$的情况下单独媾和，额外获得$PRESTIGE$威望。",
         "stage": 1,
         "context": null,
         "file": "localisation/diplomacy_l_english.yml"
