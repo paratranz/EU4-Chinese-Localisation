@@ -26874,7 +26874,7 @@
     {
         "key": "REGENT_SETUP:0",
         "original": "When a regency takes over your country.",
-        "translation": "当我国进入摄政时期",
+        "translation": "当我国进入摄政期时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -26898,7 +26898,7 @@
     {
         "key": "REGENT_2:1",
         "original": "Our old monarch has decided to die a little too soon. Our Heir is not quite ready to assume the role of monarch",
-        "translation": "我们的老君主去世得太早，继承者因年幼而不足以承担君主的责任。",
+        "translation": "前君主离世过早，我们的继承者因年幼而不足以承担君主的责任。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -26970,7 +26970,7 @@
     {
         "key": "REGENTOTHER_SETUP:0",
         "original": "When a regency takes over another country.",
-        "translation": "当别国进入摄政时期",
+        "translation": "当另一国家进入摄政期时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -26986,15 +26986,15 @@
     {
         "key": "REGENTOTHER_1:0",
         "original": "$ACTOR$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$ACTOR$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
     {
         "key": "REGENTOTHER_2:1",
         "original": "$RMONARCHTITLE$, while their Heir is too young, a",
-        "translation": "$MONARCHTITLE$，因为他们的新国王年龄尚小",
+        "translation": "$RMONARCHTITLE$，由于储君年幼，一个",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -27018,7 +27018,7 @@
     {
         "key": "REGENTOTHER_6:0",
         "original": "This will weaken their diplomacy. Perhaps now is the time to strike?",
-        "translation": "这会削弱他们的外交活动. 也许现在是发起袭击的好时候？",
+        "translation": "这会削弱他们的外交活动。也许现在是进攻的好时机？",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -27026,7 +27026,7 @@
     {
         "key": "REGENTOTHER_LOG:0",
         "original": "A Regent now rules $COUNTRY$.",
-        "translation": "摄政会议统治$COUNTRY$。",
+        "translation": "摄政会议现在统治$COUNTRY$。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -27090,7 +27090,7 @@
     {
         "key": "QUEENREGENT_2:0",
         "original": "Our old monarch has decided to die a little too soon. Our Heir is not quite ready to assume the role of monarch.",
-        "translation": "我们的前任君主过世得有点太早，而我们的储君还未做好成为君王的准备。",
+        "translation": "前君主离世过早，我们的继承者因年幼而不足以承担君主的责任",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -27170,7 +27170,7 @@
     {
         "key": "QUEENREGENTOTHER_SETUP:0",
         "original": "When a Consort takes over another country.",
-        "translation": "当某国过世君主的配偶掌控了国家时。",
+        "translation": "当另一国家过世君主的配偶掌控了国家时。",
         "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
@@ -27202,8 +27202,8 @@
     {
         "key": "QUEENREGENTOTHER_3:0",
         "original": "$QUEENPRINCE$",
-        "translation": "",
-        "stage": 0,
+        "translation": "$QUEENPRINCE$",
+        "stage": 1,
         "context": null,
         "file": "localisation/messages_l_english.yml"
     },
