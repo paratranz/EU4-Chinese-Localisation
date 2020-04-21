@@ -18162,7 +18162,7 @@
     {
         "key": "CONDOTTIERI_TOO_EXPENSIVE:0",
         "original": "$RECIPIENT|Y$ cannot afford to pay $COST|Y$¤ every month.",
-        "translation": "$RECIPIENT|Y$不能承担每月支付$COST|Y$¤.",
+        "translation": "$RECIPIENT|Y$承担不起每月$COST|Y$¤的租金。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18170,7 +18170,7 @@
     {
         "key": "CONDOTTIERI_SUBJECT:0",
         "original": "§R- You cannot rent out Condottieri while you are a subject nation.§!",
-        "translation": "§R-属国不能出租雇佣军。§!",
+        "translation": "§R - 属国不能租赁遣外雇佣军团。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18178,7 +18178,7 @@
     {
         "key": "CONDOTTIERI_OFFER_SUBJECT:0",
         "original": "§R- You cannot rent out Condottieri to a subject nation.§!",
-        "translation": "§R－不能租赁雇佣军给属国。§!",
+        "translation": "§R－不能租赁遣外雇佣军团给属国。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18186,7 +18186,7 @@
     {
         "key": "CONDOTTIERI_OFFER_TRUCE:0",
         "original": "§R- You cannot rent out Condottieri to a nation that is at war with a nation that you have a truce with.§!",
-        "translation": "§R－对方的交战方与你签有休战协议，你不能租赁雇佣军给他们。§!",
+        "translation": "§R－不能租赁遣外雇佣军团给交战方与你签有停战协定的国家。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18202,7 +18202,7 @@
     {
         "key": "SELECT_LEADER_CONDOTTIERI:0",
         "original": "§RThis leader is commanding a Condottieri unit and cannot be reassigned.§!",
-        "translation": "§R这个将领正在指挥遣外雇佣军团，不能被替换.§!",
+        "translation": "§R这个将领正在指挥遣外雇佣军团，不能被替换。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18226,7 +18226,7 @@
     {
         "key": "OFFERCONDOTTIERI_NOLEADER:0",
         "original": "§RThis army does not have a leader.§!",
-        "translation": "§R这支军队没有将领.§!",
+        "translation": "§R这支军队没有将领指挥。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18234,7 +18234,7 @@
     {
         "key": "CONDOTTIERI_MONARCH:0",
         "original": "You cannot rent out an army that is led by an Heir or a Monarch.",
-        "translation": "不能租出继承人或君王指挥的军队.",
+        "translation": "不能租出继承人或君主指挥的军队。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18282,7 +18282,7 @@
     {
         "key": "CONDOTTIERI_BOTH_SIDES_OF_WAR:0",
         "original": "§R -You cannot rent out Condottieri to $RECIPIENT$ because you are already renting out troops to their enemy, $ENEMY$.§!",
-        "translation": "§R -你不能租赁雇佣军给$RECIPIENT$，因为你已经有军队租赁了给他们的敌人$ENEMY$。§!",
+        "translation": "§R - 不能租赁遣外雇佣军团给$RECIPIENT$，因为你已经有军队租赁给了他们的敌人$ENEMY$。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18290,7 +18290,7 @@
     {
         "key": "MAX_CONDOTTIERI_DESC:0",
         "original": "You can rent out a maximum of $VALUE|Y$ units",
-        "translation": "最大能租出$VALUE|Y$个单位.",
+        "translation": "最多只能租出$VALUE|Y$个单位",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18314,7 +18314,7 @@
     {
         "key": "MAX_CONDOTTIERI_MERC_MOD:0",
         "original": "§YAvailable Mercenaries§! further modifies this by: $SUM$\\n",
-        "translation": "§Y可用的雇佣军§! 进一步被修正: $SUM$\\n",
+        "translation": "§Y可用的雇佣军§!受到以下因素的进一步修正：$SUM$\\n",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18322,7 +18322,7 @@
     {
         "key": "MAX_CONDOTTIERI_MERC:0",
         "original": "This value would be furthered modified by any Modifiers to §YAvailable Mercenaries§!.",
-        "translation": "这个数值将被§Y可用的雇佣军§!的修正效果进一步修正.",
+        "translation": "这一数值将受到任意§Y可用的雇佣军§!修正的进一步修正。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
