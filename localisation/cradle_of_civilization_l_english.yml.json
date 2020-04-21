@@ -6754,7 +6754,7 @@
     {
         "key": "DISBAND_UNIT_RETURN_MANPOWER_CAPPED:0",
         "original": "Only $NUMBER|Y$ of its men will return to our manpower pool as we can't exceed our maximum manpower of $MAX|Y$. Mercenaries will not return.",
-        "translation": "只有 $NUMBER|Y$ 人力可以返还到后备人力储备，然而我们不能超过 $MAX|Y$人力最高上限。雇佣兵不会返还人力。",
+        "translation": "由于不能超过$MAX|Y$人力的上限，只有$NUMBER|Y$人力返还到人力池。雇佣兵不会返还人力。",
         "stage": 1,
         "context": null,
         "file": "localisation/cradle_of_civilization_l_english.yml"

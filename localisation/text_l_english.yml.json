@@ -61682,7 +61682,7 @@
     {
         "key": "MOTHBALL_DESC:1",
         "original": "Mothballing can only be used on ships that are currently in port.\\nMothballed fleets will be useless and behave as if the Navy maintenance slider was at zero.\\nThe strength of mothballed ships will go towards 25% over time. It will not repair or move and will cost less each month.\\nAny sailors no longer needed will be returned to our sailor pool.",
-        "translation": "当前位于港口内的船只可以被封存. 在封存期间舰队无法被动用. 被封存的舰队会视为军队维护费被设定为零的情况，它将不具有耐久，不会修复也不能移动，但是每月的花费较少.",
+        "translation": "封存只能用于目前停靠在港口内的舰船。\\n封存期间舰队将无法被动用，表现如同没有海军维护费一样。\\n封存期间舰船的耐久度将随着时间的推移不断趋向25%。它不会受到修复也不能移动，且每月的维护费会降低。\\n多余的海员都将返还到海员池。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -61962,7 +61962,7 @@
     {
         "key": "HAVE_MORE_LOCAL_AUTONOMY_THAN:0",
         "original": "Local Autonomy higher than ",
-        "translation": "本地自治度高于",
+        "translation": "地方自治度高于",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -61970,7 +61970,7 @@
     {
         "key": "HAVE_LESS_LOCAL_AUTONOMY_THAN:0",
         "original": "Local Autonomy lower than ",
-        "translation": "本地自治度低于",
+        "translation": "地方自治度低于",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -62146,7 +62146,7 @@
     {
         "key": "ND_CONTINUE_CUSTOM_NATION_DESC:0",
         "original": "Do you want to delete $NAME$ and create a new nation, or continue customizing $NAME$?",
-        "translation": "你是否想要删除 $NAME$并且创建一个新国家，还是继续自定义 $NAME$？",
+        "translation": "你想删除$NAME$并创建一个新国家，还是想继续自定义$NAME$？",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -62178,7 +62178,7 @@
     {
         "key": "ND_CONFIRM_ABORT_DESC:0",
         "original": "Are you sure you want to delete §Y$NAME$§!?",
-        "translation": "你确定你要删除 §Y$NAME$§!？",
+        "translation": "你确定要删除§Y$NAME$§!？",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -62218,7 +62218,7 @@
     {
         "key": "ND_CONFIRM_CHANGE_DATE_TITLE:0",
         "original": "WARNING!",
-        "translation": "警告!",
+        "translation": "警告！",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -62226,7 +62226,7 @@
     {
         "key": "ND_CONFIRM_CHANGE_DATE_DESC:0",
         "original": "Changing the starting date will delete the Custom Nation(s) you designed.\\n Are you sure you want to do this?",
-        "translation": "改变起始日将会删除掉你自定义国家的原有设定.\\n你确定真要这么干吗？",
+        "translation": "改变开始日期将删掉你设计的自定义国家。\\n你确定真要这么干吗？",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -62234,7 +62234,7 @@
     {
         "key": "ND_CONFIRM_CHANGE_DATE_MP_TITLE:0",
         "original": "WARNING!",
-        "translation": "警告!",
+        "translation": "警告！",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -62242,7 +62242,7 @@
     {
         "key": "ND_CONFIRM_CHANGE_DATE_MP_DESC:0",
         "original": "Changing the starting date will delete all Custom Nations designed by players.\\n Are you sure you want to do this?",
-        "translation": "改变起始日将会删除掉玩家所有自定义国家的原有设定.\\n你确定真要这么干吗？",
+        "translation": "改变开始日期将删掉所有玩家设计的自定义国家。\\n你确定真要这么干吗？",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -62258,7 +62258,7 @@
     {
         "key": "ND_ABORTED_BY_SERVER_DESC:0",
         "original": "Your custom nation was deleted due to the host changing starting date.",
-        "translation": "因为主机改变了起始日，你的自定义国家被删除了.",
+        "translation": "由于主机改变了开始日期，你的自定义国家被删除了。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -62266,7 +62266,7 @@
     {
         "key": "ND_CANNOT_SELECT_IMPASSABLE_TERRAIN:0",
         "original": "§RWasteland cannot be part of your nation.§!",
-        "translation": "§R你的国家不能包含有荒原.§!",
+        "translation": "§R你的国家不能含有荒芜之地。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -62282,7 +62282,7 @@
     {
         "key": "ND_NO_PATH_TO_PROVINCE:0",
         "original": "§RThis province is blocked by inaccessible terrain.§!",
-        "translation": "§R这个省份被无法穿越的地形包围了.§!",
+        "translation": "§R这个省份被无法穿越的地形包围了。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -62290,7 +62290,7 @@
     {
         "key": "ND_PROVINCE_TO_FAR_AWAY:0",
         "original": "§RThis province is too far away from your home provinces.§!",
-        "translation": "§R这个省份离你原有地区的省份太遥远了.§!",
+        "translation": "§R这个省份与你的本土省份距离太过遥远。§!",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
