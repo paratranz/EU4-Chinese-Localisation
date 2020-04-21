@@ -18330,7 +18330,7 @@
     {
         "key": "CONNECT_TO_SHIP_PENDING_CONDOTTIERI:0",
         "original": "You cannot attach a unit to a ship when you have offered to rent it out as Condottieri.",
-        "translation": "你不能使已租出的遣外雇佣军团登船.",
+        "translation": "单位被提议作为遣外雇佣军团出租时不能登船。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -18338,7 +18338,7 @@
     {
         "key": "CONNECT_TO_SHIP_CONDOTTIERI:0",
         "original": "Condottieri can only be attached to ships belonging to the country that is paying for them, and only if the whole unit can fit onto the ship.",
-        "translation": "遣外雇佣军团只能登上出钱雇佣他们的国家的运输船，且须整个单位都能一次性运输才行.",
+        "translation": "遣外雇佣军团只能登上出钱雇佣他们的国家的运输船且整个单位必须能够一次性运输。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -61538,7 +61538,7 @@
     {
         "key": "START_PRIVATEER_MISSION_DESC:0",
         "original": "A fleet on a Privateer mission will sail under the black flag and steal trade power from the other nations in a Trade Node.",
-        "translation": "一支舰队处于私掠任务时，会在贸易节点中偷取其他国家的贸易收入。",
+        "translation": "舰队进行私掠任务时将使用黑色旗帜并偷取那一贸易节点中其他国家的贸易竞争力。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
@@ -61554,7 +61554,7 @@
     {
         "key": "AUTO_TRANSFER_MODE_DESC:0",
         "original": "When Automatic Transportation is enabled, the ship will automatically be used as transportation if any of your armies needs to travel overseas.",
-        "translation": "当打开自动运输时，船只会在你的陆军需要跨海移动时自动的进行运输.",
+        "translation": "启用自动运输后，该船只会在你的陆军需要跨海移动时自动进行运输。",
         "stage": 1,
         "context": null,
         "file": "localisation/text_l_english.yml"
