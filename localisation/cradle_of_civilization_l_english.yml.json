@@ -3987,14 +3987,14 @@
         "key": "trade_policy_events.12.t:0",
         "original": "Spread of Ideas",
         "translation": "思想传播",
-        "stage": 1,
+        "stage": 5,
         "context": null,
         "file": "localisation/cradle_of_civilization_l_english.yml"
     },
     {
         "key": "trade_policy_events.12.d:0",
         "original": "With the exchange of money and trade goods there is often a spread of methods and ideas. With the growth of the [merchant_country.GetAdjective] merchant activity in [institution_province.GetCapitalName] there is a clear influence on local society. As customs and local fashions develop, some long for the older, and according to them better, times.",
-        "translation": "随着商品和货币的交换，思想和技术往往也会传播开来。随着 [merchant_country.GetAdjective] 的商业活动在[institution_province.GetCapitalName]的开展，他也对社会产生了一个明显的影响。一些根深蒂固的传统风俗和潮流正在变化，时代会让他们变得更好。",
+        "translation": "随着商品和货币的交换，思想和技术往往也会传播开来。[merchant_country.GetAdjective]的商业活动在[institution_province.GetCapitalName]增长的同时，也对社会产生了显著影响。一些根深蒂固的传统风俗和潮流正在变化，时代会让他们变得更好。",
         "stage": 1,
         "context": null,
         "file": "localisation/cradle_of_civilization_l_english.yml"
@@ -4002,7 +4002,7 @@
     {
         "key": "trade_policy_events.12.a:0",
         "original": "Our society has only to gain from progress.",
-        "translation": "我们的社会只能从进步中获益。",
+        "translation": "我们的社会只会从进步中获益。",
         "stage": 1,
         "context": null,
         "file": "localisation/cradle_of_civilization_l_english.yml"
@@ -4010,7 +4010,7 @@
     {
         "key": "trade_policy_events.12.b:0",
         "original": "Let us protect traditional [institution_province.culture.GetName] society.",
-        "translation": "让我们保护传统 [institution_province.culture.GetName] 社会.",
+        "translation": "让我们保护传统的[institution_province.culture.GetName]社会。",
         "stage": 1,
         "context": null,
         "file": "localisation/cradle_of_civilization_l_english.yml"
